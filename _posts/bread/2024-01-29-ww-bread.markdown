@@ -3,10 +3,15 @@ layout: post
 title:  "100% Whole Wheat Bread"
 date:   2024-01-29 14:58:47 -0500
 categories: recipes bread
-permalink: /ww-bread
+permalink: /:categories/ww-bread
+image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
 ---
+<!--
+TODO: make the width of an image a variable (declare this in post.html so it can apply to all pages?)
+TODO: use post.html to automatically display page.image at the top, instead of having the line below
+-->
 
-![](/assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg)
+![]({{ page.image }})
 
 This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my freezer for sandwiches. The white vinegar gives it a slight sour flavor, without being too sour like sourdough for my taste. The bread is best served warm, and works great on a savory sandwich or a peanut butter and jelly. I always advocate for gram measurements instead of volume, and it is especially important when baking bread. Please use a scale for this, the volume measurements are just estimations. 
 
@@ -22,25 +27,25 @@ This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my fr
 
 <b>Instructions
 - Add honey, yeast, salt, and warm water to a large mixing bowl, and mix. Let sit for 5 minutes to make sure the yeast is still alive
-![](/assets/Food/Bread/Whole Wheat Bread/ww-1.jpg)
+<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-1.jpg" alt="" width="250"></center>
 
 - Add oil, vinegar, flour, and vital wheat gluten. Combine well, and let rest for 30 minutes. Start with a dough scraper, then switch to your hands. It will feel too dry and crumbly, but it will come together
-![](/assets/Food/Bread/Whole Wheat Bread/ww-2.jpg)
+<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-2.jpg" alt="" width="250"></center>
 
 - 30 minutes later, turn the dough onto the table and knead for 10 minutes. When done, shape the dough into a tight ball, return dough to bowl (seam down), cover with a cloth, and let rise for 1-1.5 hours
-![](/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg)
+<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg" alt="" width="250"></center>
 
 - It will have about doubled after the initial rest
-/assets/Food/Bread/Whole Wheat Bread/ww-4.jpg
+<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-4.jpg" alt="" width="250"></center>
 
 - If doubling the recipe to make 2 loaves: Lightly dust the counter with flour. Divide the dough in half, form each dough into a tight ball, cover, and let rest for 15 minutes. If you're just making 1 loaf, you can skip this intermediary rest
 - Grease a bread pan with cooking spray or olive oil. Shape the dough into a loaf and place in the pan. Optionally, dust the top with flour, and score with a knife or razor blade
-![](/assets/Food/Bread/Whole Wheat Bread/ww-6.jpg)
+<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-6.jpg" alt="" width="250"></center>
 
 - Let rest on the counter for 1-1.5 hours, or in the fridge overnight. It will have about doubled again
-![](/assets/Food/Bread/Whole Wheat Bread/ww-7.jpg)
+<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-7.jpg" alt="" width="250"></center>
 
 - Bake for about 45 minutes at 400F. The bread should release from the pan after a few minutes. If not, continue to bake until it does. If you get it out and the bottom isn't done (it should sound hollow when tapped) bake the bread directly on the bars until the bottom is crispy
-![](/assets/Food/Bread/Whole Wheat Bread/ww-8.jpg)
+<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-8.jpg" alt="" width="250"></center>
 
 - When done, remove loaf from the pan and let cool on a wire rack until completely cooled, at least one hour. Cut into slices, and store in freezer or on the counter. Slicing the loaf upside down makes it easier
