@@ -6,3 +6,8 @@ permalink: /recipes/bread
 ---
 
 This is a link to the [Whole Wheat Bread]({% post_url /bread/2024-01-29-ww-bread %}) recipe
+
+
+<li><a href="{{ post.url }}">{{post.title}}</a></li>
+This is a link to the [Whole Wheat Bread]({% post_url /bread/2024-01-29-ww-bread %}) recipe
+[post.title][post.url]
