@@ -1,6 +1,6 @@
 ---
 layout: recipe-category
-title: Bread
+title: Meatless
 categories: recipes
-permalink: /recipes/bread
+permalink: /recipes/meatless
 ---

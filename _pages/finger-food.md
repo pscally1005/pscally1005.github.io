@@ -1,6 +1,6 @@
 ---
 layout: recipe-category
-title: Bread
+title: Finger Food
 categories: recipes
-permalink: /recipes/bread
+permalink: /recipes/finger-food
 ---

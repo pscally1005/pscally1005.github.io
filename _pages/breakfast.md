@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: recipe-category
 title: Breakfast
 categories: recipes
-permalink: /breakfast
+permalink: /recipes/breakfast
 ---

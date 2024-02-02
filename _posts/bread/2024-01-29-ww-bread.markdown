@@ -2,8 +2,8 @@
 layout: post
 title:  "100% Whole Wheat Bread"
 date:   2024-01-29 14:58:47 -0500
-categories: recipes bread
-permalink: /:categories/ww-bread
+categories: Recipes Bread
+permalink: /recipes/ww-bread
 image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
 ---
 

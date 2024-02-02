@@ -1,6 +1,6 @@
 ---
 layout: recipe-category
-title: Bread
+title: Fish
 categories: recipes
-permalink: /recipes/bread
+permalink: /recipes/fish
 ---

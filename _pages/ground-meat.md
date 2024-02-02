@@ -1,6 +1,6 @@
 ---
 layout: recipe-category
-title: Bread
+title: Ground Meat
 categories: recipes
-permalink: /recipes/bread
+permalink: /recipes/ground-meat
 ---

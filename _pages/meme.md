@@ -1,6 +1,6 @@
 ---
 layout: recipe-category
-title: Bread
+title: Meme Recipes
 categories: recipes
-permalink: /recipes/bread
+permalink: /recipes/meme
 ---

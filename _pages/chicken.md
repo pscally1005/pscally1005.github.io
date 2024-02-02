@@ -1,6 +1,6 @@
 ---
 layout: recipe-category
-title: Bread
+title: Chicken
 categories: recipes
-permalink: /recipes/bread
+permalink: /recipes/chicken
 ---

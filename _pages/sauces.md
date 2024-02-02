@@ -1,6 +1,6 @@
 ---
 layout: recipe-category
-title: Bread
+title: Sauces, etc.
 categories: recipes
-permalink: /recipes/bread
+permalink: /recipes/sauces
 ---
