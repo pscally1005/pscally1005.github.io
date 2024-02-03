@@ -4,62 +4,38 @@ title: Recipes
 permalink: recipes
 ---
 
-<!-- TODO: fix the formatting here -->
-
-<img src="/assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg" alt="" class="recipes-page-image">
-&emsp;  &emsp;  &emsp;
-<img src="/assets/Food/Breakfast/PBJ Muffin/pbj-muffin.jpg" alt="" class="recipes-page-image">
-&emsp;  &emsp;  &emsp;
-<img src="/assets/Food/Chicken/Buffalo/buffalo-cover.jpg" alt="" class="recipes-page-image">
-
-&emsp;  &emsp;  &ensp;
+[![Bread](/assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg){:class="recipes-page-image"}]({% link _pages/bread.md %})
 [Bread]({% link _pages/bread.md %})
-&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &ensp;
+
+[![Bread](/assets/Food/Breakfast/PBJ Muffin/pbj-muffin.jpg){:class="recipes-page-image"}]({% link _pages/breakfast.md %})
 [Breakfast]({% link _pages/breakfast.md %})
-&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &ensp;
+
+[![Chicken](/assets/Food/Chicken/Buffalo/buffalo-cover.jpg){:class="recipes-page-image"}]({% link _pages/chicken.md %})
 [Chicken]({% link _pages/chicken.md %})
 
-<br>
-
-<img src="/assets/Food/Drinks/Hot Chocolate/hot-choc.jpg" alt="" class="recipes-page-image">
-&emsp;  &emsp;  &emsp;
-<img src="/assets/Food/Finger Food/Nuggies/nuggies.jpg" alt="" class="recipes-page-image">
-&emsp;  &emsp;  &emsp;
-<img src="/assets/Food/Fish/Fra Diavolo/fra-diavolo-cover.jpg" alt="" class="recipes-page-image">
-
-&emsp;  &emsp;  &ensp;
+[![Drinks](/assets/Food/Drinks/Hot Chocolate/hot-choc.jpg){:class="recipes-page-image"}]({% link _pages/drinks.md %})
 [Drinks]({% link _pages/drinks.md %})
-&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &ensp;
+
+[![Finger Food](/assets/Food/Finger Food/Nuggies/nuggies.jpg){:class="recipes-page-image"}]({% link _pages/finger-food.md %})
 [Finger Food]({% link _pages/finger-food.md %})
-&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &ensp;
+
+[![Fish](/assets/Food/Fish/Fra Diavolo/fra-diavolo-cover.jpg){:class="recipes-page-image"}]({% link _pages/fish.md %})
 [Fish]({% link _pages/fish.md %})
 
-<br>
-
-<img src="/assets/Food/Ground Meat/Chili/chili-cover.jpg" alt="" class="recipes-page-image">
-&emsp;  &emsp;  &emsp;
-<img src="/assets/Food/Healthier Dessert/Date Brownie/date-brownie-cover.jpg" alt="" class="recipes-page-image">
-&emsp;  &emsp;  &emsp;
-<img src="/assets/Food/Meatless/Kale/kale.jpg" alt="" class="recipes-page-image">
-
-&emsp;  &ensp;
+[![Ground Meat](/assets/Food/Ground Meat/Chili/chili-cover.jpg){:class="recipes-page-image"}]({% link _pages/ground-meat.md %})
 [Ground Meat]({% link _pages/ground-meat.md %})
-&emsp;  &emsp;  &emsp;  &emsp;  &ensp;
+
+[![Healthier Dessert](/assets/Food/Healthier Dessert/Date Brownie/date-brownie-cover.jpg){:class="recipes-page-image"}]({% link _pages/healthier-dessert.md %})
 [Healthier Dessert]({% link _pages/healthier-dessert.md %})
-&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &ensp;
+
+[![Meatless](/assets/Food/Meatless/Kale/kale.jpg){:class="recipes-page-image"}]({% link _pages/meatless.md %})
 [Meatless]({% link _pages/meatless.md %})
 
-<br>
-
-<img src="/assets/Food/Meme/Bolognese/bolognese-oats.jpg" alt="" class="recipes-page-image">
-&emsp;  &emsp;  &emsp;
-<img src="/assets/Food/Protein Powder/Banana Protein/banana-protein-cover.jpg" alt="" class="recipes-page-image">
-&emsp;  &emsp;  &emsp;
-<img src="/assets/Food/Spreads, Sauces, Toppings/Flavored Nut Butters/flavored-pb-cover.jpg" alt="" class="recipes-page-image">
-
-&emsp;  &ensp;
+[![Meme](/assets/Food/Meme/Bolognese/bolognese-oats.jpg){:class="recipes-page-image"}]({% link _pages/meme.md %})
 [Meme]({% link _pages/meme.md %})
-&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &ensp;
+
+[![Protein Powder](/assets/Food/Protein Powder/Banana Protein/banana-protein-cover.jpg){:class="recipes-page-image"}]({% link _pages/protein-powder.md %})
 [Protein Powder]({% link _pages/protein-powder.md %})
-&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &ensp;
+
+[![Sauces, etc.](/assets/Food/Spreads, Sauces, Toppings/Flavored Nut Butters/flavored-pb-cover.jpg){:class="recipes-page-image"}]({% link _pages/sauces.md %})
 [Sauces, etc.]({% link _pages/sauces.md %})
