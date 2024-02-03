@@ -2,7 +2,6 @@ title: pscally1005
 author:
   name: Paul Scally
   email: scallypr@gmail.com
-  # image: /assets/Headshot.jpg
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -21,6 +20,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
 
 # Theme-specific settings
 
@@ -31,7 +31,7 @@ header_pages:
   - _pages/about.md
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+# show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
