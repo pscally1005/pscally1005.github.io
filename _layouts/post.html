@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -31,12 +32,75 @@ layout: base
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <!-- {{ page.image }}
-    <hr>
-    <img src="/assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg" alt="">
-    <img src=page.image alt="">
-    <hr> -->
+
+    <u><b>Nutrition Facts</b></u>
+    <br>
+    {%- if page.ServingSize -%}
+      <b>Serving Size:</b> {{ page.ServingSize }}
+      <br>
+    {%- endif -%}
+    
+    {%- if page.NumServings -%}
+      <b># of Servings:</b> {{ page.NumServings }}
+      <br>
+    {%- endif -%}
+    
+    {%- if page.Calories -%}
+      <b>Calories:</b> {{ page.Calories }}
+      <br>
+    {%- endif -%}
+    
+    {%- if page.Fat -%}
+      <b>Fat:</b> {{ page.Fat }}
+      <br>
+    {%- endif -%}
+    
+    {%- if page.Carbs -%}
+      <b>Carbs:</b> {{ page.Carbs }}
+      <br>
+    {%- endif -%}
+    
+    {%- if page.Sugars -%}
+      <b>Sugars:</b> {{ page.Sugars }}
+      <br>
+    {%- endif -%}
+    
+    {%- if page.Protein -%}
+      <b>Protein:</b> {{ page.Protein }}
+      <br>
+    {%- endif -%}
+    
+    {%- if page.Sodium -%}
+      <b>Sodium:</b> {{ page.Sodium }}
+      <br>
+    {%- endif -%}
+    
+    {%- if page.Fiber -%}
+      <b>Fiber:</b> {{ page.Fiber }}
+      <br>
+    {%- endif -%}
+    <br>
+
+    <!-- TODO: figure out how to only show prep/cook if rest is blank -->
+    {%- if page.Prep!="" AND page.Rest!="" AND page.Cook!="" -%}
+      <b><u>Time</u></b><br>
+      <b>Prep Time:</b> {{ page.Prep }}
+      <br>
+      <b>Rest Time:</b> {{ page.Rest }}
+      <br>
+      <b>Cook Time:</b> {{ page.Cook }}
+      <br>
+    {%- elsif page.Prep!="" AND page.Rest=="" AND page.Cook!=""-%}
+      <b><u>Time</u></b><br>
+      <b>Prep Time:</b> {{ page.Prep }}
+      <br>
+      <b>Cook Time:</b> {{ page.Cook }}
+      <br>
+    {%- endif -%}
+    <br>
+
     {{ content }}
+
   </div>
 
   {%- if site.disqus.shortname -%}

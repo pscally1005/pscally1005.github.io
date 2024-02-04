@@ -5,11 +5,25 @@ date:   2024-01-29 14:58:47 -0500
 categories: Recipes Bread
 permalink: /recipes/ww-bread
 image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
+ServingSize: 1 slice
+NumServings: 22 slices
+Calories: 82.33kcal
+Fat: 0.93g
+Carbs: 14.91g
+Sugars: 0.19g
+Protein: 4.75g
+Sodium: 142.81mg
+Fiber: 2.65g
+Prep: 30min
+Rest: 2hrs
+Cook: 45min
 ---
 
-This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my freezer for sandwiches. The white vinegar gives it a slight sour flavor, without being too sour like sourdough for my taste. The bread is best served warm, and works great on a savory sandwich or a peanut butter and jelly. I always advocate for gram measurements instead of volume, and it is especially important when baking bread. Please use a scale for this, the volume measurements are just estimations. 
+<b><u>Description</u></b>
+<br>
+&emsp; This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my freezer for sandwiches. The white vinegar gives it a slight sour flavor, without being too sour like sourdough for my taste. The bread is best served warm, and works great on a savory sandwich or a peanut butter and jelly. I always advocate for gram measurements instead of volume, and it is especially important when baking bread. Please use a scale for this, the volume measurements are just estimations. 
 
-<b>Ingredients
+<b><u>Ingredients</u></b>
 - 360g (1 ½ cups) water, warm, 110F
 - 10g (1 Tbsp) dry yeast
 - 10g (½ Tbsp) honey, or sugar, optional
@@ -19,7 +33,7 @@ This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my fr
 - 420g (3 ½ cups) whole wheat flour
 - 80g (¾ cup) vital wheat gluten
 
-<b>Instructions
+<b><u>Instructions</u></b>
 - Add honey, yeast, salt, and warm water to a large mixing bowl, and mix. Let sit for 5 minutes to make sure the yeast is still alive
 <br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-1.jpg" alt="" class="instruction-image"></center>
 
