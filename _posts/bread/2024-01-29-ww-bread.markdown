@@ -18,39 +18,39 @@ Prep: 30
 Rest: 120
 Cook: 45
 Description: This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my freezer for sandwiches. The white vinegar gives it a slight sour flavor, without being too sour like sourdough for my taste. The bread is best served warm, and works great on a savory sandwich or a peanut butter and jelly. I always advocate for gram measurements instead of volume, and it is especially important when baking bread. Please use a scale for this, the volume measurements are just estimations. 
----
-
-<b><u>Ingredients</u></b>
-- 360g (1 ½ cups) water, warm, 110F
-- 10g (1 Tbsp) dry yeast
-- 10g (½ Tbsp) honey, or sugar, optional
-- 8g (1 ½ tsp) salt
-- 10g (2 tsp) olive oil
-- 5g (1 tsp) white vinegar, optional, or apple cider vinegar
-- 420g (3 ½ cups) whole wheat flour
-- 80g (¾ cup) vital wheat gluten
-
-<b><u>Instructions</u></b>
+Ingredients: 
+- 360g (1 ½ cups) water, warm, 110F<br>
+- 10g (1 Tbsp) dry yeast<br>
+- 10g (½ Tbsp) honey, or sugar, optional<br>
+- 8g (1 ½ tsp) salt<br>
+- 10g (2 tsp) olive oil<br>
+- 5g (1 tsp) white vinegar, optional, or apple cider vinegar<br>
+- 420g (3 ½ cups) whole wheat flour<br>
+- 80g (¾ cup) vital wheat gluten<br>
+Instructions: 
 - Add honey, yeast, salt, and warm water to a large mixing bowl, and mix. Let sit for 5 minutes to make sure the yeast is still alive
-<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-1.jpg" alt="" class="instruction-image"></center>
+- <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-1.jpg" alt="" class="instruction-image"></center><br>
 
 - Add oil, vinegar, flour, and vital wheat gluten. Combine well, and let rest for 30 minutes. Start with a dough scraper, then switch to your hands. It will feel too dry and crumbly, but it will come together
-<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-2.jpg" alt="" class="instruction-image"></center>
+- <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-2.jpg" alt="" class="instruction-image"></center><br>
 
 - 30 minutes later, turn the dough onto the table and knead for 10 minutes. When done, shape the dough into a tight ball, return dough to bowl (seam down), cover with a cloth, and let rise for 1-1.5 hours
-<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg" alt="" class="instruction-image"></center>
+- <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg" alt="" class="instruction-image"></center><br>
 
 - It will have about doubled after the initial rest
-<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-4.jpg" alt="" class="instruction-image"></center>
+- <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-4.jpg" alt="" class="instruction-image"></center><br>
 
-- If doubling the recipe to make 2 loaves: Lightly dust the counter with flour. Divide the dough in half, form each dough into a tight ball, cover, and let rest for 15 minutes. If you're just making 1 loaf, you can skip this intermediary rest
+- If doubling the recipe to make 2 loaves. Lightly dust the counter with flour. Divide the dough in half, form each dough into a tight ball, cover, and let rest for 15 minutes. If you're just making 1 loaf, you can skip this intermediary rest<br><br>
+
 - Grease a bread pan with cooking spray or olive oil. Shape the dough into a loaf and place in the pan. Optionally, dust the top with flour, and score with a knife or razor blade
-<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-6.jpg" alt="" class="instruction-image"></center>
+- <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-6.jpg" alt="" class="instruction-image"></center><br>
 
 - Let rest on the counter for 1-1.5 hours, or in the fridge overnight. It will have about doubled again
-<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-7.jpg" alt="" class="instruction-image"></center>
+- <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-7.jpg" alt="" class="instruction-image"></center><br>
 
 - Bake for about 45 minutes at 400F. The bread should release from the pan after a few minutes. If not, continue to bake until it does. If you get it out and the bottom isn't done (it should sound hollow when tapped) bake the bread directly on the bars until the bottom is crispy
-<br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-8.jpg" alt="" class="instruction-image"></center>
+- <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-8.jpg" alt="" class="instruction-image"></center><br>
 
 - When done, remove loaf from the pan and let cool on a wire rack until completely cooled, at least one hour. Cut into slices, and store in freezer or on the counter. Slicing the loaf upside down makes it easier
+---
+
