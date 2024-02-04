@@ -33,71 +33,38 @@ layout: base
 
   <div class="post-content e-content" itemprop="articleBody">
 
-    <u><b>Nutrition Facts</b></u>
-    <br>
-    {%- if page.ServingSize -%}
-      <b>Serving Size:</b> {{ page.ServingSize }}
-      <br>
-    {%- endif -%}
-    
-    {%- if page.NumServings -%}
-      <b># of Servings:</b> {{ page.NumServings }}
-      <br>
-    {%- endif -%}
-    
-    {%- if page.Calories -%}
-      <b>Calories:</b> {{ page.Calories }}
-      <br>
-    {%- endif -%}
-    
-    {%- if page.Fat -%}
-      <b>Fat:</b> {{ page.Fat }}
-      <br>
-    {%- endif -%}
-    
-    {%- if page.Carbs -%}
-      <b>Carbs:</b> {{ page.Carbs }}
-      <br>
-    {%- endif -%}
-    
-    {%- if page.Sugars -%}
-      <b>Sugars:</b> {{ page.Sugars }}
-      <br>
-    {%- endif -%}
-    
-    {%- if page.Protein -%}
-      <b>Protein:</b> {{ page.Protein }}
-      <br>
-    {%- endif -%}
-    
-    {%- if page.Sodium -%}
-      <b>Sodium:</b> {{ page.Sodium }}
-      <br>
-    {%- endif -%}
-    
-    {%- if page.Fiber -%}
-      <b>Fiber:</b> {{ page.Fiber }}
-      <br>
-    {%- endif -%}
+    <!-- Nutrition Facts -->
+    <u><b>Nutrition Facts</b></u><br>
+    <b>Serving Size:</b> {{ page.ServingSize }}<br>
+    <b># of Servings:</b> {{ page.NumServings }}<br>
+    <b>Calories:</b> {{ page.Calories }}<br>
+    <b>Fat:</b> {{ page.Fat }}<br>
+    <b>Carbs:</b> {{ page.Carbs }}<br>
+    <b>Sugars:</b> {{ page.Sugars }}<br>
+    <b>Protein:</b> {{ page.Protein }}<br>
+    <b>Sodium:</b> {{ page.Sodium }}<br>
+    <b>Fiber:</b> {{ page.Fiber }}<br>
     <br>
 
-    <!-- TODO: figure out how to only show prep/cook if rest is blank -->
-    {%- if page.Prep!="" AND page.Rest!="" AND page.Cook!="" -%}
-      <b><u>Time</u></b><br>
-      <b>Prep Time:</b> {{ page.Prep }}
-      <br>
-      <b>Rest Time:</b> {{ page.Rest }}
-      <br>
-      <b>Cook Time:</b> {{ page.Cook }}
-      <br>
-    {%- elsif page.Prep!="" AND page.Rest=="" AND page.Cook!=""-%}
-      <b><u>Time</u></b><br>
-      <b>Prep Time:</b> {{ page.Prep }}
-      <br>
-      <b>Cook Time:</b> {{ page.Cook }}
-      <br>
-    {%- endif -%}
+    <!-- Time -->
+    <b><u>Time</u></b><br>
+    {% assign prep_minutes = page.Prep | modulo: 60 %}
+    <b>Prep Time:</b> {% if page.Prep > 60 %}{{ page.Prep | divided_by: 60}} hours{% endif %}{% if prep_minutes > 0 %} {{ prep_minutes }} minutes{% endif %}<br>
+
+    {% assign rest_minutes = page.Rest | modulo: 60 %}
+    <b>Rest Time:</b> {% if page.Rest > 60 %}{{ page.Rest | divided_by: 60}} hours{% endif %}{% if rest_minutes > 0 %} {{ rest_minutes }} minutes{% endif %}<br>
+
+    {% assign cook_minutes = page.Cook | modulo: 60 %}
+    <b>Cook Time:</b> {% if page.Cook > 60 %}{{ page.Cook | divided_by: 60}} hours{% endif %}{% if cook_minutes > 0 %} {{ cook_minutes }} minutes{% endif %}<br>
+
+    {% assign totaltime = page.Prep | plus: page.Rest | plus: page.Cook %}
+    {% assign minutes = totaltime | modulo: 60 %}
+    <b>Total Time:</b> {% if totaltime > 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
     <br>
+    
+    <!-- Description-->
+    <b><u>Description</u></b><br>
+    &emsp; {{ page.Description }}<br><br>
 
     {{ content }}
 

@@ -14,14 +14,11 @@ Sugars: 0.19g
 Protein: 4.75g
 Sodium: 142.81mg
 Fiber: 2.65g
-Prep: 30min
-Rest: 2hrs
-Cook: 45min
+Prep: 30
+Rest: 120
+Cook: 45
+Description: This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my freezer for sandwiches. The white vinegar gives it a slight sour flavor, without being too sour like sourdough for my taste. The bread is best served warm, and works great on a savory sandwich or a peanut butter and jelly. I always advocate for gram measurements instead of volume, and it is especially important when baking bread. Please use a scale for this, the volume measurements are just estimations. 
 ---
-
-<b><u>Description</u></b>
-<br>
-&emsp; This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my freezer for sandwiches. The white vinegar gives it a slight sour flavor, without being too sour like sourdough for my taste. The bread is best served warm, and works great on a savory sandwich or a peanut butter and jelly. I always advocate for gram measurements instead of volume, and it is especially important when baking bread. Please use a scale for this, the volume measurements are just estimations. 
 
 <b><u>Ingredients</u></b>
 - 360g (1 ½ cups) water, warm, 110F
