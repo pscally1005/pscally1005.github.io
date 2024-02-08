@@ -1,34 +1,18 @@
 ---
 layout: post
 title:  "100% Whole Wheat Bread"
-date:   2024-01-29 14:58:47 -0500
+date:   2024-01-29 14:58:00 -0500
 categories: Recipes Bread
 permalink: /recipes/ww-bread
 image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
-ServingSize: 1 slice
-NumServings: 22 slices
-Calories: 82.33kcal
-Fat: 0.93g
-Carbs: 14.91g
-Sugars: 0.19g
-Protein: 4.75g
-Sodium: 142.81mg
-Fiber: 2.65g
+ing: wwbread-ing
+facts: wwbread-facts
 Prep: 30
 Rest: 120
 Cook: 45
 Description: This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my freezer for sandwiches. The white vinegar gives it a slight sour flavor, without being too sour like sourdough for my taste. The bread is best served warm, and works great on a savory sandwich or a peanut butter and jelly. I always advocate for gram measurements instead of volume, and it is especially important when baking bread. Please use a scale for this, the volume measurements are just estimations. 
-Ingredients: 
-- 360g (1 ½ cups) water, warm, 110F<br>
-- 10g (1 Tbsp) dry yeast<br>
-- 10g (½ Tbsp) honey, or sugar, optional<br>
-- 8g (1 ½ tsp) salt<br>
-- 10g (2 tsp) olive oil<br>
-- 5g (1 tsp) white vinegar, optional, or apple cider vinegar<br>
-- 420g (3 ½ cups) whole wheat flour<br>
-- 80g (¾ cup) vital wheat gluten<br>
 Instructions: 
-- Add honey, yeast, salt, and warm water to a large mixing bowl, and mix. Let sit for 5 minutes to make sure the yeast is still alive
+- Add yeast, salt, and warm water to a large mixing bowl, and mix. You can also add 1/2 tbsp (10 g) of honey if you like.  Let sit for 5 minutes to make sure the yeast is still alive
 - <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-1.jpg" alt="" class="instruction-image"></center><br>
 
 - Add oil, vinegar, flour, and vital wheat gluten. Combine well, and let rest for 30 minutes. Start with a dough scraper, then switch to your hands. It will feel too dry and crumbly, but it will come together
@@ -53,4 +37,3 @@ Instructions:
 
 - When done, remove loaf from the pan and let cool on a wire rack until completely cooled, at least one hour. Cut into slices, and store in freezer or on the counter. Slicing the loaf upside down makes it easier
 ---
-

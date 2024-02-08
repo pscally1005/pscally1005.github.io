@@ -33,26 +33,21 @@ layout: base
 
   <div class="post-content e-content" itemprop="articleBody">
 
-    <!-- Nutrition Facts -->
-    <u><b>Nutrition Facts</b></u><br>
-    <b>Serving Size:</b> {{ page.ServingSize }}<br>
-    <b># of Servings:</b> {{ page.NumServings }}<br>
-    <b>Calories:</b> {{ page.Calories }}<br>
-    <b>Fat:</b> {{ page.Fat }}<br>
-    <b>Carbs:</b> {{ page.Carbs }}<br>
-    <b>Sugars:</b> {{ page.Sugars }}<br>
-    <b>Protein:</b> {{ page.Protein }}<br>
-    <b>Sodium:</b> {{ page.Sodium }}<br>
-    <b>Fiber:</b> {{ page.Fiber }}<br>
-    <br>
+    {{ content }}
+    
+    <!-- Description-->
+    <b><u>Description</u></b><br>
+    &emsp; {{ page.Description }}<br><br>
 
     <!-- Time -->
     <b><u>Time</u></b><br>
     {% assign prep_minutes = page.Prep | modulo: 60 %}
     <b>Prep Time:</b> {% if page.Prep > 60 %}{{ page.Prep | divided_by: 60}} hours{% endif %}{% if prep_minutes > 0 %} {{ prep_minutes }} minutes{% endif %}<br>
 
-    {% assign rest_minutes = page.Rest | modulo: 60 %}
-    <b>Rest Time:</b> {% if page.Rest > 60 %}{{ page.Rest | divided_by: 60}} hours{% endif %}{% if rest_minutes > 0 %} {{ rest_minutes }} minutes{% endif %}<br>
+    {% if page.Rest > 0 %}
+      {% assign rest_minutes = page.Rest | modulo: 60 %}
+      <b>Rest Time:</b> {% if page.Rest > 60 %}{{ page.Rest | divided_by: 60}} hours{% endif %}{% if rest_minutes > 0 %} {{ rest_minutes }} minutes{% endif %}<br>
+    {% endif %}
 
     {% assign cook_minutes = page.Cook | modulo: 60 %}
     <b>Cook Time:</b> {% if page.Cook > 60 %}{{ page.Cook | divided_by: 60}} hours{% endif %}{% if cook_minutes > 0 %} {{ cook_minutes }} minutes{% endif %}<br>
@@ -61,20 +56,63 @@ layout: base
     {% assign minutes = totaltime | modulo: 60 %}
     <b>Total Time:</b> {% if totaltime > 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
     <br>
-    
-    <!-- Description-->
-    <b><u>Description</u></b><br>
-    &emsp; {{ page.Description }}<br><br>
 
     <!-- Ingredients -->
-    <b><u>Ingredients</u></b><br>
-    {{ page.Ingredients }}<br><br>
+    <table>
+      {% for row in site.data[page.ing] %}
+          {% if forloop.first %}
+              <tr>
+              {% for pair in row %}
+                  <th>{{ pair[0] }}</th>
+              {% endfor %}
+              </tr>
+          {% endif %}
+      {% endfor %}
+  
+      {% for row in site.data[page.ing] %}
+          {% if forloop.last %}
+  
+          {% else %}
+              {% tablerow pair in row %}
+                  {{ pair[1] }}
+              {% endtablerow %}
+          {% endif %}
+      {% endfor %}
+  </table>
 
     <!-- Instructions -->
     <b><u>Instructions</u></b><br>
     {{ page.Instructions }}<br><br>
 
-    {{ content }}
+    <!-- Servings -->
+    {% assign ser = site.data[page.ing].last %}
+    <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
+
+    <!-- Nutrition Facts -->
+    <table>
+        {% for row in site.data[page.facts] %}
+            {% if forloop.first %}
+                <tr>
+                {% for pair in row %}
+                    <th>{{ pair[0] }}</th>
+                {% endfor %}
+                </tr>
+            {% endif %}
+        {% endfor %}
+
+        {% assign i = 0 %}
+        {% for row in site.data[page.facts] %}
+            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
+                {% tablerow pair in row %}
+                    <b style="color: lightgray">{{ pair[1] }}</b>
+                {% endtablerow %}
+            {% else %}
+                <!-- {% tablerow pair in row %}
+                    <i style="color: gray">{{ pair[1] }}</i>
+                {% endtablerow %} -->
+            {% endif %}
+        {% endfor %}
+    </table>
 
   </div>
 
