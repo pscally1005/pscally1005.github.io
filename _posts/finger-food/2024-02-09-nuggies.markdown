@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Freezer Chicken Nuggets"
+date:   2024-02-09 00:00:00 -0500
+categories: 
+- Recipes
+- Finger Foods
+permalink: /recipes/chicken-nuggets
+image: /assets/Food/Finger Food/Nuggies/nuggies.jpg
+ing: nuggies-ing
+facts: nuggies-facts
+Prep: 30
+Rest: 
+Cook: 14
+Description: These chicken nuggets are great for a meal or snack, and can be reheated in the air fryer straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.
+Instructions: 
+- Preheat your oven to 400°F<br><br>
+
+- Wash and cut all of your vegetables. Peel the sweet potatoes, and cut into smaller pieces so the food processor can blend them. Using a food processor, process your vegetables. You want the potato to be in “riced” form.<br><br>
+
+- In a large bowl, combine together the vegetables, chicken, and the rest of the ingredients<br><br>
+
+- Spray a couple of large sheet pans with oil. Place your meat mixture onto the sheet pan using a cookie scoop or spoon, ensuring you have plenty of space between each nugget. Wet your fingers to prevent sticking and lightly press the balls into a disc with your fingers. You don't want to go too thin or else they will be prone to sticking. You want your nuggets to be about 2 inches in diameter and ¼-½ inch in thickness.<br><br>
+
+- Bake at 400F for 8 minutes and then flip and bake an additional 6 minutes. Transfer to a wire rack to cool as you do the other batches<br><br>
+
+- Once the nuggets have cooled, arrange them onto a sheet pan and place them into the freezer, uncovered until they have frozen solid. This will help them not stick together in the bags.<br><br>
+
+- Once they are frozen solid, transfer them to a zip top bag, remove all of the air and keep them in your freezer.<br><br>
+
+- Reheat using the air fryer at 400°F for about 5 minutes. They just need to thaw and get hot. You can also use the microwave or oven.<br><br>
+---

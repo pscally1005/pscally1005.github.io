@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Peanut Butter & Jelly Muffins"
-date:   2024-02-08 17:39:00 -0500
-categories: Recipes Breakfast
+date:   2024-02-08 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
 permalink: /recipes/pbj-muffin
 image: /assets/Food/Breakfast/PBJ Muffin/pbj-muffin.jpg
 ing: pbjmuffin-ing

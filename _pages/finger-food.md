@@ -1,6 +1,6 @@
 ---
 layout: recipe-category
-title: Finger Food
+title: Finger Foods
 categories: recipes
 permalink: /recipes/finger-food
 ---

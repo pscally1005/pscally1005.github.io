@@ -54,7 +54,7 @@ layout: base
 
     {% assign totaltime = page.Prep | plus: page.Rest | plus: page.Cook %}
     {% assign minutes = totaltime | modulo: 60 %}
-    <b>Total Time:</b> {% if totaltime > 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
+    <b>Total Time:</b> {% if totaltime >= 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
     <br>
 
     <!-- Ingredients -->

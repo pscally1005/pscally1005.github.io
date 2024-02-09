@@ -7,6 +7,7 @@ import csv
 path = r"C:\Users\mets1\Documents\website\_data\*.csv"
 
 # loop through all the files
+changed = 0
 for fname in glob.glob(path):
 
     # only use files that haven't been parsed yet
@@ -22,14 +23,18 @@ for fname in glob.glob(path):
         # get row of blank (separation between 2 tables)
         blank = -1
         with open(temp, newline='') as csvfile:
-            spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+            spamreader = csv.reader(csvfile, delimiter=' ')
             i = 0
             for row in spamreader:
+                # print(', '.join(row))
+                # print(len(row))
                 if(len(row) == 0):
                     blank = i
                     # print(', '.join(row))
                     break
                 i += 1
+
+        # print(blank)
         
         #  now, read from temp file
         with open(temp, 'r') as fin:
@@ -48,3 +53,11 @@ for fname in glob.glob(path):
         # delete original and temp file
         os.remove(fname)
         os.remove(temp)
+            
+        # os.remove(temp)
+        # os.remove(ing)
+        # os.remove(facts)
+
+        changed += 1
+
+print(str(changed) + " files updated")
