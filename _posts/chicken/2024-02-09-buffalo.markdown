@@ -12,6 +12,8 @@ facts: buffalochicken-facts
 Prep: 30
 Rest: 
 Cook: 30
+Source1: https://www.youtube.com/watch?v=kMfz9YTr_5E
+Source2: 
 Description: This dish pairs sautéed pepper and onions, chicken breast, and a spicy and creamy buffalo sauce. These are quick to come together, with just sautéing the chicken and vegetables, pouring in the sauce, and serving with a side of rice
 Instructions: 
 - Mix hot sauce, honey, water, and cornstarch in a medium bowl or tall glass Stir immediately after adding the cornstarch, and set aside. DO NOT add the cottage cheese yet, or the acid of the hot sauce will curdle it. Add the cheese at the end<br><br>
@@ -23,5 +25,5 @@ Instructions:
 - Spray the pan again, and cook the chicken on medium. Cook until chicken is almost done, because the chicken will cook more in the sauce<br><br>
 
 - Add in the sauce and vegetables into the pan, and also add the cottage cheese. Combine and cook for about a minute until creamy. Optionally, top with shredded cheese, or serve with rice
-- <br><br><center><img src="/assets/Food/Chicken/Buffalo/buffalo-5.jpg" alt="" class="instruction-image"></center><br>
+- <br><br><center><img src="/assets/Food/Chicken/Buffalo/buffalo-5.jpg" alt="" class="instruction-image"></center>
 ---

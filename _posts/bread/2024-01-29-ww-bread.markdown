@@ -12,6 +12,8 @@ facts: wwbread-facts
 Prep: 30
 Rest: 120
 Cook: 45
+Source1: 
+Source2: 
 Description: This recipe makes 1 loaf of standard whole wheat bread, and is a staple in my freezer for sandwiches. The white vinegar gives it a slight sour flavor, without being too sour like sourdough for my taste. The bread is best served warm, and works great on a savory sandwich or a peanut butter and jelly. I always advocate for gram measurements instead of volume, and it is especially important when baking bread. Please use a scale for this, the volume measurements are just estimations. 
 Instructions: 
 - Add yeast, salt, and warm water to a large mixing bowl, and mix. You can also add 1/2 tbsp (10 g) of honey if you like.  Let sit for 5 minutes to make sure the yeast is still alive
@@ -26,7 +28,7 @@ Instructions:
 - It will have about doubled after the initial rest
 - <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-4.jpg" alt="" class="instruction-image"></center><br>
 
-- If doubling the recipe to make 2 loaves. Lightly dust the counter with flour. Divide the dough in half, form each dough into a tight ball, cover, and let rest for 15 minutes. If you're just making 1 loaf, you can skip this intermediary rest<br><br>
+- If doubling the recipe to make 2 loaves - Lightly dust the counter with flour. Divide the dough in half, form each dough into a tight ball, cover, and let rest for 15 minutes. If you're just making 1 loaf, you can skip this intermediary rest<br><br>
 
 - Grease a bread pan with cooking spray or olive oil. Shape the dough into a loaf and place in the pan. Optionally, dust the top with flour, and score with a knife or razor blade
 - <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-6.jpg" alt="" class="instruction-image"></center><br>

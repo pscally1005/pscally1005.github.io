@@ -12,6 +12,8 @@ facts: fradiavolo-facts
 Prep: 5
 Rest: 
 Cook: 70
+Source1: 
+Source2: 
 Description: Fra Diavolo sauce is a Christmas classic for me, and was always served over spinach and shrimp, two of my favorite foods. Here, I mixed the spinach right into the sauce, and you can put it on whatever you want, such as chicken if you're not a seafood fan.
 Instructions: 
 - In a medium saucepot, sauteed oil, garlic, and spinach over medium heat for about 5 minutes<br><br>
@@ -25,5 +27,5 @@ Instructions:
 - Add to a pan and cook for 2-3 minutes each side, or until they turn from gray to pink<br><br>
 
 - Serve the shrimp and sauce with pasta if desired
-- <br><br><center><img src="/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg" alt="" class="instruction-image"></center><br>
+- <br><br><center><img src="/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg" alt="" class="instruction-image"></center>
 ---

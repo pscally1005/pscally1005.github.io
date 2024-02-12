@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Oat-Wheat Tortillas"
+date:   2024-02-12 00:00:00 -0500
+categories:
+- Recipes
+- Bread
+permalink: /recipes/tortilla
+image: /assets/Food/Bread/Tortillas/tortilla-cover.jpg
+ing: tortillas-ing
+facts: tortillas-facts
+Prep: 30
+Rest: 15
+Cook: 10
+Source1: https://www.youtube.com/watch?v=Z8N9mxqsjvw
+Source2: 
+Description: These tortillas are made of a healthy blend of oat flour and whole wheat flour, providing a great source of fiber. The applesauce serves to replace butter or oil, and you can't taste it at all, so feel free to top it with some healthy fats like avocado or peanut butter.
+Instructions: 
+- In a bowl, mix together ground oats, whole wheat flour, cornstarch, baking powder and salt. Mix well.<br><br>
+
+- Microwave water in a small mason jar for a minute. Add the hot water and applesauce, and using a spoon, mix until dough starts to form.<br><br>
+
+- Transfer the dough to a floured surface and lightly knead for a minute or 2. Wrap it up in plastic wrap and let rest for 15 minutes.<br><br>
+
+- Cut the dough into 6 equal portions (~72 g each), roll them into balls, cover and let rest for 10 more minutes, covered.<br><br>
+
+- Roll each ball with a rolling pin into a round shape tortilla. Roll as thin as possible
+- <br><br><center><img src="/assets/Food/Bread/Tortillas/tortilla-5.jpg" alt="" class="instruction-image"></center><br>
+
+- Cook on dry stainless steel 10" skillet over high heat (~7.5) for about 30-45 seconds per side, or until bubbles start to form and lightly browned on the bottom.<br><br>
+
+- Cover your tortillas with clean kitchen towel to keep warm and soft.<br><br>
+
+- When cooled, transfer to a bag and store in fridge or freezer
+---

@@ -12,6 +12,8 @@ facts: datebrownie-facts
 Prep: 10
 Rest: 
 Cook: 30
+Source1: https://hangryeconomist.com/date-brownies/
+Source2: 
 Description: These date brownies are my favorite healthy baked dessert I've ever made, and one you can certainly serve to a crowd without people realizing they're healthy. These brownies are much more than just a healthy substitute for the real deal, as they lead me to deleting my classic brownie recipe after tasting them.
 Instructions: 
 - Preheat the oven to 350F and line an 8" square pan with parchment paper. Spray the parchment paper<br><br>
@@ -25,5 +27,5 @@ Instructions:
 
 - Let cool completely before slicing<br><br>
 
-- Can also bake as mini muffins for 20 minutes. Makes about 24 mini muffins<br><br>
+- Can also bake as mini muffins for 20 minutes. Makes about 24 mini muffins
 ---

@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Whole Wheat Pita Bread"
+date:   2024-02-12 00:00:00 -0500
+categories:
+- Recipes
+- Bread
+permalink: /recipes/ptia
+image: /assets/Food/Bread/Pita/pita-cover.jpg
+ing: pita-ing
+facts: pita-facts
+Prep: 15
+Rest: 120
+Cook: 20
+Source1: 
+Source2: 
+Description: Pita bread is probably my favorite type of bread. They're specifically designed for sandwiches, taste great, and are light and fluffy. This whole wheat variety shares all those qualities, while adding some extra fiber and removing heavily processed white flour. My favorite use is for a grilled chicken Greek salad sandwich
+Instructions: 
+- Mix warm water, salt, yeast, oil, and honey in a large bowl. Let proof for 5 minutes to make sure the yeast is alive<br><br>
+
+- Add in the oil and flours, and bring together with a dough scraper. Lightly knead for a minute to fully mix everything. Cover and let rest for 20 minutes to autolyze
+- <br><br><center><img src="/assets/Food/Bread/Pita/pita-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Turn dough onto the non floured counter and knead for ~8 minutes. Let rest for 3 minutes, then shape into a ball. Return to the bowl, cover with a cloth, and let rise for 1 hour (should be about doubled in size)
+- <br><br><center><img src="/assets/Food/Bread/Pita/pita-3.jpg" alt="" class="instruction-image"></center><br>
+
+- Preheat the oven to 500F. Turn dough onto the surface and divide into 10 pieces, ~90 g each. Roll each into a smooth ball, cover, and let rest for 10 minutes<br><br>
+
+- Using a rolling pin (or your hands) roll each ball to about ¼ inch thick. Place 3 onto an ungreased cookie sheet, and bake for 4-5 minutes. For even better results, bake the pitas on a preheated pizza stone instead
+- <br><br><center><img src="/assets/Food/Bread/Pita/pita-5.jpg" alt="" class="instruction-image"></center><br>
+
+- Place on wire rack and repeat with the remaining pitas
+---

@@ -12,6 +12,8 @@ facts: pbjmuffin-facts
 Prep: 15
 Rest: 
 Cook: 24
+Source1: https://www.youtube.com/watch?v=4AaCp1rMbGo&t=1s
+Source2: 
 Description: Blueberry muffins are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars. These ones however are much healthier than the classic though, packing fiber with oat flour, and avoiding tons of added sugars and unhealthy fats.
 Instructions: 
 - To a large bowl, mash the bananas. Add in the other wet ingredients (maple syrup, applesauce, yogurt, and egg)<br><br>
@@ -24,5 +26,5 @@ Instructions:
 
 - Bake for ~24 minutes at 350F (muffins should be about 205F and toothpick will come out clean).<br><br>
 
-- Optionally, brush tops of muffins with 1 tbsp melted butter. Let cool in pan for 10 minutes then transfer to a wire rack or plate to cool<br><br>
+- Optionally, brush tops of muffins with 1 tbsp (14 g) melted butter. Let cool in pan for 10 minutes then transfer to a wire rack or plate to cool
 ---

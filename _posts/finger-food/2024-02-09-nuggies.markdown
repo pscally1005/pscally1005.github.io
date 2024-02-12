@@ -12,6 +12,8 @@ facts: nuggies-facts
 Prep: 30
 Rest: 
 Cook: 14
+Source1: https://mealprepmanual.com/nashville-hot-chicken-nuggets/
+Source2: https://www.youtube.com/watch?v=KasX2xTCkOA
 Description: These chicken nuggets are great for a meal or snack, and can be reheated in the air fryer straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.
 Instructions: 
 - Preheat your oven to 400°F<br><br>
@@ -28,5 +30,5 @@ Instructions:
 
 - Once they are frozen solid, transfer them to a zip top bag, remove all of the air and keep them in your freezer.<br><br>
 
-- Reheat using the air fryer at 400°F for about 5 minutes. They just need to thaw and get hot. You can also use the microwave or oven.<br><br>
+- Reheat using the air fryer at 400°F for about 5 minutes. They just need to thaw and get hot. You can also use the microwave or oven.
 ---

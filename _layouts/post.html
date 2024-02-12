@@ -40,22 +40,30 @@ layout: base
     &emsp; {{ page.Description }}<br><br>
 
     <!-- Time -->
-    <b><u>Time</u></b><br>
     {% assign prep_minutes = page.Prep | modulo: 60 %}
-    <b>Prep Time:</b> {% if page.Prep > 60 %}{{ page.Prep | divided_by: 60}} hours{% endif %}{% if prep_minutes > 0 %} {{ prep_minutes }} minutes{% endif %}<br>
-
-    {% if page.Rest > 0 %}
-      {% assign rest_minutes = page.Rest | modulo: 60 %}
-      <b>Rest Time:</b> {% if page.Rest > 60 %}{{ page.Rest | divided_by: 60}} hours{% endif %}{% if rest_minutes > 0 %} {{ rest_minutes }} minutes{% endif %}<br>
-    {% endif %}
-
+    {% assign rest_minutes = page.Rest | modulo: 60 %}
     {% assign cook_minutes = page.Cook | modulo: 60 %}
-    <b>Cook Time:</b> {% if page.Cook > 60 %}{{ page.Cook | divided_by: 60}} hours{% endif %}{% if cook_minutes > 0 %} {{ cook_minutes }} minutes{% endif %}<br>
-
     {% assign totaltime = page.Prep | plus: page.Rest | plus: page.Cook %}
     {% assign minutes = totaltime | modulo: 60 %}
-    <b>Total Time:</b> {% if totaltime >= 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
-    <br>
+
+    {% if totaltime > 0 %}
+      <b><u>Time</u></b><br>
+
+      {% if page.Prep > 0 %}
+        <b>Prep Time:</b> {% if page.Prep >= 60 %}{{ page.Prep | divided_by: 60}} hours{% endif %}{% if prep_minutes > 0 %} {{ prep_minutes }} minutes{% endif %}<br>
+      {% endif %}
+
+      {% if page.Rest > 0 %}
+        <b>Rest Time:</b> {% if page.Rest >= 60 %}{{ page.Rest | divided_by: 60}} hours{% endif %}{% if rest_minutes > 0 %} {{ rest_minutes }} minutes{% endif %}<br>
+      {% endif %}
+
+      {% if page.Cook > 0 %}
+        <b>Cook Time:</b> {% if page.Cook >= 60 %}{{ page.Cook | divided_by: 60}} hours{% endif %}{% if cook_minutes > 0 %} {{ cook_minutes }} minutes{% endif %}<br>
+      {% endif %}
+
+      <b>Total Time:</b> {% if totaltime >= 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
+      <br>
+    {% endif %}
 
     <!-- Ingredients -->
     <table>
@@ -113,6 +121,16 @@ layout: base
             {% endif %}
         {% endfor %}
     </table>
+
+    <!-- Source -->
+    {% if page.Source1 %}
+      <b><u>Sources of Inspiration</u></b><br>
+      <a href={{- page.Source1 -}}>{{ page.Source1 }}</a>
+    {% endif %}
+    <br>
+    {% if page.Source1 %}
+    <a href={{- page.Source2 -}}>{{ page.Source2 }}</a>
+    {% endif %}
 
   </div>
 
