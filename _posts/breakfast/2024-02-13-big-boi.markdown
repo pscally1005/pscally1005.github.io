@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Bigger Boi Oatmeal"
+date:   2024-02-13 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
+permalink: /recipes/big-boi
+image: /assets/Food/Breakfast/Big Boi/big-boi.jpg
+ing: bigboi-ing
+facts: bigboi-facts
+Prep: 5
+Rest: 
+Cook: 2
+Source1: 
+Source2: 
+Description: I got used to eating a bit less at meals, breakfast included, when I got injured, as I was exercising a lot less. But I've been able to get back into running recently, meaning I need to eat a bit more in the morning. It's got a good source of protein (yogurt and protein powder), fats (dark chocolate and nuts), and carbs (oats and banana) to power my run a few hours later
+Instructions: 
+- In a medium bowl, mash your ripe banana with the back of a fork. Mix the rest of the ingredients into the bowl<br><br>
+
+- You can make this oatmeal the night before and eat them as overnight oats, but I'm going to eat this warm, in order to melt the chocolate and make it creamy. Cover with a plate, and microwave on high for 2-3 minutes
+---
