@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Spinach and Onion Frittata"
+date:   2024-02-15 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
+permalink: /recipes/frittata
+image: /assets/Food/Breakfast/Frittata/frittata-cover.jpg
+ing: frittata-ing
+facts: frittata-facts
+Prep: 30
+Rest: 
+Cook: 30
+Source1: https://www.acouplecooks.com/crustless-quiche-spinach/
+Source2: 
+Description: Along with my meal prep egg wraps, this is my other way of making multiple days worth of eggs at once. These are made in a very similar way, with a hidden ingredient to add some more protein. Customize this with any vegetables or spices that you desire.
+Instructions: 
+- Preheat oven to 375F and dice the onion small, and add the onion and defrosted spinach to a 10” cast iron pan over medium high heat with a spray of oil<br><br>
+
+- Add in the hot sauce, garlic, and spices<br><br>
+
+- Cook the vegetable mix for a few minutes, until the onions soften slightly<br><br>
+
+- Meanwhile, crack the eggs in a large bowl and beat with a whisk. When fully beaten, add in the cottage cheese and mix until fully combined<br><br>
+
+- When vegetable mix has reduced and onions are starting to go translucent, remove from the heat and add the salsa. Pour in the egg mixture, and mix with a spatula until the eggs and spinach are fully combined. This will take a few minutes of gentle mixing<br><br>
+
+- Bake in the oven for 25-30 minutes., until the center is set and golden around the edges (at least 160F). Let rest for 15 minutes before slicing<br><br>
+
+- Let cool on a cookie sheet. Can flash freeze<br>
+- <br><center><img src="/assets/Food/Breakfast/Frittata/frittata-7.jpg" alt="" class="instruction-image"></center>
+---
