@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Protein Fruit Smoothie"
+date:   2024-02-16 00:00:00 -0500
+categories:
+- Recipes
+- Drinks
+permalink: /recipes/smoothie
+image: /assets/Food/Drinks/Smoothie/smoothie-cover.jpg
+ing: smoothie-ing
+facts: smoothie-facts
+Prep: 5
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+Description: Here's my simple formula for the perfect protein packed fruit smoothie. I always use a banana, and whatever frozen fruit I have in my kitchen at the time. The yogurt and protein powder help to make it a bit more filling as a meal that could hold you over until lunch. This also works well as a smoothie bowl, just use a frozen banana.
+Instructions: 
+- Blend all ingredients together in a blender, and pour into a glass<br><br>
+
+- Turn into a smoothie bowl by using a frozen banana and leaving out the milk, and blending in a food processor instead.  Transfer to a bowl. Add any toppings if desired, such as nuts or seeds<br><br>
+- <center><img src="/assets/Food/Drinks/Smoothie/smoothie-3.jpg" alt="" class="instruction-image"></center>
+---
