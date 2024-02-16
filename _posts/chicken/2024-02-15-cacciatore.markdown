@@ -17,7 +17,7 @@ Source2:
 Description: Chicken Cacciatore, or Hunter's Chicken, is an Italian Chicken dish that often served as a tomato stew with chicken and vegetables. It's one of my favorites, and I've decided to add sweet potatoes into it, as opposed to serving with pasta. This is a very hearty meal that's great for a winter dinner
 Instructions: 
 - Prepare your vegetables and potatoes (keep the skins on). Dice your onions, peppers, and mushrooms. Wash the sweet potatoes, and cut them into pieces, about the same size as the peppers. Don't peel the potatoes. Make sure not to cut the potatoes too large, or they'll take too long to cook. Here's the size to shoot for<br>
-- <br><center><img src="/assets/Food/Chicken/Cacciatore/cacciatore-1.jpg" alt="" class="instruction-image"></center>
+- <br><center><img src="/assets/Food/Chicken/Cacciatore/cacciatore-1.jpg" alt="" class="instruction-image"></center><br>
 
 - Heat a large Dutch oven over medium high heat. Add in your mushrooms with a splash of water (no oil here). Cook for about 5 minutes, until the water in the pan is gone, and the mushrooms have shrunk and are starting to look cooked<br><br>
 
