@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Mixed Nuts and Chocolate Trail Mix"
+date:   2024-02-16 00:00:00 -0500
+categories: 
+- Recipes
+- Finger Foods
+permalink: /recipes/trail-mix
+image: /assets/Food/Finger Food/Trail Mix/trail-mix.jpg
+ing: trailmix-ing
+facts: trailmix-facts
+Prep: 5
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+Description: Trail mix is a perfect snack to take on the go, especially when hiking (duh). Here's a simple formula that I generally follow, but it is super easy to tweak to your liking. Each serving is about 30 grams.
+Instructions: 
+- Mix together in ziploc bag, store in cabinet or fridge
+---
