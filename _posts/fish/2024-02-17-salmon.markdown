@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Simply Baked Salmon and Crunchy Salad"
+date:   2024-02-17 00:00:00 -05000
+categories: 
+- Recipes
+- Fish
+permalink: /recipes/salmon
+image: /assets/Food/Fish/Salmon/salmon-cover.jpg
+ing: salmon-ing
+facts: salmon-facts
+Prep: 4
+Rest: 
+Cook: 14
+Source1: 
+Source2: 
+Description: Salmon is my preferred fish, but I don't tend to have it too often because it's fairly expensive. I always pick it up when on sale though, because it's a fantastic source of Omega-3s. These simply baked fillets are made in just a few minutes, and pair great with a crunchy salad, consisting of seasoned raw peppers, onions, and tomatoes.
+Instructions: 
+- Preheat your oven to 400F and line a cookie sheet with aluminum foil. Lightly grease the foil<br><br>
+
+- Add your salmon to the pan, and season the top and sides with garlic, onion, and lemon pepper, or any other desired seasinings<br><br>
+
+- Bake at 400F for about 14 minutes, or until the thickest part reaches 145F. Squeeze on some lemon juice.<br><br>
+
+- As the fish cooks, wash and cut your vegetables, and add to a medium bowl. Season and mix to make your crunchy salad<br><br>
+- <center><img src="/assets/Food/Fish/Salmon/salmon-4.jpg" alt="" class="instruction-image"></center>
+---

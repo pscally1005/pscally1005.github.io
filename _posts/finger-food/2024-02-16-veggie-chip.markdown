@@ -13,7 +13,7 @@ Prep: 20
 Rest: 
 Cook: 20
 Source1: https://www.youtube.com/watch?v=sjK2JV1shrc
-Source2: 
+Source2: https://mealprepmanual.com/broccoli-bites/
 Description: These simple vegetable snack bites are delicious and super nutritious. They're made by blending together broccoli and spices, turned into a dough and baked in bite sized pieces. Bonus points for accidentally satisfying all my criteria for a protein bar as well!
 Instructions: 
 - Thaw out your broccoli in the microwave, or let sit on the counter for a few hours<br><br>
