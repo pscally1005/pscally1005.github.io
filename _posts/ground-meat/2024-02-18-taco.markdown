@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Sauteed Taco Meat and Fajita Veggies"
+date:   2024-02-18 00:00:00 -05000
+categories: 
+- Recipes
+- Ground Meat
+permalink: /recipes/taco
+image: /assets/Food/Ground Meat/Taco/taco-cover.jpg
+ing: taco-ing
+facts: taco-facts
+Prep: 15
+Rest: 
+Cook: 30
+Source1: https://www.allrecipes.com/recipe/255545/ground-turkey-taco-meat/
+Source2: 
+Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my fajita recipe, these are an awesome way for each person to build their own meals and have fun at the table. Invite some people over to make tacos, what are you waiting for!
+Instructions: 
+- Mix together seasonings in a medium bowl or mason jar and set aside<br><br>
+
+- Start with the peppers and onions, since they will take the longest. Preheat a 12" nonstick pan over medium heat with a spray of oil. Wash the vegetables, and cut into long thin strips. Add to the pan with some oil and garlic<br><br>
+
+- Season with your spice mix, about 2 tbsp. Cover and cook until soft, browned, and lightly charred, about 20 minutes. Finish with lime juice<br><br>
+- <center><img src="/assets/Food/Ground Meat/Taco/taco-veggies.jpg" alt="" class="instruction-image"></center><br>
+
+- As the peppers cook, move over to the meat. Heat a large pan on medium heat. Add the oil, garlic, and meat to the pan. Brown the meat, and cook until no longer pink<br><br>
+
+- Stir in the rest spice mixture and pour in water. Reduce heat to 2 and simmer, stirring occasionally, until most of the liquid is absorbed, about 10 minutes. Uncovered<br><br>
+
+- Stir in the apple cider vinegar and lime juice. Simmer until flavors combine, 3-4 minutes<br><br>
+- <center><img src="/assets/Food/Ground Meat/Taco/taco-meat.jpg" alt="" class="instruction-image"></center><br>
+
+- Serve with tortillas, rice, beans, and cheese, or make into a taco salad<br><br>
+- <center><img src="/assets/Food/Ground Meat/Taco/taco-salad.jpg" alt="" class="instruction-image"></center><br>
+---
