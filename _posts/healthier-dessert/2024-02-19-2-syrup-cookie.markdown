@@ -19,7 +19,7 @@ Instructions:
 - In a bowl, mix together the base ingredients - sugar free syrup (or any other liquid sweetener), unsweetened applesauce, vanilla extract, baking soda, and salt<br><br>
 
 - Here are some example flavors that you can make<br>
-- <b>Chocolate Chip</b> - whole wheat flour (1 cup, 125 g), and chopped sugar free chocolate (1/4 cup, 45 g)<br>
+- <b>Chocolate Chip</b> - whole wheat flour (1 cup, 124 g), and chopped sugar free chocolate (1/4 cup, 45 g)<br>
 - <b>Oatmeal Raisin</b> - cinnamon (1/2 tsp), oat flour (1.33 cup, 120 g), and raisins (1/4 cup, 40 g)<br>
 - <b>Peanut Chocolate</b> - PB2 (1 cup, 100 g, omit the salt if using PB2), and chopped sugar free chocolate (1/4 cup, 45 g)<br>
 - <b>Almond</b> - almond extract (1/2 tsp, 2.5 g), and almond flour (1 cup, 112 g)<br>

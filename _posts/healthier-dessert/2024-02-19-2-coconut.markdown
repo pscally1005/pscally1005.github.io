@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Coconut Macaroons with Honey"
+date:   2024-02-19 00:00:00 -05000
+categories: 
+- Recipes
+- Healthier Dessert
+permalink: /recipes/coconut-macaroons
+image: /assets/Food/Healthier Dessert/Coconut/coconut-cover.jpg
+ing: coconut-ing
+facts: coconut-facts
+Prep: 10
+Rest: 30
+Cook: 15
+Source1: https://www.youtube.com/watch?v=ACbwMHUj-kA
+Source2: 
+Description: Coconut macaroons are such a simple healthy dessert, and are great for all you coconut lovers out there. I personally don't like coconut, but even I admit these are hay in the needle stack. To use up those extra yolks though, check out my Greek yogurt Hollandaise sauce
+Instructions: 
+- Beat together egg whites until soft peaks in a glass bowl<br><br>
+
+- Fold in honey, vanilla, almond extract, and salt. Mix in coconut and oats until fully combined and sticky<br><br>
+
+- Scoop cookies onto a lined baking sheet. Shape with your fingers if falling apart. Chill in fridge for 30 minutes<br><br>
+
+- Bake at 325F for 15 minutes. Cookies will be lightly browned in the top and golden/dark on the bottom. Transfer to a wire rack to cool<br><br>
+
+- Optionally drizzle with melted chocolate (2 tbsp, 25 g), or dip the bottoms in chocolate
+---
