@@ -53,6 +53,8 @@ for fname in glob.glob(path):
         # delete original and temp file
         os.remove(fname)
         os.remove(temp)
+
+        print(fname)
             
         # os.remove(temp)
         # os.remove(ing)
