@@ -26,7 +26,7 @@ Instructions:
 - <center><img src="/assets/Food/Spreads, Sauces, Toppings/Artichoke/artichoke-4.jpg" alt="" class="instruction-image"></center><br>
 
 - Transfer your mix to your pan and top with the grated parmesean cheese<br><br>
-- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Artichoke/artichoke-5.jpg" alt="" class="instruction-image"></center><br>
 
 - Bake (uncovered) for 25 minutes at 400F. Broil the top for 5 minutes after to brown the cheese (if your broiler works unlike mine lol), and serve warm
+- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Artichoke/artichoke-6.jpg" alt="" class="instruction-image"></center>
 ---
