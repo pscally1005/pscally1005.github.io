@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Whole Wheat Hot Pretzels"
+date:   2023-11-11 00:00:00 -0500
+categories:
+- Recipes
+- Bread
+permalink: /recipes/pretzel
+image: /assets/Food/Bread/Pretzels/pretzel-cover.jpg
+ing: pretzel-ing
+facts: pretzel-facts
+Prep: 15
+Rest: 60
+Cook: 30
+Source1: https://www.youtube.com/watch?v=niv6mtzkW3Q
+Source2: 
+Description: Getting a hot pretzel at the mall was a rare treat my parents got for me when I was a kid. These healthier pretzels bring back those memories while being packed with whole wheat flour. You can also try making them into pretzel nuggets by cutting the pieces bite sized.
+Instructions: 
+- Add the salt, honey, and yeast to a large mixing bowl. Heat up the water and add it to the bowl. Mix well and let sit for 5 minutes to proof the yeast<br><br>
+
+- Add in the oil and baking powder, and mix. Finally, add in the flours and combine with your dough scraper. Let rest for 20 minutes
+- <br><br><center><img src="/assets/Food/Bread/Pretzels/pretzel-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Turn the dough onto the table and knead for 8 minutes and let rest for 3 minutes. When done, shape into a ball, return dough to bowl, cover, and let rise for 30 minutes
+- <br><br><center><img src="/assets/Food/Bread/Pretzels/pretzel-3.jpg" alt="" class="instruction-image"></center><br>
+
+- Put just the baking soda (about 50 g) in a dry medium pot on high to boil the water out of the baking soda. Shake the pot back and forth often to mix. It’s done when you stop seeing little gas bubbles (the washing soda should weigh about ⅔ of its original weight). Move the soda to a bowl<br><br>
+
+- Cut the dough into 8 equal pieces, about 75g each. Shape each into a ball, cover and let rest for 10 minutes.<br><br>
+
+- Roll each into a very long and thin rod, and shape into pretzels. Roll with your hands as thin and long as possible. Line 2 cookie sheets with parchment paper, and place pretzels on the sheet. Cover and let rest for 15 minutes in the freezer
+- <br><br><center><img src="/assets/Food/Bread/Pretzels/pretzel-6.jpg" alt="" class="instruction-image"></center><br>
+
+- Preheat the oven to 425F. Fill the pot with water, as well as a large bowl. Heat the pot on high, and add as much soda as you can dissolve (the water should go clear after a few minutes of stirring).<br><br>
+
+- Place each pretzel in the water (not rolling boil but pretty hot) for about 30 seconds, flip halfway. Take the pretzel out of the pot, and rinse in the fresh water bowl. Place on the sheet, sprinkle with salt, and repeat with remaining pretzels.
+- <br><br><center><img src="/assets/Food/Bread/Pretzels/pretzel-8.jpg" alt="" class="instruction-image"></center><br>
+
+- Bake in the oven for about 15 minutes, rotating the cookie sheets halfway, or until golden brown. The inside temperature should be about 200F. Brush each pretzel with a little water. Serve warm, and store in a ziploc on the counter or fridge
+- <br><br><center><img src="/assets/Food/Bread/Pretzels/pretzel-9.jpg" alt="" class="instruction-image"></center>
+---

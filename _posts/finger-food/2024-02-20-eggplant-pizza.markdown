@@ -14,7 +14,7 @@ Rest:
 Cook: 25
 Source1: https://elavegan.com/eggplant-pizza-recipe/#recipe
 Source2: 
-Description: These low carb eggplant Pizzas are perfect little bite sized appetizers to serve to a group. They're really easy to make, just pre roast the eggplant, add toppings, and bake again. I'll be making this alongside a regular pizza for pizza night in my house for now on. I made about 20 mini pizzas with a large eggplant
+Description: These low carb eggplant Pizzas are perfect little bite sized appetizers to serve to a group. They're really easy to make, just pre roast the eggplant, add toppings, and bake again. I'll be making this alongside a regular pizza for pizza night in my house for now on. I made about 20 mini pizzas with a large eggplant 
 Instructions: 
 - Preheat your oven to 425F, and line a baking sheet with parchment paper. Cut your eggplant into 1/2" rounds, and add to the sheet. Season with salt, pepper, and oil, and roast for 15 minutes, until browned<br><br>
 

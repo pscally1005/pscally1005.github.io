@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Running Club Broccoli"
+date:   2023-10-23 00:00:00 -05000
+categories: 
+- Recipes
+- Meatless
+permalink: /recipes/running-club-broccoli
+image: /assets/Food/Meatless/RRC/rrc-logo.png
+ing: rrc-ing
+facts: rrc-facts
+Prep: 15
+Rest: 
+Cook: 25
+Source1: 
+Source2: 
+Description: My famous broccoli gets its name from my college's running club pasta parties, which we hosted the night before our races. I would make this every time, and it was always a massive hit and gone in an instant. If you're not really a fan of broccoli, I'd really recommend giving this a try. It really masks the gross flavors of broccoli with a properly seasoned dish. I always paired this with my penne and meat baked casserole, which is linked below<br><p><a href="penne-casserole">Penne and Meat Casserole Bake</a></p>
+Instructions: 
+- Preheat oven to 425F and spray a 9x13 pan with oil<br><br>
+
+- Add all ingredients to the pan and mix<br><br>
+
+- Bake for 35 minutes, rotating halfway.<br><br>
+- <center><img src="/assets/Food/Meatless/RRC/rrc-3.jpg" alt="" class="instruction-image"></center>
+---

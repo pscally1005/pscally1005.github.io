@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Chicken Fajitas with Peppers"
+date:   2023-06-05 00:00:00 -0500
+categories:
+- Recipes
+- Chicken
+permalink: /recipes/fajitas
+image: /assets/Food/Chicken/Fajitas/fajita-cover.jpg
+ing: fajitas-ing
+facts: fajitas-facts
+Prep: 30
+Rest: 
+Cook: 45
+Source1: 
+Source2: 
+Description: Fajitas are a go to meal as they're a fun way to build your own food at the table. We'll have some sauteed chicken and peppers, along with rice, beans, cheese, tortillas, salsa, and lettuce. Make tacos, or make it into a bowl, and mix it up as you see fit.
+Instructions:
+- Cut up the peppers and onions and add them to a large skillet. Dice up the chicken and add to a large bowl<br><br>
+
+- Prepare the marinade in a bowl and mix with the diced chicken - Italian dressing, hot sauce, lime, oil, thyme, allspice, nutmeg, and cinnamon<br><br>
+
+- Cook the peppers, onions, and seasoning (oil, Italian dressing, hot sauce, lime, and thyme) over medium heat until fully cooked. Set aside<br><br>
+
+- Cook the chicken over medium heat until fully cooked<br><br>
+
+- Add in the peppers and onion and mix<br><br>
+
+- Serve with rice and beans, and tortillas, or over a salad
+---

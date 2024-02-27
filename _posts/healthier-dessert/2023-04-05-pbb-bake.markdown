@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Peanut Butter Banana Bake"
+date:   2023-04-05 00:00:00 -05000
+categories: 
+- Recipes
+- Healthier Dessert
+permalink: /recipes/peanut-butter-banana-bake
+image: /assets/Food/Healthier Dessert/PB Banana Bake/pb-banana-bake.jpg
+ing: pbbbake-ing
+facts: pbbbake-facts
+Prep: 15
+Rest: 
+Cook: 30
+Source1: https://www.sammibrondo.com/blog/peanut-butter-banana-bars
+Source2: 
+Description: Remember how I mentioned that most healthy recipes are a combo of banana, peanut butter, chocolate, and oats? Well this is my baked version of that formula. 
+Instructions: 
+- Preheat the oven to 350F. Line a 9x5 loaf pan or 8x8 baking pan with parchment paper<br><br>
+
+- Mash the ripe bananas with a fork (or blend them and add them to the bowl). Mix in the peanut butter, oats, salt, and vanilla until combined. Fold in the chocolate chips<br><br>
+
+- Pour mixture into the pan, using a spoon to smooth it out.  Bake for 25-30 minutes in the loaf pan<br><br>
+
+- Or bake as mini muffins, 15 minutes at 350F. Makes 24<br><br>
+
+- Take out of the pan and place on a cooling rack for 1 hour. Cut into 10 and store in tupperware in the fridge (3-5 days), or put extras in the freezer
+---

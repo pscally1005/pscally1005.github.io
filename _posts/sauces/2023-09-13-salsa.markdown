@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Five Minute Salsa"
+date:   2023-09-13 00:00:00 -05000
+categories: 
+- Recipes
+- Sauces, etc.
+permalink: /recipes/salsa
+image: /assets/Food/Spreads, Sauces, Toppings/Salsa/salsa-cover.jpg
+ing: salsa-ing
+facts: salsa-facts
+Prep: 5
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+Description: I named this salsa as such because it simply uses pantry staple canned ingredients and some spices. No chopping necessary! Just pulse everything to a food processor, and adjust the taste and texture to your liking. I personally like my salsa a little chunky.
+Instructions: 
+- Lightly drain the can of tomatoes through a gap in the can top.  Don't use a strainer or you'll lose too much<br><br>
+
+- Add all ingredients to a food processor, and pulse a few times until desired consistency is reached.  Store in the fridge<br><br>
+- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Salsa/salsa-1.jpg" alt="" class="instruction-image"></center>
+---

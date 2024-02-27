@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Meal Prep Egg Wraps"
+date:   2023-06-14 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
+permalink: /recipes/egg-wrap
+image: /assets/Food/Breakfast/Egg Wrap/egg-wrap-cover.jpg
+ing: eggwrap-ing
+facts: eggwrap-facts
+Prep: 15
+Rest: 
+Cook: 45
+Source1: 
+Source2: 
+Description: I love having eggs for breakfast, but I don't like spending 15 minutes making breakfast for just 1 morning, just to do it again the next day. This recipe serves as a way to prep a whole week's worth of breakfast to store in the freezer for easy reheating in the morning. Wrap these in protein tortillas as I did here for even more of a nutrient boost
+Instructions: 
+- Dice the onion small, and add the onion and defrosted spinach to a 12” pan over medium heat (3-4 on my stove) with a spray of oil<br><br>
+
+- Add in the hot sauce, garlic, and spices. Cover and cook until onions are translucent (medium heat)<br><br>
+
+- Remove the pan from the burner, and crack in the 6 eggs. Beat the eggs with your spatula until fully beaten and everything is fully mixed<br><br>
+
+- Return to the burner and cook until eggs are almost done (~15 min?) over medium heat<br><br>
+
+- When eggs are almost done, add in the cheese and salsa and stir until incorporated<br>
+- <br><center><img src="/assets/Food/Breakfast/Egg Wrap/egg-wrap-5.jpg" alt="" class="instruction-image"></center>
+
+- Divide the mix evenly across 6 tortillas. Wait to shape the leftovers until the eggs have cooled. Optionally top with some sauce<br><br>
+
+- Wrap up, wrap in aluminum foil, and freeze<br><br>
+
+- To reheat, wrap burrito in a damp paper towel and microwave on high for 2 minutes. Then grill (panini press) on all 4 sides for a few minutes or until the tortilla is lightly golden brown
+---

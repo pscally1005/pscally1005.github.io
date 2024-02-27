@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Pumpkin Protein Pancakes"
+date:   2023-09-02 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
+permalink: /recipes/pancake
+image: /assets/Food/Breakfast/Pumpkin Pancake/pancake-cover.jpg
+ing: pancake-ing
+facts: pancake-facts
+Prep: 20
+Rest: 
+Cook: 10
+Source1: https://www.youtube.com/watch?v=lGQu2aFsnvc
+Source2: 
+Description: Unlike regular pancakes, these will serve to keep you fully all the way until lunch. With protein of the whey and fiber of the oats, plus the addition of pumpkin puree serve as a perfect fall recipe. These also work as waffles as well, but I prefer the pancakes
+Instructions: 
+- In a medium bowl, whisk together all the ingredients.  You can replace the pumpkin puree with a mashed banana if you prefer. Let batter rest for 5-10 minutes<br><br>
+
+- Meanwhile, preheat a large nonstick pan over medium heat with a spray of oil. The pan should sound like it's sizzling lightly when the batter is spooned in<br><br>
+
+- Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a wire rack or plate, and repeat. This recipe should make about 6 small pancakes<br><br>
+
+- Also works as waffles. Cook on medium heat or so for 2-3 minute
+---

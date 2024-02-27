@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Creamy Pesto Dip"
+date:   2023-04-23 00:00:00 -05000
+categories: 
+- Recipes
+- Sauces, etc.
+permalink: /recipes/creamy-pesto
+image: /assets/Food/Spreads, Sauces, Toppings/Creamy Pesto/pesto-cover.jpg
+ing: pesto-ing
+facts: pesto-facts
+Prep: 10
+Rest: 
+Cook: 
+Source1: https://www.youtube.com/watch?v=1eXvV-7pOp0
+Source2: 
+Description: This pesto is more of a spread than a sauce, and is my personal favorite for dipping raw vegetables or for spreading on a sandwich. It's made creamy by swapping olive oil for cottage cheese, which is honestly way better than it sounds. I know you're probably scared of cottage cheese reading through many of these recipes, but honestly give it a shot, you'll be surprised. Each serving is about 40g.
+Instructions: 
+- Toast the nuts over medium heat in a dry pan for 2-3 minutes.  Any nuts will work here - almonds, peanuts, pistachios, etc., or none if you have a nut allergy<br><br>
+
+- Add the nuts, cheeses, spinach, garlic and salt to a food processor. Blend on high until everything is finely blended, about 45 seconds. Scrape down the sides if needed<br><br>
+- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Creamy Pesto/pesto-2.jpg" alt="" class="instruction-image"></center>
+
+- Add in the cottage cheese and blend until fully combined. Season with salt to taste.  Transfer to a mason jar and store in the fridge for up to a few days
+---

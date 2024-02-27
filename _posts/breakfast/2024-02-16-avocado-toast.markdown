@@ -14,7 +14,7 @@ Rest:
 Cook: 5
 Source1: 
 Source2: 
-Description: Avocados were on sale at my grocery store, so now I'm officially a hipster. This avocado toast is simple, healthy, and can be topped with different vegetables such as tomatoes or roasted peppers to make it even better. It comes together in the time it takes to toast the bread, and will leave you full and feeling great
+Description: Avocados were on sale at my grocery store, so now I'm officially a hipster. This avocado toast is simple, healthy, and can be topped with different vegetables such as tomatoes or roasted peppers to make it even better. It comes together in the time it takes to toast the bread, and will leave you full and feeling great 
 Instructions: 
 - In a toaster or air fryer, toast your bread to your liking<br><br>
 

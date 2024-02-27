@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Hard Boiled Eggs: Stovetop or Air Fryer"
+date:   2023-06-10 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
+permalink: /recipes/hard-boiled-egg
+image: /assets/Food/Breakfast/Hard Boiled/hard-boiled-cover.jpg
+ing: hardboil-ing
+facts: hardboil-facts
+Prep: 5
+Rest: 
+Cook: 13
+Source1: 
+Source2: 
+Description: Hard boiled eggs are a quick snack or breakfast, and they are also a quick protein source. Great when chopped up on a salad, these boiled eggs can be made either on the stove, or in the air fryer (my preferred way)
+Instructions: 
+- Place eggs in a large pot and cover with water, about an inch over the top of the eggs. Bring to a boil, and let boil for 2 minutes. Reduce heat a simmer, and simmer for 12 minutes, uncovered<br><br>
+
+- You could also air fry the eggs at 250F for 15 minutes<br><br>
+
+- When done, drain water and run with cold water and ice cubes
+---

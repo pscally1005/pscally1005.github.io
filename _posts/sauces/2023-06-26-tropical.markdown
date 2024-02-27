@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Tropical Fruit Salsa"
+date:   2023-06-26 00:00:00 -05000
+categories: 
+- Recipes
+- Sauces, etc.
+permalink: /recipes/tropical-salsa
+image: /assets/Food/Spreads, Sauces, Toppings/Tropical Salsa/tropical.jpg
+ing: tropical-ing
+facts: tropical-facts
+Prep: 20
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+Description: This sweet and sour tropical fruit salsa is perfect for fajitas. I personally don't bother with buying a whole pineapple and instead get the precut, but ripe fresh mangos are really a must here. For my fajita recipe, check out the link below<br><p><a href="fajitas">Chicken Fajitas with Peppers</a></p>
+Instructions: 
+- Chop the onion, mango, and pineapple into very small pieces<br><br>
+
+- Mix the fruit with the ingredients above - dressing, hot sauce, lime, thyme, allspice, nutmeg, cinnamon, and cilantro
+---
