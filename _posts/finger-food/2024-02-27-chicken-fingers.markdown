@@ -23,7 +23,7 @@ Instructions:
 - Add chicken to the breading bowl and coat all the chicken in the mix. Transfer the chicken to a plate<br><br>
 
 - Lightly spray the tops of the chicken with oil, and transfer to an air fryer basket oil side down. Spray the other side now, so both sides have a light spray of oil. Air fry for about 8 minutes at 400F, flipping halfway, or until the chicken reaches 165F<br><br>
-- <center><img src="/assets/Food/Finger Food/Finger/finger-4.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Finger Food/Fingers/finger-4.jpg" alt="" class="instruction-image"></center><br>
 
 - Transfer to a wire rack to keep crispy. You may need to fry in multiple batches
 ---
