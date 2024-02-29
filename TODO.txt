@@ -1,6 +1,8 @@
-fix recipe dates
+other posts tab (ingredient substitutions, health info, homemade ricotta/whey, etc.)
 
 search bar
+
+add tags to post
 
 add my other python codes to website (split calc, bmi, etc.)
 
