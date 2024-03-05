@@ -14,6 +14,20 @@ Rest:
 Cook: 14
 Source1: https://www.youtube.com/watch?v=U5TuA2MtArk
 Source2: 
+tags: 
+- parmesean
+- mozzarella
+- sauce
+- tomato
+- pasta
+- toast
+- cutlet
+- breast
+- parsely
+- basil
+- garlic
+- bake
+- breading
 Description: An Italian style breaded chicken that's both gluten free and not deep fried sounds like a dream come true. This dish is elevated even more when made into Chicken Parmesan. It goes well with a side of Brushetta mix, either on its own or on a slice of toasted Italian bread
 Instructions:
 - Cut the chicken into cutlets. Make each piece even thickness by adding it to a bag and smashing it down to make it wide and thin. Sprinkle each side with salt. Refrigerate for at least 1 hour<br><br>

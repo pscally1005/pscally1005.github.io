@@ -14,6 +14,22 @@ Rest:
 Cook: 30
 Source1: https://www.youtube.com/watch?v=2l1jKvh9FaU&t=10s
 Source2: https://www.youtube.com/watch?v=Aq0n2ziRemc
+tags: 
+- peanut butter
+- PB2
+- peanut powder
+- peanut flour
+- gochujang
+- coleslaw
+- sesame
+- carrot
+- onion
+- breast
+- bowl
+- sauce
+- asian
+- ginger
+- chopstick
 Description: I'm a big sucker for peanut butter. As an American, the glorious nut nectar is normally only used for sweet things, which I think is a missed opportunity. The sauce here takes some great Asian inspiration, and tastes fantastic on vegetables, chicken, and a side of brown rice. I use PB2 here, as it's easier to mix into the sauce, and it also boosts the protein content. Feel free to swap the olive oil and cook in natural peanut butter instead for even more flavor.
 Instructions: 
 - Wash and cut the vegetables. Add the onions and carrots to a large pot or pan with oil. Cook over medium heat (covered) with salt until soft<br><br>

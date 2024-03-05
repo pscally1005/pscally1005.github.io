@@ -14,6 +14,16 @@ Rest:
 Cook: 30
 Source1: https://www.youtube.com/watch?v=reo7LgPaiyU&t=15s
 Source2: 
+tags: 
+- gochujang
+- spicy
+- sweet potato
+- veggie
+- asian
+- bowl
+- chopstick
+- wok
+- sauce
 Description: This Korean style chicken mixes together roasted broccoli and sauteed sweet potatoes, and is served with a soy sauce and chili paste sauce. The chicken is roasted in the oven, and then diced up into the same size as everything else, and it all comes together in a wok. This is a great all together meal to feed multiple people, and has some spice to it.
 Instructions: 
 - A few hours before you plan to cook, cut up the chicken into thin cutlets, pounding with a meat mallet to even thickness. Salt, pepper, and oil both sides to dry brine the meat, and let the chicken rest uncovered on a baking tray in the fridge for about 4 hours<br><br>

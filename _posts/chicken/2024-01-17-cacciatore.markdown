@@ -14,6 +14,17 @@ Rest:
 Cook: 45
 Source1: https://www.youtube.com/watch?v=ZcdThAkEEP8
 Source2: 
+tags: 
+- stew
+- potato
+- tomato
+- italian
+- vegetable
+- veggie
+- hearty
+- winter
+- hunter
+- bowl
 Description: Chicken Cacciatore, or Hunter's Chicken, is an Italian Chicken dish that often served as a tomato stew with chicken and vegetables. It's one of my favorites, and I've decided to add sweet potatoes into it, as opposed to serving with pasta. This is a very hearty meal that's great for a winter dinner
 Instructions: 
 - Prepare your vegetables and potatoes (keep the skins on). Dice your onions, peppers, and mushrooms. Wash the sweet potatoes, and cut them into pieces, about the same size as the peppers. Don't peel the potatoes. Make sure not to cut the potatoes too large, or they'll take too long to cook. Here's the size to shoot for<br>

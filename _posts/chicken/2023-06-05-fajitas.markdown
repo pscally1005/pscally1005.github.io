@@ -14,6 +14,21 @@ Rest:
 Cook: 45
 Source1: 
 Source2: 
+tags: 
+- pepper
+- onion
+- breast
+- dice
+- taco
+- wrap
+- tortilla
+- rice
+- beans
+- italian dressing
+- lime
+- mango
+- salsa
+- tropical
 Description: Fajitas are a go to meal as they're a fun way to build your own food at the table. We'll have some sauteed chicken and peppers, along with rice, beans, cheese, tortillas, salsa, and lettuce. Make tacos, or make it into a bowl, and mix it up as you see fit.
 Instructions:
 - Cut up the peppers and onions and add them to a large skillet. Dice up the chicken and add to a large bowl<br><br>

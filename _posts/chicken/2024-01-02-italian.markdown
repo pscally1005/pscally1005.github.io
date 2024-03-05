@@ -14,6 +14,20 @@ Rest:
 Cook: 30
 Source1: 
 Source2: 
+tags: 
+- winter
+- squash
+- basil
+- thyme
+- roast
+- bake
+- dice
+- cutlet
+- breast
+- lemon
+- parmesean
+- cheese
+- lemon
 Description: This is a super simple meal that pairs Italian flavors with roasted chicken and acorn squash. They both roast in the oven, and are very quick to prepare. I make some sort of roasted chicken and roasted vegetables very often, as it's very simple, tasty, and healthy. This is just one of my ways to flavor such a dish.
 Instructions: 
 - Cut the squash in half and scoop out the seeds.  Keep the skin on the squash. Dice into cubes, add to a large bowl, and toss with the seasonings (oil, minced garlic, basill, onion powder, parmesean cheese, lemon pepper, and black pepper)<br><br>

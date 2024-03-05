@@ -14,9 +14,18 @@ Rest:
 Cook: 30
 Source1: 
 Source2: 
+tags: 
+- roast
+- simple
+- asian
+- cutlet
+- breast
+- bake
+- gochujang
+- marinade
 Description: This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the chicken and sprouts, that way it's easier to put together come dinner time. This pairs well with a side of brown rice cooked in the same seasonings listed below.
 Instructions: 
-- Slice your chicken into evenly sliced thin cutlets, and add to a large bowl. Mix with the seasonings (soy sauce, gochujan, lemon, pepper, paprika, chili powder, and onion powder), and let marinade in the fridge for at least an hour<br><br>
+- Slice your chicken into evenly sliced thin cutlets, and add to a large bowl. Mix with the seasonings (soy sauce, gochujang, lemon, pepper, paprika, chili powder, and onion powder), and let marinade in the fridge for at least an hour<br><br>
 
 - Meanwhile, prepare the brussel sprouts. Add them to a large bowl and mix with the seasonings (soy sauce, sesame oil, lemon juice, pepper, paprika, chili powder, and garlic powder). Marinate this in the fridge as well<br><br>
 

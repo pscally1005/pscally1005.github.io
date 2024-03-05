@@ -14,6 +14,20 @@ Rest:
 Cook: 360
 Source1: 
 Source2: 
+tags: 
+- tomato
+- soup
+- hearty
+- vegetable
+- veggie
+- broccoli
+- pepper
+- onion
+- crock pot
+- slow cook
+- winter
+- bowl
+- balsamic
 Description: This Crockpot stew is a perfect dump and go recipe. Add all the vegetables, chicken, and spices raw, and just forget about it until dinner time. This hearty meal is great during a cold winter. Chicken thighs work the best here for the long cooking time, as they won't dry out like chicken breast would.
 Instructions:
 - Cut the peppers and onions into a medium dice, and cut your frozen (and defrosted) broccoli into a similar size.  Dice the chicken into bite sized cubes.  Add all ingredients into the crockpot and mix<br><br>
