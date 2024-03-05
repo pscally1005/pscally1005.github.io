@@ -14,6 +14,13 @@ Rest:
 Cook: 60
 Source1: https://www.youtube.com/watch?v=4AaCp1rMbGo
 Source2: 
+tags: 
+- gluten free
+- oats
+- oatmeal
+- chocolate
+- dessert
+- bake
 Description: Unlike traditional banana bread or muffins, this recipe is healthy enough to be eaten for breakfast, as it's not loaded with added sugars or unhealthy fats. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted peanut butter. Bonus points for being gluten free too!
 Instructions: 
 - Preheat your oven to 350F and line a bread pan with parchment paper<br><br>

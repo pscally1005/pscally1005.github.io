@@ -14,6 +14,20 @@ Rest:
 Cook: 
 Source1: https://www.youtube.com/watch?v=_pZr3rrTGf8
 Source2: 
+tags: 
+- oatmeal
+- oats
+- protein
+- casein
+- whey
+- yogurt
+- chia
+- gluten free
+- berry
+- blueberry
+- strawberry
+- blackberry
+- raspberry
 Description: Protein overnight oats are easily my favorite breakfast. Being packed with protein and fiber, highly customizable, super easy to prepare the day before, and easy to take on the go. Here are 5 different recipes that are constantly in my rotation to get you through the work week.
 Instructions: 
 - Mix the base ingredients in a container (oats, chia seeds, casein, salt, sweetener, yogurt, and milk), then choose one of the flavors<br><br>

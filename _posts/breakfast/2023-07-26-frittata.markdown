@@ -14,6 +14,13 @@ Rest:
 Cook: 30
 Source1: https://www.acouplecooks.com/crustless-quiche-spinach/
 Source2: 
+tags: 
+- eggs
+- vegetable
+- meal prep
+- cheese
+- chili
+- hot sauce
 Description: Along with my meal prep egg wraps, this is my other way of making multiple days worth of eggs at once. These are made in a very similar way, with a hidden ingredient to add some more protein. Customize this with any vegetables or spices that you desire.
 Instructions: 
 - Preheat oven to 375F and dice the onion small, and add the onion and defrosted spinach to a 10” cast iron pan over medium high heat with a spray of oil<br><br>

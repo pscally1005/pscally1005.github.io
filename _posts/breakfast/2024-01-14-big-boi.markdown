@@ -14,6 +14,17 @@ Rest:
 Cook: 2
 Source1: 
 Source2: 
+tags: 
+- protein
+- casein
+- whey
+- yogurt
+- gluten free
+- fruit
+- jam
+- nut
+- chopped
+- bowl
 Description: I got used to eating a bit less at meals, breakfast included, when I got injured, as I was exercising a lot less. But I've been able to get back into running recently, meaning I need to eat a bit more in the morning. It's got a good source of protein (yogurt and protein powder), fats (dark chocolate and nuts), and carbs (oats and banana) to power my run a few hours later
 Instructions: 
 - In a medium bowl, mash your ripe banana with the back of a fork. Mix the rest of the ingredients into the bowl<br><br>

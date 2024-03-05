@@ -14,6 +14,16 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- protein
+- casein
+- whey
+- yogurt
+- chia
+- gluten free
+- cocoa
+- nut
+- chopped
 Description: Here I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have PB&J, Apple Pie, Chocolate, and Peanut Butter Banana for you to enjoy
 Instructions: 
 - In a small bowl or airtight container, mix together the base ingredients (yogurt, milk, applesauce, whey, peanut butter, cinnamon, and optional sweetener). Choose a flavor below, and mix in. Top with your fruit and chopped nuts (if you didn't use peanut butter)<br><br>

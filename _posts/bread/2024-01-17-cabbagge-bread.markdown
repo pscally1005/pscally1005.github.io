@@ -14,6 +14,12 @@ Rest:
 Cook: 50
 Source1: https://www.youtube.com/watch?v=ZXZMqN3ONII
 Source2: 
+tags: 
+- protein
+- sandwich
+- toast
+- air fry
+- food processor
 Description: Yeah you heard me right. Idk whether to file this under bread or meme recipes, but here you go. It's low calorie and gluten free, but also made out of cabbage, so pick your poison lmao (for the record I love cabbage, and this bread is shockingly good for what it is). I made this into an egg sandwich, as you can see above.
 Instructions: 
 - Using a food processor, shred your cabbage, until you have a riced consistency. Transfer to a large bowl<br><br>

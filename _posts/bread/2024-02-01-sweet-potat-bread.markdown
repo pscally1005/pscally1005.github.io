@@ -14,6 +14,15 @@ Rest: 120
 Cook: 45
 Source1: https://www.youtube.com/watch?v=9WAWdbXdsKg
 Source2: 
+tags: 
+- whole wheat
+- bread
+- sandwich
+- toast
+- pumpkin
+- butternut
+- squash
+- breakfast
 Description: I love a classic whole wheat bread, but I also love those potato buns for hamburgers. So I decided to combine the 2, and modify my classic bread recipe to include some sweet potato. Sweet potatoes give a slight orange color and mild sweetness, that make the loaf just a little bit better
 Instructions: 
 - Peel your sweet potato, and cut into cubes. Add to a medium pot and cover with water. Bring to a boil, cover, reduce to medium, and simmer for around 15-18 minutes, until the potato can be easily crushed with the back of a spoon. Use a slotted spoon to scoop out the potatoes, and reserve the water (you will need it later in the bread). Let everything cool to room temperature<br><br>

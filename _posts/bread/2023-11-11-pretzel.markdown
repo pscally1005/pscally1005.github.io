@@ -14,6 +14,13 @@ Rest: 60
 Cook: 30
 Source1: https://www.youtube.com/watch?v=niv6mtzkW3Q
 Source2: 
+tags: 
+- cinnamon
+- salt
+- nugget
+- whole wheat
+- bread
+- toast
 Description: Getting a hot pretzel at the mall was a rare treat my parents got for me when I was a kid. These healthier pretzels bring back those memories while being packed with whole wheat flour. You can also try making them into pretzel nuggets by cutting the pieces bite sized.
 Instructions: 
 - Add the salt, honey, and yeast to a large mixing bowl. Heat up the water and add it to the bowl. Mix well and let sit for 5 minutes to proof the yeast<br><br>

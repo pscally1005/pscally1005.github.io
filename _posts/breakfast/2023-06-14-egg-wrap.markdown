@@ -13,7 +13,16 @@ Prep: 15
 Rest: 
 Cook: 45
 Source1: 
-Source2: 
+Source2:
+tags: 
+- tortilla
+- wrap
+- flatbread
+- spinach
+- onion
+- chili
+- egg
+- freezer
 Description: I love having eggs for breakfast, but I don't like spending 15 minutes making breakfast for just 1 morning, just to do it again the next day. This recipe serves as a way to prep a whole week's worth of breakfast to store in the freezer for easy reheating in the morning. Wrap these in protein tortillas as I did here for even more of a nutrient boost
 Instructions: 
 - Dice the onion small, and add the onion and defrosted spinach to a 12” pan over medium heat (3-4 on my stove) with a spray of oil<br><br>

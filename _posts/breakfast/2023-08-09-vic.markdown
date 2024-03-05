@@ -14,6 +14,18 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- oatmeal
+- oats
+- protein
+- casein
+- whey
+- yogurt
+- chia
+- gluten free
+- sweet
+- chocolate
+- peanut
 Description: An overnight oats recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of fiber, protein, and healthy fats to start your morning off right
 Instructions: 
 - Add ingredients to a mason jar or Tupperware. Optionally top with mini chocolate chips. Store in the fridge overnight

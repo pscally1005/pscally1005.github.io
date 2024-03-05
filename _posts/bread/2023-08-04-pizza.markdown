@@ -14,6 +14,15 @@ Rest: 180
 Cook: 7
 Source1: https://www.youtube.com/watch?v=SDpCzJw2xm4&t=7s
 Source2: https://www.bakewithjack.co.uk/blog-1/2021/3/3/homemade-pizza-dough
+tags:
+- flatbread
+- sauce
+- cheese
+- marinara
+- pesto
+- pepperoni
+- bread
+- whole wheat
 Description: Everybody loves pizza right? This is a 2 day process, but totally worth it for a good homemade pizza, plus it's a fun activity to do with a few people. Prep the dough the night before, and then have a few people over the next day for dinner. Whole wheat flour serves to add some extra nutrition and taste to your pizza as well.
 Instructions: 
 - In a large mixing bowl, combine the water, yeast, salt, and honey. Stir, and let sit for 5 minutes to make sure the yeast is alive<br><br>

@@ -14,6 +14,17 @@ Rest:
 Cook: 24
 Source1: https://www.youtube.com/watch?v=4AaCp1rMbGo&t=1s
 Source2: 
+tags: 
+- oatmeal
+- oats
+- yogurt
+- chia
+- gluten free
+- peanut butter
+- nuts
+- jelly
+- mini
+- jumbo
 Description: Blueberry muffins are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars. These ones however are much healthier than the classic though, packing fiber with oat flour, and avoiding tons of added sugars and unhealthy fats.
 Instructions: 
 - To a large bowl, mash the bananas. Add in the other wet ingredients (maple syrup, applesauce, yogurt, and egg)<br><br>
