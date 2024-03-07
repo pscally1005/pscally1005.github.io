@@ -28,6 +28,7 @@ Instructions:
 - Add spices (Italian seasoning, paprika, cumin, chili and onion powder, black pepper, soy sauce, lemon juice, and olive oil) and chicken to a Ziploc bag, shake until chicken is well coated. Can marinate in the fridge for a few hours or up to a day in you want<br><br>
 
 - Grill on a grill pan or bake in the oven (400F, 12-14 minutes)<br><br>
+- <center><img src="/assets/Food/Chicken/Marinated/marinated-3.jpg" alt="" class="instruction-image"></center><br><br>
 
 - For your plantains, preheat your air fryer to 370F. Use a knife to peel the plantain keeping it in one piece. Air fry for 16 minutes, filling halfway<br><br>
 

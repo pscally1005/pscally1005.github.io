@@ -20,5 +20,7 @@ Instructions:
 
 - Add the rice to a medium pot with the water and bouillon powder (or alternatively you can use low sodium broth, or water+1/2 tsp salt). Drain and rinse your beans with a strainer, and add to the pot as well. Here I used a 29 oz can of black beans<br><br>
 
+- Cover and bring your pot to a boil over high heat. When boiling, reduce heat to low, cover and cook about 45 minutes (this will depend on your brand of rice)<br><br>
+
 - When the rice is done, add in the rest of the seasonings (paprika, chili powder, cumin, garlic and onion powder, and black pepper), mix, and adjust to taste. I prefer to add in the beans in the beginning, but can you wait until now to add them as well
 ---
