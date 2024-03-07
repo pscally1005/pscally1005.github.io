@@ -14,6 +14,18 @@ Rest:
 Cook: 14
 Source1: https://mealprepmanual.com/nashville-hot-chicken-nuggets/
 Source2: https://www.youtube.com/watch?v=KasX2xTCkOA
+tags: 
+- nuggies
+- chicken
+- ground
+- sweet potato
+- air fry
+- fried
+- snack
+- city
+- flash freeze
+- bake
+- french fries
 Description: These chicken nuggets are great for a meal or snack, and can be reheated in the air fryer straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.
 Instructions: 
 - Preheat your oven to 400°F<br><br>

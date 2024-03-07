@@ -14,6 +14,20 @@ Rest:
 Cook: 70
 Source1: 
 Source2: 
+tags: 
+- spinach
+- seafood
+- sea food
+- tomato
+- diced
+- penne
+- pasta
+- sauce
+- chicken
+- italian
+- spicy
+- garlic
+- red pepper
 Description: Fra Diavolo sauce is a Christmas classic for me, and was always served over spinach and shrimp, two of my favorite foods. Here, I mixed the spinach right into the sauce, and you can put it on whatever you want, such as chicken if you're not a seafood fan.
 Instructions: 
 - In a medium saucepot, sauteed oil, garlic, and spinach over medium heat for about 5 minutes<br><br>

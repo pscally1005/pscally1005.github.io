@@ -14,6 +14,19 @@ Rest:
 Cook: 40
 Source1: 
 Source2: 
+tags: 
+- spinach
+- basil
+- whole wheat
+- sandwich
+- pocket
+- ground
+- beef
+- greek
+- mushroom
+- sauce
+- paste
+- brown rice
 Description: This dish features a spinach and tomato paste pesto sauce, mixed into some vegetables and ground turkey. It goes well inside of a pocket pita, served on top of some brown rice, or just on its own. Nutrition facts are just for the filling, not including any rice or bread.
 Instructions: 
 - Spray a large pan with a touch of oil, and saute the spinach over medium heat until fully cooked, about 5-10 minutes, covered<br><br>

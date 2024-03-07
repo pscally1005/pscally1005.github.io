@@ -14,6 +14,29 @@ Rest:
 Cook: 480
 Source1: 
 Source2: 
+tags: 
+- beans
+- kidney
+- black
+- pinto
+- chickpea
+- garbanzo
+- tomato
+- diced
+- can
+- turkey
+- beef
+- ground
+- crock pot
+- simmmer
+- pasta
+- elbow
+- party
+- bowl
+- rice
+- brown
+- hearty
+- vegetable
 Description: Chili is such a classic cold weather hearty meal, and this version comes together pretty quickly and makes a lot of food. Mix in some elbow noodles or rice if you want to bulk it up even more. Nothing beats the smell of coming home and smelling fresh chili just waiting for you for dinner.
 Instructions: 
 - Chop up the vegetables, and add them to a large skillet with olive oil, garlic, and salt. Cook over medium heat (covered) until soft. Set vegetables aside in crock pot<br><br>

@@ -14,6 +14,15 @@ Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=SUiHRrhQLVs
 Source2: 
+tags: 
+- gluten free
+- oat flour
+- smore
+- s'more
+- cinnamon
+- butter
+- peanut
+- snack
 Description: These healthy oat flour crackers are gluten free, and somewhat reminiscent of a graham cracker. They're made with only a little amount of fat and sugar, and go great with anything savory or sweet. If you wanted to use them for s'mores, simply just cut them into bigger pieces
 Instructions: 
 - In a large glass bowl, melt the peanut butter. Add all ingredients to a bowl and mix with a wooden spoon. Gently knead a few times<br><br>

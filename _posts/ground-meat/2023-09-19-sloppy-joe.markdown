@@ -14,6 +14,19 @@ Rest:
 Cook: 20
 Source1: 
 Source2: 
+tags: 
+- american
+- sandwich
+- bun
+- burger
+- ground
+- beef
+- turkey
+- pepper
+- onion
+- ketchup
+- mustard
+- chili
 Description: Sloppy joes are an American classic, and this variation removes the sugar filled ketchup and adds some more vegetables as well. These go great on a plate with a side of rice, or even better on a sandwich.
 Instructions: 
 - Finely chop the peppers and onions.  Place a medium skillet over medium heat with oil. When the pan is hot, add onions and peppers. Sauté, stirring occasionally<br><br>

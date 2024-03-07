@@ -14,6 +14,15 @@ Rest:
 Cook: 60
 Source1: https://airfryandeat.com/chicken-jerky-in-the-air-fryer/
 Source2: 
+tags: 
+- beef jerkey
+- air fryer
+- dehydrate
+- marinate
+- soy sauce
+- gochujang
+- snack
+- protein
 Description: Chicken jerky is a great high protein snack, and it's way cheaper than buying beef jerky at the store (or use this to make beef jerky too). It's simple to do, just requiring an overnight marinate of thinly sliced chicken breasts, and a few hours of dehydrating. They're spicy, sweet, salty, healthy, and delicious.
 Instructions: 
 - Thinly slice the chicken, about 1/4 inch thick. Using slightly frozen chicken will make it easier to slice. Mix with the marinade, and let sit in the fridge overnight (covered if in a bowl, or seal the bag).  You can add 1 tbsp (16 g) gochjang into the marinade as well if you like<br><br>

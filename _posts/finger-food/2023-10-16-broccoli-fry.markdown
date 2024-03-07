@@ -14,6 +14,16 @@ Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=sjK2JV1shrc
 Source2: https://mealprepmanual.com/broccoli-bites/
+tags: 
+- vegetable
+- veggies
+- chip
+- bites
+- flash freeze
+- snack city
+- blend
+- protein
+- casein
 Description: These simple vegetable snack bites are delicious and super nutritious. They're made by blending together broccoli and spices, turned into a dough and baked in bite sized pieces. Bonus points for accidentally satisfying all my criteria for a protein bar as well!  For a meal, you can pair them with my chicken fingers recipe<br><p><a href="chicken-fingers">Gluten Free Air Fryer Chicken Fingers</a></p>
 Instructions: 
 - Thaw out your broccoli in the microwave, or let sit on the counter for a few hours<br><br>

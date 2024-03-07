@@ -14,6 +14,16 @@ Rest:
 Cook: 40
 Source1: https://www.youtube.com/watch?v=nWqPFOv5dpQ
 Source2: 
+tags: 
+- asian
+- sesame oil
+- steak
+- beef
+- saute
+- stir fry
+- sauce
+- gochujang
+- marinate
 Description: Beef and broccoli is a Chinese classic, and making this version at home is what got me to like steak if cooked properly. I saw a small piece of sirloin on sale at the store and wanted to try it out, and I'm very impressed with the results. Sauteed beef, broccoli, and a topping of sesame seeds sounds delicious in my book
 Instructions: 
 - Heat your oven to 400F, and line a cookie sheet with parchment paper. Add broccoli to the pan, season with salt, pepper, and oil, and roast for 30 minutes. Do everything else as the broccoli cooks<br><br>

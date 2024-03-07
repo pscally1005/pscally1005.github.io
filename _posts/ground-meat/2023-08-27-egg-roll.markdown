@@ -14,6 +14,20 @@ Rest:
 Cook: 40
 Source1: https://www.theseasonedmom.com/egg-roll-in-a-bowl/
 Source2: 
+tags: 
+- asian
+- cabbage
+- shredded
+- wok
+- stir fry
+- ground
+- turkey
+- beef
+- gochujang
+- soy sauce
+- dumpling
+- peanut
+- sesame
 Description: Shredded cabbage makes such a good base for a meal, just like rice or noodles would. These bowls are like a deconstructed version of an egg roll, and they're packed with vegetables and feature a flavorful sauce.
 Instructions: 
 - You can either buy a bags of shredded cabbage and carrots, or shred them yourself.  I like to cut them into big chunks, pulse them in my food processor, and use that.  It's cheaper and simpler, but you don't get the strips that a mandolin would get you.  Sorry for calling for 17 cups lol, just use a large head of cabbage<br><br>

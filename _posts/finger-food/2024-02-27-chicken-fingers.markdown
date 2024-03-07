@@ -14,6 +14,18 @@ Rest:
 Cook: 8
 Source1: https://www.youtube.com/watch?v=xWGgCuC63yI&t=198s
 Source2: https://www.youtube.com/watch?v=AN_iomD5EUk
+tags: 
+- chicken tenders
+- french fries
+- ketchup
+- bbq sauce
+- barbeque
+- air fry
+- fried
+- breading
+- gluten free
+- oat flour
+- parmesean cheese
 Description: Chicken Fingers and French Fries are a classic for a reason. They're often not gluten free however, and they're deep fried in harmful oils. This recipe fixed both of those by breading in homemade oat flour, and roasting in an air fryer. It pairs well with my Broccoli Fries for a crunchy and nutritious meal<br><p><a href="broccoli-fries">Air Fryer Broccoli Fries</a></p>
 Instructions: 
 - In a large bowl, mix together your breading of oat flour, Parmesan cheese, and spices - paprika, chili, oregano, thyme, basil, garlic, onion, salt, pepper, ginger, and cayenne<br><br>

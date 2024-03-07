@@ -14,6 +14,22 @@ Rest:
 Cook: 30
 Source1: https://www.allrecipes.com/recipe/255545/ground-turkey-taco-meat/
 Source2: 
+tags: 
+- fajita
+- ground
+- beef
+- turkey
+- chicken
+- party
+- beans
+- cheese
+- salsa
+- shell
+- tortilla
+- shredded
+- mexican
+- brown
+- rice
 Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my fajita recipe, these are an awesome way for each person to build their own meals and have fun at the table. Invite some people over to make tacos, what are you waiting for!
 Instructions: 
 - Mix together seasonings in a medium bowl or mason jar and set aside<br><br>

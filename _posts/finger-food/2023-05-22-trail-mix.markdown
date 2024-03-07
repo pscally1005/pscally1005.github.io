@@ -14,6 +14,17 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- peanut
+- cachew
+- almond
+- pistachio
+- nuts
+- raisin
+- chocolate
+- cocoa
+- mix
+- simple
 Description: Trail mix is a perfect snack to take on the go, especially when hiking (duh). Here's a simple formula that I generally follow, but it is super easy to tweak to your liking. Each serving is about 30 grams.
 Instructions: 
 - Mix together in ziploc bag, store in cabinet or fridge

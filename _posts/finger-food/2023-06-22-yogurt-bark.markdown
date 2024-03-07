@@ -14,6 +14,16 @@ Rest:
 Cook: 
 Source1: https://hannahmageerd.com/peanut-butter-chocolate-greek-yogurt-bark/
 Source2: 
+tags: 
+- peanut butter
+- honey
+- pb2
+- berries
+- berry
+- freezer
+- banana
+- chocolate
+- chip
 Description: Yogurt bark is a very simple snack you can keep in your freezer indefinitely and eat at any point. It's highly customizable too, just mix in different ingredients until you like the taste, and top with whatever you have on hand.
 Instructions: 
 - Line a cookie sheet with parchment paper<br><br>

@@ -14,6 +14,21 @@ Rest:
 Cook: 20
 Source1: https://mealprepmanual.com/high-protein-beef-meatballs/
 Source2: https://www.youtube.com/watch?v=PQelNqZNStE
+tags: 
+- ground
+- beef
+- turkey
+- pasta
+- spaghetti
+- sauce
+- linguini
+- zucchini
+- spiral
+- noodle
+- meat
+- gluten free
+- pesto
+- marinara
 Description: These meatballs are gluten free, and can be made with ground beef, turkey, or chicken. They taste great, and can be eaten on their own, or mixed into a sauce and pasta, like I did here with zucchini noodles. I used my homemade unsweetened pasta sauce recipe here, but feel free to use whatever sauce you desire. Pesto would be great too
 Instructions: 
 - Preheat your oven to 400F, and prepare a large cookie sheet with parchment paper<br><br>

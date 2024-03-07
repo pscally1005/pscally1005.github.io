@@ -14,6 +14,18 @@ Rest:
 Cook: 14
 Source1: 
 Source2: 
+tags: 
+- air fry
+- bake
+- oven
+- roast
+- sea food
+- lemon
+- pepper
+- lime
+- tajin
+- omega 3
+- seafood
 Description: Salmon is my preferred fish, but I don't tend to have it too often because it's fairly expensive. I always pick it up when on sale though, because it's a fantastic source of Omega-3s. These simply baked fillets are made in just a few minutes, and pair great with a crunchy salad, consisting of seasoned raw peppers, onions, and tomatoes.
 Instructions: 
 - Preheat your oven to 400F and line a cookie sheet with aluminum foil. Lightly grease the foil<br><br>

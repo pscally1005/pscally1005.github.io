@@ -14,6 +14,16 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- high protein
+- casein
+- yogurt
+- mustard
+- hot sauce
+- salad
+- snack
+- roll
+- ball
 Description: It took me way too long to realize that with unflavored protein powder, I can make protein packed snacks that are savory instead of sweet. They're a fantastic source of quick, lean protein, and they taste great. Instead of being limited by the small amount of things that can go into a healthy sweet, there's now a whole spice cabinet at your disposal to flavor these in interesting ways. I like to crumble these up on a salad when I don't have any meat available.
 Instructions: 
 - Add ingredients to a medium bowl and mix together with a spoon.  Roll into balls and refrigerate

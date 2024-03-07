@@ -14,6 +14,20 @@ Rest:
 Cook: 90
 Source1: 
 Source2: 
+tags: 
+- sauce
+- italian
+- pepper
+- onion
+- carrot
+- grated
+- simmer
+- turkey
+- beef
+- pasta
+- zoodle
+- pasta
+- penne
 Description: My Bolognese recipe is a sauce that can honestly work as a meal on it own. It goes great over some pasta, or even zucchini noodles like above. It also serves as a great stew between the meat and all the vegetables.
 Instructions: 
 - Add vegetables (onion, garlic, carrots, and peppers) to a food processor and pulse until fine<br><br>

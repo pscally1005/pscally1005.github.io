@@ -14,6 +14,16 @@ Rest:
 Cook: 
 Source1: https://www.youtube.com/watch?v=VNF4aVJTiEM
 Source2: 
+tags: 
+- truffle
+- chocolate
+- cocoa
+- honey
+- peanut
+- butter
+- honey
+- nut
+- yogurt
 Description: These "kerfuffles", or confusing truffles, are a great Greek yogurt based chocolate truffle, with much lower fat and sugar contents than typical truffles. They mix together in just a few minutes, and store really well in the fridge for a quick snack or dessert. These really bring out the flavor of the yogurt, so if you're not a fan of Greek yogurt, I'd recommend you replace it with mashed avocado or banana.
 Instructions: 
 - In a glass bowl, melt the coconut oil in the microwave for a minute<br><br>

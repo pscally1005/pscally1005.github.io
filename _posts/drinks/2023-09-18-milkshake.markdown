@@ -14,6 +14,17 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- almond
+- butter
+- peanut
+- banana
+- protein
+- whey
+- frozen
+- dessert
+- cocoa
+- blend
 Description: This smoothie can be had for breakfast, but is honestly so good it could easily pass as a milkshake for dessert. Feel free to add some protein powder for an added nutrient boost
 Instructions: 
 - A few hours (or day) before, add half a banana to a Ziploc bag, and store in the freezer<br><br>

@@ -14,6 +14,23 @@ Rest:
 Cook: 
 Source1: https://www.youtube.com/watch?v=UBuKLzLTMLE
 Source2: 
+tags: 
+- nuts
+- fruit
+- peanut
+- butter
+- almond
+- nut
+- banana
+- applesauce
+- chia
+- oat
+- raisin
+- dried
+- fruit
+- blend
+- roll
+- ball
 Description: Trail mix is one of my favorite snacks, and these bites take that idea, and instead blend them together to get bites of sweet and salty trail mix in every bite. The texture contrast between the crunchy nuts and chewy raisins makes them even more enjoyable to eat.
 Instructions: 
 - In a bowl, mash the banana with a fork. Roughly chop the raisins and nuts.  Mix in the rest of the ingredients<br><br>

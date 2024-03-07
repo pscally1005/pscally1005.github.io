@@ -14,7 +14,16 @@ Rest:
 Cook: 15
 Source1: https://www.natalieshealth.com/carrot-cake-energy-balls/
 Source2: 
-Description: These bites take the idea of a carrot cake and simplify them down to bite sized pieces. They are naturally sweetened with honey, and the perfect snack to take on the go for a quick energy boost. the yogurt, so if you're not a fan of Greek yogurt, I'd recommend you replace it with mashed avocado or banana.
+tags: 
+- snack
+- no bake
+- cinnamon
+- nutmeg
+- ginger
+- roast
+- blend
+- energy
+Description: These bites take the idea of a carrot cake and simplify them down to bite sized pieces. They are naturally sweetened with honey, and the perfect snack to take on the go for a quick energy boost
 Instructions: 
 - Cut carrots into thin strips. Add to a sheet pan with olive oil and salt, and roast for 25 minutes at 425F, stirring halfway. Add to a food processor and blend until a puree<br><br>
 
