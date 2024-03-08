@@ -14,6 +14,15 @@ Rest:
 Cook: 30
 Source1: https://www.sammibrondo.com/blog/peanut-butter-banana-bars
 Source2: 
+tags: 
+- nut
+- oats
+- oatmeal
+- gluten free
+- rolled oats
+- quick oats
+- vanilla
+- chocolate chips
 Description: Remember how I mentioned that most healthy recipes are a combo of banana, peanut butter, chocolate, and oats? Well this is my baked version of that formula. 
 Instructions: 
 - Preheat the oven to 350F. Line a 9x5 loaf pan or 8x8 baking pan with parchment paper<br><br>

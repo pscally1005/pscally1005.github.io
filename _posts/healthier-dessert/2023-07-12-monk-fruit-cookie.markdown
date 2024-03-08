@@ -14,6 +14,23 @@ Rest: 30
 Cook: 8
 Source1: 
 Source2: 
+tags: 
+- monk fruit
+- stevia
+- chocolate
+- cinnamon
+- gluten free
+- oat flour
+- whole wheat
+- raisin
+- nut
+- pb2
+- flour
+- applesauce
+- granular
+- allulose
+- erythritol
+- oatmeal raisin
 Description: Delicious cookies made without sugar and butter? Want more protein? Use PB2 or casein protein. Healthy fats? Use almond flour. More fiber? Use oat flour or whole wheat flour. Feel free to mix up the mix-ins as well. The cookies pictured here are a half and half blend of oat and almond flour, with some dark chocolate chips. The possibilities are endless.
 Instructions: 
 - Combine the base ingredients in a large bowl - granulated monk fruit (or any other granular sweetener), unsweetened applesauce, vanilla extract, baking soda, and salt<br><br>

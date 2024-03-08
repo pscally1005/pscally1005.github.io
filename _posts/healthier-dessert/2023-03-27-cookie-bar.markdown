@@ -14,6 +14,15 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- no bake
+- banana
+- peanut butter
+- chocolate
+- oat flour
+- oats
+- vanilla
+- gluten free
 Description: The classic Internet/Pinterest/TikTok healthy dessert is some combination of bananas, chocolate chips, oats, and peanut butter (I'm sure you've noticed). This recipe is my take on that formula, and works really well out of the freezer as a dessert or even a breakfast. You could also use some protein powder in place of oats if you so desire!
 Instructions: 
 - Line a tupperware or 8" baking pan with parchment paper<br><br>

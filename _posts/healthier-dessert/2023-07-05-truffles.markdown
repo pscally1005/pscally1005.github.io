@@ -14,6 +14,21 @@ Rest: 10
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- oreo ball
+- cocoa powder
+- dutch cocoa
+- truffle
+- chocolate covered
+- cottage cheese
+- maple
+- syrup
+- peanut butter
+- honey
+- applesauce
+- coconut oil
+- melted
+- gluten free
 Description: These healthy truffles are my variation of a healthy Oreo ball. They taste amazing right out of the freezer, and don't even need to be coated in chocolate if you want to save even more calories. They're even better when made with dutch process cocoa instead of natural cocoa, giving it more of that classic Oreo taste.
 Instructions: 
 - In a large bowl, mix together the truffle ingredients (peanut butter, honey, applesauce, whipped cottage cheese, vanilla, salt, cocoa, PB2, and oat flour). Mix in the oat flour a little at a time, pressing the spoon into the dough to get it fully combined<br><br>

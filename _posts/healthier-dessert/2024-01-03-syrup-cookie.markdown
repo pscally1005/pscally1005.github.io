@@ -14,6 +14,21 @@ Rest: 30
 Cook: 8
 Source1: 
 Source2: 
+tags: 
+- maple syrup
+- honey
+- gluten free
+- oat flour
+- oats
+- applesauce
+- vanilla
+- chocolate chip
+- raisin
+- nut
+- peanut flour
+- pb2
+- cinnamon
+- oatmeal raisin
 Description: These cookies are similar to my granulated monk fruit cookies, as they're customizable and sugar free. Instead of a granular sweetener though, these use a liquid zero calorie sweetener, so that way you can make them with whatever sweet device you have on hand. Feel free to mix up the flours (whole wheat, almond oat flour, etc.) or the mix-ins (chocolate chips, chopped nuts, raisins, etc.)
 Instructions: 
 - In a bowl, mix together the base ingredients - sugar free syrup (or any other liquid sweetener), unsweetened applesauce, vanilla extract, baking soda, and salt<br><br>

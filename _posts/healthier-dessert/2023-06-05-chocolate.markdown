@@ -14,6 +14,17 @@ Rest:
 Cook: 
 Source1: https://healthyrecipesblogs.com/homemade-chocolate/#recipe
 Source2: 
+tags: 
+- cocoa powder
+- coconut oil
+- melted coconut oil
+- chocolate bar
+- chopped chocolate
+- chocolate chips
+- chip
+- unsweetened
+- vanilla
+- bark
 Description: When recipes call for melted chocolate or chocolate chips, I typically make some variation of this recipe. Sure, you could just melt an unsweetened bar of chocolate with your desired sweetener, but this is just as much effort and cheaper too. Mix in some chopped nuts too if you want to spice it up!
 Instructions: 
 - Prepare a bread pan or tupperware with parchment paper. Set aide<br><br>

@@ -14,6 +14,19 @@ Rest: 60
 Cook: 8
 Source1: 
 Source2: 
+tags: 
+- raisin
+- blend
+- almond
+- almond flour
+- almond meal
+- nut butter
+- nut
+- peanut
+- peanut butter
+- peanut flour
+- chocolate chip
+- gluten free
 Description: These healthy chocolate chip cookies use date paste and almond flour as a base, and avoids using sugar, butter, and white flour. If you're anything like me and find most desserts way too sweet, you'll find that you enjoy these cookies much more than any traditional chocolate chip cookie.
 Instructions: 
 - Preheat oven to 350F and line a large cookie sheet with parchment paper<br><br>

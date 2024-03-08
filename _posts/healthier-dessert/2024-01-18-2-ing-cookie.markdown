@@ -14,6 +14,19 @@ Rest:
 Cook: 8
 Source1: 
 Source2: 
+- two ingredient
+- peanut butter
+- nut butter
+- nuts
+- almond butter
+- banana
+- applesauce
+- unsweetened applesauce
+- cinnamon
+- vanilla
+- extract
+- gluten free
+- sugar free
 Description: My leftover ripe banana and container of peanuts were eyeing me funny, so I created fresh nut butter to use in these simple cookies. They have a good source of fat and protein, low in sugar (added sugar free without the chocolate), and come in at around 80 calories for a peanut butter cookie (still less than 100 with the chocolate).
 Instructions: 
 - In a medium bowl, mash your banana with the back of a fork. Mix in the peanut butter, and your base recipe is done<br><br>

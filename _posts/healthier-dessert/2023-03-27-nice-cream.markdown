@@ -14,6 +14,19 @@ Rest:
 Cook: 
 Source1: https://chocolatecoveredkatie.com/banana-ice-cream-healthy/
 Source2: 
+tags: 
+- frozen
+- blend
+- mint
+- peanut butter
+- nut
+- almond
+- berry
+- fruit
+- cocoa
+- cocoa powder
+- ice cream
+- chipwich
 Description: Banana ice cream was an Internet trend for a reason - it tastes really good, is a super customizable base, and is much healthier than traditional ice cream. Without added sugar or heavy cream, banana ice cream tastes and feels just like real ice cream, and can be made in 5 minutes.
 Instructions: 
 - Break/cut up the banas into pieces. They don't need to be that small, maybe an inch thick. Freeze overnight in an airtight bag<br><br>

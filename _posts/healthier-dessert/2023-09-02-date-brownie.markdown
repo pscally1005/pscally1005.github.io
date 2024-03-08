@@ -14,6 +14,24 @@ Rest:
 Cook: 30
 Source1: https://hangryeconomist.com/date-brownies/
 Source2: 
+tags: 
+- gluten free
+- raisin
+- date
+- almond
+- almond butter
+- peanut butter
+- nut butter
+- cocoa powder
+- chocolate chip
+- banana
+- applesauce
+- syrup
+- maple syrup
+- honey
+- fudgy
+- blend
+- process
 Description: These date brownies are my favorite healthy baked dessert I've ever made, and one you can certainly serve to a crowd without people realizing they're healthy. These brownies are much more than just a healthy substitute for the real deal, as they lead me to deleting my classic brownie recipe after tasting them.
 Instructions: 
 - Preheat the oven to 350F and line an 8" square pan with parchment paper. Spray the parchment paper<br><br>

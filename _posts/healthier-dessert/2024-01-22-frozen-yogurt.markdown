@@ -14,6 +14,26 @@ Rest: 165
 Cook: 
 Source1: https://healthyrecipesblogs.com/frozen-yogurt-recipe/#recipe
 Source2: 
+tags: 
+- fro yo
+- ice cream
+- nice cream
+- frozen yogurt
+- churn
+- chocolate
+- cocoa powder
+- fruit
+- nut
+- olive oil
+- extra virgin olive oil
+- honey
+- maple syrup
+- monk fruit
+- liquid monk fruit
+- freeze
+- frozen
+- topping
+- chocolate chip
 Description: This frozen yogurt base can be easily customized into chocolate, fruity, vanilla, mint, or almond flavors. It's higher in protein, sugar free (with monk fruit, or refined sugar free with honey), filling, and a perfect dessert to end off your night. They can be made individually in air tight containers, or in 1 big pan to scoop out of.
 Instructions: 
 - This can either be made with full fat greek yogurt, or nonfat greek yogurt plus olive oil (1 tbsp, 15g).  For a sweetener, you have the choice of either liquid stevia/monk fruit (1 tsp, 5g), or honey/maple syrup (1/4 cup, 80g).  Here, I'll use the fat free yogurt with EVOO, and liquid stevia<br><br>

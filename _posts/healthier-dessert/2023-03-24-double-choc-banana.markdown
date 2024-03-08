@@ -14,6 +14,17 @@ Rest:
 Cook: 55
 Source1: https://www.youtube.com/watch?v=4AaCp1rMbGo
 Source2: 
+tags: 
+- cocoa
+- chocolate chip
+- cocoa powder
+- banana
+- yogurt
+- maple
+- honey
+- gluten free
+- oats
+- oat flour
 Description: Banana bread is a great breakfast or dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel great at sweets time. It's very similar to my blueberry muffins and breakfast banana bread recipes.
 Instructions: 
 - Preheat the oven to 350F, and line a bread pan with parchment paper. Spray the inside of the paper as well<br><br>

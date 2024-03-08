@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,13,,
+Calories,12,,
 "Vitamin A, RAE",0.69,mcg,0 %
 "Carotene, alpha",0.02,mcg,
 "Carotene, beta",1.44,mcg,
@@ -67,7 +67,7 @@ Calories,13,,
 "Valine",0.008,g,0 %
 "Phenylalanine + Tyrosine",0.008,g,0 %
 "Methionine + Cysteine",0.002,g,0 %
-"Carbohydrate",3.29,g,1 %
+"Carbohydrate",2.96,g,1 %
 "Fiber",0.64,g,2 %
 "Sugars",1.65,g,
 "Sugars, added",0.25,g,
@@ -77,7 +77,7 @@ Calories,13,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.01,g,
-"Net carbs",2.65,g,
+"Net carbs",2.32,g,
 "Fat",0.012,g,0 %
 "Saturated fatty acids",0.002,g,0 %
 "Butanoic acid",0,g,

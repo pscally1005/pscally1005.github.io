@@ -14,6 +14,12 @@ Rest: 30
 Cook: 8
 Source1: https://www.youtube.com/watch?v=LZZxC1wfRAc
 Source2: 
+tags: 
+- maple
+- syrup
+- almond butter
+- gluten free
+- oat flour
 Description: These soft baked peanut butter cookies are naturally sweetened with honey (or maple syrup), and still feature that classic criss-cross design on the top. They're all about the natural peanut butter, have a subtle honey taste, gluten free, and not crumbly!
 Instructions: 
 - In a large bowl, beat together peanut butter, sweetener, applesauce (or banana), and vanilla with a hand mixer (or fork) until smooth, about 1 minute<br><br>

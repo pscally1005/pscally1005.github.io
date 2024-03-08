@@ -14,6 +14,16 @@ Rest:
 Cook: 45
 Source1: https://www.youtube.com/watch?v=Pc2HZMPWi-M&t=7s
 Source2: 
+tags: 
+- apple crisp
+- gluten free
+- gala
+- honeycrisp
+- applesauce
+- oats
+- nut
+- cinnamon
+- pie
 Description: Let me guess, you went apple picking this fall, and now you have way too many apples, but are struggling to find something healthy to bake with them. Just me? Well this is awkward then... Or make some sugar free apple butter
 Instructions: 
 - Half, core, and thinly slice each apple (about 6 medium gala apples). Add to a large bowl<br><br>

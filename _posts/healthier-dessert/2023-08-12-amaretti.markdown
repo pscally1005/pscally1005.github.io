@@ -14,6 +14,19 @@ Rest: 60
 Cook: 13
 Source1: https://www.kitchensanctuary.com/chewy-amaretti-cookies/#recipe
 Source2: 
+tags: 
+- almond
+- almond extract
+- cookie
+- italian
+- egg white
+- powdered sugar
+- stevia
+- granular
+- monk fruit
+- allulose
+- erythritol
+- granulated monk fruit
 Description: Amaretti cookies are an Italian classic at any holiday, and always my favorite dessert at the table. This recipe is identical to the traditional, except with granulated sugar swapped for monk fruit. They're gluten free, don't have any butter or oil, and get their healthy fats from almonds. To use up those leftover yolks, whip up a quick Hollandaise sauce<br><p><a href="hollandaise">Greek Yogurt Hollandaise Sauce</a></p>
 Instructions: 
 - In a large bowl, mix together the almond flour, sweetener, and salt<br><br>
