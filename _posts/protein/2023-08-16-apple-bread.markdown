@@ -14,6 +14,19 @@ Rest:
 Cook: 30
 Source1: https://www.youtube.com/watch?v=hS1cTJBfj98&t=16s
 Source2: 
+tags: 
+- apple cake
+- whey
+- casein
+- cottage cheese
+- protein powder
+- gala apple
+- oat flour
+- gluten free
+- oats
+- cinnamon
+- ginger
+- cake
 Description: This cinnamon apple bread is a perfect fall based dessert that won't set you off your healthy eating path. The combination of cinnamon and ginger with apples is a classic for a reason! This recipe also works fantastic as a carrot cake recipe too, just swap out the apples for grated carrots.
 Instructions: 
 - Combine dry ingredients in a bowl - oat flour, whey, casein, baking powder, cinnamon, salt, baking soda, and ginger<br><br>

@@ -14,6 +14,18 @@ Rest:
 Cook: 25
 Source1: https://www.youtube.com/watch?v=l7RAaLZZDZI
 Source2: https://www.youtube.com/watch?v=gCAhezVD5ts
+tags: 
+- peanut butter
+- pb2
+- peanut flour
+- banana
+- cottage cheese
+- yogurt
+- protein
+- pie
+- crust
+- cake
+- chocolate chip
 Description: This peanut butter cheesecake is a great gluten free and high protein dessert option. It as work as a protein bar too, as it even has more than 10 of protein per 100 calories. Fold in some chocolate chips or serve with some peanut butter and berries to mix it up.
 Instructions: 
 - Mix ingredients together in a bowl or food processor until smooth - whipped fat free cottage cheese, banana, PB2, cornstarch, vanilla, and sweetener<br><br>

@@ -14,6 +14,17 @@ Rest:
 Cook: 90
 Source1: https://www.darngoodveggies.com/how-to-make-sweet-potato-puree/#tasty-recipes-12129-jump-target
 Source2: 
+tags: 
+- sweet potato mash
+- mashed potato
+- roasted
+- puree
+- butternut squash
+- pumpkin
+- canned pumpkin
+- pumpkin pie
+- pumpkin spice
+- mashed sweet potato
 Description: This is less of a recipe and more of a method, as you'd probably use sweet potato puree in something else. Try replacing bananas or applesauce in my baked goods with this for an even more delicious flavor. You could also use this as baby food, or turn them into mashed potatoes. This yields about 300g puree, depending on the size of your potatoes.
 Instructions: 
 - Wash the potatoes. Prick with a fork on all over about 10 times, and wrap in aluminum foil<br><br>

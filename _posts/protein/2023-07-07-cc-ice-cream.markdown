@@ -14,6 +14,21 @@ Rest:
 Cook: 120
 Source1: 
 Source2: 
+tags: 
+- ice cream
+- nice cream
+- frozen
+- churn
+- cottage cheese
+- chocolate
+- cocoa
+- peanut butter chocolate
+- mint chocolate chip
+- mint
+- flavor
+- cocoa powder
+- whey
+- protein powder
 Description: Cottage cheese ice cream is more than just an Internet food trend. It's a protein packed copycat dessert that is filling and satisfied any ice cream cravings. This recipe adds in some protein powder for even more of a protein boost, and can be made in various flavors, like peanut butter or mint chocolate.
 Instructions: 
 - Mix base ingredients together in a tupperware or small blender - cottage cheese, whey, stevia, and vanilla<br><br>

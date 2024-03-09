@@ -14,6 +14,21 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- no bake
+- protein powder
+- banana brownie
+- peanut butter
+- almond butter
+- blended
+- food processor
+- whey
+- nut butter
+- pb2
+- peanut flour
+- nut butter
+- frozen
+- freezer
 Description: These no-bake banana brownies are my favorite protein based dessert. The recipe is made in less than 10 minutes and is full of peanut butter, chocolate, and banana flavor. They melt fast in your hands, but I'm sure that won't be an issue because you will have already finished eating it!
 Instructions: 
 - In a large bowl, mash the bananas with a fork. Mix in the rest of the ingredients - nut butter (almond or peanut), PB2, whey, cocoa, vanilla, and sweetener<br><br>

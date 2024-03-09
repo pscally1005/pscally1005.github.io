@@ -14,6 +14,19 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- edible cookie dough
+- cookie dough
+- gluten free
+- chopped chocolate
+- chocolate chip
+- raw
+- protein powder
+- casein
+- coconut oil
+- cocoa powder
+- oat flour
+- oats
 Description: This edible cookie dough is so simple, and a much healthier way to enjoy a classic treat. They use casein protein as the flour, but for a non protein version, you can use oat flour. I decided to make some homemade chocolate here, but feel free to swap that with some chocolate chips too.
 Instructions: 
 - Start by preparing your chocolate. In a microwave safe bowl, melt the coconut oil. Combine with the rest of the chocolate ingredients - cocoa powder, sweeteners (stevia/monkfruit and honey), and a small pinch of salt<br><br>

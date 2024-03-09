@@ -14,6 +14,25 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- nut butter
+- peanut butter
+- almond butter
+- pistachio butter
+- blend
+- natural nut butter
+- creamy
+- chunky
+- fruity
+- protein
+- whey
+- spread
+- sandwich
+- mint extract
+- peppermint
+- berry
+- berries
+- strawberry
 Description: I love myself a classic natural nut butter, but sometimes I like to mix it up with various different flavors. It's sweet but sugar free, healthy, and lower in fat, since some of the nuts are replaced with fruit or other ingredients. I've also added a scoop of protein powder to add some more protein, since there is proportionally less nuts than regular nut butter.
 Instructions: 
 - In a food processor, blend together the nuts until a smooth nut butter is formed. Scrape down the sides every minute or so. This should take about 5-10 minutes<br><br>

@@ -14,11 +14,23 @@ Rest:
 Cook: 40
 Source1: https://www.loveandlemons.com/how-to-cook-spaghetti-squash/
 Source2: https://www.youtube.com/watch?v=Mxao5iQfxPo
+tags: 
+- crock pot
+- crockpot
+- slow cooker
+- instant pot
+- oven
+- bake
+- spaghetti
+- pasta
+- linguini
+- sauce
+- clam sauce
+- marinara
+- pesto
 Description: Here are 3 methods that I commonly use for making spaghetti squash - oven (my preferred), crockpot, or instant pot. Spaghetti squash is such a versatile vegetable, since it can either be seasoned however you want, or mixed with any of your favorite pasta sauces.
 Instructions: 
 - <br><u>Crockpot</u><br>
-- Rinse squash, dry, prick with a fork, and cover and cook for 3-4 hours on low for a 4-5 pound squash. Be careful not to overcook, or it will be mush (been there before lol)<br><br>
-
 - Rinse squash, dry, prick with a fork, and cover and cook for 3-4 hours on low for a 4-5 pound squash. Be careful not to overcook, or it will be mush (been there before lol)<br><br>
 
 - Mix wit your desired seasonings, and serve<br><br>

@@ -14,7 +14,17 @@ Rest:
 Cook: 50
 Source1: https://thecleaneatingcouple.com/healthy-buffalo-chicken-dip/
 Source2: 
-Description: I'm finding recently that although I don't really like chips, I love any sort of dip. I guess I'm on a dip kick lately, with Spinach Artichoke, Buffalo Chicken, and now French Onion Dip. All are perfect for dipping with raw peppers, chips, or carrots, or over a salad or sandwich. Caramelized onions are one of my favorites, and they really shine here
+tags: 
+- shredded chicken
+- hot sauce
+- yogurt
+- plain nonfat greek yogurt
+- cottage cheese
+- super bowl
+- tortilla
+- chip
+- protein
+Description: This buffalo chicken dip is great for your raw vegetables, crackers, or chips, tastes better than the original, and won't leave you feeling sick from all the cream cheese. I cut back on the cheese, and added some additional spices and also some roasted carrots for extra flavor and nutrition. The Super Bowl was a few days ago, so I'm a bit late, but whatever
 Instructions: 
 - Heat your oven to 400F, and line a cookie sheet with parchment. Cut your carrots into strips, and add to the pan. Season with salts and olive oil, and roast for 25-30 minutes. Transfer to a food processor, blend until finely chopped, and set aside<br><br>
 

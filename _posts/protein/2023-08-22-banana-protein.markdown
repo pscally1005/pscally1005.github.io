@@ -14,6 +14,22 @@ Rest:
 Cook: 60
 Source1: 
 Source2: 
+tags: 
+- banana bread
+- banana peanut butter
+- peanut butter banana
+- whey protein powder
+- protein powder
+- breakfast
+- dessert
+- mashed banana
+- banana
+- walnut
+- chopped nut
+- chia
+- cake
+- bread
+- food processor
 Description: If you want to have banana bread for breakfast or a dessert, this recipe works as a great way to satisfy that craving while still hitting your protein needs. This healthy cake has some healthy fats in chia seeds and peanut butter, and is free of added sugars and artificial sweeteners.
 Instructions: 
 - Preheat your oven to 350F and line a bread pan with parchment paper. Spray with oil spray as well<br><br>

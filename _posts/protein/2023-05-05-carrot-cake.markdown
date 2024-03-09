@@ -14,13 +14,37 @@ Rest:
 Cook: 25
 Source1: https://www.youtube.com/watch?v=vCvh4tf29d4&t=1s
 Source2: 
+tags: 
+- frosting
+- cottage cheese
+- cake
+- pumpkin spice
+- cinnamon
+- nutmeg
+- ginger
+- roasted carrot
+- carrot puree
+- protien
+- whey
+- casein
+- gluten free
+- oat flour
+- oats
+- chopped nuts
+- nuts
+- pb2
+- nut flour
+- peanut flour
+- plain nonfat greek yogurt
+- yogurt
+- layer cake
 Description: Carrot cake is my personal favorite dessert, outside of Italian Rainbow Cookies. Which is why I was most interested in making this variation, and I am very happy with the result. Roasting the carrots beforehand really brings the flavor to a whole new level, and it also ensures that you won't have little carrot bits in your cake or mouth.
 Instructions: 
 - Cut the carrots into strips. Lightly season with salt and oil and roast for 30 minutes at 400F. Blend in a food processor to make the carrot "puree"<br><br>
 
 - Lower your oven to 350F, and line 2 8" cake pans with parchment paper (or aluminum foil). Liberally spray the paper as well<br><br>
 
-- In a large bowl, mix together the dry ingredients - oiat flour, casein, whey, cinnamon, ginger, baking powder, baking soda, nutmeg, and salt<br><br>
+- In a large bowl, mix together the dry ingredients - oat flour, casein, whey, cinnamon, ginger, baking powder, baking soda, nutmeg, and salt<br><br>
 
 - To a separate bowl, add the wet ingredients (eggs, applesauce, yogurt, vanilla, and liquid stevia) and the carrot puree. Mix until fully combine<br><br>
 

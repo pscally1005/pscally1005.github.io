@@ -14,6 +14,15 @@ Rest:
 Cook: 480
 Source1: 
 Source2: 
+tags: 
+- french onion
+- onion dip
+- crockpot
+- crockpot
+- garlic
+- carmelized onions
+- onion jam
+- french onion dip
 Description: Caramelized onions are simple and delicious, but take a while with often stirring on the stove. I've done them in a slow cooker here, so you can let them go all day, and check on them every hour or so. Caramelized Onions are great on nearly everything, give it a go
 Instructions: 
 - Slice all your onions, and add to a large slow cooker. Season, and mix, making sure to separate the onions from other layers<br><br>

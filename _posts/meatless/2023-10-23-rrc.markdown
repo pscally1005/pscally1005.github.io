@@ -14,6 +14,16 @@ Rest:
 Cook: 25
 Source1: 
 Source2: 
+tags: 
+- rensselaer running club
+- running club
+- pasta party
+- roasted broccoli
+- salsa
+- hot sauce
+- chili powder
+- veggie
+- vegetable
 Description: My famous broccoli gets its name from my college's running club pasta parties, which we hosted the night before our races. I would make this every time, and it was always a massive hit and gone in an instant. If you're not really a fan of broccoli, I'd really recommend giving this a try. It really masks the gross flavors of broccoli with a properly seasoned dish. I always paired this with my penne and meat baked casserole, which is linked below<br><p><a href="penne-casserole">Penne and Meat Casserole Bake</a></p>
 Instructions: 
 - Preheat oven to 425F and spray a 9x13 pan with oil<br><br>

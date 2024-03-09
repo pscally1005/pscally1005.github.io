@@ -14,6 +14,22 @@ Rest:
 Cook: 105
 Source1: https://thebeet.com/summer-rainbow-ratatouille/
 Source2: 
+tags: 
+- remmy
+- eggplant
+- zucchini
+- yellow squash
+- summer squash
+- squash
+- onion
+- garlic
+- tomato
+- stew
+- soup
+- winter
+- crushed tomatoes
+- bowl
+- dutch oven
 Description: This simple Ratatouille is a stewed dish of various vegetables in a tomato sauce. This is my preferred way to make this dish, as it's way simpler like this, but feel free to make it look pretty like in the movie.
 Instructions: 
 - Preheat the oven to 350F<br><br>

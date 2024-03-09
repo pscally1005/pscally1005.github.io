@@ -14,6 +14,25 @@ Rest:
 Cook: 30
 Source1: 
 Source2: 
+tags: 
+- lb
+- pound cake
+- chickpea
+- garbanzo bean
+- almond
+- almond flour
+- almond meal
+- banana
+- mashed banana
+- blend
+- food processor
+- yogurt
+- plain nonfat greek yogurt
+- bean cake
+- breakfast
+- gluten free
+- one pound
+- 1 pound
 Description: A traditional pound cake is made with a pound each of eggs, sugar, butter, and flour; that's it. I wanted to create a healthier version with equal parts of 4 ingredients, so I came up with this. I made this as a joke, but it works wells as a better 4 ingredient healthy cake. As to not end up with something massive, I used only a quarter pound of everything, so at least it's a pound total of raw ingredients.
 Instructions: 
 - In a food processor, blend together all the ingredients everything is finely chopped and mixed, about 2 minutes<br><br>

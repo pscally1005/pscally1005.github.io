@@ -14,6 +14,21 @@ Rest:
 Cook: 25
 Source1: 
 Source2: 
+tags: 
+- spinach
+- kale
+- collard greens
+- chopped
+- onion
+- chili powder
+- eggs
+- vegetable
+- veggoe
+- cumin
+- hot sauce
+- salsa
+- lemon
+- garlic
 Description: I made some variation of this dish all the time. It goes great as a side, but most often I use this in my morning scrambled eggs. It's spicy, warm, comforting, and filling all in one healthy package
 Instructions: 
 - Heat a pan on medium heat with olive oil. Cut your onions into a small dice, and add to the pan with salt. Cover and cook until they start to turn translucent, about 5 minutes<br><br>

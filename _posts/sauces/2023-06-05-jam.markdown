@@ -14,6 +14,19 @@ Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=N5KhL0Al9vE&t=1s
 Source2: 
+tags: 
+- jam
+- jelly
+- blueberry
+- raspberry
+- blackberry
+- unsweetened applesauce
+- pbj
+- pb&j
+- preserve
+- maple syrup
+- homey
+- frozen berry
 Description: As you probably know by now, I love a good PBJ with a low sugar jam. This simple berry jam makes use of extra fresh blackberries or raspberries that you probably picked up at a farmers market. The pectin in the apples helps thicken it and make it slightly sweeter, and the little maple syrup really rounds out the flavors. Each serving is about 1 tbsp, or 19g.
 Instructions: 
 - To a 10” pan, add the berries and maple syrup. Mash with a potato masher<br><br>

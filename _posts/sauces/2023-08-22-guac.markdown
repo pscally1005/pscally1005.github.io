@@ -14,6 +14,22 @@ Rest:
 Cook: 
 Source1: https://www.purelykaylie.com/best-guacamole-recipe/#tasty-recipes-13542-jump-target
 Source2: 
+tags: 
+- guac
+- mexican
+- chili powder
+- avocado
+- mashed avocado
+- avocado toast
+- taco
+- fajita
+- wrap
+- salad
+- bowl
+- onion
+- tomato
+- cilantro
+- garlic
 Description: This guac looks a little more brown than normal, but that's because I added some extra spices to make it taste like more than just avocado. Guacamole with more taco flavors is easily a win in my book, but feel free to leave them out to reserve its green color. 1 serving is about 2 tbsp, or 28 g.
 Instructions: 
 - Add ripe avocados to a large bowl. Using a fork, mash until nearly smooth.<br><br>

@@ -14,6 +14,27 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- peanut butter chocolate
+- chocolate peanut butter
+- protein
+- whey
+- applesauce
+- unsweetened applesauce
+- nut butter
+- peanut
+- peanut butter
+- cocoa powder
+- spread
+- chocolate
+- casein
+- protein bite
+- oat flour
+- gluten free
+- oats
+- ball
+- cookie dough
+- brownie
 Description: I'll make this quick protein packed chocolate spread every so often, and store the leftovers in the fridge. It's sweet without being loaded with added sugars, and goes great on toast or on oatmeal. Each serving is about 2 tbsp or 40g
 Instructions: 
 - Mix all ingredients in a small container, and store the leftovers in the fridge<br><br>

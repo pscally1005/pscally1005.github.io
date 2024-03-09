@@ -14,6 +14,22 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- peanut butter and jelly
+- bread
+- whole wheat
+- whey protein powder
+- protein
+- whey
+- nut butter
+- sandwich
+- banana
+- mashed banana
+- jam
+- jelly
+- almond butter
+- pb&j
+- pbj
 Description: I came up with this idea, as it rhymes with PB&J, and serves as a tastier and healthier option for the classic sandwich. The added proteins in the peanut butter and jelly serve to make the sandwich more filling, and without the added sugars of typical jelly or jam. To make it even better, serve this on my whole wheat bread, which is linked below<br><p><a href="ww-bread">100% Whole Wheat Bread</a></p>
 Instructions: 
 - For the peanut butter - in a small bowl or glass, combine peanut butter, PB2, and milk<br><br>

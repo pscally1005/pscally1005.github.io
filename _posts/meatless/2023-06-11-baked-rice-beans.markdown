@@ -14,6 +14,16 @@ Rest:
 Cook: 90
 Source1: 
 Source2: 
+tags: 
+- dutch oven
+- baked beans
+- chipotle peppers
+- adobo sauce
+- navy bean
+- brown rice
+- tomato
+- lunch
+- spicy
 Description: This simple baked rice and beans also mixed together vegetables and a spicy sauce. This makes a bunch of food, enough to last you for lunch through two whole work weeks.
 Instructions: 
 - Preheat oven to 400F.  Cut your vegetables (peppers, carrots, and onions) into a medium dice<br><br>

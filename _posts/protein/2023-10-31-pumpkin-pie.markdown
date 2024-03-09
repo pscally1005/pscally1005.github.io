@@ -14,6 +14,23 @@ Rest:
 Cook: 45
 Source1: https://theproteinchef.co/protein-pumpkin-pie-recipe/
 Source2: 
+tags: 
+- pumpkin spice
+- pie
+- crust
+- pumpkin puree
+- canned pumpkin
+- fall
+- cinnamon
+- ginger
+- nutmeg
+- clove
+- banana
+- protein powder
+- whey
+- plain nonfat greek yogurt
+- yogurt
+- gluten free
 Description: Alliterations aside, this pumpkin pie is made with a protein powder and oat flour crust, and features a filling of pumpkin puree, liquid monk fruit, and no added sugars. For some healthy fats, mix some chopped nuts into the filling, or sprinkle on top of the pie.
 Instructions: 
 - Preheat your oven to 350F. Liberally grease a 9" metal pie pan with oil spray<br><br>

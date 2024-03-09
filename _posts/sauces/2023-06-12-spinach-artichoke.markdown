@@ -14,6 +14,20 @@ Rest:
 Cook: 30
 Source1: https://skinnyfitalicious.com/healthy-spinach-artichoke-dip/#recipe
 Source2: 
+tags: 
+- artichoke spinach dip
+- cottage cheese
+- plain nonfat greek yogurt
+- yogurt
+- dip
+- spread
+- bake
+- chopped
+- spinach
+- collard greens
+- kale
+- creamy
+- super bowl
 Description: Spinach Artichoke dip is a game day classic, but also a calorie bomb. I lightened it up here by avoiding all the extra cream and using minimal cheese, but still while preserving that great taste. This goes great with some carrots, crackers, or on a sandwich or salad.
 Instructions: 
 - Preheat oven to 400F, and spray a 9x13" baking dish with oil<br><br>

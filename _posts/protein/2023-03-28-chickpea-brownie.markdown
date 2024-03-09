@@ -14,6 +14,34 @@ Rest:
 Cook: 50
 Source1: 
 Source2: 
+tags: 
+- whey
+- casein
+- protein powder
+- brownie
+- blondie
+- cake
+- plain nonfat greek yogurt
+- yogurt
+- cottage cheese
+- peanut butter
+- natural peanut butter
+- oat flour
+- oats
+- gluten free
+- banana
+- mashed banana
+- blended
+- food processor
+- chocolate chip
+- cocoa
+- frosting
+- chickpea
+- garbanzo bean
+- bean
+- protein bar
+- almond extract
+- fiber
 Description: Chickpea brownies, my original protein based dessert, that I think I have refined to near perfection. These bars are a great protein and fiber packed snack to take on the go. They're much less sweet than traditional brownies, but I personally prefer the almond and banana taste that these provide. Don't count out the beans until you try them!
 Instructions: 
 - Blend all ingredients in a food processor until fully mixed - (drained and rinsed) chickpeas, bananas, yogurt, peanut butter, honey, baking powder, vanilla, stevia/monk fruit, almond extract, salt, cocoa, PB2, and protein powder<br><br>

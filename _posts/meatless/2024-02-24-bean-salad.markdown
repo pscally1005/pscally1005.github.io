@@ -14,6 +14,28 @@ Rest:
 Cook: 
 Source1: https://healthyfitnessmeals.com/easy-three-beans-salad-recipe/#recipe
 Source2: 
+tags: 
+- bean dip
+- bean salad
+- three bean
+- black bean
+- pinto bean
+- light red kidney bean
+- dark red kidney bean
+- kidney bean
+- garbanzo bean
+- bean
+- chickpea
+- pepper
+- tomato
+- feta
+- cheese
+- dressing
+- garlic
+- lemon
+- balsamic
+- vinegar
+- balsamic vinegar
 Description: A bean salad is a great side to a meal, or a dip for chips and vegetables. It's simple, healthy, and requires no cooking. Just chopping and draining
 Instructions: 
 - Finely dice your onion, and add to a bowl with cold water. Let the onion soak for 5-10 minutes as you prepare everything else. This removes some of the harsh flavors of the raw onion<br><br>

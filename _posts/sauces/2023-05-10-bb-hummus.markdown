@@ -12,8 +12,21 @@ facts: bbhummus-facts
 Prep: 10
 Rest: 
 Cook: 
-Source1: 
+Source1: https://chocolatecoveredkatie.com/want-to-eat-an-entire-bowl-of-cookie-dough/
 Source2: 
+tags: 
+- dessert hummus
+- chickpea
+- garbanzo bean
+- peanut butter
+- frozen banana
+- blend
+- nut butter
+- pb2
+- peanut flour
+- cinnamon
+- dip
+- cookie dough dip
 Description: Dessert hummus is a great sweet way to enjoy chickpeas. It works really well as a spread on toast, on a PBJ, or in your morning oatmeal. They're naturally sweetened with both bananas and some liquid monk fruit or stevia. Each serving is about 2 tbsp, or 32g.
 Instructions: 
 - The day before, break your bananas into 1" chunks, and add to an airtight bag.  Freeze overnight<br><br>

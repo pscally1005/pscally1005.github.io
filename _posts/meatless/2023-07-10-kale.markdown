@@ -14,7 +14,17 @@ Rest:
 Cook: 10
 Source1: 
 Source2: 
-Description: This vegetarian Mexican inspired dish mixes together sauteed kale, pinto beans, unsweetened BBQ sauce, and is topped with shredded cheese. This goes well with some meatloaf or taco meat as well.
+tags: 
+- pinto beans
+- kale
+- spinach
+- collard greens
+- shredded cheese
+- cheddar
+- bbq sauce
+- barbeque sauce
+- chopped
+Description: This vegetarian Mexican inspired dish mixes together sauteed kale, pinto beans, unsweetened BBQ sauce, and is topped with shredded cheese. This goes well with some meatloaf or taco meat as well.  Here's the link to my unsweetened BBQ sauce recipe that I used<br><p><a href="bbq-sauce">Unsweetened BBQ Sauce</a></p>
 Instructions: 
 - Chop up veggies. Add vegetables, garlic, and oil to a skillet over medium heat. Cook until onions are translucent.<br><br>
 

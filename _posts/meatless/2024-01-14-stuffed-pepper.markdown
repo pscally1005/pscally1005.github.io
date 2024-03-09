@@ -14,6 +14,19 @@ Rest:
 Cook: 60
 Source1: 
 Source2: 
+tags: 
+- red bell pepper
+- red pepper
+- rice
+- beans
+- cheese
+- feta
+- crushed tomatoes
+- tomato
+- chili
+- cumin
+- appetizer
+- stuffed pepper
 Description: Stuffed peppers are a great game day appetizer or side. They're best served warm, so get them while you can. I like to have mine with a side of meatloaf or chili. They're vegetarian and gluten free too.
 Instructions: 
 - Add rice and water to a small pot with water. Bring to a boil, cover, and reduce to a simmer. Cook until the rice is tender and the water is absorbed<br><br>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chocolate Covered Garlic  Cloves"
+title:  "Chocolate Covered Garlic Cloves"
 date:   2023-04-01 00:00:00 -05000
 categories: 
 - Recipes
@@ -14,6 +14,15 @@ Rest:
 Cook: 40
 Source1: https://www.simplyrecipes.com/recipes/roasted_garlic/
 Source2: 
+tags: 
+- april fools day
+- april fool's day
+- melted chocolate
+- roasted garlic
+- garlic clove
+- prank
+- chocolate covered raisins
+- vic
 Description: This was something stupid I did for April Fool's Day, where I passed them off as chocolate covered raisins. This is a fun and harmless prank to anyone not expecting it.
 Instructions: 
 - Preheat oven to 400F and line small baking sheet with aluminum foil<br><br>

@@ -14,6 +14,21 @@ Rest:
 Cook: 20
 Source1: 
 Source2: 
+tags: 
+- roasted veggies
+- simply roasted
+- roasted red peppers
+- carrots
+- asparagus
+- brussel sprouts
+- broccoli
+- cauliflower
+- squash
+- acorn
+- kabocha
+- butternut
+- winter
+- pepper
 Description: Roasted vegetables are so easy to do that I should really be making them more often. You can really do this with whatever vegetables you have on hand, like peppers, broccoli, or asparagus. It's written to be minimally seasoned, that way you can add any other spices you desire for tons of different flavors. Serve it on the side of grilled chicken or fish.
 Instructions: 
 - Preheat oven to 400F and line a baking sheet with aluminum foil or parchment paper<br><br>

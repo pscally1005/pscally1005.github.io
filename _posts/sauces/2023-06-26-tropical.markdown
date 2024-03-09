@@ -14,6 +14,16 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- pineapple
+- mango
+- salsa
+- fajita
+- onion
+- thyme
+- chips
+- tortilla
+- mexican
 Description: This sweet and sour tropical fruit salsa is perfect for fajitas. I personally don't bother with buying a whole pineapple and instead get the precut, but ripe fresh mangos are really a must here. For my fajita recipe, check out the link below<br><p><a href="fajitas">Chicken Fajitas with Peppers</a></p>
 Instructions: 
 - Chop the onion, mango, and pineapple into very small pieces<br><br>

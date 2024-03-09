@@ -14,6 +14,17 @@ Rest:
 Cook: 
 Source1: https://carlsbadcravings.com/guilt-free-greek-yogurt-hollandaise-sauce/#wprm-recipe-container-34607
 Source2: 
+tags: 
+- egg yolk
+- yogurt
+- plain nonfat greek yogurt
+- mayo
+- french
+- dijon mustard
+- mustard
+- paprika
+- lemon
+- garlic
 Description: Any time I made amaretti, macaroons, or anything that uses egg whites, I always struggle to find the use for my leftover yolks. This simple sauce is now my go to for not wasting perfectly good eggs, and uses Greek yogurt instead of butter for higher protein and lower saturated fat. For my cookie recipes, check out the links below<br><p><a href="coconut-macaroons">Coconut Macaroons with Honey</a></p><p><a href="amaretti">Amaretti Cookies with Monkfruit</a></p>
 Instructions: 
 - Assemble a double boiler by heating 1" of water in a medium pot. Place a glass bowl on top. Bring water to a simmer<br><br>

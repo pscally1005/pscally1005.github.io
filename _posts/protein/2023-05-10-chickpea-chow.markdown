@@ -14,6 +14,29 @@ Rest: 15
 Cook: 
 Source1: 
 Source2: 
+tags: 
+- no bake
+- chickpeas
+- garbanzo bean
+- cookie dough
+- edible cookie dough
+- cookie
+- dessert hummus
+- banana
+- peanut butter
+- peanuts
+- nut butter
+- pb2
+- peanut flour
+- whey
+- casein
+- protein powder
+- cinnamon
+- almond extract
+- chopped chocolate
+- ball
+- dough
+- gluten free
 Description: These "Chickpea Chows" as I call them are a no bake healthy cookie dough recipe. They evolved out of my dessert hummus recipe, where I continued to add solids until I had a workable dough. They're naturally sweetened, filling, and a fun way to add more nutrients to your diet.
 Instructions: 
 - In the following order, blend all ingredients together in a food processor - 15.5 oz can chickpeas (drained and rinsed), peanut butter, frozen bananas, liquid sweetener, almond extract, cinnamon, salt, PB2, whey, casein, and oat flour<br><br>

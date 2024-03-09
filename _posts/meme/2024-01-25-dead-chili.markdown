@@ -14,6 +14,20 @@ Rest:
 Cook: 480
 Source1: 
 Source2: 
+tags: 
+- chili powder
+- beans
+- kidney bean
+- black bean
+- pinto bean
+- slow cook
+- crockpot
+- crockpot
+- slow cooker
+- tomato
+- crushed tomato
+- diced green chiles
+- diced chiles
 Description: I was bored once and wanted to make possibly the simplest recipe ever. This chili is so easy that even a doorhanger could do it. No measuring, no cutting, just dump stuff in and go. It used an entire small container of chili powder, couldn't get any simpler than that lmao.
 Instructions: 
 - Open all your containers<br><br>

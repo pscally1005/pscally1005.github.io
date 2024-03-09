@@ -14,10 +14,26 @@ Rest:
 Cook: 
 Source1: https://www.thekitchn.com/easy-copycat-rx-bar-recipe-256203
 Source2: 
+tags: 
+- chocolate bar
+- rx bar
+- protein bar
+- date
+- raisin
+- almond
+- cashew
+- peanut
+- nut
+- chopped nuts
+- whey protein powder
+- protein powder
+- sea salt
+- larabar
+- lara bar
+- no bake
+- gluten free
 Description: RX Bars are one of the prepackaged snacks that I will occasionally buy, as they're pretty healthy with their protein powder and lack of ultra processed ingredients. They are quite pricey though, so I prefer to make them myself. They're dead simple, and way cheaper than what you can get at the store.
 Instructions: 
-- Prepare an 8" square baking dish by lining it with parchment paper. Soak your dates in hot water for about 10 minutes to soften. Set aside the water<br><br>
-
 - Prepare an 8" square baking dish by lining it with parchment paper. Soak your dates in hot water for about 10 minutes to soften. Set aside the water<br><br>
 
 - Blend in the cocoa and protein powder for about 30 seconds, or until fully incorporated.<br><br>

@@ -14,6 +14,27 @@ Rest:
 Cook: 60
 Source1: https://www.youtube.com/watch?v=MjLAaG4PTis
 Source2: 
+tags: 
+- pumpkin spice
+- butternut squash
+- sweet potatoo
+- chia
+- canned pumpkin
+- pumpkin puree
+- puree
+- fall
+- cinnamon
+- ginger
+- loaf
+- bread
+- cake
+- whey
+- pb2
+- peanut flour
+- chia
+- oats
+- oat flour
+- nutmeg
 Description: Fall season means pumpkin season, and this pumpkin loaf is full of protein, and with a good amount of fiber and healthy fats too. It's a great breakfast or dessert that I think you'll enjoy.
 Instructions: 
 - Blend all ingredients together in a food processor until smooth - canned pumpkin puree, quick oats, whey, PB2, chia seeds, peanut butter, baking powder, cinnamon, stevia, ginger, nutmeg, baking soda, and water<br><br>

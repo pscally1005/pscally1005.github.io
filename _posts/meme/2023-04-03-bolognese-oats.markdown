@@ -14,6 +14,19 @@ Rest:
 Cook: 30
 Source1: 
 Source2: 
+tags: 
+- oatmeal
+- oats
+- risotto
+- risoato
+- chatgpt
+- ai
+- bolognese sauce
+- carrot
+- onion
+- tomato sauce
+- tomato
+- savory oats
 Description: I have this saved under meme recipes because of the oats, but it's actually really good. The "Bolognese" is more of a meat and carrot stew, and it's served alongside a "risOATto" with quick oats, seasoned with Parmesan cheese. My brother generated this recipe as a joke with ChatGPT, and I wanted to test it out and turn it into an actual dish.
 Instructions: 
 - Cut the carrots and onion into a large dice and add to a dutch oven with olive oil. Just cover with water and bring to a boil. Boil until all liquid has been cooked off. Set vegetables aside.<br><br>
