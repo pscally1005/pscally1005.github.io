@@ -1,11 +1,5 @@
 other posts tab (ingredient substitutions, health info, homemade ricotta/whey, products, etc.)
 
-add tags to post
-
 add my other python codes to website (split calc, bmi, etc.)
 
-comments
-
-from steven:
-scale down images, use a CDN?
-use smaller image for post feed, but regular image for the actual recipe
+comments, liking, share post button

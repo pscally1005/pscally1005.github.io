@@ -58,8 +58,6 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-csv (0.1.1)
-      jekyll (>= 3)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -103,6 +101,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.5.0)
+    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -110,9 +109,9 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  jekyll-csv
   jemoji (~> 0.13.0)
   minima!
+  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH

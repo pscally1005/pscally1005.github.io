@@ -48,7 +48,7 @@ Instructions:
 - <center><img src="/assets/Food/Meatless/Roasted Veggie/roasted-carrot.jpg" alt="" class="instruction-image"></center><br>
 
 - Broccoli or Cauliflower - 30 minutes<br><br>
-- <center><img src="/assets/Food/Meatless/Roasted Veggie/roasted-broccoli.png" alt="" class="instruction-image"></center><br>
+- <center><img src="/assets/Food/Meatless/Roasted Veggie/roasted-broccoli.jpg" alt="" class="instruction-image"></center><br>
 
 - Squash - 40 minutes<br><br>
 - <center><img src="/assets/Food/Meatless/Roasted Veggie/roasted-squash.jpg" alt="" class="instruction-image"></center>

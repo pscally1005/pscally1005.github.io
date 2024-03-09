@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Meatless
 permalink: /recipes/running-club-broccoli
-image: /assets/Food/Meatless/RRC/rrc-logo.png
+image: /assets/Food/Meatless/RRC/rrc-logo.jpg
 ing: rrc-ing
 facts: rrc-facts
 Prep: 15

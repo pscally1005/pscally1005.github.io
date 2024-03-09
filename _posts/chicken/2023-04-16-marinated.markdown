@@ -32,6 +32,5 @@ Instructions:
 
 - For your plantains, preheat your air fryer to 370F. Use a knife to peel the plantain keeping it in one piece. Air fry for 16 minutes, filling halfway<br><br>
 
-- Remove to a cutting board and slice. Lightly sprinkle with salt, and serve<br><br>
-- <center><img src="/assets/Food/Chicken/Marinated/marinated-5.jpg" alt="" class="instruction-image"></center>
+- Remove to a cutting board and slice. Lightly sprinkle with salt, and serve
 ---
