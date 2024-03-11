@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Red Jalapeno Louisiana Hot Sauce"
+date:   2024-03-10 00:00:00 -05000
+categories: 
+- Recipes
+- Sauces, etc.
+permalink: /recipes/hot-sauce
+image: /assets/Food/Spreads, Sauces, Toppings/Hot Sauce/hot-sauce-cover.jpg
+ing: hotsauce-ing
+facts: hotsauce-facts
+Prep: 10
+Rest: 
+Cook: 20
+Source1: https://moonandspoonandyum.com/louisiana-hot-sauce/#recipe
+Source2: 
+tags: 
+- spicy
+- vinegar
+- red pepper
+- jalepeno
+- franks
+- frank's
+- louisiana
+- tabasco
+- white vinegar
+- vinegar
+- distilled
+Description: I love Frank's hot sauce, I probably do actually put that shit on everything. Here's a simple 3 ingredient recreation of it. It's easy, spicy, and delicious
+Instructions: 
+- Remove the stems (and seeds optionally, if you want to reduce the spice) from the peppers, and roughly chop into a large dice. They'll be blended later, so the size doesn't really matter<br><br>
+
+- In a medium saucepot over high heat, combine the peppers, vinegar, and salt. Cover, bring to a boil, then reduce the heat to medium and let simmer for 10 minutes, or until the peppers are soft. Remove the cover, and let cool for 10 minutes<br><br>
+- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Hot Sauce/hot-sauce-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Transfer the mixture to a blender or food processor, then blend until smooth<br><br>
+
+- Strain the hot sauce through a fine mesh strainer into a mason jar. Use a wooden spoon to grind out all of the liquid. Discard the pulp. Refrigerate for 2 weeks before using.<br><br>
+- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Hot Sauce/hot-sauce-3.jpg" alt="" class="instruction-image"></center><br>
+
+- Store in the refrigerator for up to 4 months.
+---
