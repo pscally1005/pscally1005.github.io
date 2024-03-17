@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Dolmas (Stuffed Grape Leaves)"
+date:   2024-03-12 00:00:00 -0500
+categories: 
+- Recipes
+- Finger Foods
+permalink: /recipes/stuffed-grape-leaves
+image: /assets/Food/Finger Food/Grape/grape-cover.jpg
+ing: grape-ing
+facts: grape-facts
+Prep: 30
+Rest: 
+Cook: 90
+Source1: https://www.themediterraneandish.com/stuffed-grape-leaves-dolmades/#tasty-recipes-10290-jump-target
+Source2: 
+tags: 
+- greek
+- rice
+- brown rice
+- hummus
+- ground meat
+- dill
+- mint
+- grape
+- stuffed
+- cumin
+- lemon pepper
+- nutmeg
+- ginger
+- cinnamon
+- cloves
+- allspice
+Description: Stuffed Grape Leaves are something I occasionally get at Greek restaurants, and I love them every time.  I've tried to recreate that feeling in my kitchen, and I think they've turned out pretty well.  They're great on their own, or dipped in hummus or tzatziki.  This pairs well as a side to a grilled chicken pocket pita, or some roasted fish with lemon.  It's a lot of work on your own, but a fun activity with a partner or group of people
+Instructions: 
+- Rinse your rice under cold water in a fine mesh strainer. In a medium pot, add rice, water, and bouillon. Cover, and bring to a boil over high heat. Reduce heat to medium low, and let simmer for 30-45 minutes, or until fully cooked. This will depend on your brand of rice. Set aside<br><br>
+- <center><img src="/assets/Food/Finger Food/Grape/grape-1.jpg" alt="" class="instruction-image"></center><br>
+
+- Using a strainer, drain and rinse your jar of grape leaves. I bough a 16 oz jar, and probably used about half of it.  Set aside<br><br>
+
+- Cut your onion into a fine dice. To a large pan over medium heat, add onion, oil, and salt. Cover, and cook until onion is translucent, about 5 minutes<br><br>
+
+- Add in the meat, and cook until fully browned. Season with lemon pepper, cumin, cinnamon, cloves, allspice, and nutmeg. Take off the heat<br><br>
+- <center><img src="/assets/Food/Finger Food/Grape/grape-4.jpg" alt="" class="instruction-image"></center><br>
+
+- Finely chop your dill, and add to a large bowl.  An ounce of chopped dill should be around a cup or so. Combine with the rice and meat mixtures<br><br>
+- <center><img src="/assets/Food/Finger Food/Grape/grape-5.jpg" alt="" class="instruction-image"></center><br>
+
+- To stuff the grape leaves, place the leaf on a cutting board with the rough side up. Take about 1 tbsp of filling per leaf, and place in the center. Fold in the sides, and roll over to create a tightly wrapped mini burrito, with the seam side down<br><br>
+- <center><img src="/assets/Food/Finger Food/Grape/grape-6.jpg" alt="" class="instruction-image"></center><br>
+
+- Neatly arrange them (seam side down) in a large pot. Pour water (or broth) over the grape leaves, until just covered. Place an inverted plate on top to prevent them from rising<br><br>
+- <center><img src="/assets/Food/Finger Food/Grape/grape-7.jpg" alt="" class="instruction-image"></center><br>
+
+- Cover the pot with a lid, and cook over medium heat for about 30 minutes<br><br>
+
+- Let cool for 30 minutes before eating<br><br>
+- <center><img src="/assets/Food/Finger Food/Grape/grape-9.jpg" alt="" class="instruction-image"></center><br>
+
+- If you have extra grape leaves, you can finely chop them and add them to a salad
+---
