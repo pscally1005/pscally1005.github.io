@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Cauliflower Mash Shepard's Pie"
+date:   2024-03-17 00:00:00 -05000
+categories: 
+- Recipes
+- Ground Meat
+permalink: /recipes/shepards-pie
+image: /assets/Food/Ground Meat/Shepards/shepards-cover.jpg
+ing: shepards-ing
+facts: shepards-facts
+Prep: 30
+Rest: 
+Cook: 60
+Source1: https://www.youtube.com/watch?v=NGABa1xcdn0
+Source2: 
+tags: 
+- ground meat
+- ground beef
+- ground lamb
+- mashed
+- cauliflower mash
+- shredded cheese
+- cheese
+- irish
+- soda bread
+- zucchini
+- bouillon powder
+- tomato paste
+- bake
+- casserole
+- mashed potato
+- sweet potato
+- buttermilk
+- cottage cheese
+- ground turkey
+- st patrick's day
+- st patricks day
+Description: This honestly has a face made for radio, but it tastes delicious.  Since I'm pairing it with bread, I decided to swap the potatoes for mashed cauliflower to avoid the double hit of carbs. You won't notice the difference, though, it's still just as creamy and delicious. Mashed sweet potatoes would be a great swap here too. This dish is cheesy, filling, hearty, and healthy, being packed with meat and vegetables. A great casserole for a cold summer night, or to prepare ahead of time and bake for friends. This is how I'm choosing to celebrate St. Patrick's Day, along with homemade Irish Soda Bread<br><p><a href="irish-soda-bread">Whole Wheat and Oat Flour Irish Soda Bread</a></p>
+Instructions: 
+- Start by dicing up your vegetables (onion, zucchini, and mushrooms) into a small dice. The onion and zucchini will take roughly the same time to cook, so these can be mixed together. However, the mushrooms will be different, so keep those separate<br><br>
+
+- In a medium bowl or large glass, mix together your broth by combining water, bouillon powder, and cornstarch. Set aside<br><br>
+
+- Start by cooking your vegetables. To a large pan over medium heat, add the onion and zucchini with salt and olive oil. Cover, and cook under ocasional stirring until the onion and celery go translucent, and the zucchini begins to soften, about 10-20 minutes. Set the vegetables aside<br><br>
+
+- In the same large pan (dry, no oil) over medium heat, add the mushrooms only to the pan with a splash of water. Cover, and cook until the mushrooms have fully collapsed and all water is released, about 10-15 minutes. They should be able to start browning now. Set aside with the zucchini and onion<br><br>
+- <center><img src="/assets/Food/Ground Meat/Shepards/shepards-4.jpg" alt="" class="instruction-image"></center><br>
+
+- Add the meat to the pan with oil, and break up with a wooden spatula. Cook until the meat is brown, about 5-10 minutes.  Season the meat mix with soy sauce, minced garlic, garlic powder, onion powder, and black pepper, and salt<br><br>
+- <center><img src="/assets/Food/Ground Meat/Shepards/shepards-5.jpg" alt="" class="instruction-image"></center><br>
+
+- Add back in your vegetables, add in your can of tomato paste, and pour in your prepared broth. Mix, cover, and let simmer for about 15 minutes over medium heat<br><br>
+
+- Meanwhile, as the filling simmers, you can prepare the topping. Add your cauliflower to a pot with a pinch of salt, and cover with water. Bring to a boil, cover, and let boil for about 8 minutes, or until they can be easily pieced with a knife. Drain with a strainer, and add the cauliflower to a food processor<br><br>
+
+- As the cauliflower mash cooks, cut an onion into strips, and add to a medium pan with olive oil and minced garlic. Cover and cook on medium low heat with occasional stirring for about 10 minutes. They should turn translucent and lightly caramelize, and will be blended into the mash. When done, transfer to the food processor with the cauliflower<br><br>
+- <center><img src="/assets/Food/Ground Meat/Shepards/shepards-9.jpg" alt="" class="instruction-image"></center><br>
+
+- To the food processor along with the cauliflower and onions, add in cottage cheese, buttermilk, and spices (paprika, chili powder, garlic and onion powder, and black pepper, and salt). Blend for about a minute until everything is thick and creamy<br><br>
+
+- At this point, your meat filling and mash topping should both be done. Season either to taste with salt and pepper if necessary. Spray a 9x13" pan with oil, and add your filling<br><br>
+- <center><img src="/assets/Food/Ground Meat/Shepards/shepards-11.jpg" alt="" class="instruction-image"></center><br>
+
+- Using a silicone spatula, add the mash on top, and smooth it out. Top with shredded cheese<br><br>
+- <center><img src="/assets/Food/Ground Meat/Shepards/shepards-12.jpg" alt="" class="instruction-image"></center><br>
+
+- (If baking it now) Bake in a preheated 400F oven for about 10 minutes (uncovered), or until the cheese is melted and the top is browned. Optionally, you can broil the top for 1-2 minutes<br><br>
+
+- (If preparing ahead of time and baking later) Take the pan out of the fridge, cover with aluminum foil, and bake in a preheated 400F oven for about 15 minutes, until everything is hot and melted<br><br>
+- <center><img src="/assets/Food/Ground Meat/Shepards/shepards-14.jpg" alt="" class="instruction-image"></center><br>
+---

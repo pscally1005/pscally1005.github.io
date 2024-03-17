@@ -18,8 +18,8 @@ tags:
 - two ingredient
 - peanut butter
 - nut butter
-- nuts
 - almond butter
+- nuts
 - banana
 - applesauce
 - unsweetened applesauce

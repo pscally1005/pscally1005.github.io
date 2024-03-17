@@ -23,9 +23,9 @@ tags:
 - pie crust
 - blend
 - oat flour
+- almond
 - peanuts
 - nuts
-- almond
 - pb2
 - peanut flour
 - maple syrup
