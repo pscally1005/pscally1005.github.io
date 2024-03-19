@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Ground Meat
 permalink: /recipes/egg-roll-bowl
-image: /assets/Food/Ground Meat/Egg Roll/egg-roll.jpg
+image: /assets/Food/Ground Meat/Egg Roll/egg-roll-cover.jpg
 ing: eggroll-ing
 facts: eggroll-facts
 Prep: 20
@@ -35,10 +35,15 @@ Instructions:
 - Heat a large wok over medium to medium high heat. Add the cabbage, carrots, a pinch of salt, and a drizzle of olive oil<br><br>
 
 - Cover the wok with aluminum foil and cook the vegetables until softened to desired texture<br><br>
+- <center><img src="/assets/Food/Ground Meat/Egg Roll/egg-roll-2.jpg" alt="" class="instruction-image"></center>
 
 - Meanwhile, in a large pan or wok, brown the meat with the spices (onion and garlic powder, chili powder, cumin, ginger, pepper, and salt) over medium heat. Mix in soy sauce and gochujang at the end<br><br>
+- <center><img src="/assets/Food/Ground Meat/Egg Roll/egg-roll-3.jpg" alt="" class="instruction-image"></center>
 
 - Mix together the sauce in a bowl or glass. Optionally add some peanut butter<br><br>
 
-- Pour the sauce onto the cooked vegetables. Mix in the meat, season to taste with lemon, soy sauce, and salt, and serve
+- Pour the sauce onto the cooked vegetables. Mix in the meat, season to taste with lemon, soy sauce, and salt, and serve<br><br>
+
+- This can also work as a great filling for dumplings. Lightly wet the edges of the wrapper with water, place a small spoonful on the inside, and seal it shut, crimping the edges. Steam in a pan over medium heat until soft, or air fry at 400F until crispy<br><br>
+- <center><img src="/assets/Food/Ground Meat/Egg Roll/egg-roll-7.jpg" alt="" class="instruction-image"></center>
 ---

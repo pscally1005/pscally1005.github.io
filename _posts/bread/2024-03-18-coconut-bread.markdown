@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Gluten and Grain Free Coconut Bread"
+date:   2024-03-18 00:00:00 -0500
+categories:
+- Recipes
+- Bread
+permalink: /recipes/coconut-bread
+image: /assets/Food/Bread/Coconut Bread/coconut-bread-cover.jpg
+ing: coconutbread-ing
+facts: coconutbread-facts
+Prep: 15
+Rest: 
+Cook: 40
+Source1: https://alldayidreamaboutfood.com/easy-coconut-flour-bread/#recipe
+Source2: 
+tags: 
+- coconut flour
+- gluten free
+- grain free
+- keto
+- protein powder
+- whey
+- unsweetened applesauce
+- shredded cheese
+- cheddar
+- mozzarella
+- low moisture part skim
+- garlic powder
+Description: This loaf of bread is free of both gluten and refined grains. It's higher in protein, lower in carbs, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as toast with jam or a PB&J. It's much simpler than standard bread to make, keto friendly, and great for people with Celiac disease
+Instructions: 
+- Preheat oven to 350F, and line a 9x5" pan with parchment paper<br><br>
+
+- In a large bowl, whisk together the dry ingredients - coconut flour, whey, baking powder, salt, and garlic powder. Make sure everything is fully mixed and there are no clumps of baking powder<br><br>
+
+- In a separate bowl, beat together the eggs, water, oil, and cheese. Optionally add some apple cider vinegar for a slight sour flavor<br><br>
+- <center><img src="/assets/Food/Bread/Coconut Bread/coconut-bread-3.jpg" alt="" class="instruction-image"></center><br>
+
+- Pour the wet into the dry, and mix until well combined. If the batter is too thick, add water 1 tbsp at a time. The batter should be thick but scoopable.  Transfer to your prepared bread pan<br><br>
+- <center><img src="/assets/Food/Bread/Coconut Bread/coconut-bread-4.jpg" alt="" class="instruction-image"></center><br>
+
+- Bake at 350F for about 30-35 minutes, until the top is just firm to the touch<br><br>
+
+- Brush the top with water (or olive oil), and sprinkle with everything bagel seasoning (optional). Return to the oven for another 4 minutes. A toothpick should come out totally clean, and the internal temperature should register about 205F<br><br>
+
+- Remove from the oven, and let cool in the pan for 30 minutes. Transfer to a wire rack in the fridge to totally cool before slicing<br><br>
+- <center><img src="/assets/Food/Bread/Coconut Bread/coconut-bread-7.jpg" alt="" class="instruction-image"></center><br>
+
+- Add slices to a large Ziploc bag, and store in the freezer
+---
