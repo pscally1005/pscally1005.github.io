@@ -9,7 +9,7 @@ permalink: /recipes/vic-oats
 image: /assets/Food/Breakfast/Vic Oats/vic-cover.jpg
 ing: vic-ing
 facts: vic-facts
-Prep: 10
+Prep: 5
 Rest: 
 Cook: 
 Source1: 
@@ -17,16 +17,25 @@ Source2:
 tags: 
 - oatmeal
 - oats
-- protein
+- protein powder
 - casein
 - whey
-- yogurt
-- chia
+- chia seeds
 - gluten free
 - sweet
 - chocolate
 - peanut
+- honey
+- jelly
+- jam
+- raspberry
+- applesauce
+- peanut butter
+- cocoa powder
+- chocolate
 Description: An overnight oats recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of fiber, protein, and healthy fats to start your morning off right
 Instructions: 
-- Add ingredients to a mason jar or Tupperware. Optionally top with mini chocolate chips. Store in the fridge overnight
+- Add ingredients to a mason jar or Tupperware. Optionally top with mini chocolate chips. Store in the fridge overnight<br><br>
+
+- Some ingredient swaps include using jelly (1 tbsp, 18 g) instead of honey (1/2 tbsp, 10 g), a mashed banana instead of applesauce, whey protein instead of casein (same amount, but it'll be less thick), or more protein powder if you're out of chia seeds. Optionally, you can also add 1/4 tsp (1.25 g) liquid monk fruit if you want it slightly sweeter
 ---
