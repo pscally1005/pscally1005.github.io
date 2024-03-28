@@ -11,7 +11,7 @@ ing: coconutbread-ing
 facts: coconutbread-facts
 Prep: 15
 Rest: 
-Cook: 40
+Cook: 45
 Source1: https://alldayidreamaboutfood.com/easy-coconut-flour-bread/#recipe
 Source2: 
 tags: 
@@ -27,19 +27,19 @@ tags:
 - mozzarella
 - low moisture part skim
 - garlic powder
-Description: This loaf of bread is free of both gluten and refined grains. It's higher in protein, lower in carbs, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as toast with jam or a PB&J. It's much simpler than standard bread to make, keto friendly, and great for people with Celiac disease
+Description: This loaf of bread is free of both gluten and refined grains. It's higher in protein, lower in carbs, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as toast with jam or a PB&J. It's much simpler than standard bread to make, keto friendly, and great for people with Celiac disease.  For a sweeter variation, check out the link below<br><p><a href="chocolate-coconut-bread">Chocolate Coconut Loaf</a></p>
 Instructions: 
 - Preheat oven to 350F, and line a 9x5" pan with parchment paper<br><br>
 
 - In a large bowl, whisk together the dry ingredients - coconut flour, whey, baking powder, salt, and garlic powder. Make sure everything is fully mixed and there are no clumps of baking powder<br><br>
 
-- In a separate bowl, beat together the eggs, water, oil, and cheese. Optionally add some apple cider vinegar for a slight sour flavor<br><br>
+- In a separate bowl, beat together the eggs, water, applesauce, and cheese. I've used shredded mozzarella (low moisture part skim), but shredded cheddar would work as well.  Optionally add some apple cider vinegar for a slight sour flavor<br><br>
 - <center><img src="/assets/Food/Bread/Coconut Bread/coconut-bread-3.jpg" alt="" class="instruction-image"></center><br>
 
 - Pour the wet into the dry, and mix until well combined. If the batter is too thick, add water 1 tbsp at a time. The batter should be thick but scoopable.  Transfer to your prepared bread pan<br><br>
 - <center><img src="/assets/Food/Bread/Coconut Bread/coconut-bread-4.jpg" alt="" class="instruction-image"></center><br>
 
-- Bake at 350F for about 30-35 minutes, until the top is just firm to the touch<br><br>
+- Bake at 350F for about 40-45 minutes, until the top is just firm to the touch<br><br>
 
 - Brush the top with water (or olive oil), and sprinkle with everything bagel seasoning (optional). Return to the oven for another 4 minutes. A toothpick should come out totally clean, and the internal temperature should register about 205F<br><br>
 

@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Maafe (African Peanut Stew)"
+date:   2024-03-26 00:00:00 -0500
+categories:
+- Recipes
+- Chicken
+permalink: /recipes/maafe
+image: /assets/Food/Chicken/Maafe/maafe-cover.jpg
+ing: maafe-ing
+facts: maafe-facts
+Prep: 30
+Rest: 
+Cook: 30
+Source1: https://gypsyplate.com/maafe/#maafe
+Source2: https://www.youtube.com/watch?v=PHdPLQdjsfE
+tags: 
+- stew
+- tomato paste
+- bowl
+- natural peanut butter
+- chunky peanut butter
+- peanut butter
+- peanuts
+- onion
+- pepper
+- chicken breast
+- ginger
+- paprika
+- garlic
+- onion
+- chili powder
+- lemon juice
+Description: Maafe is a West African peanut butter stew or soup. This is my non-traditional take on it, trying to add more vegetables and cut back on some fat, since the nuts already add a lot. It's a great savory way of eating peanut butter, and makes a large batch of food for not too much effort
+Instructions: 
+- Cut your onions and bell peppers into a medium dice. Add to a Dutch oven or large pot with a spray of oil and salt. Cover, and cook over medium heat until the peppers soften and the onions turn translucent, about 10 minutes<br><br>
+
+- Meanwhile, cut the excess fat off your chicken, and dice into bite sized cubes. Add to a large bowl. Season with lemon juice, paprika, garlic, onion, salt, and pepper. Mix, and let marinate on the counter as you prepare everything else. You could also marinate the chicken for a few hours in the fridge prior to cooking<br><br>
+- <center><img src="/assets/Food/Chicken/Maafe/maafe-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Add the minced garlic into the pan, and cook for only 30 seconds, until fragrant<br><br>
+
+- Stir in the tomato paste and spices - chili, paprika, ginger, cumin, and cayenne. Cover and let simmer over medium heat for 5 minutes<br><br>
+
+- In a bowl or glass, whisk together your broth using water and bouillon powder<br><br>
+
+- Pour in the broth, and stir in the peanut butter. Add your raw chicken into the pot<br><br>
+
+- Cover, and let simmer over medium low heat for 30 minutes, until the chicken just reaches 165F. Be careful not to over cook it. Season with salt to taste, and optionally garnish with chopped peanuts<br><br>
+- <center><img src="/assets/Food/Chicken/Maafe/maafe-7.jpg" alt="" class="instruction-image"></center><br>
+
+- I've never tried this, but my guess is that this would be great for a crockpot. Do everything above the same, but instead of simmer for 30 minutes on the stove at the end, just cook on low in a slow cooker for about 6 hours. I would definitely use chicken thighs instead of breasts though
+---
