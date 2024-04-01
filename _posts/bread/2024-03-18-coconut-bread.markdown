@@ -27,7 +27,7 @@ tags:
 - mozzarella
 - low moisture part skim
 - garlic powder
-Description: This loaf of bread is free of both gluten and refined grains. It's higher in protein, lower in carbs, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as toast with jam or a PB&J. It's much simpler than standard bread to make, keto friendly, and great for people with Celiac disease.  For a sweeter variation, check out the link below<br><p><a href="chocolate-coconut-bread">Chocolate Coconut Loaf</a></p>
+Description: This loaf of bread is free of both gluten and refined grains. It's higher in protein, lower in carbs, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as toast with jam or a PB&J. It's much simpler than standard bread to make, keto friendly, and great for people with Celiac disease.  For a sweeter variation, see the note at the bottom
 Instructions: 
 - Preheat oven to 350F, and line a 9x5" pan with parchment paper<br><br>
 
@@ -46,5 +46,15 @@ Instructions:
 - Remove from the oven, and let cool in the pan for 30 minutes. Transfer to a wire rack in the fridge to totally cool before slicing<br><br>
 - <center><img src="/assets/Food/Bread/Coconut Bread/coconut-bread-7.jpg" alt="" class="instruction-image"></center><br>
 
-- Add slices to a large Ziploc bag, and store in the freezer
+- Add slices to a large Ziploc bag, and store in the freezer<br><br>
+
+- For a sweeter version, you can make the following adjustments<br>
+- Use flavored whey protein (chocolate or vanilla)<br>
+- Reduce salt to 1/2 tsp<br>
+- Remove the garlic powder<br>
+- Replace apple cider vinegar with vanilla extract<br>
+- Swap the water for unsweetened vanilla almond milk<br>
+- Don't top with seeds<br>
+- Bake the same as above (yes there's still grated mozzarella, trust me you won't see or taste it)<br><br>
+- <center><img src="/assets/Food/Bread/Coconut Bread/coconut-bread-9.jpg" alt="" class="instruction-image"></center>
 ---
