@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "No Sugar Nutella Spread"
+title:  "Protein Chocolate Spread"
 date:   2023-10-27 00:00:00 -05000
 categories: 
 - Recipes
 - Sauces, etc.
-permalink: /recipes/no-sugar-nutella
-image: /assets/Food/Spreads, Sauces, Toppings/Nutella/nutella-cover.jpg
-ing: nutella-ing
-facts: nutella-facts
+permalink: /recipes/protein-chocolate-spread
+image: /assets/Food/Spreads, Sauces, Toppings/Protein Choc/protein-choc-cover.jpg
+ing: proteinchoc-ing
+facts: proteinchoc-facts
 Prep: 5
 Rest: 
 Cook: 
@@ -35,10 +35,11 @@ tags:
 - ball
 - cookie dough
 - brownie
-Description: I'll make this quick protein packed chocolate spread every so often, and store the leftovers in the fridge. It's sweet without being loaded with added sugars, and goes great on toast or on oatmeal. Each serving is about 2 tbsp or 40g
+- nutella
+Description: I'll make this nutella-ish spread every so often, and store the leftovers in the freezer.  It's sweet without being loaded with added sugars, and goes great on toast or on oatmeal.  Each serving is about 2 tbsp or 40g
 Instructions: 
 - Mix all ingredients in a small container, and store the leftovers in the fridge<br><br>
 
 - Optionally, you can turn this spread into some chocolate protein bites. Mix in unflavored casein (1 scoop, 30 g) and oat flour (2 tbsp, 15 g), and shape into balls. Makes about 10-12<br><br>
-- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Nutella/nutella-2.jpg" alt="" class="instruction-image"></center><br>
+- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Protein Choc/protein-choc-2.jpg" alt="" class="instruction-image"></center><br>
 ---
