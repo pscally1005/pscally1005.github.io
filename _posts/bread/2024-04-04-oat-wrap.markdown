@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Gluten Free Oat Wraps"
+date:   2024-04-04 00:00:00 -0500
+categories:
+- Recipes
+- Bread
+permalink: /recipes/oat-wraps
+image: /assets/Food/Bread/Oat Wrap/oat-wrap-cover.jpg
+ing: oatwraps-ing
+facts: oatwraps-facts
+Prep: 15
+Rest: 
+Cook: 10
+Source1: https://www.youtube.com/watch?v=nv0izmH28vA
+Source2: 
+tags: 
+- gluten free
+- oat flour
+- rolled oats
+- quick oats
+- ground oats
+- water
+- bread
+- wrap
+- flatbread
+- tortilla
+- crepe
+Description: These super simple oat flour wraps contain just 3 ingredients, and can be used as a healthy tortilla or crepe. They're gluten free and oil free, great for both tacos and chocolate. For savory fillings, add some garlic and onion powder. For sweet fillings, add some cinnamon and vanilla
+Instructions: 
+- Add ingredients in to a food processor. Allow to soak for 15-30 minutes before blending until smooth<br><br>
+
+- Preheat your pan over medium heat. Pour batter in center the center of the pan. Rotate pan to create an even circle.<br><br>
+
+- Allow to cook until top bubbles and looks dry (1-2 minutes). Flip and cook for an additional 1-2 minutes on the other side<br><br>
+- <center><img src="/assets/Food/Bread/Oat Wrap/oat-wrap-3.jpg" alt="" class="instruction-image"></center>
+---

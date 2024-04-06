@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strawberry Mint Pistachio Butter"
+title:  "Strawberry Mint Protein Pistachio Butter"
 date:   2023-12-03 00:00:00 -05000
 categories: 
 - Recipes

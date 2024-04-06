@@ -31,7 +31,7 @@ Instructions:
 - Divide the dough in 4, and roll out each piece as thin as you can make it. Roll out on a piece of parchment paper or a silicone mat. Use a pizza wheel to cut into squares, and use a fork to prick holes in each cracker<br><br>
 - <center><img src="/assets/Food/Finger Food/Triscuit/triscuit-2.jpg" alt="" class="instruction-image"></center><br>
 
-- Bake in a preheated 350F oven for 10-15 minutes, or until the crackers are medium brown and begin to pull up at the edges.  Transfer to a wire rack to cool. Store in a sealed back at room temperature<br><br>
+- Bake in a preheated 450F oven for 10 minutes, or until the crackers are medium brown and begin to pull up at the edges.  Transfer to a wire rack to cool. Store in a sealed back at room temperature<br><br>
 
 - I ended up with about 70 crackers, so a serving is about 8-9 crackers
 ---

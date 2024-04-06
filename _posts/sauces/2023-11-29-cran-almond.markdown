@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cranberry Almond Butter"
+title:  "Cranberry Protien Almond Butter"
 date:   2023-11-29 00:00:00 -05000
 categories: 
 - Recipes

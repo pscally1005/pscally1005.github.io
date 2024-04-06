@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Roasted Hazelnut Nutella (SF)"
+date:   2024-04-06 00:00:00 -05000
+categories: 
+- Recipes
+- Sauces, etc.
+permalink: /recipes/nutella
+image: /assets/Food/Spreads, Sauces, Toppings/Nutella/nutella-cover.jpg
+ing: nutella-ing
+facts: nutella-facts
+Prep: 15
+Rest: 
+Cook: 10
+Source1: https://youtu.be/BKpYqGMY6sw?si=qIBL-ASJzBmdKiPO
+Source2: 
+tags: 
+- hazelnut butter
+- nutella
+- peanut butter
+- almond butter
+- blend
+- natural nut butter
+- spread
+- toast
+- chocolate
+- carob
+- cocoa
+- applesauce
+- unsweetened applesauce
+Description: Did you know that Nutella contains only about 13% hazelnuts? More than half of Nutella is pure sugar, and over a third of it is hydrogenated oils, gross. This recipe is a much cleaner Nutella, instead being predominantly hazelnuts, and sweetened with fully natural overripe bananas. Carob powder makes it slightly sweeter as well, but feel free to use cocoa powder instead. The nutrition facts are for a 33 g serving, about 2 tbsp
+Instructions: 
+- Preheat your air fryer to 300F. Add hazelnuts to the basket, and roast for 15 minutes. Allow them to rest for about 5 minutes, until cool to the touch<br><br>
+
+- Place nuts inside a large paper or dish towel, and rub together to remove the skins<br><br>
+
+- Add the skinned nuts to a food processor, and blend until a super smooth hazelnut butter forms, scraping down the sides every minute or so. This can take about 5 minutes; don't stop too early<br><br>
+- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Nutella/nutella-3.jpg" alt="" class="instruction-image"></center><br>
+
+- Only once your hazelnut butter is fully made, blend in the rest of the ingredients - bananas, carob (or cocoa), vanilla, and salt. Blend until smooth and thin out with applesauce until you have a spreadable texture. Add any sweetener to taste (if desired). Transfer across 2 small mason jars, and store in the fridge<br><br>
+- <center><img src="/assets/Food/Spreads, Sauces, Toppings/Nutella/nutella-4.jpg" alt="" class="instruction-image"></center>
+---
