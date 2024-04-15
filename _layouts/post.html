@@ -36,8 +36,10 @@ layout: base
     {{ content }}
     
     <!-- Description-->
-    <b><u>Description</u></b><br>
-    &emsp; {{ page.Description }}<br><br>
+    {% if page.Description %}
+      <b><u>Description</u></b><br>
+      &emsp; {{ page.Description }}<br><br>
+    {% endif %}
 
     <!-- Time -->
     {% assign prep_minutes = page.Prep | modulo: 60 %}
@@ -89,12 +91,16 @@ layout: base
   </table>
 
     <!-- Instructions -->
-    <b><u>Instructions</u></b><br>
-    {{ page.Instructions }}<br><br>
+    {% if page.Instructions %}
+      <b><u>Instructions</u></b><br>
+      {{ page.Instructions }}<br><br>
+    {% endif %}
 
     <!-- Servings -->
-    {% assign ser = site.data[page.ing].last %}
-    <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
+    {% if page.ing %}
+      {% assign ser = site.data[page.ing].last %}
+      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
+    {% endif %}
 
     <!-- Nutrition Facts -->
     <table>

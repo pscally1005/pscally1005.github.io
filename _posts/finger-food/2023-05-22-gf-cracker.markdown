@@ -23,7 +23,7 @@ tags:
 - butter
 - peanut
 - snack
-Description: These healthy oat flour crackers are gluten free, and somewhat reminiscent of a graham cracker. They're made with only a little amount of fat and sugar, and go great with anything savory or sweet. If you wanted to use them for s'mores, simply just cut them into bigger pieces
+Description: These healthy oat flour crackers are gluten free, and somewhat reminiscent of a graham cracker. They're made with only a little amount of fat and sugar, and go great with anything savory or sweet. If you wanted to use them for s'mores, simply just cut them into bigger pieces.  For a whole wheat based cracker recipe instead, see my <a href="triscuits">Copycat Triscuit Crackers</a> recipe
 Instructions: 
 - In a large glass bowl, melt the peanut butter. Add all ingredients to a bowl and mix with a wooden spoon. Gently knead a few times<br><br>
 - <center><img src="/assets/Food/Finger Food/GF Crackers/cracker-1.jpg" alt="" class="instruction-image"></center><br>

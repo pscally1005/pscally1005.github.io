@@ -26,7 +26,7 @@ tags:
 - curry
 - indian
 - rice
-Description: These tomato chickpea wraps are inspired by Indian Chana Masala, but made much simpler and easier for you to easily make for yourself for a weekday lunch. Serve on a tortilla or with a side of rice.
+Description: These tomato chickpea wraps are inspired by Indian Chana Masala, but made much simpler and easier for you to easily make for yourself for a weekday lunch. Serve on a tortilla, like my <a href="tortilla">Oat-Wheat Tortillas</a>, or with a side of rice.
 Instructions: 
 - Cook the rice in a medium pot according to directions, about 25 minutes. Or serve with tortillas instead<br><br>
 

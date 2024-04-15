@@ -31,7 +31,7 @@ tags:
 - cinnamon
 - cloves
 - allspice
-Description: Stuffed Grape Leaves are something I occasionally get at Greek restaurants, and I love them every time.  I've tried to recreate that feeling in my kitchen, and I think they've turned out pretty well.  They're great on their own, or dipped in hummus or tzatziki.  This pairs well as a side to a grilled chicken pocket pita, or some roasted fish with lemon.  It's a lot of work on your own, but a fun activity with a partner or group of people
+Description: Stuffed Grape Leaves are something I occasionally get at Greek restaurants, and I love them every time.  I've tried to recreate that feeling in my kitchen, and I think they've turned out pretty well.  They're great on their own, or dipped in <a href="hummus">hummus</a> or <a href="salmon-and-tzatziki">tzatziki</a>.  This pairs well as a side to a grilled chicken pocket pita, or some roasted fish with lemon.  It's a lot of work on your own, but a fun activity with a partner or group of people
 Instructions: 
 - Rinse your rice under cold water in a fine mesh strainer. In a medium pot, add rice, water, and bouillon. Cover, and bring to a boil over high heat. Reduce heat to medium low, and let simmer for 30-45 minutes, or until fully cooked. This will depend on your brand of rice. Set aside<br><br>
 - <center><img src="/assets/Food/Finger Food/Grape/grape-1.jpg" alt="" class="instruction-image"></center><br>

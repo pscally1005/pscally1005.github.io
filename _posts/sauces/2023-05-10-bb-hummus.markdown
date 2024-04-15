@@ -27,7 +27,7 @@ tags:
 - cinnamon
 - dip
 - cookie dough dip
-Description: Dessert hummus is a great sweet way to enjoy chickpeas. It works really well as a spread on toast, on a PBJ, or in your morning oatmeal. They're naturally sweetened with both bananas and some liquid monk fruit or stevia. Each serving is about 2 tbsp, or 32g.
+Description: Dessert hummus is a great sweet way to enjoy chickpeas. It works really well as a spread on <a href="ww-bread">100% Whole Wheat Bread</a>, on a PBJ, or in your morning oatmeal. They're naturally sweetened with both bananas and some liquid monk fruit or stevia. Each serving is about 2 tbsp, or 32g.
 Instructions: 
 - The day before, break your bananas into 1" chunks, and add to an airtight bag.  Freeze overnight<br><br>
 

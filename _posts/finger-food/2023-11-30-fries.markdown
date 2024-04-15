@@ -21,7 +21,7 @@ tags:
 - chicken nugget
 - french
 - roast
-Description: Sweet potato fries are a perfect quick side to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular fries. 
+Description: Sweet potato fries are a perfect quick side to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular fries. Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href="chicken-nuggets">Freezer Chicken Nuggets</a> for a nutritious version of this meal
 Instructions: 
 - Wash your sweet potato, and cut into a fry shape. Add to a bowl, and microwave on high (covered) for 3 minutes<br><br>
 

@@ -31,7 +31,7 @@ tags:
 - dip
 - spread
 - dressing
-Description: This Asian inspired hummus came about after making the Ginger Wellness Shots, and I had a ton of fresh ginger left over. I've taken my original hummus recipe, and used black beans, ginger, and lime juice in place of the regular chickpeas, garlic, and lemon juice. The addition of the soy sauce and sesame oil takes it to another level. This recipe also contains no garlic or onion for those who are sensitive to it, and it only has 5 ingredients!. Each serving is about 2 tbsp, or 31 g.  For my standard hummus, check out the link<br><p><a href="hummus">Lemony Taco Inspired Hummus</a></p>
+Description: This Asian inspired hummus came about after making the Ginger Wellness Shots, and I had a ton of fresh ginger left over. I've taken my original <a href="hummus">Lemony Taco Inspired Hummus</a> recipe, and used black beans, ginger, and lime juice in place of the regular chickpeas, garlic, and lemon juice. The addition of the soy sauce and sesame oil takes it to another level. This recipe also contains no garlic or onion for those who are sensitive to it, and it only has 5 ingredients!. Each serving is about 2 tbsp, or 31 g
 Instructions: 
 - Using a strainer, drain and rinse your can of beans. Here, I used a 15.5 oz can of black beans, but chickpeas or any other beans would be perfect here too<br><br>
 

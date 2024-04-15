@@ -37,7 +37,7 @@ tags:
 - pbj
 - pb&j
 - peanut butter and jelly
-Description: Ah the humble peanut butter. Nice natural, smooth, pourable natural peanut butter. None of that fake no-stir peanut spread stuff, this is the real deal, and is possibly the easiest thing to ever make. As long as you have a good food processor, you'll end up with the best peanut butter you've ever had. Just keep blending until it's super smooth. It might take some time, so don't give up too early! PBJ is my personal kryptonite, so see what I use for jelly and bread below<br><p><a href="ww-bread">100% Whole Wheat Bread</a></p><p><a href="apple-spread">No Sugar Added Apple Spread</a></p>
+Description: Ah the humble peanut butter. Nice natural, smooth, pourable natural peanut butter. None of that fake no-stir peanut spread stuff, this is the real deal, and is possibly the easiest thing to ever make. As long as you have a good food processor, you'll end up with the best peanut butter you've ever had. Just keep blending until it's super smooth. It might take some time, so don't give up too early! PBJ is my personal kryptonite, and I love to use <a href="apple-spread">No Sugar Added Apple Spread</a> for jelly and <a href="ww-bread">100% Whole Wheat Bread</a> for bread
 Instructions: 
 - You can use whatever kind of nuts you like for this recipe.  Peanuts, almonds, pistachios, cashews, you name it.  For nut free alternatives, you can also use unsweetened shredded coconut flakes, sunflower seeds, or pumpkin seeds.  The concept is exactly the same<br><br>
 

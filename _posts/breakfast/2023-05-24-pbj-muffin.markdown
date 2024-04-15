@@ -25,7 +25,7 @@ tags:
 - jelly
 - mini
 - jumbo
-Description: Blueberry muffins are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars. These ones however are much healthier than the classic though, packing fiber with oat flour, and avoiding tons of added sugars and unhealthy fats.
+Description: Blueberry muffins are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars. These ones however are much healthier than the classic though, packing fiber with oat flour, and avoiding tons of added sugars and unhealthy fats.  Check out my <a href="banana-bread">Breakfast Banana Bread</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
 Instructions: 
 - To a large bowl, mash the bananas. Add in the other wet ingredients (maple syrup, applesauce, yogurt, and egg)<br><br>
 

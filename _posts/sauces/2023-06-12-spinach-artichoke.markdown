@@ -28,7 +28,7 @@ tags:
 - kale
 - creamy
 - super bowl
-Description: Spinach Artichoke dip is a game day classic, but also a calorie bomb. I lightened it up here by avoiding all the extra cream and using minimal cheese, but still while preserving that great taste. This goes great with some carrots, crackers, or on a sandwich or salad.
+Description: Spinach Artichoke dip is a game day classic, but also a calorie bomb. I lightened it up here by avoiding all the extra cream and using minimal cheese, but still while preserving that great taste. This goes great with some carrots, crackers, or on a sandwich or salad.  Other great gameday dips are <a href="buffalo-chicken-dip">Lightened Up Buffalo Chicken Dip</a> and <a href="french-onion-dip">Low Fat French Onion Dip</a>, which I highly recommend
 Instructions: 
 - Preheat oven to 400F, and spray a 9x13" baking dish with oil<br><br>
 

@@ -29,6 +29,7 @@ plugins:
 header_pages:
   - _pages/search.md
   - _pages/recipes.md
+  - _pages/misc.md
   - _pages/about.md
 
 # Set to `true` to show excerpts on the homepage.

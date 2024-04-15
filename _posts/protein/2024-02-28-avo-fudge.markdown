@@ -36,7 +36,7 @@ tags:
 - freeze
 - bittersweet
 - gluten free
-Description: This protein fudge is free of both nuts and lactose.  Normal fudge tends to use evaporated or condensed milk, and most healthy fudges use peanut or almond butter.  I've used nut free homemade sunflower seed butter instead, as well as a ripe avocado.  It's totally free of any sugar or sweeteners, but still has a rich taste and texture, while being packed with protein and healthy fats!
+Description: This protein fudge is free of both nuts and lactose.  Normal fudge tends to use evaporated or condensed milk, and most healthy fudges use peanut or almond butter.  I've used <a href="natural-peanut-butter">Homemade Natural Nut Butter</a> with sunflower seeds instead, as well as a ripe avocado.  It's totally free of any sugar or sweeteners, but still has a rich taste and texture, while being packed with protein and healthy fats!  For another fudge recipe, check out the <a href="fudge">Coconut Chocolate Fudge Squares</a>
 Instructions: 
 - I've chosen to use homemade sun butter here, but you can also make almond or peanut butter if you desire. For my 8 cup food processor, I use about 12 oz (336 g) of seeds or nuts. Blend on high for a few minutes, until a super smooth nut butter forms. Reserve 1/2 cup (128 g) in the food processor, and transfer the rest to a mason jar. Store the leftovers at room temperature for about a week<br><br>
 - <center><img src="/assets/Food/Protein Powder/Avo Fudge/avo-fudge-1.jpg" alt="" class="instruction-image"></center><br>

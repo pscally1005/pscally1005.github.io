@@ -42,6 +42,6 @@ Instructions:
 - Strawberry Mint - use pistachios as your nut, along with 4 oz (113 g) strawberries, 2 tbsp (30 g) unsweetened applesauce, and a drop of mint extract (doesn't register in the food database for some reason, so it's not included in the ingredient's list above.  Sorry).  Be very careful with the mint extract, you only need a tiny bit<br><br>
 
 - For my other flavored nut butters, check out the links below<br><br>
-- <p><a href="cran-almond">Cranberry Almond Butter</a></p>
-- <p><a href="choc-pb">Chocolate Banana Peanut Butter</a></p>
+- <a href="cran-almond">Cranberry Almond Butter</a><br>
+- <a href="choc-pb">Chocolate Banana Peanut Butter</a><br>
 ---

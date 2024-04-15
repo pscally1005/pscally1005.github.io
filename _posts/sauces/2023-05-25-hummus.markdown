@@ -34,7 +34,7 @@ tags:
 - pita chip
 - sandwich
 - toast
-Description: Hummus is a staple in my fridge. It's so easy to make, very nutritious, and tastes great on just about anything. Don't count out the cottage cheese! It helps make it creamy without using tahini, something I personally never keep in my kitchen as I'm not really a fan of it. If you like the classic tahini though, go for it! Each serving is about 2 tbsp or 30 g.  Check out my Asian inspired black bean hummus too<br><p><a href="ginger-hummus">Ginger Lime Black Bean Hummus</a></p>
+Description: Hummus is a staple in my fridge. It's so easy to make, very nutritious, and tastes great on just about anything. Don't count out the cottage cheese! It helps make it creamy without using tahini, something I personally never keep in my kitchen as I'm not really a fan of it. If you like the classic tahini though, go for it! Each serving is about 2 tbsp or 30 g.  Check out my Asian inspired <a href="ginger-hummus">Ginger Lime Black Bean Hummus</a> too!
 Instructions: 
 - Drain and rinse the chickpeas.  Blend up chickpeas in a food processor with liquids (oil, cottage cheese, lemon) and garlic<br><br>
 

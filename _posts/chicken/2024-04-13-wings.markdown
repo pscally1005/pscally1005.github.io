@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Gluten Free Baked Buffalo Wings"
+date:   2024-04-13 00:00:00 -0500
+categories:
+- Recipes
+- Chicken
+permalink: /recipes/chicken-wings
+image: /assets/Food/Chicken/Wings/wings-cover.jpg
+ing: wings-ing
+facts: wings-facts
+Prep: 20
+Rest: 
+Cook: 90
+Source1: https://www.instagram.com/p/CZ2C_FdJbQ3/
+Source2: 
+tags: 
+- chicken wings
+- gluten free
+- hot sauce
+- franks
+- frank's
+- louisiana
+- cayenne
+Description: Wings are a great food to have for a party, but they're typically the furthest thing from healthy.  This recipe avoids any sort of unhealthy breading and deep frying, and instead relies of baking them for a simple and crispy dinner.  4 lbs of wings yielded me 10 full wings (20 halves), enough for an appetizer with a gathering of friends.  Any storebought hot sauce with just vinegar, peppers, and salt works great, or use my <a href="hot-sauce">Red Jalapeno Louisiana Hot Sauce</a> recipe
+Instructions: 
+- I had a 4 lb pack of wings, which contained 10 full pieces.  Cut each wing into 2 halves, the drumette and the wingette. Start by cutting down the center, then use your hands to snap the joint in half, and finish by cutting through the rest of the meat. Here's a photo with a diagram of a chicken wing for reference<br><br>
+- <center><img src="/assets/Food/Chicken/Wings/wings-1.jpg" alt="" class="instruction-image"></center><br>
+
+- Transfer wings to 2 parchment lined baking sheets. For about 4 lbs of meat, I had 10 total full wings, so 20 halves. The serving size is marked down as 20 servings then, 1 for each wing. Generously sprinkle just the tops of the wings with salt and pepper<br><br>
+- <center><img src="/assets/Food/Chicken/Wings/wings-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Bake the wings for 45 minutes in a preheated 250F oven. The low temperature helps dry out the wings and melt away extra fat. Note that they are NOT fully cooked here; do not consume<br><br>
+
+- Increase the oven temperature to 425F, and bake for an additional 45 minutes, or until the wings are crispy and a golden pale brown. Remove from the oven, and let rest for 5 minutes<br><br>
+- <center><img src="/assets/Food/Chicken/Wings/wings-4.jpg" alt="" class="instruction-image"></center><br>
+
+- Meanwhile, to a large bowl, add your hot sauce, where here I used my <a href="hot-sauce">Red Jalepeno Louisiana Hot Sauce</a>. Optionally, add some more cayenne if you like it a little spicier. Toss the wings in the sauce, and serve
+---

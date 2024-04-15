@@ -29,7 +29,7 @@ tags:
 - gluten free
 - pesto
 - marinara
-Description: These meatballs are gluten free, and can be made with ground beef, turkey, or chicken. They taste great, and can be eaten on their own, or mixed into a sauce and pasta, like I did here with zucchini noodles. I used my homemade unsweetened pasta sauce recipe here, but feel free to use whatever sauce you desire. Pesto would be great too
+Description: These meatballs are gluten free, and can be made with ground beef, turkey, or chicken. They taste great, and can be eaten on their own, or mixed into a sauce and pasta, like I did here with zucchini noodles. I used my <a href="pasta-sauce">Simple Pasta Sauce</a> recipe here, but feel free to use whatever sauce you desire. Pesto would be great too, like my <a href="evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a>, <a href="creamy-pesto">Creamy Pesto Dip</a>, or my <a href="avocado-pesto">Avocado Pesto - Vegan and Oil Free</a>
 Instructions: 
 - Preheat your oven to 400F, and prepare a large cookie sheet with parchment paper<br><br>
 

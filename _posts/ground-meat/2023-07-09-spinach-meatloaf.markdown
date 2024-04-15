@@ -44,5 +44,5 @@ Instructions:
 
 - Spray the parchment paper in the bread pans, and put meat on the pan. Shape into a loaf, and insert a meat thermometer into the front.<br><br>
 
-- Bake at 350F until meat is done (a least 160F for beef and 165F for turkey), or about 45 minutes, depending on the thickness of your loaf
+- Bake at 350F until meat is done (a least 160F for beef and 165F for turkey), or about 45 minutes, depending on the thickness of your loaf.  Serve with <a href="bbq-sauce">Unsweetened BBQ Sauce</a> on the side
 ---

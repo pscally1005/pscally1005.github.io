@@ -24,7 +24,7 @@ tags:
 - tortilla
 - chip
 - protein
-Description: This buffalo chicken dip is great for your raw vegetables, crackers, or chips, tastes better than the original, and won't leave you feeling sick from all the cream cheese. I cut back on the cheese, and added some additional spices and also some roasted carrots for extra flavor and nutrition. The Super Bowl was a few days ago, so I'm a bit late, but whatever
+Description: This buffalo chicken dip is great for your raw vegetables, crackers, or chips, tastes better than the original, and won't leave you feeling sick from all the cream cheese. I cut back on the cheese, and added some additional spices and also some roasted carrots for extra flavor and nutrition. The Super Bowl was a few days ago, so I'm a bit late, but whatever.  Other great gameday dips are <a href="spinach-artichoke-dip">High Protein Spinach Artichoke Dip</a> and <a href="french-onion-dip">Low Fat French Onion Dip</a>, which I highly recommend
 Instructions: 
 - Heat your oven to 400F, and line a cookie sheet with parchment. Cut your carrots into strips, and add to the pan. Season with salts and olive oil, and roast for 25-30 minutes. Transfer to a food processor, blend until finely chopped, and set aside<br><br>
 

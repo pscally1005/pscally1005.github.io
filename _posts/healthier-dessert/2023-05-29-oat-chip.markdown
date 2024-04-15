@@ -24,7 +24,7 @@ tags:
 - applesauce
 - gluten free
 - cinnamon
-Description: These oatmeal cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally sugar free if using sugar free syrup and sugar free chocolate chips, but you can also use maple syrup (or honey) and regular dark chocolate chips if that's what you desire.
+Description: These oatmeal cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally sugar free if using sugar free syrup and sugar free chocolate chips, but you can also use maple syrup (or honey) and regular dark chocolate chips if that's what you desire.  Or if you have sugar free liquid or granular sweeteners, make either my <a href="syrup-cookies">Sugar Free Syrup Cookies</a> or <a href="monk-fruit-cookies">Granulated Monk Fruit Cookies</a> instead
 Instructions: 
 - In a large bowl, bring together the wet ingredients (vanilla, applesauce, and sweeteener). And in the dry ingredients (quick oats, PB2, baking powder, cinnamon, and salt), and mix together. You can use oat flour instead of PB2 (same amount by weight), but add in 1/4 tsp salt if you do<br><br>
 

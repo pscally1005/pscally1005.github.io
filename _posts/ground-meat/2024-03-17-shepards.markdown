@@ -36,7 +36,7 @@ tags:
 - ground turkey
 - st patrick's day
 - st patricks day
-Description: This honestly has a face made for radio, but it tastes delicious.  Since I'm pairing it with bread, I decided to swap the potatoes for mashed cauliflower to avoid the double hit of carbs. You won't notice the difference, though, it's still just as creamy and delicious. Mashed sweet potatoes would be a great swap here too. This dish is cheesy, filling, hearty, and healthy, being packed with meat and vegetables. A great casserole for a cold summer night, or to prepare ahead of time and bake for friends. This is how I'm choosing to celebrate St. Patrick's Day, along with homemade Irish Soda Bread<br><p><a href="irish-soda-bread">Whole Wheat and Oat Flour Irish Soda Bread</a></p>
+Description: This honestly has a face made for radio, but it tastes delicious.  Since I'm pairing it with bread, I decided to swap the potatoes for mashed cauliflower to avoid the double hit of carbs. You won't notice the difference, though, it's still just as creamy and delicious. Mashed sweet potatoes would be a great swap here too. This dish is cheesy, filling, hearty, and healthy, being packed with meat and vegetables. A great casserole for a cold summer night, or to prepare ahead of time and bake for friends. This is how I'm choosing to celebrate St. Patrick's Day, along with homemade <a href="irish-soda-bread">Whole Wheat and Oat Flour Irish Soda Bread</a>
 Instructions: 
 - Start by dicing up your vegetables (onion, zucchini, and mushrooms) into a small dice. The onion and zucchini will take roughly the same time to cook, so these can be mixed together. However, the mushrooms will be different, so keep those separate<br><br>
 

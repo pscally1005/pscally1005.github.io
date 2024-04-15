@@ -28,7 +28,7 @@ tags:
 - roast
 - bake
 - bowl
-Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red peppers and artichokes makes it even better. This is super healthy, and tastes great with all the vegetables, meat, and feta. This also works well as a side without the meat too.
+Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red peppers and artichokes makes it even better. This is super healthy, and tastes great with all the vegetables, meat, and feta. This also works well as a side without the meat too, or pair it with my <a href="pita">Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita
 Instructions:
 - Cut the chicken into cutlets and pound to even thickness. Add chicken to a bowl with seasonings (onion and garlic powder, paprika, chili powder, salt, and thyme) and oil. Mix. Transfer to a parchment lined cookie sheet. Chill in the fridge for a few hours if desired<br><br>
 

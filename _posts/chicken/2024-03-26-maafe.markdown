@@ -31,7 +31,7 @@ tags:
 - onion
 - chili powder
 - lemon juice
-Description: Maafe is a West African peanut butter stew or soup. This is my non-traditional take on it, trying to add more vegetables and cut back on some fat, since the nuts already add a lot. It's a great savory way of eating peanut butter, and makes a large batch of food for not too much effort
+Description: Maafe is a West African peanut butter stew or soup. This is my non-traditional take on it, trying to add more vegetables and cut back on some fat, since the nuts already add a lot. It's a great savory way of eating peanut butter, and makes a large batch of food for not too much effort.  Use <a href="natural-peanut-butter">Homemade Natural Nut Butter</a> to step this up even more
 Instructions: 
 - Cut your onions and bell peppers into a medium dice. Add to a Dutch oven or large pot with a spray of oil and salt. Cover, and cook over medium heat until the peppers soften and the onions turn translucent, about 10 minutes<br><br>
 

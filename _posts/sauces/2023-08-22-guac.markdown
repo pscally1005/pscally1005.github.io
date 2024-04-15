@@ -37,5 +37,5 @@ Instructions:
 - Cut your onion and tomato into a fine dice.  Add onion, tomato, lime, garlic, cilantro, and salt the bowl and mix<br><br>
 - <center><img src="/assets/Food/Spreads, Sauces, Toppings/Guac/guac-2.jpg" alt="" class="instruction-image"></center><br>
 
-- Optionally add some spices (paprika, chili powder, and black pepper). It will taste much better, but the guac will lose its green color
+- Optionally add some spices (paprika, chili powder, and black pepper). It will taste much better, but the guac will lose its green color.  Serve on the side of <a href="taco">Sauteed Taco Meat and Fajita Veggies</a>
 ---

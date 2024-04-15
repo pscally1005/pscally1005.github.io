@@ -25,7 +25,7 @@ tags:
 - pumpkin pie
 - pumpkin spice
 - mashed sweet potato
-Description: This is less of a recipe and more of a method, as you'd probably use sweet potato puree in something else. Try replacing bananas or applesauce in my baked goods with this for an even more delicious flavor. You could also use this as baby food, or turn them into mashed potatoes. This yields about 300g puree, depending on the size of your potatoes.
+Description: This is less of a recipe and more of a method, as you'd probably use sweet potato puree in something else. Try replacing bananas, applesauce, or pumpkin puree in my baked goods with this for an even more delicious flavor. I personally like making my <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a> or <a href="fudge">Coconut Chocolate Fudge Squares</a> using sweeet potato puree instead.  You could also use this as baby food, or turn them into mashed potatoes. This yields about 300g puree, depending on the size of your potatoes.  Similar is my <a href="roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>, which can also be used just like sweet potato puree!  For double sweet potato action, use this puree as a spread on <a href="sweet-potato-bread">Whole Wheat Sweet Potato Loaf</a>
 Instructions: 
 - Wash the potatoes. Prick with a fork on all over about 10 times, and wrap in aluminum foil<br><br>
 

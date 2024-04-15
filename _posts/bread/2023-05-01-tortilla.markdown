@@ -22,7 +22,7 @@ tags:
 - oat
 - oatmeal
 - whole wheat
-Description: These tortillas are made of a healthy blend of oat flour and whole wheat flour, providing a great source of fiber. The applesauce serves to replace butter or oil, and you can't taste it at all, so feel free to top it with some healthy fats like avocado or peanut butter.
+Description: These tortillas are made of a healthy blend of oat flour and whole wheat flour, providing a great source of fiber. The applesauce serves to replace butter or oil, and you can't taste it at all, so feel free to top it with some healthy fats like avocado or peanut butter.  Or use them as a base for <a href="fajitas">Chicken Fajitas with Peppers</a>, <a href="taco">Sauteed Taco Meat and Fajita Veggies</a>, or <a href="low-fodmap-tacos">Low FODMAP Chicken Tacos</a>
 Instructions: 
 - In a bowl, mix together ground oats, whole wheat flour, cornstarch, baking powder and salt. Mix well.<br><br>
 

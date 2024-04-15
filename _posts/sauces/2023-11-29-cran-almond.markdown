@@ -39,7 +39,7 @@ Instructions:
 
 - Cranberry Almond - use almonds as your nut, along with 3 oz (85 g) fresh cranberries, 1/4 cup (60 g) unsweetened applesauce, and 1/2 tsp (2.5 g) almond extract<br><br>
 
-- For my other flavored nut butters, check out the links below<br><br>
-- <p><a href="choc-pb">Chocolate Banana Peanut Butter</a></p>
-- <p><a href="straw-mint">Strawberry Mint Pistachio Butter</a></p>
+- For my other flavored nut butters, check out the links below<br>
+- <a href="choc-pb">Chocolate Banana Peanut Butter</a><br>
+- <a href="straw-mint">Strawberry Mint Pistachio Butter</a><br>
 ---

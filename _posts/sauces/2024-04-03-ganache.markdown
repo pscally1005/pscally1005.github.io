@@ -24,7 +24,7 @@ tags:
 - almond milk
 - chocolate spread
 - chocolate sauce
-Description: This ganache is perfect as a cake or brownie frosting, topping to banana ice cream, or a spread on toast.  It's just 2 ingredients - carob (or cocoa powder) and unsweetened almond milk.  Just whisk together on a stove until thick, and use.  It's delicious, rich, mildly sweet, and low in sugar and fat
+Description: This ganache is perfect as a cake or brownie frosting (see <a href="carrot-cake">Layered Protein Carrot Cake</a> or <a href="chickpea-brownies">Chickpea Protein Brownies</a>), topping to <a href="nice-cream">Banana Nice Cream</a>, or a spread on toasted <a href="ww-bread">100% Whole Wheat Bread</a>.  It's just 2 ingredients - carob (or cocoa powder) and unsweetened almond milk.  Just whisk together on a stove until thick, and use.  It's delicious, rich, mildly sweet, and low in sugar and fat
 Instructions: 
 - In a small pot, whisk together carob powder and almond milk until no clumps remain. Cocoa powder would work here instead, it will just be more bitter. You could also use any other type of milk you like (cows or plant based). Optionally, add a small pinch of salt for flavor<br><br>
 

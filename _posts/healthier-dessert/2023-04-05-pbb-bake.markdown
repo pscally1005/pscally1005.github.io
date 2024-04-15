@@ -23,7 +23,7 @@ tags:
 - quick oats
 - vanilla
 - chocolate chips
-Description: Remember how I mentioned that most healthy recipes are a combo of banana, peanut butter, chocolate, and oats? Well this is my baked version of that formula. 
+Description: Remember how I mentioned that most healthy recipes are a combo of banana, peanut butter, chocolate, and oats? Well this is my baked version of that formula.  For a no-bake recipe with similar ingredients, see my <a href="cookie-bar">No Bake Chocolate Chip Cookie Bars</a>
 Instructions: 
 - Preheat the oven to 350F. Line a 9x5 loaf pan or 8x8 baking pan with parchment paper<br><br>
 

@@ -27,7 +27,7 @@ tags:
 - cumin
 - appetizer
 - stuffed pepper
-Description: Stuffed peppers are a great game day appetizer or side. They're best served warm, so get them while you can. I like to have mine with a side of meatloaf or chili. They're vegetarian and gluten free too.
+Description: Stuffed peppers are a great game day appetizer or side. They're best served warm, so get them while you can. I like to have mine with a side of <a href="bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a> or <a href="chili">Slow Cooker Chili</a>. They're vegetarian and gluten free too.
 Instructions: 
 - Add rice and water to a small pot with water. Bring to a boil, cover, and reduce to a simmer. Cook until the rice is tender and the water is absorbed<br><br>
 

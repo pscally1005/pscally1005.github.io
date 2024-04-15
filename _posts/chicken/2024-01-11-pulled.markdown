@@ -27,7 +27,7 @@ tags:
 - oil
 - vinegar
 - sandwich
-Description: This BBQ pulled chicken is made easy in a slow cooker, and features a homemade unsweetened BBQ sauce, which you can find linked below. I paired it with a side of oil and vinegar coleslaw (not a mayo based coleslaw), and can be easily made into a sandwich. I always hated shredding cabbage, until I realized I could use my food processor to do the work for me. Give it a go, and check out the homemade sauce, or use your own BBQ sauce
+Description: This BBQ pulled chicken is made easy in a slow cooker, and features a homemade <a href="bbq-sauce">Unsweetened BBQ Sauce</a>. I paired it with a side of oil and vinegar coleslaw (not a mayo based coleslaw), and can be easily made into a sandwich. I always hated shredding cabbage, until I realized I could use my food processor to do the work for me. Give it a go, and check out the homemade sauce, or use your own BBQ sauce
 Instructions: 
 - Place the chicken into a large slow cooker. Add spices (chili powder, paprika, garlic and onion powder, black pepper, and cayenne) over the chicken, and mix to evenly coat it all<br><br>
 
@@ -43,8 +43,5 @@ Instructions:
 - The coleslaw can be made at any time and kept in the fridge, so I like to do it as the chicken cooks. I find that a food processor is the easiest way to shred cabbage. Cut your cabbage into wedges and remove the core. Using the shredder attachment, feed the cabbage down the tube to finely shred it. You can also use a mandolin or a knife. Transfer the shredded cabbage to a large bowl<br><br>
 
 - In a glass, mix together the dressing ingredients (ACV, oil, lime, soy sauce, balsamic, dijon, onion and garlic powder, black pepper, and celery seed). Pour over the cabbage, mix, and serve<br>
-- <br><center><img src="/assets/Food/Chicken/Pulled/pulled-7.jpg" alt="" class="instruction-image"></center><br>
-
-- Check out the link below for my unsweetened BBQ sauce recipe
-- <p><a href="bbq-sauce">Unsweetened BBQ Sauce</a></p>
+- <br><center><img src="/assets/Food/Chicken/Pulled/pulled-7.jpg" alt="" class="instruction-image"></center>
 ---

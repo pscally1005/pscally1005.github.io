@@ -29,7 +29,7 @@ tags:
 - pb2
 - cinnamon
 - oatmeal raisin
-Description: These cookies are similar to my granulated monk fruit cookies, as they're customizable and sugar free. Instead of a granular sweetener though, these use a liquid zero calorie sweetener, so that way you can make them with whatever sweet device you have on hand. Feel free to mix up the flours (whole wheat, almond oat flour, etc.) or the mix-ins (chocolate chips, chopped nuts, raisins, etc.)
+Description: These cookies are similar to my granulated monk fruit cookies, as they're customizable and sugar free. Instead of a granular sweetener though, these use a liquid zero calorie sweetener, so that way you can make them with whatever sweet device you have on hand. Feel free to mix up the flours (whole wheat, almond oat flour, etc.) or the mix-ins (chocolate chips, chopped nuts, raisins, etc.).  Also see my <a href="oatmeal-chocolate-cookies">Oatmeal Chocolate Chip Cookies</a>, or if you have granular sweetener, make my <a href="monk-fruit-cookies">Granulated Monk Fruit Cookies</a>
 Instructions: 
 - In a bowl, mix together the base ingredients - sugar free syrup (or any other liquid sweetener), unsweetened applesauce, vanilla extract, baking soda, and salt<br><br>
 

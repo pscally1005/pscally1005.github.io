@@ -24,7 +24,7 @@ tags:
 - carrot
 - veggie
 - chili
-Description: I'm referring to these as "long weekend", as it will make breakfast for you for 3 days. Here's a simple veggie packed scrambled eggs, with each serving having 2 eggs and plenty of vegetables. It's simple to make, and you won't have to worry about breakfast for the next few days.
+Description: I'm referring to these as "long weekend", as it will make breakfast for you for 3 days. Here's a simple veggie packed scrambled eggs, with each serving having 2 eggs and plenty of vegetables. It's simple to make, and you won't have to worry about breakfast for the next few days.  Other meal prep egg recipes include my <a href="egg-wrap">Meal Prep Egg Wraps</a> and my <a href="frittata">Spinach and Onion Frittata</a>
 Instructions: 
 - Preheat a large nonstick pan over medium heat with a spray of oil. Dice your onion, and add to the pan, along with the spinach.  You can also use frozen chopped kale or collard greens in place of spinach<br><br>
 

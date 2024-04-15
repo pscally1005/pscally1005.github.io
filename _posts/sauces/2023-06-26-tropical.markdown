@@ -24,7 +24,7 @@ tags:
 - chips
 - tortilla
 - mexican
-Description: This sweet and sour tropical fruit salsa is perfect for fajitas. I personally don't bother with buying a whole pineapple and instead get the precut, but ripe fresh mangos are really a must here. For my fajita recipe, check out the link below<br><p><a href="fajitas">Chicken Fajitas with Peppers</a></p>
+Description: This sweet and sour tropical fruit salsa is perfect for <a href="fajitas">Chicken Fajitas with Peppers</a>. I personally don't bother with buying a whole pineapple and instead get the precut, but ripe fresh mangos are really a must here. 
 Instructions: 
 - Chop the onion, mango, and pineapple into very small pieces<br><br>
 

@@ -30,7 +30,7 @@ tags:
 - almond butter
 - pb&j
 - pbj
-Description: I came up with this idea, as it rhymes with PB&J, and serves as a tastier and healthier option for the classic sandwich. The added proteins in the peanut butter and jelly serve to make the sandwich more filling, and without the added sugars of typical jelly or jam. To make it even better, serve this on my whole wheat bread, which is linked below<br><p><a href="ww-bread">100% Whole Wheat Bread</a></p>
+Description: I came up with this idea, as it rhymes with PB&J, and serves as a tastier and healthier option for the classic sandwich. The added proteins in the peanut butter and jelly serve to make the sandwich more filling, and without the added sugars of typical jelly or jam. To make it even better, serve this on <a href="ww-bread">100% Whole Wheat Bread</a>
 Instructions: 
 - For the peanut butter - in a small bowl or glass, combine peanut butter, PB2, and milk<br><br>
 

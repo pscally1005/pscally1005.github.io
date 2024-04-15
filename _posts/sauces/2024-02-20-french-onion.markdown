@@ -23,7 +23,7 @@ tags:
 - tortilla
 - chip
 - protein
-Description: I'm finding recently that although I don't really like chips, I love any sort of dip. I guess I'm on a dip kick lately, with Spinach Artichoke, Buffalo Chicken, and now French Onion Dip. All are perfect for dipping with raw peppers, chips, or carrots, or over a salad or sandwich. Caramelized onions are one of my favorites, and they really shine here 
+Description: I'm finding recently that although I don't really like chips, I love any sort of dip. I guess I'm on a dip kick lately, with <a href="spinach-artichoke-dip">High Protein Spinach Artichoke Dip</a>, <a href="buffalo-chicken-dip">Lightened Up Buffalo Chicken Dip</a>, and now French Onion Dip. All are perfect for dipping with raw peppers, chips, or carrots, or over a salad or sandwich. Caramelized onions are one of my favorites, and they really shine here 
 Instructions: 
 - In a medium pan over low heat, add oil, onions, and salt. Cook covered for 30 to 45 minutes under occasional stirring, until onions are caramelized and browned. Let the onions cool for 5 minutes<br><br>
 

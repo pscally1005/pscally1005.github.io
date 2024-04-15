@@ -37,7 +37,7 @@ tags:
 - nut
 - melted chocolate
 - coconut oil
-Description: These caramel candy bars are a healthy take on a Twix bar. They feature a protein based shortbread, and banana dessert hummus filling, and are topped with melted chocolate. To me, these taste way better than an actual candy bar, and they're not just empty calories.
+Description: These caramel candy bars are a healthy take on a Twix bar. They feature a protein based shortbread, and banana dessert hummus filling (based off my <a href="banana-bread-hummus">Banana Bread Hummus Spread</a>), and are topped with melted chocolate. To me, these taste way better than an actual candy bar, and they're not just empty calories.
 Instructions: 
 - In a medium bowl, mix together the base layer ingredients (applesauce, almond milk, honey, vanilla, almond extract, salt, and casein. Line an 8" baking pan with parchment, and press the dough into it. Freeze to harden<br><br>
 - <br><br><center><img src="/assets/Food/Protein Powder/Caramel/caramel-1.jpg" alt="" class="instruction-image"></center><br>

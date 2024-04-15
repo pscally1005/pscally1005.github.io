@@ -39,6 +39,6 @@ Instructions:
 - Chocolate Banana - use peanuts as your nut, along wiht 1 ripe banana (110 g) and 1/4 cup (20 g) cocoa powder
 
 - For my other flavored nut butters, check out the links below<br><br>
-- <p><a href="cran-almond">Cranberry Almond Butter</a></p>
-- <p><a href="straw-mint">Strawberry Mint Pistachio Butter</a></p>
+- <a href="cran-almond">Cranberry Almond Butter</a><br>
+- <a href="straw-mint">Strawberry Mint Pistachio Butter</a><br>
 ---

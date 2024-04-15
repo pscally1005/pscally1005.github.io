@@ -38,7 +38,7 @@ tags:
 - plain nonfat greek yogurt
 - yogurt
 - layer cake
-Description: Carrot cake is my personal favorite dessert, outside of Italian Rainbow Cookies. Which is why I was most interested in making this variation, and I am very happy with the result. Roasting the carrots beforehand really brings the flavor to a whole new level, and it also ensures that you won't have little carrot bits in your cake or mouth.
+Description: Carrot cake is my personal favorite dessert, outside of <a href="rainbow-cookies">Italian Rainbow Cookies</a>. Which is why I was most interested in making this variation, and I am very happy with the result. Roasting the carrots beforehand really brings the flavor to a whole new level, and it also ensures that you won't have little carrot bits in your cake or mouth.
 Instructions: 
 - Cut the carrots into strips. Lightly season with salt and oil and roast for 30 minutes at 400F. Blend in a food processor to make the carrot "puree"<br><br>
 

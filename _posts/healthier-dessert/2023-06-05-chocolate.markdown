@@ -36,5 +36,7 @@ Instructions:
 - Add cocoa powder, salt, vanilla, and (optional) sweetener. Stir until smooth<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Choc Bar/choc-bar-3.jpg" alt="" class="instruction-image"></center><br>
 
-- Pour into pan. Top with any mix ins (such as chopped nuts, 1/4 cup, 30 g) if desired. Chill in the fridge for about an hour.  Cut and store in the fridge
+- Pour into pan. Top with any mix ins (such as chopped nuts, 1/4 cup, 30 g) if desired. Chill in the fridge for about an hour.  Cut and store in the fridge<br><br>
+
+- This chopped up bar of chocolate works great as a replacement for chocolate chips in all recipes, such as <a href="date-brownie">Gluten Free Date Brownies</a>, <a href="syrup-cookies">Sugar Free Syrup Cookies</a>, or my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a>
 ---

@@ -34,9 +34,9 @@ Instructions:
 
 - Reese's - mix in cocoa powder, PB2, applesauce, and a drop of almond extract<br><br>
 
-- For the other flavors and their nutrition facts, check out the links below<br><br>
-- <p><a href="oats-berry">Berry Delicious Protein Overnight Oats</a></p>
-- <p><a href="oats-pb">Peanut Butter Punch Protein Overnight Oats</a></p>
-- <p><a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a></p>
-- <p><a href="oats-banana">Banana Nut Bread Protein Overnight Oats</a></p>
+- For the other flavors and their nutrition facts, check out the links below<br>
+- <a href="oats-berry">Berry Delicious Protein Overnight Oats</a><br>
+- <a href="oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>
+- <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>
+- <a href="oats-banana">Banana Nut Bread Protein Overnight Oats</a>
 ---

@@ -26,7 +26,7 @@ tags:
 - st patricks day
 - st patrick's day
 - buttermilk
-Description: This Irish Soda Bread is healthier than traditional, as it's packed with much more fiber and nutrients due to the whole wheat and oat flours. This is a quick bread recipe that relies on the reaction between baking soda and buttermilk, giving you a delicious bread in a fraction of the time. It goes great with my Shepard's Pie for a hearty dinner<br><p><a href="shepards-pie">Cauliflower Mash Shepard's Pie</a></p>
+Description: This Irish Soda Bread is healthier than traditional, as it's packed with much more fiber and nutrients due to the whole wheat and oat flours. This is a quick bread recipe that relies on the reaction between baking soda and buttermilk, giving you a delicious bread in a fraction of the time. It goes great with my <a href="shepards-pie">Cauliflower Mash Shepard's Pie</a> for a hearty dinner
 Instructions: 
 - Preheat your oven to 450F, and take out a large cookie sheet. Lightly grease it with oil. For a crispier crust, you can instead bake on a preheated pizza stone. Just use parchment paper, so it's easier to get the loaf in<br><br>
 

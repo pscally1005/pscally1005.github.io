@@ -29,7 +29,7 @@ tags:
 - chip
 - tortilla
 - shell
-Description: These tacos are free of onion and garlic, and are made using ground chicken thighs (or any kind of ground meat you prefer; beef or turkey would work great here too!). These can also be served with rice and beans, tortillas, salsa, and cheese. Check out my standard taco recipe, or my rice and beans recipe below<br><p><a href="taco">Sauteed Taco Meat and Fajita Veggies</a></p><p><a href="rice-and-beans">Classic Rice and Beans</a></p>
+Description: These tacos are free of onion and garlic, and are made using ground chicken thighs (or any kind of ground meat you prefer; beef or turkey would work great here too!). These can also be served with <a href="rice-and-beans">Classic Rice and Beans</a>, <a href="tortilla">Oat-Wheat Tortillas</a>, cheese, and <a href="salsa">Five Minute Salsa (No Garlic/Onion)</a>. Also check out my standard <a href="taco">Sauteed Taco Meat and Fajita Veggies</a> recipe
 Instructions: 
 - Prepare your spice mix in a mason jar - paprika, cumin, oregano, black pepper, salt, cornstarch, and cayenne<br><br>
 

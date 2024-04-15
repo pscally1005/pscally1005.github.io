@@ -33,9 +33,9 @@ Instructions:
 
 - Banana Nut Bread - mix in PB2 and almond extract.  Either top with sliced banana, or mash that in as well<br><br>
 
-- For the other flavors and their nutrition facts, check out the links below<br><br>
-- <p><a href="oats-berry">Berry Delicious Protein Overnight Oats</a></p>
-- <p><a href="oats-pb">Peanut Butter Punch Protein Overnight Oats</a></p>
-- <p><a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a></p>
-- <p><a href="oats-reeses">Reese's Protein Overnight Oats</a></p>
+- For the other flavors and their nutrition facts, check out the links below<br>
+- <a href="oats-berry">Berry Delicious Protein Overnight Oats</a><br>
+- <a href="oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>
+- <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>
+- <a href="oats-reeses">Reese's Protein Overnight Oats</a><br>
 ---

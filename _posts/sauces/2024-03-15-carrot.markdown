@@ -29,7 +29,7 @@ tags:
 - spread
 - jam
 - jelly
-Description: This carrot jam is a twist on my classic apple spread, which is linked below. It simmers carrots with all the carrot cake spices, leaving your home smelling amazing. It tastes great on a PB&J or in your morning yogurt or oatmeal. It's very simple, so give it a go<br><p><a href="apple-spread">No Sugar Added Apple Spread</a></p>
+Description: This carrot jam is a twist on my classic <a href="apple-spread">No Sugar Added Apple Spread</a>. It simmers carrots with all the carrot cake spices, leaving your home smelling amazing. It tastes great on a PB&J or in your morning yogurt or oatmeal. It's very simple, so give it a go
 Instructions: 
 - Wash and cut your carrots. If using baby carrots, you can add those right to the pot as is, no cutting needed. For large carrots, cut into strips, about the size of a baby carrot. Transfer to your pot<br><br>
 

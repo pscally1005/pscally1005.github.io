@@ -26,7 +26,7 @@ tags:
 - flatbread
 - tortilla
 - crepe
-Description: These super simple oat flour wraps contain just 3 ingredients, and can be used as a healthy tortilla or crepe. They're gluten free and oil free, great for both tacos and chocolate. For savory fillings, add some garlic and onion powder. For sweet fillings, add some cinnamon and vanilla
+Description: These super simple oat flour wraps contain just 3 ingredients, and can be used as a healthy tortilla or crepe. They're gluten free and oil free, great for both tacos and chocolate. For savory fillings such as my <a href="spaghetti-taco">Spaghetti Tacos with Zoodles</a>, add some garlic and onion powder. For sweet fillings, add some cinnamon and vanilla
 Instructions: 
 - Add ingredients in to a food processor. Allow to soak for 15-30 minutes before blending until smooth<br><br>
 

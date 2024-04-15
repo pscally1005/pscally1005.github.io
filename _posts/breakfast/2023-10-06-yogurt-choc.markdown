@@ -30,8 +30,8 @@ Instructions:
 
 - Chocolate - add cocoa powder and a few drops of almond extract. Add some extra sweetener if desired, since the cocoa is bitter<br><br>
 
-- For the other flavors and their nutrition facts, check out the links below<br><br>
-- <p><a href="yogurt-pbj">Peanut Butter and Jelly Yogurt Bowl</a></p>
-- <p><a href="yogurt-apple">Apple Pie Yogurt Bowl</a></p>
-- <p><a href="yogurt-banana">Peanut Butter Banana Yogurt Bowl</a></p>
+- For the other flavors and their nutrition facts, check out the links below<br>
+- <a href="yogurt-pbj">Peanut Butter and Jelly Yogurt Bowl</a><br>
+- <a href="yogurt-apple">Apple Pie Yogurt Bowl</a><br>
+- <a href="yogurt-banana">Peanut Butter Banana Yogurt Bowl</a><br>
 ---

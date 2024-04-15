@@ -24,7 +24,7 @@ tags:
 - date
 - snack
 - trail mix
-Description: Dried cranberries are a staple on many salads, but unfortunately they're full of added sugar, as cranberries are naturally tart and not sweet at all. These simple dried cranberries are optionally sweetened with honey, and go great on top of a salad or in a trail mix
+Description: Dried cranberries are a staple on many salads, but unfortunately they're full of added sugar, as cranberries are naturally tart and not sweet at all. These simple dried cranberries are optionally sweetened with honey, and go great on top of a salad or in a trail mix.  Try using them in place of raisins in my <a href="trail-mix">Mixed Nuts and Chocolate Trail Mix</a>
 Instructions: 
 - Preheat your air fryer on dehydrate mode at 170F<br><br>
 

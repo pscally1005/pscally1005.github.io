@@ -369,3 +369,8 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.larger-image {
+  width: 75%;
+  object-fit: cover;
+}

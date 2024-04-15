@@ -30,7 +30,7 @@ tags:
 - mexican
 - brown
 - rice
-Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my fajita recipe, these are an awesome way for each person to build their own meals and have fun at the table. Invite some people over to make tacos, what are you waiting for!
+Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my <a href="fajitas">Chicken Fajitas with Peppers</a> recipe, these are an awesome way for each person to build their own meals and have fun at the table. For a no garlic and onion version, see my <a href="low-fodmap-tacos">Low FODMAP Chicken Tacos</a> recipe.  Invite some people over to make tacos and whip up some <a href="salsa">Five Minute Salsa (No Garlic/Onion)</a> or <a href="guacamole">Holy Guacamole</a>; what are you waiting for!
 Instructions: 
 - Mix together seasonings in a medium bowl or mason jar and set aside<br><br>
 
@@ -46,6 +46,6 @@ Instructions:
 - Stir in the apple cider vinegar and lime juice. Simmer until flavors combine, 3-4 minutes<br><br>
 - <center><img src="/assets/Food/Ground Meat/Taco/taco-meat.jpg" alt="" class="instruction-image"></center><br>
 
-- Serve with tortillas, rice, beans, and cheese, or make into a taco salad<br><br>
+- Serve with <a href="tortilla">Oat-Wheat Tortillas</a>, cheese, and <a href="rice-and-beans">Classic Rice and Beans</a>, or make into a taco salad<br><br>
 - <center><img src="/assets/Food/Ground Meat/Taco/taco-salad.jpg" alt="" class="instruction-image"></center><br>
 ---

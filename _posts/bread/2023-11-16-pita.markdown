@@ -5,7 +5,7 @@ date:   2023-11-16 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-permalink: /recipes/ptia
+permalink: /recipes/pita
 image: /assets/Food/Bread/Pita/pita-cover.jpg
 ing: pita-ing
 facts: pita-facts
@@ -20,7 +20,7 @@ tags:
 - stuffed
 - greek
 - hummus
-Description: Pita bread is probably my favorite type of bread. They're specifically designed for sandwiches, taste great, and are light and fluffy. This whole wheat variety shares all those qualities, while adding some extra fiber and removing heavily processed white flour. My favorite use is for a grilled chicken Greek salad sandwich
+Description: Pita bread is probably my favorite type of bread. They're specifically designed for sandwiches, taste great, and are light and fluffy. This whole wheat variety shares all those qualities, while adding some extra fiber and removing heavily processed white flour. My favorite fillings for it are <a href="greek-salad">Greek Salad with Chicken</a> or <a href="turkey-pesto-pita">Tomato Turkey Pesto Pitas</a>
 Instructions: 
 - Mix warm water, salt, yeast, oil, and honey in a large bowl. Let proof for 5 minutes to make sure the yeast is alive<br><br>
 

@@ -26,7 +26,7 @@ tags:
 - crust
 - cake
 - chocolate chip
-Description: This peanut butter cheesecake is a great gluten free and high protein dessert option. It as work as a protein bar too, as it even has more than 10 of protein per 100 calories. Fold in some chocolate chips or serve with some peanut butter and berries to mix it up.
+Description: This peanut butter cheesecake is a great gluten free and high protein dessert option. It as work as a protein bar too, as it even has more than 10 of protein per 100 calories. Fold in some chocolate chips or serve with some peanut butter and berries to mix it up.  This cheesecake doesn't have a crust, but if you want one, see my <a href="peanut-butter-pie">Peanut Butter Banana Pie</a> for a standard pie crust, or my <a href="pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a> for a high protein pie crust
 Instructions: 
 - Mix ingredients together in a bowl or food processor until smooth - whipped fat free cottage cheese, banana, PB2, cornstarch, vanilla, and sweetener<br><br>
 
