@@ -36,4 +36,5 @@ Instructions:
 - <center><img src="/assets/Food/Chicken/Wings/wings-4.jpg" alt="" class="instruction-image"></center><br>
 
 - Meanwhile, to a large bowl, add your hot sauce, where here I used my <a href="hot-sauce">Red Jalepeno Louisiana Hot Sauce</a>. Optionally, add some more cayenne if you like it a little spicier. Toss the wings in the sauce, and serve
+- <center><img src="/assets/Food/Chicken/Wings/wings-5.jpg" alt="" class="instruction-image"></center>
 ---
