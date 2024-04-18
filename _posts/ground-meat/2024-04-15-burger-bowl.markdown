@@ -28,7 +28,7 @@ tags:
 - salad
 - chopped
 - sweet potatoes
-Description: These bowls are deconstructed burgers, instead making them into a healthy salad, with the buns swapped for roasted sweet potatoes. There's way more food for way less calories, with a lot of volume to this dish. It's full of all your favorite burger flavors, toppings, and a homemade burger sauce. If a classic burger is what you desire, see my <a href="burger-patties">Simple Burger Patties</a> and <a href="burger-buns">No Yeast Whole Wheat Burger Buns</a>
+Description: These bowls are deconstructed burgers, instead making them into a healthy salad, with the buns swapped for roasted sweet potatoes. There's way more food for way less calories, with a lot of volume to this dish. It's full of all your favorite burger flavors, toppings, and my <a href="tomato-spread">Tomato Burger Spread</a>. If a classic burger is what you desire, see my <a href="burger-patties">Simple Burger Patties</a> and <a href="burger-buns">No Yeast Whole Wheat Burger Buns</a>
 Instructions: 
 - Starting with the potatoes. Wash and cut your sweet potatoes into cubes. You don't need to peel the potatoes. Add to a microwave save bowl, and toss with oil, soy sauce, and baking soda. Cover, and microwave on full power for 3 minutes to soften the potatoes<br><br>
 
@@ -47,8 +47,5 @@ Instructions:
 
 - Meanwhile, chop up the vegetables for the salad. Wash your lettuce and tomatoes. Thinly slice the lettuce, cut the tomatoes into a medium dice, and the onions and pickles into a small dice. Set vegetables aside<br><br>
 
-- Finally, prepare the sauce. In a medium bowl or hand blender, mix together all the sauce ingredients - tomato paste, yogurt, mustard, lemon, soy sauce, garlic, onion, and pepper<br><br>
-- <center><img src="/assets/Food/Ground Meat/Burger Bowl/burger-bowl-8.jpg" alt="" class="instruction-image"></center><br>
-
-- Finally, it's time to assemble your bowls. Place the lettuce on the bottom as a base, and evenly top with your meat mixture. Add the vegetables on top around the sides, and drizzle over your sauce
+- Finally, it's time to assemble your bowls. Place the lettuce on the bottom as a base, and evenly top with your meat mixture. Add the vegetables on top around the sides, and spoon on your <a href="tomato-spread">Tomato Burger Spread</a>
 ---

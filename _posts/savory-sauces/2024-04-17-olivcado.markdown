@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Olivcado Salad Dressing"
+date:   2024-04-17 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/olivcado
+image: /assets/Food/Savory Sauces/Olivcado/olivcado-cover.jpg
+ing: olivcado-ing
+facts: olivcado-facts
+Prep: 5
+Rest: 
+Cook: 
+Source1: https://youtu.be/LDTe3k7y5_I?si=fRmBeMMaXI3lE7O5
+Source2: 
+tags: 
+- dressing
+- salad
+- spread
+- sauce
+- avocado
+- olive
+- kalamata olives
+- balsamic vinegar
+- nutritional yeast
+- vegan
+- garlic powder
+- onion powder
+- nooch
+- grated cheese
+- parmesean
+- creamy
+- ceasar
+- mayo
+Description: This salad dressing still packs healthy fats while being vegan and oil free. It feels like a vegan Caesar dressing, using avocado and olives instead of mayo and anchovies. It's perfectly tangy and sweet from the balsamic, creamy from the avocado, and "cheesy" from the nutritional yeast. Each serving is about 2 tbsp, or 30 g.
+Instructions: 
+- Blend all ingredients in a small food processor until smooth. Adjust consistency by adding water if necessary, and add salt to taste if necessary (I thought it was good as is). Transfer to a container, and store in the fridge<br><br>
+- <center><img src="/assets/Food/Savory Sauces/Olivcado/olivcado-1.jpg" alt="" class="instruction-image"></center>
+---

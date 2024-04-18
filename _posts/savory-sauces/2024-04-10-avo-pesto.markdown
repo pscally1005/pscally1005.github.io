@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Avocado Pesto - Vegan and Oil Free"
+date:   2024-04-10 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/avocado-pesto
+image: /assets/Food/Savory Sauces/Avo Pesto/avo-pesto-cover.jpg
+ing: avopesto-ing
+facts: avopesto-facts
+Prep: 5
+Rest: 
+Cook: 5
+Source1: https://www.youtube.com/watch?v=VNjINHa_dck
+Source2: 
+tags: 
+- spinach
+- basil
+- sauce
+- pesto
+- spread
+- dip
+- dressing
+- lemon
+- garlic
+- nutritional yeast
+- nooch
+- grated cheese
+- parmesean
+Description: Anyone else love pesto, but hate how oily it is? I've made lower oil pesto before, but now I'm fully going none, and instead using avocado for my fat. Hey look, I actually used pine nuts here too! (not peanuts this time lol, but I won't judge). Nutrition facts are for a 2 tbsp (32 g) serving
+Instructions: 
+- In a dry pan over medium heat, toast your pine nuts (1 oz is about 1/4 cup) for about 3 minutes, until they are fragrant and begin to brown. Any other nuts will work here; or use pumpkin seeds to make it nut free. Transfer to a food processor<br><br>
+- <center><img src="/assets/Food/Savory Sauces/Avo Pesto/avo-pesto-1.jpg" alt="" class="instruction-image"></center><br>
+
+- Blend the nuts with the rest of the ingredients until a smooth sauce forms. I've used fresh spinach here, but frozen spinach or fresh basil will work just as well. Grated cheese will work in place of nutritional yeast. Thin with water or lemon juice if desired<br><br>
+- <center><img src="/assets/Food/Savory Sauces/Avo Pesto/avo-pesto-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Transfer to an airtight container, and store in the fridge.  It works great as a pizza sauce, which I used on my <a href="cloud-bread">Low Carb Cloud Bread</a><br><br>
+- <center><img src="/assets/Food/Savory Sauces/Avo Pesto/avo-pesto-3.jpg" alt="" class="instruction-image"></center><br>
+
+- For other pesto variations, see my <a href="creamy-pesto">Creamy Pesto Dip</a> and <a href="evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a>
+---

@@ -26,4 +26,7 @@ permalink: recipes
 <hr>
 [![Protein Powder](/assets/Category Photos with Labels/Protein Powder.jpg){:class="recipes-page-image"}]({% link _pages/protein-powder.md %})
 <hr>
-[![Sauces, etc.](/assets/Category Photos with Labels/Sauces.jpg){:class="recipes-page-image"}]({% link _pages/sauces.md %})
+[![Savory Sauces](/assets/Category Photos with Labels/Savory Sauces.jpg){:class="recipes-page-image"}]({% link _pages/savory-sauces.md %})
+<hr>
+[![Sweet Spreads](/assets/Category Photos with Labels/Sweet Spreads.jpg){:class="recipes-page-image"}]({% link _pages/sweet-spreads.md %})
+<hr>

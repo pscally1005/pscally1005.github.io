@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Unsweetened BBQ Sauce"
+date:   2023-04-15 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/bbq-sauce
+image: /assets/Food/Savory Sauces/BBQ/bbq.jpg
+ing: bbq-ing
+facts: bbq-facts
+Prep: 5
+Rest: 
+Cook: 60
+Source1: 
+Source2: 
+tags: 
+- barbeque sauce
+- bbq sauce
+- unsweetened
+- sugar free
+- crushed tomato
+- tomatoes
+- chili powder
+- paprika
+- sauce
+- meatloaf
+- ketchup
+- spread
+Description: Most commercial BBQ sauces are loaded with high fructose corn syrup, making them insanely sweet and super bad for you. I prefer to keep mine fully unsweetened, but for a sweeter taste, you can add a little of any sweetener you desire.
+Instructions: 
+- Add all ingredients to a medium saucepan over medium low heat. For some mild sweetness, optionally add some sugar free syrup. Let simmer for about an hour (covered), then transfer to an airtight container in the fridge<br><br>
+
+- I love to use my BBQ sauce in my <a href="pulled-chicken">BBQ Pulled Chicken and Coleslaw</a>, <a href="bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>, and <a href="kale">Bean Kaled by Cheese</a>
+---
