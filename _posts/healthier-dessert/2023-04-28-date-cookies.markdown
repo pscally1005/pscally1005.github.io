@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gluten Free Date Cookies"
+title: "Almond Date Cookies"
 date:   2023-04-28 00:00:00 -05000
 categories: 
 - Recipes
@@ -27,11 +27,11 @@ tags:
 - peanut flour
 - chocolate chip
 - gluten free
-Description: These healthy chocolate chip cookies use date paste and almond flour as a base, and avoids using sugar, butter, and white flour. If you're anything like me and find most desserts way too sweet, you'll find that you enjoy these cookies much more than any traditional chocolate chip cookie.  See my <a href="date-brownie">Gluten Free Date Brownies</a> for a similar gluten free dessert using dates and nuts
+Description: These healthy chocolate chip cookies use date paste and almond flour as a base, and avoids using sugar, butter, and white flour. If you're anything like me and find most desserts way too sweet, you'll find that you enjoy these cookies much more than any traditional chocolate chip cookie.  Gluten free, refined sugar free, only sweetened with natural dates (raisins will work as well), and the only fat is delicious almond flour.  See my <a href="date-brownie">Almond Date Brownies</a> for a similar gluten free dessert using dates and nuts
 Instructions: 
 - Preheat oven to 350F and line a large cookie sheet with parchment paper<br><br>
 
-- Blend the dates in a food processor. Blend in nut flour too. You can also use whole nuts instead of nut flour too. Blend until you have a crumbly looking dough, but slightly sticky<br><br>
+- Blend the dates in a food processor. Blend in nut flour too. You can also use whole nuts (any nuts will do) instead of nut flour too.  I used whole almonds, so I technically used almond meal instead of almond flour. Blend until you have a crumbly looking dough, but slightly sticky<br><br>
 
 - Add the rest of the ingredients (except for the chocolate chips) and blend to combine<br><br>
 

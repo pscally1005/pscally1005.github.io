@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chickpea Protein Brownies"
+title:  "Protein Brownie Bars"
 date:   2023-03-28 00:00:00 -05000
 categories: 
 - Recipes
@@ -42,7 +42,7 @@ tags:
 - protein bar
 - almond extract
 - fiber
-Description: Chickpea brownies, my original protein based dessert, that I think I have refined to near perfection. These bars are a great protein and fiber packed snack to take on the go. They're much less sweet than traditional brownies, but I personally prefer the almond and banana taste that these provide. Don't count out the beans until you try them!  For more chickpea desserts, make high protein cookie dough <a href="chickpea-chows">Chickpea Chows</a>
+Description: Chickpea brownies, my original protein based dessert, that I think I have refined to near perfection. These bars are a great protein and fiber packed snack to take on the go. They're much less sweet than traditional brownies, as they're more of a baked protein bar, but I personally prefer the almond and banana taste that these provide. Don't count out the beans until you try them!  For more protein packed chickpea desserts, make this high protein cookie dough - <a href="chickpea-chows">Chickpea Chows</a>
 Instructions: 
 - Blend all ingredients in a food processor until fully mixed - (drained and rinsed) chickpeas, bananas, yogurt, peanut butter, honey, baking powder, vanilla, stevia/monk fruit, almond extract, salt, cocoa, PB2, and protein powder<br><br>
 
