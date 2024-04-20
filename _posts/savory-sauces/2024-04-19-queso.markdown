@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Creamy Protein Queso Sauce"
+date:   2024-04-19 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/queso
+image: /assets/Food/Savory Sauces/Queso/queso.jpg
+ing: queso-ing
+facts: queso-facts
+Prep: 5
+Rest: 
+Cook: 
+Source1: https://www.youtube.com/watch?v=ZfweIqI8KiA
+Source2: 
+tags: 
+- dressing
+- salad
+- spread
+- sauce
+- creamy
+- nonfat cottage cheese
+- cheese
+- cottage cheese
+- shredded cheese
+- cheddar cheese
+- cayenne pepper
+- mac and cheese
+- mac & cheese
+- zoodles
+Description: This cheese sauce is higher and protein and lower in fat due to the cottage cheese, but still with all the same flavor and creaminess that you love. It works great on pasta or zoodles for Mac and Cheese, with chips, or as a salad dressing. Here I've mixed it into zoodles, and topped with some shredded chicken. Each serving is about 1/4 cup or 60 g
+Instructions: 
+- In a small blender, mix together all the ingredients. Add milk as needed to make everything blend together. You can also blend this with an immersion blender. Add salt to taste if necessary<br><br>
+
+- Add to a small bowl, and microwave on half power for 15-20 seconds, just to warm it up and not burn it<br><br>
+
+- For a mac (or zoodles) and cheese, add the sauce to the cooked noodles, and mix. Don't add the sauce into the pan, and instead mix on the plate, or the emulsion can break
+---

@@ -1,10 +1,10 @@
 Ingredient,Amount,Unit,Description
 "Carrots, raw",227,g,"0.5 pound"
-"Extra virgin olive oil by QO",7,g,"0.5 tbsp (15.0 ml) aprx"
+"Extra virgin olive oil by QO",7,g,"0.5 tbsp"
 "Salt, table",0,g,"1 dash"
 "Shredded rotisserie chicken, rotisserie by Target Stores",255,g,"9 ounce"
-"Sauce by LOUISIANA",80,g,"16 tsp (5.0 ml) aprx"
-"Yogurt, plain, nonfat milk, Greek",245,g,"1 cup"
+"Sauce by LOUISIANA",75,g,"5 tbsp"
+"Yogurt, plain, nonfat milk, Greek",227,g,"1 cup"
 "Nonfat cottage cheese by FRESH & EASY",113,g,"0.5 cup"
 "Shredded mild cheddar cheese by BORDEN",56,g,"0.5 cup"
 "Minced garlic by STONEMILL",30,g,"6 tsp"
@@ -15,5 +15,5 @@ Ingredient,Amount,Unit,Description
 "Spices, onion powder",5,g,"2 tsp"
 "Spices, black, pepper",1,g,"0.5 tsp, ground"
 "Spices, dried, parsley",2,g,"3 tsp"
-"Kraft Grated Parmesan Cheese",10,g,"4 teaspoons"
+"Kraft Grated Parmesan Cheese",10,g,"4 tsp"
 Servings,12

@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Healthier Dessert
 permalink: /recipes/fudge
-image: /assets/Food/Healthier Dessert/Fudge/fudge.jpg
+image: /assets/Food/Healthier Dessert/Coconut Fudge/fudge.jpg
 ing: fudge-ing
 facts: fudge-facts
 Prep: 10

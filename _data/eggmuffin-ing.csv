@@ -2,7 +2,7 @@ Ingredient,Amount,Unit,Description
 "Spinach, unprepared, chopped or leaf, frozen",113,g,"4 ounce"
 "Peppers, raw, red, sweet",74,g,"1 small"
 "Onions, raw",70,g,"1 small"
-"Extra virgin olive oil by QO",7,g,"0.5 tbsp (15.0 ml) aprx"
+"Extra virgin olive oil by QO",7,g,"0.5 tbsp"
 "Salt, table",2,g,"0.25 tsp"
 "Spices, paprika",5,g,"2 tsp"
 "Spices, chili powder",3,g,"1 tsp"
@@ -10,6 +10,6 @@ Ingredient,Amount,Unit,Description
 "Spices, garlic powder",3,g,"1 tsp"
 "Spices, onion powder",2,g,"1 tsp"
 "Spices, black, pepper",1,g,"0.5 tsp, ground"
-"Hot sauce by LOUISIANA",15,g,"3 tsp (5.0 ml) aprx"
+"Hot sauce by LOUISIANA",15,g,"3 tsp"
 "Eggs, egg whole, Large, Grade A",201,g,"4 egg"
 Servings,4
