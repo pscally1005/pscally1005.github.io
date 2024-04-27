@@ -16,7 +16,6 @@ tags:
 - oil
 - vegetable oil
 - canola oil
-- butter
 - unsweetened applesauce
 - applesauce
 - yogurt
@@ -190,7 +189,7 @@ ingredients:
 ing: dhfinal-ing
 
 nutrition-facts:
-- <br>Below are the nutrition facts of <b>16</b> brownies for a standard batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes.  For reference, the standard butter batch of keto brownies cut into <b>16</b> would be <b>130 calories</b> each with <b>7.4g fat</b> (with essentially 0g sugar), whereas standard Duncan Hines brownies cut into <b>16</b> pieces has <b>215 calories</b> with <b>12g fat</b> and <b>19g sugar</b>.
+- <br>Below are the nutrition facts for <b>16</b> brownies for a standard batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes.  For reference, the standard butter batch of keto brownies cut into <b>16</b> would be <b>130 calories</b> each with <b>7.4g fat</b> (with essentially 0g sugar), whereas standard Duncan Hines brownies cut into <b>16</b> pieces has <b>215 calories</b> with <b>12g fat</b> and <b>19g sugar</b>.
 facts: dhfinal-facts
 
 other:
@@ -213,6 +212,9 @@ other:
 - <br>6. Roasted Beets
 - <br>&emsp; 1 egg = 1/4 cup (60 g) pureed beets
 - <br>&emsp; 1 cup butter = 1 cup (240 g) pureed beets
+
+- <br><br><b><u>Update</u></b> (Apr-23-2023)<br>
+- I ran a similar experiment, making a half batch each of canola oil brownies and sweet potato brownies, using Duncan Hines Dark Chocolate Fudge brownies as the base.  You can read the results of my <a href="sweet-potato-boxed-brownies">Sweet Potato Boxed Brownies</a> experiment.  Spoiler alert:<b></b> the results aren't as positive.
 
 sources:
 - <br>1. <a href="https://randallbeans.com/2023/03/27/use-randall-pinto-beans-and-randall-great-northern-beans-in-creative-recipe-swaps/">Use Randall Pinto Beans And Randall Great Northern Beans In Creative Recipe Swaps</a><br>

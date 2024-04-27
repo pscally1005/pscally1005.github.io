@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,330,,
+Calories,332,,
 "Vitamin A, RAE",147.63,mcg,16 %
 "Carotene, alpha",53.61,mcg,
 "Carotene, beta",1258,mcg,
@@ -15,7 +15,7 @@ Calories,330,,
 "trans-Lycopene",0,mcg,
 "trans-beta-Carotene",0,mcg,
 "Thiamin [Vitamin B1]",0.171,mg,14 %
-"Riboflavin [Vitamin B2]",0.385,mg,30 %
+"Riboflavin [Vitamin B2]",0.402,mg,31 %
 "Niacin [Vitamin B3]",6.243,mg,39 %
 "Pantothenic acid [Vitamin B5]",1.462,mg,29 %
 "Vitamin B6",0.62,mg,36 %
@@ -44,19 +44,19 @@ Calories,330,,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",7.2,mg,
 "Choline",105.3,mg,19 %
-"Calcium",605.55,mg,47 %
+"Calcium",206.1,mg,16 %
 "Copper",0.2,mg,22 %
 "Fluoride",0.1,mcg,
 "Iodine",4.12,mcg,3 %
-"Iron",3.03,mg,17 %
-"Magnesium",71.46,mg,17 %
+"Iron",3.66,mg,20 %
+"Magnesium",54.66,mg,13 %
 "Manganese",0.516,mg,22 %
-"Phosphorus",540.26,mg,43 %
-"Potassium",665.39,mg,14 %
+"Phosphorus",296.26,mg,24 %
+"Potassium",673.44,mg,14 %
 "Selenium",26.14,mcg,48 %
-"Sodium",513.91,mg,22 %
+"Sodium",491.41,mg,21 %
 "Zinc",3.47,mg,32 %
-"Protein",39.8,g,80 %
+"Protein",29.3,g,59 %
 "Alanine",1.395,g,
 "Arginine",1.695,g,
 "Aspartic acid",2.278,g,
@@ -79,8 +79,8 @@ Calories,330,,
 "Valine",1.129,g,58 %
 "Phenylalanine + Tyrosine",1.72,g,64 %
 "Methionine + Cysteine",0.662,g,43 %
-"Carbohydrate",13.59,g,5 %
-"Fiber",5.57,g,20 %
+"Carbohydrate",23.59,g,9 %
+"Fiber",7.07,g,25 %
 "Starch",0,g,
 "Sugars",2.83,g,
 "Fructose",1.54,g,
@@ -89,10 +89,10 @@ Calories,330,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.19,g,
-"Net carbs",8.02,g,
+"Net carbs",16.52,g,
 "0.14 g",2.30 g,undefined,15.84
-"Fat",14.116,g,18 %
-"Saturated fatty acids",4.321,g,22 %
+"Fat",15.116,g,19 %
+"Saturated fatty acids",4.521,g,23 %
 "Butanoic acid",0.003,g,
 "Decanoic acid",0.004,g,
 "Docosanoic acid",0.002,g,
@@ -147,7 +147,7 @@ Calories,330,,
 "Fatty acids, total trans",0.11,g,
 "Fatty acids, total trans-monoenoic",0.078,g,
 "Fatty acids, total trans-polyenoic",0.031,g,
-"Cholesterol",119.84,mg,40 %
+"Cholesterol",110.84,mg,37 %
 "Phytosterols",4.62,mg,
 "25-hydroxycholecalciferol",0.05,mcg,
 "Alcohol, ethyl",0,g,

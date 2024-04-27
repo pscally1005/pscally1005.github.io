@@ -31,7 +31,7 @@ tags:
 - dijon
 - roast
 - monday
-Description: This meatloaf is a little unorthodox, adding a whole pound of chopped spinach. It's a great alternative to my classic meatloaf, containing more vegetables but still the same great flavor. It also doesn't use BBQ sauce, so this is good for when you've run out. I've paired it with some roasted butternut squash to act as a vegetable and carb side.
+Description: This meatloaf is a little unorthodox, adding a whole pound of chopped spinach. It's a great alternative to my <a href="bbq-meatloaf">Classic BBQ Meatloaf with Lemon Roasted Broccoli</a>, containing more vegetables but still the same great flavor. It also doesn't use BBQ sauce, so this is good for when you've run out. I've paired it with some roasted butternut squash to act as a vegetable and carb side.  For a breakdown of that classic meatloaf recipe, see <a href="https://pscally1005.github.io/misc/meatloaf-experiment">The Effect of Different Breadcrumbs on Meatloaf</a>
 Instructions: 
 - Preheat your oven to 350F. Line 2 bread pans with parchment for the meatloaf, and line a large cookie sheet with parchment for the squash<br><br>
 
@@ -40,7 +40,7 @@ Instructions:
 - Roast at 350F for about 45 minutes<br><br>
 - <center><img src="/assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-3.jpg" alt="" class="instruction-image"></center><br>
 
-- As the squash cooks, move on to the meatloaf. Mix all meatloaf ingredients together in a bowl - meat, egg, spinach (pat it dry first with paper towels), oat flour, cheese, dijon mustard, soy sauce, apple cider vingar, chili powder, paprika, garlic and onion powder, cumin, black pepper, salt, and ginger<br><br>
+- As the squash cooks, move on to the meatloaf. Mix all meatloaf ingredients together in a bowl - meat, egg, spinach (pat it dry first with paper towels), oat flour, cheese, dijon mustard, soy sauce, apple cider vinegar, chili powder, paprika, garlic and onion powder, cumin, black pepper, salt, and ginger<br><br>
 
 - Spray the parchment paper in the bread pans, and put meat on the pan. Shape into a loaf, and insert a meat thermometer into the front.<br><br>
 

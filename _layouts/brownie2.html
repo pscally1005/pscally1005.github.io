@@ -1,0 +1,194 @@
+---
+layout: base
+---
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    {%- if page.image -%}
+      <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+    {%- endif -%}
+
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+        ~ 
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    <!-- {{ content }} -->
+    
+    <!-- Overview -->
+    {% if page.overview %}
+      <b><u>Experimental Overview</u></b>
+      &emsp; {{ page.overview }}<br><br>
+    {% endif %}
+
+    <!-- Box -->
+    {% if page.box %}
+      <b><u>The Brownie Box</u></b>
+      &emsp; {{ page.box }}<br><br>
+    {% endif %}
+
+    <!-- Control and Experiments -->
+    {% if page.subs %}
+      <b><u>Control and Experiment</u></b>
+      &emsp; {{ page.subs }}<br><br>
+    {% endif %}
+
+    <!-- Oil -->
+    {% if page.oil %}
+      <b><u>Ingredients</u></b><br>
+      &emsp; {{ page.oil }}<br><br>
+    {% endif %}
+
+    <table>
+      {% for row in site.data[page.oil-ing] %}
+          {% if forloop.first %}
+              <tr>
+              {% for pair in row %}
+                  <th>{{ pair[0] }}</th>
+              {% endfor %}
+              </tr>
+          {% endif %}
+      {% endfor %}
+  
+      {% for row in site.data[page.oil-ing] %}
+          {% if forloop.last %}
+  
+          {% else %}
+              {% tablerow pair in row %}
+                  {{ pair[1] }}
+              {% endtablerow %}
+          {% endif %}
+      {% endfor %}
+  </table>
+
+    {% if page.oil-ing %}
+      {% assign ser = site.data[page.oil-ing].last %}
+      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
+    {% endif %}
+
+    <table>
+        {% for row in site.data[page.oil-facts] %}
+            {% if forloop.first %}
+                <tr>
+                {% for pair in row %}
+                    <th>{{ pair[0] }}</th>
+                {% endfor %}
+                </tr>
+            {% endif %}
+        {% endfor %}
+
+        {% assign i = 0 %}
+        {% for row in site.data[page.oil-facts] %}
+            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
+                {% tablerow pair in row %}
+                    <b style="color: lightgray">{{ pair[1] }}</b>
+                {% endtablerow %}
+            {% endif %}
+        {% endfor %}
+    </table>
+
+    <!-- Sweet Potato -->
+    {% if page.sweet-potato %}
+      &emsp; {{ page.sweet-potato }}<br><br>
+    {% endif %}
+
+    <table>
+      {% for row in site.data[page.sweet-potato-ing] %}
+          {% if forloop.first %}
+              <tr>
+              {% for pair in row %}
+                  <th>{{ pair[0] }}</th>
+              {% endfor %}
+              </tr>
+          {% endif %}
+      {% endfor %}
+  
+      {% for row in site.data[page.sweet-potato-ing] %}
+          {% if forloop.last %}
+  
+          {% else %}
+              {% tablerow pair in row %}
+                  {{ pair[1] }}
+              {% endtablerow %}
+          {% endif %}
+      {% endfor %}
+  </table>
+
+    {% if page.sweet-potato-ing %}
+      {% assign ser = site.data[page.sweet-potato-ing].last %}
+      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
+    {% endif %}
+
+    <table>
+        {% for row in site.data[page.sweet-potato-facts] %}
+            {% if forloop.first %}
+                <tr>
+                {% for pair in row %}
+                    <th>{{ pair[0] }}</th>
+                {% endfor %}
+                </tr>
+            {% endif %}
+        {% endfor %}
+
+        {% assign i = 0 %}
+        {% for row in site.data[page.sweet-potato-facts] %}
+            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
+                {% tablerow pair in row %}
+                    <b style="color: lightgray">{{ pair[1] }}</b>
+                {% endtablerow %}
+            {% endif %}
+        {% endfor %}
+    </table>
+
+    <!-- Mixing -->
+    {% if page.mixing %}
+      <b><u>Mixing & Baking</u></b>
+      &emsp; {{ page.mixing }}<br><br>
+    {% endif %}
+
+    <!-- Taste -->
+    {% if page.taste %}
+      <b><u>Taste Test</u></b>
+      &emsp; {{ page.taste }}<br><br>
+    {% endif %}
+
+    <!-- Conclusion -->
+    {% if page.conclusion %}
+      <b><u>Conclusion</u></b>
+      &emsp; {{ page.conclusion }}<br><br>
+    {% endif %}
+
+    <!-- Sources -->
+    {% if page.sources %}
+      <b><u>Sources</u></b>
+      &emsp; {{ page.sources }}<br><br>
+    {% endif %}
+
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
