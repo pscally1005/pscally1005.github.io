@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Two Ingredient Oat Cookies"
+date:   2023-05-27 00:00:00 -05000
+categories: 
+- Recipes
+- Healthier Dessert
+permalink: /recipes/two-ingredient-oat-cookies
+image: /assets/Food/Healthier Dessert/2 Ing Oat Cookie/oat-cookies-cover.jpg
+ing: 2oatcookie-ing
+facts: 2oatcookie-facts
+Prep: 8
+Rest: 
+Cook: 12
+Source1: https://www.youtube.com/watch?v=4ZeK_iLauko
+Source2: https://www.youtube.com/watch?v=k4EwFQWUPcY
+tags: 
+- two ingredient
+- mashed banana
+- 2 ingredient
+- banana
+- applesauce
+- unsweetened applesauce
+- cinnamon
+- vanilla extract
+- extract
+- chocolate chips
+- raisins
+- nuts
+- apple spread
+- apple butter
+- jam
+- gluten free
+- sugar free
+Description: These simple cookies are made with simply mashed banana and quick oats. They can be easily customized by switching out the banana for unsweetened applesauce, pumpkin puree, or really anything you can think of. Or feel free to fold in whatever mix-ins you like, such as chocolate chips, raisins, or chopped nuts
+Instructions: 
+- Preheat your oven to 350F and line a cookie sheet with parchment paper<br><br>
+
+- In a bowl, add your banana, and mash with the back of a fork until smooth. Mix in the oats, with an optional small pinch of salt<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/2 Ing Oat Cookie/oat-cookies-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Some other great options instead of banana are:<b></b>
+- <br>&emsp;Unsweetened Applesauce
+- <br>&emsp;<a href="apple-spread">No Sugar Added Apple Spread</a>
+- <br>&emsp;Canned Pumpkin Puree
+- <br>&emsp;<a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>
+- <br>&emsp;<a href="roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>
+- <br>&emsp;<a href="berry-jam">Low Sugar Berry Jam</a>
+- <br>Below is a batch I made with homemade blackberry jam (left) and applesauce (right)<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/2 Ing Oat Cookie/oat-cookies-3.jpg" alt="" class="instruction-image"></center><br>
+
+- At this step, you can add any other flavors if you like. A dash of cinnamon or vanilla would be great, or you can fold in some mix-ins like chocolate chips or nuts<br><br>
+
+- Scoop onto your lined tray, and lightly flatten the tops.  Bake at 350F for about 12 minutes. Transfer to a wire rack to cool<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/2 Ing Oat Cookie/oat-cookies-5.jpg" alt="" class="instruction-image"></center>
+---

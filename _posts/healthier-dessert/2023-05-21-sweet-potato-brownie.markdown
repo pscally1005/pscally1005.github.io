@@ -31,7 +31,7 @@ tags:
 - applesauce
 - sugar free
 - gluten free
-Description: After my <a href="https://pscally1005.github.io/misc/boxed-brownie-experiment">Fat Replacements in Boxed Brownies</a> experiment, where I found that sweet potato was the best oil replacement in brownies, I wanted to make a homemade batch using sweet potatoes as the base. The result is a low calorie brownie that is still just as delicious and fudgy as the one from the box. They're also nut free too, and have an increased fiber content. There's no weird ingredients; just sweetened by either sugar free syrup, maple syrup, or honey
+Description: After my <a href="/misc/boxed-brownie-experiment">Fat Replacements in Boxed Brownies</a> experiment, where I found that sweet potato was the best oil replacement in brownies, I wanted to make a homemade batch using <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a> as the base. The result is a low calorie brownie that is still just as delicious and fudgy as the one from the box. They're also nut free too, and have an increased fiber content. There's no weird ingredients; just sweetened by either sugar free syrup, maple syrup, or honey.  For more sweet potato based desserts, see my chewy <a href="sweet-potato-cookies">Sweet Potato Peanut Butter Cookies</a>
 Instructions: 
 - Preheat your oven to 350F and line an 8" square baking pan with parchment paper. Optionally, spray the paper with oil<br><br>
 

@@ -7,8 +7,8 @@ categories:
 - Breakfast
 permalink: /recipes/oats-banana
 image: /assets/Food/Breakfast/Oatmeal/oats-banana.jpg
-ing: oatspb-ing
-facts: oatspb-facts
+ing: oatsbanana-ing
+facts: oatsbanana-facts
 Prep: 5
 Rest: 
 Cook: 

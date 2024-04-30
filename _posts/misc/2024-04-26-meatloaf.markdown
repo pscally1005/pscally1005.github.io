@@ -28,7 +28,7 @@ tags:
 <u><b>Overview</b></u><br>
 I love meatloaf, it's easily one of my favorite comfort meals.  It's super easy to make; just mix all ingredients together in a bowl, shape it, and stick it in the oven.  It's perfect for a weeknight meal, and can even be prepped the day before and baked the next day.<br>
 
-But today, I wanted to test the effect of different breadcrumbs on the quality of the loaf.  Namely, how do some gluten free alternatives compare to standard breadcrumbs?  For this, I've taken my standard meatloaf recipe in <a href="https://pscally1005.github.io/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>.<br>
+But today, I wanted to test the effect of different breadcrumbs on the quality of the loaf.  Namely, how do some gluten free alternatives compare to standard breadcrumbs?  For this, I've taken my standard meatloaf recipe in <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>.<br>
 
 I doubled the recipe, and mixed all the ingredients together in a large bowl; except for the breading ingredient.  I then divided the mixture (dough?) into 4 separate bowls, and added 45 g each of my 4 different binders.  They were then shaped into a loaf on a pan, rested in the fridge for an hour, and then roasted in a 350F oven.<br><br>
 
@@ -44,7 +44,7 @@ I doubled the recipe, and mixed all the ingredients together in a large bowl; ex
 <center><img src="/assets/Misc/Meatloaf/meat-mix.jpg" alt="" class="larger-image"></center><br>
 
 <u>Mixing</u><br>
-As mentioned above, I used a double batch of my <a href="https://pscally1005.github.io/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a> as a base, where all the ingredients (except for the breadcrumbs) were added to a large bowl and thoroughly mixed.  The weight of the bowl was taken and divided by 4, leading to about 430 g of meat mix per test.  This was then separated into 4 different bowls, where each batch got 45 g each of their respective "breadcrumb".<br><br>
+As mentioned above, I used a double batch of my <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a> as a base, where all the ingredients (except for the breadcrumbs) were added to a large bowl and thoroughly mixed.  The weight of the bowl was taken and divided by 4, leading to about 430 g of meat mix per test.  This was then separated into 4 different bowls, where each batch got 45 g each of their respective "breadcrumb".<br><br>
 
 <center><img src="/assets/Misc/Meatloaf/raw.jpg" alt="" class="larger-image"></center><br>
 
@@ -76,7 +76,7 @@ Finally, we have the protein powder.  The main reason I wanted to use protein po
 
 The base recipe I was using used to called for breadcrumbs when I first developed it, before I switched over to oat flour, and then finally casein as my breading.  This keeps the protein up, but my guess is that it will lead to the worst quality meatloaf.  Despite casein also being known for it's ability to absorb a lot of moisture, I've found that a meatloaf made with casein tends to lose a lot of moisture in the pan, and is very prone to crumbling apart.  It also may still have a slight casein aftertaste if you don't use enough spices.<br>
 
-Just know that if my <a href="https://pscally1005.github.io/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a> now calls for a different breading instead of casein, you'll know that the protein powder lost the matchup.<br><br>
+Just know that if my <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a> now calls for a different breading instead of casein, you'll know that the protein powder lost the matchup.<br><br>
 
 <center><img src="/assets/Misc/Meatloaf/raw-pp.jpg" alt="" class="larger-image"></center><br>
 
@@ -127,3 +127,4 @@ I've decided that I'll be using <b>oat flour</b> from here on out; mainly for it
 
 <u>Sources</u><br>
 1. <a href="https://youtu.be/406CVdn6Te8?si=8w4vWvFCc7KD8f7A">Why we put breadcrumbs in meatloaf, meatballs, etc</a><br>
+2. <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a><br>

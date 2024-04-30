@@ -82,7 +82,7 @@ butter-facts: dhbutter-facts
 
 applesauce: 
 - <br><b>2. Unsweetened Applesauce</b><br>
-- Applesauce is often used as a butter or oil replacement in lots of healthy baked goods.  It provides moisture, sweetness, and richness, without all the fat and calories of butter.  It's allergen friendly, cheap, and easy to use.  I imagine that using <a href="https://pscally1005.github.io/recipes/apple-spread">No Sugar Added Apple Spread</a> instead of storebought unsweetened applesauce would be even better, but I have not tested it here.<br><br>
+- Applesauce is often used as a butter or oil replacement in lots of healthy baked goods.  It provides moisture, sweetness, and richness, without all the fat and calories of butter.  It's allergen friendly, cheap, and easy to use.  I imagine that using <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a> instead of storebought unsweetened applesauce would be even better, but I have not tested it here.<br><br>
 
 - For the applesauce, the conversions are the following:<br>
 - 1 egg = 1/4 cup (61.25 g) applesauce<br>
@@ -119,7 +119,7 @@ banana-facts: dhbanana-facts
 
 sweet-potato:
 - <br><b>5. Sweet Potato Puree</b><br>
-- Yesterday, I made a small batch of <a href="https://pscally1005.github.io/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a> in preparation for this.  I just poked the potato with a fork, wrapped it in foil, and air fried it at 400F for 1 hour until soft.  The next day, I scooped out the insides, and blended it into a smooth puree.  Canned pumpkin puree would also work, as well as <a href="https://pscally1005.github.io/recipes/roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>.<br><br>
+- Yesterday, I made a small batch of <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a> in preparation for this.  I just poked the potato with a fork, wrapped it in foil, and air fried it at 400F for 1 hour until soft.  The next day, I scooped out the insides, and blended it into a smooth puree.  Canned pumpkin puree would also work, as well as <a href="/recipes/roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>.<br><br>
 
 - For the sweet potato, the conversions are the following:<br>
 - 1 egg = 1/4 cup (63.75 g) sweet potato<br>
@@ -182,7 +182,7 @@ conclusion:
 
 - For making a full batch, I would replace the 6 tbsp (85 g) melted butter with <b>6 tbsp (95.63 g) sweet potato puree</b> (or pumpkin or butternut squash).  Since this is a full batch, and you would not need to divide the eggs weird, you can choose to either use the standard 2 large eggs, or replace the eggs with <b>1/2 cup (127.5 g) sweet potato puree</b>.  If you do decide to replace the eggs with sweet potato, then you will need a total of 6 tbsp (95.63 g) + 1/2 cup (127.5 g) = <b>14 tbsp (223.13 g) sweet potato puree</b>.  Keep the <b>1/3 cup (80 g) water</b> constant, or swap the water for <b>unsweetened vanilla almond milk</b>.  Bake according to packaging in a greased 8" pan (24-28 min at 350F), and slice into 16 brownies.<br><br>
 
-- For a homemade healthy brownie using sweet potatoes, you should check out my <a href="https://pscally1005.github.io/recipes/sweet-potato-brownies">Sweet Potato Brownies (SF)</a>.  They're homemade instead of from a box, so they avoid a lot of ultra processed ingredients.  They're still gluten free (and this time nut free!), can be make keto by using almond flour instead of oat flour, and are still lower in fat and sugar while still being just as delicious.
+- For a homemade healthy brownie using sweet potatoes, you should check out my <a href="/recipes/sweet-potato-brownies">Sweet Potato Brownies (SF)</a>.  They're homemade instead of from a box, so they avoid a lot of ultra processed ingredients.  They're still gluten free (and this time nut free!), can be make keto by using almond flour instead of oat flour, and are still lower in fat and sugar while still being just as delicious.
 
 ingredients:
 - <br>Below are the full ingredients list and nutrition facts for a standard batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes.

@@ -1,0 +1,334 @@
+---
+layout: base
+---
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    {%- if page.image -%}
+      <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+    {%- endif -%}
+
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+        ~ 
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    <!-- {{ content }} -->
+    
+    <!-- Overview -->
+    {% if page.overview %}
+      <b><u>Experimental Overview</u></b>
+      &emsp; {{ page.overview }}<br><br>
+    {% endif %}
+
+    <!-- List -->
+    {% if page.list %}
+      <b><u>List of Flours Tested</u></b>
+      &emsp; {{ page.list }}<br>
+    {% endif %}
+
+    <!-- Note -->
+    {% if page.note %}
+      <i>Note About Heat Treating</i>
+      &emsp; {{ page.note }}<br><br>
+    {% endif %}
+
+    <!-- Testing -->
+    {% if page.testing %}
+      <b><u>Testing</u></b><br>
+      &emsp; {{ page.testing }}
+    {% endif %}
+
+    <!-- Results1 -->
+    {% if page.results1 %}
+      <b><u>Results</u></b>
+      &emsp; {{ page.results1 }}<br><br>
+    {% endif %}
+
+    <table>
+      <colgroup>
+          <col width="45%" />
+          <col width="27.5%" />
+          <col width="27.5%" />
+      </colgroup>
+      <thead>
+          <tr class="header">
+          <th>Flour Name</th>
+          <th>Grams of Flour</th>
+          <th>Grams of Water</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td markdown="span">All Purpose Flour (Not Heat Treated)</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">17 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">All Purpose Flour (Heat Treated)</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">20 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Whole Wheat Flour (Not Heat Treated)</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">22 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Whole Wheat Flour (Heat Treated)</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">23 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Vital Wheat Gluten (Not Heat Treated)</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">25 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Vital Wheat Gluten (Heat Treated)</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">31 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Oat Flour</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">22 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Quick Oats</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">20 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Cornstarch</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">26 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Cocoa Powder</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">40 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Whey Protein Powder</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">14 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Casein Protein Powder</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">70 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Coconut Flour</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">120 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Chia Seeds</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+      </tbody>
+    </table>
+
+    <!-- Results2 -->
+    {% if page.results2 %}
+      {{ page.results2 }}<br><br>
+    {% endif %}
+
+    <table>
+      <colgroup>
+          <col width="45%" />
+          <col width="27.5%" />
+          <col width="27.5%" />
+      </colgroup>
+      <thead>
+          <tr class="header">
+          <th>Flour Name</th>
+          <th>Grams of Flour</th>
+          <th>Grams of Water</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td markdown="span">All Purpose Flour (Not Heat Treated)</td>
+              <td markdown="span">53 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">All Purpose Flour (Heat Treated)</td>
+              <td markdown="span">45 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Whole Wheat Flour (Not Heat Treated)</td>
+              <td markdown="span">41 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Whole Wheat Flour (Heat Treated)</td>
+              <td markdown="span">40 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Vital Wheat Gluten (Not Heat Treated)</td>
+              <td markdown="span">36 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Vital Wheat Gluten (Heat Treated)</td>
+              <td markdown="span">29 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Oat Flour</td>
+              <td markdown="span">41 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Quick Oats</td>
+              <td markdown="span">45 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Cornstarch</td>
+              <td markdown="span">35 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Cocoa Powder</td>
+              <td markdown="span">23 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Whey Protein Powder</td>
+              <td markdown="span">64 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Casein Protein Powder</td>
+              <td markdown="span">13 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Coconut Flour</td>
+              <td markdown="span">8 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+          <tr>
+              <td markdown="span">Chia Seeds</td>
+              <td markdown="span">30 g</td>
+              <td markdown="span">30 g</td>
+          </tr>
+      </tbody>
+    </table>
+
+    <!-- Conclusion -->
+    {% if page.conclusion %}
+      <b><u>Conclusion</u></b>
+      &emsp; {{ page.conclusion }}<br><br>
+    {% endif %}
+
+    <!-- Ingredients -->
+    {% if page.epilogue %}
+      <b><u>Epilogue</u></b><br><br>
+    {% endif %}
+    {% if page.ingredients %}
+      <b><u>Ingredients</u></b>
+      &emsp; {{ page.ingredients }}<br><br>
+    {% endif %}
+
+    <table>
+      {% for row in site.data[page.ing] %}
+          {% if forloop.first %}
+              <tr>
+              {% for pair in row %}
+                  <th>{{ pair[0] }}</th>
+              {% endfor %}
+              </tr>
+          {% endif %}
+      {% endfor %}
+  
+      {% for row in site.data[page.ing] %}
+          {% if forloop.last %}
+  
+          {% else %}
+              {% tablerow pair in row %}
+                  {{ pair[1] }}
+              {% endtablerow %}
+          {% endif %}
+      {% endfor %}
+  </table>
+
+    <!-- Epilogue -->
+    {% if page.epilogue %}
+      {{ page.epilogue }}<br>
+    {% endif %}
+
+    <!-- Facts -->
+    {% if page.nutrition-facts %}
+      <b><u>Nutrition Facts</u></b>
+      &emsp; {{ page.nutrition-facts }}<br><br>
+    {% endif %}
+
+    {% if page.ing %}
+      {% assign ser = site.data[page.ing].last %}
+      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
+    {% endif %}
+
+    <table>
+        {% for row in site.data[page.facts] %}
+            {% if forloop.first %}
+                <tr>
+                {% for pair in row %}
+                    <th>{{ pair[0] }}</th>
+                {% endfor %}
+                </tr>
+            {% endif %}
+        {% endfor %}
+
+        {% assign i = 0 %}
+        {% for row in site.data[page.facts] %}
+            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
+                {% tablerow pair in row %}
+                    <b style="color: lightgray">{{ pair[1] }}</b>
+                {% endtablerow %}
+            {% endif %}
+        {% endfor %}
+    </table>
+
+    <!-- Sources -->
+    {% if page.sources %}
+      <b><u>Sources</u></b>
+      &emsp; {{ page.sources }}<br><br>
+    {% endif %}
+
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

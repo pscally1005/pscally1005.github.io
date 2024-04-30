@@ -56,7 +56,7 @@ oil-facts: dcoil-facts
 sweet-potato:
 - <br><b>2. Sweet Potato Puree</b><br>
 - <br><center><img src="/assets/Misc/Brownies2/sw-pot.jpg" alt="" class="larger-image"></center><br>
-- Earlier, I made a small batch of <a href="https://pscally1005.github.io/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a> in preparation for this.  I just poked 2 potatoes with a fork, wrapped it in foil, and air fried it at 400F for 75 minutes until soft.  I cut them in half, let them steam out and totaly cool, and blended the insides it into a smooth puree.  Canned pumpkin puree would also work, as well as <a href="https://pscally1005.github.io/recipes/roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>.<br><br>
+- Earlier, I made a small batch of <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a> in preparation for this.  I just poked 2 potatoes with a fork, wrapped it in foil, and air fried it at 400F for 75 minutes until soft.  I cut them in half, let them steam out and totaly cool, and blended the insides it into a smooth puree.  Canned pumpkin puree would also work, as well as <a href="/recipes/roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>.<br><br>
 
 - <center><img src="/assets/Misc/Brownies2/bowl-sw-pot.jpg" alt="" class="larger-image"></center><br>
 
@@ -95,8 +95,8 @@ conclusion:
 
 - My guess is that the lack of fat in the sweet potato regular brownies above lead to a cakey texture and a bland taste.  On the other hand, the sweet potato keto brownies had fat from the almond flour, leading to a much more traditional brownie texture and taste.  More fat would also help in keeping the brownies moist and fudgy, whereas an absense of fat would lead to a dry baked good, which is exactly what we saw.<br><br>
 
-- For a homemade healthy brownie using sweet potatoes, you should check out my <a href="https://pscally1005.github.io/recipes/sweet-potato-brownies">Sweet Potato Brownies (SF)</a>.  They're homemade instead of from a box, so they avoid a lot of ultra processed ingredients.  They're still gluten free (and this time nut free!), can be make keto by using almond flour instead of oat flour, and are still lower in fat and sugar while still being just as delicious.
+- For a homemade healthy brownie using sweet potatoes, you should check out my <a href="/recipes/sweet-potato-brownies">Sweet Potato Brownies (SF)</a>.  They're homemade instead of from a box, so they avoid a lot of ultra processed ingredients.  They're still gluten free (and this time nut free!), can be make keto by using almond flour instead of oat flour, and are still lower in fat and sugar while still being just as delicious.
 
 sources:
-- <br>1. <a href="https://pscally1005.github.io/misc/boxed-brownie-experiment">Fat Replacements in Boxed Brownies</a><br>
+- <br>1. <a href="/misc/boxed-brownie-experiment">Fat Replacements in Boxed Brownies</a><br>
 ---
