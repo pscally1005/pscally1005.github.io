@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "🧆 Air Fryer Falafel (GF) 🥙"
+date:   2024-05-08 00:00:00 -05000
+categories: 
+- Recipes
+- Meatless
+permalink: /recipes/air-fried-falafel
+image: /assets/Food/Meatless/Falafel/falafel-cover.jpg
+ing: falafel-ing
+facts: falafel-facts
+Prep: 30
+Rest: 30
+Cook: 12
+Source1: https://www.youtube.com/watch?v=ox8avOvja1E
+Source2: 
+tags: 
+- onion
+- baby carrot
+- cumin
+- paprika
+- garlic
+- chickpeas
+- garbanzo beans
+- almond butter
+- pistachio butter
+- tahini
+- sweet potato
+- mashed sweet potato
+- puree
+- cilantro
+- parsley
+- gluten free
+- air frier
+- air fried
+- pita
+- sandwich
+- wrap
+- gluten free
+Description: Falafel is a chickpea based meatless dish originating from Egypt.  They can be a healthy vegan option, but are unfortunately often deep fried.  These falafel are either air fryer or baked, simple and cheap to make, and full of flavor.  Nutrition facts are for each small falafel ball
+Instructions: 
+- With a strainer, drain and rinse your can of chickpeas. Add to a parchment lined cookie sheet, and roast at 400F for about 20-25 minutes, or until the chickpeas are dry and slightly cracked<br><br>
+- <center><img src="/assets/Food/Meatless/Falafel/falafel-1.jpg" alt="" class="instruction-image"></center><br>
+
+- Meanwhile, dice your onion, and add to a food processor. Add in the roasted chickpeas, and lightly pulse a full time to chop and combine. Don't over-blend, you want it to be a little bit coarse. Here is the texture you're looking for<br><br>
+- <center><img src="/assets/Food/Meatless/Falafel/falafel-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Add the rest of the ingredients to the food processor, and pulse to combine and roughly chop the cilantro. Be careful not to over-blend.  Here are some ingredient swaps if you need:<b></b>
+- <br>&emsp;- I used some <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>, but either a canned sweet potato or pumpkin puree would <br>&emsp;&emsp;also work.  Or try using <a href="roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>
+- <br>&emsp;- Instead of almond butter, you can use tahini, pistachio butter, or any other natural nut or seed butter
+- <br>&emsp;- Fresh parsley can be used instead of cilantro as well<br><br>
+- <center><img src="/assets/Food/Meatless/Falafel/falafel-3.jpg" alt="" class="instruction-image"></center><br>
+
+- Using a cookie scoop (mine is 1 tbsp), scoop the batter into a parchment lined cookie sheet. Roll into balls (refrigerating for at least 30 minutes makes this step easier)<br><br>
+- <center><img src="/assets/Food/Meatless/Falafel/falafel-4.jpg" alt="" class="instruction-image"></center><br>
+
+- Air fry at 375F for 12 minutes, flipping halfway. Alternatively, bake in a preheated 375F oven for 20 minutes, flipping halfway<br><br>
+
+- Eat the falafel as is, put on a wrap with hummus (check out my <a href="red-lentil-wraps">Red Lentil Wraps</a> and <a href="sweet-potato-hummus">Golden Sweet Potato Hummus</a>), or crumble over a salad
+---
