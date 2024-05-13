@@ -56,8 +56,8 @@ list:
 - b. Casein Protein<br>
 - 8. Coconut Flour<br>
 - 9. Chia Seeds<br>
-# - 10. Flaxmeal<br>
-# - 11. Peanut Flour<br>
+- 10. Peanut Flour<br>
+# - 11. Flaxmeal<br>
 # - 12. Almonds<br>
 # - a. Almond Flour<br>
 # - b. Almond Meal<br>
@@ -194,7 +194,16 @@ testing:
 
 - This little ball also has 10 g of fiber.  The majority of American's aren't consuming enough fiber; the RDA for men and women respectively are 38 g and 25 g, but the average American adult only consumes 10-15 g of fiber daily.  I'm not saying eat chia dough balls, but maybe try adding chia seeds into your diet.<br><br>
 
-# - <b>10. Flaxmeal</b><br>
+- <b>10. Peanut Flour</b><br>
+- Peanut flour, similar to coconut flour, is made by defatting and drying peanuts, and grinding them into a flour, leading to a product that's fairly low in carbs and fat, but high in protein (basically a vegan protein powder).<br><br>
+
+- It's typically known by the brand names PB2 or PBFit, which are versions of peanut flour with a little bit of salt and sugar added to it.  The brand I'm testing today is the Walmart GV Powdered Peanut Butter.  My assumption is that it will absorb quite a bit of water, but not nearly as much as the coconut flour.<br><br>
+
+- <center><img src="/assets/Misc/Water Absorption/pb2.jpg" alt="" class="larger-image"></center><br>
+
+- This one surprised me a bit.  For some reason, I expected peanut flour to be able to hold on to a lot of water, similar to the cocoa powder, but it was a bit less.  The <b>30 g</b> of peanut flour only needed about <b>29 g</b> of water to make it into a dough<br><br>
+
+# - <b>11. Flaxmeal</b><br>
 # - Flaxmeal, also known as ground flaxseed or flaxseed meal, is made by grinding together whole flaxseeds until a flour is formed.  It's high very high in Omega-3 fatty acids as well as fiber, while being low in carbs and gluten free.<br>
 
 # - Typically not used on its own, flax is usually added as an additional flour in small amounts in keto or GF recipes; however, I wanted to isolate it here and test how it would be as the sole flour.<br><br>
@@ -202,15 +211,6 @@ testing:
 # - <center><img src="/assets/Misc/Water Absorption/flax.jpg" alt="" class="larger-image"></center><br>
 
 # - <b><i>TODO - BUY FLAXMEAL & TEST</i></b><br><br>
-
-# - <b>11. Peanut Flour</b><br>
-# - Peanut flour, similar to coconut flour, is made by defatting and drying peanuts, and grinding them into a flour, leading to a product that's fairly low in carbs and fat, but high in protein (basically a vegan protein powder).<br><br>
-
-# - It's typically known by the brand names PB2 or PBFit, which are versions of peanut flour with a little bit of salt and sugar added to it.  The brand I'm testing today is the Walmart GV Powdered Peanut Butter.  My assumption is that it will absorb quite a bit of water, but not nearly as much as the coconut flour.<br><br>
-
-# - <center><img src="/assets/Misc/Water Absorption/pb2.jpg" alt="" class="larger-image"></center><br>
-
-# - <b><i>TODO - BUY PB2 & TEST</i></b><br><br>
 
 # - <b>12a. Almond Flour</b><br>
 # - Almond flour is one of the most common grain free keto flours I see used in recipes.  It's highly nutritious, but I tend not to use it as it's faily expensive.  Almond flour is made by blending blanched almonds (almonds with the skin removed) in a food processor until very fine.  I'm assuming that almond flour won't be able to absorb quite as much as peanut flour, but about as much as the oats.<br><br>
@@ -235,7 +235,11 @@ results2:
 - I've decided to normalize it now for water instead of flour.  The below table is based on 30 g of <b>water</b>, and how much flour it would take to make it a dough ball.  That way, you can more easily see how you would need to adjust your recipe accordingly.
 
 conclusion:
-- <br><i>TODO - WRITE A CONCLUSION</i><br>
+- <br>From the tables above, you can get an an estimate of how to replace one type of flour with another in a recipe.  I was most interested in the coconut flour, which is able to absorp so much water.  I can get a bag for only $4 a pound, and since you need so little, I've found that coconut flour is actually a great cheap GF flour replacement.  Typically I see almond flour being used, but coconut is just so much cheaper.<br><br>
+
+- Another great cheap alternative is oat flour, which is probably cheaper than coconut, and also much more versatile.  I use either oat flour or quick oats all the time; that's only about $4 for a 42oz canister of oats.  Oats are rich in fiber, provide a great nutty taste, and can hold onto a bit of moisture<br><br>
+
+- Finally, I hope I've demonstrated the difference between whey and casein protein powders, and why you simply can't just sub one for another in a recipe.  If you are looking to add protein to something, start with a 50/50 blend of whey/casein, and go from there.  Whey can help a cake rise, but it will dry it out.  Casein, on the other hand, will keep it moist, but might make it dense.  This is why a blend is normally a safe bet<br><br>
 
 - I've a Python script where you can enter the flours you are converting from and to, along with the amount of the original, in order to find an approximate amount to use.  Click <a href="/download/flour-convert.py" title="Download" download>here</a> to download the file to run it yourself.<br><br>
 

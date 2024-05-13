@@ -32,10 +32,10 @@ def options(num):
         return ("Coconut Flour")
     elif(num == 14):
         return ("Chia Seeds")
-    # elif(num == 15):
-    #     return ("Flaxmeal")
+    elif(num == 15):
+        return ("Peanut Flour")
     # elif(num == 16):
-    #     return ("Peanut Flour")
+    #     return ("Flaxmeal")
     # elif(num == 17):
     #     return ("Almond Flour")
     # elif(num == 18):
@@ -55,8 +55,8 @@ def options(num):
         print("12: Casein Protein Powder")
         print("13: Coconut Flour")
         print("14: Chia Seeds")
-        # print("15: Flaxmeal")
-        # print("16: Peanut Flour")
+        print("15: Peanut Flour")
+        # print("16: Flaxmeal")
         # print("17: Almond Flour")
         # print("18: Almond Meal")
 
@@ -68,7 +68,7 @@ def select():
     while(True):
         try:
             f = int(input("\nEnter a number to select your FROM flour: "))
-            if(f < 1 or f > 14):
+            if(f < 1 or f > 15):
                 f = int("abc")
             print("You selected: ", end="")
             print(options(f))
@@ -97,7 +97,7 @@ def select():
     while(True):
         try:
             t = int(input("\nEnter a number to select your TO flour: "))
-            if(t < 1 or t > 14):
+            if(t < 1 or t > 15):
                 t = int("abc")
             print("You selected: ", end="")
             print(options(t))
@@ -126,12 +126,12 @@ def calc(f, g, t):
     casein = 13
     coconut = 8
     chia = 30
+    pb2 = 31
     # flax = 
-    # pb2 = 
     # almondFlour = 
     # almondMeal = 
 
-    arr = [0] * 15
+    arr = [0] * 16
     arr[1] = ap_noHeat
     arr[2] = ap_heat
     arr[3] = ww_noHeat
@@ -146,8 +146,8 @@ def calc(f, g, t):
     arr[12] = casein
     arr[13] = coconut
     arr[14] = chia
-    # arr[15] = flax
-    # arr[16] = pb2
+    arr[15] = pb2
+    # arr[16] = flax
     # arr[17] = almondFlour
     # arr[18] = almondMeal
 

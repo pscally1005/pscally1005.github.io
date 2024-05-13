@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Peanut Butter Hummus"
+date:   2024-05-13 00:00:00 -05000
+categories: 
+- Recipes
+- Sweet Spreads
+permalink: /recipes/peanut-butter-hummus
+image: /assets/Food/Sweet Spreads/PB Hummus/pb-hummus.jpg
+ing: pbhummus-ing
+facts: pbhummus-facts
+Prep: 5
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+tags: 
+- peanut butter
+- peanuts
+- dry roasted
+- blend
+- spread
+- chickpeas
+- garbanzo beans
+- beans
+- hummus
+- banana
+- overripe banana
+- ripe banana
+- cinnamon
+- pb2
+- pbfit
+- powdered peanut butter
+- peanut flour
+Description: As someone who is loves hummus and is addicted to peanut butter, this spread should help curb all my peanut butter cravings. It's blended together PB2, chickpeas, and banana, for a delicious peanut flavored spread for my morning yogurt. For the same 32g serving, there is only 1/4 of the calories
+Instructions: 
+- Drain and rinse a can of chickpeas, and add to a large food processor. Add in the rest of the ingredients, and blend until smooth. Adjust consistency with more or less milk
+---
