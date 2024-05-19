@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Nam Sod (Thai Pork Salad)"
+date:   2024-05-18 00:00:00 -05000
+categories: 
+- Recipes
+- Ground Meat
+permalink: /recipes/nam-sod
+image: /assets/Food/Ground Meat/Nam Sod/nam-sod.jpg
+ing: namsod-ing
+facts: namsod-facts
+Prep: 20
+Rest: 
+Cook: 20
+Source1: https://www.budgetbytes.com/nam-sod-thai-pork-salad/
+Source2: 
+tags: 
+- thai
+- ground pork
+- ground turkey
+- ground chicken
+- ground beef
+- peanut butter
+- peanuts
+- lettuce
+- salad
+- peanut dressing
+- pb2
+- pbfit
+- gochujang
+- lime
+- carrot
+- onion
+- ginger
+- sesame oil
+Description: I recently had Nam Sod for the first time at a Thai place, and I was in love. The combination of lime, peanuts, and ginger was absolutely delicious, and it was a light but filling meal. It's traditionally made with ground pork, but it can be made with ground beef, turkey, or chicken (what I had at the restaurant). This is my non-traditional take on the dish.  The carrots and onion are normally raw, but I opted to cook them here and bring out their sweet flavors. It can be served over a bed of lettuce or rice (or both!)
+Instructions: 
+- In a large bowl (large enough to combine all the food later) mix the lime juice (juice of 2 limes), gochujang, ginger, and PB2. Thin out with some soy sauce (or water). Typically fish sauce is used, but I couldn't find it at my grocery store, so I've swapped it for gochujang. If you use fresh limes, you can choose to zest them as well<br><br>
+
+- Cut the onions and carrots into a small dice, and add to a large pan over medium heat with oil and a pinch of salt. Cook until the carrots have fully softened, and the onions are translucent and begin to caramelize. Add the garlic, and cook until fragrant, about 30 seconds. Set the vegetables aside in the bowl with the dressing<br><br>
+
+- In the pan over medium heat, add in the meat with a spray of oil, and flatten with your hands to optimize browning. Cook until no longer pink, and transfer to the bowl with the vegetables and dressing<br><br>
+
+- Meanwhile (as the meat cooks) roughly chop the peanuts. Add to the bowl. Combine together the meat, vegetables, nuts, and dressing<br><br>
+
+- Thinly slice the lettuce, and add to 4 serving bowls. Add the meat mix on top of it, and optionally garnish with your lime zest. Serve with a side of brown rice if desired (mix some zest into the rice too)
+---
