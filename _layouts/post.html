@@ -137,6 +137,13 @@ layout: base
     {% if page.Source1 %}
     <a href={{- page.Source2 -}}>{{ page.Source2 }}</a>
     {% endif %}
+    <br>
+
+    <!-- Whisk Link -->
+    {% if page.whisk %}
+      <b><u>Alternative Recipe Link (Whisk / Samsung Food)</u></b><br>
+      <a href={{- page.whisk -}}>{{ page.whisk }}</a>
+    {% endif %}
 
   </div>
 
