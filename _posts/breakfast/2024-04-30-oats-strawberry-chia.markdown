@@ -14,6 +14,7 @@ Rest:
 Cook: 2
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/sLmUp
 tags: 
 - oatmeal
 - oats

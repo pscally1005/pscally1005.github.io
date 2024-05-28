@@ -14,6 +14,7 @@ Rest: 60
 Cook: 13
 Source1: https://www.kitchensanctuary.com/chewy-amaretti-cookies/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/WjPUk
 tags: 
 - almond
 - almond extract

@@ -14,6 +14,7 @@ Rest: 180
 Cook: 7
 Source1: https://www.youtube.com/watch?v=SDpCzJw2xm4&t=7s
 Source2: https://www.bakewithjack.co.uk/blog-1/2021/3/3/homemade-pizza-dough
+whisk: https://s.samsungfood.com/M2wZo
 tags:
 - flatbread
 - sauce

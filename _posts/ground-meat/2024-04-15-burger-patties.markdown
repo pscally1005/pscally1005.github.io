@@ -14,6 +14,7 @@ Rest:
 Cook: 10
 Source1: https://thebigmansworld.com/air-fryer-turkey-burgers/
 Source2: 
+whisk: https://s.samsungfood.com/lYYiq
 tags: 
 - ground meat
 - ground beef

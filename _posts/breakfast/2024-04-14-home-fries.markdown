@@ -14,6 +14,7 @@ Rest:
 Cook: 30
 Source1: https://www.loveandlemons.com/breakfast-potatoes-recipe/#wprm-recipe-container-56149
 Source2: 
+whisk: https://s.samsungfood.com/zbnvG
 tags: 
 - sweet potato
 - breakfast

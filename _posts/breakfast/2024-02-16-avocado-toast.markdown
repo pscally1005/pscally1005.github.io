@@ -14,6 +14,7 @@ Rest:
 Cook: 5
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/inluy
 tags: 
 - whole wheat
 - tomato

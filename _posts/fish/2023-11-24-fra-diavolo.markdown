@@ -14,6 +14,7 @@ Rest:
 Cook: 70
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/nxnxM
 tags: 
 - spinach
 - seafood

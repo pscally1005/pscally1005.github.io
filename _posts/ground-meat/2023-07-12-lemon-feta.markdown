@@ -14,6 +14,7 @@ Rest:
 Cook: 60
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/MP7PT
 tags: 
 - ground
 - chicken

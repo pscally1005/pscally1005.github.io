@@ -14,6 +14,7 @@ Rest: 15
 Cook: 
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/FslqZ
 tags: 
 - no bake
 - chickpeas

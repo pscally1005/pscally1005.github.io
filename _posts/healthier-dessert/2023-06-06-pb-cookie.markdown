@@ -14,6 +14,7 @@ Rest: 30
 Cook: 8
 Source1: https://www.youtube.com/watch?v=LZZxC1wfRAc
 Source2: 
+whisk: https://s.samsungfood.com/PO0Ed
 tags: 
 - maple
 - syrup

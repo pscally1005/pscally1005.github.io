@@ -14,6 +14,7 @@ Rest:
 Cook: 40
 Source1: https://www.youtube.com/watch?v=iKMI1xkU_oo
 Source2: 
+whisk: https://s.samsungfood.com/hU52x
 tags: 
 - chana masala
 - tortilla

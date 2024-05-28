@@ -14,6 +14,7 @@ Rest:
 Cook: 5
 Source1: https://www.youtube.com/watch?v=VNjINHa_dck
 Source2: 
+whisk: https://s.samsungfood.com/0ySW3
 tags: 
 - spinach
 - basil

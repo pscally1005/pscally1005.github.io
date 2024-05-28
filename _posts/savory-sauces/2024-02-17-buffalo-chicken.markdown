@@ -14,6 +14,7 @@ Rest:
 Cook: 50
 Source1: https://thecleaneatingcouple.com/healthy-buffalo-chicken-dip/
 Source2: 
+whisk: https://s.samsungfood.com/aFCbv
 tags: 
 - shredded chicken
 - hot sauce

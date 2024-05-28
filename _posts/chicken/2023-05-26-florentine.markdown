@@ -14,6 +14,7 @@ Rest:
 Cook: 30
 Source1: https://healthyfitnessmeals.com/chicken-florentine/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/sM1Hh
 tags: 
 - spinach
 - onion

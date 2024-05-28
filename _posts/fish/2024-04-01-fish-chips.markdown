@@ -14,6 +14,7 @@ Rest:
 Cook: 6
 Source1: https://www.usa.philips.com/c-e/ho/philips-chef/recipe-overview-page/starter-snacks/fish-and-sweet-potato-chips.html
 Source2: 
+whisk: https://s.samsungfood.com/d5USs
 tags: 
 - tilapia filet
 - protein

@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/4CGfi
 tags: 
 - edible cookie dough
 - cookie dough

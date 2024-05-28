@@ -14,6 +14,7 @@ Rest:
 Cook: 60
 Source1: https://www.youtube.com/watch?v=MjLAaG4PTis
 Source2: 
+whisk: https://s.samsungfood.com/MWkn4
 tags: 
 - pumpkin spice
 - butternut squash

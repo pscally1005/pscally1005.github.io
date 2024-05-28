@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://www.youtube.com/watch?v=VNF4aVJTiEM
 Source2: 
+whisk: https://s.samsungfood.com/9HUAn
 tags: 
 - truffle
 - chocolate

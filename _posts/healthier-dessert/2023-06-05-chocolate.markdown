@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://healthyrecipesblogs.com/homemade-chocolate/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/J3cj0
 tags: 
 - cocoa powder
 - coconut oil

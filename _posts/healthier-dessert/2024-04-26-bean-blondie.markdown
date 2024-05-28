@@ -14,6 +14,7 @@ Rest:
 Cook: 20
 Source1: https://www.myplantifulcooking.com/vegan-peanut-butter-chickpea-blondies/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/JOtXn
 tags: 
 - chocolate chips
 - natural peanut butter

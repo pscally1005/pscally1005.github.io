@@ -13,7 +13,8 @@ Prep: 10
 Rest: 
 Cook: 20
 Source1: 
-Source2: 
+Source2:
+whisk: https://s.samsungfood.com/hSpXR 
 tags: 
 - eggs
 - spinach

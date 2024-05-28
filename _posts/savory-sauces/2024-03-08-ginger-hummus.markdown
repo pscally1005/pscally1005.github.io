@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://www.acouplecooks.com/ginger-lime-hummus/#tasty-recipes-18368-jump-target
 Source2: 
+whisk: https://s.samsungfood.com/70cc0
 tags: 
 - asian
 - sesame oil

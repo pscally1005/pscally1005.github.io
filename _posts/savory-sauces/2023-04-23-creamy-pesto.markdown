@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://www.youtube.com/watch?v=1eXvV-7pOp0
 Source2: 
+whisk: https://s.samsungfood.com/rOHAI
 tags: 
 - pesto
 - sauce

@@ -14,6 +14,7 @@ Rest: 30
 Cook: 15
 Source1: https://www.youtube.com/watch?v=ACbwMHUj-kA
 Source2: 
+whisk: https://s.samsungfood.com/N8lEA
 tags: 
 - egg white
 - cookie

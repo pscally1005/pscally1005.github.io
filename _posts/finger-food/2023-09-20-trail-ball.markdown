@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://www.youtube.com/watch?v=UBuKLzLTMLE
 Source2: 
+whisk: https://s.samsungfood.com/ajqjE
 tags: 
 - nuts
 - fruit

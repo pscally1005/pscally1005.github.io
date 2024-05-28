@@ -14,6 +14,7 @@ Rest:
 Cook: 10
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/1XwbK
 tags: 
 - protein
 - casein

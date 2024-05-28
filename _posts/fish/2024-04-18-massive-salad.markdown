@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://youtu.be/5S_uIN3o4Jk?si=0ds-g4LzG8UMbaZ7 
 Source2: https://youtu.be/puWE8yKa-tY?si=qIKxpnS5jzl81smc
+whisk: https://s.samsungfood.com/UKjtO
 tags: 
 - lettuce
 - spinach

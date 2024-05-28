@@ -14,6 +14,7 @@ Rest:
 Cook: 90
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/PmLSY
 tags: 
 - sauce
 - italian

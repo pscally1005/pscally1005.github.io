@@ -14,6 +14,7 @@ Rest:
 Cook: 45
 Source1: https://www.youtube.com/watch?v=T1uUQgcWVYQ
 Source2: 
+whisk: https://s.samsungfood.com/ca4Z1
 tags: 
 - pork
 - tenderloin

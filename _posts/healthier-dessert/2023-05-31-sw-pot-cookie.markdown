@@ -14,6 +14,7 @@ Rest:
 Cook: 10
 Source1: https://www.theleangreenbean.com/healthy-sweet-potato-cookies/
 Source2:
+whisk: https://s.samsungfood.com/ZFXa2
 tags: 
 - sweet potatoes
 - mashed sweet potato

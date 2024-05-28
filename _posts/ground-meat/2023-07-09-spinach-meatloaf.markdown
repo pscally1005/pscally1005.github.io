@@ -14,6 +14,7 @@ Rest:
 Cook: 45
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/QfSFO
 tags: 
 - veggie
 - vegetable

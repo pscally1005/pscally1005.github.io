@@ -14,6 +14,7 @@ Rest:
 Cook: 15
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/AoxMG
 tags: 
 - grill
 - air fry

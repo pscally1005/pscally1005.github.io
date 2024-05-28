@@ -14,6 +14,7 @@ Rest: 480
 Cook: 480
 Source1: https://www.copymethat.com/r/3ydWTIyiX/spicy-black-beans/
 Source2: 
+whisk: https://s.samsungfood.com/76mln
 tags: 
 - black beans
 - dried beans

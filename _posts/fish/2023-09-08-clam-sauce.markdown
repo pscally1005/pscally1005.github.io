@@ -14,6 +14,7 @@ Rest:
 Cook: 35
 Source1: https://simple-nourished-living.com/lightened-up-spaghetti-with-white-wine-clam-sauce/
 Source2: 
+whisk: https://s.samsungfood.com/ayjgY
 tags: 
 - christmas
 - clam

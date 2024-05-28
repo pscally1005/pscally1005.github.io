@@ -14,6 +14,7 @@ Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=SUiHRrhQLVs
 Source2: 
+whisk: https://s.samsungfood.com/SMLbq
 tags: 
 - gluten free
 - oat flour

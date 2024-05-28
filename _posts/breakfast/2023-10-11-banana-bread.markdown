@@ -14,6 +14,7 @@ Rest:
 Cook: 60
 Source1: https://www.youtube.com/watch?v=4AaCp1rMbGo
 Source2: 
+whisk: https://s.samsungfood.com/Cs6h7
 tags: 
 - gluten free
 - oats

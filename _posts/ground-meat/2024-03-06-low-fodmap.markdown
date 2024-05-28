@@ -14,6 +14,7 @@ Rest:
 Cook: 30
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/UhAkV
 tags: 
 - ground
 - turkey

@@ -14,6 +14,7 @@ Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=IGx6etMEKr0 
 Source2: https://downshiftology.com/recipes/shakshuka/#wprm-recipe-container-34363
+whisk: https://s.samsungfood.com/wKdA4
 tags: 
 - eggs
 - breakfast

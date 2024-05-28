@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://www.youtube.com/watch?v=XnSdNMsmbEk
 Source2: 
+whisk: https://s.samsungfood.com/Kw0NE
 tags: 
 - hummus
 - mashed hummus

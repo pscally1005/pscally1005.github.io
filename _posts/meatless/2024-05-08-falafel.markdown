@@ -14,6 +14,7 @@ Rest: 30
 Cook: 12
 Source1: https://www.youtube.com/watch?v=ox8avOvja1E
 Source2: 
+whisk: https://s.samsungfood.com/1HqZ7
 tags: 
 - onion
 - baby carrot

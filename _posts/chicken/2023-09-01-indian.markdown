@@ -14,6 +14,7 @@ Rest:
 Cook: 60
 Source1: https://mealprepmanual.com/hidden-vegetable-butter-chicken/
 Source2: 
+whisk: https://s.samsungfood.com/YU6d0
 tags: 
 - breast
 - cutlet

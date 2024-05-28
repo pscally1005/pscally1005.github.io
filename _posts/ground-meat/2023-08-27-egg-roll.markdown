@@ -14,6 +14,7 @@ Rest:
 Cook: 40
 Source1: https://www.theseasonedmom.com/egg-roll-in-a-bowl/
 Source2: 
+whisk: https://s.samsungfood.com/25hwC
 tags: 
 - asian
 - cabbage

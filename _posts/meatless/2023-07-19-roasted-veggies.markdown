@@ -14,6 +14,7 @@ Rest:
 Cook: 20
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/iwuvE
 tags: 
 - roasted veggies
 - simply roasted

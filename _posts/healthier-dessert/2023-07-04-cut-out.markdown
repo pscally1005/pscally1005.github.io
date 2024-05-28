@@ -14,6 +14,7 @@ Rest: 30
 Cook: 12
 Source1: https://www.youtube.com/watch?v=hBdokf3TIKY
 Source2: 
+whisk: https://s.samsungfood.com/xinr0
 tags: 
 - sugar cookie
 - cookie cutter

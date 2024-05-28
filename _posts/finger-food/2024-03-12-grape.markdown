@@ -13,7 +13,8 @@ Prep: 30
 Rest: 
 Cook: 90
 Source1: https://www.themediterraneandish.com/stuffed-grape-leaves-dolmades/#tasty-recipes-10290-jump-target
-Source2: 
+Source2:
+whisk: https://s.samsungfood.com/poKOx 
 tags: 
 - greek
 - rice

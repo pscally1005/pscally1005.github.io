@@ -14,6 +14,7 @@ Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=N5KhL0Al9vE&t=1s
 Source2: 
+whisk: https://s.samsungfood.com/sQGWG
 tags: 
 - jam
 - jelly

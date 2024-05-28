@@ -14,6 +14,7 @@ Rest:
 Cook: 30
 Source1: https://www.youtube.com/watch?v=hS1cTJBfj98&t=16s
 Source2: 
+whisk: https://s.samsungfood.com/qwY48
 tags: 
 - apple cake
 - whey

@@ -131,18 +131,18 @@ layout: base
     <!-- Source -->
     {% if page.Source1 %}
       <b><u>Sources of Inspiration</u></b><br>
-      <a href={{- page.Source1 -}}>{{ page.Source1 }}</a>
+      <a href={{- page.Source1 -}}>{{ page.Source1 }}</a><br>
+      {% if page.Source2 %}
+        <a href={{- page.Source2 -}}>{{ page.Source2 }}</a><br><br>
+      {% else %}
+        <br>
+      {% endif %}
     {% endif %}
-    <br>
-    {% if page.Source1 %}
-    <a href={{- page.Source2 -}}>{{ page.Source2 }}</a>
-    {% endif %}
-    <br>
 
     <!-- Whisk Link -->
     {% if page.whisk %}
       <b><u>Alternative Recipe Link (Whisk / Samsung Food)</u></b><br>
-      <a href={{- page.whisk -}}>{{ page.whisk }}</a>
+      <a href={{- page.whisk -}}>{{ page.whisk }}</a><br>
     {% endif %}
 
   </div>

@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://www.thekitchn.com/easy-copycat-rx-bar-recipe-256203
 Source2: 
+whisk: https://s.samsungfood.com/ZKEZd
 tags: 
 - chocolate bar
 - rx bar

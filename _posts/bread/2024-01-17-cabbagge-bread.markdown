@@ -14,6 +14,7 @@ Rest:
 Cook: 50
 Source1: https://www.youtube.com/watch?v=ZXZMqN3ONII
 Source2: 
+whisk: https://s.samsungfood.com/1khDK
 tags: 
 - protein
 - sandwich

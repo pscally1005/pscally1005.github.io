@@ -14,6 +14,7 @@ Rest:
 Cook: 20
 Source1: https://www.myplantifulcooking.com/healthy-vegan-black-bean-brownies/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/thUvp
 tags: 
 - cocoa powder
 - chocolate chips

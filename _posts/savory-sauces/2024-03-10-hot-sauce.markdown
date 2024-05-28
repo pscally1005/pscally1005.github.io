@@ -14,6 +14,7 @@ Rest:
 Cook: 20
 Source1: https://moonandspoonandyum.com/louisiana-hot-sauce/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/0DWfH
 tags: 
 - spicy
 - vinegar

@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/oW3jb
 tags: 
 - dip
 - dressing

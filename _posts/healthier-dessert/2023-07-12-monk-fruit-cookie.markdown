@@ -14,6 +14,7 @@ Rest: 30
 Cook: 8
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/oykiY
 tags: 
 - monk fruit
 - stevia

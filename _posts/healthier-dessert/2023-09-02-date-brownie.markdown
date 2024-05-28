@@ -14,6 +14,7 @@ Rest:
 Cook: 30
 Source1: https://hangryeconomist.com/date-brownies/
 Source2: 
+whisk: https://s.samsungfood.com/zbfuR
 tags: 
 - gluten free
 - raisin

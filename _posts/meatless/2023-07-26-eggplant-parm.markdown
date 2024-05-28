@@ -14,6 +14,7 @@ Rest:
 Cook: 70
 Source1: https://www.skinnytaste.com/lighter-eggplant-parmesan-5-pts/
 Source2: 
+whisk: https://s.samsungfood.com/g3iri
 tags: 
 - eggplant parmesean
 - parmesean

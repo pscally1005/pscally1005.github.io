@@ -14,6 +14,7 @@ Rest:
 Cook: 40
 Source1: https://www.youtube.com/watch?v=nWqPFOv5dpQ
 Source2: 
+whisk: https://s.samsungfood.com/bpx97
 tags: 
 - asian
 - sesame oil

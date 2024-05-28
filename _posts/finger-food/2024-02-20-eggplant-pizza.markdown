@@ -14,6 +14,7 @@ Rest:
 Cook: 25
 Source1: https://elavegan.com/eggplant-pizza-recipe/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/RA5Ux
 tags: 
 - pizza
 - vegetable

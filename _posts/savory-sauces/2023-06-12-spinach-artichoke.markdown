@@ -14,6 +14,7 @@ Rest:
 Cook: 30
 Source1: https://skinnyfitalicious.com/healthy-spinach-artichoke-dip/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/EfSfQ
 tags: 
 - artichoke spinach dip
 - cottage cheese

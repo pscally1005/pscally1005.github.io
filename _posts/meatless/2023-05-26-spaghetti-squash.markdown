@@ -14,6 +14,7 @@ Rest:
 Cook: 40
 Source1: https://www.loveandlemons.com/how-to-cook-spaghetti-squash/
 Source2: https://www.youtube.com/watch?v=Mxao5iQfxPo
+whisk: https://s.samsungfood.com/IJUyR
 tags: 
 - crock pot
 - crockpot

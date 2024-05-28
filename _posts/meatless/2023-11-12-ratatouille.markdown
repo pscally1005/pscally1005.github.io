@@ -14,6 +14,7 @@ Rest:
 Cook: 105
 Source1: https://thebeet.com/summer-rainbow-ratatouille/
 Source2: 
+whisk: https://s.samsungfood.com/XKdBu
 tags: 
 - remmy
 - eggplant

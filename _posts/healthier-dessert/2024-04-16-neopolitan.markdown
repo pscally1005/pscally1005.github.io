@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://theveglife.com/neapolitan-banana-nice-cream-vegan/#wprm-recipe-container-10091
 Source2: 
+whisk: https://s.samsungfood.com/kyeYg
 tags: 
 - no bake
 - ice cream

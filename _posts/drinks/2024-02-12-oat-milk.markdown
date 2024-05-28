@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://www.foodandmoodcreations.com/how-to-make-unsweetened-oat-milk/
 Source2: 
+whisk: https://s.samsungfood.com/7Cd3T
 tags: 
 - plant based
 - almond milk

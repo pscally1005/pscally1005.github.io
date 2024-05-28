@@ -13,7 +13,8 @@ Prep: 10
 Rest: 
 Cook: 60
 Source1: https://www.youtube.com/watch?v=z4i5w_ngyL8
-Source2: 
+Source2:
+whisk: https://s.samsungfood.com/1wCSw 
 tags: 
 - peanut butter
 - bread

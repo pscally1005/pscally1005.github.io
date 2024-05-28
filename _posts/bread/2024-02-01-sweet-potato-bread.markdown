@@ -14,6 +14,7 @@ Rest: 120
 Cook: 45
 Source1: https://www.youtube.com/watch?v=9WAWdbXdsKg
 Source2: 
+whisk: https://s.samsungfood.com/4Uvug
 tags: 
 - whole wheat
 - bread

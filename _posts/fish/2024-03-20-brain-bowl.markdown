@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://storyandrain.com/article/recipe-box-better-brain-bowl
 Source2: 
+whisk: https://s.samsungfood.com/jO1t1
 tags: 
 - canned sardines
 - sardines

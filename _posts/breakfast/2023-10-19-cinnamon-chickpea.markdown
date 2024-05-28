@@ -14,6 +14,7 @@ Rest:
 Cook: 14
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/y3Pcw
 tags: 
 - cereal
 - bowl

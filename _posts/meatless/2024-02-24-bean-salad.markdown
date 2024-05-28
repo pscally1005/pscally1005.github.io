@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://healthyfitnessmeals.com/easy-three-beans-salad-recipe/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/9gDmG
 tags: 
 - bean dip
 - bean salad

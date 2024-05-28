@@ -14,6 +14,7 @@ Rest:
 Cook: 30
 Source1: https://www.fitmamarealfood.com/healthy-burger-bowl/#recipe
 Source2: https://www.youtube.com/watch?v=-v8IqjVQvjU
+whisk: https://s.samsungfood.com/QXVjS
 tags: 
 - ground meat
 - ground beef

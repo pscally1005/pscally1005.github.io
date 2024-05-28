@@ -13,7 +13,8 @@ Prep: 120
 Rest: 
 Cook: 10
 Source1: https://www.tastingtable.com/686065/italian-rainbow-cookie-recipe/
-Source2: 
+Source2:
+whisk: https://s.samsungfood.com/cA5Nn 
 tags: 
 - stevia
 - allulose

@@ -7,13 +7,14 @@ categories:
 - Healthier Dessert
 permalink: /recipes/nice-cream
 image: /assets/Food/Healthier Dessert/Nice Cream/nice-cream.jpg
-ing: niceream-ing
+ing: nicecream-ing
 facts: nicecream-facts
 Prep: 5
 Rest: 
 Cook: 
 Source1: https://chocolatecoveredkatie.com/banana-ice-cream-healthy/
 Source2: 
+whisk: https://s.samsungfood.com/zAvOa
 tags: 
 - frozen
 - blend

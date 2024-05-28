@@ -14,6 +14,7 @@ Rest: 30
 Cook: 13
 Source1: https://www.eatingbirdfood.com/cottage-cheese-cookies/#wprm-recipe-container-124320
 Source2: https://www.eatingbirdfood.com/cottage-cheese-cookie-dough/#wprm-recipe-container-127429
+whisk: https://s.samsungfood.com/DuJYO
 tags: 
 - chocolate chip
 - chocolate chunk

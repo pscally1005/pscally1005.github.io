@@ -14,6 +14,7 @@ Rest:
 Cook: 720
 Source1: https://detoxinista.com/how-to-make-apple-butter/
 Source2: 
+whisk: https://s.samsungfood.com/JF9nx
 tags: 
 - gala apple
 - apple butter

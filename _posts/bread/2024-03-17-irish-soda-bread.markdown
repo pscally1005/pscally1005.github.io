@@ -14,6 +14,7 @@ Rest:
 Cook: 50
 Source1: https://www.youtube.com/watch?v=vUSiK7Us-iY
 Source2: 
+whisk: https://s.samsungfood.com/HCU9g
 tags: 
 - whole wheat
 - oat flour

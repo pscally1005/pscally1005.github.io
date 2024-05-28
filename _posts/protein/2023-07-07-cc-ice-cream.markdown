@@ -14,6 +14,7 @@ Rest:
 Cook: 120
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/eBsVM
 tags: 
 - ice cream
 - nice cream

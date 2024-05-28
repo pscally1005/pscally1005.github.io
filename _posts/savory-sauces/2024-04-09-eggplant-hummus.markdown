@@ -14,6 +14,7 @@ Rest:
 Cook: 40
 Source1: https://youtu.be/dhuvZMsy9pY?si=iPrkskL0DT-J7oyt
 Source2: 
+whisk: https://s.samsungfood.com/ai5sT
 tags: 
 - hummus
 - spread

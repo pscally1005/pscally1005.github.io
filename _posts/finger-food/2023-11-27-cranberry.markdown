@@ -14,6 +14,7 @@ Rest:
 Cook: 360
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/sMc1G
 tags: 
 - no sugar
 - dried

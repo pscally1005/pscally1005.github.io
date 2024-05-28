@@ -14,6 +14,7 @@ Rest:
 Cook: 480
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/3s11e
 tags: 
 - beans
 - kidney

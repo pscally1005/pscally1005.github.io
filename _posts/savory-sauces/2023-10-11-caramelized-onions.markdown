@@ -14,6 +14,7 @@ Rest:
 Cook: 480
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/mYReP
 tags: 
 - french onion
 - onion dip

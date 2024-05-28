@@ -14,6 +14,7 @@ Rest:
 Cook: 14
 Source1: https://mealprepmanual.com/nashville-hot-chicken-nuggets/
 Source2: https://www.youtube.com/watch?v=KasX2xTCkOA
+whisk: https://s.samsungfood.com/3Zf1F
 tags: 
 - nuggies
 - chicken

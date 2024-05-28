@@ -12,8 +12,9 @@ facts: olivcado-facts
 Prep: 5
 Rest: 
 Cook: 
-Source1: https://youtu.be/LDTe3k7y5_I?si=fRmBeMMaXI3lE7O5
+Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/XPzBj
 tags: 
 - dressing
 - salad

@@ -14,6 +14,7 @@ Rest:
 Cook: 8
 Source1: https://confessionsofafitfoodie.com/air-fryer-zucchini/#recipe
 Source2: 
+whisk: https://s.samsungfood.com/xQ0gi
 tags: 
 - zucchini
 - squash

@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: https://www.youtube.com/watch?v=JrCtM4xkgRE&t=207s
 Source2: 
+whisk: https://s.samsungfood.com/yLVSF
 tags: 
 - oats
 - oatmeal

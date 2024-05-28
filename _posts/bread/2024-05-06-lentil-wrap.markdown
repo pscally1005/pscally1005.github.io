@@ -14,6 +14,7 @@ Rest:
 Cook: 15
 Source1: https://www.youtube.com/watch?v=G9WpnpJ5vg4
 Source2: 
+whisk: https://s.samsungfood.com/JHRV5
 tags: 
 - wrap
 - tortilla

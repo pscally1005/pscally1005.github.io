@@ -14,6 +14,7 @@ Rest:
 Cook: 45
 Source1: https://www.youtube.com/watch?v=Pc2HZMPWi-M&t=7s
 Source2: 
+whisk: https://s.samsungfood.com/ACVhg
 tags: 
 - apple crisp
 - gluten free

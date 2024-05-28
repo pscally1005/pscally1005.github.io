@@ -14,6 +14,7 @@ Rest:
 Cook: 40
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/kuVvy
 tags: 
 - spinach
 - basil

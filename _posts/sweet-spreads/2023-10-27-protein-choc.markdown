@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/O0Q5H
 tags: 
 - peanut butter chocolate
 - chocolate peanut butter

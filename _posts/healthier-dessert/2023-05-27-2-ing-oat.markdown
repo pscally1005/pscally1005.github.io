@@ -14,6 +14,7 @@ Rest:
 Cook: 12
 Source1: https://www.youtube.com/watch?v=4ZeK_iLauko
 Source2: https://www.youtube.com/watch?v=k4EwFQWUPcY
+whisk: https://s.samsungfood.com/zhSeO
 tags: 
 - two ingredient
 - mashed banana

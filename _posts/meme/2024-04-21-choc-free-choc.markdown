@@ -14,6 +14,7 @@ Rest:
 Cook: 
 Source1: 
 Source2: 
+whisk: https://s.samsungfood.com/JNTh8
 tags: 
 - no bake
 - extra virgin coconut oil

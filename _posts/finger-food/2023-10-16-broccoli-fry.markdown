@@ -14,6 +14,7 @@ Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=sjK2JV1shrc
 Source2: https://mealprepmanual.com/broccoli-bites/
+whisk: https://s.samsungfood.com/8RQTo
 tags: 
 - vegetable
 - veggies

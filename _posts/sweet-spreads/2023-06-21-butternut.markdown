@@ -14,6 +14,7 @@ Rest:
 Cook: 70
 Source1: https://www.asweetpeachef.com/how-to-make-butternut-squash-puree/#wprm-recipe-container-19958
 Source2: 
+whisk: https://s.samsungfood.com/L4WIE
 tags: 
 - squash mash
 - mashed butternut squash

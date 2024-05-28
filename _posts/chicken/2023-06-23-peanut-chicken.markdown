@@ -14,6 +14,7 @@ Rest:
 Cook: 30
 Source1: https://www.youtube.com/watch?v=2l1jKvh9FaU&t=10s
 Source2: https://www.youtube.com/watch?v=Aq0n2ziRemc
+whisk: https://s.samsungfood.com/MIWMv
 tags: 
 - peanut butter
 - PB2

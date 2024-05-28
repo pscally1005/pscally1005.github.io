@@ -13,7 +13,8 @@ Prep: 15
 Rest: 
 Cook: 30
 Source1: https://www.delish.com/cooking/recipe-ideas/a47169/caprese-chicken-recipe/
-Source2: 
+Source2:
+whisk: https://s.samsungfood.com/WQpZz 
 tags: 
 - tomato
 - glaze

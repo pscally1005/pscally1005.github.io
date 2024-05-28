@@ -14,6 +14,7 @@ Rest: 30
 Cook: 13
 Source1: https://frommybowl.com/chickpea-chocolate-chip-cookies/#tasty-recipes-7695-jump-target
 Source2: https://iheartvegetables.com/chickpea-chocolate-chip-cookies/
+whisk: https://s.samsungfood.com/aufll
 tags: 
 - chocolate chip
 - chocolate chunk

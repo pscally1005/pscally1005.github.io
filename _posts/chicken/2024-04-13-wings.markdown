@@ -14,6 +14,7 @@ Rest:
 Cook: 90
 Source1: https://www.instagram.com/p/CZ2C_FdJbQ3/
 Source2: 
+whisk: https://s.samsungfood.com/uWUGK
 tags: 
 - chicken wings
 - gluten free
