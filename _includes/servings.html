@@ -1,0 +1,4 @@
+{% if page.ing %}
+    {% assign ser = site.data[page.ing].last %}
+    <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
+{% endif %}

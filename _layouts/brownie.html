@@ -4,36 +4,12 @@ layout: base
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    {%- if page.image -%}
-      <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
-    {%- endif -%}
-
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified_date -%}
-        ~ 
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
-        </time>
-      {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}</p>
-  </header>
+  {% include top.html %}
 
   <div class="post-content e-content" itemprop="articleBody">
 
-    <!-- {{ content }} -->
+    {% include buttons.html %}
+    {{ content }}
     
     <!-- Overview -->
     {% if page.overview %}
@@ -55,322 +31,60 @@ layout: base
 
     <!-- Butter -->
     {% if page.butter %}
-      <b><u>Ingredients</u></b><br>
+        <b><u>Ingredients</u></b><br>
+    {% endif %}
+    <div id="butter"></div>
+    {% if page.butter %}
       &emsp; {{ page.butter }}<br><br>
     {% endif %}
-
-    <table>
-      {% for row in site.data[page.butter-ing] %}
-          {% if forloop.first %}
-              <tr>
-              {% for pair in row %}
-                  <th>{{ pair[0] }}</th>
-              {% endfor %}
-              </tr>
-          {% endif %}
-      {% endfor %}
-  
-      {% for row in site.data[page.butter-ing] %}
-          {% if forloop.last %}
-  
-          {% else %}
-              {% tablerow pair in row %}
-                  {{ pair[1] }}
-              {% endtablerow %}
-          {% endif %}
-      {% endfor %}
-  </table>
-
-    {% if page.butter-ing %}
-      {% assign ser = site.data[page.butter-ing].last %}
-      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
-    {% endif %}
-
-    <table>
-        {% for row in site.data[page.butter-facts] %}
-            {% if forloop.first %}
-                <tr>
-                {% for pair in row %}
-                    <th>{{ pair[0] }}</th>
-                {% endfor %}
-                </tr>
-            {% endif %}
-        {% endfor %}
-
-        {% assign i = 0 %}
-        {% for row in site.data[page.butter-facts] %}
-            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
-                {% tablerow pair in row %}
-                    <b style="color: lightgray">{{ pair[1] }}</b>
-                {% endtablerow %}
-            {% endif %}
-        {% endfor %}
-    </table>
+    {% include ingredientsParam.html ing=page.butter-ing %}
+    {% include servingsParam.html ing=page.butter-ing %}
+    {% include nutritionParam.html facts=page.butter-facts %}
 
     <!-- Applesauce -->
+    <div id="applesauce"></div>
     {% if page.applesauce %}
       &emsp; {{ page.applesauce }}<br><br>
     {% endif %}
-
-    <table>
-      {% for row in site.data[page.applesauce-ing] %}
-          {% if forloop.first %}
-              <tr>
-              {% for pair in row %}
-                  <th>{{ pair[0] }}</th>
-              {% endfor %}
-              </tr>
-          {% endif %}
-      {% endfor %}
-  
-      {% for row in site.data[page.applesauce-ing] %}
-          {% if forloop.last %}
-  
-          {% else %}
-              {% tablerow pair in row %}
-                  {{ pair[1] }}
-              {% endtablerow %}
-          {% endif %}
-      {% endfor %}
-  </table>
-
-    {% if page.applesauce-ing %}
-      {% assign ser = site.data[page.applesauce-ing].last %}
-      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
-    {% endif %}
-
-    <table>
-        {% for row in site.data[page.applesauce-facts] %}
-            {% if forloop.first %}
-                <tr>
-                {% for pair in row %}
-                    <th>{{ pair[0] }}</th>
-                {% endfor %}
-                </tr>
-            {% endif %}
-        {% endfor %}
-
-        {% assign i = 0 %}
-        {% for row in site.data[page.applesauce-facts] %}
-            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
-                {% tablerow pair in row %}
-                    <b style="color: lightgray">{{ pair[1] }}</b>
-                {% endtablerow %}
-            {% endif %}
-        {% endfor %}
-    </table>
+    {% include ingredientsParam.html ing=page.applesauce-ing %}
+    {% include servingsParam.html ing=page.applesauce-ing %}
+    {% include nutritionParam.html facts=page.applesauce-facts %}
 
     <!-- Yogurt -->
+    <div id="yogurt"></div>
     {% if page.yogurt %}
       &emsp; {{ page.yogurt }}<br><br>
     {% endif %}
-
-    <table>
-      {% for row in site.data[page.yogurt-ing] %}
-          {% if forloop.first %}
-              <tr>
-              {% for pair in row %}
-                  <th>{{ pair[0] }}</th>
-              {% endfor %}
-              </tr>
-          {% endif %}
-      {% endfor %}
-  
-      {% for row in site.data[page.yogurt-ing] %}
-          {% if forloop.last %}
-  
-          {% else %}
-              {% tablerow pair in row %}
-                  {{ pair[1] }}
-              {% endtablerow %}
-          {% endif %}
-      {% endfor %}
-  </table>
-
-    {% if page.yogurt-ing %}
-      {% assign ser = site.data[page.yogurt-ing].last %}
-      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
-    {% endif %}
-
-    <table>
-        {% for row in site.data[page.yogurt-facts] %}
-            {% if forloop.first %}
-                <tr>
-                {% for pair in row %}
-                    <th>{{ pair[0] }}</th>
-                {% endfor %}
-                </tr>
-            {% endif %}
-        {% endfor %}
-
-        {% assign i = 0 %}
-        {% for row in site.data[page.yogurt-facts] %}
-            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
-                {% tablerow pair in row %}
-                    <b style="color: lightgray">{{ pair[1] }}</b>
-                {% endtablerow %}
-            {% endif %}
-        {% endfor %}
-    </table>
+    {% include ingredientsParam.html ing=page.yogurt-ing %}
+    {% include servingsParam.html ing=page.yogurt-ing %}
+    {% include nutritionParam.html facts=page.yogurt-facts %}
 
     <!-- Banana -->
+    <div id="banana"></div>
     {% if page.banana %}
       &emsp; {{ page.banana }}<br><br>
     {% endif %}
-
-    <table>
-      {% for row in site.data[page.banana-ing] %}
-          {% if forloop.first %}
-              <tr>
-              {% for pair in row %}
-                  <th>{{ pair[0] }}</th>
-              {% endfor %}
-              </tr>
-          {% endif %}
-      {% endfor %}
-  
-      {% for row in site.data[page.banana-ing] %}
-          {% if forloop.last %}
-  
-          {% else %}
-              {% tablerow pair in row %}
-                  {{ pair[1] }}
-              {% endtablerow %}
-          {% endif %}
-      {% endfor %}
-  </table>
-
-    {% if page.banana-ing %}
-      {% assign ser = site.data[page.banana-ing].last %}
-      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
-    {% endif %}
-
-    <table>
-        {% for row in site.data[page.banana-facts] %}
-            {% if forloop.first %}
-                <tr>
-                {% for pair in row %}
-                    <th>{{ pair[0] }}</th>
-                {% endfor %}
-                </tr>
-            {% endif %}
-        {% endfor %}
-
-        {% assign i = 0 %}
-        {% for row in site.data[page.banana-facts] %}
-            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
-                {% tablerow pair in row %}
-                    <b style="color: lightgray">{{ pair[1] }}</b>
-                {% endtablerow %}
-            {% endif %}
-        {% endfor %}
-    </table>
+    {% include ingredientsParam.html ing=page.banana-ing %}
+    {% include servingsParam.html ing=page.banana-ing %}
+    {% include nutritionParam.html facts=page.banana-facts %}
 
     <!-- Sweet Potato -->
+    <div id="potato"></div>
     {% if page.sweet-potato %}
       &emsp; {{ page.sweet-potato }}<br><br>
     {% endif %}
-
-    <table>
-      {% for row in site.data[page.sweet-potato-ing] %}
-          {% if forloop.first %}
-              <tr>
-              {% for pair in row %}
-                  <th>{{ pair[0] }}</th>
-              {% endfor %}
-              </tr>
-          {% endif %}
-      {% endfor %}
-  
-      {% for row in site.data[page.sweet-potato-ing] %}
-          {% if forloop.last %}
-  
-          {% else %}
-              {% tablerow pair in row %}
-                  {{ pair[1] }}
-              {% endtablerow %}
-          {% endif %}
-      {% endfor %}
-  </table>
-
-    {% if page.sweet-potato-ing %}
-      {% assign ser = site.data[page.sweet-potato-ing].last %}
-      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
-    {% endif %}
-
-    <table>
-        {% for row in site.data[page.sweet-potato-facts] %}
-            {% if forloop.first %}
-                <tr>
-                {% for pair in row %}
-                    <th>{{ pair[0] }}</th>
-                {% endfor %}
-                </tr>
-            {% endif %}
-        {% endfor %}
-
-        {% assign i = 0 %}
-        {% for row in site.data[page.sweet-potato-facts] %}
-            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
-                {% tablerow pair in row %}
-                    <b style="color: lightgray">{{ pair[1] }}</b>
-                {% endtablerow %}
-            {% endif %}
-        {% endfor %}
-    </table>
+    {% include ingredientsParam.html ing=page.sweet-potato-ing %}
+    {% include servingsParam.html ing=page.sweet-potato-ing %}
+    {% include nutritionParam.html facts=page.sweet-potato-facts %}
 
     <!-- Beans -->
+    <div id="beans"></div>
     {% if page.beans %}
       &emsp; {{ page.beans }}<br><br>
     {% endif %}
-
-    <table>
-      {% for row in site.data[page.beans-ing] %}
-          {% if forloop.first %}
-              <tr>
-              {% for pair in row %}
-                  <th>{{ pair[0] }}</th>
-              {% endfor %}
-              </tr>
-          {% endif %}
-      {% endfor %}
-  
-      {% for row in site.data[page.beans-ing] %}
-          {% if forloop.last %}
-  
-          {% else %}
-              {% tablerow pair in row %}
-                  {{ pair[1] }}
-              {% endtablerow %}
-          {% endif %}
-      {% endfor %}
-  </table>
-
-    {% if page.beans-ing %}
-      {% assign ser = site.data[page.beans-ing].last %}
-      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
-    {% endif %}
-
-    <table>
-        {% for row in site.data[page.beans-facts] %}
-            {% if forloop.first %}
-                <tr>
-                {% for pair in row %}
-                    <th>{{ pair[0] }}</th>
-                {% endfor %}
-                </tr>
-            {% endif %}
-        {% endfor %}
-
-        {% assign i = 0 %}
-        {% for row in site.data[page.beans-facts] %}
-            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
-                {% tablerow pair in row %}
-                    <b style="color: lightgray">{{ pair[1] }}</b>
-                {% endtablerow %}
-            {% endif %}
-        {% endfor %}
-    </table>
+    {% include ingredientsParam.html ing=page.beans-ing %}
+    {% include servingsParam.html ing=page.beans-ing %}
+    {% include nutritionParam.html facts=page.beans-facts %}
 
     <!-- Mixing -->
     {% if page.mixing %}
@@ -395,60 +109,15 @@ layout: base
       <b><u>Ingredients</u></b>
       &emsp; {{ page.ingredients }}<br><br>
     {% endif %}
-
-    <table>
-      {% for row in site.data[page.ing] %}
-          {% if forloop.first %}
-              <tr>
-              {% for pair in row %}
-                  <th>{{ pair[0] }}</th>
-              {% endfor %}
-              </tr>
-          {% endif %}
-      {% endfor %}
-  
-      {% for row in site.data[page.ing] %}
-          {% if forloop.last %}
-  
-          {% else %}
-              {% tablerow pair in row %}
-                  {{ pair[1] }}
-              {% endtablerow %}
-          {% endif %}
-      {% endfor %}
-  </table>
+    {% include ingredients.html %}
 
     <!-- Facts -->
     {% if page.nutrition-facts %}
       <b><u>Nutrition Facts</u></b>
       &emsp; {{ page.nutrition-facts }}<br><br>
     {% endif %}
-
-    {% if page.ing %}
-      {% assign ser = site.data[page.ing].last %}
-      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
-    {% endif %}
-
-    <table>
-        {% for row in site.data[page.facts] %}
-            {% if forloop.first %}
-                <tr>
-                {% for pair in row %}
-                    <th>{{ pair[0] }}</th>
-                {% endfor %}
-                </tr>
-            {% endif %}
-        {% endfor %}
-
-        {% assign i = 0 %}
-        {% for row in site.data[page.facts] %}
-            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
-                {% tablerow pair in row %}
-                    <b style="color: lightgray">{{ pair[1] }}</b>
-                {% endtablerow %}
-            {% endif %}
-        {% endfor %}
-    </table>
+    {% include servings.html %}
+    {% include nutrition.html %}
 
     <!-- Other -->
     {% if page.other %}
@@ -461,6 +130,8 @@ layout: base
       <b><u>Sources</u></b>
       &emsp; {{ page.sources }}<br><br>
     {% endif %}
+
+    {% include comments.html %}
 
   </div>
 

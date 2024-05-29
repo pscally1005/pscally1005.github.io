@@ -66,12 +66,12 @@ box:
 - These are the amounts that will go in the control batch, and the experimental batches will get an equivalent amount by volume of those ingredients.  As mentioned above, 1 egg is approximately 1/4 cup of the substitutions, meaning 1/3 egg would be about 2 tsp of the egg replacement.  Each batch will however get the same amount of water (except for the beans, which will be discussed below).
 
 subs:
-- <br>1. Butter and Eggs<br>
-- 2. Unsweetened Applesauce<br>
-- 3. Mashed Banana<br>
-- 4. Plain Nonfat Greek Yogurt<br>
-- 5. Sweet Potato Puree<br>
-- 6. Black Bean Puree<br>
+- <br>1. <a rel="" target="" href="#butter">Butter and Eggs</a><br>
+- 2. <a rel="" target="" href="#applesauce">Unsweetened Applesauce</a><br>
+- 3. <a rel="" target="" href="#yogurt">Plain Nonfat Greek Yogurt</a><br>
+- 4. <a rel="" target="" href="#banana">Mashed Banana</a><br>
+- 5. <a rel="" target="" href="#potato">Sweet Potato Puree</a><br>
+- 6. <a rel="" target="" href="#beans">Black Bean Puree</a><br>
 - <br><center><img src="/assets/Misc/Brownies/bowls.jpg" alt="" class="larger-image"></center>
 
 butter:

@@ -1,0 +1,4 @@
+{% if include.ing %}
+    {% assign ser = site.data[include.ing].last %}
+    <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
+{% endif %}

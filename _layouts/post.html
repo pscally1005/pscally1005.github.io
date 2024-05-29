@@ -4,146 +4,21 @@ layout: base
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    {%- if page.image -%}
-      <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
-    {%- endif -%}
-
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified_date -%}
-        ~ 
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
-        </time>
-      {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}</p>
-  </header>
+  {% include top.html %}
 
   <div class="post-content e-content" itemprop="articleBody">
 
+    {% include buttons.html %}
     {{ content }}
-    
-    <!-- Description-->
-    {% if page.Description %}
-      <b><u>Description</u></b><br>
-      &emsp; {{ page.Description }}<br><br>
-    {% endif %}
-
-    <!-- Time -->
-    {% assign prep_minutes = page.Prep | modulo: 60 %}
-    {% assign rest_minutes = page.Rest | modulo: 60 %}
-    {% assign cook_minutes = page.Cook | modulo: 60 %}
-    {% assign totaltime = page.Prep | plus: page.Rest | plus: page.Cook %}
-    {% assign minutes = totaltime | modulo: 60 %}
-
-    {% if totaltime > 0 %}
-      <b><u>Time</u></b><br>
-
-      {% if page.Prep > 0 %}
-        <b>Prep Time:</b> {% if page.Prep >= 60 %}{{ page.Prep | divided_by: 60}} hours{% endif %}{% if prep_minutes > 0 %} {{ prep_minutes }} minutes{% endif %}<br>
-      {% endif %}
-
-      {% if page.Rest > 0 %}
-        <b>Rest Time:</b> {% if page.Rest >= 60 %}{{ page.Rest | divided_by: 60}} hours{% endif %}{% if rest_minutes > 0 %} {{ rest_minutes }} minutes{% endif %}<br>
-      {% endif %}
-
-      {% if page.Cook > 0 %}
-        <b>Cook Time:</b> {% if page.Cook >= 60 %}{{ page.Cook | divided_by: 60}} hours{% endif %}{% if cook_minutes > 0 %} {{ cook_minutes }} minutes{% endif %}<br>
-      {% endif %}
-
-      <b>Total Time:</b> {% if totaltime >= 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
-      <br>
-    {% endif %}
-
-    <!-- Ingredients -->
-    <table>
-      {% for row in site.data[page.ing] %}
-          {% if forloop.first %}
-              <tr>
-              {% for pair in row %}
-                  <th>{{ pair[0] }}</th>
-              {% endfor %}
-              </tr>
-          {% endif %}
-      {% endfor %}
-  
-      {% for row in site.data[page.ing] %}
-          {% if forloop.last %}
-  
-          {% else %}
-              {% tablerow pair in row %}
-                  {{ pair[1] }}
-              {% endtablerow %}
-          {% endif %}
-      {% endfor %}
-  </table>
-
-    <!-- Instructions -->
-    {% if page.Instructions %}
-      <b><u>Instructions</u></b><br>
-      {{ page.Instructions }}<br><br>
-    {% endif %}
-
-    <!-- Servings -->
-    {% if page.ing %}
-      {% assign ser = site.data[page.ing].last %}
-      <b><u>{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b>
-    {% endif %}
-
-    <!-- Nutrition Facts -->
-    <table>
-        {% for row in site.data[page.facts] %}
-            {% if forloop.first %}
-                <tr>
-                {% for pair in row %}
-                    <th>{{ pair[0] }}</th>
-                {% endfor %}
-                </tr>
-            {% endif %}
-        {% endfor %}
-
-        {% assign i = 0 %}
-        {% for row in site.data[page.facts] %}
-            {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
-                {% tablerow pair in row %}
-                    <b style="color: lightgray">{{ pair[1] }}</b>
-                {% endtablerow %}
-            {% else %}
-                <!-- {% tablerow pair in row %}
-                    <i style="color: gray">{{ pair[1] }}</i>
-                {% endtablerow %} -->
-            {% endif %}
-        {% endfor %}
-    </table>
-
-    <!-- Source -->
-    {% if page.Source1 %}
-      <b><u>Sources of Inspiration</u></b><br>
-      <a href={{- page.Source1 -}}>{{ page.Source1 }}</a><br>
-      {% if page.Source2 %}
-        <a href={{- page.Source2 -}}>{{ page.Source2 }}</a><br><br>
-      {% else %}
-        <br>
-      {% endif %}
-    {% endif %}
-
-    <!-- Whisk Link -->
-    {% if page.whisk %}
-      <b><u>Alternative Recipe Link (Whisk / Samsung Food)</u></b><br>
-      <a href={{- page.whisk -}}>{{ page.whisk }}</a><br>
-    {% endif %}
+    {% include description.html %}
+    {% include time.html %}
+    {% include ingredients.html %}
+    {% include instructions.html %}
+    {% include servings.html %}
+    {% include nutrition.html %}
+    {% include source.html %}
+    {% include whisk.html %}
+    {% include comments.html %}
 
   </div>
 

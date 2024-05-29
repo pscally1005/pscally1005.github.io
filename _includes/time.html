@@ -1,0 +1,24 @@
+{% assign prep_minutes = page.Prep | modulo: 60 %}
+{% assign rest_minutes = page.Rest | modulo: 60 %}
+{% assign cook_minutes = page.Cook | modulo: 60 %}
+{% assign totaltime = page.Prep | plus: page.Rest | plus: page.Cook %}
+{% assign minutes = totaltime | modulo: 60 %}
+
+{% if totaltime > 0 %}
+    <b><u>Time</u></b><br>
+
+    {% if page.Prep > 0 %}
+    <b>Prep Time:</b> {% if page.Prep >= 60 %}{{ page.Prep | divided_by: 60}} hours{% endif %}{% if prep_minutes > 0 %} {{ prep_minutes }} minutes{% endif %}<br>
+    {% endif %}
+
+    {% if page.Rest > 0 %}
+    <b>Rest Time:</b> {% if page.Rest >= 60 %}{{ page.Rest | divided_by: 60}} hours{% endif %}{% if rest_minutes > 0 %} {{ rest_minutes }} minutes{% endif %}<br>
+    {% endif %}
+
+    {% if page.Cook > 0 %}
+    <b>Cook Time:</b> {% if page.Cook >= 60 %}{{ page.Cook | divided_by: 60}} hours{% endif %}{% if cook_minutes > 0 %} {{ cook_minutes }} minutes{% endif %}<br>
+    {% endif %}
+
+    <b>Total Time:</b> {% if totaltime >= 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
+    <br>
+{% endif %}

@@ -41,7 +41,7 @@ Instructions:
 
 - Roast the meatballs in your 400F oven for about 14-16 minutes, or until cooked through and reach a temperature of at least 165F. Set aside<br><br>
 
-- Meanwhile, warm up (or cook) your sauce in a medium pot over medium low heat<br.<br>
+- Meanwhile, warm up (or cook) your sauce in a medium pot over medium low heat<br><br>
 
 - As the sauce simmers, use a spiralizer to cut the zucchini into zoodles, and add to a large pan with oil over medium heat. Season, cover, and cook until desired texture is reached<br><br>
 

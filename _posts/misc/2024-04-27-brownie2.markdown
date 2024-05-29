@@ -42,11 +42,11 @@ box:
 - These are the amounts that will go in the control batch, and the experimental batch will get an equivalent amount by volume of sweet potato instead of oil.
 
 subs:
-- <br>1. Canola Oil<br>
-- 2. Sweet Potato Puree
+- <br>1. <a rel="" target="" href="#oil">Canola Oil</a><br>
+- 2. <a rel="" target="" href="#potato">Sweet Potato Puree</a><br>
 
 oil:
-- <br><b>1. Canola Oil</b><br>
+- <b>1. Canola Oil</b><br>
 - <br><center><img src="/assets/Misc/Brownies2/bowl-oil.jpg" alt="" class="larger-image"></center><br>
 - This is the standard experiment.  In a small bowl goes the brownie mix, water, egg, and oil.  The batter was stirred together, and poured into a parchment lined and greased 8" pan.  This will be the basis of our experiment, as it will provide a frame of reference for the other trial.<br><br>
 - <center><img src="/assets/Misc/Brownies2/raw-oil.jpg" alt="" class="larger-image"></center>
@@ -54,7 +54,7 @@ oil-ing: dcoil-ing
 oil-facts: dcoil-facts
 
 sweet-potato:
-- <br><b>2. Sweet Potato Puree</b><br>
+- <b>2. Sweet Potato Puree</b><br>
 - <br><center><img src="/assets/Misc/Brownies2/sw-pot.jpg" alt="" class="larger-image"></center><br>
 - Earlier, I made a small batch of <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a> in preparation for this.  I just poked 2 potatoes with a fork, wrapped it in foil, and air fried it at 400F for 75 minutes until soft.  I cut them in half, let them steam out and totaly cool, and blended the insides it into a smooth puree.  Canned pumpkin puree would also work, as well as <a href="/recipes/roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>.<br><br>
 
