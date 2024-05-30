@@ -37,30 +37,30 @@ overview:
 - <center><img src="/assets/Misc/Water Absorption/8-bowls.jpg" alt="" class="larger-image"></center><br>
 
 list:
-- <br>1. White Flour<br>
-- a. Not Heat Treated<br>
-- b. Heat Treated<br>
-- 2. Whole Wheat Flour<br>
-- a. Not Heat Treated<br>
-- b. Heat Treated<br>
-- 3. Vital Wheat Gluten<br>
-- a. Not Heat Treated<br>
-- b. Heat Treated<br>
-- 4. Oatmeal<br>
-- a. Oat Flour<br>
-- b. Quick Oats<br>
-- 5. Cornstarch<br>
-- 6. Cocoa Powder<br>
-- 7. Protein Powder<br>
-- a. Whey Protein<br>
-- b. Casein Protein<br>
-- 8. Coconut Flour<br>
-- 9. Chia Seeds<br>
-- 10. Peanut Flour<br>
-# - 11. Flaxmeal<br>
-# - 12. Almonds<br>
-# - a. Almond Flour<br>
-# - b. Almond Meal<br>
+- <br>1. <a rel="" target="" href="#ap-flour">White Flour</a><br>
+- <b></b>&emsp; a. <a rel="" target="" href="#ap-flour-not-heat-treated">Not Heat Treated</a><br>
+- <b></b>&emsp; b. <a rel="" target="" href="#ap-flour-heat-treated">Heat Treated</a><br>
+- 2. <a rel="" target="" href="#ww-flour">Whole Wheat Flour</a><br>
+- <b></b>&emsp; a. <a rel="" target="" href="#ww-flour-not-heat-treated">Not Heat Treated</a><br>
+- <b></b>&emsp; b. <a rel="" target="" href="#ww-flour-heat-treated">Heat Treated</a><br>
+- 3. <a rel="" target="" href="#vwg">Vital Wheat Gluten</a><br>
+- <b></b>&emsp; a. <a rel="" target="" href="#vwg-not-heat-treated">Not Heat Treated</a><br>
+- <b></b>&emsp; b. <a rel="" target="" href="#vwg-heat-treated">Heat Treated</a><br>
+- 3. <a rel="" target="" href="#oats">Oatmeal</a><br>
+- <b></b>&emsp; a. <a rel="" target="" href="#oat-flour">Oat Flour</a><br>
+- <b></b>&emsp; b. <a rel="" target="" href="#quick-oats">Quick Oats</a><br>
+- 5. <a rel="" target="" href="#cornstarch">Cornstarch</a><br>
+- 6. <a rel="" target="" href="#cocoa">Cocoa Powder</a><br>
+- 7. <a rel="" target="" href="#protein">Protein Powder</a><br>
+- <b></b>&emsp; a. <a rel="" target="" href="#whey">Whey Protien Powder</a><br>
+- <b></b>&emsp; b. <a rel="" target="" href="#casein">Casein Protein Powder</a><br>
+- 8. <a rel="" target="" href="#coconut">Coconut Flour</a><br>
+- 9. <a rel="" target="" href="#chia">Chia Seeds</a><br>
+- 10. <a rel="" target="" href="#peanut">Peanut Flour</a><br>
+# - 11. <a rel="" target="" href="#flax">Flaxmeal</a><br>
+# - 12. <a rel="" target="" href="#almond">Almonds</a><br>
+# - a. <a rel="" target="" href="#almond-flour">Almond Flour</a><br>
+# - b. <a rel="" target="" href="#almond-meal">Almond Meal</a><br>
 
 note:
 - <br>As you may or may not know, wheat based flours cannot be consumed raw due to the risk of E. Coli.  Heat treating the flour typically involves cooking it in the oven, microwave, or on the stove until it reaches a temperature of 160F, where all the bacteria would be killed off.  The flour then can be enjoyed in a raw dessert, such as edible cookie dough.<br><br>
@@ -70,7 +70,9 @@ note:
 testing:
 - <center><img src="/assets/Misc/Water Absorption/6-balls.jpg" alt="" class="larger-image"></center><br>
 
-- <b>1a. White Flour (Not Heat Treated)</b><br>
+- <div id="ap-flour"></div>
+- <div id="ap-flour-not-heat-treated"></div>
+- <b><font size="+2">1a. White Flour (Not Heat Treated)</font></b><br>
 - White flour, or all purpose flour, is the original flour.  It's probably the one you're most likely to have in your kitchen.  I avoid using it in recipes, as its highly processed, bleached, and low in nutrients.<br><br>
 
 - It serves as a good basis though if you'd like to swap white flour for a more nutritious option.  Here, I'm using a general store brand bag of white flour.<br><br>
@@ -79,14 +81,17 @@ testing:
 
 - Right away, I've realized that the wheat based flours will be the most difficult and least accurate.  They stick more, and their doughs will more closely represent bread dough than cookie dough.  For the standard white flour though, I found that <b>17 g</b> was enough to bind <b>30 g</b> all purpose flour.<br><br>
 
-- <b>1b. White Flour (Heat Treated)</b><br>
+- <div id="ap-flour-heat-treated"></div>
+- <b><font size="+2">1b. White Flour (Heat Treated)</font></b><br>
 - I wanted to see if heat treating the flour would lead to any difference in the amount of water absorbed by the flour.  As it's parially baked, some of the water would have cooked off, leaving a dryer flour able to absorb a little more water.<br><br>
 
 - <center><img src="/assets/Misc/Water Absorption/ap-treated.jpg" alt="" class="larger-image"></center><br>
 
 - Turns out, <b>30 g</b> of heat treated white flour was able to absorb about <b>20 g</b> of water, which is a 16.2% increase.  It's hard to tell if this is a significant difference, or just due to user error.  Based on my hypothesis above though, it would seem that some of the water cooked out of the flour, allowing the heat treated version to take in more.<br><br>
 
-- <b>2a. Whole Wheat Flour (Not Heat Treated)</b><br>
+- <div id="ww-flour"></div>
+- <div id="ww-flour-not-heat-treated"></div>
+- <b><font size="+2">2a. Whole Wheat Flour (Not Heat Treated)</font></b><br>
 - Whole wheat flour is a healthier option as compared to white flour.  It is flour of the entire wheat kernel, leading to more protein, fiber, and micronutrients.<br><br>
 
 - In making loaves of bread, I used to use about 320 g of water for 500 g all purpose flour.  Now, when I make whole wheat bread, I use about 360 g of water for 500 g whole wheat flour.  Therefore, I would assume that the whole wheat will take in more water.  The brand of flour I'm using is King Arthur.<br><br>
@@ -95,14 +100,17 @@ testing:
 
 - It took <b>22 g</b> of water for <b>30 g</b> of whole wheat flour, which is a 25.6% increase over the standard all purpose flour experiment.  This would suggest that when substituting white for whole wheat flour,  you should either use a little more liquid, or start with less flour and go based on the feel of the dough to see if you need to add more.<br><br>
 
-- <b>2b. Whole Wheat Flour (Heat Treated)</b><br>
+- <div id="ww-flour-heat-treated"></div>
+- <b><font size="+2">2b. Whole Wheat Flour (Heat Treated)</font></b><br>
 - Again, just like with white flour, whole wheat flour cannot be consumed raw, due to risk of E. Coli.  I wanted to again test if heat treating will make a difference from the trial above.<br><br>
 
 - <center><img src="/assets/Misc/Water Absorption/ww-treated.jpg" alt="" class="larger-image"></center><br>
 
 - As expected, the heat treated whole wheat flour absorbed a little more liquid compared to the regular whole wheat flour - <b>23 g</b> of water for the <b>30 g</b> of flour, as compared to 22 g.  While this is slightly more, my guess is that is not statistically signficant, and would be chalked up to any user bias or error.  Heat treated whole wheat flour may absorb slightly more water, but a larger sample would be needed to know for sure.<br><br>
 
-- <b>3a. Vital Wheat Gluten (Not Heat Treated)</b><br>
+- <div id="vwg"></div>
+- <div id="vwg-not-heat-treated"></div>
+- <b><font size="+2">3a. Vital Wheat Gluten (Not Heat Treated)</font></b><br>
 - Vital Wheat Gluten is the anti-Celiac flour; it's entirely gluten.  It's low in carbs and high in protein (remember gluten is a protein).  I typically add a little bit into my whole wheat bread loves, as whole wheat flour contains less gluten than white flour, so it has a harder time rising and can become dense without a little extra gluten.<br><br>
 
 - I'm predicting that not only will this not need very much water, but that it won't really come together at all, and would be very stringy and tough.  Gluten is what gives bread structure, but too much would be gummy and gross (my prediction, let's see how it turns out).<br><br>
@@ -111,14 +119,17 @@ testing:
 
 - Surprisingly, the VWG was able to hold together into a dough without being too difficult to combine.  The <b>30 g</b> of vital wheat gluten needed about <b>25 g</b> of water, which is a little more than even the whole wheat flour.  Note that biting into this is like chewing on rubber; I would not recommend a 1:1 swap of any flour to vital wheat gluten pretty much anywhere.<br><br>
 
-- <b>3b. Vital Wheat Gluten (Heat Treated)</b><br>
+- <div id="vwg-heat-treated"></div>
+- <b><font size="+2">3b. Vital Wheat Gluten (Heat Treated)</font></b><br>
 - This is the final flour that cannot be consumed raw.  Heat treating can also be done by microwaving in 30 second intervals.<br><br>
 
 - <center><img src="/assets/Misc/Water Absorption/vwg-treated.jpg" alt="" class="larger-image"></center><br>
 
 - Interestingly, I noticed that vital wheat gluten seemed to brown quite a bit more in the oven as compared to the white flour or whole wheat.  It also took  more water than the original VWG as expected - about <b>31 g</b> for <b>30 g</b> flour.  This was the first one to have more water than flour now.<br><br>
 
-- <b>4a. Oat Flour</b><br>
+- <div id="oats"></div>
+- <div id="oat-flour"></div>
+- <b><font size="+2">4a. Oat Flour</font></b><br>
 - Oat flour is a very common healthy flour substitute that myself and others tend to use.  It's cheap (if you make it yourself by grinding up quick or rolled oats), high in fiber, can be eaten raw, and gluten free.  My oat flour here is just store brand quick oats that I blended myself in my food processor, which may be not as fine as storebought oat flour.<br><br>
 
 - Oats also tend to soak up a lot of moisture, especially if you let the dough chill in the fridge for a little bit after mixing it.  Meaning, you may want to keep the dough slightly sticky, as it'll absorb more water while it chills.  My assumption here is that it will need a bit more water than the whole wheat flour though.<br><br>
@@ -127,14 +138,16 @@ testing:
 
 - Turns out, <b>30 g</b> of oat flour needed exactly as much water as whole wheat flour, <b>22 g</b>.  I left the dough slightly sticky though, as more water will be absorbed by the oats while it chills.  The flour mixed well with the water to form the dough, and it instantly smelled like bland oats as soon as you started adding the water.<br><br>
 
-- <b>4b. Quick Oats</b><br>
+- <div id="quick-oats"></div>
+- <b><font size="+2">4b. Quick Oats</font></b><br>
 - Since oat flour is just ground up oats, I wanted to see if using whole quick oats would yield different results.  I don't have any rolled oats on hand, but I would assume that these would yield similar results.<br><br>
 
 - <center><img src="/assets/Misc/Water Absorption/quick-oats.jpg" alt="" class="larger-image"></center><br>
 
 - The whole quick oats ended up taking in less water than the oat flour, only <b>20 g</b> for the <b>30 g</b> of quick oats.  My guess here is that with less surface area, since the oats are not ground up, the oatmeal wasn't able to bind to as much water.  Like with the oat flour above, it was left slightly sticky to give room for delayed water absorption.<br><br>
 
-- <b>5. Cornstarch</b><br>
+- <div id="cornstarch"></div>
+- <b><font size="+2">5. Cornstarch</font></b><br>
 - Cornstarch is almost never used as the sole flour in a recipe (except in sequilhos).  Rather, I typically see a little bit used when oat flour is the main flour in a recipe, in order to help with the texture and replicate the feeling of a flour with gluten, while still being gluten free.<br><br>
 
 - Typically, cornstarch is used more in cooking than baking.  It, along with flour, are typically used to thicken a sauce in a dish.  A common conversion is 1 tbsp cornstarch for every 2 tbsp all purpose flour, so it would be interesting to see if that holds up here.<br><br>
@@ -147,7 +160,8 @@ testing:
 
 - Turns out that I accidentally created Oobleck lmao.  This was fun to play with, but not to eat.  Into the garbage it went.<br><br>
 
-- <b>6. Cocoa Powder</b><br>
+- <div id="cocoa"></div>
+- <b><font size="+2">6. Cocoa Powder</font></b><br>
 - While not a flour, cocoa powder is a powdered solid ingredient that can certainly act as a flour in small amounts.  Look at brownies; about the same weight of flour and cocoa powder can be used in a recipe.  Knowing the conversion ratio here should be helpful in swapping out all purpose or oat flour in place of cocoa powder for a chocolate flavor.<br><br>
 
 - I won't be testing cacao or carob powders here, but I would assume that these would yield similar results.  Also, I only have Dutch process cocoa on hand, but I would assume that natural cocoa would also be similar.<br><br>
@@ -156,14 +170,17 @@ testing:
 
 - I knew that cocoa needed a bit of water and stirring to get it fully hydrated, but I didn't expect it to be this much.  <b>40 g</b> of water for <b>30 g</b> of cocoa powder is the highest amount of water so far.  At first, the water doesn't look like it's doing too much other than making the color a little brighter.  But as you add more water and stir, you all of a sudden get a dark brownie colored ball with an intense chocolate smell.<br><br>
 
-- <b>7a. Whey Protein Powder</b><br>
+- <div id="protein"></div>
+- <div id="whey"></div>
+- <b><font size="+2">7a. Whey Protein Powder</font></b><br>
 - Whey protein is the more common type of protein powder as compared to casein.  It's known for not binding to water very well, which is why it works so well in a protein shake.  It's basically the opposite as casein in terms of using as a flour.  A common question in many protein powder recipes is if you can substitute casein for whey, and the answer is almost always a no, which I hope to show below.<br><br>
 
 - <center><img src="/assets/Misc/Water Absorption/whey.jpg" alt="" class="larger-image"></center><br>
 
 - The <b>30 g</b> of whey protein only needed <b>14 g</b> of water, and even then it was still a bit sticky.  This is by far the lowest on the list so far, and I'm predicting that it will stay that way.  Add too much water and whey can easily mix in cohesively to the liquid, making very poor as a solid flour replacement, but great for dissolving into something.<br><br>
 
-- <b>7b. Casein Protein Powder</b><br>
+- <div id="casein"></div>
+- <b><font size="+2">7b. Casein Protein Powder</font></b><br>
 - Casein protein is the lesser known milk protein, with the other being whey.  It acts more like a flour, holding on to water very well, which is why it would be a good ingredient in a cookie dough, and a bad ingredient in a protein shake (it would clump up).  Casein absorbs a lot of liquid; my estimate is that it will fall somewhere between oat flour and coconut flour.<br><br>
 
 - <center><img src="/assets/Misc/Water Absorption/casein.jpg" alt="" class="larger-image"></center><br>
@@ -172,7 +189,8 @@ testing:
 
 - The next time you try to replace casein with whey (or vice versa), keep this in mind.  Use casein to thicken and make something more solid, and use whey to add more protein without changing the consistency too much.<br><br>
 
-- <b>8. Coconut Flour</b><br>
+- <div id="coconut"></div>
+- <b><font size="+2">8. Coconut Flour</font></b><br>
 - Coconut flour is another gluten free flour alternative.  It's made from dried and defatted coconuts, similar to how peanut flour (PB2 or PBFit) is made. It's low in fat and carbs and high in fiber, as well as having a slightly sweet taste.<br><br>
 
 - Coconut flour is also widely known for absorbing a ton of liquid.  I've heard estimates that replacing that using 1/4 cup of coconut flour is equivalent to 1 cup of all purpose flour, meaning it would absorb 4 times as much liquid.<br><br>
@@ -181,7 +199,8 @@ testing:
 
 - Coconut flour is insane; I don't know how it could hold on to water so well.  It took <b>120 g</b>. of water for just <b>30 g</b> of coconut flour.  That's 4 times the amount of water by weight than coconut flour.  As such, the dough ball was easily the biggest that was tested.  Recall that the AP flour needed only 17 g of water, which is 7 times less than the coconut flour.  I suppose that using 1/4 of coconut flour for every cup of standard flour isn't as ridiculous as it sounds.<br><br>
 
-- <b>9. Chia Seeds</b><br>
+- <div id="chia"></div>
+- <b><font size="+2">9. Chia Seeds</font></b><br>
 - Similar to flax seeds, chia seeds are also very high in Omega-3s and fiber.  There is a strong difference in texture though; chia seeds are normally consumed whole, whereas flax seeds tend to be ground into a flour.  You could blend the chia seeds, but here I'll be using whole chia seeds.<br><br>
 
 - It should be noted that chia seeds swell up with water, which is what thickens overnight oats.  This can take a little bit though, so while the dough will at first look too wet, you'll need to undershoot the water a bit to end up at the consistency you desire.  Oat flour is similar in this regard, but chia seeds are a much more extreme version of the same concept.<br><br>
@@ -194,7 +213,8 @@ testing:
 
 - This little ball also has 10 g of fiber.  The majority of American's aren't consuming enough fiber; the RDA for men and women respectively are 38 g and 25 g, but the average American adult only consumes 10-15 g of fiber daily.  I'm not saying eat chia dough balls, but maybe try adding chia seeds into your diet.<br><br>
 
-- <b>10. Peanut Flour</b><br>
+- <div id="peannut"></div>
+- <b><font size="+2">10. Peanut Flour</font></b><br>
 - Peanut flour, similar to coconut flour, is made by defatting and drying peanuts, and grinding them into a flour, leading to a product that's fairly low in carbs and fat, but high in protein (basically a vegan protein powder).<br><br>
 
 - It's typically known by the brand names PB2 or PBFit, which are versions of peanut flour with a little bit of salt and sugar added to it.  The brand I'm testing today is the Walmart GV Powdered Peanut Butter.  My assumption is that it will absorb quite a bit of water, but not nearly as much as the coconut flour.<br><br>
@@ -203,23 +223,27 @@ testing:
 
 - This one surprised me a bit.  For some reason, I expected peanut flour to be able to hold on to a lot of water, similar to the cocoa powder, but it was a bit less.  The <b>30 g</b> of peanut flour only needed about <b>29 g</b> of water to make it into a dough<br><br>
 
-# - <b>11. Flaxmeal</b><br>
+# - <div id="flax"></div>
+# - <b><font size="+2">11. Flaxmeal</font></b><br>
 # - Flaxmeal, also known as ground flaxseed or flaxseed meal, is made by grinding together whole flaxseeds until a flour is formed.  It's high very high in Omega-3 fatty acids as well as fiber, while being low in carbs and gluten free.<br>
 
 # - Typically not used on its own, flax is usually added as an additional flour in small amounts in keto or GF recipes; however, I wanted to isolate it here and test how it would be as the sole flour.<br><br>
 
 # - <center><img src="/assets/Misc/Water Absorption/flax.jpg" alt="" class="larger-image"></center><br>
 
-# - <b><i>TODO - BUY FLAXMEAL & TEST</i></b><br><br>
+# - <b><i>TODO - BUY FLAXMEAL & TEST</i></font></b><br><br>
 
-# - <b>12a. Almond Flour</b><br>
+# - <div id="almond"></div>
+# - <div id="almond-flour"></div>
+# - <b><font size="+2">12a. Almond Flour</b><br>
 # - Almond flour is one of the most common grain free keto flours I see used in recipes.  It's highly nutritious, but I tend not to use it as it's faily expensive.  Almond flour is made by blending blanched almonds (almonds with the skin removed) in a food processor until very fine.  I'm assuming that almond flour won't be able to absorb quite as much as peanut flour, but about as much as the oats.<br><br>
 
 # -  <center><img src="/assets/Misc/Water Absorption/almond-flour.jpg" alt="" class="larger-image"></center><br>
 
 # - <b><i>TODO - BUY ALMOND FLOUR & TEST</i></b><br><br>
 
-# - <b>12b. Almond Meal</b><br>
+# - <div id="almond-meal"></div>
+# - <b><font size="+2">12b. Almond Meal</font></b><br>
 # - The only difference between almond meal and almond flour is that almond meal includes the almond skins; it doesn't use blanched almonds.  Almond meal can be purchased in a bag, but it is very easy and often cheaper to make your own almond meal by just blending whole almonds.<br><br>
 
 # - Almond meal is coarser due to the skins, and is more like finely chopped nuts than a flour.  I'm thinking this test should yield similar results to oat flour vs quick oats; comparing a more finely ground flour to a coarser solid.<br><br>

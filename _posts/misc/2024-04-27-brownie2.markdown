@@ -46,7 +46,8 @@ subs:
 - 2. <a rel="" target="" href="#potato">Sweet Potato Puree</a><br>
 
 oil:
-- <b>1. Canola Oil</b><br>
+- <div id="oil"></div>
+- <b><font size="+2">1. Canola Oil</font></b><br>
 - <br><center><img src="/assets/Misc/Brownies2/bowl-oil.jpg" alt="" class="larger-image"></center><br>
 - This is the standard experiment.  In a small bowl goes the brownie mix, water, egg, and oil.  The batter was stirred together, and poured into a parchment lined and greased 8" pan.  This will be the basis of our experiment, as it will provide a frame of reference for the other trial.<br><br>
 - <center><img src="/assets/Misc/Brownies2/raw-oil.jpg" alt="" class="larger-image"></center>
@@ -54,7 +55,8 @@ oil-ing: dcoil-ing
 oil-facts: dcoil-facts
 
 sweet-potato:
-- <b>2. Sweet Potato Puree</b><br>
+- <div id="potato"></div>
+- <b><font size="+2">2. Sweet Potato Puree</font></b><br>
 - <br><center><img src="/assets/Misc/Brownies2/sw-pot.jpg" alt="" class="larger-image"></center><br>
 - Earlier, I made a small batch of <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a> in preparation for this.  I just poked 2 potatoes with a fork, wrapped it in foil, and air fried it at 400F for 75 minutes until soft.  I cut them in half, let them steam out and totaly cool, and blended the insides it into a smooth puree.  Canned pumpkin puree would also work, as well as <a href="/recipes/roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>.<br><br>
 
@@ -82,10 +84,10 @@ taste:
 
 - <center><img src="/assets/Misc/Brownies2/cover.jpg" alt="" class="larger-image"></center><br><br>
 
-- <b>1. Canola Oil</b>
+- <b><font size="+2">1. Canola Oil</font></b>
 - <br>The standard brownies were great.  Nice and fudgy interior, lightly crispy edges, great taste, and a good brownie skin on top.  It was a bit too sweet for my taste, but still very good.  Not the best brownie in the world, but solid for a box brownie.  <b>7.5/10</b><br><br>
 
-- <b>2. Sweet Potato</b>
+- <b><font size="+2">2. Sweet Potato Puree</font></b>
 - <br>I'm sad to say that sweet potatoes won't be winning any awards here today.  The texture was a bit cakey and spongy, and the taste was bland.  In the keto brownies, you could mildly taste the sweet potato, and it was sweeter as a result.  In these however, it almost more like eating a Fiber One brownie than a real brownie, but still with all the sugar and none of the fiber.  <b>3.5/10</b>
 
 conclusion:

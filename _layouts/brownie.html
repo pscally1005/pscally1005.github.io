@@ -13,27 +13,26 @@ layout: base
     
     <!-- Overview -->
     {% if page.overview %}
-      <b><u>Experimental Overview</u></b>
+      <b><u><font size="+2">Experimental Overview</font></u></b>
       &emsp; {{ page.overview }}<br><br>
     {% endif %}
 
     <!-- Box -->
     {% if page.box %}
-      <b><u>The Brownie Box</u></b>
+      <b><u><font size="+2">The Brownie Box</font></u></b>
       &emsp; {{ page.box }}<br><br>
     {% endif %}
 
     <!-- Control and Experiments -->
     {% if page.subs %}
-      <b><u>Control and Experiments</u></b>
+      <b><u><font size="+2">Control & Experiments</font></u></b>
       &emsp; {{ page.subs }}<br><br>
     {% endif %}
 
     <!-- Butter -->
     {% if page.butter %}
-        <b><u>Ingredients</u></b><br>
+        <b><u><font size="+2">Ingredients</font></u></b>
     {% endif %}
-    <div id="butter"></div>
     {% if page.butter %}
       &emsp; {{ page.butter }}<br><br>
     {% endif %}
@@ -42,7 +41,6 @@ layout: base
     {% include nutritionParam.html facts=page.butter-facts %}
 
     <!-- Applesauce -->
-    <div id="applesauce"></div>
     {% if page.applesauce %}
       &emsp; {{ page.applesauce }}<br><br>
     {% endif %}
@@ -51,7 +49,6 @@ layout: base
     {% include nutritionParam.html facts=page.applesauce-facts %}
 
     <!-- Yogurt -->
-    <div id="yogurt"></div>
     {% if page.yogurt %}
       &emsp; {{ page.yogurt }}<br><br>
     {% endif %}
@@ -60,7 +57,6 @@ layout: base
     {% include nutritionParam.html facts=page.yogurt-facts %}
 
     <!-- Banana -->
-    <div id="banana"></div>
     {% if page.banana %}
       &emsp; {{ page.banana }}<br><br>
     {% endif %}
@@ -69,7 +65,6 @@ layout: base
     {% include nutritionParam.html facts=page.banana-facts %}
 
     <!-- Sweet Potato -->
-    <div id="potato"></div>
     {% if page.sweet-potato %}
       &emsp; {{ page.sweet-potato }}<br><br>
     {% endif %}
@@ -78,7 +73,6 @@ layout: base
     {% include nutritionParam.html facts=page.sweet-potato-facts %}
 
     <!-- Beans -->
-    <div id="beans"></div>
     {% if page.beans %}
       &emsp; {{ page.beans }}<br><br>
     {% endif %}
@@ -88,32 +82,32 @@ layout: base
 
     <!-- Mixing -->
     {% if page.mixing %}
-      <b><u>Mixing & Baking</u></b>
+      <b><u><font size="+2">Mixing & Baking</font></u></b>
       &emsp; {{ page.mixing }}<br><br>
     {% endif %}
 
     <!-- Taste -->
     {% if page.taste %}
-      <b><u>Taste Test</u></b>
+      <b><u><font size="+2">Taste Test</font></u></b>
       &emsp; {{ page.taste }}<br><br>
     {% endif %}
 
     <!-- Conclusion -->
     {% if page.conclusion %}
-      <b><u>Conclusion</u></b>
+      <b><u><font size="+2">Conclusion</font></u></b>
       &emsp; {{ page.conclusion }}<br><br>
     {% endif %}
 
     <!-- Ingredients -->
     {% if page.ingredients %}
-      <b><u>Ingredients</u></b>
+      <b><u><font size="+2">Ingredients</font></u></b>
       &emsp; {{ page.ingredients }}<br><br>
     {% endif %}
     {% include ingredients.html %}
 
     <!-- Facts -->
     {% if page.nutrition-facts %}
-      <b><u>Nutrition Facts</u></b>
+      <b><u><font size="+2">Nutrition Facts</font></u></b>
       &emsp; {{ page.nutrition-facts }}<br><br>
     {% endif %}
     {% include servings.html %}
@@ -121,13 +115,13 @@ layout: base
 
     <!-- Other -->
     {% if page.other %}
-      <b><u>Other Substitutions</u></b>
+      <b><u><font size="+2">Other Substitutions</font></u></b>
       &emsp; {{ page.other }}<br><br>
     {% endif %}
 
     <!-- Sources -->
     {% if page.sources %}
-      <b><u>Sources</u></b>
+      <b><u><font size="+2">Sources</font></u></b>
       &emsp; {{ page.sources }}<br><br>
     {% endif %}
 

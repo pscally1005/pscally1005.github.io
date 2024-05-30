@@ -1,21 +1,49 @@
 <table>
-    {% for row in site.data[page.ing] %}
-        {% if forloop.first %}
-            <tr>
-            {% for pair in row %}
-                <th>{{ pair[0] }}</th>
-            {% endfor %}
-            </tr>
-        {% endif %}
-    {% endfor %}
+    {% include ingredientsHeader.html %}
+
+    {% if !page.section1 %}
+        <i><font size="+2">{{ page.section1 }}</font></i>
+    {% endif %}
 
     {% for row in site.data[page.ing] %}
         {% if forloop.last %}
-
+            
         {% else %}
-            {% tablerow pair in row %}
-                {{ pair[1] }}
-            {% endtablerow %}
+            <tr>
+                {% for pair in row %}
+                    {% if forloop.first %}
+
+                        {% if pair[1] == page.start2 %}
+                            </table>
+                            {% if !page.section2 %}
+                            <i><font size="+2">{{ page.section2 }}</font></i>
+                            {% endif %}
+                            <table>
+                            {% include ingredientsHeader.html %}
+                        {% endif %}
+
+                        {% if pair[1] == page.start3 %}
+                            </table>
+                            {% if !page.section3 %}
+                            <i><font size="+2">{{ page.section3 }}</font></i>
+                            {% endif %}
+                            <table>
+                            {% include ingredientsHeader.html %}      
+                        {% endif %}
+
+                        {% if pair[1] == page.start4 %}
+                            </table>
+                            {% if !page.section4 %}
+                            <i><font size="+2">{{ page.section4 }}</font></i>
+                            {% endif %}
+                            <table>
+                            {% include ingredientsHeader.html %}              
+                        {% endif %}
+
+                    {% endif %}
+                    <td>{{ pair[1] }}</td>
+                {% endfor %}
+            </tr>
         {% endif %}
     {% endfor %}
 </table>

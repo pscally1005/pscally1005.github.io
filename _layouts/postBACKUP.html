@@ -12,18 +12,7 @@ layout: base
     {{ content }}
     {% include description.html %}
     {% include time.html %}
-    
-    {%
-      include ingredients.html
-      section1=page.section1
-      start2=page.start2
-      section2=page.section2
-      start3=page.start3
-      section3=page.section3
-      start4=page.start4
-      section4=page.section4
-    %}
-
+    {% include ingredients.html %}
     {% include instructions.html %}
     {% include servings.html %}
     {% include nutrition.html %}

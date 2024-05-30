@@ -13,26 +13,25 @@ layout: base
     
     <!-- Overview -->
     {% if page.overview %}
-      <b><u>Experimental Overview</u></b>
+      <b><u><font size="+2">Experimental Overview</font></u></b>
       &emsp; {{ page.overview }}<br><br>
     {% endif %}
 
     <!-- Box -->
     {% if page.box %}
-      <b><u>The Brownie Box</u></b>
+      <b><u><font size="+2">The Brownie Box</font></u></b>
       &emsp; {{ page.box }}<br><br>
     {% endif %}
 
     <!-- Control and Experiments -->
     {% if page.subs %}
-      <b><u>Control and Experiment</u></b>
+      <b><u><font size="+2">Control & Experiment</font></u></b>
       &emsp; {{ page.subs }}<br>
     {% endif %}
 
     <!-- Oil -->
-    <div id="oil"></div>
     {% if page.oil %}
-      <b><u>Ingredients</u></b><br>
+      <b><u><font size="+2">Ingredients</font></u></b><br>
       {{ page.oil }}<br><br>
     {% endif %}
     {% include ingredientsParam.html ing=page.oil-ing %}
@@ -40,7 +39,6 @@ layout: base
     {% include nutritionParam.html facts=page.oil-facts %}
 
     <!-- Sweet Potato -->
-    <div id="potato"></div>
     {% if page.sweet-potato %}
       {{ page.sweet-potato }}<br><br>
     {% endif %}
@@ -50,25 +48,25 @@ layout: base
 
     <!-- Mixing -->
     {% if page.mixing %}
-      <b><u>Mixing & Baking</u></b>
+      <b><u><font size="+2">Mixing & Baking</font></u></b>
       &emsp; {{ page.mixing }}<br><br>
     {% endif %}
 
     <!-- Taste -->
     {% if page.taste %}
-      <b><u>Taste Test</u></b>
+      <b><u><font size="+2">Taste Test</font></u></b>
       &emsp; {{ page.taste }}<br><br>
     {% endif %}
 
     <!-- Conclusion -->
     {% if page.conclusion %}
-      <b><u>Conclusion</u></b>
+      <b><u><font size="+2">Conclusion</font></u></b>
       &emsp; {{ page.conclusion }}<br><br>
     {% endif %}
 
     <!-- Sources -->
     {% if page.sources %}
-      <b><u>Sources</u></b>
+      <b><u><font size="+2">Sources</font></u></b>
       &emsp; {{ page.sources }}<br><br>
     {% endif %}
 

@@ -9,6 +9,13 @@ permalink: /recipes/mediterranean-pasta-salad
 image: /assets/Food/Meatless/Pasta Salad/pasta-salad-cover.jpg
 ing: pastasalad-ing
 facts: pastasalad-facts
+section1: Pasta Salad
+start2: Apple cider vinegar by BRAGG
+section2: Dressing
+start3: 
+section3: 
+start4: 
+section4: 
 Prep: 20
 Rest: 
 Cook: 20

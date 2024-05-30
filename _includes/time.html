@@ -5,7 +5,7 @@
 {% assign minutes = totaltime | modulo: 60 %}
 
 {% if totaltime > 0 %}
-    <b><u>Time</u></b><br>
+    <b><u><font size="+2">Time</font></u></b><br>
 
     {% if page.Prep > 0 %}
     <b>Prep Time:</b> {% if page.Prep >= 60 %}{{ page.Prep | divided_by: 60}} hours{% endif %}{% if prep_minutes > 0 %} {{ prep_minutes }} minutes{% endif %}<br>

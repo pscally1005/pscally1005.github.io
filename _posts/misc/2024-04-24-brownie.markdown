@@ -75,13 +75,15 @@ subs:
 - <br><center><img src="/assets/Misc/Brownies/bowls.jpg" alt="" class="larger-image"></center>
 
 butter:
-- <br><b>1. Butter and Eggs</b><br>
+- <div id="butter"></div>
+- <b><font size="+2">1. Butter & Eggs</font></b><br>
 - This is the standard experiment.  In a small bowl goes the brownie mix, water, egg, and melted butter.  The batter was stirred together, and poured into a greased mini muffin tin.  This will be the basis of our experiment, as it will provide a frame of reference for the other 5 trials.
 butter-ing: dhbutter-ing
 butter-facts: dhbutter-facts
 
 applesauce: 
-- <br><b>2. Unsweetened Applesauce</b><br>
+- <div id="applesauce"></div>
+- <b><font size="+2">2. Unsweetened Applesauce</font></b><br>
 - Applesauce is often used as a butter or oil replacement in lots of healthy baked goods.  It provides moisture, sweetness, and richness, without all the fat and calories of butter.  It's allergen friendly, cheap, and easy to use.  I imagine that using <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a> instead of storebought unsweetened applesauce would be even better, but I have not tested it here.<br><br>
 
 - For the applesauce, the conversions are the following:<br>
@@ -93,7 +95,8 @@ applesauce-ing: dhapplesauce-ing
 applesauce-facts: dhapplesauce-facts
 
 yogurt:
-- <br><b>3. Plain Nonfat Greek Yogurt</b><br>
+- <div id="yogurt"></div>
+- <b><font size="+2">3. Plain Nonfat Greek Yogurt</font></b><br>
 - I was the most excited for this one, as not only is this substitution actually recommended on the box (as well as the applesauce), but from other sources I've read (linked below), yogurt seems to be the favorite swap.  It cuts down on the fat and calories, while also adding some protein.  I would assume that blended nonfat cottage cheese would work as well, though it may come out a bit salty.<br><br>
 
 - For the yogurt, the conversions are the following:<br>
@@ -105,7 +108,8 @@ yogurt-ing: dhyogurt-ing
 yogurt-facts: dhyogurt-facts
 
 banana:
-- <br><b>4. Mashed Banana</b><br>
+- <div id="banana"></div>
+- <b><font size="+2">4. Mashed Banana</font></b><br>
 - Bananas are probably the most common egg replacement in brownies and other box mixes.  In fact, I was surprised to see grated zucchini listed as an egg swap on the box instead of banana.  Overripe bananas are sweet and delicious, but will presumably leave the brownie with a slight banana flavor, which is either a pro or a con.  To prevent chunks, I blended the banana smooth in my hand blender.<br><br>
 
 - For the banana, the conversions are the following:<br>
@@ -118,7 +122,8 @@ banana-ing: dhbanana-ing
 banana-facts: dhbanana-facts
 
 sweet-potato:
-- <br><b>5. Sweet Potato Puree</b><br>
+- <div id="potato"></div>
+- <b><font size="+2">5. Sweet Potato Puree</font></b><br>
 - Yesterday, I made a small batch of <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a> in preparation for this.  I just poked the potato with a fork, wrapped it in foil, and air fried it at 400F for 1 hour until soft.  The next day, I scooped out the insides, and blended it into a smooth puree.  Canned pumpkin puree would also work, as well as <a href="/recipes/roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>.<br><br>
 
 - For the sweet potato, the conversions are the following:<br>
@@ -131,7 +136,8 @@ sweet-potato-ing: dhsweetpotato-ing
 sweet-potato-facts: dhsweetpotato-facts
 
 beans:
-- <br><b>6. Black Bean Puree</b><br>
+- <div id="beans"></div>
+- <b><font size="+2">6. Black Bean Puree</font></b><br>
 - Finally, here comes the beans.  This will be the exception, as this one will <b>not</b> include the water.  This is because for the bean puree, I blended an entire 15.5 oz can of black beans, not drained or rinsed.  The liquid in the can of beans will also be the water in the brownies.  I could not find unsalted canned black beans, so hopefully this doesn't come out too salty.<br><br>
 
 - I will replace the water, eggs, and butter with an equal amount by weight of the blended bean puree.  Therefore, I will need 13.33 + 16.67 + 14.2 = <b>44.2 g</b> black bean puree.  As mentioned above, this batch will <b>not</b> get the same 13.33 g water, like most of the other batches.<br>
@@ -153,27 +159,27 @@ taste:
 - <br>Finally, (the moment we've been waiting for), the brownies were assessed on their appearance, texture, and taste.  Meaning, it was finally time to eat.  Below is our ranking from best (left) to worst (right).  Ranking worst to best, we decided on - beans (worst), applesauce, banana, butter, yogurt, and sweet potato (best).<br>
 - <br><center><img src="/assets/Misc/Brownies/ranking.jpg" alt="" class="larger-image"></center><br>
 
-- <b>1. Butter and Eggs</b><br>
+- <b><font size="+2">1. Butter & Eggs</font></b><br>
 - These were the control brownie, and honestly they were pretty standard.  Good taste; pretty much exactly what you'd expect from a brownie.  They were slightly cakey, but had a good texture.  They didn't really have anything going for them though, just kinda a mid brownie with a slight erythritol flavor.  <b>6.5/10</b><br>
 - <br><center><img src="/assets/Misc/Brownies/brownie-butter.jpg" alt="" class="larger-image"></center><br><br>
 
-- <b>2. Unsweetened Applesauce</b><br>
+- <b><font size="+2">2. Unsweetened Applesauce</font></b><br>
 - As you can see from the photos, the applesauce ones caved in the center.  This led to a very gooey but basically underdone center.  The brownies collapsed due to the lack of structure; possibly due to the lack of eggs?  However, the addition of the applesauce made the brownies a touch sweeter, and completely blocked any erythritol flavor.  Just note that it will be less structural, and have a much softer texture.  Thankfully, without wheat or eggs, they can be eaten totally raw, so there's no risk in underbaking.  The texture was the main downside here.  <b>6/10</b><br>
 - <br><center><img src="/assets/Misc/Brownies/brownie-applesauce.jpg" alt="" class="larger-image"></center><br><br>
 
-- <b>3. Plain Nonfat Greek Yogurt</b><br>
+- <b><font size="+2">3. Plain Nonfat Greek Yogurt</font></b><br>
 - This was the only one that didn't make it out of the pan.  It didn't stick, but 1 did break in half in the transfer.  These also noticeably collapsed in the center, more than the applesauce.  As for the taste and texture though, these tasted most similar to what you'd expect from a brownie, but just a touch less sweet; almost like a dark chocolate brownie.  The yogurt adds a nice subtle flavor, and again the little erythritol taste is gone, which is good.  This is so far the best all around replacement, as although it did collapse, it didn't feel underbaked like the applesauce.  <b>7.5/10</b><br>
 - <br><center><img src="/assets/Misc/Brownies/brownie-yogurt.jpg" alt="" class="larger-image"></center><br><br>
 
-- <b>4. Banana</b><br>
+- <b><font size="+2">4. Mashed Banana</font></b><br>
 - The banana ones also collapsed in the center, just like the applesauce and yogurt ones before it.  These brownies were gooey (slightly underdone like the applesauce), sweet, and delicious, but you could absolutely taste the banana.  It was basically the exact same as the applesauce brownies, but with a banana flavor.  While I really like the banana taste in brownies, you wouldn't be able to pass these off as brownies; these are instead banana brownies.  This can either be a pro or a con depending on what you're in to, but do note that the banana taste is strong here.  <b>6.5/10</b><br>
 - <br><center><img src="/assets/Misc/Brownies/brownie-banana.jpg" alt="" class="larger-image"></center><br><br>
 
-- <b>5. Sweet Potato</b><br>
+- <b><font size="+2">5. Sweet Potato Puree</font></b><br>
 - These ones were by far our favorites.  Bith Vic and Cass though these ones were the yogurt, so they were surprised to hear the potatoes ranking at the top.  They had the best texture; they were perfectly fudgy without being underbaked like the banana and applesauce.  The texture was great, as they felt good in the mouth and didn't collapse in the center.  For the taste, these were about as sweet as the applesauce ones, maybe slightly sweeter.  The sweet potato ones basically were a combination of the pros of the butter (structure) and applesauce (taste).  <b>9/10</b><br>
 - <br><center><img src="/assets/Misc/Brownies/brownie-sweet-potato.jpg" alt="" class="larger-image"></center><br><br>
 
-- <b>6. Black Beans</b><br>
+- <b><font size="+2">6. Black Bean Puree</font></b><br>
 - Last but unfortunately least, is the black beans.  You could definitely taste a little hint of bean in these.  These had a dense and fudgy interior, but were also slightly dry.  They were the firmest, but also the least sweet.  We could tell exactly which ones were the beans, even just by looking at them.  A lot of recipes I saw that used beans in brownies instead drained and rinsed he beans, and substituted the water for coffee.  I think that would yield better results, but as I made them, the beans were at the bottom.  <b>4/10</b><br>
 - <br><center><img src="/assets/Misc/Brownies/brownie-bean.jpg" alt="" class="larger-image"></center>
 
@@ -213,7 +219,7 @@ other:
 - <br>&emsp; 1 egg = 1/4 cup (60 g) pureed beets
 - <br>&emsp; 1 cup butter = 1 cup (240 g) pureed beets
 
-- <br><br><b><u>Update</u></b> (Apr-23-2023)<br>
+- <br><br><b><u><font size="+2">Update</font></u></b> (Apr-23-2023)<br>
 - I ran a similar experiment, making a half batch each of canola oil brownies and sweet potato brownies, using Duncan Hines Dark Chocolate Fudge brownies as the base.  You can read the results of my <a href="sweet-potato-boxed-brownies">Sweet Potato Boxed Brownies</a> experiment.  Spoiler alert:<b></b> the results aren't as positive.
 
 sources:

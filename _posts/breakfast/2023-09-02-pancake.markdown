@@ -25,6 +25,7 @@ tags:
 - butternut
 - squash
 - sweet potato
+- vic
 Description: Unlike regular pancakes, these will serve to keep you fully all the way until lunch. With protein of the whey and fiber of the oats, plus the addition of pumpkin puree serve as a perfect fall recipe. These also work as waffles as well, but I prefer the pancakes.  For more pumpkin recipes, see my <a href="pumpkin-bread">Protein Pumpkin Loaf</a>, <a href="pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a>, or <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>
 Instructions: 
 - In a medium bowl, whisk together all the ingredients. Let batter rest for 5-10 minutes<br><br>
