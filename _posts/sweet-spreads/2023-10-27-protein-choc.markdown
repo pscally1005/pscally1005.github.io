@@ -37,6 +37,7 @@ tags:
 - cookie dough
 - brownie
 - nutella
+- vic
 Description: I'll make this nutella-ish spread every so often, and store the leftovers in the freezer.  It's sweet without being loaded with added sugars, and goes great on toasted <a href="ww-bread">100% Whole Wheat Bread</a> or on oatmeal.  Each serving is about 2 tbsp or 40g
 Instructions: 
 - Mix all ingredients in a small container, and store the leftovers in the fridge<br><br>

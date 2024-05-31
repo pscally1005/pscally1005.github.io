@@ -24,6 +24,7 @@ tags:
 - peanut butter
 - stevia
 - monk fruit
+- vic
 Description: Typical hot chocolate is full of added sugars, which is not what I'm about. The protein makes this like a hot protein shake, and its sweetened with monk fruit (or stevia) too. This is great after being outside in the snow for hours, and is a much healthier way to enjoy the classic drink.  Or you can make my <a href="unsweetened-hot-cocoa">Unsweetened Hot Cocoa</a>
 Instructions: 
 - Add ingredients to a medium saucepot<br><br>

@@ -23,6 +23,7 @@ tags:
 - unsweetened coconut
 - flakes
 - macaron
+- vic
 Description: Coconut macaroons are such a simple healthy dessert, and are great for all you coconut lovers out there. I personally don't like coconut, but even I admit these are hay in the needle stack. To use up those extra yolks though, check out my <a href="hollandaise">Greek Yogurt Hollandaise Sauce</a>
 Instructions: 
 - Beat together egg whites until soft peaks in a glass bowl<br><br>

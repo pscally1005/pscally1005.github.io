@@ -28,6 +28,7 @@ tags:
 - cocoa powder
 - ice cream
 - chipwich
+- vic
 Description: Banana ice cream was an Internet trend for a reason - it tastes really good, is a super customizable base, and is much healthier than traditional ice cream. Without added sugar or heavy cream, banana ice cream tastes and feels just like real ice cream, and can be made in 5 minutes.  I love to use it to make <a href="nice-cream-sandwiches">Nice Cream Sandwiches</a>, or you can make a larger batch with multiple flavors using my <a href="neopolitan-banana-ice-cream">Neopolitan Banana Ice Cream</a>.  Another popular internet healthy ice cream trend was <a href="cottage-cheese-ice-cream">Cottage Cheese Ice Cream</a>, which is delicious and packed with protein!
 Instructions: 
 - Break/cut up the banas into pieces. They don't need to be that small, maybe an inch thick. Freeze overnight in an airtight bag<br><br>

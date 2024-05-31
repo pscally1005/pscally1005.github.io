@@ -24,6 +24,7 @@ tags:
 - thyme
 - basil
 - gluten free
+- vic
 Description: This is something I've wanted to try ever since getting an air fryer, and I'm finally getting around to it. Zucchini cut into fries, and breaded with parmesan cheese (they're gluten free!). Healthy, delicious, and easy
 Instructions: 
 - Preheat your air fryer to 400F<br><br>

@@ -27,6 +27,11 @@ tags:
 - tortilla
 - taco
 - fajita
+- vic
+- cass
+- taco night
+- fodmap
+- low fodmap
 Description: I named this salsa as such because it simply uses pantry staple canned ingredients and some spices. No chopping necessary! Just pulse everything to a food processor, and adjust the taste and texture to your liking. I personally like my salsa a little chunky.  This salsa also contains no garlic or onion for those that are allergic.  Just make sure to check your can of diced tomatoes.  I love to make this with either my <a href="taco">Sauteed Taco Meat and Fajita Veggies</a> or <a href="low-fodmap-tacos">Low FODMAP Chicken Tacos</a>
 Instructions: 
 - Lightly drain the can of tomatoes through a gap in the can top.  Don't use a strainer or you'll lose too much<br><br>

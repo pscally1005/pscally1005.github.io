@@ -25,6 +25,7 @@ tags:
 - whole wheat
 - filling
 - banana
+- vic
 Description: Crepes are a fun Sunday morning breakfast for the family, and this recipe is a great whole wheat crepe batter that can be topped with anything, sweet or savory. The nutrition facts just for the crepes themselves, not any filling
 Instructions: 
 - To a large bowl, beat the egg. Add in the yogurt, honey/maple syrup, salt, vanilla and fully combine. Mix in the milk, then mix in the flour well.<br><br>

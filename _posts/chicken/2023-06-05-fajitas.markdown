@@ -30,6 +30,7 @@ tags:
 - mango
 - salsa
 - tropical
+- vic
 Description: Fajitas are a go to meal as they're a fun way to build your own food at the table. We'll have some sauteed chicken and peppers, along with rice, beans, cheese, tortillas, lettuce, and <a href="tropical-salsa">Tropical Fruit Salsa</a>. Make tacos, or make it into a bowl, and mix it up as you see fit.
 Instructions:
 - Cut up the peppers and onions and add them to a large skillet. Dice up the chicken and add to a large bowl<br><br>

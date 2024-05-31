@@ -28,9 +28,6 @@ tags:
 - powdered peanut butter
 - powdered peanuts
 - peanut flour
-- coconut oil
-- extra virgin coconut oil
-- melted coconut oil
 - unsweetened vanilla almond milk
 - unsweetened almond milk
 - milk
@@ -41,9 +38,9 @@ tags:
 - almond extract
 Description: To me, a protein bar must meet 3 basic requirements. It must have (1) at least 10g of protein per 100cal, with protein being the predominant macro nutrient. (2) It has to have no added sugar, and finally (3) it must be a solid at room temperature, so it can be taken on the go. These protein bars meet all 3, as they clock in at just 100 calories and have 14g of protein
 Instructions: 
-- In a large bowl, whisk together the dry ingredients - PB2, whey, casein, coconut flour, and salt<br><br>
+- In a large bowl, whisk together the dry ingredients - PB2, whey, casein, coconut flour, cinnamon, and salt<br><br>
 
-- Add in the wet ingredients (milk, syrup, extract, and melted coconut oil). Fold with a silicone spatula until fully combined. The mix should be slightly sticky<br><br>
+- Add in the wet ingredients (milk, syrup, and extract). Fold with a silicone spatula until fully combined. The mix should be slightly sticky<br><br>
 
 - Line a 9x5" bread pan with parchment paper, and evenly press the dough into the pan. Chill in the fridge for 3 hours before slicing.  Store in the fridge or freezer
 ---

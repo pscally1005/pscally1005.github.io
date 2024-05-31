@@ -28,6 +28,7 @@ tags:
 - meatloaf
 - ketchup
 - spread
+- vic
 Description: Most commercial BBQ sauces are loaded with high fructose corn syrup, making them insanely sweet and super bad for you. I prefer to keep mine fully unsweetened, but for a sweeter taste, you can add a little of any sweetener you desire.
 Instructions: 
 - Add all ingredients to a medium saucepan over medium low heat. For some mild sweetness, optionally add some sugar free syrup. Let simmer for about an hour (covered), then transfer to an airtight container in the fridge<br><br>

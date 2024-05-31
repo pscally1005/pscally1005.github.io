@@ -32,6 +32,7 @@ tags:
 - chickpeas
 - garbanzo beans
 - cumin
+- vic
 Description: Refried beans are a great side dish to many different meals. It's very easy to put together, and can be made with any type of bean that you desire. It's basically roughly mashed and cooked hummus, and works well as a dip, burrito filling, or side on your plate
 Instructions: 
 - Preheat a medium pot over medium heat with oil. Meanwhile, finely dice your onion. Add diced onion to the pan with salt. Cover, and cook until the onions are soft and translucent, and begin to caramelize<br><br>

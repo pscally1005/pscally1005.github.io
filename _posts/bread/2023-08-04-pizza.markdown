@@ -24,6 +24,7 @@ tags:
 - pepperoni
 - bread
 - whole wheat
+- vic
 Description: Everybody loves pizza right? This is a 2 day process, but totally worth it for a good homemade pizza, plus it's a fun activity to do with a few people. Prep the dough the night before, and then have a few people over the next day for dinner. Whole wheat flour serves to add some extra nutrition and taste to your pizza as well.
 Instructions: 
 - In a large mixing bowl, combine the water, yeast, salt, and honey. Stir, and let sit for 5 minutes to make sure the yeast is alive<br><br>

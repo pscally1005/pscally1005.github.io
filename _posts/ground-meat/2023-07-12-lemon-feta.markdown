@@ -27,6 +27,7 @@ tags:
 - brown
 - rice
 - orzo
+- vic
 Description: These Greek inspired bowls feature ground chicken, feta cheese, and plenty of vegetables. It goes great mixed into a side of brown rice or orzo pasta. It's a great summertime healthy meal that I know you'll enjoy.
 Instructions: 
 - Heat a large pan over medium heat. Add in your diced onion, with oil, garlic, and salt. Cover, and cook until the onions turn translucent, about 5 minutes<br><br>

@@ -23,6 +23,7 @@ tags:
 - cheese
 - breast
 - bouillon
+- vic
 Description: My favorite thing about this Chicken Florentine is that it tastes just as good as all the others I've had, but without the addition of all the heavy cream that would normally turn this into a fat bomb. Packed with chicken and spinach, and made creamy with a secret ingredient, this recipe is amazing, and goes great with a side of brown rice or roasted vegetables
 Instructions:
 - Cook the frozen spinach, onion, and spices (salt, pepper, garlic, italian seasoning, onion powder, and paprika) in a large pan on medium heat until fully cooked. Set aside on a plate<br><br>

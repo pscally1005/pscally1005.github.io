@@ -25,6 +25,7 @@ tags:
 - simply roasted
 - broccoli
 - baked potato
+- vic
 Description: I've never been a big fan of pork, but I've been wanting to give it a try, and I found some on sale a few days ago. Pork tenderloin is a very lean but still juicy cut of meat, as long as you cook it properly. It's also fairly cheap too, this was only $2.69 for 1 lb. I've paired this with a side of <a href="baked-sweet-potato">Baked Sweet Potatoes</a> and <a href="roasted-vegetables">Simply Roasted Vegetables</a>, but feel free to throw it together with whatever you have in your fridge
 Instructions: 
 - Trim any excess fat off the side of the meat, and cut into 4 pieces. Light season all sides with salt, pepper, and garlic<br><br>

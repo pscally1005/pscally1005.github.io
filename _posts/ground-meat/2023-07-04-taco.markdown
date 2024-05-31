@@ -31,6 +31,7 @@ tags:
 - mexican
 - brown
 - rice
+- vic
 Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my <a href="fajitas">Chicken Fajitas with Peppers</a> recipe, these are an awesome way for each person to build their own meals and have fun at the table. For a no garlic and onion version, see my <a href="low-fodmap-tacos">Low FODMAP Chicken Tacos</a> recipe.  Invite some people over to make tacos and whip up some <a href="salsa">Five Minute Salsa (No Garlic/Onion)</a> or <a href="guacamole">Holy Guacamole</a>; what are you waiting for!
 Instructions: 
 - Mix together seasonings in a medium bowl or mason jar and set aside<br><br>

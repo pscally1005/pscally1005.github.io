@@ -27,6 +27,7 @@ tags:
 - flash freeze
 - bake
 - french fries
+- vic
 Description: These chicken nuggets are great for a meal or snack, and can be reheated in the air fryer straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.  Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href="sweet-potato-fries">Spiced Sweet Potato Fries</a> for a nutritious version of this meal
 Instructions: 
 - Preheat your oven to 400°F<br><br>

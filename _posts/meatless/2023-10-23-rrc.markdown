@@ -25,6 +25,7 @@ tags:
 - chili powder
 - veggie
 - vegetable
+- vic
 Description: My famous broccoli gets its name from my college's running club pasta parties, which we hosted the night before our races. I would make this every time, and it was always a massive hit and gone in an instant. If you're not really a fan of broccoli, I'd really recommend giving this a try. It really masks the gross flavors of broccoli with a properly seasoned dish. I always paired this with my <a href="penne-casserole">Penne and Meat Casserole Bake</a>
 Instructions: 
 - Preheat oven to 425F and spray a 9x13 pan with oil<br><br>

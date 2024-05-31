@@ -26,6 +26,7 @@ tags:
 - gluten free
 - oats
 - oat flour
+- vic
 Description: Banana bread is a great breakfast or dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel great at sweets time. It's very similar to my blueberry muffins and breakfast banana bread recipes.  Check out my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="banana-bread">Breakfast Banana Bread</a> for similar recipes
 Instructions: 
 - Preheat the oven to 350F, and line a bread pan with parchment paper. Spray the inside of the paper as well<br><br>
