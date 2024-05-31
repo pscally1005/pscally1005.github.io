@@ -9,6 +9,15 @@ permalink: /recipes/fajitas
 image: /assets/Food/Chicken/Fajitas/fajita-cover.jpg
 ing: fajitas-ing
 facts: fajitas-facts
+section1: Chicken Marinade
+start2: Peppers, raw, red, sweet
+section2: Onions & Peppers
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 45
@@ -43,5 +52,5 @@ Instructions:
 
 - Add in the peppers and onion and mix<br><br>
 
-- Serve with rice and beans, and tortillas, or over a salad
+- Serve with <a href="rice-and-beans">Classic Rice and Beans</a>, and <a href="tortilla">Oat-Wheat Tortillas</a>, or over a salad
 ---

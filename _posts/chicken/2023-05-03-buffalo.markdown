@@ -9,6 +9,15 @@ permalink: /recipes/buffalo-chicken
 image: /assets/Food/Chicken/Buffalo/buffalo-cover.jpg
 ing: buffalochicken-ing
 facts: buffalochicken-facts
+section1: Vegetables
+start2: Hot sauce by LOUISIANA
+section2: Sauce
+start3: Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers
+section3: Chicken
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 30

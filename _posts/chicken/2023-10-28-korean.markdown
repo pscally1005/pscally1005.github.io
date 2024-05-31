@@ -9,6 +9,15 @@ permalink: /recipes/korean-chicken
 image: /assets/Food/Chicken/Korean/korean-cover.jpg
 ing: korean-ing
 facts: korean-facts
+section1: Chicken
+start2: Onions, raw
+section2: Vegetables
+start3: Sweet potato, unprepared, raw
+section3: Potatoes
+start4: Gochujang sauce by BRANDLESS
+section4: Sauce
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 30

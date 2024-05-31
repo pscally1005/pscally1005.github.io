@@ -9,6 +9,15 @@ permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Salad/salad-cover.jpg
 ing: salad-ing
 facts: salad-facts
+section1: Chicken
+start2: Onions, raw
+section2: Vegetables & Toppings
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 15

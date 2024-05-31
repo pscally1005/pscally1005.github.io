@@ -9,6 +9,15 @@ permalink: /recipes/home-fries
 image: /assets/Food/Breakfast/Home Fries/home-fries-cover.jpg
 ing: homefries-ing
 facts: homefries-facts
+section1: Potatoes
+start2: Onions, raw
+section2: Peppers & Onions
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 30

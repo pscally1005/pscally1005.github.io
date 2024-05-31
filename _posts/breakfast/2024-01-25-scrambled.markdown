@@ -9,6 +9,15 @@ permalink: /recipes/scrambled-eggs
 image: /assets/Food/Breakfast/Scrambled/scrambled-cover.jpg
 ing: scrambled-ing
 facts: scrambled-facts
+section1: Eggs
+start2: Carrots, raw, baby
+section2: Side
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 20

@@ -9,6 +9,15 @@ permalink: /recipes/indian-chicken
 image: /assets/Food/Chicken/Indian/indian.jpg
 ing: indian-ing
 facts: indian-facts
+section1: Chicken
+start2: Sweet potato, unprepared, raw
+section2: Potatoes
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 60

@@ -9,6 +9,15 @@ permalink: /recipes/caprese-chicken
 image: /assets/Food/Chicken/Caprese/caprese-cover.jpg
 ing: caprese-ing
 facts: caprese-facts
+section1: Chicken
+start2: Balsamic vinegar of modena
+section2: Tomatoes
+start3: Artichoke hearts by MATIZ
+section3: Artichokes
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 30

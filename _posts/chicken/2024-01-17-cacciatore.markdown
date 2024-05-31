@@ -9,6 +9,15 @@ permalink: /recipes/cacciatore
 image: /assets/Food/Chicken/Cacciatore/cacciatore-cover.jpg
 ing: cacciatore-ing
 facts: cacciatore-facts
+section1: Chicken
+start2: Sweet potato, unprepared, raw
+section2: Vegetables
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 45

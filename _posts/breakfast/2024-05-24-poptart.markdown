@@ -9,6 +9,15 @@ permalink: /recipes/protein-poptart
 image: /assets/Food/Breakfast/PopTart/poptart-cover.jpg
 ing: poptart-ing
 facts: poptart-facts
+section1: Dough
+start2: No Sugar Added Apple Spread
+section2: Filling
+start3: Natural peanut butter by HAMPTON FARMS
+section3: Topping
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 30
 Cook: 6

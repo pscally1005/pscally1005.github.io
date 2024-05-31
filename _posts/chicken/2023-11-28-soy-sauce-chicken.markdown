@@ -9,6 +9,15 @@ permalink: /recipes/soy-sauce-chicken
 image: /assets/Food/Chicken/Soy Sauce/soy-sauce-cover.jpg
 ing: soysauce-ing
 facts: soysauce-facts
+section1: Chicken
+start2: Brussels sprouts, unprepared, frozen
+section2: Brussel Sprouts
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 30

@@ -9,6 +9,15 @@ permalink: /recipes/marinated-chicken
 image: /assets/Food/Chicken/Marinated/marinated-cover.jpg
 ing: marinated-ing
 facts: marinated-facts
+section1: Chicken
+start2: Italian seasoning by Raley's
+section2: Marinade Mix
+start3: Ripe plantain, raw
+section3: Plantains
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 15

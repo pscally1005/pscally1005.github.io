@@ -9,6 +9,13 @@ permalink: /recipes/pizza
 image: /assets/Food/Bread/Pizza/pizza-cover.jpg
 ing: pizza-ing
 facts: pizza-facts
+section1: Pizza
+start2: Tomato products, sauce, canned
+section2: Toppings
+start3: 
+section3: 
+start4: 
+section4: 
 Prep: 30
 Rest: 180
 Cook: 7

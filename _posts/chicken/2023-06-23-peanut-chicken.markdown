@@ -9,6 +9,15 @@ permalink: /recipes/peanut-chicken
 image: /assets/Food/Chicken/Peanut/peanut-cover.jpg
 ing: peanutchicken-ing
 facts: peanutchicken-facts
+section1: Meat
+start2: Extra virgin olive oil by GAEA
+section2: Veggies
+start3: Peanut butter powder by PBFIT
+section3: Sauce
+start4: Sesame oil
+section4: Optional
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 30

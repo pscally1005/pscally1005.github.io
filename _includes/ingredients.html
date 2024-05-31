@@ -40,6 +40,15 @@
                             {% include ingredientsHeader.html %}              
                         {% endif %}
 
+                        {% if pair[1] == page.start5 %}
+                            </table>
+                            {% if !page.section4 %}
+                            <i><font size="+2">{{ page.section5 }}</font></i>
+                            {% endif %}
+                            <table>
+                            {% include ingredientsHeader.html %}              
+                        {% endif %}
+
                     {% endif %}
                     <td>{{ pair[1] }}</td>
                 {% endfor %}

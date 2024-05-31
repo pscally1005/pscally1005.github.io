@@ -9,6 +9,15 @@ permalink: /recipes/avocado-toast
 image: /assets/Food/Breakfast/Avocado Toast/toast.jpg
 ing: toast-ing
 facts: toast-facts
+section1: Bread
+start2: Avocados, California, raw
+section2: Avocado Mix
+start3: Tomatoes, raw
+section3: Topping
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 5

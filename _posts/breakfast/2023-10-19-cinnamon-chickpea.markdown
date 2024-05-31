@@ -9,6 +9,15 @@ permalink: /recipes/cinnamon-chickpea
 image: /assets/Food/Breakfast/Chickpea/chickpea-cover.jpg
 ing: cinchick-ing
 facts: cinchick-facts
+section1: Cereal
+start2: Unsweetened vanilla almond milk, unsweetened vanilla by Danone US, LLC
+section2: Milk
+start3: Blackberries, unsweetened, frozen
+section3: Toppings
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 14

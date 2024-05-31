@@ -9,6 +9,15 @@ permalink: /recipes/pulled-chicken
 image: /assets/Food/Chicken/Pulled/pulled-cover.jpg
 ing: pulled-ing
 facts: pulled-facts
+section1: Chicken
+start2: Cabbage, raw, green
+section2: Coleslaw
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 300
