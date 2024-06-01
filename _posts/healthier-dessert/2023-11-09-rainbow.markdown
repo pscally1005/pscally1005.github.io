@@ -9,6 +9,15 @@ permalink: /recipes/rainbow-cookies
 image: /assets/Food/Healthier Dessert/Rainbow/rainbow-cover.jpg
 ing: rainbow-ing
 facts: rainbow-facts
+section1: Cookies
+start2: Smucker's Raspberry Sugar Free Jam
+section2: Jam
+start3: Oil, coconut
+section3: Chocolate
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 120
 Rest: 
 Cook: 10
@@ -56,7 +65,7 @@ Instructions:
 - Transfer the batters into separate pans. Bake at 350F for 8 minutes. Remove from the pan, and let cool completely on a wire rack. I only have 1 8" pan, so I'll be doing it in 3 batches<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Rainbow/rainbow-5.jpg" alt="" class="instruction-image"></center><br>
 
-- Once totally cooled, spread half your jam on top of the green layer. Place the yellow layer on top of the green layer, and spread the other half of the jam on top of the yellow layer. Place the red layer on top<br><br>
+- Once totally cooled, spread half your jam on top of the green layer. For the jam, I used my <a href="berry-jam">Low Sugar Berry Jam</a>, but any storebought low sugar or unsweetened jam would also work.  Place the yellow layer on top of the green layer, and spread the other half of the jam on top of the yellow layer. Place the red layer on top<br><br>
 
 - Wrap the entire cake in plastic wrap. Place on a cookie sheet, and place a weight on top of it. I used another baking pan with my 10lb ankle weights on top of them. Refrigerate for at least 4 hours, or overnight<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Rainbow/rainbow-7.jpg" alt="" class="instruction-image"></center><br>

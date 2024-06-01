@@ -9,6 +9,15 @@ permalink: /recipes/chickpea-sandwich
 image: /assets/Food/Meatless/Chickpea Sandwich/chickpea-sand.jpg
 ing: chickpeasand-ing
 facts: chickpeasand-facts
+section1: Chickpeas
+start2: Bread, whole wheat
+section2: Bread
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 

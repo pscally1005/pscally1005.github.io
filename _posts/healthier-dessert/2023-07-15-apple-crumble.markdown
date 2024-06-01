@@ -9,6 +9,15 @@ permalink: /recipes/apple-crumble
 image: /assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-cover.jpg
 ing: applecrumble-ing
 facts: applecrumble-facts
+section1: Apple Filling
+start2: Cereals, Dry, Quick Oats, QUAKER
+section2: Crisp Topping
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 45

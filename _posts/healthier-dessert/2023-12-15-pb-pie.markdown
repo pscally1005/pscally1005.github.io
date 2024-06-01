@@ -9,6 +9,15 @@ permalink: /recipes/peanut-butter-pie
 image: /assets/Food/Healthier Dessert/PB Pie/pb-pie-cover.jpg
 ing: pbpie-ing
 facts: pbpie-facts
+section1: Crust
+start2: Bananas, raw, overripe
+section2: Filling
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 10

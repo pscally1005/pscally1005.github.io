@@ -9,6 +9,15 @@ permalink: /recipes/kale
 image: /assets/Food/Meatless/Kale/kale.jpg
 ing: kale-ing
 facts: kale-facts
+section1: Vegetables
+start2: Beans, drained solids, canned, pinto
+section2: Beans
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 10
@@ -32,5 +41,5 @@ Instructions:
 
 - Add the seasonings to the veggies<br><br>
 
-- Add bbq sauce and beans to the skillet. Cook over medium heat for a few minutes. Top with shredded cheese
+- Add in the BBQ sauce (I used my <a href="bbq-sauce">Unsweetened BBQ Sauce</a>) and beans to the skillet. Cook over medium heat for a few minutes. Top with shredded cheese
 ---

@@ -9,6 +9,15 @@ permalink: /recipes/dual-bean-date-brookies
 image: /assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-cover.jpg
 ing: beanbrookie-ing
 facts: beanbrookie-facts
+section1: Brownies
+start2: Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds
+section2: Blondies
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 20

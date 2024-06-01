@@ -9,6 +9,15 @@ permalink: /recipes/double-chocolate-banana-bread
 image: /assets/Food/Healthier Dessert/Choc Bread/choc-bread-cover.jpg
 ing: chocbread-ing
 facts: chocbread-facts
+section1: Wet
+start2: Organic oat flour by The Hain Celestial Group, Inc.
+section2: Dry
+start3: Dark chocolate baking chips, dark chocolate by LILYS
+section3: Mix0ins
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 55

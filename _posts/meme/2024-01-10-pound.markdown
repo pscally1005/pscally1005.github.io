@@ -9,6 +9,15 @@ permalink: /recipes/pound-cake
 image: /assets/Food/Meme/Pound/pound-cover.jpg
 ing: newlbcake-ing
 facts: newlbcake-facts
+section1: Base Pound Cake
+start2: Vanilla extract
+section2: Optional Flavors
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 60
@@ -41,7 +50,7 @@ Instructions:
 - In a food processor, blend together all 4 ingredients (drained and rinsed chickpeas, peanuts, yogurt, and bananas) until everything is smooth<br><br>
 - <center><img src="/assets/Food/Meme/Pound/pound-2.jpg" alt="" class="instruction-image"></center><br>
 
-- Optionally, add in some additional flavors. I went with a little salt and vanilla extract, but you can also add cinnamon or any other extract you have. Add a little maple syrup if you like it sweeter<br><br>
+- Optionally, add in some additional flavors. I went with a little salt and vanilla extract, but you can also add cinnamon or any other extract you have. Add a little maple syrup if you like it sweeter.  For some lift, add some baking powder (I've never tried, but I'd guess 2 tsp (9.6 g) for a full batch)<br><br>
 
 - Evenly split the batter across the 2 pans. For a 1/4 batch, you'll only need 1 pan<br><br>
 - <center><img src="/assets/Food/Meme/Pound/pound-4.jpg" alt="" class="instruction-image"></center><br>

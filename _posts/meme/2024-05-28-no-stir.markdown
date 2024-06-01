@@ -9,6 +9,15 @@ permalink: /recipes/no-stir-peanut-butter
 image: /assets/Food/Meme/No Stir/no-stir.jpg
 ing: nostir-ing
 facts: nostir-facts
+section1: :)
+start2: Extra virgin coconut oil by KELAPO
+section2: :(
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 

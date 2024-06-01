@@ -9,6 +9,15 @@ permalink: /recipes/chickpea-wrap
 image: /assets/Food/Meatless/Chickpea Wrap/chickpea-wrap.jpg
 ing: chickpeawrap-ing
 facts: chickpeawrap-facts
+section1: Chickpeas
+start2: Tortilla, whole wheat
+section2: Wrap
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 40

@@ -9,6 +9,15 @@ permalink: /recipes/cut-out-cookies
 image: /assets/Food/Healthier Dessert/Cut Out/cut-out-cover.jpg
 ing: cutout-ing
 facts: cutout-facts
+section1: Dry
+start2: Syrups, maple
+section2: Wet
+start3: Nonfat cottage cheese by HP Hood LLC
+section3: Icing
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 30
 Cook: 12

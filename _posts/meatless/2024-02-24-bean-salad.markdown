@@ -9,6 +9,15 @@ permalink: /recipes/bean-salad
 image: /assets/Food/Meatless/Bean Salad/bean-salad-cover.jpg
 ing: beansalad-ing
 facts: beansalad-facts
+section1: Salad
+start2: Extra virgin olive oil by QO
+section2: Dressing
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 

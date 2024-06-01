@@ -9,6 +9,15 @@ permalink: /recipes/neopolitan-banana-ice-cream
 image: /assets/Food/Healthier Dessert/Neopolitan/neopolitan-cover.jpg
 ing: neopolitan-ing
 facts: neopolitan-facts
+section1: Vanilla
+start2: Frozen Bananas, overripe
+section2: Strawberry
+start3: Frozen overripe bananas
+section3: Chocolate
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 

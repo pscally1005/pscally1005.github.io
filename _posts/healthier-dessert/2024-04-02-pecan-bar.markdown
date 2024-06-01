@@ -9,6 +9,15 @@ permalink: /recipes/pecan-butter-bars
 image: /assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-cover.jpg
 ing: pecanbar-ing
 facts: pecanbar-facts
+section1: Filling
+start2: Extra virgin coconut oil by KELAPO
+section2: Topping
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 10
 Cook: 10

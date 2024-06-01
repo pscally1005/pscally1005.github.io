@@ -9,6 +9,15 @@ permalink: /recipes/bolognese-oats
 image: /assets/Food/Meme/Bolognese/bolognese-oats.jpg
 ing: bologneseoats-ing
 facts: bologneseoats-facts
+section1: Bolognese
+start2: Water, generic, bottled
+section2: Oatmeal
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 30
