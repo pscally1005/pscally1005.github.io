@@ -9,6 +9,15 @@ permalink: /recipes/fra-diavolo
 image: /assets/Food/Fish/Fra Diavolo/fra-diavolo-cover.jpg
 ing: fradiavolo-ing
 facts: fradiavolo-facts
+section1: Sauce
+start2: Minced garlic by MEMBER'S MARK
+section2: Shrimp
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 70

@@ -9,6 +9,15 @@ permalink: /recipes/salmon-and-tzatziki
 image: /assets/Food/Fish/Tzatziki/tzatziki-cover.jpg
 ing: tzatziki-ing
 facts: tzatziki-facts
+section1: Tzatziki
+start2: Brussels sprouts, unprepared, frozen
+section2: Brussel Sprouts
+start3: Salmon fillet by WILD ALASKAN SOCKEYE
+section3: Salmon
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 60
 Cook: 30

@@ -9,6 +9,15 @@ permalink: /recipes/egg-roll-bowl
 image: /assets/Food/Ground Meat/Egg Roll/egg-roll-cover.jpg
 ing: eggroll-ing
 facts: eggroll-facts
+section1: Meat
+start2: Cabbage, raw
+section2: Vegetables
+start3: Low Sodium Soy Sauce by First Street
+section3: Sauce
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 40

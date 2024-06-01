@@ -9,6 +9,15 @@ permalink: /recipes/turkey-pesto-pita
 image: /assets/Food/Ground Meat/Pesto Pita/pesto-pita-cover.jpg
 ing: pestopita-ing
 facts: pestopita-facts
+section1: Pesto
+start2: Onions, raw
+section2: Meat & Vegetables
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 40

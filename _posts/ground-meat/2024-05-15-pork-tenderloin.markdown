@@ -9,6 +9,15 @@ permalink: /recipes/pork-tenderloin
 image: /assets/Food/Ground Meat/Pork Tenderloin/pork-tenderloin.jpg
 ing: porktenderloin-ing
 facts: porktenderloin-facts
+section1: Meat
+start2: Sweet potato, unprepared, raw
+section2: Potatoes & Veggies
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 45

@@ -9,6 +9,15 @@ permalink: /recipes/sloppy-joe
 image: /assets/Food/Ground Meat/Sloppy Joe/sloppy-joe.jpg
 ing: sloppyjoe-ing
 facts: sloppyjoe-facts
+section1: Vegetables
+start2: Turkey, raw, 7% fat, 93% lean, ground
+section2: Meat & Spices
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 20

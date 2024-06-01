@@ -9,6 +9,15 @@ permalink: /recipes/lemon-feta-bowl
 image: /assets/Food/Ground Meat/Lemon Feta/lemon-feta.jpg
 ing: lemonfeta-ing
 facts: lemonfeta-facts
+section1: Vegetables
+start2: Chicken, raw, ground
+section2: Meat
+start3: Cheese, feta
+section3: Topping
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 60

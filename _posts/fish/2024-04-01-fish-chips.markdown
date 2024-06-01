@@ -9,6 +9,15 @@ permalink: /recipes/fish-and-chips
 image: /assets/Food/Fish/Fish Chips/fish-chips-cover.jpg
 ing: fishchips-ing
 facts: fishchips-facts
+section1: Fish
+start2: Fish, raw, tilapia
+section2: Chips
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 14
 Rest: 
 Cook: 6

@@ -9,6 +9,15 @@ permalink: /recipes/eggplant-pizza
 image: /assets/Food/Finger Food/Eggplant Pizza/eggplant-pizza-cover.jpg
 ing: eggplantpizza-ing
 facts: eggplantpizza-facts
+section1: Roasted Eggplant
+start2: Hunt's, pasta sauce, no added sugar, hunt's, pasta sauce, no added sugar by Conagra Brands, Inc.
+section2: Pizza Toppings
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 25

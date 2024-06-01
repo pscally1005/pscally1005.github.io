@@ -9,6 +9,15 @@ permalink: /recipes/burger-bowl
 image: /assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg
 ing: burgerbowl-ing
 facts: burgerbowl-facts
+section1: Potatoes
+start2: Shredded mild cheddar cheese by BORDEN
+section2: Cheese
+start3: Beef, raw, 93% lean meat / 7% fat, ground
+section3: Burger
+start4: Romaine lettuce, raw
+section4: Salad
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 30

@@ -9,6 +9,15 @@ permalink: /recipes/stuffed-grape-leaves
 image: /assets/Food/Finger Food/Grape/grape-cover.jpg
 ing: grape-ing
 facts: grape-facts
+section1: Rice
+start2: Grape leaves, raw
+section2: Grape Leaves
+start3: Onions, raw
+section3: Rest of Filling
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 90

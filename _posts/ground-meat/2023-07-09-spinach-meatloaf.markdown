@@ -9,6 +9,15 @@ permalink: /recipes/spinach-meatloaf
 image: /assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-cover.jpg
 ing: spinachmeat-ing
 facts: spinachmeat-facts
+section1: Butternut Squash
+start2: Turkey, raw, 7% fat, 93% lean, ground
+section2: Meatloaf
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 45

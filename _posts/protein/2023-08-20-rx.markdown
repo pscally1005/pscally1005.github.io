@@ -33,7 +33,6 @@ tags:
 - lara bar
 - no bake
 - gluten free
-- vic
 Description: RX Bars are one of the prepackaged snacks that I will occasionally buy, as they're pretty healthy with their protein powder and lack of ultra processed ingredients. They are quite pricey though, so I prefer to make them myself. They're dead simple, and way cheaper than what you can get at the store.
 Instructions: 
 - Prepare an 8" square baking dish by lining it with parchment paper. Soak your dates in hot water for about 10 minutes to soften. Set aside the water<br><br>

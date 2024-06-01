@@ -9,6 +9,15 @@ permalink: /recipes/lebanese-casserole
 image: /assets/Food/Ground Meat/Casserole/casserole-cover.jpg
 ing: casserole-ing
 facts: casserole-facts
+section1: Spinach & Onions
+start2: Beef, raw, 93% lean meat / 7% fat, ground
+section2: Meat
+start3: Cauliflower, unprepared, frozen
+section3: Cauliflower Rice
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 30

@@ -9,6 +9,15 @@ permalink: /recipes/shepards-pie
 image: /assets/Food/Ground Meat/Shepards/shepards-cover.jpg
 ing: shepards-ing
 facts: shepards-facts
+section1: Filling
+start2: Cauliflower, unprepared, frozen
+section2: Topping
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 60

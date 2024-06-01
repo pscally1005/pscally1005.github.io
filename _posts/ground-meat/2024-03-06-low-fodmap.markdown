@@ -9,6 +9,15 @@ permalink: /recipes/low-fodmap-tacos
 image: /assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg
 ing: lowfodmap-ing
 facts: lowfodmap-facts
+section1: Spice Mix 
+start2: Extra virgin olive oil by QO
+section2: Vegetables
+start3: Extra virgin olive oil by OLIO
+section3: Meat
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 30

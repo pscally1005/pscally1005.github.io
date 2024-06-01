@@ -9,6 +9,15 @@ permalink: /recipes/carrot-cake-bites
 image: /assets/Food/Finger Food/Carrot Cake/carrot-cake-bite.jpg
 ing: carrotbite-ing
 facts: carrotbite-facts
+section1: Roasting the Carrots
+start2: Honey
+section2: Rest of the Energy Bites
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 15

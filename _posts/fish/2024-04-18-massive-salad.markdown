@@ -9,6 +9,15 @@ permalink: /recipes/massive-salad
 image: /assets/Food/Fish/Massive Salad/massive-salad-cover.jpg
 ing: massivesalad-ing
 facts: massivesalad-facts
+section1: Dressing
+start2: Lettuce, raw, cos or romaine
+section2: Salad
+start3: Fish, drained solids, canned in water, light, tuna
+section3: Protein
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 

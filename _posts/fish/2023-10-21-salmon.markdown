@@ -9,6 +9,15 @@ permalink: /recipes/salmon-and-crunchy-salad
 image: /assets/Food/Fish/Salmon/salmon-cover.jpg
 ing: salmon-ing
 facts: salmon-facts
+section1: Salmon
+start2: Onions, raw
+section2: Salad
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 4
 Rest: 
 Cook: 14

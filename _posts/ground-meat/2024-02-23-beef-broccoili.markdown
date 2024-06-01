@@ -9,6 +9,15 @@ permalink: /recipes/beef-and-broccoli
 image: /assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-cover.jpg
 ing: beefbroccoli-ing
 facts: beefbroccoli-facts
+section1: Beef Marinade
+start2: Broccoli, unprepared, chopped, frozen
+section2: Broccoli
+start3: Minced garlic by STONEMILL
+section3: Sauce
+start4: Water, generic, bottled
+section4: Corn Starch Slurry
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 40

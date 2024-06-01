@@ -9,6 +9,15 @@ permalink: /recipes/taco
 image: /assets/Food/Ground Meat/Taco/taco-cover.jpg
 ing: taco-ing
 facts: taco-facts
+section1: Spice Mix
+start2: Minced garlic by STONEMILL
+section2: Meat
+start3: Peppers, raw, red, sweet
+section3: Vegetables
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 30

@@ -9,6 +9,15 @@ permalink: /recipes/spaghetti-taco
 image: /assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-cover.jpg
 ing: zoodletaco-ing
 facts: zoodletaco-facts
+section1: Taco Seasoning
+start2: Squash, raw, includes skin, zucchini, summer
+section2: Zoodles
+start3: Peppers, raw, red, sweet
+section3: Peppers & Onions
+start4: Turkey, raw, 7% fat, 93% lean, ground
+section4: Meat
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 30

@@ -9,6 +9,15 @@ permalink: /recipes/nam-sod
 image: /assets/Food/Ground Meat/Nam Sod/nam-sod.jpg
 ing: namsod-ing
 facts: namsod-facts
+section1: Dressing
+start2: Sesame oil
+section2: Meat & Cooked Vegetables
+start3: Lettuce, raw, cos or romaine
+section3: Salad Base
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 20
