@@ -9,6 +9,15 @@ permalink: /recipes/peanut-butter-banana-bake
 image: /assets/Food/Healthier Dessert/PB Banana Bake/pb-banana-bake.jpg
 ing: pbbbake-ing
 facts: pbbbake-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 30

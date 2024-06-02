@@ -9,6 +9,15 @@ permalink: /recipes/chocolate-free-chocolate
 image: /assets/Food/Meme/Choc Free/choc-free-cover.jpg
 ing: chocfree-ing
 facts: chocfree-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

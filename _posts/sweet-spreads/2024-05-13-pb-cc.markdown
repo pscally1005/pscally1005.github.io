@@ -9,6 +9,15 @@ permalink: /recipes/cottage-cheese-peanut-butter
 image: /assets/Food/Sweet Spreads/PB CC/pb-cc.jpg
 ing: pbcc-ing
 facts: pbcc-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

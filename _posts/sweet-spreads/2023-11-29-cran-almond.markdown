@@ -9,6 +9,15 @@ permalink: /recipes/cran-almond
 image: /assets/Food/Sweet Spreads/Flavored Nut Butters/flavored-pb-cran-almond.jpg
 ing: cranalmond-ing
 facts: cranalmond-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 

@@ -9,6 +9,15 @@ permalink: /recipes/egg-muffins
 image: /assets/Food/Breakfast/Egg Muffin/egg-muffin-cover.jpg
 ing: eggmuffin-ing
 facts: eggmuffin-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 25

@@ -9,6 +9,15 @@ permalink: /recipes/chickpea-brownies
 image: /assets/Food/Protein Powder/Chickpea Brownie/chickpea-brownie.jpg
 ing: chickpeabrownie-ing
 facts: chickpeabrownie-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 50

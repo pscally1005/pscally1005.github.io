@@ -9,6 +9,15 @@ permalink: /recipes/creamy-pesto
 image: /assets/Food/Savory Sauces/Creamy Pesto/pesto-cover.jpg
 ing: pesto-ing
 facts: pesto-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 

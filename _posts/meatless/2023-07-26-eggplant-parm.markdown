@@ -9,6 +9,15 @@ permalink: /recipes/eggplant-parm
 image: /assets/Food/Meatless/Eggplant Parm/egg-parm-cover.jpg
 ing: eggplantparm-ing
 facts: eggplantparm-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 70

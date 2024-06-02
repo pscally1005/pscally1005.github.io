@@ -9,6 +9,15 @@ permalink: /recipes/clam-sauce
 image: /assets/Food/Fish/Clam Sauce/clam-sauce.jpg
 ing: clamsauce-ing
 facts: clamsauce-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 35

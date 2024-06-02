@@ -9,6 +9,15 @@ permalink: /recipes/monk-fruit-cookies
 image: /assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-cover.jpg
 ing: monkfruit-ing
 facts: monkfruit-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 30
 Cook: 8

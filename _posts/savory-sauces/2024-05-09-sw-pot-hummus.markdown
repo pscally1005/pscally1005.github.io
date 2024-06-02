@@ -9,6 +9,15 @@ permalink: /recipes/sweet-potato-hummus
 image: /assets/Food/Savory Sauces/Sw Pot Hummus/sw-pot-hummus.jpg
 ing: swpothummus-ing
 facts: swpothummus-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 60

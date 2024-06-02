@@ -9,6 +9,15 @@ permalink: /recipes/bolognese
 image: /assets/Food/Ground Meat/Bolognese/bolognese-cover.jpg
 ing: bolognese-ing
 facts: bolognese-facts
+section1: Vegetables
+start2: Turkey, raw, 7% fat, 93% lean, ground
+section2: Meat
+start3: Tomato paste by REDPACK
+section3: Sauce & Spices
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 90

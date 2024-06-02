@@ -1,6 +1,6 @@
 Ingredient,Amount,Unit,Description
 "Pasta, dry, whole-wheat",227,g,"8 ounce"
-"Extra virgin olive oil by QO",14,g,"1 tbsp (15.0 ml) aprx"
+"Extra virgin olive oil by QO",14,g,"1 tbsp"
 "Onions, raw",70,g,"1 small"
 "Minced garlic by STONEMILL",10,g,"2 tsp"
 "Salt, table",6,g,"1 tsp"
@@ -12,6 +12,6 @@ Ingredient,Amount,Unit,Description
 "Spices, dried, thyme",2,g,"1.5 tsp, leaves"
 "Spices, black, pepper",2,g,"1 tsp, ground"
 "Tomatoes, diced, ripe, red, canned",411,g,"14.5 oz can"
-"Shredded mozzarella cheese by ROUNDY'S",56,g,"0.5 cup"
-"Panko, crispy breadcrumbs by George DeLallo Co., Inc.",30,g,"0.25 cup"
+"Shredded mozzarella cheese by ROUNDY'S",56,g,"1/2 cup"
+"Panko, crispy breadcrumbs by George DeLallo Co., Inc.",30,g,"1/4 cup"
 Servings,6

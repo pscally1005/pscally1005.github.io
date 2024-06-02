@@ -9,6 +9,15 @@ permalink: /recipes/dried-cranberry
 image: /assets/Food/Finger Food/Cranberry/cranberry-cover.jpg
 ing: cranberry-ing
 facts: cranberry-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 360

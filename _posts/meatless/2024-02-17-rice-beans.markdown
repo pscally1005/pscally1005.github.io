@@ -9,6 +9,15 @@ permalink: /recipes/rice-and-beans
 image: /assets/Food/Meatless/Rice and Beans/rice-beans.jpg
 ing: ricebeans-ing
 facts: ricebeans-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 45

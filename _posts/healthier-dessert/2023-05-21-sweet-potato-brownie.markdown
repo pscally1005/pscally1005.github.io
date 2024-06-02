@@ -9,6 +9,15 @@ permalink: /recipes/sweet-potato-brownies
 image: /assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-cover.jpg
 ing: sweetpotatobrownies-ing
 facts: sweetpotatobrownies-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 20

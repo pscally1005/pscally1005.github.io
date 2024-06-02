@@ -9,6 +9,15 @@ permalink: /recipes/roasted-garlic-hummus
 image: /assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus-cover.jpg
 ing: garlichummus-ing
 facts: garlichummus-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 45

@@ -9,6 +9,15 @@ permalink: /recipes/tuna-salad
 image: /assets/Food/Fish/Tuna Salad/tuna-salad.jpg
 ing: tunasalad-ing
 facts: tunasalad-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 

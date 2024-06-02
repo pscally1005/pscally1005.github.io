@@ -9,6 +9,15 @@ permalink: /recipes/no-bake-brownies
 image: /assets/Food/Protein Powder/No Bake Brownie/no-bake-brownie-cover.jpg
 ing: nobakebrownie-ing
 facts: nobakebrownie-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 

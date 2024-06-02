@@ -9,6 +9,15 @@ permalink: /recipes/penne-casserole
 image: /assets/Food/Ground Meat/Penne/penne-cover.jpg
 ing: penne-ing
 facts: penne-facts
+section1: Pasta
+start2: Extra virgin olive oil by QO
+section2: Onion
+start3: Turkey, raw, 7% fat, 93% lean, ground
+section3: Meat & Spices
+start4: Panko, crispy breadcrumbs by George DeLallo Co., Inc.
+section4: Topping
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 40

@@ -9,6 +9,15 @@ permalink: /recipes/carrot-spread
 image: /assets/Food/Sweet Spreads/Carrot/carrot-cover.jpg
 ing: carrot-ing
 facts: carrot-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 120

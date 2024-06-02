@@ -9,6 +9,15 @@ permalink: /recipes/single-serving-cookie-dough
 image: /assets/Food/Protein Powder/CC Cookie Dough/cc-cookie-dough.jpg
 ing: cccookiedough-ing
 facts: cccookiedough-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

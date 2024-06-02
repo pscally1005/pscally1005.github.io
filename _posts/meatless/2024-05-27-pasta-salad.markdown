@@ -16,6 +16,8 @@ start3:
 section3: 
 start4: 
 section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 20
@@ -58,7 +60,7 @@ tags:
 - onion
 - lemon pepper
 - red pepper flakes
-Description: Pasta salad is a classic summer BBQ dish, but is normally mayo based, which I'm not a fan of. This has an oil and vinegar dressing that isn't too fatty but full of flavor. The salad ingredients are a great Mediterranean combination of chickpeas, roasted red pepper, pine nuts, and feta cheese. Any other nuts would work besides pine, and arugula can be used in place of spinach. For a protein source, mix in some shredded chicken!
+Description: Pasta salad is a classic summer BBQ dish, but is normally mayo based, which I'm not a fan of. This has an oil and vinegar dressing that isn't too fatty but full of flavor. The salad ingredients are a great Mediterranean combination of chickpeas, roasted red pepper, pine nuts, and feta cheese. Any other nuts would work besides pine, and arugula can be used in place of spinach. For a protein source, mix in some shredded chicken!  For a very similar dish, see my <a href="mediterranean-potato-salad">Mediterranean Sweet Potato Salad</a>
 Instructions: 
 - Start with the peppers first, since they'll take the longest.  Preheat your oven to 400F, and line a cookie sheet with parchment paper.  Cut the peppers into long thin strips, and add to the sheet.  Drizzle with oil and add a pinch of salt.  Roast for 20-30 minutes, or until soft and lightly charred.  Alternatively, you can use a (drained and rinsed) jar of roasted red peppers<br><br>
 

@@ -9,6 +9,15 @@ permalink: /recipes/ww-bread
 image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
 ing: wwbread-ing
 facts: wwbread-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 120
 Cook: 45

@@ -9,6 +9,15 @@ permalink: /recipes/salsa
 image: /assets/Food/Savory Sauces/Salsa/salsa-cover.jpg
 ing: salsa-ing
 facts: salsa-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

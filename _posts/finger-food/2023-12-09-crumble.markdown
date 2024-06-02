@@ -9,6 +9,15 @@ permalink: /recipes/protein-crumbles
 image: /assets/Food/Finger Food/Protein Crumble/protein-crumble.jpg
 ing: crumble-ing
 facts: crumble-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

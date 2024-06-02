@@ -9,6 +9,15 @@ permalink: /recipes/natural-peanut-butter
 image: /assets/Food/Sweet Spreads/PB/pb-cover.jpg
 ing: pb-ing
 facts: pb-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 

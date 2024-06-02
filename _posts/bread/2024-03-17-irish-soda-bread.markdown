@@ -9,6 +9,15 @@ permalink: /recipes/irish-soda-bread
 image: /assets/Food/Bread/Irish/irish-cover.jpg
 ing: irish-ing
 facts: irish-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 50

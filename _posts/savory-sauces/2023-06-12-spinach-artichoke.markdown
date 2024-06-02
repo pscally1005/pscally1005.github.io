@@ -9,6 +9,15 @@ permalink: /recipes/spinach-artichoke-dip
 image: /assets/Food/Savory Sauces/Artichoke/artichoke-dip-cover.jpg
 ing: artichokedip-ing
 facts: artichokedip-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 30

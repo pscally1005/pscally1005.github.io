@@ -9,6 +9,15 @@ permalink: /recipes/creamy-pesto-hummus
 image: /assets/Food/Savory Sauces/Pesto Hummus/pesto-hummus.jpg
 ing: pestohummus-ing
 facts: pestohummus-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 25

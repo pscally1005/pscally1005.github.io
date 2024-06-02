@@ -9,6 +9,15 @@ permalink: /recipes/sweet-potato-cookies
 image: /assets/Food/Healthier Dessert/Sw Pot Cookies/sw-pot-cookie-cover.jpg
 ing: swpotcookie-ing
 facts: swpotcookie-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 10

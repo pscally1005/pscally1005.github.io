@@ -9,6 +9,15 @@ permalink: /recipes/protein-chocolate-spread
 image: /assets/Food/Sweet Spreads/Protein Choc/protein-choc-cover.jpg
 ing: proteinchoc-ing
 facts: proteinchoc-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

@@ -9,6 +9,15 @@ permalink: /recipes/ratatouille
 image: /assets/Food/Meatless/Ratatouille/ratatouille.jpg
 ing: ratatouille-ing
 facts: ratatouille-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 105

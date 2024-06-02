@@ -9,6 +9,15 @@ permalink: /recipes/date-brownie
 image: /assets/Food/Healthier Dessert/Date Brownie/date-brownie-cover.jpg
 ing: datebrownie-ing
 facts: datebrownie-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 30

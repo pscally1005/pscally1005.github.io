@@ -9,6 +9,15 @@ permalink: /recipes/red-lentil-wraps
 image: /assets/Food/Bread/Lentil Wrap/lentil-wrap.jpg
 ing: redlentilwrap-ing
 facts: redlentilwrap-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 15

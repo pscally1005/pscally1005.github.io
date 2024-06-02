@@ -9,6 +9,15 @@ permalink: /recipes/burger-buns
 image: /assets/Food/Bread/Burger Buns/buns-cover.jpg
 ing: buns-ing
 facts: buns-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 25

@@ -9,6 +9,15 @@ permalink: /recipes/roasted-red-pepper-hummus
 image: /assets/Food/Savory Sauces/Pepper Hummus/pepper-hummus-cover.jpg
 ing: pepperhummus-ing
 facts: pepperhummus-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 30

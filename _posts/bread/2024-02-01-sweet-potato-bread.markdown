@@ -9,6 +9,15 @@ permalink: /recipes/sweet-potato-bread
 image: /assets/Food/Bread/Sweet Potato/sweet-potato-cover.jpg
 ing: sweetpotatobread-ing
 facts: sweetpotatobread-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 45
 Rest: 120
 Cook: 45

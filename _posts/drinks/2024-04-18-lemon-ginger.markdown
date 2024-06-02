@@ -9,6 +9,15 @@ permalink: /recipes/lemon-ginger-tea
 image: /assets/Food/Drinks/Lemon Ginger/lemon-ginger.jpg
 ing: lemonginger-ing
 facts: lemonginger-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 

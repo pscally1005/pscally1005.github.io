@@ -9,6 +9,15 @@ permalink: /recipes/tomato-spread
 image: /assets/Food/Savory Sauces/Tomato Spread/tomato-spread-cover.jpg
 ing: tomatopastespread-ing
 facts: tomatopastespread-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

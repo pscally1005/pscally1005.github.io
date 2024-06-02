@@ -9,6 +9,15 @@ permalink: /recipes/apple-spread
 image: /assets/Food/Sweet Spreads/Apple Spread/apple-spread-cover.jpg
 ing: applespread-ing
 facts: applespread-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 
 Cook: 720

@@ -9,6 +9,15 @@ permalink: /recipes/nice-cream
 image: /assets/Food/Healthier Dessert/Nice Cream/nice-cream.jpg
 ing: nicecream-ing
 facts: nicecream-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

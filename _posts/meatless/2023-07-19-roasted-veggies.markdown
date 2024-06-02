@@ -9,6 +9,15 @@ permalink: /recipes/roasted-vegetables
 image: /assets/Food/Meatless/Roasted Veggie/roasted-pepper.jpg
 ing: veggies-ing
 facts: veggies-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 20

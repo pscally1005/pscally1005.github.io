@@ -9,6 +9,15 @@ permalink: /recipes/pita
 image: /assets/Food/Bread/Pita/pita-cover.jpg
 ing: pita-ing
 facts: pita-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 120
 Cook: 20

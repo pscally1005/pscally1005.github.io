@@ -9,6 +9,15 @@ permalink: /recipes/oat-wraps
 image: /assets/Food/Bread/Oat Wrap/oat-wrap-cover.jpg
 ing: oatwraps-ing
 facts: oatwraps-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 10

@@ -9,6 +9,15 @@ permalink: /recipes/coconut-macaroons
 image: /assets/Food/Healthier Dessert/Coconut/coconut-cover.jpg
 ing: coconut-ing
 facts: coconut-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 30
 Cook: 15

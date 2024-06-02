@@ -9,6 +9,15 @@ permalink: /recipes/slow-cooked-beans
 image: /assets/Food/Meatless/Crockpot Beans/beans-cover.jpg
 ing: crockpotbeans-ing
 facts: crockpotbeans-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 480
 Cook: 480

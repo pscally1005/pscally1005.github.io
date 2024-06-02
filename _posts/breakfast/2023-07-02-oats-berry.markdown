@@ -9,6 +9,15 @@ permalink: /recipes/oats-berry
 image: /assets/Food/Breakfast/Oatmeal/oats-berry.jpg
 ing: oatsberry-ing
 facts: oatsberry-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

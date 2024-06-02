@@ -9,6 +9,15 @@ permalink: /recipes/crepe
 image: /assets/Food/Breakfast/Crepe/crepe-cover.jpg
 ing: crepe-ing
 facts: crepe-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 60
 Cook: 10

@@ -9,6 +9,15 @@ permalink: /recipes/ginger-hummus
 image: /assets/Food/Savory Sauces/Ginger Hummus/ginger-hummus-cover.jpg
 ing: gingerhummus-ing
 facts: gingerhummus-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 
 Cook: 

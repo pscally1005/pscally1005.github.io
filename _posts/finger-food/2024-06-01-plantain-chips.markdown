@@ -39,5 +39,7 @@ Instructions:
 - Lightly spray the basket with oil. Arrange in a single layer in your air fryer basket (you may need to fry in 2 batches). Lightly spray the tops with oil<br><br>
 
 - Air fry at 400F for about 10 minutes, or until golden brown, but not burnt. Transfer to a wire rack to cool and crisp<br><br>
-- <center><img src="/assets/Food/Finger Food/Plantain Chips/plantain-chips-3.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Finger Food/Plantain Chips/plantain-chips-3.jpg" alt="" class="instruction-image"></center><br><br>
+
+- Note - Ideally, you want a green plantain, and to slice it on a mandoline.  An underripe plantain and very thin cuts will lead to plantain chips that get very crispy.  My plantain was on the yellow/brown end, and I cut them too thick with a knife.  Still delicious, but not very crispy
 ---

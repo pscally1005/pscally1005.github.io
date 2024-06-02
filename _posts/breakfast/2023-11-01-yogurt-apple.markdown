@@ -9,6 +9,15 @@ permalink: /recipes/yogurt-apple
 image: /assets/Food/Breakfast/Yogurt/yogurt-apple.jpg
 ing: yogurtapple-ing
 facts: yogurtapple-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 10

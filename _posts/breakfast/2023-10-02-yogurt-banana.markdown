@@ -9,6 +9,15 @@ permalink: /recipes/yogurt-banana
 image: /assets/Food/Breakfast/Yogurt/yogurt-banana.jpg
 ing: yogurtbanana-ing
 facts: yogurtbanana-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

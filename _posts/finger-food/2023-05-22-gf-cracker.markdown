@@ -9,6 +9,15 @@ permalink: /recipes/gf-crackers
 image: /assets/Food/Finger Food/GF Crackers/cracker-cover.jpg
 ing: cracker-ing
 facts: cracker-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 20

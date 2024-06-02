@@ -9,6 +9,15 @@ permalink: /recipes/yogurt-pbj
 image: /assets/Food/Breakfast/Yogurt/yogurt-pbj.jpg
 ing: yogurtpbj-ing
 facts: yogurtpbj-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

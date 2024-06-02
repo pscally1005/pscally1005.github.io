@@ -9,6 +9,15 @@ permalink: /recipes/brain-yogurt
 image: /assets/Food/Breakfast/Avocado Yogurt/avocado-yogurt.jpg
 ing: avoyog-ing
 facts: avoyog-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

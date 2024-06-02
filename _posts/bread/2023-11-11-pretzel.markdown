@@ -9,6 +9,15 @@ permalink: /recipes/pretzel
 image: /assets/Food/Bread/Pretzels/pretzel-cover.jpg
 ing: pretzel-ing
 facts: pretzel-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 60
 Cook: 30

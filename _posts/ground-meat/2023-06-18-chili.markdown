@@ -9,6 +9,15 @@ permalink: /recipes/chili
 image: /assets/Food/Ground Meat/Chili/chili-cover.jpg
 ing: chili-ing
 facts: chili-facts
+section1: Vegetables & Spies
+start2: Turkey, raw, 7% fat, 93% lean, ground
+section2: Meat
+start3: Tomatoes, canned, crushed
+section3: Cans & Cocoa
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 45
 Rest: 
 Cook: 480

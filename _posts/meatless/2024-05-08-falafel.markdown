@@ -9,6 +9,15 @@ permalink: /recipes/air-fried-falafel
 image: /assets/Food/Meatless/Falafel/falafel-cover.jpg
 ing: falafel-ing
 facts: falafel-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 30
 Rest: 30
 Cook: 12

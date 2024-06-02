@@ -9,6 +9,15 @@ permalink: /recipes/roasted-butternut-squash-puree
 image: /assets/Food/Sweet Spreads/Butternut/butternut-cover.jpg
 ing: butternut-ing
 facts: butternut-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 70

@@ -9,6 +9,15 @@ permalink: /recipes/date-cookies
 image: /assets/Food/Healthier Dessert/Date Cookie/date-cookie-cover.jpg
 ing: datecookie-ing
 facts: datecookie-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 10
 Rest: 60
 Cook: 8

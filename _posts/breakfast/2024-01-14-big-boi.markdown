@@ -9,6 +9,15 @@ permalink: /recipes/big-boi
 image: /assets/Food/Breakfast/Big Boi/big-boi.jpg
 ing: bigboi-ing
 facts: bigboi-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 2

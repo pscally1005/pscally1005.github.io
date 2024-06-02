@@ -9,6 +9,15 @@ permalink: /recipes/milkshake
 image: /assets/Food/Drinks/Milkshake/milkshake.jpg
 ing: milkshake-ing
 facts: milkshake-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 5
 Rest: 
 Cook: 

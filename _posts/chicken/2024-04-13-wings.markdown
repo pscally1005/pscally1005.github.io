@@ -9,6 +9,15 @@ permalink: /recipes/chicken-wings
 image: /assets/Food/Chicken/Wings/wings-cover.jpg
 ing: wings-ing
 facts: wings-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 90
