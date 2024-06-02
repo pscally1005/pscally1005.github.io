@@ -9,6 +9,15 @@ permalink: /recipes/protein-cookie-dough
 image: /assets/Food/Protein Powder/Cookie Dough/cookie-dough.jpg
 ing: cookiedough-ing
 facts: cookiedough-facts
+section1: Chocolate Chips
+start2: Applesauce, unsweetened
+section2: Cookie Dough
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 20
 Rest: 
 Cook: 

@@ -9,6 +9,15 @@ permalink: /recipes/pumpkin-pie
 image: /assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-cover.jpg
 ing: pumpkinpie-ing
 facts: pumpkinpie-facts
+section1: Crust
+start2: Pumpkin puree by Whole Foods Market, Inc.
+section2: Filling
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 15
 Rest: 
 Cook: 45

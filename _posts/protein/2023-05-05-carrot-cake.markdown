@@ -9,6 +9,15 @@ permalink: /recipes/carrot-cake
 image: /assets/Food/Protein Powder/Carrot Cake/carrot-cake-cover.jpg
 ing: carrotcake-ing
 facts: carrotcake-facts
+section1: Roasting the Carrots
+start2: Organic oat flour by The Hain Celestial Group, Inc.
+section2: Dry Ingredients
+start3: Eggs, egg whole, Large, Grade A
+section3: Wet Ingredients
+start4: Nonfat cottage cheese by FRESH & EASY
+section4: Frosting
+start5: 
+section5: 
 Prep: 60
 Rest: 
 Cook: 25

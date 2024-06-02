@@ -9,6 +9,15 @@ permalink: /recipes/protein-candy-bars
 image: /assets/Food/Protein Powder/Caramel/caramel-cover.jpg
 ing: caramel-ing
 facts: caramel-facts
+section1: Base Layer
+start2: Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds
+section2: Caramel Layer
+start3: Oil, coconut
+section3: Chocolate Layer
+start4: 
+section4: 
+start5: 
+section5: 
 Prep: 60
 Rest: 
 Cook: 
