@@ -265,7 +265,7 @@ conclusion:
 
 - Finally, I hope I've demonstrated the difference between whey and casein protein powders, and why you simply can't just sub one for another in a recipe.  If you are looking to add protein to something, start with a 50/50 blend of whey/casein, and go from there.  Whey can help a cake rise, but it will dry it out.  Casein, on the other hand, will keep it moist, but might make it dense.  This is why a blend is normally a safe bet<br><br>
 
-- I've a Python script where you can enter the flours you are converting from and to, along with the amount of the original, in order to find an approximate amount to use.  Click <a href="/download/flour-convert.py" title="Download" download>here</a> to download the file to run it yourself.<br><br>
+- I've a Python script where you can enter the flours you are converting from and to, along with the amount of the original, in order to find an approximate amount to use.  Click <a href="/python/flour-convert.py" title="Download" download>here</a> to download the file to run it yourself.<br><br>
 
 - Now if you'll excuse me, I'm about to blend all these dough balls together to create some weird Frankenstein cookie dough.
 
