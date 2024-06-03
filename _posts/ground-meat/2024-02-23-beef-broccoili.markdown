@@ -10,11 +10,11 @@ image: /assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-cover.jpg
 ing: beefbroccoli-ing
 facts: beefbroccoli-facts
 section1: Beef Marinade
-start2: Broccoli, unprepared, chopped, frozen
+start2: Frozen broccoli, thawed
 section2: Broccoli
-start3: Minced garlic by STONEMILL
+start3: Minced garlic
 section3: Sauce
-start4: Water, generic, bottled
+start4: Water
 section4: Corn Starch Slurry
 start5: 
 section5: 

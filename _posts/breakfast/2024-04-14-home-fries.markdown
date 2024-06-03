@@ -10,7 +10,7 @@ image: /assets/Food/Breakfast/Home Fries/home-fries-cover.jpg
 ing: homefries-ing
 facts: homefries-facts
 section1: Potatoes
-start2: Onions, raw
+start2: Onion
 section2: Peppers & Onions
 start3: 
 section3: 

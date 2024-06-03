@@ -10,9 +10,9 @@ image: /assets/Food/Ground Meat/Chili/chili-cover.jpg
 ing: chili-ing
 facts: chili-facts
 section1: Vegetables & Spies
-start2: Turkey, raw, 7% fat, 93% lean, ground
+start2: Ground turkey, 93/7
 section2: Meat
-start3: Tomatoes, canned, crushed
+start3: Crushed tomatoes
 section3: Cans & Cocoa
 start4: 
 section4: 

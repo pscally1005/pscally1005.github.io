@@ -10,7 +10,7 @@ image: /assets/Food/Meatless/Chickpea Sandwich/chickpea-sand.jpg
 ing: chickpeasand-ing
 facts: chickpeasand-facts
 section1: Chickpeas
-start2: Bread, whole wheat
+start2: Whole wheat bread
 section2: Bread
 start3: 
 section3: 

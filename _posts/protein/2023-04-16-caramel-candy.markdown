@@ -10,9 +10,9 @@ image: /assets/Food/Protein Powder/Caramel/caramel-cover.jpg
 ing: caramel-ing
 facts: caramel-facts
 section1: Base Layer
-start2: Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds
+start2: Chickpeas, drained and rinsed
 section2: Caramel Layer
-start3: Oil, coconut
+start3: Extra virgin coconut oil
 section3: Chocolate Layer
 start4: 
 section4: 

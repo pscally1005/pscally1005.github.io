@@ -10,7 +10,7 @@ image: /assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-cover.jpg
 ing: pumpkinpie-ing
 facts: pumpkinpie-facts
 section1: Crust
-start2: Pumpkin puree by Whole Foods Market, Inc.
+start2: Pumpkin puree
 section2: Filling
 start3: 
 section3: 

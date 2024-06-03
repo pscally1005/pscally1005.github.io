@@ -10,11 +10,11 @@ image: /assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-cover.jpg
 ing: zoodletaco-ing
 facts: zoodletaco-facts
 section1: Taco Seasoning
-start2: Squash, raw, includes skin, zucchini, summer
+start2: Zucchini
 section2: Zoodles
-start3: Peppers, raw, red, sweet
+start3: Bell pepper
 section3: Peppers & Onions
-start4: Turkey, raw, 7% fat, 93% lean, ground
+start4: Ground turkey, 93/7
 section4: Meat
 start5: 
 section5: 

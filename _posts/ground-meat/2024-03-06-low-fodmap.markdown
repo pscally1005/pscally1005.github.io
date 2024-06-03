@@ -10,9 +10,9 @@ image: /assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg
 ing: lowfodmap-ing
 facts: lowfodmap-facts
 section1: Spice Mix 
-start2: Extra virgin olive oil by QO
+start2: Bell pepper
 section2: Vegetables
-start3: Extra virgin olive oil by OLIO
+start3: Ground chicken thighs
 section3: Meat
 start4: 
 section4: 

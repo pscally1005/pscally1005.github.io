@@ -10,7 +10,7 @@ image: /assets/Food/Ground Meat/Shepards/shepards-cover.jpg
 ing: shepards-ing
 facts: shepards-facts
 section1: Filling
-start2: Cauliflower, unprepared, frozen
+start2: Frozen cauliflower, thawed
 section2: Topping
 start3: 
 section3: 

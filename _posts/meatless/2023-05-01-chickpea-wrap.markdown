@@ -10,7 +10,7 @@ image: /assets/Food/Meatless/Chickpea Wrap/chickpea-wrap.jpg
 ing: chickpeawrap-ing
 facts: chickpeawrap-facts
 section1: Chickpeas
-start2: Tortilla, whole wheat
+start2: Whole wheat tortilla
 section2: Wrap
 start3: 
 section3: 

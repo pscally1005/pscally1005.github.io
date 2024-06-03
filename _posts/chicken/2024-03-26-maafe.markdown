@@ -10,13 +10,13 @@ image: /assets/Food/Chicken/Maafe/maafe-cover.jpg
 ing: maafe-ing
 facts: maafe-facts
 section1: Vegetables
-start2: Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers
+start2: Boneless skinless chicken breast
 section2: Meat Marinade
-start3: Minced garlic by STONEMILL
+start3: Minced garlic
 section3: Spices
-start4: Water, generic, bottled
+start4: Water
 section4: Broth
-start5: Organic natural chunky peanut butter by The Federated Group, Inc.
+start5: Natural peanut butter
 section5: Star of the Show
 Prep: 30
 Rest: 

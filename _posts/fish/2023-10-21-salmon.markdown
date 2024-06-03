@@ -10,7 +10,7 @@ image: /assets/Food/Fish/Salmon/salmon-cover.jpg
 ing: salmon-ing
 facts: salmon-facts
 section1: Salmon
-start2: Onions, raw
+start2: Onion
 section2: Salad
 start3: 
 section3: 

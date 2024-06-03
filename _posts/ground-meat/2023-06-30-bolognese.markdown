@@ -10,9 +10,9 @@ image: /assets/Food/Ground Meat/Bolognese/bolognese-cover.jpg
 ing: bolognese-ing
 facts: bolognese-facts
 section1: Vegetables
-start2: Turkey, raw, 7% fat, 93% lean, ground
+start2: Ground turkey, 93/7
 section2: Meat
-start3: Tomato paste by REDPACK
+start3: Tomato paste
 section3: Sauce & Spices
 start4: 
 section4: 

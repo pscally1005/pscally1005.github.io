@@ -9,13 +9,13 @@ permalink: /recipes/mediterranean-pasta-salad
 image: /assets/Food/Meatless/Pasta Salad/pasta-salad-cover.jpg
 ing: pastasalad-ing
 facts: pastasalad-facts
-section1: Pasta Salad
-start2: Apple cider vinegar by BRAGG
-section2: Dressing
-start3: 
-section3: 
-start4: 
-section4: 
+section1: Roasted Peppers
+start2: Chickpea pasta
+section2: Chickpea Pasta
+start3: Chickpeas, drained and rinsed
+section3: Rest of Pasta Salad
+start4: Apple cider vinegar
+section4: Dressing
 start5: 
 section5: 
 Prep: 20

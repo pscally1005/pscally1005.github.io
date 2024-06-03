@@ -1,9 +1,9 @@
 Ingredient,Amount,Unit,Description
-"Eggs, egg whole, Large, Grade A",50,g,"1 egg"
-"Yogurt, plain, nonfat milk, Greek",31,g,"2 tbsp"
-"Syrups, maple",10,g,"0.5 tbsp"
-"Salt, table",1,g,"1/8 tsp"
+"Large egg",50,g,"1 egg"
+"Plain nonfat greek yogurt",31,g,"2 tbsp"
+"Maple syrup",10,g,"0.5 tbsp"
+"Salt",1,g,"1/8 tsp"
 "Vanilla extract",4,g,"1 tsp"
-"Unsweetened vanilla almond milk, unsweetened vanilla by Danone US, LLC",120,g,"0.5 cup"
-"Whole wheat flour by FAREWAY",62,g,"0.5 cup"
+"Unsweetened vanilla almond milk",120,g,"0.5 cup"
+"Whole wheat flour",62,g,"0.5 cup"
 Servings,10

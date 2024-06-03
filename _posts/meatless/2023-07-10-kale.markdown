@@ -10,7 +10,7 @@ image: /assets/Food/Meatless/Kale/kale.jpg
 ing: kale-ing
 facts: kale-facts
 section1: Vegetables
-start2: Beans, drained solids, canned, pinto
+start2: Pinto beans, drained and rinsed
 section2: Beans
 start3: 
 section3: 

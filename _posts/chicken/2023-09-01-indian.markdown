@@ -10,7 +10,7 @@ image: /assets/Food/Chicken/Indian/indian.jpg
 ing: indian-ing
 facts: indian-facts
 section1: Chicken
-start2: Sweet potato, unprepared, raw
+start2: Sweet potato, washed
 section2: Potatoes
 start3: 
 section3: 

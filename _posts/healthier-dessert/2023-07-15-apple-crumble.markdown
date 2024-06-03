@@ -10,7 +10,7 @@ image: /assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-cover.jpg
 ing: applecrumble-ing
 facts: applecrumble-facts
 section1: Apple Filling
-start2: Cereals, Dry, Quick Oats, QUAKER
+start2: Quick oats
 section2: Crisp Topping
 start3: 
 section3: 

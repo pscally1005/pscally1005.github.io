@@ -10,7 +10,7 @@ image: /assets/Food/Chicken/Fajitas/fajita-cover.jpg
 ing: fajitas-ing
 facts: fajitas-facts
 section1: Chicken Marinade
-start2: Peppers, raw, red, sweet
+start2: Bell pepper
 section2: Onions & Peppers
 start3: 
 section3: 

@@ -10,9 +10,9 @@ image: /assets/Food/Fish/Tzatziki/tzatziki-cover.jpg
 ing: tzatziki-ing
 facts: tzatziki-facts
 section1: Tzatziki
-start2: Brussels sprouts, unprepared, frozen
+start2: Frozen brussel sprouts, thawed
 section2: Brussel Sprouts
-start3: Salmon fillet by WILD ALASKAN SOCKEYE
+start3: Salmon
 section3: Salmon
 start4: 
 section4: 

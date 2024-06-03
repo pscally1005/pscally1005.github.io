@@ -10,7 +10,7 @@ image: /assets/Food/Protein Powder/Apple Bread/apple-bread-cover.jpg
 ing: appplebread-ing
 facts: appplebread-facts
 section1: Dry Ingredients
-start2: Nonfat cottage cheese by FRESH & EASY
+start2: Nonfat cottage cheese
 section2: Wet Ingredients
 start3: 
 section3: 

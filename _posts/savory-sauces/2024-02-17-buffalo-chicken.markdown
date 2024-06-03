@@ -10,7 +10,7 @@ image: /assets/Food/Savory Sauces/Buffalo Chicken/buffalo-dip-cover.jpg
 ing: buffalodip-ing
 facts: buffalodip-facts
 section1: Roasted Carrots
-start2: Shredded rotisserie chicken, rotisserie by Target Stores
+start2: Shredded rotisserie chicken
 section2: Rest of Dip
 start3: 
 section3: 

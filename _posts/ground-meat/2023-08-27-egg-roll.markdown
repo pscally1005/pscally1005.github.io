@@ -10,9 +10,9 @@ image: /assets/Food/Ground Meat/Egg Roll/egg-roll-cover.jpg
 ing: eggroll-ing
 facts: eggroll-facts
 section1: Meat
-start2: Cabbage, raw
+start2: Cabbage
 section2: Vegetables
-start3: Low Sodium Soy Sauce by First Street
+start3: Minced garlic
 section3: Sauce
 start4: 
 section4: 

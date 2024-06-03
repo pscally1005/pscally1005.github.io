@@ -10,9 +10,9 @@ image: /assets/Food/Finger Food/Air Fry Trail Mix/air-fry-trail-cover.jpg
 ing: airfrytrail-ing
 facts: airfrytrail-facts
 section1: Roasted Chickpeas
-start2: Nuts, almonds
+start2: Almonds
 section2: Paprika Spiced Nutes
-start3: Bananas, raw, overripe
+start3: Banana, overripe
 section3: Banana Chips
 start4: 
 section4: 

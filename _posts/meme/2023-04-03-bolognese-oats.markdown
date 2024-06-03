@@ -10,7 +10,7 @@ image: /assets/Food/Meme/Bolognese/bolognese-oats.jpg
 ing: bologneseoats-ing
 facts: bologneseoats-facts
 section1: Bolognese
-start2: Water, generic, bottled
+start2: Water
 section2: Oatmeal
 start3: 
 section3: 

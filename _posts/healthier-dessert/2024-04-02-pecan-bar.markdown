@@ -10,7 +10,7 @@ image: /assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-cover.jpg
 ing: pecanbar-ing
 facts: pecanbar-facts
 section1: Filling
-start2: Extra virgin coconut oil by KELAPO
+start2: Extra virgin coconut oil
 section2: Topping
 start3: 
 section3: 

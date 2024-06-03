@@ -10,7 +10,7 @@ image: /assets/Food/Protein Powder/Cookie Dough/cookie-dough.jpg
 ing: cookiedough-ing
 facts: cookiedough-facts
 section1: Chocolate Chips
-start2: Applesauce, unsweetened
+start2: Unsweetened applesauce
 section2: Cookie Dough
 start3: 
 section3: 

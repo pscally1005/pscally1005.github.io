@@ -10,7 +10,7 @@ image: /assets/Food/Healthier Dessert/PB Pie/pb-pie-cover.jpg
 ing: pbpie-ing
 facts: pbpie-facts
 section1: Crust
-start2: Bananas, raw, overripe
+start2: Banana, overripe
 section2: Filling
 start3: 
 section3: 

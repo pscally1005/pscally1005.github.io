@@ -10,11 +10,11 @@ image: /assets/Food/Ground Meat/Penne/penne-cover.jpg
 ing: penne-ing
 facts: penne-facts
 section1: Pasta
-start2: Extra virgin olive oil by QO
+start2: Extra virgin olive oil
 section2: Onion
-start3: Turkey, raw, 7% fat, 93% lean, ground
+start3: Ground turkey, 93/7
 section3: Meat & Spices
-start4: Panko, crispy breadcrumbs by George DeLallo Co., Inc.
+start4: Panko breadcrumbs
 section4: Topping
 start5: 
 section5: 

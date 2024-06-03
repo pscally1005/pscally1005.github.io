@@ -10,7 +10,7 @@ image: /assets/Food/Chicken/Salad/salad-cover.jpg
 ing: salad-ing
 facts: salad-facts
 section1: Chicken
-start2: Onions, raw
+start2: Onion
 section2: Vegetables & Toppings
 start3: 
 section3: 

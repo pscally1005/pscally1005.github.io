@@ -10,7 +10,7 @@ image: /assets/Food/Ground Meat/Meatballs/meatballs-cover.jpg
 ing: meatballs-ing
 facts: meatballs-facts
 section1: Meatballs
-start2: Squash, raw, includes skin, zucchini, summer
+start2: Zucchini
 section2: Zoodles
 start3: 
 section3: 

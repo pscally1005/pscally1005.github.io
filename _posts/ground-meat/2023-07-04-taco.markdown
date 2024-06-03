@@ -10,9 +10,9 @@ image: /assets/Food/Ground Meat/Taco/taco-cover.jpg
 ing: taco-ing
 facts: taco-facts
 section1: Spice Mix
-start2: Minced garlic by STONEMILL
+start2: Minced garlic
 section2: Meat
-start3: Peppers, raw, red, sweet
+start3: Bell pepper
 section3: Vegetables
 start4: 
 section4: 

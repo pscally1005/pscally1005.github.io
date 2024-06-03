@@ -10,7 +10,7 @@ image: /assets/Food/Ground Meat/Pesto Pita/pesto-pita-cover.jpg
 ing: pestopita-ing
 facts: pestopita-facts
 section1: Pesto
-start2: Onions, raw
+start2: Onion
 section2: Meat & Vegetables
 start3: 
 section3: 

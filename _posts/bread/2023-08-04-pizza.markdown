@@ -10,7 +10,7 @@ image: /assets/Food/Bread/Pizza/pizza-cover.jpg
 ing: pizza-ing
 facts: pizza-facts
 section1: Pizza
-start2: Tomato products, sauce, canned
+start2: Unsweetened tomato sauce
 section2: Toppings
 start3: 
 section3: 

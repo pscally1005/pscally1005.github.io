@@ -10,9 +10,9 @@ image: /assets/Food/Meatless/Eggplant Salad/eggplant-salad-cover.jpg
 ing: eggplantsalad-ing
 facts: eggplantsalad-facts
 section1: Roasted Eggplant
-start2: Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds
+start2: Chickpeas, drained and rinsed
 section2: Salad Veggies
-start3: Extra virgin olive oil by OLIO
+start3: White vinegar
 section3: Dressing
 start4: 
 section4: 

@@ -10,7 +10,7 @@ image: /assets/Food/Fish/Fish Chips/fish-chips-cover.jpg
 ing: fishchips-ing
 facts: fishchips-facts
 section1: Fish
-start2: Fish, raw, tilapia
+start2: Tilapia
 section2: Chips
 start3: 
 section3: 

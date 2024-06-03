@@ -10,7 +10,7 @@ image: /assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-cover.jpg
 ing: bbqmeat-ing
 facts: bbqmeat-facts
 section1: Meatloaf
-start2: Broccoli, unprepared, chopped, frozen
+start2: Frozen broccoli, thawed
 section2: Broccoli
 start3: 
 section3: 

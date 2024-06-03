@@ -10,9 +10,9 @@ image: /assets/Food/Chicken/Caprese/caprese-cover.jpg
 ing: caprese-ing
 facts: caprese-facts
 section1: Chicken
-start2: Balsamic vinegar of modena
+start2: Tomato
 section2: Tomatoes
-start3: Artichoke hearts by MATIZ
+start3: Artichokes
 section3: Artichokes
 start4: 
 section4: 

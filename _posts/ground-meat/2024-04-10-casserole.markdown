@@ -10,9 +10,9 @@ image: /assets/Food/Ground Meat/Casserole/casserole-cover.jpg
 ing: casserole-ing
 facts: casserole-facts
 section1: Spinach & Onions
-start2: Beef, raw, 93% lean meat / 7% fat, ground
+start2: Ground beef, 93/7
 section2: Meat
-start3: Cauliflower, unprepared, frozen
+start3: Frozen cauliflower, thawed
 section3: Cauliflower Rice
 start4: 
 section4: 

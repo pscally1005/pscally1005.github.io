@@ -10,7 +10,7 @@ image: /assets/Food/Fish/Fra Diavolo/fra-diavolo-cover.jpg
 ing: fradiavolo-ing
 facts: fradiavolo-facts
 section1: Sauce
-start2: Minced garlic by MEMBER'S MARK
+start2: Minced garlic
 section2: Shrimp
 start3: 
 section3: 

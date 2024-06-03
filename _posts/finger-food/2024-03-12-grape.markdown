@@ -10,9 +10,9 @@ image: /assets/Food/Finger Food/Grape/grape-cover.jpg
 ing: grape-ing
 facts: grape-facts
 section1: Rice
-start2: Grape leaves, raw
+start2: Grape leaves
 section2: Grape Leaves
-start3: Onions, raw
+start3: Onion
 section3: Rest of Filling
 start4: 
 section4: 

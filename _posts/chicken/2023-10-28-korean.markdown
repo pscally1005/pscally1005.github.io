@@ -10,11 +10,11 @@ image: /assets/Food/Chicken/Korean/korean-cover.jpg
 ing: korean-ing
 facts: korean-facts
 section1: Chicken
-start2: Onions, raw
+start2: Onion
 section2: Vegetables
-start3: Sweet potato, unprepared, raw
+start3: Sweet potato, washed
 section3: Potatoes
-start4: Gochujang sauce by BRANDLESS
+start4: Gochujang
 section4: Sauce
 start5: 
 section5: 

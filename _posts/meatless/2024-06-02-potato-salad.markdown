@@ -9,12 +9,12 @@ permalink: /recipes/mediterranean-potato-salad
 image: /assets/Food/Meatless/Potato Salad/potato-salad-cover.jpg
 ing: potatosalad-ing
 facts: potatosalad-facts
-section1: Roasted Peppers
-start2: Peppers, raw, red, sweet
+section1: Roasted Potatoes
+start2: Bell pepper
 section2: Roasted Peppers
-start3: Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds
+start3: Chickpeas, drained and rinsed
 section3: Rest of Salad
-start4: Apple cider vinegar by BRAGG
+start4: Apple cider vinegar
 section4: Dressing
 start5: 
 section5: 

@@ -10,9 +10,9 @@ image: /assets/Food/Healthier Dessert/Rainbow/rainbow-cover.jpg
 ing: rainbow-ing
 facts: rainbow-facts
 section1: Cookies
-start2: Smucker's Raspberry Sugar Free Jam
+start2: Low sugar berry jam
 section2: Jam
-start3: Oil, coconut
+start3: Extra virgin coconut oil
 section3: Chocolate
 start4: 
 section4: 

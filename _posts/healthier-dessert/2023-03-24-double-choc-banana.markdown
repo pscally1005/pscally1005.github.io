@@ -10,10 +10,10 @@ image: /assets/Food/Healthier Dessert/Choc Bread/choc-bread-cover.jpg
 ing: chocbread-ing
 facts: chocbread-facts
 section1: Wet
-start2: Organic oat flour by The Hain Celestial Group, Inc.
+start2: Oat flour
 section2: Dry
-start3: Dark chocolate baking chips, dark chocolate by LILYS
-section3: Mix0ins
+start3: Sugar free chocolate chips
+section3: Mix-ins
 start4: 
 section4: 
 start5: 

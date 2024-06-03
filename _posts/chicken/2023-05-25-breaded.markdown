@@ -10,13 +10,13 @@ image: /assets/Food/Chicken/Breaded/breaded-cover.jpg
 ing: breaded-ing
 facts: breaded-facts
 section1: Chicken Dry Brine
-start2: Almond flour by RALEY'S
+start2: Almond flour
 section2: Flour Plate
-start3: Eggs, egg whole, Large, Grade A
+start3: Large egg
 section3: Egg Wash
-start4: Oat flour by Bob's Red Mill Natural Foods, Inc.
+start4: Oat flour
 section4: Breading (or use 100 g panko)
-start5: Tomatoes, raw
+start5: Tomato
 section5: Bruschetta
 Prep: 30
 Rest: 

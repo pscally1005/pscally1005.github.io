@@ -10,7 +10,7 @@ image: /assets/Food/Healthier Dessert/Truffle/truffle-cover.jpg
 ing: truffle-ing
 facts: truffle-facts
 section1: Truffles
-start2: Oil, coconut
+start2: Extra virgin coconut oil
 section2: Chocolate
 start3: 
 section3: 

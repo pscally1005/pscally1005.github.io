@@ -10,7 +10,7 @@ image: /assets/Food/Breakfast/PBJ Muffin/pbj-muffin.jpg
 ing: pbjmuffin-ing
 facts: pbjmuffin-facts
 section1: Wet
-start2: Oat flour by Bob's Red Mill Natural Foods, Inc.
+start2: Oat flour
 section2: Dry
 start3: 
 section3: 

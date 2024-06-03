@@ -10,9 +10,9 @@ image: /assets/Food/Meme/PB Whey/pb-whey.jpg
 ing: pbwhey-ing
 facts: pbwhey-facts
 section1: Bread
-start2: Natural peanut butter by HAMPTON FARMS
+start2: Natural peanut butter
 section2: Peanut Butter
-start3: Bananas, raw, overripe
+start3: Banana, overripe
 section3: Jelly
 start4: 
 section4: 

@@ -10,7 +10,7 @@ image: /assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-cover.jpg
 ing: spinachmeat-ing
 facts: spinachmeat-facts
 section1: Butternut Squash
-start2: Turkey, raw, 7% fat, 93% lean, ground
+start2: Ground turkey, 93/7
 section2: Meatloaf
 start3: 
 section3: 

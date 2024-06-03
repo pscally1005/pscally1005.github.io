@@ -12,7 +12,7 @@ facts: namsod-facts
 section1: Dressing
 start2: Sesame oil
 section2: Meat & Cooked Vegetables
-start3: Lettuce, raw, cos or romaine
+start3: Romaine lettuce
 section3: Salad Base
 start4: 
 section4: 

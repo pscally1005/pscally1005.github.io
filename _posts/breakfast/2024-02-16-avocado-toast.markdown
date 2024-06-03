@@ -10,9 +10,9 @@ image: /assets/Food/Breakfast/Avocado Toast/toast.jpg
 ing: toast-ing
 facts: toast-facts
 section1: Bread
-start2: Avocados, California, raw
+start2: Avocado
 section2: Avocado Mix
-start3: Tomatoes, raw
+start3: Tomato
 section3: Topping
 start4: 
 section4: 

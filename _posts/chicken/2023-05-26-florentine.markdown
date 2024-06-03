@@ -10,9 +10,9 @@ image: /assets/Food/Chicken/Florentine/florentine-cover.jpg
 ing: florentine-ing
 facts: florentine-facts
 section1: Spinach
-start2: Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers
+start2: Boneless skinless chicken breast
 section2: Chicken
-start3: Low sodium chicken broth by Glencourt Inc.
+start3: Low sodium chicken broth
 section3: Sauce
 start4: 
 section4: 

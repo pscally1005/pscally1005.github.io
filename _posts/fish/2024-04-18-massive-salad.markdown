@@ -10,9 +10,9 @@ image: /assets/Food/Fish/Massive Salad/massive-salad-cover.jpg
 ing: massivesalad-ing
 facts: massivesalad-facts
 section1: Dressing
-start2: Lettuce, raw, cos or romaine
+start2: Romaine lettuce
 section2: Salad
-start3: Fish, drained solids, canned in water, light, tuna
+start3: Tuna, in water
 section3: Protein
 start4: 
 section4: 

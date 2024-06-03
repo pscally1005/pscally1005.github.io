@@ -10,7 +10,7 @@ image: /assets/Food/Breakfast/Scrambled/scrambled-cover.jpg
 ing: scrambled-ing
 facts: scrambled-facts
 section1: Eggs
-start2: Carrots, raw, baby
+start2: Baby carrots
 section2: Side
 start3: 
 section3: 

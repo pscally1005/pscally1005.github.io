@@ -10,7 +10,7 @@ image: /assets/Food/Ground Meat/Sloppy Joe/sloppy-joe.jpg
 ing: sloppyjoe-ing
 facts: sloppyjoe-facts
 section1: Vegetables
-start2: Turkey, raw, 7% fat, 93% lean, ground
+start2: Ground turkey, 93/7
 section2: Meat & Spices
 start3: 
 section3: 

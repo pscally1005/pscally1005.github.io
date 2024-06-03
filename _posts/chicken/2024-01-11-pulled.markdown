@@ -10,7 +10,7 @@ image: /assets/Food/Chicken/Pulled/pulled-cover.jpg
 ing: pulled-ing
 facts: pulled-facts
 section1: Chicken
-start2: Cabbage, raw, green
+start2: Cabbage
 section2: Coleslaw
 start3: 
 section3: 

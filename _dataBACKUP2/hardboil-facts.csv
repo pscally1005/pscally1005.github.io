@@ -1,0 +1,95 @@
+Nutrient,Amount,Unit,DV
+Calories,74,,
+"Vitamin A, RAE",90.54,mcg,10 %
+"Carotene, alpha",0,mcg,
+"Carotene, beta",0,mcg,
+"Cryptoxanthin, beta",6.54,mcg,
+"Lutein",115.69,mcg,
+"Lycopene",0,mcg,
+"Retinol",90.04,mcg,
+"Zeaxanthin",115.19,mcg,
+"cis-Lutein/Zeaxanthin",28.67,mcg,
+"cis-Lycopene",0,mcg,
+"cis-beta-Carotene",0,mcg,
+"trans-Lycopene",0,mcg,
+"trans-beta-Carotene",0,mcg,
+"Thiamin [Vitamin B1]",0.039,mg,3 %
+"Riboflavin [Vitamin B2]",0.211,mg,16 %
+"Niacin [Vitamin B3]",0,mg,0 %
+"Vitamin B6",0.032,mg,2 %
+"Vitamin B12 [Cobalamin]",0.51,mcg,21 %
+"Vitamin D",1.24,mcg,6 %
+"Vitamin D2",0,mcg,
+"Vitamin D3",1.24,mcg,
+"Betaine",0.2,mg,
+"Choline",168.5,mg,31 %
+"Calcium",24.14,mg,2 %
+"Copper",0,mg,0 %
+"Iodine",24.7,mcg,16 %
+"Iron",0.84,mg,5 %
+"Magnesium",5.73,mg,1 %
+"Manganese",0,mg,0 %
+"Phosphorus",92.55,mg,7 %
+"Potassium",66.4,mg,1 %
+"Selenium",15.64,mcg,28 %
+"Sodium",64.89,mg,3 %
+"Zinc",0.62,mg,6 %
+"Protein",6.24,g,12 %
+"Alanine",0.336,g,
+"Arginine",0.396,g,
+"Aspartic acid",0.639,g,
+"Cysteine",0.19,g,
+"Glutamic acid",0.82,g,
+"Glycine",0.205,g,
+"Histidine",0.142,g,12 %
+"Hydroxyproline",0,g,
+"Isoleucine",0.31,g,20 %
+"Leucine",0.528,g,15 %
+"Lysine",0.418,g,13 %
+"Methionine",0.21,g,
+"Phenylalanine",0.332,g,
+"Proline",0.282,g,
+"Serine",0.462,g,
+"Threonine",0.299,g,18 %
+"Tryptophan",0.083,g,20 %
+"Tyrosine",0.258,g,
+"Valine",0.369,g,19 %
+"Phenylalanine + Tyrosine",0.59,g,22 %
+"Methionine + Cysteine",0.4,g,26 %
+"Carbohydrate",0.48,g,0 %
+"Fiber",0,g,0 %
+"Starch",0,g,
+"Fructose",0,g,
+"Glucose",0.1,g,
+"Lactose",0,g,
+"Maltose",0,g,
+"Sucrose",0,g,
+"Net carbs",0.48,g,
+"",0.75 g,undefined,
+"Fat",5.01,g,6 %
+"Saturated fatty acids",1.61,g,8 %
+"Hexadecanoic acid",1.167,g,
+"Octadecanoic acid",0.409,g,
+"Tetradecanoic acid",0.016,g,
+"Monounsaturated fatty acids",1.826,g,
+"Cis-hexadecenoic acid",0.12,g,
+"Cis-octadecenoic acid",1.685,g,
+"Polyunsaturated fatty acids",0.915,g,
+"γ-linolenic acid n-6 (GLA)",0.01,g,
+"Linoleic acid n-6 (LA)",0.73,g,
+"Eicosadienoic n-6 acid",0.01,g,
+"18:2 c",0.73,g,
+"18:3 c",0.01,g,
+"20:3 c",0.01,g,
+"Cholesterol",206.73,mg,69 %
+"25-hydroxycholecalciferol",0.28,mcg,
+"Ash",0.43,g,
+"Carbohydrate, by summation",0.1,g,
+"Choline, free",0.3,mg,
+"Choline, from glycerophosphocholine",0.1,mg,
+"Choline, from phosphocholine",155.43,mg,
+"Choline, from phosphotidyl choline",0.1,mg,
+"Choline, from sphingomyelin",12.63,mg,
+"Cryptoxanthin, alpha",6.54,mcg,
+"Nitrogen",1,g,
+"Water",38.13,g,

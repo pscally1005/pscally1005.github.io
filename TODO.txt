@@ -2,4 +2,8 @@ other posts tab (ingredient substitutions, health info, homemade ricotta/whey, p
 
 add my other python codes to website (split calc, bmi, etc.)
 
-comments, liking, share post button
+reformat ingredients and nutrition facts tables
+
+python script to fix volume measurements
+
+combine parse-csv.py, ingredients.py, and volume.py into 1 file

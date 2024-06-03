@@ -10,7 +10,7 @@ image: /assets/Food/Ground Meat/Lemon Feta/lemon-feta.jpg
 ing: lemonfeta-ing
 facts: lemonfeta-facts
 section1: Vegetables
-start2: Chicken, raw, ground
+start2: Ground chicken thighs
 section2: Meat
 start3: Cheese, feta
 section3: Topping

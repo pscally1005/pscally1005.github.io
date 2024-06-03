@@ -10,7 +10,7 @@ image: /assets/Food/Finger Food/Eggplant Pizza/eggplant-pizza-cover.jpg
 ing: eggplantpizza-ing
 facts: eggplantpizza-facts
 section1: Roasted Eggplant
-start2: Hunt's, pasta sauce, no added sugar, hunt's, pasta sauce, no added sugar by Conagra Brands, Inc.
+start2: Unsweetened tomato sauce
 section2: Pizza Toppings
 start3: 
 section3: 

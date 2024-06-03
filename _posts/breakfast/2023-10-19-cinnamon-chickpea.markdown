@@ -10,9 +10,9 @@ image: /assets/Food/Breakfast/Chickpea/chickpea-cover.jpg
 ing: cinchick-ing
 facts: cinchick-facts
 section1: Cereal
-start2: Unsweetened vanilla almond milk, unsweetened vanilla by Danone US, LLC
+start2: Unsweetened vanilla almond milk
 section2: Milk
-start3: Blackberries, unsweetened, frozen
+start3: Frozen blackberries
 section3: Toppings
 start4: 
 section4: 

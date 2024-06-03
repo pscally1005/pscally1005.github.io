@@ -10,7 +10,7 @@ image: /assets/Food/Healthier Dessert/CC Cookies/cc-cookies.jpg
 ing: cottagecheesecookies-ing
 facts: cottagecheesecookies-facts
 section1: Chocolate Chips
-start2: Nonfat cottage cheese by FRESH & EASY
+start2: Nonfat cottage cheese
 section2: Cookie Dough
 start3: 
 section3: 

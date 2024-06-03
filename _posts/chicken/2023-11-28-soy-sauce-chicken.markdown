@@ -10,7 +10,7 @@ image: /assets/Food/Chicken/Soy Sauce/soy-sauce-cover.jpg
 ing: soysauce-ing
 facts: soysauce-facts
 section1: Chicken
-start2: Brussels sprouts, unprepared, frozen
+start2: Frozen brussel sprouts, thawed
 section2: Brussel Sprouts
 start3: 
 section3: 

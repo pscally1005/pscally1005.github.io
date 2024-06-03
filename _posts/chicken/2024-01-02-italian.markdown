@@ -10,7 +10,7 @@ image: /assets/Food/Chicken/Italian/italian-cover.jpg
 ing: italian-ing
 facts: italian-facts
 section1: Acorn Squash
-start2: Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers
+start2: Boneless skinless chicken breast
 section2: Chicken
 start3: 
 section3: 

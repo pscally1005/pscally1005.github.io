@@ -10,7 +10,7 @@ image: /assets/Food/Healthier Dessert/Chickpea Cookies/chickpea-cookies.jpg
 ing: chickpeacookies-ing
 facts: chickpeacookies-facts
 section1: Chocolate Chips
-start2: Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds
+start2: Chickpeas, drained and rinsed
 section2: Cookie Dough
 start3: 
 section3: 

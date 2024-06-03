@@ -10,9 +10,9 @@ image: /assets/Food/Chicken/Buffalo/buffalo-cover.jpg
 ing: buffalochicken-ing
 facts: buffalochicken-facts
 section1: Vegetables
-start2: Hot sauce by LOUISIANA
+start2: Hot sauce
 section2: Sauce
-start3: Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers
+start3: Boneless skinless chicken breast
 section3: Chicken
 start4: 
 section4: 

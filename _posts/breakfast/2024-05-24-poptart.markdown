@@ -10,9 +10,9 @@ image: /assets/Food/Breakfast/PopTart/poptart-cover.jpg
 ing: poptart-ing
 facts: poptart-facts
 section1: Dough
-start2: No Sugar Added Apple Spread
+start2: No sugar added apple spread
 section2: Filling
-start3: Natural peanut butter by HAMPTON FARMS
+start3: Natural peanut butter
 section3: Topping
 start4: 
 section4: 

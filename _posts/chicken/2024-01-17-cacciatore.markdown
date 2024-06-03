@@ -10,7 +10,7 @@ image: /assets/Food/Chicken/Cacciatore/cacciatore-cover.jpg
 ing: cacciatore-ing
 facts: cacciatore-facts
 section1: Chicken
-start2: Sweet potato, unprepared, raw
+start2: Sweet potato, washed
 section2: Vegetables
 start3: 
 section3: 
