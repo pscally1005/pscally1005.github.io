@@ -1,8 +1,8 @@
 Ingredient,Amount,Unit,Description
 "Onion",70,g,"1 small"
 "Chickpeas, drained and rinsed",253,g,"1 can drained"
-"Kidney beans, drained and rinsed",266,g,"1 can drained solids"
-"Black beans, drained and rinsed",277,g,"1 can drained solids"
+"Kidney beans, drained and rinsed",266,g,"15.5oz can"
+"Black beans, drained and rinsed",277,g,"15.5oz can"
 "Tomato",180,g,"3 Italian tomato"
 "Bell pepper",74,g,"1 small"
 "Feta cheese",50,g,"0.33 cup, crumbled"
@@ -14,6 +14,6 @@ Ingredient,Amount,Unit,Description
 "Minced garlic",15,g,"1 tbsp"
 "Basil, dried",2,g,"1 tbsp, leaves"
 "Thyme, dried",3,g,"1 tbsp, leaves"
-"Black pepper, ground",1,g,"1/2 tsp, ground"
+"Black pepper, ground",1,g,"1/2 tsp"
 "Salt",1.5,g,"1/4 tsp"
 Servings,6
