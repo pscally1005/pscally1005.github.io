@@ -24,13 +24,13 @@ def fix(vol):
         return str("1/2 tbsp")
     elif vol == "0.66 tbsp" or vol == "0.67 tbsp" or vol == "0.66 tbsp (15.0 ml) aprx" or vol == "0.67 tbsp (15.0 ml) aprx" or vol == "2 tsp, leaves" or vol == "2 tsp, leaves" or vol == "2 tsp | about" or vol == "2 tsp (1.2 ml) aprx" or vol == "2 teaspoon" or vol == "0.67 tablespoon" or vol == "0.66 tablespoon" or vol == "6 1/4 tsp":
         return str("2 tsp")
-    elif vol == "3 tsp" or vol == "0.0625 cup" or vol == "3 tsp, leaves" or vol == "1 tbsp (15.0 ml) aprx" or vol == "3 tsp, ground" or vol == "1 tablespoon" or vol == "3 tsp | about" or vol == "0.0625 cup (240.0 ml) aprx" or vol == "3 tsp (1.2 ml) aprx" or vol == "3 teaspoon" or vol == "9 1/4 tsp" or vol == "tbsp":
+    elif vol == "3 tsp" or vol == "0.0625 cup" or vol == "3 tsp, leaves" or vol == "1 tbsp (15.0 ml) aprx" or vol == "3 tsp, ground" or vol == "1 tablespoon" or vol == "3 tsp | about" or vol == "0.0625 cup (240.0 ml) aprx" or vol == "3 tsp (1.2 ml) aprx" or vol == "3 teaspoon" or vol == "9 1/4 tsp" or vol == "tbsp" or vol == "0.0825 cup (60.0 ml) aprx":
         return str("1 tbsp")
     elif vol == "6 tsp" or vol == "0.125 cup" or vol == "6 tsp, leaves" or vol == "2 tbsp (15.0 ml) aprx" or vol == "2 tablespoon" or vol == "0.125 cup (240.0 ml) aprx":
         return str("2 tbsp")
     elif vol == "9 tsp":
         return str("3 tbsp")
-    elif vol == "4 tbsp" or vol == "0.25 cup" or vol == "0.25 cup (240.0 ml) aprx" or vol =="0.25 cup, sliced":
+    elif vol == "4 tbsp" or vol == "0.25 cup" or vol == "0.25 cup (240.0 ml) aprx" or vol =="0.25 cup, sliced" or vol =="0.3325 cup (60.0 ml) aprx":
         return str("1/4 cup")
     elif vol == "5.33 tbsp" or vol == "0.33 cup" or vol == "0.33 cup (240.0 ml) aprx":
         return str("1/3 cup")
@@ -85,9 +85,9 @@ def main():
 
     # path to csv files
     # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
-    path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
+    # path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
     # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*.csv"
-    # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
+    path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
 
     # loop through all the files
     for fname in glob.glob(path):
