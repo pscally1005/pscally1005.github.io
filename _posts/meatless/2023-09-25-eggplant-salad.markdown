@@ -33,7 +33,6 @@ tags:
 - grill pan
 - roasted eggplant
 - feta
-- cucumber
 - dressing
 - lemon juice
 Description: This simple salad combined grilled or baked eggplant, canned chickpeas, and feta to make a delicious salad for lunch or as a dinner side. This salad also doesn't have any lettuce if you're into that.

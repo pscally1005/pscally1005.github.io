@@ -1,6 +1,6 @@
 Ingredient,Amount,Unit,Description
-"Frozen spinach, thawed",454,g,"1 pound"
-"Onion",70,g,"1 small"
+"Frozen spinach, thawed",454,g,"1 lb"
+"Onion",70,g,"1 medium"
 "Hot sauce",60,g,"1/4 cup"
 "Minced garlic",45,g,"3 tbsp"
 "Garlic powder",3,g,"1 tsp"
@@ -9,7 +9,7 @@ Ingredient,Amount,Unit,Description
 "Chili powder",3,g,"1 tsp"
 "Black pepper, ground",1,g,"1/2 tsp"
 "Salt",2,g,"1/4 tsp"
-"Large egg",302,g,"6 egg"
+"Egg",302,g,"6 large"
 "Shredded mozzarella cheese",84,g,"3/4 cup"
 "Salsa",168,g,"3/4 cup"
 "Whole wheat tortilla",300,g,"6 medium"

@@ -4,8 +4,10 @@ import glob
 import csv
 
 # path to csv files
-path = r"C:\Users\mets1\Documents\website\_data\*.csv"
+# path = r"C:\Users\mets1\Documents\website\_data\*.csv"
+path = r"C:\Users\mets1\Documents\website\python\testing\*.csv"
 # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*.csv"
+# path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*.csv"
 
 # loop through all the files
 changed = 0

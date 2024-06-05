@@ -1,6 +1,6 @@
 Ingredient,Amount,Unit,Description
-"Bell pepper",74,g,"1 small"
-"Onion",70,g,"1 small"
+"Bell pepper",74,g,"1 medium"
+"Onion",70,g,"1 medium"
 "Salt",2,g,"1/4 tsp"
 "Minced garlic",10,g,"2 tsp"
 "Diced tomatoes, unsalted",411,g,"14.5 oz can"
@@ -10,5 +10,5 @@ Ingredient,Amount,Unit,Description
 "Onion powder",2,g,"1 tsp"
 "Cumin, ground",2,g,"1/2 tsp"
 "Black pepper, ground",1,g,"1/2 tsp"
-"Large egg",151,g,"3 egg"
+"Egg",151,g,"3 large"
 Servings,1

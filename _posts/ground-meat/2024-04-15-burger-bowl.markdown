@@ -12,7 +12,7 @@ facts: burgerbowl-facts
 section1: Potatoes
 start2: Shredded cheddar cheese
 section2: Cheese
-start3: Ground beef 93/7
+start3: Ground beef, 93/7
 section3: Burger
 start4: Romaine lettuce
 section4: Salad

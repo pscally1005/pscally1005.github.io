@@ -1,5 +1,5 @@
 Ingredient,Amount,Unit,Description
-"Banana, overripe",110,g,"1 Banana"
+"Banana, overripe",110,g,"1 medium"
 "Whey protein powder, unflavored",15,g,"1/2 scoop"
 "Casein protein powder, unflavored",15,g,"1/2 scoop"
 "Oat flour",23,g,"1/4 cup"
@@ -8,7 +8,7 @@ Ingredient,Amount,Unit,Description
 "Cinnamon",3,g,"1 tsp"
 "Baking powder",5,g,"1 tsp"
 "Pumpkin puree",425,g,"15oz can"
-"Large egg",101,g,"2 egg"
+"Egg",101,g,"2 large"
 "Water",60,g,"1/4 cup"
 "Cinnamon",4,g,"1/2 tbsp"
 "Salt",3,g,"1/2 tsp"
@@ -18,5 +18,5 @@ Ingredient,Amount,Unit,Description
 "Plain nonfat greek yogurt",60,g,"1/4 cup"
 "Liquid stevia or monk fruit",4,g,"1 tsp"
 "Vanilla extract",2,g,"1/2 tsp"
-"Whey protein powder, unflavored",60,g,"2 scoops"
+"Whey protein powder, unflavored",60,g,"2 scoop"
 Servings,8

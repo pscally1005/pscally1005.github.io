@@ -50,8 +50,8 @@ def ingredients(food):
         return str("Baking soda")
     elif food == "Buttermilk, low fat (1%)":
         return str("Buttermilk")
-    elif food == "Eggs, egg whole, Large, Grade A":
-        return str("Large egg")
+    elif food == "Eggs, egg whole, Large, Grade A" or food == "Large egg" or food == "Large Egg":
+        return str("Egg")
     elif food == "Organic coconut flour by Bob's Red Mill Natural Foods, Inc.":
         return str("Coconut flour")
     elif food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder":
@@ -92,7 +92,7 @@ def ingredients(food):
         return str("Natural peanut butter")
     elif food == "Spinach, unprepared, chopped or leaf, frozen":
         return str("Frozen spinach, thawed")
-    elif food == "Onions, raw" or food == "Onions, raw, red":
+    elif food == "Onions, raw" or food == "Onions, raw, red" or food == "Onions, raw, yellow" or food == "Onions, raw, white":
         return str("Onion")
     elif food == "Hot sauce by LOUISIANA" or food == "Hot sauce, louisiana style by La Preferida In" or food == "Hot sauce, louisiana style by La Preferida Inc" or food == "Sauce by LOUISIANA":
         return str("Hot sauce")
@@ -156,6 +156,8 @@ def ingredients(food):
         return str("Sugar free syrup")
     elif food == "Strawberries, unsweetened, frozen":
         return str("Frozen strawberries")
+    elif food == "Strawberries, raw":
+        return str("Strawberries")
     elif food == "Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers":
         return str("Boneless skinless chicken breast")
     elif food == "Italian seasoning by Raley's" or food == "Italian seasoning by ROUNDY'S":
@@ -395,9 +397,9 @@ def main():
 
     # path to csv files
     # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
-    # path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
+    path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
     # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*.csv"
-    path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
+    # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
 
     # loop through all the files
     for fname in glob.glob(path):

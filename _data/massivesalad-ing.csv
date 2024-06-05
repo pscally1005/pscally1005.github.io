@@ -1,5 +1,5 @@
 Ingredient,Amount,Unit,Description
-"Plain nonfat greek yogurt",61,g,"1.4 cup"
+"Plain nonfat greek yogurt",61,g,"1/4 cup"
 "Powdered peanut butter",7,g,"1 tbsp"
 "Balsamic vinegar",16,g,"1 tbsp"
 "Low sodium soy sauce",5,g,"1 tsp"
@@ -7,11 +7,11 @@ Ingredient,Amount,Unit,Description
 "Onion powder",1,g,"1/4 tsp"
 "Black pepper, ground",1,g,"1/4 tsp"
 "Water",15,g,"1 tbsp"
-"Romaine lettuce",113,g,"4 ounce"
-"Spinach, fresh",57,g,"2 ounce"
-"Tomato",60,g,"1 Italian tomato"
+"Romaine lettuce",113,g,"4 oz"
+"Spinach, fresh",57,g,"2 oz"
+"Tomato",60,g,"1 medium"
 "Bell pepper",119,g,"1 medium"
-"Feta cheese",14,g,"1/2 ounce"
-"Walnuts",14,g,"1/2 ounce"
+"Feta cheese",14,g,"1/2 oz"
+"Walnuts",14,g,"1/2 oz"
 "Tuna, in water",113,g,"4 oz"
 Servings,1
