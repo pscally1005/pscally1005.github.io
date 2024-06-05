@@ -110,7 +110,7 @@ def ingredients(food):
         return str("Low sugar berry jam")
     elif food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
         return str("Nonfat cottage cheese")
-    elif food == "Spices, ground, nutmeg":
+    elif food == "Spices, ground, nutmeg" or food == "Ground nutmeg by Rose Spice, Inc.":
         return str("Nutmeg, ground")
     elif food == "Blackberries, unsweetened, frozen":
         return str("Frozen blackberries")
@@ -152,7 +152,7 @@ def ingredients(food):
         return str("Low sodium soy sauce")
     elif food == "Spices, dried, parsley":
         return str("Parsley, dried")
-    elif food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc.":
+    elif food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":
         return str("Sugar free syrup")
     elif food == "Strawberries, unsweetened, frozen":
         return str("Frozen strawberries")

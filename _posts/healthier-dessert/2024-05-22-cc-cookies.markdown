@@ -70,5 +70,5 @@ Instructions:
 - Let cool on the pan for 5 minutes before transferring to a wire rack to cool completely.  Store in an airtight container in the fridge<br><br>
 
 - You can also enjoy these as edible cookie dough bites<br><br>
-- - <center><img src="/assets/Food/Healthier Dessert/CC Cookies/cc-cookie-dough.jpg" alt="" class="instruction-image"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/CC Cookies/cc-cookie-dough.jpg" alt="" class="instruction-image"></center>
 ---
