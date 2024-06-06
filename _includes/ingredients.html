@@ -5,7 +5,12 @@
         <i><font size="+2">{{ page.section1 }}</font></i>
     {% endif %}
 
-    {% for row in site.data[page.ing] %}
+    {% assign ing = page.ing %}
+    {% if include.ing %}
+        {% assign ing = include.ing %}
+    {% endif %}
+
+    {% for row in site.data[ing] %}
         {% if forloop.last %}
             
         {% else %}

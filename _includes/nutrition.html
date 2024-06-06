@@ -9,8 +9,13 @@
         {% endif %}
     {% endfor %}
 
+    {% assign facts = page.facts %}
+    {% if include.facts %}
+        {% assign facts = include.facts %}
+    {% endif %}
+
     {% assign i = 0 %}
-    {% for row in site.data[page.facts] %}
+    {% for row in site.data[facts] %}
         {% if row.Nutrient == "Calories" or row.Nutrient == "Fat" or row.Nutrient == "Saturated fatty acids" or row.Nutrient == "Sodium" or row.Nutrient == "Cholesterol" or row.Nutrient == "Carbohydrate" or row.Nutrient == "Fiber" or row.Nutrient == "Sugars" or row.Nutrient == "Protein" %}
             {% tablerow pair in row %}
                 <b style="color: lightgray">{{ pair[1] }}</b>
