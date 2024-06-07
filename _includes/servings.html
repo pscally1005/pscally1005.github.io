@@ -5,5 +5,5 @@
 
 {% if ing %}
     {% assign ser = site.data[ing].last %}
-    <b><u><font size="+2">{{ ser["Ingredient"] }}</u>: {{ ser["Amount"] }}</b></font>
+    <b>{{ ser["Ingredient"] }}</b>: {{ ser["Amount"] }}
 {% endif %}

@@ -35,16 +35,14 @@ layout: base
       {{ page.oil }}<br><br>
     {% endif %}
     {% include ingredients.html ing=page.oil-ing %}
-    {% include servings.html ing=page.oil-ing %}
-    {% include nutrition.html facts=page.oil-facts %}
+    {% include nutrition.html ing=page.oil-ing facts=page.oil-facts %}
 
     <!-- Sweet Potato -->
     {% if page.sweet-potato %}
       {{ page.sweet-potato }}<br><br>
     {% endif %}
     {% include ingredients.html ing=page.sweet-potato-ing %}
-    {% include servings.html ing=page.sweet-potato-ing %}
-    {% include nutrition.html facts=page.sweet-potato-facts %}
+    {% include nutrition.html ing=page.sweet-potato-ing facts=page.sweet-potato-facts %}
 
     <!-- Mixing -->
     {% if page.mixing %}

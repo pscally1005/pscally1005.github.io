@@ -72,6 +72,6 @@ Instructions:
 
 - Finally, in a large glass, prepare the dressing.  Pour in the apple cider vinegar, lemon juice, extra virgin olive oil, balsamic vinegar, Dijon mustard, and minced garlic.  Add in your spices (basil, thyme, oregano, garlic, onion, lemon pepper, and red pepper flakes).  Stir with a spoon<br><br>
 
-- Pour the dressing over your salad, and serve either cold or warm
+- Pour the dressing over your salad, and serve either cold or warm<br><br>
 - <center><img src="/assets/Food/Meatless/Potato Salad/potato-salad-6.jpg" alt="" class="instruction-image"></center>
 ---

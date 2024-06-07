@@ -2,8 +2,6 @@ other posts tab (ingredient substitutions, health info, homemade ricotta/whey, p
 
 add my other python codes to website (split calc, bmi, etc.)
 
-reformat ingredients and nutrition facts tables
-
 combine parse-csv.py, ingredients.py, and volume.py into 1 file
 
 stuffle button

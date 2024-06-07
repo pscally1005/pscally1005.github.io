@@ -7,6 +7,8 @@
 {% if totaltime > 0 %}
     <b><u><font size="+2">Time</font></u></b><br>
 
+    <font size="+1">
+
     {% if page.Prep > 0 %}
     <b>Prep Time:</b> {% if page.Prep >= 60 %}{{ page.Prep | divided_by: 60}} hours{% endif %}{% if prep_minutes > 0 %} {{ prep_minutes }} minutes{% endif %}<br>
     {% endif %}
@@ -21,4 +23,6 @@
 
     <b>Total Time:</b> {% if totaltime >= 60 %}{{ totaltime | divided_by: 60}} hours{% endif %}{% if minutes > 0 %} {{ minutes }} minutes{% endif %}<br>
     <br>
+
+    </font>
 {% endif %}

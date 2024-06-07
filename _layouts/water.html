@@ -236,18 +236,14 @@ layout: base
       &emsp; {{ page.conclusion }}<br><br>
     {% endif %}
 
-    <!-- Ingredients -->
-    {% if page.epilogue %}
-      <b><u><font size="+2">Epilogue</font></u></b><br>
-    {% endif %}
     {% include ingredients.html %}
 
     <!-- Epilogue -->
     {% if page.epilogue %}
+      <b><u><font size="+2">Epilogue</font></u></b><br>
       {{ page.epilogue }}<br>
     {% endif %}
 
-    {% include servings.html %}
     {% include nutrition.html %}
 
     <!-- Sources -->

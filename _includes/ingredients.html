@@ -1,63 +1,88 @@
-<table>
-    {% include ingredientsHeader.html %}
+<!-- Use parameters or not -->
+{% assign ing = page.ing %}
+{% if include.ing %}
+    {% assign ing = include.ing %}
+{% endif %}
 
-    {% if !page.section1 %}
-        <i><font size="+2">{{ page.section1 }}</font></i>
-    {% endif %}
+<!-- Print section title -->
+{% if ing %}
+    <b><u><font size="+2">Ingredients</font></u></b><br>
+{% endif %}
 
-    {% assign ing = page.ing %}
-    {% if include.ing %}
-        {% assign ing = include.ing %}
-    {% endif %}
+<!-- Section 1 -->
+{% if !page.section1 %}
+    <i><font size="+2">{{ page.section1 }}</font></i><br>
+{% endif %}
 
-    {% for row in site.data[ing] %}
-        {% if forloop.last %}
-            
-        {% else %}
-            <tr>
-                {% for pair in row %}
-                    {% if forloop.first %}
+<!-- Loops through the rows -->
+{% for row in site.data[ing] %}
+    <!-- Variables -->
+    {% assign food = "" %}
+    {% assign mass = "" %}
+    {% assign unit = "" %}
+    {% assign vol = "" %}
 
-                        {% if pair[1] == page.start2 %}
-                            </table>
-                            {% if !page.section2 %}
-                            <i><font size="+2">{{ page.section2 }}</font></i>
-                            {% endif %}
-                            <table>
-                            {% include ingredientsHeader.html %}
-                        {% endif %}
+    {% if forloop.last %}   
+    {% else %}
 
-                        {% if pair[1] == page.start3 %}
-                            </table>
-                            {% if !page.section3 %}
-                            <i><font size="+2">{{ page.section3 }}</font></i>
-                            {% endif %}
-                            <table>
-                            {% include ingredientsHeader.html %}      
-                        {% endif %}
+        <!-- Loops through the pair (ex: [Ingredient, Oat flour]) -->
+        {% for pair in row %}
 
-                        {% if pair[1] == page.start4 %}
-                            </table>
-                            {% if !page.section4 %}
-                            <i><font size="+2">{{ page.section4 }}</font></i>
-                            {% endif %}
-                            <table>
-                            {% include ingredientsHeader.html %}              
-                        {% endif %}
+            {% if forloop.first %}
 
-                        {% if pair[1] == page.start5 %}
-                            </table>
-                            {% if !page.section4 %}
-                            <i><font size="+2">{{ page.section5 }}</font></i>
-                            {% endif %}
-                            <table>
-                            {% include ingredientsHeader.html %}              
-                        {% endif %}
-
+                <!-- Section 2 -->
+                {% if pair[1] == page.start2 %}
+                    {% if !page.section2 %}
+                        <br><i><font size="+2">{{ page.section2 }}</font></i><br>
                     {% endif %}
-                    <td>{{ pair[1] }}</td>
-                {% endfor %}
-            </tr>
-        {% endif %}
-    {% endfor %}
-</table>
+                {% endif %}
+
+                <!-- Section 3 -->
+                {% if pair[1] == page.start3 %}
+                    {% if !page.section3 %}
+                        <br><i><font size="+2">{{ page.section3 }}</font></i><br>
+                    {% endif %}      
+                {% endif %}
+
+                <!-- Section 4 -->
+                {% if pair[1] == page.start4 %}
+                    {% if !page.section4 %}
+                        <br><i><font size="+2">{{ page.section4 }}</font></i><br>
+                    {% endif %}           
+                {% endif %}
+
+                {% if pair[1] == page.start5 %}
+                    {% if !page.section4 %}
+                        <br><i><font size="+2">{{ page.section5 }}</font></i><br>
+                    {% endif %}          
+                {% endif %}               
+
+            {% endif %}
+
+            <!-- Food -->
+            {% if forloop.index == 1 %} 
+                {% assign food = pair[1] %}
+            {% endif %}
+
+            <!-- Mass amount -->
+            {% if forloop.index == 2 %}
+                {% assign mass = pair[1] %}
+            {% endif %}
+
+            <!-- Mass unit -->
+            {% if forloop.index == 3 %}
+                {% assign unit = pair[1] %}
+            {% endif %}
+
+            <!-- Volume -->
+            {% if forloop.index == 4 %}
+                {% assign vol = pair[1] %}
+            {% endif %}
+            
+        {% endfor %}
+
+    - <font size="+1">{{ vol }} (<i><font style="color:lightgray">{{ mass }} {{ unit }}</font></i>) {{ food }}</font><br>
+
+    {% endif %}
+{% endfor %}
+<br>

@@ -37,48 +37,42 @@ layout: base
       &emsp; {{ page.butter }}<br><br>
     {% endif %}
     {% include ingredients.html ing=page.butter-ing %}
-    {% include servings.html ing=page.butter-ing %}
-    {% include nutrition.html facts=page.butter-facts %}
+    {% include nutrition.html ing=page.butter-ing facts=page.butter-facts %}
 
     <!-- Applesauce -->
     {% if page.applesauce %}
       &emsp; {{ page.applesauce }}<br><br>
     {% endif %}
     {% include ingredients.html ing=page.applesauce-ing %}
-    {% include servings.html ing=page.applesauce-ing %}
-    {% include nutrition.html facts=page.applesauce-facts %}
+    {% include nutrition.html ing=page.applesauce-ing facts=page.applesauce-facts %}
 
     <!-- Yogurt -->
     {% if page.yogurt %}
       &emsp; {{ page.yogurt }}<br><br>
     {% endif %}
     {% include ingredients.html ing=page.yogurt-ing %}
-    {% include servings.html ing=page.yogurt-ing %}
-    {% include nutrition.html facts=page.yogurt-facts %}
+    {% include nutrition.html ing=page.yogurt-ing facts=page.yogurt-facts %}
 
     <!-- Banana -->
     {% if page.banana %}
       &emsp; {{ page.banana }}<br><br>
     {% endif %}
     {% include ingredients.html ing=page.banana-ing %}
-    {% include servings.html ing=page.banana-ing %}
-    {% include nutrition.html facts=page.banana-facts %}
+    {% include nutrition.html ing=page.banana-ing facts=page.banana-facts %}
 
     <!-- Sweet Potato -->
     {% if page.sweet-potato %}
       &emsp; {{ page.sweet-potato }}<br><br>
     {% endif %}
     {% include ingredients.html ing=page.sweet-potato-ing %}
-    {% include servings.html ing=page.sweet-potato-ing %}
-    {% include nutrition.html facts=page.sweet-potato-facts %}
+    {% include nutrition.html ing=page.sweet-potato-ing facts=page.sweet-potato-facts %}
 
     <!-- Beans -->
     {% if page.beans %}
       &emsp; {{ page.beans }}<br><br>
     {% endif %}
     {% include ingredients.html ing=page.beans-ing %}
-    {% include servings.html ing=page.beans-ing %}
-    {% include nutrition.html facts=page.beans-facts %}
+    {% include nutrition.html ing=page.beans-ing facts=page.beans-facts %}
 
     <!-- Mixing -->
     {% if page.mixing %}
@@ -110,7 +104,6 @@ layout: base
       <b><u><font size="+2">Nutrition Facts</font></u></b>
       &emsp; {{ page.nutrition-facts }}<br><br>
     {% endif %}
-    {% include servings.html %}
     {% include nutrition.html %}
 
     <!-- Other -->
