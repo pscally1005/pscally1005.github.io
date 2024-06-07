@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unsweetened Protein Fudge - Nut and Lactose Free"
+title:  "Avocado Protein Fudge"
 date:   2024-02-28 00:00:00 -05000
 categories: 
 - Recipes

@@ -26,7 +26,7 @@ layout: base
       <li>
 
         {%- if post.image -%}
-          <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
+        <a href="{{ post.url | relative_url }}"><img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image"></a>
         {%- endif -%}
         
         <span class="post-meta">{{ post.date | date: date_format }}</span>

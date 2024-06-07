@@ -342,8 +342,8 @@
 
 
 .featured-image-post {
-  width: 400px;
-  height: 300px;
+  width: 600px;
+  height: 400px;
   object-fit: cover;
   display: block;
   margin-left: auto;
@@ -351,27 +351,30 @@
 }
 
 .blog-roll-image {
-  width: 75px;
-  height: 75px;
+  width: 100px;
+  height: 80px;
   object-fit: cover;
   float: left;
 }
 
 .instruction-image {
-  width: 200px;
+  width: 300px;
+  // height: 200px;
   object-fit: cover;
 }
 
 .recipes-page-image {
-  width: 50%;
+  width: 400px;
+  height: 266.67px;
   object-fit: cover;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float: center;
 }
 
 .larger-image {
-  width: 75%;
+  width: 66%;
   object-fit: cover;
 }
 

@@ -58,7 +58,7 @@ Instructions:
 - Use an immersion blender to blend up the apples until everything is smooth<br><br>
 
 - Loosely cover and cook on low for another 6 hours, stirring occasionally. Mix in lemon juice when done (to help preserve it)<br><br>
-- <center><img src="/assets/Food/Sweet Spreads/Apple Spread/apple-spread-4.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Sweet Spreads/Apple Spread/apple-spread-4.jpg" alt="" class="instruction-image"></center><br>
 
 - Store in a mason jar<br><br>
 

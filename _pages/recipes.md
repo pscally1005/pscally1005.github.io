@@ -3,7 +3,7 @@ layout: page
 title: Recipes
 permalink: recipes
 ---
-
+<hr>
 [![Bread](/assets/Category Photos with Labels/Bread.jpg){:class="recipes-page-image"}]({% link _pages/bread.md %})
 <hr>
 [![Breakfast](/assets/Category Photos with Labels/Breakfast.jpg){:class="recipes-page-image"}]({% link _pages/breakfast.md %})
