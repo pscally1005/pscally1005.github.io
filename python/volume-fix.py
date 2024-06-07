@@ -34,6 +34,8 @@ def fix(vol):
         return str("3 tbsp")
     elif vol == "1 oz (167 kernels)" or vol == "4 tbsp" or vol == "4 Tbsp" or vol == "0.25 cup" or vol == "1 About 1/4 cup" or vol == "1.4 cup" or vol == "12 teaspoons" or vol == "12 tsp" or vol == "1/4 cup, crumbled" or vol == "0.25 crumbled" or vol == "0.25 cup (240.0 ml) aprx" or vol =="0.25 cup, sliced" or vol == "12 tsp (5.0 ml) aprx" or vol =="0.3325 cup (60.0 ml) aprx":
         return str("1/4 cup")
+    elif vol == "15 tsp (5.0 ml) aprx" or vol == "15 tsp" or vol == "15 teaspoon" or vol == "15 teaspoons":
+        return str("5 tbsp")
     elif vol == "0.305 cup" or vol == "5.33 tbsp" or vol == "0.33 cup" or vol == "0.33 cup (240.0 ml) aprx" or vol == "16 tsp (5.0 ml) aprx" or vol == "0.33 cup, crumbled" or vol == "1/3 cup, crumbled":
         return str("1/3 cup")
     elif vol == "0.5 cup, shredded" or vol == "0.49 cup" or vol == "8 tbsp" or vol == "8 Tbsp" or vol == "0.5 cup" or vol == "24 tsp" or vol == "1/2 cup, whole" or vol == "0.5 cup, whole" or vol == "1/2 cup, crumbled" or vol == "0.5 crumbled" or vol == "24 tsp (5.0 ml) aprx" or vol == "0.5 cup (240.0 ml) aprx" or vol == "0.5 cup, unthawed" or vol == "1/2 cup, frozen" or vol == "0.5 cup, sliced" or vol == "0.5 cup, frozen":
@@ -177,9 +179,9 @@ def main():
 
     # path to csv files
     # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
-    # path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
+    path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
     # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*.csv"
-    path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
+    # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
 
     # loop through all the files
     for fname in glob.glob(path):

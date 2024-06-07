@@ -42,6 +42,6 @@ Description: This Crockpot stew is a perfect dump and go recipe. Add all the veg
 Instructions:
 - Cut the peppers and onions into a medium dice, and cut your frozen (and defrosted) broccoli into a similar size.  Dice the chicken into bite sized cubes.  Add all ingredients into the crockpot and mix<br><br>
 
-- Cook on low for 5-6 hours, or until chicken is fully cooked. Optionally serve with some cheese<br><br>
+- Cook on low for about 6 hours, or until chicken is fully cooked. Optionally serve with some cheese and rice<br><br>
 - <center><img src="/assets/Food/Chicken/Stew/stew-2.jpg" alt="" class="instruction-image"></center>
 ---

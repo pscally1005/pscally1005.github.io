@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stewed Chicken Cacciatore with Sweet Potatoes"
+title:  "Stewed Chicken Cacciatore"
 date:   2024-01-17 00:00:00 -0500
 categories:
 - Recipes
