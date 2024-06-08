@@ -308,7 +308,7 @@ def ingredients(food):
         return str("Pine nuts")
     elif food == "Pork, raw, separable lean only, tenderloin, loin, fresh":
         return str("Pork tenderloin")
-    elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Semisweet chocolate mini chips by Harris-Teeter Inc.":
+    elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Hersheys Zero Sugar Chocolate Chips" or food == "Semisweet chocolate mini chips by Harris-Teeter Inc.":
         return str("Sugar free chocolate chips")
     elif food == "Egg, fresh, raw, white":
         return str("Egg whites")

@@ -21,7 +21,6 @@
 {% assign carb = "" %}
 {% assign fib = "" %}
 {% assign sug = "" %}
-{% assign alc = "" %}
 {% assign prot = "" %}
 {% assign vitB12 = "" %}
 {% assign vitD = "" %}
@@ -83,10 +82,6 @@
 
         {% if pair[1] == "Sugars" %}
             {% assign sug = line1 %}
-        {% endif %}
-
-        {% if pair[1] == "Sugar alcohols" %}
-            {% assign alc = line1 %}
         {% endif %}
 
         {% if pair[1] == "Protein" %}
@@ -156,9 +151,6 @@
 {% endif %}
 {% if sug != "" %} 
     &emsp;<b>Sugar</b>: {{ sug }}<br>
-{% endif %}
-{% if alc != "" %} 
-    &emsp;<b>Sugar Alcohol</b>: {{ alc }}<br>
 {% endif %}
 {% if prot != "" %} 
     <b>Protein</b>: {{ prot }}<br>
