@@ -4,7 +4,7 @@ title: "Healthier Cut Out Cookies"
 date:   2023-07-04 00:00:00 -05000
 categories: 
 - Recipes
-- Healthier Dessert
+- Archive
 permalink: /recipes/cut-out-cookies
 image: /assets/Food/Healthier Dessert/Cut Out/cut-out-cover.jpg
 ing: cutout-ing

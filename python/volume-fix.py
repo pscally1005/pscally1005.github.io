@@ -28,7 +28,7 @@ def fix(vol):
         return str("1 tbsp")
     elif vol == "1.33 tbsp" or vol == "4 1 tsp":
         return str("4 tsp")
-    elif vol == "6 teaspoons" or vol == "6 tsp" or vol == "0.125 cup, NFS" or vol == "0.125 cup" or vol == "6 tsp (5.0 ml) aprx" or vol == "6 tsp, leaves" or vol == "2 tbsp (15.0 ml) aprx" or vol == "2 tablespoon" or vol == "0.125 cup (240.0 ml) aprx":
+    elif vol == "6 teaspoons" or vol == "6 tsp" or vol == "0.1254 cup" or vol == "0.125 cup, NFS" or vol == "0.125 cup" or vol == "6 tsp (5.0 ml) aprx" or vol == "6 tsp, leaves" or vol == "2 tbsp (15.0 ml) aprx" or vol == "2 tablespoon" or vol == "0.125 cup (240.0 ml) aprx":
         return str("2 tbsp")
     elif vol == "9 tsp" or vol == "9 tsp (5.0 ml) aprx" or vol == "9 tsp, leaves" or vol == "9 teaspoons":
         return str("3 tbsp")
@@ -36,6 +36,8 @@ def fix(vol):
         return str("1/4 cup")
     elif vol == "15 tsp (5.0 ml) aprx" or vol == "15 tsp" or vol == "15 teaspoon" or vol == "15 teaspoons":
         return str("5 tbsp")
+    elif vol == "0.375 cup":
+        return str("6 tbsp")
     elif vol == "0.305 cup" or vol == "5.33 tbsp" or vol == "0.33 cup" or vol == "0.33 cup (240.0 ml) aprx" or vol == "16 tsp (5.0 ml) aprx" or vol == "0.33 cup, crumbled" or vol == "1/3 cup, crumbled":
         return str("1/3 cup")
     elif vol == "0.5 cup, shredded" or vol == "0.49 cup" or vol == "8 tbsp" or vol == "8 Tbsp" or vol == "0.5 cup" or vol == "24 tsp" or vol == "1/2 cup, whole" or vol == "0.5 cup, whole" or vol == "1/2 cup, crumbled" or vol == "0.5 crumbled" or vol == "24 tsp (5.0 ml) aprx" or vol == "0.5 cup (240.0 ml) aprx" or vol == "0.5 cup, unthawed" or vol == "1/2 cup, frozen" or vol == "0.5 cup, sliced" or vol == "0.5 cup, frozen":
@@ -110,6 +112,8 @@ def fix(vol):
         return str("2x15.5oz cans")
     elif vol == "3 can drained solids" or vol == "3 can" or vol == "3 can, drained, rinsed" or vol == "3 can drained" or vol == "3x15.5oz can drained, rinsed" or vol == "3 15.5oz cans":
         return str("3x15.5oz cans")
+    elif vol == "4 can drained solids" or vol == "4 can" or vol == "4 can, drained, rinsed" or vol == "4 can drained" or vol == "4x15.5oz can drained, rinsed" or vol == "4 15.5oz cans":
+        return str("4x15.5oz cans")
     elif vol == "32 oz" or vol == "32 ounce" or vol == "2 pound":
         return str("2 lb")
     elif vol == "3 pound":

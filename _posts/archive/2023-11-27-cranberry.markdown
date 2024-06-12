@@ -4,7 +4,7 @@ title:  "Unsweetened Dried Cranberries"
 date:   2023-11-27 00:00:00 -0500
 categories: 
 - Recipes
-- Finger Foods
+- Archive
 permalink: /recipes/dried-cranberry
 image: /assets/Food/Finger Food/Cranberry/cranberry-cover.jpg
 ing: cranberry-ing

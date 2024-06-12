@@ -4,7 +4,7 @@ title:  "Coconut Chocolate Fudge Squares"
 date:   2024-02-10 00:00:00 -05000
 categories: 
 - Recipes
-- Healthier Dessert
+- Archive
 permalink: /recipes/fudge
 image: /assets/Food/Healthier Dessert/Coconut Fudge/fudge.jpg
 ing: fudge-ing

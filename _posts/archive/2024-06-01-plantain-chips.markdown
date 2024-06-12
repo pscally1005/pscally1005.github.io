@@ -4,7 +4,7 @@ title:  "Air Fryer Plantain Chips"
 date:   2024-06-01 00:00:00 -0500
 categories: 
 - Recipes
-- Finger Foods
+- Archive
 permalink: /recipes/plantain0chips
 image: /assets/Food/Finger Food/Plantain Chips/plantain-chips-cover.jpg
 ing: plantainchips-ing

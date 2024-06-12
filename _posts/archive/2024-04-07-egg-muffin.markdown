@@ -4,7 +4,7 @@ title:  "Mini Egg Muffins"
 date:   2024-04-07 00:00:00 -0500
 categories:
 - Recipes
-- Breakfast
+- Archive
 permalink: /recipes/egg-muffins
 image: /assets/Food/Breakfast/Egg Muffin/egg-muffin-cover.jpg
 ing: eggmuffin-ing

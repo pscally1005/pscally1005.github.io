@@ -25,6 +25,10 @@ layout: base
       {%- for post in posts -%}
       <li>
 
+        {% if post.categories.last == "Archive" %}
+          {% continue %}
+        {% endif %}
+
         {%- if post.image -%}
         <a href="{{ post.url | relative_url }}"><img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image"></a>
         {%- endif -%}

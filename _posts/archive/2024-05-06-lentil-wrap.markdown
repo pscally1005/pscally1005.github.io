@@ -4,7 +4,7 @@ title:  "Red Lentil Wraps"
 date:   2024-05-06 00:00:00 -0500
 categories:
 - Recipes
-- Bread
+- Archive
 permalink: /recipes/red-lentil-wraps
 image: /assets/Food/Bread/Lentil Wrap/lentil-wrap.jpg
 ing: redlentilwrap-ing

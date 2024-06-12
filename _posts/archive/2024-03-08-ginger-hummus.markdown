@@ -4,7 +4,7 @@ title:  "Ginger Lime Black Bean Hummus"
 date:   2024-03-08 00:00:00 -05000
 categories: 
 - Recipes
-- Savory Sauces
+- Archive
 permalink: /recipes/ginger-hummus
 image: /assets/Food/Savory Sauces/Ginger Hummus/ginger-hummus-cover.jpg
 ing: gingerhummus-ing
