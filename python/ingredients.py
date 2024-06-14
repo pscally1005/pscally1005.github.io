@@ -403,10 +403,10 @@ def main(path = ""):
 
     if path == "":
         # path to csv files
-        # path = r"C:\Users\mets1\Documents\website\_data\*.csv"
-        path = r"C:\Users\mets1\Documents\website\python\testing\*.csv"
-        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*.csv"
-        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*.csv"
+        # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
+        path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
+        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*-ing.csv"
+        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
         print("empty path")
 
     # loop through all the files
