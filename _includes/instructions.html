@@ -1,4 +1,13 @@
 {% if page.Instructions %}
-    <b><u><font size="+2">Instructions</font></u></b><br>
-    <font size="+1">{{ page.Instructions }}</font><br><br>
+    <font size="+2"><b><u>Instructions</font></u></b><br>
+    <font size="+1">
+        {% assign count = 1 %}
+        {% for step in page.Instructions %}
+            {% unless step contains "<center>" %}
+                {{ count }}.&ensp;
+                {% assign count = count | plus: 1 %}
+            {% endunless %}
+            {{ step }}
+        {% endfor %}
+    </font><br><br>
 {% endif %}
