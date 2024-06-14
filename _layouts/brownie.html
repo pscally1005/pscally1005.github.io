@@ -14,19 +14,19 @@ layout: base
     <!-- Overview -->
     {% if page.overview %}
       <b><u><font size="+2">Experimental Overview</font></u></b>
-      &emsp; {{ page.overview }}<br><br>
+      &emsp;<font size="+1">{{ page.overview }}</font><br><br>
     {% endif %}
 
     <!-- Box -->
     {% if page.box %}
       <b><u><font size="+2">The Brownie Box</font></u></b>
-      &emsp; {{ page.box }}<br><br>
+      &emsp;<font size="+1">{{ page.box }}</font><br><br>
     {% endif %}
 
     <!-- Control and Experiments -->
     {% if page.subs %}
       <b><u><font size="+2">Control & Experiments</font></u></b>
-      &emsp; {{ page.subs }}<br><br>
+      &emsp;<font size="+1">{{ page.subs }}</font><br><br>
     {% endif %}
 
     <!-- Butter -->
@@ -34,42 +34,42 @@ layout: base
         <b><u><font size="+2">Ingredients</font></u></b>
     {% endif %}
     {% if page.butter %}
-      &emsp; {{ page.butter }}<br><br>
+      &emsp;<font size="+1">{{ page.butter }}</font><br><br>
     {% endif %}
     {% include ingredients.html ing=page.butter-ing %}
     {% include nutrition.html ing=page.butter-ing facts=page.butter-facts %}
 
     <!-- Applesauce -->
     {% if page.applesauce %}
-      &emsp; {{ page.applesauce }}<br><br>
+      &emsp;<font size="+1">{{ page.applesauce }}</font><br><br>
     {% endif %}
     {% include ingredients.html ing=page.applesauce-ing %}
     {% include nutrition.html ing=page.applesauce-ing facts=page.applesauce-facts %}
 
     <!-- Yogurt -->
     {% if page.yogurt %}
-      &emsp; {{ page.yogurt }}<br><br>
+      &emsp;<font size="+1">{{ page.yogurt }}</font><br><br>
     {% endif %}
     {% include ingredients.html ing=page.yogurt-ing %}
     {% include nutrition.html ing=page.yogurt-ing facts=page.yogurt-facts %}
 
     <!-- Banana -->
     {% if page.banana %}
-      &emsp; {{ page.banana }}<br><br>
+      &emsp;<font size="+1">{{ page.banana }}</font><br><br>
     {% endif %}
     {% include ingredients.html ing=page.banana-ing %}
     {% include nutrition.html ing=page.banana-ing facts=page.banana-facts %}
 
     <!-- Sweet Potato -->
     {% if page.sweet-potato %}
-      &emsp; {{ page.sweet-potato }}<br><br>
+      &emsp;<font size="+1">{{ page.sweet-potato }}</font><br><br>
     {% endif %}
     {% include ingredients.html ing=page.sweet-potato-ing %}
     {% include nutrition.html ing=page.sweet-potato-ing facts=page.sweet-potato-facts %}
 
     <!-- Beans -->
     {% if page.beans %}
-      &emsp; {{ page.beans }}<br><br>
+      &emsp;<font size="+1">{{ page.beans }}</font><br><br>
     {% endif %}
     {% include ingredients.html ing=page.beans-ing %}
     {% include nutrition.html ing=page.beans-ing facts=page.beans-facts %}
@@ -77,45 +77,45 @@ layout: base
     <!-- Mixing -->
     {% if page.mixing %}
       <b><u><font size="+2">Mixing & Baking</font></u></b>
-      &emsp; {{ page.mixing }}<br><br>
+      &emsp;<font size="+1">{{ page.mixing }}</font><br><br>
     {% endif %}
 
     <!-- Taste -->
     {% if page.taste %}
       <b><u><font size="+2">Taste Test</font></u></b>
-      &emsp; {{ page.taste }}<br><br>
+      &emsp;<font size="+1">{{ page.taste }}</font><br><br>
     {% endif %}
 
     <!-- Conclusion -->
     {% if page.conclusion %}
       <b><u><font size="+2">Conclusion</font></u></b>
-      &emsp; {{ page.conclusion }}<br><br>
+      &emsp;<font size="+1">{{ page.conclusion }}</font><br><br>
     {% endif %}
 
     <!-- Ingredients -->
     {% if page.ingredients %}
       <b><u><font size="+2">Ingredients</font></u></b>
-      &emsp; {{ page.ingredients }}<br><br>
+      &emsp;<font size="+1">{{ page.ingredients }}</font><br><br>
     {% endif %}
     {% include ingredients.html %}
 
     <!-- Facts -->
     {% if page.nutrition-facts %}
       <b><u><font size="+2">Nutrition Facts</font></u></b>
-      &emsp; {{ page.nutrition-facts }}<br><br>
+      &emsp;<font size="+1">{{ page.nutrition-facts }}</font><br><br>
     {% endif %}
     {% include nutrition.html %}
 
     <!-- Other -->
     {% if page.other %}
       <b><u><font size="+2">Other Substitutions</font></u></b>
-      &emsp; {{ page.other }}<br><br>
+      &emsp;<font size="+1">{{ page.other }}<br><br>
     {% endif %}
 
     <!-- Sources -->
     {% if page.sources %}
       <b><u><font size="+2">Sources</font></u></b>
-      &emsp; {{ page.sources }}<br><br>
+      &emsp;<font size="+1">{{ page.sources }}</font><br><br>
     {% endif %}
 
     {% include comments.html %}

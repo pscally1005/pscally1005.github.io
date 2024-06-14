@@ -388,18 +388,26 @@ def ingredients(food):
         return str("Yellow squash")
     elif food == "Red jalapeno salsa by The Kroger Co.":
         return str("Red jalapenos")
+    elif food == "Sugars, granulated":
+        return str("Granulated sugar")
+    elif food == "Unsalted butter by FAREWAY":
+        return str("Unsalted butter")
+    elif food == "All purpose flour by PIONEER":
+        return str("All purpose flour")
     else:
         return food
 
-def main():
+def main(path = ""):
 
     os.system('cls')
 
-    # path to csv files
-    # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
-    path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
-    # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*.csv"
-    # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
+    if path == "":
+        # path to csv files
+        # path = r"C:\Users\mets1\Documents\website\_data\*.csv"
+        path = r"C:\Users\mets1\Documents\website\python\testing\*.csv"
+        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*.csv"
+        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*.csv"
+        print("empty path")
 
     # loop through all the files
     for fname in glob.glob(path):

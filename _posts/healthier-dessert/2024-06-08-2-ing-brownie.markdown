@@ -56,7 +56,7 @@ Instructions:
 
 - Transfer the melted chocolate into the eggs, and beat until smooth, about 1 minute. Optionally, add in any other ingredients, like salt, extracts, chocolate chips, or nuts. Transfer the batter to your pan, and spread to all corners<br><br>
 
-- Bake at 350F for about 18 minutes, or until a toothpick to the center comes out moist with a few crumbs, but not too dirty.  If it's clean, the brownies are overcooked<br><br>
+- Bake at 350F for about 16-20 minutes, or until a toothpick to the center comes out moist with a few crumbs, but not too dirty.  If it's clean, the brownies are overcooked<br><br>
 
 - Let cool on the counter for a few minutes before transferring to the fridge to cool and set (at least a few hours) before cutting and serving
 ---

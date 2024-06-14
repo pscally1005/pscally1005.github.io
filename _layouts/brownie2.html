@@ -14,32 +14,32 @@ layout: base
     <!-- Overview -->
     {% if page.overview %}
       <b><u><font size="+2">Experimental Overview</font></u></b>
-      &emsp; {{ page.overview }}<br><br>
+      &emsp;<font size="+1">{{ page.overview }}</font><br><br>
     {% endif %}
 
     <!-- Box -->
     {% if page.box %}
       <b><u><font size="+2">The Brownie Box</font></u></b>
-      &emsp; {{ page.box }}<br><br>
+      &emsp;<font size="+1">{{ page.box }}</font><br><br>
     {% endif %}
 
     <!-- Control and Experiments -->
     {% if page.subs %}
       <b><u><font size="+2">Control & Experiment</font></u></b>
-      &emsp; {{ page.subs }}<br>
+      &emsp;<font size="+1">{{ page.subs }}</font><br>
     {% endif %}
 
     <!-- Oil -->
     {% if page.oil %}
       <b><u><font size="+2">Ingredients</font></u></b><br>
-      {{ page.oil }}<br><br>
+      <font size="+1">{{ page.oil }}</font><br><br>
     {% endif %}
     {% include ingredients.html ing=page.oil-ing %}
     {% include nutrition.html ing=page.oil-ing facts=page.oil-facts %}
 
     <!-- Sweet Potato -->
     {% if page.sweet-potato %}
-      {{ page.sweet-potato }}<br><br>
+      <font size="+1">{{ page.sweet-potato }}</font><br><br>
     {% endif %}
     {% include ingredients.html ing=page.sweet-potato-ing %}
     {% include nutrition.html ing=page.sweet-potato-ing facts=page.sweet-potato-facts %}
@@ -47,25 +47,25 @@ layout: base
     <!-- Mixing -->
     {% if page.mixing %}
       <b><u><font size="+2">Mixing & Baking</font></u></b>
-      &emsp; {{ page.mixing }}<br><br>
+      &emsp;<font size="+1">{{ page.mixing }}</font><br><br>
     {% endif %}
 
     <!-- Taste -->
     {% if page.taste %}
       <b><u><font size="+2">Taste Test</font></u></b>
-      &emsp; {{ page.taste }}<br><br>
+      &emsp;<font size="+1">{{ page.taste }}</font><br><br>
     {% endif %}
 
     <!-- Conclusion -->
     {% if page.conclusion %}
       <b><u><font size="+2">Conclusion</font></u></b>
-      &emsp; {{ page.conclusion }}<br><br>
+      &emsp;<font size="+1">{{ page.conclusion }}</font><br><br>
     {% endif %}
 
     <!-- Sources -->
     {% if page.sources %}
       <b><u><font size="+2">Sources</font></u></b>
-      &emsp; {{ page.sources }}<br><br>
+      &emsp;<font size="+1">{{ page.sources }}</font><br><br>
     {% endif %}
 
     {% include comments.html %}

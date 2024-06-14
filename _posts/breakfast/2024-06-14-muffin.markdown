@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Sweet Potato Banana Muffins"
+date:   2024-06-14 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
+permalink: /recipes/sweet-potato-banana-muffins
+image: /assets/Food/Breakfast/Sw Pot Ban Muff/muffin-cover.jpg
+ing: muffin-ing
+facts: muffin-facts
+section1: Base muffins
+start2: Cinnamon
+section2: Optional add ins
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: https://www.theleangreenbean.com/sweet-potato-banana-bites/
+Source2: 
+whisk: https://s.samsungfood.com/qaSWW
+tags: 
+- banana
+- sweet potato
+- puree
+- pumpkin
+- butternut squash
+- natural peanut butter
+- overripe banana
+- peanut butter
+- nut butter
+- almond butter
+- egg
+- cinnamon
+- breakfast
+- muffin
+- mini muffin
+- chocolate chips
+Description: These delicious banana muffins are free of any oils, added sugars, and artificial sweeteners. Just 4 simple ingredients - bananas, sweet potatoes, eggs, and nut butter. These are muffins that are actually a breakfast and not a dessert, and can have any mix-ins you like, such as chopped nuts, fruit, or even dark chocolate.  The nutrition facts below are assuming just the 4 base ingredients; no mix-ins
+Instructions: 
+- Preheat your oven to 375F and liberally spray a mini muffin tin with oil<br><br>
+
+- In a large bowl, add your cooked sweet potato (without skin) and your ripe banana. Mash with the back of a fork, or mix with a hand mixer. You can also use a food processor<br><br>
+
+- Canned sweet potato or pumpkin puree will work, but I prefer to use my homemade <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>.  I've never tried with <a href="roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>, but I don't see why that wouldn't be great as well<br><br>
+
+- You can also use unsweetened applesauce or <a href="apple-spread">No Sugar Added Apple Spread</a> in place of mashed bananas<br><br>
+
+- Add in the eggs and nut butter, and mix until fully combined<br><br>
+
+- Any nut or seed butter will work; here I've used some <a href="natural-peanut-butter">Homemade Natural Nut Butter</a> using a combination of peanuts and pistachios, but almond butter or sunflower seed butter would also work great<br><br>
+
+- Finally, to make it vegan, you can replace the eggs with flax or chia eggs, where 1 tbsp of flax or chia seeds + 3 tbsp water is equivalent to 1 egg.  Mix together in a small bowl and let sit for 5 minutes to thicken before adding to the muffin batter<br><br>
+
+- Add in any additional ingredients if desired. I'll go with cinnamon and almond extract. I'm also going to top them with a few mini chocolate chips<br><br>
+
+- Transfer your batter to the muffin pan, and bake for about 16 minutes at 375F, or until a toothpick comes out clean.  Let cool in the pan for about 30 minutes, before transferring to a wire rack to cool.  Store in the fridge<br><br>
+- <center><img src="/assets/Food/Breakfast/Sw Pot Ban Muff/muffin-all.jpg" alt="" class="instruction-image"></center><br>
+---
