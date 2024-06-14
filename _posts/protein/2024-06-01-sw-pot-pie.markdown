@@ -25,7 +25,7 @@ Source1: https://www.youtube.com/watch?v=BTtVz35A_P4
 Source2: 
 whisk: https://s.samsungfood.com/nMdIc
 tags: 
-- protien powder
+- protein powder
 - whey
 - unflavored whey
 - protein

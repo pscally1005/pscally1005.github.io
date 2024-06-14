@@ -33,7 +33,7 @@ tags:
 - greek yogurt
 - plain nonfat greek yogurt
 - yogurt
-- protien powder
+- protein powder
 - whey protein
 - unflavored whey
 - chopped chocolate

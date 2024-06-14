@@ -5,7 +5,7 @@ date:   2024-05-29 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
-permalink: /recipes/protien-bar
+permalink: /recipes/protein-bar
 image: /assets/Food/Protein Powder/Protein Bar/protein-bar.jpg
 ing: proteinbar-ing
 facts: proteinbar-facts
@@ -25,7 +25,7 @@ Source1: https://amyshealthybaking.com/blog/2016/01/07/chocolate-chip-peanut-but
 Source2: 
 whisk: https://s.samsungfood.com/ThZUT
 tags: 
-- protien powder
+- protein powder
 - whey
 - casein
 - unflavored whey

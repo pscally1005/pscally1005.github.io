@@ -4,9 +4,9 @@ title:  "Parmesean Crusted Zucchini Wedeges"
 date:   2024-03-16 00:00:00 -05000
 categories: 
 - Recipes
-- Meatless
+- Finger Foods
 permalink: /recipes/zucchini-wedges
-image: /assets/Food/Meatless/Zucchini/zucchini-cover.jpg
+image: /assets/Food/Finger Food/Zucchini/zucchini-cover.jpg
 ing: zucchini-ing
 facts: zucchini-facts
 section1: 

@@ -58,7 +58,7 @@ def ingredients(food):
         return str("Whey protein powder, unflavored")
     elif food == "Apple cider vinegar by BRAGG":
         return str("Apple cider vinegar")
-    elif food == "Cereals, Dry, Quick Oats, QUAKER" or food == "Cereals, Dry, Quick Oats with Iron, QUAKER":
+    elif food == "Cereals, Dry, Quick Oats, QUAKER" or food == "Cereals, Dry, Quick Oats with Iron, QUAKER" or food == "Quick cook rolled oats by BRANDLESS":
         return str("Quick oats")
     elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium":
         return str("Almond butter")

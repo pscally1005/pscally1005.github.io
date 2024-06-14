@@ -34,7 +34,7 @@ tags:
 - ginger
 - roasted carrot
 - carrot puree
-- protien
+- protein
 - whey
 - casein
 - gluten free

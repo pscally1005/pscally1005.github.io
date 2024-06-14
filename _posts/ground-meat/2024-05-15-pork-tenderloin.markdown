@@ -10,7 +10,7 @@ image: /assets/Food/Ground Meat/Pork Tenderloin/pork-tenderloin.jpg
 ing: porktenderloin-ing
 facts: porktenderloin-facts
 section1: Meat
-start2: Sweet potato, washed
+start2: Sweet potato
 section2: Potatoes & Veggies
 start3: 
 section3: 

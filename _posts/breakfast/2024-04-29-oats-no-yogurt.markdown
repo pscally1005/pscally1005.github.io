@@ -50,7 +50,7 @@ tags:
 - blueberries
 - blueberry
 - overnight oats
-Description: Most of my protein overnight oats recipes use plain nonfat Greek yogurt. But if you can't digest it, or you don't have any on hand, you can use this as a base instead. I've basically just doubled the protein powder and added a little sweetener to compensate. Oats are such a blank slate - replace the banana with pumpkin, add some cocoa powder, swirl in some peanut butter or PB2, top with fruit; the possibilities are endless, create your perfect bowl!
+Description: Most of my protein overnight oats recipes use plain nonfat Greek yogurt. But if you can't digest it, or you don't have any on hand, you can use this as a base instead. I've basically just doubled the protein powder and added a little sweetener to compensate. Oats are such a blank slate - replace the banana with pumpkin, add some cocoa powder, swirl in some peanut butter or PB2, top with fruit; the possibilities are endless, create your perfect bowl!  For a protein powder free recipe, check out my <a href="no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a>
 Instructions: 
 - Mash the banana in a bowl, and mix with the rest of the ingredients. Either refrigerate overnight to enjoy cold, or microwave on high for 2 minutes (stirring halfway) to enjoy warm
 ---

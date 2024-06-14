@@ -48,7 +48,7 @@ tags:
 - chocolate chips
 - victoria
 - vic
-Description: An overnight oats recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of fiber, protein, and healthy fats to start your morning off right
+Description: An overnight oats recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of fiber, protein, and healthy fats to start your morning off right.  For a variation without protein powder, check out my <a href="no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a>
 Instructions: 
 - Add ingredients to a tupperware or bowl, and mix until fully combined. Optionally top with mini chocolate chips. Store in the fridge overnight<br><br>
 
