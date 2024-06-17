@@ -1,0 +1,67 @@
+<!-- Only generate section if the page has an ingredients file -->
+{% if page.ing %}
+
+    <!-- Variables -->
+    {% assign totalCost = 0 %}
+    {% assign servings = 0 %}
+
+    <!-- Loop through all the ingredients -->
+    {% for row in site.data[page.ing] %}
+
+        <!-- Get # of servings -->
+        {% if forloop.last %}
+            {% assign servings = row["Amount"] | times: 1 %}
+            {% continue %}
+        {% endif %}
+
+        <!-- Get the food and gram measurements -->
+        {% assign food = row["Ingredient"] %}
+        {% assign mass = row["Amount"] | time: 1.0 %}
+
+        <!-- Variable for cost file -->
+        {% assign unitCost = "" %}
+
+        <!-- Loop through rows of cost file -->
+        {% for row in site.data.costs %}
+
+            <!-- Assign unit cost -->
+            {% if row["Food"] == food %}
+                {% assign unitCost = row["Unit Cost ($/g)"] | times: 1.0 %}
+                {% break %}
+            {% endif %}
+
+        {% endfor %}
+
+        <!-- No match found -->
+        {% if unitCost == "" %}
+            {% assign unitCost = -9999 | times: 1.0 %}
+        {% endif %}
+
+        <!-- Calculate cost -->
+        {% assign itemCost = unitCost | times: mass %}
+        {% assign totalCost = totalCost | plus: itemCost %}
+
+    {% endfor %}
+
+    <!-- Calculate cost per serving -->
+    {% assign servingCost = totalCost | divided_by: servings %}
+
+    <!-- Format total cost to 2 decimal places -->
+    {% assign totalCostSplit = totalCost | split: "." %}
+    {% assign totalCostIntegral = totalCostSplit[0] %}
+    {% assign totalCostFraction = totalCostSplit[1] || append: "00" | truncate: 2, "" %}
+
+    <!-- Format serving cost to 2 decimal places -->
+    {% assign servingCostSplit = servingCost | split: "." %}
+    {% assign servingCostIntegral = servingCostSplit[0] %}
+    {% assign servingCostFraction = servingCostSplit[1] || append: "00" | truncate: 2, "" %}
+    
+    <!-- Print total and serving costs -->
+    <b><u><font size="+2">Cost</font></u></b><br>
+    <font size="+1">
+        <b>Total Cost: </b>${{ totalCostIntegral }}.{{ totalCostFraction }}<br>
+        <b>Cost per Serving: </b>${{ servingCostIntegral }}.{{ servingCostFraction }}<br>
+    </font>
+    <br>
+    
+{% endif %}

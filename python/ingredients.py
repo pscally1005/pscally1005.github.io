@@ -38,7 +38,7 @@ def ingredients(food):
         return str("Garlic powder")
     elif food == "Spices, onion powder" or food == "Onion powder by ADAMS" or food == "Onion powder by STONEMILL" or food == "Onion powder by Adams Extract Co." or food == "Onion powder by Target Stores":
         return str("Onion powder")
-    elif food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
+    elif food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
         return str("Plain nonfat greek yogurt")
     elif food == "Raw pure honey":
         return str("Honey")
@@ -172,7 +172,7 @@ def ingredients(food):
         return str("Grated parmesan cheese")
     elif food == "Spices, dried, thyme":
         return str("Thyme, dried")
-    elif food == "Spices, dried, basil" or food == "Basil lightly dried by GOURMET GARDEN" or food == "Lightly dried basil by Eyebobs, LLC" or food == "Lightly dried basil by Eyebobs, LLC":
+    elif food == "Spices, dried, basil" or food == "Lightly dried basil by Eyebobs, LLC " or food == "Basil lightly dried by GOURMET GARDEN" or food == "Lightly dried basil by Eyebobs, LLC" or food == "Lightly dried basil by Eyebobs, LLC":
         return str("Basil, dried")
     elif food == "Low sodium chicken broth by Glencourt Inc.":
         return str("Low sodium chicken broth")
@@ -330,7 +330,7 @@ def ingredients(food):
         return str("Pecans")
     elif food == "Carob flour, or cocoa powder" or food == "Carob flour":
         return str("Carob powder")
-    elif food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, drained solids, canned, black":
+    elif food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, canned, mature seeds, all types, black" or food == "Beans, drained solids, canned, black":
         return str("Black beans, drained and rinsed")
     elif food == "Diced green chiles by Raley's" or food == "Diced green chile by Iga, Inc." or food == "Diced green chilies by SPARTAN" or food == "Diced green chilies by ELRIO":
         return str("Diced green chiles")
@@ -342,8 +342,6 @@ def ingredients(food):
         return str("Chipotle peppers in adobo sauce")
     elif food == "Beans, drained solids, canned, mature seeds, red, kidney" or food == "Beans, canned, mature seeds, all types, kidney":
         return str("Kidney beans, drained and rinsed")
-    elif food == "Bread, whole wheat":
-        return str("Whole wheat bread")
     elif food == "Kale, unprepared, frozen":
         return str("Frozen kale, thawed")
     elif food == "Vegetables, unprepared, frozen, mixed":
@@ -394,6 +392,10 @@ def ingredients(food):
         return str("Unsalted butter")
     elif food == "All purpose flour by PIONEER":
         return str("All purpose flour")
+    elif food == "Beans, raw, black":
+        return str("Dried beans")
+    elif food == "duncan hines keto brownie mix":
+        return str("Duncan Hines Keto Brownie Mix")
     else:
         return food
 

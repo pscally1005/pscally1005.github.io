@@ -94,7 +94,7 @@ def fix(vol):
         return str("1/2 15.5oz can")
     elif vol == "1 can drained solids" or vol == "1 can" or vol == "1 can, drained, rinsed" or vol == "1 can drained" or vol == "15.5oz can drained, rinsed":
         return str("15.5oz can")
-    elif vol == "16 oz" or vol == "16 ounce" or vol == "1 pound":
+    elif vol == "16 oz" or vol == "16 ounce" or vol == "1 pound" or vol == "1 pound dried beans":
         return str("1 lb")
     elif vol == "1.3 pound":
         return str("1.3 lb")

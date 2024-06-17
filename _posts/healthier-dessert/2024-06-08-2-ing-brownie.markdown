@@ -9,9 +9,9 @@ permalink: /recipes/two-ingredient-brownies
 image: /assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-cover.jpg
 ing: 2ingbrownie-ing
 facts: 2ingbrowniehomemade-facts
-section1: Base 2 Ingredient Recipe
+section1: Base
 start2: Extra virgin coconut oil, or extra virgin olive oil
-section2: Or replace the chocolate chips with a homemade chocolate
+section2: 8 oz (1.25 cups, 226 g) Chocolate Chips, or Homemade Chocolate (below)
 start3: Almond extract, or vanilla
 section3: Optional add-ins
 start4: 

@@ -1,0 +1,33 @@
+<!-- Only generate section if the page has an ingredients file -->
+{% if page.ing %}
+
+    <!-- Includes -->
+    {% assign item = include.item %}
+    {% assign amount = include.amount | times: 1.0 %}
+
+    <!-- Variables -->
+    {% assign unitCost = "" %}
+
+    <!-- Loop through rows of cost file -->
+    {% for row in site.data.costs %}
+
+        <!-- Assign unit cost -->
+        {% if row["Food"] == item %}
+            {% assign unitCost = row["Unit Cost ($/g)"] | times: 1.0 %}
+            {% break %}
+        {% endif %}
+
+    {% endfor %}
+
+    <!-- No match found -->
+    {% if unitCost == "" %}
+        {% assign unitCost = -9999 | times: 1.0 %}
+    {% endif %}
+
+    <!-- Calculate cost -->
+    {% assign totalCostSplit = unitCost | times: amount | split: "." %}
+    {% assign integral = totalCostSplit[0] %}
+    {% assign fraction = totalCostSplit[1] || append: "00" | truncate: 2, "" %}
+    <i><font style="color:lightgray">(${{ integral }}.{{ fraction }})</font></i>
+
+{% endif %}

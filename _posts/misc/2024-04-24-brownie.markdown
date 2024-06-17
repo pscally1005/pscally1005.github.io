@@ -191,7 +191,7 @@ conclusion:
 - For a homemade healthy brownie using sweet potatoes, you should check out my <a href="/recipes/sweet-potato-brownies">Sweet Potato Brownies (SF)</a>.  They're homemade instead of from a box, so they avoid a lot of ultra processed ingredients.  They're still gluten free (and this time nut free!), can be make keto by using almond flour instead of oat flour, and are still lower in fat and sugar while still being just as delicious.
 
 ingredients:
-- <br>Below are the full ingredients list and nutrition facts for a standard batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes.
+- <br>Below are the full ingredients list and nutrition facts for a standard batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes. You can also use an additional 1/2 cup (127.5 g) mashed sweet potato in replace of the 2 eggs if you like.
 ing: dhfinal-ing
 
 nutrition-facts:
