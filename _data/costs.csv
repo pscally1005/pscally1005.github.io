@@ -43,11 +43,15 @@ Liquid stevia or monk fruit,4.84,69.72,0.06981
 Almond milk,2.44,"1,920.00",0.00127
 Unsweetened almond milk,2.44,"1,920.00",0.00127
 Unsweetened vanilla almond milk,2.44,"1,920.00",0.00127
+"Unsweetened almond milk, or water",2.44,"1,920.00",0.00127
+"Unsweetened vanilla almond milk, or water",2.44,"1,920.00",0.00127
 Cocoa powder,2.48,"1,808.00",0.00137
 Powdered peanut butter,10.48,840.00,0.01248
 Almond extract,7.57,454.00,0.01667
 "Almond extract, or vanilla",7.57,454.00,0.01667
 Pumpkin puree,1.47,420.00,0.00350
+"Pumpkin puree, or sweet potato",1.47,420.00,0.00350
+"Pumpkin puree, or sweet potato puree",1.47,420.00,0.00350
 Sweet potato puree,1.47,420.00,0.00350
 "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree",1.47,420.00,0.00350
 Cinnamon,1.24,70.00,0.01771
@@ -208,6 +212,7 @@ Chickpea pasta,3.18,224.00,0.01420
 "Garlic, fresh",4.88,454.00,0.01075
 Sunflower kernels,3.99,454.00,0.00879
 Pumpkin seeds,3.58,224.00,0.01598
+Pumpkin seed butter,3.58,224.00,0.01598
 Pineapple,4.58,454.00,0.01009
 Mango,9.26,"1,344.00",0.00689
 "Chives, dried",3.12,6.16,0.50649
