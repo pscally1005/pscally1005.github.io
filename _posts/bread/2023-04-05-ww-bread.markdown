@@ -9,9 +9,9 @@ permalink: /recipes/ww-bread
 image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
 ing: wwbread-ing
 facts: wwbread-facts
-section1: 
-start2: 
-section2: 
+section1: Base Bread
+start2: Extra virgin olive oil
+section2: Optional Additions
 start3: 
 section3: 
 start4: 
@@ -35,7 +35,7 @@ Instructions:
 - Add yeast, salt, and warm water to a large mixing bowl, and mix. You can also add 1/2 tbsp (10 g) of honey if you like.  Let sit for 5 minutes to make sure the yeast is still alive
 - <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-1.jpg" alt="" class="instruction-image"></center><br>
 
-- Add oil, vinegar, flour, and vital wheat gluten. Combine well, and let rest for 30 minutes. Start with a dough scraper, then switch to your hands. It will feel too dry and crumbly, but it will come together
+- Add whole wheat flour, and vital wheat gluten. Optionally, add some spices, vinegar, or oil.  Combine well, and let rest for 30 minutes. Start with a dough scraper, then switch to your hands. It will feel too dry and crumbly, but it will come together
 - <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-2.jpg" alt="" class="instruction-image"></center><br>
 
 - 30 minutes later, turn the dough onto the table and knead for 10 minutes. When done, shape the dough into a tight ball, return dough to bowl (seam down), cover with a cloth, and let rise for 1-1.5 hours
@@ -46,7 +46,7 @@ Instructions:
 
 - If doubling the recipe to make 2 loaves - Lightly dust the counter with flour. Divide the dough in half, form each dough into a tight ball, cover, and let rest for 15 minutes. If you're just making 1 loaf, you can skip this intermediary rest<br><br>
 
-- Grease a bread pan with cooking spray or olive oil. Shape the dough into a loaf and place in the pan. Optionally, dust the top with flour, and score with a knife or razor blade
+- Grease a bread pan with cooking spray or olive oil. Shape the dough into a loaf and place in the pan. Optionally, dust the top with flour or everything bagel seasoning, and score with a knife or razor blade
 - <br><br><center><img src="/assets/Food/Bread/Whole Wheat Bread/ww-6.jpg" alt="" class="instruction-image"></center><br>
 
 - Let rest on the counter for 1-1.5 hours, or in the fridge overnight. It will have about doubled again

@@ -71,6 +71,8 @@ def fix(vol):
         return str("2 cup")
     elif vol == "48 tbsp" or vol == "48 Tbsp" or vol == "50 tbsp" or vol == "50 Tbsp" or vol == "3.11 cup, NFS" or vol == "2.99 cup drained, rinsed":
         return str("3 cup")
+    elif vol == "14 1/4 cup":
+        return str("3.5 cup")
     
     # oz
     elif vol == "1/2 ounce" or vol == "0.5 ounce" or vol == "0.5 oz":

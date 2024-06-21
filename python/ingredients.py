@@ -84,7 +84,7 @@ def ingredients(food):
     # Oil, vinegar, other liquids
     elif food == "Extra virgin olive oil by OLIO" or food == "Extra virgin olive oil by QO" or food == "Extra virgin olive oil by GAEA" or food == "Extra virgin olive oil by BRAGG":
         return str("Extra virgin olive oil")
-    elif food == "Extra virgin coconut oil by KELAPO" or food == "Oil, coconut":
+    elif food == "Extra virgin coconut oil by KELAPO" or food == "Oil, coconut" or food == "Extra virgin coconut oil by VITA BRAND":
         return str("Extra virgin coconut oil")
     elif food == "Oil, sesame":
         return str("Sesame oil")
@@ -184,6 +184,8 @@ def ingredients(food):
         return str("All purpose flour")
     elif food == "duncan hines keto brownie mix":
         return str("Duncan Hines Keto Brownie Mix")
+    elif food == "Cocoa, unsweetened, dry powder":
+        return str("Cocoa powder")
     
     # Dairy & Eggs
     elif food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
