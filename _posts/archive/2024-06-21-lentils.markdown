@@ -4,7 +4,7 @@ title:  "Creamy Red Lentils"
 date:   2024-06-21 00:00:00 -05000
 categories: 
 - Recipes
-- Meatless
+- Archive
 permalink: /recipes/red-lentils
 image: /assets/Food/Meatless/Lentils/lentils.jpg
 ing: lentils-ing

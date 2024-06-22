@@ -13,7 +13,9 @@ tags:
 - fake healthy
 ---
 <u><font size="+2">Introduction</font></u><br>
-&emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse
+&emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
+
+<center><img src="/assets/Misc/Trap/sugar.jpg" alt="" class="larger-image"></center><br>
 
 <br><u><font size="+2">List of Foods</font></u><br>
 * <a rel="" target="" href="#cereal">Cereal</a><br>
@@ -29,8 +31,9 @@ tags:
 * <a rel="" target="" href="#smoothie">Smoothies</a><br>
 * <a rel="" target="" href="#sports-drinks">Sports Drinks</a><br>
 * <a rel="" target="" href="#energy-drinks">Energy Drinks</a><br>
-* <a rel="" target="" href="#diet-soda">Diet Soda</a><br>
+* <a rel="" target="" href="#coffee">Coffee</a><br>
 * <a rel="" target="" href="#iced-tea">Iced Tea</a><br>
+* <a rel="" target="" href="#diet-soda">Diet Soda</a><br>
 * <a rel="" target="" href="#milk">Milk</a><br>
 * <a rel="" target="" href="#yogurt">Yogurt</a><br>
 * <a rel="" target="" href="#pretzels">Pretzels</a><br>
@@ -82,7 +85,7 @@ tags:
 &emsp;Okay so you've gotten past cereal, but surley oatmeal is safe right?  Think again.  Oats can be a great addition to your diet: they're a whole grain, high in fiber low fat, versatile, delicious, and gluten free.  They also contain a fair bit of manganese and iron, and are rich in antioxidants.  It even boasts about being "heart healthy" (so does cereal) on the box.  So what's the problem?
 
 <center><img src="/assets/Misc/Trap/oatmeal.jpg" alt="" class="larger-image"></center><br>
-&emsp;The main issue isn't with oatmeal, but how it's prepared.  I'm mainly talking about flavored packets of oatmeal here, like ones in the image above.  Unfortunately, these are really no different nutritionally from a bowl of sugary cereal; it's just warm now.  These packets are loaded with added sugars.  When it comes to oatmeal for breakfast, make it yourself from plain oats, and sweeten it with fruit and a small amount of maple syrup or honey if desired.  Also add some healthy fats like chopped nuts or nut butter, and some protein with yogurt or protein powder (or both!)
+&emsp;The main issue isn't with oatmeal, but how it's prepared.  I'm mainly talking about <a href="https://www.walmart.com/ip/Quaker-Instant-Oatmeal-Variety-Value-Pack-1-51-oz-20-Packets/45612375?athbdg=L1300&from=/search">flavored packets</a> of oatmeal here, like ones in the image above.  Unfortunately, these are really no different nutritionally from a bowl of sugary cereal; it's just warm now.  These packets are loaded with added sugars.  When it comes to oatmeal for breakfast, make it yourself from plain oats, and sweeten it with fruit and a small amount of maple syrup or honey if desired.  Also add some healthy fats like chopped nuts or nut butter, and some protein with yogurt or protein powder (or both!)
 
 <div id="granola"></div>
 <br><i><font size="+2">Granola Bars</font></i><br>
@@ -114,7 +117,7 @@ tags:
 <br><i><font size="+2">Peanut Butter</font></i><br>
 &emsp;<a href="/recipes/natural-peanut-butter">Natural nut butter</a> is the nectar of the gods.  Not only is it absolutely delicious, but it's very good for you.  Peanut butter has all the same downisdes as regular nuts though, but even worse, as it's even easier to over eat.  Just a large spoonful, or about 2 tbsp (32 g), of peanut butter contains 190 calories.  So while its packed with healthy fats and micronutrient, you need to be very mindful of your nut butter consumption, as the calories can add up very quick.  If you're eating peanut butter with your apple, you'll probably end up consuming twice as many caloreis from peanut butter than from the apple itself.
 
-<center><img src="/assets/Misc/Trap/pb.jpg" alt="" class="larger-image"></center><br>
+<center><img src="/assets/Misc/Trap/pb.jpg" alt=""></center><br>
 &emsp;However, overconsumption isn't even the main problem with peanut butter.  The problem is the fake "no stir" peanut butter, that also contain hydroginated oils and sugar.  This peanut spread is cheaper than even buying your own peanuts and grinding them yourself, just fueling the problem (remember: sugar and palm oil are very cheap).  Just like with regular nuts, make sure to only buy peanut butter (or any nut butter) that is labeled as natural, and contains only nuts and salt.  My favorite brands (when I don't make it myself) are <a href="https://www.walmart.com/ip/Teddie-All-Natural-Smooth-Peanut-Butter-36-oz/640652420?from=/search">Teddie</a> and Trader Joe's.  Stay away from any flavored nut butters, especially...
 
 <div id="nutella"></div>
@@ -133,43 +136,83 @@ tags:
 
 <div id="dried-fruit"></div>
 <br><i><font size="+2">Dried Fruit</font></i><br>
-&emsp;test
+&emsp;Dried fruit is a bit of a mixed bag.  On the one hand, it's just fruit with the water removed, leaving a concentrated source of minerals but natural sugars.  On the other hand, some dried fruits are pumped full of added sugars.  Generally, raisins, dates, figs, and unsweetened freeze fried fruit crisps are pretty good, as all the sugar in these are just from the fruit itself.  Dried apricots and plums also tend to be unsweetened; just look out for the ingredients list.  Even though, you should be mindful of your dried fruit consumption, as it's very easy to overeat without all the water from the whole fruit.  Think about how many raisins you can eat in a handful, versus how many grapes you would eat in 1 bite.  Just like with nuts, dried fruit can be a healthy addition to your diet as long as your mindful of how much you're eating.
+
+<center><img src="/assets/Misc/Trap/cranberry.jpg" alt="" class="larger-image"></center><br>
+&emsp;The bigger problem though comes from dried fruits with added sugars.  Dried cranberries, or crasins, are easily the worst offenders here.  Have you ever had a fresh cranberry?  They're insanely tart (which is apparently how fruit used to taste before we selectively bred them to be sweeter).  Compare that to dried cranberries though.  Dried cranberries are entirely added sugar.  You wouldn't think of putting Sour Patch Kids on your salad.  Raisins are nature's candy, but craisins are just candy for adults.  Just a 1/3 cup (40 g) serving contains a whopping 26 g of added sugar!  That's already over the American Heart Association's (AHA) daily guidelines for added sugar consumption for women.  Other sweetened dried fruits to be cautious of include blueberries, mangos and cherries.
 
 <div id="juice"></div>
 <br><i><font size="+2">Fruit Juice</font></i><br>
-&emsp;test
+&emsp;So <a rel="" target="" href="#dried-fruit">dried fruit</a> is a highly concentrated source of sugar, even natural, that you should be mindful of consuming.  But what if we now removed all the fiber?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any added sugar, is only marginally better for you than a glass of soda.  You'll get some Vitamin C, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href="https://www.walmart.com/ip/Simply-Non-GMO-Orange-Juice-No-Pulp-52-fl-oz-Bottle/959033640?athbdg=L1200&from=/search">orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without fiber to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
 
+<center><img src="/assets/Misc/Trap/oj.jpg" alt="" class="larger-image"></center><br>
 <div id="smoothie"></div>
 <br><i><font size="+2">Smoothies</font></i><br>
-&emsp;test
+&emsp;So if <a rel="" target="" href="#dried-fruit">dried fruit</a> is a maybe and <a rel="" target="" href="#juice">fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more fiber than fruit juice.  However, the process of blending fruit destroys some of it's fiber.  A smoothie can still be healthy however.  Just make sure to add some protein and fat to slow down the spike to your blood sugar.  I prefer using protein powder, greek yogurt, and chia seeds for a <a href="/recipes/smoothie">Protein Fruit Smoothie</a> if I do have one, but peanut or almond butter also work as great fat sources.  The healthiest smoothies also include some vegetables like spinach as well.
+
+<center><img src="/assets/Food/Drinks/Smoothie/smoothie-cover.jpg" alt="" class="instruction-image"></center><br>
+&emsp;And of course, only use an unsweetened liquid for your smoothies, like milk, unsweetened plant milks, or water.  Fruit is already plenty sweet without the addition of added sugars from the milk or any additional honey.  Smoothies are great to make yourself, but be very weary of ordering one anywhere, since you don't know how much added sugar is secretly in that glass.
 
 <div id="sports-drinks"></div>
 <br><i><font size="+2">Sports Drinks</font></i><br>
-&emsp;test
+&emsp;Sports drinks, when used as they are intended, can be exactly what your body needs.  One medium 12 oz bottle of <a href="https://www.walmart.com/ip/Gatorade-Thirst-Quencher-Fruit-Punch-Sports-Drinks-12-fl-oz-12-Count-Bottles/10449240?athbdg=L1600&from=/search">Gatorade</a> contains 21 g of added sugar and 160 mg of sodium.  Which after a really strenuous activity, like a marathon, is exactly what you need.  The simple sugars replenish your glycogen stores in your liver, and sodium is an essential nutrient that is lost through sweating.  If you're sweating a ton, sick, or hungover, a Gatorade can be a lifesaver.
+
+<center><img src="/assets/Misc/Trap/gatorade.jpg" alt="" class="larger-image"></center><br>
+&emsp;Or it can be a noncarbinated salt soda if you're consuming it incorrectly.  The fact of the matter is that most Americans are not exercising enough, and consuming way too much ultraprocessed foods.  That means a high consumption of added sugar and salt, without any way of your body to use it.  So another addition source of the 2 is way more likely to do harm than good.  Save sports drinks for after intense physical activity, and not after a kid's leisurely soccer game or as a sipping drink throughout the day.  Give little Jimmy an orange instead.
 
 <div id="energy-drinks"></div>
 <br><i><font size="+2">Energy Drinks</font></i><br>
-&emsp;test
+&emsp;What if you take a sports drinks, remove some of the salt, and instead add a ton of caffeine and some B vitamins?  You end up with a Red Bull.  Surprisingly, most energy drinks actually come packed with vitamins and minerals, with concentrations as much as a multivitamin.  They also contain a ton of added sugar (go figure) and caffeine (which isn't necessarily good or bad, just something to be mindful of).  
 
-<div id="diet-soda"></div>
-<br><i><font size="+2">Diet Soda</font></i><br>
-&emsp;test
+<center><img src="/assets/Misc/Trap/energy-drink.jpg" alt="" class="larger-image"></center><br>
+&emsp;I found this image under the listing for <a href="https://www.walmart.com/ip/Red-Bull-Energy-Drink-8-4-fl-oz-Pack-of-12-Cans/10316267?athbdg=L1200&from=/search">Red Bull</a> on Walmart, where they out themselves as being worse for you than a typical soda or fruit juice.  Thankfully there are some brands of energy drinks that don't have any added sugar like <a href="https://www.walmart.com/ip/CELSIUS-Sparkling-Vibe-Variety-Pack-Functional-Essential-Energy-Drink-12-fl-oz-Pack-of-12/584986458?athbdg=L1600&from=/search">Celsius</a>, but that doesn't make them healthy, just less bad.  Energy drinks aren't bad if you got a particularly terrible night's sleep, need to pull the (occasional) all nighter, or if you're out partying.  Just dont rely on them; I see people drinking these all the time at the office or the gym.
+
+<div id="coffee"></div>
+<br><i><font size="+2">Coffee</font></i><br>
+&emsp;As I mentioned above with <a rel="" target="" href="#energy-drinks">energy drinks</a>, caffeine isn't inherently good or bad.  It can absolutely be a substance of toxic abuse, or it can help improve alertness and brain function.  For clarity, I'll say that I don't consume coffee or any caffeine.  I've just never drank it, so my body has never developed a dependency for it like most people.  There are studies showing the benefits of caffeine in moderation however; every coin has 2 sides.
+
+<center><img src="/assets/Misc/Trap/coffee.jpg" alt=""></center><br>
+&emsp;So why is coffee on this list then?  Added fat and sugar.  <a href="https://www.starbucks.com/menu/product/873068728/iced/nutrition">Starbucks Peppermint White Chocolate Mocha Frappuccino</a> contains a tooth shattering and diabetes inducing 73 g of added sugar, as well as 470 calories and 17 g of fat.  That's almost 10 g more sugar and double the calories of a 16.9 fl oz <a href="https://www.walmart.com/ip/Mountain-Dew-The-Original-Soda-Pop-16-9-fl-oz-6-Pack-Bottles/16785022?athbdg=L1600&from=/search">Mountain Dew</a>.  One of these every morning along with a <a rel="" target="" href="#muffins">muffin</a> is a one way ticket to metabolic syndrome.  Only black coffee contains any benefits; this is just a caffeinated milkshake.
 
 <div id="iced-tea"></div>
 <br><i><font size="+2">Iced Tea</font></i><br>
-&emsp;test
+&emsp;I think most people can agree that while tea is healthy, there's no health benefits of a Snapple or Arnold Palmer iced tea.  The issue comes from the iced teas that are marketed as being "healthy", with <a href="https://www.walmart.com/ip/Pure-Leaf-Raspberry-Real-Brewed-Iced-Tea-Bottled-Tea-Drink-16-9-oz-6-Bottles/217654271?athbdg=L1600&from=/search">Pure Leaf</a> being the main brand.  For a 16.9 fl oz serving of Pure Leaf, there's 42 g of added sugar, or 2.5 g per fl oz.  Just a single bottle contains over 1.5x your daily added sugar maximum.  The nutrition facts for the Pure Leaf are on the left below.  
 
+<center><img src="/assets/Misc/Trap/iced-tea.jpg" alt=""></center><br>
+&emsp;Compare that to this <a href="https://www.walmart.com/ip/Great-Value-Sweet-Brewed-Iced-Tea-128-fl-oz-Bottle/10899050?athbdg=L1600&from=/search">Great Value Iced Tea</a> (on the right in the above image).  This store brand iced tea has 30 g of added sugar in a 12 fl oz serving, or 2.5 g of sugar per fl oz.  Hey look at that; it's the exact same amounts of added sugar!  Don't be a fool to marketing.
+
+<div id="diet-soda"></div>
+<br><i><font size="+2">Diet Soda</font></i><br>
+&emsp;So no sugar = healthy, right?  Not quite.  While the issue of artificial sweeteners is a highly contested topic, it is generally agreed that artificial sweeteners, and by extension diet coke, are less bad than their full sugar counterparts.  Less bad, but that doesn't mean good.  Diet soda is good if you addicted to regular soda, and are trying to wean yourself off.  In the same way that vaping could be helpful as a way to quit cigarettes.  That doesn't mean you should take up vaping, and the same holds true for a Diet Coke.
+
+<center><img src="/assets/Misc/Trap/diet-soda.jpg" alt="" class="larger-image"></center><br>
 <div id="milk"></div>
 <br><i><font size="+2">Milk</font></i><br>
-&emsp;test
+&emsp;Ah, the humble milk.  Whether you get whole milk, low fat, or skim, milk can be a nutrition option.  It's a complete protein, the fat helps with feeling satiated, and of course is a good source of calcium.  Milk isn't on this list because of it's fat content.  I think we know by now that fat is very good for you when not overconsumed; we don't live in the low fat craze of the 90s anymore.
+
+<center><img src="/assets/Misc/Trap/milk.jpg" alt="" class="larger-image"></center><br>
+&emsp;The issue is again, added sugars (are you seeing a pattern?), and this plagues both milk and milk adjacent products.  Firstly, let's look at chocolate milk and strawberry milk.  A 14 fl oz bottle of <a href="https://www.walmart.com/ip/Nestle-Nesquik-Chocolate-Lowfat-Milk-Ready-to-Drink-14-fl-oz-Bottle/24100302?athbdg=L1600&from=/search">Chocolate Milk</a> or <a href="https://www.walmart.com/ip/Nestle-Nesquik-Strawberry-Low-Fat-Milk-Ready-to-Drink-14-fl-oz-Bottle/24414358?athbdg=L1200&from=/search">Strawberry Milk</a> contain 39 g of sugar, 18 g of which are added.  But they're made with low fat milk, so people were duped into thinking these were helathy ways to give their kids calcium.  Oh, and strawberry milk doesn't contain any strawberry.  Go figure.
+
+&emsp;The other main issue with milk is it's non-dairy counterparts.  I'm talking about almond, oat, soy, pea, cashew, and any other type of plant milk you can think of.  I'll be fully transparant and say that I keep almond milk in my fridge instead of cow's milk, mainly because it lasts way longer in the fridge (a few months instead of just a week).  I hardly ever drink milk too; normally it gets used a little at a time in my oatmeal or something.
+
+<center><img src="/assets/Misc/Trap/almond-milk.jpg" alt="" class="larger-image"></center><br>
+&emsp;As long as you purchsae an unsweetened variety, you should be relatively okay.  Most plant based milk do contain other gums and weird ingredient, so as an almond milk purchaser, I will say that cow's milk is almost always the better choice (assuming you can digest it).  Sweetened plant based milk can have 12 g of added sugar in just a cup, as is the case with this <a href="https://www.walmart.com/ip/Almond-Breeze-Vanilla-Almond-Milk-64-oz-Bottle/11961012?from=/search">Sweetened Vanilla Almond Milk</a>.  I always stick to either <a href="https://www.walmart.com/ip/Almond-Breeze-Unsweetened-Original-Almondmilk-Refrigerated-64-oz/23658427?from=/search">Unsweetened Original Almond Milk</a> or <a href="https://www.walmart.com/ip/Almond-Breeze-Unsweetened-Vanilla-Almond-Milk-Refrigerated-64-oz/12443612?from=/search">Unsweetened Vanilla Almond Milk</a>, or occasionally I'll make my own <a href="/recipes/oat-milk">Homemade Plant Based Milk</a> using either oats or peanuts for a cheaper option. 
+
+&emsp;I'll be honest and say that in high school, I never used to understand why my mom would get mad at me for buying vanilla almond milk instead of unsweetened vanilla almond milk, but we all grow up and learn from our mistakes.  Be willing to change, and keep an open milk (I mean mind).
 
 <div id="yogurt"></div>
 <br><i><font size="+2">Yogurt</font></i><br>
-&emsp;test
+&emsp;Yogurt, just like <a rel="" target="" href="#milk">milk</a> has the same deceptions.  It offers low fat "healthier" varieties that are pumped full of added sugar, and are way worse for you than their original full fat counterparts.  Just like with milk, the low or no fat options can also be healthy, as long as they are plain.  For me, <a href="https://www.walmart.com/ip/Great-Value-Greek-Plain-Nonfat-Yogurt-32-oz-Tub/26559565?athbdg=L1200&from=/search">Plain Nonfat Greek Yogurt</a> is the king of all dairy products.  Just 1 serving (2/3 cup, 170 g) contains 17 g of protein, no fat, no added sugar, and just 100 calories.  Greek yogurt is also a fantastic source of both calcium and vitamin B12, where 1 serving has 15% and 53% of your daily value, respectively.  I opt for the nonfat version, as I don't taste a difference between that and the full fat variety, so I'll instead get my fat from other sources, like <a rel="" target="" href="#nuts">nuts</a>, chia seeds, or natural <a rel="" target="" href="#peanut-butter">nut butter</a>.
+
+<center><img src="/assets/Misc/Trap/yogurt.jpg" alt="" class="larger-image"></center><br>
+&emsp;Things start to get worse when you look at flavored yogurt, where <a href="https://www.walmart.com/ip/Great-Value-Greek-Vanilla-Nonfat-Yogurt-32-oz-Tub-Plastic-Container/26559602?athbdg=L1200&from=/search">Vanilla Nonfat Greek Yogurt</a> contains 13 g of added sugar (remeber, that's up from 0 g), and less protein (14 g instead of 17 g).  Don't be fooled by the fruit flavors either, even the ones with fruit chunks in them.  These contain just as much added sugar as the vanilla, if not more.  I used to eat the single serving fruit cup yogurts (like <a href="https://www.walmart.com/ip/Chobani-Hero-Batch-Vanilla-Greek-Yogurt-with-Mixed-Berry-on-the-Bottom-5-3-oz-4-Count-Plastic/519060542?athbdg=L1200&from=/search">this one</a>) every day in high school, until it started to hurt my teeth to eat it.  Only then did I flip it over and notice how much sugar was loaded into these small "healthy" cups.  Stick to plain, and add your own fruit and additional sweetner if desired.
+
+<center><img src="/assets/Misc/Trap/vanilla-yogurt.jpg" alt="" class="larger-image"></center><br>
+&emsp;Leaving the realm of Greek yogurt and going to <a href="https://www.walmart.com/ip/Great-Value-Original-Vanilla-Lowfat-Yogurt-32-oz/10450127?athbdg=L1200&from=/search">Vanilla Lowfat Yogurt</a>, the added sugar content increases yet again to 16 g, and the protein content is slashed down to just 5 g now.  <a href="https://www.yoplait.com/products/original-single-serve-key-lime-pie">Yopait Key Lime Pie Yogurt</a> was my favorite in elementary and middle school, and unforunately it does not fare any better.  At the bottom of the barrel is <a href="https://www.walmart.com/ip/Go-GURT-SpongeBob-SquarePants-Kids-Fat-Free-Yogurt-Variety-Pack-2-oz-Yogurt-Tubes-16-Ct/138914564?athbdg=L1200&from=/search">Go-GURT</a>, but I don't think anyone thinks this junk could be healthy right?
 
 <div id="pretzels"></div>
 <br><i><font size="+2">Pretzels</font></i><br>
-&emsp;test
+&emsp;Let's leave the world of dairy and move on to snack foods.  First on the chopping block: pretzels.  I'll just come out and say it: I was the weird kid who liked getting pretzel on Halloween (everything is probably starting to add up now).
 
 <div id="crackers"></div>
 <br><i><font size="+2">Crackers</font></i><br>
@@ -303,3 +346,8 @@ tags:
 5. <a href="https://www.mdvip.com/about-mdvip/blog/six-so-called-healthy-foods">Fake Healthy Foods: 6 Foods We Think are Healthy</a><br>
 6. <a href="https://www.healthline.com/nutrition/9-benefits-oats-oatmeal">9 Health Benefits of Eating Oats and Oatmeal</a><br>
 7. <a href="https://www.healthline.com/nutrition/8-benefits-of-nuts">8 Health Benefits of Nuts</a><br>
+8. <a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars">Added Sugars</a>
+9. <a href="https://www.heartandstroke.ca/articles/the-truth-about-juice#:~:text=There%20is%20one%20bright%20spot,linked%20to%20poor%20health%20outcomes.">The truth about juice</a>
+10. <a href="https://www.medicalnewstoday.com/articles/285194#:~:text=A%2075%2Dmg%20serving%20of,not%20a%20substitute%20for%20sleep.">What does caffeine do to your body?</a>
+11. <a href="https://www.eatthis.com/starbucks-drinks-ranked-by-sugar/">Every Starbucks Coffee Drink - Ranked by Sugar Content</a>
+12. <a href="https://www.healthline.com/nutrition/milk-benefits#TOC_TITLE_HDR_6">5 Ways That Drinking Milk Can Improve Your Health</a>

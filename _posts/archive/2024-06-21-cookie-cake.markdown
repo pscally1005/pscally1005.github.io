@@ -4,7 +4,7 @@ title:  "Chocolate Chip Cookie Cake"
 date:   2024-06-21 00:00:00 -05000
 categories: 
 - Recipes
-- Healthier Dessert
+- Archive
 permalink: /recipes/chocolate-chip-cookie-cake
 image: /assets/Food/Healthier Dessert/Cookie Cake/cookie-cake-cover.jpg
 ing: cookiecake-ing
