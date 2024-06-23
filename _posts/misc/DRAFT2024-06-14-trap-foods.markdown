@@ -40,10 +40,7 @@ tags:
 * <a rel="" target="" href="#crackers">Crackers</a><br>
 * <a rel="" target="" href="#chips">Chips</a><br>
 * <a rel="" target="" href="#popcorn">Popcorn</a><br>
-* <a rel="" target="" href="#keto">Keto Snacks</a><br>
-* <a rel="" target="" href="#vegan">Vegan Snacks</a><br>
-* <a rel="" target="" href="#gluten-free">Gluten Free Snacks</a><br>
-* <a rel="" target="" href="#organic">Organic Snacks</a><br>
+* <a rel="" target="" href="#diets">Keto, Vegan, Gluten Free, and Organic Snacks</a><br>
 * <a rel="" target="" href="#protein">Protein Bars and Snacks</a><br>
 * <a rel="" target="" href="#rice-cakes">Rice Cakes</a><br>
 * <a rel="" target="" href="#white-rice">White Rice</a><br>
@@ -212,35 +209,49 @@ tags:
 
 <div id="pretzels"></div>
 <br><i><font size="+2">Pretzels</font></i><br>
-&emsp;Let's leave the world of dairy and move on to snack foods.  First on the chopping block: pretzels.  I'll just come out and say it: I was the weird kid who liked getting pretzel on Halloween (everything is probably starting to add up now).
+&emsp;Let's leave the world of dairy and move on to snack foods.  First on the chopping block: pretzels.  I'll just come out and say it: I was the weird kid who liked getting pretzel on Halloween (everything is probably starting to add up now).  I've always like fresh baked desserts, but I've never been a fan of packages cookies or candy; they're just too sweet with no flavor.
+
+<center><img src="/assets/Misc/Trap/pretzels.jpg" alt="" class="larger-image"></center><br>
+&emsp;Backstory aside, let's get back to pretzels.  Pretzels are though of as a healthier snack for some reason; I'm guessing because they're savory instead of sweet.  So added sugar isn't an issue for once; these <a href="https://www.walmart.com/ip/Great-Value-Mini-Pretzel-Twists-16-oz/890488670?athbdg=L1200&from=/search">Great Value Pretzels</a> contain virtually none.  The problem is that they're not much more than an ultraprocessed white flour snack with a ton of salt. The enriched flour is stripped of all it's fiber and micronutrients, leaving just starch and empty calories.  At least they're low in fat though, unlike <a rel="" targer="" href="#crackers">crackers</a> and <a rel="" targer="" href="#chips">chips</a>.  I'll be honest, I still love pretzels to this day, but they're still a treat I enjoy in moderation.
 
 <div id="crackers"></div>
 <br><i><font size="+2">Crackers</font></i><br>
-&emsp;test
+&emsp;Crackers we easily my go to snack growing up.  <a href="https://www.walmart.com/ip/RITZ-Fresh-Stacks-Original-Crackers-Family-Size-17-8-oz/52234929?athbdg=L1200&from=/search">Ritz</a>, <a href="https://www.walmart.com/ip/Great-Value-Cinnamon-Graham-Crackers-14-4-oz/10315533?athbdg=L1600&from=/search">Graham Crackers</a>, you name it.  I used to have an obsession with <a href="https://www.walmart.com/ip/Wheat-Thins-Original-Whole-Grain-Wheat-Crackers-Family-Size-14-oz/810836571?athbdg=L1200&from=/search">Wheat Thins</a>, where in college my friend shipped me 18 boxes for my birthday (thanks Sean, I ate them all).
+
+<center><img src="/assets/Misc/Trap/crackers.jpg" alt="" class="larger-image"></center><br>
+&emsp;Crackers have the same issue as pretzels though.  While being low in sugar, they can just be empty start calories from refined white flour.  Some crackers are also noticeably in both fat (think "butter" crackers like Ritz), or sugar (sweet graham crackers).  A serving of Ritz is a measly 5 crackers, with 4.5 g of fat and 3 g of sugar.  Graham crackers aren't any better, where a serving (2 full cracker sheets) has 3.5 g of fat and 8 g of added sugar.  My precious wheat things are actually high in both, where just a 16 cracker serving has 5 g of fat (from canola oil) and 5 g of sugar.  These don't sound terrible, but you and I will certainly be eating more than just 1 serving if we're not paying attention.
 
 <div id="chips"></div>
 <br><i><font size="+2">Chips</font></i><br>
-&emsp;test
+&emsp;I think everyone can agree that <a href="https://www.walmart.com/ip/Lay-s-Classic-Potato-Chips-Snack-Chips-8-oz/33282303?athbdg=L1200&from=/search">Lay's Potato Chips</a> or <a href="https://www.walmart.com/ip/Doritos-Nacho-Cheese-Tortilla-Snack-Chips-Party-Size-14-5-oz-Bag/433078517?athbdg=L1200&from=/search">Doritos</a> aren't healthy.  In fact, they're probably the default junk food snack that people think of, up there with cookies and candy.  There are lots of different types of chips though, with <a href="https://www.walmart.com/ip/Tostitos-Scoops-Tortilla-Chips-Party-Size-14-5-oz-Bag/11027423?athbdg=L1600&from=/search">tortilla chips</a> being the other main variety.  Most would probably also agree that tortilla chips are junk food, so I'm not gonna spend any time here.  Any type of chip is going to be relatively low in sugar, but very high in fat and salt.
+
+<center><img src="/assets/Misc/Trap/chips.jpg" alt="" class="larger-image"></center><br>
+&emsp;There are variations of chips that are marketed as being healthy though.  These include veggie straws, plantain chips, and banana chips.  Starting with <a href="https://www.walmart.com/ip/Sensible-Portions-Gluten-Free-Sea-Salt-Garden-Veggie-Wavy-Chips-7-oz-Bag/20369844?athbdg=L1600&from=/search">Veggie Straws</a>, these are just potato shapes in a different shape, with a tiny bit of dehydrated vegetable.  They're basically the potato chip version of <a href="https://www.walmart.com/ip/Barilla-Classic-Non-GMO-Kosher-Certified-Tri-Color-Rotini-Pasta-12-oz/10309200?athbdg=L1600&from=/search">Tri-Color Rotini Pasta</a>; just a fun different color, no more, no less.  
+
+&emsp;Next up is <a href="https://www.walmart.com/ip/Goya-Plantain-Chips-5-oz/49642283?athbdg=L1200&from=/search">Plantain Chips</a>.  Instead of deepfrying potatoes to make potato chips, these are just deepfried plantains.  It's a starchy vegetable (good) fried in vegetable oil (bad).  Both <a rel="" targer="" href="#potatoes">potatoes</a> and plantains are healthy on their own, but can be turned into junk food when prepared like so.  Now replace the plantians with bananas, add a little bit of sugar, and you end up with <a href="https://www.walmart.com/ip/Great-Value-Sweetened-Banana-Chips-12-oz/35192848?athbdg=L1200&from=/search">banana chips</a>.  These tend to use coconut oil at least, but that's a mild improvement.  If you can, make them yourself, or just eat the whole fruit/vegetable.
 
 <div id="popcorn"></div>
 <br><i><font size="+2">Popcorn</font></i><br>
-&emsp;test
+&emsp;This one might actually be the opposite of the others on this list.  Most people would associate popcorn with being junk food, eaten with a ton of butter alongside a candy at the movies.  But popcorn can actually be a relatively healthy snack with a lot of volume if prepared correctly.  Just 3 tbsp (40 g) of unpopped kernels turns into a whopping 7.5 cups when cooked.  I've never been a personal fan of popcorn (it always gets stuck in my teeth), but I've heard that <a href="https://www.walmart.com/ip/Orville-Redenbacher-s-Original-Gourmet-Yellow-Popcorn-Kernels-45-oz/10312395?athbdg=L1600&from=/search">plain popcorn</a> with some nutritional yeast or other spices can make for a very satisfying snack.  Yes it's essentially all carbs with a mediocre amount of fiber and protein, but a full serving actually looks like a lot of food since it's mostly air.  Just make sure to get plain popcorn kernels like the one linked above and shown below.
 
-<div id="keto"></div>
-<br><i><font size="+2">Keto Snacks</font></i><br>
-&emsp;test
+<center><img src="/assets/Misc/Trap/popcorn.jpg" alt="" class="larger-image"></center><br>
+&emsp;Just stay away from the <a href="https://www.walmart.com/ip/Great-Value-Extra-Butter-Flavored-Microwave-Popcorn-2-55-oz-12-Count/812120929?athbdg=L1200&from=/search">microwaveable bags of popcorn</a>.  These have a lot of salt, fat (palm oil), and preservatives.  Additionally, the packaging for microwave popcorn contains PFAS, or forever chemicals, which are linked to many negative health outcomes including cancer and lung problems.
 
-<div id="vegan"></div>
-<br><i><font size="+2">Vegan Snacks</font></i><br>
-&emsp;test
+<div id="diets"></div>
+<br><i><font size="+2">Keto, Vegan, Gluten Free, and Organic Snacks</font></i><br>
+&emsp;Despite being very different, most diets work for weight loss and better overall health because they have one main thing in common: limiting your consumption of ultraprocessed junk and focusing on real whole foods.  Which is great, until the diet becomes trendy, and companies capatalize on this.
 
-<div id="gluten-free"></div>
-<br><i><font size="+2">Gluten Free Snacks</font></i><br>
-&emsp;test
+<center><img src="/assets/Misc/Trap/keto.jpg" alt="" class="larger-image"></center><br>
+&emsp;First up is keto.  For those living under a rock, a ketogenic, or keto diet is extremely low carb and high fat.  This means a lot of oil, butter, nuts, and fatty fish (ooh sounds good), and no high carb foods like bread, rice, pasta, or even beans (whelp nevermind).  Keto is the hot and trendy diet right now, with snacks such as <a href="https://www.walmart.com/ip/HighKey-Sugar-Free-Cookie-Low-Carb-Keto-Snack-Gluten-Free-Chocolate-Chip-3oz/771869727?athbdg=L1200&from=/search">cookies</a>, <a href="https://www.walmart.com/ip/Duncan-Hines-Keto-Friendly-Chewy-Fudge-Brownie-Mix-10-oz/433466256?from=/search">brownie mix</a>, <a href="https://www.walmart.com/ip/Atkins-Protein-Chips-Keto-Friendly-Baked-Not-Fried-Ranch-1-1oz/541867558?athbdg=L1200&from=/search">chips</a>, and more hitting the store shelves.  These are similar to their original counterparts, with just all the carbs removed.  Mainly, they use stevia or erythritol instead of sugar, and almond flour instead of wheat or corn.  While maybe being margianlly healthier, these snacks are still ultraprocessed, containing a laundry list of ingredients, with a lot of hydroginated oils, salt, and preservatives.
 
-<div id="organic"></div>
-<br><i><font size="+2">Organic Snacks</font></i><br>
-&emsp;test
+<center><img src="/assets/Misc/Trap/vegan.jpg" alt="" class="larger-image"></center><br>
+&emsp;Many people you have the false notion that vegan = healthy.  But you can be very unhealthy on a vegan diet, or very healthy on an omnivorous diet.  Not eating animal products does not directly correlate to better health; eating more whole foods does (which vegans tend to do, so that's a plus).  You know what else is vegan though: <a href="https://www.walmart.com/ip/Oreo-Chocolate-Sandwich-Cookies-Party-Size-24-16-oz/5035879686?from=/search">Oreo's</a>, <a href="https://www.walmart.com/ip/Coca-Cola-Classic-Soda-Pop-16-9-fl-oz-Bottles-6-Pack/10535170?athbdg=L1600&from=/search">Coca-Cola</a>, and <a href="https://www.walmart.com/ip/SOUR-PATCH-KIDS-Original-Soft-Chewy-Candy-Share-Size-12-oz/580621266?athbdg=L1600&from=/search">Sour Patch Kids</a>.  I think you get my point.  Even the supposadly healthier snacks (like these <a href="https://www.walmart.com/ip/Nature-s-Bakery-Oatmeal-Crumble-Strawberry-Breakfast-Snack-Bars-1-41-oz-10-Count/338684992?athbdg=L1600&from=/search">Nature's Bakery</a> bars) are just expensive and fancy looking versions of the original products, and are at best only marginally better for you.
+
+<center><img src="/assets/Misc/Trap/gf.jpg" alt="" class="larger-image"></center><br>
+&emsp;At least (most) people have a good reason for following a strict gluten free diet, with that being Celiac disease.  Gluten comes from grains such as barley, rye, and of course wheat.  It would be assumed then that a gluten free diet would be healthier then, omitting all sources of flour, thus eliminating any ultraprocessed "foods" containing it.  But there's still plenty of junk food that's naturally gluten free (pretty much all <a rel="" target="" href="#chips">chips</a> are), and some specifically made to be gluten free.  You can still get gluten free cookies like <a href="https://www.walmart.com/ip/OREO-Gluten-Free-Chocolate-Sandwich-Cookies-Gluten-Free-Cookies-12-08-oz/1537120639?athbdg=L1200&from=/search">Oreo's</a> and <a href="https://www.walmart.com/ip/Tate-s-Bake-Shop-Gluten-Free-Chocolate-Chip-Cookies-Gluten-Free-Cookies-7-oz/36310776?athbdg=L1300&from=/search">Tate's</a>.  Fine treats to have on occasion (everything in moderation, remember), but don't fool yourself into thinking it's healthier because it contains no gluten.
+
+<center><img src="/assets/Misc/Trap/organic.jpg" alt="" class="larger-image"></center><br>
+&emsp;Finally, and probably worst of all, we have organic.  Why is organic the worst?  Because it's the most ambiguous.  All the other categories above (keto, vegan, and gluten free) have hard set criteria for what is and isn't allowed.  Organic though: can anyone actually define what that means?  Why do <a href="https://www.walmart.com/ip/Simply-Doritos-Organic-White-Cheddar-Tortilla-Chips-7-5-oz-Bag/165522395?from=/search">Doritos</a> and <a href="https://www.walmart.com/ip/Simply-Tostitos-Organic-Blue-Corn-Tortilla-Chips-8-25-oz-Bag/49909674?athbdg=L1200&from=/search">Tostitos</a> make organic chips?  Sure, I guess it's better to smoke 19 cigarettes a day instead of a full pack (20), but what benefit are you really getting here.
 
 <div id="protein"></div>
 <br><i><font size="+2">Protein Bars and Snacks</font></i><br>
@@ -351,3 +362,5 @@ tags:
 10. <a href="https://www.medicalnewstoday.com/articles/285194#:~:text=A%2075%2Dmg%20serving%20of,not%20a%20substitute%20for%20sleep.">What does caffeine do to your body?</a>
 11. <a href="https://www.eatthis.com/starbucks-drinks-ranked-by-sugar/">Every Starbucks Coffee Drink - Ranked by Sugar Content</a>
 12. <a href="https://www.healthline.com/nutrition/milk-benefits#TOC_TITLE_HDR_6">5 Ways That Drinking Milk Can Improve Your Health</a>
+13. <a href="https://www.medicalnewstoday.com/articles/does-microwave-popcorn-cause-cancer">Does microwave popcorn cause cancer?</a>
+14. <a href="https://www.thrillist.com/eat/nation/best-vegan-snacks-junk-food">Here are 17 Snacks You Never Knew Were Vegan</a>
