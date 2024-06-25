@@ -84,6 +84,19 @@ tags:
 <center><img src="/assets/Misc/Trap/oatmeal.jpg" alt="" class="larger-image"></center><br>
 &emsp;The main issue isn't with oatmeal, but how it's prepared.  I'm mainly talking about <a href="https://www.walmart.com/ip/Quaker-Instant-Oatmeal-Variety-Value-Pack-1-51-oz-20-Packets/45612375?athbdg=L1300&from=/search">flavored packets</a> of oatmeal here, like ones in the image above.  Unfortunately, these are really no different nutritionally from a bowl of sugary cereal; it's just warm now.  These packets are loaded with added sugars.  When it comes to oatmeal for breakfast, make it yourself from plain oats, and sweeten it with fruit and a small amount of maple syrup or honey if desired.  Also add some healthy fats like chopped nuts or nut butter, and some protein with yogurt or protein powder (or both!)
 
+<center><img src="/assets/Food/Breakfast/No Pro/no-pro.jpg" alt="" class="instruction-image"></center><br>
+&emsp;Below I'll list a bunch of oatmeal recipes which are all low in added sugar, packed with protein and fiber, have a good dose of healthy fats, and can be eaten warm or cold:<br>
+&emsp; - <a href="/recipes/no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a><br>
+&emsp; - <a href="/recipes/strawberry-chia-oatmeal">Strawberry Chia Protein Oatmeal</a><br>
+&emsp; - <a href="/recipes/no-yogurt-oatmeal">Yogurt Free Protein Oats</a><br>
+&emsp; - <a href="/recipes/big-boi">Bigger Boi Oatmeal</a><br>
+&emsp; - <a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a><br>
+&emsp; - <a href="/recipes/vic-oats">Very Vic</a><br>
+&emsp; - <a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>
+&emsp; - <a href="/recipes/oats-berry">Berry Delicious Protein Overnight Oats</a><br>
+&emsp; - <a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>
+&emsp; - <a href="/recipes/oats-reeses">Reese's Protein Overnight Oats</a><br>
+
 <div id="granola"></div>
 <br><i><font size="+2">Granola Bars</font></i><br>
 &emsp;Oatmeal flows us nicely into granola bars.  Usually though of as a healthy boring snack, these are actually much worse than they seem.  Granola and granola bars are loaded with added sugars; just 1 Chewy Chocolate Chip Granola Bar has 7 g of added sugar in a 24 g serving.  Do you know what else has the same amount of added sugar?  2 Chips Ahoy cookies.
@@ -91,7 +104,7 @@ tags:
 &emsp;The vast majority of bars on the market contain sugar (or some type of sugar) as one of the first 3 ingredients on the label, making them a dessert.  Don't think Nature Valley, Nutrigrain, Kind Bars, or Clif Bars are any better.  I will say I used to be a huge fan of all 4 of these, and Clif Bars in particular serve a purpose.  On a long hike or after a hard workout, the simple sugars in Clif Bars are actually exactly what your body needs to replenish energy, and the protein aids in recovery.  Just don't eat them as a day to day snack.
 
 <center><img src="/assets/Misc/Trap/bars-1.jpg" alt="" class="larger-image"></center><br>
-&emsp;If you're going to get a bar, I'd recommend either Larabar or RxBars; both are made with dates and nuts, and contain no added sugar or artificial sweeteners.  RxBars even have some protein powder as well.
+&emsp;If you're going to get a bar, I'd recommend either <a href="https://www.walmart.com/ip/Larabar-Blueberry-Muffin-Gluten-Free-Vegan-Fruit-Nut-Bars-6-ct/702968641?athbdg=L1600&from=/search">Larabar</a> or <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a>; both are made with dates and nuts, and contain no added sugar or artificial sweeteners.  RxBars even have some protein powder as well.
 
 <center><img src="/assets/Misc/Trap/bars-2.jpg" alt="" class="larger-image"></center><br>
 <div id="trail-mix"></div>
@@ -216,10 +229,10 @@ tags:
 
 <div id="crackers"></div>
 <br><i><font size="+2">Crackers</font></i><br>
-&emsp;Crackers we easily my go to snack growing up.  <a href="https://www.walmart.com/ip/RITZ-Fresh-Stacks-Original-Crackers-Family-Size-17-8-oz/52234929?athbdg=L1200&from=/search">Ritz</a>, <a href="https://www.walmart.com/ip/Great-Value-Cinnamon-Graham-Crackers-14-4-oz/10315533?athbdg=L1600&from=/search">Graham Crackers</a>, you name it.  I used to have an obsession with <a href="https://www.walmart.com/ip/Wheat-Thins-Original-Whole-Grain-Wheat-Crackers-Family-Size-14-oz/810836571?athbdg=L1200&from=/search">Wheat Thins</a>, where in college my friend shipped me 18 boxes for my birthday (thanks Sean, I ate them all).
+&emsp;Crackers we easily my go to snack growing up.  <a href="https://www.walmart.com/ip/RITZ-Fresh-Stacks-Original-Crackers-Family-Size-17-8-oz/52234929?athbdg=L1200&from=/search">Ritz</a>, <a href="https://www.walmart.com/ip/Great-Value-Cinnamon-Graham-Crackers-14-4-oz/10315533?athbdg=L1600&from=/search">Graham Crackers</a>, you name it.  I even have a recipe for <a href="/recipes/gf-crackers">Gluten Free Crackers</a>, that are basically mini healthy graham crackers.  I used to have an obsession with <a href="https://www.walmart.com/ip/Wheat-Thins-Original-Whole-Grain-Wheat-Crackers-Family-Size-14-oz/810836571?athbdg=L1200&from=/search">Wheat Thins</a>, where in college my friend shipped me 18 boxes for my birthday (thanks Sean, I would eat them every day when I woke up just before running).
 
 <center><img src="/assets/Misc/Trap/crackers.jpg" alt="" class="larger-image"></center><br>
-&emsp;Crackers have the same issue as pretzels though.  While being low in sugar, they can just be empty start calories from refined white flour.  Some crackers are also noticeably in both fat (think "butter" crackers like Ritz), or sugar (sweet graham crackers).  A serving of Ritz is a measly 5 crackers, with 4.5 g of fat and 3 g of sugar.  Graham crackers aren't any better, where a serving (2 full cracker sheets) has 3.5 g of fat and 8 g of added sugar.  My precious wheat things are actually high in both, where just a 16 cracker serving has 5 g of fat (from canola oil) and 5 g of sugar.  These don't sound terrible, but you and I will certainly be eating more than just 1 serving if we're not paying attention.
+&emsp;Crackers have the same issue as pretzels though.  While being low in sugar, they can just be empty starch calories from refined white flour.  Some crackers are also noticeably in both fat (think "butter" crackers like Ritz), or sugar (sweet graham crackers).  A serving of Ritz is a measly 5 crackers, with 4.5 g of fat and 3 g of sugar.  Graham crackers aren't any better, where a serving (2 full cracker sheets) has 3.5 g of fat and 8 g of added sugar.  My precious wheat things are actually high in both, where just a 16 cracker serving has 5 g of fat (from canola oil) and 5 g of sugar.  These don't sound terrible, but you and I will certainly be eating more than just 1 serving if we're not paying attention.
 
 <div id="chips"></div>
 <br><i><font size="+2">Chips</font></i><br>
@@ -251,20 +264,52 @@ tags:
 &emsp;At least (most) people have a good reason for following a strict gluten free diet, with that being Celiac disease.  Gluten comes from grains such as barley, rye, and of course wheat.  It would be assumed then that a gluten free diet would be healthier then, omitting all sources of flour, thus eliminating any ultraprocessed "foods" containing it.  But there's still plenty of junk food that's naturally gluten free (pretty much all <a rel="" target="" href="#chips">chips</a> are), and some specifically made to be gluten free.  You can still get gluten free cookies like <a href="https://www.walmart.com/ip/OREO-Gluten-Free-Chocolate-Sandwich-Cookies-Gluten-Free-Cookies-12-08-oz/1537120639?athbdg=L1200&from=/search">Oreo's</a> and <a href="https://www.walmart.com/ip/Tate-s-Bake-Shop-Gluten-Free-Chocolate-Chip-Cookies-Gluten-Free-Cookies-7-oz/36310776?athbdg=L1300&from=/search">Tate's</a>.  Fine treats to have on occasion (everything in moderation, remember), but don't fool yourself into thinking it's healthier because it contains no gluten.
 
 <center><img src="/assets/Misc/Trap/organic.jpg" alt="" class="larger-image"></center><br>
-&emsp;Finally, and probably worst of all, we have organic.  Why is organic the worst?  Because it's the most ambiguous.  All the other categories above (keto, vegan, and gluten free) have hard set criteria for what is and isn't allowed.  Organic though: can anyone actually define what that means?  Why do <a href="https://www.walmart.com/ip/Simply-Doritos-Organic-White-Cheddar-Tortilla-Chips-7-5-oz-Bag/165522395?from=/search">Doritos</a> and <a href="https://www.walmart.com/ip/Simply-Tostitos-Organic-Blue-Corn-Tortilla-Chips-8-25-oz-Bag/49909674?athbdg=L1200&from=/search">Tostitos</a> make organic chips?  Sure, I guess it's better to smoke 19 cigarettes a day instead of a full pack (20), but what benefit are you really getting here.
+&emsp;Finally, and probably worst of all, we have organic.  Why is organic the worst?  Because it's the most ambiguous.  All the other categories above (keto, vegan, and gluten free) have hard set criteria for what is and isn't allowed.  Organic though: can anyone actually define what that means?  Why do <a href="https://www.walmart.com/ip/Simply-Doritos-Organic-White-Cheddar-Tortilla-Chips-7-5-oz-Bag/165522395?from=/search">Doritos</a> and <a href="https://www.walmart.com/ip/Simply-Tostitos-Organic-Blue-Corn-Tortilla-Chips-8-25-oz-Bag/49909674?athbdg=L1200&from=/search">Tostitos</a> make organic chips?  What are you really doing here lmao.
 
 <div id="protein"></div>
 <br><i><font size="+2">Protein Bars and Snacks</font></i><br>
-&emsp;test
+&emsp;As I said in my <a href="/recipes/protein-bar">100 Calorie Protein Bars</a>, a protein bar needs to have at least 10 g of protein per 100 calories, and have no added sugar.  Otherwise, it's not a protein bar.  I love <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a>, but I wouldn't consider them a protein bar (not even my own <a href="/recipes/rx-bars">Copycat Chocolat RX Bars</a>).  They're still a healthy snack certainly, with good doses of healthy fats (nuts), natural sugars (dates), fiber (dates and nuts), and protein (egg white protien powder).  I'm ripping on RxBars here, but only because they're probably the <i>best</i> protein bars on the market; it pretty much just gets worse from here.
+
+<center><img src="/assets/Misc/Trap/protein.jpg" alt="" class="larger-image"></center><br>
+&emsp;Most other protein bars and snacks on the market contain vegetable oils, added sugars, and a slew of other weird ingredients.  They also have very high contents of other macro nutrients; I want a protien bar, not a fat bar or a carb bar.  Protein bars can be a great lean snack, and I can always add more fat (peanut butter) or carbs (banana) along side it.  Just because it has the word "protein" on it doesn't mean it's healthy, or necessarily even high in protein.  Some examples are <a href="https://www.walmart.com/ip/Great-Value-Chewy-Protein-Bar-Peanut-Butter-Dark-Chocolate-10g-Protein-5-Ct/26572609?athbdg=L1200&from=/search">Great Value</a>, <a href="https://www.walmart.com/ip/TRUBAR-Oh-Oh-Cookie-Dough-12CT-Indulgent-Nutrition-Healthy-on-the-Go-Snack-Bars-Plant-Based-Protein-Vegan-Gluten-Free/1873534436?from=/search">TruBar</a>, <a href="https://www.walmart.com/ip/Nature-Valley-Protein-Granola-Bars-Snack-Variety-Pack-Chewy-Bars-15-ct-21-3-OZ/274787674?from=/search">Nature Valley</a>, <a href="https://www.walmart.com/ip/Gatorade-Peanut-Butter-Chocolate-Whey-Protein-Bars-20g-Protein-6-Pack/558471204?from=/search">Gatorade</a>, <a href="https://www.walmart.com/ip/CLIF-BAR-Chocolate-Chip-Made-with-Organic-Oats-10g-Protein-Non-GMO-Plant-Based-Energy-Bars-2-4-oz-5-Pack/5195244229?athbdg=L1600&from=/search">Clif Bar</a>, <a href="https://www.walmart.com/ip/KIND-Protein-Gluten-Free-Dark-Chocolate-Nut-Snack-Bars-1-76-oz-5-Count/257609957?from=/search">Kind</a>, and <a href="https://www.walmart.com/ip/Kellogg-s-Special-K-Strawberry-Chewy-Protein-Meal-Bars-Ready-to-Eat-12g-Protein-Snacks-12-Count/23597988?from=/search">Kellogg's</a>.  All of these protein bars fail to hit those requires, with low protein contents and added sugar ranging between 5 g and 24 g per bar.
+
+<center><img src="/assets/Misc/Trap/protein-cookie.jpg" alt="" class="larger-image"></center><br>
+&emsp;It's not just bar; other protein snacks are just as guilty.  If it seems too good to be true, it probably is.  The following examples either come close or actually meet the protein bar requirements, but they're still ultraprocessed snacks to enjoy in moderation; not a building block of your daily diet.  I'm talking about protein <a href="https://www.walmart.com/ip/Quest-Protein-Cookie-High-Protein-Chocolate-Chip-4-Count/554117134?athbdg=L1600&from=/search">cookies</a>, <a href="https://www.walmart.com/ip/Quest-Tortilla-Style-Protein-Chips-Baked-19g-of-Protein-Loaded-Taco-1-1oz/207374879?athbdg=L1103&from=/search">chips</a>, and <a href="https://www.walmart.com/ip/Legendary-Foods-Protein-Pastry-Strawberry-2-2oz-Gluten-Free-Protein-Bar-Alternative-4-Pk/602941020?athbdg=L1200&from=/search">pastries</a>.  A good general rule of thumb is if there are multiple lines of ingredients, or ingredients you can't pronounce, you probably shouldn't be eating it often.  Look for foods with just a handful of real, whole food, ingredients (we've come back full circle to <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a>).
 
 <div id="rice-cakes"></div>
 <br><i><font size="+2">Rice Cakes</font></i><br>
-&emsp;test
+&emsp;Rice cakes just scream 1990's low fat craze to me.  They're basically all carbs and starch, but they're super light and airy; 1 whole rice cake weighs just 9 g and contains only 35 calories and 7 g of carbs.  They can be a great way to get some more carbs into your diet without going overboard like most snacks.  I'll be honest and say have some <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Lightly-Salted-Rice-Cakes-4-47oz/10312599?athbdg=L1200&from=/search">Lightly Salted Rice Cakes</a> in my cabinet right now.  
+
+&emsp;They're super customizable; think anyway you'd enjoy toast, you can do as a rice cake.  Rice cakes area be a great base, and you can easily top with some healthy fats (nuts or avocado), protein (yogurt or cottage cheese), or fruit (berries, bananas, apples, etc.).  Some sweet examples are:<br>
+&emsp;- <a href="/recipes/natural-peanut-butter">Natural Nut Butter</a> with sliced banana<br>
+&emsp;- Homemade jam (either <a href="/recipes/berry-jam">Low Sugar Berry Jam</a> or <a href="/recipes/strawberry-chia-jam">Strawberry Chia Jam</a>) and nuts<br>
+&emsp;- <a href="/recipes/cottage-cheese-peanut-butter">Cottage Cheese Peanut Butter</a> with blueberries<br>
+&emsp;- <a href="/recipes/nutella">Roasted Hazelnut Nutella (SF)</a> with sliced apples<br>
+&emsp;- <a href="/recipes/straw-mint">Strawberry Mint Protein Pistachio Butter</a> with sliced strawberries<br>
+&emsp;- <a href="/recipes/choc-pb">Chocolate Banana Protein Peanut Butter</a> with sugar free chocolate chips<br>
+&emsp;- <a href="/recipes/cran-almond">Cranberry Protein Almond Butter</a> with raspberries<br>
+&emsp;- <a href="/recipes/banana-bread-hummus">Banana Bread Hummus Spread</a> with toasted oats<br>
+&emsp;- <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a> with pumpkin seeds<br>
+
+<center><img src="/assets/Food/Sweet Spreads/PB/pb-cover.jpg" alt="" class="larger-image"></center><br>
+&emsp;You can make them savory too; sometimes I mix some plain nonfat greek yogurt or <a href="/recipes/guacamole">Holy Guacamole</a> with some spices, and top with sliced tomatoes, cucumber, or any other fresh produce in my fridge at the time.  Or you can just simply spread on some hummus.  Here are my homemade hummus recipes:<br>
+&emsp;- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>
+&emsp;- <a href="/recipes/roasted-red-pepper-hummus">Roasted Red Pepper Hummus</a><br>
+&emsp;- <a href="/recipes/roasted-garlic-hummus">Cheesy Garlic Hummus</a><br>
+&emsp;- <a href="/recipes/sweet-potato-hummus">Golden Sweet Potato Hummus</a><br>
+&emsp;- <a href="/recipes/roasted-eggplant-hummus">Mediterranean Roasted Eggplant Hummus</a><br>
+&emsp;- <a href="/recipes/roasted-beet-hummus">Creamy Roasted Beet Hummus</a><br>
+&emsp;- <a href="/recipes/ginger-hummus">Ginger Lime Black Bean Hummus</a><br>
+&emsp;- <a href="/recipes/hummus">Lemony Taco Inspired Hummus</a><br>
+
+<center><img src="/assets/Misc/Trap/rice-cake.jpg" alt="" class="larger-image"></center><br>
+&emsp;As with most things, make sure to get the plain variety.  The lightly salted ones contain nothing but brown rice and salt, 2 healthy ingredients.  The problem comes with the flavored rice cakes, like <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Caramel-Rice-Cakes-6-5-oz/10312601?athbdg=L1600&from=/search">Caramel</a>, <a href="https://www.walmart.com/ip/Quaker-Rice-Cakes-Whole-Grain-Chocolate-Gluten-Free-7-23-oz/13448658?athbdg=L1600&from=/search">Chocolate</a>, or <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Rice-Cakes-Variety-Pack-6-Bags/574038295?athbdg=L1600&from=/search">White Cheddar</a>.  Calories can double, sugar is added, and the ingredients list expands.
 
 <div id="white-rice"></div>
 <br><i><font size="+2">White Rice</font></i><br>
-&emsp;test
+&emsp;<a href="https://www.walmart.com/ip/Great-Value-Long-Grain-Enriched-Rice-32-oz/10315394?athbdg=L1600&from=/search">White rice</a> is fairly processed, removing the hull and bran and leaving just the starch.  It's basically the white flour equivalent for rice.  With just the starch, white rice is lacking the fiber, vitamins, and minerals of <a href="https://www.walmart.com/ip/Great-Value-Natural-Brown-Long-Grain-Rice-32-oz/10898755?athbdg=L1600&from=/search">brown rice</a>, which is why it's often enriched with micronutrients (the same is done with white bread).  More starch and less fiber leads to greater insulin spikes, increasing your risk for diabeter and metabilic syndrome.  Now I'm not saying that white rice is the most unhealthy thing in the world, far from it; I'm just simply saying there are better options.  Instead of white rice, try instead using brown rice, <a href="https://www.walmart.com/ip/Gourmet-House-Cultivated-Rice-Long-Grain-Wild-Rice-1-lb-Bag/534646756?athbdg=L1600&from=/search">wild rice</a>, <a href="https://www.walmart.com/ip/Success-Boil-in-Bag-Quinoa-Tri-Color-Quinoa-12-oz-4-Count/400339803?athbdg=L1600&from=/search">quinoa</a>, <a href="https://www.walmart.com/ip/RiceSelect-Original-Couscous-Moroccan-Style-Couscous-26-5-oz-Jar/10403512?athbdg=L1600&from=/search">couscous</a>, or even riced <a href="https://www.walmart.com/ip/Great-Value-Cauliflower-12-oz-Bag-Frozen/242699420?athbdg=L1600&from=/search">cauliflower</a> or <a href="https://www.walmart.com/ip/Great-Value-Frozen-Broccoli-Florets-12-oz-Steamable-Bag/735585383?athbdg=L1200&from=/search">broccoli</a>.  I like have rice on the side with my meals, either plain, as my <a href="/recipes/rice-and-beans">Classic Rice and Beans</a>, or <a href="/recipes/cauliflower-rice">Simple Cauliflower Rice</a>.  Rice also works great mixed into dishes, such as <a href="/recipes/baked-rice-and-beans">Baked Rice and Beans with Vegetables</a> or <a href="/recipes/lebanese-casserole">Lebanese Riced Cauliflower Casserole</a>.
 
+<center><img src="/assets/Misc/Trap/white-rice.jpg" alt="" class="larger-image"></center><br>
 <div id="flour"></div>
 <br><i><font size="+2">Flour</font></i><br>
 &emsp;test
@@ -364,3 +409,4 @@ tags:
 12. <a href="https://www.healthline.com/nutrition/milk-benefits#TOC_TITLE_HDR_6">5 Ways That Drinking Milk Can Improve Your Health</a>
 13. <a href="https://www.medicalnewstoday.com/articles/does-microwave-popcorn-cause-cancer">Does microwave popcorn cause cancer?</a>
 14. <a href="https://www.thrillist.com/eat/nation/best-vegan-snacks-junk-food">Here are 17 Snacks You Never Knew Were Vegan</a>
+15. <a href="https://www.healthline.com/nutrition/is-white-rice-bad-for-you">Is White Rice Healthy or Bad for You?</a>

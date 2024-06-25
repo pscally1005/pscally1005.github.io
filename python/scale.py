@@ -50,6 +50,6 @@ def scale_images_in_directory(directory):
                     print(f"Error scaling {filename}: {e}")
 
 # Replace 'path_to_your_directory' with the path to the directory containing your JPG images
-directory_path = r'C:\Users\mets1\Documents\website\assets\Scaled'
-# directory_path = r'C:\Users\mets1\Documents\GitHub\pscally1005.github.io\assets\Scaled'
+# directory_path = r'C:\Users\mets1\Documents\website\assets\Scaled'
+directory_path = r'C:\Users\mets1\Documents\GitHub\pscally1005.github.io\assets\Scaled'
 scale_images_in_directory(directory_path)
