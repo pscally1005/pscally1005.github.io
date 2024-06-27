@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Low Sugar Granola"
+date:   2024-06-27 00:00:00 -05000
+categories: 
+- Recipes
+- Finger Foods
+permalink: /recipes/granola
+image: /assets/Food/Finger Food/Granola/granola-cover.jpg
+ing: granola-ing
+facts: granola-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 15
+Rest: 
+Cook: 30
+Source1: https://m.youtube.com/watch?v=wKZ8_Bwi6mo&pp=ygUPaGVhbHRoeSBncmFub2xh
+Source2: 
+whisk: https://s.samsungfood.com/b7IQ0
+tags: 
+- granola
+- granola bar
+- oats
+- oatmeal
+- quick oats
+- rolled oats
+- nuts
+- seeds
+- cashews
+- almonds
+- peanuts
+- pistachios
+- walnuts
+- sunflower seeds
+- pumpkin seeds
+- unsweetened applesauce
+- egg white
+- cinnamon
+Description: Granola is a healthy snack; or is it? (cue Vsauce music).  Most store bought granolas tend to be filled with added sugars in the form of sweetened dried fruit, chocolate candies, and corn syrup to bind everything together, as well as unhealthy oils.  Not this granola though; it cuts down on the sugar and fat, leaving you with just the macronutrients from the food itself.  That being the oats and the nuts, which are the star of the show.  Mix in whatever nuts you have, toast the granola in the oven, and use on top of yogurt with fresh berries for a delicious and healthy breakfast!
+Instructions: 
+- Preheat your oven to 325F, and line a 9x13" pan with parchment paper<br><br>
+
+- Add your oats to a large bowl. Roughly chop your nuts with a food processor, vegetable chopper, or knife, and add to the bowl. And in the rest of the dry ingredients (chia seeds, cinnamon, and salt) and mix with a spoon<br><br>
+- <center><img src="/assets/Food/Finger Food/Granola/granola-2.jpg" alt="" class="instruction-image"></center><br>
+
+- Pour in the applesauce and sweetener, and mix with your spoon until fully incorporated<br><br>
+
+- In a small bowl, beat an egg white with a fork (or electric mixer) until foamy (about a few minutes by hand or 30 seconds with an electric mixer). Add the egg white to the granola and mix in fully<br><br>
+
+- Transfer your mix to the pan, and press evenly with your hands, minimizing gaps<br><br>
+
+- Bake for about 30 minutes, or until golden brown and lightly crispy. Let cool totally (at least 30 minutes on the counter) before breaking into small or large pieces (or both)<br><br>
+- <center><img src="/assets/Food/Finger Food/Granola/granola-6.jpg" alt="" class="instruction-image"></center><br>
+
+- This recipe makes 16 servings. I had a final baked weight of 672 g, meaning each serving is 42 g. Store in a Ziploc bag in the fridge
+---
