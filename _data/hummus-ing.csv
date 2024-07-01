@@ -1,7 +1,6 @@
 Ingredient,Amount,Unit,Description
-"Chickpeas, drained and rinsed",253,g,"15.5 oz can"
-"Nonfat cottage cheese",57,g,"1/4 cup"
-"Extra virgin olive oil",14,g,"1 tbsp"
+"Chickpeas, drained and rinsed",253,g,"15.5oz can"
+"Cashew butter",32,g,"2 tbsp"
 "Lemon juice",60,g,"1/4 cup"
 "Minced garlic",30,g,"2 tbsp"
 "Cumin, ground",3,g,"1 tsp"
@@ -10,4 +9,4 @@ Ingredient,Amount,Unit,Description
 "Onion powder",2,g,"1 tsp"
 "Black pepper, ground",1,g,"1/2 tsp"
 "Salt",2,g,"1/4 tsp"
-Servings,14
+Servings,13
