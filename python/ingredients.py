@@ -188,6 +188,10 @@ def ingredients(food):
         return str("Duncan Hines Keto Brownie Mix")
     elif food == "Cocoa, unsweetened, dry powder":
         return str("Cocoa powder")
+    elif food == "Sugar, powdered, confectioner's, white":
+        return str("Powdered sugar")
+    elif food == "Vegetable oil, palm kernel" or food == "Oil, canola" or food == "Vegetable oil" or food == "Oil, corn and canola":
+        return str("Canola oil")
     
     # Dairy & Eggs
     elif food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
