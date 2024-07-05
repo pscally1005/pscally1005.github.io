@@ -102,7 +102,7 @@ def ingredients(food):
         return str("Hot sauce")
     elif food == "Minced garlic by STONEMILL" or food == "Minced garlic by MEMBER'S MARK" or food == "Minced garlic by EL SABOR":
         return str("Minced garlic")
-    elif food == "Dijon mustard by KOOPS'" or food == "Dijon mustard by Raley's" or food == "Dijon mustard by SPARTAN":
+    elif food == "Dijon mustard by KOOPS'" or food == "Dijon mustard by BRANDLESS" or food == "Dijon mustard by Raley's" or food == "Dijon mustard by SPARTAN":
         return str("Dijon mustard")
     elif food == "White dry cooking wine by CONCHITA":
         return str("White cooking wine")
@@ -122,7 +122,7 @@ def ingredients(food):
     # Baking
     elif food == "Leavening agents, baking soda" or food == "Baking soda by The Kroger Co.":
         return str("Baking soda")
-    elif food == "Baking powder by The Kroger Co." or food == "Baking powder by SE GROCERS":
+    elif food == "Baking powder by The Kroger Co." or food == "Baking powder by SE GROCERS" or food == "Baking powder by Raley's":
         return str("Baking powder")
     elif food == "Leavening agents, active dry, baker's, yeast":
         return str("Dry Yeast")
@@ -222,6 +222,8 @@ def ingredients(food):
         return str("Egg yolk")
     elif food == "Shredded mild cheddar cheese by BORDEN":
         return str("Shredded cheddar cheese")
+    elif food == "Milk, fat free (skim)":
+        return str("Skim milk")
 
     # Fresh produce
     elif food == "Cabbage, raw" or food == "Cabbage, raw, green":
@@ -344,7 +346,7 @@ def ingredients(food):
         return str("Sardines, in water")
     elif food == "No salt added diced tomatoes by VINE RIPE":
         return str("Diced tomatoes, unsalted")
-    elif food == "Diced green chiles by Raley's" or food == "Diced green chile by Iga, Inc." or food == "Diced green chilies by SPARTAN" or food == "Diced green chilies by ELRIO":
+    elif food == "Diced green chiles by Raley's" or food == "Diced green chiles by HATCH" or food == "Diced green chile by Iga, Inc." or food == "Diced green chilies by SPARTAN" or food == "Diced green chilies by ELRIO":
         return str("Diced green chiles")
     elif food == "Chipotle peppers in adobo sauce by Goya Foods, Inc.":
         return str("Chipotle peppers in adobo sauce")
@@ -358,7 +360,7 @@ def ingredients(food):
         return str("Natural peanut butter")
     elif food == "Nuts, almonds" or food == "Nuts, with salt added, dry roasted, almonds" or food == "Nuts, without salt added, dry roasted, almonds":
         return str("Almonds")
-    elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types":
+    elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, roasted" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types":
         return str("Peanuts")
     elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Hersheys Zero Sugar Chocolate Chips" or food == "Semisweet chocolate mini chips by Harris-Teeter Inc.":
         return str("Sugar free chocolate chips")
@@ -402,6 +404,8 @@ def ingredients(food):
         return str("Whole wheat tortilla")
     elif food == "Chickpeas pasta by Banza LLC":
         return str("Chickpea pasta")
+    elif food == "Cornmeal, yellow, whole-grain":
+        return str("Cornmeal")
     
     # Meat & fish
     elif food == "Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers":

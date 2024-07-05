@@ -44,7 +44,7 @@ tags:
 - pita chip
 - sandwich
 - toast
-Description: Hummus is a staple in my fridge.  It's so easy to make, very nutritious, and tastes great on just about anything.  I've omitted the oil, and chosen to use homemade cashew butter instead of tahini, but any nut or seed butter will work here.  If you like the classic tahini though, go for it!  Each serving is about 2 tbsp or 30 g. Check out my Asian inspired <a href="ginger-hummus">Ginger Lime Black Bean Hummus</a> too!
+Description: Hummus is a staple in my fridge.  It's so easy to make, very nutritious, and tastes great on just about anything.  I've omitted the oil, and chosen to use homemade cashew butter instead of tahini, but any nut or seed butter will work here.  If you like the classic tahini though, go for it!  Each serving is about 2 tbsp or 30 g.
 Instructions: 
 - Drain and rinse the chickpeas.  Blend up chickpeas in a food processor with the nut butter, lemon juice, and garlic<br><br>
 

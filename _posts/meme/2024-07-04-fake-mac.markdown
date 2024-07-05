@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "'Mac' & 'Cheese'"
+date:   2024-07-04 00:00:00 -05000
+categories: 
+- Recipes
+- Meme Recipes
+permalink: /recipes/vegan-mac-and-cheese
+image: /assets/Food/Meme/Mac & Cheese/fake-mac-cover.jpg
+ing: fakemaccheese-ing
+facts: fakemaccheese-facts
+section1: 'Mac'
+start2: Cashews
+section2: 'Cheese'
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: https://www.youtube.com/watch?v=oQmCFxl88-A
+Source2: 
+whisk: https://s.samsungfood.com/IQRSA
+tags: 
+- vegan
+- dairy free
+- gluten free
+- spaghetti squash
+- cashews
+- nuts
+- garlic
+- onion
+- nutritional yeast
+- nooch
+- lemon
+- paprika
+- mac and cheese
+- macaroni and cheese
+- mac & cheese
+- macaroni & cheese
+Description: This is a healthier mac and cheese recipe that's free of both the mac and the cheese (no it's not an empty plate). Instead of traditional pasta, I've roasted a spaghetti squash, but zucchini noodles will also work. The star of the show is a dairy free cheese sauce made of cashews. It's creamy and delicious without all the lactose, and tastes like real cheese (I know because I still eat cheese lol). This is a great LCHF meal if you're looking to boost your healthy fat intake without increasing your caloric intake. The sauce recipe is a modified version of "Vegan Carrot Noodle Mac and Cheese" in the cook book Genius Kitchen with inspiration taken from other vegan nut based cheese sauces
+Instructions: 
+- Add the nuts to a large bowl and cover with water. For a nut free version, use sunflower seeds. Cover with a cloth, and let soak in the fridge for 8 hours. Discard the soaking liquid<br><br>
+
+- I'm going to cook my spaghetti squash in the oven, but feel free to look at <a href="/recipes/spaghetti-squash">Spaghetti Squash Cooked 3 Ways</a> for some other options. To start prick it with a knife and microwave it for 5 minutes to make it easier to slice. Meanwhile, preheat your oven to 400F<br><br>
+
+- Cut the squash in half lengthwise, and scoop out the seeds with a spoon<br><br>
+
+- Add your spices (salt, garlic, and onion powder) to a small bowl, and mix. Lightly oil the squash, and sprinkle on your seasonings<br><br>
+
+- Roast (cut side down) for about 45 minutes at 400F on a parchment lined cookie sheet. The squash should be tender and easily come off the skin without a fork, without being mushy and overcooked<br><br>
+- <center><img src="/assets/Food/Meme/Mac & Cheese/fake-mac-5.jpg" alt="" class="instruction-image"></center><br>
+
+- Meanwhile, as the squash cooks, you can prepare the cheese sauce. To a food processor, add your nuts, water, and lemon juice. Blend until smooth<br><br>
+
+- Add in the nutritional yeast, mustard, minced garlic, and spices (paprika, salt, and pepper). Again, blend until smooth<br><br>
+- <center><img src="/assets/Food/Meme/Mac & Cheese/fake-mac-7.jpg" alt="" class="instruction-image"></center><br>
+
+- When the squash is done cooking, fluff it with a fork, and add to a lightly greased 9x13" pan. Pour over the cheese sauce, and mix well<br><br>
+
+- Roast uncovered for about 10-15 minutes, or until bubbly and lightly charred. You can optionally add some breadcrumbs and broil the top. Top with parsley, and serve<br><br>
+- <center><img src="/assets/Food/Meme/Mac & Cheese/fake-mac-9.jpg" alt="" class="instruction-image"></center><br>
+---

@@ -16,6 +16,8 @@ Whole wheat flour,5.58,"2,240.00",0.00249
 Oat flour,3.98,"1,176.00",0.00338
 Rolled oats,3.98,"1,176.00",0.00338
 Quick oats,3.98,"1,176.00",0.00338
+"Rolled oats, or quick",3.98,"1,176.00",0.00338
+"Quick oats, or rolled",3.98,"1,176.00",0.00338
 Cornstarch,1.82,448.00,0.00406
 Baking powder,1.98,226.80,0.00873
 Unsweetened applesauce,3.12,"1,288.00",0.00242
@@ -62,6 +64,7 @@ Cinnamon,1.24,70.00,0.01771
 "Frozen bananas, overripe",0.58,454.00,0.00128
 "Frozen Bananas, overripe",0.58,454.00,0.00128
 Frozen overripe bananas,0.58,454.00,0.00128
+"Banana, overripe, or unsweetened applesauce",0.58,454.00,0.00128
 Maple syrup,7.98,360.00,0.02217
 "Maple syrup, or honey",7.98,360.00,0.02217
 Frozen blueberries,7.24,"1,344.00",0.00539
@@ -88,7 +91,7 @@ Peanuts,2.48,454.00,0.00546
 "Nuts, chopped",2.48,454.00,0.00546
 Lemon pepper,1.12,119.00,0.00941
 Carrots,1.08,454.00,0.00238
-Avocado,0.94,150.00,0.00627
+Avocado,1.00,136.00,0.00735
 Whole wheat bread,1.97,560.00,0.00352
 Lemon juice,2.88,896.00,0.00321
 "Cilantro, dried",1.94,14.00,0.13857
@@ -246,3 +249,7 @@ Salsa,1.98,454.00,0.00436
 Dried beans,1.50,454.00,0.00330
 Duncan Hines Keto Brownie Mix,5.92,280.00,0.02114
 Powdered sugar,2.22,905.60,0.00245
+Skim milk,2.69,"3,904.00",0.00069
+Ricotta cheese,1.35,480.00,0.00280
+Whey syrup,1.35,180.00,0.00747
+Cornmeal,1.56,905.60,0.00172

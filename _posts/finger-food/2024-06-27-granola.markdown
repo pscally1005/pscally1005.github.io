@@ -43,7 +43,7 @@ tags:
 - unsweetened applesauce
 - egg white
 - cinnamon
-Description: Granola is a healthy snack; or is it? (cue Vsauce music).  Most store bought granolas tend to be filled with added sugars in the form of sweetened dried fruit, chocolate candies, and corn syrup to bind everything together, as well as unhealthy oils.  Not this granola though; it cuts down on the sugar and fat, leaving you with just the macronutrients from the food itself.  That being the oats and the nuts, which are the star of the show.  Mix in whatever nuts you have, toast the granola in the oven, and use on top of yogurt with fresh berries for a delicious and healthy breakfast!
+Description: Granola is a healthy snack; or is it? (cue Vsauce music).  Most store bought granolas tend to be filled with added sugars in the form of sweetened dried fruit, chocolate candies, and corn syrup to bind everything together, as well as unhealthy oils.  Not this granola though; it cuts down on the sugar and fat, leaving you with just the macronutrients from the food itself.  That being the oats and the nuts, which are the star of the show.  Mix in whatever nuts you have, toast the granola in the oven, and use on top of yogurt with fresh berries for a delicious and healthy breakfast!  If you prefer granola bars to granola, you should make my <a href="/recipes/granola-bars">Peanut Butter Banana Granola Bars</a>
 Instructions: 
 - Preheat your oven to 325F, and line a 9x13" pan with parchment paper<br><br>
 
