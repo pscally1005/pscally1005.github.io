@@ -4,7 +4,7 @@ title:  "Cabbage Bread (4 Ingredients)"
 date:   2024-01-17 00:00:00 -0500
 categories:
 - Recipes
-- Bread
+- Meme Recipes
 permalink: /recipes/cabbage-bread
 image: /assets/Food/Bread/Cabbage/cabbage-cover.jpg
 ing: cabbagebread-ing

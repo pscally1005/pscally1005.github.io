@@ -4,7 +4,7 @@ title:  "Soy Sauce Chicken and Brussel Sprouts"
 date:   2023-11-28 00:00:00 -0500
 categories:
 - Recipes
-- Chicken
+- Archive
 permalink: /recipes/soy-sauce-chicken
 image: /assets/Food/Chicken/Soy Sauce/soy-sauce-cover.jpg
 ing: soysauce-ing

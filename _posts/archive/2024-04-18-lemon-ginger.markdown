@@ -4,7 +4,7 @@ title:  "Lemon Ginger Tea"
 date:   2024-04-18 00:00:00 -0500
 categories:
 - Recipes
-- Drinks
+- Archive
 permalink: /recipes/lemon-ginger-tea
 image: /assets/Food/Drinks/Lemon Ginger/lemon-ginger.jpg
 ing: lemonginger-ing

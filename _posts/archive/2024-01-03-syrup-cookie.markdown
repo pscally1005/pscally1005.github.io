@@ -4,7 +4,7 @@ title: "Sugar Free Syrup Cookies"
 date:   2024-01-03 00:00:00 -05000
 categories: 
 - Recipes
-- Healthier Dessert
+- Archive
 permalink: /recipes/syrup-cookies
 image: /assets/Food/Healthier Dessert/SF Syrup/sf-syrup-cover.jpg
 ing: sfsyrup-ing

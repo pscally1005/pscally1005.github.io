@@ -4,7 +4,7 @@ title:  "Gluten Free Tuna (or Crab) Cakes"
 date:   2024-03-19 00:00:00 -05000
 categories: 
 - Recipes
-- Fish
+- Archive
 permalink: /recipes/tuna-cakes
 image: /assets/Food/Fish/Tuna Cake/tuna-cake-cover.jpg
 ing: tunacake-ing
