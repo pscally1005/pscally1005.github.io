@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Healthy' Trap Foods to Look out For"
-date:   2024-06-14 00:00:00 -05000
+date:   2024-07-08 00:00:00 -05000
 categories: 
 - Misc.
 permalink: /misc/fake-healthy-foods
@@ -118,7 +118,7 @@ tags:
 
 <div id="nuts"></div>
 <br><i><font size="+2">Nuts</font></i><br>
-&emsp;Nuts, just like oats, can be a very healthful addition to your diet, or they can be the end of it, depending upon how they're prepared and consumed.  Nuts are rich in antioxidants, healthy fats, fiber, selenium, manganese, and contain a fair bit of protein.  They can also help in raising your HDL.  The problem is that nuts are insanely calorically dense.  They're very high in fat, where just a 1 oz (28 g) serving contains about 160 calories.  Calories aren't everything, and fat is essential for you, but just don't overdo it on nuts (as I tend do to).
+&emsp;Nuts, just like oats, can be a very healthful addition to your diet, or they can be the end of it, depending upon how they're prepared and consumed.  Nuts are rich in antioxidants, healthy fats, fiber, selenium, manganese, and contain a fair bit of protein.  They can also help in raising your HDL.  The problem is that nuts are insanely calorically dense (similar to <a rel="" target="" href="#chocolate">real dark chocolate</a>).  They're very high in fat, where just a 1 oz (28 g) serving contains about 160 calories.  Calories aren't everything, and fat is essential for you, but just don't overdo it on nuts (as I tend do to).
 
 <center><img src="/assets/Misc/Trap/nuts.jpg" alt="" class="larger-image"></center><br>
 &emsp;Additionally, make sure to get plain nuts.  Ideally, your nuts are dry roasted; either unsalted or lightly salted are okay depending on your tastes and salt intake.  Just stay away from flavored nuts, like <a href="https://www.walmart.com/ip/Great-Value-Honey-Roasted-Peanuts-34-5-oz/10448380?from=/search">honey roasted peanuts</a> or <a href="https://www.walmart.com/ip/Great-Value-Honey-Roast-Pecans-7oz/636142562?from=/search">candied pecans</a>.  These contain lots of added sugars, unhealthy oils, and unnecessary ingredients.  Even <a href="https://www.walmart.com/ip/Great-Value-Dry-Roasted-Peanuts-16-oz/10448531?from=/search">regularly salted nuts</a> tend to contain a paragraph of ingredients.  Stick to just nuts and salt, and always weigh out your serving of nuts.  Any more than a handful of nuts is probably too much.
@@ -312,27 +312,72 @@ tags:
 <center><img src="/assets/Misc/Trap/white-rice.jpg" alt="" class="larger-image"></center><br>
 <div id="flour"></div>
 <br><i><font size="+2">Flour</font></i><br>
-&emsp;test
+&emsp;If you've noticed, all of my recipes stay away from <a href="https://www.walmart.com/ip/Great-Value-All-Purpose-Enriched-Flour-5LB-Bag/10403017?athbdg=L1200&from=/search">white flour</a>, also known as all purpose flour.  Instead, I opt for <a href="https://www.walmart.com/ip/King-Arthur-Flour-100-Premium-Whole-Wheat-Flour-80-oz/10535109?athbdg=L1200&from=/search">whole wheat flour</a> in recipes with gluten, and probably either <a href="https://www.walmart.com/ip/Great-Value-Whole-Grain-Quick-Rolled-Oats/10314926?athbdg=L1200&from=/search">oat flour</a> or <a href="https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474?athbdg=L1200&from=/search">coconut flour</a> in gluten free dishes.  So why not all purpose flour?  Below is a diagram showing the anatomy of a grain of wheat.  Grinding togther the whole kernel (the bran, germ, and endosperm) will yield whole wheat flour, which is rich in nutrients like fiber, protein, calcium, iron, potassium, and some B vitamins (B1, B3, and B5).  It also contains a small amount of fat, which in combination with the high fiber content of whole wheat flour leads to much lower spikes in blood sugar.  Whole wheat flour can be used just like regular all purpose flour in baking, and leaves you with a great nutty flavor that adds a lot of depth to your baking.
+
+<center><img src="/assets/Misc/Trap/wheat.jpg" alt="" class="larger-image"></center><br>
+&emsp;But if you grind down just the endosperm, you end up with white flour.  White flour is white due to both the white endosperm center and bleaching.  All the nutrients are in the other parts (the bran and the germ), leaving just the starchy center with nothing but empty calories and a massive spike in your blood sugar.  There's a reason why most commercial white flours and white <a rel="" target="" href="#bread">breads</a> are "fortified" or "enriched".  White flour is entirely stripped of its nutrients, so manufacturers have to "add" them back in.  Not only is white flour much more processed and refined than whole wheat, being devoid of any flavor, but its minerals aren't as bioavable as compared to the ones naturally occuring in whole wheat flour.  Whenever feasible, it is best to avoid using and consuming products with refined white flour, and instead opt for more whole grain options.
 
 <div id="bread"></div>
 <br><i><font size="+2">Bread</font></i><br>
-&emsp;test
+&emsp;As discussed, <a rel="" target="" href="#flour">white flour</a> is generally a poor nutrition choice; it would then follow that <a href="https://www.walmart.com/ip/Wonder-Bread-Classic-White-Sandwich-Bread-Sliced-White-Bread-20-oz/37858875?athbdg=L1600&from=/search">white bread</a> would also not be your healthiest option.  Though <a href="https://www.walmart.com/ip/Arnold-Whole-Grains-100-Bread-24-oz-Whole-Wheat-Soft-Wheat-Bread-Bag/10403544?athbdg=L1300&from=/search">whole wheat bread</a> isn't that much better of an option if we're still talking about commercially processed bread products.  Most store bought loaves of bread are high in our old friend, added sugar (a lot of whole wheat breads actually contain more sugar than their white bread counterparts), as well as vegetable oils and preservatives.  Look at that giant list of ingredients below!  There's a reason why grocery store bread can last for weeks without going bad, whereas real bread from a bakery goes stale in just a day or two (tip: store extra fresh baked bread in the freezer, it'll last forever in there).  Traditionally, bread is just flour, water, yeast, and salt; one of man's oldest and simplest creations.
+
+<center><img src="/assets/Misc/Trap/bread.jpg" alt=""></center><br>
+&emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of whole wheat bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high sugar content.  White bread is essentially entirely made up of glucose, leading to the largest blood sugar spike of any food you could consume.  Even whole wheat bread is a high GI food, but it is significantly lower than white bread.  Below is a chart of different foods and their respective GI values.
+
+<center><img src="/assets/Misc/Trap/gi.jpg" alt=""></center><br>
+&emsp;If you'd like to get into <a href="/recipes/bread">breadmaking</a>, I have plenty of whole wheat flour recipes.  I've linked some of them below.<br>
+&emsp;- <a href="/recipes/ww-bread">100% Whole Wheat Bread</a><br>
+&emsp;- <a href="/recipes/tortilla">Oat-Wheat Tortillas</a><br>
+&emsp;- <a href="/recipes/pizza">Home Oven Baked Pizza</a><br>
+&emsp;- <a href="/recipes/pretzel">Whole Wheat Hot Pretzels</a><br>
+&emsp;- <a href="/recipes/pita">Whole Wheat Pita Bread</a><br>
+&emsp;- <a href="/recipes/sweet-potato-bread">Whole Wheat Sweet Potato Loaf</a><br>
+&emsp;- <a href="/recipes/irish-soda-bread">Whole Wheat and Oat Flour Irish Soda Bread</a><br>
+&emsp;- <a href="/recipes/burger-buns">No Yeast Whole Wheat Burger Buns</a><br>
+
+&emsp;For anyone with Celiac disease, I also have a few gluten free bread recipes for you to enjoy.  I've used flour alternatives such as coconut flour ad oat flour, but I've come across other GF bread recipes with almond flour, ground flaxseed, psyllium husks, or millet flour.<br>
+&emsp;- <a href="/recipes/protein-wrap">High Protein Flatbread Wrap</a><br>
+&emsp;- <a href="/recipes/oat-wraps">Gluten Free Oat Wraps</a><br>
+&emsp;- <a href="/recipes/coconut-bread">Gluten and Grain Free Coconut Bread</a><br>
+&emsp;- <a href="/recipes/cloud-bread">Low Carb Cloud Bread</a><br>
+&emsp;- <a href="/recipes/gluten-free-pretzels">Gluten Free Savory Pretzels</a><br>
+&emsp;- <a href="/recipes/cornbread">Cheesy Protein Cornbread</a><br>
 
 <div id="muffins"></div>
 <br><i><font size="+2">Muffins</font></i><br>
-&emsp;test
+&emsp;Muffins are unfrosted cupcakes that somehow get a pass as a breakfast food.  These <a href="https://www.walmart.com/ip/Marketside-Blueberry-Muffins-14-oz-4-Count/19758064?athbdg=L1200&from=/search">Blueberry Muffins</a> have 350 calories per muffin with 21 g of added sugar and 17 g of fat.  They're filled with a ton of ingredients, and contain almost as much sugar as flour.  I used to make muffins decently often (<a href="https://www.spendwithpennies.com/banana-chocolate-chip-muffins/#wprm-recipe-container-174068">banana chocolate chip</a> specifically).  Just take a look: 1/2 cup of vegetable oil and 3/4 cup of sugar, as well as 1.5 cups of white flour, for just a dozen muffins.  If that sounds like a lot, that's because it is.  Most "breakfast" options are just a meal of dessert.  Which is fine in moderation if you know what you're getting yourself into.  A muffin can be a fine dessert on occasion, but is a terrible start to your day.  Sorry, but a <a href="https://www.walmart.com/ip/Marketside-Triple-Chocolate-Muffins-14-oz-4-Count/987289191?from=/search">Triple Chocolate Muffin</a> is just a brownie.
+
+<center><img src="/assets/Misc/Trap/muffin.jpg" alt="" class="larger-image"></center><br>
+&emsp;As for healthier homemade versions, you should check out my <a href="/recipes/sweet-potato-banana-muffins">Sweet Potato Banana Muffins</a> or my <a href="/recipes/pbj-muffin">Peanut Butter & Jelly Muffins</a>.
 
 <div id="banana-bread"></div>
 <br><i><font size="+2">Banana Bread</font></i><br>
-&emsp;test
+&emsp;So take <a rel="" target="" href="#muffins">muffins</a>, mash some bananas into it, and bake it in a loaf pan.  What you end up with is <a href="https://www.walmart.com/ip/Marketside-Banana-Nut-Sliced-Cake-14-1-oz-8-Count/1407294647?athbdg=L1600&from=/search">banana bread</a>.  A delicious cake, no doubt, but not a breakfast, bread, or a healthy snack.  Just because it has bananas or nuts doesn't make it healthy; it's still a dessert.  At least this one below is honest and refers to itself as a cake.
+
+<center><img src="/assets/Misc/Trap/banana-bread.jpg" alt="" class="larger-image"></center><br>
+&emsp;As for healthier homemade versions, you should check out my <a href="/recipes/banana-bread">Breakfast Banana Bread</a>, <a href="/recipes/banana-protein">Protein Banana Nut Bread</a>, or <a href="/recipes/double-chocolate-banana-bread">Double Chocolate Banana Bread</a>.
 
 <div id="pancakes"></div>
 <br><i><font size="+2">Pancakes and Waffles</font></i><br>
-&emsp;test
+&emsp;Last on the chopping block for breakfast foods are pancakes and waffles.  Take your banana bread recipe, and cook it instead on a frying pan for pancakes or a waffle maker for waffles.  Just the same dessert in a different shape again, being filled with sugar and refined flour, leading to massive spikes and crashes in your blood sugar, energy, and mood.
+
+<center><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-cover.jpg" alt="" class="larger-image"></center><br>
+&emsp;I'll be honest, I absolutely loved waffles growing up.  I'd make myself chocolate chip banana waffles once a week in high school by following a boxed mix, mashed in a banana, and fold in chocolate chips.  They're delicious, but again not something to start your day off with.  Instead, consider a pancake (or waffle) recipe made of protein and whole grains, like my <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>.
 
 <div id="chocolate"></div>
 <br><i><font size="+2">Dark Chocolate</font></i><br>
-&emsp;test
+&emsp;Dark chocolate is one of those foods that people think is healthy, but they're probably eating the wrong variety.  Just being labeled as "dark" chocolate doesn't automatically make it good for you; a lot of it is just well marketed candy.  Let's start with the benefits though.  True dark chocolate is rich in fiber, iron, mangesium, copper, and manganese.  Cocoa is also a great source of antioxidants, which decrease your body's free radicals and lower inflamation, due to its high concentration fo flavanols.  
+
+&emsp;Dark chocolate is also a good source of healthy fats, though this can make it quite calorically dense.  True dark chocolate is a healthy snack, but, just like <a rel="" target="" href="#nuts">nuts</a>, should be measured and enjoyed in moderation due to its high calorie content.
+
+&emsp;Here are a few examples of some chocolates that are wrongly considered healthy.  This <a href="https://www.walmart.com/ip/GHIRARDELLI-Sea-Salt-Caramel-Dark-Chocolate-Squares-Bar-4-8-oz-Bar/732356296?from=/search">Dark Chocolate Sea Salt Caramel</a> bar has sugar as the first ingredient.  This isn't a healthy snack; rather it's a candy.  Let's look at another; the "special" part about <a href="https://www.walmart.com/ip/Hershey-s-Special-Dark-Mildly-Sweet-Chocolate-Giant-Candy-Bar-7-56-oz-25-Pieces/555582083?athbdg=L1200&from=/search">Hershey's Special Dark</a> is that it's not even dark chocolate, containing only 45% cocoa solids.  Finally, to put things into perspective, these <a href="https://www.walmart.com/ip/Great-Value-Dark-Chocolate-Baking-Chips-10-oz-Bag/890876952?athbdg=L1200&from=/search">60% chocolate chips</a> contain just 1 g less of sugar than <a href="https://www.walmart.com/ip/Great-Value-Milk-Chocolate-Chips-11-5-oz/858746232?athbdg=L1200&from=/search">milk chocolate chips</a>.  These numbers don't look that bad, but remember that 1 serving (1 tbsp, 15 g) of chocolate chips is a tiny amount, about a small handful.  No one is eating just that.
+
+<center><img src="/assets/Misc/Trap/choc.jpg" alt="" class="larger-image"></center><br>
+&emsp;Certainly be wary of anything claiming to be "dark" chocolate without even listing a cocoa percentage, as it's probably just barely higher than most milk chocolates.  I'd say at minimum, you should opt for anything over <a href="https://www.walmart.com/ip/Lindt-Excellence-70-Cocoa-Dark-Chocolate-Candy-Bar-3-5-oz-Bar/10312259?from=/search">70%</a> to be considered healthy.  Higher cocoa percentages mean lower sugar content, going all the way up to <a href="https://www.walmart.com/ip/Baker-s-Unsweetened-Chocolate-Premium-Baking-Bar-with-100-Cacao-4-oz-Box/24183293?from=/search">100%</a> for the most bitter and strong flavor.  Personally, if I'm eating a piece of chocolate, I like <a href="https://www.walmart.com/ip/Lindt-Excellence-90-Cocoa-Dark-Chocolate-Candy-Bar-3-5-oz-Bar/21268921?athbdg=L1600&from=/search">90%</a> or higher; sometimes I enjoy a 100% bar of chocolate; unsweetened and delicious (just work your way up to it; it can be quite bitter if you're used to typical candy).
+
+&emsp;A bar of chocolate is typically made of of 3 parts.  Firstly, the cocoa powder itself, which gives it bitter chocolate flavor.  Second, is some sort of saturated fat (typically cocoa butter), which mixes with the cocoa powder and allows it to stay solid at room temperture.  Stop here, and you have unsweetened chocolate; otherwise, add sugar (the third part) to make it sweeter.  
+
+&emsp;Instead of paying $3.37 for <a href="https://www.walmart.com/ip/Lindt-Excellence-100-Cocoa-Dark-Chocolate-Candy-Bar-1-7-oz-Bar/288993864?athbdg=L1200&from=/search">100% Chocolate</a>, I can make it myself for just $0.94.  I prefer to make my own <a href="/recipes/chocolate-bar">Sugar Free Chocolate Bar</a> by mixing together equal parts (by weight) of cocoa powder and coconut oil.   Sweetener is optional; sometimes I like a little honey or maple syrup to make it more like 85-90% chocolate, or sometimes I leave it at 100%.  If you want it sweeter without and sugar, you should try using <a href="https://www.amazon.com/Carob-Powder-Alternative-non-GMO-Superfood/dp/B0831TDPLJ/ref=sr_1_5_pp?sr=8-5">carob powder</a> (though it is more expensive), which tastes just like chocolate, but is midly sweet.  I used it for a bar of <a href="/recipes/chocolate-free-chocolate">Chocolate Free Chocolate</a> by combining just coconut oil and carob powder for a taste very similar to an 85% bar.
 
 <div id="unrefined-sugar"></div>
 <br><i><font size="+2">Unrefined Sugars</font></i><br>
@@ -410,3 +455,9 @@ tags:
 13. <a href="https://www.medicalnewstoday.com/articles/does-microwave-popcorn-cause-cancer">Does microwave popcorn cause cancer?</a>
 14. <a href="https://www.thrillist.com/eat/nation/best-vegan-snacks-junk-food">Here are 17 Snacks You Never Knew Were Vegan</a>
 15. <a href="https://www.healthline.com/nutrition/is-white-rice-bad-for-you">Is White Rice Healthy or Bad for You?</a>
+16. <a href="https://www.healthline.com/nutrition/healthiest-flour">5 of the Healthiest Florus for Every Purpose</a>
+17. <a href="https://www.thespruceeats.com/whole-wheat-flour-vs-white-flour-2238373#:~:text=Whole%20wheat%20flour%20naturally%20has,assists%20in%20weight%2Dloss%20management.">Whole Wheat vs. White Flour</a>
+18. <a href="https://www.eater.com/2020/10/1/21496848/irish-supreme-court-rules-subway-bread-has-too-much-sugar-to-count-as-bread">Irish Supreme Court Rules That Subway Bread Has Too Much Sugar to Count as Actual Bread</a>
+19. <a href="https://www.healthline.com/nutrition/7-health-benefits-dark-chocolate">7 Proven Health Benefits of Dark Chocolate</a>
+20. <a href="https://health.ucdavis.edu/blog/good-food/dark-chocolate-health-benefits-the-good-and-the-bad-to-this-sweet-treat/2023/02#:~:text=In%20recent%20years%2C%20chocolates%20%E2%80%93%20specifically,lower%20risk%20of%20heart%20disease.&text=In%20theory%2C%20dark%20chocolate%20will,content%20(greater%20health%20benefit).">Dark chocolate health benefits? The good and the bad to this sweet treat</a>
+21. <a href="https://www.medicalnewstoday.com/articles/flavanols">What are flavanols?</a>

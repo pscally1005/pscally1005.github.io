@@ -38,7 +38,7 @@ tags:
 - low moisture part skim
 - garlic powder
 - vic
-Description: This loaf of bread is free of both gluten and refined grains. It's higher in protein, lower in carbs, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as toast with jam or a PB&J. It's much simpler than standard bread to make, keto friendly, and great for people with Celiac disease.  For a sweeter variation, see the note at the bottom
+Description: This loaf of bread is free of both gluten and refined grains. It's higher in protein, lower in carbs, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as toast with jam or a PB&J. It's much simpler than standard bread to make, keto friendly, and great for people with Celiac disease.  For a sweeter variation, see the note at the bottom.  Or you can make them into pretzels; check out my <a href="/recipes/gluten-free-pretzels">Gluten Free Savory Pretzels</a>.
 Instructions: 
 - Preheat oven to 350F, and line a 9x5" pan with parchment paper<br><br>
 
