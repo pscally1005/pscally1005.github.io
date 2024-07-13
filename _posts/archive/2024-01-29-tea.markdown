@@ -4,7 +4,7 @@ title:  "Banana Peel Tea"
 date:   2024-01-29 00:00:00 -0500
 categories:
 - Recipes
-- Drinks
+- Archive
 permalink: /recipes/banana-tea
 image: /assets/Food/Drinks/Banana Tea/tea-cover.jpg
 ing: tea-ing

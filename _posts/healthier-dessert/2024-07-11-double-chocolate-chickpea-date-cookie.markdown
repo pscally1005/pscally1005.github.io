@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Double Chickolate Chickpea Cookies"
-date:   2024-07-11 00:00:00 -05000
+title:  "Double Chocolate Chickpea Cookies"
+date:   2024-07-11 00:00:02 -05000
 categories: 
 - Recipes
 - Healthier Dessert
@@ -43,6 +43,10 @@ Instructions:
 
 - Add the beans, dates, nut butter, cocoa powder, milk (or water), vanilla, and salt to a food processor and blend until smooth<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Double Choc Chickpea Date Cookie/double-choc-unblended.jpg" alt="" class="instruction-image"></center><br>
+
+- I've used cashew butter here, but any nut butter will work, like peanut or almond butter.  For a nut free option, use sunflower or pumpkin seed butter<br><br>
+
+- For the beans, I've gone with chickpeas, but any other bean will work, like black, kidney, navy, pinto, or cannellini beans<br><br>
 
 - Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Double Choc Chickpea Date Cookie/double-choc-blended.jpg" alt="" class="instruction-image"></center><br>

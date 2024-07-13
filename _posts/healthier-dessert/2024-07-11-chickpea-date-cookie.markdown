@@ -44,6 +44,10 @@ Instructions:
 - Add the beans, dates, nut butter, milk (or water), vanilla, and salt to a food processor and blend until smooth<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Chickpea Date Cookie/chickpea-date-unblended.jpg" alt="" class="instruction-image"></center><br>
 
+- I've used almond butter here, but any nut butter will work, like peanut or cashew butter.  For a nut free option, use sunflower or pumpkin seed butter<br><br>
+
+- For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change<br><br>
+
 - Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Chickpea Date Cookie/chickpea-date-blended.jpg" alt="" class="instruction-image"></center><br>
 

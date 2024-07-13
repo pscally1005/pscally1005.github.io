@@ -461,3 +461,7 @@ tags:
 19. <a href="https://www.healthline.com/nutrition/7-health-benefits-dark-chocolate">7 Proven Health Benefits of Dark Chocolate</a>
 20. <a href="https://health.ucdavis.edu/blog/good-food/dark-chocolate-health-benefits-the-good-and-the-bad-to-this-sweet-treat/2023/02#:~:text=In%20recent%20years%2C%20chocolates%20%E2%80%93%20specifically,lower%20risk%20of%20heart%20disease.&text=In%20theory%2C%20dark%20chocolate%20will,content%20(greater%20health%20benefit).">Dark chocolate health benefits? The good and the bad to this sweet treat</a>
 21. <a href="https://www.medicalnewstoday.com/articles/flavanols">What are flavanols?</a>
+22. <a href="https://www.healthline.com/nutrition/harmful-sweeteners#TOC_TITLE_HDR_3">8 ‘Healthy’ Sugars and Sweeteners That May Be Harmful</a>
+23. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024554/">Habitual Fructose Intake Relates to Insulin Sensitivity and Fatty Liver Index in Recent-Onset Type 2 Diabetes Patients and Individuals without Diabetes</a>
+24. <a href="https://www.healthline.com/nutrition/coconut-sugar">Coconut Sugar: A Healthy Sugar Alternative or a Big, Fat Lie?</a>
+25. <a href="https://www.healthline.com/nutrition/why-high-fructose-corn-syrup-is-bad#2.-Increases-your-risk-of-fatty-liver-disease">6 Reasons Why High-Fructose Corn Syrup Is Bad for You</a>

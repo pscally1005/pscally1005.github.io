@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Peanut Protein Bean Cookies"
-date:   2024-07-11 00:00:00 -05000
+date:   2024-07-11 00:00:01 -05000
 categories: 
 - Recipes
-- Protein Powder
+- Healthier Dessert
 permalink: /recipes/protein-chickpea-date-cookies
 image: /assets/Food/Protein Powder/PB Chickpea Date Cookie/pb-protein-cover.jpg
 ing: proteinchickpeadatecookie-ing
@@ -47,6 +47,10 @@ Instructions:
 
 - Add the beans, dates, nut butter, whey, casein, milk (or water), vanilla, and salt to a food processor and blend until smooth<br><br>
 - <center><img src="/assets/Food/Protein Powder/PB Chickpea Date Cookie/pb-protein-unblended.jpg" alt="" class="instruction-image"></center><br>
+
+- I've used peanut butter here, but any nut butter will work, like almond or cashew butter.  For a nut free option, use sunflower or pumpkin seed butter<br><br>
+
+- For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change<br><br>
 
 - Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire<br><br>
 - <center><img src="/assets/Food/Protein Powder/PB Chickpea Date Cookie/pb-protein-blended.jpg" alt="" class="instruction-image"></center><br>

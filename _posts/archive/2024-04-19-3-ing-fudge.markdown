@@ -4,7 +4,7 @@ title:  "3 Ingredient Fudge"
 date:   2024-04-19 00:00:00 -05000
 categories: 
 - Recipes
-- Healthier Dessert
+- Archive
 permalink: /recipes/three-ingredient-fudge
 image: /assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-cover.jpg
 ing: 3ingfudge-ing

@@ -19,8 +19,8 @@ def ingredients(food):
         return str("Kidney beans, drained and rinsed")
     elif food == "Beans, raw, black":
         return str("Dried beans")
-    elif food == "Split red lentils by ROYAL":
-        return str("Red lentils")
+    elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils":
+        return str("Red split lentils")
     
     # Spices
     elif food == "Salt, table" or food == "Table salt by FIRST STREET" or food == "Table salt by Morton Salt, Inc." or food == "Salt by Morton Salt, Inc." or food == "Table salt by Cardenas Markets":
