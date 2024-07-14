@@ -4,7 +4,7 @@ title:  "Peanut Butter and Whey Sandwich"
 date:   2023-09-18 00:00:00 -05000
 categories: 
 - Recipes
-- Meme Recipes
+- Archive
 permalink: /recipes/pb-whey
 image: /assets/Food/Meme/PB Whey/pb-whey.jpg
 ing: pbwhey-ing

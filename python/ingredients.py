@@ -19,8 +19,8 @@ def ingredients(food):
         return str("Kidney beans, drained and rinsed")
     elif food == "Beans, raw, black":
         return str("Dried beans")
-    elif food == "Split red lentils by ROYAL":
-        return str("Red lentils")
+    elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils":
+        return str("Red split lentils")
     
     # Spices
     elif food == "Salt, table" or food == "Table salt by FIRST STREET" or food == "Table salt by Morton Salt, Inc." or food == "Salt by Morton Salt, Inc." or food == "Table salt by Cardenas Markets":
@@ -69,7 +69,7 @@ def ingredients(food):
         return str("Chives, dried")
     elif food == "Italian seasoning by Raley's" or food == "Italian seasoning by ROUNDY'S":
         return str("Italian seasoning")
-    elif food == "Everything but the bagel seasoning by Big Y Foods, Inc.":
+    elif food == "Everything but the bagel seasoning by Big Y Foods, Inc." or food == "Seasoning everything bagel by Whole Foods Market, Inc.":
         return str("Everything bagel seasoning")
     elif food == "Extra hot red pepper flakes by DOC MEYERS BRAND":
         return str("Red pepper flakes")
@@ -164,8 +164,8 @@ def ingredients(food):
         return str("Sugar free syrup")
     elif food == "Almond flour by RALEY'S":
         return str("Almond flour")
-    elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor":
-        return str("Pitted dates")
+    elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor" or food == "Pitted dates":
+        return str("Dates")
     elif food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned":
         return str("Sweet potato puree")
     elif food == "Pure vanilla extract by CITLALI" or food == "Pure vanilla extract by FIRST STREET":
@@ -194,8 +194,8 @@ def ingredients(food):
         return str("Canola oil")
     
     # Dairy & Eggs
-    elif food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
-        return str("Shredded mozzarella cheese")
+    elif food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Shredded mozzarella cheese" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
+        return str("Shredded mozzarella cheese, low moisture part skim")
     elif food == "Unflavored Casein Protein Powder by PROMIX":
         return str("Casein protein powder, unflavored")
     elif food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":

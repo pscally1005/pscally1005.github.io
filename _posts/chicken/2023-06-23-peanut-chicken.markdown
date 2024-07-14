@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chicken and Cabbage Over a Peanut Chili Sauce"
+title:  "Peanut Chili Chicken Skillet"
 date:   2023-06-23 00:00:00 -0500
 categories:
 - Recipes

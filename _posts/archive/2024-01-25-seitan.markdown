@@ -4,7 +4,7 @@ title:  "Ground 'Meat' Seitan"
 date:   2024-01-25 00:00:00 -05000
 categories: 
 - Recipes
-- Meatless
+- Archive
 permalink: /recipes/seitan
 image: /assets/Food/Meatless/Seitan/seitan-cover.jpg
 ing: seitan-ing
