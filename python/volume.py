@@ -25,7 +25,7 @@ def fix(vol):
         return str("3/4 tsp")
     elif vol == "0.33 tbsp" or vol == "1.15 tsp" or vol == "8 1/8 tsp" or vol == "0.33 tbsp (15.0 ml) aprx" or vol == "0.25 tbsp" or vol == "1 tsp (5.0 ml) aprx" or vol == "1 tsp, leaves" or vol == "1 tsp, ground" or vol == "1 tsp | about" or vol == "1 tsp (1.2 ml) aprx" or vol == "1 teaspoon" or vol == "0.33 tablespoon" or vol == "4 1/4 tsp" or vol == "1 tsp aprx":
         return str("1 tsp")
-    elif vol == "0.66 tbsp" or vol == "0.67 tbsp" or vol == "2 tsp (5.0 ml) aprx" or vol == "0.66 tbsp (15.0 ml) aprx" or vol == "0.67 tbsp (15.0 ml) aprx" or vol == "2 tsp, leaves" or vol == "2 tsp, leaves" or vol == "2 tsp | about" or vol == "2 tsp (1.2 ml) aprx" or vol == "2 teaspoon" or vol == "0.67 tablespoon" or vol == "0.66 tablespoon" or vol == "6 1/4 tsp":
+    elif vol == "0.66 tbsp" or vol == "2 tsp, ground" or vol == "0.67 tbsp" or vol == "2 tsp (5.0 ml) aprx" or vol == "0.66 tbsp (15.0 ml) aprx" or vol == "0.67 tbsp (15.0 ml) aprx" or vol == "2 tsp, leaves" or vol == "2 tsp, leaves" or vol == "2 tsp | about" or vol == "2 tsp (1.2 ml) aprx" or vol == "2 teaspoon" or vol == "0.67 tablespoon" or vol == "0.66 tablespoon" or vol == "6 1/4 tsp":
         return str("2 tsp")
     elif vol == "1.33 tbsp" or vol == "4 1 tsp" or vol == "0.0833 cup" or vol == "0.0833 cup (240.0 ml) aprx":
         return str("4 tsp")
@@ -41,6 +41,8 @@ def fix(vol):
         return str("3 tbsp")
     elif vol == "15 tsp (5.0 ml) aprx" or vol == "15 tsp" or vol == "15 teaspoon" or vol == "15 teaspoons":
         return str("5 tbsp")
+    elif vol == "0.25 cup sprigs":
+        return str("4 tbsp")
     elif vol == "0.375 cup":
         return str("6 tbsp")
     elif vol == "9.33 tbsp" or vol == "9.33 Tbsp":

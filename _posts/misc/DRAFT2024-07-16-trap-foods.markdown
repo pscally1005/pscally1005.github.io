@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Healthy' Trap Foods to Look out For"
-date:   2024-07-08 00:00:00 -05000
+date:   2024-07-16 00:00:00 -05000
 categories: 
 - Misc.
 permalink: /misc/fake-healthy-foods
@@ -15,7 +15,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><img src="/assets/Misc/Trap/sugar.jpg" alt="" class="larger-image"></center><br>
+<center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Trap/sugar.jpg" alt="" class="larger-image"></a></center><br>
 
 <br><u><font size="+2">List of Foods</font></u><br>
 * <a rel="" target="" href="#cereal">Cereal</a><br>
@@ -84,7 +84,7 @@ tags:
 <center><img src="/assets/Misc/Trap/oatmeal.jpg" alt="" class="larger-image"></center><br>
 &emsp;The main issue isn't with oatmeal, but how it's prepared.  I'm mainly talking about <a href="https://www.walmart.com/ip/Quaker-Instant-Oatmeal-Variety-Value-Pack-1-51-oz-20-Packets/45612375?athbdg=L1300&from=/search">flavored packets</a> of oatmeal here, like ones in the image above.  Unfortunately, these are really no different nutritionally from a bowl of sugary cereal; it's just warm now.  These packets are loaded with added sugars.  When it comes to oatmeal for breakfast, make it yourself from plain oats, and sweeten it with fruit and a small amount of maple syrup or honey if desired.  Also add some healthy fats like chopped nuts or nut butter, and some protein with yogurt or protein powder (or both!)
 
-<center><img src="/assets/Food/Breakfast/No Pro/no-pro.jpg" alt="" class="instruction-image"></center><br>
+<center><a href="/recipes/no-protein-powder-oatmeal"><img src="/assets/Food/Breakfast/No Pro/no-pro.jpg" alt="" class="instruction-image"></a></center><br>
 &emsp;Below I'll list a bunch of oatmeal recipes which are all low in added sugar, packed with protein and fiber, have a good dose of healthy fats, and can be eaten warm or cold:<br>
 &emsp; - <a href="/recipes/no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a><br>
 &emsp; - <a href="/recipes/strawberry-chia-oatmeal">Strawberry Chia Protein Oatmeal</a><br>
@@ -134,7 +134,7 @@ tags:
 <br><i><font size="+2">Nutella</font></i><br>
 &emsp;...nutella.  Nutella has a lot of nerve to call itself hazelnut spread, considering its just a sugar and fat spread.  A jar of nutella is 58% sugar and 30% palm oil; only just 13% of the jar contains actual hazelnuts.  Nutella is way more of a jelly substitute than a peanut butter one.  A 2 tbsp (37 g) serving contains a whopping 200 calories and 18 g of added sugar; that's 5 teaspoons!.  You know what contains 17 g of added sugar in the same serving size?  That's right, <a href="https://www.walmart.com/ip/Betty-Crocker-Rich-Creamy-Milk-Chocolate-Frosting-Gluten-Free-Frosting-16-oz/10311570?athbdg=L1200&from=/search">Chocolate Frosting</a>, and the frosting is actually lower in fat and calories. And you and me both know we're going to eat more than just 1 serving.
 
-<center><img src="/assets/Misc/Trap/nutella.jpg" alt="" class="larger-image"></center><br>
+<center><a href="https://www.theguardian.com/lifeandstyle/shortcuts/2017/jan/20/is-nutella-really-that-bad-for-you"><img src="/assets/Misc/Trap/nutella.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;If you love nutella, then consider making it yourself, where you can control the sweetness, and totally eliminated the hydroginated oils.  I have a recipe for <a href="/recipes/nutella">Roasted Hazelnut Nutella</a> that's free of added sugars and oils.  Just roast and blend hazelnuts into a smooth nut butter, and add in some chocolate and bananas for sweetness.  Tastes way better than the jar, and isn't a total sugar bomb.
 
 <div id="jelly"></div>
@@ -160,7 +160,7 @@ tags:
 <br><i><font size="+2">Smoothies</font></i><br>
 &emsp;So if <a rel="" target="" href="#dried-fruit">dried fruit</a> is a maybe and <a rel="" target="" href="#juice">fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more fiber than fruit juice.  However, the process of blending fruit destroys some of it's fiber.  A smoothie can still be healthy however.  Just make sure to add some protein and fat to slow down the spike to your blood sugar.  I prefer using protein powder, greek yogurt, and chia seeds for a <a href="/recipes/smoothie">Protein Fruit Smoothie</a> if I do have one, but peanut or almond butter also work as great fat sources.  The healthiest smoothies also include some vegetables like spinach as well.
 
-<center><img src="/assets/Food/Drinks/Smoothie/smoothie-cover.jpg" alt="" class="instruction-image"></center><br>
+<center><a href="/recipes/smoothie"><img src="/assets/Food/Drinks/Smoothie/smoothie-cover.jpg" alt="" class="instruction-image"></a></center><br>
 &emsp;And of course, only use an unsweetened liquid for your smoothies, like milk, unsweetened plant milks, or water.  Fruit is already plenty sweet without the addition of added sugars from the milk or any additional honey.  Smoothies are great to make yourself, but be very weary of ordering one anywhere, since you don't know how much added sugar is secretly in that glass.
 
 <div id="sports-drinks"></div>
@@ -291,7 +291,7 @@ tags:
 &emsp;- <a href="/recipes/banana-bread-hummus">Banana Bread Hummus Spread</a> with toasted oats<br>
 &emsp;- <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a> with pumpkin seeds<br>
 
-<center><img src="/assets/Food/Sweet Spreads/PB/pb-cover.jpg" alt="" class="larger-image"></center><br>
+<center><a href="/recipes/natural-peanut-butter"><img src="/assets/Food/Sweet Spreads/PB/pb-cover.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;You can make them savory too; sometimes I mix some plain nonfat greek yogurt or <a href="/recipes/guacamole">Holy Guacamole</a> with some spices, and top with sliced tomatoes, cucumber, or any other fresh produce in my fridge at the time.  Or you can just simply spread on some hummus.  Here are my homemade hummus recipes:<br>
 &emsp;- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>
 &emsp;- <a href="/recipes/roasted-red-pepper-hummus">Roasted Red Pepper Hummus</a><br>
@@ -314,7 +314,7 @@ tags:
 <br><i><font size="+2">Flour</font></i><br>
 &emsp;If you've noticed, all of my recipes stay away from <a href="https://www.walmart.com/ip/Great-Value-All-Purpose-Enriched-Flour-5LB-Bag/10403017?athbdg=L1200&from=/search">white flour</a>, also known as all purpose flour.  Instead, I opt for <a href="https://www.walmart.com/ip/King-Arthur-Flour-100-Premium-Whole-Wheat-Flour-80-oz/10535109?athbdg=L1200&from=/search">whole wheat flour</a> in recipes with gluten, and probably either <a href="https://www.walmart.com/ip/Great-Value-Whole-Grain-Quick-Rolled-Oats/10314926?athbdg=L1200&from=/search">oat flour</a> or <a href="https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474?athbdg=L1200&from=/search">coconut flour</a> in gluten free dishes.  So why not all purpose flour?  Below is a diagram showing the anatomy of a grain of wheat.  Grinding togther the whole kernel (the bran, germ, and endosperm) will yield whole wheat flour, which is rich in nutrients like fiber, protein, calcium, iron, potassium, and some B vitamins (B1, B3, and B5).  It also contains a small amount of fat, which in combination with the high fiber content of whole wheat flour leads to much lower spikes in blood sugar.  Whole wheat flour can be used just like regular all purpose flour in baking, and leaves you with a great nutty flavor that adds a lot of depth to your baking.
 
-<center><img src="/assets/Misc/Trap/wheat.jpg" alt="" class="larger-image"></center><br>
+<center><a href="https://wholegrainscouncil.org/what-whole-grain"><img src="/assets/Misc/Trap/wheat.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;But if you grind down just the endosperm, you end up with white flour.  White flour is white due to both the white endosperm center and bleaching.  All the nutrients are in the other parts (the bran and the germ), leaving just the starchy center with nothing but empty calories and a massive spike in your blood sugar.  There's a reason why most commercial white flours and white <a rel="" target="" href="#bread">breads</a> are "fortified" or "enriched".  White flour is entirely stripped of its nutrients, so manufacturers have to "add" them back in.  Not only is white flour much more processed and refined than whole wheat, being devoid of any flavor, but its minerals aren't as bioavable as compared to the ones naturally occuring in whole wheat flour.  Whenever feasible, it is best to avoid using and consuming products with refined white flour, and instead opt for more whole grain options.
 
 <div id="bread"></div>
@@ -324,7 +324,7 @@ tags:
 <center><img src="/assets/Misc/Trap/bread.jpg" alt=""></center><br>
 &emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of whole wheat bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high sugar content.  White bread is essentially entirely made up of glucose, leading to the largest blood sugar spike of any food you could consume.  Even whole wheat bread is a high GI food, but it is significantly lower than white bread.  Below is a chart of different foods and their respective GI values.
 
-<center><img src="/assets/Misc/Trap/gi.jpg" alt=""></center><br>
+<center><a href="https://x.com/iam_preethi/status/1345457708892266496"><img src="/assets/Misc/Trap/gi.jpg" alt=""></a></center><br>
 &emsp;If you'd like to get into <a href="/recipes/bread">breadmaking</a>, I have plenty of whole wheat flour recipes.  I've linked some of them below.<br>
 &emsp;- <a href="/recipes/ww-bread">100% Whole Wheat Bread</a><br>
 &emsp;- <a href="/recipes/tortilla">Oat-Wheat Tortillas</a><br>
@@ -361,7 +361,7 @@ tags:
 <br><i><font size="+2">Pancakes and Waffles</font></i><br>
 &emsp;Last on the chopping block for breakfast foods are pancakes and waffles.  Take your banana bread recipe, and cook it instead on a frying pan for pancakes or a waffle maker for waffles.  Just the same dessert in a different shape again, being filled with sugar and refined flour, leading to massive spikes and crashes in your blood sugar, energy, and mood.
 
-<center><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-cover.jpg" alt="" class="larger-image"></center><br>
+<center><a href="/recipes/pancake"><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-cover.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;I'll be honest, I absolutely loved waffles growing up.  I'd make myself chocolate chip banana waffles once a week in high school by following a boxed mix, mashed in a banana, and fold in chocolate chips.  They're delicious, but again not something to start your day off with.  Instead, consider a pancake (or waffle) recipe made of protein and whole grains, like my <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>.
 
 <div id="chocolate"></div>
@@ -381,7 +381,23 @@ tags:
 
 <div id="unrefined-sugar"></div>
 <br><i><font size="+2">Unrefined Sugars</font></i><br>
-&emsp;test
+&emsp;Very often, I see recipes that are "refined sugar free", meaning they replace any white or brown sugar with some other natural, less refined sweetener.  While it is true that these may offer some very minimal health benefits, at the end of the day they are still just concentrated sugar that needs to be moderated.  
+
+<center><a href="https://www.nutrientsreview.com/carbs/disaccharides-sucrose.html"><img src="/assets/Misc/Trap/sucrose.jpg" alt=""></a></center><br>
+&emsp;To start though, what even is sugar?  I've mentioned it a lot here, but what exactly is it?  Here's the really rough chemistry lesson:  <a href="https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-4-lb/10315162?athbdg=L1200&from=/search">White sugar</a>, or sucrose, is a chemical bond of 50% glucose (your body's main energy source) and 50% fructose (what's actually sweet, typically found in fruit).  It is typically made from dehydrated sugar cane or beets.  <a href="https://www.walmart.com/ip/Great-Value-Light-Brown-Sugar-32-oz/10315012?athbdg=L1600&from=/search">Brown sugar</a> is simply just white sugar plus molasses.  High intakes of sugar, particilarly fructose, can lead to diabetes, heart disease, fatty liver, Alzheimer's, high blood pressure, and much much more.  
+
+<center><a href="https://www.27fchileanway.cl/is-high-fructose-corn-syrup-worse-than-fructose/"><img src="/assets/Misc/Trap/hfcs.jpg" alt=""></a></center><br>
+&emsp;High fructose corn syrup on the other hand comes from corn (duh), and is about 45% glucose to 55% fructose.  The main difference is that the glucose and fructose are not bonded together; instead they are free molecules.  This means that the fructose does even more damage to your body than standard sugar.  You can't even commercially buy high fructose corn syrup; I think that's telling of how bad it is for you.
+
+<center><a href="https://www.sdxtraining.com/articles/how-the-body-absorbs-sugar-high-fructose-corn-syrup"><img src="/assets/Misc/Trap/hfcs2.jpg" alt=""></a></center><br>
+&emsp;So what are the "unrefined" sugars then?  Let's start with the granulated ones first: <a href="https://www.walmart.com/ip/BetterBody-Foods-Organic-Coconut-Palm-Sugar-24-oz/296443014?athbdg=L1200&from=/search">coconut sugar</a> and <a href="https://www.walmart.com/ip/Health-Garden-Organic-Date-Sugar-Sweetener-16-oz-453-g/1221064330?from=/search">date sugar</a>.  These are essentially the exact same thing as regular granulated sugar.  Instead of dehydrating a sugar cane or beet and making it into a pure sugar, it's instead done with dates or coconut.  Okay in moderation like all added sugar, but really just the same product from a different fruit.  And no, <a href="https://www.walmart.com/ip/Great-Value-Organic-Granulated-Cane-Sugar-4-lbs/945590425?from=/search">organic cane sugar</a> is not any better for you.  You're just spending more money for the same product.
+
+&emsp;Next up are the liquid sweeteners.  My mind goes to <a href="https://www.walmart.com/ip/Great-Value-Honey-12-oz-Plastic-Bear/20647992?athbdg=L1200&from=/search">honey</a>, <a href="https://www.walmart.com/ip/Great-Value-Pure-Maple-Syrup-12-5-fl-oz/13925187?athbdg=L1200&from=/search">maple syrup</a>, <a href="https://www.walmart.com/ip/Great-Value-Organic-Golden-Blue-Agave-Sweetener-Sugar-Substitute-23-5-oz-Bottle/280871866?from=/search">agave</a>, <a href="https://www.walmart.com/ip/Original-Date-Syrup-1-5-lb/156444591?athbdg=L1200&from=/search">date syrup</a>, and <a href="https://www.walmart.com/ip/Grandma-s-Original-Unsulphured-Molasses-12-fl-oz/15716722?athbdg=L1200&from=/search">molasses</a>.  With the exception of molasses, all these liquid sweeteners are more fructose than glucose, wtih agave being the worst offender at 85% fructose.  In equal quantities, agave might actually be worse for you than high fructose corn syrup.  Molasses is mostly glucose, which is why it's not that sweet, despite being entirely sugar.
+
+<center><img src="/assets/Misc/Trap/sweeteners.jpg" alt="" class="larger-image"></center><br>
+&emsp;I often like to say that sugar has a taste (sweetness is one of the main 5 tastes), but it doesn't have a flavor.  Refined sugar is so, well, refined, that it is devoid of any flavor, only concentrated sweetness.  These "unrefined" sugars on the other hand have a distinct flavor.  The benefit of using honey or maple syrup in a recipe (which I definitely do from sometimes) is that you can rely on the flavors of the sweetener, and use substantially less.
+
+&emsp;The dose totally makes the poison; using 2 tbsp (42 g) of honey or maple syrup in a midly sweetened dessert is much better for you than 1 cup (200 g) of granulated sugar in your cookies.  But if a recipe uses more than 1/4 cup of sweetener, you should be probably rethinking it's claim of being "healthy".  I'm looking at you, healthy cookie recipes with 3/4 cup of honey or 1 cup of coconut sugar
 
 <div id="sugar-substitutes"></div>
 <br><i><font size="+2">Sugar Substitutes</font></i><br>

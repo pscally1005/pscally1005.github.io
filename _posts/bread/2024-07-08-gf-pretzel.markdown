@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Bread
 permalink: /recipes/gluten-free-pretzels
-image: /assets/Food/Bread/GF Pretzel/gf-pretzel-plate.jpg
+image: /assets/Food/Bread/GF Pretzel/gf-pretzel-back.jpg
 ing: gfpretzel-ing
 facts: gfpretzel-facts
 section1: Dry Ingredients
@@ -54,10 +54,11 @@ Instructions:
 - Liberally grease a pretzel pan with oil, and spoon the batter into the pan. Smooth out the tops with a spoon. Lightly spray the tops with oil, and sprinkle the tops with everything bagel seasoning<br><br>
 - <center><img src="/assets/Food/Bread/GF Pretzel/gf-pretzel-raw.jpg" alt="" class="instruction-image"></center><br>
 
-- Bake in a preheated 350F for about 18 minutes, or until a toothpick comes out clean, the internal temperature is around 205F, and they are golden brown on the edges<br><br>
+- Bake in a preheated 350F oven for about 18 minutes, or until a toothpick comes out clean, the internal temperature is around 205F, and they are golden brown on the edges<br><br>
 - <center><img src="/assets/Food/Bread/GF Pretzel/gf-pretzel-baked.jpg" alt="" class="instruction-image"></center><br>
 
 - Let them cool in the pan in the fridge for at least 30 minutes before taking them out with a butter knife<br><br>
+- <center><img src="/assets/Food/Bread/GF Pretzel/gf-pretzel-front.jpg" alt="" class="instruction-image"></center><br>
 
 - These pretzels are best enjoyed warm. To reheat, air fry at 400F for about 2 minutes, or until warm and crispy. Serve on its own, or with your favorite dipping sauce (mustard, cheese, peanut butter, whatever you want!)
 ---

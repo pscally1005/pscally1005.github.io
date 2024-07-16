@@ -37,7 +37,7 @@ tags:
 - beans
 - chickpeas
 - garbanzo beans
-Description: Delicious cookies made from a base of beans, dates, and natural nut butter.  Sugar free (depending on your chocolate) and oil free.  They can be vegan too (swap the milk for water and use vegan chocolate).  This is variation 3 - a double chocolate chip cookie version. I have two other types of these cookies - <a href="/recipes/chickpea-date-cookies">Standard Chickpea Date Cookies</a> and <a href="/recipes/protein-chickpea-date-cookies">Peanut Protein Bean Cookies</a>.  Make them all and taste test them to see which ones you like the best!
+Description: Delicious cookies made from a base of beans, dates, and natural nut butter.  Sugar free (depending on your chocolate) and oil free.  They can be vegan too (swap the milk for water and use vegan chocolate).  This is a double chocolate chip cookie version. I also have a recipe for <a href="/recipes/chickpea-date-cookies">Standard Chickpea Date Cookies</a>.  Make them both and taste test them to see which ones you like the best!
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper.<br><br>
 

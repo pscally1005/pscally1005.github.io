@@ -270,7 +270,7 @@ def ingredients(food):
         return str("Cranberries")
     elif food == "Eggplant, raw":
         return str("Eggplant")
-    elif food == "Fresh dill weed, fresh":
+    elif food == "Fresh dill weed, fresh" or food == "Dill weed, fresh":
         return str("Dill, fresh")
     elif food == "Squash, raw, butternut, winter":
         return str("Butternut squash")
