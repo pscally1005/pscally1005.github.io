@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Healthy' Trap Foods to Look out For"
-date:   2024-07-16 00:00:00 -05000
+date:   2024-07-21 00:00:00 -05000
 categories: 
 - Misc.
 permalink: /misc/fake-healthy-foods
@@ -424,7 +424,14 @@ tags:
 
 <div id="low-fat"></div>
 <br><i><font size="+2">Low Fat Options</font></i><br>
-&emsp;test
+&emsp;Ah low fat.  The glorious health craze of the 90s, where the food pyramid was in and eggs where the worst thing for your health.  In hindsight, this one didn't workout very well.  This era caused the spawn of low fat products, from yogurt to peanut butter.  To preface, fat is essentially and definitely healthy, but is also very calorie dense and very easy to overconsume.  That being said, both full fat and non fat options have their place when done correctly.
+
+&emsp;For example, let's look at dairy.  When you remove all the fat from <a rel="" target="" href="#yogurt">yogurt</a> or <a rel="" target="" href="#milk">milk</a>, it doesn't taste as good.  As such, the food industry pumped it full of sugar instead of make up the taste.  This is a very common story across the grocery store; replace potentially healthy fats with cheap inflamatory and addicting sugars.  I will say that I personally buy <a href="https://www.walmart.com/ip/Great-Value-Milk-Fat-Free-Half-Gallon-Plastic-Jug/10450120?athbdg=L1600&from=/search">skim milk</a> and <a href="https://www.walmart.com/ip/Great-Value-Greek-Plain-Nonfat-Yogurt-32-oz-Tub/26559565?athbdg=L1200&from=/search">plain nonfat greek yogurt</a>, both of which are dairy products with little to no fat.  The main part however is the "plain".  This means unflavored, and thus unsweetened.  Definitely stay away from any flavored milks or dairy products, like <a href="https://www.walmart.com/ip/Great-Value-Original-Vanilla-Lowfat-Yogurt-32-oz/10450127?athbdg=L1600&from=/search">vanilla yogurt</a>, <a href="https://www.walmart.com/ip/Chobani-Non-Fat-Greek-Yogurt-Strawberry-Blended-32-oz-Plastic/25205749?from=/search">strawberry yogurt</a>, or <a href="https://www.walmart.com/ip/Great-Value-Milk-1-Lowfat-Chocolate-Gallon-Plastic-Jug/17248403?athbdg=L1200&from=/search">chocolate milk</a>.  All low fat, all pumped full of sugar
+
+<center><img src="/assets/Misc/Trap/reduced_fat_pb.jpg" alt="" class="larger-image"></center><br>
+&emsp;The other main example I can think of is peanut butter.  What the heck is reduced fat peanut butter?  The predominant macronutrient of peanuts is fat.  Oh sorry, it's actually <a href="https://www.walmart.com/ip/Jif-Reduced-Fat-Creamy-Peanut-Butter-Spread-60-Peanuts-16-Ounces/25847556?from=/search">reduced fat peanut spread</a>, since it doesn't legally contain enough peanuts to be classified as peanut butter.  It needs to be at least 90% peanuts to be called peanut butter (imo it shouldn't be peanut butter if it's more than just peanuts and salt, but that's for a different day lol); this only contains 60% nuts.  This spread contains 4 less grams of fat, and instead has 4 g of added sugar, as well as corn syrup, sugar, hydroginated oils, and a laundry list of chemicals you can't pronounce.  For the same serving size (by volume; sligltly more by weight), it's actually the same amount of calories.  Stick to the natty stuff: just <a rel="" target="" href="#nuts">nuts</a> and salt.  It's cheaper, tastes, better, and much better for you.  Win, win, win.  Sorry I just love <a rel="" target="" href="#peanut-butter">peanut butter</a>, so I tend to rant about it lol.
+
+&emsp;TODO - RAPID FIRE LOW FAT FOODS
 
 <div id="vegetable-oil"></div>
 <br><i><font size="+2">Vegetable Oil</font></i><br>
