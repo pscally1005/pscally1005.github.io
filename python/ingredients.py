@@ -166,7 +166,7 @@ def ingredients(food):
         return str("Almond flour")
     elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor" or food == "Pitted dates":
         return str("Dates")
-    elif food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned":
+    elif food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked":
         return str("Sweet potato puree")
     elif food == "Pure vanilla extract by CITLALI" or food == "Pure vanilla extract by FIRST STREET":
         return str("Vanilla extract")
@@ -208,7 +208,7 @@ def ingredients(food):
         return str("Whey protein powder, unflavored")
     elif food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
         return str("Nonfat cottage cheese")
-    elif food == "Kraft Grated Parmesan Cheese" or food == "Grated parmesan cheese by POPE":
+    elif food == "Kraft Grated Parmesan Cheese" or food == "Grated parmesan cheese by POPE" or food == "Cheese, grated, parmesan":
         return str("Grated parmesan cheese")
     elif food == "Unsweetened original almond milk by Supervalu, Inc." or food == "Almond milk, unsweetened":
         return str("Unsweetened almond milk")
@@ -354,7 +354,7 @@ def ingredients(food):
         return str("Kalamata olives")
     
     # Nuts, chocolate, dried fruit
-    elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium":
+    elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium" or food == "Nuts, without salt added, plain, almond butter":
         return str("Almond butter")
     elif food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
         return str("Natural peanut butter")

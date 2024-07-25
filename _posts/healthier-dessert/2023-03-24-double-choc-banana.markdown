@@ -20,7 +20,7 @@ start5:
 section5: 
 Prep: 10
 Rest: 
-Cook: 55
+Cook: 60
 Source1: https://www.youtube.com/watch?v=4AaCp1rMbGo
 Source2: 
 whisk: https://s.samsungfood.com/ssERn
@@ -46,9 +46,14 @@ Instructions:
 
 - In a separate bowl, mash a banana. Add the rest of the wet ingredients (maple syrup, applesauce, yogurt, peanut butter, and egg) to the bowl and mix<br><br>
 
-- Pour the dry ingredients into the wet, and combine.  Fold in the chocolate chips<br><br>
+- Pour the wet ingredients into the dry, and combine with a silicone spatula.  Fold in the chocolate chips<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg" alt="" class="instruction-image"></center><br>
 
-- Transfer the batter to the lined pan.  Cover with aluminum foil, and bake at 350F for about 50-60 minutes. A toothpick should come out clean, and the internal temperature will be around 200F.  You can also bake them as 32 mini muffins for 16 minutes<br><br>
+- Transfer the batter to the lined pan, and optionally top with a few extra chocolate chips<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Choc Bread/choc-bread-raw.jpg" alt="" class="instruction-image"></center><br>
+
+- Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty, and the internal temperature will be around 190F.  You can also bake them as 36 mini muffins for about 15 minutes<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Choc Bread/choc-bread-baked.jpg" alt="" class="instruction-image"></center><br>
 
 - Let cool completely in the fridge for about an hour, then slice
 ---

@@ -53,7 +53,7 @@ def fix(vol):
         return str("1/4 cup")
     elif vol == "0.305 cup" or vol == "5.33 tbsp" or vol == "5.33 tbsp (15.0 ml) aprx" or vol == "0.33 cup" or vol == "0.33 cup (240.0 ml) aprx" or vol == "16 tsp (5.0 ml) aprx" or vol == "0.33 cup, crumbled" or vol == "1/3 cup, crumbled":
         return str("1/3 cup")
-    elif vol == "0.5 cup, shredded" or vol == "7.949999999999999 tbsp" or vol == "8 tablespoon" or vol == "0.49 cup, whole" or vol == "0.48 cup, NFS" or vol == "2.32 1/4 cup" or vol == "0.58 cup" or vol == "154.8 chips" or vol == "1 1/2 cup" or vol == "0.49 cup" or vol == "8 tbsp" or vol == "8 Tbsp" or vol == "0.5 cup" or vol == "24 tsp" or vol == "1/2 cup, whole" or vol == "0.5 cup, whole" or vol == "1/2 cup, crumbled" or vol == "0.5 crumbled" or vol == "24 tsp (5.0 ml) aprx" or vol == "0.5 cup (240.0 ml) aprx" or vol == "0.5 cup, unthawed" or vol == "1/2 cup, frozen" or vol == "0.5 cup, sliced" or vol == "0.5 cup, frozen":
+    elif vol == "0.5 cup, shredded" or vol == "0.5 cup, mashed" or vol == "7.949999999999999 tbsp" or vol == "8 tablespoon" or vol == "0.49 cup, whole" or vol == "0.48 cup, NFS" or vol == "2.32 1/4 cup" or vol == "0.58 cup" or vol == "154.8 chips" or vol == "1 1/2 cup" or vol == "0.49 cup" or vol == "8 tbsp" or vol == "8 Tbsp" or vol == "0.5 cup" or vol == "24 tsp" or vol == "1/2 cup, whole" or vol == "0.5 cup, whole" or vol == "1/2 cup, crumbled" or vol == "0.5 crumbled" or vol == "24 tsp (5.0 ml) aprx" or vol == "0.5 cup (240.0 ml) aprx" or vol == "0.5 cup, unthawed" or vol == "1/2 cup, frozen" or vol == "0.5 cup, sliced" or vol == "0.5 cup, frozen":
         return str("1/2 cup")
     elif vol == "9 tbsp" or vol == "9 Tbsp" or vol == "0.5625 cup":
         return str("1/2cup + 1tbsp")    
@@ -63,7 +63,7 @@ def fix(vol):
         return str("2/3 cup")
     elif vol == "0.75 cup whole kernels" or vol == "0.76 cup" or vol == "0.75 cup (240.0 ml) aprx" or vol == "1.545 1/2 cup" or vol == "12 tbsp" or vol == "12 Tbsp" or vol == "0.75 cup" or vol == "0.75 cup (240.0 ml) aprx" or vol == "3/4 cup, crumbled" or vol == "0.75 crumbled" or vol == "0.75 cup crumbled" or vol == "0.75 cup, shredded":
         return str("3/4 cup")
-    elif vol == "1 cup whole kernels" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
+    elif vol == "1 cup whole kernels" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
         return str("1 cup")
     elif vol == "1.0989 cup":
         return str("1 heaping cup")

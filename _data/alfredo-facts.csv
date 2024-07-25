@@ -1,0 +1,142 @@
+Nutrient,Amount,Unit,DV
+Calories,173,,
+"Vitamin A, RAE",54.54,mcg,6 %
+"Carotene, alpha",0.81,mcg,
+"Carotene, beta",36.32,mcg,
+"Cryptoxanthin, beta",0.54,mcg,
+"Lutein + zeaxanthin",35.65,mcg,
+"Lycopene",2.18,mcg,
+"Retinol",51.4,mcg,
+"Thiamin [Vitamin B1]",0.036,mg,3 %
+"Riboflavin [Vitamin B2]",0.102,mg,8 %
+"Niacin [Vitamin B3]",0.166,mg,1 %
+"Pantothenic acid [Vitamin B5]",0.093,mg,2 %
+"Vitamin B6",0.089,mg,5 %
+"Vitamin B12 [Cobalamin]",0.35,mcg,15 %
+"Vitamin B12, added",0,mcg,
+"Folate, DFE [Vitamin B9]",7.86,mcg,2 %
+"Folate, food",7.86,mcg,
+"Folic acid",0,mcg,
+"Vitamin C [Ascorbic acid]",0.3,mg,0 %
+"Vitamin D",0.4,mcg,2 %
+"Vitamin D3",0.06,mcg,
+"Vitamin E (alpha-tocopherol)",0.35,mg,2 %
+"Vitamin E, added",0,mg,
+"Tocopherol, alpha",0.35,mg,
+"Tocopherol, beta",0,mg,
+"Tocopherol, delta",0.01,mg,
+"Tocopherol, gamma",0.22,mg,
+"Tocotrienol, alpha",0,mg,
+"Tocotrienol, beta",0,mg,
+"Tocotrienol, delta",0,mg,
+"Tocotrienol, gamma",0,mg,
+"Vitamin K",27.3,mcg,23 %
+"Vitamin K1 [Phylloquinone]",26.4,mcg,
+"Vitamin K2 [Menaquinone]",0.9,mcg,
+"Dihydrophylloquinone",0,mcg,
+"Betaine",0.4,mg,
+"Choline",9.9,mg,2 %
+"Calcium",262.47,mg,20 %
+"Copper",0.05,mg,6 %
+"Fluoride",0.2,mcg,
+"Iron",1.85,mg,10 %
+"Magnesium",18.06,mg,4 %
+"Manganese",0.248,mg,11 %
+"Phosphorus",126.13,mg,10 %
+"Potassium",138.82,mg,3 %
+"Selenium",5.66,mcg,10 %
+"Sodium",533.12,mg,23 %
+"Zinc",0.85,mg,8 %
+"Protein",15.82,g,32 %
+"Alanine",0.133,g,
+"Arginine",0.238,g,
+"Aspartic acid",0.325,g,
+"Cystine",0.02,g,
+"Glutamic acid",0.921,g,
+"Glycine",0.097,g,
+"Histidine",0.111,g,10 %
+"Hydroxyproline",0,g,
+"Isoleucine",0.206,g,13 %
+"Leucine",0.387,g,11 %
+"Lysine",0.306,g,10 %
+"Methionine",0.101,g,
+"Phenylalanine",0.218,g,
+"Proline",0.495,g,
+"Serine",0.231,g,
+"Threonine",0.152,g,9 %
+"Tryptophan",0.055,g,13 %
+"Tyrosine",0.235,g,
+"Valine",0.267,g,14 %
+"Phenylalanine + Tyrosine",0.453,g,17 %
+"Methionine + Cysteine",0.101,g,7 %
+"Carbohydrate",11.39,g,4 %
+"Fiber",1.16,g,4 %
+"Sugars",4.66,g,
+"Fructose",0.02,g,
+"Galactose",0.01,g,
+"Glucose",0.01,g,
+"Lactose",0,g,
+"Maltose",0,g,
+"Sucrose",0.06,g,
+"Net carbs",10.23,g,
+"0.01 g",0.12 g,undefined,9.58
+"Fat",6.865,g,9 %
+"Saturated fatty acids",2.451,g,12 %
+"Butanoic acid",0.063,g,
+"Decanoic acid",0.081,g,
+"Docosanoic acid",0.003,g,
+"Dodecanoic acid",0.097,g,
+"Eicosanoic acid",0.006,g,
+"Heptadecanoic acid",0.018,g,
+"Hexadecanoic acid",0.969,g,
+"Hexanoic acid",0.053,g,
+"Octadecanoic acid",0.341,g,
+"Octanoic acid",0.036,g,
+"Pentadecanoic acid",0.03,g,
+"Tetracosanoic acid",0.001,g,
+"Tetradecanoic acid",0.295,g,
+"Tridecanoic acid",0,g,
+"Monounsaturated fatty acids",3.217,g,
+"Cis-hexadecenoic acid",0.036,g,
+"Cis-octadecenoic acid",0.745,g,
+"Docosenoic acid",0,g,
+"Docosenoic cis acid",0,g,
+"Docosenoic trans acid",0,g,
+"Eicosenoic acid",0.006,g,
+"Heptadecenoic acid",0.006,g,
+"Hexadecenoic acid",0.047,g,
+"Octadecenoic acid",0.831,g,
+"Pentadecenoic acid",0,g,
+"Tetracosenoic cis acid",0,g,
+"Tetradecenoic acid",0.029,g,
+"Trans-hexadecenoic acid",0.01,g,
+"Trans-octadecenoic acid",0.078,g,
+"Polyunsaturated fatty acids",0.552,g,
+"α-linolenic acid n-3 (ALA)",0.01,g,
+"γ-linolenic acid n-6 (GLA)",0,g,
+"Cis,cis-eicosadienoic n-6 acid",0.002,g,
+"Linoleic acid n-6 (LA)",0.11,g,
+"Docosahexaenoic n-3 acid (DHA)",0,g,
+"Docosapentaenoic n-3 acid (DPA)",0.002,g,
+"Docosatetraenoic acid",0.001,g,
+"Eicosadienoic acid",0.004,g,
+"Eicosadienoic n-3 acid",0,g,
+"Eicosadienoic n-6 acid",0.003,g,
+"Eicosapentaenoic n-3 acid (EPA)",0,g,
+"Eicosatetraenoic acid",0.005,g,
+"Octadecadienoic CLAs acid",0.017,g,
+"Octadecadienoic acid",0.167,g,
+"Octadecatetraenoic acid",0,g,
+"Octadecatrienoic acid",0.026,g,
+"Trans-octadecadienoic acid",0.021,g,
+"Trans-octadecatrienoic acid",0,g,
+"Fatty acids, total trans",0.109,g,
+"Fatty acids, total trans-monoenoic",0.088,g,
+"Fatty acids, total trans-polyenoic",0.021,g,
+"Cholesterol",11.67,mg,4 %
+"Phytosterols",3.9,mg,
+"Alcohol, ethyl",0,g,
+"Ash",1.24,g,
+"Caffeine",0,mg,
+"Theobromine",0,mg,
+"Water",31.09,g,

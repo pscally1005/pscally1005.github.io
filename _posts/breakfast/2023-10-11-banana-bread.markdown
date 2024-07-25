@@ -9,11 +9,11 @@ permalink: /recipes/banana-bread
 image: /assets/Food/Breakfast/Banana Bread/bb-cover.jpg
 ing: bananabread-ing
 facts: bananabread-facts
-section1: Wet
-start2: Oat flour
-section2: Dry
-start3: 
-section3: 
+section1: Dry
+start2: Banana, overripe
+section2: Wet
+start3: Sugar free chocolate chips
+section3: Optional
 start4: 
 section4: 
 start5: 
@@ -28,25 +28,35 @@ tags:
 - gluten free
 - oats
 - oatmeal
+- quick oats
+- rolled oats
 - chocolate
 - dessert
 - bake
 - vic
-Description: Unlike traditional banana bread or muffins, this recipe is healthy enough to be eaten for breakfast, as it's not loaded with added sugars or unhealthy fats. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted peanut butter. Bonus points for being gluten free too!  Check out my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
+- banana muffin
+- muffin
+- peanut butter
+- nut butter
+- natural nut butter
+- almond butter
+- sunflower seed butter
+- sunflower butter
+Description: Unlike traditional banana bread or muffins, this recipe is healthy enough to be eaten for breakfast, as it's not loaded with added sugars or unhealthy fats. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted peanut butter (not included in the nutrition facts). Bonus points for being gluten free too!  Check out my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
 Instructions: 
 - Preheat your oven to 350F and line a bread pan with parchment paper<br><br>
 
-- In a large bowl, mix together the dry ingredients - oat flour, cornstarch, baking soda, and salt<br><br>
+- In a large bowl, mix together the dry ingredients - quick oats, cornstarch, baking soda, and salt<br><br>
 
-- In a separate medium bowl, mash the banana. Add the rest of the wet ingredients - maple strup, applesauce, yogurt, and egg<br><br>
+- In a separate medium bowl, mash the banana. Add the rest of the wet ingredients - yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and maple syrup (or honey).  Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use sunflower seed butter<br><br>
 
-- Pour the wet into the dry and mix just until smooth. Optionally fold in some chocolate chips, about 4 tbsp (60 g)<br>
-- <br><center><img src="/assets/Food/Breakfast/Banana Bread/bb-4.jpg" alt="" class="instruction-image"></center>
+- Pour the wet ingredients into the dry and mix just until smooth with a silicone spatula. Optionally fold in some chocolate chips<br><br>
+- <center><img src="/assets/Food/Breakfast/Banana Bread/bb-4.jpg" alt="" class="instruction-image"></center><br><br>
 
-- Pour batter into the pan and smooth the top.<br><br>
+- Pour batter into the pan and smooth the top<br><br>
 
-- Bake at 350F for an hour. Cover with foil for the last 15 minutes<br><br>
+- Bake at 350F for about an hour (covered), until a toothpick is almost clean and the internal temperature is around 190F<br><br>
 
-- Let rest in the pan for 10 minutes.  Transfer to a wire rack to cool<br><br>
-- <br><center><img src="/assets/Food/Breakfast/Banana Bread/bb-7.jpg" alt="" class="instruction-image"></center>
+- Place the pan in the fridge, and let it totally cool before slicing<br><br>
+- <center><img src="/assets/Food/Breakfast/Banana Bread/bb-7.jpg" alt="" class="instruction-image"></center>
 ---
