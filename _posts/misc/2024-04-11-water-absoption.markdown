@@ -57,7 +57,7 @@ list:
 - 8. <a rel="" target="" href="#coconut">Coconut Flour</a><br>
 - 9. <a rel="" target="" href="#chia">Chia Seeds</a><br>
 - 10. <a rel="" target="" href="#peanut">Peanut Flour</a><br>
-# - 11. <a rel="" target="" href="#flax">Flaxmeal</a><br>
+- 11. <a rel="" target="" href="#flax">Flaxmeal</a><br>
 # - 12. <a rel="" target="" href="#almond">Almonds</a><br>
 # - a. <a rel="" target="" href="#almond-flour">Almond Flour</a><br>
 # - b. <a rel="" target="" href="#almond-meal">Almond Meal</a><br>
@@ -223,15 +223,15 @@ testing:
 
 - This one surprised me a bit.  For some reason, I expected peanut flour to be able to hold on to a lot of water, similar to the cocoa powder, but it was a bit less.  The <b>30 g</b> of peanut flour only needed about <b>29 g</b> of water to make it into a dough<br><br>
 
-# - <div id="flax"></div>
-# - <b><font size="+2">11. Flaxmeal</font></b><br>
-# - Flaxmeal, also known as ground flaxseed or flaxseed meal, is made by grinding together whole flaxseeds until a flour is formed.  It's high very high in Omega-3 fatty acids as well as fiber, while being low in carbs and gluten free.<br>
+- <div id="flax"></div>
+- <b><font size="+2">11. Flaxmeal</font></b><br>
+- Flaxmeal, also known as ground flaxseed or flaxseed meal, is made by grinding together whole flaxseeds until a flour is formed.  It's high very high in Omega-3 fatty acids as well as fiber, while being low in carbs and gluten free.<br><br>
 
-# - Typically not used on its own, flax is usually added as an additional flour in small amounts in keto or GF recipes; however, I wanted to isolate it here and test how it would be as the sole flour.<br><br>
+- Typically not used on its own, flax is usually added as an additional flour in small amounts in keto or GF recipes; however, I wanted to isolate it here and test how it would be as the sole flour.<br><br>
 
-# - <center><img src="/assets/Misc/Water Absorption/flax.jpg" alt="" class="larger-image"></center><br>
+- <center><img src="/assets/Misc/Water Absorption/flax.jpg" alt="" class="larger-image"></center><br>
 
-# - <b><i>TODO - BUY FLAXMEAL & TEST</i></font></b><br><br>
+- For some reason, I expected ground flax to have results closer to chia seeds.  But it definitely took in less water; only about <b>21 g</b> of water for <b>30 g</b> ground flaxseed.  It had a cookie dough like texture, but certainly hardened in the fridge.  It turned into something you could crumble (which I did over a bowl of yogurt lol)<br><br>
 
 # - <div id="almond"></div>
 # - <div id="almond-flour"></div>

@@ -34,8 +34,8 @@ def options(num):
         return ("Chia Seeds")
     elif(num == 15):
         return ("Peanut Flour")
-    # elif(num == 16):
-    #     return ("Flaxmeal")
+    elif(num == 16):
+        return ("Flaxmeal")
     # elif(num == 17):
     #     return ("Almond Flour")
     # elif(num == 18):
@@ -56,7 +56,7 @@ def options(num):
         print("13: Coconut Flour")
         print("14: Chia Seeds")
         print("15: Peanut Flour")
-        # print("16: Flaxmeal")
+        print("16: Flaxmeal")
         # print("17: Almond Flour")
         # print("18: Almond Meal")
 
@@ -127,7 +127,7 @@ def calc(f, g, t):
     coconut = 8
     chia = 30
     pb2 = 31
-    # flax = 
+    flax = 43
     # almondFlour = 
     # almondMeal = 
 
@@ -147,7 +147,7 @@ def calc(f, g, t):
     arr[13] = coconut
     arr[14] = chia
     arr[15] = pb2
-    # arr[16] = flax
+    arr[16] = flax
     # arr[17] = almondFlour
     # arr[18] = almondMeal
 

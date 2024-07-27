@@ -38,13 +38,17 @@ tags:
 - vic
 - quick oats
 - breakfast
-Description: Banana bread is a great dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel your best at sweets time. It's very similar to my blueberry muffins and breakfast banana bread recipes.  Check out my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="banana-bread">Breakfast Banana Bread</a> for similar recipes
+- banana bread
+- bread
+- cake
+- mini muffin
+Description: Banana bread is a great dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel your best at sweets time. This dessert is minimally sweetened with honey, and fully brings out the flavor of the bananas and the cocoa for a delicious brownie flavored banana bread.  It's very similar to my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="banana-bread">Oatmeal Banana Mini Muffins</a>, which you should also check out
 Instructions: 
 - Preheat the oven to 350F, and line a bread pan with parchment paper. Spray the inside of the paper as well<br><br>
 
-- Whisk together dry ingredients (oats, cornstarch, cocoa, baking soda, and salt) in a bowl<br><br>
+- Whisk together dry ingredients (oat flour, cocoa powder, cornstarch, baking soda, and salt) in a bowl<br><br>
 
-- In a separate bowl, mash a banana. Add the rest of the wet ingredients (maple syrup, applesauce, yogurt, peanut butter, and egg) to the bowl and mix<br><br>
+- In a separate bowl, mash a banana. Add the rest of the wet ingredients (yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and honey) to the bowl and mix.  Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use sunflower seed butter<br><br>
 
 - Pour the wet ingredients into the dry, and combine with a silicone spatula.  Fold in the chocolate chips<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg" alt="" class="instruction-image"></center><br>
@@ -52,8 +56,10 @@ Instructions:
 - Transfer the batter to the lined pan, and optionally top with a few extra chocolate chips<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Choc Bread/choc-bread-raw.jpg" alt="" class="instruction-image"></center><br>
 
-- Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty, and the internal temperature will be around 190F.  You can also bake them as 36 mini muffins for about 15 minutes<br><br>
+- Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty, and the internal temperature will be around 190F<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Choc Bread/choc-bread-baked.jpg" alt="" class="instruction-image"></center><br>
+
+- Alternatively, you can bake these as either mini muffins (makes 40) or standard size muffins (makes 12).  Bake at 350F until the internal temperature is around 200F, and a toothpick comes out clean.  About 12 minutes for the mini muffins or about 22 minutes for the standard size<br><br>
 
 - Let cool completely in the fridge for about an hour, then slice
 ---

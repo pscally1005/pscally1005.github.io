@@ -52,6 +52,7 @@ Instructions:
 - You can use whatever kind of nuts you like for this recipe.  Peanuts, almonds, pistachios, cashews, you name it.  For nut free alternatives, you can also use unsweetened shredded coconut flakes, sunflower seeds, or pumpkin seeds.  The concept is exactly the same<br><br>
 
 - If the nuts are raw, pour them onto a cookie sheet with aluminum foil. Roast for 10 minutes at 350F. If the nuts are already roasted, ignore this step<br><br>
+- <center><img src="/assets/Food/Sweet Spreads/PB/roasted-seeds.jpg" alt="" class="instruction-image"></center><br>
 
 - Add just the nuts into a food processor, and process until smooth (on high). Stop every minute to scrape down the sides<br><br>
 - <center><img src="/assets/Food/Sweet Spreads/PB/pb-2.jpg" alt="" class="instruction-image"></center><br>
