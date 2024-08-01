@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Gluten Free Tuna (or Crab) Cakes"
+date:   2024-03-19 00:00:00 -05000
+categories: 
+- Recipes
+- Fish
+permalink: /recipes/tuna-cakes
+image: /assets/Food/Fish/Tuna Cake/tuna-cake-cover.jpg
+ing: tunacake-ing
+facts: tunacake-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 30
+Rest: 30
+Cook: 10
+Source1: https://www.onceuponachef.com/recipes/maryland-crab-cakes-with-quick-tartar-sauce.html#tabrecipe
+Source2: 
+whisk: https://s.samsungfood.com/paB6t
+tags: 
+- tuna fish
+- mayo
+- yogurt
+- onion powder
+- garlic powder
+- canned
+- can
+- crab
+- crabcake
+- crab cake
+- protein
+- seafood
+- sea food
+- oldbay
+- old bay
+- coconut flour
+- soy sauce
+- gluten free
+Description: I took and modified this recipe from my parents, who made crab cakes on Christmas. I really liked them, but I didn't want to pay for crab, so I wanted to try it with tuna instead. I think they turned out pretty well. They're cheap, healthy, and simple. Feel free to actually use crab too. They're gluten free too, being made with coconut flour! The nutrition facts are per cake
+Instructions: 
+- Prepare a 12" pan with a spray of oil<br><br>
+
+- In a large bowl, beat the eggs, and mix with the ingredients above, from eggs to old bay<br><br>
+
+- Drain and rinse your fish under water with a strainer and add the fish into the bowl. Make sure to check for any shells (if using crab). Mash with the back of a fork to fully incorporate the fish. Fold in the flour, and mix until just combined. The mixture should feel slightly sticky, but able to be shaped<br><br>
+- <center><img src="/assets/Food/Fish/Tuna Cake/tuna-cake-3.jpg" alt="" class="instruction-image"></center><br>
+
+- Shape the mixture into patties (about 12) and place on your pan. Cover and refrigerate the cakes for at least 30 minutes to 1 hour to set<br><br>
+- <center><img src="/assets/Food/Fish/Tuna Cake/tuna-cake-4.jpg" alt="" class="instruction-image"></center><br>
+
+- Heat your large pan over medium heat with a spray of oil. Cook the cakes for about 10 minutes until golden brown on each side. Be very careful not to break them when flipping<br><br>
+- <center><img src="/assets/Food/Fish/Tuna Cake/tuna-cake-5.jpg" alt="" class="instruction-image"></center>
+---

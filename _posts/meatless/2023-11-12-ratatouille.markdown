@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Meatless
 permalink: /recipes/ratatouille
-image: /assets/Food/Meatless/Ratatouille/ratatouille.jpg
+image: /assets/Food/Meatless/Ratatouille/ratatouille-cover.jpg
 ing: ratatouille-ing
 facts: ratatouille-facts
 section1: 
@@ -50,5 +50,6 @@ Instructions:
 
 - Add the vegetables (zucchini, yellow squash, eggplant, and tomatoes) into the pan. Bake at 350F for 60 minutes, covered<br><br>
 
-- Remove the cover and continue baking until the vegetables are very soft and the ratatouille is bubbling, another 45 minutes, or until the vegetables are softened to your liking. Let cool for a few minutes before serving
+- Remove the cover and continue baking until the vegetables are very soft and the ratatouille is bubbling, another 45 minutes, or until the vegetables are softened to your liking. Let cool for a few minutes before serving<br><br>
+- <center><img src="/assets/Food/Meatless/Ratatouille/ratatouille-pot.jpg" alt="" class="instruction-image"></center>
 ---

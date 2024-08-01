@@ -49,7 +49,7 @@ def fix(vol):
         return str("9tbsp + 1tsp")
     
     # cup
-    elif vol == "1 oz (167 kernels)" or vol == "0.255 cup" or vol == "1 1/4 cup" or vol == "4 tbsp" or vol == "0.5 1/2 cup" or vol == "0.48 cup, NFS" or vol == "4 Tbsp" or vol == "0.25 cup" or vol == "1 About 1/4 cup" or vol == "1.4 cup" or vol == "12 teaspoons" or vol == "12 tsp" or vol == "1/4 cup, crumbled" or vol == "0.25 crumbled" or vol == "0.25 cup (240.0 ml) aprx" or vol =="0.25 cup, sliced" or vol == "12 tsp (5.0 ml) aprx" or vol =="0.3325 cup (60.0 ml) aprx":
+    elif vol == "1 oz (167 kernels)" or vol == "0.245 cup" or vol == "0.255 cup" or vol == "1 1/4 cup" or vol == "4 tbsp" or vol == "0.5 1/2 cup" or vol == "0.48 cup, NFS" or vol == "4 Tbsp" or vol == "0.25 cup" or vol == "1 About 1/4 cup" or vol == "1.4 cup" or vol == "12 teaspoons" or vol == "12 tsp" or vol == "1/4 cup, crumbled" or vol == "0.25 crumbled" or vol == "0.25 cup (240.0 ml) aprx" or vol =="0.25 cup, sliced" or vol == "12 tsp (5.0 ml) aprx" or vol =="0.3325 cup (60.0 ml) aprx":
         return str("1/4 cup")
     elif vol == "0.305 cup" or vol == "5.33 tbsp" or vol == "5.33 tbsp (15.0 ml) aprx" or vol == "0.33 cup" or vol == "0.33 cup (240.0 ml) aprx" or vol == "16 tsp (5.0 ml) aprx" or vol == "0.33 cup, crumbled" or vol == "1/3 cup, crumbled":
         return str("1/3 cup")
@@ -63,7 +63,7 @@ def fix(vol):
         return str("2/3 cup")
     elif vol == "0.75 cup whole kernels" or vol == "0.76 cup" or vol == "0.75 cup (240.0 ml) aprx" or vol == "1.545 1/2 cup" or vol == "12 tbsp" or vol == "12 Tbsp" or vol == "0.75 cup" or vol == "0.75 cup (240.0 ml) aprx" or vol == "3/4 cup, crumbled" or vol == "0.75 crumbled" or vol == "0.75 cup crumbled" or vol == "0.75 cup, shredded":
         return str("3/4 cup")
-    elif vol == "1 cup whole kernels" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
+    elif vol == "1 cup whole kernels" or vol == "0.922 cup" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
         return str("1 cup")
     elif vol == "1.0989 cup":
         return str("1 heaping cup")
@@ -175,7 +175,7 @@ def fix(vol):
     # produce
     elif vol == "1/2 fruit, without skin and seed" or vol == "0.5 fruit, without skin and seed" or vol == "0.5 Banana" or vol == "0.5 banana" or vol == "1/2 banana" or vol == "1/2 Banana" or vol == "1/2 Onion" or vol == "0.5 Onion" or vol == "1/2 onion" or vol == "0.5 onion" or vol == "0.5 medium bell pepper" or vol == "1/2 medium bell pepper" or vol == "0.5 whole" or vol == "1/2 whole" or vol == "0.5 English" or vol == "1/2 English" or vol == "0.5 Italian tomato" or vol == "1/2 Italian tomato" or vol =="0.5 small" or vol == "1/2 small" or vol == "1/2 eggplant, unpeeled (approx 1-1/4 lb)"or vol == "0.5 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("1/2 medium")
-    elif vol == "1 fruit, without skin and seed" or vol == "1.33 medium" or vol == "1 banana" or vol == "1 Banana" or vol == "1 onion" or vol == "1 Onion" or vol == "1 medium bell pepper" or vol == "1 whole" or vol == "1 English" or vol == "1 Italian tomato"or vol == "1 plum tomato" or vol =="1 small" or vol == "1 eggplant, unpeeled (approx 1-1/4 lb)":
+    elif vol == "1 fruit, without skin and seed" or vol == "1 medium (approx 2-3/4 long, 2-1/2 dia.)" or vol == "1.33 medium" or vol == "1 banana" or vol == "1 Banana" or vol == "1 onion" or vol == "1 Onion" or vol == "1 medium bell pepper" or vol == "1 whole" or vol == "1 English" or vol == "1 Italian tomato"or vol == "1 plum tomato" or vol =="1 small" or vol == "1 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("1 medium")
     elif vol == "2 fruit, without skin and seed" or vol == "2 banana" or vol == "2 Banana" or vol == "2 onion" or vol == "2 Onion" or vol == "2 medium bell peppers" or vol == "2 whole" or vol == "2 English" or vol == "2 Italian tomato"or vol == "2 plum tomato" or vol == "2 small" or vol == "2 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("2 medium")
@@ -189,6 +189,10 @@ def fix(vol):
         return str("8 medium")
     elif vol == "9 small":
         return str("9 medium")
+    elif vol == "1 kiwi | per":
+        return str("1 medium")
+    elif vol == "2 kiwi | per":
+        return str("2 medium")
     
     # eggs
     elif vol == "1 egg":

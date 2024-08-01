@@ -148,6 +148,8 @@ def ingredients(food):
         return str("Honey")
     elif food == "Chia seeds by GREENWISE" or food == "Chia seed by NO BRAND":
         return str("Chia seeds")
+    elif food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc.":
+        return str("Ground flaxseed")
     elif food == "Sugar substitute, liquid, stevia" or food == "Stevia zero calorie liquid sweetener by PURE VIA":
         return str("Liquid stevia or monk fruit")
     elif food == "Peanut butter powder by PBFIT" or food == "Powdered peanut butter by PB2":
@@ -204,6 +206,8 @@ def ingredients(food):
         return str("Buttermilk")
     elif food == "Eggs, egg whole, Large, Grade A" or food == "Large egg" or food == "Large Egg":
         return str("Egg")
+    elif food == "100% liquid egg whites by KROGER":
+        return str("Liquid egg whites")
     elif food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder":
         return str("Whey protein powder, unflavored")
     elif food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
@@ -296,6 +300,8 @@ def ingredients(food):
         return str("Red jalapenos")
     elif food == "Cilantro, raw":
         return str("Cilantro, fresh")
+    elif food == "Kiwi fruit":
+        return str("Kiwi")
     
     # Frozen produce
     elif food == "Blueberries, frozen, wild":
@@ -374,6 +380,8 @@ def ingredients(food):
         return str("85% chocolate")
     elif food == "Chopped Walnuts, Great Value" or food == "Walnut chopped pieces" or food == "Chopped walnuts by DIAMOND":
         return str("Walnuts")
+    elif food == "Walnut butter by Lyle Style":
+        return str("Walnut butter")
     elif food == "Nuts, dried, pine nuts":
         return str("Pine nuts")
     elif food == "Nuts, pecans, or peanuts" or food == "Nuts, pecans":
