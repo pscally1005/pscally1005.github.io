@@ -59,7 +59,7 @@ tags:
 - onion
 - lemon pepper
 - red pepper flakes
-Description: This recipe is essentially the exact same as my <a href="mediterranean-pasta-salad">Mediterranean Pasta Salad</a>, but I've just swapped the chickpea pasta for roasted sweet potatoes. They're sweeter (duh) but more importantly cheaper than chickpea pasta, but with less protein. You can't go wrong with either one!
+Description: This recipe is essentially the exact same as my <a href="mediterranean-pasta-salad">Mediterranean Pasta Salad</a>, but I've just swapped the chickpea pasta for roasted sweet potatoes. They're sweeter (duh) but more importantly cheaper than chickpea pasta, but with less protein. You can't go wrong with either one!  The homemade <a href="/misc/fake-healthy-foods#salad-dressing">salad dressing</a> is delicious as well
 Instructions: 
 - Start with the potatoes first, since they'll take the longest. Preheat your oven to 425F, and line a cookie sheet with parchment paper. Wash and cut your sweet potatoes into small cubes, and add to the sheet. Drizzle with oil and add a pinch of salt. Roast for about 30 minutes, or until soft and lightly charred<br><br>
 

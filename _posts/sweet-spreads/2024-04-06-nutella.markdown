@@ -38,7 +38,7 @@ tags:
 - cocoa
 - applesauce
 - unsweetened applesauce
-Description: Did you know that Nutella contains only about 13% hazelnuts? More than half of Nutella is pure sugar, and over a third of it is hydrogenated oils, gross. This recipe is a much cleaner Nutella, instead being predominantly hazelnuts, and sweetened with fully natural overripe bananas. Carob powder makes it slightly sweeter as well, but feel free to use cocoa powder instead. The nutrition facts are for a 33 g serving, about 2 tbsp
+Description: Did you know that <a href="/misc/fake-healthy-foods#nutella">Nutella</a> contains only about 13% hazelnuts? More than half of Nutella is pure sugar, and over a third of it is hydrogenated oils, gross. This recipe is a much cleaner Nutella, instead being predominantly hazelnuts, and sweetened with fully natural overripe bananas. Carob powder makes it slightly sweeter as well, but feel free to use cocoa powder instead. The nutrition facts are for a 33 g serving, about 2 tbsp
 Instructions: 
 - Preheat your air fryer to 300F. Add hazelnuts to the basket, and roast for 15 minutes. Allow them to rest for about 5 minutes, until cool to the touch<br><br>
 

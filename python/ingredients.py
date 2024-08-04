@@ -11,7 +11,7 @@ def ingredients(food):
     # Beans
     elif food == "Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds" or food == "Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds":
         return str("Chickpeas, drained and rinsed")
-    elif food == "Beans, drained solids, canned, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto":
+    elif food == "Beans, drained solids, canned, pinto" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto":
         return str("Pinto beans, drained and rinsed")
     elif food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, canned, mature seeds, all types, black" or food == "Beans, drained solids, canned, black":
         return str("Black beans, drained and rinsed")
@@ -336,7 +336,7 @@ def ingredients(food):
         return str("Diced tomatoes")
     elif food == "Tomatoes, canned, crushed" or food == "Canned crushed tomatoes":
         return str("Crushed tomatoes")
-    elif food == "Tomato paste by FIESTA" or food == "Tomato paste by REDPACK" or food == "Tomato products, paste, canned" or food == "Canned tomato paste" or food == "Tomato paste, canned":
+    elif food == "Tomato paste by FIESTA" or food == "Tomato paste by REDPACK" or food == "Tomato products, paste, canned" or food == "Canned tomato paste" or food == "Tomato paste, canned" or food == "Tomato paste by TAT":
         return str("Tomato paste")
     elif food == "Grape leaves, raw":
         return str("Grape leaves")

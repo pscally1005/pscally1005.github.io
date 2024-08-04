@@ -33,7 +33,7 @@ tags:
 - berry
 - chia
 - blend
-Description: Here's my simple formula for the perfect protein packed fruit smoothie. I always use a banana, and whatever frozen fruit I have in my kitchen at the time. The yogurt and protein powder help to make it a bit more filling as a meal that could hold you over until lunch. This also works well as a smoothie bowl, just use a frozen banana.
+Description: Here's my simple formula for the perfect protein packed fruit <a href="/misc/fake-healthy-foods#smoothie">smoothie</a>. I always use a banana, and whatever frozen fruit I have in my kitchen at the time. The yogurt and protein powder help to make it a bit more filling as a meal that could hold you over until lunch. This also works well as a smoothie bowl, just use a frozen banana.
 Instructions: 
 - Blend all ingredients together in a blender, and pour into a glass<br><br>
 

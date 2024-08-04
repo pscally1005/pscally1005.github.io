@@ -47,5 +47,8 @@ Instructions:
 
 - Dump the eggs into the pan, fully incorporate with the vegetables, and return the pan to the heat. Cook for just 1-2 minutes with frequent stirring, or until the eggs have reached a soft scramble<br><br>
 
-- Top with hot sauce and everything bagel seasoning (optional) and serve
+- Top with hot sauce and everything bagel seasoning (optional) and serve<br><br>
+
+- You can mix up your veggies too.  Here, I've used 1/2 lb frozen chopped spinach in each bowl instead of the diced tomatoes and bell peppers.  You can also meal prep this as well by scaling it up!<br><br>
+- <center><img src="/assets/Food/Breakfast/Higher Protein Eggs/higher-protein-eggs-spinach.jpg" alt="" class="instruction-image"></center>
 ---

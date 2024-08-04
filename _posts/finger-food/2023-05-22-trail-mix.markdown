@@ -35,7 +35,7 @@ tags:
 - cocoa
 - mix
 - simple
-Description: Trail mix is a perfect snack to take on the go, especially when hiking (duh). Here's a simple formula that I generally follow, but it is super easy to tweak to your liking. Each serving is about 30 grams.  If you prefer crispy nuts and chickpeas in your trail mix instead, see my <a href="air-fried-trail-mix">Air Fryer Trail Mix</a>
+Description: <a href="/misc/fake-healthy-foods#trail-mix">Trail mix</a> is a perfect snack to take on the go, especially when hiking (duh). Here's a simple formula that I generally follow, but it is super easy to tweak to your liking. Each serving is about 30 grams.  If you prefer crispy nuts and chickpeas in your trail mix instead, see my <a href="air-fried-trail-mix">Air Fryer Trail Mix</a>
 Instructions: 
 - Mix together in ziploc bag, store in cabinet or fridge
 ---

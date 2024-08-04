@@ -46,7 +46,7 @@ tags:
 - garlic
 - milk
 - skim milk
-Description: This alfredo sauce is high in protein, tastes great over pasta or <a href="/recipes/spaghetti-squash">spaghetti squash</a> (like I did with my <a href="/recipes/vegan-mac-and-cheese">'Mac' and 'Cheese'</a> and <a href="/recipes/avocado-pesto">Avocado Pesto</a>), and much lower in fat than traditional. Instead of butter and cream, here I'm utilizing cottage cheese (or Greek yogurt) for a delicious and creamy sauce that's much lighter than a standard alfredo
+Description: This alfredo <a href="/misc/fake-healthy-foods#sauces">sauce</a> is high in protein, tastes great over pasta or <a href="/recipes/spaghetti-squash">spaghetti squash</a> (like I did with my <a href="/recipes/vegan-mac-and-cheese">'Mac' and 'Cheese'</a> and <a href="/recipes/avocado-pesto">Avocado Pesto</a>), and much lower in fat than traditional. Instead of butter and cream, here I'm utilizing cottage cheese (or Greek yogurt) for a delicious and creamy sauce that's much lighter than a standard alfredo
 Instructions: 
 - <br><center><img src="/assets/Food/Savory Sauces/Alfredo/alfredo-unblended.jpg" alt="" class="instruction-image"></center><br>
 - In a food processor, blend together all ingredients until smooth. Serve over pasta (1 lb box) or spaghetti squash (~4 lb squash), or use as a salad dressing<br><br>

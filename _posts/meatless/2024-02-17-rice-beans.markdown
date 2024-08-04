@@ -37,7 +37,7 @@ tags:
 - broth
 - taco
 - fajita
-Description: Ah rice and beans, the versatile side to nearly every meal. If you've noticed that most of my recipes are just protein+vegetable, this is why. I prefer to keep my carb separate, and that way I can decide if I want to have it or not for dinner. Most of the time when I have a carb on the side, I make some variation of rice and beans, and it's easy, cheap, and pretty healthy as far as grains go. My other go to carb side is a <a href="baked-sweet-potato">Baked Sweet Potatoes</a>, so check that out too
+Description: Ah rice and beans, the versatile side to nearly every meal. If you've noticed that most of my recipes are just protein+vegetable, this is why. I prefer to keep my carb separate, and that way I can decide if I want to have it or not for dinner. Most of the time when I have a carb on the side, I make some variation of rice and beans, and it's easy, cheap, and pretty healthy as far as grains go.  Brown rice is so much better for you than <a href="/misc/fake-healthy-foods#white-rice">white rice</a>, as brown rice contains the whole grain, being much less processed and a good source of fiber and micronutrients.  My other go to carb side is a <a href="baked-sweet-potato">Baked Sweet Potatoes</a>, so check that out too
 Instructions: 
 - Optionally, you can rinse the rice prior to cooking. This makes the rice drier and fluffier, instead of wet and clumpy (which I honestly prefer ngl, so I don't bother with this). Using a fine mesh strainer, rinse the rice under cold water until the water runs clear.<br><br>
 

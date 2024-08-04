@@ -37,7 +37,7 @@ tags:
 - chocolate chips
 - chopped chocolate
 - dark chocolate
-Description: This chocolate bar contains (checks notes) ... no chocolate, that can't be right? A normal bar of chocolate consists of half cocoa solids (cocoa powder) and half cocoa fat (cocoa butter). Homemade chocolate tends to swap the cocoa butter for coconut oil though, as the latter is cheaper and easier to come by. I've also swapped the cocoa powder for carob powder here, using its mild sweetness to sweeten the bar. The final product is a 4 oz (113 g) bar of sugar free chocolate that's much cheaper and tastes similar to an 85% dark chocolate
+Description: This <a href="/misc/fake-healthy-foods#chocolate">dark chocolate</a> contains (checks notes) ... no chocolate, that can't be right? A normal bar of chocolate consists of half cocoa solids (cocoa powder) and half cocoa fat (cocoa butter). Homemade chocolate tends to swap the cocoa butter for coconut oil though, as the latter is cheaper and easier to come by. I've also swapped the cocoa powder for carob powder here, using its mild sweetness to sweeten the bar. The final product is a 4 oz (113 g) bar of sugar free chocolate that's much cheaper and tastes similar to an 85% dark chocolate
 Instructions: 
 - Microwave the coconut oil in a medium bowl for about 1:30, until fully melted. Stir in carob until fully combined. Optionally, add a small pinch of salt and some liquid sweetener, such as sugar free syrup, honey, or maple syrup<br><br>
 

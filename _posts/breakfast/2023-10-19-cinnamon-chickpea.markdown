@@ -35,7 +35,7 @@ tags:
 - shake
 - maple
 - honey
-Description: This cereal is full of fiber and protein, and tastes just like the sweet cereals you loved growing up, without all the extra added sugars. Instead of serving with just plain milk, you can also mix up a little protein shake to use for even more of a boost.
+Description: This <a href="/misc/fake-healthy-foods#cereal">cereal</a> is full of fiber and protein, and tastes just like the sweet cereals you loved growing up, without all the extra added sugars. Instead of serving with just plain milk, you can also mix up a little protein shake to use for even more of a boost.
 Instructions: 
 - Preheat your air fryer to 400F, and drain and rinse a can of chickpeas. Lightly spray the basket with oil, add in the chickpeas, and lightly spray the tops<br><br>
 

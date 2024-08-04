@@ -44,7 +44,7 @@ tags:
 - pizza
 - pasta
 - vic
-Description: If you're after more of a traditional pesto but still want to cut back on a bit of oil, then this pesto recipe is for you. Yes, extra virgin olive oil is a very healthy fat you should be consuming, but too much excess can lead to problems.  I typically prefer some type of pesto as the sauce on my <a href="pizza">Home Oven Baked Pizza</a>  This recipe cuts down on a bit of the oil while still preserving all the taste of the classic.  Each serving is about 45g, or 3 tbsp
+Description: If you're after more of a traditional <a href="/misc/fake-healthy-foods#sauces">pesto</a> but still want to cut back on a bit of oil, then this pesto recipe is for you. Yes, extra virgin olive oil is a very healthy fat you should be consuming, but too much excess can lead to problems.  I typically prefer some type of pesto as the sauce on my <a href="pizza">Home Oven Baked Pizza</a>  This recipe cuts down on a bit of the oil while still preserving all the taste of the classic.  Each serving is about 45g, or 3 tbsp
 Instructions: 
 - Add the almonds to a pan over medium heat. Toast the nuts for 2-3 minutes or until lightly fragrant and softened<br><br>
 

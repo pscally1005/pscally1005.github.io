@@ -27,9 +27,11 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
+  - index.markdown
   - _pages/search.md
   - _pages/recipes.md
   - _pages/misc.md
+  - _pages/python.md
   - _pages/about.md
 
 # Set to `true` to show excerpts on the homepage.

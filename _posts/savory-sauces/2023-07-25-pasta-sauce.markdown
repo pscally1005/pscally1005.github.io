@@ -42,7 +42,7 @@ tags:
 - penne
 - spaghetti squash
 - linguini
-Description: Here's a very simple homemade pasta sauce, starting from a humble can of crushed tomatoes. This yields enough sauce to flavor a pound of pasta or a whole spaghetti squash, maybe with some added meat and vegetables. It couldn't be easier, just saute an onion, and dump in the tomatoes and any desired spices. From there, just simmer as long as you like. I also use this to top pizzas as well!  Check out my posts for <a href="spaghetti-squash">Spaghetti Squash Cooked 3 Ways</a> and <a href="pizza">Home Oven Baked Pizza</a>
+Description: Here's a very simple homemade pasta <a href="/misc/fake-healthy-foods#sauces">sauce</a>, starting from a humble can of crushed tomatoes. This yields enough sauce to flavor a pound of pasta or a whole spaghetti squash, maybe with some added meat and vegetables. It couldn't be easier, just saute an onion, and dump in the tomatoes and any desired spices. From there, just simmer as long as you like. I also use this to top pizzas as well!  Check out my posts for <a href="spaghetti-squash">Spaghetti Squash Cooked 3 Ways</a> and <a href="pizza">Home Oven Baked Pizza</a>
 Instructions: 
 - Cook onions, garlic, and oil on medium until the onion is soft and translucent<br><br>
 

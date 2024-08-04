@@ -47,9 +47,11 @@ tags:
 - brownie
 - nutella
 - vic
+- honey
+- maple syrup
 Description: I'll make this nutella-ish spread every so often, and store the leftovers in the freezer.  It's sweet without being loaded with added sugars, and goes great on toasted <a href="ww-bread">100% Whole Wheat Bread</a> or on oatmeal.  Each serving is about 2 tbsp or 40g
 Instructions: 
-- Mix all ingredients in a small container, and store the leftovers in the fridge<br><br>
+- Mix all ingredients in a small container, and store the leftovers in the fridge.  In place of liquid stevia or monk fruit, you can use 1/2 tbsp (10 g) honey or maple syrup<br><br>
 
 - Optionally, you can turn this spread into some chocolate protein bites. Mix in unflavored casein (1 scoop, 30 g) and oat flour (2 tbsp, 15 g), and shape into balls. Makes about 10-12<br><br>
 - <center><img src="/assets/Food/Sweet Spreads/Protein Choc/protein-choc-2.jpg" alt="" class="instruction-image"></center><br>

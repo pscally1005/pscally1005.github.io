@@ -45,13 +45,15 @@ tags:
 - banana bread
 - bread
 - cake
-Description: Unlike traditional banana bread or muffins, this recipe is healthy enough to be eaten for breakfast, as it's not loaded with added sugars or unhealthy fats. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted peanut butter (not included in the nutrition facts). Bonus points for being gluten free too!  Check out my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
+Description: Unlike traditional banana bread or <a href="/misc/fake-healthy-foods#muffins">muffins</a>, this recipe is healthy enough to be eaten for breakfast, as it's not loaded with added sugars or unhealthy fats. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted peanut butter (not included in the nutrition facts). Bonus points for being gluten free too!  Check out my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
 Instructions: 
 - Preheat your oven to 350F<br><br>
 
 - In a large bowl, mix together the dry ingredients - quick oats, oat flour, cornstarch, baking soda, and salt<br><br>
 
-- In a separate medium bowl, mash the banana. Add the rest of the wet ingredients - yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and maple syrup (or honey).  Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use sunflower seed butter<br><br>
+- In a separate medium bowl, mash the banana. Add the rest of the wet ingredients - yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and maple syrup (or honey)<br><br>
+
+- Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use pumpkin seed or sunflower seed butter.  Note that sunflower seed butter may turn the muffins green due to the reaction between the chlorophyll in the sunflower butter and the baking soda.  It's perfectly safe to eat and doesn't alter the taste, just a cosmetic change<br><br>
 
 - Pour the wet ingredients into the dry and mix just until smooth with a silicone spatula. Optionally fold in some chocolate chips<br><br>
 

@@ -41,7 +41,7 @@ tags:
 - macaroni and cheese
 - mac & cheese
 - macaroni & cheese
-Description: This is a healthier mac and cheese recipe that's free of both the mac and the cheese (no it's not an empty plate). Instead of traditional pasta, I've roasted a spaghetti squash, but zucchini noodles will also work. The star of the show is a dairy free cheese sauce made of cashews. It's creamy and delicious without all the lactose, and tastes like real cheese (I know because I still eat cheese lol). This is a great LCHF meal if you're looking to boost your healthy fat intake without increasing your caloric intake. The sauce recipe is a modified version of "Vegan Carrot Noodle Mac and Cheese" in the cook book Genius Kitchen with inspiration taken from other vegan nut based cheese sauces
+Description: This is a healthier mac and cheese recipe that's free of both the mac and the cheese (no it's not an empty plate). Instead of traditional pasta, I've roasted a spaghetti squash, but zucchini noodles will also work. The star of the show is a dairy free cheese <a href="/misc/fake-healthy-foods#sauces">sauce</a> made of cashews. It's creamy and delicious without all the lactose, and tastes like real cheese (I know because I still eat cheese lol). This is a great LCHF meal if you're looking to boost your healthy fat intake without increasing your caloric intake. The sauce recipe is a modified version of "Vegan Carrot Noodle Mac and Cheese" in the cook book Genius Kitchen with inspiration taken from other vegan nut based cheese sauces
 Instructions: 
 - Add the nuts to a large bowl and cover with water. For a nut free version, use sunflower seeds. Cover with a cloth, and let soak in the fridge for 8 hours. Discard the soaking liquid<br><br>
 

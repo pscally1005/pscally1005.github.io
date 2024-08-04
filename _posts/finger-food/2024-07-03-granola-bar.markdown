@@ -42,7 +42,7 @@ tags:
 - overripe mashed banana
 - unsweetened applesauce
 - cinnamon
-Description: Granola bars that are actually a good breakfast? Sign me up. These bars are sweetened with bananas and some liquid sweetener (I've gone with sugar free syrup, but either maple syrup or honey will work as well). They're double peanut in the form of chopped peanuts and natural peanut butter, providing plenty of healthy fats and a bit of protein. Finally, they have a base of rolled (or quick) oats, and are seasoned with cinnamon, vanilla, and salt. These delicious bars are super easy and can be packed for meals or snacks on the go.  If you prefer granola to granola bars, you should make my <a href="/recipes/granola">Low Sugar Granola</a>
+Description: <a href="/misc/fake-healthy-foods#granola">Granola bars</a> that are actually a good breakfast? Sign me up. These bars are sweetened with bananas and some liquid sweetener (I've gone with sugar free syrup, but either maple syrup or honey will work as well). They're double peanut in the form of chopped peanuts and natural peanut butter, providing plenty of healthy fats and a bit of protein. Finally, they have a base of rolled (or quick) oats, and are seasoned with cinnamon, vanilla, and salt. These delicious bars are super easy and can be packed for meals or snacks on the go.  If you prefer granola to granola bars, you should make my <a href="/recipes/granola">Low Sugar Granola</a>
 Instructions: 
 - Optional, but highly recommended - toast your oats and roughly chopped nuts in a dry pan over medium heat for about 5 minutes, or until lightly browned and fragrant. This step brings out even more flavor from the nuts and the oats<br><br>
 

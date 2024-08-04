@@ -48,11 +48,13 @@ tags:
 - bread
 - cake
 - mini muffin
-Description: Blueberry muffins are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars and oils. These ones however are much healthier than the classic though, packing fiber with oat flour, and avoiding tons of added sugars and unhealthy fats.  Check out my <a href="banana-bread">Oatmeal Banana Mini Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
+Description: Blueberry <a href="/misc/fake-healthy-foods#muffins">muffins</a> are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars and oils. These ones however are much healthier than the classic though, packing fiber with oat flour, and avoiding tons of added sugars and unhealthy fats.  Check out my <a href="banana-bread">Oatmeal Banana Mini Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
 Instructions: 
 - In a large bowl, whisk together the dry ingredients - quick oats, cornstarch, powdered peanut butter, and baking soda<br><br>
 
-- In a separate medium bowl, mash the banana. Add the rest of the wet ingredients - yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and maple syrup (or honey).  Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use sunflower seed butter<br><br>
+- In a separate medium bowl, mash the banana. Add the rest of the wet ingredients - yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and maple syrup (or honey)<br><br>
+
+- Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use pumpkin seed or sunflower seed butter.  Note that sunflower seed butter may turn the muffins green due to the reaction between the chlorophyll in the sunflower butter and the baking soda.  It's perfectly safe to eat and doesn't alter the taste, just a cosmetic change<br><br>
 
 - Pour the wet ingredients to the dry, and mix until just combined with a silicone spatula. Fold in the blueberries<br><br>
 

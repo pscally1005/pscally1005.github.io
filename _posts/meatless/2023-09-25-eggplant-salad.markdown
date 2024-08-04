@@ -35,7 +35,7 @@ tags:
 - feta
 - dressing
 - lemon juice
-Description: This simple salad combined grilled or baked eggplant, canned chickpeas, and feta to make a delicious salad for lunch or as a dinner side. This salad also doesn't have any lettuce if you're into that.
+Description: This simple salad combined grilled or baked eggplant, canned chickpeas, and feta to make a delicious salad for lunch or as a dinner side. This salad also doesn't have any lettuce if you're into that, and uses a homemade <a href="/misc/fake-healthy-foods#salad-dressing">salad dressing</a>
 Instructions: 
 - Wash the eggplant, then slice into 1/2" slices. Lightly salt both side, and let sit for 10 minutes on paper towels. Pat dry<br><br>
 

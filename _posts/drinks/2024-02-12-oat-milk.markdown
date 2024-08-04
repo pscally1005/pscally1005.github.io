@@ -34,7 +34,7 @@ tags:
 - unsweetened
 - vanilla
 - cinnamon
-Description: I've been using unsweetened vanilla almond milk for years, so I wanted to try making it myself, since store bought plant based milks tend to have a lot of extra weird ingredients. Unfortunately making almond milk is more expensive than just buying it, so that's where I got to oat milk. Oats are super cheap, so this is way cheaper than buying oat milk from the store. The process is the same though; I've tried this with quick oats, almonds, peanuts, and pistachios, all to great success
+Description: I've been using unsweetened vanilla almond <a href="/misc/fake-healthy-foods#milk">milk</a> for years, so I wanted to try making it myself, since store bought plant based milks tend to have a lot of extra weird ingredients. Unfortunately making almond milk is more expensive than just buying it, so that's where I got to oat milk. Oats are super cheap, so this is way cheaper than buying oat milk from the store. The process is the same though; I've tried this with quick oats, almonds, peanuts, and pistachios, all to great success
 Instructions: 
 - If you're making almond (or any nut) milk, you should soak the almonds overnight. Add raw almonds to a bowl, just cover with water, and let soak for at least 8 hours. Drain the excess water prior to blending. If you are making oat milk, there's no soaking required<br><br>
 - <center><img src="/assets/Food/Drinks/Oat Milk/oat-milk-1.jpg" alt="" class="instruction-image"></center><br>

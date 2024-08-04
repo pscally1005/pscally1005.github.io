@@ -41,7 +41,7 @@ tags:
 - pine nut
 - toasted nuts
 - grated cheese
-Description: This pesto is more of a spread than a sauce, and is my personal favorite for dipping raw vegetables or for spreading on a sandwich. I also love it as the main sauce on my pizza, which you can see in my <a href="pizza">Home Oven Baked Pizza</a>.  It's made creamy by swapping olive oil for cottage cheese, which is honestly way better than it sounds. I know you're probably scared of cottage cheese reading through many of these recipes, but honestly give it a shot, you'll be surprised. Each serving is about 40g.
+Description: This pesto is more of a spread than a sauce, and is my personal favorite for dipping raw vegetables or for spreading on a sandwich. I also love it as the main <a href="/misc/fake-healthy-foods#sauces">sauce</a> on my pizza, which you can see in my <a href="pizza">Home Oven Baked Pizza</a>.  It's made creamy by swapping olive oil for cottage cheese, which is honestly way better than it sounds. I know you're probably scared of cottage cheese reading through many of these recipes, but honestly give it a shot, you'll be surprised. Each serving is about 40g.
 Instructions: 
 - Toast the nuts over medium heat in a dry pan for 2-3 minutes.  Any nuts will work here - almonds, peanuts, pistachios, etc., or none if you have a nut allergy<br><br>
 

@@ -34,7 +34,7 @@ tags:
 - tomato
 - lunch
 - spicy
-Description: This simple baked rice and beans also mixed together vegetables and a spicy sauce. This makes a bunch of food, enough to last you for lunch through two whole work weeks.
+Description: This simple baked rice and beans also mixed together vegetables and a spicy sauce. Brown rice is used here instead of <a href="/misc/fake-healthy-foods#white-rice">white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks.
 Instructions: 
 - Preheat oven to 400F.  Cut your vegetables (peppers, carrots, and onions) into a medium dice<br><br>
 

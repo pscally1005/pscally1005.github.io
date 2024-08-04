@@ -37,7 +37,7 @@ tags:
 - maple syrup
 - homey
 - frozen berry
-Description: As you probably know by now, I love a good PBJ with a low sugar jam. This simple berry jam makes use of extra fresh blackberries or raspberries that you probably picked up at a farmers market. The pectin in the apples helps thicken it and make it slightly sweeter, and the little maple syrup really rounds out the flavors. Each serving is about 1 tbsp, or 19g.  For a chia seed version with strawberries, be sure to make my <a href="strawberry-chia-jam">Strawberry Chia Jam</a>, or pair it with <a href="natural-peanut-butter">Homemade Natural Nut Butter</a> for the classic PB&J combination
+Description: As you probably know by now, I love a good PBJ with a low sugar <a href="/misc/fake-healthy-foods#jelly">jam</a>. This simple berry jam makes use of extra fresh blackberries or raspberries that you probably picked up at a farmers market. The pectin in the apples helps thicken it and make it slightly sweeter, and the little maple syrup really rounds out the flavors. Each serving is about 1 tbsp, or 19g.  For a chia seed version with strawberries, be sure to make my <a href="strawberry-chia-jam">Strawberry Chia Jam</a>, or pair it with <a href="natural-peanut-butter">Homemade Natural Nut Butter</a> for the classic PB&J combination
 Instructions: 
 - To a 10” pan, add the berries and maple syrup. Mash with a potato masher<br><br>
 

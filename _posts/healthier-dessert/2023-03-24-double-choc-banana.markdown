@@ -42,13 +42,15 @@ tags:
 - bread
 - cake
 - mini muffin
-Description: Banana bread is a great dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel your best at sweets time. This dessert is minimally sweetened with honey, and fully brings out the flavor of the bananas and the cocoa for a delicious brownie flavored banana bread.  It's very similar to my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="banana-bread">Oatmeal Banana Mini Muffins</a>, which you should also check out
+Description: <a href="/misc/fake-healthy-foods#banana-bread">Banana bread</a> is a great dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel your best at sweets time. This dessert is minimally sweetened with honey, and fully brings out the flavor of the bananas and the cocoa for a delicious brownie flavored banana bread.  It's very similar to my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="banana-bread">Oatmeal Banana Mini Muffins</a>, which you should also check out
 Instructions: 
 - Preheat the oven to 350F, and line a bread pan with parchment paper. Spray the inside of the paper as well<br><br>
 
 - Whisk together dry ingredients (oat flour, cocoa powder, cornstarch, baking soda, and salt) in a bowl<br><br>
 
-- In a separate bowl, mash a banana. Add the rest of the wet ingredients (yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and honey) to the bowl and mix.  Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use sunflower seed butter<br><br>
+- In a separate bowl, mash a banana. Add the rest of the wet ingredients (yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and honey) to the bowl and mix<br><br>
+
+- Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use pumpkin seed or sunflower seed butter<br><br>
 
 - Pour the wet ingredients into the dry, and combine with a silicone spatula.  Fold in the chocolate chips<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg" alt="" class="instruction-image"></center><br>

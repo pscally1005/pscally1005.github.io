@@ -43,7 +43,7 @@ tags:
 - creamy
 - ceasar
 - mayo
-Description: This salad dressing still packs healthy fats while being vegan and oil free. It feels like a vegan Caesar dressing, using avocado and olives instead of mayo and anchovies. It's perfectly tangy and sweet from the balsamic, creamy from the avocado, and "cheesy" from the nutritional yeast. Each serving is about 2 tbsp, or 30 g.
+Description: This <a href="/misc/fake-healthy-foods#salad-dressing">salad dressing</a> still packs healthy fats while being vegan and oil free. It feels like a vegan Caesar dressing, using avocado and olives instead of mayo and anchovies. It's perfectly tangy and sweet from the balsamic, creamy from the avocado, and "cheesy" from the nutritional yeast. Each serving is about 2 tbsp, or 30 g.
 Instructions: 
 - Blend all ingredients in a small food processor until smooth. Adjust consistency by adding water if necessary, and add salt to taste if necessary (I thought it was good as is). Transfer to a container, and store in the fridge<br><br>
 - <center><img src="/assets/Food/Savory Sauces/Olivcado/olivcado-1.jpg" alt="" class="instruction-image"></center>

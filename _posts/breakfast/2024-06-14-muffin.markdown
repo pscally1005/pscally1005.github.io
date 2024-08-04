@@ -41,7 +41,7 @@ tags:
 - muffin
 - mini muffin
 - chocolate chips
-Description: These delicious banana muffins are free of any oils, added sugars, and artificial sweeteners. Just 4 simple ingredients - bananas, sweet potatoes, eggs, and nut butter. These are muffins that are actually a breakfast and not a dessert, and can have any mix-ins you like, such as chopped nuts, fruit, or even dark chocolate.  The nutrition facts below are assuming just the 4 base ingredients; no mix-ins
+Description: These delicious banana <a href="/misc/fake-healthy-foods#muffins">muffins</a> are free of any oils, added sugars, and artificial sweeteners. Just 4 simple ingredients - bananas, sweet potatoes, eggs, and nut butter. These are muffins that are actually a breakfast and not a dessert, and can have any mix-ins you like, such as chopped nuts, fruit, or even dark chocolate.  The nutrition facts below are assuming just the 4 base ingredients; no mix-ins
 Instructions: 
 - Preheat your oven to 375F and liberally spray a mini muffin tin with oil<br><br>
 

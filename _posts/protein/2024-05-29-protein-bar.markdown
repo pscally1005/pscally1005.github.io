@@ -45,7 +45,7 @@ tags:
 - syrup
 - gluten free
 - almond extract
-Description: To me, a protein bar must meet 3 basic requirements. It must have (1) at least 10g of protein per 100cal, with protein being the predominant macro nutrient. (2) It has to have no added sugar, and finally (3) it must be a solid at room temperature, so it can be taken on the go. These protein bars meet all 3, as they clock in at just 100 calories and have 14g of protein
+Description: To me, a <a href="/misc/fake-healthy-foods#protein">protein bar</a> must meet 3 basic requirements. It must have (1) at least 10g of protein per 100cal, with protein being the predominant macro nutrient. (2) It has to have no added sugar, and finally (3) it must be a solid at room temperature, so it can be taken on the go. These protein bars meet all 3, as they clock in at just 100 calories and have 14g of protein
 Instructions: 
 - In a large bowl, whisk together the dry ingredients - PB2, whey, casein, coconut flour, cinnamon, and salt<br><br>
 

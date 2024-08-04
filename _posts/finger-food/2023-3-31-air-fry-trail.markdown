@@ -33,7 +33,7 @@ tags:
 - roast
 - sweet
 - salty
-Description: Using your air fryer is a fun way to make a good trail mix, and this one uses roasted chickpeas, paprika spiced nuts, and banana chips. Simply roast all 3 and toss with your desired spices before combing together. It goes great on a salad or a bowl of yogurt, or even on its own!  For a standard fruit and nuts trail mix, see my Or you can make my <a href="trail-mix">Mixed Nuts and Chocolate Trail Mix</a>
+Description: Using your air fryer is a fun way to make a good <a href="/misc/fake-healthy-foods#trail-mix">trail mix</a>, and this one uses roasted chickpeas, paprika spiced nuts, and banana chips. Simply roast all 3 and toss with your desired spices before combing together. It goes great on a salad or a bowl of yogurt, or even on its own!  For a standard fruit and nuts trail mix, see my Or you can make my <a href="trail-mix">Mixed Nuts and Chocolate Trail Mix</a>
 Instructions: 
 - Preheat your air fryer to 400F, and drain and rinse the chickpeas. Lightly spray the bottom of the basket with oil, and add in the chickpeas. Add another light spray of oil on top.<br><br>
 

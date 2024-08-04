@@ -35,7 +35,7 @@ tags:
 - unsweetened
 - vanilla
 - bark
-Description: When recipes call for melted chocolate or chocolate chips, I typically make some variation of this recipe. Sure, you could just melt an unsweetened bar of chocolate with your desired sweetener, but this is just as much effort and cheaper too. Mix in some chopped nuts too if you want to spice it up!
+Description: When recipes call for <a href="/misc/fake-healthy-foods#chocolate">dark chocolate</a> or chocolate chips, I typically make some variation of this recipe. Sure, you could just melt an unsweetened bar of chocolate with your desired sweetener, but this is just as much effort and cheaper too. Mix in some chopped nuts too if you want to spice it up!
 Instructions: 
 - Prepare a bread pan or tupperware with parchment paper. Set aide<br><br>
 
