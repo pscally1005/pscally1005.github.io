@@ -128,7 +128,7 @@ def ingredients(food):
         return str("Dry Yeast")
     elif food == "Vital wheat gluten by The King Arthur Flour Company, Inc.":
         return str("Vital wheat gluten")
-    elif food == "Whole wheat flour by Target Stores" or food == "Whole wheat flour by FAREWAY" or food == "Whole wheat flour by LIDL":
+    elif food == "Whole wheat flour by Target Stores" or food == "Whole wheat flour by Raley's" or food == "Whole wheat flour by FAREWAY" or food == "Whole wheat flour by LIDL":
         return str("Whole wheat flour")
     elif food == "Oat flour by Bob's Red Mill Natural Foods, Inc." or food == "Organic oat flour by The Hain Celestial Group, Inc." or food == "Organic oat flour by Hodgson Mill Inc":
         return str("Oat flour")
