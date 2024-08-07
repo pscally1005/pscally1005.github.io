@@ -41,7 +41,7 @@ def ingredients(food):
         return str("Black pepper, ground")
     elif food == "Spices, ground, nutmeg" or food == "Ground nutmeg by Rose Spice, Inc.":
         return str("Nutmeg, ground")
-    elif food == "Spices, ground, cloves":
+    elif food == "Spices, ground, cloves" or food == "Cloves ground by Sugar 'N Spice, Inc.":
         return str("Cloves, ground")
     elif food == "Lemon pepper by LA CRIOLLA" or food == "Lemon pepper by La Criolla Inc." or food == "Lemon pepper by SHURFINE":
         return str("Lemon pepper")

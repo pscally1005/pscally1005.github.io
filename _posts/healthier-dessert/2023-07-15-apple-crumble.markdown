@@ -20,7 +20,7 @@ start5:
 section5: 
 Prep: 15
 Rest: 
-Cook: 45
+Cook: 60
 Source1: https://www.youtube.com/watch?v=Pc2HZMPWi-M&t=7s
 Source2: 
 whisk: https://s.samsungfood.com/ACVhg
@@ -34,18 +34,26 @@ tags:
 - nut
 - cinnamon
 - pie
+- cinnamon
+- nutmeg
+- ginger
+- cloves
+- honey
+- maple syrup
+- sugar free syrup
+- oats
+- oatmeal
+- quick oats
+- rolled oats
+- crumble
+- crisp
 Description: Let me guess, you went apple picking this fall, and now you have way too many apples, but are struggling to find something healthy to bake with them. Just me? Well this is awkward then... Or make some <a href="apple-spread">No Sugar Added Apple Spread</a>
 Instructions: 
-- Half, core, and thinly slice each apple (about 6 medium gala apples). Add to a large bowl<br><br>
+- Half, core, and thinly slice each apple. Add to a large bowl.  Add the rest of the apple mix ingredients (honey, cornstarch, lemon juice, cinnamon, nutmeg, ginger, allspice, salt, and cloves), and toss until fully coated.  Transfer to lightly greased 9x13” pan<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-apples.jpg" alt="" class="instruction-image"></center><br>
 
-- Add the rest of the apple mix ingredients (applesauce, cinnamon, cornstarch, nutmeg, cloves, and vanilla), and toss until fully coated<br><br>
+- Next, prepare the topping. Mix together the crisp topping ingredients (quick oats, maple syrup, coconut oil, cinnamon, ginger, nutmeg, cloves, and salt.  Evenly crumble the mixture on top of the apples<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-crisp.jpg" alt="" class="instruction-image"></center><br>
 
-- Transfer to 9x13” pan and bake for 20 minutes at 350F, covered<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-3.jpg" alt="" class="instruction-image"></center><br>
-
-- While baking, prepare the topping. Mix crisp topping ingredients (quick oats, oat flour, chopped nuts, cinnamon, maple syrup, and yogurt) together in the same bowl, now emptied. Use a fork to mix until fully combined<br><br>
-
-- After 20 minutes, remove the foil and mix the apples around. Add the crumb mixture on top evenly<br><br>
-
-- Bake at 350F (uncovered) for another 25 minutes, or until the top is golden brown. Broil the top for a few minutes to brown it more if desired. Let cool at least 15 minutes before slicing
+- Bake at 350F (covered) for about 60 minutes, or until the top is golden brown and the apples are syrupy and tender, but not mushy. Broil the top for a few minutes to brown it more if desired. Let cool at least 15 minutes before slicing
 ---
