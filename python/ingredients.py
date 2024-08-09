@@ -230,6 +230,8 @@ def ingredients(food):
         return str("Skim milk")
 
     # Fresh produce
+    elif food == "Corn, raw, yellow, sweet":
+        return str("Corn on the cob")
     elif food == "Cabbage, raw" or food == "Cabbage, raw, green":
         return str("Cabbage")
     elif food == "Sweet potato, without skin, boiled, cooked":

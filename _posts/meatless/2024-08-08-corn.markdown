@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Roasted Corn on the Cob"
+date:   2024-08-08 00:00:00 -05000
+categories: 
+- Recipes
+- Meatless
+permalink: /recipes/corn-on-the-cob
+image: /assets/Food/Meatless/Corn/corn-cooked.jpg
+ing: corn-ing
+facts: corn-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 10
+Rest: 
+Cook: 30
+Source1: https://www.southernliving.com/recipes/oven-roasted-corn-on-cob
+Source2: 
+whisk: https://s.samsungfood.com/4QW2p
+tags: 
+- corn
+- corn on the cob
+- ear
+- bbq
+- barbeque
+- grill
+- summer
+- oven
+- air fryer
+Description: Corn on the cob makes me think of grilling and summer barbeques, but did you know that you can enjoy corn all year round? Just wrap it and foil and roast it in the oven. It's a great easy carb side to any meal
+Instructions: 
+- Preheat your oven to 425F, and line a large cookie sheet with aluminum foil<br><br>
+
+- Tear the leaves off the corn, and rinse off the "hairy" parts. Spray the corn with oil, and sprinkle with lemon pepper (or salt)<br><br>
+- <center><img src="/assets/Food/Meatless/Corn/corn-raw.jpg" alt="" class="instruction-image"></center><br>
+
+- Wrap each corn in aluminum foil. Roast for 30 minutes (flipping halfway) in a preheated 425F oven (or air fryer). Allow to cool for a few minutes before eating<br><br>
+- <center><img src="/assets/Food/Meatless/Corn/corn-wrapped.jpg" alt="" class="instruction-image"></center><br>
+
+- Keep any leftover corn wrapped in foil, and store in an airtight bag in the fridge. To reheat, roast in a preheated 400F oven (or air fryer) for 15-20 minutes, or until hot
+---
