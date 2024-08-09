@@ -64,12 +64,14 @@ tags:
 
 &emsp;The following tables list foods by their content of iron per serving, per 100 g, and per 100 calories, sorted alphabetically.  Each food is raw, unless otherwise specified.
 
+<font size="-1">
+
 <center><img src="/assets/Misc/Iron/cart.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Meat (raw)</font></i><br>
 <table>
     <colgroup>
         <col width="30%" />
-        <col width="30" />
+        <col width="30%" />
         <col width="13.33%" />
         <col width="13.33%" />
         <col width="13.33%" />
@@ -78,9 +80,9 @@ tags:
         <tr class="header">
         <th>Food</th>
         <th>Serving Size</th>
-        <th>Serving</th>
-        <th>100 g</th>
-        <th>100 cal</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
         </tr>
     </thead>
     <tbody>
@@ -127,7 +129,7 @@ tags:
 <table>
     <colgroup>
         <col width="30%" />
-        <col width="30" />
+        <col width="30%" />
         <col width="13.33%" />
         <col width="13.33%" />
         <col width="13.33%" />
@@ -136,9 +138,9 @@ tags:
         <tr class="header">
         <th>Food</th>
         <th>Serving Size</th>
-        <th>Serving</th>
-        <th>100 g</th>
-        <th>100 cal</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
         </tr>
     </thead>
     <tbody>
@@ -227,7 +229,7 @@ tags:
 <table>
     <colgroup>
         <col width="30%" />
-        <col width="30" />
+        <col width="30%" />
         <col width="13.33%" />
         <col width="13.33%" />
         <col width="13.33%" />
@@ -236,9 +238,9 @@ tags:
         <tr class="header">
         <th>Food</th>
         <th>Serving Size</th>
-        <th>Serving</th>
-        <th>100 g</th>
-        <th>100 cal</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
         </tr>
     </thead>
     <tbody>
@@ -313,7 +315,7 @@ tags:
 <table>
     <colgroup>
         <col width="30%" />
-        <col width="30" />
+        <col width="30%" />
         <col width="13.33%" />
         <col width="13.33%" />
         <col width="13.33%" />
@@ -322,9 +324,9 @@ tags:
         <tr class="header">
         <th>Food</th>
         <th>Serving Size</th>
-        <th>Serving</th>
-        <th>100 g</th>
-        <th>100 cal</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
         </tr>
     </thead>
     <tbody>
@@ -378,7 +380,7 @@ tags:
 <table>
     <colgroup>
         <col width="30%" />
-        <col width="30" />
+        <col width="30%" />
         <col width="13.33%" />
         <col width="13.33%" />
         <col width="13.33%" />
@@ -387,9 +389,9 @@ tags:
         <tr class="header">
         <th>Food</th>
         <th>Serving Size</th>
-        <th>Serving</th>
-        <th>100 g</th>
-        <th>100 cal</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
         </tr>
     </thead>
     <tbody>
@@ -436,7 +438,7 @@ tags:
 <table>
     <colgroup>
         <col width="30%" />
-        <col width="30" />
+        <col width="30%" />
         <col width="13.33%" />
         <col width="13.33%" />
         <col width="13.33%" />
@@ -445,9 +447,9 @@ tags:
         <tr class="header">
         <th>Food</th>
         <th>Serving Size</th>
-        <th>Serving</th>
-        <th>100 g</th>
-        <th>100 cal</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
         </tr>
     </thead>
     <tbody>
@@ -557,7 +559,7 @@ tags:
 <table>
     <colgroup>
         <col width="30%" />
-        <col width="30" />
+        <col width="30%" />
         <col width="13.33%" />
         <col width="13.33%" />
         <col width="13.33%" />
@@ -566,9 +568,9 @@ tags:
         <tr class="header">
         <th>Food</th>
         <th>Serving Size</th>
-        <th>Serving</th>
-        <th>100 g</th>
-        <th>100 cal</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
         </tr>
     </thead>
     <tbody>
@@ -615,7 +617,7 @@ tags:
 <table>
     <colgroup>
         <col width="30%" />
-        <col width="30" />
+        <col width="30%" />
         <col width="13.33%" />
         <col width="13.33%" />
         <col width="13.33%" />
@@ -624,9 +626,9 @@ tags:
         <tr class="header">
         <th>Food</th>
         <th>Serving Size</th>
-        <th>Serving</th>
-        <th>100 g</th>
-        <th>100 cal</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
         </tr>
     </thead>
     <tbody>
@@ -646,6 +648,8 @@ tags:
         </tr>
     </tbody>
 </table>
+
+</font>
 
 <center><img src="/assets/Misc/Iron/cacao.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Best Sources of Iron (Animals)</font></u>
