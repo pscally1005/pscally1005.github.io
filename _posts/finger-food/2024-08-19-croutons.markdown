@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "White Bean Croutons"
+date:   2024-08-19 00:00:00 -0500
+categories:
+- Recipes
+- Finger Foods
+permalink: /recipes/white-bean-croutons
+image: /assets/Food/Finger Food/Croutons/croutons-cover.jpg
+ing: croutons-ing
+facts: croutons-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 15
+Source1: https://youtube.com/shorts/UjxBYipPS4w?si=ABst757Y1GXm5rrA
+Source2: 
+whisk: https://s.samsungfood.com/zeYgI
+tags: 
+- beans
+- white beans
+- cannellini beans
+- caesar salad
+- caesar dressing
+- lettuce
+- salad
+- chickpeas
+Description: These super simple croutons are made using cannellini beans (or any other beans you have).  Depending on your soy sauce, they can be a great gluten free alternative, as well as being healthier than traditional croutons.  Just air fry or roast the beans until crispy, as use them to top a salad.  They go great with my <a href="/recipes/greek-yogurt-caesar-dressing">Greek Yogurt Caesar Dressing</a>
+Instructions: 
+- Drain and rinse your beans, and add to a medium bowl. Add in the rest of the ingredients (soy sauce, garlic powder, oregano, and paprika), and toss to combine<br><br>
+- <center><img src="/assets/Food/Finger Food/Croutons/croutons-raw.jpg" alt="" class="instruction-image"></center><br>
+
+- Air fry at 400F for 15-20 minutes, mixing halfway. You can also bake in a 400F oven instead for 30-45 minutes.  The whole batch (cooked) weighs about 100 g, so each serving is about 33 g<br><br>
+
+- The cover photo for this recipe is a Caesar salad I made by tossing together half a large head of Romaine lettuce, 1 serving of my <a href="/recipes/greek-yogurt-caesar-dressing">Greek Yogurt Caesar Dressing</a>, 1 serving (33 g) of these croutons, and 1/2 oz (15 g) crumbled feta cheese
+---

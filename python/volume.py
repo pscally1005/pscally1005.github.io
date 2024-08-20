@@ -105,6 +105,8 @@ def fix(vol):
         return str("14 oz")
     
     # cans
+    elif vol == "1 can (2 oz) drained":
+        return str("2 oz, drained")
     elif vol == "1 can, drained (4.4 oz)":
         return str("4.4 oz")
     elif vol == "14.5 ounce":

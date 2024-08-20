@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Greek Yogurt Caesar Dressing"
+date:   2024-08-19 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/greek-yogurt-caesar-dressing
+image: /assets/Food/Savory Sauces/Caesar/caesar-cover.jpg
+ing: caesar-ing
+facts: caesar-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: https://nourishedbynic.com/creamy-greek-yogurt-caesar-dressing/#recipe
+Source2: https://www.foodnetwork.com/recipes/food-network-kitchen/greek-yogurt-caesar-dressing-3362215
+whisk: https://s.samsungfood.com/Phkm5
+tags: 
+- caesar salad
+- casear dressing
+- salad
+- lettuce
+- anchovies
+- yogurt
+- plain nonfat greek yogurt
+- greek yogurt
+- plain yogurt
+- croutons
+Description: 1 serving of a standard bottle of <a href="https://www.walmart.com/ip/Great-Value-Creamy-Caesar-Salad-Dressing-Dip-16-fl-oz/10452406?classType=REGULAR&athbdg=L1200&from=/search">Caesar dressing</a> contains 120 calories, 12 g of fat, no protein, mayo made from soybean oil, and a paragraph of ingredients. This healthy version on the other hand has less than half the calories, a third of the fat, and quadruple the protein. Plus, it only contains simple ingredients, and is made in just 5 minutes.  No raw eggs either! Each serving is about 2 tbsp, or 30 g
+Instructions: 
+- Using a small fine mesh strainer, thoroughly drain and rinse your anchovies<br><br>
+- <center><img src="/assets/Food/Savory Sauces/Caesar/caesar-anchovies.jpg" alt="" class="instruction-image"></center><br><br>
+
+- Add the anchovies to a small food processor along with the rest of the ingredients. Blend until smooth. Store in the fridge<br><br>
+
+- The cover photo for this recipe is a Caesar salad I made by tossing together half a large head of Romaine lettuce, 1 serving (2 tbsp, 30 g) of this dressing, 1 serving of my <a href="/recipes/white-bean-croutons">White Bean Croutons</a>, and 1/2 oz (15 g) crumbled feta cheese
+---
