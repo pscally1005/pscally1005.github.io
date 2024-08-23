@@ -266,8 +266,8 @@ def ingredients(food):
         return str("Romaine lettuce")
     elif food == "Squash, raw, acorn, winter":
         return str("Acorn squash")    
-    elif food == "Mushrooms, raw, white":
-        return str("White Mushrooms")
+    elif food == "Mushrooms, raw, white" or food == "White Mushrooms":
+        return str("White mushrooms")
     elif food == "Fruit peels apple banana by Target Stores":
         return str("Banana peel")
     elif food == "Ginger root, raw" or food == "Minced ginger by McCormick & Company, Inc.":
@@ -338,8 +338,8 @@ def ingredients(food):
         return str("Diced tomatoes")
     elif food == "Tomatoes, canned, crushed" or food == "Canned crushed tomatoes":
         return str("Crushed tomatoes")
-    elif food == "Tomato paste by FIESTA" or food == "Tomato paste by REDPACK" or food == "Tomato products, paste, canned" or food == "Canned tomato paste" or food == "Tomato paste, canned" or food == "Tomato paste by TAT":
-        return str("Tomato paste")
+    elif food == "Tomato paste" or food == "Tomato paste by FIESTA" or food == "Tomato paste by REDPACK" or food == "Tomato products, paste, canned" or food == "Canned tomato paste" or food == "Tomato paste, canned" or food == "Tomato paste by TAT":
+        return str("Tomato paste, canned")
     elif food == "Grape leaves, raw":
         return str("Grape leaves")
     elif food == "Minced clams in juice by Bumble Bee Foods, LLC" or food == "Canned clams":
@@ -382,7 +382,7 @@ def ingredients(food):
         return str("Raisins")
     elif food == str("85% dark chocolate by Sinless Raw Food Inc"):
         return str("85% chocolate")
-    elif food == "Chopped Walnuts, Great Value" or food == "Walnut chopped pieces" or food == "Chopped walnuts by DIAMOND":
+    elif food == "Chopped Walnuts, Great Value" or food == "Walnut chopped pieces" or food == "Chopped walnuts by DIAMOND" or food == "Nuts, english, walnuts":
         return str("Walnuts")
     elif food == "Walnut butter by Lyle Style":
         return str("Walnut butter")
