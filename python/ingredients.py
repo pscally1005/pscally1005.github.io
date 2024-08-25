@@ -362,6 +362,8 @@ def ingredients(food):
         return str("Kalamata olives")
     elif food == "Anchovy, canned":
         return str("Anchovies, canned")
+    elif food == "Yeast extract by MARMITE":
+        return str("Marmite")
     
     # Nuts, chocolate, dried fruit
     elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium" or food == "Nuts, without salt added, plain, almond butter":

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "High Protein Veggie Ground"
-date:   2024-08-21 00:00:00 -05000
+date:   2024-08-24 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
 permalink: /recipes/veggie-ground
-image: /assets/Food/Meatless/Veggie Groung/veggie-ground-cover.jpg
+image: /assets/Food/Meatless/Veggie Ground/vg-pot.jpg
 ing: veggieground-ing
 facts: veggieground-facts
 section1: Veggies
@@ -16,8 +16,8 @@ start3: Minced garlic
 section3: Spices
 start4: Whey protein powder, unflavored 
 section4: Protein
-start5: Salt
-section5: To taste
+start5: 
+section5: 
 Prep: 10
 Rest: 120
 Cook: 20
@@ -62,15 +62,15 @@ Instructions:
 - In a medium bowl, add the walnuts, and cover with water. Let soak for at least 2 hours<br><br>
 
 - Coarsely chop all vegetables (cauliflower, carrots, onion, and mushrooms) in a food processor. Do this in batches, and don't over blend. Add to a large pot or Dutch oven<br><br>
-- <center><img src="/assets/Food/Meatless/Veggie Ground/veggie-ground-veggies.jpg" alt="" class="instruction-image"></center><br>
+- <center><img src="/assets/Food/Meatless/Veggie Ground/vg-raw.jpg" alt="" class="instruction-image"></center><br>
 
 - Cook the veggies on medium heat with occasional stirring until water releases begins to release, about 5 minutes<br><br>
 
 - Meanwhile, coarsely chop the walnuts (discard the soaking water) with the tomato paste until well combined. Don't over blend<br><br>
-- <center><img src="/assets/Food/Meatless/Veggie Ground/veggie-ground-nuts.jpg" alt="" class="instruction-image"></center><br>
+- <center><img src="/assets/Food/Meatless/Veggie Ground/vg-nuts.jpg" alt="" class="instruction-image"></center><br>
 
-- Increase heat to high. Continue to mix until most of the water has cooked out. Add in your garlic, soy sauce, mustard, and dried spices. Continue to cook on high for another 10 minutes, or until all the water has cooked out<br><br>
+- Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your garlic, soy sauce, mustard, marmite, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out<br><br>
 
 - Turn off heat and add walnut and tomato paste mixture. Mix thoroughly to combine. Mix in your protein powder, season with salt to taste, and enjoy<br><br>
-- <center><img src="/assets/Food/Meatless/Veggie Ground/veggie-ground-finished.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Meatless/Veggie Ground/vg-container.jpg" alt="" class="instruction-image"></center>
 ---
