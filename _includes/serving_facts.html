@@ -1,0 +1,6 @@
+{% assign vol = include.vol %}
+{% assign gram = include.gram %}
+{% assign nutritionFacts = include.nutritionFacts %}
+
+<br><b>Serving Size</b>: {{ vol }} <i>({{ gram }} g)</i><br>
+{% include nutrition_serving.html facts=nutritionFacts %}<br>

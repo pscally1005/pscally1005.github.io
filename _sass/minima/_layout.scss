@@ -386,3 +386,14 @@
   width: 10%;
   object-fit: cover;
 }
+
+.image-text-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.image-text-container img {
+  margin-right: 15px;
+  max-width: 300px;
+  height: auto;
+}
