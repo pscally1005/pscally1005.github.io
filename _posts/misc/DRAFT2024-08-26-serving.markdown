@@ -1,0 +1,487 @@
+---
+layout: post
+title:  "What is a Serving Size?"
+date:   2024-08-26 00:00:00 -05000
+categories: 
+- Misc.
+permalink: /misc/serving-sizes
+image: /assets/Misc/Servings/cover.jpg
+tags: 
+- serving
+- serving size
+- food
+- tablespoon
+- cup
+- ounce
+---
+<u><font size="+2">Introduction</font></u><br>
+&emsp;What is a serving size?  Whenever you read an ingredients label, you get the calories, protein, fat, etc. of a food product per serving.  But what does 1 serving typically look like?  Sure, 1 serving might only be 100 calories and 5 g of added sugar, but if you typically have 5 servings, then you may be severly underestimating your food intake.
+
+&emsp;Below, I will be going through what 1 serving of many different food and food products looks like, as well as their respective nutrition facts per serving.  I will also be using a standard Sharpie marker as a reference in the photos in order to get a sense of scale.  The foods below are sorted in alphabetical order.  I guess this should also give you a good idea of what foods I have in my kitchen.
+
+<br><u><font size="+2">Foods</font></u><br>
+* <a rel="" target="" href="#almonds">Almonds</a><br>
+* <a rel="" target="" href="#almond-flour">Almond Flour</a><br>
+* <a rel="" target="" href="#almond-milk">Almond Milk (Unsweetened)</a><br>
+* <a rel="" target="" href="#apple">Apple</a><br>
+* <a rel="" target="" href="#applesauce">Applesauce (Unsweetened)</a><br>
+* <a rel="" target="" href="#avocado">Avocado</a><br>
+* <a rel="" target="" href="#baby-carrots">Baby Carrots</a><br>
+* <a rel="" target="" href="#balsamic-vinegar">Balsamic Vinegar</a><br>
+* <a rel="" target="" href="#banana">Banana</a><br>
+* <a rel="" target="" href="#bbq-sauce">Barbeque Sauce</a><br>
+* <a rel="" target="" href="#beans-canned">Beans (Canned, Pinto)</a><br>
+* <a rel="" target="" href="#beans-dried">Beans (Dried, Pinto)</a><br>
+* <a rel="" target="" href="#beets">Beets</a><br>
+* <a rel="" target="" href="#bell-pepper">Bell Pepper</a><br>
+* <a rel="" target="" href="#chicken-breast">Boneless Skinless Chicken Breast (Raw)</a><br>
+* <a rel="" target="" href="#chicken-thigh">Boneless Skinless Chicken Thigh (Raw)</a><br>
+* <a rel="" target="" href="#breadcrumbs">Breadcrumbs</a><br>
+* <a rel="" target="" href="#broccoli">Broccoli (Frozen)</a><br>
+* <a rel="" target="" href="#brown-rice-cooked">Brown Rice (Cooked)</a><br>
+* <a rel="" target="" href="#brown-rice-raw">Brown Rice (Raw)</a><br>
+* <a rel="" target="" href="#butter">Butter (Unsalted)</a><br>
+* <a rel="" target="" href="#caesar-dressing">Caesar Dressing</a><br>
+* <a rel="" target="" href="#casein">Casein Protein Powder</a><br>
+* <a rel="" target="" href="#cashews">Cashews</a><br>
+* <a rel="" target="" href="#cauliflower">Cauliflower (Frozen)</a><br>
+* <a rel="" target="" href="#chia-seeds">Chia Seeds</a><br>
+* <a rel="" target="" href="#chocolate-chips">Chocolate Chips</a><br>
+* <a rel="" target="" href="#cocoa-powder">Cocoa Powder</a><br>
+* <a rel="" target="" href="#coconut-flakes">Coconut Flakes (Unsweetened)</a><br>
+* <a rel="" target="" href="#coconut-flour">Coconut Flour</a><br>
+* <a rel="" target="" href="#cottage-cheese">Cottage Cheese (Nonfat)</a><br>
+* <a rel="" target="" href="#corn">Corn (Frozen)</a><br>
+* <a rel="" target="" href="#cornmeal">Cornmeal</a><br>
+* <a rel="" target="" href="#corn-starch">Corn Starch</a><br>
+* <a rel="" target="" href="#dates">Dates (Pitted)</a><br>
+* <a rel="" target="" href="#egg">Egg</a><br>
+* <a rel="" target="" href="#eggplant">Eggplant</a><br>
+* <a rel="" target="" href="#egg-whites">Egg Whites</a><br>
+* <a rel="" target="" href="#feta">Feta Cheese</a><br>
+* <a rel="" target="" href="#grated-cheese">Grated Cheese (Parmesean)</a><br>
+* <a rel="" target="" href="#gochujang">Gochujang</a><br>
+* <a rel="" target="" href="#ground-beef">Ground Beef (93/7, Raw)</a><br>
+* <a rel="" target="" href="#ground-chicken-breast">Ground Chicken Breast (Raw)</a><br>
+* <a rel="" target="" href="#ground-chicken-thighs">Ground Chicken Thighs (Raw)</a><br>
+* <a rel="" target="" href="#ground-flaxseed">Ground Flaxseed</a><br>
+* <a rel="" target="" href="#ground-turkey">Ground Turkey (93/7, Raw)</a><br>
+* <a rel="" target="" href="#honey">Honey</a><br>
+* <a rel="" target="" href="#italian-dressing">Italian Dressing (Fat Free)</a><br>
+* <a rel="" target="" href="#hot-sauce">Hot Sauce</a><br>
+* <a rel="" target="" href="#jelly">Jelly</a><br>
+* <a rel="" target="" href="#maple-syrup">Maple Syrup</a><br>
+* <a rel="" target="" href="#marmite">Marmite</a><br>
+* <a rel="" target="" href="#mustard">Mustard</a><br>
+* <a rel="" target="" href="#nutritional-yeast">Nutritional Yeast</a><br>
+* <a rel="" target="" href="#oat-flour">Oat Flour</a><br>
+* <a rel="" target="" href="#olives">Olives</a><br>
+* <a rel="" target="" href="#oil">Oil</a><br>
+* <a rel="" target="" href="#peanuts">Peanuts</a><br>
+* <a rel="" target="" href="#peanut-butter">Peanut Butter</a><br>
+* <a rel="" target="" href="#pesto">Pesto</a><br>
+* <a rel="" target="" href="#pickles">Pickles</a><br>
+* <a rel="" target="" href="#pistachios">Pistachios</a><br>
+* <a rel="" target="" href="#pumpkin-puree">Pumpkin Puree</a><br>
+* <a rel="" target="" href="#quick-oats">Quick Oats</a><br>
+* <a rel="" target="" href="#raisins">Raisins</a><br>
+* <a rel="" target="" href="#red-lentils-cooked">Red Lentils (Cooked)</a><br>
+* <a rel="" target="" href="#red-lentils-raw">Red Lentils (Raw)</a><br>
+* <a rel="" target="" href="#romaine-lettuce">Romaine Lettuce</a><br>
+* <a rel="" target="" href="#salmon">Salmon (Raw)</a><br>
+* <a rel="" target="" href="#salsa">Salsa</a><br>
+* <a rel="" target="" href="#shredded-cheese-mozarella">Shredded Cheese (Low Moisture Part Skim Mozzarella)</a><br>
+* <a rel="" target="" href="#shredded-cheese-mexican">Shredded Cheese (Mexican Mix)</a><br>
+* <a rel="" target="" href="#skim-milk">Skim Milk</a><br>
+* <a rel="" target="" href="#soy-sauce">Soy Sauce (Low Sodium)</a><br>
+* <a rel="" target="" href="#spinach-fresh">Spinach (Fresh)</a><br>
+* <a rel="" target="" href="#spinach-frozen">Spinach (Frozen)</a><br>
+* <a rel="" target="" href="#strawberries">Strawberries (Frozen)</a><br>
+* <a rel="" target="" href="#sugar">Sugar</a><br>
+* <a rel="" target="" href="#sunflower-seeds">Sunflower Seeds</a><br>
+* <a rel="" target="" href="#sweet-potato">Sweet Potato</a><br>
+* <a rel="" target="" href="#sweet-potato-puree">Sweet Potato Puree</a><br>
+* <a rel="" target="" href="#tilapia">Tilpaia</a><br>
+* <a rel="" target="" href="#tomato-sauce">Tomato Sauce (Canned, Unsweetened)</a><br>
+* <a rel="" target="" href="#tortilla-chips">Tortilla Chips</a><br>
+* <a rel="" target="" href="#vital-wheat-gluten">Vital Wheat Gluten</a><br>
+* <a rel="" target="" href="#walnuts">Walnuts</a><br>
+* <a rel="" target="" href="#whey">Whey Protein Powder</a><br>
+* <a rel="" target="" href="#mushrooms">White Mushrooms</a><br>
+* <a rel="" target="" href="#whole-wheat-flour">Whole Wheat Flour</a><br>
+* <a rel="" target="" href="#whole-wheat-pasta">Whole Wheat Pasta</a><br>
+* <a rel="" target="" href="#yellow-squash">Yellow Squash</a><br>
+* <a rel="" target="" href="#yogurt">Yogurt (Plain, Nonfat, Greek)</a><br>
+* <a rel="" target="" href="#zucchini">Zucchini</a><br>
+
+<div id="almonds"></div>
+<br><i><font size="+2">Almonds</font></i><br>
+&emsp;test
+
+<div id="almond-flour"></div>
+<br><i><font size="+2">Almond Flour</font></i><br>
+&emsp;test
+
+<div id="almond-milk"></div>
+<br><i><font size="+2">Almond Milk (Unsweetened)</font></i><br>
+&emsp;test
+
+<div id="apple"></div>
+<br><i><font size="+2">Apple</font></i><br>
+&emsp;test
+
+<div id="applesauce"></div>
+<br><i><font size="+2">Applesauce (Unsweetened)</font></i><br>
+&emsp;test
+
+<div id="avocado"></div>
+<br><i><font size="+2">Avocado</font></i><br>
+&emsp;test
+
+<div id="baby-carrots"></div>
+<br><i><font size="+2">Baby Carrots</font></i><br>
+&emsp;test
+
+<div id="balsamic-vinegar"></div>
+<br><i><font size="+2">Balsamic Vinegar</font></i><br>
+&emsp;test
+
+<div id="banana"></div>
+<br><i><font size="+2">Banana</font></i><br>
+&emsp;test
+
+<div id="bbq-sauce"></div>
+<br><i><font size="+2">Barbeque Sauce</font></i><br>
+&emsp;test
+
+<div id="beans-canned"></div>
+<br><i><font size="+2">Beans (Canned)</font></i><br>
+&emsp;test
+
+<div id="beans-dried"></div>
+<br><i><font size="+2">Beans (Dried)</font></i><br>
+&emsp;test
+
+<div id="beets"></div>
+<br><i><font size="+2">Beets</font></i><br>
+&emsp;test
+
+<div id="bell-pepper"></div>
+<br><i><font size="+2">Bell Pepper</font></i><br>
+&emsp;test
+
+<div id="chicken-breast"></div>
+<br><i><font size="+2">Boneless Skinless Chicken Breast (Raw)</font></i><br>
+&emsp;test
+
+<div id="chicken-thigh"></div>
+<br><i><font size="+2">Boneless Skinless Chicken Thigh (Raw)</font></i><br>
+&emsp;test
+
+<div id="breadcrumbs"></div>
+<br><i><font size="+2">Breadcrumbs</font></i><br>
+&emsp;test
+
+<div id="broccoli"></div>
+<br><i><font size="+2">Broccoli (Frozen)</font></i><br>
+&emsp;test
+
+<div id="brown-rice-cooked"></div>
+<br><i><font size="+2">Brown Rice (Cooked)</font></i><br>
+&emsp;test
+
+<div id="brown-rice-raw"></div>
+<br><i><font size="+2">Brown Rice (Raw)</font></i><br>
+&emsp;test
+
+<div id="butter"></div>
+<br><i><font size="+2">Butter (Unsalted)</font></i><br>
+&emsp;test
+
+<div id="caesar-dressing"></div>
+<br><i><font size="+2">Caesar Dressing</font></i><br>
+&emsp;test
+
+<div id="casein"></div>
+<br><i><font size="+2">Casein Protein Powder</font></i><br>
+&emsp;test
+
+<div id="cashews"></div>
+<br><i><font size="+2">Cashews</font></i><br>
+&emsp;test
+
+<div id="cauliflower"></div>
+<br><i><font size="+2">Cauliflower (Frozen)</font></i><br>
+&emsp;test
+
+<div id="chia-seeds"></div>
+<br><i><font size="+2">Chia Seeds</font></i><br>
+&emsp;test
+
+<div id="chocolate-chips"></div>
+<br><i><font size="+2">Chocolate Chips</font></i><br>
+&emsp;test
+
+<div id="cocoa-powder"></div>
+<br><i><font size="+2">Cocoa Powder</font></i><br>
+&emsp;test
+
+<div id="coconut-flakes"></div>
+<br><i><font size="+2">Coconut Flakes</font></i><br>
+&emsp;test
+
+<div id="coconut-flour"></div>
+<br><i><font size="+2">Coconut Flour</font></i><br>
+&emsp;test
+
+<div id="cottage-cheese"></div>
+<br><i><font size="+2">Cottage Cheese (Nonfat)</font></i><br>
+&emsp;test
+
+<div id="corn"></div>
+<br><i><font size="+2">Corn (Frozen)</font></i><br>
+&emsp;test
+
+<div id="cornmeal"></div>
+<br><i><font size="+2">Cornmeal</font></i><br>
+&emsp;test
+
+<div id="corn-starch"></div>
+<br><i><font size="+2">Corn Starch</font></i><br>
+&emsp;test
+
+<div id="dates"></div>
+<br><i><font size="+2">Dates (Pitted)</font></i><br>
+&emsp;test
+
+<div id="eggs"></div>
+<br><i><font size="+2">Eggs</font></i><br>
+&emsp;test
+
+<div id="eggplant"></div>
+<br><i><font size="+2">Eggplant</font></i><br>
+&emsp;test
+
+<div id="egg-whites"></div>
+<br><i><font size="+2">Egg Whites</font></i><br>
+&emsp;test
+
+<div id="feta"></div>
+<br><i><font size="+2">Feta Cheese</font></i><br>
+&emsp;test
+
+<div id="grated-cheese"></div>
+<br><i><font size="+2">Grated Cheese (Parmesean)</font></i><br>
+&emsp;test
+
+<div id="gochujang"></div>
+<br><i><font size="+2">Gochujang</font></i><br>
+&emsp;test
+
+<div id="ground-beef"></div>
+<br><i><font size="+2">Ground Beef (93/7, Raw)</font></i><br>
+&emsp;test
+
+<div id="ground-chicken-breast"></div>
+<br><i><font size="+2">Ground Chicken Breast (Raw)</font></i><br>
+&emsp;test
+
+<div id="ground-chicken-thighs"></div>
+<br><i><font size="+2">Ground Chicken Thighs (Raw)</font></i><br>
+&emsp;test
+
+<div id="ground-flaxseed"></div>
+<br><i><font size="+2">Ground Flaxseed</font></i><br>
+&emsp;test
+
+<div id="ground-turkey"></div>
+<br><i><font size="+2">Ground Turkey (93/7, Raw)</font></i><br>
+&emsp;test
+
+<div id="honey"></div>
+<br><i><font size="+2">Honey</font></i><br>
+&emsp;test
+
+<div id="italian-dressing"></div>
+<br><i><font size="+2">Italian Dressing</font></i><br>
+&emsp;test
+
+<div id="hot-sauce"></div>
+<br><i><font size="+2">Hot Sauce</font></i><br>
+&emsp;test
+
+<div id="jelly"></div>
+<br><i><font size="+2">Jelly</font></i><br>
+&emsp;test
+
+<div id="maple-syrup"></div>
+<br><i><font size="+2">Maple Syrup</font></i><br>
+&emsp;test
+
+<div id="marmite"></div>
+<br><i><font size="+2">Marmite</font></i><br>
+&emsp;test
+
+<div id="mustard"></div>
+<br><i><font size="+2">Mustard</font></i><br>
+&emsp;test
+
+<div id="nutritional-yeast"></div>
+<br><i><font size="+2">Nutritional Yeast</font></i><br>
+&emsp;test
+
+<div id="oat-flour"></div>
+<br><i><font size="+2">Oat Flour</font></i><br>
+&emsp;test
+
+<div id="olives"></div>
+<br><i><font size="+2">Olives</font></i><br>
+&emsp;test
+
+<div id="Oil"></div>
+<br><i><font size="+2">Oil</font></i><br>
+&emsp;test
+
+<div id="peanuts"></div>
+<br><i><font size="+2">Peanuts</font></i><br>
+&emsp;test
+
+<div id="peanut-butter"></div>
+<br><i><font size="+2">Peanut Butter</font></i><br>
+&emsp;test
+
+<div id="pesto"></div>
+<br><i><font size="+2">Pesto</font></i><br>
+&emsp;test
+
+<div id="pickles"></div>
+<br><i><font size="+2">Pickles</font></i><br>
+&emsp;test
+
+<div id="pistachios"></div>
+<br><i><font size="+2">Pistachios</font></i><br>
+&emsp;test
+
+<div id="pumpkin-puree"></div>
+<br><i><font size="+2">Pumpkin Puree</font></i><br>
+&emsp;test
+
+<div id="quick-oats"></div>
+<br><i><font size="+2">Quick Oats</font></i><br>
+&emsp;test
+
+<div id="raisins"></div>
+<br><i><font size="+2">Raisins</font></i><br>
+&emsp;test
+
+<div id="red-lentils-cooked"></div>
+<br><i><font size="+2">Red Lentils (Cooked)</font></i><br>
+&emsp;test
+
+<div id="red-lentils-raw"></div>
+<br><i><font size="+2">Red Lentils (Raw)</font></i><br>
+&emsp;test
+
+<div id="romaine-lettuce"></div>
+<br><i><font size="+2">Romaine Lettuce</font></i><br>
+&emsp;test
+
+<div id="salmon"></div>
+<br><i><font size="+2">Salmon (Raw)</font></i><br>
+&emsp;test
+
+<div id="salsa"></div>
+<br><i><font size="+2">Salsa</font></i><br>
+&emsp;test
+
+<div id="shredded-cheese-mozzarella"></div>
+<br><i><font size="+2">Shredded Cheese (Low Moisture Part Skim Mozzarella)</font></i><br>
+&emsp;test
+
+<div id="shredded-cheese-mexican"></div>
+<br><i><font size="+2">Shredded Cheese (Mexican Mix)</font></i><br>
+&emsp;test
+
+<div id="skim-milk"></div>
+<br><i><font size="+2">Skim Milk</font></i><br>
+&emsp;test
+
+<div id="soy-sauce"></div>
+<br><i><font size="+2">Soy Sauce</font></i><br>
+&emsp;test
+
+<div id="spinach-fresh"></div>
+<br><i><font size="+2">Spinach (Fresh)</font></i><br>
+&emsp;test
+
+<div id="spinach-frozen"></div>
+<br><i><font size="+2">Spinach (Frozen)</font></i><br>
+&emsp;test
+
+<div id="strawberries"></div>
+<br><i><font size="+2">Strawberries (Frozen)</font></i><br>
+&emsp;test
+
+<div id="sugar"></div>
+<br><i><font size="+2">Sugar</font></i><br>
+&emsp;test
+
+<div id="sunflower-seeds"></div>
+<br><i><font size="+2">Sunflower Seeds</font></i><br>
+&emsp;test
+
+<div id="sweet-potato"></div>
+<br><i><font size="+2">Sweet Potato</font></i><br>
+&emsp;test
+
+<div id="sweet-potato-puree"></div>
+<br><i><font size="+2">Sweet Potato Puree</font></i><br>
+&emsp;test
+
+<div id="tilapia"></div>
+<br><i><font size="+2">Tilapia</font></i><br>
+&emsp;test
+
+<div id="tomato-sauce"></div>
+<br><i><font size="+2">Tomato Sauce (Canned, Unsweetened)</font></i><br>
+&emsp;test
+
+<div id="tortilla-chips"></div>
+<br><i><font size="+2">Tortilla Chips</font></i><br>
+&emsp;test
+
+<div id="vital-wheat-gluten"></div>
+<br><i><font size="+2">Vital Wheat Gluten</font></i><br>
+&emsp;test
+
+<div id="walnuts"></div>
+<br><i><font size="+2">Walnuts</font></i><br>
+&emsp;test
+
+<div id="whey"></div>
+<br><i><font size="+2">Whey Protein Powder</font></i><br>
+&emsp;test
+
+<div id="mushrooms"></div>
+<br><i><font size="+2">White Mushrooms</font></i><br>
+&emsp;test
+
+<div id="whole-wheat-flour"></div>
+<br><i><font size="+2">Whole Wheat Flour</font></i><br>
+&emsp;test
+
+<div id="whole-wheat-pasta"></div>
+<br><i><font size="+2">Whole Wheat Pasta</font></i><br>
+&emsp;test
+
+<div id="yellow-squash"></div>
+<br><i><font size="+2">Yellow Squash</font></i><br>
+&emsp;test
+
+<div id="yogurt"></div>
+<br><i><font size="+2">Yogurt (Plain, Nonfat, Greek)</font></i><br>
+&emsp;test
+
+<div id="zucchini"></div>
+<br><i><font size="+2">Zucchini</font></i><br>
+&emsp;test
