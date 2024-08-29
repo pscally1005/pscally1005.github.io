@@ -1,0 +1,77 @@
+Nutrient,Amount,Unit,DV
+Calories,52,,
+"Vitamin A, RAE",0.00,mcg,0 %
+"Carotene, alpha",0.00,mcg,
+"Carotene, beta",0.00,mcg,
+"Cryptoxanthin, beta",0.00,mcg,
+"Lutein + zeaxanthin",0.00,mcg,
+"Lycopene",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.013,mg,1 %
+"Riboflavin [Vitamin B2]",0.254,mg,20 %
+"Niacin [Vitamin B3]",0.016,mg,0 %
+"Pantothenic acid [Vitamin B5]",0.007,mg,0 %
+"Vitamin B6",0.000,mg,0 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Vitamin B12, added",0.00,mcg,
+"Folate, DFE [Vitamin B9]",0.00,mcg,0 %
+"Folate, food",0.00,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",0.0,mg,0 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",0.00,mg,0 %
+"Vitamin E, added",0.00,mg,
+"Tocopherol, alpha",0.00,mg,
+"Vitamin K",0.0,mcg,0 %
+"Vitamin K1 [Phylloquinone]",0.0,mcg,
+"Choline",0.3,mg,0 %
+"Calcium",20.40,mg,2 %
+"Copper",0.00,mg,0 %
+"Iron",0.02,mg,0 %
+"Magnesium",4.20,mg,1 %
+"Manganese",0.582,mg,25 %
+"Phosphorus",0.40,mg,0 %
+"Potassium",42.40,mg,1 %
+"Selenium",0.12,mcg,0 %
+"Sodium",2.40,mg,0 %
+"Zinc",0.29,mg,3 %
+"Protein",0.01,g,0 %
+"Carbohydrate",13.41,g,5 %
+"Fiber",0.00,g,0 %
+"Sugars",12.09,g,
+"Fructose",0.10,g,
+"Galactose",0.00,g,
+"Glucose",0.32,g,
+"Lactose",0.00,g,
+"Maltose",0.00,g,
+"Sucrose",11.66,g,
+"Net carbs",13.41,g,
+"Fat",0.012,g,0 %
+"Saturated fatty acids",0.001,g,0 %
+"Butanoic acid",0.000,g,
+"Decanoic acid",0.000,g,
+"Dodecanoic acid",0.000,g,
+"Hexadecanoic acid",0.001,g,
+"Hexanoic acid",0.000,g,
+"Octadecanoic acid",0.000,g,
+"Octanoic acid",0.000,g,
+"Tetradecanoic acid",0.000,g,
+"Monounsaturated fatty acids",0.002,g,
+"Docosenoic acid",0.000,g,
+"Eicosenoic acid",0.000,g,
+"Hexadecenoic acid",0.000,g,
+"Octadecenoic acid",0.002,g,
+"Polyunsaturated fatty acids",0.003,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Eicosatetraenoic acid",0.000,g,
+"Octadecadienoic acid",0.003,g,
+"Octadecatetraenoic acid",0.000,g,
+"Octadecatrienoic acid",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Ash",0.09,g,
+"Caffeine",0.00,mg,
+"Theobromine",0.00,mg,
+"Water",6.48,g,

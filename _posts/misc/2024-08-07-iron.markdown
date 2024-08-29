@@ -246,15 +246,15 @@ tags:
     <tbody>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100%20g">Black beans</a></td>
-            <td markdown="span">1/4 cup (57 g)</td>
-            <td markdown="span">2.9 mg</td>
+            <td markdown="span">1/4 cup (48 g)</td>
+            <td markdown="span">2.4 mg</td>
             <td markdown="span">5.0 mg</td>
             <td markdown="span">1.5 mg</td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a></td>
-            <td markdown="span">1/4 cup (57 g)</td>
-            <td markdown="span">2.5 mg</td>
+            <td markdown="span">1/4 cup (50 g)</td>
+            <td markdown="span">2.2 mg</td>
             <td markdown="span">4.3 mg</td>
             <td markdown="span">1.1 mg</td>
         </tr>
@@ -274,22 +274,22 @@ tags:
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_red%2C_kidney_nutritional_value.html?size=100+g">Kidney beans</a></td>
-            <td markdown="span">1/4 cup (57 g)</td>
-            <td markdown="span">3.8 mg</td>
+            <td markdown="span">1/4 cup (46 g)</td>
+            <td markdown="span">3.1 mg</td>
             <td markdown="span">6.7 mg</td>
             <td markdown="span">2.0 mg</td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_navy_nutritional_value.html?size=100+g">Navy beans</a></td>
-            <td markdown="span">1/4 cup (57 g)</td>
-            <td markdown="span">3.1 mg</td>
+            <td markdown="span">1/4 cup (52 g)</td>
+            <td markdown="span">2.9 mg</td>
             <td markdown="span">5.5 mg</td>
             <td markdown="span">1.6 mg</td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_pinto_nutritional_value.html?size=100+g">Pinto beans</a></td>
             <td markdown="span">1/4 cup (57 g)</td>
-            <td markdown="span">2.9 mg</td>
+            <td markdown="span">2.5 mg</td>
             <td markdown="span">5.1 mg</td>
             <td markdown="span">1.5 mg</td>
         </tr>

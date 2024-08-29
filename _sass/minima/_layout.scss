@@ -397,3 +397,12 @@
   max-width: 300px;
   height: auto;
 }
+
+.half-page {
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-grow: 2;
+  width: 50%;
+  max-width: 50%;
+  object-fit: cover;
+}

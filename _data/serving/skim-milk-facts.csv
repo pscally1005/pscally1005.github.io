@@ -1,0 +1,68 @@
+Nutrient,Amount,Unit,DV
+Calories,83,,
+"Vitamin A, RAE",156.16,mcg,17 %
+"Carotene, alpha",0.00,mcg,
+"Carotene, beta",4.88,mcg,
+"Cryptoxanthin, beta",0.00,mcg,
+"Lutein + zeaxanthin",0.00,mcg,
+"Lycopene",0.00,mcg,
+"Retinol",156.16,mcg,
+"Thiamin [Vitamin B1]",0.137,mg,11 %
+"Riboflavin [Vitamin B2]",0.320,mg,25 %
+"Niacin [Vitamin B3]",0.288,mg,2 %
+"Vitamin B6",0.142,mg,8 %
+"Vitamin B12 [Cobalamin]",1.42,mcg,59 %
+"Vitamin B12, added",0.00,mcg,
+"Folate, DFE [Vitamin B9]",4.88,mcg,1 %
+"Folate, food",4.88,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",0.0,mg,0 %
+"Vitamin D",2.68,mcg,13 %
+"Vitamin E (alpha-tocopherol)",0.00,mg,0 %
+"Vitamin E, added",0.00,mg,
+"Tocopherol, alpha",0.00,mg,
+"Vitamin K",0.0,mcg,0 %
+"Vitamin K1 [Phylloquinone]",0.0,mcg,
+"Choline",44.4,mg,8 %
+"Calcium",322.08,mg,25 %
+"Copper",0.00,mg,0 %
+"Iron",0.00,mg,0 %
+"Magnesium",29.28,mg,7 %
+"Phosphorus",261.08,mg,21 %
+"Potassium",407.48,mg,9 %
+"Selenium",4.88,mcg,9 %
+"Sodium",100.04,mg,4 %
+"Zinc",1.10,mg,10 %
+"Protein",8.37,g,17 %
+"Carbohydrate",11.93,g,4 %
+"Fiber",0.00,g,0 %
+"Sugars",12.32,g,
+"Net carbs",11.93,g,
+"Fat",0.195,g,0 %
+"Saturated fatty acids",0.120,g,1 %
+"Butanoic acid",0.007,g,
+"Decanoic acid",0.005,g,
+"Dodecanoic acid",0.005,g,
+"Hexadecanoic acid",0.051,g,
+"Hexanoic acid",0.002,g,
+"Octadecanoic acid",0.022,g,
+"Octanoic acid",0.002,g,
+"Tetradecanoic acid",0.020,g,
+"Monounsaturated fatty acids",0.041,g,
+"Docosenoic acid",0.000,g,
+"Eicosenoic acid",0.000,g,
+"Hexadecenoic acid",0.002,g,
+"Octadecenoic acid",0.044,g,
+"Polyunsaturated fatty acids",0.015,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Eicosatetraenoic acid",0.000,g,
+"Octadecadienoic acid",0.012,g,
+"Octadecatetraenoic acid",0.000,g,
+"Octadecatrienoic acid",0.000,g,
+"Cholesterol",7.32,mg,2 %
+"Alcohol, ethyl",0.0,g,
+"Caffeine",0.00,mg,
+"Theobromine",0.00,mg,
+"Water",221.55,g,

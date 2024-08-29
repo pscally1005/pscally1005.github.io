@@ -10,7 +10,7 @@ os.system('cls')
 def scale_images_in_directory(directory):
     for root, dirs, files in os.walk(directory):
         for filename in files:
-            if filename.endswith("_scaled.jpg") or filename.endswith("_scaled.JPG"):
+            if filename.endswith("-scaled.jpg") or filename.endswith("-scaled.JPG"):
                 continue
             elif filename.endswith(".jpg") or filename.endswith(".JPG"):
                 filepath = os.path.join(root, filename)
@@ -33,9 +33,10 @@ def scale_images_in_directory(directory):
                     new_width = int(width * 0.25)
                     new_height = int(height * 0.25)
                     resized_img = img.resize((new_width, new_height), Image.LANCZOS)
-                    new_filepath = filepath[0:-4] + "_scaled.jpg"
+                    new_filepath = filepath[0:-4] + "-scaled.jpg"
                     resized_img.save(new_filepath)
-                    print(f"{filename} scaled successfully")
+                    # print(f"{filename} scaled successfully")
+                    img.close()
                     os.remove(filepath)
                 except Exception as e:
                     print(f"Error scaling {filename}: {e}")
@@ -52,7 +53,7 @@ def split_csv_file(path_csv):
             # remove first and last few rows from file
             temp = fname[:-4] + "-temp.csv"
             with open(temp, 'w') as fout:
-                fout.writelines(data[6:-7])
+                fout.writelines(data[6:-5])
 
             # get row of blank (separation between 2 tables)
             blank = -1

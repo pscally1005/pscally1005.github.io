@@ -1,6 +1,20 @@
-{% assign vol = include.vol %}
-{% assign gram = include.gram %}
+{% assign vol1 = include.vol1 %}
+{% assign gram1 = include.gram1 %}
+{% assign vol2 = include.vol2 %}
+{% assign gram2 = include.gram2 %}
 {% assign nutritionFacts = include.nutritionFacts %}
+{% assign img1 = include.img1 %}
+{% assign img2 = include.img2 %}
 
-<br><b>Serving Size</b>: {{ vol }} <i>({{ gram }} g)</i><br>
-{% include nutrition_serving.html facts=nutritionFacts %}<br>
+{% unless img2 %}
+    <br><img src={{img1}} alt=""><br>
+{% else %}
+    <br><img src={{img1}} alt="" class="half-page"><img src={{img2}} alt="" class="half-page"><br>
+{% endunless %}
+
+<br><b>Serving Size</b>: {{ vol1 }} <i>({{ gram1 }} g)</i>
+{% if vol2 && gram2 %}
+    or {{ vol2 }} <i>({{ gram2 }} g)</i>
+{% endif %}
+<br>
+{% include nutrition_serving.html facts=nutritionFacts %}

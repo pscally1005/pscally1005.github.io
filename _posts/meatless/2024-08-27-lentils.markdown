@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Creamy Red Lentils"
-date:   2024-06-21 00:00:00 -05000
+title:  "Easy Red Lentils"
+date:   2024-08-27 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
@@ -18,10 +18,10 @@ start4:
 section4: 
 start5: 
 section5: 
-Prep: 20
+Prep: 2
 Rest: 
-Cook: 30
-Source1: https://itsavegworldafterall.com/how-to-cook-red-lentils/#recipe
+Cook: 8
+Source1: 
 Source2: 
 whisk: https://s.samsungfood.com/tWToI
 tags: 
@@ -40,7 +40,7 @@ tags:
 - fiber
 Description: Red lentils are a fantastic addition to your diet. They're a great side carb source that is also high in protein and fiber. Red split lentils are just as easy to cook as rice, take a fraction of the time, and are healthier. And they're not that much more expensive too. I got a 1 lb bag for $1.50, and normally brown rice runs me $1 per lb.
 Instructions: 
-- Using a fine mesh strainer, rinse the lentils under cold water, removing any pebbles or discolored pieces. Transfer to a small pot with water and bouillon powder<br><br>
+- Add everything to a small pot. Cover and bring to a boil<br><br>
 
-- Cover and bring to a boil. Keep covered, reduce heat to low to maintain a simmer, and cook for 5-8 minutes, stirring occasionally
+- Keep covered, reduce heat to low to maintain a simmer, and cook for 5-8 minutes, stirring occasionally
 ---
