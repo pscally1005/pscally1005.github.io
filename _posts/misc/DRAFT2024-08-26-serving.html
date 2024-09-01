@@ -54,7 +54,7 @@ tags:
 * <a rel="" target="" href="#cornmeal">Cornmeal</a><br>
 * <a rel="" target="" href="#corn-starch">Corn Starch</a><br>
 * <a rel="" target="" href="#dates">Dates (Pitted)</a><br>
-* <a rel="" target="" href="#eggs">Egg</a><br>
+* <a rel="" target="" href="#eggs">Eggs</a><br>
 * <a rel="" target="" href="#eggplant">Eggplant</a><br>
 * <a rel="" target="" href="#egg-whites">Egg Whites</a><br>
 * <a rel="" target="" href="#feta">Feta Cheese</a><br>
@@ -72,6 +72,8 @@ tags:
 * <a rel="" target="" href="#italian-dressing">Italian Dressing</a><br>
 * <a rel="" target="" href="#jelly">Jelly</a><br>
 * <a rel="" target="" href="#kidney-beans">Kidney Beans</a><br>
+* <a rel="" target="" href="#macadamia-nuts">Macadamia Nuts</a><br>
+* <a rel="" target="" href="#mangos">Mangos (Frozen)</a><br>
 * <a rel="" target="" href="#maple-syrup">Maple Syrup</a><br>
 * <a rel="" target="" href="#marmite">Marmite</a><br>
 * <a rel="" target="" href="#mushrooms">Mushrooms (White)</a><br>
@@ -85,9 +87,12 @@ tags:
 * <a rel="" target="" href="#peanut-butter">Peanut Butter</a><br>
 * <a rel="" target="" href="#pesto">Pesto</a><br>
 * <a rel="" target="" href="#pickles">Pickles</a><br>
-* <a rel="" target="" href="#pistachios">Pistachios</a><br>
 * <a rel="" target="" href="#pinto-beans">Pinto Beans</a><br>
+* <a rel="" target="" href="#pistachios">Pistachios</a><br>
+* <a rel="" target="" href="#popcorn">Popcorn (Plain Kernels)</a><br>
+* <a rel="" target="" href="#powdered-peanut-butter">Powdered Peanut Butter</a><br>
 * <a rel="" target="" href="#pumpkin-puree">Pumpkin Puree</a><br>
+* <a rel="" target="" href="#pumpkin-seeds">Pumpkin Seeds</a><br>
 * <a rel="" target="" href="#quick-oats">Quick Oats</a><br>
 * <a rel="" target="" href="#raisins">Raisins</a><br>
 * <a rel="" target="" href="#red-lentils">Red Lentils</a><br>
@@ -121,7 +126,7 @@ tags:
 {% assign nF = site.data.serving["almonds-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 ounce" 
+    vol1="1 ounce, about 31 nuts" 
     gram1="28"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/almonds-scaled.jpg"
@@ -267,7 +272,7 @@ tags:
 {% assign nF = site.data.serving["brazil-nuts-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 ounce" 
+    vol1="1 ounce, about 9 nuts" 
     gram1="28"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/brazil-nuts-scaled.jpg"
@@ -408,7 +413,7 @@ tags:
 {% assign nF = site.data.serving["chocolate-chips-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 tbsp" 
+    vol1="1 tbsp, about 30 chips" 
     gram1="15"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/chocolate-chips-scaled.jpg"
@@ -444,7 +449,7 @@ tags:
     vol1="2 tbsp" 
     gram1="14"  
     nutritionFacts=nF 
-    img1="/assets/Misc/Serving/cocnut-flour-scaled.jpg"
+    img1="/assets/Misc/Serving/coconut-flour-scaled.jpg"
 %}<br>
 
 <div id="cottage-cheese"></div>
@@ -717,6 +722,28 @@ tags:
     img2="/assets/Misc/Serving/kidney-canned-scaled.jpg"
 %}<br>
 
+<div id="macadamia-nuts"></div>
+<br><i><font size="+2">Macadamia Nuts</font></i><br>
+{% assign nF = site.data.serving["macadamia-nuts-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="1 ounce, about 23 halves" 
+    gram1="28"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/macadamia-nuts-scaled.jpg"
+%}<br>
+
+<div id="mangos"></div>
+<br><i><font size="+2">Mangos (Frozen)</font></i><br>
+{% assign nF = site.data.serving["mangos-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="1 cup" 
+    gram1="150"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/mangos-scaled.jpg"
+%}<br>
+
 <div id="maple-syrup"></div>
 <br><i><font size="+2">Maple Syrup</font></i><br>
 {% assign nF = site.data.serving["maple-syrup-facts"] %}
@@ -824,7 +851,7 @@ tags:
 {% assign nF = site.data.serving["peanuts-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 ounce" 
+    vol1="1 ounce, about 47 halves" 
     gram1="28"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/peanuts-scaled.jpg"
@@ -882,10 +909,35 @@ tags:
 {% assign nF = site.data.serving["pistachios-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 ounce" 
+    vol1="1 ounce, about 47 nuts" 
     gram1="28"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/pistachios-scaled.jpg"
+%}<br>
+
+<div id="popcorn"></div>
+<br><i><font size="+2">Popcorn (Plain Kernels)</font></i><br>
+{% assign nF = site.data.serving["popcorn-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="3 tbsp unpopped" 
+    gram1="40"
+    vol2="7.5 cups popped" 
+    gram2="40"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/popcorn-raw-scaled.jpg"
+    img2="/assets/Misc/Serving/popcorn-cooked-scaled.jpg"
+%}<br>
+
+<div id="powdered-peanut-butter"></div>
+<br><i><font size="+2">Powdered Peanut Butter</font></i>: <a href="https://www.walmart.com/ip/Great-Value-Powdered-Peanut-Butter-30-oz/664689057?classType=VARIANT&from=/search">Great Value</a><br>
+{% assign nF = site.data.serving["powdered-peanut-butter-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="2 tbsp" 
+    gram1="12"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/powdered-peanut-butter-scaled.jpg"
 %}<br>
 
 <div id="pumpkin-puree"></div>
@@ -897,6 +949,17 @@ tags:
     gram1="120"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/pumpkin-puree-scaled.jpg"
+%}<br>
+
+<div id="pumpkin-seeds"></div>
+<br><i><font size="+2">Pumpkin Seeds</font></i><br>
+{% assign nF = site.data.serving["pumpkin-seeds-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="1 ounce" 
+    gram1="28"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/pumpkin-seeds-scaled.jpg"
 %}<br>
 
 <div id="quick-oats"></div>
@@ -1078,7 +1141,7 @@ tags:
 {% assign nF = site.data.serving["sunflower-seeds-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 ounce" 
+    vol1="1 ounce, about 400 kernels" 
     gram1="28"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/sunflower-seeds-scaled.jpg"
@@ -1093,6 +1156,7 @@ tags:
     gram1="130"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/sweet-potato-scaled.jpg"
+    img2="/assets/Misc/Serving/sweet-potato-cut-scaled.jpg"
 %}<br>
 
 <div id="sweet-potato-puree"></div>
@@ -1136,10 +1200,10 @@ tags:
 {% assign nF = site.data.serving["tortilla-chips-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 ounce, about 7 chips" 
+    vol1="1 ounce, about 10 chips" 
     gram1="28"  
     nutritionFacts=nF 
-    img1="/assets/Misc/Serving/tortilla-chips.jpg"
+    img1="/assets/Misc/Serving/tortilla-chips-scaled.jpg"
 %}<br>
 
 <div id="vital-wheat-gluten"></div>
@@ -1158,7 +1222,7 @@ tags:
 {% assign nF = site.data.serving["walnuts-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 ounce" 
+    vol1="1 ounce, abotu 15 nuts" 
     gram1="28"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/walnuts-scaled.jpg"

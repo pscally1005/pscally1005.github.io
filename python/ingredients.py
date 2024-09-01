@@ -166,7 +166,7 @@ def ingredients(food):
         return str("Sugar free syrup")
     elif food == "Almond flour by RALEY'S":
         return str("Almond flour")
-    elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor" or food == "Pitted dates":
+    elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor" or food == "Pitted dates" or food == "Date":
         return str("Dates")
     elif food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked":
         return str("Sweet potato puree")
@@ -304,6 +304,8 @@ def ingredients(food):
         return str("Cilantro, fresh")
     elif food == "Kiwi fruit":
         return str("Kiwi")
+    elif food == "Celery, raw":
+        return str("Celery")
     
     # Frozen produce
     elif food == "Blueberries, frozen, wild":
@@ -370,6 +372,8 @@ def ingredients(food):
         return str("Almond butter")
     elif food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
         return str("Natural peanut butter")
+    elif food == "Tahini by BRANDLESS":
+        return str("Tahini")
     elif food == "Nuts, almonds" or food == "Nuts, with salt added, dry roasted, almonds" or food == "Nuts, without salt added, dry roasted, almonds":
         return str("Almonds")
     elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, roasted" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types":

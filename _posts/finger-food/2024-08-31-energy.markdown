@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "No Bake Energy Bites"
+date:   2024-08-31 00:00:00 -0500
+categories:
+- Recipes
+- Finger Foods
+permalink: /recipes/energy-bites
+image: /assets/Food/Finger Food/Energy Bites/energy-bites-cover.jpg
+ing: energybites-ing
+facts: energybites-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 15
+Rest: 30
+Cook: 
+Source1: https://www.gimmesomeoven.com/no-bake-energy-bites/#tasty-recipes-66977
+Source2: https://www.youtube.com/watch?v=-UZNjbjAkrg
+whisk: https://s.samsungfood.com/kgI0n
+tags: 
+- energy bite
+- dates
+- medjool
+- deglet noor
+- oats
+- oatmeal
+- quick oats
+- rolled oats
+- flaxseeds
+- ground flaxseed
+- flax seed
+- coconut flakes
+- unsweetened coconut flakes
+- chia seeds
+- vanilla extract
+- cinnamon
+- raisins
+- nuts
+- chopped nuts
+- peanuts
+- peanut butter
+- almond butter
+- tahini
+- raisins
+- chocolate chips
+Description: No bake energy bites were the first healthy baking recipe I had ever made. I had gotten this recipe from a friend 6 years ago or so, so I feel like it's time to bring it back. I've made some light modifications, like swapping the honey for dates instead. These energy bites are a great grab and go snack, or topping to your morning Greek yogurt.  For other no bake bite sized snacks, check out my <a href="/recipes/trail-mix-balls">Trail Mix Balls</a>, <a href="/recipes/chickpea-chows">Chickpea Chows</a>, or my <a href="/recipes/carrot-cake-bites">Carrot Cake Energy Bites</a>
+Instructions: 
+- Add your dates to a medium bowl, and pour hot water over them. Let soak for 10 minutes.  Blend the dates, soaking water, and nut butter until smooth in a food processor. Transfer to a large bowl<br><br>
+- <center><img src="/assets/Food/Finger Food/Energy Bites/energy-bites-processor.jpg" alt="" class="instruction-image"></center><br>
+
+- Mix the rest of your ingredients together in the bowl. Chill in the fridge for at least 30 minutes so the oats, chia seeds, and flaxseeds can absorb the moisture<br><br>
+- <center><img src="/assets/Food/Finger Food/Energy Bites/energy-bites-bowl.jpg" alt="" class="instruction-image"></center><br>
+
+- Below are some ingredient substitutions or mix in idea to change things up:<br><br>- Both quick oats or rolled oats will work here<br><br>- Any sort of nut or seed butter will work here.  Normally, I use either almond or peanut butter, but here I've used tahini for a friend with a nut allergy.  Other good options would be sunflower butter, pistachio butter, pumpkin seed butter, cashew butter, etc.<br><br>- In place of the dates and water, you can use 1/4 to 1/3 cup (84 to 112 g) of honey or maple syrup<br><br>- Optionally, add in some mix-ins.  Good choices are 1/2 cup (90 g) mini chocolate chips, 1/2 cup (85 g) raisins, or 1/2 cup (70 g) chopped nuts<br><br>
+
+- Lightly wet your hands to prevent sticking, and roll into balls. Store in an airtight bag or container in the fridge
+---

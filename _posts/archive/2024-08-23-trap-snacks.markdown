@@ -199,6 +199,7 @@ tags:
 <center><a href="/recipes/natural-peanut-butter"><img src="/assets/Food/Sweet Spreads/PB/pb-cover.jpg" alt="" class="larger-image"></a></center><br>
 <div id="hummus"></div>
 &emsp;You can make them savory too; sometimes I mix some plain nonfat greek yogurt or <a href="/recipes/guacamole">Holy Guacamole</a> with some spices, and top with sliced tomatoes, cucumber, or any other fresh produce in my fridge at the time.  Or you can just simply spread on some hummus.  Here are my homemade hummus recipes:<br>
+&emsp;- <a href="/recipes/classic-tahini-hummus">Classic Tahini Hummus</a><br>
 &emsp;- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>
 &emsp;- <a href="/recipes/roasted-red-pepper-hummus">Roasted Red Pepper Hummus</a><br>
 &emsp;- <a href="/recipes/roasted-garlic-hummus">Cheesy Garlic Hummus</a><br>
