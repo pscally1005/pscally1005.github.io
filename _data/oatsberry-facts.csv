@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,445,,
+Calories,447,,
 "Vitamin A, RAE",5.98,mcg,1 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",67.77,mcg,
@@ -25,18 +25,18 @@ Calories,445,,
 "Vitamin K",20.5,mcg,17 %
 "Vitamin K1 [Phylloquinone]",20.5,mcg,
 "Choline",8.5,mg,2 %
-"Calcium",838.65,mg,65 %
+"Calcium",719.15,mg,55 %
 "Copper",0.27,mg,30 %
 "Fluoride",0,mcg,
-"Iron",3.54,mg,20 %
-"Magnesium",146.73,mg,35 %
+"Iron",3.6,mg,20 %
+"Magnesium",129.93,mg,31 %
 "Manganese",2.939,mg,128 %
-"Phosphorus",457.1,mg,37 %
-"Potassium",645.48,mg,14 %
+"Phosphorus",213.1,mg,17 %
+"Potassium",668.48,mg,14 %
 "Selenium",11.97,mcg,22 %
-"Sodium",275.61,mg,12 %
+"Sodium",253.11,mg,11 %
 "Zinc",1.53,mg,14 %
-"Protein",36.45,g,73 %
+"Protein",35.95,g,72 %
 "Alanine",0,g,
 "Arginine",0,g,
 "Aspartic acid",0,g,
@@ -85,7 +85,7 @@ Calories,445,,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0.122,g,
 "Fatty acids, total trans",0,g,
-"Cholesterol",18.18,mg,6 %
+"Cholesterol",19.18,mg,6 %
 "Phytosterols",0,mg,
 "Alcohol, ethyl",0,g,
 "Ash",1.66,g,

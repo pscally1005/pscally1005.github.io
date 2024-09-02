@@ -198,7 +198,7 @@ def ingredients(food):
     # Dairy & Eggs
     elif food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Shredded mozzarella cheese" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
         return str("Shredded mozzarella cheese, low moisture part skim")
-    elif food == "Unflavored Casein Protein Powder by PROMIX":
+    elif food == "Unflavored Casein Protein Powder by PROMIX" or food == "Nutricost Casein Unflavored Protein Powder":
         return str("Casein protein powder, unflavored")
     elif food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
         return str("Plain nonfat greek yogurt")
@@ -208,7 +208,7 @@ def ingredients(food):
         return str("Egg")
     elif food == "100% liquid egg whites by KROGER":
         return str("Liquid egg whites")
-    elif food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder":
+    elif food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder" or food == "Nutricost Whey Unflavored Protein Powder":
         return str("Whey protein powder, unflavored")
     elif food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
         return str("Nonfat cottage cheese")
@@ -380,7 +380,7 @@ def ingredients(food):
         return str("Peanuts")
     elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Hersheys Zero Sugar Chocolate Chips" or food == "Semisweet chocolate mini chips by Harris-Teeter Inc.":
         return str("Sugar free chocolate chips")
-    elif food == str("90% cocoa dark chocolate by Lindt"):
+    elif food == "90% cocoa dark chocolate by Lindt" or food == "90% cocoa dark chocolate by Lindt & Sprungli (Schweiz) AG":
         return str("90% chocolate")
     elif food == "Raw cashews" or food == "Nuts, raw, cashew nuts":
         return str("Cashews")
