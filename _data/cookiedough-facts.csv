@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,44,,
+Calories,45,,
 "Vitamin A, RAE",0.05,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0.66,mcg,
@@ -35,18 +35,18 @@ Calories,44,,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0,mg,
 "Choline",0.4,mg,0 %
-"Calcium",148.04,mg,11 %
+"Calcium",108.21,mg,8 %
 "Copper",0.05,mg,6 %
 "Fluoride",0.2,mcg,
-"Iron",0.25,mg,1 %
-"Magnesium",12.58,mg,3 %
+"Iron",0.27,mg,2 %
+"Magnesium",6.98,mg,2 %
 "Manganese",0.055,mg,2 %
-"Phosphorus",91.62,mg,7 %
-"Potassium",45.45,mg,1 %
+"Phosphorus",10.29,mg,1 %
+"Potassium",53.11,mg,1 %
 "Selenium",0.23,mcg,0 %
-"Sodium",66.48,mg,3 %
+"Sodium",58.98,mg,3 %
 "Zinc",0.1,mg,1 %
-"Protein",4.47,g,9 %
+"Protein",4.3,g,9 %
 "Alanine",0.012,g,
 "Arginine",0.015,g,
 "Aspartic acid",0.027,g,
@@ -129,7 +129,7 @@ Calories,44,,
 "Fatty acids, total trans",0,g,
 "Fatty acids, total trans-monoenoic",0,g,
 "Fatty acids, total trans-polyenoic",0,g,
-"Cholesterol",3,mg,1 %
+"Cholesterol",3.33,mg,1 %
 "Phytosterols",0.97,mg,
 "Alcohol, ethyl",0.1,g,
 "Ash",0.11,g,

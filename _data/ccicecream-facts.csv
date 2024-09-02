@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,240,,
+Calories,249,,
 "Vitamin A, RAE",0,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0,mcg,
@@ -25,17 +25,17 @@ Calories,240,,
 "Vitamin K",0.1,mcg,0 %
 "Vitamin K1 [Phylloquinone]",0.1,mcg,
 "Choline",0.6,mg,0 %
-"Calcium",131.27,mg,10 %
+"Calcium",198.15,mg,15 %
 "Copper",0.2,mg,22 %
-"Iron",1.11,mg,6 %
+"Iron",1.25,mg,7 %
 "Magnesium",27.01,mg,6 %
 "Manganese",0.208,mg,9 %
 "Phosphorus",39.67,mg,3 %
-"Potassium",83.08,mg,2 %
+"Potassium",146.71,mg,3 %
 "Selenium",0.78,mcg,1 %
-"Sodium",508.63,mg,22 %
+"Sodium",393.65,mg,17 %
 "Zinc",0.37,mg,3 %
-"Protein",31.57,g,63 %
+"Protein",30.44,g,61 %
 "Alanine",0.049,g,
 "Arginine",0.06,g,
 "Aspartic acid",0.105,g,
@@ -56,12 +56,12 @@ Calories,240,,
 "Valine",0.064,g,3 %
 "Phenylalanine + Tyrosine",0.091,g,3 %
 "Methionine + Cysteine",0.011,g,1 %
-"Carbohydrate",10.85,g,4 %
+"Carbohydrate",11.3,g,4 %
 "Fiber",3.51,g,13 %
-"Sugars",4.66,g,
-"Net carbs",7.34,g,
-"Fat",8.74,g,11 %
-"Saturated fatty acids",1.436,g,7 %
+"Sugars",5.11,g,
+"Net carbs",7.79,g,
+"Fat",10.105,g,13 %
+"Saturated fatty acids",2.116,g,11 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Dodecanoic acid",0,g,
@@ -84,7 +84,7 @@ Calories,240,,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0,g,
 "Fatty acids, total trans",0,g,
-"Cholesterol",4.93,mg,2 %
+"Cholesterol",34.09,mg,11 %
 "Alcohol, ethyl",0.2,g,
 "Ash",0.31,g,
 "Caffeine",12.42,mg,

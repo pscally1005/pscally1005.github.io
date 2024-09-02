@@ -62,12 +62,7 @@ Instructions:
 
 - Move to the fridge and let cool for around an hour. Cut into slices and store in a ziploc bag or container in either the fridge or the freezer.<br><br>
 
-- Optionally, you can also make a frosting with the following ingredients and spread on top of the brownies, or use it to make a layer cake<br><br>
-- Non fat cottage cheese (1 cup, 226 g)<br>
-- Unsweetened applesauce (1/4 cup, 60 g)<br>
-- PB2 (10 tbsp, 60 g)<br>
-- Almond extract (1 tsp, 5 g)<br><br>
-- You can also use my recipe for <a href="banana-bread-hummus">Banana Bread Hummus Spread</a> as a frosting too!<br><br>
+- Optionally, you can also make a frosting with the following ingredients and spread on top of the brownies, or use it to make a layer cake:<br>- Non fat cottage cheese (1 cup, 226 g)<br>- Unsweetened applesauce (1/4 cup, 60 g)<br>- Powdered peanut butter (10 tbsp, 60 g)<br>- Almond extract (1 tsp, 5 g)<br><br>You can also use my recipe for <a href="banana-bread-hummus">Banana Bread Hummus Spread</a> as a frosting too!<br><br>
 
 - For a cake, bake the batter in 2 8" pans for about 40 minutes, covered. Spread the frosting on the middle layer, the top, and down the sides. Dust the top with cocoa powder<br><br>
 - <center><img src="/assets/Food/Protein Powder/Chickpea Brownie/chickpea-cake.jpg" alt="" class="instruction-image"></center>

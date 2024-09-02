@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,98,,
+Calories,101,,
 "Vitamin A, RAE",0.28,mcg,0 %
 "Carotene, alpha",2.2,mcg,
 "Carotene, beta",2.75,mcg,
@@ -33,17 +33,17 @@ Calories,98,,
 "Dihydrophylloquinone",0,mcg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",0.3,mg,0 %
-"Calcium",29.11,mg,2 %
+"Calcium",54.19,mg,4 %
 "Copper",0.1,mg,11 %
-"Iron",0.87,mg,5 %
+"Iron",0.92,mg,5 %
 "Magnesium",13.5,mg,3 %
 "Manganese",0.105,mg,5 %
 "Phosphorus",19.84,mg,2 %
-"Potassium",41.54,mg,1 %
+"Potassium",65.4,mg,1 %
 "Selenium",0.39,mcg,1 %
-"Sodium",109.97,mg,5 %
+"Sodium",66.85,mg,3 %
 "Zinc",0.18,mg,2 %
-"Protein",9.17,g,18 %
+"Protein",8.74,g,17 %
 "Alanine",0.024,g,
 "Arginine",0.03,g,
 "Aspartic acid",0.053,g,
@@ -64,19 +64,19 @@ Calories,98,,
 "Valine",0.032,g,2 %
 "Phenylalanine + Tyrosine",0.045,g,2 %
 "Methionine + Cysteine",0.005,g,0 %
-"Carbohydrate",10.16,g,4 %
+"Carbohydrate",10.33,g,4 %
 "Fiber",2.85,g,10 %
 "Starch",0.11,g,
-"Sugars",1.58,g,
+"Sugars",1.75,g,
 "Fructose",1.84,g,
 "Galactose",0,g,
 "Glucose",1.93,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.58,g,
-"Net carbs",7.31,g,
-"Fat",3.18,g,4 %
-"Saturated fatty acids",0.593,g,3 %
+"Net carbs",7.48,g,
+"Fat",3.692,g,5 %
+"Saturated fatty acids",0.848,g,4 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Dodecanoic acid",0,g,
@@ -99,7 +99,7 @@ Calories,98,,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0,g,
 "Fatty acids, total trans",0,g,
-"Cholesterol",1.85,mg,1 %
+"Cholesterol",12.78,mg,4 %
 "Alcohol, ethyl",0.1,g,
 "Ash",0.34,g,
 "Caffeine",6.21,mg,

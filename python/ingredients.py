@@ -154,7 +154,7 @@ def ingredients(food):
         return str("Liquid stevia or monk fruit")
     elif food == "Peanut butter powder by PBFIT" or food == "Powdered peanut butter by PB2":
         return str("Powdered peanut butter")
-    elif food == "Pure almond extract by FIRST STREET" or food == "Pure almond extract by Morton Bassett Inc." or food == "Almond extract by Morton Bassett Inc.":
+    elif food == "Premium quality pure almond extract by Morton Bassett Inc." or food == "Pure almond extract by FIRST STREET" or food == "Pure almond extract by Morton Bassett Inc." or food == "Almond extract by Morton Bassett Inc.":
         return str("Almond extract")
     elif food == "Pumpkin puree by Whole Foods Market, Inc." or food == "Pumpkin puree, pumpkin by Goya Foods, Inc." or food == "Organic pumpkin puree by Pacific Foods of Oregon, Inc.":
         return str("Pumpkin puree")
@@ -236,7 +236,7 @@ def ingredients(food):
         return str("Cabbage")
     elif food == "Sweet potato, without skin, boiled, cooked":
         return str("Cooked sweet potato")
-    elif food == "Bananas, raw, overripe":
+    elif food == "Bananas, raw, overripe" or food == "Bananas, raw, ripe and slightly ripe":
         return str("Banana, overripe")
     elif food == "Onions, raw" or food == "Onions, raw, red" or food == "Onions, raw, yellow" or food == "Onions, raw, white":
         return str("Onion")

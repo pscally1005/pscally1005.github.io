@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,308,,
+Calories,309,,
 "Vitamin A, RAE",116.99,mcg,13 %
 "Carotene, alpha",35.12,mcg,
 "Carotene, beta",754.68,mcg,
@@ -43,19 +43,19 @@ Calories,308,,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",8.3,mg,
 "Choline",126.5,mg,23 %
-"Calcium",293.02,mg,23 %
+"Calcium",233.27,mg,18 %
 "Copper",0.35,mg,39 %
 "Fluoride",0.2,mcg,
 "Iodine",6.17,mcg,4 %
-"Iron",3.53,mg,20 %
-"Magnesium",79.01,mg,19 %
+"Iron",3.56,mg,20 %
+"Magnesium",70.61,mg,17 %
 "Manganese",0.519,mg,23 %
-"Phosphorus",456.56,mg,37 %
-"Potassium",921.67,mg,20 %
+"Phosphorus",334.56,mg,27 %
+"Potassium",933.17,mg,20 %
 "Selenium",26.98,mcg,49 %
-"Sodium",849.93,mg,37 %
+"Sodium",838.68,mg,36 %
 "Zinc",3.87,mg,35 %
-"Protein",32.51,g,65 %
+"Protein",32.26,g,65 %
 "Alanine",1.55,g,
 "Arginine",1.829,g,
 "Aspartic acid",2.647,g,
@@ -146,7 +146,7 @@ Calories,308,,
 "Fatty acids, total trans",0.127,g,
 "Fatty acids, total trans-monoenoic",0.089,g,
 "Fatty acids, total trans-polyenoic",0.036,g,
-"Cholesterol",139.99,mg,47 %
+"Cholesterol",140.49,mg,47 %
 "Phytosterols",4.82,mg,
 "25-hydroxycholecalciferol",0.07,mcg,
 "Alcohol, ethyl",0,g,
