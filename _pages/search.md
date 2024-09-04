@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe-category
 title: Search
 permalink: /search/
 ---

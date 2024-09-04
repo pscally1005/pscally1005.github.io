@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "What is a Serving Size?"
-date:   2024-08-26 00:00:00 -05000
+date:   2024-09-03 00:00:00 -05000
 categories: 
 - Misc.
 permalink: /misc/serving-sizes
-image: /assets/Misc/Servings/cover.jpg
+image: /assets/Misc/Serving/Servings-scaled.jpg
 tags: 
 - serving
 - serving size
@@ -41,6 +41,7 @@ tags:
 * <a rel="" target="" href="#casein">Casein Protein Powder</a><br>
 * <a rel="" target="" href="#cashews">Cashews</a><br>
 * <a rel="" target="" href="#cauliflower">Cauliflower (Frozen)</a><br>
+* <a rel="" target="" href="#celery">Celery</a><br>
 * <a rel="" target="" href="#chia-seeds">Chia Seeds</a><br>
 * <a rel="" target="" href="#chicken-breast">Chicken Breast (Boneless Skinless)</a><br>
 * <a rel="" target="" href="#chicken-thigh">Chicken Thighs (Boneless Skinless)</a><br>
@@ -80,8 +81,9 @@ tags:
 * <a rel="" target="" href="#mustard">Mustard (Dijon)</a><br>
 * <a rel="" target="" href="#nutritional-yeast">Nutritional Yeast</a><br>
 * <a rel="" target="" href="#oat-flour">Oat Flour</a><br>
-* <a rel="" target="" href="#olives">Olives</a><br>
 * <a rel="" target="" href="#oil">Oil</a><br>
+* <a rel="" target="" href="#olives">Olives</a><br>
+* <a rel="" target="" href="#onions">Onions</a><br>
 * <a rel="" target="" href="#pasta">Pasta (Whole Wheat)</a><br>
 * <a rel="" target="" href="#peanuts">Peanuts</a><br>
 * <a rel="" target="" href="#peanut-butter">Peanut Butter</a><br>
@@ -112,10 +114,12 @@ tags:
 * <a rel="" target="" href="#sweet-potato">Sweet Potato</a><br>
 * <a rel="" target="" href="#sweet-potato-puree">Sweet Potato Puree</a><br>
 * <a rel="" target="" href="#tilapia">Tilpaia</a><br>
+* <a rel="" target="" href="#tomatoes">Tomatoes</a><br>
 * <a rel="" target="" href="#tomato-sauce">Tomato Sauce (Canned, Unsweetened)</a><br>
 * <a rel="" target="" href="#tortilla-chips">Tortilla Chips</a><br>
 * <a rel="" target="" href="#vital-wheat-gluten">Vital Wheat Gluten</a><br>
 * <a rel="" target="" href="#walnuts">Walnuts</a><br>
+* <a rel="" target="" href="#watermelon">Watermelon</a><br>
 * <a rel="" target="" href="#whey">Whey Protein Powder</a><br>
 * <a rel="" target="" href="#yellow-squash">Yellow Squash</a><br>
 * <a rel="" target="" href="#yogurt">Yogurt (Plain, Nonfat, Greek)</a><br>
@@ -338,7 +342,7 @@ tags:
 {% assign nF = site.data.serving["cashews-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 ounce" 
+    vol1="1 ounce, about 50 halves" 
     gram1="28"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/cashews-scaled.jpg"
@@ -353,6 +357,17 @@ tags:
     gram1="85"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/cauliflower-scaled.jpg"
+%}<br>
+
+<div id="celery"></div>
+<br><i><font size="+2">Celery</font></i><br>
+{% assign nF = site.data.serving["celery-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="1 cup" 
+    gram1="101"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/celery-scaled.jpg"
 %}<br>
 
 <div id="chia-seeds"></div>
@@ -810,6 +825,17 @@ tags:
     img1="/assets/Misc/Serving/oat-flour-scaled.jpg"
 %}<br>
 
+<div id="oil"></div>
+<br><i><font size="+2">Oil</font></i><br>
+{% assign nF = site.data.serving["oil-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="1 tbsp" 
+    gram1="14"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/oil-scaled.jpg"
+%}<br>
+
 <div id="olives"></div>
 <br><i><font size="+2">Olives</font></i><br>
 {% assign nF = site.data.serving["olives-facts"] %}
@@ -821,15 +847,15 @@ tags:
     img1="/assets/Misc/Serving/olives-scaled.jpg"
 %}<br>
 
-<div id="oil"></div>
-<br><i><font size="+2">Oil</font></i><br>
-{% assign nF = site.data.serving["oil-facts"] %}
+<div id="onions"></div>
+<br><i><font size="+2">Onions</font></i><br>
+{% assign nF = site.data.serving["onion-facts"] %}
 {% 
     include serving_facts.html
-    vol1="1 tbsp" 
-    gram1="14"  
+    vol1="1 cup" 
+    gram1="160"  
     nutritionFacts=nF 
-    img1="/assets/Misc/Serving/oil-scaled.jpg"
+    img1="/assets/Misc/Serving/onion-scaled.jpg"
 %}<br>
 
 <div id="pasta"></div>
@@ -1184,6 +1210,17 @@ tags:
     img2="/assets/Misc/Serving/tilapia-cooked-scaled.jpg"
 %}<br>
 
+<div id="tomatoes"></div>
+<br><i><font size="+2">Tomatoes</font></i><br>
+{% assign nF = site.data.serving["tomato-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="1 cup" 
+    gram1="152"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/tomato-scaled.jpg"
+%}<br>
+
 <div id="tomato-sauce"></div>
 <br><i><font size="+2">Tomato Sauce (Canned, Unsweetened)</font></i><br>
 {% assign nF = site.data.serving["tomato-sauce-facts"] %}
@@ -1228,6 +1265,17 @@ tags:
     img1="/assets/Misc/Serving/walnuts-scaled.jpg"
 %}<br>
 
+<div id="watermelon"></div>
+<br><i><font size="+2">Watermelon</font></i><br>
+{% assign nF = site.data.serving["watermelon-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="1 cup" 
+    gram1="152"  
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/watermelon-scaled.jpg"
+%}<br>
+
 <div id="whey"></div>
 <br><i><font size="+2">Whey Protein Powder</font></i>: <a href="https://www.amazon.com/gp/product/B01KITQG0A/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">Nutricost, Unflavored</a><br>
 {% assign nF = site.data.serving["whey-facts"] %}
@@ -1248,6 +1296,7 @@ tags:
     gram1="115"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/yellow-squash-scaled.jpg"
+    img2="/assets/Misc/Serving/yellow-squash-cut-scaled.jpg"
 %}<br>
 
 <div id="yogurt"></div>

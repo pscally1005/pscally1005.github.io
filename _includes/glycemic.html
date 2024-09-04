@@ -1,0 +1,118 @@
+<!-- Only generate section if the page has an ingredients file -->
+{% if page.ing %}
+
+    <!-- Variables -->
+    {% assign totalGI = 0 %}
+    {% assign totalGI_numerator = 0 %}
+    {% assign totalCarbs = 0 %}
+    {% assign totalGL = 0 %}
+
+    <!-- Loop through all the ingredients -->
+    {% for row in site.data[page.ing] %}
+
+        <!-- Get # of servings -->
+        {% if forloop.last %}
+            {% assign servings = row["Amount"] | times: 1 %}
+            {% continue %}
+        {% endif %}
+
+        <!-- Get the food and gram measurements -->
+        {% assign food = row["Ingredient"] %}
+        {% assign mass = row["Amount"] | time: 1.0 %}
+
+        <!-- Variables for glycemic index & carbs per 100 g -->
+        {% assign GI = "" %}
+        {% assign unit_carbs = "" %}
+
+        <!-- Loop through rows of foods file -->
+        {% for row in site.data.foods %}
+
+            <!-- Assign GI & unit carbs -->
+            {% if row["Food"] == food %}
+                {% assign GI = row["Glycemic Index"] | times: 1.0 %}
+                {% assign unit_carbs = row["Carbs per 100 g"] | times: 1.0 %}
+                {% break %}
+            {% endif %}
+
+        {% endfor %}
+
+        <!-- No match found -->
+        {% if GI == "" %}
+            {% assign GI = -9999 | times: 1.0 %}
+        {% endif %}
+        {% if unit_carbs == "" %}
+            {% assign unit_carbs = -9999 | times: 1.0 %}
+        {% endif %}
+
+        <!-- Calculate carbs -->
+        {% assign left = mass | times: unit_carbs %}
+        {% assign carbs = left | divided_by: 100 %}
+
+        <!-- Calculate glycemic load of 1 ingredient per serving -->
+        {% assign numerator = GI | times: carbs %}
+        {% assign GL_all_servings = numerator | divided_by: 100 %}
+        {% assign GL = GL_all_servings | divided_by: servings %}
+
+        <!-- Testing -->
+        <!-- food:{{ food }} &emsp;&emsp; grams:{{ mass }} &emsp;&emsp; GI:{{ GI }} &emsp;&emsp; unit carbs:{{ unit_carbs }} &emsp;&emsp; C:{{ carbs }} &emsp;&emsp; GL:{{ GL }}<br><br> -->
+
+        <!-- Calculate total GI numerator for 1 serving -->
+        {% assign totalGI_numerator = totalGI_numerator | plus: numerator %}
+        {% assign totalCarbs = totalCarbs | plus: carbs %}
+
+        <!-- Calculate total GL of all ingredients for 1 serving  -->
+        {% assign totalGL = totalGL | plus: GL %}
+
+    {% endfor %}
+
+    <!-- Calculate total GI  for 1 serving -->
+    {% assign totalGI = totalGI_numerator | divided_by: totalCarbs %}
+
+    <!-- Testing -->
+    <!-- <br><br>totalGI:{{totalGI}} &emsp;&emsp; totalGL:{{totalGL}}<br><br> -->
+
+    <!-- Format GI to 1 decimal place -->
+    {% assign totalGI_split = totalGI | split: "." %}
+    {% assign totalGI_integral = totalGI_split[0] %}
+    {% assign totalGI_fraction = totalGI_split[1] || append: "0" | truncate: 1, "" %}
+
+    <!-- Format GL to 1 decimal place -->
+    {% assign totalGL_split = totalGL | split: "." %}
+    {% assign totalGL_integral = totalGL_split[0] %}
+    {% assign totalGL_fraction = totalGL_split[1] || append: "0" | truncate: 1, "" %}
+    
+    <!-- Color test -->
+    <!-- <font style="color:deeppink">27.9</font>
+    <font style="color:yellow">16.2</font>
+    <font style="color:lightgreen">5.4</font> -->
+
+    <!-- Assign colors -->
+    {% assign high = "deeppink" %}
+    {% assign med = "yellow" %}
+    {% assign low = "lightgreen" %}
+
+    <!-- Print GI & GL -->
+    <font size="+1">
+        <b>Glycemic Index: </b>
+        {% if totalGI >= 70 %}
+            <font style="color:{{high}}">
+        {% elsif totalGI < 70 and totalGI >= 56 %}
+            <font style="color:{{med}}">
+        {% else %}
+            <font style="color:{{low}}">
+        {% endif %}
+        {{ totalGI_integral }}.{{ totalGI_fraction }}</font><br>
+
+        <b>Glycemic Load: </b>
+        {% if totalGL >= 20 %}
+            <font style="color:{{high}}">
+        {% elsif totalGL < 20 and totalGL >= 10 %}
+            <font style="color:{{med}}">
+        {% else %}
+            <font style="color:{{low}}">
+        {% endif %}
+        {{ totalGL_integral }}.{{ totalGL_fraction }}</font><br>
+    </font>
+    <br>
+    
+{% endif %}

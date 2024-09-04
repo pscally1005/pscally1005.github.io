@@ -1,0 +1,55 @@
+Nutrient,Amount,Unit,DV
+Calories,41,,
+"Vitamin A, RAE",0.00,mcg,0 %
+"Carotene, alpha",0.00,mcg,
+"Cryptoxanthin, beta",0.00,mcg,
+"Lutein",144.40,mcg,
+"Lycopene",6232.00,mcg,
+"Zeaxanthin",13.68,mcg,
+"cis-Lutein/Zeaxanthin",18.24,mcg,
+"cis-Lycopene",842.08,mcg,
+"cis-beta-Carotene",74.48,mcg,
+"trans-beta-Carotene",597.36,mcg,
+"Thiamin [Vitamin B1]",0.114,mg,10 %
+"Riboflavin [Vitamin B2]",0.099,mg,8 %
+"Niacin [Vitamin B3]",1.224,mg,8 %
+"Vitamin B6",0.091,mg,5 %
+"Vitamin C [Ascorbic acid]",41.3,mg,46 %
+"Vitamin E (alpha-tocopherol)",1.49,mg,10 %
+"Tocopherol, alpha",1.49,mg,
+"Tocopherol, beta",0.03,mg,
+"Tocopherol, delta",0.18,mg,
+"Tocopherol, gamma",1.06,mg,
+"Tocotrienol, alpha",0.00,mg,
+"Tocotrienol, beta",0.00,mg,
+"Tocotrienol, delta",0.00,mg,
+"Tocotrienol, gamma",0.00,mg,
+"Vitamin K",6.4,mcg,5 %
+"Vitamin K1 [Phylloquinone]",6.4,mcg,
+"Vitamin K2 [Menaquinone]",0.0,mcg,
+"Dihydrophylloquinone",0.0,mcg,
+"Betaine",0.0,mg,
+"Choline",14.9,mg,3 %
+"Calcium",16.72,mg,1 %
+"Copper",0.09,mg,10 %
+"Iron",0.50,mg,3 %
+"Magnesium",18.09,mg,4 %
+"Manganese",0.184,mg,8 %
+"Phosphorus",42.56,mg,3 %
+"Potassium",395.20,mg,8 %
+"Sodium",9.12,mg,0 %
+"Zinc",0.30,mg,3 %
+"Protein",1.26,g,3 %
+"Carbohydrate",8.38,g,3 %
+"Fiber",3.19,g,11 %
+"Net carbs",5.19,g,
+"Fat",0.958,g,1 %
+"Ash",0.85,g,
+"Choline, free",12.16,mg,
+"Choline, from glycerophosphocholine",0.00,mg,
+"Choline, from phosphocholine",0.91,mg,
+"Choline, from phosphotidyl choline",1.82,mg,
+"Choline, from sphingomyelin",0.00,mg,
+"Cryptoxanthin, alpha",0.00,mcg,
+"Nitrogen",0.20,g,
+"Water",140.60,g,

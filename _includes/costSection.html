@@ -18,11 +18,11 @@
         {% assign food = row["Ingredient"] %}
         {% assign mass = row["Amount"] | time: 1.0 %}
 
-        <!-- Variable for cost file -->
+        <!-- Variable for food file -->
         {% assign unitCost = "" %}
 
-        <!-- Loop through rows of cost file -->
-        {% for row in site.data.costs %}
+        <!-- Loop through rows of food file -->
+        {% for row in site.data.foods %}
 
             <!-- Assign unit cost -->
             {% if row["Food"] == food %}
