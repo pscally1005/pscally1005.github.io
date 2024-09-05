@@ -1,3 +1,5 @@
+<center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
+
 <font size="+1">
 
 &emsp;Hi.  I'm Paul of Poor Man Protein, and I'm here to bring you healthy, cheap, and easy recipes that will leave your brain, body, and bank account feeling their best.  The goal of this website is to not only provide you with great ways to fuel your body, but to also provide education on nutrition, cooking science, and positive lifestyle habits.
