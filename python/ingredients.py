@@ -166,7 +166,7 @@ def ingredients(food):
         return str("Low sugar berry jam")
     elif food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":
         return str("Sugar free syrup")
-    elif food == "Almond flour by RALEY'S":
+    elif food == "Almond flour by RALEY'S" or food == "Almond flour by Supervalu, Inc.":
         return str("Almond flour")
     elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor" or food == "Pitted dates" or food == "Date":
         return str("Dates")
