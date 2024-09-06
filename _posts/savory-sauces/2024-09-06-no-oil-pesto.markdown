@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/oil-free-basil-pesto
-image: /assets/Food/Savory Sauces/No Oil Pesto/no-oil-pesto-cover.jpg
+image: /assets/Food/Savory Sauces/No Oil Pesto/no-oil-pesto.jpg
 ing: nooilpesto-ing
 facts: nooilpesto-facts
 section1: 
