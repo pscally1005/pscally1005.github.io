@@ -81,7 +81,7 @@
             
         {% endfor %}
 
-    - <font size="+1">{{ vol }} (<i><font style="color:lightgray">{{ mass }} {{ unit }}</font></i>) {{ food }} {% include costIngredients.html item=food amount=mass %}</font><br>
+    - <font size="+1">{{ vol }} (<i><font class="gray-text-themed">{{ mass }} {{ unit }}</font></i>) {{ food }} {% include costIngredients.html item=food amount=mass %}</font><br>
 
     {% endif %}
 {% endfor %}

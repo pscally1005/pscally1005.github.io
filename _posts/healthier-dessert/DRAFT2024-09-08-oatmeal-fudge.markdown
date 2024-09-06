@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Banana Oatmeal Fudge Bars"
-date:   2024-08-12 00:00:02 -05000
+date:   2024-09-08 00:00:02 -05000
 categories: 
 - Recipes
 - Healthier Dessert

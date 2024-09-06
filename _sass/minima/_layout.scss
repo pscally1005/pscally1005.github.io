@@ -406,3 +406,44 @@
   max-width: 50%;
   object-fit: cover;
 }
+
+/* Default (light theme) */
+body {
+  --default-text-color: rgb(0,0,0);
+  --green-text-color: rgb(0,128,0);
+  --yellow-text-color: rgb(255,140,0);
+  --red-text-color: rgb(255,0,0);
+  --gray-text-color: rgb(111, 111, 111);
+}
+
+@media (prefers-color-scheme: dark) {
+  /* Dark theme */
+  body {
+    --default-text-color: rgb(255,255,255);
+    --green-text-color: rgb(144,238,144);
+    --yellow-text-color: rgb(255,255,0);
+    --red-text-color: rgb(255,69,0);
+    --gray-text-color: rgb(211, 211, 211);
+  }
+}
+
+/* Apply the text color variable to elements */
+.default-text-themed {
+  color: var(--default-text-color);
+}
+
+.green-text-themed {
+  color: var(--green-text-color);
+}
+
+.yellow-text-themed {
+  color: var(--yellow-text-color);
+}
+
+.red-text-themed {
+  color: var(--red-text-color);
+}
+
+.gray-text-themed {
+  color: var(--gray-text-color);
+}

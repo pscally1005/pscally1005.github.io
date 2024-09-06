@@ -80,36 +80,26 @@
     {% assign totalGL_split = totalGL | split: "." %}
     {% assign totalGL_integral = totalGL_split[0] %}
     {% assign totalGL_fraction = totalGL_split[1] || append: "0" | truncate: 1, "" %}
-    
-    <!-- Color test -->
-    <!-- <font style="color:deeppink">27.9</font>
-    <font style="color:yellow">16.2</font>
-    <font style="color:lightgreen">5.4</font> -->
-
-    <!-- Assign colors -->
-    {% assign high = "deeppink" %}
-    {% assign med = "yellow" %}
-    {% assign low = "lightgreen" %}
 
     <!-- Print GI & GL -->
     <font size="+1">
         <b>Glycemic Index: </b>
         {% if totalGI >= 70 %}
-            <font style="color:{{high}}">
+            <font class="red-text-themed">
         {% elsif totalGI < 70 and totalGI >= 56 %}
-            <font style="color:{{med}}">
+            <font class="yellow-text-themed">
         {% else %}
-            <font style="color:{{low}}">
+            <font class="green-text-themed">
         {% endif %}
         {{ totalGI_integral }}.{{ totalGI_fraction }}</font><br>
 
         <b>Glycemic Load: </b>
         {% if totalGL >= 20 %}
-            <font style="color:{{high}}">
+            <font class="red-text-themed">
         {% elsif totalGL < 20 and totalGL >= 10 %}
-            <font style="color:{{med}}">
+            <font class="yellow-text-themed">
         {% else %}
-            <font style="color:{{low}}">
+            <font class="green-text-themed">
         {% endif %}
         {{ totalGL_integral }}.{{ totalGL_fraction }}</font><br>
     </font>

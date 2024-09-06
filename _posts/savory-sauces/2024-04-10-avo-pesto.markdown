@@ -38,7 +38,7 @@ tags:
 - nooch
 - grated cheese
 - parmesean
-Description: Anyone else love <a href="/misc/fake-healthy-foods#sauces">pesto</a>, but hate how oily it is? I've made lower oil pesto before, but now I'm fully going none, and instead using avocado for my fat. Hey look, I actually used pine nuts here too! (not peanuts this time lol, but I won't judge). Nutrition facts are for a 2 tbsp (32 g) serving
+Description: Anyone else love <a href="/misc/fake-healthy-foods#sauces">pesto</a>, but hate how oily it is? I've made lower oil pesto before, but now I'm fully going none, and instead using avocado for my fat. Hey look, I actually used pine nuts here too! (not peanuts this time lol, but I won't judge). Nutrition facts are for a 2 tbsp (32 g) serving<br>&emsp;Check out some of my other pesto recipes, with varying amounts of oil, different kinds of nuts, vegan versions, and high protein versions:<br>- <a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a><br>- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>- <a href="/recipes/evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a><br>- <a href="/recipes/creamy-pesto">Creamy Pesto Dip</a>
 Instructions: 
 - In a dry pan over medium heat, toast your pine nuts (1 oz is about 1/4 cup) for about 3 minutes, until they are fragrant and begin to brown. Any other nuts will work here; or use pumpkin seeds to make it nut free. Transfer to a food processor<br><br>
 - <center><img src="/assets/Food/Savory Sauces/Avo Pesto/avo-pesto-1.jpg" alt="" class="instruction-image"></center><br>
@@ -48,8 +48,6 @@ Instructions:
 
 - Transfer to an airtight container, and store in the fridge.  It works great as a pizza sauce, which I used on my <a href="cloud-bread">Low Carb Cloud Bread</a><br><br>
 - <center><img src="/assets/Food/Savory Sauces/Avo Pesto/avo-pesto-3.jpg" alt="" class="instruction-image"></center><br>
-
-- For other pesto variations, see my <a href="creamy-pesto">Creamy Pesto Dip</a> and <a href="evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a><br><br>
 
 - Pesto makes a great sauce for spaghetti squash.  Just like with my <a href="/recipes/vegan-mac-and-cheese">'Mac' and 'Cheese'</a>, you can mix it with roasted spaghetti squash for a delicious and healthier pasta alternative!<br><br>
 - <center><img src="/assets/Food/Savory Sauces/Avo Pesto/spaghetti-squash-pesto.jpg" alt="" class="instruction-image"></center>

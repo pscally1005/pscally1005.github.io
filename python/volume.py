@@ -73,7 +73,7 @@ def fix(vol):
         return str("1.25 cup")
     elif vol == "1.32 cup" or vol == "1.33 cup (240.0 ml) aprx":
         return str("1.33 cup")
-    elif vol == "1.555 cup, NFS" or vol == "3.25 1/2 cup" or vol == "1.5 cup, chunks" or vol == "1.5 cup pieces" or vol == "2 3/4 cup":
+    elif vol == "24 tbsp" or vol == "1.555 cup, NFS" or vol == "3.25 1/2 cup" or vol == "1.5 cup, chunks" or vol == "1.5 cup pieces" or vol == "2 3/4 cup":
         return str("1.5 cup")
     elif vol == "2 cup, frozen" or vol == "5 1/3 cup" or vol == "7.5 1/3 cup" or vol == "2 cup, chopped" or vol == "32 tbsp" or vol == "32 Tbsp" or vol == "1.855 cup":
         return str("2 cup")
@@ -219,6 +219,8 @@ def fix(vol):
         return str("5 large")
     elif vol == "6 egg":
         return str("6 large")
+    elif vol == "8 egg":
+        return str("8 large")
     
     # garlic
     elif vol == "11 clove" or vol == "15 clove":
