@@ -1,18 +1,29 @@
 <!-- Only generate section if the page has an ingredients file -->
 {% if page.ing %}
 
+    {% if include.ing %}
+        {% assign ing = include.ing %}
+    {% endif %}
+
     <!-- Variables -->
     {% assign totalGI = 0 %}
     {% assign totalGI_numerator = 0 %}
     {% assign totalCarbs = 0 %}
     {% assign totalGL = 0 %}
+    {% assign GL_all_servings = 0 %}
 
     <!-- Loop through all the ingredients -->
     {% for row in site.data[page.ing] %}
-
         <!-- Get # of servings -->
         {% if forloop.last %}
             {% assign servings = row["Amount"] | times: 1 %}
+            {% continue %}
+        {% endif %}
+    {% endfor %}
+
+    {% for row in site.data[page.ing] %}
+
+        {% if forloop.last %}
             {% continue %}
         {% endif %}
 
@@ -49,9 +60,15 @@
         {% assign carbs = left | divided_by: 100 %}
 
         <!-- Calculate glycemic load of 1 ingredient per serving -->
-        {% assign numerator = GI | times: carbs %}
-        {% assign GL_all_servings = numerator | divided_by: 100 %}
-        {% assign GL = GL_all_servings | divided_by: servings %}
+        {% if unit_carbs == 0 %}
+            {% assign numerator = 0 %}
+            {% assign GL_all_servings = 0 %}
+            {% assign GL = 0 %}
+        {% else %}
+            {% assign numerator = GI | times: carbs %}
+            {% assign GL_all_servings = numerator | divided_by: 100 %}
+            {% assign GL = GL_all_servings | divided_by: servings %}
+        {% endif %}
 
         <!-- Testing -->
         <!-- food:{{ food }} &emsp;&emsp; grams:{{ mass }} &emsp;&emsp; GI:{{ GI }} &emsp;&emsp; unit carbs:{{ unit_carbs }} &emsp;&emsp; C:{{ carbs }} &emsp;&emsp; GL:{{ GL }}<br><br> -->
