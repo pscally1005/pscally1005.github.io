@@ -1,8 +1,9 @@
 <!-- Only generate section if the page has an ingredients file -->
 {% if page.ing %}
 
+    {% assign ingredients = page.ing %}
     {% if include.ing %}
-        {% assign ing = include.ing %}
+        {% assign ingredients = include.ing %}
     {% endif %}
 
     <!-- Variables -->
@@ -10,10 +11,11 @@
     {% assign totalGI_numerator = 0 %}
     {% assign totalCarbs = 0 %}
     {% assign totalGL = 0 %}
+    {% assign servings = 0 %}
     {% assign GL_all_servings = 0 %}
 
     <!-- Loop through all the ingredients -->
-    {% for row in site.data[page.ing] %}
+    {% for row in site.data[ingredients] %}
         <!-- Get # of servings -->
         {% if forloop.last %}
             {% assign servings = row["Amount"] | times: 1 %}
@@ -21,7 +23,7 @@
         {% endif %}
     {% endfor %}
 
-    {% for row in site.data[page.ing] %}
+    {% for row in site.data[ingredients] %}
 
         {% if forloop.last %}
             {% continue %}
@@ -68,6 +70,7 @@
             {% assign numerator = GI | times: carbs %}
             {% assign GL_all_servings = numerator | divided_by: 100 %}
             {% assign GL = GL_all_servings | divided_by: servings %}
+            <!-- {{numerator}}&emsp;&emsp;{{GL_all_servings}}&&emsp;&emsp;{{servings}}&emsp;&emsp;{{GL}}<br> -->
         {% endif %}
 
         <!-- Testing -->
