@@ -122,6 +122,10 @@ def ingredients(food):
         return str("Unsweetened BBQ sauce")
     
     # Baking
+    elif food == "Now, whole psyllium husks by Now Health Group Inc.":
+        return str("Psyllium husks, whole")
+    elif food == "Millet flour":
+        return str("Millet flour")
     elif food == "Leavening agents, baking soda" or food == "Baking soda by The Kroger Co.":
         return str("Baking soda")
     elif food == "Baking powder by The Kroger Co." or food == "Baking powder by SE GROCERS" or food == "Baking powder by Raley's":
