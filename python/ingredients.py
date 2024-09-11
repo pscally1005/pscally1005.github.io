@@ -21,7 +21,7 @@ def ingredients(food):
         return str("Kidney beans, drained and rinsed")
     elif food == "Beans, raw, black":
         return str("Dried beans")
-    elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils":
+    elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils" or food == "Lentils, raw, pink or red":
         return str("Red split lentils")
     
     # Spices
@@ -412,6 +412,8 @@ def ingredients(food):
         return str("Pumpkin seed butter")
     elif food == "Baking chocolate, squares, unsweetened":
         return str("100% chocolate")
+    elif food == "Seeds, dried, pumpkin and squash seed kernels":
+        return str("Pumpkin seeds")
     
     # Carbs
     elif food == "Whole wheat protein tortillas by La Tortilla Factory Inc":

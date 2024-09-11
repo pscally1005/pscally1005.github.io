@@ -37,7 +37,6 @@ tags:
 - allspice
 - all spice
 - onions
-- diced tomatoes
 Description: This recipe is a modified version of my mom's casserole recipe. Fun fact - I hated this recipe as a kid, but I love it now. Maybe it was the nuts or the spinach, both of which I love now. Feel free to use whatever nuts you have on hand; here I used chopped pine nuts, but almonds or pistachios would work great. Ive used cauliflower rice as a substitute for <a href="/misc/fake-healthy-foods#white-rice">white rice</a>, but feel free to use brown rice (1 cup dry, 185 g) instead
 Instructions: 
 - Defrost your bag of spinach, and cut your onions into a small dice. Add to a large pan with oil, cumin, pepper, and salt. Cover and cook over medium heat until the onions are soft and translucent. Set aside in a bowl<br><br>

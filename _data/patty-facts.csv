@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,197,,
+Calories,183,,
 "Vitamin A, RAE",35.28,mcg,4 %
 "Carotene, alpha",6.87,mcg,
 "Carotene, beta",326.32,mcg,
@@ -79,8 +79,8 @@ Calories,197,,
 "Sucrose",0.05,g,
 "Net carbs",1.41,g,
 "0.05 g",0.01 g,undefined,0.20
-"Fat",9.747,g,12 %
-"Saturated fatty acids",3.531,g,18 %
+"Fat",8.137,g,10 %
+"Saturated fatty acids",3.301,g,17 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Docosanoic acid",0.001,g,
@@ -95,7 +95,7 @@ Calories,197,,
 "Tetracosanoic acid",0,g,
 "Tetradecanoic acid",0.212,g,
 "Tridecanoic acid",0,g,
-"Monounsaturated fatty acids",4.427,g,
+"Monounsaturated fatty acids",3.277,g,
 "Cis-octadecenoic acid",0.022,g,
 "Docosenoic acid",0,g,
 "Eicosenoic acid",0.024,g,
@@ -106,7 +106,7 @@ Calories,197,,
 "Tetracosenoic cis acid",0,g,
 "Tetradecenoic acid",0.048,g,
 "Trans-octadecenoic acid",0.395,g,
-"Polyunsaturated fatty acids",0.612,g,
+"Polyunsaturated fatty acids",0.44,g,
 "α-linolenic acid n-3 (ALA)",0.05,g,
 "γ-linolenic acid n-6 (GLA)",0.01,g,
 "Cis,cis-eicosadienoic n-6 acid",0,g,
