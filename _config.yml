@@ -73,3 +73,5 @@ minima:
 
 include:
   - _pages
+  - _pages/recipes
+  - _pages/misc

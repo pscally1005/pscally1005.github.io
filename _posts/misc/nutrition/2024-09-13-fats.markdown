@@ -1,0 +1,186 @@
+---
+layout: post
+title:  "Fat: The Innocent Criminal?"
+date:   2024-09-13 00:00:00 -05000
+categories: 
+- Misc.
+- Nutrition
+permalink: /misc/fats
+image: /assets/Misc/Fats/Fat.jpg
+tags: 
+- fat
+- unsaturated fat
+- good fats
+- healthy fats
+- saturated fat
+- trans fat
+- omega-3
+- omega 3
+---
+<u><font size="+2">Introduction</font></u><br>
+&emsp;For years, we were told that fats were the devil.  Low fat this and fat free that, no more eating meat and eggs, and a drastic increase consumption of refined grains.  I should specify that I have never been on a keto (high fat, low carb) diet.  But it is evident how wrong we got it.  In correct moderation and from the proper sources, fats are essential for daily life, and their replacement with more starch and sugar has been the main fuel for the recent obesity epidemic.
+
+<center><img src="/assets/Misc/Fats/trans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/obesity.png" alt="" class="smaller-image"></center><br>
+
+&emsp;There's 3 main categories of fats: unsaturated fat, saturated fat, and trans fats.  Think of these types of fats as a traffic light, where green is unsaturated, yellow is saturated, and red is trans.
+
+<center><img src="/assets/Misc/Fats/trans-fat.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/traffic-lights.png" alt="" class="smaller-image"></center><br>
+
+<u><font size="+2">Unsaturated Fat</font></u><br>
+&emsp;Unsaturated fats are typically thought of as the healthiest fat, and are broken down into mono-unsaturated fats and poly-unsaturated fats.  Increased unsaturated fat consumption has been shown to decrease inflammation, improve cholesterol, and support heart health.  In their pure form, these fat's are liquid at room temperature.  Think olive oil or canola oil (unsaturated fats) as opposed to coconut oil or butter (saturated fats).  Foods high in unsaterated fats include avocados, olives, nuts, seeds, and salmon.
+
+<center><img src="/assets/Misc/Fats/olive.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/nuts.png" alt="" class="smaller-image"></center><br>
+
+<u><font size="+2">Saturated Fat</font></u><br>
+&emsp;Saturated fats are somewhere in the middle, like a yellow light.  Sometimes you need to speed up, and sometimes you need to slow down.  Saturated fats are typically solid at room temperature, such as butter, lard, ghee, and coconut oil.  The downside is that high saturated fat consumption is linked to increased cholesterol, blood pressure, and other heart related issues.  However, adequate consumption of saturated fats is necessary for promoting healthy liver, bones, brain, heart, and nervous system.  Foods high in saturated fats include meats, eggs, and dairy.
+
+<center><img src="/assets/Misc/Fats/meat.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/dairy-products.png" alt="" class="smaller-image"></center><br>
+
+<u><font size="+2">Trans Fat</font></u><br>
+&emsp;Trans fats are easily the most harmful type of fat, and should be avoided at all costs.  They're so dangerous that the FDA outlawed them in the United States in 2018.  Consumption of trans fats are shown to increase LDL and decrease HDL, leading to an increased risk of diabetes, heart attack, and stroke.  They're creating by fully hydroginating unsaturated fats, and are used to make products more shelf stable.  They're typically found in products such as margarine and vegetable oil spread, fried foods, no stir peanut butter, microwave popcorn, and packaged baked goods.  
+
+<center><img src="/assets/Misc/Fats/heart-disease.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/skull.png" alt="" class="smaller-image"></center><br>
+
+<u><font size="+2">Fats: Risks</font></u><br>
+&emsp;Outside of trans and saturated fats, the main thing you'll hear people comment about fat is calories.  While carbs and protein each have about 4 calories per gram, fats on the other hand contain 9 calories per gram.  That means that any fatty food, both healthy and unhealthy, will inherently be higher in calories.  And while nutrition does go far beyond pure calorie count, is it very important to acknowledge that fatty foods are higher in calories.  Thus, consumption must be properly moderated as to not go over your caloric budget and cause unexpected weight gain.
+
+<center><img src="/assets/Misc/Fats/calories.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/body.png" alt="" class="smaller-image"></center><br>
+
+<u><font size="+2">Fats: Benefits</font></u><br>
+&emsp;The main benefit of fats is that they help your body absorb fat soluble vitamins.  As opposed to water soluble vitamins (such as all the B vitamins, vitamin C, and all minerals), fat soluble vitamins need to be consumed with fat in order to actually reap the benefits.  These include vitamins A, D, E, and K.  Have you ever wondered why a vitamin D supplement is a soft gel pill, as opposed to a hard regular pill?  This is why; it's packaged with an oil to help your body absorb the nutrients.
+
+<center><img src="/assets/Misc/Fats/vitamin-d.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/vitamin-e.png" alt="" class="smaller-image"></center><br>
+
+&emsp;Proper consumption of healthy fats is critical for regulating your blood pressure and cholesterol, as well as maintaining nerve and brain function.  Omega-3 fats in particular are extremely important; these are anti-inflammatory and lower your risk for diabetes, obesiety, CVD (cardiovascular disease), blood clots, cancer, and Alzheimer's.  Omega-3 fats are found in fatty fish like salmon and mackerel, and seeds like chia and flax.  There are 3 main types:
+<br>- ALA (alpha-linolenic acid)
+<br>- DHA (docosahexaenoic acid)
+<br>- EPA (eicosapentaenoic acid)
+
+<center><img src="/assets/Misc/Fats/fish-pills.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/heart.png" alt="" class="smaller-image"></center><br>
+
+<u><font size="+2">Foods to Avoid or Limit</font></u><br>
+- 80% lean ground beef or turkey
+- Chocolate (less than 70%)
+- Desserts:
+<br>&emsp;- Brownies
+<br>&emsp;- Cakes
+<br>&emsp;- Churros
+<br>&emsp;- Cookies
+<br>&emsp;- Donuts
+<br>&emsp;- Frosting
+<br>&emsp;- Ice cream
+<br>&emsp;- Nutella
+<br>&emsp;- Pies
+- Fatty cuts of steak or pork
+- Fatty dairy: 
+<br>&emsp;- Butter
+<br>&emsp;- Heavy cream
+<br>&emsp;- Ghee
+- Fried foods:
+<br>&emsp;- Arancini
+<br>&emsp;- Chicken nuggets
+<br>&emsp;- Corn dogs
+<br>&emsp;- Falafel
+<br>&emsp;- French fries
+<br>&emsp;- Fried calamari
+<br>&emsp;- Fried chicken
+<br>&emsp;- Onion rings
+- Frozen meals
+- Lard or tallow
+- Microwave popcorn
+- No stir peanut butter
+- Prepared bread and pie doughs
+- Processed meats:
+<br>&emsp;- Bacon
+<br>&emsp;- Cold cuts
+<br>&emsp;- Hot dogs
+<br>&emsp;- Pepperoni
+<br>&emsp;- Salami
+<br>&emsp;- Sausage
+- Salad dressings:
+<br>&emsp;- Balsamic vinaigrette
+<br>&emsp;- Caesar
+<br>&emsp;- Honey mustard
+<br>&emsp;- Italian dressing
+<br>&emsp;- Mayo
+<br>&emsp;- Ranch
+<br>&emsp;- Thousand island
+- Snacks:
+<br>&emsp;- Banana chips
+<br>&emsp;- Chocolate covered nuts
+<br>&emsp;- Doritos
+<br>&emsp;- Potato chips
+<br>&emsp;- Plantian chips
+<br>&emsp;- Tortilla chips
+<br>&emsp;- Veggie straws
+- Spreads
+<br>&emsp;- Margarine
+<br>&emsp;- Shortening
+<br>&emsp;- Vegetable oil spreads
+- Skin on chicken thighs
+- Vegetable/seed oils:
+<br>&emsp;- Canola oil
+<br>&emsp;- Corn oil
+<br>&emsp;- Cottonseed oil
+<br>&emsp;- Grapeseed oil
+<br>&emsp;- Peanut oil
+<br>&emsp;- Rice bran oil
+<br>&emsp;- Safflower oil
+<br>&emsp;- Soybean oil
+<br>&emsp;- Sunflower oil
+
+<center><img src="/assets/Misc/Fats/nuggets.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/butter.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/chips.png" alt="" class="smaller-image"></center><br>
+
+<u><font size="+2">Fatty Foods to Moderate or Consume Often</font></u><br>
+- 93% lean ground beef or turkey
+- Avocados
+- Cheese
+- Dark chocolate (at least 85%)
+- Edamame
+- Eggs
+- Fatty fish
+<br>&emsp;- Anchovies
+<br>&emsp;- Herring
+<br>&emsp;- Mackerel
+<br>&emsp;- Salmon
+<br>&emsp;- Sardines
+- Lean cuts of steak or pork
+- Lean dairy:
+<br>&emsp;- Cottage cheese
+<br>&emsp;- Milk
+<br>&emsp;- Yogurt
+- Natural nut and seed butters
+- Nuts
+<br>&emsp;- Almonds
+<br>&emsp;- Brazil nuts
+<br>&emsp;- Cashews
+<br>&emsp;- Macadamia nuts
+<br>&emsp;- Peanuts
+<br>&emsp;- Pecans
+<br>&emsp;- Pine nuts
+<br>&emsp;- Pistachios
+<br>&emsp;- Walnuts
+- Oils
+<br>&emsp;- Avocado oil
+<br>&emsp;- Almond oil
+<br>&emsp;- Extra virgin coconut oil
+<br>&emsp;- Extra virgin olive oil
+<br>&emsp;- Flaxseed oil
+- Olives
+- Seeds:
+<br>&emsp;- Chia seeds
+<br>&emsp;- Flax seeds
+<br>&emsp;- Hemp seeds
+<br>&emsp;- Poppy seeds
+<br>&emsp;- Pumpkin seeds
+<br>&emsp;- Sesame seeds
+<br>&emsp;- Sunflower seeds
+- Skinless chicken thighs
+
+<center><img src="/assets/Misc/Fats/nuts (1).png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/avocado.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/egg.png" alt="" class="smaller-image"></center><br>
+
+<u><font size="+2">Sources</font></u><br>
+1. <a href="https://www.flaticon.com/">Flaticon</a>
+2. <a href="https://www.youtube.com/watch?v=mIJ2_uac9Cc">The REAL Killers - Trans Fats</a>
+3. <a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550#:~:text=Unsaturated%20fats%20are%20usually%20liquid,unsaturated%20fats%3A%20monounsaturated%20and%20polyunsaturated.">Dietary fat: Know which to choose</a>
+4. <a href="https://my.clevelandclinic.org/health/articles/17290-omega-3-fatty-acids">Omega-3 Fatty Acids</a>

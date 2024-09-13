@@ -4,6 +4,7 @@ title:  "Trap Foods - Grains"
 date:   2024-08-23 00:00:00 -05000
 categories: 
 - Misc.
+- Nutrition
 - Archive
 permalink: /misc/trap-foods-grains
 image: /assets/Misc/Trap/grains.jpg

@@ -4,6 +4,7 @@ title:  "Trap Foods - Fruits & Veggies"
 date:   2024-08-23 00:00:00 -05000
 categories: 
 - Misc.
+- Nutrition
 - Archive
 permalink: /misc/trap-foods-produce
 image: /assets/Misc/Trap/produce.jpg

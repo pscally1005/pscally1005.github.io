@@ -4,6 +4,7 @@ title:  "Trap Foods - Drinks"
 date:   2024-08-23 00:00:00 -05000
 categories: 
 - Misc.
+- Nutrition
 - Archive
 permalink: /misc/trap-foods-drinks
 image: /assets/Misc/Trap/drinks.jpg

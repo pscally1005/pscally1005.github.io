@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Are Powdered Peanuts Worth It?"
+date:   2024-05-15 00:00:00 -05000
+categories: 
+- Misc.
+- Costs
+permalink: /misc/powdered-peanut-butter
+image: /assets/Misc/PB2/cover.jpg
+tags: 
+- experiment
+- peanut butter
+- pb2
+- pbfit
+- powdered peanut butter
+- protein
+- nuts
+---
+
+This is probably only something I've ever thought about, but I was wondering about the cost effectiveness of powdered peanut butter.  For those unaware, powdered peanut butter, or peanut flour, is dried and defatted peanuts, leading to to less fat and calories, but still with great peanut flavor and quite a bit of protein.  
+
+<center><img src="/assets/Misc/PB2/facts.jpg" alt="" class="larger-image"></center><br>
+It works very well in shakes, oatmeal, and baked goods, and is typically known under the brand names PB2 or PBFit, where a little bit of salt and sugar are added for flavor.
+
+<center><img src="/assets/Misc/PB2/ing.jpg" alt="" class="larger-image"></center><br>
+Getting your hands on it can be quite difficult though.  Some stores don't carry it, and the ones that they do have are often very expensive.  I only ever by the Walmart Great Value brand Powdered Peanut Butter, as it's much much cheaper than any other version on the market.  For comparison, this 30 oz (850 g) container is $10.48, which is <b>$5.59/lb</b>.  On the other hand, at Walmart, PB2 and PBFit are <b>$8.97/lb</b> and <b>$9.29/lb</b>, respectively.
+
+<center><img src="/assets/Misc/PB2/pb2.jpg" alt="" class="larger-image"></center><br>
+Obviously, even $5.59/lb is more expensive than regular peanut butter.  A standard no stir peanut butter is <b>$1.59/lb</b>, and a good natural peanut butter is <b>$2.92/lb</b> (my preferred brands being Teddie, Smuckers, or Trader Joe's).  
+
+<center><img src="/assets/Misc/PB2/no-stir-teddie.jpg" alt="" class="larger-image"></center><br>
+I actually haven't bought peanut butter in a long time, as I prefer to make it myself (see my <a href="/recipes/natural-peanut-butter">Homemade Natural Nut Butter</a>).  I really enjoy making nut butter for some reason, and it's often cheaper (<b>$2.48/lb</b>) to buy my own (dry roasted and unsalted) peanuts and grinding them myself into butter than it is to purchase a high quality peanut butter.
+
+<center><img src="/assets/Misc/PB2/nuts.jpg" alt="" class="larger-image"></center><br>
+The difference between peanut butter and powdered peanuts though is the amount of fat.  Meaning, if you reconstitute the peanut flour with an oil, what would it cost?  I will be comparing comparing the cost of peanut flour mixed with 2 oils: peanut oil and extra virgin olive oil, as well as 2 other liquids: water and unsweetened vanilla almond milk.
+
+Peanut oil seemed fitting, as we would essentially just be recreating peanut butter by adding the same fat back into it.  I would expect this to be more expensive than purchasing peanut butter, but I'm curious as to how much.  Obviously you would never do this in practice, I don't think I need to tell you why not to add the same fat back into your defatted product; just buy peanut butter at that point lmao.
+
+As for the EVOO, this will certainly be more expensive than just buying peanut butter.  EVOO is probably the healthiest fat out there, so this could be a great option in a pinch, as well as imparting a mild olive oil taste that I actually enjoy.
+
+I've done this before in my <a href="/recipes/reconstituted-peanut-butter">Reconstituted Peanut Butter</a>, where I calculated that <b>18 g (3 tbsp)</b> of powdered peanuts plus <b>14 g (1 tbsp)</b> of oil gets you to a <b>32 g (2 tbsp)</b> serving of peanut butter with identical macros as the real deal.  Because oil and water bond differently, using water/milk has a different ratio to get the same consistency: about <b>12 g (2 tbsp)</b> powdered peanuts to <b>20 g (4 tsp)</b> of water/milk.
+
+<center><img src="/assets/Misc/PB2/oil-milk.jpg" alt="" class="larger-image"></center><br>
+This 1 gallon container of peanut oil is $17.16, which comes out to about <b>$2.17/lb</b>.  On the other hand, this 17 fl oz EVOO is $6.44, or <b>$6.12/lb</b>.  Already, we can see that the EVOO is nearly 3 times as expensive as the peanut oil.  Obviously the water is free, and the unsweetened vanilla almond milk is about <b>$0.58/lb</b>
+
+After crunching the numbers, it seems that the Peanut Oil reconstituted spread is approximately <b>$4.10/lb</b>, whereas the EVOO one is a steep <b>$5.83/lb</b>. A batch of just water would cost <b>$2.10/lb</b>, and one with unsweetened vanilla almond milk would run you <b>$2.46/lb</b>.  
+
+<center><img src="/assets/Misc/PB2/math-peanut-oil.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/PB2/math-evoo.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/PB2/math-water.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/PB2/math-milk.jpg" alt=""></center><br>
+This surprised me; using water or even almond milk is actually cheaper per pound than natural peanut butter, though you are ending up with a substantially different product.  Most of the time I use PB2, I don't make a peanut spread with water and the powder as directed.  Instead, I mix a spoonful into my yogurt or oatmeal, or I use as a flour replacement in a healthier dessert or protein powder snack.
+
+Or you can get the best of both worlds in this <a href="/recipes/low-fat-peanut-butter">Low Fat Peanut Butter</a> spread, which is a 50/50 split between homemade natural peanut butter, and the almond milk PB2 peanut butter.  If the runny texture of natural peanut butter has always bothered you, then check this one out;  it's thicker like a no stir peanut butter, but free of the hydroginated oils.

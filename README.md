@@ -8,6 +8,4 @@
 
 &emsp; I soon discovered I liked to also do research into ways to make ourselves function better, like prioritizing exercise, sleep, and (the main focus of this website) diet.  Making healthy meals, snacks, and desserts is my bread and butter (🥁), and one of my favorite pastimes.  My goal here is to provide you with recipes that are simple, cheap, healthy, and yet still taste great.  These recipes were developed as a busy college student on a budget and now full time worker.
 
-&emsp;I also have some miscellaneous python scripts that I've written that you can find on <a href="/python">this page</a>.  Some are related to nutrition, and some are not.  Just some little bits of code that I've messed around with in the past.
-
 </font>

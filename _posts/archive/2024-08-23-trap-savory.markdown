@@ -4,6 +4,7 @@ title:  "Trap Foods - Savory Sauces"
 date:   2024-08-23 00:00:00 -05000
 categories: 
 - Misc.
+- Nutrition
 - Archive
 permalink: /misc/trap-foods-savory
 image: /assets/Misc/Trap/savory.jpg

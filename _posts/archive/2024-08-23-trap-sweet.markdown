@@ -4,6 +4,7 @@ title:  "Trap Foods - Sweet Spreads"
 date:   2024-08-23 00:00:00 -05000
 categories: 
 - Misc.
+- Nutrition
 - Archive
 permalink: /misc/trap-foods-sweet-spreads
 image: /assets/Misc/Trap/sweet.jpg
