@@ -115,6 +115,7 @@ tags:
 * <a rel="" target="" href="#sweet-potato">Sweet Potato</a><br>
 * <a rel="" target="" href="#sweet-potato-puree">Sweet Potato Puree</a><br>
 * <a rel="" target="" href="#tilapia">Tilpaia</a><br>
+* <a rel="" target="" href="#tofu">Tofu</a><br>
 * <a rel="" target="" href="#tomatoes">Tomatoes</a><br>
 * <a rel="" target="" href="#tomato-sauce">Tomato Sauce (Canned, Unsweetened)</a><br>
 * <a rel="" target="" href="#tortilla-chips">Tortilla Chips</a><br>
@@ -1207,6 +1208,18 @@ tags:
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/tilapia-raw-scaled.jpg"
     img2="/assets/Misc/Serving/tilapia-cooked-scaled.jpg"
+%}<br>
+
+<div id="tofu"></div>
+<br><i><font size="+2">Tofu</font></i><br>
+{% assign nF = site.data.serving["tofu-facts"] %}
+{% 
+    include serving_facts.html
+    vol1="3 ounces raw" 
+    gram1="85"
+    nutritionFacts=nF 
+    img1="/assets/Misc/Serving/tofu-raw-scaled.jpg"
+    img2="/assets/Misc/Serving/tofu-cooked-scaled.jpg"
 %}<br>
 
 <div id="tomatoes"></div>

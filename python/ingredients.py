@@ -458,6 +458,8 @@ def ingredients(food):
         return str("Pork tenderloin")
     elif food == "Shredded rotisserie chicken, rotisserie by Target Stores":
         return str("Shredded rotisserie chicken")
+    elif food == "Extra firm tofu":
+        return str("Tofu, firm")
     
     # Else
     else:
