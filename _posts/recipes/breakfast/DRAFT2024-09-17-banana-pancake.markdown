@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Banana Protein Pancakes"
-date:   2024-09-15 00:00:00 -0500
+date:   2024-09-17 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
