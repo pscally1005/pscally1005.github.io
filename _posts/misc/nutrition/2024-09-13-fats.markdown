@@ -59,8 +59,6 @@ tags:
 <center><img src="/assets/Misc/Fats/fish-pills.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/heart.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Foods to Avoid or Limit</font></u><br>
-- 80% lean ground beef or turkey
-- Chocolate (less than 70%)
 - Desserts:
 <br>&emsp;- Brownies
 <br>&emsp;- Cakes
@@ -71,11 +69,15 @@ tags:
 <br>&emsp;- Ice cream
 <br>&emsp;- Nutella
 <br>&emsp;- Pies
-- Fatty cuts of steak or pork
+<center><img src="/assets/Misc/Fats/cookie.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/pie.png" alt="" class="smaller-image"></center><br>
+
 - Fatty dairy: 
 <br>&emsp;- Butter
+<br>&emsp;- Cheese
 <br>&emsp;- Heavy cream
 <br>&emsp;- Ghee
+<center><img src="/assets/Misc/Fats/butter.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/cheese.png" alt="" class="smaller-image"></center><br>
+
 - Fried foods:
 <br>&emsp;- Arancini
 <br>&emsp;- Chicken nuggets
@@ -85,11 +87,16 @@ tags:
 <br>&emsp;- Fried calamari
 <br>&emsp;- Fried chicken
 <br>&emsp;- Onion rings
-- Frozen meals
-- Lard or tallow
-- Microwave popcorn
-- No stir peanut butter
-- Prepared bread and pie doughs
+<center><img src="/assets/Misc/Fats/fried-potatoes.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/nuggets.png" alt="" class="smaller-image"></center><br>
+
+- Meat:
+<br>&emsp;- 80% lean ground beef or turkey
+<br>&emsp;- Fatty cuts of steak or pork
+<br>&emsp;- Lard
+<br>&emsp;- Skin on chicken thighs
+<br>&emsp;- Tallow
+<center><img src="/assets/Misc/Fats/cheese-burger.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/beef.png" alt="" class="smaller-image"></center><br>
+
 - Processed meats:
 <br>&emsp;- Bacon
 <br>&emsp;- Cold cuts
@@ -97,6 +104,8 @@ tags:
 <br>&emsp;- Pepperoni
 <br>&emsp;- Salami
 <br>&emsp;- Sausage
+<center><img src="/assets/Misc/Fats/bacon.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/sausages.png" alt="" class="smaller-image"></center><br>
+
 - Salad dressings:
 <br>&emsp;- Balsamic vinaigrette
 <br>&emsp;- Caesar
@@ -105,19 +114,27 @@ tags:
 <br>&emsp;- Mayo
 <br>&emsp;- Ranch
 <br>&emsp;- Thousand island
+<center><img src="/assets/Misc/Fats/mayonnaise.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/ranch.png" alt="" class="smaller-image"></center><br>
+
 - Snacks:
 <br>&emsp;- Banana chips
-<br>&emsp;- Chocolate covered nuts
+<br>&emsp;- Chocolate (less than 70%)
+<br>&emsp;- Chocolate covered fruit and nuts
 <br>&emsp;- Doritos
+<br>&emsp;- Microwave popcorn
+<br>&emsp;- No stir peanut butter
 <br>&emsp;- Potato chips
 <br>&emsp;- Plantian chips
 <br>&emsp;- Tortilla chips
 <br>&emsp;- Veggie straws
-- Spreads
+<center><img src="/assets/Misc/Fats/chips.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/chocolate.png" alt="" class="smaller-image"></center><br>
+
+- Spreads:
 <br>&emsp;- Margarine
 <br>&emsp;- Shortening
 <br>&emsp;- Vegetable oil spreads
-- Skin on chicken thighs
+<center><img src="/assets/Misc/Fats/toast.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/butter (1).png" alt="" class="smaller-image"></center><br>
+
 - Vegetable/seed oils:
 <br>&emsp;- Canola oil
 <br>&emsp;- Corn oil
@@ -129,55 +146,68 @@ tags:
 <br>&emsp;- Soybean oil
 <br>&emsp;- Sunflower oil
 
-<center><img src="/assets/Misc/Fats/nuggets.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/butter.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/chips.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Fats/oil.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/polyunsaturated-fat.png" alt="" class="smaller-image"></center><br>
 
-<u><font size="+2">Fatty Foods to Moderate or Consume Often</font></u><br>
-- 93% lean ground beef or turkey
-- Avocados
-- Cheese
-- Dark chocolate (at least 85%)
-- Edamame
-- Eggs
-- Fatty fish
+<u><font size="+2">Foods to Moderate or Consume Often</font></u><br>
+- Produce:
+<br>&emsp;- Avocados
+<br>&emsp;- Edamame
+<br>&emsp;- Olives
+<center><img src="/assets/Misc/Fats/avocado.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/olive (1).png" alt="" class="smaller-image"></center><br>
+
+- Fish:
 <br>&emsp;- Anchovies
 <br>&emsp;- Herring
 <br>&emsp;- Mackerel
 <br>&emsp;- Salmon
 <br>&emsp;- Sardines
-- Lean cuts of steak or pork
+<center><img src="/assets/Misc/Fats/sardines.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/salmon.png" alt="" class="smaller-image"></center><br>
+
 - Lean dairy:
 <br>&emsp;- Cottage cheese
+<br>&emsp;- Greek yogurt
 <br>&emsp;- Milk
-<br>&emsp;- Yogurt
-- Natural nut and seed butters
-- Nuts
+<center><img src="/assets/Misc/Fats/yogurt.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/milk.png" alt="" class="smaller-image"></center><br>
+
+- Meat & Eggs:
+<br>&emsp;- 93% lean ground beef or turkey
+<br>&emsp;- Eggs
+<br>&emsp;- Lean cuts of steak or pork
+<br>&emsp;- Skinless chicken thighs
+<center><img src="/assets/Misc/Fats/egg.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/minced-meat.png" alt="" class="smaller-image"></center><br>
+
+- Nuts & Chocolate:
 <br>&emsp;- Almonds
 <br>&emsp;- Brazil nuts
 <br>&emsp;- Cashews
+<br>&emsp;- Dark chocolate (at least 85%)
 <br>&emsp;- Macadamia nuts
+<br>&emsp;- Natural nut butters
 <br>&emsp;- Peanuts
 <br>&emsp;- Pecans
 <br>&emsp;- Pine nuts
 <br>&emsp;- Pistachios
 <br>&emsp;- Walnuts
-- Oils
+<center><img src="/assets/Misc/Fats/nuts (1).png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/pistachio.png" alt="" class="smaller-image"></center><br>
+
+- Oils:
 <br>&emsp;- Avocado oil
 <br>&emsp;- Almond oil
 <br>&emsp;- Extra virgin coconut oil
 <br>&emsp;- Extra virgin olive oil
 <br>&emsp;- Flaxseed oil
-- Olives
+<center><img src="/assets/Misc/Fats/coconut-oil.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/olive-oil.png" alt="" class="smaller-image"></center><br>
+
 - Seeds:
 <br>&emsp;- Chia seeds
 <br>&emsp;- Flax seeds
 <br>&emsp;- Hemp seeds
+<br>&emsp;- Natural seed butters
 <br>&emsp;- Poppy seeds
 <br>&emsp;- Pumpkin seeds
 <br>&emsp;- Sesame seeds
 <br>&emsp;- Sunflower seeds
-- Skinless chicken thighs
-
-<center><img src="/assets/Misc/Fats/nuts (1).png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/avocado.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/egg.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Fats/sesame.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/sesame (1).png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Sources</font></u><br>
 1. <a href="https://www.flaticon.com/">Flaticon</a>

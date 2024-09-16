@@ -55,4 +55,7 @@ Instructions:
 
 - Try making an ice cream sandwich with some banana ice cream<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Date Cookie/date-cookie-7.jpg" alt="" class="instruction-image"></center><br>
+
+- Or leave out the baking soda and enjoy as edible cookie dough bites<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Date Cookie/cookie-dough.jpg" alt="" class="instruction-image"></center>
 ---
