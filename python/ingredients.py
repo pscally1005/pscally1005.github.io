@@ -388,7 +388,7 @@ def ingredients(food):
         return str("Sugar free chocolate chips")
     elif food == "90% cocoa dark chocolate by Lindt" or food == "90% cocoa dark chocolate by Lindt & Sprungli (Schweiz) AG":
         return str("90% chocolate")
-    elif food == "Raw cashews" or food == "Nuts, raw, cashew nuts":
+    elif food == "Raw cashews" or food == "Nuts, raw, cashew nuts" or food == "Nuts, with salt added, dry roasted, cashew nuts":
         return str("Cashews")
     elif food == "Raisins, seedless, dark":
         return str("Raisins")

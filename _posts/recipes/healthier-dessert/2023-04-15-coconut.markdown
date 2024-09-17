@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Healthier Dessert
 permalink: /recipes/coconut-macaroons
-image: /assets/Food/Healthier Dessert/Coconut/coconut-cover.jpg
+image: /assets/Food/Healthier Dessert/Coconut/cover.jpg
 ing: coconut-ing
 facts: coconut-facts
 section1: 
@@ -32,16 +32,22 @@ tags:
 - unsweetened coconut
 - flakes
 - macaron
+- macaroon
 - vic
+- gluten free
+- low carb
 Description: Coconut macaroons are such a simple healthy dessert, and are great for all you coconut lovers out there. I personally don't like coconut, but even I admit these are hay in the needle stack. To use up those extra yolks though, check out my <a href="hollandaise">Greek Yogurt Hollandaise Sauce</a>
 Instructions: 
-- Beat together egg whites until soft peaks in a glass bowl<br><br>
+- With a hand mixer, beat together egg whites until soft peaks in a glass bowl.  Carton egg white will work as well.  66 g is about 4 tbsp + 1 tsp<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Coconut/egg-whites.jpg" alt="" class="instruction-image"></center><br>
 
-- Fold in honey, vanilla, almond extract, and salt. Mix in coconut and oats until fully combined and sticky<br><br>
+- Fold in honey, vanilla, almond extract, and salt. Mix in coconut and oats until fully combined and sticky.  Chill the dough in the fridge for 30 minutes to harden<br><br>
 
-- Scoop cookies onto a lined baking sheet. Shape with your fingers if falling apart. Chill in fridge for 30 minutes<br><br>
+- Line a baking sheet with parchment paper.  Use a cookie scoop to scoop the dough, and press it down with your hands in the scoop.  Place onto the sheet, and you should have nice sphere-like cookies.  Shape with your fingers if needed<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Coconut/raw.jpg" alt="" class="instruction-image"></center><br>
 
 - Bake at 325F for 15 minutes. Cookies will be lightly browned in the top and golden/dark on the bottom. Transfer to a wire rack to cool<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Coconut/cooling.jpg" alt="" class="instruction-image"></center><br>
 
 - Optionally drizzle with melted chocolate (2 tbsp, 25 g), or dip the bottoms in chocolate
 ---

@@ -51,6 +51,7 @@ tags:
 <center><img src="/assets/Misc/Substitutions/switch.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/diet.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Substitutions</font></u><br>
+* <a rel="" target="" href="#beans">Beans</a><br>
 * <a rel="" target="" href="#flours">Flours</a><br>
 * <a rel="" target="" href="#grains">Grains</a><br>
 * <a rel="" target="" href="#meat">Meat</a><br>
@@ -62,6 +63,22 @@ tags:
 * <a rel="" target="" href="#yogurt">Yogurt</a><br>
 
 <center><img src="/assets/Misc/Substitutions/food.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/cooking (1).png" alt="" class="smaller-image"></center><br>
+
+<div id="beans"></div>
+<i><font size="+2">Beans</font></i><br>
+&emsp;I use cans of beans interchangeably.  To me, all beans are the same; just a different color and shape (with minor nutritional differences).  Put chickpeas in your chili, use black beans for hummus, put pinto beans in a salad, I don't care; they're all the same to me anyway:
+- Black beans
+- Black eyes peas
+- Cannellini beans
+- Chickpeas (garbanzo beans)
+- Dark red kidney beans
+- Fava beans
+- Light red kidney beans
+- Navy beans
+- Pink beans
+- Pinto beans
+
+<center><img src="/assets/Misc/Substitutions/beans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/beans (1).png" alt="" class="smaller-image"></center><br>
 
 <div id="flours"></div>
 <i><font size="+2">Flours</font></i><br>
