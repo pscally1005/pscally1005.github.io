@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Carbs: The Devil in Disguise?"
-date:   2024-09-16 00:00:00 -05000
+date:   2024-09-19 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
@@ -81,7 +81,7 @@ tags:
 &emsp;Additionally, healthy carb sources (listed below) are great sources of many micronutrients, particularly vitamin A (carrots and sweet potatoes), vitamin C (citrus fruits), iron (beans and oats), potassium (bananas and sweet potatoes), and fiber (everything).  While, in isolation, sugar from an apple isn't too different from the sugar from a cookie, there are some very key differences.  Added sugars enter the blood stream way faster than whole food sources of sugar due to the precense of protein, fat, fiber, and water.  The same grams of carbs from an apple will cause a significantly lower rise in your blood sugar as compared to added sugars, even with the same amount of calories.  Whole food carbs sources also promote satiety, helping you stay full for longer, not overeat, and prevent weight gain.
 <center><img src="/assets/Misc/Carbs/veins.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Carbs/energy.png" alt="" class="smaller-image"></center>
 <br>
-<u><font size="+2">Foods to Avoid or Limit</font></u><br>
+<u><font size="+2">High Carb Foods to Avoid or Limit</font></u><br>
 - Breakfast foods:
 <br>&emsp;- Bagels
 <br>&emsp;- Cereal
@@ -178,7 +178,7 @@ tags:
 <br>&emsp;- Tortillas
 <center><img src="/assets/Misc/Carbs/bread.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Carbs/pasta.png" alt="" class="smaller-image"></center>
 <br>
-<u><font size="+2">Foods to Moderate or Consume Often</font></u><br>
+<u><font size="+2">High Carb Foods to Moderate or Consume Often</font></u><br>
 - Fruits:
 <br>&emsp;- Apples
 <br>&emsp;- Avocados

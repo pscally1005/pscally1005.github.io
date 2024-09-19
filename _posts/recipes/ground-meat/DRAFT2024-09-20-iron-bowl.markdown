@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Iron Bowl"
-date:   2024-09-11 00:00:00 -05000
+date:   2024-09-20 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat

@@ -58,7 +58,7 @@ tags:
 
 <center><img src="/assets/Misc/Fats/fish-pills.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/heart.png" alt="" class="smaller-image"></center><br>
 
-<u><font size="+2">Foods to Avoid or Limit</font></u><br>
+<u><font size="+2">Fatty Foods to Avoid or Limit</font></u><br>
 - Desserts:
 <br>&emsp;- Brownies
 <br>&emsp;- Cakes
@@ -80,7 +80,7 @@ tags:
 
 - Fried foods:
 <br>&emsp;- Arancini
-<br>&emsp;- Chicken nuggets
+<br>&emsp;- Chicken fingers and nuggets
 <br>&emsp;- Corn dogs
 <br>&emsp;- Falafel
 <br>&emsp;- French fries
@@ -148,7 +148,7 @@ tags:
 
 <center><img src="/assets/Misc/Fats/oil.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/polyunsaturated-fat.png" alt="" class="smaller-image"></center><br>
 
-<u><font size="+2">Foods to Moderate or Consume Often</font></u><br>
+<u><font size="+2">Fatty Foods to Moderate or Consume Often</font></u><br>
 - Produce:
 <br>&emsp;- Avocados
 <br>&emsp;- Edamame
