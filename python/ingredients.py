@@ -144,7 +144,7 @@ def ingredients(food):
         return str("Coconut flour")    
     elif food == "Cereals, Dry, Quick Oats, QUAKER" or food == "Cereals, Dry, Quick Oats with Iron, QUAKER" or food == "Quick cook rolled oats by BRANDLESS":
         return str("Quick oats")
-    elif food == "Rolled oats whole grain by Bob's Red Mill Natural Foods, Inc.":
+    elif food == "Rolled oats whole grain by Bob's Red Mill Natural Foods, Inc." or food == "Oats by The Quaker Oats Company":
         return str("Rolled oats")
     elif food == "Unsweetened coconut flakes by Hy-Vee, Inc." or food == "Shredded unsweetened coconut by Bob's Red Mill Natural Foods, Inc.":
         return str("Unsweetened coconut flakes")
@@ -152,7 +152,7 @@ def ingredients(food):
         return str("Unsweetened applesauce")
     elif food == "Raw pure honey":
         return str("Honey")
-    elif food == "Chia seeds by GREENWISE" or food == "Chia seed by NO BRAND":
+    elif food == "Chia seeds by GREENWISE" or food == "Chia seed by NO BRAND" or food == "Chia seed by Hy-Vee, Inc.":
         return str("Chia seeds")
     elif food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc.":
         return str("Ground flaxseed")
@@ -402,7 +402,7 @@ def ingredients(food):
         return str("Pine nuts")
     elif food == "Nuts, pecans, or peanuts" or food == "Nuts, pecans":
         return str("Pecans")
-    elif food == "Seeds, with salt added, dry roasted, sunflower seed kernels":
+    elif food == "Seeds, with salt added, dry roasted, sunflower seed kernels" or food == "Seeds, dried, sunflower seed kernels":
         return str("Sunflower kernels")
     elif food == "Nuts, with salt added, dry roasted, pistachio nuts" or food == "Dry roasted pistachios" or food == "Nuts, raw, pistachios":
         return str("Pistachios")
@@ -412,7 +412,7 @@ def ingredients(food):
         return str("Pumpkin seed butter")
     elif food == "Baking chocolate, squares, unsweetened":
         return str("100% chocolate")
-    elif food == "Seeds, dried, pumpkin and squash seed kernels":
+    elif food == "Seeds, dried, pumpkin and squash seed kernels" or food == "Seeds, without salt, roasted, pumpkin and squash seed kernels":
         return str("Pumpkin seeds")
     
     # Carbs

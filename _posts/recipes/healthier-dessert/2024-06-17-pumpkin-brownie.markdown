@@ -51,7 +51,7 @@ Instructions:
 
 - Transfer the batter to a parchment line 8" square pan that's lined with parchment paper and sprayed with oil<br><br>
 
-- Wipe your both with a paper towel, and beat together the swirl topping ingredients (puree, seed butter, and liquid sweetener) with a hand mixer until fully combined<br><br>
+- Rinse off both the bowl and the mixer, and beat together the swirl topping ingredients (puree, seed butter, and liquid sweetener) with a hand mixer until fully combined<br><br>
 
 - Dollop the pumpkin topping on top of the brownies, and swirl as best as you can with a toothpick. I mixed it in too much here; ideally you can get more visible streaks of orange against the brown brownie background<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownie-6.jpg" alt="" class="instruction-image"></center><br>

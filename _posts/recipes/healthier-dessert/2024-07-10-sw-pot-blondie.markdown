@@ -44,7 +44,7 @@ tags:
 - sugar free syrup
 - maple syrup
 - honey
-Description: These delicious chocolate chip peanut butter blondies use sweet potatoes as a base, leaving them rich, delicious, and slightly cakey with much less fat and sugar. You can swap out the chocolate chips for chopped nuts or seeds to make them a breakfast bar too!  You can use either <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a> or <a href="roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a> here, or just use canned pumpkin puree.  For more sweet potato based desserts, see my fudgy <a href="sweet-potato-brownies">Sweet Potato Brownies (SF)</a>
+Description: These delicious chocolate chip peanut butter blondies use sweet potatoes as a base, leaving them rich, delicious, and slightly cakey with much less fat and sugar. You can swap out the chocolate chips for chopped nuts or seeds to make them a breakfast bar too!  You can use either <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>, or just use canned pumpkin puree.  For more sweet potato based desserts, see my fudgy <a href="sweet-potato-brownies">Sweet Potato Brownies (SF)</a>
 Instructions: 
 - In a large bowl, combine all the ingredients (except chocolate chips) with a hand mixer until smooth and thoroughly mixed.  Fold in the chocolate chips with a spatula<br><br>
 

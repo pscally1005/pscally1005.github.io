@@ -1,5 +1,6 @@
 Food,Cost ($),Size (g),Unit Cost ($/g),Glycemic Index,Carbs per 100 g
 Water,0.00,1.00,0.00000,0,0
+"Water, warm",0.00,1.00,0.00000,0.00,0.00
 "Chickpeas, drained and rinsed",0.86,255.00,0.00337,28,13.49
 "Pinto beans, drained and rinsed",0.86,255.00,0.00337,39,20.22
 "Pinto Beans, drained and rinsed",0.86,255.00,0.00337,39,20.22
