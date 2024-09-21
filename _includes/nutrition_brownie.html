@@ -4,6 +4,11 @@
     {% assign facts = include.facts %}
 {% endif %}
 
+{% assign ingredients = page.ing %}
+{% if include.ing %}
+    {% assign ingredients = include.ing %}
+{% endif %}
+
 <!-- Print section title -->
 {% if facts %}
     <b><u><font size="+2">Nutrition Facts</font></u></b><br>
@@ -131,12 +136,12 @@
 {% if trans != "" %} 
     &emsp;<b>Trans Fat</b>: {{ trans }}<br>
 {% endif %}
-{% if poly != "" %} 
+<!-- {% if poly != "" %} 
     &emsp;<b>Polyunsaturated Fat</b>: {{ poly }}<br>
 {% endif %}
 {% if mono != "" %} 
     &emsp;<b>Monounsaturated Fat</b>: {{ mono }}<br>
-{% endif %}
+{% endif %} -->
 {% if chol != "" %} 
     <b>Cholesterol</b>: {{ chol }}<br>
 {% endif %}
@@ -156,7 +161,7 @@
     <b>Protein</b>: {{ prot }}<br>
 {% endif %}
 ------------------------------------------<br>
-{% if vitB12 != "" %} 
+<!-- {% if vitB12 != "" %} 
     <b>Vitamin B12</b>: {{ vitB12 }}<br>
 {% endif %}
 {% if vitD != "" %} 
@@ -174,7 +179,7 @@
 {% if iron != "" %} 
     <b>Iron</b>: {{ iron }}<br>
 {% endif %}
-------------------------------------------<br>
+------------------------------------------<br> -->
 </font>
 
-{% include glycemic.html ing=include.ing %}
+{% include glycemic_brownie.html ing=ingredients %}
