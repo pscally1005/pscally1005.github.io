@@ -1,5 +1,5 @@
 ---
-layout: recipe-category
+layout: home
 title: Breakfast
 categories: recipes
 permalink: /recipes/breakfast

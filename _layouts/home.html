@@ -3,6 +3,9 @@ layout: base
 ---
 
 <div class="home">
+  {%- if page.title and page.title != "Home" -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
 
   {{ content }}
 
@@ -11,7 +14,6 @@ layout: base
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
-
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
@@ -22,29 +24,34 @@ layout: base
 
       {% assign count = 1 %}
       {%- for post in posts -%}
-      <li>
+        <li>
 
         {% if post.categories.last == "Archive" %}
           {% continue %}
         {% endif %}
 
-        &ensp;{{ count }}.&ensp;
-        {% assign count = count | plus: 1 %}
+        {% if page.title == "Home" or post.categories.last == page.title %}
 
-        {%- if post.image -%}
-          <a href="{{ post.url | relative_url }}"><img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image"></a>
-        {%- endif -%}
-        
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+          &ensp;{{ count }}.&ensp;
+          {% assign count = count | plus: 1 %}
+
+          {%- if post.image -%}
+            <a href="{{ post.url | relative_url }}"><img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image"></a>
+          {%- endif -%}
+          
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+
+        {% endif %}
+
+        </li>
       {%- endfor -%}
     </ul>
 
