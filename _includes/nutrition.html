@@ -1,3 +1,14 @@
+<!-- Booleans -->
+{% assign servingSizePost = "false" %}
+{% if page.title == "What is a Serving Size?" %}
+    {% assign servingSizePost = "true" %}
+{% endif %}
+
+{% assign shorterFacts = "false" %}
+{% if page.title == "Sweet Potato Boxed Brownies" or page.title == "Fat Replacements in Boxed Brownies" or page.title == "What is a Serving Size?" %}
+    {% assign shorterFacts = "true" %}
+{% endif %}
+
 <!-- Use parameters or not -->
 {% assign facts = page.facts %}
 {% if include.facts %}
@@ -5,7 +16,7 @@
 {% endif %}
 
 <!-- Print section title -->
-{% if facts %}
+{% if facts and servingSizePost == "false" %}
     <b><u><font size="+2">Nutrition Facts</font></u></b><br>
 {% endif %}
 
@@ -29,7 +40,13 @@
 {% assign magn = "" %}
 {% assign iron = "" %}
 
-{% for row in site.data[facts] %}
+{% assign loopVar = site.data[facts] %}
+{% if servingSizePost == "true" %}
+    {% assign loopVar = facts %}
+{% endif %}
+
+<!-- Loop to get nutrition facts -->
+{% for row in loopVar %}
     {% for pair in row %}
         {% assign dv = "" %}
         {% if row.DV %}
@@ -115,9 +132,11 @@
     {% endfor %}
 {% endfor %}
 
+<!-- Print nutrition facts -->
 <font size="+1">
 ------------------------------------------<br>
-{% include servings.html ing=include.ing %}<br>
+{% include servings.html ing=include.ing %}
+
 {% if cal != "" %} 
     <b>Calories</b>: {{ cal }}<br>
 {% endif %}
@@ -125,21 +144,27 @@
 {% if fat != "" %} 
     <b>Total Fat</b>: {{ fat }}<br>
 {% endif %}
-{% if sat != "" %} 
-    &emsp;<b>Saturated Fat</b>: {{ sat }}<br>
+
+{% if shorterFacts == "false" %}
+
+    {% if sat != "" %} 
+        &emsp;<b>Saturated Fat</b>: {{ sat }}<br>
+    {% endif %}
+    {% if trans != "" %} 
+        &emsp;<b>Trans Fat</b>: {{ trans }}<br>
+    {% endif %}
+    {% if poly != "" %} 
+        &emsp;<b>Polyunsaturated Fat</b>: {{ poly }}<br>
+    {% endif %}
+    {% if mono != "" %} 
+        &emsp;<b>Monounsaturated Fat</b>: {{ mono }}<br>
+    {% endif %}
+    {% if chol != "" %} 
+        <b>Cholesterol</b>: {{ chol }}<br>
+    {% endif %}
+
 {% endif %}
-{% if trans != "" %} 
-    &emsp;<b>Trans Fat</b>: {{ trans }}<br>
-{% endif %}
-{% if poly != "" %} 
-    &emsp;<b>Polyunsaturated Fat</b>: {{ poly }}<br>
-{% endif %}
-{% if mono != "" %} 
-    &emsp;<b>Monounsaturated Fat</b>: {{ mono }}<br>
-{% endif %}
-{% if chol != "" %} 
-    <b>Cholesterol</b>: {{ chol }}<br>
-{% endif %}
+
 {% if sod != "" %} 
     <b>Sodium</b>: {{ sod }}<br>
 {% endif %}
@@ -156,25 +181,34 @@
     <b>Protein</b>: {{ prot }}<br>
 {% endif %}
 ------------------------------------------<br>
-{% if vitB12 != "" %} 
-    <b>Vitamin B12</b>: {{ vitB12 }}<br>
-{% endif %}
-{% if vitD != "" %} 
-    <b>Vitamin D</b>: {{ vitD }}<br>
-{% endif %}
-{% if pot != "" %} 
-    <b>Potassium</b>: {{ pot }}<br>
-{% endif %}
-{% if calc != "" %} 
-    <b>Calcium</b>: {{ calc }}<br>
-{% endif %}
-{% if magn != "" %} 
-    <b>Magnesium</b>: {{ magn }}<br>
-{% endif %}
-{% if iron != "" %} 
-    <b>Iron</b>: {{ iron }}<br>
-{% endif %}
+{% if shorterFacts == "false" %}
+
+    {% if vitB12 != "" %} 
+        <b>Vitamin B12</b>: {{ vitB12 }}<br>
+    {% endif %}
+    {% if vitD != "" %} 
+        <b>Vitamin D</b>: {{ vitD }}<br>
+    {% endif %}
+    {% if pot != "" %} 
+        <b>Potassium</b>: {{ pot }}<br>
+    {% endif %}
+    {% if calc != "" %} 
+        <b>Calcium</b>: {{ calc }}<br>
+    {% endif %}
+    {% if magn != "" %} 
+        <b>Magnesium</b>: {{ magn }}<br>
+    {% endif %}
+    {% if iron != "" %} 
+        <b>Iron</b>: {{ iron }}<br>
+    {% endif %}
+
 ------------------------------------------<br>
+
+{% endif %}
+
 </font>
 
-{% include glycemic.html ing=include.ing %}
+<!-- Glycemic index -->
+{% if servingSizePost == "false" %}
+    {% include glycemic.html ing=include.ing %}
+{% endif %}

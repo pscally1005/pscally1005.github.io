@@ -1,5 +1,5 @@
 <!-- Only generate section if the page has an ingredients file -->
-{% if page.ing %}
+{% if page.ing or page.title == "Sweet Potato Boxed Brownies" or page.title == "Fat Replacements in Boxed Brownies" %}
 
     {% assign ingredients = page.ing %}
     {% if include.ing %}
