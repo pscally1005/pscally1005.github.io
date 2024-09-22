@@ -166,7 +166,7 @@ def ingredients(food):
         return str("Pumpkin puree")
     elif food == "Syrups, maple" or food == "Syrup, Canadian, maple":
         return str("Maple syrup")
-    elif food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
+    elif food == "jam" or food == "chia-jam" or food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
         return str("Low sugar berry jam")
     elif food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":
         return str("Sugar free syrup")

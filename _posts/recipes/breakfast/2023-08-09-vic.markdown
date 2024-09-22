@@ -50,7 +50,7 @@ tags:
 - vic
 Description: An overnight oats recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of fiber, protein, and healthy fats to start your morning off right.  For a variation without protein powder, check out my <a href="no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a>
 Instructions: 
-- Add ingredients to a tupperware or bowl, and mix until fully combined. Optionally top with mini chocolate chips. Store in the fridge overnight<br><br>
+- In a small airtight container, add your banana, and mash with the back of a fork.  Add in the rest of the ingredients, and stir together with a spoon until fully combined.  Store in the fridge overnight (or at least 2 hours)<br><br>
 
-- Some ingredient swaps include:<br>- Using honey (1/2 tbsp, 10 g) instead of jelly (1 tbsp, 18 g)<br>- A mashed overripe banana (1 banana, ~110 g) instead of unsweetened applesauce (6 tbsp, 90 g).  Mash the banana first, before adding other ingredients<br>- Whey protein instead of casein (same amount by weight and volume, but it'll be less thick)<br>- Or more protein powder if you're out of chia seeds<br>- Optionally, you can also add 1/4 tsp (1.25 g) liquid monk fruit if you want it slightly sweeter
+- Some ingredient swaps include:<br>- Unsweetened applesauce (6 tbsp, 90 g) in place of mashed banana<br>- Honey (1/2 tbsp, 10 g) instead of jelly (1 tbsp, 18 g)<br>- Whey protein instead of casein (same amount by weight and volume, but it'll be less thick)<br>- Optionally, you can also add 1/4 tsp (1.25 g) liquid monk fruit or 1 tbsp (15 g) mini chocolate chips if you want it slightly sweeter
 ---
