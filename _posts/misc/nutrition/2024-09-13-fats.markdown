@@ -18,7 +18,7 @@ tags:
 - omega 3
 ---
 <u><font size="+2">Introduction</font></u><br>
-&emsp;For years, we were told that fats were the devil.  Low fat this and fat free that, no more eating meat and eggs, and a drastic increase consumption of refined grains.  I should specify that I have never been on a keto (high fat, low carb) diet.  But it is evident how wrong we got it.  In correct moderation and from the proper sources, fats are essential for daily life, and their replacement with more starch and sugar has been the main fuel for the recent obesity epidemic.
+&emsp;For years, we were told that fats were the devil.  Low fat this and fat free that, no more eating meat and eggs, and a drastic increase consumption of refined grains.  I should specify that I have never been on a keto (high fat, low carb) diet.  But it is evident how wrong we got it.  In correct moderation and from the proper sources, fats are essential for daily life, and their replacement with more starch and sugar has been the main fuel for the recent obesity epidemic.  Check out my other 2 micronutrient analyses: <a href="/misc/protein">Protein: The Essential Building Blocks</a> and <a href="/misc/carbs">Carbs: The Devil in Disguise?</a>.
 
 <center><img src="/assets/Misc/Fats/trans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fats/obesity.png" alt="" class="smaller-image"></center><br>
 
