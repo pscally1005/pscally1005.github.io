@@ -1,0 +1,19 @@
+{% include description.html %}
+{% include time.html %}
+{% include costSection.html ingredients=page.ing  %}
+
+{%
+    include ingredients.html
+    section1=page.section1
+    start2=page.start2
+    section2=page.section2
+    start3=page.start3
+    section3=page.section3
+    start4=page.start4
+    section4=page.section4
+%}
+
+{% include instructions.html %}
+{% include nutrition.html %}
+{% include source.html %}
+{% include whisk.html %}
