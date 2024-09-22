@@ -28,8 +28,8 @@ plugins:
 header_pages:
   - index.markdown
   - _pages/search.md
-  - _pages/recipes.md
-  - _pages/misc.md
+  - _pages/recipes.html
+  - _pages/misc.html
   - _pages/about.md
 
 # Set to `true` to show excerpts on the homepage.

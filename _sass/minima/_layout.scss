@@ -402,7 +402,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   flex-grow: 2;
-  width: 50%;
+  width: 45%;
   max-width: 50%;
   object-fit: cover;
 }
@@ -446,4 +446,22 @@ body {
 
 .gray-text-themed {
   color: var(--gray-text-color);
+}
+
+/* Derent displays for recipes page for mobile vs desktop */
+.mobile-content {
+  display: none; /* Hide by default */
+}
+
+.desktop-content {
+  display: block; /* Show by default */
+}
+
+@media (max-width: 768px) {
+  .desktop-content {
+    display: none; /* Hide on mobile */
+  }
+  .mobile-content {
+    display: block; /* Show on mobile */
+  }
 }
