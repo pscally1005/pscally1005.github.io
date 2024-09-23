@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "💲 Rotisserie Chicken Cost Analysis"
-date:   2024-09-20 00:00:00 -05000
+date:   2024-09-23 00:00:00 -05000
 categories: 
 - Misc.
 - Costs
 permalink: /misc/rotisserie-chicken-cost-analysis
-image: /assets/Misc/Rotisserie/rotisserie-cover.jpg
+image: /assets/Misc/Rotisserie/Rotisserie Chicken.jpg
 tags: 
 - chicken thighs
 - chicken breast

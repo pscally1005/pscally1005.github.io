@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Date Sweetened Ketchup"
+date:   2024-09-24 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/ketchup
+image: /assets/Food/Savory Sauces/Ketchup/ketchup-cover.jpg
+ing: ketchup-ing
+facts: ketchup-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 10
+Rest: 
+Cook: 10
+Source1: https://www.youtube.com/watch?v=ODY577qOA58
+Source2: 
+whisk: https://s.samsungfood.com/Nu4B8
+tags: 
+- ketchup
+- sauce
+- burger
+- sandwich
+- spread
+- bbq sauce
+- barbeque
+- fries
+- potato
+Description: Who else loves ketchup, but hates all the sugar, corn syrup, and high fructose corn syrup that it contains?  This simple sauce uses the sweetness of dates to deliver that traditional ketchup taste without being loaded with added sugars and other ultra-processed ingredients.  If you instead want some barbeque sauce, you should see my <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>
+Instructions: 
+- Roughly chop your dates, and add all ingredients to a medium stainless steel saucepot. Simmer on medium low heat with occasional stirring for 10-15 minutes, then blend until smooth with an immersion blender<br><br>
+- <center><img src="/assets/Food/Savory Sauces/Ketchup/ketchup-blended.jpg" alt="" class="instruction-image"></center><br>
+
+- Store in the fridge for up to a week.  This recipe makes about 400 g of ketchup.  Each serving is about 2 tbsp or 31 g<br><br>
+- <center><img src="/assets/Food/Savory Sauces/Ketchup/ketchup-spoon.jpg" alt="" class="instruction-image"></center>
+---

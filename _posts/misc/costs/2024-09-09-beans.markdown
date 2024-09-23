@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Costs
 permalink: /misc/beans-cost-analysis
-image: /assets/Misc/Beans/cover.jpg
+image: /assets/Misc/Beans/Beans.jpg
 tags: 
 - beans
 - canned
@@ -30,6 +30,8 @@ tags:
 ---
 <u><font size="+2">Introduction</font></u><br>
 &emsp;Have you ever wondered whether dried beans are worth it compared to canned beans?  Not only are beans nutritious and cheap, but canned beans are dead simple.  But how much (if any) money do you save by opting for dried beans instead?  After all, beans are already super cheap; how much lower can it go?
+
+<center><img src="/assets/Misc/Beans/both.jpg" alt="" class="larger-image"></center><br>
 
 <u><font size="+2">What Beans?</font></u><br>
 &emsp;The first question we should ask is what kind of beans are we talking about?  Today, I'll be going with <b>pinto beans</b>, but costs and weights should be relatively similar no matter what type of bean you choose.  I'll be comparing canned beans to cooked dried beans to find out which is more cost effective.
