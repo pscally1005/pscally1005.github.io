@@ -3,7 +3,7 @@
     <input type="text" id="search-input" placeholder="Type your search here..." autofocus>
     <ul id="results-container"></ul>
 </div>
-    
+
 <!-- Grab search-script.js -->
 <script src="/assets/js/search-script.js" type="text/javascript"></script>
 
@@ -13,7 +13,13 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        searchResultTemplate: '<a class="post-link" href="{url}"><img src="{image}" alt="" class="blog-roll-image"></a><br><a class="post-link" href="{url}"}>{title}</a><br>',
-        noResultsText: ("No result found!")
-    })
+        searchResultTemplate: `
+            <li class="result-item">
+                <a class="post-link" href="{url}">
+                    <img src="{image}" alt="" class="blog-roll-image">
+                </a>
+                <a class="post-link" href="{url}">{title}</a>
+            </li>`,
+        noResultsText: "No result found!"
+    });
 </script>

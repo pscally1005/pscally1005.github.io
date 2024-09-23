@@ -4,7 +4,12 @@ layout: base
 
 <div class="home">
   {%- if page.title and page.title != "Home" -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <center><h1><font size="+4"><b>{{ page.title | escape }}</b></font></h1></center>
+    <hr>
+  {% elsif page.title == "Home" %}
+    <center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
+    <center><h1><font size="+4"><b>Recent Posts</b></font></h1></center>
+    <hr>
   {%- endif -%}
 
   {{ content }}
@@ -20,39 +25,45 @@ layout: base
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
+
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
-      {% assign count = 1 %}
-      {%- for post in posts -%}
-        <li>
+      <!-- Posts Container -->
+      <div id="home-posts-container">
 
-        {% if post.categories.last == "Archive" %}
-          {% continue %}
-        {% endif %}
+        <!-- Initialize count -->
+        {% assign count = 1 %}
 
-        {% if page.title == "Home" or post.categories.last == page.title %}
+        <!-- Each Post -->
+        {% for post in posts %}
 
-          &ensp;{{ count }}.&ensp;
-          {% assign count = count | plus: 1 %}
+          <!-- Post correct ones to page, or all to home -->
+          {% if page.title == "Home" or post.categories.last == page.title %}
 
-          {%- if post.image -%}
-            <a href="{{ post.url | relative_url }}"><img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image"></a>
-          {%- endif -%}
-          
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
+          <!-- Skip if archived -->
+          {% if post.categories.last == "Archive" %}
+            {% continue %}
+          {% endif %}
 
-        {% endif %}
+            <div class="post-item">
+                <a href="{{ post.url | relative_url }}">
+                    <img src="{{ post.image | relative_url }}" alt="" class="blog-roll-image">
+                </a>
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+                <h3 class="post-title">
+                    <span class="post-count">{{ count }}.</span>
+                    <b><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></b>
+                </h3>
+            </div>
 
-        </li>
-      {%- endfor -%}
+            <!-- Increment the count -->
+            {% assign count = count | plus: 1 %}
+
+            {% endif %}
+        {% endfor %}
+</div>
+
+
     </ul>
 
     {% if site.paginate %}

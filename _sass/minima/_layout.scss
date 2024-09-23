@@ -222,26 +222,111 @@
   }
 }
 
-.post-meta {
-  font-size: $small-font-size;
-  color: $brand-color;
-}
-
-.post-link {
-  display: block;
-  @include relative-font-size(1.5);
-}
-
-
-
 /**
  * Posts
  */
+
+/* Post image styling */
+.blog-roll-image {
+  width: 100%; /* Full width of the parent element */
+  height: auto; /* Automatically scales the height */
+  aspect-ratio: 4 / 3; /* Ensures the image keeps a 4:3 ratio */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+  margin-bottom: 10px; /* Space between image and title */
+}
+
+/* Post title styling */
+.post-link {
+  display: inline;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+/* Optional: Meta information styling */
+.post-meta {
+  display: block;
+  font-size: 14px;
+  color: var(--gray-text-color);
+  margin-bottom: 10px;
+}
+
+/* Post title styling */
+.post-title {
+  text-align: center; /* Center the title */
+}
+
+.post-count {
+  margin-right: 10px; /* Space between the count and the title */
+  font-weight: bold; /* Optional styling for the count */
+}
+
+/* Ensure the title can wrap and remain centered */
+.post-title-heading {
+  margin: 0; /* Remove default margin */
+  line-height: 1.2; /* Adjust line height for better spacing */
+}
+
+.post-row {
+  display: flex; /* Use flexbox to lay out the items */
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+  margin-bottom: 30px; /* Space between rows */
+}
+
+/* Home Posts container */
+#home-posts-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows posts to wrap to the next line */
+  justify-content: flex-start; /* Align posts to the left */
+  width: 100%;
+  list-style-type: none; /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+  gap: 20px; /* Adds spacing between items in the same row */
+}
+
+/* Each post item */
+.post-item {
+  flex: 1 1 calc(33.33% - 20px); /* Three posts per row on desktop */
+  max-width: calc(33.33% - 20px); /* Ensure posts take up 33.33% of the container width */
+  display: flex;
+  flex-direction: column; /* Stack image and title vertically */
+  align-items: center; /* Center align the posts */
+  margin-bottom: 30px; /* Space between rows of posts */
+}
+
+/* Add spacing between images */
+.post-item img {
+  margin-bottom: 15px; /* Adds space between the image and the title/meta */
+}
+
+/* Post link styling */
+.post-item a {
+  text-align: center; /* Center the text */
+  margin-bottom: 10px; /* Adds a gap between image and text */
+}
+
+/* Mobile view (1 post per line) */
+@media (max-width: 768px) {
+  .post-item {
+      flex: 1 1 100%; /* One post per row on mobile */
+      max-width: 100%; /* Post takes full width on mobile */
+      margin-bottom: 40px; /* Extra spacing between posts on mobile */
+  }
+
+  .post-row {
+      gap: 10px; /* Smaller gap between posts on mobile */
+  }
+
+  #home-posts-container {
+    gap: 10px; /* Smaller gap between posts on mobile */
+  }
+}
+
 .post-header {
   margin-bottom: $spacing-unit;
 }
 
-.post-title,
 .post-content h1 {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
@@ -340,21 +425,39 @@
   }
 }
 
-
+/* Featured image styling for individual posts */
 .featured-image-post {
-  width: 600px;
-  height: 400px;
-  object-fit: cover;
+  width: 70%;
+  height: auto; /* Height will be controlled by the container */
+  object-fit: cover; /* Ensure the image covers the area without distortion */
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.blog-roll-image {
-  width: 100px;
-  height: 80px;
-  object-fit: cover;
-  float: left;
+/* Create a 4:3 aspect ratio */
+.aspect-ratio-container {
+  position: relative; /* Position relative for absolute child */
+  width: 100%; /* Full width */
+  padding-top: 75%; /* 3:4 aspect ratio (height = 75% of width) */
+  overflow: hidden; /* Hide overflow */
+}
+
+/* Image within the aspect ratio container */
+.aspect-ratio-container img {
+  position: absolute; /* Position absolute to fill container */
+  top: 0; /* Align to top */
+  left: 0; /* Align to left */
+  width: 100%; /* Fill width */
+  height: 100%; /* Fill height */
+  object-fit: cover; /* Maintain aspect ratio and cover area */
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .featured-image-post {
+      width: 100%
+  }
 }
 
 .instruction-image {
@@ -463,5 +566,84 @@ body {
   }
   .mobile-content {
     display: block; /* Show on mobile */
+  }
+}
+
+/* Center the search bar */
+#search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers the search bar horizontally */
+  margin: 20px auto; /* Space around the search container */
+  max-width: 600px; /* Max width for the search container */
+}
+
+/* Styling for the search input */
+#search-input {
+  width: 100%; /* Full width inside the container */
+  max-width: 600px; /* Adjust the max width for desktop */
+  padding: 10px; /* Padding for the input field */
+  font-size: 16px; /* Increase font size */
+  border: 1px solid #ccc; /* Border around the input field */
+  border-radius: 4px; /* Rounded corners */
+  margin-bottom: 20px; /* Space between the search bar and the results */
+}
+
+/* Mobile view adjustments */
+@media (max-width: 768px) {
+  #search-input {
+      max-width: 90%; /* Make the search bar smaller on mobile */
+      font-size: 14px; /* Adjust font size for mobile */
+      padding: 8px; /* Reduce padding */
+  }
+}
+
+/* Results container grid styling */
+.results-grid {
+  display: flex; /* Use flexbox to lay out the items */
+  flex-wrap: wrap; /* Allow wrapping of items */
+  gap: 20px; /* Gap between items */
+  list-style: none; /* Remove bullet points */
+  padding: 0;
+}
+
+/* Search Results container */
+#results-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows posts to wrap to the next line */
+  justify-content: flex-start; /* Align posts to the left */
+  width: 100%;
+  list-style-type: none; /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+  gap: 20px; /* Adds spacing between items in the same row */
+}
+
+/* Each result item */
+.result-item {
+  flex: 1 1 calc(33.33% - 20px); /* Three posts per row on desktop */
+  max-width: calc(33.33% - 20px); /* Ensure posts take up 33.33% of the container width */
+  display: flex;
+  flex-direction: column; /* Stack image and title vertically */
+  align-items: center; /* Center align the posts */
+  margin-bottom: 30px; /* Space between rows of posts */
+}
+
+/* Post link styling */
+.result-item a {
+  text-align: center; /* Center the text */
+  margin-bottom: 10px; /* Adds a gap between image and text */
+}
+
+/* Mobile view (1 post per line) */
+@media (max-width: 768px) {
+  .result-item {
+      flex: 1 1 100%; /* One post per row on mobile */
+      max-width: 100%; /* Post takes full width on mobile */
+      margin-bottom: 40px; /* Extra spacing between posts on mobile */
+  }
+
+  #results-container {
+      gap: 10px; /* Smaller gap between posts on mobile */
   }
 }

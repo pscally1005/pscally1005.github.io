@@ -44,14 +44,19 @@ tags:
 - gluten free
 Description: <a href="/misc/fake-healthy-foods#granola">RX Bars</a> are one of the processed snacks that I will occasionally buy, as they're pretty healthy <a href="/misc/fake-healthy-foods#protein">protein bar</a> and lack any ultra processed ingredients. They are quite pricey though, so I prefer to make them myself. They're dead simple, and way cheaper than what you can get at the store.
 Instructions: 
-- Prepare an 8" square baking dish by lining it with parchment paper. Soak your dates in hot water for about 10 minutes to soften. Set aside the water<br><br>
+- Prepare an 8" square baking dish by lining it with parchment paper. If your dates are very dry, soak them in hot water for about 10 minutes to soften.  Otherwise, skip this step. Set aside the soaking water for later<br><br>
+- <center><img src="/assets/Food/Protein Powder/RX/rx-soaking.jpg" alt="" class="instruction-image"></center><br>
 
-- Blend in the cocoa and protein powder for about 30 seconds, or until fully incorporated.<br><br>
+- In a food processor, chop the nuts until finely ground.  Any nuts will work here.  I've gone with almonds and peanuts, but other good choices are pistachios, cashew, pumpkin seeds, or sunflower seeds<br><br>
 
-- Finally, blend in the dates. Season with salt to taste. You should have a sticky but workable dough. Add a little of the soaking water if needed<br><br>
+- Blend in the cocoa and protein powder for about 30 seconds, or until fully incorporated.  You could also use powdered peanut butter in place of cocoa powder for a peanut butter flavored bar instead of chocolate<br><br>
 
-- Transfer dough to the pan and flatten into a square. Pack it down, and make sure it's even thickness<br><br>
+- Finally, blend in the dates. Season with salt to taste (depending on the saltiness of your nuts). You should have a sticky but workable dough. Add a little of the soaking water if needed<br><br>
+- <center><img src="/assets/Food/Protein Powder/RX/rx-blended.jpg" alt="" class="instruction-image"></center><br>
 
-- Chill in the fridge for a few hours before slicing<br><br>
-- <br><br><center><img src="/assets/Food/Protein Powder/RX/rx-6.jpg" alt="" class="instruction-image"></center>
+- Transfer dough to the pan and flatten into a square. Pack it down, and make sure it's even thickness.  Chill in the fridge for a few hours before slicing<br><br>
+- <center><img src="/assets/Food/Protein Powder/RX/rx-cut.jpg" alt="" class="instruction-image"></center><br>
+
+- Store in the fridge or freezer between pieces of parchment paper so they don't stick together<br><br>
+- <center><img src="/assets/Food/Protein Powder/RX/rx-parchment.jpg" alt="" class="instruction-image"></center>
 ---

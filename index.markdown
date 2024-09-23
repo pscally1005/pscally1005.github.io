@@ -5,5 +5,3 @@
 layout: home
 title: Home
 ---
-<center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
-<h1><b>Recent Posts
