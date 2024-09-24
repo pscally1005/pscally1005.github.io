@@ -795,7 +795,7 @@ a.button {
 
   a {
       color: #000000 !important;
-      text-decoration: underline !important;
+      text-decoration: none; /* Remove underline from all links */
   }
 
   * {
