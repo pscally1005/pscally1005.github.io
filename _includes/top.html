@@ -1,6 +1,8 @@
 <header class="post-header">
     {%- if page.image -%}
-      <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+      <div class="aspect-ratio-container">
+        <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+      </div>
     {%- endif -%}
 
     <h1 class="post-title p-name" itemprop="name headline"><font size="+3"><b>{{ page.title | escape }}</b></font></h1>

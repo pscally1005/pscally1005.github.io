@@ -17,8 +17,10 @@ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
 $lm-site-title-color:      $lm-brand-color-dark !default;
 
 $lm-text-color:            #111111 !default;
-$lm-background-color:      #fdfdfd !default;
-$lm-code-background-color: #eeeeff !default;
+// $lm-background-color:      #fdfdfd !default;
+// $lm-code-background-color: #eeeeff !default;
+$lm-background-color:    #eee8d5;  // 92 -00  10
+$lm-code-background-color:    #fdf6e3;  // 97  00  10
 
 $lm-link-base-color:       #2a7ae2 !default;
 $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
@@ -113,8 +115,10 @@ $dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
 $dm-site-title-color:      $dm-brand-color-light !default;
 
 $dm-text-color:            #bbbbbb !default;
-$dm-background-color:      #181818 !default;
-$dm-code-background-color: #212121 !default;
+// $dm-background-color:      #181818 !default;
+// $dm-code-background-color: #212121 !default;
+$dm-background-color:   #002b36;  // 15 -12 -12
+$dm-code-background-color:   #073642;  // 20 -12 -12
 
 $dm-link-base-color:       #79b8ff !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
