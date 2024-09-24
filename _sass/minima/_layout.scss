@@ -718,3 +718,17 @@ a.button {
 .button:hover {
   background-color: var(--minima-brand-color); /* Darker background on hover */
 }
+
+/* Override Disqus comment text color */
+#disqus_thread {
+  color: var(--default-text-color); /* Replace with your site's default text color */
+}
+
+/* Targeting other potential Disqus elements */
+#disqus_thread a {
+  color: var(--minima-link-base-color); /* Replace with your default link color */
+}
+
+#disqus_thread p {
+  color: inherit; /* Ensure paragraph text inherits the default color */
+}
