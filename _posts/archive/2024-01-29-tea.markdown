@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Banana Peel Tea"
+date:   2024-01-29 00:00:00 -0500
+categories:
+- Recipes
+- Drinks
+- Archive
+permalink: /recipes/banana-tea
+image: /assets/Food/Drinks/Banana Tea/tea-cover.jpg
+ing: tea-ing
+facts: tea-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 10
+Rest: 
+Cook: 
+Source1: https://theculinarycure.com/banana-peel-sleep-tea-recipe/
+Source2: 
+whisk: https://s.samsungfood.com/iVywf
+tags: 
+- boil
+- simmer
+- drain
+- fruity
+- sleep
+Description: I go through a decent amount of bananas, especially overripe ones. One day it dawned on me that I'm simply throwing out all these peels, when they could probably be put to good use and help reduce waste. Just boiling a ripe banana peel in water is a great way to make a simple herbal tea.
+Instructions: 
+- Place the banana peel in a pot and cover it with water. Cover, and let boil for 10 minutes to soften and infuse the flavor<br><br>
+- <center><img src="/assets/Food/Drinks/Banana Tea/tea-1.jpg" alt="" class="instruction-image"></center><br>
+
+- Strain the liquid, optionally sweeten, and serve
+---

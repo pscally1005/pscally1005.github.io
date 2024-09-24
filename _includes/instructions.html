@@ -1,15 +1,17 @@
-{% if page.Instructions %}
-    <font size="+2"><b><u>Instructions</font></u></b><br>
-    <font size="+1">
-        {% assign count = 1 %}
-        {% for step in page.Instructions %}
-            {% unless step contains "<center>" %}
-                {{ count }}.&ensp;
-                {% assign count = count | plus: 1 %}
-            {% endunless %}
-            {{ step }}
-        {% endfor %}
-    </font>
-    <div id="nutrition-facts"></div>
-    <br><br>
-{% endif %}
+<div class="recipe-instruction-header">
+    {% if page.Instructions %}
+        <font size="+2"><b><u>Instructions</u></b></font><br>
+        <div class="recipe-instructions">
+            {% assign count = 1 %}
+            {% for step in page.Instructions %}
+                {% unless step contains "<center>" %}
+                    {{ count }}.&ensp;
+                    {% assign count = count | plus: 1 %}
+                {% endunless %}
+                <span class="print-only">{{ step }}</span>
+            {% endfor %}
+        </div>
+        <div id="nutrition-facts"></div>
+        <br>
+    {% endif %}
+</div>

@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Triple P Balls"
+date:   2024-01-18 00:00:00 -05000
+categories: 
+- Recipes
+- Meme Recipes
+- Archive
+permalink: /recipes/triple-p
+image: /assets/Food/Meme/3P/3p.jpg
+ing: 3p-ing
+facts: 3p-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/4fWAC
+tags: 
+- peanut
+- peanut butter
+- pb2
+- peanut flour
+- chopped nuts
+- nut flour
+- chopped peanuts
+- no bake
+- gluten free
+- PPP
+- 3
+Description: Leave your peanut allergies at the door, because they're not allowed here. I was bored, and wanted to see if I could create something with only peanuts and peanut-like ingredients. Bonus points if you also have peanut oil on hand I guess then. These can serve as little fat and protein balls for a snack, or crumbled into yogurt.
+Instructions: 
+- Combine peanut butter and pb2 together in a medium bowl. Using a chopper, chop your nuts, and fold into the dough<br><br>
+
+- Roll the dough into balls, and store in the fridge
+---

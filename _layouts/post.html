@@ -1,27 +1,28 @@
 ---
 layout: base
 ---
+<div class="recipe">
+  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="post-content e-content" itemprop="articleBody">
 
-  {% include top.html %}
+      {% include top.html %}
 
-  <div class="post-content e-content" itemprop="articleBody">
+      {% include buttons.html %}
+      <font size="+1">{{ content }}</font>
 
-    {% include buttons.html %}
-    <font size="+1">{{ content }}</font>
+        {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
+          {% include postInfo.html %}
+        {% endif %}
 
-    {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
-      {% include postInfo.html %}
-    {% endif %}
+      {% include comments.html %}
 
-    {% include comments.html %}
+    </div>
 
-  </div>
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+</div>

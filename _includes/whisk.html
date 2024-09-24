@@ -1,4 +1,6 @@
-{% if page.whisk %}
-    <b><u><font size="+2">Alternative Recipe Link (Whisk / Samsung Food)</font></u></b><br>
-    <a href={{- page.whisk -}}>{{ page.whisk }}</a><br><br>
-{% endif %}
+<div class="recipe-whisk">
+    {% if page.whisk %}
+        <b><u><font size="+2">Alternative Recipe Link (Whisk / Samsung Food)</font></u></b><br>
+        <a href={{- page.whisk -}}>{{ page.whisk }}</a><br><br>
+    {% endif %}
+</div>

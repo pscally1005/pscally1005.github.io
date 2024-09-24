@@ -38,7 +38,7 @@ tags:
 - salad
 - chopped
 - sweet potatoes
-Description: These bowls are deconstructed burgers, instead making them into a healthy salad, with the buns swapped for roasted sweet potatoes. There's way more food for way less calories, with a lot of volume to this dish. It's full of all your favorite burger flavors, toppings, and my <a href="tomato-spread">Tomato Burger Spread</a>. If a classic burger is what you desire, see my <a href="burger-patties">Simple Burger Patties</a> and <a href="burger-buns">No Yeast Whole Wheat Burger Buns</a>
+Description: These bowls are deconstructed burgers, instead making them into a healthy salad, with the buns swapped for roasted sweet potatoes. There's way more food for way less calories, with a lot of volume to this dish. It's full of all your favorite burger flavors, toppings, and my <a href="/recipes/ketchup">Date Sweetened Ketchup</a>. If a classic burger is what you desire, see my <a href="/recipes/burger-patties">Simple Burger Patties</a> and <a href="/recipes/burger-buns">No Yeast Whole Wheat Burger Buns</a>
 Instructions: 
 - Starting with the potatoes. Wash and cut your sweet potatoes into cubes. You don't need to peel the potatoes. Add to a microwave save bowl, and toss with oil, soy sauce, and baking soda. Cover, and microwave on full power for 3 minutes to soften the potatoes<br><br>
 

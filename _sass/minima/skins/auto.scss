@@ -17,10 +17,10 @@ $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
 $lm-site-title-color:      $lm-brand-color-dark !default;
 
 $lm-text-color:            #111111 !default;
-$lm-background-color:      #fdfdfd !default;
-$lm-code-background-color: #eeeeff !default;
-// $lm-background-color:    #eee8d5;  // 92 -00  10
-// $lm-code-background-color:    #fdf6e3;  // 97  00  10
+// $lm-background-color:      #fdfdfd !default;
+// $lm-code-background-color: #eeeeff !default;
+$lm-background-color:    #eee8d5;  // 92 -00  10
+$lm-code-background-color:    #fdf6e3;  // 97  00  10
 
 $lm-link-base-color:       #2a7ae2 !default;
 $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;

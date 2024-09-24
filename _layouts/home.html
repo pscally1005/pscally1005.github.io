@@ -40,10 +40,10 @@ layout: base
           <!-- Post correct ones to page, or all to home -->
           {% if page.title == "Home" or post.categories.last == page.title %}
 
-          <!-- Skip if archived -->
-          {% if post.categories.last == "Archive" %}
-            {% continue %}
-          {% endif %}
+            <!-- Skip if archived -->
+            {% if post.categories.last == "Archive" and page.title != "Archive" %}
+              {% continue %}
+            {% endif %}
 
             <div class="post-item">
                 <a href="{{ post.url | relative_url }}">

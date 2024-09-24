@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Stovetop Carrot Spread (No Sugar)"
+date:   2024-03-15 00:00:00 -05000
+categories: 
+- Recipes
+- Sweet Spreads
+- Archive
+permalink: /recipes/carrot-spread
+image: /assets/Food/Sweet Spreads/Carrot/carrot-cover.jpg
+ing: carrot-ing
+facts: carrot-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 10
+Rest: 
+Cook: 120
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/a7GYF
+tags: 
+- carrot
+- baby carrot
+- large carrot
+- shredded carrot
+- cinnamon
+- nutmeg
+- ginger
+- allspice
+- all spice
+- gloves
+- unsweetened applesauce
+- spread
+- jam
+- jelly
+Description: This carrot jam is a twist on my classic <a href="apple-spread">No Sugar Added Apple Spread</a>. It simmers carrots with all the carrot cake spices, leaving your home smelling amazing. It tastes great on a PB&J or in your morning yogurt or oatmeal. It's very simple, so give it a go
+Instructions: 
+- Wash and cut your carrots. If using baby carrots, you can add those right to the pot as is, no cutting needed. For large carrots, cut into strips, about the size of a baby carrot. Transfer to your pot<br><br>
+
+- To the pot, add your spices (cinnamon, ginger, nutmeg, cloves, and allspice), vanilla, and applesauce. Mix together<br><br>
+
+- Pour in just enough water to cover the carrots. Cover and cook on medium heat with occasional stirring and mashing with a wooden spoon (make sure nothing sticks and burns), until the carrots are tender. If all the water has cooked off but the carrots aren't soft yet, just cover again with water, and cook until the carrots are fork tender. I had to fill mine up with water 3 times<br><br>
+
+- Use an immersion blender to blend the jam as smoothly as possible. It should be about the consistency of pumpkin puree. Squeeze in the some lemon (the acid helps preserve it in the fridge for longer). Transfer to a jar, and store in the fridge<br><br>
+- <center><img src="/assets/Food/Sweet Spreads/Carrot/carrot-4.jpg" alt="" class="instruction-image"></center><br>
+
+- My batch weighed about 570g at the end. Assuming a 2 tbsp (32 g) serving, there are about 18 servings
+---

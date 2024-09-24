@@ -1,28 +1,30 @@
-<center>
-    <span>
+<div class="recipe-buttons">
+  <center>
+      <span>
 
-      {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
-        <a rel="" target="" href="#recipe" class="button">Recipe</a>
-        <a rel="" target="" href="#nutrition-facts" class="button">Nutrition</a>
-      {% endif %}
+        {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
+          <a rel="" target="" href="#recipe" class="button">Recipe</a>
+          <a rel="" target="" href="#nutrition-facts" class="button">Nutrition</a>
+        {% endif %}
 
-      <a onclick="window.print()" target="_blank" class="button">Print</a>
-      <a rel="" target="" href="#disqus_thread" class="button">Comment</a>
+        <a onclick="window.print()" target="_blank" class="button">Print</a>
+        <a rel="" target="" href="#disqus_thread" class="button">Comment</a>
 
-      <!-- <a onclick="window.print()" target="_blank">
-        <img src="/assets/Other/print.jpg" alt="" class="button-image">
-      </a> -->
-      <!-- <a href="http://www.duckduckgo.com" target="_blank">
-        <img src="/assets/Other/print.jpg" alt="" class="button-image">
-      </a> -->
-      <!-- <a rel="" target="" href="#disqus_thread">
-        <img src="/assets/Other/comment.jpg" alt="" class="button-image">
-      </a> -->
+        <!-- <a onclick="window.print()" target="_blank">
+          <img src="/assets/Other/print.jpg" alt="" class="button-image">
+        </a> -->
+        <!-- <a href="http://www.duckduckgo.com" target="_blank">
+          <img src="/assets/Other/print.jpg" alt="" class="button-image">
+        </a> -->
+        <!-- <a rel="" target="" href="#disqus_thread">
+          <img src="/assets/Other/comment.jpg" alt="" class="button-image">
+        </a> -->
 
-      <br>
-      
-      {% include share-buttons.html %}
-      
-      <br><br>
-  </span>
-</center>
+        <br>
+        
+        {% include share-buttons.html %}
+        
+        <br><br>
+    </span>
+  </center>
+</div>

@@ -732,3 +732,75 @@ a.button {
 #disqus_thread p {
   color: inherit; /* Ensure paragraph text inherits the default color */
 }
+
+@media print {
+  /* Hide elements not needed in the printed version */
+  .recipe-image,
+  .recipe-date,
+  .recipe-buttons,
+  .recipe-description,
+  .recipe-time,
+  .recipe-costs,
+  .recipe-source,
+  .recipe-whisk,
+  .recipe-comments,
+  .recipe-disqus-comments,
+  header, footer, nav {
+      display: none !important;
+  }
+
+  /* Ensure the important elements are visible */
+  .recipe, 
+  .recipe-title,
+  .recipe-ingredients,
+  .recipe-instruction-header,
+  .recipe-instructions,
+  .recipe-nutrition {
+      display: block !important;
+  }
+
+  /* Additional styling for print */
+  .recipe-instructions br + br,
+  .recipe-instructions img {
+      display: none; /* Hide double breaks */
+  }
+
+  .recipe-instructions br {
+      display: block; /* Show single breaks */
+      content: ''; /* Ensure it acts as a break */
+      margin: 1em 0; /* Space between instructions */
+  }
+
+  /* Ensure the title, ingredients, and nutrition are styled correctly */
+  .recipe-title h1 {
+      font-size: 40px !important; /* Ensure size applies */
+      font-weight: bold !important; /* Ensure bold weight applies */
+  }
+
+  .recipe-ingredients, 
+  .recipe-instruction-header, 
+  .recipe-instructions, 
+  .recipe-nutrition {
+      font-size: 16px;
+      line-height: 1.5; /* Keep line-height */
+  }
+
+  /* Other styles to ensure print formatting */
+  body {
+      background: #fff !important;
+      color: #000 !important;
+      margin: 0 !important;
+      padding: 0 !important;
+  }
+
+  a {
+      color: #000000 !important;
+      text-decoration: underline !important;
+  }
+
+  * {
+      box-shadow: none !important;
+      border: none !important;
+  }
+}
+
