@@ -325,6 +325,13 @@
   flex-direction: column; /* Stack image and title vertically */
   align-items: center; /* Center align the posts */
   margin-bottom: 30px; /* Space between rows of posts */
+  border: 3px solid var(--minima-brand-color);
+  border-radius: 5px; /* Rounded corners */
+}
+
+.post-item:hover {
+  background-color: var(--menu-hover-color);
+  border: 3px solid var(--minima-link-base-color);
 }
 
 /* Add spacing between images */
@@ -336,6 +343,7 @@
 .post-item a {
   text-align: center; /* Center the text */
   margin-bottom: 10px; /* Adds a gap between image and text */
+  text-decoration: none;
 }
 
 /* Mobile view (1 post per line) */
@@ -560,6 +568,7 @@ body {
   --yellow-text-color: rgb(255,140,0);
   --red-text-color: rgb(255,0,0);
   --gray-text-color: rgb(111, 111, 111);
+  --menu-hover-color: var(--minima-brand-color-light);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -570,6 +579,7 @@ body {
     --yellow-text-color: rgb(255,255,0);
     --red-text-color: rgb(255,69,0);
     --gray-text-color: rgb(211, 211, 211);
+    --menu-hover-color: var(--minima-brand-color-dark);
   }
 }
 
@@ -798,5 +808,27 @@ a.button {
   * {
       box-shadow: none !important;
       border: none !important;
+  }
+}
+
+/* Each post item */
+.recipe-category-buttons {
+  border: 3px solid var(--minima-brand-color);
+  border-radius: 5px; /* Rounded corners */
+}
+
+.recipe-category-buttons:hover {
+  background-color: var(--menu-hover-color);
+  border: 3px solid var(--minima-link-base-color);
+}
+
+@media (min-width: 768px) {
+  .recipe-category-buttons {
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 2;
+    width: 45%;
+    max-width: 50%;
+    object-fit: cover;
   }
 }

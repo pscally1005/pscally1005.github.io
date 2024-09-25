@@ -47,13 +47,13 @@ layout: base
 
             <div class="post-item">
                 <a href="{{ post.url | relative_url }}">
-                    <img src="{{ post.image | relative_url }}" alt="" class="blog-roll-image">
-                </a>
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-                <h3 class="post-title">
+                  <img src="{{ post.image | relative_url }}" alt="" class="blog-roll-image">
+                  <span class="post-meta">{{ post.date | date: date_format }}</span>
+                  <h3 class="post-title">
                     <span class="post-count">{{ count }}.</span>
-                    <b><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></b>
-                </h3>
+                    <b>{{ post.title | escape }}</b>
+                  </h3>
+                </a>
             </div>
 
             <!-- Increment the count -->
