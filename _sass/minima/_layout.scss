@@ -2,7 +2,8 @@
  * Site header
  */
  .site-header {
-  border-bottom: 1px solid $border-color-01;
+  border-top: 3px solid var(--minima-brand-color);
+  border-bottom: 3px solid var(--minima-brand-color);
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
   
@@ -51,10 +52,10 @@
 
 .site-nav {
   position: absolute;
-  top: 9px;
-  right: $spacing-unit * .5;
+  top: 6px;
+  right: ($spacing-unit * .5) + 2px;
   background-color: $background-color;
-  border: 1px solid $border-color-01;
+  border: 3px solid var(--minima-brand-color);
   border-radius: 5px;
   text-align: right;
 
@@ -67,7 +68,7 @@
     width: 36px;
     height: 26px;
     line-height: 0;
-    padding-top: 10px;
+    padding-top: 11px;
     text-align: center;
 
     > svg path {
@@ -79,7 +80,7 @@
     display: block;
     float: right;
     width: 36px;
-    height: 36px;
+    height: 37px;
     z-index: 2;
     cursor: pointer;
   }
@@ -114,19 +115,15 @@
 
   @media (max-width: 768px) {
     .page-link {
-        border: 0;
+      border: 0;
 
-        color: $text-color;
-        line-height: $base-line-height;
-        display: block;
-        padding: 5px 10px;
-  
-        // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-          margin-right: 0;
-        }
-        margin-left: 20px;
-      }
+      color: $text-color;
+      line-height: $base-line-height;
+      display: block;
+      padding: 5px 10px;
+      margin-left: 20px;
+    }
+
   }
 
   @media (min-width: 768px) {
@@ -803,4 +800,3 @@ a.button {
       border: none !important;
   }
 }
-
