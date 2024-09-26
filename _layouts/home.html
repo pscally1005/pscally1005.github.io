@@ -3,13 +3,11 @@ layout: base
 ---
 
 <div class="home">
+  <center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
   {%- if page.title and page.title != "Home" -%}
-    <center><h1 class="page-title"><font size="+4"><b>{{ page.title | escape }}</b></font></h1></center>
-    <hr>
+    <h1 class="page-title">{{ page.title | escape }}</h1>
   {% elsif page.title == "Home" %}
-    <center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
-    <center><h1 class="page-title"><font size="+4"><b>Recent Posts</b></font></h1></center>
-    <hr>
+    <h1 class="page-title">Recent Posts</h1>
   {%- endif -%}
 
   {{ content }}

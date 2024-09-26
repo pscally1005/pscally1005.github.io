@@ -1,5 +1,6 @@
-// Header
- .site-header {
+// Pin to top of screen
+// Nav header bar
+.site-header {
   border-top: 3px solid var(--minima-brand-color);
   border-bottom: 3px solid var(--minima-brand-color);
   min-height: $spacing-unit * 1.865;
@@ -9,6 +10,46 @@
   top: 0;
   z-index: 1000;
   background-color: var(--minima-background-color);
+  margin-bottom: 0;
+  padding-bottom: 0;
+  /* Ensure there's no padding/margin affecting positioning */
+}
+
+// Post title
+.recipe-title, .page-title {
+  position: sticky;
+  top: $spacing-unit * 1.865; /* Set this exactly to the header's height */
+  z-index: 999;
+  background-color: var(--minima-background-color);
+  border-bottom: 3px solid var(--minima-brand-color);
+}
+
+.recipe-title, .page-title {
+  margin: 0 0 20px; /* Add margin at the bottom */
+  padding: 10px 0; /* Optional: keep padding for vertical spacing */
+}
+
+// Only set height on desktop
+@media (min-width: 768px) { /* Adjust this value as needed for your design */
+  .recipe-title, .page-title {
+    padding-bottom: 0;
+  }
+
+  .page-title {
+    height: 68px;
+  }
+
+  .recipe-title {
+    height: 55px;
+  }
+}
+
+// Remove sticky on mobile
+@media (max-width: 768px) { /* Adjust this value as needed for your design */
+  .recipe-title, .page-title {
+    position: relative; /* Change from sticky to relative */
+    top: auto; /* Reset top value */
+  }
 }
 
 
@@ -40,7 +81,6 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: var(--default-text-color); /* Text color */
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -61,7 +101,7 @@
 // Navigation bar
 .site-nav {
   position: absolute;
-  top: 6px;
+  top: 9px;
   right: ($spacing-unit * .5) + 2px;
   background-color: $background-color;
   border: 3px solid var(--minima-brand-color);
@@ -799,8 +839,20 @@ a.button {
 
 // Text formatting
 // Text color of page title
-.page-title, .post-header {
+.page-title, .post-header h1 {
   color: var(--default-text-color);
+  font-size: 46px;
+  text-align: center;
+  font-weight: bold;
+}
+
+// Post title
+.recipe-title {
+  display: block;
+  color: var(--default-text-color);
+  font-size: 36px; /* Ensure you include the unit for font-size */
+  font-weight: bold; /* Make the text bold */
+  text-align: center; /* Center the text */
 }
 
 // Section headers (instructions, costs, etc.)
@@ -929,6 +981,7 @@ a.button {
   body,
   .page-title, 
   .post-header,
+  .recipe-title,
   .recipe-header,
   .recipe-section,
   .recipe-section-bold,
