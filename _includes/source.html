@@ -1,11 +1,11 @@
 <div class="recipe-source">
     {% if page.Source1 %}
-        <b><u><font size="+2">Sources of Inspiration</font></u></b><br>
-        <a href={{- page.Source1 -}}>{{ page.Source1 }}</a><br>
+        <div class="recipe-header">Sources of Inspiration</div>
+        <div class="recipe-section"><a href={{- page.Source1 -}}>{{ page.Source1 }}</a></div>
         {% if page.Source2 %}
-            <a href={{- page.Source2 -}}>{{ page.Source2 }}</a><br><br>
-        {% else %}
-        <br>
+            <br>
+            <div class="recipe-section"><a href={{- page.Source2 -}}>{{ page.Source2 }}</a></div>
         {% endif %}
+        <br>
     {% endif %}
 </div>

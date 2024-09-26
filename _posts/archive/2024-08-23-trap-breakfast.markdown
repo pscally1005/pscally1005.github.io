@@ -38,7 +38,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt=""></a></center><br>
+<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt="" class="larger-image"></a></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -131,10 +131,10 @@ tags:
 <br><i><font size="+2">Bread</font></i><br>
 &emsp;Since <a rel="" target="" href="/misc/trap-foods-grains#flour">white flour</a> is generally a poor nutrition choice, it would then follow that <a href="https://www.walmart.com/ip/Wonder-Bread-Classic-White-Sandwich-Bread-Sliced-White-Bread-20-oz/37858875?athbdg=L1600&from=/search">white bread</a> would also not be your healthiest option.  Though <a href="https://www.walmart.com/ip/Arnold-Whole-Grains-100-Bread-24-oz-Whole-Wheat-Soft-Wheat-Bread-Bag/10403544?athbdg=L1300&from=/search">whole wheat bread</a> isn't that much better of an option if we're still talking about commercially processed bread products.  Most store bought loaves of bread are high in our old friend, added sugar (a lot of whole wheat breads actually contain more sugar than their white bread counterparts), as well as vegetable oils and preservatives.  Look at that giant list of ingredients below!  There's a reason why grocery store bread can last for weeks without going bad, whereas real bread from a bakery goes stale in just a day or two (tip: store extra fresh baked bread in the freezer, it'll last forever in there).  Traditionally, bread is just flour, water, yeast, and salt; one of man's oldest and simplest creations.
 
-<center><img src="/assets/Misc/Trap/bread.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/bread.jpg" alt="" class="larger-image"></center><br>
 &emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of whole wheat bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high sugar content.  White bread is essentially entirely made up of glucose, leading to the largest blood sugar spike of any food you could consume.  Even whole wheat bread is a high GI food, but it is significantly lower than white bread.  Below is a chart of different foods and their respective GI values.
 
-<center><a href="https://x.com/iam_preethi/status/1345457708892266496"><img src="/assets/Misc/Trap/gi.jpg" alt=""></a></center><br>
+<center><a href="https://x.com/iam_preethi/status/1345457708892266496"><img src="/assets/Misc/Trap/gi.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;If you'd like to get into <a href="/recipes/bread">breadmaking</a>, I have plenty of whole wheat flour recipes.  I've linked some of them below.<br>
 &emsp;- <a href="/recipes/ww-bread">100% Whole Wheat Bread</a><br>
 &emsp;- <a href="/recipes/tortilla">Oat-Wheat Tortillas</a><br>

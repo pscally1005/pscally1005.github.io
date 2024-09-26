@@ -45,10 +45,10 @@ This 1 gallon container of peanut oil is $17.16, which comes out to about <b>$2.
 
 After crunching the numbers, it seems that the Peanut Oil reconstituted spread is approximately <b>$4.10/lb</b>, whereas the EVOO one is a steep <b>$5.83/lb</b>. A batch of just water would cost <b>$2.10/lb</b>, and one with unsweetened vanilla almond milk would run you <b>$2.46/lb</b>.  
 
-<center><img src="/assets/Misc/PB2/math-peanut-oil.jpg" alt=""></center><br>
-<center><img src="/assets/Misc/PB2/math-evoo.jpg" alt=""></center><br>
-<center><img src="/assets/Misc/PB2/math-water.jpg" alt=""></center><br>
-<center><img src="/assets/Misc/PB2/math-milk.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/PB2/math-peanut-oil.jpg" alt="" class="full-page"></center><br>
+<center><img src="/assets/Misc/PB2/math-evoo.jpg" alt="" class="full-page"></center><br>
+<center><img src="/assets/Misc/PB2/math-water.jpg" alt="" class="full-page"></center><br>
+<center><img src="/assets/Misc/PB2/math-milk.jpg" alt="" class="full-page"></center><br>
 This surprised me; using water or even almond milk is actually cheaper per pound than natural peanut butter, though you are ending up with a substantially different product.  Most of the time I use PB2, I don't make a peanut spread with water and the powder as directed.  Instead, I mix a spoonful into my yogurt or oatmeal, or I use as a flour replacement in a healthier dessert or protein powder snack.
 
 <!-- Or you can get the best of both worlds in this <a href="/recipes/low-fat-peanut-butter">Low Fat Peanut Butter</a> spread, which is a 50/50 split between homemade natural peanut butter, and the almond milk PB2 peanut butter.  If the runny texture of natural peanut butter has always bothered you, then check this one out;  it's thicker like a no stir peanut butter, but free of the hydroginated oils. -->

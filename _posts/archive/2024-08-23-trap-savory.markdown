@@ -66,7 +66,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt=""></a></center><br>
+<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt="" class="larger-image"></a></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -137,7 +137,7 @@ tags:
 <br><i><font size="+2">Margarine and Low Fat Butter</font></i><br>
 &emsp;Margarine is a butter substitute typically made from <a rel="" target="" href="#seed-oil">vegetable oils</a>.  Popular brands include <a href="https://www.walmart.com/ip/Country-Crock-Original-Vegetable-Oil-Spread-45-oz-Tub-Refrigerated/10291546?athbdg=L1600&from=/search">Country Crock</a> and <a href="https://www.walmart.com/ip/I-Can-t-Believe-It-s-Not-Butter-Original-Spread-15-oz-Tub-Refrigerated/10306827?athbdg=L1600&from=/search">I Can't Believe It's Not Butter</a>.  They're heavily processed, contain unnecessary additives, and even used to have trans fats until they were banned.  Margarine is essentially hydroginated <a rel="" target="" href="#seed-oil">seed oils</a>, turning them from a liquid to a solid.  I'm not calling butter a health food, but I'd certainly opt for that over the fake butter substitutes.
 
-<center><a href="https://www.meghantelpner.com/butter-or-margarine/"><img src="/assets/Misc/Trap/margarine-vs-butter.jpg" alt=""></a></center><br>
+<center><a href="https://www.meghantelpner.com/butter-or-margarine/"><img src="/assets/Misc/Trap/margarine-vs-butter.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Despite trans fats being banned in the US, most brands still contain trace amounts, as it can legally be rounded down to 0g if they contain less than 0.5g of trans fats.  Trans fats in any amount are extremenly harmful to your health, raising LDL, lowering HDL, and lead to increased risk of heart attack or stroke.  The process of partially hydroginating unsaturated fats is how trans fats are created (how margarine used to be made).  Now, it uses fully hydroginated oils, which are instead saturated fats instead of trans fats.  Research on fully hydroginated fats is minimal, as trans fats were only banned in 2018, but it's assumed that these fats are less bad, but not good.  Always opt for whole food fat sources whenever possible instead, like nuts, avocado, fatty fish, and EVOO. 
 
 <div id="salad-dressing"></div>

@@ -36,7 +36,7 @@ tags:
 <center><img src="/assets/Misc/Carbs/sugar-free.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Carbs/maple-syrup.png" alt="" class="smaller-image"></center>
 <br>
 &emsp;Sugar is high in fruit, but these are whole foods containing lots of fiber and water.  There's no reason to restrict how much fruit you eat.  Be mindful of your dried fruit consumption though, as all the water is removed and sometimes sugar is added.  However, when most people think sugar, they think desserts, but also be very weary of breakfast cereals, sauces, salad dressing, and snacks, as most of these are loaded with added sugars.  Always read nutrition labels.  Check out <a href="https://deliciousdoor.com/blogs/1/100-hidden-names-for-sugar">this list</a> of 100+ names for sugar you may find in the grocery store trying to hide from you.
-<center><a href="https://www.youtube.com/watch?v=HHe50x6W2nY"><img src="/assets/Misc/Carbs/added-sugars.JPG" alt=""></a></center>
+<center><a href="https://www.youtube.com/watch?v=HHe50x6W2nY"><img src="/assets/Misc/Carbs/added-sugars.JPG" alt="" class="larger-image"></a></center>
 <br>
 <u><font size="+2">Carbs: Risks</font></u><br>
 &emsp;You body runs on glucose, but most people today consume far too many refined grain products, causing chronically elevated blood sugar levels and increased insulin secretion.  Excess sugars in the body either get stored in the liver (liver fat) or fat cells (weight gain).  This can lead to the following (in alphabetical order):

@@ -52,7 +52,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt=""></a></center><br>
+<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt="" class="larger-image"></a></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -77,7 +77,7 @@ tags:
 <br><i><font size="+2">Jelly and Jam</font></i><br>
 &emsp;I love a good PB&J.  Which means using a good <a rel="" target="" href="/misc/trap-foods-sweet-spreads#peanut-butter">peanut butter</a>, jelly, and <a rel="" target="" href="/misc/trap-foods-grains#bread">bread</a>.  Here, we're tackling jelly and jam though.  A jam is ideally just simmered fruit that's mildly sweetened, just like my <a href="/recipes/berry-jam">Low Sugar Berry Jam</a> or <a href="/recipes/strawberry-chia-jam">Strawberry Chia Jam</a>.  The problem is that most jellies and jams are just sugar spreads.  A 1 tbsp (20 g) serving of <a href="https://www.walmart.com/ip/Smucker-s-Concord-Grape-Jelly-18-Ounces/10321567?from=/search">Smuckers Grape Jelly</a> contains 12 g of sugar.  That's 60% sugar (about the same as <a rel="" target="" href="/misc/trap-foods-sweet-spreads#nutella">nutella</a>), and with none of the fiber from the whole fruit.  Even jellies that claim to be healthy may just be using sugar under different names, like evaporated cane juice or apple juice concentrate.
 
-<center><a href="https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321"><img src="/assets/Misc/Trap/jelly.jpg" alt=""></a></center><br>
+<center><a href="https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321"><img src="/assets/Misc/Trap/jelly.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Outside of making your own jam, your best bets are any low sugar jam or jelly, with less than 4-5 g of added sugar per serving.  Trader Joe's has some good low sugar jellies, jams, and preserves.  <a href="https://www.walmart.com/ip/Good-Good-Keto-Friendly-Sweet-Strawberry-Jam-12-oz-1-Count/212702301?from=/search">Good Good</a> is also a good stevia sweetened jam brand, and this <a href="https://www.walmart.com/ip/Smucker-s-Low-Sugar-Reduced-Sugar-Strawberry-Preserves-15-5-Ounces/10308118?from=/search">Smuckers Low Sugar Strawberry Preserves</a> is a decent option.  Just stay away from any jellies labeled as "Sugar free" (like <a href="https://www.walmart.com/ip/Smucker-s-Sugar-Free-Concord-Grape-Jam-with-Splenda-Brand-Sweetener-12-75-Ounces/10308139?athbdg=L1200&from=/search">this one</a>), as those are sweetened with <a rel="" target="" href="/misc/trap-foods-sweet-spreads#sugar-substitutes">sucralose</a> and taste disgusting.
 
 <div id="dried-fruit"></div>
@@ -91,7 +91,7 @@ tags:
 <br><i><font size="+2">Fruit Juice</font></i><br>
 &emsp;So <a rel="" target="" href="#dried-fruit">dried fruit</a> is a highly concentrated source of sugar, even natural, that you should be mindful of consuming.  But what if we did the opposite: remove all the fiber, but keep all the water?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any added sugar, is only marginally better for you than a glass of soda.  You'll get some Vitamin C, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href="https://www.walmart.com/ip/Simply-Non-GMO-Orange-Juice-No-Pulp-52-fl-oz-Bottle/959033640?athbdg=L1200&from=/search">orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without fiber to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
 
-<center><a href="https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks"><img src="/assets/Misc/Trap/juice-vs-soda.jpg" alt=""></a></center><br>
+<center><a href="https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks"><img src="/assets/Misc/Trap/juice-vs-soda.jpg" alt="" class="larger-image"></a></center><br>
 <div id="smoothie"></div>
 <br><i><font size="+2">Smoothies</font></i><br>
 &emsp;So if <a rel="" target="" href="#dried-fruit">dried fruit</a> is a maybe and <a rel="" target="" href="#juice">fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more fiber than fruit juice.  However, the process of blending fruit destroys some of it's fiber.  A smoothie can still be healthy however.  Just make sure to add some protein and fat to slow down the spike to your blood sugar.  I prefer using protein powder, greek yogurt, and chia seeds for a <a href="/recipes/smoothie">Protein Fruit Smoothie</a> if I do have one, but peanut butter, almond butter, avocado, or flaxseeds also work as great fat sources.  The healthiest smoothies also include some vegetables like spinach as well.
@@ -131,7 +131,7 @@ tags:
 - Potassium: 20% of DV
 - Vitamin B5: 19% of DV
 
-<center><img src="/assets/Misc/Trap/potatoes.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/potatoes.jpg" alt="" class="larger-image"></center><br>
 &emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred carb side to a meal as opposed to pasta, rice, or bread, such as in the following recipes:
 - <a href="/recipes/burger-bowl">Chopped Burger Bowl with Sweet Potatoes</a><br>
 - <a href="/recipes/home-fries">Sweet Potato Home Fries</a><br>

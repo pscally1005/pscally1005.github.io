@@ -28,6 +28,6 @@
     {% assign totalCostSplit = unitCost | times: amount | split: "." %}
     {% assign integral = totalCostSplit[0] %}
     {% assign fraction = totalCostSplit[1] || append: "00" | truncate: 2, "" %}
-    <i><font class="gray-text-themed">(${{ integral }}.{{ fraction }})</font></i>
+    <div class="ingredient-cost">(${{ integral }}.{{ fraction }})</div>
 
 {% endif %}

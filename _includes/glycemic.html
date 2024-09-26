@@ -102,8 +102,8 @@
     {% assign totalGL_fraction = totalGL_split[1] || append: "0" | truncate: 1, "" %}
 
     <!-- Print GI & GL -->
-    <font size="+1">
-        <b>Glycemic Index: </b>
+    <div class="recipe-section-bold">Glycemic Index: </div>
+    <div class="recipe-section">
         {% if totalGI >= 70 %}
             <font class="red-text-themed">
         {% elsif totalGI < 70 and totalGI >= 56 %}
@@ -111,9 +111,13 @@
         {% else %}
             <font class="green-text-themed">
         {% endif %}
-        {{ totalGI_integral }}.{{ totalGI_fraction }}</font><br>
+        {{ totalGI_integral }}.{{ totalGI_fraction }}
+        </font>
+    </div>
+    <br>
 
-        <b>Glycemic Load: </b>
+    <div class="recipe-section-bold">Glycemic Load: </div>
+    <div class="recipe-section">
         {% if totalGL >= 20 %}
             <font class="red-text-themed">
         {% elsif totalGL < 20 and totalGL >= 10 %}
@@ -121,8 +125,9 @@
         {% else %}
             <font class="green-text-themed">
         {% endif %}
-        {{ totalGL_integral }}.{{ totalGL_fraction }}</font><br>
-    </font>
+        {{ totalGL_integral }}.{{ totalGL_fraction }}
+        </font>
+    </div>
     <br>
     
 {% endif %}

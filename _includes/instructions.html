@@ -1,8 +1,8 @@
 <div class="recipe-instruction-header">
     {% if page.Instructions %}
-        <font size="+2"><b><u>Instructions</u></b></font><br>
+        <div class="recipe-header">Instructions</div>
         <div class="recipe-instructions">
-            <font size="+1">
+            <div class="recipe-section">
                 {% assign count = 1 %}
                 {% for step in page.Instructions %}
                     {% unless step contains "<center>" %}
@@ -11,7 +11,7 @@
                     {% endunless %}
                     <span class="print-only">{{ step }}</span>
                 {% endfor %}
-            </font>
+            </div>
         </div>
         <div id="nutrition-facts"></div>
         <br>

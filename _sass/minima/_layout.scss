@@ -1,20 +1,19 @@
-/**
- * Site header
- */
+// Header
  .site-header {
   border-top: 3px solid var(--minima-brand-color);
   border-bottom: 3px solid var(--minima-brand-color);
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
-  
   position: fixed;
   width: 100%;
   top: 0;
   z-index: 1000;
   background-color: var(--minima-background-color);
-  // padding: 10px 0;
 }
 
+
+
+// Menu buttons
 .menu-button-container {
   display: flex;
   justify-content: center;
@@ -32,6 +31,9 @@
   margin: 0 auto;
 }
 
+
+
+// Website title
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -50,6 +52,13 @@
   }
 }
 
+.site-title:hover {
+  color: var(--minima-link-base-color); /* Text color */
+}
+
+
+
+// Navigation bar
 .site-nav {
   position: absolute;
   top: 6px;
@@ -110,7 +119,9 @@
 
   /* Hover effect */
   .page-link:hover {
-    background-color: var(--minima-brand-color); /* Darker background on hover */
+    background-color: var(--menu-hover-color);
+    border: 2px solid var(--minima-link-base-color);
+    color: var(--minima-link-base-color)
   }
 
   @media (max-width: 768px) {
@@ -150,9 +161,9 @@
   }
 }
 
-/**
- * Site footer
- */
+
+
+// Footer
 .site-footer {
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
@@ -229,9 +240,7 @@
 
 
 
-/**
- * Page content
- */
+// Page content
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
@@ -254,11 +263,9 @@
   }
 }
 
-/**
- * Posts
- */
 
-/* Post image styling */
+
+// Post content
 .blog-roll-image {
   width: 100%; /* Full width of the parent element */
   height: auto; /* Automatically scales the height */
@@ -327,11 +334,20 @@
   margin-bottom: 30px; /* Space between rows of posts */
   border: 3px solid var(--minima-brand-color);
   border-radius: 5px; /* Rounded corners */
+  color: var(--default-text-color)
+}
+
+.post-item a {
+  color: var(--default-text-color)
 }
 
 .post-item:hover {
   background-color: var(--menu-hover-color);
   border: 3px solid var(--minima-link-base-color);
+}
+
+.post-item:hover a {
+  color: var(--minima-link-base-color)
 }
 
 /* Add spacing between images */
@@ -411,6 +427,8 @@
 }
 
 
+
+// Social buttons
 .social-media-list {
   display: table;
   margin: 0 auto;
@@ -429,9 +447,7 @@
 
 
 
-/**
- * Pagination navbar
- */
+// Pagination navbar
 .pagination {
   margin-bottom: $spacing-unit;
   @extend .social-media-list;
@@ -456,16 +472,16 @@
 
 
 
-/**
- * Grid helpers
- */
+// Grid helpters
 @media screen and (min-width: $on-large) {
   .one-half {
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
 
-/* Create a 4:3 aspect ratio container */
+
+// Main post images
+// Keep 4:3 aspect ratio for post images
 .aspect-ratio-container {
   position: relative; /* Position relative for absolute child */
   width: 70%; /* Set to 70% of the parent container on desktop */
@@ -475,7 +491,7 @@
   overflow: hidden; /* Hide overflow */
 }
 
-/* Featured image styling for individual posts */
+// Featured image styling for individual posts
 .featured-image-post {
   position: absolute; /* Position absolute to fill container */
   top: 0; /* Align to top */
@@ -484,9 +500,10 @@
   height: 100%; /* Fill height of the container */
   object-fit: cover; /* Maintain aspect ratio and cover area */
   display: block;
+  border-radius: 10px; /* Rounded corners */
 }
 
-/* Image within the aspect ratio container */
+// Image within the aspect ratio container
 .aspect-ratio-container img {
   position: absolute; /* Position absolute to fill container */
   top: 0; /* Align to top */
@@ -494,9 +511,10 @@
   width: 100%; /* Fill width */
   height: 100%; /* Fill height */
   object-fit: cover; /* Maintain aspect ratio and cover area */
+  border-radius: 10px; /* Rounded corners */
 }
 
-/* Mobile adjustments */
+// Mobile adjustments
 @media (max-width: 768px) {
   .aspect-ratio-container {
     width: 100%; /* Full width on mobile */
@@ -504,70 +522,65 @@
   }
 }
 
+
+// Images
+// Images in instruction steps
 .instruction-image {
-  width: 300px;
-  // height: 200px;
-  object-fit: cover;
-}
-
-.recipes-page-image {
   width: 400px;
-  height: 266.67px;
   object-fit: cover;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: center;
+  border-radius: 10px; /* Rounded corners */
 }
 
+// Larger image for instructions
 .larger-image {
-  width: 66%;
+  width: 800px;
   object-fit: cover;
+  border-radius: 10px; /* Rounded corners */
 }
 
-.button-image {
-  width: 50px;
-}
-
+// Favicon for site
 .favicon-image {
   width: 25px; /* Favicon width */
   object-fit: cover; /* Maintain aspect ratio */
   margin-right: 5px; /* Add some spacing between the favicon and text */
 }
 
+// Small image for clip arts
 .smaller-image {
   width: 10%;
   object-fit: cover;
 }
 
-.image-text-container {
-  display: flex;
-  align-items: flex-start;
-}
-
-.image-text-container img {
-  margin-right: 15px;
-  max-width: 300px;
-  height: auto;
-}
-
+// 2 images side by side
 .half-page {
   flex-direction: row;
   flex-wrap: wrap;
   flex-grow: 2;
   width: 45%;
-  max-width: 50%;
+  max-width: width;
   object-fit: cover;
+  border-radius: 10px; /* Rounded corners */
 }
 
+// Full page width image
+.full-page {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px; /* Rounded corners */
+}
+
+
+
+// Theme
 /* Default (light theme) */
 body {
   padding-top: 60px; /* Adjust according to your header's height */
-  --default-text-color: rgb(0,0,0);
+  --default-text-color: D(0,0,0);
   --green-text-color: rgb(0,128,0);
   --yellow-text-color: rgb(255,140,0);
   --red-text-color: rgb(255,0,0);
   --gray-text-color: rgb(111, 111, 111);
+  --blue-text-color: rgb(0, 0, 200);
   --menu-hover-color: var(--minima-brand-color-light);
 }
 
@@ -579,6 +592,7 @@ body {
     --yellow-text-color: rgb(255,255,0);
     --red-text-color: rgb(255,69,0);
     --gray-text-color: rgb(211, 211, 211);
+    --blue-text-color: rgb(0, 255, 255);
     --menu-hover-color: var(--minima-brand-color-dark);
   }
 }
@@ -604,7 +618,13 @@ body {
   color: var(--gray-text-color);
 }
 
-/* Derent displays for recipes page for mobile vs desktop */
+.blue-text-themed {
+  color: var(--blue-text-color);
+}
+
+
+
+// Mobile vs desktop
 .mobile-content {
   display: none; /* Hide by default */
 }
@@ -622,6 +642,9 @@ body {
   }
 }
 
+
+
+// Searching
 /* Center the search bar */
 #search-container {
   display: flex;
@@ -701,17 +724,20 @@ body {
   }
 }
 
-/* Button style */
+
+
+// Buttons for recipe, nutrition, print, and comment
 .button {
   display: inline-block; /* Make links behave like block elements */
   background-color: var(--minima-background-color); /* Button background color */
-  color: var(--default-text-color); /* Text color */
-  padding: 10px 20px; /* Top/bottom and left/right padding */
+  padding: 10px 5px; /* Top/bottom and left/right padding */
   text-decoration: none; /* Remove underline */
   border-radius: 5px; /* Rounded corners */
   border: 2px solid var(--minima-brand-color); /* Colored border */
   transition: background-color 0.3s; /* Smooth transition for hover effect */
-  margin: 10px;
+  margin: 5px;
+  color: var(--default-text-color); /* Text color */
+  margin-bottom: 15px;
 }
 
 /* Ensures consistent color regardless of the href */
@@ -723,9 +749,14 @@ a.button {
 
 /* Hover effect */
 .button:hover {
-  background-color: var(--minima-brand-color); /* Darker background on hover */
+  background-color: var(--menu-hover-color);
+  border: 2px solid var(--minima-link-base-color);
+  color: var(--minima-link-base-color)
 }
 
+
+
+// Disqus
 /* Override Disqus comment text color */
 #disqus_thread {
   color: var(--default-text-color); /* Replace with your site's default text color */
@@ -740,6 +771,108 @@ a.button {
   color: inherit; /* Ensure paragraph text inherits the default color */
 }
 
+
+
+// Recipe category box and links
+.recipe-category-buttons {
+  border: 3px solid var(--minima-brand-color);
+  border-radius: 5px; /* Rounded corners */
+}
+
+.recipe-category-buttons:hover {
+  background-color: var(--menu-hover-color);
+  border: 3px solid var(--minima-link-base-color);
+}
+
+@media (min-width: 768px) {
+  .recipe-category-buttons {
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 2;
+    width: 45%;
+    max-width: 50%;
+    object-fit: cover;
+  }
+}
+
+
+
+// Text formatting
+// Text color of page title
+.page-title, .post-header {
+  color: var(--default-text-color);
+}
+
+// Section headers (instructions, costs, etc.)
+.recipe-header {
+  display: block;
+  color: var(--default-text-color);
+  font-size: $base-font-size + 6;
+  font-weight: bold; /* Make the text bold */
+  text-decoration: underline; /* Underline the text */
+  margin-bottom: 10px; /* Adds extra space below the element */
+  margin-top: 20px; /* Adds extra space top the element */
+}
+
+// Content of the section (actual description, written out instrustions, etc.)
+.recipe-section {
+  display: inline; /* Allows for width and height while keeping it inline */
+  color: var(--default-text-color);
+  font-size: $base-font-size;
+  margin-top: 20px; /* Add space above the element */
+}
+
+// Content of the section that needs to be bolded (total cost label, prep time label, etc.)
+.recipe-section-bold {
+  display: inline; /* Prevent line break */
+  color: var(--default-text-color);
+  font-size: $base-font-size;
+  font-weight: bold; /* Make the text bold */
+}
+
+// Volume measurements
+.recipe-vol {
+  display: inline; /* Prevent line break */
+  color: var(--default-text-color);
+  font-size: $base-font-size + 2;
+  font-style: italic;
+}
+
+// Mass measurements
+.recipe-grams {
+  display: inline; /* Prevent line break */
+  color: var(--gray-text-color);
+  font-size: $base-font-size + 2;
+  font-style: italic;
+}
+
+// Food (ingredient) text
+.recipe-food {
+  display: inline; /* Prevent line break */
+  color: var(--default-text-color);
+  font-size: $base-font-size + 2;
+  font-style: italic;
+}
+
+// Text color of costs
+.ingredient-cost, .total-cost {
+  display: inline; /* Prevent line break */
+  color: var(--green-text-color);
+  font-style: italic; /* Italicize the text */
+}
+
+// Sections of recipe (beef, vegetables, etc.)
+.ingredients-section {
+  display: block; /* Prevent line break */
+  color: var(--default-text-color);
+  font-size: $base-font-size + 4;
+  font-style: italic; /* Italicize the text */
+  margin-top: 20px; /* Adds extra space top the element */
+}
+
+
+
+// Printing
 @media print {
   /* Hide elements not needed in the printed version */
   .recipe-image,
@@ -793,7 +926,23 @@ a.button {
   }
 
   /* Other styles to ensure print formatting */
-  body {
+  body,
+  .page-title, 
+  .post-header,
+  .recipe-header,
+  .recipe-section,
+  .recipe-section-bold,
+  .recipe-vol,
+  .recipe-grams,
+  .recipe-food,
+  .ingredient-cost,
+  .total-cost,
+  .ingredients-section,
+  .green-text-themed,
+  .yellow-text-themed,
+  .red-text-themed,
+  .gray-text-themed,
+  .blue-text-themed {
       background: #fff !important;
       color: #000 !important;
       margin: 0 !important;
@@ -808,27 +957,5 @@ a.button {
   * {
       box-shadow: none !important;
       border: none !important;
-  }
-}
-
-/* Each post item */
-.recipe-category-buttons {
-  border: 3px solid var(--minima-brand-color);
-  border-radius: 5px; /* Rounded corners */
-}
-
-.recipe-category-buttons:hover {
-  background-color: var(--menu-hover-color);
-  border: 3px solid var(--minima-link-base-color);
-}
-
-@media (min-width: 768px) {
-  .recipe-category-buttons {
-    flex-direction: row;
-    flex-wrap: wrap;
-    flex-grow: 2;
-    width: 45%;
-    max-width: 50%;
-    object-fit: cover;
   }
 }

@@ -94,7 +94,7 @@ tags:
 <br><i><font size="+2">Silicone Liners</font></i><br>
 &emsp;Silicone liners are great to have around.  They make cleanup so much easier, and they cut back on waste, as opposed to using disposable parchment paper every time.  I have ones for both my <a href="https://www.amazon.com/Amazon-Basics-Silicone-Non-Stick-Rectangular/dp/B077XTPWZ5/ref=sr_1_27?sr=8-27">oven sheet pans</a> and my <a href="https://www.amazon.com/gp/product/B0C58RP6G9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8">air fryer</a>.  It's especially useful when using the <a rel="" target="" href="#air-fryer">air fryer</a>, as it's handwash only.  Pop one of those instead, and the air fryer stays totally clean.  Same thing with <a rel="" target="" href="#pots-and-pans">pans</a>.  As long as the pan doesn't get dirty, just a light rinse will do; no need to fully wash it.
 
-<center><img src="/assets/Misc/Kitchen/silicone.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Kitchen/silicone.jpg" alt="" class="larger-image"></center><br>
 <div id="pots-and-pans"></div>
 <br><i><font size="+2">Pots and Pans</font></i><br>
 &emsp;Having a good simple set of pots and pans will make your life much easier.  I tend to opt for nonstick or ceramic for ease of use, but I also keep some stainless steel pots and pans around.  A cast iron would be great too, but they can be a lot of work to maintain, as you need to season and hand wash them.

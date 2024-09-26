@@ -27,7 +27,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt=""></a></center><br>
+<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt="" class="larger-image"></a></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -150,7 +150,7 @@ tags:
 <br><i><font size="+2">Peanut Butter</font></i><br>
 &emsp;<a href="/recipes/natural-peanut-butter">Natural nut butter</a> is the nectar of the gods.  Not only is it absolutely delicious, but it's very good for you.  Peanut butter has all the same downisdes as regular nuts though, but even worse, as it's even easier to over eat.  Just a large spoonful, or about 2 tbsp (32 g), of peanut butter contains 190 calories.  So while its packed with healthy fats and micronutrients, you need to be very mindful of your nut butter consumption, as the calories can add up very very quickly.  If you're eating peanut butter with your apple, you'll probably end up consuming twice as many caloreis from peanut butter than from the apple itself.
 
-<center><img src="/assets/Misc/Trap/pb.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/pb.jpg" alt="" class="larger-image"></center><br>
 &emsp;However, overconsumption isn't even the main problem with peanut butter.  The problem is the fake "no stir" peanut butter, that also contain hydroginated oils and sugar.  This peanut spread is cheaper than even buying your own peanuts and grinding them yourself, just fueling the problem (remember: sugar and oil are subsidized and therefore very cheap).  Just like with regular nuts, make sure to only buy peanut butter (or any nut butter) that is labeled as natural, and contains only nuts and salt.  My favorite brands (when I don't make it myself) are <a href="https://www.walmart.com/ip/Teddie-All-Natural-Smooth-Peanut-Butter-36-oz/640652420?from=/search">Teddie</a> and Trader Joe's.  Stay away from any flavored nut butters, especially...
 
 <div id="nutella"></div>
@@ -164,7 +164,7 @@ tags:
 <br><i><font size="+2">Jelly and Jam</font></i><br>
 &emsp;I love a good PB&J.  Which means using a good <a rel="" target="" href="#peanut-butter">peanut butter</a>, jelly, and <a rel="" target="" href="#bread">bread</a>.  Here, we're tackling jelly and jam though.  A jam is ideally just simmered fruit that's mildly sweetened, just like my <a href="/recipes/berry-jam">Low Sugar Berry Jam</a> or <a href="/recipes/strawberry-chia-jam">Strawberry Chia Jam</a>.  The problem is that most jellies and jams are just sugar spreads.  A 1 tbsp (20 g) serving of <a href="https://www.walmart.com/ip/Smucker-s-Concord-Grape-Jelly-18-Ounces/10321567?from=/search">Smuckers Grape Jelly</a> contains 12 g of sugar.  That's 60% sugar (about the same as <a rel="" target="" href="#nutella">nutella</a>), and with none of the fiber from the whole fruit.  Even jellies that claim to be healthy may just be using sugar under different names, like evaporated cane juice or apple juice concentrate.
 
-<center><a href="https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321"><img src="/assets/Misc/Trap/jelly.jpg" alt=""></a></center><br>
+<center><a href="https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321"><img src="/assets/Misc/Trap/jelly.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Outside of making your own jam, your best bets are any low sugar jam or jelly, with less than 4-5 g of added sugar per serving.  Trader Joe's has some good low sugar jellies, jams, and preserves.  <a href="https://www.walmart.com/ip/Good-Good-Keto-Friendly-Sweet-Strawberry-Jam-12-oz-1-Count/212702301?from=/search">Good Good</a> is also a good stevia sweetened jam brand, and this <a href="https://www.walmart.com/ip/Smucker-s-Low-Sugar-Reduced-Sugar-Strawberry-Preserves-15-5-Ounces/10308118?from=/search">Smuckers Low Sugar Strawberry Preserves</a> is a decent option.  Just stay away from any jellies labeled as "Sugar free" (like <a href="https://www.walmart.com/ip/Smucker-s-Sugar-Free-Concord-Grape-Jam-with-Splenda-Brand-Sweetener-12-75-Ounces/10308139?athbdg=L1200&from=/search">this one</a>), as those are sweetened with <a rel="" target="" href="#sugar-substitutes">sucralose</a> and taste disgusting.
 
 <div id="dried-fruit"></div>
@@ -178,7 +178,7 @@ tags:
 <br><i><font size="+2">Fruit Juice</font></i><br>
 &emsp;So <a rel="" target="" href="#dried-fruit">dried fruit</a> is a highly concentrated source of sugar, even natural, that you should be mindful of consuming.  But what if we did the opposite: remove all the fiber, but keep all the water?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any added sugar, is only marginally better for you than a glass of soda.  You'll get some Vitamin C, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href="https://www.walmart.com/ip/Simply-Non-GMO-Orange-Juice-No-Pulp-52-fl-oz-Bottle/959033640?athbdg=L1200&from=/search">orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without fiber to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
 
-<center><a href="https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks"><img src="/assets/Misc/Trap/juice-vs-soda.jpg" alt=""></a></center><br>
+<center><a href="https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks"><img src="/assets/Misc/Trap/juice-vs-soda.jpg" alt="" class="larger-image"></a></center><br>
 <div id="smoothie"></div>
 <br><i><font size="+2">Smoothies</font></i><br>
 &emsp;So if <a rel="" target="" href="#dried-fruit">dried fruit</a> is a maybe and <a rel="" target="" href="#juice">fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more fiber than fruit juice.  However, the process of blending fruit destroys some of it's fiber.  A smoothie can still be healthy however.  Just make sure to add some protein and fat to slow down the spike to your blood sugar.  I prefer using protein powder, greek yogurt, and chia seeds for a <a href="/recipes/smoothie">Protein Fruit Smoothie</a> if I do have one, but peanut butter, almond butter, avocado, or flaxseeds also work as great fat sources.  The healthiest smoothies also include some vegetables like spinach as well.
@@ -204,21 +204,21 @@ tags:
 <br><i><font size="+2">Coffee</font></i><br>
 &emsp;As I mentioned above with <a rel="" target="" href="#energy-drinks">energy drinks</a>, caffeine isn't inherently good or bad.  It can absolutely be a substance of toxic abuse, or it can help improve alertness and brain function.  For clarity, I'll say that I don't consume coffee or any caffeine.  I've just never drank it, so my body has never developed a dependency for it like most people.  There are studies showing the benefits of caffeine in moderation however; every coin has 2 sides.
 
-<center><img src="/assets/Misc/Trap/coffee.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/coffee.jpg" alt="" class="larger-image"></center><br>
 &emsp;So why is coffee on this list then?  Added fat and sugar.  <a href="https://www.starbucks.com/menu/product/873068728/iced/nutrition">Starbucks Peppermint White Chocolate Mocha Frappuccino</a> contains a tooth shattering and diabetes inducing 73 g of added sugar (that's over 6 tablespoons!), as well as 470 calories and 17 g of fat.  That's almost 10 g more sugar and double the calories of a 16.9 fl oz <a href="https://www.walmart.com/ip/Mountain-Dew-The-Original-Soda-Pop-16-9-fl-oz-6-Pack-Bottles/16785022?athbdg=L1600&from=/search">Mountain Dew</a>.  One of these every morning along with a <a rel="" target="" href="#muffins">muffin</a> is a one way ticket to metabolic syndrome.  Only black coffee contains any benefits; this is just a caffeinated milkshake.
 
 <div id="iced-tea"></div>
 <br><i><font size="+2">Iced Tea</font></i><br>
 &emsp;I think most people can agree that while tea is healthy, there's no health benefits of a Snapple or Arnold Palmer iced tea.  The issue comes from the iced teas that are marketed as being "healthy", with <a href="https://www.walmart.com/ip/Pure-Leaf-Raspberry-Real-Brewed-Iced-Tea-Bottled-Tea-Drink-16-9-oz-6-Bottles/217654271?athbdg=L1600&from=/search">Pure Leaf</a> being the main brand.  For a 16.9 fl oz serving of Pure Leaf, there's 42 g of added sugar, or 2.5 g per fl oz.  Just a single bottle contains over 1.5x your daily added sugar maximum.  The nutrition facts for the Pure Leaf are on the left below.  
 
-<center><img src="/assets/Misc/Trap/iced-tea.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/iced-tea.jpg" alt="" class="larger-image"></center><br>
 &emsp;Compare that to this <a href="https://www.walmart.com/ip/Great-Value-Sweet-Brewed-Iced-Tea-128-fl-oz-Bottle/10899050?athbdg=L1600&from=/search">Great Value Iced Tea</a> (on the right in the above image).  This store brand iced tea has 30 g of added sugar in a 12 fl oz serving, or 2.5 g of sugar per fl oz.  Hey look at that; it's the exact same amounts of added sugar!  Don't be a fool to marketing.
 
 <div id="diet-soda"></div>
 <br><i><font size="+2">Diet Soda</font></i><br>
 &emsp;So no sugar = healthy, right?  Not quite.  While the issue of <a rel="" target="" href="#sugar-substitutes">artificial sweeteners</a> is a highly contested topic, it is generally agreed that artificial sweeteners, and by extension diet coke, are less bad than their full sugar counterparts.  Less bad, but that doesn't mean good.  Diet soda is good if you're addicted to regular soda, and are trying to wean yourself off.  In the same way that vaping could be helpful as a way to quit cigarettes.  That doesn't mean you should take up vaping, and the same holds true for a Diet Coke.
 
-<center><a href="https://www.heart.org/en/news/2021/05/20/a-diet-soda-a-day-might-affect-dementia-risk-study-suggests"><img src="/assets/Misc/Trap/soda-brain.jpg" alt=""></a></center>
+<center><a href="https://www.heart.org/en/news/2021/05/20/a-diet-soda-a-day-might-affect-dementia-risk-study-suggests"><img src="/assets/Misc/Trap/soda-brain.jpg" alt="" class="larger-image"></a></center>
 <div id="milk"></div>
 <br><i><font size="+2">Milk</font></i><br>
 &emsp;Ah, the humble milk.  Whether you get whole milk, low fat, or skim, milk can be a nutrition option.  It's a complete protein, the fat helps with feeling satiated, and of course is a good source of calcium.  Milk isn't on this list because of it's fat content.  I think we know by now that fat is very good for you when not overconsumed; we don't live in the low fat craze of the 90s anymore.
@@ -337,7 +337,7 @@ tags:
 
 &emsp;I like have rice on the side with my meals, like with my <a href="/recipes/rice-and-beans">Classic Rice and Beans</a> or <a href="/recipes/cauliflower-rice">Simple Cauliflower Rice</a>.  Rice also works great mixed into dishes, such as <a href="/recipes/baked-rice-and-beans">Baked Rice and Beans with Vegetables</a> or <a href="/recipes/lebanese-casserole">Lebanese Riced Cauliflower Casserole</a>.
 
-<center><a href="https://www.bhutannatural.com/resources/white-rice-bad-for-you"><img src="/assets/Misc/Trap/white-rice.jpg" alt=""></a></center><br>
+<center><a href="https://www.bhutannatural.com/resources/white-rice-bad-for-you"><img src="/assets/Misc/Trap/white-rice.jpg" alt="" class="larger-image"></a></center><br>
 <div id="flour"></div>
 <br><i><font size="+2">Flour</font></i><br>
 &emsp;If you've noticed, all of my recipes stay away from <a href="https://www.walmart.com/ip/Great-Value-All-Purpose-Enriched-Flour-5LB-Bag/10403017?athbdg=L1200&from=/search">white flour</a>, also known as all purpose flour.  Instead, I opt for <a href="https://www.walmart.com/ip/King-Arthur-Flour-100-Premium-Whole-Wheat-Flour-80-oz/10535109?athbdg=L1200&from=/search">whole wheat flour</a> in recipes with gluten, and probably either <a href="https://www.walmart.com/ip/Great-Value-Whole-Grain-Quick-Rolled-Oats/10314926?athbdg=L1200&from=/search">oat flour</a> or <a href="https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474?athbdg=L1200&from=/search">coconut flour</a> in gluten free dishes.  So why not all purpose flour?  Below is a diagram showing the anatomy of a grain of wheat.  Grinding togther the whole kernel (the bran, germ, and endosperm) will yield whole wheat flour, which is rich in nutrients like fiber, protein, calcium, iron, potassium, and some B vitamins (B1, B3, and B5).  It also contains a small amount of fat, which in combination with the high fiber content of whole wheat flour leads to much lower spikes in blood sugar.  Whole wheat flour can be used just like regular all purpose flour in baking, and leaves you with a great nutty flavor that adds a lot of depth to your baking.
@@ -349,10 +349,10 @@ tags:
 <br><i><font size="+2">Bread</font></i><br>
 &emsp;As discussed, <a rel="" target="" href="#flour">white flour</a> is generally a poor nutrition choice; it would then follow that <a href="https://www.walmart.com/ip/Wonder-Bread-Classic-White-Sandwich-Bread-Sliced-White-Bread-20-oz/37858875?athbdg=L1600&from=/search">white bread</a> would also not be your healthiest option.  Though <a href="https://www.walmart.com/ip/Arnold-Whole-Grains-100-Bread-24-oz-Whole-Wheat-Soft-Wheat-Bread-Bag/10403544?athbdg=L1300&from=/search">whole wheat bread</a> isn't that much better of an option if we're still talking about commercially processed bread products.  Most store bought loaves of bread are high in our old friend, added sugar (a lot of whole wheat breads actually contain more sugar than their white bread counterparts), as well as vegetable oils and preservatives.  Look at that giant list of ingredients below!  There's a reason why grocery store bread can last for weeks without going bad, whereas real bread from a bakery goes stale in just a day or two (tip: store extra fresh baked bread in the freezer, it'll last forever in there).  Traditionally, bread is just flour, water, yeast, and salt; one of man's oldest and simplest creations.
 
-<center><img src="/assets/Misc/Trap/bread.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/bread.jpg" alt="" class="larger-image"></center><br>
 &emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of whole wheat bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high sugar content.  White bread is essentially entirely made up of glucose, leading to the largest blood sugar spike of any food you could consume.  Even whole wheat bread is a high GI food, but it is significantly lower than white bread.  Below is a chart of different foods and their respective GI values.
 
-<center><a href="https://x.com/iam_preethi/status/1345457708892266496"><img src="/assets/Misc/Trap/gi.jpg" alt=""></a></center><br>
+<center><a href="https://x.com/iam_preethi/status/1345457708892266496"><img src="/assets/Misc/Trap/gi.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;If you'd like to get into <a href="/recipes/bread">breadmaking</a>, I have plenty of whole wheat flour recipes.  I've linked some of them below.<br>
 &emsp;- <a href="/recipes/ww-bread">100% Whole Wheat Bread</a><br>
 &emsp;- <a href="/recipes/tortilla">Oat-Wheat Tortillas</a><br>
@@ -411,13 +411,13 @@ tags:
 <br><i><font size="+2">Unrefined Sugars</font></i><br>
 &emsp;Very often, I see recipes that are "sugar free", meaning they replace any white or brown sugar with some other natural, less refined sweetener.  While it is true that these may offer some very minimal health benefits, at the end of the day they are still just concentrated sugar that needs to be moderated.  
 
-<center><a href="https://www.nutrientsreview.com/carbs/disaccharides-sucrose.html"><img src="/assets/Misc/Trap/sucrose.jpg" alt=""></a></center><br>
+<center><a href="https://www.nutrientsreview.com/carbs/disaccharides-sucrose.html"><img src="/assets/Misc/Trap/sucrose.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;To start though, what even is sugar?  I've mentioned it a lot here, but what exactly is it?  Here's the really rough chemistry lesson:  <a href="https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-4-lb/10315162?athbdg=L1200&from=/search">White sugar</a>, or sucrose, is a chemical bond of 50% glucose (your body's main energy source) and 50% fructose (what's actually sweet, typically found in fruit).  It is typically made from dehydrated sugar cane or beets.  <a href="https://www.walmart.com/ip/Great-Value-Light-Brown-Sugar-32-oz/10315012?athbdg=L1600&from=/search">Brown sugar</a> is simply just white sugar plus molasses.  High intakes of sugar, particilarly fructose, can lead to diabetes, heart disease, fatty liver, Alzheimer's, high blood pressure, and much much more.  
 
-<center><a href="https://www.27fchileanway.cl/is-high-fructose-corn-syrup-worse-than-fructose/"><img src="/assets/Misc/Trap/hfcs.jpg" alt=""></a></center><br>
+<center><a href="https://www.27fchileanway.cl/is-high-fructose-corn-syrup-worse-than-fructose/"><img src="/assets/Misc/Trap/hfcs.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;High fructose corn syrup on the other hand comes from corn (duh), and is about 45% glucose to 55% fructose.  The main difference is that the glucose and fructose are not bonded together; instead they are free molecules.  This means that the fructose does even more damage to your body than standard sugar.  You can't even commercially buy high fructose corn syrup; I think that's telling of how bad it is for you.
 
-<center><a href="https://www.sdxtraining.com/articles/how-the-body-absorbs-sugar-high-fructose-corn-syrup"><img src="/assets/Misc/Trap/hfcs2.jpg" alt=""></a></center><br>
+<center><a href="https://www.sdxtraining.com/articles/how-the-body-absorbs-sugar-high-fructose-corn-syrup"><img src="/assets/Misc/Trap/hfcs2.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;So what are the "unrefined" sugars then?  Let's start with the granulated ones first: <a href="https://www.walmart.com/ip/BetterBody-Foods-Organic-Coconut-Palm-Sugar-24-oz/296443014?athbdg=L1200&from=/search">coconut sugar</a> and <a href="https://www.walmart.com/ip/Health-Garden-Organic-Date-Sugar-Sweetener-16-oz-453-g/1221064330?from=/search">date sugar</a>.  These are essentially the exact same thing as regular granulated sugar.  Instead of dehydrating a sugar cane or beet and making it into a pure sugar, it's instead done with dates or coconut.  Okay in moderation like all added sugar, but really just the same product from a different fruit.  And no, <a href="https://www.walmart.com/ip/Great-Value-Organic-Granulated-Cane-Sugar-4-lbs/945590425?from=/search">organic cane sugar</a> is not any better for you.  You're just spending more money for the same product.
 
 &emsp;Next up are the liquid sweeteners.  My mind goes to <a href="https://www.walmart.com/ip/Great-Value-Honey-12-oz-Plastic-Bear/20647992?athbdg=L1200&from=/search">honey</a>, <a href="https://www.walmart.com/ip/Great-Value-Pure-Maple-Syrup-12-5-fl-oz/13925187?athbdg=L1200&from=/search">maple syrup</a>, <a href="https://www.walmart.com/ip/Great-Value-Organic-Golden-Blue-Agave-Sweetener-Sugar-Substitute-23-5-oz-Bottle/280871866?from=/search">agave</a>, <a href="https://www.walmart.com/ip/Original-Date-Syrup-1-5-lb/156444591?athbdg=L1200&from=/search">date syrup</a>, and <a href="https://www.walmart.com/ip/Grandma-s-Original-Unsulphured-Molasses-12-fl-oz/15716722?athbdg=L1200&from=/search">molasses</a>.  With the exception of molasses, all these liquid sweeteners are more fructose than glucose, wtih agave being the worst offender at 85% fructose.  In equal quantities, agave might actually be worse for you than high fructose corn syrup.  Molasses is mostly glucose, which is why it's not that sweet, despite being entirely sugar.
@@ -444,7 +444,7 @@ tags:
 
 &emsp;Allulose on the other hand isn't a sugar alcohol, but it has properties more closely aligned with it.  It occurs naturally in some fruits, and anything not absorbed exits your body in your urine.  Like erythritol, allulose contains about 0.2 calories per gram, and is about 70% the sweetness of table sugar
 
-<center><a href="https://www.drpeterosborne.com/artificial-sweeteners-toxic-side-effects/"><img src="/assets/Misc/Trap/artificial-health-risks.jpg" alt=""></a></center><br>
+<center><a href="https://www.drpeterosborne.com/artificial-sweeteners-toxic-side-effects/"><img src="/assets/Misc/Trap/artificial-health-risks.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Overall, I don't have too much bad to say about the low calorie sweeteners.  But I want to point them out for 3 main reasons.  Firstly, most of these, like stevia, monk fruit, and all the artificial sweeteners, are many hundred times sweeter than table sugar.  As such, any granulated forms of these contain very small amounts of the actual sweetener.  Instead, the majority of the packet is either maltodextrin or dextrose, a flavorless sugar that's added to bulk up the product, making it measure more similarly to sugar.  Yes you heard that right; your sugar free sweeteners have sugar in them.  Talk about irony.  Instead try to get a liquid version of these sweeteners.  I prefer to use <a href="https://www.walmart.com/ip/Splenda-ZERO-Stevia-Liquid-Zero-Calorie-Sweetener-3-38-fl-oz/616697386?from=/search">liquid stevia</a> or <a href="https://www.walmart.com/ip/Splenda-ZERO-Monk-Fruit-Zero-Calorie-Liquid-Sweetener-3-38-fl-oz/875266912?from=/search">liquid monk fruit</a> with essentially just water and the natural sweetener.
 
 <center><img src="/assets/Misc/Trap/stevia-monk-fruit.jpg" alt="" class="larger-image"></center><br>
@@ -500,7 +500,7 @@ tags:
 <br><i><font size="+2">Margarine and Low Fat Butter</font></i><br>
 &emsp;Margarine is a butter substitute typically made from <a rel="" target="" href="#seed-oil">vegetable oils</a>.  Popular brands include <a href="https://www.walmart.com/ip/Country-Crock-Original-Vegetable-Oil-Spread-45-oz-Tub-Refrigerated/10291546?athbdg=L1600&from=/search">Country Crock</a> and <a href="https://www.walmart.com/ip/I-Can-t-Believe-It-s-Not-Butter-Original-Spread-15-oz-Tub-Refrigerated/10306827?athbdg=L1600&from=/search">I Can't Believe It's Not Butter</a>.  They're heavily processed, contain unnecessary additives, and even used to have trans fats until they were banned.  Margarine is essentially hydroginated <a rel="" target="" href="#seed-oil">seed oils</a>, turning them from a liquid to a solid.  I'm not calling butter a health food, but I'd certainly opt for that over the fake butter substitutes.
 
-<center><a href="https://www.meghantelpner.com/butter-or-margarine/"><img src="/assets/Misc/Trap/margarine-vs-butter.jpg" alt=""></a></center><br>
+<center><a href="https://www.meghantelpner.com/butter-or-margarine/"><img src="/assets/Misc/Trap/margarine-vs-butter.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Despite trans fats being banned in the US, most brands still contain trace amounts, as it can legally be rounded down to 0g if they contain less than 0.5g of trans fats.  Trans fats in any amount are extremenly harmful to your health, raising LDL, lowering HDL, and lead to increased risk of heart attack or stroke.  The process of partially hydroginating unsaturated fats is how trans fats are created (how margarine used to be made).  Now, it uses fully hydroginated oils, which are instead saturated fats instead of trans fats.  Research on fully hydroginated fats is minimal, as trans fats were only banned in 2018, but it's assumed that these fats are less bad, but not good.  Always opt for whole food fat sources whenever possible instead, like nuts, avocado, fatty fish, and EVOO. 
 
 <div id="salad-dressing"></div>
@@ -596,7 +596,7 @@ tags:
 
 &emsp;Unfortunately, these meats tend to be very heavily processed and have high amounts of sodium and saturated fat.  Sodium can be up to 400% higher in cold cuts as compared to standard cuts of meat, as well as containing more fat than protein in many cases.  Plus, cold cuts are often paired with cheese and bread, which can also be quite sodium dense.  Additionally, the curing processes involving nitrates and nitrites to preserve the meats have been linked to colorectal cancer, as well as heart disease and high blood pressure.  
 
-<center><a href="https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html"><img src="/assets/Misc/Trap/processed-meat.jpg" alt=""></a></center><br>
+<center><a href="https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html"><img src="/assets/Misc/Trap/processed-meat.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Try grilling, roasting, or shredding your own chicken, or sautee some ground beef or turkey to use instead.  Here's some ideas to get you started:
 - <a href="/recipes/marinated-chicken">Marinated Chicken with Air Fried Plantains</a><br>
 - <a href="/recipes/breaded-chicken">Italian Breaded Chicken with Brushetta</a><br>
@@ -623,7 +623,7 @@ tags:
 <br><i><font size="+2">Cornbread</font></i><br>
 &emsp;...cornbread.  <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Mini-Sweet-Cornbread-16-oz-8-Count/130416860?from=/search">Cornbread</a> is another dessert that somehow weaseled it's way onto your dinner plate.  Just like muffins, banana bread, and baked beans, cornbread is secretly a dessert with good marketing.  The one linked above (and shown below) has sugar as it's first ingredient, closely followed by bleached white flour and seed oil (wait, where's the cornmeal?).  There's more added sugar, fat, and calories in 1 slice of this cornbread as one of these <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Chocolate-Chip-Bakery-Cookies-14-oz-10-Count/184184305?athbdg=L1600&from=/search">large chocolate chip cookies</a>!
 
-<center><img src="/assets/Misc/Trap/cornbread.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/cornbread.jpg" alt="" class="larger-image"></center><br>
 &emsp;Cornbread or corn muffins can be a fine dessert in moderation, but know what you're getting when you reach for a slice.  If you're anything like me (if you're this deep down then congrats, you probably are lol), you should enjoy my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a>, which is much higher in protein, lower in fat and carbs, and free of any added sugars or artificial sweeteners.
 
 <div id="potatoes"></div>
@@ -658,7 +658,7 @@ tags:
 - Potassium: 20% of DV
 - Vitamin B5: 19% of DV
 
-<center><img src="/assets/Misc/Trap/potatoes.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/potatoes.jpg" alt="" class="larger-image"></center><br>
 &emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred carb side to a meal as opposed to pasta, rice, or bread, such as in the following recipes:
 - <a href="/recipes/burger-bowl">Chopped Burger Bowl with Sweet Potatoes</a><br>
 - <a href="/recipes/home-fries">Sweet Potato Home Fries</a><br>

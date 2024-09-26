@@ -58,13 +58,14 @@
         {% assign servingCostFraction = servingCostSplit[1] || append: "00" | truncate: 2, "" %}
         
         <!-- Print total and serving costs -->
-        <b><u><font size="+2">Cost</font></u></b><br>
+        <div class="recipe-header">Cost</div>
         <font size="+1">
             <div id="recipe"></div>
-            <b>Total Cost: </b>${{ totalCostIntegral }}.{{ totalCostFraction }}<br>
-            <b>Cost per Serving: </b>${{ servingCostIntegral }}.{{ servingCostFraction }}<br>
+            <div class="recipe-section-bold">Total Cost: </div><div class="total-cost">${{ totalCostIntegral }}.{{ totalCostFraction }}</div>
+            <br>
+            <div class="recipe-section-bold">Cost per Serving: </div><div class="total-cost">${{ servingCostIntegral }}.{{ servingCostFraction }}</div>
+            <br>
         </font>
-        <br>
         
     {% endif %}
 </div>

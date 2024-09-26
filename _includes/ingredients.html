@@ -7,12 +7,12 @@
 
     <!-- Print section title -->
     {% if ing %}
-        <b><u><font size="+2">Ingredients</font></u></b><br>
+        <div class="recipe-header">Ingredients</div>
     {% endif %}
 
     <!-- Section 1 -->
     {% if !page.section1 %}
-        <i><font size="+2">{{ page.section1 }}</font></i><br>
+        <div class="ingredients-section">{{ page.section1 }}</div>
     {% endif %}
 
     <!-- Loops through the rows -->
@@ -34,27 +34,27 @@
                     <!-- Section 2 -->
                     {% if pair[1] == page.start2 %}
                         {% if !page.section2 %}
-                            <br><i><font size="+2">{{ page.section2 }}</font></i><br>
+                            <div class="ingredients-section">{{ page.section2 }}</div>
                         {% endif %}
                     {% endif %}
 
                     <!-- Section 3 -->
                     {% if pair[1] == page.start3 %}
                         {% if !page.section3 %}
-                            <br><i><font size="+2">{{ page.section3 }}</font></i><br>
+                            <div class="ingredients-section">{{ page.section3 }}</div>
                         {% endif %}      
                     {% endif %}
 
                     <!-- Section 4 -->
                     {% if pair[1] == page.start4 %}
                         {% if !page.section4 %}
-                            <br><i><font size="+2">{{ page.section4 }}</font></i><br>
+                            <div class="ingredients-section">{{ page.section4 }}</div>
                         {% endif %}           
                     {% endif %}
 
                     {% if pair[1] == page.start5 %}
                         {% if !page.section4 %}
-                            <br><i><font size="+2">{{ page.section5 }}</font></i><br>
+                            <div class="ingredients-section">{{ page.section5 }}</div>
                         {% endif %}          
                     {% endif %}               
 
@@ -82,9 +82,9 @@
                 
             {% endfor %}
 
-        - <font size="+1">{{ vol }} (<i><font class="gray-text-themed">{{ mass }} {{ unit }}</font></i>) {{ food }} {% include costIngredients.html item=food amount=mass %}</font><br>
+        - <div class="recipe-vol">{{ vol }}</div> <div class="recipe-grams">({{ mass }} {{ unit }})</div> <div class="recipe-food">{{ food }}</div> {% include costIngredients.html item=food amount=mass %}
+        <br>
 
         {% endif %}
     {% endfor %}
-    <br>
 </div>

@@ -46,7 +46,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt=""></a></center><br>
+<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt="" class="larger-image"></a></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -185,7 +185,7 @@ tags:
 
 &emsp;I like have rice on the side with my meals, like with my <a href="/recipes/rice-and-beans">Classic Rice and Beans</a> or <a href="/recipes/cauliflower-rice">Simple Cauliflower Rice</a>.  Rice also works great mixed into dishes, such as <a href="/recipes/baked-rice-and-beans">Baked Rice and Beans with Vegetables</a> or <a href="/recipes/lebanese-casserole">Lebanese Riced Cauliflower Casserole</a>.
 
-<center><a href="https://www.bhutannatural.com/resources/white-rice-bad-for-you"><img src="/assets/Misc/Trap/white-rice.jpg" alt=""></a></center><br>
+<center><a href="https://www.bhutannatural.com/resources/white-rice-bad-for-you"><img src="/assets/Misc/Trap/white-rice.jpg" alt="" class="larger-image"></a></center><br>
 <div id="flour"></div>
 <br><i><font size="+2">Flour</font></i><br>
 &emsp;If you've noticed, all of my recipes stay away from <a href="https://www.walmart.com/ip/Great-Value-All-Purpose-Enriched-Flour-5LB-Bag/10403017?athbdg=L1200&from=/search">white flour</a>, also known as all purpose flour.  Instead, I opt for <a href="https://www.walmart.com/ip/King-Arthur-Flour-100-Premium-Whole-Wheat-Flour-80-oz/10535109?athbdg=L1200&from=/search">whole wheat flour</a> in recipes with gluten, and probably either <a href="https://www.walmart.com/ip/Great-Value-Whole-Grain-Quick-Rolled-Oats/10314926?athbdg=L1200&from=/search">oat flour</a> or <a href="https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474?athbdg=L1200&from=/search">coconut flour</a> in gluten free dishes.  So why not all purpose flour?  Below is a diagram showing the anatomy of a grain of wheat.  Grinding togther the whole kernel (the bran, germ, and endosperm) will yield whole wheat flour, which is rich in nutrients like fiber, protein, calcium, iron, potassium, and some B vitamins (B1, B3, and B5).  It also contains a small amount of fat, which in combination with the high fiber content of whole wheat flour leads to much lower spikes in blood sugar.  Whole wheat flour can be used just like regular all purpose flour in baking, and leaves you with a great nutty flavor that adds a lot of depth to your baking.
@@ -197,10 +197,10 @@ tags:
 <br><i><font size="+2">Bread</font></i><br>
 &emsp;As discussed, <a rel="" target="" href="#flour">white flour</a> is generally a poor nutrition choice; it would then follow that <a href="https://www.walmart.com/ip/Wonder-Bread-Classic-White-Sandwich-Bread-Sliced-White-Bread-20-oz/37858875?athbdg=L1600&from=/search">white bread</a> would also not be your healthiest option.  Though <a href="https://www.walmart.com/ip/Arnold-Whole-Grains-100-Bread-24-oz-Whole-Wheat-Soft-Wheat-Bread-Bag/10403544?athbdg=L1300&from=/search">whole wheat bread</a> isn't that much better of an option if we're still talking about commercially processed bread products.  Most store bought loaves of bread are high in our old friend, added sugar (a lot of whole wheat breads actually contain more sugar than their white bread counterparts), as well as vegetable oils and preservatives.  Look at that giant list of ingredients below!  There's a reason why grocery store bread can last for weeks without going bad, whereas real bread from a bakery goes stale in just a day or two (tip: store extra fresh baked bread in the freezer, it'll last forever in there).  Traditionally, bread is just flour, water, yeast, and salt; one of man's oldest and simplest creations.
 
-<center><img src="/assets/Misc/Trap/bread.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/bread.jpg" alt="" class="larger-image"></center><br>
 &emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of whole wheat bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high sugar content.  White bread is essentially entirely made up of glucose, leading to the largest blood sugar spike of any food you could consume.  Even whole wheat bread is a high GI food, but it is significantly lower than white bread.  Below is a chart of different foods and their respective GI values.
 
-<center><a href="https://x.com/iam_preethi/status/1345457708892266496"><img src="/assets/Misc/Trap/gi.jpg" alt=""></a></center><br>
+<center><a href="https://x.com/iam_preethi/status/1345457708892266496"><img src="/assets/Misc/Trap/gi.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;If you'd like to get into <a href="/recipes/bread">breadmaking</a>, I have plenty of whole wheat flour recipes.  I've linked some of them below.<br>
 &emsp;- <a href="/recipes/ww-bread">100% Whole Wheat Bread</a><br>
 &emsp;- <a href="/recipes/tortilla">Oat-Wheat Tortillas</a><br>
@@ -244,7 +244,7 @@ tags:
 <br><i><font size="+2">Cornbread</font></i><br>
 &emsp;...cornbread.  <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Mini-Sweet-Cornbread-16-oz-8-Count/130416860?from=/search">Cornbread</a> is another dessert that somehow weaseled it's way onto your dinner plate.  Just like muffins, banana bread, and baked beans, cornbread is secretly a dessert with good marketing.  The one linked above (and shown below) has sugar as it's first ingredient, closely followed by bleached white flour and seed oil (wait, where's the cornmeal?).  There's more added sugar, fat, and calories in 1 slice of this cornbread as one of these <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Chocolate-Chip-Bakery-Cookies-14-oz-10-Count/184184305?athbdg=L1600&from=/search">large chocolate chip cookies</a>!
 
-<center><img src="/assets/Misc/Trap/cornbread.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/cornbread.jpg" alt="" class="larger-image"></center><br>
 &emsp;Cornbread or corn muffins can be a fine dessert in moderation, but know what you're getting when you reach for a slice.  If you're anything like me (if you're this deep down then congrats, you probably are lol), you should enjoy my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a>, which is much higher in protein, lower in fat and carbs, and free of any added sugars or artificial sweeteners.
 
 <br><u><font size="+2">Sources</font></u><br>

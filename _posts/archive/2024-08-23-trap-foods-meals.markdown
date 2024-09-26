@@ -43,7 +43,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt=""></a></center><br>
+<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt="" class="larger-image"></a></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -72,7 +72,7 @@ tags:
 
 &emsp;I like have rice on the side with my meals, like with my <a href="/recipes/rice-and-beans">Classic Rice and Beans</a> or <a href="/recipes/cauliflower-rice">Simple Cauliflower Rice</a>.  Rice also works great mixed into dishes, such as <a href="/recipes/baked-rice-and-beans">Baked Rice and Beans with Vegetables</a> or <a href="/recipes/lebanese-casserole">Lebanese Riced Cauliflower Casserole</a>.
 
-<center><a href="https://www.bhutannatural.com/resources/white-rice-bad-for-you"><img src="/assets/Misc/Trap/white-rice.jpg" alt=""></a></center><br>
+<center><a href="https://www.bhutannatural.com/resources/white-rice-bad-for-you"><img src="/assets/Misc/Trap/white-rice.jpg" alt="" class="larger-image"></a></center><br>
 
 <div id="frozen-meals"></div>
 <br><i><font size="+2">Frozen and Canned Meals</font></i><br>
@@ -94,7 +94,7 @@ tags:
 
 &emsp;Unfortunately, these meats tend to be very heavily processed and have high amounts of sodium and saturated fat.  Sodium can be up to 400% higher in cold cuts as compared to standard cuts of meat, as well as containing more fat than protein in many cases.  Plus, cold cuts are often paired with cheese and bread, which can also be quite sodium dense.  Additionally, the curing processes involving nitrates and nitrites to preserve the meats have been linked to colorectal cancer, as well as heart disease and high blood pressure.  
 
-<center><a href="https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html"><img src="/assets/Misc/Trap/processed-meat.jpg" alt=""></a></center><br>
+<center><a href="https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html"><img src="/assets/Misc/Trap/processed-meat.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Try grilling, roasting, or shredding your own chicken, or sautee some ground beef or turkey to use instead.  Here's some ideas to get you started:
 - <a href="/recipes/marinated-chicken">Marinated Chicken with Air Fried Plantains</a><br>
 - <a href="/recipes/breaded-chicken">Italian Breaded Chicken with Brushetta</a><br>
@@ -121,7 +121,7 @@ tags:
 <br><i><font size="+2">Cornbread</font></i><br>
 &emsp;...cornbread.  <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Mini-Sweet-Cornbread-16-oz-8-Count/130416860?from=/search">Cornbread</a> is another dessert that somehow weaseled it's way onto your dinner plate.  Just like muffins, banana bread, and baked beans, cornbread is secretly a dessert with good marketing.  The one linked above (and shown below) has sugar as it's first ingredient, closely followed by bleached white flour and seed oil (wait, where's the cornmeal?).  There's more added sugar, fat, and calories in 1 slice of this cornbread as one of these <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Chocolate-Chip-Bakery-Cookies-14-oz-10-Count/184184305?athbdg=L1600&from=/search">large chocolate chip cookies</a>!
 
-<center><img src="/assets/Misc/Trap/cornbread.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/cornbread.jpg" alt="" class="larger-image"></center><br>
 &emsp;Cornbread or corn muffins can be a fine dessert in moderation, but know what you're getting when you reach for a slice.  If you're anything like me (if you're this deep down then congrats, you probably are lol), you should enjoy my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a>, which is much higher in protein, lower in fat and carbs, and free of any added sugars or artificial sweeteners.
 
 <div id="potatoes"></div>
@@ -156,7 +156,7 @@ tags:
 - Potassium: 20% of DV
 - Vitamin B5: 19% of DV
 
-<center><img src="/assets/Misc/Trap/potatoes.jpg" alt=""></center><br>
+<center><img src="/assets/Misc/Trap/potatoes.jpg" alt="" class="larger-image"></center><br>
 &emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred carb side to a meal as opposed to pasta, rice, or bread, such as in the following recipes:
 - <a href="/recipes/burger-bowl">Chopped Burger Bowl with Sweet Potatoes</a><br>
 - <a href="/recipes/home-fries">Sweet Potato Home Fries</a><br>
