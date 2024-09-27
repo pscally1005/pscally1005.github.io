@@ -48,11 +48,10 @@ Instructions:
 
 - For the beans, I've gone with chickpeas, but any other bean will work, like black, kidney, navy, pinto, or cannellini beans<br><br>
 
-- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire<br><br>
+- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula (or reserve them to top with the chocolate chips). The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-blended.jpg" alt="" class="instruction-image"></center><br>
 
-- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-raw.jpg" alt="" class="instruction-image"></center><br>
+- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be.  Instead of folding the chocolate chips into the batter, you can press them into the top of the cookies here<br><br>
 
 - Bake for about 14 minutes at 350F, or until the cookies are set to the touch<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-baked.jpg" alt="" class="instruction-image"></center><br>

@@ -38,14 +38,14 @@ tags:
 - beans
 - chickpeas
 - garbanzo beans
-Description: Delicious cookies made from a base of beans, dates, and sunflower butter!  These are a variation of my <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>, with added mint extract for the classic mint and chocolate combination.  They're sugar free, nut free, oil free, vegan, gluten free, and dye free.  Yes, there's no food dye in here.  Like with my <a href="/recipes/green-bread">Green Bread - No Food Dye</a>, the sunflower butter reacts with the baking soda to turn the cookies green with out the need for artificial dyes.  For other variations, you should see my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> and my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
+Description: Delicious cookies made from a base of beans, dates, and sunflower butter!  These are a variation of my <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>, with added mint extract for the classic mint and chocolate combination.  They're sugar free, nut free, oil free, gluten free, and vegan.  They're even dye free, as I skipped out on the green food dye to make these cookies more wholesome.  For other variations, you should see my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> and my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper<br><br>
 
 - Add the beans, dates, sunflower seed butter, water, mint extract, and salt to a food processor and blend until smooth.  Be very careful with the mint extract, as it's very strong.  Start with half the amount, and adjust to your tastes<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-unblended.jpg" alt="" class="instruction-image"></center><br>
 
-- For the beans, I've gone with pinto beans, but any other light colored bean will work, like chickpeas, navy beans, , or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change<br><br>
+- For the beans, I've gone with pinto beans, but any other light colored bean will work, like chickpeas, navy beans, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change<br><br>
 
 - Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-blended.jpg" alt="" class="instruction-image"></center><br>
@@ -56,6 +56,6 @@ Instructions:
 - Bake for about 14 minutes at 350F, or until the tops and edges are set to the touch<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-baked.jpg" alt="" class="instruction-image"></center><br>
 
-- Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely.  The cookies will turn more green by the next day<br><br>
+- Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-cool.jpg" alt="" class="instruction-image"></center>
 ---
