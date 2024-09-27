@@ -5,7 +5,7 @@ date:   2024-08-28 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
-permalink: /recipes/grean-bread
+permalink: /recipes/green-bread
 image: /assets/Food/Meme/Green/green-cover.jpg
 ing: green-ing
 facts: green-facts

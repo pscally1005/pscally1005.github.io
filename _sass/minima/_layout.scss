@@ -887,7 +887,6 @@ a.button {
   display: inline; /* Prevent line break */
   color: var(--default-text-color);
   font-size: $base-font-size + 2;
-  font-style: italic;
 }
 
 // Mass measurements
@@ -903,7 +902,6 @@ a.button {
   display: inline; /* Prevent line break */
   color: var(--default-text-color);
   font-size: $base-font-size + 2;
-  font-style: italic;
 }
 
 // Text color of costs
@@ -920,6 +918,68 @@ a.button {
   font-size: $base-font-size + 4;
   font-style: italic; /* Italicize the text */
   margin-top: 20px; /* Adds extra space top the element */
+}
+
+
+
+/* Hide the mobile content by default */
+.mobile-content {
+  display: none;
+}
+
+/* Show the mobile content on smaller screens and hide the desktop content */
+@media only screen and (max-width: 768px) {
+  .desktop-content {
+      display: none;
+  }
+  .mobile-content {
+      display: block;
+  }
+}
+
+
+
+/* Desktop and default */
+#recipe, #nutrition-facts {
+  position: relative;
+}
+
+#recipe:before, #nutrition-facts:before {
+  content: "";
+  display: block;
+  height: 100px; /* Adjust this value to the height of your header */
+  margin-top: -100px; /* Same value as height, moving the element up */
+  visibility: hidden;
+}
+
+/* Adjust for mobile screens */
+@media only screen and (max-width: 768px) {
+  #recipe:before, #nutrition-facts:before {
+      height: 60px; /* Adjust this value for mobile */
+      margin-top: -60px; /* Adjust this value for mobile */
+  }
+}
+
+
+/* Desktop and default */
+#disqus_thread {
+  position: relative;
+}
+
+#disqus_thread:before {
+  content: "";
+  display: block;
+  height: 130px; /* Adjust this value to the height of your header */
+  margin-top: -130px; /* Same value as height, moving the element up */
+  visibility: hidden;
+}
+
+/* Adjust for mobile screens */
+@media only screen and (max-width: 768px) {
+  #disqus_thread:before {
+      height: 80px; /* Adjust this value for mobile */
+      margin-top: -80px; /* Adjust this value for mobile */
+  }
 }
 
 

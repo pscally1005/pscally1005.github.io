@@ -144,7 +144,7 @@ def ingredients(food):
         return str("Coconut flour")    
     elif food == "Cereals, Dry, Quick Oats, QUAKER" or food == "Cereals, Dry, Quick Oats with Iron, QUAKER" or food == "Quick cook rolled oats by BRANDLESS":
         return str("Quick oats")
-    elif food == "Rolled oats whole grain by Bob's Red Mill Natural Foods, Inc." or food == "Oats by The Quaker Oats Company":
+    elif food == "Rolled oats by MILLVILLE" or food == "Rolled oats whole grain by Bob's Red Mill Natural Foods, Inc." or food == "Oats by The Quaker Oats Company":
         return str("Rolled oats")
     elif food == "Unsweetened coconut flakes by Hy-Vee, Inc." or food == "Shredded unsweetened coconut by Bob's Red Mill Natural Foods, Inc.":
         return str("Unsweetened coconut flakes")
@@ -394,6 +394,8 @@ def ingredients(food):
         return str("Raisins")
     elif food == str("85% dark chocolate by Sinless Raw Food Inc"):
         return str("85% chocolate")
+    elif food == str("Bakers Premium 70% Dark Chocolate Baking Bar"):
+        return str("70% chocolate")
     elif food == "Chopped Walnuts, Great Value" or food == "Walnut chopped pieces" or food == "Chopped walnuts by DIAMOND" or food == "Nuts, english, walnuts":
         return str("Walnuts")
     elif food == "Walnut butter by Lyle Style":
@@ -404,6 +406,8 @@ def ingredients(food):
         return str("Pecans")
     elif food == "Seeds, with salt added, dry roasted, sunflower seed kernels" or food == "Seeds, dried, sunflower seed kernels":
         return str("Sunflower kernels")
+    elif food == "Seeds, with salt added, sunflower seed butter":
+        return str("Sunflower seed butter")
     elif food == "Nuts, with salt added, dry roasted, pistachio nuts" or food == "Dry roasted pistachios" or food == "Nuts, raw, pistachios":
         return str("Pistachios")
     elif food == "Raw hazelnuts" or food == "Nuts, hazelnuts or filberts":

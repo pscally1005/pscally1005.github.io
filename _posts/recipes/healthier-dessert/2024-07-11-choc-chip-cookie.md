@@ -37,14 +37,14 @@ tags:
 - beans
 - chickpeas
 - garbanzo beans
-Description: Delicious cookies made from a base of beans, dates, and natural nut butter!  They're sugar free, oil free, and gluten free.  They can be vegan too (swap the milk for water and use vegan chocolate).  This is my standard chocolate chip cookie version.  For other delicious variations, check out my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> and <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
+Description: Delicious cookies made from a base of beans, dates, and natural nut butter!  They're sugar free, oil free, and gluten free.  They can be vegan too (swap the milk for water and use vegan chocolate).  This is my standard chocolate chip cookie version.  For other delicious variations, check out my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a>, <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>, and <a href="/recipes/mint-chocolate-chip-date-cookies">Mint Chocolate Chip Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper<br><br>
 
 - Add the beans, dates, nut butter, milk (or water), vanilla, and salt to a food processor and blend until smooth<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-unblended.jpg" alt="" class="instruction-image"></center><br>
 
-- I've used almond butter here, but any nut butter will work, like peanut or cashew butter.  For a nut free option, use sunflower or pumpkin seed butter<br><br>
+- I've used almond butter here, but any nut butter will work, like peanut or cashew butter.  For a nut free option, use tahini or pumpkin seed butter<br><br>
 
 - For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change<br><br>
 
@@ -55,7 +55,7 @@ Instructions:
 - <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-raw.jpg" alt="" class="instruction-image"></center><br>
 
 - Bake for about 14 minutes at 350F, or until the tops and edges are lightly golden brown and the cookies are set to the touch<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-raw.jpg" alt="" class="instruction-image"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-baked.jpg" alt="" class="instruction-image"></center><br>
 
 - Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cool.jpg" alt="" class="instruction-image"></center><br>
