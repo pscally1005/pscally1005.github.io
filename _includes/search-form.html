@@ -7,6 +7,9 @@
 <!-- Grab search-script.js -->
 <script src="/assets/js/search-script.js" type="text/javascript"></script>
 
+<!-- Date for search results -->
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
 <!-- Configuration -->
 <script>
     SimpleJekyllSearch({
@@ -17,8 +20,12 @@
             <li class="result-item">
                 <a class="post-link" href="{url}">
                     <img src="{image}" alt="" class="blog-roll-image">
+                    <span class="post-meta">{date}</span>
+                    <div class="post-title">
+                        <span class="post-count">{count}.</span>
+                        <a class="post-link" href="{url}">{title}
+                    </div>
                 </a>
-                <a class="post-link" href="{url}">{title}</a>
             </li>`,
         noResultsText: "No result found!"
     });

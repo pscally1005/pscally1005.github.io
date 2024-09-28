@@ -330,16 +330,18 @@
   font-size: 14px;
   color: var(--gray-text-color);
   margin-bottom: 10px;
+  font-weight: normal;
 }
 
 /* Post title styling */
 .post-title {
-  text-align: center; /* Center the title */
+  display: inline-block; /* Makes sure the title stays together */
+  text-align: center; /* Center the text inside the title */
+  width: 100%; /* Ensures it spans the full width of the parent container */
 }
 
 .post-count {
   margin-right: 10px; /* Space between the count and the title */
-  font-weight: bold; /* Optional styling for the count */
 }
 
 /* Ensure the title can wrap and remain centered */
@@ -355,7 +357,7 @@
 }
 
 /* Home Posts container */
-#home-posts-container {
+#home-posts-container, #results-container {
   display: flex;
   flex-wrap: wrap; /* Allows posts to wrap to the next line */
   justify-content: flex-start; /* Align posts to the left */
@@ -367,7 +369,7 @@
 }
 
 /* Each post item */
-.post-item {
+.post-item, .result-item {
   flex: 1 1 calc(33.33% - 20px); /* Three posts per row on desktop */
   max-width: calc(33.33% - 20px); /* Ensure posts take up 33.33% of the container width */
   display: flex;
@@ -376,37 +378,36 @@
   margin-bottom: 30px; /* Space between rows of posts */
   border: 3px solid var(--minima-brand-color);
   border-radius: 5px; /* Rounded corners */
-  color: var(--default-text-color)
+  color: var(--default-text-color);
+  text-align: center;
 }
 
-.post-item a {
-  color: var(--default-text-color)
-}
-
-.post-item:hover {
-  background-color: var(--menu-hover-color);
-  border: 3px solid var(--minima-link-base-color);
-}
-
-.post-item:hover a {
-  color: var(--minima-link-base-color)
-}
-
-/* Add spacing between images */
-.post-item img {
-  margin-bottom: 15px; /* Adds space between the image and the title/meta */
-}
-
-/* Post link styling */
-.post-item a {
+.post-item a, .result-item a, .post-count {
+  color: var(--default-text-color);
+  font-size: 20px;
+  font-weight: bold;
   text-align: center; /* Center the text */
   margin-bottom: 10px; /* Adds a gap between image and text */
   text-decoration: none;
 }
 
+.post-item:hover, .result-item:hover {
+  background-color: var(--menu-hover-color);
+  border: 3px solid var(--minima-link-base-color);
+}
+
+.post-item:hover a, .result-item:hover a {
+  color: var(--minima-link-base-color)
+}
+
+/* Add spacing between images */
+.post-item img, .result-item img {
+  margin-bottom: 15px; /* Adds space between the image and the title/meta */
+}
+
 /* Mobile view (1 post per line) */
 @media (max-width: 768px) {
-  .post-item {
+  .post-item, .result-item {
       flex: 1 1 100%; /* One post per row on mobile */
       max-width: 100%; /* Post takes full width on mobile */
       margin-bottom: 40px; /* Extra spacing between posts on mobile */
@@ -416,7 +417,7 @@
       gap: 10px; /* Smaller gap between posts on mobile */
   }
 
-  #home-posts-container {
+  #home-posts-container, #results-container {
     gap: 10px; /* Smaller gap between posts on mobile */
   }
 }
@@ -693,7 +694,7 @@ body {
   flex-direction: column;
   align-items: center; /* Centers the search bar horizontally */
   margin: 20px auto; /* Space around the search container */
-  max-width: 600px; /* Max width for the search container */
+  // max-width: 600px; /* Max width for the search container */
 }
 
 /* Styling for the search input */
@@ -723,47 +724,6 @@ body {
   gap: 20px; /* Gap between items */
   list-style: none; /* Remove bullet points */
   padding: 0;
-}
-
-/* Search Results container */
-#results-container {
-  display: flex;
-  flex-wrap: wrap; /* Allows posts to wrap to the next line */
-  justify-content: flex-start; /* Align posts to the left */
-  width: 100%;
-  list-style-type: none; /* Remove bullet points */
-  padding: 0;
-  margin: 0;
-  gap: 20px; /* Adds spacing between items in the same row */
-}
-
-/* Each result item */
-.result-item {
-  flex: 1 1 calc(33.33% - 20px); /* Three posts per row on desktop */
-  max-width: calc(33.33% - 20px); /* Ensure posts take up 33.33% of the container width */
-  display: flex;
-  flex-direction: column; /* Stack image and title vertically */
-  align-items: center; /* Center align the posts */
-  margin-bottom: 30px; /* Space between rows of posts */
-}
-
-/* Post link styling */
-.result-item a {
-  text-align: center; /* Center the text */
-  margin-bottom: 10px; /* Adds a gap between image and text */
-}
-
-/* Mobile view (1 post per line) */
-@media (max-width: 768px) {
-  .result-item {
-      flex: 1 1 100%; /* One post per row on mobile */
-      max-width: 100%; /* Post takes full width on mobile */
-      margin-bottom: 40px; /* Extra spacing between posts on mobile */
-  }
-
-  #results-container {
-      gap: 10px; /* Smaller gap between posts on mobile */
-  }
 }
 
 
