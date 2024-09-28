@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Healthier Dessert
 permalink: /recipes/mint-chocolate-chip-date-cookies
-image: /assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover.jpg
+image: /assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover-green.jpg
 ing: mintchip-ing
 facts: mintchip-facts
 section1: 
@@ -38,7 +38,7 @@ tags:
 - beans
 - chickpeas
 - garbanzo beans
-Description: Delicious cookies made from a base of beans, dates, and sunflower butter!  These are a variation of my <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>, with added mint extract for the classic mint and chocolate combination.  They're sugar free, nut free, oil free, gluten free, and vegan.  They're even dye free, as I skipped out on the green food dye to make these cookies more wholesome.  For other variations, you should see my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> and my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
+Description: Delicious cookies made from a base of beans, dates, and sunflower butter!  These are a variation of my <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>, with added mint extract for the classic mint and chocolate combination.  They're vegan, sugar free, nut free, oil free, gluten free, and dye free.  Yes, dye free; just like with my <a href="/recipes/green-bread">Green Bread - No Food Dye</a>, I've used sunflower butter and baking soda to turn it green without artificial dyes!  For other variations, you should see my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> and my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper<br><br>
 
@@ -57,5 +57,7 @@ Instructions:
 - <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-baked.jpg" alt="" class="instruction-image"></center><br>
 
 - Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-cool.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-cool.jpg" alt="" class="instruction-image"></center><br>
+
+- Don't worry about the color; the cookies will turn green overnight in the fridge or on the counter for a few hours.  Freezing them though delays the reaction, and they will stay brown
 ---
