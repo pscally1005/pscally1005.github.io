@@ -380,6 +380,10 @@
   border-radius: 5px; /* Rounded corners */
   color: var(--default-text-color);
   text-align: center;
+
+}
+.result-item {
+  padding-bottom: 25px; /* Add some space between the title and the border */
 }
 
 .post-item a, .result-item a, .post-count {
@@ -389,6 +393,10 @@
   text-align: center; /* Center the text */
   margin-bottom: 10px; /* Adds a gap between image and text */
   text-decoration: none;
+}
+
+.result-item a, .post-count {
+  font-size: 22px;
 }
 
 .post-item:hover, .result-item:hover {
