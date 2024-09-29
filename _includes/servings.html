@@ -4,6 +4,9 @@
 {% endif %}
 
 {% if ing %}
-    {% assign ser = site.data[ing].last %}
-    <b>{{ ser["Ingredient"] }}</b>: {{ ser["Amount"] }}<br>
+    <!-- Servings Display -->
+    <div id="nutritionServings">
+        <b>Servings</b>: <span id="nutritionServingCount">{{ base_servings | default: 1 }}</span>
+    </div>
 {% endif %}
+

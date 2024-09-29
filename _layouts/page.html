@@ -1,9 +1,18 @@
 ---
 layout: base
 ---
+<style>
+  /* CSS to hide the logo on mobile devices */
+  @media (max-width: 768px) {
+      .logo-image {
+          display: none; /* Hide the logo */
+      }
+  }
+</style>
+
 <article class="post">
 
-  <center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
+  <center><img src="/assets/Logo/logo.png" alt="" class="logo-image"></center>
   <h1 class="page-title">{{ page.title | escape }}</h1>
 
   <div class="post-content">

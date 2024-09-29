@@ -2,8 +2,17 @@
 layout: base
 ---
 
+<style>
+  /* CSS to hide the logo on mobile devices */
+  @media (max-width: 768px) {
+      .logo-image {
+          display: none; /* Hide the logo */
+      }
+  }
+</style>
+
 <div class="home">
-  <center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
+  <center><img src="/assets/Logo/logo.png" alt="" class="logo-image"></center>
   {%- if page.title and page.title != "Home" -%}
     <h1 class="page-title">{{ page.title | escape }}</h1>
   {% elsif page.title == "Home" %} 

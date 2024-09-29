@@ -590,6 +590,13 @@
   border-radius: 10px; /* Rounded corners */
 }
 
+// Logo at top of home and page
+.logo-image {
+  width: 400px;
+  object-fit: cover;
+  border-radius: 10px; /* Rounded corners */
+}
+
 // Larger image for instructions
 .larger-image {
   width: 800px;
@@ -887,6 +894,7 @@ a.button {
   display: inline; /* Prevent line break */
   color: var(--green-text-color);
   font-style: italic; /* Italicize the text */
+  font-size: $base-font-size;
 }
 
 // Sections of recipe (beef, vegetables, etc.)

@@ -1,92 +1,272 @@
-<div id="recipe"></div>
+<!-- Initialize base servings variable -->
+{% assign base_servings = 1 %}  <!-- Initialize to 1 by default -->
 
-<div class="recipe-ingredients">
-    <!-- Use parameters or not -->
-    {% assign ing = page.ing %}
-    {% if include.ing %}
-        {% assign ing = include.ing %}
-    {% endif %}
+<!-- Use parameters or not -->
+{% assign ing = page.ing %}
+{% if include.ing %}
+    {% assign ing = include.ing %}
+{% endif %}
 
-    <!-- Print section title -->
-    {% if ing %}
-        <div class="recipe-header">Ingredients</div>
-    {% endif %}
+<!-- Print section title -->
+{% if ing %}
+    <div class="recipe-header">Ingredients</div>
+{% endif %}
+
+<!-- Serving Controls -->
+<div class="serving-controls">
+    <button id="decrease">-</button>
+    <input type="number" id="servingCount" value="1" min="1" />
+    <button id="increase">+</button>
+    <span><b>Serving(s)</b></span> <!-- Added serving(s) display -->
+    <button id="reset" class="reset-button">Reset</button> <!-- Reset button -->
+</div>
+
+<!-- Ingredient Display -->
+<div class="ingredients">
+    {% for row in site.data[ing] %}
+        {% if forloop.last %}
+            {% assign base_servings = row["Amount"] | plus: 0 %}  <!-- Ensure it converts to a number -->
+        {% endif %}
+    {% endfor %}
 
     <!-- Section 1 -->
     {% if !page.section1 %}
         <div class="ingredients-section">{{ page.section1 }}</div>
     {% endif %}
 
-    <!-- Loops through the rows -->
     {% for row in site.data[ing] %}
-        <!-- Variables -->
-        {% assign food = "" %}
-        {% assign mass = "" %}
-        {% assign unit = "" %}
-        {% assign vol = "" %}
-
-        {% if forloop.last %}   
+        {% if forloop.last %}
+            {% continue %}
         {% else %}
 
-            <!-- Loops through the pair (ex: [Ingredient, Oat flour]) -->
-            {% for pair in row %}
-
-                {% if forloop.first %}
-
-                    <!-- Section 2 -->
-                    {% if pair[1] == page.start2 %}
-                        {% if !page.section2 %}
-                            <div class="ingredients-section">{{ page.section2 }}</div>
-                        {% endif %}
-                    {% endif %}
-
-                    <!-- Section 3 -->
-                    {% if pair[1] == page.start3 %}
-                        {% if !page.section3 %}
-                            <div class="ingredients-section">{{ page.section3 }}</div>
-                        {% endif %}      
-                    {% endif %}
-
-                    <!-- Section 4 -->
-                    {% if pair[1] == page.start4 %}
-                        {% if !page.section4 %}
-                            <div class="ingredients-section">{{ page.section4 }}</div>
-                        {% endif %}           
-                    {% endif %}
-
-                    {% if pair[1] == page.start5 %}
-                        {% if !page.section4 %}
-                            <div class="ingredients-section">{{ page.section5 }}</div>
-                        {% endif %}          
-                    {% endif %}               
-
+            <!-- Section 2 -->
+            {% if row["Ingredient"] == page.start2 %}
+                {% if !page.section2 %}
+                    <div class="ingredients-section">{{ page.section2 }}</div>
                 {% endif %}
+            {% endif %}
 
-                <!-- Food -->
-                {% if forloop.index == 1 %} 
-                    {% assign food = pair[1] %}
-                {% endif %}
+            <!-- Section 3 -->
+            {% if row["Ingredient"] == page.start3 %}
+                {% if !page.section3 %}
+                    <div class="ingredients-section">{{ page.section3 }}</div>
+                {% endif %}      
+            {% endif %}
 
-                <!-- Mass amount -->
-                {% if forloop.index == 2 %}
-                    {% assign mass = pair[1] %}
-                {% endif %}
+            <!-- Section 4 -->
+            {% if row["Ingredient"] == page.start4 %}
+                {% if !page.section4 %}
+                    <div class="ingredients-section">{{ page.section4 }}</div>
+                {% endif %}           
+            {% endif %}
 
-                <!-- Mass unit -->
-                {% if forloop.index == 3 %}
-                    {% assign unit = pair[1] %}
-                {% endif %}
+            <!-- Section 5 -->
+            {% if row["Ingredient"] == page.start5 %}
+                {% if !page.section4 %}
+                    <div class="ingredients-section">{{ page.section5 }}</div>
+                {% endif %}          
+            {% endif %}   
 
-                <!-- Volume -->
-                {% if forloop.index == 4 %}
-                    {% assign vol = pair[1] %}
-                {% endif %}
-                
-            {% endfor %}
+            <!-- Process the ingredients as usual -->
+            {% assign food = row["Ingredient"] %}
+            {% assign mass = row["Amount"] %}
+            {% assign unit = row["Unit"] %}
+            {% assign vol = row["Description"] %}
 
-        - <div class="recipe-vol">{{ vol }}</div> <div class="recipe-grams">({{ mass }} {{ unit }})</div> <div class="recipe-food">{{ food }}</div> {% include costIngredients.html item=food amount=mass %}
-        <br>
-
+            <!-- Ingredient display -->
+            <div class="ingredient-item" style="margin-bottom: 5px; display: inline-block;">
+                -
+                <span class="recipe-vol">{{ vol }}</span>
+                <span class="recipe-grams" data-base="{{ mass }}">{{ mass }} {{ unit }}</span>
+                <span class="recipe-food">{{ food }}</span>
+                <span class="ingredient-cost">{% include costIngredients.html item=food amount=mass %}</span>
+            </div>            
         {% endif %}
     {% endfor %}
 </div>
+
+<script>
+    const servingCountInput = document.getElementById("servingCount");
+    const decreaseButton = document.getElementById("decrease");
+    const increaseButton = document.getElementById("increase");
+    const resetButton = document.getElementById("reset");
+    const ingredients = document.querySelectorAll(".ingredient-item");
+
+    // Initialize the base servings variable
+    let baseServings = "{{ base_servings }}";
+    if (baseServings === undefined || baseServings === null || baseServings.trim() === "") {
+        baseServings = 1; // Default to 1 if no value is provided
+    } else {
+        baseServings = Number(baseServings); // Convert to number
+    }
+
+
+    // Function to update ingredient amounts based on servings
+    function updateIngredients() {
+        // Use the original servings if the input is empty
+        const servings = servingCountInput.value.trim() === "" ? baseServings : parseInt(servingCountInput.value) || baseServings;
+
+        // Update ingredients
+        ingredients.forEach(item => {
+            const baseMass = parseFloat(item.querySelector(".recipe-grams").getAttribute("data-base"));
+            const adjustedMass = baseMass * servings / baseServings;
+            const gramsElement = item.querySelector(".recipe-grams");
+
+            // Display logic based on servings
+            if (servings === baseServings) {
+                gramsElement.textContent = `(${baseMass} g)`; // Show original mass
+                item.querySelector(".recipe-vol").style.display = 'inline'; // Show volume
+            } else {
+                gramsElement.textContent = `${adjustedMass.toFixed(1)} g`; // Show adjusted grams
+                item.querySelector(".recipe-vol").style.display = 'none'; // Hide volume
+            }
+        });
+
+        // Update the servings count in the nutrition facts section
+        const nutritionServingCount = document.getElementById('nutritionServingCount');
+        if (nutritionServingCount) {
+            nutritionServingCount.textContent = servings;
+        }
+    }
+
+    decreaseButton.addEventListener("click", () => {
+        let currentCount = parseInt(servingCountInput.value) || baseServings; // Default to baseServings if empty
+        if (currentCount > 1) {
+            servingCountInput.value = currentCount - 1;
+            updateIngredients(); // Update the ingredient amounts
+        }
+    });
+
+    increaseButton.addEventListener("click", () => {
+        let currentCount = parseInt(servingCountInput.value) || baseServings; // Default to baseServings if empty
+        servingCountInput.value = currentCount + 1;
+        updateIngredients(); // Update the ingredient amounts
+    });
+
+    // Reset to original servings
+    resetButton.addEventListener("click", () => {
+        servingCountInput.value = baseServings; // Set input to the original servings
+        updateIngredients(); // Update the ingredient amounts
+    });
+
+    // Add an event listener to update on input change
+    servingCountInput.addEventListener("input", () => {
+        // Ensure the input is not less than 1
+        if (parseInt(servingCountInput.value) < 1) {
+            servingCountInput.value = 1; // Set to minimum value of 1
+        }
+        updateIngredients(); // Update the ingredient amounts
+    });
+
+    // Initial update on page load
+    servingCountInput.value = baseServings; // Show initial servings in the input
+    updateIngredients(); // Update ingredients initially
+</script>
+
+<style>
+    .serving-controls {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+        justify-content: flex-start; /* Keep items aligned to the left for desktop */
+    }
+
+    .serving-controls button {
+        height: 30px; /* Set a smaller height for the buttons */
+        width: 40px; /* Set width for - and + buttons */
+        font-size: 16px; /* Keep font size consistent */
+        margin: 0 5px; /* Space between buttons */
+        cursor: pointer;
+        border: 1px solid #ccc; /* Add border to match input */
+        background-color: #f9f9f9; /* Background color for the button */
+        border-radius: 4px; /* Add some rounding to the corners */
+        padding: 0; /* Remove padding */
+    }
+
+    .serving-controls .reset-button {
+        width: 70px; /* Set a specific width for the reset button */
+        padding: 0 5px; /* Add horizontal padding for better text fit */
+        font-size: 16px; /* Keep font size consistent */
+        margin-left: 20px; /* Add margin to space from the "Serving(s)" text */
+    }
+
+    .serving-controls input {
+        width: 50px; /* Maintain width for the input */
+        height: 36px; /* Set height for the input */
+        text-align: center;
+        font-size: 16px;
+        margin: 0 5px;
+        -moz-appearance: textfield; /* Remove up/down arrows in Firefox */
+        -webkit-appearance: none; /* Remove up/down arrows in Safari */
+        appearance: none; /* Remove up/down arrows in other browsers */
+        border-radius: 4px; /* Add some rounding to the corners */
+    }
+
+    /* Hide arrows for all input types */
+    input::-webkit-inner-spin-button,
+    input::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
+    .ingredients {
+        margin-top: 20px;
+    }
+
+    .ingredient-item {
+        display: flex;
+        justify-content: flex-start;
+        width: 100%;
+        flex-wrap: wrap;
+        margin-bottom: 2px; /* Reduced margin */
+        padding: 0; /* Ensure no padding is added */
+        align-items: center;
+        line-height: 1.2; /* Adjust the line height for more compact spacing */
+    }
+
+    .recipe-vol,
+    .recipe-grams,
+    .recipe-food,
+    .ingredient-cost {
+        flex: 0 0 auto; /* Keep volume and grams fixed */
+    }
+
+    .recipe-food {
+        flex-grow: 1; /* Allow food name to grow and take available space */
+        overflow-wrap: break-word; /* Allow words to break to the next line */
+        word-break: break-word; /* Ensure the text breaks at appropriate points */
+        white-space: pre-wrap; /* Allow normal text wrapping, maintaining spaces and line breaks */
+        min-width: 0; /* Prevent overflow of flex items */
+        margin: 0; /* Remove left margin for better wrapping */
+        padding: 0; /* Ensure no padding affects wrapping */
+    }
+
+    /* Mobile-specific styles */
+    @media (max-width: 768px) {
+        .serving-controls {
+            justify-content: flex-start; /* Keep the left alignment for mobile */
+        }
+
+        .serving-controls .reset-button {
+            margin-left: auto; /* Push the reset button all the way to the right */
+        }
+
+        .ingredient-item {
+            font-size: 14px; /* Slightly smaller font size for mobile */
+            flex-basis: 100%; /* Make each item take full width on small screens */
+            display: flex; /* Ensure flex display for proper alignment */
+            flex-wrap: wrap; /* Allow items to wrap to the next line */
+            margin-bottom: 3px; /* Adjust margin for better spacing on mobile */
+        }
+
+        .recipe-food {
+            flex-grow: 1; /* Allow the food name to grow and take available space */
+            white-space: pre-wrap; /* Allow normal wrapping on mobile */
+            overflow-wrap: break-word; /* Break words when necessary */
+            min-width: 0; /* Prevent overflow issues */
+            margin: 0; /* Remove left margin for better wrapping */
+            padding: 0; /* Ensure no padding affects wrapping */
+        }
+
+    }
+</style>
