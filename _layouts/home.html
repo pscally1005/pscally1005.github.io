@@ -6,7 +6,7 @@ layout: base
   <center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
   {%- if page.title and page.title != "Home" -%}
     <h1 class="page-title">{{ page.title | escape }}</h1>
-  {% elsif page.title == "Home" %}
+  {% elsif page.title == "Home" %} 
     <h1 class="page-title">Recent Posts</h1>
   {%- endif -%}
 
@@ -18,10 +18,27 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
+  {% assign postCount = 0 %}
+  {% for post in posts %}
+    {% if page.title == "Home" and post.categories.last != "Archive" %}
+      {% assign postCount = postCount | plus: 1 %}
+    {% elsif post.categories.last == page.title %}
+      {% assign postCount = postCount | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
+
+    <!-- Display total count of posts -->
+    <div class="post-count-container">
+      {% if page.title != "Search" %}
+        <span class="page-post-count">{{ postCount }} result(s)</span>
+      {% endif %}
+    </div>    
+
     <ul class="post-list">
 
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -57,10 +74,9 @@ layout: base
             <!-- Increment the count -->
             {% assign count = count | plus: 1 %}
 
-            {% endif %}
+          {% endif %}
         {% endfor %}
-</div>
-
+      </div>
 
     </ul>
 

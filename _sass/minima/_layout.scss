@@ -305,6 +305,14 @@
   }
 }
 
+.post-count-container, .page-post-count {
+  text-align: center;        /* Center content within this container */
+  color: var(--gray-text-color);
+  padding-bottom: 30px;     /* Space inside the element */
+  font-size: 20px;
+  font-style: italic
+}
+
 
 
 // Post content
@@ -934,6 +942,8 @@ a.button {
 /* Desktop and default */
 #disqus_thread {
   position: relative;
+  scroll-margin-top: 80px; /* Adjust this value based on the padding or header height */
+  padding-top: 60px; /* Adjust based on your design */
 }
 
 #disqus_thread:before {
@@ -942,14 +952,6 @@ a.button {
   height: 130px; /* Adjust this value to the height of your header */
   margin-top: -130px; /* Same value as height, moving the element up */
   visibility: hidden;
-}
-
-/* Adjust for mobile screens */
-@media only screen and (max-width: 768px) {
-  #disqus_thread:before {
-      height: 80px; /* Adjust this value for mobile */
-      margin-top: -80px; /* Adjust this value for mobile */
-  }
 }
 
 
@@ -967,8 +969,18 @@ a.button {
   .recipe-whisk,
   .recipe-comments,
   .recipe-disqus-comments,
+  .disqus_thread,
   header, footer, nav {
       display: none !important;
+  }
+
+  // Get rid of comments in printing
+  .recipe-comments,
+  .recipe-disqus-comments,
+  #disqus_thread {
+      page-break-before: avoid;
+      page-break-after: avoid; /* Prevent breaks before and after */
+      display: none !important; /* Ensure they don’t appear */
   }
 
   /* Ensure the important elements are visible */

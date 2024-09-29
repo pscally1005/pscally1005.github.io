@@ -2,11 +2,11 @@
     <!-- Search Input Field -->
     <input type="text" id="search-input" placeholder="Type your search here..." autofocus>
     
+    <!-- Search Results Count -->
+    <div id="results-count" class="page-post-count"></div> <!-- This will display the number of results found -->
+
     <!-- Search Results Container -->
     <ul id="results-container"></ul>
-    
-    <!-- Search Results Count -->
-    <div id="results-count"></div> <!-- This will display the number of results found -->
 </div>
 
 <!-- Include the Simple Jekyll Search script -->
@@ -29,7 +29,7 @@
                     </div>
                 </a>
             </li>`,
-        noResultsText: "No results found!"
+        noResultsText: ""
     });
 
     // Listen for keyup events in the search input
