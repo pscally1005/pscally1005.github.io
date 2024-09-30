@@ -688,6 +688,10 @@ body {
   color: var(--blue-text-color);
 }
 
+.background-text-themed {
+  color: var(--minima-background-color);
+}
+
 
 
 // Mobile vs desktop
@@ -855,7 +859,7 @@ a.button {
 .recipe-section {
   display: inline; /* Allows for width and height while keeping it inline */
   color: var(--default-text-color);
-  font-size: $base-font-size;
+  font-size: $base-font-size + 2;
   margin-top: 20px; /* Add space above the element */
 }
 
@@ -863,7 +867,7 @@ a.button {
 .recipe-section-bold {
   display: inline; /* Prevent line break */
   color: var(--default-text-color);
-  font-size: $base-font-size;
+  font-size: $base-font-size + 2;
   font-weight: bold; /* Make the text bold */
 }
 
@@ -890,11 +894,11 @@ a.button {
 }
 
 // Text color of costs
-.ingredient-cost, .total-cost {
+.ingredient-cost, .total-cost, .recipe-costs {
   display: inline; /* Prevent line break */
   color: var(--green-text-color);
   font-style: italic; /* Italicize the text */
-  font-size: $base-font-size;
+  font-size: $base-font-size + 2;
 }
 
 // Sections of recipe (beef, vegetables, etc.)
@@ -905,8 +909,6 @@ a.button {
   font-style: italic; /* Italicize the text */
   margin-top: 20px; /* Adds extra space top the element */
 }
-
-
 
 /* Hide the mobile content by default */
 .mobile-content {

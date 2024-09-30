@@ -7,6 +7,65 @@
     {% assign ing = include.ing %}
 {% endif %}
 
+<!-- Total and unit cost section -->
+<div class="recipe-costs">
+
+    <!-- Variables -->
+    {% assign recipeCost = 0 %}
+    {% assign servings = 0 %}
+
+    <!-- Loop through all the ingredients -->
+    {% for row in site.data[ing] %}
+        <!-- Get # of servings -->
+        {% if forloop.last %}
+            {% assign servings = row["Amount"] | times: 1 %}
+            {% continue %}
+        {% endif %}
+
+        <!-- Get the food and gram measurements -->
+        {% assign food = row["Ingredient"] %}
+        {% assign mass = row["Amount"] | times: 1.0 %}
+
+        <!-- Variable for food file -->
+        {% assign unitCost = "" %}
+
+        <!-- Loop through rows of food file -->
+        {% for row in site.data.foods %}
+            <!-- Assign unit cost -->
+            {% if row["Food"] == food %}
+                {% assign unitCost = row["Unit Cost ($/g)"] | times: 1.0 %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+
+        <!-- No match found -->
+        {% if unitCost == "" %}
+            {% assign unitCost = -9999 | times: 1.0 %}
+        {% endif %}
+
+        <!-- Calculate cost -->
+        {% assign itemCost = unitCost | times: mass %}
+        {% assign recipeCost = recipeCost | plus: itemCost %}
+    {% endfor %}
+
+    <!-- Calculate cost per serving -->
+    {% assign servingCost = recipeCost | divided_by: servings %}
+
+    <!-- Print total and serving costs -->
+    <div class="recipe-header">Cost</div>
+    <div class="ingredient-item" style="margin-bottom: 5px !important; display: inline !important;">
+        <div class="recipe-section-bold" style="font-style: normal !important;">Total Cost: </div>
+        <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}">${{ recipeCost | round: 2 }}</span>
+        <span class="recipe-vol" style="color:var(--minima-background-color) !important; font-size:0 !important;">{{ vol }}</span>
+        <span class="recipe-grams" data-base="{{ mass }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">{{ mass }} {{ unit }}</span>
+        <span class="ingredient-cost" data-base-cost="{{ totalCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">$({{ totalCost.toFixed(2) }})</span>
+        <br>
+        <div class="recipe-section-bold" style="font-style: normal !important;">Cost per Serving: </div>
+        <div class="total-cost">${{ servingCost | round: 2 }}</div> <!-- Use round for proper decimal formatting -->
+    </div>
+
+</div>
+
 <!-- Print section title -->
 {% if ing %}
     <div class="recipe-header">Ingredients</div>
@@ -29,43 +88,10 @@
         {% endif %}
     {% endfor %}
 
-    <!-- Section 1 -->
-    {% if !page.section1 %}
-        <div class="ingredients-section">{{ page.section1 }}</div>
-    {% endif %}
-
     {% for row in site.data[ing] %}
         {% if forloop.last %}
             {% continue %}
         {% else %}
-
-            <!-- Section 2 -->
-            {% if row["Ingredient"] == page.start2 %}
-                {% if !page.section2 %}
-                    <div class="ingredients-section">{{ page.section2 }}</div>
-                {% endif %}
-            {% endif %}
-
-            <!-- Section 3 -->
-            {% if row["Ingredient"] == page.start3 %}
-                {% if !page.section3 %}
-                    <div class="ingredients-section">{{ page.section3 }}</div>
-                {% endif %}      
-            {% endif %}
-
-            <!-- Section 4 -->
-            {% if row["Ingredient"] == page.start4 %}
-                {% if !page.section4 %}
-                    <div class="ingredients-section">{{ page.section4 }}</div>
-                {% endif %}           
-            {% endif %}
-
-            <!-- Section 5 -->
-            {% if row["Ingredient"] == page.start5 %}
-                {% if !page.section4 %}
-                    <div class="ingredients-section">{{ page.section5 }}</div>
-                {% endif %}          
-            {% endif %}   
 
             <!-- Process the ingredients as usual -->
             {% assign food = row["Ingredient"] %}
@@ -73,13 +99,28 @@
             {% assign unit = row["Unit"] %}
             {% assign vol = row["Description"] %}
 
+            <!-- Calculate cost -->
+            {% assign unitCost = "" %}
+            {% for costRow in site.data.foods %}
+                {% if costRow["Food"] == food %}
+                    {% assign unitCost = costRow["Unit Cost ($/g)"] | times: 1.0 %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+
+            {% if unitCost == "" %}
+                {% assign unitCost = -9999 | times: 1.0 %}
+            {% endif %}
+            {% assign totalCost = unitCost | times: mass %}
+
             <!-- Ingredient display -->
             <div class="ingredient-item" style="margin-bottom: 5px; display: inline-block;">
                 -
                 <span class="recipe-vol">{{ vol }}</span>
                 <span class="recipe-grams" data-base="{{ mass }}">{{ mass }} {{ unit }}</span>
                 <span class="recipe-food">{{ food }}</span>
-                <span class="ingredient-cost">{% include costIngredients.html item=food amount=mass %}</span>
+                <span class="ingredient-cost" data-base-cost="{{ totalCost }}">$({{ totalCost.toFixed(2) }})</span>
+                <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">${{ recipeCost | round: 2 }}</span>
             </div>            
         {% endif %}
     {% endfor %}
@@ -103,14 +144,20 @@
 
     // Function to update ingredient amounts based on servings
     function updateIngredients() {
-        // Use the original servings if the input is empty
         const servings = servingCountInput.value.trim() === "" ? baseServings : parseInt(servingCountInput.value) || baseServings;
 
-        // Update ingredients
         ingredients.forEach(item => {
             const baseMass = parseFloat(item.querySelector(".recipe-grams").getAttribute("data-base"));
+            const baseCost = parseFloat(item.querySelector(".ingredient-cost").getAttribute("data-base-cost"));
+            const baseRecipeCost = parseFloat(item.querySelector(".recipe-costs").getAttribute("data-base-recipe-cost"));
+
             const adjustedMass = baseMass * servings / baseServings;
+            const adjustedCost = baseCost * servings / baseServings; // Scale the cost
+            const adjustedRecipeCost = baseRecipeCost * servings / baseServings; // Scale the cost
+
             const gramsElement = item.querySelector(".recipe-grams");
+            const costElement = item.querySelector(".ingredient-cost");
+            const recipeCostElement = item.querySelector(".recipe-costs");
 
             // Display logic based on servings
             if (servings === baseServings) {
@@ -120,6 +167,10 @@
                 gramsElement.textContent = `${adjustedMass.toFixed(1)} g`; // Show adjusted grams
                 item.querySelector(".recipe-vol").style.display = 'none'; // Hide volume
             }
+
+            // Update cost display
+            costElement.textContent = `($${adjustedCost.toFixed(2)})`; // Update the cost
+            recipeCostElement.textContent = `$${adjustedRecipeCost.toFixed(2)}`; // Update the cost
         });
 
         // Update the servings count in the nutrition facts section
@@ -227,7 +278,8 @@
     .recipe-vol,
     .recipe-grams,
     .recipe-food,
-    .ingredient-cost {
+    .ingredient-cost,
+    .recipe-costs {
         flex: 0 0 auto; /* Keep volume and grams fixed */
     }
 
