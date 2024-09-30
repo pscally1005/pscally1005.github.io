@@ -59,12 +59,14 @@
         <span class="recipe-vol" style="color:var(--minima-background-color) !important; font-size:0 !important;">{{ vol }}</span>
         <span class="recipe-grams" data-base="{{ mass }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">{{ mass }} {{ unit }}</span>
         <span class="ingredient-cost" data-base-cost="{{ totalCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">$({{ totalCost.toFixed(2) }})</span>
+        <div id="recipe"></div>
         <br>
         <div class="recipe-section-bold" style="font-style: normal !important;">Cost per Serving: </div>
         <div class="total-cost">${{ servingCost | round: 2 }}</div> <!-- Use round for proper decimal formatting -->
     </div>
 
 </div>
+
 
 <!-- Print section title -->
 {% if ing %}
@@ -88,6 +90,11 @@
         {% endif %}
     {% endfor %}
 
+    <!-- Section 1 -->
+    {% if !page.section1 %}
+        <div class="ingredients-section">{{ page.section1 }}</div>
+    {% endif %}
+
     {% for row in site.data[ing] %}
         {% if forloop.last %}
             {% continue %}
@@ -98,6 +105,33 @@
             {% assign mass = row["Amount"] %}
             {% assign unit = row["Unit"] %}
             {% assign vol = row["Description"] %}
+
+            <!-- Section 2 -->
+            {% if food == page.start2 %}
+                {% if !page.section2 %}
+                    <div class="ingredients-section">{{ page.section2 }}</div>
+                {% endif %}
+            {% endif %}
+
+            <!-- Section 3 -->
+            {% if food == page.start3 %}
+                {% if !page.section3 %}
+                    <div class="ingredients-section">{{ page.section3 }}</div>
+                {% endif %}      
+            {% endif %}
+
+            <!-- Section 4 -->
+            {% if food == page.start4 %}
+                {% if !page.section4 %}
+                    <div class="ingredients-section">{{ page.section4 }}</div>
+                {% endif %}           
+            {% endif %}
+
+            {% if food == page.start5 %}
+                {% if !page.section4 %}
+                    <div class="ingredients-section">{{ page.section5 }}</div>
+                {% endif %}          
+            {% endif %}
 
             <!-- Calculate cost -->
             {% assign unitCost = "" %}

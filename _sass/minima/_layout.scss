@@ -928,21 +928,24 @@ a.button {
 
 
 /* Desktop and default */
-#recipe, #nutrition-facts {
+#nutrition-facts {
   position: relative;
 }
 
-#recipe:before, #nutrition-facts:before {
+#nutrition-facts:before {
   content: "";
   display: block;
+  visibility: hidden;
+}
+
+#nutrition-facts:before {
   height: 100px; /* Adjust this value to the height of your header */
   margin-top: -100px; /* Same value as height, moving the element up */
-  visibility: hidden;
 }
 
 /* Adjust for mobile screens */
 @media only screen and (max-width: 768px) {
-  #recipe:before, #nutrition-facts:before {
+  #nutrition-facts:before {
       height: 60px; /* Adjust this value for mobile */
       margin-top: -60px; /* Adjust this value for mobile */
   }
