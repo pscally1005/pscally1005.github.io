@@ -1,7 +1,7 @@
 import os
 
 # prints selection options
-# if a number [1,14] is entered, just prints out the 1 flour entered
+# if a number [1,19] is entered, just prints out the 1 flour entered
 # otherwise, prints the entire election list
 def options(num):
     if(num == 1):
@@ -36,10 +36,12 @@ def options(num):
         return ("Peanut Flour")
     elif(num == 16):
         return ("Flaxmeal")
-    # elif(num == 17):
-    #     return ("Almond Flour")
-    # elif(num == 18):
-    #     return ("Almond Meal")
+    elif(num == 17):
+        return ("Almond Flour")
+    elif(num == 18):
+        return ("Almond Meal")
+    elif(num == 19):
+        return ("Almond Meal")
     else:
         print("1:  All Purpose Flour (Not Heat Treated)")
         print("2:  All Purpose Flour (Heat Treated)")
@@ -57,8 +59,9 @@ def options(num):
         print("14: Chia Seeds")
         print("15: Peanut Flour")
         print("16: Flaxmeal")
-        # print("17: Almond Flour")
-        # print("18: Almond Meal")
+        print("17: Almond Flour")
+        print("18: Almond Meal")
+        print("19: Millet Flour")
 
 # user input for entering FROM flour, FROM amount, and TO flour
 # returns all 3 entered values
@@ -68,7 +71,7 @@ def select():
     while(True):
         try:
             f = int(input("\nEnter a number to select your FROM flour: "))
-            if(f < 1 or f > 15):
+            if(f < 1 or f > 20):
                 f = int("abc")
             print("You selected: ", end="")
             print(options(f))
@@ -97,7 +100,7 @@ def select():
     while(True):
         try:
             t = int(input("\nEnter a number to select your TO flour: "))
-            if(t < 1 or t > 15):
+            if(t < 1 or t > 20):
                 t = int("abc")
             print("You selected: ", end="")
             print(options(t))
@@ -128,10 +131,11 @@ def calc(f, g, t):
     chia = 30
     pb2 = 31
     flax = 43
-    # almondFlour = 
-    # almondMeal = 
+    almondFlour = 53
+    almondMeal = 45
+    milletFlour = 45
 
-    arr = [0] * 16
+    arr = [0] * 20
     arr[1] = ap_noHeat
     arr[2] = ap_heat
     arr[3] = ww_noHeat
@@ -148,8 +152,9 @@ def calc(f, g, t):
     arr[14] = chia
     arr[15] = pb2
     arr[16] = flax
-    # arr[17] = almondFlour
-    # arr[18] = almondMeal
+    arr[17] = almondFlour
+    arr[18] = almondMeal
+    arr[19] = milletFlour
 
     num = round(float(float(g / arr[f]) * arr[t]),1)
     print("For " + str(g) + " g of " + options(f).upper() + ", you will need APPROXIMATELY " + str(num) + " g of " + options(t).upper())

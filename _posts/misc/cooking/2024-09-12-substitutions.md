@@ -64,7 +64,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/food.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/cooking (1).png" alt="" class="smaller-image"></center><br>
 
-<div id="beans"></div>
+<div id="beans" class="table-of-contents-2"></div>
 <i><font size="+2">Beans</font></i><br>
 &emsp;I use cans of beans interchangeably.  To me, all beans are the same; just a different color and shape (with minor nutritional differences).  Put chickpeas in your chili, use black beans for hummus, put pinto beans in a salad, I don't care; they're all the same to me anyway:
 - Black beans
@@ -80,7 +80,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/beans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/beans (1).png" alt="" class="smaller-image"></center><br>
 
-<div id="flours"></div>
+<div id="flours" class="table-of-contents-2"></div>
 <i><font size="+2">Flours</font></i><br>
 &emsp;If you happened to read through my <a href="/misc/water-absorption">Water Absorption of Different Flours</a> post, you'll know what many flours absorb water differently than others.  For example, if you're making my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a>, you should reduce the flour from 240 g to 215 g if you are to replace the all purpose flour with whole wheat flour.
 
@@ -102,7 +102,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/cooking.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/whisk.png" alt="" class="smaller-image"></center><br>
 
-<div id="grains"></div>
+<div id="grains" class="table-of-contents-2"></div>
 <i><font size="+2">Grains</font></i><br>
 &emsp;When I refer to grains here, I'm talking about some sort of carb base or side to your meal, such as pasta or rice.  In place of pasta, all of the following below can be served in the same way, such as tossed with a sauce like <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>, <a href="/recipes/cottage-cheese-alfredo">Cottage Cheese Alfredo Sauce</a>, or <a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a>.
 - Whole wheat pasta
@@ -136,7 +136,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/biryani.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/red-beans.png" alt="" class="smaller-image"></center><br>
 
-<div id="meat"></div>
+<div id="meat" class="table-of-contents-2"></div>
 <i><font size="+2">Meat</font></i><br>
 &emsp;As for substituting meat, you can realistically use any meat in place of another as long as you replace it 1:1 by weight.  The easiest would be ground meat; all the following can be used interchangeably:
 - Ground beef
@@ -154,7 +154,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/chicken-breast.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/katsu.png" alt="" class="smaller-image"></center><br>
 
-<div id="milk"></div>
+<div id="milk" class="table-of-contents-2"></div>
 <i><font size="+2">Milk</font></i><br>
 &emsp;A lot of my old baking recipes for example use unsweetened vanilla almond milk, but lately I've been opting for skim milk instead.  I used to buy almond milk because it lasts longer, but I've been getting through milk quicker, and wanted the added nutrition of cow's milk.  Cow's milk is cheaper while containing more protein and calcium.  But really any of the following can be used at a 1:1 ratio, just note the calorie, fat, or taste differences.  The same concept applies to <a rel="" target="" href="#yogurt">yogurt</a> as well:
 - Whole milk
@@ -180,7 +180,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/coconut-milk.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/milk (1).png" alt="" class="smaller-image"></center><br>
 
-<div id="nut-butter"></div>
+<div id="nut-butter" class="table-of-contents-2"></div>
 <i><font size="+2">Nut Butter</font></i><br>
 &emsp;You should know by now that I love <a href="/recipes/natural-peanut-butter">Natural Nut Butter</a>.  But you can make nut butters with way more than just peanuts; any type of <a rel="" target="" href="#nuts-and-seeds">nut or seed</a> will work.  Any the following can be used interchangeably (assuming you're not allergic to nuts lol):
 - Peanut butter
@@ -196,7 +196,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/peanut-butter.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/almond-butter.png" alt="" class="smaller-image"></center><br>
 
-<div id="nuts-and-seeds"></div>
+<div id="nuts-and-seeds" class="table-of-contents-2"></div>
 <i><font size="+2">Nuts and Seeds</font></i><br>
 &emsp;Just like with <a rel="" target="" href="#nut-butter">nut butter</a>, all nuts and seeds can all be used interchangeably with minimal difference.  Whether it be chopped nuts mixed into a dessert or breakfast, topping a salad with seeds, or using nuts in your pesto, the following can all be substituted at a 1:1 ratio:
 - Peanuts
@@ -224,7 +224,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/pesto-genovese.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/nuts (1).png" alt="" class="smaller-image"></center><br>
 
-<div id="sweetener"></div>
+<div id="sweetener" class="table-of-contents-2"></div>
 <i><font size="+2">Sweeteners</font></i><br>
 &emsp;Starting with liquid sweeteners, all of the following can be used 1:1 by volume.  There may be slight differneces in weight (for example, 1/4 cup of honey is 84 g, but 1/4 cup of maple syrup is 80 g), but they're all basically the same:
 - Honey
@@ -254,7 +254,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/amaretti.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/sugar.png" alt="" class="smaller-image"></center><br>
 
-<div id="vegetables"></div>
+<div id="vegetables" class="table-of-contents-2"></div>
 <i><font size="+2">Vegetables</font></i><br>
 &emsp;This might seem like an odd category, but hear me out.  How often have you looked up a recipe that calls for a few different types of vegetables that you don't have?  If you know how to roast or sautee veggies, you can really swap out any vegetable for anything.  I have a guide, <a href="/recipes/roasted-vegetables">Simply Roasted Vegetables</a>, that has examples of a few vegetables and how long they'll take to cook at 400F.
 
@@ -330,7 +330,7 @@ tags:
 
 <center><img src="/assets/Misc/Substitutions/zucchini.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/instant-noodles (1).png" alt="" class="smaller-image"></center><br>
 
-<div id="yogurt"></div>
+<div id="yogurt" class="table-of-contents-2"></div>
 <i><font size="+2">Yogurt</font></i><br>
 &emsp;Finally, we're on to yogurt.  I pretty much always buy plain nonfat Greek yogurt, but nonfat cottage cheese is a common substitute for me as well.  As with <a rel="" target="" href="#milk">milk</a>, any of the following fat percentages can be used interchangeably, with just small differences in taste and calories:
 - Plain whole milk Greek yogurt

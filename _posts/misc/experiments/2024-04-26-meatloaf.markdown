@@ -49,13 +49,13 @@ As mentioned above, I used a double batch of my <a href="/recipes/bbq-meatloaf">
 
 <center><img src="/assets/Misc/Meatloaf/raw.jpg" alt="" class="larger-image"></center><br>
 
-<div id="breadcrumbs"></div>
+<div id="breadcrumbs" class="table-of-contents-2"></div>
 <b><font size="+2">1. Breadcrumbs</font></b><br>
 This was our control, regular old breadcrumbs.  This is what my mom used prior to being diagnosed with Celiac disease, and what I used as well prior to swapping the breadcrumbs for either oat flour or casein protein.  This felt exactly like I expected from a meatloaf.  It was slightly sticky, but not too much, and was easily shaped into a loaf.  Vic made a meatloaf the other day using a similar recipe with these breadcrumbs, and this is exactly how it felt raw (and that meatloaf was great).<br><br>
 
 <center><img src="/assets/Misc/Meatloaf/raw-bc.jpg" alt="" class="larger-image"></center><br>
 
-<div id="oats"></div>
+<div id="oats" class="table-of-contents-2"></div>
 <b><font size="+2">2. Oat Flour</font></b><br>
 For the first experiment, I wanted to test the effects of swapping for oat flour.  Oats are cheap and gluten free, and can be easily ground into homemade oat flour.  Instead of buying gluten free breadcrumbs, I figured oats would be a cheaper alternative.<br>
 
@@ -65,7 +65,7 @@ The oats were the main reason for the hour rest in the fridge prior to cooking. 
 
 <center><img src="/assets/Misc/Meatloaf/raw-oat.jpg" alt="" class="larger-image"></center><br>
 
-<div id="coconut"></div>
+<div id="coconut" class="table-of-contents-2"></div>
 <b><font size="+2">3. Coconut Flour</font></b><br>
 Coconut flour is the only one on this list that I've never made a meatloaf with before.  It's gluten free, low in carbs and fat, high in fiber, midly sweet, and (most imporantly) known for it's ability to absorb a lot of moisture.  As I showed in my <a href="water-absorption">Water Absorption of Different Flours</a> experiment, coconut flour can take in a lot of water.<br>
 
@@ -75,7 +75,7 @@ My guess is that while the oat flour one might leak juices down onto the pan, th
 
 <center><img src="/assets/Misc/Meatloaf/raw-coconut.jpg" alt="" class="larger-image"></center><br>
 
-<div id="casein"></div>
+<div id="casein" class="table-of-contents-2"></div>
 <b><font size="+2">4. Unflavored Casein Protein Powder</font></b><br>
 Finally, we have the protein powder.  The main reason I wanted to use protein powder in meatloaf was to keep the protein high (duh).  Surprisingly, meatloaf doesn't have that much protein as compared to other meat dishes, since there's a lot of other ingredients mixed into it.  I wanted to see if there was a way to mix in a binding solid to hold it together like breadcrumbs, but while still making a meatloaf that's loaded with protein.<br>
 

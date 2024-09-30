@@ -39,42 +39,42 @@ tags:
 * <a rel="" target="" href="#dressing">Dressing</a><br>
 
 <center><img src="/assets/Misc/Salad/salad-1.jpg" alt="" class="larger-image"></center><br>
-<div id="equipment"></div>
+<div id="equipment" class="table-of-contents"></div>
 <br><u><font size="+2">Equipment</font></u><br>
 &emsp;There's just a few simple tools you need to make a great salad.  Obviously, you need a knife and cutting board, but what's also essential is a good salad spinner.  <a href="https://www.amazon.com/gp/product/B00004OCKR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">Here</a> is a link to the salad spinner I have.  A salad spinner is crucial, because it dries your vegetables after washing them.  Without properly drying your veggies, your salad will end up soggy and gross, and your spices and dressing will not be able to properly stick to your food.
 
 <center><img src="/assets/Misc/Salad/salad-2.jpg" alt="" class="larger-image"></center><br>
-<div id="base"></div>
+<div id="base" class="table-of-contents"></div>
 <br><u><font size="+2">Base</font></u><br>
 &emsp;The foundation of your salad is your base.  This is some type of dark leafy green vegetable.  I typically reach for Romaine lettuce, but sometimes I'll mix it up with spinach, kale, or arugula as well.  Either choose just one, or blend together multiple leaves to serve as the base of your salad.  Don't over-lettuce your salad either; you should aim for a ratio of about 50% of the bowl being your base.  Any more, and it feels like too much leafy green (at least in my opinion).  Just thinly slice your dark leafy greens, wash, spin, and drain.
 
 <center><img src="/assets/Misc/Salad/salad-3.jpg" alt="" class="larger-image"></center><br>
-<div id="raw"></div>
+<div id="raw" class="table-of-contents"></div>
 <br><u><font size="+2">Raw Vegetables</font></u><br>
 &emsp;A good salad is a combination of a <a rel="" target="" href="#base">base green</a> and a multitude of vegetables.  My go-to vegetables for nearly every salad are tomatoes and bell peppers.  Simply wash them, cut into a small or medium dice, and add to the bowl.  Other great vegetables include onion, radishes, shredded carrots, and cucumber.
 
 <center><img src="/assets/Misc/Salad/salad-4.jpg" alt="" class="larger-image"></center><br>
-<div id="cooked"></div>
+<div id="cooked" class="table-of-contents"></div>
 <br><u><font size="+2">Cooked Vegetables</font></u><br>
 &emsp;Yes, a salad can have cooked vegetables as well.  Try replacing a raw bell pepper with some roasted peppers.  Or crack open a can of artichokes and chop that into a salad.  Roasted yellow squash, zucchini, and eggplant are other delicious options (like in my <a href="/recipes/eggplant-salad">Grilled Eggplant and Chickpea Salad</a>), or even some nice charred broccoli or cauliflower.
 
 <center><img src="/assets/Misc/Salad/salad-5.jpg" alt="" class="larger-image"></center><br>
-<div id="pickled"></div>
+<div id="pickled" class="table-of-contents"></div>
 <br><u><font size="+2">Pickled Vegetables</font></u><br>
 &emsp;Pickled vegetables are great too!  Try adding banana peppers, pickled red onions, or yes even pickles.  Don't knock it till you try it; the acidity and saltiness of the pickled vegetables pairs perfectly with everything else.  My personal favorite is adding saurkraut to my salad, but kimchi also works great too.
 
 <center><img src="/assets/Misc/Salad/salad-6.jpg" alt="" class="larger-image"></center><br>
-<div id="cheese"></div>
+<div id="cheese" class="table-of-contents"></div>
 <br><u><font size="+2">Cheese</font></u><br>
 &emsp;Cheese levels up a salad to a whole new level; it's delicious and adds some well needed <a rel="" target="" href="#fat">fat</a>.  My personal favorite is easily crumbled feta, but blue cheese, gargonzola, and fresh mozzarella are also fantastic.  Sometimes I'll just shake some parmesean from the container onto a salad if I don't have any other cheese on hand.  Don't add too much though; this is still suppossed to be a healthy salad, not a bowl of feta with some vegetables (sorry Phil's Pizzeria Greek Salad).
 
 <center><img src="/assets/Misc/Salad/salad-7.jpg" alt="" class="larger-image"></center><br>
-<div id="spices"></div>
+<div id="spices" class="table-of-contents"></div>
 <br><u><font size="+2">Spices</font></u><br>
 &emsp;This is easily the most overlooked part of a salad: dried spices.  What I do is I make a big base in my salad spinner every few days consisting of lettuce, tomatoes, peppers, feta, and spices.  I'll then add my toppings, like <a rel="" target="" href="#protein">protein</a>, <a rel="" target="" href="#fat">fat</a>, <a rel="" target="" href="#carbs">carbs</a>, <a rel="" target="" href="#pickled">pickled veggies</a>, and <a rel="" target="" href="#dressing">dressing</a> on top to each individual bowl.  Every salad ends up being different, but the base itself tastes good on it's own without adding anything additional to this.  This is the role of the spices.  I personally just dump on lemon pepper, garlic powder, onion powder, and black pepper.  You should aim to add enough spices to the base where you feel like you don't need any dressing, but would still like to add a little more.
 
 <center><img src="/assets/Misc/Salad/salad-8.jpg" alt="" class="larger-image"></center><br>
-<div id="protein"></div>
+<div id="protein" class="table-of-contents"></div>
 <br><u><font size="+2">Protein</font></u><br>
 &emsp;In my opinion, a salad can't be a meal unless it has some sort of protein.  Otherwise, it's just a side salad that won't keep you full.  Protein is the most satiating macro nutrient, as well as being delicious.  Without it, you'll just end up hungry.  I don't normally make any meat fresh for my salads; instead, just taking whatever leftovers I have in the fridge to top my bowl.  Great meats to put on salad include chicken breast or thighs, ground turkey or beef, salmon, tilapia, or canned tuna.  The following recipes work great as a protein topping to your salad:
 - <a href="/recipes/italian-chicken">Roasted Italian Chicken Breast and Acorn Squash</a>
@@ -94,17 +94,17 @@ tags:
 &emsp;In the absense of meat or fish, I like to either crumble on some <a href="/recipes/protein-crumbles">Dijon Protein Crumbles</a>, or drink a <a href="/recipes/protein-shake">Simple Protein Shake</a> on the side.
 
 <center><img src="/assets/Misc/Salad/salad-9.jpg" alt="" class="larger-image"></center><br>
-<div id="fat"></div>
+<div id="fat" class="table-of-contents"></div>
 <br><u><font size="+2">Fats</font></u><br>
 &emsp;I've just discussed <a rel="" target="" href="#cheese">cheese</a>, but other healthy fat sources are essential.  Most of the vitamins in the raw vegetables are fat soluble, meainging that without an adequate amount of fat in the salad, you're really not getting much out of it.  The traditional fat added to salad is extra virgin olive oil.  However, I prefer not to just dump a ton of oil on my salad, as it contributes very little to the taste and results in a ton of empty calories.  Instead, I like to add some combination of olives, avocado, or chopped nuts (like almonds or pistachios) or seeds (like pumpkin seed and sunflower seed).  
 
 <center><img src="/assets/Misc/Salad/salad-10.jpg" alt="" class="larger-image"></center><br>
-<div id="carbs"></div>
+<div id="carbs" class="table-of-contents"></div>
 <br><u><font size="+2">Carbs</font></u><br>
 &emsp;Salads are typically though of as a low carb meal; and I think it should be.  However, having some carb source is great for helping you feel full and diversifying your nutrient intake.  The easiest and best carb source for a salad (in my opinion) is beans.  Whatever you have on hand will work: chickpeas, black peans, kidney, pinto, etc.  Just crack open the can, drain and rinse, and dump onto the salad.  To make it even better, you can cook the beans; <a href="/recipes/slow-cooked-beans">Slow Cooker Black Beans</a> and <a href="/recipes/refried-beans">Refried Pinto Beans</a> make shockingly great toppings, adding good carbs, protein, fiber, and iron.  Other great carb sources for salad include roasted sweet potatoes (see my <a href="/recipes/indian-chicken">Indian Chicken and Sweet Potatoes</a>), corn, or diced fruit (kiwi, strawberries, apples, pears, blueberries, etc.). <a href="/recipes/rice-and-beans">Classic Rice and Beans</a> is also a very easy and good carb source for your bowls.
 
 <center><img src="/assets/Misc/Salad/salad-11.jpg" alt="" class="larger-image"></center><br>
-<div id="dressing"></div>
+<div id="dressing" class="table-of-contents"></div>
 <br><u><font size="+2">Dressing</font></u><br>
 &emsp;Last, but certainly not least, we have the dressing.  You may have noticed from my photos that most of my salads have hot sauce and dijon mustard.  This combination is my preferred easy "dressing", as they're both just flavored vinegars.  Stay away from <a href="/misc/fake-healthy-foods#salad-dressing">bottled dressing</a>.  Not only are they probably bad for you, contianing high amounts of sugar, fat, and salt, but they also don't taste very good.  Don't be afraid to put things that aren't traditionally "dressing" onto a salad.  Great examples of homemade dressings include:
 - <a href="/recipes/olivcado">Olivcado Salad Dressing</a><br>

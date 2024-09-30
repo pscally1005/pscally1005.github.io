@@ -89,7 +89,7 @@ tags:
 
 <br><center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Trap/sugar.jpg" alt="" class="larger-image"></a></center><br>
 
-<div id="low-fat"></div>
+<div id="low-fat" class="table-of-contents"></div>
 <br><i><font size="+2">Low Fat Options</font></i><br>
 &emsp;Ah low fat.  The glorious health craze of the 90s, where the food pyramid was in and eggs where the worst thing for your health.  In hindsight, this one didn't work out very well.  This era caused the spawn of low fat products, from yogurt to peanut butter.  To preface, fat is essentially and definitely healthy, but is also very calorie dense and very easy to overconsume.  That being said, both full fat and non fat options have their place when done correctly.
 
@@ -121,7 +121,7 @@ tags:
 - <a href="https://www.walmart.com/ip/Great-Value-Sweetened-Dried-Cranberries-6-oz/13033150?athbdg=L1200&from=/search">Dried cranberries</a><br>
 - <a href="https://www.walmart.com/ip/Smucker-s-Natural-Red-Raspberry-Fruit-Spread-17-25-Ounces/28403813?from=/search">Jelly</a><br>
 
-<div id="seed-oil"></div>
+<div id="seed-oil" class="table-of-contents"></div>
 <br><i><font size="+2">Seed Oils</font></i><br>
 &emsp;I'm going to keep this brief, as it's a very contested topic.  Some people are adamant that seed oils are the worst thing ever, and some say they're perfectly healthy.  I probably land somewhere in the middle.  Let's start by going over what seed oils are.  Also known as vegetable oils, they are oils made of mainly mono and poly-unsaturated fats from plant based sources.  The term refers to the following oils: canola, sunflower, grapeseed, cottonseed, corn, soybean, safflower, rice bran, and peanut.
 
@@ -133,14 +133,14 @@ tags:
 <center><a href="https://www.zeroacre.com/blog/seed-oil-free-holiday"><img src="/assets/Misc/Trap/avoid-seed-oil.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;In general, definitely avoid deep frying (which creates trans fats), as that's when these oils are at the most dangerous.  It's best to cook with less processed fats like extra virgin olive oil, sesame oil, or unrefined coconut oil instead of highly processed vegetable oils.  But a little bit here and there is probably okay; just try to limit your intake whenever possible.  Cutting back your intake of ultra-processed foods would probably decrease the vast majority of vegetable oil in your diet anyway.
 
-<div id="margarine"></div>
+<div id="margarine" class="table-of-contents"></div>
 <br><i><font size="+2">Margarine and Low Fat Butter</font></i><br>
 &emsp;Margarine is a butter substitute typically made from <a rel="" target="" href="#seed-oil">vegetable oils</a>.  Popular brands include <a href="https://www.walmart.com/ip/Country-Crock-Original-Vegetable-Oil-Spread-45-oz-Tub-Refrigerated/10291546?athbdg=L1600&from=/search">Country Crock</a> and <a href="https://www.walmart.com/ip/I-Can-t-Believe-It-s-Not-Butter-Original-Spread-15-oz-Tub-Refrigerated/10306827?athbdg=L1600&from=/search">I Can't Believe It's Not Butter</a>.  They're heavily processed, contain unnecessary additives, and even used to have trans fats until they were banned.  Margarine is essentially hydroginated <a rel="" target="" href="#seed-oil">seed oils</a>, turning them from a liquid to a solid.  I'm not calling butter a health food, but I'd certainly opt for that over the fake butter substitutes.
 
 <center><a href="https://www.meghantelpner.com/butter-or-margarine/"><img src="/assets/Misc/Trap/margarine-vs-butter.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Despite trans fats being banned in the US, most brands still contain trace amounts, as it can legally be rounded down to 0g if they contain less than 0.5g of trans fats.  Trans fats in any amount are extremenly harmful to your health, raising LDL, lowering HDL, and lead to increased risk of heart attack or stroke.  The process of partially hydroginating unsaturated fats is how trans fats are created (how margarine used to be made).  Now, it uses fully hydroginated oils, which are instead saturated fats instead of trans fats.  Research on fully hydroginated fats is minimal, as trans fats were only banned in 2018, but it's assumed that these fats are less bad, but not good.  Always opt for whole food fat sources whenever possible instead, like nuts, avocado, fatty fish, and EVOO. 
 
-<div id="salad-dressing"></div>
+<div id="salad-dressing" class="table-of-contents"></div>
 <br><i><font size="+2">Salad Dressing</font></i><br>
 &emsp;Salad is often thought of as a healthy food, but the dressing can make or break this.  Most bottled salad dressings contain high amounts of vegetable oils, sugars, and sodium, and are very highly processed.  The creamy dressings, like <a href="https://www.walmart.com/ip/Great-Value-Classic-Ranch-Salad-Dressing-Dip-16-fl-oz/16618888?athbdg=L1600&from=/search">Ranch</a> and <a href="https://www.walmart.com/ip/Ken-s-Steak-House-Creamy-Caesar-Salad-Dressing-16-fl-oz/10307559?athbdg=L1600&from=/search">Caesar</a> are very calorically dense, containing mainly soybean oil, sugar,  gums, and preservatives.  On the other hand, the more oil based dressings like <a href="https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?athbdg=L1600&from=/search">Italian</a> and <a href="https://www.walmart.com/ip/Kraft-Raspberry-Vinaigrette-Lite-Salad-Dressing-16-fl-oz-Bottle/10295743?from=/search">Vinaigrette</a> have higher amounts of sugars to make up for less overall fat, in addition to artificial colorings.
 
@@ -162,7 +162,7 @@ tags:
 - <a href="/recipes/mediterranean-pasta-salad">Mediterranean Pasta Salad</a><br>
 
 <center><a href="https://www.boredpanda.com/funny-diet-weight-loss-memes/"><img src="/assets/Misc/Trap/salad.jpg" alt="" class="larger-image"></a></center><br>
-<div id="condiments"></div>
+<div id="condiments" class="table-of-contents"></div>
 <br><i><font size="+2">Condiments</font></i><br>
 &emsp;Condiments are types of sauces that can typically go on a sandwich, salad or toast, or be used in cooking.  Here are some of the most common condiments that I can think of:
 - <a href="https://www.walmart.com/ip/Sabra-Classic-Original-Hummus-Fresh-10-oz-Plastic-Tub-Gluten-free-Serving-Size-2-tbsp/10850129?from=/search">Hummus</a><br>
@@ -188,7 +188,7 @@ tags:
 <center><img src="/assets/Misc/Trap/bbq.jpg" alt="" class="larger-image"></center><br>
 &emsp;On the other end of the spectrum is mayo.  Mayonnaise is simply oil emulsified with egg yolks, leading it to be essentially pure fat.  It's very calorie dense, and typically store bought versions use soybean oil.  It can be healthier at home with extra virgin olive oil, but it will still be very high in calories, which is something to keep in mind.
 
-<div id="dips"></div>
+<div id="dips" class="table-of-contents"></div>
 <br><i><font size="+2">Creamy Dips</font></i><br>
 &emsp;Most creamy dips are either mayo, sour cream, or cream cheese with slew of additional ingredients.  These are all very calorie dense, being very high in saturated fat.  These are typically not good for your health, increasing your risk for heart disease, diabetes, and weight gain.  Store bought versions include <a href="https://www.walmart.com/ip/Marketside-Premium-Heatable-Spinach-Artichoke-Dip-Small-Tub-16-oz-1-Count-Refrigerated/37915367?from=/search">Spinach Artichoke Dip</a>, <a href="https://www.walmart.com/ip/Great-Value-Gluten-Free-French-Onion-Dip-16-oz-Tub/194597385?athbdg=L1600&from=/search">French Onion Dip</a>, <a href="https://www.walmart.com/ip/Great-Value-Thousand-Island-Dressing-16-fl-oz/10452368?athbdg=L1200&from=/search">Thousand Island</a>, <a href="https://www.walmart.com/ip/Great-Value-Classic-Ranch-Salad-Dressing-Dip-16-fl-oz/16618888?athbdg=L1600&from=/search">Ranch</a>, and <a href="https://www.walmart.com/ip/Ken-s-Steak-House-Creamy-Caesar-Salad-Dressing-16-fl-oz/10307559?athbdg=L1600&from=/search">Caesar</a>.  Plus, they're typically paired with chips, which can easily lead to too much consumption of Omega-6 fats, as both the deep fried <a rel="" target="" href="/misc/trap-foods-snacks#chips">chips</a> and these dressings are high in inflammatory seed oils.  Most of these can be made at home fairly easily by just swapping the mayo for plain Greek yogurt; check out some examples below:
 - Any of my varieties of <a rel="" target="" href="/misc/trap-foods-snacks#hummus">hummus</a><br>
@@ -200,7 +200,7 @@ tags:
 - <a href="/recipes/olivcado">Olivcado Salad Dressing</a><br>
 
 <center><img src="/assets/Misc/Trap/dip.jpg" alt="" class="larger-image"></center><br>
-<div id="sauces"></div>
+<div id="sauces" class="table-of-contents"></div>
 <br><i><font size="+2">Sauces</font></i><br>
 &emsp;A lot of commercial pasta sauces are either full of hidden sugars or loaded with oils.  Examples include <a href="https://www.walmart.com/ip/Great-Value-Traditional-Pasta-Sauce-24-oz/19758051?athbdg=L1600&from=/search">marinara</a>, <a href="https://www.walmart.com/ip/Barilla-Rustic-Basil-Pesto-Pasta-Sauce-6-5-oz/126259730?athbdg=L1200&from=/search">pesto</a> or <a href="https://www.walmart.com/ip/Great-Value-Classic-Alfredo-Pasta-Sauce-16-oz/13033144?from=/search">alfredo</a>.  The below image shows just how much sugar there is in each serving of sauce.  Note that tomatoes are sweet on their own, and these glasses include the natural sugars of the tomatoes as well.  But it's apparent how much can be added without you even noticing.  Marinara sauce is probably not the main source of added sugar in your diet, but it's something to be aware of.  These jarred sauces also tend to also be highly processed and sodium dense.
 

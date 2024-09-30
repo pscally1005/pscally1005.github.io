@@ -66,7 +66,7 @@ tags:
 
 <br><center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Trap/sugar.jpg" alt="" class="larger-image"></a></center><br>
 
-<div id="white-rice"></div>
+<div id="white-rice" class="table-of-contents"></div>
 <br><i><font size="+2">White Rice</font></i><br>
 &emsp;<a href="https://www.walmart.com/ip/Great-Value-Long-Grain-Enriched-Rice-32-oz/10315394?athbdg=L1600&from=/search">White rice</a> is fairly processed, removing the hull and bran and leaving just the starch.  It's basically the white flour equivalent for rice.  With just the starch, white rice is lacking the fiber, vitamins, and minerals of <a href="https://www.walmart.com/ip/Great-Value-Natural-Brown-Long-Grain-Rice-32-oz/10898755?athbdg=L1600&from=/search">brown rice</a>, which is why it's often enriched with micronutrients (the same is done with white bread).  More starch and less fiber leads to greater insulin spikes, increasing your risk for diabeter and metabilic syndrome.  Now I'm not saying that white rice is the most unhealthy thing in the world, far from it; I'm just simply saying there are better options.  Instead of white rice, try instead using brown rice, <a href="https://www.walmart.com/ip/Gourmet-House-Cultivated-Rice-Long-Grain-Wild-Rice-1-lb-Bag/534646756?athbdg=L1600&from=/search">wild rice</a>, <a href="https://www.walmart.com/ip/Success-Boil-in-Bag-Quinoa-Tri-Color-Quinoa-12-oz-4-Count/400339803?athbdg=L1600&from=/search">quinoa</a>, <a href="https://www.walmart.com/ip/RiceSelect-Original-Couscous-Moroccan-Style-Couscous-26-5-oz-Jar/10403512?athbdg=L1600&from=/search">couscous</a>, or even riced <a href="https://www.walmart.com/ip/Great-Value-Cauliflower-12-oz-Bag-Frozen/242699420?athbdg=L1600&from=/search">cauliflower</a> or <a href="https://www.walmart.com/ip/Great-Value-Frozen-Broccoli-Florets-12-oz-Steamable-Bag/735585383?athbdg=L1200&from=/search">broccoli</a>.  
 
@@ -74,7 +74,7 @@ tags:
 
 <center><a href="https://www.bhutannatural.com/resources/white-rice-bad-for-you"><img src="/assets/Misc/Trap/white-rice.jpg" alt="" class="larger-image"></a></center><br>
 
-<div id="frozen-meals"></div>
+<div id="frozen-meals" class="table-of-contents"></div>
 <br><i><font size="+2">Frozen and Canned Meals</font></i><br>
 &emsp;Frozen and canned meals are great for convienence, but that they can very high in sodium, fat, added sugar, calories, and artificial preservatives.  I don't want to keep beating a dead horse; instead, I'll just leave some links to examples:
 - <a href="https://www.walmart.com/ip/Marie-Callender-s-Aged-Cheddar-Cheesy-Chicken-and-Rice-Bowl-Frozen-Meal-12-oz-frozen/970096078?athbdg=L1200&from=/search">Chicken and Rice Bowl</a><br>
@@ -88,7 +88,7 @@ tags:
 - <a href="https://www.walmart.com/ip/Great-Value-Macaroni-Beef-15-oz/10315143?from=/search">Mac and Cheese</a><br>
 
 <center><a href="https://toneop.com/blog/Are-Frozen-Foods-Healthy-Or-Unhealthy"><img src="/assets/Misc/Trap/frozen.jpg" alt="" class="larger-image"></a></center>
-<div id="processed-meats"></div>
+<div id="processed-meats" class="table-of-contents"></div>
 <br><i><font size="+2">Processed Meats</font></i><br>
 &emsp;Processed meats can be a great convienence food.  They're typically used on a sandwich, but can also work well in eggs, pizza toppings, salad, or even more.  Examples include <a href="https://www.walmart.com/ip/Great-Value-Original-Pepperoni-Slices-6-oz/40495518?athbdg=L1200&from=/search">pepperoni</a>, <a href="https://www.walmart.com/ip/Great-Value-Hard-Salami-Lunchmeat-7oz-Re-Sealable-Plastic-Container-5-G-of-Protein-per-1oz-Serving/52468057?athbdg=L1600&from=/search">salami</a>, <a href="https://www.walmart.com/ip/Fiorucci-Pre-Sliced-Prosciutto-3-Ounces-6-Slices-per-Pack/169146307?from=/search">prosciutto</a>, and lunch meats (<a href="https://www.walmart.com/ip/Great-Value-Thin-Sliced-Black-Forest-Ham-Lunchmeat-Family-Pack-1lb-Resealable-Plastic-Tub-10-G-of-Protein-per-2oz-Serving/47394319?athbdg=L1600&from=/search">ham</a>, <a href="https://www.walmart.com/ip/Prima-Della-Oven-Roasted-Turkey-Breast-Pre-Sliced/755518977?athbdg=L1600&from=/search">turkey</a>, <a href="https://www.walmart.com/ip/Prima-Della-Oven-Roasted-Chicken-Breast-Deli-Sliced/423266889?athbdg=L1200&from=/search">chicken</a>, and <a href="https://www.walmart.com/ip/Great-Value-Roast-Beef-Lunchmeat-7oz-Plastic-Tub-10-G-of-Protein-per-2-oz-56g-Serving/10315850?from=/search">roast beef</a>), as well as other cured meats like <a href="https://www.walmart.com/ip/Great-Value-Hickory-Smoked-Bacon-0-75-lb/23816525?athbdg=L1200&from=/search">bacon</a>, <a href="https://www.walmart.com/ip/Premio-Foods-Sweet-Italian-Pork-Sausage-Links-16-oz-6-Count-Fresh/5113175221?from=/search">sausage</a>, <a href="https://www.walmart.com/ip/Oscar-Mayer-Classic-Beef-Franks-Hot-Dogs-10-ct-Pack/39976745?athbdg=L1600&from=/search">hot dogs</a>, and <a href="https://www.walmart.com/ip/Marketside-Boneless-Spiral-Cut-Brown-Sugar-Double-Glazed-Ham-Pork-2-0-4-8-lbs/10452662?from=/search">ham</a>.  
 
@@ -105,26 +105,26 @@ tags:
 - <a href="/recipes/sloppy-joe">Sloppy Joe Skillets</a><br>
 - <a href="/recipes/taco">Sauteed Taco Meat and Fajita Veggies</a><br>
 
-<div id="fake-meat"></div>
+<div id="fake-meat" class="table-of-contents"></div>
 <br><i><font size="+2">Fake Meat</font></i><br>
 &emsp;If you're vegan, it can be hard to find a meat substitute, both for getting enough protein and for the feeling of being able to replicate meat. However, you don't want to be a junk food vegan.  This means avoiding fake meat replacement products like <a href="https://www.walmart.com/ip/Impossible-Ground-Beef-Meat-From-Plants-12-oz/377356856?athbdg=L1600&from=/search">Impossible Meat</a>, <a href="https://www.walmart.com/ip/Beyond-Meat-Beyond-Burger-Plant-Based-Patties-2-pk-8-oz/957733881?from=/search">Beyond Burger</a>, <a href="https://www.walmart.com/ip/McCormick-Vegan-Gluten-Free-Imitation-Bacon-Bits-4-4-oz-Bottle/13908489?athbdg=L1600&from=/search">Bac'n Pieces</a>, and <a href="https://www.walmart.com/ip/Gardein-Ultimate-Plant-Based-Chick-n-Filets-Vegan-15-oz-Frozen/733799556?from=/search">Chick'n Filets</a>.  All are worse for you than regular meat, being ultra-processed and so far removed from what they started as.  
 
 <center><a href="https://www.reddit.com/r/exvegans/comments/pspmts/i_cant_believe_we_actually_believed_that_fake/"><img src="/assets/Misc/Trap/fake-meat.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Either eat real meat, or prioritize whole food or minimally processed plant based protein sources, like soy (<a href="https://www.walmart.com/ip/Wildwood-Natural-Foods-Organic-Super-Firm-High-Protein-Tofu-16-Ounce-6-per-case/683184835?from=/search">tofu</a>, <a href="https://www.walmart.com/ip/Lightlife-Refrigerated-Original-Organic-Plant-Based-Tempeh-8-oz/153145293?from=/search">tempeh</a>, and <a href="https://www.walmart.com/ip/Great-Value-Frozen-Edamame-12-oz/328567678?athbdg=L1200&from=/search">edamame</a>), <a href="https://www.amazon.com/Vital-Gluten-Anthonys-Pounds-Protein/dp/B00PB8U7Y0/ref=sr_1_5?sr=8-5">seitan</a>, <a href="https://www.walmart.com/ip/Great-Value-Black-Beans-15-oz-Can/10534038?athbdg=L1600&from=/search">beans</a>, <a href="https://www.walmart.com/ip/Great-Value-Lentils-1-lb/545884744?athbdg=L1200&from=/search">lentils</a>, and <a href="https://www.walmart.com/ip/Manitoba-Harvest-Natural-Hemp-Seeds-Shelled-Hemp-Hearts-Plant-Based-Protein-with-Omega-16-oz/28788924?athbdg=L1200&from=/search">hemp hearts</a>.  I actually have a recipe for <a href="/recipes/seitan">Ground 'Meat' Seitan</a> that you can check out, and use in place of ground beef in tacos, skillets, or chili.
 
-<div id="baked-beans"></div>
+<div id="baked-beans" class="table-of-contents"></div>
 <br><i><font size="+2">Baked Beans</font></i><br>
 &emsp;Beans are a healthy side dish.  They're a good plant based protein, contain a lot of fiber, and can even make you a musician.  Baked beans on the other hand, not so much.  <a href="https://www.walmart.com/ip/Bush-s-Brown-Sugar-Hickory-Baked-Beans-Canned-Beans-28-oz-Can/45207653?athbdg=L1200&from=/search">Canned baked beans</a> are just navy beans covered in a ton of sugar, often containing as many grams of total sugar as protein and fiber combined.  With 11 g (nearly a tablespoon) of added sugar per 1/2 cup (130 g) serving, this is really a dessert in disguise on your dinner plate.  I prefer my version instead: <a href="/recipes/baked-beans">No Added Sugar Baked Beans</a>.  Not to mention that it's often paired with...
 
 <center><img src="/assets/Misc/Trap/baked-beans.jpg" alt="" class="larger-image"></center><br>
-<div id="cornbread"></div>
+<div id="cornbread" class="table-of-contents"></div>
 <br><i><font size="+2">Cornbread</font></i><br>
 &emsp;...cornbread.  <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Mini-Sweet-Cornbread-16-oz-8-Count/130416860?from=/search">Cornbread</a> is another dessert that somehow weaseled it's way onto your dinner plate.  Just like muffins, banana bread, and baked beans, cornbread is secretly a dessert with good marketing.  The one linked above (and shown below) has sugar as it's first ingredient, closely followed by bleached white flour and seed oil (wait, where's the cornmeal?).  There's more added sugar, fat, and calories in 1 slice of this cornbread as one of these <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Chocolate-Chip-Bakery-Cookies-14-oz-10-Count/184184305?athbdg=L1600&from=/search">large chocolate chip cookies</a>!
 
 <center><img src="/assets/Misc/Trap/cornbread.jpg" alt="" class="larger-image"></center><br>
 &emsp;Cornbread or corn muffins can be a fine dessert in moderation, but know what you're getting when you reach for a slice.  If you're anything like me (if you're this deep down then congrats, you probably are lol), you should enjoy my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a>, which is much higher in protein, lower in fat and carbs, and free of any added sugars or artificial sweeteners.
 
-<div id="potatoes"></div>
+<div id="potatoes" class="table-of-contents"></div>
 <br><i><font size="+2">Potatoes</font></i><br>
 &emsp;Finally, at long last, we've reached the end.  I bet you're asking: why are <a href="https://www.walmart.com/ip/Fresh-Whole-Russet-Potatoes-5lb-bag/10447837?athbdg=L1200&from=/search">potatoes</a>, a nutritious whole food, on this list?  It's true that potatoes are a great starchy vegetable, where 1 medium baked potato with the skin (173 g) contains:
 - Calories: 161

@@ -8,65 +8,65 @@
 {% endif %}
 
 <!-- Total and unit cost section -->
-<div class="recipe-costs">
+{% if page.recipe != "no" %}
+    <div class="recipe-costs">
 
-    <!-- Variables -->
-    {% assign recipeCost = 0 %}
-    {% assign servings = 0 %}
+        <!-- Variables -->
+        {% assign recipeCost = 0 %}
+        {% assign servings = 0 %}
 
-    <!-- Loop through all the ingredients -->
-    {% for row in site.data[ing] %}
-        <!-- Get # of servings -->
-        {% if forloop.last %}
-            {% assign servings = row["Amount"] | times: 1 %}
-            {% continue %}
-        {% endif %}
-
-        <!-- Get the food and gram measurements -->
-        {% assign food = row["Ingredient"] %}
-        {% assign mass = row["Amount"] | times: 1.0 %}
-
-        <!-- Variable for food file -->
-        {% assign unitCost = "" %}
-
-        <!-- Loop through rows of food file -->
-        {% for row in site.data.foods %}
-            <!-- Assign unit cost -->
-            {% if row["Food"] == food %}
-                {% assign unitCost = row["Unit Cost ($/g)"] | times: 1.0 %}
-                {% break %}
+        <!-- Loop through all the ingredients -->
+        {% for row in site.data[ing] %}
+            <!-- Get # of servings -->
+            {% if forloop.last %}
+                {% assign servings = row["Amount"] | times: 1 %}
+                {% continue %}
             {% endif %}
+
+            <!-- Get the food and gram measurements -->
+            {% assign food = row["Ingredient"] %}
+            {% assign mass = row["Amount"] | times: 1.0 %}
+
+            <!-- Variable for food file -->
+            {% assign unitCost = "" %}
+
+            <!-- Loop through rows of food file -->
+            {% for row in site.data.foods %}
+                <!-- Assign unit cost -->
+                {% if row["Food"] == food %}
+                    {% assign unitCost = row["Unit Cost ($/g)"] | times: 1.0 %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+
+            <!-- No match found -->
+            {% if unitCost == "" %}
+                {% assign unitCost = -9999 | times: 1.0 %}
+            {% endif %}
+
+            <!-- Calculate cost -->
+            {% assign itemCost = unitCost | times: mass %}
+            {% assign recipeCost = recipeCost | plus: itemCost %}
         {% endfor %}
 
-        <!-- No match found -->
-        {% if unitCost == "" %}
-            {% assign unitCost = -9999 | times: 1.0 %}
-        {% endif %}
+        <!-- Calculate cost per serving -->
+        {% assign servingCost = recipeCost | divided_by: servings %}
 
-        <!-- Calculate cost -->
-        {% assign itemCost = unitCost | times: mass %}
-        {% assign recipeCost = recipeCost | plus: itemCost %}
-    {% endfor %}
-
-    <!-- Calculate cost per serving -->
-    {% assign servingCost = recipeCost | divided_by: servings %}
-
-    <!-- Print total and serving costs -->
-    <div class="recipe-header">Cost</div>
-    <div class="ingredient-item" style="margin-bottom: 5px !important; display: inline !important;">
-        <div class="recipe-section-bold" style="font-style: normal !important;">Total Cost: </div>
-        <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}">${{ recipeCost | round: 2 }}</span>
-        <span class="recipe-vol" style="color:var(--minima-background-color) !important; font-size:0 !important;">{{ vol }}</span>
-        <span class="recipe-grams" data-base="{{ mass }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">{{ mass }} {{ unit }}</span>
-        <span class="ingredient-cost" data-base-cost="{{ totalCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">$({{ totalCost.toFixed(2) }})</span>
+        <!-- Print total and serving costs -->
+        <div class="recipe-header">Cost</div>
         <div id="recipe"></div>
-        <br>
-        <div class="recipe-section-bold" style="font-style: normal !important;">Cost per Serving: </div>
-        <div class="total-cost">${{ servingCost | round: 2 }}</div> <!-- Use round for proper decimal formatting -->
+        <div class="ingredient-item" style="margin-bottom: 5px !important; display: inline !important;">
+            <div class="recipe-section-bold" style="font-style: normal !important;">Total Cost: </div>
+            <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}">${{ recipeCost | round: 2 }}</span>
+            <span class="recipe-vol" style="color:var(--minima-background-color) !important; font-size:0 !important;">{{ vol }}</span>
+            <span class="recipe-grams" data-base="{{ mass }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">({{ mass }} {{ unit }})</span>
+            <span class="ingredient-cost" data-base-cost="{{ totalCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important; display: block !important;">$({{ totalCost.toFixed(2) }})</span>
+            <div class="recipe-section-bold" style="font-style: normal !important;">Cost per Serving: </div>
+            <div class="total-cost">${{ servingCost | round: 2 }}</div> <!-- Use round for proper decimal formatting -->
+        </div>
+
     </div>
-
-</div>
-
+{% endif %}
 
 <!-- Print section title -->
 {% if ing %}
@@ -74,13 +74,17 @@
 {% endif %}
 
 <!-- Serving Controls -->
-<div class="serving-controls">
-    <button id="decrease">-</button>
-    <input type="number" id="servingCount" value="1" min="1" />
-    <button id="increase">+</button>
-    <span><b>Serving(s)</b></span> <!-- Added serving(s) display -->
-    <button id="reset" class="reset-button">Reset</button> <!-- Reset button -->
-</div>
+{% if page.recipe != "no" %}
+    <div class="serving-controls">
+        <button id="decrease">-</button>
+        <input type="number" id="servingCount" value="1" min="1" step="0.1" />
+        <button id="increase">+</button>
+        <span><b>Serving(s)</b></span> <!-- Added serving(s) display -->
+        <button id="half" class="half-button">&frac12x</button> <!-- Half button -->
+        <button id="reset" class="reset-button">1x</button> <!-- Reset button -->
+        <button id="double" class="double-button">2x</button> <!-- Double button -->
+    </div>
+{% endif %}
 
 <!-- Ingredient Display -->
 <div class="ingredients">
@@ -151,10 +155,12 @@
             <div class="ingredient-item" style="margin-bottom: 5px; display: inline-block;">
                 -
                 <span class="recipe-vol">{{ vol }}</span>
-                <span class="recipe-grams" data-base="{{ mass }}">{{ mass }} {{ unit }}</span>
+                <span class="recipe-grams" data-base="{{ mass }}">({{ mass }} {{ unit }})</span>
                 <span class="recipe-food">{{ food }}</span>
-                <span class="ingredient-cost" data-base-cost="{{ totalCost }}">$({{ totalCost.toFixed(2) }})</span>
-                <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">${{ recipeCost | round: 2 }}</span>
+                {% if page.recipe != "no" %}
+                    <span class="ingredient-cost" data-base-cost="{{ totalCost }}">$({{ totalCost.toFixed(2) }})</span>
+                    <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">${{ recipeCost | round: 2 }}</span>
+                {% endif %}
             </div>            
         {% endif %}
     {% endfor %}
@@ -164,7 +170,9 @@
     const servingCountInput = document.getElementById("servingCount");
     const decreaseButton = document.getElementById("decrease");
     const increaseButton = document.getElementById("increase");
+    const halfButton = document.getElementById("half");
     const resetButton = document.getElementById("reset");
+    const doubleButton = document.getElementById("double");
     const ingredients = document.querySelectorAll(".ingredient-item");
 
     // Initialize the base servings variable
@@ -178,7 +186,7 @@
 
     // Function to update ingredient amounts based on servings
     function updateIngredients() {
-        const servings = servingCountInput.value.trim() === "" ? baseServings : parseInt(servingCountInput.value) || baseServings;
+        const servings = servingCountInput.value.trim() === "" ? baseServings : parseFloat(servingCountInput.value) || baseServings;
 
         ingredients.forEach(item => {
             const baseMass = parseFloat(item.querySelector(".recipe-grams").getAttribute("data-base"));
@@ -228,16 +236,28 @@
         updateIngredients(); // Update the ingredient amounts
     });
 
+    // Half of original servings
+    halfButton.addEventListener("click", () => {
+        servingCountInput.value = baseServings / 2; // Set input to half the original servings
+        updateIngredients(); // Update the ingredient amounts
+    });
+
     // Reset to original servings
     resetButton.addEventListener("click", () => {
         servingCountInput.value = baseServings; // Set input to the original servings
         updateIngredients(); // Update the ingredient amounts
     });
 
+    // Double of original servings
+    doubleButton.addEventListener("click", () => {
+        servingCountInput.value = baseServings * 2; // Set input to double the original servings
+        updateIngredients(); // Update the ingredient amounts
+    });
+
     // Add an event listener to update on input change
     servingCountInput.addEventListener("input", () => {
         // Ensure the input is not less than 1
-        if (parseInt(servingCountInput.value) < 1) {
+        if (parseFloat(servingCountInput.value) < 1) {
             servingCountInput.value = 1; // Set to minimum value of 1
         }
         updateIngredients(); // Update the ingredient amounts
@@ -268,11 +288,8 @@
         padding: 0; /* Remove padding */
     }
 
-    .serving-controls .reset-button {
-        width: 70px; /* Set a specific width for the reset button */
+    .serving-controls .reset-button, .half-button, .double-button {
         padding: 0 5px; /* Add horizontal padding for better text fit */
-        font-size: 16px; /* Keep font size consistent */
-        margin-left: 20px; /* Add margin to space from the "Serving(s)" text */
     }
 
     .serving-controls input {
@@ -331,10 +348,6 @@
     @media (max-width: 768px) {
         .serving-controls {
             justify-content: flex-start; /* Keep the left alignment for mobile */
-        }
-
-        .serving-controls .reset-button {
-            margin-left: auto; /* Push the reset button all the way to the right */
         }
 
         .ingredient-item {

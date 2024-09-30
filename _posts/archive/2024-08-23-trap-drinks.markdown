@@ -70,52 +70,52 @@ tags:
 
 <br><center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Trap/sugar.jpg" alt="" class="larger-image"></a></center><br>
 
-<div id="juice"></div>
+<div id="juice" class="table-of-contents"></div>
 <br><i><font size="+2">Fruit Juice</font></i><br>
 &emsp;So <a rel="" target="" href="/misc/trap-foods-snacks#dried-fruit">dried fruit</a> is a highly concentrated source of sugar, even natural, that you should be mindful of consuming.  But what if we did the opposite: remove all the fiber, but keep all the water?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any added sugar, is only marginally better for you than a glass of soda.  You'll get some Vitamin C, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href="https://www.walmart.com/ip/Simply-Non-GMO-Orange-Juice-No-Pulp-52-fl-oz-Bottle/959033640?athbdg=L1200&from=/search">orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without fiber to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
 
 <center><a href="https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks"><img src="/assets/Misc/Trap/juice-vs-soda.jpg" alt="" class="larger-image"></a></center><br>
-<div id="smoothie"></div>
+<div id="smoothie" class="table-of-contents"></div>
 <br><i><font size="+2">Smoothies</font></i><br>
 &emsp;So if <a rel="" target="" href="/misc/trap-foods-snacks#dried-fruit">dried fruit</a> is a maybe and <a rel="" target="" href="#juice">fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more fiber than fruit juice.  However, the process of blending fruit destroys some of it's fiber.  A smoothie can still be healthy however.  Just make sure to add some protein and fat to slow down the spike to your blood sugar.  I prefer using protein powder, greek yogurt, and chia seeds for a <a href="/recipes/smoothie">Protein Fruit Smoothie</a> if I do have one, but peanut butter, almond butter, avocado, or flaxseeds also work as great fat sources.  The healthiest smoothies also include some vegetables like spinach as well.
 
 <center><a href="/recipes/smoothie"><img src="/assets/Food/Drinks/Smoothie/smoothie-cover.jpg" alt="" class="instruction-image"></a></center><br>
 &emsp;And of course, only use an unsweetened liquid for your smoothies like milk, unsweetened plant milks, or water.  Fruit is already plenty sweet without the addition of added sugars from the milk or any additional honey.  Smoothies are great to make yourself, but be very weary of ordering one anywhere, since you don't know how much added sugar is secretly in that glass.
 
-<div id="sports-drinks"></div>
+<div id="sports-drinks" class="table-of-contents"></div>
 <br><i><font size="+2">Sports Drinks</font></i><br>
 &emsp;Sports drinks, when used as they are intended, can be exactly what your body needs.  One medium 12 oz bottle of <a href="https://www.walmart.com/ip/Gatorade-Thirst-Quencher-Fruit-Punch-Sports-Drinks-12-fl-oz-12-Count-Bottles/10449240?athbdg=L1600&from=/search">Gatorade</a> contains 21 g of added sugar and 160 mg of sodium.  Which after a really strenuous activity, like a marathon, is exactly what you need.  The simple sugars replenish your glycogen stores in your liver, and sodium is an essential nutrient that is lost through sweating.  If you're sweating a ton, sick, or hungover, a Gatorade can be a lifesaver.
 
 <center><img src="/assets/Misc/Trap/gatorade.jpg" alt="" class="larger-image"></center><br>
 &emsp;Or it can be a noncarbinated salt soda if you're consuming it incorrectly.  The fact of the matter is that most Americans are not exercising enough, and consuming way too much ultraprocessed foods.  That means a high consumption of added sugar and salt, without any way of your body to use it.  So another addition source of the 2 is way more likely to do harm than good.  Save sports drinks for after intense physical activity, and not after a kid's leisurely soccer game or as a sipping drink throughout the day.  Give little Jimmy an orange instead.
 
-<div id="energy-drinks"></div>
+<div id="energy-drinks" class="table-of-contents"></div>
 <br><i><font size="+2">Energy Drinks</font></i><br>
 &emsp;What if you take a sports drinks, remove some of the salt, and instead add a ton of caffeine and some B vitamins?  You end up with a Red Bull.  Surprisingly, most energy drinks actually come packed with vitamins and minerals, with concentrations as much as a multivitamin.  They also contain a ton of added sugar (go figure) and caffeine (which isn't necessarily good or bad, just something to be mindful of).  
 
 <center><img src="/assets/Misc/Trap/energy-drink.jpg" alt="" class="larger-image"></center><br>
 &emsp;I found this image under the listing for <a href="https://www.walmart.com/ip/Red-Bull-Energy-Drink-8-4-fl-oz-Pack-of-12-Cans/10316267?athbdg=L1200&from=/search">Red Bull</a> on Walmart, where they out themselves as being worse for you than a typical soda or fruit juice.  Thankfully there are some brands of energy drinks that don't have any added sugar like <a href="https://www.walmart.com/ip/CELSIUS-Sparkling-Vibe-Variety-Pack-Functional-Essential-Energy-Drink-12-fl-oz-Pack-of-12/584986458?athbdg=L1600&from=/search">Celsius</a>, but that doesn't make them healthy, just less bad.  Energy drinks aren't bad if you got a particularly terrible night's sleep, need to pull the (occasional) all nighter, or if you're out partying.  Just dont rely on them; I see people drinking these all the time at the office or the gym.
 
-<div id="coffee"></div>
+<div id="coffee" class="table-of-contents"></div>
 <br><i><font size="+2">Coffee</font></i><br>
 &emsp;As I mentioned above with <a rel="" target="" href="#energy-drinks">energy drinks</a>, caffeine isn't inherently good or bad.  It can absolutely be a substance of toxic abuse, or it can help improve alertness and brain function.  For clarity, I'll say that I don't consume coffee or any caffeine.  I've just never drank it, so my body has never developed a dependency for it like most people.  There are studies showing the benefits of caffeine in moderation however; every coin has 2 sides.
 
 <center><img src="/assets/Misc/Trap/coffee.jpg" alt="" class="larger-image"></center><br>
 &emsp;So why is coffee on this list then?  Added fat and sugar.  <a href="https://www.starbucks.com/menu/product/873068728/iced/nutrition">Starbucks Peppermint White Chocolate Mocha Frappuccino</a> contains a tooth shattering and diabetes inducing 73 g of added sugar (that's over 6 tablespoons!), as well as 470 calories and 17 g of fat.  That's almost 10 g more sugar and double the calories of a 16.9 fl oz <a href="https://www.walmart.com/ip/Mountain-Dew-The-Original-Soda-Pop-16-9-fl-oz-6-Pack-Bottles/16785022?athbdg=L1600&from=/search">Mountain Dew</a>.  One of these every morning along with a <a rel="" target="" href="/misc/trap-foods-breakfast#muffins">muffin</a> is a one way ticket to metabolic syndrome.  Only black coffee contains any benefits; this is just a caffeinated milkshake.
 
-<div id="iced-tea"></div>
+<div id="iced-tea" class="table-of-contents"></div>
 <br><i><font size="+2">Iced Tea</font></i><br>
 &emsp;I think most people can agree that while tea is healthy, there's no health benefits of a Snapple or Arnold Palmer iced tea.  The issue comes from the iced teas that are marketed as being "healthy", with <a href="https://www.walmart.com/ip/Pure-Leaf-Raspberry-Real-Brewed-Iced-Tea-Bottled-Tea-Drink-16-9-oz-6-Bottles/217654271?athbdg=L1600&from=/search">Pure Leaf</a> being the main brand.  For a 16.9 fl oz serving of Pure Leaf, there's 42 g of added sugar, or 2.5 g per fl oz.  Just a single bottle contains over 1.5x your daily added sugar maximum.  The nutrition facts for the Pure Leaf are on the left below.  
 
 <center><img src="/assets/Misc/Trap/iced-tea.jpg" alt="" class="larger-image"></center><br>
 &emsp;Compare that to this <a href="https://www.walmart.com/ip/Great-Value-Sweet-Brewed-Iced-Tea-128-fl-oz-Bottle/10899050?athbdg=L1600&from=/search">Great Value Iced Tea</a> (on the right in the above image).  This store brand iced tea has 30 g of added sugar in a 12 fl oz serving, or 2.5 g of sugar per fl oz.  Hey look at that; it's the exact same amounts of added sugar!  Don't be a fool to marketing.
 
-<div id="diet-soda"></div>
+<div id="diet-soda" class="table-of-contents"></div>
 <br><i><font size="+2">Diet Soda</font></i><br>
 &emsp;So no sugar = healthy, right?  Not quite.  While the issue of <a rel="" target="" href="/misc/trap-foods-sweet-spreads#sugar-substitutes">artificial sweeteners</a> is a highly contested topic, it is generally agreed that artificial sweeteners, and by extension diet coke, are less bad than their full sugar counterparts.  Less bad, but that doesn't mean good.  Diet soda is good if you're addicted to regular soda, and are trying to wean yourself off.  In the same way that vaping could be helpful as a way to quit cigarettes.  That doesn't mean you should take up vaping, and the same holds true for a Diet Coke.
 
 <center><a href="https://www.heart.org/en/news/2021/05/20/a-diet-soda-a-day-might-affect-dementia-risk-study-suggests"><img src="/assets/Misc/Trap/soda-brain.jpg" alt="" class="larger-image"></a></center>
-<div id="milk"></div>
+<div id="milk" class="table-of-contents"></div>
 <br><i><font size="+2">Milk</font></i><br>
 &emsp;Ah, the humble milk.  Whether you get whole milk, low fat, or skim, milk can be a nutrition option.  It's a complete protein, the fat helps with feeling satiated, and of course is a good source of calcium.  Milk isn't on this list because of it's fat content.  I think we know by now that fat is very good for you when not overconsumed; we don't live in the low fat craze of the 90s anymore.
 

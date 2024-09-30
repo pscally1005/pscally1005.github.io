@@ -9,9 +9,9 @@ permalink: /recipes/banana-bread-hummus
 image: /assets/Food/Sweet Spreads/BB Hummus/bb-hummus.jpg
 ing: bbhummus-ing
 facts: bbhummus-facts
-section1: 
-start2: 
-section2: 
+section1: Base
+start2: Liquid stevia or monk fruit
+section2: Optional
 start3: 
 section3: 
 start4: 
@@ -41,7 +41,7 @@ Description: Dessert hummus is a great sweet way to enjoy chickpeas. It works re
 Instructions: 
 - The day before, break your bananas into 1" chunks, and add to an airtight bag.  Freeze overnight<br><br>
 
-- Drain and rinse your chickpeas.  Add all ingredients to a food processor, and blend until smooth. Optionally, you can fold in some chopped chocolate (2 tbsp, 30 g)<br><br>
+- Drain and rinse your chickpeas.  Add all ingredients to a food processor, and blend until smooth.  If you don't have powdered peanut butter, you can add an additional 2 tbsp (32 g) of peanut butter or tahini<br><br>
 
 - Store in an air tight container in the fridge. Use it anywhere you'd use peanut butter, such as spreading on toast, or in your oatmeal.
 ---

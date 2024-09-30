@@ -82,7 +82,7 @@ tags:
 
 <br><center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Trap/sugar.jpg" alt="" class="larger-image"></a></center><br>
 
-<div id="granola"></div>
+<div id="granola" class="table-of-contents"></div>
 <br><i><font size="+2">Granola Bars</font></i><br>
 &emsp;Oatmeal flows us nicely into granola bars.  Usually thought of as a healthy boring snack, these are actually much worse than they seem.  Granola and granola bars are loaded with added sugars; just 1 <a href="https://www.walmart.com/ip/Quaker-Chewy-Granola-Bars-Chocolate-Chip-0-84-oz-18-Count/10312650?from=/search">Chewy Chocolate Chip Granola Bar</a> has 7 g of added sugar in a 24 g serving.  Do you know what else has the same amount of added sugar?  2 <a href="https://www.walmart.com/ip/CHIPS-AHOY-Original-Chocolate-Chip-Cookies-Family-Size-18-2-oz/23658443?athbdg=L1200&from=/search">Chips Ahoy cookies</a>.  The vast majority of bars on the market contain sugar (or some type of sugar) as one of the first 3 ingredients on the label, making them a dessert.
 
@@ -92,7 +92,7 @@ tags:
 &emsp;If you're going to get a bar, I'd recommend either <a href="https://www.walmart.com/ip/Larabar-Blueberry-Muffin-Gluten-Free-Vegan-Fruit-Nut-Bars-6-ct/702968641?athbdg=L1600&from=/search">Larabar</a> or <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a> (or my own <a href="/recipes/rx-bars">Copycat Chocolate RX Bars</a>); both are made with dates and nuts, and contain no added sugar or artificial sweeteners.  RxBars even have some protein powder as well.
 
 <center><img src="/assets/Misc/Trap/bars-2.jpg" alt="" class="larger-image"></center><br>
-<div id="trail-mix"></div>
+<div id="trail-mix" class="table-of-contents"></div>
 <br><i><font size="+2">Trail Mix</font></i><br>
 &emsp;Trail mix is the next step from granola, where you essentially just remove the oats, and instead have a mix of nuts and candy.  <a rel="" target="" href="#nuts">Nuts</a> are healthy, but can be easily overconsumed.  But the main problem with trail mix is the chocolate chips or M&Ms.  Trail mix can be a great snack, especially when on a trail (duh), where the salt, fat, and sugar are great for when you're out exercising.
 
@@ -101,21 +101,21 @@ tags:
 <center><img src="/assets/Misc/Trap/trail-mix.jpg" alt="" class="larger-image"></center><br>
 &emsp;If you really love trail mix, you should consider making it yourself.  It's cheaper and healthier, as well as dead simple.  Just mix together nuts, dark chocolate, and unsweetened dried fruit in a bag, and you're done.  You can check out my <a href="/recipes/trail-mix">Mixed Nuts and Chocolate Trail Mix</a> for a easy typical trail mix, or my <a href="/recipes/air-fried-trail-mix">Air Fryer Trail Mix</a> for a roasted varation with nuts, bananas, and chickpeas.
 
-<div id="nuts"></div>
+<div id="nuts" class="table-of-contents"></div>
 <br><i><font size="+2">Nuts</font></i><br>
 &emsp;Nuts, just like oats, can be a very healthful addition to your diet, or they can be the end of it, depending upon how they're prepared and consumed.  Nuts are rich in antioxidants, healthy fats, fiber, selenium, manganese, and contain a fair bit of protein.  They can also help in raising your HDL.  The problem is that nuts are insanely calorically dense (similar to <a rel="" target="" href="#chocolate">real dark chocolate</a>).  They're very high in fat, where just a 1 oz (28 g) serving contains about 160 calories.  Calories aren't everything, and fat is essential for you, but just don't overdo it on nuts (as I tend do to).
 
 <center><a href="https://www.thewellnesscorner.com/blog/side-effects-of-overeating-dry-fruits"><img src="/assets/Misc/Trap/nuts-calories.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Additionally, make sure to get plain nuts.  Ideally, your nuts are dry roasted; either unsalted or lightly salted are okay depending on your tastes and salt intake.  Just stay away from flavored nuts, like <a href="https://www.walmart.com/ip/Great-Value-Honey-Roasted-Peanuts-34-5-oz/10448380?from=/search">honey roasted peanuts</a> or <a href="https://www.walmart.com/ip/Great-Value-Honey-Roast-Pecans-7oz/636142562?from=/search">candied pecans</a>.  These contain lots of added sugars, unhealthy oils, and unnecessary ingredients.  Even <a href="https://www.walmart.com/ip/Great-Value-Dry-Roasted-Peanuts-16-oz/10448531?from=/search">regularly salted nuts</a> tend to contain a paragraph of ingredients.  Stick to just nuts and salt, and always weigh out your serving of nuts.  Any more than a handful is probably too much.
 
-<div id="dried-fruit"></div>
+<div id="dried-fruit" class="table-of-contents"></div>
 <br><i><font size="+2">Dried Fruit</font></i><br>
 &emsp;Dried fruit is a bit of a mixed bag.  On the one hand, it's just fruit with the water removed, leaving a concentrated source of minerals but natural sugars.  On the other hand, some dried fruits are pumped full of added sugars.  Generally, <a href="https://www.walmart.com/ip/Great-Value-Sun-Dried-Raisins-20-oz/20896168?athbdg=L1200&from=/search">raisins</a>, <a href="https://www.walmart.com/ip/Great-Value-Pitted-Deglet-Noor-Dates-Dried-Fruit-8-oz/578393789?from=/search">dates</a>, <a href="https://www.walmart.com/ip/Sun-Maid-California-Sun-Dried-Mission-Figs-Dried-Fruit-Snack-7-oz-Bag/12166534?athbdg=L1200&from=/search">dried figs</a>, and <a href="https://www.walmart.com/ip/Great-Value-Freeze-Dried-Fruit-Crisps-Variety-Pack-6-Count-2-26-oz/559404794?athbdg=L1600&from=/search">freeze dried fruit crisps</a> are pretty good, as all the sugar in these are just from the fruit itself.  <a href="https://www.walmart.com/ip/Great-Value-Dried-Apricots-16-oz/974611955?athbdg=L1600&from=/search">Dried apricots</a> and <a href="https://www.walmart.com/ip/Great-Value-Unsweetened-Pitted-Prunes-Canister-16-oz/1940649753?athbdg=L1200&from=/search">prunes</a> also tend to be unsweetened; just look out for the ingredients list.  Even though, you should be mindful of your dried fruit consumption, as it's very easy to overeat without all the water from the whole fruit.  Think about how many raisins you can eat in a handful, versus how many grapes you would eat in 1 bite.  Just like with <a rel="" target="" href="#nuts">nuts</a>, dried fruit can be a healthy addition to your diet as long as your mindful of how much you're eating.
 
 <center><img src="/assets/Misc/Trap/cranberry.jpg" alt="" class="larger-image"></center><br>
 &emsp;The bigger problem though comes from dried fruits with added sugars.  <a href="https://www.walmart.com/ip/Great-Value-Sweetened-Dried-Cranberries-6-oz/13033150?athbdg=L1200&from=/search">Dried cranberries</a>, or crasins, are easily the worst offenders here.  Have you ever had a fresh cranberry?  They're insanely tart (which is apparently how fruit used to taste before we selectively bred them to be sweeter).  Compare that to dried cranberries though.  Dried cranberries are entirely added sugar.  You wouldn't think of putting <a href="https://www.walmart.com/ip/HARIBO-Goldbears-Original-Gummy-Bears-Pack-of-1-8oz-Peg-Bag/107127182?athbdg=L1200&from=/search">Gummy Bears</a> on your salad.  Raisins are nature's candy, but craisins are just actual candy.  Just a 1/3 cup (40 g) serving contains a whopping 26 g of added sugar!  That's already over the American Heart Association's (AHA) daily guidelines for added sugar consumption for women.  Other sweetened dried fruits to be cautious of include blueberries, mangos, cherries, and bananas.
 
-<div id="yogurt"></div>
+<div id="yogurt" class="table-of-contents"></div>
 <br><i><font size="+2">Yogurt</font></i><br>
 &emsp;Yogurt, just like <a rel="" target="" href="/misc/trap-foods-drinks#milk">milk</a> has the same deceptions.  It offers low fat "healthier" varieties that are pumped full of added sugar, and are way worse for you than their original full fat counterparts.  Just like with milk, the low or no fat options can also be healthy, as long as they are plain.  For me, <a href="https://www.walmart.com/ip/Great-Value-Greek-Plain-Nonfat-Yogurt-32-oz-Tub/26559565?athbdg=L1200&from=/search">Plain Nonfat Greek Yogurt</a> is the king of all dairy products.  Just 1 serving (2/3 cup, 170 g) contains 17 g of protein, no fat, no added sugar, and just 100 calories.  Greek yogurt is also a fantastic source of both calcium and vitamin B12, where 1 serving has 15% and 53% of your daily value, respectively.  I opt for the nonfat version, as I don't taste a difference between that and the full fat variety, so I'll instead get my fat from other sources, like <a rel="" target="" href="#nuts">nuts</a>, chia seeds, or natural <a rel="" target="" href="/misc/trap-foods-sweet-spreads#peanut-butter">nut butter</a>.
 
@@ -125,21 +125,21 @@ tags:
 <center><img src="/assets/Misc/Trap/vanilla-yogurt.jpg" alt="" class="larger-image"></center><br>
 &emsp;Leaving the realm of Greek yogurt and going to <a href="https://www.walmart.com/ip/Great-Value-Original-Vanilla-Lowfat-Yogurt-32-oz/10450127?athbdg=L1200&from=/search">Vanilla Lowfat Yogurt</a>, the added sugar content increases yet again to 16 g, and the protein content is slashed down to just 5 g now.  <a href="https://www.yoplait.com/products/original-single-serve-key-lime-pie">Yopait Key Lime Pie Yogurt</a> was my favorite in elementary and middle school, and unforunately it does not fare any better.  At the bottom of the barrel is <a href="https://www.walmart.com/ip/Go-GURT-SpongeBob-SquarePants-Kids-Fat-Free-Yogurt-Variety-Pack-2-oz-Yogurt-Tubes-16-Ct/138914564?athbdg=L1200&from=/search">Go-GURT</a>, but I don't think anyone thinks this junk could be healthy right?
 
-<div id="pretzels"></div>
+<div id="pretzels" class="table-of-contents"></div>
 <br><i><font size="+2">Pretzels</font></i><br>
 &emsp;Let's leave the world of dairy and move on to snack foods.  First on the chopping block: pretzels.  I'll just come out and say it: I was the weird kid who liked getting pretzel on Halloween (everything is probably starting to add up now).  I've always like fresh baked desserts, but I've never been a fan of packages cookies or candy; they're just too sweet with no flavor.
 
 <center><img src="/assets/Misc/Trap/pretzels.jpg" alt="" class="larger-image"></center><br>
 &emsp;Backstory aside, let's get back to pretzels.  Pretzels are though of as a healthier snack for some reason; I'm guessing because they're savory instead of sweet.  So added sugar isn't an issue for once; these <a href="https://www.walmart.com/ip/Great-Value-Mini-Pretzel-Twists-16-oz/890488670?athbdg=L1200&from=/search">Great Value Pretzels</a> contain virtually none.  The problem is that they're not much more than an ultraprocessed white flour snack with a ton of salt. The enriched flour is stripped of all it's fiber and micronutrients, leaving just starch and empty calories.  At least they're low in fat though, unlike <a rel="" targer="" href="#crackers">crackers</a> and <a rel="" targer="" href="#chips">chips</a>.  I'll be honest, I still love pretzels to this day, but they're still a treat I enjoy in moderation.
 
-<div id="crackers"></div>
+<div id="crackers" class="table-of-contents"></div>
 <br><i><font size="+2">Crackers</font></i><br>
 &emsp;Crackers we easily my go to snack growing up.  <a href="https://www.walmart.com/ip/RITZ-Fresh-Stacks-Original-Crackers-Family-Size-17-8-oz/52234929?athbdg=L1200&from=/search">Ritz</a>, <a href="https://www.walmart.com/ip/Great-Value-Cinnamon-Graham-Crackers-14-4-oz/10315533?athbdg=L1600&from=/search">Graham Crackers</a>, you name it.  I even have a recipe for <a href="/recipes/gf-crackers">Gluten Free Crackers</a>, that are basically mini healthy graham crackers.  I used to have an obsession with <a href="https://www.walmart.com/ip/Wheat-Thins-Original-Whole-Grain-Wheat-Crackers-Family-Size-14-oz/810836571?athbdg=L1200&from=/search">Wheat Thins</a>, where in college my friend shipped me 18 boxes for my birthday (thanks Sean, I would eat them every day when I woke up just before running).
 
 <center><img src="/assets/Misc/Trap/crackers.jpg" alt="" class="larger-image"></center><br>
 &emsp;Crackers have the same issue as pretzels though.  While being low in sugar, they can just be empty starch calories from refined white flour.  Some crackers are also noticeably in both fat (think "butter" crackers like Ritz), or sugar (sweet graham crackers).  A serving of Ritz is a measly 5 crackers, with 4.5 g of fat and 3 g of sugar.  Graham crackers aren't any better, where a serving (2 full cracker sheets) has 3.5 g of fat and 8 g of added sugar.  My precious wheat things are actually high in both, where just a 16 cracker serving has 5 g of fat (from canola oil) and 5 g of sugar.  These don't sound terrible, but you and I will certainly be eating more than just 1 serving if we're not paying attention.
 
-<div id="chips"></div>
+<div id="chips" class="table-of-contents"></div>
 <br><i><font size="+2">Chips</font></i><br>
 &emsp;I think everyone can agree that <a href="https://www.walmart.com/ip/Lay-s-Classic-Potato-Chips-Snack-Chips-8-oz/33282303?athbdg=L1200&from=/search">Lay's Potato Chips</a> or <a href="https://www.walmart.com/ip/Doritos-Nacho-Cheese-Tortilla-Snack-Chips-Party-Size-14-5-oz-Bag/433078517?athbdg=L1200&from=/search">Doritos</a> aren't healthy.  In fact, they're probably the default junk food snack that people think of, up there with cookies and candy.  There are lots of different types of chips though, with <a href="https://www.walmart.com/ip/Tostitos-Scoops-Tortilla-Chips-Party-Size-14-5-oz-Bag/11027423?athbdg=L1600&from=/search">tortilla chips</a> being the other main variety.  Most would probably also agree that tortilla chips are junk food, so I'm not gonna spend any time here.  Any type of chip is going to be relatively low in sugar, but very high in fat and salt.
 
@@ -149,14 +149,14 @@ tags:
 <center><a href="https://transformpersonaltraining.com/its-not-your-fault/"><img src="/assets/Misc/Trap/chips-vs-veggies.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Next up is <a href="https://www.walmart.com/ip/Goya-Plantain-Chips-5-oz/49642283?athbdg=L1200&from=/search">Plantain Chips</a>.  Instead of deepfrying potatoes to make potato chips, these are just deepfried plantains.  It's a starchy vegetable (good) fried in vegetable oil (bad).  Both <a rel="" targer="" href="/misc/trap-foods-produce#potatoes">potatoes</a> and plantains are healthy on their own, but can be turned into junk food when prepared like so.  Now replace the plantians with bananas, add a little bit of sugar, and you end up with <a href="https://www.walmart.com/ip/Great-Value-Sweetened-Banana-Chips-12-oz/35192848?athbdg=L1200&from=/search">banana chips</a>.  These tend to use coconut oil at least, but that's a mild improvement.  If you can, make them yourself, or just eat the whole fruit/vegetable.
 
-<div id="popcorn"></div>
+<div id="popcorn" class="table-of-contents"></div>
 <br><i><font size="+2">Popcorn</font></i><br>
 &emsp;This one might actually be the opposite of the others on this list.  Most people would associate popcorn with being junk food, eaten with a ton of butter alongside a candy at the movies.  But popcorn can actually be a relatively healthy snack with a lot of volume if prepared correctly.  Just 3 tbsp (40 g) of unpopped kernels turns into a whopping 7.5 cups when cooked.  I've never been a personal fan of popcorn (it always gets stuck in my teeth), but I've heard that <a href="https://www.walmart.com/ip/Orville-Redenbacher-s-Original-Gourmet-Yellow-Popcorn-Kernels-45-oz/10312395?athbdg=L1600&from=/search">plain popcorn</a> with some nutritional yeast or other spices can make for a very satisfying snack.  Yes it's essentially all carbs with a mediocre amount of fiber and protein, but a full serving actually looks like a lot of food since it's mostly air.  Just make sure to get plain popcorn kernels like the one linked above and shown below.
 
 <center><img src="/assets/Misc/Trap/popcorn.jpg" alt="" class="larger-image"></center><br>
 &emsp;Just stay away from the <a href="https://www.walmart.com/ip/Great-Value-Extra-Butter-Flavored-Microwave-Popcorn-2-55-oz-12-Count/812120929?athbdg=L1200&from=/search">microwaveable bags of popcorn</a>.  These have a lot of salt, fat (palm or vegetable oils), and preservatives.  Additionally, the packaging for microwave popcorn contains PFAS, or forever chemicals, which are linked to many negative health outcomes including cancer and lung problems.
 
-<div id="diets"></div>
+<div id="diets" class="table-of-contents"></div>
 <br><i><font size="+2">Keto, Vegan, Gluten Free, and Organic Snacks</font></i><br>
 &emsp;Despite being very different, most diets work for weight loss and better overall health because they have one main thing in common: limiting your consumption of ultraprocessed junk and focusing on real whole foods.  Which is great, until the diet becomes trendy, and companies capatalize on this.
 
@@ -172,7 +172,7 @@ tags:
 <center><a href="https://www.dietvsdisease.org/17-diet-and-nutrition-memes-to-share-with-your-fact-denying-friends/"><img src="/assets/Misc/Trap/organic.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Finally, and probably worst of all, we have organic.  Why is organic the worst?  Because it's the most ambiguous.  All the other categories above (keto, vegan, and gluten free) have hard set criteria for what is and isn't allowed.  Organic though: can anyone actually define what that means?  Why do <a href="https://www.walmart.com/ip/Simply-Doritos-Organic-White-Cheddar-Tortilla-Chips-7-5-oz-Bag/165522395?from=/search">Doritos</a> and <a href="https://www.walmart.com/ip/Simply-Tostitos-Organic-Blue-Corn-Tortilla-Chips-8-25-oz-Bag/49909674?athbdg=L1200&from=/search">Tostitos</a> make organic chips?  What are you really doing here lmao.
 
-<div id="protein"></div>
+<div id="protein" class="table-of-contents"></div>
 <br><i><font size="+2">Protein Bars and Snacks</font></i><br>
 &emsp;As I said in my <a href="/recipes/protein-bar">100 Calorie Protein Bars</a>, a protein bar needs to have at least 10 g of protein per 100 calories, and have no added sugar.  Otherwise, it's not a protein bar.  I love <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a>, but I wouldn't consider them a protein bar (not even my own <a href="/recipes/rx-bars">Copycat Chocolat RX Bars</a>).  They're still a healthy snack certainly, with good doses of healthy fats (nuts), natural sugars (dates), fiber (dates and nuts), and protein (egg white protien powder).  I'm ripping on RxBars here, but only because they're probably the <i>best</i> protein bars on the market; it pretty much just gets worse from here.
 
@@ -182,7 +182,7 @@ tags:
 <center><img src="/assets/Misc/Trap/protein-cookie.jpg" alt="" class="larger-image"></center><br>
 &emsp;It's not just bars; other protein snacks are just as guilty.  If it seems too good to be true, it probably is.  The following examples either come close or actually meet the protein bar requirements, but they're still ultraprocessed snacks to enjoy in moderation; not a building block of your daily diet.  I'm talking about protein <a href="https://www.walmart.com/ip/Quest-Protein-Cookie-High-Protein-Chocolate-Chip-4-Count/554117134?athbdg=L1600&from=/search">cookies</a>, <a href="https://www.walmart.com/ip/Quest-Tortilla-Style-Protein-Chips-Baked-19g-of-Protein-Loaded-Taco-1-1oz/207374879?athbdg=L1103&from=/search">chips</a>, and <a href="https://www.walmart.com/ip/Legendary-Foods-Protein-Pastry-Strawberry-2-2oz-Gluten-Free-Protein-Bar-Alternative-4-Pk/602941020?athbdg=L1200&from=/search">pastries</a>.  A good general rule of thumb is if there are multiple lines of ingredients, or ingredients you can't pronounce, you probably shouldn't be eating it often.  Look for foods with just a handful of real, whole food, ingredients (we've come back full circle to <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a>).
 
-<div id="rice-cakes"></div>
+<div id="rice-cakes" class="table-of-contents"></div>
 <br><i><font size="+2">Rice Cakes</font></i><br>
 &emsp;Rice cakes just scream 1990's low fat craze to me.  They're basically all carbs and starch, but they're super light and airy; 1 whole rice cake weighs just 9 g and contains only 35 calories and 7 g of carbs.  They can be a great way to get some more carbs into your diet without going overboard like most snacks.  I'll be honest and say have some <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Lightly-Salted-Rice-Cakes-4-47oz/10312599?athbdg=L1200&from=/search">Lightly Salted Rice Cakes</a> in my cabinet right now.  
 
@@ -198,7 +198,7 @@ tags:
 &emsp;- <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a> with pumpkin seeds<br>
 
 <center><a href="/recipes/natural-peanut-butter"><img src="/assets/Food/Sweet Spreads/PB/pb-cover.jpg" alt="" class="larger-image"></a></center><br>
-<div id="hummus"></div>
+<div id="hummus" class="table-of-contents"></div>
 &emsp;You can make them savory too; sometimes I mix some plain nonfat greek yogurt or <a href="/recipes/guacamole">Holy Guacamole</a> with some spices, and top with sliced tomatoes, cucumber, or any other fresh produce in my fridge at the time.  Or you can just simply spread on some hummus.  Here are my homemade hummus recipes:<br>
 &emsp;- <a href="/recipes/classic-tahini-hummus">Classic Tahini Hummus</a><br>
 &emsp;- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>
@@ -213,21 +213,21 @@ tags:
 <center><img src="/assets/Misc/Trap/rice-cake.jpg" alt="" class="larger-image"></center><br>
 &emsp;As with most things, make sure to get the plain variety.  The lightly salted ones contain nothing but brown rice and salt, 2 healthy ingredients.  The problem comes with the flavored rice cakes, like <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Caramel-Rice-Cakes-6-5-oz/10312601?athbdg=L1600&from=/search">Caramel</a>, <a href="https://www.walmart.com/ip/Quaker-Rice-Cakes-Whole-Grain-Chocolate-Gluten-Free-7-23-oz/13448658?athbdg=L1600&from=/search">Chocolate</a>, or <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Rice-Cakes-Variety-Pack-6-Bags/574038295?athbdg=L1600&from=/search">White Cheddar</a>.  Calories can double, sugar is added, and the ingredients list expands.
 
-<div id="muffins"></div>
+<div id="muffins" class="table-of-contents"></div>
 <br><i><font size="+2">Muffins</font></i><br>
 &emsp;Muffins are unfrosted cupcakes that somehow get a pass as a breakfast food.  These <a href="https://www.walmart.com/ip/Marketside-Blueberry-Muffins-14-oz-4-Count/19758064?athbdg=L1200&from=/search">Blueberry Muffins</a> have 350 calories per muffin with 21 g of added sugar and 17 g of fat.  They're filled with a ton of ingredients, and contain almost as much sugar as flour.  I used to make muffins decently often (<a href="https://www.spendwithpennies.com/banana-chocolate-chip-muffins/#wprm-recipe-container-174068">banana chocolate chip</a> specifically).  Just take a look: 1/2 cup of vegetable oil and 3/4 cup of sugar, as well as 1.5 cups of white flour, for just a dozen muffins.  If that sounds like a lot, that's because it is.  Most "breakfast" options are just a meal of dessert.  Which is fine in moderation if you know what you're getting yourself into.  A muffin can be a fine dessert on occasion, but is a terrible start to your day.  Sorry, but a <a href="https://www.walmart.com/ip/Marketside-Triple-Chocolate-Muffins-14-oz-4-Count/987289191?from=/search">Triple Chocolate Muffin</a> is just a brownie.
 
 <center><img src="/assets/Misc/Trap/muffin.jpg" alt="" class="larger-image"></center><br>
 &emsp;As for healthier homemade versions, you should check out my <a href="/recipes/sweet-potato-banana-muffins">Sweet Potato Banana Muffins</a>, <a href="/recipes/banana-bread">Oatmeal Banana Mini Muffins</a>, or my <a href="/recipes/pbj-muffin">Peanut Butter & Jelly Muffins</a>.
 
-<div id="banana-bread"></div>
+<div id="banana-bread" class="table-of-contents"></div>
 <br><i><font size="+2">Banana Bread</font></i><br>
 &emsp;So take <a rel="" target="" href="#muffins">muffins</a>, mash some bananas into it, and bake it in a loaf pan.  What you end up with is <a href="https://www.walmart.com/ip/Marketside-Banana-Nut-Sliced-Cake-14-1-oz-8-Count/1407294647?athbdg=L1600&from=/search">banana bread</a>.  A delicious cake, no doubt, but not a breakfast, bread, or a healthy snack.  Just because it has bananas or nuts doesn't make it healthy; it's still a dessert.  At least this one below is honest and refers to itself as a cake.
 
 <center><img src="/assets/Misc/Trap/banana-bread.jpg" alt="" class="larger-image"></center><br>
 &emsp;As for healthier homemade versions, you should check out my <a href="/recipes/banana-protein">Protein Banana Nut Bread</a> or my <a href="/recipes/double-chocolate-banana-bread">Double Chocolate Banana Bread</a>.
 
-<div id="chocolate"></div>
+<div id="chocolate" class="table-of-contents"></div>
 <br><i><font size="+2">Dark Chocolate</font></i><br>
 &emsp;Dark chocolate is one of those foods that people think is healthy, but they're probably eating the wrong variety.  Just being labeled as "dark" chocolate doesn't automatically make it good for you; a lot of it is just well marketed candy.  Let's start with the benefits though.  True dark chocolate is rich in fiber, iron, mangesium, copper, and manganese.  Cocoa is also a great source of antioxidants, which decrease your body's free radicals and lower inflamation, due to its high concentration fo flavanols.  
 

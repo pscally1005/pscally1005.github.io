@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+<div id="top-home"></div>
 
 <style>
   /* CSS to hide the logo on mobile devices */
@@ -14,9 +15,9 @@ layout: base
 <div class="home">
   <center><img src="/assets/Logo/logo.png" alt="" class="logo-image"></center>
   {%- if page.title and page.title != "Home" -%}
-    <h1 class="page-title">{{ page.title | escape }}</h1>
+    <h1 class="page-title"><a rel="" target="" href="#top-home">{{ page.title | escape }}</a></h1>
   {% elsif page.title == "Home" %} 
-    <h1 class="page-title">Recent Posts</h1>
+  <h1 class="page-title"><a rel="" target="" href="#top-home">Recent Posts</a></h1>
   {%- endif -%}
 
   {{ content }}

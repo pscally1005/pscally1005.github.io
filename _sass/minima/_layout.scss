@@ -24,9 +24,6 @@
   z-index: 999;
   background-color: var(--minima-background-color);
   border-bottom: 3px solid var(--minima-brand-color);
-}
-
-.recipe-title, .page-title {
   margin: 0 0 20px; /* Add margin at the bottom */
   padding: 10px 0; /* Optional: keep padding for vertical spacing */
 }
@@ -828,7 +825,7 @@ a.button {
 
 // Text formatting
 // Text color of page title
-.page-title, .post-header h1 {
+.page-title, .post-header h1, .page-title a {
   color: var(--default-text-color);
   font-size: 46px;
   text-align: center;
@@ -836,12 +833,17 @@ a.button {
 }
 
 // Post title
-.recipe-title {
+.recipe-title, .recipe-title a {
   display: block;
   color: var(--default-text-color);
   font-size: 36px; /* Ensure you include the unit for font-size */
   font-weight: bold; /* Make the text bold */
   text-align: center; /* Center the text */
+}
+
+.recipe-title:hover a, .page-title:hover a {
+  color: var(--minima-link-base-color);
+  text-decoration: none;
 }
 
 // Section headers (instructions, costs, etc.)
@@ -928,43 +930,86 @@ a.button {
 
 
 /* Desktop and default */
-#nutrition-facts {
+#recipe, 
+#nutrition-facts, 
+#disqus_thread, 
+.table-of-contents, 
+.table-of-contents-2, 
+#top-post,
+#top-home,
+#top-page {
   position: relative;
 }
-
-#nutrition-facts:before {
-  content: "";
-  display: block;
-  visibility: hidden;
-}
-
-#nutrition-facts:before {
-  height: 100px; /* Adjust this value to the height of your header */
-  margin-top: -100px; /* Same value as height, moving the element up */
-}
-
-/* Adjust for mobile screens */
-@media only screen and (max-width: 768px) {
-  #nutrition-facts:before {
-      height: 60px; /* Adjust this value for mobile */
-      margin-top: -60px; /* Adjust this value for mobile */
-  }
-}
-
 
 /* Desktop and default */
 #disqus_thread {
-  position: relative;
   scroll-margin-top: 80px; /* Adjust this value based on the padding or header height */
   padding-top: 60px; /* Adjust based on your design */
 }
 
-#disqus_thread:before {
+#recipe:before, 
+#nutrition-facts:before, 
+#disqus_thread:before, 
+.table-of-contents:before, 
+.table-of-contents-2:before, 
+#top-post:before,
+#top-home:before,
+#top-page:before {
   content: "";
   display: block;
+  visibility: hidden;
+}
+
+#recipe:before {
+  height: 40px; /* Adjust this value to the height of your header */
+  margin-top: -40px; /* Same value as height, moving the element up */
+}
+
+#nutrition-facts:before, 
+.table-of-contents:before,
+#top-post:before,
+#top-home:before,
+#top-page:before {
+  height: 100px; /* Adjust this value to the height of your header */
+  margin-top: -100px; /* Same value as height, moving the element up */
+}
+
+.table-of-contents-2:before {
   height: 130px; /* Adjust this value to the height of your header */
   margin-top: -130px; /* Same value as height, moving the element up */
-  visibility: hidden;
+}
+
+#disqus_thread:before {
+  height: 130px; /* Adjust this value to the height of your header */
+  margin-top: -130px; /* Same value as height, moving the element up */
+}
+
+/* Adjust for mobile screens */
+@media only screen and (max-width: 768px) {
+  #recipe:before {
+    height: 0;
+    margin-top: 0;
+  }
+
+  #nutrition-facts:before {
+      height: 60px; /* Adjust this value for mobile */
+      margin-top: -60px; /* Adjust this value for mobile */
+  }
+
+  #disqus_thread:before {
+    height: 0; /* Adjust this value for mobile */
+    margin-top: 0; /* Adjust this value for mobile */
+  }
+
+  .table-of-contents:before {
+    height: 40px; /* Adjust this value for mobile */
+    margin-top: -40px; /* Adjust this value for mobile */
+  }
+
+  .table-of-contents-2:before {
+    height: 70px; /* Adjust this value for mobile */
+    margin-top: -70px; /* Adjust this value for mobile */
+  }
 }
 
 
