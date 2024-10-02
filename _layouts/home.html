@@ -1,4 +1,4 @@
----
+--- 
 layout: base
 ---
 <div id="top-home"></div>
@@ -19,6 +19,13 @@ layout: base
   {% elsif page.title == "Home" %} 
   <h1 class="page-title"><a rel="" target="" href="#top-home">Recent Posts</a></h1>
   {%- endif -%}
+
+  <!-- Shuffle Button -->
+  {% if page.title and page.title != "Search" and page.title != "Python" and page.title != "Archive" %}
+    <div class="shuffle-container">
+      <center><a href="#" id="button" class="button">Shuffle Post</a></center>
+    </div>
+  {% endif %}
 
   {{ content }}
 
@@ -70,7 +77,7 @@ layout: base
               {% continue %}
             {% endif %}
 
-            <div class="post-item">
+            <div class="post-item" data-url="{{ post.url | relative_url }}">
                 <a href="{{ post.url | relative_url }}">
                   <img src="{{ post.image | relative_url }}" alt="" class="blog-roll-image">
                   <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -111,3 +118,16 @@ layout: base
   {%- endif -%}
 
 </div>
+
+<!-- JavaScript for shuffling posts -->
+<script>
+  document.getElementById('button').addEventListener('click', function(event) {
+    event.preventDefault();
+    var posts = document.querySelectorAll('.post-item');
+    if (posts.length > 0) {
+      var randomIndex = Math.floor(Math.random() * posts.length);
+      var randomPost = posts[randomIndex].getAttribute('data-url');
+      window.location.href = randomPost;
+    }
+  });
+</script>

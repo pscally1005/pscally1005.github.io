@@ -42,17 +42,15 @@ Instructions:
 - In a small bowl, cover your dates with hot water, and let soak for 10 minutes to soften. Drain the soaking liquid, and transfer to a food processor<br><br>
 
 - To the food processor with the dates, add an entire can of chickpeas (NOT drained or rinsed), bananas, and peanut butter (or any other nut/seed butter). Blend until smooth, and no chunks remain. Transfer to a large bowl<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-cake-blended.jpg" alt="" class="instruction-image"></center><br>
 
-- With a silicone spatula, mix in almond (or vanilla) baking powder, baking soda, and salt. Mix in the oat flour until fully combined. Fold in half the chocolate chips, reserving the rest for the top<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-cake-bowl.jpg" alt="" class="instruction-image"></center><br>
+- With a silicone spatula, mix in almond (or vanilla) extract, baking powder, baking soda, and salt. Mix in the oat flour until fully combined. Fold in half the chocolate chips, reserving the rest for the top<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-bowl.jpg" alt="" class="instruction-image"></center><br>
 
 - Transfer your batter to the pan, and spread to an even thickness. Top with your remaining chocolate chips<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-cake-raw.jpg" alt="" class="instruction-image"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-raw.jpg" alt="" class="instruction-image"></center><br>
 
 - Bake in a 350F oven for about 30 minutes, or until lightly golden brown and it registers an internal temperature of 195F<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-cake-baked.jpg" alt="" class="instruction-image"></center><br>
 
 - Let cool totally in the pan before slicing and serving. Serve warm or cold<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-cake-sliced.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-cut.jpg" alt="" class="instruction-image"></center>
 ---
