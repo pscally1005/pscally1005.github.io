@@ -62,5 +62,7 @@ Instructions:
 - <center><img src="/assets/Food/Healthier Dessert/Oatmeal Fudge/of-top.jpg" alt="" class="instruction-image"></center><br>
 
 - Refrigerate for at least 2 hours to set before slicing and serving<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Oatmeal Fudge/of-cut.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Healthier Dessert/Oatmeal Fudge/of-cut.jpg" alt="" class="instruction-image"></center><br>
+
+- To make this recipe nut free, you can use coconut flour in place of powdered peanut butter for the crust, and sunflower seed butter in place of peanut butter for the filling
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No Bake Cheesecake Bars"
-date:   2024-09-27 00:00:00 -05000
+date:   2024-10-05 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
@@ -55,7 +55,7 @@ tags:
 - rolled oats
 Description: These cheesecake bars don't even require you to have an oven. It has mildly sweet banana and honey oatmeal crust, filling with Greek yogurt that's flavored by natural peanut butter and dates, and all topped by melted dark chocolate and chopped peanuts. No bake not only makes the recipe easier, but it preserves all the probiotics in the yogurt, making this a great fermented food at dessert time. For having no protein powder, this dessert is high in protein, as well as a good source of healthy fats, fiber, and complex carbs.
 Instructions: 
-- In a bowl, mash a banana with the back of a fork. Combine together the rest of the crust ingredients with a silicone spatula - honey, cinnamon, vanilla, PB2, and rolled oats. Mix until well combined<br><br>
+- In a bowl, mash a banana with the back of a fork. Combine together the rest of the crust ingredients with a silicone spatula - honey, cinnamon, vanilla, coconut flour, and rolled oats. Mix until well combined<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-bowl.jpg" alt="" class="instruction-image"></center><br>
 
 - Line an 8" square pan with parchment paper. Evenly press your crust into the pan. Freeze to set as you prepare the filling<br><br>
