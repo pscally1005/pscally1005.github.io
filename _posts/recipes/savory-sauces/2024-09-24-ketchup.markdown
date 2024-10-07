@@ -9,9 +9,9 @@ permalink: /recipes/ketchup
 image: /assets/Food/Savory Sauces/Ketchup/ketchup-cover.jpg
 ing: ketchup-ing
 facts: ketchup-facts
-section1: 
-start2: 
-section2: 
+section1: Ketchup
+start2: Paprika
+section2: BBQ Sauce
 start3: 
 section3: 
 start4: 
@@ -40,5 +40,7 @@ Instructions:
 - <center><img src="/assets/Food/Savory Sauces/Ketchup/ketchup-blended.jpg" alt="" class="instruction-image"></center><br>
 
 - Store in the fridge for up to a week.  This recipe makes about 400 g of ketchup.  Each serving is about 2 tbsp or 31 g<br><br>
-- <center><img src="/assets/Food/Savory Sauces/Ketchup/ketchup-spoon.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Savory Sauces/Ketchup/ketchup-spoon.jpg" alt="" class="instruction-image"></center><br>
+
+- If you want to turn this into BBQ sauce instead, just add some paprika, cumin, and cinnamon along with the other ingredients
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "💲 Rotisserie Chicken Cost Analysis"
-date:   2024-09-23 00:00:00 -05000
+title:  "💵 Rotisserie Chicken Cost Analysis"
+date:   2024-10-07 00:00:00 -05000
 categories: 
 - Misc.
 - Costs
@@ -33,9 +33,15 @@ tags:
 <center><img src="/assets/Misc/Rotisserie/chicken-breast (1).png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Rotisserie/money.png" alt="" class="smaller-image"></center>
 <br>
 <u><font size="+2">Rotisserie Chicken</font></u><br>
-&emsp;Now, let's compare the cost of cooking raw chicken ourselves to the cost of a rotisserie chicken.  This chicken cost me $[COST], and weighs [WEIGHT BEFORE] pounds.  This weight includes all the skin and bones though, what about just meat?  Discarding all the skin and bones, we are left with a total net weight of [WEIGHT AFTER] pounds.  At $[COST] for [WEIGHT AFTER] lbs of cooked chicken, this means that the unit cost of a rotisserie chicken is <b>$[UNIT COST] per pound</b>.
-<center><img src="/assets/Misc/Rotisserie/rotisserie-whole.jpg" alt="" class="half-page"><img src="/assets/Misc/Rotisserie/rotisserie-meat.jpg" alt="" class="half-page"></center><br>
+&emsp;Now, let's compare the cost of cooking raw chicken ourselves to the cost of a rotisserie chicken.  This chicken cost me $4.69, and weighs 2.14 lbs (973 g).  This weight includes all the skin and bones though, what about just meat?
+<center><img src="/assets/Misc/Rotisserie/rotisserie-whole-1.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Misc/Rotisserie/rotisserie-whole-2.jpg" alt="" class="half-page"></center>
+<br>
+&emsp;Discarding all the skin and bones, we are left with a total net weight of 1.31 lbs (595 g).  At $4.69 for 1.31 lbs of cooked chicken, this means that the unit cost of a rotisserie chicken is <b>$3.58 per pound</b>.  I've discarded all the skins and bones, and just shredded all the light and dark meat with my fingers and added it to the bowl.
+<center><img src="/assets/Misc/Rotisserie/rotisserie-meat-1.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Misc/Rotisserie/rotisserie-meat-2.jpg" alt="" class="half-page"></center>
 <br>
 <u><font size="+2">Conclusion</font></u><br>
-&emsp;The cost each for cooking your own chicken and buying a pre-cooked rotisserie chicken are <b>$2.99/lb</b>, and <b>$[UNIT COST]/lb</b>, respectively.  [WHICH ONE IS CHEAPER??]
+&emsp;The cost each for cooking your own chicken and buying a pre-cooked rotisserie chicken are <b>$3.99/lb</b>, and <b>$3.49/lb</b>, respectively.  I'm beyond shocked; this means that those cheap storebought rotisserie chickens are actually cheaper than cooking the meat yourself.  Plus, they're way less effort, you can just rip of a leg or breast and chow down; you don't even have to shred the meat like I did here.
+<center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-cover.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Savory Sauces/Buffalo Chicken/buffalo-dip-cover.jpg" alt="" class="half-page"></center>
+<br>
+&emsp;Discarding the skins does leave a fairly bland piece of meat, but that does allow you to use the chicken for whatever you like.  I do love my <a href="/recipes/pulled-chicken">BBQ Pulled Chicken and Coleslaw</a> with homemade pulled chicken, but here's an easier dinner:  Toss the plain shredded chicken with some <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a> or <a href="/recipes/ketchup">Date Sweetened Ketchup</a>, and you have a super easy BBQ Pulled Chicken.  Or you can bake the chicken into my <a href="/recipes/buffalo-chicken-dip">Lightened Up Buffalo Chicken Dip</a>; using precooked chicken just makes the dish so much faster to put together!
 <center><img src="/assets/Misc/Rotisserie/chicken-leg.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Rotisserie/chicken.png" alt="" class="smaller-image"></center>
