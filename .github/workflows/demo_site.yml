@@ -46,3 +46,7 @@ jobs:
           git push
 
           popd &>/dev/null
+
+permissions:
+  id-token: write
+  contents: read
