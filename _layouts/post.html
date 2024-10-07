@@ -11,7 +11,7 @@ layout: base
       {% include top.html %}
 
       {% include buttons.html %}
-      <font size="+1">{{ content }}</font>
+      <div class="recipe-section">{{ content }}</div>
 
         {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
           {% include postInfo.html %}
