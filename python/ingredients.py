@@ -261,7 +261,9 @@ def ingredients(food):
     elif food == "Strawberries, raw":
         return str("Strawberries")
     elif food == "Ripe plantain, raw" or food == "Plantains, raw, yellow":
-        return str("Plantain")
+        return str("Plantain, yellow")
+    elif food == "Plantains, raw, green":
+        return str("Plantain, green")
     elif food == "Carrots, raw":
         return str("Carrots")
     elif food == "Coleslaw mix by Bread & Circus Inc.":

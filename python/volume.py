@@ -13,7 +13,7 @@ def fix(vol):
         return str("Large pinch")
     
     # tsp
-    elif vol == "0.125 tsp" or vol == "0.125 tsp, ground" or vol == "1/8 tsp, ground" or vol == "1/8 tsp, leaves" or vol == "0.125 tsp | about" or vol == "0.125 tsp (1.2 ml) aprx" or vol == "0.125 teaspoon" or vol == "1/2 1/4 tsp":
+    elif vol == "0.128 tsp" or vol == "0.125 tsp" or vol == "0.125 tsp, ground" or vol == "1/8 tsp, ground" or vol == "1/8 tsp, leaves" or vol == "0.125 tsp | about" or vol == "0.125 tsp (1.2 ml) aprx" or vol == "0.125 teaspoon" or vol == "1/2 1/4 tsp":
         return str("1/8 tsp")
     elif vol == "0.25 tsp (1.0 ml) aprx" or vol == "0.25 tsp" or vol == "0.25 tsp, ground" or vol == "1/4 tsp, ground" or vol == "1/4 tsp, leaves" or vol == "0.25 tsp | about" or vol == "0.25 tsp (1.2 ml) aprx" or vol == "0.25 teaspoon" or vol == "1 1/4 tsp":
         return str("1/4 tsp")
@@ -209,6 +209,8 @@ def fix(vol):
         return str("2 medium")
     elif vol == "0.82 Banana":
         return str("1 small")
+    elif vol == "1 plantain":
+        return str("1 large or 2 small")
     
     # eggs
     elif vol == "1 egg":

@@ -552,8 +552,6 @@
   position: absolute; /* Position absolute to fill container */
   top: 0; /* Align to top */
   left: 0; /* Align to left */
-  width: 100%; /* Fill width of the container */
-  height: 100%; /* Fill height of the container */
   object-fit: cover; /* Maintain aspect ratio and cover area */
   display: block;
   border-radius: 10px; /* Rounded corners */
@@ -564,8 +562,6 @@
   position: absolute; /* Position absolute to fill container */
   top: 0; /* Align to top */
   left: 0; /* Align to left */
-  width: 100%; /* Fill width */
-  height: 100%; /* Fill height */
   object-fit: cover; /* Maintain aspect ratio and cover area */
   border-radius: 10px; /* Rounded corners */
 }

@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Nutrition
 permalink: /misc/iron
-image: /assets/Misc/Iron/cover.jpg
+image: /assets/Misc/Iron/Iron.png
 tags: 
 - iron
 - vitamin

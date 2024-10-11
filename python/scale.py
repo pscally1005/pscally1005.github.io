@@ -20,9 +20,9 @@ os.system('cls')
 def scale_images_in_directory(directory):
     for root, dirs, files in os.walk(directory):
         for filename in files:
-            if filename.endswith("_scaled.jpg") or filename.endswith("_scaled.JPG"):
+            if filename.endswith("_scaled.jpg") or filename.endswith("_scaled.JPG") or filename.endswith("_scaled.png"):
                 continue
-            elif filename.endswith(".jpg") or filename.endswith(".JPG"):
+            elif filename.endswith(".jpg") or filename.endswith(".JPG") or filename.endswith(".png"):
                 filepath = os.path.join(root, filename)
                 try:
                     img = Image.open(filepath)

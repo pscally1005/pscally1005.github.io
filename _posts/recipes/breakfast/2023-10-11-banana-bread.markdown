@@ -53,7 +53,9 @@ Instructions:
 
 - In a separate medium bowl, mash the banana. Add the rest of the wet ingredients - yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and maple syrup (or honey)<br><br>
 
-- Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use pumpkin seed or sunflower seed butter.  Note that sunflower seed butter may turn the muffins green due to the reaction between the chlorophyll in the sunflower butter and the baking soda.  It's perfectly safe to eat and doesn't alter the taste, just a cosmetic change<br><br>
+- Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use pumpkin seed butter or tahini<br><br>
+
+- If you're out of yogurt, you can instead double the nut butter (1/2 cup, 128 g) and eggs (2 large eggs)<br><br>
 
 - Pour the wet ingredients into the dry and mix just until smooth with a silicone spatula. Optionally fold in some chocolate chips<br><br>
 
@@ -63,7 +65,7 @@ Instructions:
 - Bake at 350F for about 12 minutes (uncovered), or until a toothpick comes out clean, and the internal temperature is around 200F.  You can also bake these as standard size muffins (makes 12) for about 22 minutes at 350F (uncovered)<br><br>
 - <center><img src="/assets/Food/Breakfast/Banana Bread/bb-baked.jpg" alt="" class="instruction-image"></center><br><br>
 
-- Alternatively, you can bake this as a banana bread in a loaf pan for about an hour (covered), until a toothpick is almost clean and the internal temperature is around 190F<br><br>
+- Alternatively, you can bake this as a banana bread in a loaf pan for about an hour (covered), until a toothpick is almost clean and the internal temperature is around 200F<br><br>
 - <center><img src="/assets/Food/Breakfast/Banana Bread/bb-loaf.jpg" alt="" class="instruction-image"></center><br> 
 
 - Place the pan in the fridge, and let it totally cool before removing from the pan
