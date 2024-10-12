@@ -44,9 +44,7 @@ Instructions:
 
 - Berry Delicious - mix low or no sugar jam or jelly, and top with frozen blackberries or blueberries<br><br>
 
-- For the other flavors and their nutrition facts, check out the links below<br>
-- <a href="oats-reeses">Reese's Protein Overnight Oats</a><br>
-- <a href="oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>
-- <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>
-- <a href="oats-banana">Banana Nut Bread Protein Overnight Oats</a><br>
+- For the other flavors, check out the links below:<br>&emsp;- <a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-reeses">Reese's Protein Overnight Oats</a><br><br>
+- <center><a href="/recipes/oats-banana"><img src="/assets/Food/Breakfast/Oatmeal/oats-banana.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/oats-pb"><img src="/assets/Food/Breakfast/Oatmeal/oats-pb.jpg" alt="" class="half-page"></a></center><br>
+- <center><a href="/recipes/oats-pumpkin"><img src="/assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/oats-reeses"><img src="/assets/Food/Breakfast/Oatmeal/oats-reeses.jpg" alt="" class="half-page"></a></center><hr>
 ---

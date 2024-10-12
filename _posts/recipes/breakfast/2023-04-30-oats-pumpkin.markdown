@@ -41,9 +41,7 @@ Instructions:
 
 - Pumpkin Pie - mix in pumpkin puree, cinnamon, ginger, and PB2<br><br>
 
-- For the other flavors and their nutrition facts, check out the links below<br>
-- <a href="oats-berry">Berry Delicious Protein Overnight Oats</a><br>
-- <a href="oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>
-- <a href="oats-reeses">Reese's Protein Overnight Oats</a><br>
-- <a href="oats-banana">Banana Nut Bread Protein Overnight Oats</a>
+- For the other flavors, check out the links below:<br>&emsp;- <a href="/recipes/oats-berry">Berry Delicious Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-reeses">Reese's Protein Overnight Oats</a><br><br>
+- <center><a href="/recipes/oats-berry"><img src="/assets/Food/Breakfast/Oatmeal/oats-berry.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/oats-pb"><img src="/assets/Food/Breakfast/Oatmeal/oats-pb.jpg" alt="" class="half-page"></a></center><br>
+- <center><a href="/recipes/oats-banana"><img src="/assets/Food/Breakfast/Oatmeal/oats-banana.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/oats-reeses"><img src="/assets/Food/Breakfast/Oatmeal/oats-reeses.jpg" alt="" class="half-page"></a></center><hr>
 ---

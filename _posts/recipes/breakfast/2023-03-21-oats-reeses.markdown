@@ -42,11 +42,9 @@ Description: Protein overnight oats are easily my favorite breakfast. Being pack
 Instructions: 
 - Mix the base ingredients in a container (oats, chia seeds, casein, salt, sweetener, yogurt, and milk), then choose one of the flavors<br><br>
 
-- Reese's - mix in cocoa powder, PB2, applesauce, and a drop of almond extract<br><br>
+- Reese's - mix in cocoa powder, powdered peanut butter, applesauce, and a drop of almond extract<br><br>
 
-- For the other flavors and their nutrition facts, check out the links below<br>
-- <a href="oats-berry">Berry Delicious Protein Overnight Oats</a><br>
-- <a href="oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>
-- <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>
-- <a href="oats-banana">Banana Nut Bread Protein Overnight Oats</a>
+- For the other flavors, check out the links below:<br>&emsp;- <a href="/recipes/oats-berry">Berry Delicious Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a><br><br>
+- <center><a href="/recipes/oats-berry"><img src="/assets/Food/Breakfast/Oatmeal/oats-berry.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/oats-pb"><img src="/assets/Food/Breakfast/Oatmeal/oats-pb.jpg" alt="" class="half-page"></a></center><br>
+- <center><a href="/recipes/oats-pumpkin"><img src="/assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/oats-banana"><img src="/assets/Food/Breakfast/Oatmeal/oats-banana.jpg" alt="" class="half-page"></a></center><hr>
 ---
