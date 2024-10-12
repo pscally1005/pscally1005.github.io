@@ -1,0 +1,95 @@
+{% if  
+    page.layout == "home" or 
+    (page.layout == "post" and page.categories.last == "Unhealthy Recipes") or 
+    (page.layout == "post" and page.categories.first != "Misc.") 
+%} 
+ 
+    <!-- Use parameters or not -->
+    {% assign ing = page.ing %}
+    {% if include.ing %}
+        {% assign ing = include.ing %}
+    {% endif %}
+
+    {% if page.layout == "home" %}
+        {% assign ing = post.ing %}
+    {% endif %}
+
+    <!-- Default case: everything is allergen friendly -->
+    {% assign gluten-free = "true" %}
+    {% assign vegetarian = "true" %}
+    {% assign dairy-free = "true" %}
+    {% assign vegan = "true" %}
+    {% assign nut-free = "true" %}
+    {% assign sugar-free = "true" %}
+
+    <!-- Loop through ingredients file -->
+    {% for row in site.data[ing] %}
+        {% if forloop.last %}
+            {% continue %}
+        {% else %}
+
+            <!-- Current food -->
+            {% assign food = row["Ingredient"] %}
+
+            <!-- Loop through foods file checking for allergies -->
+            {% for row1 in site.data.foods %}
+                {% if food == row1["Food"] %}
+
+                    {% if row1["Gluten Free"] == "FALSE" %}
+                        {% assign gluten-free = "false" %}
+                    {% endif %}
+
+                    {% if row1["Vegetarian"] == "FALSE" %}
+                        {% assign vegetarian = "false" %}
+                    {% endif %}
+
+                    {% if row1["Dairy Free"] == "FALSE" %}
+                        {% assign dairy-free = "false" %}
+                    {% endif %}
+
+                    {% if row1["Vegan"] == "FALSE" %}
+                        {% assign vegan = "false" %}
+                    {% endif %}
+
+                    {% if row1["Nut Free"] == "FALSE" %}
+                        {% assign nut-free = "false" %}
+                    {% endif %}
+                    
+                    {% if row1["Sugar Free"] == "FALSE" %}
+                        {% assign sugar-free = "false" %}
+                    {% endif %}
+
+                {% endif %}
+            {% endfor %}
+    
+        {% endif %}
+    {% endfor %}
+
+    <!-- Print allergen info -->
+    <center>
+        {% if gluten-free == "true" %}
+            <span class="allergen gluten-free" title="Gluten Free">GF</span>
+        {% endif %}
+
+        {% if vegetarian == "true" %}
+            <span class="allergen vegetarian" title="Vegetarian">V</span>
+        {% endif %}
+
+        {% if dairy-free == "true" %}
+            <span class="allergen dairy-free" title="Dairy Free">DF</span>
+        {% endif %}
+
+        {% if vegan == "true" %}
+            <span class="allergen vegan" title="Vegan">VG</span>
+        {% endif %}
+
+        {% if nut-free == "true" %}
+            <span class="allergen nut-free" title="Nut Free">NF</span>
+        {% endif %}
+
+        {% if sugar-free == "true" %}
+            <span class="allergen sugar-free" title="Sugar Free">SF</span>
+        {% endif %}
+    </center>
+
+{% endif %}

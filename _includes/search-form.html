@@ -13,13 +13,45 @@
 <script src="/assets/js/search-script.js" type="text/javascript"></script>
 
 <script>
+    // Function to format allergens into HTML
+    function formatAllergens(glutenFree, vegetarian, dairyFree, vegan, nutFree, sugarFree) {
+        let allergenHTML = '';
+
+        if (glutenFree) {
+            allergenHTML += '<span class="allergen gluten-free" title="Gluten Free">GF</span> ';
+        }
+        if (vegetarian) {
+            allergenHTML += '<span class="allergen vegetarian" title="Vegetarian">V</span> ';
+        }
+        if (dairyFree) {
+            allergenHTML += '<span class="allergen dairy-free" title="Dairy Free">DF</span> ';
+        }
+        if (vegan) {
+            allergenHTML += '<span class="allergen vegan" title="Vegan">VG</span> ';
+        }
+        if (nutFree) {
+            allergenHTML += '<span class="allergen nut-free" title="Nut Free">NF</span> ';
+        }
+        if (sugarFree) {
+            allergenHTML += '<span class="allergen sugar-free" title="Sugar Free">SF</span> ';
+        }
+
+        return allergenHTML.trim(); // Return the formatted string
+    }
+
     // Initialize Simple Jekyll Search
     SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),    // Input field for search
-        resultsContainer: document.getElementById('results-container'),  // Container for search results
-        json: '/search.json',  // Path to JSON file with posts data
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
         searchResultTemplate: `
-            <li class="result-item">
+            <li class="result-item" 
+                data-gluten-free="{gluten-free}" 
+                data-vegetarian="{vegetarian}" 
+                data-dairy-free="{dairy-free}" 
+                data-vegan="{vegan}" 
+                data-nut-free="{nut-free}" 
+                data-sugar-free="{sugar-free}">
                 <a class="post-link" href="{url}">
                     <img src="{image}" alt="" class="blog-roll-image">
                     <span class="post-meta">{date}</span>
@@ -27,35 +59,67 @@
                         <span class="post-count"></span> <!-- Placeholder for numbering -->
                         <a class="post-link" href="{url}">{title}</a>
                     </div>
+                    <center>
+                        <div class="allergen-container">
+                            <!-- Allergen HTML will be injected here -->
+                        </div>
+                    </center>
                 </a>
             </li>`,
-        noResultsText: ""
+        noResultsText: "No results found." // Message when no results are found
     });
+
+    // Debounce function to limit the rate of search input handling
+    function debounce(func, delay) {
+        let timeout;
+        return function(...args) {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(this, args), delay);
+        };
+    }
+
+    // Function to handle the search input and display results
+    function handleSearch() {
+        let resultItems = document.querySelectorAll('#results-container .result-item');
+        let resultsCountElement = document.getElementById('results-count');
+
+        // Display number of results found
+        let resultCount = resultItems.length;
+        if (resultCount > 0) {
+            resultsCountElement.innerText = resultCount + " result(s) found";
+
+            // Add numbering to each result
+            let count = 1;
+            resultItems.forEach(function(item) {
+                let countElement = item.querySelector('.post-count');
+                if (countElement) {
+                    countElement.textContent = count + ".";
+                }
+
+                // Update the allergen container in the result item
+                const allergenContainer = item.querySelector('.allergen-container');
+                const allergens = formatAllergens(
+                    item.getAttribute('data-gluten-free') === "true",
+                    item.getAttribute('data-vegetarian') === "true",
+                    item.getAttribute('data-dairy-free') === "true",
+                    item.getAttribute('data-vegan') === "true",
+                    item.getAttribute('data-nut-free') === "true",
+                    item.getAttribute('data-sugar-free') === "true"
+                );
+
+                if (allergenContainer) {
+                    allergenContainer.innerHTML = allergens; // Inject the allergen HTML
+                }
+
+                count++;
+            });
+        } else {
+            resultsCountElement.innerText = "No results found";
+        }
+    }
 
     // Listen for keyup events in the search input
-    document.getElementById('search-input').addEventListener('keyup', function() {
-        // After Simple Jekyll Search updates the results, count the results
-        setTimeout(function() {
-            let resultItems = document.querySelectorAll('#results-container .result-item');
-            let resultsCountElement = document.getElementById('results-count');
-
-            // Display number of results found
-            let resultCount = resultItems.length;
-            if (resultCount > 0) {
-                resultsCountElement.innerText = resultCount + " result(s) found";
-                
-                // Add numbering to each result
-                let count = 1;
-                resultItems.forEach(function(item) {
-                    let countElement = item.querySelector('.post-count');
-                    if (countElement) {
-                        countElement.textContent = count + ".";
-                    }
-                    count++;
-                });
-            } else {
-                resultsCountElement.innerText = "No results found";
-            }
-        }, 300);  // Timeout to ensure results are updated before counting
-    });
+    document.getElementById('search-input').addEventListener('keyup', debounce(function() {
+        handleSearch();
+    }, 0)); // Adjust the debounce delay as needed (in milliseconds)
 </script>

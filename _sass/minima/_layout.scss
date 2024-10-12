@@ -640,6 +640,12 @@ body {
   --gray-text-color: rgb(111, 111, 111);
   --blue-text-color: rgb(0, 0, 200);
   --menu-hover-color: var(--minima-brand-color-light);
+  --gluten-free-color: rgb(76, 175, 80);
+  --vegetarian-color: rgb(139, 195, 74);
+  --dairy-free-color: rgb(33, 150, 243);
+  --vegan-color: rgb(56, 142, 60);
+  --nut-free-color: rgb(255, 152, 0);
+  --sugar-free-color: rgb(0, 188, 212);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -652,6 +658,12 @@ body {
     --gray-text-color: rgb(211, 211, 211);
     --blue-text-color: rgb(0, 255, 255);
     --menu-hover-color: var(--minima-brand-color-dark);
+    --gluten-free-color: rgb(76, 175, 80);
+    --vegetarian-color: rgb(139, 195, 74);
+    --dairy-free-color: rgb(33, 150, 243);
+    --vegan-color: rgb(56, 142, 60);
+    --nut-free-color: rgb(255, 152, 0);
+    --sugar-free-color: rgb(0, 188, 212);
   }
 }
 
@@ -682,6 +694,50 @@ body {
 
 .background-text-themed {
   color: var(--minima-background-color);
+}
+
+
+
+// Allergen badges
+.allergen {
+  display: inline-block; /* Prevent line break */
+  color: rgb(255,255,255);
+  font-style: italic; /* Italicize the text */
+  font-size: $base-font-size + 2;
+  border: 3px solid var(--minima-brand-color);
+  border-radius: 50%;
+  padding: 0 5px;
+  margin-bottom: 10px;
+}
+
+/* Smaller size on home page */
+.home .allergen {
+  font-size: $base-font-size - 5; /* Adjust to the desired smaller size */
+  padding: 0 3px; /* Optional: adjust padding if needed */
+}
+
+.gluten-free {
+  background-color: var(--gluten-free-color);
+}
+
+.vegetarian {
+  background-color: var(--vegetarian-color);
+}
+
+.dairy-free {
+  background-color: var(--dairy-free-color);
+}
+
+.vegan {
+  background-color: var(--vegan-color);
+}
+
+.nut-free {
+  background-color: var(--nut-free-color);
+}
+
+.sugar-free {
+  background-color: var(--sugar-free-color);
 }
 
 
@@ -1090,7 +1146,13 @@ a.button {
   .yellow-text-themed,
   .red-text-themed,
   .gray-text-themed,
-  .blue-text-themed {
+  .blue-text-themed,
+  .gluten-free,
+  .vegetarian,
+  .dairy-free,
+  .vegan,
+  .nut-free,
+  .sugar-free {
       background: #fff !important;
       color: #000 !important;
       margin: 0 !important;
