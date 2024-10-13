@@ -53,5 +53,5 @@ Instructions:
 
 - For my other flavored nut butters, check out the links below<br><br>
 - <a href="cran-almond">Cranberry Protein Almond Butter</a><br>
-- <a href="choc-pb">Chocolate Banana Protien Peanut Butter</a><br>
+- <a href="choc-pb">Chocolate Banana Protein Peanut Butter</a><br>
 ---

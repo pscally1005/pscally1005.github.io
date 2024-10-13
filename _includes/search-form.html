@@ -66,60 +66,48 @@
                     </center>
                 </a>
             </li>`,
-        noResultsText: "No results found." // Message when no results are found
+        noResultsText: "" // Message when no results are found
     });
 
-    // Debounce function to limit the rate of search input handling
-    function debounce(func, delay) {
-        let timeout;
-        return function(...args) {
-            clearTimeout(timeout);
-            timeout = setTimeout(() => func.apply(this, args), delay);
-        };
-    }
-
-    // Function to handle the search input and display results
-    function handleSearch() {
-        let resultItems = document.querySelectorAll('#results-container .result-item');
-        let resultsCountElement = document.getElementById('results-count');
-
-        // Display number of results found
-        let resultCount = resultItems.length;
-        if (resultCount > 0) {
-            resultsCountElement.innerText = resultCount + " result(s) found";
-
-            // Add numbering to each result
-            let count = 1;
-            resultItems.forEach(function(item) {
-                let countElement = item.querySelector('.post-count');
-                if (countElement) {
-                    countElement.textContent = count + ".";
-                }
-
-                // Update the allergen container in the result item
-                const allergenContainer = item.querySelector('.allergen-container');
-                const allergens = formatAllergens(
-                    item.getAttribute('data-gluten-free') === "true",
-                    item.getAttribute('data-vegetarian') === "true",
-                    item.getAttribute('data-dairy-free') === "true",
-                    item.getAttribute('data-vegan') === "true",
-                    item.getAttribute('data-nut-free') === "true",
-                    item.getAttribute('data-sugar-free') === "true"
-                );
-
-                if (allergenContainer) {
-                    allergenContainer.innerHTML = allergens; // Inject the allergen HTML
-                }
-
-                count++;
-            });
-        } else {
-            resultsCountElement.innerText = "No results found";
-        }
-    }
-
     // Listen for keyup events in the search input
-    document.getElementById('search-input').addEventListener('keyup', debounce(function() {
-        handleSearch();
-    }, 0)); // Adjust the debounce delay as needed (in milliseconds)
+    document.getElementById('search-input').addEventListener('keyup', function() {
+        setTimeout(function() {
+            let resultItems = document.querySelectorAll('#results-container .result-item');
+            let resultsCountElement = document.getElementById('results-count');
+
+            // Display number of results found
+            let resultCount = resultItems.length;
+            if (resultCount > 0) {
+                resultsCountElement.innerText = resultCount + " result(s) found";
+
+                // Add numbering to each result
+                let count = 1;
+                resultItems.forEach(function(item) {
+                    let countElement = item.querySelector('.post-count');
+                    if (countElement) {
+                        countElement.textContent = count + ".";
+                    }
+
+                    // Update the allergen container in the result item
+                    const allergenContainer = item.querySelector('.allergen-container');
+                    const allergens = formatAllergens(
+                        item.getAttribute('data-gluten-free') === "true",
+                        item.getAttribute('data-vegetarian') === "true",
+                        item.getAttribute('data-dairy-free') === "true",
+                        item.getAttribute('data-vegan') === "true",
+                        item.getAttribute('data-nut-free') === "true",
+                        item.getAttribute('data-sugar-free') === "true"
+                    );
+
+                    if (allergenContainer) {
+                        allergenContainer.innerHTML = allergens; // Inject the allergen HTML
+                    }
+
+                    count++;
+                });
+            } else {
+                resultsCountElement.innerText = "No results found";
+            }
+        }, 0); // Adjust the timeout duration as needed
+    });
 </script>

@@ -154,7 +154,7 @@ def ingredients(food):
         return str("Honey")
     elif food == "Chia seeds by GREENWISE" or food == "Chia seed by NO BRAND" or food == "Chia seed by Hy-Vee, Inc.":
         return str("Chia seeds")
-    elif food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc.":
+    elif food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc." or food == "Premium whole ground flax seed meal by Bob's Red Mill Natural Foods, Inc.":
         return str("Ground flaxseed")
     elif food == "Sugar substitute, liquid, stevia" or food == "Stevia zero calorie liquid sweetener by PURE VIA":
         return str("Liquid stevia or monk fruit")
@@ -210,6 +210,8 @@ def ingredients(food):
         return str("Plain nonfat greek yogurt")
     elif food == "Buttermilk, low fat (1%)":
         return str("Buttermilk")
+    elif food == "Fat free ultra-filtered milk by FAIRLIFE" or food == "Fairlife Skim Milk":
+        return str("Fairlife skim milk")
     elif food == "Eggs, egg whole, Large, Grade A" or food == "Large egg" or food == "Large Egg":
         return str("Egg")
     elif food == "100% liquid egg whites by KROGER":

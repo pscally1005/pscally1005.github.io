@@ -131,7 +131,7 @@ Note that the calculated calories was determined as (4 * grams of protein) + (9 
 
 Protein %, Fat %, and Carb % are simply the percentage of calories in each food that come from each of the 3 main macronutrients.  Ideally, they add up to 100, but due to rounding errors on the nutrition label, most of the time it's either a little bit under or a little bit over.
 
-As I am looking for what is the best lean protien source, the best food will have a high protein %, with low fat % and carb %.  That way, you're getting more protein for your dollar instead of carbs and fat, which can always be added to whatever you eat.
+As I am looking for what is the best lean protein source, the best food will have a high protein %, with low fat % and carb %.  That way, you're getting more protein for your dollar instead of carbs and fat, which can always be added to whatever you eat.
 
 However, this will only get us the cheapest way to get grams of protein, irrespective of other macronutrients and calories.  Looking at just price and grams of protein, the best source would seem to be dried pinto beans; however beans are predominantly carbs, with a protein % of only 28%.  Yes, they are a good source of plant based protein that you should be eating as a side, but they are not a strong contented as your sole source of protein.  You would have to eat a lot of beans (aka calories and carbs) to hit your protein goals, and everyone else will not appreciate your toxic fumes.
 

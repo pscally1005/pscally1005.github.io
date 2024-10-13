@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a Serving Size?"
-date:   2024-10-07 00:00:00 -05000
+date:   2024-10-13 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
@@ -72,13 +72,11 @@ tags:
 * <a rel="" target="" href="#ground-turkey">Ground Turkey (93/7)</a><br>
 * <a rel="" target="" href="#honey">Honey</a><br>
 * <a rel="" target="" href="#hot-sauce">Hot Sauce</a><br>
-* <a rel="" target="" href="#italian-dressing">Italian Dressing</a><br>
 * <a rel="" target="" href="#jelly">Jelly</a><br>
 * <a rel="" target="" href="#kidney-beans">Kidney Beans</a><br>
 * <a rel="" target="" href="#kimchi">Kimchi</a><br>
 * <a rel="" target="" href="#macadamia-nuts">Macadamia Nuts</a><br>
 * <a rel="" target="" href="#mangos">Mangos (Frozen)</a><br>
-* <a rel="" target="" href="#maple-syrup">Maple Syrup</a><br>
 * <a rel="" target="" href="#marmite">Marmite</a><br>
 * <a rel="" target="" href="#mushrooms">Mushrooms (White)</a><br>
 * <a rel="" target="" href="#mustard">Mustard (Dijon)</a><br>
@@ -715,17 +713,6 @@ tags:
     img1="/assets/Misc/Serving/hot-sauce-scaled.jpg"
 %}
 
-<div id="italian-dressing" class="table-of-contents"></div>
-<br><i><font size="+2">Italian Dressing</font></i>: <a href="https://www.walmart.com/ip/Wish-Bone-Italian-Salad-Dressing-15-fl-oz/55500615?classType=VARIANT&athbdg=L1600&from=/search">Wish Bone</a><br>
-{% assign nF = site.data.serving["italian-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="2 tbsp" 
-    gram1="30"  
-    nutritionFacts=nF 
-    img1="/assets/Misc/Serving/italian-scaled.jpg"
-%}
-
 <div id="jelly" class="table-of-contents"></div>
 <br><i><font size="+2">Jelly</font></i>: <a href="https://www.walmart.com/ip/Great-Value-Concord-Grape-Jelly-30-oz/364924551?classType=REGULAR&athbdg=L1200&from=/search">Smucker's</a><br>
 {% assign nF = site.data.serving["jelly-facts"] %}
@@ -782,17 +769,6 @@ tags:
     gram1="150"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/mangos-scaled.jpg"
-%}
-
-<div id="maple-syrup" class="table-of-contents"></div>
-<br><i><font size="+2">Maple Syrup</font></i><br>
-{% assign nF = site.data.serving["maple-syrup-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1 tbsp" 
-    gram1="20"  
-    nutritionFacts=nF 
-    img1="/assets/Misc/Serving/maple-syrup-scaled.jpg"
 %}
 
 <div id="marmite" class="table-of-contents"></div>
@@ -1367,4 +1343,5 @@ tags:
     gram1="113"  
     nutritionFacts=nF 
     img1="/assets/Misc/Serving/zucchini-scaled.jpg"
+    img2="/assets/Misc/Serving/zucchini-cut-scaled.jpg"
 %}
