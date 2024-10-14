@@ -1,0 +1,186 @@
+---
+layout: post
+title:  "The ABCs of Nutrients"
+date:   2024-10-13 00:00:00 -05000
+categories: 
+- Misc.
+- Nutrition
+permalink: /misc/nutritient-alphabet
+image: /assets/Misc/ABC/Alphabet.png
+tags: 
+- Alphabet
+- ABCs
+- nutrient
+- vitamin
+- micronutrient
+- micro
+- macronutrient
+- macro
+- mineral
+---
+<u><font size="+2">Introduction</font></u><br>
+&emsp;Everyone knows their ABCs, right?  Well, I'm calling this list the ABCs of Nutrients.  Letter by letter, we'll be going down the alphabet, listing an important nutrient for each letter.  This may be an odd way to get your kids to learn the alphabet...
+<center><img src="/assets/Misc/ABC/a.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/z.png" alt="" class="smaller-image"></center><br>
+
+<br><u><font size="+2">Alphabet</font></u><br>
+* <a rel="" target="" href="#A">A is for Vitamin A</a><br>
+* <a rel="" target="" href="#B">B is for Vitamin B12</a><br>
+* <a rel="" target="" href="#C">C is for Vitamin C</a><br>
+* <a rel="" target="" href="#D">D is for Vitamin D</a><br>
+* <a rel="" target="" href="#E">E is for Vitamin E</a><br>
+* <a rel="" target="" href="#F">F is for Fiber</a><br>
+* <a rel="" target="" href="#G">G is for Glucose</a><br>
+* <a rel="" target="" href="#H">H is for Histidine</a><br>
+* <a rel="" target="" href="#I">I is for Iodine</a><br>
+* <a rel="" target="" href="#J">J is for Joule</a><br>
+* <a rel="" target="" href="#K">K is for Vitamin K</a><br>
+* <a rel="" target="" href="#L">L is for Lycopene</a><br>
+* <a rel="" target="" href="#M">M is for Magnesium</a><br>
+* <a rel="" target="" href="#N">N is for Niacin</a><br>
+* <a rel="" target="" href="#O">O is for Omega-3s</a><br>
+* <a rel="" target="" href="#P">P is for Potassium</a><br>
+* <a rel="" target="" href="#Q">Q is for Quercetin</a><br>
+* <a rel="" target="" href="#R">R is for Riboflavin</a><br>
+* <a rel="" target="" href="#S">S is for Selenium</a><br>
+* <a rel="" target="" href="#T">T is for Thiamin</a><br>
+* <a rel="" target="" href="#U">U is for Ubiquinone</a><br>
+* <a rel="" target="" href="#V">V is for Valine</a><br>
+* <a rel="" target="" href="#W">W is for Water</a><br>
+* <a rel="" target="" href="#X">X is for Xanthophyll</a><br>
+* <a rel="" target="" href="#Y">Y is for Ylang-ylang</a><br>
+* <a rel="" target="" href="#Z">Z is for Zinc</a><br>
+<center><img src="/assets/Misc/ABC/blackboard.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/minerals.png" alt="" class="smaller-image"></center><br>
+
+<div id="A" class="table-of-contents"></div>
+<br><i><font size="+2">A is for Vitamin A</font></i><br>
+&emsp;A
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="B" class="table-of-contents"></div>
+<br><i><font size="+2">B is for Vitamin B12</font></i><br>
+&emsp;B
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="C" class="table-of-contents"></div>
+<br><i><font size="+2">C is for Vitamin C</font></i><br>
+&emsp;C
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="D" class="table-of-contents"></div>
+<br><i><font size="+2">D is for Vitamin D</font></i><br>
+&emsp;D
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="E" class="table-of-contents"></div>
+<br><i><font size="+2">E is for Vitamin E</font></i><br>
+&emsp;E
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="F" class="table-of-contents"></div>
+<br><i><font size="+2">F is for Fiber</font></i><br>
+&emsp;F
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="G" class="table-of-contents"></div>
+<br><i><font size="+2">G is for Glucose</font></i><br>
+&emsp;G
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="H" class="table-of-contents"></div>
+<br><i><font size="+2">H is for Histidine</font></i><br>
+&emsp;H
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="I" class="table-of-contents"></div>
+<br><i><font size="+2">I is for Iodine</font></i><br>
+&emsp;I
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="J" class="table-of-contents"></div>
+<br><i><font size="+2">J is for Joule</font></i><br>
+&emsp;J
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="K" class="table-of-contents"></div>
+<br><i><font size="+2">K is for Vitamin K</font></i><br>
+&emsp;K
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="L" class="table-of-contents"></div>
+<br><i><font size="+2">L is for Lycopene</font></i><br>
+&emsp;L
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="M" class="table-of-contents"></div>
+<br><i><font size="+2">M is for Magnesium</font></i><br>
+&emsp;M
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="N" class="table-of-contents"></div>
+<br><i><font size="+2">N is for Niacin</font></i><br>
+&emsp;N
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="O" class="table-of-contents"></div>
+<br><i><font size="+2">O is for Omega-3s</font></i><br>
+&emsp;O
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="P" class="table-of-contents"></div>
+<br><i><font size="+2">P is for Potassium</font></i><br>
+&emsp;P
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="Q" class="table-of-contents"></div>
+<br><i><font size="+2">Q is for Quercetin</font></i><br>
+&emsp;Q
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="R" class="table-of-contents"></div>
+<br><i><font size="+2">R is for Riboflavin</font></i><br>
+&emsp;R
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="S" class="table-of-contents"></div>
+<br><i><font size="+2">S is for Selenium</font></i><br>
+&emsp;S
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="T" class="table-of-contents"></div>
+<br><i><font size="+2">T is for Thiamin</font></i><br>
+&emsp;T
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="U" class="table-of-contents"></div>
+<br><i><font size="+2">U is for Ubiquinone</font></i><br>
+&emsp;U
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="V" class="table-of-contents"></div>
+<br><i><font size="+2">V is for Valine</font></i><br>
+&emsp;V
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="W" class="table-of-contents"></div>
+<br><i><font size="+2">W is for Water</font></i><br>
+&emsp;W
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="X" class="table-of-contents"></div>
+<br><i><font size="+2">X is for Xanthophyll</font></i><br>
+&emsp;X
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="Y" class="table-of-contents"></div>
+<br><i><font size="+2">Y is for Ylang-ylang</font></i><br>
+&emsp;Y
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="Z" class="table-of-contents"></div>
+<br><i><font size="+2">Zinc</font></i><br>
+&emsp;Z
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<br><u><font size="+2">Sources</font></u><br>
+1. <a href="https://www.flaticon.com/">FlatIcon</a><br>
+2. <a href="https://www.nutritionvalue.org/">Nutrition Value</a><br>
