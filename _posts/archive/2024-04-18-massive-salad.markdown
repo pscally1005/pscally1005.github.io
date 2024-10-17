@@ -5,6 +5,7 @@ date:   2024-04-18 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
+- Archive
 permalink: /recipes/massive-salad
 image: /assets/Food/Fish/Massive Salad/massive-salad-cover.jpg
 ing: massivesalad-ing

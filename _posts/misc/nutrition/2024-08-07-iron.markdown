@@ -65,7 +65,7 @@ tags:
 
 &emsp;The following tables list foods by their content of iron per serving, per 100 g, and per 100 calories, sorted alphabetically.  Each food is raw, unless otherwise specified.
 
-<font size="-1">
+<div class="mobile-table" style="font-size: 20px"><center>
 
 <center><img src="/assets/Misc/Iron/cart.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Meat (raw)</font></i><br>
@@ -650,7 +650,25 @@ tags:
     </tbody>
 </table>
 
-</font>
+</div></center>
+
+<style>
+    /* Center text in all table cells */
+    table {
+        width: 100%; /* Optional: makes table take full width */
+    }
+
+    table th, table td {
+        text-align: center; /* Center text in table headers and cells */
+        vertical-align: middle; /* Vertically center the text */
+    }
+
+  @media only screen and (max-width: 768px) {
+    .mobile-table {
+      font-size: 14px !important; /* Shrink font size on mobile */
+    }
+  }
+</style>
 
 <center><img src="/assets/Misc/Iron/cacao.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Best Sources of Iron (Animals)</font></u>

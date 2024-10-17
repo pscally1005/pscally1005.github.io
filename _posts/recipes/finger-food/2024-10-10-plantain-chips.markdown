@@ -46,6 +46,6 @@ Instructions:
 - You can also make veggie chips out of sweet potatoes!<br><br>
 - <center><img src="/assets/Food/Finger Food/Plantain Chips/sw-pot-chip-raw.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Finger Food/Plantain Chips/sw-pot-chip-cooked.jpg" alt="" class="half-page"></center><br>
 
-# - Or beets!<br><br>
-# - <center><img src="/assets/Food/Finger Food/Plantain Chips/sw-pot-chip-raw.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Finger Food/Plantain Chips/sw-pot-chip-raw.jpg" alt="" class="half-page"></center>
+- Or beets!<br><br>
+- <center><img src="/assets/Food/Finger Food/Plantain Chips/beet-chip-raw.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Finger Food/Plantain Chips/beet-chip-cooked.jpg" alt="" class="half-page"></center>
 ---

@@ -157,7 +157,15 @@
                 -
                 <span class="recipe-vol">{{ vol }}</span>
                 <span class="recipe-grams" data-base="{{ mass }}">({{ mass }} {{ unit }})</span>
-                <span class="recipe-food">{{ food }}</span>
+
+                {% if food == "No sugar added apple spread" %}
+                    <span class="recipe-food"><a href="/recipes/apple-spread">{{ food }}</a></span>
+                {% elsif food == "Unsweetened BBQ Sauce" or food == "Unsweetened BBQ sauce" %}
+                    <span class="recipe-food"><a href="/recipes/bbq-sauce">{{ food }}</a></span>
+                {% else %}
+                    <span class="recipe-food">{{ food }}</span>
+                {% endif %}
+
                 {% if page.recipe != "no" %}
                     <span class="ingredient-cost" data-base-cost="{{ totalCost }}">$({{ totalCost.toFixed(2) }})</span>
                     <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">${{ recipeCost | round: 2 }}</span>

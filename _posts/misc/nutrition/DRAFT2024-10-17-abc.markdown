@@ -1,0 +1,759 @@
+---
+layout: post
+title:  "The ABCs of Nutrients"
+date:   2024-10-17 00:00:00 -05000
+categories: 
+- Misc.
+- Nutrition
+permalink: /misc/nutritient-alphabet
+image: /assets/Misc/ABC/Alphabet.png
+tags: 
+- Alphabet
+- ABCs
+- nutrient
+- vitamin
+- micronutrient
+- micro
+- macronutrient
+- macro
+- mineral
+- vitamin A
+- beta carotene
+- beta-carotene
+- carotenoid
+- vitamin B12
+- cobalamin
+- vitamin C
+- ascorc acid
+- vitamin D
+- vitamin E
+- fiber
+- glucose
+- histidine
+- iodine
+- joule
+- vitamin k
+- lycopene
+- magnesium
+- niacin
+- omega-3s
+- omega 3 fatty acid
+- potassium
+- quercetin
+- riboflavin
+- vitamin b2
+- selenium
+- thiamin
+- thiamine
+- vitamin b1
+- coenzyme Q10
+- CoQ10
+- valine
+- water
+- xanthophyll
+- ylang-ylang
+- ylang ylang
+- zinc
+---
+<u><font size="+2">Introduction</font></u><br>
+&emsp;Everyone knows their ABCs, right?  Well, I'm calling this list the ABCs of Nutrients.  Letter by letter, we'll be going down the alphabet, listing an important nutrient for each letter.  This may be an odd way to get your kids to learn the alphabet...
+<center><img src="/assets/Misc/ABC/a.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/z.png" alt="" class="smaller-image"></center><br>
+
+<br><u><font size="+2">Alphabet</font></u><br>
+* <a rel="" target="" href="#A">A is for Vitamin A</a><br>
+* <a rel="" target="" href="#B">B is for Vitamin B12</a><br>
+* <a rel="" target="" href="#C">C is for Vitamin C</a><br>
+* <a rel="" target="" href="#D">D is for Vitamin D</a><br>
+* <a rel="" target="" href="#E">E is for Vitamin E</a><br>
+* <a rel="" target="" href="#F">F is for Fiber</a><br>
+* <a rel="" target="" href="#G">G is for Glucose</a><br>
+* <a rel="" target="" href="#H">H is for Histidine</a><br>
+* <a rel="" target="" href="#I">I is for Iodine</a><br>
+* <a rel="" target="" href="#J">J is for Joule</a><br>
+* <a rel="" target="" href="#K">K is for Vitamin K</a><br>
+* <a rel="" target="" href="#L">L is for Lycopene</a><br>
+* <a rel="" target="" href="#M">M is for Magnesium</a><br>
+* <a rel="" target="" href="#N">N is for Niacin (Vitamin B3)</a><br>
+* <a rel="" target="" href="#O">O is for Omega-3s</a><br>
+* <a rel="" target="" href="#P">P is for Potassium</a><br>
+* <a rel="" target="" href="#Q">Q is for Quercetin</a><br>
+* <a rel="" target="" href="#R">R is for Riboflavin (Vitamin B2)</a><br>
+* <a rel="" target="" href="#S">S is for Selenium</a><br>
+* <a rel="" target="" href="#T">T is for Thiamin (Vitamin B1)</a><br>
+* <a rel="" target="" href="#U">U is for Ubiquinone (CoQ10)</a><br>
+* <a rel="" target="" href="#V">V is for Valine</a><br>
+* <a rel="" target="" href="#W">W is for Water</a><br>
+* <a rel="" target="" href="#X">X is for Xanthophyll</a><br>
+* <a rel="" target="" href="#Y">Y is for Ylang-ylang</a><br>
+* <a rel="" target="" href="#Z">Z is for Zinc</a><br>
+<center><img src="/assets/Misc/ABC/blackboard.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/minerals.png" alt="" class="smaller-image"></center><br>
+
+<div id="A" class="table-of-contents"></div>
+<br><i><font size="+2">A is for Vitamin A</font></i><br><br>
+<b>Benefits</b>
+- Vision health
+- Immune function
+- Skin health
+- Growth and development
+- Reproductive health
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> - 4,968 mcg (552 %)
+- <a href="https://www.nutritionvalue.org/Peppers%2C_raw%2C_red%2C_sweet_nutritional_value.html?size=100+g">Bell peppers</a> - 157 mcg (17 %)
+- <a href="https://www.nutritionvalue.org/Squash%2C_raw%2C_butternut%2C_winter_nutritional_value.html?size=100+g">Butternut squash</a> - 2,413 mcg (268 %)
+- <a href="https://www.nutritionvalue.org/Melons%2C_raw%2C_cantaloupe_nutritional_value.html?size=100+g">Cantaloupe</a> - 169 mcg (19%)
+- <a href="https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g">Carrots</a> - 835 mcg (93 %)
+- <a href="https://www.nutritionvalue.org/Collards%2C_raw_nutritional_value.html?size=100+g">Collard greens</a> - 251 mcg (28 %)
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 180 mcg (20 %)
+- <a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a> - 241 mcg (27 %)
+- <a href="https://www.nutritionvalue.org/Pumpkin%2C_raw_nutritional_value.html?size=100+g">Pumpkin</a> - 426 mcg (47 %)
+- <a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> - 469 mcg (52%)
+- <a href="https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g">Sweet potatoes</a> - 709 mcg (79 %)
+- <a href="https://www.nutritionvalue.org/Chard%2C_raw%2C_swiss_nutritional_value.html?size=100+g">Swiss chard</a> - 306 mcg (34 %)
+<center><img src="/assets/Misc/ABC/carrots.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye.png" alt="" class="smaller-image"></center><br>
+
+<div id="B" class="table-of-contents"></div>
+<br><i><font size="+2">B is for Vitamin B12</font></i><br><br>
+<b>Benefits</b>
+- Energy production
+- Red blood cell formation
+- Nervous system health
+- Brain function
+- DNA synthesis
+- Heart health
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> - 59.3 mcg (2,471 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> - 0.21 mcg (9 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g">Chicken thighs (boneless, skinless)</a> - 0.61 mcg (25 %)
+- <a href="https://www.nutritionvalue.org/Clams%2C_raw_26303100_nutritional_value.html?size=100%20g">Clams</a> - 11.3 mcg (470 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_cod_nutritional_value.html?size=100%20g">Cod</a> - 0.91 mcg (38 %)
+- <a href="https://www.nutritionvalue.org/Cheese%2C_large_or_small_curd%2C_dry%2C_uncreamed%2C_nonfat%2C_cottage_nutritional_value.html?size=100+g">Cottage cheese (nonfat)</a> - 0.46 mcg (19 %)
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 1.02 mcg (42 %)
+- <a href="https://www.nutritionvalue.org/Yogurt%2C_nonfat%2C_plain%2C_Greek_nutritional_value.html?size=100+g">Greek yogurt (plain, nonfat)</a> - 0.75 mcg (31 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> - 2.23 mcg (93 %)
+- <a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> - 1.20 mcg (50 %)
+- <a href="https://www.nutritionvalue.org/Halibut%2C_raw_26118000_nutritional_value.html?size=100%20g">Halibut</a> - 1.10 mcg (46 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 8.71 mcg (363 %)
+- <a href="https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=100+g">Milk (skim)</a> - 0.58 mcg (24 %)
+- <a href="https://www.nutritionvalue.org/Oysters%2C_raw_26315100_nutritional_value.html?size=100+g">Oysters</a> - 8.75 mcg (365 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_pink%2C_salmon_nutritional_value.html?size=100+g">Salmon</a> - 4.15 mcg (173 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids_with_bone%2C_canned_in_oil%2C_Atlantic%2C_sardine_nutritional_value.html?size=100+g">Sardines</a> - 8.94 mcg (372 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g">Tuna</a> - 2.55 mcg (106 %)
+<center><img src="/assets/Misc/ABC/beef.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/good-mood.png" alt="" class="smaller-image"></center><br>
+
+<div id="C" class="table-of-contents"></div>
+<br><i><font size="+2">C is for Vitamin C</font></i><br><br>
+<b>Benefits</b>
+- Antioxidant properties
+- Collagen production
+- Immune function
+- Absorption of iron
+- Heart Health
+- Anti-inflammatory effects
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Peppers%2C_raw%2C_red%2C_sweet_nutritional_value.html?size=100+g">Bell peppers</a> - 128 mg (142 %)
+- <a href="https://www.nutritionvalue.org/Broccoli%2C_raw_nutritional_value.html?size=100%20g">Broccoli</a> - 89.2 mg (99 %)
+- <a href="https://www.nutritionvalue.org/Brussels_sprouts%2C_raw_nutritional_value.html?size=100+g">Brussel sprouts</a> - 85.0 mg (94 %)
+- <a href="https://www.nutritionvalue.org/Cabbage%2C_raw_nutritional_value.html?size=100+g">Cabbage</a> - 36.6 mg (41 %)
+- <a href="https://www.nutritionvalue.org/Cauliflower%2C_raw_nutritional_value.html?size=100+g">Caulliflower</a> - 48.2 mg (54 %)
+- <a href="https://www.nutritionvalue.org/Collards%2C_raw_nutritional_value.html?size=100+g">Collard greens</a> - 35.3 mg (39 %)
+- <a href="https://www.nutritionvalue.org/Grapefruit%2C_raw_61101010_nutritional_value.html?size=100+g">Grapefruit</a> - 31.2 mg (35 %)
+- <a href="https://www.nutritionvalue.org/Guava%2C_raw_63125010_nutritional_value.html?size=100+g">Guava</a> - 228 mg (254 %)
+- <a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a> - 93.4 mg (104 %)
+- <a href="https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g">Kiwi</a> - 92.7 mg (103 %)
+- <a href="https://www.nutritionvalue.org/Oranges%2C_navels%2C_raw_nutritional_value.html?size=100+g">Oranges</a> - 59.1 mg (66 %)
+- <a href="https://www.nutritionvalue.org/Papayas%2C_raw_nutritional_value.html?size=100+g">Papaya</a> - 60.9 mg (68 %)
+- <a href="https://www.nutritionvalue.org/Peas%2C_raw%2C_green_nutritional_value.html?size=100+g">Peas</a> - 40.0 mg (44 %)
+- <a href="https://www.nutritionvalue.org/Potatoes%2C_raw%2C_flesh_and_skin_nutritional_value.html?size=100+g">Potatoes</a> - 19.7 mg (22 %)
+- <a href="https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100%20g">Strawberries</a> - 58.8 mg (65 %)
+- <a href="https://www.nutritionvalue.org/Chard%2C_raw%2C_swiss_nutritional_value.html?size=100+g">Swiss chard</a> - 30.0 mg (33 %)
+- <a href="https://www.nutritionvalue.org/Tomatoes%2C_raw%2C_grape_321360_nutritional_value.html?size=100+g">Tomatoes</a> - 27.2 mg (30 %)
+- <a href="https://www.nutritionvalue.org/Summer_squash%2C_raw%2C_yellow_75128000_nutritional_value.html?size=100+g">Yellow squash</a> - 19.3 mg (21 %)
+- <a href="https://www.nutritionvalue.org/Squash%2C_raw%2C_includes_skin%2C_zucchini%2C_summer_nutritional_value.html?size=100+g">Zucchini</a> - 17.9 mg (20 %)
+<center><img src="/assets/Misc/ABC/orange.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/immune-system.png" alt="" class="smaller-image"></center><br>
+
+<div id="D" class="table-of-contents"></div>
+<br><i><font size="+2">D is for Vitamin D</font></i><br><br>
+<b>Benefits</b>
+- Bone health
+- Immune function
+- Muscle function
+- Heart health
+- Mood regulation
+- Cancer prevention
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 2.46 mcg (12 %)
+- <a href="https://www.nutritionvalue.org/Halibut%2C_raw_26118000_nutritional_value.html?size=100%20g">Halibut</a> - 4.70 mcg (24 %)
+- <a href="https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=100+g">Milk (skim)</a> - 1.10 mcg (6 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 16.1 mcg (81 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_pink%2C_salmon_nutritional_value.html?size=100+g">Salmon</a> - 10.9 mcg (55 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids_with_bone%2C_canned_in_oil%2C_Atlantic%2C_sardine_nutritional_value.html?size=100+g">Sardines</a> - 4.80 mcg (24 %)
+<center><img src="/assets/Misc/ABC/salmon.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/sun.png" alt="" class="smaller-image"></center><br>
+
+<div id="E" class="table-of-contents"></div>
+<br><i><font size="+2">E is for Vitamin E</font></i><br><br>
+<b>Benefits</b>
+- Antioxidant properties
+- Immune function
+- Skin health
+- Heart health
+- Eye health
+- Hormone balance
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> - 25.6 mg (171 %)
+- <a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> - 1.97 mg (13 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g">Brazil nuts</a> - 5.65 mg (38 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_hazelnuts_or_filberts_nutritional_value.html?size=100+g">Hazelnuts</a> - 15.0 mg (100 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 1.52 mg (10 %)
+- <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=100+g">Peanuts</a> - 4.93 mg (33 %)
+- <a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100%20g">Quinoa</a> - 2.44 mg (16 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids_with_bone%2C_canned_in_oil%2C_Atlantic%2C_sardine_nutritional_value.html?size=100+g">Sardines</a> - 2.04 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> - 35.2 mg (234 %)
+- <a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> - 2.03 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Chard%2C_raw%2C_swiss_nutritional_value.html?size=100+g">Swiss chard</a> - 1.89 mg (13 %)
+<center><img src="/assets/Misc/ABC/almond.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/dry-skin.png" alt="" class="smaller-image"></center><br>
+
+<div id="F" class="table-of-contents"></div>
+<br><i><font size="+2">F is for Fiber</font></i><br><br>
+<b>Benefits</b>
+- Digestive health
+- Weight management
+- Blood sugar control
+- Heart health
+- Colon health
+- Reduce inflammation
+
+<br>
+<b>Sources</b>
+- Fruit
+- Starches
+- Vegetables
+- Whole grains
+<center><img src="/assets/Misc/ABC/red-beans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/gastroenterology.png" alt="" class="smaller-image"></center><br>
+
+<div id="G" class="table-of-contents"></div>
+<br><i><font size="+2">G is for Glucose</font></i><br><br>
+<b>Benefits</b>
+- Primary energy source
+- Brain function
+- Muscle function
+- Glycogen storage
+
+<br>
+<b>Sources</b>
+- Fruit
+- Starches
+- Vegetables
+- Whole grains
+<center><img src="/assets/Misc/ABC/sugar-cube.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/sugar-blood-level.png" alt="" class="smaller-image"></center><br>
+
+<div id="H" class="table-of-contents"></div>
+<br><i><font size="+2">H is for Histidine</font></i><br><br>
+<b>Benefits</b>
+- Protien synthesis
+- Histamine production
+- Antioxidant defense
+- pH regulation
+- Neurological function
+- Wound healing
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> - 0.60 g (53 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> - 0.84 g (73 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g">Chicken thighs (boneless, skinless)</a> - 0.59 g (51 %)
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 0.28 g (25 %)
+- <a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a> - 0.57 g (50 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> - 0.68 g (59 %)
+- <a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> - 0.55 g (48 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_hulled%2C_hemp_seed_nutritional_value.html?size=100+g">Hemp seeds</a> - 0.97 g (85 %)
+- <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=100+g">Peanuts</a> - 0.60 g (52 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=100+g">Pumpkin seeds</a> - 0.78 g (68 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_pink%2C_salmon_nutritional_value.html?size=100+g">Salmon</a> - 0.54 g (48 %)
+- <a href="https://www.nutritionvalue.org/Crustaceans%2C_raw_%28may_contain_additives_to_retain_moisture%29%2C_mixed_species%2C_shrimp_nutritional_value.html?size=100+g">Shrimp</a> - 0.30 g (26 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g">Tuna</a> - 0.55 g (48 %)
+<center><img src="/assets/Misc/ABC/protein.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/blood-cells.png" alt="" class="smaller-image"></center><br>
+
+<div id="I" class="table-of-contents"></div>
+<br><i><font size="+2">I is for Iodine</font></i><br><br>
+<b>Benefits</b>
+- Thyroid function
+- Cognitive function
+- Hormone balance
+- Immune system support
+- Skin health
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_cod_nutritional_value.html?size=100%20g">Cod</a> - 99 mcg (66 %)
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 49.1 mcg (33 %)
+- <a href="https://www.nutritionvalue.org/Yogurt%2C_nonfat%2C_plain%2C_Greek_nutritional_value.html?size=100+g">Greek yogurt (plain, nonfat)</a> - 65 mcg (43 %)
+- <a href="https://www.nutritionvalue.org/Seaweed%2C_raw%2C_kelp_nutritional_value.html?size=100+g">Kelp</a> - 2,500 mcg (1,667 %)
+- <a href="https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=100+g">Milk (skim)</a> - 55 mcg (37 %)
+- <a href="https://www.nutritionvalue.org/Iodized_salt_by_LIDL_696370_nutritional_value.html">Salt (iodized)</a> - 4,467 mcg (2,978 %)
+- <a href="https://www.nutritionvalue.org/Crustaceans%2C_raw_%28may_contain_additives_to_retain_moisture%29%2C_mixed_species%2C_shrimp_nutritional_value.html?size=100+g">Shrimp</a> - 35 mcg (23 %)
+<center><img src="/assets/Misc/ABC/salt.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/iodine.png" alt="" class="smaller-image"></center><br>
+
+<div id="J" class="table-of-contents"></div>
+<br><i><font size="+2">J is for Joule</font></i><br><br>
+&emsp;J is a hard letter; this is the best I could come up with.  A joule (J) is a unit of energy, just like a calorie.  1 kCal is equal to 4.184 kJ (kilojoules).
+<br><br>
+&emsp;1 cal (not kCal) is the energy required to raise the temperature of 1 gram of water by 1 degree Celcius.  What we conventionally refer to as a "calorie" (cal) is actually a kilocalorie (kCal), or 1000 calories.
+<center><img src="/assets/Misc/ABC/energy.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/calories.png" alt="" class="smaller-image"></center><br>
+
+<div id="K" class="table-of-contents"></div>
+<br><i><font size="+2">K is for Vitamin K</font></i><br><br>
+<b>Benefits</b>
+- Blood coagulation
+- Bone health
+- Heart health
+- Cell growth
+- Cancer prevention
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Asparagus%2C_raw_nutritional_value.html?size=100+g">Asparagus</a> - 41.6 mcg (35 %)
+- <a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> - 21.0 mcg (18 %)
+- <a href="https://www.nutritionvalue.org/Broccoli%2C_raw_nutritional_value.html?size=100%20g">Broccoli</a> - 101 mcg (85 %)
+- <a href="https://www.nutritionvalue.org/Brussels_sprouts%2C_raw_nutritional_value.html?size=100+g">Brussel sprouts</a> - 177 mcg (148 %)
+- <a href="https://www.nutritionvalue.org/Cabbage%2C_raw_nutritional_value.html?size=100+g">Cabbage</a> - 76.0 mcg (63 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html?size=100+g">Cashews</a> - 34.1 mcg (28 %)
+- <a href="https://www.nutritionvalue.org/Cauliflower%2C_raw_nutritional_value.html?size=100+g">Caulliflower</a> - 15.5 mcg (13 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> - 8.4 mcg (7 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g">Chicken thighs (boneless, skinless)</a> - 2.9 mcg (2 %)
+- <a href="https://www.nutritionvalue.org/Collards%2C_raw_nutritional_value.html?size=100+g">Collard greens</a> - 437 mcg (364 %)
+- <a href="https://www.nutritionvalue.org/Edamame%2C_unprepared%2C_frozen_nutritional_value.html?size=100%20g">Edamame</a> - 31.4 mcg (26 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_hazelnuts_or_filberts_nutritional_value.html?size=100+g">Hazelnuts</a> - 14.2 mcg (12 %)
+- <a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a> - 390 mcg (325 %)
+- <a href="https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g">Kiwi</a> - 40.3 mcg (34 %)
+- <a href="https://www.nutritionvalue.org/Peas%2C_raw%2C_green_nutritional_value.html?size=100+g">Peas</a> - 24.8 mcg (21 %)
+- <a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> - 483 mcg (402 %)
+- <a href="https://www.nutritionvalue.org/Chard%2C_raw%2C_swiss_nutritional_value.html?size=100+g">Swiss chard</a> - 830 mcg (692 %)
+<center><img src="/assets/Misc/ABC/kale.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/mental-health.png" alt="" class="smaller-image"></center><br>
+
+<div id="L" class="table-of-contents"></div>
+<br><i><font size="+2">L is for Lycopene</font></i><br><br>
+<b>Benefits</b>
+- Antioxidant
+- Heart health
+- Cancer prevention
+- UV skin protection
+- Eye health
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Grapefruit%2C_raw_61101010_nutritional_value.html?size=100+g">Grapefruit</a> - 1,419 mcg
+- <a href="https://www.nutritionvalue.org/Guava%2C_raw_63125010_nutritional_value.html?size=100+g">Guava</a> - 5,204 mcg
+- <a href="https://www.nutritionvalue.org/Papayas%2C_raw_nutritional_value.html?size=100+g">Papaya</a> - 1,828 mcg
+- <a href="https://www.nutritionvalue.org/Tomatoes%2C_raw%2C_grape_321360_nutritional_value.html?size=100+g">Tomatoes</a> - 4,100 mcg
+- <a href="https://www.nutritionvalue.org/Watermelon%2C_raw_nutritional_value.html?size=100+g">Watermelon</a> - 4,532 mcg
+<center><img src="/assets/Misc/ABC/tomato.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/better-health.png" alt="" class="smaller-image"></center><br>
+
+<div id="M" class="table-of-contents"></div>
+<br><i><font size="+2">M is for Magnesium</font></i><br><br>
+<b>Benefits</b>
+- Bone health
+- Muscle function
+- Energy production
+- Nervous system support
+- Heart health
+- Blood sugar management
+- Anti-inflammatory effects
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> - 270 mg (64 %)
+- <a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> - 29 mg (7 %)
+- <a href="https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g">Bananas</a> - 27 mg (6 %)
+- <a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> - 171 mg (41 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g">Brazil nuts</a> - 376 mg (90 %)
+- <a href="https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g">Brown rice</a> - 116 mg (28 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html?size=100+g">Cashews</a> - 292 mg (70 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=100+g">Chia seeds</a> - 335 mg (80 %)
+- <a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a> - 79 mg (19 %)
+- <a href="https://www.nutritionvalue.org/Baking_chocolate%2C_squares%2C_unsweetened_nutritional_value.html?size=100+g">Chocolate (100%)</a> - 327 mg (78 %)
+- <a href="https://www.nutritionvalue.org/Edamame%2C_unprepared%2C_frozen_nutritional_value.html?size=100%20g">Edamame</a> - 61 mg (15 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=100+g">Flax seeds</a> - 392 mg (93 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_hazelnuts_or_filberts_nutritional_value.html?size=100+g">Hazelnuts</a> - 163 mg (39 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_hulled%2C_hemp_seed_nutritional_value.html?size=100+g">Hemp seeds</a> - 700 mg (167 %)
+- <a href="https://www.nutritionvalue.org/Lentils%2C_raw%2C_pink_or_red_nutritional_value.html?size=100+g">Lentils (red)</a> - 59 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_macadamia_nuts_nutritional_value.html?size=100+g">Macadamia nuts</a> - 130 mg (31 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 76 mg (18 %)
+- <a href="https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=100+g">Milk (skim)</a> - 12.0 mg (3 %)
+- <a href="https://www.nutritionvalue.org/Cereals%2C_Dry%2C_Quick_Oats%2C_QUAKER_nutritional_value.html?size=100+g">Oats</a> - 270 mg (64 %)
+- <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=100+g">Peanuts</a> - 178 mg (42 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=100+g">Pumpkin seeds</a> - 592 mg (141 %)
+- <a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100%20g">Quinoa</a> - 197 mg (47 %)
+- <a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> - 79 mg (19 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> - 325 mg (77 %)
+- <a href="https://www.nutritionvalue.org/Chard%2C_raw%2C_swiss_nutritional_value.html?size=100+g">Swiss chard</a> - 81 mg (19 %)
+<center><img src="/assets/Misc/ABC/spinach.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/magnesium.png" alt="" class="smaller-image"></center><br>
+
+<div id="N" class="table-of-contents"></div>
+<br><i><font size="+2">N is for Niacin (Vitamin B3)</font></i><br><br>
+<b>Benefits</b>
+- Energy production
+- Cholesterol management
+- Skin health
+- Nervous system support
+- Digestive health
+- DNA repair
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> - 3.6 mg (23 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> - 13.2 mg (82 %)
+- <a href="https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g">Brown rice</a> - 6.5 mg (41 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=100+g">Chia seeds</a> - 8.8 mg (55 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> - 9.6 mg (60 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g">Chicken thighs (boneless, skinless)</a> - 5.6 mg (35 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_cod_nutritional_value.html?size=100%20g">Cod</a> - 2.06 mg (13 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> - 5.4 mg (33 %)
+- <a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> - 5.4 mg (34 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_hulled%2C_hemp_seed_nutritional_value.html?size=100+g">Hemp seeds</a> - 9.2 mg (57 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 9.1 mg (57 %)
+- <a href="https://www.nutritionvalue.org/Mushrooms%2C_raw%2C_white_nutritional_value.html?size=100+g">Mushrooms (white)</a> - 3.6 mg (23 %)
+- <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=100+g">Peanuts</a> - 14.4 mg (90 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=100+g">Pumpkin seeds</a> - 5.0 mg (31 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_pink%2C_salmon_nutritional_value.html?size=100+g">Salmon</a> - 8.0 mg (50 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> - 8.4 mg (52 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g">Tuna</a> - 10.1 mg (63 %)
+<center><img src="/assets/Misc/ABC/chicken-breast.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/dna.png" alt="" class="smaller-image"></center><br>
+
+<div id="O" class="table-of-contents"></div>
+<br><i><font size="+2">O is for Omega-3s</font></i><br><br>
+<b>Benefits</b>
+- Heart health
+- Brain function
+- Anti-inflammatory properties
+- Mood
+- Mental health
+- Eye health
+- Fetal development
+- Skin health
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=100+g">Chia seeds</a> - 17.8 g ALA
+- <a href="https://www.nutritionvalue.org/Seeds%2C_hulled%2C_hemp_seed_nutritional_value.html?size=100+g">Hemp seeds</a> - 8.68 g ALA
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 1.40 g DHA & 0.90 g EPA
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_pink%2C_salmon_nutritional_value.html?size=100+g">Salmon</a> - 0.33 g DHA & 0.18 g EPA
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids_with_bone%2C_canned_in_oil%2C_Atlantic%2C_sardine_nutritional_value.html?size=100+g">Sardines</a> - 0.51 g DHA & 0.47 g EPA
+<center><img src="/assets/Misc/ABC/sardines.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/healthcare.png" alt="" class="smaller-image"></center><br>
+
+<div id="P" class="table-of-contents"></div>
+<br><i><font size="+2">P is for Potassium</font></i><br><br>
+<b>Benefits</b>
+- Blood pressure regulation
+- Heart health
+- Muscle function
+- Nerve function
+- Fluid alance
+- Bone health
+- Kidney function
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> - 733 mg (16 %)
+- <a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> - 507 mg (11 %)
+- <a href="https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g">Bananas</a> - 358 mg (8 %)
+- <a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> - 1,483 mg (32 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html?size=100+g">Cashews</a> - 660 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a> - 718 mg (15 %)
+- <a href="https://www.nutritionvalue.org/Baking_chocolate%2C_squares%2C_unsweetened_nutritional_value.html?size=100+g">Chocolate (100%)</a> - 830 mg (18 %)
+- <a href="https://www.nutritionvalue.org/Edamame%2C_unprepared%2C_frozen_nutritional_value.html?size=100%20g">Edamame</a> - 482 mg (10 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_hazelnuts_or_filberts_nutritional_value.html?size=100+g">Hazelnuts</a> - 680 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_hulled%2C_hemp_seed_nutritional_value.html?size=100+g">Hemp seeds</a> - 1,200 mg (26 %)
+- <a href="https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g">Kiwi</a> - 312 mg (7 %)
+- <a href="https://www.nutritionvalue.org/Lentils%2C_raw%2C_pink_or_red_nutritional_value.html?size=100+g">Lentils (red)</a> - 668 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=100+g">Milk (skim)</a> - 167 mg (4 %)
+- <a href="https://www.nutritionvalue.org/Oranges%2C_navels%2C_raw_nutritional_value.html?size=100+g">Oranges</a> - 166 mg (4 %)
+- <a href="https://www.nutritionvalue.org/Potatoes%2C_raw%2C_flesh_and_skin_nutritional_value.html?size=100+g">Potatoes</a> - 425 mg (9 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=100+g">Pumpkin seeds</a> - 809 mg (17 %)
+- <a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100%20g">Quinoa</a> - 563 mg (12 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> - 645 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g">Sweet potatoes</a> - 337 mg (7 %)
+- <a href="https://www.nutritionvalue.org/Tomatoes%2C_raw%2C_grape_321360_nutritional_value.html?size=100+g">Tomatoes</a> - 260 mg (6 %)
+<center><img src="/assets/Misc/ABC/banana.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/potassium.png" alt="" class="smaller-image"></center><br>
+
+<div id="Q" class="table-of-contents"></div>
+<br><i><font size="+2">Q is for Quercetin</font></i><br><br>
+<b>Benefits</b>
+- Antioxidant properties
+- Anti-inflammatory effects
+- Immune system support
+- Heart health
+- Antiviral properties
+- Blood sugar regulation
+- Brain health
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Apples%2C_with_skin%2C_gala%2C_raw_nutritional_value.html?size=100+g">Apples</a> - 4.4 mg (4 %)
+- <a href="https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g">Blueberries</a> - 3.2 mg (3 %)
+- <a href="https://www.nutritionvalue.org/Broccoli%2C_raw_nutritional_value.html?size=100%20g">Broccoli</a> - 3.2 mg (3 %)
+- <a href="https://www.nutritionvalue.org/Cherries%2C_raw%2C_sweet_nutritional_value.html?size=100+g">Cherries</a> - 2.6 mg (3 %)
+- <a href="https://www.nutritionvalue.org/Grapes%2C_raw%2C_muscadine_nutritional_value.html?size=100+g">Grapes</a> - 3.5 mg (4 %)
+- <a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a> - 7.7 mg (8 %)
+- <a href="https://www.nutritionvalue.org/Onions%2C_raw_nutritional_value.html?size=100+g">Onions</a> - 33 mg (33 %)
+<center><img src="/assets/Misc/ABC/fruit-salad.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/immune.png" alt="" class="smaller-image"></center><br>
+
+<div id="R" class="table-of-contents"></div>
+<br><i><font size="+2">R is for Riboflavin (Vitamin B2)</font></i><br><br>
+<b>Benefits</b>
+- Energy production
+- Antioxidant effects
+- Skin health
+- Eye health
+- Red blood cell production
+- Nervous system function
+- Growth and development
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> - 1.14 mg (88 %)
+- <a href="https://www.nutritionvalue.org/Asparagus%2C_raw_nutritional_value.html?size=100+g">Asparagus</a> - 0.14 mg (11 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> - 2.76 mg (212 %)
+- <a href="https://www.nutritionvalue.org/Broccoli%2C_raw_nutritional_value.html?size=100%20g">Broccoli</a> - 0.12 mg (9 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> - 0.18 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g">Chicken thighs (boneless, skinless)</a> - 0.20 mg (15 %)
+- <a href="https://www.nutritionvalue.org/Cheese%2C_large_or_small_curd%2C_dry%2C_uncreamed%2C_nonfat%2C_cottage_nutritional_value.html?size=100+g">Cottage cheese (nonfat)</a> - 0.23 mg (17 %)
+- <a href="https://www.nutritionvalue.org/Edamame%2C_unprepared%2C_frozen_nutritional_value.html?size=100%20g">Edamame</a> - 0.27 mg (20 %)
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 0.42 mg (32 %)
+- <a href="https://www.nutritionvalue.org/Yogurt%2C_nonfat%2C_plain%2C_Greek_nutritional_value.html?size=100+g">Greek yogurt (plain, nonfat)</a> - 0.28 mg (21 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> - 0.15 mg (12 %)
+- <a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> - 0.19 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a> - 0.35 mg (27 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 0.31 mg (24 %)
+- <a href="https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=100+g">Milk (skim)</a> - 0.13 mg (10 %)
+- <a href="https://www.nutritionvalue.org/Mushrooms%2C_raw%2C_white_nutritional_value.html?size=100+g">Mushrooms (white)</a> - 0.40 mg (31 %)
+- <a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100%20g">Quinoa</a> - 0.32 mg (24 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids_with_bone%2C_canned_in_oil%2C_Atlantic%2C_sardine_nutritional_value.html?size=100+g">Sardines</a> - 0.27 mg (17 %)
+- <a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> - 0.19 mg (15 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> - 0.36 mg (27 %)
+<center><img src="/assets/Misc/ABC/dairy-products.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/cleansing.png" alt="" class="smaller-image"></center><br>
+
+<div id="S" class="table-of-contents"></div>
+<br><i><font size="+2">S is for Selenium</font></i><br><br>
+<b>Benefits</b>
+- Antioxidant properties
+- Thyroid function
+- Immune system support
+- Heart health
+- Cognitive function
+- Cancer prevention
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> - 39.7 mcg (72 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g">Brazil nuts</a> - 1,917 mcg (3,485 %)
+- <a href="https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g">Brown rice</a> - 17.1 mcg (31 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html?size=100+g">Cashews</a> - 19.9 mcg (36 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=100+g">Chia seeds</a> - 55.2 mcg (100 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> - 22.8 mcg (41 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g">Chicken thighs (boneless, skinless)</a> - 22.9 mcg (42 %)
+- <a href="https://www.nutritionvalue.org/Clams%2C_raw_26303100_nutritional_value.html?size=100%20g">Clams</a> - 30.6 mcg (56 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_cod_nutritional_value.html?size=100%20g">Cod</a> - 33.1 mcg (60 %)
+- <a href="https://www.nutritionvalue.org/Cheese%2C_large_or_small_curd%2C_dry%2C_uncreamed%2C_nonfat%2C_cottage_nutritional_value.html?size=100+g">Cottage cheese (nonfat)</a> - 9.4 mcg (17 %)
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 31.1 mcg (57 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=100+g">Flax seeds</a> - 25.4 mcg (46 %)
+- <a href="https://www.nutritionvalue.org/Yogurt%2C_nonfat%2C_plain%2C_Greek_nutritional_value.html?size=100+g">Greek yogurt (plain, nonfat)</a> - 9.7 mcg (18 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> - 17.1 mcg (31 %)
+- <a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> - 19.0 mcg (35 %)
+- <a href="https://www.nutritionvalue.org/Halibut%2C_raw_26118000_nutritional_value.html?size=100%20g">Halibut</a> - 45.6 mcg (83 %)
+- <a href="https://www.nutritionvalue.org/Mushrooms%2C_raw%2C_white_nutritional_value.html?size=100+g">Mushrooms (white)</a> - 9.3 mcg (17 %)
+- <a href="https://www.nutritionvalue.org/Cereals%2C_Dry%2C_Quick_Oats%2C_QUAKER_nutritional_value.html?size=100+g">Oats</a> - 28.9 mcg (53 %)
+- <a href="https://www.nutritionvalue.org/Crustaceans%2C_raw_%28may_contain_additives_to_retain_moisture%29%2C_mixed_species%2C_shrimp_nutritional_value.html?size=100+g">Shrimp</a> - 29.6 mcg (54 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> - 53.0 mcg (96 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g">Tuna</a> - 70.6 mcg (128 %)
+<center><img src="/assets/Misc/ABC/nut.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/thyroid.png" alt="" class="smaller-image"></center><br>
+
+<div id="T" class="table-of-contents"></div>
+<br><i><font size="+2">T is for Thiamin (Vitamin B1)</font></i><br><br>
+<b>Benefits</b>
+- Energy metabolism
+- Nervous system function
+- Cardiovascular health
+- Cognitive function
+- Prevention of Wernicke-Korsakoff Syndrome
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Asparagus%2C_raw_nutritional_value.html?size=100+g">Asparagus</a> - 0.14 mg (12 %)
+- <a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> - 0.90 mg (75 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g">Brazil nuts</a> - 0.62 mg (51 %)
+- <a href="https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g">Brown rice</a> - 0.54 mg (45 %)
+- <a href="https://www.nutritionvalue.org/Brussels_sprouts%2C_raw_nutritional_value.html?size=100+g">Brussel sprouts</a> - 0.14 mg (12 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html?size=100+g">Cashews</a> - 0.42 mg (35 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=100+g">Chia seeds</a> - 0.62 mg (52 %)
+- <a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a> - 0.48 mg (40 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=100+g">Flax seeds</a> - 1.64 mg (137 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_hazelnuts_or_filberts_nutritional_value.html?size=100+g">Hazelnuts</a> - 0.64 mg (54 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_hulled%2C_hemp_seed_nutritional_value.html?size=100+g">Hemp seeds</a> - 1.28 mg (106 %)
+- <a href="https://www.nutritionvalue.org/Lentils%2C_raw%2C_pink_or_red_nutritional_value.html?size=100+g">Lentils (red)</a> - 0.51 mg (42 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_macadamia_nuts_nutritional_value.html?size=100+g">Macadamia nuts</a> - 1.20 mg (100 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 0.18 mg (15 %)
+- <a href="https://www.nutritionvalue.org/Cereals%2C_Dry%2C_Quick_Oats%2C_QUAKER_nutritional_value.html?size=100+g">Oats</a> - 0.54 mg (45 %)
+- <a href="https://www.nutritionvalue.org/Peas%2C_raw%2C_green_nutritional_value.html?size=100+g">Peas</a> - 0.27 mg (22 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=100+g">Pumpkin seeds</a> - 0.27 mg (23 %)
+- <a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100%20g">Quinoa</a> - 0.36 mg (30 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> - 1.48 mg (123 %)
+<center><img src="/assets/Misc/ABC/egg.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/cognitive-function.png" alt="" class="smaller-image"></center><br>
+
+<div id="U" class="table-of-contents"></div>
+<br><i><font size="+2">U is for Ubiquinone (CoQ10)</font></i><br><br>
+<b>Benefits</b>
+- Energy production
+- Antioxidant properties
+- Heart health
+- Cellular health
+- Migraine prevention
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Broccoli%2C_raw_nutritional_value.html?size=100%20g">Broccoli</a> - 0.6 mg (2 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> - 3.3 mg (11 %)
+- <a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> - 1.0 mg (3 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> - 6.8 mg (22 %)
+- <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=100+g">Peanuts</a> - 2.0 mg (7 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_pistachio_nuts_nutritional_value.html?size=100+g">Pistachios</a> - 2.0 mg (7 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids_with_bone%2C_canned_in_oil%2C_Atlantic%2C_sardine_nutritional_value.html?size=100+g">Sardines</a> - 6.4 mg (21 %)
+- <a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> - 0.4 mg (2 %)
+<center><img src="/assets/Misc/ABC/steak.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/mitochondria.png" alt="" class="smaller-image"></center><br>
+
+<div id="V" class="table-of-contents"></div>
+<br><i><font size="+2">V is for Valine</font></i><br><br>
+<b>Benefits</b>
+- Muscle growth and repair
+- Energy production
+- Immune function
+- Mental focus
+- Nitrogen balance
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> - 0.86 g (44 %)
+- <a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> - 1.13 g (58 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> - 1.17 g (59 %)
+- <a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g">Chicken thighs (boneless, skinless)</a> - 0.96 g (49 %)
+- <a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a> - 0.87 g (44 %)
+- <a href="https://www.nutritionvalue.org/Cheese%2C_large_or_small_curd%2C_dry%2C_uncreamed%2C_nonfat%2C_cottage_nutritional_value.html?size=100+g">Cottage cheese (nonfat)</a> - 0.70 g (35 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> - 1.03 g (52 %)
+- <a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> - 0.89 g (44 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_hulled%2C_hemp_seed_nutritional_value.html?size=100+g">Hemp seeds</a> - 1.78 g (91 %)
+- <a href="https://www.nutritionvalue.org/Lentils%2C_raw%2C_pink_or_red_nutritional_value.html?size=100+g">Lentils (red)</a> - 1.24 g (63 %)
+- <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=100+g">Peanuts</a> - 0.99 g (51 %)
+- <a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100%20g">Quinoa</a> - 0.59 g (30 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_pink%2C_salmon_nutritional_value.html?size=100+g">Salmon</a> - 1.10 g (56 %)
+- <a href="https://www.nutritionvalue.org/Crustaceans%2C_raw_%28may_contain_additives_to_retain_moisture%29%2C_mixed_species%2C_shrimp_nutritional_value.html?size=100+g">Shrimp</a> - 0.64 g (33 %)
+- <a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g">Tuna</a> - 0.96 g (49 %)
+<center><img src="/assets/Misc/ABC/hen.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/muscle.png" alt="" class="smaller-image"></center><br>
+
+<div id="W" class="table-of-contents"></div>
+<br><i><font size="+2">W is for Water</font></i><br><br>
+<b>Benefits</b>
+- Hydration
+- Temperature regulation
+- Nutrient transportation
+- Digestion and nutrient absorption
+- Joint lubrication
+- Detoxification
+- Cognitive function
+- Skin health
+- Weight management
+- Physical performance
+<center><img src="/assets/Misc/ABC/glass-of-water.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/neurology.png" alt="" class="smaller-image"></center><br>
+
+<div id="X" class="table-of-contents"></div>
+<br><i><font size="+2">X is for Xanthophyll</font></i><br><br>
+<b>Benefits</b>
+- Eye health
+- Antioxidant properties
+- Skin protection from UV rays
+- Reduce inflammation
+- Cognitive health
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Collards%2C_raw_nutritional_value.html?size=100+g">Collard greens</a> - 14 mg (140 %)
+- <a href="https://www.nutritionvalue.org/Corn%2C_raw%2C_yellow%2C_sweet_nutritional_value.html?size=100+g">Corn</a> - 0.9 mg (9 %)
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 0.3 mg (3 %)
+- <a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a> - 40 mg (400 %)
+- <a href="https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g">Kiwi</a> - 0.3 mg (3 %)
+- <a href="https://www.nutritionvalue.org/Peas%2C_raw%2C_green_nutritional_value.html?size=100+g">Peas</a> - 2.5 mg (25 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_pistachio_nuts_nutritional_value.html?size=100+g">Pistachios</a> - 1.4 mg (14 %)
+- <a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> - 12 mg (120 %)
+- <a href="https://www.nutritionvalue.org/Summer_squash%2C_raw%2C_yellow_75128000_nutritional_value.html?size=100+g">Yellow squash</a> - 2.6 mg (26 %)
+- <a href="https://www.nutritionvalue.org/Squash%2C_raw%2C_includes_skin%2C_zucchini%2C_summer_nutritional_value.html?size=100+g">Zucchini</a> - 2.2 mg (22 %)
+<center><img src="/assets/Misc/ABC/kale (1).png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/eye (1).png" alt="" class="smaller-image"></center><br>
+
+<div id="Y" class="table-of-contents"></div>
+<br><i><font size="+2">Y is for Ylang-ylang</font></i><br><br>
+<b>Benefits</b>
+- Mood enhancement
+- Aphrodisiac properties
+- Skin health
+- Hair care
+- Anti-inflammatory effects
+- Blood pressure regulation
+- Pain relief
+- Antimicrobial properties
+- Cognitive function
+- Sleep aid
+<center><img src="/assets/Misc/ABC/essential-oil.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/stress-management.png" alt="" class="smaller-image"></center><br>
+
+<div id="Z" class="table-of-contents"></div>
+<br><i><font size="+2">Zinc</font></i><br><br>
+<b>Benefits</b>
+- Immune system support
+- Wound healing
+- Protein synthesis
+- DNA synthesis
+- Antioxidant properties
+- Taste and smell
+- Hormone regulation
+- Cognitive function
+
+<br>
+<b>Sources (per 100 g)</b>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> - 3.12 mg (28 %)
+- <a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> - 3.65 mg (33 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> - 4.00 mg (36 %)
+- <a href="https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g">Brown rice</a> - 2.13 mg (19 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html?size=100+g">Cashews</a> - 5.78 mg (53 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=100+g">Chia seeds</a> - 4.58 mg (42 %)
+- <a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a> - 2.76 mg (25 %)
+- <a href="https://www.nutritionvalue.org/Baking_chocolate%2C_squares%2C_unsweetened_nutritional_value.html?size=100+g">Chocolate (100%)</a> - 9.63 mg (88 %)
+- <a href="https://www.nutritionvalue.org/Edamame%2C_unprepared%2C_frozen_nutritional_value.html?size=100%20g">Edamame</a> - 1.32 mg (12 %)
+- <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> - 1.24 mg (11 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=100+g">Flax seeds</a> - 4.34 mg (39 %)
+- <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> - 4.97 mg (45 %)
+- <a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> - 2.53 mg (23 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_hazelnuts_or_filberts_nutritional_value.html?size=100+g">Hazelnuts</a> - 2.45 mg (22 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_hulled%2C_hemp_seed_nutritional_value.html?size=100+g">Hemp seeds</a> - 9.90 mg (90 %)
+- <a href="https://www.nutritionvalue.org/Lentils%2C_raw%2C_pink_or_red_nutritional_value.html?size=100+g">Lentils (red)</a> - 3.60 mg (33 %)
+- <a href="https://www.nutritionvalue.org/Cereals%2C_Dry%2C_Quick_Oats%2C_QUAKER_nutritional_value.html?size=100+g">Oats</a> - 3.20 mg (29 %)
+- <a href="https://www.nutritionvalue.org/Oysters%2C_raw_26315100_nutritional_value.html?size=100+g">Oysters</a> - 39.3 mg (357 %)
+- <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=100+g">Peanuts</a> - 2.77 mg (25 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=100+g">Pumpkin seeds</a> - 7.81 mg (71 %)
+- <a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100%20g">Quinoa</a> - 3.10 mg (28 %)
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> - 5.00 mg (45 %)
+- <a href="https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100+g">Walnuts</a> - 3.09 mg (28 %)
+<center><img src="/assets/Misc/ABC/oyster.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/zinc.png" alt="" class="smaller-image"></center><br>
+
+<br><u><font size="+2">References</font></u><br>
+1. <a href="https://www.flaticon.com/">FlatIcon</a><br>
+2. <a href="https://www.nutritionvalue.org/">Nutrition Value</a><br>
+3. <a href="https://chatgpt.com/share/670d7c0d-8a50-8012-b8eb-c4181f1af10f">ChatGPT</a><br>
+4. <a href="https://www.schoolofhealth.com/nutrition-courses/a-z-of-nutrition/">A-Z of Nutrition</a><br>
+5. <a href="https://www.sanitarium.com/au/health-nutrition/nutrition/nutrition-dictionary">Nutrition Dictionary</a><br>
+6. <a href="https://www.gbhealthwatch.com/nutrition-az.php">Nutrition A-Z</a><br>

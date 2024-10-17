@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Copycat Core Power Protein Milkshake"
-date:   2024-10-13 00:00:00 -0500
+date:   2024-10-17 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
 permalink: /recipes/core-power-milkshake
-image: /assets/Food/Drinks/Core Power/cover.jpg
+image: /assets/Food/Drinks/Core Power/core-power.jpg
 ing: corepower-ing
 facts: corepower-facts
 section1: 

@@ -5,6 +5,7 @@ date:   2023-12-04 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
+- Archive
 permalink: /recipes/turkey-pesto-pita
 image: /assets/Food/Ground Meat/Pesto Pita/pesto-pita-cover.jpg
 ing: pestopita-ing

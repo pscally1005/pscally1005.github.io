@@ -5,6 +5,7 @@ date:   2023-03-31 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Foods
+- Archive
 permalink: /recipes/air-fried-trail-mix
 image: /assets/Food/Finger Food/Air Fry Trail Mix/air-fry-trail-cover.jpg
 ing: airfrytrail-ing

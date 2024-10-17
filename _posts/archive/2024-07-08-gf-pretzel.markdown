@@ -5,6 +5,7 @@ date:   2024-07-08 00:00:00 -0500
 categories:
 - Recipes
 - Bread
+- Archive
 permalink: /recipes/gluten-free-pretzels
 image: /assets/Food/Bread/GF Pretzel/gf-pretzel-back.jpg
 ing: gfpretzel-ing

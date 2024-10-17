@@ -5,6 +5,7 @@ date:   2024-08-31 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+- Archive
 permalink: /recipes/chicken-noodle-stew
 image: /assets/Food/Chicken/Chicken Noodle/chicken-noodle-cover.jpg
 ing: chickennoodle-ing

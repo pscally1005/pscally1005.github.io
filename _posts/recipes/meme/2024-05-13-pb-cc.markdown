@@ -4,8 +4,7 @@ title:  "Cottage Cheese Peanut Butter"
 date:   2024-05-13 00:00:00 -05000
 categories: 
 - Recipes
-- Sweet Spreads
-- Archive
+- Meme Recipes
 permalink: /recipes/cottage-cheese-peanut-butter
 image: /assets/Food/Sweet Spreads/PB CC/pb-cc.jpg
 ing: pbcc-ing

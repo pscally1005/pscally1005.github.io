@@ -5,6 +5,7 @@ date:   2024-05-03 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+- Archive
 permalink: /recipes/single-serving-cookie-dough
 image: /assets/Food/Protein Powder/CC Cookie Dough/cc-cookie-dough.jpg
 ing: cccookiedough-ing
