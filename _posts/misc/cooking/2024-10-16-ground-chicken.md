@@ -23,7 +23,7 @@ tags:
 
 &emsp;Today, I wanted to try saving some money and making my own ground chicken.  Since I can get boneless skinless chicken breasts for about $2.50 per pound (and thighs for about $3.00 per pound), I could save over half by just grinding it myself.  And it's very simple to do; let me show you.
 
-<center><a href="/recipes/chicken-nuggets"><img src="/assets/Food/Finger Food/Nuggies/nuggies.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/low-fodmap-tacos"><img src="http://127.0.0.1:4000/assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg" alt="" class="half-page"></a></center><br>
+<center><a href="/recipes/chicken-nuggets"><img src="/assets/Food/Finger Food/Nuggies/nuggies.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/low-fodmap-tacos"><img src="/assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg" alt="" class="half-page"></a></center><br>
 
 <u><b><font size="+2">Instructions</font></b></u><br>
 <ol>

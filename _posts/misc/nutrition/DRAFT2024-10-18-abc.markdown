@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "The ABCs of Nutrients"
-date:   2024-10-17 00:00:00 -05000
+date:   2024-10-18 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
-permalink: /misc/nutritient-alphabet
+permalink: /misc/nutrient-alphabet
 image: /assets/Misc/ABC/Alphabet.png
 tags: 
 - Alphabet
@@ -90,6 +90,10 @@ tags:
 
 <div id="A" class="table-of-contents"></div>
 <br><i><font size="+2">A is for Vitamin A</font></i><br><br>
+<b>Description</b><br>
+&emsp;Vitamin A is an essential fat soluble vitamin found predominantly in orange foods.  It's main function is for eye health, <a href="https://www.smithsonianmag.com/arts-culture/a-wwii-propaganda-campaign-popularized-the-myth-that-carrots-help-you-see-in-the-dark-28812484/">which is why carrots are good for your vision</a>.  Provitamin A (like beta-carotene) is the precursor to Vitamin A, meaning that the body converts beta-carotene into vitamin A.  The RDA (Recommended Dietary Allowance) for Vitamin A is 900 mcg, and a deficiency can lead to vision problems and a weakened immune system.
+
+<br>
 <b>Benefits</b>
 - Vision health
 - Immune function
@@ -115,6 +119,10 @@ tags:
 
 <div id="B" class="table-of-contents"></div>
 <br><i><font size="+2">B is for Vitamin B12</font></i><br><br>
+<b>Description</b><br>
+&emsp;Vitamin B12 (Colbalamin) is an essential water soluble vitamin found preominantly in animal source foods, like meat, dairy, eggs, and fish.  It plays a large role in energy production, as B12 helps your body convert food into <a href="/misc/nutrient-alphabet#G">glucose</a>, which is why many vegans or people deficient in vitamin B12 may have low energy.  It is also important for brain, nervous system, heart, and bone health.  The RDA is 2.4 mcg.
+
+<br>
 <b>Benefits</b>
 - Energy production
 - Red blood cell formation
@@ -146,6 +154,10 @@ tags:
 
 <div id="C" class="table-of-contents"></div>
 <br><i><font size="+2">C is for Vitamin C</font></i><br><br>
+<b>Description</b><br>
+&emsp;Vitamin C is an essential water soluble vitamin found main in citrus fruits and leafy vegetables.  It is a powerful antioxidant, and plays an important role in immune system health.  I'm sure you've all heard the myths about taking vitamin C or drinking orange juice to ward off a cold.  Vitamin C is also important for the absorption of <a href="/misc/iron">iron</a> in the body.  A deficiency in vitamin C can lead to scurvy, poor skin health, and poor immune health.  The recommended daily intake of vitamin C is 90 mg.
+
+<br>
 <b>Benefits</b>
 - Antioxidant properties
 - Collagen production
@@ -179,6 +191,10 @@ tags:
 
 <div id="D" class="table-of-contents"></div>
 <br><i><font size="+2">D is for Vitamin D</font></i><br><br>
+<b>Description</b><br>
+&emsp;Vitamin D is an essential fat soluble vitamin that's pretty hard to come by from food.  There are some foods that contain vitamin D like eggs and fish (and milk is often fortified with it), but the main source of vitamin D is from sunlight.  As the main source is from the sun, many people become low in vitamin D in the winter, which increases the risk of bone disordered, fractures, immune disfunction, and poor mood.  The RDA of vitamin D is 20 mcg.
+
+<br>
 <b>Benefits</b>
 - Bone health
 - Immune function
@@ -199,6 +215,10 @@ tags:
 
 <div id="E" class="table-of-contents"></div>
 <br><i><font size="+2">E is for Vitamin E</font></i><br><br>
+<b>Description</b><br>
+&emsp;Vitamin E is an essential fat soluble vitamin found in nuts, seeds, and leafy vegetables.  It is a powerful antioxidant, and plays an important role in skin, heart, and eye health, as well as regulating hormones.  The recommended intake is 15 mg, and a deficiency can lead to neurological problems and a weakened immune system.
+
+<br>
 <b>Benefits</b>
 - Antioxidant properties
 - Immune function
@@ -224,6 +244,12 @@ tags:
 
 <div id="F" class="table-of-contents"></div>
 <br><i><font size="+2">F is for Fiber</font></i><br><br>
+<b>Description</b><br>
+&emsp;Fiber is a type of undigestible carbohydrate, meaning it has no calories.  This is the difference between total carbs and net carbs; you subtract out the fiber.  Fiber is essential for digestive and colon, keeping you regular making you feel full.  This is why high fiber consumption is good for weight management; fiber fills you up, causing you to eat less.  Fiber also slows the absorption of sugar, leading to less blood sugar spikes.
+<br><br>
+&emsp;Fiber is made up of soluble and insoluble fiber.  Soluble fiber dissolves in water, and is found in oats, beans, and fruits.  Insoluble fiber on the other hand does not dissolve in water, and is found in nuts and vegetables.  You want to consume enough fiber for proper health (at least 25 g a day for women and 38 g for men), but it's best to increase your consumption slowly to prevent bloating and gas.
+
+<br>
 <b>Benefits</b>
 - Digestive health
 - Weight management
@@ -242,6 +268,12 @@ tags:
 
 <div id="G" class="table-of-contents"></div>
 <br><i><font size="+2">G is for Glucose</font></i><br><br>
+<b>Description</b><br>
+&emsp;Glucose is the energy of life.  It's a simple sugar that your cells use for energy.  Foods that you eat get broken down into glucose and stored as glycogen in the liver to be used for energy later.  Additionally, glucose is broken down in your cells, where the mitochondria produce adenosine triphosphate (ATP), or energy for cellular function.  Glucose is found anywhere you find carbs in your diet, and makes up 50% of table sugar (sucrose, the bond between glucose and fructose).
+<br><br>
+&emsp;An excess of glucose is stored as fat though, leading to weight gain.  Most people consume and store too much glucose (70% of the US population is overweight or obese), but that doesn't inherently make glucose bad for you; just bad in excess.  Depleting the glycogen stores in your liver is what people mean when they say they're "hitting the wall" in a workout, which is much more likely to happen to those on a low carb diet.
+
+<br>
 <b>Benefits</b>
 - Primary energy source
 - Brain function
@@ -258,9 +290,24 @@ tags:
 
 <div id="H" class="table-of-contents"></div>
 <br><i><font size="+2">H is for Histidine</font></i><br><br>
+<b>Description</b><br>
+&emsp;Histidine is one the 9 essential amino acids.  It is a building block for protein, and is a precursor to histamine.  Histamine plays a role in immune response, stomach acid production, and regulating sleep cycles.  Histidine is also important for pH regulation and hemoglobin formation.  The RDA of histidine is 1.14 g, and is mainly found in complete proteins and other high protein foods.
+<br><br>
+&emsp;To read more about protein and essential amino acids, see <a href="/misc/protein">Protein: The Essential Building Blocks</a>.  The other 8 essential amino acids are the following:
+- Isoleucine
+- Leucine
+- Lysine
+- Methionine
+- Phenylalanine
+- Threonine
+- Tryptophan
+- <a href="/misc/nutrient-alphabet#V">Valine</a>
+
+<br>
 <b>Benefits</b>
 - Protien synthesis
 - Histamine production
+- Hemoglobin formation
 - Antioxidant defense
 - pH regulation
 - Neurological function
@@ -285,6 +332,10 @@ tags:
 
 <div id="I" class="table-of-contents"></div>
 <br><i><font size="+2">I is for Iodine</font></i><br><br>
+<b>Description</b><br>
+&emsp;Iodine is a nutrient that's main purpose is for thyroid function.  It is essential for the synthesis of thyroid hormoes T4 (thyroxine) and T3 (triiodothyronine), aiding in energy production, growth and development, and metabolism regulation.  Foods from the sea (like fish and kelp) are naturally high sources of iodine, but typically salt is fortified with iodine.  The recommended daily intake of iodine is 150 mcg, the amount in about half a teaspoon of iodized salt.
+
+<br>
 <b>Benefits</b>
 - Thyroid function
 - Cognitive function
@@ -305,6 +356,7 @@ tags:
 
 <div id="J" class="table-of-contents"></div>
 <br><i><font size="+2">J is for Joule</font></i><br><br>
+<b>Description</b><br>
 &emsp;J is a hard letter; this is the best I could come up with.  A joule (J) is a unit of energy, just like a calorie.  1 kCal is equal to 4.184 kJ (kilojoules).
 <br><br>
 &emsp;1 cal (not kCal) is the energy required to raise the temperature of 1 gram of water by 1 degree Celcius.  What we conventionally refer to as a "calorie" (cal) is actually a kilocalorie (kCal), or 1000 calories.
@@ -312,6 +364,10 @@ tags:
 
 <div id="K" class="table-of-contents"></div>
 <br><i><font size="+2">K is for Vitamin K</font></i><br><br>
+<b>Description</b><br>
+&emsp;Vitamin K is an essential fat soluble vitamin that is mainly found in dark leafy greens.  It is important in bone and heart health, as well as cell growth.  Vitamin K also aids in the synthesis of protein for blood coagulation, preventing excessive bleeding during injuries.  Those on blood thinners should pay attention to their intake of vitamin K.  Deficiencies in vitamin K can lead to easy bruising, excessive bleeding, and weak bones.  The RDA of vitamin K is about 120 mcg.
+
+<br>
 <b>Benefits</b>
 - Blood coagulation
 - Bone health
@@ -342,6 +398,10 @@ tags:
 
 <div id="L" class="table-of-contents"></div>
 <br><i><font size="+2">L is for Lycopene</font></i><br><br>
+<b>Description</b><br>
+&emsp;Lycopene is an antioxidant that aids in heart and eye health, as well as skin protection and cancer prevention.  Tomatoes are typically though of as the richest source of lycopene, but it is also very high in watermelon as well.  Lycopene is fat soluble, so like with the fat soluble vitamins (A, E, and K), it's best to consume it with a bit of fat for maximum effectiveness.  There is no recommended daily intake of lycopene, as it's not considered an essential nutrient, but it can provide critical health benefits.
+
+<br>
 <b>Benefits</b>
 - Antioxidant
 - Heart health
@@ -360,6 +420,10 @@ tags:
 
 <div id="M" class="table-of-contents"></div>
 <br><i><font size="+2">M is for Magnesium</font></i><br><br>
+<b>Description</b><br>
+&emsp;Magnesium is an essential mineral and electrolyte that is rich in nuts, seeds, legumes, and dark leafy greans.  It's critical for bone and muscle health and function, often aiding in recovery and preventing soreness and fatigue.  Magnesium is also crucial in the production of ATP, aiding in converting food into energy for metabolism regulation.  The RDA of magnesium is 420 mg, and symptoms of deficiency include muscle cramps, irritability, osteoporosis, and muscle cramps.
+
+<br>
 <b>Benefits</b>
 - Bone health
 - Muscle function
@@ -400,6 +464,10 @@ tags:
 
 <div id="N" class="table-of-contents"></div>
 <br><i><font size="+2">N is for Niacin (Vitamin B3)</font></i><br><br>
+<b>Description</b><br>
+&emsp;Niacin, or vitamin B3, is rich in meat, fish, nuts, and seeds.  It is important in managing cholesterol, increasing HDL and decreasing LDL.  It also benefits the skin, nervous system, and digestion, as well as aiding in the metabolism of glucose.  A deficiency in niacin can lead to pellagra, which has symptoms of diarrhea, dermatisis, and dementia.  The recommended intake of niacin is at least 16 mg per day.
+
+<br>
 <b>Benefits</b>
 - Energy production
 - Cholesterol management
@@ -431,6 +499,12 @@ tags:
 
 <div id="O" class="table-of-contents"></div>
 <br><i><font size="+2">O is for Omega-3s</font></i><br><br>
+<b>Description</b><br>
+&emsp;Omega-3's are a type of essential fatty acid that is typically underconsumed in the standard American diet (SAD).  Proper intake of omega-3 fats have been shown to benefit cardiovascular and brain health, as well as improve mood.  It is anti-inflammatory unlike Omega-6 fatty acids, which are present is vegetable oils.
+<br><br>
+&emsp;There are 3 types of omega-3 fatty acids: Alpha-linolenic Acid (ALA), Eicosapentaenoic Acid (EPA), and Docosahexaenoic Acid (DHA).  EPA and DHA are the bset sources of omega-3 fats, and are found in fish and algae.  ALA on the other hand has to be converted into EPA and DHA in the body at only about a 5% rate, making them much less bioavailable.  Sources of ALA are nuts like walnuts and macadamia nuts, and seeds like chia, flax, and hemp.  As seafood is a much better source of omega-3 fats, the American Heart Associate (AHA) recommends eating about 2 servings of fatty fish per week.
+
+<br>
 <b>Benefits</b>
 - Heart health
 - Brain function
@@ -452,6 +526,10 @@ tags:
 
 <div id="P" class="table-of-contents"></div>
 <br><i><font size="+2">P is for Potassium</font></i><br><br>
+<b>Description</b><br>
+&emsp;I bet you think potassium and think bananas, right?  Potassium is an essential electrolyte that's fairly dense in bananas, but is actually higher in other foods like avocado and potatoes.  Potassium aids in regulating your blood pressure and fluid balance, as well as improving heart, bone, and muscle health and function.  Additionally, potassium helps in kidney function, helping to regulate and produce waste.  The recommended amount for potassium is 4,700 mg per day, and deficiencies can lead to kidney stones, <a href="https://www.youtube.com/watch?v=LdGai72Tt8Y">muscle cramps</a>, osteoporosis, and hypertension.
+
+<br>
 <b>Benefits</b>
 - Blood pressure regulation
 - Heart health
@@ -487,6 +565,10 @@ tags:
 
 <div id="Q" class="table-of-contents"></div>
 <br><i><font size="+2">Q is for Quercetin</font></i><br><br>
+<b>Description</b><br>
+&emsp;Quercetin is a flavanol found predominantly in colorful fruits and vegetables.  It is an important antioxidant, reducing oxidative stress and preventing chronic disease.  Quercetin has also been shown to regulate blood sugar levels, improve insulin sensitivity, and benefit brain health.  The daily intake of quercetin is not established, but estimates are about 100 mg per day.
+
+<br>
 <b>Benefits</b>
 - Antioxidant properties
 - Anti-inflammatory effects
@@ -509,6 +591,10 @@ tags:
 
 <div id="R" class="table-of-contents"></div>
 <br><i><font size="+2">R is for Riboflavin (Vitamin B2)</font></i><br><br>
+<b>Description</b><br>
+&emsp;Riboflavin, or vitamin B2, is rich in meat, fish, dairy, eggs, nuts, seeds, and leafy vegetables.  It plays a vital role in the production of ATP and red blood cells, promoting proper nervous system function and, and maintaining healthy eyes and skin.  Daily intake amount is set at about 1.3 mg, and riboflavin (like other B vitamins) is water soluble.
+
+<br>
 <b>Benefits</b>
 - Energy production
 - Antioxidant effects
@@ -544,6 +630,10 @@ tags:
 
 <div id="S" class="table-of-contents"></div>
 <br><i><font size="+2">S is for Selenium</font></i><br><br>
+<b>Description</b><br>
+&emsp;Brazil nuts, I mean selenium, is an essential mineral that's important for proper cognitive and thyroid function, as well as helping to prevent against cancer and Alzheimer's.  The RDA of selenium is 55 mcg, about the amount found in less than a single Brazil nut.  Selenium is essential and important to consume, but toxicity can occur if intake is too high, over 400 mcg per day.  It's recommended to not consume more than 5 Brazil nuts per day.  Other rich sources of selenium are meat, fish, nuts, and seeds.
+
+<br>
 <b>Benefits</b>
 - Antioxidant properties
 - Thyroid function
@@ -579,6 +669,10 @@ tags:
 
 <div id="T" class="table-of-contents"></div>
 <br><i><font size="+2">T is for Thiamin (Vitamin B1)</font></i><br><br>
+<b>Description</b><br>
+&emsp;Thiamin (vitamin B1) is a water soluble vitamin that is mainly found in nuts and seeds.  It is important in the production of ATP, as well as benefitting cognitive and nervous system function.  A deficiency in thiamin can lead to Wernicke-Korsakoff Syndrome, a neurological condition leading to memory problems and other cognitive disfunction.  1.2 mg per day is the recommended intake.
+
+<br>
 <b>Benefits</b>
 - Energy metabolism
 - Nervous system function
@@ -611,6 +705,10 @@ tags:
 
 <div id="U" class="table-of-contents"></div>
 <br><i><font size="+2">U is for Ubiquinone (CoQ10)</font></i><br><br>
+<b>Description</b><br>
+&emsp;Ubiquinone, also known as Coenzyme Q10 (or CoQ10 for short) is a naturally occuring biochemical cofactor and antioxidant produced in the body, but also found in foods like fish and meat.  CoQ10 may support proper cellular and heart health, as well as neutralizing free radicals and reducing oxidative stress.  Use of statins (cholesterol lowering medication) can reduce the body's natural level of CoQ10, so supplementation may be required to alleviate muscle pain and headaches.  While there is no established intake, estimates are to consume at least 30 mg of CoQ10 per day.
+
+<br>
 <b>Benefits</b>
 - Energy production
 - Antioxidant properties
@@ -632,6 +730,18 @@ tags:
 
 <div id="V" class="table-of-contents"></div>
 <br><i><font size="+2">V is for Valine</font></i><br><br>
+&emsp;Valine is one the 9 essential amino acids.  It is a branched-chain amino acid (BCAA) that is important for tissue repair and muscle metabolism.  Deficiencies may lead to impaired immune system, poor exercise performance and recovery, and muscle fatigue and weakness.  The RDA of valine is 1.96 g, and is mainly found in complete proteins and other high protein foods.
+<br><br>
+&emsp;To read more about protein and essential amino acids, see <a href="/misc/protein">Protein: The Essential Building Blocks</a>.  The other 8 essential amino acids are the following:
+- <a href="/misc/nutrient-alphabet#H">Histidine</a>
+- Isoleucine
+- Leucine
+- Lysine
+- Methionine
+- Phenylalanine
+- Threonine
+- Tryptophan
+<br>
 <b>Benefits</b>
 - Muscle growth and repair
 - Energy production
@@ -660,6 +770,10 @@ tags:
 
 <div id="W" class="table-of-contents"></div>
 <br><i><font size="+2">W is for Water</font></i><br><br>
+<b>Description</b><br>
+&emsp;Here's something you've probably never heard of: water.  This "boring" liquid that we take for granted is about the single most important thing you can consume.  Obviously it helps with hydration, but proper consumption of water also aids in the transportation of nutrients, preventing muscle crampt, detoxification, skin health, weight management, and improved exercise performance.  When dehydrated, you can experience headaches, fatigue, and mood changes.  Make sure to consume at least 8-10 cups (64-80 fl oz) of water a day, if not more.  
+
+<br>
 <b>Benefits</b>
 - Hydration
 - Temperature regulation
@@ -671,10 +785,14 @@ tags:
 - Skin health
 - Weight management
 - Physical performance
-<center><img src="/assets/Misc/ABC/glass-of-water.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/neurology.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/ABC/drink-water.png" alt="" class="instruction-image">&emsp;&emsp;<img src="/assets/Misc/ABC/drink-water-2.png" alt="" class="instruction-image"></center><br>
 
 <div id="X" class="table-of-contents"></div>
 <br><i><font size="+2">X is for Xanthophyll</font></i><br><br>
+<b>Description</b><br>
+&emsp;Xanthophyll is a carotenoid aiding in eye health, though it cannot be converted into <a href="/misc/nutrient-alphabet#A">vitamin A</a>.  Still, it is important to consume, aiding in the protection of UV radation, reducing inflammation, and improving cogitive performance.  The most common carotenoids are lutein and zeaxanthin, and are mainly found in dark leafy greens.  The recommended daily consumption of lutein and zeaxanthin are 10 mg and 2 mg, respectively.
+
+<br>
 <b>Benefits</b>
 - Eye health
 - Antioxidant properties
@@ -698,6 +816,10 @@ tags:
 
 <div id="Y" class="table-of-contents"></div>
 <br><i><font size="+2">Y is for Ylang-ylang</font></i><br><br>
+<b>Description</b><br>
+&emsp;Y is anothe hard letter to come up with something, so I went with ylang-ylang, a tropical flour that's used as an essential oil.  It can help in improving your hair and skin health, enhancing your mood, and making you feel relaxed and less stressed.  It may also regulate blood pressure, relieve pain, and assist in sleep.  If you have ylang-ylang essential oil, you can diffuse it into a room or put a few drops into a bath.
+
+<br>
 <b>Benefits</b>
 - Mood enhancement
 - Aphrodisiac properties
@@ -713,6 +835,11 @@ tags:
 
 <div id="Z" class="table-of-contents"></div>
 <br><i><font size="+2">Zinc</font></i><br><br>
+<b>Description</b><br>
+&emsp;Finally, we have arrived at Z.  Zinc is an essential mineral found in meat, fish, nuts, seeds, and cocoa.  It supports a well functioning immune system, the synthesis of DNA and proteins, and cognitive function.  Low intake of zinc can impair taste and smell, as well as also cause textural issues in people.  The recommended consumption is 11 mg per day
+<center><img src="/assets/Misc/ABC/plan-z.png" alt="" class="instruction-image"></center><br>
+
+<br>
 <b>Benefits</b>
 - Immune system support
 - Wound healing
@@ -753,7 +880,15 @@ tags:
 <br><u><font size="+2">References</font></u><br>
 1. <a href="https://www.flaticon.com/">FlatIcon</a><br>
 2. <a href="https://www.nutritionvalue.org/">Nutrition Value</a><br>
-3. <a href="https://chatgpt.com/share/670d7c0d-8a50-8012-b8eb-c4181f1af10f">ChatGPT</a><br>
+3. <a href="https://chatgpt.com/share/67115820-7214-8012-807d-d0f6d6f965a3">ChatGPT</a><br>
 4. <a href="https://www.schoolofhealth.com/nutrition-courses/a-z-of-nutrition/">A-Z of Nutrition</a><br>
 5. <a href="https://www.sanitarium.com/au/health-nutrition/nutrition/nutrition-dictionary">Nutrition Dictionary</a><br>
 6. <a href="https://www.gbhealthwatch.com/nutrition-az.php">Nutrition A-Z</a><br>
+7. <a href="https://www.nutritionvalue.org/daily_values.php">Daily Values</a><br>
+8. <a href="https://www.youtube.com/watch?v=HApjk2FKJL0">The True Nutrients - Selenium</a><br>
+9. <a href="https://www.youtube.com/watch?v=xM2MFVgjR-w">The True Nutrients - Zinc</a><br>
+10. <a href="https://www.youtube.com/watch?v=LXv85pl3DfM">The True Nutrients - Magnesium</a><br>
+11. <a href="https://www.youtube.com/watch?v=rcH36FpzVM0">The True Nutrients - Potassium</a><br>
+12. <a href="https://www.youtube.com/watch?v=dFLlnyZMhJc">The True Nutrients - Water</a><br>
+13. <a href="https://www.youtube.com/watch?v=_p4lYD5RQwc">The True Nutrients - Fiber</a><br>
+14. <a href="https://www.youtube.com/watch?v=z-HIVUD_Pb4">The True Nutrients - Omega 3 Fatty Acids</a><br>
