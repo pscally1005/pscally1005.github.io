@@ -37,7 +37,7 @@ tags:
 - sugar free
 Description: I recently had one of those Core Power protein milkshakes, and it surprisingly tasted exactly like a vanilla milkshake.  For <a href="https://www.walmart.com/ip/Core-Power-Protein-Shake-with-26g-Protein-by-fairlife-Milk-Vanilla-14-fl-oz/822766999?classType=VARIANT&athbdg=L1103&from=/search">26 g of protein</a> and fairly minimal ingredients (besides some artificial sweeteners), these seemed pretty good to have on occasion.  My main issue was the price.  So instead of spending $3.28 on a single bottle, let's do it for cheaper, shall we  There's also a <a href="https://www.walmart.com/ip/Core-Power-ELITE-Vanilla-High-Protein-Milk-Shake-14-fl-oz/51236582?classType=REGULAR&selectedSellerId=101633921&from=/search">42 g of protein</a> version for $4.50 which I'm going to recreate here, with the same amount of protein and calories for a fraction of the cost
 Instructions: 
-- Add the whey and about 1/2 cup (120 g) of your milk to a shaker bottle, and shake until fully dissolved.  Add the rest of the milk, as well as vanilla extract and sweetener.  Shake, adjust to taste, and enjoy<br><br>
+- Add the whey and 1/2 cup (120 g) of your milk to a shaker bottle, and shake until fully dissolved.  Add the rest of the milk, as well as vanilla extract, sweetener, and yogurt.  Shake, adjust to taste, and enjoy<br><br>
 
 - For chocolate instead of vanilla, omit, the vanilla extract, and instead use 1 tbsp (5 g) of cocoa powder<br><br>
 
