@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Italian Breaded Chicken with Brushetta"
+title:  "Italian Breaded Chicken with Bruschetta"
 date:   2023-05-25 00:00:00 -0500
 categories:
 - Recipes
@@ -38,7 +38,9 @@ tags:
 - garlic
 - bake
 - breading
-Description: An Italian style breaded chicken that's both gluten free and not deep fried sounds like a dream come true. This dish is elevated even more when made into Chicken Parmesan. It goes well with a side of Brushetta mix, either on its own or on a slice of toasted Italian bread
+- bruschetta
+- brushetta
+Description: An Italian style breaded chicken that's both gluten free and not deep fried sounds like a dream come true. This dish is elevated even more when made into Chicken Parmesan. It goes well with a side of Bruschetta mix, either on its own or on a slice of toasted Italian bread
 Instructions:
 - Cut the chicken into cutlets. Make each piece even thickness by adding it to a bag and smashing it down to make it wide and thin. Sprinkle each side with salt. Refrigerate for at least 1 hour<br><br>
 
@@ -59,6 +61,6 @@ Instructions:
 
 - Note - DO NOT USE PARCHMENT PAPER FOR CHICKEN PARM. IT WILL BURN UNDER THE BROILER Leave the door open a little for an electric oven<br><br>
 
-- As the chicken cooks, you can make the Brushetta topping. Finely dice the tomatoes, and add to a medium bowl. Season, and optionally serve on a slice of toasted bread, or spoon on top of the chicken<br><br>
+- As the chicken cooks, you can make the Bruschetta topping. Finely dice the tomatoes, and add to a medium bowl. Season, and optionally serve on a slice of toasted bread, or spoon on top of the chicken<br><br>
 - <center><img src="/assets/Food/Chicken/Breaded/breaded-9.jpg" alt="" class="instruction-image"></center>
 ---

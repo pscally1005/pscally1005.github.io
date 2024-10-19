@@ -599,7 +599,7 @@ tags:
 <center><a href="https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html"><img src="/assets/Misc/Trap/processed-meat.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Try grilling, roasting, or shredding your own chicken, or sautee some ground beef or turkey to use instead.  Here's some ideas to get you started:
 - <a href="/recipes/marinated-chicken">Marinated Chicken with Air Fried Plantains</a><br>
-- <a href="/recipes/breaded-chicken">Italian Breaded Chicken with Brushetta</a><br>
+- <a href="/recipes/breaded-chicken">Italian Breaded Chicken with Bruschetta</a><br>
 - <a href="/recipes/pulled-chicken">BBQ Pulled Chicken and Coleslaw</a><br>
 - <a href="/recipes/italian-chicken">Roasted Italian Chicken Breast and Acorn Squash</a><br>
 - <a href="/recipes/burger-bowl">Chopped Burger Bowl with Sweet Potatoes</a><br>

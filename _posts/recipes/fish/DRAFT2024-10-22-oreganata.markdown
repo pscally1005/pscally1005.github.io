@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gluten Free Shrimp Oreganata"
-date:   2024-10-13 00:00:00 -05000
+date:   2024-10-22 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
@@ -52,14 +52,11 @@ Instructions:
 - In a large mixing bowl, combine together the breadcrumb ingredients - oat flour, grated cheese, minced garlic, ground flax, parsley, oregano, basil, garlic powder, onion powder, black pepper, and salt. Set aside<br><br>
 - <center><img src="/assets/Food/Fish/Oreganata/oreganata-bc.jpg" alt="" class="instruction-image"></center><br>
 
-- Rinse the shrimp under cold water and transfer to a paper towel lined plate. Peel off the shells and tails (if applicable), and pat dry<br><br>
+- Add the frozen shrimp to a large bowl, and let water run in the bowl for a few minutes until defrosted.  Peel off the shells and tails (if applicable), and pat dry<br><br>
 
-- In a bowl, toss the shrimp with the balsamic vinegar, olive oil, lemon juice, and salt. Arrange in a single layer in your pan<br><br>
-- <center><img src="/assets/Food/Fish/Oreganata/oreganata-shrimp.jpg" alt="" class="instruction-image"></center><br>
+- In a bowl, toss the shrimp with the balsamic vinegar, olive oil, lemon juice, and salt. Arrange in a single layer in your pan.  Spoon the breadcrumb mixture on top of the shrimp<br><br>
+- <center><img src="/assets/Food/Fish/Oreganata/oreganata-bowl.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Fish/Oreganata/oreganata-raw.jpg" alt="" class="half-page"></center><br>
 
-- Spoon the breadcrumb mixture on top of the shrimp<br><br>
-- <center><img src="/assets/Food/Fish/Oreganata/oreganata-raw.jpg" alt="" class="instruction-image"></center><br>
-
-- Bake at 450F for 10 minutes, then broil for 2-3, or until the breadcrumbs are golden brown. Watch carefully while broiling; you don't want to burn it. Squeeze some lemon juice to taste on top<br><br>
-- <center><img src="/assets/Food/Fish/Oreganata/oreganata-baked.jpg" alt="" class="instruction-image"></center>
+- Bake at 450F for 10 minutes, then broil for 2-3 minutes, or until the breadcrumbs are golden brown. Watch carefully while broiling; you don't want to burn it. Squeeze some lemon juice to taste on top<br><br>
+- <center><img src="/assets/Food/Fish/Oreganata/oreganata-cooked.jpg" alt="" class="instruction-image"></center>
 ---

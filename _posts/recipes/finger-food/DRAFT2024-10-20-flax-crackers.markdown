@@ -20,7 +20,7 @@ start5:
 section5: 
 Prep: 20
 Rest: 
-Cook: 75
+Cook: 60
 Source1: 
 Source2:
 whisk: https://s.samsungfood.com/cejOT
@@ -44,7 +44,7 @@ Instructions:
 - Divide the dough in half, and roll out to 1/8" thick between 2 sheets of parchment paper.  Cut with a pizza wheel or knife<br><br>
 - <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-cut.jpg" alt="" class="instruction-image"></center><br>
 
-- Bake at 325F for 75 minutes, or until crispy and golden brown. Transfer to a wire rack to cool<br><br>
+- Bake at 325F for 60 minutes, or until crispy and golden brown. Transfer to a wire rack to cool<br><br>
 - <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-baked.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-cooled.jpg" alt="" class="half-page"></center><br>
 
 - I ended up with about 8 oz (226 g) of crackers.  For a 1 oz (28 g) serving, that's about 8 servings total.  Store leftovers in an airtight container in the fridge<br><br>
