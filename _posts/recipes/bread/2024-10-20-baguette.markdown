@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Whole Wheat Baguettes"
-date:   2024-10-21 00:00:00 -0500
+date:   2024-10-20 00:00:00 -0500
 categories:
 - Recipes
 - Bread
 permalink: /recipes/whole-wheat-baguettes
-image: /assets/Food/Bread/Baguette/baguette-baked.jpg
+image: /assets/Food/Bread/Baguette/bruschetta-portrait.jpg
 ing: baguette-ing
 facts: baguette-facts
 section1: 
