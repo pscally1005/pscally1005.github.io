@@ -30,7 +30,7 @@ tags:
 - sandwich
 - toast
 - breakfast
-- baguetta
+- baguette
 - bruschetta
 - italian bread
 - french bread

@@ -2,6 +2,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{% if page.Description %}{{ page.Description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
   <title>{{ page.title }} - {{ site.title }}</title>
 
   {%- seo -%}
@@ -12,5 +13,4 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
-  
 </head>
