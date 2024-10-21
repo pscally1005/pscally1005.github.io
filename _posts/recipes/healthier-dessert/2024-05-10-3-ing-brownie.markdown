@@ -39,6 +39,8 @@ tags:
 - vanilla extract
 - chocolate chips
 - chopped nuts
+- 3 ingredient
+- banana brownies
 Description: These simple and healthy brownie bites are made with just 3 ingredients - pureed bananas, nut butter, and cocoa powder. These taste like delicious chocolate peanut butter banana bread, but dense and fudgy, as all brownies should be. Feel free to add any extra flavors such as vanilla or cinnamon, or any mix-ins like chocolate chips or chopped nuts. The nutrition facts are per brownie bite.
 Instructions: 
 - Preheat your oven to 350F, and spray a mini muffin pan with oil<br><br>
