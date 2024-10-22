@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fiber: Happiness is a Good Poop"
-date:   2024-10-21 00:00:00 -05000
+date:   2024-10-23 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
@@ -17,50 +17,72 @@ tags:
 - insoluble fiber
 ---
 <u><font size="+2">Introduction</font></u><br>
-&emsp;Fiber is a type of undigestible carbohydrate, meaning it has no calories.  This is the difference between total carbs and net carbs; you subtract out the fiber.  Fiber is essential for optimal digestive and colon health, keeping you regular and making you feel full.  This is why high fiber consumption is good for weight management; fiber fills you up, causing you to eat less.  Fiber also slows the absorption of sugar, leading to less blood sugar spikes.
+&emsp;Fiber is a type of undigestible carbohydrate, meaning it doesn't get broken down into glucose (meaning it has no calories).  This is the difference between total carbs and net carbs; you subtract out the fiber.  Fiber is essential for optimal digestive and colon health, keeping you regular and making you feel full.  This is why high fiber consumption is good for weight management; fiber fills you up, causing you to eat less.  Fiber also slows the absorption of sugar, leading to less blood sugar spikes.
 
 &emsp;You want to consume enough fiber for proper health, but it's best to increase your consumption slowly to prevent bloating and gas.  This includes both soluble and insoluble fiber, which hare discussed below.  Both are necessary, and the best way to ensure you're consuming enough is to have a wide variety of plant-based foods.
+<center><img src="/assets/Misc/Fiber/sustainable-energy.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fiber/groceries.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Soluble Fiber</font></u><br>
-&emsp;Fiber is made up of soluble and insoluble fiber.  Soluble fiber, also known as fermentable fiber, dissolves in water, and is found in oats, beans, and fruits.  As it dissolves in water, soluble fiber forms a gel-like substance in your digestive track, slowing digestion.  This helps regulate your blood sugar levels, as well as help you feel full for longer after eating.  Additionally, soluble fiber is a prebiotic, supporting the growth of good bacteria and preventing leaky gut.  Soluble fiber consumption has also been linked to reduced LDL cholesterol.  
+&emsp;Fiber is made up of soluble and insoluble fiber.  Soluble fiber, also known as fermentable or "globular" fiber, dissolves in water, and is found in oats, beans, and fruits.  As it dissolves in water, soluble fiber forms a gel-like substance in your digestive track, slowing digestion.  This helps regulate your blood sugar levels, as well as help you feel full for longer after eating.  Additionally, soluble fiber is a prebiotic, supporting the growth of good bacteria and preventing leaky gut.  Soluble fiber consumption has also been linked to reduced LDL cholesterol.  
 
 &emsp;The following are all good sources of soluble fiber:<br>
-- <b>Beans</b>: black, kidney, pinto, chickpeas<br>
+- <b>Beans</b>: black, chickpeas, kidney, pinto<br>
 - <b>Fruit</b>: apples, avocado, berries, melon, oranges<br>
-- <b>Psyllium</b><br>
+- Psyllium<br>
 - <b>Vegetables</b>: artichokes, beets, carrots, peas<br>
 - <b>Whole grains</b>: barley, oats<br>
+<center><img src="/assets/Misc/Fiber/fruits.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fiber/soy.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Insoluble Fiber</font></u><br>
-&emsp;On the other hand, insoluble fiber, also known as non-fermentable fiber, does not dissolve in water, and is found in nuts, whole grains, and vegetables.  As it doesn't mix with water, insoluble fiber provides bulk to your stool, making it easier for food to pass through your digestive system.  Insoluble fiber is the fiber you think of when you think of pooping.  Like soluble fiber, insoluble fiber also helps in keeping you full and mainting a healthy gut microbiome.
+&emsp;On the other hand, insoluble fiber, also known as non-fermentable or "stringy" fiber, does not dissolve in water, and is found in nuts, whole grains, and vegetables.  As it doesn't mix with water, insoluble fiber provides bulk to your stool, making it easier for food to pass through your digestive system.  Insoluble fiber is the fiber you think of when you think of pooping.  Like soluble fiber, insoluble fiber also helps in keeping you full and mainting a healthy gut microbiome.
 
 &emsp;The following are all good sources of insoluble fiber:<br>
-- <b>Beans</b>: black, kidney, pinto, chickpeas<br>
+- <b>Beans</b>: black, chickpeas, kidney, pinto<br>
 - <b>Leafy vegetables</b>: broccoli, cauliflower, kale, spinach<br>
 - <b>Nuts</b>: almonds, pecans, pistachios, walnuts<br>
 - <b>Seeds</b>: flax seeds, chia seeds, sesame seeds<br>
 - <b>Starchy vegetables</b>: potatoes, squash, sweet potatoes<br>
 - <b>Whole grains</b>: brown rice, quinoa, whole wheat flour<br>
+<center><img src="/assets/Misc/Fiber/kale.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fiber/nuts.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Benefits of Fiber</font></u><br>
-- Blood sugar control
-- Digestive health
-- Increased satiety (fullness)
+&emsp;Soluble and insoluble fiber work together in your body.  Here's a metaphor from endocrinologist Dr. Robert Lustig.  Take a strainer and rub it with petrolleum jelly.  You won't be able to drain out water anymore.  The strainer is the insoluble fiber, and the petrolleum jelly is the soluble fiber.  The combination of both slows the absorption of food in your digestive system, keeping you full.
+
+&emsp;Below are just some of the many benefits of high fiber consumption:<br>
+- Blood sugar control<br>
+- Boost brain and immune function<br>
+- Digestive health<br>
+- Increased satiety (fullness)<br>
 - Lower blood pressure
-- Lower cholesterol
-- Lower risk of breast and colon cancer
-- Lower risk of diabetes
-- Reduce inflammation
-- Regulate bowel movements
-- Weight management
+- Lower cholesterol<br>
+- Lower risk of breast and colon cancer<br>
+- Lower risk of diabetes<br>
+- Reduce inflammation<br>
+- Regulate bowel movements<br>
+- Weight management<br>
+<center><img src="/assets/Misc/Fiber/gastroenterology.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fiber/toilet.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Symptoms of Low Fiber Intake</font></u><br>
-- 
+- Acne
+- Bloating
+- Constipation
+- Diabetes
+- Fatigue
+- Gas
+- High blood pressure
+- High blood sugar
+- High cholesterol
+- IBS
+- Irregular bowel movements
+- Weight gain
+<center><img src="/assets/Misc/Fiber/diarrhea.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fiber/dizziness.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Daily Consumption</font></u><br>
 - Men: 38 grams
 - Women: 25 grams
+<center><img src="/assets/Misc/Fiber/grocery-cart.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Fiber/no-food.png" alt="" class="smaller-image"></center><br>
 
+<u><font size="+2">Fiber Content</font></u><br>
 <div class="mobile-table" style="font-size: 20px"><center>
 
 <i><font size="+2">Beans and Lentils (dried unless specified)</font></i><br>
@@ -775,7 +797,7 @@ tags:
 
   @media only screen and (max-width: 768px) {
     .mobile-table {
-      font-size: 14px !important; /* Shrink font size on mobile */
+      font-size: 12px !important; /* Shrink font size on mobile */
     }
   }
 </style>
@@ -791,3 +813,5 @@ tags:
 2. <a href="https://www.nutritionvalue.org/">Nutrition Value</a><br>
 3. <a href="https://www.youtube.com/watch?v=_p4lYD5RQwc">The True Nutrients - Fiber</a><br>
 4. <a href="https://www.healthline.com/health/soluble-vs-insoluble-fiber#:~:text=Soluble%20fiber%20dissolves%20in%20water,fiber%2C%20but%20in%20different%20amounts.">What’s the Difference Between Soluble and Insoluble Fiber?</a><br>
+5. <a href="/assets/Misc/Fiber/Daily Fiber Intake Recommendations.pdf">ChatGPT</a><br>
+6. <a href="https://robertlustig.com/2019/03/another-note-on-fiber/">Another Note on Fiber</a><br>

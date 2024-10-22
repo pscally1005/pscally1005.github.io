@@ -665,7 +665,7 @@ tags:
 
   @media only screen and (max-width: 768px) {
     .mobile-table {
-      font-size: 14px !important; /* Shrink font size on mobile */
+      font-size: 13px !important; /* Shrink font size on mobile */
     }
   }
 </style>

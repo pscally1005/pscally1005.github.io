@@ -3,6 +3,8 @@ layout: home
 title: Python
 categories: Misc.
 permalink: /misc/python
+image: /assets/Category Photos with Labels/Python.jpg
+Description: Python
 count: 4
 ---
 <center><span class="page-post-count">{{ page.count }} result(s)</span></center><br>

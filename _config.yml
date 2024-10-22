@@ -1,8 +1,9 @@
 title: Poor Man Protein
-description: Healthy, cheap, and easy recipes that will leave your brain, body, and bank account feeling their best!
+Description: Healthy, cheap, and easy recipes that will leave your brain, body, and bank account feeling their best!
 keywords: "poor man protein, healthy, nutrition, baking, cooking, breakfast, lunch, dinner, dessert, recipes"
 author:
   email: poormanprotein@gmail.com
+image: "/assets/Logo/logo.png"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -81,3 +82,5 @@ include:
 
 sitemap: 
   url: https://www.poormanprotein.com/sitemap.xml
+
+url: https://www.poormanprotein.com

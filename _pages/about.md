@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+Description: About
+image: /assets/Logo/logo.png
 ---
 
 <font size="+1">

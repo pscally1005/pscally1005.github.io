@@ -1,8 +1,9 @@
 <head>
+  <link rel="canonical" href="https://www.poormanprotein.com/" />
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{% if page.Description %}{{ page.Description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta name="description" content="{% if page.Description %}{{ page.Description | escape }}{% else %}{{ site.Description | escape }}{% endif %}">
   <title>{{ page.title }} - {{ site.title }}</title>
 
   {%- seo -%}
@@ -13,5 +14,17 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.Description | escape }}" />
+  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.image | absolute_url }}{% endif %}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ page.Description | escape }}" />
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.image | absolute_url }}{% endif %}" />
   
 </head>
