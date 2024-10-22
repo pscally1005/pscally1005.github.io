@@ -27,7 +27,8 @@ tags:
 - ascorc acid
 - vitamin D
 - vitamin E
-- fiber
+- folate
+- vitamin b9
 - glucose
 - histidine
 - iodine
@@ -65,7 +66,7 @@ tags:
 * <a rel="" target="" href="#C">C is for Vitamin C</a><br>
 * <a rel="" target="" href="#D">D is for Vitamin D</a><br>
 * <a rel="" target="" href="#E">E is for Vitamin E</a><br>
-* <a rel="" target="" href="#F">F is for Fiber</a><br>
+* <a rel="" target="" href="#F">F is for Folate (Vitamin B9)</a><br>
 * <a rel="" target="" href="#G">G is for Glucose</a><br>
 * <a rel="" target="" href="#H">H is for Histidine</a><br>
 * <a rel="" target="" href="#I">I is for Iodine</a><br>
@@ -249,30 +250,33 @@ tags:
 <center><img src="/assets/Misc/ABC/almond.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/dry-skin.png" alt="" class="smaller-image"></center><br>
 
 <div id="F" class="table-of-contents"></div>
-<br><i><font size="+2">F is for Fiber</font></i><br><br>
+<br><i><font size="+2">F is for Folate</font></i><br><br>
 <b>Description</b><br>
-&emsp;Surprisingly, F is not for fat.  I already have a more in depth post about fat; see <a href="/misc/fats">Fat: The Innocent Criminal?</a>.
+&emsp;Surprisingly, F is not for fat, and it's not for fiber either.  I already have a more in depth posts about these nutrients; see <a href="/misc/fats">Fat: The Innocent Criminal?</a> and <a href="/misc/fiber">Fiber: Happiness is a Good Poop</a>.
 <br><br>
-&emsp;Fiber is a type of undigestible carbohydrate, meaning it has no calories.  This is the difference between total carbs and net carbs; you subtract out the fiber.  Fiber is essential for optimal digestive and colon health, keeping you regular and making you feel full.  This is why high fiber consumption is good for weight management; fiber fills you up, causing you to eat less.  Fiber also slows the absorption of sugar, leading to less blood sugar spikes.
-<br><br>
-&emsp;Fiber is made up of soluble and insoluble fiber.  Soluble fiber dissolves in water, and is found in oats, beans, and fruits.  Insoluble fiber on the other hand does not dissolve in water, and is found in nuts and vegetables.  You want to consume enough fiber for proper health (at least 25 g a day for women and 38 g for men), but it's best to increase your consumption slowly to prevent bloating and gas.
+&emsp;Folate, or vitamin B9, is a water soluble vitamin  found in many plant-based foods, lik nuts, seeds, beans, and leafy vegetables.  Folate is critical for the growth of cells and development of fetuses.  It also aids in the formation of red blood cells, lowers your risk for depression, and lowers levels of homocysteine in the blood.  A folate deficiency can lead to cognitive issues, anemia, and pregnancy defects.  The RDA for folate is 400 mcg.
 
 <br>
 <b>Benefits</b>
-- Digestive health
-- Weight management
-- Blood sugar control
-- Heart health
-- Colon health
-- Reduce inflammation
+- Cell division and growth
+- DNA synthesis
+- Red blood cell formation
+- Mental and heart health
+- Pregnancy health
 
 <br>
 <b>Sources</b>
-- Fruit
-- Starches
-- Vegetables
-- Whole grains
-<center><img src="/assets/Misc/ABC/red-beans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/toilet.png" alt="" class="smaller-image"></center><br>
+- <a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> - 89 mcg (22 %)
+- <a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> - 444 mcg (111 %)
+- <a href="https://www.nutritionvalue.org/Broccoli%2C_raw_nutritional_value.html?size=100%20g">Broccoli</a> - 63 mcg (16 %)
+- <a href="https://www.nutritionvalue.org/Brussels_sprouts%2C_raw_nutritional_value.html?size=100+g">Brussel sprouts</a> - 61 mcg (15 %)
+- <a href="https://www.nutritionvalue.org/Cauliflower%2C_raw_nutritional_value.html?size=100+g">Cauliflower</a> - 57 mcg (14 %)
+- <a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a> - 557 mcg (139 %)
+- <a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a> - 62 mcg (16 %)
+- <a href="https://www.nutritionvalue.org/Lentils%2C_raw%2C_pink_or_red_nutritional_value.html?size=100+g">Lentils (red)</a> - 204 mcg (51 %)
+- <a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100%20g">Quinoa</a> - 184 mcg (46 %)
+- <a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> - 194 mcg (48 %)
+<center><img src="/assets/Misc/ABC/red-beans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/ABC/mental-health (1).png" alt="" class="smaller-image"></center><br>
 
 <div id="G" class="table-of-contents"></div>
 <br><i><font size="+2">G is for Glucose</font></i><br><br>

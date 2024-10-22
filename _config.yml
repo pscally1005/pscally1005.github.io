@@ -78,3 +78,6 @@ include:
   - _pages
   - _pages/recipes
   - _pages/misc
+
+sitemap: 
+  url: https://www.poormanprotein.com/sitemap.xml

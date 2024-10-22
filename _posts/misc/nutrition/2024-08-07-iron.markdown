@@ -111,9 +111,9 @@ tags:
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef<br>(93% lean)</a></td>
             <td markdown="span">4 oz (113 g)</td>
-            <td markdown="span">2.6 mg</td>
-            <td markdown="span">2.3 mg</td>
-            <td markdown="span">1.5 mg</td>
+            <td markdown="span"><b>2.6 mg</b></td>
+            <td markdown="span"><b>2.3 mg</b></td>
+            <td markdown="span"><b>1.5 mg</b></td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey<br>(93% lean)</a></td>
@@ -149,7 +149,7 @@ tags:
             <td markdown="span"><a href="https://www.nutritionvalue.org/Anchovy%2C_canned_26101180_nutritional_value.html?size=100+g">Anchovies<br>(canned)</a></td>
             <td markdown="span">2 oz can, drained</td>
             <td markdown="span">2.1 mg</td>
-            <td markdown="span">4.6 mg</td>
+            <td markdown="span"><b>4.6 mg</b></td>
             <td markdown="span">2.2 mg</td>
         </tr>
         <tr>
@@ -178,7 +178,7 @@ tags:
             <td markdown="span">1 oyster (14 g)</td>
             <td markdown="span">0.7 mg</td>
             <td markdown="span">4.6 mg</td>
-            <td markdown="span">9.9 mg</td>
+            <td markdown="span"><b>9.9 mg</b></td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g">Salmon</a></td>
@@ -218,7 +218,7 @@ tags:
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g">Tuna<br>(canned)</a></td>
             <td markdown="span">5 oz can, drained</td>
-            <td markdown="span">2.7 mg</td>
+            <td markdown="span"><b>2.7 mg</b></td>
             <td markdown="span">1.6 mg</td>
             <td markdown="span">1.9 mg</td>
         </tr>
@@ -267,11 +267,11 @@ tags:
             <td markdown="span">1.9 mg</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="https://www.nutritionvalue.org/Organic_green_lentils_520955_nutritional_value.html?size=100%20g">Green lentils</a></td>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Lentils%2C_raw_nutritional_value.html?size=100+g">Green lentils</a></td>
             <td markdown="span">1/4 cup (50 g)</td>
-            <td markdown="span">4.0 mg</td>
-            <td markdown="span">8.0 mg</td>
-            <td markdown="span">2.2 mg</td>
+            <td markdown="span">3.3 mg</td>
+            <td markdown="span">6.5 mg</td>
+            <td markdown="span">1.8 mg</td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_red%2C_kidney_nutritional_value.html?size=100+g">Kidney beans</a></td>
@@ -297,9 +297,9 @@ tags:
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Lentils%2C_raw%2C_pink_or_red_nutritional_value.html?size=100%20g">Red Lentils</a></td>
             <td markdown="span">1/4 cup (50 g)</td>
-            <td markdown="span">3.7 mg</td>
-            <td markdown="span">7.4 mg</td>
-            <td markdown="span">2.1 mg</td>
+            <td markdown="span"><b>3.7 mg</b></td>
+            <td markdown="span"><b>7.4 mg</b></td>
+            <td markdown="span"><b>2.1 mg</b></td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Tofu%2C_prepared_with_nigari%2C_hard_nutritional_value.html?size=100+g">Tofu</a></td>
@@ -347,7 +347,7 @@ tags:
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a></td>
-            <td markdown="span">1 cup  (21 g)</td>
+            <td markdown="span">1 cup (21 g)</td>
             <td markdown="span">0.3 mg</td>
             <td markdown="span">1.6 mg</td>
             <td markdown="span">4.1 mg</td>
@@ -355,7 +355,7 @@ tags:
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Potatoes%2C_raw%2C_flesh_and_skin_nutritional_value.html?size=100+g">Potaotes</a></td>
             <td markdown="span">1 potato (170 g)</td>
-            <td markdown="span">1.4 mg</td>
+            <td markdown="span"><b>1.4 mg</b></td>
             <td markdown="span">0.8 mg</td>
             <td markdown="span">1.1 mg</td>
         </tr>
@@ -363,8 +363,8 @@ tags:
             <td markdown="span"><a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a></td>
             <td markdown="span">1 cup (30 g)</td>
             <td markdown="span">0.8 mg</td>
-            <td markdown="span">2.7 mg</td>
-            <td markdown="span">11.6 mg</td>
+            <td markdown="span"><b>2.7 mg</b></td>
+            <td markdown="span"><b>11.6 mg</b></td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g">Sweet potatoes</a></td>
@@ -406,8 +406,8 @@ tags:
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Figs%2C_uncooked%2C_dried_nutritional_value.html?size=100+g">Dried Figs</a></td>
             <td markdown="span">1/4 cup (42 g)</td>
-            <td markdown="span">0.9 mg</td>
-            <td markdown="span">2.0 mg</td>
+            <td markdown="span"><b>0.9 mg</b></td>
+            <td markdown="span"><b>2.0 mg</b></td>
             <td markdown="span">0.9 mg</td>
         </tr>
         <tr>
@@ -422,7 +422,7 @@ tags:
             <td markdown="span">1 cup (144 g)</td>
             <td markdown="span">0.6 mg</td>
             <td markdown="span">0.4 mg</td>
-            <td markdown="span">1.3 mg</td>
+            <td markdown="span"><b>1.3 mg</b></td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Watermelon%2C_raw_nutritional_value.html?size=100+g">Watermelon</a></td>
@@ -534,15 +534,15 @@ tags:
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Organic_raw_pumpkin_seeds_598550_nutritional_value.html?size=100+g">Pumpkin seeds</a></td>
             <td markdown="span">1 oz (28 g)</td>
-            <td markdown="span">4.3 mg</td>
-            <td markdown="span">15.0 mg</td>
-            <td markdown="span">2.8 mg</td>
+            <td markdown="span"><b>4.3 mg</b></td>
+            <td markdown="span"><b>15.0 mg</b></td>
+            <td markdown="span"><b>2.8 mg</b></td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_whole%2C_sesame_seeds_nutritional_value.html?size=100+g">Sesame seeds</a></td>
             <td markdown="span">1 oz (28 g)</td>
             <td markdown="span">4.1 mg</td>
-            <td markdown="span">15.0 mg</td>
+            <td markdown="span"><b>15.0 mg</b></td>
             <td markdown="span">2.5 mg</td>
         </tr>
         <tr>
@@ -592,7 +592,7 @@ tags:
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=100+g">Quinoa</a></td>
             <td markdown="span">1/4 cup (43 g)</td>
-            <td markdown="span">2.0 mg</td>
+            <td markdown="span"><b>2.0 mg</b></td>
             <td markdown="span">4.6 mg</td>
             <td markdown="span">1.3 mg</td>
         </tr>
@@ -607,8 +607,8 @@ tags:
             <td markdown="span"><a href="https://www.nutritionvalue.org/Vital_wheat_gluten_by_Bob%27s_Red_Mill_Natural_Foods%2C_Inc._958503_nutritional_value.html?size=100+g">Vital Wheat Gluten</a></td>
             <td markdown="span">1/4 cup (30 g)</td>
             <td markdown="span">1.8 mg</td>
-            <td markdown="span">6.0 mg</td>
-            <td markdown="span">1.5 mg</td>
+            <td markdown="span"><b>6.0 mg</b></td>
+            <td markdown="span"><b>1.5 mg</b></td>
         </tr>
     </tbody>
 </table>
@@ -636,8 +636,8 @@ tags:
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Baking_chocolate%2C_squares%2C_unsweetened_nutritional_value.html?size=100+g">100% chocolate</a></td>
             <td markdown="span">1 square (14 g)</td>
-            <td markdown="span">2.4 mg</td>
-            <td markdown="span">17.0 mg</td>
+            <td markdown="span"><b>2.4 mg</b></td>
+            <td markdown="span"><b>17.0 mg</b></td>
             <td markdown="span">2.7 mg</td>
         </tr>
         <tr>
@@ -645,12 +645,12 @@ tags:
             <td markdown="span">1 tbsp (5 g)</td>
             <td markdown="span">0.8 mg</td>
             <td markdown="span">14.0 mg</td>
-            <td markdown="span">6.7 mg</td>
+            <td markdown="span"><b>6.7 mg</b></td>
         </tr>
     </tbody>
 </table>
 
-</div></center>
+</center>
 
 <style>
     /* Center text in all table cells */
@@ -684,26 +684,30 @@ tags:
 
 <center><img src="/assets/Misc/Iron/pumpkin-seed.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Other Ways to Consume Iron</font></u><br>
-&emsp;Sometimes, eating iron rich foods isn't enough to raise your iron levels if you're deficient.  An iron deficiency might also signal that you are low in vitamin C, as vitamin C aids in the absorption of iron.  Try to eat more naturally occuring sources of vitamin C, such as the following:
-- Citrus fruits: grapefruit, lemon, orange, and kiwi
-- Berries: Strawberries, raspberries, blackberries, and blueberries
-- Cruciferous vegetables: Broccoli, cauliflower, kale, cabbage, and brussel sprouts
-- Other vegetables: Bell peppers, spinach, and tomatoes
+&emsp;Sometimes, eating iron rich foods isn't enough to raise your iron levels if you're deficient.  An iron deficiency might also signal that you are low in vitamin C, as vitamin C aids in the absorption of iron.  Try to eat more naturally occuring sources of <a href="/misc/nutrient-alphabet#C">vitamin C</a>, such as the following:<br>
+<ul>
+    <li>Citrus fruits: grapefruit, lemon, orange, and kiwi</li>
+    <li>Berries: Strawberries, raspberries, blackberries, and blueberries</li>
+    <li>Cruciferous vegetables: Broccoli, cauliflower, kale, cabbage, and brussel sprouts</li>
+    <li>Other vegetables: Bell peppers, spinach, and tomatoes</li>
+</ul>
 
-&emsp;If you are unable to raise your iron or ferritin through food alone, it may be helpful to take an iron supplement.  Vitamin C supplementation may also be useful, but consult with your doctor before making any changes.
-- Iron: 60-330 mg daily
-- Vitamin C: 250-500 mg daily
+&emsp;If you are unable to raise your iron or ferritin through food alone, it may be helpful to take an iron supplement.  Vitamin C supplementation may also be useful, but consult with your doctor before making any changes:<br>
+<ul>
+    <li>Iron: 60-330 mg daily</li>
+    <li>Vitamin C: 250-500 mg daily</li>
+</ul>
 
 <center><img src="/assets/Misc/Iron/pill.jpg" alt="" class="smaller-image"></center><br>
 <br><u><font size="+2">Sources</font></u><br>
-1. <a href="https://fdc.nal.usda.gov/">FoodData Central</a>
-2. <a href="https://www.nutritionvalue.org/">Nutrition Value</a>
+1. <a href="https://fdc.nal.usda.gov/">FoodData Central</a><br>
+2. <a href="https://www.nutritionvalue.org/">Nutrition Value</a><br>
 3. <a href="https://my.functionhealth.com/">Function Health</a><br>
-4. <a href="https://www.flaticon.com/">FlatIcon</a>
+4. <a href="https://www.flaticon.com/">FlatIcon</a><br>
 5. <a href="https://www.healthline.com/nutrition/healthy-iron-rich-foods">12 Healthy Foods That Are High in Iron</a><br>
 6. <a href="https://www.youtube.com/watch?v=vZT6dUmJqyw&t=324s">The True Nutrients - Iron</a><br>
 7. <a href="https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/#:~:text=The%20DV%20for%20iron%20is,8ontribute%20to%20a%20healthful%20diet.">Iron - Fact Sheet for Health Professionals</a><br>
 8. <a href="https://ods.od.nih.gov/factsheets/Iron-Consumer/#:~:text=Iron%20is%20a%20mineral%20that,iron%20to%20make%20some%20hormones.">Iron - Fact Sheet for Consumers</a><br>
-9. <a href="https://www.hematology.org/education/patients/anemia/iron-deficiency">Iron-Deficiency Anemia</a>
+9. <a href="https://www.hematology.org/education/patients/anemia/iron-deficiency">Iron-Deficiency Anemia</a><br>
 10. <a href="https://www.healthline.com/nutrition/vitamin-c-foods">20 Foods That Are High in Vitamin C</a><br>
-11. <a href="https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-c/#:~:text=Good%20sources%20of%20vitamin%20C,potatoes">Vitamin C - Vitamins and minerals</a>
+11. <a href="https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-c/#:~:text=Good%20sources%20of%20vitamin%20C,potatoes">Vitamin C - Vitamins and minerals</a><br>
