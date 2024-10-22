@@ -3,7 +3,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{% if page.Description %}{{ page.Description | escape }}{% else %}{{ site.Description | escape }}{% endif %}">
+
+  {% assign IMAGE = site.image %}
+  {% if page.image %}
+    {% assign IMAGE = page.image %}
+  {% endif %}
+  <meta name="image" content="{{ IMAGE | absolute_url}}">
+
+  {% assign DESC = site.Description %}
+  {% if page.Description %}
+    {% assign DESC = page.Description %}
+  {% endif %}
+  <meta name="description" content="{{ DESC | escape }}">
+  
   <title>{{ page.title }} - {{ site.title }}</title>
 
   {%- seo -%}
