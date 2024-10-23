@@ -3,12 +3,20 @@
 <div class="recipe-nutrition">    
     <!-- Booleans -->
     {% assign servingSizePost = "false" %}
-    {% if page.title == "What is a Serving Size?" %}
+    {% if 
+        page.title == "What is a Serving Size?" or 
+        page.title == "Let's Meet the Meats" 
+    %}
         {% assign servingSizePost = "true" %}
     {% endif %}
 
     {% assign shorterFacts = "false" %}
-    {% if page.title == "Sweet Potato Boxed Brownies" or page.title == "Fat Replacements in Boxed Brownies" or page.title == "What is a Serving Size?" %}
+    {% if 
+        page.title == "Sweet Potato Boxed Brownies" or 
+        page.title == "Fat Replacements in Boxed Brownies" or 
+        page.title == "What is a Serving Size?" or 
+        page.title == "Let's Meet the Meats"
+    %}
         {% assign shorterFacts = "true" %}
     {% endif %}
 

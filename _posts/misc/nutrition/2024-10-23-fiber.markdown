@@ -501,6 +501,13 @@ tags:
             <td markdown="span"><b>12.5 g</b></td>
         </tr>
         <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Carambola%2C_raw%2C_%28starfruit%29_nutritional_value.html?size=100+g">Starfruit</a></td>
+            <td markdown="span">1 starfruit (70 g)</td>
+            <td markdown="span">2.0 g</td>
+            <td markdown="span">2.8 g</td>
+            <td markdown="span">9.0 g</td>
+        </tr>
+        <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g">Strawberries</a></td>
             <td markdown="span">1 cup (144 g)</td>
             <td markdown="span">2.9 g</td>

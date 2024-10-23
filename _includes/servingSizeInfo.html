@@ -7,11 +7,13 @@
 {% assign img2 = include.img2 %}
 
 <center>
-    {% unless img2 %}
-        <br><img src={{img1}} alt="" class="larger-image"><br>
-    {% else %}
-        <br><img src={{img1}} alt="" class="half-page">&emsp;<img src={{img2}} alt="" class="half-page"><br>
-    {% endunless %}
+    {% if img1 %}
+        {% unless img2 %}
+            <br><img src={{img1}} alt="" class="larger-image"><br>
+        {% else %}
+            <br><img src={{img1}} alt="" class="half-page">&emsp;<img src={{img2}} alt="" class="half-page"><br>
+        {% endunless %}
+    {% endif %}
 </center>
 
 <br><b>Serving Size</b>: {{ vol1 }} <i>({{ gram1 }} g)</i>
