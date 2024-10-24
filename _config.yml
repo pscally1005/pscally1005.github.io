@@ -84,3 +84,8 @@ sitemap:
   url: https://www.poormanprotein.com/sitemap.xml
 
 url: https://www.poormanprotein.com
+
+jekyll_seo_tag:
+  keywords: false
+  description: false
+  image: false

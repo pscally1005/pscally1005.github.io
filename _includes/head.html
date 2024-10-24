@@ -6,6 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  {% assign KEYWORDS = site.keywords %}
+  {% if page.tags %}
+    {% assign TAGS = page.tags | join: ', ' %}
+    {% assign KEYWORDS = KEYWORDS | append: ', ' | append: TAGS %}
+  {% endif %}
+  <meta name="keywords" content="{{ KEYWORDS | escape }}">
+
   {% assign IMAGE = site.image %}
   {% if page.image %}
     {% assign IMAGE = page.image %}
@@ -18,8 +25,15 @@
   {% endif %}
   <meta name="description" content="{{ DESC | escape }}">
   
-  <title>{{ page.title }} - {{ site.title }}</title>
-
+  {% assign TITLE = page.title | append: ' - ' | append: site.title %}
+  {% if page.url == '/' %}
+    {% assign TITLE = site.title %}
+  {% endif %}
+  {% if page.layout == 'post' %}
+    {% assign TITLE = page.title %}
+  {% endif %}
+  <title>{{ TITLE }}</title>
+  
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
@@ -32,13 +46,13 @@
   <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:description" content="{{ page.Description | escape }}" />
-  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.image | absolute_url }}{% endif %}" />
+  <meta property="og:image" content="{{ IMAGE | absolute_url }}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
   
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{{ page.Description | escape }}" />
-  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.image | absolute_url }}{% endif %}" />
-  
+  <meta name="twitter:image" content="{{ IMAGE | absolute_url }}" />
+
 </head>
