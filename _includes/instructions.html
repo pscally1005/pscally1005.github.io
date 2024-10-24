@@ -3,14 +3,15 @@
         <div class="recipe-header">Instructions</div>
         <div class="recipe-instructions">
             <div class="recipe-section">
-                {% assign count = 1 %}
-                {% for step in page.Instructions %}
-                    {% unless step contains "<center>" %}
-                        {{ count }}.&ensp;
-                        {% assign count = count | plus: 1 %}
-                    {% endunless %}
-                    <span class="print-only">{{ step }}</span>
-                {% endfor %}
+                <ol>
+                    {% for step in page.Instructions %}
+                        {% if step contains "<center>" %}
+                            <span class="print-only">{{ step }}</span>
+                        {% else %}
+                            <span class="print-only"><li>{{ step }}</li></span>
+                        {% endif %}
+                    {% endfor %}
+                </ol>
             </div>
         </div>
         <br>

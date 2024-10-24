@@ -55,7 +55,7 @@ tags:
 - frosting
 - sugar free
 - gluten free
-Description: Happy Halloween!  Here's an easy cake recipe that's delicious, sugar free, gluten free, and lower in fat than traditional.  Healthy pumpkin cake that's full of cinnamon flavor, and topped with a homemade frosting.  You can either use a can of pumpkin puree, or make your own (or use <a href="/recipes/sweet-potato-puree">sweet potato puree</a>).  For double pumpkin, use pumpkin seed butter in the cake and the frosting, but peanut butter, tahini, or almond butter will also work
+Description: Happy Halloween!  Here's an easy cake recipe that's delicious, sugar free, gluten free, and lower in fat than traditional.  Healthy pumpkin cake that's full of cinnamon flavor, and topped with a homemade frosting.  You can either use a can of pumpkin puree, or make your own <a href="/recipes/pumpkin-puree">Homemade Pumpkin Puree</a> (or use <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a>).  For double pumpkin, use pumpkin seed butter in the cake and the frosting, but peanut butter, tahini, or almond butter will also work
 Instructions: 
 - Preheat your oven to 350F, and line an 8" circle pan with parchment paper.  Lightly spray the paper with oil<br><br>
 
