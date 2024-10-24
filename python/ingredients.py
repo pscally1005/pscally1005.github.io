@@ -438,7 +438,7 @@ def ingredients(food):
         return str("Panko breadcrumbs")
     elif food == "Tortilla, whole wheat":
         return str("Whole wheat tortilla")
-    elif food == "Chickpeas pasta by Banza LLC":
+    elif food == "Chickpeas pasta by Banza LLC" or food == "Chickpeas pasta, penne by Banza LLC":
         return str("Chickpea pasta")
     elif food == "Cornmeal, yellow, whole-grain":
         return str("Cornmeal")

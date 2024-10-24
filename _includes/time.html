@@ -11,8 +11,10 @@
         {% if page.Prep > 0 %}
             <div class="recipe-section-bold">Prep Time:</div>
             <div class="recipe-section">
-                {% if page.Prep >= 60 %}
+                {% if page.Prep > 60 %}
                     {{ page.Prep | divided_by: 60}} hours
+                {% elsif page.Prep == 60 %}
+                    {{ page.Prep | divided_by: 60}} hour
                 {% endif %}
                 {% if prep_minutes > 0 %} 
                     {{ prep_minutes }} minutes
@@ -25,8 +27,10 @@
         {% if page.Rest > 0 %}
             <div class="recipe-section-bold">Rest Time:</div>
             <div class="recipe-section">
-                {% if page.Rest >= 60 %}
+                {% if page.Rest > 60 %}
                     {{ page.Rest | divided_by: 60}} hours
+                {% elsif page.Rest == 60 %}
+                    {{ page.Rest | divided_by: 60}} hour
                 {% endif %}
                 {% if rest_minutes > 0 %}
                     {{ rest_minutes }} minutes
@@ -38,8 +42,10 @@
         {% if page.Cook > 0 %}
             <div class="recipe-section-bold">Cook Time:</div>
             <div class="recipe-section">
-            {% if page.Cook >= 60 %}
-                {{ page.Cook | divided_by: 60}} hours
+                {% if page.Cook > 60 %}
+                    {{ page.Cook | divided_by: 60}} hours
+                {% elsif page.Cook == 60 %}
+                    {{ page.Cook | divided_by: 60}} hour
                 {% endif %}
                 {% if cook_minutes > 0 %}
                     {{ cook_minutes }} minutes
@@ -50,8 +56,10 @@
 
         <div class="recipe-section-bold">Total Time:</div>
         <div class="recipe-section">
-            {% if totaltime >= 60 %}
+            {% if totaltime > 60 %}
                 {{ totaltime | divided_by: 60}} hours
+            {% elsif totaltime == 60 %}
+                {{ totaltime | divided_by: 60}} hour
             {% endif %}
             {% if minutes > 0 %}
                 {{ minutes }} minutes
