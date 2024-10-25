@@ -6,13 +6,13 @@ categories:
 - Recipes
 - Healthier Dessert
 permalink: /recipes/pumpkin-cake
-image: /assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover.jpg
+image: /assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-1.jpg
 ing: pumpkincake-ing
 facts: pumpkincake-facts
-section1: Dry
-start2: Oat flour
-section2: Wet
-start3: Nonfat cottage cheese
+section1: Wet
+start2: Salt
+section2: Dry
+start3: Frozen banana
 section3: Frosting
 start4: 
 section4: 
@@ -20,7 +20,7 @@ start5:
 section5: 
 Prep: 15
 Rest: 
-Cook: 30
+Cook: 40
 Source1: 
 Source2:
 whisk: https://s.samsungfood.com/XHGnM
@@ -59,15 +59,19 @@ Description: Happy Halloween!  Here's an easy cake recipe that's delicious, suga
 Instructions: 
 - Preheat your oven to 350F, and line an 8" circle pan with parchment paper.  Lightly spray the paper with oil<br><br>
 
-- In a large bowl, add all your wet ingredients, and mix with a silicone spatula until fully combined - pumpkin puree, yogurt, nut/seed butter, egg, and sweetener<br><br>
+- In a large bowl, add all your wet ingredients, and mix with a silicone spatula until fully combined - pumpkin puree, yogurt, nut/seed butter, egg, and sweeteners<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-wet.jpg" alt="" class="instruction-image"></center><br>
 
-- To the bowl, add your dry ingredients, and stir until fully combined - oat flour, cornstarch, baking soda, salt, cinnamon, ginger, nutmeg, and cloves<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-dry.jpg" alt="" class="instruction-image"></center><br>
+- To the bowl, add your dry ingredients, and stir until fully combined - salt, cinnamon, ginger, nutmeg, cloves, baking powder, baking soda, cornstarch, and oat flour.  Transfer the batter to the pan, and smooth out the top<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-raw.jpg" alt="" class="instruction-image"></center><br>
 
-- Transfer the batter to the pan, and smooth out the top.  Bake for 30 minutes, or until the internal temperature is at least 205F and a toothpick comes out nearly clean.  Let cool totally in the pan in the fridge<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-raw.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked.jpg" alt="" class="half-page"></center><br>
+- Bake for 40 minutes, or until the internal temperature is at least 205F and a toothpick comes out nearly clean.  Let cool totally in the pan in the fridge<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-1.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-2.jpg" alt="" class="half-page"></center><br>
 
-- In a food processor, blend together cottage cheese, frozen banana, pumpkin seed butter, and cinnamon until smooth and creamy.  Spread on top of the cooled cake, slice, and serve<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting.jpg" alt="" class="instruction-image"></center>
+- In a food processor, blend the frozen bananas until you have a smooth banana ice cream.  Add in the cottage cheese, pumpkin seed butter, and cinnamon, and blend until smooth and creamy<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-1.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-2.jpg" alt="" class="half-page"></center><br>
+
+- Spread on top of the cooled cake, and optionally dust the top with cinnamon.  Slice into 12, and serve<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-not-dusted.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-dusted.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-2.jpg" alt="" class="instruction-image"></center>
 ---

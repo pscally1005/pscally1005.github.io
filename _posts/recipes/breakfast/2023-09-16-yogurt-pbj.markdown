@@ -41,8 +41,9 @@ Instructions:
 
 - Peanut Butter and Jelly - mix in the PB2 and top with your berries<br><br>
 
-- For the other flavors and their nutrition facts, check out the links below<br>
-- <a href="yogurt-banana">Peanut Butter Banana Yogurt Bowl</a><br>
-- <a href="yogurt-apple">Apple Pie Yogurt Bowl</a><br>
-- <a href="yogurt-choc">Chocolate Almond Yogurt Bowl</a><br>
+- For the other flavors and their nutrition facts, check out the links below:<br>
+    <ul><li><a href="yogurt-choc">Chocolate Almond Yogurt Bowl</a></li>
+    <li><a href="yogurt-apple">Apple Pie Yogurt Bowl</a></li>
+    <li><a href="yogurt-banana">Peanut Butter Banana Yogurt Bowl</a></li></ul><br>
+- <center><a href="/recipes/yogurt-choc"><img src="/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/yogurt-apple"><img src="/assets/Food/Breakfast/Yogurt/yogurt-apple.jpg" alt="" class="half-page"><br><br><a href="/recipes/yogurt-banana"><img src="/assets/Food/Breakfast/Yogurt/yogurt-banana.jpg" alt="" class="half-page"></center><hr>
 ---

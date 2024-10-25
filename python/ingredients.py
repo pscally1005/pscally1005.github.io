@@ -234,7 +234,7 @@ def ingredients(food):
         return str("Egg whites")
     elif food == "Eggs, egg yolk, Large, Grade A":
         return str("Egg yolk")
-    elif food == "Shredded mild cheddar cheese by BORDEN":
+    elif food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND":
         return str("Shredded cheddar cheese")
     elif food == "Milk, fat free (skim)":
         return str("Skim milk")
@@ -440,6 +440,8 @@ def ingredients(food):
         return str("Whole wheat tortilla")
     elif food == "Chickpeas pasta by Banza LLC" or food == "Chickpeas pasta, penne by Banza LLC":
         return str("Chickpea pasta")
+    elif food == "Organic red lentil pasta by TOLERANT":
+        return str("Red lentil pasta")
     elif food == "Cornmeal, yellow, whole-grain":
         return str("Cornmeal")
     
