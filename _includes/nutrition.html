@@ -5,7 +5,11 @@
     {% assign servingSizePost = "false" %}
     {% if 
         page.title == "What is a Serving Size?" or 
-        page.title == "Let's Meet the Meats" 
+        page.title == "Let's Meet the Meats" or
+        page.title == "I'm Nuts for Nuts" or
+        page.title == "I See Seeds in Your Future" or
+        page.title == "Beans Beans The Musical Fruit" or
+        page.title == "Going Bananas for Bananas"
     %}
         {% assign servingSizePost = "true" %}
     {% endif %}
@@ -15,7 +19,11 @@
         page.title == "Sweet Potato Boxed Brownies" or 
         page.title == "Fat Replacements in Boxed Brownies" or 
         page.title == "What is a Serving Size?" or 
-        page.title == "Let's Meet the Meats"
+        page.title == "Let's Meet the Meats" or
+        page.title == "I'm Nuts for Nuts" or
+        page.title == "I See Seeds in Your Future" or
+        page.title == "Beans Beans The Musical Fruit" or
+        page.title == "Going Bananas for Bananas"
     %}
         {% assign shorterFacts = "true" %}
     {% endif %}
