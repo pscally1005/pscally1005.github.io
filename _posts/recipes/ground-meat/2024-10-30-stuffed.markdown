@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Turkey & Lentil Stuffed Bell Peppers"
+date:   2024-10-30 00:00:00 -05000
+categories: 
+- Recipes
+- Ground Meat
+permalink: /recipes/stuffed-peppers
+image: /assets/Food/Ground Meat/Stuffed/stuffed-cover.jpg
+ing: stuffed-ing
+facts: stuffed-facts
+section1: Lentils
+start2: Bell pepper
+section2: Peppers
+start3: Grond turkey, 93/7
+section3: Filling
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 30
+Rest: 
+Cook: 90
+Source1: https://www.allrecipes.com/recipe/8284459/jack-o-lantern-stuffed-peppers/
+Source2: 
+whisk: https://s.samsungfood.com/dCttZ
+tags: 
+- ground turkey
+- ground meat
+- ground beef
+- bell pepper
+- peppers
+- stuffed peppers
+- jack o lantern
+- jack o'lantern
+- lentils
+- red split lentils
+Description: These stuffed peppers are filled with ground turkey, red lentils, and my homemade <a href="/recipes/ketchup">Date Sweetened Ketchup</a>.  But they're super customizable.  This post is more of a guide on how to make stuffed peppers; below are different filling options you can try:<br><ul>
+    <li>Replace the ground turkey with either ground beef or <a href="/misc/ground-chicken">ground chicken</a></li>
+    <li>For a more classic (and vegetarian) stuffed pepper, use <a href="/recipes/rice-and-beans">Classic Rice and Beans</a></li>
+    <li>Mediterranean stuffed peppers using my <a href="/recipes/mediterranean-potato-salad">Mediterranean Sweet Potato Salad</a> or <a href="/recipes/bean-salad">Mediterranean 3 Bean Salad</a></li>
+    <li>Fill it with just beans, such as <a href="/recipes/slow-cooked-beans">Slow Cooker Black Beans</a>, <a href="/recipes/refried-beans">Refried Pinto Beans</a>, or <a href="/recipes/baked-beans">No Added Sugar Baked Beans</a><br></li>
+    <li>Replace the <a href="/recipes/red-lentils">lentils</a> with quinoa, <a href="/recipes/cauliflower-rice">cauliflower rice</a>, brown rice, beans, or couscous<br></li></ul>
+Instructions: 
+- In a small pot, add your lentils, water, and chicken bouillon (or salt). Bring to a boil over high heat. Cover, reduce to medium, and let simmer for about 5 minutes, until fully cooked. Set aside. This is just my <a href="/recipes/red-lentils">Easy Red Lentils</a><br><br>
+- <center><img src="/assets/Food/Ground Meat/Stuffed/stuffed-lentils.jpg" alt="" class="instruction-image"></center><br>
+
+- Meanwhile, preheat your oven to 400F, and line an 8" square pan and a large cookie sheet with aluminum foil<br><br>
+
+- Cut the tops of the peppers, and carefully scoop out the ribs and seeds without breaking the peppers. You can also use a small knife to carve a design like I did here. Reserve the pepper tops<br><br>
+- <center><img src="/assets/Food/Ground Meat/Stuffed/stuffed-empty.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Ground Meat/Stuffed/stuffed-carved.jpg" alt="" class="half-page"></center><br>
+
+- In a large bowl, mix together the filling - cooked lentils, ground meat, cheese, BBQ sauce, minced garlic, chili powder, garlic powder, onion powder, cumin, and salt<br><br>
+- <center><img src="/assets/Food/Ground Meat/Stuffed/stuffed-filling.jpg" alt="" class="instruction-image"></center><br>
+
+- Stuff the peppers, packing it down. Optionally add some more cheese on top. Place the top of the pepper back on<br><br>
+- <center><img src="/assets/Food/Ground Meat/Stuffed/stuffed-cheese.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Ground Meat/Stuffed/stuffed-top.jpg" alt="" class="half-page"></center><br>
+
+- Loosely cover the pan with foil, place on top of the cookie sheet (in case of dripping or spilling), and roast at 400F for about 1 hour. Remove the foil, and roast an additional 20-30 minutes. The peppers should be tender and the meat fully cooked (165F). Slice in half to eat<br><br>
+- <center><img src="/assets/Food/Ground Meat/Stuffed/stuffed-cooked-1.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Ground Meat/Stuffed/stuffed-cooked-2.jpg" alt="" class="half-page"></center><br><br>
+
+- To celebrate Halloween, feel free to carve a face into your peppers like Vic did below.  I also paired this with my <a href="/recipes/bbq-meatloaf">standard meatloaf recipe</a> that I instead shaped into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href="/recipes/ketchup">Date Sweetened Ketchup</a> for the blood<br><br>
+- <center><a href="/recipes/bbq-meatloaf"><img src="/assets/Food/Ground Meat/Stuffed/stuffed-halloween-1.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/bbq-meatloaf"><img src="/assets/Food/Ground Meat/Stuffed/stuffed-halloween-2.jpg" alt="" class="half-page"></a></center>
+---

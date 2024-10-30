@@ -120,6 +120,8 @@ def ingredients(food):
         return str("Gochujang")
     elif food == "Sugar free bbq sauce by G HUGHES SMOKEHOUSE":
         return str("Unsweetened BBQ sauce")
+    elif food == "ketchup":
+        return str("Date sweetened ketchup")
     
     # Baking
     elif food == "Now, whole psyllium husks by Now Health Group Inc.":
@@ -390,8 +392,10 @@ def ingredients(food):
         return str("Almonds")
     elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, roasted" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types":
         return str("Peanuts")
-    elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Hersheys Zero Sugar Chocolate Chips" or food == "Semisweet chocolate mini chips by Harris-Teeter Inc.":
+    elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Hersheys Zero Sugar Chocolate Chips":
         return str("Sugar free chocolate chips")
+    elif food == "Semisweet chocolate mini chips by Harris-Teeter Inc." or food == "Chocolate chips, semisweet by Giant Eagle, Inc.":
+        return str("Semi-sweet chocolate chips")
     elif food == "90% cocoa dark chocolate by Lindt" or food == "90% cocoa dark chocolate by Lindt & Sprungli (Schweiz) AG":
         return str("90% chocolate")
     elif food == "Raw cashews" or food == "Nuts, raw, cashew nuts" or food == "Nuts, with salt added, dry roasted, cashew nuts":

@@ -48,8 +48,11 @@ Instructions:
 
 - Rinse the bowl, and use it for the meatloaf. Crack in the egg, and mix together all the ingredients (meat, BBQ sauce, onion, oat flour, cheese, garlic and onion powder, chili powder, and paprika). Breadcrumbs or unflavored casein protein powder can be used in place of oat flour, as I tested in <a href="/misc/meatloaf-experiment">The Effect of Different Breadcrumbs on Meatloaf</a>.  Transfer the mix to the other pan, and shape into a meatloaf. You can also use a bread pan if you like<br><br>
 
-- Bake the meatloaf for about 60 minutes at 350F. The broccoli should take about 45 minutes, so after about 25 minutes, put that in the oven. Cook the meatloaf to at least 165F, and the broccoli is to your liking. Optionally, brush the meatloaf with BBQ sauce during baking<br><br>
+- Bake the meatloaf for about 45 minutes at 350F. The broccoli should also take about 45 minutes.  Cook the meatloaf to at least 165F, and the broccoli is to your liking. Optionally, brush the meatloaf with BBQ sauce during baking<br><br>
 
 - Let the meatloaf rest for at least 10 minutes before slicing (makes about 12 slices, so 1 serving is 2 pieces), and serve with your broccoli. I find that meatloaf is always better the next day actually, as it's less likely to fall apart (and sometimes I prefer it cold imo)<br><br>
-- <center><img src="/assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-5.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-5.jpg" alt="" class="instruction-image"></center><br>
+
+- To celebrate Halloween, I made this recipe and shaped it into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href="/recipes/ketchup">Date Sweetened Ketchup</a> for the blood.  This was paired with <a href="/recipes/stuffed-peppers">Turkey & Lentil Stuffed Bell Peppers</a> that Vic carved a Jack O'Lantern face into<br><br>
+- <center><a href="/recipes/stuffed-peppers"><img src="/assets/Food/Ground Meat/Stuffed/stuffed-halloween-1.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/stuffed-peppers"><img src="/assets/Food/Ground Meat/Stuffed/stuffed-halloween-2.jpg" alt="" class="half-page"></a></center>
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a Serving Size?"
-date:   2024-10-25 00:00:00 -05000
+date:   2024-10-29 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
@@ -97,6 +97,7 @@ tags:
 * <a rel="" target="" href="#pumpkin-puree">Pumpkin Puree</a><br>
 * <a rel="" target="" href="#pumpkin-seeds">Pumpkin Seeds</a><br>
 * <a rel="" target="" href="#quick-oats">Quick Oats</a><br>
+* <a rel="" target="" href="#quinoa">Quinoa</a><br>
 * <a rel="" target="" href="#raisins">Raisins</a><br>
 * <a rel="" target="" href="#red-lentils">Red Lentils</a><br>
 * <a rel="" target="" href="#rice">Rice (Brown)</a><br>
@@ -998,6 +999,20 @@ tags:
     gram1="40"  
     nutritionFacts=nF 
     img1="/assets/Misc/Nutrition/Serving/quick-oats-scaled.jpg"
+%}
+
+<div id="quinoa" class="table-of-contents"></div>
+<br><i><font size="+2">Quinoa</font></i><br>
+{% assign nF = site.data.serving["quinoa-facts"] %}
+{% 
+    include servingSizeInfo.html
+    vol1="1/4 cup raw" 
+    gram1="45"
+    vol2="~3/4 cup cooked" 
+    gram2="135" 
+    nutritionFacts=nF 
+    img1="/assets/Misc/Nutrition/Serving/quinoa-raw-scaled.jpg"
+    img2="/assets/Misc/Nutrition/Serving/quinoa-cooked-scaled.jpg"
 %}
 
 <div id="raisins" class="table-of-contents"></div>
