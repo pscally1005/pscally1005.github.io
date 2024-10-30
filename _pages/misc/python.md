@@ -13,7 +13,7 @@ count: 4
 
 <div class="post-item">
     <a href="/python/Download/flour-convert.py" title="Download" download>
-        <img src="/assets/Misc/Water Absorption/water-cover.jpg" alt="" class="blog-roll-image">
+        <img src="/assets/Misc/Experiments/Water Absorption/water-cover.jpg" alt="" class="blog-roll-image">
         {% assign date = "Apr 11, 2024" %}
         <span class="post-meta">{{ date | date: date_format }}</span>
         <h3 class="post-title">

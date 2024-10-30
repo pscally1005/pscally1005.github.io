@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Nutrition
 permalink: /misc/overshadowed-healthy-foods
-image: /assets/Misc/Overshadowed/Overshadowed Foods.png
+image: /assets/Misc/Nutrition/Overshadowed/Overshadowed Foods.png
 tags: 
 - healthy
 - unhealthy
@@ -15,10 +15,10 @@ tags:
 ---
 <u><font size="+2">Introduction</font></u><br>
 &emsp;This post is essentially the opposite of my <a href="/misc/fake-healthy-foods">'Healthy' Trap Foods</a>.  In that, I went through a long list "trap foods", or foods that are deceptively unhealthy desite common belief and marketing.  On the other hand, here I will be going through some foods that are often overshadowed.  Foods that are healthy, but often given a bad rap.
-<center><img src="/assets/Misc/Overshadowed/diet.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Overshadowed/heartbeat.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/diet.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Overshadowed/heartbeat.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u>: Prioritize nutrient dense whole foods or minimally processed foods
-<center><img src="/assets/Misc/Overshadowed/mineral.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Overshadowed/vegetable.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/mineral.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Overshadowed/vegetable.png" alt="" class="smaller-image"></center><br>
 
 <br><u><font size="+2">List of Foods</font></u><br>
 * <a rel="" target="" href="#bananas">Bananas</a><br>
@@ -35,7 +35,7 @@ tags:
 * <a rel="" target="" href="#popcorn">Popcorn</a><br>
 * <a rel="" target="" href="#potatoes">Potatoes</a><br>
 * <a rel="" target="" href="#red-meat">Red Meat</a><br>
-<center><img src="/assets/Misc/Overshadowed/better-health.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Overshadowed/healthy.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/better-health.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Overshadowed/healthy.png" alt="" class="smaller-image"></center><br>
 
 <div id="bananas" class="table-of-contents"></div>
 <br><i><font size="+2">Bananas</font></i><br>
@@ -57,7 +57,7 @@ tags:
 <br><b>Vitamin B6</b>: 0.37 mg (22 %)
 <br><b>Vitamin C</b>: 8.7 mg (10 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/banana.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/banana.png" alt="" class="smaller-image"></center><br>
 
 <div id="beans" class="table-of-contents"></div>
 <br><i><font size="+2">Beans</font></i><br>
@@ -84,7 +84,7 @@ tags:
 <br><b>Thiamin</b> <i>(Vitamin B1)</i>: 0.067 mg (6 %)
 <br><b>Folate</b> <i>(Vitamin B9)</i>: 28 mcg (7 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/beans.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/beans.png" alt="" class="smaller-image"></center><br>
 
 <div id="brown-rice" class="table-of-contents"></div>
 <br><i><font size="+2">Brown rice</font></i><br>
@@ -110,7 +110,7 @@ tags:
 <br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 0.49 mg (10 %)
 <br><b>Vitamin B6</b>: 0.22 mg (13 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/rice.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/rice.png" alt="" class="smaller-image"></center><br>
 
 <div id="coconut" class="table-of-contents"></div>
 <br><i><font size="+2">Coconut</font></i><br>
@@ -121,7 +121,7 @@ tags:
 &emsp;Besides fat, coconut is also quite high in fiber.  <a href="https://www.nutritionvalue.org/Organic_coconut_flour_by_Bob%27s_Red_Mill_Natural_Foods%2C_Inc._547983_nutritional_value.html">Coconut flour</a> in particular contains 5 g of fiber in 2 tbsp (14 g).  Plus, coconut flour is defatted, containing only 1.5 g in 2 tbsp, making it lower in calories if that's a concern.  As for micronutrients, coconut is a good source of copper, manganese, iron, and selenium.
 <br><br>
 &emsp;I doubt you will be consuming a whole, fresh coconut, so I won't include nutrition facts for it here.  There's so many different types of coconut products for you to enjoy: <a href="https://www.nutritionvalue.org/Nuts%2C_not_sweetened%2C_dried_%28desiccated%29%2C_coconut_meat_nutritional_value.html?size=1+oz+%3D+28.35+g">unsweetened coconut flakes</a>, <a href="https://www.nutritionvalue.org/Oil%2C_coconut_nutritional_value.html">coconut oil</a>, <a href="https://www.nutritionvalue.org/Coconut_water%2C_unsweetened_42403010_nutritional_value.html?size=240+g">unsweetened coconut water</a>, and more.  Just don't go calling coconut sugar healthier than regular granulated sugar; you get kicked off the island for that.
-<center><img src="/assets/Misc/Overshadowed/coconut.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/coconut.png" alt="" class="smaller-image"></center><br>
 
 <div id="chocolate" class="table-of-contents"></div>
 <br><i><font size="+2">Chocolate</font></i><br>
@@ -149,7 +149,7 @@ tags:
 <br><b>Vitamin K</b>: 2.7 mcg (2 %)
 <br><b>Choline</b>: 13 mg (2 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/cacao.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/cacao.png" alt="" class="smaller-image"></center><br>
 
 <div id="eggs" class="table-of-contents"></div>
 <br><i><font size="+2">Eggs</font></i><br>
@@ -175,7 +175,7 @@ tags:
 <br><b>Vitamin D</b>: 1.2 mcg (6 %)
 <br><b>Choline</b>: 169 mg (31 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/fried-egg.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/fried-egg.png" alt="" class="smaller-image"></center><br>
 
 <div id="fish" class="table-of-contents"></div>
 <br><i><font size="+2">Fish</font></i><br>
@@ -207,7 +207,7 @@ tags:
 <br><b>Vitamin B12</b> <i>(Colbalamin)</i>: 3.2 mcg (132 %)
 <br><b>Vitamin D</b>: 11 mcg (55 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/fish.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/fish.png" alt="" class="smaller-image"></center><br>
 
 <div id="milk" class="table-of-contents"></div>
 <br><i><font size="+2">Milk</font></i><br>
@@ -239,7 +239,7 @@ tags:
 <br><b>Vitamin B12</b> <i>(Colbalamin)</i>: 1.4 mcg (59 %)
 <br><b>Vitamin D</b>: 2.7 mcg (13 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/milk.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/milk.png" alt="" class="smaller-image"></center><br>
 
 <div id="nuts" class="table-of-contents"></div>
 <br><i><font size="+2">Nuts and Seeds</font></i><br>
@@ -286,7 +286,7 @@ tags:
 <br><b>Riboflavin</b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
 <br><b>Vitamin E</b>: 7.3 mg (48 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/nuts.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/nuts.png" alt="" class="smaller-image"></center><br>
 
 <div id="oats" class="table-of-contents"></div>
 <br><i><font size="+2">Oats</font></i><br>
@@ -331,7 +331,7 @@ tags:
 <br><b>Thiamin</b> <i>(Vitamin B1)</i>: 0.22 mg (18 %)
 <br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 0.28 mg (6 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/oatmeal.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/oatmeal.png" alt="" class="smaller-image"></center><br>
 
 <div id="peanut-butter" class="table-of-contents"></div>
 <br><i><font size="+2">Peanut Butter</font></i><br>
@@ -357,7 +357,7 @@ tags:
 <br><b>Niacin</b> <i>(Vitamin B3)</i>: 4.2 mg (26 %)
 <br><b>Vitamin E</b>: 2.9 mg (19 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/peanut-butter.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/peanut-butter.png" alt="" class="smaller-image"></center><br>
 
 <div id="popcorn" class="table-of-contents"></div>
 <br><i><font size="+2">Popcorn</font></i><br>
@@ -383,7 +383,7 @@ tags:
 <br><b>Niacin</b> <i>(Vitamin B3)</i>: 0.92 mg (6 %)
 <br><b>Vitamin B6</b>: 0.06 mg (4 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/popcorn.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/popcorn.png" alt="" class="smaller-image"></center><br>
 
 <div id="potatoes" class="table-of-contents"></div>
 <br><i><font size="+2">Potatoes</font></i><br>
@@ -420,7 +420,7 @@ tags:
 <br><b>Vitamin B6</b>: 0.51 mg (50 %)
 <br><b>Vitamin C</b>: 36 mg (37 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/potato.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/potato.png" alt="" class="smaller-image"></center><br>
 &emsp;Sweet potatoes are often thought of as a healthier potato.  Not only do they taste better (imo), but sweet potatoes are loaded with vitamin A, which is beneficial for eye and immune health.  Despite being higher in sugar (there's no need to avoid whole food sugars), sweet potatoes have a lower glycemic index (GI) value than regular potatoes: 70 compared to 85.  Again, make sure to eat the potato skins.  For 1 medium <a href="https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=170+g">sweet potato</a> (170 g):
 <br>------------------------------------------
 <br><b>Calories</b>: 146
@@ -441,7 +441,7 @@ tags:
 <br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 1.4 mg (27 %)
 <br><b>Vitamin B6</b>: 0.36 mg (21 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/sweet-potato.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/sweet-potato.png" alt="" class="smaller-image"></center><br>
 
 <div id="red-meat" class="table-of-contents"></div>
 <br><i><font size="+2">Red Meat</font></i><br>
@@ -470,7 +470,7 @@ tags:
 <br><b>Vitamin B12</b> <i>(Colbalamin)</i>: 2.2 mcg (93 %)
 <br><b>Choline</b>: 69 mg (13 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Overshadowed/grilling.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/grilling.png" alt="" class="smaller-image"></center><br>
 
 <br><u><font size="+2">Sources</font></u><br>
 1. <a href="https://www.flaticon.com/">FlatIcon</a><br>

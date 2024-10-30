@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Costs
 permalink: /misc/protein-source
-image: /assets/Misc/Protein costs/cover.jpg
+image: /assets/Misc/Cost/Protein/cover.jpg
 tags: 
 - experiment
 - protein cost

@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Cooking Tips
 permalink: /misc/ingredient-substitutions
-image: /assets/Misc/Substitutions/Substitutions.jpg
+image: /assets/Misc/Cooking/Substitutions/Substitutions.jpg
 tags: 
 - ingredients
 - substitutions
@@ -48,7 +48,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;Sometimes, you don't have the exact ingredients for a recipe on hand;  and that's okay!  You don't need to follow a recipe to a tee (not even my own, I certainly don't lol).  Knowing how and when to do some simple ingredient swaps not only makes cooking easier and less stressful, but it will also make you a better cook, as you will learn to adapt your food on the fly.
 
-<center><img src="/assets/Misc/Substitutions/switch.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/diet.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/switch.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/diet.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Substitutions</font></u><br>
 * <a rel="" target="" href="#beans">Beans</a><br>
@@ -62,7 +62,7 @@ tags:
 * <a rel="" target="" href="#vegetables">Vegetables</a><br>
 * <a rel="" target="" href="#yogurt">Yogurt</a><br>
 
-<center><img src="/assets/Misc/Substitutions/food.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/cooking (1).png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/food.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/cooking (1).png" alt="" class="smaller-image"></center><br>
 
 <div id="beans" class="table-of-contents-2"></div>
 <i><font size="+2">Beans</font></i><br>
@@ -78,13 +78,13 @@ tags:
 - Pink beans
 - Pinto beans
 
-<center><img src="/assets/Misc/Substitutions/beans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/beans (1).png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/beans.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/beans (1).png" alt="" class="smaller-image"></center><br>
 
 <div id="flours" class="table-of-contents-2"></div>
 <i><font size="+2">Flours</font></i><br>
 &emsp;If you happened to read through my <a href="/misc/water-absorption">Water Absorption of Different Flours</a> post, you'll know what many flours absorb water differently than others.  For example, if you're making my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a>, you should reduce the flour from 240 g to 215 g if you are to replace the all purpose flour with whole wheat flour.
 
-<center><img src="/assets/Misc/Substitutions/flour.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/flour (1).png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/flour.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/flour (1).png" alt="" class="smaller-image"></center><br>
 
 &emsp;It sucks that I'm doing this list alphabetically, because this is probably the hardest swap.  In general though, you can probably use the following flours interchangeably at a 1:1 ratio by volume without too much difference in taste or texture, as long as you're not making a loaf of bread.  Always add a little less than you originally would, and judge based on feel:
 - Whole wheat flour
@@ -96,11 +96,11 @@ tags:
 
 &emsp;The one exception I will point out is coconut flour, as it absorbs water about 4x as much as other flours.  If you look up estimates (and based on my experiments in <a href="/misc/water-absorption">Water Absorption of Different Flours</a>), you should use about 1/4 cup coconut flour to replace 1 cup of flour.
 
-<center><img src="/assets/Misc/Substitutions/wheat-flour.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/coconut.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/wheat-flour.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/coconut.png" alt="" class="smaller-image"></center><br>
 
 &emsp;As they say: Cooking is an art, but baking is a science.  Simply swapping one type of flour for another can cause some issues, but feel free to experiment and see what works best for you and your diet.
 
-<center><img src="/assets/Misc/Substitutions/cooking.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/whisk.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/cooking.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/whisk.png" alt="" class="smaller-image"></center><br>
 
 <div id="grains" class="table-of-contents-2"></div>
 <i><font size="+2">Grains</font></i><br>
@@ -117,11 +117,11 @@ tags:
 - Shredded cabbage
 - Bean sprouts
 
-<center><img src="/assets/Misc/Substitutions/spaguetti.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/instant-noodles.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/spaguetti.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/instant-noodles.png" alt="" class="smaller-image"></center><br>
 
 &emsp;Yes, even some very non-traditional things like lentils or cooked vegetables can work well as a pasta replacement if you're gluten free or want to lower your refined grain intake.  Who says you can't put pesto on beans and have a bowl of beans instead of a bowl of pasta?
 
-<center><img src="/assets/Misc/Substitutions/rice.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/rice-bowl.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/rice.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/rice-bowl.png" alt="" class="smaller-image"></center><br>
 
 &emsp;The following are all great swaps for rice as well.  As opposed to pasta (where you'd put a liquid sauce on them), rice would be mixed with dried spices, like in <a href="/recipes/rice-and-beans">Classic Rice and Beans</a> or <a href="/recipes/cauliflower-rice">Simple Cauliflower Rice</a>.
 - Brown rice
@@ -134,7 +134,7 @@ tags:
 - Barley
 - Amaranth
 
-<center><img src="/assets/Misc/Substitutions/biryani.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/red-beans.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/biryani.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/red-beans.png" alt="" class="smaller-image"></center><br>
 
 <div id="meat" class="table-of-contents-2"></div>
 <i><font size="+2">Meat</font></i><br>
@@ -148,11 +148,11 @@ tags:
 - Tofu
 - <a href="/recipes/veggie-ground">High Protein Veggie Ground</a>
 
-<center><img src="/assets/Misc/Substitutions/minced-meat.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/tofu.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/minced-meat.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/tofu.png" alt="" class="smaller-image"></center><br>
 
 &emsp;You can also replace chunks of meat (like diced chicken breast or thighs) with ground meat, and vise versa.  Note that chicken breast is very lean, and thus should not be used for any long cooking dishes like <a href="/recipes/chili">Slow Cooker Chili</a> or <a href="/recipes/chicken-noodle-stew">Chicken Noodle Stew</a>.  But as I showed in my <a href="/recipes/penne-casserole">Penne and Meat Casserole Bake</a>, you can replace easily ground meat for <a href="/recipes/baked-chicken-thighs">Easy Baked Chicken Thighs</a>.  But any sort of dish where you sautee meat (like <a href="/recipes/nam-sod">Nam Sod</a> or <a href="/recipes/korean-chicken">Korean Chicken and Broccoli</a>) can easily be swapped for anything else, from chicken breast, to ground turkey, to tofu.
 
-<center><img src="/assets/Misc/Substitutions/chicken-breast.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/katsu.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/chicken-breast.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/katsu.png" alt="" class="smaller-image"></center><br>
 
 <div id="milk" class="table-of-contents-2"></div>
 <i><font size="+2">Milk</font></i><br>
@@ -170,15 +170,15 @@ tags:
 - Unsweetened pea milk
 - Water
 
-<center><img src="/assets/Misc/Substitutions/almond-milk.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/oats.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/almond-milk.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/oats.png" alt="" class="smaller-image"></center><br>
 
 &emsp;As is the case with <a rel="" target="" href="#yogurt">yogurt</a>, always make sure to get anything labeled as "plain" or "unsweetened".  Many flavors like vanilla, chocolate, or strawberry are loaded with added sugars.
 
-<center><img src="/assets/Misc/Substitutions/milk.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/soy-milk.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/milk.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/soy-milk.png" alt="" class="smaller-image"></center><br>
 
 &emsp;You can also make your own <a href="/recipes/oat-milk">Homemade Plant Based Milk</a> with oats, peanuts, almonds, etc.  All these substitutes for milk should work just fine in your drinks, baking, and breakfast needs (such as <a href="/recipes/electrolyte-protein-shake">Electrolyte Protein Shake</a>, <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>, and <a href="/recipes/omega-3-yogurt-bowl">Omega-3 Yogurt Bowl</a>).
 
-<center><img src="/assets/Misc/Substitutions/coconut-milk.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/milk (1).png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/coconut-milk.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/milk (1).png" alt="" class="smaller-image"></center><br>
 
 <div id="nut-butter" class="table-of-contents-2"></div>
 <i><font size="+2">Nut Butter</font></i><br>
@@ -194,7 +194,7 @@ tags:
 - Tahini
 - Coconut butter
 
-<center><img src="/assets/Misc/Substitutions/peanut-butter.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/almond-butter.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/peanut-butter.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/almond-butter.png" alt="" class="smaller-image"></center><br>
 
 <div id="nuts-and-seeds" class="table-of-contents-2"></div>
 <i><font size="+2">Nuts and Seeds</font></i><br>
@@ -218,11 +218,11 @@ tags:
 - Poppy seeds
 - Unsweetened shredded coconut
 
-<center><img src="/assets/Misc/Substitutions/nuts.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/pistachio.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/nuts.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/pistachio.png" alt="" class="smaller-image"></center><br>
 
 &emsp;Speaking of pesto, I have been known to swap the pine nuts in pesto for whatever nuts I have on hand.  I used pine nuts in my <a href="/recipes/avocado-pesto">Avocado Pesto</a>, but I've also used walnuts in <a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a>, almonds in <a href="/recipes/evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a>, and even peanuts in <a href="/recipes/creamy-pesto">Creamy Pesto Dip</a>.
 
-<center><img src="/assets/Misc/Substitutions/pesto-genovese.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/nuts (1).png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/pesto-genovese.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/nuts (1).png" alt="" class="smaller-image"></center><br>
 
 <div id="sweetener" class="table-of-contents-2"></div>
 <i><font size="+2">Sweeteners</font></i><br>
@@ -232,15 +232,15 @@ tags:
 - Sugar free syrup
 - Molasses
 
-<center><img src="/assets/Misc/Substitutions/honey.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/maple-syrup.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/honey.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/maple-syrup.png" alt="" class="smaller-image"></center><br>
 
 &emsp;Dates, or any other dried fruit (raisins, figs, etc.), can also be a great sweetener.  A good ratio I've found is to make a date paste by blending 1/3 cup (80 g) hot water with 1/2 cup (80 g) dates.  This should be about the same sweetness as 1/4 cup of honey or maple syrup.  Note that you will have some extra liquid though, so you may need to reduce other liquid ingredients, or use more dry ingredients.  
 
-<center><img src="/assets/Misc/Substitutions/dates.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/fig.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/dates.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/fig.png" alt="" class="smaller-image"></center><br>
 
 &emsp;I've used dates as a sweetener in various desserts and snacks, such as my <a href="/recipes/energy-bites">No Bake Energy Bites</a>, <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Coookies</a>, and <a href="/recipes/date-brownie">Almond Date Brownies</a>.  Likewise, I've used liquid sweeteners like honey or maple syrup in my <a href="/recipes/double-chocolate-banana-bread">Double Chocolate Banana Bread</a>, <a href="/recipes/peanut-butter-pie">Peanut Butter Banana Pie</a>, and <a href="/recipes/sweet-potato-blondies">Sweet Potato Blondies</a>.  Typically I reserve dates for any dessert that needs blending, whereas I'd opt for honey in something that simply gets mixed in a bowl.  But swap in whatever you like, and adjust to taste for your desired sweetness.
 
-<center><img src="/assets/Misc/Substitutions/cookie.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/brownies.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/cookie.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/brownies.png" alt="" class="smaller-image"></center><br>
 
 &emsp;As for granular sweeteners, if you are looking for a substitute for white sugar, any sort of granular low calorie sweetener will work.  They can be replace 1:1 by volume for granulated sugar; examples include:
 - Erythritol
@@ -248,17 +248,17 @@ tags:
 - Stevia
 - Monk fruit
 
-<center><img src="/assets/Misc/Substitutions/sugar-free.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/spoon.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/sugar-free.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/spoon.png" alt="" class="smaller-image"></center><br>
 
 &emsp;I don't typically use or buy granular sweeteners, but I have occasionally used them in the past.  Examples include my <a href="/recipes/rainbow-cookies">Monk Fruit Rainbow Cookies</a> or <a href="/recipes/amaretti">Amaretti Cookies with Monkfruit</a>, where I simply swapped granulated sugar 1:1 with granulated monk fruit.  I have been wanting to try and make my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a> with allulose and change nothing else to see what differences there are in taste or texture...maybe someday.
 
-<center><img src="/assets/Misc/Substitutions/amaretti.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/sugar.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/amaretti.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/sugar.png" alt="" class="smaller-image"></center><br>
 
 <div id="vegetables" class="table-of-contents-2"></div>
 <i><font size="+2">Vegetables</font></i><br>
 &emsp;This might seem like an odd category, but hear me out.  How often have you looked up a recipe that calls for a few different types of vegetables that you don't have?  If you know how to roast or sautee veggies, you can really swap out any vegetable for anything.  I have a guide, <a href="/recipes/roasted-vegetables">Simply Roasted Vegetables</a>, that has examples of a few vegetables and how long they'll take to cook at 400F.
 
-<center><img src="/assets/Misc/Substitutions/healthy-food.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/vegetables.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/healthy-food.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/vegetables.png" alt="" class="smaller-image"></center><br>
 
 &emsp;Here's a list of some vegetables I've swapped around in the past.  Feel free to experiment here; this is just a few examples I could come up with:<br><br>
 
@@ -273,7 +273,7 @@ tags:
 - Beet greans
 - Mustard greens
 
-<center><img src="/assets/Misc/Substitutions/greens.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/kale.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/greens.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/kale.png" alt="" class="smaller-image"></center><br>
 
 <i>Cooked Vegetables</i>
 - Peppers
@@ -288,7 +288,7 @@ tags:
 - Mushrooms
 - Tomatoes
 
-<center><img src="/assets/Misc/Substitutions/carrot.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/eggplant.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/carrot.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/eggplant.png" alt="" class="smaller-image"></center><br>
 
 <i>Cruciferous Vegetables</i>
 - Broccoli
@@ -303,7 +303,7 @@ tags:
 - Mustard greens
 - Watercress
 
-<center><img src="/assets/Misc/Substitutions/broccoli.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/red-cabbage.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/broccoli.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/red-cabbage.png" alt="" class="smaller-image"></center><br>
 
 <i>Starchy Vegetables</i>
 - Sweet potatoes
@@ -316,7 +316,7 @@ tags:
 - Potatoes
 - Corn
 
-<center><img src="/assets/Misc/Substitutions/sweet-potato.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/squash.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/sweet-potato.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/squash.png" alt="" class="smaller-image"></center><br>
 
 <i>Noodle Replacements</i>
 - Spaghetti squash
@@ -328,7 +328,7 @@ tags:
 - Bean sprouts
 - Shirataki noodles
 
-<center><img src="/assets/Misc/Substitutions/zucchini.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/instant-noodles (1).png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/zucchini.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/instant-noodles (1).png" alt="" class="smaller-image"></center><br>
 
 <div id="yogurt" class="table-of-contents-2"></div>
 <i><font size="+2">Yogurt</font></i><br>
@@ -340,11 +340,11 @@ tags:
 - 1% fat cottage cheese
 - Nonfat cottage cheese
 
-<center><img src="/assets/Misc/Substitutions/yogurt.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/cow.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/yogurt.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/cow.png" alt="" class="smaller-image"></center><br>
 
 &emsp;As is the case with <a rel="" target="" href="#milk">milk</a>, always make sure to get anything labeled as "plain" or "unsweetened".  Any sort of flavor, like strawberry, vanilla, or peach will all be loaded with added sugars
 
-<center><img src="/assets/Misc/Substitutions/sugar-free (1).png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Substitutions/yogurt (1).png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Cooking/Substitutions/sugar-free (1).png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Substitutions/yogurt (1).png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Image Sources</font></u><br>
 <a href="https://www.flaticon.com/">Flaticon</a>

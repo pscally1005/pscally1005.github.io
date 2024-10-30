@@ -93,7 +93,7 @@ def main():
     scale_images_in_directory(path_images)
 
     path_csv = r'C:\Users\mets1\Documents\website\_data\serving\*.csv'
-    # path_csv = r'C:\Users\mets1\Documents\website\_data\meat\*.csv'
+    # path_csv = r'C:\Users\mets1\Documents\website\_data\fruit\*.csv'
     # path_csv = r'C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\nuts\*.csv'
     split_csv_file(path_csv)
 

@@ -7,7 +7,7 @@ categories:
 - Nutrition
 - Archive
 permalink: /misc/trap-foods-sweet-spreads
-image: /assets/Misc/Trap/sweet.jpg
+image: /assets/Misc/Nutrition/Trap/sweet.jpg
 tags: 
 - healthy
 - unhealthy
@@ -47,7 +47,7 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Trap/risk.jpg" alt="" class="larger-image"></a></center><br>
+<center><a href="https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html"><img src="/assets/Misc/Nutrition/Trap/risk.jpg" alt="" class="larger-image"></a></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -55,7 +55,7 @@ tags:
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href="https://memes.com/tag/nutrition"><img src="/assets/Misc/Trap/nutrition.jpg" alt="" class="larger-image"></a></center>
+<center><a href="https://memes.com/tag/nutrition"><img src="/assets/Misc/Nutrition/Trap/nutrition.jpg" alt="" class="larger-image"></a></center>
 <u><font size="+2">Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
@@ -66,70 +66,70 @@ tags:
 * <a rel="" target="" href="#unrefined-sugar">Unrefined Sugars</a><br>
 * <a rel="" target="" href="#sugar-substitutes">Sugar Substitutes</a><br>
 
-<br><center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Trap/sugar.jpg" alt="" class="larger-image"></a></center><br>
+<br><center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Nutrition/Trap/sugar.jpg" alt="" class="larger-image"></a></center><br>
 
 <div id="peanut-butter" class="table-of-contents"></div>
 <br><i><font size="+2">Peanut Butter</font></i><br>
 &emsp;<a href="/recipes/natural-peanut-butter">Natural nut butter</a> is the nectar of the gods.  Not only is it absolutely delicious, but it's very good for you.  Peanut butter has all the same downisdes as regular nuts though, but even worse, as it's even easier to over eat.  Just a large spoonful, or about 2 tbsp (32 g), of peanut butter contains 190 calories.  So while its packed with healthy fats and micronutrients, you need to be very mindful of your nut butter consumption, as the calories can add up very very quickly.  If you're eating peanut butter with your apple, you'll probably end up consuming twice as many caloreis from peanut butter than from the apple itself.
 
-<center><img src="/assets/Misc/Trap/pb.jpg" alt="" class="larger-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Trap/pb.jpg" alt="" class="larger-image"></center><br>
 &emsp;However, overconsumption isn't even the main problem with peanut butter.  The problem is the fake "no stir" peanut butter, that also contain hydroginated oils and sugar.  This peanut spread is cheaper than even buying your own peanuts and grinding them yourself, just fueling the problem (remember: sugar and oil are subsidized and therefore very cheap).  Just like with regular nuts, make sure to only buy peanut butter (or any nut butter) that is labeled as natural, and contains only nuts and salt.  My favorite brands (when I don't make it myself) are <a href="https://www.walmart.com/ip/Teddie-All-Natural-Smooth-Peanut-Butter-36-oz/640652420?from=/search">Teddie</a> and Trader Joe's.  Stay away from any flavored nut butters, especially...
 
 <div id="nutella" class="table-of-contents"></div>
 <br><i><font size="+2">Nutella</font></i><br>
 &emsp;...nutella.  Nutella has a lot of nerve to call itself hazelnut spread, considering its just a sugar and fat spread.  A jar of nutella is 58% sugar and 30% palm oil; only just 13% of the jar contains actual hazelnuts.  Nutella is way more of a jelly substitute than a peanut butter one.  A 2 tbsp (37 g) serving contains 200 calories and a whopping 18 g of added sugar; that's 5 teaspoons!.  You know what contains 17 g of added sugar in the same serving size?  That's right, <a href="https://www.walmart.com/ip/Betty-Crocker-Rich-Creamy-Milk-Chocolate-Frosting-Gluten-Free-Frosting-16-oz/10311570?athbdg=L1200&from=/search">Chocolate Frosting</a>, and the frosting is actually lower in fat and calories. And you and me both know we're going to eat more than just 1 serving.
 
-<center><a href="https://www.theguardian.com/lifeandstyle/shortcuts/2017/jan/20/is-nutella-really-that-bad-for-you"><img src="/assets/Misc/Trap/nutella.jpg" alt="" class="larger-image"></a></center><br>
+<center><a href="https://www.theguardian.com/lifeandstyle/shortcuts/2017/jan/20/is-nutella-really-that-bad-for-you"><img src="/assets/Misc/Nutrition/Trap/nutella.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;If you love nutella, then consider making it yourself, where you can control the sweetness, and totally eliminated the hydroginated oils.  I have a recipe for <a href="/recipes/nutella">Roasted Hazelnut Nutella</a> that's free of added sugars and oils.  Just roast and blend hazelnuts (or peanuts) into a smooth nut butter, and add in some chocolate and bananas for sweetness.  Tastes way better than the jar, and isn't a total sugar bomb.
 
 <div id="jelly" class="table-of-contents"></div>
 <br><i><font size="+2">Jelly and Jam</font></i><br>
 &emsp;I love a good PB&J.  Which means using a good <a rel="" target="" href="#peanut-butter">peanut butter</a>, jelly, and <a rel="" target="" href="/misc/trap-foods-grains#bread">bread</a>.  Here, we're tackling jelly and jam though.  A jam is ideally just simmered fruit that's mildly sweetened, just like my <a href="/recipes/berry-jam">Low Sugar Berry Jam</a> or <a href="/recipes/strawberry-chia-jam">Strawberry Chia Jam</a>.  The problem is that most jellies and jams are just sugar spreads.  A 1 tbsp (20 g) serving of <a href="https://www.walmart.com/ip/Smucker-s-Concord-Grape-Jelly-18-Ounces/10321567?from=/search">Smuckers Grape Jelly</a> contains 12 g of sugar.  That's 60% sugar (about the same as <a rel="" target="" href="#nutella">nutella</a>), and with none of the fiber from the whole fruit.  Even jellies that claim to be healthy may just be using sugar under different names, like evaporated cane juice or apple juice concentrate.
 
-<center><a href="https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321"><img src="/assets/Misc/Trap/jelly.jpg" alt="" class="larger-image"></a></center><br>
+<center><a href="https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321"><img src="/assets/Misc/Nutrition/Trap/jelly.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Outside of making your own jam, your best bets are any low sugar jam or jelly, with less than 4-5 g of added sugar per serving.  Trader Joe's has some good low sugar jellies, jams, and preserves.  <a href="https://www.walmart.com/ip/Good-Good-Keto-Friendly-Sweet-Strawberry-Jam-12-oz-1-Count/212702301?from=/search">Good Good</a> is also a good stevia sweetened jam brand, and this <a href="https://www.walmart.com/ip/Smucker-s-Low-Sugar-Reduced-Sugar-Strawberry-Preserves-15-5-Ounces/10308118?from=/search">Smuckers Low Sugar Strawberry Preserves</a> is a decent option.  Just stay away from any jellies labeled as "Sugar free" (like <a href="https://www.walmart.com/ip/Smucker-s-Sugar-Free-Concord-Grape-Jam-with-Splenda-Brand-Sweetener-12-75-Ounces/10308139?athbdg=L1200&from=/search">this one</a>), as those are sweetened with <a rel="" target="" href="#sugar-substitutes">sucralose</a> and taste disgusting.
 
 <div id="unrefined-sugar" class="table-of-contents"></div>
 <br><i><font size="+2">Unrefined Sugars</font></i><br>
 &emsp;Very often, I see recipes that are "sugar free", meaning they replace any white or brown sugar with some other natural, less refined sweetener.  While it is true that these may offer some very minimal health benefits, at the end of the day they are still just concentrated sugar that needs to be moderated.  
 
-<center><a href="https://www.nutrientsreview.com/carbs/disaccharides-sucrose.html"><img src="/assets/Misc/Trap/sucrose.jpg" alt="" class="larger-image"></a></center><br>
+<center><a href="https://www.nutrientsreview.com/carbs/disaccharides-sucrose.html"><img src="/assets/Misc/Nutrition/Trap/sucrose.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;To start though, what even is sugar?  I've mentioned it a lot here, but what exactly is it?  Here's the really rough chemistry lesson:  <a href="https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-4-lb/10315162?athbdg=L1200&from=/search">White sugar</a>, or sucrose, is a chemical bond of 50% glucose (your body's main energy source) and 50% fructose (what's actually sweet, typically found in fruit).  It is typically made from dehydrated sugar cane or beets.  <a href="https://www.walmart.com/ip/Great-Value-Light-Brown-Sugar-32-oz/10315012?athbdg=L1600&from=/search">Brown sugar</a> is simply just white sugar plus molasses.  High intakes of sugar, particilarly fructose, can lead to diabetes, heart disease, fatty liver, Alzheimer's, high blood pressure, and much much more.  
 
-<center><a href="https://www.27fchileanway.cl/is-high-fructose-corn-syrup-worse-than-fructose/"><img src="/assets/Misc/Trap/hfcs.jpg" alt="" class="larger-image"></a></center><br>
+<center><a href="https://www.27fchileanway.cl/is-high-fructose-corn-syrup-worse-than-fructose/"><img src="/assets/Misc/Nutrition/Trap/hfcs.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;High fructose corn syrup on the other hand comes from corn (duh), and is about 45% glucose to 55% fructose.  The main difference is that the glucose and fructose are not bonded together; instead they are free molecules.  This means that the fructose does even more damage to your body than standard sugar.  You can't even commercially buy high fructose corn syrup; I think that's telling of how bad it is for you.
 
-<center><a href="https://www.sdxtraining.com/articles/how-the-body-absorbs-sugar-high-fructose-corn-syrup"><img src="/assets/Misc/Trap/hfcs2.jpg" alt="" class="larger-image"></a></center><br>
+<center><a href="https://www.sdxtraining.com/articles/how-the-body-absorbs-sugar-high-fructose-corn-syrup"><img src="/assets/Misc/Nutrition/Trap/hfcs2.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;So what are the "unrefined" sugars then?  Let's start with the granulated ones first: <a href="https://www.walmart.com/ip/BetterBody-Foods-Organic-Coconut-Palm-Sugar-24-oz/296443014?athbdg=L1200&from=/search">coconut sugar</a> and <a href="https://www.walmart.com/ip/Health-Garden-Organic-Date-Sugar-Sweetener-16-oz-453-g/1221064330?from=/search">date sugar</a>.  These are essentially the exact same thing as regular granulated sugar.  Instead of dehydrating a sugar cane or beet and making it into a pure sugar, it's instead done with dates or coconut.  Okay in moderation like all added sugar, but really just the same product from a different fruit.  And no, <a href="https://www.walmart.com/ip/Great-Value-Organic-Granulated-Cane-Sugar-4-lbs/945590425?from=/search">organic cane sugar</a> is not any better for you.  You're just spending more money for the same product.
 
 &emsp;Next up are the liquid sweeteners.  My mind goes to <a href="https://www.walmart.com/ip/Great-Value-Honey-12-oz-Plastic-Bear/20647992?athbdg=L1200&from=/search">honey</a>, <a href="https://www.walmart.com/ip/Great-Value-Pure-Maple-Syrup-12-5-fl-oz/13925187?athbdg=L1200&from=/search">maple syrup</a>, <a href="https://www.walmart.com/ip/Great-Value-Organic-Golden-Blue-Agave-Sweetener-Sugar-Substitute-23-5-oz-Bottle/280871866?from=/search">agave</a>, <a href="https://www.walmart.com/ip/Original-Date-Syrup-1-5-lb/156444591?athbdg=L1200&from=/search">date syrup</a>, and <a href="https://www.walmart.com/ip/Grandma-s-Original-Unsulphured-Molasses-12-fl-oz/15716722?athbdg=L1200&from=/search">molasses</a>.  With the exception of molasses, all these liquid sweeteners are more fructose than glucose, wtih agave being the worst offender at 85% fructose.  In equal quantities, agave might actually be worse for you than high fructose corn syrup.  Molasses is mostly glucose, which is why it's not that sweet, despite being entirely sugar.
 
-<center><img src="/assets/Misc/Trap/sweeteners.jpg" alt="" class="larger-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Trap/sweeteners.jpg" alt="" class="larger-image"></center><br>
 &emsp;I often like to say that sugar has a taste (sweetness is one of the main 5 tastes), but it doesn't have a flavor.  Refined sugar is so, well, refined, that it is devoid of any flavor, only concentrated sweetness.  These "unrefined" sugars on the other hand have a distinct flavor.  The benefit of using honey or maple syrup in a recipe (which I definitely do from time to time) is that you can rely on the flavors of the sweetener, and use substantially less.
 
 &emsp;The dose totally makes the poison; using 2 tbsp (42 g) of honey or maple syrup in a midly sweetened dessert is much better for you than 1 cup (200 g) of granulated sugar in your cookies.  But if a recipe uses more than 1/4 cup of sweetener, you should be probably rethinking it's claim of being "healthy".  I'm looking at you, healthy cookie recipes with 3/4 cup of honey or 1 cup of coconut sugar
 
-<center><a href="https://www.reddit.com/r/memes/comments/hlmdpw/healthy_food/"><img src="/assets/Misc/Trap/american.jpg" alt="" class="larger-image"></a></center><br>
+<center><a href="https://www.reddit.com/r/memes/comments/hlmdpw/healthy_food/"><img src="/assets/Misc/Nutrition/Trap/american.jpg" alt="" class="larger-image"></a></center><br>
 <div id="sugar-substitutes" class="table-of-contents"></div>
 <br><i><font size="+2">Sugar Substitutes</font></i><br>
 &emsp;Sugar substitutes are typically low calorie sweeteners that does not contain any sugar, but are instead sweetened through something else.  The first category is artificial sweeteners, where the main ones are sucralose (<a href="https://www.walmart.com/ip/Splenda-Zero-Calorie-Sweetener-Packets-200CT/604471504?from=/search">Splenda</a>), Saccharin (<a href="https://www.walmart.com/ip/Sweet-N-Low-Zero-Calorie-Sweetener-100-count-3-5-oz/733236202?athbdg=L1600&from=/search">Sweet'N Low</a>), and aspartame (<a href="https://www.walmart.com/ip/Equal-Zero-Calorie-Sweetener-Packets-Sugar-Substitute-250-Ct/10316922?athbdg=L1600&from=/search">Equal</a>).  These can be up to 600 times sweeter than sugar.  Additionally, we have the sugar alcohols: <a href="https://www.walmart.com/ip/Swerve-Ultimate-Granular-Sugar-Replacement-12oz/227335563?athbdg=L1200&from=/search">erythritol</a>, <a href="https://www.target.com/p/cary-s-sugar-free-maple-flavored-syrup-24-fl-oz/-/A-13347607?sid=1266S&ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108264736&CPNG=PLA_Dry%2BGrocery%2BShopping_Local%7CDry%2BGocery_Ecomm_Food_Bev&adgroup=SC_Dry%2BGrocery&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9001881&targetid=pla-383930756778&gad_source=1">sorbitol</a>, <a href="https://www.walmart.com/ip/Hershey-s-Zero-Sugar-Chocolate-Baking-Chips-Bag-8-oz/10312014?athbdg=L1600&from=/search">maltitol</a>, and <a href="https://www.walmart.com/ip/Health-Garden-Real-Birch-Xylitol-All-Natural-Sweetener-1-0-LB/51985020?athbdg=L1200&from=/search">xylitol</a>.  The other category is the "natural" sugar substitutes, like <a href="https://www.walmart.com/ip/Stevia-In-The-Raw-Zero-Calorie-Sweetener-100-count-3-5-oz/21296159?athbdg=L1600&from=/search">stevia</a>, <a href="https://www.walmart.com/ip/Lakanto-Classic-Monk-Fruit-Sweetener-White-Sugar-Substitute-Zero-Calorie-Keto-Diet-Friendly-Net-Carbs-Glycemic-Baking-Extract-Replacement-Classic-1-7/47910390?from=/search">monk fruit</a>, and <a href="https://www.amazon.com/Ingredients-Allulose-Sweetener-Calorie-Substitute/dp/B08PY5ZJTX/ref=sr_1_5?sr=8-5">allulose</a>.
 
-<center><img src="/assets/Misc/Trap/artificial.jpg" alt="" class="larger-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Trap/artificial.jpg" alt="" class="larger-image"></center><br>
 &emsp;While this is a topic for much debate, it's generally agreeded upon that the artificial sweeteners (typically found in sugar free products like <a href="https://www.walmart.com/ip/Diet-Coke-Diet-Cola-Soda-Pop-16-9-fl-oz-Bottles-6-Pack/16935929?athbdg=L1600&from=/search">soda</a>, <a href="https://www.walmart.com/ip/Smucker-s-Sugar-Free-Concord-Grape-Jam-with-Splenda-Brand-Sweetener-12-75-Ounces/10308139?athbdg=L1200&from=/search">jelly</a>, or <a href="https://www.walmart.com/ip/Ray-s-No-Sugar-Added-Original-Barbecue-Sauce-18-5-oz/409008803?from=/search">BBQ sauce</a>) are less bad than sugar, but still not good for you.  New studies are emerging suggesting that long term consumption of artificial sweeteners can lead to leaky gut, so always read the ingredients label.  1 packet in your coffee every morning can easily add up over time.
 
 &emsp;Sugar alcohols like erythritol naturally occur in fruits in trace amounts.  They are carbohydrates like sugar, but they are not digested in your small intestine.  Instead you pee them out.  Where sugar contains 4 calories per gram, erythritol only has about 0.2 calories per gram.  That's only 5% of the calories while being about 70% as sweet as regular sugar.  Sugar alcohols are essentially just sweet fiber.
 
-<center><img src="/assets/Misc/Trap/sugar-alcohol.jpg" alt="" class="larger-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Trap/sugar-alcohol.jpg" alt="" class="larger-image"></center><br>
 &emsp;So what's the problem then?  For a lot of people, consuming sugar alcohols can lead to gastrointestinal issues like upset stomach, bloating, gas, and nausea.  Some of them are still prone to spiking your blood sugar, with maltitol being the worst with a GI of 35 (for reference, sucrose has a GI of 65).  Maltitol also contains the most calories of any sugar alcohol, at 1.6 calories per gram, or 40% of the calories of sucrose.  
 
 &emsp;Finally, we have the natural sweeteners.  Both stevia and monk fruit are sweet extracts from plants.  Think vanilla extract from a vanilla bean pod.  Instead of giving a vanilla flavor, stevia leaves and monk fruit have sweet tastes.  They're about 200 times sweetener than table sugar.
 
 &emsp;Allulose on the other hand isn't a sugar alcohol, but it has properties more closely aligned with it.  It occurs naturally in some fruits, and anything not absorbed exits your body in your urine.  Like erythritol, allulose contains about 0.2 calories per gram, and is about 70% the sweetness of table sugar
 
-<center><a href="https://www.drpeterosborne.com/artificial-sweeteners-toxic-side-effects/"><img src="/assets/Misc/Trap/artificial-health-risks.jpg" alt="" class="larger-image"></a></center><br>
+<center><a href="https://www.drpeterosborne.com/artificial-sweeteners-toxic-side-effects/"><img src="/assets/Misc/Nutrition/Trap/artificial-health-risks.jpg" alt="" class="larger-image"></a></center><br>
 &emsp;Overall, I don't have too much bad to say about the low calorie sweeteners.  But I want to point them out for 3 main reasons.  Firstly, most of these, like stevia, monk fruit, and all the artificial sweeteners, are many hundred times sweeter than table sugar.  As such, any granulated forms of these contain very small amounts of the actual sweetener.  Instead, the majority of the packet is either maltodextrin or dextrose, a flavorless sugar that's added to bulk up the product, making it measure more similarly to sugar.  Yes you heard that right; your sugar free sweeteners have sugar in them.  Talk about irony.  Instead try to get a liquid version of these sweeteners.  I prefer to use <a href="https://www.walmart.com/ip/Splenda-ZERO-Stevia-Liquid-Zero-Calorie-Sweetener-3-38-fl-oz/616697386?from=/search">liquid stevia</a> or <a href="https://www.walmart.com/ip/Splenda-ZERO-Monk-Fruit-Zero-Calorie-Liquid-Sweetener-3-38-fl-oz/875266912?from=/search">liquid monk fruit</a> with essentially just water and the natural sweetener.
 
-<center><img src="/assets/Misc/Trap/stevia-monk-fruit.jpg" alt="" class="larger-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Trap/stevia-monk-fruit.jpg" alt="" class="larger-image"></center><br>
 &emsp;Another main point against sugar substitutes are that all of these are relatively new products.  As such, there has not been long term research on many of these sweeteners.  Better to be safe then sorry, and only consume these in moderation.  They're not a cheat code just because they have no calories.
 
 &emsp;Finally, remember that these sweeteners are, well, sweet.  As such, it's much harder to break a sugar addition if you simply just replace all sugar with low calorie alternatives.  Instead, adjust your taste buds to be used to less sweet options.  Lean towards fruit being your main sweeteners, and use natural sweeteners or unrefined sugars in small amounts if you need.  You're taste buds and body will thank you.

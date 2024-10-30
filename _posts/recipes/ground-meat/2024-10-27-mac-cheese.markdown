@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "High Protein Mac & Cheese"
-date:   2024-10-26 00:00:00 -05000
+date:   2024-10-27 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
@@ -58,5 +58,9 @@ Instructions:
 - Combine the cheese sauce and pasta with the meat in the a 9x13" casserole pan.  Top with shredded cheese, and optionally top with BBQ sauce or breadcrumbs as well<br><br>
 - <center><img src="/assets/Food/Ground Meat/M&C/m&c-topped.jpg" alt="" class="instruction-image"></center><br>
 
-- Cover, and bake at 400F until bubbly. This will take about 10 minutes if baking right away, or 30 minutes if preparing ahead of time, refrigerating, and baking later
+- Cover, and bake at 400F until bubbly. This will take about 10 minutes if baking right away, or 30 minutes if preparing ahead of time, refrigerating, and baking later<br><br>
+- <center><img src="/assets/Food/Ground Meat/M&C/m&c-baked.jpg" alt="" class="instruction-image"></center><br>
+
+- To meal prep this - split the fish into 6 servings, add some <a href="/recipes/roasted-vegetables">roasted veggies</a> on the side, cover, and refrigerate<br><br>
+- <center><img src="/assets/Food/Ground Meat/M&C/m&c-container.jpg" alt="" class="instruction-image"></center>
 ---

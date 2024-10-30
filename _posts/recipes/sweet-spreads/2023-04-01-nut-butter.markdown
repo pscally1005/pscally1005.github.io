@@ -22,7 +22,7 @@ Prep: 15
 Rest: 
 Cook: 
 Source1: https://cookieandkate.com/homemade-almond-butter-recipe/#tasty-recipes-27865-jump-target
-Source2: 
+Source2: https://www.alphafoodie.com/the-ultimate-guide-homemade-seed-nut-butter-recipes/
 whisk: https://s.samsungfood.com/eL2vL
 tags: 
 - natural peanut butter

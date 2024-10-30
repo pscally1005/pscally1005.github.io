@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Nutrition
 permalink: /misc/iron
-image: /assets/Misc/Iron/Iron.png
+image: /assets/Misc/Nutrition/Iron/Iron.png
 tags: 
 - iron
 - vitamin
@@ -16,13 +16,13 @@ tags:
 <u><font size="+2">Introduction</font></u><br>
 &emsp;Iron is a micronutrient that we've all probably heard of, but don't know what it actually does.  Sure, everyone knows that Popeye loves his spinach, but what does iron actually do, and what are some good sources of it?
 
-<center><img src="/assets/Misc/Iron/element.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/element.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Role of Iron</font></u><br>
 &emsp;Iron is an essential micronutrient, meaning that your body does not produce it.  Rather, it must be obtained from food or supplementation.  The Recomended Daily Value (RDA) of iron is 8 mg for men and 18 mg for women.  If you're pregnant, then the RDA increases to 27 mg. It is one of the few micronutrients required to be on a food label, making it easy to track.
 
 &emsp;The main function of iron is for oxygen transportation.  This is done by the production of heme to make hemoglobin, a protein found in red blood cells that carries oxygen from your lungs throughout your entire body.  Oxygen plays a vital role in cellular function and the production of Adenosine Triphosphate (ATP), the body's main source of energy (it is often referred to as the "energy currency")
 
-<center><img src="/assets/Misc/Iron/oxygen.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/oxygen.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Symptoms of Low Iron</font></u><br>
 &emsp;Iron deficiency is one of the more common nutrient deficiencies, particularly impacting children and women. Lack of iron in the body leads to a lack of hemoglobin production, impacting all cells in your body.  Also known as sideropenia, iron deficiency impacts about 10% of men and 35% of women.  Other potential causes of iron deficiency could be low protein, vitamin B12, vitamin A, or folate.
 
@@ -39,7 +39,7 @@ tags:
 - Brittle nails
 - Hair loss
 
-<center><img src="/assets/Misc/Iron/headache.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/headache.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Optimal Ranges for Men</font></u><br>
 - Ferritin: 15-300 ng/mL
 - Total Iron Binding Capacity (TIBC): 250-450 mcg/dL
@@ -49,7 +49,7 @@ tags:
 - Red Blood Cell (RBC) Count: 3.77-5.28 cells/mcL
 - Hematocrit: 34.0-46.6 %
 
-<center><img src="/assets/Misc/Iron/blood.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/blood.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Optimal Ranges for Women</font></u><br>
 - Ferritin: 15-150 ng/mL
 - Total Iron Binding Capacity (TIBC): 250-450 mcg/dL
@@ -59,7 +59,7 @@ tags:
 - Red Blood Cell (RBC) Count: 3.80-5.19 cells/mcL
 - Hematocrit: 34.0-46.6 %
 
-<center><img src="/assets/Misc/Iron/run.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/run.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Foods High in Iron</font></u><br>
 &emsp;Iron is found in both animal based (heme) and plant based (non-heme) foods; however, heme iron (found in animal products) is much more bioavailable than non-heme iron (found in plant based products).  Since non-heme iron is not absorbed as well by the body, you may need to consume at least double the recommended amounts of iron if you do not consume meat.  For reference, heme iron has an absorption rate of about 15-35%, whereas non-heme iron has an absorption rate of about 2-20%.  However, the absorption rate of non-heme iron is improved when consumed with heme-iron.
 
@@ -67,7 +67,7 @@ tags:
 
 <div class="mobile-table" style="font-size: 20px"><center>
 
-<center><img src="/assets/Misc/Iron/cart.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/cart.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Meat (raw)</font></i><br>
 <table>
     <colgroup>
@@ -125,7 +125,7 @@ tags:
     </tbody>
 </table>
 
-<center><img src="/assets/Misc/Iron/meat.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/meat.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Fish and Seafood (raw unless specified)</font></i><br>
 <table>
     <colgroup>
@@ -225,7 +225,7 @@ tags:
     </tbody>
 </table>
 
-<center><img src="/assets/Misc/Iron/fish.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/fish.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Beans and Lentils (dried unless specified)</font></i><br>
 <table>
     <colgroup>
@@ -311,7 +311,7 @@ tags:
     </tbody>
 </table>
 
-<center><img src="/assets/Misc/Iron/beans.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/beans.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Vegetables (raw)</font></i><br>
 <table>
     <colgroup>
@@ -376,7 +376,7 @@ tags:
     </tbody>
 </table>
 
-<center><img src="/assets/Misc/Iron/vegetables.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/vegetables.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Fruit</font></i><br>
 <table>
     <colgroup>
@@ -434,7 +434,7 @@ tags:
     </tbody>
 </table>
 
-<center><img src="/assets/Misc/Iron/fruit.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/fruit.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Nuts and Seeds (raw)</font></i><br>
 <table>
     <colgroup>
@@ -555,7 +555,7 @@ tags:
     </tbody>
 </table>
 
-<center><img src="/assets/Misc/Iron/nuts.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/nuts.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Grains (raw)</font></i><br>
 <table>
     <colgroup>
@@ -613,7 +613,7 @@ tags:
     </tbody>
 </table>
 
-<center><img src="/assets/Misc/Iron/wheat.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/wheat.jpg" alt="" class="smaller-image"></center><br>
 <i><font size="+2">Other</font></i><br>
 <table>
     <colgroup>
@@ -670,19 +670,19 @@ tags:
   }
 </style>
 
-<center><img src="/assets/Misc/Iron/cacao.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/cacao.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Best Sources of Iron (Animals)</font></u>
 <br><b>Per serving</b>: Ground Beef (93% lean) - 2.6 mg (4 oz, 113 g)
 <br><b>Per 100 g</b>: Oysters - 4.6 mg
 <br><b>Per 100 cal</b>: Oysters - 9.9 mg
 
-<center><img src="/assets/Misc/Iron/oyster.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/oyster.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Best Sources of Iron (Plants)</font></u>
 <br><b>Per serving</b>: Pumpkin seeds - 4.3 mg (1 oz, 28 g)
 <br><b>Per 100 g</b>: 100% chocolate - 17.0 mg
 <br><b>Per 100 cal</b>: Spinach - 11.6 mg
 
-<center><img src="/assets/Misc/Iron/pumpkin-seed.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/pumpkin-seed.jpg" alt="" class="smaller-image"></center><br>
 <u><font size="+2">Other Ways to Consume Iron</font></u><br>
 &emsp;Sometimes, eating iron rich foods isn't enough to raise your iron levels if you're deficient.  An iron deficiency might also signal that you are low in vitamin C, as vitamin C aids in the absorption of iron.  Try to eat more naturally occuring sources of <a href="/misc/nutrient-alphabet#C">vitamin C</a>, such as the following:<br>
 <ul>
@@ -698,7 +698,7 @@ tags:
     <li>Vitamin C: 250-500 mg daily</li>
 </ul>
 
-<center><img src="/assets/Misc/Iron/pill.jpg" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Iron/pill.jpg" alt="" class="smaller-image"></center><br>
 <br><u><font size="+2">Sources</font></u><br>
 1. <a href="https://fdc.nal.usda.gov/">FoodData Central</a><br>
 2. <a href="https://www.nutritionvalue.org/">Nutrition Value</a><br>

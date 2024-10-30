@@ -1,0 +1,41 @@
+Nutrient,Amount,Unit,DV
+Calories,76,,
+"Vitamin A, RAE",43.12,mcg,5 %
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.078,mg,6 %
+"Riboflavin [Vitamin B2]",0.039,mg,3 %
+"Niacin [Vitamin B3]",0.392,mg,2 %
+"Pantothenic acid [Vitamin B5]",0.370,mg,7 %
+"Vitamin B6",0.086,mg,5 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Folate, DFE [Vitamin B9]",19.60,mcg,5 %
+"Folate, food",19.60,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",74.5,mg,83 %
+"Vitamin D",0.00,mcg,0 %
+"Calcium",17.64,mg,1 %
+"Copper",0.06,mg,7 %
+"Iron",0.39,mg,2 %
+"Magnesium",23.52,mg,6 %
+"Manganese",0.039,mg,2 %
+"Phosphorus",29.40,mg,2 %
+"Potassium",317.52,mg,7 %
+"Sodium",1.96,mg,0 %
+"Zinc",0.10,mg,1 %
+"Protein",0.98,g,2 %
+"Carbohydrate",18.03,g,7 %
+"Net carbs",18.03,g,
+"Fat",0.196,g,0 %
+"Saturated fatty acids",0.027,g,0 %
+"Hexadecanoic acid",0.024,g,
+"Octadecanoic acid",0.002,g,
+"Monounsaturated fatty acids",0.025,g,
+"Hexadecenoic acid",0.002,g,
+"Octadecenoic acid",0.024,g,
+"Polyunsaturated fatty acids",0.047,g,
+"Octadecadienoic acid",0.037,g,
+"Octadecatrienoic acid",0.010,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Ash",0.39,g,
+"Water",176.40,g,

@@ -1,0 +1,77 @@
+Nutrient,Amount,Unit,DV
+Calories,157,,
+"Vitamin A, RAE",0.28,mcg,0 %
+"Carotene, beta",1.98,mcg,
+"Thiamin [Vitamin B1]",0.361,mg,30 %
+"Riboflavin [Vitamin B2]",0.081,mg,6 %
+"Niacin [Vitamin B3]",2.608,mg,16 %
+"Vitamin B6",0.170,mg,10 %
+"Folate, DFE [Vitamin B9]",31.18,mcg,8 %
+"Folate, food",31.18,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",0.1,mg,0 %
+"Vitamin E (alpha-tocopherol)",0.23,mg,2 %
+"Tocopherol, alpha",0.23,mg,
+"Calcium",19.84,mg,2 %
+"Copper",0.45,mg,50 %
+"Iron",2.25,mg,12 %
+"Magnesium",198.45,mg,47 %
+"Manganese",2.155,mg,94 %
+"Phosphorus",467.77,mg,37 %
+"Potassium",340.19,mg,7 %
+"Sodium",1.42,mg,0 %
+"Zinc",2.81,mg,26 %
+"Protein",8.95,g,18 %
+"Alanine",0.433,g,
+"Arginine",1.290,g,
+"Aspartic acid",1.038,g,
+"Cystine",0.191,g,
+"Glutamic acid",1.777,g,
+"Glycine",0.457,g,
+"Histidine",0.275,g,24 %
+"Isoleucine",0.365,g,24 %
+"Leucine",0.613,g,18 %
+"Lysine",0.362,g,12 %
+"Methionine",0.265,g,
+"Phenylalanine",0.410,g,
+"Proline",0.453,g,
+"Serine",0.486,g,
+"Threonine",0.360,g,22 %
+"Tryptophan",0.105,g,26 %
+"Tyrosine",0.358,g,
+"Valine",0.504,g,26 %
+"Phenylalanine + Tyrosine",0.768,g,29 %
+"Methionine + Cysteine",0.265,g,17 %
+"Carbohydrate",2.46,g,1 %
+"Fiber",1.13,g,4 %
+"Sugars",0.43,g,
+"Fructose",0.09,g,
+"Glucose",0.06,g,
+"Lactose",0.02,g,
+"Maltose",0.02,g,
+"Sucrose",0.24,g,
+"Net carbs",1.33,g,
+"2.46 g",8.14 g,undefined,3.31
+"Fat",13.820,g,18 %
+"Saturated fatty acids",1.304,g,7 %
+"Docosanoic acid",0.034,g,
+"Eicosanoic acid",0.088,g,
+"Hexadecanoic acid",0.812,g,
+"Octadecanoic acid",0.353,g,
+"Tetracosanoic acid",0.016,g,
+"Monounsaturated fatty acids",1.531,g,
+"Cis-octadecenoic acid",1.424,g,
+"Eicosenoic acid",0.035,g,
+"Octadecenoic acid",1.496,g,
+"Polyunsaturated fatty acids",10.801,g,
+"α-linolenic acid n-3 (ALA)",2.46,g,
+"γ-linolenic acid n-6 (GLA)",0.38,g,
+"Linoleic acid n-6 (LA)",7.76,g,
+"Octadecadienoic CLAs acid",0.057,g,
+"Octadecadienoic acid",7.784,g,
+"Octadecatetraenoic acid",0.175,g,
+"Octadecatrienoic acid",2.842,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Ash",1.72,g,
+"Water",1.41,g,

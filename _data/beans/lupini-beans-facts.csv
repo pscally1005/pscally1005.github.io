@@ -1,0 +1,75 @@
+Nutrient,Amount,Unit,DV
+Calories,186,,
+"Vitamin A, RAE",0.00,mcg,0 %
+"Carotene, alpha",0.00,mcg,
+"Carotene, beta",0.00,mcg,
+"Cryptoxanthin, beta",0.00,mcg,
+"Lutein + zeaxanthin",0.00,mcg,
+"Lycopene",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.320,mg,27 %
+"Riboflavin [Vitamin B2]",0.110,mg,8 %
+"Niacin [Vitamin B3]",1.095,mg,7 %
+"Pantothenic acid [Vitamin B5]",0.375,mg,8 %
+"Vitamin B6",0.178,mg,10 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Folate, DFE [Vitamin B9]",177.50,mcg,44 %
+"Folate, food",177.50,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",2.4,mg,3 %
+"Vitamin D",0.00,mcg,0 %
+"Calcium",88.00,mg,7 %
+"Copper",0.51,mg,57 %
+"Iron",2.18,mg,12 %
+"Magnesium",99.00,mg,24 %
+"Manganese",1.191,mg,52 %
+"Phosphorus",220.00,mg,18 %
+"Potassium",506.50,mg,11 %
+"Selenium",4.10,mcg,7 %
+"Sodium",7.50,mg,0 %
+"Zinc",2.38,mg,22 %
+"Protein",18.09,g,36 %
+"Alanine",0.648,g,
+"Arginine",1.938,g,
+"Aspartic acid",1.938,g,
+"Cystine",0.223,g,
+"Glutamic acid",4.343,g,
+"Glycine",0.770,g,
+"Histidine",0.515,g,45 %
+"Isoleucine",0.807,g,52 %
+"Leucine",1.372,g,40 %
+"Lysine",0.967,g,31 %
+"Methionine",0.128,g,
+"Phenylalanine",0.718,g,
+"Proline",0.738,g,
+"Serine",0.934,g,
+"Threonine",0.665,g,41 %
+"Tryptophan",0.144,g,35 %
+"Tyrosine",0.680,g,
+"Valine",0.755,g,39 %
+"Phenylalanine + Tyrosine",1.398,g,52 %
+"Methionine + Cysteine",0.128,g,8 %
+"Carbohydrate",20.18,g,7 %
+"Fiber",9.45,g,34 %
+"Net carbs",10.73,g,
+"Fat",4.870,g,6 %
+"Saturated fatty acids",0.578,g,3 %
+"Dodecanoic acid",0.004,g,
+"Hexadecanoic acid",0.371,g,
+"Octadecanoic acid",0.158,g,
+"Tetradecanoic acid",0.007,g,
+"Monounsaturated fatty acids",1.970,g,
+"Docosenoic acid",0.047,g,
+"Eicosenoic acid",0.128,g,
+"Hexadecenoic acid",0.017,g,
+"Octadecenoic acid",1.779,g,
+"Polyunsaturated fatty acids",1.220,g,
+"Octadecadienoic acid",0.998,g,
+"Octadecatrienoic acid",0.223,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Ash",1.64,g,
+"Caffeine",0.00,mg,
+"Theobromine",0.00,mg,
+"Water",5.22,g,
