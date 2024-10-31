@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Cooking Tips
 permalink: /misc/kitchen-products
-image: /assets/Misc/Cooking/Kitchen/cover.jpg
+image: /assets/Misc/Cooking/Kitchen/Kitchen.png
 tags: 
 - kitchen
 - cooking

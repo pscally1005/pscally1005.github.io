@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Nutrition
 permalink: /misc/carbs
-image: /assets/Misc/Nutrition/Carbs/Carb.jpg
+image: /assets/Misc/Nutrition/Carbs/Carb.png
 tags: 
 - carbs
 - sugar

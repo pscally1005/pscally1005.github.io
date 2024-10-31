@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Cooking Tips
 permalink: /misc/ingredient-substitutions
-image: /assets/Misc/Cooking/Substitutions/Substitutions.jpg
+image: /assets/Misc/Cooking/Substitutions/Substitutions.png
 tags: 
 - ingredients
 - substitutions

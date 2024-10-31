@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Nutrition
 permalink: /misc/fats
-image: /assets/Misc/Nutrition/Fats/Fat.jpg
+image: /assets/Misc/Nutrition/Fats/Fat.png
 tags: 
 - fat
 - unsaturated fat

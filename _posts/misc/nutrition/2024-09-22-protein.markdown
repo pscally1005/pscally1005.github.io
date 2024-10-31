@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Nutrition
 permalink: /misc/protein
-image: /assets/Misc/Nutrition/Protein/Protein.jpg
+image: /assets/Misc/Nutrition/Protein/Protein.png
 tags: 
 - protein
 - amino acid
@@ -56,7 +56,7 @@ tags:
 <br>&emsp;- Aid in muscle regeneration
 <br>&emsp;- Energy production
 <br>&emsp;- Stimulate muscle growth
-<center><img src="/assets/Misc/Nutrition/Protein/protein.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Protein/protein (2).png" alt="" class="smaller-image"></center>
+<center><img src="/assets/Misc/Nutrition/Protein/proteins.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Protein/protein (2).png" alt="" class="smaller-image"></center>
 <br>
 &emsp;Any food containing all 9 of these amino acids is considered to be a "complete protein".  Amounts of each amino acid do vary from food to food, but there is at least a significant source of all 9 amino acids available in a complete protein.  All animal based products are complete protein sources, such as meat, fish, eggs, and dairy.  There are some plant foods that are complete proteins, such as tofu and quinoa; however, for the most part plant proteins are "incomplete proteins", meaning they lack 1 or more essential amino acids.  Not all proteins are created equal.
 <center><img src="/assets/Misc/Nutrition/Protein/cow.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Protein/protein-powder.png" alt="" class="smaller-image"></center>

@@ -6,7 +6,7 @@ categories:
 - Misc.
 - Costs
 permalink: /misc/powdered-peanut-butter
-image: /assets/Misc/Cost/PB2/cover.jpg
+image: /assets/Misc/Cost/PB2/Powdered Peanut Butter.png
 tags: 
 - experiment
 - peanut butter
