@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yogurt - For Those Who Hate It"
-date:   2024-11-1 00:00:00 -05000
+date:   2024-11-02 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes

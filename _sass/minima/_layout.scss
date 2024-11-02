@@ -1065,6 +1065,13 @@ a.button {
 
 
 
+// Smooth scrolling
+html {
+  scroll-behavior: smooth;
+}
+
+
+
 // Printing
 @media print {
   /* Hide elements not needed in the printed version */
