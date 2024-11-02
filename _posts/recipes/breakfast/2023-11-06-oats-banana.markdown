@@ -37,13 +37,15 @@ tags:
 - nut
 - chopped
 - peanut
-Description: Protein overnight oats are easily my favorite breakfast. Being packed with protein and fiber, highly customizable, super easy to prepare the day before, and easy to take on the go. Here are 5 different recipes that are constantly in my rotation to get you through the work week.
+Description: Protein overnight oats are easily my favorite breakfast. They are packed with protein and fiber, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.
 Instructions: 
-- Mix the base ingredients in a container (oats, chia seeds, casein, salt, sweetener, yogurt, and milk), then choose one of the flavors<br><br>
+- Mix all ingredients together in a bowl, slice a banana on top, sprinkle on cinnamon, cover, and refrigerate overnight<br><br>
 
-- Banana Nut Bread - mix in powdered peanut butter and almond extract.  Either top with sliced banana, or mash that in as well<br><br>
-
-- For the other flavors, check out the links below:<br>&emsp;- <a href="/recipes/oats-berry">Berry Delicious Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>&emsp;- <a href="/recipes/oats-reeses">Reese's Protein Overnight Oats</a><br><br>
+- For the other flavors, check out the links below:<br><ul>
+    <li><a href="/recipes/oats-berry">Berry Delicious Protein Overnight Oats</a></li>
+    <li><a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a></li>
+    <li><a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a></li>
+    <li><a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a></li></ul><br>
 - <center><a href="/recipes/oats-berry"><img src="/assets/Food/Breakfast/Oatmeal/oats-berry.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/oats-pb"><img src="/assets/Food/Breakfast/Oatmeal/oats-pb.jpg" alt="" class="half-page"></a></center><br>
 - <center><a href="/recipes/oats-pumpkin"><img src="/assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/oats-reeses"><img src="/assets/Food/Breakfast/Oatmeal/oats-reeses.jpg" alt="" class="half-page"></a></center><hr>
 ---
