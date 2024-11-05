@@ -248,7 +248,7 @@ def ingredients(food):
         return str("Cabbage")
     elif food == "Sweet potato, without skin, boiled, cooked":
         return str("Cooked sweet potato")
-    elif food == "Bananas, raw, overripe" or food == "Bananas, raw, ripe and slightly ripe":
+    elif food == "Bananas, raw, overripe" or food == "Bananas, raw, ripe and slightly ripe" or food == "Bananas, raw":
         return str("Banana, overripe")
     elif food == "Onions, raw" or food == "Onions, raw, red" or food == "Onions, raw, yellow" or food == "Onions, raw, white":
         return str("Onion")
@@ -316,13 +316,13 @@ def ingredients(food):
         return str("Red jalapenos")
     elif food == "Cilantro, raw":
         return str("Cilantro, fresh")
-    elif food == "Kiwi fruit":
+    elif food == "Kiwi fruit" or food == "Kiwifruit, raw, green":
         return str("Kiwi")
     elif food == "Celery, raw":
         return str("Celery")
     
     # Frozen produce
-    elif food == "Blueberries, frozen, wild":
+    elif food == "Blueberries, frozen, wild" or food == "Blueberries, unsweetened, frozen":
         return str("Frozen blueberries")
     elif food == "Spinach, unprepared, chopped or leaf, frozen":
         return str("Frozen spinach, thawed")
@@ -344,6 +344,8 @@ def ingredients(food):
         return str("Vegetables")
 
     # Canned & jarred    
+    elif food == "Fish, drained solids, canned, pink, salmon":
+        return str("Canned salmon")
     elif food == "Tomato products, sauce, canned" or food == "Hunt's, pasta sauce, no added sugar, hunt's, pasta sauce, no added sugar by Conagra Brands, Inc.":
         return str("Unsweetened tomato sauce")
     elif food == "Artichoke hearts by MATIZ" or food == "Canned artichokes":
@@ -380,6 +382,8 @@ def ingredients(food):
         return str("Anchovies, canned")
     elif food == "Yeast extract by MARMITE":
         return str("Marmite")
+    elif food == "Raw saurkraut by Bader Publishing":
+        return str("Saurkraut")
     
     # Nuts, chocolate, dried fruit
     elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium" or food == "Nuts, without salt added, plain, almond butter":
@@ -436,6 +440,8 @@ def ingredients(food):
         return str("Whole wheat bread")
     elif food == "Rice, raw, long-grain, brown":
         return str("Brown rice")
+    elif food == "Quinoa, uncooked":
+        return str("Quinoa")
     elif food == "Pasta, dry, whole-wheat":
         return str("Whole wheat pasta")
     elif food == "Panko, crispy breadcrumbs by George DeLallo Co., Inc.":

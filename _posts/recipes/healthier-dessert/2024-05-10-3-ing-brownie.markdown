@@ -29,8 +29,6 @@ tags:
 - chocolate
 - banana
 - mashed banana
-- mashed sweet potato
-- sweet potato puree
 - natural peanut butter
 - peanut butter
 - almond butter

@@ -12,7 +12,7 @@ facts: carrotcake-facts
 section1: Roasting the Carrots
 start2: Oat flour
 section2: Dry Ingredients
-start3: Large egg
+start3: Egg
 section3: Wet Ingredients
 start4: Nonfat cottage cheese
 section4: Frosting
