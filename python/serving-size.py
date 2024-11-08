@@ -35,7 +35,7 @@ def scale_images_in_directory(directory):
                     resized_img = img.resize((new_width, new_height), Image.LANCZOS)
                     new_filepath = filepath[0:-4] + "-scaled.jpg"
                     resized_img.save(new_filepath)
-                    # print(f"{filename} scaled successfully")
+                    print(filename)
                     img.close()
                     os.remove(filepath)
                 except Exception as e:
@@ -82,6 +82,10 @@ def split_csv_file(path_csv):
             facts = fname[:-4] + "-facts.csv"
             with open(facts, 'w') as fout:
                 fout.writelines(data[blank+1:])
+            
+            # print file name that was parsed
+            file_name = facts.split('\\')
+            print(file_name[len(file_name)-1])
 
             # delete original and temp file
             os.remove(fname)
@@ -89,13 +93,15 @@ def split_csv_file(path_csv):
             os.remove(ing)
 
 def main():
-    path_images = r'C:\Users\mets1\Documents\website\assets\Misc\Serving'
+    path_images = r'C:\Users\mets1\Documents\website\assets\Misc\Nutrition\Serving'
     scale_images_in_directory(path_images)
+    print("------------")
 
     path_csv = r'C:\Users\mets1\Documents\website\_data\serving\*.csv'
     # path_csv = r'C:\Users\mets1\Documents\website\_data\grains\*.csv'
     # path_csv = r'C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\nuts\*.csv'
     split_csv_file(path_csv)
+    print("------------")
 
 
 if __name__ == '__main__':

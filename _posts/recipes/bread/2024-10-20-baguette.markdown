@@ -35,7 +35,7 @@ tags:
 - italian bread
 - french bread
 - garlic bread
-Description: I have strong memories of French baguettes and Italian bread from holidays growing up.  This recipe is simply my <a href="/recipes/ww-bread">100% Whole Wheat Bread</a>, but made into 4 small baguettes instead of a loaf of sandwich bread.  It's great toasted on it's own, or made into <a href="/recipes/breaded-chicken">bruschetta</a>
+Description: I have strong memories of French baguettes and Italian bread from holidays growing up.  This recipe is simply my <a href="/recipes/ww-bread">100% Whole Wheat Bread</a>, but made into 4 small baguettes instead of a loaf of sandwich bread.  It's great toasted on it's own, or used for <a href="/recipes/breaded-chicken">bruschetta</a>
 Instructions: 
 - Microwave your water in a glass for about 1:15 minutes, until warm<br><br>
 

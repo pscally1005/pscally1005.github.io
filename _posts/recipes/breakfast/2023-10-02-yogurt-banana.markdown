@@ -35,15 +35,13 @@ tags:
 - jam
 - nut
 - chopped
-Description: Here I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have PB&J, Apple Pie, Chocolate, and Peanut Butter Banana for you to enjoy
+Description: Plain nonfat greek yogurt combined with whey protein powder makes a protein packed bowl to start your day off right.  I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have <a href="yogurt-pbj">PB&J</a>, <a href="yogurt-apple">Apple Pie</a>, <a href="yogurt-choc">Chocolate</a>, and PB Banana for you to enjoy
 Instructions: 
-- In a small bowl or airtight container, mix together the base ingredients (yogurt, milk, applesauce, whey, peanut butter, cinnamon, and optional sweetener). Choose a flavor below, and mix in. Top with your fruit and chopped nuts (if you didn't use peanut butter)<br><br>
-
-- Peanut Butter Banana - mix in the PB2 and top with your sliced banana (or mash the banana into it)<br><br>
+- Mix all ingredients together in a bowl, top with sliced banana, cover, and refrigerate overnight<br><br>
 
 - For the other flavors and their nutrition facts, check out the links below:<br>
-    <ul><li><a href="yogurt-pbj">Peanut Butter and Jelly Yogurt Bowl</a></li>
+    <ul><li><a href="yogurt-choc">Chocolate Almond Yogurt Bowl</a></li>
     <li><a href="yogurt-apple">Apple Pie Yogurt Bowl</a></li>
-    <li><a href="yogurt-choc">Chocolate Almond Yogurt Bowl</a></li></ul><br>
-- <center><a href="/recipes/yogurt-pbj"><img src="/assets/Food/Breakfast/Yogurt/yogurt-pbj.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/yogurt-apple"><img src="/assets/Food/Breakfast/Yogurt/yogurt-apple.jpg" alt="" class="half-page"><br><br><a href="/recipes/yogurt-choc"><img src="/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg" alt="" class="half-page"></center><hr>
+    <li><a href="yogurt-pbj">Peanut Butter & Jelly Yogurt Bowl</a></li></ul><br>
+- <center><a href="/recipes/yogurt-choc"><img src="/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/yogurt-apple"><img src="/assets/Food/Breakfast/Yogurt/yogurt-apple.jpg" alt="" class="half-page"></a><br><br><a href="/recipes/yogurt-pbj"><img src="/assets/Food/Breakfast/Yogurt/yogurt-pbj.jpg" alt="" class="half-page"></a></center><hr>
 ---

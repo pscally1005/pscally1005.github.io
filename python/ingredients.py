@@ -438,6 +438,8 @@ def ingredients(food):
         return str("Whole wheat tortilla")
     elif food == "Bread, whole wheat":
         return str("Whole wheat bread")
+    elif food == "baguette":
+        return str("Whole wheat baguette")
     elif food == "Rice, raw, long-grain, brown":
         return str("Brown rice")
     elif food == "Quinoa, uncooked":
