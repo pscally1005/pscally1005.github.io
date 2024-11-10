@@ -2,6 +2,8 @@
 
 <div class="recipe-nutrition">    
     <!-- Booleans -->
+    {% assign recipe = "true" %}
+
     {% assign servingSizePost = "false" %}
     {% if 
         page.title == "What is a Serving Size?" or 
@@ -15,6 +17,7 @@
         page.title == "A Grain of Truth"
     %}
         {% assign servingSizePost = "true" %}
+        {% assign recipe = "false" %}
     {% endif %}
 
     {% assign shorterFacts = "false" %}
@@ -22,7 +25,6 @@
         page.title == "Sweet Potato Boxed Brownies" or 
         page.title == "Fat Replacements in Boxed Brownies" or 
         page.title == "What is a Serving Size?" or 
-        page.title == "Let's Meet the Meats" or
         page.title == "I'm Nuts for Nuts" or
         page.title == "I See Seeds in Your Future" or
         page.title == "Beans Beans the Musical Fruit" or
@@ -32,6 +34,14 @@
         page.title == "A Grain of Truth"
     %}
         {% assign shorterFacts = "true" %}
+        {% assign recipe = "false" %}
+    {% endif %}
+
+    <!-- Meat -->
+    {% assign meat = "false" %}
+    {% if page.title == "Let's Meet the Meats" %}
+        {% assign meat = "true" %}
+        {% assign recipe = "false" %}
     {% endif %}
 
     <!-- Use parameters or not -->
@@ -50,23 +60,45 @@
 
         <!-- Variables -->
         {% assign cal = "" %}
+
         {% assign fat = "" %}
         {% assign sat = "" %}
         {% assign trans = "" %}
         {% assign poly = "" %}
         {% assign mono = "" %}
-        {% assign chol = "" %}
+        {% assign choles = "" %}
+
         {% assign sod = "" %}
+
         {% assign carb = "" %}
         {% assign fib = "" %}
         {% assign sug = "" %}
+
         {% assign prot = "" %}
+
+        {% assign vitA = "" %}
+        {% assign vitB1 = "" %}
+        {% assign vitB2 = "" %}
+        {% assign vitB3 = "" %}
+        {% assign vitB5 = "" %}
+        {% assign vitB6 = "" %}
+        {% assign vitB9 = "" %}
         {% assign vitB12 = "" %}
+        {% assign vitC = "" %}
         {% assign vitD = "" %}
-        {% assign pot = "" %}
+        {% assign vitE = "" %}
+        {% assign vitK = "" %}
+        {% assign choline = "" %}
+
         {% assign calc = "" %}
-        {% assign magn = "" %}
+        {% assign cop = "" %}
         {% assign iron = "" %}
+        {% assign magn = "" %}
+        {% assign mang = "" %}
+        {% assign phos = "" %}
+        {% assign pot = "" %}
+        {% assign sel = "" %}
+        {% assign zinc = "" %}
 
         {% assign loopVar = site.data[facts] %}
         {% if servingSizePost == "true" %}
@@ -84,6 +116,7 @@
                 {% assign line0 = row.Amount | plus: 0 | round: 0 | append: row.Unit | append: dv %}
                 {% assign line1 = row.Amount | plus: 0 | round: 1 | append: row.Unit | append: dv %}
                 {% assign line2 = row.Amount | plus: 0 | round: 2 | append: row.Unit | append: dv %}
+                {% assign line3 = row.Amount | plus: 0 | round: 3 | append: row.Unit | append: dv %}
 
                 {% if pair[1] == "Calories" %}
                     {% assign cal = line0 %}
@@ -110,7 +143,7 @@
                 {% endif %}
 
                 {% if pair[1] == "Cholesterol" %}
-                    {% assign chol = line0 %}
+                    {% assign choles = line0 %}
                 {% endif %}
 
                 {% if pair[1] == "Sodium" %}
@@ -133,32 +166,278 @@
                     {% assign prot = line1 %}
                 {% endif %}
 
+                {% if pair[1] == "Vitamin A, RAE" %}
+                    {% assign vitA = line1 %}
+                {% endif %}
+
+                {% if pair[1] == "Thiamin [Vitamin B1]" %}
+                    {% assign vitB1 = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Riboflavin [Vitamin B2]" %}
+                    {% assign vitB2 = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Niacin [Vitamin B3]" %}
+                    {% assign vitB3 = line1 %}
+                {% endif %}
+
+                {% if pair[1] == "Pantothenic acid [Vitamin B5]" %}
+                    {% assign vitB5 = line1 %}
+                {% endif %}
+
+                {% if pair[1] == "Vitamin B6" %}
+                    {% assign vitB6 = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Folate, DFE [Vitamin B9]" %}
+                    {% assign vitB9 = line1 %}
+                {% endif %}
+
                 {% if pair[1] == "Vitamin B12 [Cobalamin]" %}
-                    {% assign vitB12 = line1 %}
+                    {% assign vitB12 = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Vitamin C [Ascorbin acid" %}
+                    {% assign vitC = line1 %}
                 {% endif %}
 
                 {% if pair[1] == "Vitamin D" %}
-                    {% assign vitD = line1 %}
+                    {% assign vitD = line2 %}
                 {% endif %}
 
-                {% if pair[1] == "Potassium" %}
-                    {% assign pot = line0 %}
+                {% if pair[1] == "Vitamin E (alpha-tocopherol)" %}
+                    {% assign vitE = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Vitamin K" %}
+                    {% assign vitK = line1 %}
+                {% endif %}
+
+                {% if pair[1] == "Choline" %}
+                    {% assign choline = line0 %}
                 {% endif %}
 
                 {% if pair[1] == "Calcium" %}
                     {% assign calc = line0 %}
                 {% endif %}
 
+                {% if pair[1] == "Copper" %}
+                    {% assign cop = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Iron" %}
+                    {% assign iron = line2 %}
+                {% endif %}
+
                 {% if pair[1] == "Magnesium" %}
                     {% assign magn = line0 %}
                 {% endif %}
 
-                {% if pair[1] == "Iron" %}
-                    {% assign iron = line1 %}
-                {% endif %}        
+                {% if pair[1] == "Manganese" %}
+                    {% assign mang = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Phosphorus" %}
+                    {% assign phos = line0 %}
+                {% endif %}
+
+                {% if pair[1] == "Potassium" %}
+                    {% assign pot = line0 %}
+                {% endif %}
+
+                {% if pair[1] == "Selenium" %}
+                    {% assign sel = line1 %}
+                {% endif %}
+
+                {% if pair[1] == "Zinc" %}
+                    {% assign zinc = line2 %}
+                {% endif %}
 
             {% endfor %}
         {% endfor %}
+
+        <!-- Set blanks to zero -->
+        {% if cal == "" %}
+            {% assign cal = "0" %}
+        {% endif %}
+
+        {% if fat == "" %}
+            {% assign fat = "0.0g (0 %)" %}
+        {% endif %}
+        {% if sat == "" %}
+            {% assign sat = "0.0g (0 %)" %}
+        {% endif %}
+        {% if trans == "" %}
+            {% assign trans = "0.0g (0 %)" %}
+        {% endif %}
+        {% if poly == "" %}
+            {% assign poly = "0.0g (0 %)" %}
+        {% endif %}
+        {% if mono == "" %}
+            {% assign mono = "0.0g (0 %)" %}
+        {% endif %}
+        {% if choles == "" %}
+            {% assign choles = "0mg (0 %)" %}
+        {% endif %}
+
+        {% if sod == "" %}
+            {% assign sod = "0mg (0 %)" %}
+        {% endif %}
+
+        {% if carb == "" %}
+            {% assign carb = "0.0g (0 %)" %}
+        {% endif %}
+        {% if fib == "" %}
+            {% assign fib = "0.0g (0 %)" %}
+        {% endif %}
+        {% if sug == "" %}
+            {% assign sug = "0.0g (0 %)" %}
+        {% endif %}
+
+        {% if prot == "" %}
+            {% assign prot = "0.0g (0 %)" %}
+        {% endif %}
+
+        {% if vitA == "" %}
+            {% assign vitA = "0.0mcg (0 %)" %}
+        {% endif %}
+        {% if vitB1 == "" %}
+            {% assign vitB1 = "0.00mg (0 %)" %}
+        {% endif %}
+        {% if vitB2 == "" %}
+            {% assign vitB2 = "0.00mg (0 %)" %}
+        {% endif %}
+        {% if vitB3 == "" %}
+            {% assign vitB3 = "0.0mg (0 %)" %}
+        {% endif %}
+        {% if vitB5 == "" %}
+            {% assign vitB5 = "0.0mg (0 %)" %}
+        {% endif %}
+        {% if vitB6 == "" %}
+            {% assign vitB6 = "0.00mg (0 %)" %}
+        {% endif %}
+        {% if vitB9 == "" %}
+            {% assign vitB9 = "0.0mcg (0 %)" %}
+        {% endif %}
+        {% if vitB12 == "" %}
+            {% assign vitB12 = "0.0mcg (0 %)" %}
+        {% endif %}
+        {% if vitC == "" %}
+            {% assign vitC = "0.0mg (0 %)" %}
+        {% endif %}
+        {% if vitD == "" %}
+            {% assign vitD = "0.00mcg (0 %)" %}
+        {% endif %}
+        {% if vitE == "" %}
+            {% assign vitE = "0.00mg (0 %)" %}
+        {% endif %}
+        {% if vitK == "" %}
+            {% assign vitK = "0.0mcg (0 %)" %}
+        {% endif %}
+        {% if choline == "" %}
+            {% assign choline = "0mg (0 %)" %}
+        {% endif %}
+
+        {% if calc == "" %}
+            {% assign calc = "0mg (0 %)" %}
+        {% endif %}
+        {% if cop == "" %}
+            {% assign cop = "0.00mg (0 %)" %}
+        {% endif %}
+        {% if iron == "" %}
+            {% assign iron = "0.00mg (0 %)" %}
+        {% endif %}
+        {% if magn == "" %}
+            {% assign magn = "0mg (0 %)" %}
+        {% endif %}
+        {% if mang == "" %}
+            {% assign mang = "0.00mg (0 %)" %}
+        {% endif %}
+        {% if phos == "" %}
+            {% assign phos = "0mg (0 %)" %}
+        {% endif %}
+        {% if pot == "" %}
+            {% assign pot = "0mg (0 %)" %}
+        {% endif %}
+        {% if sel == "" %}
+            {% assign sel = "0.0mcg (0 %)" %}
+        {% endif %}
+        {% if zinc == "" %}
+            {% assign zinc = "0.00mg (0 %)" %}
+        {% endif %}
+
+        <!-- Remove nutrients if I don't want them -->
+
+        <!-- Recipe -->
+        {% if recipe == "true" %}
+            {% assign vitA = "" %}
+            {% assign vitB1 = "" %}
+            {% assign vitB2 = "" %}
+            {% assign vitB3 = "" %}
+            {% assign vitB5 = "" %}
+            {% assign vitB6 = "" %}
+            {% assign vitB9 = "" %}
+            {% assign vitC = "" %}
+            {% assign vitE = "" %}
+            {% assign vitK = "" %}
+            {% assign choline = "" %}
+            {% assign cop = "" %}
+            {% assign mang = "" %}
+            {% assign phos = "" %}
+            {% assign sel = "" %}
+            {% assign zinc = "" %}
+        {% endif %}
+
+        <!-- Shorter facts -->
+        {% if shorterFacts == "true" %}
+            {% assign sat = "" %}
+            {% assign trans = "" %}
+            {% assign poly = "" %}
+            {% assign mono = "" %}
+            {% assign choles = "" %}
+            {% assign vitA = "" %}
+            {% assign vitB1 = "" %}
+            {% assign vitB2 = "" %}
+            {% assign vitB3 = "" %}
+            {% assign vitB5 = "" %}
+            {% assign vitB6 = "" %}
+            {% assign vitB9 = "" %}
+            {% assign vitB12 = "" %}
+            {% assign vitC = "" %}
+            {% assign vitD = "" %}
+            {% assign vitE = "" %}
+            {% assign vitK = "" %}
+            {% assign choline = "" %}
+            {% assign calc = "" %}
+            {% assign cop = "" %}
+            {% assign iron = "" %}
+            {% assign magn = "" %}
+            {% assign mang = "" %}
+            {% assign pot = "" %}
+            {% assign phos = "" %}
+            {% assign sel = "" %}
+            {% assign zinc = "" %}
+        {% endif %}
+
+        <!-- Meat -->
+        {% if meat == "true" %}
+            {% assign trans = "" %}
+            {% assign poly = "" %}
+            {% assign mono = "" %}
+            {% assign choles = "" %}
+            {% assign carb = "" %}
+            {% assign fib = "" %}
+            {% assign sug = "" %}
+            {% assign vitA = "" %}
+            {% assign vitB9 = "" %}
+            {% assign vitC = "" %}
+            {% assign vitE = "" %}
+            {% assign vitK = "" %}
+            {% assign calc = "" %}
+            {% assign magn = "" %}
+            {% assign pot = "" %}
+        {% endif %}
 
         <!-- Print nutrition facts -->
         <div class="recipe-section">
@@ -172,30 +451,26 @@
             {% if fat != "" %} 
                 <b>Total Fat</b>: {{ fat }}<br>
             {% endif %}
-
-            {% if shorterFacts == "false" %}
-
-                {% if sat != "" %} 
-                    &emsp;<b>Saturated Fat</b>: {{ sat }}<br>
-                {% endif %}
-                {% if trans != "" %} 
-                    &emsp;<b>Trans Fat</b>: {{ trans }}<br>
-                {% endif %}
-                {% if poly != "" %} 
-                    &emsp;<b>Polyunsaturated Fat</b>: {{ poly }}<br>
-                {% endif %}
-                {% if mono != "" %} 
-                    &emsp;<b>Monounsaturated Fat</b>: {{ mono }}<br>
-                {% endif %}
-                {% if chol != "" %} 
-                    <b>Cholesterol</b>: {{ chol }}<br>
-                {% endif %}
-
+            {% if sat != "" %} 
+                &emsp;<b>Saturated Fat</b>: {{ sat }}<br>
+            {% endif %}
+            {% if trans != "" %} 
+                &emsp;<b>Trans Fat</b>: {{ trans }}<br>
+            {% endif %}
+            {% if poly != "" %} 
+                &emsp;<b>Polyunsaturated Fat</b>: {{ poly }}<br>
+            {% endif %}
+            {% if mono != "" %} 
+                &emsp;<b>Monounsaturated Fat</b>: {{ mono }}<br>
+            {% endif %}
+            {% if choles != "" %} 
+                <b>Cholesterol</b>: {{ choles }}<br>
             {% endif %}
 
             {% if sod != "" %} 
                 <b>Sodium</b>: {{ sod }}<br>
             {% endif %}
+
             {% if carb != "" %} 
                 <b>Total Carbohydrate</b>: {{ carb }}<br>
             {% endif %}
@@ -205,34 +480,83 @@
             {% if sug != "" %} 
                 &emsp;<b>Sugar</b>: {{ sug }}<br>
             {% endif %}
+
             {% if prot != "" %} 
                 <b>Protein</b>: {{ prot }}<br>
             {% endif %}
-            ------------------------------------------<br>
-            {% if shorterFacts == "false" %}
-
-                {% if vitB12 != "" %} 
-                    <b>Vitamin B12</b>: {{ vitB12 }}<br>
-                {% endif %}
-                {% if vitD != "" %} 
-                    <b>Vitamin D</b>: {{ vitD }}<br>
-                {% endif %}
-                {% if calc != "" %} 
-                    <b>Calcium</b>: {{ calc }}<br>
-                {% endif %}
-                {% if iron != "" %} 
-                    <b>Iron</b>: {{ iron }}<br>
-                {% endif %}
-                {% if magn != "" %} 
-                    <b>Magnesium</b>: {{ magn }}<br>
-                {% endif %}
-                {% if pot != "" %} 
-                    <b>Potassium</b>: {{ pot }}<br>
-                {% endif %}
-
-            ------------------------------------------<br>
-
+            
+            {% if shorterFacts == "false" %} ------------------------------------------<br> {% endif %}
+            
+            {% if vitA != "" %} 
+                <b>Vitamin A</b>: {{ vitA }}<br>
             {% endif %}
+            {% if vitB1 != "" %} 
+                <b>Vitamin B1 (Thiamin)</b>: {{ vitB1 }}<br>
+            {% endif %}
+            {% if vitB2 != "" %} 
+                <b>Vitamin B2 (Riboflavin)</b>: {{ vitB2 }}<br>
+            {% endif %}
+            {% if vitB3 != "" %} 
+                <b>Vitamin B3 (Niacin)</b>: {{ vitB3 }}<br>
+            {% endif %}
+            {% if vitB5 != "" %} 
+                <b>Vitamin B5</b>: {{ vitB5 }}<br>
+            {% endif %}
+            {% if vitB6 != "" %} 
+                <b>Vitamin B6 (Pyridoxine)</b>: {{ vitB6 }}<br>
+            {% endif %}
+            {% if vitB9 != "" %} 
+                <b>Vitamin B9 (Folate)</b>: {{ vitB9 }}<br>
+            {% endif %}
+            {% if vitB12 != "" %} 
+                <b>Vitamin B12</b>: {{ vitB12 }}<br>
+            {% endif %}
+            {% if vitC != "" %} 
+                <b>Vitamin C</b>: {{ vitC }}<br>
+            {% endif %}
+            {% if vitD != "" %} 
+                <b>Vitamin D</b>: {{ vitD }}<br>
+            {% endif %}
+            {% if vitE != "" %} 
+                <b>Vitamin E</b>: {{ vitE }}<br>
+            {% endif %}
+            {% if vitK != "" %} 
+                <b>Vitamin K</b>: {{ vitK }}<br>
+            {% endif %}
+            {% if choline != "" %} 
+                <b>Choline</b>: {{ choline }}<br>
+            {% endif %}
+
+            {% if shorterFacts == "false" %} ------------------------------------------<br> {% endif %}
+
+            {% if cop != "" %} 
+                <b>Copper</b>: {{ cop }}<br>
+            {% endif %}
+            {% if calc != "" %} 
+                <b>Calcium</b>: {{ calc }}<br>
+            {% endif %}
+            {% if iron != "" %} 
+                <b>Iron</b>: {{ iron }}<br>
+            {% endif %}
+            {% if magn != "" %} 
+                <b>Magnesium</b>: {{ magn }}<br>
+            {% endif %}
+            {% if mang != "" %} 
+                <b>Manganese</b>: {{ mang }}<br>
+            {% endif %}
+            {% if phos != "" %} 
+                <b>Phosphorus</b>: {{ phos }}<br>
+            {% endif %}
+            {% if pot != "" %} 
+                <b>Potassium</b>: {{ pot }}<br>
+            {% endif %}
+            {% if sel != "" %} 
+                <b>Selenium</b>: {{ sel }}<br>
+            {% endif %}
+            {% if zinc != "" %} 
+                <b>Zinc</b>: {{ zinc }}<br>
+            {% endif %}
+            ------------------------------------------<br>
 
         </div>
 
