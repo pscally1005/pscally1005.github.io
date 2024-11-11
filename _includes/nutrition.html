@@ -59,46 +59,46 @@
     {% if facts %}
 
         <!-- Variables -->
-        {% assign cal = "" %}
+        {% assign cal = "0" %}
 
-        {% assign fat = "" %}
-        {% assign sat = "" %}
-        {% assign trans = "" %}
-        {% assign poly = "" %}
-        {% assign mono = "" %}
-        {% assign choles = "" %}
+        {% assign fat = "0.0g (0 %)" %}
+        {% assign sat = "0.0g (0 %)" %}
+        {% assign trans = "0.0g (0 %)" %}
+        {% assign poly = "0.0g (0 %)" %}
+        {% assign mono = "0.0g (0 %)" %}
+        {% assign choles = "0mg (0 %)" %}
 
-        {% assign sod = "" %}
+        {% assign sod = "0mg (0 %)" %}
 
-        {% assign carb = "" %}
-        {% assign fib = "" %}
-        {% assign sug = "" %}
+        {% assign carb = "0.0g (0 %)" %}
+        {% assign fib = "0.0g (0 %)" %}
+        {% assign sug = "0.0g (0 %)" %}
 
-        {% assign prot = "" %}
+        {% assign prot = "0.0g (0 %)" %}
 
-        {% assign vitA = "" %}
-        {% assign vitB1 = "" %}
-        {% assign vitB2 = "" %}
-        {% assign vitB3 = "" %}
-        {% assign vitB5 = "" %}
-        {% assign vitB6 = "" %}
-        {% assign vitB9 = "" %}
-        {% assign vitB12 = "" %}
-        {% assign vitC = "" %}
-        {% assign vitD = "" %}
-        {% assign vitE = "" %}
-        {% assign vitK = "" %}
-        {% assign choline = "" %}
+        {% assign vitA = "0.0mcg (0 %)" %}
+        {% assign vitB1 = "0.00mg (0 %)" %}
+        {% assign vitB2 = "0.00mg (0 %)" %}
+        {% assign vitB3 = "0.0mg (0 %)" %}
+        {% assign vitB5 = "0.0mg (0 %)" %}
+        {% assign vitB6 = "0.00mg (0 %)" %}
+        {% assign vitB9 = "0.0mcg (0 %)" %}
+        {% assign vitB12 = "0.0mcg (0 %)" %}
+        {% assign vitC = "0.0mg (0 %)" %}
+        {% assign vitD = "0.00mcg (0 %)" %}
+        {% assign vitE = "0.00mg (0 %)" %}
+        {% assign vitK = "0.0mcg (0 %)" %}
+        {% assign choline = "0mg (0 %)" %}
 
-        {% assign calc = "" %}
-        {% assign cop = "" %}
-        {% assign iron = "" %}
-        {% assign magn = "" %}
-        {% assign mang = "" %}
-        {% assign phos = "" %}
-        {% assign pot = "" %}
-        {% assign sel = "" %}
-        {% assign zinc = "" %}
+        {% assign calc = "0mg (0 %)" %}
+        {% assign cop = "0.00mg (0 %)" %}
+        {% assign iron = "0.00mg (0 %)" %}
+        {% assign magn = "0mg (0 %)" %}
+        {% assign mang = "0.00mg (0 %)" %}
+        {% assign phos = "0mg (0 %)" %}
+        {% assign pot = "0mg (0 %)" %}
+        {% assign sel = "0.0mcg (0 %)" %}
+        {% assign zinc = "0.00mg (0 %)" %}
 
         {% assign loopVar = site.data[facts] %}
         {% if servingSizePost == "true" %}
@@ -256,116 +256,6 @@
 
             {% endfor %}
         {% endfor %}
-
-        <!-- Set blanks to zero -->
-        {% if cal == "" %}
-            {% assign cal = "0" %}
-        {% endif %}
-
-        {% if fat == "" %}
-            {% assign fat = "0.0g (0 %)" %}
-        {% endif %}
-        {% if sat == "" %}
-            {% assign sat = "0.0g (0 %)" %}
-        {% endif %}
-        {% if trans == "" %}
-            {% assign trans = "0.0g (0 %)" %}
-        {% endif %}
-        {% if poly == "" %}
-            {% assign poly = "0.0g (0 %)" %}
-        {% endif %}
-        {% if mono == "" %}
-            {% assign mono = "0.0g (0 %)" %}
-        {% endif %}
-        {% if choles == "" %}
-            {% assign choles = "0mg (0 %)" %}
-        {% endif %}
-
-        {% if sod == "" %}
-            {% assign sod = "0mg (0 %)" %}
-        {% endif %}
-
-        {% if carb == "" %}
-            {% assign carb = "0.0g (0 %)" %}
-        {% endif %}
-        {% if fib == "" %}
-            {% assign fib = "0.0g (0 %)" %}
-        {% endif %}
-        {% if sug == "" %}
-            {% assign sug = "0.0g (0 %)" %}
-        {% endif %}
-
-        {% if prot == "" %}
-            {% assign prot = "0.0g (0 %)" %}
-        {% endif %}
-
-        {% if vitA == "" %}
-            {% assign vitA = "0.0mcg (0 %)" %}
-        {% endif %}
-        {% if vitB1 == "" %}
-            {% assign vitB1 = "0.00mg (0 %)" %}
-        {% endif %}
-        {% if vitB2 == "" %}
-            {% assign vitB2 = "0.00mg (0 %)" %}
-        {% endif %}
-        {% if vitB3 == "" %}
-            {% assign vitB3 = "0.0mg (0 %)" %}
-        {% endif %}
-        {% if vitB5 == "" %}
-            {% assign vitB5 = "0.0mg (0 %)" %}
-        {% endif %}
-        {% if vitB6 == "" %}
-            {% assign vitB6 = "0.00mg (0 %)" %}
-        {% endif %}
-        {% if vitB9 == "" %}
-            {% assign vitB9 = "0.0mcg (0 %)" %}
-        {% endif %}
-        {% if vitB12 == "" %}
-            {% assign vitB12 = "0.0mcg (0 %)" %}
-        {% endif %}
-        {% if vitC == "" %}
-            {% assign vitC = "0.0mg (0 %)" %}
-        {% endif %}
-        {% if vitD == "" %}
-            {% assign vitD = "0.00mcg (0 %)" %}
-        {% endif %}
-        {% if vitE == "" %}
-            {% assign vitE = "0.00mg (0 %)" %}
-        {% endif %}
-        {% if vitK == "" %}
-            {% assign vitK = "0.0mcg (0 %)" %}
-        {% endif %}
-        {% if choline == "" %}
-            {% assign choline = "0mg (0 %)" %}
-        {% endif %}
-
-        {% if calc == "" %}
-            {% assign calc = "0mg (0 %)" %}
-        {% endif %}
-        {% if cop == "" %}
-            {% assign cop = "0.00mg (0 %)" %}
-        {% endif %}
-        {% if iron == "" %}
-            {% assign iron = "0.00mg (0 %)" %}
-        {% endif %}
-        {% if magn == "" %}
-            {% assign magn = "0mg (0 %)" %}
-        {% endif %}
-        {% if mang == "" %}
-            {% assign mang = "0.00mg (0 %)" %}
-        {% endif %}
-        {% if phos == "" %}
-            {% assign phos = "0mg (0 %)" %}
-        {% endif %}
-        {% if pot == "" %}
-            {% assign pot = "0mg (0 %)" %}
-        {% endif %}
-        {% if sel == "" %}
-            {% assign sel = "0.0mcg (0 %)" %}
-        {% endif %}
-        {% if zinc == "" %}
-            {% assign zinc = "0.00mg (0 %)" %}
-        {% endif %}
 
         <!-- Remove nutrients if I don't want them -->
 

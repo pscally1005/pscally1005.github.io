@@ -19,7 +19,7 @@ def fix(vol):
         return str("1/4 tsp")
     elif vol == "0.375 tsp":
         return str("3/8 tsp")
-    elif vol == "0.16 tbsp (15.0 ml) aprx" or vol == "0.5 tsp (5.0 ml) aprx" or vol == "0.5 tsp (1.0 ml) aprx" or vol == "0.5 tsp" or vol == "0.165 tbsp (15.0 ml) aprx" or vol == "4 1/8 tsp" or vol == "0.5 tsp, ground" or vol == "1.2 tsp" or vol == "1/2 tsp, ground" or vol == "1/2 tsp, leaves" or vol == "0.5 tsp | about" or vol == "0.5 tsp (1.2 ml) aprx" or vol == "0.5 teaspoon" or vol == "0.15 tbsp (15.0 ml) aprx" or vol == "2 1/4 tsp":
+    elif vol == "0.16 tbsp (15.0 ml) aprx" or vol == "0.5 tsp (5.0 ml) aprx" or vol == "0.5 tsp (1.0 ml) aprx" or vol == "0.5 tsp" or vol == "0.165 tbsp (15.0 ml) aprx" or vol == "4 1/8 tsp" or vol == "0.5 tsp, ground" or vol == "1/2 tsp, ground" or vol == "1/2 tsp, leaves" or vol == "0.5 tsp | about" or vol == "0.5 tsp (1.2 ml) aprx" or vol == "0.5 teaspoon" or vol == "0.15 tbsp (15.0 ml) aprx" or vol == "2 1/4 tsp":
         return str("1/2 tsp")
     elif vol == "0.75 tsp" or vol == "0.25 tbsp (15.0 ml) aprx" or vol == "0.25 tbsp" or vol == "3/4 tsp, ground" or vol == "0.75 tsp, ground" or vol == "3/4 tsp, leaves" or vol == "0.75 tsp, leaves" or vol == "0.75 tsp | about" or vol == "0.75 tsp (1.2 ml) aprx" or vol == "0.75 teaspoon" or vol == "3 1/4 tsp":
         return str("3/4 tsp")
@@ -79,7 +79,7 @@ def fix(vol):
         return str("1.33 cup")
     elif vol == "2 container" or vol == "24 tbsp" or vol == "1.555 cup, NFS" or vol == "3.25 1/2 cup" or vol == "1.5 cup, chunks" or vol == "1.5 cup pieces" or vol == "2 3/4 cup":
         return str("1.5 cup")
-    elif vol == "1.98 cup" or vol == "2.665 container" or vol == "2 cup, frozen" or vol == "5 1/3 cup" or vol == "7.5 1/3 cup" or vol == "2 cup, chopped" or vol == "32 tbsp" or vol == "32 Tbsp" or vol == "1.855 cup":
+    elif vol == "1.88 cup, unthawed" or vol == "1.98 cup" or vol == "2.665 container" or vol == "2 cup, frozen" or vol == "5 1/3 cup" or vol == "7.5 1/3 cup" or vol == "2 cup, chopped" or vol == "32 tbsp" or vol == "32 Tbsp" or vol == "1.855 cup":
         return str("2 cup")
     elif vol == "2.52 cup":
         return str("2.5 cup")
@@ -199,7 +199,7 @@ def fix(vol):
         return str("2 medium")
     elif vol == "3 fruit, without skin and seed" or vol == "3 medium (approx 2-3/4 long, 2-1/2 dia.)" or vol == "3 banana" or vol == "3 Banana" or vol == "3 onion" or vol == "3 Onion" or vol == "3 medium bell peppers" or vol == "3 whole" or vol == "3 English" or vol == "3 Italian tomato"or vol == "3 plum tomato" or vol == "3 small" or vol == "3 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("3 medium")
-    elif vol == "4 fruit, without skin and seed" or vol == "4 banana" or vol == "4 Banana" or vol == "4 onion" or vol == "4 Onion" or vol == "4 medium bell peppers" or vol == "4 whole" or vol == "4 English" or vol == "4 Italian tomato"or vol == "4 plum tomato" or vol == "4 small" or vol == "4 eggplant, unpeeled (approx 1-1/4 lb)":
+    elif vol == "4 medium (2-1/2 dia)" or vol == "4 fruit, without skin and seed" or vol == "4 banana" or vol == "4 Banana" or vol == "4 onion" or vol == "4 Onion" or vol == "4 medium bell peppers" or vol == "4 whole" or vol == "4 English" or vol == "4 Italian tomato"or vol == "4 plum tomato" or vol == "4 small" or vol == "4 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("4 medium")
     elif vol == "5 fruit, without skin and seed" or vol == "5 banana" or vol == "5 Banana" or vol == "5 onion" or vol == "5 Onion" or vol == "5 medium bell peppers" or vol == "5 whole" or vol == "5 English" or vol == "5 Italian tomato"or vol == "5 plum tomato" or vol == "5 small" or vol == "5 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("5 medium")
@@ -211,7 +211,7 @@ def fix(vol):
         return str("1 medium")
     elif vol == "2 kiwi | per":
         return str("2 medium")
-    elif vol == "0.82 Banana":
+    elif vol == "0.82 Banana" or vol == "0.735 fruit, without skin and seed":
         return str("1 small")
     elif vol == "1 plantain":
         return str("1 large or 2 small")

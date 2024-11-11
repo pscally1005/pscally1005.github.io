@@ -51,17 +51,40 @@
     <!-- Calculate cost per serving -->
     {% assign servingCost = recipeCost | divided_by: servings %}
 
+    <!-- Format recipe cost with 2 decimal places -->
+    {% assign formattedRecipeCost = recipeCost | round: 2 %}
+    {% assign formattedServingCost = servingCost | round: 2 %}
+
+    <!-- Format both values to ensure two decimal places -->
+    {% assign recipeCostString = formattedRecipeCost | remove: ',' %}
+    {% assign servingCostString = formattedServingCost | remove: ',' %}
+
+    <!-- Force two decimal places for both -->
+    {% if recipeCostString contains '.' %}
+        {% assign recipeCostString = recipeCostString | append: "00" | split: "." %}
+        {% assign recipeCostString = recipeCostString[0] | append: "." | append: recipeCostString[1] | slice: 0, 4 %}
+    {% else %}
+        {% assign recipeCostString = recipeCostString | append: ".00" %}
+    {% endif %}
+
+    {% if servingCostString contains '.' %}
+        {% assign servingCostString = servingCostString | append: "00" | split: "." %}
+        {% assign servingCostString = servingCostString[0] | append: "." | append: servingCostString[1] | slice: 0, 4 %}
+    {% else %}
+        {% assign servingCostString = servingCostString | append: ".00" %}
+    {% endif %}
+
     <!-- Print total and serving costs -->
     <div class="recipe-header">Cost</div>
     <div id="recipe"></div>
     <div class="ingredient-item" style="margin-bottom: 5px !important; display: inline !important;">
         <div class="recipe-section-bold" style="font-style: normal !important;">Total Cost: </div>
-        <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}">${{ recipeCost | round: 2 }}</span>
+        <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}">${{ recipeCostString }}</span>
         <span class="recipe-vol" style="color:var(--minima-background-color) !important; font-size:0 !important;">{{ vol }}</span>
         <span class="recipe-grams" data-base="{{ mass }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">({{ mass }} {{ unit }})</span>
         <span class="ingredient-cost" data-base-cost="{{ totalCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important; display: block !important;">$({{ totalCost.toFixed(2) }})</span>
         <div class="recipe-section-bold" style="font-style: normal !important;">Cost per Serving: </div>
-        <div class="total-cost">${{ servingCost | round: 2 }}</div> <!-- Use round for proper decimal formatting -->
+        <div class="total-cost">${{ servingCostString }}</div>
     </div>
 
 {% endif %}

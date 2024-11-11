@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Indoor Roasted S'mores"
+date:   2024-11-12 00:00:00 -05000
+categories: 
+- Misc.
+- Unhealthy Recipes
+permalink: /recipes/smores
+image: /assets/Misc/Unhealthy/Smores/smores-cover.jpg
+ing: smores-ing
+facts: smores-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 2
+Rest: 
+Cook: 2
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/rQwUr
+tags: 
+- smore
+- s'more
+- oven
+- air fry
+- campfire
+- roast
+- marshmallow
+- chocolate
+- graham cracker
+- winter
+- inside
+Description: It's starting to get cold outside, but that doesn't mean you can't still enjoy a s'more every now and then. You can whip one up in less than 5 minutes using your air fryer or oven, and dare I say that these taste better than the ones over the campfire
+Instructions: 
+- Preheat your air fryer to 400F, and prepare a small piece of parchment paper. Break your graham cracker in half<br><br>
+- <center><img src="/assets/Misc/Unhealthy/Smores/smores-ing.jpg" alt="" class="instruction-image"></center><br>
+
+- Air fry the graham cracker, chocolate, and marshmallow for about 2 minutes, or until golden. Top with the other half of the cracker, and enjoy<br><br>
+- <center><img src="/assets/Misc/Unhealthy/Smores/smores-airfry.jpg" alt="" class="instruction-image"></center><br>
+
+- You can also use the oven as well. Use foil instead of parchment paper, and cook under the broiler for about 2 minutes, until golden
+---

@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Sugar Free Cranberry Sauce"
+date:   2024-11-11 00:00:00 -05000
+categories: 
+- Recipes
+- Sweet Spreads
+permalink: /recipes/cranberry-sauce
+image: /assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-cover.jpg
+ing: cranberrysauce-ing
+facts: cranberrysauce-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 10
+Source1: https://frommybowl.com/healthy-cranberry-sauce/?utm_source=whisk&utm_medium=webapp&utm_campaign=minimally_sweetened_cranberry_sauce
+Source2: 
+whisk: https://s.samsungfood.com/mUIoc
+Source2: 
+tags: 
+- thanksgiving
+- cranberries
+- cinnamon
+- vanilla
+- liquid monk fruit
+- liquid stevia
+Description: It's almost Thanksgiving, which means it's time for cranberry sauce. But this isn't your aunt's typical cranberry sauce. It's sugar free, being sweetened just from fresh mandarin oranges and a little liquid monk fruit. You can adjust the sweetness to your taste preferences, or add some maple syrup if you like it super sweet. Spoon on top of your turkey, or use it for your morning oatmeal, I won't tell.
+Instructions: 
+- Peel your oranges, and add to a food processor. Blend until smooth, and transfer to a medium pot<br><br>
+- <center><img src="/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-orange.jpg" alt="" class="instruction-image"></center><br>
+
+- Add your cranberries, water, and cinnamon to the pot, cover, and bring to a boil over medium-high heat<br><br>
+
+- Reduce the heat to medium and simmer for about 6 minutes (covered), until most of the cranberries have broken down. Stir the mixture frequently to ensure nothing burns or sticks to the pan, and to further break down the cranberries.<br><br>
+- <center><img src="/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-cooked.jpg" alt="" class="instruction-image"></center><br>
+
+- Remove from the heat, and use a potato masher to roughly mash the cranberries to desired consistency. Stir in the vanilla and stevia, sweeten to taste, and allow to cool totally before serving<br><br>
+- <center><img src="/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-mashed.jpg" alt="" class="instruction-image"></center><br>
+
+- This recipe makes about 2.5 cups (600 g), or 10 servings of 1/4 cup (60 g) each. Refrigerate or freeze the leftovers
+---

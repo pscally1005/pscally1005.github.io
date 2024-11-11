@@ -124,6 +124,8 @@ def ingredients(food):
         return str("Date sweetened ketchup")
     
     # Baking
+    elif food == "Nabisco, Nabisco Grahams Crackers":
+        return str("Graham cracker")
     elif food == "Now, whole psyllium husks by Now Health Group Inc.":
         return str("Psyllium husks, whole")
     elif food == "Millet flour":
@@ -158,8 +160,8 @@ def ingredients(food):
         return str("Chia seeds")
     elif food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc." or food == "Premium whole ground flax seed meal by Bob's Red Mill Natural Foods, Inc.":
         return str("Ground flaxseed")
-    elif food == "Sugar substitute, liquid, stevia" or food == "Stevia zero calorie liquid sweetener by PURE VIA":
-        return str("Liquid stevia or monk fruit")
+    elif food == "Sugar substitute, liquid, stevia" or food == "Stevia zero calorie liquid sweetener by PURE VIA" or food == "Liquid stevia or monk fruit":
+        return str("Liquid monk fruit")
     elif food == "Peanut butter powder by PBFIT" or food == "Powdered peanut butter by PB2":
         return str("Powdered peanut butter")
     elif food == "Premium quality pure almond extract by Morton Bassett Inc." or food == "Pure almond extract by FIRST STREET" or food == "Pure almond extract by Morton Bassett Inc." or food == "Almond extract by Morton Bassett Inc.":
@@ -242,6 +244,8 @@ def ingredients(food):
         return str("Skim milk")
 
     # Fresh produce
+    elif food == "Tangerines, raw, (mandarin oranges)":
+        return str("Mandarin orange")
     elif food == "Corn, raw, yellow, sweet":
         return str("Corn on the cob")
     elif food == "Cabbage, raw" or food == "Cabbage, raw, green":
@@ -386,6 +390,8 @@ def ingredients(food):
         return str("Saurkraut")
     
     # Nuts, chocolate, dried fruit
+    elif food == "Chocolate, 45- 59% cacao solids, dark":
+        return str("50% chocolate")
     elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium" or food == "Nuts, without salt added, plain, almond butter":
         return str("Almond butter")
     elif food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
