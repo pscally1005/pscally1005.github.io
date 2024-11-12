@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Traditional Fudge Recipe"
+date:   2024-11-13 00:00:00 -05000
+categories: 
+- Misc.
+- Unhealthy Recipes
+permalink: /recipes/classic-fudge
+image: /assets/Misc/Unhealthy/Fudge/fudge-cover.jpg
+ing: fudge-ing
+facts: fudge-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 180
+Cook: 15
+Source1: https://www.ghirardelli.com/recipes/ghirardelli-peanut-butter-swirled-fudge-rec1136
+Source2: 
+whisk: https://s.samsungfood.com/q2v1J
+tags: 
+- fudge
+- winter
+- marshmallow
+- evaporated milk
+- sugar
+- dessert
+- chocolate
+Description: I used to make this fudge for my family's annual summer barbeque, and it's always a massive hit. It's something I can only make once a year given how sugary and rich it is, but it's fine to have on the very rare occasion. Fudge also works well as a gift too, and can be easily customized:<br><br><ul>
+    <li><b>Peanut Swirl</b> - swirl in 1/2 cup (128 g) of peanut butter, and top with 1/3 cup (50 g) chopped peanuts</li>
+    <li><b>Peppermint</b> - replace vanilla with 1/4 tsp mint extract, and top with chopped peppermint candies</li>
+    <li><b>Cookies & Cream</b> - mix in and top with some crushed oreos</li></ul>&emsp;If you omit the sugar and marshmallows, and instead sweeten with some liquid monk fruit, you will end up with my <a href="/recipes/keto-fudge">Bittersweet Keto Fudge</a>, which is less than half the calories, sugar free, and has that same fudge texture with a bold chocolate flavor.  On the left is my classic fudge, and on the right is the sugar free version<br><br><center><img src="/assets/Misc/Unhealthy/Fudge/fudge-compare.jpg" alt="" class="instruction-image"></center>
+Instructions: 
+- Line an 8" square pan with parchment paper, and set aside<br><br>
+
+- In a medium saucepot over medium-high heat, combine the evaporated milk, sugar, butter, and salt with a heat-proof silicone spatula.  Wear an oven mitt on your mixing hand to prevent burning from splashing<br><br>
+
+- Bring to a full rolling boil. Stir constantly, scraping the bottom, sides, and corners of the pot to prevent sticking and burning.  Let boil for 5 minutes under constant stirring<br><br>
+- <center><img src="/assets/Misc/Unhealthy/Fudge/fudge-boil.jpg" alt="" class="instruction-image"></center><br>
+
+- Remove from heat and add your marshmallows, chocolate, and vanilla. You can either use 2 cups of mini marshmallows, or 13 regular marshmallows (chopped)<br><br>
+
+- Vigorously stir to completely melt the marshmallows and chocolate, and the mixture is smooth<br><br>
+- <center><img src="/assets/Misc/Unhealthy/Fudge/fudge-choc.jpg" alt="" class="instruction-image"></center><br>
+
+- Transfer the fudge into your lined pan, and level it out by tilting the pan.  Chill in the fridge for 3 hours to set before slicing<br><br>
+- <center><img src="/assets/Misc/Unhealthy/Fudge/fudge-cool.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Misc/Unhealthy/Fudge/fudge-slice.jpg" alt="" class="half-page"></center>
+---

@@ -218,6 +218,8 @@ def ingredients(food):
         return str("Buttermilk")
     elif food == "Fat free ultra-filtered milk by FAIRLIFE" or food == "Fairlife Skim Milk":
         return str("Fairlife skim milk")
+    elif food == "Milk, with added vitamin A, evaporated, canned":
+        return str("Evaporated milk")
     elif food == "Eggs, egg whole, Large, Grade A" or food == "Large egg" or food == "Large Egg":
         return str("Egg")
     elif food == "100% liquid egg whites by KROGER":
