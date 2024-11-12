@@ -88,7 +88,7 @@ def ingredients(food):
         return str("Extra virgin olive oil")
     elif food == "Extra virgin coconut oil by KELAPO" or food == "Oil, coconut" or food == "Extra virgin coconut oil by VITA BRAND":
         return str("Extra virgin coconut oil")
-    elif food == "Oil, sesame":
+    elif food == "Oil, sesame" or food == "Sesame oil by DABUR":
         return str("Sesame oil")
     elif food == "White distilled vinegar by FAREWAY" or food == "Distilled white vinegar by Raley's" or food == "White wine vinegar by CIRIO" or food == "Distilled white vinegar by HYTOR" or food == "Distilled white vinegra by OLIO":
         return str("White vinegar")

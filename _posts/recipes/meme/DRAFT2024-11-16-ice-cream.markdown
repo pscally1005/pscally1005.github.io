@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poor Man's Ice Cream"
-date:   2024-11-15 00:00:00 -05000
+date:   2024-11-16 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
