@@ -18,7 +18,7 @@ start4:
 section4: 
 start5: 
 section5: 
-Prep: 5
+Prep: 10
 Rest: 180
 Cook: 
 Source1: https://m.youtube.com/shorts/FW5ns86UjsE
