@@ -257,6 +257,33 @@
             {% endfor %}
         {% endfor %}
 
+        <!-- Calculate added sugar -->
+        {% assign recipeSugar = 0.0 %}
+        {% assign servings = 1 | times: 1 %}
+
+        {% for row in site.data[ing] %}
+            {% if forloop.last %}
+                {% assign servings = row["Amount"] | times: 1 %}
+                {% continue %}
+            {% endif %}
+
+            {% assign food = row["Ingredient"] %}
+            {% assign mass = row["Amount"] | times: 1.0 %}
+
+            {% for row in site.data.foods %}
+                <!-- Added sugar per ingredient -->
+                {% if row["Food"] == food %}
+                    {% assign added_sugar = row["Add Sug per 100 g"] | times: 1.0 %}
+                    {% assign itemSugar = added_sugar | times: mass | divided_by: 100 %}
+                    {% assign recipeSugar = recipeSugar | plus: itemSugar %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}  
+
+        {% endfor %}
+
+        {% assign recipeSugar = recipeSugar | divided_by: servings %}
+
         <!-- Remove nutrients if I don't want them -->
 
         <!-- Recipe -->
@@ -286,6 +313,7 @@
             {% assign poly = "" %}
             {% assign mono = "" %}
             {% assign choles = "" %}
+            {% assign recipeSugar = "" %}
             {% assign vitA = "" %}
             {% assign vitB1 = "" %}
             {% assign vitB2 = "" %}
@@ -319,6 +347,7 @@
             {% assign carb = "" %}
             {% assign fib = "" %}
             {% assign sug = "" %}
+            {% assign recipeSugar = "" %}
             {% assign vitA = "" %}
             {% assign vitB9 = "" %}
             {% assign vitC = "" %}
@@ -365,10 +394,14 @@
                 <b>Total Carbohydrate</b>: {{ carb }}<br>
             {% endif %}
             {% if fib != "" %} 
-                &emsp;<b>Dietary Fiber</b>: {{ fib }}<br>
+                &emsp;<b>Fiber</b>: {{ fib }}<br>
             {% endif %}
             {% if sug != "" %} 
-                &emsp;<b>Sugar</b>: {{ sug }}<br>
+                &emsp;<b>Total Sugar</b>: {{ sug }}<br>
+            {% endif %}
+            {% if recipeSugar != "" %} 
+                {% assign add_sug_per = recipeSugar | divided_by: 50 | times: 100 | round: 0 %}
+                &emsp;&emsp;<b>Added Sugar</b>: {{ recipeSugar | round: 1 }} g ({{add_sug_per}} %)<br>
             {% endif %}
 
             {% if prot != "" %} 
