@@ -260,30 +260,41 @@ def main(path = ""):
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*-ing.csv"
         print("empty path")
 
-    # loop through all the files
+    # Loop through all the files
+    change_count = 0
     for fname in glob.glob(path):
+        changed = False
+        updated_rows = []
 
-        with open(fname, 'r+', newline='') as csvfile:
-            spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
+        # Read the file and update rows as needed
+        with open(fname, 'r', newline='') as csvfile:
+            reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+            for i, row in enumerate(reader):
+                if i == 0 or len(row) != 4:
+                    # Header row, keep as is
+                    updated_rows.append(row)
+                    continue
+                original_volume = row[3]
+                updated_volume = fix(original_volume)
+                if original_volume != updated_volume:
+                    changed = True
+                row[3] = updated_volume
+                updated_rows.append(row)
 
-            i = 0
-            for row in spamreader:
-                temp = fname[:-4] + "-temp.csv"
+        # If changes were made, write to a temporary file and replace original
+        if changed:
+            temp_file = fname[:-4] + "-temp.csv"
+            with open(temp_file, 'w', newline='') as csvfile:
+                writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                writer.writerows(updated_rows)
 
-                if len(row) == 4 and i != 0:
-                    row[3] = fix(row[3])
-                    line = '"' + row[0] + '",' + row[1] + ',' + row[2] + ',"' + row[3] + '"\n'
-                else:
-                    line = ','.join(row) + "\n"
+            # Replace the original file
+            os.remove(fname)
+            os.rename(temp_file, fname)
+            print(f"Updated: {fname}")
+            change_count += 1
 
-                with open(temp, 'a') as fout:
-                    fout.writelines(line)
-
-                i = i+1
-
-        os.remove(fname)
-        os.rename(temp, fname)            
-        print(fname)
+    print(f"{change_count} files changed")
 
 if __name__ == '__main__':
     main()
