@@ -1,0 +1,34 @@
+---
+layout: base
+title: "Nutrition Facts"
+permalink: /recipes/poor-mans-ice-cream/nutrition_facts/
+---
+
+{% assign nutrition_data = site.data[pooricecream-facts] %}
+
+<h1>Nutrition Facts for {{ page.title | capitalize }}</h1>
+
+{% if nutrition_data %}
+  <table>
+    <thead>
+      <tr>
+        <th>Nutrient</th>
+        <th>Amount</th>
+        <th>Unit</th>
+        <th>DV</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in nutrition_data %}
+        <tr>
+          <td>{{ row.Nutrient }}</td>
+          <td>{{ row.Amount }}</td>
+          <td>{{ row.Unit }}</td>
+          <td>{{ row.DV }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% else %}
+  <p>No nutrition data available for this recipe.</p>
+{% endif %}

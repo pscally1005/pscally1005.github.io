@@ -5,6 +5,7 @@ date:   2024-07-22 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+- Archive
 permalink: /recipes/cottage-cheese-alfredo
 image: /assets/Food/Savory Sauces/Alfredo/alfredo-squash.jpg
 ing: alfredo-ing

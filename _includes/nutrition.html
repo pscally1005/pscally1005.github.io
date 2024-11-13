@@ -74,6 +74,11 @@
         {% assign fib = "0.0g (0 %)" %}
         {% assign sug = "0.0g (0 %)" %}
 
+        {% assign totalSugar = 0.0 %}
+        {% assign addedSugar = 0.0 %}
+        {% assign addedSugarPercentage = 0 %}
+        {% assign addedSugarStr = 0.0g (0 %) %}
+
         {% assign prot = "0.0g (0 %)" %}
 
         {% assign vitA = "0.0mcg (0 %)" %}
@@ -160,6 +165,7 @@
 
                 {% if pair[1] == "Sugars" %}
                     {% assign sug = line1 %}
+                    {% assign totalSugar = row.Amount | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Protein" %}
@@ -258,9 +264,7 @@
         {% endfor %}
 
         <!-- Calculate added sugar -->
-        {% assign recipeSugar = 0.0 %}
         {% assign servings = 1 | times: 1 %}
-
         {% for row in site.data[ing] %}
             {% if forloop.last %}
                 {% assign servings = row["Amount"] | times: 1 %}
@@ -273,16 +277,14 @@
             {% for row in site.data.foods %}
                 <!-- Added sugar per ingredient -->
                 {% if row["Food"] == food %}
-                    {% assign added_sugar = row["Add Sug per 100 g"] | times: 1.0 %}
-                    {% assign itemSugar = added_sugar | times: mass | divided_by: 100 %}
-                    {% assign recipeSugar = recipeSugar | plus: itemSugar %}
+                    {% assign itemAddedSugar = row["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
+                    {% assign addedSugar = addedSugar | plus: itemAddedSugar %}
                     {% break %}
                 {% endif %}
             {% endfor %}  
 
         {% endfor %}
-
-        {% assign recipeSugar = recipeSugar | divided_by: servings %}
+        {% assign addedSugar = addedSugar | divided_by: servings %}
 
         <!-- Remove nutrients if I don't want them -->
 
@@ -313,7 +315,7 @@
             {% assign poly = "" %}
             {% assign mono = "" %}
             {% assign choles = "" %}
-            {% assign recipeSugar = "" %}
+            {% assign addedSugar = "" %}
             {% assign vitA = "" %}
             {% assign vitB1 = "" %}
             {% assign vitB2 = "" %}
@@ -347,7 +349,7 @@
             {% assign carb = "" %}
             {% assign fib = "" %}
             {% assign sug = "" %}
-            {% assign recipeSugar = "" %}
+            {% assign addedSugar = "" %}
             {% assign vitA = "" %}
             {% assign vitB9 = "" %}
             {% assign vitC = "" %}
@@ -399,9 +401,13 @@
             {% if sug != "" %} 
                 &emsp;<b>Total Sugar</b>: {{ sug }}<br>
             {% endif %}
-            {% if recipeSugar != "" %} 
-                {% assign add_sug_per = recipeSugar | divided_by: 50 | times: 100 | round: 0 %}
-                &emsp;&emsp;<b>Added Sugar</b>: {{ recipeSugar | round: 1 }} g ({{add_sug_per}} %)<br>
+            {% if addedSugar != "" %}
+                {% if addedSugar > totalSugar %}
+                    {% assign addedSugar = totalSugar %}
+                {% endif %}
+                {% assign addedSugarPercentage = addedSugar | divided_by: 50 | times: 100 | round: 0 %}
+                {% assign addedSugarStr = addedSugar | round: 1 | append: 'g (' | append: addedSugarPercentage | append: '%)' %}
+                &emsp;&emsp;<b>Added Sugar</b>: {{ addedSugarStr }}<br>
             {% endif %}
 
             {% if prot != "" %} 
@@ -486,6 +492,11 @@
         <!-- Glycemic index -->
         {% if servingSizePost == "false" %}
             {% include glycemic.html ing=include.ing %}
+        {% endif %}
+
+        <!-- Full nutrition facts -->
+        {% if servingSizePost == "false" %}
+            <br>{% include fullNutritionTable.html facts=facts addedSugar = addedSugar %}
         {% endif %}
 
     {% endif %}

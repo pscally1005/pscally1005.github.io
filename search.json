@@ -59,7 +59,7 @@ layout: none
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "categories": "{{ post.categories }}",
       "date"     : "{{ post.date | date: date_format }}",
-      "tags"     : "{{ post.tags }}",
+      "tags": "{{ post.tags | join: ', ' }}",
       "image"    : "{{ post.image }}",
       "ingred"   : "{{ post.ing }}",
       "gluten-free": "{{ gluten_free }}",

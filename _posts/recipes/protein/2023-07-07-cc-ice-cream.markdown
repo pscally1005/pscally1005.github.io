@@ -43,9 +43,7 @@ Description: Cottage cheese ice cream is more than just an Internet food trend. 
 Instructions: 
 - Mix base ingredients together in a tupperware or small blender - cottage cheese, whey, stevia, and vanilla<br><br>
 
-- Choose a flavor and mix in ingredients.  Here are some example flavors<br>
-- <b>Peanut Butter Chocolate</b> - 1 tbsp (16 g) natural peanut butter, 1 tbsp (5 g) cocoa powder, and a dash of almond extract<br>
-- <b>Mint Chocolate</b> - 2 drops of mint extract, and 1 tbsp (5 g) cocoa powder<br><br>
+- Choose a flavor and mix in ingredients.  Here are some example flavors:<br><ul><li><b>Peanut Butter Chocolate</b> - 1 tbsp (16 g) natural peanut butter, 1 tbsp (5 g) cocoa powder, and a dash of almond extract</li><li><b>Mint Chocolate</b> - 2 drops of mint extract, and 1 tbsp (5 g) cocoa powder</li></ul>
 
 - Churn the ice cream every half hour or so for about 2-3 hours. Doing so will prevent it from getting too icy<br><br>
 

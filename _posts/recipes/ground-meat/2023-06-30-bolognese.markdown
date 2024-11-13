@@ -12,7 +12,7 @@ facts: bolognese-facts
 section1: Vegetables
 start2: Ground turkey, 93/7
 section2: Meat
-start3: Tomato paste
+start3: Tomato paste, canned
 section3: Sauce & Spices
 start4: 
 section4: 

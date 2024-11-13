@@ -1,0 +1,109 @@
+<!-- Button to open the table in a new window -->
+<button id="openInNewWindowBtn">Full Nutrition Facts</button>
+
+<!-- Variables -->
+{% assign facts = include.facts %}
+{% assign addedSugarNum = include.addedSugar %}
+{% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 | append: '&nbsp;%' %}
+
+<!-- JavaScript to open the table in a new window -->
+<script>
+    document.getElementById('openInNewWindowBtn').addEventListener('click', function() {
+        // Retrieve the values of CSS variables
+        var rootStyles = getComputedStyle(document.documentElement);
+        var backgroundColor = rootStyles.getPropertyValue('--minima-background-color').trim();  // Get background color from root
+        var textColor = rootStyles.getPropertyValue('--minima-text-color').trim();  // Get text color from root
+
+        // Define the table structure as a string
+        var tableContent = '<html><head><title>Nutrition Facts</title>';
+        tableContent += '<style>';
+        
+        tableContent += 'table { width: 100%; border-collapse: collapse; background-color: ' + backgroundColor + '; }';
+        
+        // Borders for table cells and text color
+        tableContent += 'th, td { padding: 8px; border: 1px solid black; text-align: left; color: ' + textColor + '; }';
+        
+        // Sticky header for the table with both top and bottom borders
+        tableContent += 'thead th { position: sticky; top: 40px; background-color: ' + backgroundColor + '; z-index: 2; ';
+        tableContent += 'padding-top: 8px; padding-bottom: 8px; border-top: 1px solid black; border-bottom: 1px solid black; color: ' + textColor + '; }';
+        
+        // Fixed position search box with bottom border and matching background and text colors
+        tableContent += '#searchBox { position: fixed; top: 0; z-index: 3; background-color: ' + backgroundColor + '; width: 100%; ';
+        tableContent += 'font-size: 16px; border-bottom: 1px solid black; box-sizing: border-box; padding: 8px; height: 40px; ';
+        tableContent += 'color: ' + textColor + '; }';
+        
+        // Ensure no margin or padding around body to remove any gap between the search box and table
+        tableContent += 'body { margin: 0; padding: 0; padding-top: 40px; background-color: ' + backgroundColor + '; color: ' + textColor + '; }'; 
+
+        tableContent += '</style>';
+        tableContent += '</head><body>';
+        
+        // Add the search box at the very top
+        tableContent += '<input type="text" id="searchBox" placeholder="Search for a nutrient...">';
+
+        // Add the table structure
+        tableContent += '<table>';
+            tableContent += '<thead>';
+                tableContent += '<tr>';
+                    tableContent += '<th>Nutrient</th>';
+                    tableContent += '<th>Amount</th>';
+                    tableContent += '<th>Unit</th>';
+                    tableContent += '<th>DV</th>';
+                tableContent += '</tr>';
+            tableContent += '</thead>';
+
+        tableContent += '<tbody id="nutritionTableBody">';
+            // Loop through the facts data and generate rows
+            {% for row in site.data[facts] %}
+                tableContent += '<tr>';
+                    tableContent += '<td>{{ row.Nutrient }}</td>';
+                    tableContent += '<td>{{ row.Amount }}</td>';
+                    tableContent += '<td>{{ row.Unit }}</td>';
+                    tableContent += '<td>{{ row.DV }}</td>';
+                tableContent += '</tr>';
+            {% endfor %}
+
+            tableContent += '<tr>';
+                tableContent += '<td>Added Sugars</td>';
+                tableContent += '<td>{{addedSugarNum | round: 2}}</td>';
+                tableContent += '<td>g</td>';
+                tableContent += '<td>{{addedSugarPercentage}}</td>';
+            tableContent += '</tr>';
+
+        tableContent += '</tbody></table>';
+
+        tableContent += '</body></html>';
+
+        // Open a new window (you can adjust the size of the window here)
+        var newWindow = window.open('', '_blank', 'width=800,height=600');
+
+        // Write the content of the new window (including the table)
+        newWindow.document.write(tableContent);
+
+        // Add search functionality in the new window
+        newWindow.document.addEventListener('DOMContentLoaded', function () {
+            var searchBox = newWindow.document.getElementById('searchBox');
+            var tableBody = newWindow.document.getElementById('nutritionTableBody');
+            
+            searchBox.addEventListener('input', function () {
+                var searchTerm = searchBox.value.toLowerCase();
+                var rows = tableBody.getElementsByTagName('tr');
+                
+                for (var i = 0; i < rows.length; i++) {
+                    var row = rows[i];
+                    var nutrient = row.cells[0].textContent.toLowerCase(); // Get the text content of the nutrient column
+                    
+                    // If the search term matches the nutrient, show the row; otherwise, hide it
+                    if (nutrient.indexOf(searchTerm) !== -1) {
+                        row.style.display = '';
+                    } else {
+                        row.style.display = 'none';
+                    }
+                }
+            });
+        });
+
+        // Close the document stream
+        newWindow.document.close();
+    });
+</script>

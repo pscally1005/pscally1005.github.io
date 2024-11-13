@@ -1,3 +1,5 @@
+# Download csv to _data folder, and run script to fix ingredient names in ingredients file
+
 import pandas as pd
 import os
 import glob
@@ -23,6 +25,8 @@ def ingredients(food):
         return str("Dried beans")
     elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils" or food == "Lentils, raw, pink or red":
         return str("Red split lentils")
+    elif food == "Beans, with salt, boiled, cooked, mature seeds, navy":
+        return str("Cooked navy beans")
     
     # Spices
     elif food == "Salt, table" or food == "Table salt by FIRST STREET" or food == "Table salt by Morton Salt, Inc." or food == "Salt by Morton Salt, Inc." or food == "Table salt by Cardenas Markets":
@@ -232,7 +236,7 @@ def ingredients(food):
         return str("Grated parmesan cheese")
     elif food == "Unsweetened original almond milk by Supervalu, Inc." or food == "Almond milk, unsweetened":
         return str("Unsweetened almond milk")
-    elif food == "Unsweetened vanilla almond milk, unsweetened vanilla by Danone US, LLC" or food == "Unsweetened vanilla almondmilk by Target Stores" or food == "Unsweetened vanilla almond milk, unsweetened vanilla by Supervalu, Inc." or food == "Unsweetened vanilla almondmilk by Hy-Vee, Inc.":
+    elif food == "Unsweetened vanilla almondmilk by ORGAIN" or food == "Unsweetened vanilla almond milk, unsweetened vanilla by Danone US, LLC" or food == "Unsweetened vanilla almondmilk by Target Stores" or food == "Unsweetened vanilla almond milk, unsweetened vanilla by Supervalu, Inc." or food == "Unsweetened vanilla almondmilk by Hy-Vee, Inc.":
         return str("Unsweetened vanilla almond milk")
     elif food == "Cheese, feta":
         return str("Feta cheese")   
@@ -444,7 +448,7 @@ def ingredients(food):
     # Carbs
     elif food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
         return str("Whole wheat tortilla")
-    elif food == "Bread, whole wheat":
+    elif food == "Bread, whole wheat" or food == "ww-bread":
         return str("Whole wheat bread")
     elif food == "baguette":
         return str("Whole wheat baguette")
@@ -504,10 +508,8 @@ def main(path = ""):
 
     if path == "":
         # path to csv files
-        # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
-        path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
+        path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*-ing.csv"
-        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
         print("empty path")
 
     # loop through all the files

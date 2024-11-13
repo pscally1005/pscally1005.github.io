@@ -21,7 +21,7 @@ section5:
 Prep: 5
 Rest: 
 Cook: 10
-Source1: https://frommybowl.com/healthy-cranberry-sauce/?utm_source=whisk&utm_medium=webapp&utm_campaign=minimally_sweetened_cranberry_sauce
+Source1: https://frommybowl.com/healthy-cranberry-sauce/
 Source2: 
 whisk: https://s.samsungfood.com/mUIoc
 Source2: 

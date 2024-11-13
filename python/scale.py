@@ -1,8 +1,8 @@
 # https://chat.openai.com/share/2dedcf53-d4b9-4779-8981-26cd45b0581e
 
 # HOW TO USE
-# When downloading a photo, temporarily add it to the /assets/Scaled photo, then run the script
-# This will only scale the images in the Scaled photo
+# When downloading a photo, temporarily add it to the /python/testing folder, then run the script
+# This will only scale the images in the testing folder
 # Do not run twice, or the photo will be scaled down again
 # Then, move from the folder to the desired location
 # I could have had it where it renames all photos with a "_scaled" on the end (commented out below)
@@ -50,6 +50,6 @@ def scale_images_in_directory(directory):
                     print(f"Error scaling {filename}: {e}")
 
 # Replace 'path_to_your_directory' with the path to the directory containing your JPG images
-directory_path = r'C:\Users\mets1\Documents\website\assets\Scaled'
-# directory_path = r'C:\Users\mets1\Documents\GitHub\pscally1005.github.io\assets\Scaled'
+directory_path = r'C:\Users\mets1\Documents\website\python\testing'
+# directory_path = r'C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing'
 scale_images_in_directory(directory_path)

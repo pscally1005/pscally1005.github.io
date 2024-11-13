@@ -1,3 +1,5 @@
+# Download csv to _data folder, and run script to split it into ingredients and nutrition facts files
+
 import pandas as pd
 import os
 import glob
@@ -9,10 +11,8 @@ def main(path = ""):
 
     if path == "":
         # path to csv files
-        # path = r"C:\Users\mets1\Documents\website\_data\*.csv"
-        path = r"C:\Users\mets1\Documents\website\python\testing\*.csv"
+        path = r"C:\Users\mets1\Documents\website\_data\*.csv"
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*.csv"
-        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*.csv"
         print("empty path")
 
     # loop through all the files
@@ -20,7 +20,7 @@ def main(path = ""):
     for fname in glob.glob(path):
 
         # only use files that haven't been parsed yet
-        if(fname[-10:] != "-facts.csv" and fname[-8:] != "-ing.csv"):
+        if(fname[-10:] != "-facts.csv" and fname[-8:] != "-ing.csv" and fname[-9:] != "foods.csv"):
             with open(fname, 'r') as fin:
                 data = fin.read().splitlines(True)
 

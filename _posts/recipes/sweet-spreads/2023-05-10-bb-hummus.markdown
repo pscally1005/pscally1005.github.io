@@ -10,7 +10,7 @@ image: /assets/Food/Sweet Spreads/BB Hummus/bb-hummus.jpg
 ing: bbhummus-ing
 facts: bbhummus-facts
 section1: Base
-start2: Liquid stevia or monk fruit
+start2: Liquid monk fruit
 section2: Optional
 start3: 
 section3: 
