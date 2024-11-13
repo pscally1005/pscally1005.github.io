@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poor Man's Ice Cream"
-date:   2024-11-16 00:00:00 -05000
+date:   2024-11-13 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
@@ -29,7 +29,7 @@ tags:
 - evaporated milk
 - liquid monk fruit
 - vanilla
-Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simple, sugar free, and tastes exactly like classic vanilla ice cream. Even Vic agreed that it was spot on to regular vanilla ice cream, and this contains a fraction of the sugar, fat, and calories, all while having more protein, calcium, and vitamin B12. Not bad for a treat!  Here are some flavor ideas you can mess around with:<br><br><ul>
+Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simple, sugar free, and tastes exactly like classic vanilla ice cream. Even Vic agreed that it was spot on to regular vanilla ice cream, and this contains a fraction of the sugar, fat, and calories, all while having more protein, calcium, and vitamin B12.  The ice cream can be scooped right out of the freezer; there's no need to let it sit out and soften! Here are some flavor ideas you can mess around with:<br><br><ul>
     <li><b>Vanilla</b> - 1 tsp (5 g) vanilla extract</li>
     <li><b>Chocolate</b> - 2 tbsp (10 g) cocoa powder</li>
     <li><b>Mint</b> - 1/4 tsp (1.25 g) mint extract</li>
