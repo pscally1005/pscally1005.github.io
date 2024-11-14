@@ -1,4 +1,4 @@
-# Download csv to _data folder, and run script to fix volume measurements in ingredients file
+# Download csv to /python/testing folder, and run script to fix volume measurements in ingredients file
 
 import pandas as pd
 import os
@@ -37,7 +37,7 @@ def fix(vol):
     # tbsp
     elif vol == "0.5 tbsp (15.0 ml) aprx" or vol == "1.5 tsp" or vol == "0.5 tbsp" or vol == "1.5 tsp, ground" or vol == "1.5 tsp, leaves" or vol == "1/2 tbsp, ground" or vol == "1/2 tbsp, leaves" or vol == "1/2 tablespoon" or vol == "1.5 tsp | about" or vol == "1.5 tsp (1.2 ml) aprx" or vol == "1.5 teaspoon" or vol == "0.5 tablespoon" or vol == "4.5 1/4 tsp":
         return str("1/2 tbsp")
-    elif vol == "1.0625 tbsp" or vol == "1.08 tbsp" or vol == "3 tsp" or vol == "0.99 tbsp" or vol == "0.05 cup" or vol == "24 1/8 tsp" or vol == "1.15 tbsp" or vol == "0.0625 cup" or vol == "3 tsp (5.0 ml) aprx" or vol == "3 tsp, leaves" or vol == "1 tbsp (15.0 ml) aprx" or vol == "3 tsp, ground" or vol == "1 tablespoon" or vol == "3 tsp | about" or vol == "0.0625 cup (240.0 ml) aprx" or vol == "3 tsp (1.2 ml) aprx" or vol == "3 teaspoon" or vol == "9 1/4 tsp" or vol == "tbsp" or vol == "1 tbsp, leaves" or vol == "0.0825 cup (60.0 ml) aprx":
+    elif vol == "1.0625 tbsp" or vol == "1.08 tbsp" or vol == "0.85 serving 1 tbsp" or vol == "3 tsp" or vol == "0.99 tbsp" or vol == "0.05 cup" or vol == "24 1/8 tsp" or vol == "1.15 tbsp" or vol == "0.0625 cup" or vol == "1 serving 1 tbsp" or vol == "3 tsp (5.0 ml) aprx" or vol == "3 tsp, leaves" or vol == "1 tbsp (15.0 ml) aprx" or vol == "3 tsp, ground" or vol == "1 tablespoon" or vol == "3 tsp | about" or vol == "0.0625 cup (240.0 ml) aprx" or vol == "3 tsp (1.2 ml) aprx" or vol == "3 teaspoon" or vol == "9 1/4 tsp" or vol == "tbsp" or vol == "1 tbsp, leaves" or vol == "0.0825 cup (60.0 ml) aprx":
         return str("1 tbsp")
     elif vol == "0.09375 cup":
         return str("1.5 tbsp")
@@ -256,45 +256,40 @@ def main(path = ""):
 
     if path == "":
         # path to csv files
-        path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
+        # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
+        path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*-ing.csv"
+        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
         print("empty path")
 
-    # Loop through all the files
-    change_count = 0
+    # loop through all the files
+    changed = 0
     for fname in glob.glob(path):
-        changed = False
-        updated_rows = []
 
-        # Read the file and update rows as needed
-        with open(fname, 'r', newline='') as csvfile:
-            reader = csv.reader(csvfile, delimiter=',', quotechar='"')
-            for i, row in enumerate(reader):
-                if i == 0 or len(row) != 4:
-                    # Header row, keep as is
-                    updated_rows.append(row)
-                    continue
-                original_volume = row[3]
-                updated_volume = fix(original_volume)
-                if original_volume != updated_volume:
-                    changed = True
-                row[3] = updated_volume
-                updated_rows.append(row)
+        with open(fname, 'r+', newline='') as csvfile:
+            spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
 
-        # If changes were made, write to a temporary file and replace original
-        if changed:
-            temp_file = fname[:-4] + "-temp.csv"
-            with open(temp_file, 'w', newline='') as csvfile:
-                writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-                writer.writerows(updated_rows)
+            i = 0
+            for row in spamreader:
+                temp = fname[:-4] + "-temp.csv"
 
-            # Replace the original file
-            os.remove(fname)
-            os.rename(temp_file, fname)
-            print(f"Updated: {fname}")
-            change_count += 1
+                if len(row) == 4 and i != 0:
+                    row[3] = fix(row[3])
+                    line = '"' + row[0] + '",' + row[1] + ',' + row[2] + ',"' + row[3] + '"\n'
+                else:
+                    line = ','.join(row) + "\n"
 
-    print(f"{change_count} files changed")
+                with open(temp, 'a') as fout:
+                    fout.writelines(line)
+
+                i = i+1
+
+        os.remove(fname)
+        os.rename(temp, fname)            
+        print(fname)
+        changed += 1
+
+    print(str(changed) + " files updated")
 
 if __name__ == '__main__':
     main()

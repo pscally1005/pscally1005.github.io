@@ -1,4 +1,4 @@
-# Download csv to _data folder, and run script to fix ingredient names in ingredients file
+# Download csv to /python/testing folder, and run script to fix ingredient names in ingredients file
 
 import pandas as pd
 import os
@@ -6,7 +6,6 @@ import glob
 import csv
 
 def ingredients(food):
-
     # Misc
     if food == "Water, generic, bottled":
         return str("Water")
@@ -504,49 +503,46 @@ def ingredients(food):
 
 def main(path = ""):
 
+
     os.system('cls')
 
     if path == "":
         # path to csv files
-        path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
+        # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
+        path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*-ing.csv"
+        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
         print("empty path")
 
-     # Loop through all the files
-    change_count = 0
+    # loop through all the files
+    changed = 0
     for fname in glob.glob(path):
-        changed = False
-        updated_rows = []
 
-        # Read the file and update rows as needed
-        with open(fname, 'r', newline='') as csvfile:
-            reader = csv.reader(csvfile, delimiter=',', quotechar='"')
-            for i, row in enumerate(reader):
-                if i == 0 or len(row) != 4:
-                    # Header row, keep as is
-                    updated_rows.append(row)
-                    continue
-                original_food = row[0]
-                updated_food = ingredients(original_food)
-                if original_food != updated_food:
-                    changed = True
-                row[0] = updated_food
-                updated_rows.append(row)
+        with open(fname, 'r+', newline='') as csvfile:
+            spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
 
-        # If changes were made, write to a temporary file and replace original
-        if changed:
-            temp_file = fname[:-4] + "-temp.csv"
-            with open(temp_file, 'w', newline='') as csvfile:
-                writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-                writer.writerows(updated_rows)
+            i = 0
+            for row in spamreader:
+                row[0] = ingredients(row[0])
 
-            # Replace the original file
-            os.remove(fname)
-            os.rename(temp_file, fname)
-            print(f"Updated: {fname}")
-            change_count += 1
+                temp = fname[:-4] + "-temp.csv"
 
-    print(f"{change_count} files changed")
+                if len(row) == 4 and i != 0:
+                    line = '"' + row[0] + '",' + row[1] + ',' + row[2] + ',"' + row[3] + '"\n'
+                else:
+                    line = ','.join(row) + "\n"
+
+                with open(temp, 'a') as fout:
+                    fout.writelines(line)
+
+                i = i+1
+
+        os.remove(fname)
+        os.rename(temp, fname)            
+        print(fname)
+        changed += 1
+
+    print(str(changed) + " files updated")
 
 if __name__ == '__main__':
     main()
