@@ -44,7 +44,7 @@ Instructions:
 - For the vanilla, add 2 bananas (220 g) to a food processor. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in milk (2 tbsp, 30 g) and vanilla. Transfer to a loaf pan, only filling up 1/3 of the left side of the pan<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Neopolitan/neopolitan-3.jpg" alt="" class="instruction-image"></center><br>
 
-- For the strawberry, add 2 bananas (220 g) to a food processor with frozen strawberries. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in milk (2 tbsp, 30 g). Transfer to a loaf pan, only filling up 1/3 of the right side of the pan<br><br>
+- For the strawberry, add 1 banana (110 g) to a food processor with frozen strawberries. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in milk (2 tbsp, 30 g). Transfer to a loaf pan, only filling up 1/3 of the right side of the pan<br><br>
 - <center><img src="/assets/Food/Healthier Dessert/Neopolitan/neopolitan-4.jpg" alt="" class="instruction-image"></center><br>
 
 - Finally, for the chocolate, add 2 bananas (220 g) to a food processor. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in the milk (2 tbsp, 30 g) and cocoa. Transfer to a loaf pan, filling in the 1/3 gap in the center<br><br>

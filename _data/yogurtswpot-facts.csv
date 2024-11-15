@@ -1,8 +1,8 @@
 Nutrient,Amount,Unit,DV
 Calories,524,,
-"Vitamin A, RAE",3.94,mcg,0 %
-"Carotene, alpha",0.04,mcg,
-"Carotene, beta",14.07,mcg,
+"Vitamin A, RAE",964.94,mcg,107 %
+"Carotene, alpha",43.04,mcg,
+"Carotene, beta",11523.07,mcg,
 "Cryptoxanthin, beta",5.39,mcg,
 "Lutein + zeaxanthin",42.68,mcg,
 "Lycopene",0.59,mcg,
@@ -43,7 +43,7 @@ Calories,524,,
 "Phosphorus",524.4,mg,42 %
 "Potassium",1288.44,mg,27 %
 "Selenium",21.89,mcg,40 %
-"Sodium",322.14,mg,14 %
+"Sodium",112.14,mg,5 %
 "Zinc",2.72,mg,25 %
 "Protein",41.8,g,84 %
 "Alanine",0.467,g,

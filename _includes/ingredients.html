@@ -162,9 +162,11 @@
 
                 <!-- Calculate cost -->
                 {% assign unitCost = "" %}
+                {% assign link = "" %}
                 {% for costRow in site.data.foods %}
                     {% if costRow["Food"] == food %}
                         {% assign unitCost = costRow["Unit Cost ($/g)"] | times: 1.0 %}
+                        {% assign link = costRow["Link"] %}
                         {% break %}
                     {% endif %}
                 {% endfor %}
@@ -180,36 +182,8 @@
                         <span class="recipe-vol">{{ vol }}</span>
                         <span class="recipe-grams" data-base="{{ mass }}">({{ mass }} {{ unit }})</span>
 
-                        {% if food == "No sugar added apple spread" %}
-                            <span class="recipe-food"><a href="/recipes/apple-spread">{{ food }}</a></span>
-                        {% elsif food == "Unsweetened BBQ Sauce" or food == "Unsweetened BBQ sauce" %}
-                            <span class="recipe-food"><a href="/recipes/bbq-sauce">{{ food }}</a></span>
-                        {% elsif food == "Date Sweetened Ketchup" or food == "Date sweetened ketchup" %}
-                            <span class="recipe-food"><a href="/recipes/ketchup">{{ food }}</a></span>
-                        {% elsif food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Sunflower butter" or food == "Sunflower seed butter" or food == "Pumpkin seed butter" or food == "Almond butter" or food == "Tahini" or food == "Cashew butter" or food == "Walnut butter" or food == "Coconut butter" %}
-                            <span class="recipe-food"><a href="/recipes/natural-peanut-butter">{{ food }}</a></span>
-                        {% elsif food == "Pumpkin puree" or food == "Pumpkin Puree" %}
-                            <span class="recipe-food"><a href="/recipes/pumpkin-puree">{{ food }}</a></span>
-                        {% elsif food == "Pumpkin puree, or sweet potato" or food == "Pumpkin Puree, or sweet potato puree" %}
-                            <span class="recipe-food"><a href="/recipes/pumpkin-puree">Pumpkin puree</a>, or <a href="/recipes/sweet-potato-puree">sweet potato puree</a></span>
-                        {% elsif food == "Sweet potato puree" %}
-                            <span class="recipe-food"><a href="/recipes/sweet-potato-puree">{{ food }}</a></span>
-                        {% elsif food == "Sweet Potato puree, or Pumpkin puree" or food == "Sweet Potato puree, or Pumpkin puree, or Butternut Squash puree" %}
-                            <span class="recipe-food"><a href="/recipes/sweet-potato-puree">Sweet Potato puree</a>, or <a href="/recipes/pumpkin-puree">Pumpkin puree</a></span>
-                        {% elsif food == "Low sugar berry jam" %}
-                            <span class="recipe-food"><a href="/recipes/berry-jam">{{ food }}</a></span>
-                        {% elsif food == "Ground chicken thighs" or food == "Ground chicken breast" %}
-                            <span class="recipe-food"><a href="/misc/ground-chicken">{{ food }}</a></span>
-                        {% elsif food == "100% chocolate" %}
-                            <span class="recipe-food"><a href="/recipes/chocolate-bar">{{ food }}</a></span>
-                        {% elsif food == "Hot sauce" %}
-                            <span class="recipe-food"><a href="/recipes/hot-sauce">{{ food }}</a></span>
-                        {% elsif food == "Salsa" %}
-                            <span class="recipe-food"><a href="/recipes/salsa">{{ food }}</a></span>
-                        {% elsif food == "Unsweetened tomato sauce" %}
-                            <span class="recipe-food"><a href="/recipes/pasta-sauce">{{ food }}</a></span>
-                        {% elsif food == "Whole wheat baguette" %}
-                            <span class="recipe-food"><a href="/recipes/whole-wheat-baguettes">{{ food }}</a></span>
+                        {% if link %}
+                            <span class="recipe-food"><a href="{{link}}">{{ food }}</a></span>
                         {% else %}
                             <span class="recipe-food">{{ food }}</span>
                         {% endif %}

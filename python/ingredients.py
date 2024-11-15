@@ -142,7 +142,7 @@ def ingredients(food):
         return str("Dry Yeast")
     elif food == "Vital wheat gluten by The King Arthur Flour Company, Inc.":
         return str("Vital wheat gluten")
-    elif food == "Whole wheat flour by Target Stores" or food == "Whole wheat flour by Raley's" or food == "Whole wheat flour by FAREWAY" or food == "Whole wheat flour by LIDL":
+    elif food == "Wheat flour, whole-grain" or food == "Whole wheat flour by Target Stores" or food == "Whole wheat flour by Raley's" or food == "Whole wheat flour by FAREWAY" or food == "Whole wheat flour by LIDL":
         return str("Whole wheat flour")
     elif food == "Oat flour by Bob's Red Mill Natural Foods, Inc." or food == "Organic oat flour by The Hain Celestial Group, Inc." or food == "Organic oat flour by Hodgson Mill Inc":
         return str("Oat flour")
@@ -160,9 +160,9 @@ def ingredients(food):
         return str("Unsweetened applesauce")
     elif food == "Raw pure honey":
         return str("Honey")
-    elif food == "Chia seeds by GREENWISE" or food == "Chia seed by NO BRAND" or food == "Chia seed by Hy-Vee, Inc.":
+    elif food == "Seeds, dried, chia seeds" or food == "Chia seeds by GREENWISE" or food == "Chia seed by NO BRAND" or food == "Chia seed by Hy-Vee, Inc.":
         return str("Chia seeds")
-    elif food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc." or food == "Premium whole ground flax seed meal by Bob's Red Mill Natural Foods, Inc.":
+    elif food == "Seeds, flaxseed" or food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc." or food == "Premium whole ground flax seed meal by Bob's Red Mill Natural Foods, Inc.":
         return str("Ground flaxseed")
     elif food == "Sugar substitute, liquid, stevia" or food == "Stevia zero calorie liquid sweetener by PURE VIA" or food == "Liquid stevia or monk fruit":
         return str("Liquid monk fruit")
@@ -170,7 +170,7 @@ def ingredients(food):
         return str("Powdered peanut butter")
     elif food == "Premium quality pure almond extract by Morton Bassett Inc." or food == "Pure almond extract by FIRST STREET" or food == "Pure almond extract by Morton Bassett Inc." or food == "Almond extract by Morton Bassett Inc.":
         return str("Almond extract")
-    elif food == "Pumpkin puree by Whole Foods Market, Inc." or food == "Pumpkin puree, pumpkin by Goya Foods, Inc." or food == "Organic pumpkin puree by Pacific Foods of Oregon, Inc.":
+    elif food == "Pumpkin, without salt, canned" or food == "Pumpkin puree by Whole Foods Market, Inc." or food == "Pumpkin puree, pumpkin by Goya Foods, Inc." or food == "Organic pumpkin puree by Pacific Foods of Oregon, Inc.":
         return str("Pumpkin puree")
     elif food == "Syrups, maple" or food == "Syrup, Canadian, maple":
         return str("Maple syrup")
@@ -182,7 +182,7 @@ def ingredients(food):
         return str("Almond flour")
     elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor" or food == "Pitted dates" or food == "Date":
         return str("Dates")
-    elif food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked":
+    elif food == "Sweet potato, without salt, flesh, baked in skin, cooked" or food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked":
         return str("Sweet potato puree")
     elif food == "Pure vanilla extract by CITLALI" or food == "Pure vanilla extract by FIRST STREET":
         return str("Vanilla extract")
@@ -446,7 +446,7 @@ def ingredients(food):
         return str("Pumpkin seeds")
     
     # Carbs
-    elif food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
+    elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
         return str("Whole wheat tortilla")
     elif food == "Bread, whole wheat" or food == "ww-bread":
         return str("Whole wheat bread")
