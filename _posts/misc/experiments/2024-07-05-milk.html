@@ -7,9 +7,6 @@ categories:
 - Experiments
 permalink: /misc/homemade-ricotta-and-whey
 image: /assets/Misc/Experiments/Milk/ricotta-and-whey.jpg
-ing1: cheeseandwhey-ing
-ing2: ricottabrownie-ing
-facts: ricottabrownie-facts
 tags: 
 - skim milk
 - milk
@@ -19,7 +16,6 @@ tags:
 - cheese
 - brownie
 - experiment
-recipe: "no"
 ---
 <u><font size="+2">Introduction</font></u><br>
 &emsp;<a href="https://www.amazon.com/gp/product/B01KITQG0A/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">Whey protein 
@@ -41,7 +37,9 @@ This is my outline to follow; let's see how well it works.<br><br>
 &emsp;7. Spread the powder onto a baking sheet, and dehydrate in the oven at 200F for about 4 hours, until left with a dry powder<br><br>
 &emsp;8. Blend the powder in a food processor to make your protein powder, and flavor (if desired)<br><br>
 
-{% include ingredients.html ing=page.ing1 %}<br>
+<u><font size="+2">Ingredients</font></u>
+{% assign i=site.data["cheeseandwhey-ing"]%}
+{% include ingredients.html ing=i %}<br>
 
 <u><font size="+2">How it actually went</font></u><br>
 &emsp;Most of the ricotta recipes I looked up called for whole milk, but I wanted to use skim to get a leaner cheese, 
@@ -113,7 +111,9 @@ zero flavor.  I don't know what I did wrong in the cheese making, but this was c
 these and moved on with my day, but I'm too stubborn to waste food.  So here's what I made...
 <br><br>
 
-{% include ingredients.html ing=page.ing2 %}<br>
+<u><font size="+2">Ingredients</font></u><br>
+{% assign i=site.data["ricottabrownie-ing"]%}
+{% include ingredients.html ing=i %}<br>
 
 <u><font size="+2">Brownies?</font></u><br>
 &emsp;To a large bowl, I added the ricotta and whey syrup.  Note that I microwaved the syrup for about a minute to soften
@@ -159,7 +159,9 @@ and I don't feel like making any at the moment.
 <center><img src="/assets/Misc/Experiments/Milk/brownie-sliced.jpg" alt="" class="instruction-image"></center>
 <br><br>
 
-{% include nutrition.html %}<br>
+{% assign nf=site.data["ricottabrownie-facts"]%}
+{% include nutrition.html facts=nf ing=i %}
+<br>
 
 <u><font size="+2">Conclusion</font></u><br>
 &emsp;I think it's safe to say that making both ricotta cheese and whey protein powder was a resounding failure.  At

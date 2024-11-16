@@ -21,7 +21,6 @@ tags:
 - sweet potato puree
 - pumpkin puree
 - butternut squash puree
-recipe: "no"
 ---
 <b><u><font size="+2">Experimental Overview</font></u></b><br>
 &emsp;This is a follow up post to my <a href="boxed-brownie-experiment">Fat Replacements in Boxed Brownies</a> experiment, where I found that <b>Sweet Potatoes</b> were the best replacement for butter or oil in a box of brownie mix.  The texture of the baked sweet potato brownies most represented the control of butter, being chewy, structurally sound, and not over or under baked.  The flavor was unmatched, as the sweet potato brownies were far and away the best ones on the table, even over the control.
@@ -65,8 +64,10 @@ recipe: "no"
 <br><br>
 <center><img src="/assets/Misc/Experiments/Brownies2/raw-oil.jpg" alt="" class="instruction-image"></center>
 <br>
-{% include ingredients.html ing="dcoil-ing" %}
-{% include nutrition.html ing="dcoil-ing" facts="dcoil-facts" %}
+{% assign i=site.data.dh-sugar["dcoil-ing"]%}
+{% assign nf=site.data.dh-sugar["dcoil-facts"]%}
+{% include ingredients.html ing=i %}
+{% include nutrition.html facts=nf ing=i %}
 <div id="potato" class="table-of-contents"></div>
 <br>
 <b><font size="+2">2. Sweet Potato Puree</font></b>
@@ -84,8 +85,11 @@ Therefore, for the 4 tbsp oil, I will need <b>63.75 g</b> mashed sweet potato.
 <br><br>
 <center><img src="/assets/Misc/Experiments/Brownies2/raw-sw-pot.jpg" alt="" class="instruction-image"></center>
 <br>
-{% include ingredients.html ing="dcsweetpotato-ing" %}
-{% include nutrition.html ing="dcsweetpotato-ing" facts="dcsweetpotato-facts" %}<br>
+{% assign i=site.data.dh-sugar["dcsweetpotato-ing"]%}
+{% assign nf=site.data.dh-sugar["dcsweetpotato-facts"]%}
+{% include ingredients.html ing=i %}
+{% include nutrition.html facts=nf ing=i %}
+<br>
 <b><u><font size="+2">Mixing & Baking</font></u></b><br>
 &emsp;The two batches were measured and mixed in separate bowl.  Note that the texture of the sweet potato bowl was noticably a bit thicker than the bowl with oil.  I am legally requried to say that you are not supposed to consume raw brownie batter.  And with that out of the way, both the raw batters tasted great with no real difference there.
 <br><br>

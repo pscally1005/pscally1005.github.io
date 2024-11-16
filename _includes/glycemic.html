@@ -1,5 +1,9 @@
 <!-- Only generate section if the page has an ingredients file -->
-{% if page.ing or page.title == "Sweet Potato Boxed Brownies" or page.title == "Fat Replacements in Boxed Brownies" %}
+{% if 
+    page.ing or 
+    page.title == "Water Absorption of Different Flours" or 
+    page.title == "Cheese and Whey - A Failed Experiment" 
+%}
 
     {% assign ingredients = page.ing %}
     {% if include.ing %}

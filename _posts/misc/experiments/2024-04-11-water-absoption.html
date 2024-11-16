@@ -7,8 +7,6 @@ categories:
 - Experiments
 permalink: /misc/water-absorption
 image: /assets/Misc/Experiments/Water Absorption/water-cover.jpg
-ing: frank-ing
-facts: frank-facts
 tags: 
 - flour
 - all purpose flour
@@ -34,7 +32,6 @@ tags:
 - casein protein powder
 - whey protein powder
 - protein powder
-recipe: "no"
 ---
 <b><u><font size="+2">Experimental Overview</font></u></b><br>
 &emsp;In making recipes, it's helpful to know when you can substitute one kind of flour for another, and what effects it will have on your finished good.  Here, I'll be taking 30 g, or about 1/4 cup (volume may vary) of each flour, and mixing it with a variable amount of water until I have a cookie dough like consistency, and letting it chill in the fridge for an hour.  I want something that is not too dry and not too sticky, and that holds its shape and can be formed.  Each of the flours will absorb water differently, so if you are swapping one for another in a no bake recipe, this will be a helpful page for you.
@@ -506,7 +503,9 @@ recipe: "no"
 <br>
 &emsp;Now if you'll excuse me, I'm about to blend all these dough balls together to create some weird Frankenstein cookie dough.
 <br><br>
-{% include ingredients.html %}
+<u><font size="+2">Ingredients</font></u><br>
+{% assign i = site.data["frank-ing"] %}
+{% include ingredients.html ing=i %}
 <br>
 <b><u><font size="+2">Epilogue</font></u></b><br>
 &emsp;So cookie dough didn't end up happening...it was too liquidy.  So instead, I made it into a chocolate spread.  It's surprisingly delicious and high in protein, like a high protein and low sugar/fat nutella.
@@ -521,7 +520,9 @@ recipe: "no"
 <br><br>
 <center><img src="/assets/Misc/Experiments/Water Absorption/toast.jpg" alt="" class="instruction-image"></center>
 <br>
-{% include nutrition.html %}
+<u><font size="+2">Nutrition Facts</font></u><br>
+{% assign nf = site.data["frank-facts"] %}
+{% include nutrition.html facts=nf ing=i %}
 <br>
 <b><u><font size="+2">Sources</font></u></b><br>
 1. <a href="https://www.kingarthurbaking.com/blog/2020/06/22/how-to-substitute-whole-wheat-for-white-flour-in-baking#:~:text=*If%20you're%20a%20diehard,called%20for%20in%20your%20recipe.">How to substitute whole wheat for white flour in baking</a><br>

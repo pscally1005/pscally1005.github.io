@@ -75,7 +75,7 @@ def fix(vol):
         return str("1 cup")
     elif vol == "1.0989 cup":
         return str("1 heaping cup")
-    elif vol == "2.5 1/2 cup":
+    elif vol == "60 tsp" or vol == "2.5 1/2 cup":
         return str("1.25 cup")
     elif vol == "1.32 cup" or vol == "1.33 cup (240.0 ml) aprx":
         return str("1.33 cup")

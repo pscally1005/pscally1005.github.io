@@ -7,15 +7,38 @@
     {% assign ing = include.ing %}
 {% endif %}
 
+<!-- Not a standard recipe -->
+{% assign recipe = "true" %}
+{% if 
+    page.categories.first == "Misc." and 
+    page.categories.last != "Unhealthy Recipes"
+%}
+    {% if 
+        page.title == "Cheese and Whey - A Failed Experiment" or
+        page.title == "Water Absorption of Different Flours" or
+        page.title == "Sweet Potato Boxed Brownies" or
+        page.title == "Fat Replacements in Boxed Brownies" or
+        page.title == "Making Brownies Healthier"
+    %}
+        {% assign recipe = "false" %}
+    {% endif %}
+{% endif %}
+
+<!-- Loop Variable -->
+{% assign loopVar = site.data[ing] %}
+{% if recipe == "false" %}
+    {% assign loopVar = ing %}
+{% endif %}
+
 <!-- Total and unit cost section -->
-{% if page.recipe != "no" %}
+{% if recipe == "true" %}
 
     <!-- Variables -->
     {% assign recipeCost = 0 %}
     {% assign servings = 0 %}
 
     <!-- Loop through all the ingredients -->
-    {% for row in site.data[ing] %}
+    {% for row in loopVar %}
         <!-- Get # of servings -->
         {% if forloop.last %}
             {% assign servings = row["Amount"] | times: 1 %}
@@ -90,12 +113,12 @@
 {% endif %}
 
 <!-- Print section title -->
-{% if ing %}
+{% if ing and recipe == "true" %}
     <div class="recipe-header">Ingredients</div>
 {% endif %}
 
 <!-- Serving Controls -->
-{% if page.recipe != "no" %}
+{% if recipe == "true" %}
     <div class="serving-controls">
         <button id="decrease">-</button>
         <input type="number" id="servingCount" value="1" min="1" step="0.1" />
@@ -109,7 +132,7 @@
 
 <!-- Ingredient Display -->
 <div class="ingredients">
-    {% for row in site.data[ing] %}
+    {% for row in loopVar %}
         {% if forloop.last %}
             {% assign base_servings = row["Amount"] | plus: 0 %}  <!-- Ensure it converts to a number -->
         {% endif %}
@@ -121,7 +144,7 @@
     {% endif %}
 
     <ul>
-        {% for row in site.data[ing] %}
+        {% for row in loopVar %}
             {% if forloop.last %}
                 {% continue %}
             {% else %}
@@ -188,7 +211,7 @@
                             <span class="recipe-food">{{ food }}</span>
                         {% endif %}
 
-                        {% if page.recipe != "no" %}
+                        {% if recipe == "true" %}
                             <span class="ingredient-cost" data-base-cost="{{ totalCost }}">$({{ totalCost.toFixed(2) }})</span>
                             <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}" style="color:var(--minima-background-color) !important; font-size:0 !important;">${{ recipeCost | round: 2 }}</span>
                         {% endif %}

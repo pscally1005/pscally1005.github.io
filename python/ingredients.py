@@ -88,7 +88,7 @@ def ingredients(food):
     
     
     # Oil, vinegar, other liquids
-    elif food == "Extra virgin olive oil by OLIO" or food == "Extra virgin olive oil by QO" or food == "Extra virgin olive oil by GAEA" or food == "Extra virgin olive oil by BRAGG":
+    elif food == "Oil, salad or cooking, olive" or food == "Extra virgin olive oil by OLIO" or food == "Extra virgin olive oil by QO" or food == "Extra virgin olive oil by GAEA" or food == "Extra virgin olive oil by BRAGG":
         return str("Extra virgin olive oil")
     elif food == "Extra virgin coconut oil by KELAPO" or food == "Oil, coconut" or food == "Extra virgin coconut oil by VITA BRAND":
         return str("Extra virgin coconut oil")
@@ -128,6 +128,8 @@ def ingredients(food):
         return str("Date sweetened ketchup")
     
     # Baking
+    elif food == "Allulose plant-based sweetener by Dr. Desai Soap LLC":
+        return str("Allulose")
     elif food == "Nabisco, Nabisco Grahams Crackers":
         return str("Graham cracker")
     elif food == "Now, whole psyllium husks by Now Health Group Inc.":
@@ -196,9 +198,9 @@ def ingredients(food):
         return str("No sugar added apple spread")
     elif food == "Sugars, granulated":
         return str("Granulated sugar")
-    elif food == "Unsalted butter by FAREWAY":
+    elif food == "Unsalted butter by FAREWAY" or food == "Butter, without salt":
         return str("Unsalted butter")
-    elif food == "All purpose flour by PIONEER":
+    elif food == "All purpose flour by PIONEER" or food == "Wheat flour, bleached, enriched, all-purpose, white":
         return str("All purpose flour")
     elif food == "duncan hines keto brownie mix":
         return str("Duncan Hines Keto Brownie Mix")

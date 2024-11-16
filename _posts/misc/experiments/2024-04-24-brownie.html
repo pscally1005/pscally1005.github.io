@@ -42,7 +42,6 @@ tags:
 - diet coke
 - buttermilk
 - beets
-recipe: "no"
 ---
 <b><u><font size="+2">Experimental Overview</font></u></b><br>
 &emsp;Have you ever made boxed brownies, and thought "how can I make this healthier?"  The side of the box typically has some substitutions, like replacing the egg for grated zucchini or the butter for applesauce, but today I wanted to put some common substitutes to the test.  I'll be taking a box of Duncan Hines Keto boxed brownie mix (pictured below), which is both sugar free and gluten free.  Yes, this test would have been cheaper and easier if I was using a standard box of brownies (it was about $6.50 for the keto box, as opposed to under $2 for the regular).  But what's the point of swapping out the fat in the brownies, making them marginally healthier, but still leaving all the sugar?  That's my main problem with a lot of bean brownie recipes; cool there's no oil, but there's still a cup of sugar.  No good in my book.
@@ -92,9 +91,11 @@ box:
 <b><font size="+2">1. Butter & Eggs</font></b>
 <br>
 &emsp;This is the standard experiment.  In a small bowl goes the brownie mix, water, egg, and melted butter.  The batter was stirred together, and poured into a greased mini muffin tin.  This will be the basis of our experiment, as it will provide a frame of reference for the other 5 trials.
-<br><br>
-{% include ingredients.html ing="dhbutter-ing" %}
-{% include nutrition.html ing="dhbutter-ing" facts="dhbutter-facts" %}
+<br>
+{% assign i=site.data.dh-keto["dhbutter-ing"]%}
+{% assign nf=site.data.dh-keto["dhbutter-facts"]%}
+{% include ingredients.html ing=i %}
+{% include nutrition.html facts=nf ing=i %}
 <br>
 <div id="applesauce" class="table-of-contents-2"></div>
 <b><font size="+2">2. Unsweetened Applesauce</font></b><br>
@@ -106,8 +107,10 @@ box:
 <br>
 &emsp;Therefore, for the 1/3 egg and 1 tbsp butter, I will need 20.42 + 15.31 = <b>35.73 g</b> unsweetened applesauce.  This batch will get the same <b>13.33 g</b> water as well, like most of the other batches.
 <br><br>
-{% include ingredients.html ing="dhapplesauce-ing" %}
-{% include nutrition.html ing="dhapplesauce-ing" facts="dhapplesauce-facts" %}
+{% assign i=site.data.dh-keto["dhapplesauce-ing"]%}
+{% assign nf=site.data.dh-keto["dhapplesauce-facts"]%}
+{% include ingredients.html ing=i %}
+{% include nutrition.html facts=nf ing=i %}
 <br>
 <div id="yogurt" class="table-of-contents-2"></div>
 <b><font size="+2">3. Plain Nonfat Greek Yogurt</font></b><br>
@@ -119,8 +122,10 @@ box:
 <br>
 &emsp;Therefore, for the 1/3 egg and 1 tbsp butter, I will need 18.89 + 14.17 = <b>33.06 g</b> plain nonfat greek yogurt.  This batch will get the same <b>13.33 g</b> water as well, like most of the other batches.
 <br><br>
-{% include ingredients.html ing="dhyogurt-ing" %}
-{% include nutrition.html ing="dhyogurt-ing" facts="dhyogurt-facts" %}
+{% assign i=site.data.dh-keto["dhyogurt-ing"]%}
+{% assign nf=site.data.dh-keto["dhyogurt-facts"]%}
+{% include ingredients.html ing=i %}
+{% include nutrition.html facts=nf ing=i %}
 <br>
 <div id="banana" class="table-of-contents-2"></div>
 <b><font size="+2">4. Mashed Banana</font></b><br>
@@ -134,8 +139,10 @@ box:
 <br><br>
 <center><img src="/assets/Misc/Experiments/Brownies/banana.jpg" alt="" class="instruction-image"></center>
 <br>
-{% include ingredients.html ing="dhbanana-ing" %}
-{% include nutrition.html ing="dhbanana-ing" facts="dhbanana-facts" %}
+{% assign i=site.data.dh-keto["dhbanana-ing"]%}
+{% assign nf=site.data.dh-keto["dhbanana-facts"]%}
+{% include ingredients.html ing=i %}
+{% include nutrition.html facts=nf ing=i %}
 <br>
 <div id="potato" class="table-of-contents-2"></div>
 <b><font size="+2">5. Sweet Potato Puree</font></b><br>
@@ -149,8 +156,10 @@ box:
 <br><br>
 <center><img src="/assets/Misc/Experiments/Brownies/sweet-potato.jpg" alt="" class="instruction-image"></center>
 <br>
-{% include ingredients.html ing="dhsweetpotato-ing" %}
-{% include nutrition.html ing="dhsweetpotato-ing" facts="dhsweetpotato-facts" %}
+{% assign i=site.data.dh-keto["dhsweetpotato-ing"]%}
+{% assign nf=site.data.dh-keto["dhsweetpotato-facts"]%}
+{% include ingredients.html ing=i %}
+{% include nutrition.html facts=nf ing=i %}
 <br>
 <div id="beans" class="table-of-contents-2"></div>
 <b><font size="+2">6. Black Bean Puree</font></b><br>
@@ -160,8 +169,10 @@ box:
 <br><br>
 <center><img src="/assets/Misc/Experiments/Brownies/beans.jpg" alt="" class="instruction-image"></center>
 <br>
-{% include ingredients.html ing="dhbeans-ing" %}
-{% include nutrition.html ing="dhbeans-ing" facts="dhbeans-facts" %}
+{% assign i=site.data.dh-keto["dhbeans-ing"]%}
+{% assign nf=site.data.dh-keto["dhbeans-facts"]%}
+{% include ingredients.html ing=i %}
+{% include nutrition.html facts=nf ing=i %}
 <br>
 <b><u><font size="+2">Mixing & Baking</font></u></b><br>
 &emsp;Each of the batches were measured and mixed in separate bowl.  Note that the texture of the applesauce and banana batters was nearly identical to that of the control.  However, the yogurt and sweet potato ones were noticably thicker, and the bean one was even thicker than that, almost like a sticky cookie dough.  Left to right in the pan, we have - butter, applesauce, yogurt, banana, sweet potato, and black beans.
@@ -215,11 +226,13 @@ box:
 <br><br>
 &emsp;For a homemade healthy brownie using sweet potatoes, you should check out my <a href="/recipes/sweet-potato-brownies">Sweet Potato Brownies (SF)</a>.  They're homemade instead of from a box, so they avoid a lot of ultra processed ingredients.  They're still gluten free (and this time nut free!), can be make keto by using almond flour instead of oat flour, and are still lower in fat and sugar while still being just as delicious.
 <br><br>
-{% include ingredients.html ing="dhfinal-ing" %}
+{% assign i=site.data.dh-keto["dhfinal-ing"]%}
+{% include ingredients.html ing=i %}
 <br>
 &emsp;Above is the complete ingredients list for a full batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes. You can also use an additional 1/2 cup (127.5 g) mashed sweet potato in replace of the 2 eggs if you like.
 <br><br>
-{% include nutrition.html ing="dhfinal-ing" facts="dhfinal-facts" %}
+{% assign nf=site.data.dh-keto["dhfinal-facts"]%}
+{% include nutrition.html facts=nf ing=i %}
 <br>
 &emsp;Above are the nutrition facts for <b>16</b> brownies for a standard batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes.  For reference, the standard butter batch of keto brownies cut into <b>16</b> would be <b>130 calories</b> each with <b>7.4g fat</b> (with essentially 0g sugar), whereas standard Duncan Hines brownies cut into <b>16</b> pieces has <b>215 calories</b> with <b>12g fat</b> and <b>19g sugar</b>.
 <br><br>

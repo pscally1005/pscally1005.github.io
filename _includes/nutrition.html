@@ -1,37 +1,13 @@
 <div id="nutrition-facts"></div>
 
 <div class="recipe-nutrition">    
-    <!-- Booleans -->
+
+    <!-- Shorter nutrition facts -->
     {% assign recipe = "true" %}
-
-    {% assign servingSizePost = "false" %}
-    {% if 
-        page.title == "What is a Serving Size?" or 
-        page.title == "Let's Meet the Meats" or
-        page.title == "I'm Nuts for Nuts" or
-        page.title == "I See Seeds in Your Future" or
-        page.title == "Beans Beans the Musical Fruit" or
-        page.title == "Going Bananas for Bananas" or
-        page.title == "Lettuce Turnip the Beet" or
-        page.title == "I'm Hooked on Fish" or
-        page.title == "A Grain of Truth"
-    %}
-        {% assign servingSizePost = "true" %}
-        {% assign recipe = "false" %}
-    {% endif %}
-
     {% assign shorterFacts = "false" %}
     {% if 
-        page.title == "Sweet Potato Boxed Brownies" or 
-        page.title == "Fat Replacements in Boxed Brownies" or 
-        page.title == "What is a Serving Size?" or 
-        page.title == "I'm Nuts for Nuts" or
-        page.title == "I See Seeds in Your Future" or
-        page.title == "Beans Beans the Musical Fruit" or
-        page.title == "Going Bananas for Bananas" or
-        page.title == "Lettuce Turnip the Beet" or
-        page.title == "I'm Hooked on Fish" or
-        page.title == "A Grain of Truth"
+        page.categories.first == "Misc." and 
+        page.categories.last != "Unhealthy Recipes"
     %}
         {% assign shorterFacts = "true" %}
         {% assign recipe = "false" %}
@@ -41,6 +17,7 @@
     {% assign meat = "false" %}
     {% if page.title == "Let's Meet the Meats" %}
         {% assign meat = "true" %}
+        {% assign shorterFacts = "false" %}
         {% assign recipe = "false" %}
     {% endif %}
 
@@ -51,7 +28,7 @@
     {% endif %}
 
     <!-- Print section title -->
-    {% if facts and servingSizePost == "false" %}
+    {% if facts and recipe == "true" %}
         <div class="recipe-header">Nutrition Facts</div>
     {% endif %}
 
@@ -105,13 +82,15 @@
         {% assign sel = "0.0mcg (0 %)" %}
         {% assign zinc = "0.00mg (0 %)" %}
 
-        {% assign loopVar = site.data[facts] %}
-        {% if servingSizePost == "true" %}
-            {% assign loopVar = facts %}
+        {% assign loopVarFacts = site.data[facts] %}
+        {% assign loopVarIng = site.data[ing] %}
+        {% if recipe == "false" %}
+            {% assign loopVarFacts = facts %}
+            {% assign loopVarIng = ing %}
         {% endif %}
 
         <!-- Loop to get nutrition facts -->
-        {% for row in loopVar %}
+        {% for row in loopVarFacts %}
             {% for pair in row %}
                 {% assign dv = "" %}
                 {% if row.DV %}
@@ -265,7 +244,7 @@
 
         <!-- Calculate added sugar -->
         {% assign servings = 1 | times: 1 %}
-        {% for row in site.data[ing] %}
+        {% for row in loopVarIng %}
             {% if forloop.last %}
                 {% assign servings = row["Amount"] | times: 1 %}
                 {% continue %}
@@ -489,14 +468,11 @@
 
         </div>
 
-        <!-- Glycemic index -->
-        {% if servingSizePost == "false" %}
+        <!-- Glycemic index & full nutrition facts only on recipes-->
+        {% if recipe == "true" %}
             {% include glycemic.html ing=include.ing %}
-        {% endif %}
-
-        <!-- Full nutrition facts -->
-        {% if servingSizePost == "false" %}
-            <br>{% include fullNutritionTable.html facts=facts addedSugar = addedSugar %}
+            <br>
+            {% include fullNutritionTable.html facts=facts addedSugar = addedSugar %}
         {% endif %}
 
     {% endif %}
