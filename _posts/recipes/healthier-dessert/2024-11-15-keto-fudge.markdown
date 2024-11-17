@@ -3,7 +3,7 @@ layout: post
 title:  "Bittersweet Keto Fudge"
 date:   2024-11-15 00:00:00 -05000
 categories: 
-- Misc.
+- Recipes
 - Healthier Dessert
 permalink: /recipes/keto-fudge
 image: /assets/Food/Healthier Dessert/Keto Fudge/fudge-cover.jpg
