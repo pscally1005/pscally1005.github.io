@@ -49,7 +49,7 @@ def fix(vol):
         return str("5 tbsp")
     elif vol == "4.2 tbsp" or vol == "0.25 cup sprigs" or vol == "3.99 tbsp":
         return str("4 tbsp")
-    elif vol == "0.375 cup" or vol == "0.75 1/2 cup":
+    elif vol == "18 tsp" or vol == "0.375 cup" or vol == "0.75 1/2 cup":
         return str("6 tbsp")
     elif vol == "9.33 tbsp" or vol == "9.33 Tbsp":
         return str("9tbsp + 1tsp")
