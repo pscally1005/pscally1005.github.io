@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slow Cooker Black Beans"
+title:  "Slow Cooker Black Dried"
 date:   2024-04-30 00:00:00 -05000
 categories: 
 - Recipes
@@ -18,10 +18,10 @@ start4:
 section4: 
 start5: 
 section5: 
-Prep: 10
+Prep: 5
 Rest: 480
 Cook: 480
-Source1: https://www.copymethat.com/r/3ydWTIyiX/spicy-black-beans/
+Source1: 
 Source2: 
 whisk: https://s.samsungfood.com/76mln
 tags: 
@@ -31,24 +31,14 @@ tags:
 - bag beans
 - pinto beans
 - kidney beans
-- onion
-- carrot
-- baby carrot
-- chili powder
-- garlic
-- lime
 - chickpeas
 - garbanzo beans
-- cumin
-Description: I normally only use canned beans, but I decided to use bagged beans today and they turned out really well. This recipe is adapted from the cookbook Run Fast Eat Slow. Just soak your beans overnight, and let them slow cook during the day. They're mildly seasoned, so they serve as a very versatile item in your fridge. I like to put some beans on my salad throughout the week, or eat them as a side with dinner. Any other dried beans will work here too
+- navy beans
+Description: Lately I've switched over from canned beans to dried beans, and I've been loving the swap.  Not only are dried beans 3.5 times cheaper (as I found in my <a href="/misc/beans-cost-analysis">💲 Beans Cost Analysis</a>), but I honestly prefer the taste and texture of dried beans.  They feel creamier and with a stronger bean taste instead of the kinda bland stuff from the can.  Nothing against canned beans; those are tasty, cheap, and easy too!<br>&emsp;The problem with dried beans is that they can take a while to took.  Instead of simmering them for hours, I simply give them an overnight soak in the fridge, and cook in the slow cooker all day.  They take a lot of time, but there's only about 5 minutes of actual work to do.  I just use salt in my beans, but feel free to add whatever other spices you like
 Instructions: 
 - To soak the beans overnight - wash your bag of beans in a strainer under water. Add to a large bowl with 5 cups (1,200 g) water and 1 tbsp (18 g) salt. Stir, cover, and refrigerate overnight (at least 8 hours)<br><br>
 
 - In the morning, discard the water, and add the beans to the pot of a slow cooker<br><br>
 
-- Cut your onion and carrots into a small dice, and add to the slow cooker pot. Season with oil, garlic, chili powder, cumin, and salt<br><br>
-- <center><img src="/assets/Food/Meatless/Crockpot Beans/beans-3.jpg" alt="" class="instruction-image"></center><br>
-
-- Pour in your water to just fully submerge the beans. Cover, and cook for 8 hours on low. You can add an additional hour on high (uncovered) if you want to cook off more liquid. Squeeze in lime at the end<br><br>
-- <center><img src="/assets/Food/Meatless/Crockpot Beans/beans-4.jpg" alt="" class="instruction-image"></center>
+- Pour in your water to just fully submerge the beans. Cover and cook for 8 hours on low. You can add an additional hour on high (uncovered) if you want to cook off more liquid
 ---

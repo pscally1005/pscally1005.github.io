@@ -65,4 +65,4 @@ tags:
 <center><img src="/assets/Misc/Cost/Beans/cooked.jpg" alt="" class="larger-image"></center><br>
 
 <u><font size="+2">Conclusion</font></u><br>
-&emsp;The cost each for canned and dried beans are <b>$1.59/lb</b>, and <b>$0.51/lb</b>, respectively, meaning that dried beans are <b>3.12 times</b> cheaper than canned beans.  If you have the time to prep the beans, then dried are definitely worth it for both cost and taste.  But if you need beans and you need them now, there's nothing wrong with canned.
+&emsp;The cost each for canned and dried beans are <b>$1.59/lb</b>, and <b>$0.51/lb</b>, respectively, meaning that dried beans are <b>3.12 times</b> cheaper than canned beans.  If you have the time to prep the beans, then dried are definitely worth it for both cost and taste.  If you would like a guide on cooking dried beans, be sure to check out my <a href="/recipes/slow-cooked-beans">Slow Cooker Dried Beans</a>.  But if you need beans and you need them now, there's nothing wrong with canned.
