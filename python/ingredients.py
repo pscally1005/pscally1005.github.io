@@ -416,7 +416,7 @@ def ingredients(food):
         return str("Peanuts")
     elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Hersheys Zero Sugar Chocolate Chips":
         return str("Sugar free chocolate chips")
-    elif food == "Semisweet chocolate mini chips by Harris-Teeter Inc." or food == "Chocolate chips, semisweet by Giant Eagle, Inc.":
+    elif food == "Candies, semisweet chocolate" or food == "Semisweet chocolate mini chips by Harris-Teeter Inc." or food == "Chocolate chips, semisweet by Giant Eagle, Inc.":
         return str("Semi-sweet chocolate chips")
     elif food == "90% cocoa dark chocolate by Lindt" or food == "90% cocoa dark chocolate by Lindt & Sprungli (Schweiz) AG":
         return str("90% chocolate")
