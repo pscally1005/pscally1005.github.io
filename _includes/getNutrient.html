@@ -5,6 +5,15 @@
 {% assign fetch = include.fetch %}
 {% assign rnd = include.rnd %}
 
+<!-- Show DV % -->
+{% assign showPercentage == "True" %}
+{% if 
+    page.title == "Fiber: Happiness is a Good Poop" or
+    page.title == "I Run on Iron"
+%}
+    {% assign showPercentage = "False" %}
+{% endif %}
+
 <!-- Only run if there's a nutrtion facts file -->
 {% if facts %}
 
@@ -49,6 +58,16 @@
     {% assign pot = "0mg (0 %)" %}
     {% assign sel = "0.0mcg (0 %)" %}
     {% assign zinc = "0.00mg (0 %)" %}
+
+    {% assign histidine = "0.0g (0 %)" %}
+    {% assign isoleucine = "0.0g (0 %)" %}
+    {% assign leucine = "0.0g (0 %)" %}
+    {% assign lysine = "0.0g (0 %)" %}
+    {% assign methionine = "0.0g (0 %)" %}
+    {% assign phenylalanine = "0.0g (0 %)" %}
+    {% assign threonine = "0.0g (0 %)" %}
+    {% assign tryptophan = "0.0g (0 %)" %}
+    {% assign valine = "0.0g (0 %)" %}
 
     {% assign loopVarFacts = site.data.servingSizes[facts] %}
     {% assign loopVarIng = site.data.servingSizes[ing] %}
@@ -147,7 +166,7 @@
                 {% assign vitB12 = line2 %}
             {% endif %}
 
-            {% if pair[1] == "Vitamin C [Ascorbin acid" %}
+            {% if pair[1] == "Vitamin C [Ascorbic acid]" %}
                 {% assign vitC = line1 %}
             {% endif %}
 
@@ -201,6 +220,42 @@
 
             {% if pair[1] == "Zinc" %}
                 {% assign zinc = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Histidine" %}
+                {% assign histidine = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Isoleucine" %}
+                {% assign isoleucine = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Leucine" %}
+                {% assign leucine = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Lysine" %}
+                {% assign lysine = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Methionine" %}
+                {% assign methionine = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Phenylalanine" %}
+                {% assign phenylalanine = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Threonine" %}
+                {% assign threonine = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Tryptophan" %}
+                {% assign tryptophan = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Valine" %}
+                {% assign valine = line2 %}
             {% endif %}
 
         {% endfor %}
@@ -357,6 +412,42 @@
         {% assign line = zinc %}
     {% endif %}
 
+    {% if nutrient == "Histidine" %}
+        {% assign line = histidine %}
+    {% endif %}
+
+    {% if nutrient == "Isoleucine" %}
+        {% assign line = isoleucine %}
+    {% endif %}
+
+    {% if nutrient == "Leucine" %}
+        {% assign line = leucine %}
+    {% endif %}
+
+    {% if nutrient == "Lysine" %}
+        {% assign line = lysine %}
+    {% endif %}
+
+    {% if nutrient == "Methionine" %}
+        {% assign line = methionine %}
+    {% endif %}
+
+    {% if nutrient == "Phenylalanine" %}
+        {% assign line = phenylalanine %}
+    {% endif %}
+
+    {% if nutrient == "Threonine" %}
+        {% assign line = threonine %}
+    {% endif %}
+
+    {% if nutrient == "Tryptophan" %}
+        {% assign line = tryptophan %}
+    {% endif %}
+
+    {% if nutrient == "Valine" %}
+        {% assign line = valine %}
+    {% endif %}
+
     <!-- Extract the numeric value -->
     {% assign value_raw = line | split: '(' | first %}
     {% assign value = value_raw | remove: 'a' | remove: 'b' | remove: 'c' | remove: 'd' | remove: 'e' | remove: 'f' | remove: 'g' | remove: 'h' | remove: 'i' | remove: 'j' | remove: 'k' | remove: 'l' | remove: 'm' | remove: 'n' | remove: 'o' | remove: 'p' | remove: 'q' | remove: 'r' | remove: 's' | remove: 't' | remove: 'u' | remove: 'v' | remove: 'w' | remove: 'x' | remove: 'y' | remove: 'z' | remove: 'A' | remove: 'B' | remove: 'C' | remove: 'D' | remove: 'E' | remove: 'F' | remove: 'G' | remove: 'H' | remove: 'I' | remove: 'J' | remove: 'K' | remove: 'L' | remove: 'M' | remove: 'N' | remove: 'O' | remove: 'P' | remove: 'Q' | remove: 'R' | remove: 'S' | remove: 'T' | remove: 'U' | remove: 'V' | remove: 'W' | remove: 'X' | remove: 'Y' | remove: 'Z' | remove: '&' | remove: ';' %}
@@ -375,7 +466,10 @@
     {% assign percentage = percentage | times: factor | round: 0 %}
 
     <!-- Combine for the output -->
-    {% assign output = value | append: unit | append: '(' | append: percentage | append: ' %)' %}
+    {% assign output = value | append: ' ' | append: unit | append: '(' | append: percentage | append: ' %)' %}
+    {% if showPercentage == "False" %}
+        {% assign output = value | append: ' ' | append: unit %}
+    {% endif %}
     {{output}}
 
 {% endif %}

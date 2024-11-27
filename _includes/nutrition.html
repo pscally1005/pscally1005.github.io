@@ -2,6 +2,9 @@
 
 <div class="recipe-nutrition">    
 
+    <!-- Hide amino acids -->
+    {% assign aminoAcids = false %}
+
     <!-- Shorter nutrition facts -->
     {% assign recipe = "true" %}
     {% assign shorterFacts = "false" %}
@@ -81,6 +84,16 @@
         {% assign pot = "0mg (0 %)" %}
         {% assign sel = "0.0mcg (0 %)" %}
         {% assign zinc = "0.00mg (0 %)" %}
+
+        {% assign histidine = "0.0g (0 %)" %}
+        {% assign isoleucine = "0.0g (0 %)" %}
+        {% assign leucine = "0.0g (0 %)" %}
+        {% assign lysine = "0.0g (0 %)" %}
+        {% assign methionine = "0.0g (0 %)" %}
+        {% assign phenylalanine = "0.0g (0 %)" %}
+        {% assign threonine = "0.0g (0 %)" %}
+        {% assign tryptophan = "0.0g (0 %)" %}
+        {% assign valine = "0.0g (0 %)" %}
 
         {% assign loopVarFacts = site.data[facts] %}
         {% assign loopVarIng = site.data[ing] %}
@@ -183,7 +196,7 @@
                     {% assign vitB12 = line2 %}
                 {% endif %}
 
-                {% if pair[1] == "Vitamin C [Ascorbin acid" %}
+                {% if pair[1] == "Vitamin C [Ascorbic acid]" %}
                     {% assign vitC = line1 %}
                 {% endif %}
 
@@ -239,6 +252,42 @@
                     {% assign zinc = line2 %}
                 {% endif %}
 
+                {% if pair[1] == "Histidine" %}
+                    {% assign histidine = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Isoleucine" %}
+                    {% assign isoleucine = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Leucine" %}
+                    {% assign leucine = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Lysine" %}
+                    {% assign lysine = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Methionine" %}
+                    {% assign methionine = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Phenylalanine" %}
+                    {% assign phenylalanine = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Threonine" %}
+                    {% assign threonine = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Tryptophan" %}
+                    {% assign tryptophan = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Valine" %}
+                    {% assign valine = line2 %}
+                {% endif %}
+
             {% endfor %}
         {% endfor %}
 
@@ -285,6 +334,15 @@
             {% assign phos = "" %}
             {% assign sel = "" %}
             {% assign zinc = "" %}
+            {% assign histidine = "" %}
+            {% assign isoleucine = "" %}
+            {% assign leucine = "" %}
+            {% assign lysine = "" %}
+            {% assign methionine = "" %}
+            {% assign phenylalanine = "" %}
+            {% assign threonine = "" %}
+            {% assign tryptophan = "" %}
+            {% assign valine = "" %}
         {% endif %}
 
         <!-- Shorter facts -->
@@ -317,6 +375,15 @@
             {% assign phos = "" %}
             {% assign sel = "" %}
             {% assign zinc = "" %}
+            {% assign histidine = "" %}
+            {% assign isoleucine = "" %}
+            {% assign leucine = "" %}
+            {% assign lysine = "" %}
+            {% assign methionine = "" %}
+            {% assign phenylalanine = "" %}
+            {% assign threonine = "" %}
+            {% assign tryptophan = "" %}
+            {% assign valine = "" %}
         {% endif %}
 
         <!-- Meat -->
@@ -337,6 +404,15 @@
             {% assign calc = "" %}
             {% assign magn = "" %}
             {% assign pot = "" %}
+            {% assign histidine = "" %}
+            {% assign isoleucine = "" %}
+            {% assign leucine = "" %}
+            {% assign lysine = "" %}
+            {% assign methionine = "" %}
+            {% assign phenylalanine = "" %}
+            {% assign threonine = "" %}
+            {% assign tryptophan = "" %}
+            {% assign valine = "" %}
         {% endif %}
 
         <!-- Print nutrition facts -->
@@ -464,6 +540,37 @@
             {% if zinc != "" %} 
                 <b>Zinc</b>: {{ zinc }}<br>
             {% endif %}
+
+            {% if aminoAcids == "true" %} ------------------------------------------<br> {% endif %}
+            
+            {% if histidine != "" %} 
+                <b>Histidine</b>: {{ histidine }}<br>
+            {% endif %}
+            {% if isoleucine != "" %} 
+                <b>Isoleucine</b>: {{ isoleucine }}<br>
+            {% endif %}
+            {% if leucine != "" %} 
+                <b>Leucine</b>: {{ leucine }}<br>
+            {% endif %}
+            {% if lysine != "" %} 
+                <b>Lysine</b>: {{ lysine }}<br>
+            {% endif %}
+            {% if methionine != "" %} 
+                <b>Methionine</b>: {{ methionine }}<br>
+            {% endif %}
+            {% if phenylalanine != "" %} 
+                <b>phenylalanine</b>: {{ phenylalanine }}<br>
+            {% endif %}
+            {% if threonine != "" %} 
+                <b>Threonine</b>: {{ threonine }}<br>
+            {% endif %}
+            {% if tryptophan != "" %} 
+                <b>Tryptophan</b>: {{ tryptophan }}<br>
+            {% endif %}
+            {% if valine != "" %} 
+                <b>Valine</b>: {{ valine }}<br>
+            {% endif %}
+            
             ------------------------------------------<br>
 
         </div>
