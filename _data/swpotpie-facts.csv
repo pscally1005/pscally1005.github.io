@@ -14,14 +14,14 @@ Calories,59,,
 "cis-beta-Carotene",0,mcg,
 "trans-Lycopene",0,mcg,
 "trans-beta-Carotene",0,mcg,
-"Thiamin [Vitamin B1]",0.034,mg,3 %
-"Riboflavin [Vitamin B2]",0.096,mg,7 %
-"Niacin [Vitamin B3]",0.428,mg,3 %
-"Pantothenic acid [Vitamin B5]",0.253,mg,5 %
-"Vitamin B6",0.084,mg,5 %
-"Vitamin B12 [Cobalamin]",0.16,mcg,7 %
+"Thiamin [Vitamin B1]",0.057,mg,5 %
+"Riboflavin [Vitamin B2]",0.172,mg,13 %
+"Niacin [Vitamin B3]",0.471,mg,3 %
+"Pantothenic acid [Vitamin B5]",0.461,mg,9 %
+"Vitamin B6",0.107,mg,6 %
+"Vitamin B12 [Cobalamin]",0.25,mcg,10 %
 "Vitamin B12, added",0,mcg,
-"Folate, DFE [Vitamin B9]",3.29,mcg,1 %
+"Folate, DFE [Vitamin B9]",4.53,mcg,1 %
 "Folate, food",3.29,mcg,
 "Folic acid",0,mcg,
 "Vitamin C [Ascorbic acid]",4.9,mg,5 %
@@ -42,42 +42,43 @@ Calories,59,,
 "Vitamin K1 [Phylloquinone]",0.7,mcg,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",8.8,mg,
-"Choline",17.4,mg,3 %
+"Biotin [Vitamin B7]",0,mcg,0 %
+"Choline",25.8,mg,5 %
 "Calcium",70.64,mg,5 %
 "Copper",0.04,mg,4 %
 "Fluoride",2.2,mcg,
 "Iodine",1.54,mcg,1 %
 "Iron",0.33,mg,2 %
-"Magnesium",10.42,mg,2 %
+"Magnesium",17.73,mg,4 %
 "Manganese",0.224,mg,10 %
-"Phosphorus",53.03,mg,4 %
+"Phosphorus",102.57,mg,8 %
 "Potassium",176.1,mg,4 %
-"Selenium",3.15,mcg,6 %
-"Sodium",127.87,mg,6 %
-"Zinc",0.23,mg,2 %
+"Selenium",4.15,mcg,8 %
+"Sodium",135.26,mg,6 %
+"Zinc",0.46,mg,4 %
 "Protein",5.98,g,12 %
-"Alanine",0.072,g,
-"Arginine",0.077,g,
-"Aspartic acid",0.223,g,
-"Cystine",0.011,g,
-"Cysteine",0.01,g,
-"Glutamic acid",0.273,g,
-"Glycine",0.049,g,
-"Histidine",0.04,g,3 %
+"Alanine",0.203,g,
+"Arginine",0.163,g,
+"Aspartic acid",0.538,g,
+"Cystine",0.075,g,
+"Cysteine",0.07,g,
+"Glutamic acid",0.772,g,
+"Glycine",0.101,g,
+"Histidine",0.1,g,9 %
 "Hydroxyproline",0,g,
-"Isoleucine",0.076,g,5 %
-"Leucine",0.136,g,4 %
-"Lysine",0.109,g,4 %
-"Methionine",0.04,g,
-"Phenylalanine",0.088,g,
-"Proline",0.117,g,
-"Serine",0.1,g,
-"Threonine",0.079,g,5 %
-"Tryptophan",0.025,g,6 %
-"Tyrosine",0.067,g,
-"Valine",0.101,g,5 %
-"Phenylalanine + Tyrosine",0.155,g,6 %
-"Methionine + Cysteine",0.05,g,3 %
+"Isoleucine",0.248,g,16 %
+"Leucine",0.466,g,14 %
+"Lysine",0.39,g,13 %
+"Methionine",0.1,g,
+"Phenylalanine",0.186,g,
+"Proline",0.364,g,
+"Serine",0.272,g,
+"Threonine",0.248,g,15 %
+"Tryptophan",0.074,g,18 %
+"Tyrosine",0.153,g,
+"Valine",0.266,g,14 %
+"Phenylalanine + Tyrosine",0.339,g,13 %
+"Methionine + Cysteine",0.17,g,11 %
 "Carbohydrate",7.05,g,3 %
 "Fiber",1.05,g,4 %
 "Starch",1.76,g,

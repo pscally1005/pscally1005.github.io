@@ -1,0 +1,381 @@
+<!-- Included variables -->
+{% assign facts = include.facts %}
+{% assign servingSize = include.servingSize | plus: 0 %}
+{% assign nutrient = include.nutrient %}
+{% assign fetch = include.fetch %}
+{% assign rnd = include.rnd %}
+
+<!-- Only run if there's a nutrtion facts file -->
+{% if facts %}
+
+    <!-- Variables -->
+    {% assign cal = "0" %}
+
+    {% assign fat = "0.0g (0 %)" %}
+    {% assign sat = "0.0g (0 %)" %}
+    {% assign trans = "0.0g (0 %)" %}
+    {% assign poly = "0.0g (0 %)" %}
+    {% assign mono = "0.0g (0 %)" %}
+    {% assign choles = "0mg (0 %)" %}
+
+    {% assign sod = "0mg (0 %)" %}
+
+    {% assign carb = "0.0g (0 %)" %}
+    {% assign fib = "0.0g (0 %)" %}
+    {% assign sug = "0.0g (0 %)" %}
+
+    {% assign prot = "0.0g (0 %)" %}
+
+    {% assign vitA = "0.0mcg (0 %)" %}
+    {% assign vitB1 = "0.00mg (0 %)" %}
+    {% assign vitB2 = "0.00mg (0 %)" %}
+    {% assign vitB3 = "0.0mg (0 %)" %}
+    {% assign vitB5 = "0.0mg (0 %)" %}
+    {% assign vitB6 = "0.00mg (0 %)" %}
+    {% assign vitB9 = "0.0mcg (0 %)" %}
+    {% assign vitB12 = "0.0mcg (0 %)" %}
+    {% assign vitC = "0.0mg (0 %)" %}
+    {% assign vitD = "0.00mcg (0 %)" %}
+    {% assign vitE = "0.00mg (0 %)" %}
+    {% assign vitK = "0.0mcg (0 %)" %}
+    {% assign choline = "0mg (0 %)" %}
+
+    {% assign calc = "0mg (0 %)" %}
+    {% assign cop = "0.00mg (0 %)" %}
+    {% assign iron = "0.00mg (0 %)" %}
+    {% assign magn = "0mg (0 %)" %}
+    {% assign mang = "0.00mg (0 %)" %}
+    {% assign phos = "0mg (0 %)" %}
+    {% assign pot = "0mg (0 %)" %}
+    {% assign sel = "0.0mcg (0 %)" %}
+    {% assign zinc = "0.00mg (0 %)" %}
+
+    {% assign loopVarFacts = site.data.servingSizes[facts] %}
+    {% assign loopVarIng = site.data.servingSizes[ing] %}
+
+    <!-- Loop to get nutrition facts -->
+    {% for row in loopVarFacts %}
+        {% for pair in row %}
+            {% assign dv = "" %}
+            {% if row.DV %}
+                {% assign dv = '&nbsp;(' | append: row.DV | append: ')' %}
+            {% endif %}
+
+            {% assign line0 = row.Amount | plus: 0 | round: 0 | append: row.Unit | append: dv %}
+            {% assign line1 = row.Amount | plus: 0 | round: 1 | append: row.Unit | append: dv %}
+            {% assign line2 = row.Amount | plus: 0 | round: 2 | append: row.Unit | append: dv %}
+            {% assign line3 = row.Amount | plus: 0 | round: 3 | append: row.Unit | append: dv %}
+
+            {% if pair[1] == "Calories" %}
+                {% assign cal = line0 %}
+            {% endif %}
+
+            {% if pair[1] == "Fat" %}
+                {% assign fat = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Saturated fatty acids" %}
+                {% assign sat = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Fatty acids, total trans" %}
+                {% assign trans = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Polyunsaturated fatty acids" %}
+                {% assign poly = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Monounsaturated fatty acids" %}
+                {% assign mono = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Cholesterol" %}
+                {% assign choles = line0 %}
+            {% endif %}
+
+            {% if pair[1] == "Sodium" %}
+                {% assign sod = line0 %}
+            {% endif %}        
+
+            {% if pair[1] == "Carbohydrate" %}
+                {% assign carb = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Fiber" %}
+                {% assign fib = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Sugars" %}
+                {% assign sug = line1 %}
+                {% assign totalSugar = row.Amount | plus: 0 | round: 1 %}
+            {% endif %}
+
+            {% if pair[1] == "Protein" %}
+                {% assign prot = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Vitamin A, RAE" %}
+                {% assign vitA = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Thiamin [Vitamin B1]" %}
+                {% assign vitB1 = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Riboflavin [Vitamin B2]" %}
+                {% assign vitB2 = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Niacin [Vitamin B3]" %}
+                {% assign vitB3 = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Pantothenic acid [Vitamin B5]" %}
+                {% assign vitB5 = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Vitamin B6" %}
+                {% assign vitB6 = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Folate, DFE [Vitamin B9]" %}
+                {% assign vitB9 = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Vitamin B12 [Cobalamin]" %}
+                {% assign vitB12 = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Vitamin C [Ascorbin acid" %}
+                {% assign vitC = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Vitamin D" %}
+                {% assign vitD = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Vitamin E (alpha-tocopherol)" %}
+                {% assign vitE = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Vitamin K" %}
+                {% assign vitK = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Choline" %}
+                {% assign choline = line0 %}
+            {% endif %}
+
+            {% if pair[1] == "Calcium" %}
+                {% assign calc = line0 %}
+            {% endif %}
+
+            {% if pair[1] == "Copper" %}
+                {% assign cop = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Iron" %}
+                {% assign iron = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Magnesium" %}
+                {% assign magn = line0 %}
+            {% endif %}
+
+            {% if pair[1] == "Manganese" %}
+                {% assign mang = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Phosphorus" %}
+                {% assign phos = line0 %}
+            {% endif %}
+
+            {% if pair[1] == "Potassium" %}
+                {% assign pot = line0 %}
+            {% endif %}
+
+            {% if pair[1] == "Selenium" %}
+                {% assign sel = line1 %}
+            {% endif %}
+
+            {% if pair[1] == "Zinc" %}
+                {% assign zinc = line2 %}
+            {% endif %}
+
+        {% endfor %}
+    {% endfor %}
+
+    <!-- Empty line variable to be filled later -->
+    {% assign line = "" %}
+
+    <!-- Multiplier factor -->
+    {% assign factor = 1.0 | round: 2 %}
+        
+    <!-- Assign factor based on what is being asked for -->
+    {% if fetch == "per100g" %}
+        {% assign factor = 100.000 | divided_by: servingSize | round: 3 %}
+    {% endif %}
+    {% if fetch == "per100cal" %}
+        {% assign factor = 100.000 | divided_by: cal | round: 3 %}
+    {% endif %}
+
+    <!-- Find the nutrient -->
+    {% if nutrient == "Calories" %}
+        {% assign line = cal %}
+    {% endif %}
+
+    {% if nutrient == "Fat" %}
+        {% assign line = fat %}
+    {% endif %}
+
+    {% if nutrient == "Saturated Fat" %}
+        {% assign line = sat %}
+    {% endif %}
+
+    {% if nutrient == "Trans Fat" %}
+        {% assign line = trans %}
+    {% endif %}
+
+    {% if nutrient == "Polyunsaturated Fat" %}
+        {% assign line = poly %}
+    {% endif %}
+
+    {% if nutrient == "Monounsaturated Fat" %}
+        {% assign line = mono %}
+    {% endif %}
+
+    {% if nutrient == "Cholesterol" %}
+        {% assign line = choles %}
+    {% endif %}
+
+    {% if nutrient == "Sodium" %}
+        {% assign line = sod %}
+    {% endif %}
+
+    {% if nutrient == "Carbs" %}
+        {% assign line = carb %}
+    {% endif %}
+
+    {% if nutrient == "Fiber" %}
+        {% assign line = fib %}
+    {% endif %}
+
+    {% if nutrient == "Sugar" %}
+        {% assign line = sug %}
+    {% endif %}
+
+    {% if nutrient == "Protein" %}
+        {% assign line = prot %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin A" %}
+        {% assign line = vitA %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin B1" %}
+        {% assign line = vitB1 %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin B2" %}
+        {% assign line = vitB2 %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin B3" %}
+        {% assign line = vitB3 %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin B5" %}
+        {% assign line = vitB5 %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin B6" %}
+        {% assign line = vitB6 %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin B9" %}
+        {% assign line = vitB9 %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin B12" %}
+        {% assign line = vitB12 %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin C" %}
+        {% assign line = vitC %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin D" %}
+        {% assign line = vitD %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin E" %}
+        {% assign line = vitE %}
+    {% endif %}
+
+    {% if nutrient == "Vitamin K" %}
+        {% assign line = vitK %}
+    {% endif %}
+
+    {% if nutrient == "Choline" %}
+        {% assign line = choline %}
+    {% endif %}
+
+    {% if nutrient == "Calcium" %}
+        {% assign line = calc %}
+    {% endif %}
+
+    {% if nutrient == "Copper" %}
+        {% assign line = cop %}
+    {% endif %}
+
+    {% if nutrient == "Iron" %}
+        {% assign line = iron %}
+    {% endif %}
+
+    {% if nutrient == "Magnesium" %}
+        {% assign line = magn %}
+    {% endif %}
+
+    {% if nutrient == "Manganese" %}
+        {% assign line = mang %}
+    {% endif %}
+
+    {% if nutrient == "Phosphorus" %}
+        {% assign line = phos %}
+    {% endif %}
+
+    {% if nutrient == "Potassium" %}
+        {% assign line = pot %}
+    {% endif %}
+
+    {% if nutrient == "Selenium" %}
+        {% assign line = sel %}
+    {% endif %}
+
+    {% if nutrient == "Zinc" %}
+        {% assign line = zinc %}
+    {% endif %}
+
+    <!-- Extract the numeric value -->
+    {% assign value_raw = line | split: '(' | first %}
+    {% assign value = value_raw | remove: 'a' | remove: 'b' | remove: 'c' | remove: 'd' | remove: 'e' | remove: 'f' | remove: 'g' | remove: 'h' | remove: 'i' | remove: 'j' | remove: 'k' | remove: 'l' | remove: 'm' | remove: 'n' | remove: 'o' | remove: 'p' | remove: 'q' | remove: 'r' | remove: 's' | remove: 't' | remove: 'u' | remove: 'v' | remove: 'w' | remove: 'x' | remove: 'y' | remove: 'z' | remove: 'A' | remove: 'B' | remove: 'C' | remove: 'D' | remove: 'E' | remove: 'F' | remove: 'G' | remove: 'H' | remove: 'I' | remove: 'J' | remove: 'K' | remove: 'L' | remove: 'M' | remove: 'N' | remove: 'O' | remove: 'P' | remove: 'Q' | remove: 'R' | remove: 'S' | remove: 'T' | remove: 'U' | remove: 'V' | remove: 'W' | remove: 'X' | remove: 'Y' | remove: 'Z' | remove: '&' | remove: ';' %}
+
+    <!-- Extract the percentage -->
+    {% assign percentage_raw = line | split: '(' | last %}
+    {% assign percentage = percentage_raw | remove: '%' | remove: ')' | strip %}
+
+    <!-- Extract the unit -->
+    {% assign unit = line | remove: ' ' | remove: '.' | remove: '0' | remove: '1' | remove: '2' | remove: '3' | remove: '4' | remove: '5' | remove: '6' | remove: '7' | remove: '8' | remove: '9' | remove: '(' | remove: ')' | remove: '%' | strip %}
+    {% assign len = unit.size | minus: 2 %}
+    {% assign unit = unit | slice: 0, len %}
+
+    <!-- Apply factor -->
+    {% assign value = value | times: factor | round: rnd %}
+    {% assign percentage = percentage | times: factor | round: 0 %}
+
+    <!-- Combine for the output -->
+    {% assign output = value | append: unit | append: '(' | append: percentage | append: ' %)' %}
+    {{output}}
+
+{% endif %}

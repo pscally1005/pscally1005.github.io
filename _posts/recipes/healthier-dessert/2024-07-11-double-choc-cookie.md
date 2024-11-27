@@ -37,7 +37,7 @@ tags:
 - beans
 - chickpeas
 - garbanzo beans
-Description: Delicious cookies made from a base of beans, dates, and natural nut butter!  These are a variation of my <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>, with added cocoa powder for that delicious double chocolate, brownie flavored cookie.  They're sugar free, oil free, and gluten free.  They can be vegan too if you like (swap the milk for water).  If you're more of a Reese's fan than a chocoholic, you should also check out my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or if you're more of a mint fan, you can make my <a href="/recipes/mint-chocolate-chip-date-cookies">Mint Chocolate Chip Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best! 
+Description: Delicious cookies made from a base of beans, dates, and natural nut butter!  These are a variation of my <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>, with added cocoa powder for that delicious double chocolate, brownie flavored cookie.  They're sugar free, oil free, and gluten free.  They can be vegan too if you like (swap the milk for water).  If you're more of a Reese's fan than a chocoholic, you should also check out my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best! 
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper<br><br>
 

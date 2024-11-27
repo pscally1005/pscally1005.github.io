@@ -41,15 +41,9 @@ tags:
 - almond extract
 - applesauce
 - unsweetened applesauce
-Description: I love myself a classic natural nut butter, but sometimes I like to mix it up with various different flavors. It's sweet but sugar free, healthy, and lower in fat, since some of the nuts are replaced with fruit or other ingredients. I've also added a scoop of protein powder to add some more protein, since there is proportionally less nuts than regular nut butter.
+Description: I love myself a classic natural nut butter, but sometimes I like to mix it up with various different flavors. It's sweet but sugar free, healthy, and lower in fat, since some of the nuts are replaced with fruit or other ingredients. I've also added a scoop of protein powder to add some more protein, since there is proportionally less nuts than regular nut butter.  For my other flavored protein nut butters, check out the links below:<br><ul><li><a href="/recipes/straw-mint">Strawberry Mint Protein Pistachio Butter</a></li><li><a href="/recipes/choc-pb">Chocolate Banana Protein Peanut Butter</a></li></ul>
 Instructions: 
 - In a food processor, blend together the nuts until a smooth nut butter is formed. Scrape down the sides every minute or so. This should take about 5-10 minutes<br><br>
 
-- Then, choose your flavor, and blend in the rest of the ingredients with the salt (optional, depending on the saltiness of your nuts), sweetener (liquid monk fruit or stevia), and protein powder (unflavored whey)<br><br>
-
-- Cranberry Almond - use almonds as your nut, along with 3 oz (85 g) fresh cranberries, 1/4 cup (60 g) unsweetened applesauce, and 1/2 tsp (2.5 g) almond extract<br><br>
-
-- For my other flavored nut butters, check out the links below<br>
-- <a href="choc-pb">Chocolate Banana Protein Peanut Butter</a><br>
-- <a href="straw-mint">Strawberry Mint Protein Pistachio Butter</a><br>
+- Then, choose your flavor, and blend in the rest of the ingredients with the salt (optional, depending on the saltiness of your nuts), sweetener (liquid monk fruit or stevia), and protein powder (unflavored whey)
 ---

@@ -37,7 +37,7 @@ tags:
 - beans
 - chickpeas
 - garbanzo beans
-Description: Delicious cookies made from a base of beans, dates, and natural nut butter!  They're sugar free, oil free, and gluten free.  They can be vegan too (swap the milk for water and use vegan chocolate).  This is my standard chocolate chip cookie version.  For other delicious variations, check out my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a>, <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>, and <a href="/recipes/mint-chocolate-chip-date-cookies">Mint Chocolate Chip Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
+Description: Delicious cookies made from a base of beans, dates, and natural nut butter!  They're sugar free, oil free, and gluten free.  They can be vegan too (swap the milk for water and use vegan chocolate).  This is my standard chocolate chip cookie version.  For other delicious variations, check out my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> and my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper<br><br>
 
@@ -45,6 +45,9 @@ Instructions:
 - <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-unblended.jpg" alt="" class="instruction-image"></center><br>
 
 - I've used almond butter here, but any nut butter will work, like peanut or cashew butter.  For a nut free option, use tahini or pumpkin seed butter<br><br>
+
+- To make mint chocolate chip cookies instead, use sunflower seed butter as your nut butter, and replace vanilla extract with 1/8 tsp mint extract.  The sunflower butter will turn the cookies green the next day, as seen below<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover-green.jpg" alt="" class="instruction-image"></center><br>
 
 - For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change<br><br>
 

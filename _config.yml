@@ -89,3 +89,6 @@ jekyll_seo_tag:
   keywords: false
   description: false
   image: false
+
+kramdown:
+  input: GFM

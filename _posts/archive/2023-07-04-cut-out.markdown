@@ -11,7 +11,7 @@ image: /assets/Food/Healthier Dessert/Cut Out/cut-out-cover.jpg
 ing: cutout-ing
 facts: cutout-facts
 section1: Dry
-start2: Natural peanut butter
+start2: Egg
 section2: Wet
 start3: Nonfat cottage cheese
 section3: Icing
