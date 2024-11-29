@@ -1,6 +1,16 @@
 <div class="recipe-instruction-header">
     {% if page.Instructions %}
         <div class="recipe-header">Instructions</div>
+
+        <!-- "Cook Mode" toggle switch -->
+        <div class="cook-mode-toggle">
+            <label class="switch">
+                <input type="checkbox" id="screen-toggle">
+                <span class="slider"></span>
+            </label>
+            <span id="cook-mode-label">Cook Mode Off: Prevents screen dimming</span>
+        </div>
+
         <div class="recipe-instructions">
             <div class="recipe-section">
                 <ol>
@@ -14,6 +24,122 @@
                 </ol>
             </div>
         </div>
-        <br>
     {% endif %}
 </div>
+
+<!-- CSS for styling the toggle switch -->
+<style>
+    /* Toggle switch container */
+    .cook-mode-toggle {
+        display: none; /* Hidden by default */
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        color: var(--default-text-color);
+        font-style: italic;
+        font-size: 16px;
+    }
+
+    /* The switch container */
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 50px;
+        height: 25px;
+    }
+
+    /* Hide the default checkbox */
+    .switch input {
+        display: none;
+    }
+
+    /* The slider */
+    .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: var(--red-text-color);
+        transition: 0.4s;
+        border-radius: 25px;
+    }
+
+    .slider:before {
+        position: absolute;
+        content: '';
+        height: 19px;
+        width: 19px;
+        left: 3px;
+        bottom: 3px;
+        background-color: white;
+        transition: 0.4s;
+        border-radius: 50%;
+    }
+
+    input:checked + .slider {
+        background-color: var(--green-text-color);
+    }
+
+    input:checked + .slider:before {
+        transform: translateX(25px);
+    }
+
+    /* Show the toggle only on mobile screens */
+    @media (max-width: 768px) {
+        .cook-mode-toggle {
+            display: flex; /* Show on mobile */
+        }
+    }
+
+    /* Hide on larger screens (PC) */
+    @media (min-width: 769px) {
+        .cook-mode-toggle {
+            display: none; /* Hide on larger screens */
+        }
+    }
+</style>
+
+<!-- JavaScript for the "Cook Mode" toggle functionality -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const screenToggle = document.getElementById('screen-toggle');
+        const cookModeLabel = document.getElementById('cook-mode-label');
+        let wakeLock = null;
+
+        // Request Wake Lock
+        const requestWakeLock = async () => {
+            try {
+                wakeLock = await navigator.wakeLock.request('screen');
+                cookModeLabel.textContent = 'Cook Mode On: Prevents screen dimming';
+            } catch (err) {
+                console.error(`${err.name}, ${err.message}`);
+            }
+        };
+
+        // Release Wake Lock
+        const releaseWakeLock = () => {
+            if (wakeLock !== null) {
+                wakeLock.release();
+                wakeLock = null;
+                cookModeLabel.textContent = 'Cook Mode Off: Prevents screen dimming';
+            }
+        };
+
+        // Toggle Wake Lock on Checkbox Change
+        screenToggle.addEventListener('change', () => {
+            if (screenToggle.checked) {
+                requestWakeLock();
+            } else {
+                releaseWakeLock();
+            }
+        });
+
+        // Feature detection for Wake Lock API
+        if (!('wakeLock' in navigator)) {
+            document.querySelector('.cook-mode-toggle').style.display = 'none'; // Hide toggle if API not supported
+            console.log('Wake Lock API not supported');
+        }
+    });
+</script>
