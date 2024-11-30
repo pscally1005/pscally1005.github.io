@@ -1,0 +1,111 @@
+<!-- "Hide Pictures" toggle switch -->
+<div class="hide-pictures-toggle">
+    <label class="switch">
+        <input type="checkbox" id="hide-pictures-toggle" checked>
+        <span class="slider"></span>
+    </label>
+    <span id="hide-pictures-label">Pictures: Shown</span>
+</div>
+
+<!-- CSS for styling the "Hide Pictures" toggle -->
+<style>
+    /* Toggle switch container */
+    .hide-pictures-toggle {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        color: var(--default-text-color);
+        font-style: italic;
+        font-size: 16px;
+    }
+
+    /* The switch container */
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 50px;
+        height: 25px;
+    }
+
+    /* Hide the default checkbox */
+    .switch input {
+        display: none;
+    }
+
+    /* The slider */
+    .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: var(--green-text-color); /* Default: green */
+        transition: 0.4s;
+        border-radius: 25px;
+    }
+
+    .slider:before {
+        position: absolute;
+        content: '';
+        height: 19px;
+        width: 19px;
+        left: 3px;
+        bottom: 3px;
+        background-color: white;
+        transition: 0.4s;
+        border-radius: 50%;
+    }
+
+    input:checked + .slider {
+        background-color: var(--green-text-color); /* Green when checked */
+    }
+
+    input:checked + .slider:before {
+        transform: translateX(25px);
+    }
+
+    input:not(:checked) + .slider {
+        background-color: var(--red-text-color); /* Red when unchecked */
+    }
+
+    /* Responsive behavior can be added here if needed */
+</style>
+
+<!-- JavaScript for "Hide Pictures" functionality -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const hidePicturesToggle = document.getElementById('hide-pictures-toggle');
+        const hidePicturesLabel = document.getElementById('hide-pictures-label');
+        const centers = document.querySelectorAll('center'); // Select all <center> elements
+
+        // Function to hide/show images and adjust <br> tags
+        const updateVisibility = (showImages) => {
+            centers.forEach(center => {
+                const nextElement = center.nextElementSibling;
+
+                if (showImages) {
+                    center.style.display = ''; // Show <center> (and its image)
+                    if (nextElement && nextElement.tagName === 'BR') {
+                        nextElement.style.display = ''; // Show <br> after <center>
+                    }
+                } else {
+                    center.style.display = 'none'; // Hide <center> (and its image)
+                    if (nextElement && nextElement.tagName === 'BR') {
+                        nextElement.style.display = 'none'; // Hide <br> after <center>
+                    }
+                }
+            });
+            hidePicturesLabel.textContent = showImages ? 'Pictures: Shown' : 'Pictures: Hidden';
+        };
+
+        // Initialize with images shown
+        updateVisibility(true);
+
+        // Toggle image visibility on checkbox change
+        hidePicturesToggle.addEventListener('change', () => {
+            updateVisibility(hidePicturesToggle.checked);
+        });
+    });
+</script>

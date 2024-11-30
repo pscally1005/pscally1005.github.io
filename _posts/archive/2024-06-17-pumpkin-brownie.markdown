@@ -45,7 +45,7 @@ tags:
 Description: These brownies spawned from me trying to make my <a href="three-ingredient-brownies">Three Ingredient Brownie Bites</a>, where I wanted to swap the banana and peanut butter for pumpkin puree and pumpkin seed butter.  The batter was much thicker, so I added some extra ingredients, swirled in a pumpkin topping, and thus these Double Pumpkin Brownies were born.  They're sugar, nut,  and gluten free, moist and fudgy, and simple to make!
 Instructions: 
 - In a large bowl, combine together all ingredients for the brownie layer with a silicone spatula until fully combined<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-unmixed.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-mixed.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-unmixed.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-mixed.jpg" alt="" class="half-page"></center><br>
 
 - Transfer the batter to a parchment line 8" square pan that's lined with parchment paper and sprayed with oil<br><br>
 
@@ -53,8 +53,8 @@ Instructions:
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-separate.jpg" alt="" class="instruction-image"></center><br>
 
 - Dollop the pumpkin topping on top of the brownies, and spread as best as you can with a spatula, making sure not to mix together the orange and brown.  Optionally top with chocolate chips<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-raw.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-raw-choc-chips.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-raw.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-raw-choc-chips.jpg" alt="" class="half-page"></center><br>
 
 - Bake in a preheated 350F oven for about 20 minutes. A toothpick to the center will come out slightly wet with some crumbs. It should not be clean.  Let cool totally in the fridge before slicing. Store in the fridge or freezer<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-baked.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-cut.jpg" alt="" class="half-page"></center>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-baked.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-cut.jpg" alt="" class="half-page"></center>
 ---

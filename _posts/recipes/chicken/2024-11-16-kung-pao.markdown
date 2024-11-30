@@ -45,10 +45,10 @@ Instructions:
 - <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-rice.jpg" alt="" class="instruction-image"></center><br>
 
 - Meanwhile, heat a large pan medium heat with oil. Cut your yellow squash into thin quarters, and add to the pot along with salt and pepper. Cover and cook until the translucent and caramelized. Transfer to a large bowl<br><br>
-- <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-squash-raw.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Chicken/Kung Pao/kung-pao-squash-cooked.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-squash-raw.jpg" alt="" class="half-page"><img src="/assets/Food/Chicken/Kung Pao/kung-pao-squash-cooked.jpg" alt="" class="half-page"></center><br>
 
 - As the squash cooks, finely chop your garlic and ginger, and set aside (garlic and ginger together). Finely chop the peanuts, and set aside (separate from the garlic/ginger). Dice your chicken into 1" cubes<br><br>
-- <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-chopped.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Chicken/Kung Pao/kung-pao-chicken-raw.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-chopped.jpg" alt="" class="half-page"><img src="/assets/Food/Chicken/Kung Pao/kung-pao-chicken-raw.jpg" alt="" class="half-page"></center><br>
 
 - When the squash is cooked and in the bowl, add the garlic, ginger, chicken, and oil to the pan.  Cook over medium heat until chicken reaches 165F, and transfer to the bowl with the squash<br><br>
 - <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-chicken-cooked.jpg" alt="" class="instruction-image"></center><br>
@@ -61,5 +61,5 @@ Instructions:
 
 - Mix together the yellow squash, chicken, and sauce. Add to a bowl with the rice on the side, top with chopped peanuts, and serve<br><br>
 - <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-mixed.jpg" alt="" class="instruction-image"></center><br>
-- <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-parts.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Chicken/Kung Pao/kung-pao-containers.jpg" alt="" class="half-page"></center>
+- <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-parts.jpg" alt="" class="half-page"><img src="/assets/Food/Chicken/Kung Pao/kung-pao-containers.jpg" alt="" class="half-page"></center>
 ---

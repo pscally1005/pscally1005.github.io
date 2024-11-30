@@ -56,7 +56,7 @@ Instructions:
 - <center><img src="/assets/Food/Meatless/Falafel/falafel-2.jpg" alt="" class="instruction-image"></center><br>
 
 - Add the rest of the ingredients to the food processor, and pulse to combine and roughly chop the cilantro. Be careful not to over-blend.  Here are some ingredient swaps if you need:<b></b>
-- <br>&emsp;- I used some <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>, but either a canned sweet potato or pumpkin puree would <br>&emsp;&emsp;also work.  Or try using <a href="roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>
+- <br>&emsp;- I used some <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>, but either a canned sweet potato or pumpkin puree would <br>also work.  Or try using <a href="roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a>
 - <br>&emsp;- Instead of almond butter, you can use tahini, pistachio butter, or any other natural nut or seed butter
 - <br>&emsp;- Fresh parsley can be used instead of cilantro as well<br><br>
 - <center><img src="/assets/Food/Meatless/Falafel/falafel-3.jpg" alt="" class="instruction-image"></center><br>

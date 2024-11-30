@@ -50,7 +50,7 @@ Instructions:
 - Wash the pumpkin, cut off the stem, and slice in half.  Scoop out the seeds with a spoon<br><br>
 
 - Place the pumpkin halves cut side down on a parchment line baking sheet, and roast at 400F until fork tender (about 45 minutes).  Flip over to let steam out for a few minutes<br><br>
-- <center><img src="/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-raw.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cooked.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-raw.jpg" alt="" class="half-page"><img src="/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cooked.jpg" alt="" class="half-page"></center><br>
 
 - Cut off the ends, and transfer to a food processor (with the skins!!).  Blend until smooth<br><br>
 - <center><img src="/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-pureed.jpg" alt="" class="instruction-image"></center><br>

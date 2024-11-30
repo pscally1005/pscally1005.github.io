@@ -40,7 +40,7 @@ tags:
 * <a rel="" target="" href="#dough-scraper">Dough Scraper</a><br>
 * <a rel="" target="" href="#bread-lame">Bread Lame</a><br>
 
-<br><center><img src="/assets/Misc/Cooking/Kitchen/kitchen-pack.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Cooking/Kitchen/kitchen-tools.png" alt="" class="smaller-image"></center>
+<br><center><img src="/assets/Misc/Cooking/Kitchen/kitchen-pack.png" alt="" class="smaller-image"><img src="/assets/Misc/Cooking/Kitchen/kitchen-tools.png" alt="" class="smaller-image"></center>
 
 <div id="food-scale" class="table-of-contents"></div>
 <br><i><font size="+2">Food Scale</font></i><br>

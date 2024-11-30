@@ -66,12 +66,12 @@ Instructions:
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-raw.jpg" alt="" class="instruction-image"></center><br>
 
 - Bake for 40 minutes, or until the internal temperature is at least 205F and a toothpick comes out nearly clean.  Let cool totally in the pan in the fridge<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-1.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-2.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-1.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-2.jpg" alt="" class="half-page"></center><br>
 
 - In a food processor, blend the frozen bananas until you have a smooth banana ice cream.  Add in the cottage cheese, pumpkin seed butter, and cinnamon, and blend until smooth and creamy<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-1.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-2.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-1.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-2.jpg" alt="" class="half-page"></center><br>
 
 - Spread on top of the cooled cake, and optionally dust the top with cinnamon.  Slice into 12, and serve<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-not-dusted.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-dusted.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-not-dusted.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-dusted.jpg" alt="" class="half-page"></center><br>
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-2.jpg" alt="" class="instruction-image"></center>
 ---

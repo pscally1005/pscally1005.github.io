@@ -89,18 +89,20 @@
     {% endif %}
 
     <!-- Print total and serving costs -->
-    <div class="recipe-header">Cost</div>
-    <div id="recipe"></div>
-    <div class="ingredient-item" style="margin-bottom: 5px !important; display: inline !important;">
-        <div class="recipe-section-bold" style="font-style: normal !important;">Total Cost: </div>
-        <div class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}"></div>
-        <br>
-        <div class="recipe-section-bold" style="font-style: normal !important;">Cost per Serving: </div>
-        <div class="total-cost">${{ servingCostString }}</div>
+    <div class="cost-section">
+        <div class="recipe-header">Cost</div>
+        <div id="recipe"></div>
+        <div class="ingredient-item" style="margin-bottom: 5px !important; display: inline !important;">
+                <div class="recipe-section-bold" style="font-style: normal !important;">Total Cost: </div>
+                <div class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}"></div>
+                <br>
+                <div class="recipe-section-bold" style="font-style: normal !important;">Cost per Serving: </div>
+                <div class="total-cost">${{ servingCostString }}</div>
 
-        <span class="recipe-vol" style="display: none;"></span>
-        <span class="recipe-grams" data-base-mass="{{ mass }}" style="display: none;"></span>
-        <span class="ingredient-cost" data-base-cost="{{ totalCost }}" style="display: none;"></span>
+                <span class="recipe-vol" style="display: none;"></span>
+                <span class="recipe-grams" data-base-mass="{{ mass }}" style="display: none;"></span>
+                <span class="ingredient-cost" data-base-cost="{{ totalCost }}" style="display: none;"></span>
+        </div>
     </div>
 
 {% endif %}

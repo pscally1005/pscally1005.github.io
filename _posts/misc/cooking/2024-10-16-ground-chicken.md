@@ -23,14 +23,14 @@ tags:
 
 &emsp;Today, I wanted to try saving some money and making my own ground chicken.  Since I can get boneless skinless chicken breasts for about $2.50 per pound (and thighs for about $3.00 per pound), I could save over half by just grinding it myself.  And it's very simple to do; let me show you.
 
-<center><a href="/recipes/chicken-nuggets"><img src="/assets/Food/Finger Food/Nuggies/nuggies.jpg" alt="" class="half-page"></a>&emsp;&emsp;<a href="/recipes/low-fodmap-tacos"><img src="/assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg" alt="" class="half-page"></a></center><br>
+<center><a href="/recipes/chicken-nuggets"><img src="/assets/Food/Finger Food/Nuggies/nuggies.jpg" alt="" class="half-page"></a><a href="/recipes/low-fodmap-tacos"><img src="/assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg" alt="" class="half-page"></a></center><br>
 
 <u><b><font size="+2">Instructions</font></b></u><br>
 <ol>
     <li>
         &emsp;Trim the fat off your chicken, and cut into 1" cubes.  Transfer to a cookie sheet.  Either chicken breasts or thighs will work here, but today I'm going with breasts.
         <br><br>
-        <center><img src="/assets/Misc/Cooking/Ground Chicken/whole-breasts.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Misc/Cooking/Ground Chicken/cubed.jpg" alt="" class="half-page"></center>
+        <center><img src="/assets/Misc/Cooking/Ground Chicken/whole-breasts.jpg" alt="" class="half-page"><img src="/assets/Misc/Cooking/Ground Chicken/cubed.jpg" alt="" class="half-page"></center>
     </li>
 
     <br>
@@ -52,7 +52,7 @@ tags:
     <li>
         &emsp;At this point you have raw ground chicken!  Use any way you'd normally use any ground meat.  Here I'm just sauteing it in a pan until fully cooked, and adding in a can of fava beans, some <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>, and spices (chili powder, garlic powder, paprika, onion powder, black pepper, and salt)
         <br><br>
-        <center><img src="/assets/Misc/Cooking/Ground Chicken/raw-pan.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Misc/Cooking/Ground Chicken/cooked-pan.jpg" alt="" class="half-page"></center>
+        <center><img src="/assets/Misc/Cooking/Ground Chicken/raw-pan.jpg" alt="" class="half-page"><img src="/assets/Misc/Cooking/Ground Chicken/cooked-pan.jpg" alt="" class="half-page"></center>
         <br>
         <center><img src="/assets/Misc/Cooking/Ground Chicken/seasoned-pan-1.jpg" alt="" class="half-page"></center>
     </li>

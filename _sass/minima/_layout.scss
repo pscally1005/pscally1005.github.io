@@ -1071,6 +1071,11 @@ html {
 }
 
 
+// Recipe image spacing for side by side
+img {
+  margin-right: 10px; /* Adjust this value for the desired gap */
+}
+
 
 // Printing
 @media print {
@@ -1086,6 +1091,11 @@ html {
   .recipe-comments,
   .recipe-disqus-comments,
   .disqus_thread,
+  .cook-mode-toggle,
+  .hide-pictures-toggle,
+  .serving-controls,
+  .full-nutrition-button,
+  .cost-section,
   header, footer, nav {
       display: none !important;
   }
@@ -1159,7 +1169,12 @@ html {
   .dairy-free,
   .vegan,
   .nut-free,
-  .sugar-free {
+  .sugar-free,
+  .cook-mode-toggle,
+  .hide-pictures-toggle,
+  .full-nutrition-button,
+  .cost-section,
+  .serving-controls {
       background: #fff !important;
       color: #000 !important;
       margin: 0 !important;

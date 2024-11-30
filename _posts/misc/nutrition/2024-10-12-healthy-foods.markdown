@@ -15,10 +15,10 @@ tags:
 ---
 <u><font size="+2">Introduction</font></u><br>
 &emsp;This post is essentially the opposite of my <a href="/misc/fake-healthy-foods">'Healthy' Trap Foods</a>.  In that, I went through a long list "trap foods", or foods that are deceptively unhealthy desite common belief and marketing.  On the other hand, here I will be going through some foods that are often overshadowed.  Foods that are healthy, but often given a bad rap.
-<center><img src="/assets/Misc/Nutrition/Overshadowed/diet.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Overshadowed/heartbeat.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/diet.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Overshadowed/heartbeat.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u>: Prioritize nutrient dense whole foods or minimally processed foods
-<center><img src="/assets/Misc/Nutrition/Overshadowed/mineral.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Overshadowed/vegetable.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/mineral.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Overshadowed/vegetable.png" alt="" class="smaller-image"></center><br>
 
 <br><u><font size="+2">List of Foods</font></u><br>
 * <a rel="" target="" href="#bananas">Bananas</a><br>
@@ -35,7 +35,7 @@ tags:
 * <a rel="" target="" href="#popcorn">Popcorn</a><br>
 * <a rel="" target="" href="#potatoes">Potatoes</a><br>
 * <a rel="" target="" href="#red-meat">Red Meat</a><br>
-<center><img src="/assets/Misc/Nutrition/Overshadowed/better-health.png" alt="" class="smaller-image">&emsp;&emsp;<img src="/assets/Misc/Nutrition/Overshadowed/healthy.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/Overshadowed/better-health.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Overshadowed/healthy.png" alt="" class="smaller-image"></center><br>
 
 <div id="bananas" class="table-of-contents"></div>
 <br><i><font size="+2">Bananas</font></i><br>

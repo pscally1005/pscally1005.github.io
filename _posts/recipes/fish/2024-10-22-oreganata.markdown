@@ -55,7 +55,7 @@ Instructions:
 - Add the frozen shrimp to a large bowl, and let water run in the bowl for a few minutes until defrosted.  Peel off the shells and tails (if applicable), and pat dry<br><br>
 
 - In a bowl, toss the shrimp with the balsamic vinegar, olive oil, lemon juice, and salt. Arrange in a single layer in your pan.  Spoon the breadcrumb mixture on top of the shrimp<br><br>
-- <center><img src="/assets/Food/Fish/Oreganata/oreganata-bowl.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Fish/Oreganata/oreganata-raw.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Fish/Oreganata/oreganata-bowl.jpg" alt="" class="half-page"><img src="/assets/Food/Fish/Oreganata/oreganata-raw.jpg" alt="" class="half-page"></center><br>
 
 - Bake at 450F for 10 minutes, then broil for 2-3 minutes, or until the breadcrumbs are golden brown. Watch carefully while broiling; you don't want to burn it. Squeeze some lemon juice to taste on top<br><br>
 - <center><img src="/assets/Food/Fish/Oreganata/oreganata-cooked.jpg" alt="" class="instruction-image"></center>

@@ -42,10 +42,10 @@ Instructions:
 - Preheat your oven to 350F, and line a 9x5" bread pan with parchment paper.  Lightly spray the paper with oil<br><br>
 
 - In a large bowl, combine together the wet ingredients - <a href="/recipes/apple-spread">apple spread</a>, tahini (or any other <a href="/recipes/natural-peanut-butter">nut or seed butter</a>), and eggs<br><br>
-- <center><img src="/assets/Food/Breakfast/Apple Bread/apple-bread-unmixed.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Breakfast/Apple Bread/apple-bread-mixed.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Breakfast/Apple Bread/apple-bread-unmixed.jpg" alt="" class="half-page"><img src="/assets/Food/Breakfast/Apple Bread/apple-bread-mixed.jpg" alt="" class="half-page"></center><br>
 
 - Add the dry ingredients to the bowl, and mix until fully combined - quick (or rolled) oats, oat flour, cornstarch, baking soda, and salt.  Transfer the batter to the prepared loaf pan<br><br>
-- <center><img src="/assets/Food/Breakfast/Apple Bread/apple-bread-bowl.jpg" alt="" class="half-page">&emsp;&emsp;<img src="/assets/Food/Breakfast/Apple Bread/apple-bread-raw.jpg" alt="" class="half-page"></center><br>
+- <center><img src="/assets/Food/Breakfast/Apple Bread/apple-bread-bowl.jpg" alt="" class="half-page"><img src="/assets/Food/Breakfast/Apple Bread/apple-bread-raw.jpg" alt="" class="half-page"></center><br>
 
 - Bake at 350F for about 45 minutes, covered with aluminum foil.  Remove the foil, and bake for an additional 15 minutes.  Place the pan in the fridge, and let it totally cool before removing from the pan and slicing<br><br>
 - <center><img src="/assets/Food/Breakfast/Apple Bread/apple-bread-baked.jpg" alt="" class="instruction-image"></center>
