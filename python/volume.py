@@ -219,6 +219,8 @@ def fix(vol):
         return str("1 small")
     elif vol == "1 plantain":
         return str("1 large or 2 small")
+    elif vol == "5.385 sweetpotato, 5 long":
+        return str("6 small")
     
     # eggs
     elif vol == "1 egg" or vol == "2.44 beet (2 dia)" or vol == "1 large (2-1/4 per pound, approx 3-3/4 long, 3 dia.)":

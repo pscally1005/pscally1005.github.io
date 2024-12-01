@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maple Cinnamon Peanut Butter"
-date:   2024-11-30 00:00:00 -05000
+date:   2024-12-02 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
@@ -36,7 +36,6 @@ tags:
 Description: A while ago, my brother got me 3 flavored nut butters for my birthday. I've been wanting to recreate them and gift them back to him, so today is finally the day. First up is Maple Cinnamon Peanut Butter, but be sure to check out the other 2 - <a href="/recipes/chocolate-almond-butter">Chocolate Almond Butter</a> and <a href="/recipes/white-chocolate-walnut-butter">White Chocolate Walnut Butter</a>.  Each serving is about 2 tbsp (32 g)
 Instructions: 
 - If your nuts are raw, air fry them at 300F for 10 minutes, or roast in the oven at 350F for 12 minutes<br><br>
-- <center><img src="/assets/Food/Sweet Spreads/Flavored Nut Butters/Peanut/roasted.jpg" alt="" class="instruction-image"></center><br>
 
 - Add your nuts to a food processor, and blend until super smooth, scraping down the sides every few minutes. This may take 5-10 minutes depending on your food processor. If it doesn't look and pour like a liquid, keep blending, you're not done yet. Have patience, and wear ear plugs!<br><br>
 - <center><img src="/assets/Food/Sweet Spreads/Flavored Nut Butters/Peanut/nut-butter.jpg" alt="" class="instruction-image"></center><br>

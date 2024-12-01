@@ -31,6 +31,8 @@ def ingredients(food):
         return str("Cooked navy beans")
     
     # Spices
+    elif food == "Spices, dried, rosemary":
+        return str("Rosemary, dried")
     elif food == "Salt, table" or food == "Table salt by FIRST STREET" or food == "Table salt by Morton Salt, Inc." or food == "Salt by Morton Salt, Inc." or food == "Table salt by Cardenas Markets":
         return str("Salt")
     elif food == "Spices, garlic powder" or food == "Garlic powder by EL SABOR" or food == "Garlic powder by Target Stores" or food == "Garlic powder by STONEMILL":
@@ -450,6 +452,8 @@ def ingredients(food):
         return str("100% chocolate")
     elif food == "Seeds, dried, pumpkin and squash seed kernels" or food == "Seeds, without salt, roasted, pumpkin and squash seed kernels":
         return str("Pumpkin seeds")
+    elif food == "cranberry-sauce":
+        return str("Sugar free cranberry sauce")
     
     # Carbs
     elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
