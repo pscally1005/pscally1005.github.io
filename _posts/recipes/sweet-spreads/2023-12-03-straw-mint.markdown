@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Sweet Spreads
 permalink: /recipes/straw-mint
-image: /assets/Food/Sweet Spreads/Flavored Nut Butters/flavored-pb-straw-mint.jpg
+image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-straw-mint.jpg
 ing: strawmint-ing
 facts: strawmint-facts
 section1: 

@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Sweet Spreads
 permalink: /recipes/choc-pb
-image: /assets/Food/Sweet Spreads/Flavored Nut Butters/flavored-pb-cover.jpg
+image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cover.jpg
 ing: chocpb-ing
 facts: chocpb-facts
 section1: 

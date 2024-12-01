@@ -71,7 +71,7 @@ def fix(vol):
         return str("3/4 cup")
     elif vol == "0.815 cup":
         return str("7/8 cup")
-    elif vol == "0.98 cup" or vol == "1.95 1/2 cup" or vol == "0.99 cup" or vol == "1 cup whole kernels" or vol == "0.922 cup" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
+    elif vol == "0.914 cup" or vol == "0.98 cup" or vol == "1.95 1/2 cup" or vol == "0.99 cup" or vol == "1 cup whole kernels" or vol == "0.922 cup" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
         return str("1 cup")
     elif vol == "1.0989 cup":
         return str("1 heaping cup")
@@ -83,7 +83,7 @@ def fix(vol):
         return str("1.5 cup")
     elif vol == "1.78 cup":
         return str("1.75 cup")
-    elif vol == "1.88 cup, unthawed" or vol == "1.98 cup" or vol == "2.665 container" or vol == "2 cup, frozen" or vol == "5 1/3 cup" or vol == "7.5 1/3 cup" or vol == "2 cup, chopped" or vol == "32 tbsp" or vol == "32 Tbsp" or vol == "1.855 cup":
+    elif vol == "2.19 cup, chopped" or vol == "2.08 cup" or vol == "1.79 cup, whole" or vol == "1.88 cup, unthawed" or vol == "1.98 cup" or vol == "2.665 container" or vol == "2 cup, frozen" or vol == "5 1/3 cup" or vol == "7.5 1/3 cup" or vol == "2 cup, chopped" or vol == "32 tbsp" or vol == "32 Tbsp" or vol == "1.855 cup":
         return str("2 cup")
     elif vol == "2.52 cup":
         return str("2.5 cup")

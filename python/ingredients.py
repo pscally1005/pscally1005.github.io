@@ -440,7 +440,7 @@ def ingredients(food):
         return str("Sunflower kernels")
     elif food == "Seeds, with salt added, sunflower seed butter":
         return str("Sunflower seed butter")
-    elif food == "Nuts, with salt added, dry roasted, pistachio nuts" or food == "Dry roasted pistachios" or food == "Nuts, raw, pistachios":
+    elif food == "Nuts, raw, pistachio nuts" or food == "Nuts, with salt added, dry roasted, pistachio nuts" or food == "Dry roasted pistachios" or food == "Nuts, raw, pistachios":
         return str("Pistachios")
     elif food == "Raw hazelnuts" or food == "Nuts, hazelnuts or filberts":
         return str("Hazelnuts")

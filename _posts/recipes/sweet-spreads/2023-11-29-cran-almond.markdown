@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Sweet Spreads
 permalink: /recipes/cran-almond
-image: /assets/Food/Sweet Spreads/Flavored Nut Butters/flavored-pb-cran-almond.jpg
+image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cran-almond.jpg
 ing: cranalmond-ing
 facts: cranalmond-facts
 section1: 
