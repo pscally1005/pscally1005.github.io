@@ -42,17 +42,17 @@ tags:
 - bbq sauce
 Description: Every Sunday night my mom would prepare a meatloaf, and it was my job to put it in the oven Monday night for dinner so it would be ready when she got back from work. Meatloaf is a comfort food for me, and I tried to make it a bit healthier by cutting back the sugar (no sugar filled ketchup or BBQ sauce).  I like to use my <a href="bbq-sauce">Unsweetened BBQ Sauce</a> in my meatloaf here, but feel free to use any other sugar free BBQ sauce.  I also did a breakdown of this recipe to find out the best breadcrumbs, which you can find as <a href="/misc/meatloaf-experiment">The Effect of Different Breadcrumbs on Meatloaf</a>.  For another meatloaf recipe with more vegetables, see my <a href="spinach-meatloaf">Spinach Meatloaf with Roasted Butternut Squash</a>
 Instructions: 
-- Preheat your oven to 350F, and line 2 cookie sheets with parchment paper<br><br>
+- Preheat your oven to 350F, and line 2 cookie sheets with parchment paper
 
-- In a large bowl, mix together the broccoli and the spices (lemon juice, minced garlic, oil, lemon pepper, garlic powder, and onion powder). Add to one of your sheets<br><br>
+- In a large bowl, mix together the broccoli and the spices (lemon juice, minced garlic, oil, lemon pepper, garlic powder, and onion powder). Add to one of your sheets
 
-- Rinse the bowl, and use it for the meatloaf. Crack in the egg, and mix together all the ingredients (meat, BBQ sauce, onion, oat flour, cheese, garlic and onion powder, chili powder, and paprika). Breadcrumbs or unflavored casein protein powder can be used in place of oat flour, as I tested in <a href="/misc/meatloaf-experiment">The Effect of Different Breadcrumbs on Meatloaf</a>.  Transfer the mix to the other pan, and shape into a meatloaf. You can also use a bread pan if you like<br><br>
+- Rinse the bowl, and use it for the meatloaf. Crack in the egg, and mix together all the ingredients (meat, BBQ sauce, onion, oat flour, cheese, garlic and onion powder, chili powder, and paprika). Breadcrumbs or unflavored casein protein powder can be used in place of oat flour, as I tested in <a href="/misc/meatloaf-experiment">The Effect of Different Breadcrumbs on Meatloaf</a>.  Transfer the mix to the other pan, and shape into a meatloaf. You can also use a bread pan if you like
 
-- Bake the meatloaf for about 45 minutes at 350F. The broccoli should also take about 45 minutes.  Cook the meatloaf to at least 165F, and the broccoli is to your liking. Optionally, brush the meatloaf with BBQ sauce during baking<br><br>
+- Bake the meatloaf for about 45 minutes at 350F. The broccoli should also take about 45 minutes.  Cook the meatloaf to at least 165F, and the broccoli is to your liking. Optionally, brush the meatloaf with BBQ sauce during baking
 
-- Let the meatloaf rest for at least 10 minutes before slicing (makes about 12 slices, so 1 serving is 2 pieces), and serve with your broccoli. I find that meatloaf is always better the next day actually, as it's less likely to fall apart (and sometimes I prefer it cold imo)<br><br>
-- <center><img src="/assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-5.jpg" alt="" class="instruction-image"></center><br>
+- Let the meatloaf rest for at least 10 minutes before slicing (makes about 12 slices, so 1 serving is 2 pieces), and serve with your broccoli. I find that meatloaf is always better the next day actually, as it's less likely to fall apart (and sometimes I prefer it cold imo)
+- <center><img src="/assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-5.jpg" alt="" class="instruction-image"></center>
 
-- To celebrate Halloween, I made this recipe and shaped it into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href="/recipes/ketchup">Date Sweetened Ketchup</a> for the blood.  This was paired with <a href="/recipes/stuffed-peppers">Turkey & Lentil Stuffed Bell Peppers</a> that Vic carved a Jack O'Lantern face into<br><br>
+- To celebrate Halloween, I made this recipe and shaped it into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href="/recipes/ketchup">Date Sweetened Ketchup</a> for the blood.  This was paired with <a href="/recipes/stuffed-peppers">Turkey & Lentil Stuffed Bell Peppers</a> that Vic carved a Jack O'Lantern face into
 - <center><a href="/recipes/stuffed-peppers"><img src="/assets/Food/Ground Meat/Stuffed/stuffed-halloween-1.jpg" alt="" class="half-page"></a><a href="/recipes/stuffed-peppers"><img src="/assets/Food/Ground Meat/Stuffed/stuffed-halloween-2.jpg" alt="" class="half-page"></a></center>
 ---

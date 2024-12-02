@@ -36,9 +36,9 @@ tags:
 - sip
 Description: I've had a bunch of fresh ginger left over lately, so this has been one of my go to ways to churn through it. Who knew making herbal tea is so easy; just boil water with some sort of flavoring (in this case fresh ginger and lemon juice), and sip!
 Instructions: 
-- In a small pot, bring water to a boil. Add the ginger into the pot, and let simmer for 5 minutes<br><br>
+- In a small pot, bring water to a boil. Add the ginger into the pot, and let simmer for 5 minutes
 
-- Strain through a fine mesh strainer into a mug to remove the ginger. Stir in lemon juice, and optionally some honey if you like it sweeter<br><br>
+- Strain through a fine mesh strainer into a mug to remove the ginger. Stir in lemon juice, and optionally some honey if you like it sweeter
 
 - You can also make the tea in the microwave. Just microwave the water until hot and add the ginger. Let steep for a few minutes before straining and adding the lemon
 ---

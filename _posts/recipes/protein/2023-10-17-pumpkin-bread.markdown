@@ -47,10 +47,10 @@ tags:
 - nutmeg
 Description: Fall season means pumpkin season, and this pumpkin loaf is full of protein, and with a good amount of fiber and healthy fats too. It's a great breakfast or dessert that I think you'll enjoy.  You should also try my other fruity protein cakes, such as <a href="banana-protein">Protein Banana Nut Bread</a>, <a href="apple-bread">Protein Apple Bread</a>, or <a href="carrot-cake">Layered Protein Carrot Cake</a>.  For more pumpkin recipes, see my <a href="pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a>, <a href="pancake">Pumpkin Protein Pancakes</a>, or <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>
 Instructions: 
-- Blend all ingredients together in a food processor until smooth - canned pumpkin puree, quick oats, whey, PB2, chia seeds, peanut butter, baking powder, cinnamon, stevia, ginger, nutmeg, baking soda, and water<br><br>
+- Blend all ingredients together in a food processor until smooth - canned pumpkin puree, quick oats, whey, PB2, chia seeds, peanut butter, baking powder, cinnamon, stevia, ginger, nutmeg, baking soda, and water
 
-- Transfer batter to a bread pan lined with parchment paper.<br><br>
+- Transfer batter to a bread pan lined with parchment paper
 
-- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean. Let cook on a wire rack before slicing.<br><br>
+- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean. Let cook on a wire rack before slicing
 - <center><img src="/assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-3.jpg" alt="" class="instruction-image"></center>
 ---

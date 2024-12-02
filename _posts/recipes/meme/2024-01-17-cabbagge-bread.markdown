@@ -32,14 +32,14 @@ tags:
 - food processor
 Description: Yeah you heard me right. Idk whether to file this under bread or meme recipes, but here you go. It's low calorie and gluten free, but also made out of cabbage, so pick your poison lmao (for the record I love cabbage, and this bread is shockingly good for what it is). I made this into an egg sandwich, as you can see above.
 Instructions: 
-- Using a food processor, shred your cabbage, until you have a riced consistency. Transfer to a large bowl<br><br>
+- Using a food processor, shred your cabbage, until you have a riced consistency. Transfer to a large bowl
 
-- Mix in the yogurt, baking powder, and salt with a spatula. Optionally, add some spices, like garlic or onion powder<br><br>
+- Mix in the yogurt, baking powder, and salt with a spatula. Optionally, add some spices, like garlic or onion powder
 
-- Transfer to a bread pan, and smooth the top<br><br>
+- Transfer to a bread pan, and smooth the top
 
-- Bake in a 400F oven for about 50 minutes<br><br>
-- <center><img src="/assets/Food/Bread/Cabbage/cabbage-4.jpg" alt="" class="instruction-image"></center><br>
+- Bake in a 400F oven for about 50 minutes
+- <center><img src="/assets/Food/Bread/Cabbage/cabbage-4.jpg" alt="" class="instruction-image"></center>
 
 - Refrigerate until cooled before slicing. Makes 1 sandwich. I reheated mine for 10 minutes in a 400F air fryer, before using for an egg sandwich
 ---

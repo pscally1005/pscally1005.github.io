@@ -40,9 +40,9 @@ tags:
 - sea food
 Description: Tuna salad, or tuna fish, is a simple throw together meal that can use pretty much anything in your fridge. Binded with Greek yogurt instead of mayo, this "salad" is much better for you, and is a great lunch. The recipe makes 2 servings as bowls, or 4 if made as a sandwich.
 Instructions: 
-- Drain the fish and add to a large bowl. Mash with a fork.  For the fish, I use 2 5oz cans of solid white albacore tuna in water<br><br>
+- Drain the fish and add to a large bowl. Mash with a fork.  For the fish, I use 2 5oz cans of solid white albacore tuna in water
 
-- Chop up all the vegetables and add to the bowl along with all the spices and everything else. Mix and serve<br><br>
+- Chop up all the vegetables and add to the bowl along with all the spices and everything else. Mix and serve
 
 - Makes 2 bowls or 4 sandwiches
 ---

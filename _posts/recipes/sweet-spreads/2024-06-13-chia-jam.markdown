@@ -42,11 +42,11 @@ tags:
 - strawberries
 Description: Here I'm using strawberries (or blueberries) and chia seeds to make a delicious <a href="/misc/fake-healthy-foods#jelly">jam</a> that really lets the flavor of the fruit shine. Most fruit jams contain significantly more sugar than actual fruit, but not this one.  Each serving is about 1 tbsp, or 19g.  <br>&emsp;Pictured here is a rice cake topped with <a href="natural-peanut-butter">Homemade Natural Nut Butter</a> (using a blend of peanuts and pistachios) and the strawberry jam for a delicious snack.  Strawberries and blueberries are lower in pectin compared to other berries, so chia seeds are used as a thickener. You can also check out my <a href="berry-jam">Low Sugar Berry Jam</a> for a blackberry (or raspberry) version, which has no chia seeds since these berries contain more pectin
 Instructions: 
-- Add your berries to a medium bowl, and microwave until soft. Or you can leave on the counter for a bit to defrost<br><br>
+- Add your berries to a medium bowl, and microwave until soft. Or you can leave on the counter for a bit to defrost
 
-- In a large pan over medium heat, add the berries and sweetener. Roughly mash with a potato masher<br><br>
+- In a large pan over medium heat, add the berries and sweetener. Roughly mash with a potato masher
 
-- Bring to a simmer, and let simmer for 2-3 minutes, until thickened<br><br>
+- Bring to a simmer, and let simmer for 2-3 minutes, until thickened
 
 - Remove from heat, stir in the chia seeds and lemon juice, and transfer to an airtight container. The jam will thicken as it cools
 ---

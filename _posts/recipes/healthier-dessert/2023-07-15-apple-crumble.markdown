@@ -49,11 +49,11 @@ tags:
 - crisp
 Description: Let me guess, you went apple picking this fall, and now you have way too many apples, but are struggling to find something healthy to bake with them. Just me? Well this is awkward then... Or make some <a href="apple-spread">No Sugar Added Apple Spread</a>
 Instructions: 
-- Half, core, and thinly slice each apple. Add to a large bowl.  Add the rest of the apple mix ingredients (honey, cornstarch, lemon juice, cinnamon, nutmeg, ginger, allspice, salt, and cloves), and toss until fully coated.  Transfer to lightly greased 9x13” pan<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-apples.jpg" alt="" class="instruction-image"></center><br>
+- Half, core, and thinly slice each apple. Add to a large bowl.  Add the rest of the apple mix ingredients (honey, cornstarch, lemon juice, cinnamon, nutmeg, ginger, allspice, salt, and cloves), and toss until fully coated.  Transfer to lightly greased 9x13” pan
+- <center><img src="/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-apples.jpg" alt="" class="instruction-image"></center>
 
-- Next, prepare the topping. Mix together the crisp topping ingredients (quick oats, maple syrup, coconut oil, cinnamon, ginger, nutmeg, cloves, and salt.  Evenly crumble the mixture on top of the apples<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-crisp.jpg" alt="" class="instruction-image"></center><br>
+- Next, prepare the topping. Mix together the crisp topping ingredients (quick oats, maple syrup, coconut oil, cinnamon, ginger, nutmeg, cloves, and salt.  Evenly crumble the mixture on top of the apples
+- <center><img src="/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-crisp.jpg" alt="" class="instruction-image"></center>
 
 - Bake at 350F (covered) for about 60 minutes, or until the top is golden brown and the apples are syrupy and tender, but not mushy. Broil the top for a few minutes to brown it more if desired. Let cool at least 15 minutes before slicing
 ---

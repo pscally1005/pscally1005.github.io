@@ -37,17 +37,17 @@ tags:
 - baking soda
 Description: These buns require no yeast, and instead rely on chemical leaveners (baking powder and soda).  This means you can prepare them right around dinner time, no waiting required.  To build your perfect burger, check out <a href="/recipes/burger-patties">Simple Burger Patties</a> and <a href="/recipes/ketchup">Date Sweetened Ketchup</a>, or make a delicious salad with <a href="/recipes/burger-bowl">Chopped Burger Bowl with Sweet Potato</a>
 Instructions: 
-- Preheat your oven to 400F, and line a large cookie sheet with parchment paper<br><br>
+- Preheat your oven to 400F, and line a large cookie sheet with parchment paper
 
-- In a large bowl, sift and whisk together the dry ingredients - flours, baking powder, baking soda, salt, garlic powder, and onion powder<br><br>
+- In a large bowl, sift and whisk together the dry ingredients - flours, baking powder, baking soda, salt, garlic powder, and onion powder
 
-- Add the wet ingredients to the bowl (applesauce, almond butter, and milk), and mix until you have a combined ball of bread dough.  Tahini or natural peanut butter will work in place of almond butter here.  Any milk will work as well; plant or cow's based, as long as it's unsweetened<br><br>
+- Add the wet ingredients to the bowl (applesauce, almond butter, and milk), and mix until you have a combined ball of bread dough.  Tahini or natural peanut butter will work in place of almond butter here.  Any milk will work as well; plant or cow's based, as long as it's unsweetened
 
-- Knead the dough in the bowl for about 30-45 seconds, until fully combined; don't over knead<br><br>
-- <center><img src="/assets/Food/Bread/Burger Buns/buns-4.jpg" alt="" class="instruction-image"></center><br>
+- Knead the dough in the bowl for about 30-45 seconds, until fully combined; don't over knead
+- <center><img src="/assets/Food/Bread/Burger Buns/buns-4.jpg" alt="" class="instruction-image"></center>
 
-- Divide the dough into 4 equal sized balls, about 90 g each. Roll into a ball and place them on the tray. Flatten to the size of your burgers. They will expand upward in the oven, but not really outward, so make them as wide as you want them to be when done baking. I probably could have flattened these a bit more here<br><br>
-- <center><img src="/assets/Food/Bread/Burger Buns/buns-5.jpg" alt="" class="instruction-image"></center><br>
+- Divide the dough into 4 equal sized balls, about 90 g each. Roll into a ball and place them on the tray. Flatten to the size of your burgers. They will expand upward in the oven, but not really outward, so make them as wide as you want them to be when done baking. I probably could have flattened these a bit more here
+- <center><img src="/assets/Food/Bread/Burger Buns/buns-5.jpg" alt="" class="instruction-image"></center>
 
 - Bake at 400F for about 20-22 minutes.  The buns will be golden brown, sound hollow when tapped on the bottom, and register around 205F with an instant thermometer. Let cool slightly before slicing and eating
 ---

@@ -36,12 +36,12 @@ tags:
 - chip
 Description: Yogurt bark is a very simple snack you can keep in your freezer indefinitely and eat at any point. It's highly customizable too, just mix in different ingredients until you like the taste, and top with whatever you have on hand.
 Instructions: 
-- Line a cookie sheet with parchment paper<br><br>
+- Line a cookie sheet with parchment paper
 
-- Mix yogurt, peanut butter, and honey in a medium bowl<br><br>
+- Mix yogurt, peanut butter, and honey in a medium bowl
 
-- Spread mixture onto a cookie sheet and top with blueberries.<br><br>
+- Spread mixture onto a cookie sheet and top with blueberries
 
-- Freeze until firm, at least an hour.  Slice<br><br>
-- <center><img src="/assets/Food/Finger Food/Yogurt Bark/bark-4.jpg" alt="" class="instruction-image"></center><br>
+- Freeze until firm, at least an hour.  Slice
+- <center><img src="/assets/Food/Finger Food/Yogurt Bark/bark-4.jpg" alt="" class="instruction-image"></center>
 ---

@@ -14,9 +14,9 @@
                 <ol>
                     {% for step in page.Instructions %}
                         {% if step contains "<center>" %}
-                            <span class="print-only">{{ step }}</span>
+                            <span class="print-only">{{ step }}<br></span>
                         {% else %}
-                            <span class="print-only"><li>{{ step }}</li></span>
+                            <span class="print-only"><li>{{ step }}</li><br></span>
                         {% endif %}
                     {% endfor %}
                 </ol>

@@ -56,7 +56,7 @@ tags:
 - frozen berries
 Description: This has been my breakfast for the past 4 mornings, and I'm prepared to have it another 4 times because it's great. This bowl is a great source of protein, healthy fats, complex carbs, fiber, calcium, potassium, vitamin B12, and vitamin A. It's delicious, filling, and super quick to make
 Instructions: 
-- Here I'm using <a href="/recipes/sweet-potato-puree">sweet potato puree</a> that I made by roasting and blending a whole sweet potato (with the skin) until smooth.  Some substitutes would be <a href="/recipes/pumpkin-puree">pumpkin puree</a>, unsweetened applesauce, mashed banana, or <a href="/recipes/apple-spread">apple spread</a><br><br>
+- Here I'm using <a href="/recipes/sweet-potato-puree">sweet potato puree</a> that I made by roasting and blending a whole sweet potato (with the skin) until smooth.  Some substitutes would be <a href="/recipes/pumpkin-puree">pumpkin puree</a>, unsweetened applesauce, mashed banana, or <a href="/recipes/apple-spread">apple spread</a>
 
 - Some other ingredient swaps would be:<br><ul><li>Use cottage cheese instead of yogurt</li><li>Using a different <a href="/recipes/natural-peanut-butter">natural nut butter</a> instead of almond</li><li>Replacing the strawberries with any other berries, like blueberries, raspberries, or blackberries</li><li>You can also add 2 tbsp of chia seeds (25 g) or ground flax seeds (13 g) for additional fiber, fat, and Omega-3s</li></ul><br>
 

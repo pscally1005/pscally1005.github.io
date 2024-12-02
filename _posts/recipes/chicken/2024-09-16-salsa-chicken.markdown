@@ -39,14 +39,14 @@ tags:
 - pulled chicken
 Description: Would you believe that this 2 ingredient salsa chicken contains just salsa and chicken? Wild concept, I know, I bet you're beyond shocked. This is probably the most low effort protein source you can make, and still tastes great. With just a pack of chicken thighs and a jar of salsa, you can have a easy meat ready for you at the end of the day.  I've gone with storebought salsa here, but you can also use a full batch of my <a href="/recipes/salsa">Five Minute Salsa (No Garlic/Onion)</a> as well!
 Instructions: 
-- <br><center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-packaging.jpg" alt="" class="larger-image"></center><br>
+- <br><center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-packaging.jpg" alt="" class="larger-image"></center>
 
-- Add some salsa to the base of your slow cooker. Add the chicken on top, and dump in the rest of the salsa<br><br>
-- <center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-raw.jpg" alt="" class="instruction-image"></center><br>
+- Add some salsa to the base of your slow cooker. Add the chicken on top, and dump in the rest of the salsa
+- <center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-raw.jpg" alt="" class="instruction-image"></center>
 
-- Cover and cook on low for 6 hours<br><br>
-- <center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-cooked.jpg" alt="" class="instruction-image"></center><br>
+- Cover and cook on low for 6 hours
+- <center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-cooked.jpg" alt="" class="instruction-image"></center>
 
-- Mash with a wooden spoon to shred<br><br>
+- Mash with a wooden spoon to shred
 - <center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-shredded.jpg" alt="" class="instruction-image"></center>
 ---

@@ -42,15 +42,15 @@ tags:
 - dill
 Description: These simple kebabs are made with ground turkey (either beef or lamb will work as well), and they can be cooked inside on a pan or grilled outdoors. The simple combination of lean meats and spices makes this a super quick and delicious summer main that pairs well with some <a href="/recipes/salmon-and-tzatziki">tzatziki</a>. Nutrition facts are for a serving size of 2 skewers/patties
 Instructions: 
-- In a small bowl, whisk together the spices - garlic powder, onion powder, allspice, black pepper, turmeric, oregano, cinnamon, nutmeg, salt, and cloves<br><br>
+- In a small bowl, whisk together the spices - garlic powder, onion powder, allspice, black pepper, turmeric, oregano, cinnamon, nutmeg, salt, and cloves
 
-- In a large bowl, combine together the spice mix, finely diced onion, fresh dill, and ground meat.  Optionally, you can sautee the onion with a pinch of salt until translucent for extra flavor<br><br>
+- In a large bowl, combine together the spice mix, finely diced onion, fresh dill, and ground meat.  Optionally, you can sautee the onion with a pinch of salt until translucent for extra flavor
 
-- Divide the meat into 8 pieces. Either make 8 patties for cooking inside, or 8 skewers for grilling.  You can also use skewers for inside cooking too if you have a big enough pan. Brush or spray the outside of the meat with olive oil<br><br>
-- <center><img src="/assets/Food/Ground Meat/Kebab/kebab-raw.jpg" alt="" class="instruction-image"></center><br>
+- Divide the meat into 8 pieces. Either make 8 patties for cooking inside, or 8 skewers for grilling.  You can also use skewers for inside cooking too if you have a big enough pan. Brush or spray the outside of the meat with olive oil
+- <center><img src="/assets/Food/Ground Meat/Kebab/kebab-raw.jpg" alt="" class="instruction-image"></center>
 
-- Stovetop - heat a large skillet to medium high heat, and cook the patties on each side for about 5 minutes, or until cooked through (at least 165F for turkey)<br><br>
-- <center><img src="/assets/Food/Ground Meat/Kebab/kebab-pan.jpg" alt="" class="instruction-image"></center><br>
+- Stovetop - heat a large skillet to medium high heat, and cook the patties on each side for about 5 minutes, or until cooked through (at least 165F for turkey)
+- <center><img src="/assets/Food/Ground Meat/Kebab/kebab-pan.jpg" alt="" class="instruction-image"></center>
 
 - Grill - heat a grill to medium heat, and cook the skewers for about 5 minutes per side, or until cooked through (at least 165F for turkey)
 ---

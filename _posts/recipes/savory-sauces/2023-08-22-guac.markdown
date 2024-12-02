@@ -43,10 +43,10 @@ tags:
 - vic
 Description: This guac looks a little more brown than normal, but that's because I added some extra spices to make it taste like more than just avocado. Guacamole with more taco flavors is easily a win in my book, but feel free to leave them out to reserve its green color. 1 serving is about 2 tbsp, or 28 g.
 Instructions: 
-- Add ripe avocados to a large bowl. Using a fork, mash until nearly smooth.<br><br>
+- Add ripe avocados to a large bowl. Using a fork, mash until nearly smooth
 
-- Cut your onion and tomato into a fine dice.  Add onion, tomato, lime, garlic, cilantro, and salt the bowl and mix<br><br>
-- <center><img src="/assets/Food/Savory Sauces/Guac/guac-2.jpg" alt="" class="instruction-image"></center><br>
+- Cut your onion and tomato into a fine dice.  Add onion, tomato, lime, garlic, cilantro, and salt the bowl and mix
+- <center><img src="/assets/Food/Savory Sauces/Guac/guac-2.jpg" alt="" class="instruction-image"></center>
 
 - Optionally add some spices (paprika, chili powder, and black pepper). It will taste much better, but the guac will lose its green color.  Serve on the side of <a href="taco">Sauteed Taco Meat and Fajita Veggies</a>
 ---

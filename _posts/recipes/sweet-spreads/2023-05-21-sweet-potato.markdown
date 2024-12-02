@@ -46,12 +46,12 @@ Description: This is less of a recipe and more of a method, as you'd probably us
     <li><a href="/recipes/pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a></li>
     <li><a href="/recipes/pumpkin-cake">Frosted Pumpkin Cake</a></li></ul>
 Instructions: 
-- Wash the potatoes. Prick with a fork on all over about 10 times, and wrap in aluminum foil<br><br>
+- Wash the potatoes. Prick with a fork on all over about 10 times, and wrap in aluminum foil
 
-- Bake in the oven for 90 minutes at 400F until very soft. You can also use the air fryer at 400F for 1 hour. Slice open, and allow to steam out for a few minutes<br><br>
+- Bake in the oven for 90 minutes at 400F until very soft. You can also use the air fryer at 400F for 1 hour. Slice open, and allow to steam out for a few minutes
 
-- Cut off the ends, and transfer the rest of the potatoes (with the skins!!) to a food processor.  Blend until smooth<br><br>
+- Cut off the ends, and transfer the rest of the potatoes (with the skins!!) to a food processor.  Blend until smooth
 
-- You can also turn this into mashed potatoes. Season to taste with garlic and onion powder, pepper, salt, paprika, and parsley<br><br>
+- You can also turn this into mashed potatoes. Season to taste with garlic and onion powder, pepper, salt, paprika, and parsley
 - <center><img src="/assets/Food/Sweet Spreads/Sweet Potato/sweet-potato-4.jpg" alt="" class="instruction-image"></center>
 ---

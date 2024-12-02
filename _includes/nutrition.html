@@ -42,6 +42,7 @@
         {% assign cal = "0" %}
 
         {% assign fat = "0.0g (0 %)" %}
+        {% assign totalFat = 0.0 %}
         {% assign sat = "0.0g (0 %)" %}
         {% assign trans = "0.0g (0 %)" %}
         {% assign poly = "0.0g (0 %)" %}
@@ -51,13 +52,19 @@
         {% assign sod = "0mg (0 %)" %}
 
         {% assign carb = "0.0g (0 %)" %}
-        {% assign fib = "0.0g (0 %)" %}
-        {% assign sug = "0.0g (0 %)" %}
+        {% assign totalCarb = 0.0 %}
+        {% assign netCarb = 0.0 %}
 
+        {% assign fib = "0.0g (0 %)" %}
+        {% assign totalFib = 0.0 %}
+        {% assign sugAlc = 0.0 %}
+        {% assign all = 0.0 %}
+
+        {% assign sug = "0.0g (0 %)" %}
         {% assign totalSugar = 0.0 %}
         {% assign addedSugar = 0.0 %}
         {% assign addedSugarPercentage = 0 %}
-        {% assign addedSugarStr = 0.0g (0 %) %}
+        {% assign addedSugarStr = "0.0g (0 %)"" %}
 
         {% assign prot = "0.0g (0 %)" %}
 
@@ -121,6 +128,7 @@
 
                 {% if pair[1] == "Fat" %}
                     {% assign fat = line1 %}
+                    {% assign totalFat = row.Amount | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Saturated fatty acids" %}
@@ -149,10 +157,12 @@
 
                 {% if pair[1] == "Carbohydrate" %}
                     {% assign carb = line1 %}
+                    {% assign totalCarb = row.Amount | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Fiber" %}
                     {% assign fib = line1 %}
+                    {% assign totalFib = row.Amount | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Sugars" %}
@@ -291,7 +301,7 @@
             {% endfor %}
         {% endfor %}
 
-        <!-- Calculate added sugar -->
+        <!-- Calculate added sugar, sugar alcohols, and allulose -->
         {% assign servings = 1 | times: 1 %}
         {% for row in loopVarIng %}
             {% if forloop.last %}
@@ -307,12 +317,22 @@
                 {% if row["Food"] == food %}
                     {% assign itemAddedSugar = row["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign addedSugar = addedSugar | plus: itemAddedSugar %}
+
+                    {% assign itemSugarAlcohol = row["Sug Alc per 100 g"] | times: mass | divided_by: 100 %}
+                    {% assign sugAlc = sugAlc | plus: itemSugarAlcohol %}
+
+                    {% assign itemAllulose = row["Allulose per 100 g"] | times: mass | divided_by: 100 %}
+                    {% assign all = all | plus: itemAllulose %}
+
                     {% break %}
                 {% endif %}
             {% endfor %}  
 
         {% endfor %}
+
         {% assign addedSugar = addedSugar | divided_by: servings %}
+        {% assign sugAlc = sugAlc | divided_by: servings %}
+        {% assign all = all | divided_by: servings %}
 
         <!-- Remove nutrients if I don't want them -->
 
@@ -353,7 +373,10 @@
             {% assign poly = "" %}
             {% assign mono = "" %}
             {% assign choles = "" %}
+            {% assign netCarb = "" %}
             {% assign addedSugar = "" %}
+            {% assign sugAlc = "" %}
+            {% assign all = "" %}
             {% assign vitA = "" %}
             {% assign vitB1 = "" %}
             {% assign vitB2 = "" %}
@@ -395,8 +418,11 @@
             {% assign choles = "" %}
             {% assign carb = "" %}
             {% assign fib = "" %}
+            {% assign netCarb = "" %}
             {% assign sug = "" %}
             {% assign addedSugar = "" %}
+            {% assign sugAlc = "" %}
+            {% assign all = "" %}
             {% assign vitA = "" %}
             {% assign vitB9 = "" %}
             {% assign vitC = "" %}
@@ -432,45 +458,75 @@
             <div class="macros">
 
                 ------------------------------------------<br>
+                <!-- Fats: total, sat, unsat, poly, cholesterol -->
                 {% if fat != "" %} 
                     <b>Total Fat</b>: {{ fat }}<br>
                 {% endif %}
-                {% if sat != "" %} 
-                    &emsp;<b>Saturated Fat</b>: {{ sat }}<br>
-                {% endif %}
-                {% if trans != "" %} 
-                    &emsp;<b>Trans Fat</b>: {{ trans }}<br>
-                {% endif %}
-                {% if poly != "" %} 
-                    &emsp;<b>Polyunsaturated Fat</b>: {{ poly }}<br>
-                {% endif %}
-                {% if mono != "" %} 
-                    &emsp;<b>Monounsaturated Fat</b>: {{ mono }}<br>
-                {% endif %}
-                {% if choles != "" %} 
-                    <b>Cholesterol</b>: {{ choles }}<br>
+
+                <!-- If total fat is 0, then hide sat, unsat, trans, & cholesterol -->
+                {% if totalFat != 0.0 %}
+                    {% if sat != "" %} 
+                        &emsp;<b>Saturated Fat</b>: {{ sat }}<br>
+                    {% endif %}
+                    {% if trans != "" %} 
+                        &emsp;<b>Trans Fat</b>: {{ trans }}<br>
+                    {% endif %}
+                    {% if poly != "" %} 
+                        &emsp;<b>Polyunsaturated Fat</b>: {{ poly }}<br>
+                    {% endif %}
+                    {% if mono != "" %} 
+                        &emsp;<b>Monounsaturated Fat</b>: {{ mono }}<br>
+                    {% endif %}
+                    {% if choles != "" %} 
+                        <b>Cholesterol</b>: {{ choles }}<br>
+                    {% endif %}
+
                 {% endif %}
 
                 {% if sod != "" %} 
                     <b>Sodium</b>: {{ sod }}<br>
                 {% endif %}
 
+                <!-- Carbs: total, fiber, net, sug, sugAlc, allulose -->
                 {% if carb != "" %} 
                     <b>Total Carbohydrate</b>: {{ carb }}<br>
                 {% endif %}
-                {% if fib != "" %} 
-                    &emsp;<b>Fiber</b>: {{ fib }}<br>
-                {% endif %}
-                {% if sug != "" %} 
-                    &emsp;<b>Total Sugar</b>: {{ sug }}<br>
-                {% endif %}
-                {% if addedSugar != "" %}
-                    {% if addedSugar > totalSugar %}
-                        {% assign addedSugar = totalSugar %}
+
+                <!-- If total carbs is 0, then hide fiber, net carbs, and sugar -->
+                {% if totalCarb != 0.0 %}
+                    {% if fib != "" %} 
+                        &emsp;<b>Fiber</b>: {{ fib }}<br>
                     {% endif %}
-                    {% assign addedSugarPercentage = addedSugar | divided_by: 50 | times: 100 | round: 0 %}
-                    {% assign addedSugarStr = addedSugar | round: 1 | append: 'g (' | append: addedSugarPercentage | append: '%)' %}
-                    &emsp;&emsp;<b>Added Sugar</b>: {{ addedSugarStr }}<br>
+
+                    <!-- Calc net carbs -->
+                    {% if netCarb != "" %}
+                        {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
+                        {% assign netCarbStr = netCarb | round: 1 | append: 'g' %}
+                        &emsp;<b>Net Carbs</b>: {{ netCarbStr }}<br>
+                    {% endif %}
+
+                    {% if sug != "" %} 
+                        &emsp;<b>Total Sugar</b>: {{ sug }}<br>
+                    {% endif %}
+
+                    <!-- Added sugar, sugar alcohols, and allulose -->
+                    {% if addedSugar != "" and totalSugar != 0.0 %}
+                        {% if addedSugar > totalSugar %}
+                            {% assign addedSugar = totalSugar %}
+                        {% endif %}
+                        {% assign addedSugarPercentage = addedSugar | divided_by: 50 | times: 100 | round: 0 %}
+                        {% assign addedSugarStr = addedSugar | round: 1 | append: 'g (' | append: addedSugarPercentage | append: '%)' %}
+                        &emsp;&emsp;<b>Added Sugar</b>: {{ addedSugarStr }}<br>
+                    {% endif %}
+                    {% if sugAlc != "" and sugAlc != 0.0 %}
+                        {% assign sugAlcStr = sugAlc | round: 1 | append: 'g' %}
+                        &emsp;<b>Sugar Alcohol</b>: {{ sugAlcStr }}<br>
+                    {% endif %}
+                    {% if all != "" and all != 0.0 %}
+                        {% assign allStr = all | round: 1 | append: 'g' %}
+                        &emsp;<b>Allulose</b>: {{ allStr }}<br>
+                    {% endif %}
+
                 {% endif %}
 
                 {% if prot != "" %} 

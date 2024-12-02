@@ -39,15 +39,15 @@ tags:
 - savory oats
 Description: I have this saved under meme recipes because of the oats, but it's actually really good. The "Bolognese" is more of a meat and carrot stew, and it's served alongside a "risOATto" with quick oats, seasoned with Parmesan cheese. My brother generated this recipe as a joke with ChatGPT, and I wanted to test it out and turn it into an actual dish.
 Instructions: 
-- Cut the carrots and onion into a large dice and add to a dutch oven with olive oil. Just cover with water and bring to a boil. Boil until all liquid has been cooked off. Set vegetables aside.<br><br>
+- Cut the carrots and onion into a large dice and add to a dutch oven with olive oil. Just cover with water and bring to a boil. Boil until all liquid has been cooked off. Set vegetables aside
 
-- Over medium heat, spray pot with olive oil and cook garlic for about a minute. Add in the meat and mash with a wooden spoon to break up clumps. Cook until browned<br><br>
+- Over medium heat, spray pot with olive oil and cook garlic for about a minute. Add in the meat and mash with a wooden spoon to break up clumps. Cook until browned
 
-- Stir in the diced tomatoes, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and pepper to taste. Add the vegetables back in, and add the vinegar<br><br>
+- Stir in the diced tomatoes, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and pepper to taste. Add the vegetables back in, and add the vinegar
 
-- Reduce heat to low and let simmer for 30 minutes, stirring occasionally. Stir in balsamic<br><br>
+- Reduce heat to low and let simmer for 30 minutes, stirring occasionally. Stir in balsamic
 
-- Meanwhile, in a separate saucepan, bring water, oats and salt to a boil. Reduce to medium low and cook until tender. Mix in some grated cheese at the end (risOATto style)<br><br>
+- Meanwhile, in a separate saucepan, bring water, oats and salt to a boil. Reduce to medium low and cook until tender. Mix in some grated cheese at the end (risOATto style)
 
 - Serve the oatmeal in bowls, and top with the bolognese
 ---

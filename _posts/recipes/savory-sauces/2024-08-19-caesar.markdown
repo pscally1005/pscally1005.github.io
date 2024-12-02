@@ -37,10 +37,10 @@ tags:
 - croutons
 Description: 1 serving of a standard bottle of <a href="https://www.walmart.com/ip/Great-Value-Creamy-Caesar-Salad-Dressing-Dip-16-fl-oz/10452406?classType=REGULAR&athbdg=L1200&from=/search">Caesar dressing</a> contains 120 calories, 12 g of fat, no protein, mayo made from soybean oil, and a paragraph of ingredients. This healthy version on the other hand has less than half the calories, a third of the fat, and quadruple the protein. Plus, it only contains simple ingredients, and is made in just 5 minutes.  No raw eggs either! Each serving is about 2 tbsp, or 30 g
 Instructions: 
-- Using a small fine mesh strainer, thoroughly drain and rinse your anchovies<br><br>
-- <center><img src="/assets/Food/Savory Sauces/Caesar/caesar-anchovies.jpg" alt="" class="instruction-image"></center><br><br>
+- Using a small fine mesh strainer, thoroughly drain and rinse your anchovies
+- <center><img src="/assets/Food/Savory Sauces/Caesar/caesar-anchovies.jpg" alt="" class="instruction-image"></center>
 
-- Add the anchovies to a small food processor along with the rest of the ingredients. Blend until smooth. Store in the fridge<br><br>
+- Add the anchovies to a small food processor along with the rest of the ingredients. Blend until smooth. Store in the fridge
 
 - The cover photo for this recipe is a Caesar salad I made by tossing together half a large head of Romaine lettuce, 1 serving (2 tbsp, 30 g) of this dressing, 1 serving of my <a href="/recipes/white-bean-croutons">White Bean Croutons</a>, and 1/2 oz (15 g) crumbled feta cheese
 ---

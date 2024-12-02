@@ -38,11 +38,11 @@ tags:
 - seafood
 Description: Clam sauce always makes me think of Fridays and Christmas time, and this recipe is the perfect way to satisfy these memories in a healthy way. It has some healthy fats in extra virgin olive oil, but isn't a total calorie bomb like most recipes. This goes great over some pasta or spaghetti squash, so check out my <a href="spaghetti-squash">Spaghetti Squash Cooked 3 Ways</a> to learn how to make this simple vegetable
 Instructions: 
-- In a medium saucepot, saute oil and garlic over medium heat for a few minutes, until fragrant<br><br>
+- In a medium saucepot, saute oil and garlic over medium heat for a few minutes, until fragrant
 
-- For clams, I use 3 6.5oz cans of minced clams, and I don't drain or rinse the can.  Just add the whole can as is<br><br>
+- For clams, I use 3 6.5oz cans of minced clams, and I don't drain or rinse the can.  Just add the whole can as is
 
-- Add the rest of the ingredients and simmer on medium low for about half an hour, covered. Stir occasionally<br><br>
+- Add the rest of the ingredients and simmer on medium low for about half an hour, covered. Stir occasionally
 
 - Serve with pasta (1 lb) or spagetti squash (whole squash)
 ---

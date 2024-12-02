@@ -42,44 +42,44 @@ tags:
 - sauerkraut
 Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 lunch servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including avocado, salmon, quinoa, and beets. It's delicious, filling, customizable, tasty, while also being high in protein, healthy fats, fiber, and complex carbs
 Instructions: 
-- <center></center><b>Roasted Veggies</b><br><br>
-- Wash your beet, wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until soft (timing depends on the size of your beets).  Unwrap the beet, discard the ends, and cut into a medium dice (keep the skin on!!)<br><br>
-- <center><img src="/assets/Food/Fish/Superfood/superfood-beets.jpg" alt="" class="instruction-image"></center><br><br>
+- <center></center><b>Roasted Veggies</b>
+- Wash your beet, wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until soft (timing depends on the size of your beets).  Unwrap the beet, discard the ends, and cut into a medium dice (keep the skin on!!)
+- <center><img src="/assets/Food/Fish/Superfood/superfood-beets.jpg" alt="" class="instruction-image"></center>
 
-- Meanwhile, cut your pepper into large pieces, season with oil, salt, and pepper, and air fry for 10 minutes (have the beet and pepper finish at the same time).  Cut into a medium dice<br><br>
-- <center><img src="/assets/Food/Fish/Superfood/superfood-peppers.jpg" alt="" class="instruction-image"></center><br>
+- Meanwhile, cut your pepper into large pieces, season with oil, salt, and pepper, and air fry for 10 minutes (have the beet and pepper finish at the same time).  Cut into a medium dice
+- <center><img src="/assets/Food/Fish/Superfood/superfood-peppers.jpg" alt="" class="instruction-image"></center>
 
-- <center></center><b>Quinoa</b><br><br>
-- Add quinoa, water, and salt to a small pot. Bring to a boil, cover, reduce to medium, and let simmer for about 12 minutes, until fully cooked. Set aside<br><br>
-- <center><img src="/assets/Food/Fish/Superfood/superfood-quinoa.jpg" alt="" class="instruction-image"></center><br>
+- <center></center><b>Quinoa</b>
+- Add quinoa, water, and salt to a small pot. Bring to a boil, cover, reduce to medium, and let simmer for about 12 minutes, until fully cooked. Set aside
+- <center><img src="/assets/Food/Fish/Superfood/superfood-quinoa.jpg" alt="" class="instruction-image"></center>
 
-- <center></center><b>Kale</b><br><br>
-- Heat a large pan over medium heat with olive oil. Cover and cook your kale with spices (chili, garlic, onion, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)<br><br>
-- <center><img src="/assets/Food/Fish/Superfood/superfood-kale.jpg" alt="" class="instruction-image"></center><br>
+- <center></center><b>Kale</b>
+- Heat a large pan over medium heat with olive oil. Cover and cook your kale with spices (chili, garlic, onion, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
+- <center><img src="/assets/Food/Fish/Superfood/superfood-kale.jpg" alt="" class="instruction-image"></center>
 
-- <center></center><b>Pumpkin seeds</b><br><br>
-- Toast your pumpkin seeds in a small pan over medium heat until fragrant (3-5 minutes). Set aside<br><br>
+- <center></center><b>Pumpkin seeds</b>
+- Toast your pumpkin seeds in a small pan over medium heat until fragrant (3-5 minutes). Set aside
 
-- <center></center><b>Assemble</b><br><br>
-- Prepare your 2 bowls with a base of half your kale, and add half the quinoa on top to each bowl.  Top each with half of your diced beets and peppers<br><br>
+- <center></center><b>Assemble</b>
+- Prepare your 2 bowls with a base of half your kale, and add half the quinoa on top to each bowl.  Top each with half of your diced beets and peppers
 
-- Add 1/2 sliced avocado to each bowl. Cut your kiwi into a small dice (with the skin!!), and add half to each bowl.  Add half your pumpkin seeds to each bowl<br><br>
+- Add 1/2 sliced avocado to each bowl. Cut your kiwi into a small dice (with the skin!!), and add half to each bowl.  Add half your pumpkin seeds to each bowl
 
-- Add any protein source you have (I'm going with canned salmon here)<br><br>
+- Add any protein source you have (I'm going with canned salmon here)
 
-- Top each bowl with half of your sauerkraut and half of your mustard.  Mix, and serve warm<br><br>
-- <center><img src="/assets/Food/Fish/Superfood/superfood-mixed.jpg" alt="" class="instruction-image"></center><br>
+- Top each bowl with half of your sauerkraut and half of your mustard.  Mix, and serve warm
+- <center><img src="/assets/Food/Fish/Superfood/superfood-mixed.jpg" alt="" class="instruction-image"></center>
 
-- <center></center><b>Summary</b><br><br>
+- <center></center><b>Summary</b>
 - <center></center>&emsp;These bowls are super customizable.  Below is a simple formula you can follow to make your perfect superfood bowl.  I've bolded the options I've used here, but mix and match with whatever you like:<br>
-- <center></center><br><i>Leafy Greens (raw or cooked)</i><ul>
+- <center></center><i>Leafy Greens (raw or cooked)</i><ul>
     <li>Arugula</li>
     <li>Collard greens</li>
     <li><b>Kale</b></li>
     <li>Romaine lettuce</li>
     <li>Spinach</li>
     <li>Swiss chard</li></ul>
-- <center></center><br><i>Carbs</i><ul>
+- <center></center><i>Carbs</i><ul>
     <li>Beans</li>
     <li>Brown rice</li>
     <li>Butternut squash</li>
@@ -88,7 +88,7 @@ Instructions:
     <li><b>Quinoa</b></li>
     <li>Lentils</li>
     <li>Sweet potato</li></ul>
-- <center></center><br><i>Fat</i><ul>
+- <center></center><i>Fat</i><ul>
     <li>Almonds</li>
     <li><b>Avocado</b></li>
     <li>Chia seeds</li>
@@ -98,14 +98,14 @@ Instructions:
     <li><b>Pumpkin seeds</b></li>
     <li>Sunflower seeds</li>
     <li>Walnuts</li></ul>
-- <center></center><br><i>Raw Veggies</i><ul>
+- <center></center><i>Raw Veggies</i><ul>
     <li>Bell pepper</li>
     <li>Carrot</li>
     <li>Cucumber</li>
     <li>Onion</li>
     <li>Radish</li>
     <li>Tomato</li></ul>
-- <center></center><br><i>Cooked Veggies</i><ul>
+- <center></center><i>Cooked Veggies</i><ul>
     <li>Artichoke</li>
     <li><b>Beets</b></li>
     <li><b>Bell pepper</b></li>
@@ -116,7 +116,7 @@ Instructions:
     <li>Mushroom</li>
     <li>Yellow squash</li>
     <li>Zucchini</li></ul>
-- <center></center><br><i>Fruit</i><ul>
+- <center></center><i>Fruit</i><ul>
     <li>Apple</li>
     <li>Blackberries</li>
     <li>Blueberries</li>
@@ -126,7 +126,7 @@ Instructions:
     <li>Pomegranate seeds</li>
     <li>Strawberries</li>
     <li>Watermelon</li></ul>
-- <center></center><br><i>Protein</i><ul>
+- <center></center><i>Protein</i><ul>
     <li>Chicken breast</li>
     <li>Chicken thighs</li>
     <li>Hard boiled eggs</li>
@@ -140,7 +140,7 @@ Instructions:
     <li>Tilapia (fresh)</li>
     <li>Tuna (canned)</li>
     <li>Turkey breast</li></ul>
-- <center></center><br><i>Dressing/Toppings</i><ul>
+- <center></center><i>Dressing/Toppings</i><ul>
     <li>Apple cider vinegar</li>
     <li>Balsamic vinegar (not vinaigrette)</li>
     <li>Extra virgin olive oil</li>

@@ -44,16 +44,16 @@ tags:
 - nutritional yeast
 Description: Delicious pesto for a fraction of the calories!  Yes it's possible; this pesto is oil free, but still made with pine nuts, basil, garlic, and grated cheese.  It's a great sauce, spread, or salad dressing, and full of the same nutty, cheese, and lemon flavor that you love.  Each serving is about 2 tbsp or 29 g<br>&emsp;Check out some of my other pesto recipes, with varying amounts of oil, different kinds of nuts, vegan versions, and high protein versions:<br>- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>- <a href="/recipes/avocado-pesto">Avocado Pesto - Vegan and Oil Free</a><br>- <a href="/recipes/evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a><br>- <a href="/recipes/creamy-pesto">Creamy Pesto Dip</a>
 Instructions: 
-- In a small pan over medium heat, toast your nuts until fragrant and lightly browned<br><br>
+- In a small pan over medium heat, toast your nuts until fragrant and lightly browned
 
-- Add all ingredients (except lemon juice) to a food processor, and blend until chopped and combined. Slowly add the lemon, and blend until creamy<br><br>
+- Add all ingredients (except lemon juice) to a food processor, and blend until chopped and combined. Slowly add the lemon, and blend until creamy
 
-- Store in the fridge, or you can freeze any extra (pesto freezes well)<br><br>
-- <center><img src="/assets/Food/Savory Sauces/Basil Pesto/basil-pesto.jpg" alt="" class="instruction-image"></center><br>
+- Store in the fridge, or you can freeze any extra (pesto freezes well)
+- <center><img src="/assets/Food/Savory Sauces/Basil Pesto/basil-pesto.jpg" alt="" class="instruction-image"></center>
 
-- If basil is too expensive, either fresh or frozen spinach will work as well!<br><br>
+- If basil is too expensive, either fresh or frozen spinach will work as well!
 
-- To make it nut free, replace the nuts (either pine nuts or walnuts) with seeds, like pumpkin seeds or sunflower seeds<br><br>
+- To make it nut free, replace the nuts (either pine nuts or walnuts) with seeds, like pumpkin seeds or sunflower seeds
 
 - For a vegan version, use nutritional yeast in place of grated cheese
 ---

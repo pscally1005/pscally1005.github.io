@@ -39,23 +39,23 @@ tags:
 - gluten free
 Description: These healthy chocolate chip cookies use date paste and almond flour as a base, and avoids using sugar, butter, and white flour. If you're anything like me and find most desserts way too sweet, you'll find that you enjoy these cookies much more than any traditional chocolate chip cookie.  Gluten free, refined sugar free, only sweetened with natural dates (raisins will work as well), and the only fat is delicious almond flour.  Or see my <a href="date-brownie">Almond Date Brownies</a> or <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a> for a similar gluten free desserts using dates and nuts.
 Instructions: 
-- Preheat oven to 350F and line a large cookie sheet with parchment paper<br><br>
+- Preheat oven to 350F and line a large cookie sheet with parchment paper
 
-- Blend the dates in a food processor. Blend in nut flour too. You can also use whole nuts (any nuts will do) instead of nut flour too.  I used whole almonds, so I technically used almond meal instead of almond flour. Blend until you have a crumbly looking dough, but slightly sticky<br><br>
+- Blend the dates in a food processor. Blend in nut flour too. You can also use whole nuts (any nuts will do) instead of nut flour too.  I used whole almonds, so I technically used almond meal instead of almond flour. Blend until you have a crumbly looking dough, but slightly sticky
 
-- Add the rest of the ingredients (except for the chocolate chips) and blend to combine<br><br>
+- Add the rest of the ingredients (except for the chocolate chips) and blend to combine
 
-- Fold in chocolate chips. Let the batter chill in the fridge for an hour to make it easier to work with<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Date Cookie/date-cookie-4.jpg" alt="" class="instruction-image"></center><br>
+- Fold in chocolate chips. Let the batter chill in the fridge for an hour to make it easier to work with
+- <center><img src="/assets/Food/Healthier Dessert/Date Cookie/date-cookie-4.jpg" alt="" class="instruction-image"></center>
 
-- Scoop and roll into balls. Place on the cookie sheet. Lightly press down, and shape into a circle. Wetting your hands a little helps the dough from sticking everywhere<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Date Cookie/date-cookie-5.jpg" alt="" class="instruction-image"></center><br>
+- Scoop and roll into balls. Place on the cookie sheet. Lightly press down, and shape into a circle. Wetting your hands a little helps the dough from sticking everywhere
+- <center><img src="/assets/Food/Healthier Dessert/Date Cookie/date-cookie-5.jpg" alt="" class="instruction-image"></center>
 
-- Bake at 350F for about 8 minutes. The cookies should just turn golden but still be soft in the middle. They will puff up a little but not really expand outward.  Let cool on the sheet for a few minutes, then transfer to a wire rack<br><br>
+- Bake at 350F for about 8 minutes. The cookies should just turn golden but still be soft in the middle. They will puff up a little but not really expand outward.  Let cool on the sheet for a few minutes, then transfer to a wire rack
 
-- Try making an ice cream sandwich with some banana ice cream<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Date Cookie/date-cookie-7.jpg" alt="" class="instruction-image"></center><br>
+- Try making an ice cream sandwich with some banana ice cream
+- <center><img src="/assets/Food/Healthier Dessert/Date Cookie/date-cookie-7.jpg" alt="" class="instruction-image"></center>
 
-- Or leave out the baking soda and enjoy as edible cookie dough bites<br><br>
+- Or leave out the baking soda and enjoy as edible cookie dough bites
 - <center><img src="/assets/Food/Healthier Dessert/Date Cookie/cookie-dough.jpg" alt="" class="instruction-image"></center>
 ---

@@ -33,14 +33,14 @@ tags:
 - bake
 Description: This Peanut Butter Bread is inspired by the 1932 Great Depression Peanut Butter Bread. It's full of peanut butter flavor, without being too sweet. It's perfect for breakfast, and goes well with some yogurt, peanut butter, or jam on top of it. I cut down the sugar and replaced it with honey, as well as swapped to whole wheat flour. I'm sure you'll enjoy this healthier quick bread.
 Instructions: 
-- In a large bowl, combine together the flour, salt, and baking powder with a whisk<br><br>
+- In a large bowl, combine together the flour, salt, and baking powder with a whisk
 
-- Add in the peanut butter and honey, and combine with your fingers. It should have the consistency of wet sand<br><br>
+- Add in the peanut butter and honey, and combine with your fingers. It should have the consistency of wet sand
 
-- Finally, using a spatula, mix in the milk<br><br>
-- <center><img src="/assets/Food/Breakfast/PB Bread/pb-bread-3.jpg" alt="" class="instruction-image"></center><br>
+- Finally, using a spatula, mix in the milk
+- <center><img src="/assets/Food/Breakfast/PB Bread/pb-bread-3.jpg" alt="" class="instruction-image"></center>
 
-- Add to a greased loaf pan, and score down the center with a butter knife or your spatula<br><br>
+- Add to a greased loaf pan, and score down the center with a butter knife or your spatula
 
 - Bake at 325F for about an hour. A toothpick should come out clean. Allow to cool before turning onto a cooling rack.  Only slice when fully cooled
 ---

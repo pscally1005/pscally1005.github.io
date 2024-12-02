@@ -38,18 +38,18 @@ tags:
 - sugar free
 Description: This is the best gluten free bread I've ever had. As someone who isn't gluten free and still occasionally eats wheat bread (check out my <a href="/recipes/ww-bread">100% Whole Wheat Bread</a>), this is the closest gluten free bread has ever coming to matching the real deal. The taste and texture are remarkably similar, and I think this bread can stand by itself not just as a great gluten free bread, but as a great bread overall.  This bread is best served warm
 Instructions: 
-- Preheat your oven to 325F, and lightly oil a 9x5" bread pan<br><br>
+- Preheat your oven to 325F, and lightly oil a 9x5" bread pan
 
-- In a large bowl, combine the water, vinegar, and psyllium husks. Let sit for 5 minutes.  The psyllium husk needs a few minutes to gel; it should be a similar consistency as applesauce<br><br>
+- In a large bowl, combine the water, vinegar, and psyllium husks. Let sit for 5 minutes.  The psyllium husk needs a few minutes to gel; it should be a similar consistency as applesauce
 
-- Meanwhile, in a separate large bowl, whisk together the rest of the ingredients - millet flour, baking powder, baking soda, ground flaxseed, and salt<br><br>
-- <center><img src="/assets/Food/Bread/Millet Bread/millet-bread-bowls.jpg" alt="" class="instruction-image"></center><br>
+- Meanwhile, in a separate large bowl, whisk together the rest of the ingredients - millet flour, baking powder, baking soda, ground flaxseed, and salt
+- <center><img src="/assets/Food/Bread/Millet Bread/millet-bread-bowls.jpg" alt="" class="instruction-image"></center>
 
-- Add the wet ingredients into the dry, and mix with a spoon until fully combined. Transfer the dough to your pan. Optionally top with oats, seeds, chopped nuts, dusted flour, etc, or you can score the top with a knife or bread lame. Here, I topped with about 1 tbsp (12 g) chia seeds<br><br>
+- Add the wet ingredients into the dry, and mix with a spoon until fully combined. Transfer the dough to your pan. Optionally top with oats, seeds, chopped nuts, dusted flour, etc, or you can score the top with a knife or bread lame. Here, I topped with about 1 tbsp (12 g) chia seeds
 
-- Bake at 325F for about 90 minutes, or until the internal temperature is at least 205F<br><br>
-- <center><img src="/assets/Food/Bread/Millet Bread/millet-bread-cooked.jpg" alt="" class="instruction-image"></center><br>
+- Bake at 325F for about 90 minutes, or until the internal temperature is at least 205F
+- <center><img src="/assets/Food/Bread/Millet Bread/millet-bread-cooked.jpg" alt="" class="instruction-image"></center>
 
-- Let cool completely in the fridge on a cooling rack for a few hours before slicing<br><br>
+- Let cool completely in the fridge on a cooling rack for a few hours before slicing
 - <center><img src="/assets/Food/Bread/Millet Bread/millet-bread-sliced.jpg" alt="" class="instruction-image"></center>
 ---

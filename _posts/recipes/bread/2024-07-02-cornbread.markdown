@@ -48,18 +48,18 @@ tags:
 - cornbread
 Description: This <a href="/misc/fake-healthy-foods#cornbread">cornbread</a> is not only gluten free, but also super high in protein for a side. It's a great protein/carb side to your dinner, especially with chili. It's a savory cornbread with diced chilies, grated cheese, and garlic powder, and tastes delicious on its own.  Or you can pair this cornbread with either <a href="/recipes/chili">Slow Cooker Chili</a> or <a href="/recipes/baked-beans">No Added Sugar Baked Beans</a> for a delicious meal
 Instructions: 
-- Preheat your oven to 400F, and line an 8" square baking pan with parchment paper. Lightly spray the paper<br><br>
+- Preheat your oven to 400F, and line an 8" square baking pan with parchment paper. Lightly spray the paper
 
-- In a large bowl, whisk together the dry ingredients until fully combined - cornmeal, whey, casein, baking powder, baking soda, garlic powder, onion powder, black pepper, and salt<br><br>
+- In a large bowl, whisk together the dry ingredients until fully combined - cornmeal, whey, casein, baking powder, baking soda, garlic powder, onion powder, black pepper, and salt
 
-- In a separate bowl, whisk together the wet ingredients - cottage cheese, applesauce, water, lemon juice, egg, chiles, and cheese<br><br>
+- In a separate bowl, whisk together the wet ingredients - cottage cheese, applesauce, water, lemon juice, egg, chiles, and cheese
 
-- Combine the dry ingredients into the wet, and whisk until just fully combined. Don't over mix, and don't wait too long before baking. The acid (lemon juice) and base (baking soda) gives lift to the bread, but the reaction happens quickly, so you want to get it in the oven as fast as possible<br><br>
-- <center><img src="/assets/Food/Bread/Cornbread/cornbread-4.jpg" alt="" class="instruction-image"></center><br>
+- Combine the dry ingredients into the wet, and whisk until just fully combined. Don't over mix, and don't wait too long before baking. The acid (lemon juice) and base (baking soda) gives lift to the bread, but the reaction happens quickly, so you want to get it in the oven as fast as possible
+- <center><img src="/assets/Food/Bread/Cornbread/cornbread-4.jpg" alt="" class="instruction-image"></center>
 
-- Pour the batter into your baking pan, and optionally top with some shredded cheese.  Bake at 400F for about 25 minutes, or until a toothpick comes out mostly clean and the internal temperature is around 195F<br><br>
+- Pour the batter into your baking pan, and optionally top with some shredded cheese.  Bake at 400F for about 25 minutes, or until a toothpick comes out mostly clean and the internal temperature is around 195F
 
-- Let cool in the pan for 5 minutes before transferring to a wire rack to cool. Slice<br><br>
+- Let cool in the pan for 5 minutes before transferring to a wire rack to cool. Slice
 
 - To make a sweet version instead, omit the garlic powder, onion powder, black pepper, chiles, and cheese. Add 2 tbsp (42 g) honey, and 2 tsp (5 g) cinnamon
 ---

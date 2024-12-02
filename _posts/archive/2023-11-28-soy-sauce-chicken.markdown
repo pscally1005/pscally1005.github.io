@@ -36,12 +36,12 @@ tags:
 - marinade
 Description: This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the chicken and sprouts, that way it's easier to put together come dinner time. This pairs well with a side of brown rice cooked in the same seasonings listed below.
 Instructions: 
-- Slice your chicken into evenly sliced thin cutlets, and add to a large bowl. Mix with the seasonings (soy sauce, gochujang, lemon, pepper, paprika, chili powder, and onion powder), and let marinade in the fridge for at least an hour<br><br>
+- Slice your chicken into evenly sliced thin cutlets, and add to a large bowl. Mix with the seasonings (soy sauce, gochujang, lemon, pepper, paprika, chili powder, and onion powder), and let marinade in the fridge for at least an hour
 
-- Meanwhile, prepare the brussel sprouts. Add them to a large bowl and mix with the seasonings (soy sauce, sesame oil, lemon juice, pepper, paprika, chili powder, and garlic powder). Marinate this in the fridge as well<br><br>
+- Meanwhile, prepare the brussel sprouts. Add them to a large bowl and mix with the seasonings (soy sauce, sesame oil, lemon juice, pepper, paprika, chili powder, and garlic powder). Marinate this in the fridge as well
 
-- When you're ready to cook, heat your oven to 400F and line 3 cookie sheets with parchment paper. Add the sprouts to one sheet, and the chicken to the other 2 (you might be able to squeeze all the chicken on to one sheet)<br><br>
+- When you're ready to cook, heat your oven to 400F and line 3 cookie sheets with parchment paper. Add the sprouts to one sheet, and the chicken to the other 2 (you might be able to squeeze all the chicken on to one sheet)
 
-- Roast the Brussel sprouts for 30 minutes. With 12 minutes left add the chicken to the oven. They should be done at the same time<br><br>
+- Roast the Brussel sprouts for 30 minutes. With 12 minutes left add the chicken to the oven. They should be done at the same time
 - <center><img src="/assets/Food/Chicken/Soy Sauce/soy-sauce-4.jpg" alt="" class="instruction-image"></center>
 ---

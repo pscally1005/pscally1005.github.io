@@ -40,7 +40,7 @@ tags:
 - protein
 Description: This salad contains a base of lettuce and tomatoes, and is topped with hard boiled eggs, kimchi, and a peanut chili dressing. It's a delicious and quick lunch that's healthy and full of flavor
 Instructions: 
-- In a small glass, mix together the dressing - PB2, gochujang, soy sauce, vineger, and ground ginger. Thin out with water<br><br>
+- In a small glass, mix together the dressing - PB2, gochujang, soy sauce, vineger, and ground ginger. Thin out with water
 
 - Pour over the salad, and serve. My salad here has lettuce, tomatoes, kimchi, hard boiled eggs, and olives
 ---

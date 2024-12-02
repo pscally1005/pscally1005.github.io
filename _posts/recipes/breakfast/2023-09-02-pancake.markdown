@@ -40,16 +40,16 @@ tags:
 - waffle
 Description: Unlike regular <a href="/misc/fake-healthy-foods#pancakes">pancakes</a>, these will serve to keep you fully all the way until lunch. With protein of the whey and fiber of the oats, plus the addition of pumpkin puree, this serves as a perfect fall recipe. These also work as waffles as well, but I prefer the pancakes.  For a very similar pancake recipe with banana instead, check out my <a href="/recipes/banana-protein-pancakes">Banana Protein Pancakes</a>.  Or, for more pumpkin recipes, see my <a href="pumpkin-bread">Protein Pumpkin Loaf</a>, <a href="pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a>, or <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>
 Instructions: 
-- In a medium bowl, whisk together all the ingredients. Let batter rest for 5-10 minutes<br><br>
-- <center><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-batter.jpg" alt="" class="instruction-image"></center><br>
+- In a medium bowl, whisk together all the ingredients. Let batter rest for 5-10 minutes
+- <center><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-batter.jpg" alt="" class="instruction-image"></center>
 
-- Instead of liquid stevia/monk fruit, you can also use 1/2 tbsp (10 g) honey/maple syrup or 1 tbsp (15 g) mini chocolate chips<br><br>
+- Instead of liquid stevia/monk fruit, you can also use 1/2 tbsp (10 g) honey/maple syrup or 1 tbsp (15 g) mini chocolate chips
 
-- Meanwhile, preheat a large nonstick pan over medium heat with a spray of oil. The pan should sound like it's sizzling lightly when the batter is spooned in<br><br>
+- Meanwhile, preheat a large nonstick pan over medium heat with a spray of oil. The pan should sound like it's sizzling lightly when the batter is spooned in
 
-- Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a wire rack or plate, and repeat. This recipe should make about 6 small pancakes<br><br>
-- <center><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-pan.jpg" alt="" class="instruction-image"></center><br>
+- Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a wire rack or plate, and repeat. This recipe should make about 6 small pancakes
+- <center><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-pan.jpg" alt="" class="instruction-image"></center>
 
-- Also works as waffles. Cook on medium heat or so for 2-3 minutes<br><br>
-- <center><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-waffle.jpg" alt="" class="instruction-image"></center><br>
+- Also works as waffles. Cook on medium heat or so for 2-3 minutes
+- <center><img src="/assets/Food/Breakfast/Pumpkin Pancake/pancake-waffle.jpg" alt="" class="instruction-image"></center>
 ---

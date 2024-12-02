@@ -138,3 +138,47 @@ layout: base
     }
   });
 </script>
+
+<style>
+  /* Print styling for posts */
+  @media print {
+      /* General adjustments for print */
+      body {
+          margin: 0;
+          padding: 0;
+          font-size: 10pt; /* Adjust font size for better fit */
+      }
+
+      .home {
+          padding: 1rem; /* Add padding for print layout */
+      }
+
+      .post-list {
+          list-style-type: none; /* Remove list styling */
+          padding: 0;
+      }
+
+      /* Set posts in a grid for print */
+      #home-posts-container {
+          display: grid;
+          grid-template-columns: repeat(3, 1fr); /* Three posts per row */
+          gap: 1rem; /* Adjust spacing between posts */
+      }
+
+      .post-item {
+          page-break-inside: avoid; /* Avoid breaking inside individual posts */
+          border: 1px solid #ddd; /* Optional: add border to visually separate posts */
+          padding: 0.5rem;
+      }
+
+      .blog-roll-image {
+          max-width: 100%; /* Ensure images fit within their containers */
+          height: auto; /* Maintain aspect ratio */
+      }
+
+      .post-meta,
+      .post-title {
+          font-size: 9pt; /* Reduce font size slightly for print */
+      }
+  }
+</style>

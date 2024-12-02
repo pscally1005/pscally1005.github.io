@@ -36,17 +36,17 @@ tags:
 - psyllium husks
 Description: Most gluten free crackers are still no healthier than standard crackers. In fact, they can be worse for you, having more oil and sugar with a lower fiber content. Not these crackers; they're gluten free, vegan, sugar free, oil free, nut free, and grain free. The base is made up of flaxseeds and chia seeds, 2 great healthy fats that are both rich in the Omega-3 fatty acid ALA, as well as being good sources of both fiber and protein. These crackers not only taste great and are nice and crispy, but they also won't spike your blood sugar.  This recipe is an adapted version of "Herbed Flax Crackers" from the book Good Energy, and pair perfectly with <a href="/recipes/classic-tahini-hummus">Classic Tahini Hummus</a>
 Instructions: 
-- Preheat your oven to 325F, and line 2 large cookie sheets with parchment paper<br><br>
+- Preheat your oven to 325F, and line 2 large cookie sheets with parchment paper
 
-- In a large bowl, whisk together the dry ingredients. Add water, and stir until fully combined and you have a cracker dough<br><br>
-- <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-bowl.jpg" alt="" class="instruction-image"></center><br>
+- In a large bowl, whisk together the dry ingredients. Add water, and stir until fully combined and you have a cracker dough
+- <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-bowl.jpg" alt="" class="instruction-image"></center>
 
-- Divide the dough in half, and roll out to 1/8" thick between 2 sheets of parchment paper.  Cut with a pizza wheel or knife<br><br>
-- <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-cut.jpg" alt="" class="instruction-image"></center><br>
+- Divide the dough in half, and roll out to 1/8" thick between 2 sheets of parchment paper.  Cut with a pizza wheel or knife
+- <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-cut.jpg" alt="" class="instruction-image"></center>
 
-- Bake at 325F for 60 minutes, or until crispy and golden brown. Transfer to a wire rack to cool<br><br>
-- <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-baked.jpg" alt="" class="half-page"><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-cooled.jpg" alt="" class="half-page"></center><br>
+- Bake at 325F for 60 minutes, or until crispy and golden brown. Transfer to a wire rack to cool
+- <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-baked.jpg" alt="" class="half-page"><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-cooled.jpg" alt="" class="half-page"></center>
 
-- I ended up with about 8 oz (226 g) of crackers.  For a 1 oz (28 g) serving, that's about 8 servings total.  Store leftovers in an airtight container in the fridge<br><br>
+- I ended up with about 8 oz (226 g) of crackers.  For a 1 oz (28 g) serving, that's about 8 servings total.  Store leftovers in an airtight container in the fridge
 - <center><img src="/assets/Food/Finger Food/Flax Crackers/flax-crackers-stored.jpg" alt="" class="instruction-image"></center>
 ---

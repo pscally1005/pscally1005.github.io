@@ -34,9 +34,9 @@ tags:
 - vic
 Description: Sweet potato fries are a perfect quick side to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular fries. Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href="chicken-nuggets">Freezer Chicken Nuggets</a> for a nutritious version of this meal
 Instructions: 
-- Wash your sweet potato, and cut into a fry shape. Add to a bowl, and microwave on high (covered) for 3 minutes<br><br>
+- Wash your sweet potato, and cut into a fry shape. Add to a bowl, and microwave on high (covered) for 3 minutes
 
-- Toss the potato with the oil and the spices<br><br>
+- Toss the potato with the oil and the spices
 
 - Lightly spray the basket with oil, and arrange the fries in a single layer, giving room for the air to circulate. You may need to fry them in 2 batches.  Air fry for about 6 minutes at 400F, or until done to your liking
 ---

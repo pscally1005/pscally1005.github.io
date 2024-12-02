@@ -44,13 +44,13 @@ tags:
 - cinnamon
 Description: <a href="/misc/fake-healthy-foods#granola">Granola bars</a> that are actually a good breakfast? Sign me up. These bars are sweetened with bananas and some liquid sweetener (I've gone with sugar free syrup, but either maple syrup or honey will work as well). They're double peanut in the form of chopped peanuts and natural peanut butter, providing plenty of healthy fats and a bit of protein. Finally, they have a base of rolled (or quick) oats, and are seasoned with cinnamon, vanilla, and salt. These delicious bars are super easy and can be packed for meals or snacks on the go.  If you prefer granola to granola bars, you should make my <a href="/recipes/granola">Low Sugar Granola</a>
 Instructions: 
-- Optional, but highly recommended - toast your oats and roughly chopped nuts in a dry pan over medium heat for about 5 minutes, or until lightly browned and fragrant. This step brings out even more flavor from the nuts and the oats<br><br>
+- Optional, but highly recommended - toast your oats and roughly chopped nuts in a dry pan over medium heat for about 5 minutes, or until lightly browned and fragrant. This step brings out even more flavor from the nuts and the oats
 
-- In a large bowl, mash your banana with the back of a fork until smooth. Unsweetened applesauce will work as well in place of banana. Add in the rest of the ingredients, and fold together with a silicone spatula<br><br>
-- <center><img src="/assets/Food/Finger Food/Granola Bar/granola-bar-2.jpg" alt="" class="instruction-image"></center><br>
+- In a large bowl, mash your banana with the back of a fork until smooth. Unsweetened applesauce will work as well in place of banana. Add in the rest of the ingredients, and fold together with a silicone spatula
+- <center><img src="/assets/Food/Finger Food/Granola Bar/granola-bar-2.jpg" alt="" class="instruction-image"></center>
 
-- Line an 8" square baking pan with parchment paper, and press in the granola mixture. Spread to all sides, and flatten to an even thickness<br><br>
-- <center><img src="/assets/Food/Finger Food/Granola Bar/granola-bar-3.jpg" alt="" class="instruction-image"></center><br>
+- Line an 8" square baking pan with parchment paper, and press in the granola mixture. Spread to all sides, and flatten to an even thickness
+- <center><img src="/assets/Food/Finger Food/Granola Bar/granola-bar-3.jpg" alt="" class="instruction-image"></center>
 
 - Refrigerate for at least 2 hours to set (ideally overnight) before slicing. Wrap each bar in parchment paper, and store in an airtight bag (either in the fridge or freezer)
 ---

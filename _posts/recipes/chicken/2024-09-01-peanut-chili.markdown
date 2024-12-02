@@ -54,13 +54,13 @@ tags:
 - carrots
 Description: If you somehow don't know by now, I am obsessed with peanut butter. This dish is a remix combining my <a href="/recipes/chili">Slow Cooker Chili</a> with <a href="/recipes/maafe">Maafe (African Peanut Stew)</a>. It has a similar flavor to my <a href="/recipes/peanut-chicken">Peanut Chili Chicken Skillet</a>, but instead served as a delicious slow cooked stew, ready for you when you get home from work. It's a dump and go stew, like my <a href="/recipes/chicken-stew">Crockpot Chicken Stew</a> and <a href="/recipes/chicken-noodle-stew">Chicken Noodle Stew</a>; meaning you just have to cut up the vegetables and chicken, add it to the crockpot, and have dinner ready for you. No other cooking required!
 Instructions: 
-- Starting with your vegetables, cut your peppers and onions into a medium dice. Finely dice your carrots, as they're harder and will take longer to cook. I'm using an electric chopper here to get them fine. Add all vegetables to the pot of a slow cooker<br><br>
+- Starting with your vegetables, cut your peppers and onions into a medium dice. Finely dice your carrots, as they're harder and will take longer to cook. I'm using an electric chopper here to get them fine. Add all vegetables to the pot of a slow cooker
 
-- Dice your chicken thighs into bite sized cubes, and add to the pot as well<br><br>
+- Dice your chicken thighs into bite sized cubes, and add to the pot as well
 
-- Drain and rinse your cans of beans, and add to the pot. Dump in the cans of crushed and diced tomatoes as well<br><br>
+- Drain and rinse your cans of beans, and add to the pot. Dump in the cans of crushed and diced tomatoes as well
 
-- Add in the powdered peanut butter, chili powder, cumin, cocoa powder, and ground ginger. Add in the gochujang, soy sauce, and minced garlic as well<br><br>
+- Add in the powdered peanut butter, chili powder, cumin, cocoa powder, and ground ginger. Add in the gochujang, soy sauce, and minced garlic as well
 
 - Mix everything fully together, cover, and cook on low for 6 hours, or until the vegetables are tender and the chicken is fully cooked
 ---

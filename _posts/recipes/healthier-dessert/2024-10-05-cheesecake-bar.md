@@ -55,23 +55,23 @@ tags:
 - rolled oats
 Description: These cheesecake bars don't even require you to have an oven. It has mildly sweet banana and honey oatmeal crust, filling with Greek yogurt that's flavored by natural peanut butter and dates, and all topped by melted dark chocolate and chopped peanuts. No bake not only makes the recipe easier, but it preserves all the probiotics in the yogurt, making this a great fermented food at dessert time. For having no protein powder, this dessert is high in protein, as well as a good source of healthy fats, fiber, and complex carbs.
 Instructions: 
-- In a bowl, mash a banana with the back of a fork. Combine together the rest of the crust ingredients with a silicone spatula - honey, cinnamon, vanilla, coconut flour, and rolled oats. Mix until well combined<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-bowl.jpg" alt="" class="instruction-image"></center><br>
+- In a bowl, mash a banana with the back of a fork. Combine together the rest of the crust ingredients with a silicone spatula - honey, cinnamon, vanilla, coconut flour, and rolled oats. Mix until well combined
+- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-bowl.jpg" alt="" class="instruction-image"></center>
 
-- Line an 8" square pan with parchment paper. Evenly press your crust into the pan. Freeze to set as you prepare the filling<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-pan.jpg" alt="" class="instruction-image"></center><br>
+- Line an 8" square pan with parchment paper. Evenly press your crust into the pan. Freeze to set as you prepare the filling
+- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-pan.jpg" alt="" class="instruction-image"></center>
 
-- In a food processor, blend together peanut butter and dates until all the dates are fully chopped. Add in the yogurt and vanilla, and blend until smooth and fully combined<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-processor.jpg" alt="" class="instruction-image"></center><br>
+- In a food processor, blend together peanut butter and dates until all the dates are fully chopped. Add in the yogurt and vanilla, and blend until smooth and fully combined
+- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-processor.jpg" alt="" class="instruction-image"></center>
 
-- Use a silicone spatula to evenly spread the filling on top of the oatmeal crust. Freeze for a few minutes to harden as you prepare the topping<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-pan.jpg" alt="" class="instruction-image"></center><br>
+- Use a silicone spatula to evenly spread the filling on top of the oatmeal crust. Freeze for a few minutes to harden as you prepare the topping
+- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-pan.jpg" alt="" class="instruction-image"></center>
 
-- In a small bowl, combine together roughly chopped chocolate with water. Microwave in 30 second intervals, stirring in between, until you have a smooth ganache<br><br>
+- In a small bowl, combine together roughly chopped chocolate with water. Microwave in 30 second intervals, stirring in between, until you have a smooth ganache
 
-- Evenly spread your melted chocolate on top of the yogurt filling, and sprinkle the top with your chopped peanuts<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-topping.jpg" alt="" class="instruction-image"></center><br>
+- Evenly spread your melted chocolate on top of the yogurt filling, and sprinkle the top with your chopped peanuts
+- <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-topping.jpg" alt="" class="instruction-image"></center>
 
-- Chill in the fridge overnight to set before slicing<br><br>
+- Chill in the fridge overnight to set before slicing
 - <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-cut.jpg" alt="" class="instruction-image"></center>
 ---

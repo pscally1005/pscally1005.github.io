@@ -38,16 +38,16 @@ tags:
 - potato
 Description: Home fries are a great breakfast side with eggs consisting of potatoes and sometimes peppers and onions. I almost always use sweet potatoes instead of regular potatoes, as they have much more flavor and nutrients. Try whipping this up alongside my <a href="frittata">Spinach and Onion Frittata</a>, <a href="scrambled-eggs">Long Weekend Scrambled Eggs</a>, or <a href="egg-muffins">Mini Egg Muffins</a>, or serve as a side with dinner
 Instructions: 
-- Wash and dice your sweet potatoes into bite sized cubes. Don't peel the potatoes. Season with oil, paprika, onion powder, salt, and pepper<br><br>
-- <center><img src="/assets/Food/Breakfast/Home Fries/home-fries-1.jpg" alt="" class="instruction-image"></center><br>
+- Wash and dice your sweet potatoes into bite sized cubes. Don't peel the potatoes. Season with oil, paprika, onion powder, salt, and pepper
+- <center><img src="/assets/Food/Breakfast/Home Fries/home-fries-1.jpg" alt="" class="instruction-image"></center>
 
-- Air fry the potatoes for 30 minutes at 400F, mixing halfway<br><br>
+- Air fry the potatoes for 30 minutes at 400F, mixing halfway
 
-- Meanwhile, cut your onion and pepper into a small dice. Add to a bowl and season with soy sauce, oil, minced garlic, garlic powder, chili powder, black pepper, and salt<br><br>
-- <center><img src="/assets/Food/Breakfast/Home Fries/home-fries-3.jpg" alt="" class="instruction-image"></center><br>
+- Meanwhile, cut your onion and pepper into a small dice. Add to a bowl and season with soy sauce, oil, minced garlic, garlic powder, chili powder, black pepper, and salt
+- <center><img src="/assets/Food/Breakfast/Home Fries/home-fries-3.jpg" alt="" class="instruction-image"></center>
 
-- Heat a large pan over medium heat and add in your peppers and onions. Cover and cook under occasional stirring until the onions are translucent and the peppers are soft<br><br>
+- Heat a large pan over medium heat and add in your peppers and onions. Cover and cook under occasional stirring until the onions are translucent and the peppers are soft
 
-- When the potatoes are finished, combine them in the pan with the vegetables. Top with dried parsley, and serve with eggs<br><br>
+- When the potatoes are finished, combine them in the pan with the vegetables. Top with dried parsley, and serve with eggs
 - <center><img src="/assets/Food/Breakfast/Home Fries/home-fries-5.jpg" alt="" class="instruction-image"></center>
 ---

@@ -38,14 +38,14 @@ tags:
 - lemon juice
 Description: This simple salad combined grilled or baked eggplant, canned chickpeas, and feta to make a delicious salad for lunch or as a dinner side. This salad also doesn't have any lettuce if you're into that, and uses a homemade <a href="/misc/fake-healthy-foods#salad-dressing">salad dressing</a>
 Instructions: 
-- Wash the eggplant, then slice into 1/2" slices. Lightly salt both side, and let sit for 10 minutes on paper towels. Pat dry<br><br>
+- Wash the eggplant, then slice into 1/2" slices. Lightly salt both side, and let sit for 10 minutes on paper towels. Pat dry
 
-- On a grill pan or skillet, cook the eggplant with olive oil over medium heat, flipping occasionally, until fully cooked, about 10-15 minutes. Season with pepper, garlic powder, and onion powder<br><br>
-- <center><img src="/assets/Food/Meatless/Eggplant Salad/eggplant-salad-2.jpg" alt="" class="instruction-image"></center><br>
+- On a grill pan or skillet, cook the eggplant with olive oil over medium heat, flipping occasionally, until fully cooked, about 10-15 minutes. Season with pepper, garlic powder, and onion powder
+- <center><img src="/assets/Food/Meatless/Eggplant Salad/eggplant-salad-2.jpg" alt="" class="instruction-image"></center>
 
-- Meanwhile, drain and rinse a can of chickpeas. Add to a large bowl. Cut up the rest of your vegetables and add them and the feta to the bowl<br><br>
+- Meanwhile, drain and rinse a can of chickpeas. Add to a large bowl. Cut up the rest of your vegetables and add them and the feta to the bowl
 
-- In a small bowl, mix together the dressing - olive oil, white vinegar, lemon juice, parsely, garlic and onion powder, black pepper, and salt. Pour over the salad<br><br>
+- In a small bowl, mix together the dressing - olive oil, white vinegar, lemon juice, parsely, garlic and onion powder, black pepper, and salt. Pour over the salad
 
 - When the eggplant is done, cut into bite sized pieces and mix into the salad. Serve
 ---

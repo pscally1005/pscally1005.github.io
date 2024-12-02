@@ -43,21 +43,21 @@ tags:
 - pastry
 Description: These cinnamon rolls aren't your traditional empty calorie pastries. They have a good blend of protein, fats, carbs, and fiber, making them a nutritious breakfast choice, with a homemade <a href="apple-spread">No Sugar Added Apple Spread</a> filling. The batch makes only 1 serving (a few smaller cinnamon rolls), but can be easily scaled up. For a different protein pastry breakfast, see my <a href="protein-poptart">PB&J Protein PopTart</a>
 Instructions: 
-- In a medium bowl, whisk together the dry ingredients for the dough - protein powder, coconut flour, whole wheat flour, baking powder, cinnamon, and salt<br><br>
+- In a medium bowl, whisk together the dry ingredients for the dough - protein powder, coconut flour, whole wheat flour, baking powder, cinnamon, and salt
 
-- Add in the wet ingredients (almond extract, sweetener, and yogurt), and mix until fully combined. You may need to use your hands<br><br>
+- Add in the wet ingredients (almond extract, sweetener, and yogurt), and mix until fully combined. You may need to use your hands
 
-- The dough should be slightly sticky. Refrigerate for about 30 minutes to make handling easier<br><br>
+- The dough should be slightly sticky. Refrigerate for about 30 minutes to make handling easier
 
-- Put the dough on a piece of parchment paper, and flatten with your fingers into an even rectangle. Spread the <a href="apple-spread">No Sugar Added Apple Spread</a> filling on top.  Date paste or unsweetened applesauce should also work<br><br>
-- <center><img src="/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-4.jpg" alt="" class="instruction-image"></center><br>
+- Put the dough on a piece of parchment paper, and flatten with your fingers into an even rectangle. Spread the <a href="apple-spread">No Sugar Added Apple Spread</a> filling on top.  Date paste or unsweetened applesauce should also work
+- <center><img src="/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-4.jpg" alt="" class="instruction-image"></center>
 
-- Roll the dough into 1 long cinnamon roll (left to right when in the position in the photo above), using a butter knife to help peel the dough off the parchment.  Cut with a knife or dental floss into 4 pieces<br><br>
+- Roll the dough into 1 long cinnamon roll (left to right when in the position in the photo above), using a butter knife to help peel the dough off the parchment.  Cut with a knife or dental floss into 4 pieces
 
-- Air fry the cinnamon rolls cut side down at 350F for about 8 minutes, or until lightly golden brown and slightly crispy<br><br>
+- Air fry the cinnamon rolls cut side down at 350F for about 8 minutes, or until lightly golden brown and slightly crispy
 
-- Meanwhile, prepare the glaze by mixing together the ingredients in a small bowl (almond milk, PB2, EVOO, and cinnamon). Add some sweetener if you want<br><br>
+- Meanwhile, prepare the glaze by mixing together the ingredients in a small bowl (almond milk, PB2, EVOO, and cinnamon). Add some sweetener if you want
 
-- Dollop the glaze on top of the baked cinnamon rolls, and enjoy<br><br>
+- Dollop the glaze on top of the baked cinnamon rolls, and enjoy
 - <center><img src="/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-8.jpg" alt="" class="instruction-image"></center>
 ---

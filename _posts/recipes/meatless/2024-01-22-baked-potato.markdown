@@ -34,8 +34,8 @@ tags:
 - vic
 Description: Baked Sweet Potatoes are possibly the easiest side to a meal of all time. Just prick it with a fork, wrap it, and bake it. They're great on their own, not even needing any spices if you don't want any. Sweet potatoes are a great source of fiber and vitamin A, and help you in feeling full. For my other stable carb side, check out <a href="rice-and-beans">Classic Rice and Beans</a>
 Instructions: 
-- Wash your sweet potato, and prick it a few times with a fork. Wrap in aluminum foil, and air fry at 400F for 45 minutes<br><br>
+- Wash your sweet potato, and prick it a few times with a fork. Wrap in aluminum foil, and air fry at 400F for 45 minutes
 
-- Slice in half, and let steam out before eating. Optionally, top with a small pinch of salt<br><br>
+- Slice in half, and let steam out before eating. Optionally, top with a small pinch of salt
 - <center><img src="/assets/Food/Meatless/Baked Potato/baked-potato-2.jpg" alt="" class="instruction-image"></center>
 ---

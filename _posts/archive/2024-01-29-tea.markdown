@@ -33,8 +33,8 @@ tags:
 - sleep
 Description: I go through a decent amount of bananas, especially overripe ones. One day it dawned on me that I'm simply throwing out all these peels, when they could probably be put to good use and help reduce waste. Just boiling a ripe banana peel in water is a great way to make a simple herbal tea.
 Instructions: 
-- Place the banana peel in a pot and cover it with water. Cover, and let boil for 10 minutes to soften and infuse the flavor<br><br>
-- <center><img src="/assets/Food/Drinks/Banana Tea/tea-1.jpg" alt="" class="instruction-image"></center><br>
+- Place the banana peel in a pot and cover it with water. Cover, and let boil for 10 minutes to soften and infuse the flavor
+- <center><img src="/assets/Food/Drinks/Banana Tea/tea-1.jpg" alt="" class="instruction-image"></center>
 
 - Strain the liquid, optionally sweeten, and serve
 ---

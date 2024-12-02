@@ -38,15 +38,15 @@ tags:
 - rice
 Description: These tomato chickpea wraps are inspired by Indian Chana Masala, but made much simpler and easier for you to easily make for yourself for a weekday lunch. Serve on a tortilla, like my <a href="tortilla">Oat-Wheat Tortillas</a>, or with a side of rice.
 Instructions: 
-- Cook the rice in a medium pot according to directions, about 25 minutes. Or serve with tortillas instead<br><br>
+- Cook the rice in a medium pot according to directions, about 25 minutes. Or serve with tortillas instead
 
-- Meanwhile, dice onions small and add it to 12” pan with some oil, salt, and minced garlic.  Cook over medium heat for 5 minutes, covered<br><br>
+- Meanwhile, dice onions small and add it to 12” pan with some oil, salt, and minced garlic.  Cook over medium heat for 5 minutes, covered
 
-- Pour in the tomatoes and chilies. Drain and rinse the chickpeas, and dump those in too. Season with paprika, garlic powder, onion powder, and black pepper<br><br>
+- Pour in the tomatoes and chilies. Drain and rinse the chickpeas, and dump those in too. Season with paprika, garlic powder, onion powder, and black pepper
 
-- Pour some water in the cans of peppers/tomatoes, about halfway up the cans, and rinse them out into the pan, enough to slightly cover all the food<br><br>
+- Pour some water in the cans of peppers/tomatoes, about halfway up the cans, and rinse them out into the pan, enough to slightly cover all the food
 
-- Let simmer on medium for 25 minutes until thickened, uncovered<br><br>
+- Let simmer on medium for 25 minutes until thickened, uncovered
 
 - Squeeze in some lemon juice and dash in some red pepper flakes. Taste for salt if needed. Serve over rice or in a tortilla
 ---

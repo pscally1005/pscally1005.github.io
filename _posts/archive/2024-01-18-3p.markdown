@@ -39,7 +39,7 @@ tags:
 - 3
 Description: Leave your peanut allergies at the door, because they're not allowed here. I was bored, and wanted to see if I could create something with only peanuts and peanut-like ingredients. Bonus points if you also have peanut oil on hand I guess then. These can serve as little fat and protein balls for a snack, or crumbled into yogurt.
 Instructions: 
-- Combine peanut butter and pb2 together in a medium bowl. Using a chopper, chop your nuts, and fold into the dough<br><br>
+- Combine peanut butter and pb2 together in a medium bowl. Using a chopper, chop your nuts, and fold into the dough
 
 - Roll the dough into balls, and store in the fridge
 ---

@@ -47,16 +47,16 @@ tags:
 - extra virgin olive oil
 Description: This shrimp oreganata utilizes a homemade breadcrumb mix made of oat flour, grated cheese, and ground flaxseeds. It's gluten free, delicious, and cheaper than store-bought GF breadcrumbs. This meal comes together very quickly, and is a great light and healthy meal that serves 4. Pair it with a side of roasted veggies, and you have a complete dish
 Instructions: 
-- Preheat your oven to 450F, and grease a 9x13" pan with a spray of oil<br><br>
+- Preheat your oven to 450F, and grease a 9x13" pan with a spray of oil
 
-- In a large mixing bowl, combine together the breadcrumb ingredients - oat flour, grated cheese, minced garlic, ground flax, parsley, oregano, basil, garlic powder, onion powder, black pepper, and salt. Set aside<br><br>
-- <center><img src="/assets/Food/Fish/Oreganata/oreganata-bc.jpg" alt="" class="instruction-image"></center><br>
+- In a large mixing bowl, combine together the breadcrumb ingredients - oat flour, grated cheese, minced garlic, ground flax, parsley, oregano, basil, garlic powder, onion powder, black pepper, and salt. Set aside
+- <center><img src="/assets/Food/Fish/Oreganata/oreganata-bc.jpg" alt="" class="instruction-image"></center>
 
-- Add the frozen shrimp to a large bowl, and let water run in the bowl for a few minutes until defrosted.  Peel off the shells and tails (if applicable), and pat dry<br><br>
+- Add the frozen shrimp to a large bowl, and let water run in the bowl for a few minutes until defrosted.  Peel off the shells and tails (if applicable), and pat dry
 
-- In a bowl, toss the shrimp with the balsamic vinegar, olive oil, lemon juice, and salt. Arrange in a single layer in your pan.  Spoon the breadcrumb mixture on top of the shrimp<br><br>
-- <center><img src="/assets/Food/Fish/Oreganata/oreganata-bowl.jpg" alt="" class="half-page"><img src="/assets/Food/Fish/Oreganata/oreganata-raw.jpg" alt="" class="half-page"></center><br>
+- In a bowl, toss the shrimp with the balsamic vinegar, olive oil, lemon juice, and salt. Arrange in a single layer in your pan.  Spoon the breadcrumb mixture on top of the shrimp
+- <center><img src="/assets/Food/Fish/Oreganata/oreganata-bowl.jpg" alt="" class="half-page"><img src="/assets/Food/Fish/Oreganata/oreganata-raw.jpg" alt="" class="half-page"></center>
 
-- Bake at 450F for 10 minutes, then broil for 2-3 minutes, or until the breadcrumbs are golden brown. Watch carefully while broiling; you don't want to burn it. Squeeze some lemon juice to taste on top<br><br>
+- Bake at 450F for 10 minutes, then broil for 2-3 minutes, or until the breadcrumbs are golden brown. Watch carefully while broiling; you don't want to burn it. Squeeze some lemon juice to taste on top
 - <center><img src="/assets/Food/Fish/Oreganata/oreganata-cooked.jpg" alt="" class="instruction-image"></center>
 ---

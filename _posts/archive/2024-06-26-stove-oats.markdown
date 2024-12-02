@@ -41,13 +41,13 @@ tags:
 - cocoa powder
 Description: Most of the time, I just throw together oatmeal ingredients in a Tupperware, refrigerate overnight, and eat it cold the next day. Occasionally I'll do this in a bowl instead, and microwave them to eat it warm. But if you want to level your oatmeal up to the next level, consider making them on the stove. It's more work, but it's worth it if you have the time in the morning. This variation has nearly 50 g of protein, healthy fats from the cashews, and no added sugar
 Instructions: 
-- In a small dry pot over medium heat, add the oats and a tiny pinch of salt. Toast the oats for about 3 minutes, or until they smell nutty and start to darken. Toasting the oats brings out even more flavor<br><br>
+- In a small dry pot over medium heat, add the oats and a tiny pinch of salt. Toast the oats for about 3 minutes, or until they smell nutty and start to darken. Toasting the oats brings out even more flavor
 
-- Pour in the milk, and let simmer for about 3 minutes with occasional stirring<br><br>
+- Pour in the milk, and let simmer for about 3 minutes with occasional stirring
 
-- Meanwhile, in a bowl, combine together yogurt and protein powder. Chop up some nuts (I'm using cashews here, but anything will work), and mix into the yogurt.  Optionally, add some sweetener to taste<br><br>
+- Meanwhile, in a bowl, combine together yogurt and protein powder. Chop up some nuts (I'm using cashews here, but anything will work), and mix into the yogurt.  Optionally, add some sweetener to taste
 
-- After the oats are done simmering, add in the cocoa powder and cook for an additional minute. This blooming step deepens the chocolate flavor<br><br>
+- After the oats are done simmering, add in the cocoa powder and cook for an additional minute. This blooming step deepens the chocolate flavor
 
 - Combine the warm oat mixture into the yogurt bowl, and mix together. Optionally top with any fresh fruit like berries or kiwi
 ---

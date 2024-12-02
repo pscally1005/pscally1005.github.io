@@ -31,7 +31,7 @@ tags:
 - vanilla
 - milkshake
 - milk shake
-Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simple, sugar free, and tastes exactly like classic vanilla ice cream. Even Vic agreed that it was spot on to regular vanilla ice cream, and this contains a fraction of the sugar, fat, and calories, all while having more protein, calcium, and vitamin B12.  The ice cream can be scooped right out of the freezer; there's no need to let it sit out and soften! Here are some flavor ideas you can mess around with:<br><br><ul>
+Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simple, sugar free, and tastes exactly like classic vanilla ice cream. Even Vic agreed that it was spot on to regular vanilla ice cream, and this contains a fraction of the sugar, fat, and calories, all while having more protein, calcium, and vitamin B12.  The ice cream can be scooped right out of the freezer; there's no need to let it sit out and soften! Here are some flavor ideas you can mess around with:<ul>
     <li><b>Vanilla</b> - 1 tsp (5 g) vanilla extract</li>
     <li><b>Chocolate</b> - 2 tbsp (10 g) cocoa powder</li>
     <li><b>Mint</b> - 1/4 tsp (1.25 g) mint extract</li>
@@ -42,13 +42,13 @@ Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simp
     <li><b>Cookie Crumble</b> - 2 chocolate chip cookies</li>
     <li><b>Chocolate Chip</b> - 1 tbsp (15 g) mini chocolate chips</li></ul>
 Instructions: 
-- Place a medium glass, ceramic, or metal bowl (anything but plastic) in the freezer overnight. Refrigerate your can of evaporated milk overnight<br><br>
+- Place a medium glass, ceramic, or metal bowl (anything but plastic) in the freezer overnight. Refrigerate your can of evaporated milk overnight
 
-- In your bowl, combine together evaporated milk, vanilla (pure is better, not imitation), liquid monk fruit, and a tiny pinch of salt. Beat with a hand mixer until thick and fluffy<br><br>
-- <center><img src="/assets/Food/Meme/Ice Cream/ice-cream-whipped.jpg" alt="" class="instruction-image"></center><br>
+- In your bowl, combine together evaporated milk, vanilla (pure is better, not imitation), liquid monk fruit, and a tiny pinch of salt. Beat with a hand mixer until thick and fluffy
+- <center><img src="/assets/Food/Meme/Ice Cream/ice-cream-whipped.jpg" alt="" class="instruction-image"></center>
 
--  Freeze for 1 hour.  Churn with your electric mixer, and return to the freezer for another hour. Repeat<br><br>
+-  Freeze for 1 hour.  Churn with your electric mixer, and return to the freezer for another hour. Repeat
 
-- Transfer the ice cream to an airtight container, and pack down. Freeze for at least 1 more hour before serving. This can be eaten right away, or stored in the freezer indefinitely<br><br>
+- Transfer the ice cream to an airtight container, and pack down. Freeze for at least 1 more hour before serving. This can be eaten right away, or stored in the freezer indefinitely
 - <center><img src="/assets/Food/Meme/Ice Cream/ice-cream-packed.jpg" alt="" class="instruction-image"></center>
 ---

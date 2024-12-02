@@ -22,3 +22,53 @@ layout: base
   </div>
 
 </article>
+
+<style>
+  @media print {
+    /* Style for the body */
+    body.category-page {
+        visibility: visible !important;
+        display: block !important;
+        color: #000 !important;
+        background: none !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    /* Ensure all content is visible and aligned */
+    .desktop-content {
+        display: flex !important;
+        flex-wrap: wrap !important; /* Allow wrapping of items */
+        gap: 10px; /* Add space between buttons */
+        justify-content: space-between !important; /* Ensure alignment */
+    }
+
+    /* Style for buttons */
+    .recipe-category-buttons {
+        width: 45% !important; /* Two buttons per row */
+        max-width: none !important;
+        height: auto !important; /* Maintain aspect ratio */
+    }
+
+    /* HR line styling */
+    hr {
+        width: 100%;
+        border: 1px solid #000 !important;
+        margin: 10px 0 !important;
+    }
+
+    /* Remove all unnecessary styles */
+    * {
+        margin: 0 !important;
+        padding: 0 !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    /* Prevent page breaks inside flex rows */
+    .desktop-content {
+        page-break-inside: avoid !important;
+    }
+  }
+</style>

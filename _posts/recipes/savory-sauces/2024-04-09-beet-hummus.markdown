@@ -39,12 +39,12 @@ tags:
 - paprika
 Description: I love hummus; it's easily my favorite dip for vegetables and dressing for salad. Lately I've been experimenting with other flavors, so I've made this roasted beet hummus.  Beets give this hummus a mild sweet taste, while making them creamy and vibrant red<br>&emsp;Check out some of my other flavors of hummus as well!  They're all either contain either low or no oil, making them lower in fat and calories than traditional.  I have plenty of differnent flavors coming from various spices, roasted vegetables, differnet nut and seed butters, and even different beans:<br>- <a href="/recipes/classic-tahini-hummus">Classic Tahini Hummus</a><br>- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>- <a href="/recipes/roasted-red-pepper-hummus">Roasted Red Pepper Hummus</a><br>- <a href="/recipes/roasted-garlic-hummus">Cheesy Garlic Hummus</a><br>- <a href="/recipes/sweet-potato-hummus">Golden Sweet Potato Hummus</a><br>- <a href="/recipes/roasted-eggplant-hummus">Mediterranean Roasted Eggplant Hummus</a><br>- <a href="/recipes/ginger-hummus">Ginger Lime Black Bean Hummus</a><br>- <a href="/recipes/hummus">Lemony Taco Inspired Hummus</a>
 Instructions: 
-- Cut the ends off your beets, wrap in aluminum foil, and bake wrapped beets at 400F for 40 mins or until a knife goes through with ease<br><br>
-- <center><img src="/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-1.jpg" alt="" class="instruction-image"></center><br><br>
+- Cut the ends off your beets, wrap in aluminum foil, and bake wrapped beets at 400F for 40 mins or until a knife goes through with ease
+- <center><img src="/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-1.jpg" alt="" class="instruction-image"></center>
 
-- Combine roasted beets (with skins!) with the rest of ingredients in a food processor, and blend until smooth<br><br>
-- <center><img src="/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-2.jpg" alt="" class="instruction-image"></center><br><br>
+- Combine roasted beets (with skins!) with the rest of ingredients in a food processor, and blend until smooth
+- <center><img src="/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-2.jpg" alt="" class="instruction-image"></center>
 
-- Optionally, saute the stems and leaves with a little salt and olive oil until crispy, and use as a garnish on top of your hummus<br><br>
+- Optionally, saute the stems and leaves with a little salt and olive oil until crispy, and use as a garnish on top of your hummus
 - <center><img src="/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-3.jpg" alt="" class="instruction-image"></center>
 ---

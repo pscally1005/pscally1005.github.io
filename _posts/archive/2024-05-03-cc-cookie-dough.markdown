@@ -44,9 +44,9 @@ tags:
 - syrup
 Description: This recipe is an adapted version of the viral cottage cheese cookie dough, made slightly healthier. It can serve 1 person as a breakfast, or can be portioned and stored in the fridge as a snack. It's super high in protein from the yogurt, cottage cheese, and protein powder, while also containing a lot of fiber (coconut flour), as well as some healthy fats (unsweetened chocolate)
 Instructions: 
-- I always pre-blend my entire cottage cheese container when I buy it, but if yours isn't blended then you can make this in the food processor<br><br>
+- I always pre-blend my entire cottage cheese container when I buy it, but if yours isn't blended then you can make this in the food processor
 
-- In a medium bowl, mix together your ingredients (except the chocolate). Optionally, add 1-2 tbsp (16-32 g) of any natural nut butter<br><br>
+- In a medium bowl, mix together your ingredients (except the chocolate). Optionally, add 1-2 tbsp (16-32 g) of any natural nut butter
 
 - Finely chop the chocolate, and fold into the batter. Either roll into balls to save for later, or eat it with a spoon
 ---

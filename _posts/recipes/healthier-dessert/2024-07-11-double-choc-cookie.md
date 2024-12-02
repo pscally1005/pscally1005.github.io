@@ -39,23 +39,23 @@ tags:
 - garbanzo beans
 Description: Delicious cookies made from a base of beans, dates, and natural nut butter!  These are a variation of my <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>, with added cocoa powder for that delicious double chocolate, brownie flavored cookie.  They're sugar free, oil free, and gluten free.  They can be vegan too if you like (swap the milk for water).  If you're more of a Reese's fan than a chocoholic, you should also check out my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best! 
 Instructions: 
-- Preheat your oven to 350F, and line a cookie sheet with parchment paper<br><br>
+- Preheat your oven to 350F, and line a cookie sheet with parchment paper
 
-- Add the beans, dates, nut butter, cocoa powder, milk (or water), vanilla, and salt to a food processor and blend until smooth<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-unblended.jpg" alt="" class="instruction-image"></center><br>
+- Add the beans, dates, nut butter, cocoa powder, milk (or water), vanilla, and salt to a food processor and blend until smooth
+- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-unblended.jpg" alt="" class="instruction-image"></center>
 
-- I've used cashew butter here, but any nut butter will work, like peanut or almond butter.  For a nut free option, use tahini or pumpkin seed butter<br><br>
+- I've used cashew butter here, but any nut butter will work, like peanut or almond butter.  For a nut free option, use tahini or pumpkin seed butter
 
-- For the beans, I've gone with chickpeas, but any other bean will work, like black, kidney, navy, pinto, or cannellini beans<br><br>
+- For the beans, I've gone with chickpeas, but any other bean will work, like black, kidney, navy, pinto, or cannellini beans
 
-- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula (or reserve them to top with the chocolate chips). The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-blended.jpg" alt="" class="instruction-image"></center><br>
+- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula (or reserve them to top with the chocolate chips). The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
+- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-blended.jpg" alt="" class="instruction-image"></center>
 
-- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be.  Instead of folding the chocolate chips into the batter, you can press them into the top of the cookies here<br><br>
+- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be.  Instead of folding the chocolate chips into the batter, you can press them into the top of the cookies here
 
-- Bake for about 14 minutes at 350F, or until the cookies are set to the touch<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-baked.jpg" alt="" class="instruction-image"></center><br>
+- Bake for about 14 minutes at 350F, or until the cookies are set to the touch
+- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-baked.jpg" alt="" class="instruction-image"></center>
 
-- Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely<br><br>
+- Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely
 - <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-cool.jpg" alt="" class="instruction-image"></center>
 ---

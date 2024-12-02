@@ -39,30 +39,30 @@ tags:
 - garbanzo beans
 Description: Delicious cookies made from a base of beans, dates, and natural nut butter!  They're sugar free, oil free, and gluten free.  They can be vegan too (swap the milk for water and use vegan chocolate).  This is my standard chocolate chip cookie version.  For other delicious variations, check out my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> and my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!
 Instructions: 
-- Preheat your oven to 350F, and line a cookie sheet with parchment paper<br><br>
+- Preheat your oven to 350F, and line a cookie sheet with parchment paper
 
-- Add the beans, dates, nut butter, milk (or water), vanilla, and salt to a food processor and blend until smooth<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-unblended.jpg" alt="" class="instruction-image"></center><br>
+- Add the beans, dates, nut butter, milk (or water), vanilla, and salt to a food processor and blend until smooth
+- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-unblended.jpg" alt="" class="instruction-image"></center>
 
-- I've used almond butter here, but any nut butter will work, like peanut or cashew butter.  For a nut free option, use tahini or pumpkin seed butter<br><br>
+- I've used almond butter here, but any nut butter will work, like peanut or cashew butter.  For a nut free option, use tahini or pumpkin seed butter
 
-- To make mint chocolate chip cookies instead, use sunflower seed butter as your nut butter, and replace vanilla extract with 1/8 tsp mint extract.  The sunflower butter will turn the cookies green the next day, as seen below<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover-green.jpg" alt="" class="instruction-image"></center><br>
+- To make mint chocolate chip cookies instead, use sunflower seed butter as your nut butter, and replace vanilla extract with 1/8 tsp mint extract.  The sunflower butter will turn the cookies green the next day, as seen below
+- <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover-green.jpg" alt="" class="instruction-image"></center>
 
-- For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change<br><br>
+- For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change
 
-- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-blended.jpg" alt="" class="instruction-image"></center><br>
+- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
+- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-blended.jpg" alt="" class="instruction-image"></center>
 
-- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-raw.jpg" alt="" class="instruction-image"></center><br>
+- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be
+- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-raw.jpg" alt="" class="instruction-image"></center>
 
-- Bake for about 14 minutes at 350F, or until the tops and edges are lightly golden brown and the cookies are set to the touch<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-baked.jpg" alt="" class="instruction-image"></center><br>
+- Bake for about 14 minutes at 350F, or until the tops and edges are lightly golden brown and the cookies are set to the touch
+- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-baked.jpg" alt="" class="instruction-image"></center>
 
-- Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely<br><br>
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cool.jpg" alt="" class="instruction-image"></center><br>
+- Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely
+- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cool.jpg" alt="" class="instruction-image"></center>
 
-- Or leave out the baking soda and enjoy as edible cookie dough bites<br><br>
+- Or leave out the baking soda and enjoy as edible cookie dough bites
 - <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/cookie-dough.jpg" alt="" class="instruction-image"></center>
 ---
