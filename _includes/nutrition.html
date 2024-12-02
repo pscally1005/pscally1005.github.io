@@ -464,7 +464,7 @@
                 {% endif %}
 
                 <!-- If total fat is 0, then hide sat, unsat, trans, & cholesterol -->
-                {% if totalFat != 0.0 %}
+                {% if totalFat != 0.0 and totalFat != 0 %}
                     {% if sat != "" %} 
                         &emsp;<b>Saturated Fat</b>: {{ sat }}<br>
                     {% endif %}
@@ -493,7 +493,7 @@
                 {% endif %}
 
                 <!-- If total carbs is 0, then hide fiber, net carbs, and sugar -->
-                {% if totalCarb != 0.0 %}
+                {% if totalCarb != 0.0 and totalCarb != 0 %}
                     {% if fib != "" %} 
                         &emsp;<b>Fiber</b>: {{ fib }}<br>
                     {% endif %}
@@ -501,6 +501,9 @@
                     <!-- Calc net carbs -->
                     {% if netCarb != "" %}
                         {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
+                        {% if netCarb < 0 %}
+                            {% assign netCarb = 0.0 %}
+                        {% endif %}
                         {% assign netCarbStr = netCarb | round: 1 | append: 'g' %}
                         &emsp;<b>Net Carbs</b>: {{ netCarbStr }}<br>
                     {% endif %}
@@ -510,7 +513,7 @@
                     {% endif %}
 
                     <!-- Added sugar, sugar alcohols, and allulose -->
-                    {% if addedSugar != "" and totalSugar != 0.0 %}
+                    {% if addedSugar != "" and totalSugar != 0.0 and totalSugar != 0 %}
                         {% if addedSugar > totalSugar %}
                             {% assign addedSugar = totalSugar %}
                         {% endif %}
