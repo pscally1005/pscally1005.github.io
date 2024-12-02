@@ -53,8 +53,8 @@ Instructions:
 
 - Add batter to the pan. Optionally top with 1-2 tbsp (15-30 g) chocolate chips, minis preferred<br><br>
 
-- Bake for 30 minutes uncovered (if using syrup instead, bake an additional 15 minutes, covered)
-- <br><br><center><img src="/assets/Food/Healthier Dessert/Date Brownie/date-brownie-4.jpg" alt="" class="instruction-image"></center><br>
+- Bake for 30 minutes uncovered (if using syrup instead, bake an additional 15 minutes, covered)<br><br>
+- <center><img src="/assets/Food/Healthier Dessert/Date Brownie/date-brownie-4.jpg" alt="" class="instruction-image"></center><br>
 
 - Let cool completely before slicing<br><br>
 

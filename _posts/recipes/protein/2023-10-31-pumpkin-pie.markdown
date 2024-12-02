@@ -53,7 +53,7 @@ Instructions:
 - In your large bowl, mix together the filling ingredients (pumpkin puree, eggs, water, cinnamon, ginger, salt, nutmeg, cloves, yogurt, monk fruit or stevia, vanila, and whey). You can add a little butter extract to the filling if you want (as well as the crust)<br><br>
 
 - Bake in a 350F oven for 25 minutes. Lower heat to 300F, and bake for an additional 15 minutes<br><br>
-- <br><br><center><img src="/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-6.jpg" alt="" class="instruction-image"></center><br>
+- <center><img src="/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-6.jpg" alt="" class="instruction-image"></center><br>
 
 - Let cool completely before slicing, at least a few hours in the fridge to totally set. Optionally, dust the top of the pie with some cinnamon
 ---

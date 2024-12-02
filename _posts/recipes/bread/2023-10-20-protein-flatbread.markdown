@@ -35,8 +35,8 @@ Description: This flatbread is a variation of 2 ingredient dough, with added spi
 Instructions: 
 - Mix flours, baking powder, salt, garlic, and onion in a medium bowl. Add in the yogurt and mix until fully combined<br><br>
 
-- Combine with your hands in the bowl until you get a dough ball
-- <br><br><center><img src="/assets/Food/Bread/Protein Wrap/protein-wrap-2.jpg" alt="" class="instruction-image"></center><br>
+- Combine with your hands in the bowl until you get a dough ball<br><br>
+- <center><img src="/assets/Food/Bread/Protein Wrap/protein-wrap-2.jpg" alt="" class="instruction-image"></center><br>
 
 - Take a cold 10 inch pan and flatten with your fingers to the edges. Cook over medium low heat until lightly browned on both sides.  This only takes a few minutes.  Do not overcook, as too much browning of casein won't taste good<br><br>
 

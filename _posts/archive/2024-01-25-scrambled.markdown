@@ -43,8 +43,8 @@ Instructions:
 
 - Lower heat to medium low, and beat your eggs with your spatula, fully incorporating it with the vegetables<br><br>
 
-- Cook for a few minutes under frequent stirring, until the eggs just look cooked. Be careful not to over cook them. Mix in some hot sauce at the end, top with a fresh or dried herb, and serve. Optionally, you can mix in some cheese
-- <br><br><center><img src="/assets/Food/Breakfast/Scrambled/scrambled-4.jpg" alt="" class="instruction-image"></center><br>
+- Cook for a few minutes under frequent stirring, until the eggs just look cooked. Be careful not to over cook them. Mix in some hot sauce at the end, top with a fresh or dried herb, and serve. Optionally, you can mix in some cheese<br><br>
+- <center><img src="/assets/Food/Breakfast/Scrambled/scrambled-4.jpg" alt="" class="instruction-image"></center><br>
 
 - Serve with a side of carrots, and put the other 2 servings away for another day
 ---
