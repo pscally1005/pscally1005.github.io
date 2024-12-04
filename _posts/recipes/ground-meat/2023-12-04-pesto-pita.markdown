@@ -5,7 +5,6 @@ date:   2023-12-04 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
-- Archive
 permalink: /recipes/turkey-pesto-pita
 image: /assets/Food/Ground Meat/Pesto Pita/pesto-pita-cover.jpg
 ing: pestopita-ing
@@ -13,8 +12,8 @@ facts: pestopita-facts
 section1: Pesto
 start2: Onion
 section2: Meat & Vegetables
-start3: 
-section3: 
+start3: Whole wheat pita bread
+section3: Pita
 start4: 
 section4: 
 start5: 
@@ -38,7 +37,9 @@ tags:
 - sauce
 - paste
 - brown rice
-Description: This dish features a spinach and tomato paste pesto sauce, mixed into some vegetables and ground turkey. It goes well inside of a pocket pita, like with my <a href="pita">Whole Wheat Pita Bread</a>.  It's also great served on top of some brown rice, or just on its own. Nutrition facts are just for the filling, not including any rice or bread.
+- pita bread
+- whole wheat
+Description: This dish features a spinach and tomato paste pesto sauce, mixed into some vegetables and ground turkey. It goes well inside of a pocket pita, like with my <a href="/recipes/pita">Whole Wheat Pita Bread</a>.  It's also great served on top of some brown rice, or just on its own. Nutrition facts are for the filling including a piece of pita bread per serving
 Instructions: 
 - Spray a large pan with a touch of oil, and saute the spinach over medium heat until fully cooked, about 5-10 minutes, covered
 
@@ -48,6 +49,6 @@ Instructions:
 
 - Add your meat to the pan and brown it. When fully cooked, add the spices (basil, garlic and onion powder, lemon pepper, and red pepper flakes) and adjust anything to taste
 
-- Transfer the sauce into the pan, and let simmer for a few minutes over medium low heat. Serve in a pita bread, with rice, or by itself
+- Transfer the sauce into the pan, and let simmer for a few minutes over medium low heat. Serve in a <a href="/recipes/pita">pita bread</a>, with rice, or by itself (nutrition facts include the pita)
 - <center><img src="/assets/Food/Ground Meat/Pesto Pita/pesto-pita-5.jpg" alt="" class="instruction-image"></center>
 ---

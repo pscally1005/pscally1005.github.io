@@ -5,6 +5,7 @@ date:   2023-09-24 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+- Archive
 permalink: /recipes/evoo-pesto
 image: /assets/Food/Savory Sauces/EVOO Pesto/evoo-cover.jpg
 ing: evoo-ing

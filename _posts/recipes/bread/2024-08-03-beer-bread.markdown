@@ -5,7 +5,6 @@ date:   2024-08-03 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Archive
 permalink: /recipes/whole-wheat-beer-bread
 image: /assets/Food/Bread/Beer Bread/beer-bread-sliced.jpg
 ing: beerbread-ing

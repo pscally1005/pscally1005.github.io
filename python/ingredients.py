@@ -57,7 +57,7 @@ def ingredients(food):
         return str("Lemon pepper")
     elif food == "Cilantro lightly dried by MCCORMICK & COMPANY, INC.":
         return str("Cilantro, dried")
-    elif food == "Cumin ground by ROUNDY'S" or food == "Ground cumin by STONEMILL":
+    elif food == "Cumin ground by ROUNDY'S" or food == "Ground cumin by STONEMILL" or food == "Spices, cumin seed":
         return str("Cumin, ground")
     elif food == "Spices, dried, oregano":
         return str("Oregano, dried")

@@ -5,7 +5,6 @@ date:   2023-09-25 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
-- Archive
 permalink: /recipes/eggplant-salad
 image: /assets/Food/Meatless/Eggplant Salad/eggplant-salad-cover.jpg
 ing: eggplantsalad-ing
