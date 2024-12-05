@@ -6,19 +6,19 @@ categories:
 - Recipes
 - Chicken
 permalink: /recipes/chicken-florentine
-image: /assets/Food/Chicken/Florentine/florentine-cover.jpg
+image: /assets/Food/Chicken/Florentine/cover.jpg
 ing: florentine-ing
 facts: florentine-facts
 section1: Spinach
-start2: Boneless skinless chicken breast
-section2: Chicken
-start3: Low sodium chicken broth
-section3: Sauce
+start2: Water
+section2: Sauce
+start3: Boneless skinless chicken breast
+section3: Chicken
 start4: 
 section4: 
 start5: 
 section5: 
-Prep: 30
+Prep: 15
 Rest: 
 Cook: 30
 Source1: https://healthyfitnessmeals.com/chicken-florentine/#recipe
@@ -28,22 +28,22 @@ tags:
 - spinach
 - onion
 - broth
-- cottage
-- cheese
-- breast
-- bouillon
+- cottagecheese
+- boneless skinless chicken breast
+- chicken bouillon
+- chicken broth
 - vic
+- creamy
 Description: My favorite thing about this Chicken Florentine is that it tastes just as good as all the others I've had, but without the addition of all the heavy cream that would normally turn this into a fat bomb. Packed with chicken and spinach, and made creamy with a secret ingredient, this recipe is amazing, and goes great with a side of brown rice or roasted vegetables
 Instructions:
-- Cook the frozen spinach, onion, and spices (salt, pepper, garlic, italian seasoning, onion powder, and paprika) in a large pan on medium heat until fully cooked. Set aside on a plate
+- Cut your onion into a small dice, and add to a large pan with oil, spinach, and garlic, salt, and pepper.  Cover and cook over medium heat until the onions are translucent and the water has cooked out of the spinach.  It should just slightly start sticking to the pan. Set aside on a plate
 
-- Meanwhile, in a medium pot, add the chicken broth. YOu can also use 3/4 tsp bouillon powder and 3/4 cup (180 g) of water in place of the broth.  Cover and let simmer on medium until liquid is reduced by half, about 5 minutes
+- Meanwhile, add water, powdered chicken bouillon, and cornstarch to a mason jar.  Screw on the top, and vigorously shake until dissolved.  You can also use 1 cup (240 g) of low sodium chicken or veggie broth instead of water and bouillon powder (you'll still need the cornstarch).  Add to a medium pot, cover, and let simmer over medium heat until the liquid has reduced by about half (about 5 minutes)
 
-- To a small bowl whisk milk and cornstarch and mix until there are no more clumps. Pour in the pot
+- Add the (blended) cottage cheese into the sauce pot and combine.  Reduce heat to medium low, cover, and simmer the sauce while you prepare the chicken
 
-- Add the cottage cheese into the sauce pot and combine. Cover and simmer the sauce while you prepare the chicken
+- Meanwhile, dice the chicken into small cubes. Over medium heat in the pan you used to cook the spinach, cook the chicken with oil and spices (garlic powder, onion powder, basil, thyme, and lemon pepper)
 
-- Meanwhile, dice the chicken into small cubes. Over medium heat in the pan, cook the chicken and spices (oil, salt, italian seasoning, onion and garlic powder, pepper, and basil)
-
-- When chicken is almost done, add the plate of spinach and pot of sauce to the pan and combine. Cook on medium heat until liquid has reduced and chicken is done. You want the sauce to be creamy, but not too liquidy where it’s runny. Serve
+- When chicken is almost done (165F), add the plate of spinach and pot of sauce to the pan and combine. Cook on medium heat until liquid has reduced and chicken is done. You want the sauce to be creamy, but not too liquidy where it’s runny. Serve
+- <center><img src="/assets/Food/Chicken/florentine/3-parts.jpg" alt="" class="instruction-image"></center>
 ---

@@ -21,7 +21,7 @@ section5:
 Prep: 10
 Rest: 60
 Cook: 
-Source1: 
+Source1: https://www.laurafuentes.com/no-bake-healthy-chocolate-chip-blondies/#recipe
 Source2: 
 whisk: https://s.samsungfood.com/Qfzxi
 tags: 

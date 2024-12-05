@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lemon Baba Ganoush without Oil"
+title:  "Lemon Baba Ganoush Without Oil"
 date:   2024-12-04 00:00:00 -05000
 categories: 
 - Recipes

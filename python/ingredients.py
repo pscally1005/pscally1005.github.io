@@ -85,7 +85,7 @@ def ingredients(food):
         return str("Red pepper flakes")
     elif food == "Spices, dried, parsley":
         return str("Parsley, dried")
-    elif food == "Powdered chicken, bouillon by Goya Foods, Inc." or food == "Powdered bouillon by Goya Foods, Inc.":
+    elif food == "Powdered chicken, bouillon by Goya Foods, Inc." or food == "Powdered bouillon by Goya Foods, Inc." or food == "Powdered chicken flavored bouillon by Goya Foods, Inc.":
         return str("Chicken bouillon powder")
     elif food == "Spices, ground, turmeric":
         return str("Turmeric, ground")
