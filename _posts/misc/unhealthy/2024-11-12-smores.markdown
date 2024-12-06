@@ -38,11 +38,11 @@ tags:
 - inside
 Description: It's starting to get cold outside, but that doesn't mean you can't still enjoy a s'more every now and then. You can whip one up in less than 5 minutes using your air fryer or oven, and dare I say that these taste better than the ones over the campfire
 Instructions: 
-- Preheat your air fryer to 400F, and prepare a small piece of parchment paper. Break your graham cracker in half<br><br>
-- <center><img src="/assets/Misc/Unhealthy/Smores/smores-ing.jpg" alt="" class="instruction-image"></center><br>
+- Preheat your air fryer to 400F, and prepare a small piece of parchment paper. Break your graham cracker in half
+- <center><img src="/assets/Misc/Unhealthy/Smores/smores-ing.jpg" alt="" class="instruction-image"></center>
 
-- Air fry the graham cracker, chocolate, and marshmallow for about 2 minutes, or until golden. Top with the other half of the cracker, and enjoy<br><br>
-- <center><img src="/assets/Misc/Unhealthy/Smores/smores-airfry.jpg" alt="" class="instruction-image"></center><br>
+- Air fry the graham cracker, chocolate, and marshmallow for about 2 minutes, or until golden. Top with the other half of the cracker, and enjoy
+- <center><img src="/assets/Misc/Unhealthy/Smores/smores-airfry.jpg" alt="" class="instruction-image"></center>
 
 - You can also use the oven as well. Use foil instead of parchment paper, and cook under the broiler for about 2 minutes, until golden
 ---

@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "7-Layer Bars"
+date:   2024-12-20 00:00:00 -05000
+categories: 
+- Recipes
+- Healthier Dessert
+permalink: /recipes/seven-layer-bars
+image: /assets/Food/Healthier Dessert/7 Layer/cover.jpg
+ing: 7layer-ing
+facts: 7layer-facts
+section1: Layer 7 - Condensed Milk
+start2: Oat flour
+section2: Layers 1 & 2 - Crust ("Graham crackers" and "butter")
+start3: Cocoa powder
+section3: Layer 3 - Chocolate
+start4: Almonds
+section4: Layers 4-6 - Nuts, more nuts, and coconut
+start5: 
+section5: 
+Prep: 35
+Rest: 15
+Cook: 25
+Source1: https://coconutsandkettlebells.com/grain-free-magic-cookie-bars/
+Source2: https://www.youtube.com/shorts/aghpPSZK0O8
+whisk: https://s.samsungfood.com/oChpZ
+tags: 
+- 7-layer
+- 7 layer
+- seven layer
+- hello dollies
+- magic bars
+- graham crackers
+- butter
+- chocolate chips
+- butterscotch chips
+- chopped nuts
+- sweetened condensed milk
+- coconut flakes
+- maple syrup
+- fat free evaporated milk
+- cocoa powder
+- coconut oil
+- almonds
+- cashews
+- pecans
+- macadamia nuts
+- chopped nuts
+Description: 7-Layer Bars, also known as Hello Dollies or Magic Bars, and a dessert built from seven different layers of dessert - graham crackers, butter, chocolate chips, butterscotch chips, chopped nuts, shredded coconut, and sweetened condensed milk. But I'm making these healthier today, which means an oat and coconut flour crust, homemade condensed milk, and allulose dark chocolate. The result is a delicious and healthier dessert that's gluten free and refined sugar free (replace the maple syrup for sugar free syrup for totally sugar free).  Perfect for Christmas time!
+Instructions: 
+- Preheat your oven to 350F, and line an 8" square pan with parchment paper.
+
+- Add the evaporated milk and maple syrup to a medium pot over medium heat. Bring to a slow boil, and allow it to simmer until it reduces by half, about 25 minutes, stirring frequently to ensure nothing sticks to the bottom of the pan
+
+- Remove the pan from the heat and stir in the vanilla extract. Set aside to cool for at least 10 minutes in the fridge
+- <center><img src="/assets/Food/Healthier Dessert/7 Layer/milk.jpg" alt="" class="instruction-image"></center>
+
+- Meanwhile, in a medium bowl, mix together the crust ingredients - oat flour, coconut flour, salt, cinnamon, melted coconut oil, and maple syrup. Evenly press the mixture into the pan. The dough should feel slightly crumbly, and you should have just enough dough to barely cover the base of the pan
+
+- Bake the crust for 10 minutes at 350F, then cool for at least 5 minutes
+- <center><img src="/assets/Food/Healthier Dessert/7 Layer/crust.jpg" alt="" class="instruction-image"></center>
+
+- As the milk boils and crust bakes, prepare your chocolate. Line a small glass container with parchment paper, and set aside. Combine cocoa powder, melted coconut oil, and allulose with a silicone spatula. Pour into the parchment lined pan, and freeze for at least 15 minutes to harden
+
+- Roughly chop your chocolate and your nuts (any 2 different kinds of nuts will do). Combine together with coconut flakes in a medium bowl
+- <center><img src="/assets/Food/Healthier Dessert/7 Layer/bowl.jpg" alt="" class="instruction-image"></center>
+
+- Add the chocolate, nuts, and coconut over the crust, and evenly pour the condensed milk over the top
+- <center><img src="/assets/Food/Healthier Dessert/7 Layer/raw.jpg" alt="" class="instruction-image"></center>
+
+- Bake at 350F for about 25 minutes, or until slightly golden on top. Place in the fridge to totally cook before slicing and serving
+- <center><img src="/assets/Food/Healthier Dessert/7 Layer/baked.jpg" alt="" class="instruction-image"></center>
+---

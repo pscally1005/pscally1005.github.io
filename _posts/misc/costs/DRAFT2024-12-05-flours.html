@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Making Homemade Flours"
+date:   2024-12-05 00:00:00 -05000
+categories: 
+- Misc.
+- Costs
+permalink: /misc/homemade-flours
+image: /assets/Misc/Costs/Flours/Flour.jpg
+tags: 
+- flour
+- all purpose
+- white
+- whole wheat
+- cake
+- bread
+- oat
+- almond
+- rye
+- chickpea
+---
+<u><b><font size="+2">Introduction</font></b></u><br>
+&emsp;When most people think of flour, they probably think if all purpose white flour.  Maybe their mind goes to ofther wheat based flours, like whole wheat flour, bread flour, or cake flour.<br><br>
+
+&emsp;But when swapping out these for other healthier, possibly gluten free flours, you may be prepared to pay more.  After all, all purpose flour is dirt cheap.  Below are some prices per pound for store-bought flours:<br><br>
+<ul id="food-list">
+    <li><a href="https://www.walmart.com/ip/Great-Value-All-Purpose-Enriched-Flour-5LB-Bag/10403017?classType=VARIANT&athbdg=L1200&from=/search">White Flour</a>: $0.47</li>
+    <li><a href="https://www.walmart.com/ip/King-Arthur-Flour-100-Premium-Whole-Wheat-Flour-80-oz/10535109?classType=REGULAR&from=/search">Whole Wheat Flour</a>: $1.12</li>
+    <li><a href="https://www.walmart.com/ip/King-Arthur-Flour-Unbleached-Cake-Flour/296231422?classType=REGULAR&from=/search">Cake Flour</a>: $2.62</li>
+    <li><a href="https://www.walmart.com/ip/King-Arthur-Unbleached-Flour-5-lbs/10535108?classType=VARIANT&athbdg=L1200&from=/search">Bread Flour</a>: $1.12</li>
+    <li><a href="https://www.walmart.com/ip/Bob-s-Red-Mill-Whole-Grain-Oat-Flour-20-oz/908498397?classType=REGULAR&athbdg=L1600&from=/search">Oat Flour</a>: $4.05</li>
+    <li><a href="https://www.walmart.com/ip/Great-Value-Superfine-Blanched-Almond-Flour-2-lb/896217647?classType=REGULAR&athbdg=L1300&from=/search">Almond Flour</a>: $4.92</li>
+    <li><a href="https://www.walmart.com/ip/Bob-s-Red-Mill-Organic-Dark-Rye-Flour-20-oz-Ready-to-Cook-Shelf-Stable-Bag-Whole-Grain/982117389?classType=REGULAR&athbdg=L1600&from=/search">Rye Flour</a>: $3.46</li>
+    <li><a href="https://www.walmart.com/ip/Bob-s-Red-Mill-Chickpea-Flour-16-oz/345534025?classType=REGULAR&from=/search">Chickpea Flour</a>: $8.44</li>
+    <li><a href="https://www.walmart.com/ip/Bob-s-Red-Mill-Millet-Flour-20-oz/654745001?classType=REGULAR&athbdg=L1200&from=/search">Millet Flour</a>: $3.26</li>
+    <li><a href="https://www.walmart.com/ip/Bob-s-Red-Mill-Flour-Spelt-Whole-Grain-22-oz/224853714?classType=REGULAR&athbdg=L1200&from=/search">Spelt Flour</a>: $3.78</li>
+    <li><a href="https://www.walmart.com/ip/Bob-s-Red-Mill-Brown-Rice-Flour-24-oz/234854661?classType=REGULAR&from=/search">Brown Rice Flour</a>: $3.42</li>
+    <li><a href="https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474?classType=REGULAR&athbdg=L1200&from=/search">Coconut Flour</a>: $2.92</li>
+    <li><a href="https://www.walmart.com/ip/Great-Value-Powdered-Peanut-Butter-30-oz/664689057?classType=VARIANT&from=/search">Peanut flour</a>: $5.59</li>
+    <li><a href="https://www.walmart.com/ip/Bob-s-Red-Mill-Super-Fine-Potato-Flour-24-oz-Pkg/436911578?classType=REGULAR&from=/search">Potato Flour</a>: $6.80</li>
+</ul>
+
+<script>
+    // Sort list alphabetically
+    const foodList = document.getElementById("food-list");
+    const items = Array.from(foodList.children);
+    items.sort((a, b) => a.textContent.localeCompare(b.textContent));
+
+    // Clear and re-add sorted items
+    foodList.innerHTML = "";
+    items.forEach(item => foodList.appendChild(item));
+</script>

@@ -45,8 +45,5 @@ Description: This pesto is more of a spread than a sauce, and is my personal fav
 Instructions: 
 - Toast the nuts over medium heat in a dry pan for 2-3 minutes.  Any nuts will work here - almonds, peanuts, pistachios, etc., or none if you have a nut allergy
 
-- Add the nuts, cheeses, spinach, garlic and salt to a food processor. Blend on high until everything is finely blended, about 45 seconds. Scrape down the sides if needed
-- <center><img src="/assets/Food/Savory Sauces/Creamy Pesto/pesto-2.jpg" alt="" class="instruction-image"></center>
-
-- Add in the cottage cheese and blend until fully combined. Season with salt to taste.  Transfer to a mason jar and store in the fridge for up to a few days
+- Add all ingredients to a food processor. Blend on high until everything is finely blended, about 45 seconds. Scrape down the sides if needed
 ---

@@ -132,6 +132,8 @@ def ingredients(food):
         return str("Date sweetened ketchup")
     
     # Baking
+    elif food == "Vanilla instant pudding by SHURFINE":
+        return str("Vanilla instant pudding mix")
     elif food == "Allulose plant-based sweetener by Dr. Desai Soap LLC":
         return str("Allulose")
     elif food == "Nabisco, Nabisco Grahams Crackers":
@@ -160,7 +162,7 @@ def ingredients(food):
         return str("Quick oats")
     elif food == "Rolled oats by MILLVILLE" or food == "Rolled oats whole grain by Bob's Red Mill Natural Foods, Inc." or food == "Oats by The Quaker Oats Company":
         return str("Rolled oats")
-    elif food == "Unsweetened coconut flakes by Hy-Vee, Inc." or food == "Shredded unsweetened coconut by Bob's Red Mill Natural Foods, Inc.":
+    elif food == "Unsweetened flaked coconut by Raley's" or food == "Unsweetened coconut flakes by Hy-Vee, Inc." or food == "Shredded unsweetened coconut by Bob's Red Mill Natural Foods, Inc." or food == "Unsweetened coconut flakes by Wal-Mart Stores, Inc.":
         return str("Unsweetened coconut flakes")
     elif food == "Applesauce, unsweetened" or food == "Unsweetened applesauce by Iga, Inc.":
         return str("Unsweetened applesauce")
@@ -230,6 +232,8 @@ def ingredients(food):
         return str("Fairlife skim milk")
     elif food == "Milk, with added vitamin A, evaporated, canned":
         return str("Evaporated milk")
+    elif food == "Milk, fat free (skim), evaporated":
+        return str("Fat free evaporated milk")
     elif food == "Eggs, egg whole, Large, Grade A" or food == "Large egg" or food == "Large Egg":
         return str("Egg")
     elif food == "100% liquid egg whites by KROGER":
@@ -480,6 +484,8 @@ def ingredients(food):
         return str("Cornmeal")
     
     # Meat & fish
+    elif food == "Beef, raw, liver, variety meats and by-products":
+        return str("Beef liver")
     elif food == "Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers":
         return str("Boneless skinless chicken breast")
     elif food == "Boneless skinless chicken thigh filets by PERDUE":

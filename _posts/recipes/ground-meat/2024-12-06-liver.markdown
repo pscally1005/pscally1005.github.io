@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Making Liver Taste Good"
+date:   2024-12-06 00:00:00 -05000
+categories: 
+- Recipes
+- Ground Meat
+permalink: /recipes/beef-liver
+image: /assets/Food/Ground Meat/Liver/cover.jpg
+ing: liver-ing
+facts: liver-facts
+section1: Potatoes
+start2: Frozen broccoli, thawed
+section2: Broccoli
+start3: Extra virgin olive oil
+section3: Liver
+start4: Creamy pesto dip
+section4: Sauce
+start5: 
+section5: 
+Prep: 15
+Rest: 
+Cook: 30
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/ehE7H
+tags: 
+- beef liver
+- broccoli
+- sweet potatoes
+- pesto
+- cottage cheese
+- sauce
+- vitamin a
+- vitamin b2
+- riboflavin
+- vitamin b5
+- pantothenic acid
+- vitamin b12
+- cobalamin
+- folate
+- vitamin b9
+- iron
+- choline
+- selenium
+- zinc
+- organ meat
+Description: Beef liver is one of the most nutritious foods you can eat. Obviously it's high in protein, but liver is also a very rich source of vitamins <a href="/misc/nutrient-alphabet#A">A</a>, <a href="/misc/nutrient-alphabet#R">B2</a>, B5, <a href="/misc/nutrient-alphabet#B">B12</a>, as well as <a href="/misc/nutrient-alphabet#F">folate</a>, choline, <a href="/misc/iron">iron</a>, copper, <a href="/misc/nutrient-alphabet#S">selenium</a>, and <a href="/misc/nutrient-alphabet#Z">zinc</a>. The problem is that most people dislike the taste of liver; so let's fix that. I'll be going with a simple formula of mixing in a carb (sweet potatoes) and vegetable (broccoli) to finely chopped liver, and covering it in a sauce (<a href="/recipes/creamy-pesto">Creamy Pesto Dip</a>). The result is a delicious and super healthy bowl, and no you can't taste the liver (or the cottage cheese)
+Instructions: 
+- Preheat your oven to 400F, and line 2 sheets with parchment paper
+
+- Wash your potatoes, and cut into a dice, leaving the skin on. Add to one pan, and mix with lemon, salt, and pepper
+
+- To the other pan, add your broccoli with lemon, salt, and pepper
+
+- Roast both the sweet potatoes and broccoli for about 30 minutes, or until soft and browned
+
+- Meanwhile, preheat a large cast iron pan with olive oil over medium high heat. Cut your liver into as small pieces as you can, and add to the pan with salt and pepper. Cook until no longer pink (>160F). Set aside
+- <center><img src="/assets/Food/Ground Meat/Liver/4-parts.jpg" alt="" class="instruction-image"></center>
+
+- Combine together the sweet potatoes, broccoli, liver, and sauce in a large metal bowl. Divide into 4 servings, and enjoy
+- <center><img src="/assets/Food/Ground Meat/Liver/combined.jpg" alt="" class="instruction-image"></center>
+---
