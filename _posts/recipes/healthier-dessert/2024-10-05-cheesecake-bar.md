@@ -40,10 +40,6 @@ tags:
 - peanut butter
 - natural peanut butter
 - nut butter
-- powdered peanut butter
-- pb2
-- pbfit
-- pb fit
 - dark chocolate
 - ganache
 - melted chocolate
@@ -53,6 +49,7 @@ tags:
 - gluten free
 - oats
 - rolled oats
+- coconut flour
 Description: These cheesecake bars don't even require you to have an oven. It has mildly sweet banana and honey oatmeal crust, filling with Greek yogurt that's flavored by natural peanut butter and dates, and all topped by melted dark chocolate and chopped peanuts. No bake not only makes the recipe easier, but it preserves all the probiotics in the yogurt, making this a great fermented food at dessert time. For having no protein powder, this dessert is high in protein, as well as a good source of healthy fats, fiber, and complex carbs.
 Instructions: 
 - In a bowl, mash a banana with the back of a fork. Combine together the rest of the crust ingredients with a silicone spatula - honey, cinnamon, vanilla, coconut flour, and rolled oats. Mix until well combined

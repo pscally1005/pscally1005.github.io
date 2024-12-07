@@ -42,9 +42,6 @@ tags:
 - oats
 - chopped nuts
 - nuts
-- pb2
-- nut flour
-- peanut flour
 - plain nonfat greek yogurt
 - yogurt
 - layer cake

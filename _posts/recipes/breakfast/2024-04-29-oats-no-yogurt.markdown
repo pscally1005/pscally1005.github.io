@@ -42,7 +42,6 @@ tags:
 - mashed banana
 - pumpkin
 - peanut butter
-- pb2
 - nuts
 - fruit
 - strawberries
