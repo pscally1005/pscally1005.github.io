@@ -242,7 +242,7 @@ def ingredients(food):
         return str("Whey protein powder, unflavored")
     elif food == "Cheese, large or small curd, dry, uncreamed, nonfat, cottage" or food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
         return str("Nonfat cottage cheese")
-    elif food == "Kraft Grated Parmesan Cheese" or food == "Grated parmesan cheese by POPE" or food == "Cheese, grated, parmesan":
+    elif food == "Cheese, grated, parmesan" or food == "Kraft Grated Parmesan Cheese" or food == "Grated parmesan cheese by POPE" or food == "Cheese, grated, parmesan":
         return str("Grated parmesan cheese")
     elif food == "Unsweetened original almond milk by Supervalu, Inc." or food == "Almond milk, unsweetened":
         return str("Unsweetened almond milk")
