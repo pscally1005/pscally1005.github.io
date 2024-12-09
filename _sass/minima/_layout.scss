@@ -620,6 +620,16 @@
   border-radius: 10px; /* Rounded corners */
 }
 
+.third-page {
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-grow: 2;
+  width: 30%;
+  aspect-ratio: 4 / 3; /* Ensures a 4:3 ratio */
+  object-fit: cover;
+  border-radius: 10px; /* Rounded corners */
+}
+
 // Full page width image
 .full-page {
   width: 100%;

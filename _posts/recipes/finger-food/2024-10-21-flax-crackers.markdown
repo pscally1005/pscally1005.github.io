@@ -4,7 +4,7 @@ title:  "Gluten Free Flaxseed Crackers"
 date:   2024-10-21 00:00:00 -0500
 categories: 
 - Recipes
-- Finger Food
+- Finger Foods
 permalink: /recipes/flaxseed-crackers
 image: /assets/Food/Finger Food/Flax Crackers/flax-crackers-cover.jpg
 ing: flaxcracker-ing
