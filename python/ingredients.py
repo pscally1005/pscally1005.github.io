@@ -364,6 +364,8 @@ def ingredients(food):
         return str("Vegetables")
 
     # Canned & jarred    
+    elif food == "sauce":
+        return str("Simple pasta sauce")
     elif food == "Fish, drained solids, canned, pink, salmon":
         return str("Canned salmon")
     elif food == "Tomato products, sauce, canned" or food == "Hunt's, pasta sauce, no added sugar, hunt's, pasta sauce, no added sugar by Conagra Brands, Inc.":

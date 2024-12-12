@@ -223,7 +223,7 @@ Egg whites,1.30,540.00,0.00241,0,0.00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.
 Unsweetened coconut flakes,2.64,196.00,0.01347,10,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Organic-Unsweetened-Coconut-Flakes-7-oz-198g/52796312?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
 Pitted dates,3.99,672.00,0.00594,62,74.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Dates,3.99,672.00,0.00594,62,74.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-100% chocolate,2.42,112.00,0.02161,40,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/chocolate-bar,0.0,0.0
+100% chocolate,0.95,113.00,0.00841,40,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/chocolate-bar,0.0,0.0
 Vanilla extract,1.67,224.00,0.00746,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Vanilla extract, or almond",1.67,224.00,0.00746,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Granulated monk fruit,6.98,336.00,0.02077,0,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Lakanto-Classic-Monk-Fruit-Sweetener-White-Sugar-Substitute-Zero-Calorie-Keto-Diet-Friendly-Net-Carbs-Glycemic-Baking-Extract-Replacement-Classic-1-l/353520824?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=VARIANT&from=/search,100.0,0.0
@@ -326,3 +326,4 @@ Whole wheat pita bread,0.27,60.00,0.00442,73,54.00,FALSE,TRUE,TRUE,TRUE,TRUE,TRU
 Vanilla instant pudding mix,0.98,96.22,0.01018,44,95.83,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,https://www.walmart.com/ip/Great-Value-Vanilla-Instant-Pudding-Pie-Filling-3-4-oz-Carton/10534174?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
 Beef liver,3.29,454.00,0.00725,0,3.89,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Creamy pesto dip,3.80,688.00,0.00552,25,7.44,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,/recipes/creamy-pesto,0.0,0.0
+Simple pasta sauce,2.69,800.00,0.00336,34,10.20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pasta-sauce,0.0,0.0

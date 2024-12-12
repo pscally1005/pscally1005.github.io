@@ -43,7 +43,7 @@ def fix(vol):
         return str("1.5 tbsp")
     elif vol == "0.1245 cup" or vol == "0.1225 cup" or vol == "2.2 level tbsp" or vol == "2.0100000000000002 tbsp" or vol == "6 teaspoons" or vol == "6 teaspoon" or vol == "1.9 tbsp" or vol == "0.5 1/4 cup" or vol == "0.1 cup" or vol == "6 tsp" or vol == "0.1254 cup" or vol == "0.125 cup, NFS" or vol == "0.125 cup" or vol == "6 tsp (5.0 ml) aprx" or vol == "6 tsp, leaves" or vol == "2 tbsp (15.0 ml) aprx" or vol == "2 tablespoon" or vol == "0.125 cup (240.0 ml) aprx":
         return str("2 tbsp")
-    elif vol == "0.185 cup" or vol == "3 tbsp, leaves" or vol == "9 tsp" or vol == "0.67 scoop" or vol == "0.66 1/4 cup" or vol == "9 tsp (5.0 ml) aprx" or vol == "9 tsp, leaves" or vol == "9 teaspoons" or vol == "0.1875 cup" or vol == "0.1875 cup (15.0 ml) aprx" or vol == "0.1875 cup (240.0 ml) aprx":
+    elif vol == "3 tablespoon" or vol == "0.185 cup" or vol == "3 tbsp, leaves" or vol == "9 tsp" or vol == "0.67 scoop" or vol == "0.66 1/4 cup" or vol == "9 tsp (5.0 ml) aprx" or vol == "9 tsp, leaves" or vol == "9 teaspoons" or vol == "0.1875 cup" or vol == "0.1875 cup (15.0 ml) aprx" or vol == "0.1875 cup (240.0 ml) aprx":
         return str("3 tbsp")
     elif vol == "15 tsp (5.0 ml) aprx" or vol == "15 tsp" or vol == "15 teaspoon" or vol == "15 teaspoons":
         return str("5 tbsp")
@@ -223,7 +223,7 @@ def fix(vol):
         return str("6 small")
     
     # eggs
-    elif vol == "1 egg" or vol == "2.44 beet (2 dia)" or vol == "1 large (2-1/4 per pound, approx 3-3/4 long, 3 dia.)":
+    elif vol == "1.25 eggplant, unpeeled (approx 1-1/4 lb)" or vol == "1 egg" or vol == "2.44 beet (2 dia)" or vol == "1 large (2-1/4 per pound, approx 3-3/4 long, 3 dia.)":
         return str("1 large")
     elif vol == "2 egg":
         return str("2 large")
