@@ -14,7 +14,7 @@
 
   <div class="recipe-date">
     <p class="post-meta">
-      {% include allergens.html %}
+      {% include allergenSymbols.html %}
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         <center>{{ page.date | date: date_format }}</center>

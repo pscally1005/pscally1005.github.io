@@ -27,6 +27,20 @@ layout: base
     </div>
   {% endif %}
 
+  <!-- Allergen filter -->
+  {% if page.categories != "Misc." or page.categories == "Misc." and page.title == "Unhealthy Recipes" %}
+    <center><div class="filter-options">
+      <label><input type="checkbox" id="glutenFree" /> Gluten-Free</label>
+      <label><input type="checkbox" id="vegetarian" /> Vegetarian</label>
+      <label><input type="checkbox" id="dairyFree" /> Dairy-Free</label>
+      <br>
+      <label><input type="checkbox" id="vegan" /> Vegan</label>
+      <label><input type="checkbox" id="nutFree" /> Nut-Free</label>
+      <label><input type="checkbox" id="sugarFree" /> Sugar-Free</label>
+      <br><br>
+    </div></center>
+  {% endif %}
+
   {{ content }}
 
   {% if site.paginate %}
@@ -77,7 +91,16 @@ layout: base
               {% continue %}
             {% endif %}
 
-            <div class="post-item" data-url="{{ post.url | relative_url }}">
+            <!-- Get allergens for filtering -->
+            {% include allergenFilter.html %}
+
+            <div class="post-item" data-url="{{ post.url | relative_url }}"
+                data-gluten-free="{{ gluten_free }}"
+                data-vegetarian="{{ vegetarian }}"
+                data-dairy-free="{{ dairy_free }}"
+                data-vegan="{{ vegan }}"
+                data-nut-free="{{ nut_free }}"
+                data-sugar-free="{{ sugar_free }}">
                 <a href="{{ post.url | relative_url }}">
                   <img src="{{ post.image | relative_url }}" alt="" class="blog-roll-image">
                   <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -87,11 +110,8 @@ layout: base
                   </h3>
                 </a>
                 
-                {% if 
-                  post.categories.first != "Misc." or
-                  post.categories.first == "Misc." and post.categories.last == "Unhealthy Recipes"  
-                %}
-                  {% include allergens.html %}
+                {% if post.categories.first != "Misc." or post.categories.first == "Misc." and post.categories.last == "Unhealthy Recipes" %}
+                  {% include allergenSymbols.html %}
                 {% endif %}
             </div>
 
@@ -128,15 +148,99 @@ layout: base
 
 <!-- JavaScript for shuffling posts -->
 <script>
+  // JavaScript for shuffling posts
   document.getElementById('button').addEventListener('click', function(event) {
     event.preventDefault();
+    
+    // Get the posts that are currently displayed (visible) after filtering
     var posts = document.querySelectorAll('.post-item');
-    if (posts.length > 0) {
-      var randomIndex = Math.floor(Math.random() * posts.length);
-      var randomPost = posts[randomIndex].getAttribute('data-url');
+    var visiblePosts = Array.from(posts).filter(function(post) {
+      return post.style.display !== 'none'; // Only include posts that are visible
+    });
+
+    // If there are any visible posts, shuffle one of them randomly
+    if (visiblePosts.length > 0) {
+      var randomIndex = Math.floor(Math.random() * visiblePosts.length);
+      var randomPost = visiblePosts[randomIndex].getAttribute('data-url');
       window.location.href = randomPost;
+    } else {
+      alert("No posts match the current filter criteria.");
     }
   });
+</script>
+
+<!-- JavaScript for filtering posts -->
+<script>
+  // Reset filters when the page is loaded or when the user presses the back button
+  window.addEventListener('load', function() {
+      resetFilters();
+      filterPosts();
+  });
+
+  // Listen for changes to the filter checkboxes
+  document.querySelectorAll('.filter-options input').forEach(function(input) {
+      input.addEventListener('change', function() {
+          filterPosts();
+      });
+  });
+
+  // Function to reset the filters
+  function resetFilters() {
+      // Reset all checkboxes to unchecked when page is loaded
+      document.querySelectorAll('.filter-options input[type="checkbox"]').forEach(function(checkbox) {
+          checkbox.checked = false;  // Uncheck all checkboxes
+      });
+  }
+
+  // Function to filter posts based on selected allergen values
+  function filterPosts() {
+      var posts = document.querySelectorAll('.post-item');
+      var glutenFreeChecked = document.getElementById('glutenFree').checked;
+      var vegetarianChecked = document.getElementById('vegetarian').checked;
+      var dairyFreeChecked = document.getElementById('dairyFree').checked;
+      var veganChecked = document.getElementById('vegan').checked;
+      var nutFreeChecked = document.getElementById('nutFree').checked;
+      var sugarFreeChecked = document.getElementById('sugarFree').checked;
+
+      var visibleCount = 0; // Initialize counter for visible posts
+
+      posts.forEach(function(post) {
+          var postGlutenFree = post.getAttribute('data-gluten-free') === "true";
+          var postVegetarian = post.getAttribute('data-vegetarian') === "true";
+          var postDairyFree = post.getAttribute('data-dairy-free') === "true";
+          var postVegan = post.getAttribute('data-vegan') === "true";
+          var postNutFree = post.getAttribute('data-nut-free') === "true";
+          var postSugarFree = post.getAttribute('data-sugar-free') === "true";
+
+          var shouldDisplay = true;
+          
+          if (glutenFreeChecked && !postGlutenFree) shouldDisplay = false;
+          if (vegetarianChecked && !postVegetarian) shouldDisplay = false;
+          if (dairyFreeChecked && !postDairyFree) shouldDisplay = false;
+          if (veganChecked && !postVegan) shouldDisplay = false;
+          if (nutFreeChecked && !postNutFree) shouldDisplay = false;
+          if (sugarFreeChecked && !postSugarFree) shouldDisplay = false;
+          
+          post.style.display = shouldDisplay ? 'block' : 'none';
+
+          if (shouldDisplay) {
+              visibleCount++; // Increment counter for visible posts
+              post.querySelector('.post-count').textContent = visibleCount + '.'; // Update post number
+          }
+      });
+
+      // Update the post count at the top of the page
+      var postCountElement = document.querySelector('.page-post-count');
+      if (postCountElement) {
+          postCountElement.textContent = visibleCount + " result(s)"; // Update the total count
+      }
+  }
+
+  // Listen for changes to the filter checkboxes
+  document.querySelectorAll('.filter-options input').forEach(function(input) {
+      input.addEventListener('change', filterPosts);
+  });
+
 </script>
 
 <style>

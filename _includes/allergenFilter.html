@@ -1,0 +1,48 @@
+{% assign gluten_free = "true" %}
+{% assign vegetarian = "true" %}
+{% assign dairy_free = "true" %}
+{% assign vegan = "true" %}
+{% assign nut_free = "true" %}
+{% assign sugar_free = "true" %}
+
+<!-- Loop through ingredients file to determine allergens -->
+{% for row in site.data[post.ing] %}
+    {% if forloop.last %}
+        {% continue %}
+    {% else %}
+        {% assign food = row["Ingredient"] %}
+
+        <!-- Check for allergies in the foods data file -->
+        {% for food_row in site.data.foods %}
+            {% if food == food_row["Food"] %}
+                {% if food_row["Gluten Free"] == "FALSE" %}
+                    {% assign gluten_free = "false" %}
+                {% endif %}
+                {% if food_row["Vegetarian"] == "FALSE" %}
+                    {% assign vegetarian = "false" %}
+                {% endif %}
+                {% if food_row["Dairy Free"] == "FALSE" %}
+                    {% assign dairy_free = "false" %}
+                {% endif %}
+                {% if food_row["Vegan"] == "FALSE" %}
+                    {% assign vegan = "false" %}
+                {% endif %}
+                {% if food_row["Nut Free"] == "FALSE" %}
+                    {% assign nut_free = "false" %}
+                {% endif %}
+                {% if food_row["Sugar Free"] == "FALSE" %}
+                    {% assign sugar_free = "false" %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+{% if post.categories.first == "Misc." and post.categories.last != "Unhealthy Recipes" %}
+    {% assign gluten_free = "false" %}
+    {% assign vegetarian = "false" %}
+    {% assign dairy_free = "false" %}
+    {% assign vegan = "false" %}
+    {% assign nut_free = "false" %}
+    {% assign sugar_free = "false" %}
+{% endif %}

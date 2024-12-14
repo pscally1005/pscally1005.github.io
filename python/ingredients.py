@@ -378,7 +378,7 @@ def ingredients(food):
         return str("Diced tomatoes")
     elif food == "Tomatoes, canned, crushed" or food == "Canned crushed tomatoes":
         return str("Crushed tomatoes")
-    elif food == "Tomato paste" or food == "Tomato paste by FIESTA" or food == "Tomato paste by REDPACK" or food == "Tomato products, paste, canned" or food == "Canned tomato paste" or food == "Tomato paste, canned" or food == "Tomato paste by TAT":
+    elif food == "Tomato products, without salt added, paste, canned" or food == "Tomato paste" or food == "Tomato paste by FIESTA" or food == "Tomato paste by REDPACK" or food == "Tomato products, paste, canned" or food == "Canned tomato paste" or food == "Tomato paste, canned" or food == "Tomato paste by TAT":
         return str("Tomato paste, canned")
     elif food == "Grape leaves, raw":
         return str("Grape leaves")
