@@ -484,6 +484,8 @@ def ingredients(food):
         return str("Red lentil pasta")
     elif food == "Cornmeal, yellow, whole-grain":
         return str("Cornmeal")
+    elif food == "cracker":
+        return str("Gluten free graham crackers")
     
     # Meat & fish
     elif food == "Beef, raw, liver, variety meats and by-products":

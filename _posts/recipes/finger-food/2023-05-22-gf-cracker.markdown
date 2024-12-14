@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Gluten Free Crackers"
+title:  "Gluten Free Graham Crackers"
 date:   2023-05-22 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Foods
 permalink: /recipes/gf-crackers
-image: /assets/Food/Finger Food/GF Crackers/cracker-cover.jpg
+image: /assets/Food/Finger Food/GF Crackers/cover.jpg
 ing: cracker-ing
 facts: cracker-facts
 section1: 
@@ -33,13 +33,16 @@ tags:
 - butter
 - peanut
 - snack
-Description: These healthy oat flour <a href="/misc/fake-healthy-foods#crackers">crackers</a> are gluten free, and somewhat reminiscent of a graham cracker. They're made with only a little amount of fat and sugar, and go great with anything savory or sweet. If you wanted to use them for s'mores, simply just cut them into bigger pieces.  For a whole wheat based cracker recipe instead, see my <a href="triscuits">Copycat Triscuit Crackers</a> recipe
+Description: Graham <a href="/misc/fake-healthy-foods#crackers">crackers</a> were always one of my favorite snacks as a kid, so here I've made them healthier and gluten free.  They're lower in fat and sugar than traditional, replacing the butter and sugar with unsweetened applesauce, peanut butter, and maple syrup.  Here's some great uses for graham crackers:<br><ul><li>Pair with a <a href="/recipes/chocolate-bar">Sugar Free Chocolate Bar</a> and make a healthier <a href="/recipes/smores">Indoor Roasted S'more</a></li><li>Dip into a sweet spread like <a href="/recipes/date-frosting">Date Sweetened Frosting</a> or <a href="/recipes/banana-bread-hummus">Banana Bread Hummus Spread</a></li><li>Combine crushed crumbs with milk and applesauce to make a <a href="/recipes/pie-crust">Healthier Graham Cracker Pie Crust</a></li</ul>
 Instructions: 
-- In a large glass bowl, melt the peanut butter. Add all ingredients to a bowl and mix with a wooden spoon. Gently knead a few times
-- <center><img src="/assets/Food/Finger Food/GF Crackers/cracker-1.jpg" alt="" class="instruction-image"></center>
+- Preheat your oven to 350F, and take out a large cookie sheet
 
-- Roll between 2 sheets of parchment paper. Cut into cracker shape using a pizza cutter
-- <center><img src="/assets/Food/Finger Food/GF Crackers/cracker-2.jpg" alt="" class="instruction-image"></center>
+- In a large glass bowl, melt the peanut butter. Add all ingredients to a bowl and mix with a silicone spatula. Gently knead a few times to form a dough
+- <center><img src="/assets/Food/Finger Food/GF Crackers/dough.jpg" alt="" class="instruction-image"></center>
 
-- Bake at 350F for 20 minutes
+- Roll out between 2 sheets of parchment paper to about 1/8" - 1/4" thick.  Use a pizza wheel to trim up the edges, making an even rectangle.  Cut into crackers, and poke with a fork
+- <center><img src="/assets/Food/Finger Food/GF Crackers/cut.jpg" alt="" class="instruction-image"></center>
+
+- Leaving the crackers on the paper, transfer to the sheet.  Bake at 350F for 16-20 minutes, or until lightly golden brown.  Transfer to a wire rack to cool completely
+- <center><img src="/assets/Food/Finger Food/GF Crackers/baked.jpg" alt="" class="instruction-image"></center>
 ---

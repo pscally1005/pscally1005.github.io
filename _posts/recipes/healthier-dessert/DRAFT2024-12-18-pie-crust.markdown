@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Healthier Graham Cracker Pie Crust"
+date:   2024-12-18 00:00:00 -05000
+categories: 
+- Recipes
+- Healthier Dessert
+permalink: /recipes/pie-crust
+image: /assets/Food/Healthier Dessert/Pie Crust/pie.jpg
+ing: piecrust-ing
+facts: piecrust-facts
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 10
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/JSWCl
+tags: 
+- pie crust
+- cheese cake
+- cheesecake
+- graham crackers
+- apple pie
+- peanut butter pie
+- banana cream pie
+- pumpkin pie
+- unsweetened vanilla almond milk
+- unsweetened applesauce
+- gluten free
+Description: Graham cracker crusts are staples of most pies, and typically made out of graham cracker crumbs, melted butter, and sometimes additional sugar. Instead, I'm replacing store-bought crackers with my own <a href="/recipes/gf-crackers">Gluten Free Graham Crackers</a>, and subbing out the butter for unsweetened applesauce. The result is a very similar crust with a fraction of the fat, sugar, and calories
+Instructions: 
+- Blend graham crackers in a food processor until you have a fine crumb. Blend in the applesauce. The dough should look too dry, but just come together with pressed with your hands
+
+- Transfer to an 8" circular pan, and use a measuring cup to evenly press into the bottom and sides
+
+- Blind bake the pie crust at 350F for about 10 minutes, or until lightly golden brown on the edges. Let cool completely before filling
+- <center><img src="/assets/Food/Healthier Dessert/Pie Crust/baked.jpg" alt="" class="instruction-image"></center>
+
+- The pie pictured in the thumbnail is just this healthy pie crust filled with my <a href="/recipes/date-frosting">Date Sweetened Frosting</a> for a creamy, sweet, and delicious no bake pie!
+- <center><img src="/assets/Food/Healthier Dessert/Pie Crust/pie.jpg" alt="" class="instruction-image"></center>
+---
