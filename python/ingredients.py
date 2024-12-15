@@ -31,6 +31,8 @@ def ingredients(food):
         return str("Cooked navy beans")
     
     # Spices
+    elif food == "Garam masala by NATCO Foods Ltd":
+        return str("Garam masala")
     elif food == "Spices, dried, rosemary":
         return str("Rosemary, dried")
     elif food == "Salt, table" or food == "Table salt by FIRST STREET" or food == "Table salt by Morton Salt, Inc." or food == "Salt by Morton Salt, Inc." or food == "Table salt by Cardenas Markets":
@@ -492,7 +494,7 @@ def ingredients(food):
         return str("Beef liver")
     elif food == "Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers":
         return str("Boneless skinless chicken breast")
-    elif food == "Boneless skinless chicken thigh filets by PERDUE":
+    elif food == "Chicken, raw, meat only, thigh, dark meat, broilers or fryers" or food == "Boneless skinless chicken thigh filets by PERDUE":
         return str("Boneless skinless chicken thighs")    
     elif food == "Chicken, raw, meat and skin, wing, broilers or fryers":
         return str("Chicken wings")

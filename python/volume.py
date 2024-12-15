@@ -27,6 +27,8 @@ def fix(vol):
         return str("3/4 tsp")
     elif vol == "1 teaspoonsful (10.0 ml) aprx" or vol == "1.2 tsp" or vol == "1.1 tsp" or vol == "1 tsp (1.0 ml) aprx" or vol == "0.33 tbsp" or vol == "1.15 tsp" or vol == "8 1/8 tsp" or vol == "0.33 tbsp (15.0 ml) aprx" or vol == "0.25 tbsp" or vol == "1 tsp (5.0 ml) aprx" or vol == "1 tsp, leaves" or vol == "1 tsp, ground" or vol == "1 tsp | about" or vol == "1 tsp (1.2 ml) aprx" or vol == "1 teaspoon" or vol == "0.33 tablespoon" or vol == "4 1/4 tsp" or vol == "1 tsp aprx":
         return str("1 tsp")
+    elif vol == "5 1/4 tsp":
+        return str("1.25 tsp")
     elif vol == "0.7 tablespoon" or vol == "8 1/4 tsp" or vol == "0.66 tbsp" or vol == "2 tsp, ground" or vol == "0.67 tbsp" or vol == "2 tsp (5.0 ml) aprx" or vol == "0.66 tbsp (15.0 ml) aprx" or vol == "0.67 tbsp (15.0 ml) aprx" or vol == "2 tsp, leaves" or vol == "2 tsp, leaves" or vol == "2 tsp | about" or vol == "2 tsp (1.2 ml) aprx" or vol == "2 teaspoon" or vol == "0.67 tablespoon" or vol == "0.66 tablespoon" or vol == "6 1/4 tsp":
         return str("2 tsp")
     elif vol == "20 1/8 tsp":
@@ -71,7 +73,7 @@ def fix(vol):
         return str("3/4 cup")
     elif vol == "0.815 cup":
         return str("7/8 cup")
-    elif vol == "0.914 cup" or vol == "0.98 cup" or vol == "1.95 1/2 cup" or vol == "0.99 cup" or vol == "1 cup whole kernels" or vol == "0.922 cup" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
+    elif vol == "0.9975 cup" or vol == "0.914 cup" or vol == "0.98 cup" or vol == "1.95 1/2 cup" or vol == "0.99 cup" or vol == "1 cup whole kernels" or vol == "0.922 cup" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
         return str("1 cup")
     elif vol == "1.0989 cup":
         return str("1 heaping cup")
