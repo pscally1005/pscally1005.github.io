@@ -77,7 +77,7 @@ def fix(vol):
         return str("1 cup")
     elif vol == "1.0989 cup":
         return str("1 heaping cup")
-    elif vol == "60 tsp" or vol == "2.5 1/2 cup":
+    elif vol == "60 tsp" or vol == "2.5 1/2 cup" or vol == "20 tbsp":
         return str("1.25 cup")
     elif vol == "1.32 cup" or vol == "1.33 cup (240.0 ml) aprx":
         return str("1.33 cup")
@@ -205,7 +205,7 @@ def fix(vol):
         return str("1 medium")
     elif vol == vol == "2.18 small (6 to 6-7/8 long)" or vol == "2 fruit, without skin and seed" or vol == "2 medium (2-1/2 dia)" or vol == "2 banana" or vol == "2 Banana" or vol == "2 onion" or vol == "2 Onion" or vol == "2 medium bell peppers" or vol == "2 whole" or vol == "2 English" or vol == "2 Italian tomato"or vol == "2 plum tomato" or vol == "2 small" or vol == "2 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("2 medium")
-    elif vol == "3.27 small (6 to 6-7/8 long)" or vol == "3 fruit, without skin and seed" or vol == "3 medium (approx 2-3/4 long, 2-1/2 dia.)" or vol == "3 banana" or vol == "3 Banana" or vol == "3 onion" or vol == "3 Onion" or vol == "3 medium bell peppers" or vol == "3 whole" or vol == "3 English" or vol == "3 Italian tomato"or vol == "3 plum tomato" or vol == "3 small" or vol == "3 eggplant, unpeeled (approx 1-1/4 lb)":
+    elif vol == "3 medium (2-1/2 dia)" or vol == "3.27 small (6 to 6-7/8 long)" or vol == "3 fruit, without skin and seed" or vol == "3 medium (approx 2-3/4 long, 2-1/2 dia.)" or vol == "3 banana" or vol == "3 Banana" or vol == "3 onion" or vol == "3 Onion" or vol == "3 medium bell peppers" or vol == "3 whole" or vol == "3 English" or vol == "3 Italian tomato"or vol == "3 plum tomato" or vol == "3 small" or vol == "3 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("3 medium")
     elif vol == "4.36 small (6 to 6-7/8 long)" or vol == "4 medium (2-1/2 dia)" or vol == "4 fruit, without skin and seed" or vol == "4 banana" or vol == "4 Banana" or vol == "4 onion" or vol == "4 Onion" or vol == "4 medium bell peppers" or vol == "4 whole" or vol == "4 English" or vol == "4 Italian tomato"or vol == "4 plum tomato" or vol == "4 small" or vol == "4 eggplant, unpeeled (approx 1-1/4 lb)":
         return str("4 medium")
