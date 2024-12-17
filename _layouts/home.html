@@ -28,17 +28,22 @@ layout: base
   {% endif %}
 
   <!-- Allergen filter -->
-  {% if page.categories != "Misc." or page.categories == "Misc." and page.title == "Unhealthy Recipes" %}
-    <center><div class="filter-options">
-      <label><input type="checkbox" id="glutenFree" /> Gluten-Free</label>
-      <label><input type="checkbox" id="vegetarian" /> Vegetarian</label>
-      <label><input type="checkbox" id="dairyFree" /> Dairy-Free</label>
-      <br>
-      <label><input type="checkbox" id="vegan" /> Vegan</label>
-      <label><input type="checkbox" id="nutFree" /> Nut-Free</label>
-      <label><input type="checkbox" id="sugarFree" /> Sugar-Free</label>
-      <br><br>
-    </div></center>
+  {% if 
+    page.categories != "Misc." or 
+    page.categories == "Misc." and page.title == "Unhealthy Recipes"
+  %}
+    {% unless page.title == "Search" %}
+      <center><div class="filter-options">
+        <label><input type="checkbox" id="glutenFree" /> Gluten-Free</label>
+        <label><input type="checkbox" id="vegetarian" /> Vegetarian</label>
+        <label><input type="checkbox" id="dairyFree" /> Dairy-Free</label>
+        <br>
+        <label><input type="checkbox" id="vegan" /> Vegan</label>
+        <label><input type="checkbox" id="nutFree" /> Nut-Free</label>
+        <label><input type="checkbox" id="sugarFree" /> Sugar-Free</label>
+        <br><br>
+      </div></center>
+    {% endunless %}
   {% endif %}
 
   {{ content }}
