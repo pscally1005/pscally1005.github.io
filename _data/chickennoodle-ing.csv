@@ -4,8 +4,7 @@ Ingredient,Amount,Unit,Description
 "Celery",113,g,"4 oz"
 "Frozen broccoli, thawed",680,g,"1.5 lb"
 "Minced garlic",30,g,"2 tbsp"
-"Ginger, fresh",28,g,"1 oz"
-"Whole wheat pasta",170,g,"6 oz"
+"Ginger, fresh",56,g,"2 oz"
 "Boneless skinless chicken thighs",907,g,"2 lb"
 "Low sodium soy sauce",28,g,"2 tbsp"
 "Chicken bouillon powder",24,g,"2 tbsp"
@@ -20,5 +19,6 @@ Ingredient,Amount,Unit,Description
 "Nutmeg, ground",1,g,"1/2 tsp"
 "Cayenne pepper",1,g,"1/2 tsp"
 "Water",960,g,"4 cup"
+"Red lentil pasta",170,g,"6 oz"
 "Lemon juice",60,g,"1/4 cup"
 Servings,6
