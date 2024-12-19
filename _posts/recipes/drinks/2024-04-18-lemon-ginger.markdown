@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Drinks
 permalink: /recipes/lemon-ginger-tea
-image: /assets/Food/Drinks/Lemon Ginger/lemon-ginger.jpg
+image: /assets/Food/Drinks/Lemon Ginger/cover.jpg
 ing: lemonginger-ing
 facts: lemonginger-facts
 section1: 
