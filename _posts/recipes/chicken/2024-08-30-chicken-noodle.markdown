@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Chicken
 permalink: /recipes/chicken-noodle-stew
-image: /assets/Food/Chicken/Chicken Noodle/chicken-noodle-cover.jpg
+image: /assets/Food/Chicken/Chicken Noodle/cover.jpg
 ing: chickennoodle-ing
 facts: chickennoodle-facts
 section1: Veggies
