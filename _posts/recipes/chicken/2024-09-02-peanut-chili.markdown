@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peanut Chicken Chili"
-date:   2024-09-01 00:00:00 -0500
+date:   2024-09-02 00:00:00 -0500
 categories:
 - Recipes
 - Chicken

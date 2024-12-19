@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chicken Noodle Stew"
-date:   2024-08-31 00:00:00 -0500
+date:   2024-08-30 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
