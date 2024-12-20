@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Air Fryer Biscotti"
-date:   2024-12-24 00:00:00 -05000
+date:   2024-12-25 00:00:00 -05000
 categories: 
 - Recipes
 - Finger Foods
@@ -37,7 +37,7 @@ tags:
 - dip
 - almonds
 - oat flour
-Description: Biscotti are Italian cookies that are baked twice and traditionally dipped in either coffee, tea, or hot chocolate.  This is a small batch of homemade that's free of gluten and refined sugar, and baked in your air fryer, so they're nice and crunchy
+Description: Merry Christmas!  What better way to enjoy a morning Christmas brunch with your family than by dipping homemade biscotti into your coffee or hot chocolate.  This is a small batch of homemade that's free of gluten and refined sugar, and baked in your air fryer, so they're nice and crunchy
 Instructions: 
 - Preheat your air fryer to 360F, and cut a piece of parchment paper that will fit inside.  You can also use an air fryer liner
 

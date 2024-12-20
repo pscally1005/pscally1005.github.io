@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Date Cuccidati Cookies"
-date:   2024-12-25 00:00:00 -05000
+date:   2024-12-24 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert

@@ -216,10 +216,11 @@ Shredded cheddar cheese,2.22,224.00,0.00991,27,3.09,TRUE,TRUE,FALSE,FALSE,TRUE,T
 Pine nuts,6.92,112.00,0.06179,10,19.30,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Pork tenderloin,3.43,454.00,0.00756,0,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Sugar free chocolate chips,3.97,252.00,0.01575,23,60.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Bake-Believe-Keto-Friendly-Dark-Chocolate-Chips-9-oz-Pouch/314343390?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&athbdg=L1600&from=/search,20.0,0.0
-Chocolate chips,3.97,252.00,0.01575,52,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
-Semisweet chocolate chips,2.32,336.00,0.00690,52,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
-Semi-sweet chocolate chips,2.32,336.00,0.00690,52,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
+Chocolate chips,3.97,252.00,0.01575,45,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
+Semisweet chocolate chips,2.32,336.00,0.00690,45,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
+Semi-sweet chocolate chips,2.32,336.00,0.00690,45,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
 Semisweet chocolate chips (optional),2.32,336.00,0.00690,0,0.00,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
+Dark chocolate chips,2.32,336.00,0.00690,23,52.42,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
 Egg whites,1.30,540.00,0.00241,0,0.00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Unsweetened coconut flakes,2.64,196.00,0.01347,10,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Organic-Unsweetened-Coconut-Flakes-7-oz-198g/52796312?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
 Pitted dates,3.99,672.00,0.00594,62,74.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
