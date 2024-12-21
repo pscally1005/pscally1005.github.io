@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Almond Date Brownies"
+title:  "Almond Butter Date Brownies"
 date:   2023-09-02 00:00:00 -05000
 categories: 
 - Recipes
