@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/caramelized-onions
-image: /assets/Food/Savory Sauces/Caramel Onions/caramel-cover.jpg
+image: /assets/Food/Savory Sauces/Caramel Onions/cooked.jpg
 ing: onions-ing
 facts: onions-facts
 section1: 
@@ -37,7 +37,7 @@ tags:
 Description: Caramelized onions are simple and delicious, but take a while with often stirring on the stove. I've done them in a slow cooker here, so you can let them go all day, and check on them every hour or so. Caramelized Onions are great on nearly everything, give it a go
 Instructions: 
 - Slice all your onions, and add to a large slow cooker. Season, and mix, making sure to separate the onions from other layers
-- <center><img src="/assets/Food/Savory Sauces/Caramel Onions/caramel-1.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Savory Sauces/Caramel Onions/raw.jpg" alt="" class="instruction-image"></center>
 
-- Cover and cook on high for 8-10 hours, stirring occasionally. Deglaze with some white wine if needed.  Store in a container in the fridge
+- Cover and cook on high for about 8 hours, stirring occasionally, until soft, jammy, and fragrant. Deglaze with some white wine or water if needed.  Store in a container in the fridge
 ---
