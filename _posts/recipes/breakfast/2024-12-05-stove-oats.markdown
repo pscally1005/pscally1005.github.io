@@ -45,6 +45,6 @@ Instructions:
 
 - Pour in the milk, and let simmer for about 3 minutes with ocassional stirring
 
-- Remove from the heat and mix in the rest of the ingredients. Transfer to a bowl, and serve
+- Remove from the heat and mix in the rest of the ingredients, and transfer to a bowl.  Serve now warm, or refrigerate overnight and serve the next day cold.
 - <center><img src="/assets/Food/Breakfast/Stovetop Oats/pot.jpg" alt="" class="instruction-image"></center>
 ---

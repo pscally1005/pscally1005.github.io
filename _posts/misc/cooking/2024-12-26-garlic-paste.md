@@ -5,7 +5,7 @@ date:   2024-12-26 00:00:00 -05000
 categories: 
 - Misc.
 - Cooking Tips
-permalink: /misc/ground-chicken
+permalink: /misc/garlic-paste
 image: /assets/Misc/Cooking/Garlic Paste/cover.jpg
 tags: 
 - garlic

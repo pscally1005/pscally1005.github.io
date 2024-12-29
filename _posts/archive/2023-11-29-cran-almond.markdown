@@ -5,6 +5,7 @@ date:   2023-11-29 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+- Archive
 permalink: /recipes/cran-almond
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cran-almond.jpg
 ing: cranalmond-ing

@@ -5,6 +5,7 @@ date:   2023-11-01 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+- Archive
 permalink: /recipes/yogurt-apple
 image: /assets/Food/Breakfast/Yogurt/yogurt-apple.jpg
 ing: yogurtapple-ing

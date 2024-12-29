@@ -82,8 +82,10 @@ include:
 
 sitemap: 
   url: https://www.poormanprotein.com/sitemap.xml
+  baseurl: ""
 
 url: https://www.poormanprotein.com
+baseurl: ""
 
 jekyll_seo_tag:
   keywords: false
