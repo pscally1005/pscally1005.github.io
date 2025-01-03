@@ -208,18 +208,20 @@ def ingredients(food):
         return str("Granulated sugar")
     elif food == "Unsalted butter by FAREWAY" or food == "Butter, without salt":
         return str("Unsalted butter")
-    elif food == "All purpose flour by PIONEER" or food == "Wheat flour, bleached, enriched, all-purpose, white":
+    elif food == "All purpose flour by PIONEER" or food == "Wheat flour, bleached, enriched, all-purpose, white" or food == "Wheat flour, unenriched, all-purpose, white":
         return str("All purpose flour")
     elif food == "duncan hines keto brownie mix":
         return str("Duncan Hines Keto Brownie Mix")
     elif food == "Cocoa, unsweetened, dry powder":
         return str("Cocoa powder")
-    elif food == "Sugar, powdered, confectioner's, white":
+    elif food == "Sugar, powdered, confectioner's, white" or food == "Sugars, powdered":
         return str("Powdered sugar")
     elif food == "Vegetable oil, palm kernel" or food == "Oil, canola" or food == "Vegetable oil" or food == "Oil, corn and canola":
         return str("Canola oil")
     elif food == "Pumpkin, raw":
         return str("Sugar pumpkin")
+    elif food == "Chickpea flour (besan)":
+        return str("Chickpea flour")
     
     # Dairy & Eggs
     elif food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Shredded mozzarella cheese" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":

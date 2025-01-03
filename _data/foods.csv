@@ -20,7 +20,7 @@ White vinegar,3.74,"3,780.00",0.00099,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,
 "White vinegar, or apple cider vinegar",3.74,"3,780.00",0.00099,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Vital wheat gluten,23.74,"1,816.00",0.01307,51,13.79,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/Vital-Gluten-Anthonys-Pounds-Protein/dp/B00PB8U7Y0/ref=sr_1_4?s=grocery&sr=1-4,0.0,0.0
 Whole wheat flour,5.58,"2,240.00",0.00249,75,74.48,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Oat flour,3.98,"1,176.00",0.00338,40,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Oat flour,3.98,"1,176.00",0.00338,40,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/misc/homemade-flours,0.0,0.0
 Rolled oats,3.98,"1,176.00",0.00338,40,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Quick oats,3.98,"1,176.00",0.00338,40,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Rolled oats, or quick",3.98,"1,176.00",0.00338,40,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -331,3 +331,4 @@ Creamy pesto dip,3.80,688.00,0.00552,25,7.44,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.
 Simple pasta sauce,2.69,800.00,0.00336,34,10.20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pasta-sauce,0.0,0.0
 Gluten free graham crackers,1.63,300.00,0.00543,42,60.40,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4.4,/recipes/gf-crackers,0.0,0.0
 Garam masala,2.99,48.11,0.06215,15,70.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/McCormick-Gourmet-Garam-Masala-Blend-1-7-oz/10309043?classType=REGULAR&from=/search,0.0,0.0
+Chickpea flour,1.50,454.00,0.00330,38,62.95,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/misc/homemade-flours,0.0,0.0

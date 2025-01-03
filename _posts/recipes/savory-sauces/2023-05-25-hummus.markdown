@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/hummus
-image: /assets/Food/Savory Sauces/Hummus/hummus.jpg
+image: /assets/Food/Savory Sauces/Hummus/cover.jpg
 ing: hummus-ing
 facts: hummus-facts
 section1: 
