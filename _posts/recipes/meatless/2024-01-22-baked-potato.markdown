@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Meatless
 permalink: /recipes/baked-sweet-potato
-image: /assets/Food/Meatless/Baked Potato/baked-potato-cover.jpg
+image: /assets/Food/Meatless/Baked Potato/baked-potato-2.jpg
 ing: potato-ing
 facts: potato-facts
 section1: 
@@ -37,5 +37,5 @@ Instructions:
 - Wash your sweet potato, and prick it a few times with a fork. Wrap in aluminum foil, and air fry at 400F for 45 minutes
 
 - Slice in half, and let steam out before eating. Optionally, top with a small pinch of salt
-- <center><img src="/assets/Food/Meatless/Baked Potato/baked-potato-2.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Meatless/Baked Potato/baked-potato-1.jpg" alt="" class="instruction-image"></center>
 ---
