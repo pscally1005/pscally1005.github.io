@@ -6,22 +6,22 @@ categories:
 - Recipes
 - Meatless
 permalink: /recipes/baked-rice-and-beans
-image: /assets/Food/Meatless/Baked RB/baked-rb.jpg
+image: /assets/Food/Meatless/Baked RB/cover.jpg
 ing: bakedrb-ing
 facts: bakedrb-facts
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
+section1: Step 1
+start2: Minced garlic
+section2: Step 2
+start3: Brown rice
+section3: Step 3
 start4: 
 section4: 
 start5: 
 section5: 
-Prep: 30
+Prep: 15
 Rest: 
-Cook: 90
-Source1: 
+Cook: 105
+Source1: https://www.youtube.com/watch?v=ntd_Y2eywc4
 Source2: 
 whisk: https://s.samsungfood.com/LO2mH
 tags: 
@@ -34,17 +34,20 @@ tags:
 - tomato
 - lunch
 - spicy
-Description: This simple baked rice and beans also mixed together vegetables and a spicy sauce. Brown rice is used here instead of <a href="/misc/fake-healthy-foods#white-rice">white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks.
+- carrots
+- onions
+- peppers
+- diced green chiles
+Description: This simple baked rice and beans also mixed together vegetables and a spicy sauce.  Brown rice is used here instead of <a href="/misc/fake-healthy-foods#white-rice">white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a side of nuts, fruit, or protein.
 Instructions: 
-- Preheat oven to 400F.  Cut your vegetables (peppers, carrots, and onions) into a medium dice
+- Preheat your oven to 400F. Heat a large Dutch oven over medium heat with olive oil. Cut your peppers, onions, and carrots into a small dice. Add salt, stir, cover, and cook for about 10 minutes, or until the peppers begin to soften and the onions start to turn translucent
 
-- Heat olive oil in a dutch oven over medium heat. Sauteed onion, carrots, and peppers for 5 minutes
+- Add in garlic, diced green chilies, chipotle peppers in adobo, and your beans (not drained or rinsed). Any canned beans will work; I used a can each of kidney, pinto, and cannellini here. Bring to a boil over high heat, cover, and let cook for 10 minutes
 
-- Add garlic, chipotle peppers in adobo, and diced green chiles. Use some water to get the rest of the stuff from the cans. Cook for about 10 minutes over high, or until most of water has cooked off
+- Add the rest of the ingredients to the pot, and stir to combine - brown rice, water, tomato paste, apple cider vinegar, soy sauce, chicken bouillon powder chili powder, cumin, and black pepper
 
-- Add brown rice to the pot, and toast for around a minute
+- Transfer the pot to the oven, and bake at 400F for about 90 minutes, or until the vegetables are tender, the rice is soft, and the water is absorbed
 
-- Add the beans and the rest of the ingredients (water, bouillon powder, tomato paste, ACV, soy sauce, chili powder, cumin, salt, and pepper). Stir to combine, and let simmer for 5 minutes
-
-- Cover the Dutch oven with a lid and bake for 1 hour. Turn oven off and let sit in oven (covered) for 30 minutes
+- Divide into 10 servings. Add some acid to it after reheating, like lemon, lime, balsamic, or hot sauce
+- <center><img src="/assets/Food/Meatless/Baked RB/containers.jpg" alt="" class="instruction-image"></center>
 ---

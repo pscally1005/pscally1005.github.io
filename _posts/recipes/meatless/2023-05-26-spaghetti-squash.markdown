@@ -38,7 +38,7 @@ tags:
 - clam sauce
 - marinara
 - pesto
-Description: Here are 3 methods that I commonly use for making spaghetti squash - oven (my preferred), crockpot, or instant pot. Spaghetti squash is such a versatile vegetable, since it can either be seasoned however you want, or mixed with any of your favorite pasta sauces, such as <a href="pasta-sauce">Simple Pasta Sauce</a>, <a href="clam-sauce">Macro Friendly Clam Sauce</a>, <a href="evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a>, or <a href="bolognese">Dutch Oven Bolognese Sauce</a>
+Description: Here are 3 methods that I commonly use for making spaghetti squash - oven (my preferred), crockpot, or instant pot. Spaghetti squash is such a versatile vegetable, since it can either be seasoned however you want, or mixed with any of your favorite pasta sauces, such as <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>, <a href="/recipes/pasta-with-clam-sauce">Healthier Clam Sauce</a>, <a href="/recipes/evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a>, or <a href="/recipes/bolognese">Dutch Oven Bolognese Sauce</a>
 Instructions: 
 - <br><u>Crockpot</u><br>
 - Rinse squash, dry, prick with a fork, and cover and cook for 3-4 hours on low for a 4-5 pound squash. Be careful not to overcook, or it will be mush (been there before lol)
