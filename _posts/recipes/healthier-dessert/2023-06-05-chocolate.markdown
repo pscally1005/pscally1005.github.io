@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Healthier Dessert
 permalink: /recipes/chocolate-bar
-image: /assets/Food/Healthier Dessert/Choc Bar/choc-bar-cover.jpg
+image: /assets/Food/Healthier Dessert/Choc Bar/cover.jpg
 ing: choc-ing
 facts: choc-facts
 section1: 
@@ -26,27 +26,22 @@ Source2:
 whisk: https://s.samsungfood.com/J3cj0
 tags: 
 - cocoa powder
-- coconut oil
 - melted coconut oil
 - chocolate bar
-- chopped chocolate
 - chocolate chips
-- chip
+- sugar free
 - unsweetened
 - vanilla
 - bark
-Description: When recipes call for <a href="/misc/fake-healthy-foods#chocolate">dark chocolate</a> or chocolate chips, I typically make some variation of this recipe. Sure, you could just melt an unsweetened bar of chocolate with your desired sweetener, but this is just as much effort and cheaper too. Mix in some chopped nuts too if you want to spice it up!
+Description: When recipes call for <a href="/misc/fake-healthy-foods#chocolate">dark chocolate</a> or chocolate chips, I typically make some variation of this recipe.  This chopped up bar of chocolate works great as a replacement for chocolate chips in all recipes, such as <a href="/recipes/date-brownie">Almond Butter Date Brownies</a>, <a href="/recipes/edible-cookie-dough-bites">Edible Cookie Dough Bites</a>, or my <a href="/recipes/double-chocolate-banana-bread">Double Chocolate Banana Bread</a>.  Each serving is half an ounce (14 g)
 Instructions: 
-- Prepare a bread pan or tupperware with parchment paper. Set aide
+- In a glass bowl, melt the coconut oil in the microwave for about 1 minute.  Stir in cocoa powder until smooth.  Optionally, add a small pinch of salt
+- <center><img src="/assets/Food/Healthier Dessert/Choc Bar/bowl.jpg" alt="" class="instruction-image"></center>
 
-- In a glass bowl, add the coconut oil and microwave for about 1 minute, until fully melted
+- You can either sweeten your chocolate bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) liquid monk fruit or stevia, or 1 tbsp (20 g) honey or maple syrup
 
-- You can either sweeten your chocolat bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) liquid monk fruit or stevia, or 1 tbsp (20 g) honey or maple syrup
+- Pour into a chocolate mold (a parchment lined bread pan will also work).  <a href="https://www.amazon.com/Chocolate-Bar-Mold-Silicone-Break-Apart/dp/B0D9VBH35C/ref=sr_1_41?sr=8-41">These</a> are the ones I have.  A full batch of the chocolate will make 2 of these thin bars
+- <center><img src="/assets/Food/Healthier Dessert/Choc Bar/mold.jpg" alt="" class="instruction-image"></center>
 
-- Add cocoa powder, salt, vanilla, and (optional) sweetener. Stir until smooth
-- <center><img src="/assets/Food/Healthier Dessert/Choc Bar/choc-bar-3.jpg" alt="" class="instruction-image"></center>
-
-- Pour into pan. Top with any mix ins (such as chopped nuts, 1/4 cup, 30 g) if desired. Chill in the fridge for about an hour.  Cut and store in the fridge
-
-- This chopped up bar of chocolate works great as a replacement for chocolate chips in all recipes, such as <a href="date-brownie">Gluten Free Date Brownies</a>, <a href="syrup-cookies">Sugar Free Syrup Cookies</a>, or my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a>
+- Chill in the fridge for at least an hour (or freeze for 15 minutes) to set before using
 ---
