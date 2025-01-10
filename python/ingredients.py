@@ -102,7 +102,7 @@ def ingredients(food):
         return str("Sesame oil")
     elif food == "White distilled vinegar by FAREWAY" or food == "Distilled white vinegar by Raley's" or food == "White wine vinegar by CIRIO" or food == "Distilled white vinegar by HYTOR" or food == "Distilled white vinegra by OLIO":
         return str("White vinegar")
-    elif food == "Apple cider vinegar by BRAGG":
+    elif food == "Vinegar, cider" or food == "Apple cider vinegar by BRAGG":
         return str("Apple cider vinegar")
     elif food == "Italian dressing, fat free" or food == "Salad dressing, fat-free, italian dressing":
         return str("Fat free Italian dressing")
@@ -114,7 +114,7 @@ def ingredients(food):
         return str("Hot sauce")
     elif food == "Minced garlic by STONEMILL" or food == "Minced garlic by MEMBER'S MARK" or food == "Minced garlic by EL SABOR":
         return str("Minced garlic")
-    elif food == "Dijon mustard by KOOPS'" or food == "Dijon mustard by BRANDLESS" or food == "Dijon mustard by Raley's" or food == "Dijon mustard by SPARTAN":
+    elif food == "Mustard" or food == "Dijon mustard by KOOPS'" or food == "Dijon mustard by BRANDLESS" or food == "Dijon mustard by Raley's" or food == "Dijon mustard by SPARTAN":
         return str("Dijon mustard")
     elif food == "White dry cooking wine by CONCHITA":
         return str("White cooking wine")

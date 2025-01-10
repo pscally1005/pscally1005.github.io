@@ -35,7 +35,7 @@ tags:
 - paprika
 - lemon
 - garlic
-Description: Any time I made amaretti, macaroons, or anything that uses egg whites, I always struggle to find the use for my leftover yolks. This simple sauce is now my go to for not wasting perfectly good eggs, and uses Greek yogurt instead of butter for higher protein and lower saturated fat. For my cookie recipes, check out <a href="coconut-macaroons">Coconut Macaroons with Honey</a> and <a href="amaretti">Amaretti Cookies with Monkfruit</a>
+Description: Any time I made amaretti, macaroons, or anything that uses egg whites, I always struggle to find the use for my leftover yolks. This simple sauce is now my go to for not wasting perfectly good eggs, and uses Greek yogurt instead of butter for higher protein and lower saturated fat. For my cookie recipes, check out <a href="coconut-macaroons">Coconut Macaroons with Honey</a> and <a href="amaretti">Amaretti Cookies with Monkfruit</a>.  If you prefer mayo to hollandaise, be sure to check out my <a href="/recipes/mayo">Lighter Mayo Substitute</a>
 Instructions: 
 - Assemble a double boiler by heating 1" of water in a medium pot. Place a glass bowl on top. Bring water to a simmer
 

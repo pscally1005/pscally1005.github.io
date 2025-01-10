@@ -59,13 +59,6 @@ Instructions:
 
 - Add slices to a large Ziploc bag, and store in the freezer
 
-- For a sweeter version, you can make the following adjustments<br>
-- Use flavored whey protein (chocolate or vanilla)<br>
-- Reduce salt to 1/2 tsp<br>
-- Remove the garlic powder<br>
-- Replace apple cider vinegar with vanilla extract<br>
-- Swap the water for unsweetened vanilla almond milk<br>
-- Don't top with seeds<br>
-- Bake the same as above (yes there's still grated mozzarella, trust me you won't see or taste it)
+- For a sweeter version, you can make the following adjustments:<ul><li>Use flavored whey protein (chocolate or vanilla)</li><li>Reduce salt to 1/2 tsp</li><li>Remove the garlic powder</li><li>Replace apple cider vinegar with vanilla extract</li><li>Swap the water for unsweetened vanilla almond milk</li><li>Don't top with seeds</li><li>Bake the same as above (yes there's still grated mozzarella, trust me you won't see or taste it)</li></ul>
 - <center><img src="/assets/Food/Bread/Coconut Bread/coconut-bread-9.jpg" alt="" class="instruction-image"></center>
 ---

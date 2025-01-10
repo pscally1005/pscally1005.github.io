@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Lighter Mayo Substitute"
+date:   2025-01-10 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/mayo
+image: /assets/Food/Savory Sauces/Mayo/mayo.jpg
+ing: mayo-ing
+facts: mayo-facts
+section1: Mayo
+start2: Liquid monk fruit
+section2: Optional
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: https://www.youtube.com/watch?v=swJ9pET-HHc
+Source2: 
+whisk: https://s.samsungfood.com/VwA6G
+tags: 
+- mayonnaise
+- mayo
+- low-fat
+- low fat
+- extra virgin olive oil
+- plain nonfat greek yogurt
+- apple cider vinegar
+- dijon mustard
+- spread
+- dip
+- salad dressing
+- tuna salad
+- pasta salad
+- potato salad
+- deviled eggs
+- macaroni salad
+- french onion dip
+- buffalo chicken dip
+- spinach artichoke dip
+Description: Standard bottles of <a href="https://www.walmart.com/ip/Great-Value-Mayonnaise-30-fl-oz/17056888?classType=VARIANT&athbdg=L1200&from=/search">mayonnaise</a> are filled with cheap and inflammatory vegetable oils, sugar, preservatives, and artificial ingredients. Instead, make this healthy swap in all your mayo-based dishes, like potato salad, deviled eggs, macaroni salad, French Onion dip, and tuna salad. The secret is Greek yogurt, which is low and fat and high in protein, making this mayo significantly lower in calories.  If you prefer hollandaise to mayo, be sure to check out my <a href="/recipes/hollandaise">Greek Yogurt Hollandaise Sauce</a>
+Instructions: 
+- In a medium bowl, mix together all ingredients until smooth. Store in an airtight container in the fridge for up to a week
+
+- This recipe makes about 1.75 cups (428 g), or 28 servings of 1 tbsp (15 g). For reference, a tablespoon of <a href="https://www.walmart.com/ip/Great-Value-Mayonnaise-30-fl-oz/17056888?classType=VARIANT&athbdg=L1200&from=/search">standard mayo</a> contains the following:<ul><li>7x the calories (90 cal)</li><li>10x the fat (10 g)</li><li>No protein</li></ul>
+---

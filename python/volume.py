@@ -85,6 +85,8 @@ def fix(vol):
         return str("1.33 cup")
     elif vol == "1.52 cup" or vol == "2.338 cup (not packed)" or vol == "2 container" or vol == "24 tbsp" or vol == "1.555 cup, NFS" or vol == "3.25 1/2 cup" or vol == "1.5 cup, chunks" or vol == "1.5 cup pieces" or vol == "2 3/4 cup":
         return str("1.5 cup")
+    elif vol == "1.65375 cup":
+        return str("1.67 cup")
     elif vol == "1.78 cup":
         return str("1.75 cup")
     elif vol == "2.19 cup, chopped" or vol == "2.08 cup" or vol == "1.79 cup, whole" or vol == "1.88 cup, unthawed" or vol == "1.98 cup" or vol == "2.665 container" or vol == "2 cup, frozen" or vol == "5 1/3 cup" or vol == "7.5 1/3 cup" or vol == "2 cup, chopped" or vol == "32 tbsp" or vol == "32 Tbsp" or vol == "1.855 cup":
