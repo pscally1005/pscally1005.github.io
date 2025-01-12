@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Ground Meat
 permalink: /recipes/sloppy-joe
-image: /assets/Food/Ground Meat/Sloppy Joe/sloppy-joe.jpg
+image: /assets/Food/Ground Meat/Sloppy Joe/cover.jpg
 ing: sloppyjoe-ing
 facts: sloppyjoe-facts
 section1: Vegetables
@@ -18,9 +18,9 @@ start4:
 section4: 
 start5: 
 section5: 
-Prep: 20
+Prep: 10
 Rest: 
-Cook: 20
+Cook: 40
 Source1: 
 Source2: 
 whisk: https://s.samsungfood.com/MGuZR
@@ -37,13 +37,11 @@ tags:
 - ketchup
 - mustard
 - chili
-Description: Sloppy joes are an American classic, and this variation removes the sugar filled ketchup and adds some more vegetables as well. These go great on a plate with a side of rice, or even better on a sandwich.
+Description: Sloppy joes are an American classic, and this variation removes the sugar filled ketchup and adds some more vegetables as well. These go great on a plate with a side of rice, roasted veggies, sweet potatoes, or on a sandwich.
 Instructions: 
-- Finely chop the peppers and onions.  Place a medium skillet over medium heat with oil. When the pan is hot, add onions and peppers. Sauté, stirring occasionally
+- Finely chop the peppers and onions.  Place a medium skillet over medium heat with oil. When the pan is hot, add onions and peppers.  Cover and cook under occasional stirring until the onions are translucent, about 10 minutes
 
-- Meanwhile, in a large skillet with oil, brown the meat. When the meat is nearly done, add the garlic and cook until fragrant
+- Add the meat to the pan, and cook until no longer pink. When the meat is nearly done, add the garlic and cook until fragrant
 
-- To the meat mixture, add the vegetables, tomato paste, water, mustard, vinegar, paprika, salt, and pepper. Stir well to combine. Cook covered over medium-low heat (about 10 minutes) until hot and ground meat is cooked through and peppers are tender
-
-- Season with additional salt and pepper to taste.
+- In a medium bowl, whisk together the sauce - tomato paste, water, mustard, vinegar, paprika, salt, and pepper.  Pour into the pan, cover, and let simmer over low heat for about 15 minutes.  Remove the cover, and simmer for an additional 5 minutes to thicken
 ---
