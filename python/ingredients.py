@@ -158,7 +158,7 @@ def ingredients(food):
         return str("Oat flour")
     elif food == "Cornstarch by Tops Markets, LLC" or food == "Cornstarch by Bob's Red Mill Natural Foods, Inc.":
         return str("Cornstarch")
-    elif food == "Organic coconut flour by Bob's Red Mill Natural Foods, Inc.":
+    elif food == "Organic coconut flour by Bob's Red Mill Natural Foods, Inc." or food == "Coconut flour by BRANDLESS":
         return str("Coconut flour")    
     elif food == "Cereals, Dry, Quick Oats, QUAKER" or food == "Cereals, Dry, Quick Oats with Iron, QUAKER" or food == "Quick cook rolled oats by BRANDLESS":
         return str("Quick oats")
