@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Meatless
 permalink: /recipes/eggplant-rollatini
-image: /assets/Food/Meatless/Rollatini/rollatini.jpg
+image: /assets/Food/Meatless/Rollatini/cover.jpg
 ing: rollatini-ing
 facts: rollatini-facts
 section1: Eggplant
