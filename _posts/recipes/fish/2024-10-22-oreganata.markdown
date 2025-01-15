@@ -9,6 +9,7 @@ permalink: /recipes/shrimp-oreganata
 image: /assets/Food/Fish/Oreganata/oreganata-cover.jpg
 ing: oreganata-ing
 facts: oreganata-facts
+servingSize: 
 section1: Breadcrumbs
 start2: Frozen raw shrimp, peeled and deveined
 section2: Shrimp

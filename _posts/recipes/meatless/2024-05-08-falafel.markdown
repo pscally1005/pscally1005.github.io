@@ -9,6 +9,7 @@ permalink: /recipes/air-fried-falafel
 image: /assets/Food/Meatless/Falafel/falafel-cover.jpg
 ing: falafel-ing
 facts: falafel-facts
+servingSize: 1 falafel
 section1: 
 start2: 
 section2: 

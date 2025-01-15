@@ -9,6 +9,7 @@ permalink: /recipes/caprese-chicken
 image: /assets/Food/Chicken/Caprese/caprese-cover.jpg
 ing: caprese-ing
 facts: caprese-facts
+servingSize: 
 section1: Chicken
 start2: Tomato
 section2: Tomatoes

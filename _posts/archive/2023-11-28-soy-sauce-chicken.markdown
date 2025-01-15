@@ -10,6 +10,7 @@ permalink: /recipes/soy-sauce-chicken
 image: /assets/Food/Chicken/Soy Sauce/soy-sauce-cover.jpg
 ing: soysauce-ing
 facts: soysauce-facts
+servingSize: 
 section1: Chicken
 start2: Frozen brussel sprouts, thawed
 section2: Brussel Sprouts

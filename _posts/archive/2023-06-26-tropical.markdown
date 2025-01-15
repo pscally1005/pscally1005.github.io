@@ -10,6 +10,7 @@ permalink: /recipes/tropical-salsa
 image: /assets/Food/Savory Sauces/Tropical Salsa/tropical.jpg
 ing: tropical-ing
 facts: tropical-facts
+servingSize: 6 tbsp (90 g)
 section1: 
 start2: 
 section2: 

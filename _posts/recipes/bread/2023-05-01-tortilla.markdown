@@ -9,6 +9,7 @@ permalink: /recipes/tortilla
 image: /assets/Food/Bread/Tortillas/tortilla-cover.jpg
 ing: tortillas-ing
 facts: tortillas-facts
+servingSize: 1 tortilla
 section1: 
 start2: 
 section2: 

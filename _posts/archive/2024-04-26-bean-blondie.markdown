@@ -10,6 +10,7 @@ permalink: /recipes/chickpea-date-blondies
 image: /assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-cover.jpg
 ing: beanblondies-ing
 facts: beanblondies-facts
+servingSize: 1 blondie
 section1: 
 start2: 
 section2: 

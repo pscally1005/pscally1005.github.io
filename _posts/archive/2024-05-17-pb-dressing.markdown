@@ -10,6 +10,7 @@ permalink: /recipes/peanut-chili-salad-dressing
 image: /assets/Food/Savory Sauces/PB Dressing/pb-dressing.jpg
 ing: pbdressing-ing
 facts: pbdressing-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

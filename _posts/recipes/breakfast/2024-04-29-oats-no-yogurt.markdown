@@ -9,6 +9,7 @@ permalink: /recipes/no-yogurt-oatmeal
 image: /assets/Food/Breakfast/No Yo/cover.jpg
 ing: oatsnoyogurt-ing
 facts: oatsnoyogurt-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

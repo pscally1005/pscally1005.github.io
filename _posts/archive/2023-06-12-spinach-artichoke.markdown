@@ -10,6 +10,7 @@ permalink: /recipes/spinach-artichoke-dip
 image: /assets/Food/Savory Sauces/Artichoke/artichoke-dip-cover.jpg
 ing: artichokedip-ing
 facts: artichokedip-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

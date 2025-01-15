@@ -9,6 +9,7 @@ permalink: /recipes/chocolate-chip-date-cookies
 image: /assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cover.jpg
 ing: chocchipcookie-ing
 facts: chocchipcookie-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

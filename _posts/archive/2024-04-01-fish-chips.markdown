@@ -10,6 +10,7 @@ permalink: /recipes/fish-and-chips
 image: /assets/Food/Fish/Fish Chips/fish-chips-cover.jpg
 ing: fishchips-ing
 facts: fishchips-facts
+servingSize: 
 section1: Fish
 start2: Tilapia
 section2: Chips

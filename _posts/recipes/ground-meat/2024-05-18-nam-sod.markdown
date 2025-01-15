@@ -9,6 +9,7 @@ permalink: /recipes/nam-sod
 image: /assets/Food/Ground Meat/Nam Sod/nam-sod.jpg
 ing: namsod-ing
 facts: namsod-facts
+servingSize: 
 section1: Dressing
 start2: Sesame oil
 section2: Meat & Cooked Vegetables

@@ -9,6 +9,7 @@ permalink: /recipes/burger-buns
 image: /assets/Food/Bread/Burger Buns/buns-cover.jpg
 ing: buns-ing
 facts: buns-facts
+servingSize: 1 bun
 section1: 
 start2: 
 section2: 

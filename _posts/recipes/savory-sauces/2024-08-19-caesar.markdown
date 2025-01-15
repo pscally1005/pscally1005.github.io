@@ -9,6 +9,7 @@ permalink: /recipes/greek-yogurt-caesar-dressing
 image: /assets/Food/Savory Sauces/Caesar/caesar-cover.jpg
 ing: caesar-ing
 facts: caesar-facts
+servingSize: 2 tbsp (30 g)
 section1: 
 start2: 
 section2: 

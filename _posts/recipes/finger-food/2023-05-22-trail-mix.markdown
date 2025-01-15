@@ -9,6 +9,7 @@ permalink: /recipes/trail-mix
 image: /assets/Food/Finger Food/Trail Mix/trail-mix.jpg
 ing: trailmix-ing
 facts: trailmix-facts
+servingSize: 1/4 cup (30 g)
 section1: 
 start2: 
 section2: 

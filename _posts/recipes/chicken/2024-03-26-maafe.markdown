@@ -9,6 +9,7 @@ permalink: /recipes/maafe
 image: /assets/Food/Chicken/Maafe/maafe-cover.jpg
 ing: maafe-ing
 facts: maafe-facts
+servingSize: 
 section1: Vegetables
 start2: Boneless skinless chicken breast
 section2: Meat Marinade

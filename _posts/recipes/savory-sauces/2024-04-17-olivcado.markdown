@@ -9,6 +9,7 @@ permalink: /recipes/olivcado
 image: /assets/Food/Savory Sauces/Olivcado/olivcado-cover.jpg
 ing: olivcado-ing
 facts: olivcado-facts
+servingSize: 2 tbsp (30 g)
 section1: 
 start2: 
 section2: 

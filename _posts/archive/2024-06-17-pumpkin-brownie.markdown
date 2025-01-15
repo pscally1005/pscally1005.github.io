@@ -10,6 +10,7 @@ permalink: /recipes/double-pumpkin-brownies
 image: /assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownie-cover.jpg
 ing: pumpkinbrownies2-ing
 facts: pumpkinbrownies2-facts
+servingSize: 1 brownie
 section1: Brownie Bottom
 start2: Pumpkin Puree
 section2: Pumpkin Swirl Top

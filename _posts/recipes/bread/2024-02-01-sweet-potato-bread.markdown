@@ -9,6 +9,7 @@ permalink: /recipes/sweet-potato-bread
 image: /assets/Food/Bread/Sweet Potato/sweet-potato-cover.jpg
 ing: sweetpotatobread-ing
 facts: sweetpotatobread-facts
+servingSize: 1 slice
 section1: 
 start2: 
 section2: 

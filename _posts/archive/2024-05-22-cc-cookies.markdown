@@ -10,6 +10,7 @@ permalink: /recipes/cottage-cheese-cookies
 image: /assets/Food/Healthier Dessert/CC Cookies/cc-cookies.jpg
 ing: cottagecheesecookies-ing
 facts: cottagecheesecookies-facts
+servingSize: 1 cookie
 section1: Chocolate Chips
 start2: Nonfat cottage cheese
 section2: Cookie Dough

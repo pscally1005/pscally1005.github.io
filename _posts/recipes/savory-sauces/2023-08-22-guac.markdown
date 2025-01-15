@@ -9,6 +9,7 @@ permalink: /recipes/guacamole
 image: /assets/Food/Savory Sauces/Guac/guac-cover.jpg
 ing: guac-ing
 facts: guac-facts
+servingSize: 2 tbsp (28 g)
 section1: 
 start2: 
 section2: 

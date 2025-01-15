@@ -9,6 +9,7 @@ permalink: /recipes/pretzel
 image: /assets/Food/Bread/Pretzels/pretzel-cover.jpg
 ing: pretzel-ing
 facts: pretzel-facts
+servingSize: 1 pretzel
 section1: 
 start2: 
 section2: 

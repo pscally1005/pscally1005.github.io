@@ -9,6 +9,7 @@ permalink: /recipes/whole-wheat-beer-bread
 image: /assets/Food/Bread/Beer Bread/beer-bread-sliced.jpg
 ing: beerbread-ing
 facts: beerbread-facts
+servingSize: 1 slice
 section1: 
 start2: 
 section2: 

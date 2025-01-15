@@ -9,6 +9,7 @@ permalink: /recipes/red-lentils
 image: /assets/Food/Meatless/Lentils/lentils.jpg
 ing: lentils-ing
 facts: lentils-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

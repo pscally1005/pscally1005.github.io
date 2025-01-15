@@ -9,6 +9,7 @@ permalink: /recipes/roasted-garlic-hummus
 image: /assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus.jpg
 ing: garlichummus-ing
 facts: garlichummus-facts
+servingSize: 2 tbsp (30 g)
 section1: 
 start2: 
 section2: 

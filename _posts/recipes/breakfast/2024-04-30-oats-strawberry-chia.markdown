@@ -9,6 +9,7 @@ permalink: /recipes/strawberry-chia-oatmeal
 image: /assets/Food/Breakfast/Strawberry Chia/cover.jpg
 ing: strawberrychiaoats-ing
 facts: strawberrychiaoats-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

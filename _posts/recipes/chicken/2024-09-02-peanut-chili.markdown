@@ -9,6 +9,7 @@ permalink: /recipes/peanut-chicken-chili
 image: /assets/Food/Chicken/Peanut Chili/peanut-chili-cover.jpg
 ing: peanutchili-ing
 facts: peanutchili-facts
+servingSize: 
 section1: Vegetables
 start2: Boneless skinless chicken thighs
 section2: Chicken

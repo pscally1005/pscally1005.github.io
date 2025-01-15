@@ -10,6 +10,7 @@ permalink: /recipes/avocado-fudge
 image: /assets/Food/Protein Powder/Avo Fudge/avo-fudge-cover.jpg
 ing: avofudge-ing
 facts: avofudge-facts
+servingSize: 1 piece
 section1: 
 start2: 
 section2: 

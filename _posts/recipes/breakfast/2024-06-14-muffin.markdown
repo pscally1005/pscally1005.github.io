@@ -9,6 +9,7 @@ permalink: /recipes/sweet-potato-banana-muffins
 image: /assets/Food/Breakfast/Sw Pot Ban Muff/muffin-cover.jpg
 ing: muffin-ing
 facts: muffin-facts
+servingSize: 1 muffin
 section1: Base muffins
 start2: Cinnamon
 section2: Optional add ins

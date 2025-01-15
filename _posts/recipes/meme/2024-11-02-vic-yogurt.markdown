@@ -9,6 +9,7 @@ permalink: /recipes/vic-yogurt
 image: /assets/Food/Meme/Yogurt/cover.jpg
 ing: vicyogurt-ing
 facts: vicyogurt-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

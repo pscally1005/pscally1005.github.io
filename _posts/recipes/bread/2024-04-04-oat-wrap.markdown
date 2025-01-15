@@ -9,6 +9,7 @@ permalink: /recipes/oat-wraps
 image: /assets/Food/Bread/Oat Wrap/oat-wrap-cover.jpg
 ing: oatwraps-ing
 facts: oatwraps-facts
+servingSize: 1 wrap
 section1: 
 start2: 
 section2: 

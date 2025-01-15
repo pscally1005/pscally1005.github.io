@@ -9,6 +9,7 @@ permalink: /recipes/yogurt-choc
 image: /assets/Food/Breakfast/Yogurt/yogurt-choc.jpg
 ing: yogurtchoc-ing
 facts: yogurtchoc-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

@@ -10,6 +10,7 @@ permalink: /recipes/cinnamon-chickpea
 image: /assets/Food/Breakfast/Chickpea/chickpea-cover.jpg
 ing: cinchick-ing
 facts: cinchick-facts
+servingSize: 
 section1: Cereal
 start2: Unsweetened vanilla almond milk
 section2: Milk

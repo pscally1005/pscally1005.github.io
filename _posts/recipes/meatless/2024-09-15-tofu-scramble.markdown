@@ -9,6 +9,7 @@ permalink: /recipes/tofu-scramble
 image: /assets/Food/Meatless/Tofu Scramble/tofu-cover.jpg
 ing: tofuscramble-ing
 facts: tofuscramble-facts
+servingSize: 
 section1: Tofu
 start2: Low sodium soy sauce
 section2: Spices

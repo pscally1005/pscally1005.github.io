@@ -9,6 +9,7 @@ permalink: /recipes/banana-protein-pancakes
 image: /assets/Food/Breakfast/Banana Pancake/pancake-cover.jpg
 ing: bananapancake-ing
 facts: bananapancake-facts
+servingSize: 6 small pancakes
 section1: 
 start2: 
 section2: 

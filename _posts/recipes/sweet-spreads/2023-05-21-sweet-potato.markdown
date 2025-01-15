@@ -9,6 +9,7 @@ permalink: /recipes/sweet-potato-puree
 image: /assets/Food/Sweet Spreads/Sweet Potato/sweet-potato-cover.jpg
 ing: sweetpotato-ing
 facts: sweetpotato-facts
+servingSize: 3 tbsp (45 g)
 section1: 
 start2: 
 section2: 

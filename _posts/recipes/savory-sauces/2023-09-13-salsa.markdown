@@ -9,6 +9,7 @@ permalink: /recipes/salsa
 image: /assets/Food/Savory Sauces/Salsa/salsa-cover.jpg
 ing: salsa-ing
 facts: salsa-facts
+servingSize: 3 tbsp (45 g)
 section1: 
 start2: 
 section2: 

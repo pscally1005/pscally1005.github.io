@@ -9,6 +9,7 @@ permalink: /recipes/pizza
 image: /assets/Food/Bread/Pizza/pizza-cover.jpg
 ing: pizza-ing
 facts: pizza-facts
+servingSize: 1 pizza
 section1: Pizza
 start2: Unsweetened tomato sauce
 section2: Toppings

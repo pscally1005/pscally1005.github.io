@@ -9,6 +9,7 @@ permalink: /recipes/natural-peanut-butter
 image: /assets/Food/Sweet Spreads/PB/pb-cover.jpg
 ing: pb-ing
 facts: pb-facts
+servingSize: 2 tbsp (32 g)
 section1: 
 start2: 
 section2: 

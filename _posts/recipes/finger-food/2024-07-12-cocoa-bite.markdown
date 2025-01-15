@@ -9,6 +9,7 @@ permalink: /recipes/cocoa-bites
 image: /assets/Food/Finger Food/Cocoa Bite/cocoa-bite.jpg
 ing: cacaopunch3-ing
 facts: cacaopunch3-facts
+servingSize: 1 bite
 section1: 
 start2: 
 section2: 

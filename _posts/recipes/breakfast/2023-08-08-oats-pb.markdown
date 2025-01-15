@@ -9,6 +9,7 @@ permalink: /recipes/oats-pb
 image: /assets/Food/Breakfast/Oatmeal/oats-pb.jpg
 ing: oatspb-ing
 facts: oatspb-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

@@ -10,6 +10,7 @@ permalink: /recipes/roasted-red-pepper-hummus
 image: /assets/Food/Savory Sauces/Pepper Hummus/pepper-hummus-cover.jpg
 ing: pepperhummus-ing
 facts: pepperhummus-facts
+servingSize: 2.5 tbsp (38 g)
 section1: 
 start2: 
 section2: 

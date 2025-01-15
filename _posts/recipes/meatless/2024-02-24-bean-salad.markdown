@@ -9,6 +9,7 @@ permalink: /recipes/bean-salad
 image: /assets/Food/Meatless/Bean Salad/bean-salad-cover.jpg
 ing: beansalad-ing
 facts: beansalad-facts
+servingSize: 
 section1: Salad
 start2: Extra virgin olive oil
 section2: Dressing

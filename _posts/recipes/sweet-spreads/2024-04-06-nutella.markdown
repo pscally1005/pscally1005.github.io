@@ -9,6 +9,7 @@ permalink: /recipes/nutella
 image: /assets/Food/Sweet Spreads/Nutella/nutella-cover.jpg
 ing: nutella-ing
 facts: nutella-facts
+servingSize: 2 tbsp (33 g)
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/fajitas
 image: /assets/Food/Chicken/Fajitas/fajita-cover.jpg
 ing: fajitas-ing
 facts: fajitas-facts
+servingSize: 
 section1: Chicken Marinade
 start2: Bell pepper
 section2: Onions & Peppers

@@ -9,6 +9,7 @@ permalink: /recipes/apple-pie
 image: /assets/Food/Healthier Dessert/Apple Pie/apple-pie-cover.jpg
 ing: applepie-ing
 facts: applepie-facts
+servingSize: 1 slice
 section1: Crust
 start2: Apple, gala
 section2: Filling

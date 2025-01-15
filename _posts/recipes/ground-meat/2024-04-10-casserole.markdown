@@ -9,6 +9,7 @@ permalink: /recipes/lebanese-casserole
 image: /assets/Food/Ground Meat/Casserole/casserole-cover.jpg
 ing: casserole-ing
 facts: casserole-facts
+servingSize: 
 section1: Spinach & Onions
 start2: Ground beef, 93/7
 section2: Meat

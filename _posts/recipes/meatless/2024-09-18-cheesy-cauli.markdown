@@ -9,6 +9,7 @@ permalink: /recipes/cheesy-cauliflower-rice-and-beans
 image: /assets/Food/Meatless/Cheesy Cauli/container-sauce.jpg
 ing: cheesycauli-ing
 facts: cheesycauli-facts
+servingSize: 
 section1: Cheese Sauce
 start2: Extra virgin olive oil
 section2: Cauliflower Rice

@@ -9,6 +9,7 @@ permalink: /recipes/core-power-milkshake
 image: /assets/Food/Drinks/Core Power/core-power.jpg
 ing: corepower-ing
 facts: corepower-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

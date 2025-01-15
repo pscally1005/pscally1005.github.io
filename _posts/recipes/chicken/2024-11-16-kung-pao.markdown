@@ -9,6 +9,7 @@ permalink: /recipes/kung-pao-chicken
 image: /assets/Food/Chicken/Kung Pao/kung-pao-cover.jpg
 ing: kungpao-ing
 facts: kungpao-facts
+servingSize: 
 section1: Rice
 start2: Yellow squash
 section2: Veggies

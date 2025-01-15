@@ -9,6 +9,7 @@ permalink: /recipes/white-bean-milkshake
 image: /assets/Food/Meme/Milkshake/bean-shake.jpg
 ing: beanicecream-ing
 facts: beanicecream-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

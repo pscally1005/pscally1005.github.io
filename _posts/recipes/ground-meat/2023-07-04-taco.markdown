@@ -9,6 +9,7 @@ permalink: /recipes/taco
 image: /assets/Food/Ground Meat/Taco/taco-cover.jpg
 ing: taco-ing
 facts: taco-facts
+servingSize: 
 section1: Spice Mix
 start2: Minced garlic
 section2: Meat

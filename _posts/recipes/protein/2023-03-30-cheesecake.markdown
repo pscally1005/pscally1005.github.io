@@ -9,6 +9,7 @@ permalink: /recipes/cheesecake
 image: /assets/Food/Protein Powder/Cheesecake/cheesecake-cover.jpg
 ing: cheesecake-ing
 facts: cheesecake-facts
+servingSize: 1 slice
 section1: 
 start2: 
 section2: 

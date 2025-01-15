@@ -9,6 +9,7 @@ permalink: /recipes/broccoli-fries
 image: /assets/Food/Finger Food/Vegetable/vegetable-chip-cover.jpg
 ing: veggiechip-ing
 facts: veggiechip-facts
+servingSize: 1 fry
 section1: 
 start2: 
 section2: 

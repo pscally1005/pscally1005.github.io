@@ -9,6 +9,7 @@ permalink: /recipes/amaretti-cookies-with-dates
 image: /assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-cover.jpg
 ing: amarettidate-ing
 facts: amarettidate-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

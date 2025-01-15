@@ -9,6 +9,7 @@ permalink: /recipes/pancake
 image: /assets/Food/Breakfast/Pumpkin Pancake/pancake-cover.jpg
 ing: pancake-ing
 facts: pancake-facts
+servingSize: 6 small pancakes
 section1: 
 start2: 
 section2: 

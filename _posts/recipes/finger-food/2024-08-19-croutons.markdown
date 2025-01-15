@@ -9,6 +9,7 @@ permalink: /recipes/white-bean-croutons
 image: /assets/Food/Finger Food/Croutons/croutons-cover.jpg
 ing: croutons-ing
 facts: croutons-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

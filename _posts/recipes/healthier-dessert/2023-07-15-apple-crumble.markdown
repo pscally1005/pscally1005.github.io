@@ -9,6 +9,7 @@ permalink: /recipes/apple-crumble
 image: /assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-cover.jpg
 ing: applecrumble-ing
 facts: applecrumble-facts
+servingSize: 
 section1: Apple Filling
 start2: Quick oats
 section2: Crisp Topping

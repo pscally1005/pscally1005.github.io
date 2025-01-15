@@ -9,6 +9,7 @@ permalink: /recipes/beef-liver
 image: /assets/Food/Ground Meat/Liver/cover.jpg
 ing: liver-ing
 facts: liver-facts
+servingSize: 
 section1: Potatoes
 start2: Frozen broccoli, thawed
 section2: Broccoli

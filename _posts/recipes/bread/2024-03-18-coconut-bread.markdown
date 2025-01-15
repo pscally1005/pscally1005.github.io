@@ -9,6 +9,7 @@ permalink: /recipes/coconut-bread
 image: /assets/Food/Bread/Coconut Bread/coconut-bread-cover.jpg
 ing: coconutbread-ing
 facts: coconutbread-facts
+servingSize: 1 slice
 section1: 
 start2: 
 section2: 

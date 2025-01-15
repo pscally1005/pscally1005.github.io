@@ -9,6 +9,7 @@ permalink: /recipes/salsa-chicken
 image: /assets/Food/Chicken/Salsa Chicken/salsa-chicken-cover.jpg
 ing: salsachicken-ing
 facts: salsachicken-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

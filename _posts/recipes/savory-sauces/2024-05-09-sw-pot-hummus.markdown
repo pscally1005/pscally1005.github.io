@@ -9,6 +9,7 @@ permalink: /recipes/sweet-potato-hummus
 image: /assets/Food/Savory Sauces/Sw Pot Hummus/sw-pot-hummus.jpg
 ing: swpothummus-ing
 facts: swpothummus-facts
+servingSize: 2 tbsp (36 g)
 section1: 
 start2: 
 section2: 

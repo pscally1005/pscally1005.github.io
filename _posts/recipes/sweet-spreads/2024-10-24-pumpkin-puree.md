@@ -9,6 +9,7 @@ permalink: /recipes/pumpkin-puree
 image: /assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cover.jpg
 ing: pumpkinpuree-ing
 facts: pumpkinpuree-facts
+servingSize: 1/2 cup (120 g)
 section1: 
 start2: 
 section2: 

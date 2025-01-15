@@ -9,6 +9,7 @@ permalink: /recipes/butter-chicken
 image: /assets/Food/Chicken/Butter Chicken/cover.jpg
 ing: butterchicken-ing
 facts: butterchicken-facts
+servingSize: 
 section1: Chicken
 start2: Quinoa
 section2: Quinoa

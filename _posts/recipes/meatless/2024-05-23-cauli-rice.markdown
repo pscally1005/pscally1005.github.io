@@ -9,6 +9,7 @@ permalink: /recipes/cauliflower-rice
 image: /assets/Food/Meatless/Cauli Rice/cauli-rice-cover.jpg
 ing: caulirice-ing
 facts: caulirice-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/slow-cooked-beans
 image: /assets/Food/Meatless/Crockpot Beans/beans-cover.jpg
 ing: crockpotbeans-ing
 facts: crockpotbeans-facts
+servingSize: 3/4 cup (150 g)
 section1: 
 start2: 
 section2: 

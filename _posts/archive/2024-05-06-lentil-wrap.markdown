@@ -10,6 +10,7 @@ permalink: /recipes/red-lentil-wraps
 image: /assets/Food/Bread/Lentil Wrap/lentil-wrap.jpg
 ing: redlentilwrap-ing
 facts: redlentilwrap-facts
+servingSize: 1 wrap
 section1: 
 start2: 
 section2: 

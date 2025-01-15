@@ -9,6 +9,7 @@ permalink: /recipes/berry-jam
 image: /assets/Food/Sweet Spreads/Berry Jam/berry-jam.jpg
 ing: jam-ing
 facts: jam-facts
+servingSize: 1 tbsp (19 g)
 section1: 
 start2: 
 section2: 

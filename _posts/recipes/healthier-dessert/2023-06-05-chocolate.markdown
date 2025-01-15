@@ -9,6 +9,7 @@ permalink: /recipes/chocolate-bar
 image: /assets/Food/Healthier Dessert/Choc Bar/cover.jpg
 ing: choc-ing
 facts: choc-facts
+servingSize: 1/2 oz (14 g)
 section1: 
 start2: 
 section2: 

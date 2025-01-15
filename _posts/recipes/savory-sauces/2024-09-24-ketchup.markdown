@@ -9,6 +9,7 @@ permalink: /recipes/ketchup
 image: /assets/Food/Savory Sauces/Ketchup/ketchup-cover.jpg
 ing: ketchup-ing
 facts: ketchup-facts
+servingSize: 2 tbsp (31 g)
 section1: Ketchup
 start2: Paprika
 section2: BBQ Sauce

@@ -9,6 +9,7 @@ permalink: /recipes/gluten-free-millet-bread
 image: /assets/Food/Bread/Millet Bread/millet-bread-cover.jpg
 ing: milletbread-ing
 facts: milletbread-facts
+servingSize: 1 slice
 section1: Wet
 start2: Millet flour 
 section2: Dry

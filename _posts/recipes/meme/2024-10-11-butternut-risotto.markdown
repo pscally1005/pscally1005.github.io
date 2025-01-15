@@ -9,6 +9,7 @@ permalink: /recipes/butternut-squash-risotto
 image: /assets/Food/Meme/RisOATto/cover.jpg
 ing: butternutrisotto-ing
 facts: butternutrisotto-facts
+servingSize: 
 section1: Butternut Squash
 start2: Rolled oats
 section2: RisOATto

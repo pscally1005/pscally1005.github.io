@@ -10,6 +10,7 @@ permalink: /recipes/pb-whey
 image: /assets/Food/Meme/PB Whey/pb-whey.jpg
 ing: pbwhey-ing
 facts: pbwhey-facts
+servingSize: 
 section1: Bread
 start2: Natural peanut butter
 section2: Peanut Butter

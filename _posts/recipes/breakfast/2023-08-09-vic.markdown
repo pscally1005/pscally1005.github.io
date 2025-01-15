@@ -9,6 +9,7 @@ permalink: /recipes/vic-oats
 image: /assets/Food/Breakfast/Vic Oats/vic-oats-2.jpg
 ing: vic-ing
 facts: vic-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

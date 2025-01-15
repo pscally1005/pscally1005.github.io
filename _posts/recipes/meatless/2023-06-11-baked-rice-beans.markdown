@@ -9,6 +9,7 @@ permalink: /recipes/baked-rice-and-beans
 image: /assets/Food/Meatless/Baked RB/cover.jpg
 ing: bakedrb-ing
 facts: bakedrb-facts
+servingSize: 
 section1: Step 1
 start2: Minced garlic
 section2: Step 2

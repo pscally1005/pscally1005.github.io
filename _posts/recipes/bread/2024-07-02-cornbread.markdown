@@ -9,6 +9,7 @@ permalink: /recipes/cornbread
 image: /assets/Food/Bread/Cornbread/cornbread-cover.jpg
 ing: cornbread-ing
 facts: cornbread-facts
+servingSize: 1 piece
 section1: Dry Ingredients
 start2: Nonfat cottage cheese
 section2: Wet Ingredients

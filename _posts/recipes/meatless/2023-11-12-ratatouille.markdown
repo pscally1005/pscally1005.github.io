@@ -9,6 +9,7 @@ permalink: /recipes/ratatouille
 image: /assets/Food/Meatless/Ratatouille/ratatouille-cover.jpg
 ing: ratatouille-ing
 facts: ratatouille-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

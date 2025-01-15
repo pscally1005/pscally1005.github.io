@@ -9,6 +9,7 @@ permalink: /recipes/gf-crackers
 image: /assets/Food/Finger Food/GF Crackers/cover.jpg
 ing: cracker-ing
 facts: cracker-facts
+servingSize: 1 oz (28 g)
 section1: 
 start2: 
 section2: 

@@ -10,6 +10,7 @@ permalink: /recipes/vegetable-medley
 image: /assets/Food/Meatless/Medley/medley-cover.jpg
 ing: medley-ing
 facts: medley-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

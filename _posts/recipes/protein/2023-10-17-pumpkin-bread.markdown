@@ -9,6 +9,7 @@ permalink: /recipes/pumpkin-bread
 image: /assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-cover.jpg
 ing: pumpkinbread-ing
 facts: pumpkinbread-facts
+servingSize: 1 slice
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/chicken-alfredo
 image: /assets/Food/Chicken/Alfredo/meals.jpg
 ing: alfredo-ing
 facts: alfredo-facts
+servingSize: 
 section1: Potatoes
 start2: Frozen broccoli, thawed
 section2: Broccoli

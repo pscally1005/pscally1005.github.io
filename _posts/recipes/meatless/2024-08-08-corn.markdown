@@ -9,6 +9,7 @@ permalink: /recipes/corn-on-the-cob
 image: /assets/Food/Meatless/Corn/corn-cooked.jpg
 ing: corn-ing
 facts: corn-facts
+servingSize: 1 ear
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/brain-boosting-bowl
 image: /assets/Food/Fish/Brain Bowl/brain-bowl.jpg
 ing: brainbowl-ing
 facts: brainbowl-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

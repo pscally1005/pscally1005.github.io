@@ -9,6 +9,7 @@ permalink: /recipes/creamy-pesto
 image: /assets/Food/Savory Sauces/Creamy Pesto/pesto-cover.jpg
 ing: pesto-ing
 facts: pesto-facts
+servingSize: 2.5 tbsp (40 g)
 section1: 
 start2: 
 section2: 

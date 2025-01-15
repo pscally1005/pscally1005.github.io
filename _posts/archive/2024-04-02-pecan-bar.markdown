@@ -10,6 +10,7 @@ permalink: /recipes/pecan-butter-bars
 image: /assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-cover.jpg
 ing: pecanbar-ing
 facts: pecanbar-facts
+servingSize: 1 bar
 section1: Filling
 start2: Extra virgin coconut oil
 section2: Topping

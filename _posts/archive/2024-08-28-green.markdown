@@ -10,6 +10,7 @@ permalink: /recipes/green-bread
 image: /assets/Food/Meme/Green/green-cover.jpg
 ing: green-ing
 facts: green-facts
+servingSize: 1 slice
 section1: Ingredients
 start2: Honey
 section2: Optional

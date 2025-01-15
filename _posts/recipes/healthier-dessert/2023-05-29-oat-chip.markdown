@@ -9,6 +9,7 @@ permalink: /recipes/oatmeal-chocolate-cookies
 image: /assets/Food/Healthier Dessert/Oatmeal Chip/oat-chip-cover.jpg
 ing: oatchip-ing
 facts: oatchip-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

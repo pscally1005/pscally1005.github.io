@@ -9,6 +9,7 @@ permalink: /recipes/truffles
 image: /assets/Food/Healthier Dessert/Truffle/truffle-cover.jpg
 ing: truffle-ing
 facts: truffle-facts
+servingSize: 1 truffle
 section1: Truffles
 start2: Extra virgin coconut oil
 section2: Chocolate

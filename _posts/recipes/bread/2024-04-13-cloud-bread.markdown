@@ -9,6 +9,7 @@ permalink: /recipes/cloud-bread
 image: /assets/Food/Bread/Cloud Bread/cloud-cover.jpg
 ing: cloud-ing
 facts: cloud-facts
+servingSize: 2 small or 1 large
 section1: 
 start2: 
 section2: 

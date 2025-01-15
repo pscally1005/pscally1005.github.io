@@ -9,6 +9,7 @@ permalink: /recipes/protein-shake
 image: /assets/Food/Drinks/Protein/protein-shake.jpg
 ing: proteinshake-ing
 facts: proteinshake-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

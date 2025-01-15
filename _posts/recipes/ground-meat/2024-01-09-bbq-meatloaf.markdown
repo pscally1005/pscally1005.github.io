@@ -9,6 +9,7 @@ permalink: /recipes/bbq-meatloaf
 image: /assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-cover.jpg
 ing: bbqmeat-ing
 facts: bbqmeat-facts
+servingSize: 
 section1: Meatloaf
 start2: Frozen broccoli, thawed
 section2: Broccoli

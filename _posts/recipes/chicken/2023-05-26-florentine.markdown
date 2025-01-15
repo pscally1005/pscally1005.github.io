@@ -9,6 +9,7 @@ permalink: /recipes/chicken-florentine
 image: /assets/Food/Chicken/Florentine/cover.jpg
 ing: florentine-ing
 facts: florentine-facts
+servingSize: 
 section1: Spinach
 start2: Water
 section2: Sauce

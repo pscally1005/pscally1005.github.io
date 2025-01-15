@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slow Cooker Caramelzed Onions"
+title:  "Slow Cooker Caramelized Onions"
 date:   2023-10-11 00:00:00 -05000
 categories: 
 - Recipes
@@ -9,6 +9,7 @@ permalink: /recipes/caramelized-onions
 image: /assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg
 ing: onions-ing
 facts: onions-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/eggplant-salad
 image: /assets/Food/Meatless/Eggplant Salad/eggplant-salad-cover.jpg
 ing: eggplantsalad-ing
 facts: eggplantsalad-facts
+servingSize: 
 section1: Roasted Eggplant
 start2: Chickpeas, drained and rinsed
 section2: Salad Veggies

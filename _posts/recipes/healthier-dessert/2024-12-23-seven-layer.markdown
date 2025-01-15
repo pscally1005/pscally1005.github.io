@@ -9,6 +9,7 @@ permalink: /recipes/seven-layer-bars
 image: /assets/Food/Healthier Dessert/7 Layer/cover.jpg
 ing: 7layer-ing
 facts: 7layer-facts
+servingSize: 1 bar
 section1: Layer 7 - Condensed Milk
 start2: Oat flour
 section2: Layers 1 & 2 - Crust ("Graham crackers" and "butter")

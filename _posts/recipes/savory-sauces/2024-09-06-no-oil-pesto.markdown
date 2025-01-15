@@ -9,6 +9,7 @@ permalink: /recipes/oil-free-basil-pesto
 image: /assets/Food/Savory Sauces/Basil Pesto/pesto-cover.jpg
 ing: nooilpesto-ing
 facts: nooilpesto-facts
+servingSize: 2 tbsp (29 g)
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/french-onion-dip
 image: /assets/Food/Savory Sauces/French Onion/cover.jpg
 ing: frenchonion-ing
 facts: frenchonion-facts
+servingSize: 2 tbsp (30 g)
 section1: Caramelized Onions
 start2: Plain nonfat greek yogurt
 section2: Dip

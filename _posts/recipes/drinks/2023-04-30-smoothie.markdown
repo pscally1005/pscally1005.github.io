@@ -9,6 +9,7 @@ permalink: /recipes/smoothie
 image: /assets/Food/Drinks/Smoothie/smoothie-cover.jpg
 ing: smoothie-ing
 facts: smoothie-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

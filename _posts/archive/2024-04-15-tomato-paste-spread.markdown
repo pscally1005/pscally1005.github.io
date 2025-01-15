@@ -10,6 +10,7 @@ permalink: /recipes/tomato-spread
 image: /assets/Food/Savory Sauces/Tomato Spread/tomato-spread-cover.jpg
 ing: tomatopastespread-ing
 facts: tomatopastespread-facts
+servingSize: 4 tbsp (60 g)
 section1: 
 start2: 
 section2: 

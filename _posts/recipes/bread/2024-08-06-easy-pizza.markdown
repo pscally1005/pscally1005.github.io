@@ -9,6 +9,7 @@ permalink: /recipes/easy-pizza-dough
 image: /assets/Food/Bread/Easy Pizza/easy-pizza-cut.jpg
 ing: easypizza-ing
 facts: easypizza-facts
+servingSize: 1 pizza
 section1: Dough
 start2: Unsweetened tomato sauce 
 section2: Toppings

@@ -449,6 +449,10 @@
                 ------------------------------------------<br>
                 {% include servings.html ing=include.ing %}
 
+                {% if !page.servingSize %}
+                    <b>Serving Size:</b> {{ page.servingSize }}<br>
+                {% endif %}
+
                 {% if cal != "" %} 
                     <b>Calories</b>: {{ cal }}<br>
                 {% endif %}

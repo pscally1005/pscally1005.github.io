@@ -10,6 +10,7 @@ permalink: /recipes/egg-muffins
 image: /assets/Food/Breakfast/Egg Muffin/egg-muffin-cover.jpg
 ing: eggmuffin-ing
 facts: eggmuffin-facts
+servingSize: 6 mini muffins
 section1: 
 start2: 
 section2: 

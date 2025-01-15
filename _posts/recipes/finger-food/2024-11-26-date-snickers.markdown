@@ -9,6 +9,7 @@ permalink: /recipes/date-snickers
 image: /assets/Food/Finger Food/Date Snickers/date-snickers.jpg
 ing: datesnickers-ing
 facts: datesnickers-facts
+servingSize: 1 date
 section1: 
 start2: 
 section2: 

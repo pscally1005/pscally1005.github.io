@@ -9,6 +9,7 @@ permalink: /recipes/oats-banana
 image: /assets/Food/Breakfast/Oatmeal/oats-banana-1.jpg
 ing: oatsbanana-ing
 facts: oatsbanana-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

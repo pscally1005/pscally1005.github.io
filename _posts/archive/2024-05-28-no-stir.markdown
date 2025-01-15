@@ -10,6 +10,7 @@ permalink: /recipes/no-stir-peanut-butter
 image: /assets/Food/Meme/No Stir/no-stir.jpg
 ing: nostir-ing
 facts: nostir-facts
+servingSize: 2 tbsp (32 g)
 section1: :)
 start2: Extra virgin coconut oil
 section2: :(

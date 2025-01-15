@@ -9,6 +9,7 @@ permalink: /recipes/protein-cinnamon-rolls
 image: /assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-cover.jpg
 ing: cinnamonroll-ing
 facts: cinnamonroll-facts
+servingSize: 
 section1: Dough
 start2: No sugar added apple spread
 section2: Filling

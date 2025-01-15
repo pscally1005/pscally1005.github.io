@@ -9,6 +9,7 @@ permalink: /recipes/chickpea-brownies
 image: /assets/Food/Protein Powder/Chickpea Brownie/chickpea-brownie.jpg
 ing: chickpeabrownie-ing
 facts: chickpeabrownie-facts
+servingSize: 1 bar
 section1: Beans
 start2: Banana, overripe
 section2: Wet Ingredients

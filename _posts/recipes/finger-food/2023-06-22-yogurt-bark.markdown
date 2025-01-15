@@ -9,6 +9,7 @@ permalink: /recipes/yogurt-bark
 image: /assets/Food/Finger Food/Yogurt Bark/bark-cover.jpg
 ing: bark-ing
 facts: bark-facts
+servingSize: 1 piece
 section1: 
 start2: 
 section2: 

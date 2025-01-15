@@ -9,6 +9,7 @@ permalink: /recipes/burger-bowl
 image: /assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg
 ing: burgerbowl-ing
 facts: burgerbowl-facts
+servingSize: 
 section1: Potatoes
 start2: Shredded cheddar cheese
 section2: Cheese

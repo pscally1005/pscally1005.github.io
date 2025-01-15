@@ -9,6 +9,7 @@ permalink: /recipes/roasted-beet-hummus
 image: /assets/Food/Savory Sauces/Beet Hummus/beet-hummus-cover.jpg
 ing: beethummus-ing
 facts: beethummus-facts
+servingSize: 3 tbsp (42 g)
 section1: 
 start2: 
 section2: 

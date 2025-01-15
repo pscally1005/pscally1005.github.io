@@ -9,6 +9,7 @@ permalink: /recipes/chicken-wings
 image: /assets/Food/Chicken/Wings/wings-cover.jpg
 ing: wings-ing
 facts: wings-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

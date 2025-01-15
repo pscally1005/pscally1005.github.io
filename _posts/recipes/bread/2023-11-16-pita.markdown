@@ -9,6 +9,7 @@ permalink: /recipes/pita
 image: /assets/Food/Bread/Pita/pita-cover.jpg
 ing: pita-ing
 facts: pita-facts
+servingSize: 1 pita
 section1: 
 start2: 
 section2: 

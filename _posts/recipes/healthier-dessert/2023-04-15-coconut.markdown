@@ -9,6 +9,7 @@ permalink: /recipes/coconut-macaroons
 image: /assets/Food/Healthier Dessert/Coconut/cover.jpg
 ing: coconut-ing
 facts: coconut-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

@@ -10,6 +10,7 @@ permalink: /recipes/triscuits
 image: /assets/Food/Finger Food/Triscuit/triscuit-cover.jpg
 ing: triscuit-ing
 facts: triscuit-facts
+servingSize: 1 oz (28 g)
 section1: 
 start2: 
 section2: 

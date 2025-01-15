@@ -10,6 +10,7 @@ permalink: /recipes/syrup-cookies
 image: /assets/Food/Healthier Dessert/SF Syrup/sf-syrup-cover.jpg
 ing: sfsyrup-ing
 facts: sfsyrup-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

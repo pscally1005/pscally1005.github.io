@@ -9,6 +9,7 @@ permalink: /recipes/turkey-pesto-pita
 image: /assets/Food/Ground Meat/Pesto Pita/pesto-pita-cover.jpg
 ing: pestopita-ing
 facts: pestopita-facts
+servingSize: 
 section1: Pesto
 start2: Onion
 section2: Meat & Vegetables

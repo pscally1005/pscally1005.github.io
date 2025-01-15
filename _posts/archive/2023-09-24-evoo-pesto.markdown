@@ -10,6 +10,7 @@ permalink: /recipes/evoo-pesto
 image: /assets/Food/Savory Sauces/EVOO Pesto/evoo-cover.jpg
 ing: evoo-ing
 facts: evoo-facts
+servingSize: 3 tbsp (45 g)
 section1: 
 start2: 
 section2: 

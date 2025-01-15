@@ -9,6 +9,7 @@ permalink: /recipes/cheesecake-bars
 image: /assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-cover.jpg
 ing: cheesecakebar-ing
 facts: cheesecakebar-facts
+servingSize: 1 bar
 section1: Crust
 start2: Natural peanut butter
 section2: Filling

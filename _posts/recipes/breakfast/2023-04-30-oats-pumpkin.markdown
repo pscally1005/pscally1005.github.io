@@ -9,6 +9,7 @@ permalink: /recipes/oats-pumpkin
 image: /assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg
 ing: oatspumpkin-ing
 facts: oatspumpkin-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

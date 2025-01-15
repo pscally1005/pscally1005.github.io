@@ -9,6 +9,7 @@ permalink: /recipes/superfood-bowls
 image: /assets/Food/Fish/Superfood/superfood-cover.jpg
 ing: superfood-ing
 facts: superfood-facts
+servingSize: 
 section1: Roasted Veggies
 start2: Quinoa
 section2: Quinoa

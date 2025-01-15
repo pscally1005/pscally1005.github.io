@@ -9,6 +9,7 @@ permalink: /recipes/spaghetti-taco
 image: /assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-cover.jpg
 ing: zoodletaco-ing
 facts: zoodletaco-facts
+servingSize: 
 section1: Taco Seasoning
 start2: Zucchini
 section2: Zoodles

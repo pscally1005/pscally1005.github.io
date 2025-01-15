@@ -9,6 +9,7 @@ permalink: /recipes/rice-and-beans
 image: /assets/Food/Meatless/Rice and Beans/rice-beans.jpg
 ing: ricebeans-ing
 facts: ricebeans-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

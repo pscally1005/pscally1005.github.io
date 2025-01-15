@@ -9,6 +9,7 @@ permalink: /recipes/edible-cookie-dough-bites
 image: /assets/Food/Healthier Dessert/OF CD/cover.jpg
 ing: ofcd-ing
 facts: ofcd-facts
+servingSize: 1 piece
 section1: 
 start2: 
 section2: 

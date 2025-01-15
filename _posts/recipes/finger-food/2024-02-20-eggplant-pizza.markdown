@@ -9,6 +9,7 @@ permalink: /recipes/eggplant-pizza
 image: /assets/Food/Finger Food/Eggplant Pizza/eggplant-pizza-cover.jpg
 ing: eggplantpizza-ing
 facts: eggplantpizza-facts
+servingSize: 1 mini pizza
 section1: Roasted Eggplant
 start2: Unsweetened tomato sauce
 section2: Pizza Toppings

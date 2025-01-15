@@ -9,6 +9,7 @@ permalink: /recipes/avocado-pesto
 image: /assets/Food/Savory Sauces/Avo Pesto/avo-pesto-cover.jpg
 ing: avopesto-ing
 facts: avopesto-facts
+servingSize: 2 tbsp (32 g)
 section1: 
 start2: 
 section2: 

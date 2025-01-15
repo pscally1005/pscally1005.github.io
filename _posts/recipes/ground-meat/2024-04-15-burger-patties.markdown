@@ -9,6 +9,7 @@ permalink: /recipes/burger-patties
 image: /assets/Food/Ground Meat/Burger Patties/patty-cover.jpg
 ing: patty-ing
 facts: patty-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

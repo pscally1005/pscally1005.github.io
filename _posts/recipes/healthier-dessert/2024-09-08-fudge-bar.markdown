@@ -9,6 +9,7 @@ permalink: /recipes/oatmeal-fudge-bars
 image: /assets/Food/Healthier Dessert/Oatmeal Fudge/of-cover.jpg
 ing: oatmealfudge-ing
 facts: oatmealfudge-facts
+servingSize: 1 bar
 section1: Crust
 start2: Natural peanut butter
 section2: Fudge

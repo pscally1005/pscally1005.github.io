@@ -10,6 +10,7 @@ permalink: /recipes/chickpea-cookies
 image: /assets/Food/Healthier Dessert/Chickpea Cookies/chickpea-cookies.jpg
 ing: chickpeacookies-ing
 facts: chickpeacookies-facts
+servingSize: 1 cookie
 section1: Chocolate Chips
 start2: Chickpeas, drained and rinsed
 section2: Cookie Dough

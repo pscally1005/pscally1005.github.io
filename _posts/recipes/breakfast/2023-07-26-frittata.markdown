@@ -9,6 +9,7 @@ permalink: /recipes/frittata
 image: /assets/Food/Breakfast/Frittata/frittata-cover.jpg
 ing: frittata-ing
 facts: frittata-facts
+servingSize: 1 slice
 section1: Veggies
 start2: Salsa
 section2: Spices

@@ -9,6 +9,7 @@ permalink: /recipes/oat-milk
 image: /assets/Food/Drinks/Oat Milk/oat-milk.jpg
 ing: milk-ing
 facts: milk-facts
+servingSize: 1 cup (240 g)
 section1: 
 start2: 
 section2: 

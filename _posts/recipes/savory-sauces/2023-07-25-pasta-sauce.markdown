@@ -9,6 +9,7 @@ permalink: /recipes/pasta-sauce
 image: /assets/Food/Savory Sauces/Pasta Sauce/sauce.jpg
 ing: sauce-ing
 facts: sauce-facts
+servingSize: 1/3 cup (100 g)
 section1: Onion & Garlic
 start2: Crushed tomatoes
 section2: Tomatoes & Spices

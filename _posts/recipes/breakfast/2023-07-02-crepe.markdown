@@ -9,6 +9,7 @@ permalink: /recipes/crepe
 image: /assets/Food/Breakfast/Crepe/crepe-cover.jpg
 ing: crepe-ing
 facts: crepe-facts
+servingSize: 1 wrap
 section1: 
 start2: 
 section2: 

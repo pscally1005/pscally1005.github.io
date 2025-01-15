@@ -9,6 +9,7 @@ permalink: /recipes/peanut-chicken
 image: /assets/Food/Chicken/Peanut/peanut-cover.jpg
 ing: peanutchicken-ing
 facts: peanutchicken-facts
+servingSize: 
 section1: Meat
 start2: Carrots
 section2: Veggies

@@ -10,6 +10,7 @@ permalink: /recipes/egg-wrap
 image: /assets/Food/Breakfast/Egg Wrap/egg-wrap-cover.jpg
 ing: eggwrap-ing
 facts: eggwrap-facts
+servingSize: 1 wrap
 section1: 
 start2: 
 section2: 

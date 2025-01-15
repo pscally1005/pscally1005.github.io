@@ -9,6 +9,7 @@ permalink: /recipes/chocolate-chip-cookie-skillet
 image: /assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-cover.jpg
 ing: cookieskillet-ing
 facts: cookieskillet-facts
+servingSize: 1 slice
 section1: 
 start2: 
 section2: 

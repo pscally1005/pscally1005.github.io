@@ -9,6 +9,7 @@ permalink: /recipes/running-club-broccoli
 image: /assets/Food/Meatless/RRC/rrc-logo.jpg
 ing: rrc-ing
 facts: rrc-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

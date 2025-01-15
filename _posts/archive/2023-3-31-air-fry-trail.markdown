@@ -10,6 +10,7 @@ permalink: /recipes/air-fried-trail-mix
 image: /assets/Food/Finger Food/Air Fry Trail Mix/air-fry-trail-cover.jpg
 ing: airfrytrail-ing
 facts: airfrytrail-facts
+servingSize: 
 section1: Roasted Chickpeas
 start2: Almonds
 section2: Paprika Spiced Nutes

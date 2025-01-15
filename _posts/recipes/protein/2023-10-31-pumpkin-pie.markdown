@@ -9,6 +9,7 @@ permalink: /recipes/pumpkin-pie
 image: /assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-cover.jpg
 ing: pumpkinpie-ing
 facts: pumpkinpie-facts
+servingSize: 1 slice
 section1: Crust
 start2: Pumpkin puree
 section2: Filling

@@ -9,6 +9,7 @@ permalink: /recipes/baked-beans
 image: /assets/Food/Meatless/Baked Beans/baked-beans.jpg
 ing: bakedbeans-ing
 facts: bakedbeans-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

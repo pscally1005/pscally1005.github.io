@@ -9,6 +9,7 @@ permalink: /recipes/refried-beans
 image: /assets/Food/Meatless/Refried/refried-cover.jpg
 ing: refried-ing
 facts: refried-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

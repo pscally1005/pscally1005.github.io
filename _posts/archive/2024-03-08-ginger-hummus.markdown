@@ -10,6 +10,7 @@ permalink: /recipes/ginger-hummus
 image: /assets/Food/Savory Sauces/Ginger Hummus/ginger-hummus-cover.jpg
 ing: gingerhummus-ing
 facts: gingerhummus-facts
+servingSize: 2 tbsp (31 g)
 section1: 
 start2: 
 section2: 

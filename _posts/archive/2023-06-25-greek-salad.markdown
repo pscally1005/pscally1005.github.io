@@ -10,6 +10,7 @@ permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Salad/salad-cover.jpg
 ing: salad-ing
 facts: salad-facts
+servingSize: 
 section1: Chicken
 start2: Onion
 section2: Vegetables & Toppings

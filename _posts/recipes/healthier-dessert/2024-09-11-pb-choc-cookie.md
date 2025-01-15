@@ -9,6 +9,7 @@ permalink: /recipes/peanut-butter-date-cookies
 image: /assets/Food/Healthier Dessert/PB Date Cookie/pb-date-cover.jpg
 ing: pbdatecookie-ing
 facts: pbdatecookie-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

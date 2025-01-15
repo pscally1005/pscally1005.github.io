@@ -9,6 +9,7 @@ permalink: /recipes/bbq-sauce
 image: /assets/Food/Savory Sauces/BBQ/bbq.jpg
 ing: bbq-ing
 facts: bbq-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

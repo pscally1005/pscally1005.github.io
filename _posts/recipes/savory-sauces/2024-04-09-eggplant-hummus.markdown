@@ -9,6 +9,7 @@ permalink: /recipes/roasted-eggplant-hummus
 image: /assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-cover.jpg
 ing: eggplanthummus-ing
 facts: eggplanthummus-facts
+servingSize: 3 tbsp (46 g)
 section1: 
 start2: 
 section2: 

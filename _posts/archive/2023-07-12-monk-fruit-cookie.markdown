@@ -10,6 +10,7 @@ permalink: /recipes/monk-fruit-cookies
 image: /assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-cover.jpg
 ing: monkfruit-ing
 facts: monkfruit-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

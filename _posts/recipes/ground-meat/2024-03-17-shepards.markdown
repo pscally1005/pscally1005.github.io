@@ -9,6 +9,7 @@ permalink: /recipes/shepards-pie
 image: /assets/Food/Ground Meat/Shepards/shepards-cover.jpg
 ing: shepards-ing
 facts: shepards-facts
+servingSize: 
 section1: Filling
 start2: Frozen cauliflower, thawed
 section2: Topping

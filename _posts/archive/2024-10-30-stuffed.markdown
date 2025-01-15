@@ -10,6 +10,7 @@ permalink: /recipes/stuffed-peppers
 image: /assets/Food/Ground Meat/Stuffed/stuffed-cover.jpg
 ing: stuffed-ing
 facts: stuffed-facts
+servingSize: 1 pepper
 section1: Lentils
 start2: Bell pepper
 section2: Peppers

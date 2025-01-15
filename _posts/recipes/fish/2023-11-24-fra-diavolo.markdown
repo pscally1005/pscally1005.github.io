@@ -9,6 +9,7 @@ permalink: /recipes/fra-diavolo
 image: /assets/Food/Fish/Fra Diavolo/fra-diavolo-cover.jpg
 ing: fradiavolo-ing
 facts: fradiavolo-facts
+servingSize: 
 section1: Sauce
 start2: Minced garlic
 section2: Shrimp

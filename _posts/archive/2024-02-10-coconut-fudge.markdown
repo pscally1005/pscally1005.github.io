@@ -10,6 +10,7 @@ permalink: /recipes/coconut-fudge
 image: /assets/Food/Healthier Dessert/Coconut Fudge/fudge.jpg
 ing: fudge-ing
 facts: fudge-facts
+servingSize: 1 piece
 section1: 
 start2: 
 section2: 

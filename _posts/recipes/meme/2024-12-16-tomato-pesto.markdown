@@ -9,6 +9,7 @@ permalink: /recipes/tomato-pesto
 image: /assets/Food/Meme/Tomato Pesto/pasta.jpg
 ing: tomatopesto-ing
 facts: tomatopesto-facts
+servingSize: 3 tbsp (50 g)
 section1: 
 start2: 
 section2: 

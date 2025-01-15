@@ -9,6 +9,7 @@ permalink: /recipes/baked-sweet-potato
 image: /assets/Food/Meatless/Baked Potato/baked-potato-2.jpg
 ing: potato-ing
 facts: potato-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

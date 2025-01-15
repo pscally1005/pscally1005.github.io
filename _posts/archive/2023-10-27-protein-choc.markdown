@@ -10,6 +10,7 @@ permalink: /recipes/protein-chocolate-spread
 image: /assets/Food/Sweet Spreads/Protein Choc/protein-choc-cover.jpg
 ing: proteinchoc-ing
 facts: proteinchoc-facts
+servingSize: 2.5 tbsp (40 g)
 section1: 
 start2: 
 section2: 

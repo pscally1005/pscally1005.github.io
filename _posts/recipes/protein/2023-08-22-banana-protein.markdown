@@ -9,6 +9,7 @@ permalink: /recipes/banana-protein
 image: /assets/Food/Protein Powder/Banana Protein/banana-protein-cover.jpg
 ing: bananaprotein-ing
 facts: bananaprotein-facts
+servingSize: 1 slice
 section1: Wet
 start2: Cinnamon
 section2: Dry

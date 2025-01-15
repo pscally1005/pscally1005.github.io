@@ -9,6 +9,7 @@ permalink: /recipes/avocado-toast
 image: /assets/Food/Breakfast/Avocado Toast/toast.jpg
 ing: toast-ing
 facts: toast-facts
+servingSize: 2 slices
 section1: Bread
 start2: Avocado
 section2: Avocado Mix

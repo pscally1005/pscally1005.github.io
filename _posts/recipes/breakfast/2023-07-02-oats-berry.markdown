@@ -9,6 +9,7 @@ permalink: /recipes/oats-berry
 image: /assets/Food/Breakfast/Oatmeal/oats-berry.jpg
 ing: oatsberry-ing
 facts: oatsberry-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

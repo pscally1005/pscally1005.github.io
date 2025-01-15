@@ -9,6 +9,7 @@ permalink: /recipes/cranberry-sauce
 image: /assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-cover.jpg
 ing: cranberrysauce-ing
 facts: cranberrysauce-facts
+servingSize: 1/4 cup (60 g)
 section1: 
 start2: 
 section2: 

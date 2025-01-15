@@ -9,6 +9,7 @@ permalink: /recipes/creamy-pesto-hummus
 image: /assets/Food/Savory Sauces/Pesto Hummus/pesto-hummus.jpg
 ing: pestohummus-ing
 facts: pestohummus-facts
+servingSize: 2 tbsp (33 g)
 section1: 
 start2: 
 section2: 

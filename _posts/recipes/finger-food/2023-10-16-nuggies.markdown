@@ -9,6 +9,7 @@ permalink: /recipes/chicken-nuggets
 image: /assets/Food/Finger Food/Nuggies/nuggies.jpg
 ing: nuggies-ing
 facts: nuggies-facts
+servingSize: 1 nugget
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/yogurt-pbj
 image: /assets/Food/Breakfast/Yogurt/yogurt-pbj.jpg
 ing: yogurtpbj-ing
 facts: yogurtpbj-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

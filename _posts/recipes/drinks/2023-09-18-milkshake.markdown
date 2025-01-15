@@ -9,6 +9,7 @@ permalink: /recipes/milkshake
 image: /assets/Food/Drinks/Milkshake/milkshake.jpg
 ing: milkshake-ing
 facts: milkshake-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

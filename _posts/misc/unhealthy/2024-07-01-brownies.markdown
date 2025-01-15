@@ -9,6 +9,7 @@ permalink: /recipes/brownies
 image: /assets/Misc/Unhealthy/Brownies/brownies-cover.jpg
 ing: brownies-ing
 facts: brownies-facts
+servingSize: 1 brownie
 section1: 
 start2: 
 section2: 

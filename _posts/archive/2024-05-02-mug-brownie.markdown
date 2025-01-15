@@ -10,6 +10,7 @@ permalink: /recipes/mug-brownie
 image: /assets/Food/Healthier Dessert/Mug Brownie/mug-brownie-cover.jpg
 ing: mugbrownie-ing
 facts: mugbrownie-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

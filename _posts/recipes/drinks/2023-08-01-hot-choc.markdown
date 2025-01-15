@@ -9,6 +9,7 @@ permalink: /recipes/hot-chocolate
 image: /assets/Food/Drinks/Hot Chocolate/hot-choc.jpg
 ing: hotchoc-ing
 facts: hotchoc-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

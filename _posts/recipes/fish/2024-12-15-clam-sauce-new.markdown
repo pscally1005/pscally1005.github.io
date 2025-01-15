@@ -9,6 +9,7 @@ permalink: /recipes/pasta-with-clam-sauce
 image: /assets/Food/Fish/Clam Sauce New/mixed.jpg
 ing: clamsaucenew-ing
 facts: clamsaucenew-facts
+servingSize: 
 section1: Sauce
 start2: Red lentil pasta
 section2: Pasta

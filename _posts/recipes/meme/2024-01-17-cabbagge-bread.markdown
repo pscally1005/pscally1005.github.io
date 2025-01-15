@@ -9,6 +9,7 @@ permalink: /recipes/cabbage-bread
 image: /assets/Food/Bread/Cabbage/cabbage-cover.jpg
 ing: cabbagebread-ing
 facts: cabbagebread-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

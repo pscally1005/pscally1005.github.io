@@ -9,6 +9,7 @@ permalink: /recipes/plantain-chips
 image: /assets/Food/Finger Food/Plantain Chips/plantain-chips-cover.jpg
 ing: plantainchips-ing
 facts: plantainchips-facts
+servingSize: 1 oz (28 g)
 section1: 
 start2: 
 section2: 

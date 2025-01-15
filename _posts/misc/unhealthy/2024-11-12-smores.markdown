@@ -9,6 +9,7 @@ permalink: /recipes/smores
 image: /assets/Misc/Unhealthy/Smores/smores-cover.jpg
 ing: smores-ing
 facts: smores-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

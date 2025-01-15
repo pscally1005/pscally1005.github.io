@@ -9,6 +9,7 @@ permalink: /recipes/penne-casserole
 image: /assets/Food/Ground Meat/Penne/penne-cover.jpg
 ing: penne-ing
 facts: penne-facts
+servingSize: 
 section1: Pasta
 start2: Extra virgin olive oil
 section2: Onion

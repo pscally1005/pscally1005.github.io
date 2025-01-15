@@ -9,6 +9,7 @@ permalink: /recipes/eggplant-parm
 image: /assets/Food/Meatless/Eggplant Parm/cover.jpg
 ing: eggplantparm2-ing
 facts: eggplantparm2-facts
+servingSize: 
 section1: Eggplant
 start2: Egg
 section2: Cheese mix

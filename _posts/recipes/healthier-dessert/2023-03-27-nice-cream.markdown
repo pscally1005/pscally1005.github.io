@@ -9,6 +9,7 @@ permalink: /recipes/nice-cream
 image: /assets/Food/Healthier Dessert/Nice Cream/cover.jpg
 ing: nicecream-ing
 facts: nicecream-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

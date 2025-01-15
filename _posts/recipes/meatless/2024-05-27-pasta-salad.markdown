@@ -9,6 +9,7 @@ permalink: /recipes/mediterranean-pasta-salad
 image: /assets/Food/Meatless/Pasta Salad/pasta-salad-cover.jpg
 ing: pastasalad-ing
 facts: pastasalad-facts
+servingSize: 
 section1: Roasted Peppers
 start2: Chickpea pasta
 section2: Chickpea Pasta

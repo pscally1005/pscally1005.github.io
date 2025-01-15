@@ -9,6 +9,7 @@ permalink: /recipes/tilapia
 image: /assets/Food/Fish/Tilapia/tilapia.jpg
 ing: tilapia-ing
 facts: tilapia-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

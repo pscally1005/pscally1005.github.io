@@ -9,6 +9,7 @@ permalink: /recipes/date-brownie
 image: /assets/Food/Healthier Dessert/Date Brownie/date-brownie-cover.jpg
 ing: datebrownie-ing
 facts: datebrownie-facts
+servingSize: 1 brownie
 section1: 
 start2: 
 section2: 

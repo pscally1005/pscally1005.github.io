@@ -9,6 +9,7 @@ permalink: /recipes/trail-mix-balls
 image: /assets/Food/Finger Food/Trail Mix Balls/trail-ball.jpg
 ing: trailball-ing
 facts: trailball-facts
+servingSize: 1 ball
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/electrolyte-protein-shake
 image: /assets/Food/Drinks/Salt Shake/salt-shake.jpg
 ing: saltshake-ing
 facts: saltshake-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

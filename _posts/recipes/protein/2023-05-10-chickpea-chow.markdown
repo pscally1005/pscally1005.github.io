@@ -9,6 +9,7 @@ permalink: /recipes/chickpea-chows
 image: /assets/Food/Protein Powder/Chickpea Chow/chow.jpg
 ing: chow-ing
 facts: chow-facts
+servingSize: 1 piece
 section1: 
 start2: 
 section2: 

@@ -10,6 +10,7 @@ permalink: /recipes/dried-cranberry
 image: /assets/Food/Finger Food/Cranberry/cranberry-cover.jpg
 ing: cranberry-ing
 facts: cranberry-facts
+servingSize: 1/4 cup (40 g)
 section1: 
 start2: 
 section2: 

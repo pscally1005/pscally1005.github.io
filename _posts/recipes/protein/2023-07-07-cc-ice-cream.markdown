@@ -9,6 +9,7 @@ permalink: /recipes/cottage-cheese-ice-cream
 image: /assets/Food/Protein Powder/Cottage Cheese Ice Cream/cc-cream.jpg
 ing: ccicecream-ing
 facts: ccicecream-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

@@ -10,6 +10,7 @@ permalink: /recipes/mint-chocolate-chip-date-cookies
 image: /assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover-green.jpg
 ing: mintchip-ing
 facts: mintchip-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/mediterranean-potato-salad
 image: /assets/Food/Meatless/Potato Salad/potato-salad-cover.jpg
 ing: potatosalad-ing
 facts: potatosalad-facts
+servingSize: 
 section1: Roasted Potatoes
 start2: Bell pepper
 section2: Roasted Peppers

@@ -9,6 +9,7 @@ permalink: /recipes/apple-bread
 image: /assets/Food/Protein Powder/Apple Bread/apple-bread-cover.jpg
 ing: appplebread-ing
 facts: appplebread-facts
+servingSize: 1 slice
 section1: Dry Ingredients
 start2: Nonfat cottage cheese
 section2: Wet Ingredients

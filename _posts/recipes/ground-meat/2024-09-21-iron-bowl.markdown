@@ -9,6 +9,7 @@ permalink: /recipes/iron-bowl
 image: /assets/Food/Ground Meat/Iron Bowl/iron-bowl-cover.jpg
 ing: ironbowl-ing
 facts: ironbowl-facts
+servingSize: 
 section1: Lentils
 start2: Frozen spinach, thawed
 section2: Spinach

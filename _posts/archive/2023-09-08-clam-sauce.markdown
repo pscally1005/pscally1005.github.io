@@ -10,6 +10,7 @@ permalink: /recipes/clam-sauce
 image: /assets/Food/Fish/Clam Sauce/not-mixed.jpg
 ing: clamsauce-ing
 facts: clamsauce-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

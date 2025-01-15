@@ -9,6 +9,7 @@ permalink: /recipes/spaghetti-squash
 image: /assets/Food/Meatless/Spaghetti Squash/spaghetti-squash-cover.jpg
 ing: spaghettisquash-ing
 facts: spaghettisquash-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

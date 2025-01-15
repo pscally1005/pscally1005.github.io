@@ -9,6 +9,7 @@ permalink: /recipes/three-ingredient-brownies
 image: /assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-cover.jpg
 ing: 3ingbrownie-ing
 facts: 3ingbrownie-facts
+servingSize: 1 brownie bite
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/meatballs
 image: /assets/Food/Ground Meat/Meatballs/meatballs-cover.jpg
 ing: meatballs-ing
 facts: meatballs-facts
+servingSize: 
 section1: Meatballs
 start2: Zucchini
 section2: Zoodles

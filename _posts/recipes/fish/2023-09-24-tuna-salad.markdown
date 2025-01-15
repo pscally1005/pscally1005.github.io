@@ -9,6 +9,7 @@ permalink: /recipes/tuna-salad
 image: /assets/Food/Fish/Tuna Salad/tuna-salad.jpg
 ing: tunasalad-ing
 facts: tunasalad-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

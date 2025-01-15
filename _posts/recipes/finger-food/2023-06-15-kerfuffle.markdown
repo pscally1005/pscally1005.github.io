@@ -9,6 +9,7 @@ permalink: /recipes/chocolate-truffle
 image: /assets/Food/Finger Food/Kerfuffle/kerfuffle.jpg
 ing: kerfuffle-ing
 facts: kerfuffle-facts
+servingSize: 1 truffle
 section1: 
 start2: 
 section2: 

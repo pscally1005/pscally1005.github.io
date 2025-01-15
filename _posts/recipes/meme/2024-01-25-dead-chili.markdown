@@ -9,6 +9,7 @@ permalink: /recipes/dead-simple-chili
 image: /assets/Food/Meme/Chili/dead-chili.jpg
 ing: deadchili-ing
 facts: deadchili-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

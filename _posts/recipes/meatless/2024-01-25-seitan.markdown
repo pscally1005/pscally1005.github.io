@@ -9,6 +9,7 @@ permalink: /recipes/seitan
 image: /assets/Food/Meatless/Seitan/seitan-cover.jpg
 ing: seitan-ing
 facts: seitan-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

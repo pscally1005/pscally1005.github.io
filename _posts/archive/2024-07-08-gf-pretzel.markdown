@@ -10,6 +10,7 @@ permalink: /recipes/gluten-free-pretzels
 image: /assets/Food/Bread/GF Pretzel/gf-pretzel-back.jpg
 ing: gfpretzel-ing
 facts: gfpretzel-facts
+servingSize: 1 pretzel
 section1: Dry Ingredients
 start2: Egg
 section2: Wet Ingredients

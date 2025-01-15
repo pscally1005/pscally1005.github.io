@@ -9,6 +9,7 @@ permalink: /recipes/chocolate-free-chocolate
 image: /assets/Food/Meme/Choc Free/choc-free-cover.jpg
 ing: chocfree-ing
 facts: chocfree-facts
+servingSize: 1/2 oz (14 g)
 section1: 
 start2: 
 section2: 

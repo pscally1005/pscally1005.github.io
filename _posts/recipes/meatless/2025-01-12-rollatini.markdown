@@ -9,6 +9,7 @@ permalink: /recipes/eggplant-rollatini
 image: /assets/Food/Meatless/Rollatini/cover.jpg
 ing: rollatini-ing
 facts: rollatini-facts
+servingSize: About 4 rollatini
 section1: Eggplant
 start2: Egg
 section2: Cheese mix

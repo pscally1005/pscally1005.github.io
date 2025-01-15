@@ -10,6 +10,7 @@ permalink: /recipes/yogurt-apple
 image: /assets/Food/Breakfast/Yogurt/yogurt-apple.jpg
 ing: yogurtapple-ing
 facts: yogurtapple-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

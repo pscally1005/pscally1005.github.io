@@ -9,6 +9,7 @@ permalink: /recipes/rx-bars
 image: /assets/Food/Protein Powder/RX/rx-cover.jpg
 ing: rx-ing
 facts: rx-facts
+servingSize: 1 bar
 section1: 
 start2: 
 section2: 

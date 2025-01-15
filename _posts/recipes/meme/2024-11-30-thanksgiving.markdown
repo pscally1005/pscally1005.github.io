@@ -9,6 +9,7 @@ permalink: /recipes/ground-thanksgiving
 image: /assets/Food/Meme/Thanksgiving/mixed-close.jpg
 ing: groundthanksgiving-ing
 facts: groundthanksgiving-facts
+servingSize: 
 section1: Potatoes
 start2: Frozen brussel sprouts, thawed
 section2: Brussel Sprouts

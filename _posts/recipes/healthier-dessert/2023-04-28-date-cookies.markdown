@@ -9,6 +9,7 @@ permalink: /recipes/date-cookies
 image: /assets/Food/Healthier Dessert/Date Cookie/date-cookie-cover.jpg
 ing: datecookie-ing
 facts: datecookie-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

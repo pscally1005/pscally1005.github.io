@@ -9,6 +9,7 @@ permalink: /recipes/baked-chicken-thighs
 image: /assets/Food/Chicken/Baked Thighs/baked-thighs.jpg
 ing: bakedthighs-ing
 facts: bakedthighs-facts
+servingSize: 
 section1: Spice Mix
 start2: Boneless skinless chicken thighs
 section2: Chicken

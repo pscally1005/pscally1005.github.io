@@ -9,6 +9,7 @@ permalink: /recipes/chickpea-date-brownies
 image: /assets/Food/Healthier Dessert/Chickpea Date Brownie/cover.jpg
 ing: chickpeadatebrownies-ing
 facts: chickpeadatebrownies-facts
+servingSize: 1 brownie
 section1: 
 start2: 
 section2: 

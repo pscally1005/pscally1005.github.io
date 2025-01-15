@@ -9,6 +9,7 @@ permalink: /recipes/granola-bars
 image: /assets/Food/Finger Food/Granola Bar/granola-bar-cover.jpg
 ing: granolabar-ing
 facts: granolabar-facts
+servingSize: 1 granola bar
 section1: 
 start2: 
 section2: 

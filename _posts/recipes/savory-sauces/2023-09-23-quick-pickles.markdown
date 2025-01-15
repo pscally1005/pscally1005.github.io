@@ -9,6 +9,7 @@ permalink: /recipes/pickled-onions
 image: /assets/Food/Savory Sauces/Quick Pickles/quick-pickles.jpg
 ing: quickpickle-ing
 facts: quickpickle-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/sloppy-joe
 image: /assets/Food/Ground Meat/Sloppy Joe/cover.jpg
 ing: sloppyjoe-ing
 facts: sloppyjoe-facts
+servingSize: 
 section1: Vegetables
 start2: Ground turkey, 93/7
 section2: Meat & Spices

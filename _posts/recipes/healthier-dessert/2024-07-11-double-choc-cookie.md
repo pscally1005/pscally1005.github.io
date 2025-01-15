@@ -9,6 +9,7 @@ permalink: /recipes/double-chocolate-date-cookies
 image: /assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-cover.jpg
 ing: doublechoccookie-ing
 facts: doublechoccookie-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/reconstituted-peanut-butter
 image: /assets/Food/Meme/PB/pb.jpg
 ing: reconstitutedpb-ing
 facts: reconstitutedpb-facts
+servingSize: 
 section1: 
 start2: 
 section2: 

@@ -9,6 +9,7 @@ permalink: /recipes/pork-tenderloin
 image: /assets/Food/Ground Meat/Pork Tenderloin/pork-tenderloin.jpg
 ing: porktenderloin-ing
 facts: porktenderloin-facts
+servingSize: 
 section1: Meat
 start2: Sweet potato
 section2: Potatoes & Veggies

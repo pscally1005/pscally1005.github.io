@@ -9,6 +9,7 @@ permalink: /recipes/sugar-cookies
 image: /assets/Misc/Unhealthy/Sugar Cookies/cover.jpg
 ing: sugarcookies-ing
 facts: sugarcookies-facts
+servingSize: 1 cookie
 section1: Dry
 start2: Unsalted butter
 section2: Wet

@@ -9,6 +9,7 @@ permalink: /recipes/amaretti
 image: /assets/Food/Healthier Dessert/Amaretti/amaretti-cover.jpg
 ing: amaretti-ing
 facts: amaretti-facts
+servingSize: 1 cookie
 section1: 
 start2: 
 section2: 

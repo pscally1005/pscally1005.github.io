@@ -9,6 +9,7 @@ permalink: /recipes/sweet-potato-yogurt
 image: /assets/Food/Breakfast/Sw Pot Yogurt/sw-pot-yogurt.jpg
 ing: yogurtswpot-ing
 facts: yogurtswpot-facts
+servingSize: 
 section1: 
 start2: 
 section2: 
