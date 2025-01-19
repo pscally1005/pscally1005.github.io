@@ -6,22 +6,22 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/bbq-sauce
-image: /assets/Food/Savory Sauces/BBQ/bbq.jpg
+image: /assets/Food/Savory Sauces/BBQ/bbq-sauce-cover.jpg
 ing: bbq-ing
 facts: bbq-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
+servingSize: 2 tbsp (36 g)
+section1: Step 1
+start2: Crushed tomatoes
+section2: Step 2
 start3: 
 section3: 
 start4: 
 section4: 
 start5: 
 section5: 
-Prep: 5
-Rest: 
-Cook: 60
+Prep: 10
+Rest: 30
+Cook: 40
 Source1: 
 Source2: 
 whisk: https://s.samsungfood.com/3Llgd
@@ -39,9 +39,16 @@ tags:
 - ketchup
 - spread
 - vic
-Description: Most commercial BBQ sauces are loaded with high fructose corn syrup, making them insanely sweet and super bad for you. I prefer to keep mine fully unsweetened, but for a sweeter taste, you can add a little of any sweetener you desire.  If you instead want some ketchup, you should see my <a href="/recipes/ketchup">Date Sweetened Ketchup</a>
+Description: Most commercial BBQ sauces are loaded with high fructose corn syrup, making them insanely sweet and super bad for you. I prefer to keep mine fully unsweetened, but for a sweeter taste, you can add a little of any sweetener you desire.  I love to use my BBQ sauce in my <a href="/recipes/pulled-chicken">BBQ Pulled Chicken and Coleslaw</a>, <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>, and <a href="/recipes/kale">Bean Kaled by Cheese</a>.  If you instead want some ketchup, you should see my <a href="/recipes/ketchup">Date Sweetened Ketchup</a>
 Instructions: 
-- Add all ingredients to a medium saucepan over medium low heat. For some mild sweetness, optionally add some sugar free syrup. Let simmer for about an hour (covered), then transfer to an airtight container in the fridge
+- Finely dice an onion, and add to a medium metal saucepot with a spray of oil and some salt.  Cover and cook on medium heat until translucent, about 8 minutes
 
-- I love to use my BBQ sauce in my <a href="pulled-chicken">BBQ Pulled Chicken and Coleslaw</a>, <a href="bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>, and <a href="kale">Bean Kaled by Cheese</a>
+- Add the rest of the ingredients to the pot, and reduce heat to low
+
+- Optionally, you can add some mild sweetness by adding one of the following:<br><ul><li>1/2 tsp (2.5 g) liquid monk fruit or stevia</li><li>1 tbsp (21 g) honey or maple syrup</li><li>1/4 cup (40 g) dates, figs, or raisins</li></ul>
+
+- Cover and simmer on low heat for 30 minutes.  Remove from the heat, and allow to totally cool (about 30 minutes) before pureeing until smooth with an immersion blender.  Store in the fridge for up to a week, or freeze for later use
+- <center><img src="/assets/Food/Savory Sauces/BBQ/bbq-sauce-pot.jpg" alt="" class="instruction-image"></center>
+
+- I ended up with about 1,152 g of BBQ sauce, or about 32 servings of 2 tbsp (36 g) each.  For comparison, the same 2 tbsp (36 g) serving of <a href="https://www.walmart.com/ip/Sweet-Baby-Ray-s-Original-Barbecue-Sauce-40-oz/10294611?classType=VARIANT&athbdg=L1600&from=/search">bottled BBQ sauce</a> contains the following:<br><ul><li>3x the calories</li><li>4x the carbs</li><li>11x the sugar (all added sugar)</li><li>2x the sodium</li><li>No protein or fiber</li><li>No iron or potassium</li><li>Slightly more expensive</li></ul>
 ---
