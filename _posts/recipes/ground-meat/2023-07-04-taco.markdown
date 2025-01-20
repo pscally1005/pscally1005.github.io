@@ -6,15 +6,15 @@ categories:
 - Recipes
 - Ground Meat
 permalink: /recipes/taco
-image: /assets/Food/Ground Meat/Taco/taco-cover.jpg
+image: /assets/Food/Ground Meat/Taco/taco-meat.jpg
 ing: taco-ing
 facts: taco-facts
 servingSize: 
 section1: Spice Mix
-start2: Minced garlic
-section2: Meat
-start3: Bell pepper
-section3: Vegetables
+start2: Onion
+section2: Veggies
+start3: Ground turkey, 93/7
+section3: Meat
 start4: 
 section4: 
 start5: 
@@ -42,22 +42,23 @@ tags:
 - brown
 - rice
 - vic
-Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my <a href="fajitas">Chicken Fajitas with Peppers</a> recipe, these are an awesome way for each person to build their own meals and have fun at the table. For a no garlic and onion version, see my <a href="low-fodmap-tacos">Low FODMAP Chicken Tacos</a> recipe.  Invite some people over to make tacos and whip up some <a href="salsa">Five Minute Salsa (No Garlic/Onion)</a> or <a href="guacamole">Holy Guacamole</a>; what are you waiting for!
+Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my <a href="/recipes/fajitas">Chicken Fajitas with Peppers</a> recipe, these are an awesome way for each person to build their own meals and have fun at the table. For a no garlic and onion version, see my <a href="/recipes/low-fodmap-tacos">Low FODMAP Chicken Tacos</a> recipe.  Invite some people over to make tacos and whip up some <a href="/recipes/salsa">Five Minute Salsa (No Garlic/Onion)</a> or <a href="/recipes/guacamole">Holy Guacamole</a>; what are you waiting for!
 Instructions: 
 - Mix together seasonings in a medium bowl or mason jar and set aside
 
-- Start with the peppers and onions, since they will take the longest. Preheat a 12" nonstick pan over medium heat with a spray of oil. Wash the vegetables, and cut into long thin strips. Add to the pan with some oil and garlic
+- Start with the veggies, since they will take the longest.  Cut your onions into long thin slices, and add to a 12" pan with olive oil over medium heat.  Other good veggies besides onions are bell peppers, zucchini, and yellow squash
 
-- Season with your spice mix, about 2 tbsp. Cover and cook until soft, browned, and lightly charred, about 20 minutes. Finish with lime juice
-- <center><img src="/assets/Food/Ground Meat/Taco/taco-veggies.jpg" alt="" class="instruction-image"></center>
+- Season the onions with 2 tbsp of the spice mix. Cover and cook until soft, browned, and lightly charred, about 20 minutes. Finish with lime juice
 
-- As the peppers cook, move over to the meat. Heat a large pan on medium heat. Add the oil, garlic, and meat to the pan. Brown the meat, and cook until no longer pink
+- Meanwhile, heat a 10" pan over medium heat with oil.  When hot, add in the meat, and press down to brown the meat.  Cook until no longer pink, and season with the rest of your spice mix
 
-- Stir in the rest spice mixture and pour in water. Reduce heat to 2 and simmer, stirring occasionally, until most of the liquid is absorbed, about 10 minutes. Uncovered
+- Add in the garlic and water, and cover with a lid or foil.  Reduce heat to medium low, and let simmer for 10 minutes with occasional stirring
 
-- Stir in the apple cider vinegar and lime juice. Simmer until flavors combine, 3-4 minutes
-- <center><img src="/assets/Food/Ground Meat/Taco/taco-meat.jpg" alt="" class="instruction-image"></center>
+- Stir in the apple cider vinegar and lime juice. Simmer until flavors combine, about another 5 minutes
+- <center><img src="/assets/Food/Ground Meat/Taco/taco-counter.jpg" alt="" class="instruction-image"></center>
 
-- Serve with <a href="tortilla">Oat-Wheat Tortillas</a>, cheese, and <a href="rice-and-beans">Classic Rice and Beans</a>, or make into a taco salad
-- <center><img src="/assets/Food/Ground Meat/Taco/taco-salad.jpg" alt="" class="instruction-image"></center>
+- Serve your tacos with <a href="/recipes/tortilla">tortillas</a>, cheese, and <a href="/recipes/rice-and-beans">rice and beans</a>, and salad.  Other good toppings are olives, <a href="/recipes/guacamole">guac</a>, <a href="/recipes/salsa">salsa</a>, and tomatoes.
+- <center><img src="/assets/Food/Ground Meat/Taco/taco-bowl.jpg" alt="" class="half-page"><img src="/assets/Food/Ground Meat/Taco/taco-shell.jpg" alt="" class="half-page"></center>
+
+- <i>Note:</i> Nutrition facts are just for the meat and veggies, not including any tortillas, cheese, rice, beans, or other toppings
 ---

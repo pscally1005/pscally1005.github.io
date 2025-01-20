@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Meme Recipes
 permalink: /recipes/ground-thanksgiving
-image: /assets/Food/Meme/Thanksgiving/mixed-close.jpg
+image: /assets/Food/Meme/Thanksgiving/unmixed.jpg
 ing: groundthanksgiving-ing
 facts: groundthanksgiving-facts
 servingSize: 
@@ -59,7 +59,7 @@ Instructions:
 - <center><img src="/assets/Food/Meme/Thanksgiving/carrots.jpg" alt="" class="instruction-image"></center>
 
 - In a large bowl, combine together the sweet potatoes, brussel sprouts, ground turkey, and carrots. Add the cranberry sauce and spices (thyme, allspice, rosemary, cinnamon, nutmeg, cloves, and ginger). Mix until fully combined
-- <center><img src="/assets/Food/Meme/Thanksgiving/unmixed.jpg" alt="" class="half-page"><img src="/assets/Food/Meme/Thanksgiving/mixed.jpg" alt="" class="half-page"></center>
+- <center><img src="/assets/Food/Meme/Thanksgiving/mixed.jpg" alt="" class="instruction-image"></center>
 
 - Divide the mix onto 6 equal servings, about 710 g each
 - <center><img src="/assets/Food/Meme/Thanksgiving/containers.jpg" alt="" class="instruction-image"></center>
