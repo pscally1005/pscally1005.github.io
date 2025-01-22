@@ -1,0 +1,73 @@
+<!-- Copy recipe -->
+<div class="recipe-copy" style="display: none;">
+
+    <!-- Copy ingredients -->
+    <div class="ing-copy">
+        <!-- Loop Variable -->
+        {% assign loopVar = site.data[page.ing] %}
+
+        {% if !page.section1 %}
+            {{ page.section1 | upcase }}<br>
+        {% endif %}
+
+        {% for row in loopVar %}
+            {% if forloop.last %}
+                {% continue %}
+            {% endif %}
+
+            <!-- Process the ingredients as usual -->
+            {% assign food = row["Ingredient"] %}
+            {% assign mass = row["Amount"] %}
+            {% assign unit = row["Unit"] %}
+            {% assign vol = row["Description"] %}
+
+            <!-- Section 2 -->
+            {% if food == page.start2 %}
+                {% if !page.section2 %}
+                    <br>{{ page.section2 | upcase }}<br>
+                {% endif %}
+            {% endif %}
+
+            <!-- Section 3 -->
+            {% if food == page.start3 %}
+                {% if !page.section3 %}
+                    <br>{{ page.section3 | upcase }}<br>
+                {% endif %}      
+            {% endif %}
+
+            <!-- Section 4 -->
+            {% if food == page.start4 %}
+                {% if !page.section4 %}
+                    <br>{{ page.section4 | upcase }}<br>
+                {% endif %}           
+            {% endif %}
+
+            <!-- Section 5 -->
+            {% if food == page.start5 %}
+                {% if !page.section5 %}
+                    <br>{{ page.section5 | upcase }}<br>
+                {% endif %}          
+            {% endif %}
+
+            - {{ vol }} ({{ mass }} g) {{ food }}<br>
+
+        {% endfor %}
+    </div>
+
+    <br><br>
+
+    <!-- Copy steps -->
+    <div class="ins-copy">
+        {% assign count == 0 %}
+        {% for step in page.Instructions %}
+
+            {% if step contains "<center>" %}
+                {% continue %}
+            {% endif %}
+
+            {% assign count = count | plus: 1%}
+            {{count}}. {{ step }}<br><br>
+        {% endfor %}
+    </div>
+
+</div>
