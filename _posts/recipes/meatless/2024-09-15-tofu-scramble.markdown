@@ -11,7 +11,7 @@ ing: tofuscramble-ing
 facts: tofuscramble-facts
 servingSize: 
 section1: Tofu
-start2: Low sodium soy sauce
+start2: Soy sauce, low sodium, gluten free
 section2: Spices
 start3: Lemon juice
 section3: Lemon

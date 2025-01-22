@@ -1,0 +1,141 @@
+Nutrient,Amount,Unit,DV
+Calories,230,,
+"Vitamin A, RAE",487.17,mcg,54 %
+"Carotene, alpha",1782.5,mcg,
+"Carotene, beta",4959.33,mcg,
+"Cryptoxanthin, beta",0.4,mcg,
+"Lutein + zeaxanthin",169.5,mcg,
+"Lycopene",0.5,mcg,
+"Retinol",0,mcg,
+"Thiamin [Vitamin B1]",0.261,mg,22 %
+"Riboflavin [Vitamin B2]",0.288,mg,22 %
+"Niacin [Vitamin B3]",1.822,mg,11 %
+"Pantothenic acid [Vitamin B5]",0.958,mg,19 %
+"Vitamin B6",0.251,mg,15 %
+"Vitamin B12 [Cobalamin]",0.05,mcg,2 %
+"Vitamin B12, added",0,mcg,
+"Folate, DFE [Vitamin B9]",173.82,mcg,43 %
+"Folate, food",173.82,mcg,
+"Folic acid",0,mcg,
+"Vitamin C [Ascorbic acid]",59.6,mg,66 %
+"Vitamin D",0,mcg,0 %
+"Vitamin E (alpha-tocopherol)",1.62,mg,11 %
+"Vitamin E, added",0,mg,
+"Tocopherol, alpha",1.62,mg,
+"Tocopherol, beta",0.01,mg,
+"Tocopherol, delta",0,mg,
+"Tocopherol, gamma",0,mg,
+"Tocotrienol, alpha",0.06,mg,
+"Tocotrienol, beta",0,mg,
+"Tocotrienol, delta",0,mg,
+"Tocotrienol, gamma",0,mg,
+"Vitamin K",245.7,mcg,205 %
+"Vitamin K1 [Phylloquinone]",242.7,mcg,
+"Dihydrophylloquinone",0,mcg,
+"Betaine",3.6,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
+"Choline",31.4,mg,6 %
+"Calcium",192.58,mg,15 %
+"Copper",0.41,mg,46 %
+"Fluoride",2.9,mcg,
+"Iodine",0,mcg,0 %
+"Iron",2.67,mg,15 %
+"Magnesium",68.1,mg,16 %
+"Manganese",0.92,mg,40 %
+"Phosphorus",172.16,mg,14 %
+"Potassium",876.38,mg,19 %
+"Selenium",1.54,mcg,3 %
+"Sodium",1187.41,mg,52 %
+"Zinc",1.56,mg,14 %
+"Protein",10.94,g,22 %
+"Alanine",0.414,g,
+"Arginine",0.514,g,
+"Aspartic acid",1.023,g,
+"Cystine",0.119,g,
+"Cysteine",0,g,
+"Glutamic acid",1.592,g,
+"Glycine",0.34,g,
+"Histidine",0.231,g,20 %
+"Hydroxyproline",0,g,
+"Isoleucine",0.385,g,25 %
+"Leucine",0.637,g,19 %
+"Lysine",0.559,g,18 %
+"Methionine",0.112,g,
+"Phenylalanine",0.436,g,
+"Proline",0.451,g,
+"Serine",0.482,g,
+"Threonine",0.418,g,26 %
+"Tryptophan",0.096,g,24 %
+"Tyrosine",0.199,g,
+"Valine",0.432,g,22 %
+"Phenylalanine + Tyrosine",0.635,g,24 %
+"Methionine + Cysteine",0.112,g,7 %
+"Carbohydrate",34.89,g,13 %
+"Fiber",11.65,g,42 %
+"Starch",10.14,g,
+"Sugars",8.57,g,
+"Fructose",2.32,g,
+"Galactose",0,g,
+"Glucose",2.62,g,
+"Lactose",0,g,
+"Maltose",0.01,g,
+"Sucrose",2.44,g,
+"Net carbs",23.24,g,
+"Fat",6.729,g,9 %
+"Saturated fatty acids",0.96,g,5 %
+"Butanoic acid",0,g,
+"Decanoic acid",0.002,g,
+"Docosanoic acid",0,g,
+"Dodecanoic acid",0,g,
+"Eicosanoic acid",0,g,
+"Heptadecanoic acid",0,g,
+"Hexadecanoic acid",0.25,g,
+"Hexanoic acid",0,g,
+"Octadecanoic acid",0.012,g,
+"Octanoic acid",0,g,
+"Pentadecanoic acid",0,g,
+"Tetracosanoic acid",0,g,
+"Tetradecanoic acid",0.002,g,
+"Monounsaturated fatty acids",3.867,g,
+"Cis-hexadecenoic acid",0,g,
+"Cis-octadecenoic acid",0,g,
+"Docosenoic acid",0,g,
+"Docosenoic cis acid",0,g,
+"Docosenoic trans acid",0,g,
+"Eicosenoic acid",0,g,
+"Heptadecenoic acid",0,g,
+"Hexadecenoic acid",0.006,g,
+"Octadecenoic acid",0.209,g,
+"Pentadecenoic acid",0,g,
+"Tetracosenoic cis acid",0,g,
+"Tetradecenoic acid",0,g,
+"Trans-hexadecenoic acid",0,g,
+"Trans-octadecenoic acid",0,g,
+"Polyunsaturated fatty acids",0.927,g,
+"α-linolenic acid n-3 (ALA)",0,g,
+"γ-linolenic acid n-6 (GLA)",0,g,
+"Cis,cis-eicosadienoic n-6 acid",0,g,
+"Linoleic acid n-6 (LA)",0,g,
+"Docosahexaenoic n-3 acid (DHA)",0,g,
+"Docosapentaenoic n-3 acid (DPA)",0,g,
+"Docosatetraenoic acid",0,g,
+"Eicosadienoic acid",0,g,
+"Eicosadienoic n-3 acid",0,g,
+"Eicosadienoic n-6 acid",0,g,
+"Eicosapentaenoic n-3 acid (EPA)",0,g,
+"Eicosatetraenoic acid",0,g,
+"Octadecadienoic CLAs acid",0,g,
+"Octadecadienoic acid",0.243,g,
+"Octadecatetraenoic acid",0,g,
+"Octadecatrienoic acid",0.156,g,
+"Trans-octadecadienoic acid",0,g,
+"Fatty acids, total trans",0,g,
+"Fatty acids, total trans-monoenoic",0,g,
+"Fatty acids, total trans-polyenoic",0,g,
+"Cholesterol",4.8,mg,2 %
+"Phytosterols",14.67,mg,
+"Alcohol, ethyl",0,g,
+"Ash",5.7,g,
+"Caffeine",0,mg,
+"Theobromine",0,mg,
+"Water",770.88,g,

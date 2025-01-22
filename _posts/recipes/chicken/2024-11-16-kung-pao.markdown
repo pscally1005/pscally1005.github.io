@@ -17,7 +17,7 @@ start3: Garlic, fresh
 section3: Finely Chop
 start4: Boneless skinless chicken breast
 section4: Chicken
-start5: Low sodium soy sauce
+start5: Soy sauce, low sodium, gluten free
 section5: Sauce
 Prep: 20
 Rest: 

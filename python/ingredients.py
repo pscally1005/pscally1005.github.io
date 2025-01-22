@@ -120,8 +120,8 @@ def ingredients(food):
         return str("White cooking wine")
     elif food == "Lemon juice from concentrate, REAL LEMON, bottled" or food == "Lemon juice from concentrate, canned or bottled" or food == "Lemon juice from concentrate by GOLDEN SUN" or food == "Lemon juice from concentrate, CONCORD, bottled":
         return str("Lemon juice")
-    elif food == "Soy sauce made from soy and wheat (shoyu), low sodium" or food == "Low Sodium Soy Sauce by First Street":
-        return str("Low sodium soy sauce")
+    elif food == "Low sodium soy sauce" or food == "Soy sauce made from soy (tamari)" or food == "Soy sauce made from soy and wheat (shoyu), low sodium" or food == "Low Sodium Soy Sauce by First Street":
+        return str("Soy sauce, low sodium, gluten free")
     elif food == "Low sodium chicken broth by Glencourt Inc.":
         return str("Low sodium chicken broth")
     elif food == "Low sodium vegetable broth by The Hain Celestial Group, Inc.":
@@ -132,6 +132,8 @@ def ingredients(food):
         return str("Unsweetened BBQ sauce")
     elif food == "ketchup":
         return str("Date sweetened ketchup")
+    elif food == "Soup, ready-to-serve, chicken broth":
+        return str("Chicken bone broth")
     
     # Baking
     elif food == "Vanilla instant pudding by SHURFINE":
@@ -264,6 +266,8 @@ def ingredients(food):
         return str("Skim milk")
 
     # Fresh produce
+    elif food == "Endive, raw":
+        return str("Escarole")
     elif food == "Tangerines, raw, (mandarin oranges)":
         return str("Mandarin orange")
     elif food == "Corn, raw, yellow, sweet":
@@ -494,6 +498,8 @@ def ingredients(food):
     # Meat & fish
     elif food == "Beef, raw, liver, variety meats and by-products":
         return str("Beef liver")
+    elif food == "Chicken, raw, meat and skin, thigh, broilers or fryers":
+        return str("Chicken thighs, bone in, skin on")
     elif food == "Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers":
         return str("Boneless skinless chicken breast")
     elif food == "Chicken, raw, meat only, thigh, dark meat, broilers or fryers" or food == "Boneless skinless chicken thigh filets by PERDUE":

@@ -45,7 +45,7 @@ tags:
 - walnuts
 - tomato paste
 - soy sauce
-- low sodium soy sauce
+- Soy sauce, low sodium, gluten free
 - mustard
 - dijon mustard
 - horseradish mustard

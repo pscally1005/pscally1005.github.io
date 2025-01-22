@@ -13,7 +13,7 @@ servingSize:
 section1: Veggies
 start2: Boneless skinless chicken thighs
 section2: Chicken
-start3: Low sodium soy sauce
+start3: Soy sauce, low sodium, gluten free
 section3: Spices + Broth
 start4: Red lentil pasta
 section4: At the End

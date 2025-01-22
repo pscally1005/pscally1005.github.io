@@ -4,6 +4,7 @@ Water,0.00,1.00,0.00000,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Chickpeas, drained and rinsed",0.86,255.00,0.00337,28,13.49,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Pinto beans, drained and rinsed",0.86,255.00,0.00337,39,20.22,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Pinto Beans, drained and rinsed",0.86,255.00,0.00337,39,20.22,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+"Pinto beans, drained",0.86,255.00,0.00337,39,20.22,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Black beans, drained and rinsed",0.86,255.00,0.00337,30,16.55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Kidney beans, drained and rinsed",0.86,255.00,0.00337,24,14.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Beans, drained and rinsed",0.86,255.00,0.00337,30,16.55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -119,7 +120,8 @@ Diced tomatoes,1.48,784.00,0.00189,38,3.32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.
 "Diced tomatoes, unsalted",1.48,784.00,0.00189,38,3.32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Cumin, ground",1.28,70.00,0.01829,12,44.24,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Red pepper flakes,1.44,49.00,0.02939,16,55.60,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Low sodium soy sauce,1.58,420.00,0.00376,15,14.44,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Soy sauce, low sodium, gluten free,1.58,420.00,0.00376,15,14.44,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+"Soy sauce, low sodium, gluten free",3.99,300.00,0.01330,15,5.88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/San-J-Tamari-Gluten-Reduced-Sodium/dp/B00Z7WC33S,0.0,0.0
 "Parsley, dried",1.12,11.20,0.10000,32,50.64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Sugar free syrup,2.36,672.00,0.00351,40,11.99,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
 "Sugar free syrup, or maple syrup or honey",2.36,672.00,0.00351,40,11.99,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
@@ -336,3 +338,6 @@ Chickpea flour,1.50,454.00,0.00330,38,62.95,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/m
 Sodium Chloride,2.59,454.00,0.00570,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/Amazon-Brand-Happy-Ground-Ounces/dp/B07QW1G8MW/ref=sr_1_6_mod_primary_new?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-6,0.0,0.0
 Potassium Chloride,9.98,254.70,0.03918,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/Sodium-Free-Substitute-Potassium-Alternative-Seasoning/dp/B07MVJTL81/ref=sr_1_5?sr=8-5,0.0,0.0
 Magnesium Malate,15.96,99.05,0.16113,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/dp/B0C3N91198,0.0,0.0
+Chicken bone broth,1.37,905.60,0.00151,0,0.44,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
+Escarole,2.99,400.00,0.00748,45,3.35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+"Chicken thighs, bone in, skin on",1.49,454.00,0.00328,0,0.25,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
