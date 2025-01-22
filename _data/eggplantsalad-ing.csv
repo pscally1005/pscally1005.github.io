@@ -1,7 +1,7 @@
 Ingredient,Amount,Unit,Description
 "Eggplant",548,g,"1 medium"
-"Extra virgin olive oil",14,g,"1 tbsp"
-"Garlic powder",2,g,"1/2 tsp"
+"Extra virgin olive oil",15,g,"1 tbsp"
+"Garlic powder",1.5,g,"1/2 tsp"
 "Onion powder",1,g,"1/2 tsp"
 "Black pepper, ground",1,g,"1/4 tsp"
 "Salt",1,g,"Large pinch"
@@ -11,11 +11,11 @@ Ingredient,Amount,Unit,Description
 "Tomato",240,g,"4 medium"
 "Feta cheese",38,g,"1/4 cup"
 "White vinegar",15,g,"1 tbsp"
-"Extra virgin olive oil",14,g,"1 tbsp"
+"Extra virgin olive oil",15,g,"1 tbsp"
 "Lemon juice",15,g,"1 tbsp"
 "Parsley, dried",2,g,"1 tbsp"
 "Garlic powder",1,g,"1/2 tsp"
 "Onion powder",1,g,"1/2 tsp"
 "Black pepper, ground",1,g,"1/4 tsp"
-"Salt",2,g,"1/4 tsp"
+"Salt",1.5,g,"1/4 tsp"
 Servings,4

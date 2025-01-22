@@ -1,7 +1,7 @@
 Ingredient,Amount,Unit,Description
 "Carrots",454,g,"1 lb"
 "Onion",197,g,"1 medium"
-"Extra virgin olive oil",14,g,"1 tbsp"
+"Extra virgin olive oil",15,g,"1 tbsp"
 "Minced garlic",15,g,"1 tbsp"
 "Ground turkey, 93/7",454,g,"1 lb"
 "Diced tomatoes",411,g,"14.5oz can"
@@ -14,6 +14,6 @@ Ingredient,Amount,Unit,Description
 "Balsamic vinegar",16,g,"1 tbsp"
 "Water",711,g,"3 cup"
 "Quick oats",160,g,"2 cup"
-"Salt",2,g,"1/4 tsp"
+"Salt",1.5,g,"1/4 tsp"
 "Grated parmesan cheese",15,g,"2 tbsp"
 Servings,4
