@@ -1,7 +1,14 @@
 <!-- Copy recipe -->
 <div class="recipe-copy" style="display: none;">
 
-    <!-- Copy ingredients -->
+    <!-- Description -->
+    <div class="desc-copy">
+        {{ page.Description }}
+    </div>
+
+    <br><br>
+
+    <!-- Ingredients -->
     <div class="ing-copy">
         <!-- Loop Variable -->
         {% assign loopVar = site.data[page.ing] %}
@@ -56,7 +63,7 @@
 
     <br><br>
 
-    <!-- Copy steps -->
+    <!-- Steps -->
     <div class="ins-copy">
         {% assign count == 0 %}
         {% for step in page.Instructions %}
@@ -69,5 +76,12 @@
             {{count}}. {{ step }}<br><br>
         {% endfor %}
     </div>
+
+    <br>
+
+    <!-- Link -->
+     <div class="link-copy">
+        {{ site.url }}{{ pageurl }}
+     </div>
 
 </div>
