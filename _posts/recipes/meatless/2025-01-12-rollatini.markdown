@@ -23,7 +23,7 @@ Prep: 45
 Rest: 
 Cook: 45
 Source1: https://www.poormanprotein.com/recipes/eggplant-parm
-Source2: 
+Source2: https://www.poormanprotein.com/recipes/pasta-sauce
 whisk: https://s.samsungfood.com/kSpc3
 tags: 
 - eggplant parmesean

@@ -23,7 +23,7 @@ Prep: 45
 Rest: 
 Cook: 50
 Source1: https://www.skinnytaste.com/lighter-eggplant-parmesan-5-pts/
-Source2: 
+Source2: https://www.poormanprotein.com/recipes/pasta-sauce
 whisk: https://s.samsungfood.com/g3iri
 tags: 
 - eggplant parmesean

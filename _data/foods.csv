@@ -120,7 +120,7 @@ Diced tomatoes,1.48,784.00,0.00189,38,3.32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.
 "Diced tomatoes, unsalted",1.48,784.00,0.00189,38,3.32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Cumin, ground",1.28,70.00,0.01829,12,44.24,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Red pepper flakes,1.44,49.00,0.02939,16,55.60,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Soy sauce, low sodium, gluten free,1.58,420.00,0.00376,15,14.44,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Low sodium soy sauce,1.58,420.00,0.00376,15,14.44,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Soy sauce, low sodium, gluten free",3.99,300.00,0.01330,15,5.88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/San-J-Tamari-Gluten-Reduced-Sodium/dp/B00Z7WC33S,0.0,0.0
 "Parsley, dried",1.12,11.20,0.10000,32,50.64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Sugar free syrup,2.36,672.00,0.00351,40,11.99,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
@@ -341,3 +341,4 @@ Magnesium Malate,15.96,99.05,0.16113,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,ht
 Chicken bone broth,1.37,905.60,0.00151,0,0.44,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Escarole,2.99,400.00,0.00748,45,3.35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Chicken thighs, bone in, skin on",1.49,454.00,0.00328,0,0.25,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
+Sun dried tomatoes,3.49,113.20,0.03083,38,55.76,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0

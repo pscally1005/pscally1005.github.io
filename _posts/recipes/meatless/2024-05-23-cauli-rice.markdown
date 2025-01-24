@@ -42,6 +42,9 @@ Instructions:
 
 - Remove the blade from the food processor, and mix in the spices with a spatula.  Transfer to your heated pan
 
-- Cook over medium heat for about 5 minutes with occasional stirring.  The rice should become very lightly crispy and browned, like the texture of rice.  Don't mix too much or it will become mushy.  Adjust with spices to taste, garnish with parsley, and serve
+- Cook over medium heat for about 5-10 minutes with occasional stirring to cook off the water.  The cauliflower should become lightly crispy and browned, like the texture of rice.  Don't mix too much or it will become mushy.  Adjust with spices to taste, garnish with parsley, and serve
 - <center><img src="/assets/Food/Meatless/Cauli Rice/cauli-rice-3.jpg" alt="" class="instruction-image"></center>
+
+- You can also make "rice" with other veggies, like broccoli, mushrooms, and sweet potatoes!
+- <center><img src="/assets/Food/Meatless/Cauli Rice/broccoli-rice.jpg" alt="" class="instruction-image"></center>
 ---
