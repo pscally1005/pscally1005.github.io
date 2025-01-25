@@ -61,7 +61,7 @@ tags:
 <center><img src="/assets/Misc/Cooking/Salad/salad-5.jpg" alt="" class="larger-image"></center><br>
 <div id="pickled" class="table-of-contents"></div>
 <br><u><font size="+2">Pickled Vegetables</font></u><br>
-&emsp;Pickled vegetables are great too!  Try adding banana peppers, pickled red onions, or yes even pickles.  Don't knock it till you try it; the acidity and saltiness of the pickled vegetables pairs perfectly with everything else.  My personal favorite is adding saurkraut to my salad, but kimchi also works great too.
+&emsp;Pickled vegetables are great too!  Try adding banana peppers, pickled red onions, or yes even pickles.  Don't knock it till you try it; the acidity and saltiness of the pickled vegetables pairs perfectly with everything else.  My personal favorite is adding sauerkraut to my salad, but kimchi also works great too.
 
 <center><img src="/assets/Misc/Cooking/Salad/salad-6.jpg" alt="" class="larger-image"></center><br>
 <div id="cheese" class="table-of-contents"></div>

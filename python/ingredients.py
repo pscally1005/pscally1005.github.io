@@ -13,6 +13,8 @@ def ingredients(food):
         return str("Electrolyte mix")
 
     # Beans
+    elif food == "Beans, canned, mature seeds, navy":
+        return str("Navy beans, drained and rinsed")
     elif food == "Beans, raw, mature seeds, black":
         return str("Dried beans")
     elif food == "Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds" or food == "Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds":
@@ -118,7 +120,7 @@ def ingredients(food):
         return str("Dijon mustard")
     elif food == "White dry cooking wine by CONCHITA":
         return str("White cooking wine")
-    elif food == "Lemon juice from concentrate, REAL LEMON, bottled" or food == "Lemon juice from concentrate, canned or bottled" or food == "Lemon juice from concentrate by GOLDEN SUN" or food == "Lemon juice from concentrate, CONCORD, bottled":
+    elif food == "Lemon juice, raw" or food == "Lemon juice from concentrate, REAL LEMON, bottled" or food == "Lemon juice from concentrate, canned or bottled" or food == "Lemon juice from concentrate by GOLDEN SUN" or food == "Lemon juice from concentrate, CONCORD, bottled":
         return str("Lemon juice")
     elif food == "Low sodium soy sauce" or food == "Soy sauce made from soy (tamari)" or food == "Soy sauce made from soy and wheat (shoyu), low sodium" or food == "Low Sodium Soy Sauce by First Street":
         return str("Soy sauce, low sodium, gluten free")
@@ -226,6 +228,8 @@ def ingredients(food):
         return str("Chickpea flour")
     
     # Dairy & Eggs
+    elif food == "Cheese, blue":
+        return str("Blue cheese")
     elif food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Shredded mozzarella cheese" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
         return str("Shredded mozzarella cheese, low moisture part skim")
     elif food == "Unflavored Casein Protein Powder by PROMIX" or food == "Nutricost Casein Unflavored Protein Powder":
@@ -414,8 +418,8 @@ def ingredients(food):
         return str("Anchovies, canned")
     elif food == "Yeast extract by MARMITE":
         return str("Marmite")
-    elif food == "Raw saurkraut by Bader Publishing":
-        return str("Saurkraut")
+    elif food == "Raw sauerkraut by Bader Publishing":
+        return str("Sauerkraut")
     
     # Nuts, chocolate, dried fruit
     elif food == "allulose-choc":
@@ -526,7 +530,7 @@ def ingredients(food):
         return str("Pork tenderloin")
     elif food == "Shredded rotisserie chicken, rotisserie by Target Stores":
         return str("Shredded rotisserie chicken")
-    elif food == "Extra firm tofu":
+    elif food == "Extra firm tofu" or food == "Tofu, prepared with calcium sulfate, regular, raw":
         return str("Tofu, firm")
     
     # Else

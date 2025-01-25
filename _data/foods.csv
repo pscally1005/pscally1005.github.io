@@ -17,6 +17,7 @@ Cooked navy beans,0.86,255.00,0.00337,29,21.20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0
 Dried beans,1.00,454.00,0.00220,33,62.55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Dry Yeast,5.48,112.00,0.04893,28,41.22,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Fleischmann-39-s-Active-Dry-Yeast-4-Oz/10306743?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
 Salt,0.67,728.00,0.00092,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Flakey salt,0.67,728.00,0.00092,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Extra virgin olive oil,6.72,476.00,0.01412,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 White vinegar,3.74,"3,780.00",0.00099,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "White vinegar, or apple cider vinegar",3.74,"3,780.00",0.00099,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -313,7 +314,7 @@ Date sweetened ketchup,1.94,400.00,0.00485,53,29.40,TRUE,TRUE,TRUE,TRUE,TRUE,TRU
 "Vanilla Nonfat Greek Yogurt, Sugar Free",5.48,905.60,0.00605,36,3.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Chobani-Zero-Sugar-Vanilla-32oz-Plastic-Tub/805195430?classType=REGULAR&from=/search,0.0,2.7
 Quinoa,6.22,905.60,0.00687,53,64.16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Canned salmon,2.00,85.00,0.02353,0,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Chunk-Style-Pink-Salmon-5-oz/174351945?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
-Saurkraut,3.50,908.00,0.00385,32,4.28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Sauerkraut,3.50,908.00,0.00385,32,4.28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Whole wheat baguette,0.65,190.00,0.00342,74,40.40,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/whole-wheat-baguettes,0.0,0.0
 Mandarin orange,3.97,"1,362.00",0.00291,42,14.34,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Graham cracker,2.22,407.52,0.00545,74,77.66,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,25.8,,0.0,0.0
@@ -342,3 +343,5 @@ Chicken bone broth,1.37,905.60,0.00151,0,0.44,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.
 Escarole,2.99,400.00,0.00748,45,3.35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Chicken thighs, bone in, skin on",1.49,454.00,0.00328,0,0.25,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Sun dried tomatoes,3.49,113.20,0.03083,38,55.76,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Blue cheese,4.00,454.00,0.00881,27,2.34,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
+Lactase enzyme,19.95,500.00,0.03990,0,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/Nutricost-Lactase-Powder-500-Grams/dp/B0748ZBQ47/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,0.0,0.0

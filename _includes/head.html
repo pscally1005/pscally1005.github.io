@@ -1,5 +1,6 @@
 <head>
-  {% assign canonical_url = site.url | append: page.url | replace: '///', '/' | replace: '//', '/' %}
+  <!-- {% assign canonical_url = site.url | append: page.url | replace: '///', '/' | replace: '//', '/' %} -->
+  {% assign canonical_url = page.url | relative_url | absolute_url %}
   <link rel="canonical" href="{{ canonical_url }}" />
   
   <meta charset="utf-8">
@@ -47,7 +48,8 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:description" content="{{ page.Description | escape }}" />
   <meta property="og:image" content="{{ IMAGE | absolute_url }}" />
-  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <!-- <meta property="og:url" content="{{ page.url | absolute_url }}" /> -->
+  <meta property="og:url" content="{{ canonical_url }}" />
   
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />

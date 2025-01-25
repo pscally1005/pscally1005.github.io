@@ -39,8 +39,8 @@ tags:
 - quinoa
 - frozen kale
 - kiwi
-- saurkraut
 - sauerkraut
+- saurkraut
 Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 lunch servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including avocado, salmon, quinoa, and beets. It's delicious, filling, customizable, tasty, while also being high in protein, healthy fats, fiber, and complex carbs
 Instructions: 
 - <center></center><b>Roasted Veggies</b>
@@ -155,5 +155,5 @@ Instructions:
     <li>Nutritional yeast</li>
     <li>Olives</li>
     <li>Salsa</li>
-    <li><b>Saurkraut</b></li></ul>
+    <li><b>Sauerkraut</b></li></ul>
 ---
