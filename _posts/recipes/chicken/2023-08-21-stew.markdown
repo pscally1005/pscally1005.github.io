@@ -10,13 +10,13 @@ image: /assets/Food/Chicken/Stew/stew-cover.jpg
 ing: stew-ing
 facts: stew-facts
 servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
+section1: Veggies
+start2: Boneless skinless chicken thighs
+section2: Meat
+start3: Beans, drained and rinsed
+section3: Liquids
+start4: Paprika
+section4: Dry Spices
 start5: 
 section5: 
 Prep: 30
@@ -41,8 +41,14 @@ tags:
 - balsamic
 Description: This Crockpot stew is a perfect dump and go recipe, like my <a href="/recipes/peanut-chicken-chili">Peanut Chicken Chili</a> and <a href="/recipes/chicken-noodle-stew">Chicken Noodle Stew</a>; meaning you just have to cut up the vegetables and chicken, add it to the crockpot, and have dinner ready for you. No other cooking required!. Add all the vegetables, chicken, and spices raw, and just forget about it until dinner time. This hearty meal is great during a cold winter. Chicken thighs work the best here for the long cooking time, as they won't dry out like chicken breast would.
 Instructions:
-- Cut the peppers and onions into a medium dice, and cut your frozen (and defrosted) broccoli into a similar size.  Dice the chicken into bite sized cubes.  Add all ingredients into the crockpot and mix
+- Cut the peppers and onions into a medium dice, and cut your broccoli florets into a similar size.  Add to a large slow cooker (mine is 6 quarts)
 
-- Cook on low for about 6 hours, or until chicken is fully cooked. Optionally serve with some cheese and rice
+- Dice the chicken into bite sized cubes, and add to the pot
+
+- Measure out all the liquid ingredients in a medium bowl - (drained and rinsed) beans, diced tomatoes, water, salsa, hot sauce, soy sauce, minced garlic, lemon juice, and balsamic vinegar.  Add to the pot as well
+
+- Finally, mix in your dried spices - paprika, chili powder, garlic powder, onion powder, oregano, basil, black pepper, and cinnamon
+
+- Cover and cook on low for about 6 hours, or until chicken is fully cooked, ideally around 180F
 - <center><img src="/assets/Food/Chicken/Stew/stew-2.jpg" alt="" class="instruction-image"></center>
 ---
