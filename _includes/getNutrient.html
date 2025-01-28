@@ -268,8 +268,8 @@
     {% assign factor = 1.0 | round: 2 %}
         
     <!-- Assign factor based on what is being asked for -->
-    {% if fetch == "per100g" %}
-        {% assign factor = 100.000 | divided_by: servingSize | round: 3 %}
+    {% if fetch == "perServing" %}
+        {% assign factor = servingSize | divided_by: 100.000 | round: 3 %}
     {% endif %}
     {% if fetch == "per100cal" %}
         {% assign factor = 100.000 | divided_by: cal | round: 3 %}

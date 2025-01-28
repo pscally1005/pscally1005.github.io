@@ -5,7 +5,6 @@ date:   2024-06-17 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
-- Archive
 permalink: /recipes/double-pumpkin-brownies
 image: /assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownie-cover.jpg
 ing: pumpkinbrownies2-ing

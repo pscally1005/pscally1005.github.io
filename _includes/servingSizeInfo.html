@@ -21,4 +21,5 @@
     or {{ vol2 }} <i>({{ gram2 }} g)</i>
 {% endif %}
 <br>
-{% include nutrition.html facts=nutritionFacts %}
+{% assign mult = gram1 | divided_by: 100.000 | round: 3 %}
+{% include nutrition.html facts=nutritionFacts factor=mult %}

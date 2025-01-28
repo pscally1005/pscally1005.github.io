@@ -30,6 +30,12 @@
         {% assign facts = include.facts %}
     {% endif %}
 
+    <!-- Multiplication factor (if necessary) -->
+    {% assign factor = 1.0 %}
+    {% if include.factor %}
+        {% assign factor = include.factor %}
+    {% endif %}
+
     <!-- Print section title -->
     {% if facts and recipe == "true" %}
         <div class="recipe-header">Nutrition Facts</div>
@@ -114,13 +120,16 @@
             {% for pair in row %}
                 {% assign dv = "" %}
                 {% if row.DV %}
-                    {% assign dv = '&nbsp;(' | append: row.DV | append: ')' %}
+                    {% assign dv_factor = row.DV | times: factor | round: 0 %}
+                    {% assign dv = '&nbsp;(' | append: dv_factor | append: ' %)' %}
                 {% endif %}
 
-                {% assign line0 = row.Amount | plus: 0 | round: 0 | append: row.Unit | append: dv %}
-                {% assign line1 = row.Amount | plus: 0 | round: 1 | append: row.Unit | append: dv %}
-                {% assign line2 = row.Amount | plus: 0 | round: 2 | append: row.Unit | append: dv %}
-                {% assign line3 = row.Amount | plus: 0 | round: 3 | append: row.Unit | append: dv %}
+                {% assign val = row.Amount | times: factor %}
+
+                {% assign line0 = val | plus: 0 | round: 0 | append: row.Unit | append: dv %}
+                {% assign line1 = val | plus: 0 | round: 1 | append: row.Unit | append: dv %}
+                {% assign line2 = val | plus: 0 | round: 2 | append: row.Unit | append: dv %}
+                {% assign line3 = val | plus: 0 | round: 3 | append: row.Unit | append: dv %}
 
                 {% if pair[1] == "Calories" %}
                     {% assign cal = line0 %}
@@ -522,7 +531,7 @@
                             {% assign addedSugar = totalSugar %}
                         {% endif %}
                         {% assign addedSugarPercentage = addedSugar | divided_by: 50 | times: 100 | round: 0 %}
-                        {% assign addedSugarStr = addedSugar | round: 1 | append: 'g (' | append: addedSugarPercentage | append: '%)' %}
+                        {% assign addedSugarStr = addedSugar | round: 1 | append: 'g (' | append: addedSugarPercentage | append: ' %)' %}
                         &emsp;&emsp;<b>Added Sugar</b>: {{ addedSugarStr }}<br>
                     {% endif %}
                     {% if sugAlc != "" and sugAlc != 0.0 %}

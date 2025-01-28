@@ -1,17 +1,13 @@
 Nutrient,Amount,Unit,DV
-Calories,110,,
+Calories,667,,
 "Vitamin C [Ascorbic acid]",0.0,mg,0 %
 "Calcium",0.00,mg,0 %
-"Iron",0.36,mg,2 %
-"Potassium",169.95,mg,4 %
-"Sodium",4.95,mg,0 %
-"Protein",1.00,g,2 %
-"Carbohydrate",4.00,g,1 %
-"Fiber",4.00,g,14 %
-"Sugars",1.00,g,
-"Net carbs",0,g,"Fat",10.001,g,13 %
-"Saturated fatty acids",9.000,g,45 %
-"Monounsaturated fatty acids",0.000,g,
-"Polyunsaturated fatty acids",0.000,g,
-"Fatty acids, total trans",0.000,g,
-"Cholesterol",0.00,mg,0 %
+"Iron",0.00,mg,0 %
+"Sodium",0.00,mg,0 %
+"Protein",0.00,g,0 %
+"Carbohydrate",33.33,g,12 %
+"Fiber",16.70,g,60 %
+"Sugars",0.00,g,
+"Net carbs",16.63,g,
+"Fat",58.330,g,75 %
+"Saturated fatty acids",58.330,g,292 %

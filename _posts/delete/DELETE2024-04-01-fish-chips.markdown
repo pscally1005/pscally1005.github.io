@@ -5,7 +5,6 @@ date:   2024-04-01 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
-- Archive
 permalink: /recipes/fish-and-chips
 image: /assets/Food/Fish/Fish Chips/fish-chips-cover.jpg
 ing: fishchips-ing

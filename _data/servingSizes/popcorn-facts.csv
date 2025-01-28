@@ -1,14 +1,66 @@
 Nutrient,Amount,Unit,DV
-Calories,147,,
-"Calcium",1.20,mg,0 %
-"Iron",1.33,mg,7 %
-"Sodium",0.00,mg,0 %
-"Protein",4.00,g,8 %
-"Carbohydrate",29.33,g,11 %
-"Fiber",5.32,g,19 %
-"Sugars",0.00,g,
-"Net carbs",24.01,g,
-"Fat",2.000,g,3 %
-"Saturated fatty acids",0.000,g,0 %
-"Fatty acids, total trans",0.000,g,
+Calories,385,,
+"Vitamin A, RAE",10.00,mcg,1 %
+"Carotene, alpha",58.00,mcg,
+"Carotene, beta",89.00,mcg,
+"Cryptoxanthin, beta",0.00,mcg,
+"Lutein + zeaxanthin",1444.00,mcg,
+"Lycopene",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.104,mg,9 %
+"Riboflavin [Vitamin B2]",0.083,mg,6 %
+"Niacin [Vitamin B3]",2.299,mg,14 %
+"Vitamin B6",0.156,mg,9 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Vitamin B12, added",0.00,mcg,
+"Folate, DFE [Vitamin B9]",31.00,mcg,8 %
+"Folate, food",31.00,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",0.0,mg,0 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",0.29,mg,2 %
+"Vitamin E, added",0.00,mg,
+"Tocopherol, alpha",0.29,mg,
+"Vitamin K",1.2,mcg,1 %
+"Vitamin K1 [Phylloquinone]",1.2,mcg,
+"Choline",21.1,mg,4 %
+"Calcium",7.00,mg,1 %
+"Copper",0.26,mg,29 %
+"Iron",3.18,mg,18 %
+"Magnesium",143.00,mg,34 %
+"Phosphorus",357.00,mg,29 %
+"Potassium",328.00,mg,7 %
+"Selenium",0.00,mcg,0 %
+"Sodium",162.00,mg,7 %
+"Zinc",3.07,mg,28 %
+"Protein",12.89,g,26 %
+"Carbohydrate",77.47,g,28 %
+"Fiber",14.40,g,51 %
+"Sugars",0.87,g,
+"Net carbs",63.07,g,
+"Fat",4.520,g,6 %
+"Saturated fatty acids",0.634,g,3 %
+"Butanoic acid",0.000,g,
+"Decanoic acid",0.000,g,
+"Dodecanoic acid",0.000,g,
+"Hexadecanoic acid",0.534,g,
+"Hexanoic acid",0.000,g,
+"Octadecanoic acid",0.076,g,
+"Octanoic acid",0.000,g,
+"Tetradecanoic acid",0.000,g,
+"Monounsaturated fatty acids",0.946,g,
+"Docosenoic acid",0.000,g,
+"Eicosenoic acid",0.014,g,
+"Hexadecenoic acid",0.005,g,
+"Octadecenoic acid",0.927,g,
+"Polyunsaturated fatty acids",2.309,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Eicosatetraenoic acid",0.000,g,
+"Octadecadienoic acid",2.254,g,
+"Octadecatetraenoic acid",0.000,g,
+"Octadecatrienoic acid",0.054,g,
 "Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Caffeine",0.00,mg,

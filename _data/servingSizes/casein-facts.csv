@@ -1,9 +1,71 @@
 Nutrient,Amount,Unit,DV
-Calories,110,,
-"Protein",26.00,g,52 %
+Calories,367,,
+"Vitamin A, RAE",0.00,mcg,0 %
+"Carotene, alpha",0.00,mcg,
+"Carotene, beta",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.610,mg,51 %
+"Riboflavin [Vitamin B2]",2.017,mg,155 %
+"Niacin [Vitamin B3]",1.137,mg,7 %
+"Pantothenic acid [Vitamin B5]",5.550,mg,111 %
+"Vitamin B6",0.607,mg,36 %
+"Vitamin B12 [Cobalamin]",2.43,mcg,101 %
+"Folate, DFE [Vitamin B9]",33.00,mcg,8 %
+"Vitamin C [Ascorbic acid]",0.0,mg,0 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",0.00,mg,0 %
+"Tocopherol, alpha",0.00,mg,
+"Vitamin K",0.0,mcg,0 %
+"Betaine",0.0,mg,
+"Biotin [Vitamin B7]",0.00,mcg,0 %
+"Choline",224.0,mg,41 %
+"Calcium",1933.33,mg,149 %
+"Copper",0.03,mg,3 %
+"Fluoride",0.0,mcg,
+"Iodine",0.00,mcg,0 %
+"Iron",1.00,mg,6 %
+"Magnesium",195.00,mg,46 %
+"Manganese",0.000,mg,0 %
+"Phosphorus",1321.00,mg,106 %
+"Potassium",466.67,mg,10 %
+"Selenium",26.70,mcg,49 %
+"Sodium",83.33,mg,4 %
+"Zinc",6.17,mg,56 %
+"Protein",80.00,g,160 %
+"Alanine",3.500,g,
+"Arginine",2.300,g,
+"Aspartic acid",8.400,g,
+"Cystine",1.700,g,
+"Cysteine",1.70,g,
+"Glutamic acid",13.300,g,
+"Glycine",1.400,g,
+"Histidine",1.600,g,140 %
+"Hydroxyproline",0.000,g,
+"Isoleucine",4.600,g,297 %
+"Leucine",8.800,g,257 %
+"Lysine",7.500,g,242 %
+"Methionine",1.600,g,
+"Phenylalanine",2.600,g,
+"Proline",6.600,g,
+"Serine",4.600,g,
+"Threonine",4.500,g,276 %
+"Tryptophan",1.300,g,318 %
+"Tyrosine",2.300,g,
+"Valine",4.400,g,225 %
+"Phenylalanine + Tyrosine",4.9,g,182 %
+"Methionine + Cysteine",3.3,g,213 %
 "Carbohydrate",0.00,g,0 %
 "Fiber",0.00,g,0 %
 "Sugars",0.00,g,
 "Net carbs",0,g,
 "Fat",0.000,g,0 %
-"Cholesterol",20.00,mg,7 %
+"Saturated fatty acids",0.000,g,0 %
+"Monounsaturated fatty acids",0.000,g,
+"Polyunsaturated fatty acids",0.000,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",66.67,mg,22 %
+"Alcohol, ethyl",0.0,g,
+"Caffeine",0.00,mg,

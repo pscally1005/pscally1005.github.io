@@ -5,7 +5,6 @@ date:   2024-02-28 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
-- Archive
 permalink: /recipes/avocado-fudge
 image: /assets/Food/Protein Powder/Avo Fudge/avo-fudge-cover.jpg
 ing: avofudge-ing

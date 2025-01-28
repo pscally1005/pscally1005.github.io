@@ -1,32 +1,32 @@
 Nutrient,Amount,Unit,DV
-Calories,86,,
-"Vitamin A, RAE",4.50,mcg,0 %
-"Carotene, alpha",1.50,mcg,
-"Carotene, beta",58.50,mcg,
-"Cryptoxanthin, beta",1.50,mcg,
-"Lutein + zeaxanthin",96.00,mcg,
+Calories,57,,
+"Vitamin A, RAE",3.00,mcg,0 %
+"Carotene, alpha",1.00,mcg,
+"Carotene, beta",39.00,mcg,
+"Cryptoxanthin, beta",1.00,mcg,
+"Lutein + zeaxanthin",64.00,mcg,
 "Lycopene",0.00,mcg,
-"Riboflavin [Vitamin B2]",2.250,mg,173 %
+"Riboflavin [Vitamin B2]",1.500,mg,115 %
 "Folate, DFE",,undefined,
-"Folate, food",3.00,mcg,
-"Vitamin C [Ascorbic acid]",9.8,mg,11 %
-"Calcium",55.50,mg,4 %
-"Copper",0.18,mg,20 %
-"Iron",0.39,mg,2 %
-"Magnesium",21.00,mg,5 %
-"Manganese",2.959,mg,129 %
-"Phosphorus",36.00,mg,3 %
-"Potassium",304.50,mg,6 %
-"Sodium",1.50,mg,0 %
-"Zinc",0.17,mg,2 %
-"Protein",1.22,g,2 %
-"Carbohydrate",20.89,g,8 %
-"Fiber",5.85,g,21 %
-"Fructose",5.88,g,
-"Glucose",5.50,g,
+"Folate, food",2.00,mcg,
+"Vitamin C [Ascorbic acid]",6.5,mg,7 %
+"Calcium",37.00,mg,3 %
+"Copper",0.12,mg,13 %
+"Iron",0.26,mg,1 %
+"Magnesium",14.00,mg,3 %
+"Manganese",1.973,mg,86 %
+"Phosphorus",24.00,mg,2 %
+"Potassium",203.00,mg,4 %
+"Sodium",1.00,mg,0 %
+"Zinc",0.11,mg,1 %
+"Protein",0.81,g,2 %
+"Carbohydrate",13.93,g,5 %
+"Fiber",3.90,g,14 %
+"Fructose",3.92,g,
+"Glucose",3.67,g,
 "Lactose",0.00,g,
 "Maltose",0.00,g,
-"Sucrose",0.85,g,
-"Net carbs",15.04,g,
-"Fat",0.705,g,1 %
+"Sucrose",0.57,g,
+"Net carbs",10.03,g,
+"Fat",0.470,g,1 %
 "Fatty acids, total trans",0.000,g,

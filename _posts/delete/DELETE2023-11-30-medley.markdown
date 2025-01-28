@@ -5,7 +5,6 @@ date:   2023-11-30 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
-- Archive
 permalink: /recipes/vegetable-medley
 image: /assets/Food/Meatless/Medley/medley-cover.jpg
 ing: medley-ing

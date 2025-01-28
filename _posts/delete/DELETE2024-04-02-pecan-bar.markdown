@@ -5,7 +5,6 @@ date:   2024-04-02 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
-- Archive
 permalink: /recipes/pecan-butter-bars
 image: /assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-cover.jpg
 ing: pecanbar-ing

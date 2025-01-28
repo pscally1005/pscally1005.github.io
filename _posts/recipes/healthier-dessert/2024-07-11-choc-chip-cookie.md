@@ -47,9 +47,6 @@ Instructions:
 
 - I've used almond butter here, but any nut butter will work, like peanut or cashew butter.  For a nut free option, use tahini or pumpkin seed butter
 
-- To make mint chocolate chip cookies instead, use sunflower seed butter as your nut butter, and replace vanilla extract with 1/8 tsp mint extract.  The sunflower butter will turn the cookies green the next day, as seen below
-- <center><img src="/assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover-green.jpg" alt="" class="instruction-image"></center>
-
 - For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change
 
 - Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a silicone spatula. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire

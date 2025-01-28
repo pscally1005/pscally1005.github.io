@@ -5,7 +5,6 @@ date:   2024-04-15 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
-- Archive
 permalink: /recipes/tomato-spread
 image: /assets/Food/Savory Sauces/Tomato Spread/tomato-spread-cover.jpg
 ing: tomatopastespread-ing
