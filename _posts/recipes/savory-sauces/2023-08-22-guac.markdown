@@ -6,13 +6,13 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/guacamole
-image: /assets/Food/Savory Sauces/Guac/guac-cover.jpg
+image: /assets/Food/Savory Sauces/Guac/guac.jpg
 ing: guac-ing
 facts: guac-facts
-servingSize: 2 tbsp (28 g)
-section1: 
-start2: 
-section2: 
+servingSize: 2 tbsp (31 g)
+section1: Guac
+start2: Paprika
+section2: Optional
 start3: 
 section3: 
 start4: 
@@ -22,7 +22,7 @@ section5:
 Prep: 10
 Rest: 
 Cook: 
-Source1: https://www.purelykaylie.com/best-guacamole-recipe/#tasty-recipes-13542-jump-target
+Source1: 
 Source2: 
 whisk: https://s.samsungfood.com/qvqIM
 tags: 
@@ -42,12 +42,9 @@ tags:
 - cilantro
 - garlic
 - vic
-Description: This guac looks a little more brown than normal, but that's because I added some extra spices to make it taste like more than just avocado. Guacamole with more taco flavors is easily a win in my book, but feel free to leave them out to reserve its green color. 1 serving is about 2 tbsp, or 28 g.
+Description: Guacamole is one of my favorite dips, and it's already pretty healthy.  Avocados are a rich source of both fiber and heart healthy mono-unsaturated fats.  Instead of nullifying the health benefits of guac by pairing it with ultra-processed tortilla chips, you can use guacamole as a dip for raw veggies like pepper or carrots, as a salad dressing, or as a spread for your next avocado toast.  Guacamole is also perfect with <a href="/recipes/taco">Sauteed Taco Meat and Fajita Veggies</a>!
 Instructions: 
-- Add ripe avocados to a large bowl. Using a fork, mash until nearly smooth
+- Cut your onion and tomato into a fine dice, and add to a bowl (or mortar and pestle).  Scoop in your avocado, and add in the garlic, lime, salt, and pepper.  Mash until nearly smoothAdd ripe avocados to a large bowl. Using a fork, mash until nearly smooth
 
-- Cut your onion and tomato into a fine dice.  Add onion, tomato, lime, garlic, cilantro, and salt the bowl and mix
-- <center><img src="/assets/Food/Savory Sauces/Guac/guac-2.jpg" alt="" class="instruction-image"></center>
-
-- Optionally add some spices (paprika, chili powder, and black pepper). It will taste much better, but the guac will lose its green color.  Serve on the side of <a href="taco">Sauteed Taco Meat and Fajita Veggies</a>
+- Optionally add some spices (like paprika and chili powder). It will taste better, but the guac will lose its green color.  Optionally garnish with everything bagel seasoning and dried parsley or cilantro
 ---
