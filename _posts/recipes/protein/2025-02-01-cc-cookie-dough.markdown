@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Single Serve Protein Cookie Dough"
-date:   2024-05-03 00:00:00 -05000
+title:  "Protein Cookie Dough Bowl"
+date:   2025-02-01 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
-- Archive
-permalink: /recipes/single-serving-cookie-dough
-image: /assets/Food/Protein Powder/CC Cookie Dough/cc-cookie-dough.jpg
+permalink: /recipes/protein-cookie-dough-bowl
+image: /assets/Food/Protein Powder/CC Cookie Dough/cover.jpg
 ing: cccookiedough-ing
 facts: cccookiedough-facts
 servingSize: 
@@ -41,13 +40,12 @@ tags:
 - chopped chocolate
 - chocolate
 - unsweetened chocolate
-- sugar free
-- syrup
-Description: This recipe is an adapted version of the viral cottage cheese cookie dough, made slightly healthier. It can serve 1 person as a breakfast, or can be portioned and stored in the fridge as a snack. It's super high in protein from the yogurt, cottage cheese, and protein powder, while also containing a lot of fiber (coconut flour), as well as some healthy fats (unsweetened chocolate)
+- liquid monk fruit
+Description: This recipe is an adapted version of the viral healthy cottage cheese cookie dough made even healthier. It can serve 1 person as a breakfast, or can be portioned and stored in the fridge as a snack. It's super high in protein from the yogurt, cottage cheese, and protein powder, while also containing a lot of fiber (coconut flour), as well as some healthy fats (unsweetened chocolate)
 Instructions: 
 - I always pre-blend my entire cottage cheese container when I buy it, but if yours isn't blended then you can make this in the food processor
 
 - In a medium bowl, mix together your ingredients (except the chocolate). Optionally, add 1-2 tbsp (16-32 g) of any natural nut butter
 
-- Finely chop the chocolate, and fold into the batter. Either roll into balls to save for later, or eat it with a spoon
+- Finely chop the chocolate, and fold into the batter, or grate some on top. Either roll into balls to save for later, or eat it with a spoon
 ---

@@ -18,8 +18,16 @@
 
     <!-- Meat -->
     {% assign meat = "false" %}
-    {% if page.title == "Let's Meet the Meats" %}
+    {% if page.title == "Let's Meet The Meats" %}
         {% assign meat = "true" %}
+        {% assign shorterFacts = "false" %}
+        {% assign recipe = "false" %}
+    {% endif %}
+
+    <!-- Nuts -->
+    {% assign nuts = "false" %}
+    {% if page.title == "I'm Nuts For Nuts" %}
+        {% assign nuts = "true" %}
         {% assign shorterFacts = "false" %}
         {% assign recipe = "false" %}
     {% endif %}
@@ -440,6 +448,36 @@
             {% assign calc = "" %}
             {% assign magn = "" %}
             {% assign pot = "" %}
+            {% assign histidine = "" %}
+            {% assign isoleucine = "" %}
+            {% assign leucine = "" %}
+            {% assign lysine = "" %}
+            {% assign methionine = "" %}
+            {% assign phenylalanine = "" %}
+            {% assign threonine = "" %}
+            {% assign tryptophan = "" %}
+            {% assign valine = "" %}
+        {% endif %}
+
+        <!-- Nuts -->
+        {% if nuts == "true" %}
+            {% assign trans = "" %}
+            {% assign choles = "" %}
+            {% assign sod = "" %}
+            {% assign netCarb = "" %}
+            {% assign addedSugar = "" %}
+            {% assign sugAlc = "" %}
+            {% assign all = "" %}
+            {% assign vitA = "" %}
+            {% assign vitB3 = "" %}
+            {% assign vitB5 = "" %}
+            {% assign vitB6 = "" %}
+            {% assign vitB9 = "" %}
+            {% assign vitB12 = "" %}
+            {% assign vitC = "" %}
+            {% assign vitD = "" %}
+            {% assign vitK = "" %}
+            {% assign choline = "" %}
             {% assign histidine = "" %}
             {% assign isoleucine = "" %}
             {% assign leucine = "" %}

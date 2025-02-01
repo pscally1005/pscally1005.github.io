@@ -50,5 +50,5 @@ Instructions:
 - <center><img src="/assets/Food/Chicken/Wings/wings-5.jpg" alt="" class="instruction-image"></center>
 
 - You can also use this cooking method with chicken thighs (either boneless skinless, or bone in and skin on) for crispy and juicy chicken thighs
-- <center><img src="/assets/Food/Chicken/Wings/boneless-skinless.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Chicken/Wings/boneless-skinless.jpg" alt="" class="half-page"><img src="/assets/Food/Chicken/Wings/bone-in-skin-on.jpg" alt="" class="half-page"></center>
 ---
