@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Protein Powder
 permalink: /recipes/protein-cookie-dough-bowl
-image: /assets/Food/Protein Powder/CC Cookie Dough/cover.jpg
+image: /assets/Food/Protein Powder/CC Cookie Dough/cc-cookie-dough.jpg
 ing: cccookiedough-ing
 facts: cccookiedough-facts
 servingSize: 

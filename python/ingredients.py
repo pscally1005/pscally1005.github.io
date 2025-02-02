@@ -198,6 +198,8 @@ def ingredients(food):
         return str("Dates")
     elif food == "Sweet potato, without salt, flesh, baked in skin, cooked" or food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked":
         return str("Sweet potato puree")
+    elif food == "Potatoes, raw, flesh and skin":
+        return str("Potato")
     elif food == "Pure vanilla extract by CITLALI" or food == "Pure vanilla extract by FIRST STREET":
         return str("Vanilla extract")
     elif food == "Granulated no calorie sweetener with erythritol & monk fruit extract by Topco Associates, Inc.":

@@ -22,7 +22,7 @@ section5:
 Prep: 45
 Rest: 
 Cook: 480
-Source1: 
+Source1: https://www.poormanprotein.com/recipes/chili
 Source2: 
 whisk: https://s.samsungfood.com/6IM6F
 tags: 
