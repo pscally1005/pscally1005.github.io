@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Sweet Potato Chcolate Pudding"
+date:   2025-02-06 00:00:00 -05000
+categories: 
+- Recipes
+- Healthier Dessert
+permalink: /recipes/sweet-potato-pudding
+image: /assets/Food/Healthier Dessert/Pudding/cover.jpg
+ing: swpotpudding-ing
+facts: swpotpudding-facts
+servingSize: 
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 20
+Cook: 
+Source1: https://youtube.com/shorts/wUzbUx2gZSA?si=oA5_i3Umzd-9tEPQ
+Source2:
+whisk: https://s.samsungfood.com/OVhLN
+tags: 
+- roasted sweet potato puree
+- cocoa powder
+- cacao powder
+- ground flaxseed
+- vegan
+- dairy free
+- vanilla extract
+- sugar free
+- gluten free
+- liquid monk fruit
+Description: Single serving healthy vegan pudding!  The combination of sweet potatoes and liquid monk fruit makes this chocolate pudding very sweet without the need for added sugar, and it provides healthy fats and fiber from the ground flaxseed.  From a quick snack to an easy dessert, this sweet potato pudding is bound to curb any cravings.  For a high protein pudding with Greek yogurt, check out my <a href="/recipes/protein-pudding">Chocolate Protein Pudding</a>
+Instructions: 
+- Mix together all ingredients until smooth in a small bowl. 
+ Thin out with either water, unsweetened vanilla almond milk, or skim milk until desired consistency. Let chill in the fridge for at least 20 minutes before eating
+---

@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Breakfast
 permalink: /recipes/stovetop-oatmeal
-image: /assets/Food/Breakfast/Stovetop Oats/cover.jpg
+image: /assets/Food/Breakfast/Stovetop Oats/bowl.jpg
 ing: stoveoats-ing
 facts: stoveoats-facts
 servingSize: 
@@ -22,8 +22,8 @@ section5:
 Prep: 5
 Rest: 
 Cook: 5
-Source1: https://m.youtube.com/watch?v=u0CV7uqqmu8
-Source2: https://www.youtube.com/shorts/3OmQbLKcJFw
+Source1: 
+Source2: 
 whisk: https://s.samsungfood.com/pbpAc
 tags: 
 - oatmeal
@@ -42,7 +42,6 @@ Instructions:
 - Dice an apple apple, and add to a medium pot with cinnamon, nutmeg, ginger, cloves, and a splash of water. Cover and cook over medium heat until soft and syrupy
 
 - Add in the oats and toast until they smell nutty. Toasting the oats brings out even more flavor
-- <center><img src="/assets/Food/Breakfast/Stovetop Oats/oats.jpg" alt="" class="instruction-image"></center>
 
 - Pour in the milk, and let simmer for about 3 minutes with ocassional stirring
 

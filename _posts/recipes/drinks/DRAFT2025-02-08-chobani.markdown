@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Copycat Chobani Yogurt Drink"
-date:   2025-01-24 00:00:00 -0500
+date:   2025-02-08 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
@@ -10,9 +10,9 @@ image: /assets/Food/Drinks/Chobani/chobani.jpg
 ing: chobani-ing
 facts: chobani-facts
 servingSize: 
-section1: Drink
-start2: Lactase enzyme
-section2: Optional
+section1: 
+start2: 
+section2: 
 start3: 
 section3: 
 start4: 
@@ -37,7 +37,7 @@ tags:
 - sugar free
 - vanilla extract
 - frozen strawberries
-Description: I recently had one of those <a href="https://www.walmart.com/ip/Chobani-Complete-Greek-Yogurt-Drink-Strawberry-Cream-With-20g-of-Protein-10-Fl-oz-Plastic/248314113?classType=REGULAR&from=/search">Chobani Yogurt Drinks</a>, and it was a pretty good yogurt drink with 20 g of protein, no added sugar, and mostly clean ingredients.  But at $2.50 per serving, I knew I could make it cheaper myself.  So that's what I did today.  This one is strawberry flavored, uses liquid monk fruit as the sweetener, and can be made lactose free!
+Description: I recently had one of those <a href="https://www.walmart.com/ip/Chobani-Complete-Greek-Yogurt-Drink-Strawberry-Cream-With-20g-of-Protein-10-Fl-oz-Plastic/248314113?classType=REGULAR&from=/search">Chobani Yogurt Drinks</a>, and it was a pretty good yogurt drink with 20 grams of protein, no added sugar, and mostly clean ingredients.  But at $2.50 per serving, I knew I could make it cheaper myself.  So that's what I did today.  This one is strawberry flavored, uses liquid monk fruit as the sweetener, and is half the price!
 Instructions: 
 - Add all ingredients to a blender, and blend until smooth. Optionally, add a serving of lactase enzyme if you're lactose intolerant (or take a lactose pill)
 
