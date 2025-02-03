@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Dijon Protein Crumbles"
+date:   2023-12-09 00:00:00 -0500
+categories: 
+- Recipes
+- Finger Foods
+permalink: /recipes/protein-crumbles
+image: /assets/Food/Finger Food/Protein Crumble/protein-crumble.jpg
+ing: crumble-ing
+facts: crumble-facts
+servingSize: 
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/boD3N
+tags: 
+- high protein
+- casein
+- yogurt
+- mustard
+- hot sauce
+- salad
+- snack
+- roll
+- ball
+Description: It took me way too long to realize that with unflavored protein powder, I can make protein packed snacks that are savory instead of sweet. They're a fantastic source of quick, lean protein, and they taste great. Instead of being limited by the small amount of things that can go into a healthy sweet, there's now a whole spice cabinet at your disposal to flavor these in interesting ways. I like to crumble these up on a salad when I don't have any meat available.
+Instructions: 
+- Add ingredients to a medium bowl and mix together with a spoon.  Roll into balls and refrigerate, or crumble on top of a salad
+---

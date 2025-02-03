@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Classic Rice and Beans"
+date:   2024-02-17 00:00:00 -05000
+categories: 
+- Recipes
+- Sides
+permalink: /recipes/rice-and-beans
+image: /assets/Food/Sides/Rice and Beans/rice-beans.jpg
+ing: ricebeans-ing
+facts: ricebeans-facts
+servingSize: 
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 45
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/A23Sf
+tags: 
+- side
+- rice and beans
+- rice
+- beans
+- brown rice
+- chili powder
+- cumin
+- paprika
+- carb
+- broth
+- taco
+- fajita
+Description: Ah rice and beans, the versatile side to nearly every meal. If you've noticed that most of my recipes are just protein+vegetable, this is why. I prefer to keep my carb separate, and that way I can decide if I want to have it or not for dinner. Most of the time when I have a carb on the side, I make some variation of rice and beans, and it's easy, cheap, and pretty healthy as far as grains go.  Brown rice is so much better for you than <a href="/misc/fake-healthy-foods#white-rice">white rice</a>, as brown rice contains the whole grain, being much less processed and a good source of fiber and micronutrients.  My other go to carb side is a <a href="baked-sweet-potato">Baked Sweet Potatoes</a>, so check that out too
+Instructions: 
+- Optionally, you can rinse the rice prior to cooking. This makes the rice drier and fluffier, instead of wet and clumpy (which I honestly prefer ngl, so I don't bother with this). Using a fine mesh strainer, rinse the rice under cold water until the water runs clear
+
+- Add the rice to a medium pot with the water and bouillon powder (or alternatively you can use low sodium broth, or water+1/2 tsp salt). Drain and rinse your beans with a strainer, and add to the pot as well. Here I used a 29 oz can of black beans
+
+- Cover and bring your pot to a boil over high heat. When boiling, reduce heat to low, cover and cook about 45 minutes (this will depend on your brand of rice)
+
+- When the rice is done, add in the rest of the seasonings (paprika, chili powder, cumin, garlic and onion powder, and black pepper), mix, and adjust to taste. I prefer to add in the beans in the beginning, but can you wait until now to add them as well
+---

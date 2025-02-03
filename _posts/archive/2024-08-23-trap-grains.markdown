@@ -173,7 +173,6 @@ tags:
 &emsp;- <a href="/recipes/sweet-potato-hummus">Golden Sweet Potato Hummus</a><br>
 &emsp;- <a href="/recipes/roasted-eggplant-hummus">Mediterranean Roasted Eggplant Hummus</a><br>
 &emsp;- <a href="/recipes/roasted-beet-hummus">Creamy Roasted Beet Hummus</a><br>
-&emsp;- <a href="/recipes/ginger-hummus">Ginger Lime Black Bean Hummus</a><br>
 &emsp;- <a href="/recipes/hummus">Lemony Taco Inspired Hummus</a><br>
 
 <center><img src="/assets/Misc/Nutrition/Trap/rice-cake.jpg" alt="" class="larger-image"></center>

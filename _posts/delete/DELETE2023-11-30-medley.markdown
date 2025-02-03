@@ -4,9 +4,9 @@ title:  "Spiced Vegetable Medley"
 date:   2023-11-30 00:00:00 -05000
 categories: 
 - Recipes
-- Meatless
+- Sides
 permalink: /recipes/vegetable-medley
-image: /assets/Food/Meatless/Medley/medley-cover.jpg
+image: /assets/Food/Sides/Medley/medley-cover.jpg
 ing: medley-ing
 facts: medley-facts
 servingSize: 

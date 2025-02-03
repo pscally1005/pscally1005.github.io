@@ -34,7 +34,7 @@ tags:
 - peanut butter
 - crushed walnuts
 - vanilla extract
-Description: This extra lean pudding packs over 30 g of protein in less than 200 calories, with no added sugar. It's dead simple to put together, and is very low in carbs and fat; just pure protein! Carbs and fats aren't inherently bad by any means, but it's best to get your protein first and foremost, and add any fat (peanut butter) or carbs (mashed banana) if you desire.  For a vegan pudding with sweet potato puree, check out my <a href="/recipes/sweet-potato-pudding">Sweet Potato Chocolate Pudding</a>
+Description: This extra lean pudding packs over 30 g of protein in less than 200 calories, with no added sugar. It's dead simple to put together, and is very low in carbs and fat; just pure protein! Carbs and fats aren't inherently bad by any means, but it's best to get your protein first and foremost, and add any fat (peanut butter) or carbs (mashed banana) if you desire
 Instructions: 
 - In a small bowl, mix together yogurt, protein powder, cocoa powder, vanilla extract, and sweetener until fully combined
 
