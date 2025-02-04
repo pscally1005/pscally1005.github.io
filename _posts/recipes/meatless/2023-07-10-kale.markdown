@@ -4,17 +4,17 @@ title:  "Bean Kaled by Cheese"
 date:   2023-07-10 00:00:00 -05000
 categories: 
 - Recipes
-- Sides
+- Meatless
 permalink: /recipes/kale
-image: /assets/Food/Sides/Kale/kale.jpg
+image: /assets/Food/Meatless/Kale/kale.jpg
 ing: kale-ing
 facts: kale-facts
 servingSize: 
-section1: Vegetables
-start2: Pinto beans, drained and rinsed
-section2: Beans
-start3: 
-section3: 
+section1: Step 1
+start2: Minced garlic
+section2: Step 2
+start3: Pinto beans, drained and rinsed
+section3: Step 3
 start4: 
 section4: 
 start5: 
@@ -38,9 +38,9 @@ tags:
 - vic
 Description: This vegetarian Mexican inspired dish mixes together sauteed kale, pinto beans, <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>, and is topped with shredded cheese. This goes well with some meatloaf or taco meat as well
 Instructions: 
-- Chop up veggies. Add vegetables, garlic, and oil to a skillet over medium heat. Cook until onions are translucent
+- Cut the onions into a small dice, and add to a large pan over medium heat with olive oil and kale. Cook until the onions are translucent
 
-- Add the seasonings to the veggies
+- Add the seasonings to the veggies - chili powder, cumin, paprika, and salt
 
 - Add in the BBQ sauce (I used my <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>) and beans to the skillet. Cook over medium heat for a few minutes. Top with shredded cheese
 ---
