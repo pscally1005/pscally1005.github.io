@@ -266,7 +266,7 @@ def ingredients(food):
         return str("Egg whites")
     elif food == "Eggs, egg yolk, Large, Grade A":
         return str("Egg yolk")
-    elif food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND":
+    elif food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND" or food == "Cheese, Mexican blend":
         return str("Shredded cheddar cheese")
     elif food == "Milk, with added vitamin A and vitamin D (fat free or skim), fluid, nonfat" or food == "Milk, fat free (skim)":
         return str("Skim milk")
@@ -380,6 +380,8 @@ def ingredients(food):
         return str("Vegetables")
 
     # Canned & jarred    
+    elif food == "cheese-sauce":
+        return str("Gooey cheese sauce")
     elif food == "sauce":
         return str("Simple pasta sauce")
     elif food == "Fish, drained solids, canned, pink, salmon":

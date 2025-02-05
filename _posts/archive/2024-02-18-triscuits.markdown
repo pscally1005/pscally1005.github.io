@@ -5,6 +5,7 @@ date:   2024-02-18 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Food
+- Archive
 permalink: /recipes/triscuits
 image: /assets/Food/Finger Food/Triscuit/triscuit-cover.jpg
 ing: triscuit-ing
