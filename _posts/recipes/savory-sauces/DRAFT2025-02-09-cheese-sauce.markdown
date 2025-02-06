@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gooey Cheese Sauce"
-date:   2025-02-10 00:00:00 -05000
+date:   2025-02-09 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
@@ -46,6 +46,6 @@ Instructions:
 - Add the milk and cheese to the pan, and melt over medium low heat until smooth and thickened. The sauce should leave ribbons when drizzled down
 - <center><img src="/assets/Food/Savory Sauces/Cheese Sauce/pan.jpg" alt="" class="instruction-image"></center>
 
-- With this sauce, you can make stovetop mac and cheese by mixing it with a 1/2 lb box of whole wheat pasta. You can also make <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a> by combining the sauce with 1 cup of dry brown rice and 2 lbs frozen broccoli
+- With this sauce, you can make <a href="/recipes/two-ingredient-mac-and-cheese">Two Ingredient Mac & Cheese</a> by mixing it with a 1 lb box of whole wheat pasta. You can also make <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a> by combining the sauce with 1 cup of dry brown rice and 2 lbs frozen broccoli
 - <center><img src="/assets/Food//Meatless/Cheesy Rice/cover.jpg" alt="" class="instruction-image"></center>
 ---

@@ -47,7 +47,7 @@ def fix(vol):
         return str("2 tbsp")
     elif vol == "3 tablespoon" or vol == "0.185 cup" or vol == "3 tbsp, leaves" or vol == "9 tsp" or vol == "0.67 scoop" or vol == "0.66 1/4 cup" or vol == "9 tsp (5.0 ml) aprx" or vol == "9 tsp, leaves" or vol == "9 teaspoons" or vol == "0.1875 cup" or vol == "0.1875 cup (15.0 ml) aprx" or vol == "0.1875 cup (240.0 ml) aprx":
         return str("3 tbsp")
-    elif vol == "4 tablespoon" or vol == "4.2 tbsp" or vol == "0.25 cup sprigs" or vol == "3.99 tbsp":
+    elif vol == "3.95 tablespoon" or vol == "4 tablespoon" or vol == "4.2 tbsp" or vol == "0.25 cup sprigs" or vol == "3.99 tbsp":
         return str("4 tbsp")
     elif vol == "15 tsp (5.0 ml) aprx" or vol == "15 tsp" or vol == "15 teaspoon" or vol == "15 teaspoons":
         return str("5 tbsp")
@@ -83,7 +83,7 @@ def fix(vol):
         return str("1.25 cup")
     elif vol == "1.32 cup" or vol == "1.33 cup (240.0 ml) aprx":
         return str("1.33 cup")
-    elif vol == "1.52 cup" or vol == "2.338 cup (not packed)" or vol == "2 container" or vol == "24 tbsp" or vol == "1.555 cup, NFS" or vol == "3.25 1/2 cup" or vol == "1.5 cup, chunks" or vol == "1.5 cup pieces" or vol == "2 3/4 cup":
+    elif vol == "1.47 cup" or vol == "1.52 cup" or vol == "2.338 cup (not packed)" or vol == "2 container" or vol == "24 tbsp" or vol == "1.555 cup, NFS" or vol == "3.25 1/2 cup" or vol == "1.5 cup, chunks" or vol == "1.5 cup pieces" or vol == "2 3/4 cup":
         return str("1.5 cup")
     elif vol == "1.65375 cup":
         return str("1.67 cup")

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Copycat Chobani Yogurt Drink"
-date:   2025-02-08 00:00:00 -0500
+date:   2025-02-07 00:00:00 -0500
 categories:
 - Recipes
 - Drinks

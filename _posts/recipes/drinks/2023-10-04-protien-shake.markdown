@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Drinks
 permalink: /recipes/protein-shake
-image: /assets/Food/Drinks/Protein/protein-shake.jpg
+image: /assets/Food/Drinks/Protein/cover.jpg
 ing: proteinshake-ing
 facts: proteinshake-facts
 servingSize: 
@@ -26,13 +26,18 @@ Source1:
 Source2: 
 whisk: https://s.samsungfood.com/ZW3MZ
 tags: 
-- whey
-- cinnamon
-- almond
-- milk
-- gym
-- high protein
+- whey protein powder
+- liquid monk fruit
+- skim milk
+- unsweetened vanilla almond milk
+- unflavored protein powder
+- cocoa powder
+- protein bar
 Description: I used to never be a fan of protein shakes, but upon switching to unflavored protein powder I was able to customize them a lot more and avoid the gross sucralose taste, in my opinion. I'll normally have this to add some extra protein at a meal if I'm missing a protein source, like a meatless salad.
 Instructions: 
 - Add all ingredients to a shaker bottle and shake.  Sometimes I like to add in a serving of electrolyte powder as well
+
+- To make it lactose free, swap the milk for unsweetened almond milk
+
+- You can also make it vanilla by omitting the protein powder and adding 1/2 tsp (2.5 g) vanilla extract
 ---
