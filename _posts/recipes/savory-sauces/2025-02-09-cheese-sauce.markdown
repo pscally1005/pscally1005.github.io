@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/cheese-sauce
-image: /assets/Food/Savory Sauces/Cheese Sauce/cover.jpg
+image: /assets/Food/Savory Sauces/Cheese Sauce/cheese-sauce.jpg
 ing: cheesesauce-ing
 facts: cheesesauce-facts
 servingSize: 
@@ -39,13 +39,13 @@ tags:
 - stovetop
 - baking soda
 - lemon juice
-Description: This unnaturally gooey cheese sauce is spot on in texture and taste of the fake stuff without all the artificial additives. By the power of chemistry, we can create healthier Velveeta and American cheese at home with just 4 ingredients. This sauce is great as a dip, for mac and cheese, and for <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a>
+Description: This unnaturally gooey cheese sauce is spot on in texture and taste of the fake stuff without all the artificial additives. By the power of chemistry, we can create healthier Velveeta and American cheese at home with just 4 ingredients. This sauce is great in <a href="/recipes/two-ingredient-mac-and-cheese">Two Ingredient Mac & Cheese</a> and <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a>, or just as a dip for veggies or chips
 Instructions: 
 - In a cold, flat, wide pan, combine together lemon juice and baking soda. Stir until it no longer bubbles. This solution is sodium citrate, and it will hold the sauce together without breaking
 
 - Add the milk and cheese to the pan, and melt over medium low heat until smooth and thickened. The sauce should leave ribbons when drizzled down
 - <center><img src="/assets/Food/Savory Sauces/Cheese Sauce/pan.jpg" alt="" class="instruction-image"></center>
 
-- With this sauce, you can make <a href="/recipes/two-ingredient-mac-and-cheese">Two Ingredient Mac & Cheese</a> by mixing it with a 1 lb box of whole wheat pasta. You can also make <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a> by combining the sauce with 1 cup of dry brown rice and 2 lbs frozen broccoli
-- <center><img src="/assets/Food//Meatless/Cheesy Rice/cover.jpg" alt="" class="instruction-image"></center>
+- With this sauce, you can make <a href="/recipes/two-ingredient-mac-and-cheese">Two Ingredient Mac & Cheese</a> by mixing it with a 1 lb box of pasta. You can also make <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a> by combining the sauce with 1 cup of rice and 2 lbs frozen broccoli
+- <center><img src="/assets/Food//Sides/Mac & Cheese/cover.jpg" alt="" class="half-page"><img src="/assets/Food//Meatless/Cheesy Rice/cover.jpg" alt="" class="half-page"></center>
 ---

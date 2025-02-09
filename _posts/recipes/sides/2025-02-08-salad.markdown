@@ -36,7 +36,7 @@ tags:
 - salad base
 - minced garlic
 - lemon pepper
-Description: I've previously posted a full in-depth post as to why your salads are lame, with a guide for building the perfect salad; check out <a href="/misc/salad">You're Doing Salad Wrong</a>.  But today, I decided to actually measure out and document the salad that I make all the time.  I make this large salad base at least twice a week, and use it as the basis of many of my meals. Just add this as a base to a bowl, and top it with whatever <a href="/misc/protien">protein</a>, <a href="/misc/fats">fat</a>, and <a href="/recipes/carbs">carbs</a> you desire for a delicious and nutritious meal
+Description: I've previously posted a full in-depth post as to why your salads are lame, with a guide for building the perfect salad; check out <a href="/misc/salad">You're Doing Salad Wrong</a>.  But today, I decided to actually measure out and document the salad that I make all the time.  I make this large salad base at least twice a week, and use it as the basis of many of my meals. Just add this as a base to a bowl, and top it with whatever <a href="/misc/protein">protein</a>, <a href="/misc/fats">fat</a>, and <a href="/misc/carbs">carbs</a> you desire for a delicious and nutritious meal
 Instructions: 
 - Thinly slice your lettuce, and add to a <a href="/misc/kitchen-products#salad-spinner">salad spinner</a>. Rinse in the sink, spin the salad, and drain out the water
 

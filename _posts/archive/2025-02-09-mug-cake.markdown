@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Microwave Protein Mug Cake"
+date:   2025-02-09 00:00:00 -05000
+categories: 
+- Recipes
+- Protein Powder
+- Archive
+permalink: /recipes/protein-mug-cake
+image: /assets/Food/Protein Powder/Mug Cake/cover.jpg
+ing: proteinmugcake-ing
+facts: proteinmugcake-facts
+servingSize: 
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 3
+Rest: 
+Cook: 2
+Source1: https://mattsfitchef.com/flourless-protein-brownie-mug-cake/#wprm-recipe-container-30048
+Source2: 
+whisk: https://s.samsungfood.com/44NFS
+tags: 
+- microwave
+- mug cake
+- mug brownie
+- mug muffin
+- plain nonfat greek yogurt
+- cocoa powder
+- ground flaxseed
+- unflavored whey protein powder
+- liquid monk fruit
+- bootylicious muffins
+Description: A protein mug cake a very quick and tasty way to make sure you're getting all your protein in. With some healthy fats, fiber, and no added sugar, this healthy mug cake makes a great snack or dessert that mixes it up from your typical <a href="/recipes/protein-shake">protein shake</a> or <a href="/recipes/protein-bar">protein bar</a>
+Instructions: 
+- Mix together all ingredients in a mug. Optionally top with mini chocolate chips (1 tsp, 5 g) or honey (1 tsp, 7 g)
+
+- Microwave on high for 30 seconds, mix with a spoon, and microwave for another 30 seconds. Let rest for 1 minute before eating
+---

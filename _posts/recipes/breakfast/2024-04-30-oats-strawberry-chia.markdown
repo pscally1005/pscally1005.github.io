@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Breakfast
 permalink: /recipes/strawberry-chia-oatmeal
-image: /assets/Food/Breakfast/Strawberry Chia/cover.jpg
+image: /assets/Food/Breakfast/Strawberry Chia/strawberry-chia.jpg
 ing: strawberrychiaoats-ing
 facts: strawberrychiaoats-facts
 servingSize: 
