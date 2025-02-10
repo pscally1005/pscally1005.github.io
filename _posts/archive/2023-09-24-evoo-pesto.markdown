@@ -10,7 +10,7 @@ permalink: /recipes/evoo-pesto
 image: /assets/Food/Savory Sauces/EVOO Pesto/evoo-cover.jpg
 ing: evoo-ing
 facts: evoo-facts
-servingSize: 3 tbsp (45 g)
+servingSize: 2 tbsp (31 g)
 section1: 
 start2: 
 section2: 
@@ -46,7 +46,7 @@ tags:
 - pizza
 - pasta
 - vic
-Description: If you're after more of a traditional <a href="/misc/fake-healthy-foods#sauces">pesto</a> but still want to cut back on a bit of oil, then this pesto recipe is for you. Yes, extra virgin olive oil is a very healthy fat you should be consuming, but too much excess can lead to problems.  I typically prefer some type of pesto as the sauce on my <a href="pizza">Home Oven Baked Pizza</a>  This recipe cuts down on a bit of the oil while still preserving all the taste of the classic.  Each serving is about 45g, or 3 tbsp<br>&emsp;Check out some of my other pesto recipes, with varying amounts of oil, different kinds of nuts, vegan versions, and high protein versions:<br>- <a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a><br>- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>- <a href="/recipes/avocado-pesto">Avocado Pesto - Vegan and Oil Free</a><br>- <a href="/recipes/creamy-pesto">Creamy Pesto Dip</a>
+Description: If you're after more of a traditional <a href="/misc/fake-healthy-foods#sauces">pesto</a> but still want to cut back on a bit of oil, then this pesto recipe is for you. Yes, extra virgin olive oil is a very healthy fat you should be consuming, but too much excess can lead to problems.  I typically prefer some type of pesto as the sauce on my <a href="pizza">Home Oven Baked Pizza</a>  This recipe cuts down on a bit of the oil while still preserving all the taste of the classic.<br>&emsp;Check out some of my other pesto recipes, with varying amounts of oil, different kinds of nuts, vegan versions, and high protein versions:<br><ul><li><a href="/recipes/pesto-classico">Pesto Classico</a><li><a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a></li><li><a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a></li><li><a href="/recipes/avocado-pesto">Avocado Pesto - Vegan and Oil Free</a></li><li><a href="/recipes/evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a></li><li><a href="/recipes/creamy-pesto">Creamy Pesto Dip</a></li></ul>
 Instructions: 
 - Add the almonds to a pan over medium heat. Toast the nuts for 2-3 minutes or until lightly fragrant and softened
 

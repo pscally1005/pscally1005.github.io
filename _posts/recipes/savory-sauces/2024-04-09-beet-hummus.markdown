@@ -9,7 +9,7 @@ permalink: /recipes/roasted-beet-hummus
 image: /assets/Food/Savory Sauces/Beet Hummus/beet-hummus-cover.jpg
 ing: beethummus-ing
 facts: beethummus-facts
-servingSize: 3 tbsp (42 g)
+servingSize: 2 tbsp (29 g)
 section1: 
 start2: 
 section2: 
@@ -38,7 +38,7 @@ tags:
 - lemon
 - garlic
 - paprika
-Description: I love hummus; it's easily my favorite dip for vegetables and dressing for salad. Lately I've been experimenting with other flavors, so I've made this roasted beet hummus.  Beets give this hummus a mild sweet taste, while making them creamy and vibrant red<br>&emsp;Check out some of my other flavors of hummus as well!  They're all either contain either low or no oil, making them lower in fat and calories than traditional.  I have plenty of differnent flavors coming from various spices, roasted vegetables, differnet nut and seed butters, and even different beans:<br>- <a href="/recipes/classic-tahini-hummus">Classic Tahini Hummus</a><br>- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>- <a href="/recipes/roasted-red-pepper-hummus">Roasted Red Pepper Hummus</a><br>- <a href="/recipes/roasted-garlic-hummus">Cheesy Garlic Hummus</a><br>- <a href="/recipes/sweet-potato-hummus">Golden Sweet Potato Hummus</a><br>- <a href="/recipes/roasted-eggplant-hummus">Mediterranean Roasted Eggplant Hummus</a><br>- <a href="/recipes/hummus">Lemony Taco Inspired Hummus</a>
+Description: I love hummus; it's easily my favorite dip for vegetables and dressing for salad. Lately I've been experimenting with other flavors, so I've made this roasted beet hummus.  Beets give this hummus a mild sweet taste, while making them creamy and vibrant red<br>&emsp;Check out some of my other flavors of hummus as well!  They're all either contain either low or no oil, making them lower in fat and calories than traditional.  I have plenty of differnent flavors coming from various spices, roasted vegetables, differnet nut and seed butters, and even different beans:<br><ul><li><a href="/recipes/classic-tahini-hummus">Classic Tahini Hummus</a></li><li><a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</li><li><a href="/recipes/roasted-red-pepper-hummus">Roasted Red Pepper Hummus</li><li><a href="/recipes/roasted-garlic-hummus">'Cheesy' Garlic Hummus</li><li><a href="/recipes/sweet-potato-hummus">Golden Sweet Potato Hummus</li><li><a href="/recipes/roasted-eggplant-hummus">Mediterranean Roasted Eggplant Hummus</li><li><a href="/recipes/roasted-beet-hummus">Creamy Roasted Beet Hummus</a></li><li><a href="/recipes/hummus">Lemony Taco Inspired Hummus</a></li></ul>
 Instructions: 
 - Cut the ends off your beets, wrap in aluminum foil, and bake wrapped beets at 400F for 40 mins or until a knife goes through with ease
 - <center><img src="/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-1.jpg" alt="" class="instruction-image"></center>
