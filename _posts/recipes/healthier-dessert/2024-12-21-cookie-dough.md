@@ -49,6 +49,8 @@ Instructions:
 
 - You can also used dates (or raisins or figs) if you prefer.  Blend together the nut butter with 1/2 cup (80 g) of dates until smooth, and transfer to a bowl.  Mix in the rest of the ingredients, but reduce the oat flour to 1 cup (90 g)
 
+- Replace 1/4 cup (20 g) oat flour with cocoa powder for a double chocolate cookie dough
+
 - For the chocolate, you can go with either dark chocolate chips or chopped chunks of dark chocolate.  You can also try sugar free chocolate chips, chopped up <a href="/recipes/chocolate-bar">Sugar Free Chocolate Bar</a>, raisins, or chopped nuts
 
 - Use a cookie scoop or a spoon to scoop your dough onto a plate (about 20 g each). Roll with your hands into a ball, and store in the fridge
