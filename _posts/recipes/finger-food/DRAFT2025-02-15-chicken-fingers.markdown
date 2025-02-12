@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gluten Free Chicken Fingers"
-date:   2025-02-12 00:00:00 -05000
+date:   2025-02-15 00:00:00 -05000
 categories: 
 - Recipes
 - Finger Foods
