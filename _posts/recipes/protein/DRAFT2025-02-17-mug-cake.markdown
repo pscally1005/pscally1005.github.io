@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Microwave Protein Mug Cake"
+date:   2025-02-17 00:00:00 -05000
+categories: 
+- Recipes
+- Protein Powder
+permalink: /recipes/protein-mug-cake
+image: /assets/Food/Protein Powder/Mug Cake/cooked.jpg
+ing: proteinmugcake-ing
+facts: proteinmugcake-facts
+servingSize: 
+section1: Dry Ingredients
+start2: Egg
+section2: Wet Ingredients
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 3
+Rest: 1
+Cook: 1
+Source1: https://youtu.be/L34HcjMUpNc?si=DQLVM6GROnwLYGTt
+Source2: 
+whisk: https://s.samsungfood.com/44NFS
+tags: 
+- microwave
+- mug cake
+- mug brownie
+- mug muffin
+- egg
+- cocoa powder
+- oat flour
+- unflavored whey protein powder
+- liquid monk fruit
+- bootylicious muffins
+- unsweetened applesauce
+Description: A protein mug cake a very quick and tasty way to make sure you're getting all your protein in. With some healthy fats, fiber, and no added sugar, this healthy mug cake makes a great snack or dessert that mixes it up from your typical <a href="/recipes/protein-shake">protein shake</a> or <a href="/recipes/protein-bar">protein bar</a>
+Instructions: 
+- Make sure to use a big enough mug.  There should be enough room for the mug cake to roughly double in height when cooked
+
+- Lightly grease a mug, and whisk together the dry ingredients. Add in the wet, and mix until fully combined. Use a spoon to scrape the sides to avoid and dry spots, and use a fork to whisk out the clumps
+- <center><img src="/assets/Food//Protein Powder/Mug Cake/raw.jpg" alt="" class="instruction-image"></center>
+
+- Microwave for about 1 minute (± 15 seconds), stirring every 20-30 seconds. Make sure that it doesn't cook over, and that it isn't overcooked and dry.  A spoon should still be slightly moist when mixed, but not raw or dry.  Let rest for a minute before eating
+
+- Optionally toppings:<ul><li>1 tsp (6 g) <a href="/recipes/natural-peanut-butter">peanut butter</a></li><li>1 tsp (5 g) chopped nuts</li><li>1 tsp (5 g) mini chocolate chips</li><li>1 tsp (7 g) honey</li></ul>
+---
