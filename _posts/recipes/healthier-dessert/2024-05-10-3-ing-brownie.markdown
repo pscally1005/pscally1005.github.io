@@ -57,7 +57,7 @@ Instructions:
 - Bake the brownie bites at 350F for about 12 minutes, or until the tops look black (don't worry, they're not burned) and the top is just firm. A toothpick to the center should NOT come out clean
 - <center><img src="/assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-6.jpg" alt="" class="instruction-image"></center>
 
-- Alternatively, you can bake as regular brownies in a parchment lined and greased 8" square pan.  Bake for about 30 minutes. If you jiggle the pan, the center should just be set, and a toothpick should come out with some moist crumbs.  Note that the nutrition facts are for 24 mini muffins, and an 8" would be cut into 16 pieces.  Just multiply all the values by 1.5 to get the nutritional information for 1 square brownie
+- Alternatively, you can bake as regular brownies in a parchment lined and greased 9" square pan.  Bake for about 30 minutes. If you jiggle the pan, the center should just be set, and a toothpick should come out with some moist crumbs.  Note that the nutrition facts are for 24 mini muffins, and baking in a 9" square pan would yield. 16 pieces.  Just multiply all the values by 1.5 to get the nutritional information for 1 square brownie
 - <center><img src="/assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-7.jpg" alt="" class="instruction-image"></center>
 
 - Refrigerate for at least 4 hours (ideally overnight) so the brownies can set before removing from the pan

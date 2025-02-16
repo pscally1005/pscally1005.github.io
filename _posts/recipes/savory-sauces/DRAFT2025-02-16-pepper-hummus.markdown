@@ -1,19 +1,18 @@
 ---
 layout: post
 title:  "Roasted Red Pepper Hummus"
-date:   2024-05-11 00:00:00 -05000
+date:   2025-02-16 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
-- Archive
 permalink: /recipes/roasted-red-pepper-hummus
-image: /assets/Food/Savory Sauces/Pepper Hummus/pepper-hummus-cover.jpg
+image: /assets/Food/Savory Sauces/Pepper Hummus/cover.jpg
 ing: pepperhummus-ing
 facts: pepperhummus-facts
 servingSize: 2 tbsp (30 g)
-section1: 
-start2: 
-section2: 
+section1: Roasted Peppers
+start2: Chickpeas, drained and rinsed
+section2: Hummus
 start3: 
 section3: 
 start4: 

@@ -6,13 +6,13 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/roasted-eggplant-hummus
-image: /assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-cover.jpg
+image: /assets/Food/Savory Sauces/Eggplant Hummus/cover.jpg
 ing: eggplanthummus-ing
 facts: eggplanthummus-facts
 servingSize: 2 tbsp (32 g)
-section1: 
-start2: 
-section2: 
+section1: Roasted Eggplant
+start2: Chickpeas, drained and rinsed
+section2: Hummus
 start3: 
 section3: 
 start4: 

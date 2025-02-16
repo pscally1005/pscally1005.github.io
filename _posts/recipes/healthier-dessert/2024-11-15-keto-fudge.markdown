@@ -40,7 +40,7 @@ tags:
 - diet
 Description: This fudge is a healthy version of my <a href="/recipes/classic-fudge">Traditional Fudge Recipe</a>, where I swapped out the sugar and marshmallows for liquid monk fruit. The result is a fudge with the perfect texture and a strong, bittersweet chocolate flavor. It has 0 g of sugar and less than half the calories. If you like super dark chocolate, than this fudge is for you.  On the left is my classic fudge, and on the right is the sugar free version<center><img src="/assets/Food/Healthier Dessert/Keto Fudge/fudge-compare.jpg" alt="" class="instruction-image"></center>
 Instructions: 
-- Line an 8" square pan with parchment paper, and set aside. You can also use a 9x5" bread pan for a half batch
+- Line an 9" square pan with parchment paper, and set aside. You can also use a 9x5" bread pan for a half batch
 
 - In a medium saucepot over medium-high heat, combine the evaporated milk, butter, and salt with a heat-proof silicone spatula.  Wear an oven mitt on your mixing hand to prevent burning from splashing
 

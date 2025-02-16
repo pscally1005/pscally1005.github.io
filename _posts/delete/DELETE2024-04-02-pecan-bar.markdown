@@ -49,7 +49,7 @@ Instructions:
 - Add in the rest of the filling ingredients - coconut flour, banana, cinnamon, and salt. Blend until smooth and thick
 - <center><img src="/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-2.jpg" alt="" class="instruction-image"></center>
 
-- Transfer to a parchment lined 8" pan, and evenly spread the mixture with a silicone spatula. Freeze for 10 minutes to harden
+- Transfer to a parchment lined 9" square pan, and evenly spread the mixture with a silicone spatula. Freeze for 10 minutes to harden
 - <center><img src="/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-3.jpg" alt="" class="instruction-image"></center>
 
 - In a small bowl, melt coconut oil in the microwave for about a minute, Stir in carob powder and salt. Optionally, add some sweetener if you desire. Carob is mildly sweet, so I don't find any necessary, but you may want some if you use cocoa powder instead

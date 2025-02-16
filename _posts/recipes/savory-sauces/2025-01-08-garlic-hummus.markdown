@@ -10,9 +10,9 @@ image: /assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus.jpg
 ing: garlichummus-ing
 facts: garlichummus-facts
 servingSize: 2 tbsp (30 g)
-section1: 
-start2: 
-section2: 
+section1: Roasted Garilc
+start2: Chickpeas, drained and rinsed
+section2: Hummus
 start3: 
 section3: 
 start4: 

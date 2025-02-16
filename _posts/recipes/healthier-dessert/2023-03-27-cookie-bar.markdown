@@ -44,7 +44,7 @@ Instructions:
 - Mash the ripe bananas with a fork. Mix in the peanut butter, vanilla, and salt until fully combined.  Stir in the oat flour.  Fold in most of your chocolate chips, reserving some for the top
 - <center><img src="/assets/Food/Healthier Dessert/Cookie Bar/bowl.jpg" alt="" class="instruction-image"></center>
 
-- Line an 8" square pan with parchment paper.  Evenly press your dough into all sides of the pan, and press in your remaining chocolate chips
+- Line an 9" square pan with parchment paper.  Evenly press your dough into all sides of the pan, and press in your remaining chocolate chips
 - <center><img src="/assets/Food/Healthier Dessert/Cookie Bar/pan.jpg" alt="" class="instruction-image"></center>
 
 - Freeze for about 1 hour (or refrigerate for 3) before slicing into 16. Store in the fridge or freezer

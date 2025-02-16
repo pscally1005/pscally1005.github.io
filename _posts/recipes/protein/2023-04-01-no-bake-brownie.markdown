@@ -45,7 +45,7 @@ Description: These no-bake banana brownies are my favorite protein based dessert
 Instructions: 
 - In a large bowl, mash the bananas with a fork. Mix in the rest of the ingredients - nut butter (almond or peanut), PB2, whey, cocoa, vanilla, and sweetener
 
-- Pour batter into an 8" pan lined with parchment paper. Freeze for about 2-3 hours to fully harden, or overnight
+- Pour batter into a 9" square pan lined with parchment paper. Freeze for about 2-3 hours to fully harden, or overnight
 
 - Let sit out on the fridge for a few minutes if needed before slicing into bars
 - <center><img src="/assets/Food/Protein Powder/No Bake Brownie/no-bake-brownie-3.jpg" alt="" class="instruction-image"></center>

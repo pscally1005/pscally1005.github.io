@@ -43,7 +43,7 @@ tags:
 - almond extract
 Description: These delicious and fudgy brownies are made with just 2 simple ingredients - melted chocolate and eggs.  I've put "Two" in quotes, as you can instead make a homemade chocolate, or add some optional flavorings or mix ins.  They can be sugar free depending on your chocolate as well.<br>&emsp;I'm no artist, but I made these to celebrate Vic's half marathon, so I drizzled a 13.1 in a peanut butter glaze.  The glaze is just 2 parts peanut butter to 1 part honey and 1 part melted coconut oil.<br>&emsp;The nutrition facts are assuming you use just the homemade chocolate instead of the chocolate chips; no mix ins or additional flavorings
 Instructions: 
-- Preheat your oven to 350F, and line an 8" square pan with parchment paper. Spray the paper with oil
+- Preheat your oven to 350F, and line an 9" square pan with parchment paper. Spray the paper with oil
 - <center><img src="/assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-1.jpg" alt="" class="instruction-image"></center>
 
 - Microwave your chocolate in 20-30 second intervals, stirring in between, until fully melted

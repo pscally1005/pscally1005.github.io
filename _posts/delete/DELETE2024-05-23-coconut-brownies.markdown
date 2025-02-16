@@ -45,7 +45,7 @@ tags:
 - vic
 Description: These coconut brownies are gluten free, sugar free, and nut free, but still just as delicious.  It uses coconut oil and coconut flour as its fat and flour, and sugar free syrup (or maple syrup/honey) as its sweetener.  The fat is cut back a bit by the use of plain nonfat greek yogurt and unsweetened applesauce, which also adds a touch of sweetness.  Feel free to top with or mix in some chocolate chips too!
 Instructions: 
-- Preheat your oven to 350F, and line an 8" square baking pan with parchment paper.  Lightly spray the pan with oil
+- Preheat your oven to 350F, and line an 9" square baking pan with parchment paper.  Lightly spray the pan with oil
 
 - In a large bowl, mix together all the ingredients in the order above.  It helps to fully combine together the liquid ingredients (oil, yogurt, applesauce, syrup, eggs, vanilla, baking soda, and salt) before whisking in the solids (cocoa powder and coconut flour).  Fold in your chocolate chips, reserving a few for the top
 

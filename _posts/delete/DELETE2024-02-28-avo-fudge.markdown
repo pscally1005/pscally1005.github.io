@@ -55,7 +55,7 @@ Instructions:
 - Blend in the rest of the ingredients in the order above. Add the solids (cocoa powder, whey, and casein) last, in order to make sure everything else is fully combined. You will have a very thick paste. Optionally, add 1 tbsp (21 g) of honey if you want it a little sweeter
 - <center><img src="/assets/Food/Protein Powder/Avo Fudge/avo-fudge-2.jpg" alt="" class="instruction-image"></center>
 
-- Line an 8" square baking pan with parchment paper, and press the mixture into all corners, making sure it is of even thickness. Remember, it's very thick, so this may take a bit of work
+- Line an 9" square baking pan with parchment paper, and press the mixture into all corners, making sure it is of even thickness. Remember, it's very thick, so this may take a bit of work
 - <center><img src="/assets/Food/Protein Powder/Avo Fudge/avo-fudge-3.jpg" alt="" class="instruction-image"></center>
 
 - Transfer to the freezer for a few hours to harden before slicing. Store leftovers in the freezer

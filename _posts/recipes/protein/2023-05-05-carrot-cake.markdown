@@ -50,7 +50,7 @@ Description: Carrot cake is my personal favorite dessert, outside of <a href="ra
 Instructions: 
 - Cut the carrots into strips. Lightly season with salt and oil and roast for 30 minutes at 400F. Blend in a food processor to make the carrot "puree"
 
-- Lower your oven to 350F, and line 2 8" cake pans with parchment paper (or aluminum foil). Liberally spray the paper as well
+- Lower your oven to 350F, and line two 9" circular cake pans with parchment paper (or aluminum foil). Liberally spray the paper as well
 
 - In a large bowl, mix together the dry ingredients - oat flour, casein, whey, cinnamon, ginger, baking powder, baking soda, nutmeg, and salt
 

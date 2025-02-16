@@ -58,6 +58,6 @@ Instructions:
 - Let cool on a wire rack, then transfer to a fridge in a bag or container
 - <center><img src="/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg" alt="" class="instruction-image"></center>
 
-- You can also bake in a parchment lined, lightly oiled, 8" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F, or until the internal temperature is around 205F
+- You can also bake in a parchment lined, lightly oiled, 9" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F, or until the internal temperature is around 205F
 - <center><img src="/assets/Food/Protein Powder/Banana Protein/banana-protein-square-1.jpg" alt="" class="half-page"><img src="/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg" alt="" class="half-page"></center>
 ---

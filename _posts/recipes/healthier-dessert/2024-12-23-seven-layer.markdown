@@ -49,7 +49,7 @@ tags:
 - chopped nuts
 Description: 7-Layer Bars, also known as Hello Dollies or Magic Bars, and a dessert built from seven different layers of dessert - graham crackers, butter, chocolate chips, butterscotch chips, chopped nuts, shredded coconut, and sweetened condensed milk. But I'm making these healthier today, which means an oat and coconut flour crust, homemade condensed milk, and allulose dark chocolate. The result is a delicious and healthier dessert that's gluten free and refined sugar free (replace the maple syrup for sugar free syrup for totally sugar free).  Perfect for Christmas time!
 Instructions: 
-- Preheat your oven to 350F, and line an 8" square pan with parchment paper.
+- Preheat your oven to 350F, and line an 9" square pan with parchment paper.
 
 - Add the evaporated milk and maple syrup to a medium pot over medium heat. Bring to a slow boil, and allow it to simmer until it reduces by half, about 25 minutes, stirring frequently to ensure nothing sticks to the bottom of the pan
 

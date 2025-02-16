@@ -68,6 +68,6 @@ Instructions:
 
 - Optionally, you can also make a frosting with the following ingredients and spread on top of the brownies, or use it to make a layer cake:<br>- Non fat cottage cheese (1 cup, 226 g)<br>- Unsweetened applesauce (1/4 cup, 60 g)<br>- Powdered peanut butter (10 tbsp, 60 g)<br>- Almond extract (1 tsp, 5 g)You can also use my recipe for <a href="banana-bread-hummus">Banana Bread Hummus Spread</a> as a frosting too!
 
-- For a cake, bake the batter in 2 8" pans for about 40 minutes, covered. Spread the frosting on the middle layer, the top, and down the sides. Dust the top with cocoa powder
+- For a cake, bake the batter in two 9" circle cake pans for about 40 minutes, covered with foil. Spread the frosting on the middle layer, the top, and down the sides. Dust the top with cocoa powder
 - <center><img src="/assets/Food/Protein Powder/Chickpea Brownie/chickpea-cake.jpg" alt="" class="instruction-image"></center>
 ---

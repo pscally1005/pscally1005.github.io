@@ -37,7 +37,7 @@ tags:
 - parmesean
 Description: A quick caprese chicken is one of my favorites, as I can simply bake the chicken, and make a tomato and balsamic sauce while it's in the oven. The flavor combination of cooked tomatoes with balsamic vinegar is a staple in Italian cooking for a reason. Especially when topped with cheese, this recipe makes a great main to a side of roasted artichokes
 Instructions: 
-- Drain and rinse your artichokes, and add to a large bowl. Season (vinegar, minced garlic, oil, basil, garlic powder, and lemon pepper), and transfer to an 8" square baking pan lined with aluminum foil
+- Drain and rinse your artichokes, and add to a large bowl. Season (vinegar, minced garlic, oil, basil, garlic powder, and lemon pepper), and transfer to an 9" square baking pan lined with aluminum foil
 
 - Roast at 400F for about 25-30 minutes, or until done to your liking
 - <center><img src="/assets/Food/Chicken/Caprese/caprese-2.jpg" alt="" class="instruction-image"></center>

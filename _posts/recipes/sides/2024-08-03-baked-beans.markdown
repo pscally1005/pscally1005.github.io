@@ -54,5 +54,5 @@ Instructions:
 
 - Add in the remaining ingredients - tomato paste, apple cider vinegar, soy sauce, dijon mustard, chili powder, garlic powder, black pepper, salt, and cinnamon. Cover and let simmer for 5 minutes
 
-- If you're using a Dutch oven, you can bake directly in there.  If not, transfer your beans to an 8" square baking dish.  Bake in a 350F oven (covered) for 45 minutes.  You can also cook in a slow cooker on low for about 4-6 hours
+- If you're using a Dutch oven, you can bake directly in there.  If not, transfer your beans to an 9" square baking dish.  Bake in a 350F oven (covered) for 45 minutes.  You can also cook in a slow cooker on low for about 4-6 hours
 ---

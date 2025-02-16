@@ -41,7 +41,7 @@ Description: Graham cracker crusts are staples of most pies, and typically made 
 Instructions: 
 - Blend graham crackers in a food processor until you have a fine crumb. Blend in the applesauce. The dough should look too dry, but just come together with pressed with your hands
 
-- Transfer to an 8" circular pan, and use a measuring cup to evenly press into the bottom and sides
+- Transfer to an 9" circular pan, and use a measuring cup to evenly press into the bottom and sides
 
 - Blind bake the pie crust at 350F for about 10 minutes, or until lightly golden brown on the edges. Let cool completely before filling
 - <center><img src="/assets/Food/Healthier Dessert/Pie Crust/baked.jpg" alt="" class="instruction-image"></center>

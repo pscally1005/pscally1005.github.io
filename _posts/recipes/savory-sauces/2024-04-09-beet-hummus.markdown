@@ -6,13 +6,13 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/roasted-beet-hummus
-image: /assets/Food/Savory Sauces/Beet Hummus/beet-hummus-cover.jpg
+image: /assets/Food/Savory Sauces/Beet Hummus/cover.jpg
 ing: beethummus-ing
 facts: beethummus-facts
 servingSize: 2 tbsp (29 g)
-section1: 
-start2: 
-section2: 
+section1: Roasted Beets
+start2: Chickpeas, drained and rinsed
+section2: Hummus
 start3: 
 section3: 
 start4: 

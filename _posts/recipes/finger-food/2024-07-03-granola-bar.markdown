@@ -50,7 +50,7 @@ Instructions:
 - In a large bowl, mash your banana with the back of a fork until smooth. Unsweetened applesauce will work as well in place of banana. Add in the rest of the ingredients, and fold together with a silicone spatula
 - <center><img src="/assets/Food/Finger Food/Granola Bar/granola-bar-2.jpg" alt="" class="instruction-image"></center>
 
-- Line an 8" square baking pan with parchment paper, and press in the granola mixture. Spread to all sides, and flatten to an even thickness
+- Line an 9" square baking pan with parchment paper, and press in the granola mixture. Spread to all sides, and flatten to an even thickness
 - <center><img src="/assets/Food/Finger Food/Granola Bar/granola-bar-3.jpg" alt="" class="instruction-image"></center>
 
 - Refrigerate for at least 2 hours to set (ideally overnight) before slicing. Wrap each bar in parchment paper, and store in an airtight bag (either in the fridge or freezer)

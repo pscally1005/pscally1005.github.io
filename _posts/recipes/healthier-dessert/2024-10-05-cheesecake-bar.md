@@ -56,7 +56,7 @@ Instructions:
 - In a bowl, mash a banana with the back of a fork. Combine together the rest of the crust ingredients with a silicone spatula - honey, cinnamon, vanilla, coconut flour, and rolled oats. Mix until well combined
 - <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-bowl.jpg" alt="" class="instruction-image"></center>
 
-- Line an 8" square pan with parchment paper. Evenly press your crust into the pan. Freeze to set as you prepare the filling
+- Line an 9" square pan with parchment paper. Evenly press your crust into the pan. Freeze to set as you prepare the filling
 - <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-pan.jpg" alt="" class="instruction-image"></center>
 
 - In a food processor, blend together peanut butter and dates until all the dates are fully chopped. Add in the yogurt and vanilla, and blend until smooth and fully combined

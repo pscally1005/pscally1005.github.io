@@ -10,11 +10,11 @@ image: /assets/Food/Savory Sauces/Pesto Hummus/pesto-hummus.jpg
 ing: pestohummus-ing
 facts: pestohummus-facts
 servingSize: 2 tbsp (30 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
+section1: Roasted Garlic
+start2: Pine nuts
+section2: Toasted Nuts
+start3: Frozen spinach, thawed
+section3: Hummus
 start4: 
 section4: 
 start5: 

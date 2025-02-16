@@ -47,7 +47,7 @@ Instructions:
 - In a large bowl, combine together all ingredients for the brownie layer with a silicone spatula until fully combined
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-unmixed.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-mixed.jpg" alt="" class="half-page"></center>
 
-- Transfer the batter to a parchment line 8" square pan that's lined with parchment paper and sprayed with oil
+- Transfer the batter to a parchment line 9" square pan that's lined with parchment paper and sprayed with oil
 
 - Rinse off the bowl, and mix together the pumpkin puree and liquid sweetener for the swirl top
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-separate.jpg" alt="" class="instruction-image"></center>

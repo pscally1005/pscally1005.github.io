@@ -40,7 +40,7 @@ Description: This buffalo chicken dip is great for your raw vegetables, crackers
 Instructions: 
 - Heat your oven to 400F, and line a cookie sheet with parchment. Cut your carrots into strips, and add to the pan. Season with salts and olive oil, and roast for 25-30 minutes. Transfer to a food processor, blend until finely chopped, and set aside
 
-- Lower your oven to 350F, and spray an 8" square pan with oil
+- Lower your oven to 350F, and spray an 9" square pan with oil
 
 - For the chicken, I like to buy a store bought cooked rotisserie chicken, and shred it with my hands. It's cheaper and easier, and I can save all the unused bits for a stock. You can probably also get away with 2 12.5 oz cans (drained and rinsed) of chicken, or you can also cook your own chicken and shred it.  I would aim for about 2 cups (250 g) of cooked shredded chicken
 

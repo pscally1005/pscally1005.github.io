@@ -41,7 +41,7 @@ Instructions:
 - In a medium bowl, microwave coconut oil for about a minute, until fully melted. Stir in cocoa powder and peanut butter. Add liquid sweetener to taste if desired
 - <center><img src="/assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-1.jpg" alt="" class="instruction-image"></center>
 
-- Transfer to a parchment lined container (mine are 6.2 x 4.5 "). If you want to scale this up, double the recipe for a 9 x 5" bread pan, or triple for an 8" square pan
+- Transfer to a parchment lined container (mine are 6.2 x 4.5 "). If you want to scale this up, double the recipe for a 9 x 5" bread pan, or triple for an 9" square pan
 - <center><img src="/assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-2.jpg" alt="" class="instruction-image"></center>
 
 - Refrigerate for a few hours to harden fully before slicing

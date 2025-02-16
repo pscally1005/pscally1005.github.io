@@ -46,7 +46,7 @@ tags:
 - vic
 Description: These date brownies are my favorite healthy baked dessert I've ever made, and one you can certainly serve to a crowd without people realizing they're healthy. These brownies are much more than just a healthy substitute for the real deal, as they lead me to deleting my classic brownie recipe after tasting them.  Gluten free, refined sugar free, only sweetened with natural dates (raisins will work as well) and bananas, and the only fat is delicious almond butter.  See my <a href="date-cookies">Almond Flour Cookies</a> for a similar gluten free dessert using dates and nuts
 Instructions: 
-- Preheat the oven to 350F and line an 8" square pan with parchment paper. Spray the parchment paper
+- Preheat the oven to 350F and line an 9" square pan with parchment paper. Spray the parchment paper
 
 - In a food processor, blend the dates, bananas, and nut butter until a smooth paste forms. Blend in the rest of the ingredients.  
 
