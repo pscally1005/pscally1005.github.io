@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Probiotic Chocolate Kefir"
+date:   2025-02-20 00:00:00 -0500
+categories:
+- Recipes
+- Drinks
+permalink: /recipes/chocolate-kefir
+image: /assets/Food/Drinks/Kefir/cover.jpg
+ing: kefir-ing
+facts: kefir-facts
+servingSize: 
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/zs68W
+tags: 
+- kefir
+- whole milk
+- cocoa powder
+- cacao powder
+- chocolate
+- vanilla
+- liquid monk fruit
+Description: I've recently started drinking kefir, and found that it's a delicious and easy way to get tons of <a href="/misc/biotics">probiotics</a> and <a href="/misc/fats">healthy dairy fats</a>.  Emerging research is showing a new essential fatty acid known as <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10649853/">Pentadecanoic Acid (C15)</a>, which is only found in dairy fat.  With 9 g of fat, 11 g of protein, and no added sugar, this drink is highly satiating and great for your gut microbiome!
+Instructions: 
+- In a medium glass, mix together about 3 tbsp (45 g) of your kefir with cocoa powder using a spoon, until all the cocoa has fully mixed in. Add in the rest of the kefir, as well as vanilla extract and liquid monk fruit to taste
+---
