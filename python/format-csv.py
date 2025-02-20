@@ -4,6 +4,7 @@ import os
 import split
 import ingredients
 import volume
+import grams
 
 def main():
     os.system('cls')
@@ -17,6 +18,7 @@ def main():
     split.main(path1)
     ingredients.main(path2)
     volume.main(path2)
+    grams.main(path2)
 
 if __name__ == '__main__':
     main()
