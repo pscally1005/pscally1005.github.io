@@ -122,7 +122,7 @@ def ingredients(food):
         return str("White cooking wine")
     elif food == "Lemon juice, raw" or food == "Lemon juice from concentrate, REAL LEMON, bottled" or food == "Lemon juice from concentrate, canned or bottled" or food == "Lemon juice from concentrate by GOLDEN SUN" or food == "Lemon juice from concentrate, CONCORD, bottled":
         return str("Lemon juice")
-    elif food == "Low sodium soy sauce" or food == "Soy sauce made from soy (tamari)" or food == "Soy sauce made from soy and wheat (shoyu), low sodium" or food == "Low Sodium Soy Sauce by First Street":
+    elif food == "Low sodium soy sauce" or food == "Soy sauce made from soy (tamari)" or food == "Soy sauce made from soy and wheat (shoyu)" or food == "Soy sauce made from soy and wheat (shoyu), low sodium" or food == "Low Sodium Soy Sauce by First Street":
         return str("Soy sauce, low sodium, gluten free")
     elif food == "Low sodium chicken broth by Glencourt Inc.":
         return str("Low sodium chicken broth")
