@@ -9,7 +9,7 @@ permalink: /recipes/cheesy-bean-dip
 image: /assets/Food/Savory Sauces/Bean Dip/cover.jpg
 ing: beandip-ing
 facts: beandip-facts
-servingSize: 
+servingSize: About 1/3 cup (90 g)
 section1: 
 start2: 
 section2: 
@@ -37,7 +37,7 @@ tags:
 - plain nonfat greek yogurt
 Description: I'm back with more dip recipes. After the success of warm cheesy dips like <a href="/recipes/buffalo-chicken-dip">High Protein Buffalo Chicken Dip</a> and <a href="/recipes/spinach-artichoke-dip">Lightened Up Spinach Artichoke Dip</a>, I knew I had to try this dip when I came across it. Bean dip is like a warm, cheesy hummus, but this one is made without any cream cheese, mayonnaise, or sour cream. Instead, with Greek yogurt as it's base, this dip is lower in fat and higher in protein, leaving you feeling satisfied instead of gross
 Instructions: 
-- Preheat your oven to 400F. Drain and rinse a can of beans
+- Preheat your oven to 400F. Drain and rinse a can of beans.  Any canned beans will work.  Today, I'm using red kidney beans, but black, pinto, navy, chickpeas, or anything else will work in place
 
 - Combine all ingredients (except the cheese) in a food processor, and blend until smooth and no bean chunks remain
 - <center><img src="/assets/Food/Savory Sauces/Bean Dip/blended.jpg" alt="" class="instruction-image"></center>

@@ -41,7 +41,7 @@ tags:
 - buffalo chicken dip
 - cooked chicken
 - rotisserie chicken
-Description: If you're making a recipe that calls for cooked chicken, like my <a href="/recipes/buffalo-chicken-dip">Lightened Up Buffalo Chicken Dip</a>, you can either shred up a store bought rotisserie chicken, or you can cook it yourself. I prefer the latter; rotisserie chickens are cheap and convenient, but filled with tons of additives that I'd prefer to avoid
+Description: If you're making a recipe that calls for cooked chicken, like my <a href="/recipes/buffalo-chicken-dip">High Protein Buffalo Chicken Dip</a>, you can either shred up a store bought rotisserie chicken, or you can cook it yourself. I prefer the latter; rotisserie chickens are cheap and convenient, but filled with tons of additives that I'd prefer to avoid
 Instructions: 
 - Either boneless skinless chicken thighs or bone-in skin-on thighs will work here. Just discard the skin and bones at the end if you're doing the latter
 
@@ -62,7 +62,7 @@ Instructions:
 - If you used bone-in, skin-on chicken thighs, you should have a lot of fat rendered out in the pan after baking.  If you desire, transfer all the drippings to a mason jar, and refrigerate overnight.  In the morning, scrape the chicken fat (known as "shmaltz") off the top.  I got just over 1/2 cup (136 g) from a double batch of the chicken
 - <center><img src="/assets/Food/Chicken/Shredded/jars.jpg" alt="" class="instruction-image"></center>
 
-- Use the shmaltz in any place you would use butter or oil.  I'll be using it in place of olive oil in my <a href="/recipes/buffalo-chicken-dip">Lightened Up Buffalo Chicken Dip</a> tomorrow for extra chicken flavor.  Refrigerate the fat for up to a week, or freeze indefinitely.  
+- Use the shmaltz in any place you would use butter or oil.  I'll be using it in place of olive oil in my <a href="/recipes/buffalo-chicken-dip">High Protein Buffalo Chicken Dip</a> tomorrow for extra chicken flavor.  Refrigerate the fat for up to a week, or freeze indefinitely.  
 - <center><a href="/recipes/buffalo-chicken-dip"><img src="/assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg" alt="" class="instruction-image"></a></center>
 
 - The top of the jar contains the gelatin and collagen from the bones.  It's essentially concentrated broth with most of the water removed.  Next time I make <a href="/recipes/red-lentils">Easy Red Lentils</a>, I'll be replacing part of the water with my leftover "broth" for extra flavor and nutrition.  Again, refrigerate the broth for up to a week, or freeze indefinitely.  

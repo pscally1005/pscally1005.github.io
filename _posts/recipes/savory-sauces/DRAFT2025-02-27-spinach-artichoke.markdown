@@ -9,7 +9,7 @@ permalink: /recipes/spinach-artichoke-dip
 image: /assets/Food/Savory Sauces/Artichoke/cover.jpg
 ing: artichokedipnew-ing
 facts: artichokedipnew-facts
-servingSize: 
+servingSize: About 1/3 cup (90 g)
 section1: 
 start2: 
 section2: 
@@ -38,9 +38,9 @@ tags:
 - super bowl
 - french onion dip
 - buffalo chicken dip
-Description: Classic Spinach Artichoke Dip is a game day staple, but also a calorie bomb. I lightened it up here by avoiding all the cream cheese, mayo, sour cream, and ranch, but still while preserving that great taste. This goes great with some carrots, chips, or on a salad.  This dip is significantly lower in calories and fat, while also being higher in protein, making it more filling and full of nutrients compared to the original.  Other great gameday dips are <a href="/recipes/buffalo-chicken-dip">Lightened Up Buffalo Chicken Dip</a> and <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a>, which I both highly recommend checking out
+Description: Classic Spinach Artichoke Dip is a game day staple, but also a calorie bomb. I lightened it up here by avoiding all the cream cheese, mayo, sour cream, and ranch, but still while preserving that great taste. This goes great with some carrots, chips, or on a salad.  This dip is significantly lower in calories and fat, while also being higher in protein, making it more filling and full of nutrients compared to the original.  Other great gameday dips are <a href="/recipes/buffalo-chicken-dip">High Protein Buffalo Chicken Dip</a> and <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a>, which I both highly recommend checking out
 Instructions: 
-- Preheat oven to 400F.  Drain and rinse your artichokes, and chop into small pieces.  Squeeze your defrosted spinach until dry
+- Preheat oven to 400F.  Drain and rinse your artichokes, and chop into small pieces.  Squeeze your defrosted spinach in a paper towel over the sink until water no longer drips out
 
 - Directly in a 9" square baking dish, mix together the artichokes, spinach, yogurt, cottage cheese, 1/2 cup (56 g) shredded mozzarella, 1/2 cup (56 g) shredded cheddar, grated cheese, olive oil, and black pepper.  Top with your remaining 1/4 cup (28 g) of shredded mozzarella and 1/4 cup (28 g) shredded cheddar
 - <center><img src="/assets/Food/Savory Sauces/Artichoke/raw.jpg" alt="" class="instruction-image"></center>

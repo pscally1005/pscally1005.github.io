@@ -554,9 +554,9 @@ tags:
 <br><i><font size="+2">Creamy Dips</font></i><br>
 &emsp;Most creamy dips are either mayo, sour cream, or cream cheese with slew of additional ingredients.  These are all very calorie dense, being very high in saturated fat.  These are typically not good for your health, increasing your risk for heart disease, diabetes, and weight gain.  Store bought versions include <a href="https://www.walmart.com/ip/Marketside-Premium-Heatable-Spinach-Artichoke-Dip-Small-Tub-16-oz-1-Count-Refrigerated/37915367?from=/search">Spinach Artichoke Dip</a>, <a href="https://www.walmart.com/ip/Great-Value-Gluten-Free-French-Onion-Dip-16-oz-Tub/194597385?athbdg=L1600&from=/search">French Onion Dip</a>, <a href="https://www.walmart.com/ip/Great-Value-Thousand-Island-Dressing-16-fl-oz/10452368?athbdg=L1200&from=/search">Thousand Island</a>, <a href="https://www.walmart.com/ip/Great-Value-Classic-Ranch-Salad-Dressing-Dip-16-fl-oz/16618888?athbdg=L1600&from=/search">Ranch</a>, and <a href="https://www.walmart.com/ip/Ken-s-Steak-House-Creamy-Caesar-Salad-Dressing-16-fl-oz/10307559?athbdg=L1600&from=/search">Caesar</a>.  Plus, they're typically paired with chips, which can easily lead to too much consumption of Omega-6 fats, as both the deep fried <a rel="" target="" href="#chips">chips</a> and these dressings are high in inflammatory seed oils.  Most of these can be made at home fairly easily by just swapping the mayo for plain Greek yogurt; check out some examples below:
 - Any of my varieties of <a rel="" target="" href="#hummus">hummus</a><br>
-- <a href="/recipes/spinach-artichoke-dip">High Protein Spinach Artichoke Dip</a><br>
+- <a href="/recipes/spinach-artichoke-dip">Lightened Up Spinach Artichoke Dip</a><br>
 - <a href="/recipes/hollandaise">Greek Yogurt Hollandaise Sauce</a><br>
-- <a href="/recipes/buffalo-chicken-dip">Lightened Up Buffalo Chicken Dip</a><br>
+- <a href="/recipes/buffalo-chicken-dip">High Protein Buffalo Chicken Dip</a><br>
 - <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a><br>
 - <a href="/recipes/creamy-pesto">Creamy Pesto Dip</a><br>
 - <a href="/recipes/olivcado">Olivcado Salad Dressing</a><br>

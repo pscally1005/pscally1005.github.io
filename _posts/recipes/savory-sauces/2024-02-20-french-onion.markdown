@@ -36,7 +36,7 @@ tags:
 - protein
 - buffalo chicken dip
 - spinach artichoke dip
-Description: I'm finding recently that although I don't really like chips, I love any sort of dip. I guess I'm on a dip kick lately, with <a href="/recipes/spinach-artichoke-dip">High Protein Spinach Artichoke Dip</a>, <a href="/recipes/buffalo-chicken-dip">Lightened Up Buffalo Chicken Dip</a>, and now French Onion Dip. All are perfect for dipping with raw peppers, chips, or carrots, or over a salad or sandwich. <a href="/recipes/caramelized-onions">Caramelized onions</a> are one of my favorites, and they really shine here.  Each serving is about 2 tbsp (30 g)
+Description: I'm finding recently that although I don't really like chips, I love any sort of dip. I guess I'm on a dip kick lately, with <a href="/recipes/spinach-artichoke-dip">Lightened Up Spinach Artichoke Dip</a>, <a href="/recipes/buffalo-chicken-dip">High Protein Buffalo Chicken Dip</a>, and now French Onion Dip. All are perfect for dipping with raw peppers, chips, or carrots, or over a salad or sandwich. <a href="/recipes/caramelized-onions">Caramelized onions</a> are one of my favorites, and they really shine here.  Each serving is about 2 tbsp (30 g)
 Instructions: 
 - Cut your onions into long, thin slices, and separate each of the layers
 

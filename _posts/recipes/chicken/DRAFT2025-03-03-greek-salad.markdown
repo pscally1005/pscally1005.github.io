@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Chicken
 permalink: /recipes/greek-salad
-image: /assets/Food/Chicken/Greek Salad/cover.jpg
+image: /assets/Food/Chicken/Greek Salad/cover-flag.jpg
 ing: greeksalad-ing
 facts: greeksalad-facts
 servingSize: 
@@ -41,7 +41,7 @@ tags:
 Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red peppers and artichokes makes it even better. This is super healthy, and tastes great with all the vegetables, meat, and feta. This also works well as a side without the meat too, or pair it with my <a href="/recipes/pita">Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita
 Instructions:
 - Preheat your oven to 400F, and line a cookie sheet with parchment paper. Wash and cut your peppers into long, thin strips. Toss with oil and pepper. Roast at 400F for about 30 minutes, or until softened and lightly charred. Set aside
-- <center><img src="/assets/Food/Chicken/Greek Salad/roasted-peppers.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Chicken/Greek Salad/roasted.jpg" alt="" class="instruction-image"></center>
 
 - Meanwhile, prepare the rest of the salad. Thinly slice your lettuce, and wash in a salad spinner. Cut your onion into a small dice. Wash your tomatoes, and cut into a medium dice
 
@@ -49,7 +49,7 @@ Instructions:
 
 - Top the base with crumbled feta cheese and kalamata olives
 
-- For the protein source, I'll be using leftover <a href="/recipes/shredded-chicken">Simple Shredded Chicken</a>, but any sort of protein source will work, like grilled chicken/salmon, ground beef/turkey, crumbled tofu, or canned tuna. I prefer to add the meat to the individual bowls instead of the entire salad. So take out a serving of salad, top with chicken, and any additional feta or olives if desired
+- For the protein source, I'll be using leftover <a href="/recipes/shredded-chicken">Simple Shredded Chicken</a>, but any sort of protein source will work, like grilled chicken/salmon, sauteed ground beef/turkey, crumbled tofu, or canned tuna. I prefer to add the meat to the individual bowls instead of the entire salad. So take out a serving of salad, top with chicken, and any additional feta or olives if desired
 
 - For a more typical dressing, check out the links below:<ul><li><a href="/recipes/eggplant-salad">Grilled Eggplant and Chickpea Salad</a></li><li><a href="/recipes/mediterranean-potato-salad">Mediterranean Sweet Potato Salad</a></li><li><a href="/recipes/peanut-chili-salad-dressing">Peanut Chili Salad Dressing</a></li><li><a href="/recipes/olivcado">Olivecado Salad Dressing</a></li><li><a href="/recipes/greek-yogurt-caesar-dressing">Greek Yogurt Caesar Dressing</a></li></ul>
 
