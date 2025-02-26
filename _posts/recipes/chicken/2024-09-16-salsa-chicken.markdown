@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2 Ingredient Salsa Chicken"
+title:  "Two Ingredient Salsa Chicken"
 date:   2024-09-16 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
 permalink: /recipes/salsa-chicken
-image: /assets/Food/Chicken/Salsa Chicken/salsa-chicken-cover.jpg
+image: /assets/Food/Chicken/Salsa Chicken/cover.jpg
 ing: salsachicken-ing
 facts: salsachicken-facts
 servingSize: 
@@ -50,4 +50,7 @@ Instructions:
 
 - Mash with a wooden spoon to shred
 - <center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-shredded.jpg" alt="" class="instruction-image"></center>
+
+- You can also make a simple salsa chicken by following my <a href="/recipes/shredded-chicken">Simple Shredded Chicken</a>, and mixing the shredded chicken with a jar of salsa at the end
+- <center><img src="/assets/Food/Chicken/Salsa Chicken/oven-method.jpg" alt="" class="instruction-image"></center>
 ---

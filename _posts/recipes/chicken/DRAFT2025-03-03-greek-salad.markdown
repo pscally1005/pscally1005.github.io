@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Greek Salad with Chicken"
-date:   2023-06-25 00:00:00 -0500
+date:   2025-02-25 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
-- Archive
 permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Salad/salad-cover.jpg
 ing: salad-ing

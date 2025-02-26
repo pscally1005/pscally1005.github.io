@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hard Boiled Egg Mayo"
-date:   2025-02-25 00:00:00 -05000
+date:   2025-03-01 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes

@@ -112,7 +112,7 @@ def ingredients(food):
         return str("Lime juice")
     elif food == "Vinegar, balsamic" or food == "Balsamic vinegar of modena" or food == "Balsamic vinegar by ELSA":
         return str("Balsamic vinegar")
-    elif food == "Hot sauce by LOUISIANA" or food == "Hot sauce, louisiana style by La Preferida In" or food == "Hot sauce, louisiana style by La Preferida Inc" or food == "Sauce by LOUISIANA":
+    elif food == "Hot pepper sauce" or food == "Hot sauce by LOUISIANA" or food == "Hot sauce, louisiana style by La Preferida In" or food == "Hot sauce, louisiana style by La Preferida Inc" or food == "Sauce by LOUISIANA":
         return str("Hot sauce")
     elif food == "Minced garlic by STONEMILL" or food == "Minced garlic by MEMBER'S MARK" or food == "Minced garlic by EL SABOR":
         return str("Minced garlic")
@@ -136,6 +136,8 @@ def ingredients(food):
         return str("Date sweetened ketchup")
     elif food == "Soup, ready-to-serve, chicken broth":
         return str("Chicken bone broth")
+    elif food == "shredded-chicken":
+        return str("Simple Shredded Chicken")
     
     # Baking
     elif food == "Vanilla instant pudding by SHURFINE":
@@ -232,7 +234,7 @@ def ingredients(food):
     # Dairy & Eggs
     elif food == "Cheese, blue":
         return str("Blue cheese")
-    elif food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Shredded mozzarella cheese" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
+    elif food == "Cheese, whole milk, mozzarella" or food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Shredded mozzarella cheese" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
         return str("Shredded mozzarella cheese, low moisture part skim")
     elif food == "Unflavored Casein Protein Powder by PROMIX" or food == "Nutricost Casein Unflavored Protein Powder":
         return str("Casein protein powder, unflavored")
@@ -266,7 +268,7 @@ def ingredients(food):
         return str("Egg whites")
     elif food == "Eggs, egg yolk, Large, Grade A":
         return str("Egg yolk")
-    elif food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND" or food == "Cheese, Mexican blend":
+    elif food == "Cheese, cheddar" or food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND" or food == "Cheese, Mexican blend":
         return str("Shredded cheddar cheese")
     elif food == "Milk, with added vitamin A and vitamin D (fat free or skim), fluid, nonfat" or food == "Milk, fat free (skim)":
         return str("Skim milk")
