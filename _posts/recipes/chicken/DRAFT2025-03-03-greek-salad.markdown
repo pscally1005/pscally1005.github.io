@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  "Greek Salad with Chicken"
-date:   2025-02-25 00:00:00 -0500
+date:   2025-03-03 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
 permalink: /recipes/greek-salad
-image: /assets/Food/Chicken/Salad/salad-cover.jpg
-ing: salad-ing
-facts: salad-facts
+image: /assets/Food/Chicken/Greek Salad/cover.jpg
+ing: greeksalad-ing
+facts: greeksalad-facts
 servingSize: 
-section1: Chicken
-start2: Onion
-section2: Vegetables & Toppings
-start3: 
-section3: 
+section1: Roasted Peppers
+start2: Romaine lettuce
+section2: Salad
+start3: Simple Shredded Chicken
+section3: Protein
 start4: 
 section4: 
 start5: 
@@ -26,30 +26,32 @@ Source1:
 Source2: 
 whisk: https://s.samsungfood.com/oxJ8Y
 tags: 
-- feta
-- artichoke
-- lemon
-- tomato
+- crumbled feta cheese
+- artichokes
+- tomatoes
 - onion
-- roasted
-- red
-- pepper
-- dressing
-- lunch
-- roast
-- bake
-- bowl
-Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red peppers and artichokes makes it even better. This is super healthy, and tastes great with all the vegetables, meat, and feta. This also works well as a side without the meat too, or pair it with my <a href="pita">Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita
+- roasted red peppers
+- greek
+- mediterranean
+- simple shredded chicken
+- pulled chicken
+- grilled chicken
+- chickpeas
+- kalamata olives
+Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red peppers and artichokes makes it even better. This is super healthy, and tastes great with all the vegetables, meat, and feta. This also works well as a side without the meat too, or pair it with my <a href="/recipes/pita">Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita
 Instructions:
-- Cut the chicken into cutlets and pound to even thickness. Add chicken to a bowl with seasonings (onion and garlic powder, paprika, chili powder, salt, and thyme) and oil. Mix. Transfer to a parchment lined cookie sheet. Chill in the fridge for a few hours if desired
+- Preheat your oven to 400F, and line a cookie sheet with parchment paper. Wash and cut your peppers into long, thin strips. Toss with oil and pepper. Roast at 400F for about 30 minutes, or until softened and lightly charred. Set aside
+- <center><img src="/assets/Food/Chicken/Greek Salad/roasted-peppers.jpg" alt="" class="instruction-image"></center>
 
-- Bake chicken on a parchment lined sheet for 12-15 minutes at 400F. Set aside
-- <center><img src="/assets/Food/Chicken/Salad/salad-2.jpg" alt="" class="instruction-image"></center>
+- Meanwhile, prepare the rest of the salad. Thinly slice your lettuce, and wash in a salad spinner. Cut your onion into a small dice. Wash your tomatoes, and cut into a medium dice
 
-- Drain and rinse the chickpeas, red peppers, and artichokes. Cut the artichokes, and add all 3 to a large bowl
+- Drain and rinse the can of artichokes and the can of chickpeas. Add to the salad
 
-- Cut up all the vegetables and add to bowl with the feta
-- <center><img src="/assets/Food/Chicken/Salad/salad-4.jpg" alt="" class="instruction-image"></center>
+- Top the base with crumbled feta cheese and kalamata olives
 
-- Let chicken rest until all vegetables are cut up. Dice the chicken small, and add to the bowl. Optionally serve with Italian dressing
+- For the protein source, I'll be using leftover <a href="/recipes/shredded-chicken">Simple Shredded Chicken</a>, but any sort of protein source will work, like grilled chicken/salmon, ground beef/turkey, crumbled tofu, or canned tuna. I prefer to add the meat to the individual bowls instead of the entire salad. So take out a serving of salad, top with chicken, and any additional feta or olives if desired
+
+- For a more typical dressing, check out the links below:<ul><li><a href="/recipes/eggplant-salad">Grilled Eggplant and Chickpea Salad</a></li><li><a href="/recipes/mediterranean-potato-salad">Mediterranean Sweet Potato Salad</a></li><li><a href="/recipes/peanut-chili-salad-dressing">Peanut Chili Salad Dressing</a></li><li><a href="/recipes/olivcado">Olivecado Salad Dressing</a></li><li><a href="/recipes/greek-yogurt-caesar-dressing">Greek Yogurt Caesar Dressing</a></li></ul>
+
+- For an unconventional dressing, I normally just throw some combination of dijon mustard, sauerkraut, hot sauce, salsa, or avocado on most of my salads. But I like pretty much anything you'll find in <a href="/recipes/savory-sauces">Savory Sauces</a>, like hummus, pesto, or even pasta sauce, all linked below:<ul><li><a href="/recipes/roasted-red-pepper-hummus">Roasted Red Pepper Hummus</a></li><li><a href="/recipes/blue-cheese-dressing">White Bean Blue Cheese Dressing</a></li><li><a href="/recipes/mayo">Lighter Mayo Substitute</a></li><li><a href="/recipes/roasted-garlic-hummus">'Cheesy' Garlic Hummus</a></li><li><a href="/recipes/babaganough">Lemon Baba Ganoush Without Oil</a></li><li><a href="/recipes/ketchup">Date Sweetened Ketchup</a></li><li><a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a></li><li><a href="/recipes/classic-tahini-hummus">Classic Tahini Hummus</a></li><li><a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a></li><li><a href="/recipes/sweet-potato-hummus">Golden Sweet Potato Hummus</a></li><li><a href="/recipes/avocado-pesto">Avocado Pesto - Vegan and Oil Free</a></li><li><a href="/recipes/roasted-eggplant-hummus">Mediterranean Roasted Eggplant Hummus</a></li><li><a href="/recipes/roasted-beet-hummus">Creamy Roasted Beet Hummus</a></li><li><a href="/recipes/salsa">Five Minute Salsa (No Garlic/Onion)</a></li><li><a href="/recipes/guacamole">Holy Guacamole</a></li><li><a href="/recipes/pasta-sauce">Simple Pasta Sauce</a></li><li><a href="/recipes/hummus">Lemony Taco Inspired Hummus</a></li><li><a href="/recipes/creamy-pesto">Creamy Pesto Dip</a></li><li><a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a></li></ul>
 ---
