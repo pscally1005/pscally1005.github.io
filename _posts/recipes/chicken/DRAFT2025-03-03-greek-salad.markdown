@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Chicken
 permalink: /recipes/greek-salad
-image: /assets/Food/Chicken/Greek Salad/cover-flag.jpg
+image: /assets/Food/Chicken/Greek Salad/cover.jpg
 ing: greeksalad-ing
 facts: greeksalad-facts
 servingSize: 

@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Hi Mom, Here's Your Oatmeal"
+date:   2025-03-04 00:00:00 -05000
+categories: 
+- Recipes
+- Meme Recipes
+permalink: /recipes/mom-oatmeal
+image: /assets/Food/Meme/Mom Oats/cover.jpg
+ing: momoats-ing
+facts: momoats-facts
+servingSize: 
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/8HYMm
+tags: 
+- oatmeal
+- overnight oats
+- protein powder
+- chocolate whey
+- rolled oats
+- peanut butter
+- jelly
+- sugar free syrup
+- plain nonfat greek yogurt
+Description: I made this oatmeal recently for my mom when I was visiting my parents. She liked it, but she said it was too big for her, and got full halfway through. So instead, I'm splitting into 2 smaller servings; though personally I'd be eating the whole thing lol
+Instructions: 
+- In a medium bowl, mix together all ingredients. Split into 2 servings, cover, and refrigerate overnight
+
+- If you want to use unflavored whey instead of chocolate, just add 1 tsp (5 g) cocoa powder, and some additional sweetener. Either 1/2 tsp (2.5 g) liquid monk fruit, 1 tbsp (12 g) granular sweetener, or another 1 tbsp (20 g) sugar free syrup
+---

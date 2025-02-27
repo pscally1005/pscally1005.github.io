@@ -190,7 +190,7 @@ def ingredients(food):
         return str("Pumpkin puree")
     elif food == "Syrups, maple" or food == "Syrup, Canadian, maple":
         return str("Maple syrup")
-    elif food == "jam" or food == "chia-jam" or food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
+    elif food == "Jellies" or food == "jam" or food == "chia-jam" or food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
         return str("Low sugar berry jam")
     elif food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":
         return str("Sugar free syrup")
@@ -252,7 +252,7 @@ def ingredients(food):
         return str("Egg")
     elif food == "100% liquid egg whites by KROGER":
         return str("Liquid egg whites")
-    elif food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder" or food == "Nutricost Whey Unflavored Protein Powder":
+    elif food == "Beverages, Protein powder whey based" or food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder" or food == "Nutricost Whey Unflavored Protein Powder":
         return str("Whey protein powder, unflavored")
     elif food == "Cheese, large or small curd, dry, uncreamed, nonfat, cottage" or food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
         return str("Nonfat cottage cheese")
@@ -434,7 +434,7 @@ def ingredients(food):
         return str("50% chocolate")
     elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium" or food == "Nuts, without salt added, plain, almond butter":
         return str("Almond butter")
-    elif food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
+    elif food == "Peanut Butter, smooth" or food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
         return str("Natural peanut butter")
     elif food == "Tahini by BRANDLESS":
         return str("Tahini")
