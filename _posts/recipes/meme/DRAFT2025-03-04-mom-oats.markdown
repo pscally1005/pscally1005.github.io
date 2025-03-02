@@ -37,7 +37,7 @@ tags:
 - plain nonfat greek yogurt
 Description: I made this oatmeal recently for my mom when I was visiting my parents. She liked it, but she said it was too big for her, and got full halfway through. So instead, I'm splitting into 2 smaller servings; though personally I'd be eating the whole thing lol
 Instructions: 
-- In a medium bowl, mix together all ingredients. Split into 2 servings, cover, and refrigerate overnight
+- In a medium bowl, mix together all ingredients. Split into 2 servings, cover, and refrigerate overnight.  Optionally top with berries (about 1/3 cup, 50 g total, or 25 g in each bowl)
 
-- If you want to use unflavored whey instead of chocolate, just add 1 tsp (5 g) cocoa powder, and some additional sweetener. Either 1/2 tsp (2.5 g) liquid monk fruit, 1 tbsp (12 g) granular sweetener, or another 1 tbsp (20 g) sugar free syrup
+- If you want to use unflavored whey instead of chocolate, just add 1 tbsp (5 g) cocoa powder, and some additional sweetener. Either 1/2 tsp (2.5 g) liquid monk fruit, 2 tsp (8 g) granular sweetener, or another 1 tbsp (20 g) sugar free syrup
 ---

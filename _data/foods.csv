@@ -24,6 +24,7 @@ White vinegar,3.74,"3,780.00",0.00099,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.
 Vital wheat gluten,23.74,"1,816.00",0.01307,51.00,13.79,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/Vital-Gluten-Anthonys-Pounds-Protein/dp/B00PB8U7Y0/ref=sr_1_4?s=grocery&sr=1-4,0.0,0.0
 Whole wheat flour,5.58,"2,240.00",0.00249,75.00,74.48,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Oat flour,3.98,"1,176.00",0.00338,40.00,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/misc/homemade-flours,0.0,0.0
+"Oat flour, or almond flour",3.98,"1,176.00",0.00338,40.00,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/misc/homemade-flours,0.0,0.0
 Rolled oats,3.98,"1,176.00",0.00338,40.00,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Quick oats,3.98,"1,176.00",0.00338,40.00,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Rolled oats, or quick",3.98,"1,176.00",0.00338,40.00,66.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -71,7 +72,7 @@ Unsweetened vanilla almond milk,2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE
 "Unsweetened almond milk, or water",2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 "Unsweetened vanilla almond milk, or water",2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Cocoa powder,2.48,"1,808.00",0.00137,20.00,58.30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Powdered peanut butter,10.48,840.00,0.01248,14.00,33.33,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,7.7,https://www.walmart.com/ip/Great-Value-Powdered-Peanut-Butter-30-oz/664689057?classType=VARIANT&from=/search,0.0,0.0
+Powdered peanut butter,12.11,679.20,0.01783,14.00,31.25,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://www.amazon.com/dp/B08H56G22H,0.0,0.0
 Almond extract,7.57,454.00,0.01667,0.00,0.00,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://www.amazon.com/dp/B07DKFW2HM?amp=&amp=,0.0,0.0
 "Almond extract, or vanilla",7.57,454.00,0.01667,0.00,0.00,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://www.amazon.com/dp/B07DKFW2HM?amp=&amp=,0.0,0.0
 Pumpkin puree,1.47,424.50,0.00346,75.00,8.13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pumpkin-puree,0.0,0.0
@@ -130,12 +131,12 @@ Red pepper flakes,1.44,49.00,0.02939,16.00,55.60,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0
 Low sodium soy sauce,1.58,420.00,0.00376,15.00,14.44,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Soy sauce, low sodium, gluten free",3.99,300.00,0.01330,15.00,5.88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/San-J-Tamari-Gluten-Reduced-Sodium/dp/B00Z7WC33S,0.0,0.0
 "Parsley, dried",1.12,11.20,0.10000,32.00,50.64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Sugar free syrup,2.36,672.00,0.00351,40.00,11.99,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
-"Sugar free syrup, or maple syrup or honey",2.36,672.00,0.00351,40.00,11.99,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
-"Sugar free syrup, or honey or maple syrup",2.36,672.00,0.00351,40.00,11.99,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
-"Sugar free syrup, or honey",2.36,672.00,0.00351,40.00,11.99,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
-"Sugar free syrup, or maple syrup",2.36,672.00,0.00351,40.00,11.99,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
-"Sugar free syrup, optional",2.36,672.00,0.00351,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cary-s-Sugar-Free-Low-Calorie-Syrup-24-fl-oz/10451799?classType=VARIANT&athbdg=L1600&from=/search,11.3,0.0
+Sugar free syrup,4.06,360.00,0.01128,2.50,55.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/sugar-free-syrup,53.5,0.0
+"Sugar free syrup, or maple syrup or honey",4.06,360.00,0.01128,2.50,55.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/sugar-free-syrup,53.5,0.0
+"Sugar free syrup, or honey or maple syrup",4.06,360.00,0.01128,2.50,55.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/sugar-free-syrup,53.5,0.0
+"Sugar free syrup, or honey",4.06,360.00,0.01128,2.50,55.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/sugar-free-syrup,53.5,0.0
+"Sugar free syrup, or maple syrup",4.06,360.00,0.01128,2.50,55.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/sugar-free-syrup,53.5,0.0
+"Sugar free syrup, optional",4.06,360.00,0.01128,2.50,55.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/sugar-free-syrup,53.5,0.0
 Frozen strawberries,9.22,"1,792.00",0.00515,40.00,7.68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Frozen berries,9.22,"1,792.00",0.00515,40.00,7.68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Strawberries,1.88,454.00,0.00414,40.00,7.68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -240,7 +241,7 @@ Dates,3.99,672.00,0.00594,62.00,74.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 100% chocolate,0.95,113.00,0.00841,40.00,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/chocolate-bar,0.0,0.0
 Vanilla extract,1.67,224.00,0.00746,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Vanilla extract, or almond",1.67,224.00,0.00746,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Granulated monk fruit,6.98,336.00,0.02077,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Lakanto-Classic-Monk-Fruit-Sweetener-White-Sugar-Substitute-Zero-Calorie-Keto-Diet-Friendly-Net-Carbs-Glycemic-Baking-Extract-Replacement-Classic-1-l/353520824?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=VARIANT&from=/search,100.0,0.0
+Granulated monk fruit,8.99,537.70,0.01672,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Splenda-Monk-Fruit-Natural-Zero-Calorie-Sweetener-Granulated-Sugar-Substitute-19-oz/541334570?classType=REGULAR&athbdg=L1600&from=/search,100.0,0.0
 Granulated stevia,6.12,271.60,0.02253,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Pyure-Organic-Stevia-Blend-Granular-All-Purpose-Sweetener-12-Oz/628088392?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=VARIANT&athbdg=L1600&from=/search,100.0,0.0
 Powdered monk fruit,9.31,454.00,0.02051,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Lakanto-Powdered-Monkfruit-Sweetener-1-LB-453G/341882677?classType=VARIANT&athbdg=L1200&from=/search,100.0,0.0
 Pecans,9.87,454.00,0.02174,10.00,13.86,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0

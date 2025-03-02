@@ -7,7 +7,7 @@ import csv
 
 def ingredients(food):
     # Misc
-    if food == "Water, generic, bottled":
+    if food == "Water, generic, bottled" or food == "Beverages, well, tap, water":
         return str("Water")
     elif food == "Nutricost Electrolyte Mix":
         return str("Electrolyte mix")

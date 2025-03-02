@@ -25,7 +25,6 @@ Cook: 10
 Source1: https://frommybowl.com/healthy-cranberry-sauce/
 Source2: 
 whisk: https://s.samsungfood.com/mUIoc
-Source2: 
 tags: 
 - thanksgiving
 - cranberries

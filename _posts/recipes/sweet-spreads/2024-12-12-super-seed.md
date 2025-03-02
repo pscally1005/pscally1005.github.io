@@ -25,7 +25,6 @@ Cook: 10
 Source1: 
 Source2: 
 whisk: https://s.samsungfood.com/gxQkc
-Source2: 
 tags: 
 - seed butter
 - natural nut butter

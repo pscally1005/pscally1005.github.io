@@ -25,7 +25,6 @@ Cook:
 Source1: 
 Source2: 
 whisk: https://s.samsungfood.com/iwljn
-Source2: 
 tags: 
 - sugar free
 - gluten free
