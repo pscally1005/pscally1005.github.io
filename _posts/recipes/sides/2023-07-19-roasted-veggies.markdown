@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Sides
 permalink: /recipes/roasted-vegetables
-image: /assets/Food/Sides/Roasted Veggie/roasted-pepper.jpg
+image: /assets/Food/Sides/Roasted Veggie/cover.jpg
 ing: veggies-ing
 facts: veggies-facts
 servingSize: 
