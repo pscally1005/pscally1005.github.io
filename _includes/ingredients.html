@@ -20,7 +20,8 @@
         page.title == "Fat Replacements in Boxed Brownies" or
         page.title == "Making Brownies Healthier" or
         page.title == "Making Cookies Healthier" or
-        page.title == "Homemade Bone Broth + Veggie Soup"
+        page.title == "Homemade Bone Broth + Veggie Soup" or
+        page.title == "___ + Eggs = Waffles??"
     %}
         {% assign recipe = "false" %}
     {% endif %}
@@ -200,7 +201,8 @@
                 <div class="ingredient-item" style="margin-bottom: 5px; display: inline-block;">
                     <li>
                         <span class="recipe-vol">{{ vol }}</span>
-                        <span class="recipe-grams" data-base-mass="{{ mass }}"></span>
+                        {% if recipe == "true" %} <span class="recipe-grams" data-base-mass="{{ mass }}"></span> {% endif %}
+                        {% if recipe == "false" %} <span class="recipe-grams">({{ mass }} g)</span> {% endif %}
 
                         {% if link %}
                             <span class="recipe-food"><a href="{{link}}" target="_blank" rel="noopener noreferrer">{{ food }}</a></span>
