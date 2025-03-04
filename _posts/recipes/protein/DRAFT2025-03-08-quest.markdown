@@ -57,6 +57,7 @@ Instructions:
 - <center><img src="/assets/Food/Protein Powder/Quest/pan.jpg" alt="" class="instruction-image"></center>
 
 - Refrigerate for at least 1 hour before slicing into 4 protein bars. Wrap each in parchment paper, and store in an airtight bag in the freezer or refrigerator
+- <center><img src="/assets/Food/Protein Powder/Quest/cut.jpg" alt="" class="instruction-image"></center>
 
 - <center></center><i>Note</i>:<b></b> If you don't have casein protein powder, you can do the following:<ul><li>Replace casein with 6tbsp + 2tsp (40 g) <a href="https://www.amazon.com/dp/B08H56G22H">powdered peanut butter</a>.</li><li>Reduce peanut butter to 3tbsp + 1tsp (53 g).</li></ul>
 ---
