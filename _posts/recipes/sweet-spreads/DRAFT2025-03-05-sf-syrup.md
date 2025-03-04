@@ -12,9 +12,9 @@ facts: sugarfreesyrup-facts
 servingSize: 1 tbsp (20 g)
 section1: Syrup
 start2: Cornstarch
-section2: Flavoring
+section2: Thicken
 start3: Vanilla extract
-section3: 
+section3: Flavor
 start4: 
 section4: 
 start5: 

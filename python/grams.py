@@ -8,7 +8,9 @@ import csv
 def grams(food, mass, vol):
     # Salt
     if food == "Salt":
-        if mass == "2" and vol == "1/4 tsp":
+        if mass == "1" and vol == "1/4 tsp":
+            return str("1.5")
+        elif mass == "2" and vol == "1/4 tsp":
             return str("1.5")
         elif mass == "4" and vol == "3/4 tsp":
             return str("4.5")
@@ -53,7 +55,9 @@ def grams(food, mass, vol):
     
     # Water
     elif food == "Water":
-        if mass == "237" and vol == "1 cup":
+        if mass == "44" and vol == "3 tbsp":
+            return str("45")
+        elif mass == "237" and vol == "1 cup":
             return str("240")
         elif mass == "474" and vol == "2 cup":
             return str("480")

@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Ground Meat
 permalink: /recipes/bbq-meatloaf
-image: /assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-cover.jpg
+image: /assets/Food/Ground Meat/BBQ Meatloaf/cover.jpg
 ing: bbqmeat-ing
 facts: bbqmeat-facts
 servingSize: 
