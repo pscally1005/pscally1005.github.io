@@ -6,8 +6,8 @@ import glob
 import csv
 
 def grams(food, mass, vol):
-    # Salt, baking powder, bakign soda
-    if food == "Salt" or food == "Baking powder" or food == "Baking soda":
+    # Salt, baking powder, baking soda
+    if food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt":
         if vol == "1/4 tsp":
             return str("1.5")
         elif vol == "1/2 tsp":
@@ -18,9 +18,24 @@ def grams(food, mass, vol):
             return str("6")
         else:
             return str(mass)
+        
+    # Salty spices
+    if food == "Chicken bouillon powder" or food == "Bouillon powder" or food == "Lemon pepper" or food == "Everything bagel seasoning":
+        if vol == "1/2 tsp":
+            return str("2.5")
+        elif vol == "1 tsp":
+            return str("5")
+        elif vol == "1.5 tsp" or vol == "1/2 tbsp":
+            return str("7.5")
+        elif vol == "2 tsp":
+            return str("10")
+        elif vol == "3 tsp" or vol == "1 tbsp":
+            return str("15")
+        else:
+            return str(mass)
     
-    # Extracts
-    elif food == "Liquid monk fruit" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Butter extract" or food == "Maple extract" or food == "Rum extract":
+    # Extracts and sweeteners
+    elif food == "Liquid monk fruit" or food == "Liquid stevia" or food == "Liquid stevia or monk fruit" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Butter extract" or food == "Maple extract" or food == "Rum extract" or food == "Almond extract, or vanilla" or food == "Vanilla extract, or almond":
         if vol == "1/4 tsp":
             return str("1.25")
         elif vol == "1/2 tsp":
@@ -36,8 +51,8 @@ def grams(food, mass, vol):
         else:
             return str(mass)
         
-    # Spices
-    elif food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper":
+    # Denser spices
+    elif food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper" or food == "Old Bay" or food == "Turmeric, ground" or food == "Black pepper":
         if vol == "1/4 tsp":
             return str("0.75")
         elif vol == "1/2 tsp":
@@ -53,8 +68,25 @@ def grams(food, mass, vol):
         else:
             return str(mass)
         
+    # Less dense spices
+    elif food == "Allspice, ground" or food == "Cinnamon, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground" or food == "Nutritional yeast" or food == "Cinnamon":
+        if vol == "1/4 tsp":
+            return str("0.5")
+        elif vol == "1/2 tsp":
+            return str("1")
+        elif vol == "1 tsp":
+            return str("2")
+        elif vol == "1/2 tbsp" or vol == "1.5 tsp":
+            return str("3")
+        elif vol == "2 tsp":
+            return str("4")
+        elif vol == "3 tsp" or vol == "1 tbsp":
+            return str("6")
+        else:
+            return str(mass)
+        
     # Herbs
-    elif food == "Basil, dried" or food == "Oregano, dried" or food == "Thyme, dried" or food == "Parsley, dried":
+    elif food == "Basil, dried" or food == "Oregano, dried" or food == "Thyme, dried" or food == "Parsley, dried" or food == "Red pepper flakes" or food == "Rosemary, dried" or food == "Italian seasoning":
         if vol == "1/2 tsp":
             return str("0.5")
         elif vol == "1 tsp":
@@ -71,7 +103,7 @@ def grams(food, mass, vol):
             return str(mass)
     
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Extra virgin coconut oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Unsweetened applesauce":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Extra virgin coconut oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth":
         if vol == "1/2 tbsp":
             return str("7.5")
         elif vol == "1 tbsp":
@@ -106,6 +138,135 @@ def grams(food, mass, vol):
             return str("960")
         elif vol == "5 cup":
             return str("1200")
+        else:
+            return str(mass)
+        
+    # Yogurt & cottage cheese
+    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free":
+        if vol == "1 tbsp":
+            return str("15")
+        elif vol == "2 tbsp":
+            return str("30")
+        elif vol == "1/4 cup" or vol == "4 tbsp":
+            return str("60")
+        elif vol == "1/2 cup" or vol == "8 tbsp":
+            return str("113")
+        elif vol == "3/4 cup":
+            return str("170")
+        elif vol == "1 cup":
+            return str("226")
+        elif vol == "1.25 cup":
+            return str("283")
+        elif vol == "1.5 cup":
+            return str("340")
+        elif vol == "1.75 cup":
+            return str("396")
+        elif vol == "2 cup":
+            return str("454")
+        else:
+            return str(mass)
+        
+    # Flours
+    if food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour":
+        if vol == "2 tbsp":
+            return str("15")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("30")
+        elif vol == "1/2 cup":
+            return str("60")
+        elif vol == "3/4 cup":
+            return str("90")
+        elif vol == "1 cup":
+            return str("120")
+        elif vol == "1.5 cup":
+            return str("180")
+        elif vol == "2 cup":
+            return str("240")
+        else:
+            return str(mass)
+        
+    # Protein powder
+    if food == "Whey protein powder, unflavored" or food == "Whey protein powder, chocolate" or food == "Whey protein powder, vanilla" or food == "Nutricost Whey Unflavored Protein Powder" or food == "Casein protein powder, unflavored" or food == "Casein protein powder, chocolate" or food == "Casein protein powder, vanilla" or food == "Nutricost Casein Unflavored Protein Powder":
+        if vol == "1/3 scoop":
+            return str("10")
+        elif vol == "1/2 scoop":
+            return str("15")
+        elif vol == "2/3 scoop":
+            return str("20")
+        elif vol == "1 scoop":
+            return str("30")
+        elif vol == "1.33 scoop":
+            return str("40")
+        elif vol == "1.5 scoop":
+            return str("45")
+        elif vol == "2 scoop":
+            return str("60")
+        elif vol == "2.5 scoop":
+            return str("75")
+        elif vol == "3 scoop":
+            return str("90")
+        elif vol == "4 scoop":
+            return str("120")
+        else:
+            return str(mass)
+        
+    # Nut butters
+    if food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter":
+        if vol == "1/2 tbsp":
+            return str("8")
+        elif vol == "1 tbsp":
+            return str("16")
+        elif vol == "1.5 tbsp":
+            return str("24")
+        elif vol == "2 tbsp":
+            return str("32")
+        elif vol == "2.5 tbsp":
+            return str("40")
+        elif vol == "3 tbsp":
+            return str("48")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("64")
+        elif vol == "5 tbsp":
+            return str("80")
+        elif vol == "6 tbsp":
+            return str("96")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("128")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("196")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("256")
+        else:
+            return str(mass)
+        
+    # Syrup
+    if food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey":
+        if vol == "1/2 tbsp":
+            return str("10")
+        elif vol == "1 tbsp":
+            return str("20")
+        elif vol == "1.5 tbsp":
+            return str("30")
+        elif vol == "2 tbsp":
+            return str("40")
+        elif vol == "3 tbsp":
+            return str("60")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("80")
+        elif vol == "5 tbsp":
+            return str("100")
+        elif vol == "1/3 cup":
+            return str("107")
+        elif vol == "6 tbsp":
+            return str("120")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("160")
+        elif vol == "2/3 cup":
+            return str("213")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("240")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("320")
         else:
             return str(mass)
 
