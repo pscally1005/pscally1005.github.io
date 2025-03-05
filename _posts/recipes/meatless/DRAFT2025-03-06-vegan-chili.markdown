@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creamy Vegan White Bean Chili"
-date:   2025-03-09 00:00:00 -05000
+date:   2025-03-06 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless

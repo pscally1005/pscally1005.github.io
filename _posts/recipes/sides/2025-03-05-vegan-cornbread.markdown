@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vegan Cajun Cornbread"
-date:   2025-03-10 00:00:00 -05000
+date:   2025-03-05 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
@@ -53,7 +53,7 @@ Instructions:
 - Pour the batter into the pan, and smooth out the top
 - <center><img src="/assets/Food/Sides/Vegan Cornbread/raw.jpg" alt="" class="instruction-image"></center>
 
-- Bake for 25-30 minutes, or until the top is firm to the touch, and a toothpick comes out clean. The internal temperature should be around 205F
+- Bake for 30 minutes, or until the top is firm to the touch, and a toothpick comes out clean. The internal temperature should be around 200F
 - <center><img src="/assets/Food/Sides/Vegan Cornbread/baked.jpg" alt="" class="instruction-image"></center>
 
 - Let rest in the pan for 10 minutes before transferring to a wire rack to cool completely before slicing

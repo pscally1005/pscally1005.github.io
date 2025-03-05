@@ -5,9 +5,8 @@ date:   2024-05-17 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
-- Archive
 permalink: /recipes/peanut-chili-salad-dressing
-image: /assets/Food/Savory Sauces/PB Dressing/pb-dressing.jpg
+image: /assets/Food/Savory Sauces/PB Dressing/cover.jpg
 ing: pbdressing-ing
 facts: pbdressing-facts
 servingSize: 
@@ -41,7 +40,6 @@ tags:
 - protein
 Description: This salad contains a base of lettuce and tomatoes, and is topped with hard boiled eggs, kimchi, and a peanut chili dressing. It's a delicious and quick lunch that's healthy and full of flavor
 Instructions: 
-- In a small glass, mix together the dressing - PB2, gochujang, soy sauce, vineger, and ground ginger. Thin out with water
-
-- Pour over the salad, and serve. My salad here has lettuce, tomatoes, kimchi, hard boiled eggs, and olives
+- In a small glass, mix together the dressing - powdered peanut butter, gochujang, soy sauce, vineger, and ground ginger. Thin out with water, and pour over your salad
+- <center><img src="/assets/Food/Savory Sauces/PB Dressing/glass.jpg" alt="" class="instruction-image"></center>
 ---
