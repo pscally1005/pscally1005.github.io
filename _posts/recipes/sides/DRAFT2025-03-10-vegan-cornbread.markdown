@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Vegan Cajun Cornbread"
+date:   2025-03-10 00:00:00 -05000
+categories: 
+- Recipes
+- Sides
+permalink: /recipes/vegan-cornbread
+image: /assets/Food/Sides/Vegan Cornbread/cover.jpg
+ing: vegancornbread-ing
+facts: vegancornbread-facts
+servingSize: 1 slice
+section1: Dry Ingredients
+start2: Water
+section2: Wet Ingredients
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 10
+Rest: 
+Cook: 30
+Source1: https://youtu.be/MoF3OEkXb9k?si=wwQpJBU4ptzrtSEV
+Source2: https://www.poormanprotein.com/recipes/cornbread
+whisk: https://s.samsungfood.com/kexjJ
+tags: 
+- chili
+- stew
+- winter
+- soup
+- cornbread
+- corn meal
+- cornmeal
+- almond flour
+- gluten free
+- sugar free
+- vegan
+- nutritional yeast
+- cajun seasoning
+- unsweetened applesauce
+- apple cider vinegar
+Description: This isn't my first venture into cornbread. I've previously made my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a> using both whey and casein protein, as well as cottage cheese, for a high protein, low fat, and lower carb cornbread. But today, I'm making a vegan cornbread with more whole foods ingredients. This version is lower in protein, but higher in healthy fats and fiber. But both are gluten and sugar free; you can't go wrong with either one! This is a great side to some <a href="/recipes/vegan-chili">Creamy Vegan White Bean Chili</a> for a vegetarian meal with a decent source of plant based protein
+Instructions: 
+- Preheat your oven to 400F, and line a 9" square baking pan with parchment paper
+
+- In a large bowl, whisk together the dry ingredients - cornmeal, almond flour, nutritional yeast, paprika, baking powder, cumin, oregano, thyme, salt, pepper, baking soda, and cayenne
+
+- Add the wet ingredients to the bowl (water, applesauce, and apple cider vinegar) and mix with a silicone spatula until smooth
+- <center><img src="/assets/Food/Sides/Vegan Cornbread/bowl.jpg" alt="" class="instruction-image"></center>
+
+- Pour the batter into the pan, and smooth out the top
+- <center><img src="/assets/Food/Sides/Vegan Cornbread/raw.jpg" alt="" class="instruction-image"></center>
+
+- Bake for 25-30 minutes, or until the top is firm to the touch, and a toothpick comes out clean. The internal temperature should be around 205F
+- <center><img src="/assets/Food/Sides/Vegan Cornbread/baked.jpg" alt="" class="instruction-image"></center>
+
+- Let rest in the pan for 10 minutes before transferring to a wire rack to cool completely before slicing
+- <center><img src="/assets/Food/Sides/Vegan Cornbread/cut.jpg" alt="" class="instruction-image"></center>
+---

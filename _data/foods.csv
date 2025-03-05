@@ -306,6 +306,7 @@ Celery,2.38,454.00,0.00524,32.00,2.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Aquafaba, or water",0.00,1.00,0.00000,28.00,2.90,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Aquafaba,0.86,255.00,0.00337,28.00,2.90,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Tahini,3.99,454.00,0.00879,20.00,21.19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/natural-peanut-butter,0.0,0.0
+"Tahini, or any other nut/seed butter",3.99,454.00,0.00879,20.00,21.19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/natural-peanut-butter,0.0,0.0
 Nutricost Electrolyte Mix,17.95,341.00,0.05264,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/gp/product/B0CK355821/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1,0.0,0.0
 Electrolyte mix,17.95,341.00,0.05264,68.00,68.75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/gp/product/B0CK355821/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1,0.0,0.0
 "Basil, fresh",3.29,113.20,0.02906,5.00,2.65,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0

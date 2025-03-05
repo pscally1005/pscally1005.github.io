@@ -87,7 +87,11 @@ def grams(food, mass, vol):
         
     # Liquid tbsp
     elif (food == "Extra virgin olive oil" or food == "Extra virgin coconut oil" or food == "Balsamic vinegar" or food == "Soy sauce, low sodium, gluten free"):
-        if mass == "13" and vol == "1 tbsp":
+        if mass == "7" and vol == "1/2 tbsp":
+            return str("7.5")
+        elif mass == "8" and vol == "1/2 tbsp":
+            return str("7.5")
+        elif mass == "13" and vol == "1 tbsp":
             return str("15")
         elif mass == "14" and vol == "1 tbsp":
             return str("15")
