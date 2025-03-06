@@ -9,7 +9,7 @@ permalink: /recipes/caramelized-onions
 image: /assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg
 ing: onions-ing
 facts: onions-facts
-servingSize: 
+servingSize: 1 tbsp (15 g)
 section1: 
 start2: 
 section2: 
@@ -42,6 +42,9 @@ Instructions:
 
 - Cover and cook on high for about 8 hours, stirring occasionally, until soft, jammy, and fragrant. Deglaze with some white wine or water if needed.  Store in a container in the fridge
 - <center><img src="/assets/Food/Savory Sauces/Caramel Onions/cooked.jpg" alt="" class="instruction-image"></center>
+
+- For context, the onions weigh about <b>880 g</b> raw, and I ended up with about <b>120 g</b> of cooked onions.  You're aiming to cook nearly all the water out of the onions and end up with essentially onion jelly
+- <center><img src="/assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg" alt="" class="instruction-image"></center>
 
 - With these onions, you can make my <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a>, which is higher in protein due to plain nonfat greek yogurt instead of sour cream and cream cheese
 - <center><img src="/assets/Food/Savory Sauces/French Onion/cover.jpg" alt="" class="instruction-image"></center>

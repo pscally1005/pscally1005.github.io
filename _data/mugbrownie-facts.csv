@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,188,,
+Calories,180,,
 "Vitamin A, RAE",0.3,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",3.95,mcg,
@@ -9,7 +9,7 @@ Calories,188,,
 "Retinol",0,mcg,
 "Thiamin [Vitamin B1]",0.102,mg,8 %
 "Riboflavin [Vitamin B2]",0.063,mg,5 %
-"Niacin [Vitamin B3]",0.544,mg,3 %
+"Niacin [Vitamin B3]",0.545,mg,3 %
 "Pantothenic acid [Vitamin B5]",0.135,mg,3 %
 "Vitamin B6",0.036,mg,2 %
 "Vitamin B12 [Cobalamin]",0,mcg,0 %
@@ -33,22 +33,26 @@ Calories,188,,
 "Vitamin K1 [Phylloquinone]",2.1,mcg,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0.4,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",8.5,mg,2 %
-"Calcium",91.03,mg,7 %
+"Calcium",92.43,mg,7 %
 "Copper",0.91,mg,101 %
+"Fluoride",0.4,mcg,
+"Iodine",0,mcg,0 %
 "Iron",4.62,mg,26 %
-"Magnesium",131.92,mg,31 %
-"Manganese",1.514,mg,66 %
-"Phosphorus",189.79,mg,15 %
-"Potassium",363.45,mg,8 %
-"Selenium",6.3,mcg,11 %
-"Sodium",62.9,mg,3 %
+"Magnesium",132.24,mg,31 %
+"Manganese",1.515,mg,66 %
+"Phosphorus",189.87,mg,15 %
+"Potassium",363.87,mg,8 %
+"Selenium",6.21,mcg,11 %
+"Sodium",29.15,mg,1 %
 "Zinc",2.49,mg,23 %
-"Protein",6.07,g,12 %
+"Protein",5.91,g,12 %
 "Alanine",0.162,g,
 "Arginine",0.232,g,
 "Aspartic acid",0.384,g,
 "Cystine",0.058,g,
+"Cysteine",0,g,
 "Glutamic acid",0.573,g,
 "Glycine",0.163,g,
 "Histidine",0.066,g,6 %
@@ -66,16 +70,16 @@ Calories,188,,
 "Valine",0.216,g,11 %
 "Phenylalanine + Tyrosine",0.31,g,12 %
 "Methionine + Cysteine",0.041,g,3 %
-"Carbohydrate",24.18,g,9 %
-"Fiber",7.81,g,28 %
-"Sugars",3.33,g,
+"Carbohydrate",32.82,g,12 %
+"Fiber",7.67,g,27 %
+"Sugars",3.37,g,
 "Fructose",0,g,
 "Galactose",0,g,
 "Glucose",0,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.13,g,
-"Net carbs",16.37,g,
+"Net carbs",25.15,g,
 "0.02 g",,undefined,0.00
 "Fat",10.157,g,13 %
 "Saturated fatty acids",5.643,g,28 %
@@ -122,8 +126,8 @@ Calories,188,,
 "Campesterol",1.89,mg,
 "Cholesterol",0.29,mg,0 %
 "Stigmasterol",5.51,mg,
-"Alcohol, ethyl",0,g,
-"Ash",1.38,g,
+"Alcohol, ethyl",0.1,g,
+"Ash",1.35,g,
 "Caffeine",35.2,mg,
 "Theobromine",399.11,mg,
-"Water",45.78,g,
+"Water",43.28,g,

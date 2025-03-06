@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,79,,
+Calories,78,,
 "Vitamin A, RAE",165.91,mcg,18 %
 "Carotene, alpha",987.55,mcg,
 "Carotene, beta",1429.49,mcg,
@@ -42,20 +42,21 @@ Calories,79,,
 "Vitamin K1 [Phylloquinone]",3.5,mcg,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",12.8,mg,2 %
-"Calcium",18.84,mg,1 %
+"Calcium",19.1,mg,1 %
 "Copper",0.11,mg,12 %
-"Fluoride",0,mcg,
+"Fluoride",0.1,mcg,
 "Iodine",1.54,mcg,1 %
 "Iron",1.65,mg,9 %
-"Magnesium",26.32,mg,6 %
+"Magnesium",26.38,mg,6 %
 "Manganese",0.156,mg,7 %
-"Phosphorus",52.99,mg,4 %
-"Potassium",145.6,mg,3 %
-"Selenium",1.44,mcg,3 %
-"Sodium",58.38,mg,3 %
+"Phosphorus",53.01,mg,4 %
+"Potassium",145.68,mg,3 %
+"Selenium",1.43,mcg,3 %
+"Sodium",51.81,mg,2 %
 "Zinc",0.38,mg,3 %
-"Protein",3.83,g,8 %
+"Protein",3.81,g,8 %
 "Alanine",0.05,g,
 "Arginine",0.065,g,
 "Aspartic acid",0.113,g,
@@ -78,18 +79,17 @@ Calories,79,,
 "Valine",0.06,g,3 %
 "Phenylalanine + Tyrosine",0.095,g,4 %
 "Methionine + Cysteine",0.03,g,2 %
-"Carbohydrate",5.51,g,2 %
-"Fiber",2.34,g,8 %
+"Carbohydrate",7.14,g,3 %
+"Fiber",2.32,g,8 %
 "Starch",0,g,
-"Sugars",1.58,g,
+"Sugars",1.59,g,
 "Fructose",0,g,
 "Galactose",0,g,
 "Glucose",0.01,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0,g,
-"Sugar alcohols",0.12,g,
-"Net carbs",3.11,g,
+"Net carbs",4.82,g,
 "",0.05 g,undefined,
 "Fat",5.767,g,7 %
 "Saturated fatty acids",1.156,g,6 %
@@ -142,7 +142,7 @@ Calories,79,,
 "Phytosterols",0.04,mg,
 "25-hydroxycholecalciferol",0.02,mcg,
 "Alcohol, ethyl",0.1,g,
-"Ash",0.4,g,
+"Ash",0.39,g,
 "Caffeine",5.74,mg,
 "Carbohydrate, by summation",0.01,g,
 "Choline, free",0.02,mg,
@@ -153,4 +153,4 @@ Calories,79,,
 "Cryptoxanthin, alpha",0.41,mcg,
 "Nitrogen",0.06,g,
 "Theobromine",51.37,mg,
-"Water",23.3,g,
+"Water",23.93,g,

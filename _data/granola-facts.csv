@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,175,,
+Calories,174,,
 "Vitamin A, RAE",0.13,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",1.4,mcg,
@@ -33,23 +33,26 @@ Calories,175,,
 "Vitamin K1 [Phylloquinone]",0.4,mcg,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",5.4,mg,1 %
-"Calcium",40.95,mg,3 %
+"Calcium",41.12,mg,3 %
 "Copper",0.14,mg,16 %
 "Fluoride",0.2,mcg,
+"Iodine",0,mcg,0 %
 "Iron",1.53,mg,8 %
-"Magnesium",66.01,mg,16 %
+"Magnesium",66.05,mg,16 %
 "Manganese",0.842,mg,37 %
-"Phosphorus",120.01,mg,10 %
-"Potassium",131.54,mg,3 %
-"Selenium",6.25,mcg,11 %
-"Sodium",108.45,mg,5 %
+"Phosphorus",120.02,mg,10 %
+"Potassium",131.59,mg,3 %
+"Selenium",6.24,mcg,11 %
+"Sodium",104.25,mg,5 %
 "Zinc",0.83,mg,8 %
-"Protein",6.04,g,12 %
+"Protein",6.02,g,12 %
 "Alanine",0.076,g,
 "Arginine",0.155,g,
 "Aspartic acid",0.169,g,
 "Cystine",0.021,g,
+"Cysteine",0,g,
 "Glutamic acid",0.36,g,
 "Glycine",0.088,g,
 "Histidine",0.038,g,3 %
@@ -67,8 +70,8 @@ Calories,175,,
 "Valine",0.07,g,4 %
 "Phenylalanine + Tyrosine",0.118,g,4 %
 "Methionine + Cysteine",0.024,g,2 %
-"Carbohydrate",19.15,g,7 %
-"Fiber",3.71,g,13 %
+"Carbohydrate",20.23,g,7 %
+"Fiber",3.69,g,13 %
 "Starch",0.03,g,
 "Sugars",4.42,g,
 "Fructose",1.02,g,
@@ -77,7 +80,7 @@ Calories,175,,
 "Lactose",0,g,
 "Maltose",0.04,g,
 "Sucrose",0.19,g,
-"Net carbs",15.44,g,
+"Net carbs",16.54,g,
 "0.28 g",0.63 g,undefined,2.25
 "Fat",9.502,g,12 %
 "Saturated fatty acids",1.377,g,7 %
@@ -132,7 +135,7 @@ Calories,175,,
 "Phytosterols",0.08,mg,
 "Stigmasterol",0.18,mg,
 "Alcohol, ethyl",0,g,
-"Ash",0.7,g,
+"Ash",0.69,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",12.95,g,
+"Water",12.65,g,
