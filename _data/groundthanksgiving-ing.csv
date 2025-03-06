@@ -19,8 +19,8 @@ Ingredient,Amount,Unit,Description
 "Thyme, dried",3,g,"1 tbsp"
 "Allspice, ground",2,g,"1 tsp"
 "Rosemary, dried",1,g,"1 tsp"
-"Cinnamon",1,g,"1/2 tsp"
+"Cinnamon",1.5,g,"1/2 tsp"
 "Nutmeg, ground",1,g,"1/4 tsp"
-"Cloves, ground",1,g,"1/4 tsp"
-"Ginger, ground",0,g,"1/4 tsp"
+"Cloves, ground",0.5,g,"1/4 tsp"
+"Ginger, ground",0.5,g,"1/4 tsp"
 Servings,6

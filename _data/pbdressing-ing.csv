@@ -3,6 +3,6 @@ Ingredient,Amount,Unit,Description
 "Soy sauce, low sodium, gluten free",15,g,"1 tbsp"
 "Balsamic vinegar",15,g,"1 tbsp"
 "Gochujang",9,g,"1/2 tbsp"
-"Ginger, ground",0,g,"1/4 tsp"
+"Ginger, ground",0.5,g,"1/4 tsp"
 "Water",30,g,"2 tbsp"
 Servings,1

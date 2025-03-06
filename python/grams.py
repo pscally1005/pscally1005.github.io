@@ -8,7 +8,11 @@ import csv
 def grams(food, mass, vol):
     # Salt, baking powder, baking soda
     if food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt":
-        if vol == "1/4 tsp":
+        if vol == "1/16 tsp":
+            return str("0.38")
+        elif vol == "1/8 tsp":
+            return str("0.75")
+        elif vol == "1/4 tsp":
             return str("1.5")
         elif vol == "1/2 tsp":
             return str("3")
@@ -22,15 +26,15 @@ def grams(food, mass, vol):
     # Salty spices
     if food == "Chicken bouillon powder" or food == "Bouillon powder" or food == "Lemon pepper" or food == "Everything bagel seasoning":
         if vol == "1/2 tsp":
-            return str("2.5")
+            return str("2")
         elif vol == "1 tsp":
-            return str("5")
+            return str("4")
         elif vol == "1.5 tsp" or vol == "1/2 tbsp":
-            return str("7.5")
+            return str("6")
         elif vol == "2 tsp":
-            return str("10")
+            return str("8")
         elif vol == "3 tsp" or vol == "1 tbsp":
-            return str("15")
+            return str("12")
         else:
             return str(mass)
     
@@ -52,8 +56,10 @@ def grams(food, mass, vol):
             return str(mass)
         
     # Denser spices
-    elif food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper" or food == "Old Bay" or food == "Turmeric, ground" or food == "Black pepper":
-        if vol == "1/4 tsp":
+    elif food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper" or food == "Old Bay" or food == "Turmeric, ground" or food == "Black pepper" or food == "Cinnamon, ground" or food == "Cinnamon":
+        if vol == "1/8 tsp":
+            return str("0.38")
+        elif vol == "1/4 tsp":
             return str("0.75")
         elif vol == "1/2 tsp":
             return str("1.5")
@@ -69,8 +75,10 @@ def grams(food, mass, vol):
             return str(mass)
         
     # Less dense spices
-    elif food == "Allspice, ground" or food == "Cinnamon, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground" or food == "Nutritional yeast" or food == "Cinnamon":
-        if vol == "1/4 tsp":
+    elif food == "Allspice, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground" or food == "Nutritional yeast":
+        if vol == "1/8 tsp":
+            return str("0.25")
+        elif vol == "1/4 tsp":
             return str("0.5")
         elif vol == "1/2 tsp":
             return str("1")
@@ -82,6 +90,8 @@ def grams(food, mass, vol):
             return str("4")
         elif vol == "3 tsp" or vol == "1 tbsp":
             return str("6")
+        elif vol == "6 tsp" or vol == "2 tbsp":
+            return str("12")
         else:
             return str(mass)
         
@@ -103,9 +113,17 @@ def grams(food, mass, vol):
             return str(mass)
     
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Extra virgin coconut oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth":
-        if vol == "1/2 tbsp":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth":
+        if vol == "1/4 tsp":
+            return str("1.25")
+        elif vol == "1/2 tsp":
+            return str("2.5")
+        elif vol == "1 tsp":
+            return str("5")
+        elif vol == "1/2 tbsp":
             return str("7.5")
+        elif vol == "2 tsp":
+            return str("10")
         elif vol == "1 tbsp":
             return str("15")
         elif vol == "2 tbsp":
@@ -120,6 +138,8 @@ def grams(food, mass, vol):
             return str("80")
         elif vol == "6 tbsp":
             return str("90")
+        elif vol == "7 tbsp":
+            return str("105")
         elif vol == "1/2 cup" or vol == "8 tbsp":
             return str("120")
         elif vol == "3/4 cup" or vol == "12 tbsp":
@@ -141,14 +161,39 @@ def grams(food, mass, vol):
         else:
             return str(mass)
         
+    # Coconut oil
+    if food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil":
+        if vol == "1 tsp":
+            return str("2")
+        elif vol == "1/2 tbsp":
+            return str("7")
+        elif vol == "1 tbsp":
+            return str("14")
+        elif vol == "2 tbsp":
+            return str("28")
+        elif vol == "3 tbsp":
+            return str("42")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("56")
+        elif vol == "5 tbsp":
+            return str("70")
+        elif vol == "6 tbsp":
+            return str("84")
+        elif vol == "7 tbsp":
+            return str("98")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("112")
+        else:
+            return str(mass)
+        
     # Yogurt & cottage cheese
     elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free":
         if vol == "1 tbsp":
-            return str("15")
+            return str("14")
         elif vol == "2 tbsp":
-            return str("30")
+            return str("28")
         elif vol == "1/4 cup" or vol == "4 tbsp":
-            return str("60")
+            return str("56")
         elif vol == "1/2 cup" or vol == "8 tbsp":
             return str("113")
         elif vol == "3/4 cup":
@@ -269,6 +314,42 @@ def grams(food, mass, vol):
             return str("320")
         else:
             return str(mass)
+        
+    # Onions
+    if food == "Onion":
+        if vol == "1/2 medium":
+            return str("55")
+        elif vol == "1 medium":
+            return str("110")
+        elif vol == "2 medium":
+            return str("220")
+        elif vol == "3 medium":
+            return str("330")
+        elif vol == "4 medium":
+            return str("440")
+        elif vol == "5 medium":
+            return str("550")
+        else:
+            return str(mass)
+        
+    # Peppers
+    if food == "Bell pepper":
+        if vol == "1/2 medium":
+            return str("60")
+        elif vol == "1 medium":
+            return str("120")
+        elif vol == "2 medium":
+            return str("240")
+        elif vol == "3 medium":
+            return str("360")
+        elif vol == "4 medium":
+            return str("480")
+        elif vol == "5 medium":
+            return str("600")
+        else:
+            return str(mass)
+        
+    # TODO: produce, flours, 
 
     # Else
     else:
@@ -281,9 +362,9 @@ def main(path = ""):
     if path == "":
         # path to csv files
         # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
-        path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
+        # path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*-ing.csv"
-        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
+        path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
         print("empty path")
 
     # loop through all the files
