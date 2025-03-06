@@ -398,6 +398,40 @@ def grams(food, mass, vol):
         else:
             return str(mass)
         
+    # Tomatoes
+    if food == "Tomato":
+        if vol == "1/2 medium":
+            return str("50")
+        elif vol == "1 medium":
+            return str("100")
+        elif vol == "2 medium":
+            return str("200")
+        elif vol == "3 medium":
+            return str("300")
+        elif vol == "4 medium":
+            return str("400")
+        elif vol == "5 medium":
+            return str("500")
+        else:
+            return str(mass)
+        
+    # Lettuce
+    if food == "Lettuce" or food == "Romaine lettuce":
+        if vol == "1/2 head" or vol == "4 oz":
+            return str("113")
+        elif vol == "1 head"  or vol == "8 oz, about 2 heads" or vol == "8 oz":
+            return str("226")
+        elif vol == "2 heads" or vol == "2 head":
+            return str("454")
+        elif vol == "3 medium":
+            return str("360")
+        elif vol == "4 medium":
+            return str("480")
+        elif vol == "5 medium":
+            return str("600")
+        else:
+            return str(mass)
+        
     # Powdered pb
     if food == "Powdered peanut butter":
         if vol == "1/2 tbsp" or vol == "1.5 tsp":
@@ -748,8 +782,26 @@ def grams(food, mass, vol):
         else:
             return str(mass)
         
-        
-    # TODO: produce (tomatoes, lettuce)
+    # Chocolate chips
+    if food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar":
+        if vol == "1/2 tbsp":
+            return str("7.5")
+        elif vol == "1 tbsp":
+            return str("15")
+        elif vol == "2 tbsp":
+            return str("30")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("45")
+        elif vol == "1/3 cup":
+            return str("60")
+        elif vol == "1/2 cup":
+            return str("90")
+        elif vol == "3/4 cup":
+            return str("135")
+        elif vol == "1 cup":
+            return str("180")
+        else:
+            return str(mass)
 
     # Else
     else:
