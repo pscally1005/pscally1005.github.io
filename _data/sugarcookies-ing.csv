@@ -10,6 +10,6 @@ Ingredient,Amount,Unit,Description
 "Powdered sugar",360,g,"3 cup"
 "Honey",11,g,"1/2 tbsp"
 "Vanilla extract",2.5,g,"1/2 tsp"
-"Salt",0,g,"Small pinch"
+"Salt",0.15,g,"Small pinch"
 "Water",60,g,"1/4 cup"
 Servings,36

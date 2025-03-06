@@ -3,7 +3,7 @@ Ingredient,Amount,Unit,Description
 "Chia seeds",12,g,"1 tbsp"
 "Cocoa powder",10,g,"2 tbsp"
 "Cinnamon",3,g,"1 tsp"
-"Salt",0,g,"Small pinch"
+"Salt",0.15,g,"Small pinch"
 "Almond extract",2.5,g,"1/2 tsp"
 "Liquid monk fruit",1.25,g,"1/4 tsp"
 "Plain nonfat greek yogurt",226,g,"1 cup"

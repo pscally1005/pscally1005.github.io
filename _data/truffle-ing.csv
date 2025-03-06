@@ -13,5 +13,5 @@ Ingredient,Amount,Unit,Description
 "Honey",21,g,"1 tbsp"
 "Vanilla extract",2.5,g,"1/2 tsp"
 "Almond extract",1.25,g,"1/4 tsp"
-"Salt",0,g,"Small pinch"
+"Salt",0.15,g,"Small pinch"
 Servings,18

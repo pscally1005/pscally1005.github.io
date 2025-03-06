@@ -8,9 +8,11 @@ import csv
 def grams(food, mass, vol):
     # Salt, baking powder, baking soda
     if food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt":
-        if vol == "1/16 tsp":
+        if vol == "Small pinch" or vol == "Tiny pinch":
+            return str("0.15")
+        if vol == "1/16 tsp" or vol == "Pinch":
             return str("0.38")
-        elif vol == "1/8 tsp":
+        elif vol == "1/8 tsp" or vol == "Large pinch" or vol == "Big pinch":
             return str("0.75")
         elif vol == "1/4 tsp":
             return str("1.5")
@@ -75,7 +77,7 @@ def grams(food, mass, vol):
             return str(mass)
         
     # Less dense spices
-    elif food == "Allspice, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground" or food == "Nutritional yeast":
+    elif food == "Allspice, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground":
         if vol == "1/8 tsp":
             return str("0.25")
         elif vol == "1/4 tsp":
@@ -92,6 +94,53 @@ def grams(food, mass, vol):
             return str("6")
         elif vol == "6 tsp" or vol == "2 tbsp":
             return str("12")
+        else:
+            return str(mass)
+        
+    # Nutritional yeast, cocoa, coconut flakes
+    elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Unsweetened coconut flakes":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+            return str("2.5")
+        elif vol == "1 tbsp":
+            return str("5")
+        elif vol == "2 tbsp":
+            return str("10")
+        elif vol == "3 tbsp":
+            return str("15")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("20")
+        elif vol == "5 tbsp":
+            return str("25")
+        elif vol == "1/3 cup":
+            return str("27")
+        elif vol == "6 tbsp":
+            return str("30")
+        elif vol == "7 tbsp":
+            return str("35")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("40")
+        elif vol == "9 tbsp":
+            return str("45")
+        elif vol == "10 tbsp":
+            return str("50")
+        elif vol == "2/3 cup":
+            return str("53")
+        elif vol == "11 tbsp":
+            return str("55")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("60")
+        elif vol == "13 tbsp":
+            return str("65")
+        elif vol == "14 tbsp":
+            return str("70")
+        elif vol == "15 tbsp":
+            return str("75")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("80")
+        elif vol == "1.5 cup":
+            return str("120")
+        elif vol == "2 cup":
+            return str("160")
         else:
             return str(mass)
         
@@ -212,7 +261,7 @@ def grams(food, mass, vol):
             return str(mass)
         
     # Flours
-    if food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour":
+    if food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour":
         if vol == "2 tbsp":
             return str("15")
         elif vol == "4 tbsp" or vol == "1/4 cup":
@@ -349,7 +398,358 @@ def grams(food, mass, vol):
         else:
             return str(mass)
         
-    # TODO: produce (tomatoes, lettuce), flours, nutritional yeast, cocoa, pb2, pinch salt
+    # Powdered pb
+    if food == "Powdered peanut butter":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+            return str("3")
+        elif vol == "1 tbsp":
+            return str("6")
+        elif vol == "1.5 tbsp":
+            return str("9")
+        elif vol == "2 tbsp":
+            return str("12")
+        elif vol == "3 tbsp":
+            return str("18")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("24")
+        elif vol == "5 tbsp":
+            return str("30")
+        elif vol == "1/3 cup":
+            return str("32")
+        elif vol == "6 tbsp":
+            return str("36")
+        elif vol == "7 tbsp":
+            return str("42")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("48")
+        elif vol == "9 tbsp":
+            return str("54")
+        elif vol == "10 tbsp":
+            return str("60")
+        elif vol == "2/3 cup":
+            return str("64")
+        elif vol == "11 tbsp":
+            return str("66")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("72")
+        elif vol == "13 tbsp":
+            return str("78")
+        elif vol == "14 tbsp":
+            return str("84")
+        elif vol == "15 tbsp":
+            return str("90")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("96")
+        else:
+            return str(mass)
+        
+    # Chia seeds
+    if food == "Chia seeds":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+            return str("6")
+        elif vol == "1 tbsp":
+            return str("12")
+        elif vol == "1.5 tbsp":
+            return str("18")
+        elif vol == "2 tbsp":
+            return str("24")
+        elif vol == "3 tbsp":
+            return str("36")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("48")
+        elif vol == "5 tbsp":
+            return str("60")
+        elif vol == "1/3 cup":
+            return str("64")
+        elif vol == "6 tbsp":
+            return str("72")
+        elif vol == "7 tbsp":
+            return str("84")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("96")
+        elif vol == "9 tbsp":
+            return str("108")
+        elif vol == "10 tbsp":
+            return str("120")
+        elif vol == "2/3 cup":
+            return str("128")
+        elif vol == "11 tbsp":
+            return str("132")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("144")
+        elif vol == "13 tbsp":
+            return str("156")
+        elif vol == "14 tbsp":
+            return str("168")
+        elif vol == "15 tbsp":
+            return str("180")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("192")
+        else:
+            return str(mass)
+        
+    # Oat flour
+    if food == "Oat flour" or food == "Oat flour, or almond flour" or food == "Oat flour, or almond":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+            return str("3")
+        elif vol == "1 tbsp":
+            return str("6")
+        elif vol == "1.5 tbsp":
+            return str("9")
+        elif vol == "2 tbsp":
+            return str("11")
+        elif vol == "3 tbsp":
+            return str("17")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("23")
+        elif vol == "5 tbsp":
+            return str("28")
+        elif vol == "1/3 cup":
+            return str("30")
+        elif vol == "6 tbsp":
+            return str("34")
+        elif vol == "7 tbsp":
+            return str("39")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("45")
+        elif vol == "9 tbsp":
+            return str("51")
+        elif vol == "10 tbsp":
+            return str("56")
+        elif vol == "2/3 cup":
+            return str("60")
+        elif vol == "11 tbsp":
+            return str("62")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("68")
+        elif vol == "13 tbsp":
+            return str("73")
+        elif vol == "14 tbsp":
+            return str("79")
+        elif vol == "15 tbsp":
+            return str("84")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("90")
+        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup":
+            return str("96")
+        elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
+            return str("101")
+        elif vol == "1.25 cup":
+            return str("113")
+        elif vol == "1.33 cup":
+            return str("120")
+        elif vol == "1.5 cup":
+            return str("135")
+        elif vol == "1.67 cup" or vol == "1.66 cup":
+            return str("150")
+        elif vol == "1.75 cup":
+            return str("158")
+        elif vol == "2 cup":
+            return str("180")
+        elif vol == "2.5 cup":
+            return str("225")
+        elif vol == "3 cup":
+            return str("270")
+        else:
+            return str(mass)
+        
+    # Almond flour
+    if food == "Almond flour" or food == "Almond flour, or oat flour" or food == "Almond flour, or oat" or food == "Almond flour (or whole nuts)":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+            return str("3.5")
+        elif vol == "1 tbsp":
+            return str("7")
+        elif vol == "1.5 tbsp":
+            return str("10.5")
+        elif vol == "2 tbsp":
+            return str("14")
+        elif vol == "3 tbsp":
+            return str("21")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("28")
+        elif vol == "5 tbsp":
+            return str("35")
+        elif vol == "1/3 cup":
+            return str("37")
+        elif vol == "6 tbsp":
+            return str("42")
+        elif vol == "7 tbsp":
+            return str("49")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("56")
+        elif vol == "9 tbsp":
+            return str("63")
+        elif vol == "10 tbsp":
+            return str("70")
+        elif vol == "2/3 cup":
+            return str("75")
+        elif vol == "11 tbsp":
+            return str("77")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("84")
+        elif vol == "13 tbsp":
+            return str("91")
+        elif vol == "14 tbsp":
+            return str("98")
+        elif vol == "15 tbsp":
+            return str("105")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("112")
+        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup":
+            return str("119")
+        elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
+            return str("126")
+        elif vol == "1.25 cup":
+            return str("140")
+        elif vol == "1.33 cup":
+            return str("149")
+        elif vol == "1.5 cup":
+            return str("168")
+        elif vol == "1.67 cup" or vol == "1.66 cup":
+            return str("187")
+        elif vol == "1.75 cup":
+            return str("196")
+        elif vol == "2 cup":
+            return str("224")
+        elif vol == "2.5 cup":
+            return str("280")
+        elif vol == "3 cup":
+            return str("336")
+        else:
+            return str(mass)
+        
+    # Oats
+    if food == "Rolled oats" or food == "Quick oats" or food == "Rolled oats, or quick oats" or food == "Rolled oats, or quick" or food == "Quick oats, or rolled oats" or food == "Quick oats, or rolled" or food == "Quick oats, or oat flour" or food == "Rolled oats, or oat flour":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+            return str("2.5")
+        elif vol == "1 tbsp":
+            return str("5")
+        elif vol == "1.5 tbsp":
+            return str("7.5")
+        elif vol == "2 tbsp":
+            return str("10")
+        elif vol == "3 tbsp":
+            return str("15")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("20")
+        elif vol == "5 tbsp":
+            return str("25")
+        elif vol == "1/3 cup":
+            return str("27")
+        elif vol == "6 tbsp":
+            return str("30")
+        elif vol == "7 tbsp":
+            return str("35")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("40")
+        elif vol == "9 tbsp":
+            return str("45")
+        elif vol == "10 tbsp":
+            return str("50")
+        elif vol == "2/3 cup":
+            return str("53")
+        elif vol == "11 tbsp":
+            return str("55")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("60")
+        elif vol == "13 tbsp":
+            return str("65")
+        elif vol == "14 tbsp":
+            return str("70")
+        elif vol == "15 tbsp":
+            return str("75")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("80")
+        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup":
+            return str("85")
+        elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
+            return str("90")
+        elif vol == "1.25 cup":
+            return str("100")
+        elif vol == "1.33 cup":
+            return str("107")
+        elif vol == "1.5 cup":
+            return str("120")
+        elif vol == "1.67 cup" or vol == "1.66 cup":
+            return str("133")
+        elif vol == "1.75 cup":
+            return str("140")
+        elif vol == "2 cup":
+            return str("160")
+        elif vol == "2.5 cup":
+            return str("200")
+        elif vol == "3 cup":
+            return str("240")
+        else:
+            return str(mass)
+        
+    # Ground Flaxseed
+    if food == "Ground flaxseed":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+            return str("3.25")
+        elif vol == "1 tbsp":
+            return str("6.5")
+        elif vol == "1.5 tbsp":
+            return str("9.75")
+        elif vol == "2 tbsp":
+            return str("13")
+        elif vol == "3 tbsp":
+            return str("20")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("26")
+        elif vol == "5 tbsp":
+            return str("33")
+        elif vol == "1/3 cup":
+            return str("35")
+        elif vol == "6 tbsp":
+            return str("39")
+        elif vol == "7 tbsp":
+            return str("46")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("52")
+        elif vol == "9 tbsp":
+            return str("59")
+        elif vol == "10 tbsp":
+            return str("65")
+        elif vol == "2/3 cup":
+            return str("69")
+        elif vol == "11 tbsp":
+            return str("72")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("78")
+        elif vol == "13 tbsp":
+            return str("85")
+        elif vol == "14 tbsp":
+            return str("91")
+        elif vol == "15 tbsp":
+            return str("98")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("104")
+        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup":
+            return str("111")
+        elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
+            return str("117")
+        elif vol == "1.25 cup":
+            return str("130")
+        elif vol == "1.33 cup":
+            return str("138")
+        elif vol == "1.5 cup":
+            return str("156")
+        elif vol == "1.67 cup" or vol == "1.66 cup":
+            return str("174")
+        elif vol == "1.75 cup":
+            return str("182")
+        elif vol == "2 cup":
+            return str("208")
+        elif vol == "2.5 cup":
+            return str("260")
+        elif vol == "3 cup":
+            return str("312")
+        else:
+            return str(mass)
+        
+        
+    # TODO: produce (tomatoes, lettuce)
 
     # Else
     else:
@@ -362,9 +762,9 @@ def main(path = ""):
     if path == "":
         # path to csv files
         # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
-        # path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
+        path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*-ing.csv"
-        path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
+        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
         print("empty path")
 
     # loop through all the files
