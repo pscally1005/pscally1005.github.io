@@ -349,7 +349,7 @@ def grams(food, mass, vol):
         else:
             return str(mass)
         
-    # TODO: produce, flours, 
+    # TODO: produce (tomatoes, lettuce), flours, nutritional yeast, cocoa, pb2, pinch salt
 
     # Else
     else:

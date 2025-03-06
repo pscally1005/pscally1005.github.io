@@ -2,7 +2,7 @@ Ingredient,Amount,Unit,Description
 "Almond butter",64,g,"1/4 cup"
 "Granulated monk fruit",96,g,"1/2 cup"
 "Unsweetened applesauce",60,g,"1/4 cup"
-"Plain nonfat greek yogurt",60,g,"1/4 cup"
+"Plain nonfat greek yogurt",56,g,"1/4 cup"
 "Unsweetened vanilla almond milk",30,g,"2 tbsp"
 "Egg",101,g,"2 large"
 "Almond extract",5,g,"1 tsp"
@@ -13,5 +13,5 @@ Ingredient,Amount,Unit,Description
 "Extra virgin coconut oil",56,g,"1/4 cup"
 "Cocoa powder",54,g,"1/2cup + 2tbsp"
 "Liquid monk fruit",5,g,"1 tsp"
-"Salt",1,g,"1/8 tsp"
+"Salt",0.75,g,"1/8 tsp"
 Servings,36
