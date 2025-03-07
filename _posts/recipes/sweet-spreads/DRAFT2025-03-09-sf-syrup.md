@@ -41,7 +41,7 @@ Description: Sugar free syrup is an easy and convenient sweetener that can repla
 Instructions: 
 - I'll be using this <a href=https://www.walmart.com/ip/Splenda-Monk-Fruit-Natural-Zero-Calorie-Sweetener-Granulated-Sugar-Substitute-19-oz/541334570?classType=REGULAR&athbdg=L1600&from=/search">granulated monk fruit</a>, but any low calorie granulated sweetener should work, like allulose, erythritol, or stevia
 
-- In a small pot, whisk together water, sugar, and a tiny pinch of salt until dissolved. Bring to a simmer over medium to medium high heat
+- In a small pot, whisk together water, sweetener, and a tiny pinch of salt until dissolved. Bring to a simmer over medium to medium high heat
 
 - When simmering (about 215F), let simmer for 5 minutes with occasional stirring
 
@@ -57,4 +57,6 @@ Instructions:
 - Transfer to a mason jar, and let cool at room temperature uncovered for an hour. Put the lid on the jar, and store at room temperature for up to a week. Wait at least 1 day before using so it can thicken
 
 - This recipe yields about 18 tbsp (360 g) of syrup, or a little over a cup (1 cup = 320 g). You can use this as a substitution for maple syrup or honey at a 1:1 ratio by both weight and volume
+
+- <center></center><i>Note</i>:<b></b> If you're having the recipe to make half the syrup, you need to simmer for less time.  Cooking for the same amount of time with half the water will boil off too much liquid, making the syrup too thick (I leaned this lesson the hard way)
 ---
