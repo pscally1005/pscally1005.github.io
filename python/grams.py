@@ -546,7 +546,7 @@ def grams(food, mass, vol):
             return str("39")
         elif vol == "8 tbsp" or vol == "1/2 cup":
             return str("45")
-        elif vol == "9 tbsp":
+        elif vol == "9 tbsp" or vol == "1/2cup + 1tbsp":
             return str("51")
         elif vol == "10 tbsp":
             return str("56")
