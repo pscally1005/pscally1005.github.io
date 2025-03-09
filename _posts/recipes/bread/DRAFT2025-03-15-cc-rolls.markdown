@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Cottage Cheese Oat Rolls"
+date:   2025-03-15 00:00:00 -0500
+categories:
+- Recipes
+- Bread
+permalink: /recipes/cottage-cheese-rolls
+image: /assets/Food/Bread/CC rolls/open.jpg
+ing: ccrolls-ing
+facts: ccrolls-facts
+servingSize: 1 roll
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 10
+Rest: 30
+Cook: 20
+Source1: https://youtube.com/shorts/GZzKNyvYGtM?si=uy9AJmGLv-EbLiz3
+Source2: 
+whisk: https://s.samsungfood.com/sTmOt
+tags: 
+- bread
+- sandwich
+- gluten free
+- rolls
+- cottage cheese
+- rolled oats
+- eggs
+Description: These easy and healthy bread rolls are made from just rolled oats, cottage cheese, and eggs. They take only a few minutes to prep and rest, and they bake up nice and thin and crispy, perfect for a sandwich or toast.  Here, I made a pulled chicken sandwich using my <a href="/recipes/salsa-chicken">Two Ingredient Salsa Chicken</a>
+Instructions: 
+- In a medium bowl, beat your eggs with a fork until smooth. Add in your (blended) cottage cheese, baking powder, and salt. Mix with a silicone spatula until fully combined
+
+- Add in the rolled oats, and fold together until well combined. The batter should look too wet; let chill in the fridge for at least 30 minutes, so the oats can soak up the excess moisture
+- <center><img src="/assets/Food/Bread/CC rolls/bowl.jpg" alt="" class="instruction-image"></center>
+
+- Preheat your oven to 400F, and line a cookie sheet with parchment paper. Scoop the batter onto the pan (about 100 g each). Lightly wet your hands, and shape into an even circle. Optionally, top with everything bagel seasoning
+- <center><img src="/assets/Food/Bread/CC rolls/raw.jpg" alt="" class="instruction-image"></center>
+
+- Bake at 400F for about 20 minutes, or until browned and firm to the touch
+- <center><img src="/assets/Food/Bread/CC rolls/baked.jpg" alt="" class="instruction-image"></center>
+
+- Transfer to a wire rack to cool before slicing in half. Store in an airtight bag in the fridge for up to 1 week, or indefinitely in the freezer
+- <center><img src="/assets/Food/Bread/CC rolls/closed.jpg" alt="" class="instruction-image"></center>
+---
