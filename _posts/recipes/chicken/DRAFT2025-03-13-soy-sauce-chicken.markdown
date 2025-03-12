@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soy Sauce Chicken and Brussel Sprouts"
-date:   2025-03-14 00:00:00 -0500
+date:   2025-03-13 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
