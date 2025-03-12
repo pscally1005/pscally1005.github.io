@@ -3,8 +3,10 @@
       <span>
 
         {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
-          <a rel="" target="" href="#recipe" class="button">Recipe</a>
-          <a rel="" target="" href="#nutrition-facts" class="button">Nutrition</a>
+          {% unless page.title == "Homemade Granite and Wood Cleaners" %}
+            <a rel="" target="" href="#recipe" class="button">Recipe</a>
+            <a rel="" target="" href="#nutrition-facts" class="button">Nutrition</a>
+          {% endunless %}
         {% endif %}
 
         <a rel="" target="" href="#disqus_thread" class="button">Comment</a>
