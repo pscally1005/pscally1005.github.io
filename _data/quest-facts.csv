@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,195,,
+Calories,197,,
 "Vitamin A, RAE",0.1,mcg,0 %
 "Carotene, alpha",0.01,mcg,
 "Carotene, beta",0.73,mcg,
@@ -7,14 +7,14 @@ Calories,195,,
 "Lutein + zeaxanthin",1.44,mcg,
 "Lycopene",0.1,mcg,
 "Retinol",0,mcg,
-"Thiamin [Vitamin B1]",0.177,mg,15 %
-"Riboflavin [Vitamin B2]",0.537,mg,41 %
-"Niacin [Vitamin B3]",2.595,mg,16 %
-"Pantothenic acid [Vitamin B5]",1.552,mg,31 %
-"Vitamin B6",0.227,mg,13 %
-"Vitamin B12 [Cobalamin]",0.6,mcg,25 %
+"Thiamin [Vitamin B1]",0.157,mg,13 %
+"Riboflavin [Vitamin B2]",0.352,mg,27 %
+"Niacin [Vitamin B3]",3.517,mg,22 %
+"Pantothenic acid [Vitamin B5]",1.137,mg,23 %
+"Vitamin B6",0.193,mg,11 %
+"Vitamin B12 [Cobalamin]",0.36,mcg,15 %
 "Vitamin B12, added",0,mcg,
-"Folate, DFE [Vitamin B9]",23.8,mcg,6 %
+"Folate, DFE [Vitamin B9]",32.48,mcg,8 %
 "Folate, food",0.04,mcg,
 "Folic acid",0,mcg,
 "Vitamin C [Ascorbic acid]",0,mg,0 %
@@ -34,54 +34,54 @@ Calories,195,,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0.1,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
-"Choline",66.3,mg,12 %
-"Calcium",291.8,mg,22 %
-"Copper",0.07,mg,8 %
+"Choline",44,mg,8 %
+"Calcium",110.65,mg,9 %
+"Copper",0.25,mg,28 %
 "Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
-"Iron",0.55,mg,3 %
-"Magnesium",77.94,mg,19 %
-"Manganese",0.403,mg,18 %
-"Phosphorus",388.49,mg,31 %
-"Potassium",216.3,mg,5 %
-"Selenium",8.17,mcg,15 %
-"Sodium",244.36,mg,11 %
-"Zinc",2.01,mg,18 %
-"Protein",23.28,g,47 %
-"Alanine",1.025,g,
-"Arginine",1.028,g,
-"Aspartic acid",2.563,g,
-"Cystine",0.473,g,
-"Cysteine",0.48,g,
-"Glutamic acid",4.116,g,
-"Glycine",0.58,g,
-"Histidine",0.497,g,43 %
+"Iron",0.88,mg,5 %
+"Magnesium",62.81,mg,15 %
+"Manganese",0.784,mg,34 %
+"Phosphorus",302.44,mg,24 %
+"Potassium",291.97,mg,6 %
+"Selenium",6.15,mcg,11 %
+"Sodium",236.14,mg,10 %
+"Zinc",1.93,mg,18 %
+"Protein",20.36,g,41 %
+"Alanine",0.877,g,
+"Arginine",1.404,g,
+"Aspartic acid",2.342,g,
+"Cystine",0.368,g,
+"Cysteine",0.37,g,
+"Glutamic acid",3.847,g,
+"Glycine",0.745,g,
+"Histidine",0.465,g,41 %
 "Hydroxyproline",0,g,
-"Isoleucine",1.284,g,83 %
-"Leucine",2.445,g,71 %
-"Lysine",2.011,g,65 %
-"Methionine",0.448,g,
-"Phenylalanine",0.846,g,
-"Proline",1.818,g,
-"Serine",1.336,g,
-"Threonine",1.255,g,77 %
-"Tryptophan",0.362,g,89 %
-"Tyrosine",0.729,g,
-"Valine",1.259,g,64 %
-"Phenylalanine + Tyrosine",1.575,g,58 %
-"Methionine + Cysteine",0.928,g,60 %
-"Carbohydrate",13.53,g,5 %
-"Fiber",1.69,g,6 %
-"Sugars",1.41,g,
+"Isoleucine",1.003,g,65 %
+"Leucine",1.896,g,55 %
+"Lysine",1.445,g,47 %
+"Methionine",0.35,g,
+"Phenylalanine",0.85,g,
+"Proline",1.383,g,
+"Serine",1.127,g,
+"Threonine",0.979,g,60 %
+"Tryptophan",0.282,g,69 %
+"Tyrosine",0.705,g,
+"Valine",1.032,g,53 %
+"Phenylalanine + Tyrosine",1.555,g,58 %
+"Methionine + Cysteine",0.72,g,46 %
+"Carbohydrate",19.34,g,7 %
+"Fiber",3.11,g,11 %
+"Sugars",1.97,g,
 "Fructose",0.01,g,
 "Galactose",0,g,
 "Glucose",0.01,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0,g,
-"Net carbs",11.84,g,
-"Fat",9.319,g,12 %
-"Saturated fatty acids",1.918,g,10 %
+"Net carbs",16.23,g,
+"Fat",10.444,g,13 %
+"Saturated fatty acids",2.074,g,10 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Docosanoic acid",0,g,
@@ -96,7 +96,7 @@ Calories,195,,
 "Tetracosanoic acid",0,g,
 "Tetradecanoic acid",0,g,
 "Tridecanoic acid",0,g,
-"Monounsaturated fatty acids",4.191,g,
+"Monounsaturated fatty acids",4.749,g,
 "Cis-octadecenoic acid",0.002,g,
 "Docosenoic acid",0,g,
 "Eicosenoic acid",0,g,
@@ -107,7 +107,7 @@ Calories,195,,
 "Tetracosenoic cis acid",0,g,
 "Tetradecenoic acid",0,g,
 "Trans-octadecenoic acid",0,g,
-"Polyunsaturated fatty acids",1.563,g,
+"Polyunsaturated fatty acids",1.919,g,
 "α-linolenic acid n-3 (ALA)",0,g,
 "γ-linolenic acid n-6 (GLA)",0,g,
 "Cis,cis-eicosadienoic n-6 acid",0,g,
@@ -121,10 +121,10 @@ Calories,195,,
 "Octadecatrienoic acid",0,g,
 "Fatty acids, total trans",0,g,
 "Fatty acids, total trans-monoenoic",0,g,
-"Cholesterol",40.74,mg,14 %
+"Cholesterol",34.09,mg,11 %
 "Phytosterols",0.17,mg,
 "Alcohol, ethyl",0.4,g,
 "Ash",0.03,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",12.13,g,
+"Water",12.83,g,
