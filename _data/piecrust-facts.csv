@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,92,,
+Calories,88,,
 "Vitamin A, RAE",4.6,mcg,1 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",1.14,mcg,
@@ -7,10 +7,10 @@ Calories,92,,
 "Lutein + zeaxanthin",1.58,mcg,
 "Lycopene",0,mcg,
 "Retinol",4.51,mcg,
-"Thiamin [Vitamin B1]",0.098,mg,8 %
-"Riboflavin [Vitamin B2]",0.049,mg,4 %
-"Niacin [Vitamin B3]",0.534,mg,3 %
-"Pantothenic acid [Vitamin B5]",0.147,mg,3 %
+"Thiamin [Vitamin B1]",0.097,mg,8 %
+"Riboflavin [Vitamin B2]",0.028,mg,2 %
+"Niacin [Vitamin B3]",0.533,mg,3 %
+"Pantothenic acid [Vitamin B5]",0.146,mg,3 %
 "Vitamin B6",0.031,mg,2 %
 "Vitamin B12 [Cobalamin]",0,mcg,0 %
 "Vitamin B12, added",0,mcg,
@@ -34,18 +34,18 @@ Calories,92,,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",2.1,mg,0 %
-"Calcium",42.55,mg,3 %
+"Calcium",40.96,mg,3 %
 "Copper",0.07,mg,8 %
 "Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
 "Iron",0.9,mg,5 %
-"Magnesium",51.11,mg,12 %
-"Manganese",0.82,mg,36 %
-"Phosphorus",122.11,mg,10 %
-"Potassium",141.27,mg,3 %
-"Selenium",5.17,mcg,9 %
-"Sodium",59.21,mg,3 %
-"Zinc",0.62,mg,6 %
+"Magnesium",50.79,mg,12 %
+"Manganese",0.772,mg,34 %
+"Phosphorus",122.09,mg,10 %
+"Potassium",137.76,mg,3 %
+"Selenium",5.16,mcg,9 %
+"Sodium",59.7,mg,3 %
+"Zinc",0.6,mg,5 %
 "Protein",2.99,g,6 %
 "Alanine",0.173,g,
 "Arginine",0.276,g,
@@ -69,17 +69,11 @@ Calories,92,,
 "Valine",0.183,g,9 %
 "Phenylalanine + Tyrosine",0.305,g,11 %
 "Methionine + Cysteine",0.14,g,9 %
-"Carbohydrate",15.64,g,6 %
+"Carbohydrate",15.45,g,6 %
 "Fiber",1.93,g,7 %
-"Sugars",2.25,g,
-"Fructose",0.01,g,
-"Galactose",0,g,
-"Glucose",0.03,g,
-"Lactose",0,g,
-"Maltose",0,g,
-"Sucrose",0.98,g,
-"Net carbs",13.71,g,
-"Fat",2.544,g,3 %
+"Sugars",1.23,g,
+"Net carbs",13.52,g,
+"Fat",2.543,g,3 %
 "Saturated fatty acids",0.397,g,2 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
@@ -105,11 +99,7 @@ Calories,92,,
 "Fatty acids, total trans",0,g,
 "Cholesterol",0,mg,0 %
 "Alcohol, ethyl",0,g,
-"Ash",0.01,g,
+"Ash",0,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",14.91,g,
-
-* DV is based on 2000 calories diet.
-** ingredients that do not specify nutrient
-amount contribute 0 to the total
+"Water",15.63,g,

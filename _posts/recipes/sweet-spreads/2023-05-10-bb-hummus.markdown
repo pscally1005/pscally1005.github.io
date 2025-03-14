@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Sweet Spreads
 permalink: /recipes/banana-bread-hummus
-image: /assets/Food/Sweet Spreads/BB Hummus/bb-hummus.jpg
+image: /assets/Food/Sweet Spreads/BB Hummus/cover.jpg
 ing: bbhummus-ing
 facts: bbhummus-facts
 servingSize: 2 tbsp (32 g)
@@ -38,11 +38,14 @@ tags:
 - cinnamon
 - dip
 - cookie dough dip
-Description: Dessert hummus is a great sweet way to enjoy chickpeas. It works really well as a spread on <a href="ww-bread">100% Whole Wheat Bread</a>, on a PBJ, or in your morning oatmeal. They're naturally sweetened with both bananas and some liquid monk fruit or stevia. Each serving is about 2 tbsp, or 32g.
+Description: Dessert hummus is a great sweet way to enjoy chickpeas. It works really well as a spread on <a href="/recipes/ww-bread">100% Whole Wheat Bread</a>, on a PBJ, or in your morning oatmeal. They're naturally sweetened with bananas, get healthy fats and protein from the peanut butter, and fiber from the chickpeas.  It also works as a great filling for a <a href="/recipes/banana-cream-pie">Banana No-Cream Pie</a>.
 Instructions: 
 - The day before, break your bananas into 1" chunks, and add to an airtight bag.  Freeze overnight
 
-- Drain and rinse your chickpeas.  Add all ingredients to a food processor, and blend until smooth.  If you don't have powdered peanut butter, you can add an additional 2 tbsp (32 g) of peanut butter or tahini
+- Drain and rinse your chickpeas.  Add all ingredients to a food processor, and blend until smooth.  Optionally add some sweetener, like 1/2 tsp (2.5 g) liquid monk fruit, 1 tbsp (12 g) granulated monk fruit, or 1 tbsp (21 g) honey
+- <center><img src="/assets/Food/Sweet Spreads/BB Hummus/blend.jpg" alt="" class="instruction-image"></center>
+
+- If you don't have powdered peanut butter, you can add an additional 2 tbsp (32 g) of peanut butter or tahini
 
 - Store in an air tight container in the fridge. Use it anywhere you'd use peanut butter, such as spreading on toast, or in your oatmeal.
 ---

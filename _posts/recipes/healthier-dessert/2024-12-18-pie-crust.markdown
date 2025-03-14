@@ -48,4 +48,10 @@ Instructions:
 
 - The pie pictured in the thumbnail is just this healthy pie crust filled with my <a href="/recipes/date-frosting">Date Sweetened Frosting</a> for a creamy, sweet, and delicious no bake pie!
 - <center><img src="/assets/Food/Healthier Dessert/Pie Crust/pie.jpg" alt="" class="instruction-image"></center>
+
+- I've also used this pie crust, along with <a href="/recipes/banana-bread-hummus">Banana Bread Hummus Spread</a> and <a href="/recipes/whipped-cream">Aquafaba Whipped Cream</a> to make a <a href="/recipes/banana-cream-pie">Banana No-Cream Pie</a>.
+- <center><img src="/assets/Food/Healthier Dessert/Banana Cream Pie/filling.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Banana Cream Pie/cover.jpg" alt="" class="half-page"></center>
+
+- Alternatively, you can use the raw dough of the <a href="/recipes/gf-crackers">Gluten Free Graham Crackers</a> and turn that straight into the pie crust; no baking beforehand necessary.  Just take the raw ingredients of the graham cracker dough, shape in a 9" cake pan, and bake at 350F for about 15 minutes, until lightly browned.  Note that this recipe calls for all the crackers plus some applesauce; the applesauce is not needed if you're baking the raw crackers for the crust
+- <center><img src="/assets/Food/Healthier Dessert/Pie Crust/raw-1.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pie Crust/baked-1.jpg" alt="" class="half-page"></center>
 ---

@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,90,,
+Calories,86,,
 "Vitamin A, RAE",4.53,mcg,1 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0.65,mcg,
@@ -7,10 +7,10 @@ Calories,90,,
 "Lutein + zeaxanthin",0.9,mcg,
 "Lycopene",0,mcg,
 "Retinol",4.48,mcg,
-"Thiamin [Vitamin B1]",0.096,mg,8 %
-"Riboflavin [Vitamin B2]",0.048,mg,4 %
-"Niacin [Vitamin B3]",0.528,mg,3 %
-"Pantothenic acid [Vitamin B5]",0.146,mg,3 %
+"Thiamin [Vitamin B1]",0.095,mg,8 %
+"Riboflavin [Vitamin B2]",0.027,mg,2 %
+"Niacin [Vitamin B3]",0.527,mg,3 %
+"Pantothenic acid [Vitamin B5]",0.145,mg,3 %
 "Vitamin B6",0.03,mg,2 %
 "Vitamin B12 [Cobalamin]",0,mcg,0 %
 "Vitamin B12, added",0,mcg,
@@ -34,18 +34,18 @@ Calories,90,,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",2,mg,0 %
-"Calcium",42.14,mg,3 %
+"Calcium",40.56,mg,3 %
 "Copper",0.07,mg,8 %
 "Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
 "Iron",0.89,mg,5 %
-"Magnesium",50.69,mg,12 %
-"Manganese",0.815,mg,35 %
-"Phosphorus",121.18,mg,10 %
-"Potassium",137.63,mg,3 %
-"Selenium",5.13,mcg,9 %
-"Sodium",58.77,mg,3 %
-"Zinc",0.62,mg,6 %
+"Magnesium",50.37,mg,12 %
+"Manganese",0.767,mg,33 %
+"Phosphorus",121.16,mg,10 %
+"Potassium",134.14,mg,3 %
+"Selenium",5.12,mcg,9 %
+"Sodium",59.26,mg,3 %
+"Zinc",0.6,mg,5 %
 "Protein",2.96,g,6 %
 "Alanine",0.172,g,
 "Arginine",0.274,g,
@@ -69,17 +69,11 @@ Calories,90,,
 "Valine",0.182,g,9 %
 "Phenylalanine + Tyrosine",0.303,g,11 %
 "Methionine + Cysteine",0.14,g,9 %
-"Carbohydrate",15.12,g,5 %
+"Carbohydrate",14.93,g,5 %
 "Fiber",1.88,g,7 %
-"Sugars",1.89,g,
-"Fructose",0.01,g,
-"Galactose",0,g,
-"Glucose",0.03,g,
-"Lactose",0,g,
-"Maltose",0,g,
-"Sucrose",0.97,g,
-"Net carbs",13.24,g,
-"Fat",2.525,g,3 %
+"Sugars",0.88,g,
+"Net carbs",13.05,g,
+"Fat",2.524,g,3 %
 "Saturated fatty acids",0.395,g,2 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
@@ -105,7 +99,7 @@ Calories,90,,
 "Fatty acids, total trans",0,g,
 "Cholesterol",0,mg,0 %
 "Alcohol, ethyl",0,g,
-"Ash",0.01,g,
+"Ash",0,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",11.51,g,
+"Water",12.22,g,

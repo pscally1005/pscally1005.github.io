@@ -33,13 +33,13 @@ tags:
 - breast
 - bake
 - marinade
-Description: This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the chicken and sprouts, that way it's easier to put together come dinner time. This pairs well with a side of brown rice cooked in the same seasonings listed below.
+Description: This big plate of food (minus the rice) has under 400 calories, over 45 g of protein, and costs only $2.56. This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the chicken and sprouts, that way it's easier to put together come dinner time. I like to pair it with a side of brown rice for a complete meal.
 Instructions: 
 - Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 
 - Quarter your brussel sprouts (or just half them if they're small), and add to a large bowl. Season with soy sauce, lemon juice, oil, pepper, paprika, chili powder, garlic powder, and onion powder.  Optionally, you can marinate the veggies in the bowl for at least an hour in the fridge.  Transfer to one of your pans
 
-- Roast the brussel sprouts for abour 30 minutes at 400F, or until tender and browned
+- Roast the brussel sprouts for about 30 minutes at 400F, or until tender and browned
 
 - Meanwhile, cut your chicken into thin slices. Pound to an even thickness with a meat mallet. Add to a large bowl, and season with soy sauce, lemon juice, oil, pepper, paprika, chili powder, garlic powder, and onion powder. Optionally, you can marinate the chicken in the bowl for at least an hour in the fridge.  Transfer to the other pan
 

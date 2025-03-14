@@ -345,7 +345,7 @@ Vanilla instant pudding mix,0.98,96.22,0.01018,44.00,95.83,TRUE,TRUE,TRUE,TRUE,T
 Beef liver,3.29,454.00,0.00725,0.00,3.89,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Creamy pesto dip,3.80,688.00,0.00552,25.10,7.44,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,/recipes/creamy-pesto,0.0,0.0
 Simple pasta sauce,2.69,800.00,0.00336,33.50,10.20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pasta-sauce,0.0,0.0
-Gluten free graham crackers,1.63,300.00,0.00543,42.00,60.40,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4.4,/recipes/gf-crackers,0.0,0.0
+Gluten free graham crackers,1.42,300.00,0.00473,38.60,53.21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,/recipes/gf-crackers,3.2,0.0
 Garam masala,2.99,48.11,0.06215,15.00,70.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/McCormick-Gourmet-Garam-Masala-Blend-1-7-oz/10309043?classType=REGULAR&from=/search,0.0,0.0
 Chickpea flour,1.50,454.00,0.00330,38.00,62.95,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/misc/homemade-flours,0.0,0.0
 Sodium Chloride,2.59,454.00,0.00570,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/Amazon-Brand-Happy-Ground-Ounces/dp/B07QW1G8MW/ref=sr_1_6_mod_primary_new?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-6,0.0,0.0
@@ -360,4 +360,9 @@ Lactase enzyme,19.95,500.00,0.03990,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,
 Gooey cheese sauce,2.48,300.00,0.00827,24.30,2.93,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,/recipes/cheese-sauce,0.0,0.0
 "Kefir, plain, 3.25% fat",3.89,960.00,0.00405,32.00,3.80,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Kefir, plain, 1% fat",3.89,960.00,0.00405,32.00,4.80,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-Simple Shredded Chicken,5.35,621.00,0.00405,32.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,/recipes/shredded-chicken,0.0,0.0
+Simple Shredded Chicken,5.35,621.00,0.00862,32.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,/recipes/shredded-chicken,0.0,0.0
+Banana Bread Hummus Spread,2.29,653.00,0.00351,39.90,24.69,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,/recipes/banana-bread-hummus,0.0,0.0
+Aquafaba Whipped Cream,1.53,245.50,0.00623,2.70,22.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/whipped-cream,20.0,0.0
+Healthier Graham Cracker Pie Crust,1.53,255.00,0.00600,38.50,72.94,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,/recipes/pie-crust,3.8,0.0
+Whole wheat pizza dough,1.37,586.00,0.00234,74.00,39.66,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pizza,0.0,0.0
+Broccoli rabe,0.99,454.00,0.00218,32.00,2.85,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0

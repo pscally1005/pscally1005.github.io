@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Whole Wheat Deep Dish Pizza Pie"
+date:   2025-03-15 00:00:00 -05000
+categories: 
+- Recipes
+- Meatless
+permalink: /recipes/deep-dish-pizza
+image: /assets/Food/Meatless/Deep Dish/cover.jpg
+ing: deepdish-ing
+facts: deepdish-facts
+servingSize: 1 slice
+section1: Dough
+start2: Shredded mozzarella cheese, low moisture part skim
+section2: Cheese
+start3: Crushed tomatoes
+section3: Sauce
+start4: Grated parmesan cheese
+section4: Topping
+start5: 
+section5: 
+Prep: 10
+Rest: 5
+Cook: 20
+Source1: https://www.poormanprotein.com/recipes/pizza
+Source2: https://www.poormanprotein.com/recipes/pasta-sauce
+whisk: https://s.samsungfood.com/ZafLb
+tags: 
+- pizza
+- pie
+- chicago
+- tomato sauce
+- deep dish
+- mozzarella cheese
+- simple pasta sauce
+- whole wheat pizza dough
+- home oven baked pizza
+Description: Deep Dish Pizza is certainly an unconventional way to celebrate Pi Day, but it is technically a pie, so I'm counting it. As a New Yorker with Italian heritage, deep dish is probably the last thing that comes to mind when I think of pizza; but it may just be my new favorite. Using a 9" cake pan and some leftover pizza dough, I'm making a simple deep dish pizza with mozzarella cheese and tomato sauce. I'm keeping it simple today, but you can also top with any meat or roasted veggies you like.  For dessert, I'm celebrating Pi day with a <a href="/recipes/banana-cream-pie">Banana No-Cream Pie</a>
+Instructions: 
+- See my <a href="/recipes/pizza">Home Oven Baked Pizza</a> for instructions on how to make and prepare the pizza dough
+
+- Preheat your oven to 350F, and take out a 9" cake pan
+
+- Stretch your pizza dough as thin and round as possible, and place into the pan. Line the bottom, and pull the dough up the sides of the walls of the pan.  Lightly wet your fingers to get the dough to cling to the walls of the pan
+- <center><img src="/assets/Food/Meatless/Deep Dish/dough.jpg" alt="" class="instruction-image"></center>
+
+- Add your shredded cheese on top of the dough
+- <center><img src="/assets/Food/Meatless/Deep Dish/cheese.jpg" alt="" class="instruction-image"></center>
+
+- In a medium bowl, mix together the sauce ingredients - tomatoes, balsamic, garlic, onion, basil, salt, and red pepper flakes. Add on top of the mozzarella cheese
+- <center><img src="/assets/Food/Meatless/Deep Dish/sauce.jpg" alt="" class="instruction-image"></center>
+
+- Top the pizza with grated cheese, oregano, and any other toppings you like
+- <center><img src="/assets/Food/Meatless/Deep Dish/top.jpg" alt="" class="instruction-image"></center>
+
+- Bake at 350F for 20 minutes, or until the crust is lightly browned. Let rest in the pan for 5 minutes before cutting into 4 slices
+- <center><img src="/assets/Food/Meatless/Deep Dish/baked.jpg" alt="" class="instruction-image"></center>
+---

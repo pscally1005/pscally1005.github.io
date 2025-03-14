@@ -46,4 +46,10 @@ Instructions:
 
 - Leaving the crackers on the paper, transfer to the sheet.  Bake at 350F for 16-20 minutes, or until lightly golden brown.  Transfer to a wire rack to cool completely
 - <center><img src="/assets/Food/Finger Food/GF Crackers/baked.jpg" alt="" class="instruction-image"></center>
+
+- Check out my <a href="/recipes/pie-crust">Healthier Graham Cracker Pie Crust</a> for an easy pie crust with just homemade graham crackers and unsweetened applesauce!
+- <center><img src="/assets/Food/Healthier Dessert/Pie Crust/pie.jpg" alt="" class="instruction-image"></center>
+
+- Alternatively, you can use the raw dough of the crackers and turn that straight into the pie crust; no baking beforehand necessary.  Just take the raw ingredients of the graham cracker dough, shape in a 9" cake pan, and bake at 350F for about 15 minutes, until lightly browned.  Note that this recipe calls for all the crackers plus some applesauce; the applesauce is not needed if you're baking the raw crackers for the crust
+- <center><img src="/assets/Food/Healthier Dessert/Pie Crust/raw-1.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pie Crust/baked-1.jpg" alt="" class="half-page"></center>
 ---
