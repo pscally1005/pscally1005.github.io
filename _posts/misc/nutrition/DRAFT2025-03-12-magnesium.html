@@ -26,7 +26,14 @@ tags:
 
 <u><font size="+2">High Magnesium Foods</font></u><br>
 <ul>
-    <li>[TODO]</li>
+    <li><a href="#meat">Meat</a></li>
+    <li><a href="#fish">Fish</a></li>
+    <li><a href="#beans">Beans</a></li>
+    <li><a href="#veggies">Vegatables</a></li>
+    <li><a href="#fruit">Fruit</a></li>
+    <li><a href="#nuts-and-seeds">Nuts and Seeds</a></li>
+    <li><a href="#grains">Grains</a></li>
+    <li><a href="#other">Chocolate</a></li>
 </ul><br>
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/magnesium.png" alt="" class="smaller-image"></center><br>
@@ -85,10 +92,44 @@ tags:
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/magnesium.png" alt="" class="smaller-image"></center><br>
 
-<u><font size="+2">Symptoms of Low Magnesium Intake</font></u><br>
-<ul>
-    <li>[TODO]</li>
+<u><font size="+2">Symptoms of Low Magnesium Intake (Hypomagnesemia)</font></u><br>
+<ul id="symptoms">
+    <li>Nausea</li>
+    <li>Fatigue</li>
+    <li>Appetite loss</li>
+    <li>Anxiety</li>
+    <li>Depression</li>
+    <li>Migraines</li>
+    <li>Muscle cramps</li>
+    <li>High blood pressure</li>
+    <li><a href="/misc/diabetes">Type 2 Diabetes</a></li>
+    <li><a href="/misc/insulin-resistance">Insulin Resistance</a></li>
+    <li><a href="/misc/metabolic-syndrome">Metabolic Syndrome</a></li>
+    <li>Heart disease</li>
+    <li><a href="/misc/chronic-inflammation">Chronic Inflammation</a></li>
+    <li>Brain fog</li>
+    <li>Osteoporosis</li>
+    <li>Mood swings</li>
+    <li>Elevated cortisol</li>
+    <li>Elevated glucose, insulin, and A1C</li>
 </ul><br>
+
+<script>
+    // Select the unordered list element
+    const foodList1 = document.getElementById("symptoms");
+
+    // Get all list items as an array
+    const items1 = Array.from(foodList1.querySelectorAll("li"));
+
+    // Sort the list items alphabetically based on their text content
+    items1.sort((a, b) => a.textContent.localeCompare(b.textContent));
+
+    // Clear the original list
+    foodList1.innerHTML = "";
+
+    // Append the sorted items back to the list
+    items1.forEach(item1 => foodList1.appendChild(item1));
+</script>
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/magnesium.png" alt="" class="smaller-image"></center><br>
 
@@ -96,13 +137,14 @@ tags:
 <ul>
     <li>Men: 400 mg</li>
     <li>Women: 310 mg</li>
+    <li><i>Note</i>: Absorption rate of magnesium is about 30-40%, and can be improved with sufficient protein and vitamin D</li>
 </ul><br>
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/magnesium.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">Optimal Test Range</font></u><br>
 <ul>
-    <li>5.0 - 6.4 mg/dL </li>
+    <li>5.0 - 6.4 mg/dL</li>
 </ul><br>
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/magnesium.png" alt="" class="smaller-image"></center><br>
@@ -113,6 +155,176 @@ tags:
 {% assign nutrient = "Magnesium" %}
 {% assign rnd = "2" %}
 
+<div id="meat" class="table-of-contents"></div>
+<i><font size="+2">Meat (raw)</font></i><br>
+<table>
+    <colgroup>
+        <col width="30%" />
+        <col width="30%" />
+        <col width="13.33%" />
+        <col width="13.33%" />
+        <col width="13.33%" />
+    </colgroup>
+    <thead>
+        <tr class="header">
+        <th>Food</th>
+        <th>Serving Size</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a></td>
+            <td markdown="span">4 oz (113 g)</td>
+            <td markdown="span"><b>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</b></td>
+            <td markdown="span"><b>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="per100g" rnd=rnd %}</b></td>
+            <td markdown="span"><b>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="per100cal" rnd=rnd %}</b></td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast<br>(boneless and skinless)</a></td>
+            <td markdown="span">4 oz (113 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100+g">Chicken thighs<br>(boneless and skinless)</a></td>
+            <td markdown="span">4 oz (113 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a></td>
+            <td markdown="span">1 egg (50 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef<br>(93% lean)</a></td>
+            <td markdown="span">4 oz (113 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey<br>(93% lean)</a></td>
+            <td markdown="span">4 oz (113 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+    </tbody>
+</table>
+
+<center><img src="/assets/Misc/Nutrition/Iron/meat.jpg" alt="" class="smaller-image"></center><br>
+
+<div id="fish" class="table-of-contents"></div>
+<i><font size="+2">Fish and Seafood (raw unless specified)</font></i><br>
+<table>
+    <colgroup>
+        <col width="30%" />
+        <col width="30%" />
+        <col width="13.33%" />
+        <col width="13.33%" />
+        <col width="13.33%" />
+    </colgroup>
+    <thead>
+        <tr class="header">
+        <th>Food</th>
+        <th>Serving Size</th>
+        <th>Iron Per<br>Serving</th>
+        <th>Iron Per<br>100 g</th>
+        <th>Iron Per<br>100 cal</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Anchovy%2C_canned_26101180_nutritional_value.html?size=100+g">Anchovies<br>(canned)</a></td>
+            <td markdown="span">1.6 oz (45 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="anchovy-facts" servingSize="45" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span"><b>{% include getNutrient.html facts="anchovy-facts" servingSize="45" nutrient=nutrient fetch="per100g" rnd=rnd %}</b></td>
+            <td markdown="span">{% include getNutrient.html facts="anchovy-facts" servingSize="45" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Clams%2C_canned_26303180_nutritional_value.html?size=100+g">Clams<br>(canned)</a></td>
+            <td markdown="span">3 oz (85 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="clam-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="clam-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="clam-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned%2C_jack%2C_mackerel_nutritional_value.html?size=100+g">Mackerel<br>(canned)</a></td>
+            <td markdown="span">3 oz (85 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="mackerel-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="mackerel-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="mackerel-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Mussels%2C_raw_26313100_nutritional_value.html?size=100+g">Mussels</a></td>
+            <td markdown="span">3 oz (85 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="mussel-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="mussel-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="mussel-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Oysters%2C_raw_26315100_nutritional_value.html?size=100+g">Oysters</a></td>
+            <td markdown="span">3 oz (85 g)</td>
+            <td markdown="span"><b>{% include getNutrient.html facts="oyster-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</b></td>
+            <td markdown="span"><b>{% include getNutrient.html facts="oyster-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</b></td>
+            <td markdown="span"><b>{% include getNutrient.html facts="oyster-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</b></td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g">Salmon</a></td>
+            <td markdown="span">3 oz (85 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="salmon-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="salmon-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="salmon-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Sardines%2C_packed_in_water%2C_boneless%2C_skinless_26139190_nutritional_value.html?size=100+g">Sardines<br>(canned)</a></td>
+            <td markdown="span">3 oz (85 g) </td>
+            <td markdown="span">{% include getNutrient.html facts="sardine-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="sardine-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="sardine-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Mollusks%2C_raw%2C_mixed_species%2C_scallop_nutritional_value.html?size=100+g">Scallops</a></td>
+            <td markdown="span">3 oz (85 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="scallop-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="scallop-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="scallop-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Crustaceans%2C_raw_%28may_contain_additives_to_retain_moisture%29%2C_mixed_species%2C_shrimp_nutritional_value.html?size=100+g">Shrimp</a></td>
+            <td markdown="span">3 oz (85 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="shrimp-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="shrimp-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="shrimp-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_tilapia_nutritional_value.html?size=100+g">Tilapia</a></td>
+            <td markdown="span">3 oz (85 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="tilapia-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="tilapia-facts" servingSize="85" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="tilapia-facts" servingSize="85" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g">Tuna<br>(canned)</a></td>
+            <td markdown="span">4 oz (113 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="tuna-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="tuna-facts" servingSize="113" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="tuna-facts" servingSize="113" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+    </tbody>
+</table>
+
+<center><img src="/assets/Misc/Nutrition/Iron/fish.jpg" alt="" class="smaller-image"></center><br>
+
+<div id="beans" class="table-of-contents"></div>
 <i><font size="+2">Beans and Lentils (dried unless specified)</font></i><br>
 <table>
     <colgroup>
@@ -189,6 +401,13 @@ tags:
             <td markdown="span">{% include getNutrient.html facts="red-lentils-facts" servingSize="50" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
         </tr>
         <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Soybeans%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Soybeans</a></td>
+            <td markdown="span">1/4 cup (50 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="soybeans-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="soybeans-facts" servingSize="50" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="soybeans-facts" servingSize="50" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Tofu%2C_prepared_with_nigari%2C_hard_nutritional_value.html?size=100+g">Tofu</a></td>
             <td markdown="span">1/2 cup (122 g)</td>
             <td markdown="span">{% include getNutrient.html facts="tofu-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -200,6 +419,7 @@ tags:
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/beans.jpg" alt="" class="smaller-image"></center><br>
 
+<div id="veggies" class="table-of-contents"></div>
 <i><font size="+2">Vegetables (raw)</font></i><br>
 <table>
     <colgroup>
@@ -371,6 +591,7 @@ tags:
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/vegetables.jpg" alt="" class="smaller-image"></center><br>
 
+<div id="fruit" class="table-of-contents"></div>
 <i><font size="+2">Fruit</font></i><br>
 <table>
     <colgroup>
@@ -556,6 +777,7 @@ tags:
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/fruit.jpg" alt="" class="smaller-image"></center><br>
 
+<div id="nuts-and-seeds" class="table-of-contents"></div>
 <i><font size="+2">Nuts and Seeds (raw)</font></i><br>
 <table>
     <colgroup>
@@ -581,6 +803,13 @@ tags:
             <td markdown="span">{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
             <td markdown="span">{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             <td markdown="span">{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g">Brazil Nuts</a></td>
+            <td markdown="span">1 oz (28 g)</td>
+            <td markdown="span">{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="brazil-nuts" servingSize="28" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            <td markdown="span">{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="per100cal" rnd=rnd %}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html?size=100+g">Cashews</a></td>
@@ -685,6 +914,7 @@ tags:
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/nuts.jpg" alt="" class="smaller-image"></center><br>
 
+<div id="grains" class="table-of-contents"></div>
 <i><font size="+2">Grains (raw)</font></i><br>
 <table>
     <colgroup>
@@ -793,6 +1023,7 @@ tags:
 
 <center><img src="/assets/Misc/Nutrition/Magnesium/wheat.jpg" alt="" class="smaller-image"></center><br>
 
+<div id="other" class="table-of-contents"></div>
 <i><font size="+2">Other</font></i><br>
 <table>
     <colgroup>
