@@ -1,13 +1,13 @@
 Ingredient,Amount,Unit,Description
-"Acorn squash",431,g,"1 medium"
+"Acorn squash",1361,g,"3 lb, about 2 medium"
 "Extra virgin olive oil",15,g,"1 tbsp"
+"Lemon juice",15,g,"1 tbsp"
 "Minced garlic",45,g,"2 tbsp"
 "Basil, dried",6,g,"2 tbsp"
 "Onion powder",10,g,"1 tbsp"
 "Grated parmesan cheese",8,g,"1 tbsp"
 "Lemon pepper",12,g,"1 tbsp"
 "Black pepper, ground",3,g,"1 tsp"
-"Lemon juice",15,g,"1 tbsp"
 "Boneless skinless chicken breast",907,g,"2 lb"
 "Extra virgin olive oil",15,g,"1 tbsp"
 "Balsamic vinegar",15,g,"1 tbsp"
@@ -18,4 +18,4 @@ Ingredient,Amount,Unit,Description
 "Garlic powder",10,g,"1 tbsp"
 "Salt",6,g,"1 tsp"
 "Black pepper, ground",3,g,"1 tsp"
-Servings,5
+Servings,6

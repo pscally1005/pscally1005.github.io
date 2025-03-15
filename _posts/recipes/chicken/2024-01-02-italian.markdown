@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Chicken
 permalink: /recipes/italian-chicken
-image: /assets/Food/Chicken/Italian/italian-cover.jpg
+image: /assets/Food/Chicken/Italian/cover.jpg
 ing: italian-ing
 facts: italian-facts
 servingSize: 
@@ -19,7 +19,7 @@ start4:
 section4: 
 start5: 
 section5: 
-Prep: 15
+Prep: 30
 Rest: 
 Cook: 30
 Source1: 
@@ -39,14 +39,20 @@ tags:
 - parmesean
 - cheese
 - lemon
-Description: This is a super simple meal that pairs Italian flavors with roasted chicken and acorn squash. They both roast in the oven, and are very quick to prepare. I make some sort of roasted chicken and roasted vegetables very often, as it's very simple, tasty, and healthy. This is just one of my ways to flavor such a dish.
+Description: This simple and healthy meal is a go to favorite of mine. Just roast cubed acorn squash and thinly sliced chicken breasts with Italian herbs and spices for a delicious and quick meal. Both the meat and the vegetables can be prepped ahead of time, ready to stick in the oven when you get home from work. I've paired this here with a side of roasted potatoes, but rice, beans, or sweet potatoes are also good picks!
 Instructions: 
-- Cut the squash in half and scoop out the seeds.  Keep the skin on the squash. Dice into cubes, add to a large bowl, and toss with the seasonings (oil, minced garlic, basill, onion powder, parmesean cheese, lemon pepper, and black pepper)
+- Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 
-- Roast at 400F for about 30-40 minutes on a parchment lined cookie sheet. Squeeze with lemon juice
+- Wash your acorn squash, cut in half, and scoop out the seeds. Cut the squash into a medium dice, and add to a large bowl.  Leave the skins on!
 
-- Meanwhile, prepare the chicken. Thinly slice each of the pieces, and pound with a meat mallet to even thickness, if necessary. Add to your bowl from before, and mix with the spices (oil, vinegar, lemon, basil, thyme, onion and garlic powder, salt, and pepper), and transfer to a pan. You can let this marinate for a few hours in the fridge if you like
+- Season the squash with oil, lemon juice, minced garlic, basil, onion powder, grated cheese, lemon pepper, and black pepper
 
-- Roast at 400F for about 12-14 minutes. Place the chicken in when the acorn squash has about 13 minutes left so they're done at the same time. Let rest, and serve
-- <center><img src="/assets/Food/Chicken/Italian/italian-4.jpg" alt="" class="instruction-image"></center>
+- Transfer to the pan, and roast for 30-40 minutes, or until soft and browned
+
+- As the squash roasts, prepare the chicken. Cut your chicken breasts into large cutlets, and pound to an even thickness. Add to your bowl
+
+- Season the chicken with oil, balsamic, lemon juice, basil, thyme, onion powder, garlic powder, salt, and pepper
+
+- Transfer the chicken to the pan. Roast at 400F for about 13 minutes, or until the internal temperature just reaches 165F
+- <center><img src="/assets/Food/Chicken/Italian/roasted.jpg" alt="" class="instruction-image"></center>
 ---
