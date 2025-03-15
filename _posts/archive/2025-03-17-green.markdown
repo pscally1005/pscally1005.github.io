@@ -11,9 +11,9 @@ image: /assets/Food/Meme/Green/green-cover.jpg
 ing: green-ing
 facts: green-facts
 servingSize: 1 slice
-section1: Ingredients
-start2: Honey
-section2: Optional
+section1: 
+start2: 
+section2: 
 start3: 
 section3: 
 start4: 
@@ -55,10 +55,12 @@ Description: Would you believe me if I told you this bread was made with no food
 Instructions: 
 - Preheat your oven to 350F, and line a 9x5" loaf pan with parchment paper
 
-- In a food processor, blend together your sunflower seeds on high until a smooth butter forms, about 5-10 minutes. You could also use 1 cup (256 g) of sunflower butter instead
+- If using raw seeds, air fry for about 10 minutes at 300F, until lightly browned.  If they're already roasted, just air fry for about 4 minutes
+
+- In a food processor, blend together your sunflower seeds on high until a smooth butter forms, about 5-10 minutes. You could also use 1 cup (256 g) of sunflower butter instead.  Add 1/2 tsp (3 g) salt if your sunflower seeds are unsalted
 - <center><img src="/assets/Food/Meme/Green/green-butter.jpg" alt="" class="instruction-image"></center>
 
-- Only once your super smooth seed butter has formed, add in the rest of the ingredients.  Blend until smooth, and transfer your batter to the pan.  Optionally, add some honey (note that the nutrition facts do not include the honey)
+- Only once your super smooth seed butter has formed, add in the rest of the ingredients.  Blend until smooth, and transfer your batter to the pan
 - <center><img src="/assets/Food/Meme/Green/green-raw.jpg" alt="" class="instruction-image"></center>
 
 - Bake at 350F for about 40 minutes. A toothpick should come out clean, and the bread should have an internal temperature around 205F
