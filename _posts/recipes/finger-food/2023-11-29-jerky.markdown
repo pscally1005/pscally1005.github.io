@@ -9,7 +9,7 @@ permalink: /recipes/chicken-jerky
 image: /assets/Food/Finger Food/Jerky/jerky.jpg
 ing: jerky-ing
 facts: jerky-facts
-servingSize: 
+servingSize: 1 oz (28 g)
 section1: 
 start2: 
 section2: 

@@ -38,7 +38,7 @@ Description: Babaganoush is a delicious Mediterranean dip that's made from roast
 Instructions: 
 - Preheat your oven to 400F, and line a cookie sheet with parchment paper. Wash your eggplant, slice off the ends, and cut in half
 
-- Bake cut side down until the eggplant collapses and is easily pierced with a fork (about 45 minutes). Remove from the oven, flip it over over, and allow it to cook for a few minutes
+- Bake cut side down until the eggplant collapses and is easily pierced with a fork (about 45 minutes). Remove from the oven, flip it over over, and allow it to cool for a few minutes
 - <center><img src="/assets/Food/Savory Sauces/Babaganoush/roasted.jpg" alt="" class="instruction-image"></center>
 
 - Add the eggplant (with the skin!) and all other ingredients to a food processor. Blend until smooth.  Serve with <a href="/recipes/pita">pita bread</a>, <a href="/recipes/stuffed-grape-leaves">dolmas</a>, or over a salad. Store leftovers in the fridge or freezer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Copycat Quest Protein Bars"
-date:   2025-03-18 00:00:00 -05000
+date:   2025-03-16 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
@@ -41,7 +41,7 @@ tags:
 - gluten free
 - travel
 - natural peanut butter
-Description: On the rare chance I need to buy some protein on the go, Quest Bars are normally what I reach for. They're convenient and tasty, with no added sugars or unhealthy fats. They're so damn expensive though:<b></b> at nearly $3 per bar or $10 for a box of 4, these can't be more than a once in a while treat. So today I'm making them myself for a third of the price and a fraction of the ingredients.<br>&emsp;The result is a peanut butter protein bar with over 20 g of protein in less than 200 calories, as well as healthy fats from the nuts and no added sugar. These bars store well in the freezer long term, but they're also solid enough to hold their shape in your backpack, making them great for longer days
+Description: On the rare chance I need to buy some protein on the go, Quest Bars are normally what I reach for. They're convenient and tasty, but so damn expensive:<b></b> at nearly $3 per bar or $10 for a box of 4, these can't be more than a once in a while treat. So today I'm making them myself for a third of the price and a fraction of the ingredients.<br>&emsp;The result is a peanut butter protein bar with over 20 g of protein in less than 200 calories, as well as healthy fats from the nuts and no added sugar. These bars store well in the freezer long term, but they're also solid enough to hold their shape in your backpack, making them great for long days on the go!
 Instructions: 
 - In a food processor, blend together all ingredients except the water - whey protein, powdered peanut butter, sweetener, cinnamon, salt, vanilla, and peanut butter. It should be very dry and crumbly, but stay together slightly when pressed
 
