@@ -41,7 +41,15 @@ def options(num):
     elif(num == 18):
         return ("Almond Meal")
     elif(num == 19):
-        return ("Almond Meal")
+        return ("Millet Flour")
+    elif(num == 20):
+        return ("Hemp Seeds")
+    elif(num == 21):
+        return ("Psyllium Husk")
+    elif(num == 22):
+        return ("Ground Coffee")
+    elif(num == 23):
+        return ("Granulated Sugar")
     else:
         print("1:  All Purpose Flour (Not Heat Treated)")
         print("2:  All Purpose Flour (Heat Treated)")
@@ -62,6 +70,10 @@ def options(num):
         print("17: Almond Flour")
         print("18: Almond Meal")
         print("19: Millet Flour")
+        print("20: Hemp Seeds")
+        print("21: Psyllium Husk")
+        print("22: Ground Coffee")
+        print("23: Granulated Sugar")
 
 # user input for entering FROM flour, FROM amount, and TO flour
 # returns all 3 entered values
@@ -71,7 +83,7 @@ def select():
     while(True):
         try:
             f = int(input("\nEnter a number to select your FROM flour: "))
-            if(f < 1 or f > 20):
+            if(f < 1 or f > 23):
                 f = int("abc")
             print("You selected: ", end="")
             print(options(f))
@@ -100,7 +112,7 @@ def select():
     while(True):
         try:
             t = int(input("\nEnter a number to select your TO flour: "))
-            if(t < 1 or t > 20):
+            if(t < 1 or t > 23):
                 t = int("abc")
             print("You selected: ", end="")
             print(options(t))
@@ -134,8 +146,12 @@ def calc(f, g, t):
     almondFlour = 53
     almondMeal = 45
     milletFlour = 45
+    hemp = 60
+    psyllium = 12
+    coffee = 60
+    sugar = 180
 
-    arr = [0] * 20
+    arr = [0] * 24
     arr[1] = ap_noHeat
     arr[2] = ap_heat
     arr[3] = ww_noHeat
@@ -155,6 +171,10 @@ def calc(f, g, t):
     arr[17] = almondFlour
     arr[18] = almondMeal
     arr[19] = milletFlour
+    arr[20] = hemp
+    arr[21] = psyllium
+    arr[22] = coffee
+    arr[23] = sugar
 
     num = round(float(float(g / arr[f]) * arr[t]),1)
     print("For " + str(g) + " g of " + options(f).upper() + ", you will need APPROXIMATELY " + str(num) + " g of " + options(t).upper())
