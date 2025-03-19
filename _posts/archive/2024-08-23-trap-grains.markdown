@@ -236,7 +236,7 @@ tags:
 <br><i><font size="+2">Pancakes and Waffles</font></i><br>
 &emsp;Last on the chopping block for breakfast foods are pancakes and waffles.  Take your banana bread recipe, and cook it instead on a frying pan for pancakes or a waffle maker for waffles.  Just the same dessert in a different shape again, being filled with sugar and refined flour, leading to massive spikes and crashes in your blood sugar, energy, and mood.
 
-<center><a href="https://www.reddit.com/r/memes/comments/188citx/breakfast_food_sucks/"><<img src="/assets/Misc/Nutrition/Trap/pancake.jpg" alt="" class="larger-image"></a></center>
+<center><a href="https://www.reddit.com/r/memes/comments/188citx/breakfast_food_sucks/"><img src="/assets/Misc/Nutrition/Trap/pancake.jpg" alt="" class="larger-image"></a></center>
 &emsp;I'll be honest, I absolutely loved waffles growing up.  I'd make myself chocolate chip banana waffles once a week in high school by following a boxed mix, mashed in a banana, and fold in chocolate chips.  They're delicious, but again not something to start your day off with.  Instead, consider a pancake (or waffle) recipe made of protein and whole grains, like my <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>.
 
 <div id="cornbread" class="table-of-contents"></div>

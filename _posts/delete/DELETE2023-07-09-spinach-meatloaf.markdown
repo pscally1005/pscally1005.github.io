@@ -5,7 +5,6 @@ date:   2023-07-09 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
-- Archive
 permalink: /recipes/spinach-meatloaf
 image: /assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-cover.jpg
 ing: spinachmeat-ing

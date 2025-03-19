@@ -5,7 +5,6 @@ date:   2025-03-16 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
-- Archive
 permalink: /recipes/no-protein-bar
 image: /assets/Food/Meme/No protein bar/cover.jpg
 ing: noproteinbar-ing

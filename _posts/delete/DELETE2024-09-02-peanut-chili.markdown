@@ -5,7 +5,6 @@ date:   2024-09-02 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
-- Archive
 permalink: /recipes/peanut-chicken-chili
 image: /assets/Food/Chicken/Peanut Chili/peanut-chili-cover.jpg
 ing: peanutchili-ing

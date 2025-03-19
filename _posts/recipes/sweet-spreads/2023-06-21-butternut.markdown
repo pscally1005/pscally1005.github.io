@@ -5,7 +5,6 @@ date:   2023-06-21 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
-- Archive
 permalink: /recipes/roasted-butternut-squash-puree
 image: /assets/Food/Sweet Spreads/Butternut/butternut-cover.jpg
 ing: butternut-ing

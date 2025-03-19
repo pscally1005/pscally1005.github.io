@@ -5,7 +5,6 @@ date:   2023-10-27 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
-- Archive
 permalink: /recipes/protein-chocolate-spread
 image: /assets/Food/Sweet Spreads/Protein Choc/protein-choc-cover.jpg
 ing: proteinchoc-ing

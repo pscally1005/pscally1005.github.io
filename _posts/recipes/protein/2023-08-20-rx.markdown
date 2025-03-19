@@ -43,7 +43,9 @@ tags:
 - lara bar
 - no bake
 - gluten free
-Description: <a href="/misc/fake-healthy-foods#granola">RX Bars</a> are one of the processed snacks that I will occasionally buy, as they're pretty healthy <a href="/misc/fake-healthy-foods#protein">protein bar</a> and lack any ultra processed ingredients. They are quite pricey though, so I prefer to make them myself. They're dead simple, and way cheaper than what you can get at the store.
+- quest protein bar
+- rx bar
+Description: <a href="/misc/fake-healthy-foods#granola">RX Bars</a> are one of the processed snacks that I will occasionally buy, as they're pretty healthy <a href="/misc/fake-healthy-foods#protein">protein bar</a> and lack any ultra processed ingredients. They are quite pricey though, so I prefer to make them myself. They're dead simple, and way cheaper than what you can get at the store.  If you enjoy copycat protein bar recipes, also see my <a href="/recipes/copycat-quest-bars">Copycat Quest Protein Bars</a> and <a href="/recipes/copycat-barbell">Copycat Barbell Protein Bars</a>
 Instructions: 
 - Prepare an 9" square baking dish by lining it with parchment paper. If your dates are very dry, soak them in hot water for about 10 minutes to soften.  Otherwise, skip this step. Set aside the soaking water for later
 - <center><img src="/assets/Food/Protein Powder/RX/rx-soaking.jpg" alt="" class="instruction-image"></center>

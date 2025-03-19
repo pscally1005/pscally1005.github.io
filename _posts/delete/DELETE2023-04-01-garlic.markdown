@@ -5,7 +5,6 @@ date:   2023-04-01 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
-- Archive
 permalink: /recipes/chocolate-covered-garlic
 image: /assets/Food/Meme/Garlic/garlic.jpg
 ing: garlic-ing

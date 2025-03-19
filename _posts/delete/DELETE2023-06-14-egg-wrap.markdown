@@ -5,7 +5,6 @@ date:   2023-06-14 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Archive
 permalink: /recipes/egg-wrap
 image: /assets/Food/Breakfast/Egg Wrap/egg-wrap-cover.jpg
 ing: eggwrap-ing

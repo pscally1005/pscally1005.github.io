@@ -5,7 +5,6 @@ date:   2024-01-10 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
-- Archive
 permalink: /recipes/pound-cake
 image: /assets/Food/Meme/Pound/pound-cover.jpg
 ing: newlbcake-ing
