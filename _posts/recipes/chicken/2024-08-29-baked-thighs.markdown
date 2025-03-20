@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Easy Baked Chicken Thighs"
+title:  "Spiced Baked Chicken Thighs"
 date:   2024-08-29 00:00:00 -0500
 categories:
 - Recipes

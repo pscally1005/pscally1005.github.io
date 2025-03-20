@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Copycat Barbell Protein Bars"
-date:   2025-03-24 00:00:00 -05000
+date:   2025-03-20 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder

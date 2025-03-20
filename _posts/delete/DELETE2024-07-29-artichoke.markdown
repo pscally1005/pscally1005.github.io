@@ -4,6 +4,7 @@ title:  "How to Roast a Whole Artichoke"
 date:   2024-07-29 00:00:01 -05000
 categories: 
 - Misc.
+- Cooking Tips
 permalink: /misc/roasted-artichokes
 image: /assets/Misc/Cooking/Artichoke/artichoke-roasted.jpg
 tags: 
