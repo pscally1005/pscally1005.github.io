@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "You Can Roast a Whole Onion"
+date:   2025-04-01 00:00:00 -05000
+categories: 
+- Recipes
+- Meme Recipes
+permalink: /recipes/roasted-onion
+image: /assets/Food/Meme/Onion/onion.jpg
+ing: roastedonion-ing
+facts: roastedonion-facts
+servingSize: 
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 60
+Source1: https://www.youtube.com/watch?v=ntyBmviVs4M
+Source2: 
+whisk: https://s.samsungfood.com/9VbyO
+tags: 
+- sweet onion
+- yellow onion
+- red onion
+- white onion
+- caramelized onions
+- roasted onions
+- air fry
+Description: It's April Fool's Day, so let's do something dumb. Have you ever just straight up roasted an onion? It's actually surprisingly good. It can work as a zero effort vegetable addition to your plate, or as a topping for a sandwich or taco. If you like soft and sweet caramelized onions, this variation gets you about 80% there for next to no work
+Instructions: 
+- Cut both ends off the onion, and peel off the skin. Wrap in aluminum foil, and air fry at 400F for 1 hour, until soft and caramelized
+---
