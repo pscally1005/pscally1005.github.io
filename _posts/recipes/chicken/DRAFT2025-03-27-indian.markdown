@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Indian Chicken and Potatoes"
+date:   2025-03-27 00:00:00 -0500
+categories:
+- Recipes
+- Chicken
+permalink: /recipes/indian-chicken
+image: /assets/Food/Chicken/Indian/plate.jpg
+ing: indiannew-ing
+facts: indiannew-facts
+servingSize: 
+section1: Potatoes
+start2: Boneless skinless chicken breast
+section2: Potatoes
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 15
+Rest: 
+Cook: 30
+Source1: https://barefeetinthekitchen.com/chicken-bits-made-by-my-man/#wprm-recipe-container-22133
+Source2: https://www.food.com/recipe/potatoes-with-indian-spices-236275
+whisk: https://s.samsungfood.com/YU6d0
+tags: 
+- indian
+- boneless skinless chicken breast
+- potatoes
+- turmeric
+- cumin
+- chili powder
+Description: I got this recipe from my girlfriend's mom after having it at their house. It's a simple 2 pan dish of sauteed soft potatoes and diced chicken breast, with Indian spices such as turmeric and cumin. It's a delicious protein and carb combo that goes well with any veggies; here, I've paired my chicken and potatoes with a side of <a href="/recipes/vegetable-medley">Spinach & Onion Vegetable Medley</a>
+Instructions: 
+- Wash your potatoes, and cut into 1" cubes. Don't peel the potatoes! Add to a large glass bowl, and season with olive oil, chili powder, garlic powder, turmeric, cumin, and salt. Toss to combine
+
+- Cover with a plate, and microwave for 5 minutes. This accelerates the cooking time by already softening the potatoes
+
+- Meanwhile, heat up a large pan over medium heat. Add the microwaved potatoes, cover, and cook with occasional stirring until soft, about 15 minutes. Deglaze the pan with water during cooking as needed to prevent burning. Garnish with dried parsley
+
+- As the potatoes cook, prepare the chicken. Cut into 1" cubes, and add to a large bowl. Season with olive oil, chili powder, garlic powder, turmeric, cumin, and salt
+
+- Heat a large pan over medium heat. Add in the chicken, and saute until browned and internal temperature is 165F, about 10 minutes. Garnish with dried parsley
+- <center><img src="/assets/Food/Chicken/Indian/bowls.jpg" alt="" class="instruction-image"></center>
+---
