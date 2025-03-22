@@ -450,6 +450,7 @@
         {% assign line = valine %}
     {% endif %}
 
+
     <!-- Extract the numeric value -->
     {% assign value_raw = line | split: '(' | first %}
     {% assign value = value_raw | remove: 'a' | remove: 'b' | remove: 'c' | remove: 'd' | remove: 'e' | remove: 'f' | remove: 'g' | remove: 'h' | remove: 'i' | remove: 'j' | remove: 'k' | remove: 'l' | remove: 'm' | remove: 'n' | remove: 'o' | remove: 'p' | remove: 'q' | remove: 'r' | remove: 's' | remove: 't' | remove: 'u' | remove: 'v' | remove: 'w' | remove: 'x' | remove: 'y' | remove: 'z' | remove: 'A' | remove: 'B' | remove: 'C' | remove: 'D' | remove: 'E' | remove: 'F' | remove: 'G' | remove: 'H' | remove: 'I' | remove: 'J' | remove: 'K' | remove: 'L' | remove: 'M' | remove: 'N' | remove: 'O' | remove: 'P' | remove: 'Q' | remove: 'R' | remove: 'S' | remove: 'T' | remove: 'U' | remove: 'V' | remove: 'W' | remove: 'X' | remove: 'Y' | remove: 'Z' | remove: '&' | remove: ';' %}
@@ -460,8 +461,13 @@
 
     <!-- Extract the unit -->
     {% assign unit = line | remove: ' ' | remove: '.' | remove: '0' | remove: '1' | remove: '2' | remove: '3' | remove: '4' | remove: '5' | remove: '6' | remove: '7' | remove: '8' | remove: '9' | remove: '(' | remove: ')' | remove: '%' | strip %}
-    {% assign len = unit.size | minus: 2 %}
-    {% assign unit = unit | slice: 0, len %}
+    {% assign lastChar = line | slice: -1 %}
+    {% if lastChar !=  ')' %}
+        {% assign showPercentage = "False" %}
+    {% else %}
+        {% assign len = unit.size | minus: 2 %}
+        {% assign unit = unit | slice: 0, len %}
+    {% endif %}
 
     <!-- Apply factor -->
     {% assign value = value | times: factor | round: rnd %}

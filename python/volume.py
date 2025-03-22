@@ -49,7 +49,7 @@ def fix(vol):
         return str("2 tbsp")
     elif vol == "3.2 tablespoon" or vol == "3 tablespoon" or vol == "0.185 cup" or vol == "3 tbsp, leaves" or vol == "9 tsp" or vol == "0.67 scoop" or vol == "0.66 1/4 cup" or vol == "9 tsp (5.0 ml) aprx" or vol == "9 tsp, leaves" or vol == "9 teaspoons" or vol == "0.1875 cup" or vol == "0.1875 cup (15.0 ml) aprx" or vol == "0.1875 cup (240.0 ml) aprx":
         return str("3 tbsp")
-    elif vol == "3.95 tablespoon" or vol == "4 tablespoon" or vol == "4.2 tbsp" or vol == "0.25 cup sprigs" or vol == "3.99 tbsp":
+    elif vol == "3.75 tablespoon" or vol == "3.95 tablespoon" or vol == "4 tablespoon" or vol == "4.2 tbsp" or vol == "0.25 cup sprigs" or vol == "3.99 tbsp":
         return str("4 tbsp")
     elif vol == "15 tsp (5.0 ml) aprx" or vol == "15 tsp" or vol == "15 teaspoon" or vol == "15 teaspoons":
         return str("5 tbsp")

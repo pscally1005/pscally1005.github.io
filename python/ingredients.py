@@ -362,6 +362,8 @@ def ingredients(food):
         return str("Celery")
     
     # Frozen produce
+    elif food == "Squash, unprepared, frozen, butternut, winter":
+        return str("Frozen butternut squash, thawed")
     elif food == "Blueberries, frozen, wild" or food == "Blueberries, unsweetened, frozen":
         return str("Frozen blueberries")
     elif food == "Spinach, unprepared, chopped or leaf, frozen":
@@ -496,6 +498,8 @@ def ingredients(food):
         return str("Quinoa")
     elif food == "Pasta, dry, whole-wheat":
         return str("Whole wheat pasta")
+    elif food == "Couscous, dry":
+        return str("Couscous")
     elif food == "Panko, crispy breadcrumbs by George DeLallo Co., Inc.":
         return str("Panko breadcrumbs")
     elif food == "Tortilla, whole wheat":
@@ -528,7 +532,7 @@ def ingredients(food):
         return str("Tilapia")
     elif food == "Fish, raw, pink, salmon" or food == "Salmon fillet by WILD ALASKAN SOCKEYE":
         return str("Salmon")
-    elif food == "Peeled & deveined raw shrimp by PACIFIC SURF":
+    elif food == "Crustaceans, raw (may contain additives to retain moisture), mixed species, shrimp" or food == "Peeled & deveined raw shrimp by PACIFIC SURF":
         return str("Frozen raw shrimp, peeled and deveined")    
     elif food == "Beef, raw, select, trimmed to 1/8 fat, separable lean only, steak, top sirloin":
         return str("Beef top sirloin")
