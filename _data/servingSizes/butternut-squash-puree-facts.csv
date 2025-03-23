@@ -1,0 +1,73 @@
+Nutrient,Amount,Unit,DV
+Calories,40,,
+"Vitamin A, RAE",558.00,mcg,62 %
+"Carotene, alpha",1130.00,mcg,
+"Carotene, beta",4570.00,mcg,
+"Cryptoxanthin, beta",3116.00,mcg,
+"Lutein + zeaxanthin",0.00,mcg,
+"Lycopene",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.072,mg,6 %
+"Riboflavin [Vitamin B2]",0.017,mg,1 %
+"Niacin [Vitamin B3]",0.969,mg,6 %
+"Pantothenic acid [Vitamin B5]",0.359,mg,7 %
+"Vitamin B6",0.124,mg,7 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Folate, DFE [Vitamin B9]",19.00,mcg,5 %
+"Folate, food",19.00,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",15.1,mg,17 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",1.29,mg,9 %
+"Tocopherol, alpha",1.29,mg,
+"Vitamin K",1.0,mcg,1 %
+"Vitamin K1 [Phylloquinone]",1.0,mcg,
+"Calcium",41.00,mg,3 %
+"Copper",0.07,mg,8 %
+"Iron",0.60,mg,3 %
+"Magnesium",29.00,mg,7 %
+"Manganese",0.172,mg,7 %
+"Phosphorus",27.00,mg,2 %
+"Potassium",284.00,mg,6 %
+"Selenium",0.50,mcg,1 %
+"Sodium",4.00,mg,0 %
+"Zinc",0.13,mg,1 %
+"Protein",0.90,g,2 %
+"Alanine",0.038,g,
+"Arginine",0.050,g,
+"Aspartic acid",0.097,g,
+"Cystine",0.008,g,
+"Glutamic acid",0.157,g,
+"Glycine",0.033,g,
+"Histidine",0.017,g,1 %
+"Isoleucine",0.035,g,2 %
+"Leucine",0.051,g,1 %
+"Lysine",0.033,g,1 %
+"Methionine",0.011,g,
+"Phenylalanine",0.035,g,
+"Proline",0.032,g,
+"Serine",0.035,g,
+"Threonine",0.027,g,2 %
+"Tryptophan",0.013,g,3 %
+"Tyrosine",0.030,g,
+"Valine",0.039,g,2 %
+"Phenylalanine + Tyrosine",0.065,g,2 %
+"Methionine + Cysteine",0.011,g,1 %
+"Carbohydrate",10.49,g,4 %
+"Fiber",3.20,g,11 %
+"Sugars",1.97,g,
+"Net carbs",7.29,g,
+"Fat",0.090,g,0 %
+"Saturated fatty acids",0.019,g,0 %
+"Dodecanoic acid",0.000,g,
+"Hexadecanoic acid",0.016,g,
+"Octadecanoic acid",0.002,g,
+"Tetradecanoic acid",0.000,g,
+"Monounsaturated fatty acids",0.007,g,
+"Hexadecenoic acid",0.000,g,
+"Octadecenoic acid",0.007,g,
+"Polyunsaturated fatty acids",0.038,g,
+"Octadecadienoic acid",0.014,g,
+"Octadecatrienoic acid",0.024,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %

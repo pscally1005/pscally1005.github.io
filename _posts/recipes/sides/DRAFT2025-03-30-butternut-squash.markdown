@@ -46,4 +46,6 @@ Instructions:
 
 - Roast at 400F for about 30 minutes, or until soft and browned
 - <center><img src="/assets/Food/Sides/Butternut squash/pan.jpg" alt="" class="instruction-image"></center>
+
+- As for the cost between frozen or fresh butternut squash, I got this 1 lb (454 g) bag of frozen butternut squash for $1.99, already peeled and cubed.  In comparison, I can get a fresh butternut for $0.79/lb, but that includes the weight of the skins and seeds, plus the work to cut it up myself.  This [TODO] lb ([TODO] g) squash cost $[TODO], and yielded [TODO] lb ([TODO] g) of raw squash meat.  Therefore, the net cost of fresh butternut squash is $[TODO]/lb, making it [TODO] times cheaper than the frozen.  It's up for you to decide if that cost difference is work the extra effort for fresh vs frozen
 ---

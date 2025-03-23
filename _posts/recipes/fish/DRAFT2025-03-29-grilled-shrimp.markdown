@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Grilled Shrimp Skewers"
-date:   2025-03-22 00:00:00 -05000
+date:   2025-03-29 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
@@ -42,5 +42,5 @@ Instructions:
 - <center><img src="/assets/Food/Fish/Grilled Shrimp/marinate.jpg" alt="" class="instruction-image"></center>
 
 - You can either saute these on the stove in a pan over medium heat, or cook them on the grill using wooden skewers. Cook until the shrimp turns pink and the temperature is at least 140F
-- <center><img src="/assets/Food/Fish/Grilled Shrimp/cooked.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Fish/Grilled Shrimp/skewer.jpg" alt="" class="half-page"><img src="/assets/Food/Fish/Grilled Shrimp/saute.jpg" alt="" class="half-page"></center>
 ---
