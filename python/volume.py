@@ -113,7 +113,7 @@ def fix(vol):
         return str("3 oz")
     elif vol == "4 ounce" or vol == "1/4 lb" or vol == "1/4 pound" or vol == "0.25 lb" or vol == "0.25 pound":
         return str("4 oz")
-    elif vol == "6 ounce" or vol == "2 3 oz fillets":
+    elif vol == "1 can (6 oz)" or vol == "6 ounce" or vol == "2 3 oz fillets":
         return str("6 oz")
     elif vol == "7 ounce":
         return str("7 oz")
