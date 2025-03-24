@@ -33,7 +33,7 @@
 
     {% assign carb = "0.0g (0 %)" %}
     {% assign fib = "0.0g (0 %)" %}
-    {% assign sug = "0.0g (0 %)" %}
+    {% assign sug = "0.0 g" %}
 
     {% assign prot = "0.0g (0 %)" %}
 
@@ -478,6 +478,13 @@
     {% if showPercentage == "False" %}
         {% assign output = value | append: ' ' | append: unit %}
     {% endif %}
+
+    <!-- Output fix for not present nutrient -->
+    {% if output == "0.0 (0 %)" %}
+        {% assign output = "0.0 g (0 %)" %}
+    {% endif %}
+
+    <!-- Output -->
     {{output}}
 
 {% endif %}

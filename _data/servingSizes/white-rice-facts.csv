@@ -1,28 +1,23 @@
 Nutrient,Amount,Unit,DV
 Calories,360,,
-"Vitamin A, RAE",0.00,mcg,0 %
-"Retinol",0.00,mcg,
-"Thiamin [Vitamin B1]",0.578,mg,48 %
+"Thiamin [Vitamin B1]",0.070,mg,6 %
 "Riboflavin [Vitamin B2]",0.048,mg,4 %
-"Niacin [Vitamin B3]",5.093,mg,32 %
+"Niacin [Vitamin B3]",1.600,mg,10 %
 "Pantothenic acid [Vitamin B5]",1.342,mg,27 %
 "Vitamin B6",0.145,mg,9 %
 "Vitamin B12 [Cobalamin]",0.00,mcg,0 %
-"Folate, DFE [Vitamin B9]",386.00,mcg,96 %
+"Folate, DFE [Vitamin B9]",9.00,mcg,2 %
 "Folate, food",9.00,mcg,
-"Folic acid",222.00,mcg,
+"Folic acid",0.00,mcg,
 "Vitamin C [Ascorbic acid]",0.0,mg,0 %
 "Vitamin D",0.00,mcg,0 %
-"Vitamin E (alpha-tocopherol)",0.11,mg,1 %
-"Tocopherol, alpha",0.11,mg,
 "Calcium",9.00,mg,1 %
 "Copper",0.11,mg,12 %
-"Iron",4.36,mg,24 %
+"Iron",0.80,mg,4 %
 "Magnesium",35.00,mg,8 %
 "Manganese",1.100,mg,48 %
 "Phosphorus",108.00,mg,9 %
 "Potassium",86.00,mg,2 %
-"Selenium",15.10,mcg,27 %
 "Sodium",1.00,mg,0 %
 "Zinc",1.16,mg,11 %
 "Protein",6.61,g,13 %
@@ -47,8 +42,7 @@ Calories,360,,
 "Phenylalanine + Tyrosine",0.574,g,21 %
 "Methionine + Cysteine",0.155,g,10 %
 "Carbohydrate",79.34,g,29 %
-"Fiber",1.40,g,5 %
-"Net carbs",77.94,g,
+"Net carbs",79.34,g,
 "Fat",0.580,g,1 %
 "Saturated fatty acids",0.158,g,1 %
 "Hexadecanoic acid",0.141,g,
