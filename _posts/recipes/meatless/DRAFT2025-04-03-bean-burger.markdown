@@ -57,4 +57,7 @@ Instructions:
 
 - Bake at 400F for 20 minutes. You can also air fry at 400F for about 10 minutes, or grill for about 10 minutes. The burgers should be firm to the touch and lightly browned
 - <center><img src="/assets/Food/Meatless/Bean Burger/cooked.jpg" alt="" class="instruction-image"></center>
+
+- Instead of making a burger, you can try crumbling 2 patties over a <a href="/recipes/salad-base">Salad Base</a>, and topping with <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>, sauerkraut, and dijon mustard
+- <center><img src="/assets/Food/Meatless/Bean Burger/burger-bowl.jpg" alt="" class="instruction-image"></center>
 ---
