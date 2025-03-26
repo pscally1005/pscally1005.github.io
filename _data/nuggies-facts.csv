@@ -1,10 +1,10 @@
 Nutrient,Amount,Unit,DV
-Calories,27,,
-"Vitamin A, RAE",30.56,mcg,3 %
-"Carotene, alpha",2.34,mcg,
-"Carotene, beta",333.19,mcg,
-"Cryptoxanthin, beta",8.14,mcg,
-"Lutein + zeaxanthin",14.97,mcg,
+Calories,31,,
+"Vitamin A, RAE",30.55,mcg,3 %
+"Carotene, alpha",2.33,mcg,
+"Carotene, beta",333.14,mcg,
+"Cryptoxanthin, beta",7.87,mcg,
+"Lutein + zeaxanthin",14.93,mcg,
 "Lutein",3.04,mcg,
 "Lycopene",0.01,mcg,
 "Retinol",2.37,mcg,
@@ -28,9 +28,9 @@ Calories,27,,
 "Vitamin D",0.03,mcg,0 %
 "Vitamin D2",0,mcg,
 "Vitamin D3",0.03,mcg,
-"Vitamin E (alpha-tocopherol)",0.1,mg,1 %
+"Vitamin E (alpha-tocopherol)",0.16,mg,1 %
 "Vitamin E, added",0,mg,
-"Tocopherol, alpha",0.1,mg,
+"Tocopherol, alpha",0.16,mg,
 "Tocopherol, beta",0,mg,
 "Tocopherol, delta",0,mg,
 "Tocopherol, gamma",0.02,mg,
@@ -38,7 +38,7 @@ Calories,27,,
 "Tocotrienol, beta",0,mg,
 "Tocotrienol, delta",0,mg,
 "Tocotrienol, gamma",0,mg,
-"Vitamin K",0.3,mcg,0 %
+"Vitamin K",0.5,mcg,0 %
 "Vitamin K1 [Phylloquinone]",0.3,mcg,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0.9,mg,
@@ -54,9 +54,9 @@ Calories,27,,
 "Phosphorus",34.68,mg,3 %
 "Potassium",89.1,mg,2 %
 "Selenium",1.88,mcg,3 %
-"Sodium",77.33,mg,3 %
+"Sodium",85.07,mg,4 %
 "Zinc",0.24,mg,2 %
-"Protein",2.81,g,6 %
+"Protein",2.8,g,6 %
 "Alanine",0.15,g,
 "Arginine",0.169,g,
 "Aspartic acid",0.276,g,
@@ -91,8 +91,8 @@ Calories,27,,
 "Sucrose",0.12,g,
 "Net carbs",1.26,g,
 "0.01 g",0.18 g,undefined,12.07
-"Fat",1.132,g,1 %
-"Saturated fatty acids",0.323,g,2 %
+"Fat",1.527,g,2 %
+"Saturated fatty acids",0.378,g,2 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Docosanoic acid",0,g,
@@ -107,7 +107,7 @@ Calories,27,,
 "Tetracosanoic acid",0,g,
 "Tetradecanoic acid",0.005,g,
 "Tridecanoic acid",0,g,
-"Monounsaturated fatty acids",0.483,g,
+"Monounsaturated fatty acids",0.771,g,
 "Cis-hexadecenoic acid",0.003,g,
 "Cis-octadecenoic acid",0.404,g,
 "Docosenoic acid",0,g,
@@ -119,7 +119,7 @@ Calories,27,,
 "Tetracosenoic cis acid",0,g,
 "Tetradecenoic acid",0.002,g,
 "Trans-octadecenoic acid",0.005,g,
-"Polyunsaturated fatty acids",0.22,g,
+"Polyunsaturated fatty acids",0.262,g,
 "α-linolenic acid n-3 (ALA)",0.01,g,
 "γ-linolenic acid n-6 (GLA)",0,g,
 "Cis,cis-eicosadienoic n-6 acid",0.001,g,
@@ -130,7 +130,7 @@ Calories,27,,
 "Eicosadienoic n-6 acid",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0.001,g,
 "Eicosatetraenoic acid",0.009,g,
-"Octadecadienoic acid",0.171,g,
+"Octadecadienoic acid",0.169,g,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0.008,g,
 "Trans,trans-octadecadienoic acid",0.003,g,

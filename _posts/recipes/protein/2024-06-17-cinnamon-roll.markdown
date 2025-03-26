@@ -57,7 +57,7 @@ Instructions:
 
 - Air fry the cinnamon rolls cut side down at 350F for about 8 minutes, or until lightly golden brown and slightly crispy
 
-- Meanwhile, prepare the glaze by mixing together the ingredients in a small bowl (almond milk, PB2, EVOO, and cinnamon). Add some sweetener if you want
+- Meanwhile, prepare the glaze by mixing together the ingredients in a small bowl (milk, powdered peanut butter, oil, and cinnamon). Either extra virgin olive oil or unrefined coconut oil will work.  Add some sweetener if you want
 
 - Dollop the glaze on top of the baked cinnamon rolls, and enjoy
 - <center><img src="/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-8.jpg" alt="" class="instruction-image"></center>

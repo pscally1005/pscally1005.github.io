@@ -35,17 +35,17 @@ Calories,360,,
 "Betaine",0.5,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",114.4,mg,21 %
-"Calcium",242.47,mg,19 %
+"Calcium",242.56,mg,19 %
 "Copper",0.72,mg,80 %
 "Fluoride",0.8,mcg,
 "Iodine",0,mcg,0 %
 "Iron",6.46,mg,36 %
-"Magnesium",117.09,mg,28 %
-"Manganese",1.3,mg,57 %
-"Phosphorus",301.2,mg,24 %
+"Magnesium",117.15,mg,28 %
+"Manganese",1.303,mg,57 %
+"Phosphorus",301.3,mg,24 %
 "Potassium",1393.65,mg,30 %
 "Selenium",6.64,mcg,12 %
-"Sodium",1234.01,mg,54 %
+"Sodium",1234.07,mg,54 %
 "Zinc",2.28,mg,21 %
 "Protein",21.54,g,43 %
 "Alanine",0.645,g,
@@ -70,7 +70,7 @@ Calories,360,,
 "Valine",0.76,g,39 %
 "Phenylalanine + Tyrosine",0.986,g,37 %
 "Methionine + Cysteine",0.19,g,12 %
-"Carbohydrate",49.44,g,18 %
+"Carbohydrate",49.45,g,18 %
 "Fiber",15.11,g,54 %
 "Starch",0,g,
 "Sugars",12.26,g,
@@ -80,7 +80,7 @@ Calories,360,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",3.37,g,
-"Net carbs",34.33,g,
+"Net carbs",34.34,g,
 "0.02 g",,undefined,0.00
 "Fat",11.589,g,15 %
 "Saturated fatty acids",2.009,g,10 %
@@ -141,4 +141,4 @@ Calories,360,,
 "Caffeine",0,mg,
 "Nitrogen",0.14,g,
 "Theobromine",0,mg,
-"Water",454.29,g,
+"Water",455.44,g,

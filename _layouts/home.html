@@ -116,7 +116,9 @@ layout: base
                 </a>
                 
                 {% if post.categories.first != "Misc." or post.categories.first == "Misc." and post.categories.last == "Unhealthy Recipes" %}
-                  {% include allergenSymbols.html %}
+                  {% unless post.title == "Homemade Granite and Wood Cleaners" or post.title == "Food/Nutrition Meme Dump" %}
+                    {% include allergenSymbols.html %}
+                  {% endunless %}
                 {% endif %}
             </div>
 

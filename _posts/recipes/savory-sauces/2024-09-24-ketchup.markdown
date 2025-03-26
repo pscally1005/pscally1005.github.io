@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/ketchup
-image: /assets/Food/Savory Sauces/Ketchup/ketchup-cover.jpg
+image: /assets/Food/Savory Sauces/Ketchup/cover.jpg
 ing: ketchup-ing
 facts: ketchup-facts
 servingSize: 2 tbsp (31 g)
