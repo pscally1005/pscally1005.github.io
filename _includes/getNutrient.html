@@ -11,7 +11,8 @@
     page.title == "Fiber: Happiness is a Good Poop" or
     page.title == "I Run on Iron" or
     page.title == "Mag-nificent: The Mighty Mineral for Muscles and Mind" or
-    page.title == "A Monkey Never Cramps: Why You Need Potassium"
+    page.title == "A Monkey Never Cramps: Why You Need Potassium" or
+    page.title == "A Pinch of Life: Why Your Body Needs Sodium"
 %}
     {% assign showPercentage = "False" %}
 {% endif %}
@@ -471,7 +472,11 @@
 
     <!-- Apply factor -->
     {% assign value = value | times: factor | round: rnd %}
-    {% assign percentage = percentage | times: factor | round: 0 %}
+    {% if showPercentage == "True" %}
+        {% assign percentage = percentage | times: factor | round: 0 %}
+    {% else %}
+        {% assign percentage = 0 %}
+    {% endif %}
 
     <!-- Combine for the output -->
     {% assign output = value | append: ' ' | append: unit | append: '(' | append: percentage | append: ' %)' %}
