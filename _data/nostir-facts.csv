@@ -24,10 +24,13 @@ Calories,189,,
 "Tocopherol, alpha",1.4,mg,
 "Vitamin K",0,mcg,0 %
 "Vitamin K1 [Phylloquinone]",0,mcg,
+"Betaine",0,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",18.3,mg,3 %
-"Calcium",16.57,mg,1 %
+"Calcium",16.59,mg,1 %
 "Copper",0.12,mg,13 %
 "Fluoride",0,mcg,
+"Iodine",0,mcg,0 %
 "Iron",0.45,mg,2 %
 "Magnesium",50.51,mg,12 %
 "Manganese",0,mg,0 %
@@ -41,9 +44,11 @@ Calories,189,,
 "Arginine",0,g,
 "Aspartic acid",0,g,
 "Cystine",0,g,
+"Cysteine",0,g,
 "Glutamic acid",0,g,
 "Glycine",0,g,
 "Histidine",0,g,0 %
+"Hydroxyproline",0,g,
 "Isoleucine",0,g,0 %
 "Leucine",0,g,0 %
 "Lysine",0,g,0 %
@@ -67,8 +72,8 @@ Calories,189,,
 "Maltose",0,g,
 "Sucrose",1.83,g,
 "Net carbs",5.49,g,
-"Fat",15.843,g,20 %
-"Saturated fatty acids",3.817,g,19 %
+"Fat",15.827,g,20 %
+"Saturated fatty acids",3.635,g,18 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Dodecanoic acid",0,g,
@@ -77,12 +82,12 @@ Calories,189,,
 "Octadecanoic acid",0.341,g,
 "Octanoic acid",0,g,
 "Tetradecanoic acid",0.005,g,
-"Monounsaturated fatty acids",7.517,g,
+"Monounsaturated fatty acids",7.541,g,
 "Docosenoic acid",0.016,g,
 "Eicosenoic acid",0.178,g,
 "Hexadecenoic acid",0.009,g,
 "Octadecenoic acid",7.218,g,
-"Polyunsaturated fatty acids",2.808,g,
+"Polyunsaturated fatty acids",2.803,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
@@ -90,7 +95,7 @@ Calories,189,,
 "Octadecadienoic acid",2.757,g,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0.007,g,
-"Fatty acids, total trans",0,g,
+"Fatty acids, total trans",0.001,g,
 "Cholesterol",0,mg,0 %
 "Phytosterols",0,mg,
 "Alcohol, ethyl",0,g,

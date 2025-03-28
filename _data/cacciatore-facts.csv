@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,474,,
+Calories,481,,
 "Vitamin A, RAE",1086.99,mcg,121 %
 "Carotene, alpha",27.18,mcg,
 "Carotene, beta",12673.26,mcg,
@@ -21,9 +21,9 @@ Calories,474,,
 "Vitamin D",0.14,mcg,1 %
 "Vitamin D2",0.14,mcg,
 "Vitamin D3",0,mcg,
-"Vitamin E (alpha-tocopherol)",4.57,mg,30 %
+"Vitamin E (alpha-tocopherol)",5.14,mg,34 %
 "Vitamin E, added",0,mg,
-"Tocopherol, alpha",4.57,mg,
+"Tocopherol, alpha",5.14,mg,
 "Tocopherol, beta",0.04,mg,
 "Tocopherol, delta",0.01,mg,
 "Tocopherol, gamma",0.32,mg,
@@ -31,28 +31,31 @@ Calories,474,,
 "Tocotrienol, beta",0,mg,
 "Tocotrienol, delta",0,mg,
 "Tocotrienol, gamma",0,mg,
-"Vitamin K",38.2,mcg,32 %
+"Vitamin K",40.6,mcg,34 %
 "Vitamin K1 [Phylloquinone]",22.3,mcg,
 "Vitamin K2 [Menaquinone]",15.2,mcg,
 "Dihydrophylloquinone",0.7,mcg,
 "Betaine",19.3,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",206,mg,37 %
-"Calcium",145.48,mg,11 %
+"Calcium",145.52,mg,11 %
 "Copper",0.85,mg,94 %
 "Fluoride",0.7,mcg,
+"Iodine",0,mcg,0 %
 "Iron",5.17,mg,29 %
 "Magnesium",140.7,mg,33 %
 "Manganese",0.947,mg,41 %
 "Phosphorus",601.72,mg,48 %
-"Potassium",1978.5,mg,42 %
+"Potassium",1978.54,mg,42 %
 "Selenium",50.5,mcg,92 %
-"Sodium",934.56,mg,41 %
+"Sodium",934.64,mg,41 %
 "Zinc",2.81,mg,26 %
 "Protein",49.32,g,99 %
 "Alanine",2.735,g,
 "Arginine",3.113,g,
 "Aspartic acid",5.087,g,
 "Cystine",0.518,g,
+"Cysteine",0,g,
 "Glutamic acid",7.741,g,
 "Glycine",2.065,g,
 "Histidine",1.664,g,146 %
@@ -82,8 +85,8 @@ Calories,474,,
 "Sucrose",3.93,g,
 "Net carbs",41.95,g,
 "0.05 g",0.61 g,undefined,11.57
-"Fat",9.337,g,12 %
-"Saturated fatty acids",1.73,g,9 %
+"Fat",9.927,g,13 %
+"Saturated fatty acids",1.795,g,9 %
 "Butanoic acid",0,g,
 "Decanoic acid",0.031,g,
 "Docosanoic acid",0.008,g,
@@ -98,7 +101,7 @@ Calories,474,,
 "Tetracosanoic acid",0,g,
 "Tetradecanoic acid",0.025,g,
 "Tridecanoic acid",0,g,
-"Monounsaturated fatty acids",3.789,g,
+"Monounsaturated fatty acids",4.272,g,
 "Cis-hexadecenoic acid",0.151,g,
 "Cis-octadecenoic acid",1.088,g,
 "Docosenoic acid",0,g,
@@ -113,7 +116,7 @@ Calories,474,,
 "Tetradecenoic acid",0.005,g,
 "Trans-hexadecenoic acid",0,g,
 "Trans-octadecenoic acid",0.011,g,
-"Polyunsaturated fatty acids",1.646,g,
+"Polyunsaturated fatty acids",1.702,g,
 "α-linolenic acid n-3 (ALA)",0.03,g,
 "γ-linolenic acid n-6 (GLA)",0,g,
 "Cis,cis-eicosadienoic n-6 acid",0.011,g,

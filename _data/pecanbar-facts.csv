@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,126,,
+Calories,127,,
 "Vitamin A, RAE",0.64,mcg,0 %
 "Carotene, alpha",1.72,mcg,
 "Carotene, beta",5.95,mcg,
@@ -33,10 +33,12 @@ Calories,126,,
 "Vitamin K1 [Phylloquinone]",0.5,mcg,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0.1,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",6.4,mg,1 %
-"Calcium",15.95,mg,1 %
+"Calcium",15.97,mg,1 %
 "Copper",0.18,mg,20 %
 "Fluoride",1.6,mcg,
+"Iodine",0,mcg,0 %
 "Iron",0.64,mg,4 %
 "Magnesium",19.21,mg,5 %
 "Manganese",0.654,mg,28 %
@@ -50,6 +52,7 @@ Calories,126,,
 "Arginine",0.165,g,
 "Aspartic acid",0.144,g,
 "Cystine",0.022,g,
+"Cysteine",0,g,
 "Glutamic acid",0.264,g,
 "Glycine",0.069,g,
 "Histidine",0.043,g,4 %
@@ -78,8 +81,8 @@ Calories,126,,
 "Maltose",0,g,
 "Sucrose",0.69,g,
 "Net carbs",3.23,g,
-"Fat",11.84,g,15 %
-"Saturated fatty acids",2.664,g,13 %
+"Fat",11.824,g,15 %
+"Saturated fatty acids",2.482,g,12 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Docosanoic acid",0,g,
@@ -94,7 +97,7 @@ Calories,126,,
 "Tetracosanoic acid",0,g,
 "Tetradecanoic acid",0,g,
 "Tridecanoic acid",0,g,
-"Monounsaturated fatty acids",5.651,g,
+"Monounsaturated fatty acids",5.675,g,
 "Cis-octadecenoic acid",0,g,
 "Docosenoic acid",0,g,
 "Eicosenoic acid",0.028,g,
@@ -105,7 +108,7 @@ Calories,126,,
 "Tetracosenoic cis acid",0,g,
 "Tetradecenoic acid",0,g,
 "Trans-octadecenoic acid",0,g,
-"Polyunsaturated fatty acids",2.988,g,
+"Polyunsaturated fatty acids",2.983,g,
 "α-linolenic acid n-3 (ALA)",0,g,
 "γ-linolenic acid n-6 (GLA)",0,g,
 "Cis,cis-eicosadienoic n-6 acid",0,g,
@@ -117,7 +120,7 @@ Calories,126,,
 "Octadecadienoic acid",2.817,g,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0.136,g,
-"Fatty acids, total trans",0,g,
+"Fatty acids, total trans",0.001,g,
 "Fatty acids, total trans-monoenoic",0,g,
 "Beta-sitosterol",15.94,mg,
 "Campesterol",0.82,mg,

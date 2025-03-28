@@ -43,17 +43,17 @@ Calories,39,,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0,mg,
 "Choline",6.2,mg,1 %
-"Calcium",8.29,mg,1 %
+"Calcium",8.25,mg,1 %
 "Copper",0.03,mg,3 %
 "Fluoride",0.2,mcg,
 "Iodine",0.62,mcg,0 %
 "Iron",0.27,mg,2 %
-"Magnesium",16.99,mg,4 %
+"Magnesium",17,mg,4 %
 "Manganese",0.244,mg,11 %
-"Phosphorus",32.82,mg,3 %
-"Potassium",61.57,mg,1 %
-"Selenium",2.18,mcg,4 %
-"Sodium",67.92,mg,3 %
+"Phosphorus",32.87,mg,3 %
+"Potassium",61.58,mg,1 %
+"Selenium",2.19,mcg,4 %
+"Sodium",67.96,mg,3 %
 "Zinc",0.23,mg,2 %
 "Protein",1.45,g,3 %
 "Alanine",0.011,g,
@@ -78,7 +78,7 @@ Calories,39,,
 "Valine",0.013,g,1 %
 "Phenylalanine + Tyrosine",0.019,g,1 %
 "Methionine + Cysteine",0.006,g,0 %
-"Carbohydrate",6.49,g,2 %
+"Carbohydrate",6.51,g,2 %
 "Fiber",0.74,g,3 %
 "Starch",0.44,g,
 "Sugars",1.96,g,
@@ -88,7 +88,7 @@ Calories,39,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.78,g,
-"Net carbs",5.75,g,
+"Net carbs",5.77,g,
 "",0.02 g,undefined,
 "Fat",0.996,g,1 %
 "Saturated fatty acids",0.183,g,1 %
@@ -137,4 +137,4 @@ Calories,39,,
 "Cryptoxanthin, alpha",0.16,mcg,
 "Nitrogen",0.03,g,
 "Theobromine",0,mg,
-"Water",11.85,g,
+"Water",11.88,g,

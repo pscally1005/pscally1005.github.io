@@ -13,7 +13,7 @@ servingSize: 1 slice
 section1: Dry
 start2: Banana, overripe
 section2: Wet
-start3: Sugar free chocolate chips
+start3: Chocolate chips
 section3: Mix-ins
 start4: 
 section4: 

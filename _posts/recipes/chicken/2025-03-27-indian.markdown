@@ -12,7 +12,7 @@ facts: indiannew-facts
 servingSize: 
 section1: Potatoes
 start2: Boneless skinless chicken breast
-section2: Potatoes
+section2: Chicken
 start3: 
 section3: 
 start4: 

@@ -408,7 +408,7 @@ def ingredients(food):
         return str("Grape leaves")
     elif food == "Minced clams in juice by Bumble Bee Foods, LLC" or food == "Canned clams":
         return str("Clams")
-    elif food == "Fish, drained solids, canned in water, light, tuna" or food == "Canned tuna, in water":
+    elif food == "Tuna, canned in water" or food == "Fish, drained solids, canned in water, light, tuna" or food == "Canned tuna, in water":
         return str("Tuna, in water")
     elif food == "Pickles, sour, cucumber":
         return str("Pickles")
