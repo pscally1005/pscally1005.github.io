@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Turkey & Rice Stuffed Bell Peppers"
-date:   2025-03-28 00:00:00 -05000
+date:   2025-04-05 00:00:00 -05000
 categories: 
 - Recipes
 - Finger Foods
-- Archive
 permalink: /recipes/stuffed-peppers
 image: /assets/Food/Finger Food/Stuffed/cover.jpg
 ing: stuffed-ing
@@ -47,20 +46,19 @@ Description: These stuffed peppers are filled with ground turkey, brown rice, an
     <li>Replace the brown rice with <a href="/recipes/red-lentils">red lentils</a>, <a href="/recipes/cauliflower-rice">cauliflower rice</a>, quinoa, or couscous<br></li>
     <li>Mix in some <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a> or <a href="/recipes/ketchup">Date Sweetened Ketchup</a> to the filling, or add on top of the peppers</li></ul>
 Instructions: 
-- In a small pot, add your rice, water, and salt. Bring to a boil over high heat. Cover, reduce to medium, and let simmer for about 25 minutes, until fully cooked. Set aside
+- In a small pot, add your rice, water, and salt. Bring to a boil over high heat. Cover, reduce to low, and let simmer for about 20-30 minutes, until fully cooked. Set aside
 
 - Meanwhile, preheat your oven to 400F, and line a 9x13" pan with parchment paper
 
-- Cut the peppers in half, and scoop out the ribs and seeds without breaking the peppers.  Place cut side up in your pan
-- <center><img src="/assets/Food/Finger Food/Stuffed/empty.jpg" alt="" class="instruction-image"></center>
+- Cut the peppers in half, and scoop out the ribs and seeds.  Rinsing under the sink helps to remove seeds  Place cut side up in your pan
 
 - In a large bowl, mix together the filling - cooked rice, ground meat, cheese, minced garlic, chili powder, garlic powder, onion powder, cumin, and salt
 - <center><img src="/assets/Food/Finger Food/Stuffed/filling.jpg" alt="" class="instruction-image"></center>
 
-- Stuff the peppers, packing it down. Optionally top with more cheese or <a href="/recipes/ketchup">Unsweetened BBQ Sauce</a>
+- Stuff the peppers, about 100 g in each pepper half. Optionally top with more cheese or <a href="/recipes/ketchup">Unsweetened BBQ Sauce</a>
 - <center><img src="/assets/Food/Finger Food/Stuffed/raw.jpg" alt="" class="instruction-image"></center>
 
-- Cover the pan with aluminum foil, and roast at 400F for about 1 hour. Remove the foil, and roast an additional 20-30 minutes. The peppers should be tender and the meat fully cooked (165F)
+- Cover the pan with aluminum foil, and roast at 400F for about 1 hour. The peppers should be tender and the meat fully cooked (at least 165F)
 - <center><img src="/assets/Food/Finger Food/Stuffed/cooked.jpg" alt="" class="instruction-image"></center><br>
 
 - To celebrate Halloween, feel free to carve a face into your peppers like Vic did below.  I also paired this with my <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf</a> that I instead shaped into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href="/recipes/ketchup">Date Sweetened Ketchup</a> for the blood
