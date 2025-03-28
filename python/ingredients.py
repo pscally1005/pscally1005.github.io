@@ -130,7 +130,7 @@ def ingredients(food):
         return str("Low sodium vegetable broth")
     elif food == "Gochujang sauce by BRANDLESS" or food == "Gochujang korean hot sauce by WE RUB YOU":
         return str("Gochujang")
-    elif food == "Sugar free bbq sauce by G HUGHES SMOKEHOUSE":
+    elif food == "Sugar free bbq sauce by G HUGHES SMOKEHOUSE" or food == "bbq":
         return str("Unsweetened BBQ sauce")
     elif food == "ketchup":
         return str("Date sweetened ketchup")
