@@ -32,6 +32,14 @@
         {% assign recipe = "false" %}
     {% endif %}
 
+    <!-- Beans -->
+    {% assign beans = "false" %}
+    {% if page.title == "Beans Beans The Musical Fruit" %}
+        {% assign beans = "true" %}
+        {% assign shorterFacts = "false" %}
+        {% assign recipe = "false" %}
+    {% endif %}
+
     <!-- Use parameters or not -->
     {% assign facts = page.facts %}
     {% if include.facts %}
@@ -491,6 +499,42 @@
             {% assign tryptophan = "" %}
             {% assign valine = "" %}
         {% endif %}
+
+        <!-- Beans -->
+        {% if beans == "true" %}
+            {% assign sat = "" %}
+            {% assign mono = "" %}
+            {% assign poly = "" %}
+            {% assign trans = "" %}
+            {% assign choles = "" %}
+            {% assign sod = "" %}
+            {% assign addedSugar = "" %}
+            {% assign sugAlc = "" %}
+            {% assign all = "" %}
+            {% assign vitA = "" %}
+            {% assign vitB2 = "" %}
+            {% assign vitB3 = "" %}
+            {% assign vitB5 = "" %}
+            {% assign vitB6 = "" %}
+            {% assign vitB12 = "" %}
+            {% assign vitC = "" %}
+            {% assign vitD = "" %}
+            {% assign vitE = "" %}
+            {% assign vitK = "" %}
+            {% assign calc = "" %}
+            {% assign sel = "" %}
+            {% assign choline = "" %}
+            {% assign histidine = "" %}
+            {% assign isoleucine = "" %}
+            {% assign leucine = "" %}
+            {% assign lysine = "" %}
+            {% assign methionine = "" %}
+            {% assign phenylalanine = "" %}
+            {% assign threonine = "" %}
+            {% assign tryptophan = "" %}
+            {% assign valine = "" %}
+        {% endif %}
+
 
         <!-- Print nutrition facts -->
         <div class="recipe-section">
