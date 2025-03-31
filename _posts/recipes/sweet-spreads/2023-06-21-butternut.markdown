@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Sweet Spreads
 permalink: /recipes/roasted-butternut-squash-puree
-image: /assets/Food/Sweet Spreads/Butternut/butternut-cover.jpg
+image: /assets/Food/Sweet Spreads/Butternut/cover.jpg
 ing: butternut-ing
 facts: butternut-facts
 servingSize: 6 tbsp (90 g)

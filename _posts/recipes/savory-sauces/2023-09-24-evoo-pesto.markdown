@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/evoo-pesto
-image: /assets/Food/Savory Sauces/EVOO Pesto/cover.jpg
+image: /assets/Food/Savory Sauces/EVOO Pesto/sandwich.jpg
 ing: evoo-ing
 facts: evoo-facts
 servingSize: 2 tbsp (31 g)
@@ -50,4 +50,5 @@ Instructions:
 - Add the almonds to a pan over medium heat. Toast the nuts for 2-3 minutes or until lightly fragrant and softened
 
 - Add the nuts and the rest of the ingredients to the food processor. Blend until smooth and combined. Thin out with more water if needed, and season with salt to taste
+- <center><img src="/assets/Food/Savory Sauces/EVOO Pesto/cover.jpg" alt="" class="instruction-image"></center>
 ---
