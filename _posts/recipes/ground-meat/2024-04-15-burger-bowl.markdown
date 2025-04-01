@@ -58,5 +58,6 @@ Instructions:
 
 - Meanwhile, chop up the vegetables for the salad. Wash your lettuce and tomatoes. Thinly slice the lettuce, cut the tomatoes into a medium dice, and the onions and pickles into a small dice. Set vegetables aside
 
-- Finally, it's time to assemble your bowls. Place the lettuce on the bottom as a base, and evenly top with your meat mixture. Add the vegetables on top around the sides, and spoon on your <a href="tomato-spread">Tomato Burger Spread</a>
+- Finally, it's time to assemble your bowls. Place the lettuce on the bottom as a base, and evenly top with your meat mixture. Add the vegetables on top around the sides, and spoon on some <a href="/recipes/ketchup">Date Sweetened Ketchup</a>
+- <center><img src="/assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg" alt="" class="instruction-image"></center>
 ---
