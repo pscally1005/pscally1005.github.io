@@ -192,7 +192,7 @@ def ingredients(food):
         return str("Maple syrup")
     elif food == "Jellies" or food == "jam" or food == "chia-jam" or food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
         return str("Low sugar berry jam")
-    elif food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":
+    elif food == "sugar-free-syrup" or food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":
         return str("Sugar free syrup")
     elif food == "Almond flour by RALEY'S" or food == "Almond flour by Supervalu, Inc.":
         return str("Almond flour")
@@ -216,6 +216,8 @@ def ingredients(food):
         return str("Granulated sugar")
     elif food == "Unsalted butter by FAREWAY" or food == "Butter, without salt":
         return str("Unsalted butter")
+    elif food == "Butter, salted":
+        return str("Salted butter")
     elif food == "All purpose flour by PIONEER" or food == "Wheat flour, bleached, enriched, all-purpose, white" or food == "Wheat flour, unenriched, all-purpose, white":
         return str("All purpose flour")
     elif food == "duncan hines keto brownie mix":

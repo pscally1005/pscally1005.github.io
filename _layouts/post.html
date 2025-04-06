@@ -11,11 +11,12 @@ layout: base
       {% include top.html %}
 
       {% include buttons.html %}
-      <div class="recipe-section">{{ content }}</div>
 
-        {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
-          {% include postInfo.html %}
-        {% endif %}
+      {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
+        {% include postInfo.html %}
+      {% else %}
+        <div class="recipe-section">{{ content }}</div>
+      {% endif %}
 
       {% include comments.html %}
 

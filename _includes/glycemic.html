@@ -1,8 +1,7 @@
 <!-- Only generate section if the page has an ingredients file -->
 {% if 
     page.ing or 
-    page.title == "Water Absorption of Different Flours" or 
-    page.title == "Cheese and Whey - A Failed Experiment" 
+    page.title == "Improving the Pinto Bean Cake"
 %}
 
     {% assign ingredients = page.ing %}
@@ -18,8 +17,18 @@
     {% assign servings = 0 %}
     {% assign GL_all_servings = 0 %}
 
+    <!-- Loop variable -->
+    {% assign loopVarFacts = site.data[facts] %}
+    {% assign loopVarIng = site.data[ing] %}
+    {% if recipe == "false" %}
+        {% assign loopVarIng = ing %}
+    {% endif %}
+    {% if page.title == "Improving the Pinto Bean Cake" %}
+        {% assign loopVarIng = ing %}
+    {% endif %}
+
     <!-- Loop through all the ingredients -->
-    {% for row in site.data[ingredients] %}
+    {% for row in loopVarIng %}
         <!-- Get # of servings -->
         {% if forloop.last %}
             {% assign servings = row["Amount"] | times: 1 %}
@@ -27,7 +36,7 @@
         {% endif %}
     {% endfor %}
 
-    {% for row in site.data[ingredients] %}
+    {% for row in loopVarIng %}
 
         {% if forloop.last %}
             {% continue %}

@@ -6,13 +6,14 @@
 {% assign rnd = include.rnd %}
 
 <!-- Show DV % -->
-{% assign showPercentage == "True" %}
+{% assign showPercentage = "True" %}
 {% if 
     page.title == "Fiber: Happiness is a Good Poop" or
     page.title == "I Run on Iron" or
     page.title == "Mag-nificent: The Mighty Mineral for Muscles and Mind" or
     page.title == "A Monkey Never Cramps: Why You Need Potassium" or
-    page.title == "A Pinch of Life: Why Your Body Needs Sodium"
+    page.title == "A Pinch of Life: Why Your Body Needs Sodium" or
+    page.title == "Copycat Barbell Protein Bars"
 %}
     {% assign showPercentage = "False" %}
 {% endif %}
@@ -33,8 +34,20 @@
     {% assign sod = "0mg (0 %)" %}
 
     {% assign carb = "0.0g (0 %)" %}
+
+    {% assign carb = "0.0g (0 %)" %}
+    {% assign totalCarb = 0.0 %}
+    {% assign netCarb = 0.0 %}
+
     {% assign fib = "0.0g (0 %)" %}
-    {% assign sug = "0.0 g" %}
+    {% assign totalFib = 0.0 %}
+    {% assign sugAlc = 0.0 %}
+    {% assign all = 0.0 %}
+
+    {% assign sug = "0.0g (0 %)" %}
+    {% assign totalSugar = 0.0 %}
+    {% assign addedSugar = 0.0 %}
+    {% assign addedSugarStr = "0.0g (0 %)"" %}
 
     {% assign prot = "0.0g (0 %)" %}
 
@@ -74,6 +87,11 @@
 
     {% assign loopVarFacts = site.data.servingSizes[facts] %}
     {% assign loopVarIng = site.data.servingSizes[ing] %}
+
+    {% if page.title == "Copycat Barbell Protein Bars" %}
+        {% assign loopVarFacts = site.data.barbell[facts] %}
+        {% assign loopVarIng = site.data.barbell[ing] %}
+    {% endif %}
 
     <!-- Loop to get nutrition facts -->
     {% for row in loopVarFacts %}
@@ -122,10 +140,12 @@
 
             {% if pair[1] == "Carbohydrate" %}
                 {% assign carb = line1 %}
+                {% assign totalCarb = row.Amount | plus: 0 | round: 1 %}
             {% endif %}
 
             {% if pair[1] == "Fiber" %}
                 {% assign fib = line1 %}
+                {% assign totalFib = row.Amount | plus: 0 | round: 1 %}
             {% endif %}
 
             {% if pair[1] == "Sugars" %}
@@ -264,6 +284,72 @@
         {% endfor %}
     {% endfor %}
 
+
+    <!-- Loop variables -->
+    {% assign loopVarIng = site.data[include.ing] %}
+    {% assign loopVarFacts = site.data[include.facts] %}
+    {% if page.title == "Copycat Barbell Protein Bars" %}
+        {% assign loopVarIng = site.data.barbell[include.ing] %}
+        {% assign loopVarFacts = site.data.barbell[include.facts] %}
+    {% endif %}
+
+    <!-- Default servings -->
+    {% assign servings = 1 | times: 1 %}
+
+    <!-- Loop through ingredients and foods.csv -->
+    {% for row in loopVarIng %}
+        {% if forloop.last %}
+            {% assign servings = row["Amount"] | times: 1 %}
+            {% continue %}
+        {% endif %}
+
+        {% assign food = row["Ingredient"] %}
+        {% assign mass = row["Amount"] | times: 1.0 %}
+
+        {% for row in site.data.foods %}
+
+            <!-- Added sugar per ingredient -->
+            {% if row["Food"] == food %}
+                {% assign itemAddedSugar = row["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
+                {% assign addedSugar = addedSugar | plus: itemAddedSugar %}
+
+                {% assign itemSugarAlcohol = row["Sug Alc per 100 g"] | times: mass | divided_by: 100 %}
+                {% assign sugAlc = sugAlc | plus: itemSugarAlcohol %}
+
+                {% assign itemAllulose = row["Allulose per 100 g"] | times: mass | divided_by: 100 %}
+                {% assign all = all | plus: itemAllulose %}
+
+                {% break %}
+            {% endif %}
+
+        {% endfor %}  
+
+    {% endfor %} 
+
+    <!-- Scale down for servings -->
+    {% assign addedSugar = addedSugar | divided_by: servings %}
+    {% assign sugAlc = sugAlc | divided_by: servings %}
+    {% assign all = all | divided_by: servings %}
+
+    <!-- Calc net carbs -->
+    {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
+    {% if netCarb < 0 %}
+        {% assign netCarb = 0.0 %}
+    {% endif %}
+    {% assign netCarbStr = netCarb | round: 1 | append: 'g' %}
+
+    <!-- Added sugar -->
+    {% if addedSugar > totalSugar %}
+        {% assign addedSugar = totalSugar %}
+    {% endif %}
+    {% assign addedSugarStr = addedSugar | round: 1 | append: 'g (' %}
+
+    <!-- Sugar alcohols -->
+    {% assign sugAlcStr = sugAlc | round: 1 | append: 'g' %}
+
+    <!-- Allulose -->
+    {% assign allStr = all | round: 1 | append: 'g' %}
+
     <!-- Empty line variable to be filled later -->
     {% assign line = "" %}
 
@@ -314,13 +400,29 @@
     {% if nutrient == "Carbs" %}
         {% assign line = carb %}
     {% endif %}
+    
+    {% if nutrient == "Net Carbs" %}
+        {% assign line = netCarbStr %}
+    {% endif %}
 
     {% if nutrient == "Fiber" %}
         {% assign line = fib %}
     {% endif %}
 
+    {% if nutrient == "Sugar Alcohol" %}
+        {% assign line = sugAlcStr %}
+    {% endif %}
+
+    {% if nutrient == "Allulose" %}
+        {% assign line = allStr %}
+    {% endif %}
+
     {% if nutrient == "Sugar" %}
         {% assign line = sug %}
+    {% endif %}
+
+    {% if nutrient == "Added Sugar" %}
+        {% assign line = addedSugarStr %}
     {% endif %}
 
     {% if nutrient == "Protein" %}

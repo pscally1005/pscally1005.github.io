@@ -256,13 +256,6 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Fat" %}
-                {% assign rnd = 1 %}
-                <td markdown="span">{{ nutrient }}</td>
-                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            </tr>
-            <tr>
                 {% assign nutrient = "Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
@@ -327,14 +320,6 @@ tags:
             </tr>
             <tr>
                 {% assign nutrient = "Protein" %}
-                {% assign rnd = 1 %}
-                <td markdown="span">{{ nutrient }}</td>
-                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            </tr>
-            <tr>
-                {% assign nutrient = "Fat" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
