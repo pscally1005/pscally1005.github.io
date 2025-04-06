@@ -10,6 +10,7 @@ Water,0.00,1.00,0.00000,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Beans, drained and rinsed",0.86,255.00,0.00337,30.00,16.55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Navy beans, drained and rinsed",0.86,255.00,0.00337,29.00,21.20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Cooked navy beans,0.86,255.00,0.00337,29.00,21.20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Cooked black beans,0.86,255.00,0.00337,30.00,16.55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Cannellini beans, drained and rinsed",0.86,255.00,0.00337,31.00,14.62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Chickpeas, NOT drained or rinsed",0.86,439.00,0.00196,16.26,7.84,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Pinto beans, NOT drained or rinsed",0.86,439.00,0.00196,16.26,7.84,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -37,6 +38,7 @@ Unsweetened tomato sauce,1.48,812.00,0.00182,38.00,5.31,TRUE,TRUE,TRUE,TRUE,TRUE
 Shredded mozzarella cheese,7.27,908.00,0.00801,27.00,4.35,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Shredded mozzarella cheese, low moisture part skim",7.27,908.00,0.00801,27.00,4.35,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Casein protein powder, unflavored",60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.amazon.com/gp/product/B08HSSFB2X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8,0.0,0.0
+Casein protein powder,60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.amazon.com/gp/product/B08HSSFB2X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8,0.0,0.0
 "Casein protein powder, chocolate",60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Casein protein powder, vanilla",60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Nutricost Casein Unflavored Protein Powder,60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.amazon.com/gp/product/B08HSSFB2X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8,0.0,0.0
@@ -55,6 +57,7 @@ Egg,4.50,918.00,0.00490,0.00,0.00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Egg, hard boiled",4.50,918.00,0.00490,0.00,0.00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,/recipes/hard-boiled-egg,0.0,0.0
 Coconut flour,6.57,"1,008.00",0.00652,51.00,57.14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
 "Whey protein powder, unflavored",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.amazon.com/gp/product/B01KITQG0A/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8,0.0,0.0
+Whey protein powder,50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.amazon.com/gp/product/B01KITQG0A/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8,0.0,0.0
 "Whey protein powder, chocolate",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Whey protein powder, vanilla",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Nutricost Whey Unflavored Protein Powder,50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.amazon.com/gp/product/B01KITQG0A/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8,0.0,0.0
@@ -332,6 +335,7 @@ Date sweetened ketchup,1.94,400.00,0.00485,53.00,29.40,TRUE,TRUE,TRUE,TRUE,TRUE,
 Quinoa,6.22,905.60,0.00687,53.00,64.16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Canned salmon,2.00,85.00,0.02353,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Chunk-Style-Pink-Salmon-5-oz/174351945?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
 Sauerkraut,3.50,908.00,0.00385,32.00,4.28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Sauerkraut juice,3.50,908.00,0.00385,5.00,1.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Whole wheat baguette,0.65,190.00,0.00342,73.60,40.40,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/whole-wheat-baguettes,0.0,0.0
 Mandarin orange,3.97,"1,362.00",0.00291,42.00,14.34,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Graham cracker,2.22,407.52,0.00545,74.00,77.66,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,25.8,,0.0,0.0
@@ -378,3 +382,6 @@ Chicken liver,1.96,566.00,0.00346,0.00,0.73,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,
 Couscous,7.99,749.95,0.01065,60.00,77.43,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/RiceSelect-Original-Couscous-Moroccan-Style-Couscous-26-5-oz-Jar/10403512?classType=VARIANT&athbdg=L1600&from=/search,0.0,0.0
 "Rice vinegar, unsweetened",2.92,360.00,0.00811,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Mizkan-Rice-Vinegar-Mild-and-Mellow-12-fl-oz/220935703?classType=VARIANT&athbdg=L1600&from=/search,0.0,0.0
 "Frozen string beans, thawed",1.49,454.00,0.00328,32.00,7.54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
+Goat cheese,2.99,113.20,0.02641,30.00,0.00,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
+Pickled ginger,3.39,170.00,0.01994,15.00,4.83,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,10.0,,0.0,0.0
+Dried seaweed,4.69,13.00,0.36077,55.00,80.88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0

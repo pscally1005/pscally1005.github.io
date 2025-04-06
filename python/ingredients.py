@@ -272,6 +272,8 @@ def ingredients(food):
         return str("Egg yolk")
     elif food == "Cheese, cheddar" or food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND" or food == "Cheese, Mexican blend":
         return str("Shredded cheddar cheese")
+    elif food == "Cheese, soft type, goat":
+        return str("Goat cheese")
     elif food == "Milk, with added vitamin A and vitamin D (fat free or skim), fluid, nonfat" or food == "Milk, fat free (skim)":
         return str("Skim milk")
 

@@ -41,7 +41,8 @@ tags:
 - breading
 - bruschetta
 - brushetta
-Description: An Italian style breaded chicken that's both gluten free and not deep fried sounds like a dream come true. This dish is elevated even more when made into Chicken Parmesan. It goes well with a side of Bruschetta mix on top of a <a href="/recipes/whole-wheat-baguettes">Whole Wheat Baguette</a>
+- simple pasta sauce
+Description: An Italian style breaded chicken that's both gluten free and not deep fried sounds like a dream come true. They get the most crispy in the air fryer, but the oven will work too.  This dish is elevated even more when made into Chicken Parmesan using my <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>. It goes well with a side of Bruschetta mix on top of a <a href="/recipes/whole-wheat-baguettes">Whole Wheat Baguette</a>
 Instructions:
 - Cut the chicken into cutlets. Make each piece even thickness by adding it to a bag and smashing it down to make it wide and thin. Sprinkle each side with salt. Refrigerate for at least 1 hour
 
@@ -62,7 +63,8 @@ Instructions:
 - Cook the chicken until it registers 165F, about 15 minutes in a 400F oven, or 8 minutes in a 400F air fryer.  Transfer to a wire rack to keep it crispy
 - <center><img src="/assets/Food/Chicken/Breaded/cooked.jpg" alt="" class="instruction-image"></center>
 
-- Optional (Chicken Parm) - add sauce (about 1/2 cup or 120 g for the whole batch) and cheese (about 3/4 cup or 84 g for the whole batch) to the top of the chicken, and broil until the cheese is melted (about 2 minutes).  Note - DO NOT USE PARCHMENT PAPER FOR CHICKEN PARM. IT WILL BURN UNDER THE BROILER
+- Optional (Chicken Parm) - add <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a> (about 1/2 cup or 120 g for the whole batch of chicken) and shredded mozzarella cheese (about 3/4 cup or 84 g for the whole batch of chicken) to the top of the chicken, and broil until the cheese is melted (about 2 minutes).  Note - DO NOT USE PARCHMENT PAPER FOR CHICKEN PARM. IT WILL BURN UNDER THE BROILER
 
 - As the chicken cooks, you can make the Bruschetta topping. Finely dice the tomatoes and onion, and add to a medium bowl. Season with garlic, lemon, parsley, basil, and salt.  Serve on a slice of toasted <a href="/recipes/whole-wheat-baguettes">Whole Wheat Baguettes</a>, or spoon on top of the chicken
+- <center><img src="/assets/Food/Chicken/Breaded/cover.jpg" alt="" class="instruction-image"></center>
 ---

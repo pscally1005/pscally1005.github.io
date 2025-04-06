@@ -144,7 +144,7 @@ tags:
     <li>Dairy</li>
         <ul>
             <li><a rel="" target="" href="#greek-yogurt-vs-cottage-cheese-vs-coconut-yogurt">Greek Yogurt vs Cottage Cheese vs Coconut Yogurt</a></li>
-            <li><a rel="" target="" href="#mayo-vs-sour-cream-vs-yogurt">Mayo vs Sour Cream vs Yogurt</a></li>
+            <li><a rel="" target="" href="#mayo-vs-light-mayo-vs-sour-cream-vs-yogurt">Mayo vs Light Mayo vs Sour Cream vs Yogurt</a></li>
             <li><a rel="" target="" href="#cream-cheese-vs-ricotta-vs-cottage-cheese">Cream Cheese vs Ricotta vs Cottage Cheese</a></li>
             <li><a rel="" target="" href="#whole-vs-skim-vs-almond-vs-coconut-milk">Whole vs Skim vs Almond vs Coconut Milk</a></li>
             <li><a rel="" target="" href="#heavy-cream-vs-evaporated-milk">Heavy Cream vs Evaporated Milk</a></li>
@@ -166,7 +166,8 @@ tags:
             <li><a rel="" target="" href="#yellow-squash-vs-zucchini-vs-eggplant">Yellow Squash vs Zucchini vs Eggplant</a></li>
             <li><a rel="" target="" href="#potato-vs-sweet-potato-vs-plantains-vs-butternut-vs-acorn">Potato vs Sweet Potato vs Plantains vs Butternut Squash vs Acorn Squash</a></li>
             <li><a rel="" target="" href="#cauliflower-vs-broccoli-vs-brussel-sprouts">Cauliflower vs Broccoli vs Brussel Sprouts</a></li>
-            <li><a rel="" target="" href="#spinach-vs-kale-vs-lettuce-vs-cabbage-vs-arugula-vs-mustard-greens-vs-swiss-chard">Spinach vs Kale vs Lettuce vs Cabbage vs Arugula vs Mustard Greens vs Swiss Chard</a></li>
+            <li><a rel="" target="" href="#spinach-vs-kale-vs-romaine-vs-iceberg">Spinach vs Kale vs Romaine Lettuce vs Iceberg Lettuce</a></li>
+            <li><a rel="" target="" href="#cabbage-vs-arugula-vs-mustard-greens-vs-swiss-chard">Green Cabbage vs Arugula vs Mustard Greens vs Swiss Chard</a></li>
         </ul>
 
     <li>Nuts and Seeds</li>
@@ -970,16 +971,18 @@ tags:
     <center><img src="/assets/Misc/Cooking/Compare/yogurt.png" alt="" class="smaller-image"></center><br>
 </div>
 
-<div id="mayo-vs-sour-cream-vs-yogurt" class="table-of-contents">
-    <br><center><i><font size="+2">Mayo vs Sour Cream vs Greek Yogurt</font></i></center><br>
+<div id="mayo-vs-light-mayo-vs-sour-cream-vs-yogurt" class="table-of-contents">
+    <br><center><i><font size="+2">Mayo vs Light Mayo Sour Cream vs Greek Yogurt</font></i></center><br>
     <center><table>
         <thead>
             <tr class="header">
                 <th>Nutrient</th>
                 {% assign food1 = "mayo-facts" %}
-                {% assign food2 = "sour-cream-facts" %}
-                {% assign food3 = "yogurt-facts" %}
+                {% assign food2 = "light-mayo-facts" %}
+                {% assign food3 = "sour-cream-facts" %}
+                {% assign food4 = "yogurt-facts" %}
                 <th><a href="https://www.nutritionvalue.org/Salad_dressing%2C_regular%2C_mayonnaise_nutritional_value.html?size=100+g">Mayonnaise</a></th>
+                <th><a href="https://www.nutritionvalue.org/Mayonnaise%2C_light_83204000_nutritional_value.html?size=100%20g">Light Mayo</a></th>
                 <th><a href="https://www.nutritionvalue.org/Cream%2C_cultured%2C_sour_nutritional_value.html?size=100%20g">Sour Cream</a></th>
                 <th><a href="https://www.nutritionvalue.org/public_ingredient_55742.html?size=100+g">Greek Yogurt<br>(Plain, Nonfat)</a></th>
             </tr>
@@ -992,6 +995,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Protein" %}
@@ -1000,6 +1004,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Fat" %}
@@ -1008,6 +1013,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Carbs" %}
@@ -1016,6 +1022,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Sugar" %}
@@ -1024,6 +1031,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
         </tbody>
     </table></center>
@@ -2053,8 +2061,8 @@ tags:
     <center><img src="/assets/Misc/Cooking/Compare/broccoli.png" alt="" class="smaller-image"></center><br>
 </div>
 
-<div id="spinach-vs-kale-vs-lettuce-vs-cabbage-vs-arugula-vs-mustard-greens-vs-swiss-chard" class="table-of-contents">
-    <br><center><i><font size="+2">Spinach vs Kale vs Lettuce vs Cabbage vs Arugula vs Mustard Greens vs Swiss Chard</font></i></center><br>
+<div id="spinach-vs-kale-vs-romaine-vs-iceberg" class="table-of-contents">
+    <br><center><i><font size="+2">Spinach vs Kale vs Romaine Lettuce vs Iceberg Lettuce</font></i></center><br>
     <center><table>
         <thead>
             <tr class="header">
@@ -2062,14 +2070,102 @@ tags:
                 {% assign food1 = "spinach-fresh-facts" %}
                 {% assign food2 = "kale-facts" %}
                 {% assign food3 = "lettuce-facts" %}
-                {% assign food4 = "cabbage-facts" %}
-                {% assign food5 = "arugula-facts" %}
-                {% assign food6 = "mustard-greens-facts" %}
-                {% assign food7 = "swiss-chard-facts" %}
+                {% assign food4 = "iceberg-facts" %}
                 <th><a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a></th>
                 <th><a href="https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g">Kale</a></th>
-                <th><a href="https://www.nutritionvalue.org/Lettuce%2C_raw%2C_cos_or_romaine_nutritional_value.html?size=100+g">Lettuce</a></th>
-                <th><a href="https://www.nutritionvalue.org/Cabbage%2C_raw_nutritional_value.html?size=100%20g">Cabbage</a></th>
+                <th><a href="https://www.nutritionvalue.org/Lettuce%2C_raw%2C_cos_or_romaine_nutritional_value.html?size=100+g">Romaine<br>Lettuce</a></th>
+                <th><a href="https://www.nutritionvalue.org/Lettuce%2C_raw%2C_iceberg_%28includes_crisphead_types%29_nutritional_value.html?size=100+g">Iceberg<br>Lettuce</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                {% assign nutrient = "Calories" %}
+                {% assign rnd = 0 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+            <tr>
+                {% assign nutrient = "Protein" %}
+                {% assign rnd = 1 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+            <tr>
+                {% assign nutrient = "Carbs" %}
+                {% assign rnd = 1 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+            <tr>
+                {% assign nutrient = "Sugar" %}
+                {% assign rnd = 1 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+            <tr>
+                {% assign nutrient = "Fiber" %}
+                {% assign rnd = 1 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+            <tr>
+                {% assign nutrient = "Vitamin C" %}
+                {% assign rnd = 1 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+            <tr>
+                {% assign nutrient = "Vitamin K" %}
+                {% assign rnd = 1 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+            <tr>
+                {% assign nutrient = "Iron" %}
+                {% assign rnd = 2 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+        </tbody>
+    </table></center>
+    <center><img src="/assets/Misc/Cooking/Compare/spinach.png" alt="" class="smaller-image"></center><br>
+</div>
+
+<div id="cabbage-vs-arugula-vs-mustard-greens-vs-swiss-chard" class="table-of-contents">
+    <br><center><i><font size="+2">Green Cabbage vs Arugula vs Mustard Greens vs Swiss Chard</font></i></center><br>
+    <center><table>
+        <thead>
+            <tr class="header">
+                <th>Nutrient</th>
+                {% assign food1 = "cabbage-facts" %}
+                {% assign food2 = "arugula-facts" %}
+                {% assign food3 = "mustard-greens-facts" %}
+                {% assign food4 = "swiss-chard-facts" %}
+                <th><a href="https://www.nutritionvalue.org/Cabbage%2C_raw_nutritional_value.html?size=100%20g">Green Cabbage</a></th>
                 <th><a href="https://www.nutritionvalue.org/Arugula%2C_raw_nutritional_value.html?size=100%20g">Arugula</a></th>
                 <th><a href="https://www.nutritionvalue.org/Mustard_greens%2C_raw_nutritional_value.html?size=100+g">Mustard Greens</a></th>
                 <th><a href="https://www.nutritionvalue.org/Chard%2C_raw%2C_swiss_nutritional_value.html?size=100+g">Swiss Chard</a></th>
@@ -2084,9 +2180,6 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food7 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Protein" %}
@@ -2096,9 +2189,6 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food7 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Carbs" %}
@@ -2108,9 +2198,6 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food7 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Sugar" %}
@@ -2120,9 +2207,6 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food7 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Fiber" %}
@@ -2132,9 +2216,6 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food7 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Vitamin C" %}
@@ -2144,9 +2225,6 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food7 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Vitamin K" %}
@@ -2156,9 +2234,6 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food7 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Iron" %}
@@ -2168,13 +2243,10 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food7 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
         </tbody>
     </table></center>
-    <center><img src="/assets/Misc/Cooking/Compare/spinach.png" alt="" class="smaller-image"></center><br>
+    <center><img src="/assets/Misc/Cooking/Compare/cabbage.png" alt="" class="smaller-image"></center><br>
 </div>
 
 <hr>
