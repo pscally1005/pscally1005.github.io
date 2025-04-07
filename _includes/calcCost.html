@@ -1,0 +1,63 @@
+<!-- Variables -->
+{% assign recipeCost = 0 %}
+{% assign servings = 0 %}
+
+<!-- Loop Variable -->
+{% assign loopVar = site.data[include.ing] %}
+{% if page.title == "Copycat Barbell Protein Bars" %}
+    {% assign loopVar = site.data.barbell[include.ing] %}
+{% endif %}
+
+<!-- Loop through all the ingredients -->
+{% for row in loopVar %}
+    <!-- Get # of servings -->
+    {% if forloop.last %}
+        {% assign servings = row["Amount"] | times: 1 %}
+        {% continue %}
+    {% endif %}
+
+    <!-- Get the food and gram measurements -->
+    {% assign food = row["Ingredient"] %}
+    {% assign mass = row["Amount"] | times: 1.0 %}
+
+    <!-- Variable for food file -->
+    {% assign unitCost = "" %}
+
+    <!-- Loop through rows of food file -->
+    {% for row in site.data.foods %}
+        <!-- Assign unit cost -->
+        {% if row["Food"] == food %}
+            {% assign unitCost = row["Unit Cost ($/g)"] | times: 1.0 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+    <!-- No match found -->
+    {% if unitCost == "" %}
+        {% assign unitCost = -9999 | times: 1.0 %}
+    {% endif %}
+
+    <!-- Calculate cost -->
+    {% assign itemCost = unitCost | times: mass %}
+    {% assign recipeCost = recipeCost | plus: itemCost %}
+{% endfor %}
+
+<!-- Calculate cost per serving -->
+{% assign servingCost = recipeCost | divided_by: servings %}
+
+<!-- Format recipe cost with 2 decimal places -->
+{% assign formattedServingCost = servingCost | round: 2 %}
+
+<!-- Format serving cost to ensure two decimal places -->
+{% assign servingCostString = formattedServingCost | remove: ',' %}
+
+<!-- Force two decimal places -->
+{% if servingCostString contains '.' %}
+    {% assign servingCostString = servingCostString | append: "00" | split: "." %}
+    {% assign servingCostString = servingCostString[0] | append: "." | append: servingCostString[1] | slice: 0, 4 %}
+{% else %}
+    {% assign servingCostString = servingCostString | append: ".00" %}
+{% endif %}
+
+<!-- Print serving cost -->
+${{ servingCostString }}
