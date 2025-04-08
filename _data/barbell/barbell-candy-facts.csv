@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,261,,
+Calories,259,,
 "Vitamin A, RAE",0.38,mcg,0 %
 "Carotene, alpha",1.05,mcg,
 "Carotene, beta",4.55,mcg,
@@ -33,9 +33,9 @@ Calories,261,,
 "Iodine",0,mcg,0 %
 "Iron",2.58,mg,14 %
 "Magnesium",66.72,mg,16 %
-"Manganese",0.317,mg,14 %
+"Manganese",0.316,mg,14 %
 "Phosphorus",328.57,mg,26 %
-"Potassium",183.91,mg,4 %
+"Potassium",183.9,mg,4 %
 "Selenium",6.55,mcg,12 %
 "Sodium",189.16,mg,8 %
 "Zinc",1.7,mg,15 %
@@ -62,16 +62,16 @@ Calories,261,,
 "Valine",1.035,g,53 %
 "Phenylalanine + Tyrosine",1.168,g,43 %
 "Methionine + Cysteine",0.758,g,49 %
-"Carbohydrate",28.6,g,10 %
+"Carbohydrate",28.1,g,10 %
 "Fiber",4.48,g,16 %
-"Sugars",22.38,g,
+"Sugars",21.89,g,
 "Fructose",0,g,
 "Galactose",0,g,
 "Glucose",0,g,
 "Lactose",0,g,
 "Maltose",0,g,
-"Sucrose",12.47,g,
-"Net carbs",24.12,g,
+"Sucrose",11.98,g,
+"Net carbs",23.62,g,
 "Fat",7.997,g,10 %
 "Saturated fatty acids",4.738,g,24 %
 "Butanoic acid",0,g,

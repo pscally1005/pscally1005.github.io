@@ -1,0 +1,36 @@
+<!-- Variables -->
+{% assign recipeMass = 0 %}
+{% assign servings = 0 %}
+
+<!-- Loop Variable -->
+{% assign loopVar = site.data[include.ing] %}
+{% if page.title == "Copycat Barbell Protein Bars" %}
+    {% assign loopVar = site.data.barbell[include.ing] %}
+{% endif %}
+
+<!-- Loop through all the ingredients -->
+{% for row in loopVar %}
+    <!-- Get # of servings -->
+    {% if forloop.last %}
+        {% assign servings = row["Amount"] | times: 1 %}
+        {% continue %}
+    {% endif %}
+
+    <!-- Get the food and gram measurements -->
+    {% assign food = row["Ingredient"] %}
+    {% assign mass = row["Amount"] | times: 1.0 %}
+
+    <!-- Calculate total mass (g) -->
+    {% unless page.title == "Copycat Barbell Protein Bars" and (food == "Extra virgin coconut oil" or food == "Cocoa powder"  or food == "Sugar free chocolate chips" or food == "Chocolate chips" ) %}
+        {% assign recipeMass = recipeMass | plus: mass %}
+    {% endunless %}
+{% endfor %}
+
+<!-- Calculate grams per serving -->
+{% assign servingMass = recipeMass | divided_by: servings %}
+
+<!-- Floor the mass -->
+{% assign formattedServingMass = servingMass | floor %}
+
+<!-- Print serving mass -->
+{{ formattedServingMass }} g

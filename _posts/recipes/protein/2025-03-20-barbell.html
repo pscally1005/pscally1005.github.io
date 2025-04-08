@@ -84,15 +84,64 @@ Instructions:
 
 The following are all good variations I've tried of these protein bars:<br><br>
 <ol>
-    <li><i>Homemade chocolate (as written above)</i>: Mix melted coconut oil with cocoa powder to make your melted chocolate.  Add any sweetener to taste; I like it unsweetened, but you may like 1 tbsp (21 g) honey</li><br>
-    <li><i>Sugar free chocolate chips</i>: Replace the coconut oil and cocoa powder with sugar free chocolate chips (1/3 cup, 60 g)</li><br>
-    <li><i>Oat Flour</i>: Replace coconut flour with oat flour, and reduce water to 1/4 cup (60 g)</li><br>
-    <li><i>Almond Flour</i>: Replace coconut flour with almond flour, and reduce water to 1/4 cup (60 g)</li><br>
-    <li><i>Candy Bar</i>: Replace granulated monk fruit with granulated sugar.  Replace coconut oil and cocoa powder with semi sweet chocolate chips (1/3 cup, 60 g)</li><br>
-    <li><i>Flavored Whey</i>: Use a flavored whey protein powder in place of the unflavored (vanilla is better but chocolate is good too).  Omit the sweetener</li><br>
-    <li><i>Liquid Monk Fruit</i>: Use 1 tsp (5 g) of liquid monk fruit (or stevia) as your sweetener in place of the granulated monk fruit</li><br>
-    <li><i>Honey</i>: Use 4 tbsp (84 g) of honey as your sweetener in place of the granulated monk fruit.  Reduce water to 2 tbsp (30 g)</li><br>
-    <li><i><a href="/recipes/sugar-free-syrup">Sugar Free Syrup</a></i>: Use 4 tbsp (80 g) of <a href="/recipes/sugar-free-syrup">sugar free syrup</a> as your sweetener in place of the granulated monk fruit.  Reduce water to 2 tbsp (30 g)</li><br>
+    <li><i>Homemade chocolate (as written above)</i>
+      <ul>
+        <li>Mix melted coconut oil with cocoa powder to make your melted chocolate</li>
+        <li>Add any sweetener to taste; I like it unsweetened, but you may like 1 tbsp (21 g) honey</li>
+      </ul><br>
+
+    <li><i>Sugar free chocolate chips</i>
+      <ul>
+        <li>Replace the coconut oil and cocoa powder with 1/3 cup (60 g) sugar free chocolate chips</li>
+        <li>Add 1/2 tsp (2.5 g) coconut oil or olive oil to the chocolate chips to help with melting</li>
+        <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
+      </ul><br>
+
+    <li><i>Oat Flour</i>
+      <ul>
+        <li>Replace coconut flour with oat flour (1:1)</li>
+        <li>Reduce water to 1/4 cup (60 g)</li>
+      </ul><br>
+
+    <li><i>Almond Flour</i>
+      <ul>
+        <li>Replace coconut flour with allmond flour (1:1)</li>
+        <li>Reduce water to 1/4 cup (60 g)</li>
+      </ul><br>
+
+    <li><i>Candy Bar</i>
+      <ul>
+        <li>Replace granulated monk fruit with granulated sugar (1:1)</li>
+        <li>Replace coconut oil and cocoa powder with 1/3 cup (60 g) semi sweet chocolate chips</li>
+        <li>Add 1/2 tsp (2.5 g) coconut oil or olive oil to the chocolate chips to help with melting</li>
+        <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
+      </ul><br>
+
+    <li><i>Flavored Whey</i>
+      <ul>
+        <li>Use a flavored whey protein powder in place of the unflavored.  Vanilla is better but chocolate is good too</li>
+        <li>Omit the granulated monk fruit</li>
+      </ul><br>
+
+    <li><i>Liquid Monk Fruit</i>
+      <ul>
+        <li>Use 1 tsp (5 g) of liquid monk fruit (or stevia) as your sweetener in place of the granulated monk fruit</li>
+      </ul><br>
+
+    <li><i>Honey</i>
+      <ul>
+        <li>Use 4 tbsp (84 g) of honey (or maple syrup) as your sweetener in place of the granulated monk fruit</li>
+        <li>Reduce water to 1/4 cup (60 g)</li>
+        <li>Replace cococnut oil and cocoa powder with 1/3 cup (60 g) semi sweet chocolate chips</li>
+        <li>Add 1/2 tsp (2.5 g) coconut oil or olive oil to the chocolate chips to help with melting</li>
+        <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
+      </ul><br>
+
+    <li><i><a href="/recipes/sugar-free-syrup">Sugar Free Syrup</a></i>
+      <ul>
+        <li>Use 4 tbsp (80 g) of <a href="/recipes/sugar-free-syrup">sugar free syrup</a> as your sweetener in place of the granulated monk fruit</li>
+        <li>Reduce water to 1/4 cup (60 g)</li>
+      </ul><br>
 </ol>
 
 <table style="font-size: 16px;">
@@ -222,16 +271,16 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <td>{% include calcCost.html ing="barbell-sf-syrup-ing" %}</td>
     </tr>
     <tr>
-      <td>Filling Weight<br>(each)</td>
-      <td>68 g</td>
-      <td>68 g</td>
-      <td>61 g</td>
-      <td>61 g</td>
-      <td>68 g</td>
-      <td>56 g</td>
-      <td>58 g</td>
-      <td>62 g</td>
-      <td>61 g</td>
+      <td>Filling<br>Weight</td>
+      <td>{% include calcMass.html ing="barbell-unsw-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-sug-free-choc-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-oat-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-almond-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-candy-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-flavored-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-liq-monk-fruit-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-honey-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-sf-syrup-ing" %}</td>
     </tr>
   </tbody>
 </table>

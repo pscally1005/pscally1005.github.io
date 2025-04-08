@@ -4,6 +4,7 @@
 {% assign nutrient = include.nutrient %}
 {% assign fetch = include.fetch %}
 {% assign rnd = include.rnd %}
+{% assign ing = include.ing %}
 
 <!-- Show DV % -->
 {% assign showPercentage = "True" %}
@@ -13,7 +14,8 @@
     page.title == "Mag-nificent: The Mighty Mineral for Muscles and Mind" or
     page.title == "A Monkey Never Cramps: Why You Need Potassium" or
     page.title == "A Pinch of Life: Why Your Body Needs Sodium" or
-    page.title == "Copycat Barbell Protein Bars"
+    page.title == "Copycat Barbell Protein Bars" or
+    page.title == "Improving the Pinto Bean Cake"
 %}
     {% assign showPercentage = "False" %}
 {% endif %}
@@ -91,6 +93,9 @@
     {% if page.title == "Copycat Barbell Protein Bars" %}
         {% assign loopVarFacts = site.data.barbell[facts] %}
         {% assign loopVarIng = site.data.barbell[ing] %}
+    {% elsif page.title == "Improving the Pinto Bean Cake" %}
+        {% assign loopVarFacts = site.data.bean-cake[facts] %}
+        {% assign loopVarIng = site.data.bean-cake[ing] %}
     {% endif %}
 
     <!-- Loop to get nutrition facts -->
@@ -284,17 +289,19 @@
         {% endfor %}
     {% endfor %}
 
-
-    <!-- Loop variables -->
-    {% assign loopVarIng = site.data[include.ing] %}
-    {% assign loopVarFacts = site.data[include.facts] %}
-    {% if page.title == "Copycat Barbell Protein Bars" %}
-        {% assign loopVarIng = site.data.barbell[include.ing] %}
-        {% assign loopVarFacts = site.data.barbell[include.facts] %}
-    {% endif %}
-
     <!-- Default servings -->
     {% assign servings = 1 | times: 1 %}
+
+    {% assign loopVarFacts = site.data.servingSizes[facts] %}
+    {% assign loopVarIng = site.data.servingSizes[ing] %}
+
+    {% if page.title == "Copycat Barbell Protein Bars" %}
+        {% assign loopVarFacts = site.data.barbell[facts] %}
+        {% assign loopVarIng = site.data.barbell[ing] %}
+    {% elsif page.title == "Improving the Pinto Bean Cake" %}
+        {% assign loopVarFacts = site.data.bean-cake[facts] %}
+        {% assign loopVarIng = site.data.bean-cake[ing] %}
+    {% endif %}
 
     <!-- Loop through ingredients and foods.csv -->
     {% for row in loopVarIng %}
