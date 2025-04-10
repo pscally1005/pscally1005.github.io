@@ -160,7 +160,7 @@
 
                 {% if pair[1] == "Fat" %}
                     {% assign fat = line1 %}
-                    {% assign totalFat = row.Amount | plus: 0 | round: 1 %}
+                    {% assign totalFat = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Saturated fatty acids" %}
@@ -189,17 +189,17 @@
 
                 {% if pair[1] == "Carbohydrate" %}
                     {% assign carb = line1 %}
-                    {% assign totalCarb = row.Amount | plus: 0 | round: 1 %}
+                    {% assign totalCarb = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Fiber" %}
                     {% assign fib = line1 %}
-                    {% assign totalFib = row.Amount | plus: 0 | round: 1 %}
+                    {% assign totalFib = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Sugars" %}
                     {% assign sug = line1 %}
-                    {% assign totalSugar = row.Amount | plus: 0 | round: 1 %}
+                    {% assign totalSugar = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Protein" %}
@@ -515,7 +515,6 @@
             {% assign trans = "" %}
             {% assign choles = "" %}
             {% assign sod = "" %}
-            {% assign netCarb = "" %}
             {% assign addedSugar = "" %}
             {% assign sugAlc = "" %}
             {% assign all = "" %}
