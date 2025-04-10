@@ -105,6 +105,13 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <li>Omit the granulated monk fruit</li>
       </ul><br>
 
+    <li><i>Double Flavored Whey</i>
+      <ul>
+        <li>Use a flavored whey protein powder in place of the unflavored.  Vanilla is better but chocolate is good too</li>
+        <li>Omit the granulated monk fruit</li>
+        <li>Replace the cocoa powder in the coating with flavored whey protein powder.  Use vanilla for a white chocolate coating, or chocolate for a milk chocolate coating</li>
+      </ul><br>  
+
     <li><i><a href="https://www.walmart.com/ip/Splenda-ZERO-Monk-Fruit-Zero-Calorie-Liquid-Sweetener-3-38-fl-oz/875266912?classType=REGULAR&from=/search">Liquid Monk Fruit</a></i>
       <ul>
         <li>Use 1 tsp (5 g) of <a href="https://www.walmart.com/ip/Splenda-ZERO-Monk-Fruit-Zero-Calorie-Liquid-Sweetener-3-38-fl-oz/875266912?classType=REGULAR&from=/search">liquid monk fruit</a> (or stevia) as your sweetener in place of the granulated monk fruit</li>
@@ -119,10 +126,18 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
       </ul><br>
 
+    <li><i>Double Honey</i>
+      <ul>
+        <li>Use 4 tbsp (84 g) of honey (or maple syrup) as your sweetener in place of the granulated monk fruit</li>
+        <li>Reduce the water to 1/4 cup (60 g)</li>
+        <li>Still use coconut oil and cocoa powder, but add 2 tbsp (42 g) honey (or maple syrup) to the melted chocolate</li>
+      </ul><br>
+
     <li><i><a href="/recipes/sugar-free-syrup">Sugar Free Syrup</a></i>
       <ul>
         <li>Use 4 tbsp (80 g) of <a href="/recipes/sugar-free-syrup">sugar free syrup</a> as your sweetener in place of the granulated monk fruit</li>
         <li>Reduce the water to 1/4 cup (60 g)</li>
+        <li>Still use coconut oil and cocoa powder, but optionally add 2 tbsp (40 g) sugar free syrup to the melted chocolate </li>
       </ul><br>
 
     <li><i>Reese's</i></li>
@@ -142,11 +157,19 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <li>If your powdered peanut butter is unsalted, then add a 1/4 tsp (1.25 g) of salt to the peanut butter coating</li>
     </ul><br>
 
+    <li><i>White Chocolate Peanut Butter</i></li>
+    <ul>
+      <li>Replace the whey in the filling with 1 cup (96 g) powdered peanut butter</li>
+      <li>If your powdered peanut butter is unsalted, then double the salt in the filling to 1/2 tsp (3 g)</li>
+      <li>Increase the water to 10 tbsp (150 g)</li>
+      <li>Replace the cocoa powder in the coating with vanilla whey protein powder.  You can also use chocolate for a milk chocolate peanut butter protein bar</li>
+    </ul><br>
+
     <li><i>Casein Protein Powder</i></li>
       <ul>
         <li>Replace the whey in the filling with 3 scoops (90 g) of casein protein powder</li>
         <li>I'm using unflavored, but flavored will work too.  Like with the flavored whey, omit the sweetener if using flavored casein</li>
-        <li>Increase the water to 3/4 cup (180 g)</li>
+        <li>Increase the water to 1.25 cup (300 g).  No that's not a typo</li>
       </ul><br>
 </ol>
 
@@ -157,10 +180,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
     max-width: 100%;
     table-layout: auto;
     text-align: center;
+    font-size: 12px;
+  }
+
+  thead, th, td, tr, tbody {
+    font-weight: normal;
   }
 
   th, td {
-    padding: 10px;
     text-align: center;
     white-space: nowrap;
     word-wrap: break-word;
@@ -171,11 +198,21 @@ The following are all good variations I've tried of these protein bars:<br><br>
     left: 0;
     background-color: var(--minima-table-header-bg-color);
     z-index: 5;
-    font-weight: bold;
   }
+
+  @media (max-width: 768px) { /* Adjust for tablets and smaller screens */
+    table, thead, tbody, th, td, tr {
+      font-size: 18px; /* Increase font size */
+    }
+
+    th, td:first-child {
+      font-weight: bold;
+    }
+  }
+
 </style>
 
-<table style="font-size: 16px;">
+<table>
   <thead>
     <tr>
       <th>Nutrient</th>
@@ -185,11 +222,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <th>Almond<br>Flour</th>
       <th>Candy<br>Bar</th>
       <th>Flavored<br>Whey</th>
-      <th>Liquid<br>Monk<br>Fruit</th>
+      <th>Double<br>Flavored<br>Whey</th>
+      <th><a href="https://www.walmart.com/ip/Splenda-ZERO-Monk-Fruit-Zero-Calorie-Liquid-Sweetener-3-38-fl-oz/875266912?classType=REGULAR&from=/search">Liquid<br>Monk<br>Fruit</a></th>
       <th>Honey</th>
+      <th>Double<br>Honey</th>
       <th><a href="/recipes/sugar-free-syrup">Sugar<br>Free<br>Syrup</a></th>
       <th>Reese's</th>
       <th>Double<br>Peanut<br>Butter</th>
+      <th>White<br>Chocolate<br>Peanut<br>Butter</th>
       <th>Casein<br>Protein<br>Powder</th>
     </tr>
   </thead>
@@ -204,11 +244,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
@@ -221,11 +264,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
@@ -238,11 +284,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
@@ -255,11 +304,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
@@ -272,11 +324,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
@@ -289,11 +344,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
@@ -306,11 +364,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+      <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
       <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
@@ -321,11 +382,14 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <td>{% include calcCost.html ing="barbell-almond-ing" %}</td>
       <td>{% include calcCost.html ing="barbell-candy-ing" %}</td>
       <td>{% include calcCost.html ing="barbell-flavored-ing" %}</td>
+      <td>{% include calcCost.html ing="barbell-flavored-double-ing" %}</td>
       <td>{% include calcCost.html ing="barbell-liq-monk-fruit-ing" %}</td>
       <td>{% include calcCost.html ing="barbell-honey-ing" %}</td>
+      <td>{% include calcCost.html ing="barbell-honey-double-ing" %}</td>
       <td>{% include calcCost.html ing="barbell-sf-syrup-ing" %}</td>
       <td>{% include calcCost.html ing="barbell-reeses-ing" %}</td>
       <td>{% include calcCost.html ing="barbell-double-pb-ing" %}</td>
+      <td>{% include calcCost.html ing="barbell-white-pb-ing" %}</td>
       <td>{% include calcCost.html ing="barbell-casein-ing" %}</td>
     </tr>
     <tr>
@@ -336,9 +400,12 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <td>{% include calcMass.html ing="barbell-almond-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-candy-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-flavored-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-flavored-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-liq-monk-fruit-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-honey-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-honey-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-sf-syrup-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-reeses-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-reeses-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-reeses-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-casein-ing" %}</td>

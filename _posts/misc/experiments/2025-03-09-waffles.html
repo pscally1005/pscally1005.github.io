@@ -27,7 +27,7 @@ tags:
 
 <center><img src="/assets/Misc/Experiments/Waffles/waffle.png" alt="" class="smaller-image"></center><br>
 
-&emsp;In the end, I ended up with 4 recipes I wanted to try that I found, plus a 2 bonus ones that I came up with that I think may work as well.  All six recipes use just two ingredients; their star ingredient and eggs.<br><br>
+&emsp;In the end, I ended up with 4 recipes I wanted to try that I found, plus 2 bonus ones that I came up with that I think may work as well.  All six recipes use just two ingredients; their star ingredient and eggs.<br><br>
 
 <center><img src="/assets/Misc/Experiments/Waffles/egg.png" alt="" class="smaller-image"></center><br>
 
@@ -255,30 +255,34 @@ tags:
 
 <style>
     table {
-      border-collapse: collapse;
-      width: 100%;
-      max-width: 100%;
-      table-layout: auto;
-      text-align: center;
+        border-collapse: collapse;
+        width: 100%;
+        max-width: 100%;
+        table-layout: auto;
+        text-align: center;
     }
   
     th, td {
-      padding: 10px;
-      text-align: center;
-      white-space: nowrap;
-      word-wrap: break-word;
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
     }
   
     td:first-child, th:first-child {
-      position: sticky;
-      left: 0;
-      background-color: var(--minima-table-header-bg-color);
-      z-index: 5;
-      font-weight: bold;
+        position: sticky;
+        left: 0;
+        background-color: var(--minima-table-header-bg-color);
+        z-index: 5;
+        font-weight: bold;
+    }
+
+    .table-container {
+        overflow-x: auto; /* Adds horizontal scrolling if needed */
+        max-width: 100%;
     }
 </style>
 
-<center><table style="font-size: 17px;">
+<center><table class="table-container">
     <thead>
       <tr>
         <th>Nutrient</th>
