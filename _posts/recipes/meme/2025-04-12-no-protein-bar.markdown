@@ -19,8 +19,8 @@ start4:
 section4: 
 start5: 
 section5: 
-Prep: 10
-Rest: 60
+Prep: 15
+Rest: 30
 Cook: 
 Source1: https://www.instagram.com/reel/C6rbYlsCn5B/?utm_source=ig_web_copy_link
 Source2: https://www.poormanprotein.com/recipes/copycat-barbell
@@ -48,7 +48,7 @@ Instructions:
 - In a medium bowl, mix together yogurt, vanilla, sweetener, and salt. Add the powdered peanut butter, and combine with a silicone spatula until you have a fully mixed dough
 - <center><img src="/assets/Food/Meme/No protein bar/bowl.jpg" alt="" class="instruction-image"></center>
 
-- Line a plate with parchment paper. Divide the dough in half (85 g each), and shape into 2 protein bars. Freeze for 30 minutes to harden
+- Line a plate with parchment paper. Divide the dough in half (85 g each), and shape into 2 protein bars
 - <center><img src="/assets/Food/Meme/No protein bar/no-choc.jpg" alt="" class="instruction-image"></center>
 
 - In a small bowl, microwave coconut oil for 30 seconds to melt. Add in cocoa powder, and stir with a silicone spatula until smooth. Evenly spread on top of the bars. The chocolate won't look perfect or pretty, and that's okay. Paint the melted chocolate over the top and the sides of the bars
