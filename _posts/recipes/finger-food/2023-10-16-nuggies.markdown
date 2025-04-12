@@ -6,22 +6,22 @@ categories:
 - Recipes
 - Finger Foods
 permalink: /recipes/chicken-nuggets
-image: /assets/Food/Finger Food/Nuggies/nuggies.jpg
+image: /assets/Food/Finger Food/Nuggies/cover.jpg
 ing: nuggies-ing
 facts: nuggies-facts
 servingSize: 1 nugget
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
+section1: Food processor
+start2: Egg
+section2: Other Ingredients
+start3: Sugar free syrup
+section3: Optional
+start4: Ground chicken
+section4: Chicken
 start5: 
 section5: 
 Prep: 30
 Rest: 
-Cook: 14
+Cook: 15
 Source1: https://mealprepmanual.com/nashville-hot-chicken-nuggets/
 Source2: https://www.youtube.com/watch?v=KasX2xTCkOA
 whisk: https://s.samsungfood.com/3Zf1F
@@ -38,21 +38,32 @@ tags:
 - bake
 - french fries
 - vic
-Description: These chicken nuggets are great for a meal or snack, and can be reheated in the air fryer straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.  Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href="sweet-potato-fries">Spiced Sweet Potato Fries</a> for a nutritious version of this meal
+- chicken nuggets
+- dino nuggets
+Description: These chicken nuggets are great for a meal or snack, and can be reheated in the air fryer straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.  Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href="/recipes/sweet-potato-fries">Spiced Sweet Potato Fries</a> for a nutritious version of this meal
 Instructions: 
-- Preheat your oven to 400°F
+- Preheat your oven to 400F, and line 2 cookie sheets with parchment paper
 
-- Wash and cut all of your vegetables. Peel the sweet potatoes, and cut into smaller pieces so the food processor can blend them. Using a food processor, process your vegetables. You want the potato to be in “riced” form
+- Wash your sweet potato, cut off the ends (but don't peel it), and cut into large chunks.  Cut the onion into large chunks.  Add both to a food processor, and blend until you have a "riced" consistency
+- <center><img src="/assets/Food/Finger Food/Nuggies/riced.jpg" alt="" class="instruction-image"></center>
 
-- In a large bowl, combine together the vegetables, chicken, and the rest of the ingredients
+- In a large bowl, combine together all the ingredients except the chicken.  Mix until fully combined.  Oat or almond flour will work in place of casein; I just like to add some more protein.  Optionally, add some sugar free syrup (or any other sweetener) for sweet and spicy nuggets
+- <center><img src="/assets/Food/Finger Food/Nuggies/no-meat.jpg" alt="" class="instruction-image"></center>
 
-- Spray a couple of large sheet pans with oil. Place your meat mixture onto the sheet pan using a cookie scoop or spoon, ensuring you have plenty of space between each nugget. Wet your fingers to prevent sticking and lightly press the balls into a disc with your fingers. You don't want to go too thin or else they will be prone to sticking. You want your nuggets to be about 2 inches in diameter and ¼-½ inch in thickness
+- Add in the chicken, and mix with your hands until fully combined.  It should be pretty sticky
+- <center><img src="/assets/Food/Finger Food/Nuggies/meat.jpg" alt="" class="instruction-image"></center>
 
-- Bake at 400F for 8 minutes and then flip and bake an additional 6 minutes. Transfer to a wire rack to cool as you do the other batches
+- Using a 1.5 tbsp cookie scoop, scoop meatballs onto your pans.  I can fit 15 on a standard sized cookie sheet.  Lightly wet your fingers, and flatten into even discs.  Each nugget should be about 1/4 - 1/2 inch thick and 2 inches in diameter, with about 1 inch between each one
+- <center><img src="/assets/Food/Finger Food/Nuggies/raw.jpg" alt="" class="instruction-image"></center>
 
-- Once the nuggets have cooled, arrange them onto a sheet pan and place them into the freezer, uncovered until they have frozen solid. This will help them not stick together in the bags
+- You can attempt to use cookie cutters to make dino chicken nuggets, but be warned, you're in for a lot of work.  I gave up after a few (as you can see), and went for standard nuggets.  If you are going to make shapes, I would recommend spreading the whole mixture into a thin sheet, and freezing for 1 hour.  Then, cut shapes out with cookie cutters.  See <a href="https://feedingtinybellies.com/homemade-dino-nuggets/#wprm-recipe-container-10983">this recipe</a> for a guide on dino shapes
 
-- Once they are frozen solid, transfer them to a zip top bag, remove all of the air and keep them in your freezer
+- Bake at 400F for about 15 minutes, flipping halfway, or until one side is lightly browned and the internal temperature is at least 165F.  You will get better browning when reheating, so don't worry.  Transfer to a wire rack to cool as you do the other batches
+- <center><img src="/assets/Food/Finger Food/Nuggies/cooked.jpg" alt="" class="instruction-image"></center>
 
-- Reheat using the air fryer at 400°F for about 5 minutes. They just need to thaw and get hot. You can also use the microwave or oven.
+- Once the nuggets have cooled, arrange them in a single layer on a parchment lined plate.  Freeze them, uncovered, until they have frozen solid, at least 2 hours. This will help them not stick together in the bags
+
+- Once they are frozen solid, transfer them to an airtight bag, remove all of the air, and keep them in your freezer
+
+- Reheat straight from the freezer using the air fryer at 400F for about 5 minutes, or until browned and hot.  You can also use the microwave or oven.
 ---

@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Golden Milk, aka Sleepy Smoothie"
+date:   2025-04-14 00:00:00 -0500
+categories:
+- Recipes
+- Drinks
+permalink: /recipes/sleepy-smoothie
+image: /assets/Food/Drinks/Sleepy/sleepy.jpg
+ing: sleepy-ing
+facts: sleepy-facts
+servingSize: 
+section1: Smoothie
+start2: Magnesium Malate
+section2: Optional
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 
+Cook: 
+Source1: https://youtube.com/shorts/HRMMsK3cK48?si=Bv1zuNXegsclFGAh
+Source2: 
+whisk: https://s.samsungfood.com/ygB1v
+tags: 
+- smoothie
+- blender
+- frozen banana
+- anti-inflammatory
+- anti inflammatory
+- sleep
+- magnesium malate
+- turmeric
+- black pepper
+- nutmeg
+- skim milk
+- cinnamon
+- liquid monk fruit
+- unsweetened vanilla almond milk
+- unsweetened almond milk
+Description: Golden milk is a traditional Indian turmeric milk used for reducing inflammation. The black pepper aids in activating the anti inflammatory effects of turmeric, and my addition of <a href="/misc/magnesium">magnesium</a> will relax your muscles and calm your mind.  Pair this with a protein and vegetable as your carb side at dinner time, and you'll be sleeping like a baby
+Instructions: 
+- Break your banana into chunks, and freeze overnight
+
+- Blend your frozen banana with the rest of the ingredients
+
+- Optionally, add a scoop of protein powder. You can also use whatever milk you have on hand; today was almond for me
+---

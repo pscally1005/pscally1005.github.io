@@ -78,6 +78,7 @@ tags:
     <li><a rel="" target="" href="#turkey-breast">Turkey Breast</a></li>
     <li><a rel="" target="" href="#veal">Veal</a></li>
     <li><a rel="" target="" href="#venison">Venison</a></li>
+    <li><a rel="" target="" href="#compare">Nutritional Comparison</a></li>
 </ol>
 <center><img src="/assets/Misc/Nutrition/Meat/chicken.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Meat/steak.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Meat/eggs.png" alt="" class="smaller-image"></center><br>
 
@@ -482,6 +483,383 @@ tags:
     nutritionFacts=nF
 %}
 <center><img src="/assets/Misc/Nutrition/Meat/venison.png" alt="" class="smaller-image"></center><br>
+
+<div id="compare" class="table-of-contents"></div><br>
+<u><font size="+2">Nutritional Comparison</font></u><br><br>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        max-width: 100%;
+        table-layout: auto;
+        text-align: center;
+        font-size: 14px;
+    }
+  
+    th, td {
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+  
+    td:first-child, th:first-child {
+        position: sticky;
+        left: 0;
+        background-color: var(--minima-table-header-bg-color);
+        z-index: 5;
+        font-weight: bold;
+    }
+
+    .table-container {
+        overflow-x: auto; /* Adds horizontal scrolling if needed */
+        max-width: 100%;
+    }
+</style>
+  
+<div class="table-container"><table>
+    <thead>
+        <tr>
+            <th>Nutrient</th>
+            <th><a href="#bacon">Bacon</a></th>
+            <th><a href="#bologna">Bologna</a></th>
+            <th><a href="#chicken-breast">Chicken<br>Breast</a></th>
+            <th><a href="#chicken-thighs">Chicken<br>Thighs</a></th>
+            <th><a href="#eggs">Eggs</a></th>
+            <th><a href="#egg-whites">Egg<br>Whites</a></th>
+            <th><a href="#ground-beef">Ground<br>Beef</a></th>
+            <th><a href="#ground-turkey">Ground<br>Turkey</a></th>
+            <th><a href="#ham">Ham</a></th>
+            <th><a href="#hot-dogs">Hot<br>Dogs</a></th>
+            <th><a href="#lamb">Lamb</a></th>
+            <th><a href="#liver">Liver<br>(Beef)</a></th>
+            <th><a href="#pepperoni">Pepperoni</a></th>
+            <th><a href="#pork-tenderloin">Pork<br>Tenderloin</a></th>
+            <th><a href="#salami">Salami</a></th>
+            <th><a href="#sausage">Sausage</a></th>
+            <th><a href="#spam">Spam</a></th>
+            <th><a href="#steak">Steak</a></th>
+            <th><a href="#turkey-breast">Turkey<br>Breast</a></th>
+            <th><a href="#veal">Veal</a></th>
+            <th><a href="#venison">Venison</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Serving Size</td>
+            <td>113 g</td>
+            <td>30 g</td>
+            <td>113 g</td>
+            <td>113 g</td>
+            <td>50 g</td>
+            <td>46 g</td>
+            <td>113 g</td>
+            <td>113 g</td>
+            <td>113 g</td>
+            <td>57 g</td>
+            <td>113 g</td>
+            <td>113 g</td>
+            <td>28 g</td>
+            <td>113 g</td>
+            <td>28 g</td>
+            <td>113 g</td>
+            <td>56 g</td>
+            <td>113 g</td>
+            <td>113 g</td>
+            <td>113 g</td>
+            <td>113 g</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Calories" %}
+            {% assign rnd = "0" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Protein" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Fat" %}
+            {% assign rnd = "0" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Vitamin B1" %}
+            {% assign rnd = "2" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Vitamin B2" %}
+            {% assign rnd = "2" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Vitamin B3" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Vitamin B6" %}
+            {% assign rnd = "2" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Vitamin B12" %}
+            {% assign rnd = "2" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Iron" %}
+            {% assign rnd = "2" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Selenium" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Zinc" %}
+            {% assign rnd = "2" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="bacon-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="bologna-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="egg-whites-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="ham-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hot-dogs-facts" servingSize="57" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="lamb-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pepperoni-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pork-tenderloin-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="salami-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="sausage-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="spam-facts" servingSize="56" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="steak-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="turkey-breast-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="veal-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="venison-facts" servingSize="113" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+    </tbody>
+</table></div>
+<i>Scroll to the right to read information about every meat</i><br><br>
+
+<center><img src="/assets/Misc/Nutrition/Meat/nutrition-facts-label.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">References</font></u><br>
 <ol>

@@ -60,6 +60,7 @@ tags:
     <li><a rel="" target="" href="#pine-nuts">Pine Nuts</a></li>
     <li><a rel="" target="" href="#pistachios">Pistachios</a></li>
     <li><a rel="" target="" href="#walnuts">Walnuts</a></li>
+    <li><a rel="" target="" href="#compare">Nutritional Comparison</a></li>
 </ol>
 <center><img src="/assets/Misc/Nutrition/Nuts/mixed-nuts-2.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Nuts/mixed-nuts-3.png" alt="" class="smaller-image"></center><br>
 
@@ -280,6 +281,249 @@ tags:
     nutritionFacts=nF
 %}
 <center><img src="/assets/Misc/Nutrition/Nuts/walnuts.png" alt="" class="smaller-image"></center><br>
+
+<div id="compare" class="table-of-contents"></div><br>
+<u><font size="+2">Nutritional Comparison</font></u><br><br>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        max-width: 100%;
+        table-layout: auto;
+        text-align: center;
+        font-size: 14px;
+    }
+  
+    th, td {
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+  
+    td:first-child, th:first-child {
+        position: sticky;
+        left: 0;
+        background-color: var(--minima-table-header-bg-color);
+        z-index: 5;
+        font-weight: bold;
+    }
+
+    .table-container {
+        overflow-x: auto; /* Adds horizontal scrolling if needed */
+        max-width: 100%;
+    }
+</style>
+  
+<div class="table-container"><table>
+    <thead>
+        <tr>
+            <th>Nutrient</th>
+            <th><a href="#almonds">Almonds</a></th>
+            <th><a href="#brazil-nuts">Brazil<br>Nuts</a></th>
+            <th><a href="#cashews">Cashews</a></th>
+            <th><a href="#chestnuts">Chestnuts</a></th>
+            <th><a href="#coconut">Coconut</a></th>
+            <th><a href="#hazelnuts">Hazelnuts</a></th>
+            <th><a href="#macadamia-nuts">Macadamia<br>Nuts</a></th>
+            <th><a href="#peanuts">Peanuts</a></th>
+            <th><a href="#pecans">Pecans</a></th>
+            <th><a href="#pine-nuts">Pine<br>Nuts</a></th>
+            <th><a href="#pistachios">Pistachios</a></th>
+            <th><a href="#walnuts">Walnuts</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Serving Size</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+            <td>28 g</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Calories" %}
+            {% assign rnd = "0" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Protein" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Fat" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Net Carbs" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Fiber" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Vitamin E" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Copper" %}
+            {% assign rnd = "2" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Magnesium" %}
+            {% assign rnd = "0" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Manganese" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+        <tr>
+            {% assign nutrient = "Potassium" %}
+            {% assign rnd = "0" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="cashews-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="chestnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="coconut-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="macadamia-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="peanuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pecans-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pine-nuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html facts="walnuts-facts" servingSize="28" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+        </tr>
+    </tbody>
+</table></div>
+<i>Scroll to the right to read information about every nut</i><br><br>
+
+<center><img src="/assets/Misc/Nutrition/Nuts/nutrition-facts-label.png" alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">References</font></u><br>
 <ol>

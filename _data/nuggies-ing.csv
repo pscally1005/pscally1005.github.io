@@ -1,9 +1,9 @@
 Ingredient,Amount,Unit,Description
-"Ground chicken thighs",454,g,"1 lb"
 "Sweet potato",133,g,"1 medium"
 "Onion",110,g,"1 medium"
 "Egg",50,g,"1 large"
 "Casein protein powder, unflavored",20,g,"2/3 scoop"
+"Extra virgin olive oil",15,g,"1 tbsp"
 "Minced garlic",15,g,"1 tbsp"
 "Hot sauce",15,g,"1 tbsp"
 "Salt",6,g,"1 tsp"
@@ -12,6 +12,6 @@ Ingredient,Amount,Unit,Description
 "Onion powder",3,g,"1 tsp"
 "Garlic powder",3,g,"1 tsp"
 "Cayenne pepper",1.5,g,"1/2 tsp"
-"Honey",11,g,"1/2 tbsp"
-"Extra virgin olive oil",15,g,"1 tbsp"
-Servings,38
+"Sugar free syrup",20,g,"1 tbsp"
+"Ground chicken",454,g,"1 lb"
+Servings,42
