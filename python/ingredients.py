@@ -266,7 +266,7 @@ def ingredients(food):
         return str("Unsweetened vanilla almond milk")
     elif food == "Cheese, feta":
         return str("Feta cheese")   
-    elif food == "Egg, fresh, raw, white":
+    elif food == "Egg, fresh, raw, white" or food == "Eggs, egg white, Large, Grade A":
         return str("Egg whites")
     elif food == "Eggs, egg yolk, Large, Grade A":
         return str("Egg yolk")

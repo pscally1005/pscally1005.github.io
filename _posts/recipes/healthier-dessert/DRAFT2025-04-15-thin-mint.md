@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Homemade Thin Mint Cookies"
+date:   2025-04-15 00:00:00 -05000
+categories: 
+- Recipes
+- Healthier Dessert
+permalink: /recipes/thin-mints
+image: /assets/Food/Healthier Dessert/Thin Mints/cover.jpg
+ing: thinmint-ing
+facts: thinmint-facts
+servingSize: 1 cookie
+section1: Wet Ingredients
+start2: Oat flour
+section2: Dry Ingredients
+start3: Extra virgin coconut oil
+section3: Chocolate Coating
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 28
+Rest: 60
+Cook: 12
+Source1: https://www.poormanprotein.com/recipes/cut-out-cookies
+Source2: https://www.youtube.com/watch?v=GYVzjw1T9AE
+whisk: https://s.samsungfood.com/LsNlx
+tags: 
+- girl scout
+- taglong
+- samoas
+- mint extract
+- sugar cookies
+- cut out cookies
+- cocoa powder
+- chocolate
+- oat flour
+- rolled oats
+- honey
+- natural peanut butter
+- tahini
+- unsweetened applesauce
+- extra virgin coconut oil
+Description: It's Girl Scout cookie season, which means Tagalongs, Samoas, and of course, Thin Mints.  Today I'm making a healthier thin mint cookie with a lower sugar and fat.  This crispy chocolate cookie coated in a bittersweet chocolate is a delicious and healthier alternative.  Plus, they're way cheaper; no more spending $6 on a tiny box of 32 cookies; this batch of 34 cookies costs just $2.70
+Instructions: 
+- In a large bowl, mix together the wet ingredients - egg, honey, peanut butter, applesauce, and mint extract
+
+- Any liquid sweetener will work, like honey, maple syrup, or sugar free syrup. For the nut butter, I'm using natural peanut butter today, but tahini, almond butter, or any other nut/seed butter will work as well. Be careful with the mint extract; it's very strong. Start with less, and adjust it to your taste
+
+- Add the dry ingredients - oat flour, cocoa powder, cornstarch, baking soda, and salt. Combine with a silicone spatula until you have a dough ball. Chill in the fridge for 30 minutes
+- <center><img src="/assets/Food/Healthier Dessert/Thin Mints/bowl.jpg" alt="" class="instruction-image"></center>
+
+- Preheat your oven to 350F, and line a cookie sheet with parchment paper
+
+- Place a large piece of parchment paper on your counter, and add the dough ball on the paper. Top with another piece of parchment, and roll out the dough to about 1/4" thick
+- <center><img src="/assets/Food/Healthier Dessert/Thin Mints/rolled.jpg" alt="" class="instruction-image"></center>
+
+- Cut your cookies into your desired shape, and transfer to the sheet. Roll out any dough scraps left over to use up all the cookies
+- <center><img src="/assets/Food/Healthier Dessert/Thin Mints/raw.jpg" alt="" class="instruction-image"></center>
+
+- Bake at 350F for about 12 minutes, or until firm. Transfer to a wire rack to totally cool.  When cooled, the cookies with be crispy, and snap when broken in half
+- <center><img src="/assets/Food/Healthier Dessert/Thin Mints/baked.jpg" alt="" class="instruction-image"></center>
+
+- In a medium bowl, microwave coconut oil for 1 minute to melt. Stir in cocoa powder and sweetener with a silicone spatula. Honey, maple syrup, or sugar free syrup will all work
+
+- Lightly coat each cookie in the chocolate, using 2 forks to drip out excess chocolate. Transfer back to the wire rack. Chill for 30 minutes to harden the chocolate before removing from the wire rack
+
+- <center></center><i>Note 1</i>:<b></b> Compared to <a href="https://www.walmart.com/ip/Great-Value-Fudge-Mint-Cookies-10-oz/11997740?classType=REGULAR&athbdg=L1200&from=/search">thin mints</a>, my cookies have less sugar, 5x the protein and fiber, and a comparable amount of fat and calories.  My fat source is healthy nut butter and coconut oil, as opposed to hydroginated seed oils in the original cookies.  These homemade cookies are also free of refined white flour, granulated sugar, natural and artificial flavors, preservatives, and soy lecithin
+- <center><img src="/assets/Food/Healthier Dessert/Thin Mints/thin-mint.jpg" alt="" class="larger-image"></center>
+
+- <center></center><i>Note 2</i>:<b></b> I have never tried to make these into Tagalongs, but here's what I would suggest if you're interested:<ul><li>Replace cocoa powder with either powdered peanut butter or oat flour</li><li>Replace mint extract with almond extract</li><li>Add a small spoonful of peanut butter on top of each baked cookie</li><li>Freeze to keep the peanut butter in place before coating the cookie in chocolate</li></ul>
+---
