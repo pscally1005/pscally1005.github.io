@@ -43,5 +43,9 @@ Instructions:
 - In a medium bowl, whisk together all ingredients until fully combined. Adjust sweetness and salt as desired. Store in the fridge for up to 1 week
 - <center><img src="/assets/Food/Savory Sauces/No Honey Mustard/salad.jpg" alt="" class="instruction-image"></center>
 
+- Plain nonfat greek yogurt will work in place of cottage cheese.  I've also made this recipe using whole milk greek yogurt, and just removed one of the tablespoons of oil
+
+- You can also use 1/2 tsp (2.5 g) of liquid monk fruit or stevia as your sweetener in place of the granulated monk fruit.  2 tbsp (40 g) sugar free syrup, maple syrup, or (ironically) honey should also work too
+
 - Compared to typical <a href="https://www.walmart.com/ip/Great-Value-Honey-Mustard-Dressing-Dip-16-fl-oz/16618893?classType=VARIANT&athbdg=L1200&from=/search">bottled honey mustard</a>, my version has a third of the fat and calories, with protein and no added sugar, something the store bought version can't say
 ---
