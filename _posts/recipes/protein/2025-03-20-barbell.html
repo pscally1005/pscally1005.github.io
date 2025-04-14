@@ -174,48 +174,47 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <li>I'm using unflavored, but flavored will work too.  Like with the flavored whey, omit the sweetener if using flavored casein</li>
         <li>Increase the water to 1.25 cup (300 g).  No that's not a typo</li>
       </ul><br>
+
+    <li><i>Lower Sugar</i></li>
+      <ul>
+        <li>This variation is for those who want less added sugar than the candy bar, honey, or double honey versions, but not sugar free like the rest.  It's a good compromise of sugar free flavored protein powder and honey sweetened chocolate</li>
+        <li>Use a flavored whey protein powder in place of the unflavored.  Vanilla is better but chocolate is good too</li>
+        <li>Omit the granulated monk fruit</li>
+        <li>Still use coconut oil and cocoa powder, but add 2 tbsp (42 g) honey and 1/2 tsp (2.5 g) liquid monk fruit to the melted chocolate</li>
+      </ul><br>
 </ol>
 
 <style>
   table {
-    border-collapse: collapse;
-    width: 100%;
-    max-width: 100%;
-    table-layout: auto;
-    text-align: center;
-    font-size: 12px;
-  }
-
-  thead, th, td, tr, tbody {
-    font-weight: normal;
+      border-collapse: collapse;
+      width: 100%;
+      max-width: 100%;
+      table-layout: auto;
+      text-align: center;
+      font-size: 14px;
   }
 
   th, td {
-    text-align: center;
-    white-space: nowrap;
-    word-wrap: break-word;
+      text-align: center;
+      white-space: nowrap;
+      word-wrap: break-word;
   }
 
   td:first-child, th:first-child {
-    position: sticky;
-    left: 0;
-    background-color: var(--minima-table-header-bg-color);
-    z-index: 5;
-  }
-
-  @media (max-width: 768px) { /* Adjust for tablets and smaller screens */
-    table, thead, tbody, th, td, tr {
-      font-size: 18px; /* Increase font size */
-    }
-
-    th, td:first-child {
+      position: sticky;
+      left: 0;
+      background-color: var(--minima-table-header-bg-color);
+      z-index: 5;
       font-weight: bold;
-    }
   }
 
+  .table-container {
+      overflow-x: auto; /* Adds horizontal scrolling if needed */
+      max-width: 100%;
+  }
 </style>
 
-<table>
+<div class="table-container"><table>
   <thead>
     <tr>
       <th>Nutrient</th>
@@ -234,6 +233,7 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <th>Double<br>Peanut<br>Butter</th>
       <th>White<br>Chocolate<br>Peanut<br>Butter</th>
       <th>Casein<br>Protein<br>Powder</th>
+      <th>Lower<br>Sugar</th>
     </tr>
   </thead>
   <tbody>
@@ -256,6 +256,7 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-low-sug-ing" facts="barbell-low-sug-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
         {% assign nutrient = "Protein" %}
@@ -276,6 +277,7 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-low-sug-ing" facts="barbell-low-sug-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
         {% assign nutrient = "Fat" %}
@@ -296,26 +298,28 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-low-sug-ing" facts="barbell-low-sug-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
-      {% assign nutrient = "Net Carbs" %}
-      {% assign rnd = "1" %}
-      <td>{{ nutrient }}</td>
-      <td>{% include getNutrient.html ing="barbell-unsw-ing" facts="barbell-unsw-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-sug-free-choc-ing" facts="barbell-sug-free-choc-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-oat-ing" facts="barbell-oat-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        {% assign nutrient = "Net Carbs" %}
+        {% assign rnd = "1" %}
+        <td>{{ nutrient }}</td>
+        <td>{% include getNutrient.html ing="barbell-unsw-ing" facts="barbell-unsw-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-sug-free-choc-ing" facts="barbell-sug-free-choc-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-oat-ing" facts="barbell-oat-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-low-sug-ing" facts="barbell-low-sug-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
         {% assign nutrient = "Fiber" %}
@@ -336,64 +340,68 @@ The following are all good variations I've tried of these protein bars:<br><br>
         <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
         <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-low-sug-ing" facts="barbell-low-sug-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
-      {% assign nutrient = "Added Sugar" %}
-      {% assign rnd = "1" %}
-      <td>{{ nutrient }}</td>
-      <td>{% include getNutrient.html ing="barbell-unsw-ing" facts="barbell-unsw-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-sug-free-choc-ing" facts="barbell-sug-free-choc-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-oat-ing" facts="barbell-oat-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        {% assign nutrient = "Added Sugar" %}
+        {% assign rnd = "1" %}
+        <td>{{ nutrient }}</td>
+        <td>{% include getNutrient.html ing="barbell-unsw-ing" facts="barbell-unsw-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-sug-free-choc-ing" facts="barbell-sug-free-choc-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-oat-ing" facts="barbell-oat-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-low-sug-ing" facts="barbell-low-sug-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
-      {% assign nutrient = "Sugar Alcohol" %}
-      {% assign rnd = "1" %}
-      <td>{{ nutrient }}</td>
-      <td>{% include getNutrient.html ing="barbell-unsw-ing" facts="barbell-unsw-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-sug-free-choc-ing" facts="barbell-sug-free-choc-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-oat-ing" facts="barbell-oat-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-      <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        {% assign nutrient = "Sugar Alcohol" %}
+        {% assign rnd = "1" %}
+        <td>{{ nutrient }}</td>
+        <td>{% include getNutrient.html ing="barbell-unsw-ing" facts="barbell-unsw-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-sug-free-choc-ing" facts="barbell-sug-free-choc-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-oat-ing" facts="barbell-oat-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-almond-ing" facts="barbell-almond-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-candy-ing" facts="barbell-candy-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-ing" facts="barbell-flavored-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-flavored-double-ing" facts="barbell-flavored-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-liq-monk-fruit-ing" facts="barbell-liq-monk-fruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-ing" facts="barbell-honey-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-honey-double-ing" facts="barbell-honey-double-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-sf-syrup-ing" facts="barbell-sf-syrup-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-reeses-ing" facts="barbell-reeses-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-double-pb-ing" facts="barbell-double-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-white-pb-ing" facts="barbell-white-pb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-casein-ing" facts="barbell-casein-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+        <td>{% include getNutrient.html ing="barbell-low-sug-ing" facts="barbell-low-sug-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
     </tr>
     <tr>
-      <td>Cost</td>
-      <td>{% include calcCost.html ing="barbell-unsw-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-sug-free-choc-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-oat-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-almond-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-candy-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-flavored-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-flavored-double-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-liq-monk-fruit-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-honey-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-honey-double-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-sf-syrup-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-reeses-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-double-pb-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-white-pb-ing" %}</td>
-      <td>{% include calcCost.html ing="barbell-casein-ing" %}</td>
+        <td>Cost</td>
+        <td>{% include calcCost.html ing="barbell-unsw-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-sug-free-choc-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-oat-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-almond-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-candy-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-flavored-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-flavored-double-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-liq-monk-fruit-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-honey-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-honey-double-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-sf-syrup-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-reeses-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-double-pb-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-white-pb-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-casein-ing" %}</td>
+        <td>{% include calcCost.html ing="barbell-low-sug-ing" %}</td>
     </tr>
     <tr>
       <td>Filling<br>Weight</td>
@@ -412,7 +420,8 @@ The following are all good variations I've tried of these protein bars:<br><br>
       <td>{% include calcMass.html ing="barbell-reeses-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-reeses-ing" %}</td>
       <td>{% include calcMass.html ing="barbell-casein-ing" %}</td>
+      <td>{% include calcMass.html ing="barbell-flavored-ing" %}</td>
     </tr>
   </tbody>
-</table>
+</table></div>
 <i>Scroll to the right to read information about every variation</i><br><br>

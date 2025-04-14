@@ -21,7 +21,7 @@ def ingredients(food):
         return str("Chickpeas, drained and rinsed")
     elif food == "Beans, drained solids, canned, pinto" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto":
         return str("Pinto beans, drained and rinsed")
-    elif food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, canned, mature seeds, all types, black" or food == "Beans, drained solids, canned, black":
+    elif food == "Beans, with salt, boiled, cooked, mature seeds, black" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, canned, mature seeds, all types, black" or food == "Beans, drained solids, canned, black":
         return str("Black beans, drained and rinsed")
     elif food == "Beans, drained solids, canned, mature seeds, red, kidney" or food == "Beans, canned, mature seeds, all types, kidney":
         return str("Kidney beans, drained and rinsed")
@@ -93,6 +93,8 @@ def ingredients(food):
         return str("Chicken bouillon powder")
     elif food == "Spices, ground, turmeric":
         return str("Turmeric, ground")
+    elif food == "Seaweed, dried":
+        return str("Dried seaweed")
     
     
     # Oil, vinegar, other liquids
@@ -232,6 +234,10 @@ def ingredients(food):
         return str("Sugar pumpkin")
     elif food == "Chickpea flour (besan)":
         return str("Chickpea flour")
+    elif food == "Coffee, not reconstituted , decaffeinated, instant":
+        return str("Ground coffee, decaf")
+    elif food == "Seeds, hulled, hemp seed":
+        return str("Hemp hearts")
     
     # Dairy & Eggs
     elif food == "Cheese, blue":
@@ -390,6 +396,8 @@ def ingredients(food):
         return str("Vegetables")
 
     # Canned & jarred    
+    elif food == "Ginger root, pickled":
+        return str("Pickled ginger")
     elif food == "cheese-sauce":
         return str("Gooey cheese sauce")
     elif food == "sauce":
@@ -432,7 +440,7 @@ def ingredients(food):
         return str("Anchovies, canned")
     elif food == "Yeast extract by MARMITE":
         return str("Marmite")
-    elif food == "Raw sauerkraut by Bader Publishing":
+    elif food == "Sauerkraut, solids and liquids, canned" or food == "Raw sauerkraut by Bader Publishing":
         return str("Sauerkraut")
     
     # Nuts, chocolate, dried fruit

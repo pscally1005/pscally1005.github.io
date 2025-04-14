@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Healthy Microwave Popcorn"
+date:   2025-04-17 00:00:00 -05000
+categories: 
+- Recipes
+- Finger Foods
+permalink: /recipes/popcorn
+image: /assets/Food/Finger Food/Popcorn/popcorn.jpg
+ing: popcorn-ing
+facts: popcorn-facts
+servingSize: 
+section1: Popcorn
+start2: Extra virgin olive oil
+section2: Seasonings
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 2
+Rest: 
+Cook: 3
+Source1: https://cassclaycooking.com/homemade-healthier-microwave-popcorn/#recipe
+Source2: 
+whisk: https://s.samsungfood.com/gcAMc
+tags: 
+- popcorn kernels
+- movies
+- pfas chemicals
+- forever chemicals
+- movie theater
+- cinema
+- candy
+- volume eating
+- extra virgin olive oil
+- nooch
+- nutritional yeast
+Description: Despite being thought of as a junk food during movies, popcorn can actually be a very healthy and filling snack if done correctly.  It's time to ditch those microwave bags of popcorn which are full of trans fats, sugar, and PFAS chemicals.  Going homemade is the way.  Just pop some plain kernels in a brown paper bag in the microwave, season, and enjoy.  This big bowl of food has under 180 calories and over 6 grams of fiber and 7 grams of protein, while taking less than 5 minutes to make!
+Instructions: 
+- Add your popcorn to a brown paper bag, and fold down the top 2-3 times
+
+- Microwave on high for about 2-3 minutes, or until the popping occurs more than a second apart
+
+- Transfer to a large bowl.  Season with oil and desired slices.  I'm going with nutritional yeast, paprika, and salt here, but you can use whatever you want.  Try coconut oil, liquid monk fruit, and cinnamon for a dessert popcorn!
+---

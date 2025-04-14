@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "The Wacky Cake"
+date:   2025-04-21 00:00:00 -05000
+categories: 
+- Recipes
+- Meme Recipes
+permalink: /recipes/wacky-cake
+image: /assets/Food/Meme/Wacky cake/cover.jpg
+ing: wackycake-ing
+facts: wackycake-facts
+servingSize: 1 slice
+section1: Beans
+start2: Sauerkraut juice
+section2: Wet
+start3: Hemp hearts
+section3: Dry
+start4: Baking soda
+section4: Last
+start5: 
+section5: 
+Prep: 15
+Rest: 
+Cook: 60
+Source1: https://www.poormanprotein.com/assets/Food/Meme/Wacky%20cake/No-Bake%20Sweet%20Potato%20Cake.pdf
+Source2: 
+whisk: https://s.samsungfood.com/TJXQB
+tags: 
+- wacky cake
+- sauerkraut
+- coffee
+- decaf
+- pickled ginger
+- seaweed
+- nori sheets
+- nori flakes
+- hemp hearts
+- hemp seeds
+- apple cider vinegar
+- hot sauce
+- honey
+- liquid monk fruit
+- tahini
+- chia seeds
+- turmeric
+- paprika
+- savory
+- quick bread
+- gluten free
+Description: Oh boy.  My brother sent me this ridiculous ChatGPT generated cake recipe, and I wanted to try making it for when he came to visit.  This wacky cake is certainly the strangest thing I've ever made.  It's a savory black bean cake that's shockingly way better than it sounds.  Ignore that it's called cake; this concoction is more of a savory quick bread.  It acts more so as a dinner carb side than a dessert
+Instructions: 
+- Preheat your oven to 350F, and line a 9" cake pan with parchment paper. Lightly spray the paper
+
+- Drain and rinse your beans. Add all ingredients to a food processor, and blend until smooth. Blend in the baking soda last. As soon as the baking soda interacts with the vinegar, the reaction to rise the cake will begin, so adding it as late as possible helps to get more optimal lift (am I really giving advice when I'm baking a cake with sauerkraut, seaweed, and ginger??)
+- <center><img src="/assets/Food/Meme/Wacky cake/processor.jpg" alt="" class="instruction-image"></center>
+
+- Transfer the batter to your pan, and smooth out the top
+- <center><img src="/assets/Food/Meme/Wacky cake/raw.jpg" alt="" class="instruction-image"></center>
+
+- Bake at 350F for 30 minutes, uncovered. Cover with foil, and bake an additional 30 minutes. The cake should be set on the top, a toothpick should come out with some wet crumbs, and the internal temperature should be at least 200F
+- <center><img src="/assets/Food/Meme/Wacky cake/baked.jpg" alt="" class="instruction-image"></center>
+
+- Chill in the fridge overnight before slicing
+---

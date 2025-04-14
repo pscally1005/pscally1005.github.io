@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/hollandaise
-image: /assets/Food/Savory Sauces/Hollandaise/hollandaise.jpg
+image: /assets/Food/Savory Sauces/Hollandaise/cover.jpg
 ing: hollandaise-ing
 facts: hollandaise-facts
 servingSize: 
