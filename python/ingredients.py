@@ -310,6 +310,8 @@ def ingredients(food):
         return str("Tomato")
     elif food == "Tomatoes, sun-dried":
         return str("Sun dried tomatoes")
+    elif food == "Tomatoes, raw, grape":
+        return str("Cherry tomatoes")
     elif food == "Peppers, raw, red, sweet" or food == "Pepper, raw, red, sweet":
         return str("Bell pepper")
     elif food == "Sweet potato, unprepared, raw" or food == "Sweet potato, washed":
