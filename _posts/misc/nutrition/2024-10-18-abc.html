@@ -57,6 +57,8 @@ tags:
 - zinc
 - manganese
 - phosphorus
+- vitamin b6
+- pyridoxine
 ---
 <u><font size="+2">Introduction</font></u><br>
 &emsp;Everyone knows their ABCs, right?  Well, I'm calling this list the ABCs of Nutrients.  Letter by letter, we'll be going down the alphabet, listing an important nutrient for each letter.  You can also check out a similar post of mine called <a href="/misc/food-alphabet">The ABCs of Food</a>, where I discussed 3 different foods per letter of the alphabet.  This may be an odd way to get your kids to learn the alphabet...<br><br>
@@ -66,7 +68,7 @@ tags:
 <u><font size="+2">Alphabet</font></u><br>
 <ol>
     <li><a rel="" target="" href="#A">A is for Vitamin A</a></li>
-    <li><a rel="" target="" href="#B">B is for Vitamin B12 (Cobalamin)</a></li>
+    <li><a rel="" target="" href="#B">B is for Vitamin B6 (Pyridoxine)</a></li>
     <li><a rel="" target="" href="#C">C is for Vitamin C</a></li>
     <li><a rel="" target="" href="#D">D is for Vitamin D</a></li>
     <li><a rel="" target="" href="#E">E is for Vitamin E</a></li>
@@ -94,6 +96,8 @@ tags:
 </ol>  
 <br><br><center><img src="/assets/Misc/Nutrition/ABC/blackboard.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/ABC/minerals.png" alt="" class="smaller-image"></center><br>
 
+{% assign fetch = "per100g" %}
+
 <div id="A" class="table-of-contents"></div>
 <br><i><font size="+2">A is for Vitamin A</font></i><br><br>
 <b>Description</b><br>
@@ -113,7 +117,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Vitamin A" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "0" %}
     <li><a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> :: {% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Peppers%2C_raw%2C_red%2C_sweet_nutritional_value.html?size=100+g">Bell peppers</a> :: {% include getNutrient.html facts="pepper-facts" servingSize="119" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -132,45 +135,47 @@ tags:
 <center><img src="/assets/Misc/Nutrition/ABC/carrots.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/ABC/eye.png" alt="" class="smaller-image"></center><br>
 
 <div id="B" class="table-of-contents"></div>
-<br><i><font size="+2">B is for Vitamin B12 (Cobalamin)</font></i><br><br>
+<br><i><font size="+2">B is for Vitamin B6 (Pyridoxine)</font></i><br><br>
 <b>Description</b><br>
-&emsp;Vitamin B12 (Colbalamin) is an essential water soluble vitamin found preominantly in animal source foods, like meat, dairy, eggs, and fish.  It plays a large role in energy production, as B12 helps your body convert food into <a href="/misc/nutrient-alphabet#G">glucose</a>, which is why many vegans or people deficient in vitamin B12 may have low energy.  It is also important for brain, nervous system, heart, and bone health.  The RDA is 2.4 mcg.<br><br>
+&emsp;Instead of B standing for vitamin B12, I've chosen vitamin B6.  For an in depth breakdown into Vitamin B12, be sure to check out my article <a href="/misc/vitamin-b12">B-Ware the Deficiency: The Power of B12</a>.<br><br>
+
+&emsp;Vitamin B6 (Pyridoxine) is an essential water-soluble vitamin found in a variety of foods including chicken, fish, potatoes, and bananas. It plays a crucial role in protein metabolism and cognitive development by helping your body use and store energy from protein and carbs. People who are deficient in vitamin B6 may experience irritability, depression, or confusion. The RDA for vitamin B6 is 1.3 mg for adult men and women under 50, and 1.7 mg for those over 50.<br><br>
 
 <b>Benefits</b><br>
 <ul>
-    <li>Energy production</li>
-    <li>Red blood cell formation</li>
-    <li>Nervous system health</li>
-    <li>Brain function</li>
-    <li>DNA synthesis</li>
-    <li>Heart health</li>
+    <li>Protein metabolism</li>
+    <li>Neurotransmitter production</li>
+    <li>Brain development and function</li>
+    <li>Immune system support</li>
+    <li>Hormone regulation</li>
+    <li>Red blood cell production</li>
 </ul><br>
 
 <b>Sources (per 100 g)</b><br>
 <ul>
-    {% assign nutrient = "Vitamin B12" %}
-    {% assign fetch = "per100g" %}
-    {% assign rnd = "2" %}
+    {% assign nutrient = "Vitamin B6" %}
+    {% assign rnd = "3" %}
+    <li><a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> :: {% include getNutrient.html facts="avocado-facts" servingSize="136" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g">Bananas</a> :: {% include getNutrient.html facts="banana-facts" servingSize="110" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> :: {% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g">Brown rice</a> :: {% include getNutrient.html facts="brown-rice-facts" servingSize="46" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> :: {% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g">Chicken thighs (boneless, skinless)</a> :: {% include getNutrient.html facts="chicken-thighs-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Clams%2C_canned_26303180_nutritional_value.html?size=100+g">Clams</a> :: {% include getNutrient.html facts="clam-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_cod_nutritional_value.html?size=100%20g">Cod</a> :: {% include getNutrient.html facts="cod-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Cheese%2C_large_or_small_curd%2C_dry%2C_uncreamed%2C_nonfat%2C_cottage_nutritional_value.html?size=100+g">Cottage cheese (nonfat)</a> :: {% include getNutrient.html facts="cottage-cheese-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> :: {% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Yogurt%2C_nonfat%2C_plain%2C_Greek_nutritional_value.html?size=100+g">Greek yogurt (plain, nonfat)</a> :: {% include getNutrient.html facts="yogurt-facts" servingSize="170" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g">Chickpeas</a> :: {% include getNutrient.html facts="chickpeas-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">Ground beef (93/7)</a> :: {% include getNutrient.html facts="ground-beef-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g">Ground turkey (93/7)</a> :: {% include getNutrient.html facts="ground-turkey-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Halibut%2C_raw_26118000_nutritional_value.html?size=100%20g">Halibut</a> :: {% include getNutrient.html facts="halibut-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned%2C_jack%2C_mackerel_nutritional_value.html?size=100+g">Mackerel</a> :: {% include getNutrient.html facts="mackerel-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Milk%2C_with_added_vitamin_A_and_vitamin_D_%28fat_free_or_skim%29%2C_fluid%2C_nonfat_nutritional_value.html?size=100+g">Milk (skim)</a> :: {% include getNutrient.html facts="skim-milk-facts" servingSize="240" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Oysters%2C_raw_26315100_nutritional_value.html?size=100+g">Oysters</a> :: {% include getNutrient.html facts="oyster-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Nuts%2C_hazelnuts_or_filberts_nutritional_value.html?size=100+g">Hazelnuts</a> :: {% include getNutrient.html facts="hazelnuts-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_pistachio_nuts_nutritional_value.html?size=100+g">Pistachios</a> :: {% include getNutrient.html facts="pistachios-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Potatoes%2C_raw%2C_flesh_and_skin_nutritional_value.html?size=100+g">Potatoes</a> :: {% include getNutrient.html facts="potato-facts" servingSize="170" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g">Salmon</a> :: {% include getNutrient.html facts="salmon-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
-    <li><a href="https://www.nutritionvalue.org/Sardines%2C_packed_in_water%2C_boneless%2C_skinless_26139190_nutritional_value.html?size=100+g">Sardines</a> :: {% include getNutrient.html facts="sardine-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100+g">Spinach</a> :: {% include getNutrient.html facts="spinach-fresh-facts" servingSize="30" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100%20g">Sunflower seeds</a> :: {% include getNutrient.html facts="sunflower-seeds-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
+    <li><a href="https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g">Sweet potatoes</a> :: {% include getNutrient.html facts="sweet-potato-facts" servingSize="130" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g">Tuna</a> :: {% include getNutrient.html facts="tuna-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
 </ul><br>
 
-<center><img src="/assets/Misc/Nutrition/ABC/beef.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/ABC/good-mood.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/ABC/pistachio.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/ABC/neuroplasticity.png" alt="" class="smaller-image"></center><br>
 
 <div id="C" class="table-of-contents"></div>
 <br><i><font size="+2">C is for Vitamin C</font></i><br><br>
@@ -192,7 +197,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Vitamin C" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "1" %}
     <li><a href="https://www.nutritionvalue.org/Peppers%2C_raw%2C_red%2C_sweet_nutritional_value.html?size=100+g">Bell peppers</a> :: {% include getNutrient.html facts="pepper-facts" servingSize="119" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Broccoli%2C_raw_nutritional_value.html?size=100%20g">Broccoli</a> :: {% include getNutrient.html facts="broccoli-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -238,7 +242,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Vitamin D" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "1" %}
     <li><a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=100+g">Eggs</a> :: {% include getNutrient.html facts="eggs-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Halibut%2C_raw_26118000_nutritional_value.html?size=100%20g">Halibut</a> :: {% include getNutrient.html facts="halibut-facts" servingSize="85" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -268,7 +271,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Vitamin E" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "1" %}
     <li><a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> :: {% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> :: {% include getNutrient.html facts="avocado-facts" servingSize="136" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -307,7 +309,6 @@ tags:
 <b>Sources</b><br>
 <ul>
     {% assign nutrient = "Vitamin B9" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "0" %}
     <li><a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> :: {% include getNutrient.html facts="avocado-facts" servingSize="136" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> :: {% include getNutrient.html facts="black-beans-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -379,7 +380,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Histidine" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "2" %}
     <li><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> :: {% include getNutrient.html facts="black-beans-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g">Chicken breast (boneless, skinless)</a> :: {% include getNutrient.html facts="chicken-breast-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -453,7 +453,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Vitamin K" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "1" %}
     <li><a href="https://www.nutritionvalue.org/Asparagus%2C_raw_nutritional_value.html?size=100+g">Asparagus</a> :: {% include getNutrient.html facts="asparagus-facts" servingSize="134" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Avocados%2C_California%2C_raw_nutritional_value.html?size=100+g">Avocado</a> :: {% include getNutrient.html facts="avocado-facts" servingSize="136" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -519,7 +518,6 @@ tags:
 <br><b>Sources (per 100 g)</b>
 <ul>
     {% assign nutrient = "Manganese" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "3" %}
     <li><a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> :: {% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g">Bananas</a> :: {% include getNutrient.html facts="banana-facts" servingSize="110" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -566,7 +564,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Vitamin B3" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "1" %}
     <li><a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> :: {% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> :: {% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -640,7 +637,6 @@ tags:
 <br><b>Sources (per 100 g)</b>
 <ul>
     {% assign nutrient = "Phosphorus" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "0" %}
     <li><a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> :: {% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> :: {% include getNutrient.html facts="black-beans-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -706,7 +702,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Vitamin B2" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "2" %}
     <li><a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> :: {% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Asparagus%2C_raw_nutritional_value.html?size=100+g">Asparagus</a> :: {% include getNutrient.html facts="asparagus-facts" servingSize="134" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -750,7 +745,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Selenium" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "1" %}
     <li><a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_liver%2C_variety_meats_and_by-products_nutritional_value.html?size=100+g">Beef liver</a> :: {% include getNutrient.html facts="liver-facts" servingSize="113" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g">Brazil nuts</a> :: {% include getNutrient.html facts="brazil-nuts-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -796,7 +790,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Vitamin B1" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "2" %}
     <li><a href="https://www.nutritionvalue.org/Asparagus%2C_raw_nutritional_value.html?size=100+g">Asparagus</a> :: {% include getNutrient.html facts="asparagus-facts" servingSize="134" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> :: {% include getNutrient.html facts="black-beans-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -878,7 +871,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Valine" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "2" %}
     <li><a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> :: {% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> :: {% include getNutrient.html facts="black-beans-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
@@ -993,7 +985,6 @@ tags:
 <b>Sources (per 100 g)</b><br>
 <ul>
     {% assign nutrient = "Zinc" %}
-    {% assign fetch = "per100g" %}
     {% assign rnd = "2" %}
     <li><a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g">Almonds</a> :: {% include getNutrient.html facts="almonds-facts" servingSize="28" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
     <li><a href="https://www.nutritionvalue.org/Beans%2C_raw%2C_mature_seeds%2C_black_nutritional_value.html?size=100+g">Beans (black)</a> :: {% include getNutrient.html facts="black-beans-facts" servingSize="50" nutrient=nutrient fetch=fetch rnd=rnd %}</li>
