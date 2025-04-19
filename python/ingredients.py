@@ -33,6 +33,8 @@ def ingredients(food):
         return str("Cooked navy beans")
     
     # Spices
+    elif food == "Soup, mix, dry, onion":
+        return str("Onion soup mix")
     elif food == "Garam masala by NATCO Foods Ltd":
         return str("Garam masala")
     elif food == "Spices, dried, rosemary":
@@ -248,7 +250,9 @@ def ingredients(food):
         return str("Casein protein powder, unflavored")
     elif food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
         return str("Plain nonfat greek yogurt")
-    elif food == "Buttermilk, low fat (1%)":
+    elif food == "Yogurt, whole milk, plain, Greek":
+        return str("Plain whole milk greek yogurt")
+    elif food == "Buttermilk, low fat (1%)" or food == "Buttermilk, fat free (skim)":
         return str("Buttermilk")
     elif food == "Fat free ultra-filtered milk by FAIRLIFE" or food == "Fairlife Skim Milk":
         return str("Fairlife skim milk")
