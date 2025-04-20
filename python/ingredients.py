@@ -45,6 +45,8 @@ def ingredients(food):
         return str("Garlic powder")
     elif food == "Spices, onion powder" or food == "Onion powder by ADAMS" or food == "Onion powder by STONEMILL" or food == "Onion powder by Adams Extract Co." or food == "Onion powder by Target Stores":
         return str("Onion powder")
+    elif food == "Onions, dehydrated flakes":
+        return str("Dried onion flakes")
     elif food == "Spices, ground, cinnamon" or food == "Cinnamon ground by ROUNDY'S":
         return str("Cinnamon")
     elif food == "Spices, ground, ginger" or food == "Ginger ground organic spices by PRIDE OF INDIA" or food == "Organic ground ginger by MEMBER'S MARK":
@@ -202,6 +204,10 @@ def ingredients(food):
         return str("Almond flour")
     elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor" or food == "Pitted dates" or food == "Date":
         return str("Dates")
+    elif food == "Fig, dried":
+        return str("Dried figs")
+    elif food == "Plums, uncooked, dried (prunes)":
+        return str("Prunes")
     elif food == "Sweet potato, without salt, flesh, baked in skin, cooked" or food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked":
         return str("Sweet potato puree")
     elif food == "Potatoes, raw, flesh and skin":

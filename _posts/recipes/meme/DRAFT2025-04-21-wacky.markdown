@@ -61,4 +61,5 @@ Instructions:
 - <center><img src="/assets/Food/Meme/Wacky cake/baked.jpg" alt="" class="instruction-image"></center>
 
 - Chill in the fridge overnight before slicing
+- <center><img src="/assets/Food/Meme/Wacky cake/cut.jpg" alt="" class="instruction-image"></center>
 ---
