@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pan de Higo / Larabars"
-date:   2025-04-23 00:00:00 -05000
+date:   2025-04-25 00:00:00 -05000
 categories: 
 - Recipes
 - Finger Foods
