@@ -182,6 +182,8 @@ def ingredients(food):
         return str("Unsweetened applesauce")
     elif food == "Raw pure honey":
         return str("Honey")
+    elif food == "hot-honey":
+        return str("Hot honey")
     elif food == "Seeds, dried, chia seeds" or food == "Chia seeds by GREENWISE" or food == "Chia seed by NO BRAND" or food == "Chia seed by Hy-Vee, Inc.":
         return str("Chia seeds")
     elif food == "Seeds, flaxseed" or food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc." or food == "Premium whole ground flax seed meal by Bob's Red Mill Natural Foods, Inc.":

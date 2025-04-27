@@ -60,4 +60,7 @@ Instructions:
 
 - Instead of making a burger, you can try crumbling 2 patties over a <a href="/recipes/salad-base">Salad Base</a>, and topping with <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>, sauerkraut, and dijon mustard
 - <center><img src="/assets/Food/Meatless/Bean Burger/burger-bowl.jpg" alt="" class="instruction-image"></center>
+
+- You can also make this as a "meat"-loaf by baking for 1 hour at 350F in a 9x5" bread pan
+- <center><img src="/assets/Food/Meatless/Bean Burger/bean-loaf.jpg" alt="" class="instruction-image"></center>
 ---
