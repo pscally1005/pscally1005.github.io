@@ -11,7 +11,7 @@ ing: fradiavolo-ing
 facts: fradiavolo-facts
 servingSize: 
 section1: Sauce
-start2: Minced garlic
+start2: Frozen raw shrimp, peeled and deveined
 section2: Shrimp
 start3: 
 section3: 
@@ -41,7 +41,7 @@ tags:
 - red pepper
 Description: Fra Diavolo sauce is a Christmas classic for me, and was always served over spinach and shrimp, two of my favorite foods. Here, I mixed the spinach right into the sauce, and you can put it on whatever you want, such as chicken if you're not a seafood fan.
 Instructions: 
-- In a medium saucepot, sauteed oil, garlic, and spinach over medium heat for about 5 minutes
+- In a medium saucepot, saute oil, garlic, and spinach over medium heat for about 5 minutes
 
 - Add in tomatoes and seasonings for the sauce (Italian seasoning, paprika, garlic and onion powder, salt, pepper, and red pepper flakes).  Mix, reduce heat to medium low, and simmer for 1 hour, uncovered
 

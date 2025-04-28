@@ -5,7 +5,7 @@ date:   2025-02-04 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
-permalink: /recipes/greek-lemon-potaotes
+permalink: /recipes/greek-lemon-potatoes
 image: /assets/Food/Sides/Lemon Potatoes/cover.jpg
 ing: lemonpotatoes-ing
 facts: lemonpotatoes-facts
@@ -52,6 +52,6 @@ Instructions:
 - Pour the liquid over the potatoes. Cover with foil, and let marinate in the fridge for at least 1 hour
 - <center><img src="/assets/Food/Sides/Lemon Potatoes/raw.jpg" alt="" class="instruction-image"></center>
 
-- When you're ready to cook, preheat your oven to 350F. Bake the potatoes (covered) until fork tender, about 1 - 1.5.  Garnish with parsley and lemon zest
+- When you're ready to cook, preheat your oven to 350F. Bake the potatoes (covered) until fork tender, about 1 - 1.5 hours.  Garnish with parsley and lemon zest
 - <center><img src="/assets/Food/Sides/Lemon Potatoes/cooked.jpg" alt="" class="instruction-image"></center>
 ---
