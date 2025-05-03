@@ -39,13 +39,13 @@ tags:
 - onions
 - peppers
 - diced green chiles
-Description: This simple baked rice and beans also mixed together vegetables and a spicy sauce.  Brown rice is used here instead of <a href="/misc/fake-healthy-foods#white-rice">white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a side of nuts, fruit, or protein.
+Description: This simple baked rice and beans also mixes together vegetables and a spicy sauce.  Brown rice is used here instead of <a href="/misc/fake-healthy-foods#white-rice">white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a side of nuts, fruit, or protein.
 Instructions: 
 - Preheat your oven to 400F. Heat a large Dutch oven over medium heat with olive oil. Cut your peppers, onions, and carrots into a small dice. Add salt, stir, cover, and cook for about 10 minutes, or until the peppers begin to soften and the onions start to turn translucent
 
 - Add in garlic, diced green chilies, chipotle peppers in adobo, and your beans (not drained or rinsed). Any canned beans will work; I used a can each of kidney, pinto, and cannellini here. Bring to a boil over high heat, cover, and let cook for 10 minutes
 
-- Add the rest of the ingredients to the pot, and stir to combine - brown rice, water, tomato paste, apple cider vinegar, soy sauce, chicken bouillon powder chili powder, cumin, and black pepper
+- Add the rest of the ingredients to the pot, and stir to combine - brown rice, water, tomato paste, apple cider vinegar, soy sauce, bouillon powder, chili powder, cumin, and black pepper
 
 - Transfer the pot to the oven, and bake at 400F for about 90 minutes, or until the vegetables are tender, the rice is soft, and the water is absorbed
 

@@ -38,7 +38,7 @@ tags:
 - cinnamon
 - dip
 - cookie dough dip
-Description: Dessert hummus is a great sweet way to enjoy chickpeas. It works really well as a spread on <a href="/recipes/ww-bread">100% Whole Wheat Bread</a>, on a PBJ, or in your morning oatmeal. They're naturally sweetened with bananas, get healthy fats and protein from the peanut butter, and fiber from the chickpeas.  It also works as a great filling for a <a href="/recipes/banana-cream-pie">Banana No-Cream Pie</a>.
+Description: Dessert hummus is a great sweet way to enjoy chickpeas. It works really well as a spread on <a href="/recipes/ww-bread">100% Whole Wheat Bread</a>, as a dip for fruit, on a PB&J, or in your morning yofurt or oatmeal. It's naturally sweetened with bananas, get healthy fats and protein from the peanut butter, and fiber from the chickpeas.  It also works as a great filling for a <a href="/recipes/banana-cream-pie">Banana No-Cream Pie</a>.
 Instructions: 
 - The day before, break your bananas into 1" chunks, and add to an airtight bag.  Freeze overnight
 
