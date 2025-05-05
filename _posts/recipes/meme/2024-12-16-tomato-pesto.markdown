@@ -35,7 +35,7 @@ tags:
 - sandwich
 - toast
 - salad
-Description: Have you ever wanted to make tomato pesto, but oil free and using canned tomato paste instead of fresh or sun dried tomatoes? Yeah idk why I bothered asking, only I come up with this stuff lmao. Each serving is about 3 tbsp or 50 g
+Description: Have you ever wanted to make tomato pesto, but oil free and using canned tomato paste instead of fresh or sun dried tomatoes? Yeah idk why I bothered asking, only I come up with this stuff lmao
 Instructions: 
 - Toast the nuts until fragrant in a small pan over medium heat (about 5 minutes)
 
