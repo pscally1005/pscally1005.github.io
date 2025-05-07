@@ -39,6 +39,8 @@ def ingredients(food):
         return str("Garam masala")
     elif food == "Spices, dried, rosemary":
         return str("Rosemary, dried")
+    elif food == "Spices, dried, dill weed":
+        return str("Dill, dried")
     elif food == "Salt, table" or food == "Table salt by FIRST STREET" or food == "Table salt by Morton Salt, Inc." or food == "Salt by Morton Salt, Inc." or food == "Table salt by Cardenas Markets":
         return str("Salt")
     elif food == "Spices, garlic powder" or food == "Garlic powder by EL SABOR" or food == "Garlic powder by Target Stores" or food == "Garlic powder by STONEMILL":
