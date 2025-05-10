@@ -56,7 +56,7 @@ layout: base
 
   {% assign postCount = 0 %}
   {% for post in posts %}
-    {% if page.title == "Home" and post.categories.last != "Archive" %}
+    {% if page.title == "Home" and post.categories.last != "Archive" and post.categories.last != "Hidden" %}
       {% assign postCount = postCount | plus: 1 %}
     {% elsif post.categories.last == page.title %}
       {% assign postCount = postCount | plus: 1 %}
@@ -93,6 +93,11 @@ layout: base
 
             <!-- Skip if archived -->
             {% if post.categories.last == "Archive" and page.title != "Archive" %}
+              {% continue %}
+            {% endif %}
+
+            <!-- Skip if hidden -->
+            {% if post.categories.last == "Hidden" %}
               {% continue %}
             {% endif %}
 

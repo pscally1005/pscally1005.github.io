@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Trap Foods - Meals"
-date:   2024-08-23 00:00:00 -05000
+date:   2024-08-01 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
-- Archive
+- Hidden
 permalink: /misc/trap-foods-meals
 image: /assets/Misc/Nutrition/Trap/meals.jpg
 tags: 

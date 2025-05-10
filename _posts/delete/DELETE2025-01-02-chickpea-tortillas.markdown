@@ -5,7 +5,6 @@ date:   2025-01-02 00:00:00 -05000
 categories: 
 - Recipes
 - Finger Foods
-- Archive
 permalink: /recipes/chickpea-tortillas
 image: /assets/Food/Finger Food/Chickpea Tortilla/cover.jpg
 ing: chickpeatortillas-ing

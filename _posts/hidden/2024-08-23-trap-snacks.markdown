@@ -1,36 +1,41 @@
 ---
 layout: post
-title:  "Trap Foods - Grains"
-date:   2024-08-23 00:00:00 -05000
+title:  "Trap Foods - Snacks"
+date:   2024-08-01 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
-- Archive
-permalink: /misc/trap-foods-grains
-image: /assets/Misc/Nutrition/Trap/grains.jpg
+- Hidden
+permalink: /misc/trap-foods-snacks
+image: /assets/Misc/Nutrition/Trap/snacks.jpg
 tags: 
 - healthy
 - unhealthy
 - trap foods
 - fake healthy
-- bread
-- flour
-- rice
-- white bread
-- white flour
-- white rice
-- cereal
-- oatmeal
 - granola
 - granola bars
+- trail mix
+- snacks
+- nuts
+- raisins
+- dreid fruit
+- dates
+- figs
+- cranberries
+- mangos
+- banana chips
+- yogurt
 - pretzels
-- crackers
 - chips
 - tortilla chips
 - potato chips
-- popcorn
-- cornbread
-- rice cake
+- muffins
+- banana bread
+- rice cakes
+- chocolate
+- dark chocolate
+- chocolate chips
 ---
 <i><font size="+2">Note</font><br>
 &emsp;The following is an excerpt from my post <a href="/misc/fake-healthy-foods">'Healthy' Trap Foods</a>, in which I made a detailed list of foods that I believe to deceptively unhealthy.  I've broken that list down into easier to digest categories based on what food they are.  Linked below are all the individual posts:
@@ -59,53 +64,23 @@ tags:
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
 <br><u><font size="+2">List of Foods</font></u><br>
-* <a rel="" target="" href="#cereal">Cereal</a><br>
-* <a rel="" target="" href="#oats">Oatmeal</a><br>
 * <a rel="" target="" href="#granola">Granola Bars</a><br>
+* <a rel="" target="" href="#trail-mix">Trail Mix</a><br>
+* <a rel="" target="" href="#nuts">Nuts</a><br>
+* <a rel="" target="" href="#dried-fruit">Dried Fruit</a><br>
+* <a rel="" target="" href="#yogurt">Yogurt</a><br>
 * <a rel="" target="" href="#pretzels">Pretzels</a><br>
 * <a rel="" target="" href="#crackers">Crackers</a><br>
 * <a rel="" target="" href="#chips">Chips</a><br>
 * <a rel="" target="" href="#popcorn">Popcorn</a><br>
+* <a rel="" target="" href="#diets">Keto, Vegan, Gluten Free, and Organic Snacks</a><br>
+* <a rel="" target="" href="#protein">Protein Bars and Snacks</a><br>
 * <a rel="" target="" href="#rice-cakes">Rice Cakes</a><br>
-* <a rel="" target="" href="#white-rice">White Rice</a><br>
-* <a rel="" target="" href="#flour">Flour</a><br>
-* <a rel="" target="" href="#bread">Bread</a><br>
 * <a rel="" target="" href="#muffins">Muffins</a><br>
 * <a rel="" target="" href="#banana-bread">Banana Bread</a><br>
-* <a rel="" target="" href="#pancakes">Pancakes and Waffles</a><br>
-* <a rel="" target="" href="#cornbread">Cornbread</a><br>
+* <a rel="" target="" href="#chocolate">Dark Chocolate</a><br>
 
 <br><center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Nutrition/Trap/sugar.jpg" alt="" class="larger-image"></a></center>
-
-<div id="cereal" class="table-of-contents"></div>
-<br><i><font size="+2">Cereal</font></i><br>
-&emsp;"Part of a complete breakfast" is what we were taught growing up.  That children need cereal, and that breakfast is the most important meal of the day.  That's a hell of a successful marketing campaign.  Cereal is probably one of the worst things you can eat in the morning; it's essentially just a bowl of added sugar.  Don't worry guys, it's fat free though (as if that's really helping it's case).
-
-&emsp;It doesn't take a nutritionist to realize that Lucky Charms or Froot Loops are nothing more than a treat, but where the real "danger" lies is the cereals that are instead marketed as healthy.  I'm talking about things like Honey Nut Cheerios, Raisin Bran, and any of the other "boring" adult cereals that aren't "sugar bombs".  Except they are.  For a 1 cup (36 g) serving of <a href="https://www.cheerios.com/products/honey-nut-cheerios">Honey Nut Cheerios</a>, you'll run yourself 12 g of added sugar and 140 calories, the exact same as in <a href="https://www.luckycharms.com/products/original-lucky-charms">Lucky Charms</a>.  Oh and that "can help lower cholesterol" claim, only <a href="https://www.cheerios.com/products/original-cheerios">Original Cheerios</a> actually have the American Heart Association certification on it.  And let's be honest, no one eats just 1 cup of cereal.
-
-<center><img src="/assets/Misc/Nutrition/Trap/cereal.jpg" alt="" class="larger-image"></center>
-&emsp;If you're going to eat breakfast cereal, go with a sugar free option like plain cheerios or unsweetened puffed rice, and instead add flavors using fruit.  Original Cheerios only have 1 g of added sugar per serving, and the serving size is larger (1.5 cups as opposed to 1 cup).  Even then cereal still isn't the healthiest breakfast; it's still a bowl of empty refined carbs with no healthy fats or proteins, but at least this way it can actually be "part of a complete breakfast".  I've also had good success making my own cereal called <a href="/recipes/cinnamon-chickpea">Cinnamon Toast Chickpeas</a>, which are crispy chickpeas tossed with cinnamon, served over a protein shake, and topped with berries and nuts.  Now that's a complete breakfast!
-
-&emsp;Don't know why I just came out swinging with a vendetta against General Mills, the rest will be toned down.  Probably because I've personally been duped by this in the past, and it's a very common trap food.  Look for cereals with no added sugars, whole grains, and high in fiber.  Anything else is junk food with a good marketing team.
-
-<div id="oats" class="table-of-contents"></div>
-<br><i><font size="+2">Oatmeal</font></i><br>
-&emsp;Okay so you've gotten past cereal, but surley oatmeal is safe right?  Think again.  Oats can be a great addition to your diet: they're a whole grain, high in fiber low fat, versatile, delicious, and gluten free.  They also contain a fair bit of manganese and iron, and are rich in antioxidants.  It even boasts about being "heart healthy" (so does cereal) on the box.  So what's the problem?
-
-<center><img src="/assets/Misc/Nutrition/Trap/oatmeal.jpg" alt="" class="larger-image"></center>
-&emsp;The main issue isn't with oatmeal, but how it's prepared.  I'm mainly talking about <a href="https://www.walmart.com/ip/Quaker-Instant-Oatmeal-Variety-Value-Pack-1-51-oz-20-Packets/45612375?athbdg=L1300&from=/search">flavored packets</a> of oatmeal here, like ones in the image above.  Unfortunately, these are really no different nutritionally from a bowl of sugary cereal; it's just warm now.  These packets are loaded with added sugars.  When it comes to oatmeal for breakfast, make it yourself from plain oats, and sweeten it with fruit and a small amount of maple syrup or honey if desired.  Also add some healthy fats like chopped nuts or nut butter, and some protein with yogurt or protein powder (or both!)
-
-&emsp;Below I'll list a bunch of oatmeal recipes which are all low in added sugar, packed with protein and fiber, have a good dose of healthy fats, and can be eaten warm or cold:<br>
-&emsp; - <a href="/recipes/no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a><br>
-&emsp; - <a href="/recipes/strawberry-chia-oatmeal">Strawberry Chia Protein Oatmeal</a><br>
-&emsp; - <a href="/recipes/no-yogurt-oatmeal">Yogurt Free Protein Oats</a><br>
-&emsp; - <a href="/recipes/big-boi">Bigger Boi Oatmeal</a><br>
-&emsp; - <a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a><br>
-&emsp; - <a href="/recipes/vic-oats">Very Vic</a><br>
-&emsp; - <a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a><br>
-&emsp; - <a href="/recipes/oats-berry">Berry Delicious Protein Overnight Oats</a><br>
-&emsp; - <a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a><br>
-&emsp; - <a href="/recipes/oats-reeses">Reese's Protein Overnight Oats</a><br>
 
 <div id="granola" class="table-of-contents"></div>
 <br><i><font size="+2">Granola Bars</font></i><br>
@@ -117,6 +92,39 @@ tags:
 &emsp;If you're going to get a bar, I'd recommend either <a href="https://www.walmart.com/ip/Larabar-Blueberry-Muffin-Gluten-Free-Vegan-Fruit-Nut-Bars-6-ct/702968641?athbdg=L1600&from=/search">Larabar</a> or <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a> (or my own <a href="/recipes/rx-bars">Copycat Chocolate RX Bars</a>); both are made with dates and nuts, and contain no added sugar or artificial sweeteners.  RxBars even have some protein powder as well.
 
 <center><img src="/assets/Misc/Nutrition/Trap/bars-2.jpg" alt="" class="larger-image"></center>
+<div id="trail-mix" class="table-of-contents"></div>
+<br><i><font size="+2">Trail Mix</font></i><br>
+&emsp;Trail mix is the next step from granola, where you essentially just remove the oats, and instead have a mix of nuts and candy.  <a rel="" target="" href="#nuts">Nuts</a> are healthy, but can be easily overconsumed.  But the main problem with trail mix is the chocolate chips or M&Ms.  Trail mix can be a great snack, especially when on a trail (duh), where the salt, fat, and sugar are great for when you're out exercising.
+
+&emsp;But don't be fooled into thinking it's healthy just because it contains nuts, just like how granola isn't healthy just because it contains oats.  Look out for the <a rel="" target="" href="#chocolate">chocolate</a> and <a rel="" target="" href="#dried-fruit">dried fruit</a>.  A lot of trail mixes can contain a surprising amount of added sugar.  Plus, it's very high in fat and calories, so it's very easy to overeat.  The numbers below might not look like a lot, but that 1/4 cup (38 g) serving is a lot smaller than you think; most people can easily have 2-3 times that amount no problem.
+
+<center><img src="/assets/Misc/Nutrition/Trap/trail-mix.jpg" alt="" class="larger-image"></center>
+&emsp;If you really love trail mix, you should consider making it yourself.  It's cheaper and healthier, as well as dead simple.  Just mix together nuts, dark chocolate, and unsweetened dried fruit in a bag, and you're done.  You can check out my <a href="/recipes/trail-mix">Mixed Nuts and Chocolate Trail Mix</a> for a easy typical trail mix, or my <a href="/recipes/air-fried-trail-mix">Air Fryer Trail Mix</a> for a roasted varation with nuts, bananas, and chickpeas.
+
+<div id="nuts" class="table-of-contents"></div>
+<br><i><font size="+2">Nuts</font></i><br>
+&emsp;Nuts, just like oats, can be a very healthful addition to your diet, or they can be the end of it, depending upon how they're prepared and consumed.  Nuts are rich in antioxidants, healthy fats, fiber, selenium, manganese, and contain a fair bit of protein.  They can also help in raising your HDL.  The problem is that nuts are insanely calorically dense (similar to <a rel="" target="" href="#chocolate">real dark chocolate</a>).  They're very high in fat, where just a 1 oz (28 g) serving contains about 160 calories.  Calories aren't everything, and fat is essential for you, but just don't overdo it on nuts (as I tend do to).
+
+<center><a href="https://www.thewellnesscorner.com/blog/side-effects-of-overeating-dry-fruits"><img src="/assets/Misc/Nutrition/Trap/nuts-calories.jpg" alt="" class="larger-image"></a></center>
+&emsp;Additionally, make sure to get plain nuts.  Ideally, your nuts are dry roasted; either unsalted or lightly salted are okay depending on your tastes and salt intake.  Just stay away from flavored nuts, like <a href="https://www.walmart.com/ip/Great-Value-Honey-Roasted-Peanuts-34-5-oz/10448380?from=/search">honey roasted peanuts</a> or <a href="https://www.walmart.com/ip/Great-Value-Honey-Roast-Pecans-7oz/636142562?from=/search">candied pecans</a>.  These contain lots of added sugars, unhealthy oils, and unnecessary ingredients.  Even <a href="https://www.walmart.com/ip/Great-Value-Dry-Roasted-Peanuts-16-oz/10448531?from=/search">regularly salted nuts</a> tend to contain a paragraph of ingredients.  Stick to just nuts and salt, and always weigh out your serving of nuts.  Any more than a handful is probably too much.
+
+<div id="dried-fruit" class="table-of-contents"></div>
+<br><i><font size="+2">Dried Fruit</font></i><br>
+&emsp;Dried fruit is a bit of a mixed bag.  On the one hand, it's just fruit with the water removed, leaving a concentrated source of minerals but natural sugars.  On the other hand, some dried fruits are pumped full of added sugars.  Generally, <a href="https://www.walmart.com/ip/Great-Value-Sun-Dried-Raisins-20-oz/20896168?athbdg=L1200&from=/search">raisins</a>, <a href="https://www.walmart.com/ip/Great-Value-Pitted-Deglet-Noor-Dates-Dried-Fruit-8-oz/578393789?from=/search">dates</a>, <a href="https://www.walmart.com/ip/Sun-Maid-California-Sun-Dried-Mission-Figs-Dried-Fruit-Snack-7-oz-Bag/12166534?athbdg=L1200&from=/search">dried figs</a>, and <a href="https://www.walmart.com/ip/Great-Value-Freeze-Dried-Fruit-Crisps-Variety-Pack-6-Count-2-26-oz/559404794?athbdg=L1600&from=/search">freeze dried fruit crisps</a> are pretty good, as all the sugar in these are just from the fruit itself.  <a href="https://www.walmart.com/ip/Great-Value-Dried-Apricots-16-oz/974611955?athbdg=L1600&from=/search">Dried apricots</a> and <a href="https://www.walmart.com/ip/Great-Value-Unsweetened-Pitted-Prunes-Canister-16-oz/1940649753?athbdg=L1200&from=/search">prunes</a> also tend to be unsweetened; just look out for the ingredients list.  Even though, you should be mindful of your dried fruit consumption, as it's very easy to overeat without all the water from the whole fruit.  Think about how many raisins you can eat in a handful, versus how many grapes you would eat in 1 bite.  Just like with <a rel="" target="" href="#nuts">nuts</a>, dried fruit can be a healthy addition to your diet as long as your mindful of how much you're eating.
+
+<center><img src="/assets/Misc/Nutrition/Trap/cranberry.jpg" alt="" class="larger-image"></center>
+&emsp;The bigger problem though comes from dried fruits with added sugars.  <a href="https://www.walmart.com/ip/Great-Value-Sweetened-Dried-Cranberries-6-oz/13033150?athbdg=L1200&from=/search">Dried cranberries</a>, or crasins, are easily the worst offenders here.  Have you ever had a fresh cranberry?  They're insanely tart (which is apparently how fruit used to taste before we selectively bred them to be sweeter).  Compare that to dried cranberries though.  Dried cranberries are entirely added sugar.  You wouldn't think of putting <a href="https://www.walmart.com/ip/HARIBO-Goldbears-Original-Gummy-Bears-Pack-of-1-8oz-Peg-Bag/107127182?athbdg=L1200&from=/search">Gummy Bears</a> on your salad.  Raisins are nature's candy, but craisins are just actual candy.  Just a 1/3 cup (40 g) serving contains a whopping 26 g of added sugar!  That's already over the American Heart Association's (AHA) daily guidelines for added sugar consumption for women.  Other sweetened dried fruits to be cautious of include blueberries, mangos, cherries, and bananas.
+
+<div id="yogurt" class="table-of-contents"></div>
+<br><i><font size="+2">Yogurt</font></i><br>
+&emsp;Yogurt, just like <a rel="" target="" href="/misc/trap-foods-drinks#milk">milk</a> has the same deceptions.  It offers low fat "healthier" varieties that are pumped full of added sugar, and are way worse for you than their original full fat counterparts.  Just like with milk, the low or no fat options can also be healthy, as long as they are plain.  For me, <a href="https://www.walmart.com/ip/Great-Value-Greek-Plain-Nonfat-Yogurt-32-oz-Tub/26559565?athbdg=L1200&from=/search">Plain Nonfat Greek Yogurt</a> is the king of all dairy products.  Just 1 serving (2/3 cup, 170 g) contains 17 g of protein, no fat, no added sugar, and just 100 calories.  Greek yogurt is also a fantastic source of both calcium and vitamin B12, where 1 serving has 15% and 53% of your daily value, respectively.  I opt for the nonfat version, as I don't taste a difference between that and the full fat variety, so I'll instead get my fat from other sources, like <a rel="" target="" href="#nuts">nuts</a>, chia seeds, or natural <a rel="" target="" href="/misc/trap-foods-sweet-spreads#peanut-butter">nut butter</a>.
+
+<center><a href="https://feedthemwisely.com/added-sugar-in-flavored-yogurt"><img src="/assets/Misc/Nutrition/Trap/yogurt-sugar.jpg" alt="" class="larger-image"></a></center>
+&emsp;Things start to get worse when you look at flavored yogurt, where <a href="https://www.walmart.com/ip/Great-Value-Greek-Vanilla-Nonfat-Yogurt-32-oz-Tub-Plastic-Container/26559602?athbdg=L1200&from=/search">Vanilla Nonfat Greek Yogurt</a> contains 13 g of added sugar (remeber, that's up from 0 g), and less protein (14 g instead of 17 g).  Don't be fooled by the fruit flavors either, even the ones with fruit chunks in them.  These contain just as much added sugar as the vanilla, if not more.  I used to eat the single serving fruit cup yogurts (like <a href="https://www.walmart.com/ip/Chobani-Hero-Batch-Vanilla-Greek-Yogurt-with-Mixed-Berry-on-the-Bottom-5-3-oz-4-Count-Plastic/519060542?athbdg=L1200&from=/search">this one</a>) every day in high school, until it started to hurt my teeth to eat it.  Only then did I flip it over and notice how much sugar was loaded into these small "healthy" cups.  Stick to plain, and add your own fruit and additional sweetner if desired.
+
+<center><img src="/assets/Misc/Nutrition/Trap/vanilla-yogurt.jpg" alt="" class="larger-image"></center>
+&emsp;Leaving the realm of Greek yogurt and going to <a href="https://www.walmart.com/ip/Great-Value-Original-Vanilla-Lowfat-Yogurt-32-oz/10450127?athbdg=L1200&from=/search">Vanilla Lowfat Yogurt</a>, the added sugar content increases yet again to 16 g, and the protein content is slashed down to just 5 g now.  <a href="https://www.yoplait.com/products/original-single-serve-key-lime-pie">Yopait Key Lime Pie Yogurt</a> was my favorite in elementary and middle school, and unforunately it does not fare any better.  At the bottom of the barrel is <a href="https://www.walmart.com/ip/Go-GURT-SpongeBob-SquarePants-Kids-Fat-Free-Yogurt-Variety-Pack-2-oz-Yogurt-Tubes-16-Ct/138914564?athbdg=L1200&from=/search">Go-GURT</a>, but I don't think anyone thinks this junk could be healthy right?
+
 <div id="pretzels" class="table-of-contents"></div>
 <br><i><font size="+2">Pretzels</font></i><br>
 &emsp;Let's leave the world of dairy and move on to snack foods.  First on the chopping block: pretzels.  I'll just come out and say it: I was the weird kid who liked getting pretzel on Halloween (everything is probably starting to add up now).  I've always like fresh baked desserts, but I've never been a fan of packages cookies or candy; they're just too sweet with no flavor.
@@ -148,6 +156,32 @@ tags:
 <center><img src="/assets/Misc/Nutrition/Trap/popcorn.jpg" alt="" class="larger-image"></center>
 &emsp;Just stay away from the <a href="https://www.walmart.com/ip/Great-Value-Extra-Butter-Flavored-Microwave-Popcorn-2-55-oz-12-Count/812120929?athbdg=L1200&from=/search">microwaveable bags of popcorn</a>.  These have a lot of salt, fat (palm or vegetable oils), and preservatives.  Additionally, the packaging for microwave popcorn contains PFAS, or forever chemicals, which are linked to many negative health outcomes including cancer and lung problems.
 
+<div id="diets" class="table-of-contents"></div>
+<br><i><font size="+2">Keto, Vegan, Gluten Free, and Organic Snacks</font></i><br>
+&emsp;Despite being very different, most diets work for weight loss and better overall health because they have one main thing in common: limiting your consumption of ultraprocessed junk and focusing on real whole foods.  Which is great, until the diet becomes trendy, and companies capatalize on this.
+
+<center><img src="/assets/Misc/Nutrition/Trap/keto.jpg" alt="" class="larger-image"></center>
+&emsp;First up is keto.  For those living under a rock, a ketogenic, or keto diet is extremely low carb and high fat.  This means a lot of oil, butter, nuts, and fatty fish (ooh sounds good), and no high carb foods like bread, rice, pasta, or even beans (whelp nevermind).  Keto is the hot and trendy diet right now, with snacks such as <a href="https://www.walmart.com/ip/HighKey-Sugar-Free-Cookie-Low-Carb-Keto-Snack-Gluten-Free-Chocolate-Chip-3oz/771869727?athbdg=L1200&from=/search">cookies</a>, <a href="https://www.walmart.com/ip/Duncan-Hines-Keto-Friendly-Chewy-Fudge-Brownie-Mix-10-oz/433466256?from=/search">brownie mix</a>, <a href="https://www.walmart.com/ip/Atkins-Protein-Chips-Keto-Friendly-Baked-Not-Fried-Ranch-1-1oz/541867558?athbdg=L1200&from=/search">chips</a>, and more hitting the store shelves.  These are similar to their original counterparts, with just all the carbs removed.  Mainly, they use stevia or erythritol instead of sugar, and almond flour instead of wheat or corn.  While maybe being margianlly healthier, these snacks are still ultraprocessed, containing a laundry list of ingredients, with a lot of hydroginated oils, salt, and preservatives.
+
+<center><a href="https://www.arespectfullife.com/2017/05/28/vegan-junk-food/"><img src="/assets/Misc/Nutrition/Trap/vegan.jpg" alt="" class="larger-image"></a></center>
+&emsp;Many people you have the false notion that vegan = healthy.  But you can be very unhealthy on a vegan diet, or very healthy on an omnivorous diet.  Not eating animal products does not directly correlate to better health; eating more whole foods does (which vegans tend to do, so that's a plus).  You know what else is vegan though: <a href="https://www.walmart.com/ip/Oreo-Chocolate-Sandwich-Cookies-Party-Size-24-16-oz/5035879686?from=/search">Oreo's</a>, <a href="https://www.walmart.com/ip/Coca-Cola-Classic-Soda-Pop-16-9-fl-oz-Bottles-6-Pack/10535170?athbdg=L1600&from=/search">Coca-Cola</a>, and <a href="https://www.walmart.com/ip/SOUR-PATCH-KIDS-Original-Soft-Chewy-Candy-Share-Size-12-oz/580621266?athbdg=L1600&from=/search">Sour Patch Kids</a>.  I think you get my point.  Even the supposedly healthier snacks (like these <a href="https://www.walmart.com/ip/Nature-s-Bakery-Oatmeal-Crumble-Strawberry-Breakfast-Snack-Bars-1-41-oz-10-Count/338684992?athbdg=L1600&from=/search">Nature's Bakery</a> bars) are just expensive and fancy looking versions of the original products, and are at best only marginally better for you.
+
+<center><img src="/assets/Misc/Nutrition/Trap/gf.jpg" alt="" class="larger-image"></center>
+&emsp;At least (most) people have a good reason for following a strict gluten free diet, with that being Celiac disease.  Gluten comes from grains such as barley, rye, and of course wheat.  It would be assumed then that a gluten free diet would be healthier then, omitting all sources of flour, thus eliminating any ultraprocessed "foods" containing it.  But there's still plenty of junk food that's naturally gluten free (pretty much all <a rel="" target="" href="#chips">chips</a> are), and some specifically made to be gluten free.  You can still get gluten free cookies like <a href="https://www.walmart.com/ip/OREO-Gluten-Free-Chocolate-Sandwich-Cookies-Gluten-Free-Cookies-12-08-oz/1537120639?athbdg=L1200&from=/search">Oreo's</a> and <a href="https://www.walmart.com/ip/Tate-s-Bake-Shop-Gluten-Free-Chocolate-Chip-Cookies-Gluten-Free-Cookies-7-oz/36310776?athbdg=L1300&from=/search">Tate's</a>.  Fine treats to have on occasion (everything in moderation, remember), but don't fool yourself into thinking it's healthier because it contains no gluten.
+
+<center><a href="https://www.dietvsdisease.org/17-diet-and-nutrition-memes-to-share-with-your-fact-denying-friends/"><img src="/assets/Misc/Nutrition/Trap/organic.jpg" alt="" class="larger-image"></a></center>
+&emsp;Finally, and probably worst of all, we have organic.  Why is organic the worst?  Because it's the most ambiguous.  All the other categories above (keto, vegan, and gluten free) have hard set criteria for what is and isn't allowed.  Organic though: can anyone actually define what that means?  Why do <a href="https://www.walmart.com/ip/Simply-Doritos-Organic-White-Cheddar-Tortilla-Chips-7-5-oz-Bag/165522395?from=/search">Doritos</a> and <a href="https://www.walmart.com/ip/Simply-Tostitos-Organic-Blue-Corn-Tortilla-Chips-8-25-oz-Bag/49909674?athbdg=L1200&from=/search">Tostitos</a> make organic chips?  What are you really doing here lmao.
+
+<div id="protein" class="table-of-contents"></div>
+<br><i><font size="+2">Protein Bars and Snacks</font></i><br>
+&emsp;As I said in my <a href="/recipes/protein-bar">100 Calorie Protein Bars</a>, a protein bar needs to have at least 10 g of protein per 100 calories, and have no added sugar.  Otherwise, it's not a protein bar.  I love <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a>, but I wouldn't consider them a protein bar (not even my own <a href="/recipes/rx-bars">Copycat Chocolat RX Bars</a>).  They're still a healthy snack certainly, with good doses of healthy fats (nuts), natural sugars (dates), fiber (dates and nuts), and protein (egg white protein powder).  I'm ripping on RxBars here, but only because they're probably the <i>best</i> protein bars on the market; it pretty much just gets worse from here.
+
+<center><img src="/assets/Misc/Nutrition/Trap/protein.jpg" alt="" class="larger-image"></center>
+&emsp;Most other protein bars and snacks on the market contain vegetable oils, added sugars, and a slew of other weird ingredients.  They also have very high contents of other macro nutrients; I want a protein bar, not a fat bar or a carb bar.  Protein bars can be a great lean snack, and I can always add more fat (peanut butter) or carbs (banana) along side it.  Just because it has the word "protein" on it doesn't mean it's healthy, or necessarily even high in protein.  Some examples are <a href="https://www.walmart.com/ip/Great-Value-Chewy-Protein-Bar-Peanut-Butter-Dark-Chocolate-10g-Protein-5-Ct/26572609?athbdg=L1200&from=/search">Great Value</a>, <a href="https://www.walmart.com/ip/TRUBAR-Oh-Oh-Cookie-Dough-12CT-Indulgent-Nutrition-Healthy-on-the-Go-Snack-Bars-Plant-Based-Protein-Vegan-Gluten-Free/1873534436?from=/search">TruBar</a>, <a href="https://www.walmart.com/ip/Nature-Valley-Protein-Granola-Bars-Snack-Variety-Pack-Chewy-Bars-15-ct-21-3-OZ/274787674?from=/search">Nature Valley</a>, <a href="https://www.walmart.com/ip/Gatorade-Peanut-Butter-Chocolate-Whey-Protein-Bars-20g-Protein-6-Pack/558471204?from=/search">Gatorade</a>, <a href="https://www.walmart.com/ip/CLIF-BAR-Chocolate-Chip-Made-with-Organic-Oats-10g-Protein-Non-GMO-Plant-Based-Energy-Bars-2-4-oz-5-Pack/5195244229?athbdg=L1600&from=/search">Clif Bar</a>, <a href="https://www.walmart.com/ip/KIND-Protein-Gluten-Free-Dark-Chocolate-Nut-Snack-Bars-1-76-oz-5-Count/257609957?from=/search">Kind</a>, and <a href="https://www.walmart.com/ip/Kellogg-s-Special-K-Strawberry-Chewy-Protein-Meal-Bars-Ready-to-Eat-12g-Protein-Snacks-12-Count/23597988?from=/search">Kellogg's</a>.  All of these protein bars fail to hit those requires, with low protein contents and added sugar ranging between 5 g and 24 g per bar.
+
+<center><img src="/assets/Misc/Nutrition/Trap/protein-cookie.jpg" alt="" class="larger-image"></center>
+&emsp;It's not just bars; other protein snacks are just as guilty.  If it seems too good to be true, it probably is.  The following examples either come close or actually meet the protein bar requirements, but they're still ultraprocessed snacks to enjoy in moderation; not a building block of your daily diet.  I'm talking about protein <a href="https://www.walmart.com/ip/Quest-Protein-Cookie-High-Protein-Chocolate-Chip-4-Count/554117134?athbdg=L1600&from=/search">cookies</a>, <a href="https://www.walmart.com/ip/Quest-Tortilla-Style-Protein-Chips-Baked-19g-of-Protein-Loaded-Taco-1-1oz/207374879?athbdg=L1103&from=/search">chips</a>, and <a href="https://www.walmart.com/ip/Legendary-Foods-Protein-Pastry-Strawberry-2-2oz-Gluten-Free-Protein-Bar-Alternative-4-Pk/602941020?athbdg=L1200&from=/search">pastries</a>.  A good general rule of thumb is if there are multiple lines of ingredients, or ingredients you can't pronounce, you probably shouldn't be eating it often.  Look for foods with just a handful of real, whole food, ingredients (we've come back full circle to <a href="https://www.walmart.com/ip/RXBAR-Variety-Pack-Chewy-Protein-Bars-Ready-to-Eat-Protein-Snack-10-Count/331912964?from=/search">RxBars</a>).
+
 <div id="rice-cakes" class="table-of-contents"></div>
 <br><i><font size="+2">Rice Cakes</font></i><br>
 &emsp;Rice cakes just scream 1990's low fat craze to me.  They're basically all carbs and starch, but they're super light and airy; 1 whole rice cake weighs just 9 g and contains only 35 calories and 7 g of carbs.  They can be a great way to get some more carbs into your diet without going overboard like most snacks.  I'll be honest and say have some <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Lightly-Salted-Rice-Cakes-4-47oz/10312599?athbdg=L1200&from=/search">Lightly Salted Rice Cakes</a> in my cabinet right now.  
@@ -178,46 +212,6 @@ tags:
 <center><img src="/assets/Misc/Nutrition/Trap/rice-cake.jpg" alt="" class="larger-image"></center>
 &emsp;As with most things, make sure to get the plain variety.  The lightly salted ones contain nothing but brown rice and salt, 2 healthy ingredients.  The problem comes with the flavored rice cakes, like <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Caramel-Rice-Cakes-6-5-oz/10312601?athbdg=L1600&from=/search">Caramel</a>, <a href="https://www.walmart.com/ip/Quaker-Rice-Cakes-Whole-Grain-Chocolate-Gluten-Free-7-23-oz/13448658?athbdg=L1600&from=/search">Chocolate</a>, or <a href="https://www.walmart.com/ip/Quaker-Gluten-Free-Rice-Cakes-Variety-Pack-6-Bags/574038295?athbdg=L1600&from=/search">White Cheddar</a>.  Calories can double, sugar is added, and the ingredients list expands.
 
-<div id="white-rice" class="table-of-contents"></div>
-<br><i><font size="+2">White Rice</font></i><br>
-&emsp;<a href="https://www.walmart.com/ip/Great-Value-Long-Grain-Enriched-Rice-32-oz/10315394?athbdg=L1600&from=/search">White rice</a> is fairly processed, removing the hull and bran and leaving just the starch.  It's basically the white flour equivalent for rice.  With just the starch, white rice is lacking the fiber, vitamins, and minerals of <a href="https://www.walmart.com/ip/Great-Value-Natural-Brown-Long-Grain-Rice-32-oz/10898755?athbdg=L1600&from=/search">brown rice</a>, which is why it's often enriched with micronutrients (the same is done with white bread).  More starch and less fiber leads to greater insulin spikes, increasing your risk for diabeter and metabilic syndrome.  Now I'm not saying that white rice is the most unhealthy thing in the world, far from it; I'm just simply saying there are better options.  Instead of white rice, try instead using brown rice, <a href="https://www.walmart.com/ip/Gourmet-House-Cultivated-Rice-Long-Grain-Wild-Rice-1-lb-Bag/534646756?athbdg=L1600&from=/search">wild rice</a>, <a href="https://www.walmart.com/ip/Success-Boil-in-Bag-Quinoa-Tri-Color-Quinoa-12-oz-4-Count/400339803?athbdg=L1600&from=/search">quinoa</a>, <a href="https://www.walmart.com/ip/RiceSelect-Original-Couscous-Moroccan-Style-Couscous-26-5-oz-Jar/10403512?athbdg=L1600&from=/search">couscous</a>, or even riced <a href="https://www.walmart.com/ip/Great-Value-Cauliflower-12-oz-Bag-Frozen/242699420?athbdg=L1600&from=/search">cauliflower</a> or <a href="https://www.walmart.com/ip/Great-Value-Frozen-Broccoli-Florets-12-oz-Steamable-Bag/735585383?athbdg=L1200&from=/search">broccoli</a>.  
-
-&emsp;I like have rice on the side with my meals, like with my <a href="/recipes/rice-and-beans">Classic Rice and Beans</a> or <a href="/recipes/cauliflower-rice">Simple Cauliflower Rice</a>.  Rice also works great mixed into dishes, such as <a href="/recipes/baked-rice-and-beans">Baked Rice and Beans with Vegetables</a> or <a href="/recipes/lebanese-casserole">Lebanese Riced Cauliflower Casserole</a>.
-
-<center><a href="https://www.bhutannatural.com/resources/white-rice-bad-for-you"><img src="/assets/Misc/Nutrition/Trap/white-rice.jpg" alt="" class="larger-image"></a></center>
-<div id="flour" class="table-of-contents"></div>
-<br><i><font size="+2">Flour</font></i><br>
-&emsp;If you've noticed, all of my recipes stay away from <a href="https://www.walmart.com/ip/Great-Value-All-Purpose-Enriched-Flour-5LB-Bag/10403017?athbdg=L1200&from=/search">white flour</a>, also known as all purpose flour.  Instead, I opt for <a href="https://www.walmart.com/ip/King-Arthur-Flour-100-Premium-Whole-Wheat-Flour-80-oz/10535109?athbdg=L1200&from=/search">whole wheat flour</a> in recipes with gluten, and probably either <a href="https://www.walmart.com/ip/Great-Value-Whole-Grain-Quick-Rolled-Oats/10314926?athbdg=L1200&from=/search">oat flour</a> or <a href="https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474?athbdg=L1200&from=/search">coconut flour</a> in gluten free dishes.  So why not all purpose flour?  Below is a diagram showing the anatomy of a grain of wheat.  Grinding togther the whole kernel (the bran, germ, and endosperm) will yield whole wheat flour, which is rich in nutrients like fiber, protein, calcium, iron, potassium, and some B vitamins (B1, B3, and B5).  It also contains a small amount of fat, which in combination with the high fiber content of whole wheat flour leads to much lower spikes in blood sugar.  Whole wheat flour can be used just like regular all purpose flour in baking, and leaves you with a great nutty flavor that adds a lot of depth to your baking.
-
-<center><a href="https://wholegrainscouncil.org/what-whole-grain"><img src="/assets/Misc/Nutrition/Trap/wheat.jpg" alt="" class="larger-image"></a></center>
-&emsp;But if you grind down just the endosperm, you end up with white flour.  White flour is white due to both the white endosperm center and bleaching.  All the nutrients are in the other parts (the bran and the germ), leaving just the starchy center with nothing but empty calories and a massive spike in your blood sugar.  There's a reason why most commercial white flours and white <a rel="" target="" href="#bread">breads</a> are "fortified" or "enriched".  White flour is entirely stripped of its nutrients, so manufacturers have to "add" them back in.  Not only is white flour much more processed and refined than whole wheat, being devoid of any flavor, but its minerals aren't as bioavable as compared to the ones naturally occuring in whole wheat flour.  Whenever feasible, it is best to avoid using and consuming products with refined white flour, and instead opt for more whole grain options.
-
-<div id="bread" class="table-of-contents"></div>
-<br><i><font size="+2">Bread</font></i><br>
-&emsp;As discussed, <a rel="" target="" href="#flour">white flour</a> is generally a poor nutrition choice; it would then follow that <a href="https://www.walmart.com/ip/Wonder-Bread-Classic-White-Sandwich-Bread-Sliced-White-Bread-20-oz/37858875?athbdg=L1600&from=/search">white bread</a> would also not be your healthiest option.  Though <a href="https://www.walmart.com/ip/Arnold-Whole-Grains-100-Bread-24-oz-Whole-Wheat-Soft-Wheat-Bread-Bag/10403544?athbdg=L1300&from=/search">whole wheat bread</a> isn't that much better of an option if we're still talking about commercially processed bread products.  Most store bought loaves of bread are high in our old friend, added sugar (a lot of whole wheat breads actually contain more sugar than their white bread counterparts), as well as vegetable oils and preservatives.  Look at that giant list of ingredients below!  There's a reason why grocery store bread can last for weeks without going bad, whereas real bread from a bakery goes stale in just a day or two (tip: store extra fresh baked bread in the freezer, it'll last forever in there).  Traditionally, bread is just flour, water, yeast, and salt; one of man's oldest and simplest creations.
-
-<center><img src="/assets/Misc/Nutrition/Trap/bread.jpg" alt="" class="larger-image"></center>
-&emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of whole wheat bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high sugar content.  White bread is essentially entirely made up of glucose, leading to the largest blood sugar spike of any food you could consume.  Even whole wheat bread is a high GI food, but it is significantly lower than white bread.  Below is a chart of different foods and their respective GI values.
-
-<center><a href="https://x.com/iam_preethi/status/1345457708892266496"><img src="/assets/Misc/Nutrition/Trap/gi.jpg" alt="" class="larger-image"></a></center>
-&emsp;If you'd like to get into <a href="/recipes/bread">breadmaking</a>, I have plenty of whole wheat flour recipes.  I've linked some of them below.<br>
-&emsp;- <a href="/recipes/ww-bread">100% Whole Wheat Bread</a><br>
-&emsp;- <a href="/recipes/tortilla">Oat-Wheat Tortillas</a><br>
-&emsp;- <a href="/recipes/pizza">Home Oven Baked Pizza</a><br>
-&emsp;- <a href="/recipes/pretzel">Whole Wheat Hot Pretzels</a><br>
-&emsp;- <a href="/recipes/pita">Whole Wheat Pita Bread</a><br>
-&emsp;- <a href="/recipes/sweet-potato-bread">Whole Wheat Sweet Potato Loaf</a><br>
-&emsp;- <a href="/recipes/irish-soda-bread">Whole Wheat and Oat Flour Irish Soda Bread</a><br>
-&emsp;- <a href="/recipes/burger-buns">No Yeast Whole Wheat Burger Buns</a><br>
-
-&emsp;For anyone with Celiac disease, I also have a few gluten free bread recipes for you to enjoy.  I've used flour alternatives such as coconut flour and oat flour, but I've come across other GF bread recipes with almond flour, ground flaxseed, psyllium husks, or millet flour.<br>
-&emsp;- <a href="/recipes/protein-wrap">High Protein Flatbread Wrap</a><br>
-&emsp;- <a href="/recipes/oat-wraps">Gluten Free Oat Wraps</a><br>
-&emsp;- <a href="/recipes/coconut-bread">Gluten and Grain Free Coconut Bread</a><br>
-&emsp;- <a href="/recipes/cloud-bread">Low Carb Cloud Bread</a><br>
-&emsp;- <a href="/recipes/gluten-free-pretzels">Gluten Free Savory Pretzels</a><br>
-&emsp;- <a href="/recipes/cornbread">Cheesy Protein Cornbread</a><br>
-
 <div id="muffins" class="table-of-contents"></div>
 <br><i><font size="+2">Muffins</font></i><br>
 &emsp;Muffins are unfrosted cupcakes that somehow get a pass as a breakfast food.  These <a href="https://www.walmart.com/ip/Marketside-Blueberry-Muffins-14-oz-4-Count/19758064?athbdg=L1200&from=/search">Blueberry Muffins</a> have 350 calories per muffin with 21 g of added sugar and 17 g of fat.  They're filled with a ton of ingredients, and contain almost as much sugar as flour.  I used to make muffins decently often (<a href="https://www.spendwithpennies.com/banana-chocolate-chip-muffins/#wprm-recipe-container-174068">banana chocolate chip</a> specifically).  Just take a look: 1/2 cup of vegetable oil and 3/4 cup of sugar, as well as 1.5 cups of white flour, for just a dozen muffins.  If that sounds like a lot, that's because it is.  Most "breakfast" options are just a meal of dessert.  Which is fine in moderation if you know what you're getting yourself into.  A muffin can be a fine dessert on occasion, but is a terrible start to your day.  Sorry, but a <a href="https://www.walmart.com/ip/Marketside-Triple-Chocolate-Muffins-14-oz-4-Count/987289191?from=/search">Triple Chocolate Muffin</a> is just a brownie.
@@ -232,19 +226,20 @@ tags:
 <center><img src="/assets/Misc/Nutrition/Trap/banana-bread.jpg" alt="" class="larger-image"></center>
 &emsp;As for healthier homemade versions, you should check out my <a href="/recipes/banana-protein">Protein Banana Nut Bread</a> or my <a href="/recipes/double-chocolate-banana-bread">Double Chocolate Banana Bread</a>.
 
-<div id="pancakes" class="table-of-contents"></div>
-<br><i><font size="+2">Pancakes and Waffles</font></i><br>
-&emsp;Last on the chopping block for breakfast foods are pancakes and waffles.  Take your banana bread recipe, and cook it instead on a frying pan for pancakes or a waffle maker for waffles.  Just the same dessert in a different shape again, being filled with sugar and refined flour, leading to massive spikes and crashes in your blood sugar, energy, and mood.
+<div id="chocolate" class="table-of-contents"></div>
+<br><i><font size="+2">Dark Chocolate</font></i><br>
+&emsp;Dark chocolate is one of those foods that people think is healthy, but they're probably eating the wrong variety.  Just being labeled as "dark" chocolate doesn't automatically make it good for you; a lot of it is just well marketed candy.  Let's start with the benefits though.  True dark chocolate is rich in fiber, iron, mangesium, copper, and manganese.  Cocoa is also a great source of antioxidants, which decrease your body's free radicals and lower inflamation, due to its high concentration fo flavanols.  
 
-<center><a href="https://www.reddit.com/r/memes/comments/188citx/breakfast_food_sucks/"><img src="/assets/Misc/Nutrition/Trap/pancake.jpg" alt="" class="larger-image"></a></center>
-&emsp;I'll be honest, I absolutely loved waffles growing up.  I'd make myself chocolate chip banana waffles once a week in high school by following a boxed mix, mashed in a banana, and fold in chocolate chips.  They're delicious, but again not something to start your day off with.  Instead, consider a pancake (or waffle) recipe made of protein and whole grains, like my <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>.
+&emsp;Dark chocolate is also a good source of healthy fats, though this can make it quite calorically dense.  True dark chocolate is a healthy snack, but, just like <a rel="" target="" href="#nuts">nuts</a>, should be measured and enjoyed in moderation due to its high calorie content.
 
-<div id="cornbread" class="table-of-contents"></div>
-<br><i><font size="+2">Cornbread</font></i><br>
-&emsp;...cornbread.  <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Mini-Sweet-Cornbread-16-oz-8-Count/130416860?from=/search">Cornbread</a> is another dessert that somehow weaseled it's way onto your dinner plate.  Just like muffins, banana bread, and baked beans, cornbread is secretly a dessert with good marketing.  The one linked above (and shown below) has sugar as it's first ingredient, closely followed by bleached white flour and seed oil (wait, where's the cornmeal?).  There's more added sugar, fat, and calories in 1 slice of this cornbread as one of these <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Chocolate-Chip-Bakery-Cookies-14-oz-10-Count/184184305?athbdg=L1600&from=/search">large chocolate chip cookies</a>!
+&emsp;Here are a few examples of some chocolates that are wrongly considered healthy.  This <a href="https://www.walmart.com/ip/GHIRARDELLI-Sea-Salt-Caramel-Dark-Chocolate-Squares-Bar-4-8-oz-Bar/732356296?from=/search">Dark Chocolate Sea Salt Caramel</a> bar has sugar as the first ingredient.  This isn't a healthy snack; rather it's a candy.  Let's look at another; the "special" part about <a href="https://www.walmart.com/ip/Hershey-s-Special-Dark-Mildly-Sweet-Chocolate-Giant-Candy-Bar-7-56-oz-25-Pieces/555582083?athbdg=L1200&from=/search">Hershey's Special Dark</a> is that it's not even dark chocolate, containing only 45% cocoa solids.  Finally, to put things into perspective, these <a href="https://www.walmart.com/ip/Great-Value-Dark-Chocolate-Baking-Chips-10-oz-Bag/890876952?athbdg=L1200&from=/search">60% chocolate chips</a> contain just 1 g less of sugar than <a href="https://www.walmart.com/ip/Great-Value-Milk-Chocolate-Chips-11-5-oz/858746232?athbdg=L1200&from=/search">milk chocolate chips</a>.  These numbers don't look that bad, but remember that 1 serving (1 tbsp, 15 g) of chocolate chips is a tiny amount, about a small handful.  No one is eating just that.
 
-<center><img src="/assets/Misc/Nutrition/Trap/cornbread.jpg" alt="" class="larger-image"></center>
-&emsp;Cornbread or corn muffins can be a fine dessert in moderation, but know what you're getting when you reach for a slice.  If you're anything like me (if you're this deep down then congrats, you probably are lol), you should enjoy my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a>, which is much higher in protein, lower in fat and carbs, and free of any added sugars or artificial sweeteners.
+<center><img src="/assets/Misc/Nutrition/Trap/choc.jpg" alt="" class="larger-image"></center>
+&emsp;Certainly be wary of anything claiming to be "dark" chocolate without even listing a cocoa percentage, as it's probably just barely higher than most milk chocolates.  I'd say at minimum, you should opt for anything over <a href="https://www.walmart.com/ip/Lindt-Excellence-70-Cocoa-Dark-Chocolate-Candy-Bar-3-5-oz-Bar/10312259?from=/search">70%</a> to be considered healthy.  Higher cocoa percentages mean lower sugar content, going all the way up to <a href="https://www.walmart.com/ip/Baker-s-Unsweetened-Chocolate-Premium-Baking-Bar-with-100-Cacao-4-oz-Box/24183293?from=/search">100%</a> for the most bitter and strong flavor.  Personally, if I'm eating a piece of chocolate, I like <a href="https://www.walmart.com/ip/Lindt-Excellence-90-Cocoa-Dark-Chocolate-Candy-Bar-3-5-oz-Bar/21268921?athbdg=L1600&from=/search">90%</a> or higher; sometimes I enjoy a 100% bar of chocolate; unsweetened and delicious (just work your way up to it; it can be quite bitter if you're used to typical candy).
+
+&emsp;A bar of chocolate is typically made of of 3 parts.  Firstly, the cocoa powder itself, which gives it bitter chocolate flavor.  Second, is some sort of saturated fat (typically cocoa butter), which mixes with the cocoa powder and allows it to stay solid at room temperture.  Stop here, and you have unsweetened chocolate; otherwise, add sugar (the third part) to make it sweeter.  
+
+&emsp;Instead of paying $3.37 for <a href="https://www.walmart.com/ip/Lindt-Excellence-100-Cocoa-Dark-Chocolate-Candy-Bar-1-7-oz-Bar/288993864?athbdg=L1200&from=/search">100% Chocolate</a>, I can make it myself for just $0.94.  I prefer to make my own <a href="/recipes/chocolate-bar">Sugar Free Chocolate Bar</a> by mixing together equal parts (by weight) of cocoa powder and coconut oil.   Sweetener is optional; sometimes I like a little honey or maple syrup to make it more like 85-90% chocolate, or sometimes I leave it at 100%.  If you want it sweeter without and sugar, you should try using <a href="https://www.amazon.com/Carob-Powder-Alternative-non-GMO-Superfood/dp/B0831TDPLJ/ref=sr_1_5_pp?sr=8-5">carob powder</a> (though it is more expensive), which tastes just like chocolate, but is midly sweet.  I used it for a bar of <a href="/recipes/chocolate-free-chocolate">Chocolate Free Chocolate</a> by combining just coconut oil and carob powder for a taste very similar to an 85% bar.
 
 <br><u><font size="+2">Sources</font></u><br>
 1. <a href="https://www.youtube.com/watch?v=aeM4jD9Uv_Y">10 'Healthy' Foods That Are Worse Than You Think</a><br>

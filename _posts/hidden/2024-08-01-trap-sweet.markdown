@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Trap Foods - Sweet Spreads"
-date:   2024-08-23 00:00:00 -05000
+date:   2024-08-01 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
-- Archive
+- Hidden
 permalink: /misc/trap-foods-sweet-spreads
 image: /assets/Misc/Nutrition/Trap/sweet.jpg
 tags: 
