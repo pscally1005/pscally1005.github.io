@@ -23,10 +23,16 @@ def ingredients(food):
         return str("Chickpeas, NOT drained or rinsed")
     elif food == "Beans, drained solids, canned, pinto" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto":
         return str("Pinto beans, drained and rinsed")
-    elif food == "Beans, with salt, boiled, cooked, mature seeds, black" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, canned, mature seeds, all types, black" or food == "Beans, drained solids, canned, black":
+    elif food == "Pinto beans, canned, whole":
+        return str("Pinto beans, NOT drained or rinsed")
+    elif food == "Black beans, canned, drained and rinsed" or food == "Beans, with salt, boiled, cooked, mature seeds, black" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, canned, mature seeds, all types, black" or food == "Beans, drained solids, canned, black":
         return str("Black beans, drained and rinsed")
-    elif food == "Beans, drained solids, canned, mature seeds, red, kidney" or food == "Beans, canned, mature seeds, all types, kidney":
+    elif food == "Black beans, canned, whole":
+        return str("Black beans, NOT drained or rinsed")
+    elif food == "Kidney beans, canned, drained and rinsed" or food == "Beans, drained solids, canned, mature seeds, red, kidney" or food == "Beans, canned, mature seeds, all types, kidney":
         return str("Kidney beans, drained and rinsed")
+    elif food == "Kidney beans, canned, whole":
+        return str("Kidney beans, NOT drained or rinsed")
     elif food == "Beans, raw, black":
         return str("Dried beans")
     elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils" or food == "Lentils, raw, pink or red":

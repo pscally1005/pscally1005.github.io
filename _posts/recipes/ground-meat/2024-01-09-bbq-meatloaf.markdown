@@ -55,5 +55,5 @@ Instructions:
 - <center><img src="/assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-5.jpg" alt="" class="instruction-image"></center>
 
 - To celebrate Halloween, I made this recipe and shaped it into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href="/recipes/ketchup">Date Sweetened Ketchup</a> for the blood.  This was paired with <a href="/recipes/stuffed-peppers">Turkey & Lentil Stuffed Bell Peppers</a> that Vic carved a Jack O'Lantern face into
-- <center><a href="/recipes/stuffed-peppers"><img src="/assets/Food/Ground Meat/Stuffed/stuffed-halloween-1.jpg" alt="" class="half-page"></a><a href="/recipes/stuffed-peppers"><img src="/assets/Food/Ground Meat/Stuffed/stuffed-halloween-2.jpg" alt="" class="half-page"></a></center>
+- <center><a href="/recipes/stuffed-peppers"><img src="/assets/Food/Finger Food/Stuffed/halloween.jpg" alt="" class="instruction-image"></a></center>
 ---
