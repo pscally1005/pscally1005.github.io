@@ -17,8 +17,10 @@ def ingredients(food):
         return str("Navy beans, drained and rinsed")
     elif food == "Beans, raw, mature seeds, black":
         return str("Dried beans")
-    elif food == "Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds" or food == "Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds":
+    elif food == "Chickpeas, canned, drained and rinsed" or food == "Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds" or food == "Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds":
         return str("Chickpeas, drained and rinsed")
+    elif food == "Chickpeas, canned, whole":
+        return str("Chickpeas, NOT drained or rinsed")
     elif food == "Beans, drained solids, canned, pinto" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto":
         return str("Pinto beans, drained and rinsed")
     elif food == "Beans, with salt, boiled, cooked, mature seeds, black" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, canned, mature seeds, all types, black" or food == "Beans, drained solids, canned, black":
@@ -276,7 +278,7 @@ def ingredients(food):
         return str("Liquid egg whites")
     elif food == "Beverages, Protein powder whey based" or food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder" or food == "Nutricost Whey Unflavored Protein Powder":
         return str("Whey protein powder, unflavored")
-    elif food == "Cheese, large or small curd, dry, uncreamed, nonfat, cottage" or food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
+    elif food == "Cottage cheese, 1% fat, Friendship Dairies" or food == "Cheese, large or small curd, dry, uncreamed, nonfat, cottage" or food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
         return str("Nonfat cottage cheese")
     elif food == "Cheese, grated, parmesan" or food == "Kraft Grated Parmesan Cheese" or food == "Grated parmesan cheese by POPE" or food == "Cheese, grated, parmesan":
         return str("Grated parmesan cheese")

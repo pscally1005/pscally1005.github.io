@@ -57,6 +57,7 @@ tags:
     <li><a rel="" target="" href="#corn">Corn (Frozen)</a></li>
     <li><a rel="" target="" href="#cornmeal">Cornmeal</a></li>
     <li><a rel="" target="" href="#corn-starch">Corn Starch</a></li>
+    <li><a rel="" target="" href="#couscous">Couscous</a></li>
     <li><a rel="" target="" href="#dates">Dates (Pitted)</a></li>
     <li><a rel="" target="" href="#eggs">Eggs</a></li>
     <li><a rel="" target="" href="#eggplant">Eggplant</a></li>
@@ -529,6 +530,20 @@ tags:
     gram1="8"  
     nutritionFacts=nF 
     img1="/assets/Misc/Nutrition/Serving/cornstarch-scaled.jpg"
+%}
+
+<div id="couscous" class="table-of-contents"></div>
+<br><i><font size="+2">Couscous</font></i><br>
+{% assign nF = site.data.servingSizes["couscous-facts"] %}
+{% 
+    include servingSizeInfo.html
+    vol1="1/4 cup raw" 
+    gram1="56"
+    vol2="~1/2 cup cooked" 
+    gram2="112" 
+    nutritionFacts=nF 
+    img1="/assets/Misc/Nutrition/Serving/couscous-raw-scaled.jpg"
+    img2="/assets/Misc/Nutrition/Serving/couscous-cooked-scaled.jpg"
 %}
 
 <div id="dates" class="table-of-contents"></div>

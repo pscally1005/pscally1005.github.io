@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Simple Pico de Gallo"
+date:   2025-05-19 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/pico-de-gallo
+image: /assets/Food/Savory Sauces/Pico/pico.jpg
+ing: pico-ing
+facts: pico-facts
+servingSize: 1/4 cup (60 g)
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 15
+Rest: 180
+Cook: 
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/ZF6ek
+tags: 
+- mexican
+- cinco de mayo
+- taco
+- salsa
+- onion
+- cilantro
+- tomatoes
+- lime
+- chips
+Description: Pico de Gallo has to be one of the easiest salsas or taco toppings you can make. Just dice an onion, and mix with tomatoes, cilantro, and lime. I've left out the jalapeno here, but you can add it in if you like. Typically, fresh tomatoes are used, but you can easily get away with a can of petite diced tomatoes instead
+Instructions: 
+- Cut your onions into a fine dice, and add to a medium bowl. Cover with water, and let sit for 10 minutes. This removes the harsh flavors of the raw onion. Drain the water
+
+- Add the rest of the ingredients to the bowl (cilantro, tomatoes, lime, and salt), and mix. Cover, and refrigerate for a few hours before servings, allowing the flavors to combine
+---

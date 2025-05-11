@@ -57,6 +57,23 @@ def grams(food, mass, vol):
         else:
             return str(mass)
         
+    # Granulated sweetener
+    elif food == "Granulated monk fruit" or food == "Allulose":
+        if vol == "1/4 cup":
+            return str("50")
+        elif vol == "1/3 cup":
+            return str("67")
+        elif vol == "1/2 cup":
+            return str("100")
+        elif vol == "2/3 cup":
+            return str("133")
+        elif vol == "3/4 cup":
+            return str("150")
+        elif vol == "1 cup":
+            return str("200")
+        else:
+            return str(mass)
+        
     # Denser spices
     elif food == "Nutmeg, ground" or food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper" or food == "Old Bay" or food == "Turmeric, ground" or food == "Black pepper" or food == "Cinnamon, ground" or food == "Cinnamon":
         if vol == "1/8 tsp":
