@@ -41,6 +41,14 @@
         {% assign recipe = "false" %}
     {% endif %}
 
+    <!-- Dairy -->
+    {% assign dairy = "false" %}
+    {% if page.title == "I'm Dying For Dairy" %}
+        {% assign dairy = "true" %}
+        {% assign shorterFacts = "false" %}
+        {% assign recipe = "false" %}
+    {% endif %}
+
     <!-- Use parameters or not -->
     {% assign facts = page.facts %}
     {% if include.facts %}
@@ -529,6 +537,47 @@
             {% assign vitK = "" %}
             {% assign calc = "" %}
             {% assign sel = "" %}
+            {% assign choline = "" %}
+            {% assign histidine = "" %}
+            {% assign isoleucine = "" %}
+            {% assign leucine = "" %}
+            {% assign lysine = "" %}
+            {% assign methionine = "" %}
+            {% assign phenylalanine = "" %}
+            {% assign threonine = "" %}
+            {% assign tryptophan = "" %}
+            {% assign valine = "" %}
+        {% endif %}
+
+        <!-- Dairy -->
+        {% if dairy == "true" %}
+            {% assign mono = "" %}
+            {% assign poly = "" %}
+            {% assign trans = "" %}
+            {% assign choles = "" %}
+            {% assign fib = "" %}
+            {% assign addedSugar = "" %}
+            {% assign sugAlc = "" %}
+            {% assign all = "" %}
+            {% assign vitA = "" %}
+            {% assign vitB1 = "" %}
+            {% assign vitB2 = "" %}
+            {% assign vitB3 = "" %}
+            {% assign vitB5 = "" %}
+            {% assign vitB6 = "" %}
+            {% assign vitB9 = "" %}
+            {% assign vitC = "" %}
+            {% assign vitD = "" %}
+            {% assign vitE = "" %}
+            {% assign vitK = "" %}
+            {% assign cop = "" %}
+            {% assign iron = "" %}
+            {% assign magn = "" %}
+            {% assign mang = "" %}
+            {% assign phos = "" %}
+            {% assign pot = "" %}
+            {% assign sel = "" %}
+            {% assign zinc = "" %}
             {% assign choline = "" %}
             {% assign histidine = "" %}
             {% assign isoleucine = "" %}

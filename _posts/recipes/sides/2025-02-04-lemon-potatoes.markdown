@@ -54,4 +54,6 @@ Instructions:
 
 - When you're ready to cook, preheat your oven to 350F. Bake the potatoes (covered) until fork tender, about 1 - 1.5 hours.  Garnish with parsley and lemon zest
 - <center><img src="/assets/Food/Sides/Lemon Potatoes/cooked.jpg" alt="" class="instruction-image"></center>
+
+- <center></center><i>Note</i>:<b></b> To make this garlic/onion free, simply omit the chicken bouillon and minced garlic.  Instead, double the salt to 2 tsp (12 g), and add 2 tsp (6 g) black pepper.  This also doubles as vegetarian/vegan
 ---
