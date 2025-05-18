@@ -19,6 +19,9 @@
 {% elsif page.title == "___ + Eggs = Waffles??" %}
     {% assign loopVarFacts = site.data.waffle[facts] %}
     {% assign loopVarIng = site.data.waffle[ing] %}
+{% elsif page.title == "Flourless Keto Brownies (2 g Net Carbs)" or page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" %}
+    {% assign loopVarFacts = site.data[facts] %}
+    {% assign loopVarIng = site.data[ing] %}
 {% endif %}
 
 <!-- Show DV % -->
@@ -41,7 +44,9 @@
     page.title == "I'm Hooked On Fish" or
     page.title == "A Grain Of Truth" or
     page.title == "I'm Dying For Dairy" or
-    page.title == "B-Ware the Deficiency: The Power of B12"
+    page.title == "B-Ware the Deficiency: The Power of B12" or
+    page.title == "Flourless Keto Brownies (2 g Net Carbs)" or
+    page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)"
 %}
     {% assign showPercentage = "False" %}
 {% endif %}
