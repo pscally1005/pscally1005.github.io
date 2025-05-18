@@ -9,7 +9,7 @@ permalink: /recipes/pickled-onions
 image: /assets/Food/Savory Sauces/Quick Pickles/quick-pickles.jpg
 ing: quickpickle-ing
 facts: quickpickle-facts
-servingSize: 
+servingSize: 1 oz (28 g)
 section1: 
 start2: 
 section2: 
@@ -40,7 +40,5 @@ tags:
 - vic
 Description: Quick pickles add a great color and flavor pop to nearly every dish, and red onions are my personal favorite vegetable for this. Simply cover with water and vinegar in a mason jar, and you're done!
 Instructions: 
-- Cut the red onions into long thin strips and add to a mason jar. Season with salt and minced garlic. Pour in vinegar and water. The onions should be just covered, about half water to half vinegar. Let pickle in the fridge for at least a few days before eating
-
-- Pour in vinegar and water. The onions should be just covered, about half water to half vinegar. Let pickle in the fridge for at least a few days before eating
+- Cut the red onions into long thin strips and add to a large mason jar. In a measuring cup, mix together water, vinegar, salt, garlic, and dill.  Pour over the sliced onions, and let pickle in the fridge for at least a few days before eating
 ---
