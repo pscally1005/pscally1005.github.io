@@ -396,6 +396,8 @@ def ingredients(food):
         return str("Celery")
     
     # Frozen produce
+    elif food == "Corn, unprepared, kernels cut off cob, frozen, yellow, sweet":
+        return str("Frozen corn")
     elif food == "Squash, unprepared, frozen, butternut, winter":
         return str("Frozen butternut squash, thawed")
     elif food == "Blueberries, frozen, wild" or food == "Blueberries, unsweetened, frozen":
