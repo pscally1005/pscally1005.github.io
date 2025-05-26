@@ -452,7 +452,7 @@ def ingredients(food):
         return str("Pickles")
     elif food == "Capers by RALEY'S":
         return str("Capers")
-    elif food == "Sardines in water":
+    elif food == "Sardines in water" or food == "Sardines, canned in water":
         return str("Sardines, in water")
     elif food == "No salt added diced tomatoes by VINE RIPE":
         return str("Diced tomatoes, unsalted")

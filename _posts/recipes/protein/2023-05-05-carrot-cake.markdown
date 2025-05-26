@@ -54,7 +54,7 @@ Instructions:
 
 - In a large bowl, mix together the dry ingredients - oat flour, casein, whey, cinnamon, ginger, baking powder, baking soda, nutmeg, and salt
 
-- To a separate bowl, add the wet ingredients (eggs, applesauce, yogurt, vanilla, and liquid stevia) and the carrot puree. Mix until fully combine
+- To a separate bowl, add the wet ingredients (eggs, applesauce, yogurt, vanilla, and liquid stevia) and the carrot puree. Mix until fully combined
 
 - Mix the dry and the wet ingredients together. Optionally fold in some chopped nuts (1/2 cup, 45 g) 
 
