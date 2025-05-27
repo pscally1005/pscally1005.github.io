@@ -41,7 +41,7 @@ tags:
 - unsweetened applesauce
 Description: Did you know that <a href="/misc/fake-healthy-foods#nutella">Nutella</a> contains only about 13% hazelnuts? More than half of Nutella is pure sugar, and over a third of it is hydrogenated oils; that's gross. This recipe is a much cleaner Nutella, instead being predominantly hazelnuts, and sweetened with fully natural overripe bananas. Carob powder makes it slightly sweeter as well, but feel free to use cocoa powder instead
 Instructions: 
-- Preheat your air fryer to 300F. Add raw hazelnuts to the basket, and roast for 15 minutes.  If you hazelnuts are already roasted, just 5 minutes will do
+- Preheat your air fryer to 300F. Add raw hazelnuts to the basket, and roast for 15 minutes.  If your hazelnuts are already roasted, just 5 minutes will do
 
 - Add the nuts to a food processor, and blend until a super smooth hazelnut butter forms, scraping down the sides every minute or so. This can take about 5 minutes; don't stop too early
 - <center><img src="/assets/Food/Sweet Spreads/Nutella/nut-butter.jpg" alt="" class="instruction-image"></center>

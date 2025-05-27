@@ -18,7 +18,7 @@ Cooked black beans,0.86,255.00,0.00337,30.00,16.55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 "Pinto beans, NOT drained or rinsed",0.86,439.00,0.00196,16.26,7.84,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Beans, NOT drained or rinsed",0.86,439.00,0.00196,16.26,7.84,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Dried beans,1.00,454.00,0.00220,33.00,62.55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Dry Yeast,5.48,112.00,0.04893,28.00,41.22,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Fleischmann-39-s-Active-Dry-Yeast-4-Oz/10306743?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+Dry Yeast,5.48,112.00,0.04893,28.00,41.22,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3HcHRxn,0.0,0.0
 Salt,0.67,728.00,0.00092,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Flakey salt,0.67,728.00,0.00092,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Extra virgin olive oil,6.72,476.00,0.01412,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -58,7 +58,7 @@ Baking soda,0.92,454.00,0.00203,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0
 Buttermilk,2.23,"1,000.00",0.00223,31.00,4.88,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Egg,4.50,918.00,0.00490,0.00,0.00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Egg, hard boiled",4.50,918.00,0.00490,0.00,0.00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,/recipes/hard-boiled-egg,0.0,0.0
-Coconut flour,6.57,"1,008.00",0.00652,51.00,57.14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
+Coconut flour,6.57,"1,008.00",0.00652,51.00,57.14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3SSE6zA,0.0,0.0
 "Whey protein powder, unflavored",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kBoGeY,0.0,0.0
 Whey protein powder,50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kBoGeY,0.0,0.0
 "Whey protein powder, chocolate",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
@@ -69,9 +69,9 @@ Almond butter,3.99,454.00,0.00879,10.00,21.55,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0
 Red lentils,1.50,454.00,0.00330,32.00,63.35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Red split lentils,1.50,454.00,0.00330,32.00,63.35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Chia seeds,9.97,998.80,0.00998,5.00,42.12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4mwpWl9,0.0,0.0
-Liquid stevia,3.34,47.04,0.07100,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Splenda-ZERO-Stevia-Liquid-Zero-Calorie-Sweetener-3-38-fl-oz/616697386?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
-Liquid monk fruit,6.34,92.40,0.06861,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Splenda-ZERO-Monk-Fruit-Zero-Calorie-Liquid-Sweetener-3-38-fl-oz/875266912?classType=REGULAR&from=/search,0.0,0.0
-Liquid stevia or monk fruit,4.84,69.72,0.06981,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Splenda-ZERO-Monk-Fruit-Zero-Calorie-Liquid-Sweetener-3-38-fl-oz/875266912?classType=REGULAR&from=/search,0.0,0.0
+Liquid stevia,3.34,47.04,0.07100,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/45wOzIv,0.0,0.0
+Liquid monk fruit,6.34,92.40,0.06861,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3SqwsMO,0.0,0.0
+Liquid stevia or monk fruit,4.84,69.72,0.06981,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3SqwsMO,0.0,0.0
 Almond milk,2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Unsweetened almond milk,2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Unsweetened vanilla almond milk,2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
@@ -80,7 +80,7 @@ Unsweetened vanilla almond milk,2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE
 Cocoa powder,2.48,"1,808.00",0.00137,20.00,58.30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Powdered peanut butter,12.11,679.20,0.01783,14.00,31.25,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://amzn.to/3ZzVH2Z,0.0,0.0
 Almond extract,7.57,454.00,0.01667,0.00,0.00,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://amzn.to/4khDgIM,0.0,0.0
-"Almond extract, or vanilla",7.57,454.00,0.01667,0.00,0.00,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://www.amazon.com/dp/B07DKFW2HM?amp=&amp=,0.0,0.0
+"Almond extract, or vanilla",7.57,454.00,0.01667,0.00,0.00,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://amzn.to/4khDgIM,0.0,0.0
 Pumpkin puree,1.47,424.50,0.00346,75.00,8.13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pumpkin-puree,0.0,0.0
 Pumpkin Puree,1.47,424.50,0.00346,75.00,8.13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pumpkin-puree,0.0,0.0
 "Pumpkin puree, or sweet potato",1.47,424.50,0.00346,75.00,8.13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pumpkin-puree,0.0,0.0
@@ -152,8 +152,8 @@ Italian seasoning,1.12,26.60,0.04211,20.00,0.25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.
 Plantain,0.60,454.00,0.00132,66.00,31.89,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Plantain, yellow",0.60,454.00,0.00132,66.00,31.89,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Plantain, green",0.60,454.00,0.00132,44.00,36.66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Almond flour,5.88,454.00,0.01295,10.00,21.55,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Superfine-Blanched-Almond-Flour-2-lb/896217647?classType=REGULAR&athbdg=L1300&from=/search,0.0,0.0
-Almond flour (or whole nuts),5.88,454.00,0.01295,10.00,21.55,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Superfine-Blanched-Almond-Flour-2-lb/896217647?classType=REGULAR&athbdg=L1300&from=/search,0.0,0.0
+Almond flour,5.88,454.00,0.01295,10.00,21.55,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://amzn.to/4k90gtm,0.0,0.0
+Almond flour (or whole nuts),5.88,454.00,0.01295,10.00,21.55,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://amzn.to/4k90gtm,0.0,0.0
 "Oregano, dried",1.12,24.36,0.04598,8.00,68.92,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Grated parmesan cheese,2.98,224.00,0.01330,27.00,3.22,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Thyme, dried",12.30,448.00,0.02746,10.00,63.94,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -167,7 +167,7 @@ Balsamic vinegar,3.92,236.60,0.01657,50.00,17.03,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0
 Artichokes,2.22,385.00,0.00577,43.00,3.85,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Baby carrots,2.68,908.00,0.00295,49.00,9.58,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Coleslaw mix,1.97,454.00,0.00434,32.00,30.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Gochujang,3.99,492.80,0.00810,46.00,40.00,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,28.6,https://www.walmart.com/ip/Trader-Joe-s-Gochujang-Authentic-Korean-Red-Pepper-Paste-7-05-Oz-1-Pack/9308558379?fulfillmentIntent=Shipping&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22Shipping%22%5D%7D%5D&classType=VARIANT,0.0,0.0
+Gochujang,3.99,492.80,0.00810,46.00,40.00,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,28.6,https://amzn.to/3FmYk1m,0.0,0.0
 Cucumber,0.64,200.00,0.00320,15.00,3.63,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Romaine lettuce,3.62,600.00,0.00603,15.00,3.29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Roasted red peppers,2.13,336.00,0.00634,45.00,6.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/roasted-vegetables,0.0,0.0
@@ -184,7 +184,7 @@ Mustard,1.52,336.00,0.00452,35.00,5.83,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.
 Celery seed,4.26,50.40,0.08452,24.00,41.35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 White Mushrooms,1.78,224.00,0.00795,32.00,3.26,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 White mushrooms,1.78,224.00,0.00795,32.00,3.26,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Chicken bouillon powder,5.98,896.00,0.00194,41.00,28.57,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Knorr-Granulated-Bouillon-Chicken-Flavor-Cholesterol-Free-Powder-7-9-oz-Jar/10291826?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=VARIANT&athbdg=L1200&from=/search,0.0,0.0
+Chicken bouillon powder,5.98,896.00,0.00194,41.00,28.57,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://amzn.to/3Hco5lz,0.0,0.0
 Bouillon powder,5.98,896.00,0.00194,41.00,28.57,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Crushed tomatoes,1.52,784.00,0.00194,38.00,7.29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Tomato paste,0.86,168.00,0.00512,38.00,18.91,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -205,25 +205,25 @@ Ground chicken,3.42,454.00,0.00753,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0
 Cranberries,1.96,168.00,0.01167,45.00,11.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Eggplant,1.58,454.00,0.00348,15.00,5.88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Brown rice,1.64,896.00,0.00183,54.00,76.25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Grape leaves,17.49,454.00,0.03852,12.00,20.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Orlando-California-Grapes-Leaves-16-oz/120027690?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
+Grape leaves,17.49,454.00,0.03852,12.00,20.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3Hec3rW,0.0,0.0
 "Dill, fresh",1.98,14.00,0.14143,15.00,7.02,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Ground turkey, 93/7",3.99,454.00,0.00879,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Turmeric, ground",2.00,56.00,0.03571,5.00,67.14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 White cooking wine,3.48,366.80,0.00949,15.00,6.30,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Clams,2.32,182.00,0.01275,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-"Tuna, in water",3.28,452.80,0.00724,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Chunk-Light-Tuna-in-Water-5-oz/11965048?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+"Tuna, in water",3.28,452.80,0.00724,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://amzn.to/3Z2YhhM,0.0,0.0
 Pickles,2.47,140.00,0.01764,32.00,21.15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Capers,1.72,64.00,0.02688,41.00,4.89,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Walnuts,5.98,454.00,0.01317,20.00,13.71,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Walnut butter,5.98,454.00,0.01317,20.00,13.71,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,/recipes/natural-peanut-butter,0.0,0.0
 Macadamia nuts,4.13,112.00,0.03688,10.00,13.82,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Tilapia,10.78,908.00,0.01187,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-"Frozen raw shrimp, peeled and deveined",4.68,339.60,0.01378,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Frozen-Raw-Small-Peeled-Deveined-Tail-off-Shrimp-12-oz-60-80-Count-per-lb/44391062?classType=REGULAR&athbdg=L1300&from=/search,0.0,0.0
-"Frozen cooked shrimp, peeled and deveined",5.47,339.60,0.01611,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Frozen-Cooked-Medium-Peeled-Deveined-Tail-on-Shrimp-12-oz-Bag-41-60-Count-per-lb/22700527?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+"Frozen raw shrimp, peeled and deveined",4.68,339.60,0.01378,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kpECB6,0.0,0.0
+"Frozen cooked shrimp, peeled and deveined",5.47,339.60,0.01611,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://amzn.to/3FBnSHY,0.0,0.0
 Salmon,13.98,908.00,0.01540,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Frozen brussel sprouts, thawed",1.42,336.00,0.00423,32.00,8.95,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Old Bay,4.43,168.00,0.02637,29.00,50.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-"Sardines, in water",1.07,105.00,0.01019,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Chicken-of-the-Sea-Wild-Caught-Sardines-in-Water-3-75-oz-Can/197708530?classType=VARIANT&athbdg=L1600&from=/search,0.0,0.0
+"Sardines, in water",1.07,105.00,0.01019,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4mA8XOU,0.0,0.0
 Everything bagel seasoning,2.12,72.80,0.02912,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Whole wheat pasta,1.43,454.00,0.00315,50.00,73.37,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Panko breadcrumbs,1.87,224.00,0.00835,71.00,71.43,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -241,34 +241,34 @@ Shredded cheddar cheese,2.22,224.00,0.00991,27.00,3.09,TRUE,TRUE,FALSE,FALSE,TRU
 Cheddar cheese,2.22,224.00,0.00991,27.00,3.09,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Pine nuts,6.92,112.00,0.06179,10.00,19.30,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Pork tenderloin,3.43,454.00,0.00756,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-Sugar free chocolate chips,3.97,252.00,0.01575,23.00,60.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Bake-Believe-Keto-Friendly-Dark-Chocolate-Chips-9-oz-Pouch/314343390?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&athbdg=L1600&from=/search,20.0,0.0
+Sugar free chocolate chips,3.97,252.00,0.01575,23.00,60.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4kGEfC5,20.0,0.0
 Chocolate chips,3.97,252.00,0.01575,45.00,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
 Semisweet chocolate chips,2.32,336.00,0.00690,45.00,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
 Semi-sweet chocolate chips,2.32,336.00,0.00690,45.00,63.90,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
 Semisweet chocolate chips (optional),2.32,336.00,0.00690,0.00,0.00,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
 Dark chocolate chips,2.32,336.00,0.00690,23.00,52.42,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,,0.0,0.0
 Egg whites,1.30,540.00,0.00241,0.00,0.00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-Unsweetened coconut flakes,2.64,196.00,0.01347,10.00,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Organic-Unsweetened-Coconut-Flakes-7-oz-198g/52796312?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
+Unsweetened coconut flakes,2.64,196.00,0.01347,10.00,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4kyFvXL,0.0,0.0
 Pitted dates,3.99,672.00,0.00594,62.00,74.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Dates,3.99,672.00,0.00594,62.00,74.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 100% chocolate,0.95,113.00,0.00841,40.00,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/chocolate-bar,0.0,0.0
 Vanilla extract,1.67,224.00,0.00746,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43MkDqr,0.0,0.0
 "Vanilla extract, or almond",1.67,224.00,0.00746,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43MkDqr,0.0,0.0
-Granulated monk fruit,5.20,454.00,0.01145,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Monk-Fruit-Erythritol-Zero-Calorie-Sweetener-16-oz/9748217764?classType=REGULAR&from=/search,100.0,0.0
-Granulated stevia,6.12,271.60,0.02253,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Pyure-Organic-Stevia-Blend-Granular-All-Purpose-Sweetener-12-Oz/628088392?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=VARIANT&athbdg=L1600&from=/search,100.0,0.0
-Powdered monk fruit,9.31,454.00,0.02051,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Lakanto-Powdered-Monkfruit-Sweetener-1-LB-453G/341882677?classType=VARIANT&athbdg=L1200&from=/search,100.0,0.0
+Granulated monk fruit,5.20,454.00,0.01145,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4k6VRXU,100.0,0.0
+Granulated stevia,6.12,271.60,0.02253,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43wL0zp,100.0,0.0
+Powdered monk fruit,9.31,454.00,0.02051,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43vQs5E,100.0,0.0
 Pecans,9.87,454.00,0.02174,10.00,13.86,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Carob powder,9.49,454.00,0.02090,50.00,88.88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43yH55d,0.0,0.0
 Cacao powder,9.34,454.00,0.02057,15.00,55.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4jqcKMa,0.0,0.0
-Diced green chiles,0.84,112.00,0.00750,42.00,4.60,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Canned-Medium-Diced-Green-Chiles-4-Oz/10415222?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
+Diced green chiles,0.84,112.00,0.00750,42.00,4.60,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43APBRm,0.0,0.0
 Spaghetti squash,1.58,454.00,0.00348,32.00,6.91,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Chipotle peppers in adobo sauce,1.63,196.00,0.00832,45.00,10.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/La-Costena-In-Adobo-Sauce-Chipotle-Peppers-7-Oz/13424766?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=VARIANT&athbdg=L1200&from=/search,0.0,0.0
+Chipotle peppers in adobo sauce,1.63,196.00,0.00832,45.00,10.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/44QBd9M,0.0,0.0
 "Frozen kale, thawed",1.57,336.00,0.00467,32.00,8.75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Vegetables,0.98,336.00,0.00292,45.00,13.09,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Nutritional yeast,5.12,140.00,0.03657,11.00,33.33,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Nutritional-Yeast-Flakes-5oz/226488899?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
+Nutritional yeast,5.12,140.00,0.03657,11.00,33.33,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43wLkhB,0.0,0.0
 Low sodium vegetable broth,3.18,960.00,0.00331,39.00,10.28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Cilantro, fresh",2.72,454.00,0.00599,32.00,3.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Chickpea pasta,3.18,224.00,0.01420,44.00,56.14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Banza-Rotini-Chickpea-Pasta-8-Oz/47714096?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=VARIANT&from=/search,0.0,0.0
+Chickpea pasta,3.18,224.00,0.01420,44.00,56.14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4kdHvoC,0.0,0.0
 "Spinach, fresh",4.98,454.00,0.01097,32.00,3.63,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Garlic, fresh",4.88,454.00,0.01075,30.00,33.06,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Sunflower kernels,2.99,454.00,0.00659,20.00,24.07,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -302,19 +302,19 @@ Unsalted butter,3.78,454.00,0.00833,0.00,0.00,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.
 Salted butter,3.78,454.00,0.00833,0.00,0.00,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 All purpose flour,4.57,"4,540.00",0.00101,75.00,76.31,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Salsa,1.98,454.00,0.00436,45.00,6.64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/salsa,0.0,0.0
-Duncan Hines Keto Brownie Mix,5.92,280.00,0.02114,51.00,55.56,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,https://www.walmart.com/ip/Duncan-Hines-Keto-Friendly-Chewy-Fudge-Brownie-Mix-10-oz/433466256?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&from=/search,20.8,0.0
+Duncan Hines Keto Brownie Mix,5.92,280.00,0.02114,51.00,55.56,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,https://amzn.to/43uSbYP,20.8,0.0
 Powdered sugar,2.22,905.60,0.00245,68.00,99.98,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,,0.0,0.0
 Skim milk,2.69,"3,904.00",0.00069,32.00,4.85,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-Fairlife skim milk,4.29,"1,464.00",0.00293,32.00,2.45,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz/43984342?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+Fairlife skim milk,4.29,"1,464.00",0.00293,32.00,2.45,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz/43984342?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
 Ricotta cheese,1.35,480.00,0.00280,27.00,6.86,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Whey syrup,1.35,180.00,0.00747,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Cornmeal,1.56,905.60,0.00172,68.00,79.45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Ground flaxseed,3.48,454.00,0.00767,35.00,28.57,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Organic-Ground-Cold-Milled-Flax-Seed-16-oz/52633655?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&from=/search,0.0,0.0
-Liquid egg whites,3.98,908.00,0.00438,0.00,0.00,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Cage-Free-100-Liquid-Egg-Whites-32-oz/354308916?fulfillmentIntent=In-store&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22In-store%22%5D%7D%5D&classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+Ground flaxseed,3.48,454.00,0.00767,35.00,28.57,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43tlQlb,0.0,0.0
+Liquid egg whites,3.98,908.00,0.00438,0.00,0.00,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/3Hdzv8u,0.0,0.0
 Kiwi,2.49,454.00,0.00548,58.00,14.66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Beer, room temperature",20.27,"4,258.58",0.00476,100.00,3.55,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Corn on the cob,0.50,102.00,0.00490,55.00,23.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-"Anchovies, canned",1.69,56.60,0.02986,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Cento-Flat-Fillets-Anchovies-in-Olive-Oil-2-oz/49238657?classType=REGULAR&from=/search,0.0,0.0
+"Anchovies, canned",1.69,56.60,0.02986,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://amzn.to/43OmNGa,0.0,0.0
 Marmite,7.50,124.52,0.06023,0.00,0.00,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/45p7lBy,0.0,0.0
 Celery,2.38,454.00,0.00524,32.00,2.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 "Aquafaba, or water",0.00,1.00,0.00000,28.00,2.90,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -324,21 +324,21 @@ Tahini,3.99,454.00,0.00879,20.00,21.19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipe
 Nutricost Electrolyte Mix,17.95,341.00,0.05264,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4jlTnUq,0.0,0.0
 Electrolyte mix,17.95,341.00,0.05264,68.00,68.75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4jlTnUq,0.0,0.0
 "Basil, fresh",3.29,113.20,0.02906,5.00,2.65,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Millet flour,3.59,566.00,0.00634,70.00,75.12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Bob-s-Red-Mill-Millet-Flour-20-oz/654745001?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
-"Psyllium husks, whole",7.99,339.60,0.02353,20.00,91.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/NOW-Supplements-Whole-Psyllium-Husks-Non-GMO-Project-Verified-Soluble-Fiber-12-Ounce/52699233?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+Millet flour,3.59,566.00,0.00634,70.00,75.12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4dLczd1,0.0,0.0
+"Psyllium husks, whole",7.99,339.60,0.02353,20.00,91.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3FAdvEl,0.0,0.0
 "Tofu, firm",2.00,454.00,0.00441,15.00,0.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-duncan hines dark chocolate fudge brownie mix,1.54,515.06,0.00299,62.00,79.00,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,51.7,https://www.walmart.com/ip/Duncan-Hines-Dark-Chocolate-Fudge-Brownie-Mix-18-2-oz/10309742?classType=VARIANT&athbdg=L1600&from=/search,0.0,0.0
+duncan hines dark chocolate fudge brownie mix,1.54,515.06,0.00299,62.00,79.00,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,51.7,https://amzn.to/3SjWmlg,0.0,0.0
 Canola oil,4.12,"1,344.00",0.00307,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Mint extract,4.92,56.60,0.08693,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 70% chocolate,3.37,99.05,0.03402,43.00,48.48,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,30.0,,0.0,0.0
-Popcorn kernels,2.00,908.00,0.00220,65.00,69.44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Yellow-Popping-Corn-32-oz/1952326595?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+Popcorn kernels,2.00,908.00,0.00220,65.00,69.44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43zN9KE,0.0,0.0
 Sugar pumpkin,2.29,764.00,0.00300,75.00,6.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Red lentil pasta,3.00,249.04,0.01205,44.00,60.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Barilla-Red-Lentil-Penne-Pasta-8-8-Oz-Vegan-Gluten-Free-Non-Gmo-Kosher-Made-With-Plant-Based-Protein/5455670120?classType=REGULAR&from=/search,0.0,0.0
+Red lentil pasta,3.00,249.04,0.01205,44.00,60.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3SlgvaD,0.0,0.0
 Date Sweetened Ketchup,1.94,400.00,0.00485,53.00,29.40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/ketchup,0.0,0.0
 Date sweetened ketchup,1.94,400.00,0.00485,53.00,29.40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/ketchup,0.0,0.0
-"Vanilla Nonfat Greek Yogurt, Sugar Free",5.48,905.60,0.00605,36.00,3.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Chobani-Zero-Sugar-Vanilla-32oz-Plastic-Tub/805195430?classType=REGULAR&from=/search,0.0,2.7
+"Vanilla Nonfat Greek Yogurt, Sugar Free",5.48,905.60,0.00605,36.00,3.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/43NZ2On,0.0,2.7
 Quinoa,6.22,905.60,0.00687,53.00,64.16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Canned salmon,2.00,85.00,0.02353,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Chunk-Style-Pink-Salmon-5-oz/174351945?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+Canned salmon,2.00,85.00,0.02353,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://amzn.to/3HfjlLU,0.0,0.0
 Sauerkraut,3.50,908.00,0.00385,32.00,4.28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Sauerkraut juice,3.50,908.00,0.00385,5.00,1.50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Whole wheat baguette,0.65,190.00,0.00342,73.60,40.40,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/whole-wheat-baguettes,0.0,0.0
@@ -346,21 +346,21 @@ Mandarin orange,3.97,"1,362.00",0.00291,42.00,14.34,TRUE,TRUE,TRUE,TRUE,TRUE,TRU
 Graham cracker,2.22,407.52,0.00545,74.00,77.66,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,25.8,,0.0,0.0
 50% chocolate,1.12,99.62,0.01124,23.00,52.42,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,48.5,,0.0,0.0
 Marshmallow,1.17,283.00,0.00413,63.00,81.30,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,60.7,,0.0,0.0
-Evaporated milk,1.22,339.60,0.00359,27.00,10.04,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Evaporated-Milk-12-Oz/10534163?classType=VARIANT&athbdg=L1200&from=/search,0.0,0.0
-Fat free evaporated milk,1.22,339.60,0.00359,32.00,13.33,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Carnation-Vitamins-A-D-Added-Fat-Free-Evaporated-Milk-12-oz/10291885?classType=VARIANT&from=/search,0.0,0.0
-Allulose,16.96,"1,135.00",0.01494,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/dp/B0BKR55C7H,0.0,100.0
+Evaporated milk,1.22,339.60,0.00359,27.00,10.04,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/44QEaHo,0.0,0.0
+Fat free evaporated milk,1.22,339.60,0.00359,32.00,13.33,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/3Zrz019,0.0,0.0
+Allulose,16.96,"1,135.00",0.01494,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4mzsH5p,0.0,100.0
 Allulose chocolate bar,1.97,176.00,0.01118,40.00,56.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/misc/healthier-brownies-experiment#allulose-chocolate,0.0,40.9
 Maple extract,2.50,30.00,0.08333,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Rum extract,2.50,30.00,0.08333,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Sugar free cranberry sauce,5.23,600.00,0.00872,42.80,15.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/cranberry-sauce,0.0,0.0
 "Rosemary, dried",2.42,22.64,0.10689,12.00,64.06,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Whole wheat pita bread,0.27,60.00,0.00442,73.40,54.00,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pita,0.0,0.0
-Vanilla instant pudding mix,0.98,96.22,0.01018,44.00,95.83,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,https://www.walmart.com/ip/Great-Value-Vanilla-Instant-Pudding-Pie-Filling-3-4-oz-Carton/10534174?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
+Vanilla instant pudding mix,0.98,96.22,0.01018,44.00,95.83,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,https://amzn.to/4jjD7mH,0.0,0.0
 Beef liver,3.29,454.00,0.00725,0.00,3.89,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Creamy pesto dip,3.80,688.00,0.00552,25.10,7.44,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,/recipes/creamy-pesto,0.0,0.0
 Simple pasta sauce,2.69,800.00,0.00336,33.50,10.20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pasta-sauce,0.0,0.0
 Gluten free graham crackers,1.42,300.00,0.00473,38.60,53.21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,/recipes/gf-crackers,3.2,0.0
-Garam masala,2.99,48.11,0.06215,15.00,70.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/McCormick-Gourmet-Garam-Masala-Blend-1-7-oz/10309043?classType=REGULAR&from=/search,0.0,0.0
+Garam masala,2.99,48.11,0.06215,15.00,70.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43eSet0,0.0,0.0
 Chickpea flour,1.50,454.00,0.00330,38.00,62.95,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/misc/homemade-flours,0.0,0.0
 Sodium Chloride,2.59,454.00,0.00570,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43xsRBI,0.0,0.0
 Potassium Chloride,9.98,254.70,0.03918,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43rFQEN,0.0,0.0
@@ -380,18 +380,18 @@ Aquafaba Whipped Cream,1.53,245.50,0.00623,2.70,22.00,TRUE,TRUE,TRUE,TRUE,TRUE,T
 Healthier Graham Cracker Pie Crust,1.53,255.00,0.00600,38.50,72.94,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,/recipes/pie-crust,3.8,0.0
 Whole wheat pizza dough,1.37,586.00,0.00234,74.00,39.66,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pizza,0.0,0.0
 Broccoli rabe,0.99,454.00,0.00218,32.00,2.85,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Hemp hearts,10.97,454.00,0.02416,15.00,8.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Manitoba-Harvest-1042092-Hemp-Hearts-1-lb/28788924?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
-Hemp seeds,10.97,454.00,0.02416,15.00,8.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Manitoba-Harvest-1042092-Hemp-Hearts-1-lb/28788924?classType=REGULAR&athbdg=L1200&from=/search,0.0,0.0
+Hemp hearts,10.97,454.00,0.02416,15.00,8.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4jnDTiH,0.0,0.0
+Hemp seeds,10.97,454.00,0.02416,15.00,8.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4jnDTiH,0.0,0.0
 Chicken liver,1.96,566.00,0.00346,0.00,0.73,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-"Ground coffee, decaf",9.96,732.97,0.01359,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Decaf-Coffee-Medium-Roast-Ground-Coffee-25-9-Ounce-Canister/6054967428?classType=REGULAR&athbdg=L1600&from=/search,0.0,0.0
-Couscous,7.99,749.95,0.01065,60.00,77.43,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/RiceSelect-Original-Couscous-Moroccan-Style-Couscous-26-5-oz-Jar/10403512?classType=VARIANT&athbdg=L1600&from=/search,0.0,0.0
-"Rice vinegar, unsweetened",2.92,360.00,0.00811,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Mizkan-Rice-Vinegar-Mild-and-Mellow-12-fl-oz/220935703?classType=VARIANT&athbdg=L1600&from=/search,0.0,0.0
+"Ground coffee, decaf",9.96,732.97,0.01359,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43fldNm,0.0,0.0
+Couscous,7.99,749.95,0.01065,60.00,77.43,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3HfZbla,0.0,0.0
+"Rice vinegar, unsweetened",2.92,360.00,0.00811,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43hdvlT,0.0,0.0
 "Frozen string beans, thawed",1.49,454.00,0.00328,32.00,7.54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Goat cheese,2.99,113.20,0.02641,30.00,0.00,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Pickled ginger,3.39,170.00,0.01994,15.00,4.83,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,10.0,,0.0,0.0
 Dried seaweed,4.69,13.00,0.36077,55.00,80.88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Onion soup mix,0.98,56.60,0.01731,58.00,65.07,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,3.6,https://www.walmart.com/ip/6-pack-Great-Value-Onion-Recipe-Soup-Dip-Mix-2-oz-Shelf-Stable/14755562453?classType=VARIANT&from=/search,0.0,0.0
-Dried onion flakes,5.99,180.00,0.03328,58.00,83.28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.walmart.com/ip/Great-Value-Minced-Onion-17-oz/46861996?classType=VARIANT&from=/search,0.0,0.0
+Onion soup mix,0.98,56.60,0.01731,58.00,65.07,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,3.6,https://amzn.to/45qM9Lp,0.0,0.0
+Dried onion flakes,5.99,180.00,0.03328,58.00,83.28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43hCANC,0.0,0.0
 Prunes,4.99,454.00,0.01099,29.00,63.88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Dried figs,4.99,254.70,0.01959,61.00,53.20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Hot honey,3.94,360.00,0.01094,60.80,77.00,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,/recipes/hot-honey,0.0,0.0
