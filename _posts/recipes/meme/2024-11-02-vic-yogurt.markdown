@@ -38,7 +38,7 @@ tags:
 - honey
 - peanut butter
 - natural nut butter
-Description: Plain nonfat greek yogurt is a delicious, easy, and cheap source of protein, probiotics, calcium, and vitamin B12.  But some people hate that tang flavor.  I was able to find this <a href="https://www.walmart.com/ip/seort/805195430">zero sugar vanilla Greek yogurt</a> that's not only free of artificial sweeteners (it uses allulose, stevia, and monk fruit), but it's also lactose free.  It tastes just like those sugar filled yogurts without all the sugar, and it lacks that intense yogurt flavor that some people hate so much (I love it though lol)
+Description: Plain nonfat greek yogurt is a delicious, easy, and cheap source of protein, probiotics, calcium, and vitamin B12.  But some people hate that tang flavor.  I was able to find this <a href="https://amzn.to/4kCXb4u">zero sugar vanilla Greek yogurt</a> that's not only free of artificial sweeteners (it uses allulose, stevia, and monk fruit), but it's also lactose free.  It tastes just like those sugar filled yogurts without all the sugar, and it lacks that intense yogurt flavor that some people hate so much (I love it though lol)
 Instructions: 
 - In a small bowl, mix together yogurt, peanut butter, cocoa powder, and honey. Top with chocolate chips
 ---

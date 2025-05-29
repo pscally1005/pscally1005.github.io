@@ -35,7 +35,7 @@ tags:
 - protein bar
 Description: I used to never be a fan of protein shakes, but upon switching to unflavored protein powder I was able to customize them a lot more and avoid the gross sucralose taste, in my opinion. I'll normally have this to add some extra protein at a meal if I'm missing a protein source, like a meatless salad.
 Instructions: 
-- Add all ingredients to a shaker bottle and shake.  Sometimes I like to add in a serving of electrolyte powder as well
+- Add all ingredients to a shaker bottle and shake.  Sometimes I like to add in a serving of <a href="https://amzn.to/3FxWcDZ">electrolyte powder</a> as well
 
 - To make it lactose free, swap the milk for unsweetened almond milk
 

@@ -41,7 +41,7 @@ Instructions:
 
 - You can either sweeten your chocolate bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) liquid monk fruit or stevia, or 1 tbsp (20 g) honey or maple syrup
 
-- Pour into a chocolate mold (a parchment lined bread pan will also work).  <a href="https://www.amazon.com/Chocolate-Bar-Mold-Silicone-Break-Apart/dp/B0D9VBH35C/ref=sr_1_41?sr=8-41">These</a> are the ones I have.  A full batch of the chocolate will make 2 of these thin bars
+- Pour into a chocolate mold (a parchment lined bread pan will also work).  <a href="https://amzn.to/4mBCtnu">These</a> are the ones I have.  A full batch of the chocolate will make 2 of these thin bars
 - <center><img src="/assets/Food/Healthier Dessert/Choc Bar/mold.jpg" alt="" class="instruction-image"></center>
 
 - Chill in the fridge for at least an hour (or freeze for 15 minutes) to set before using

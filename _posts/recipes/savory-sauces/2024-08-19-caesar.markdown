@@ -36,7 +36,7 @@ tags:
 - greek yogurt
 - plain yogurt
 - croutons
-Description: 1 serving of a standard bottle of <a href="https://www.walmart.com/ip/Great-Value-Creamy-Caesar-Salad-Dressing-Dip-16-fl-oz/10452406?classType=REGULAR&athbdg=L1200&from=/search">Caesar dressing</a> contains 120 calories, 12 g of fat, no protein, mayo made from soybean oil, and a paragraph of ingredients. This healthy version on the other hand has less than half the calories, a third of the fat, and quadruple the protein. Plus, it only contains simple ingredients, and is made in just 5 minutes.  No raw eggs either! Each serving is about 2 tbsp, or 30 g
+Description: 1 serving of a standard bottle of <a href="https://amzn.to/4jmPi2g">Caesar dressing</a> contains 120 calories, 12 g of fat, no protein, mayo made from soybean oil, and a paragraph of ingredients. This healthy version on the other hand has less than half the calories, a third of the fat, and quadruple the protein. Plus, it only contains simple ingredients, and is made in just 5 minutes.  No raw eggs either! Each serving is about 2 tbsp, or 30 g
 Instructions: 
 - Using a small fine mesh strainer, thoroughly drain and rinse your anchovies
 - <center><img src="/assets/Food/Savory Sauces/Caesar/caesar-anchovies.jpg" alt="" class="instruction-image"></center>

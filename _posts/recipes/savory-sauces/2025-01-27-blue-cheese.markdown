@@ -47,5 +47,5 @@ Instructions:
 
 - I'm using cannellini beans here, but any light colored beans will work, like navy, pinto, or garbanzo (chickpeas)
 
-- For comparison, the same 2 tbsp (30 g) serving of <a href="https://www.walmart.com/ip/Great-Value-Blue-Cheese-Salad-Dressing-Dip-16-fl-oz/16618891?classType=REGULAR&from=/search">bottled blue cheese dressing</a> contains:<br><ul><li>2.5x the calories</li><li>5x the fat</li><li>No fiber or protein</li><li>No calcium, potassium, or iron</li><li>No folate or vitamin B12</li></ul>
+- For comparison, the same 2 tbsp (30 g) serving of <a href="https://amzn.to/4khxarK">bottled blue cheese dressing</a> contains:<br><ul><li>2.5x the calories</li><li>5x the fat</li><li>No fiber or protein</li><li>No calcium, potassium, or iron</li><li>No folate or vitamin B12</li></ul>
 ---

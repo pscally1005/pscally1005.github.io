@@ -93,33 +93,33 @@ tags:
 <br><i><font size="+2">Low Fat Options</font></i><br>
 &emsp;Ah low fat.  The glorious health craze of the 90s, where the food pyramid was in and eggs where the worst thing for your health.  In hindsight, this one didn't work out very well.  This era caused the spawn of low fat products, from yogurt to peanut butter.  To preface, fat is essentially and definitely healthy, but is also very calorie dense and very easy to overconsume.  That being said, both full fat and non fat options have their place when done correctly.
 
-&emsp;For example, let's look at dairy.  When you remove all the fat from <a rel="" target="" href="/misc/trap-foods-breakfast#yogurt">yogurt</a> or <a rel="" target="" href="/misc/trap-foods-drinks#milk">milk</a>, it doesn't taste as good.  As such, the food industry pumped it full of sugar instead to make up for the lack of taste.  This is a very common story across the grocery store; replace potentially healthy fats with cheap inflamatory and addicting sugars.  I will say that I personally buy <a href="https://www.walmart.com/ip/Great-Value-Milk-Fat-Free-Half-Gallon-Plastic-Jug/10450120?athbdg=L1600&from=/search">skim milk</a> and <a href="https://www.walmart.com/ip/Great-Value-Greek-Plain-Nonfat-Yogurt-32-oz-Tub/26559565?athbdg=L1200&from=/search">plain nonfat greek yogurt</a>, both of which are dairy products with little to no fat.  The main part however is the "plain".  This means unflavored, and thus unsweetened.  Definitely stay away from any flavored milks or dairy products, like <a href="https://www.walmart.com/ip/Great-Value-Original-Vanilla-Lowfat-Yogurt-32-oz/10450127?athbdg=L1600&from=/search">vanilla yogurt</a>, <a href="https://www.walmart.com/ip/Chobani-Non-Fat-Greek-Yogurt-Strawberry-Blended-32-oz-Plastic/25205749?from=/search">strawberry yogurt</a>, or <a href="https://www.walmart.com/ip/Great-Value-Milk-1-Lowfat-Chocolate-Gallon-Plastic-Jug/17248403?athbdg=L1200&from=/search">chocolate milk</a>.  All low fat, all pumped full of sugar.
+&emsp;For example, let's look at dairy.  When you remove all the fat from <a rel="" target="" href="/misc/trap-foods-breakfast#yogurt">yogurt</a> or <a rel="" target="" href="/misc/trap-foods-drinks#milk">milk</a>, it doesn't taste as good.  As such, the food industry pumped it full of sugar instead to make up for the lack of taste.  This is a very common story across the grocery store; replace potentially healthy fats with cheap inflamatory and addicting sugars.  I will say that I personally buy <a href="https://amzn.to/4kCZMvp">skim milk</a> and <a href="https://amzn.to/4dWtaLf">plain nonfat greek yogurt</a>, both of which are dairy products with little to no fat.  The main part however is the "plain".  This means unflavored, and thus unsweetened.  Definitely stay away from any flavored milks or dairy products, like <a href="https://amzn.to/3ZF1dRT">vanilla yogurt</a>, <a href="https://amzn.to/4dCummB">strawberry yogurt</a>, or <a href="https://amzn.to/3ZBLDXe">chocolate milk</a>.  All low fat, all pumped full of sugar.
 
 <center><img src="/assets/Misc/Nutrition/Trap/reduced_fat_pb.jpg" alt="" class="larger-image"></center>
-&emsp;Let's look at another; here we have <a href="https://www.walmart.com/ip/Jif-Reduced-Fat-Creamy-Peanut-Butter-Spread-60-Peanuts-16-Ounces/25847556?from=/search">reduced fat peanut spread</a>.  To be classified as peanut butter, a product needs to contain at least 90% peanuts; this only contains 60% nuts.  This spread contains 4 less grams of fat, and instead has 4 g of added sugar, as well as corn syrup, sugar, hydroginated oils, and a laundry list of additives you can't pronounce.  Stick to the <a href="/recipes/natural-peanut-butter">natty stuff</a>: just <a rel="" target="" href="/misc/trap-foods-snacks#nuts">nuts</a> and salt.  It's cheaper, tastes, better, and much better for you.  Win, win, win.
+&emsp;Let's look at another; here we have <a href="https://amzn.to/3Z4Bhiz">reduced fat peanut spread</a>.  To be classified as peanut butter, a product needs to contain at least 90% peanuts; this only contains 60% nuts.  This spread contains 4 less grams of fat, and instead has 4 g of added sugar, as well as corn syrup, sugar, hydroginated oils, and a laundry list of additives you can't pronounce.  Stick to the <a href="/recipes/natural-peanut-butter">natty stuff</a>: just <a rel="" target="" href="/misc/trap-foods-snacks#nuts">nuts</a> and salt.  It's cheaper, tastes, better, and much better for you.  Win, win, win.
 
 &emsp;Let's quickly rapid fire some low fat or fat free foods you should avoid.  All of these are filled with some combination of hidden sugars, hydroginated oils, ingredients you can't pronounce, artificial colors, or artificial flavorings: 
-- <a href="https://www.walmart.com/ip/Yoplait-Whips-Reduced-Fat-Yogurt-Mousse-Strawberry-Mist-Flavored-4-OZ-Yogurt-Cup/10320893?from=/search">Flavored yogurt cups</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Fat-Free-Half-and-Half-32-fl-oz/14336390?athbdg=L1600&from=/search">Fat free half and half</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Reduced-Fat-Vanilla-Ice-Cream-Bars-30-fl-oz-12-Pack/158778799?athbdg=L1600&from=/search">Reduced fat ice cream</a><br>
-- <a href="https://www.walmart.com/ip/I-Can-t-Believe-It-s-Not-Butter-Light-Spread-15-oz-Tub-Refrigerated/10306828?from=/search">Light butter</a><br>
-- <a href="https://www.walmart.com/ip/Kraft-Light-Mayo-with-1-2-the-Fat-Calories-of-Regular-Mayonnaise-Squeeze-Bottle-22-fl-oz/14647644?athbdg=L1600&from=/search">Light mayo</a>
-- <a href="https://www.walmart.com/ip/Great-Value-Ranch-Dressing-Dip-Fat-Free-16-fl-oz/24087348?from=/search">Low fat salad dressings</a><br>
-- <a href="https://www.walmart.com/ip/Stauffer-s-Animal-Crackers-Original-24-oz-Shelf-Stable-Bear-Jug/35213418?athbdg=L1600&from=/search">Low fat cookies</a><br>
-- <a href="https://www.walmart.com/ip/Post-Honey-Bunches-of-Oats-Honey-Roasted-Breakfast-Cereal-12-oz-Box/904353462?from=/search">Cereal</a><br>
--  <a href="https://www.walmart.com/ip/Great-Value-Fruit-Grain-Cereal-Bars-Strawberry-1-3-oz-8-Count/10315165?athbdg=L1600&from=/search">Cereal bars</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Maple-Brown-Sugar-Instant-Oatmeal-1-51-oz-20-Packets/26712788?athbdg=L1600&from=/search">Flavored oatmeal packets</a>
-- <a href="https://www.walmart.com/ip/Mott-s-Strawberry-Applesauce-4-Ounce-Cups-6-Count/10535771?athbdg=L1600&from=/search">Flavored applesauce</a><br>
-- <a href="https://www.walmart.com/ip/Progresso-Traditional-99-Fat-Free-Chicken-Noodle-Canned-Soup-19-oz/10320660?from=/search">Canned soups</a><br>
-- <a href="https://www.walmart.com/ip/Wheat-Thins-Reduced-Fat-Whole-Grain-Wheat-Crackers-Family-Size-12-5-oz/995895512?from=/search">Crackers</a><br>
-- <a href="https://www.walmart.com/ip/Ruffles-Baked-Cheddar-Sour-Cream-Potato-Snack-Chips-6-25-oz-Bag/28403760?athbdg=L1600&from=/search">Chips</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Fat-Free-Pretzel-Sticks-16-oz-Bag-Does-Not-Contain-Peanuts/962886750?athbdg=L1600&from=/search">Pretzels</a><br>
-- <a href="https://www.walmart.com/ip/Quaker-Rice-Cakes-Whole-Grain-Chocolate-Gluten-Free-7-23-oz/13448658?athbdg=L1600&from=/search">Rice cakes</a><br>
-- <a href="https://www.walmart.com/ip/Welch-s-Fruit-Snacks-Mixed-Fruit-0-8-oz-40-Count/1940470306?athbdg=L1600&from=/search">Fruit snacks</a><br>
-- <a href="https://www.walmart.com/ip/HARIBO-Goldbears-Original-Gummy-Bears-Pack-of-1-8oz-Peg-Bag/107127182?athbdg=L1600&from=/search">Gummy bears</a><br>
-- <a href="https://www.walmart.com/ip/Jell-O-Original-Strawberry-Jello-Cups-Gelatin-Snack-Value-Pack-8-Ct-Cups/24905773?athbdg=L1200&from=/search">Jello</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Sweetened-Dried-Cranberries-6-oz/13033150?athbdg=L1200&from=/search">Dried cranberries</a><br>
-- <a href="https://www.walmart.com/ip/Smucker-s-Natural-Red-Raspberry-Fruit-Spread-17-25-Ounces/28403813?from=/search">Jelly</a><br>
+- <a href="https://amzn.to/3Z8HJoK">Flavored yogurt cups</a><br>
+- <a href="https://amzn.to/43qS4NS">Fat free half and half</a><br>
+- <a href="https://amzn.to/43OkkeJ">Reduced fat ice cream</a><br>
+- <a href="https://amzn.to/4mBTCxi">Light butter</a><br>
+- <a href="https://amzn.to/43O1xAi">Light mayo</a>
+- <a href="https://amzn.to/4mCOM2T">Low fat salad dressings</a><br>
+- <a href="https://amzn.to/4mBcVad">Low fat cookies</a><br>
+- <a href="https://amzn.to/4jlM3Z3">Cereal</a><br>
+- <a href="https://amzn.to/3Ha0mCD">Cereal bars</a><br>
+- <a href="https://amzn.to/43CnxwS">Flavored oatmeal packets</a>
+- <a href="https://amzn.to/4jltK63">Flavored applesauce</a><br>
+- <a href="https://amzn.to/43wC0u3">Canned soups</a><br>
+- <a href="https://amzn.to/43BU2Lw">Crackers</a><br>
+- <a href="https://amzn.to/44ZgDUS">Chips</a><br>
+- <a href="https://amzn.to/4dDVIJc">Pretzels</a><br>
+- <a href="https://amzn.to/43wJJIE">Rice cakes</a><br>
+- <a href="https://amzn.to/4jqt7bx">Fruit snacks</a><br>
+- <a href="https://amzn.to/3FwnzOG">Gummy bears</a><br>
+- <a href="https://amzn.to/4jlnVp9">Jello</a><br>
+- <a href="https://amzn.to/4mBK6dz">Dried cranberries</a><br>
+- <a href="https://amzn.to/3Z8I5f4">Jelly</a><br>
 
 <div id="seed-oil" class="table-of-contents"></div>
 <br><i><font size="+2">Seed Oils</font></i><br>
@@ -135,14 +135,14 @@ tags:
 
 <div id="margarine" class="table-of-contents"></div>
 <br><i><font size="+2">Margarine and Low Fat Butter</font></i><br>
-&emsp;Margarine is a butter substitute typically made from <a rel="" target="" href="#seed-oil">vegetable oils</a>.  Popular brands include <a href="https://www.walmart.com/ip/Country-Crock-Original-Vegetable-Oil-Spread-45-oz-Tub-Refrigerated/10291546?athbdg=L1600&from=/search">Country Crock</a> and <a href="https://www.walmart.com/ip/I-Can-t-Believe-It-s-Not-Butter-Original-Spread-15-oz-Tub-Refrigerated/10306827?athbdg=L1600&from=/search">I Can't Believe It's Not Butter</a>.  They're heavily processed, contain unnecessary additives, and even used to have trans fats until they were banned.  Margarine is essentially hydroginated <a rel="" target="" href="#seed-oil">seed oils</a>, turning them from a liquid to a solid.  I'm not calling butter a health food, but I'd certainly opt for that over the fake butter substitutes.
+&emsp;Margarine is a butter substitute typically made from <a rel="" target="" href="#seed-oil">vegetable oils</a>.  Popular brands include <a href="https://amzn.to/3SlIdEa">Country Crock</a> and <a href="https://amzn.to/4kD04T1">I Can't Believe It's Not Butter</a>.  They're heavily processed, contain unnecessary additives, and even used to have trans fats until they were banned.  Margarine is essentially hydroginated <a rel="" target="" href="#seed-oil">seed oils</a>, turning them from a liquid to a solid.  I'm not calling butter a health food, but I'd certainly opt for that over the fake butter substitutes.
 
 <center><a href="https://www.meghantelpner.com/butter-or-margarine/"><img src="/assets/Misc/Nutrition/Trap/margarine-vs-butter.jpg" alt="" class="larger-image"></a></center>
 &emsp;Despite trans fats being banned in the US, most brands still contain trace amounts, as it can legally be rounded down to 0g if they contain less than 0.5g of trans fats.  Trans fats in any amount are extremenly harmful to your health, raising LDL, lowering HDL, and lead to increased risk of heart attack or stroke.  The process of partially hydroginating unsaturated fats is how trans fats are created (how margarine used to be made).  Now, it uses fully hydroginated oils, which are instead saturated fats instead of trans fats.  Research on fully hydroginated fats is minimal, as trans fats were only banned in 2018, but it's assumed that these fats are less bad, but not good.  Always opt for whole food fat sources whenever possible instead, like nuts, avocado, fatty fish, and EVOO. 
 
 <div id="salad-dressing" class="table-of-contents"></div>
 <br><i><font size="+2">Salad Dressing</font></i><br>
-&emsp;Salad is often thought of as a healthy food, but the dressing can make or break this.  Most bottled salad dressings contain high amounts of vegetable oils, sugars, and sodium, and are very highly processed.  The creamy dressings, like <a href="https://www.walmart.com/ip/Great-Value-Classic-Ranch-Salad-Dressing-Dip-16-fl-oz/16618888?athbdg=L1600&from=/search">Ranch</a> and <a href="https://www.walmart.com/ip/Ken-s-Steak-House-Creamy-Caesar-Salad-Dressing-16-fl-oz/10307559?athbdg=L1600&from=/search">Caesar</a> are very calorically dense, containing mainly soybean oil, sugar,  gums, and preservatives.  On the other hand, the more oil based dressings like <a href="https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?athbdg=L1600&from=/search">Italian</a> and <a href="https://www.walmart.com/ip/Kraft-Raspberry-Vinaigrette-Lite-Salad-Dressing-16-fl-oz-Bottle/10295743?from=/search">Vinaigrette</a> have higher amounts of sugars to make up for less overall fat, in addition to artificial colorings.
+&emsp;Salad is often thought of as a healthy food, but the dressing can make or break this.  Most bottled salad dressings contain high amounts of vegetable oils, sugars, and sodium, and are very highly processed.  The creamy dressings, like <a href="https://amzn.to/4jmq04g">Ranch</a> and <a href="https://amzn.to/3SYt6AG">Caesar</a> are very calorically dense, containing mainly soybean oil, sugar,  gums, and preservatives.  On the other hand, the more oil based dressings like <a href="https://amzn.to/4mCM4KW">Italian</a> and <a href="https://amzn.to/43kS8QA">Vinaigrette</a> have higher amounts of sugars to make up for less overall fat, in addition to artificial colorings.
 
 <center><img src="/assets/Misc/Nutrition/Trap/italian.jpg" alt="" class="larger-image"></center>
 &emsp;Try to stay away from these preprepared bottles, as homemade is typically healthier and tastes better.  Most of the time, I just add some hot sauce and mustard to my salad to act as my vinegar, as well as some avocado, nuts, or cheese to give some healthy fats.  Don't be afraid to put things that aren't traditionally "dressing" onto a salad.  Great examples of homemade dressings include:
@@ -165,16 +165,16 @@ tags:
 <div id="condiments" class="table-of-contents"></div>
 <br><i><font size="+2">Condiments</font></i><br>
 &emsp;Condiments are types of sauces that can typically go on a sandwich, salad or toast, or be used in cooking.  Here are some of the most common condiments that I can think of:
-- <a href="https://www.walmart.com/ip/Sabra-Classic-Original-Hummus-Fresh-10-oz-Plastic-Tub-Gluten-free-Serving-Size-2-tbsp/10850129?from=/search">Hummus</a><br>
-- <a href="https://www.walmart.com/ip/Freshness-Guaranteed-Guacamole-Mild-8-oz-Tub/533767006?from=/search">Guac</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-16-oz-Thick-and-Chunky-Salsa-Medium/3562572626?from=/search">Salsa</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Louisiana-Hot-Sauce-12-fl-oz/10414959?from=/search">Hot sauce</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Horseradish-Mustard-12-oz/26058179?athbdg=L1200&from=/search">Mustard</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Naturally-Brewed-Soy-Sauce-15-fl-oz/10315653?athbdg=L1600&from=/search">Soy sauce</a>
-- <a href="https://www.walmart.com/ip/Sweet-Baby-Ray-s-Original-Barbecue-Sauce-40-oz/10294611?athbdg=L1600&from=/search">BBQ sauce</a><br>
-- <a href="https://www.walmart.com/ip/Heinz-Tomato-Ketchup-32-oz-Bottle/15529427?athbdg=L1600&from=/search">Ketchup</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Squeeze-Sweet-Relish-10-fl-oz-Bottle/2741615541?athbdg=L1600&from=/search">Relish</a><br>
-- <a href="https://www.walmart.com/ip/Great-Value-Mayonnaise-30-fl-oz/17056888?athbdg=L1600&from=/search">Mayo</a><br>
+- <a href="https://amzn.to/4mzQ4vt">Hummus</a><br>
+- <a href="https://amzn.to/4dIPaco">Guac</a><br>
+- <a href="https://amzn.to/4mCkI7E">Salsa</a><br>
+- <a href="https://amzn.to/3Fpfc7I">Hot sauce</a><br>
+- <a href="https://amzn.to/43RFWqI">Mustard</a><br>
+- <a href="https://amzn.to/43kShn6">Soy sauce</a>
+- <a href="https://amzn.to/45txHlQ">BBQ sauce</a><br>
+- <a href="https://amzn.to/3Z7XegF">Ketchup</a><br>
+- <a href="https://amzn.to/4khiNny">Relish</a><br>
+- <a href="https://amzn.to/44ZgZLc">Mayo</a><br>
 
 &emsp;Some of these storebought ones can easily fit into a healthy diet, being fairly minimally processed and containing a small list of nutrient dense ingredients.  These would include hummus, guac, salsa, hot sauce, mustard, and soy sauce.  The only things to really look out for in these is the amount of seed oils in storebought hummus, or if the mustard or hot sauce have any added sugar.  Soy sauce is very salty, so it's better to opt for low sodium whenever possible.  Most of these can be made fairly easily at home too, which often tastes better and are better for you.  I have some homemade condiment recipes that won't dissapoint:
 - Any of my varieties of <a rel="" target="" href="/misc/trap-foods-snacks#hummus">hummus</a><br>
@@ -190,7 +190,7 @@ tags:
 
 <div id="dips" class="table-of-contents"></div>
 <br><i><font size="+2">Creamy Dips</font></i><br>
-&emsp;Most creamy dips are either mayo, sour cream, or cream cheese with slew of additional ingredients.  These are all very calorie dense, being very high in saturated fat.  These are typically not good for your health, increasing your risk for heart disease, diabetes, and weight gain.  Store bought versions include <a href="https://www.walmart.com/ip/Marketside-Premium-Heatable-Spinach-Artichoke-Dip-Small-Tub-16-oz-1-Count-Refrigerated/37915367?from=/search">Spinach Artichoke Dip</a>, <a href="https://www.walmart.com/ip/Great-Value-Gluten-Free-French-Onion-Dip-16-oz-Tub/194597385?athbdg=L1600&from=/search">French Onion Dip</a>, <a href="https://www.walmart.com/ip/Great-Value-Thousand-Island-Dressing-16-fl-oz/10452368?athbdg=L1200&from=/search">Thousand Island</a>, <a href="https://www.walmart.com/ip/Great-Value-Classic-Ranch-Salad-Dressing-Dip-16-fl-oz/16618888?athbdg=L1600&from=/search">Ranch</a>, and <a href="https://www.walmart.com/ip/Ken-s-Steak-House-Creamy-Caesar-Salad-Dressing-16-fl-oz/10307559?athbdg=L1600&from=/search">Caesar</a>.  Plus, they're typically paired with chips, which can easily lead to too much consumption of Omega-6 fats, as both the deep fried <a rel="" target="" href="/misc/trap-foods-snacks#chips">chips</a> and these dressings are high in inflammatory seed oils.  Most of these can be made at home fairly easily by just swapping the mayo for plain Greek yogurt; check out some examples below:
+&emsp;Most creamy dips are either mayo, sour cream, or cream cheese with slew of additional ingredients.  These are all very calorie dense, being very high in saturated fat.  These are typically not good for your health, increasing your risk for heart disease, diabetes, and weight gain.  Store bought versions include <a href="https://amzn.to/43Czy5y">Spinach Artichoke Dip</a>, <a href="https://amzn.to/3HtOmvz">French Onion Dip</a>, <a href="https://amzn.to/3ZCvRLG">Thousand Island</a>, <a href="https://amzn.to/43i5ptb">Ranch</a>, and <a href="https://amzn.to/4jmqaZq">Caesar</a>.  Plus, they're typically paired with chips, which can easily lead to too much consumption of Omega-6 fats, as both the deep fried <a rel="" target="" href="/misc/trap-foods-snacks#chips">chips</a> and these dressings are high in inflammatory seed oils.  Most of these can be made at home fairly easily by just swapping the mayo for plain Greek yogurt; check out some examples below:
 - Any of my varieties of <a rel="" target="" href="/misc/trap-foods-snacks#hummus">hummus</a><br>
 - <a href="/recipes/spinach-artichoke-dip">Lightened Up Spinach Artichoke Dip</a><br>
 - <a href="/recipes/hollandaise">Greek Yogurt Hollandaise Sauce</a><br>
@@ -202,7 +202,7 @@ tags:
 <center><img src="/assets/Misc/Nutrition/Trap/dip.jpg" alt="" class="larger-image"></center>
 <div id="sauces" class="table-of-contents"></div>
 <br><i><font size="+2">Sauces</font></i><br>
-&emsp;A lot of commercial pasta sauces are either full of hidden sugars or loaded with oils.  Examples include <a href="https://www.walmart.com/ip/Great-Value-Traditional-Pasta-Sauce-24-oz/19758051?athbdg=L1600&from=/search">marinara</a>, <a href="https://www.walmart.com/ip/Barilla-Rustic-Basil-Pesto-Pasta-Sauce-6-5-oz/126259730?athbdg=L1200&from=/search">pesto</a> or <a href="https://www.walmart.com/ip/Great-Value-Classic-Alfredo-Pasta-Sauce-16-oz/13033144?from=/search">alfredo</a>.  The below image shows just how much sugar there is in each serving of sauce.  Note that tomatoes are sweet on their own, and these glasses include the natural sugars of the tomatoes as well.  But it's apparent how much can be added without you even noticing.  Marinara sauce is probably not the main source of added sugar in your diet, but it's something to be aware of.  These jarred sauces also tend to also be highly processed and sodium dense.
+&emsp;A lot of commercial pasta sauces are either full of hidden sugars or loaded with oils.  Examples include <a href="https://amzn.to/4dCPj0T">marinara</a>, <a href="https://amzn.to/4kDiwLf">pesto</a> or <a href="https://amzn.to/44YYbLV">alfredo</a>.  The below image shows just how much sugar there is in each serving of sauce.  Note that tomatoes are sweet on their own, and these glasses include the natural sugars of the tomatoes as well.  But it's apparent how much can be added without you even noticing.  Marinara sauce is probably not the main source of added sugar in your diet, but it's something to be aware of.  These jarred sauces also tend to also be highly processed and sodium dense.
 
 <center><a href="https://www.reddit.com/r/pics/comments/rxwg30/the_amount_of_sugar_in_pasta_sauce_yogurt_cups/"><img src="/assets/Misc/Nutrition/Trap/sauce-sugar.jpg" alt="" class="larger-image"></a></center>
 &emsp;Below are some of my homemade sauces.  All are sugar and sweetener free, low in added fats, delicious, easy, and healthy:

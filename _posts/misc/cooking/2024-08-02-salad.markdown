@@ -41,7 +41,7 @@ tags:
 <center><img src="/assets/Misc/Cooking/Salad/salad-1.jpg" alt="" class="larger-image"></center><br>
 <div id="equipment" class="table-of-contents"></div>
 <br><u><font size="+2">Equipment</font></u><br>
-&emsp;There's just a few simple tools you need to make a great salad.  Obviously, you need a knife and cutting board, but what's also essential is a good salad spinner.  <a href="https://www.amazon.com/gp/product/B00004OCKR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">Here</a> is a link to the salad spinner I have.  A salad spinner is crucial, because it dries your vegetables after washing them.  Without properly drying your veggies, your salad will end up soggy and gross, and your spices and dressing will not be able to properly stick to your food.
+&emsp;There's just a few simple tools you need to make a great salad.  Obviously, you need a knife and cutting board, but what's also essential is a good salad spinner.  <a href="https://amzn.to/4kcSq1R">Here</a> is a link to the salad spinner I have.  A salad spinner is crucial, because it dries your vegetables after washing them.  Without properly drying your veggies, your salad will end up soggy and gross, and your spices and dressing will not be able to properly stick to your food.
 
 <center><img src="/assets/Misc/Cooking/Salad/salad-2.jpg" alt="" class="larger-image"></center><br>
 <div id="base" class="table-of-contents"></div>
