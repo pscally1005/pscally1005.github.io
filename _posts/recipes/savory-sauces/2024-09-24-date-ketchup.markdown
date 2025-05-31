@@ -7,8 +7,8 @@ categories:
 - Savory Sauces
 permalink: /recipes/ketchup
 image: /assets/Food/Savory Sauces/Ketchup/cover.jpg
-ing: ketchup-ing
-facts: ketchup-facts
+ing: ketchupdate-ing
+facts: ketchupdate-facts
 servingSize: 2 tbsp (31 g)
 section1: Ketchup
 start2: Paprika
