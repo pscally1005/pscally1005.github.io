@@ -402,6 +402,8 @@ def ingredients(food):
         return str("Frozen butternut squash, thawed")
     elif food == "Blueberries, frozen, wild" or food == "Blueberries, unsweetened, frozen":
         return str("Frozen blueberries")
+    elif food == "Raspberries, frozen":
+        return str("Frozen raspberries")
     elif food == "Spinach, unprepared, chopped or leaf, frozen":
         return str("Frozen spinach, thawed")
     elif food == "Blackberries, unsweetened, frozen":

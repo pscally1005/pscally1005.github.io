@@ -264,6 +264,10 @@ def fix(vol):
     elif vol == "22 clove" or vol == "30 clove":
         return str("2 head")
     
+    # beets
+    elif vol == "1 beet (2 dia)":
+        return str("1 small")
+    
     # other
     elif vol == "16 cup":
         return str("1 gallon")
