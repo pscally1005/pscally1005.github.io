@@ -36,7 +36,7 @@ tags:
 - parsley
 - oregano
 - lemon juice
-Description: This simple clam sauce is lower in fat and carbs than most, while being a good source of protein and vitamin B12.  It's typically spooned over pasta, but it also goes well with chips, on a tortilla, or on top of a salad. It can be served both warm and cold, and takes only a few minutes to prepare
+Description: Did you know that clams are a fantastic source of <a href="/misc/vitamin-b12">vitamin B12</a>? <a href="/misc/vitamin-b12">B12</a> supports energy production, regulates mood, and much more. This simple clam sauce is significantly lower in added fat than most, while being a great source of <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, aided by the red lentil pasta
 Instructions: 
 - Cut your onion into a fine dice, and add to a medium pot with olive oil over medium heat. Cook until translucent
 
