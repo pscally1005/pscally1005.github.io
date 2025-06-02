@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,68,,
+Calories,70,,
 "Vitamin A, RAE",7.83,mcg,1 %
 "Carotene, alpha",1.51,mcg,
 "Carotene, beta",2.5,mcg,
@@ -15,8 +15,8 @@ Calories,68,,
 "trans-Lycopene",0,mcg,
 "trans-beta-Carotene",0,mcg,
 "Thiamin [Vitamin B1]",0.042,mg,4 %
-"Riboflavin [Vitamin B2]",0.051,mg,4 %
-"Niacin [Vitamin B3]",0.339,mg,2 %
+"Riboflavin [Vitamin B2]",0.052,mg,4 %
+"Niacin [Vitamin B3]",0.341,mg,2 %
 "Pantothenic acid [Vitamin B5]",0.041,mg,1 %
 "Vitamin B6",0.034,mg,2 %
 "Vitamin B12 [Cobalamin]",0.04,mcg,2 %
@@ -42,17 +42,17 @@ Calories,68,,
 "Betaine",3.1,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",17,mg,3 %
-"Calcium",17.95,mg,1 %
+"Calcium",24.04,mg,2 %
 "Copper",0.11,mg,12 %
 "Fluoride",0,mcg,
 "Iodine",2.06,mcg,1 %
-"Iron",0.67,mg,4 %
-"Magnesium",26.83,mg,6 %
-"Manganese",0.228,mg,10 %
-"Phosphorus",52.51,mg,4 %
-"Potassium",106.47,mg,2 %
+"Iron",0.68,mg,4 %
+"Magnesium",26.94,mg,6 %
+"Manganese",0.23,mg,10 %
+"Phosphorus",62.09,mg,5 %
+"Potassium",121.42,mg,3 %
 "Selenium",3.17,mcg,6 %
-"Sodium",57.62,mg,3 %
+"Sodium",69.71,mg,3 %
 "Zinc",0.38,mg,3 %
 "Protein",1.93,g,4 %
 "Alanine",0.091,g,
@@ -77,18 +77,18 @@ Calories,68,,
 "Valine",0.097,g,5 %
 "Phenylalanine + Tyrosine",0.154,g,6 %
 "Methionine + Cysteine",0.068,g,4 %
-"Carbohydrate",9.76,g,4 %
+"Carbohydrate",9.9,g,4 %
 "Fiber",2.27,g,8 %
 "Starch",0,g,
-"Sugars",3.89,g,
+"Sugars",3.96,g,
 "Fructose",0,g,
 "Glucose",0.01,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.02,g,
-"Net carbs",7.49,g,
+"Net carbs",7.63,g,
 "",0.06 g,undefined,
-"Fat",3.62,g,5 %
+"Fat",3.622,g,5 %
 "Saturated fatty acids",1.664,g,8 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
@@ -136,7 +136,7 @@ Calories,68,,
 "Cholesterol",17.23,mg,6 %
 "Phytosterols",4.13,mg,
 "25-hydroxycholecalciferol",0.02,mcg,
-"Alcohol, ethyl",0.1,g,
+"Alcohol, ethyl",0.3,g,
 "Ash",0.08,g,
 "Caffeine",3.19,mg,
 "Carbohydrate, by summation",0.01,g,
@@ -148,4 +148,4 @@ Calories,68,,
 "Cryptoxanthin, alpha",0.54,mcg,
 "Nitrogen",0.08,g,
 "Theobromine",0,mg,
-"Water",18.01,g,
+"Water",18.35,g,
