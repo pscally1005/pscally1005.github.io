@@ -32,7 +32,7 @@ layout: base
     page.categories != "Misc." or 
     page.categories == "Misc." and page.title == "Unhealthy Recipes"
   %}
-    {% unless page.title == "Search" %}
+    {% unless page.title == "Search" or page.categories == "Food categories" %}
       <center><div class="filter-options">
         <label><input type="checkbox" id="glutenFree" /> Gluten-Free</label>
         <label><input type="checkbox" id="vegetarian" /> Vegetarian</label>
@@ -70,7 +70,7 @@ layout: base
 
     <!-- Display total count of posts -->
     <div class="post-count-container">
-      {% if page.title != "Search" and page.title != "Python" %}
+      {% if page.title != "Search" and page.title != "Python" and page.categories != "Food categories" %}
         <span class="page-post-count">{{ postCount }} result(s)</span>
       {% endif %}
     </div>    

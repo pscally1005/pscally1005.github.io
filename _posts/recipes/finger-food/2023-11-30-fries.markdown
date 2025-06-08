@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Finger Foods
 permalink: /recipes/sweet-potato-fries
-image: /assets/Food/Finger Food/Fries/fries.jpg
+image: /assets/Food/Finger Food/Fries/cover.jpg
 ing: fries-ing
 facts: fries-facts
 servingSize: 
@@ -33,7 +33,7 @@ tags:
 - french
 - roast
 - vic
-Description: Sweet potato fries are a perfect quick side to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular fries. Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href="chicken-nuggets">Freezer Chicken Nuggets</a> for a nutritious version of this meal
+Description: Sweet potato fries are a perfect quick side to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular fries. Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href="/recipes/chicken-nuggets">Freezer Chicken Nuggets</a> for a nutritious version of this meal
 Instructions: 
 - Wash your sweet potato, and cut into a fry shape. Add to a bowl, and microwave on high (covered) for 3 minutes
 

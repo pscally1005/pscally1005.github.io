@@ -51,6 +51,8 @@ def ingredients(food):
         return str("Dill, dried")
     elif food == "Salt, table" or food == "Table salt by FIRST STREET" or food == "Table salt by Morton Salt, Inc." or food == "Salt by Morton Salt, Inc." or food == "Table salt by Cardenas Markets":
         return str("Salt")
+    elif food == "Flakey salt":
+        return str("Flaky salt")
     elif food == "Spices, garlic powder" or food == "Garlic powder by EL SABOR" or food == "Garlic powder by Target Stores" or food == "Garlic powder by STONEMILL":
         return str("Garlic powder")
     elif food == "Spices, onion powder" or food == "Onion powder by ADAMS" or food == "Onion powder by STONEMILL" or food == "Onion powder by Adams Extract Co." or food == "Onion powder by Target Stores":
@@ -162,7 +164,7 @@ def ingredients(food):
         return str("Allulose")
     elif food == "Nabisco, Nabisco Grahams Crackers":
         return str("Graham cracker")
-    elif food == "Now, whole psyllium husks by Now Health Group Inc.":
+    elif food == "Psyllium husk" or food == "Now, whole psyllium husks by Now Health Group Inc.":
         return str("Psyllium husks, whole")
     elif food == "Millet flour":
         return str("Millet flour")
