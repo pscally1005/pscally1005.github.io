@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Vegan Cashew Cream Cheese"
+date:   2025-05-15 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+permalink: /recipes/cashew-cream-cheese
+image: /assets/Food/Savory Sauces/Cashew Cream Cheese/jar.jpg
+ing: cashewcreamcheese-ing
+facts: cashewcreamcheese-facts
+servingSize: 2 tbsp (31 g)
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 5
+Rest: 120
+Cook: 
+Source1: https://youtu.be/ScFfO9gEEi8
+Source2: https://theveganlarder.com/easy-vegan-cashew-cream-cheese/#recipe
+whisk: https://s.samsungfood.com/qbS8H
+tags: 
+- cream cheese
+- vegan
+- cashews
+- lemon juice
+- dijon mustard
+- horeradish mustard
+- minced garlic
+- spread
+- breakfast
+- bagel
+- cheese sauce
+- apple cider vinegar
+Description: This easy vegan cream cheese is made in just a few minutes, with the only prep being soaking some cashews. Cashews are a good source of <a href="/misc/fats">heart healthy mono unsaturated fats</a>, copper, <a href="/misc/magnesium">magnesium</a>, <a href="/misc/nutrient-alphabet#M">manganese</a>, <a href="/misc/nutrient-alphabet#P">phosphorus</a>, and <a href="/misc/nutrient-alphabet#Z">zinc</a>. Nutritional yeast is also high in all the B vitamins, like <a href="/misc/nutrient-alphabet#T">B1</a>, <a href="/misc/nutrient-alphabet#R">B2</a>, <a href="/misc/nutrient-alphabet#N">B3</a>, <a href="/misc/nutrient-alphabet#B">B6</a>, and <a href="/misc/vitamin-B12">B12</a>, nutrients that are hard to come by on a vegan diet. There's even more <a href="/misc/protein">protein</a> here than standard cream cheese. The neutral taste and creamy texture of cashews make them perfect for dairy substitutions
+Instructions: 
+- Add your cashews to a bowl, cover with water, and let soak for at least 2 hours. Reserve 1/2 cup (120 g) of the water, and discard the rest
+- <center><img src="/assets/Food/Savory Sauces/Cashew Cream Cheese/bowl.jpg" alt="" class="instruction-image"></center>
+
+- Add the soaked cashews and water to a food processor or blender, along with lemon juice, apple cider vinegar, nutritional yeast, garlic, and salt. Blend until smooth
+- <center><img src="/assets/Food/Savory Sauces/Cashew Cream Cheese/processor.jpg" alt="" class="instruction-image"></center>
+---

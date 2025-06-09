@@ -134,7 +134,7 @@ def ingredients(food):
         return str("Hot sauce")
     elif food == "Minced garlic by STONEMILL" or food == "Minced garlic by MEMBER'S MARK" or food == "Minced garlic by EL SABOR":
         return str("Minced garlic")
-    elif food == "Mustard" or food == "Dijon mustard by KOOPS'" or food == "Dijon mustard by BRANDLESS" or food == "Dijon mustard by Raley's" or food == "Dijon mustard by SPARTAN":
+    elif food == "Mustard, horseradish" or food == "Mustard" or food == "Dijon mustard by KOOPS'" or food == "Dijon mustard by BRANDLESS" or food == "Dijon mustard by Raley's" or food == "Dijon mustard by SPARTAN":
         return str("Dijon mustard")
     elif food == "White dry cooking wine by CONCHITA":
         return str("White cooking wine")

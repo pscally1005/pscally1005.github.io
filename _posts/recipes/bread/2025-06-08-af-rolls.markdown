@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Bread
 permalink: /recipes/almond-flour-rolls
-image: /assets/Food/Bread/AF rolls/stacked.jpg
+image: /assets/Food/Bread/Almond Flour Rolls/stack.jpg
 ing: afrolls-ing
 facts: afrolls-facts
 servingSize: 1 roll or bagel
@@ -47,13 +47,13 @@ Instructions:
 - Pour the water into a glass, and microwave for 1 minute. Add the water and apple cider vinegar to the dry ingredients, and mix until you have a fully combined dough
 
 - Shape the dough into 1 large ball, and let the dough rest for about 5 minutes before dividing into 6 servings, about 80 g each
-- <center><img src="/assets/Food/Bread/AF rolls/bowl.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Bread/Almond Flour Rolls/bowl.jpg" alt="" class="instruction-image"></center>
 
 - Roll each piece into balls, and flatten down. You can either make these into rolls, or carve out a hole in the center and make it a bagel. I'll be doing both here
-- <center><img src="/assets/Food/Bread/AF rolls/raw.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Bread/Almond Flour Rolls/raw.jpg" alt="" class="instruction-image"></center>
 
 - Optionally, brush the tops with water, and top with everything bagel seasoning
 
 - Bake for about 40 minutes at 375F, or until lightly browned on the bottom. Transfer to a wire rack to cool before slicing
-- <center><img src="/assets/Food/Bread/AF rolls/baked.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Bread/Almond Flour Rolls/baked.jpg" alt="" class="instruction-image"></center>
 ---
