@@ -5,6 +5,7 @@ date:   2024-12-16 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+pesto: yes
 permalink: /recipes/tomato-pesto
 image: /assets/Food/Meme/Tomato Pesto/pasta.jpg
 ing: tomatopesto-ing

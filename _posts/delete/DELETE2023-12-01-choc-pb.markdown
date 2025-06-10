@@ -5,6 +5,7 @@ date:   2023-12-01 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+nut_butter: yes
 permalink: /recipes/choc-pb
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cover.jpg
 ing: chocpb-ing

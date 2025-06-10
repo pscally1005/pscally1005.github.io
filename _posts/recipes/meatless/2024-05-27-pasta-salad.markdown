@@ -5,6 +5,7 @@ date:   2024-05-27 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+salad: yes
 permalink: /recipes/mediterranean-pasta-salad
 image: /assets/Food/Meatless/Pasta Salad/pasta-salad-cover.jpg
 ing: pastasalad-ing

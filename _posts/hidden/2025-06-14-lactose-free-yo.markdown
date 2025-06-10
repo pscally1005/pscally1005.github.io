@@ -6,6 +6,7 @@ categories:
 - Recipes
 - Breakfast
 - Hidden
+yogurt: yes
 permalink: /recipes/lactose-free-yogurt
 image: /assets/Food/Breakfast/Lactose Free Yogurt/cover.jpg
 ing: lactosefreeyog-ing

@@ -5,6 +5,7 @@ date:   2024-05-13 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+nut_butter: yes
 permalink: /recipes/cottage-cheese-peanut-butter
 image: /assets/Food/Sweet Spreads/PB CC/pb-cc.jpg
 ing: pbcc-ing

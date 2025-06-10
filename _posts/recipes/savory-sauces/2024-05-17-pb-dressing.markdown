@@ -5,6 +5,7 @@ date:   2024-05-17 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+dressing: yes
 permalink: /recipes/peanut-chili-salad-dressing
 image: /assets/Food/Savory Sauces/PB Dressing/cover.jpg
 ing: pbdressing-ing

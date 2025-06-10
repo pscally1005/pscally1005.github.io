@@ -5,6 +5,7 @@ date:   2024-09-11 00:00:01 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/peanut-butter-date-cookies
 image: /assets/Food/Healthier Dessert/PB Date Cookie/pb-date-cover.jpg
 ing: pbdatecookie-ing

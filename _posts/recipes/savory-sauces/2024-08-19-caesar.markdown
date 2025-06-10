@@ -5,6 +5,7 @@ date:   2024-08-19 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+dressing: yes
 permalink: /recipes/greek-yogurt-caesar-dressing
 image: /assets/Food/Savory Sauces/Caesar/caesar-cover.jpg
 ing: caesar-ing

@@ -5,6 +5,7 @@ date:   2023-09-16 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+yogurt: yes
 permalink: /recipes/yogurt-pbj
 image: /assets/Food/Breakfast/Yogurt/yogurt-pbj-new.jpg
 ing: yogurtpbjnew-ing

@@ -5,6 +5,7 @@ date:   2025-01-08 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+hummus: yes
 permalink: /recipes/roasted-garlic-hummus
 image: /assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus.jpg
 ing: garlichummus-ing

@@ -5,6 +5,7 @@ date:   2023-09-23 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+dressing: yes
 permalink: /recipes/pickled-onions
 image: /assets/Food/Savory Sauces/Quick Pickles/quick-pickles.jpg
 ing: quickpickle-ing

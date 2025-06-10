@@ -5,6 +5,7 @@ date:   2023-09-02 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/date-brownie
 image: /assets/Food/Healthier Dessert/Date Brownie/date-brownie-cover.jpg
 ing: datebrownie-ing

@@ -5,6 +5,7 @@ date:   2023-04-30 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+oatmeal: yes
 permalink: /recipes/oats-pumpkin
 image: /assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg
 ing: oatspumpkin-ing

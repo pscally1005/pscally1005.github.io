@@ -5,6 +5,7 @@ date:   2024-06-01 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+salad: yes
 permalink: /recipes/mediterranean-potato-salad
 image: /assets/Food/Meatless/Potato Salad/potato-salad-cover.jpg
 ing: potatosalad-ing

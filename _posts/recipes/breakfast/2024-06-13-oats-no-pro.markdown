@@ -5,6 +5,7 @@ date:   2024-06-13 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+oatmeal: yes
 permalink: /recipes/no-protein-powder-oatmeal
 image: /assets/Food/Breakfast/No Pro/no-pro.jpg
 ing: oatsnopro-ing

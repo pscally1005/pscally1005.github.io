@@ -5,6 +5,8 @@ date:   2024-09-01 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+hummus: yes
+dressing: yes
 permalink: /recipes/classic-tahini-hummus
 image: /assets/Food/Savory Sauces/Tahini Hummus/tahini-hummus.jpg
 ing: tahinihummus-ing

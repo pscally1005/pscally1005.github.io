@@ -5,6 +5,7 @@ date:   2024-04-27 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/dual-bean-date-brookies
 image: /assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-cover.jpg
 ing: beanbrookie-ing

@@ -5,6 +5,7 @@ date:   2024-07-14 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+yogurt: yes
 permalink: /recipes/sweet-potato-yogurt
 image: /assets/Food/Breakfast/Sw Pot Yogurt/sw-pot-yogurt.jpg
 ing: yogurtswpot-ing

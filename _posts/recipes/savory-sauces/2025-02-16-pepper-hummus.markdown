@@ -5,6 +5,8 @@ date:   2025-02-16 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+hummus: yes
+dressing: yes
 permalink: /recipes/roasted-red-pepper-hummus
 image: /assets/Food/Savory Sauces/Pepper Hummus/cover.jpg
 ing: pepperhummus-ing

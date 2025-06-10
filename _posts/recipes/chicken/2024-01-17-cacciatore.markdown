@@ -5,6 +5,7 @@ date:   2024-01-17 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+soup_stew: yes
 permalink: /recipes/cacciatore
 image: /assets/Food/Chicken/Cacciatore/cacciatore-cover.jpg
 ing: cacciatore-ing

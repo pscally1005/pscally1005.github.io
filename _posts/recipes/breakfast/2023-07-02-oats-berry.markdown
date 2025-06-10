@@ -5,6 +5,7 @@ date:   2023-07-02 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+oatmeal: yes
 permalink: /recipes/oats-berry
 image: /assets/Food/Breakfast/Oatmeal/oats-berry.jpg
 ing: oatsberry-ing

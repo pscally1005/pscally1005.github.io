@@ -5,6 +5,7 @@ date:   2023-05-29 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/oatmeal-chocolate-cookies
 image: /assets/Food/Healthier Dessert/Oatmeal Chip/cover.jpg
 ing: oatchip-ing

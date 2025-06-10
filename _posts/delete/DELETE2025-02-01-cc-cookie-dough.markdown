@@ -5,6 +5,8 @@ date:   2025-02-01 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+yogurt: yes
+cookie: yes
 permalink: /recipes/protein-cookie-dough-bowl
 image: /assets/Food/Protein Powder/CC Cookie Dough/cc-cookie-dough.jpg
 ing: cccookiedough-ing

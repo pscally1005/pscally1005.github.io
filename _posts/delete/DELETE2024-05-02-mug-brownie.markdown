@@ -5,6 +5,7 @@ date:   2024-05-02 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/mug-brownie
 image: /assets/Food/Healthier Dessert/Mug Brownie/mug-brownie-cover.jpg
 ing: mugbrownie-ing

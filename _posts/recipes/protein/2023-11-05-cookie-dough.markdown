@@ -5,6 +5,7 @@ date:   2023-11-05 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+cookie: yes
 permalink: /recipes/protein-cookie-dough
 image: /assets/Food/Protein Powder/Cookie Dough/cookie-dough.jpg
 ing: cookiedough-ing

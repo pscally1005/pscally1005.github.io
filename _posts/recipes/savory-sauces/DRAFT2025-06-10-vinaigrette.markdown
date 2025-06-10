@@ -5,6 +5,7 @@ date:   2025-06-10 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+dressing: yes
 permalink: /recipes/balsamic-vinaigrette
 image: /assets/Food/Savory Sauces/Vinaigrette/salad.jpg
 ing: vinaigrette-ing

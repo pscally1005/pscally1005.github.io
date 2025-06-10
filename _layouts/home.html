@@ -88,8 +88,36 @@ layout: base
         <!-- Each Post -->
         {% for post in posts %}
 
+          <!-- Specific food category flag -->
+          {% assign food_category = "false" %}
+          {% if page.title == "Hummus Recipes" and post.hummus == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Oatmeal Recipes" and post.oatmeal == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Yogurt Recipes" and post.yogurt == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Nut Butter Recipes" and post.nut_butter == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Pesto Recipes" and post.pesto == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Salad Dressings" and post.dressing == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Brownies" and post.brownie == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Cookies" and post.cookie == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Soups & Stews" and post.soup_stew == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Salad Recipes" and post.salad == true %}
+            {% assign food_category = "true" %}
+          {% endif %}
+
           <!-- Post correct ones to page, or all to home -->
-          {% if page.title == "Home" or post.categories.last == page.title %}
+          {% if 
+            page.title == "Home" or 
+            post.categories.last == page.title or 
+            food_category == "true"
+          %}
 
             <!-- Skip if archived -->
             {% if post.categories.last == "Archive" and page.title != "Archive" %}

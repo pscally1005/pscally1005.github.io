@@ -5,6 +5,7 @@ date:   2023-11-06 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+oatmeal: yes
 permalink: /recipes/oats-banana
 image: /assets/Food/Breakfast/Oatmeal/oats-banana-1.jpg
 ing: oatsbanana-ing

@@ -5,6 +5,7 @@ date:   2025-01-03 00:00:00 -05000
 categories: 
 - Misc.
 - Unhealthy Recipes
+cookie: yes
 permalink: /recipes/sugar-cookies
 image: /assets/Misc/Unhealthy/Sugar Cookies/cover.jpg
 ing: sugarcookies-ing

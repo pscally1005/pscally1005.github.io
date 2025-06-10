@@ -5,6 +5,7 @@ date:   2024-12-21 00:00:01 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/edible-cookie-dough-bites
 image: /assets/Food/Healthier Dessert/OF CD/cookie-dough.jpg
 ing: ofcd-ing

@@ -5,6 +5,7 @@ date:   2024-04-29 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+oatmeal: yes
 permalink: /recipes/no-yogurt-oatmeal
 image: /assets/Food/Breakfast/No Yo/cover.jpg
 ing: oatsnoyogurt-ing

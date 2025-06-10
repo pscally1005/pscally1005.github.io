@@ -5,6 +5,7 @@ date:   2024-07-30 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+yogurt: yes
 permalink: /recipes/omega-3-yogurt-bowl
 image: /assets/Food/Breakfast/Omega3 Yogurt/omega3-yogurt.jpg
 ing: omega3yogurt-ing

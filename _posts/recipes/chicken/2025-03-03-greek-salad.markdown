@@ -5,6 +5,7 @@ date:   2025-03-03 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+salad: yes
 permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Greek Salad/cover.jpg
 ing: greeksalad-ing

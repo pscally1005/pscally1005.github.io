@@ -5,6 +5,7 @@ date:   2024-04-22 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/black-bean-date-brownies
 image: /assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-cover.jpg
 ing: beanbrownies-ing

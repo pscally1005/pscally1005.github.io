@@ -5,6 +5,7 @@ date:   2023-03-28 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+brownie: yes
 permalink: /recipes/chickpea-brownies
 image: /assets/Food/Protein Powder/Chickpea Brownie/chickpea-brownie.jpg
 ing: chickpeabrownie-ing

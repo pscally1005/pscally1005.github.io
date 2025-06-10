@@ -5,6 +5,9 @@ date:   2024-05-21 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+hummus: yes
+pesto: yes
+dressing: yes
 permalink: /recipes/creamy-pesto-hummus
 image: /assets/Food/Savory Sauces/Pesto Hummus/pesto-hummus.jpg
 ing: pestohummus-ing

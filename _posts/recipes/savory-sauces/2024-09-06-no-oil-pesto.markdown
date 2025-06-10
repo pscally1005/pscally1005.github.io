@@ -5,6 +5,7 @@ date:   2024-09-06 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+pesto: yes
 permalink: /recipes/oil-free-basil-pesto
 image: /assets/Food/Savory Sauces/Basil Pesto/pesto-cover.jpg
 ing: nooilpesto-ing

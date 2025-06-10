@@ -5,6 +5,7 @@ date:   2024-07-11 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/chocolate-chip-date-cookies
 image: /assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cover.jpg
 ing: chocchipcookie-ing

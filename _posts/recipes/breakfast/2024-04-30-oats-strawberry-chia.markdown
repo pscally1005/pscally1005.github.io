@@ -5,6 +5,7 @@ date:   2024-04-30 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+oatmeal: yes
 permalink: /recipes/strawberry-chia-oatmeal
 image: /assets/Food/Breakfast/Strawberry Chia/strawberry-chia.jpg
 ing: strawberrychiaoats-ing

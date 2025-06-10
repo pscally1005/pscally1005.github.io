@@ -5,6 +5,7 @@ date:   2024-09-27 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/mint-chocolate-chip-date-cookies
 image: /assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover-green.jpg
 ing: mintchip-ing

@@ -5,6 +5,7 @@ date:   2025-03-06 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+soup_stew: yes
 permalink: /recipes/vegan-chili
 image: /assets/Food/Meatless/Vegan Chili/cover.jpg
 ing: veganchili-ing

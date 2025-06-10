@@ -5,6 +5,7 @@ date:   2024-05-16 00:00:00 -05000
 categories: 
 - Misc.
 - Unhealthy Recipes
+cookie: yes
 permalink: /recipes/chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Cookies/cookies.jpg
 ing: cookies-ing

@@ -5,6 +5,8 @@ date:   2024-04-09 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+hummus: yes
+dressing: yes
 permalink: /recipes/roasted-beet-hummus
 image: /assets/Food/Savory Sauces/Beet Hummus/cover.jpg
 ing: beethummus-ing

@@ -5,6 +5,7 @@ date:   2024-09-30 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/amaretti-cookies-with-dates
 image: /assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-cover.jpg
 ing: amarettidate-ing

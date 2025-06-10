@@ -5,6 +5,7 @@ date:   2025-03-19 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+dressing: yes
 permalink: /recipes/no-honey-mustard
 image: /assets/Food/Savory Sauces/No Honey Mustard/cover.jpg
 ing: nohoneymustard-ing

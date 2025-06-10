@@ -5,6 +5,7 @@ date:   2023-11-09 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/rainbow-cookies
 image: /assets/Food/Healthier Dessert/Rainbow/rainbow-cover.jpg
 ing: rainbow-ing

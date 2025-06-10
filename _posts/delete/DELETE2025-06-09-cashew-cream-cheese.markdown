@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 permalink: /recipes/cashew-cream-cheese
-image: /assets/Food/Savory Sauces/Cashew Cream Cheese/jar.jpg
+image: /assets/Food/Savory Sauces/Cashew Cream Cheese/bagel.jpg
 ing: cashewcreamcheese-ing
 facts: cashewcreamcheese-facts
 servingSize: 2 tbsp (31 g)

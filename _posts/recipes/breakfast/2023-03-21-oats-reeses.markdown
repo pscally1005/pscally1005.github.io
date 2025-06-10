@@ -5,6 +5,7 @@ date:   2023-03-21 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+oatmeal: yes
 permalink: /recipes/oats-reeses
 image: /assets/Food/Breakfast/Oatmeal/oats-reeses.jpg
 ing: oatsreeses-ing

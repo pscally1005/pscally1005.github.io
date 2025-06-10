@@ -5,6 +5,7 @@ date:   2024-02-02 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+yogurt: yes
 permalink: /recipes/brain-yogurt
 image: /assets/Food/Breakfast/Avocado Yogurt/avocado-yogurt.jpg
 ing: avoyog-ing

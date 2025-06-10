@@ -6,6 +6,7 @@ categories:
 - Recipes
 - Breakfast
 - Archive
+yogurt: yes
 permalink: /recipes/yogurt-apple
 image: /assets/Food/Breakfast/Yogurt/yogurt-apple.jpg
 ing: yogurtapple-ing

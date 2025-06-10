@@ -5,6 +5,7 @@ date:   2024-12-29 00:00:01 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/chickpea-date-brownies
 image: /assets/Food/Healthier Dessert/Chickpea Date Brownie/cover.jpg
 ing: chickpeadatebrownies-ing

@@ -5,6 +5,7 @@ date:   2024-07-01 00:00:00 -05000
 categories: 
 - Misc.
 - Unhealthy Recipes
+brownie: yes
 permalink: /recipes/brownies
 image: /assets/Misc/Unhealthy/Brownies/cover.jpg
 ing: brownies-ing

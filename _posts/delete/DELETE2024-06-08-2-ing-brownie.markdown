@@ -5,6 +5,7 @@ date:   2024-06-03 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/two-ingredient-brownies
 image: /assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-cover.jpg
 ing: 2ingbrownie-ing

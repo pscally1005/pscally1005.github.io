@@ -5,6 +5,7 @@ date:   2024-11-02 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+yogurt: yes
 permalink: /recipes/vic-yogurt
 image: /assets/Food/Meme/Yogurt/cover.jpg
 ing: vicyogurt-ing

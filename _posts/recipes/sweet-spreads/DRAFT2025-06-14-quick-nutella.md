@@ -5,6 +5,7 @@ date:   2025-06-14 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+nut_butter: yes
 permalink: /recipes/quick-nutella
 image: /assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg
 ing: quicknutella-ing

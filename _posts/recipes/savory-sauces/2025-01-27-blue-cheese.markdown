@@ -5,6 +5,8 @@ date:   2025-01-27 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+hummus: yes
+dressing: yes
 permalink: /recipes/blue-cheese-dressing
 image: /assets/Food/Savory Sauces/Blue Cheese/blue-cheese.jpg
 ing: bluecheese-ing

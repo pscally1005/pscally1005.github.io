@@ -5,6 +5,7 @@ date:   2023-04-03 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+oatmeal: yes
 permalink: /recipes/bolognese-oats
 image: /assets/Food/Meme/Bolognese/bolognese-oats.jpg
 ing: bologneseoats-ing

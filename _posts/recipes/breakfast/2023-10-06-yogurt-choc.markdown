@@ -5,6 +5,7 @@ date:   2023-10-06 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+yogurt: yes
 permalink: /recipes/yogurt-choc
 image: /assets/Food/Breakfast/Yogurt/yogurt-choc.jpg
 ing: yogurtchoc-ing

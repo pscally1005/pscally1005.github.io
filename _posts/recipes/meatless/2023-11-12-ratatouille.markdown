@@ -5,6 +5,7 @@ date:   2023-11-12 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+soup_stew: yes
 permalink: /recipes/ratatouille
 image: /assets/Food/Meatless/Ratatouille/ratatouille-cover.jpg
 ing: ratatouille-ing

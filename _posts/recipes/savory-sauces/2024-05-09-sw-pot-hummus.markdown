@@ -5,6 +5,8 @@ date:   2024-05-09 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+hummus: yes
+dressing: yes
 permalink: /recipes/sweet-potato-hummus
 image: /assets/Food/Savory Sauces/Sw Pot Hummus/cover.jpg
 ing: swpothummus-ing

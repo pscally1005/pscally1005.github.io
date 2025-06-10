@@ -5,6 +5,7 @@ date:   2025-02-12 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+pesto: yes
 permalink: /recipes/pesto-classico
 image: /assets/Food/Savory Sauces/Pesto Classico/pesto.jpg
 ing: pestoclassico-ing

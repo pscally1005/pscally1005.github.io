@@ -5,6 +5,7 @@ date:   2024-02-24 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
+salad: yes
 permalink: /recipes/bean-salad
 image: /assets/Food/Sides/Bean Salad/bean-salad-cover.jpg
 ing: beansalad-ing

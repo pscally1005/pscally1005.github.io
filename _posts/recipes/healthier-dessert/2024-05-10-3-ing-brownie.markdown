@@ -5,6 +5,7 @@ date:   2024-05-10 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/three-ingredient-brownies
 image: /assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-cover.jpg
 ing: 3ingbrownie-ing

@@ -5,6 +5,7 @@ date:   2024-12-08 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+soup_stew: yes
 permalink: /recipes/chicken-noodle-stew
 image: /assets/Food/Chicken/Chicken Noodle/cover.jpg
 ing: chickennoodle-ing

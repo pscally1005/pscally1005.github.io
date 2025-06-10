@@ -5,6 +5,7 @@ date:   2024-12-24 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/cuccidati
 image: /assets/Food/Healthier Dessert/Cuccidati/cover.jpg
 ing: cuccidati-ing

@@ -5,6 +5,7 @@ date:   2024-01-22 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+nut_butter: yes
 permalink: /recipes/reconstituted-peanut-butter
 image: /assets/Food/Meme/PB/pb.jpg
 ing: reconstitutedpb-ing

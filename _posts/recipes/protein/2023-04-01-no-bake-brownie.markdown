@@ -5,6 +5,7 @@ date:   2023-04-01 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+brownie: yes
 permalink: /recipes/no-bake-brownies
 image: /assets/Food/Protein Powder/No Bake Brownie/no-bake-brownie-cover.jpg
 ing: nobakebrownie-ing

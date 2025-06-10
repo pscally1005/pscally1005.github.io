@@ -5,6 +5,7 @@ date:   2024-07-10 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/sweet-potato-blondies
 image: /assets/Food/Healthier Dessert/Sw Pot Blondies/blondies-cover.jpg
 ing: swpotblondie-ing

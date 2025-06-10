@@ -90,6 +90,8 @@ def grams(food, mass, vol):
             return str("6")
         elif vol == "3 tsp" or vol == "1 tbsp":
             return str("10")
+        elif vol == "6 tsp" or vol == "2 tbsp":
+            return str("20")
         else:
             return str(mass)
         

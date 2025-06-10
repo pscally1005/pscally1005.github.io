@@ -5,6 +5,7 @@ date:   2024-12-05 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+oatmeal: yes
 permalink: /recipes/stovetop-oatmeal
 image: /assets/Food/Breakfast/Stovetop Oats/bowl.jpg
 ing: stoveoats-ing

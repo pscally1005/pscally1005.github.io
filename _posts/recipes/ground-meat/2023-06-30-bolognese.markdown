@@ -5,6 +5,7 @@ date:   2023-06-30 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
+soup_stew: yes
 permalink: /recipes/bolognese
 image: /assets/Food/Ground Meat/Bolognese/bolognese-cover.jpg
 ing: bolognese-ing

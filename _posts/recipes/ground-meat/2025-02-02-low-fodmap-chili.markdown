@@ -5,6 +5,7 @@ date:   2025-02-02 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
+soup_stew: yes
 permalink: /recipes/low-fodmap-chili
 image: /assets/Food/Ground Meat/Low FODMAP Chili/cover.jpg
 ing: lowfodmapchili-ing

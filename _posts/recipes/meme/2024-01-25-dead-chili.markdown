@@ -5,6 +5,7 @@ date:   2024-01-25 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+soup_stew: yes
 permalink: /recipes/dead-simple-chili
 image: /assets/Food/Meme/Chili/dead-chili.jpg
 ing: deadchili-ing

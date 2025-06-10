@@ -5,6 +5,7 @@ date:   2025-05-11 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+yogurt: yes
 permalink: /recipes/fatty-yogurt
 image: /assets/Food/Breakfast/Fatty Yogurt/cover.jpg
 ing: fattyyogurt-ing

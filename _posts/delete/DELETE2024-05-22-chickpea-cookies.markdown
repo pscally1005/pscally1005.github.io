@@ -5,6 +5,7 @@ date:   2024-05-22 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/chickpea-cookies
 image: /assets/Food/Healthier Dessert/Chickpea Cookies/chickpea-cookies.jpg
 ing: chickpeacookies-ing

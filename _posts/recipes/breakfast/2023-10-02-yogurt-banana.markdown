@@ -5,6 +5,7 @@ date:   2023-10-02 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+yogurt: yes
 permalink: /recipes/yogurt-banana
 image: /assets/Food/Breakfast/Yogurt/yogurt-banana.jpg
 ing: yogurtbanana-ing

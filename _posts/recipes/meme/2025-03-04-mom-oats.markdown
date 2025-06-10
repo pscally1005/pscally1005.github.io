@@ -5,6 +5,7 @@ date:   2025-03-04 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+oatmeal: yes
 permalink: /recipes/mom-oatmeal
 image: /assets/Food/Meme/Mom Oats/cover.jpg
 ing: momoats-ing

@@ -5,6 +5,7 @@ date:   2023-04-01 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+nut_butter: yes
 permalink: /recipes/natural-peanut-butter
 image: /assets/Food/Sweet Spreads/PB/pb-cover.jpg
 ing: pb-ing

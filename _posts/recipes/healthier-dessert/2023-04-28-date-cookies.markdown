@@ -5,6 +5,7 @@ date:   2023-04-28 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/date-cookies
 image: /assets/Food/Healthier Dessert/Date Cookie/date-cookie-cover.jpg
 ing: datecookie-ing

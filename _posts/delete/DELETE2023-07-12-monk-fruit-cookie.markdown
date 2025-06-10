@@ -5,6 +5,7 @@ date:   2023-07-12 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/monk-fruit-cookies
 image: /assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-cover.jpg
 ing: monkfruit-ing

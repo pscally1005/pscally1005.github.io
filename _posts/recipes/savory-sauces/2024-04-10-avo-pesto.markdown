@@ -5,6 +5,7 @@ date:   2024-04-10 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+pesto: yes
 permalink: /recipes/avocado-pesto
 image: /assets/Food/Savory Sauces/Avo Pesto/cover.jpg
 ing: avopesto-ing

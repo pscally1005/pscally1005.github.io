@@ -5,6 +5,7 @@ date:   2023-03-27 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/cookie-bar
 image: /assets/Food/Healthier Dessert/Cookie Bar/cover.jpg
 ing: cookiebar-ing

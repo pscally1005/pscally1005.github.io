@@ -5,6 +5,7 @@ date:   2024-12-12 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+nut_butter: yes
 permalink: /recipes/super-seed-butter
 image: /assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/cover.jpg
 ing: superseed-ing

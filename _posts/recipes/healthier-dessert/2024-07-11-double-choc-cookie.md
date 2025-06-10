@@ -5,6 +5,7 @@ date:   2024-07-11 00:00:02 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+cookie: yes
 permalink: /recipes/double-chocolate-date-cookies
 image: /assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-cover.jpg
 ing: doublechoccookie-ing

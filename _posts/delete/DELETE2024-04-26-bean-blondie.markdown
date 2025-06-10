@@ -5,6 +5,7 @@ date:   2024-04-26 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+brownie: yes
 permalink: /recipes/chickpea-date-blondies
 image: /assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-cover.jpg
 ing: beanblondies-ing

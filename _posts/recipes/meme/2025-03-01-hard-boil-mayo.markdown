@@ -5,6 +5,7 @@ date:   2025-03-01 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+dressing: yes
 permalink: /recipes/hard-boiled-egg-mayo
 image: /assets/Food/Meme/Hard Boil Mayo/cover.jpg
 ing: hardboilmayo-ing

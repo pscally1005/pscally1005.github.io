@@ -5,6 +5,7 @@ date:   2023-04-23 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+pesto: yes
 permalink: /recipes/creamy-pesto
 image: /assets/Food/Savory Sauces/Creamy Pesto/pesto-cover.jpg
 ing: pesto-ing
