@@ -34,7 +34,7 @@ tags:
 - chicken stock
 - grated cheese
 - parmesan cheese
-- parmesean cheese
+- parmesan cheese
 - lemon juice
 - italian
 - rice pudding

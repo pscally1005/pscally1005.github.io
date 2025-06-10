@@ -26,8 +26,8 @@ Source1: https://www.skinnytaste.com/lighter-eggplant-parmesan-5-pts/
 Source2: https://www.poormanprotein.com/recipes/pasta-sauce
 whisk: https://s.samsungfood.com/g3iri
 tags: 
-- eggplant parmesean
-- parmesean
+- eggplant parmesan
+- parmesan
 - cheese
 - mozzarella
 - shredded cheese

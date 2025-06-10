@@ -67,7 +67,7 @@ tags:
 <center><img src="/assets/Misc/Cooking/Salad/salad-6.jpg" alt="" class="larger-image"></center><br>
 <div id="cheese" class="table-of-contents"></div>
 <br><u><font size="+2">Cheese</font></u><br>
-&emsp;Cheese levels up a salad to a whole new level; it's delicious and adds some well needed <a rel="" target="" href="#fat">fat</a>.  My personal favorite is easily crumbled feta, but blue cheese, gargonzola, and fresh mozzarella are also fantastic.  Sometimes I'll just shake some parmesean from the container onto a salad if I don't have any other cheese on hand.  Don't add too much though; this is still suppossed to be a healthy salad, not a bowl of feta with some vegetables (sorry Phil's Pizzeria Greek Salad).
+&emsp;Cheese levels up a salad to a whole new level; it's delicious and adds some well needed <a rel="" target="" href="#fat">fat</a>.  My personal favorite is easily crumbled feta, but blue cheese, gargonzola, and fresh mozzarella are also fantastic.  Sometimes I'll just shake some parmesan from the container onto a salad if I don't have any other cheese on hand.  Don't add too much though; this is still suppossed to be a healthy salad, not a bowl of feta with some vegetables (sorry Phil's Pizzeria Greek Salad).
 
 <center><img src="/assets/Misc/Cooking/Salad/salad-7.jpg" alt="" class="larger-image"></center><br>
 <div id="spices" class="table-of-contents"></div>

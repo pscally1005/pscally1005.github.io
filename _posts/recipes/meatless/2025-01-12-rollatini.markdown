@@ -26,8 +26,8 @@ Source1: https://www.poormanprotein.com/recipes/eggplant-parm
 Source2: https://www.poormanprotein.com/recipes/pasta-sauce
 whisk: https://s.samsungfood.com/kSpc3
 tags: 
-- eggplant parmesean
-- parmesean
+- eggplant parmesan
+- parmesan
 - parmesan
 - cheese
 - mozzarella

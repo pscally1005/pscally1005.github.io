@@ -30,7 +30,7 @@ tags:
 - pesto
 - basil
 - garlic
-- parmesean cheese
+- parmesan cheese
 - parmesan cheese
 - sauce
 - italian

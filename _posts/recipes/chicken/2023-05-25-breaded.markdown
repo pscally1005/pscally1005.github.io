@@ -26,7 +26,7 @@ Source1: https://www.youtube.com/watch?v=U5TuA2MtArk
 Source2: 
 whisk: https://s.samsungfood.com/u8VhA
 tags: 
-- parmesean
+- parmesan
 - mozzarella
 - sauce
 - tomato

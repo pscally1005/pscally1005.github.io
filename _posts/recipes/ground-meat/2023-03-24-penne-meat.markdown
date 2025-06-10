@@ -34,7 +34,7 @@ tags:
 - shredded
 - mozzarella
 - grated
-- parmesean
+- parmesan
 - running club
 - rrc
 - party

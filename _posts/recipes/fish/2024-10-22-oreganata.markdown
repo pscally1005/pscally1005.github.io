@@ -40,7 +40,7 @@ tags:
 - basil
 - oat flour
 - oats
-- parmesean cheese
+- parmesan cheese
 - parmesan cheese
 - flaxmeal
 - ground flaxseed

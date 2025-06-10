@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parmesean Crusted Zucchini Wedges"
+title:  "Parmesan Crusted Zucchini Wedges"
 date:   2024-03-16 00:00:00 -05000
 categories: 
 - Recipes
@@ -28,7 +28,7 @@ whisk: https://s.samsungfood.com/xQ0gi
 tags: 
 - zucchini
 - squash
-- parmesean
+- parmesan
 - cheese
 - grated cheese
 - thyme

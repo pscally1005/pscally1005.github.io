@@ -32,7 +32,7 @@ tags:
 - clam dip
 - grated cheese
 - parmesan
-- parmesean
+- parmesan
 - parsley
 - oregano
 - lemon juice

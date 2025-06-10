@@ -124,7 +124,7 @@ tags:
 - Fried foods:
 <br>&emsp;- Chicken fingers and nuggets
 <br>&emsp;- Chicken and waffles
-<br>&emsp;- Chicken parmesean
+<br>&emsp;- Chicken parmesan
 <br>&emsp;- Chicken wings
 <br>&emsp;- Coconut shrimp
 <br>&emsp;- Corn dogs

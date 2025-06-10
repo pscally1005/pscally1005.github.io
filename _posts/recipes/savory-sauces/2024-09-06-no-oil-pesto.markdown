@@ -41,7 +41,7 @@ tags:
 - toasted nuts
 - grated cheese
 - cheese
-- parmesean cheese
+- parmesan cheese
 - parmesan cheese
 - nutritional yeast
 Description: Delicious pesto for a fraction of the calories!  Yes it's possible; this pesto is oil free, but still made with pine nuts, basil, garlic, and grated cheese.  It's a great sauce, spread, or salad dressing, and full of the same nutty, cheese, and lemon flavor that you love.<br>&emsp;Check out some of my other pesto recipes, with varying amounts of oil, different kinds of nuts, vegan versions, and high protein versions:<br><ul><li><a href="/recipes/pesto-classico">Pesto Classico</a><li><a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a></li><li><a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a></li><li><a href="/recipes/avocado-pesto">Avocado Pesto - Vegan and Oil Free</a></li><li><a href="/recipes/evoo-pesto">Lightened Extra Virgin Olive Oil Pesto</a></li><li><a href="/recipes/creamy-pesto">Creamy Pesto Dip</a></li></ul>

@@ -35,7 +35,7 @@ tags:
 - flaxseed
 - ground flaxseed
 - parmesan cheese
-- parmesean cheese
+- parmesan cheese
 - low moisture part skim
 - shredded cheese
 - pepperoni
