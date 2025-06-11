@@ -1,6 +1,9 @@
 <div id="search-container">
-    <!-- Search Input Field -->
-    <input type="text" id="search-input" placeholder="Type your search here..." autofocus>
+    <!-- Search Input with Clear Button -->
+    <div id="search-wrapper">
+        <input type="text" id="search-input" placeholder="Type your search here..." autofocus>
+        <span id="clear-button">&times;</span>
+    </div>
     
     <!-- Search Results Count -->
     <div id="results-count" class="page-post-count"></div> <!-- This will display the number of results found -->
@@ -11,6 +14,64 @@
 
 <!-- Include the Simple Jekyll Search script -->
 <script src="/assets/js/search-script.js" type="text/javascript"></script>
+
+<style>
+    #search-wrapper {
+  position: relative;
+  display: block;
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto 10px; /* center on desktop */
+  box-sizing: border-box;
+  right: 1px;
+}
+
+#search-input {
+  width: 100%;
+  height: 44px;
+  padding: 0 40px 0 12px;
+  font-size: 16px;
+  box-sizing: border-box;
+  line-height: 44px;
+}
+
+#clear-button {
+  position: absolute;
+  right: 12px;
+  top: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  color: #888;
+  cursor: pointer;
+  display: none;
+  user-select: none;
+}
+
+#clear-button:hover {
+  color: #000;
+}
+
+@media (max-width: 768px) {
+  #search-wrapper {
+    max-width: 100%;
+    width: 100%;
+    padding: 0 12px;
+    margin: 0 auto 10px;
+    left: 18px;
+  }
+
+  #search-input {
+    width: 100%;
+  }
+
+  #clear-button {
+    right: 60px; /* inside the input padding */
+  }
+}
+
+</style>
 
 <script>
     // Function to format allergens into HTML
@@ -69,45 +130,45 @@
         noResultsText: "" // Message when no results are found
     });
 
-    // Listen for keyup events in the search input
-    document.getElementById('search-input').addEventListener('keyup', function() {
-        setTimeout(function() {
-            let resultItems = document.querySelectorAll('#results-container .result-item');
-            let resultsCountElement = document.getElementById('results-count');
-
-            // Display number of results found
-            let resultCount = resultItems.length;
-            if (resultCount > 0) {
-                resultsCountElement.innerText = resultCount + " result(s) found";
-
-                // Add numbering to each result
-                let count = 1;
-                resultItems.forEach(function(item) {
-                    let countElement = item.querySelector('.post-count');
-                    if (countElement) {
-                        countElement.textContent = count + ".";
-                    }
-
-                    // Update the allergen container in the result item
-                    const allergenContainer = item.querySelector('.allergen-container');
-                    const allergens = formatAllergens(
-                        item.getAttribute('data-gluten-free') === "true",
-                        item.getAttribute('data-vegetarian') === "true",
-                        item.getAttribute('data-dairy-free') === "true",
-                        item.getAttribute('data-vegan') === "true",
-                        item.getAttribute('data-nut-free') === "true",
-                        item.getAttribute('data-sugar-free') === "true"
-                    );
-
-                    if (allergenContainer) {
-                        allergenContainer.innerHTML = allergens; // Inject the allergen HTML
-                    }
-
-                    count++;
-                });
-            } else {
-                resultsCountElement.innerText = "No results found";
-            }
-        }, 0); // Adjust the timeout duration as needed
+    const searchInput = document.getElementById('search-input');
+    const resultsCountElement = document.getElementById('results-count');
+    const clearButton = document.getElementById('clear-button');
+  
+    function updateResultsUI() {
+      const resultItems = document.querySelectorAll('#results-container .result-item');
+      const visibleItems = [...resultItems].filter(item => item.offsetParent !== null);
+      const count = visibleItems.length;
+  
+      resultsCountElement.textContent = count > 0 ? `${count} result(s) found` : 'No results found';
+  
+      visibleItems.forEach((item, index) => {
+        const countElement = item.querySelector('.post-count');
+        if (countElement) countElement.textContent = `${index + 1}.`;
+  
+        const allergenContainer = item.querySelector('.allergen-container');
+        if (allergenContainer) {
+          allergenContainer.innerHTML = formatAllergens(
+            item.getAttribute('data-gluten-free') === "true",
+            item.getAttribute('data-vegetarian') === "true",
+            item.getAttribute('data-dairy-free') === "true",
+            item.getAttribute('data-vegan') === "true",
+            item.getAttribute('data-nut-free') === "true",
+            item.getAttribute('data-sugar-free') === "true"
+          );
+        }
+      });
+    }
+  
+    searchInput.addEventListener('input', () => {
+      clearButton.style.display = searchInput.value.length ? 'block' : 'none';
+      setTimeout(updateResultsUI, 0);
+    });
+  
+    clearButton.addEventListener('click', () => {
+      searchInput.value = '';
+      clearButton.style.display = 'none';
+      searchInput.focus();
+      const event = new Event('input');
+      searchInput.dispatchEvent(event);
     });
 </script>

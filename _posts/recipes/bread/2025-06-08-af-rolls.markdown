@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Bread
 permalink: /recipes/almond-flour-rolls
-image: /assets/Food/Bread/Almond Flour Rolls/stack.jpg
+image: /assets/Food/Bread/Almond Flour Rolls/bagel-cc.jpg
 ing: afrolls-ing
 facts: afrolls-facts
 servingSize: 1 roll or bagel
@@ -55,5 +55,5 @@ Instructions:
 - Optionally, brush the tops with water, and top with everything bagel seasoning
 
 - Bake for about 40 minutes at 375F, or until lightly browned on the bottom. Transfer to a wire rack to cool before slicing
-- <center><img src="/assets/Food/Bread/Almond Flour Rolls/baked.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Bread/Almond Flour Rolls/stack.jpg" alt="" class="instruction-image"></center>
 ---
