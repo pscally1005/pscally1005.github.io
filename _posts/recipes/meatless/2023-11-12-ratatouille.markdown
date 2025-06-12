@@ -42,7 +42,7 @@ tags:
 - crushed tomatoes
 - bowl
 - dutch oven
-Description: This simple Ratatouille is a stewed dish of various vegetables in a tomato sauce. This is my preferred way to make this dish, as it's way simpler like this, but feel free to make it look pretty like in the movie.
+Description: This simple Ratatouille is a stewed dish of various vegetables in a tomato sauce. This is my preferred way to make this dish, as it's way simpler like this, but feel free to make it look pretty like in the movie.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
 Instructions: 
 - Preheat the oven to 350F
 

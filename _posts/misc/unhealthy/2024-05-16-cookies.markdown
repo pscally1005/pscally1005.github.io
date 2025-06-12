@@ -39,7 +39,7 @@ tags:
 - chocolate chunks
 - chopped chocolate
 - cookie
-Description: Here's a standard chocolate chip cookie recipe. I usually only make and post healthy recipes, but it's okay to enjoy the classic treat from time to time. Chocolate chip cookies are usually what I make to bring for an occasion; that way I can have 1 or 2 every so often, and I can leave someone else with the rest.  I made these to celebrate Vic getting into UF for her Master's Degree.  Brownies are the other classic dessert, so check out my <a href="/recipes/brownies">Classic Fudgy Brownies</a>
+Description: Here's a standard chocolate chip cookie recipe. I usually only make and post healthy recipes, but it's okay to enjoy the classic treat from time to time. Chocolate chip cookies are usually what I make to bring for an occasion; that way I can have 1 or 2 every so often, and I can leave someone else with the rest.  I made these to celebrate Vic getting into UF for her Master's Degree.  Brownies are the other classic dessert, so check out my <a href="/recipes/brownies">Classic Fudgy Brownies</a>, or check out any of my other <a href="/cookies">healthy cookie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F, and line 2 large cookie sheets with parchment paper
 

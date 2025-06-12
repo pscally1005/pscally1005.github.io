@@ -51,7 +51,7 @@ tags:
 - sunflower seed butter
 - sunflower butter
 - almond butter
-Description: This yogurt bowl is packed full of Omega-3 fatty acids from both chia seeds and flax seeds. Omega-3 fatty acids are an essential nutrients, helping to lower inflammation, benefit brain and eye health, raise HDL, and so much more. It also has walnut butter (or any natural nut/seed butter) for some extra healthy fats, as well as being packed with fiber. It's still a great source of protein and complex carbs; a great way to start off your day
+Description: This yogurt bowl is packed full of <a href="/misc/nutrient-alphabet#O">Omega-3 fatty acids</a> from both chia seeds and flax seeds. Omega-3 fatty acids are an essential nutrients, helping to lower inflammation, benefit brain and eye health, raise HDL, and so much more. It also has walnut butter (or any natural nut/seed butter) for some extra <a href="/misc/fats">healthy fats</a>, as well as being packed with <a href="/misc/fiber">fiber</a>. It's still a great source of <a href="/misc/protein">protein</a> and <a href="/misc/carbs">complex carbs</a>; a great way to start off your day.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>!
 Instructions: 
 - Mix all ingredients together in a bowl, top with finely diced kiwi, and enjoy
 ---

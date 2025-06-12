@@ -39,7 +39,7 @@ tags:
 - lime juice
 - lemon juice
 - vic
-Description: Quick pickles add a great color and flavor pop to nearly every dish, and red onions are my personal favorite vegetable for this. Simply cover with water and vinegar in a mason jar, and you're done!
+Description: Quick pickles add a great color and flavor pop to nearly every dish, and red onions are my personal favorite vegetable for this. Simply cover with water and vinegar in a mason jar, and you're done!  You can also check out any of my <a href="/salad-dressings">salad dressings</a>!
 Instructions: 
 - Cut the red onions into long thin strips and add to a large mason jar. In a measuring cup, mix together water, vinegar, salt, garlic, and dill.  Pour over the sliced onions, and let pickle in the fridge for at least a few days before eating
 ---

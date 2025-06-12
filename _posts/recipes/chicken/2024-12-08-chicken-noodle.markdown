@@ -41,7 +41,7 @@ tags:
 - nutmeg
 - turmeric
 - cayenne
-Description: Winter is coming, and that means immune boosting delicious stews to keep you warm and help cure your common cold. This remix off the classic Chicken Noodle Soup is packed with more vegetables and anti-inflammatory spices. The combination of ginger, turmeric, garlic, cayenne pepper, and more will leave your taste buds satisfied, belly fully, and nose cleared.  It's a dump and go stew, like my <a href="/recipes/chicken-stew">Crockpot Chicken Stew</a>; meaning you just have to cut up the vegetables and chicken, add it to the crockpot, and have dinner ready for you. No other cooking required besides a box of pasta!
+Description: Winter is coming, and that means immune boosting delicious stews to keep you warm and help cure your common cold. This remix off the classic Chicken Noodle Soup is packed with more vegetables and anti-inflammatory spices. The combination of ginger, turmeric, garlic, cayenne pepper, and more will leave your taste buds satisfied, belly fully, and nose cleared.  It's a dump and go stew, like my <a href="/recipes/chicken-stew">Crockpot Chicken Stew</a>; meaning you just have to cut up the vegetables and chicken, add it to the crockpot, and have dinner ready for you. No other cooking required besides a box of pasta!  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
 Instructions: 
 - Cut your onion, carrots, and celery into a small dice, and add to a large slow cooker. Dump in your bag of defrosted broccoli. Finely cut your ginger, and add to the pot as well with your minced garlic
 

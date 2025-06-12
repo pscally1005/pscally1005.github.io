@@ -39,7 +39,7 @@ tags:
 - honey
 - sugar free
 - granulated monk fruit
-Description: Honey mustard used to go be my go to spread or my sandwich or dressing for my salads. But <a href="https://amzn.to/43ZqAQ3">commercial bottles</a> are filled with soybean oil, high fructose corn syrup, sugar, gums, and artificial colors. Instead, here's a honey mustard you can feel good about eating. With cottage cheese and extra virgin olive oil, this dressing provides some protein and healthy fats. It's also sugar free, being sweetened with granulated monk fruit
+Description: Honey mustard used to go be my go to spread or my sandwich or dressing for my salads. But <a href="https://amzn.to/43ZqAQ3">commercial bottles</a> are filled with soybean oil, high fructose corn syrup, sugar, gums, and artificial colors. Instead, here's a honey mustard you can feel good about eating. With cottage cheese and extra virgin olive oil, this dressing provides some protein and healthy fats. It's also sugar free, being sweetened with granulated monk fruit.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a>!
 Instructions: 
 - In a medium bowl, whisk together all ingredients until fully combined. Adjust sweetness and salt as desired. Store in the fridge for up to 1 week
 - <center><img src="/assets/Food/Savory Sauces/No Honey Mustard/salad.jpg" alt="" class="instruction-image"></center>

@@ -36,7 +36,7 @@ tags:
 - sugar cookies
 - white flour
 - all purpose flour
-Description: Happy New Year!  Vic and I tend to make sugar cookies once a year, and we decided to make them for New Year's Eve.  While I've never been a big fan of sugar cookies, they're a fun activity to do with a partner or a group.  Decorating cookies is a great way to bring out creativity and unwind, and they always seem to be a big hit at gatherings.  If you prefer healthier decorative cookies, you can check out my <a href="/recipes/cut-out-cookies">Healthier Cut Out Cookies</a>, which have a cocoa base, only a little added sugar from maple syrup, and a homemade frosting
+Description: Happy New Year!  Vic and I tend to make sugar cookies once a year, and we decided to make them for New Year's Eve.  While I've never been a big fan of sugar cookies, they're a fun activity to do with a partner or a group.  Decorating cookies is a great way to bring out creativity and unwind, and they always seem to be a big hit at gatherings.  If you prefer healthier decorative cookies, you can check out my <a href="/recipes/cut-out-cookies">Healthier Cut Out Cookies</a>, which have a cocoa base, only a little added sugar from maple syrup, and a homemade frosting.  You can also check out any of my other <a href="/cookies">healthy cookie recipes</a>!
 Instructions: 
 - In a medium bowl, whisk together the dry ingredients, and set aside - flour, baking powder, and salt
 

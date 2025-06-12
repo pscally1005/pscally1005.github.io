@@ -44,7 +44,7 @@ tags:
 - jam
 - gluten free
 - sugar free
-Description: These simple cookies are made with simply mashed banana and quick oats. They can be easily customized by switching out the banana for unsweetened applesauce, pumpkin puree, or really anything you can think of. Or feel free to fold in whatever mix-ins you like, such as chocolate chips, raisins, or chopped nuts
+Description: These simple cookies are made with simply mashed banana and quick oats. They can be easily customized by switching out the banana for unsweetened applesauce, pumpkin puree, or really anything you can think of. Or feel free to fold in whatever mix-ins you like, such as chocolate chips, raisins, or chopped nuts.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F and line a cookie sheet with parchment paper
 

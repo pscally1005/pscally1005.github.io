@@ -39,7 +39,7 @@ tags:
 - nut
 - chopped
 - peanut
-Description: Protein overnight oats are easily my favorite breakfast. They are packed with protein and fiber, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.
+Description: Protein overnight oats are easily my favorite breakfast. They are packed with <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
 Instructions: 
 - Mix all ingredients together in a bowl, slice a banana on top, sprinkle on cinnamon, cover, and refrigerate overnight
 - <center><img src="/assets/Food/Breakfast/Oatmeal/oats-banana-2.jpg" alt="" class="instruction-image"></center>

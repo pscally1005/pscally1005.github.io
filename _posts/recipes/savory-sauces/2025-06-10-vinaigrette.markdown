@@ -37,7 +37,7 @@ tags:
 - walnuts
 - dates
 - olive oil
-Description: As someone who eats a lot of salad, you may be surprised to hear that I don't use bottled salad dressing.  That's because these are often filled with inflammatory seed oils, tons of added sugar, preservatives you can't pronounce, and artificial food dyes. Instead, you can make your own balsamic that contains healthy fats from olives and walnuts, and natural sweetness from dates
+Description: As someone who eats a lot of salad, you may be surprised to hear that I don't use bottled salad dressing.  That's because these are often filled with inflammatory seed oils, tons of added sugar, preservatives you can't pronounce, and artificial food dyes. Instead, you can make your own balsamic that contains healthy fats from olives and walnuts, and natural sweetness from dates.  You can check out any of my other <a href="/salad-dressings">salad dressings</a>!
 Instructions: 
 - Add all ingredients to a blender or food processor, and blend until smooth
 - <center><img src="/assets/Food/Savory Sauces/Vinaigrette/processor.jpg" alt="" class="instruction-image"></center>

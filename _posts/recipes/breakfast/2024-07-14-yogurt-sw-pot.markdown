@@ -56,7 +56,7 @@ tags:
 - blackberries
 - raspberries
 - frozen berries
-Description: This has been my breakfast for the past 4 mornings, and I'm prepared to have it another 4 times because it's great. This bowl is a great source of protein, healthy fats, complex carbs, fiber, calcium, potassium, vitamin B12, and vitamin A. It's delicious, filling, and super quick to make
+Description: This has been my breakfast for the past 4 mornings, and I'm prepared to have it another 4 times because it's great. This bowl is a great source of <a href="/misc/protein">protein</a>, <a href="/misc/fats">healthy fats</a>, <a href="/misc/carbs">complex carbs</a>, <a href="/misc/fiber">fiber</a>, calcium, <a href="/misc/potassium">potassium</a>, <a href="/misc/vitamin-b12">vitamin B12</a>, and <a href="/misc/nutrient-alphabet#A">vitamin A</a>. It's delicious, filling, and super quick to make.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>!
 Instructions: 
 - Here I'm using <a href="/recipes/sweet-potato-puree">sweet potato puree</a> that I made by roasting and blending a whole sweet potato (with the skin) until smooth.  Some substitutes would be <a href="/recipes/pumpkin-puree">pumpkin puree</a>, unsweetened applesauce, mashed banana, or <a href="/recipes/apple-spread">apple spread</a>
 

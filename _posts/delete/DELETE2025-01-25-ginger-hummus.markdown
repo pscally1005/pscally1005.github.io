@@ -6,6 +6,7 @@ categories:
 - Recipes
 - Savory Sauces
 hummus: yes
+dressing: yes
 permalink: /recipes/ginger-hummus
 image: /assets/Food/Savory Sauces/Ginger Hummus/cover.jpg
 ing: gingerhummus-ing
@@ -43,7 +44,7 @@ tags:
 - dip
 - spread
 - dressing
-Description: Today I had a ton of fresh ginger left over lying around and a can of black beans calling my name. Here, I've made hummus using black beans, ginger, and lime juice in place of the regular chickpeas, garlic, and lemon juice. The addition of the soy sauce and sesame oil takes it to another level. This recipe also contains no garlic or onion for those who are sensitive to it, and it only has 5 ingredients!<br>&emsp;Check out some of my other flavors of hummus as well!  They're all either contain either low or no oil, making them lower in fat and calories than traditional.  I have plenty of differnent flavors coming from various spices, roasted vegetables, differnet nut and seed butters, and even different beans:<br>- <a href="/recipes/classic-tahini-hummus">Classic Tahini Hummus</a><br>- <a href="/recipes/creamy-pesto-hummus">Creamy Pesto Hummus</a><br>- <a href="/recipes/roasted-red-pepper-hummus">Roasted Red Pepper Hummus</a><br>- <a href="/recipes/roasted-garlic-hummus">Cheesy Garlic Hummus</a><br>- <a href="/recipes/sweet-potato-hummus">Golden Sweet Potato Hummus</a><br>- <a href="/recipes/roasted-eggplant-hummus">Mediterranean Roasted Eggplant Hummus</a><br>- <a href="/recipes/roasted-beet-hummus">Creamy Roasted Beet Hummus</a><br>- <a href="/recipes/hummus">Lemony Taco Inspired Hummus</a>
+Description: Today I had a ton of fresh ginger left over lying around and a can of black beans calling my name. Here, I've made hummus using black beans, ginger, and lime juice in place of the regular chickpeas, garlic, and lemon juice. The addition of the soy sauce and sesame oil takes it to another level. This recipe also contains no garlic or onion for those who are sensitive to it, and it only has 5 ingredients.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
 Instructions: 
 - Using a strainer, drain and rinse your can of beans. Here, I used a 15.5 oz can of black beans, but chickpeas or any other beans would be perfect here too
 

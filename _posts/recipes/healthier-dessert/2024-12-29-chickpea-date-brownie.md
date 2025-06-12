@@ -38,7 +38,7 @@ tags:
 - prunes
 - figs
 - unsweetened vanilla almond milk
-Description: Not only are these brownies much healthier, but they're also dead simple. Just blend together everything in a food processor, transfer to a pan, and bake! Where else are you going to find a delicious brownie recipe that's added sugar free, gluten free, and vegan. Compared to traditional brownies, these bars are lower in unhealthy fats and carbs, while also having more fiber and protein from the beans and nuts. I'll be honest with you, this is essentially just my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> baked into brownie form; that's what I call versatility!
+Description: Not only are these brownies much healthier, but they're also dead simple. Just blend together everything in a food processor, transfer to a pan, and bake! Where else are you going to find a delicious brownie recipe that's added sugar free, gluten free, and vegan. Compared to traditional brownies, these bars are lower in unhealthy fats and carbs, while also having more fiber and protein from the beans and nuts. I'll be honest with you, this is essentially just my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> baked into brownie form; that's what I call versatility!  Or check out any of my other <a href="/brownies">brownie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F, and line a 9x13" pan with parchment paper. Lightly oil the paper
 

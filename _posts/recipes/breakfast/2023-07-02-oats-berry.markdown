@@ -40,7 +40,7 @@ tags:
 - strawberry
 - blackberry
 - raspberry
-Description: Protein overnight oats are easily my favorite breakfast. They are packed with protein and fiber, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.
+Description: Protein overnight oats are easily my favorite breakfast. They are packed with <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
 Instructions: 
 - Add most of your berries to a small bowl, and microwave for 30 seconds.  Roughly mash with the back of a fork
 

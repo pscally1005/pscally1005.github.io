@@ -39,7 +39,7 @@ tags:
 - grilled chicken
 - chickpeas
 - kalamata olives
-Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red peppers and artichokes makes it even better. This is super healthy, and tastes great with all the vegetables, meat, and feta. This also works well as a side without the meat too, or pair it with my <a href="/recipes/pita">Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita
+Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red peppers and artichokes makes it even better. This is super healthy, and tastes great with all the vegetables, meat, and feta. This also works well as a side without the meat too, or pair it with my <a href="/recipes/pita">Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita.  Or you can check out any of my other <a href="/salad">salad recipes</a>!
 Instructions:
 - Preheat your oven to 400F, and line a cookie sheet with parchment paper. Wash and cut your peppers into long, thin strips. Toss with oil and pepper. Roast at 400F for about 30 minutes, or until softened and lightly charred. Set aside
 - <center><img src="/assets/Food/Chicken/Greek Salad/roasted.jpg" alt="" class="instruction-image"></center>

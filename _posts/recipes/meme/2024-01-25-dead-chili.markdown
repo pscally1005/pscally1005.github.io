@@ -40,7 +40,7 @@ tags:
 - crushed tomato
 - diced green chiles
 - diced chiles
-Description: I was bored once and wanted to make possibly the simplest recipe ever. This chili is so easy that even a doorhanger could do it. No measuring, no cutting, just dump stuff in and go. It used an entire small container of chili powder, couldn't get any simpler than that lmao.  Or make real chili using my recipe for <a href="chili">Slow Cooker Chili</a>
+Description: I was bored once and wanted to make possibly the simplest recipe ever. This chili is so easy that even a doorhanger could do it. No measuring, no cutting, just dump stuff in and go. It used an entire small container of chili powder, couldn't get any simpler than that lmao.  Or make real chili using my recipe for <a href="/recipes/chili">Slow Cooker Chili</a>.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
 Instructions: 
 - Open all your containers
 - <center><img src="/assets/Food/Meme/Chili/dead-chili-1.jpg" alt="" class="instruction-image"></center>

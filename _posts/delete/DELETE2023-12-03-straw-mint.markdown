@@ -45,7 +45,7 @@ tags:
 - berry
 - berries
 - strawberry
-Description: I love myself a classic natural nut butter, but sometimes I like to mix it up with various different flavors. It's sweet but sugar free, healthy, and lower in fat, since some of the nuts are replaced with fruit or other ingredients. I've also added a scoop of protein powder to add some more protein, since there is proportionally less nuts than regular nut butter.  For my other flavored protein nut butters, check out the links below:<br><ul><li><a href="/recipes/cran-almond">Cranberry Protein Almond Butter</a></li><li><a href="/recipes/choc-pb">Chocolate Banana Protein Peanut Butter</a></li></ul>
+Description: I love myself a classic natural nut butter, but sometimes I like to mix it up with various different flavors. It's sweet but sugar free, healthy, and lower in fat, since some of the nuts are replaced with fruit or other ingredients. I've also added a scoop of protein powder to add some more protein, since there is proportionally less nuts than regular nut butter.  For my other flavored protein nut butters, check out the links below:<br><ul><li><a href="/recipes/cran-almond">Cranberry Protein Almond Butter</a></li><li><a href="/recipes/choc-pb">Chocolate Banana Protein Peanut Butter</a></li></ul>.  You can also check out any of my other <a href="/nut-butter">nut-butter recipes</a>!
 Instructions: 
 - In a food processor, blend together the nuts until a smooth nut butter is formed. Scrape down the sides every minute or so. This should take about 5-10 minutes
 

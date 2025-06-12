@@ -37,7 +37,7 @@ tags:
 - jam
 - nut
 - chopped
-Description: Plain nonfat greek yogurt combined with whey protein powder makes a protein packed bowl to start your day off right.  I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have <a href="/recipes/yogurt-pbj">PB&J</a>, <a href="/recipes/yogurt-apple">Apple Pie</a>, <a href="/recipes/yogurt-choc">Chocolate</a>, and PB Banana for you to enjoy
+Description: Plain nonfat greek yogurt combined with whey protein powder makes a protein packed bowl to start your day off right.  I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have <a href="/recipes/yogurt-pbj">PB&J</a>, <a href="/recipes/yogurt-apple">Apple Pie</a>, <a href="/recipes/yogurt-choc">Chocolate</a>, and PB Banana for you to enjoy.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>!
 Instructions: 
 - Mix all ingredients together in a bowl, top with sliced banana, cover, and refrigerate overnight
 

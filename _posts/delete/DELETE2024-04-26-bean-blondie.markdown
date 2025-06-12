@@ -44,7 +44,7 @@ tags:
 - sunflower butter
 - sunflower seeds
 - pumpkin seeds
-Description: These blondies are so good that you would never know there were beans in there. The combination of beans, oats, and dates means they're packed with fiber. They contain only healthy fats from the nuts, and are free of any refined sugars. These blondies are super rich, fudgey, the right amount of sweet, gluten free and vegan, and only 100 calories. Use sunflower or pumpkin seed butter to make them nut free too. For more date and bean based desserts, see my <a href="black-bean-date-brownies">Black Bean Date Brownies</a> and <a href="dual-bean-date-brookies">Dual Buan Date Brookies</a>
+Description: These blondies are so good that you would never know there were beans in there. The combination of beans, oats, and dates means they're packed with fiber. They contain only healthy fats from the nuts, and are free of any refined sugars. These blondies are super rich, fudgey, the right amount of sweet, gluten free and vegan, and only 100 calories. Use sunflower or pumpkin seed butter to make them nut free too. For more date and bean based desserts, see my <a href="/recipes/black-bean-date-brownies">Black Bean Date Brownies</a> and <a href="/recipes/dual-bean-date-brookies">Dual Buan Date Brookies</a>.  You can also check out any of my other <a href="/brownies">brownie recipes</a>
 Instructions: 
 - Preheat your oven to 350F, line a 9x13" baking pan with parchment paper, and lightly spray it with oil. Drain and rinse your beans
 

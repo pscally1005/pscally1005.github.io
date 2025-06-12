@@ -56,5 +56,5 @@ Instructions:
 
 - Once you have a smooth coconut butter (it should be the similar to the consistency of a natural nut butter), blend in the rest of the ingredients until smooth
 
-- Line an 9" square baking pan with parchment paper (or a bread pan for a half batch). Press mixture evenly into the pan, and optionally top with flakey salt or chopped nuts. Refrigerate for a few fours to harden before slicing into small squares
+- Line an 9" square baking pan with parchment paper (or a bread pan for a half batch). Press mixture evenly into the pan, and optionally top with flaky salt or chopped nuts. Refrigerate for a few fours to harden before slicing into small squares
 ---

@@ -40,7 +40,7 @@ tags:
 - almond butter
 - gluten free
 - healthy
-Description: Who else agrees that raw cookie dough is better than the actual baked cookies?  This cookie dough is gluten free, lower in sugar and fat, and vegan (depending on your chocolate).  Instead of butter, sugar, and flour, I've used cashew butter, honey, and oat flour for a more wholesome dessert that's just as delicious.  If instead you prefer baked cookies, check out my <a href="/recipes/date-cookies">Almond Flour Cookies</a> or <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>
+Description: Who else agrees that raw cookie dough is better than the actual baked cookies?  This cookie dough is gluten free, lower in sugar and fat, and vegan (depending on your chocolate).  Instead of butter, sugar, and flour, I've used cashew butter, honey, and oat flour for a more wholesome dessert that's just as delicious.  If instead you prefer baked cookies, check out my <a href="/recipes/date-cookies">Almond Flour Cookies</a> or <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - Melt your cashew butter and coconut oil (or olive oil) in the microwave for about 45 seconds in a glass bowl. Stir in the honey, vanilla, and salt with a silicone spatula. Mix in the oat flour until fully incorporated and slightly sticky. 
 

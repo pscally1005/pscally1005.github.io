@@ -38,7 +38,7 @@ tags:
 - allulose
 - sugar free
 - nut free
-Description: I'm back for 3 more flavored nut butter recipes.  Last time was peanuts, almonds, and walnuts, but today I'm going for pistachios, cashews, and sunflower & pumpkin seeds.  First up is Super Seed Butter, but be sure to check out the other 2 - <a href="/recipes/mint-pistachio-butter">Mint Pistachio Butter</a> and <a href="/recipes/cashew-cookie-butter">Cashew Cookie Butter</a>.  Each serving is about 2 tbsp (32 g)
+Description: I'm back for 3 more flavored nut butter recipes.  Last time was peanuts, almonds, and walnuts, but today I'm going for pistachios, cashews, and sunflower & pumpkin seeds.  First up is Super Seed Butter, but be sure to check out the other 2 - <a href="/recipes/mint-pistachio-butter">Mint Pistachio Butter</a> and <a href="/recipes/cashew-cookie-butter">Cashew Cookie Butter</a>.  Or check out any of my other <a href="/nut-butter">nut butter recipes</a>!
 Instructions: 
 - If your seeds are raw, air fry them at 300F for 10 minutes, or roast in the oven at 350F for 12 minutes
 - <center><img src="/assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/roasted.jpg" alt="" class="instruction-image"></center>

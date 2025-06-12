@@ -39,7 +39,7 @@ tags:
 - peanut butter
 - natural peanut buter
 - dark chocolate
-Description: Date snickers were a delicious trend a while ago. I've made them a few times, but I wanted to write it down here and share the "recipe", because they're a delicious snack that will even have any non-healthy dessert eaters be impressed. They're simple just dates filled with nut butter and dipped in chocolate. I first had them when Vic made them for my birthday, and I've got to say they're one of the best things I've ever tasted
+Description: Date snickers were a delicious trend a while ago. I've made them a few times, but I wanted to write it down here and share the "recipe", because they're a delicious snack that will even have any non-healthy dessert eaters be impressed. They're simply just dates filled with nut butter and dipped in chocolate. I first had them when Vic made them for my birthday, and I've got to say they're one of the best things I've ever tasted
 Instructions: 
 - Line a small plate with a piece of parchment paper or aluminum foil, and set aside
 
@@ -53,5 +53,5 @@ Instructions:
 
 - This recipe calls for exactly the amount of chocolate the dates should take for accurate nutritional information, but you should melt more (probably 1.33x the amount) to ensure you have enough to actually coat the chocolate. I measured the before and after weight to see how much chocolate each date got, but you need to have a little excess in the bowl to be able to cover them
 
-- Optionally, sprinkle the tops with flakey salt.  Freeze for another 15 minutes to harden, and store leftovers in the fridge or freezer
+- Optionally, sprinkle the tops with flaky salt.  Freeze for another 15 minutes to harden, and store leftovers in the fridge or freezer
 ---

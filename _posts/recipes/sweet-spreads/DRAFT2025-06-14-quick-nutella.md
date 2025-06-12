@@ -35,7 +35,7 @@ tags:
 - carob powder
 - sugar free
 - almond extract
-Description: If you want just one serving of a delicious chocolate spread that has no added sugar, then look no further. Though you could absolutely scale it up and store a larger batch in the fridge. Powdered peanut butter as a base provides peanut flavor and protein for minimal calories, while carob powder gives it that rich and slightly sweet chocolate taste. This easy Nutella substitute is perfect on toast, in crepes, or as a dip for fruit
+Description: If you want just one serving of a delicious chocolate spread that has no added sugar, then look no further. Though you could absolutely scale it up and store a larger batch in the fridge. Powdered peanut butter as a base provides peanut flavor and protein for minimal calories, while carob powder gives it that rich and slightly sweet chocolate taste. This easy Nutella substitute is perfect on toast, in crepes, or as a dip for fruit.  Or check out any of my other <a href="/nut-butter">nut butter recipes</a>!
 Instructions: 
 - Mix all ingredients together in a small bowl or glass. Use as any other chocolate spread or peanut butter
 - <center><img src="/assets/Food/Sweet Spreads/Quick Nutella/glass.jpg" alt="" class="instruction-image"></center>

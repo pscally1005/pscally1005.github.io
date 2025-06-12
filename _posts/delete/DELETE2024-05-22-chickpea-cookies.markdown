@@ -45,7 +45,7 @@ tags:
 - coconut oil
 - chickpeas
 - garbanzo beans
-Description: This is part 1 of me trying to make a classic chocolate chip cookie in a much healthier way.  First up is chickpeas, which provide a great neutral base for the cookies, allowing them to stay moist without all the fat of butter, and while being packed with fiber.  For some healthy fats and some sweetness, I've used natural peanut butter and sugar free syrup.  These cookies are gluten and grain free, using coconut flour instead, and use a homemade sugar free chocolate using just 3 ingredients.  They don't taste like beans at all, and can even be enjoyed raw!<br>&emsp;For part 2, see my <a href="cottage-cheese-cookies">Cottage Cheese Cookies</a>
+Description: This is part 1 of me trying to make a classic chocolate chip cookie in a much healthier way.  First up is chickpeas, which provide a great neutral base for the cookies, allowing them to stay moist without all the fat of butter, and while being packed with fiber.  For some healthy fats and some sweetness, I've used natural peanut butter and sugar free syrup.  These cookies are gluten and grain free, using coconut flour instead, and use a homemade sugar free chocolate using just 3 ingredients.  They don't taste like beans at all, and can even be enjoyed raw!  For part 2, see my <a href="cottage-cheese-cookies">Cottage Cheese Cookies</a>.  You can also check out any of my other <a href="/cookies">cookie recipes</a>
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper.  Also line a small Tupperware with parchment
 

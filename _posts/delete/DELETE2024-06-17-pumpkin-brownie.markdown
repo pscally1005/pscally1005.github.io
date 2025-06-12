@@ -43,7 +43,7 @@ tags:
 - pumpkin seed butter
 - natural peanut butter
 - peanut butter
-Description: These brownies spawned from me trying to make my <a href="three-ingredient-brownies">Three Ingredient Brownie Bites</a>, where I wanted to swap the banana and peanut butter for pumpkin puree and pumpkin seed butter.  The batter was much thicker, so I added some extra ingredients, swirled in a pumpkin topping, and thus these Double Pumpkin Brownies were born.  They're sugar, nut,  and gluten free, moist and fudgy, and simple to make!
+Description: These brownies spawned from me trying to make my <a href="three-ingredient-brownies">Three Ingredient Brownie Bites</a>, where I wanted to swap the banana and peanut butter for pumpkin puree and pumpkin seed butter.  The batter was much thicker, so I added some extra ingredients, swirled in a pumpkin topping, and thus these Double Pumpkin Brownies were born.  They're sugar, nut,  and gluten free, moist and fudgy, and simple to make!  You can also check out any of my other <a href="/brownies">brownie recipes</a>
 Instructions: 
 - In a large bowl, combine together all ingredients for the brownie layer with a silicone spatula until fully combined
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-unmixed.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pumpkin Brownies/pumpkin-brownies-mixed.jpg" alt="" class="half-page"></center>

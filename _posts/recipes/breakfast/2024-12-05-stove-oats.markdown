@@ -38,7 +38,7 @@ tags:
 - cottage cheese
 - peanut butter
 - natural nut butter
-Description: Most of the time, I just throw together oatmeal ingredients in a container, refrigerate overnight, and eat it cold the next day. Occasionally I'll do this in a bowl instead, and microwave it to eat warm. But if you want to level your oatmeal up to the next level, consider making them on the stove. It's more work, but it's worth it if you have the time in the morning. This variation has over 40 g of protein, healthy fats from the nuts, and no added sugar
+Description: Most of the time, I just throw together oatmeal ingredients in a container, refrigerate overnight, and eat it cold the next day. Occasionally I'll do this in a bowl instead, and microwave it to eat warm. But if you want to level your oatmeal up to the next level, consider making them on the stove. It's more work, but it's worth it if you have the time in the morning. This variation has over 40 g of protein, healthy fats from the nuts, and no added sugar.  You can also check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
 Instructions: 
 - Dice an apple apple, and add to a medium pot with cinnamon, nutmeg, ginger, cloves, and a splash of water. Cover and cook over medium heat until soft and syrupy
 

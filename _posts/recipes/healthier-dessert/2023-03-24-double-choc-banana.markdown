@@ -43,7 +43,7 @@ tags:
 - bread
 - cake
 - mini muffin
-Description: <a href="/misc/fake-healthy-foods#banana-bread">Banana bread</a> is a great dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel your best at sweets time. This dessert is minimally sweetened with honey, and fully brings out the flavor of the bananas and the cocoa for a delicious brownie flavored banana bread.  It's very similar to my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="banana-bread">Oatmeal Banana Mini Muffins</a>, which you should also check out
+Description: <a href="/misc/fake-healthy-foods#banana-bread">Banana bread</a> is a great dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel your best at sweets time. This dessert is minimally sweetened with honey, and fully brings out the flavor of the bananas and the cocoa for a delicious brownie flavored banana bread.  It's very similar to my <a href="/recipes/pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="/recipes/banana-bread">Oatmeal Banana Mini Muffins</a>, which you should also check out
 Instructions: 
 - Preheat the oven to 350F, and line a bread pan with parchment paper. Spray the inside of the paper as well
 

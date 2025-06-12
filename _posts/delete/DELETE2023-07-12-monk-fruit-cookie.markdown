@@ -43,7 +43,7 @@ tags:
 - allulose
 - erythritol
 - oatmeal raisin
-Description: Delicious cookies made without sugar and butter? Want more protein? Use PB2 or casein protein. Healthy fats? Use almond flour. More fiber? Use oat flour or whole wheat flour. Feel free to mix up the mix-ins as well. The cookies pictured here are a half and half blend of oat and almond flour, with some dark chocolate chips. The possibilities are endless.  If you have liquid sweetener instead, check out my <a href="syrup-cookies">Sugar Free Syrup Cookies</a>, or use maple syrup in my <a href="oatmeal-chocolate-cookies">Oatmeal Chocolate Chip Cookies</a>
+Description: Delicious cookies made without sugar and butter? Want more protein? Use PB2 or casein protein. Healthy fats? Use almond flour. More fiber? Use oat flour or whole wheat flour. Feel free to mix up the mix-ins as well. The cookies pictured here are a half and half blend of oat and almond flour, with some dark chocolate chips. The possibilities are endless.  If you have liquid sweetener instead, check out my <a href="syrup-cookies">Sugar Free Syrup Cookies</a>, or use maple syrup in my <a href="oatmeal-chocolate-cookies">Oatmeal Chocolate Chip Cookies</a>.  You can also check out any of my other <a href="/cookie">cookie recipes</a>!
 Instructions: 
 - Combine the base ingredients in a large bowl - granulated monk fruit (or any other granular sweetener), unsweetened applesauce, vanilla extract, baking soda, and salt
 

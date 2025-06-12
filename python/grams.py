@@ -7,7 +7,7 @@ import csv
 
 def grams(food, mass, vol):
     # Salt, baking powder, baking soda
-    if food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt":
+    if food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt" or food == "Flaky salt":
         if vol == "Small pinch" or vol == "Tiny pinch":
             return str("0.15")
         if vol == "1/16 tsp" or vol == "Pinch":
