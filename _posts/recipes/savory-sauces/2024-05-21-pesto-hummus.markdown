@@ -46,7 +46,7 @@ tags:
 - grated cheese
 - parmesan cheese
 - nutritional yeast
-Description: I love making pesto, and I love making hummus. I have a few variations of either posted here, but now it's time that I combined my 2 favorite spreads and sauces together. The combination of roasted garlic, toasted pine nuts, and cheese pairs perfectly with the chickpeas and lemon juice. It's also higher in protein from the cottage cheese, which also makes it super creamy.  You can also check out any of my other <a href="/pesto">pesto recipes</a>, <a href="/salad-dressings">salad dressings</a>, or <a href="/hummus">hummus recipes</a>!
+Description: I love making pesto, and I love making hummus. I have a few variations of either posted here, but now it's time that I combined my 2 favorite spreads and sauces together. The combination of roasted garlic, toasted pine nuts, and cheese pairs perfectly with the chickpeas and lemon juice. It's also higher in <a href="/misc/protein">protein</a> from the cottage cheese, which also makes it super creamy.  You can also check out any of my other <a href="/pesto">pesto recipes</a>, <a href="/salad-dressings">salad dressings</a>, or <a href="/hummus">hummus recipes</a>!
 Instructions: 
 - Slice the top off the garlic, lightly coat in oil, wrap in aluminum foil, and air fry at 400F for 25 minutes, or until soft and caramelized, but not burned.  You could also roast in the oven for 45 minutes.  Allow to cool before squeezing the garlic into a food processor.  Alternatively, you can use raw garlic, but reduce to only about 2 cloves instead of the whole bulb
 

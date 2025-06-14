@@ -29,7 +29,7 @@ tags:
 
 <center><img src="/assets/Misc/Experiments/Syrup/juice-pulp.jpg" alt="" class="larger-image"></center><br>
 
-&emsp;This pulp is all grape skins and seeds, which are both perfectly safe to eat.  I would assume that this is where all the nutrition lies, with the fiber of the skin and health fats of the seeds.  I'll mixing this into my morning yougrt; the little bit of crunch mixed in with everything is a very nice texture, plus it adds some mild sweetness.  It's essentially a non-cooked unsweetened jam.
+&emsp;This pulp is all grape skins and seeds, which are both perfectly safe to eat.  I would assume that this is where all the nutrition lies, with the <a href="/misc/fiber">fiber</a> of the skin and health <a href="/misc/fats">fats</a> of the seeds.  I'll mixing this into my morning yougrt; the little bit of crunch mixed in with everything is a very nice texture, plus it adds some mild sweetness.  It's essentially a non-cooked unsweetened jam.
 
 <u><font size="+2">Making the Syrup</font></u><br>
 &emsp;In the medium pot over medium heat, bring the juice to a boil.  Let it boil with occasional stirring until it has cooked down to a syrup, about 20-30 minutes.  Transfer to a bowl to cool.  I ended up with about 65 g of fruit syrup.

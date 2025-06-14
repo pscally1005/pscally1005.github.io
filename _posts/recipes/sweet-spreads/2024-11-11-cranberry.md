@@ -32,7 +32,7 @@ tags:
 - vanilla
 - liquid monk fruit
 - liquid stevia
-Description: It's almost Thanksgiving, which means it's time for cranberry sauce. But this isn't your aunt's typical cranberry sauce. It's sugar free, being sweetened just from fresh mandarin oranges and a little liquid monk fruit. You can adjust the sweetness to your taste preferences, or add some maple syrup if you like it super sweet. Spoon on top of your turkey, or use it for your morning oatmeal, I won't tell.
+Description: It's almost Thanksgiving, which means it's time for cranberry sauce. But this isn't your aunt's typical cranberry sauce. It's <a href="/misc/hidden-sugar">sugar</a> free, being sweetened just from fresh mandarin oranges and a little liquid monk fruit. You can adjust the sweetness to your taste preferences, or add some maple syrup if you like it super sweet. Spoon on top of your turkey, or use it for your morning oatmeal, I won't tell.
 Instructions: 
 - Peel your oranges, and add to a food processor. Blend until smooth, and transfer to a medium pot
 - <center><img src="/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-orange.jpg" alt="" class="instruction-image"></center>

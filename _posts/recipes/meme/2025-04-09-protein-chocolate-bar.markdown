@@ -39,7 +39,7 @@ tags:
 - powdered peanut butter
 - pb2
 - pbfit
-Description: If you mix together melted coconut oil with cocoa powder, you get a <a href="/recipes/chocolate-bar">100% Chocolate Bar</a>. Simple as that. Well, you can replace the cocoa with whey protein powder, either chocolate or vanilla, to end up with a sugar free bar of milk or white chocolate. I preferred the white chocolate with the vanilla protein powder, but the chocolate was good too.  You can even use powdered peanut butter and chop up the bar to make peanut butter chips!
+Description: If you mix together melted coconut oil with cocoa powder, you get a <a href="/recipes/chocolate-bar">100% Chocolate Bar</a>. Simple as that. Well, you can replace the cocoa with whey <a href="/misc/protein">protein</a> powder, either chocolate or vanilla, to end up with a <a href="/misc/hidden-sugar">sugar</a> free bar of milk or white chocolate. I preferred the white chocolate with the vanilla protein powder, but the chocolate was good too.  You can even use powdered peanut butter and chop up the bar to make peanut butter chips!
 Instructions: 
 - Add your coconut oil to a small bowl, and microwave for 1 minute to melt. Stir in the protein powder with a silicone spatula until smooth. Transfer the batter to a chocolate mold, and refrigerate to harden, about 1 hour
 

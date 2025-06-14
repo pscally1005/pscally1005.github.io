@@ -49,7 +49,7 @@ tags:
 - bread
 - cake
 - mini muffin
-Description: Blueberry <a href="/misc/fake-healthy-foods#muffins">muffins</a> are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars and oils. These ones however are much healthier than the classic though, packing fiber with oat flour, and avoiding tons of added sugars and unhealthy fats.  Check out my <a href="banana-bread">Oatmeal Banana Mini Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
+Description: Blueberry <a href="/misc/fake-healthy-foods#muffins">muffins</a> are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars and oils. These ones however are much healthier than the classic though, packing <a href="/misc/fiber">fiber</a> with oat flour, and avoiding tons of added sugars and unhealthy <a href="/misc/fats">fats</a>.  Check out my <a href="banana-bread">Oatmeal Banana Mini Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
 Instructions: 
 - In a large bowl, whisk together the dry ingredients - quick oats, cornstarch, powdered peanut butter, and baking soda
 

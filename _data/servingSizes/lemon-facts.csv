@@ -1,0 +1,70 @@
+Nutrient,Amount,Unit,DV
+Calories,29,,
+"Vitamin A, RAE",1.00,mcg,0 %
+"Carotene, alpha",1.00,mcg,
+"Carotene, beta",3.00,mcg,
+"Cryptoxanthin, beta",20.00,mcg,
+"Lutein + zeaxanthin",11.00,mcg,
+"Lycopene",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.040,mg,3 %
+"Riboflavin [Vitamin B2]",0.020,mg,2 %
+"Niacin [Vitamin B3]",0.100,mg,1 %
+"Pantothenic acid [Vitamin B5]",0.190,mg,4 %
+"Vitamin B6",0.080,mg,5 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Vitamin B12, added",0.00,mcg,
+"Folate, DFE [Vitamin B9]",11.00,mcg,3 %
+"Folate, food",11.00,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",53.0,mg,59 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",0.15,mg,1 %
+"Vitamin E, added",0.00,mg,
+"Tocopherol, alpha",0.15,mg,
+"Vitamin K",0.0,mcg,0 %
+"Vitamin K1 [Phylloquinone]",0.0,mcg,
+"Choline",5.1,mg,1 %
+"Calcium",26.00,mg,2 %
+"Copper",0.04,mg,4 %
+"Iron",0.60,mg,3 %
+"Magnesium",8.00,mg,2 %
+"Manganese",0.030,mg,1 %
+"Phosphorus",16.00,mg,1 %
+"Potassium",138.00,mg,3 %
+"Selenium",0.40,mcg,1 %
+"Sodium",2.00,mg,0 %
+"Zinc",0.06,mg,1 %
+"Protein",1.10,g,2 %
+"Carbohydrate",9.32,g,3 %
+"Fiber",2.80,g,10 %
+"Sugars",2.50,g,
+"Net carbs",6.52,g,
+"Fat",0.300,g,0 %
+"Saturated fatty acids",0.039,g,0 %
+"Butanoic acid",0.000,g,
+"Decanoic acid",0.000,g,
+"Dodecanoic acid",0.000,g,
+"Hexadecanoic acid",0.035,g,
+"Hexanoic acid",0.000,g,
+"Octadecanoic acid",0.002,g,
+"Octanoic acid",0.000,g,
+"Tetradecanoic acid",0.001,g,
+"Monounsaturated fatty acids",0.011,g,
+"Docosenoic acid",0.000,g,
+"Eicosenoic acid",0.000,g,
+"Hexadecenoic acid",0.001,g,
+"Octadecenoic acid",0.010,g,
+"Polyunsaturated fatty acids",0.089,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Eicosatetraenoic acid",0.000,g,
+"Octadecadienoic acid",0.063,g,
+"Octadecatetraenoic acid",0.000,g,
+"Octadecatrienoic acid",0.026,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Ash",0.30,g,
+"Caffeine",0.00,mg,

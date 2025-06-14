@@ -38,7 +38,7 @@ tags:
 - cumin
 - lemon
 - garlic
-Description: I made some variation of this dish all the time. Most often, I use this in my morning eggs, like <a href="/recipes/frittata">Spinach and Onion Frittata</a> and <a href="/recipes/spinach-mushroom-scrambled-eggs">Spinach & Mushroom Scrambled Eggs</a>.  Or pair it as your vegetable to a meal with just a meat and carb, like <a href="/recipes/indian-chicken">Indian Chicken and Potatoes</a> or <a href="/recipes/marinated-chicken">Marinated Chicken with Air Fried Plantains</a>
+Description: I made some variation of this dish all the time. Most often, I use this in my morning eggs, like <a href="/recipes/frittata">Spinach and Onion Frittata</a> and <a href="/recipes/spinach-mushroom-scrambled-eggs">Spinach & Mushroom Scrambled Eggs</a>.  Or pair it as your vegetable to a meal with just a meat and <a href="/misc/carbs">carb</a>, like <a href="/recipes/indian-chicken">Indian Chicken and Potatoes</a> or <a href="/recipes/marinated-chicken">Marinated Chicken with Air Fried Plantains</a>
 Instructions: 
 - Heat a pan on medium heat with olive oil. Cut your onions into a small dice, and add to the pan with salt. Cover and cook with occasional stirring until they start to turn translucent, about 10 minutes
 

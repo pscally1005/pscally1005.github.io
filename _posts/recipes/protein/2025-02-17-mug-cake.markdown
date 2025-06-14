@@ -37,7 +37,7 @@ tags:
 - liquid monk fruit
 - bootylicious muffins
 - unsweetened applesauce
-Description: A protein mug cake a very quick and tasty way to make sure you're getting all your protein in. With some healthy fats, fiber, and no added sugar, this healthy mug cake makes a great snack or dessert that mixes it up from your typical <a href="/recipes/protein-shake">protein shake</a> or <a href="/recipes/protein-bar">protein bar</a>
+Description: A <a href="/misc/protein">protein</a> mug cake a very quick and tasty way to make sure you're getting all your <a href="/misc/protein">protein</a> in. With some healthy <a href="/misc/fats">fats</a>, <a href="/misc/fiber">fiber</a>, and no <a href="/misc/hidden-sugar">added sugar</a>, this healthy mug cake makes a great snack or dessert that mixes it up from your typical <a href="/recipes/protein-shake">protein shake</a> or <a href="/recipes/protein-bar">protein bar</a>
 Instructions: 
 - Make sure to use a big enough mug.  There should be enough room for the mug cake to roughly double in height when cooked
 

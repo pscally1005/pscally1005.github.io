@@ -44,7 +44,7 @@ tags:
 - sunflower butter
 - sunflower seeds
 - pumpkin seeds
-Description: These brownies are so good that you would never know there were beans in there. The combination of beans, oats, and dates means they're packed with fiber. They contain only healthy fats from the nuts, and are free of any refined sugars. These brownies are super rich, fudgey, the right amount of sweet, gluten free and vegan, and only 100 calories. Use sunflower or pumpkin seed butter to make them nut free too. For more date and bean based desserts, see my <a href="/recipes/chickpea-date-blondies">Chickpea Date Blondies</a> and <a href="/recipes/dual-bean-date-brookies">Dual Buan Date Brookies</a>.  You can also check out any of my other <a href="/brownies">brownie recipes</a>!
+Description: These brownies are so good that you would never know there were beans in there. The combination of beans, oats, and dates means they're packed with <a href="/misc/fiber">fiber</a>. They contain only healthy <a href="/misc/fats">fats</a> from the nuts, and are free of any refined sugars. These brownies are super rich, fudgey, the right amount of sweet, gluten free and vegan, and only 100 <a href="/misc/calories">calories</a>. Use sunflower or pumpkin seed butter to make them nut free too. For more date and bean based desserts, see my <a href="/recipes/chickpea-date-blondies">Chickpea Date Blondies</a> and <a href="/recipes/dual-bean-date-brookies">Dual Buan Date Brookies</a>.  You can also check out any of my other <a href="/brownies">brownie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F, line a 9x13" baking pan with parchment paper, and lightly spray it with oil. Drain and rinse your beans
 
@@ -53,7 +53,7 @@ Instructions:
 - Place the rest of the ingredients and blend until a smooth batter forms. For a nut free replacement, you can use the same amount by weight (128 g) of any seed butter (pumpkin seed or sunflower seed), or an overripe banana.  Note that the batter should be very thick. My 8 cup food processor could barely fit the whole batter and blend it together
 - <center><img src="/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-3.jpg" alt="" class="instruction-image"></center>
 
-- These brownies are naturally sweetened with dates. Using the same amount by weight of raisins or figs would also work as a replacement for dates. For a lower sugar option, replace both the dates and the milk with overripe bananas, about 3 large or 330 g
+- These brownies are naturally sweetened with dates. Using the same amount by weight of raisins or figs would also work as a replacement for dates. For a lower <a href="/misc/hidden-sugar">sugar</a> option, replace both the dates and the milk with overripe bananas, about 3 large or 330 g
 
 - Transfer the batter to the pan. Using a silicone spatula, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <center><img src="/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-5.jpg" alt="" class="instruction-image"></center>

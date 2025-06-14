@@ -35,7 +35,7 @@ tags:
 - summer
 - oven
 - air fryer
-Description: Corn on the cob makes me think of grilling and summer barbeques, but did you know that you can enjoy corn all year round? Just wrap it and foil and roast it in the oven. It's a great easy carb side to any meal
+Description: Corn on the cob makes me think of grilling and summer barbeques, but did you know that you can enjoy corn all year round? Just wrap it and foil and roast it in the oven. It's a great easy <a href="/misc/carbs">carb</a> side to any meal
 Instructions: 
 - Preheat your oven to 425F, and line a large cookie sheet with aluminum foil
 

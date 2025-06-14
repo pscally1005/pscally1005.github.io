@@ -35,7 +35,7 @@ tags:
 - pizza
 - flatbread
 - keto
-Description: Cloud bread is a low carb bread substitute made with whipped egg whites. It's lower in calories and higher in protein than regular bread, and it can be made in just a few minutes. It can be even lower in fat and calories if you omit the yolks, but I choose not to as egg yolks are still highly nutritious; plus what would I do with the extra yolk then? Just 1 egg is enough 2 small slices for a sandwich, or one large flatbread for a pizza
+Description: Cloud bread is a low <a href="/misc/carbs">carb</a> bread substitute made with whipped egg whites. It's lower in <a href="/misc/calories">calories</a> and higher in <a href="/misc/protein">protein</a> than regular bread, and it can be made in just a few minutes. It can be even lower in <a href="/misc/fats">fat</a> and <a href="/misc/calories">calories</a> if you omit the yolks, but I choose not to as egg yolks are still highly nutritious; plus what would I do with the extra yolk then? Just 1 egg is enough 2 small slices for a sandwich, or one large flatbread for a pizza
 Instructions: 
 - Separate your egg yolks from the whites. Add the whites to a large metal or glass bowl. Not plastic, or the egg whites won't beat properly. Carton egg whites are not recommended as those are harder to beat as well
 - <center><img src="/assets/Food/Bread/Cloud Bread/cloud-1.jpg" alt="" class="instruction-image"></center>

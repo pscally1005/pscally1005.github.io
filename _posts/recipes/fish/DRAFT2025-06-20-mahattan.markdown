@@ -37,7 +37,7 @@ tags:
 - peppers
 - carrots
 - fat free evaporated milk
-Description: Manhattan Clam Chowder is a classic tomato based broth soup. This is my leaner take on the dish, with more vegetables, less fat, and less calories. I've cut out the butter and bacon to lower the fat, added extra vegetables for more fiber and vitamins, and removed the flour to make it gluten free. If you instead prefer creamy soups, you should check out my similar <a href="/recipes/new-england-clam-chowder">(I'm Banned From) New England Clam Chowder</a>
+Description: Manhattan Clam Chowder is a classic tomato based broth soup. This is my leaner take on the dish, with more vegetables, less <a href="/misc/fats">fat</a>, and less <a href="/misc/calories">calories</a>. I've cut out the butter and bacon to lower the <a href="/misc/fats">fat</a>, added extra vegetables for more <a href="/misc/fiber">fiber</a> and vitamins, and removed the flour to make it gluten free. If you instead prefer creamy soups, you should check out my similar <a href="/recipes/new-england-clam-chowder">(I'm Banned From) New England Clam Chowder</a>
 Instructions: 
 - Preheat a large pot over medium heat with olive oil. Cut your vegetables into a small dice, and add to the pot with salt. Cook until the peppers and carrots are soft, and the onions are translucent, about 20 minutes. Add in the garlic, and cook until fragrant, about 30 seconds
 

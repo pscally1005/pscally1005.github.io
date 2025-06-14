@@ -35,7 +35,7 @@ tags:
 - avocado
 - cottage cheese
 - sweet potato
-Description: Recently, there's been a new viral recipe:<b></b> Hot Honey Beef Bowls. It's a combination of roasted sweet potatoes, sauteed ground beef, avocado, and cottage cheese, all topped with a drizzle of hot honey.  Here's my take on the recipe, which is high in protein, fiber, and healthy fats, keeping you feeling satisfied.  It even features <a href="/recipes/hot-honey">Homemade Hot Honey</a>!  For another hot honey recipe, please check out my <a href="/recipes/hot-honey-cornbread">Hot Honey Cornbread</a>
+Description: Recently, there's been a new viral recipe:<b></b> Hot Honey Beef Bowls. It's a combination of roasted sweet potatoes, sauteed ground beef, avocado, and cottage cheese, all topped with a drizzle of hot honey.  Here's my take on the recipe, which is high in <a href="/misc/protein">protein</a>, <a href="/misc/fiber">fiber</a>, and healthy <a href="/misc/fats">fats</a>, keeping you feeling satisfied.  It even features <a href="/recipes/hot-honey">Homemade Hot Honey</a>!  For another hot honey recipe, please check out my <a href="/recipes/hot-honey-cornbread">Hot Honey Cornbread</a>
 Instructions: 
 - Preheat your oven to 400F, and line a baking sheet with parchment paper
 
@@ -51,5 +51,5 @@ Instructions:
 
 - Drizzle the top of each bowl with 1/2 tbsp (10 g) <a href="/recipes/hot-honey">hot honey</a>. If you don't have hot honey, you can use regular honey, and add a dash of hot sauce
 
-- With sweet potatoes, avocado, ground beef, and cottage cheese, this recipe is a great source of complex carbs, healthy fats, and protein. It's lacking a bit in the vegetable area, so serve this with a side of <a href="/recipes/roasted-vegetables">roasted vegetables</a> or a <a href="/recipes/salad-base">side salad</a>
+- With sweet potatoes, avocado, ground beef, and cottage cheese, this recipe is a great source of complex <a href="/misc/carbs">carbs</a>, healthy <a href="/misc/fats">fats</a>, and <a href="/misc/protein">protein</a>. It's lacking a bit in the vegetable area, so serve this with a side of <a href="/recipes/roasted-vegetables">roasted vegetables</a> or a <a href="/recipes/salad-base">side salad</a>
 ---

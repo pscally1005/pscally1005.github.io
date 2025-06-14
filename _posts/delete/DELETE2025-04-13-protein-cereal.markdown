@@ -46,7 +46,7 @@ tags:
 - sugar free
 - gluten free
 - egg white
-Description: Most cereals are bowls of sugar, containing little nutrients and nothing but empty calories.  In comparison, this high protein cereal nearly has protein bar macros, healthy fats, and no added sugar.  It's a little dry on its own, making it perfect for soaking up milk in your morning bowl.  Or double up on protein by using either Greek yogurt or a protein shake as your milk; may I suggest <a href="/recipes/protein-shake">Simple Protein Shake</a>, <a href="/recipes/core-power-milkshake">CopyCat Core Power Protein Milkshake</a> or <a href="/recipes/chocolate-kefir">Probiotic Chocolate Kefir</a>?
+Description: Most cereals are bowls of <a href="/misc/hidden-sugar">sugar</a>, containing little nutrients and nothing but empty <a href="/misc/calories">calories</a>.  In comparison, this high <a href="/misc/protein">protein</a> cereal nearly has <a href="/misc/protein">protein</a> bar macros, healthy <a href="/misc/fats">fats</a>, and no <a href="/misc/hidden-sugar">added sugar</a>.  It's a little dry on its own, making it perfect for soaking up milk in your morning bowl.  Or double up on <a href="/misc/protein">protein</a> by using either Greek yogurt or a <a href="/misc/protein">protein</a> shake as your milk; may I suggest <a href="/recipes/protein-shake">Simple Protein Shake</a>, <a href="/recipes/core-power-milkshake">CopyCat Core Power Protein Milkshake</a> or <a href="/recipes/chocolate-kefir">Probiotic Chocolate Kefir</a>?
 Instructions: 
 - In a large bowl, beat your egg white with a hand mixer until soft peaks form
 - <center><img src="/assets/Food/Breakfast/Protein Cereal/egg-white.jpg" alt="" class="instruction-image"></center>

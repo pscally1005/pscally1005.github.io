@@ -33,7 +33,7 @@ tags:
 - homemade peanut butter
 - 2 ingredient
 - two ingredient
-Description: Have you ever needed peanut butter but not had any? PB2 is peanut butter with the fat removed, so why not just add it back in? This is the ratio of peanut flour to oil to make peanut butter, matching the nutrition facts of real peanut butter as close as possible. I use extra virgin olive oil, as it's one of the healthiest fat sources, but other oils should work as well.  Or check out any of my other <a href="/nut-butter">nut butter recipes</a>!
+Description: Have you ever needed peanut butter but not had any? PB2 is peanut butter with the <a href="/misc/fats">fat</a> removed, so why not just add it back in? This is the ratio of peanut flour to oil to make peanut butter, matching the nutrition facts of real peanut butter as close as possible. I use extra virgin olive oil, as it's one of the healthiest <a href="/misc/fats">fat</a> sources, but other oils should work as well.  Or check out any of my other <a href="/nut-butter">nut butter recipes</a>!
 Instructions: 
 - In a small bowl, mix together PB2 and oil. Use this peanut butter any way you'd like. It has the consistency of natural peanut butter, with a subtle extra virgin olive oil taste
 ---

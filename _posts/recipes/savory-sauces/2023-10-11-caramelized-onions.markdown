@@ -46,6 +46,6 @@ Instructions:
 - For context, the onions weigh about <b>880 g</b> raw, and I ended up with about <b>120 g</b> of cooked onions.  You're aiming to cook nearly all the water out of the onions and end up with essentially onion jelly
 - <center><img src="/assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg" alt="" class="instruction-image"></center>
 
-- With these onions, you can make my <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a>, which is higher in protein due to plain nonfat greek yogurt instead of sour cream and cream cheese
+- With these onions, you can make my <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a>, which is higher in <a href="/misc/protein">protein</a> due to plain nonfat greek yogurt instead of sour cream and cream cheese
 - <center><img src="/assets/Food/Savory Sauces/French Onion/cover.jpg" alt="" class="instruction-image"></center>
 ---

@@ -41,7 +41,7 @@ tags:
 - pinto beans
 - white beans
 - gluten free
-Description: Everyone knows I'm a big sucker for chili; check out my <a href="/recipes/chili">Slow Cooker Chili</a> and <a href="/recipes/low-fodmap-chili">Low FODMAP Chili</a>. But I came across this recipe for a vegan creamy chili, and it looked too delicious not to try. I've modified it quite a bit, and the result is a creamy meatless, dairy free, and nut free chili that's high in fiber from the beans and vegetables. Pair this alongside some <a href="/recipes/vegan-cornbread">Vegan Cajun Cornbread</a>, and you got a delicious and healthy meal to serve next time you have vegetarians over.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
+Description: Everyone knows I'm a big sucker for chili; check out my <a href="/recipes/chili">Slow Cooker Chili</a> and <a href="/recipes/low-fodmap-chili">Low FODMAP Chili</a>. But I came across this recipe for a vegan creamy chili, and it looked too delicious not to try. I've modified it quite a bit, and the result is a creamy meatless, dairy free, and nut free chili that's high in <a href="/misc/fiber">fiber</a> from the beans and vegetables. Pair this alongside some <a href="/recipes/vegan-cornbread">Vegan Cajun Cornbread</a>, and you got a delicious and healthy meal to serve next time you have vegetarians over.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
 Instructions: 
 - Heat a large Dutch oven over medium heat with olive oil.  Cut your peppers and onions into a medium dice
 

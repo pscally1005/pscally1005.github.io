@@ -32,7 +32,7 @@ tags:
 - sandwich
 - toast
 - tortilla
-Description: This flatbread is a variation of 2 ingredient dough, with added spices and using some protein powder in place of flour. The casein and oat flour combo gives a great mix of protein and fiber, and they taste great together, especially with the added garlic and onion powder. This can be cooked on the stove as a flatbread, or baked into a pizza. This bread is best served warm.
+Description: This flatbread is a variation of 2 ingredient dough, with added spices and using some protein powder in place of flour. The casein and oat flour combo gives a great mix of <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, and they taste great together, especially with the added garlic and onion powder. This can be cooked on the stove as a flatbread, or baked into a pizza. This bread is best served warm.
 Instructions: 
 - Mix flours, baking powder, salt, garlic, and onion in a medium bowl. Add in the yogurt and mix until fully combined
 

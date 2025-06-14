@@ -42,7 +42,7 @@ tags:
 - apple butter
 - apple spread
 - pastry
-Description: These cinnamon rolls aren't your traditional empty calorie pastries. They have a good blend of protein, fats, carbs, and fiber, making them a nutritious breakfast choice, with a homemade <a href="apple-spread">No Sugar Added Apple Spread</a> filling. The batch makes only 1 serving (a few smaller cinnamon rolls), but can be easily scaled up. For a different protein pastry breakfast, see my <a href="protein-poptart">PB&J Protein PopTart</a>
+Description: These cinnamon rolls aren't your traditional empty <a href="/misc/calories">calorie</a> pastries. They have a good blend of <a href="/misc/protein">protein</a>, <a href="/misc/fats">fats</a>, <a href="/misc/carbs">carbs</a>, and <a href="/misc/fiber">fiber</a>, making them a nutritious breakfast choice, with a homemade <a href="apple-spread">No Sugar Added Apple Spread</a> filling. The batch makes only 1 serving (a few smaller cinnamon rolls), but can be easily scaled up. For a different <a href="/misc/protein">protein</a> pastry breakfast, see my <a href="protein-poptart">PB&J Protein PopTart</a>
 Instructions: 
 - In a medium bowl, whisk together the dry ingredients for the dough - protein powder, coconut flour, whole wheat flour, baking powder, cinnamon, and salt
 

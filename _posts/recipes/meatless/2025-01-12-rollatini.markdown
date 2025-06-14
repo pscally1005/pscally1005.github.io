@@ -42,7 +42,7 @@ tags:
 - manicotti
 - lasagna
 - rollatini
-Description: If Manicotti is individual lasagnas, then Eggplant Rollatini are just individual <a href="/recipes/eggplant-parm">Eggplant Parmesans</a>. This dish is essentially my <a href="/recipes/eggplant-parm">Hassle Free Eggplant Parm</a> in a different shape. Instead of layering the eggplant with sauce and cheese like you'd do for lasagna, you instead roll the eggplant around the cheese mix and top with sauce. Put simply, I'm making Manicotti with eggplant instead of lasagna noodles. Couple that with a lower fat but equally delicious filling, and you get a great cheesy and saucy side dish that won't tip the scales
+Description: If Manicotti is individual lasagnas, then Eggplant Rollatini are just individual <a href="/recipes/eggplant-parm">Eggplant Parmesans</a>. This dish is essentially my <a href="/recipes/eggplant-parm">Hassle Free Eggplant Parm</a> in a different shape. Instead of layering the eggplant with sauce and cheese like you'd do for lasagna, you instead roll the eggplant around the cheese mix and top with sauce. Put simply, I'm making Manicotti with eggplant instead of lasagna noodles. Couple that with a lower <a href="/misc/fats">fat</a> but equally delicious filling, and you get a great cheesy and saucy side dish that won't tip the scales
 Instructions: 
 - Preheat your oven to 400F, and line 2 large cookies sheet with parchment paper
 

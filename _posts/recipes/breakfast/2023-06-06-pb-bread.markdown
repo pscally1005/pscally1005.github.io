@@ -32,7 +32,7 @@ tags:
 - honey
 - jam
 - bake
-Description: This Peanut Butter Bread is inspired by the 1932 Great Depression Peanut Butter Bread. It's full of peanut butter flavor, without being too sweet. It's perfect for breakfast, and goes well with some yogurt, peanut butter, or jam on top of it. I cut down the sugar and replaced it with honey, as well as swapped to whole wheat flour. I'm sure you'll enjoy this healthier quick bread.
+Description: This Peanut Butter Bread is inspired by the 1932 Great Depression Peanut Butter Bread. It's full of peanut butter flavor, without being too sweet. It's perfect for breakfast, and goes well with some yogurt, peanut butter, or jam on top of it. I cut down the <a href="/misc/hidden-sugar">sugar</a> and replaced it with honey, as well as swapped to whole wheat flour. I'm sure you'll enjoy this healthier quick bread.
 Instructions: 
 - In a large bowl, combine together the flour, salt, and baking powder with a whisk
 

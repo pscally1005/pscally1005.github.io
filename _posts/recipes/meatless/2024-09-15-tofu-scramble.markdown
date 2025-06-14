@@ -38,7 +38,7 @@ tags:
 - breakfast
 - nooch
 - nutritional yeast
-Description: Tofu is both a good meat and egg replacement for vegans and vegetarians, being a good cheap source of protein. This tofu scramble can be used in any way you would eggs, like on toast or mixed with vegetables.  Here, I've having it with a plate of <a href="/recipes/vegetable-medley">Spiced Vegetable Medley</a> and a side of <a href="/recipes/slow-cooked-beans">Slow Cooker Beans</a>.  Or you can use ground tofu and a ground meat replacement; I've made <a href="/recipes/chili">Slow Cooker Chili</a> using ground tofu before to great success
+Description: Tofu is both a good meat and egg replacement for vegans and vegetarians, being a good cheap source of <a href="/misc/protein">protein</a>. This tofu scramble can be used in any way you would eggs, like on toast or mixed with vegetables.  Here, I've having it with a plate of <a href="/recipes/vegetable-medley">Spiced Vegetable Medley</a> and a side of <a href="/recipes/slow-cooked-beans">Slow Cooker Beans</a>.  Or you can use ground tofu and a ground meat replacement; I've made <a href="/recipes/chili">Slow Cooker Chili</a> using ground tofu before to great success
 Instructions: 
 - <br><center><img src="/assets/Food/Meatless/Tofu Scramble/tofu-packet.jpg" alt="" class="larger-image"></center>
 - In a large pan over medium, heat the oil with garlic until fragrant. Add your drained block of tofu, and mash with a wooden spoon

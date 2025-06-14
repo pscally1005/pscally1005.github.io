@@ -50,7 +50,7 @@ tags:
 - chocolate chips
 - victoria
 - vic
-Description: An overnight oats recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, and <a href="/misc/fats">healthy fats</a> to start your morning off right.  For a variation without protein powder, check out my <a href="/recipes/no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a>.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
+Description: An overnight oats recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, and <a href="/misc/fats">healthy <a href="/misc/fats">fats</a></a> to start your morning off right.  For a variation without protein powder, check out my <a href="/recipes/no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a>.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
 Instructions: 
 - In a small airtight container, add your banana, and mash with the back of a fork.  Add in the rest of the ingredients, and stir together with a spoon until fully combined.  Store in the fridge overnight (or at least 2 hours)
 

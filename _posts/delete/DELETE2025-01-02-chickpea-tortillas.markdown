@@ -37,7 +37,7 @@ tags:
 - garbanzo beans
 - gluten free
 - oat flour
-Description: These easy homemade tortillas and tortilla chips are lower in fat and free of preservatives and flavors found in storebought ones. They're much easier to make than standard tortillas, as they're more of a crepe that a dough. I do love my <a href="/recipes/tortilla">Oat-Wheat Tortillas</a>, but these are much quicker to whip up. I've even used homemade chickpea flour here too
+Description: These easy homemade tortillas and tortilla chips are lower in <a href="/misc/fats">fat</a> and free of preservatives and flavors found in storebought ones. They're much easier to make than standard tortillas, as they're more of a crepe that a dough. I do love my <a href="/recipes/tortilla">Oat-Wheat Tortillas</a>, but these are much quicker to whip up. I've even used homemade chickpea flour here too
 Instructions: 
 - If you don't have chickpea flour, you can make your own by just blending raw, dried chickpeas in a food processor on high speed for about 5 minutes
 - <center><img src="/assets/Food/Finger Food/Chickpea Tortilla/flour.jpg" alt="" class="instruction-image"></center>
@@ -59,5 +59,5 @@ Instructions:
 - To make them into tortilla chips, cut each tortilla into 8 wedges, and air fry at 400F for about 6-8 minutes, flipping halfway, until crispy. Transfer to a wire rack to cool totally before serving.  Store leftovers in an airtight bag on the counter, and reheat them back up before eating, as they won't stay crispy overnight
 - <center><img src="/assets/Food/Finger Food/Chickpea Tortilla/chips.jpg" alt="" class="instruction-image"></center>
 
-- I ended up with about 280 g of tortilla chips, meaning I have about 10 servings of 1 oz (28 g) each. For reference, a standard 1 oz (28 g) serving of <a href="https://amzn.to/3Fdslkh">tortilla chips</a> contains the following:<br><ul><li>Nearly double the calories (140 cal)</li><li>Five times the fat (6 g)</li><li>Nearly double the carbs (20 g)</li><li>Half the protein (2 g)</li><li>Half of the fiber (1 g)</li></ul>
+- I ended up with about 280 g of tortilla chips, meaning I have about 10 servings of 1 oz (28 g) each. For reference, a standard 1 oz (28 g) serving of <a href="https://amzn.to/3Fdslkh">tortilla chips</a> contains the following:<br><ul><li>Nearly double the <a href="/misc/calories">calories</a> (140 cal)</li><li>Five times the <a href="/misc/fats">fat</a> (6 g)</li><li>Nearly double the <a href="/misc/carbs">carbs</a> (20 g)</li><li>Half the <a href="/misc/protein">protein</a> (2 g)</li><li>Half of the <a href="/misc/fiber">fiber</a> (1 g)</li></ul>
 ---

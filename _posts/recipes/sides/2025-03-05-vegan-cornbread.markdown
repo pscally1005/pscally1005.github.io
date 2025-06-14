@@ -41,7 +41,7 @@ tags:
 - cajun seasoning
 - unsweetened applesauce
 - apple cider vinegar
-Description: This isn't my first venture into cornbread. I've previously made my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a> using both whey and casein protein, as well as cottage cheese, for a high protein, low fat, and lower carb cornbread. But today, I'm making a vegan cornbread with more whole foods ingredients. This version is lower in protein, but higher in healthy fats and fiber. But both are gluten and sugar free; you can't go wrong with either one! This is a great side to some <a href="/recipes/vegan-chili">Creamy Vegan White Bean Chili</a> for a vegetarian meal with a decent source of plant based protein
+Description: This isn't my first venture into cornbread. I've previously made my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a> using both whey and casein protein, as well as cottage cheese, for a high <a href="/misc/protein">protein</a>, low <a href="/misc/fats">fat</a>, and lower <a href="/misc/carbs">carb</a> cornbread. But today, I'm making a vegan cornbread with more whole foods ingredients. This version is lower in <a href="/misc/protein">protein</a>, but higher in healthy <a href="/misc/fats">fats</a> and <a href="/misc/fiber">fiber</a>. But both are gluten and <a href="/misc/hidden-sugar">sugar</a> free; you can't go wrong with either one! This is a great side to some <a href="/recipes/vegan-chili">Creamy Vegan White Bean Chili</a> for a vegetarian meal with a decent source of plant based <a href="/misc/protein">protein</a>
 Instructions: 
 - Preheat your oven to 400F, and line a 9" square baking pan with parchment paper
 

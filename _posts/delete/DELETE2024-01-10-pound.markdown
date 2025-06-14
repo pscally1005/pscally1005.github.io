@@ -44,7 +44,7 @@ tags:
 - gluten free
 - one pound
 - 1 pound
-Description: A traditional pound cake is made with a pound each of eggs, sugar, butter, and flour; that's it. I wanted to create a healthier version with equal parts of 4 ingredients, so I came up with this. I made this as a joke, but it works wells as a 4 ingredient healthy cake.
+Description: A traditional pound cake is made with a pound each of eggs, <a href="/misc/hidden-sugar">sugar</a>, butter, and flour; that's it. I wanted to create a healthier version with equal parts of 4 ingredients, so I came up with this. I made this as a joke, but it works wells as a 4 ingredient healthy cake.
 Instructions: 
 - Preheat your oven to 350F, and line 2 9x5" bread pans with parchment paper (only 1 if doing a 1/4 batch). Lightly spray the paper with oil
 

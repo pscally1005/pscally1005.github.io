@@ -36,7 +36,7 @@ tags:
 - monk fruit
 - liquid monk fruit
 - sugar free
-Description: I recently had one of those Core Power protein milkshakes, and it surprisingly tasted exactly like a vanilla milkshake.  For <a href="https://amzn.to/43CIJCW">26 g of protein</a> and fairly minimal ingredients (besides some artificial sweeteners), these seemed pretty good to have on occasion.  My main issue was the price.  So instead of spending $3.28 on a single bottle, let's do it for cheaper, shall we  There's also a <a href="https://amzn.to/4kKjcPg">42 g of protein</a> version for $4.50 which I'm going to recreate here, with the same amount of protein and calories for a fraction of the cost
+Description: I recently had one of those Core Power protein milkshakes, and it surprisingly tasted exactly like a vanilla milkshake.  For <a href="https://amzn.to/43CIJCW">26 g of protein</a> and fairly minimal ingredients (besides some artificial sweeteners), these seemed pretty good to have on occasion.  My main issue was the price.  So instead of spending $3.28 on a single bottle, let's do it for cheaper, shall we  There's also a <a href="https://amzn.to/4kKjcPg">42 g of protein</a> version for $4.50 which I'm going to recreate here, with the same amount of <a href="/misc/protein">protein</a> and <a href="/misc/calories">calories</a> for a fraction of the cost
 Instructions: 
 - Add the whey and 1/2 cup (120 g) of your milk to a shaker bottle, and shake until fully dissolved.  Add the rest of the milk, as well as vanilla extract, sweetener, and yogurt.  Shake, adjust to taste, and enjoy
 

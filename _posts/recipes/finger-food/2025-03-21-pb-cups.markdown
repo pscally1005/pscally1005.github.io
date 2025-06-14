@@ -39,7 +39,7 @@ tags:
 - reeses
 - reese's
 - candy
-Description: Making peanut butter cups at home is one of the classic desserts, as it's so easy to do. But instead of double dipping in fat with both peanut butter and melted chocolate, I've swapped the filling for powdered peanut butter, lowering calories and raising the protein. Additionally, both the filling and coating are sweetened with monk fruit, making them sugar free as well
+Description: Making peanut butter cups at home is one of the classic desserts, as it's so easy to do. But instead of double dipping in <a href="/misc/fats">fat</a> with both peanut butter and melted chocolate, I've swapped the filling for powdered peanut butter, lowering <a href="/misc/calories">calories</a> and raising the <a href="/misc/protein">protein</a>. Additionally, both the filling and coating are sweetened with monk fruit, making them <a href="/misc/hidden-sugar">sugar</a> free as well
 Instructions: 
 - In a medium bowl, whisk together powdered peanut butter, sweetener, salt, and cinnamon. Add in the vanilla and applesauce, and mix with a silicone spatula until you have a fully combined dough
 - <center><img src="/assets/Food/Finger Food/PB Cups/bowl.jpg" alt="" class="instruction-image"></center>

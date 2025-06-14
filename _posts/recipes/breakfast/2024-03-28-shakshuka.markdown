@@ -39,7 +39,7 @@ tags:
 - onion powder
 - cumin
 - protein
-Description: Shakshuka is an egg, tomato, and veggie based dish that originates in Northern Africa. It's a delicious breakfast that's packed with protein and vegetables that will leave you satisfied until lunch. Or it can be served as any meal of the day. You can also serve it on top of some toast
+Description: Shakshuka is an egg, tomato, and veggie based dish that originates in Northern Africa. It's a delicious breakfast that's packed with <a href="/misc/protein">protein</a> and vegetables that will leave you satisfied until lunch. Or it can be served as any meal of the day. You can also serve it on top of some toast
 Instructions: 
 - Cut your pepper and onion each into a small dice. Add to a 10" stainless steel pan over medium heat with a spray of oil and salt. Cover, and cook until the peppers and soft and onions are translucent, about 5 minutes
 

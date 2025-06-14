@@ -41,7 +41,7 @@ tags:
 - kiwi
 - sauerkraut
 - saurkraut
-Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 lunch servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including avocado, salmon, quinoa, and beets. It's delicious, filling, customizable, tasty, while also being high in protein, healthy fats, fiber, and complex carbs
+Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 lunch servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including avocado, salmon, quinoa, and beets. It's delicious, filling, customizable, tasty, while also being high in <a href="/misc/protein">protein</a>, healthy <a href="/misc/fats">fats</a>, <a href="/misc/fiber">fiber</a>, and complex <a href="/misc/carbs">carbs</a>
 Instructions: 
 - <center></center><b>Roasted Veggies</b>
 - Wash your beet, wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until soft (timing depends on the size of your beets).  Unwrap the beet, discard the ends, and cut into a medium dice (keep the skin on!!)
@@ -66,7 +66,7 @@ Instructions:
 
 - Add 1/2 sliced avocado to each bowl. Cut your kiwi into a small dice (with the skin!!), and add half to each bowl.  Add half your pumpkin seeds to each bowl
 
-- Add any protein source you have (I'm going with canned salmon here)
+- Add any <a href="/misc/protein">protein</a> source you have (I'm going with canned salmon here)
 
 - Top each bowl with half of your sauerkraut and half of your mustard.  Mix, and serve warm
 - <center><img src="/assets/Food/Fish/Superfood/superfood-mixed.jpg" alt="" class="instruction-image"></center>
@@ -80,7 +80,7 @@ Instructions:
     <li>Romaine lettuce</li>
     <li>Spinach</li>
     <li>Swiss chard</li></ul>
-- <center></center><i>Carbs</i><ul>
+- <center></center><i><a href="/misc/carbs">Carbs</a></i><ul>
     <li>Beans</li>
     <li>Brown rice</li>
     <li>Butternut squash</li>
@@ -89,7 +89,7 @@ Instructions:
     <li><b>Quinoa</b></li>
     <li>Lentils</li>
     <li>Sweet potato</li></ul>
-- <center></center><i>Fat</i><ul>
+- <center></center><i><a href="/misc/fats">Fat</a></i><ul>
     <li>Almonds</li>
     <li><b>Avocado</b></li>
     <li>Chia seeds</li>

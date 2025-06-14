@@ -45,7 +45,7 @@ Description: These simple and healthy brownie bites are made with just 3 ingredi
 Instructions: 
 - Preheat your oven to 350F, and spray a mini muffin pan with oil
 
-- Choose bananas that are as brown and soft as possible for the sweetest brownies. I've used <a href="natural-peanut-butter">natural peanut butter</a> here, but any other natural nut or seed butter will work, like almond butter or sunflower seed butter. <a href="apple-spread">No Sugar Added Apple Spread</a> or unsweetened applesauce would also work in place of bananas. Using PB2 in place of cocoa powder would probably work to make it a blondie instead and add more protein, but I haven't personally tried it yet
+- Choose bananas that are as brown and soft as possible for the sweetest brownies. I've used <a href="natural-peanut-butter">natural peanut butter</a> here, but any other natural nut or seed butter will work, like almond butter or sunflower seed butter. <a href="apple-spread">No Sugar Added Apple Spread</a> or unsweetened applesauce would also work in place of bananas. Using PB2 in place of cocoa powder would probably work to make it a blondie instead and add more <a href="/misc/protein">protein</a>, but I haven't personally tried it yet
 
 - In a food processor, blend the bananas, nut butter, and cocoa powder until smooth
 - <center><img src="/assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-3.jpg" alt="" class="instruction-image"></center>

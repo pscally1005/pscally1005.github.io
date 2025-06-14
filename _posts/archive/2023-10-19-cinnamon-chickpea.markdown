@@ -37,13 +37,13 @@ tags:
 - shake
 - maple
 - honey
-Description: This <a href="/misc/fake-healthy-foods#cereal">cereal</a> is full of fiber and protein, and tastes just like the sweet cereals you loved growing up, without all the extra added sugars. Instead of serving with just plain milk, you can also mix up a little protein shake to use for even more of a boost.
+Description: This <a href="/misc/fake-healthy-foods#cereal">cereal</a> is full of <a href="/misc/fiber">fiber</a> and <a href="/misc/protein">protein</a>, and tastes just like the sweet cereals you loved growing up, without all the extra added sugars. Instead of serving with just plain milk, you can also mix up a little <a href="/misc/protein">protein</a> shake to use for even more of a boost.
 Instructions: 
 - Preheat your air fryer to 400F, and drain and rinse a can of chickpeas. Lightly spray the basket with oil, add in the chickpeas, and lightly spray the tops
 
 - Air fry at 400F for about 14 minutes, until golden and crispy. Remove to a bowl and mix with the honey and cinnamon
 
-- In a bowl or shaker bottle, mix together the milk ingredients until smooth (milk, sweetener, protein powder, and cinnamon). Adjust to your taste
+- In a bowl or shaker bottle, mix together the milk ingredients until smooth (milk, sweetener, <a href="/misc/protein">protein</a> powder, and cinnamon). Adjust to your taste
 
 - Pour milk over the cereal, and top with fruit and nuts
 ---

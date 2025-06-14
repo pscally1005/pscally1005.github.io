@@ -40,7 +40,7 @@ tags:
 - nooch
 - grated cheese
 - parmesan
-Description: Anyone else love <a href="/misc/fake-healthy-foods#sauces">pesto</a>, but hate how oily it is? I've made lower oil pesto before, but now I'm fully going none, and instead using avocado for my fat. Hey look, I actually used pine nuts here too! (not peanuts this time lol, but I won't judge).  Check out some of my other <a href="/pesto">pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high protein versions
+Description: Anyone else love <a href="/misc/fake-healthy-foods#sauces">pesto</a>, but hate how oily it is? I've made lower oil pesto before, but now I'm fully going none, and instead using avocado for my <a href="/misc/fats">fat</a>. Hey look, I actually used pine nuts here too! (not peanuts this time lol, but I won't judge).  Check out some of my other <a href="/pesto">pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href="/misc/protein">protein</a> versions
 Instructions: 
 - In a dry pan over medium heat, toast your pine nuts (1 oz is about 1/4 cup) for about 3 minutes, until they are fragrant and begin to brown. Any other nuts will work here; or use pumpkin seeds to make it nut free. Transfer to a food processor
 - <center><img src="/assets/Food/Savory Sauces/Avo Pesto/nuts.jpg" alt="" class="instruction-image"></center>

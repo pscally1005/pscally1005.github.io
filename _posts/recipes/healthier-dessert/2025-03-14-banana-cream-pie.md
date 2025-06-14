@@ -29,7 +29,7 @@ tags:
 - aquafaba whipped cream
 - banana bread hummus spread
 - healthier graham cracker pie crust
-Description: Today, I'm celebrating Pi day by combining 3 recipes together to make a healthy banana cream pie. With my <a href="/recipes/pie-crust">Healthier Graham Cracker Pie Crust</a>, <a href="/recipes/banana-bread-hummus">Banana Bread Hummus Spread</a>, and <a href="/recipes/whipped-cream">Aquafaba Whipped Cream</a>, you end up with a delicious pie that's significantly lower in sugar and fat than traditional!  Before dessert though, I'm celebrating Pi day with a <a href="/recipes/deep-dish-pizza">Whole Wheat Deep Dish Pizza Pie</a>
+Description: Today, I'm celebrating Pi day by combining 3 recipes together to make a healthy banana cream pie. With my <a href="/recipes/pie-crust">Healthier Graham Cracker Pie Crust</a>, <a href="/recipes/banana-bread-hummus">Banana Bread Hummus Spread</a>, and <a href="/recipes/whipped-cream">Aquafaba Whipped Cream</a>, you end up with a delicious pie that's significantly lower in <a href="/misc/hidden-sugar">sugar</a> and <a href="/misc/fats">fat</a> than traditional!  Before dessert though, I'm celebrating Pi day with a <a href="/recipes/deep-dish-pizza">Whole Wheat Deep Dish Pizza Pie</a>
 Instructions: 
 - Prepare the <a href="/recipes/pie-crust">Healthier Graham Cracker Pie Crust</a> by mixing all ingredients together in a bowl, shaping into a 9" cake pan, and baking at 350F for 15 minutes, until lightly browned. Refrigerate to cool
 - <center><img src="/assets/Food/Healthier Dessert/Pie Crust/baked.jpg" alt="" class="instruction-image"></center>

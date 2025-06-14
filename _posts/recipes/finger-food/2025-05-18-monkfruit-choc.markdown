@@ -34,7 +34,7 @@ tags:
 - chocolate morsels
 - dark chocolate
 - coconut oil
-Description: This recipe is what I make most often as a substitute for chocolate chips.  They're sugar free, contain minimal ingredients, and much cheaper than buying sugar free chocolate chips.  Just mix together equal parts (by weight) of coconut oil, cocoa powder, and granular sweetener for a dark chocolate bar equivalent to about 70%.  This recipe makes 90 g of chocolate, or the equivalent of 1/2 cup chocolate chips when chopped.  Recently, I used these chocolate chunks in my <a href="/recipes/keto-brownies">Flourless Keto Brownies (2 g Net Carbs)</a>, but you can swap them for chocolate chips wherever!
+Description: This recipe is what I make most often as a substitute for chocolate chips.  They're <a href="/misc/hidden-sugar">sugar</a> free, contain minimal ingredients, and much cheaper than buying sugar free chocolate chips.  Just mix together equal parts (by weight) of coconut oil, cocoa powder, and granular sweetener for a dark chocolate bar equivalent to about 70%.  This recipe makes 90 g of chocolate, or the equivalent of 1/2 cup chocolate chips when chopped.  Recently, I used these chocolate chunks in my <a href="/recipes/keto-brownies">Flourless Keto Brownies (2 g Net Carbs)</a>, but you can swap them for chocolate chips wherever!
 Instructions: 
 - In a small bowl, microwave coconut oil for about 1 minute, until melted. Stir in cocoa powder and sweetener with a silicone spatula until smooth
 - <center><img src="/assets/Food/Finger Food/Monk Fruit Chocolate/bowl.jpg" alt="" class="instruction-image"></center>

@@ -40,7 +40,7 @@ tags:
 - dates
 - cocoa powder
 - chocolate
-Description: I'm not lying when I say this may be the best chocolate milkshake I've ever tasted; healthy or not.  This is spot on to a sweet and delicious chocolate milkshake, but it's vegan, gluten free, and sugar free.  This glass contains 14 g of protein and 19 g of fiber, and is a good source of B vitamins like <a href="/misc/nutrient-alphabet#T">thiamin (B1)</a>, <a href="/misc/nutrient-alphabet#R">riboflavin (B2)</a>, and <a href="/misc/nutrient-alphabet#F">folate (B9)</a>, as well as calcium, copper, <a href="/misc/iron">iron</a>, <a href="/misc/magnesium">magnesium</a>, and manganese
+Description: I'm not lying when I say this may be the best chocolate milkshake I've ever tasted; healthy or not.  This is spot on to a sweet and delicious chocolate milkshake, but it's vegan, gluten free, and <a href="/misc/hidden-sugar">sugar</a> free.  This glass contains 14 g of <a href="/misc/protein">protein</a> and 19 g of <a href="/misc/fiber">fiber</a>, and is a good source of B vitamins like <a href="/misc/nutrient-alphabet#T">thiamin (B1)</a>, <a href="/misc/nutrient-alphabet#R">riboflavin (B2)</a>, and <a href="/misc/nutrient-alphabet#F">folate (B9)</a>, as well as calcium, <a href="/misc/nutrient-alphabet#C">copper</a>, <a href="/misc/iron">iron</a>, <a href="/misc/magnesium">magnesium</a>, and <a href="/misc/nutrient-alphabet#M">manganese</a>
 Instructions: 
 - Add all ingredients to a small food processor, and blend until smooth. Transfer to a glass to drink as a milkshake
 

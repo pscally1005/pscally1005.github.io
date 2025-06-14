@@ -39,7 +39,7 @@ tags:
 - cocoa powder
 - oat flour
 - oats
-Description: This edible cookie dough is so simple, and a much healthier way to enjoy a classic treat. They use casein protein as the flour, but for a non protein version, you can use oat flour. I decided to make some homemade <a href="/recipes/chocolate-bar">Sugar Free Chocolate Bar</a>, but feel free to swap that with some chocolate chips too.  Or see my <a href="/recipes/chickpea-chows">Chickpea Chows</a> for another high protein healthy cookie dough recipe.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: This edible cookie dough is so simple, and a much healthier way to enjoy a classic treat. They use casein protein as the flour, but for a non <a href="/misc/protein">protein</a> version, you can use oat flour. I decided to make some homemade <a href="/recipes/chocolate-bar">Sugar Free Chocolate Bar</a>, but feel free to swap that with some chocolate chips too.  Or see my <a href="/recipes/chickpea-chows">Chickpea Chows</a> for another high <a href="/misc/protein">protein</a> healthy cookie dough recipe.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - Start by preparing your chocolate. In a microwave safe bowl, melt the coconut oil. Combine with the rest of the chocolate ingredients - cocoa powder, sweeteners (stevia/monkfruit and honey), and a small pinch of salt
 
@@ -47,7 +47,7 @@ Instructions:
 
 - For the cookie dough, combine the ingredients in a medium bowl in the following order - applesauce, honey, vanilla, monk fruit or stevia, and salt.  If you have some, 1/4 tsp (1.25 g) butter extract would work great here as well
 
-- For your flour, use oats for the standard version, or casein for the protein version. Casein absorbs a lot of liquid, so you will need some milk too. If you're using oats, use 120 g and no milk.  For casein, use 60g protein and 60 g almond milk
+- For your flour, use oats for the standard version, or casein for the <a href="/misc/protein">protein</a> version. Casein absorbs a lot of liquid, so you will need some milk too. If you're using oats, use 120 g and no milk.  For casein, use 60g protein and 60 g almond milk
 
 - Chop up your chocolate, and fold into the cookie dough. Roll into balls, transfer to an airtight bag or container, and enjoy
 ---

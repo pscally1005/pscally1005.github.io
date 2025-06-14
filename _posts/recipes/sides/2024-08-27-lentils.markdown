@@ -39,7 +39,7 @@ tags:
 - carb
 - protein
 - fiber
-Description: Red lentils are a fantastic addition to your diet. They're a great side carb source that is also high in protein and fiber. Red split lentils are just as easy to cook as rice, take a fraction of the time, and are healthier. And they're not that much more expensive too. I got a 1 lb bag for $1.50, and normally brown rice runs me $1 per lb.
+Description: Red lentils are a fantastic addition to your diet. They're a great side <a href="/misc/carbs">carb</a> source that is also high in <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>. Red split lentils are just as easy to cook as rice, take a fraction of the time, and are healthier. And they're not that much more expensive too. I got a 1 lb bag for $1.50, and normally brown rice runs me $1 per lb.
 Instructions: 
 - Add everything to a small pot. Cover and bring to a boil
 

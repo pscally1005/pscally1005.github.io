@@ -38,7 +38,7 @@ tags:
 - ketchup
 - mustard
 - chili
-Description: Sloppy joes are an American classic, and this variation removes the sugar filled ketchup and adds some more vegetables as well. These go great on a plate with a side of rice, roasted veggies, sweet potatoes, or on a sandwich.
+Description: Sloppy joes are an American classic, and this variation removes the <a href="/misc/hidden-sugar">sugar</a> filled ketchup and adds some more vegetables as well. These go great on a plate with a side of rice, roasted veggies, sweet potatoes, or on a sandwich.
 Instructions: 
 - Finely chop the peppers and onions.  Place a medium skillet over medium heat with oil. When the pan is hot, add onions and peppers.  Cover and cook under occasional stirring until the onions are translucent, about 10 minutes
 

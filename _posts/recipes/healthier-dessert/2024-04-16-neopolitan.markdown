@@ -36,7 +36,7 @@ tags:
 - cocoa powder
 - unsweetened vanilla almond milk
 - vic
-Description: I love banana ice cream, but I've never tried making a larger batch to store in the freezer until now. Check out my original recipe, <a href="nice-cream">Banana Nice Cream</a>, for a single serving version.  This take on the classic is way healthier than traditional, as it contains no added sugar or fat, just fruit! For a healthy fat source, feel free to add nut butter to either the chocolate or the vanilla flavors. Banana ice cream tastes like a lighter version of traditional ice cream, that packs just as much flavor, without leaving you feeling sluggish afterward
+Description: I love banana ice cream, but I've never tried making a larger batch to store in the freezer until now. Check out my original recipe, <a href="nice-cream">Banana Nice Cream</a>, for a single serving version.  This take on the classic is way healthier than traditional, as it contains no <a href="/misc/hidden-sugar">added sugar</a> or <a href="/misc/fats">fat</a>, just fruit! For a healthy <a href="/misc/fats">fat</a> source, feel free to add nut butter to either the chocolate or the vanilla flavors. Banana ice cream tastes like a lighter version of traditional ice cream, that packs just as much flavor, without leaving you feeling sluggish afterward
 Instructions: 
 - In order to keep the colors consistent, it's better to go from lightest to darkest color in order. Meaning, start with the vanilla, then strawberry, then finish with the chocolate
 

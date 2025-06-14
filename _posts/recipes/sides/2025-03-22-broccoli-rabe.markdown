@@ -31,7 +31,7 @@ tags:
 - lemon juice
 - garlic
 - extra virgin olive oil
-Description: Broccoli, broccoli rabe, and broccolini are all cruciferous vegetables. But don't get them confused; they're all distinct foods. Broccoli rabe, also called rapini, is known for being leafier and significantly more bitter. I found some broccoli rabe on sale the other day and decided I wanted to try it, as I've only ever had it once from a restaurant. Blanching the broccoli rabe is important for reducing the bitterness, as well as preserving it's green color and nutrients, such as <a href="/misc/nutrient-alphabet#K">Vitamin K</a>, <a href="/misc/nutrient-alphabet#C">Vitamin C</a>, and <a href="/misc/nutrient-alphabet#F">Folate</a>
+Description: Broccoli, broccoli rabe, and broccolini are all cruciferous vegetables. But don't get them confused; they're all distinct foods. Broccoli rabe, also called rapini, is known for being leafier and significantly more bitter. I found some broccoli rabe on sale the other day and decided I wanted to try it, as I've only ever had it once from a restaurant. Blanching the broccoli rabe is important for reducing the bitterness, as well as preserving it's green color and nutrients, such as <a href="/misc/nutrient-alphabet#K">Vitamin K</a>, <a href="/misc/vitamin-C">Vitamin C</a>, and <a href="/misc/nutrient-alphabet#F">Folate</a>
 Instructions: 
 - Bring a large pan (14") of heavily salted water to a boil over high heat. Prepare a strainer in the sink
 

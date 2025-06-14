@@ -43,7 +43,7 @@ tags:
 - natural peanut butter
 - barbell protein bar
 - rx bar
-Description: On the rare chance I need to buy some protein on the go, <a href="https://amzn.to/4joguO0">Quest Bars</a> are normally what I reach for. They're convenient and tasty, but so damn expensive:<b></b> at $8.88 for a measly  box of 4, these can't be more than a once in a while treat. So today I'm making them myself for a third of the price and a fraction of the ingredients.<br>&emsp;The result is a peanut butter protein bar with over 20 g of protein in less than 200 calories, as well as healthy fats from the nuts and no added sugar. These bars store well in the freezer long term, but they're also solid enough to hold their shape in your backpack, making them great for long days on the go!  If you enjoy copycat protein bar recipes, also see my <a href="/recipes/copycat-barbell">Copycat Barbell Protein Bars</a> and <a href="/recipes/rx-bars">Copycat Chocolate RX Bars</a>
+Description: On the rare chance I need to buy some <a href="/misc/protein">protein</a> on the go, <a href="https://amzn.to/4joguO0">Quest Bars</a> are normally what I reach for. They're convenient and tasty, but so damn expensive:<b></b> at $8.88 for a measly  box of 4, these can't be more than a once in a while treat. So today I'm making them myself for a third of the price and a fraction of the ingredients.<br>&emsp;The result is a peanut butter protein bar with over 20 g of <a href="/misc/protein">protein</a> in less than 200 <a href="/misc/calories">calories</a>, as well as healthy <a href="/misc/fats">fats</a> from the nuts and no <a href="/misc/hidden-sugar">added sugar</a>. These bars store well in the freezer long term, but they're also solid enough to hold their shape in your backpack, making them great for long days on the go!  If you enjoy copycat <a href="/misc/protein">protein</a> bar recipes, also see my <a href="/recipes/copycat-barbell">Copycat Barbell Protein Bars</a> and <a href="/recipes/rx-bars">Copycat Chocolate RX Bars</a>
 Instructions: 
 - In a food processor, blend together all ingredients except the water - whey protein, powdered peanut butter, sweetener, cinnamon, salt, vanilla, and peanut butter. It should be very dry and crumbly, but stay together slightly when pressed
 
@@ -58,5 +58,5 @@ Instructions:
 - Refrigerate for at least 1 hour before slicing into 4 protein bars. Wrap each in parchment paper, and store in an airtight bag in the freezer or refrigerator
 - <center><img src="/assets/Food/Protein Powder/Quest/cut.jpg" alt="" class="instruction-image"></center>
 
-- These bars are solid enough to hold their shape at room temperature, and purposely only use ingredients that don't need to be refrigerated. That way, you keep one in an airtight bag during the day for protein on the go
+- These bars are solid enough to hold their shape at room temperature, and purposely only use ingredients that don't need to be refrigerated. That way, you keep one in an airtight bag during the day for <a href="/misc/protein">protein</a> on the go
 ---

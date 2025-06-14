@@ -40,13 +40,13 @@ tags:
 - almond butter
 - gluten free
 - healthy
-Description: Who else agrees that raw cookie dough is better than the actual baked cookies?  This cookie dough is gluten free, lower in sugar and fat, and vegan (depending on your chocolate).  Instead of butter, sugar, and flour, I've used cashew butter, honey, and oat flour for a more wholesome dessert that's just as delicious.  If instead you prefer baked cookies, check out my <a href="/recipes/date-cookies">Almond Flour Cookies</a> or <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: Who else agrees that raw cookie dough is better than the actual baked cookies?  This cookie dough is gluten free, lower in <a href="/misc/hidden-sugar">sugar</a> and <a href="/misc/fats">fat</a>, and vegan (depending on your chocolate).  Instead of butter, <a href="/misc/hidden-sugar">sugar</a>, and flour, I've used cashew butter, honey, and oat flour for a more wholesome dessert that's just as delicious.  If instead you prefer baked cookies, check out my <a href="/recipes/date-cookies">Almond Flour Cookies</a> or <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - Melt your cashew butter and coconut oil (or olive oil) in the microwave for about 45 seconds in a glass bowl. Stir in the honey, vanilla, and salt with a silicone spatula. Mix in the oat flour until fully incorporated and slightly sticky. 
 
 - Chill the dough in the fridge for at least 15 minutes before folding in the chocolate chips.  I've made the mistake before of mixing in the chocolate right away, which causes it to melt, since the nut butter was warmed up
 
-- I'm using cashew butter here because it provides richness, healthy fats, and binds together the ingredients, but still has a neutral taste that will leave this tasting more like a standard cookie dough.  Almond butter would also be good, or you can use sunflower seed butter or tahini to keep it nut free.  Peanut butter also works, but it will have a distinct peanut butter flavor, which is something to keep in mind
+- I'm using cashew butter here because it provides richness, healthy <a href="/misc/fats">fats</a>, and binds together the ingredients, but still has a neutral taste that will leave this tasting more like a standard cookie dough.  Almond butter would also be good, or you can use sunflower seed butter or tahini to keep it nut free.  Peanut butter also works, but it will have a distinct peanut butter flavor, which is something to keep in mind
 
 - As for the sweetener, I'm using honey here, but either maple syrup or sugar free syrup (bottled or <a href="/recipes/sugar-free-syrup">homemade</a>) will work as well
 

@@ -40,7 +40,7 @@ tags:
 - bread
 - fiber
 - bean
-Description: These super simple wraps are gluten free, healthy, and high in fiber and protein. They only take 3 ingredients (if you even count salt and water as ingredients), are super simple to make, and great with any filling
+Description: These super simple wraps are gluten free, healthy, and high in <a href="/misc/fiber">fiber</a> and <a href="/misc/protein">protein</a>. They only take 3 ingredients (if you even count salt and water as ingredients), are super simple to make, and great with any filling
 Instructions: 
 - Using a strainer, wash your lentils. Add to a large blender with water and salt. Let soak for 3 hours
 

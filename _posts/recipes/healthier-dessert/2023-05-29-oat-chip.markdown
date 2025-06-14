@@ -36,7 +36,7 @@ tags:
 - applesauce
 - gluten free
 - cinnamon
-Description: These oatmeal cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally sugar free if using sugar free syrup and sugar free chocolate chips, but you can also use honey (or maple syrup) and regular chocolate chips if that's what you desire.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: These oatmeal cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally <a href="/misc/hidden-sugar">sugar</a> free if using sugar free syrup and sugar free chocolate chips, but you can also use honey (or maple syrup) and regular chocolate chips if that's what you desire.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - In a large bowl, mash your banana with the back of a fork, until smooth.  1/2 cup (120 g) unsweetened applesauce, <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a>, or <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a> will all work in place of mashed banana
 

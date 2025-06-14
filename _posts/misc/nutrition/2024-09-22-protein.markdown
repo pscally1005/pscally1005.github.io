@@ -37,7 +37,7 @@ tags:
 <br>&emsp;- Enzyme and hormone production
 <br>&emsp;- Protein synthesis
 - Methionine
-<br>&emsp;- Absorption of selenium and zinc
+<br>&emsp;- Absorption of <a href="/misc/nutrient-alphabet#S">selenium</a> and <a href="/misc/nutrient-alphabet#Z">zinc</a>
 <br>&emsp;- Detoxification
 <br>&emsp;- Metabolism
 - Phenylalanine
@@ -95,11 +95,11 @@ tags:
 <center><img src="/assets/Misc/Nutrition/Protein/health.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Protein/good-mood.png" alt="" class="smaller-image"></center>
 <br>
 <u><font size="+2">How Much to Consume?</font></u><br>
-&emsp;Protein is one of the 3 main macronutrients, along with <a href="/misc/fats">fat</a> and <a href="/misc/carbs">carbs</a>.  1 gram of protein supplies about 4 calories, as opposed to 9 calories for fat and 4 calories for carbohydrates.  A standard nutrition label sets 50 g of protein as 100% DV, but realistically you should be consuming much more than this, as this measurement is purely to prevent deficiencies.  Ideally, you consume somewhere between 0.7 g and 1.0 g of protein per pound of body weight.  For example, if you weight 150 pounds, you should aim to consume anywhere between 105 g and 150 g of protein every day to maintain optimal skeletal function and promote muscle growth.
+&emsp;Protein is one of the 3 main macronutrients, along with <a href="/misc/fats">fat</a> and <a href="/misc/carbs">carbs</a>.  1 gram of protein supplies about 4 <a href="/misc/calories">calories</a>, as opposed to 9 <a href="/misc/calories">calories</a> for <a href="/misc/fats">fat</a> and 4 <a href="/misc/calories">calories</a> for carbohydrates.  A standard nutrition label sets 50 g of protein as 100% DV, but realistically you should be consuming much more than this, as this measurement is purely to prevent deficiencies.  Ideally, you consume somewhere between 0.7 g and 1.0 g of protein per pound of body weight.  For example, if you weight 150 pounds, you should aim to consume anywhere between 105 g and 150 g of protein every day to maintain optimal skeletal function and promote muscle growth.
 <center><img src="/assets/Misc/Nutrition/Protein/strong.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Protein/skeleton.png" alt="" class="smaller-image"></center>
 <br>
 <u><font size="+2">What Kind to Consume?</font></u><br>
-&emsp;Unlike <a href="/misc/fats">fat</a> and <a href="/misc/carbs">carbs</a>, there are really no "bad" protein sources, though some are better than others.  As mentioned above, animal protein sources are almost always better, as not only are they complete proteins, but the protein itself is more bioavailable.  With animal proteins, the main thing you would want to watch out for is fat content or the context in which the meat is served, such as being fried or served on bread.
+&emsp;Unlike <a href="/misc/fats">fat</a> and <a href="/misc/carbs">carbs</a>, there are really no "bad" protein sources, though some are better than others.  As mentioned above, animal protein sources are almost always better, as not only are they complete proteins, but the protein itself is more bioavailable.  With animal proteins, the main thing you would want to watch out for is <a href="/misc/fats">fat</a> content or the context in which the meat is served, such as being fried or served on bread.
 <center><img src="/assets/Misc/Nutrition/Protein/turkey.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Protein/polyunsaturated-fat.png" alt="" class="smaller-image"></center>
 <br>
 &emsp;Plant proteins on the other hand mostly lack all 9 essential amino acids, while also being less bioavailable.  For example,  <a href="https://en.wikipedia.org/wiki/Digestible_Indispensable_Amino_Acid_Score">DIAAS</a> (Digestible Indispensable Amino Acid Score) is a measure of the quality of a given protein, ranging from 0 to 1.  Whereas animal based sources all score at 1.00 (or higher), most plant protein sources fail to reach this.  1 gram of beef protein is equivalent to only about 0.6 g of protein from beans or 0.4 g of protein from bread.
@@ -160,11 +160,11 @@ tags:
 <u><font size="+2">High Protein Foods to Moderate or Consume Often</font></u><br>
 - Dairy:
 <br>&emsp;- Casein protein powder
-<br>&emsp;- Cottage cheese (any fat %)
+<br>&emsp;- Cottage cheese (any <a href="/misc/fats">fat</a> %)
 <br>&emsp;- Fresh mozzarella
-<br>&emsp;- Greek yogurt (plain, any fat %)
+<br>&emsp;- Greek yogurt (plain, any <a href="/misc/fats">fat</a> %)
 <br>&emsp;- Low moisture, part skim, shredded mozzarella
-<br>&emsp;- Milk (any fat %)
+<br>&emsp;- Milk (any <a href="/misc/fats">fat</a> %)
 <br>&emsp;- Whey protein powder
 <center><img src="/assets/Misc/Nutrition/Protein/yogurt.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Protein/whey-protein.png" alt="" class="smaller-image"></center>
 <br>

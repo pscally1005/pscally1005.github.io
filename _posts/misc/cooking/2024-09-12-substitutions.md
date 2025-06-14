@@ -104,7 +104,7 @@ tags:
 
 <div id="grains" class="table-of-contents-2"></div>
 <i><font size="+2">Grains</font></i><br>
-&emsp;When I refer to grains here, I'm talking about some sort of carb base or side to your meal, such as pasta or rice.  In place of pasta, all of the following below can be served in the same way, such as tossed with a sauce like <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>, <a href="/recipes/cottage-cheese-alfredo">Cottage Cheese Alfredo Sauce</a>, or <a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a>.
+&emsp;When I refer to grains here, I'm talking about some sort of <a href="/misc/carbs">carb</a> base or side to your meal, such as pasta or rice.  In place of pasta, all of the following below can be served in the same way, such as tossed with a sauce like <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>, <a href="/recipes/cottage-cheese-alfredo">Cottage Cheese Alfredo Sauce</a>, or <a href="/recipes/oil-free-basil-pesto">Oil Free Basil Pesto</a>.
 - Whole wheat pasta
 - Chickpea pasta
 - Red lentil pasta
@@ -156,7 +156,7 @@ tags:
 
 <div id="milk" class="table-of-contents-2"></div>
 <i><font size="+2">Milk</font></i><br>
-&emsp;A lot of my old baking recipes for example use unsweetened vanilla almond milk, but lately I've been opting for skim milk instead.  I used to buy almond milk because it lasts longer, but I've been getting through milk quicker, and wanted the added nutrition of cow's milk.  Cow's milk is cheaper while containing more protein and calcium.  But really any of the following can be used at a 1:1 ratio, just note the calorie, fat, or taste differences.  The same concept applies to <a rel="" target="" href="#yogurt">yogurt</a> as well:
+&emsp;A lot of my old baking recipes for example use unsweetened vanilla almond milk, but lately I've been opting for skim milk instead.  I used to buy almond milk because it lasts longer, but I've been getting through milk quicker, and wanted the added nutrition of cow's milk.  Cow's milk is cheaper while containing more <a href="/misc/protein">protein</a> and calcium.  But really any of the following can be used at a 1:1 ratio, just note the <a href="/misc/calories">calorie</a>, <a href="/misc/fats">fat</a>, or taste differences.  The same concept applies to <a rel="" target="" href="#yogurt">yogurt</a> as well:
 - Whole milk
 - 2% milk
 - 1% milk
@@ -242,7 +242,7 @@ tags:
 
 <center><img src="/assets/Misc/Cooking/Substitutions/cookie.png" alt="" class="smaller-image"><img src="/assets/Misc/Cooking/Substitutions/brownies.png" alt="" class="smaller-image"></center><br>
 
-&emsp;As for granular sweeteners, if you are looking for a substitute for white sugar, any sort of granular low calorie sweetener will work.  They can be replace 1:1 by volume for granulated sugar; examples include:
+&emsp;As for granular sweeteners, if you are looking for a substitute for white <a href="/misc/hidden-sugar">sugar</a>, any sort of granular low <a href="/misc/calories">calorie</a> sweetener will work.  They can be replace 1:1 by volume for granulated <a href="/misc/hidden-sugar">sugar</a>; examples include:
 - Erythritol
 - Allulose
 - Stevia
@@ -250,7 +250,7 @@ tags:
 
 <center><img src="/assets/Misc/Cooking/Substitutions/sugar-free.png" alt="" class="smaller-image"><img src="/assets/Misc/Cooking/Substitutions/spoon.png" alt="" class="smaller-image"></center><br>
 
-&emsp;I don't typically use or buy granular sweeteners, but I have occasionally used them in the past.  Examples include my <a href="/recipes/rainbow-cookies">Monk Fruit Rainbow Cookies</a> or <a href="/recipes/amaretti">Amaretti Cookies with Monkfruit</a>, where I simply swapped granulated sugar 1:1 with granulated monk fruit.  I have been wanting to try and make my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a> with allulose and change nothing else to see what differences there are in taste or texture...maybe someday.
+&emsp;I don't typically use or buy granular sweeteners, but I have occasionally used them in the past.  Examples include my <a href="/recipes/rainbow-cookies">Monk Fruit Rainbow Cookies</a> or <a href="/recipes/amaretti">Amaretti Cookies with Monkfruit</a>, where I simply swapped granulated <a href="/misc/hidden-sugar">sugar</a> 1:1 with granulated monk fruit.  I have been wanting to try and make my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a> with allulose and change nothing else to see what differences there are in taste or texture...maybe someday.
 
 <center><img src="/assets/Misc/Cooking/Substitutions/amaretti.png" alt="" class="smaller-image"><img src="/assets/Misc/Cooking/Substitutions/sugar.png" alt="" class="smaller-image"></center><br>
 
@@ -332,7 +332,7 @@ tags:
 
 <div id="yogurt" class="table-of-contents-2"></div>
 <i><font size="+2">Yogurt</font></i><br>
-&emsp;Finally, we're on to yogurt.  I pretty much always buy plain nonfat Greek yogurt, but nonfat cottage cheese is a common substitute for me as well.  As with <a rel="" target="" href="#milk">milk</a>, any of the following fat percentages can be used interchangeably, with just small differences in taste and calories:
+&emsp;Finally, we're on to yogurt.  I pretty much always buy plain nonfat Greek yogurt, but nonfat cottage cheese is a common substitute for me as well.  As with <a rel="" target="" href="#milk">milk</a>, any of the following <a href="/misc/fats">fat</a> percentages can be used interchangeably, with just small differences in taste and <a href="/misc/calories">calories</a>:
 - Plain whole milk Greek yogurt
 - Plain low fat Greek yogurt
 - Plain nonfat Greek yogurt

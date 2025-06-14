@@ -56,10 +56,10 @@ Instructions:
 
 - I've marked a serving size as about 1 oz (28 g) cooked meat for ease of comparison and measurement. 6 thighs (828 g) should yield about 621 g, as meat tends to lose about 25% of its raw weight when cooked
 
-- With this chicken, you can use it as a topping for your salads for some protein, or toss with with a sauce.  Try mixing it with <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a> for some BBQ Pulled Chicken, and serve alongside some <a href="/recipes/pulled-chicken">coleslaw</a>.  Or mix with <a href="/recipes/salsa">Five Minute Salsa</a> for some <a href="/recipes/salsa-chicken">Two Ingredient Salsa Chicken</a>
+- With this chicken, you can use it as a topping for your salads for some <a href="/misc/protein">protein</a>, or toss with with a sauce.  Try mixing it with <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a> for some BBQ Pulled Chicken, and serve alongside some <a href="/recipes/pulled-chicken">coleslaw</a>.  Or mix with <a href="/recipes/salsa">Five Minute Salsa</a> for some <a href="/recipes/salsa-chicken">Two Ingredient Salsa Chicken</a>
 - <center><img src="/assets/Food/Chicken/Shredded/salsa.jpg" alt="" class="instruction-image"></center>
 
-- If you used bone-in, skin-on chicken thighs, you should have a lot of fat rendered out in the pan after baking.  If you desire, transfer all the drippings to a mason jar, and refrigerate overnight.  In the morning, scrape the chicken fat (known as "shmaltz") off the top.  I got just over 1/2 cup (136 g) from a double batch of the chicken
+- If you used bone-in, skin-on chicken thighs, you should have a lot of <a href="/misc/fats">fat</a> rendered out in the pan after baking.  If you desire, transfer all the drippings to a mason jar, and refrigerate overnight.  In the morning, scrape the chicken fat (known as "shmaltz") off the top.  I got just over 1/2 cup (136 g) from a double batch of the chicken
 - <center><img src="/assets/Food/Chicken/Shredded/jars.jpg" alt="" class="instruction-image"></center>
 
 - Use the shmaltz in any place you would use butter or oil.  I'll be using it in place of olive oil in my <a href="/recipes/buffalo-chicken-dip">High Protein Buffalo Chicken Dip</a> tomorrow for extra chicken flavor.  Refrigerate the fat for up to a week, or freeze indefinitely.  

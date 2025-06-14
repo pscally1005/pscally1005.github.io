@@ -67,7 +67,7 @@ The oats were the main reason for the hour rest in the fridge prior to cooking. 
 
 <div id="coconut" class="table-of-contents-2"></div>
 <b><font size="+2">3. Coconut Flour</font></b><br>
-Coconut flour is the only one on this list that I've never made a meatloaf with before.  It's gluten free, low in carbs and fat, high in fiber, midly sweet, and (most imporantly) known for it's ability to absorb a lot of moisture.  As I showed in my <a href="water-absorption">Water Absorption of Different Flours</a> experiment, coconut flour can take in a lot of water.<br>
+Coconut flour is the only one on this list that I've never made a meatloaf with before.  It's gluten free, low in <a href="/misc/carbs">carbs</a> and <a href="/misc/fats">fat</a>, high in <a href="/misc/fiber">fiber</a>, midly sweet, and (most imporantly) known for it's ability to absorb a lot of moisture.  As I showed in my <a href="water-absorption">Water Absorption of Different Flours</a> experiment, coconut flour can take in a lot of water.<br>
 
 This is exactly what was shown in mixing the loaf.  Whereas the oat flour one was stickier than the control, the coconnut flour meatloaf was noticeably drier when raw.  It was able to suck up all the extra liquid in the raw meat mix, and as such, is able to hold it's shape very well.<br>
 
@@ -77,9 +77,9 @@ My guess is that while the oat flour one might leak juices down onto the pan, th
 
 <div id="casein" class="table-of-contents-2"></div>
 <b><font size="+2">4. Unflavored Casein Protein Powder</font></b><br>
-Finally, we have the protein powder.  The main reason I wanted to use protein powder in meatloaf was to keep the protein high (duh).  Surprisingly, meatloaf doesn't have that much protein as compared to other meat dishes, since there's a lot of other ingredients mixed into it.  I wanted to see if there was a way to mix in a binding solid to hold it together like breadcrumbs, but while still making a meatloaf that's loaded with protein.<br>
+Finally, we have the protein powder.  The main reason I wanted to use protein powder in meatloaf was to keep the <a href="/misc/protein">protein</a> high (duh).  Surprisingly, meatloaf doesn't have that much <a href="/misc/protein">protein</a> as compared to other meat dishes, since there's a lot of other ingredients mixed into it.  I wanted to see if there was a way to mix in a binding solid to hold it together like breadcrumbs, but while still making a meatloaf that's loaded with <a href="/misc/protein">protein</a>.<br>
 
-The base recipe I was using used to called for breadcrumbs when I first developed it, before I switched over to oat flour, and then finally casein as my breading.  This keeps the protein up, but my guess is that it will lead to the worst quality meatloaf.  Despite casein also being known for it's ability to absorb a lot of moisture, I've found that a meatloaf made with casein tends to lose a lot of moisture in the pan, and is very prone to crumbling apart.  It also may still have a slight casein aftertaste if you don't use enough spices.<br>
+The base recipe I was using used to called for breadcrumbs when I first developed it, before I switched over to oat flour, and then finally casein as my breading.  This keeps the <a href="/misc/protein">protein</a> up, but my guess is that it will lead to the worst quality meatloaf.  Despite casein also being known for it's ability to absorb a lot of moisture, I've found that a meatloaf made with casein tends to lose a lot of moisture in the pan, and is very prone to crumbling apart.  It also may still have a slight casein aftertaste if you don't use enough spices.<br>
 
 Just know that if my <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a> now calls for a different breading instead of casein, you'll know that the protein powder lost the matchup.<br><br>
 
@@ -110,7 +110,7 @@ I could not tell the difference in taste between the oat flour and breadcrumb on
 <center><img src="/assets/Misc/Experiments/Meatloaf/cooked-oat.jpg" alt="" class="larger-image"></center><br>
 
 <b><font size="+2">3. Coconut Flour</font></b><br>
-I had very high hopes for coconut flour, but it definitely fell flat; this was easily the worst batch.  The coconut flour imparted a small but noticeable coconut flavor and a slight hint of sweetnesss; neither in a good way though.  This was also easily the driest loaf.  My guess is the coconut flour sucked up all the liquid, so while very little leaked out of the loaf, it was very dry to eat, like a protein baked good with too much whey.  Cold was even worse, it was very dry.  This one felt the most bready of the 4, it could have been a meat based slice of bread (it is a loaf after all lmao).  It's still decent food, and would work on a sandwich without totally falling apart, but not my best work.  3/10<br><br>
+I had very high hopes for coconut flour, but it definitely fell flat; this was easily the worst batch.  The coconut flour imparted a small but noticeable coconut flavor and a slight hint of sweetnesss; neither in a good way though.  This was also easily the driest loaf.  My guess is the coconut flour sucked up all the liquid, so while very little leaked out of the loaf, it was very dry to eat, like a <a href="/misc/protein">protein</a> baked good with too much whey.  Cold was even worse, it was very dry.  This one felt the most bready of the 4, it could have been a meat based slice of bread (it is a loaf after all lmao).  It's still decent food, and would work on a sandwich without totally falling apart, but not my best work.  3/10<br><br>
 
 <center><img src="/assets/Misc/Experiments/Meatloaf/cooked-coconut.jpg" alt="" class="larger-image"></center><br>
 
@@ -122,13 +122,13 @@ The casein one fell somewhere in between the coconut flour and oat flour and bre
 <u><font size="+2">Conclusion</font></u><br>
 It was interesting to see how the meatloaf that released the most juices (casein) and the least juices (coconut) were the driest, whereas the ones in the middle (breadcrumbs and oat flour) were the juiciest.  I think that (with exception of the coconut flour), any of the breadings tested here could work in a meatloaf.<br>
 
-Of the remaining 3, casein was definitely my least favorite in a side-by-side comparison.  However, on it's own you wouldn't really be able to tell.  If you want to sneak a little more protein into your meatloaf without compromising the final product, this will be the way to do it, and still get a good tasting dinner.  For my taste and texture though, I think I'll be changing my meatloaf to use something else.<br>
+Of the remaining 3, casein was definitely my least favorite in a side-by-side comparison.  However, on it's own you wouldn't really be able to tell.  If you want to sneak a little more <a href="/misc/protein">protein</a> into your meatloaf without compromising the final product, this will be the way to do it, and still get a good tasting dinner.  For my taste and texture though, I think I'll be changing my meatloaf to use something else.<br>
 
 Between the oat flour and breadcrumbs, I don't think you could go wrong with either option.  Most people probably have some type of breadcrumb in their pantry, so this is an easy pick for some.  For others, either you don't have breadcrumbs on hand, or you have a wheat allergy and cannot consume them.  I didn't test any gluten free breadcrumbs (my mom uses Aleias Italian style), but for a GF meatloaf I'd opt for oat flour based on the cost alone.<br>
 
 The breadcrumb loaf was slightly firmer, while the oat flour one was a little bit softer.  Whatever you choose is up to your tastes and preferences.  You could also add a little more oat flour to make it firmer, or use a little less breadcrumbs to make it more crumbly.<br>
 
-I've decided that I'll be using <b>oat flour</b> from here on out; mainly for it's nutrition.  Oats are higher in fiber, don't have a laundry list of ingredients, including added sugars, oils, and salt, and oats may actually be cheaper.  My local grocery store sells 42oz canisters of quick oats for $4, whereas I belive the 13oz breadcrumbs we have was about $2.<br><br>
+I've decided that I'll be using <b>oat flour</b> from here on out; mainly for it's nutrition.  Oats are higher in <a href="/misc/fiber">fiber</a>, don't have a laundry list of ingredients, including added sugars, oils, and salt, and oats may actually be cheaper.  My local grocery store sells 42oz canisters of quick oats for $4, whereas I belive the 13oz breadcrumbs we have was about $2.<br><br>
 
 <u><font size="+2">UPDATE: 03/02/25</font></u><br>
 It's nearly a year later, but I decided to make a meatloaf using almond flour too to see if that is also a good replacement.  I didn't take any pictures or do any side-by-side taste tests this time, but I can say that almond and oat flour are practically identical.  I'll keep the recipe written for oat flour, but I can see myself going back and forth between almond and oat flour when I make meatloaf, depending on my mood that day.

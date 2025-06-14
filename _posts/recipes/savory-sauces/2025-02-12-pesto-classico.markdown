@@ -42,7 +42,7 @@ tags:
 - pine nuts
 - walnuts
 - lemon juice
-Description: I've made plenty of pesto variations over the years, but after getting a fancy bottle of olive oil and a mortar and pestle, I knew that it was finally time to honor my Italian ancestors and make a proper pesto. Lemon juice isn't entirely traditional, but I really think it boosts the flavor, as well as preventing the basil from turning brown.  Check out some of my other <a href="/pesto">pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high protein versions
+Description: I've made plenty of pesto variations over the years, but after getting a fancy bottle of olive oil and a mortar and pestle, I knew that it was finally time to honor my Italian ancestors and make a proper pesto. Lemon juice isn't entirely traditional, but I really think it boosts the flavor, as well as preventing the basil from turning brown.  Check out some of my other <a href="/pesto">pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href="/misc/protein">protein</a> versions
 Instructions: 
 - In a small pan over medium heat, toast the pine nuts (or any other nuts) until lightly browned and fragrant, about 3 minutes
 

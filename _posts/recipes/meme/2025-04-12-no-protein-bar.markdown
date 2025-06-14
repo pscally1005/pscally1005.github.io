@@ -43,16 +43,16 @@ tags:
 - barbell
 - quest
 - rx
-Description: This is a stupid idea I had the other day:<b></b> a protein bar, with no protein powder.  I've been making a ton of <a href="/recipes/copycat-barbell">Copycat Barbell Protein Bars</a> lately, and wanted to do something similar.  Instead, I'll be mixing together Greek yogurt with powdered peanut butter until I get a thick dough, chill it, and coat in chocolate. With no protein powder, these bars still have 21 g of protein in around 220 calories, with no added sugar or artificial sweeteners
+Description: This is a stupid idea I had the other day:<b></b> a <a href="/misc/protein">protein</a> bar, with no protein powder.  I've been making a ton of <a href="/recipes/copycat-barbell">Copycat Barbell Protein Bars</a> lately, and wanted to do something similar.  Instead, I'll be mixing together Greek yogurt with powdered peanut butter until I get a thick dough, chill it, and coat in chocolate. With no protein powder, these bars still have 21 g of <a href="/misc/protein">protein</a> in around 220 <a href="/misc/calories">calories</a>, with no <a href="/misc/hidden-sugar">added sugar</a> or artificial sweeteners
 Instructions: 
 - In a medium bowl, mix together yogurt, vanilla, sweetener, and salt. Add the powdered peanut butter, and combine with a silicone spatula until you have a fully mixed dough
-- <center><img src="/assets/Food/Meme/No protein bar/bowl.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Meme/No <a href="/misc/protein">protein</a> bar/bowl.jpg" alt="" class="instruction-image"></center>
 
-- Line a plate with parchment paper. Divide the dough in half (85 g each), and shape into 2 protein bars
-- <center><img src="/assets/Food/Meme/No protein bar/no-choc.jpg" alt="" class="instruction-image"></center>
+- Line a plate with parchment paper. Divide the dough in half (85 g each), and shape into 2 <a href="/misc/protein">protein</a> bars
+- <center><img src="/assets/Food/Meme/No <a href="/misc/protein">protein</a> bar/no-choc.jpg" alt="" class="instruction-image"></center>
 
 - In a small bowl, microwave coconut oil for 30 seconds to melt. Add in cocoa powder, and stir with a silicone spatula until smooth. Evenly spread on top of the bars. The chocolate won't look perfect or pretty, and that's okay. Paint the melted chocolate over the top and the sides of the bars
-- <center><img src="/assets/Food/Meme/No protein bar/choc.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Meme/No <a href="/misc/protein">protein</a> bar/choc.jpg" alt="" class="instruction-image"></center>
 
 - Freeze for 30 minutes to harden. Wrap each bar in parchment paper or aluminum foil, and store in an airtight bag in the fridge or freezer
 ---

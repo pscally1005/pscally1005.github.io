@@ -41,7 +41,7 @@ tags:
 - syrup
 - mug
 - microwave
-Description: These mug brownies are perfect for when you want just 1 dessert instead of a whole pan. They're ultra gooey dark chocolate brownies without any added sugar, and contain less than 200 calories per mug. It takes only 5 minutes to make, and only dirties a mug and a spoon
+Description: These mug brownies are perfect for when you want just 1 dessert instead of a whole pan. They're ultra gooey dark chocolate brownies without any <a href="/misc/hidden-sugar">added sugar</a>, and contain less than 200 <a href="/misc/calories">calories</a> per mug. It takes only 5 minutes to make, and only dirties a mug and a spoon
 Instructions: 
 - In a mug, mix together the oat flour and cocoa powder until fully combined. Add in the applesauce, milk, and syrup. Mix fully to form a thick batter
 

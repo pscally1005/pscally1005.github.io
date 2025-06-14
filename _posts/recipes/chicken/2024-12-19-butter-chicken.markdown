@@ -43,7 +43,7 @@ tags:
 - garlic
 - chicken thighs
 - garam masala
-Description: Butter Chicken is a classic Indian curry dish with garam masala, tomatoes, butter, and cream, and is typically served alongside rice. It can be quite the fat and calorie bomb due to the butter and heavy cream, is lacking in vegetables, and features high glycemic white rice. So I'm fixing these issues today with a creamy sauce that's higher in protein and lower in fat, peppers and onions for more volume, and quinoa instead of white rice (but brown rice or lentils will also work well)
+Description: Butter Chicken is a classic Indian curry dish with garam masala, tomatoes, butter, and cream, and is typically served alongside rice. It can be quite the <a href="/misc/fats">fat</a> and <a href="/misc/calories">calorie</a> bomb due to the butter and heavy cream, is lacking in vegetables, and features high glycemic white rice. So I'm fixing these issues today with a creamy sauce that's higher in <a href="/misc/protein">protein</a> and lower in <a href="/misc/fats">fat</a>, peppers and onions for more volume, and quinoa instead of white rice (but brown rice or lentils will also work well)
 Instructions: 
 - Dice your chicken, and add to a large bowl. Mix with salt, garam masala, and yogurt. Marinate in the fridge for at least 1 hour
 - <center><img src="/assets/Food/Chicken/Butter Chicken/raw.jpg" alt="" class="instruction-image"></center>

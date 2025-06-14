@@ -39,7 +39,7 @@ tags:
 - ketchup
 - spread
 - vic
-Description: Most commercial BBQ sauces are loaded with high fructose corn syrup, making them insanely sweet and super bad for you. I prefer to keep mine fully unsweetened, but for a sweeter taste, you can add a little of any sweetener you desire.  I love to use my BBQ sauce in my <a href="/recipes/pulled-chicken">BBQ Pulled Chicken and Coleslaw</a>, <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>, and <a href="/recipes/kale">Bean Kaled by Cheese</a>.  If you instead want some ketchup, you should see my <a href="/recipes/ketchup">Date Sweetened Ketchup</a>
+Description: Most commercial BBQ sauces are loaded with <a href="/misc/hidden-sugar">high frustose corn syrup</a>, making them insanely sweet and super bad for you. I prefer to keep mine fully unsweetened, but for a sweeter taste, you can add a little of any sweetener you desire.  I love to use my BBQ sauce in my <a href="/recipes/pulled-chicken">BBQ Pulled Chicken and Coleslaw</a>, <a href="/recipes/bbq-meatloaf">Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>, and <a href="/recipes/kale">Bean Kaled by Cheese</a>.  If you instead want some ketchup, you should see my <a href="/recipes/ketchup">Date Sweetened Ketchup</a>
 Instructions: 
 - Finely dice an onion, and add to a medium metal saucepot with a spray of oil and some salt.  Cover and cook on medium heat until translucent, about 8 minutes
 
@@ -50,5 +50,5 @@ Instructions:
 - Cover and simmer on low heat for 30 minutes.  Remove from the heat, and allow to totally cool (about 30 minutes) before pureeing until smooth with an immersion blender.  Store in the fridge for up to a week, or freeze for later use
 - <center><img src="/assets/Food/Savory Sauces/BBQ/bbq-sauce-pot.jpg" alt="" class="instruction-image"></center>
 
-- I ended up with about 1,152 g of BBQ sauce, or about 32 servings of 2 tbsp (36 g) each.  For comparison, the same 2 tbsp (36 g) serving of <a href="https://amzn.to/3Z6H0V2">bottled BBQ sauce</a> contains the following:<br><ul><li>3x the calories</li><li>4x the carbs</li><li>11x the sugar (all added sugar)</li><li>2x the sodium</li><li>No protein or fiber</li><li>No iron or potassium</li><li>Slightly more expensive</li></ul>
+- I ended up with about 1,152 g of BBQ sauce, or about 32 servings of 2 tbsp (36 g) each.  For comparison, the same 2 tbsp (36 g) serving of <a href="https://amzn.to/3Z6H0V2">bottled BBQ sauce</a> contains the following:<br><ul><li>3x the <a href="/misc/calories">calories</a></li><li>4x the <a href="/misc/carbs">carbs</a></li><li>11x the <a href="/misc/hidden-sugar">sugar</a> (all <a href="/misc/hidden-sugar">added sugar</a>)</li><li>2x the <a href="/misc/sodium">sodium</a></li><li>No <a href="/misc/protein">protein</a> or <a href="/misc/fiber">fiber</a></li><li>No <a href="/misc/iron">iron</a> or <a href="/misc/potassium">potassium</a></li><li>Slightly more expensive</li></ul>
 ---

@@ -47,7 +47,7 @@ tags:
 - lemon
 - chili
 - cornbread
-Description: This <a href="/misc/fake-healthy-foods#cornbread">cornbread</a> is not only gluten free, but also super high in protein for a side. It's a great protein/carb side to your dinner, especially with chili. It's a savory cornbread with diced chilies, grated cheese, and garlic powder, and tastes delicious on its own.  Or you can pair this cornbread with either <a href="/recipes/chili">Slow Cooker Chili</a> or <a href="/recipes/baked-beans">No Added Sugar Baked Beans</a> for a delicious meal
+Description: This <a href="/misc/fake-healthy-foods#cornbread">cornbread</a> is not only gluten free, but also super high in <a href="/misc/protein">protein</a> for a side. It's a great <a href="/misc/protein">protein</a>/carb side to your dinner, especially with chili. It's a savory cornbread with diced chilies, grated cheese, and garlic powder, and tastes delicious on its own.  Or you can pair this cornbread with either <a href="/recipes/chili">Slow Cooker Chili</a> or <a href="/recipes/baked-beans">No Added Sugar Baked Beans</a> for a delicious meal
 Instructions: 
 - Preheat your oven to 400F, and line an 9" square baking pan with parchment paper. Lightly spray the paper
 

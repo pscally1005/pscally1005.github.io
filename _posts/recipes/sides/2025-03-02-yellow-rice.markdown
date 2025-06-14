@@ -37,9 +37,9 @@ tags:
 - ginger
 - cinnamon
 - paprika
-Description: Am I the only one who used to think that yellow rice was a different type of rice? Turns out, it's just rice with turmeric. Here, I'm using brown rice instead of white for more fiber and micronutrients. Turmeric, the main feature of this side, is often regarded as one of the best spices for reducing inflammation. My version is a little darker due to the addition of other anti-inflammatory spices, like cayenne, paprika, cinnamon, black pepper, and ginger.  I guess I'm on a rice kick, because tomorrow I'm making a <a href="/recipes/brown-riceirisotto">Brown Rice Risotto Base</a> as my side
+Description: Am I the only one who used to think that yellow rice was a different type of rice? Turns out, it's just rice with turmeric. Here, I'm using brown rice instead of white for more <a href="/misc/fiber">fiber</a> and micronutrients. Turmeric, the main feature of this side, is often regarded as one of the best spices for reducing inflammation. My version is a little darker due to the addition of other anti-inflammatory spices, like cayenne, paprika, cinnamon, black pepper, and ginger.  I guess I'm on a rice kick, because tomorrow I'm making a <a href="/recipes/brown-riceirisotto">Brown Rice Risotto Base</a> as my side
 Instructions: 
 - Add all ingredients to a medium pot over high heat. Cover and bring to a boil, reduce heat to medium, and let simmer for 20-25 minutes until all water has been absorbed.  Garnish with dried parsley
 
-- I've never tried, but I see no reason why this wouldn't also work with red lentils or quinoa, which would both be higher in protein and fiber than brown rice.  Screw it, make yellow oats, I don't make the rules
+- I've never tried, but I see no reason why this wouldn't also work with red lentils or quinoa, which would both be higher in <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a> than brown rice.  Screw it, make yellow oats, I don't make the rules
 ---

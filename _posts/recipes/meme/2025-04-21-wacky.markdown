@@ -47,7 +47,7 @@ tags:
 - savory
 - quick bread
 - gluten free
-Description: Oh boy.  My brother sent me this ridiculous ChatGPT generated cake recipe, and I wanted to try making it for when he came to visit.  This wacky cake is certainly the strangest thing I've ever made.  It's a savory black bean cake that's shockingly way better than it sounds.  Ignore that it's called cake; this concoction is more of a savory quick bread.  It acts more so as a dinner carb side than a dessert
+Description: Oh boy.  My brother sent me this ridiculous ChatGPT generated cake recipe, and I wanted to try making it for when he came to visit.  This wacky cake is certainly the strangest thing I've ever made.  It's a savory black bean cake that's shockingly way better than it sounds.  Ignore that it's called cake; this concoction is more of a savory quick bread.  It acts more so as a dinner <a href="/misc/carbs">carb</a> side than a dessert
 Instructions: 
 - Preheat your oven to 350F, and line a 9" cake pan with parchment paper. Lightly spray the paper
 
