@@ -46,11 +46,11 @@ tags:
 - syrup
 - gluten free
 - almond extract
-Description: To me, a <a href="/misc/fake-healthy-foods#protein">protein bar</a> must meet 3 basic requirements. It must have (1) at least 10g of <a href="/misc/protein">protein</a> per 100cal, with <a href="/misc/protein">protein</a> being the predominant macro nutrient. (2) It has to have no <a href="/misc/hidden-sugar">added sugar</a>, and finally (3) it must be a solid at room temperature, so it can be taken on the go. These <a href="/misc/protein">protein</a> bars meet all 3, as they clock in at just 100 <a href="/misc/calories">calories</a> and have 14g of <a href="/misc/protein">protein</a>
+Description: To me, a <a href="/misc/fake-healthy-foods#protein">protein bar</a> must meet 3 basic requirements:<br><br><ol><li>At least 10g of <a href="/misc/protein">protein</a> per 100cal, with <a href="/misc/protein">protein</a> being the predominant macro nutrient</li><li>No <a href="/misc/hidden-sugar">added sugar</a></li><li>Can be taken on the go</li></ol>&emsp;These <a href="/misc/protein">protein</a> bars meet all 3, as they clock in at just 100 <a href="/misc/calories">calories</a> and have over 13g of <a href="/misc/protein">protein</a>
 Instructions: 
-- In a large bowl, whisk together the dry ingredients - PB2, whey, casein, coconut flour, cinnamon, and salt
+- In a large bowl, whisk together the dry ingredients - powdered peanut butter, whey, casein, coconut flour, cinnamon, and salt
 
 - Add in the wet ingredients (milk, syrup, and extract). Fold with a silicone spatula until fully combined. The mix should be slightly sticky
 
-- Line a 9x5" bread pan with parchment paper, and evenly press the dough into the pan. Chill in the fridge for 3 hours before slicing.  Store in the fridge or freezer
+- Line a 9x5" bread pan with parchment paper, and evenly press the dough into the pan. Chill in the fridge for 3 hours before slicing.  Store in the fridge or freezer, wrapped in parchment paper
 ---

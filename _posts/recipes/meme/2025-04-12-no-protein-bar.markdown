@@ -23,7 +23,7 @@ Prep: 15
 Rest: 30
 Cook: 
 Source1: https://www.instagram.com/reel/C6rbYlsCn5B/?utm_source=ig_web_copy_link
-Source2: https://www.poormanprotein.com/recipes/copycat-barbell
+Source2: https://www.poormanprotein.com/recipes/copycat-barebell
 whisk: https://s.samsungfood.com/ZoiOj
 tags: 
 - protein bar
@@ -41,9 +41,10 @@ tags:
 - extra virgin coconut oil
 - unrefined coconut oil
 - barbell
+- barebell
 - quest
 - rx
-Description: This is a stupid idea I had the other day:<b></b> a <a href="/misc/protein">protein</a> bar, with no protein powder.  I've been making a ton of <a href="/recipes/copycat-barbell">Copycat Barbell Protein Bars</a> lately, and wanted to do something similar.  Instead, I'll be mixing together Greek yogurt with powdered peanut butter until I get a thick dough, chill it, and coat in chocolate. With no protein powder, these bars still have 21 g of <a href="/misc/protein">protein</a> in around 220 <a href="/misc/calories">calories</a>, with no <a href="/misc/hidden-sugar">added sugar</a> or artificial sweeteners
+Description: This is a stupid idea I had the other day:<b></b> a <a href="/misc/protein">protein</a> bar, with no protein powder.  I've been making a ton of <a href="/recipes/copycat-barebell">Copycat Barebell Protein Bars</a> lately, and wanted to do something similar.  Instead, I'll be mixing together Greek yogurt with powdered peanut butter until I get a thick dough, chill it, and coat in chocolate. With no protein powder, these bars still have 21 g of <a href="/misc/protein">protein</a> in around 220 <a href="/misc/calories">calories</a>, with no <a href="/misc/hidden-sugar">added sugar</a> or artificial sweeteners
 Instructions: 
 - In a medium bowl, mix together yogurt, vanilla, sweetener, and salt. Add the powdered peanut butter, and combine with a silicone spatula until you have a fully mixed dough
 - <center><img src="/assets/Food/Meme/No <a href="/misc/protein">protein</a> bar/bowl.jpg" alt="" class="instruction-image"></center>
