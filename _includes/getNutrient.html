@@ -22,6 +22,9 @@
 {% elsif page.title == "Flourless Keto Brownies (2 g Net Carbs)" or page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" %}
     {% assign loopVarFacts = site.data[facts] %}
     {% assign loopVarIng = site.data[ing] %}
+{% elsif page.title == "DIY Yogurt" %}
+    {% assign loopVarFacts = site.data.diy-yogurt[facts] %}
+    {% assign loopVarIng = site.data.diy-yogurt[ing] %}
 {% endif %}
 
 <!-- Show DV % -->
@@ -47,7 +50,8 @@
     page.title == "B-Ware the Deficiency: The Power of B12" or
     page.title == "Flourless Keto Brownies (2 g Net Carbs)" or
     page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" or
-    page.title == "(Vitamin) C You Later, Sickness!"
+    page.title == "(Vitamin) C You Later, Sickness!" or
+    page.title == "DIY Yogurt"
 %}
     {% assign showPercentage = "False" %}
 {% endif %}

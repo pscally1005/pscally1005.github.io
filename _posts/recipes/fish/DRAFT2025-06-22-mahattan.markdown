@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(No Longer Allowed In) Manhattan Clam Chowder"
-date:   2025-06-20 00:00:00 -05000
+date:   2025-06-22 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
