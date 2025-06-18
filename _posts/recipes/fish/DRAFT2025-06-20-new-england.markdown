@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Fish
 permalink: /recipes/new-england-clam-chowder
-image: /assets/Food/Fish/NE Clam Chowder/cover.jpg
+image: /assets/Food/Fish/NE Clam Chowder/pot.jpg
 ing: newengland-ing
 facts: newengland-facts
 servingSize: 
@@ -46,4 +46,5 @@ Instructions:
 - To the pot, add your potatoes, garlic powder, onion powder, thyme, oregano, black pepper, clam juice, and canned clams (entire can, not drained). Bring to a boil over high heat, reduce heat to medium, cover, and let simmer for 15-20 minutes, or until the potatoes are fork tender
 
 - Remove from heat, stir in the evaporated milk, and serve
+- <center><img src="/assets/Food/Fish/NE Clam Chowder/bowl.jpg" alt="" class="instruction-image"></center>
 ---

@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Fish
 permalink: /recipes/manhattan-clam-chowder
-image: /assets/Food/Fish/M Clam Chowder/cover.jpg
+image: /assets/Food/Fish/M Clam Chowder/pot.jpg
 ing: manhattan-ing
 facts: manhattan-facts
 servingSize: 
