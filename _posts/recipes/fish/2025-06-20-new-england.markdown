@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(I'm Bannd From) New England Clam Chowder"
+title:  "(I'm Banned From) New England Clam Chowder"
 date:   2025-06-20 00:00:00 -05000
 categories: 
 - Recipes
