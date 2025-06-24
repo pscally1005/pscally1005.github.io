@@ -5,7 +5,6 @@ date:   2025-06-18 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-yogurt: yes
 permalink: /recipes/oatmeal-berry-bars
 image: /assets/Food/Breakfast/Oat Berry Bar/cover-1.jpg
 ing: oatmealberrybar-ing

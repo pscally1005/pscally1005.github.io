@@ -66,4 +66,7 @@ Instructions:
 - <center><img src="/assets/Food/Healthier Dessert/Oatmeal Fudge/of-cut.jpg" alt="" class="instruction-image"></center>
 
 - To make this recipe nut free, you can use coconut flour in place of powdered peanut butter for the crust, and sunflower seed butter in place of peanut butter for the filling
+
+- For a <a href="/misc/hidden-sugar">sugar free</a> and <a href="/misc/fats">lower fat</a> version, omit the honey in the crust/crumble, and replace the filling (peanut butter, coconut oil, cocoa powder, and honey) with 6 servings of <a href="/recipes/quick-nutella">Single Serving Quick Nutella</a>.  The result is 16 bars with the following macros:<ul><li><a href="/misc/calories">Calories</a> - 105</li><li><a href="/misc/protein">Protein</a> - 6 g</li><li><a href="/misc/fats">Fat</a> - 2 g</li><li><a href="/misc/carbs">Net Carbs</a> - 14 g</li><li><a href="/misc/fiber">Fiber</a> - 5 g</li><li><a href="/misc/hidden-sugar">Added Sugar</a> - 0 g</li></ul>
+- <center><img src="/assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg" alt="" class="instruction-image"></center>
 ---

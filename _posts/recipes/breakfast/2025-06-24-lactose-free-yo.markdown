@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Lactose Free, Sugar Free, Vanilla Greek Yogurt"
-date:   2025-06-08 00:00:00 -0500
+date:   2025-06-24 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Hidden
 yogurt: yes
 permalink: /recipes/lactose-free-yogurt
-image: /assets/Food/Breakfast/Lactose Free Yogurt/cover.jpg
+image: /assets/Food/Breakfast/Lactose Free Yogurt/cover-1.jpg
 ing: lactosefreeyog-ing
 facts: lactosefreeyog-facts
 servingSize: 3/4 cup (170 g)
@@ -36,7 +35,10 @@ tags:
 - granulated monk fruit
 - vanilla extract
 - vic
+- copycat
+- homemade
 Description: Chobani sells <a href="https://amzn.to/43NZ2On">this</a> lactose free, <a href="/misc/hidden-sugar">sugar</a> free, <a href="/misc/fats">fat</a> free, vanilla Greek yogurt.  It also comes in strawberry for the large containers, and a variety of other flavors for single serving packs.  But they're often out of stock or quite expensive.  So instead, I'm going to recreate the vanilla version.  The base is cheaper store-brand plain nonfat Greek yogurt, with some added sweetener, vanilla extract, and lactase enzyme.  This breaks down the milk sugar lactose, making it safe for people with lactose intolerance.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>
 Instructions: 
 - Mix all ingredients together in a large bowl, and store in the fridge
+- <center><img src="/assets/Food/Breakfast/Lactose Free Yogurt/bowl.jpg" alt="" class="instruction-image"></center>
 ---
