@@ -122,6 +122,8 @@ def ingredients(food):
         return str("Sesame oil")
     elif food == "Vinegar, distilled" or food == "White distilled vinegar by FAREWAY" or food == "Distilled white vinegar by Raley's" or food == "White wine vinegar by CIRIO" or food == "Distilled white vinegar by HYTOR" or food == "Distilled white vinegra by OLIO":
         return str("White vinegar")
+    elif food == "Vinegar, red wine":
+        return str("Red wine vinegar")
     elif food == "Vinegar, cider" or food == "Apple cider vinegar by BRAGG":
         return str("Apple cider vinegar")
     elif food == "Italian dressing, fat free" or food == "Salad dressing, fat-free, italian dressing":

@@ -11,10 +11,10 @@ ing: bananaprotein-ing
 facts: bananaprotein-facts
 servingSize: 1 slice
 section1: Wet
-start2: Cinnamon
+start2: Oat flour
 section2: Dry
-start3: Baking powder
-section3: Leaveners
+start3: 
+section3: 
 start4: 
 section4: 
 start5: 
@@ -22,8 +22,8 @@ section5:
 Prep: 10
 Rest: 
 Cook: 60
-Source1: 
-Source2: 
+Source1: https://www.poormanprotein.com/recipes/pumpkin-bread
+Source2: https://www.poormanprotein.com/recipes/apple-bread
 whisk: https://s.samsungfood.com/tqhWW
 tags: 
 - banana bread
@@ -41,23 +41,23 @@ tags:
 - cake
 - bread
 - food processor
-Description: If you want to have <a href="/misc/fake-healthy-foods#banana-bread">banana bread</a> for breakfast or a dessert, this recipe works as a great way to satisfy that craving while still hitting your <a href="/misc/protein">protein</a> needs. This healthy cake has some healthy <a href="/misc/fats">fats</a> in chia seeds and peanut butter, and is free of added sugars and artificial sweeteners.  Some similar recipes are my <a href="apple-bread">Protein Apple Bread</a> or <a href="pumpkin-bread">Protein Pumpkin Loaf</a>, which you should totally try
+Description: If you want to have <a href="/misc/fake-healthy-foods#banana-bread">banana bread</a> for breakfast or a dessert, this recipe works as a great way to satisfy that craving while still hitting your <a href="/misc/protein">protein</a> needs. This healthy cake has some healthy <a href="/misc/fats">fats</a> in the chia seeds and peanut butter, and is free of <a href="/misc/hidden-sugar">added sugars</a> and <a href="/misc/fake-healthy-foods#sugar-substitutes">artificial sweeteners</a>.  Some similar recipes are my <a href="/recipes/apple-bread">Protein Apple Bread</a> or <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a>, which you should totally try
 Instructions: 
-- Preheat your oven to 350F, and line a bread pan with parchment paper. Lightly spray the parchment paper with oil
+- Preheat your oven to 350F.  Line a 9x5" bread pan with parchment paper, and lightly grease the paper
 
-- I've used 1 tsp (5 g) of liquid monk fruit here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (42 g) honey, or 2 tbsp (40 g) maple syrup
+- In a large bowl, whisk together all the wet ingredients until well combined - mashed banana, nut butter, sweetener, and milk (or water)
 
-- Combine all ingredients together in a food processor until you have a smooth, liquid batter. Add in the baking soda and baking powder last, once the batter has already formed, in order to make sure the cake rises properly.  Transfer the batter to your pan
+- In a separate large bowl, whisk together all the dry ingredients until well combined - oat flour, whey protein, powdered peanut butter, chia seeds, baking powder, cinnamon, baking soda, and salt
 
-- You can also combine ingredients together in a bowl.  Just mash the bananas with a fork or potato masher, and mix with the wet ingredients.  Add the dry ingredients on top, and mix.  Mix in the leaveners (baking powder and baking soda), and transfer the batter to the pan
+- I've used 1 tsp (5 g) of liquid monk fruit here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/sugar free syrup, or 2 tbsp (25 g) granulated monk fruit
 
-- Optionally top with some blueberries, chocolate chips, or nuts (or can fold into the batter)
+- Note that my powdered peanut butter is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
 
-- Bake for 1 hour at 350F. The cake should be about 205F, and a toothpick to the center will come out clean
+- Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped nuts or chocolate chips (1/2 cup, 85 g).  Transfer the batter to the pan
 
-- Let cool on a wire rack, then transfer to a fridge in a bag or container
+- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing.  Transfer to a fridge in a bag or container
 - <center><img src="/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg" alt="" class="instruction-image"></center>
 
-- You can also bake in a parchment lined, lightly oiled, 9" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F, or until the internal temperature is around 205F
-- <center><img src="/assets/Food/Protein Powder/Banana Protein/banana-protein-square-1.jpg" alt="" class="half-page"><img src="/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg" alt="" class="half-page"></center>
+- You can also bake in a parchment lined, lightly oiled, 9" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the internal temperature is around 205F
+- <center><img src="/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg" alt="" class="instruction-image"></center>
 ---

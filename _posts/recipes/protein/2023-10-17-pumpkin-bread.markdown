@@ -10,9 +10,9 @@ image: /assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-cover.jpg
 ing: pumpkinbread-ing
 facts: pumpkinbread-facts
 servingSize: 1 slice
-section1: 
-start2: 
-section2: 
+section1: Wet
+start2: Oat flour
+section2: Dry
 start3: 
 section3: 
 start4: 
@@ -22,8 +22,8 @@ section5:
 Prep: 10
 Rest: 
 Cook: 60
-Source1: https://www.youtube.com/watch?v=MjLAaG4PTis
-Source2: 
+Source1: https://www.poormanprotein.com/recipes/banana-protein
+Source2: https://www.poormanprotein.com/recipes/apple-bread
 whisk: https://s.samsungfood.com/MWkn4
 tags: 
 - pumpkin spice
@@ -47,12 +47,20 @@ tags:
 - oats
 - oat flour
 - nutmeg
-Description: Fall season means pumpkin season, and this pumpkin loaf is full of <a href="/misc/protein">protein</a>, and with a good amount of <a href="/misc/fiber">fiber</a> and healthy <a href="/misc/fats">fats</a> too. It's a great breakfast or dessert that I think you'll enjoy.  You should also try my other fruity <a href="/misc/protein">protein</a> cakes, such as <a href="banana-protein">Protein Banana Nut Bread</a>, <a href="apple-bread">Protein Apple Bread</a>, or <a href="carrot-cake">Layered Protein Carrot Cake</a>.  For more pumpkin recipes, see my <a href="pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a>, <a href="pancake">Pumpkin Protein Pancakes</a>, or <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>
+Description: Fall season means pumpkin season, and this pumpkin loaf is full of <a href="/misc/protein">protein</a>, and with a good amount of <a href="/misc/fiber">fiber</a> and healthy <a href="/misc/fats">fats</a> too. It's a great breakfast or dessert that I think you'll enjoy.  You should also try my other fruity <a href="/misc/protein">protein</a> cakes, such as <a href="/recipes/banana-protein">Protein Banana Nut Bread</a>, <a href="/recipes/apple-bread">Protein Apple Bread</a>, or <a href="/recipes/carrot-cake">Layered Protein Carrot Cake</a>.  For more pumpkin recipes, see my <a href="/recipes/pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a>, <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>, or <a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>
 Instructions: 
-- Blend all ingredients together in a food processor until smooth - canned pumpkin puree, quick oats, whey, powdered peanut butter, chia seeds, peanut butter, baking powder, cinnamon, liquid monk fruit, ginger, nutmeg, baking soda, and water
+- Preheat your oven to 350F.  Line a 9x5" bread pan with parchment paper, and lightly grease the paper
 
-- Transfer batter to a bread pan lined with parchment paper
+- In a large bowl, whisk together all the wet ingredients until well combined - pumpkin puree, nut butter, sweetener, and water (or milk)
 
-- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean. Let cook on a wire rack before slicing
+- In a separate large bowl, whisk together all the dry ingredients until well combined - oat flour, whey protein, powdered peanut butter, chia seeds, baking powder, cinnamon, baking soda, ginger, salt, and nutmeg
+
+- I've used 1 tsp (5 g) of liquid monk fruit here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/sugar free syrup, or 2 tbsp (25 g) granulated monk fruit
+
+- Note that my powdered peanut butter is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
+
+- Add the dry ingredients to the wet, and mix until just fully combined.  Transfer the batter to the pan
+
+- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing
 - <center><img src="/assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-3.jpg" alt="" class="instruction-image"></center>
 ---

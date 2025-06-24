@@ -43,8 +43,8 @@ Shredded mozzarella cheese,7.27,908.00,0.00801,27.00,4.35,TRUE,TRUE,FALSE,FALSE,
 "Shredded mozzarella cheese, low moisture part skim",7.27,908.00,0.00801,27.00,4.35,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 "Casein protein powder, unflavored",60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kBnsQM,0.0,0.0
 Casein protein powder,60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kBnsQM,0.0,0.0
-"Casein protein powder, chocolate",60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-"Casein protein powder, vanilla",60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
+"Casein protein powder, chocolate",60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/44hZio8,0.0,0.0
+"Casein protein powder, vanilla",60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/44hu28y,0.0,0.0
 Nutricost Casein Unflavored Protein Powder,60.26,"2,270.00",0.02655,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kBnsQM,0.0,0.0
 Garlic powder,1.12,95.20,0.01176,30.00,72.73,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Onion powder,1.98,140.00,0.01414,15.00,79.12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
@@ -63,8 +63,8 @@ Egg,4.50,918.00,0.00490,0.00,0.00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
 Coconut flour,6.57,"1,008.00",0.00652,51.00,57.14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3SSE6zA,0.0,0.0
 "Whey protein powder, unflavored",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kBoGeY,0.0,0.0
 Whey protein powder,50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kBoGeY,0.0,0.0
-"Whey protein powder, chocolate",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
-"Whey protein powder, vanilla",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,,0.0,0.0
+"Whey protein powder, chocolate",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/3HXUMDC,0.0,0.0
+"Whey protein powder, vanilla",50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4llkGj5,0.0,0.0
 Nutricost Whey Unflavored Protein Powder,50.96,"2,270.00",0.02245,24.00,2.50,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,https://amzn.to/4kBoGeY,0.0,0.0
 Apple cider vinegar,2.32,896.00,0.00259,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Almond butter,3.99,454.00,0.00879,10.00,21.55,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,/recipes/natural-peanut-butter,0.0,0.0
@@ -403,3 +403,4 @@ Hot honey,3.94,360.00,0.01094,60.80,77.00,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,/
 "Dill, dried",2.08,21.23,0.09800,36.00,55.82,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Frozen corn,2.48,"1,811.20",0.00137,38.00,20.71,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Clam juice,1.69,227.00,0.00744,0.00,0.00,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,https://amzn.to/45aW8o9,0.0,0.0
+Red wine vinegar,2.84,480.00,0.00592,0.00,0.27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
