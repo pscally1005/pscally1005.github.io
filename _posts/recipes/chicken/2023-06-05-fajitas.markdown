@@ -6,13 +6,13 @@ categories:
 - Recipes
 - Chicken
 permalink: /recipes/fajitas
-image: /assets/Food/Chicken/Fajitas/fajita-cover.jpg
+image: /assets/Food/Chicken/Fajitas/cover-new.jpg
 ing: fajitas-ing
 facts: fajitas-facts
 servingSize: 
-section1: Chicken Marinade
-start2: Bell pepper
-section2: Onions & Peppers
+section1: Veggies
+start2: Boneless skinless chicken breast
+section2: Chicken
 start3: 
 section3: 
 start4: 
@@ -41,17 +41,16 @@ tags:
 - salsa
 - tropical
 - vic
-Description: Fajitas are a go to meal as they're a fun way to build your own food at the table. We'll have some sauteed chicken and peppers, along with rice, beans, cheese, tortillas, lettuce, and <a href="tropical-salsa">Tropical Fruit Salsa</a>. Make tacos, or make it into a bowl, and mix it up as you see fit.
+Description: Fajitas are a go to meal, as they're a fun way to build your own food at the table. We'll have some sauteed chicken and peppers, along with rice, beans, cheese, tortillas, lettuce, and <a href="/recipes/tropical-salsa">Tropical Fruit Salsa</a>. Make tacos, or make it into a bowl, and mix it up as you see fit.  Both the chicken and the veggies utilize a <a href="/recipes/italian-dressing">Homemade Sugar Free Italian Dressing</a> in their marinades, in addition to lime juice and hot sauce
 Instructions:
-- Cut up the peppers and onions and add them to a large skillet. Dice up the chicken and add to a large bowl
+- Cut your peppers and onions into long thin strips, and add to a large bowl.  Mix with the marinade ingredients - <a href="/recipes/italian-dressing">Italian dressing</a>, hot sauce, lime juice, and olive oil
 
-- Prepare the marinade in a bowl and mix with the diced chicken - Italian dressing, hot sauce, lime, oil, thyme, allspice, nutmeg, and cinnamon
+- Cut your chicken into small, bite sized cubes, and add to a large bowl.  Mix with the marinade ingredients - <a href="/recipes/italian-dressing">Italian dressing</a>, hot sauce, lime juice, olive oil, thyme, allspice, nutmeg, and cinnamon
 
-- Cook the peppers, onions, and seasoning (oil, Italian dressing, hot sauce, lime, and thyme) over medium heat until fully cooked. Set aside
+- You can either cook the vegetables and chicken right away, or leave them in the fridge for a few hours to marinate
 
-- Cook the chicken over medium heat until fully cooked
+- Heat 2 large pans over medium heat.  Add the peppers & onions to one pan, and the chicken to another, and cover both with a lid.  Cook the chicken to 165F, and the veggies until soft and lightly browned, about 10 minutes
 
-- Add in the peppers and onion and mix
-
-- Serve with <a href="rice-and-beans">Classic Rice and Beans</a>, and <a href="tortilla">Oat-Wheat Tortillas</a>, or over a salad
+- Serve with sides of <a href="/recipes/rice-and-beans">Classic Rice and Beans</a>, and <a href="/recipes/tortilla">Oat-Wheat Tortillas</a>, and <a href="/recipes/tropical-salsa">Tropical Fruit Salsa</a>
+- <center><img src="/assets/Food/Chicken/Fajitas/fajita-cover-old.jpg" alt="" class="instruction-image"></center>
 ---

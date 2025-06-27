@@ -39,10 +39,10 @@ tags:
 - olive oil
 Description: As someone who eats a lot of salad, you may be surprised to hear that I don't use bottled salad dressing.  That's because these are often filled with inflammatory seed oils, tons of <a href="/misc/hidden-sugar">added sugar</a>, preservatives you can't pronounce, and artificial food dyes. Instead, you can make your own balsamic that contains healthy <a href="/misc/fats">fats</a> from olives and walnuts, and natural sweetness from dates.  For a similar recipe, make my <a href="/recipes/italian-dressing">Homemade Sugar Free Italian Dressing</a>, or you can check out any of my other <a href="/salad-dressings">salad dressings</a>!
 Instructions: 
-- Add all ingredients to a blender or food processor, and blend until smooth
+- Soak the walnuts and dates in warm water for 10 minutes.  Add all ingredients to a blender or food processor, and blend until smooth.  It should be pretty thick
 - <center><img src="/assets/Food/Savory Sauces/Vinaigrette/processor.jpg" alt="" class="instruction-image"></center>
 ---
-<br>Below is a table comparing the nutrition facts of my homemade dressing to a <a href="https://www.walmart.com/ip/Ken-s-Steak-House-Balsamic-Vinaigrette-Salad-Dressings-16-fl-oz/10307556?classType=VARIANT&from=/search">standard bottle of balsamic vinaigrette</a> per serving (2 tbsp).  As you can see, the homemade version contains less <a href="/misc/calories">calories</a> and <a href="/misc/fats">unhealthy fats</a>, more <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, and no <a href="/misc/hidden-sugar">added sugar</a><br>
+<br>Below is a table comparing the nutrition facts of my homemade dressing to a <a href="https://www.walmart.com/ip/Ken-s-Steak-House-Balsamic-Vinaigrette-Salad-Dressings-16-fl-oz/10307556?classType=VARIANT&from=/search">standard bottle of balsamic vinaigrette</a> per serving (2 tbsp, 30 g).  As you can see, the homemade version contains less <a href="/misc/calories">calories</a> and <a href="/misc/fats">unhealthy fats</a>, more <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, and no <a href="/misc/hidden-sugar">added sugar</a><br>
 <table>
     <thead>
         <tr>

@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Tropical Fruit Salsa"
+date:   2023-06-26 00:00:00 -05000
+categories: 
+- Recipes
+- Savory Sauces
+- Hidden
+permalink: /recipes/tropical-salsa
+image: /assets/Food/Savory Sauces/Tropical Salsa/salsa.jpg
+ing: tropical-ing
+facts: tropical-facts
+servingSize: 2 tbsp (30 g)
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 20
+Rest: 
+Cook: 
+Source1: 
+Source2: 
+whisk: https://s.samsungfood.com/MCnqJ
+tags: 
+- pineapple
+- mango
+- salsa
+- fajita
+- onion
+- thyme
+- chips
+- tortilla
+- mexican
+- vic
+Description: This sweet, sour, and spicy tropical fruit salsa is perfect topping for <a href="/recipes/fajitas">Chicken Fajitas with Peppers</a>. It features finely diced pineapple, mango, and red onion, flavored with hot sauce, lime juice, and a <a href="/recipes/italian-dressing">Homemade Sugar Free Italian Dressing</a>. 
+Instructions: 
+- Finely dice your pineapple, mango, and onion, and add to a large bowl
+
+- Mix with the remaining ingredients - <a href="/recipes/italian-dressing">Italian dressing</a>, hot sauce, lime juice, cilantro (or parsley), thyme, allspice, nutmeg, and cinnamon
+---
