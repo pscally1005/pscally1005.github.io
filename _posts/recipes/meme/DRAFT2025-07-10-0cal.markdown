@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Zero Calorie Cookies"
+date:   2025-07-10 00:00:00 -05000
+categories: 
+- Recipes
+- Meme Recipes
+permalink: /recipes/zero-calorie-cookies
+image: /assets/Food/Meme/0 Cal/cover.jpg
+ing: 0cal-ing
+facts: 0cal-facts
+servingSize: 1 cookie
+section1: 
+start2: 
+section2: 
+start3: 
+section3: 
+start4: 
+section4: 
+start5: 
+section5: 
+Prep: 20
+Rest: 
+Cook: 12
+Source1: https://www.poormanprotein.com/recipes/styrofoam-cookies
+Source2: 
+whisk: https://s.samsungfood.com/g4yjg
+tags: 
+- dylan b. hollis
+- dylan hollis
+- baking yesteryear
+- egg white
+- sugar free
+- macaroon
+- meringue
+- granulated monk fruit
+- zero calories
+Description: No this isn't a joke (okay maybe it is a little bit).  But with just 2 ingredients and a little bit of rounding, you can make 0 calorie cookies.  I've taken my <a href="/recipes/styrofoam-cookies">Nut Butter Styrofoam Cookies</a> and just removed the peanut butter.  These dead simple meringue cookies use just egg whites and granulated monk fruit for a light and tasty cookie with a cloud like texture
+Instructions: 
+- Preheat your oven to 325F, and line a cookie sheet with parchment paper
+
+- In a large bowl, beat your egg white with a hand mixer until stiff peaks form, about 2 minutes. Gradually beat in the sweetener until you have glossy peaks
+- <center><img src="/assets/Food/Meme/0 Cal/egg-white.jpg" alt="" class="instruction-image"></center>
+
+- Optionally, mix in some cocoa powder for a chocolate cookie.  I'm going with 1 tbsp (5 g) of cocoa powder in half the batch, and leaving the other half white.  Note that adding cocoa will <b>double</b> the calories to a whole <b>3</b>.  Oh the horror!
+
+- Use a spoon to dollop the cookies onto the tray
+- <center><img src="/assets/Food/Meme/0 Cal/raw.jpg" alt="" class="instruction-image"></center>
+
+- Bake at 325F for about 12 minutes, or until lightly golden brown. They will feel very soft, but will harden on the tray. Let cool for at least 30 minutes before removing
+- <center><img src="/assets/Food/Meme/0 Cal/baked.jpg" alt="" class="instruction-image"></center>
+---
+<table>
+    <thead>
+        <tr>
+            <th>Nutrient</th>
+            <th>White<br>(No Cocoa)</th>
+            <th>Black<br>(With Cocoa)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/misc/calories">Calories</a></td>
+            <td>1.3</td>
+            <td>3.0</td>
+        </tr>
+        <tr>
+            <td><a href="/misc/protein">Protein</a></td>
+            <td>0.3 g</td>
+            <td>0.4 g</td>
+        </tr>
+        <tr>
+            <td><a href="/misc/fats">Fat</a></td>
+            <td>0.0 g</td>
+            <td>0.1 g</td>
+        </tr>
+        <tr>
+            <td><a href="/misc/carbs">Net Carbs</a></td>
+            <td>0.0 g</td>
+            <td>0.2 g</td>
+        </tr>
+        <tr>
+            <td><a href="/misc/fiber">Fiber</a></td>
+            <td>0.0 g</td>
+            <td>0.3 g</td>
+        </tr>
+    </tbody>
+</table>
