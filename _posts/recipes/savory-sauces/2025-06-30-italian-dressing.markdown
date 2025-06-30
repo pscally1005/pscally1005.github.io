@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Homemade Sugar Free Italian Dressing"
-date:   2025-06-24 00:00:00 -05000
+date:   2025-06-30 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
-- Hidden
 dressing: yes
 permalink: /recipes/italian-dressing
 image: /assets/Food/Savory Sauces/Italian dressing/cover-1.jpg
