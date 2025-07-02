@@ -48,7 +48,7 @@ Instructions:
 
 - In a large bowl, mash your banana with the back of a fork. Mix in the rest of the crust ingredients - whey, casein, oat flour, cornstarch, monk fruit/stevia, cinnamon, baking powder, and optionally a dash of butter extract
 
-- Spread the crust onto the bottom of the pan with a silicone spatula. Make sure the crust is even, and spreads to all sides
+- Spread the crust onto the bottom of the pan with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. Make sure the crust is even, and spreads to all sides
 - <center><img src="/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-3.jpg" alt="" class="instruction-image"></center>
 
 - In your large bowl, mix together the filling ingredients (pumpkin puree, eggs, water, cinnamon, ginger, salt, nutmeg, cloves, yogurt, monk fruit or stevia, vanila, and whey). You can add a little butter extract to the filling if you want (as well as the crust)

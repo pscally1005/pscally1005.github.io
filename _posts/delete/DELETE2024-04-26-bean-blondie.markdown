@@ -55,7 +55,7 @@ Instructions:
 
 - These blondies are naturally sweetened with dates. Using the same amount by weight of raisins or figs would also work as a replacement for dates. For a lower <a href="/misc/hidden-sugar">sugar</a> option, replace both the dates and the milk with overripe bananas, about 3 large or 330 g
 
-- Transfer the batter to the pan. Using a silicone spatula, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
+- Transfer the batter to the pan. Using a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <center><img src="/assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-5.jpg" alt="" class="instruction-image"></center>
 
 - Bake at 350F for 20-25 minutes, or until a toothpick comes out fairly clean. A few crumbs left is generally ok. The blondies will firm up much more as they cool, so they should look a bit underdone

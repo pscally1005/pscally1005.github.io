@@ -55,7 +55,7 @@ Instructions:
 
 - I've recently found these no sugar dark chocolate chips by <a href="https://www.walmart.com/ip/Bake-Believe-Keto-Friendly-Dark-Chocolate-Chips-9-oz-Pouch/314343390?athbdg=L1600&from=/search">Bake Believe</a> at Walmart that are my favorite sugar free chocolate chips.  They use erythritol and stevia, and are cheaper than any other sugar free chocolate chip brand I've seen (sometimes they're even cheaper than the fancy brands of regular sugar filled chocolate chips).  They also come in milk chocolate and semi sweet varieties.  Not an ad; just a fan
 
-- Line an 9" square baking pan with parchment paper, and lightly spray the paper.  Transfer the batter to the pan with a silicone spatula, smoothing out the top.  Optionally, top with a few extra chocolate chips
+- Line an 9" square baking pan with parchment paper, and lightly spray the paper.  Transfer the batter to the pan with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>, smoothing out the top.  Optionally, top with a few extra chocolate chips
 - <center><img src="/assets/Food/Healthier Dessert/Sw Pot Blondies/blondies-raw.jpg" alt="" class="instruction-image"></center>
 
 - Bake in a preheated 350F oven for about 20 minutes, or until lightly golden brown and set. A toothpick should come out almost clean, and the internal temperature will be around 190F

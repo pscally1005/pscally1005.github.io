@@ -61,7 +61,7 @@ Instructions:
 - Bake the crust for 10 minutes at 350F, then cool for at least 5 minutes
 - <center><img src="/assets/Food/Healthier Dessert/7 Layer/crust.jpg" alt="" class="instruction-image"></center>
 
-- As the milk boils and crust bakes, prepare your chocolate. Line a small glass container with parchment paper, and set aside. Combine cocoa powder, melted coconut oil, and allulose with a silicone spatula. Pour into the parchment lined pan, and freeze for at least 15 minutes to harden
+- As the milk boils and crust bakes, prepare your chocolate. Line a small glass container with parchment paper, and set aside. Combine cocoa powder, melted coconut oil, and allulose with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. Pour into the parchment lined pan, and freeze for at least 15 minutes to harden
 
 - Roughly chop your chocolate and your nuts (any 2 different kinds of nuts will do). Combine together with coconut flakes in a medium bowl
 - <center><img src="/assets/Food/Healthier Dessert/7 Layer/bowl.jpg" alt="" class="instruction-image"></center>

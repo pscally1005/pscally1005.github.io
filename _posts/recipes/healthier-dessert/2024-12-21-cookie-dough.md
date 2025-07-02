@@ -42,7 +42,7 @@ tags:
 - healthy
 Description: Who else agrees that raw cookie dough is better than the actual baked cookies?  This cookie dough is gluten free, lower in <a href="/misc/hidden-sugar">sugar</a> and <a href="/misc/fats">fat</a>, and vegan (depending on your chocolate).  Instead of butter, <a href="/misc/hidden-sugar">sugar</a>, and flour, I've used cashew butter, honey, and oat flour for a more wholesome dessert that's just as delicious.  If instead you prefer baked cookies, check out my <a href="/recipes/date-cookies">Almond Flour Cookies</a> or <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
-- Melt your cashew butter and coconut oil (or olive oil) in the microwave for about 45 seconds in a glass bowl. Stir in the honey, vanilla, and salt with a silicone spatula. Mix in the oat flour until fully incorporated and slightly sticky. 
+- Melt your cashew butter and coconut oil (or olive oil) in the microwave for about 45 seconds in a glass bowl. Stir in the honey, vanilla, and salt with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. Mix in the oat flour until fully incorporated and slightly sticky. 
 
 - Chill the dough in the fridge for at least 15 minutes before folding in the chocolate chips.  I've made the mistake before of mixing in the chocolate right away, which causes it to melt, since the nut butter was warmed up
 

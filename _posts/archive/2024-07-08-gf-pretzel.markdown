@@ -50,7 +50,7 @@ Instructions:
 
 - In a large bowl, whisk together the dry ingredients - coconut flour, whey, baking powder, salt, garlic powder, and onion powder
 
-- Add the wet ingredients on top, and mix together with a silicone spatula until fully combined - eggs, apple cider vinegar, applesauce, and shredded cheese
+- Add the wet ingredients on top, and mix together with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until fully combined - eggs, apple cider vinegar, applesauce, and shredded cheese
 - <center><img src="/assets/Food/Bread/GF Pretzel/gf-pretzel-bowl.jpg" alt="" class="instruction-image"></center>
 
 - Liberally grease a pretzel pan with oil, and spoon the batter into the pan. Smooth out the tops with a spoon. Lightly spray the tops with oil, and sprinkle the tops with everything bagel seasoning

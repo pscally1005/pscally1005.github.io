@@ -58,7 +58,7 @@ Instructions:
 
 - If you're out of yogurt, you can instead double the nut butter (1/2 cup, 128 g) and eggs (2 large eggs)
 
-- Pour the wet ingredients into the dry and mix just until smooth with a silicone spatula. Optionally fold in some chocolate chips
+- Pour the wet ingredients into the dry and mix just until smooth with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. Optionally fold in some chocolate chips
 
 - Liberally grease a mini muffin pan with oil.  Evenly spoon the batter into the muffin holes.  This recipe makes 40 mini muffins; I had to bake in 2 batches
 - <center><img src="/assets/Food/Breakfast/Banana Bread/bb-raw.jpg" alt="" class="instruction-image"></center>

@@ -47,7 +47,7 @@ Description: <a href="/misc/fake-healthy-foods#granola">Granola bars</a> that ar
 Instructions: 
 - Optional, but highly recommended - toast your oats and roughly chopped nuts in a dry pan over medium heat for about 5 minutes, or until lightly browned and fragrant. This step brings out even more flavor from the nuts and the oats
 
-- In a large bowl, mash your banana with the back of a fork until smooth. Unsweetened applesauce will work as well in place of banana. Add in the rest of the ingredients, and fold together with a silicone spatula
+- In a large bowl, mash your banana with the back of a fork until smooth. Unsweetened applesauce will work as well in place of banana. Add in the rest of the ingredients, and fold together with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>
 - <center><img src="/assets/Food/Finger Food/Granola Bar/granola-bar-2.jpg" alt="" class="instruction-image"></center>
 
 - Line an 9" square baking pan with parchment paper, and press in the granola mixture. Spread to all sides, and flatten to an even thickness

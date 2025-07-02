@@ -53,7 +53,7 @@ Instructions:
 
 - Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use pumpkin seed or sunflower seed butter
 
-- Pour the wet ingredients into the dry, and combine with a silicone spatula.  Fold in the chocolate chips
+- Pour the wet ingredients into the dry, and combine with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>.  Fold in the chocolate chips
 - <center><img src="/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg" alt="" class="instruction-image"></center>
 
 - Transfer the batter to the lined pan, and optionally top with a few extra chocolate chips

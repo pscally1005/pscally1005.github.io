@@ -62,7 +62,7 @@ Instructions:
 
 - Oat, coconut, or almond flours can be used in place of powdered peanut butter. If using coconut flour, cut the amount in half; keep it the same for almond or oat flours
 
-- In your pan, spread 2/3 of the oat mixture (320 g) in an even layer to all edges.  Either use a silicone spatula, or lightly wet your hands to prevent sticking
+- In your pan, spread 2/3 of the oat mixture (320 g) in an even layer to all edges.  Either use a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>, or lightly wet your hands to prevent sticking
 - <center><img src="/assets/Food/Breakfast/Oat Berry Bar/bottom.jpg" alt="" class="instruction-image"></center>
 
 - Spread your jam on top of the oatmeal base

@@ -66,5 +66,5 @@ Instructions:
 - <center><img src="/assets/Food/Meme/Mac & Cheese/fake-mac-9.jpg" alt="" class="instruction-image"></center>
 
 - I've also done the exact same concept with my <a href="/recipes/avocado-pesto">Avocado Pesto - Vegan and Oil Free</a>, which was just as delicious and simple.  Go check it out!
-- <center><img src="/assets/Food/Savory Sauces/Avo Pesto/spaghetti-squash-pesto.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Savory Sauces/Avo Pesto/spaghetti-squash.jpg" alt="" class="instruction-image"></center>
 ---

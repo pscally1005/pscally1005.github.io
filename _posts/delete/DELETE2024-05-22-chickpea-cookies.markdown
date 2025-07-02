@@ -57,7 +57,7 @@ Instructions:
 
 - Meanwhile, move into the cookie dough.  To a food processor, add your (drained and rinsed) chickpeas, syrup, and vanilla.  Maple syrup or honey can be used in place of sugar free syrup.  Blend until smooth, and transfer to a large bowl
 
-- Mix the rest of the cookie dough ingredients (nut butter, salt, baking powder, and coconut flour) with a silicone spatula until fully combined.  I've used natural peanut butter, but almond butter, pistachio butter, sunflower seed butter, or pumpkin seed butter would also work.  Oat or almond flour would probably work instead of coconut, but start with at least double by weight, and go on feel.  The dough should be slightly sticky
+- Mix the rest of the cookie dough ingredients (nut butter, salt, baking powder, and coconut flour) with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until fully combined.  I've used natural peanut butter, but almond butter, pistachio butter, sunflower seed butter, or pumpkin seed butter would also work.  Oat or almond flour would probably work instead of coconut, but start with at least double by weight, and go on feel.  The dough should be slightly sticky
 
 - Let chill in the fridge for 15 minutes to cool down. The mix may warm up as it blends, so chilling it prevents the chocolate from melting
 

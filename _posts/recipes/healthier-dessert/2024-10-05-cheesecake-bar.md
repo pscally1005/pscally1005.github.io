@@ -53,7 +53,7 @@ tags:
 - coconut flour
 Description: These cheesecake bars don't even require you to have an oven. It has mildly sweet banana and honey oatmeal crust, filling with Greek yogurt that's flavored by natural peanut butter and dates, and all topped by melted dark chocolate and chopped peanuts. No bake not only makes the recipe easier, but it preserves all the probiotics in the yogurt, making this a great fermented food at dessert time. For having no protein powder, this dessert is high in <a href="/misc/protein">protein</a>, as well as a good source of healthy <a href="/misc/fats">fats</a>, <a href="/misc/fiber">fiber</a>, and complex <a href="/misc/carbs">carbs</a>.
 Instructions: 
-- In a bowl, mash a banana with the back of a fork. Combine together the rest of the crust ingredients with a silicone spatula - honey, cinnamon, vanilla, coconut flour, and rolled oats. Mix until well combined
+- In a bowl, mash a banana with the back of a fork. Combine together the rest of the crust ingredients with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> - honey, cinnamon, vanilla, coconut flour, and rolled oats. Mix until well combined
 - <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-bowl.jpg" alt="" class="instruction-image"></center>
 
 - Line an 9" square pan with parchment paper. Evenly press your crust into the pan. Freeze to set as you prepare the filling
@@ -62,7 +62,7 @@ Instructions:
 - In a food processor, blend together peanut butter and dates until all the dates are fully chopped. Add in the yogurt and vanilla, and blend until smooth and fully combined
 - <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-processor.jpg" alt="" class="instruction-image"></center>
 
-- Use a silicone spatula to evenly spread the filling on top of the oatmeal crust. Freeze for a few minutes to harden as you prepare the topping
+- Use a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> to evenly spread the filling on top of the oatmeal crust. Freeze for a few minutes to harden as you prepare the topping
 - <center><img src="/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-pan.jpg" alt="" class="instruction-image"></center>
 
 - In a small bowl, combine together roughly chopped chocolate with water. Microwave in 30 second intervals, stirring in between, until you have a smooth ganache

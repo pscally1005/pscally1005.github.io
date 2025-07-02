@@ -25,6 +25,9 @@
 {% elsif page.title == "DIY Yogurt" %}
     {% assign loopVarFacts = site.data.diy-yogurt[facts] %}
     {% assign loopVarIng = site.data.diy-yogurt[ing] %}
+{% elsif page.title == "Cottage Cheese Flatbread" %}
+    {% assign loopVarFacts = site.data.cc-flatbread[facts] %}
+    {% assign loopVarIng = site.data.cc-flatbread[ing] %}
 {% endif %}
 
 <!-- Show DV % -->
@@ -51,7 +54,8 @@
     page.title == "Flourless Keto Brownies (2 g Net Carbs)" or
     page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" or
     page.title == "(Vitamin) C You Later, Sickness!" or
-    page.title == "DIY Yogurt"
+    page.title == "DIY Yogurt" or
+    page.title == "Cottage Cheese Flatbread"
 %}
     {% assign showPercentage = "False" %}
 {% endif %}

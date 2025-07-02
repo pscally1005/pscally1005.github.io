@@ -56,14 +56,14 @@ Instructions:
 
 - The brownie layer is naturally sweetened with dates. Using the same amount by weight of raisins or figs would also work as a replacement for dates. For a lower <a href="/misc/hidden-sugar">sugar</a> option, replace both the dates and the milk with overripe bananas, about 1.5 large or 165 g
 
-- Transfer the brownie batter to the pan. Using a silicone spatula, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
+- Transfer the brownie batter to the pan. Using a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <center><img src="/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-5.jpg" alt="" class="instruction-image"></center>
 
 - Moving on to the blondie layer, repeat the same steps with the blondie ingredients - chickpeas, oat flour, dates, peanut butter, baking powder, milk, and vanilla.  For a nut free replacement, you can use the same amount by weight (64 g) of any seed butter (pumpkin seed or sunflower seed), or half an overripe banana
 
 - The blondie layer is naturally sweetened with dates. Using the same amount by weight of raisins or figs would also work as a replacement for dates. For a lower <a href="/misc/hidden-sugar">sugar</a> option, replace both the dates and the milk with overripe bananas, about 1.5 large or 165 g
 
-- Transfer the blondie batter to the pan on top of the brownies. Using a silicone spatula, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
+- Transfer the blondie batter to the pan on top of the brownies. Using a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <center><img src="/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-8.jpg" alt="" class="instruction-image"></center>
 
 - Bake at 350F for about 20-25 minutes, or until a toothpick comes out fairly clean. A few crumbs left is generally ok. The brookies will firm up much more as they cool, so they should look a bit underdone

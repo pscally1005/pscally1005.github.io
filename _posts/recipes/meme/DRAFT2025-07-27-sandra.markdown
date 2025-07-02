@@ -50,7 +50,7 @@ Instructions:
 - Roughly chop your walnuts, and add to a small bowl with the chocolate chips
 - <center><img src="/assets/Food/Meme/Sandra/mixins.jpg" alt="" class="instruction-image"></center>
 
-- Add the dry ingredients into the wet, and mix with a silicone spatula until just fully combined. Don't over mix. Fold in the mix ins
+- Add the dry ingredients into the wet, and mix with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until just fully combined. Don't over mix. Fold in the mix ins
 - <center><img src="/assets/Food/Meme/Sandra/bowl.jpg" alt="" class="instruction-image"></center>
 
 - Transfer the batter to the pan, and smooth out the top

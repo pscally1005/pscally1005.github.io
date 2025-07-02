@@ -40,7 +40,7 @@ Description: Triscuits only contain 3 ingredients, making it very easy to revers
 Instructions: 
 - Preheat your oven to 450F, and line 2 large cookie sheets with parchment paper
 
-- In a large bowl, whisk together the flour and salt. Pour in the oil and water.  Start with a silicone spatula then transfer to your hands.  Knead until you have a fully combined dough.  Note that the picture below represents a half batch of the recipe
+- In a large bowl, whisk together the flour and salt. Pour in the oil and water.  Start with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> then transfer to your hands.  Knead until you have a fully combined dough.  Note that the picture below represents a half batch of the recipe
 - <center><img src="/assets/Food/Finger Food/Triscuit/dough.jpg" alt="" class="instruction-image"></center>
 
 - Divide the dough in 4 equal pieces, about 90 g each.  Roll out each piece as thin as you can make it, 2 per cookie sheet. Use a pizza wheel to shape the dough into a rectangle, and cut into rectangles.  Use a fork to prick holes in each cracker

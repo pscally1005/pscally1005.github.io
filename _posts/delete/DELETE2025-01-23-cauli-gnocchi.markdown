@@ -50,7 +50,7 @@ Instructions:
 
 - Meanwhile, in a large bowl, add the rest of the gnocchi dough ingredients - egg, mozzarella, parmesan, flax, oregano, garlic, onion, and red pepper flakes
 
-- Add in the cauliflower, and mix with a silicone spatula until you have a fully combined dough
+- Add in the cauliflower, and mix with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until you have a fully combined dough
 - <center><img src="/assets/Food/Meatless/Gnocchi/bowl.jpg" alt="" class="instruction-image"></center>
 
 - Shape your dough into little gnocchi pillows, and add to the sheet

@@ -80,7 +80,7 @@ Unsweetened vanilla almond milk,2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE
 "Unsweetened almond milk, or water",2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 "Unsweetened vanilla almond milk, or water",2.44,"1,920.00",0.00127,0.00,0.58,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
 Cocoa powder,2.48,"1,808.00",0.00137,20.00,58.30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
-Powdered peanut butter,12.11,679.20,0.01783,14.00,31.25,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://amzn.to/3ZzVH2Z,0.0,0.0
+Powdered peanut butter,12.11,679.20,0.01783,14.00,31.25,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://www.amazon.com/dp/B01MS1JVPL?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1WR9XR6503P52&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1WR9XR6503P52_1751467488677,0.0,0.0
 Almond extract,7.57,454.00,0.01667,0.00,0.00,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://amzn.to/4khDgIM,0.0,0.0
 "Almond extract, or vanilla",7.57,454.00,0.01667,0.00,0.00,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,https://amzn.to/4khDgIM,0.0,0.0
 Pumpkin puree,1.47,424.50,0.00346,75.00,8.13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/pumpkin-puree,0.0,0.0
@@ -256,7 +256,7 @@ Dates,3.99,672.00,0.00594,62.00,74.97,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 100% chocolate,0.95,113.00,0.00841,40.00,26.67,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/chocolate-bar,0.0,0.0
 Vanilla extract,1.67,224.00,0.00746,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43MkDqr,0.0,0.0
 "Vanilla extract, or almond",1.67,224.00,0.00746,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43MkDqr,0.0,0.0
-Granulated monk fruit,5.20,454.00,0.01145,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4k6VRXU,100.0,0.0
+Granulated monk fruit,5.20,454.00,0.01145,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1GH5XMVZQOTF9&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1GH5XMVZQOTF9_1751467092363,100.0,0.0
 Granulated stevia,6.12,271.60,0.02253,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43wL0zp,100.0,0.0
 Powdered monk fruit,9.31,454.00,0.02051,0.00,100.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/43vQs5E,100.0,0.0
 Pecans,9.87,454.00,0.02174,10.00,13.86,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,,0.0,0.0
@@ -326,7 +326,7 @@ Aquafaba,0.86,255.00,0.00337,28.00,2.90,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0
 Tahini,3.99,454.00,0.00879,20.00,21.19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/natural-peanut-butter,0.0,0.0
 "Tahini, or any other nut/seed butter",3.99,454.00,0.00879,20.00,21.19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,/recipes/natural-peanut-butter,0.0,0.0
 Nutricost Electrolyte Mix,17.95,341.00,0.05264,0.00,0.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3FxWcDZ,0.0,0.0
-Electrolyte mix,17.95,341.00,0.05264,68.00,68.75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3FxWcDZ,0.0,0.0
+Electrolyte mix,17.95,341.00,0.05264,68.00,68.75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://www.amazon.com/dp/B07XQ61Y2Y?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TXCU8LZNT4TO&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3TXCU8LZNT4TO_1751467880130,0.0,0.0
 "Basil, fresh",3.29,113.20,0.02906,5.00,2.65,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,,0.0,0.0
 Millet flour,3.59,566.00,0.00634,70.00,75.12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/4dLczd1,0.0,0.0
 "Psyllium husks, whole",7.99,339.60,0.02353,20.00,91.00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,https://amzn.to/3FAdvEl,0.0,0.0

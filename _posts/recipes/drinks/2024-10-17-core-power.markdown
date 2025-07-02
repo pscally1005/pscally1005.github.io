@@ -42,6 +42,6 @@ Instructions:
 
 - For chocolate instead of vanilla, omit, the vanilla extract, and instead use 1 tbsp (5 g) of cocoa powder
 
-- You can also sweeten this with a <a href="https://amzn.to/3FxWcDZ">flavored electrolyte mix</a> as well, like I did in my <a href="/recipes/electrolyte-protein-shake">Electrolyte Protein Shake</a>.  Just replace the vanilla and liqud monk fruit with your electrolyte mix
+- You can also sweeten this with a <a href="https://www.amazon.com/dp/B07XQ61Y2Y?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TXCU8LZNT4TO&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3TXCU8LZNT4TO_1751467880758">flavored electrolyte mix</a> as well, like I did in my <a href="/recipes/electrolyte-protein-shake">Electrolyte Protein Shake</a>.  Just replace the vanilla and liqud monk fruit with your electrolyte mix
 - <center><a href="/recipes/electrolyte-protein-shake"><img src="/assets/Food/Drinks/Salt Shake/salt-shake.jpg" alt="" class="instruction-image"></a></center>
 ---

@@ -60,7 +60,7 @@ Description: Happy Halloween!  Here's an easy cake recipe that's delicious, <a h
 Instructions: 
 - Preheat your oven to 350F, and line a 9" circle pan with parchment paper.  Lightly spray the paper with oil
 
-- In a large bowl, add all your wet ingredients, and mix with a silicone spatula until fully combined - pumpkin puree, yogurt, nut/seed butter, egg, and sweeteners
+- In a large bowl, add all your wet ingredients, and mix with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until fully combined - pumpkin puree, yogurt, nut/seed butter, egg, and sweeteners
 - <center><img src="/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-wet.jpg" alt="" class="instruction-image"></center>
 
 - To the bowl, add your dry ingredients, and stir until fully combined - salt, cinnamon, ginger, nutmeg, cloves, baking powder, baking soda, cornstarch, and oat flour.  Transfer the batter to the pan, and smooth out the top

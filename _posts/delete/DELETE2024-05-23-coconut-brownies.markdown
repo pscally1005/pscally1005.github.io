@@ -50,7 +50,7 @@ Instructions:
 
 - In a large bowl, mix together all the ingredients in the order above.  It helps to fully combine together the liquid ingredients (oil, yogurt, applesauce, syrup, eggs, vanilla, baking soda, and salt) before whisking in the solids (cocoa powder and coconut flour).  Fold in your chocolate chips, reserving a few for the top
 
-- Use a silicone spatula to transfer the batter into your pan, and smooth the top
+- Use a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> to transfer the batter into your pan, and smooth the top
 
 - Bake at 350F for about 30 mintues, or until a toothpick comes out with a few crumbs.  Transfer to the fridge to cool completely before slicing with a plastic knife
 ---

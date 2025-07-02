@@ -45,7 +45,7 @@ Instructions:
 
 - To the food processor with the dates, add an entire can of chickpeas (NOT drained or rinsed), bananas, and peanut butter (or any other nut/seed butter). Blend until smooth, and no chunks remain. Transfer to a large bowl
 
-- With a silicone spatula, mix in almond (or vanilla) extract, baking powder, baking soda, and salt. Mix in the oat flour until fully combined. Fold in half the chocolate chips, reserving the rest for the top
+- With a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>, mix in almond (or vanilla) extract, baking powder, baking soda, and salt. Mix in the oat flour until fully combined. Fold in half the chocolate chips, reserving the rest for the top
 - <center><img src="/assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-bowl.jpg" alt="" class="instruction-image"></center>
 
 - You can replace half of the oat flour with cocoa powder to turn this into a double chocolate cookie cake, or check out any of my other <a href="/brownies">brownie recipes</a>!

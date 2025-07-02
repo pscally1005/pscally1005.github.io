@@ -38,7 +38,7 @@ Description: Graham <a href="/misc/fake-healthy-foods#crackers">crackers</a> wer
 Instructions: 
 - Preheat your oven to 350F, and take out a large cookie sheet
 
-- In a large glass bowl, melt the peanut butter. Add all ingredients to a bowl and mix with a silicone spatula. Gently knead a few times to form a dough
+- In a large glass bowl, melt the peanut butter. Add all ingredients to a bowl and mix with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. Gently knead a few times to form a dough
 - <center><img src="/assets/Food/Finger Food/GF Crackers/dough.jpg" alt="" class="instruction-image"></center>
 
 - Roll out between 2 sheets of parchment paper to about 1/8" - 1/4" thick.  Use a pizza wheel to trim up the edges, making an even rectangle.  Cut into crackers, and poke with a fork

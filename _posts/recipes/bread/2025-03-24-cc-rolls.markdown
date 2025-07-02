@@ -35,7 +35,7 @@ tags:
 - eggs
 Description: These easy and healthy bread rolls are made from just rolled oats, cottage cheese, and eggs. They take only a few minutes to prep and rest, and they bake up nice and thin and crispy, perfect for a sandwich or toast.  Here, I made a pulled chicken sandwich using my <a href="/recipes/salsa-chicken">Two Ingredient Salsa Chicken</a>
 Instructions: 
-- In a medium bowl, beat your eggs with a fork until smooth. Add in your (blended) cottage cheese, baking powder, and salt. Mix with a silicone spatula until fully combined
+- In a medium bowl, beat your eggs with a fork until smooth. Add in your (blended) cottage cheese, baking powder, and salt. Mix with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until fully combined
 
 - Add in the rolled oats, and fold together until well combined. The batter should look too wet; let chill in the fridge for at least 30 minutes, so the oats can soak up the excess moisture
 - <center><img src="/assets/Food/Bread/CC rolls/bowl.jpg" alt="" class="instruction-image"></center>

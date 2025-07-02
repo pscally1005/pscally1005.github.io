@@ -43,7 +43,7 @@ Description: This edible cookie dough is so simple, and a much healthier way to 
 Instructions: 
 - Start by preparing your chocolate. In a microwave safe bowl, melt the coconut oil. Combine with the rest of the chocolate ingredients - cocoa powder, sweeteners (stevia/monkfruit and honey), and a small pinch of salt
 
-- Line a Tupperware with parchment paper. Use a silicone spatula to scrape all the melted chocolate into the pan. Freeze to harden
+- Line a Tupperware with parchment paper. Use a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> to scrape all the melted chocolate into the pan. Freeze to harden
 
 - For the cookie dough, combine the ingredients in a medium bowl in the following order - applesauce, honey, vanilla, monk fruit or stevia, and salt.  If you have some, 1/4 tsp (1.25 g) butter extract would work great here as well
 

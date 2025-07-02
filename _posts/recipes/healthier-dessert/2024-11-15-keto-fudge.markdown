@@ -42,7 +42,7 @@ Description: This fudge is a healthy version of my <a href="/recipes/classic-fud
 Instructions: 
 - Line an 9" square pan with parchment paper, and set aside. You can also use a 9x5" bread pan for a half batch
 
-- In a medium saucepot over medium-high heat, combine the evaporated milk, butter, and salt with a heat-proof silicone spatula.  Wear an oven mitt on your mixing hand to prevent burning from splashing
+- In a medium saucepot over medium-high heat, combine the evaporated milk, butter, and salt with a heat-proof <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>.  Wear an oven mitt on your mixing hand to prevent burning from splashing
 
 - Bring to a full rolling boil. Stir constantly, scraping the bottom, sides, and corners of the pot to prevent sticking and burning.  Let boil for 5 minutes under constant stirring
 - <center><img src="/assets/Food/Healthier Dessert/Keto Fudge/fudge-boil.jpg" alt="" class="instruction-image"></center>
