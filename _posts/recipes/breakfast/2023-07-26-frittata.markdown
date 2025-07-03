@@ -32,7 +32,7 @@ tags:
 - cheese
 - chili
 - hot sauce
-Description: A frittata is the perfect meal for leftover veggies.  I'm making fresh spinach and onion here, but you can really just throw in any leftovers you want.  This delicious egg bake has 10 g of <a href="/misc/protein">protein</a> for just over 100 <a href="/misc/calories">calories</a>, and is quick to throw together.  Just combine cooked vegetables, eggs, and spices, and bake.  Let rest, then slice!
+Description: A frittata is the perfect meal for leftover veggies.  I'm making fresh spinach and onion here, but you can really just throw in any leftovers you want.  Each slice of this delicious egg bake has 11 g of <a href="/misc/protein">protein</a> for a little over 100 <a href="/misc/calories">calories</a>, and is quick to throw together.  Just combine cooked vegetables, eggs, and spices, and bake.  Let rest, then slice!
 Instructions: 
 - Preheat your oven to 375F, and dice 2 onions.  Add onions and spinach to a 10” cast iron pan over medium high heat with olive oil
 
