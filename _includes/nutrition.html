@@ -57,6 +57,14 @@
         {% assign recipe = "false" %}
     {% endif %}
 
+    <!-- Fruit -->
+    {% assign fruit = "false" %}
+    {% if page.title == "Going Bananas For Bananas" %}
+        {% assign fruit = "true" %}
+        {% assign shorterFacts = "false" %}
+        {% assign recipe = "false" %}
+    {% endif %}
+
     <!-- Use parameters or not -->
     {% assign facts = page.facts %}
     {% if include.facts %}
@@ -617,6 +625,45 @@
             {% assign vitD = "" %}
             {% assign vitK = "" %}
             {% assign pot = "" %}
+            {% assign choline = "" %}
+            {% assign histidine = "" %}
+            {% assign isoleucine = "" %}
+            {% assign leucine = "" %}
+            {% assign lysine = "" %}
+            {% assign methionine = "" %}
+            {% assign phenylalanine = "" %}
+            {% assign threonine = "" %}
+            {% assign tryptophan = "" %}
+            {% assign valine = "" %}
+        {% endif %}
+
+        <!-- Fruit -->
+        {% if fruit == "true" %}
+            {% assign sat = "" %}
+            {% assign mono = "" %}
+            {% assign poly = "" %}
+            {% assign trans = "" %}
+            {% assign choles = "" %}
+            {% assign sod = "" %}
+            {% assign addedSugar = "" %}
+            {% assign sugAlc = "" %}
+            {% assign all = "" %}
+            {% assign vitB1 = "" %}
+            {% assign vitB2 = "" %}
+            {% assign vitB3 = "" %}
+            {% assign vitB5 = "" %}
+            {% assign vitB6 = "" %}
+            {% assign vitB9 = "" %}
+            {% assign vitB12 = "" %}
+            {% assign vitD = "" %}
+            {% assign vitE = "" %}
+            {% assign vitK = "" %}
+            {% assign calc = "" %}
+            {% assign iron = "" %}
+            {% assign magn = "" %}
+            {% assign phos = "" %}
+            {% assign sel = "" %}
+            {% assign zinc = "" %}
             {% assign choline = "" %}
             {% assign histidine = "" %}
             {% assign isoleucine = "" %}

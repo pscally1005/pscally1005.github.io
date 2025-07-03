@@ -5,6 +5,7 @@ date:   2025-06-26 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+cookie: yes
 permalink: /recipes/styrofoam-cookies
 image: /assets/Food/Meme/Styrofoam/cover-photo.jpg
 ing: styrofoam-ing

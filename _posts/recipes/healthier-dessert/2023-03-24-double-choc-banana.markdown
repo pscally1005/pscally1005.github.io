@@ -49,7 +49,7 @@ Instructions:
 
 - Whisk together dry ingredients (oat flour, cocoa powder, cornstarch, baking soda, and salt) in a bowl
 
-- In a separate bowl, mash a banana. Add the rest of the wet ingredients (yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and honey) to the bowl and mix
+- In a separate bowl, mash your bananas. Add the rest of the wet ingredients (yogurt, <a href="/recipes/natural-peanut-butter">nut butter</a>, applesauce, egg, and honey) to the bowl and mix
 
 - Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use pumpkin seed or sunflower seed butter
 

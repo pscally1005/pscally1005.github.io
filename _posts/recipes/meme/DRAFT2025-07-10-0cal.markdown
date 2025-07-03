@@ -5,6 +5,7 @@ date:   2025-07-10 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+cookie: yes
 permalink: /recipes/zero-calorie-cookies
 image: /assets/Food/Meme/0 Cal/cover.jpg
 ing: 0cal-ing
