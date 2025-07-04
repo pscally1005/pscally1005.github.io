@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Copycat Triscuit Crackers"
-date:   2025-06-18 00:00:00 -0500
+date:   2025-07-04 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Food
-- Hidden
 permalink: /recipes/triscuits
 image: /assets/Food/Finger Food/Triscuit/cover-new.jpg
 ing: triscuit-ing
