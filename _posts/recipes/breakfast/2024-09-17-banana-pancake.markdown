@@ -9,7 +9,7 @@ permalink: /recipes/banana-protein-pancakes
 image: /assets/Food/Breakfast/Banana Pancake/pancake-cover.jpg
 ing: bananapancake-ing
 facts: bananapancake-facts
-servingSize: 6 small pancakes
+servingSize: Whole batch
 section1: 
 start2: 
 section2: 
@@ -45,9 +45,11 @@ Instructions:
 - In a medium bowl, mash a banana with the back of a fork.  Combine in the rest of the ingredients.  Let the batter rest for 5-10 minutes
 - <center><img src="/assets/Food/Breakfast/Banana Pancake/pancake-batter.jpg" alt="" class="instruction-image"></center>
 
+- Optionally, mix in 1 tbsp (12 g) granulated monk fruit, 1/2 tsp (2.5 g) liquid monk fruit, or 1 tbsp (15 g) chocolate chips
+
 - Meanwhile, preheat a large nonstick pan over medium heat with a spray of oil. The pan should sound like it's sizzling lightly when the batter is spooned in
 
-- Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a wire rack or plate, and repeat. This recipe should make about 6 small pancakes and serves 1 person
+- Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a wire rack or plate, and repeat
 
 - These also work as waffles. Cook on medium heat or so for 2-3 minutes
 ---
