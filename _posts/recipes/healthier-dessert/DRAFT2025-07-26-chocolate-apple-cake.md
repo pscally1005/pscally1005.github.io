@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chocolate Cake for One"
-date:   2025-07-24 00:00:00 -05000
+date:   2025-07-26 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert

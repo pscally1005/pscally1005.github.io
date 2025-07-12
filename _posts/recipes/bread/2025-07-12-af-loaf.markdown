@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Almond Flour Sandwich Loaf"
-date:   2025-06-24 00:00:00 -0500
+date:   2025-07-12 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Hidden
 permalink: /recipes/almond-flour-loaf
 image: /assets/Food/Bread/Almond Flour Loaf/sandwich.jpg
 ing: afloaf-ing
