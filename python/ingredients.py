@@ -500,7 +500,7 @@ def ingredients(food):
         return str("90% chocolate")
     elif food == "Raw cashews" or food == "Nuts, raw, cashew nuts" or food == "Nuts, with salt added, dry roasted, cashew nuts":
         return str("Cashews")
-    elif food == "Raisins, seedless, dark":
+    elif food == "Raisins, seedless, dark" or food == "Raisins, seedless, golden":
         return str("Raisins")
     elif food == str("85% dark chocolate by Sinless Raw Food Inc"):
         return str("85% chocolate")
