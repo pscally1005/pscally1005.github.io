@@ -43,7 +43,7 @@ tags:
 - white mushrooms
 - feta cheese
 - crumbled feta
-Description: Did you know that you can meal prep eggs? Yup, breakfast meal prep isn't reserved for just overnights oats or yogurt. This batch of food makes 4 servings, and is a good source of <a href="/misc/protein">protein</a> and vegetables in the morning
+Description: Did you know that you can meal prep eggs? Yup, breakfast meal prep isn't reserved for just <a href="/oatmeal">overnight oats</a> or <a href="/yogurt">yogurt</a>. This batch of food makes 4 servings, and is a good source of <a href="/misc/protein">protein</a> and vegetables in the morning
 Instructions: 
 - Preheat a 12" nonstick pan over medium heat with olive oil
 
