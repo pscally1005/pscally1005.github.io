@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Vegan Chocolate Cheesecake"
-date:   2025-07-24 00:00:00 -05000
+title:  "Vegan Chocolate Cheesecake Bars"
+date:   2025-07-17 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+- Hidden
 permalink: /recipes/vegan-chocolate-cheesecake
 image: /assets/Food/Healthier Dessert/Vegan cheesecake/cover.jpg
 ing: chocolatecheesecake-ing

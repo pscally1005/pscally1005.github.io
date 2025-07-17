@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Cinnamon Toast Chickpeas"
-date:   2025-07-20 00:00:00 -0500
+date:   2025-07-17 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+- Hidden
 permalink: /recipes/cinnamon-chickpea
 image: /assets/Food/Breakfast/Chickpea/milk.jpg
 ing: cinnamontoastchickpeas-ing

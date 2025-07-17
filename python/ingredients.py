@@ -478,6 +478,8 @@ def ingredients(food):
         return str("Sauerkraut")
     
     # Nuts, chocolate, dried fruit
+    elif food == "Pretzels, hard, flavored":
+        return str("Pretzels")
     elif food == "allulose-choc":
         return str("Allulose chocolate bar")
     elif food == "Chocolate, 45- 59% cacao solids, dark":

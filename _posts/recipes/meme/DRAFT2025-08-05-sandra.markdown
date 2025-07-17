@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sandra's Banana Bread Recipe"
-date:   2025-07-30 00:00:00 -05000
+date:   2025-08-05 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
