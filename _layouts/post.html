@@ -12,7 +12,7 @@ layout: base
 
       {% include buttons.html %}
 
-      {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
+      {% if page.categories[0] != "Misc." or page.categories[1] == "Unhealthy Recipes" %}
         {% include postInfo.html %}
       {% else %}
         <div class="recipe-section">{{ content }}</div>

@@ -92,7 +92,7 @@
     </div>
 
     <!-- Copy Recipe -->
-    {% if page.categories.first == "Recipes" %}
+    {% if page.categories[0] == "Recipes" or page.categories[1] == "Unhealthy Recipes" %}
         <div class="copy-recipe" title="Copy recipe" onclick="copyRecipe()">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M16 1H4a2 2 0 00-2 2v14h2V3h12V1zm3 4H8a2 2 0 00-2 2v16a2 2 0 002 2h11a2 2 0 002-2V7a2 2 0 00-2-2zm0 18H8V7h11v16z"/>

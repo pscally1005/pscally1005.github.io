@@ -2,7 +2,7 @@
   <center>
       <span>
 
-        {% if page.categories.first != "Misc." or page.categories.last == "Unhealthy Recipes" %}
+        {% if page.categories[0] != "Misc." or page.categories[1] == "Unhealthy Recipes" %}
           {% unless page.title == "Food/Nutrition Meme Dump" %}
             <a rel="" target="" href="#recipe" class="button">Recipe</a>
             <a rel="" target="" href="#nutrition-facts" class="button">Nutrition</a>

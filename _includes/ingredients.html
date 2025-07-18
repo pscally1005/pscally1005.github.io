@@ -10,8 +10,8 @@
 <!-- Not a standard recipe -->
 {% assign recipe = "true" %}
 {% if 
-    page.categories.first == "Misc." and 
-    page.categories.last != "Unhealthy Recipes"
+    page.categories[0] == "Misc." and 
+    page.categories[1] != "Unhealthy Recipes"
 %}
     {% if 
         page.title == "Cheese and Whey - A Failed Experiment" or

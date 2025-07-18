@@ -9,8 +9,8 @@
     {% assign recipe = "true" %}
     {% assign shorterFacts = "false" %}
     {% if 
-        page.categories.first == "Misc." and 
-        page.categories.last != "Unhealthy Recipes" and
+        page.categories[0] == "Misc." and 
+        page.categories[1] != "Unhealthy Recipes" and
         page.title != "Improving the Pinto Bean Cake"
     %}
         {% assign shorterFacts = "true" %}
