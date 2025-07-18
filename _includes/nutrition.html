@@ -891,7 +891,7 @@
             {% if recipe == "true" %}
                 {% include glycemic.html ing=include.ing %}
                 <br>
-                {% include fullNutritionTable.html facts=facts addedSugar = addedSugar %}
+                {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb %}
             {% endif %}
         </div>
 

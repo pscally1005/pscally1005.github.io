@@ -7,6 +7,7 @@
 {% assign facts = include.facts %}
 {% assign addedSugarNum = include.addedSugar %}
 {% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 | append: '&nbsp;%' %}
+{% assign netCarbNum = include.netCarb %}
 
 <!-- JavaScript to open the table in a new window -->
 <script>
@@ -59,7 +60,11 @@
             {% for row in site.data[facts] %}
                 tableContent += '<tr>';
                     tableContent += '<td>{{ row.Nutrient }}</td>';
-                    tableContent += '<td>{{ row.Amount }}</td>';
+                    {% if row.Nutrient == "Net carbs" %}
+                        tableContent += '<td>{{ netCarbNum | round: 2 }}</td>';
+                    {% else %}
+                        tableContent += '<td>{{ row.Amount }}</td>';
+                    {% endif %}
                     tableContent += '<td>{{ row.Unit }}</td>';
                     tableContent += '<td>{{ row.DV }}</td>';
                 tableContent += '</tr>';
