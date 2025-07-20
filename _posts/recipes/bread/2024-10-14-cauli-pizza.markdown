@@ -47,7 +47,7 @@ Instructions:
 
 - Transfer the cauliflower to a medium glass bowl, and cover with a plate. Microwave on high for 5 minutes
 
-- Meanwhile, add the rest of the crust ingredients (egg, mozzarella, parmesan, flax, oregano, garlic powder, onion powder, and red pepper flakes) to the bowl and mix
+- Meanwhile, add the rest of the crust ingredients (egg, mozzarella, parmesan, flax, oregano, garlic powder, onion powder, and red pepper flakes) to a bowl and mix
 - <center><img src="/assets/Food/Bread/Cauli Pizza/cauli-pizza-separate.jpg" alt="" class="instruction-image"></center>
 
 - Add the cauliflower to the bowl, and mix until fully combined.  Divide the dough in half for 2 pizzas

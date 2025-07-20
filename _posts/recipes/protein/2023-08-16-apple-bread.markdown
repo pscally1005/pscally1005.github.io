@@ -42,7 +42,7 @@ Description: This cinnamon apple bread is a perfect fall based dessert that won'
 Instructions: 
 - Combine dry ingredients in a bowl - oat flour, whey, casein, baking powder, cinnamon, salt, baking soda, and ginger
 
-- Chop the apple and add to a food processor with the cottage cheese. Blend the apple as much as possible, then add the eggs, vanilla, and stevia. Blend until foamy and no apple chunks remain
+- Chop the apple (with the skin on) and add to a food processor with the cottage cheese. Blend the apple as much as possible, then add the eggs, vanilla, and stevia. Blend until foamy and no apple chunks remain
 
 - Pour the wet ingredients into the dry, and fold together until just combined
 
