@@ -19,7 +19,7 @@
 {% elsif page.title == "___ + Eggs = Waffles??" %}
     {% assign loopVarFacts = site.data.waffle[facts] %}
     {% assign loopVarIng = site.data.waffle[ing] %}
-{% elsif page.title == "Flourless Keto Brownies (2 g Net Carbs)" or page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" %}
+{% elsif page.title == "Flourless Keto Brownies (2 g Net Carbs)" or page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" or page.title == "No Nut Protein Banana Bread" %}
     {% assign loopVarFacts = site.data[facts] %}
     {% assign loopVarIng = site.data[ing] %}
 {% elsif page.title == "DIY Yogurt" %}
@@ -53,6 +53,7 @@
     page.title == "B-Ware the Deficiency: The Power of B12" or
     page.title == "Flourless Keto Brownies (2 g Net Carbs)" or
     page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" or
+    page.title == "No Nut Protein Banana Bread"
     page.title == "(Vitamin) C You Later, Sickness!" or
     page.title == "DIY Yogurt" or
     page.title == "Cottage Cheese Flatbread"
