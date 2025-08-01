@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Secret Truffles"
-date:   2025-07-17 00:00:00 -05000
+date:   2025-08-01 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
-- Hidden
 permalink: /recipes/secret-truffles
 image: /assets/Food/Meme/Secret/cover.jpg
 ing: secret-ing
