@@ -156,7 +156,7 @@ tags:
 
 <div id="milk" class="table-of-contents-2"></div>
 <i><font size="+2">Milk</font></i><br>
-&emsp;A lot of my old baking recipes for example use unsweetened vanilla almond milk, but lately I've been opting for skim milk instead.  I used to buy almond milk because it lasts longer, but I've been getting through milk quicker, and wanted the added nutrition of cow's milk.  Cow's milk is cheaper while containing more <a href="/misc/protein">protein</a> and calcium.  But really any of the following can be used at a 1:1 ratio, just note the <a href="/misc/calories">calorie</a>, <a href="/misc/fats">fat</a>, or taste differences.  The same concept applies to <a rel="" target="" href="#yogurt">yogurt</a> as well:
+&emsp;A lot of my old baking recipes for example use unsweetened vanilla almond milk, but lately I've been opting for skim milk instead.  I used to buy almond milk because it lasts longer, but I've been getting through milk quicker, and wanted the added nutrition of cow's milk.  Cow's milk is cheaper while containing more <a href="/misc/protein">protein</a> and <a href="/misc/calcium">calcium</a>.  But really any of the following can be used at a 1:1 ratio, just note the <a href="/misc/calories">calorie</a>, <a href="/misc/fats">fat</a>, or taste differences.  The same concept applies to <a rel="" target="" href="#yogurt">yogurt</a> as well:
 - Whole milk
 - 2% milk
 - 1% milk

@@ -49,5 +49,5 @@ Instructions:
 
 - I'm using cannellini beans here, but any light colored beans will work, like navy, pinto, or garbanzo (chickpeas)
 
-- For comparison, the same 2 tbsp (30 g) serving of <a href="https://amzn.to/4khxarK">bottled blue cheese dressing</a> contains:<br><ul><li>2.5x the <a href="/misc/calories">calories</a></li><li>5x the <a href="/misc/fats">fat</a></li><li>No <a href="/misc/fiber">fiber</a> or <a href="/misc/protein">protein</a></li><li>No calcium, <a href="/misc/potassium">potassium</a>, or <a href="/misc/iron">iron</a></li><li>No <a href="/misc/nutrient-alphabet#F">folate</a> or <a href="/misc/vitamin-b12">vitamin B12</a></li></ul>
+- For comparison, the same 2 tbsp (30 g) serving of <a href="https://amzn.to/4khxarK">bottled blue cheese dressing</a> contains:<br><ul><li>2.5x the <a href="/misc/calories">calories</a></li><li>5x the <a href="/misc/fats">fat</a></li><li>No <a href="/misc/fiber">fiber</a> or <a href="/misc/protein">protein</a></li><li>No <a href="/misc/calcium">calcium</a>, <a href="/misc/potassium">potassium</a>, or <a href="/misc/iron">iron</a></li><li>No <a href="/misc/nutrient-alphabet#F">folate</a> or <a href="/misc/vitamin-b12">vitamin B12</a></li></ul>
 ---

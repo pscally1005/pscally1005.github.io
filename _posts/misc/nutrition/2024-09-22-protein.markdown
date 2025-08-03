@@ -33,7 +33,7 @@ tags:
 <br>&emsp;- Regulate blood sugar
 <br>&emsp;- Stimulate wound healing
 - Lysine
-<br>&emsp;- Calcium abosption
+<br>&emsp;- <a href="/misc/calcium">Calcium</a> abosption
 <br>&emsp;- Enzyme and hormone production
 <br>&emsp;- Protein synthesis
 - Methionine

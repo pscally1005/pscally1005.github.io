@@ -115,7 +115,7 @@
     {% assign totalGL_fraction = totalGL_split[1] || append: "0" | truncate: 1, "" %}
 
     <!-- Print GI & GL -->
-    <div class="recipe-section-bold">Glycemic Index: </div>
+    <div class="recipe-section-bold"><a href="/misc/diabetes">Glycemic Index</a></div>:
     <div class="recipe-section">
         {% if totalGI >= 70 %}
             <font class="red-text-themed">
@@ -129,7 +129,7 @@
     </div>
     <br>
 
-    <div class="recipe-section-bold">Glycemic Load: </div>
+    <div class="recipe-section-bold"><a href="/misc/diabetes">Glycemic Load</a></div>:
     <div class="recipe-section">
         {% if totalGL >= 20 %}
             <font class="red-text-themed">

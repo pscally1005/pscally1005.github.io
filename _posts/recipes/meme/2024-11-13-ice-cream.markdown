@@ -32,7 +32,7 @@ tags:
 - vanilla
 - milkshake
 - milk shake
-Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simple, <a href="/misc/hidden-sugar">sugar</a> free, and tastes exactly like classic vanilla ice cream. Even Vic agreed that it was spot on to regular vanilla ice cream, and this contains a fraction of the <a href="/misc/hidden-sugar">sugar</a>, <a href="/misc/fats">fat</a>, and <a href="/misc/calories">calories</a>, all while having more <a href="/misc/protein">protein</a>, calcium, and <a href="/misc/vitamin-b12">vitamin B12</a>.  The ice cream can be scooped right out of the freezer; there's no need to let it sit out and soften! Here are some flavor ideas you can mess around with:<ul>
+Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simple, <a href="/misc/hidden-sugar">sugar</a> free, and tastes exactly like classic vanilla ice cream. Even Vic agreed that it was spot on to regular vanilla ice cream, and this contains a fraction of the <a href="/misc/hidden-sugar">sugar</a>, <a href="/misc/fats">fat</a>, and <a href="/misc/calories">calories</a>, all while having more <a href="/misc/protein">protein</a>, <a href="/misc/calcium">calcium</a>, and <a href="/misc/vitamin-b12">vitamin B12</a>.  The ice cream can be scooped right out of the freezer; there's no need to let it sit out and soften! Here are some flavor ideas you can mess around with:<ul>
     <li><b>Vanilla</b> - 1 tsp (5 g) vanilla extract</li>
     <li><b>Chocolate</b> - 2 tbsp (10 g) cocoa powder</li>
     <li><b>Mint</b> - 1/4 tsp (1.25 g) mint extract</li>

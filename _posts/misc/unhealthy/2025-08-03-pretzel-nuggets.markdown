@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Peanut Butter Pretzel Nuggets"
-date:   2025-07-17 00:00:00 -05000
+date:   2025-08-03 00:00:00 -05000
 categories: 
 - Misc.
 - Unhealthy Recipes
-- Hidden
 permalink: /recipes/pretzel-nuggets
 image: /assets/Misc/Unhealthy/Pretzel Nuggets/cover-2.jpg
 ing: pretzelnugg-ing

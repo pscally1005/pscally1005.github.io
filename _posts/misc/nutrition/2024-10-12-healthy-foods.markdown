@@ -211,7 +211,7 @@ tags:
 
 <div id="milk" class="table-of-contents"></div>
 <br><i><font size="+2">Milk</font></i><br>
-&emsp;How did milk, and dairy as a whole, so quickly go from being an everyday staple for everyone to a must avoid food group?  As long as you're not lactose-intolerant, I see no reason to avoid milk.  Dairy is a good source of complete <a href="/misc/protein">protein</a>, calcium, <a href="/misc/nutrient-alphabet#P">phosphorus</a>, <a href="/misc/nutrient-alphabet#D">vitamin D</a>, and <a href="/misc/vitamin-b12">vitamin B12</a>.  Calcium is crucial for bone health, and <a href="/misc/vitamin-b12">vitamin B12</a> plays a large role in brain function and energy levels.  
+&emsp;How did milk, and dairy as a whole, so quickly go from being an everyday staple for everyone to a must avoid food group?  As long as you're not lactose-intolerant, I see no reason to avoid milk.  Dairy is a good source of complete <a href="/misc/protein">protein</a>, <a href="/misc/calcium">calcium</a>, <a href="/misc/nutrient-alphabet#P">phosphorus</a>, <a href="/misc/nutrient-alphabet#D">vitamin D</a>, and <a href="/misc/vitamin-b12">vitamin B12</a>.  <a href="/misc/calcium">Calcium</a> is crucial for bone health, and <a href="/misc/vitamin-b12">vitamin B12</a> plays a large role in brain function and energy levels.  
 <br>
 &emsp;Most dairy products are very cheap, versatile, tasty, and minimally processed.  Here are some great overlooked dairy products.  With all of these, always always always make sure to get plain, without any added sugars:
 - Buttermilk
@@ -229,7 +229,7 @@ tags:
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 12 g
 <br><b>Protein</b>: 8.4 g (17 %)
 <br>------------------------------------------
-<br><b>Calcium</b>: 322 mg (22 %)
+<br><b><a href="/misc/calcium">Calcium</a></b>: 322 mg (22 %)
 <br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 261 mg (21 %)
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.1 mg (10 %)
 <br>------------------------------------------
@@ -262,7 +262,7 @@ tags:
 - <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Chia seeds</a> - Omega-3s & <a href="/misc/fiber">fiber</a>
 - <a href="https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Flax seeds</a> - Omega-3s & <a href="/misc/nutrient-alphabet#T">vitamin B1</a>
 - <a href="https://www.nutritionvalue.org/Hemp_seed%2C_raw_shelled_by_TRADER_JOE%27S_403399_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Hemp seeds</a> - <a href="/misc/iron">iron</a> & <a href="/misc/nutrient-alphabet#M">manganese</a>
-- <a href="https://www.nutritionvalue.org/Spices%2C_poppy_seed_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Poppy seeds</a> - calcium & <a href="/misc/nutrient-alphabet#C">copper</a>
+- <a href="https://www.nutritionvalue.org/Spices%2C_poppy_seed_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Poppy seeds</a> - <a href="/misc/calcium">calcium</a> & <a href="/misc/nutrient-alphabet#C">copper</a>
 - <a href="https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_roasted%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Pumpkin seeds</a> - <a href="/misc/iron">iron</a> & <a href="/misc/magnesium">magnesium</a>
 - <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_whole%2C_sesame_seeds_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Sesame seeds</a> - <a href="/misc/iron">iron</a> & <a href="/misc/nutrient-alphabet#C">copper</a>
 - <a href="https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_dry_roasted%2C_sunflower_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Sunflower seeds</a> - <a href="/misc/nutrient-alphabet#S">selenium</a> & <a href="/misc/nutrient-alphabet#E">vitamin E</a>
