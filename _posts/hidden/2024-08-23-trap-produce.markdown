@@ -126,10 +126,10 @@ tags:
 - <a href="/misc/vitamin-c">Vitamin C</a>: 44% of DV
 - <a href="/misc/nutrient-alphabet#M">Manganese</a>: 42% of DV
 - <a href="/misc/nutrient-alphabet#C">Copper</a>: 36% of DV
-- Vitamin B5: 35% of DV
+- <a href="/misc/nutrient-alphabet#P>Vitamin B5</a>: 35% of DV
 - <a href="/misc/nutrient-alphabet#B6">Vitamin B6</a>: 34% of DV
 - <a href="/misc/potassium">Potassium</a>: 20% of DV
-- Vitamin B5: 19% of DV
+- <a href="/misc/nutrient-alphabet#P>Vitamin B5</a>: 19% of DV
 
 <center><img src="/assets/Misc/Nutrition/Trap/potatoes.jpg" alt="" class="larger-image"></center>
 &emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred <a href="/misc/carbs">carb</a> side to a meal as opposed to pasta, rice, or bread, such as in the following recipes:

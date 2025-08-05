@@ -49,7 +49,7 @@ tags:
 <br><b><a href="/misc/carbs">Carbs</a></b>: 23 g (8 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 2.6 g (20 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 12 g
-<br><b>Protein</b>: 1.1 g (2 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 1.1 g (2 %)
 <br>------------------------------------------
 <br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 0.27 mg (12 %)
 <br><b><a href="/misc/potassium">Potassium</a></b>: 358 mg (8 %)
@@ -73,7 +73,7 @@ tags:
 <br><b><a href="/misc/carbs">Carbs</a></b>: 21 g (8 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 5.5 g (20 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 3.8 g
-<br><b>Protein</b>: 8 g (16 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 8 g (16 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.27 mg (30 %)
 <br><b><a href="/misc/iron">Iron</a></b>: 1.5 mg (8 %)
@@ -98,7 +98,7 @@ tags:
 <br><b><a href="/misc/carbs">Carbs</a></b>: 35 g (13 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 1.7 g (18 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 0.3 g
-<br><b>Protein</b>: 3.5 g (7 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 3.5 g (7 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 4.14 mg (16 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 53 mg (13 %)
@@ -106,8 +106,8 @@ tags:
 <br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 143 mg (11 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.25 mg (21 %)
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 3.0 mg (19 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 0.49 mg (10 %)
+<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 3.0 mg (19 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.49 mg (10 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.22 mg (13 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/rice.png" alt="" class="smaller-image"></center><br>
@@ -134,19 +134,19 @@ tags:
 <br><b><a href="/misc/calories">Calories</a></b>: 182
 <br>------------------------------------------
 <br><b><a href="/misc/fats">Fat</a></b>: 15 g (19 %)
-<br>&emsp;<b>Sat <a href="/misc/fats">Fat</a></b>: 9.2 g (46 %)
+<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 9.2 g (46 %)
 <br><b><a href="/misc/carbs">Carbs</a></b>: 8.1 g (3 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 4.7 g (17 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 0.3 g
-<br><b>Protein</b>: 4.1 g (8 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 4.1 g (8 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.92 mg (102 %)
 <br><b><a href="/misc/iron">Iron</a></b>: 4.9 mg (27 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 92.7 mg (22 %)
 <br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 1.2 mg (51 %)
-<br><b><a href="/misc/nutrient-alphabet#Z"><a href="/misc/nutrient-alphabet#Z">Zinc</a></a></b>: 2.7 mg (25 %)
+<br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 2.7 mg (25 %)
 <br>------------------------------------------
-<br><b>Vitamin K</b>: 2.7 mcg (2 %)
+<br><b><a href="/misc/nutrition-alphabet#K">Vitamin K</a></b>: 2.7 mcg (2 %)
 <br><b>Choline</b>: 13 mg (2 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/cacao.png" alt="" class="smaller-image"></center><br>
@@ -162,16 +162,16 @@ tags:
 <br><b><a href="/misc/calories">Calories</a></b>: 74
 <br>------------------------------------------
 <br><b><a href="/misc/fats">Fat</a></b>: 5 g (6 %)
-<br>&emsp;<b>Sat <a href="/misc/fats">Fat</a></b>: 1.6 g (8 %)
+<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 1.6 g (8 %)
 <br><b><a href="/misc/carbs">Carbs</a></b>: 0.5 g (0 %)
-<br><b>Protein</b>: 6.2 g (12 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 6.2 g (12 %)
 <br>------------------------------------------
-<br><b>Iodine</b>: 24.7 mcg (16 %)
+<br><b><a href="/misc/nutrient-alphabet#I">Iodine</a></b>: 24.7 mcg (16 %)
 <br><b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: 15.6 mcg (28 %)
 <br>------------------------------------------
-<br><b>Vitamin A</b>: 91 mcg (10 %)
+<br><b><a href="/misc/nutrient-alphabet#A">Vitamin A</a></b>: 91 mcg (10 %)
 <br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.21 mg (16 %)
-<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b> <i>(Colbalamin)</i>: 0.51 mcg (21 %)
+<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: 0.51 mcg (21 %)
 <br><b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: 1.2 mcg (6 %)
 <br><b>Choline</b>: 169 mg (31 %)
 <br>------------------------------------------
@@ -190,9 +190,9 @@ tags:
 <br><b><a href="/misc/calories">Calories</a></b>: 142
 <br>------------------------------------------
 <br><b><a href="/misc/fats">Fat</a></b>: 6.3 g (8 %)
-<br>&emsp;<b>Sat <a href="/misc/fats">Fat</a></b>: 1 g (5 %)
+<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 1 g (5 %)
 <br><b><a href="/misc/carbs">Carbs</a></b>: 0 g (0 %)
-<br><b>Protein</b>: 20 g (40 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 20 g (40 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.25 mg (28 %)
 <br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 200 mg (16 %)
@@ -201,10 +201,10 @@ tags:
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.23 mg (19 %)
 <br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.38 mg (29 %)
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 7.9 mg (49 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 1.7 mg (33 %)
+<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 7.9 mg (49 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 1.7 mg (33 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.82 mg (48 %)
-<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b> <i>(Colbalamin)</i>: 3.2 mcg (132 %)
+<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: 3.2 mcg (132 %)
 <br><b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: 11 mcg (55 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/fish.png" alt="" class="smaller-image"></center><br>
@@ -227,16 +227,16 @@ tags:
 <br><b><a href="/misc/fats">Fat</a></b>: 0.2 g (0 %)
 <br><b><a href="/misc/carbs">Carbs</a></b>: 12 g (0 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 12 g
-<br><b>Protein</b>: 8.4 g (17 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 8.4 g (17 %)
 <br>------------------------------------------
 <br><b><a href="/misc/calcium">Calcium</a></b>: 322 mg (22 %)
 <br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 261 mg (21 %)
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.1 mg (10 %)
 <br>------------------------------------------
-<br><b>Vitamin A</b>: 156 mcg (17 %)
+<br><b><a href="/misc/nutrient-alphabet#A">Vitamin A</a></b>: 156 mcg (17 %)
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (11 %)
 <br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
-<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b> <i>(Colbalamin)</i>: 1.4 mcg (59 %)
+<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: 1.4 mcg (59 %)
 <br><b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: 2.7 mcg (13 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/milk.png" alt="" class="smaller-image"></center><br>
@@ -248,19 +248,19 @@ tags:
 &emsp;While the <a href="/misc/sodium">sodium</a> content is up to you (unsalted, lightly salted, or salted), always try to get dry roasted nuts whenever possible.  Dry roasted means that you're (hopefully) getting nothing but nuts and salt, with no added oils, sugars, flavors, or preservatives.  Most <a href="https://amzn.to/3FpAkL4">commercially salted nuts</a> (even some that are dry roasted) have <a href="/misc/hidden-sugar">added sugar</a>, corn syrup, maltodextrin, and flavors.  This, combined with being very easy to overeat, is why nuts were on my <a href="/misc/fake-healthy-foods#nuts">'Healthy' Trap Foods</a> list as well.
 <br><br>
 &emsp;Nuts are one of the most nutrient dense food groups.  They're a great source of heart healthy mono-unsaturated <a href="/misc/fats">fats</a>, <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, <a href="/misc/nutrient-alphabet#C">copper</a>, <a href="/misc/magnesium">magnesium</a>, and <a href="/misc/nutrient-alphabet#M">manganese</a>.  Being high in <a href="/misc/fats">fat</a> and <a href="/misc/fiber">fiber</a>, while low in <a href="/misc/carbs">carbs</a>, nuts are great for balancing your blood sugar and feeling full.  Most nuts are very similar, but there are some differences, which is why it's good to have a variety.  Below are all great examples of nuts you should work into your diet and benefits of each of them:
-- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Almonds</a> - vitamins B2 & E
+- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Almonds</a> - vitamins <a href="/misc/nutrient-alphabet#R">B2</a> & <a href="/misc/nutrient-alphabet#E">E</a>
 - <a href="https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Brazil nuts</a> - <a href="/misc/nutrient-alphabet#S">selenium</a> & <a href="/misc/magnesium">magnesium</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html">Cashews</a> - <a href="/misc/nutrient-alphabet#C">copper</a> & vitamin K
-- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_macadamia_nuts_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Macadamia nuts</a> - Omega-3s
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html">Cashews</a> - <a href="/misc/nutrient-alphabet#C">copper</a> & <a href="/misc/nutrient-alphabet#K">vitamin K</a>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_macadamia_nuts_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Macadamia nuts</a> - <a href="/misc/nutrient-alphabet#O">Omega-3s</a>
 - <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Peanuts</a> - <a href="/misc/protein">protein</a> & <a href="/misc/nutrient-alphabet#N">vitamin B3</a>
 - <a href="https://www.nutritionvalue.org/Nuts%2C_pecans_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Pecans</a> - <a href="/misc/nutrient-alphabet#M">manganese</a> & <a href="/misc/nutrient-alphabet#T">vitamin B1</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_dried%2C_pine_nuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Pine nuts</a> - <a href="/misc/nutrient-alphabet#M">manganese</a> & vitamin K
-- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_pistachio_nuts_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Pistachios</a> - vitamins B1 & <a href="/misc/nutrient-alphabet#B6">B6</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Walnuts</a> - Omega-3s & <a href="/misc/nutrient-alphabet#C">copper</a>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_dried%2C_pine_nuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Pine nuts</a> - <a href="/misc/nutrient-alphabet#M">manganese</a> & <a href="/misc/nutrient-alphabet#K">vitamin K</a>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_pistachio_nuts_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Pistachios</a> - vitamins <a href="/misc/nutrient-alphabet#T">B1</a> & <a href="/misc/nutrient-alphabet#B6">B6</a>
+- <a href="https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Walnuts</a> - <a href="/misc/nutrient-alphabet#O">Omega-3s</a> & <a href="/misc/nutrient-alphabet#C">copper</a>
 
 &emsp;Similar to nuts, seeds are also great sources of healthy <a href="/misc/fats">fats</a> and essential micronutrients.  All of the same benefits apply, and some seeds, like chia and flax, are also great sources of <a href="/misc/nutrient-alphabet#O">Omega-3</a> <a href="/misc/fats">fats</a>.  Most seeds also contain less <a href="/misc/fats">fat</a> and more <a href="/misc/fiber">fiber</a>, making them lower in <a href="/misc/calories">calories</a>.  Both nuts and seeds have been shown to aid in weight loss, improve type 2 diabetes and metabolic syndrome, and reduce risk of heart attack and stroke.  Here are some great seeds for you to eat:
-- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Chia seeds</a> - Omega-3s & <a href="/misc/fiber">fiber</a>
-- <a href="https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Flax seeds</a> - Omega-3s & <a href="/misc/nutrient-alphabet#T">vitamin B1</a>
+- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Chia seeds</a> - <a href="/misc/nutrient-alphabet#O">Omega-3s</a> & <a href="/misc/fiber">fiber</a>
+- <a href="https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Flax seeds</a> - <a href="/misc/nutrient-alphabet#O">Omega-3s</a> & <a href="/misc/nutrient-alphabet#T">vitamin B1</a>
 - <a href="https://www.nutritionvalue.org/Hemp_seed%2C_raw_shelled_by_TRADER_JOE%27S_403399_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Hemp seeds</a> - <a href="/misc/iron">iron</a> & <a href="/misc/nutrient-alphabet#M">manganese</a>
 - <a href="https://www.nutritionvalue.org/Spices%2C_poppy_seed_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Poppy seeds</a> - <a href="/misc/calcium">calcium</a> & <a href="/misc/nutrient-alphabet#C">copper</a>
 - <a href="https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_roasted%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Pumpkin seeds</a> - <a href="/misc/iron">iron</a> & <a href="/misc/magnesium">magnesium</a>
@@ -272,11 +272,11 @@ tags:
 <br><b><a href="/misc/calories">Calories</a></b>: 164
 <br>------------------------------------------
 <br><b><a href="/misc/fats">Fat</a></b>: 14 g (18 %)
-<br>&emsp;<b>Sat <a href="/misc/fats">Fat</a></b>: 1.1 g (6 %)
+<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 1.1 g (6 %)
 <br><b><a href="/misc/carbs">Carbs</a></b>: 6.1 g (2 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 3.5 g (12 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 1.2 g
-<br><b>Protein</b>: 6 g (12 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 6 g (12 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.29 mg (32 %)
 <br><b><a href="/misc/iron">Iron</a></b>: 1.1 mg (6 %)
@@ -318,7 +318,7 @@ tags:
 <br><b><a href="/misc/carbs">Carbs</a></b>: 27 g (10 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 3.8 g (14 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 0.6 g
-<br><b>Protein</b>: 5.5 g (11 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 5.5 g (11 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.15 mg (17 %)
 <br><b><a href="/misc/iron">Iron</a></b>: 1.9 mg (11 %)
@@ -329,7 +329,7 @@ tags:
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.3 mg (12 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.22 mg (18 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 0.28 mg (6 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.28 mg (6 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/oatmeal.png" alt="" class="smaller-image"></center><br>
 
@@ -344,17 +344,17 @@ tags:
 <br><b><a href="/misc/calories">Calories</a></b>: 190
 <br>------------------------------------------
 <br><b><a href="/misc/fats">Fat</a></b>: 16 g (21 %)
-<br>&emsp;<b>Sat <a href="/misc/fats">Fat</a></b>: 2 g (10 %)
+<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 2 g (10 %)
 <br><b><a href="/misc/carbs">Carbs</a></b>: 7 g (3 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 3 g (11 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 1 g
-<br><b>Protein</b>: 8 g (16 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 8 g (16 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.14 mg (16 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 54 mg (13 %)
 <br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 0.53 mg (23 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 4.2 mg (26 %)
+<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 4.2 mg (26 %)
 <br><b><a href="/misc/nutrient-alphabet#E">Vitamin E</a></b>: 2.9 mg (19 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/peanut-butter.png" alt="" class="smaller-image"></center><br>
@@ -373,14 +373,14 @@ tags:
 <br><b><a href="/misc/carbs">Carbs</a></b>: 31 g (11 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 5.8 g (19 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 0.4 g
-<br><b>Protein</b>: 5.2 g (10 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 5.2 g (10 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.10 mg (11 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 57 mg (14 %)
 <br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 143 mg (11 %)
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.2 mg (11 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 0.92 mg (6 %)
+<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 0.92 mg (6 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.06 mg (4 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/popcorn.png" alt="" class="smaller-image"></center><br>
@@ -409,14 +409,14 @@ tags:
 <br><b><a href="/misc/carbs">Carbs</a></b>: 30 g (11 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 3.6 g (19 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 1.4 g
-<br><b>Protein</b>: 3.5 g (7 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 3.5 g (7 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.19 mg (21 %)
 <br><b><a href="/misc/potassium">Potassium</a></b>: 723 mg (15 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (12 %)
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 1.8 mg (11 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 0.50 mg (10 %)
+<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 1.8 mg (11 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.50 mg (10 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.51 mg (50 %)
 <br><b><a href="/misc/vitamin-c">Vitamin C</a></b>: 36 mg (37 %)
 <br>------------------------------------------
@@ -429,16 +429,16 @@ tags:
 <br><b><a href="/misc/carbs">Carbs</a></b>: 34 g (12 %)
 <br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 5.1 g (18 %)
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 7.1 g
-<br><b>Protein</b>: 2.7 g (5 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 2.7 g (5 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.26 mg (29 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 43 mg (10 %)
 <br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 0.44 mg (19 %)
 <br><b><a href="/misc/potassium">Potassium</a></b>: 573 mg (12 %)
 <br>------------------------------------------
-<br><b>Vitamin A</b>: 1,205 mcg (134 %)
+<br><b><a href="/misc/nutrient-alphabet#A">Vitamin A</a></b>: 1,205 mcg (134 %)
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.13 mg (11 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 1.4 mg (27 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 1.4 mg (27 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.36 mg (21 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/sweet-potato.png" alt="" class="smaller-image"></center><br>
@@ -454,9 +454,9 @@ tags:
 <br><b><a href="/misc/calories">Calories</a></b>: 152
 <br>------------------------------------------
 <br><b><a href="/misc/fats">Fat</a></b>: 7 g (9 %)
-<br>&emsp;<b>Sat <a href="/misc/fats">Fat</a></b>: 2.9 g (14 %)
+<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 2.9 g (14 %)
 <br><b><a href="/misc/carbs">Carbs</a></b>: 0 g (0 %)
-<br><b>Protein</b>: 21 g (42 %)
+<br><b><a href="/misc/protein">Protein</a></b>: 21 g (42 %)
 <br>------------------------------------------
 <br><b><a href="/misc/iron">Iron</a></b>: 2.3 mg (13 %)
 <br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 192 mg (15 %)
@@ -464,10 +464,10 @@ tags:
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 5.0 mg (45 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.15 mg (12 %)
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 5.3 mg (33 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 0.63 mg (13 %)
+<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 5.3 mg (33 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.63 mg (13 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.38 mg (23 %)
-<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b> <i>(Colbalamin)</i>: 2.2 mcg (93 %)
+<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: 2.2 mcg (93 %)
 <br><b>Choline</b>: 69 mg (13 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/grilling.png" alt="" class="smaller-image"></center><br>
