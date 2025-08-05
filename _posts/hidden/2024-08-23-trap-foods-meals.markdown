@@ -137,7 +137,7 @@ tags:
 - <a href="/misc/potassium">Potassium</a>: 26% of DV
 - <a href="/misc/nutrient-alphabet#M">Manganese</a>: 19% of DV
 - <a href="/misc/magnesium">Magnesium</a>: 12% of DV
-- <a href="/misc/nutrient-alphabet#P">Phosphorus</a>: 12% of DV
+- <a href="/misc/phosphorus">Phosphorus</a>: 12% of DV
 - <a href="/misc/nutrient-alphabet#N">Vitamin B3</a>: 12% of DV
 - <a href="/misc/nutrient-alphabet#F">Vitamin B9</a>: 12% of DV
 

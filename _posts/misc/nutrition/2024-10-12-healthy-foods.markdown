@@ -51,7 +51,7 @@ tags:
 <br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 12 g
 <br><b>Protein</b>: 1.1 g (2 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 0.27 mg (12 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 0.27 mg (12 %)
 <br><b><a href="/misc/potassium">Potassium</a></b>: 358 mg (8 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.37 mg (22 %)
@@ -78,7 +78,7 @@ tags:
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.27 mg (30 %)
 <br><b><a href="/misc/iron">Iron</a></b>: 1.5 mg (8 %)
 <br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 0.38 mg (17 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 121 mg (10 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 121 mg (10 %)
 <br><b><a href="/misc/potassium">Potassium</a></b>: 277 mg (6 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.067 mg (6 %)
@@ -103,11 +103,11 @@ tags:
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 4.14 mg (16 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 53 mg (13 %)
 <br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 1.3 mg (57 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 143 mg (11 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 143 mg (11 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.25 mg (21 %)
 <br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 3.0 mg (19 %)
-<br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 0.49 mg (10 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 0.49 mg (10 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.22 mg (13 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/rice.png" alt="" class="smaller-image"></center><br>
@@ -127,7 +127,7 @@ tags:
 <br><i><font size="+2">Chocolate</font></i><br>
 &emsp;Chocolate is basically <i>the</i> unhealthy food, being present in many junk foods like candy, cookies, brownies, and cake, and many other "healthier" foods like <a href="/misc/fake-healthy-foods#granola">granola bars</a> and <a href="/misc/fake-healthy-foods#muffins">muffins</a>.  Chocolate is very <a href="/misc/calories">calorie</a> dense; it's essentially a 50:50 ratio of cocoa powder and cocoa butter, meaing that a bar is about 50% <a href="/misc/fats">fat</a>.  Plus, add in that the vast majority of chocolate is loaded with <a href="/misc/hidden-sugar">sugar</a>, and you begin to see why we have an obesity epidemic and a nation of chocoholics.
 <br><br>
-&emsp;Ironically though, true dark chocolate is actually a very healthy food.  Cocoa powder is one of the most <a href="/misc/iron">iron dense foods</a> out there, as well as being high in <a href="/misc/fiber">fiber</a>, <a href="/misc/nutrient-alphabet#C">copper</a>, <a href="/misc/nutrient-alphabet#M">manganese</a>, <a href="/misc/magnesium">magnesium</a>, <a href="/misc/nutrient-alphabet#P">phosphorus</a>, <a href="/misc/nutrient-alphabet#Z">zinc</a>, and <a href="/misc/nutrient-alphabet#R">riboflavin</a>.  Dark chocolate is a rich source of antioxidants, which are anti-inflammatory and protect against free radicals.  Cocoa consumption has been shown to lower blood pressure, raise HDL, reduce your risk for heart disease, and improve brain function.
+&emsp;Ironically though, true dark chocolate is actually a very healthy food.  Cocoa powder is one of the most <a href="/misc/iron">iron dense foods</a> out there, as well as being high in <a href="/misc/fiber">fiber</a>, <a href="/misc/nutrient-alphabet#C">copper</a>, <a href="/misc/nutrient-alphabet#M">manganese</a>, <a href="/misc/magnesium">magnesium</a>, <a href="/misc/phosphorus">phosphorus</a>, <a href="/misc/nutrient-alphabet#Z">zinc</a>, and <a href="/misc/nutrient-alphabet#R">riboflavin</a>.  Dark chocolate is a rich source of antioxidants, which are anti-inflammatory and protect against free radicals.  Cocoa consumption has been shown to lower blood pressure, raise HDL, reduce your risk for heart disease, and improve brain function.
 <br><br>
 &emsp;Just because chocolate says that it's "dark" though doesn't automatically make it healthy; there's a reason why I also put dark chocolate on <a href="/misc/fake-healthy-foods#chocolate">'Healthy' Trap Foods</a>.  Legally, anything over 43% cocoa solids can claim itself to be dark chocolate.  At minimum, you should aim to consume anything over 70%; anything less is candy.  The higher the percentage, the more cocoa and less <a href="/misc/hidden-sugar">sugar</a> there is.  For 1 ounce (28 g) of <a href="https://www.nutritionvalue.org/Baking_chocolate%2C_squares%2C_unsweetened_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">unsweetened (100%) chocolate</a>, you're looking at the following:
 <br>------------------------------------------
@@ -195,14 +195,14 @@ tags:
 <br><b>Protein</b>: 20 g (40 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.25 mg (28 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 200 mg (16 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 200 mg (16 %)
 <br><b><a href="/misc/potassium">Potassium</a></b>: 490 mg (10 %)
 <br><b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: 36.5 mcg (66 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.23 mg (19 %)
 <br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.38 mg (29 %)
 <br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 7.9 mg (49 %)
-<br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 1.7 mg (33 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 1.7 mg (33 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.82 mg (48 %)
 <br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b> <i>(Colbalamin)</i>: 3.2 mcg (132 %)
 <br><b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: 11 mcg (55 %)
@@ -211,7 +211,7 @@ tags:
 
 <div id="milk" class="table-of-contents"></div>
 <br><i><font size="+2">Milk</font></i><br>
-&emsp;How did milk, and dairy as a whole, so quickly go from being an everyday staple for everyone to a must avoid food group?  As long as you're not lactose-intolerant, I see no reason to avoid milk.  Dairy is a good source of complete <a href="/misc/protein">protein</a>, <a href="/misc/calcium">calcium</a>, <a href="/misc/nutrient-alphabet#P">phosphorus</a>, <a href="/misc/nutrient-alphabet#D">vitamin D</a>, and <a href="/misc/vitamin-b12">vitamin B12</a>.  <a href="/misc/calcium">Calcium</a> is crucial for bone health, and <a href="/misc/vitamin-b12">vitamin B12</a> plays a large role in brain function and energy levels.  
+&emsp;How did milk, and dairy as a whole, so quickly go from being an everyday staple for everyone to a must avoid food group?  As long as you're not lactose-intolerant, I see no reason to avoid milk.  Dairy is a good source of complete <a href="/misc/protein">protein</a>, <a href="/misc/calcium">calcium</a>, <a href="/misc/phosphorus">phosphorus</a>, <a href="/misc/nutrient-alphabet#D">vitamin D</a>, and <a href="/misc/vitamin-b12">vitamin B12</a>.  <a href="/misc/calcium">Calcium</a> is crucial for bone health, and <a href="/misc/vitamin-b12">vitamin B12</a> plays a large role in brain function and energy levels.  
 <br>
 &emsp;Most dairy products are very cheap, versatile, tasty, and minimally processed.  Here are some great overlooked dairy products.  With all of these, always always always make sure to get plain, without any added sugars:
 - Buttermilk
@@ -230,7 +230,7 @@ tags:
 <br><b>Protein</b>: 8.4 g (17 %)
 <br>------------------------------------------
 <br><b><a href="/misc/calcium">Calcium</a></b>: 322 mg (22 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 261 mg (21 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 261 mg (21 %)
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.1 mg (10 %)
 <br>------------------------------------------
 <br><b>Vitamin A</b>: 156 mcg (17 %)
@@ -281,7 +281,7 @@ tags:
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.29 mg (32 %)
 <br><b><a href="/misc/iron">Iron</a></b>: 1.1 mg (6 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 77 mg (18 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 136 mg (11 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 136 mg (11 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
 <br><b><a href="/misc/nutrient-alphabet#E">Vitamin E</a></b>: 7.3 mg (48 %)
@@ -324,12 +324,12 @@ tags:
 <br><b><a href="/misc/iron">Iron</a></b>: 1.9 mg (11 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 108 mg (26 %)
 <br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 1.72 mg (75 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 183 mg (15 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 183 mg (15 %)
 <br><b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: 11.6 mcg (21 %)
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.3 mg (12 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.22 mg (18 %)
-<br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 0.28 mg (6 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 0.28 mg (6 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/oatmeal.png" alt="" class="smaller-image"></center><br>
 
@@ -363,7 +363,7 @@ tags:
 <br><i><font size="+2">Popcorn</font></i><br>
 &emsp;Popcorn is <i>the</i> movie theater junk food.  It's often covered in <a href="/misc/fats">fat</a> (butter or hydroginated oils) and salt, and sometimes can be loaded with <a href="/misc/hidden-sugar">sugar</a> and artificial flavors too (if it's flavored).  Even worse, microwave popcorn (the ones in the bags) is a well known source of PFAS chemicals, which are linked with cancer, immunie issues, thyroid disease, and obesity.
 <br><br>
-&emsp;But it's not all bad news; far from it.  Popcorn is similar to <a rel="" target="" href="#potatoes">potatoes</a>, in that the food itself is fairly unoffensive, but it become an inflammation bomb when the <a href="/misc/fake-healthy-foods#popcorn">junk</a> gets added on.  Popcorn is a whole grain with a decent amount of <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, <a href="/misc/nutrient-alphabet#P">phosphorus</a>, <a href="/misc/magnesium">magnesium</a>, and <a href="/misc/nutrient-alphabet#C">copper</a>.
+&emsp;But it's not all bad news; far from it.  Popcorn is similar to <a rel="" target="" href="#potatoes">potatoes</a>, in that the food itself is fairly unoffensive, but it become an inflammation bomb when the <a href="/misc/fake-healthy-foods#popcorn">junk</a> gets added on.  Popcorn is a whole grain with a decent amount of <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, <a href="/misc/phosphorus">phosphorus</a>, <a href="/misc/magnesium">magnesium</a>, and <a href="/misc/nutrient-alphabet#C">copper</a>.
 <br><br>
 &emsp;<a href="https://www.nutritionvalue.org/Popcorn%2C_unbuttered%2C_air-popped_54403010_nutritional_value.html?size=40+g">Plain popcorn kernels</a> are an insane volume food.  Just 3 tbsp (40 g) of unpopped kernels becomes 7.5 cups of cooked popcorn.  The high volume combined with the high <a href="/misc/fiber">fiber</a> content leads popcorn to become a very filling and somewhat healthy snack if you prepare it yourself.  The nutrition facts are as follows:
 <br>------------------------------------------
@@ -377,7 +377,7 @@ tags:
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.10 mg (11 %)
 <br><b><a href="/misc/magnesium">Magnesium</a></b>: 57 mg (14 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 143 mg (11 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 143 mg (11 %)
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.2 mg (11 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 0.92 mg (6 %)
@@ -416,7 +416,7 @@ tags:
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (12 %)
 <br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 1.8 mg (11 %)
-<br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 0.50 mg (10 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 0.50 mg (10 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.51 mg (50 %)
 <br><b><a href="/misc/vitamin-c">Vitamin C</a></b>: 36 mg (37 %)
 <br>------------------------------------------
@@ -438,7 +438,7 @@ tags:
 <br>------------------------------------------
 <br><b>Vitamin A</b>: 1,205 mcg (134 %)
 <br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.13 mg (11 %)
-<br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 1.4 mg (27 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 1.4 mg (27 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.36 mg (21 %)
 <br>------------------------------------------
 <center><img src="/assets/Misc/Nutrition/Overshadowed/sweet-potato.png" alt="" class="smaller-image"></center><br>
@@ -459,13 +459,13 @@ tags:
 <br><b>Protein</b>: 21 g (42 %)
 <br>------------------------------------------
 <br><b><a href="/misc/iron">Iron</a></b>: 2.3 mg (13 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Phosphorus</a></b>: 192 mg (15 %)
+<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 192 mg (15 %)
 <br><b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: 17.1 mcg (31 %)
 <br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 5.0 mg (45 %)
 <br>------------------------------------------
 <br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.15 mg (12 %)
 <br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(<a href="/misc/nutrient-alphabet#N">Vitamin B3</a>)</i>: 5.3 mg (33 %)
-<br><b>Pantothenic Acid</b> <i>(Vitamin B5)</i>: 0.63 mg (13 %)
+<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(<a href="/misc/nutrient-alphabet#P">Vitamin B5</a>)</i>: 0.63 mg (13 %)
 <br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.38 mg (23 %)
 <br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b> <i>(Colbalamin)</i>: 2.2 mcg (93 %)
 <br><b>Choline</b>: 69 mg (13 %)

@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Sides
 permalink: /recipes/running-club-broccoli
-image: /assets/Food/Sides/RRC/rrc-logo.jpg
+image: /assets/Food/Sides/RRC/cover.jpg
 ing: rrc-ing
 facts: rrc-facts
 servingSize: 
