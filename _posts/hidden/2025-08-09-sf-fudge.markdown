@@ -10,7 +10,7 @@ permalink: /recipes/sugar-free-fudge
 image: /assets/Food/Finger Food/SF Fudge/cover.jpg
 ing: sffudge-ing
 facts: sffudge-facts
-servingSize: 1 piece (16 g)
+servingSize: 1 piece (~19 g)
 section1: 
 start2: 
 section2: 
@@ -21,7 +21,7 @@ section4:
 start5: 
 section5: 
 Prep: 10
-Rest: 240
+Rest: 540
 Cook: 
 Source1: https://www.poormanprotein.com/recipes/oatmeal-fudge-bars
 Source2: 
@@ -54,7 +54,6 @@ Instructions:
 - Line a small airtight container with parchment paper; mine are about 6" x 4"
 
 - Break your chocolate into chunks, and add to a medium microwave safe bowl. Microwave in 20 second intervals, stirring in between, until just fully melted, about 1.5 minutes total
-- <center><img src="/assets/Food/Finger Food/SF Fudge/melted.jpg" alt="" class="instruction-image"></center>
 
 - You can also replace the <a href="/recipes/chocolate-bar">100% chocolate bar</a> with 1/4 cup (56 g) melted coconut oil and 11 tbsp (56 g) cocoa powder
 
@@ -66,6 +65,9 @@ Instructions:
 - Spread the fudge batter into your container. Optionally top with flaky salt
 - <center><img src="/assets/Food/Finger Food/SF Fudge/pan.jpg" alt="" class="instruction-image"></center>
 
-- Cover with a lid, and chill in the fridge for 4 hours to set before slicing. Store fudge in the fridge
+- Cover with a lid, and freeze overnight to harden
+- <center><img src="/assets/Food/Finger Food/SF Fudge/set.jpg" alt="" class="instruction-image"></center>
+
+- In the morning, let sit on the counter for 1 hour before slicing.  Store fudge in the fridge
 - <center><img src="/assets/Food/Finger Food/SF Fudge/cut.jpg" alt="" class="instruction-image"></center>
 ---
