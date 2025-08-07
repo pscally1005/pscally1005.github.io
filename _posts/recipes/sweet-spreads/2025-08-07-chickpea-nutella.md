@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "No-Nut Chickpea Nutella"
-date:   2025-07-17 00:00:00 -05000
+date:   2025-08-07 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
-- Hidden
 nut_butter: yes
 permalink: /recipes/chickpea-nutella
 image: /assets/Food/Sweet Spreads/Chickpea nutella/cover.jpg
