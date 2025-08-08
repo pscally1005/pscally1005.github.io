@@ -40,7 +40,7 @@ Description: Nutella is a sweet nut based chocolate spread. Well, nut based is a
 Instructions: 
 - Drain and rinse your chickpeas. Air fry at 380F for about 15 minutes, or until dried and crispy. You can also roast in a 425F oven for about 30 minutes
 
-- Blend together chickpeas, dates, cocoa powder, and vanilla until all bits of chickpeas and dates are broken up.  Raisins will work in place of dates
+- Blend together chickpeas, dates, cocoa powder, and vanilla until all bits of chickpeas and dates are broken up.  Raisins will work in place of dates.  You can also use 1/2 cup (160 g) <a href="/recipes/sugar-free-syrup">sugar free syrup</a> in place of dates
 
 - Add a cup of water to a medium glass and microwave for 1 minute, until hot. Blend in the water until you have a smooth spread. Transfer to a jar, and store in the fridge for up to 1 week
 - <center><img src="/assets/Food/Sweet Spreads/Chickpea nutella/processor.jpg" alt="" class="instruction-image"></center>
@@ -50,7 +50,8 @@ Instructions:
     <thead>
         <tr>
             <th>Nutrient</th>
-            <th>Homemade</th>
+            <th>Homemade<br>(with Dates)</th>
+            <th>Homemade<br>(with <a href="/recipes/sugar-free-syrup">Sugar Free Syrup</a>)</th>
             <th>Storebought</th>
         </tr>
     </thead>
@@ -58,25 +59,30 @@ Instructions:
         <tr>
             <td><a href="/misc/calories">Calories</a></td>
             <td>164</td>
+            <td>89</td>
             <td>541</td>
         </tr>
         <tr>
             <td><a href="/misc/protein">Protein</a></td>
             <td>6 g</td>
             <td>5 g</td>
+            <td>5 g</td>
         </tr>
         <tr>
             <td><a href="/misc/fats">Fat</a></td>
             <td>3 g</td>
+            <td>2 g</td>
             <td>32 g</td>
         </tr>
         <tr>
             <td><a href="/misc/fiber">Fiber</a></td>
             <td>9 g</td>
+            <td>6 g</td>
             <td>3 g</td>
         </tr>
         <tr>
             <td><a href="/misc/hidden-sugar">Added Sugar</a></td>
+            <td>0 g</td>
             <td>0 g</td>
             <td>51 g</td>
         </tr>

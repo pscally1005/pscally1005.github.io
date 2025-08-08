@@ -52,6 +52,6 @@ Instructions:
 
 - You can prepare this ahead of time and heat it up when it's time for dinner.  Just mix everything together, cover, and refrigerate.  To reheat, bake straight from the fridge at 350F (covered with foil) for about 30 mintes, or until steamy
 
-- Feel free to customize this recipe.  Below is a variation I made with <a href="/recipes/spaghetti-squash">spaghetti squash</a> instead of pasta.  I diced some full sized tomatoes instead of using cherry tomatoes, and large tomatoes are 1/3 of the price.  Because of the squash, this looks more like slop, but I honestly preferred this to the original
+- Feel free to customize this recipe.  Below is a variation I made with <a href="/recipes/spaghetti-squash">spaghetti squash</a> instead of pasta.  I diced some full sized tomatoes instead of using cherry tomatoes, as large tomatoes are 1/3 of the price.  Because of the squash, this looks more like slop, but I honestly preferred this to the original
 - <center><img src="/assets/Food/Meatless/Feta pasta/feta-squash-1.jpg" alt="" class="half-page"><img src="/assets/Food/Meatless/Feta pasta/feta-squash-2.jpg" alt="" class="half-page"></center>
 ---
