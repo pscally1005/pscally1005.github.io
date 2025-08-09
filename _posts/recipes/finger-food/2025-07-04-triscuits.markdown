@@ -4,7 +4,7 @@ title:  "Copycat Triscuit Crackers"
 date:   2025-07-04 00:00:00 -0500
 categories: 
 - Recipes
-- Finger Food
+- Finger Foods
 permalink: /recipes/triscuits
 image: /assets/Food/Finger Food/Triscuit/cover-new.jpg
 ing: triscuit-ing
