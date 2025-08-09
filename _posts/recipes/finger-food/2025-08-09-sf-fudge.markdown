@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "3 Ingredient Sugar Free Fudge"
-date:   2025-07-30 00:00:00 -0500
+date:   2025-08-09 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Food
-- Hidden
 permalink: /recipes/sugar-free-fudge
 image: /assets/Food/Finger Food/SF Fudge/cover.jpg
 ing: sffudge-ing
