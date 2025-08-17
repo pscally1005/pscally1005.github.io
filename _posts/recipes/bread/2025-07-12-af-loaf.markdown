@@ -34,7 +34,7 @@ tags:
 - psyllium husk
 - ground flaxseed
 - toast
-Description: After the success of my <a href="/recipes/almond-flour-rolls">Almond Flour Rolls</a>, I knew I had to scale the recipe up into a loaf of bread. The result is easily the best gluten free bread I've ever made or had (sorry <a href="/recipes/gluten-free-millet-bread">Gluten Free Millet Bread</a>, you've been dethroned). This almond flour bread is able to perfectly mimic the texture of standard wheat based bread, without the gluten and refined grains.  Plus, this bread is higher in <a href="/misc/fats">healthy <a href="/misc/fats">fats</a></a>, <a href="/misc/protein">protein</a>, and <a href="/misc/fiber">fiber</a> than traditional bread. All without any yeast, meaning there's no waiting time
+Description: After the success of my <a href="/recipes/almond-flour-rolls">Almond Flour Rolls</a>, I knew I had to scale the recipe up into a loaf of bread. The result is easily the best gluten free bread I've ever made or had (sorry <a href="/recipes/gluten-free-millet-bread">Gluten Free Millet Bread</a>, you've been dethroned). This almond flour bread is able to perfectly mimic the texture of standard wheat based bread, without the gluten and refined grains.  Plus, this bread is higher in <a href="/misc/fats">healthy fats</a>, <a href="/misc/protein">protein</a>, and <a href="/misc/fiber">fiber</a> than traditional bread. All without any yeast, meaning there's no waiting time
 Instructions: 
 - Preheat your oven to 375F, and lightly grease a 9x5" bread pan
 

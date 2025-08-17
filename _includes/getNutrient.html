@@ -19,7 +19,7 @@
 {% elsif page.title == "___ + Eggs = Waffles??" %}
     {% assign loopVarFacts = site.data.waffle[facts] %}
     {% assign loopVarIng = site.data.waffle[ing] %}
-{% elsif page.title == "Flourless Keto Brownies (2 g Net Carbs)" or page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" or page.title == "No Nut Protein Banana Bread" or page.title == "1,000 Calorie Bulking Breakfast" %}
+{% elsif page.title == "Flourless Keto Brownies (2 g Net Carbs)" or page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" or page.title == "No Nut Protein Banana Bread" or page.title == "1,000 Calorie Bulking Breakfast" or page.title == "No Bake Homemade Tiramisù" %}
     {% assign loopVarFacts = site.data[facts] %}
     {% assign loopVarIng = site.data[ing] %}
 {% elsif page.title == "DIY Yogurt" %}
@@ -59,7 +59,8 @@
     page.title == "Got Calcium?" or
     page.title == "Phosphorus: Fuel For Bones & Beyond" or
     page.title == "DIY Yogurt" or
-    page.title == "Cottage Cheese Flatbread"
+    page.title == "Cottage Cheese Flatbread" or
+    page.title == "No Bake Homemade Tiramisù"
 %}
     {% assign showPercentage = "False" %}
 {% endif %}

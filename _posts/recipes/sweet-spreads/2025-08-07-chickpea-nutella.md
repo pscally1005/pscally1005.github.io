@@ -81,6 +81,12 @@ Instructions:
             <td>3 g</td>
         </tr>
         <tr>
+            <td><a href="/misc/carbs">Net Carbs</a></td>
+            <td>28 g</td>
+            <td>10 g</td>
+            <td>59 g</td>
+        </tr>
+        <tr>
             <td><a href="/misc/hidden-sugar">Added Sugar</a></td>
             <td>0 g</td>
             <td>0 g</td>
