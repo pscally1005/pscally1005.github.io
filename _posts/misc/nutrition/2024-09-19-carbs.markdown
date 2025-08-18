@@ -50,7 +50,7 @@ tags:
 - Gout
 - Heart disease
 - High blood pressure
-- High cholesterol
+- High <a href="/misc/cholesterol">cholesterol</a>
 - Hyperglycemia
 - Hypoglycemia
 - IBS

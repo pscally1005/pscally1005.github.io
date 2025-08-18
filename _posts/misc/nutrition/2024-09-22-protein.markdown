@@ -68,7 +68,7 @@ tags:
 - Muscle and skeletal maintenance
 - Proper cell structure
 - Reduced soreness and fatigue
-- Transportation of oxygen, cholesterol, and glucose throughout the body
+- Transportation of oxygen, <a href="/misc/cholesterol">cholesterol</a>, and glucose throughout the body
 - Wound healing and immune health
 <center><img src="/assets/Misc/Nutrition/Protein/red-blood-cells.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Protein/gastroenterology.png" alt="" class="smaller-image"></center>
 <br>
@@ -82,7 +82,7 @@ tags:
 - Improved immune system and decreased sickness
 - Increased energy and mood
 - Increased satiety and decreased hunger
-- Lower cholesterol
+- Lower <a href="/misc/cholesterol">cholesterol</a>
 - Lower blood pressure
 - Lower blood sugar
 - Muscle growth
