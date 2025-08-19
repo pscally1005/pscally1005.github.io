@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Just One Cookie"
-date:   2025-07-17 00:00:00 -05000
+date:   2025-08-19 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
-- Hidden
 cookie: yes
 permalink: /recipes/just-one-cookie
 image: /assets/Food/Healthier Dessert/One cookie/bite.jpg
