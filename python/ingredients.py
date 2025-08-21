@@ -114,6 +114,8 @@ def ingredients(food):
     
     
     # Oil, vinegar, other liquids
+    elif food == "Fat, chicken":
+        return str("Chicken fat")
     elif food == "Oil, salad or cooking, olive" or food == "Extra virgin olive oil by OLIO" or food == "Extra virgin olive oil by QO" or food == "Extra virgin olive oil by GAEA" or food == "Extra virgin olive oil by BRAGG":
         return str("Extra virgin olive oil")
     elif food == "Extra virgin coconut oil by KELAPO" or food == "Oil, coconut" or food == "Extra virgin coconut oil by VITA BRAND":
