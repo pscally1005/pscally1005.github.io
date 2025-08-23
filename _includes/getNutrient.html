@@ -19,49 +19,21 @@
 {% elsif page.title == "___ + Eggs = Waffles??" %}
     {% assign loopVarFacts = site.data.waffle[facts] %}
     {% assign loopVarIng = site.data.waffle[ing] %}
-{% elsif page.title == "Flourless Keto Brownies (2 g Net Carbs)" or page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" or page.title == "No Nut Protein Banana Bread" or page.title == "1,000 Calorie Bulking Breakfast" or page.title == "No Bake Homemade Tiramisù" %}
-    {% assign loopVarFacts = site.data[facts] %}
-    {% assign loopVarIng = site.data[ing] %}
 {% elsif page.title == "DIY Yogurt" %}
     {% assign loopVarFacts = site.data.diy-yogurt[facts] %}
     {% assign loopVarIng = site.data.diy-yogurt[ing] %}
 {% elsif page.title == "Cottage Cheese Flatbread" %}
     {% assign loopVarFacts = site.data.cc-flatbread[facts] %}
     {% assign loopVarIng = site.data.cc-flatbread[ing] %}
+{% elsif page.categories.first == "Recipes" %}
+    {% assign loopVarFacts = site.data[facts] %}
+    {% assign loopVarIng = site.data[ing] %}
 {% endif %}
 
 <!-- Show DV % -->
 {% assign showPercentage = "True" %}
-{% if 
-    page.title == "Fiber: Happiness is a Good Poop" or
-    page.title == "I Run on Iron" or
-    page.title == "Mag-nificent: The Mighty Mineral for Muscles and Mind" or
-    page.title == "A Monkey Never Cramps: Why You Need Potassium" or
-    page.title == "A Pinch of Life: Why Your Body Needs Sodium" or
-    page.title == "Copycat Barebell Protein Bars" or
-    page.title == "Improving the Pinto Bean Cake" or
-    page.title == "___ + Eggs = Waffles??" or
-    page.title == "Let's Meet The Meats" or
-    page.title == "I'm Nuts For Nuts" or
-    page.title == "Beans Beans The Musical Fruit" or
-    page.title == "I See Seeds In Your Future" or
-    page.title == "Going Bananas For Bananas" or
-    page.title == "Lettuce Turnip The Beet" or
-    page.title == "I'm Hooked On Fish" or
-    page.title == "A Grain Of Truth" or
-    page.title == "I'm Dying For Dairy" or
-    page.title == "B-Ware the Deficiency: The Power of B12" or
-    page.title == "Flourless Keto Brownies (2 g Net Carbs)" or
-    page.title == "Keto Chocolate Chip Cookies (3 g Net Carbs)" or
-    page.title == "No Nut Protein Banana Bread" or
-    page.title == "1,000 Calorie Bulking Breakfast" or
-    page.title == "(Vitamin) C You Later, Sickness!" or
-    page.title == "Got Calcium?" or
-    page.title == "Phosphorus: Fuel For Bones & Beyond" or
-    page.title == "Cholesterol: Yay or Nay?" or
-    page.title == "DIY Yogurt" or
-    page.title == "Cottage Cheese Flatbread" or
-    page.title == "No Bake Homemade Tiramisù"
+{% if
+    page.showPercentage == false
 %}
     {% assign showPercentage = "False" %}
 {% endif %}
