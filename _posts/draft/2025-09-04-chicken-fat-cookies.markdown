@@ -5,7 +5,7 @@ date:   2025-08-20 00:00:00 -05000
 categories: 
 - Misc.
 - Unhealthy Recipes
-- Hidden
+- Draft
 cookie: yes
 permalink: /recipes/chicken-fat-chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Chicken Fat Cookies/cover.jpg
@@ -52,7 +52,7 @@ Instructions:
 
 - Note that butter is only about 80% fat and 20% water. In comparison, rendered animal fats (chicken fat, beef tallow, or lard), as well as oils (coconut oil, olive oil, shortening, canola oil, etc.), are 100% fat. So to substitute for butter, we need to use 80% of the called for butter, and replace the rest with water. For 1 stick (113 g) butter, this means using 6 tbsp (90 g) chicken fat, plus 1.5 tbsp (22.5 g) water. This substitution holds true if you decide to replace butter for coconut oil or Crisco in any baking recipes
 
-- Also note that when I roasted the chicken to render out the broth and the fat, I only seasoned the chicken with salt.  No pepper, garlic powder, onion powder, or paprika as I originally 
+- Also note that when I roasted the chicken to render out the broth and the fat, I only seasoned the chicken with salt.  No pepper, garlic powder, onion powder, or paprika as I originally called for in my <a href="/misc/slow-cooker-chicken">recipe</a>
 
 - Mix together the (melted) chicken fat, water, sugar, and honey with a silicone spatula or hand mixer until fully combined and lightly fluffy. Beat in egg and mix in vanilla, salt, and baking soda. Fully combine, then mix in the flour. Fold in the chocolate chips
 

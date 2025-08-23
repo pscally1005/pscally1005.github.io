@@ -21,7 +21,14 @@ layout: base
   {%- endif -%}
 
   <!-- Shuffle Button -->
-  {% if page.title and page.title != "Search" and page.title != "Python" and page.title != "Archive" %}
+  {% if 
+    page.title and 
+    page.title != "Search" and 
+    page.title != "Python" and 
+    page.title != "Archive" and 
+    page.title != "Hidden" and 
+    page.title != "Draft"
+  %}
     <div class="shuffle-container">
       <center><a href="#" id="button" class="button">Shuffle Post</a></center>
     </div>
@@ -32,7 +39,13 @@ layout: base
     page.categories != "Misc." or 
     page.categories == "Misc." and page.title == "Unhealthy Recipes"
   %}
-    {% unless page.title == "Search" or page.categories == "Food categories" %}
+    {% unless
+        page.title == "Search" or 
+        page.categories == "Food categories" or
+        page.title == "Archive" or
+        page.title == "Hidden" or
+        page.title == "Draft"
+    %}
       <center><div class="filter-options">
         <label><input type="checkbox" id="glutenFree" /> Gluten-Free</label>
         <label><input type="checkbox" id="vegetarian" /> Vegetarian</label>
@@ -56,7 +69,7 @@ layout: base
 
   {% assign postCount = 0 %}
   {% for post in posts %}
-    {% if page.title == "Home" and post.categories.last != "Archive" and post.categories.last != "Hidden" %}
+    {% if page.title == "Home" and post.categories.last != "Archive" and post.categories.last != "Hidden" and post.categories.last != "Draft" %}
       {% assign postCount = postCount | plus: 1 %}
     {% elsif post.categories.last == page.title %}
       {% assign postCount = postCount | plus: 1 %}
@@ -125,7 +138,12 @@ layout: base
             {% endif %}
 
             <!-- Skip if hidden -->
-            {% if post.categories.last == "Hidden" %}
+            {% if post.categories.last == "Hidden" and page.title != "Hidden" %}
+              {% continue %}
+            {% endif %}
+
+            <!-- Skip if draft -->
+            {% if post.categories.last == "Draft" and page.title != "Draft" %}
               {% continue %}
             {% endif %}
 

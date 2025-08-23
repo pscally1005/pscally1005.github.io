@@ -5,7 +5,7 @@ date:   2025-08-18 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
-- Hidden
+- Draft
 permalink: /recipes/whipped-feta-spread
 image: /assets/Food/Savory Sauces/Whipped Feta/cover-pepper.jpg
 ing: whippedfeta-ing

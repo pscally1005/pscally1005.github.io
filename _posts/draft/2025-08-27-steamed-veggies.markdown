@@ -5,7 +5,7 @@ date:   2025-08-07 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
-- Hidden
+- Draft
 permalink: /recipes/steamed-veggies
 image: /assets/Food/Sides/Steamed Veggies/cover.jpg
 ing: steamedveggies-ing

@@ -5,7 +5,7 @@ date:   2025-08-08 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
-- Hidden
+- Draft
 cookie: yes
 permalink: /recipes/coconut-cookies
 image: /assets/Food/Healthier Dessert/Coconut Cookies/cover.jpg

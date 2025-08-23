@@ -41,7 +41,7 @@ tags:
 - sugar free
 - gluten free
 - chocolate chip cookies
-Description: Do you ever just want one cookie?  You want a nice and delicious chocolate chip cookie, but you don't want to be left with a whole batch?  Well you're in the right spot.  This recipe is essentially a scaled down version of my <a href="/recipes/keto-chocolate-chip-cookies">Keto Chocolate Chip Cookies</a>, enough to make 1 large sized cookie
+Description: Do you ever just want one cookie?  You want a nice and delicious chocolate chip cookie, but you don't want to be left with a whole batch?  Well you're in the right spot.  This recipe is essentially a scaled down version of my <a href="/recipes/keto-chocolate-chip-cookies">Keto Chocolate Chip Cookies</a>, enough to make 1 large sized cookie.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - Preheat your air fryer to 300F on the air fry setting
 
