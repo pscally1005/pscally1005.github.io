@@ -5,6 +5,17 @@ date:   2024-05-06 00:00:00 -0500
 categories:
 - Recipes
 - Bread
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/red-lentil-wraps
 image: /assets/Food/Bread/Lentil Wrap/lentil-wrap.jpg
 ing: redlentilwrap-ing

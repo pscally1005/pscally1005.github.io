@@ -5,6 +5,17 @@ date:   2024-11-04 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/superfood-bowls
 image: /assets/Food/Fish/Superfood/superfood-cover.jpg
 ing: superfood-ing

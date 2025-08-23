@@ -6,6 +6,17 @@ categories:
 - Recipes
 - Finger Foods
 - Archive
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/air-fried-trail-mix
 image: /assets/Food/Finger Food/Air Fry Trail Mix/air-fry-trail-cover.jpg
 ing: airfrytrail-ing

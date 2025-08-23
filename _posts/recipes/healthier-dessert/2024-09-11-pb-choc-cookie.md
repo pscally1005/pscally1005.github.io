@@ -5,6 +5,16 @@ date:   2024-09-11 00:00:01 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 permalink: /recipes/peanut-butter-date-cookies
 image: /assets/Food/Healthier Dessert/PB Date Cookie/pb-date-cover.jpg

@@ -5,6 +5,17 @@ date:   2024-04-16 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/neopolitan-banana-ice-cream
 image: /assets/Food/Healthier Dessert/Neopolitan/neopolitan-cover.jpg
 ing: neopolitan-ing

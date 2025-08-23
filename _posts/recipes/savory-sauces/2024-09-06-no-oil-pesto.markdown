@@ -5,7 +5,17 @@ date:   2024-09-06 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
 pesto: yes
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/oil-free-basil-pesto
 image: /assets/Food/Savory Sauces/Basil Pesto/pesto-cover.jpg
 ing: nooilpesto-ing

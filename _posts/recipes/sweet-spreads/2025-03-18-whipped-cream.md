@@ -5,6 +5,17 @@ date:   2025-03-18 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/whipped-cream
 image: /assets/Food/Sweet Spreads/Whipped Cream/cover.jpg
 ing: whippedcream-ing

@@ -5,6 +5,17 @@ date:   2025-04-12 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/no-protein-bar
 image: /assets/Food/Meme/No protein bar/cover.jpg
 ing: noproteinbar-ing

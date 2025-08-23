@@ -5,6 +5,17 @@ date:   2023-06-14 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/egg-wrap
 image: /assets/Food/Breakfast/Egg Wrap/egg-wrap-cover.jpg
 ing: eggwrap-ing

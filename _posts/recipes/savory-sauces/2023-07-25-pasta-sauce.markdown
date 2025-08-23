@@ -5,6 +5,17 @@ date:   2023-07-25 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/pasta-sauce
 image: /assets/Food/Savory Sauces/Pasta Sauce/sauce.jpg
 ing: sauce-ing

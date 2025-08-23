@@ -5,6 +5,17 @@ date:   2024-07-29 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/higher-protein-scrambled-eggs
 image: /assets/Food/Breakfast/Higher Protein Eggs/higher-protein-eggs.jpg
 ing: higherproteineggs-ing

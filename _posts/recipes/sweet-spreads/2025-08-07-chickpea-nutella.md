@@ -5,7 +5,17 @@ date:   2025-08-07 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
 nut_butter: yes
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/chickpea-nutella
 image: /assets/Food/Sweet Spreads/Chickpea nutella/cover.jpg
 ing: chickpeanutella-ing

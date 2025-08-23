@@ -5,6 +5,17 @@ date:   2023-04-16 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/marinated-chicken
 image: /assets/Food/Chicken/Marinated/marinated-cover.jpg
 ing: marinated-ing

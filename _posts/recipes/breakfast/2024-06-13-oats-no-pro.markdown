@@ -5,7 +5,17 @@ date:   2024-06-13 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
 oatmeal: yes
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/no-protein-powder-oatmeal
 image: /assets/Food/Breakfast/No Pro/no-pro.jpg
 ing: oatsnopro-ing

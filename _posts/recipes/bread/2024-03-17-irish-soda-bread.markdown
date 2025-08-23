@@ -5,6 +5,17 @@ date:   2024-03-17 00:00:00 -0500
 categories:
 - Recipes
 - Bread
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/irish-soda-bread
 image: /assets/Food/Bread/Irish/irish-cover.jpg
 ing: irish-ing

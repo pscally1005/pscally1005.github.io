@@ -6,6 +6,17 @@ categories:
 - Recipes
 - Sides
 - Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/steamed-veggies
 image: /assets/Food/Sides/Steamed Veggies/cover.jpg
 ing: steamedveggies-ing

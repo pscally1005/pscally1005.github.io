@@ -5,6 +5,17 @@ date:   2025-05-07 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/pickle-ketchup
 image: /assets/Food/Savory Sauces/Pickle Honey Ketchup/cover.jpg
 ing: ketchuphoney-ing

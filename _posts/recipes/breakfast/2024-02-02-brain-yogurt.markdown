@@ -5,7 +5,17 @@ date:   2024-02-02 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
 yogurt: yes
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/brain-yogurt
 image: /assets/Food/Breakfast/Avocado Yogurt/avocado-yogurt.jpg
 ing: avoyog-ing

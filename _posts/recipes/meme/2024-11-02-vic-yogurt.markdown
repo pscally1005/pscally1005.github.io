@@ -5,7 +5,17 @@ date:   2024-11-02 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+showPercentage: no
+hummus: no
+oatmeal: no
 yogurt: yes
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/vic-yogurt
 image: /assets/Food/Meme/Yogurt/cover.jpg
 ing: vicyogurt-ing

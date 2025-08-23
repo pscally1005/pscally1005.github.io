@@ -5,6 +5,17 @@ date:   2024-04-13 00:00:00 -0500
 categories:
 - Recipes
 - Bread
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/cloud-bread
 image: /assets/Food/Bread/Cloud Bread/cloud-cover.jpg
 ing: cloud-ing

@@ -5,6 +5,17 @@ date:   2023-07-07 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/cottage-cheese-ice-cream
 image: /assets/Food/Protein Powder/Cottage Cheese Ice Cream/cc-cream.jpg
 ing: ccicecream-ing

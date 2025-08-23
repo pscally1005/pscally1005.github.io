@@ -5,6 +5,17 @@ date:   2023-04-16 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/protein-candy-bars
 image: /assets/Food/Protein Powder/Caramel/caramel-cover.jpg
 ing: caramel-ing

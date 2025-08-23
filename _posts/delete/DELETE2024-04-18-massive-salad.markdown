@@ -5,7 +5,17 @@ date:   2024-04-18 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
 salad: yes
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/massive-salad
 image: /assets/Food/Fish/Massive Salad/massive-salad-cover.jpg
 ing: massivesalad-ing

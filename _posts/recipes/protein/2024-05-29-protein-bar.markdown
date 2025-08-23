@@ -5,6 +5,17 @@ date:   2024-05-29 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/protein-bar
 image: /assets/Food/Protein Powder/Protein Bar/protein-bar.jpg
 ing: proteinbar-ing

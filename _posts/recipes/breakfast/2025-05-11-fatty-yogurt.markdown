@@ -5,7 +5,17 @@ date:   2025-05-11 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
 yogurt: yes
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/fatty-yogurt
 image: /assets/Food/Breakfast/Fatty Yogurt/cover.jpg
 ing: fattyyogurt-ing

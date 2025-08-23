@@ -5,7 +5,17 @@ date:   2024-05-17 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/peanut-chili-salad-dressing
 image: /assets/Food/Savory Sauces/PB Dressing/cover.jpg
 ing: pbdressing-ing

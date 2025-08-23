@@ -5,6 +5,17 @@ date:   2024-11-26 00:00:00 -05000
 categories: 
 - Recipes
 - Finger Foods
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/date-snickers
 image: /assets/Food/Finger Food/Date Snickers/date-snickers.jpg
 ing: datesnickers-ing

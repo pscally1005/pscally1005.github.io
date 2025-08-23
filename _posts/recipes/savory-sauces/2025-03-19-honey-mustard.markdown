@@ -5,7 +5,17 @@ date:   2025-03-19 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/no-honey-mustard
 image: /assets/Food/Savory Sauces/No Honey Mustard/cover.jpg
 ing: nohoneymustard-ing

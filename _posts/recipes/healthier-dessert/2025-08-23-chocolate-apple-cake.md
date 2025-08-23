@@ -5,6 +5,17 @@ date:   2025-08-23 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/chocolate-apple-cake
 image: /assets/Food/Healthier Dessert/Chocolate apple cake/cover.jpg
 ing: chocolateapplecake-ing

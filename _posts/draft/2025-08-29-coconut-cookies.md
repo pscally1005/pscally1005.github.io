@@ -6,6 +6,16 @@ categories:
 - Recipes
 - Healthier Dessert
 - Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 permalink: /recipes/coconut-cookies
 image: /assets/Food/Healthier Dessert/Coconut Cookies/cover.jpg

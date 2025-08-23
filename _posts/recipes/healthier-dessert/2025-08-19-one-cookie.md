@@ -5,6 +5,16 @@ date:   2025-08-19 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 permalink: /recipes/just-one-cookie
 image: /assets/Food/Healthier Dessert/One cookie/bite.jpg

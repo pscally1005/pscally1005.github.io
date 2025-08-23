@@ -5,6 +5,17 @@ date:   2024-03-12 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Foods
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/stuffed-grape-leaves
 image: /assets/Food/Finger Food/Grape/grape-cover.jpg
 ing: grape-ing

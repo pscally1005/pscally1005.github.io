@@ -5,6 +5,16 @@ date:   2024-07-11 00:00:02 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 permalink: /recipes/double-chocolate-date-cookies
 image: /assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-cover.jpg

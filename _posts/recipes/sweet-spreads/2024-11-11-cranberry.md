@@ -5,6 +5,17 @@ date:   2024-11-11 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/cranberry-sauce
 image: /assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-cover.jpg
 ing: cranberrysauce-ing

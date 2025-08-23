@@ -5,6 +5,17 @@ date:   2024-01-17 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/cabbage-bread
 image: /assets/Food/Bread/Cabbage/cabbage-cover.jpg
 ing: cabbagebread-ing

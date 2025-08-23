@@ -5,7 +5,17 @@ date:   2023-11-29 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
 nut_butter: yes
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/cran-almond
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cran-almond.jpg
 ing: cranalmond-ing

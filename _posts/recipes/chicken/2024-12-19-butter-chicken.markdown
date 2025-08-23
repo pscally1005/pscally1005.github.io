@@ -5,6 +5,17 @@ date:   2024-12-19 00:00:00 -05000
 categories: 
 - Recipes
 - Chicken
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/butter-chicken
 image: /assets/Food/Chicken/Butter Chicken/cover.jpg
 ing: butterchicken-ing

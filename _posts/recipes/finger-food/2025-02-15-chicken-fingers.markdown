@@ -5,6 +5,17 @@ date:   2025-02-15 00:00:00 -05000
 categories: 
 - Recipes
 - Finger Foods
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/chicken-fingers
 image: /assets/Food/Finger Food/Chicken Fingers/cover.jpg
 ing: chickenfingers-ing

@@ -5,6 +5,17 @@ date:   2024-10-24 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/pumpkin-puree
 image: /assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cover.jpg
 ing: pumpkinpuree-ing

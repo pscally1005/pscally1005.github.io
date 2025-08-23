@@ -5,7 +5,17 @@ date:   2024-12-08 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
 soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/chicken-noodle-stew
 image: /assets/Food/Chicken/Chicken Noodle/cover.jpg
 ing: chickennoodle-ing

@@ -5,6 +5,17 @@ date:   2023-07-09 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/spinach-meatloaf
 image: /assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-cover.jpg
 ing: spinachmeat-ing

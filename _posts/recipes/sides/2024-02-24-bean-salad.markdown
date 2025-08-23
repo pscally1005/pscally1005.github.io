@@ -5,7 +5,17 @@ date:   2024-02-24 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
 salad: yes
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/bean-salad
 image: /assets/Food/Sides/Bean Salad/bean-salad-cover.jpg
 ing: beansalad-ing

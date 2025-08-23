@@ -5,6 +5,17 @@ date:   2025-03-30 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/butternut-squash
 image: /assets/Food/Sides/Butternut squash/plate.jpg
 ing: butternutsquash-ing

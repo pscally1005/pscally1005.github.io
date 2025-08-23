@@ -5,7 +5,17 @@ date:   2025-06-14 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
 nut_butter: yes
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/quick-nutella
 image: /assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg
 ing: quicknutella-ing

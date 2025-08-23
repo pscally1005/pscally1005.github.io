@@ -5,7 +5,17 @@ date:   2024-05-28 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
 nut_butter: yes
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/no-stir-peanut-butter
 image: /assets/Food/Meme/No Stir/no-stir.jpg
 ing: nostir-ing

@@ -5,6 +5,17 @@ date:   2024-04-01 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/fish-and-chips
 image: /assets/Food/Fish/Fish Chips/fish-chips-cover.jpg
 ing: fishchips-ing

@@ -5,7 +5,17 @@ date:   2025-03-06 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
 soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/vegan-chili
 image: /assets/Food/Meatless/Vegan Chili/cover.jpg
 ing: veganchili-ing

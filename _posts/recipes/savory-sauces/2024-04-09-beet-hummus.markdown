@@ -5,8 +5,17 @@ date:   2024-04-09 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
 hummus: yes
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/roasted-beet-hummus
 image: /assets/Food/Savory Sauces/Beet Hummus/cover.jpg
 ing: beethummus-ing

@@ -5,9 +5,17 @@ date:   2024-05-21 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
 hummus: yes
+oatmeal: no
+yogurt: no
+nut_butter: no
 pesto: yes
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/creamy-pesto-hummus
 image: /assets/Food/Savory Sauces/Pesto Hummus/pesto-hummus.jpg
 ing: pestohummus-ing

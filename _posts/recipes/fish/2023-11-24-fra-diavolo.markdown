@@ -5,6 +5,17 @@ date:   2023-11-24 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/fra-diavolo
 image: /assets/Food/Fish/Fra Diavolo/fra-diavolo-cover.jpg
 ing: fradiavolo-ing

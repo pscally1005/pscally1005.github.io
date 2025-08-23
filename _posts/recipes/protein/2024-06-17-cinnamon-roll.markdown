@@ -5,6 +5,17 @@ date:   2024-06-17 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/protein-cinnamon-rolls
 image: /assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-cover.jpg
 ing: cinnamonroll-ing

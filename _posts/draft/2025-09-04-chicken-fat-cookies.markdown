@@ -6,6 +6,16 @@ categories:
 - Misc.
 - Unhealthy Recipes
 - Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 permalink: /recipes/chicken-fat-chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Chicken Fat Cookies/cover.jpg

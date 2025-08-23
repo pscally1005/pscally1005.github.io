@@ -5,7 +5,17 @@ date:   2023-04-01 00:00:00 -05000
 categories: 
 - Recipes
 - Sweet Spreads
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
 nut_butter: yes
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/natural-peanut-butter
 image: /assets/Food/Sweet Spreads/PB/pb-cover.jpg
 ing: pb-ing

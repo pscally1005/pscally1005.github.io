@@ -5,7 +5,17 @@ date:   2024-04-10 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
 pesto: yes
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/avocado-pesto
 image: /assets/Food/Savory Sauces/Avo Pesto/cover.jpg
 ing: avopesto-ing

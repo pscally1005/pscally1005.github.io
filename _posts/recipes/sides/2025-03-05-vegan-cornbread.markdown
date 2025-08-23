@@ -5,6 +5,17 @@ date:   2025-03-05 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/vegan-cornbread
 image: /assets/Food/Sides/Vegan Cornbread/cover.jpg
 ing: vegancornbread-ing

@@ -5,7 +5,17 @@ date:   2023-04-01 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
 brownie: yes
+cookie: no
 permalink: /recipes/no-bake-brownies
 image: /assets/Food/Protein Powder/No Bake Brownie/no-bake-brownie-cover.jpg
 ing: nobakebrownie-ing

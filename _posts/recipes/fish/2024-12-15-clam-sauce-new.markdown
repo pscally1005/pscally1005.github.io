@@ -5,6 +5,17 @@ date:   2024-12-15 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/pasta-with-clam-sauce
 image: /assets/Food/Fish/Clam Sauce New/mixed.jpg
 ing: clamsaucenew-ing

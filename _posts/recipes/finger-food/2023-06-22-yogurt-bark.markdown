@@ -5,6 +5,17 @@ date:   2023-06-22 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Foods
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: yes
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/yogurt-bark
 image: /assets/Food/Finger Food/Yogurt Bark/bark-cover.jpg
 ing: bark-ing

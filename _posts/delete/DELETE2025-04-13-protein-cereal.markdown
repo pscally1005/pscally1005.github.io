@@ -5,6 +5,17 @@ date:   2025-04-13 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/protein-cereal
 image: /assets/Food/Breakfast/Protein Cereal/cover.jpg
 ing: proteincereal-ing

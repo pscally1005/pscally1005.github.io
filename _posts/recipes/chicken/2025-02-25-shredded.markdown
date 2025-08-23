@@ -5,6 +5,17 @@ date:   2025-02-25 00:00:00 -05000
 categories: 
 - Recipes
 - Chicken
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/shredded-chicken
 image: /assets/Food/Chicken/Shredded/cover.jpg
 ing: shreddedchicken-ing

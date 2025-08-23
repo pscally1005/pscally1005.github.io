@@ -5,7 +5,17 @@ date:   2023-05-21 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
 brownie: yes
+cookie: no
 permalink: /recipes/sweet-potato-brownies
 image: /assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-cover.jpg
 ing: sweetpotatobrownies-ing

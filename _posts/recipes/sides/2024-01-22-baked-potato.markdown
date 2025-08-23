@@ -5,6 +5,17 @@ date:   2024-01-22 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/baked-sweet-potato
 image: /assets/Food/Sides/Baked Potato/baked-potato-2.jpg
 ing: potato-ing

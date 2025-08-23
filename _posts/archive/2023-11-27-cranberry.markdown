@@ -6,6 +6,17 @@ categories:
 - Recipes
 - Finger Food
 - Archive
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/dried-cranberry
 image: /assets/Food/Finger Food/Cranberry/cranberry-cover.jpg
 ing: cranberry-ing

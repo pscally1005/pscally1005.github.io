@@ -5,7 +5,17 @@ date:   2025-02-02 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
 soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/low-fodmap-chili
 image: /assets/Food/Ground Meat/Low FODMAP Chili/cover.jpg
 ing: lowfodmapchili-ing

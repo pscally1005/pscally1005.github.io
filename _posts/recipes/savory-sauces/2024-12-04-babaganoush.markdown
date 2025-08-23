@@ -5,7 +5,17 @@ date:   2024-12-04 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/babaganoush
 image: /assets/Food/Savory Sauces/Babaganoush/cover.jpg
 ing: babaganoush-ing

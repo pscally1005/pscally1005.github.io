@@ -5,7 +5,17 @@ date:   2024-01-25 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
 soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/dead-simple-chili
 image: /assets/Food/Meme/Chili/dead-chili.jpg
 ing: deadchili-ing

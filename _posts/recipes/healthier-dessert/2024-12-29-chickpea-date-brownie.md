@@ -5,7 +5,17 @@ date:   2024-12-29 00:00:01 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
 brownie: yes
+cookie: no
 permalink: /recipes/chickpea-date-brownies
 image: /assets/Food/Healthier Dessert/Chickpea Date Brownie/cover.jpg
 ing: chickpeadatebrownies-ing

@@ -5,6 +5,17 @@ date:   2024-09-17 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/banana-protein-pancakes
 image: /assets/Food/Breakfast/Banana Pancake/pancake-cover.jpg
 ing: bananapancake-ing

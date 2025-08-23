@@ -5,6 +5,17 @@ date:   2024-07-03 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/granola-bars
 image: /assets/Food/Finger Food/Granola Bar/granola-bar-cover.jpg
 ing: granolabar-ing

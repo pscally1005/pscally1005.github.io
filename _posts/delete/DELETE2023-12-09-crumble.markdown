@@ -5,6 +5,17 @@ date:   2023-12-09 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Foods
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/protein-crumbles
 image: /assets/Food/Finger Food/Protein Crumble/protein-crumble.jpg
 ing: crumble-ing

@@ -5,6 +5,17 @@ date:   2023-08-22 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/banana-protein
 image: /assets/Food/Protein Powder/Banana Protein/banana-protein-cover.jpg
 ing: bananaprotein-ing

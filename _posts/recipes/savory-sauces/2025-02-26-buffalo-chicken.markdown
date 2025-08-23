@@ -5,6 +5,17 @@ date:   2025-02-26 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/buffalo-chicken-dip
 image: /assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg
 ing: buffalodipnew-ing

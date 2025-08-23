@@ -5,7 +5,17 @@ date:   2024-01-17 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
 soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/cacciatore
 image: /assets/Food/Chicken/Cacciatore/cacciatore-cover.jpg
 ing: cacciatore-ing

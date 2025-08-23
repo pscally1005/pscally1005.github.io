@@ -5,6 +5,16 @@ date:   2025-06-26 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 permalink: /recipes/styrofoam-cookies
 image: /assets/Food/Meme/Styrofoam/cover-photo.jpg

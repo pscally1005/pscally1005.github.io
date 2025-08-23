@@ -5,6 +5,17 @@ date:   2024-02-23 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/beef-and-broccoli
 image: /assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-cover.jpg
 ing: beefbroccoli-ing

@@ -5,7 +5,17 @@ date:   2024-06-03 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
 brownie: yes
+cookie: no
 permalink: /recipes/two-ingredient-brownies
 image: /assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-cover.jpg
 ing: 2ingbrownie-ing

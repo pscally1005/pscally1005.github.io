@@ -5,7 +5,16 @@ date:   2025-02-01 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+showPercentage: no
+hummus: no
+oatmeal: no
 yogurt: yes
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 permalink: /recipes/protein-cookie-dough-bowl
 image: /assets/Food/Protein Powder/CC Cookie Dough/cc-cookie-dough.jpg

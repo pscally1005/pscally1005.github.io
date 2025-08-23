@@ -5,6 +5,17 @@ date:   2025-06-18 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/oatmeal-berry-bars
 image: /assets/Food/Breakfast/Oat Berry Bar/cover-1.jpg
 ing: oatmealberrybar-ing

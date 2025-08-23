@@ -5,6 +5,17 @@ date:   2024-09-04 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/electrolyte-protein-shake
 image: /assets/Food/Drinks/Salt Shake/salt-shake.jpg
 ing: saltshake-ing

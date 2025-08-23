@@ -5,8 +5,17 @@ date:   2024-09-01 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
 hummus: yes
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/classic-tahini-hummus
 image: /assets/Food/Savory Sauces/Tahini Hummus/tahini-hummus.jpg
 ing: tahinihummus-ing

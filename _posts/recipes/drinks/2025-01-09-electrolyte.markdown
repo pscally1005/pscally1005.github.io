@@ -5,6 +5,17 @@ date:   2025-01-09 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/electrolyte-powder
 image: /assets/Food/Drinks/LMNT/electrolyte.jpg
 ing: lmnt-ing

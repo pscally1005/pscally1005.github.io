@@ -5,6 +5,17 @@ date:   2025-01-12 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/eggplant-rollatini
 image: /assets/Food/Meatless/Rollatini/cover.jpg
 ing: rollatini-ing

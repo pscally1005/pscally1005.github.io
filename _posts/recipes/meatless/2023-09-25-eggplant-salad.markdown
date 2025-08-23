@@ -5,7 +5,17 @@ date:   2023-09-25 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
 salad: yes
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/eggplant-salad
 image: /assets/Food/Meatless/Eggplant Salad/eggplant-salad-cover.jpg
 ing: eggplantsalad-ing

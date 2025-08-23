@@ -5,6 +5,17 @@ date:   2024-04-08 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/refried-beans
 image: /assets/Food/Sides/Refried/refried-cover.jpg
 ing: refried-ing

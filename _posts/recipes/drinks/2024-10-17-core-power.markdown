@@ -5,6 +5,17 @@ date:   2024-10-17 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/core-power-milkshake
 image: /assets/Food/Drinks/Core Power/core-power.jpg
 ing: corepower-ing

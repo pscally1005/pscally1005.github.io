@@ -5,6 +5,17 @@ date:   2024-09-10 00:00:00 -0500
 categories:
 - Recipes
 - Bread
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/gluten-free-millet-bread
 image: /assets/Food/Bread/Millet Bread/millet-bread-cover.jpg
 ing: milletbread-ing

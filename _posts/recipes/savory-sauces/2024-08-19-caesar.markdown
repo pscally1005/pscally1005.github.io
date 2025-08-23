@@ -5,7 +5,17 @@ date:   2024-08-19 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/greek-yogurt-caesar-dressing
 image: /assets/Food/Savory Sauces/Caesar/caesar-cover.jpg
 ing: caesar-ing

@@ -5,6 +5,17 @@ date:   2023-06-05 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/chocolate-bar
 image: /assets/Food/Healthier Dessert/Choc Bar/cover.jpg
 ing: choc-ing

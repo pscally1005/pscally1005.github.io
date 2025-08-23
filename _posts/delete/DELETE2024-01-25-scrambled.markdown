@@ -5,6 +5,17 @@ date:   2024-01-25 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/scrambled-eggs
 image: /assets/Food/Breakfast/Scrambled/scrambled-cover.jpg
 ing: scrambled-ing

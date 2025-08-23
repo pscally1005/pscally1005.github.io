@@ -5,6 +5,17 @@ date:   2025-06-20 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/new-england-clam-chowder
 image: /assets/Food/Fish/NE Clam Chowder/pot.jpg
 ing: newengland-ing

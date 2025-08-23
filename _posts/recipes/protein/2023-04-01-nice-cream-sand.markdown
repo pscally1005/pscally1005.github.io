@@ -5,6 +5,17 @@ date:   2023-04-01 00:00:00 -05000
 categories: 
 - Recipes
 - Protein Powder
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/nice-cream-sandwiches
 image: /assets/Food/Protein Powder/Nice Cream/nice-cream-cover.jpg
 ing: nicecreamsand-ing

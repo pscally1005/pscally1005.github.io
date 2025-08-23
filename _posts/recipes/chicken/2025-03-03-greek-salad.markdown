@@ -5,7 +5,17 @@ date:   2025-03-03 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
 salad: yes
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Greek Salad/cover.jpg
 ing: greeksalad-ing

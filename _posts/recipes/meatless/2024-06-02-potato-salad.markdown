@@ -5,7 +5,17 @@ date:   2024-06-01 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
 salad: yes
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/mediterranean-potato-salad
 image: /assets/Food/Meatless/Potato Salad/potato-salad-cover.jpg
 ing: potatosalad-ing

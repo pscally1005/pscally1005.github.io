@@ -5,6 +5,17 @@ date:   2024-02-20 00:00:00 -0500
 categories: 
 - Recipes
 - Sides
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/eggplant-pizza
 image: /assets/Food/Sides/Eggplant Pizza/cover.jpg
 ing: eggplantpizza-ing

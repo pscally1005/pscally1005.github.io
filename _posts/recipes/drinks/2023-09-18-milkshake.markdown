@@ -5,6 +5,17 @@ date:   2023-09-18 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/milkshake
 image: /assets/Food/Drinks/Milkshake/milkshake.jpg
 ing: milkshake-ing

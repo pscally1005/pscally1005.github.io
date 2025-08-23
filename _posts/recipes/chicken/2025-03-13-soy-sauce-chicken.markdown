@@ -5,6 +5,17 @@ date:   2025-03-13 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/soy-sauce-chicken
 image: /assets/Food/Chicken/Soy Sauce/cover.jpg
 ing: soysauce-ing

@@ -5,6 +5,17 @@ date:   2023-10-20 00:00:00 -0500
 categories:
 - Recipes
 - Bread
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/protein-wrap
 image: /assets/Food/Bread/Protein Wrap/protein-wrap-cover.jpg
 ing: proteinwrap-ing

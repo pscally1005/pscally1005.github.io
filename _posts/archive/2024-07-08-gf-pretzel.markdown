@@ -6,6 +6,17 @@ categories:
 - Recipes
 - Bread
 - Archive
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/gluten-free-pretzels
 image: /assets/Food/Bread/GF Pretzel/gf-pretzel-back.jpg
 ing: gfpretzel-ing

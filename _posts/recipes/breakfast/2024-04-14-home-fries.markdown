@@ -5,6 +5,17 @@ date:   2024-04-14 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/home-fries
 image: /assets/Food/Breakfast/Home Fries/home-fries-cover.jpg
 ing: homefries-ing

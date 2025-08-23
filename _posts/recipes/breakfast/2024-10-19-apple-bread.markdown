@@ -5,6 +5,17 @@ date:   2024-10-19 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/apple-cinnamon-bread
 image: /assets/Food/Breakfast/Apple Bread/apple-bread-cover.jpg
 ing: applebread-ing

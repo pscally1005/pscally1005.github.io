@@ -5,6 +5,17 @@ date:   2024-03-28 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/shakshuka
 image: /assets/Food/Breakfast/Shakshuka/shakshuka-cover.jpg
 ing: shakshuka-ing

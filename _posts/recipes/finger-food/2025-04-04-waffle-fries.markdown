@@ -5,6 +5,17 @@ date:   2025-04-04 00:00:00 -05000
 categories: 
 - Recipes
 - Finger Foods
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/waffle-fries
 image: /assets/Food/Finger Food/Waffle Fries/cover.jpg
 ing: wafflefries-ing

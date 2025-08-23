@@ -5,8 +5,17 @@ date:   2025-01-25 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
 hummus: yes
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/ginger-hummus
 image: /assets/Food/Savory Sauces/Ginger Hummus/cover.jpg
 ing: gingerhummus-ing

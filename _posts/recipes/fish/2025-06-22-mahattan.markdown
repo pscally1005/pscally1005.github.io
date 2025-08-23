@@ -5,6 +5,17 @@ date:   2025-06-22 00:00:00 -05000
 categories: 
 - Recipes
 - Fish
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/manhattan-clam-chowder
 image: /assets/Food/Fish/M Clam Chowder/pot.jpg
 ing: manhattan-ing

@@ -5,6 +5,17 @@ date:   2025-04-23 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/onion-soup-bread
 image: /assets/Food/Meme/Onion Soup Bread/cover.jpg
 ing: onionsoupbreadhomemade-ing

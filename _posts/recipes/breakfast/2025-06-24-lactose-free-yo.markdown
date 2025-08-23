@@ -5,7 +5,17 @@ date:   2025-06-24 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
+showPercentage: no
+hummus: no
+oatmeal: no
 yogurt: yes
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/lactose-free-yogurt
 image: /assets/Food/Breakfast/Lactose Free Yogurt/cover-1.jpg
 ing: lactosefreeyog-ing

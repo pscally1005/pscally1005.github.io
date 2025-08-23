@@ -5,6 +5,16 @@ date:   2024-12-21 00:00:01 -05000
 categories: 
 - Recipes
 - Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 permalink: /recipes/edible-cookie-dough-bites
 image: /assets/Food/Healthier Dessert/OF CD/cookie-dough.jpg

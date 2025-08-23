@@ -6,6 +6,17 @@ categories:
 - Recipes
 - Meme Recipes
 dressing: yes
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/hard-boiled-egg-mayo
 image: /assets/Food/Meme/Hard Boil Mayo/cover.jpg
 ing: hardboilmayo-ing

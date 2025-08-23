@@ -6,7 +6,17 @@ categories:
 - Recipes
 - Breakfast
 - Archive
+showPercentage: no
+hummus: no
+oatmeal: no
 yogurt: yes
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/yogurt-apple
 image: /assets/Food/Breakfast/Yogurt/yogurt-apple.jpg
 ing: yogurtapple-ing

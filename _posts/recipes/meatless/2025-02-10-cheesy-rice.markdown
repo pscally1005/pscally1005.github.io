@@ -5,6 +5,17 @@ date:   2025-02-10 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/cheesy-rice-and-broccoli
 image: /assets/Food/Meatless/Cheesy Rice/cover.jpg
 ing: cheesyrice-ing

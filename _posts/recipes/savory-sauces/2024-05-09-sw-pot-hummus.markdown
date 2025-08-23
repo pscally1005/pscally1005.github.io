@@ -5,8 +5,17 @@ date:   2024-05-09 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
+showPercentage: no
 hummus: yes
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
 dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/sweet-potato-hummus
 image: /assets/Food/Savory Sauces/Sw Pot Hummus/cover.jpg
 ing: swpothummus-ing

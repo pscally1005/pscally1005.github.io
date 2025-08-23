@@ -5,7 +5,17 @@ date:   2023-06-30 00:00:00 -05000
 categories: 
 - Recipes
 - Ground Meat
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
 soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/bolognese
 image: /assets/Food/Ground Meat/Bolognese/bolognese-cover.jpg
 ing: bolognese-ing

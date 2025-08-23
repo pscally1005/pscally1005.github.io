@@ -6,6 +6,17 @@ categories:
 - Recipes
 - Savory Sauces
 - Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: yes
+brownie: no
+cookie: no
 permalink: /recipes/whipped-feta-spread
 image: /assets/Food/Savory Sauces/Whipped Feta/cover-pepper.jpg
 ing: whippedfeta-ing

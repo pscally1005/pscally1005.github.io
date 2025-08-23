@@ -5,6 +5,17 @@ date:   2024-11-17 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/white-bean-milkshake
 image: /assets/Food/Meme/Milkshake/bean-shake.jpg
 ing: beanicecream-ing

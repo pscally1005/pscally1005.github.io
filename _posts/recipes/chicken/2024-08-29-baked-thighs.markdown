@@ -5,6 +5,17 @@ date:   2024-08-29 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/baked-chicken-thighs
 image: /assets/Food/Chicken/Baked Thighs/cover.jpg
 ing: bakedthighs-ing

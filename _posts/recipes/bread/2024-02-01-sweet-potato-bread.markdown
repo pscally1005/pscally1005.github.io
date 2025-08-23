@@ -5,6 +5,17 @@ date:   2024-02-01 00:00:00 -0500
 categories:
 - Recipes
 - Bread
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
 permalink: /recipes/sweet-potato-bread
 image: /assets/Food/Bread/Sweet Potato/sweet-potato-cover.jpg
 ing: sweetpotatobread-ing

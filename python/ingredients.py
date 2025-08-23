@@ -472,6 +472,8 @@ def ingredients(food):
         return str("Chipotle peppers in adobo sauce")
     elif food == "Kalamata olives, pitted":
         return str("Kalamata olives")
+    elif food == "Olives, green, canned or bottled, pickled":
+        return str("Olives")
     elif food == "Anchovy, canned":
         return str("Anchovies, canned")
     elif food == "Yeast extract by MARMITE":
