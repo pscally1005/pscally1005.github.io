@@ -61,9 +61,10 @@ Instructions:
 - Finely cut your tomatoes into a medium dice, finely dice an onion, and halve your olives. Add all 3 to the bowl with the pasta, and mix. 1 pint (10 oz, 283 g) of cherry tomatoes (halved) will also work
 
 - Add your sun dried tomatoes to the food processor, and pulse until roughly chopped. Add in the spinach and the rest of the dressing ingredients, and blend until well combined. Thin out with water as needed
+- <center><img src="/assets/Food/Meatless/Vegan Pasta Salad/separate.jpg" alt="" class="instruction-image"></center>
 
 - Add the dressing into the pasta bowl, and mix until fully combined. Serve cold or warm
-- <center><img src="/assets/Food/Meatless/Vegan Pasta Salad/separate.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Meatless/Vegan Pasta Salad/no-sardines.jpg" alt="" class="instruction-image"></center>
 
 - To make it nut free, replace the pistachios with pumpkin seeds
 

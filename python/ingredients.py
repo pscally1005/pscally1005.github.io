@@ -340,7 +340,7 @@ def ingredients(food):
         return str("Sun dried tomatoes")
     elif food == "Tomatoes, raw, grape":
         return str("Cherry tomatoes")
-    elif food == "Peppers, raw, red, sweet" or food == "Pepper, raw, red, sweet":
+    elif food == "Peppers, raw, red, sweet" or food == "Pepper, raw, red, sweet" or food == "Peppers, raw, green, sweet":
         return str("Bell pepper")
     elif food == "Sweet potato, unprepared, raw" or food == "Sweet potato, washed":
         return str("Sweet potato")
@@ -496,7 +496,7 @@ def ingredients(food):
         return str("Tahini")
     elif food == "Nuts, almonds" or food == "Nuts, with salt added, dry roasted, almonds" or food == "Nuts, without salt added, dry roasted, almonds":
         return str("Almonds")
-    elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, roasted" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types":
+    elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, roasted" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types" or food == "Peanuts, dry roasted, unsalted":
         return str("Peanuts")
     elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Hersheys Zero Sugar Chocolate Chips":
         return str("Sugar free chocolate chips")
