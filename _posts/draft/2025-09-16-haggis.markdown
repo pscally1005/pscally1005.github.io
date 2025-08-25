@@ -53,7 +53,7 @@ tags:
 - nutmeg
 Description: I just recently got back from a trip to Scotland where I tried haggis for the first time, and I loved it. I wanted to recreate it myself at some to enjoy all the same flavors while utilizing ingredients more available to myself in the States. Instead of sheep hearts, lung, and liver, the only organ meat I have here is <a href="/misc/meat#liver">beef liver</a>, along with <a href="/misc/meat#ground-beef">ground beef</a>. This simplified ground haggis tastes very similar to the classic dish, featuring the same flavors like coriander, onion, and of course <a href="/misc/grains#oats">oats</a>
 Instructions: 
-- An hour before you go to cook, place the liver and blade of your food processor in the freezer for an hour. This makes grinding the liver up easier
+- An hour before you go to cook, place the liver and blade of your food processor in the freezer for an hour. This makes blending the liver easier
 
 - Preheat your oven to 350F. Lightly grease a 9" square pan
 
