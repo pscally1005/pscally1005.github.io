@@ -21,7 +21,7 @@ permalink: /recipes/4-ingredient-cookie-bars
 image: /assets/Food/Healthier Dessert/4 Ing Cookie Bars/cover.jpg
 ing: 4ingcookiebars-ing
 facts: 4ingcookiebars-facts
-servingSize: 1 cookie
+servingSize: 1 bar
 section1: 
 start2: 
 section2: 

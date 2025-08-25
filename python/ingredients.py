@@ -41,6 +41,10 @@ def ingredients(food):
         return str("Cooked navy beans")
     
     # Spices
+    elif food == "Spices, coriander seed":
+        return str("Coriander, ground")
+    elif food == "Capers, canned":
+        return str("Capers")
     elif food == "Soup, mix, dry, onion":
         return str("Onion soup mix")
     elif food == "Garam masala by NATCO Foods Ltd":
@@ -408,7 +412,7 @@ def ingredients(food):
         return str("Frozen butternut squash, thawed")
     elif food == "Blueberries, frozen, wild" or food == "Blueberries, unsweetened, frozen":
         return str("Frozen blueberries")
-    elif food == "Raspberries, frozen":
+    elif food == "Raspberries, frozen" or food == "Raspberries, unsweetened, red, frozen":
         return str("Frozen raspberries")
     elif food == "Spinach, unprepared, chopped or leaf, frozen":
         return str("Frozen spinach, thawed")

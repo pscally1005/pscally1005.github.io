@@ -96,7 +96,7 @@ def grams(food, mass, vol):
             return str(mass)
         
     # Less dense spices
-    elif food == "Allspice, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground":
+    elif food == "Allspice, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground" or food == "Coriander, ground":
         if vol == "1/8 tsp":
             return str("0.25")
         elif vol == "1/4 tsp":
