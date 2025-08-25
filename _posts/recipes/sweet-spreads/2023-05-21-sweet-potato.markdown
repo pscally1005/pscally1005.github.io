@@ -58,7 +58,7 @@ Description: This is less of a recipe and more of a method, as you'd probably us
     <li><a href="/recipes/pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a></li>
     <li><a href="/recipes/pumpkin-cake">Frosted Pumpkin Cake</a></li></ul>
 Instructions: 
-- Wash the potatoes. Prick with a fork on all over about 10 times, and wrap in aluminum foil
+- Wash the potatoes. Prick with a fork all over about 10 times, and wrap in aluminum foil
 
 - Bake in the oven for 90 minutes at 400F until very soft. You can also air fry at 400F for 1 hour. Slice open, and allow to steam out for a few minutes
 

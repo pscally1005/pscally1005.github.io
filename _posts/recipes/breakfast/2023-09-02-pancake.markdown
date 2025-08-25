@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 permalink: /recipes/pancake
-image: /assets/Food/Breakfast/Pumpkin Pancake/pancake-cover.jpg
+image: /assets/Food/Breakfast/Pumpkin Pancake/cover.jpg
 ing: pancake-ing
 facts: pancake-facts
 servingSize: 6 small pancakes
