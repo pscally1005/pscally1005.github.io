@@ -2,10 +2,10 @@
 layout: none
 ---
 [
-  {%- assign non_archive_posts = site.posts | where_exp: "post", "post.categories.last != 'Archive'" -%}
+  {%- assign live_posts = site.posts | where_exp: "post", "post.categories.last != 'Archive' and post.categories.last != 'Draft' and post.categories.last != 'Delete' and post.categories.last != 'Hidden'" -%}
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
-  {%- for post in non_archive_posts -%}
+  {%- for post in live_posts -%}
     {%- assign gluten_free = "true" -%}
     {%- assign vegetarian = "true" -%}
     {%- assign dairy_free = "true" -%}

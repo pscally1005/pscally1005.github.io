@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "4 Ingredient Cookie Bars"
-date:   2025-08-25 00:00:00 -05000
+date:   2025-08-27 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
