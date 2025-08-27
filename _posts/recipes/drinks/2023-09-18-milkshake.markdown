@@ -47,13 +47,17 @@ tags:
 - dessert
 - cocoa
 - blend
-Description: This smoothie can be had for breakfast, but is honestly so good it could easily pass as a milkshake for dessert. Feel free to add some <a href="/misc/protein">protein</a> powder for an added nutrient boost
+Description: Chocolate banana almond butter milkshake. This smoothie can be had for breakfast, but is honestly so good it could easily pass as a milkshake for dessert. It's got over 20 g each of <a href="/misc/protein">protein</a> and <a href="/misc/fats">healthy fats</a>, 10 g of <a href="/misc/fiber">fiber</a>, sweetness from the banana, and creaminess from the nut butter!
 Instructions: 
-- A few hours (or day) before, add half a banana to a Ziploc bag, and store in the freezer
+- A few hours (or day) before, add half a banana to an airtight bag, and store in the freezer
 
 - Blend the banana, nut butter, and milk until creamy in a small blender or electric food chopper
 
-- Add in cloves, cocoa, almond extract, and any more milk if desired. Blend to fully combine. Add some monk fruit if you want it sweeter. Add some mint extract for a subtle mint flavor if you like, but be careful not to add too much. Blend in some protein powder too
+- Add in the rest of the ingredients, and blend until fully combined
+
+- Add some monk fruit if you want it sweeter
+
+- Add some mint extract for a subtle mint flavor if you like, but be careful not to add too much
 
 - Transfer to a medium glass and serve
 ---

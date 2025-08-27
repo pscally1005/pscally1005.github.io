@@ -27,7 +27,8 @@ layout: base
     page.title != "Python" and 
     page.title != "Archive" and 
     page.title != "Hidden" and 
-    page.title != "Draft"
+    page.title != "Draft" and
+    page.title != "Delete"
   %}
     <div class="shuffle-container">
       <center><a href="#" id="button" class="button">Shuffle Post</a></center>
@@ -44,7 +45,8 @@ layout: base
         page.categories == "Food categories" or
         page.title == "Archive" or
         page.title == "Hidden" or
-        page.title == "Draft"
+        page.title == "Draft" or
+        page.title == "Delete"
     %}
       <center><div class="filter-options">
         <label><input type="checkbox" id="glutenFree" /> Gluten-Free</label>
@@ -69,7 +71,13 @@ layout: base
 
   {% assign postCount = 0 %}
   {% for post in posts %}
-    {% if page.title == "Home" and post.categories.last != "Archive" and post.categories.last != "Hidden" and post.categories.last != "Draft" %}
+    {% if 
+      page.title == "Home" and 
+      post.categories.last != "Archive" and 
+      post.categories.last != "Hidden" and 
+      post.categories.last != "Draft" and 
+      post.categories.last != "Delete" 
+    %}
       {% assign postCount = postCount | plus: 1 %}
     {% elsif post.categories.last == page.title %}
       {% assign postCount = postCount | plus: 1 %}
@@ -144,6 +152,11 @@ layout: base
 
             <!-- Skip if draft -->
             {% if post.categories.last == "Draft" and page.title != "Draft" %}
+              {% continue %}
+            {% endif %}
+
+            <!-- Skip if deleted -->
+            {% if post.categories.last == "Delete" and page.title != "Delete" %}
               {% continue %}
             {% endif %}
 

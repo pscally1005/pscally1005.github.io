@@ -74,6 +74,8 @@ Instructions:
 - Roughly chop your chocolate, and fold into the brownie batter
 - <center><img src="/assets/Food/Healthier Dessert/Raspberry Brownies/combined.jpg" alt="" class="instruction-image"></center>
 
+- If you don't have 70% chocolate, you can make your own. Combine 4 tsp (17 g) melted coconut oil, 1 tbsp (11 g) cocoa powder, and 1 tbsp (12 g) granulated sugar (or zero calorie sweetener) in a small bowl. Spread onto a small plate lined with parchment paper, and refrigerate for 30 minutes to harden. Chop into small pieces
+
 - Transfer the batter to your parchment lined pan, and top with your raspberries, lightly pressing them into the batter
 - <center><img src="/assets/Food/Healthier Dessert/Raspberry Brownies/raw.jpg" alt="" class="instruction-image"></center>
 
