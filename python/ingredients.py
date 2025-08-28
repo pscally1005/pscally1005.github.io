@@ -264,7 +264,7 @@ def ingredients(food):
         return str("Sugar pumpkin")
     elif food == "Chickpea flour (besan)":
         return str("Chickpea flour")
-    elif food == "Coffee, not reconstituted , decaffeinated, instant":
+    elif food == "Coffee, not reconstituted , decaffeinated, instant" or food == "Coffee, instant, decaffeinated, not reconstituted":
         return str("Ground coffee, decaf")
     elif food == "Seeds, hulled, hemp seed":
         return str("Hemp hearts")

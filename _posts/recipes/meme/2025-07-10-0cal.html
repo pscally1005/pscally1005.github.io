@@ -63,6 +63,17 @@ Instructions:
 
 - <center></center><i>Disclaimer</i>:<b></b> Just because these are zero calories does <b>not</b> mean you should eat the entire batch at once.  That much sugar alcohols in one sitting would probably wreck your stomach, or at least give you lethal farts.  You have been warned (maybe I should be warning your friends instead)<br>
 ---
+<style>
+    table {
+        text-align: center;
+    }
+
+    td:first-child, th:first-child {
+        background-color: var(--minima-table-header-bg-color);
+        font-weight: bold;
+    }
+</style>
+
 <table>
     <thead>
         <tr>
@@ -73,29 +84,39 @@ Instructions:
     </thead>
     <tbody>
         <tr>
-            <td><a href="/misc/calories">Calories</a></td>
-            <td>1.3</td>
-            <td>3.0</td>
+            {% assign nutrient = "Calories" %}
+            {% assign rnd = "0" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html ing="0cal-ing" facts="0cal-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html ing="0calcocoa-ing" facts="0calcocoa-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
         </tr>
         <tr>
-            <td><a href="/misc/protein">Protein</a></td>
-            <td>0.3 g</td>
-            <td>0.4 g</td>
+            {% assign nutrient = "Protein" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html ing="0cal-ing" facts="0cal-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html ing="0calcocoa-ing" facts="0calcocoa-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
         </tr>
         <tr>
-            <td><a href="/misc/fats">Fat</a></td>
-            <td>0.0 g</td>
-            <td>0.1 g</td>
+            {% assign nutrient = "Fat" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html ing="0cal-ing" facts="0cal-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html ing="0calcocoa-ing" facts="0calcocoa-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
         </tr>
         <tr>
-            <td><a href="/misc/carbs">Net Carbs</a></td>
-            <td>0.0 g</td>
-            <td>0.2 g</td>
+            {% assign nutrient = "Net Carbs" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html ing="0cal-ing" facts="0cal-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html ing="0calcocoa-ing" facts="0calcocoa-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
         </tr>
         <tr>
-            <td><a href="/misc/fiber">Fiber</a></td>
-            <td>0.0 g</td>
-            <td>0.3 g</td>
+            {% assign nutrient = "Fiber" %}
+            {% assign rnd = "1" %}
+            <td>{{ nutrient }}</td>
+            <td>{% include getNutrient.html ing="0cal-ing" facts="0cal-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+            <td>{% include getNutrient.html ing="0calcocoa-ing" facts="0calcocoa-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
         </tr>
     </tbody>
 </table>

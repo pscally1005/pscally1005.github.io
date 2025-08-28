@@ -54,14 +54,14 @@ tags:
 - jam
 - gluten free
 - sugar free
-Description: These simple cookies are made with simply mashed banana and quick oats. They can be easily customized by switching out the banana for unsweetened applesauce, pumpkin puree, or really anything you can think of. Or feel free to fold in whatever mix-ins you like, such as chocolate chips, raisins, or chopped nuts.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: These simple cookies are made with just mashed banana and rolled oats. They can be easily customized by switching out the banana for unsweetened applesauce, pumpkin puree, or really anything you can think of. Or feel free to fold in whatever mix-ins you like, such as chocolate chips, raisins, or chopped nuts  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F and line a cookie sheet with parchment paper
 
 - In a bowl, add your banana, and mash with the back of a fork until smooth. Mix in the oats, with an optional small pinch of salt
 - <center><img src="/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-2.jpg" alt="" class="instruction-image"></center>
 
-- Some other great options instead of banana are:<b></b><br>&emsp;- Unsweetened Applesauce<br>&emsp;- <a href="apple-spread">No Sugar Added Apple Spread</a><br>&emsp;- Canned Pumpkin Puree<br>&emsp;- <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a><br>&emsp;- <a href="roasted-butternut-squash-puree">Roasted Butternut Squash Puree</a><br>&emsp;- <a href="berry-jam">Low Sugar Berry Jam</a><br>Below is a batch I made with homemade blackberry jam (left) and applesauce (right)
+- Some other great options instead of banana are:<b></b><br><ul><li>Unsweetened Applesauce</li><li><a href="/recipes/apple-spread">Apple Butter</a></li><li><a href="/recipes/pumpkin-puree">Pumpkin Puree</a></li><li><a href="/recipes/sweet-potato-puree">Sweet Potato Puree</a></li><li><a href="/recipes/roasted-butternut-squash-puree">Butternut Squash Puree</a></li><li><a href="/recipes/berry-jam">Berry Jam</a></li></ul><br>Below is a batch I made with homemade blackberry jam (left) and applesauce (right)
 - <center><img src="/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-3.jpg" alt="" class="instruction-image"></center>
 
 - At this step, you can add any other flavors if you like. A dash of cinnamon or vanilla would be great, or you can fold in some mix-ins like chocolate chips or nuts
