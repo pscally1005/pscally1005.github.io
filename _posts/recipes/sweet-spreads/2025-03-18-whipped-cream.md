@@ -48,7 +48,7 @@ tags:
 - granulated monk fruit
 - lemon juice
 - cream of tartar
-Description: Whipped cream is already a surprisingly low <a href="/misc/calories">calorie</a> food, but this takes it to a whole other level. Without the <a href="/misc/fats">fat</a> of the cream and <a href="/misc/carbs">carbs</a> of the <a href="/misc/hidden-sugar">sugar</a>, this vegan and <a href="/misc/hidden-sugar">sugar</a> free whipped cream alternative has practically 0 <a href="/misc/calories">calories</a> per serving. It tastes just like the real deal though - sweet, fluffy, airy, and no taste of beans. This recipe makes a little over 6 cups (245 g) of whipped cream
+Description: Whipped cream is already a surprisingly low <a href="/misc/calories">calorie</a> food, but this takes it to a whole other level. Without the <a href="/misc/fats">fat</a> of the cream and <a href="/misc/carbs">carbs</a> of the <a href="/misc/hidden-sugar">sugar</a>, this vegan and <a href="/misc/hidden-sugar">sugar</a> free whipped cream alternative has practically 0 <a href="/misc/calories">calories</a> per serving. It tastes just like the real deal though - sweet, fluffy, airy, and no taste of <a href="/misc/beans">beans</a>. This recipe makes a little over 6 cups (245 g) of whipped cream
 Instructions: 
 - Drain your can of chickpeas using a fine mesh strainer over a bowl. Add the aquafaba (chickpea water) to a large bowl with lemon juice. Beat on high for about 5 minutes, until stiff peaks
 

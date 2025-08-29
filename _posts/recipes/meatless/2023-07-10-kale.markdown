@@ -47,7 +47,7 @@ tags:
 - barbeque sauce
 - chopped
 - vic
-Description: This vegetarian Mexican inspired dish mixes together sauteed kale, <a href="/misc/beans#pinto-beans">pinto</a> beans, <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>, and is topped with shredded cheese. This goes well with some meatloaf or taco meat as well
+Description: This vegetarian Mexican inspired dish mixes together sauteed kale, <a href="/misc/beans#pinto-beans">pinto</a> beans, <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>, and is topped with shredded cheese. This goes well with some meatloaf or taco <a href="/misc/meat">meat</a> as well
 Instructions: 
 - Cut the onions into a small dice, and add to a large pan over medium heat with olive oil and kale. Cook until the onions are translucent
 

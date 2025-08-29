@@ -49,7 +49,7 @@ tags:
 - lime juice
 - extra virgin olive oil
 - cumin
-Description: The Blue Zones are 5 towns studied for longevity, as they have the highest rates of centenarians. One in particular, Nicoya, Costa Rica have a food combo they refer to as the "Three Sisters". By pairing together squash, beans, and corn, you get a complete <a href="/misc/protein">protein</a> with lots of <a href="/misc/fiber">fiber</a>, <a href="/misc/nutrient-alphabet#A">vitamin A</a>, and <a href="/misc/nutrient-alphabet#F">folate</a>. This can work as a larger bowl for a meatless meal, or as a side to some vegetables and meat
+Description: The Blue Zones are 5 towns studied for longevity, as they have the highest rates of centenarians. One in particular, Nicoya, Costa Rica have a food combo they refer to as the "Three Sisters". By pairing together squash, <a href="/misc/beans">beans</a>, and corn, you get a complete <a href="/misc/protein">protein</a> with lots of <a href="/misc/fiber">fiber</a>, <a href="/misc/nutrient-alphabet#A">vitamin A</a>, and <a href="/misc/nutrient-alphabet#F">folate</a>. This can work as a larger bowl for a meatless meal, or as a side to some vegetables and meat
 Instructions: 
 - The night before, soak your dry beans with 5 cups (1,200 g) water and 1 tbsp (18 g) salt. In the morning, discard the water, and add your beans to a large slow cooker. Add 1 tsp (6 g) salt and 3 cups (720 g) water. Cover with a lid, and cook on low for about 8 hours, or until the beans are tender and the water is absorbed. This is just my <a href="/recipes/slow-cooked-beans">Slow Cooker Dried Beans</a> Recipe
 - <center><img src="/assets/Food/Meatless/3 Sisters/beans.jpg" alt="" class="instruction-image"></center>

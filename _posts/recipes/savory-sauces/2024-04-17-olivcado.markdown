@@ -55,7 +55,7 @@ tags:
 - creamy
 - ceasar
 - mayo
-Description: This <a href="/misc/fake-healthy-foods#salad-dressing">salad dressing</a> still packs healthy <a href="/misc/fats">fats</a> while being vegan and oil free. It feels like a vegan Caesar dressing, using avocado and olives instead of mayo and anchovies. It's perfectly tangy and sweet from the balsamic, creamy from the avocado, and "cheesy" from the nutritional yeast.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a>!
+Description: This <a href="/misc/fake-healthy-foods#salad-dressing">salad dressing</a> still packs healthy <a href="/misc/fats">fats</a> while being vegan and oil free. It feels like a vegan Caesar dressing, using <a href="/misc/fruit#avocado">avocado</a> and olives instead of mayo and anchovies. It's perfectly tangy and sweet from the balsamic, creamy from the avocado, and "cheesy" from the nutritional yeast.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a>!
 Instructions: 
 - Blend all ingredients in a small food processor until smooth. Adjust consistency by adding water if necessary, and add salt to taste if necessary (I thought it was good as is). Transfer to a container, and store in the fridge
 - <center><img src="/assets/Food/Savory Sauces/Olivcado/olivcado-1.jpg" alt="" class="instruction-image"></center>

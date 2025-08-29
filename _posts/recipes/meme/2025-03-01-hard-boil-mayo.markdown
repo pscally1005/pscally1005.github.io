@@ -48,7 +48,7 @@ tags:
 - spread
 - dip
 - salad
-Description: Most mayo recipes are made with raw eggs and tons and tons of oil.  In comparison, here I'm using cooked eggs and significantly less oil for a lower <a href="/misc/calories">calorie</a> spread that's just as creamy.  It goes great on a salad, sandwich, roasted veggies, or canned tuna.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a>!
+Description: Most mayo recipes are made with raw <a href="/misc/meat#egg">eggs</a> and tons and tons of oil.  In comparison, here I'm using cooked eggs and significantly less oil for a lower <a href="/misc/calories">calorie</a> spread that's just as creamy.  It goes great on a salad, sandwich, roasted veggies, or canned tuna.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a>!
 Instructions: 
 - Add all ingredients to a small blender or food processor, and blend until smooth. Thin out with water as needed.  Transfer to a mason jar, and store in the fridge for up to 1 week
 

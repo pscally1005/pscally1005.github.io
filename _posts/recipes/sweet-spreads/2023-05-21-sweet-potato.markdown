@@ -47,7 +47,7 @@ tags:
 - pumpkin pie
 - pumpkin spice
 - mashed sweet potato
-Description: This is less of a recipe and more of a method, as you'd probably use sweet potato puree in something else. Try replacing mashed bananas or unsweetened applesauce in my baked goods with this for a delicious fall twist.<br>&emsp;Similar is my <a href="/recipes/pumpkin-puree">Homemade Pumpkin Puree</a>, which can also be used just like sweet potato puree!  Below are some great pumpkin or sweet potato recipes that you can use your puree on:<br><ul>
+Description: This is less of a recipe and more of a method, as you'd probably use sweet potato puree in something else. Try replacing mashed <a href="/misc/fruit#banana">bananas</a> or unsweetened applesauce in my baked goods with this for a delicious fall twist.<br>&emsp;Similar is my <a href="/recipes/pumpkin-puree">Homemade Pumpkin Puree</a>, which can also be used just like sweet potato puree!  Below are some great pumpkin or sweet potato recipes that you can use your puree on:<br><ul>
     <li><a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a></li>
     <li><a href="/recipes/pancake">Pumpkin Protein Pancakes</a></li>
     <li><a href="/recipes/sweet-potato-banana-muffins">Sweet Potato Banana Mini Muffins</a></li>

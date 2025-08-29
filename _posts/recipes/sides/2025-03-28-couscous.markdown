@@ -48,7 +48,7 @@ tags:
 - diced tomatoes
 - balsamic vinegar
 - onion
-Description: Did you know that couscous is technically pasta? It contains 1 ingredient:<b></b> durum semolina, the same flour used for pasta, which unfortunately means it's not gluten free. This simple and delicious grain is like rice, but it cooks in just 5 minutes. Here, I'm softening an onion before adding in diced tomatoes and beans, giving my couscous extra bulk for my side dish
+Description: Did you know that couscous is technically pasta? It contains 1 ingredient:<b></b> durum semolina, the same flour used for pasta, which unfortunately means it's not gluten free. This simple and delicious grain is like rice, but it cooks in just 5 minutes. Here, I'm softening an onion before adding in diced tomatoes and <a href="/misc/beans">beans</a>, giving my couscous extra bulk for my side dish
 Instructions: 
 - Preheat a medium pot over medium heat with olive oil. Dice your onion, and add to the pot with salt. Cover, and cook with occasional stirring until soft and translucent, about 5 minutes
 

@@ -48,7 +48,7 @@ tags:
 - allulose
 - sugar free
 - nut free
-Description: I'm back for 3 more flavored nut butter recipes.  Last time was <a href="/misc/nuts#peanuts">peanuts</a>, <a href="/misc/nuts#almonds">almonds</a>, and <a href="/misc/nuts#walnuts">walnuts</a>, but today I'm going for <a href="/misc/nuts#pistachios">pistachios</a>, <a href="/misc/nuts#cashews">cashews</a>, and <a href="/misc/seeds#sunflower-seeds">sunflower</a> & <a href="/misc/seeds#pumpkin-seeds">pumpkin seeds</a>.  First up is Super Seed Butter, but be sure to check out the other 2 - <a href="/recipes/mint-pistachio-butter">Mint Pistachio Butter</a> and <a href="/recipes/cashew-cookie-butter">Cashew Cookie Butter</a>.  Or check out any of my other <a href="/nut-butter">nut butter recipes</a>!
+Description: I'm back for 3 more flavored <a href="/recipes/natural-peanut-butter">nut butter</a> recipes.  Last time was <a href="/misc/nuts#peanuts">peanuts</a>, <a href="/misc/nuts#almonds">almonds</a>, and <a href="/misc/nuts#walnuts">walnuts</a>, but today I'm going for <a href="/misc/nuts#pistachios">pistachios</a>, <a href="/misc/nuts#cashews">cashews</a>, and <a href="/misc/seeds#sunflower-seeds">sunflower</a> & <a href="/misc/seeds#pumpkin-seeds">pumpkin seeds</a>.  First up is Super Seed Butter, but be sure to check out the other 2 - <a href="/recipes/mint-pistachio-butter">Mint Pistachio Butter</a> and <a href="/recipes/cashew-cookie-butter">Cashew Cookie Butter</a>.  Or check out any of my other <a href="/nut-butter">nut butter recipes</a>!
 Instructions: 
 - If your seeds are raw, air fry them at 300F for 10 minutes, or roast in the oven at 350F for 12 minutes
 - <center><img src="/assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/roasted.jpg" alt="" class="instruction-image"></center>

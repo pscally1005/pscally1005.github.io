@@ -50,7 +50,7 @@ tags:
 - peanut butter
 - natural peanut buter
 - dark chocolate
-Description: Date snickers were a delicious trend a while ago. I've made them a few times, but I wanted to write it down here and share the "recipe", because they're a delicious snack that will even have any non-healthy dessert eaters be impressed. They're simply just dates filled with nut butter and dipped in chocolate. I first had them when Vic made them for my birthday, and I've got to say they're one of the best things I've ever tasted
+Description: Date snickers were a delicious trend a while ago. I've made them a few times, but I wanted to write it down here and share the "recipe", because they're a delicious snack that will even have any non-healthy dessert eaters be impressed. They're simply just <a href="/misc/fruit#date">dates</a> filled with <a href="/recipes/natural-peanut-butter">nut butter</a> and dipped in chocolate. I first had them when Vic made them for my birthday, and I've got to say they're one of the best things I've ever tasted
 Instructions: 
 - Line a small plate with a piece of parchment paper or aluminum foil, and set aside
 

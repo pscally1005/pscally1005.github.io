@@ -51,7 +51,7 @@ tags:
 - sugar cookie
 - cake
 - graham cracker
-Description: This icing recipe is great for <a href="/recipes/cut-out-cookies">Healthier Cut Out Cookies</a> or as a dip for <a href="/recipes/gf-crackers">Gluten Free Graham Crackers</a>, making it great for this time of year. It's free of <a href="/misc/hidden-sugar">added sugar</a>, <a href="/misc/dairy#butter">butter</a>, and <a href="/misc/dairy#cream-cheese">cream cheese</a>. Just blend dates with high in <a href="/misc/protein">protein</a> <a href="/misc/dairy#cottage-cheese">cottage cheese</a> or <a href="/misc/dairy#greek-yogurt">Greek yogurt</a>, and you have a simple frosting for your cakes! Each serving is about 2 tbsp or 29 g
+Description: This icing recipe is great for <a href="/recipes/cut-out-cookies">Healthier Cut Out Cookies</a> or as a dip for <a href="/recipes/gf-crackers">Gluten Free Graham Crackers</a>, making it great for this time of year. It's free of <a href="/misc/hidden-sugar">added sugar</a>, <a href="/misc/dairy#butter">butter</a>, and <a href="/misc/dairy#cream-cheese">cream cheese</a>. Just blend <a href="/misc/fruit#date">dates</a> with high in <a href="/misc/protein">protein</a> <a href="/misc/dairy#cottage-cheese">cottage cheese</a> or <a href="/misc/dairy#greek-yogurt">Greek yogurt</a>, and you have a simple frosting for your cakes! Each serving is about 2 tbsp or 29 g
 Instructions: 
 - Add the dates to a bowl, and cover with warm water. Let soak for 10 minutes to soften. Other unsweetened dried fruit will work, like raisins, prunes, or figs
 

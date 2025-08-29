@@ -52,7 +52,7 @@ tags:
 - salsa
 - tropical
 - vic
-Description: Fajitas are a go to meal, as they're a fun way to build your own food at the table. We'll have some sauteed <a href="/misc/meat#chicken-breast">chicken</a> and peppers, along with rice, beans, cheese, tortillas, lettuce, and <a href="/recipes/tropical-salsa">Tropical Fruit Salsa</a>. Make tacos, or make it into a bowl, and mix it up as you see fit.  Both the chicken and the veggies utilize a <a href="/recipes/italian-dressing">Homemade Sugar Free Italian Dressing</a> in their marinades, in addition to lime juice and hot sauce
+Description: Fajitas are a go to meal, as they're a fun way to build your own food at the table. We'll have some sauteed <a href="/misc/meat#chicken-breast">chicken</a> and peppers, along with rice, <a href="/misc/beans">beans</a>, cheese, tortillas, lettuce, and <a href="/recipes/tropical-salsa">Tropical Fruit Salsa</a>. Make tacos, or make it into a bowl, and mix it up as you see fit.  Both the chicken and the veggies utilize a <a href="/recipes/italian-dressing">Homemade Sugar Free Italian Dressing</a> in their marinades, in addition to lime juice and hot sauce
 Instructions:
 - Cut your peppers and onions into long thin strips, and add to a large bowl.  Mix with the marinade ingredients - <a href="/recipes/italian-dressing">Italian dressing</a>, hot sauce, lime juice, and olive oil
 

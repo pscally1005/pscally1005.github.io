@@ -50,7 +50,7 @@ tags:
 - zoodle
 - pasta
 - penne
-Description: My Bolognese recipe is a sauce that can honestly work as a meal on it own. It goes great over some pasta, zucchini noodles, or spaghetti squash.  Try it out with <a href="/recipes/meatballs">Zoodles and Meatballs</a> or <a href="/recipes/spaghetti-squash">Spaghetti Squash Cooked 3 Ways</a>. It also serves as a great stew between the meat and all the vegetables.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
+Description: My Bolognese recipe is a sauce that can honestly work as a meal on it own. It goes great over some pasta, zucchini noodles, or spaghetti squash.  Try it out with <a href="/recipes/meatballs">Zoodles and Meatballs</a> or <a href="/recipes/spaghetti-squash">Spaghetti Squash Cooked 3 Ways</a>. It also serves as a great stew between the <a href="/misc/meat">meat</a> and all the vegetables.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
 Instructions: 
 - Add vegetables (onion, garlic, carrots, and peppers) to a food processor and pulse until fine
 

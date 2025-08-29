@@ -46,7 +46,7 @@ tags:
 - simple pasta sauce
 - whole wheat pizza dough
 - home oven baked pizza
-Description: Deep Dish Pizza is certainly an unconventional way to celebrate Pi Day, but it is technically a pie, so I'm counting it. As a New Yorker with Italian heritage, deep dish is probably the last thing that comes to mind when I think of pizza; but it may just be my new favorite. Using a 9" cake pan and some leftover pizza dough, I'm making a simple deep dish pizza with <a href="/misc/dairy#mozzarella-cheese">mozzarella</a> cheese and tomato sauce. I'm keeping it simple today, but you can also top with any meat or roasted veggies you like.  For dessert, I'm celebrating Pi day with a <a href="/recipes/banana-cream-pie">Banana No-Cream Pie</a>
+Description: Deep Dish Pizza is certainly an unconventional way to celebrate Pi Day, but it is technically a pie, so I'm counting it. As a New Yorker with Italian heritage, deep dish is probably the last thing that comes to mind when I think of pizza; but it may just be my new favorite. Using a 9" cake pan and some leftover pizza dough, I'm making a simple deep dish pizza with <a href="/misc/dairy#mozzarella-cheese">mozzarella</a> cheese and tomato sauce. I'm keeping it simple today, but you can also top with any <a href="/misc/meat">meat</a> or roasted veggies you like.  For dessert, I'm celebrating Pi day with a <a href="/recipes/banana-cream-pie">Banana No-Cream Pie</a>
 Instructions: 
 - See my <a href="/recipes/pizza">Home Oven Baked Pizza</a> for instructions on how to make and prepare the pizza dough
 

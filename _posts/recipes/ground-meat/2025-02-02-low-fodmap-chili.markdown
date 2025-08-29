@@ -46,7 +46,7 @@ tags:
 - bowl
 - cass
 - stew
-Description: This chili recipe is for all those out there who can't eat garlic, onion, or beans (some of my favorite foods lol). It's essentially just my standard <a href="/recipes/chili">Slow Cooker Chili</a>, but with onions, chili powder, and beans swapped out for carrots, paprika, and sweet potatoes.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
+Description: This chili recipe is for all those out there who can't eat garlic, onion, or <a href="/misc/beans">beans</a> (some of my favorite foods lol). It's essentially just my standard <a href="/recipes/chili">Slow Cooker Chili</a>, but with onions, chili powder, and beans swapped out for carrots, paprika, and sweet potatoes.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
 Instructions: 
 - Heat a large pan over medium heat with olive oil. Wash your peppers and carrots. Cut the peppers into a medium dice, and the carrots into a small dice. The carrots are smaller because they are harder, and will take longer to cook
 

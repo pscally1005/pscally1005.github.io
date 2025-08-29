@@ -53,7 +53,7 @@ tags:
 - plain nonfat greek yogurt
 - yogurt
 - gluten free
-Description: Alliterations aside, this pumpkin pie is made with a protein powder and oat flour crust, and features a filling of pumpkin puree, liquid monk fruit, and no added sugars. For some healthy <a href="/misc/fats">fats</a>, mix some chopped nuts into the filling, or sprinkle on top of the pie.  For more pumpkin recipes, see my <a href="pumpkin-bread">Protein Pumpkin Loaf</a>, <a href="pancake">Pumpkin Protein Pancakes</a>, or <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>
+Description: Alliterations aside, this pumpkin pie is made with a protein powder and oat flour crust, and features a filling of pumpkin puree, liquid monk fruit, and no added sugars. For some healthy <a href="/misc/fats">fats</a>, mix some chopped <a href="/misc/nuts">nuts</a> into the filling, or sprinkle on top of the pie.  For more pumpkin recipes, see my <a href="pumpkin-bread">Protein Pumpkin Loaf</a>, <a href="pancake">Pumpkin Protein Pancakes</a>, or <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>
 Instructions: 
 - Preheat your oven to 350F. Liberally grease a 9" metal pie pan with oil spray
 

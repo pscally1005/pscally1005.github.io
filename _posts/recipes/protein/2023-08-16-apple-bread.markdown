@@ -49,7 +49,7 @@ tags:
 - cinnamon
 - ginger
 - cake
-Description: This cinnamon apple bread is a perfect fall based dessert that won't set you off your healthy eating path. It's similar to my <a href="/recipes/banana-protein">Protein Banana Nut Bread</a> and <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a> recipes, but apple based instead (duh).  The combination of cinnamon and ginger with apples is a classic for a reason! This recipe also works fantastic as a carrot cake recipe too, just swap out the apples for grated carrots, or check out my <a href="/recipes/carrot-cake">Layered Protein Carrot Cake</a>.
+Description: This cinnamon <a href="/misc/fruit#apple">apple</a> bread is a perfect fall based dessert that won't set you off your healthy eating path. It's similar to my <a href="/recipes/banana-protein">Protein Banana Nut Bread</a> and <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a> recipes, but apple based instead (duh).  The combination of cinnamon and ginger with <a href="/misc/fruit#apple">apples</a> is a classic for a reason! This recipe also works fantastic as a carrot cake recipe too, just swap out the apples for grated carrots, or check out my <a href="/recipes/carrot-cake">Layered Protein Carrot Cake</a>.
 Instructions: 
 - Combine dry ingredients in a bowl - oat flour, whey, casein, baking powder, cinnamon, salt, baking soda, and ginger
 

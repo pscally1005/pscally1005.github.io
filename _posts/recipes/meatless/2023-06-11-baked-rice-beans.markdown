@@ -50,7 +50,7 @@ tags:
 - onions
 - peppers
 - diced green chiles
-Description: This simple baked rice and beans also mixes together vegetables and a spicy sauce.  Brown rice is used here instead of <a href="/misc/fake-healthy-foods#white-rice">white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a side of nuts, fruit, or <a href="/misc/protein">protein</a>.
+Description: This simple baked rice and <a href="/misc/beans">beans</a> also mixes together vegetables and a spicy sauce.  Brown rice is used here instead of <a href="/misc/fake-healthy-foods#white-rice">white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a side of nuts, fruit, or <a href="/misc/protein">protein</a>.
 Instructions: 
 - Preheat your oven to 400F. Heat a large Dutch oven over medium heat with olive oil. Cut your peppers, onions, and carrots into a small dice. Add salt, stir, cover, and cook for about 10 minutes, or until the peppers begin to soften and the onions start to turn translucent
 

@@ -57,7 +57,7 @@ tags:
 - banana bread
 - bread
 - cake
-Description: Unlike traditional banana bread or <a href="/misc/fake-healthy-foods#muffins">muffins</a>, this recipe is healthy enough to be eaten for breakfast, as it's not loaded with added sugars or unhealthy <a href="/misc/fats">fats</a>. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted <a href="/misc/nuts#peanuts">peanut</a> butter (not included in the nutrition facts). Bonus points for being gluten free too!  Check out my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
+Description: Unlike traditional <a href="/misc/fruit#banana">banana</a> bread or <a href="/misc/fake-healthy-foods#muffins">muffins</a>, this recipe is healthy enough to be eaten for breakfast, as it's not loaded with added sugars or unhealthy <a href="/misc/fats">fats</a>. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted <a href="/misc/nuts#peanuts">peanut</a> butter (not included in the nutrition facts). Bonus points for being gluten free too!  Check out my <a href="pbj-muffin">Peanut Butter and Jelly Muffins</a> and my <a href="double-chocolate-banana-bread">Double Chocolate Banana Bread</a> for similar recipes
 Instructions: 
 - Preheat your oven to 350F
 
