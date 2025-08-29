@@ -47,7 +47,7 @@ tags:
 - skim milk
 - unsweetened vanilla almond milk
 - unsweetened almond milk
-Description: This <a href="/misc/fake-healthy-foods#cereal">cereal</a> is full of <a href="/misc/fiber">fiber</a> and <a href="/misc/protein">protein</a>, and tastes similar to the sweet cereals you loved growing up, without all the extra <a href="/misc/hidden-sugar">added sugars</a>. Instead of serving with just plain milk, I'm also mixing up a little <a href="/misc/protein">protein</a> shake to use for even more of a boost.
+Description: This <a href="/misc/fake-healthy-foods#cereal">cereal</a> is full of <a href="/misc/fiber">fiber</a> and <a href="/misc/protein">protein</a>, and tastes similar to the sweet cereals you loved growing up, without all the extra <a href="/misc/hidden-sugar">added sugars</a>. Instead of serving with just plain <a href="/misc/dairy#milk">milk</a>, I'm also mixing up a little <a href="/misc/protein">protein</a> shake to use for even more of a boost.
 Instructions: 
 - Preheat your air fryer to 380F, and drain and rinse a can of chickpeas. Add to a bowl, and toss with cinnamon.  Air fry for about 15 minutes, shaking halfway, until golden and crispy
 - <center><img src="/assets/Food/Breakfast/Chickpea/roasted.jpg" alt="" class="instruction-image"></center>

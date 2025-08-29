@@ -48,7 +48,7 @@ tags:
 - crust
 - cake
 - chocolate chip
-Description: This <a href="/misc/nuts#peanuts">peanut</a> butter cheesecake is a great gluten free and high <a href="/misc/protein">protein</a> dessert option. It as work as a <a href="/misc/protein">protein</a> bar too, as it even has more than 10 of <a href="/misc/protein">protein</a> per 100 <a href="/misc/calories">calories</a>. Fold in some chocolate chips or serve with some peanut butter and berries to mix it up.  This cheesecake doesn't have a crust, but if you want one, see my <a href="peanut-butter-pie">Peanut Butter Banana Pie</a> for a standard pie crust, or my <a href="pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a> for a high <a href="/misc/protein">protein</a> pie crust
+Description: This <a href="/misc/nuts#peanuts">peanut</a> butter cheesecake is a great gluten free and high <a href="/misc/protein">protein</a> dessert option. It as work as a <a href="/misc/protein">protein</a> bar too, as it even has more than 10 of <a href="/misc/protein">protein</a> per 100 <a href="/misc/calories">calories</a>. Fold in some chocolate chips or serve with some <a href="/recipes/natural-peanut-butter">peanut butter</a> and berries to mix it up.  This cheesecake doesn't have a crust, but if you want one, see my <a href="peanut-butter-pie">Peanut Butter Banana Pie</a> for a standard pie crust, or my <a href="pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a> for a high <a href="/misc/protein">protein</a> pie crust
 Instructions: 
 - Mix ingredients together in a bowl or food processor until smooth - whipped fat free cottage cheese, banana, PB2, cornstarch, vanilla, and sweetener
 

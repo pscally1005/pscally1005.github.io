@@ -56,7 +56,7 @@ tags:
 - chicken stock
 - chicken broth
 - bone broth
-Description: Do I file this recipe under <a href="/recipes/meme">Meme Recipes</a> or <a href="/misc/unhealthy">Unhealthy Recipes</a>?  The answer is yes. These cookies are inspired by a <a href="https://www.youtube.com/@BDylanHollis">Dylan Hollis</a> short of <a href="https://youtu.be/eych5M7xgF0">Bacon Grease Chocolate Chip Cookies</a>. Instead, I'm swapping out the butter in my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a> for <a href="/misc/slow-cooker-chicken">chicken fat</a> that I rendered out when making <a href="/misc/slow-cooker-chicken">homemade chicken bone broth</a>. Don't be turned off by the chicken!  The subtle roasty flavor perfectly complements the sweet and rich cookie. It's a chocolate chip cookie with a Bachelor's Degree!
+Description: Do I file this recipe under <a href="/recipes/meme">Meme Recipes</a> or <a href="/misc/unhealthy">Unhealthy Recipes</a>?  The answer is yes. These cookies are inspired by a <a href="https://www.youtube.com/@BDylanHollis">Dylan Hollis</a> short of <a href="https://youtu.be/eych5M7xgF0">Bacon Grease Chocolate Chip Cookies</a>. Instead, I'm swapping out the <a href="/misc/dairy#butter">butter</a> in my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a> for <a href="/misc/slow-cooker-chicken">chicken fat</a> that I rendered out when making <a href="/misc/slow-cooker-chicken">homemade chicken bone broth</a>. Don't be turned off by the chicken!  The subtle roasty flavor perfectly complements the sweet and rich cookie. It's a chocolate chip cookie with a Bachelor's Degree!
 Instructions: 
 - Preheat your oven to 350F, and line 2 large cookie sheets with parchment paper
 

@@ -53,7 +53,7 @@ tags:
 - rum extract
 - gluten free
 - sugar free
-Description: Ah cuccidati, my favorite cookie of all time, and a staple of Christmas for me. Traditionally, these are Sicilian cookies filled with figs, and sometimes nuts and chocolate. They're essentially a fancy Fig Newton that's also glazed in <a href="/misc/hidden-sugar">sugar</a>. Most recipes actually don't have any <a href="/misc/hidden-sugar">added sugar</a> in the filling, just in the dough and the glaze. But I'm making my all time favorite my way today, which means no butter, oil, wheat, or <a href="/misc/hidden-sugar">sugar</a> in these cookies. Dare I say that these taste better than the originals? I think it's pretty damn close.  You can check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: Ah cuccidati, my favorite cookie of all time, and a staple of Christmas for me. Traditionally, these are Sicilian cookies filled with figs, and sometimes nuts and chocolate. They're essentially a fancy Fig Newton that's also glazed in <a href="/misc/hidden-sugar">sugar</a>. Most recipes actually don't have any <a href="/misc/hidden-sugar">added sugar</a> in the filling, just in the dough and the glaze. But I'm making my all time favorite my way today, which means no <a href="/misc/dairy#butter">butter</a>, oil, wheat, or <a href="/misc/hidden-sugar">sugar</a> in these cookies. Dare I say that these taste better than the originals? I think it's pretty damn close.  You can check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - Peel your oranges, and add to a small food processor. Blend until smooth, and transfer to a medium pot along with dates (cut in half) and water
 

@@ -48,7 +48,7 @@ tags:
 - unsweetened vanilla almond milk
 - unsweetened applesauce
 - gluten free
-Description: Graham cracker crusts are staples of most pies, and typically made out of graham cracker crumbs, melted butter, and sometimes additional <a href="/misc/hidden-sugar">sugar</a>. Instead, I'm replacing store-bought crackers with my own <a href="/recipes/gf-crackers">Gluten Free Graham Crackers</a>, and subbing out the butter for unsweetened applesauce. The result is a very similar crust with a fraction of the <a href="/misc/fats">fat</a>, <a href="/misc/hidden-sugar">sugar</a>, and <a href="/misc/calories">calories</a>
+Description: Graham cracker crusts are staples of most pies, and typically made out of graham cracker crumbs, melted <a href="/misc/dairy#butter">butter</a>, and sometimes additional <a href="/misc/hidden-sugar">sugar</a>. Instead, I'm replacing store-bought crackers with my own <a href="/recipes/gf-crackers">Gluten Free Graham Crackers</a>, and subbing out the butter for unsweetened applesauce. The result is a very similar crust with a fraction of the <a href="/misc/fats">fat</a>, <a href="/misc/hidden-sugar">sugar</a>, and <a href="/misc/calories">calories</a>
 Instructions: 
 - Blend graham crackers in a food processor until you have a fine crumb. Blend in the applesauce. The dough should look too dry, but just come together with pressed with your hands
 

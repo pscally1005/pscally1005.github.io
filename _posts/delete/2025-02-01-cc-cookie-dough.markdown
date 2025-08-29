@@ -53,7 +53,7 @@ tags:
 - chocolate
 - unsweetened chocolate
 - liquid monk fruit
-Description: This recipe is an adapted version of the viral healthy cottage cheese cookie dough made even healthier. It can serve 1 person as a breakfast, or can be portioned and stored in the fridge as a snack. It's super high in <a href="/misc/protein">protein</a> from the yogurt, cottage cheese, and protein powder, while also containing a lot of <a href="/misc/fiber">fiber</a> (coconut flour), as well as some healthy <a href="/misc/fats">fats</a> (unsweetened chocolate).  You can also check out any of my other <a href="/yogurt">yogurt</a> or <a href="/cookie">cookie</a> recipes!
+Description: This recipe is an adapted version of the viral healthy <a href="/misc/dairy#cottage-cheese">cottage cheese</a> cookie dough made even healthier. It can serve 1 person as a breakfast, or can be portioned and stored in the fridge as a snack. It's super high in <a href="/misc/protein">protein</a> from the <a href="/misc/dairy#greek-yogurt">yogurt</a>, cottage cheese, and protein powder, while also containing a lot of <a href="/misc/fiber">fiber</a> (coconut flour), as well as some healthy <a href="/misc/fats">fats</a> (unsweetened chocolate).  You can also check out any of my other <a href="/yogurt">yogurt</a> or <a href="/cookie">cookie</a> recipes!
 Instructions: 
 - I always pre-blend my entire cottage cheese container when I buy it, but if yours isn't blended then you can make this in the food processor
 

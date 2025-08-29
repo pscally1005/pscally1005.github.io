@@ -47,7 +47,7 @@ tags:
 - garbanzo
 - beans
 - chocolate chips
-Description: Here is a giant chocolate chip cookie. Because that's what cookie cake is. I've made it <a href="/misc/hidden-sugar">added sugar</a> free and gluten free, utilizing dates, chickpeas, bananas, <a href="/misc/nuts#peanuts">peanut</a> butter, and oats. This dessert is like eating a large chocolate chip cookie with a fork, and goes great with a scoop of <a href="/recipes/neopolitan-banana-ice-cream">Neopolitan Banana Ice Cream</a> right on top of it
+Description: Here is a giant chocolate chip cookie. Because that's what cookie cake is. I've made it <a href="/misc/hidden-sugar">added sugar</a> free and gluten free, utilizing dates, <a href="/misc/beans#chickpeas">chickpeas</a>, bananas, <a href="/misc/nuts#peanuts">peanut</a> butter, and oats. This dessert is like eating a large chocolate chip cookie with a fork, and goes great with a scoop of <a href="/recipes/neopolitan-banana-ice-cream">Neopolitan Banana Ice Cream</a> right on top of it
 Instructions: 
 - Preheat the oven to 350F, and lightly grease a 10" cast iron pan with oil
 

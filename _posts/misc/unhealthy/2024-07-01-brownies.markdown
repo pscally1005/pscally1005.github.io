@@ -43,7 +43,7 @@ tags:
 - chocolate chips
 - chocolate chunks
 - vanilla
-Description: I think of a single person who doesn't like brownies. As with my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a>, here's a standard dessert recipe, with butter, <a href="/misc/hidden-sugar">sugar</a>, and white flour. I like to bake traditional desserts occasionally, and these are ones that you know everyone will love at a party. They're not healthy at all, unlike most things on this page, but that's okay; enjoy these in morderation.  Or check out any of my other <a href="/brownies">healthy brownie recipes</a>!
+Description: I think of a single person who doesn't like brownies. As with my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a>, here's a standard dessert recipe, with <a href="/misc/dairy#butter">butter</a>, <a href="/misc/hidden-sugar">sugar</a>, and white flour. I like to bake traditional desserts occasionally, and these are ones that you know everyone will love at a party. They're not healthy at all, unlike most things on this page, but that's okay; enjoy these in morderation.  Or check out any of my other <a href="/brownies">healthy brownie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F, and grease either an <a href="https://amzn.to/4kzchJ3">11.5x7"</a> or a <a href="https://amzn.to/4mAvtr9">9x9"</a> pan with oil. Make sure to coat it well; you don't want the brownies to stick to the pan
 

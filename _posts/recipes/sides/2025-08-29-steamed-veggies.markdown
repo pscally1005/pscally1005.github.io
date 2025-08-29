@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Steamed Vegetables That Don't Suck"
-date:   2025-08-07 00:00:00 -05000
+date:   2025-08-29 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

@@ -54,7 +54,7 @@ tags:
 - cinnamon
 - sugar free
 - liquid monk fruit
-Description: I love <a href="/misc/protein">protein</a> overnight oats for breakfast, but not everyone has protein powder. These oats are essentially just <a href="/recipes/vic-oats">Very Vic</a>, but with Greek yogurt instead of protein powder, and topped with strawberries.  And yet it still provides nearly 40 g of <a href="/misc/protein">protein</a> in a bowl for a healthy, filling, and simple breakfast.  For a yogurt free overnight oats, check out my <a href="/recipes/no-yogurt-oatmeal">Yogurt Free Protein Oats</a>.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
+Description: I love <a href="/misc/protein">protein</a> overnight oats for breakfast, but not everyone has protein powder. These oats are essentially just <a href="/recipes/vic-oats">Very Vic</a>, but with <a href="/misc/dairy#greek-yogurt">Greek yogurt</a> instead of protein powder, and topped with strawberries.  And yet it still provides nearly 40 g of <a href="/misc/protein">protein</a> in a bowl for a healthy, filling, and simple breakfast.  For a yogurt free overnight oats, check out my <a href="/recipes/no-yogurt-oatmeal">Yogurt Free Protein Oats</a>.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
 Instructions: 
 - Mix all ingredients together in a bowl or airtight container. Top with sliced strawberries, refrigerate overnight, and enjoy cold or warm the next day
 - <center><img src="/assets/Food/Breakfast/No Pro/no-pro-1.jpg" alt="" class="instruction-image"></center>

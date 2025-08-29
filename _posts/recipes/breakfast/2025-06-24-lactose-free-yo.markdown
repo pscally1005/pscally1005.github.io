@@ -47,7 +47,7 @@ tags:
 - vic
 - copycat
 - homemade
-Description: Chobani sells <a href="https://amzn.to/43NZ2On">this</a> lactose free, <a href="/misc/hidden-sugar">sugar</a> free, <a href="/misc/fats">fat</a> free, vanilla Greek yogurt.  It also comes in strawberry for the large containers, and a variety of other flavors for single serving packs.  But they're often out of stock or quite expensive.  So instead, I'm going to recreate the vanilla version.  The base is cheaper store-brand plain nonfat Greek yogurt, with some added sweetener, vanilla extract, and lactase enzyme.  This breaks down the milk sugar lactose, making it safe for people with lactose intolerance.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>
+Description: Chobani sells <a href="https://amzn.to/43NZ2On">this</a> lactose free, <a href="/misc/hidden-sugar">sugar</a> free, <a href="/misc/fats">fat</a> free, vanilla <a href="/misc/dairy#greek-yogurt">Greek yogurt</a>.  It also comes in strawberry for the large containers, and a variety of other flavors for single serving packs.  But they're often out of stock or quite expensive.  So instead, I'm going to recreate the vanilla version.  The base is cheaper store-brand plain nonfat Greek yogurt, with some added sweetener, vanilla extract, and lactase enzyme.  This breaks down the milk sugar lactose, making it safe for people with lactose intolerance.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>
 Instructions: 
 - Mix all ingredients together in a large bowl, and store in the fridge
 - <center><img src="/assets/Food/Breakfast/Lactose Free Yogurt/bowl.jpg" alt="" class="instruction-image"></center>

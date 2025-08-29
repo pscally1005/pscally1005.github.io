@@ -45,7 +45,7 @@ tags:
 - lettuce
 - salad
 - chickpeas
-Description: These super simple croutons are made using cannellini beans (or any other beans you have).  Depending on your soy sauce, they can be a great gluten free alternative, as well as being healthier than traditional croutons.  Just air fry or roast the beans until crispy, as use them to top a salad.  They go great with my <a href="/recipes/greek-yogurt-caesar-dressing">Greek Yogurt Caesar Dressing</a>
+Description: These super simple croutons are made using <a href="/misc/beans#cannellini-beans">cannellini</a> beans (or any other beans you have).  Depending on your soy sauce, they can be a great gluten free alternative, as well as being healthier than traditional croutons.  Just air fry or roast the beans until crispy, as use them to top a salad.  They go great with my <a href="/recipes/greek-yogurt-caesar-dressing">Greek Yogurt Caesar Dressing</a>
 Instructions: 
 - Drain and rinse your beans, and add to a medium bowl. Add in the rest of the ingredients (soy sauce, garlic powder, oregano, and paprika), and toss to combine
 - <center><img src="/assets/Food/Finger Food/Croutons/croutons-raw.jpg" alt="" class="instruction-image"></center>

@@ -55,7 +55,7 @@ tags:
 - capers
 - walnuts
 - plain nonfat greek yogurt
-Description: Tuna salad, or tuna fish, is a simple throw together meal that can use pretty much anything in your fridge. Binded with Greek yogurt instead of mayo, this "salad" is much better for you, and is a great lunch. The recipe makes 2 servings as bowls, or 4 if made as a sandwich.  For an avocado based tuna salad instead, check out my <a href="/recipes/avocado-tuna-salad">Avocado Tuna Salad</a>
+Description: Tuna salad, or tuna fish, is a simple throw together meal that can use pretty much anything in your fridge. Binded with <a href="/misc/dairy#greek-yogurt">Greek yogurt</a> instead of mayo, this "salad" is much better for you, and is a great lunch. The recipe makes 2 servings as bowls, or 4 if made as a sandwich.  For an avocado based tuna salad instead, check out my <a href="/recipes/avocado-tuna-salad">Avocado Tuna Salad</a>
 Instructions: 
 - Drain the fish and add to a large bowl. Mash with a fork.  For the fish, I use 2 5oz cans of solid white albacore tuna in water
 

@@ -52,7 +52,7 @@ tags:
 - liquid monk fruit
 - unsweetened vanilla almond milk
 - unsweetened almond milk
-Description: Golden milk is a traditional Indian turmeric milk used for reducing inflammation. The black pepper aids in activating the anti inflammatory effects of turmeric, and my addition of <a href="/misc/magnesium">magnesium</a> will relax your muscles and calm your mind.  Pair this with a <a href="/misc/protein">protein</a> and vegetable as your <a href="/misc/carbs">carb</a> side at dinner time, and you'll be sleeping like a baby
+Description: Golden <a href="/misc/dairy#almond-milk">milk</a> is a traditional Indian turmeric milk used for reducing inflammation. The black pepper aids in activating the anti inflammatory effects of turmeric, and my addition of <a href="/misc/magnesium">magnesium</a> will relax your muscles and calm your mind.  Pair this with a <a href="/misc/protein">protein</a> and vegetable as your <a href="/misc/carbs">carb</a> side at dinner time, and you'll be sleeping like a baby
 Instructions: 
 - Break your banana into chunks, and freeze overnight
 
