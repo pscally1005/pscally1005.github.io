@@ -43,7 +43,7 @@ tags:
 - barbeque
 - soy sauce
 - breast
-Description: Grilled chicken was something that my parents always had prepared in the freezer. They'd simply marinate a package of chicken in a Ziploc bag, and freeze it for a busy night. I've taken inspiration from that recipe, but I bake them since I live in an apartment, but grilling would be ideal. These chickens go great with virtually any side, but especially anything grilled as well, like some grilled or roasted zucchini, or here I air fryed a plantian.
+Description: Grilled <a href="/misc/meat#chicken-breast">chicken</a> was something that my parents always had prepared in the freezer. They'd simply marinate a package of chicken in a Ziploc bag, and freeze it for a busy night. I've taken inspiration from that recipe, but I bake them since I live in an apartment, but grilling would be ideal. These chickens go great with virtually any side, but especially anything grilled as well, like some grilled or roasted zucchini, or here I air fryed a plantian.
 Instructions:
 - Slice each chicken breast into 2-3 cutlets. Evenly thin out the chicken, and pound it down if needed
 

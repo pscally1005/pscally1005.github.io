@@ -61,7 +61,7 @@ tags:
 - sandwich
 - spread
 - toast
-Description: Apple spread is my go to recipe in October, when I have too many apples from apple picking and I need to use up all 40 before they go bad. This apple butter has no added sugars, as the apples are more than sweet enough to flavor it. You can use this in place of unsweetened applesauce or mashed banana in any recipes for a significantly better result. Each serving is about 20g, or a big spoonful. For the ultimate peanut butter and jelly, make some <a href="natural-peanut-butter">Homemade Natural Nut Butter</a> and <a href="ww-bread">100% Whole Wheat Bread</a>
+Description: Apple spread is my go to recipe in October, when I have too many apples from apple picking and I need to use up all 40 before they go bad. This apple butter has no added sugars, as the apples are more than sweet enough to flavor it. You can use this in place of unsweetened applesauce or mashed banana in any recipes for a significantly better result. Each serving is about 20g, or a big spoonful. For the ultimate <a href="/misc/nuts#peanuts">peanut</a> butter and jelly, make some <a href="natural-peanut-butter">Homemade Natural Nut Butter</a> and <a href="ww-bread">100% Whole Wheat Bread</a>
 Instructions: 
 - Cut each apple into 8ths and place in a crock pot.  An entire 3 lb bag, or about 9-10 gala apples, will be good for this recipe. Add cinnamon, ginger, cloves, and water
 

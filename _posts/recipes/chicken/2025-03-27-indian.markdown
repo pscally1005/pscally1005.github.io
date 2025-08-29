@@ -43,7 +43,7 @@ tags:
 - turmeric
 - cumin
 - chili powder
-Description: I got this recipe from my girlfriend's mom after having it at their house. It's a simple 2 pan dish of sauteed soft potatoes and diced chicken breast, with Indian spices such as turmeric and cumin. It's a delicious <a href="/misc/protein">protein</a> and <a href="/misc/carbs">carb</a> combo that goes well with any veggies; here, I've paired my chicken and potatoes with a side of <a href="/recipes/vegetable-medley">Spinach & Onion Vegetable Medley</a>
+Description: I got this recipe from my girlfriend's mom after having it at their house. It's a simple 2 pan dish of sauteed soft potatoes and diced <a href="/misc/meat#chicken-breast">chicken</a> breast, with Indian spices such as turmeric and cumin. It's a delicious <a href="/misc/protein">protein</a> and <a href="/misc/carbs">carb</a> combo that goes well with any veggies; here, I've paired my chicken and potatoes with a side of <a href="/recipes/vegetable-medley">Spinach & Onion Vegetable Medley</a>
 Instructions: 
 - Wash your potatoes, and cut into 1" cubes. Don't peel the potatoes! Add to a large glass bowl, and season with olive oil, chili powder, garlic powder, turmeric, cumin, and salt. Toss to combine
 

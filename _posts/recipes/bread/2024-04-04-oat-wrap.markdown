@@ -48,7 +48,7 @@ tags:
 - flatbread
 - tortilla
 - crepe
-Description: These super simple oat flour wraps contain just 3 ingredients - oats, water, and salt. They're gluten free and oil free, great for both savory and sweet fillings. Great uses for these wraps are <a href="/recipes/taco">Sauteed Taco Meat</a> or <a href="/recipes/spaghetti-taco">Spaghetti Tacos with Zoodles</a> for dinner, or fill it with fruit, greek yogurt, and peanut butter for breakfast
+Description: These super simple oat flour wraps contain just 3 ingredients - oats, water, and salt. They're gluten free and oil free, great for both savory and sweet fillings. Great uses for these wraps are <a href="/recipes/taco">Sauteed Taco Meat</a> or <a href="/recipes/spaghetti-taco">Spaghetti Tacos with Zoodles</a> for dinner, or fill it with fruit, greek yogurt, and <a href="/misc/nuts#peanuts">peanut</a> butter for breakfast
 Instructions: 
 - Add all ingredients to a blender. Allow to soak for 30 minutes before blending until smooth
 

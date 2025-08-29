@@ -59,7 +59,7 @@ tags:
 - paprika
 - low carb
 - keto
-Description: This dish combines features cauliflower rice and some spiced beans, topped with a vegan cheese sauce featuring nuts, vegetables, and nutritional yeast. It boasts some healthy <a href="/misc/fats">fats</a> from the cashews, while being lower in <a href="/misc/carbs">carbs</a> due to the cauliflower. It comes together pretty quickly, is high in <a href="/misc/fiber">fiber</a>, and is a rich source of B vitamins due to the nutritional yeast and marmite, something typically lacking in vegan dishes.<br>&emsp;This recipes is an adapted version of "Cheesy Cauliflower Rice Bowl" from the book Good Energy.  For another vegan cheese sauce dish, see my <a href="/recipes/vegan-mac-and-cheese">'Mac' & 'Cheese'</a>
+Description: This dish combines features cauliflower rice and some spiced beans, topped with a vegan cheese sauce featuring nuts, vegetables, and nutritional yeast. It boasts some healthy <a href="/misc/fats">fats</a> from the <a href="/misc/nuts#cashews">cashews</a>, while being lower in <a href="/misc/carbs">carbs</a> due to the cauliflower. It comes together pretty quickly, is high in <a href="/misc/fiber">fiber</a>, and is a rich source of B vitamins due to the nutritional yeast and marmite, something typically lacking in vegan dishes.<br>&emsp;This recipes is an adapted version of "Cheesy Cauliflower Rice Bowl" from the book Good Energy.  For another vegan cheese sauce dish, see my <a href="/recipes/vegan-mac-and-cheese">'Mac' & 'Cheese'</a>
 Instructions: 
 - Add cashews to a small bowl, and cover with water. Let soak for 2 hours to soften (they will be blended into the cheese sauce). Drain the soaking liquid when done
 

@@ -53,7 +53,7 @@ tags:
 - seed butter
 - cinnamon
 - coconut oil
-Description: These bars are an adapted version of the Pecan Butter Chocolate Truffles from the cookbook Run Fast Eat Slow. I've made them into bars here, but if you have mini muffin liners you can totally make them into Reese's cups as well. This is admittedly unnecessary boujee with the pecan butter and carob powder; you can easily swap those for regular cocoa powder and any kind of nut or seed butter you like
+Description: These bars are an adapted version of the Pecan Butter Chocolate Truffles from the cookbook Run Fast Eat Slow. I've made them into bars here, but if you have mini muffin liners you can totally make them into Reese's cups as well. This is admittedly unnecessary boujee with the <a href="/misc/nuts#pecans">pecan</a> butter and carob powder; you can easily swap those for regular cocoa powder and any kind of nut or seed butter you like
 Instructions: 
 - In a food processor, blend the pecans until a smooth pecan butter forms, scraping down the sides every minute or so. This can take about 5 minutes, depending on your food processor. Any kind of nuts can be used here - peanuts, pistachios, almonds, or even sunflower or pumpkin seeds to make it nut-free
 - <center><img src="/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-1.jpg" alt="" class="instruction-image"></center>

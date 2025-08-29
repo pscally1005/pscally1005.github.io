@@ -51,7 +51,7 @@ tags:
 - brown rice
 - pita bread
 - whole wheat
-Description: This dish features a spinach and tomato paste pesto sauce, mixed into some vegetables and ground turkey. It goes well inside of a pocket pita, like with my <a href="/recipes/pita">Whole Wheat Pita Bread</a>.  It's also great served on top of some brown rice, or just on its own. Nutrition facts are for the filling including a piece of pita bread per serving
+Description: This dish features a spinach and tomato paste pesto sauce, mixed into some vegetables and <a href="/misc/meat#ground-turkey">ground turkey</a>. It goes well inside of a pocket pita, like with my <a href="/recipes/pita">Whole Wheat Pita Bread</a>.  It's also great served on top of some brown rice, or just on its own. Nutrition facts are for the filling including a piece of pita bread per serving
 Instructions: 
 - Spray a large pan with a touch of oil, and saute the spinach over medium heat until fully cooked, about 5-10 minutes, covered
 

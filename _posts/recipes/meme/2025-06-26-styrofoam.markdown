@@ -47,7 +47,7 @@ tags:
 - macaroon
 - meringue
 - granulated monk fruit
-Description: These 3 simple ingredient cookies come from the cookbook Baking Yesteryear, where their name comes from their interesting texture. Crunchy on the outside, chewy on the inside, these cookies supposedly have the texture of eating Styrofoam?  If that doesn't sound appealing, then think of these more as single almond macaroon cookies without any filling, or as a peanut butter flavored meringue cookie. I've swapped the granulated sugar for monk fruit, and substituted in any nut butter I want. The original is peanut butter, but try almond butter for an amaretti cookie vibe
+Description: These 3 simple ingredient cookies come from the cookbook Baking Yesteryear, where their name comes from their interesting texture. Crunchy on the outside, chewy on the inside, these cookies supposedly have the texture of eating Styrofoam?  If that doesn't sound appealing, then think of these more as single <a href="/misc/nuts#almonds">almond</a> macaroon cookies without any filling, or as a <a href="/misc/nuts#peanuts">peanut</a> butter flavored meringue cookie. I've swapped the granulated sugar for monk fruit, and substituted in any nut butter I want. The original is peanut butter, but try almond butter for an amaretti cookie vibe
 Instructions: 
 - Preheat your oven to 325F, and line a cookie sheet with parchment paper
 

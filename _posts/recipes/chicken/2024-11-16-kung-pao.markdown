@@ -51,7 +51,7 @@ tags:
 - garlic
 - ginger
 - balsamic
-Description: Here's my take on a healthy Kung Pao Chicken. It avoids directly adding in any <a href="/misc/hidden-sugar">sugar</a> or honey, and doesn't use sugary sauces like hoisin and sriracha. It's mildly sweet from the gochujang and monk fruit, while being bulked up with yellow squash. I'm using less oil than typical here, and I've paired it with a side of healthier brown rice instead of white rice. Top it with chopped peanuts, and you're sure to love this twist on the classic dish
+Description: Here's my take on a healthy Kung Pao Chicken. It avoids directly adding in any <a href="/misc/hidden-sugar">sugar</a> or honey, and doesn't use sugary sauces like hoisin and sriracha. It's mildly sweet from the gochujang and monk fruit, while being bulked up with yellow squash. I'm using less oil than typical here, and I've paired it with a side of healthier brown rice instead of white rice. Top it with chopped <a href="/misc/nuts#peanuts">peanuts</a>, and you're sure to love this twist on the classic dish
 Instructions: 
 - Add rice, chicken bouillon, and water to a medium pot. Cover and bring to a boil on high heat. Lower to medium, cover, and let simmer for about 30 minutes, until all water is absorbed
 - <center><img src="/assets/Food/Chicken/Kung Pao/kung-pao-rice.jpg" alt="" class="instruction-image"></center>

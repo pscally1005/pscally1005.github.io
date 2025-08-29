@@ -49,7 +49,7 @@ tags:
 - protein
 - easy
 - pulled chicken
-Description: Would you believe that this 2 ingredient salsa chicken contains just salsa and chicken? Wild concept, I know, I bet you're beyond shocked. This is probably the most low effort <a href="/misc/protein">protein</a> source you can make, and still tastes great. With just a pack of chicken thighs and a jar of salsa, you can have a easy meat ready for you at the end of the day.  I've gone with storebought salsa here, but you can also use a full batch of my <a href="/recipes/salsa">Five Minute Salsa (No Garlic/Onion)</a> as well!
+Description: Would you believe that this 2 ingredient salsa <a href="/misc/meat#chicken-breast">chicken</a> contains just salsa and chicken? Wild concept, I know, I bet you're beyond shocked. This is probably the most low effort <a href="/misc/protein">protein</a> source you can make, and still tastes great. With just a pack of chicken thighs and a jar of salsa, you can have a easy meat ready for you at the end of the day.  I've gone with storebought salsa here, but you can also use a full batch of my <a href="/recipes/salsa">Five Minute Salsa (No Garlic/Onion)</a> as well!
 Instructions: 
 - <br><center><img src="/assets/Food/Chicken/Salsa Chicken/salsa-chicken-packaging.jpg" alt="" class="larger-image"></center>
 

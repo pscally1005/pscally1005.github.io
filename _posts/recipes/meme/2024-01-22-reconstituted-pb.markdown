@@ -43,7 +43,7 @@ tags:
 - homemade peanut butter
 - 2 ingredient
 - two ingredient
-Description: Have you ever needed peanut butter but not had any? Powdered peanut butter is peanut butter with most the <a href="/misc/fats">fat</a> removed, so why not just add it back in? This is the ratio of peanut flour to oil to make peanut butter, matching the nutrition facts of real peanut butter as close as possible. I use extra virgin olive oil, as it's one of the healthiest <a href="/misc/fats">fat</a> sources, but other oils will work as well, such as coconut or avocado oil.  Or check out any of my other <a href="/nut-butter">nut butter recipes</a>!
+Description: Have you ever needed <a href="/misc/nuts#peanuts">peanut</a> butter but not had any? Powdered peanut butter is peanut butter with most the <a href="/misc/fats">fat</a> removed, so why not just add it back in? This is the ratio of peanut flour to oil to make peanut butter, matching the nutrition facts of real peanut butter as close as possible. I use extra virgin olive oil, as it's one of the healthiest <a href="/misc/fats">fat</a> sources, but other oils will work as well, such as coconut or avocado oil.  Or check out any of my other <a href="/nut-butter">nut butter recipes</a>!
 Instructions: 
 - In a small bowl, mix together powdered peanut butter and oil. Use this peanut butter any way you'd like. It has the consistency of natural peanut butter, with a subtle extra virgin olive oil taste
 ---

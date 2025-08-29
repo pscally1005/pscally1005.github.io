@@ -54,7 +54,7 @@ tags:
 - parmesan cheese
 - parmesan cheese
 - nutritional yeast
-Description: Delicious pesto for a fraction of the <a href="/misc/calories">calories</a>!  Yes it's possible; this pesto is oil free, but still made with pine nuts, basil, garlic, and grated cheese.  It's a great sauce, spread, or salad dressing, and full of the same nutty, cheese, and lemon flavor that you love.  Check out some of my other <a href="/pesto">pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href="/misc/protein">protein</a> versions
+Description: Delicious pesto for a fraction of the <a href="/misc/calories">calories</a>!  Yes it's possible; this pesto is oil free, but still made with <a href="/misc/nuts#pine-nuts">pine nuts</a>, basil, garlic, and grated cheese.  It's a great sauce, spread, or salad dressing, and full of the same nutty, cheese, and lemon flavor that you love.  Check out some of my other <a href="/pesto">pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href="/misc/protein">protein</a> versions
 Instructions: 
 - In a small pan over medium heat, toast your nuts until fragrant and lightly browned
 

@@ -50,7 +50,7 @@ tags:
 - low moisture part skim
 - shredded cheese
 - pepperoni
-Description: This pizza crust is a delicious lower <a href="/misc/carbs">carb</a> and gluten free option, being made of riced cauliflower, cheese, and ground flax seeds. It is very simple to make, and can be topped with whatever you like, such as meat or roasted veggies. This recipe yields 2 healthier personal pizzas
+Description: This pizza crust is a delicious lower <a href="/misc/carbs">carb</a> and gluten free option, being made of riced cauliflower, cheese, and ground <a href="/misc/seeds#flax-seeds">flax</a> seeds. It is very simple to make, and can be topped with whatever you like, such as meat or roasted veggies. This recipe yields 2 healthier personal pizzas
 Instructions: 
 - Preheat your oven to as hot as it goes (500F for me) with a pizza stone for around an hour. Heating the stone for a long time gets it as hot as possible, leading to the most browning on the underside of your pizza. This step is optional; if you don't have a pizza stone you can also bake on a cookie sheet
 

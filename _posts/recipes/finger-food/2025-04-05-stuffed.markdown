@@ -49,7 +49,7 @@ tags:
 - red split lentils
 - brown rice
 - quinoa beans
-Description: These stuffed peppers are filled with ground turkey, brown rice, and taco seasonings.  But they're super customizable.  This post is more of a guide on how to make stuffed peppers; below are different filling options you can try:<br><br><ul>
+Description: These stuffed peppers are filled with <a href="/misc/meat#ground-turkey">ground turkey</a>, brown rice, and taco seasonings.  But they're super customizable.  This post is more of a guide on how to make stuffed peppers; below are different filling options you can try:<br><br><ul>
     <li>Replace the ground turkey with either ground beef or <a href="/misc/ground-chicken">ground chicken</a></li>
     <li>Vegetarian stuffed peppers using either <a href="/recipes/rice-and-beans">Classic Rice and Beans</a> or <a href="/recipes/couscous">Tomato and Bean Couscous</a> as your filling</li>
     <li>Mediterranean stuffed peppers using my <a href="/recipes/mediterranean-potato-salad">Mediterranean Sweet Potato Salad</a> or <a href="/recipes/bean-salad">Mediterranean 3 Bean Salad</a></li>

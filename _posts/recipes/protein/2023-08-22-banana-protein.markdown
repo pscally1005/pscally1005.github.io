@@ -52,7 +52,7 @@ tags:
 - cake
 - bread
 - food processor
-Description: If you want to have <a href="/misc/fake-healthy-foods#banana-bread">banana bread</a> for breakfast or a dessert, this recipe works as a great way to satisfy that craving while still hitting your <a href="/misc/protein">protein</a> needs. This healthy cake has some healthy <a href="/misc/fats">fats</a> in the chia seeds and peanut butter, and is free of <a href="/misc/hidden-sugar">added sugars</a> and <a href="/misc/fake-healthy-foods#sugar-substitutes">artificial sweeteners</a>.  Some similar recipes are my <a href="/recipes/apple-bread">Protein Apple Bread</a> or <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a>, which you should totally try
+Description: If you want to have <a href="/misc/fake-healthy-foods#banana-bread">banana bread</a> for breakfast or a dessert, this recipe works as a great way to satisfy that craving while still hitting your <a href="/misc/protein">protein</a> needs. This healthy cake has some healthy <a href="/misc/fats">fats</a> in the <a href="/misc/seeds#chia-seeds">chia</a> seeds and <a href="/misc/nuts#peanuts">peanut</a> butter, and is free of <a href="/misc/hidden-sugar">added sugars</a> and <a href="/misc/fake-healthy-foods#sugar-substitutes">artificial sweeteners</a>.  Some similar recipes are my <a href="/recipes/apple-bread">Protein Apple Bread</a> or <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a>, which you should totally try
 Instructions: 
 - Preheat your oven to 350F.  Line a 9x5" bread pan with parchment paper, and lightly grease the paper
 

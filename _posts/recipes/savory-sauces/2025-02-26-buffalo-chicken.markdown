@@ -51,7 +51,7 @@ tags:
 - french onion dip
 - pulled chicken
 - rotisserie chicken
-Description: This buffalo chicken dip is great for your raw vegetables, crackers, or chips, tastes better than the original, and won't leave you feeling sick from all the cream cheese, mayo, sour cream, or ranch dressing. This dip is higher in <a href="/misc/protein">protein</a>, lower in <a href="/misc/fats">fat</a> and <a href="/misc/calories">calories</a>, and dead simple to make.  With just 6 ingredients, including <a href="/recipes/shredded-chicken">Simple Shredded Chicken</a>, you can make a healthy and easy game day dip. The Super Bowl was a bit ago, so I'm kinda late, but whatever.  Other great dips are <a href="/recipes/spinach-artichoke-dip">Lightened Up Spinach Artichoke Dip</a> and <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a>, which I highly recommend
+Description: This buffalo <a href="/misc/meat#chicken-breast">chicken</a> dip is great for your raw vegetables, crackers, or chips, tastes better than the original, and won't leave you feeling sick from all the cream cheese, mayo, sour cream, or ranch dressing. This dip is higher in <a href="/misc/protein">protein</a>, lower in <a href="/misc/fats">fat</a> and <a href="/misc/calories">calories</a>, and dead simple to make.  With just 6 ingredients, including <a href="/recipes/shredded-chicken">Simple Shredded Chicken</a>, you can make a healthy and easy game day dip. The Super Bowl was a bit ago, so I'm kinda late, but whatever.  Other great dips are <a href="/recipes/spinach-artichoke-dip">Lightened Up Spinach Artichoke Dip</a> and <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a>, which I highly recommend
 Instructions: 
 - Preheat your oven to 400F
 

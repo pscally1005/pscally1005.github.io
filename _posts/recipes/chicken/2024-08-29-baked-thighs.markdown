@@ -50,7 +50,7 @@ tags:
 - lemon juice
 - bake
 - roast
-Description: These baked chicken thighs are dead simple to make and taste great. Just mix spices in a bowl, dump over chicken, and stick in the oven. I've gone with thighs today to mix it up, but chicken breasts would also work (just reduce the time)
+Description: These baked <a href="/misc/meat#chicken-thighs">chicken</a> thighs are dead simple to make and taste great. Just mix spices in a bowl, dump over chicken, and stick in the oven. I've gone with thighs today to mix it up, but chicken breasts would also work (just reduce the time)
 Instructions: 
 - Preheat your oven to 400F, and line a large cookie sheet with parchment paper
 

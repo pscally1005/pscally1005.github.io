@@ -52,7 +52,7 @@ tags:
 - ginger
 - cloves
 - allspice
-Description: Happy Thanksgiving!  Here's an idea I wanted to try that I'm dubbing "Ground Thanksgiving". It's a bowl of food that combines many Thanksgiving type dishes.  We have ground turkey, roasted sweet potatoes & brussel sprouts, and sauteed carrots.  And of course it has my <a href="/recipes/cranberry-sauce">Sugar Free Cranberry Sauce</a> mixed in, and features many fall spices like rosemary, thyme, cinnamon, and cloves
+Description: Happy Thanksgiving!  Here's an idea I wanted to try that I'm dubbing "Ground Thanksgiving". It's a bowl of food that combines many Thanksgiving type dishes.  We have <a href="/misc/meat#ground-turkey">ground turkey</a>, roasted sweet potatoes & brussel sprouts, and sauteed carrots.  And of course it has my <a href="/recipes/cranberry-sauce">Sugar Free Cranberry Sauce</a> mixed in, and features many fall spices like rosemary, thyme, cinnamon, and cloves
 Instructions: 
 - Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 

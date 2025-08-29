@@ -53,7 +53,7 @@ tags:
 - bruschetta
 - brushetta
 - simple pasta sauce
-Description: An Italian style breaded chicken that's both gluten free and not deep fried sounds like a dream come true. They get the most crispy in the air fryer, but the oven will work too.  This dish is elevated even more when made into Chicken Parmesan using my <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>. It goes well with a side of Bruschetta mix on top of a <a href="/recipes/whole-wheat-baguettes">Whole Wheat Baguette</a>
+Description: An Italian style breaded <a href="/misc/meat#chicken-breast">chicken</a> that's both gluten free and not deep fried sounds like a dream come true. They get the most crispy in the air fryer, but the oven will work too.  This dish is elevated even more when made into Chicken Parmesan using my <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>. It goes well with a side of Bruschetta mix on top of a <a href="/recipes/whole-wheat-baguettes">Whole Wheat Baguette</a>
 Instructions:
 - Cut the chicken into cutlets. Make each piece even thickness by adding it to a bag and smashing it down to make it wide and thin. Sprinkle each side with salt. Refrigerate for at least 1 hour
 

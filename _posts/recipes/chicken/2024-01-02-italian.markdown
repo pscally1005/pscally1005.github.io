@@ -50,7 +50,7 @@ tags:
 - parmesan
 - cheese
 - lemon
-Description: This simple and healthy meal is a go to favorite of mine. Just roast cubed acorn squash and thinly sliced chicken breasts with Italian herbs and spices for a delicious and quick meal. Both the meat and the vegetables can be prepped ahead of time, ready to stick in the oven when you get home from work. I've paired this here with a side of roasted potatoes, but rice, beans, or sweet potatoes are also good picks!
+Description: This simple and healthy meal is a go to favorite of mine. Just roast cubed acorn squash and thinly sliced <a href="/misc/meat#chicken-breast">chicken</a> breasts with Italian herbs and spices for a delicious and quick meal. Both the meat and the vegetables can be prepped ahead of time, ready to stick in the oven when you get home from work. I've paired this here with a side of roasted potatoes, but rice, beans, or sweet potatoes are also good picks!
 Instructions: 
 - Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 

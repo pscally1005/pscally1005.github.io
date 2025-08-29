@@ -49,7 +49,7 @@ tags:
 - lemon sauce
 - butter
 - extra virgin olive oil
-Description: Ah Chicken Piccata, the better lemon chicken cousin of Chicken Francese. For those unaware, Francese has an egg and flour coating on the chicken. In comparison, Piccata has only flour (no egg), and also adds capers into the sauce.  This high <a href="/misc/protein">protein</a> dish has a creamy lemon sauce without tons of butter or oil, and pair great with any <a href="/misc/fiber">vegetables</a> or <a href="/misc/carbs">complex carb</a> <a href="/recipes/sides">side</a>
+Description: Ah Chicken Piccata, the better lemon <a href="/misc/meat#chicken-breast">chicken</a> cousin of Chicken Francese. For those unaware, Francese has an egg and flour coating on the chicken. In comparison, Piccata has only flour (no egg), and also adds capers into the sauce.  This high <a href="/misc/protein">protein</a> dish has a creamy lemon sauce without tons of butter or oil, and pair great with any <a href="/misc/fiber">vegetables</a> or <a href="/misc/carbs">complex carb</a> <a href="/recipes/sides">side</a>
 Instructions: 
 - Cut your meat into 6 large pieces. Cover with plastic wrap, and pound with a meat mallet until you have a thin piece of chicken. Repeat with all pieces
 
