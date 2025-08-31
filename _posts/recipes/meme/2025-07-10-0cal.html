@@ -92,9 +92,27 @@ Instructions:
     }
 </style>
 
-{% assign files = "0cal,0calcocoa" | split: "," %}
-{% assign nutrients = "Calories,Protein,Fat,Net Carbs,Fiber" | split: "," %}
-{% assign rnds = "0,1,1,1,1" | split: "," %}
+{% assign files = 
+    "0cal," 
+    | append: "0calcocoa" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Fiber" 
+    | split: "," 
+%}
+{% assign rnds = 
+    "0," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1" 
+    | split: "," 
+%}
 {% assign last_index = nutrients.size | minus: 1 %}
 
 <div class="table-container"><table>

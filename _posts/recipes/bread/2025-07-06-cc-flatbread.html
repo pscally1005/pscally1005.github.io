@@ -96,9 +96,35 @@ Instructions:
     }
 </style>
 
-{% assign files = "ccflatbread,ccflatbreadpsyllium,ccflatbreadwhite,ccflatbreadwhitepsyllium" | split: "," %}
-{% assign nutrients = "Calories,Protein,Fat,Net Carbs,Fiber,Vitamin B12,Vitamin D,Choline" | split: "," %}
-{% assign rnds = "0,1,1,1,1,2,2,0" | split: "," %}
+{% assign files = 
+    "ccflatbread," 
+    | append: "ccflatbreadpsyllium," 
+    | append: "ccflatbreadwhite," 
+    | append: "ccflatbreadwhitepsyllium" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Fiber," 
+    | append: "Vitamin B12," 
+    | append: "Vitamin D," 
+    | append: "Choline" 
+    | split: "," 
+%}
+{% assign rnds = 
+    "0," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "2," 
+    | append: "2," 
+    | append: "0" 
+    | split: "," 
+%}
 {% assign last_index = nutrients.size | minus: 1 %}
 
 <div class="table-container"><table>

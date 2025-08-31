@@ -112,9 +112,27 @@ To make it a chocolate banana bread instead, do the following:
     }
 </style>
 
-{% assign files = "nonutproteinbananabread,nonutproteinbananabreadchoc" | split: "," %}
-{% assign nutrients = "Calories,Protein,Fat,Net Carbs,Fiber" | split: "," %}
-{% assign rnds = "0,1,1,1,1" | split: "," %}
+{% assign files = 
+    "nonutproteinbananabread," 
+    | append: "nonutproteinbananabreadchoc" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Fiber" 
+    | split: "," 
+%}
+{% assign rnds = 
+    "0," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1" 
+    | split: "," 
+%}
 {% assign last_index = nutrients.size | minus: 1 %}
 
 <div class="table-container"><table>

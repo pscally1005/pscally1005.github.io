@@ -226,9 +226,45 @@ The following are all good variations I've tried of these protein bars:<br><br>
     }
 </style>
 
-{% assign files = "barbell-unsw,barbell-sug-free-choc,barbell-oat,barbell-almond,barbell-candy,barbell-flavored,barbell-flavored-double,barbell-liq-monk-fruit,barbell-honey,barbell-honey-double,barbell-sf-syrup,barbell-reeses,barbell-double-pb,barbell-white-pb,barbell-casein,barbell-low-sug" | split: "," %}
-{% assign nutrients = "Calories,Protein,Fat,Net Carbs,Fiber,Added Sugar,Sugar Alcohol" | split: "," %}
-{% assign rnds = "0,1,1,1,1,1,1" | split: "," %}
+{% assign files = 
+    "barbell-unsw," 
+    | append: "barbell-sug-free-choc," 
+    | append: "barbell-oat," 
+    | append: "barbell-almond," 
+    | append: "barbell-candy," 
+    | append: "barbell-flavored," 
+    | append: "barbell-flavored-double," 
+    | append: "barbell-liq-monk-fruit," 
+    | append: "barbell-honey," 
+    | append: "barbell-honey-double," 
+    | append: "barbell-sf-syrup," 
+    | append: "barbell-reeses," 
+    | append: "barbell-double-pb," 
+    | append: "barbell-white-pb," 
+    | append: "barbell-casein," 
+    | append: "barbell-low-sug" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Fiber," 
+    | append: "Added Sugar," 
+    | append: "Sugar Alcohol" 
+    | split: "," 
+%}
+{% assign rnds = 
+    "0," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1" 
+    | split: "," 
+%}
 {% assign last_index = nutrients.size | minus: 1 %}
 
 <div class="table-container"><table>

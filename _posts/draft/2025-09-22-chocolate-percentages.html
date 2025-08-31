@@ -121,7 +121,17 @@ tags:
     }
 </style>
 
-{% assign percents = "50,60,70,72,85,90,95,100" | split: "," %}
+{% assign percents = 
+    "50," 
+    | append: "60," 
+    | append: "70," 
+    | append: "72," 
+    | append: "85," 
+    | append: "90," 
+    | append: "95," 
+    | append: "100" 
+    | split: "," 
+%}
 
 <div id="ingredients" class="table-of-contents-2"></div>
 <u><b><font size="+2">Ingredients</font></b></u><br><br>
@@ -135,8 +145,18 @@ tags:
         </tr>
     </thead>
     <tbody>
-        {% assign ingredients = "0,1,2" | split: "," %}
-        {% assign ingredient_names = "Coconut Oil,Cocoa Powder,Granulated Sugar" | split: "," %}
+        {% assign ingredients = 
+            "0," 
+            | append: "1," 
+            | append: "2" 
+            | split: "," 
+        %}
+        {% assign ingredient_names = 
+            "Coconut Oil," 
+            | append: "Cocoa Powder," 
+            | append: "Granulated Sugar" 
+            | split: "," 
+        %}
 
         {% for i in (0..2) %}
             <tr>
@@ -155,8 +175,24 @@ tags:
 
 <div id="nutrition" class="table-of-contents-2"></div>
 <u><b><font size="+2">Nutrition Facts</font></b></u><br><br>
-{% assign nutrients = "Calories,Protein,Fat,Carbs,Fiber,Added Sugar" | split: "," %}
-{% assign rnds = "0,1,1,1,1,1" | split: "," %}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Carbs," 
+    | append: "Fiber," 
+    | append: "Added Sugar" 
+    | split: ","
+%}
+{% assign rnds = 
+    "0," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1" 
+    | split: ","
+%}
 {% assign last_index = nutrients.size | minus: 1 %}
 <div class="table-container"><table>
     <thead>

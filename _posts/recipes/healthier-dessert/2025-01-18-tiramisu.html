@@ -111,9 +111,31 @@ Instructions:
     }
 </style>
 
-{% assign files = "tiramisu,tiramisusfs" | split: "," %}
-{% assign nutrients = "Calories,Protein,Fat,Net Carbs,Fiber,Added Sugar,Sugar Alcohol" | split: "," %}
-{% assign rnds = "0,1,1,1,1,1,1" | split: "," %}
+{% assign files = 
+    "tiramisu," 
+    | append: "tiramisusfs" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Fiber," 
+    | append: "Added Sugar," 
+    | append: "Sugar Alcohol" 
+    | split: "," 
+%}
+{% assign rnds = 
+    "0," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1" 
+    | split: "," 
+%}
 {% assign last_index = nutrients.size | minus: 1 %}
 
 <div class="table-container"><table>
