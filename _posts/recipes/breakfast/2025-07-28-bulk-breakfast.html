@@ -74,16 +74,39 @@ To make this a non-bulking breakfast, keep the yogurt the same, and halve the re
 
 <style>
     table {
+        border-collapse: collapse;
+        width: 100%;
+        max-width: 100%;
+        table-layout: auto;
         text-align: center;
     }
 
+    th, td {
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+
     td:first-child, th:first-child {
+        position: sticky;
+        left: 0;
         background-color: var(--minima-table-header-bg-color);
+        z-index: 5;
         font-weight: bold;
+    }
+
+    .table-container {
+        overflow-x: auto; /* Adds horizontal scrolling if needed */
+        max-width: 100%;
     }
 </style>
 
-<table>
+{% assign files = "bulkbreakfast,nonbulkbreakfast" | split: "," %}
+{% assign nutrients = "Calories,Protein,Fat,Net Carbs,Fiber" | split: "," %}
+{% assign rnds = "0,1,1,1,1" | split: "," %}
+{% assign last_index = nutrients.size | minus: 1 %}
+
+<div class="table-container"><table>
     <thead>
         <tr>
             <th>Nutrient</th>
@@ -92,40 +115,25 @@ To make this a non-bulking breakfast, keep the yogurt the same, and halve the re
         </tr>
     </thead>
     <tbody>
-        <tr>
-            {% assign nutrient = "Calories" %}
-            {% assign rnd = "0" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="bulkbreakfast-ing" facts="bulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="nonbulkbreakfast-ing" facts="nonbulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Fat" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="bulkbreakfast-ing" facts="bulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="nonbulkbreakfast-ing" facts="nonbulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Protein" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="bulkbreakfast-ing" facts="bulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="nonbulkbreakfast-ing" facts="nonbulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Net Carbs" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="bulkbreakfast-ing" facts="bulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="nonbulkbreakfast-ing" facts="nonbulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Fiber" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="bulkbreakfast-ing" facts="bulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="nonbulkbreakfast-ing" facts="nonbulkbreakfast-facts" servingSize="100" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
+        {% for i in (0..last_index) %}
+            <tr>
+                <td>{{ nutrients[i] }}</td>
+                {% assign nutrient = nutrients[i] %}
+                {% assign rnd = rnds[i] %}
+                {% for f in files %}
+                    {% assign ing_file = f | append: "-ing" %}
+                    {% assign facts_file = f | append: "-facts" %}
+                    <td>
+                        {% include getNutrient.html 
+                            ing=ing_file 
+                            facts=facts_file 
+                            servingSize="100" 
+                            nutrient=nutrient 
+                            fetch="perServing" 
+                            rnd=rnd %}
+                    </td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
     </tbody>
-</table>
+</table></div>

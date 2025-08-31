@@ -56,34 +56,38 @@ Instructions:
 <style>
     table {
         border-collapse: collapse;
-        table-layout: auto; /* Let columns size themselves */
-        max-width: 80%;     /* Don't exceed the page width */
-        width: 80%;
+        width: 100%;
+        max-width: 100%;
+        table-layout: auto;
         text-align: center;
-        margin: 0 auto;      /* Center table horizontally if it's narrower than container */
-        overflow-x: auto; /* Enables scrolling if needed */
     }
 
-    tbody td:first-child {
+    th, td {
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+
+    td:first-child, th:first-child {
+        position: sticky;
+        left: 0;
         background-color: var(--minima-table-header-bg-color);
+        z-index: 5;
         font-weight: bold;
     }
 
-    @media (max-width: 768px) {
-        table {
-            max-width: 100%;
-            width: fit-content; /* Shrinks container to fit the table */
-            font-size: 16px;
-        }
-
-        tbody td:first-child {
-            width: 30px;
-            max-width: 30px;
-        }
+    .table-container {
+        overflow-x: auto; /* Adds horizontal scrolling if needed */
+        max-width: 100%;
     }
 </style>
 
-<table>
+{% assign files = "yogurt,diyyogurtmonkfruit,diyyogurthoney" | split: "," %}
+{% assign nutrients = "Calories,Protein,Fat,Net Carbs,Vitamin B12,Calcium" | split: "," %}
+{% assign rnds = "0,1,1,1,2,0" | split: "," %}
+{% assign last_index = nutrients.size | minus: 1 %}
+
+<div class="table-container"><table>
     <thead>
         <tr>
             <th>Nutrient</th>
@@ -93,53 +97,26 @@ Instructions:
         </tr>
     </thead>
     <tbody>
-        <tr>
-            {% assign nutrient = "Calories" %}
-            {% assign rnd = "0" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="yogurt-ing" facts="yogurt-facts" servingSize="170" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurtmonkfruit-ing" facts="diyyogurtmonkfruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurthoney-ing" facts="diyyogurthoney-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Protein" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="yogurt-ing" facts="yogurt-facts" servingSize="170" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurtmonkfruit-ing" facts="diyyogurtmonkfruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurthoney-ing" facts="diyyogurthoney-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Fat" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="yogurt-ing" facts="yogurt-facts" servingSize="170" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurtmonkfruit-ing" facts="diyyogurtmonkfruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurthoney-ing" facts="diyyogurthoney-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Net Carbs" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="yogurt-ing" facts="yogurt-facts" servingSize="170" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurtmonkfruit-ing" facts="diyyogurtmonkfruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurthoney-ing" facts="diyyogurthoney-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Vitamin B12" %}
-            {% assign rnd = "2" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="yogurt-ing" facts="yogurt-facts" servingSize="170" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurtmonkfruit-ing" facts="diyyogurtmonkfruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurthoney-ing" facts="diyyogurthoney-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Calcium" %}
-            {% assign rnd = "0" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html ing="yogurt-ing" facts="yogurt-facts" servingSize="170" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurtmonkfruit-ing" facts="diyyogurtmonkfruit-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="diyyogurthoney-ing" facts="diyyogurthoney-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
+        {% for i in (0..last_index) %}
+            <tr>
+                <td>{{ nutrients[i] }}</td>
+                {% assign nutrient = nutrients[i] %}
+                {% assign rnd = rnds[i] %}
+                {% for f in files %}
+                    {% assign ing_file = f | append: "-ing" %}
+                    {% assign facts_file = f | append: "-facts" %}
+                    <td>
+                        {% include getNutrient.html 
+                            ing=ing_file 
+                            facts=facts_file 
+                            servingSize="100" 
+                            nutrient=nutrient 
+                            fetch="perServing" 
+                            rnd=rnd %}
+                    </td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
     </tbody>
-</table><br>
+</table></div>
+<i>Scroll to the right to read information about every variation</i><br><br>
