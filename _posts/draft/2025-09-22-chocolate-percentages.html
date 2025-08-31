@@ -1,0 +1,239 @@
+---
+layout: post
+title:  "Make Your Own Dark Chocolate"
+date:   2025-08-30 00:00:00 -05000
+categories: 
+- Misc.
+- Cooking Tips
+- Draft
+showPercentage: no
+permalink: /misc/chocolate-percentages
+image: /assets/Misc/Cooking/Chocolate/Chocolate.png
+tags: 
+- chocolate bar
+- milk chocolate chips
+- semi sweet chocolate
+- semi-sweet chocolate
+- dark chocolate
+- bittersweet chocolate
+- bitter sweet chocolate
+- unsweetened chocolate
+- baking chocolate
+- bakers chocolate
+- cocoa powder
+- granulated sugar
+- granulated monk fruit
+- coconut oil
+- extra virgin coconut oil
+- cocoa butter
+- 50%
+- 50 %
+- 60%
+- 60 %
+- 70%
+- 70 %
+- 72%
+- 72 %
+- 85%
+- 85 %
+- 90%
+- 90 %
+- 95%
+- 95 %
+- 100%
+- 100 %
+- sugar free chocolate bar
+- chocolate free Chocolate
+- monk fruit chocolate chunks
+- protein chocolate bar
+---
+<u><b><font size="+2">Table of Contents</font></b></u><br>
+<ul>
+    <li><a rel="" target="" href="#intro">Introduction</a></li>
+    <li><a rel="" target="" href="#how-to">How to Make Chocolate</a></li>
+    <li><a rel="" target="" href="#recipes">Homemade Chocolate Recipes</a></li>
+    <li><a rel="" target="" href="#ingredients">Ingredients</a></li>
+    <li><a rel="" target="" href="#nutrition">Nutrition Facts</a></li>
+    <li><a rel="" target="" href="#costs">Costs</a></li>
+    <li><a rel="" target="" href="#sources">Sources</a></li>
+</ul><br>
+
+<center><img src="/assets/Misc/Cooking/Chocolate/chocolate-bar (1).png" alt="" class="smaller-image"></center><br>
+
+<div id="intro" class="table-of-contents-2"></div>
+<u><b><font size="+2">Introduction</font></b></u><br>
+&emsp;Whether it's for an ingredient for a dessert or just as a snack, we all need chocolate here and there.  Instead of buying chocolate bars and chips, I'll typically create them myself, as I can dial in the exact sweetness I'm looking for.  Not only that, but it requires only 3 minimal ingredients, and is substantially cheaper.<br><br>
+
+&emsp;For example, a bar of unsweetened (100%) chocolate could cost <a href="https://www.walmart.com/ip/Baker-s-Unsweetened-Chocolate-Premium-Baking-Bar-with-100-Cacao-4-oz-Box/24183293?classType=VARIANT&from=/search">$4.12</a> for just a <b>4 oz (113 g)</b> bar.  Instead, making it yourself at home costs only <a href="/recipes/chocolate-bar">$0.93</a>, less than a quarter of the price.<br><br>
+
+&emsp;Below will be 3 tables.  The first will be for the ingredients; how much cocoa powder, coconut oil, and sugar you will need to create <b>100 g</b> of chocolate.  The second table is the nutrition facts for each bar of chocolate per <b>100 g (3.5 oz)</b>.  Each of these ratios will yield a <b>100 g</b> bar of chocolate, and you can scale up or down based on how much of you need.  And of course, you can make any of these sugar free by replacing the granulated sugar with granulated monk fruit.  The final table will display the costs of buying versus making your own chocolate.<br><br>
+
+<center><img src="/assets/Misc/Cooking/Chocolate/cacao.png" alt="" class="smaller-image"></center><br>
+
+<div id="how-to" class="table-of-contents-2"></div>
+<u><b><font size="+2">How To Make Chocolate</font></b></u><br>
+<ol>
+    <li>In a small microwave save bowl, microwave your coconut oil for about a minute, until fully melted</li>
+    <li>Stir in cocoa powder and sugar with a silicone spatula until fully combined</li>
+    <li>Transfer your melted chocolate to a <a href="https://amzn.to/4mBCtnu">chocolate mold</a>.  A parchment lined bread pan will also work if you don't have a <a href="https://amzn.to/4mBCtnu">chocolate mold</a></li>
+    <li>Refrigerate for at least 30 minutes to harden.  Store in the fridge in an airtight bag</li>
+</ol><br>
+
+<center><img src="/assets/Misc/Cooking/Chocolate/chocolate-bar.png" alt="" class="smaller-image"></center><br>
+
+<div id="recipes" class="table-of-contents-2"></div>
+<u><b><font size="+2">Homemade Chocolate Recipes</font></b></u><br>
+<ul>
+    <li><a href="/recipes/chocolate-bar">Sugar Free Chocolate Bar</a></li>
+    <li><a href="/recipes/chocolate-free-chocolate">Chocolate Free Chocolate</a></li>
+    <li><a href="/recipes/protein-chocolate-bar">Protein Chocolate Bar</a></li>
+    <li><a href="/recipes/monkfruit-chocolate-chunks">Monk Fruit Chocolate Chunks</a></li>
+</ul><br>
+
+<center><a href="/recipes/chocolate-bar"><img src="/assets/Food/Healthier Dessert/Choc Bar/cover.jpg" alt="" class="instruction-image"></a></center><br>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        max-width: 100%;
+        table-layout: auto;
+        text-align: center;
+    }
+
+    th, td {
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+
+    td:first-child, th:first-child {
+        position: sticky;
+        left: 0;
+        background-color: var(--minima-table-header-bg-color);
+        z-index: 5;
+        font-weight: bold;
+    }
+
+    .table-container {
+        overflow-x: auto; /* Adds horizontal scrolling if needed */
+        max-width: 100%;
+    }
+</style>
+
+{% assign percents = "50,60,70,72,85,90,95,100" | split: "," %}
+
+<div id="ingredients" class="table-of-contents-2"></div>
+<u><b><font size="+2">Ingredients</font></b></u><br><br>
+<div class="table-container"><table>
+    <thead>
+        <tr>
+            <th>Ingredient</th>
+            {% for p in percents %}
+                <th>{{ p }}%</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% assign ingredients = "0,1,2" | split: "," %}
+        {% assign ingredient_names = "Coconut Oil,Cocoa Powder,Granulated Sugar" | split: "," %}
+
+        {% for i in (0..2) %}
+            <tr>
+                <td>{{ ingredient_names[i] }}</td>
+                {% for p in percents %}
+                    {% assign file = p | append: "-ing" %}
+                    <td>{{ site.data.chocolate[file][i]["Amount"] | round: 0 }} g</td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </tbody>
+</table></div>
+<i>Scroll to the right to read information about every variation</i><br><br>
+
+<center><img src="/assets/Misc/Cooking/Chocolate/coconut.png" alt="" class="smaller-image"><img src="/assets/Misc/Cooking/Chocolate/cocoa.png" alt="" class="smaller-image"><img src="/assets/Misc/Cooking/Chocolate/sugar-cube.png" alt="" class="smaller-image"></center><br>
+
+<div id="nutrition" class="table-of-contents-2"></div>
+<u><b><font size="+2">Nutrition Facts</font></b></u><br><br>
+{% assign nutrients = "Calories,Protein,Fat,Carbs,Fiber,Added Sugar" | split: "," %}
+{% assign rnds = "0,1,1,1,1,1" | split: "," %}
+{% assign last_index = nutrients.size | minus: 1 %}
+<div class="table-container"><table>
+    <thead>
+        <tr>
+            <th>Nutrient</th>
+            {% for p in percents %}
+                <th>{{ p }}%</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for i in (0..last_index) %}
+            <tr>
+                <td>{{ nutrients[i] }}</td>
+                {% assign nutrient = nutrients[i] %}
+                {% assign rnd = rnds[i] %}
+                {% for p in percents %}
+                    {% assign ing_file = p | append: "-ing" %}
+                    {% assign facts_file = p | append: "-facts" %}
+                    <td>
+                        {% include getNutrient.html 
+                            ing=ing_file 
+                            facts=facts_file 
+                            servingSize="100" 
+                            nutrient=nutrient 
+                            fetch="perServing" 
+                            rnd=rnd %}
+                    </td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </tbody>
+</table></div>
+<i>Scroll to the right to read information about every variation</i><br><br>
+
+<center><img src="/assets/Misc/Cooking/Chocolate/nutrition-facts-label.png" alt="" class="smaller-image"></center><br>
+
+<div id="costs" class="table-of-contents-2"></div>
+<u><b><font size="+2">Costs</font></b></u><br><br>
+<div class="table-container"><table>
+    <thead>
+        <tr>
+            <th>Cost</th>
+            {% for p in percents %}
+                <th>{{ p }}%</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Storebought</td>
+            <td><a href="https://www.walmart.com/ip/Great-Value-Dark-Chocolate-Bar-3-52-oz/927645419?fulfillmentIntent=Pickup&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22Pickup%22%5D%7D%5D&classType=REGULAR&athbdg=L1600&from=/search">{% include costPer100g.html price=2.44 weight_oz=3.52 %}</a></td>
+            <td><a href="https://amzn.to/47mzudI">{% include costPer100g.html price=44.76 weight_oz=48 %}</a></td>
+            <td><a href="https://amzn.to/47V7pKt">{% include costPer100g.html price=53.28 weight_oz=42 %}</a></td>
+            <td><a href="https://amzn.to/421SgTR">{% include costPer100g.html price=4.44 weight_oz=3.5 %}</a></td>
+            <td><a href="https://amzn.to/4mO3lAE">{% include costPer100g.html price=53.28 weight_oz=42 %}</a></td>
+            <td><a href="https://amzn.to/4mJjS8S">{% include costPer100g.html price=3.99 weight_oz=3.5 %}</a></td>
+            <td><a href="https://amzn.to/46cubMG">{% include costPer100g.html price=3.99 weight_oz=2.8 %}</a></td>
+            <td><a href="https://amzn.to/4lQoicw">{% include costPer100g.html price=3.65 weight_oz=4 %}</a></td>
+        </tr>
+        <tr>
+            <td>Homemade</td>
+            {% for p in percents %}
+                {% assign file = p | append: "-ing" %}
+                <td>{% include calcCost.html ing=file %}</td>
+            {% endfor %}
+        </tr>
+    </tbody>
+</table></div>
+<i>Scroll to the right to read information about every variation</i><br><br>
+
+<center><img src="/assets/Misc/Cooking/Chocolate/wallet.png" alt="" class="smaller-image"></center><br>
+
+<div id="sources" class="table-of-contents-2"></div>
+<u><b><font size="+2">Sources</font></b></u><br>
+<ol>
+    <li><a href="https://www.flaticon.com/">FlatIcon</a></li>
+    <li><a href="https://www.nutritionvalue.org">Nutrition Value</a></li>
+    <li><a href="https://www.poormanprotein.com/recipes/chocolate-bar">Sugar Free Chocolate Bar</a></li>
+</ol>

@@ -1,0 +1,11 @@
+{% assign grams_per_oz = 28.3495 %}
+
+{% assign weight_g = include.weight_oz | times: grams_per_oz %}
+
+{% assign cost_per_g = include.price | divided_by: weight_g %}
+
+{% assign cost_per_100g = cost_per_g | times: 100 %}
+
+<span class="cost-per-100g">
+  ${{ cost_per_100g | round: 2 }}
+</span>

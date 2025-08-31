@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Sugar Free Coconut Cookies"
-date:   2025-08-08 00:00:00 -05000
+date:   2025-08-31 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

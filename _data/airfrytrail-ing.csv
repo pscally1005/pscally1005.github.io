@@ -1,14 +1,13 @@
 Ingredient,Amount,Unit,Description
-"Chickpeas, drained and rinsed",253,g,"15.5oz can"
+"Chickpeas, drained and rinsed",254,g,"15.5oz can"
 "Hot sauce",5,g,"1 tsp"
 "Garlic powder",1.5,g,"1/2 tsp"
 "Onion powder",1.5,g,"1/2 tsp"
-"Salt",0.38,g,"Pinch"
-"Almonds",122,g,"1 cup"
+"Salt",0.75,g,"1/8 tsp"
+"Almonds",120,g,"1 cup"
 "Soy sauce, low sodium, gluten free",5,g,"1 tsp"
 "Paprika",1.5,g,"1/2 tsp"
-"Banana, overripe",110,g,"1 medium"
-"Extra virgin olive oil",5,g,"1 tsp"
-"Cinnamon",1.5,g,"1/2 tsp"
-"Salt",0.75,g,"1/8 tsp"
-Servings,6
+"Banana, underripe",90,g,"1 medium"
+"Balsamic vinegar",2.5,g,"1/2 tsp"
+"Cinnamon",0.75,g,"1/4 tsp"
+Servings,9

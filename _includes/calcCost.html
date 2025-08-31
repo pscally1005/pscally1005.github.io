@@ -6,6 +6,8 @@
 {% assign loopVar = site.data[include.ing] %}
 {% if page.title == "Copycat Barebell Protein Bars" %}
     {% assign loopVar = site.data.barbell[include.ing] %}
+{% elsif page.title == "Make Your Own Dark Chocolate" %}
+    {% assign loopVar = site.data.chocolate[include.ing] %}
 {% endif %}
 
 <!-- Loop through all the ingredients -->

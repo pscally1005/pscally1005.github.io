@@ -25,6 +25,9 @@
 {% elsif page.title == "Cottage Cheese Flatbread" %}
     {% assign loopVarFacts = site.data.cc-flatbread[facts] %}
     {% assign loopVarIng = site.data.cc-flatbread[ing] %}
+{% elsif page.title == "Make Your Own Dark Chocolate" %}
+    {% assign loopVarFacts = site.data.chocolate[facts] %}
+    {% assign loopVarIng = site.data.chocolate[ing] %}
 {% elsif page.categories.first == "Recipes" %}
     {% assign loopVarFacts = site.data[facts] %}
     {% assign loopVarIng = site.data[ing] %}
