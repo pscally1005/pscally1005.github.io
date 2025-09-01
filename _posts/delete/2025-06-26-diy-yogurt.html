@@ -82,29 +82,29 @@ Instructions:
     }
 </style>
 
-{% assign files = "
-    plainnonfatgreekyogurt,
-    diyyogurtmonkfruit,
-    diyyogurthoney
-    " | split: ","
+{% assign files = 
+    "plainnonfatgreekyogurt," 
+    | append: "diyyogurtmonkfruit," 
+    | append: "diyyogurthoney" 
+    | split: "," 
 %}
-{% assign nutrients = "
-    Calories,
-    Protein,
-    Fat,
-    Net Carbs,
-    Vitamin B12,
-    Calcium
-    " | split: ","
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Vitamin B12," 
+    | append: "Calcium" 
+    | split: "," 
 %}
-{% assign rnds = "
-    0,
-    1,
-    1,
-    1,
-    2,
-    0
-    " | split: ","
+{% assign rnds = 
+    "0," 
+    | append: "1," 
+    | append: "1," 
+    | append: "1," 
+    | append: "2," 
+    | append: "0" 
+    | split: "," 
 %}
 {% assign last_index = nutrients.size | minus: 1 %}
 

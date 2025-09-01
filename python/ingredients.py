@@ -208,7 +208,7 @@ def ingredients(food):
         return str("Chia seeds")
     elif food == "Seeds, flaxseed" or food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc." or food == "Premium whole ground flax seed meal by Bob's Red Mill Natural Foods, Inc.":
         return str("Ground flaxseed")
-    elif food == "Sugar substitute, liquid, stevia" or food == "Stevia zero calorie liquid sweetener by PURE VIA" or food == "Liquid stevia or monk fruit":
+    elif food == "Sugar substitute, stevia, liquid" or food == "Sugar substitute, liquid, stevia" or food == "Stevia zero calorie liquid sweetener by PURE VIA" or food == "Liquid stevia or monk fruit":
         return str("Liquid monk fruit")
     elif food == "Peanut butter powder by PBFIT" or food == "Powdered peanut butter by PB2":
         return str("Powdered peanut butter")

@@ -1,0 +1,105 @@
+{% assign nutrient = include.nutrient %}
+{% assign rnd = include.rnd %}
+{% assign categories = include.categories %}
+{% assign fetch_types = "perServing,per100g,per100cal" | split: "," %}
+    
+<u><font size="+2">Foods High in {{ nutrient }}</font></u><br><br>
+
+<div class="mobile-table" style="font-size: 20px"><center>
+
+    {% for category in categories %}
+
+        {% assign items = site.data.nutrition | where: "Category", category %}
+
+        {% if category == "meat" %}
+            {% assign title = "Meat (raw)" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/meat.png" %}
+        {% elsif category == "fish" %}
+            {% assign title = "Fish and Seafood (Raw unless specified)" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/fish.png" %}
+        {% elsif category == "beans" %}
+            {% assign title = "Beans (dried)" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/beans.png" %}
+        {% elsif category == "veggies" %}
+            {% assign title = "Vegetables (Raw)" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/vegetables.png" %}
+        {% elsif category == "fruit" %}
+            {% assign title = "Fruit" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/fruit.png" %}
+        {% elsif category == "nuts-seeds" %}
+            {% assign title = "Nuts and Seeds" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/nuts.png" %}
+        {% elsif category == "grains" %}
+            {% assign title = "Grains (Raw)" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/wheat.png" %}
+        {% elsif category == "dairy" %}
+            {% assign title = "Dairy" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/yogurt.png" %}
+        {% elsif category == "other" %}
+            {% assign title = "Other" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/cacao.png" %}
+        {% endif %}
+
+        <div id="{{ category }}" class="table-of-contents-2"></div>
+        <i><font size="+2">{{ title }}</font></i><br>
+
+        <table>
+            <colgroup>
+                <col width="30%" />
+                <col width="25%" />
+                <col width="15%" />
+                <col width="15%" />
+                <col width="15%" />
+            </colgroup>
+
+            <thead>
+                <tr class="header">
+                <th>Food</th>
+                <th>Serving Size</th>
+                <th>{{ nutrient }}<br>Per Serving</th>
+                <th>{{ nutrient }}<br>Per 100 g</th>
+                <th>{{ nutrient }}<br>Per 100 cal</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for item in items %}
+                    {% assign fact_file = item.File | append: "-facts" %}
+                    {% if item[nutrient] == "TRUE" %}
+                        <tr>
+                            <td markdown="span"><a href="{{ item.URL }}">{{ item["Name"] }}</a></td>
+                            <td markdown="span">{{ item.Vol }} ({{ item.Mass }} g)</td>
+                            {% for fetch in fetch_types %}
+                                <td markdown="span">
+                                    {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient=nutrient fetch=fetch rnd=rnd %}
+                                </td>
+                            {% endfor %}
+                        </tr>
+                    {% endif %}
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <center><img src="{{ pic }}" alt="" class="smaller-image"></center><br><hr>
+
+    {% endfor %}
+
+    <style>
+        /* Center text in all table cells */
+        table {
+            width: 100%; /* Optional: makes table take full width */
+        }
+
+        table th, table td {
+            text-align: center; /* Center text in table headers and cells */
+            vertical-align: middle; /* Vertically center the text */
+        }
+
+    @media only screen and (max-width: 768px) {
+        .mobile-table {
+        font-size: 13px !important; /* Shrink font size on mobile */
+        }
+    }
+    </style>
+
+</center></div>

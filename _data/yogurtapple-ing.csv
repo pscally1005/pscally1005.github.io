@@ -1,12 +1,13 @@
 Ingredient,Amount,Unit,Description
+"Apple, gala",157,g,"1 medium"
+"Water",30,g,"2 tbsp"
+"Cinnamon",1.5,g,"1/2 tsp"
+"Ginger, ground",0.5,g,"1/4 tsp"
+"Nutmeg, ground",0.75,g,"1/4 tsp"
+"Cloves, ground",0.25,g,"1/8 tsp"
 "Plain nonfat greek yogurt",170,g,"3/4 cup"
 "Unsweetened applesauce",60,g,"1/4 cup"
 "Natural peanut butter",32,g,"2 tbsp"
 "Whey protein powder, unflavored",30,g,"1 scoop"
-"Cinnamon",1.5,g,"1/2 tsp"
 "Liquid monk fruit",1.25,g,"1/4 tsp"
-"Ginger, ground",0.5,g,"1/4 tsp"
-"Nutmeg, ground",0.75,g,"1/4 tsp"
-"Cloves, ground",0.25,g,"1/8 tsp"
-"Apple, gala",150,g,"1 medium"
 Servings,1
