@@ -55,5 +55,5 @@ Instructions:
     <ul><li><a href="/recipes/yogurt-choc">Chocolate Almond Yogurt Bowl</a></li>
     <li><a href="/recipes/yogurt-apple">Apple Pie Yogurt Bowl</a></li>
     <li><a href="/recipes/yogurt-pbj">Peanut Butter & Jelly Yogurt Bowl</a></li></ul><br>
-- <center><a href="/recipes/yogurt-choc"><img src="/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg" alt="" class="half-page"></a><a href="/recipes/yogurt-apple-new"><img src="/assets/Food/Breakfast/Yogurt/yogurt-apple.jpg" alt="" class="half-page"></a><br><br><a href="/recipes/yogurt-pbj"><img src="/assets/Food/Breakfast/Yogurt/yogurt-pbj-new.jpg" alt="" class="half-page"></a></center><hr>
+- <center><a href="/recipes/yogurt-choc"><img src="/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg" alt="" class="half-page"></a><a href="/recipes/yogurt-apple"><img src="/assets/Food/Breakfast/Yogurt/yogurt-apple-new.jpg" alt="" class="half-page"></a><br><br><a href="/recipes/yogurt-pbj"><img src="/assets/Food/Breakfast/Yogurt/yogurt-pbj-new.jpg" alt="" class="half-page"></a></center><hr>
 ---

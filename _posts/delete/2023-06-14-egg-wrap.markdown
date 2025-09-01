@@ -46,7 +46,7 @@ tags:
 - chili
 - egg
 - freezer
-Description: I love having <a href="/misc/meat#egg">eggs</a> for breakfast, but I don't like spending 15 minutes making breakfast for just 1 morning, just to do it again the next day. This recipe serves as a way to prep a whole week's worth of breakfast to store in the freezer for easy reheating in the morning. Wrap these in protein tortillas as I did here for even more of a nutrient boost.  Other meal prep <a href="/misc/meat#egg">egg</a> recipes include my <a href="frittata">Spinach and Onion Frittata</a> and my <a href="scrambled-eggs">Long Weekend Scrambled Eggs</a>
+Description: I love having <a href="/misc/meat#eggs">eggs</a> for breakfast, but I don't like spending 15 minutes making breakfast for just 1 morning, just to do it again the next day. This recipe serves as a way to prep a whole week's worth of breakfast to store in the freezer for easy reheating in the morning. Wrap these in protein tortillas as I did here for even more of a nutrient boost.  Other meal prep <a href="/misc/meat#eggs">egg</a> recipes include my <a href="frittata">Spinach and Onion Frittata</a> and my <a href="scrambled-eggs">Long Weekend Scrambled Eggs</a>
 Instructions: 
 - Dice the onion small, and add the onion and defrosted spinach to a 12” pan over medium heat (3-4 on my stove) with a spray of oil
 
