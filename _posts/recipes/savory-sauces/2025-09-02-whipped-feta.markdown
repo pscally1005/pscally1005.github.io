@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Whipped Feta Spread"
-date:   2025-08-18 00:00:00 -05000
+date:   2025-09-02 00:00:00 -05000
 categories: 
 - Recipes
 - Savory Sauces
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
