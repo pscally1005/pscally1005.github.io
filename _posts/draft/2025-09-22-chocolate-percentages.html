@@ -121,7 +121,7 @@ tags:
     }
 </style>
 
-{% assign percents = 
+{% assign files = 
     "50," 
     | append: "60," 
     | append: "70," 
@@ -139,8 +139,8 @@ tags:
     <thead>
         <tr>
             <th>Ingredient</th>
-            {% for p in percents %}
-                <th>{{ p }}%</th>
+            {% for f in files %}
+                <th>{{ f }}%</th>
             {% endfor %}
         </tr>
     </thead>
@@ -161,8 +161,8 @@ tags:
         {% for i in (0..2) %}
             <tr>
                 <td>{{ ingredient_names[i] }}</td>
-                {% for p in percents %}
-                    {% assign file = p | append: "-ing" %}
+                {% for f in files %}
+                    {% assign file = f | append: "-ing" %}
                     <td>{{ site.data.chocolate[file][i]["Amount"] | round: 0 }} g</td>
                 {% endfor %}
             </tr>
@@ -175,6 +175,17 @@ tags:
 
 <div id="nutrition" class="table-of-contents-2"></div>
 <u><b><font size="+2">Nutrition Facts</font></b></u><br><br>
+{% assign titles = 
+    "50%," 
+    | append: "60%," 
+    | append: "70%," 
+    | append: "72%," 
+    | append: "85%," 
+    | append: "90%," 
+    | append: "95%," 
+    | append: "100%" 
+    | split: "," 
+%}
 {% assign nutrients = 
     "Calories," 
     | append: "Protein," 
@@ -184,50 +195,7 @@ tags:
     | append: "Added Sugar" 
     | split: ","
 %}
-{% assign rnds = 
-    "0," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1" 
-    | split: ","
-%}
-{% assign last_index = nutrients.size | minus: 1 %}
-<div class="table-container"><table>
-    <thead>
-        <tr>
-            <th>Nutrient</th>
-            {% for p in percents %}
-                <th>{{ p }}%</th>
-            {% endfor %}
-        </tr>
-    </thead>
-    <tbody>
-        {% for i in (0..last_index) %}
-            <tr>
-                <td>{{ nutrients[i] }}</td>
-                {% assign nutrient = nutrients[i] %}
-                {% assign rnd = rnds[i] %}
-                {% for p in percents %}
-                    {% assign ing_file = p | append: "-ing" %}
-                    {% assign facts_file = p | append: "-facts" %}
-                    <td>
-                        {% include getNutrient.html 
-                            ing=ing_file 
-                            facts=facts_file 
-                            servingSize="100" 
-                            nutrient=nutrient 
-                            fetch="perServing" 
-                            rnd=rnd %}
-                    </td>
-                {% endfor %}
-            </tr>
-        {% endfor %}
-    </tbody>
-</table></div>
-<i>Scroll to the right to read information about every variation</i><br><br>
-
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
 <center><img src="/assets/Misc/Cooking/Chocolate/nutrition-facts-label.png" alt="" class="smaller-image"></center><br>
 
 <div id="costs" class="table-of-contents-2"></div>
@@ -236,8 +204,8 @@ tags:
     <thead>
         <tr>
             <th>Cost</th>
-            {% for p in percents %}
-                <th>{{ p }}%</th>
+            {% for f in files %}
+                <th>{{ f }}%</th>
             {% endfor %}
         </tr>
     </thead>
@@ -255,8 +223,8 @@ tags:
         </tr>
         <tr>
             <td>Homemade</td>
-            {% for p in percents %}
-                {% assign file = p | append: "-ing" %}
+            {% for f in files %}
+                {% assign file = f | append: "-ing" %}
                 <td>{% include calcCost.html ing=file %}</td>
             {% endfor %}
         </tr>

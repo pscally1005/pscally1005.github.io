@@ -196,36 +196,6 @@ The following are all good variations I've tried of these protein bars:<br><br>
       </ul><br>
 </ol>
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-        max-width: 100%;
-        table-layout: auto;
-        text-align: center;
-        font-size: 14px;
-    }
-
-    th, td {
-        text-align: center;
-        white-space: nowrap;
-        word-wrap: break-word;
-    }
-
-    td:first-child, th:first-child {
-        position: sticky;
-        left: 0;
-        background-color: var(--minima-table-header-bg-color);
-        z-index: 5;
-        font-weight: bold;
-    }
-
-    .table-container {
-        overflow-x: auto; /* Adds horizontal scrolling if needed */
-        max-width: 100%;
-    }
-</style>
-
 {% assign files = 
     "barbell-unsw," 
     | append: "barbell-sug-free-choc," 
@@ -245,6 +215,25 @@ The following are all good variations I've tried of these protein bars:<br><br>
     | append: "barbell-low-sug" 
     | split: "," 
 %}
+{% assign titles = 
+    "Original<br>Recipe," 
+    | append: "Sugar<br>Free<br>Chocolate<br>Chips," 
+    | append: "Oat<br>Flour," 
+    | append: "Almond<br>Flour," 
+    | append: "Candy<br>Bar," 
+    | append: "Flavored<br>Whey," 
+    | append: "Double<br>Flavored<br>Whey," 
+    | append: "<a href='https://amzn.to/44ZDhwi'>Liquid<br>Monk<br>Fruit</a>," 
+    | append: "Honey," 
+    | append: "Double<br>Honey," 
+    | append: "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>," 
+    | append: "Reese's," 
+    | append: "Double<br>Peanut<br>Butter," 
+    | append: "White<br>Chocolate<br>Peanut<br>Butter," 
+    | append: "Casein<br>Protein<br>Powder," 
+    | append: "Lower<br>Sugar" 
+    | split: "," 
+%}
 {% assign nutrients = 
     "Calories," 
     | append: "Protein," 
@@ -255,75 +244,4 @@ The following are all good variations I've tried of these protein bars:<br><br>
     | append: "Sugar Alcohol" 
     | split: "," 
 %}
-{% assign rnds = 
-    "0," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1" 
-    | split: "," 
-%}
-{% assign last_index = nutrients.size | minus: 1 %}
-
-<div class="table-container"><table>
-    <thead>
-        <tr>
-          <th>Nutrient</th>
-          <th>Original<br>Recipe</th>
-          <th>Sugar<br>Free<br>Chocolate<br>Chips</th>
-          <th>Oat<br>Flour</th>
-          <th>Almond<br>Flour</th>
-          <th>Candy<br>Bar</th>
-          <th>Flavored<br>Whey</th>
-          <th>Double<br>Flavored<br>Whey</th>
-          <th><a href="https://amzn.to/44ZDhwi">Liquid<br>Monk<br>Fruit</a></th>
-          <th>Honey</th>
-          <th>Double<br>Honey</th>
-          <th><a href="/recipes/sugar-free-syrup">Sugar<br>Free<br>Syrup</a></th>
-          <th>Reese's</th>
-          <th>Double<br>Peanut<br>Butter</th>
-          <th>White<br>Chocolate<br>Peanut<br>Butter</th>
-          <th>Casein<br>Protein<br>Powder</th>
-          <th>Lower<br>Sugar</th>
-    </tr>
-    </thead>
-    <tbody>
-        {% for i in (0..last_index) %}
-          <tr>
-            <td>{{ nutrients[i] }}</td>
-            {% assign nutrient = nutrients[i] %}
-            {% assign rnd = rnds[i] %}
-            {% for f in files %}
-              {% assign ing_file = f | append: "-ing" %}
-              {% assign facts_file = f | append: "-facts" %}
-              <td>
-                  {% include getNutrient.html 
-                      ing=ing_file 
-                      facts=facts_file 
-                      servingSize="100" 
-                      nutrient=nutrient 
-                      fetch="perServing" 
-                      rnd=rnd %}
-              </td>
-            {% endfor %}
-          </tr>
-        {% endfor %}
-        <tr>
-            <td>Cost</td>
-            {% for f in files %}
-                {% assign file = f | append: "-ing" %}
-                <td>{% include calcCost.html ing=file %}</td>
-            {% endfor %}
-        </tr>
-        <tr>
-            <td>Cost</td>
-            {% for f in files %}
-                {% assign file = f | append: "-ing" %}
-                <td>{% include calcMass.html ing=file %}</td>
-            {% endfor %}
-        </tr>
-    </tbody>
-</table></div>
-<i>Scroll to the right to read information about every variation</i><br><br>
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

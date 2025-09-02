@@ -83,38 +83,14 @@ To make it a chocolate banana bread instead, do the following:
 
 <center><img src="/assets/Food/Protein Powder/No Nut Protein Banana Bread/chocolate.jpg" alt="" class="instruction-image"></center><br>
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-        max-width: 100%;
-        table-layout: auto;
-        text-align: center;
-    }
-
-    th, td {
-        text-align: center;
-        white-space: nowrap;
-        word-wrap: break-word;
-    }
-
-    td:first-child, th:first-child {
-        position: sticky;
-        left: 0;
-        background-color: var(--minima-table-header-bg-color);
-        z-index: 5;
-        font-weight: bold;
-    }
-
-    .table-container {
-        overflow-x: auto; /* Adds horizontal scrolling if needed */
-        max-width: 100%;
-    }
-</style>
-
 {% assign files = 
     "nonutproteinbananabread," 
     | append: "nonutproteinbananabreadchoc" 
+    | split: "," 
+%}
+{% assign titles = 
+    "Regular<br>Banana Bread," 
+    | append: "Chocolate<br>Banana Bread" 
     | split: "," 
 %}
 {% assign nutrients = 
@@ -125,44 +101,4 @@ To make it a chocolate banana bread instead, do the following:
     | append: "Fiber" 
     | split: "," 
 %}
-{% assign rnds = 
-    "0," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1" 
-    | split: "," 
-%}
-{% assign last_index = nutrients.size | minus: 1 %}
-
-<div class="table-container"><table>
-    <thead>
-        <tr>
-            <th>Nutrient</th>
-            <th>Regular<br>Banana Bread</th>
-            <th>Chocolate<br>Banana Bread</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for i in (0..last_index) %}
-            <tr>
-                <td>{{ nutrients[i] }}</td>
-                {% assign nutrient = nutrients[i] %}
-                {% assign rnd = rnds[i] %}
-                {% for f in files %}
-                    {% assign ing_file = f | append: "-ing" %}
-                    {% assign facts_file = f | append: "-facts" %}
-                    <td>
-                        {% include getNutrient.html 
-                            ing=ing_file 
-                            facts=facts_file 
-                            servingSize="100" 
-                            nutrient=nutrient 
-                            fetch="perServing" 
-                            rnd=rnd %}
-                    </td>
-                {% endfor %}
-            </tr>
-        {% endfor %}
-    </tbody>
-</table></div>
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DIY Yogurt"
-date:   2025-06-26 00:00:00 -05000
+date:   2025-08-02 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
@@ -53,39 +53,16 @@ Instructions:
 
 - As your sweetener, you can either use granulated monk fruit (1 tbsp, 12 g) or honey (1 tsp, 7 g).  If using honey instead, replace the almond milk (1/2 cup, 125 g) with water (1/2 cup, 130 g).  Below is a table comparing the two versions to plain nonfat greek yogurt (per 3/4 cup, 170 g serving)
 ---
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-        max-width: 100%;
-        table-layout: auto;
-        text-align: center;
-    }
-
-    th, td {
-        text-align: center;
-        white-space: nowrap;
-        word-wrap: break-word;
-    }
-
-    td:first-child, th:first-child {
-        position: sticky;
-        left: 0;
-        background-color: var(--minima-table-header-bg-color);
-        z-index: 5;
-        font-weight: bold;
-    }
-
-    .table-container {
-        overflow-x: auto; /* Adds horizontal scrolling if needed */
-        max-width: 100%;
-    }
-</style>
-
 {% assign files = 
     "plainnonfatgreekyogurt," 
     | append: "diyyogurtmonkfruit," 
     | append: "diyyogurthoney" 
+    | split: "," 
+%}
+{% assign titles = 
+    "Plain Nonfat<br>Greek Yogurt," 
+    | append: "DIY Yogurt<br>Monk Fruit," 
+    | append: "DIY Yogurt<br>Honey" 
     | split: "," 
 %}
 {% assign nutrients = 
@@ -97,47 +74,4 @@ Instructions:
     | append: "Calcium" 
     | split: "," 
 %}
-{% assign rnds = 
-    "0," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "2," 
-    | append: "0" 
-    | split: "," 
-%}
-{% assign last_index = nutrients.size | minus: 1 %}
-
-<div class="table-container"><table>
-    <thead>
-        <tr>
-            <th>Nutrient</th>
-            <th><a href="https://www.nutritionvalue.org/public_ingredient_55742.html?utm_source=share-by-url">Plain Nonfat<br>Greek Yogurt</a></th>
-            <th><a href="/recipes/diy-yogurt">DIY Yogurt<br>With Monk Fruit</a></th>
-            <th><a href="/recipes/diy-yogurt">DIY Yogurt<br>With Honey</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for i in (0..last_index) %}
-            <tr>
-                <td>{{ nutrients[i] }}</td>
-                {% assign nutrient = nutrients[i] %}
-                {% assign rnd = rnds[i] %}
-                {% for f in files %}
-                    {% assign ing_file = f | append: "-ing" %}
-                    {% assign facts_file = f | append: "-facts" %}
-                    <td>
-                        {% include getNutrient.html 
-                            ing=ing_file 
-                            facts=facts_file 
-                            servingSize="100" 
-                            nutrient=nutrient 
-                            fetch="perServing" 
-                            rnd=rnd %}
-                    </td>
-                {% endfor %}
-            </tr>
-        {% endfor %}
-    </tbody>
-</table></div>
-<i>Scroll to the right to read information about every variation</i><br><br>
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

@@ -57,39 +57,16 @@ Instructions:
 ---
 <br>Below is a table comparing the nutrition facts of my homemade spread to standard <a href="https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search">Nutella</a> per 100 g.  As you can see, the homemade version contains significantly fewer <a href="/misc/calories">calories</a>, unhealthy <a href="/misc/fats">fats</a>, and <a href="/misc/hidden-sugar">sugar</a>, while having substantially more <a href="/misc/fiber">fiber</a>:<br><br>
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-        max-width: 100%;
-        table-layout: auto;
-        text-align: center;
-    }
-
-    th, td {
-        text-align: center;
-        white-space: nowrap;
-        word-wrap: break-word;
-    }
-
-    td:first-child, th:first-child {
-        position: sticky;
-        left: 0;
-        background-color: var(--minima-table-header-bg-color);
-        z-index: 5;
-        font-weight: bold;
-    }
-
-    .table-container {
-        overflow-x: auto; /* Adds horizontal scrolling if needed */
-        max-width: 100%;
-    }
-</style>
-
 {% assign files = 
     "chickpeanutella100g," 
-    | append: "chickpeanutellasfs100g," 
+    | append: "chickpeanutellasfs100g,"
     | append: "classicnutella" 
+    | split: "," 
+%}
+{% assign titles = 
+    "Homemade<br>With Dates," 
+    | append: "Homemade<br>With <a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>,"
+    | append: "Storebought" 
     | split: "," 
 %}
 {% assign nutrients = 
@@ -98,52 +75,7 @@ Instructions:
     | append: "Fat," 
     | append: "Net Carbs," 
     | append: "Fiber," 
-    | append: "Added Sugar," 
-    | append: "Sugar Alcohol" 
+    | append: "Added Sugar" 
     | split: "," 
 %}
-{% assign rnds = 
-    "0," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1," 
-    | append: "1" 
-    | split: "," 
-%}
-{% assign last_index = nutrients.size | minus: 1 %}
-
-<div class="table-container"><table>
-    <thead>
-        <tr>
-            <th>Nutrient</th>
-            <th>Homemade<br>(with Dates)</th>
-            <th>Homemade<br>(with <a href="/recipes/sugar-free-syrup">Sugar Free Syrup</a>)</th>
-            <th>Storebought</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for i in (0..last_index) %}
-            <tr>
-                <td>{{ nutrients[i] }}</td>
-                {% assign nutrient = nutrients[i] %}
-                {% assign rnd = rnds[i] %}
-                {% for f in files %}
-                    {% assign ing_file = f | append: "-ing" %}
-                    {% assign facts_file = f | append: "-facts" %}
-                    <td>
-                        {% include getNutrient.html 
-                            ing=ing_file 
-                            facts=facts_file 
-                            servingSize="100" 
-                            nutrient=nutrient 
-                            fetch="perServing" 
-                            rnd=rnd %}
-                    </td>
-                {% endfor %}
-            </tr>
-        {% endfor %}
-    </tbody>
-</table></div>
-<i>Scroll to the right to read information about every variation</i><br><br>
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
