@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick, Easy, & Healthy Chicken Piccata"
-date:   2025-08-25 00:00:00 -0500
+date:   2025-09-02 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
@@ -18,7 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 permalink: /recipes/chicken-piccata
-image: /assets/Food/Chicken/Piccata/cover.jpg
+image: /assets/Food/Chicken/Piccata/cover2.jpg
 ing: piccata-ing
 facts: piccata-facts
 servingSize:
@@ -27,7 +27,7 @@ start2: Coconut flour
 section2: Step 2
 start3: Extra virgin olive oil
 section3: Step 3
-start4: Lemon juice
+start4: Water
 section4: Step 4
 start5: 
 section5: 
@@ -49,21 +49,21 @@ tags:
 - lemon sauce
 - butter
 - extra virgin olive oil
-Description: Ah Chicken Piccata, the better lemon <a href="/misc/meat#chicken-breast">chicken</a> cousin of Chicken Francese. For those unaware, Francese has an <a href="/misc/meat#eggs">egg</a> and flour coating on the chicken. In comparison, Piccata has only flour (no egg), and also adds capers into the sauce.  This high <a href="/misc/protein">protein</a> dish has a creamy lemon sauce without tons of <a href="/misc/dairy#butter">butter</a> or oil, and pair great with any <a href="/misc/fiber">vegetables</a> or <a href="/misc/carbs">complex carb</a> <a href="/recipes/sides">side</a>
+Description: Ah Chicken Piccata, the better lemon <a href="/misc/meat#chicken-breast">chicken</a> cousin of Chicken Francese. For those unaware, Francese has an <a href="/misc/meat#eggs">egg</a> and flour coating on the chicken. In comparison, Piccata has only flour (no egg), and also adds capers into the sauce.  This high <a href="/misc/protein">protein</a> dish has a creamy lemon sauce without tons of <a href="/misc/dairy#butter">butter</a> or oil, and pair great with any <a href="/misc/fiber">vegetables</a> and <a href="/misc/carbs">complex carb</a> <a href="/recipes/sides">side</a>
 Instructions: 
 - Cut your meat into 6 large pieces. Cover with plastic wrap, and pound with a meat mallet until you have a thin piece of chicken. Repeat with all pieces
 
 - On a large plate, mix together flour, oregano, black pepper, garlic powder, onion powder, and salt. Any flour will do, but today I opted for coconut. Lightly coat your pieces of chicken in flour, and set aside
-- <center><img src="/assets/Food/Chicken/Piccata/raw.jpg" alt="" class="instruction-image"></center>
 
 - In a large pan, preheat 1 tsp (5 g) of oil over medium heat. When hot, add 2 pieces of chicken, and sear on both sides until browned. Cook until the internal temperature just reaches 165F, and set aside. Repeat in 2 more batches (1 tsp, 5 g f oil for each batch) for the remaining 4 pieces
-- <center><img src="/assets/Food/Chicken/Piccata/cooked.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Chicken/Piccata/chicken1.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Chicken/Piccata/chicken2.jpg" alt="" class="instruction-image"></center>
 
-- Reduce heat to low. Add lemon juice, capers, garlic, parsley, cornstarch, and lemon pepper to the pan. Whisk and cook until thickened
+- Reduce heat to low. Whisk together the sauce ingredients in a large glass, and add to the pan. Simmer and mix until thickened
 - <center><img src="/assets/Food/Chicken/Piccata/sauce.jpg" alt="" class="instruction-image"></center>
 
 - As the sauce simmers, slice your chicken on a bias. Add the chicken to a plate, and pour the sauce over the chicken. Optionally garnish with a slice of lemon, and serve
 
-- Serve with a <a href="/recipes/sides">side</a> of <a href="/recipes/roasted-vegetables">roasted</a> or <a href="/recipes/vegetable-medley">sauteed</a> veggies, such as spinach, broccoli, cauliflower, or asparagus. Also pair with healthy starches, such as a <a href="/recipes/baked-sweet-potato">baked potato</a>, <a href="/recipes/rice-and-beans">brown rice</a>, <a href="/recipes/red-lentils">lentils</a>, or <a href="/recipes/couscous">couscous</a>
-- <center><img src="/assets/Food/Chicken/Piccata/plate.jpg" alt="" class="instruction-image"></center>
+- Serve with a <a href="/recipes/sides">side</a> of <a href="/recipes/roasted-vegetables">roasted</a> or <a href="/recipes/vegetable-medley">sauteed</a> veggies, such as <a href="/misc/veggies#spinach">spinach</a>, <a href="/misc/veggies#broccoli">broccoli</a>, <a href="/misc/veggies#cauliflower">cauliflower</a>, or <a href="/misc/veggies#asparagus">asparagus</a>. Also pair with healthy <a href="/misc/veggies#carbs">starches</a>, such as a <a href="/recipes/baked-sweet-potato">baked potato</a>, <a href="/recipes/rice-and-beans">brown rice</a>, <a href="/recipes/red-lentils">lentils</a>, or <a href="/recipes/couscous">couscous</a>.  Today, I'm pairing my Chicken Piccata with <a href="/recipes/roasted-vegetables">Roasted Brussel Sprouts</a> and <a href="/recipes/air-fried-trail-mix">Air Fryer Trail Mix</a>!
+- <center><img src="/assets/Food/Chicken/Piccata/cover1.jpg" alt="" class="instruction-image"></center>
 ---
