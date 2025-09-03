@@ -26,9 +26,12 @@
         {% elsif category == "fruit" %}
             {% assign title = "Fruit" %}
             {% assign pic = "/assets/Misc/Nutrition/Nutrients/fruit.png" %}
-        {% elsif category == "nuts-seeds" %}
-            {% assign title = "Nuts and Seeds" %}
+        {% elsif category == "nuts" %}
+            {% assign title = "Nuts" %}
             {% assign pic = "/assets/Misc/Nutrition/Nutrients/nuts.png" %}
+        {% elsif category == "seeds" %}
+            {% assign title = "Seeds" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/seeds.png" %}
         {% elsif category == "grains" %}
             {% assign title = "Grains (Raw)" %}
             {% assign pic = "/assets/Misc/Nutrition/Nutrients/wheat.png" %}
@@ -67,7 +70,7 @@
                     {% assign fact_file = item.File | append: "-facts" %}
                     {% if item[nutrient] == "TRUE" %}
                         <tr>
-                            <td markdown="span"><a href="{{ item.URL }}">{{ item["Name"] }}</a></td>
+                            <td markdown="span"><a href="{{ item.URL }}" target="_blank" rel="noopener noreferrer">{{ item["Name"] }}</a></td>
                             <td markdown="span">{{ item.Vol }} ({{ item.Mass }} g)</td>
                             {% for fetch in fetch_types %}
                                 <td markdown="span">

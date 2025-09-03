@@ -1,0 +1,19 @@
+{% assign category = include.category %}
+{% assign pic1 = include.pic1 %}
+{% assign pic2 = include.pic2 %}
+
+{% assign items = site.data.nutrition | where: "Category", category %}
+
+<div id="contents" class="table-of-contents"></div>
+<br><u><font size="+2">Contents</font></u><br>
+<ol>
+    {% for item in items %}
+        {% assign title = item.Name | replace: "<br>", " " %}
+        {% assign title = title | replace: "(Canned)", "" %}
+        <li><a rel="" target="" href="#{{ item.File }}">{{ title }}</a></li>
+    {% endfor %}
+    <li><a rel="" target="" href="#compare">Nutritional Comparison</a></li>
+</ol>
+
+{% assign folder = category | capitalize %}
+<center><img src="/assets/Misc/Nutrition/{{ folder }}/{{ pic1 }}.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/{{ folder }}/{{ pic2 }}.png" alt="" class="smaller-image"></center><br>

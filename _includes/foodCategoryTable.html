@@ -1,0 +1,156 @@
+{% assign category = include.category %}
+{% assign nutrients = include.nutrients %}
+{% assign pic = include.pic %}
+{% assign servSize = include.servSize %}
+{% assign scroll = include.scroll %}
+{% assign last_index = nutrients.size | minus: 1 %}
+
+{% assign items = site.data.nutrition | where: "Category", category %}
+
+<div id="compare" class="table-of-contents"></div><br>
+<u><font size="+2">Nutritional Comparison</font></u><br><br>
+
+<div class="table-container">
+    <table>
+        <thead>
+            <tr>
+                <th>Nutrient</th>
+                {% for item in items %}
+                    {% assign title = item.Name | replace: "(Canned)", "" %}
+                    <th><a href="#{{ item.File }}">{{ title }}</a></th>
+                {% endfor %}
+            </tr>
+        </thead>
+
+        <tbody>
+            {% if include.servSize and servSize == "true" %}
+                    <tr>
+                        <td>Serving Size</td>
+                        {% for item in items %}
+                            <td>{{ item.Mass }} g</td>
+                        {% endfor %}
+                    </tr>
+                {% endif %}
+
+            {% for i in (0..last_index) %}
+
+                <tr>
+                    <td>{{ nutrients[i] }}</td>
+                    {% for item in items %}
+                        {% assign fact_file = item.File | append: "-facts" %}
+                        
+                        {% assign nutrient = nutrients[i] %}
+                        {% assign mass = item.Mass %}
+
+                        {% if 
+                            nutrient == "Calories" or
+                            nutrient == "Cholesterol" or
+                            nutrient == "Sodium" or
+                            nutrient == "Choline" or
+                            nutrient == "Calcium" or
+                            nutrient == "Magnesium" or
+                            nutrient == "Phosphorus" or
+                            nutrient == "Potassium"   
+                        %}
+                            {% assign rnd = "0" %}
+                        {% elsif 
+                            nutrient == "Protein" or 
+                            nutrient == "Fat" or 
+                            nutrient == "Saturated Fat" or
+                            nutrient == "Trans Fat" or
+                            nutrient == "Polyunsaturated Fat" or
+                            nutrient == "Monounsaturated Fat" or
+                            nutrient == "Carbs" or 
+                            nutrient == "Net Carbs" or 
+                            nutrient == "Fiber" or 
+                            nutrient == "Sugar" or
+                            nutrient == "Sugar Alcohol" or
+                            nutrient == "Added Sugar" or
+                            nutrient == "Allulose" or
+                            nutrient == "Vitamin A" or
+                            nutrient == "Vitamin B3" or
+                            nutrient == "Vitamin B5" or
+                            nutrient == "Vitamin B9" or
+                            nutrient == "Vitamin C" or
+                            nutrient == "Vitamin K" or
+                            nutrient == "Selenium"
+                        %}
+                            {% assign rnd = "1" %}
+                        {% elsif 
+                            nutrient == "Vitamin B1" or
+                            nutrient == "Vitamin B2" or
+                            nutrient == "Vitamin B6" or
+                            nutrient == "Vitamin B12" or
+                            nutrient == "Vitamin D" or
+                            nutrient == "Vitamin E" or
+                            nutrient == "Copper" or
+                            nutrient == "Iron" or
+                            nutrient == "Manganese" or
+                            nutrient == "Zinc" or
+                            nutrient == "Histidine" or
+                            nutrient == "Isoleucine" or
+                            nutrient == "Leucine" or
+                            nutrient == "Lysine" or
+                            nutrient == "Methionine" or
+                            nutrient == "Phenyalanine" or
+                            nutrient == "Threonine" or
+                            nutrient == "Tryptophan" or
+                            nutrient == "Valine"
+                        %}
+                            {% assign rnd = "2" %}
+                        {% else %}
+                            {% assign rnd = "0" %}
+                        {% endif %}
+
+                        <td>
+                            {% include getNutrient.html 
+                                ing=ing_file 
+                                facts=fact_file 
+                                servingSize=mass 
+                                nutrient=nutrient 
+                                fetch="perServing" 
+                                rnd=rnd
+                            %}
+                        </td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% if include.scroll and scroll == "true" %}
+    <i>Scroll to the right to read information about every variation</i><br><br>
+{% endif %}
+
+<center><img src="/assets/Misc/Nutrition/Foods/nutrition-facts-label.png" alt="" class="smaller-image"></center><br>
+<hr>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        max-width: 100%;
+        table-layout: auto;
+        text-align: center;
+    }
+
+    th, td {
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+
+    td:first-child, th:first-child {
+        position: sticky;
+        left: 0;
+        background-color: var(--minima-table-header-bg-color);
+        z-index: 5;
+        font-weight: bold;
+    }
+
+    .table-container {
+        overflow-x: auto; /* Adds horizontal scrolling if needed */
+        max-width: 100%;
+    }
+</style>

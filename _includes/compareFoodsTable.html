@@ -1,6 +1,7 @@
 {% assign files = include.files %}
 {% assign titles = include.titles %}
 {% assign nutrients = include.nutrients %}
+{% assign pic = include.pic %}
 {% assign scroll = include.scroll %}
 {% assign last_index = nutrients.size | minus: 1 %}
 
@@ -14,6 +15,7 @@
                 {% endfor %}
             </tr>
         </thead>
+
         <tbody>
             {% for i in (0..last_index) %}
                 <tr>
@@ -102,8 +104,12 @@
     </table>
 </div>
 
-{% if scroll == "true" %}
+{% if include.scroll and scroll == "true" %}
     <i>Scroll to the right to read information about every variation</i><br><br>
+{% endif %}
+
+{% if include.pic %}
+    <center><img src="{{ pic }}" alt="" class="smaller-image"></center><br>
 {% endif %}
 <hr>
 
