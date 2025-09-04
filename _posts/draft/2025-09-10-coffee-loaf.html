@@ -75,20 +75,28 @@ Instructions:
 - <center><img src="/assets/Food/Meme/Coffee Loaf/baked.jpg" alt="" class="instruction-image"></center>
 ---
 
-&emsp;You can eithe use <b>ground coffee</b> (<b>1/2 cup</b>, <b>40 g</b>) or <b>instant espresso powder</b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your coffee in <b>1/2 cup (120 g)</b> of hot water for 5-10 minutes before adding to the batter.  Either decaf or regular ground coffee would work; I've tested the recipe both with decaf ground coffee and instant espresso powder.<br><br>
+&emsp;You can eithe use <b>ground coffee</b> (<b>1/2 cup</b>, <b>40 g</b>), <b>instant espresso powder</b> (<b>4 tsp</b>, <b>8 g</b>) or <b>instant coffee</b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your coffee in 1/2 cup (120 g) of hot water for 5-10 minutes before adding to the batter.  I've tested the recipe both with decaf ground coffee and instant espresso powder</a>.  Ground coffee leads to a crumblier but stronger coffee tasting loaf, whereas the espresso powder holds its shape better with a very mild coffee flavor.<br><br>
 
-&emsp;For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>.  Using ground decaf, ground regular, or instant espresso yields slices with <b>6 %</b>, <b>73 %</b>, and <b>8 %</b> of the caffeine of a standard cup of coffee, respectively.<br><br>
+&emsp;For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>.<br><br>
+
+<center><img src="/assets/Food/Meme/Coffee Loaf/coffee.jpg" alt="" class="half-page"><img src="/assets/Food/Meme/Coffee Loaf/espresso.jpg" alt="" class="half-page"></center><br><br>
 
 {% assign files = 
     "coffeeloafdecaf," 
     | append: "coffeeloafcaf," 
-    | append: "coffeeloafesp" 
+    | append: "coffeeloafespdecaf,"
+    | append: "coffeeloafespcaf,"
+    | append: "coffeeloafinstdecaf,"
+    | append: "coffeeloafinstcaf" 
     | split: ","
 %}
 {% assign titles = 
-    "Ground Coffee<br>(Decaf)," 
-    | append: "Ground Coffee<br>(Caffeinated)," 
-    | append: "Instant Espresso<br>Powder" 
+    "<a href='https://amzn.to/4oXITP0'>Ground<br>Coffee<br>(Decaf)</a>," 
+    | append: "<a href='https://amzn.to/47ZDr8c'>Ground<br>Coffee<br>(Caffeinated)</a>," 
+    | append: "<a href='https://amzn.to/4p4wEQM'>Instant<br>Espresso<br>(Decaf)</a>," 
+    | append: "<a href='https://amzn.to/4gdD4cw'>Instant<br>Espresso<br>(Caffeinated)</a>," 
+    | append: "<a href='https://amzn.to/3HKCVjY'>Instant<br>Coffee<br>(Decaf)</a>,"
+    | append: "<a href='https://amzn.to/486aYxs'>Instant<br>Coffee<br>(Caffeinated)</a>"
     | split: "," 
 %}
 {% assign nutrients = 
@@ -96,8 +104,6 @@ Instructions:
     | split: "," 
 %}
 {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
-
-<center><img src="/assets/Food/Meme/Coffee Loaf/coffee.jpg" alt="" class="half-page"><img src="/assets/Food/Meme/Coffee Loaf/espresso.jpg" alt="" class="half-page"></center><br><br>
 
 &emsp;If you don't need it gluten free, you can simply use 2 cup (240 g) whole wheat flour. If it needs to be gluten free though, you can replace the whole wheat flour with the following blend of flours:<br>
 <ul>
