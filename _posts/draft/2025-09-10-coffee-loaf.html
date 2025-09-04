@@ -75,8 +75,29 @@ Instructions:
 - <center><img src="/assets/Food/Meme/Coffee Loaf/baked.jpg" alt="" class="instruction-image"></center>
 ---
 
-&emsp;Note that 1/2 cup (40 g) of ground coffee is equivalent to 8 cups of coffee, meaning each of the 16 slices contains 1/2 a cup of coffee, plus the additional caffeine from the cocoa powder. I'm using decaf for the cake, but there are trace amounts of caffeine, about 6 mg per slice. If you use regular ground coffee then you should be aware that each slice contains 81 mg of caffeine. For reference a standard cup of coffee contains about 90 mg of caffeine. A standard cup of black or green tea contains about 50 mg of caffeine. Decaf coffee has about 2 mg, and herbal tea is caffeine free.<br><br>
-<center><img src="/assets/Food/Meme/Coffee Loaf/coffee.jpg" alt="" class="instruction-image"></center><br><br>
+&emsp;You can eithe use <b>ground coffee</b> (<b>1/2 cup</b>, <b>40 g</b>) or <b>instant espresso powder</b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your coffee in <b>1/2 cup (120 g)</b> of hot water for 5-10 minutes before adding to the batter.  Either decaf or regular ground coffee would work; I've tested the recipe both with decaf ground coffee and instant espresso powder.<br><br>
+
+&emsp;For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>.  Using ground decaf, ground regular, or instant espresso yields slices with <b>6 %</b>, <b>73 %</b>, and <b>8 %</b> of the caffeine of a standard cup of coffee, respectively.<br><br>
+
+{% assign files = 
+    "coffeeloafdecaf," 
+    | append: "coffeeloafcaf," 
+    | append: "coffeeloafesp" 
+    | split: ","
+%}
+{% assign titles = 
+    "Ground Coffee<br>(Decaf)," 
+    | append: "Ground Coffee<br>(Caffeinated)," 
+    | append: "Instant Espresso<br>Powder" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Caffeine" 
+    | split: "," 
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+
+<center><img src="/assets/Food/Meme/Coffee Loaf/coffee.jpg" alt="" class="half-page"><img src="/assets/Food/Meme/Coffee Loaf/espresso.jpg" alt="" class="half-page"></center><br><br>
 
 &emsp;If you don't need it gluten free, you can simply use 2 cup (240 g) whole wheat flour. If it needs to be gluten free though, you can replace the whole wheat flour with the following blend of flours:<br>
 <ul>

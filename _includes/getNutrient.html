@@ -108,6 +108,8 @@
     {% assign tryptophan = "0.0g (0 %)" %}
     {% assign valine = "0.0g (0 %)" %}
 
+    {% assign caffeine = "0.00mg (0 %)" %}
+
     <!-- Loop to get nutrition facts -->
     {% for row in loopVarFacts %}
         {% for pair in row %}
@@ -294,6 +296,10 @@
 
             {% if pair[1] == "Valine" %}
                 {% assign valine = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Caffeine" %}
+                {% assign caffeine = line2 %}
             {% endif %}
 
         {% endfor %}
@@ -557,6 +563,10 @@
 
     {% if nutrient == "Valine" %}
         {% assign line = valine %}
+    {% endif %}
+
+    {% if nutrient == "Caffeine" %}
+        {% assign line = caffeine %}
     {% endif %}
 
     <!-- Check if Infinity -->
