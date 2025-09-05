@@ -440,11 +440,11 @@
                     {% endif %}
 
                     <!-- Calc net carbs -->
+                    {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
+                    {% if netCarb < 0 %}
+                        {% assign netCarb = "" %}
+                    {% endif %}
                     {% if netCarb != "" %}
-                        {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
-                        {% if netCarb < 0 %}
-                            {% assign netCarb = 0.0 %}
-                        {% endif %}
                         {% assign netCarbStr = netCarb | round: 1 | append: 'g' %}
                         &emsp;<b><a href="/misc/carbs">Net Carbs</a></b>: {{ netCarbStr }}<br>
                     {% endif %}

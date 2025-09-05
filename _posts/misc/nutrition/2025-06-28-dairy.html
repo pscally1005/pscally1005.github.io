@@ -290,12 +290,13 @@ tags:
 
 {% assign nutrients = 
     "Calories," 
-    | append: "Protein," 
     | append: "Fat,"
+    | append: "Sodium," 
+    | append: "Carbs," 
     | append: "Net Carbs,"
+    | append: "Protein," 
     | append: "Vitamin B12,"
-    | append: "Calcium,"
-    | append: "Sodium" 
+    | append: "Calcium"
     | split: ","
 %}
 

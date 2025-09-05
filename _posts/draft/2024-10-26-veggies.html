@@ -312,18 +312,21 @@ tags:
     | split: "|" 
 %}
 
-{% include foodCategoryDesc.html category=category descriptions=descriptions nutrients=nutrients %}
-
 {% assign nutrients = 
     "Calories," 
-    | append: "Protein," 
-    | append: "Fat,"
+    | append: "Carbs,"
     | append: "Net Carbs," 
     | append: "Fiber,"
+    | append: "Protein," 
     | append: "Vitamin C,"
-    | append: "Vitamin K"
+    | append: "Vitamin K,"
+    | append: "Calcium,"
+    | append: "Magnesium"
     | split: ","
 %}
+
+{% include foodCategoryDesc.html category=category descriptions=descriptions nutrients=nutrients %}
+
 {% include foodCategoryTable.html category=category nutrients=nutrients servSize="true" scroll="true" %}
 
 <u><font size="+2">References</font></u><br>

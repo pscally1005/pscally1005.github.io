@@ -4,8 +4,9 @@
 
 <!-- Loop Variable -->
 {% assign loopVar = site.data[include.ing] %}
-{% if page.title == "Copycat Barebell Protein Bars" %}
-    {% assign loopVar = site.data.barbell[include.ing] %}
+{% if include.folder %}
+    {% assign folder = include.folder %}
+    {% assign loopVar = site.data[folder][include.ing] %}
 {% endif %}
 
 <!-- Loop through all the ingredients -->

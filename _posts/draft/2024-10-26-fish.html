@@ -208,15 +208,18 @@ tags:
     | split: "|" 
 %}
 
-{% include foodCategoryDesc.html category=category descriptions=descriptions nutrients=nutrients %}
-
 {% assign nutrients = 
     "Calories," 
-    | append: "Protein," 
     | append: "Fat,"
-    | append: "Vitamin B12" 
+    | append: "Protein," 
+    | append: "Vitamin B12,"
+    | append: "Vitamin D,"
+    | append: "Selenium" 
     | split: ","
 %}
+
+{% include foodCategoryDesc.html category=category descriptions=descriptions nutrients=nutrients %}
+
 {% include foodCategoryTable.html category=category nutrients=nutrients servSize="true" scroll="true" %}
 
 <u><font size="+2">References</font></u><br>

@@ -1,7 +1,6 @@
 <!-- Only generate section if the page has an ingredients file -->
 {% if 
-    page.ing or 
-    page.title == "Improving the Pinto Bean Cake"
+    page.ing
 %}
 
     {% assign ingredients = page.ing %}
@@ -21,9 +20,6 @@
     {% assign loopVarFacts = site.data[facts] %}
     {% assign loopVarIng = site.data[ing] %}
     {% if recipe == "false" %}
-        {% assign loopVarIng = ing %}
-    {% endif %}
-    {% if page.title == "Improving the Pinto Bean Cake" %}
         {% assign loopVarIng = ing %}
     {% endif %}
 

@@ -225,7 +225,7 @@ tags:
             <td>Homemade</td>
             {% for f in files %}
                 {% assign file = f | append: "-ing" %}
-                <td>{% include calcCost.html ing=file %}</td>
+                <td>{% include calcCost.html ing=file folder="chocolate" %}</td>
             {% endfor %}
         </tr>
     </tbody>
