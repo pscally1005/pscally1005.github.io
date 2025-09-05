@@ -149,7 +149,7 @@ tags:
     | split: ","
 %}
 
-{% include foodCategoryDesc.html category=category descriptions=descriptions %}
+{% include foodCategoryDesc.html category=category descriptions=descriptions nutrients=nutrients %}
 
 {% include foodCategoryTable.html category=category nutrients=nutrients servSize="true" scroll="true" %}
 
