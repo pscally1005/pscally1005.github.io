@@ -46,7 +46,7 @@ tags:
 - cocoa
 - nut
 - chopped
-Description: Plain nonfat <a href="/misc/dairy#greek-yogurt">greek yogurt</a> combined with whey protein powder makes a <a href="/misc/protein">protein</a> packed bowl to start your day off right.  I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have <a href="/recipes/yogurt-pbj">PB&J</a>, <a href="/recipes/yogurt-apple">Apple Pie</a>, Chocolate, and <a href="/recipes/yogurt-banana">PB Banana</a> for you to enjoy.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>!
+Description: Plain nonfat <a href="/misc/dairy#yogurt">greek yogurt</a> combined with whey protein powder makes a <a href="/misc/protein">protein</a> packed bowl to start your day off right.  I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have <a href="/recipes/yogurt-pbj">PB&J</a>, <a href="/recipes/yogurt-apple">Apple Pie</a>, Chocolate, and <a href="/recipes/yogurt-banana">PB Banana</a> for you to enjoy.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>!
 Instructions: 
 - Mash your banana with the back of a fork.  Mix the rest of the ingredients together in a bowl, and top with chopped chocolate.  Cover, and refrigerate overnight
 

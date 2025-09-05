@@ -1,5 +1,6 @@
 {% assign category = include.category %}
 {% assign descriptions = include.descriptions %}
+{% assign nutrients = include.nutrients %}
 
 {% assign items = site.data.nutrition | where: "Category", category %}
 {% assign last_index = items.size | minus: 1 %}
@@ -25,6 +26,7 @@
         vol1=item.Vol
         gram1=item.Mass
         nutritionFacts=nF
+        nutrients=nutrients
     %}
 
     {% assign folder = category | capitalize %}

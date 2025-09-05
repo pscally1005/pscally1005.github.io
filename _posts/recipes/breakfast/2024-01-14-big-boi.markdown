@@ -51,7 +51,7 @@ tags:
 - melted
 - microwave
 - chocolate
-Description: I got used to eating a bit less at meals, breakfast included, when I got injured, as I was exercising a lot less. But I've been able to get back into running recently, meaning I need to eat a bit more in the morning. It's got a good source of <a href="/misc/protein">protein</a> (<a href="/misc/dairy#greek-yogurt">yogurt</a> and protein powder), <a href="/misc/fats">healthy <a href="/misc/fats">fats</a></a> (dark chocolate and nuts), and <a href="/misc/carbs">complex carbs</a> (oats and <a href="/misc/fruit#banana">banana</a>) to power my run a few hours later.  You can also check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
+Description: I got used to eating a bit less at meals, breakfast included, when I got injured, as I was exercising a lot less. But I've been able to get back into running recently, meaning I need to eat a bit more in the morning. It's got a good source of <a href="/misc/protein">protein</a> (<a href="/misc/dairy#yogurt">yogurt</a> and protein powder), <a href="/misc/fats">healthy <a href="/misc/fats">fats</a></a> (dark chocolate and nuts), and <a href="/misc/carbs">complex carbs</a> (oats and <a href="/misc/fruit#banana">banana</a>) to power my run a few hours later.  You can also check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
 Instructions: 
 - In a medium bowl, mash half your banana with the back of a fork. Mix the rest of the ingredients into the bowl, and top with the other half of the banana, chopped nuts, and chopped chocolate
 

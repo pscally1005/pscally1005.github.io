@@ -66,7 +66,7 @@ tags:
 * <a rel="" target="" href="#coffee">Coffee</a><br>
 * <a rel="" target="" href="#iced-tea">Iced Tea</a><br>
 * <a rel="" target="" href="#diet-soda">Diet Soda</a><br>
-* <a rel="" target="" href="#milk">Milk</a><br>
+* <a rel="" target="" href="#skim-milk">Milk</a><br>
 
 <br><center><a href="https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars"><img src="/assets/Misc/Nutrition/Trap/sugar.jpg" alt="" class="larger-image"></a></center>
 

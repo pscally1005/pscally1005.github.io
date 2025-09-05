@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Grain Of Truth"
-date:   2025-08-23 00:00:00 -05000
+date:   2025-08-05 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
@@ -33,444 +33,150 @@ tags:
 - white flour
 - whole wheat flour
 ---
-<u><font size="+2">Introduction</font></u><br>
-&emsp;TODO<br><br>
-<center><img src="/assets/Misc/Nutrition/Grains/grain-1.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Grains/grain-2.png" alt="" class="smaller-image"></center><br>
+{% assign category = "grains" %}
 
-<br><u><font size="+2">Other Posts in this Series</font></u><br>
-<ol>
-    <li><a href="/misc/meat">Let's Meet The Meats</a></li>
-    <li><a href="/misc/nuts">I'm Nuts For Nuts</a></li>
-    <li><a href="/misc/seeds">I See Seeds In Your Future</a></li>
-    <li><a href="/misc/beans">Beans Beans The Musical Fruit</a></li>
-    <li><a href="/misc/fruit">Going Bananas For Bananas</a></li>
-    <li><a href="/misc/veggies">Lettuce Turnip The Beet</a></li>
-    <li><a href="/misc/fish">I'm Hooked On Fish</a></li>
-    <li><a href="/misc/grains">A Grain Of Truth</a></li>
-    <li><a href="/misc/dairy">I'm Dying For Dairy</a></li>
-</ol>
-<center><img src="/assets/Misc/Nutrition/Grains/list.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Grains/diet.png" alt="" class="smaller-image"></center><br>
+{% assign intro = "
+&emsp;[intro].<br><br>
 
-<div id="contents" class="table-of-contents"></div>
-<br><u><font size="+2">Contents</font></u><br>
-<ol>
-    <li><a rel="" target="" href="#amaranth">Amaranth</a></li>
-    <li><a rel="" target="" href="#barley">Barley</a></li>
-    <li><a rel="" target="" href="#brown-rice">Brown Rice</a></li>
-    <li><a rel="" target="" href="#buckwheat">Buckwheat</a></li>
-    <li><a rel="" target="" href="#corn">Corn</a></li>
-    <li><a rel="" target="" href="#millet">Millet</a></li>
-    <li><a rel="" target="" href="#oats">Oats</a></li>
-    <li><a rel="" target="" href="#quinoa">Quinoa</a></li>
-    <li><a rel="" target="" href="#rye">Rye</a></li>
-    <li><a rel="" target="" href="#spelt">Spelt</a></li>
-    <li><a rel="" target="" href="#vital-wheat-gluten">Vital Wheat Gluten</a></li>
-    <li><a rel="" target="" href="#white-rice">White Rice</a></li>
-    <li><a rel="" target="" href="#white-wheat">White Wheat</a></li>
-    <li><a rel="" target="" href="#wild-rice">Wild Rice</a></li>
-    <li><a rel="" target="" href="#whole-wheat">Whole Wheat</a></li>
-    <li><a rel="" target="" href="#compare">Nutritional Comparison</a></li>
-</ol>
-<center><img src="/assets/Misc/Nutrition/Grains/grain-3.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Grains/grain-4.png" alt="" class="smaller-image"></center><br>
+&emsp;[duction].<br>
+" %}
 
-<div id="amaranth" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Amaranth_grain%2C_uncooked_nutritional_value.html?size=48+g">Amaranth</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
+{% assign pic1 = "grain-1" %}
+{% assign pic2 = "grain-2" %}
+{% include foodCategoryIntro.html category=category intro=intro pic1=pic1 pic2=pic2 %}
 
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["amaranth-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="48"  
-    nutritionFacts=nF
+{% include foodCategoryPosts.html %}
+
+{% assign pic1 = "grain-3" %}
+{% assign pic2 = "grain-4" %}
+{% include foodCategoryContents.html category=category pic1=pic1 pic2=pic2 %}
+
+{% assign amaranth = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign barley = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign brown-rice = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign buckwheat = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign corn = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign millet = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign oats = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign popcorn = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign quinoa = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign rye = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign spelt = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign vital-wheat-gluten = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign white-rice = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign white-wheat = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign whole-wheat = "
+&emsp;[sal].<br><br>
+
+&emsp;[mon].<br>
+" %}
+
+{% assign wild-rice = "
+&emsp;[para1].<br><br>
+
+&emsp;[para2].<br>
+" %}
+
+{% assign descriptions = amaranth 
+    | append: "|" | append: barley
+    | append: "|" | append: brown-rice 
+    | append: "|" | append: buckwheat 
+    | append: "|" | append: corn 
+    | append: "|" | append: millet 
+    | append: "|" | append: oats 
+    | append: "|" | append: popcorn 
+    | append: "|" | append: quinoa 
+    | append: "|" | append: rye 
+    | append: "|" | append: spelt 
+    | append: "|" | append: vital-wheat-gluten 
+    | append: "|" | append: white-rice 
+    | append: "|" | append: white-wheat 
+    | append: "|" | append: whole-wheat 
+    | append: "|" | append: wild-rice 
+    | split: "|" 
 %}
-<center><img src="/assets/Misc/Nutrition/Grains/amaranth.png" alt="" class="smaller-image"></center><br>
 
-<div id="barley" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Barley%2C_raw%2C_pearled_nutritional_value.html?size=50+g">Barley</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
+{% include foodCategoryDesc.html category=category descriptions=descriptions %}
 
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["barley-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="50"  
-    nutritionFacts=nF
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat,"
+    | append: "Net Carbs,"
+    | append: "Fiber" 
+    | split: ","
 %}
-<center><img src="/assets/Misc/Nutrition/Grains/barley.png" alt="" class="smaller-image"></center><br>
-
-<div id="brown-rice" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=46+g">Brown Rice</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["brown-rice-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="46"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/brown-rice.png" alt="" class="smaller-image"></center><br>
-
-<div id="buckwheat" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Buckwheat_nutritional_value.html?size=43+g">Buckwheat</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["buckwheat-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="43"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/buckwheat.png" alt="" class="smaller-image"></center><br>
-
-<div id="corn" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Corn%2C_raw%2C_yellow%2C_sweet_nutritional_value.html?size=85+g">Corn</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["corn-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="3 oz" 
-    gram1="85"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/corn.png" alt="" class="smaller-image"></center><br>
-
-<div id="millet" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Millet%2C_raw_nutritional_value.html?size=50+g">Millet</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["millet-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="50"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/millet.png" alt="" class="smaller-image"></center><br>
-
-<div id="oats" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Cereals%2C_dry%2C_not_fortified%2C_regular_and_quick%2C_oats_nutritional_value.html?size=40+g">Oats</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["oats-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="40"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/oats.png" alt="" class="smaller-image"></center><br>
-
-<div id="quinoa" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Quinoa%2C_uncooked_nutritional_value.html?size=43+g">Quinoa</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["quinoa-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="43"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/quinoa.png" alt="" class="smaller-image"></center><br>
-
-<div id="rye" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Rye_grain_nutritional_value.html?size=42+g">Rye</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["rye-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="42"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/rye.png" alt="" class="smaller-image"></center><br>
-
-<div id="spelt" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Spelt%2C_uncooked_nutritional_value.html?size=44+g">Spelt</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["spelt-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="44"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/spelt.png" alt="" class="smaller-image"></center><br>
-
-<div id="vital-wheat-gluten" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nritionvalue.org/Vital_wheat_gluten_nutritional_value.html?size=30+g">Vital Wheat Gluten</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["vital-wheat-gluten-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="30"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/vital-wheat-gluten.png" alt="" class="smaller-image"></center><br>
-
-<div id="white-rice" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Rice%2C_enriched%2C_raw%2C_medium-grain%2C_white_nutritional_value.html?size=49+g">White Rice</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["white-rice-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="49"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/white-rice.png" alt="" class="smaller-image"></center><br>
-
-<div id="white-wheat" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Wheat_flour%2C_unenriched%2C_all-purpose%2C_white_nutritional_value.html?size=31+g">White Wheat</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["white-wheat-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="31"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/white-wheat.png" alt="" class="smaller-image"></center><br>
-
-<div id="wild-rice" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Wild_rice%2C_raw_nutritional_value.html?size=40+g">Wild Rice</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["wild-rice-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="40"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/wild-rice.png" alt="" class="smaller-image"></center><br>
-
-<div id="whole-wheat" class="table-of-contents"></div><br>
-<div class="food-header">
-    <font size="+2"><i><a href="https://www.nutritionvalue.org/Wheat_flour%2C_whole-grain_nutritional_value.html?size=31+g">Whole Wheat</a></i></font>
-    <a href="#contents">Table of Contents</a>
-</div><br>
-
-&emsp;TODO<br><br>
-{% assign nF = site.data.servingSizes["whole-wheat-facts"] %}
-{% 
-    include servingSizeInfo.html
-    vol1="1/4 cup" 
-    gram1="31"  
-    nutritionFacts=nF
-%}
-<center><img src="/assets/Misc/Nutrition/Grains/whole-wheat.png" alt="" class="smaller-image"></center><br>
-
-<div id="compare" class="table-of-contents"></div><br>
-<u><font size="+2">Nutritional Comparison</font></u><br><br>
-
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-        max-width: 100%;
-        table-layout: auto;
-        text-align: center;
-        font-size: 14px;
-    }
-  
-    th, td {
-        text-align: center;
-        white-space: nowrap;
-        word-wrap: break-word;
-    }
-  
-    td:first-child, th:first-child {
-        position: sticky;
-        left: 0;
-        background-color: var(--minima-table-header-bg-color);
-        z-index: 5;
-        font-weight: bold;
-    }
-
-    .table-container {
-        overflow-x: auto; /* Adds horizontal scrolling if needed */
-        max-width: 100%;
-    }
-</style>
-  
-<div class="table-container"><table>
-    <thead>
-        <tr>
-            <th>Nutrient</th>
-            <th><a href="#amaranth">Amaranth</a></th>
-            <th><a href="#barley">Barley</a></th>
-            <th><a href="#brown-rice">Brown<br>Rice</a></th>
-            <th><a href="#buckwheat">Buckwheat</a></th>
-            <th><a href="#corn">Corn</a></th>
-            <th><a href="#millet">Millet</a></th>
-            <th><a href="#oats">Oats</a></th>
-            <th><a href="#quinoa">Quinoa</a></th>
-            <th><a href="#rye">Rye</a></th>
-            <th><a href="#spelt">Spelt</a></th>
-            <th><a href="#vital-wheat-gluten">Vital<br>Wheat<br>Gluten</a></th>
-            <th><a href="#white-rice">White<br>Rice</a></th>
-            <th><a href="#white-wheat">White<br>Wheat</a></th>
-            <th><a href="#wild-rice">Wild<br>Rice</a></th>
-            <th><a href="#whole-wheat">Whole<br>Wheat</a></th>            
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Serving Size</td>
-            <td>48 g</td>
-            <td>50 g</td>
-            <td>46 g</td>
-            <td>43 g</td>
-            <td>85 g</td>
-            <td>50 g</td>
-            <td>40 g</td>
-            <td>43 g</td>
-            <td>42 g</td>
-            <td>44 g</td>
-            <td>30 g</td>
-            <td>49 g</td>
-            <td>31 g</td>
-            <td>40 g</td>
-            <td>31 g</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Calories" %}
-            {% assign rnd = "0" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html facts="amaranth-facts" servingSize="48" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="barley-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="brown-rice-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="buckwheat-facts" servingSize="43" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="corn-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="millet-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="oats-facts" servingSize="40" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="quinoa-facts" servingSize="43" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="rye-facts" servingSize="42" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="spelt-facts" servingSize="44" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="vital-wheat-gluten-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="white-rice-facts" servingSize="49" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="white-wheat-facts" servingSize="31" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="wild-rice-facts" servingSize="40" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="whole-wheat-facts" servingSize="31" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Protein" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html facts="amaranth-facts" servingSize="48" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="barley-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="brown-rice-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="buckwheat-facts" servingSize="43" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="corn-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="millet-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="oats-facts" servingSize="40" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="quinoa-facts" servingSize="43" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="rye-facts" servingSize="42" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="spelt-facts" servingSize="44" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="vital-wheat-gluten-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="white-rice-facts" servingSize="49" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="white-wheat-facts" servingSize="31" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="wild-rice-facts" servingSize="40" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="whole-wheat-facts" servingSize="31" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Net Carbs" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html facts="amaranth-facts" servingSize="48" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="barley-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="brown-rice-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="buckwheat-facts" servingSize="43" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="corn-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="millet-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="oats-facts" servingSize="40" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="quinoa-facts" servingSize="43" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="rye-facts" servingSize="42" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="spelt-facts" servingSize="44" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="vital-wheat-gluten-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="white-rice-facts" servingSize="49" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="white-wheat-facts" servingSize="31" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="wild-rice-facts" servingSize="40" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="whole-wheat-facts" servingSize="31" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Fiber" %}
-            {% assign rnd = "1" %}
-            <td>{{ nutrient }}</td>
-            <td>{% include getNutrient.html facts="amaranth-facts" servingSize="48" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="barley-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="brown-rice-facts" servingSize="46" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="buckwheat-facts" servingSize="43" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="corn-facts" servingSize="85" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="millet-facts" servingSize="50" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="oats-facts" servingSize="40" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="quinoa-facts" servingSize="43" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="rye-facts" servingSize="42" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="spelt-facts" servingSize="44" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="vital-wheat-gluten-facts" servingSize="30" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="white-rice-facts" servingSize="49" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="white-wheat-facts" servingSize="31" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="wild-rice-facts" servingSize="40" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-            <td>{% include getNutrient.html facts="whole-wheat-facts" servingSize="31" nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-        </tr>
-    </tbody>
-</table></div>
-<i>Scroll to the right to read information about every grain</i><br><br>
-
-<center><img src="/assets/Misc/Nutrition/Grains/nutrition-facts-label.png" alt="" class="smaller-image"></center><br>
+{% include foodCategoryTable.html category=category nutrients=nutrients servSize="true" scroll="true" %}
 
 <u><font size="+2">References</font></u><br>
 <ol>

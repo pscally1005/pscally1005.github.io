@@ -55,7 +55,7 @@ tags:
 * <a rel="" target="" href="#flours">Flours</a><br>
 * <a rel="" target="" href="#grains">Grains</a><br>
 * <a rel="" target="" href="#meat">Meat</a><br>
-* <a rel="" target="" href="#milk">Milk</a><br>
+* <a rel="" target="" href="#skim-milk">Milk</a><br>
 * <a rel="" target="" href="#nut-butter">Nut Butter</a><br>
 * <a rel="" target="" href="#nuts-and-seeds">Nuts and Seeds</a><br>
 * <a rel="" target="" href="#sweetener">Sweeteners</a><br>
@@ -332,7 +332,7 @@ tags:
 
 <div id="yogurt" class="table-of-contents-2"></div>
 <i><font size="+2">Yogurt</font></i><br>
-&emsp;Finally, we're on to yogurt.  I pretty much always buy plain nonfat Greek yogurt, but nonfat cottage cheese is a common substitute for me as well.  As with <a rel="" target="" href="#milk">milk</a>, any of the following <a href="/misc/fats">fat</a> percentages can be used interchangeably, with just small differences in taste and <a href="/misc/calories">calories</a>:
+&emsp;Finally, we're on to yogurt.  I pretty much always buy plain nonfat Greek yogurt, but nonfat cottage cheese is a common substitute for me as well.  As with <a rel="" target="" href="#skim-milk">milk</a>, any of the following <a href="/misc/fats">fat</a> percentages can be used interchangeably, with just small differences in taste and <a href="/misc/calories">calories</a>:
 - Plain whole milk Greek yogurt
 - Plain low fat Greek yogurt
 - Plain nonfat Greek yogurt
@@ -342,7 +342,7 @@ tags:
 
 <center><img src="/assets/Misc/Cooking/Substitutions/yogurt.png" alt="" class="smaller-image"><img src="/assets/Misc/Cooking/Substitutions/cow.png" alt="" class="smaller-image"></center><br>
 
-&emsp;As is the case with <a rel="" target="" href="#milk">milk</a>, always make sure to get anything labeled as "plain" or "unsweetened".  Any sort of flavor, like strawberry, vanilla, or peach will all be loaded with added sugars
+&emsp;As is the case with <a rel="" target="" href="#skim-milk">milk</a>, always make sure to get anything labeled as "plain" or "unsweetened".  Any sort of flavor, like strawberry, vanilla, or peach will all be loaded with added sugars
 
 <center><img src="/assets/Misc/Cooking/Substitutions/sugar-free (1).png" alt="" class="smaller-image"><img src="/assets/Misc/Cooking/Substitutions/yogurt (1).png" alt="" class="smaller-image"></center><br>
 

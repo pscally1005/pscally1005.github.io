@@ -5,6 +5,7 @@
 {% assign nutritionFacts = include.nutritionFacts %}
 {% assign img1 = include.img1 %}
 {% assign img2 = include.img2 %}
+{% assign nutrients = include.nutrients %}
 
 <center>
     {% if img1 %}
@@ -23,4 +24,4 @@
 {% endif %}
 <br>
 {% assign mult = gram1 | divided_by: 100.000 | round: 3 %}
-{% include nutrition.html facts=nutritionFacts factor=mult %}
+{% include nutrition.html facts=nutritionFacts factor=mult nutrients=nutrients %}

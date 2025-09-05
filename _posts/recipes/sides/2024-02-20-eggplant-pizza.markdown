@@ -48,7 +48,7 @@ tags:
 - bake
 - oregano
 - melt
-Description: These low <a href="/misc/carbs">carb</a> eggplant Pizzas are perfect little bite sized appetizers to serve to a group. They're really easy to make, just pre roast the eggplant, add toppings, and bake again. I'm keeping it simple here with just a topping of <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>, shredded <a href="/misc/dairy#mozzarella-cheese">mozzarella</a>, and dried oregano, but you can add any other toppings you desire! I'll be making this alongside a <a href="/recipes/pizza">Home Oven Baked Pizza</a> for pizza night in my house for now on
+Description: These low <a href="/misc/carbs">carb</a> eggplant Pizzas are perfect little bite sized appetizers to serve to a group. They're really easy to make, just pre roast the eggplant, add toppings, and bake again. I'm keeping it simple here with just a topping of <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a>, shredded <a href="/misc/dairy#mozzarella">mozzarella</a>, and dried oregano, but you can add any other toppings you desire! I'll be making this alongside a <a href="/recipes/pizza">Home Oven Baked Pizza</a> for pizza night in my house for now on
 Instructions: 
 - Preheat your oven to 425F, and line a baking sheet with parchment paper. Cut your eggplant into 1/2" rounds, and add to the sheet. Season with salt, pepper, and oil, and roast for 15 minutes, until softened and lightly browned.  You may have to cook them in 2 batches
 - <center><img src="/assets/Food/Sides/Eggplant Pizza/raw.jpg" alt="" class="instruction-image"></center>

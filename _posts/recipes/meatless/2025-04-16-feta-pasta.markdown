@@ -48,7 +48,7 @@ tags:
 - chickpea pasta
 - extra virgin olive oil
 - lemon juice
-Description: Yes I know I'm probably 4 years late, but this viral <a href="/misc/dairy#feta-cheese">feta</a> pasta was making rounds all throughout the Internet. It features baked feta cheese and cherry tomatoes, mashed together with cooked pasta to make a creamy Mediterranean pasta dish. This is my take on the recipe, making it a bit healthier than the original. You could make this a more complete meal by mixing in some shredded <a href="/misc/meat#chicken-breast">chicken</a> or roasted broccoli, but today I'm going to keep those on the side and have this dish as is
+Description: Yes I know I'm probably 4 years late, but this viral <a href="/misc/dairy#feta">feta</a> pasta was making rounds all throughout the Internet. It features baked feta cheese and cherry tomatoes, mashed together with cooked pasta to make a creamy Mediterranean pasta dish. This is my take on the recipe, making it a bit healthier than the original. You could make this a more complete meal by mixing in some shredded <a href="/misc/meat#chicken-breast">chicken</a> or roasted broccoli, but today I'm going to keep those on the side and have this dish as is
 Instructions: 
 - Preheat your oven to 350F. Wash your tomatoes, and add to a 9x13" baking dish. Toss with oil, basil, oregano, black pepper, salt, and red pepper flakes.  Place the block of feta in the center, with the tomatoes on the outside
 - <center><img src="/assets/Food/Meatless/Feta pasta/raw.jpg" alt="" class="instruction-image"></center>

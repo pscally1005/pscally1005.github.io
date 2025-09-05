@@ -1,7 +1,9 @@
 {% assign intro = include.intro %}
 {% assign category = include.category %}
+{% assign pic1 = include.pic1 %}
+{% assign pic2 = include.pic2 %}
 
 <u><font size="+2">Introduction</font></u><br>
 {{ intro }}
 {% assign folder = category | capitalize %}
-<center><img src="/assets/Misc/Nutrition/{{ folder }}/fish-1.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/{{ folder }}/fish-2.png" alt="" class="smaller-image"></center><br>
+<center><img src="/assets/Misc/Nutrition/{{ folder }}/{{ pic1 }}.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/{{ folder }}/{{ pic2 }}.png" alt="" class="smaller-image"></center><br>

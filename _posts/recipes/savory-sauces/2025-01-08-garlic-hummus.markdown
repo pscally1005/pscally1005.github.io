@@ -53,7 +53,7 @@ tags:
 - garlic
 - cumin
 - nutritional yeast
-Description: This one is for all you garlic lovers out there. The garlic is roasty, pungent, and sweet. It's "cheesy" from the nutritional yeast, but you can use grated <a href="/misc/dairy#parmesan-cheese">parmesan</a> instead if you like.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
+Description: This one is for all you garlic lovers out there. The garlic is roasty, pungent, and sweet. It's "cheesy" from the nutritional yeast, but you can use grated <a href="/misc/dairy#grated-cheese">parmesan</a> instead if you like.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
 Instructions: 
 - Preheat your oven to 400F. Cut the top off the garlic, lightly spray with oil, and wrap in aluminum foil. Roast for 45 minutes, or until golden and soft.  You can also defrost 2 cubes of <a href="/misc/garlic-paste">frozen garlic paste</a> if you desire instead
 - <center><img src="/assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus-1.jpg" alt="" class="instruction-image"></center>

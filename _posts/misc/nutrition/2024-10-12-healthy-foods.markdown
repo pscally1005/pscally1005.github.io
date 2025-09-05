@@ -28,7 +28,7 @@ tags:
 * <a rel="" target="" href="#coconut">Coconut</a><br>
 * <a rel="" target="" href="#eggs">Eggs</a><br>
 * <a rel="" target="" href="#fish">Fish</a><br>
-* <a rel="" target="" href="#milk">Milk</a><br>
+* <a rel="" target="" href="#skim-milk">Milk</a><br>
 * <a rel="" target="" href="#nuts">Nuts and Seeds</a><br>
 * <a rel="" target="" href="#oats">Oats</a><br>
 * <a rel="" target="" href="#peanut-butter">Peanut Butter</a><br>

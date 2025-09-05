@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I'm Hooked On Fish"
-date:   2025-09-02 00:00:00 -05000
+date:   2025-08-02 00:00:00 -05000
 categories: 
 - Misc.
 - Nutrition
@@ -45,10 +45,12 @@ tags:
 {% assign intro = "
 &emsp;[intro].<br><br>
 
-&emsp;[duction].<br><br>
+&emsp;[duction].<br>
 " %}
 
-{% include foodCategoryIntro.html category=category intro=intro %}
+{% assign pic1 = "fish-1" %}
+{% assign pic2 = "fish-2" %}
+{% include foodCategoryIntro.html category=category intro=intro pic1=pic1 pic2=pic2 %}
 
 {% include foodCategoryPosts.html %}
 
@@ -59,127 +61,127 @@ tags:
 {% assign anchovy = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign clam = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign cod = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign crab = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign cuttlefish = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign haddock = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign halibut = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign herring = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign lobster = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign mackerel = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign mahi-mahi = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign mussel = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign octopus = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign oyster = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign salmon = "
 &emsp;[sal].<br><br>
 
-&emsp;[mon].<br><br>
+&emsp;[mon].<br>
 " %}
 
 {% assign sardine = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign scallop = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign shrimp = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign squid = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign tilapia = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign tuna = "
 &emsp;[para1].<br><br>
 
-&emsp;[para2].<br><br>
+&emsp;[para2].<br>
 " %}
 
 {% assign descriptions = anchovy 
@@ -192,7 +194,7 @@ tags:
     | append: "|" | append: herring 
     | append: "|" | append: lobster 
     | append: "|" | append: mackerel 
-    | append: "|" | append: mahiMahi 
+    | append: "|" | append: mahi-mahi 
     | append: "|" | append: mussel 
     | append: "|" | append: octopus 
     | append: "|" | append: oyster 
