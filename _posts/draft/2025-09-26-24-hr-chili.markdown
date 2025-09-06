@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "24 Hour Chili"
+date:   2025-09-06 00:00:00 -0500
+categories:
+- Recipes
+- Ground Meat
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: yes
+salad: no
+dressing: no
+brownie: no
+cookie: no
+permalink: /recipes/24-hour-chili
+image: /assets/Food/Ground Meat/24 Hour/cover.jpg
+ing: 24hourchili-ing
+facts: 24hourchili-facts
+servingSize:
+section1: Beans
+start2: Ground turkey, 93/7
+section2: Meat
+start3: Extra virgin olive oil
+section3: Veggies & Spices
+start4: Crushed tomatoes
+section4: Cans & Cocoa
+start5: 
+section5: 
+Prep: 480
+Rest: 480
+Cook: 480
+Source1: https://www.poormanprotein.com/recipes/chili
+Source2: https://www.poormanprotein.com/recipes/slow-cooked-beans
+whisk: https://s.samsungfood.com/8gLEL
+tags: 
+- ground beef
+- ground turkey
+- ground meat
+- chili
+- slow cooker
+- crockpot
+- stew
+- chili powder
+- beans
+- kidney beans
+- black beans
+- pinto beans
+- cumin
+- peppers
+- red pepper
+- bell pepper
+- green pepper
+- onion
+- slow cooker chili
+- slow cooker dried beans
+- dry beans
+- fresh beans
+Description: You know those recipes for 100 hour brownies or 72 hour pizza doughs?  Well this recipe is a 24 hour chili. It's just my <a href="/recipes/chili">Slow Cooker Chili</a> recipe, but I'm making the beans from scratch instead of using canned. By following my <a href="/recipes/slow-cooked-beans">Slow Cooker Dried Beans</a> recipe, you can make a chili with unbeatably soft and creamy beans. The total time is long, but the active time is practically the same
+Instructions: 
+- At about 10pm, soak your dried beans in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
+
+- At 6am the next day, discard the soaking liquid. Add your beans to a slow cooker with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours
+
+- At about 1pm, heat a large pan over medium heat. Brown the meat, and cook until no longer pink. Set aside
+
+- As the meat cooks, cut your peppers and onions into a medium dice. When the pan is empty, add olive oil, peppers, onions, chili powder, cumin, and salt. Cover and cook until soft and browned, about 10 minutes. Add the garlic, and cook until fragrant (about 30 seconds). Set aside
+
+- The beans should be done cooking around 2 pm. If you started the meat and veggies around 1pm, you should have them done around the same time
+
+- Combine together your beans, meat, veggies, canned tomatoes, and cocoa powder in the slow cooker
+
+- Cover and cook on low for 8 hours. The chili should be done around 10pm. Divide into 6 containers, refrigerate, and go to bed. You earned it
+- <center><img src="/assets/Food/Ground Meat/24 Hour/crockpot.jpg" alt="" class="instruction-image"></center>
+
+- Note that this recipe is intended for meal prep, as it finishes at 10pm, at not meant to be eaten fresh that night for dinner.  If you would like to have the chili fresh, then you would need to split the process into another day.  Just start the beans whenever in the morning.  8 hours later, when the beans are done, cover the pot with a lid, and refrigerate until the next day.  In the morning, you can put together the rest of the chili, and get it on the slow cooker around 10:30am if you're aiming for a 6:30pm dinner
+---

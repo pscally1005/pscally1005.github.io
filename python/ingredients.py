@@ -13,6 +13,8 @@ def ingredients(food):
         return str("Electrolyte mix")
 
     # Beans
+    elif food == "crockpotbeans":
+        return str("Slow Cooker Dried Beans")
     elif food == "Beans, canned, mature seeds, navy":
         return str("Navy beans, drained and rinsed")
     elif food == "Beans, raw, mature seeds, black":
