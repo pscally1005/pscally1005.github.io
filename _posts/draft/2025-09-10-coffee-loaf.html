@@ -19,8 +19,8 @@ brownie: no
 cookie: no
 permalink: /recipes/coffee-loaf
 image: /assets/Food/Meme/Coffee Loaf/cover.jpg
-ing: coffeeloafww-ing
-facts: coffeeloafww-facts
+ing: coffeeloaf-ing
+facts: coffeeloaf-facts
 servingSize: 1 slice
 section1: Coffee
 start2: Whole wheat flour
@@ -81,6 +81,7 @@ Instructions:
 
 <center><img src="/assets/Food/Meme/Coffee Loaf/coffee.jpg" alt="" class="half-page"><img src="/assets/Food/Meme/Coffee Loaf/espresso.jpg" alt="" class="half-page"></center><br><br>
 
+{% assign folder = "coffee-loaf" %}
 {% assign files = 
     "coffeeloafdecaf," 
     | append: "coffeeloafcaf," 
@@ -103,7 +104,7 @@ Instructions:
     "Caffeine" 
     | split: "," 
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" folder=folder %}
 
 &emsp;If you don't need it gluten free, you can simply use 2 cup (240 g) whole wheat flour. If it needs to be gluten free though, you can replace the whole wheat flour with the following blend of flours:<br>
 <ul>
@@ -137,4 +138,4 @@ Instructions:
     | append: "Sugar Alcohol" 
     | split: "," 
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" folder=folder %}
