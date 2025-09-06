@@ -196,7 +196,8 @@ tags:
     | split: ","
 %}
 {% assign pic = "/assets/Misc/Cooking/Chocolate/nutrition-facts-label.png" %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" %}
+{% assign folder = "chocolate" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" folder=folder %}
 
 <div id="costs" class="table-of-contents-2"></div>
 <u><b><font size="+2">Costs</font></b></u><br><br>
@@ -225,7 +226,7 @@ tags:
             <td>Homemade</td>
             {% for f in files %}
                 {% assign file = f | append: "-ing" %}
-                <td>{% include calcCost.html ing=file folder="chocolate" %}</td>
+                <td>{% include calcCost.html ing=file folder=folder %}</td>
             {% endfor %}
         </tr>
     </tbody>

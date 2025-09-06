@@ -35,6 +35,8 @@ tags:
 - peanut butter
 - sweet potato puree
 ---
+{% assign folder = "healthy-brownies" %}
+
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I've been wanting to experiment with making healthy versions of classic desserts by swapping out ingredients one by one, analyzing the results, and refining the recipe to end up with a healthier dessert that's as similar as possible to the original product.  Today, I'll be tackling brownies, but this will be a 2 part series, with a sister post about chocolate chip cookies.  Be sure to check out <a href="/misc/healthier-cookies-experiment">Making Cookies Healthier</a> when it goes live.<br><br>
 
@@ -50,17 +52,17 @@ tags:
     <li>Processed white flour</li>
 </ul><br>
 
-<center><img src="/assets/Misc/Unhealthy/Brownies/brownies-cover.jpg" alt="" class="instruction-image"></center><br>
+<center><img src="/assets/Misc/Unhealthy/Brownies/cover.jpg" alt="" class="instruction-image"></center><br>
 
 &emsp;For reference, below are the ingredients and nutrition facts for my <a href="/recipes/brownies">Classic Fudgy Brownies</a>.  This is just a standard brownie recipe that I make from time to time, and I figured it would be a good starting place:<br>
 
-{% assign i = site.data.healthy-brownies["brownies-ing"] %}
+{% assign i = site.data[folder]["brownies-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 &emsp;These brownies are delicious, don't get me wrong.  But with 150 <a href="/misc/calories">calories</a>, 15 g of <a href="/misc/hidden-sugar">added sugar</a>, and 8 g of <a href="/misc/fats">fat</a> for a fairly small brownie, these can't be more than a once a holiday treat for me.  How can we bump up these numbers? (or more accurately, bump them down).<br><br>
 
-{% assign nf=site.data.healthy-brownies["brownies-facts"]%}
+{% assign nf=site.data[folder]["brownies-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -74,13 +76,13 @@ tags:
 
 &emsp;As mentioned, the main change was swapping <a href="/misc/hidden-sugar">sugar</a> for allulose.  I also swapped out the coconut oil and white flour for olive oil and whole wheat flour.  I was out of coconut oil at the time, and I figured that for just a tablespoon of oil, it wouldn't really make much of a difference.  And I never carry white flour in my house anyway; my original brownies definitely have whole wheat in them despite the what the ingredients say lol.  Below is the full list of ingredients for batch 1:<br>
 
-{% assign i = site.data.healthy-brownies["browniesallulose-ing"] %}
+{% assign i = site.data[folder]["browniesallulose-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 &emsp;Right off the bat, we knocked out all the <a href="/misc/hidden-sugar">sugar</a> and nearly half the <a href="/misc/calories">calories</a>.  There's still a whole stick of butter, and I'm not wild on the whole wheat flour tbh; we can do better.  But this is a good first step.<br><br>
 
-{% assign nf=site.data.healthy-brownies["browniesallulose-facts"]%}
+{% assign nf=site.data[folder]["browniesallulose-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -134,7 +136,7 @@ tags:
 
 &emsp;That means, we'll need 6 g of sweetener and 5 g of <a href="/misc/fats">fat</a>.  That leaves us with the remaining 6 g being cocoa powder.  If using <a href="/misc/hidden-sugar">sugar</a> as the sweetener and coconut oil as the <a href="/misc/fats">fat</a>, this gets you nearly identical nutrition facts to our original bar.  But I'll be going with allulose here instead of <a href="/misc/hidden-sugar">sugar</a>.  Scaling up to make a full size chocolate bar, we have the following:<br>
 
-{% assign i = site.data.healthy-brownies["allulosechoc-ing"] %}
+{% assign i = site.data[folder]["allulosechoc-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
@@ -142,7 +144,7 @@ tags:
 
 &emsp;This gets us a bar of chocolate weighting 176 g (about 6 oz).  Just melt coconut oil in a bowl, mix in the cocoa and sweetener, and transfer to a <a href="https://www.amazon.com/dp/B0D9J99TW4?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.33LWXAZ203YV4&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.33LWXAZ203YV4_1751469098772">chocolate mold</a> or parchment lined bread pan.  Refrigerate for an hour to harden, and then chop into chunks.<br><br>
 
-{% assign nf=site.data.healthy-brownies["allulosechoc-facts"]%}
+{% assign nf=site.data[folder]["allulosechoc-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -163,7 +165,7 @@ tags:
 
 &emsp;You may be wondering, where is the cocoa powder?  That's a great question; I ran out lmao.  I swapped the cocoa powder for oat flour, and made these into blondies instead.  Everything else is a fairly reasonable substitution.<br>
 
-{% assign i = site.data.healthy-brownies["browniesblonde-ing"] %}
+{% assign i = site.data[folder]["browniesblonde-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
@@ -179,7 +181,7 @@ tags:
 
 &emsp;This batch contained less <a href="/misc/carbs">carbs</a>, more healthy <a href="/misc/fats">fats</a>, and had slightly more <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>.  Because of the chopped chocolate, there's slightly more <a href="/misc/calories">calories</a> than the first batch, but I'll gladly take that tradeoff.  <a href="/misc/fats">Fat</a> and <a href="/misc/calories">calories</a> aren't inherently bad; they depend on the source (nuts > butter).<br><br>
 
-{% assign nf=site.data.healthy-brownies["browniesblonde-facts"]%}
+{% assign nf=site.data[folder]["browniesblonde-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -196,4 +198,6 @@ tags:
 &emsp;My main takeaway from this honestly though is that I can't digest allulose.  Some people are totally fine with it, but other seem to get side effects like an upset stomach, bloating, constipation, nausea, or diarrhea.  I personally fall into the latter, getting bloating and a stomach ache from just 1 brownie, so I personally won't be making these again.<br><br>
 
 <u><font size="+2">Sources</font></u><br>
-1. <a href="https://www.flaticon.com/">Flaticon</a>
+<ol>
+    <li><a href="https://www.flaticon.com/">Flaticon</a></li>
+</ol>

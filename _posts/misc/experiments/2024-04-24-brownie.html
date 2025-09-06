@@ -44,6 +44,8 @@ tags:
 - buttermilk
 - beets
 ---
+{% assign folder = "dh-keto" %}
+
 <b><u><font size="+2">Experimental Overview</font></u></b><br>
 &emsp;Have you ever made boxed brownies, and thought "how can I make this healthier?"  The side of the box typically has some substitutions, like replacing the egg for grated zucchini or the butter for applesauce, but today I wanted to put some common substitutes to the test.  I'll be taking a box of Duncan Hines Keto boxed brownie mix (pictured below), which is both <a href="/misc/hidden-sugar">sugar</a> free and gluten free.  Yes, this test would have been cheaper and easier if I was using a standard box of brownies (it was about $6.50 for the keto box, as opposed to under $2 for the regular).  But what's the point of swapping out the <a href="/misc/fats">fat</a> in the brownies, making them marginally healthier, but still leaving all the <a href="/misc/hidden-sugar">sugar</a>?  That's my main problem with a lot of bean brownie recipes; cool there's no oil, but there's still a cup of <a href="/misc/hidden-sugar">sugar</a>.  No good in my book.
 <br><br>
@@ -93,8 +95,8 @@ box:
 <br>
 &emsp;This is the standard experiment.  In a small bowl goes the brownie mix, water, egg, and melted butter.  The batter was stirred together, and poured into a greased mini muffin tin.  This will be the basis of our experiment, as it will provide a frame of reference for the other 5 trials.
 <br>
-{% assign i=site.data.dh-keto["dhbutter-ing"]%}
-{% assign nf=site.data.dh-keto["dhbutter-facts"]%}
+{% assign i=site.data[folder]["dhbutter-ing"]%}
+{% assign nf=site.data[folder]["dhbutter-facts"]%}
 {% include ingredients.html ing=i %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
@@ -108,8 +110,8 @@ box:
 <br>
 &emsp;Therefore, for the 1/3 egg and 1 tbsp butter, I will need 20.42 + 15.31 = <b>35.73 g</b> unsweetened applesauce.  This batch will get the same <b>13.33 g</b> water as well, like most of the other batches.
 <br><br>
-{% assign i=site.data.dh-keto["dhapplesauce-ing"]%}
-{% assign nf=site.data.dh-keto["dhapplesauce-facts"]%}
+{% assign i=site.data[folder]["dhapplesauce-ing"]%}
+{% assign nf=site.data[folder]["dhapplesauce-facts"]%}
 {% include ingredients.html ing=i %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
@@ -123,8 +125,8 @@ box:
 <br>
 &emsp;Therefore, for the 1/3 egg and 1 tbsp butter, I will need 18.89 + 14.17 = <b>33.06 g</b> plain nonfat greek yogurt.  This batch will get the same <b>13.33 g</b> water as well, like most of the other batches.
 <br><br>
-{% assign i=site.data.dh-keto["dhyogurt-ing"]%}
-{% assign nf=site.data.dh-keto["dhyogurt-facts"]%}
+{% assign i=site.data[folder]["dhyogurt-ing"]%}
+{% assign nf=site.data[folder]["dhyogurt-facts"]%}
 {% include ingredients.html ing=i %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
@@ -140,8 +142,8 @@ box:
 <br><br>
 <center><img src="/assets/Misc/Experiments/Brownies/banana.jpg" alt="" class="instruction-image"></center>
 <br>
-{% assign i=site.data.dh-keto["dhbanana-ing"]%}
-{% assign nf=site.data.dh-keto["dhbanana-facts"]%}
+{% assign i=site.data[folder]["dhbanana-ing"]%}
+{% assign nf=site.data[folder]["dhbanana-facts"]%}
 {% include ingredients.html ing=i %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
@@ -157,8 +159,8 @@ box:
 <br><br>
 <center><img src="/assets/Misc/Experiments/Brownies/sweet-potato.jpg" alt="" class="instruction-image"></center>
 <br>
-{% assign i=site.data.dh-keto["dhsweetpotato-ing"]%}
-{% assign nf=site.data.dh-keto["dhsweetpotato-facts"]%}
+{% assign i=site.data[folder]["dhsweetpotato-ing"]%}
+{% assign nf=site.data[folder]["dhsweetpotato-facts"]%}
 {% include ingredients.html ing=i %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
@@ -170,8 +172,8 @@ box:
 <br><br>
 <center><img src="/assets/Misc/Experiments/Brownies/beans.jpg" alt="" class="instruction-image"></center>
 <br>
-{% assign i=site.data.dh-keto["dhbeans-ing"]%}
-{% assign nf=site.data.dh-keto["dhbeans-facts"]%}
+{% assign i=site.data[folder]["dhbeans-ing"]%}
+{% assign nf=site.data[folder]["dhbeans-facts"]%}
 {% include ingredients.html ing=i %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
@@ -227,12 +229,12 @@ box:
 <br><br>
 &emsp;For a homemade healthy brownie using sweet potatoes, you should check out my <a href="/recipes/sweet-potato-brownies">Sweet Potato Brownies (SF)</a>.  They're homemade instead of from a box, so they avoid a lot of ultra processed ingredients.  They're still gluten free (and this time nut free!), can be make keto by using almond flour instead of oat flour, and are still lower in <a href="/misc/fats">fat</a> and <a href="/misc/hidden-sugar">sugar</a> while still being just as delicious.
 <br><br>
-{% assign i=site.data.dh-keto["dhfinal-ing"]%}
+{% assign i=site.data[folder]["dhfinal-ing"]%}
 {% include ingredients.html ing=i %}
 <br>
 &emsp;Above is the complete ingredients list for a full batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes. You can also use an additional 1/2 cup (127.5 g) mashed sweet potato in replace of the 2 eggs if you like.
 <br><br>
-{% assign nf=site.data.dh-keto["dhfinal-facts"]%}
+{% assign nf=site.data[folder]["dhfinal-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 &emsp;Above are the nutrition facts for <b>16</b> brownies for a standard batch of Duncan Hines Keto Boxed Brownies, made healthier using Sweet Potatoes.  For reference, the standard butter batch of keto brownies cut into <b>16</b> would be <b>130 <a href="/misc/calories">calories</a></b> each with <b>7.4g <a href="/misc/fats">fat</a></b> (with essentially 0g <a href="/misc/hidden-sugar">sugar</a>), whereas standard Duncan Hines brownies cut into <b>16</b> pieces has <b>215 <a href="/misc/calories">calories</a></b> with <b>12g <a href="/misc/fats">fat</a></b> and <b>19g <a href="/misc/hidden-sugar">sugar</a></b>.

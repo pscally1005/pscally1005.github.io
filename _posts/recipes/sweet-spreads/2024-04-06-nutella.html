@@ -64,3 +64,25 @@ Instructions:
 - Here, I used the nutella as a filling in a nutella pie, where I used the crust from my <a href="/recipes/peanut-butter-pie">Peanut Butter Banana Pie</a> recipe, and topped it with pistachios and melted peanut butter
 - <center><img src="/assets/Food/Sweet Spreads/Nutella/pie.jpg" alt="" class="instruction-image"></center>
 ---
+<br>Below is a table comparing the nutrition facts of my homemade spread to standard <a href="https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search">Nutella</a> per 100 g.  As you can see, the homemade version contains significantly fewer <a href="/misc/calories">calories</a>, unhealthy <a href="/misc/fats">fats</a>, and <a href="/misc/hidden-sugar">sugar</a>, while having substantially more <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>:<br><br>
+
+{% assign files = 
+    "nutella100g," 
+    | append: "classicnutella" 
+    | split: "," 
+%}
+{% assign titles = 
+    "Homemade," 
+    | append: "Storebought" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Fiber," 
+    | append: "Added Sugar" 
+    | split: "," 
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" folder="nutella" %}

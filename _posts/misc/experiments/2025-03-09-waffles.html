@@ -22,6 +22,8 @@ tags:
 - mashed banana
 - unsweetened applesauce
 ---
+{% assign folder = "waffle" %}
+
 <div id="intro" class="table-of-contents-2"></div>
 <b><u><font size="+2">Introduction</font></u></b><br>
 &emsp;Lately I've been wanted to make either waffles or pancakes. I stumbled across a two ingredient waffles recipe and was interested. And then I saw another one. And another one. And another.<br><br>
@@ -67,12 +69,12 @@ tags:
 &emsp;Any kind of natural nut or seed butter will work here, like peanut, almond, sunflower seed, or tahini, but today I'm going with pistachio butter.  Pistachio butter is just what I had on hand at the time.  Just use something with only nuts and salt, no hydrogenated oils, <a href="/misc/hidden-sugar">sugar</a>, or preservatives.<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.waffle["wafflepb-ing"] %}
+{% assign i = site.data[folder]["wafflepb-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.waffle["wafflepb-facts"] %}
+{% assign nf = site.data[folder]["wafflepb-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href="https://beautyandthefoodie.com/two-ingredient-keto-waffles/">Beauty and the Foodie</a><br><br>
@@ -86,12 +88,12 @@ tags:
 &emsp;Despite being higher in <a href="/misc/fats">fat</a> than the next three recipes, these have about the same <a href="/misc/calories">calories</a>, since they are significantly lower in <a href="/misc/carbs">carbs</a>. I'm the most excited about these ones actually, since odd recipes tend to peak my interest.  But can I still put syrup on it, or should I be spreading hummus on it instead?<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.waffle["wafflecheese-ing"] %}
+{% assign i = site.data[folder]["wafflecheese-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.waffle["wafflecheese-facts"] %}
+{% assign nf = site.data[folder]["wafflecheese-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href="https://thereislifeafterwheat.com/2023/01/2-ingredient-keto-chaffle-recipe-cheese-waffles/#mv-creation-150-jtr">Life After Wheat</a><br><br>
@@ -105,12 +107,12 @@ tags:
 &emsp;They're the second lowest in <a href="/misc/calories">calories</a>, tied for the lowest in <a href="/misc/fats">fat</a> with <a rel="" target="" href="#sweet-potato">sweet potato</a> and <a rel="" target="" href="#applesauce">applesauce</a>, and contain the most <a href="/misc/carbs">carbs</a> and <a href="/misc/hidden-sugar">sugar</a> of the six batches.  I'm thinking that either banana or <a rel="" target="" href="#sweet-potato">sweet potato</a> will taste the best.<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.waffle["wafflebanana-ing"] %}
+{% assign i = site.data[folder]["wafflebanana-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.waffle["wafflebanana-facts"] %}
+{% assign nf = site.data[folder]["wafflebanana-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href="https://www.thekitchn.com/how-to-make-2-ingredient-banana-pancakes-cooking-lessons-from-the-kitchn-218658#post-recipe-10434">The Kitchn</a><br><br>
@@ -124,12 +126,12 @@ tags:
 &emsp;Sweet potatoes actually have more <a href="/misc/potassium">potassium</a> that <a rel="" target="" href="#banana">bananas</a>, plus more micronutrients as well. But this recipe is less convenient, as you need to already have a roasted sweet potato.  My guess is that either sweet potato or <a rel="" target="" href="#banana">banana</a> will taste the best.<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.waffle["waffleswpot-ing"] %}
+{% assign i = site.data[folder]["waffleswpot-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.waffle["waffleswpot-facts"] %}
+{% assign nf = site.data[folder]["waffleswpot-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href="https://themodernnonna.com/2-ingredient-pancakes/#wprm-recipe-container-49123">The Modern Nonna</a><br><br>
@@ -145,12 +147,12 @@ tags:
 &emsp;However, they're the easiest to make.  No waiting for <a rel="" target="" href="#banana">bananas</a> to get ripe, prepping a <a rel="" target="" href="#sweet-potato">sweet potato</a> ahead of time, or blending up a <a rel="" target="" href="#nut-butter">nut butter</a>.  Just measure from the jar in the fridge.<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.waffle["waffleapplesauce-ing"] %}
+{% assign i = site.data[folder]["waffleapplesauce-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.waffle["waffleapplesauce-facts"] %}
+{% assign nf = site.data[folder]["waffleapplesauce-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -161,12 +163,12 @@ tags:
 &emsp;Finally, we have waffles with plain nonfat Greek yogurt. These are the second lowest in <a href="/misc/calories">calories</a>, with only the <a rel="" target="" href="#applesauce">applesauce waffles</a> having less.  More imporantly, these Greek yogurt waffles are the highest in <a href="/misc/protein">protein</a>; 24 g for just 215 <a href="/misc/calories">calories</a>.  With zero <a href="/misc/protein">protein</a> powder, these high <a href="/misc/protein">protein</a> waffles are also a great source of healthy <a href="/misc/fats">fats</a> and micronutrients, from choline to <a href="/misc/nutrient-alphabet#D">vitamin D</a> to <a href="/misc/nutrient-alphabet#S">selenium</a>.<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.waffle["waffleyogurt-ing"] %}
+{% assign i = site.data[folder]["waffleyogurt-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.waffle["waffleyogurt-facts"] %}
+{% assign nf = site.data[folder]["waffleyogurt-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -185,12 +187,11 @@ tags:
 <div id="cook" class="table-of-contents-2"></div>
 <b><u><font size="+2">Cooking</font></u></b><br>
 <ol>
-    <li>All six batches of the waffles cook identically.  Start by preheating your waffle iron over medium high heat with a spray of oil on each side.  Let preheat for at least 10 minutes.  You need it super hot, or the waffles won't cook correctly.</li>
-    <br>
-    <li>Mix together the eggs and other ingredient in a small bowl until smooth.  For the banana and sweet potato, mash them with a fork before adding in the eggs.  For the nut butter, microwave it for about 30 seconds to melt it before whisking with the eggs.</li>
-    <br>
-    <li>Pour the batter into the pan, and cook for about 3-4 minutes, or until browned to your liking.  Transfer to a wire rack to cool.  Make sure to spray the waffle iron with oil between making each waffle if you're making multiple.</li>
-    <br>
+    <li>All six batches of the waffles cook identically.  Start by preheating your waffle iron over medium high heat with a spray of oil on each side.  Let preheat for at least 10 minutes.  You need it super hot, or the waffles won't cook correctly.</li><br>
+
+    <li>Mix together the eggs and other ingredient in a small bowl until smooth.  For the banana and sweet potato, mash them with a fork before adding in the eggs.  For the nut butter, microwave it for about 30 seconds to melt it before whisking with the eggs.</li><br>
+
+    <li>Pour the batter into the pan, and cook for about 3-4 minutes, or until browned to your liking.  Transfer to a wire rack to cool.  Make sure to spray the waffle iron with oil between making each waffle if you're making multiple.</li><br>
 </ol>
 
 <center><img src="/assets/Misc/Experiments/Waffles/all.jpg" alt="" class="instruction-image"></center><br>
@@ -254,118 +255,35 @@ tags:
 <div id="compare" class="table-of-contents-2"></div>
 <b><u><font size="+2">Nutritional Comparison</font></u></b><br><br>
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-        max-width: 100%;
-        table-layout: auto;
-        text-align: center;
-    }
-  
-    th, td {
-        text-align: center;
-        white-space: nowrap;
-        word-wrap: break-word;
-    }
-  
-    td:first-child, th:first-child {
-        position: sticky;
-        left: 0;
-        background-color: var(--minima-table-header-bg-color);
-        z-index: 5;
-        font-weight: bold;
-    }
-
-    .table-container {
-        overflow-x: auto; /* Adds horizontal scrolling if needed */
-        max-width: 100%;
-    }
-</style>
-
-<center><table class="table-container">
-    <thead>
-      <tr>
-        <th>Nutrient</th>
-        <th><a rel="" target="" href="#nut-butter">PB</th>
-        <th><a rel="" target="" href="#chaffle">Cheese</a></th>
-        <th><a rel="" target="" href="#banana">Banana</a></th>
-        <th><a rel="" target="" href="#sweet-potato">Sweet<br>Potato</a></th>
-        <th><a rel="" target="" href="#applesauce">Applesauce</a></th>
-        <th><a rel="" target="" href="#yogurt">Yogurt</a></th>
-      </tr>
-    </thead>
-    <tbody>
-        <tr>
-            {% assign nutrient = "Calories" %}
-            {% assign rnd = "0" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="wafflepb-ing" facts="wafflepb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflecheese-ing" facts="wafflecheese-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflebanana-ing" facts="wafflebanana-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleswpot-ing" facts="waffleswpot-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleapplesauce-ing" facts="waffleapplesauce-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleyogurt-ing" facts="waffleyogurt-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Protein" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="wafflepb-ing" facts="wafflepb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflecheese-ing" facts="wafflecheese-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflebanana-ing" facts="wafflebanana-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleswpot-ing" facts="waffleswpot-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleapplesauce-ing" facts="waffleapplesauce-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleyogurt-ing" facts="waffleyogurt-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Fat" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="wafflepb-ing" facts="wafflepb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflecheese-ing" facts="wafflecheese-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflebanana-ing" facts="wafflebanana-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleswpot-ing" facts="waffleswpot-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleapplesauce-ing" facts="waffleapplesauce-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleyogurt-ing" facts="waffleyogurt-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Net Carbs" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="wafflepb-ing" facts="wafflepb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflecheese-ing" facts="wafflecheese-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflebanana-ing" facts="wafflebanana-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleswpot-ing" facts="waffleswpot-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleapplesauce-ing" facts="waffleapplesauce-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleyogurt-ing" facts="waffleyogurt-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Fiber" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="wafflepb-ing" facts="wafflepb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflecheese-ing" facts="wafflecheese-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflebanana-ing" facts="wafflebanana-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleswpot-ing" facts="waffleswpot-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleapplesauce-ing" facts="waffleapplesauce-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleyogurt-ing" facts="waffleyogurt-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Sugar" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="wafflepb-ing" facts="wafflepb-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflecheese-ing" facts="wafflecheese-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="wafflebanana-ing" facts="wafflebanana-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleswpot-ing" facts="waffleswpot-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleapplesauce-ing" facts="waffleapplesauce-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="waffleyogurt-ing" facts="waffleyogurt-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-    </tbody>
-</table></center>
-
-<center><img src="/assets/Misc/Experiments/Waffles/nutrition-facts-label.png" alt="" class="smaller-image"></center><br>
+{% assign files = 
+    "wafflepb," 
+    | append: "wafflecheese," 
+    | append: "wafflebanana," 
+    | append: "waffleswpot," 
+    | append: "waffleapplesauce," 
+    | append: "waffleyogurt" 
+    | split: "," 
+%}
+{% assign titles = 
+    "<a href='#nut-butter'>PB</a>," 
+    | append: "<a href='#chaffle'>Cheese</a>," 
+    | append: "<a href='#banana'>Banana</a>," 
+    | append: "<a href='#sweet-potato'>Sweet<br>Potato</a>," 
+    | append: "<a href='#applesauce'>Applesauce</a>," 
+    | append: "<a href='#yogurt'>Yogurt</a>" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Carbs," 
+    | append: "Fiber," 
+    | append: "Sugar" 
+    | split: ","
+%}
+{% assign pic = "/assets/Misc/Experiments/Waffles/nutrition-facts-label.png" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" folder=folder %}
 
 <div id="variations" class="table-of-contents-2"></div>
 <b><u><font size="+2">Variations</font></u></b><br>

@@ -9,25 +9,10 @@
 <!-- Loop variables -->
 {% assign loopVarFacts = site.data.servingSizes[facts] %}
 {% assign loopVarIng = site.data.servingSizes[ing] %}
-
-{% if page.title == "Copycat Barebell Protein Bars" %}
-    {% assign loopVarFacts = site.data.barbell[facts] %}
-    {% assign loopVarIng = site.data.barbell[ing] %}
-{% elsif page.title == "Improving the Pinto Bean Cake" %}
-    {% assign loopVarFacts = site.data.bean-cake[facts] %}
-    {% assign loopVarIng = site.data.bean-cake[ing] %}
-{% elsif page.title == "___ + Eggs = Waffles??" %}
-    {% assign loopVarFacts = site.data.waffle[facts] %}
-    {% assign loopVarIng = site.data.waffle[ing] %}
-{% elsif page.title == "DIY Yogurt" %}
-    {% assign loopVarFacts = site.data.diy-yogurt[facts] %}
-    {% assign loopVarIng = site.data.diy-yogurt[ing] %}
-{% elsif page.title == "Cottage Cheese Flatbread" %}
-    {% assign loopVarFacts = site.data.cc-flatbread[facts] %}
-    {% assign loopVarIng = site.data.cc-flatbread[ing] %}
-{% elsif page.title == "Make Your Own Dark Chocolate" %}
-    {% assign loopVarFacts = site.data.chocolate[facts] %}
-    {% assign loopVarIng = site.data.chocolate[ing] %}
+{% if include.folder %}
+    {% assign folder = include.folder %}
+    {% assign loopVarFacts = site.data[folder][facts] %}
+    {% assign loopVarIng = site.data[folder][ing] %}
 {% elsif page.categories.first == "Recipes" %}
     {% assign loopVarFacts = site.data[facts] %}
     {% assign loopVarIng = site.data[ing] %}

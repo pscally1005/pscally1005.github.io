@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Chicken Fat Chocolate Chip Cookies"
-date:   2025-08-20 00:00:00 -05000
+date:   2025-09-06 00:00:00 -05000
 categories: 
 - Misc.
 - Unhealthy Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

@@ -28,6 +28,8 @@ tags:
 - gluten free
 - allulose
 ---
+{% assign folder = "healthy-cookies" %}
+
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I've been wanting to experiment with making healthy versions of classic desserts by swapping out ingredients one by one, analyzing the results, and refining the recipe to end up with a healthier dessert that's as similar as possible to the original product.  Today, I'll be tackling chocolate chip cookies, but this will be a 2 part series, with a sister post about brownies.  Be sure to check out <a href="/misc/healthier-brownies-experiment">Making Brownies Healthier</a> when it goes live.<br><br>
 
@@ -47,13 +49,13 @@ tags:
 
 &emsp;For reference, below are the ingredients and nutrition facts for my <a href="/recipes/chocolate-chip-cookies">Classic Chocolate Chip Cookies</a>.  This is just a standard cookie recipe that I make from time to time, and I figured it would be a good starting place:<br>
 
-{% assign i = site.data.healthy-cookies["cookies-ing"] %}
+{% assign i = site.data[folder]["cookies-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 &emsp;These cookies are delicious, don't get me wrong.  But with 110 <a href="/misc/calories">calories</a> and 10 g of <a href="/misc/hidden-sugar">added sugar</a> for a fairly small cookie, these can't be more than a once a holiday treat for me.  How can we bump up these numbers? (or more accurately, bump them down).<br><br>
 
-{% assign nf=site.data.healthy-cookies["cookies-facts"]%}
+{% assign nf=site.data[folder]["cookies-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -66,13 +68,13 @@ tags:
 
 &emsp;As mentioned, the main change was swapping <a href="/misc/hidden-sugar">sugar</a> for allulose.  I also swapped out the molasses and white flour for honey and whole wheat flour.  I don't normally have molasses or white flour in my house; I do this swap all the time in standard cookies.  Below is the full list of ingredients for batch 1:<br>
 
-{% assign i = site.data.healthy-cookies["cookiesallulose-ing"] %}
+{% assign i = site.data[folder]["cookiesallulose-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 &emsp;Right off the bat, we knocked out most of the <a href="/misc/hidden-sugar">sugar</a> and nearly a quarter the <a href="/misc/calories">calories</a>  These cookies are not <a href="/misc/hidden-sugar">sugar</a> free through; they still use honey and semi-sweet chocolate chips.  There's also still a whole stick of butter, and I'm not wild on the whole wheat flour tbh; we can do better.  But this is a good first step.<br><br>
 
-{% assign nf=site.data.healthy-cookies["cookiesallulose-facts"]%}
+{% assign nf=site.data[folder]["cookiesallulose-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -138,7 +140,7 @@ tags:
 
 &emsp;That means, we'll need 6 g of sweetener and 5 g of <a href="/misc/fats">fat</a>.  That leaves us with the remaining 6 g being cocoa powder.  If using <a href="/misc/hidden-sugar">sugar</a> as the sweetener and coconut oil as the <a href="/misc/fats">fat</a>, this gets you nearly identical nutrition facts to our original bar.  But I'll be going with allulose here instead of <a href="/misc/hidden-sugar">sugar</a>.  Scaling up to make a full size chocolate bar, we have the following:<br>
 
-{% assign i = site.data.healthy-cookies["allulosechoc-ing"] %}
+{% assign i = site.data[folder]["allulosechoc-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
@@ -146,7 +148,7 @@ tags:
 
 &emsp;This gets us a bar of chocolate weighting 176 g (about 6 oz).  Just melt coconut oil in a bowl, mix in the cocoa and sweetener, and transfer to a <a href="https://www.amazon.com/dp/B0D9J99TW4?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.33LWXAZ203YV4&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.33LWXAZ203YV4_1751469098772">chocolate mold</a> or parchment lined bread pan.  Refrigerate for an hour to harden, and then chop into chunks.<br><br>
 
-{% assign nf=site.data.healthy-cookies["allulosechoc-facts"]%}
+{% assign nf=site.data[folder]["allulosechoc-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -171,7 +173,7 @@ tags:
 
 &emsp;Peanut butter lowers the <a href="/misc/fats">fat</a>, adds <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, and is just an overall much healthier ingredient than butter.  Optionally, add 1/2 tsp (2.5 g) butter extract to make up for the lack of butter flavor.  Besides this, the other main changes were swapping whole wheat for oat flour, and using homemade chocolate instead of storebought chips.  Here's the full recipe:<br>
 
-{% assign i = site.data.healthy-cookies["cookiesallulose2-ing"] %}
+{% assign i = site.data[folder]["cookiesallulose2-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
@@ -184,7 +186,7 @@ tags:
 
 &emsp;Honestly, these were mediocre at best.  They were crunchy, not soft, and not sweet.  The butter extract didn't do anything, and I would have been better off with sugar free chocolate chips than homemade allulose chocolate.  The one good thing I'll say is that oat flour is a better alternative to white flour in cookies than whole wheat flour.  It absorbs more water (meaning you'll need less of it), and it has a more mild flavor that doesn't distract from the cookies.<br><br>
 
-{% assign nf=site.data.healthy-cookies["cookiesallulose2-facts"]%}
+{% assign nf=site.data[folder]["cookiesallulose2-facts"]%}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -201,4 +203,6 @@ tags:
 &emsp;My main takeaway from this honestly though is that I can't digest allulose.  Some people are totally fine with it, but other seem to get side effects like an upset stomach, bloating, constipation, nausea, or diarrhea.  I personally fall into the latter, getting bloating and a stomach ache from just 1 cookie, so I personally won't be making these again.<br><br>
 
 <u><font size="+2">Sources</font></u><br>
-1. <a href="https://www.flaticon.com/">Flaticon</a>
+<ol>
+    <li><a href="https://www.flaticon.com/">Flaticon</a></li>
+</ol>

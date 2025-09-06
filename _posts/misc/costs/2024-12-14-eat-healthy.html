@@ -17,6 +17,8 @@ tags:
 - cheap
 - expensive
 ---
+{% assign folder = "eat-healthy" %}
+
 <u><b><font size="+2">Contents</font></b></u><br>
 <ul>
   <li><a href="/misc/not-expensive-to-eat-healthy#introduction">Introduction</a></li>
@@ -230,7 +232,7 @@ tags:
               </ul>
       </ul>
 
-      <br><center><a href="/recipes/oats-berry"><img src="/assets/Food/Breakfast/Oatmeal/oats-berry.jpg" alt="" class="third-page"></a><a href="/recipes/peanut-chicken-chili"><img src="/assets/Food/Chicken/Peanut Chili/peanut-chili-cover.jpg" alt="" class="third-page"></a><a href="/recipes/bbq-meatloaf"><img src="/assets/Food/Ground Meat/BBQ Meatloaf/cover.jpg" alt="" class="third-page"></a></center><br>
+      <br><center><a href="/recipes/oats-berry"><img src="/assets/Food/Breakfast/Oatmeal/oats-berry.jpg" alt="" class="third-page"></a><a href="/recipes/low-fodmap-chili"><img src="/assets/Food/Ground Meat/Low FODMAP Chili/cover.jpg" alt="" class="third-page"></a><a href="/recipes/bbq-meatloaf"><img src="/assets/Food/Ground Meat/BBQ Meatloaf/cover.jpg" alt="" class="third-page"></a></center><br>
 
   <li><b>Thursday</b></li>
       <ul>
@@ -404,8 +406,14 @@ tags:
       {% for nutrient in nutrients %}
       <tr>
         <td class="bold-column">
-          {% if nutrient == "Fat" or nutrient == "Protein" or nutrient == "Fiber" %}
-            {{ nutrient }} (g)
+          {% if nutrient == "Calories" %}
+            <a href="/misc/calories">Calories</a>
+          {% elsif nutrient == "Fat" %}
+            <a href="/misc/fats">Fat</a> (g)
+          {% elsif nutrient == "Protein" %}
+            <a href="/misc/protein">Protein</a> (g)
+          {% elsif nutrient == "Fiber" %}
+            <a href="/misc/fiber">Fiber</a> (g)
           {% elsif nutrient == "Carbohydrate" %}
             <a href="/misc/carbs">Carbs</a> (g)
           {% else %}
@@ -415,7 +423,7 @@ tags:
         {% assign total = 0 %}
         {% for i in (1..7) %}
           {% assign file = "healthyday" | append: i | append: "-facts" %}
-          {% assign csv_file = site.data.eat-healthy[file] %}
+          {% assign csv_file = site.data[folder][file] %}
           {% assign row = csv_file | where: "Nutrient", nutrient | first %}
           <td class="{% if nutrient == 'Calories' %}calorie-healthy-value{% endif %}">
             {% if row %}
@@ -797,8 +805,14 @@ tags:
       {% for nutrient in nutrients %}
       <tr>
         <td class="bold-column">
-          {% if nutrient == "Fat" or nutrient == "Protein" or nutrient == "Fiber" %}
-            {{ nutrient }} (g)
+          {% if nutrient == "Calories" %}
+            <a href="/misc/calories">Calories</a>
+          {% elsif nutrient == "Fat" %}
+            <a href="/misc/fats">Fat</a> (g)
+          {% elsif nutrient == "Protein" %}
+            <a href="/misc/protein">Protein</a> (g)
+          {% elsif nutrient == "Fiber" %}
+            <a href="/misc/fiber">Fiber</a> (g)
           {% elsif nutrient == "Carbohydrate" %}
             <a href="/misc/carbs">Carbs</a> (g)
           {% else %}
@@ -808,7 +822,7 @@ tags:
         {% assign total = 0 %}
         {% for i in (1..7) %}
           {% assign file = "sadday" | append: i | append: "-facts" %}
-          {% assign csv_file = site.data.eat-healthy[file] %}
+          {% assign csv_file = site.data[folder][file] %}
           {% assign row = csv_file | where: "Nutrient", nutrient | first %}
           <td class="{% if nutrient == 'Calories' %}calorie-sad-value{% endif %}">
             {% if row %}
@@ -947,7 +961,7 @@ tags:
   <tbody>
 
     <tr>
-      <td><b>Calories</b></td>
+      <td><b><a href="/misc/calories">Calories</a></b></td>
       <td>{{ healthy_cal | slice: 0, 1 }}{{ "," }}{{ healthy_cal | slice: 1, 3 }}</td>
       <td>{{ sad_cal | slice: 0, 1 }}{{ "," }}{{ sad_cal | slice: 1, 3 }}</td>
     </tr>
@@ -965,7 +979,7 @@ tags:
     </tr>
 
     <tr>
-      <td><b>Carbs (g)</b></td>
+      <td><b><a href="/misc/carbs">Carbs</a> (g)</b></td>
       <td>{{healthy_carbs}}</td>
       <td>{{sad_carbs}}</td>
     </tr>

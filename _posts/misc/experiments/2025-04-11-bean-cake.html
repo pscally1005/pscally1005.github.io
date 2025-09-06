@@ -24,6 +24,8 @@ tags:
 - vanilla extract
 - eggs
 ---
+{% assign folder = "bean-cake" %}
+
 <div id="intro" class="table-of-contents-2"></div>
 <b><u><font size="+2">Introduction</font></u></b><br>
 &emsp;I'm not sure if you've seen this <a href="https://youtu.be/mbob-hscO6Y?si=MAwQ_Py8t0GjyjB0">pinto bean cake</a> recipe.  It's courtesy of Dylan Hollis, and is a hilarious short of a surprisingly delicious cake made out of pinto beans.  It's not attempting to be a healthy cake, but it ends up being "healthy-ish", with no refined flour or <a href="/misc/hidden-sugar">sugar</a>.  So today, I want to make the original, and see if I can improve it, making it both tastier and healthier.<br><br>
@@ -50,12 +52,12 @@ tags:
 &emsp;This is the original recipe.  The only thing I've changed is that I halved the recipe, meaning it took less time to bake.  Other than that, this is exactly as called for in the original.<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.bean-cake["beancakev1-ing"] %}
+{% assign i = site.data[folder]["beancakev1-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.bean-cake["beancakev1-facts"] %}
+{% assign nf = site.data[folder]["beancakev1-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href="https://youtu.be/mbob-hscO6Y?si=MAwQ_Py8t0GjyjB0">Youtube: Dylan Hollis</a><br><br>
@@ -67,12 +69,12 @@ tags:
 &emsp;In place of melted butter and honey, I used unsweetened applesauce and <a href="/recipes/sugar-free-syrup">sugar free syrup</a>.  Doing so slashes the <a href="/misc/calories">calories</a>, <a href="/misc/fats">fat</a>, and <a href="/misc/hidden-sugar">sugar</a>, while still keeping the same sweetness and moistness.  I also wanted some extra flavoriing in this cake, so I added some vanilla extract, cinnamon, and salt.  Additionally, I doubled the baking powder from 1 tsp to 2; I figured the lack of butter may somehow impede the rise of the cake.<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.bean-cake["beancakev2-ing"] %}
+{% assign i = site.data[folder]["beancakev2-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.bean-cake["beancakev2-facts"] %}
+{% assign nf = site.data[folder]["beancakev2-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <br><center><img src="/assets/Misc/Experiments/Bean Cake/v2-1.jpg" alt="" class="instruction-image"></center><br>
@@ -84,12 +86,12 @@ tags:
 &emsp;Secondly, I would like to drop the <a href="/misc/fats">fat</a> and up the <a href="/misc/protein">protein</a>, so I'm swapping the ground peanuts for powdered peanut butter.  As mentioned, I increased the applesauce; up from 1/4 cup (60 g) to 1 cup (240 g), due to the reduction in beans and removal of eggs.  Not only does applesauce function as an egg substitute, but it will also provide some mild sweetness.<br><br>
 
 <u><font size="+2">Ingredients</font></u><br>
-{% assign i = site.data.bean-cake["beancakev3-ing"] %}
+{% assign i = site.data[folder]["beancakev3-ing"] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size="+2">Nutrition Facts</font></u><br>
-{% assign nf = site.data.bean-cake["beancakev3-facts"] %}
+{% assign nf = site.data[folder]["beancakev3-facts"] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <br><center><img src="/assets/Misc/Experiments/Bean Cake/v3-1.jpg" alt="" class="instruction-image"></center><br>
@@ -152,97 +154,34 @@ tags:
 
 <center><img src="/assets/Misc/Experiments/Bean Cake/ab-testing.png" alt="" class="smaller-image"></center><br>
 
-<style>
-    table {
-        border-collapse: collapse;
-        table-layout: auto; /* Let columns size themselves */
-        max-width: 100%;     /* Don't exceed the page width */
-        text-align: center;
-        margin: 0 auto;      /* Center table horizontally if it's narrower than container */
-        overflow-x: auto; /* Enables scrolling if needed */
-        width: fit-content; /* Shrinks container to fit the table */
-        font-size: 15px;
-    }
-
-    tbody td:first-child {
-        width: 30px;
-        max-width: 30px;
-    }
-</style>
-
 
 <div id="nutritional-comparison" class="table-of-contents-2"></div>
 <b><u><font size="+2">Nutritional Comparison</font></u></b><br><br>
-<center><table>
-    <thead>
-      <tr>
-        <th>Nutrient</th>
-        <th>v1</th>
-        <th>v2</th>
-        <th>v3</th>
-      </tr>
-    </thead>
-    <tbody>
-        <tr>
-            {% assign nutrient = "Calories" %}
-            {% assign rnd = "0" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="beancakev1-ing" facts="beancakev1-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev2-ing" facts="beancakev2-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev3-ing" facts="beancakev3-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Protein" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="beancakev1-ing" facts="beancakev1-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev2-ing" facts="beancakev2-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev3-ing" facts="beancakev3-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Fat" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="beancakev1-ing" facts="beancakev1-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev2-ing" facts="beancakev2-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev3-ing" facts="beancakev3-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Net Carbs" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="beancakev1-ing" facts="beancakev1-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev2-ing" facts="beancakev2-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev3-ing" facts="beancakev3-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Fiber" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="beancakev1-ing" facts="beancakev1-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev2-ing" facts="beancakev2-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev3-ing" facts="beancakev3-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Added Sugar" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="beancakev1-ing" facts="beancakev1-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev2-ing" facts="beancakev2-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev3-ing" facts="beancakev3-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-        <tr>
-            {% assign nutrient = "Sugar Alcohol" %}
-            {% assign rnd = "1" %}
-            <td><b>{{ nutrient }}</b></td>
-            <td>{% include getNutrient.html ing="beancakev1-ing" facts="beancakev1-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev2-ing" facts="beancakev2-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            <td>{% include getNutrient.html ing="beancakev3-ing" facts="beancakev3-facts" servingSize="100" nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-        </tr>
-    </tbody>
-</table></center>
 
-<br><center><img src="/assets/Misc/Experiments/Bean Cake/nutrition-facts-label.png" alt="" class="smaller-image"></center><br>
+{% assign files = 
+    "beancakev1," 
+    | append: "beancakev2," 
+    | append: "beancakev3" 
+    | split: "," 
+%}
+{% assign titles = 
+    "<a href='#v1'>v1</a>," 
+    | append: "<a href='#v2'>v2</a>," 
+    | append: "<a href='#v3'>v3</a>" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Fiber," 
+    | append: "Added Sugar,"
+    | append: "Sugar Alcohol" 
+    | split: ","
+%}
+{% assign pic = "/assets/Misc/Experiments/Bean Cake/nutrition-facts-label.png" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" folder=folder %}
 
 <div id="conclusion" class="table-of-contents-2"></div>
 <b><u><font size="+2">Conclusion</font></u></b><br>
