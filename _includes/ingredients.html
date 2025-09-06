@@ -13,19 +13,7 @@
     page.categories[0] == "Misc." and 
     page.categories[1] != "Unhealthy Recipes"
 %}
-    {% if 
-        page.title == "Cheese and Whey - A Failed Experiment" or
-        page.title == "Water Absorption of Different Flours" or
-        page.title == "Sweet Potato Boxed Brownies" or
-        page.title == "Fat Replacements in Boxed Brownies" or
-        page.title == "Making Brownies Healthier" or
-        page.title == "Making Cookies Healthier" or
-        page.title == "Homemade Bone Broth + Veggie Soup" or
-        page.title == "___ + Eggs = Waffles??" or
-        page.title == "Improving the Pinto Bean Cake"
-    %}
-        {% assign recipe = "false" %}
-    {% endif %}
+    {% assign recipe = "false" %}
 {% endif %}
 {% if page.title == "Food/Nutrition Meme Dump" %}
     {% assign recipe = "false" %}
