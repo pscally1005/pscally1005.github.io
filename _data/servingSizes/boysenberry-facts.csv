@@ -1,0 +1,70 @@
+Nutrient,Amount,Unit,DV
+Calories,66,,
+"Vitamin A, RAE",3.96,mcg,0 %
+"Carotene, alpha",0.00,mcg,
+"Carotene, beta",52.80,mcg,
+"Cryptoxanthin, beta",0.00,mcg,
+"Lutein + zeaxanthin",155.76,mcg,
+"Lycopene",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.070,mg,6 %
+"Riboflavin [Vitamin B2]",0.049,mg,4 %
+"Niacin [Vitamin B3]",1.012,mg,6 %
+"Pantothenic acid [Vitamin B5]",0.330,mg,7 %
+"Vitamin B6",0.074,mg,4 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Vitamin B12, added",0.00,mcg,
+"Folate, DFE [Vitamin B9]",83.16,mcg,21 %
+"Folate, food",83.16,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",4.1,mg,5 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",1.15,mg,8 %
+"Vitamin E, added",0.00,mg,
+"Tocopherol, alpha",1.15,mg,
+"Vitamin K",10.3,mcg,9 %
+"Vitamin K1 [Phylloquinone]",10.3,mcg,
+"Choline",13.5,mg,2 %
+"Calcium",35.64,mg,3 %
+"Copper",0.11,mg,12 %
+"Iron",1.12,mg,6 %
+"Magnesium",21.12,mg,5 %
+"Manganese",0.722,mg,31 %
+"Phosphorus",35.64,mg,3 %
+"Potassium",183.48,mg,4 %
+"Selenium",0.26,mcg,0 %
+"Sodium",1.32,mg,0 %
+"Zinc",0.29,mg,3 %
+"Protein",1.45,g,3 %
+"Carbohydrate",16.09,g,6 %
+"Fiber",7.00,g,25 %
+"Sugars",9.09,g,
+"Net carbs",9.09,g,
+"Fat",0.343,g,0 %
+"Saturated fatty acids",0.012,g,0 %
+"Butanoic acid",0.000,g,
+"Decanoic acid",0.000,g,
+"Dodecanoic acid",0.000,g,
+"Hexadecanoic acid",0.008,g,
+"Hexanoic acid",0.000,g,
+"Octadecanoic acid",0.001,g,
+"Octanoic acid",0.000,g,
+"Tetradecanoic acid",0.000,g,
+"Monounsaturated fatty acids",0.033,g,
+"Docosenoic acid",0.000,g,
+"Eicosenoic acid",0.003,g,
+"Hexadecenoic acid",0.000,g,
+"Octadecenoic acid",0.030,g,
+"Polyunsaturated fatty acids",0.195,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Eicosatetraenoic acid",0.000,g,
+"Octadecadienoic acid",0.129,g,
+"Octadecatetraenoic acid",0.000,g,
+"Octadecatrienoic acid",0.066,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Ash",0.71,g,
+"Caffeine",0.00,mg,

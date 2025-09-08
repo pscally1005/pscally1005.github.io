@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Sun Dried Tomato Pasta Salad"
-date:   2025-08-23 00:00:00 -05000
+date:   2025-09-08 00:00:00 -05000
 categories: 
 - Recipes
 - Meatless
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
