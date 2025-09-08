@@ -45,7 +45,7 @@ tags:
 - vegetarian
 - velveeta
 - american cheese
-Description: This healthier cheesy rice and broccoli uses my homemade <a href="/recipes/cheese-sauce">Gooey Cheese Sauce</a>, and is dead simple to put together.  Just simmer the rice, roast the broccoli, and mix with the sauce.  Nice and simple vegetarian meal with still a decent amount of <a href="/misc/protein">protein</a> for not having any meat.  For another recipe with my <a href="/recipes/cheese-sauce">Gooey Cheese Sauce</a>, check out my <a href="/recipes/two-ingredient-mac-and-cheese">Two Ingredient Mac & Cheese</a>
+Description: This healthier cheesy <a href="/misc/grains#brown-rice">rice</a> and <a href="/misc/veggies#broccoli">broccoli</a> uses my homemade <a href="/recipes/cheese-sauce">Gooey Cheese Sauce</a>, and is dead simple to put together.  Just simmer the rice, roast the broccoli, and mix with the sauce.  Nice and simple vegetarian meal with still a decent amount of <a href="/misc/protein">protein</a> for not having any meat.  For another recipe with my <a href="/recipes/cheese-sauce">Gooey Cheese Sauce</a>, check out my <a href="/recipes/two-ingredient-mac-and-cheese">Two Ingredient Mac & Cheese</a>
 Instructions: 
 - Add rice, bouillon powder, and water to a medium pot. Cover and bring to a boil over high heat. Reduce to medium, and let simmer for about 20 minutes, until fully cooked and water is absorbed. Set aside
 

@@ -49,7 +49,7 @@ tags:
 - lemon
 - garlic
 - paprika
-Description: I love hummus; it's easily my favorite dip for vegetables and dressing for salad. Lately I've been experimenting with other flavors, so I've made this roasted beet hummus.  Beets give this hummus a mild sweet taste, while making them creamy and vibrant red.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
+Description: I love hummus; it's easily my favorite dip for <a href="/misc/veggies">vegetables</a> and dressing for salad. Lately I've been experimenting with other flavors, so I've made this roasted beet hummus.  <a href="/misc/veggies#beets">Beets</a> give this hummus a mild sweet taste, while making them creamy and vibrant red.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
 Instructions: 
 - Cut the ends off your beets, wrap in aluminum foil, and bake wrapped beets at 400F for 40 mins or until a knife goes through with ease
 - <center><img src="/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-1.jpg" alt="" class="instruction-image"></center>

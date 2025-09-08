@@ -49,7 +49,7 @@ tags:
 - everything but the bagel
 - everything bagel
 - vic
-Description: Avocados were on sale at my grocery store, so now I'm officially a hipster. This <a href="/misc/fruit#avocado">avocado</a> toast is simple, healthy, and can be topped with different vegetables such as tomatoes or roasted peppers to make it even better. It comes together in the time it takes to toast the bread, and will leave you full and feeling great.  This goes great on a slice of my <a href="ww-bread">100% Whole Wheat Bread</a>
+Description: Avocados were on sale at my grocery store, so now I'm officially a hipster. This <a href="/misc/fruit#avocado">avocado</a> toast is simple, healthy, and can be topped with different <a href="/misc/veggies">vegetables</a> such as <a href="/misc/veggies#tomato">tomatoes</a> or roasted <a href="/misc/veggies#pepper">peppers</a> to make it even better. It comes together in the time it takes to toast the bread, and will leave you full and feeling great.  This goes great on a slice of my <a href="ww-bread">100% Whole Wheat Bread</a>
 Instructions: 
 - In a toaster or air fryer, toast your bread to your liking
 

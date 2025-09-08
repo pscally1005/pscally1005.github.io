@@ -53,14 +53,14 @@ Instructions:
 
 - I typically use vanilla extract, but almond extract is also great in these cookies.  Or, consider using mint extract for mint chocolate chip cookies.  Mint is much stronger though; don't use any more than 1/4 tsp
 
-- If you're like me and typically only have whole wheat flour handy (instead of white flour), use 215 g instead of 240 g (just under 2 cups), since whole wheat flour absorbs more water than all purpose
+- If you're like me and typically only have <a href="/misc/grains#whole-wheat">whole wheat</a> flour handy (instead of <a href="/misc/grains#white-wheat">white flour</a>), use 215 g instead of 240 g (just under 2 cups), since <a href="/misc/grains#whole-wheat">whole wheat</a> flour absorbs more water than all purpose
 
-- If you want to make the cookies gluten free, just replace the all purpose flour (2 cups, 240 g) with 1.5 cups (180 g) oat, almond, or millet flour, and 1/2 cup (60 g) cornstarch
+- If you want to make the cookies gluten free, just replace the <a href="/misc/grains#white-flour">all purpose flour</a> (2 cups, 240 g) with 1.5 cups (180 g) oat, almond, or <a href="/misc/grains#millet">millet</a> flour, and 1/2 cup (60 g) cornstarch
 
 - You can make these into peanut butter chocolate chip cookies as well.  Just add 1/2 cup (128 g) of melted peanut butter to the cookie dough along with the sugar and butter.  Additionally, cut the flour in half, from 2 cups (240 g) to 1 cup (120 g).  Bake as normal for about 9 minutes
 - <center><img src="/assets/Misc/Unhealthy/Cookies/pb-cookie.jpg" alt="" class="instruction-image"></center>
 
-- Cutting the flour in half also applies to gluten free and whole wheat peanut butter cookies as well.  For GF, use 3/4 cup (90 g) oat, almond, or millet flour, and 1/4 cup (30 g) of cornstarch in place of the all purpose flour (1 cup, 120 g).  For whole wheat, use just under 1 cup (108 g) whole wheat flour instead of the all purpose
+- Cutting the flour in half also applies to gluten free and <a href="/misc/grains#whole-wheat">whole wheat</a> peanut butter cookies as well.  For GF, use 3/4 cup (90 g) oat, almond, or <a href="/misc/grains#millet">millet</a> flour, and 1/4 cup (30 g) of cornstarch in place of the <a href="/misc/grains#white-flour">all purpose flour</a> (1 cup, 120 g).  For <a href="/misc/grains#whole-wheat">whole wheat</a>, use just under 1 cup (108 g) <a href="/misc/grains#whole-wheat">whole wheat</a> flour instead of the all purpose
 
-- If you want to make these healthier, replace the butter, sugar, and white flour with coconut oil, granulated monk fruit, and oat flour.  Use 1/2 cup (108 g) melted coconut oil, 1 cup (200 g) granulated monk fruit, and 2.33 cup (210 g) oat flour
+- If you want to make these healthier, replace the butter, sugar, and <a href="/misc/grains#white-wheat">white flour</a> with coconut oil, granulated monk fruit, and oat flour.  Use 1/2 cup (108 g) melted coconut oil, 1 cup (200 g) granulated monk fruit, and 2.33 cup (210 g) oat flour
 ---

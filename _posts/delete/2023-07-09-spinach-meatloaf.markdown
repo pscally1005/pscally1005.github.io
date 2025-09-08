@@ -54,7 +54,7 @@ tags:
 - dijon
 - roast
 - monday
-Description: This meatloaf is a little unorthodox, adding a whole pound of chopped spinach. It's a great alternative to my <a href="bbq-meatloaf">Classic BBQ Meatloaf with Lemon Roasted Broccoli</a>, containing more vegetables but still the same great flavor. It also doesn't use BBQ sauce, so this is good for when you've run out. I've paired it with some roasted butternut squash to act as a vegetable and <a href="/misc/carbs">carb</a> side.  For a breakdown of that classic meatloaf recipe, see <a href="/misc/meatloaf-experiment">The Effect of Different Breadcrumbs on Meatloaf</a>
+Description: This meatloaf is a little unorthodox, adding a whole pound of chopped <a href="/misc/veggies#spinach-fresh">spinach</a>. It's a great alternative to my <a href="bbq-meatloaf">Classic BBQ Meatloaf with Lemon Roasted Broccoli</a>, containing more <a href="/misc/veggies">vegetables</a> but still the same great flavor. It also doesn't use BBQ sauce, so this is good for when you've run out. I've paired it with some roasted <a href="/misc/veggies#butternut-squash">butternut squash</a> to act as a <a href="/misc/veggies">vegetable</a> and <a href="/misc/carbs">carb</a> side.  For a breakdown of that classic meatloaf recipe, see <a href="/misc/meatloaf-experiment">The Effect of Different Breadcrumbs on Meatloaf</a>
 Instructions: 
 - Preheat your oven to 350F. Line 2 bread pans with parchment for the meatloaf, and line a large cookie sheet with parchment for the squash
 

@@ -46,7 +46,7 @@ tags:
 - avocado
 - cottage cheese
 - sweet potato
-Description: Recently, there's been a new viral recipe:<b></b> Hot Honey Beef Bowls. It's a combination of roasted sweet potatoes, sauteed <a href="/misc/meat#ground-beef">ground beef</a>, <a href="/misc/fruit#avocado">avocado</a>, and <a href="/misc/dairy#cottage-cheese">cottage cheese</a>, all topped with a drizzle of hot honey.  Here's my take on the recipe, which is high in <a href="/misc/protein">protein</a>, <a href="/misc/fiber">fiber</a>, and healthy <a href="/misc/fats">fats</a>, keeping you feeling satisfied.  It even features <a href="/recipes/hot-honey">Homemade Hot Honey</a>!  For another hot honey recipe, please check out my <a href="/recipes/hot-honey-cornbread">Hot Honey Cornbread</a>
+Description: Recently, there's been a new viral recipe:<b></b> Hot Honey Beef Bowls. It's a combination of roasted <a href="/misc/veggies#sweet-potato">sweet potatoes</a>, sauteed <a href="/misc/meat#ground-beef">ground beef</a>, <a href="/misc/fruit#avocado">avocado</a>, and <a href="/misc/dairy#cottage-cheese">cottage cheese</a>, all topped with a drizzle of hot honey.  Here's my take on the recipe, which is high in <a href="/misc/protein">protein</a>, <a href="/misc/fiber">fiber</a>, and healthy <a href="/misc/fats">fats</a>, keeping you feeling satisfied.  It even features <a href="/recipes/hot-honey">Homemade Hot Honey</a>!  For another hot honey recipe, please check out my <a href="/recipes/hot-honey-cornbread">Hot Honey Cornbread</a>
 Instructions: 
 - Preheat your oven to 400F, and line a baking sheet with parchment paper
 

@@ -47,7 +47,7 @@ tags:
 - meat alternative
 - ground meat
 - meatless
-Description: I'm not vegan, I'm just trying to get through my 4 lb bag of Vital Wheat Gluten without baking enough bread to feed an entire village. This meatless <a href="/misc/protein">protein</a> option isn't some ultraprocessed <a href="/misc/fake-healthy-foods#fake-meat">fake meat</a>.  It's a great way to mix it up, and can be used in any way you would typically use ground meat. Mix it into a rice and vegetable bowl, serve a sauce over it with vegetables, make tacos, the possibilities are endless.
+Description: I'm not vegan, I'm just trying to get through my 4 lb bag of <a href="/misc/grains#vital-wheat-gluten">Vital Wheat Gluten</a> without baking enough bread to feed an entire village. This meatless <a href="/misc/protein">protein</a> option isn't some ultraprocessed <a href="/misc/fake-healthy-foods#fake-meat">fake meat</a>.  It's a great way to mix it up, and can be used in any way you would typically use ground meat. Mix it into a <a href="/misc/grains#brown-rice">rice</a> and <a href="/misc/veggies">vegetable</a> bowl, serve a sauce over it with <a href="/misc/veggies">vegetables</a>, make tacos, the possibilities are endless.
 Instructions: 
 - In a large bowl, combine together dry ingredients - vital wheat gluten, nutritional yeast (or grated cheese), chili powder, paprika, onion powder, black pepper, and salt
 

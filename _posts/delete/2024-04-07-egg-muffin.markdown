@@ -50,7 +50,7 @@ tags:
 - onion powder
 - shredded cheese
 - cheese
-Description: These <a href="/misc/meat#eggs">egg</a> muffins are a great way to prep some breakfast ahead of time and eat on the go. Saute whatever vegetables you like (I went with spinach, pepper, and onion), mix with eggs, and bake. Each serving is 1 egg's worth; 6 mini muffins or 3 regular sized muffins
+Description: These <a href="/misc/meat#eggs">egg</a> muffins are a great way to prep some breakfast ahead of time and eat on the go. Saute whatever <a href="/misc/veggies">vegetables</a> you like (I went with <a href="/misc/veggies#spinach-fresh">spinach</a>, pepper, and <a href="/misc/veggies#onion">onion</a>), mix with <a href="/misc/meat#eggs">eggs</a>, and bake. Each serving is 1 egg's worth; 6 mini muffins or 3 regular sized muffins
 Instructions: 
 - Preheat your oven to 350F, and heat a large pan over medium heat. Cut your peppers and onions into a small dice. Add vegetables to the pan with oil and salt. Cover, and cook until peppers have softened and onions turn translucent
 

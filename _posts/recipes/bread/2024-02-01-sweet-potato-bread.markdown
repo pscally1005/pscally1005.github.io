@@ -45,7 +45,7 @@ tags:
 - butternut
 - squash
 - breakfast
-Description: I love a classic whole wheat bread, but I also love those potato buns for hamburgers. So I decided to combine the 2, and modify my classic bread recipe to include some sweet potato. Sweet potatoes give a slight orange color and mild sweetness, that make the loaf just a little bit better.  In this photo here, I used some <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a> as a spread for double sweet potato action!
+Description: I love a classic <a href="/misc/grains#whole-wheat">whole wheat</a> bread, but I also love those potato buns for hamburgers. So I decided to combine the 2, and modify my classic bread recipe to include some <a href="/misc/veggies#sweet-potato">sweet potato</a>. <a href="/misc/veggies#sweet-potato">Sweet potatoes</a> give a slight orange color and mild sweetness, that make the loaf just a little bit better.  In this photo here, I used some <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a> as a spread for double sweet potato action!
 Instructions: 
 - Peel your sweet potato, and cut into cubes. Add to a medium pot and cover with water. Bring to a boil, cover, reduce to medium, and simmer for around 15-18 minutes, until the potato can be easily crushed with the back of a spoon. Use a slotted spoon to scoop out the potatoes, and reserve the water (you will need it later in the bread). Let everything cool to room temperature
 

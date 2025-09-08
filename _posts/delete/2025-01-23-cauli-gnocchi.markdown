@@ -51,7 +51,7 @@ tags:
 - parmesan cheese
 - oregano
 - simple pasta sauce
-Description: Knowing how to repurpose ingredients and recipes into new creations is the key to being a great cook. And that's exactly what I'm doing here with this gnocchi; the dough is nearly the same as my <a href="/recipes/cauliflower-pizza">Cauliflower Flaxseed Pizza Crust</a>. Just cut them into gnocchi pieces, bake them, and serve with sauce and toppings. Today, I'm going with my <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a> and sundried tomatoes. The tomatoes add great natural sweetness and texture to the dish, while also being rich in lycopene, as well as the tomato sauce!
+Description: Knowing how to repurpose ingredients and recipes into new creations is the key to being a great cook. And that's exactly what I'm doing here with this gnocchi; the dough is nearly the same as my <a href="/recipes/cauliflower-pizza">Cauliflower Flaxseed Pizza Crust</a>. Just cut them into gnocchi pieces, bake them, and serve with sauce and toppings. Today, I'm going with my <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a> and sundried <a href="/misc/veggies#tomato">tomatoes</a>. The tomatoes add great natural sweetness and texture to the dish, while also being rich in lycopene, as well as the tomato sauce!
 Instructions: 
 - Preheat your oven to 350F, and line 2 large cookie sheets with parchment paper
 

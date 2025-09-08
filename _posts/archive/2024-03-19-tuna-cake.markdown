@@ -56,7 +56,7 @@ tags:
 - coconut flour
 - soy sauce
 - gluten free
-Description: I took and modified this recipe from my parents, who made crab cakes on Christmas. I really liked them, but I didn't want to pay for crab, so I wanted to try it with tuna instead. I think they turned out pretty well. They're cheap, healthy, and simple. Feel free to actually use crab too. They're gluten free too, being made with coconut flour! The nutrition facts are per cake
+Description: I took and modified this recipe from my parents, who made <a href="/misc/fish#crab">crab</a> cakes on Christmas. I really liked them, but I didn't want to pay for crab, so I wanted to try it with <a href="/misc/fish#tuna">tuna</a> instead. I think they turned out pretty well. They're cheap, healthy, and simple. Feel free to actually use crab too. They're gluten free too, being made with coconut flour! The nutrition facts are per cake
 Instructions: 
 - Prepare a 12" pan with a spray of oil
 

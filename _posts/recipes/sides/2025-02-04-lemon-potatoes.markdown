@@ -49,7 +49,7 @@ tags:
 - greek
 - minced garlic
 - chicken broth
-Description: As someone who isn't a big fan of potatoes, I'm in love with Greek style lemon potatoes. But after seeing upwards of 1/2 cup of olive oil in most recipes, I knew that I had to give it a shot my way. These roasted potatoes still feature extra virgin olive oil, as it's one of the healthiest <a href="/misc/fats">fats</a> you could consume, but dialed back as to not be too calorically dense
+Description: As someone who isn't a big fan of <a href="/misc/veggies#potato">potatoes</a>, I'm in love with Greek style lemon potatoes. But after seeing upwards of 1/2 cup of olive oil in most recipes, I knew that I had to give it a shot my way. These roasted potatoes still feature extra virgin olive oil, as it's one of the healthiest <a href="/misc/fats">fats</a> you could consume, but dialed back as to not be too calorically dense
 Instructions: 
 - You can use any kind of potatoes you have.  I found this bag of mini yellow, red, and puple potatoes at my store, but full sized potatoes will work too.  You can even try it with sweet potatoes!
 

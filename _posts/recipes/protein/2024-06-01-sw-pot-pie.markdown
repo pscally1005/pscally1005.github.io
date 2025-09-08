@@ -59,7 +59,7 @@ tags:
 - greek yogurt
 - nonfat cottage cheese
 - cottage cheese
-Description: This high <a href="/misc/protein">protein</a> pie is made without a crust, making it gluten free and saving on <a href="/misc/calories">calories</a>. It's basically a <a href="/misc/protein">protein</a> packed pumpkin cheesecake with delicious sweet potato flavor, containing a lot of <a href="/misc/protein">protein</a> from the <a href="/misc/dairy#yogurt">yogurt</a>, eggs, and <a href="/misc/protein">protein</a> powder. It's a great dessert, post workout snack, or even breakfast
+Description: This high <a href="/misc/protein">protein</a> pie is made without a crust, making it gluten free and saving on <a href="/misc/calories">calories</a>. It's basically a <a href="/misc/protein">protein</a> packed pumpkin cheesecake with delicious <a href="/misc/veggies#sweet-potato">sweet potato</a> flavor, containing a lot of <a href="/misc/protein">protein</a> from the <a href="/misc/dairy#yogurt">yogurt</a>, eggs, and <a href="/misc/protein">protein</a> powder. It's a great dessert, post workout snack, or even breakfast
 Instructions: 
 - To make your sweet potato puree, wash the potatoes with a brush, poke with a fork all over, and wrap in aluminum foil. Air fry at 400F for about 1 hour, or until a knife can pierce through with no force. Slice open, and allow to cook on the counter for a few minutes
 

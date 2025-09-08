@@ -51,7 +51,7 @@ As mentioned above, I used a double batch of my <a href="/recipes/bbq-meatloaf">
 
 <div id="breadcrumbs" class="table-of-contents-2"></div>
 <b><font size="+2">1. Breadcrumbs</font></b><br>
-This was our control, regular old breadcrumbs.  This is what my mom used prior to being diagnosed with Celiac disease, and what I used as well prior to swapping the breadcrumbs for either oat flour or casein protein.  This felt exactly like I expected from a meatloaf.  It was slightly sticky, but not too much, and was easily shaped into a loaf.  Vic made a meatloaf the other day using a similar recipe with these breadcrumbs, and this is exactly how it felt raw (and that meatloaf was great).<br><br>
+This was our control, regular old breadcrumbs.  This is what my mom used prior to being diagnosed with Celiac disease, and what I used as well prior to swapping the breadcrumbs for either oat flour or <a href="/misc/dairy#casein">casein</a> protein.  This felt exactly like I expected from a meatloaf.  It was slightly sticky, but not too much, and was easily shaped into a loaf.  Vic made a meatloaf the other day using a similar recipe with these breadcrumbs, and this is exactly how it felt raw (and that meatloaf was great).<br><br>
 
 <center><img src="/assets/Misc/Experiments/Meatloaf/raw-bc.jpg" alt="" class="larger-image"></center><br>
 
@@ -61,7 +61,7 @@ For the first experiment, I wanted to test the effects of swapping for oat flour
 
 The raw meat felt significantly stickier than the control however.  Whereas I was able to fully mix the breadcrumb meat and squeeze it though my fingers with minimal sticking, I felt that the oat flour loaf was getting stuck to my hands more.  This made it a little harder to shape, and I'm worried that this will lead to a change in structure and texture upon baking, as well as leaking out of a lot of juices.<br>
 
-The oats were the main reason for the hour rest in the fridge prior to cooking.  Not only did I want to let each batch come to the same temperature, but oats are known for their ability to slowly absorb water.  I figured that this way, the oats would be more hydrated prior to cooking, and therefore should retain more juices.<br><br>
+The <a href="/misc/grains#oats">oats</a> were the main reason for the hour rest in the fridge prior to cooking.  Not only did I want to let each batch come to the same temperature, but oats are known for their ability to slowly absorb water.  I figured that this way, the oats would be more hydrated prior to cooking, and therefore should retain more juices.<br><br>
 
 <center><img src="/assets/Misc/Experiments/Meatloaf/raw-oat.jpg" alt="" class="larger-image"></center><br>
 
@@ -110,7 +110,7 @@ I could not tell the difference in taste between the oat flour and breadcrumb on
 <center><img src="/assets/Misc/Experiments/Meatloaf/cooked-oat.jpg" alt="" class="larger-image"></center><br>
 
 <b><font size="+2">3. Coconut Flour</font></b><br>
-I had very high hopes for coconut flour, but it definitely fell flat; this was easily the worst batch.  The coconut flour imparted a small but noticeable coconut flavor and a slight hint of sweetnesss; neither in a good way though.  This was also easily the driest loaf.  My guess is the coconut flour sucked up all the liquid, so while very little leaked out of the loaf, it was very dry to eat, like a <a href="/misc/protein">protein</a> baked good with too much whey.  Cold was even worse, it was very dry.  This one felt the most bready of the 4, it could have been a meat based slice of bread (it is a loaf after all lmao).  It's still decent food, and would work on a sandwich without totally falling apart, but not my best work.  3/10<br><br>
+I had very high hopes for coconut flour, but it definitely fell flat; this was easily the worst batch.  The coconut flour imparted a small but noticeable coconut flavor and a slight hint of sweetnesss; neither in a good way though.  This was also easily the driest loaf.  My guess is the coconut flour sucked up all the liquid, so while very little leaked out of the loaf, it was very dry to eat, like a <a href="/misc/protein">protein</a> baked good with too much <a href="/misc/dairy#whey">whey</a>.  Cold was even worse, it was very dry.  This one felt the most bready of the 4, it could have been a meat based slice of bread (it is a loaf after all lmao).  It's still decent food, and would work on a sandwich without totally falling apart, but not my best work.  3/10<br><br>
 
 <center><img src="/assets/Misc/Experiments/Meatloaf/cooked-coconut.jpg" alt="" class="larger-image"></center><br>
 
@@ -131,7 +131,7 @@ The breadcrumb loaf was slightly firmer, while the oat flour one was a little bi
 I've decided that I'll be using <b>oat flour</b> from here on out; mainly for it's nutrition.  Oats are higher in <a href="/misc/fiber">fiber</a>, don't have a laundry list of ingredients, including added sugars, oils, and salt, and oats may actually be cheaper.  My local grocery store sells 42oz canisters of quick oats for $4, whereas I belive the 13oz breadcrumbs we have was about $2.<br><br>
 
 <u><font size="+2">UPDATE: 03/02/25</font></u><br>
-It's nearly a year later, but I decided to make a meatloaf using almond flour too to see if that is also a good replacement.  I didn't take any pictures or do any side-by-side taste tests this time, but I can say that almond and oat flour are practically identical.  I'll keep the recipe written for oat flour, but I can see myself going back and forth between almond and oat flour when I make meatloaf, depending on my mood that day.
+It's nearly a year later, but I decided to make a meatloaf using <a href="/misc/nuts#almonds">almond</a> flour too to see if that is also a good replacement.  I didn't take any pictures or do any side-by-side taste tests this time, but I can say that <a href="/misc/nuts#almonds">almond</a> and oat flour are practically identical.  I'll keep the recipe written for oat flour, but I can see myself going back and forth between <a href="/misc/nuts#almonds">almond</a> and oat flour when I make meatloaf, depending on my mood that day.
 
 <u><font size="+2">Sources</font></u><br>
 1. <a href="https://youtu.be/406CVdn6Te8?si=8w4vWvFCc7KD8f7A">Why we put breadcrumbs in meatloaf, meatballs, etc</a><br>

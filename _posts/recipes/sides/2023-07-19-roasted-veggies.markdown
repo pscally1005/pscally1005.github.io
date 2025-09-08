@@ -53,7 +53,7 @@ tags:
 - pepper
 - bell pepper
 - eggplant
-Description: Roasted vegetables are so easy to do that I should really be making them more often. You can really do this with whatever vegetables you have on hand, like peppers, broccoli, or asparagus. It's written to be minimally seasoned, that way you can add any other spices you desire for tons of different flavors. Serve it on the side of grilled <a href="/recipes/chicken">chicken</a> or <a href="/recipes/fish">fish</a>.
+Description: Roasted <a href="/misc/veggies">vegetables</a> are so easy to do that I should really be making them more often. You can really do this with whatever vegetables you have on hand, like <a href="/misc/veggies#pepper">peppers</a>, <a href="/misc/veggies#broccoli">broccoli</a>, or <a href="/misc/veggies#asparagus">asparagus</a>. It's written to be minimally seasoned, that way you can add any other spices you desire for tons of different flavors. Serve it on the side of grilled <a href="/recipes/chicken">chicken</a> or <a href="/recipes/fish">fish</a>.
 Instructions: 
 - Preheat oven to 400F and line a baking sheet with aluminum foil or parchment paper
 

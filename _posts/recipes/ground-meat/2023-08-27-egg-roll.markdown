@@ -50,7 +50,7 @@ tags:
 - dumpling
 - peanut
 - sesame
-Description: Shredded cabbage makes such a good base for a meal, just like rice or noodles would. These bowls are like a deconstructed version of an egg roll, and they're packed with vegetables and feature a flavorful sauce.
+Description: Shredded <a href="/misc/veggies#cabbage">cabbage</a> makes such a good base for a meal, just like <a href="/misc/grains#brown-rice">rice</a> or noodles would. These bowls are like a deconstructed version of an egg roll, and they're packed with <a href="/misc/veggies">vegetables</a> and feature a flavorful sauce.
 Instructions: 
 - You can either buy a bags of shredded cabbage and carrots, or shred them yourself.  I like to cut them into big chunks, pulse them in my food processor, and use that.  It's cheaper and simpler, but you don't get the strips that a mandolin would get you
 

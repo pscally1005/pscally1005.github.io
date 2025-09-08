@@ -62,7 +62,7 @@ tags:
 
 <div id="knife-sharpener" class="table-of-contents"></div>
 <br><i><font size="+2">Knife Sharpener</font></i><br>
-&emsp;A simple pull through sharpener is a great gadget to have in the kitchen.  I got mine as a gift, but something like <a href="https://amzn.to/44T3gFz">this</a> should do the trick.  Aim to sharpen your <a rel="" target="" href="#chef-knife">knife</a> every few days.  If you find you're squishing tomatoes or crying from onions, your knife is due for a sharpening.
+&emsp;A simple pull through sharpener is a great gadget to have in the kitchen.  I got mine as a gift, but something like <a href="https://amzn.to/44T3gFz">this</a> should do the trick.  Aim to sharpen your <a rel="" target="" href="#chef-knife">knife</a> every few days.  If you find you're squishing <a href="/misc/veggies#tomato">tomatoes</a> or crying from <a href="/misc/veggies#onion">onions</a>, your knife is due for a sharpening.
 
 <center><a href="https://amzn.to/44T3gFz"><img src="/assets/Misc/Cooking/Kitchen/knife-sharpener.jpg" alt="" class="instruction-image"></a></center><br>
 
@@ -86,7 +86,7 @@ tags:
 
 <div id="vegetable-chopper" class="table-of-contents"></div>
 <br><i><font size="+2">Vegetable Chopper</font></i><br>
-&emsp;A simple vegetable chopped can range from manual to electric.  It makes finely dicing onion or nuts so much easier, and I use mine fairly often.  My parents have a manual one (something like <a href="https://amzn.to/4jHJ4KJ">this</a>), and I have an electric one (like <a href="https://amzn.to/4jlv74V">this one</a>).  Bonus points for my chopper also having an immersion blender, a very useful tool from time to time.  My immersion blender gets used most for <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a>, instead of transferring the apples to a full on blender.
+&emsp;A simple vegetable chopped can range from manual to electric.  It makes finely dicing onion or <a href="/misc/nuts">nuts</a> so much easier, and I use mine fairly often.  My parents have a manual one (something like <a href="https://amzn.to/4jHJ4KJ">this</a>), and I have an electric one (like <a href="https://amzn.to/4jlv74V">this one</a>).  Bonus points for my chopper also having an immersion blender, a very useful tool from time to time.  My immersion blender gets used most for <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a>, instead of transferring the apples to a full on blender.
 
 <center><a href="https://amzn.to/4jlv74V"><img src="/assets/Misc/Cooking/Kitchen/vegetable-chopper.jpg" alt="" class="instruction-image"></a></center><br>
 
@@ -114,7 +114,7 @@ tags:
 
 <center><img src="/assets/Misc/Cooking/Kitchen/stove-pots.jpg" alt="" class="larger-image"></center><br>
 
-&emsp;The main pan I use for sauteeing is this <a href="https://amzn.to/3ZBtclu">12" nonstick pan</a>.  I like to use 12" pans for most bigger cooking, and 10" for more single serving.  My main pots for sauces and rice are these <a href="https://amzn.to/4kybjMu">2 and 4 quart ceramic saucepots</a>.  It's good to also have some stainless steel lying around too (both pots and pans), as you should never use metal utensils on ceramic or nonstick cookware, such as when using a potato masher (for jams or mashed potatoes) or immersion blender.  It's also good to make sure all your pots and pans have corressponding lids.
+&emsp;The main pan I use for sauteeing is this <a href="https://amzn.to/3ZBtclu">12" nonstick pan</a>.  I like to use 12" pans for most bigger cooking, and 10" for more single serving.  My main pots for sauces and rice are these <a href="https://amzn.to/4kybjMu">2 and 4 quart ceramic saucepots</a>.  It's good to also have some stainless steel lying around too (both pots and pans), as you should never use metal utensils on ceramic or nonstick cookware, such as when using a potato masher (for jams or mashed <a href="/misc/veggies#potato">potatoes</a>) or immersion blender.  It's also good to make sure all your pots and pans have corressponding lids.
 
 <center><img src="/assets/Misc/Cooking/Kitchen/cookie-sheet.jpg" alt="" class="instruction-image"></center><br>
 &emsp;As for cookie sheets, and old metal baking sheet will do, and the bigger the better (as long as it fits in your dishwasher).  A some good sizes are <a href="https://amzn.to/3FdraBl">18x12"</a>, as well as both <a href="https://amzn.to/4jp7Wqf">15x11"</a> and <a href="https://amzn.to/3ZBtdWA">13x9"</a>.
@@ -134,7 +134,7 @@ tags:
 <center><a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605"><img src="/assets/Misc/Cooking/Kitchen/silicone-spatula.jpg" alt="" class="instruction-image"></a></center><br>
 <div id="instant-thermometer" class="table-of-contents"></div>
 <br><i><font size="+2">Instant Thermometer</font></i><br>
-&emsp;An instant read food thermometer is crucial for cooking meat, but I also use it to check for doneness in breads and cakes as well.  They're simple, cheap, and invaluble in your kitchen.  The one I own is <a href="https://amzn.to/4kmobG2">this one</a>, and I like how it also has a meat cooking temperature guide right on it.  For breads, they're typically done around 200F.  No more toothpick check!
+&emsp;An instant read food thermometer is crucial for cooking <a href="/misc/meat">meat</a>, but I also use it to check for doneness in breads and cakes as well.  They're simple, cheap, and invaluble in your kitchen.  The one I own is <a href="https://amzn.to/4kmobG2">this one</a>, and I like how it also has a <a href="/misc/meat">meat</a> cooking temperature guide right on it.  For breads, they're typically done around 200F.  No more toothpick check!
 
 <center><a href="https://amzn.to/4kmobG2"><img src="/assets/Misc/Cooking/Kitchen/thermometer.jpg" alt="" class="instruction-image"></a></center><br>
 <div id="oil-spray" class="table-of-contents"></div>
@@ -154,7 +154,7 @@ tags:
 <center><img src="/assets/Misc/Cooking/Kitchen/containers.jpg" alt="" class="larger-image"></center><br>
 <div id="salad-spinner" class="table-of-contents"></div>
 <br><i><font size="+2">Salad Spinner</font></i><br>
-&emsp;Speaking of salads, having a good <a href="https://amzn.to/4dFeyPZ">salad spinner</a> is crucial to making salads that you want to eat.  A salad spinner not only dries your washed veggies, but it also doubles as a bowl to store the salad in your fridge.  Check out my guide <a href="/misc/salad">You're Doing Salad Wrong</a> for tips on how to build your perfect salad.
+&emsp;Speaking of salads, having a good <a href="https://amzn.to/4dFeyPZ">salad spinner</a> is crucial to making salads that you want to eat.  A salad spinner not only dries your washed <a href="/misc/veggies">veggies</a>, but it also doubles as a bowl to store the salad in your fridge.  Check out my guide <a href="/misc/salad">You're Doing Salad Wrong</a> for tips on how to build your perfect salad.
 
 <center><a href="https://amzn.to/4dFeyPZ"><img src="/assets/Misc/Cooking/Kitchen/salad-spinner.jpg" alt="" class="instruction-image"></a></center><br>
 <div id="oven-mitts" class="table-of-contents"></div>

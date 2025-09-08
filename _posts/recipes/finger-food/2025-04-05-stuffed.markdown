@@ -49,12 +49,12 @@ tags:
 - red split lentils
 - brown rice
 - quinoa beans
-Description: These stuffed peppers are filled with <a href="/misc/meat#ground-turkey">ground turkey</a>, brown rice, and taco seasonings.  But they're super customizable.  This post is more of a guide on how to make stuffed peppers; below are different filling options you can try:<br><br><ul>
+Description: These stuffed <a href="/misc/veggies#pepper">peppers</a> are filled with <a href="/misc/meat#ground-turkey">ground turkey</a>, <a href="/misc/grains#brown-rice">brown rice</a>, and taco seasonings.  But they're super customizable.  This post is more of a guide on how to make stuffed peppers; below are different filling options you can try:<br><br><ul>
     <li>Replace the ground turkey with either ground beef or <a href="/misc/ground-chicken">ground chicken</a></li>
     <li>Vegetarian stuffed peppers using either <a href="/recipes/rice-and-beans">Classic Rice and Beans</a> or <a href="/recipes/couscous">Tomato and Bean Couscous</a> as your filling</li>
     <li>Mediterranean stuffed peppers using my <a href="/recipes/mediterranean-potato-salad">Mediterranean Sweet Potato Salad</a> or <a href="/recipes/bean-salad">Mediterranean 3 Bean Salad</a></li>
     <li>Fill it with just beans, such as <a href="/recipes/slow-cooked-beans">Slow Cooker Black Beans</a>, <a href="/recipes/refried-beans">Refried Pinto Beans</a>, or <a href="/recipes/baked-beans">No Added Sugar Baked Beans</a><br></li>
-    <li>Replace the brown rice with <a href="/recipes/red-lentils">red lentils</a>, <a href="/recipes/cauliflower-rice">cauliflower rice</a>, quinoa, or couscous<br></li>
+    <li>Replace the <a href="/misc/grains#brown-rice">brown rice</a> with <a href="/recipes/red-lentils">red lentils</a>, <a href="/recipes/cauliflower-rice">cauliflower rice</a>, <a href="/misc/grains#quinoa">quinoa</a>, or couscous<br></li>
     <li>Mix in some <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a> or <a href="/recipes/ketchup">Date Sweetened Ketchup</a> to the filling, or add on top of the peppers</li></ul>
 Instructions: 
 - In a small pot, add your rice, water, and salt. Bring to a boil over high heat. Cover, reduce to low, and let simmer for about 20-30 minutes, until fully cooked. Set aside

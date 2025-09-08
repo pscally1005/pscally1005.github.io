@@ -52,7 +52,7 @@ tags:
 - broccoli
 - boneless skinless chicken breast
 - rice vinegar
-Description: This Korean style <a href="/misc/meat#chicken-breast">chicken</a> mixes together roasted broccoli and sweet potatoes, and is served with a sauce made of rice vinegar, soy sauce, and ginger. Everything is roasted in the oven and plated together at the end, making this a simple dish. Just stick pans in the oven; great for preparing ahead of time for when people are over
+Description: This Korean style <a href="/misc/meat#chicken-breast">chicken</a> mixes together roasted <a href="/misc/veggies#broccoli">broccoli</a> and <a href="/misc/veggies#sweet-potato">sweet potatoes</a>, and is served with a sauce made of rice vinegar, soy sauce, and ginger. Everything is roasted in the oven and plated together at the end, making this a simple dish. Just stick pans in the oven; great for preparing ahead of time for when people are over
 Instructions: 
 - Preheat your oven to 400F, and line 3 large baking sheets with parchment paper. We'll be working in order from longest to shortest cooking times, so sweet potatoes first, then broccoli, and the chicken last
 

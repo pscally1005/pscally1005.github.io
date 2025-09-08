@@ -41,7 +41,7 @@ Instructions:
 
 - In a medium bowl, whisk together the dry ingredients - flour, pudding mix, baking powder, baking soda and salt. Set aside
 
-- In a separate medium bowl, mash your bananas with the back of a fork until smooth. Mix together the wet ingredients until fully combined - yogurt, maple syrup, eggs, and rum extract
+- In a separate medium bowl, mash your <a href="/misc/fruit#banana">bananas</a> with the back of a fork until smooth. Mix together the wet ingredients until fully combined - yogurt, maple syrup, eggs, and rum extract
 
 - In a separate large bowl, cream together coconut oil and sugar with a hand mixer until light and fluffy, about 2-3 minutes
 - <center><img src="/assets/Misc/Unhealthy/Rum Cake/4-parts.jpg" alt="" class="instruction-image"></center>

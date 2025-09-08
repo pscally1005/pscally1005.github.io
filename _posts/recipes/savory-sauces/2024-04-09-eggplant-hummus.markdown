@@ -54,7 +54,7 @@ tags:
 - garlic
 - paprika
 - cumin
-Description: This is 50% hummus, 50% babaganoush, and 100% delicious. Roasted eggplant in hummus provides great creaminess and fantastic flavor without the need for oil. The subtle flavor of <a href="/misc/nuts#almonds">almond</a> butter adds some necessary <a href="/misc/fats">fats</a>, and complements everything else perfectly.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
+Description: This is 50% hummus, 50% babaganoush, and 100% delicious. Roasted <a href="/misc/veggies#eggplant">eggplant</a> in hummus provides great creaminess and fantastic flavor without the need for oil. The subtle flavor of <a href="/misc/nuts#almonds">almond</a> butter adds some necessary <a href="/misc/fats">fats</a>, and complements everything else perfectly.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
 Instructions: 
 - Cut your eggplant in half, and add to a parchment lined cookie sheet. Bake cut side down at 400F for about 40 minutes, or until eggplant is soft and collapses
 - <center><img src="/assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-1.jpg" alt="" class="instruction-image"></center>

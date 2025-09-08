@@ -50,7 +50,7 @@ tags:
 - stovetop
 - baking soda
 - lemon juice
-Description: This unnaturally gooey cheese sauce is spot on in texture and taste of the fake stuff without all the artificial additives. By the power of chemistry, we can create healthier Velveeta and American cheese at home with just 4 ingredients. This sauce is great in <a href="/recipes/two-ingredient-mac-and-cheese">Two Ingredient Mac & Cheese</a> and <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a>, or just as a dip for veggies or chips
+Description: This unnaturally gooey cheese sauce is spot on in texture and taste of the fake stuff without all the artificial additives. By the power of chemistry, we can create healthier Velveeta and American cheese at home with just 4 ingredients. This sauce is great in <a href="/recipes/two-ingredient-mac-and-cheese">Two Ingredient Mac & Cheese</a> and <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a>, or just as a dip for <a href="/misc/veggies">veggies</a> or chips
 Instructions: 
 - In a cold, flat, wide pan, combine together lemon juice and baking soda. Stir until it no longer bubbles. This solution is sodium citrate, and it will hold the sauce together without breaking
 

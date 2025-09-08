@@ -46,7 +46,7 @@ tags:
 - chicken broth
 - vic
 - creamy
-Description: My favorite thing about this Chicken Florentine is that it tastes just as good as all the others I've had, but without the addition of all the heavy cream that would normally turn this into a <a href="/misc/fats">fat</a> bomb. Packed with <a href="/misc/meat#chicken-breast">chicken</a> and spinach, and made creamy with a secret ingredient, this recipe is amazing, and goes great with a side of brown rice and roasted vegetables
+Description: My favorite thing about this Chicken Florentine is that it tastes just as good as all the others I've had, but without the addition of all the heavy cream that would normally turn this into a <a href="/misc/fats">fat</a> bomb. Packed with <a href="/misc/meat#chicken-breast">chicken</a> and <a href="/misc/veggies#spinach-fresh">spinach</a>, and made creamy with a secret ingredient, this recipe is amazing, and goes great with a side of <a href="/misc/grains#brown-rice">brown rice</a> and roasted <a href="/misc/veggies">vegetables</a>
 Instructions:
 - Cut your onion into a small dice, and add to a large pan with oil, spinach, and garlic, salt, and pepper.  Cover and cook over medium heat until the onions are translucent and the water has cooked out of the spinach.  It should just slightly start sticking to the pan. Set aside on a plate
 

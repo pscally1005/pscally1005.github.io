@@ -54,7 +54,7 @@ tags:
 - melted butter
 - dark chocolate
 - 70% chocolate
-Description: Is there a better <a href="/recipes/healthier-dessert">dessert</a> combination than chocolate and <a href="/misc/fruit#raspberry">raspberries</a>?  These healthy brownies are just that, being <a href="/misc/hidden-sugar">sugar free</a>, gluten free, and only having <a href="/misc/fats">healthy fats</a>. With a neutral base of applesauce, <a href="/recipes/natural-peanut-butter">almond butter</a>, and coconut oil, sweetened with granulated monk fruit, brought together with oat flour and cocoa powder, and topped with raspberries, these brownies are the perfect <a href="/recipes/healthier-dessert">dessert</a> or snack without making you feel sluggish
+Description: Is there a better <a href="/recipes/healthier-dessert">dessert</a> combination than chocolate and <a href="/misc/fruit#raspberry">raspberries</a>?  These healthy brownies are just that, being <a href="/misc/hidden-sugar">sugar free</a>, gluten free, and only having <a href="/misc/fats">healthy fats</a>. With a neutral base of applesauce, <a href="/recipes/natural-peanut-butter">almond butter</a>, and coconut oil, sweetened with granulated monk fruit, brought together with <a href="/misc/grains#oats">oat flour</a> and cocoa powder, and topped with raspberries, these brownies are the perfect <a href="/recipes/healthier-dessert">dessert</a> or snack without making you feel sluggish
 Instructions: 
 - Preheat your oven to 350F, and line a 9" square baking pan with parchment paper. Lightly grease the paper
 

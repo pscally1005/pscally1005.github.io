@@ -52,7 +52,7 @@ tags:
 - kiwi
 - sauerkraut
 - saurkraut
-Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 lunch servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including <a href="/misc/fruit#avocado">avocado</a>, salmon, quinoa, and beets. It's delicious, filling, customizable, tasty, while also being high in <a href="/misc/protein">protein</a>, healthy <a href="/misc/fats">fats</a>, <a href="/misc/fiber">fiber</a>, and complex <a href="/misc/carbs">carbs</a>
+Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 lunch servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including <a href="/misc/fruit#avocado">avocado</a>, <a href="/misc/fish#salmon">salmon</a>, <a href="/misc/grains#quinoa">quinoa</a>, and <a href="/misc/veggies#beets">beets</a>. It's delicious, filling, customizable, tasty, while also being high in <a href="/misc/protein">protein</a>, healthy <a href="/misc/fats">fats</a>, <a href="/misc/fiber">fiber</a>, and complex <a href="/misc/carbs">carbs</a>
 Instructions: 
 - <center></center><b>Roasted Veggies</b>
 - Wash your beet, wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until soft (timing depends on the size of your beets).  Unwrap the beet, discard the ends, and cut into a medium dice (keep the skin on!!)
@@ -93,7 +93,7 @@ Instructions:
     <li>Swiss chard</li></ul>
 - <center></center><i><a href="/misc/carbs">Carbs</a></i><ul>
     <li>Beans</li>
-    <li>Brown rice</li>
+    <li><a href="/misc/grains#brown-rice">brown rice</a></li>
     <li>Butternut squash</li>
     <li>Corn</li>
     <li>Chickpeas</li>

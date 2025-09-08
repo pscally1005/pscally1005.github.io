@@ -69,7 +69,7 @@ tags:
 - protein powder
 - whey
 - unflavored whey
-Description: This delicious combo of chopped vegetables and spices is a great alternative for <a href="/misc/meat#ground-beef">ground beef</a> in tacos, stews, on top of salads, or anything else you can imagine. Mushrooms are a good plant based source of <a href="/misc/protein">protein</a>, and I've bumped up the <a href="/misc/protein">protein</a> content significantly more with the addition of protein powder. Feel free to leave it out, or replace it with any vegan protein powder if you desire
+Description: This delicious combo of chopped <a href="/misc/veggies">vegetables</a> and spices is a great alternative for <a href="/misc/meat#ground-beef">ground beef</a> in tacos, stews, on top of salads, or anything else you can imagine. <a href="/misc/veggies#mushrooms">Mushrooms</a> are a good plant based source of <a href="/misc/protein">protein</a>, and I've bumped up the <a href="/misc/protein">protein</a> content significantly more with the addition of protein powder. Feel free to leave it out, or replace it with any vegan protein powder if you desire
 Instructions: 
 - In a medium bowl, add the walnuts, and cover with water. Let soak for at least 2 hours
 

@@ -44,7 +44,7 @@ tags:
 - kabobs
 - paprika
 - extra virgin olive oil
-Description: Grilled shrimp is super easy to make, and is such a great way to mix it up from grilled <a href="/misc/meat#chicken-breast">chicken</a>. My family makes this every barbeque we have, and it's always my favorite dish. You can also cook this on your stove if you don't have a grill. Simply marinate the shrimp for a few hours, and cook as desired!  Serve with whatever <a href="/misc/carbs">carb</a> and vegetable you desire; today, it's <a href="/recipes/butternut-squash">Roasted Butternut Squash with Onions</a> and <a href="/recipes/vegetable-medley">Spinach and Onion Vegetable Medley</a>
+Description: Grilled <a href="/misc/fish#shrimp">shrimp</a> is super easy to make, and is such a great way to mix it up from grilled <a href="/misc/meat#chicken-breast">chicken</a>. My family makes this every barbeque we have, and it's always my favorite dish. You can also cook this on your stove if you don't have a grill. Simply marinate the shrimp for a few hours, and cook as desired!  Serve with whatever <a href="/misc/carbs">carb</a> and <a href="/misc/veggies">vegetable</a> you desire; today, it's <a href="/recipes/butternut-squash">Roasted Butternut Squash with Onions</a> and <a href="/recipes/vegetable-medley">Spinach and Onion Vegetable Medley</a>
 Instructions: 
 - Place a large strainer in a clean sink. Add your shrimp to the strainer, and rinse with cold water for about 5 minutes, turning over occasionally, until thawed
 - <center><img src="/assets/Food/Fish/Grilled Shrimp/sink.jpg" alt="" class="instruction-image"></center>

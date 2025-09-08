@@ -48,7 +48,7 @@ tags:
 - extra virgin olive oil
 - nooch
 - nutritional yeast
-Description: Despite being thought of as a junk food during movies, popcorn can actually be a very healthy and filling snack if done correctly.  It's time to ditch those microwave bags of popcorn which are full of trans <a href="/misc/fats">fats</a>, <a href="/misc/hidden-sugar">sugar</a>, and PFAS chemicals.  Going homemade is the way.  Just pop some plain kernels in a brown paper bag in the microwave, season, and enjoy.  This big bowl of food has under 180 <a href="/misc/calories">calories</a> and over 6 grams of <a href="/misc/fiber">fiber</a> and 7 grams of <a href="/misc/protein">protein</a>, while taking less than 5 minutes to make!
+Description: Despite being thought of as a junk food during movies, <a href="/misc/grains#popcorn">popcorn</a> can actually be a very healthy and filling snack if done correctly.  It's time to ditch those microwave bags of popcorn which are full of trans <a href="/misc/fats">fats</a>, <a href="/misc/hidden-sugar">sugar</a>, and PFAS chemicals.  Going homemade is the way.  Just pop some plain kernels in a brown paper bag in the microwave, season, and enjoy.  This big bowl of food has under 180 <a href="/misc/calories">calories</a> and over 6 grams of <a href="/misc/fiber">fiber</a> and 7 grams of <a href="/misc/protein">protein</a>, while taking less than 5 minutes to make!
 Instructions: 
 - Add your popcorn to a brown paper bag, and fold down the top 2-3 times
 

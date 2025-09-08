@@ -47,7 +47,7 @@ tags:
 - tortilla
 - mexican
 - vic
-Description: This sweet, sour, and spicy tropical <a href="/misc/fruit">fruit</a> salsa is perfect topping for <a href="/recipes/fajitas">Chicken Fajitas with Peppers</a>. It features finely diced <a href="/misc/fruit#pineapple">pineapple</a>, <a href="/misc/fruit#mangos">mango</a>, and red onion, flavored with hot sauce, lime juice, and a <a href="/recipes/italian-dressing">Homemade Sugar Free Italian Dressing</a>. 
+Description: This sweet, sour, and spicy tropical <a href="/misc/fruit">fruit</a> salsa is perfect topping for <a href="/recipes/fajitas">Chicken Fajitas with Peppers</a>. It features finely diced <a href="/misc/fruit#pineapple">pineapple</a>, <a href="/misc/fruit#mangos">mango</a>, and red <a href="/misc/veggies#onion">onion</a>, flavored with hot sauce, lime juice, and a <a href="/recipes/italian-dressing">Homemade Sugar Free Italian Dressing</a>. 
 Instructions: 
 - Finely dice your pineapple, mango, and onion, and add to a large bowl
 

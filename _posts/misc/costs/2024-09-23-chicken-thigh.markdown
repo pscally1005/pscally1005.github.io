@@ -18,7 +18,7 @@ tags:
 - dollars
 ---
 <u><font size="+2">Introduction</font></u><br>
-&emsp;Here's something I've always wondered:  What's cheaper, bone-in skin-on chicken thighs, or boneless skinless?  Obviously the price per pound of bone-in and skin-on thighs is lower.  But once you discard the bones and skin and are left with just meat, is it still cheaper?
+&emsp;Here's something I've always wondered:  What's cheaper, bone-in skin-on chicken <a href="/misc/meat#chicken-thighs">thighs</a>, or boneless skinless?  Obviously the price per pound of bone-in and skin-on thighs is lower.  But once you discard the bones and skin and are left with just meat, is it still cheaper?
 <center><img src="/assets/Misc/Cost/Chicken Thighs/hen.png" alt="" class="smaller-image"><img src="/assets/Misc/Cost/Chicken Thighs/wallet.png" alt="" class="smaller-image"></center>
 <br>
 <u><font size="+2">Boneless Skinless Chicken Thighs</font></u><br>

@@ -53,7 +53,7 @@ tags:
 - onion
 - chili powder
 - lemon juice
-Description: Maafe is a West African <a href="/misc/nuts#peanuts">peanut</a> butter stew or soup. This is my non-traditional take on it, trying to add more vegetables and cut back on some <a href="/misc/fats">fat</a>, since the <a href="/misc/nuts">nuts</a> already add a lot. It's a great savory way of eating <a href="/recipes/natural-peanut-butter">peanut butter</a>, and makes a large batch of food for not too much effort.  Use <a href="/recipes/natural-peanut-butter">Homemade Natural Nut Butter</a> to step this up even more.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
+Description: Maafe is a West African <a href="/misc/nuts#peanuts">peanut</a> butter stew or soup. This is my non-traditional take on it, trying to add more <a href="/misc/veggies">vegetables</a> and cut back on some <a href="/misc/fats">fat</a>, since the <a href="/misc/nuts">nuts</a> already add a lot. It's a great savory way of eating <a href="/recipes/natural-peanut-butter">peanut butter</a>, and makes a large batch of food for not too much effort.  Use <a href="/recipes/natural-peanut-butter">Homemade Natural Nut Butter</a> to step this up even more.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
 Instructions: 
 - Cut your onions and bell peppers into a medium dice. Add to a Dutch oven or large pot with a spray of oil and salt. Cover, and cook over medium heat until the peppers soften and the onions turn translucent, about 10 minutes
 

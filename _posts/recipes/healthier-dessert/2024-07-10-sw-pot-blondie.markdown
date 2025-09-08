@@ -56,7 +56,7 @@ tags:
 - sugar free syrup
 - maple syrup
 - honey
-Description: These delicious chocolate chip <a href="/misc/nuts#peanuts">peanut</a> butter blondies use sweet potatoes as a base, leaving them rich, delicious, and slightly cakey with much less <a href="/misc/fats">fat</a> and <a href="/misc/hidden-sugar">sugar</a>. You can swap out the chocolate chips for chopped <a href="/misc/nuts">nuts</a> or <a href="/misc/seeds">seeds</a> to make them a breakfast bar too!  You can use either <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>, or just use canned pumpkin puree.  For more sweet potato based desserts, see my fudgy <a href="sweet-potato-brownies">Sweet Potato Brownies (SF)</a>
+Description: These delicious chocolate chip <a href="/misc/nuts#peanuts">peanut</a> butter blondies use <a href="/misc/veggies#sweet-potato">sweet potatoes</a> as a base, leaving them rich, delicious, and slightly cakey with much less <a href="/misc/fats">fat</a> and <a href="/misc/hidden-sugar">sugar</a>. You can swap out the chocolate chips for chopped <a href="/misc/nuts">nuts</a> or <a href="/misc/seeds">seeds</a> to make them a breakfast bar too!  You can use either <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>, or just use canned pumpkin puree.  For more sweet potato based desserts, see my fudgy <a href="sweet-potato-brownies">Sweet Potato Brownies (SF)</a>
 Instructions: 
 - In a large bowl, combine all the ingredients (except chocolate chips) with a hand mixer until smooth and thoroughly mixed.  Fold in the chocolate chips with a spatula
 

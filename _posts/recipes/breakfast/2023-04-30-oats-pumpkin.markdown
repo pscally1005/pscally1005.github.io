@@ -47,7 +47,7 @@ tags:
 - gluten free
 - butternut
 - squash
-Description: Protein overnight oats are easily my favorite breakfast. They are packed with <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!  For more pumpkin recipes, see my <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a>, <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>, or <a href="/recipes/pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a>
+Description: Protein overnight <a href="/misc/grains#oats">oats</a> are easily my favorite breakfast. They are packed with <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!  For more pumpkin recipes, see my <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a>, <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>, or <a href="/recipes/pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a>
 Instructions: 
 - Mix all ingredients together in a bowl, cover, and refrigerate overnight
 

@@ -44,7 +44,7 @@ tags:
 - riced cauliflower
 - side
 - sautee
-Description: Cauliflower rice is a super easy and quick low <a href="/misc/carbs">carb</a> side that is very versatile.  Like <a href="/misc/fake-healthy-foods#white-rice">rice</a>, cauliflower is bland, meaning it will taste like whatever you put on it.  I went for a little garlic and allspice here, and garnished with some parsley for a delicious side in just 10 minutes
+Description: <a href="/misc/veggies#cauliflower">Cauliflower</a> rice is a super easy and quick low <a href="/misc/carbs">carb</a> side that is very versatile.  Like <a href="/misc/fake-healthy-foods#white-rice">rice</a>, cauliflower is bland, meaning it will taste like whatever you put on it.  I went for a little garlic and allspice here, and garnished with some parsley for a delicious side in just 10 minutes
 Instructions: 
 - Preheat a large pan over medium heat with EVOO
 
