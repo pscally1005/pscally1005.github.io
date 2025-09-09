@@ -47,7 +47,7 @@ tags:
 - bake
 - cook
 - carb
-Description: <a href="/misc/veggies#butternut-squash">Butternut squash</a> was my gateway <a href="/misc/veggies">vegetable</a>. I love most veggies now, but growing up, I hated almost all of them. Butternut squash was the one that was able to unlock my love of <a href="/misc/veggies">vegetables</a>, and this recipe how my mom would prepare them. Butternut is a starchy vegetable, similar to <a href="/misc/veggies#potato">potatoes</a> or plantains, so I tend to eat this more as my <a href="/misc/carbs">carb</a> side than a <a href="/misc/veggies">vegetable</a> side, such as pairing this with <a href="/recipes/grilled-shrimp">Grilled Shrimp Skewers</a> and <a href="/recipes/vegetable-medley">Spinach and Onion Vegetable Medley</a> for a delicious and well rounded meal
+Description: <a href="/misc/veggies#butternut-squash">Butternut squash</a> was my gateway <a href="/misc/veggies">vegetable</a>. I love most veggies now, but growing up, I hated almost all of them. Butternut squash was the one that was able to unlock my love of <a href="/misc/veggies">vegetables</a>, and this recipe how my mom would prepare them. Butternut is a starchy vegetable, similar to <a href="/misc/veggies#potato">potatoes</a> or <a href="/misc/veggies#plantain">plantains</a>, so I tend to eat this more as my <a href="/misc/carbs">carb</a> side than a <a href="/misc/veggies">vegetable</a> side, such as pairing this with <a href="/recipes/grilled-shrimp">Grilled Shrimp Skewers</a> and <a href="/recipes/vegetable-medley">Spinach and Onion Vegetable Medley</a> for a delicious and well rounded meal
 Instructions: 
 - Preheat your oven to 400F, and line a large cookie sheet with parchment paper
 

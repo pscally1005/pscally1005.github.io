@@ -191,7 +191,9 @@ tags:
 " %}
 
 {% assign boysenberry = "
-&emsp;TODO.<br>
+&emsp;Boysenberries are a cross between a <a href='#blackberry'>blackberry</a>, <a href='#raspberry'>raspberry</a>, and loganberry, giving them a rich, tangy-sweet flavor and deep purple hue.  Like other dark berries, they are an excellent source of <a href='/misc/fiber'>fiber</a>, as well as <a href='/misc/nutrient-alphabet#F'>folate</a>.  One cup (132 g) of boysenberries contains about 9 g of <a href='/misc/fiber'>fiber</a>, 87 <a href='/misc/calories'>calories</a>, and 12 g of <a href='/misc/carbs'>net carbs</a>.  They're also notable for their high levels of <a href='/misc/phytochemicals'>anthocyanins</a> and other <a href='/misc/phytochemicals'>antioxidants</a>, which support heart health, help combat <a href='/misc/chronic-inflammation'>inflammation</a>, and may play a role in brain health.<br><br>
+
+<center><img src='/assets/Misc/Nutrition/Fruit/heart-health.png' alt='' class='smaller-image'></center><br>
 " %}
 
 {% assign cantaloupe = "
@@ -369,8 +371,10 @@ tags:
 <center><img src='/assets/Misc/Nutrition/Fruit/mango (1).png' alt='' class='smaller-image'></center><br>
 " %}
 
-{% assign oilves = "
-&emsp;TODO.<br>
+{% assign olives = "
+&emsp;Olives are technically a fruit, though they’re most often eaten as a savory food or pressed into <a href='/misc/fats'>olive oil</a>.  They’re unique among fruits for being very high in healthy <a href='/misc/fats'>monounsaturated fats</a> rather than <a href='/misc/carbs'>carbohydrates</a>.  A typical serving of 1 tbsp (about 15 g) contains only 22 <a href='/misc/calories'>calories</a>, 2 g of fat, and virtually no sugar.  Olives are also rich in <a href='/misc/antioxidants'>antioxidants</a> and contain some <a href='/misc/nutrient-alphabet#E'>vitamin E</a>.  They’re naturally quite salty due to the brining process, which makes them a concentrated source of <a href='/misc/sodium'>sodium</a>.  Regular consumption of olives and olive oil has been linked with improved heart health and reduced <a href='/misc/chronic-inflammation'>inflammation</a>.<br><br>
+
+<center><img src='/assets/Misc/Nutrition/Fruit/olives (1).png' alt='' class='smaller-image'></center><br>
 " %}
 
 {% assign nectarine = "
@@ -392,7 +396,9 @@ tags:
 " %}
 
 {% assign passion-fruit = "
-&emsp;TODO.<br>
+&emsp;Passion fruit is a tropical fruit with a tough purple or yellow rind and a seedy, jelly-like interior.  It has a tart-sweet flavor and is often eaten by scooping out the pulp or adding it to smoothies and desserts.  Despite its small size, passion fruit is nutrient-dense.  One fruit (18 g) contains just 17 <a href='/misc/calories'>calories</a>, 2 g of <a href='/misc/fiber'>fiber</a>, and 2 g of natural <a href='/misc/carbs'>sugars</a>.  It contains a fair amount of <a href='/misc/nutrient-alphabet#A'>vitamin A</a>, <a href='/misc/vitamin-c'>vitamin C</a>, and beneficial <a href='/misc/phytochemicals'>plant compounds</a> like carotenoids and polyphenols, which support immune function and skin health.  Passion fruit also contains unique alkaloids that may promote relaxation and better <a href='/misc/sleep'>sleep</a>.<br><br>
+
+<center><img src='/assets/Misc/Nutrition/Fruit/passion-fruit (1).png' alt='' class='smaller-image'></center><br>
 " %}
 
 {% assign peach = "
@@ -408,7 +414,9 @@ tags:
 " %}
 
 {% assign persimmon = "
-&emsp;TODO.<br>
+&emsp;Persimmons are a sweet, honey-like fruit that come in two main varieties: astringent (like Hachiya) and non-astringent (like Fuyu).  They are typically bright orange when ripe and can be eaten fresh, dried, or baked into recipes.  One medium persimmon (170 g) provides about 119 <a href='/misc/calories'>calories</a>, 6 g of <a href='/misc/fiber'>fiber</a>, and 31 g of <a href='/misc/carbs'>carbohydrates</a>.  Persimmons contain <a href='/misc/nutrient-alphabet#A'>vitamin A</a>, <a href='/misc/vitamin-c'>vitamin C</a>, and <a href='/misc/nutrient-alphabet#C'>copper</a>.  They’re also rich in <a href='/misc/phytochemicals'>antioxidants</a> such as beta-carotene and flavonoids, which support <a href='/misc/heart-health'>heart health</a> and may help lower <a href='/misc/chronic-inflammation'>inflammation</a>.  Because of their high natural sugar content, persimmons taste almost like candy when fully ripe.<br><br>
+
+<center><img src='/assets/Misc/Nutrition/Fruit/persimmon (1).png' alt='' class='smaller-image'></center><br>
 " %}
 
 {% assign pineapple = "
@@ -515,7 +523,7 @@ tags:
     | append: "|" | append: lime 
     | append: "|" | append: mandarin
     | append: "|" | append: mangos
-    | append: "|" | append: olive 
+    | append: "|" | append: olives 
     | append: "|" | append: orange
     | append: "|" | append: papaya
     | append: "|" | append: passion-fruit
@@ -536,6 +544,7 @@ tags:
 
 {% assign nutrients = 
     "Calories," 
+    | append: "Fat," 
     | append: "Carbs," 
     | append: "Net Carbs,"
     | append: "Fiber,"

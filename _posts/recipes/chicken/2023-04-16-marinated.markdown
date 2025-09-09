@@ -52,7 +52,7 @@ Instructions:
 - Grill on a grill pan or bake in the oven (400F, 12-14 minutes)
 - <center><img src="/assets/Food/Chicken/Marinated/marinated-3.jpg" alt="" class="instruction-image"></center>
 
-- For your plantains, preheat your air fryer to 370F. Use a knife to peel the plantain keeping it in one piece. Air fry for 16 minutes, filling halfway
+- For your <a href="/misc/veggies#plantain">plantains</a>, preheat your air fryer to 370F. Use a knife to peel the <a href="/misc/veggies#plantain">plantain</a> keeping it in one piece. Air fry for 16 minutes, filling halfway
 
 - Remove to a cutting board and slice. Lightly sprinkle with salt, and serve
 ---

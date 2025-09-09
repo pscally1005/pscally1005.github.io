@@ -16,7 +16,7 @@ tags:
 - freezer
 ---
 <u><b><font size="+2">Description</font></b></u><br>
-&emsp;I normally cook with the jars of minced garlic (aka "jarlic") because it's more convenient, but it lacks that garlic-y pungency of fresh garlic.  The problem is that fresh garlic is a pain to work with.  It's papery and annoying, makes a mess, and hard to chop.  What's an easy and cheap way to get around this problem?
+&emsp;I normally cook with the jars of minced garlic (aka "jarlic") because it's more convenient, but it lacks that garlic-y pungency of fresh <a href="/misc/veggies#garlic">garlic</a>.  The problem is that fresh <a href="/misc/veggies#garlic">garlic</a> is a pain to work with.  It's papery and annoying, makes a mess, and hard to chop.  What's an easy and cheap way to get around this problem?
 <br><center><img src="/assets/Misc/Cooking/Garlic Paste/garlic.png" alt="" class="smaller-image"></center>
 
 &emsp;You can buy frozen garlic paste cubes that you can easily chuck in a dish for plenty of garlic flavor with little effort.  These products can be fairly expensive though.  But they're pretty easy to make on your own.
