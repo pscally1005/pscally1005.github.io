@@ -62,7 +62,7 @@ tags:
 - vic
 Description: These "Chickpea Chows" as I call them are a no bake healthy cookie dough recipe. They evolved out of my <a href="banana-bread-hummus">Banana Bread Hummus Spread</a> recipe, where I continued to add solids until I had a workable dough. They're naturally sweetened, filling, and a fun way to add more nutrients to your diet.  For another edible cookie dough, see my <a href="protein-cookie-dough">Edible Protein Cookie Dough</a>, or for another <a href="/misc/protein">protein</a> bean based dessert, you should make my <a href="chickpea-brownies">Protein Brownie Bars</a>.  For other no bake bite sized snacks, check out my <a href="/recipes/trail-mix-balls">Trail Mix Balls</a>, <a href="/recipes/energy-bites">No Bake Energy Bites</a>, or my <a href="/recipes/carrot-cake-bites">Carrot Cake Energy Bites</a>
 Instructions: 
-- In the following order, blend all ingredients together in a food processor - 15.5 oz can chickpeas (drained and rinsed), peanut butter, frozen bananas, liquid sweetener, almond extract, cinnamon, salt, PB2, whey, casein, and oat flour
+- In the following order, blend all ingredients together in a food processor - 15.5 oz can chickpeas (drained and rinsed), peanut butter, frozen bananas, liquid sweetener, almond extract, cinnamon, salt, powdered peanut butter, whey, casein, and oat flour
 
 - A slightly sticky cookie dough will have formed. Optionally, fold in some chopped chocolate (1/4 cup, 60 g). Freeze the food processor for about 15 minutes to harden the dough
 

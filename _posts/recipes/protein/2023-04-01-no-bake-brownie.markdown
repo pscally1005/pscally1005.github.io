@@ -52,9 +52,9 @@ tags:
 - frozen
 - freezer
 - vic
-Description: These no-bake <a href="/misc/fruit#banana">banana</a> brownies are my favorite <a href="/misc/protein">protein</a> based dessert. The recipe is made in less than 10 minutes and is full of <a href="/misc/nuts#peanuts">peanut</a> butter, chocolate, and banana flavor. They melt fast in your hands, but I'm sure that won't be an issue because you will have already finished eating it!  Or check out any of my other <a href="/brownies">brownie recipes</a>!
+Description: These no-bake <a href="/misc/fruit#banana">banana</a> brownies are one of my favorite <a href="/misc/protein">protein</a> based desserts. The recipe is made in less than 10 minutes and is full of <a href="/misc/nuts#peanuts">peanut</a> butter, chocolate, and banana flavor. They melt fast in your hands, but I'm sure that won't be an issue because you will have already finished eating it!  Or check out any of my other <a href="/brownies">brownie recipes</a>!
 Instructions: 
-- In a large bowl, mash the bananas with a fork. Mix in the rest of the ingredients - nut butter (almond or peanut), PB2, whey, cocoa, vanilla, and sweetener
+- In a large bowl, mash the bananas with a fork. Mix in the rest of the ingredients - nut butter (almond or peanut), powdered peanut butter, whey, cocoa, vanilla, and sweetener
 
 - Pour batter into a 9" square pan lined with parchment paper. Freeze for about 2-3 hours to fully harden, or overnight
 
