@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 permalink: /recipes/double-chocolate-date-cookies
-image: /assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-cover.jpg
+image: /assets/Food/Healthier Dessert/Double Choc Cookie/cover-new.jpg
 ing: doublechoccookie-ing
 facts: doublechoccookie-facts
 servingSize: 1 cookie
@@ -66,7 +66,7 @@ Instructions:
 - Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be.  Instead of folding the chocolate chips into the batter, you can press them into the top of the cookies here
 
 - Bake for about 14 minutes at 350F, or until the cookies are set to the touch
-- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-baked.jpg" alt="" class="instruction-image"></center>
+- <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/cooked-new.jpg" alt="" class="instruction-image"></center>
 
 - Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely
 - <center><img src="/assets/Food/Healthier Dessert/Double Choc Cookie/double-choc-cool.jpg" alt="" class="instruction-image"></center>
