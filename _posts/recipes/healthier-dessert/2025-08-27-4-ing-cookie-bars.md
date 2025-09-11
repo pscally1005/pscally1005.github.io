@@ -50,7 +50,7 @@ tags:
 - vanilla extract
 - semi sweet chocolate chips
 - sugar free chocolate chips
-Description: These simple and healthy chocolate chip cookie bars require only 4 ingredients:<b></b> mashed <a href="/misc/fruit#banana">bananas</a>, powdered <a href="/misc/nuts#peanuts">peanut</a> butter, vanilla extract, and chocolate chips.  They're very similar to my <a href="/recipes/cookie-bar">No Bake Cookie Bars</a>, where here I'm instead opting for low <a href="/misc/fats">fat</a> powdered peanut butter instead of traditional <a href="/recipes/natural-peanut-butter">peanut butter</a>.  Nothing wrong with <a href="/misc/fats">fat</a>, but good to have options!
+Description: These simple and healthy chocolate chip cookie bars require only 4 ingredients:<b></b> mashed <a href="/misc/fruit#banana">bananas</a>, powdered <a href="/misc/nuts#peanuts">peanut</a> butter, vanilla extract, and chocolate chips.  They're very similar to my <a href="/recipes/cookie-bar">No Bake Cookie Bars</a>, where here I'm instead opting for low <a href="/misc/fats">fat</a> powdered peanut butter instead of traditional <a href="/recipes/natural-peanut-butter">peanut butter</a>.  Nothing wrong with <a href="/misc/fats">fat</a>, but good to have options!  Or check out any of my other <a href="/cookies">cookie recipes</a>!
 Instructions: 
 - In a large bowl, mash your bananas with the back of a fork. Mix in the vanilla extract and powdered peanut butter with a silicone spatula. Fold in the chocolate chips
 - <center><img src="/assets/Food/Healthier Dessert/4 Ing Cookie Bars/bowl.jpg" alt="" class="instruction-image"></center>
