@@ -568,8 +568,12 @@ def ingredients(food):
         return str("Red lentil pasta")
     elif food == "Cornmeal, yellow, whole-grain":
         return str("Cornmeal")
-    elif food == "cracker":
+    elif food == "cracker" or food == "cracker-choc":
         return str("Gluten free graham crackers")
+    elif food == "pie-crust-choc":
+        return str("Healthier Graham Cracker Pie Crust, chocolate")
+    elif food == "pie-crust":
+        return str("Healthier Graham Cracker Pie Crust")
     
     # Meat & fish
     elif food == "Beef, raw, liver, variety meats and by-products":
@@ -614,9 +618,7 @@ def main(path = ""):
 
     if path == "":
         # path to csv files
-        # path = r"C:\Users\mets1\Documents\website\_data\*-ing.csv"
         path = r"C:\Users\mets1\Documents\website\python\testing\*-ing.csv"
-        # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_data\*-ing.csv"
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
         print("empty path")
 

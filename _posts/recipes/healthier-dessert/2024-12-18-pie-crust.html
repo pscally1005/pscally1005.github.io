@@ -52,6 +52,8 @@ Description: Graham cracker crusts are staples of most pies, and typically made 
 Instructions: 
 - Blend graham crackers in a food processor until you have a fine crumb. Blend in the applesauce. The dough should look too dry, but just come together with pressed with your hands
 
+- I'm using my standard <a href="/recipes/gf-crackers">Gluten Free Graham Crackers</a> here, but you can make this into a chocolate graham cracker pie crust by using chocolate graham crackers instead
+
 - Transfer to an 9" circular pan, and use a measuring cup to evenly press into the bottom and sides
 
 - Blind bake the pie crust at 350F for about 10 minutes, or until lightly golden brown on the edges. Let cool completely before filling
@@ -66,3 +68,24 @@ Instructions:
 - Alternatively, you can use the raw dough of the <a href="/recipes/gf-crackers">Gluten Free Graham Crackers</a> and turn that straight into the pie crust; no baking beforehand necessary.  Just take the raw ingredients of the graham cracker dough, shape in a 9" cake pan, and bake at 350F for about 15 minutes, until lightly browned.  Note that this recipe calls for all the crackers plus some applesauce; the applesauce is not needed if you're baking the raw crackers for the crust
 - <center><img src="/assets/Food/Healthier Dessert/Pie Crust/raw-1.jpg" alt="" class="half-page"><img src="/assets/Food/Healthier Dessert/Pie Crust/baked-1.jpg" alt="" class="half-page"></center>
 ---
+{% assign files = 
+    "piecrust," 
+    | append: "piecrustchoc" 
+    | split: "," 
+%}
+{% assign titles = 
+    "Regular<br>Pie Crust</a>," 
+    | append: "Chocolate<br>Pie Crust</a>" 
+    | split: "," 
+%}
+{% assign nutrients = 
+    "Calories," 
+    | append: "Protein," 
+    | append: "Fat," 
+    | append: "Net Carbs," 
+    | append: "Fiber," 
+    | append: "Added Sugar," 
+    | append: "Sugar Alcohol" 
+    | split: "," 
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

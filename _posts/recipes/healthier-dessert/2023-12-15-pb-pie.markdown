@@ -18,8 +18,8 @@ brownie: no
 cookie: no
 permalink: /recipes/peanut-butter-pie
 image: /assets/Food/Healthier Dessert/PB Pie/pb-pie-cover.jpg
-ing: pbpie-ing
-facts: pbpie-facts
+ing: pbpienew-ing
+facts: pbpienew-facts
 servingSize: 1 slice
 section1: Crust
 start2: Banana, overripe
@@ -30,11 +30,11 @@ start4:
 section4: 
 start5: 
 section5: 
-Prep: 20
-Rest: 
-Cook: 10
+Prep: 10
+Rest: 240
+Cook: 
 Source1: https://ifoodreal.com/clean-no-bake-peanut-butter-pie/#wprm-recipe-container-37022
-Source2: 
+Source2: https://poormanprotein.com/recipes/pie-crust
 whisk: https://s.samsungfood.com/qSjT7
 tags: 
 - peanut butter pie
@@ -56,16 +56,15 @@ tags:
 - no bake
 - chill
 - vic
-Description: Peanut butter pie is a classic Christmas stable, but it's filled with tons of unhealthy <a href="/misc/fats">fats</a> and sugars, making it super <a href="/misc/calories">calorie</a> dense. This recipe boosts the <a href="/misc/protein">protein</a> content while cutting back on the <a href="/misc/hidden-sugar">sugar</a> and <a href="/misc/fats">fat</a>, but still keeping that great flavor, while being dairy free. It combines a <a href="/misc/nuts#peanuts">peanut</a> flour crust with the <a href="/recipes/natural-peanut-butter">peanut butter</a> and <a href="/misc/fruit#banana">banana</a> filling that you'll love.  For the filling, either make a standard <a href="natural-peanut-butter">Homemade Natural Nut Butter</a>, or go double chocolate with <a href="nutella">Roasted Hazelnut Nutella (SF)</a>
+Description: Peanut butter pie is a classic Christmas stable, but it's filled with tons of unhealthy <a href="/misc/fats">fats</a> and <a href="/misc/hidden-sugar">sugars</a>, making it super <a href="/misc/calories">calorie</a> dense. This recipe boosts the <a href="/misc/protein">protein</a> content while cutting back on the <a href="/misc/hidden-sugar">sugar</a> and <a href="/misc/fats">fat</a>, but still keeping that great flavor, while also being dairy free. It combines a <a href="/recipes/pie-crust">Homemade Graham Cracker Pie Crust</a> with the <a href="/recipes/natural-peanut-butter">peanut butter</a> and <a href="/misc/fruit#banana">banana</a> filling that you'll love.  If you have a peanut allergy, just swap out the <a href="/recipes/natural-peanut-butter">peanut butter</a> and <a href="https://amzn.to/4mZuQXM">powdered peanut butter</a> for <a href="/recipes/natural-peanut-butter">almond butter</a> and <a href="https://amzn.to/48awAJ9">powdered almond butter</a>
 Instructions: 
-- Preheat oven to 325F. In a food processor, blend the nuts and oats until finely chopped. Blend in the rest of the crust ingredients (maple syrup, almond milk, cocoa powder, vanilla, cinnamon, and salt). It should feel like damp sand, and come together when pressed
-- <center><img src="/assets/Food/Healthier Dessert/PB Pie/pb-pie-1.jpg" alt="" class="instruction-image"></center>
+- Prepare your <a href="/recipes/pie-crust">homemade pie crust</a> according to the recipe.  My standard <a href="/recipes/pie-crust">Healthier Pie Crust</a> is a regular graham craham cracker pie crust, though you can make it chocolate by using <a href="/recipes/gf-cracker">Chocolate Graham Crackers</a>.  Alternatively, you can also use any storebought pie crust if you prefer.
+- <center><a href="/recipes/gf-crackers"><img src="/assets/Food/Finger Food/GF Crackers/cover.jpg" alt="" class="instruction-image"></a></center>
+- <center><a href="/recipes/pie-crust"><img src="/assets/Food/Healthier Dessert/Pie Crust/pie.jpg" alt="" class="instruction-image"></a></center>
 
-- Press the crust mixture into a circular pan, bringing up the walls if you can.  Prick the bottom with a fork a handful of times.  Bake for 10 minutes, or until firm. Transfer to the fridge to fully cool
-- <center><img src="/assets/Food/Healthier Dessert/PB Pie/pb-pie-2.jpg" alt="" class="instruction-image"></center>
+- Mash your bananas with the back of a fork in a large bowl.  Combine together the rest of the filling ingredients with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until fully combined
 
-- Mix together the filling ingredients in a large bowl with a hand mixer - bananas, peanut butter, powdered peanut butter, almond milk, maple syrup, oat flour, and vanilla
+- Transfer the mixture into the crust, smoothing the top with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. Optionally, top with chocolate chips (1/4 cup, 60g), or here I used a crumbled chocolate chip cookie
 
-- Spoon the mixture onto the crust, smoothing with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. Optionally, top with chocolate chips (1/4 cup, 60g), or here I used a crumbled chocolate chip cookie. Chill for about 4 hours before slicing
-- <center><img src="/assets/Food/Healthier Dessert/PB Pie/pb-pie-4.jpg" alt="" class="instruction-image"></center>
+- Chill in the fridge for about 4 hours before slicing
 ---
