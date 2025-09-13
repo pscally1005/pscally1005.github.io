@@ -46,7 +46,7 @@ tags:
 - pumpkin pie
 - pumpkin spice
 - mashed sweet potato
-Description: Similar to the <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a>, this is more of a method than a recipe, as unless you're a baby I don't expect you'll be eating this on its own. <a href="/misc/veggies#butternut-squash">Butternut squash</a> is a great pumpkin replacement, especially in this <a href="oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>, or my <a href="pumpkin-bread">Protein Pumpkin Loaf</a>.  Butternut squash puree can also be used in place of mashed <a href="/misc/fruit#banana">banana</a> or applesauce; I've even had great success using it in my <a href="chickpea-brownies">Chickpea Protein Brownies</a>
+Description: Similar to the <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a>, this is more of a method than a recipe, as unless you're a baby I don't expect you'll be eating this on its own. <a href="/misc/veggies#butternut-squash">Butternut squash</a> is a great pumpkin replacement, especially in this <a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>, or my <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a>.  Butternut squash puree can also be used in place of mashed <a href="/misc/fruit#banana">banana</a> or applesauce; I've even had great success using it in my <a href="/recipes/chickpea-brownies">Chickpea Protein Brownies</a>
 Instructions: 
 - Preheat oven to 400F and line a cookie sheet with parchment paper
 

@@ -34,14 +34,14 @@ tags:
 ---
 <i><font size="+2">Note</font><br>
 &emsp;The following is an excerpt from my post <a href="/misc/fake-healthy-foods">'Healthy' Trap Foods</a>, in which I made a detailed list of foods that I believe to deceptively unhealthy.  I've broken that list down into easier to digest categories based on what food they are.  Linked below are all the individual posts:
-- <i><a href="trap-foods-breakfast">Trap Foods - Breakfast</a><br></i>
-- <i><a href="trap-foods-drinks">Trap Foods - Drinks</a><br></i>
-- <i><a href="trap-foods-produce">Trap Foods - Fruits & Veggies</a><br></i>
-- <i><a href="trap-foods-grains">Trap Foods - Grains</a><br></i>
-- <i><a href="trap-foods-meals">Trap Foods - Meals</a><br></i>
-- <i><a href="trap-foods-savory">Trap Foods - Savory Sauces</a><br></i>
-- <i><a href="trap-foods-snacks">Trap Foods - Snacks</a><br></i>
-- <i><a href="trap-foods-sweet-spreads">Trap Foods - Sweet Spreads</a><br></i>
+- <i><a href="/misc/trap-foods-breakfast">Trap Foods - Breakfast</a><br></i>
+- <i><a href="/misc/trap-foods-drinks">Trap Foods - Drinks</a><br></i>
+- <i><a href="/misc/trap-foods-produce">Trap Foods - Fruits & Veggies</a><br></i>
+- <i><a href="/misc/trap-foods-grains">Trap Foods - Grains</a><br></i>
+- <i><a href="/misc/trap-foods-meals">Trap Foods - Meals</a><br></i>
+- <i><a href="/misc/trap-foods-savory">Trap Foods - Savory Sauces</a><br></i>
+- <i><a href="/misc/trap-foods-snacks">Trap Foods - Snacks</a><br></i>
+- <i><a href="/misc/trap-foods-sweet-spreads">Trap Foods - Sweet Spreads</a><br></i>
 
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.

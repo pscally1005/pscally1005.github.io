@@ -51,7 +51,7 @@ tags:
 - cocoa powder
 - whey
 - protein powder
-Description: Cottage cheese ice cream is more than just an Internet food trend. It's a <a href="/misc/protein">protein</a> packed copycat dessert that is filling and satisfied any ice cream cravings. This recipe adds in some <a href="/misc/protein">protein</a> powder for even more of a <a href="/misc/protein">protein</a> boost, and can be made in various flavors, like <a href="/misc/nuts#peanuts">peanut</a> butter or mint chocolate.  For a dairy free healthy ice cream, make some <a href="nice-cream">Banana Nice Cream</a>
+Description: Cottage cheese ice cream is more than just an Internet food trend. It's a <a href="/misc/protein">protein</a> packed copycat dessert that is filling and satisfied any ice cream cravings. This recipe adds in some <a href="/misc/protein">protein</a> powder for even more of a <a href="/misc/protein">protein</a> boost, and can be made in various flavors, like <a href="/misc/nuts#peanuts">peanut</a> butter or mint chocolate.  For a dairy free healthy ice cream, make some <a href="/recipes/nice-cream">Banana Nice Cream</a>
 Instructions: 
 - Mix base ingredients together in a tupperware or small blender - cottage cheese, whey, stevia, and vanilla
 

@@ -44,7 +44,7 @@ tags:
 - roasted
 - carb
 - vic
-Description: Baked <a href="/misc/veggies#sweet-potato">Sweet Potatoes</a> are possibly the easiest side to a meal of all time. Just prick it with a fork, wrap it, and bake it. They're great on their own, not even needing any spices if you don't want any. Sweet potatoes are a great source of <a href="/misc/fiber">fiber</a> and vitamin A, and help you in feeling full. For my other stable carb side, check out <a href="rice-and-beans">Classic Rice and Beans</a>
+Description: Baked <a href="/misc/veggies#sweet-potato">Sweet Potatoes</a> are possibly the easiest side to a meal of all time. Just prick it with a fork, wrap it, and bake it. They're great on their own, not even needing any spices if you don't want any. Sweet potatoes are a great source of <a href="/misc/fiber">fiber</a> and vitamin A, and help you in feeling full. For my other stable carb side, check out <a href="/recipes/rice-and-beans">Classic Rice and Beans</a>
 Instructions: 
 - Wash your sweet potato, and prick it a few times with a fork. Wrap in aluminum foil, and air fry at 400F for 45 minutes
 

@@ -71,7 +71,7 @@ Instructions:
 - Cut the tomatoes pepper into a medium dice. Add over the greens to the side of the bowl. Add the crumbled feta and chopped nuts to the center
 - <center><img src="/assets/Food/Fish/Massive Salad/massive-salad-3.jpg" alt="" class="instruction-image"></center>
 
-- For the <a href="/misc/protein">protein</a> source, to keep this cheap and easy for a lunch, I've opted for a 5 oz can (4 oz drained weight) of albacore tuna canned in water. It's cheap, low in <a href="/misc/fats">fat</a>, high in <a href="/misc/protein">protein</a>, and super easy. Other great <a href="/misc/protein">protein</a> sources are shredded chicken (from either from a rotiserie chicken or <a href="pulled-chicken">BBQ Pulled Chicken and Coleslaw</a>) or any ground meat (like taco meat found in my <a href="taco">Sauteed Taco Meat and Fajita Veggies</a>
+- For the <a href="/misc/protein">protein</a> source, to keep this cheap and easy for a lunch, I've opted for a 5 oz can (4 oz drained weight) of albacore tuna canned in water. It's cheap, low in <a href="/misc/fats">fat</a>, high in <a href="/misc/protein">protein</a>, and super easy. Other great <a href="/misc/protein">protein</a> sources are shredded chicken (from either from a rotiserie chicken or <a href="/recipes/pulled-chicken">BBQ Pulled Chicken and Coleslaw</a>) or any ground meat (like taco meat found in my <a href="/recipes/taco">Sauteed Taco Meat and Fajita Veggies</a>
 
 - Add your <a href="/misc/protein">protein</a> source on top of the salad, drizzle with your dressing, and enjoy!
 - <center><img src="/assets/Food/Fish/Massive Salad/massive-salad-5.jpg" alt="" class="instruction-image"></center>

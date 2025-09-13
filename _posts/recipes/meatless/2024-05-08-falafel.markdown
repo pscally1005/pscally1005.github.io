@@ -75,5 +75,5 @@ Instructions:
 
 - Air fry at 375F for 12 minutes, flipping halfway. Alternatively, bake in a preheated 375F oven for 20 minutes, flipping halfway
 
-- Eat the falafel as is, put on a wrap with hummus (check out my <a href="red-lentil-wraps">Red Lentil Wraps</a> and <a href="sweet-potato-hummus">Golden Sweet Potato Hummus</a>), or crumble over a salad
+- Eat the falafel as is, put on a wrap with hummus (check out my <a href="/recipes/red-lentil-wraps">Red Lentil Wraps</a> and <a href="/recipes/sweet-potato-hummus">Golden Sweet Potato Hummus</a>), or crumble over a salad
 ---

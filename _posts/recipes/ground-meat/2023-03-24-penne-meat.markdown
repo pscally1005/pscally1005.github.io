@@ -53,7 +53,7 @@ tags:
 - broil
 - breadcrumbs
 - panko
-Description: This ground <a href="/misc/meat">meat</a> and penne baked casserole was my go to for feeding a crowd during my running club pasta parties in college. They're really easy to make a day ahead, and simply just reheat in the pan on the day of your event. Feel free to mix in some chopped <a href="/misc/veggies#spinach-fresh">spinach</a> as well, or serve with a side of roasted <a href="/misc/veggies#broccoli">broccoli</a>, such as my <a href="running-club-broccoli">Running Club Broccoli</a>
+Description: This ground <a href="/misc/meat">meat</a> and penne baked casserole was my go to for feeding a crowd during my running club pasta parties in college. They're really easy to make a day ahead, and simply just reheat in the pan on the day of your event. Feel free to mix in some chopped <a href="/misc/veggies#spinach-fresh">spinach</a> as well, or serve with a side of roasted <a href="/misc/veggies#broccoli">broccoli</a>, such as my <a href="/recipes/running-club-broccoli">Running Club Broccoli</a>
 Instructions: 
 - Preheat the oven to 375F. Spray 9x13in pan with cooking spray
 

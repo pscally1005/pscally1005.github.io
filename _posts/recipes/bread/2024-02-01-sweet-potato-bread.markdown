@@ -45,12 +45,12 @@ tags:
 - butternut
 - squash
 - breakfast
-Description: I love a classic <a href="/misc/grains#whole-wheat">whole wheat</a> bread, but I also love those potato buns for hamburgers. So I decided to combine the 2, and modify my classic bread recipe to include some <a href="/misc/veggies#sweet-potato">sweet potato</a>. <a href="/misc/veggies#sweet-potato">Sweet potatoes</a> give a slight orange color and mild sweetness, that make the loaf just a little bit better.  In this photo here, I used some <a href="sweet-potato-puree">Roasted Sweet Potato Puree</a> as a spread for double sweet potato action!
+Description: I love a classic <a href="/misc/grains#whole-wheat">whole wheat</a> bread, but I also love those potato buns for hamburgers. So I decided to combine the 2, and modify my classic bread recipe to include some <a href="/misc/veggies#sweet-potato">sweet potato</a>. <a href="/misc/veggies#sweet-potato">Sweet potatoes</a> give a slight orange color and mild sweetness, that make the loaf just a little bit better.  In this photo here, I used some <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a> as a spread for double sweet potato action!
 Instructions: 
 - Peel your sweet potato, and cut into cubes. Add to a medium pot and cover with water. Bring to a boil, cover, reduce to medium, and simmer for around 15-18 minutes, until the potato can be easily crushed with the back of a spoon. Use a slotted spoon to scoop out the potatoes, and reserve the water (you will need it later in the bread). Let everything cool to room temperature
 
 - In a large bowl, combine the water (use the leftover boiling water, and add some fresh water if you need more) and the sweet potatoes. Mash with a fork or potato masher, and fully combine into the water
 
-- From here, you can proceed on with making the loaf of bread as normal. Since bread making can be quite complicated, I will leave the link to my <a href="ww-bread">100% Whole Wheat Bread</a> recipe, which breaks down my steps for a loaf of bread. Note that this dough is a little stickier than I am used to
+- From here, you can proceed on with making the loaf of bread as normal. Since bread making can be quite complicated, I will leave the link to my <a href="/recipes/ww-bread">100% Whole Wheat Bread</a> recipe, which breaks down my steps for a loaf of bread. Note that this dough is a little stickier than I am used to
 - <center><img src="/assets/Food/Bread/Sweet Potato/sweet-potato-3.jpg" alt="" class="instruction-image"></center>
 ---

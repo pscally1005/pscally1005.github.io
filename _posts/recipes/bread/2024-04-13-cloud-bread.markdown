@@ -65,6 +65,6 @@ Instructions:
 - Bake for 26 minutes in a preheated 300F oven. While the pizza is bigger, it's also a bit thinner, so both the pizza and the smaller bread should take the same time. Let cool totally on the pan before removing
 - <center><img src="/assets/Food/Bread/Cloud Bread/cloud-6.jpg" alt="" class="instruction-image"></center>
 
-- To reheat for a pizza, top with sauce, cheese, and toppings, and bake at 400F for 5 minutes until warm and melty.  The sauce here is my <a href="avocado-pesto">Avocado Pesto - Vegan and Oil Free</a>
+- To reheat for a pizza, top with sauce, cheese, and toppings, and bake at 400F for 5 minutes until warm and melty.  The sauce here is my <a href="/recipes/avocado-pesto">Avocado Pesto - Vegan and Oil Free</a>
 - <center><img src="/assets/Food/Bread/Cloud Bread/cloud-7.jpg" alt="" class="instruction-image"></center>
 ---

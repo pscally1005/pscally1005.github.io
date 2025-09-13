@@ -61,7 +61,7 @@ tags:
 - fruit
 - breakfast
 - vic
-Description: <a href="/misc/protein">Protein</a> ice cream sandwiches are one of my favorite desserts to make. They are 2 no bake <a href="/misc/protein">protein</a> oat cookies, with a layer of <a href="nice-cream">Banana Nice Cream</a> in the middle. The ice cream is very versatile, so you can mix up the flavor by using other frozen <a href="/misc/fruit">fruits</a> or extracts.
+Description: <a href="/misc/protein">Protein</a> ice cream sandwiches are one of my favorite desserts to make. They are 2 no bake <a href="/misc/protein">protein</a> oat cookies, with a layer of <a href="/recipes/nice-cream">Banana Nice Cream</a> in the middle. The ice cream is very versatile, so you can mix up the flavor by using other frozen <a href="/misc/fruit">fruits</a> or extracts.
 Instructions: 
 - In a large bowl, mash your bananas with a fork. Mix in the rest of the cookie ingredients - peanut butter, vanilla, almond extract, liquid stevia, cinnamon, salt, cocoa, whey, casein, and quick oats. Chill in the fridge for the oats to soak up the liquid, about 15 minutes
 

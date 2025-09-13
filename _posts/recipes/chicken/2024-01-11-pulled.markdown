@@ -49,7 +49,7 @@ tags:
 - oil
 - vinegar
 - sandwich
-Description: This BBQ pulled <a href="/misc/meat#chicken-thighs">chicken</a> is made easy in a slow cooker, and features a homemade <a href="bbq-sauce">Unsweetened BBQ Sauce</a>. I paired it with a side of oil and vinegar coleslaw (not a mayo based coleslaw), and can be easily made into a sandwich. I always hated shredding <a href="/misc/veggies#cabbage">cabbage</a>, until I realized I could use my food processor to do the work for me. Give it a go, and check out the homemade sauce, or use your own BBQ sauce
+Description: This BBQ pulled <a href="/misc/meat#chicken-thighs">chicken</a> is made easy in a slow cooker, and features a homemade <a href="/recipes/bbq-sauce">Unsweetened BBQ Sauce</a>. I paired it with a side of oil and vinegar coleslaw (not a mayo based coleslaw), and can be easily made into a sandwich. I always hated shredding <a href="/misc/veggies#cabbage">cabbage</a>, until I realized I could use my food processor to do the work for me. Give it a go, and check out the homemade sauce, or use your own BBQ sauce
 Instructions: 
 - Place the chicken into a large slow cooker. Add spices (chili powder, paprika, garlic and onion powder, black pepper, and cayenne) over the chicken, and mix to evenly coat it all
 

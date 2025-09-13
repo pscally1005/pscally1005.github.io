@@ -47,7 +47,7 @@ tags:
 - protein
 - casein
 - vic
-Description: These simple <a href="/misc/veggies">vegetable</a> snack bites are delicious and super nutritious. They're made by blending together <a href="/misc/veggies#broccoli">broccoli</a> and spices, turned into a dough and baked in bite sized pieces. Bonus points for accidentally satisfying all my criteria for a <a href="/misc/protein">protein</a> bar as well!  For a meal, you can pair them with my <a href="chicken-fingers">Gluten Free Air Fryer Chicken Fingers</a> recipe
+Description: These simple <a href="/misc/veggies">vegetable</a> snack bites are delicious and super nutritious. They're made by blending together <a href="/misc/veggies#broccoli">broccoli</a> and spices, turned into a dough and baked in bite sized pieces. Bonus points for accidentally satisfying all my criteria for a <a href="/misc/protein">protein</a> bar as well!  For a meal, you can pair them with my <a href="/recipes/chicken-fingers">Gluten Free Air Fryer Chicken Fingers</a> recipe
 Instructions: 
 - Thaw out your broccoli in the microwave, or let sit on the counter for a few hours
 

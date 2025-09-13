@@ -50,19 +50,19 @@ tags:
 - lemon juice
 - bake
 - roast
-Description: These baked <a href="/misc/meat#chicken-thighs">chicken</a> thighs are dead simple to make and taste great. Just mix spices in a bowl, dump over chicken, and stick in the oven. I've gone with thighs today to mix it up, but chicken breasts would also work (just reduce the time)
-Instructions: 
-- Preheat your oven to 400F, and line a large cookie sheet with parchment paper
+Description: These baked <a href="/misc/meat#chicken-thighs">chicken</a> thighs are dead simple to make and taste great. Just mix spices in a bowl, dump over chicken, and stick in the oven. I've gone with thighs today to mix it up, but chicken breasts would also work (just reduce the time).  For a dish with a similar cooking method, check out my <a href="/recipes/chicken-wings">Gluten Free Baked Buffalo Wings</a>
+Instructions:
+- Preheat your oven to 250F (not a typo), and line a large cookie sheet with parchment paper
 
-- In a small bowl, mix together your spices - paprika, garlic powder, onion powder, chili powder, thyme, and salt
+- Add your chicken thighs to a large bowl with lemon juice and the spices. Mix until fully combined. Transfer to your baking sheet
 
-- Add your chicken thighs to a large bowl with lemon juice. Add the whole spice mix on top, and mix until fully coated. Transfer to your baking sheet
+- Roast at 250F for about 45 minutes
 
-- Roast at 400F for about 30 minutes, or until the thighs are between 175F and 185F
+- Increase the oven temp to 400F, and roast for another 30-45 minues.
 - <center><img src="/assets/Food/Chicken/Baked Thighs/baked-thighs.jpg" alt="" class="instruction-image"></center>
 
-- You can use thinly sliced chicken breasts instead, but you'll need to reduce the time. Roast at 400F until the breasts reach 165F, about 15 minutes
+- You can also use thinly sliced chicken breasts instead. Just do 1 bake at 400F until the breasts reach 165F, about 15 minutes
 
-- You can eat them as a standalone piece of meat on your plate, but today I decided to chop up the baked pieces and use them in place of ground turkey in my <a href="/recipes/penne-casserole">Penne and Meat Casserole Bake</a>
+- You can eat them as a standalone piece of meat on your plate, but today I decided to chop up the baked pieces and use them in place of <a href="/misc/meat#ground-turkey">ground turkey</a> in my <a href="/recipes/penne-casserole">Penne and Meat Casserole Bake</a>
 - <center><img src="/assets/Food/Chicken/Baked Thighs/thigh-casserole.jpg" alt="" class="instruction-image"></center>
 ---
