@@ -1,21 +1,21 @@
 Nutrient,Amount,Unit,DV
-Calories,30,,
-"Vitamin A, RAE",0.53,mcg,0 %
+Calories,29,,
+"Vitamin A, RAE",0.51,mcg,0 %
 "Carotene, alpha",0,mcg,
-"Carotene, beta",5.87,mcg,
-"Cryptoxanthin, beta",5.87,mcg,
-"Lutein + zeaxanthin",5.92,mcg,
+"Carotene, beta",5.65,mcg,
+"Cryptoxanthin, beta",5.65,mcg,
+"Lutein + zeaxanthin",5.7,mcg,
 "Lycopene",0.01,mcg,
 "Retinol",0,mcg,
 "Thiamin [Vitamin B1]",0.009,mg,1 %
 "Riboflavin [Vitamin B2]",0.015,mg,1 %
-"Niacin [Vitamin B3]",0.044,mg,0 %
-"Pantothenic acid [Vitamin B5]",0.03,mg,1 %
-"Vitamin B6",0.026,mg,2 %
+"Niacin [Vitamin B3]",0.043,mg,0 %
+"Pantothenic acid [Vitamin B5]",0.029,mg,1 %
+"Vitamin B6",0.025,mg,1 %
 "Vitamin B12 [Cobalamin]",0,mcg,0 %
 "Vitamin B12, added",0,mcg,
 "Folate, DFE [Vitamin B9]",0.11,mcg,0 %
-"Folate, food",1.57,mcg,
+"Folate, food",1.51,mcg,
 "Folic acid",0,mcg,
 "Vitamin C [Ascorbic acid]",0.2,mg,0 %
 "Vitamin D",0,mcg,0 %
@@ -34,18 +34,18 @@ Calories,30,,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
-"Choline",1.8,mg,0 %
-"Calcium",4.79,mg,0 %
+"Choline",1.7,mg,0 %
+"Calcium",4.66,mg,0 %
 "Copper",0.01,mg,1 %
 "Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
 "Iron",0.08,mg,0 %
-"Magnesium",2.85,mg,1 %
+"Magnesium",2.75,mg,1 %
 "Manganese",0.055,mg,2 %
-"Phosphorus",5.93,mg,0 %
-"Potassium",58.04,mg,1 %
+"Phosphorus",5.71,mg,0 %
+"Potassium",55.95,mg,1 %
 "Selenium",0.02,mcg,0 %
-"Sodium",0.64,mg,0 %
+"Sodium",0.62,mg,0 %
 "Zinc",0.03,mg,0 %
 "Protein",0.13,g,0 %
 "Alanine",0,g,
@@ -70,18 +70,18 @@ Calories,30,,
 "Valine",0,g,0 %
 "Phenylalanine + Tyrosine",0,g,0 %
 "Methionine + Cysteine",0,g,0 %
-"Carbohydrate",7.29,g,3 %
-"Fiber",1.25,g,4 %
+"Carbohydrate",7.02,g,3 %
+"Fiber",1.21,g,4 %
 "Starch",0.03,g,
-"Sugars",5.44,g,
-"Fructose",3.1,g,
+"Sugars",5.24,g,
+"Fructose",2.99,g,
 "Galactose",0,g,
-"Glucose",0.87,g,
+"Glucose",0.84,g,
 "Lactose",0,g,
 "Maltose",0,g,
-"Sucrose",1.45,g,
-"Net carbs",6.04,g,
-"Fat",0.069,g,0 %
+"Sucrose",1.4,g,
+"Net carbs",5.81,g,
+"Fat",0.066,g,0 %
 "Saturated fatty acids",0.002,g,0 %
 "Butanoic acid",0,g,
 "Decanoic acid",0.001,g,
@@ -136,4 +136,4 @@ Calories,30,,
 "Ash",0.1,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",47.59,g,
+"Water",45.93,g,

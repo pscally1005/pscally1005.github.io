@@ -22,7 +22,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jemoji
+  # - jemoji
   - jekyll-sitemap
 
 # Theme-specific settings
