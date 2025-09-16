@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 permalink: /recipes/apple-spread
-image: /assets/Food/Sweet Spreads/Apple Spread/apple-spread-cover.jpg
+image: /assets/Food/Sweet Spreads/Apple Spread/cover.jpg
 ing: applespread-ing
 facts: applespread-facts
 servingSize: 1 tbsp (20 g)
