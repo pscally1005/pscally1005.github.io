@@ -56,4 +56,6 @@ Instructions:
 - Add your chickpeas, tahini, and lemon juice to a food processor, and blend until smooth
 
 - Season with garlic, cumin, and salt.  Blend in aquafaba until creamy.  Garnish with paprika and parsley, and serve
+
+- If you don't have tahini, you can replace it with an equal amount (4 tbsp, 64 g) of either <a href="/misc/nuts#cashews">cashew</a> or <a href="/misc/nuts#almonds">almond</a> butter.  Alternatively, you can replace the tahini with 3 tbsp (45 g) extra virgin olive oil and an additional 1 tbsp (15 g) aquafaba for a similar consistency and nutritional profile
 ---

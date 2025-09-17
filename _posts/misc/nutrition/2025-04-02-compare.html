@@ -125,7 +125,7 @@ tags:
 
 <br><u><font size="+2">Comparisons</font></u><br>
 <ul>
-    <li>Baking</li>
+    <li><a href="/recipes/healthier-dessert">Baking</a></li>
         <ul>
             <li><a rel="" target="" href="#bananas-vs-applesauce">Bananas vs Applesauce</a></li>
             <li><a rel="" target="" href="#sweet-potato-vs-pumpkin-vs-butternut">Sweet Potato vs Pumpkin vs Butternut Squash Purees</a></li>
@@ -141,7 +141,7 @@ tags:
             <li><a rel="" target="" href="#black-vs-kidney-vs-pinto-vs-navy-beans-vs-chickpeas-vs-red-lentils">Black vs Kidney vs Pinto vs Navy Beans vs Chickpeas vs Red Lentils</a></li>
         </ul>
 
-    <li>Dairy</li>
+    <li><a href="/misc/dairy">Dairy</a></li>
         <ul>
             <li><a rel="" target="" href="#greek-yogurt-vs-cottage-cheese-vs-coconut-yogurt">Greek Yogurt vs Cottage Cheese vs Coconut Yogurt</a></li>
             <li><a rel="" target="" href="#mayo-vs-light-mayo-vs-sour-cream-vs-yogurt">Mayo vs Light Mayo vs Sour Cream vs Yogurt</a></li>
@@ -152,7 +152,7 @@ tags:
             <li><a rel="" target="" href="#whey-vs-casein-vs-powdered-peanut-butter">Whey vs Casein vs Powdered Peanut Butter</a></li>
         </ul>
 
-    <li>Fruits</li>
+    <li><a href="/misc/fruit">Fruits</a></li>
         <ul>
             <li><a rel="" target="" href="#apple-vs-pear-vs-orange-vs-banana-vs-peach">Apple vs Pear vs Orange vs Banana vs Peach</a></li>
             <li><a rel="" target="" href="#blueberry-vs-strawberry-vs-raspberry-vs-blackberry">Blueberry vs Strawberry vs Raspberry vs Blackberry</a></li>
@@ -160,7 +160,7 @@ tags:
             <li><a rel="" target="" href="#raisins-vs-dates-vs-figs">Raisins vs Dates vs Figs</a></li>
         </ul>
 
-    <li>Vegetables</li>
+    <li><a href="/misc/veggies">Vegetables</a></li>
         <ul>
             <li><a rel="" target="" href="#pepper-vs-onion-vs-carrots-vs-mushrooms">Pepper vs Onion vs Carrots vs Mushrooms</a></li>
             <li><a rel="" target="" href="#yellow-squash-vs-zucchini-vs-eggplant">Yellow Squash vs Zucchini vs Eggplant</a></li>
@@ -177,7 +177,7 @@ tags:
             <li><a rel="" target="" href="#chia-vs-flax-vs-hemp">Chia vs Flax vs Hemp Seeds</a></li>
         </ul>
 
-    <li>Protein</li>
+    <li><a href="/misc/protein">Protein</a></li>
         <ul>
             <li><a rel="" target="" href="#chicken-breast-vs-chicken-thighs">Chicken Breast vs Chicken Thighs</a></li>
             <li><a rel="" target="" href="#ground-beef-vs-ground-turkey-vs-ground-chicken">Ground Beef vs Ground Turkey vs Ground Chicken</a></li>
@@ -380,7 +380,8 @@ tags:
                 <th>Nutrient</th>
                 {% assign food1 = "honey-facts" %}
                 {% assign food2 = "maple-syrup-facts" %}
-                {% assign food3 = "sugar-free-syrup-facts" %}
+                {% assign food3 = "sfs100g-facts" %}
+                {% assign food3ing = "sfs100g-ing" %}
                 <th><a href="https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g">Honey</a></th>
                 <th><a href="https://www.nutritionvalue.org/Syrups%2C_maple_nutritional_value.html?size=100%20g">Maple Syrup</a></th>
                 <th><a href="https://www.nutritionvalue.org/Syrups%2C_sugar_free_nutritional_value.html?size=100+g">Sugar Free Syrup</a></th>
@@ -396,12 +397,12 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html ing=food3ing facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
                 {% assign nutrient = "Sugar" %}
@@ -410,6 +411,14 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+            </tr>
+            <tr>
+                {% assign nutrient = "Sugar Alcohol" %}
+                {% assign rnd = 1 %}
+                <td markdown="span">{{ nutrient }}</td>
+                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
+                <td markdown="span">{% include getNutrient.html ing=food3ing facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
         </tbody>
     </table></center>
