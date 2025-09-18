@@ -56,5 +56,7 @@ Instructions:
 
 - Freeze for 1 hour. Churn with your hand mixer. Repeat 2 more times for a total of 3 hours
 
-- Transfer your ice cream to a container, and store in the freezer. Let sit out for about 5 minutes before scooping
+- Transfer your ice cream to a container, and store in the freezer
+
+- This ice cream can be eaten directly out of the freezer.  It doesn't need to sit out before scooping, but it will melt quickly.  Its texture is a cross between soft serve and a chocolate Italian ice
 ---
