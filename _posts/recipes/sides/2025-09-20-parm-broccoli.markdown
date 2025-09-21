@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Parmesan Crusted Roasted Broccoli"
-date:   2025-09-15 00:00:00 -05000
+date:   2025-09-20 00:00:00 -05000
 categories: 
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
