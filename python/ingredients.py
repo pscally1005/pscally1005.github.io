@@ -552,6 +552,8 @@ def ingredients(food):
         return str("Whole wheat baguette")
     elif food == "Rice, raw, long-grain, brown":
         return str("Brown rice")
+    elif food == "Farro, raw":
+        return str("Farro")
     elif food == "Quinoa, uncooked":
         return str("Quinoa")
     elif food == "Pasta, dry, whole-wheat":
@@ -576,6 +578,8 @@ def ingredients(food):
         return str("Healthier Graham Cracker Pie Crust")
     
     # Meat & fish
+    elif food == "Ham, cooked, smoked, honey":
+        return str("Ham, cooked")
     elif food == "Beef, raw, liver, variety meats and by-products":
         return str("Beef liver")
     elif food == "Chicken, raw, meat and skin, thigh, broilers or fryers":

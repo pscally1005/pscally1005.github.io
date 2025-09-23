@@ -21,7 +21,7 @@ permalink: /recipes/aquafaba-ice-cream
 image: /assets/Food/Meme/Aquafaba Ice Cream/cover.jpg
 ing: aquafabaicecream-ing
 facts: aquafabaicecream-facts
-servingSize: 1/2 cup (60 g)
+servingSize: 1/3 cup (66 g)
 section1: 
 start2: 
 section2: 
@@ -50,7 +50,7 @@ tags:
 - vanilla extract
 Description: Do you know what to do with leftover <a href="/recipes/classic-tahini-hummus">aquafaba</a>?  If you guessed making ice cream, then you'd be correct; how'd you possibly get that?  This vegan chocolate ice cream contains only 5 simple ingredients you likely have on hand right now. It's sweet and chocolatey, with a subtly salty flavor, giving it a sea salt chocolate vibe.  Being free of gluten and <a href="/misc/hidden-sugar">refined sugar</a>, this healthy ice cream is the perfect light and refreshing treat that's low in <a href="/misc/calories">calories</a>
 Instructions: 
-- In a large glass bowl, bear your aquafaba and lemon juice with a hand mixer for about 3 minutes, or until foamy and you have soft peaks. Apple cider vinegar will also work in place of lemon juice
+- In a large glass bowl, beat your aquafaba and lemon juice with a hand mixer for about 3 minutes, or until foamy and you have soft peaks. Apple cider vinegar will also work in place of lemon juice
 
 - Beat in the vanilla until fully combined. Next, beat in the maple syrup (or honey or <a href="/recipes/sugar-free-syrup">sugar free syrup</a>). Finally, beat in the cocoa powder
 

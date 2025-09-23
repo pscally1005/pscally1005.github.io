@@ -175,6 +175,7 @@ grains,Barley,barley,1/4 cup,50,https://www.nutritionvalue.org/Barley%2C_raw%2C_
 grains,Brown Rice,brown-rice,1/4 cup,46,https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
 grains,Buckwheat,buckwheat,1/4 cup,43,https://www.nutritionvalue.org/Buckwheat_nutritional_value.html?size=100+g,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
 grains,Corn,corn,3 oz,85,https://www.nutritionvalue.org/Corn%2C_raw%2C_yellow%2C_sweet_nutritional_value.html?size=100+g,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+grains,Farro,farro,1/4 cup,45,https://www.nutritionvalue.org/public_ingredient_69244.html?utm_source=share-by-url,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 grains,Millet,millet,1/4 cup,50,https://www.nutritionvalue.org/Millet%2C_raw_nutritional_value.html?size=100+g,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
 grains,Oats,oats,1/2 cup,40,https://www.nutritionvalue.org/Cereals%2C_dry%2C_not_fortified%2C_regular_and_quick%2C_oats_nutritional_value.html?size=100+g,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
 grains,Popcorn,popcorn,3 tbsp,40,https://www.nutritionvalue.org/Popcorn%2C_unbuttered%2C_air-popped_54403010_nutritional_value.html?size=100+g,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
