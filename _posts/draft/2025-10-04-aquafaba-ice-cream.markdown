@@ -18,7 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 permalink: /recipes/aquafaba-ice-cream
-image: /assets/Food/Meme/Aquafaba Ice Cream/cover.jpg
+image: /assets/Food/Meme/Aquafaba Ice Cream/aquafaba-ice-cream.jpg
 ing: aquafabaicecream-ing
 facts: aquafabaicecream-facts
 servingSize: 1/3 cup (66 g)
@@ -58,5 +58,5 @@ Instructions:
 
 - Transfer your ice cream to a container, and store in the freezer
 
-- This ice cream can be eaten directly out of the freezer.  It doesn't need to sit out before scooping, but it will melt quickly.  Its texture is a cross between soft serve and a chocolate Italian ice
+- This ice cream can be eaten directly out of the freezer.  It doesn't need to sit out before scooping, but it will melt quickly.  Its texture is similar to a chocolate Italian ice
 ---

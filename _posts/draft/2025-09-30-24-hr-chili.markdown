@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "24 Hour Chili"
-date:   2025-09-06 00:00:00 -0500
+date:   2025-09-24 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat
@@ -60,7 +60,7 @@ tags:
 - slow cooker dried beans
 - dry beans
 - fresh beans
-Description: You know those recipes for 100 hour brownies or 72 hour pizza doughs?  Well this recipe is a 24 hour chili. It's just my <a href="/recipes/chili">Slow Cooker Chili</a> recipe, but I'm making the beans from scratch instead of using canned. By following my <a href="/recipes/slow-cooked-beans">Slow Cooker Dried Beans</a> recipe, you can make a chili with unbeatably soft and creamy beans. The total time is long, but the active time is practically the same
+Description: You know those recipes for 100 hour brownies or 72 hour pizza doughs?  Well this recipe is a 24 hour chili. It's just my <a href="/recipes/chili">Slow Cooker Chili</a> recipe, but I'm making the beans from scratch instead of using canned. By following my <a href="/recipes/slow-cooked-beans">Slow Cooker Dried Beans</a> recipe, you can make a chili with unbeatably soft and creamy beans. The total time is long, but the active time is practically the same.  Or check out any of my other <a href="/soups-and-stews">soup or stew</a> recipes!
 Instructions: 
 - At about 10pm, soak your dried beans in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
 
@@ -80,4 +80,8 @@ Instructions:
 - <center><img src="/assets/Food/Ground Meat/24 Hour Chili/containers.jpg" alt="" class="instruction-image"></center>
 
 - Note that this recipe is intended for meal prep, as it finishes at 10pm, at not meant to be eaten fresh that night for dinner.  If you would like to have the chili fresh, then you would need to split the process into another day.  Just start the beans whenever in the morning.  8 hours later, when the beans are done, cover the pot with a lid, and refrigerate until the next day.  In the morning, you can put together the rest of the chili, and get it on the slow cooker around 10:30am if you're aiming for a 6:30pm dinner
+
+- Using the method from <a href="/recipes/slow-cooked-beans">Slow Cooker Dried Beans</a>, you can make this chili with any type of <a href="/misc/beans">bean</a>, such as <a href="/misc/beans#black-beans">black</a>, <a href="/misc/beans#kidney-beans">kidney</a>, <a href="/misc/beans#pinto-beans">pinto</a>, <a href="/misc/beans#navy-beans">navy</a>, or <a href="/misc/beans#chickpeas">chickpeas</a>.  You can also make <a href="/misc/beans#red-lentils">lentil</a> chili with <a href="/misc/beans#brown-lentils">brown</a>, <a href="/misc/beans#green-lentils">green</a>, or <a href="/misc/beans#red-lentils">red lentils</a>
+- <center><a href="/recipes/slow-cooked-beans"><img src="/assets/Food/Sides/Crockpot Beans/lentils.jpg" alt="" class="instruction-image"></a></center>
+- <center><img src="/assets/Food/Ground Meat/24 Hour Chili/lentil-chili.jpg" alt="" class="instruction-image"></center>
 ---
