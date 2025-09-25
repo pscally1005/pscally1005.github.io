@@ -11,7 +11,7 @@ oatmeal: no
 yogurt: no
 nut_butter: no
 pesto: no
-soup_stew: no
+soup_stew: yes
 salad: no
 dressing: no
 brownie: no

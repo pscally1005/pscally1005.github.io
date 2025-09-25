@@ -60,6 +60,9 @@ tags:
 - slow cooker dried beans
 - dry beans
 - fresh beans
+- tomatoes
+- crushed tomatoes
+- diced tomatoes
 Description: You know those recipes for 100 hour brownies or 72 hour pizza doughs?  Well this recipe is a 24 hour chili. It's just my <a href="/recipes/chili">Slow Cooker Chili</a> recipe, but I'm making the beans from scratch instead of using canned. By following my <a href="/recipes/slow-cooked-beans">Slow Cooker Dried Beans</a> recipe, you can make a chili with unbeatably soft and creamy beans. The total time is long, but the active time is practically the same.  Or check out any of my other <a href="/soups-and-stews">soup or stew</a> recipes!
 Instructions: 
 - At about 10pm, soak your dried beans in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
