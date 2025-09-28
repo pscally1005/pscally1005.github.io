@@ -53,7 +53,7 @@ tags:
 - blend
 - roll
 - ball
-Description: Trail mix is one of my favorite snacks, and these bites take that idea, and instead blend them together to get bites of sweet and salty trail mix in every bite. The texture contrast between the crunchy <a href="/misc/nuts">nuts</a> and chewy <a href="/misc/fruit#raisin">raisins</a> makes them even more enjoyable to eat.  For other no bake bite sized snacks, check out my <a href="/recipes/energy-bites">No Bake Energy Bites</a>, <a href="/recipes/chickpea-chows">Chickpea Chows</a>, or my <a href="/recipes/carrot-cake-bites">Carrot Cake Energy Bites</a>
+Description: Trail mix is one of my favorite snacks, and these bites take that idea, and instead blend them together to get bites of sweet and salty trail mix in every bite. The texture contrast between the crunchy <a href='/misc/nuts'>nuts</a> and chewy <a href='/misc/fruit#raisin'>raisins</a> makes them even more enjoyable to eat.  For other no bake bite sized snacks, check out my <a href='/recipes/energy-bites'>No Bake Energy Bites</a>, <a href='/recipes/chickpea-chows'>Chickpea Chows</a>, or my <a href='/recipes/carrot-cake-bites'>Carrot Cake Energy Bites</a>
 Instructions: 
 - In a bowl, mash the banana with a fork. Roughly chop the raisins and nuts.  Mix in the rest of the ingredients
 

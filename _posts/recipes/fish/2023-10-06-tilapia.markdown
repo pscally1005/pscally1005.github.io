@@ -47,7 +47,7 @@ tags:
 - lime
 - tajin
 - seafood
-Description: <a href="/misc/fish#tilapia">Tilapia</a> fillets are a staple in my freezer, as they're super easy to put together for a quick dinner during the week. They're made even faster by cooking them straight out of the freezer in the air fryer. These will be from freezer to plate in just 10 minutes, and put whatever spices you want on here!
+Description: <a href='/misc/fish#tilapia'>Tilapia</a> fillets are a staple in my freezer, as they're super easy to put together for a quick dinner during the week. They're made even faster by cooking them straight out of the freezer in the air fryer. These will be from freezer to plate in just 10 minutes, and put whatever spices you want on here!
 Instructions: 
 - Preheat your air fryer to 400F
 

@@ -51,10 +51,10 @@ tags:
 - overripe banana
 - vic
 - waffle
-Description: Unlike regular <a href="/misc/fake-healthy-foods#pancakes">pancakes</a>, these will serve to keep you full all the way until lunch. With <a href="/misc/protein">protein</a> of the whey and <a href="/misc/fiber">fiber</a> of the <a href="/misc/grains#oats">oats</a>, plus the addition of mashed <a href="/misc/fruit#banana">banana</a>, this serves as a perfect fall recipe. These also work as waffles as well, but I prefer the pancakes.  For a very similar pancake recipe with pumpkin instead, check out my <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>.  Or, for more banana recipes, see my <a href="/recipes/banana-protein">Protein Banana Nut Bread</a>, <a href="/recipes/double-chocolate-banana-bread">Double Chocolate Banana Bread</a>, or <a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a>
+Description: Unlike regular <a href='/misc/fake-healthy-foods#pancakes'>pancakes</a>, these will serve to keep you full all the way until lunch. With <a href='/misc/protein'>protein</a> of the whey and <a href='/misc/fiber'>fiber</a> of the <a href='/misc/grains#oats'>oats</a>, plus the addition of mashed <a href='/misc/fruit#banana'>banana</a>, this serves as a perfect fall recipe. These also work as waffles as well, but I prefer the pancakes.  For a very similar pancake recipe with pumpkin instead, check out my <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>.  Or, for more banana recipes, see my <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a>, <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>, or <a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a>
 Instructions: 
 - In a medium bowl, mash a banana with the back of a fork.  Combine in the rest of the ingredients.  Let the batter rest for 5-10 minutes
-- <center><img src="/assets/Food/Breakfast/Banana Pancake/pancake-batter.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Banana Pancake/pancake-batter.jpg' alt="" class="instruction-image"></center>
 
 - Optionally, mix in 1 tbsp (12 g) granulated monk fruit, 1/2 tsp (2.5 g) liquid monk fruit, or 1 tbsp (15 g) chocolate chips
 

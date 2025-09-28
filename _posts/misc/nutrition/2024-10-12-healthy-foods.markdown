@@ -14,204 +14,204 @@ tags:
 - fake healthy
 ---
 <u><font size="+2">Introduction</font></u><br>
-&emsp;This post is essentially the opposite of my <a href="/misc/fake-healthy-foods">'Healthy' Trap Foods</a>.  In that, I went through a long list "trap foods", or foods that are deceptively unhealthy desite common belief and marketing.  On the other hand, here I will be going through some foods that are often overshadowed.  Foods that are healthy, but often given a bad rap.
-<center><img src="/assets/Misc/Nutrition/Overshadowed/diet.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Overshadowed/heartbeat.png" alt="" class="smaller-image"></center><br>
+&emsp;This post is essentially the opposite of my <a href='/misc/fake-healthy-foods'>'Healthy' Trap Foods</a>.  In that, I went through a long list "trap foods", or foods that are deceptively unhealthy desite common belief and marketing.  On the other hand, here I will be going through some foods that are often overshadowed.  Foods that are healthy, but often given a bad rap.
+<center><img src='/assets/Misc/Nutrition/Overshadowed/diet.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Overshadowed/heartbeat.png' alt="" class="smaller-image"></center><br>
 
 <u><font size="+2">TLDR (Too Long; Didn't Read)</font></u>: Prioritize nutrient dense whole foods or minimally processed foods
-<center><img src="/assets/Misc/Nutrition/Overshadowed/mineral.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Overshadowed/vegetable.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/mineral.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Overshadowed/vegetable.png' alt="" class="smaller-image"></center><br>
 
 <br><u><font size="+2">List of Foods</font></u><br>
-* <a rel="" target="" href="#bananas">Bananas</a><br>
-* <a rel="" target="" href="#beans">Beans</a><br>
-* <a rel="" target="" href="#brown-rice">Brown Rice</a><br>
-* <a rel="" target="" href="#chocolate">Chocolate</a><br>
-* <a rel="" target="" href="#coconut">Coconut</a><br>
-* <a rel="" target="" href="#eggs">Eggs</a><br>
-* <a rel="" target="" href="#fish">Fish</a><br>
-* <a rel="" target="" href="#skim-milk">Milk</a><br>
-* <a rel="" target="" href="#nuts">Nuts and Seeds</a><br>
-* <a rel="" target="" href="#oats">Oats</a><br>
-* <a rel="" target="" href="#peanut-butter">Peanut Butter</a><br>
-* <a rel="" target="" href="#popcorn">Popcorn</a><br>
-* <a rel="" target="" href="#potatoes">Potatoes</a><br>
-* <a rel="" target="" href="#red-meat">Red Meat</a><br>
-<center><img src="/assets/Misc/Nutrition/Overshadowed/better-health.png" alt="" class="smaller-image"><img src="/assets/Misc/Nutrition/Overshadowed/healthy.png" alt="" class="smaller-image"></center><br>
+* <a rel="" target="" href='#bananas'>Bananas</a><br>
+* <a rel="" target="" href='#beans'>Beans</a><br>
+* <a rel="" target="" href='#brown-rice'>Brown Rice</a><br>
+* <a rel="" target="" href='#chocolate'>Chocolate</a><br>
+* <a rel="" target="" href='#coconut'>Coconut</a><br>
+* <a rel="" target="" href='#eggs'>Eggs</a><br>
+* <a rel="" target="" href='#fish'>Fish</a><br>
+* <a rel="" target="" href='#skim-milk'>Milk</a><br>
+* <a rel="" target="" href='#nuts'>Nuts and Seeds</a><br>
+* <a rel="" target="" href='#oats'>Oats</a><br>
+* <a rel="" target="" href='#peanut-butter'>Peanut Butter</a><br>
+* <a rel="" target="" href='#popcorn'>Popcorn</a><br>
+* <a rel="" target="" href='#potatoes'>Potatoes</a><br>
+* <a rel="" target="" href='#red-meat'>Red Meat</a><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/better-health.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Overshadowed/healthy.png' alt="" class="smaller-image"></center><br>
 
 <div id="bananas" class="table-of-contents"></div>
 <br><i><font size="+2">Bananas</font></i><br>
-&emsp;<a href="/misc/fruit#banana">Bananas</a>, like most <a href="/misc/fruit">fruits</a>, and fairly high in <a href="/misc/hidden-sugar">sugar</a> and <a href="/misc/carbs">carbs</a>.  But that doesn't make them unhealthy; far from it.  <a href="/misc/fruit#banana">Bananas</a> are a good source of both <a href="/misc/fiber">fiber</a> and <a href="/misc/potassium">potassium</a>.  Remember that 10 grams of <a href="/misc/hidden-sugar">sugar</a> from whole foods is not the same as 10 g of <a href="/misc/hidden-sugar">added sugar</a>.  Fruit is packaged with water and <a href="/misc/fiber">fiber</a>, slowing absorption and preventing blood sugar spikes.  <a href="/misc/hidden-sugar">Added sugar</a> on the other hand is more "free"; it doesn't need to get broken down as much, causing your blood sugar to rise and increase your body's secretion of insulin.
+&emsp;<a href='/misc/fruit#banana'>Bananas</a>, like most <a href='/misc/fruit'>fruits</a>, and fairly high in <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/carbs'>carbs</a>.  But that doesn't make them unhealthy; far from it.  <a href='/misc/fruit#banana'>Bananas</a> are a good source of both <a href='/misc/fiber'>fiber</a> and <a href='/misc/potassium'>potassium</a>.  Remember that 10 grams of <a href='/misc/hidden-sugar'>sugar</a> from whole foods is not the same as 10 g of <a href='/misc/hidden-sugar'>added sugar</a>.  Fruit is packaged with water and <a href='/misc/fiber'>fiber</a>, slowing absorption and preventing blood sugar spikes.  <a href='/misc/hidden-sugar'>Added sugar</a> on the other hand is more "free"; it doesn't need to get broken down as much, causing your blood sugar to rise and increase your body's secretion of insulin.
 <br><br>
-&emsp;A banana is a delicious way to to flavor anything sweet.  Just mashing or slicing a banana into your breakfast is a great way to elevate your morning <a href="/oatmeal">oatmeal</a> or <a href="/yogurt">yogurt</a>.  They're also great ingredients for <a href="/recipes/healthier-dessert">baking</a>, allowing you to cut back on both added sugars and added <a href="/misc/fats">fat</a>.  Mashed <a href="/misc/fruit#banana">bananas</a> (and unsweetened applesauce) work as a great replacement for butter and oil, while also providing delicious flavor and sweetness, allowing you to cut back on the <a href="/misc/hidden-sugar">sugar</a> too!  Win-win.  Here are some stats of <a href="https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g">bananas</a> per 100 grams (about 1 medium banana):
+&emsp;A banana is a delicious way to to flavor anything sweet.  Just mashing or slicing a banana into your breakfast is a great way to elevate your morning <a href='/oatmeal'>oatmeal</a> or <a href='/yogurt'>yogurt</a>.  They're also great ingredients for <a href='/recipes/healthier-dessert'>baking</a>, allowing you to cut back on both added sugars and added <a href='/misc/fats'>fat</a>.  Mashed <a href='/misc/fruit#banana'>bananas</a> (and unsweetened applesauce) work as a great replacement for butter and oil, while also providing delicious flavor and sweetness, allowing you to cut back on the <a href='/misc/hidden-sugar'>sugar</a> too!  Win-win.  Here are some stats of <a href='https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g'>bananas</a> per 100 grams (about 1 medium banana):
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 89
+<br><b><a href='/misc/calories'>Calories</a></b>: 89
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 0.3 g (0 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 23 g (8 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 2.6 g (20 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 12 g
-<br><b><a href="/misc/protein">Protein</a></b>: 1.1 g (2 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 0.3 g (0 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 23 g (8 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 2.6 g (20 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 12 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 1.1 g (2 %)
 <br>------------------------------------------
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 0.27 mg (12 %)
-<br><b><a href="/misc/potassium">Potassium</a></b>: 358 mg (8 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 0.27 mg (12 %)
+<br><b><a href='/misc/potassium'>Potassium</a></b>: 358 mg (8 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.37 mg (22 %)
-<br><b><a href="/misc/vitamin-c">Vitamin C</a></b>: 8.7 mg (10 %)
+<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.37 mg (22 %)
+<br><b><a href='/misc/vitamin-c'>Vitamin C</a></b>: 8.7 mg (10 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/banana.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/banana.png' alt="" class="smaller-image"></center><br>
 
 <div id="beans" class="table-of-contents"></div>
 <br><i><font size="+2">Beans</font></i><br>
-&emsp;I feel like <a href="/misc/beans">beans</a> often get lumped into the other foods to eliminate when trying to clean up your diet and I'm not sure why.  Yeah they're high in <a href="/misc/carbs">carbs</a>, but it's time to stop fearing whole food carbohydrates.  In addition to <a href="/misc/carbs">carbs</a>, <a href="/misc/beans">beans</a> are a great cheap source of plant based <a href="/misc/protein">protein</a>.  And of course, who can forget about <a href="/misc/fiber">fiber</a>!  <a href="/misc/beans">Beans</a> are loaded with <a href="/misc/fiber">fiber</a>; they aren't called the music fruit for nothing!
+&emsp;I feel like <a href='/misc/beans'>beans</a> often get lumped into the other foods to eliminate when trying to clean up your diet and I'm not sure why.  Yeah they're high in <a href='/misc/carbs'>carbs</a>, but it's time to stop fearing whole food carbohydrates.  In addition to <a href='/misc/carbs'>carbs</a>, <a href='/misc/beans'>beans</a> are a great cheap source of plant based <a href='/misc/protein'>protein</a>.  And of course, who can forget about <a href='/misc/fiber'>fiber</a>!  <a href='/misc/beans'>Beans</a> are loaded with <a href='/misc/fiber'>fiber</a>; they aren't called the music fruit for nothing!
 <br><br>
-&emsp;<a href="/misc/beans">Beans</a> are considered a high FODMAP food (they're high in oligosaccharides), meaning they may cause gas and bloating when eaten in excess.  <a href="/misc/beans">Beans</a> also contain an antinutrient called lectins, which may reduce the body's ability to absorb nutrients.  Though research is mixed whether lectins are harmful, lectin content can be reduced through soaking, cooking, and fermenting.
+&emsp;<a href='/misc/beans'>Beans</a> are considered a high FODMAP food (they're high in oligosaccharides), meaning they may cause gas and bloating when eaten in excess.  <a href='/misc/beans'>Beans</a> also contain an antinutrient called lectins, which may reduce the body's ability to absorb nutrients.  Though research is mixed whether lectins are harmful, lectin content can be reduced through soaking, cooking, and fermenting.
 <br><br>
-&emsp;But overall, <a href="/misc/beans">beans</a> are a great food.  As long as you can tolerate <a href="/misc/beans">beans</a>, there's no reason to not consume them daily.  They help regulate blood sugar, prevent fatty liver, benefit heart health, and improve gut health.  <a href="/misc/beans">Beans</a> aren't a complete <a href="/misc/protein">protein</a>, but they can become one when paired with <a rel="" target="" href="#brown-rice">brown rice</a>.  Here are some stats of <a href="https://www.nutritionvalue.org/Beans%2C_drained_solids%2C_canned%2C_mature_seeds%2C_red%2C_kidney_nutritional_value.html?size=100%20g">red kidney beans</a> per 100 grams (about 1/2 cup):
+&emsp;But overall, <a href='/misc/beans'>beans</a> are a great food.  As long as you can tolerate <a href='/misc/beans'>beans</a>, there's no reason to not consume them daily.  They help regulate blood sugar, prevent fatty liver, benefit heart health, and improve gut health.  <a href='/misc/beans'>Beans</a> aren't a complete <a href='/misc/protein'>protein</a>, but they can become one when paired with <a rel="" target="" href='#brown-rice'>brown rice</a>.  Here are some stats of <a href='https://www.nutritionvalue.org/Beans%2C_drained_solids%2C_canned%2C_mature_seeds%2C_red%2C_kidney_nutritional_value.html?size=100%20g'>red kidney beans</a> per 100 grams (about 1/2 cup):
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 124
+<br><b><a href='/misc/calories'>Calories</a></b>: 124
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 1.1 g (1 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 21 g (8 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 5.5 g (20 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 3.8 g
-<br><b><a href="/misc/protein">Protein</a></b>: 8 g (16 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 1.1 g (1 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 21 g (8 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 5.5 g (20 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 3.8 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 8 g (16 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.27 mg (30 %)
-<br><b><a href="/misc/iron">Iron</a></b>: 1.5 mg (8 %)
-<br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 0.38 mg (17 %)
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 121 mg (10 %)
-<br><b><a href="/misc/potassium">Potassium</a></b>: 277 mg (6 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.27 mg (30 %)
+<br><b><a href='/misc/iron'>Iron</a></b>: 1.5 mg (8 %)
+<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 0.38 mg (17 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 121 mg (10 %)
+<br><b><a href='/misc/potassium'>Potassium</a></b>: 277 mg (6 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.067 mg (6 %)
-<br><b><a href="/misc/nutrient-alphabet#F">Folate</a></b> <i>(Vitamin B9)</i>: 28 mcg (7 %)
+<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.067 mg (6 %)
+<br><b><a href='/misc/nutrient-alphabet#F'>Folate</a></b> <i>(Vitamin B9)</i>: 28 mcg (7 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/beans.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/beans.png' alt="" class="smaller-image"></center><br>
 
 <div id="brown-rice" class="table-of-contents"></div>
 <br><i><font size="+2">Brown rice</font></i><br>
-&emsp;Of all the starches on the side of your plate, <a href="/misc/grains#brown-rice">brown rice</a> is one of the better ones.  It's not perfect, but it's basically just an easy carbohydrate source with a decent bit of micronutrients.  <a href="/misc/grains#brown-rice">brown rice</a> is a whole grain, making it much healthier for you than <a href="/misc/fake-healthy-foods#white-rice"><a href="/misc/grains#white-rice">white rice</a></a>.  It doesn't need to be fortified, since its nutrients aren't stripped away.  Looking at glycemic index, <a href="/misc/grains#brown-rice">brown rice</a> (54) is lower than <a href="/misc/grains#white-rice">white rice</a> (72), meaning that it will cause less blood sugar spikes.  Additionally, <a href="/misc/grains#brown-rice">brown rice</a> contains higher amounts of B vitamins, potassium, and <a href="/misc/iron">iron</a> as compared to <a href="/misc/grains#white-rice">white rice</a>.
+&emsp;Of all the starches on the side of your plate, <a href='/misc/grains#brown-rice'>brown rice</a> is one of the better ones.  It's not perfect, but it's basically just an easy carbohydrate source with a decent bit of micronutrients.  <a href='/misc/grains#brown-rice'>brown rice</a> is a whole grain, making it much healthier for you than <a href='/misc/fake-healthy-foods#white-rice'><a href='/misc/grains#white-rice'>white rice</a></a>.  It doesn't need to be fortified, since its nutrients aren't stripped away.  Looking at glycemic index, <a href='/misc/grains#brown-rice'>brown rice</a> (54) is lower than <a href='/misc/grains#white-rice'>white rice</a> (72), meaning that it will cause less blood sugar spikes.  Additionally, <a href='/misc/grains#brown-rice'>brown rice</a> contains higher amounts of B vitamins, potassium, and <a href='/misc/iron'>iron</a> as compared to <a href='/misc/grains#white-rice'>white rice</a>.
 <br><br>
-&emsp;Rice is very versatile and easy to cook, making both a good side and a good base.  It's often paired with <a rel="" target="" href="#beans">beans</a>; a tasty combination that becomes a complete <a href="/misc/protein">protein</a> when mixed together.  Looking at <a href="https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=46%20g">brown rice</a>, for 1/4 cup (46 g) raw rice or 3/4 cup (130 g) cooked rice, we have the following:
+&emsp;Rice is very versatile and easy to cook, making both a good side and a good base.  It's often paired with <a rel="" target="" href='#beans'>beans</a>; a tasty combination that becomes a complete <a href='/misc/protein'>protein</a> when mixed together.  Looking at <a href='https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=46%20g'>brown rice</a>, for 1/4 cup (46 g) raw rice or 3/4 cup (130 g) cooked rice, we have the following:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 169
+<br><b><a href='/misc/calories'>Calories</a></b>: 169
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 1.5 g (2 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 35 g (13 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 1.7 g (18 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 0.3 g
-<br><b><a href="/misc/protein">Protein</a></b>: 3.5 g (7 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 1.5 g (2 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 35 g (13 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 1.7 g (18 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 0.3 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 3.5 g (7 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 4.14 mg (16 %)
-<br><b><a href="/misc/magnesium">Magnesium</a></b>: 53 mg (13 %)
-<br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 1.3 mg (57 %)
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 143 mg (11 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 4.14 mg (16 %)
+<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 53 mg (13 %)
+<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 1.3 mg (57 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 143 mg (11 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.25 mg (21 %)
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 3.0 mg (19 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.49 mg (10 %)
-<br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.22 mg (13 %)
+<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.25 mg (21 %)
+<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 3.0 mg (19 %)
+<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.49 mg (10 %)
+<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.22 mg (13 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/rice.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/rice.png' alt="" class="smaller-image"></center><br>
 
 <div id="coconut" class="table-of-contents"></div>
 <br><i><font size="+2">Coconut</font></i><br>
-&emsp;One look at coconut and you may immediately turn away.  Being very high in <a href="/misc/fats">fat</a>, with nearly all of it being saturated <a href="/misc/fats">fat</a>, I can easily understand why people would think coconut is unhealthy.  But not all <a href="/misc/fats">fat</a>, or even all saturated <a href="/misc/fats">fat</a>, is created equal; see <a href="/misc/fats">Fat: The Innocent Criminal?</a>.  Being high in <a href="/misc/fats">fat</a>, coconut is high in <a href="/misc/calories">calories</a>, but that's where the downsides end. 
+&emsp;One look at coconut and you may immediately turn away.  Being very high in <a href='/misc/fats'>fat</a>, with nearly all of it being saturated <a href='/misc/fats'>fat</a>, I can easily understand why people would think coconut is unhealthy.  But not all <a href='/misc/fats'>fat</a>, or even all saturated <a href='/misc/fats'>fat</a>, is created equal; see <a href='/misc/fats'>Fat: The Innocent Criminal?</a>.  Being high in <a href='/misc/fats'>fat</a>, coconut is high in <a href='/misc/calories'>calories</a>, but that's where the downsides end. 
 <br><br>
-&emsp;<a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_coconut_meat_nutritional_value.html?size=100+g">Raw coconut meat</a> contains 33g of <a href="/misc/fats">fat</a> per 100 g, with 30 g being saturated <a href="/misc/fats">fat</a>.  These <a href="/misc/fats">fats</a> are mainly made up of a Medium Chain Triglycerides (MCT) called Lauric Acid.  MCTs are a different type of saturated <a href="/misc/fats">fat</a> than the ones found in animal products, as they are absorbed by the small intestine and are more readily used for energy.  MCTs have been shown to improve HDL levels, aid in blood sugar control, improve insulin resistance, and promote feelings of satiety.  
+&emsp;<a href='https://www.nutritionvalue.org/Nuts%2C_raw%2C_coconut_meat_nutritional_value.html?size=100+g'>Raw coconut meat</a> contains 33g of <a href='/misc/fats'>fat</a> per 100 g, with 30 g being saturated <a href='/misc/fats'>fat</a>.  These <a href='/misc/fats'>fats</a> are mainly made up of a Medium Chain Triglycerides (MCT) called Lauric Acid.  MCTs are a different type of saturated <a href='/misc/fats'>fat</a> than the ones found in animal products, as they are absorbed by the small intestine and are more readily used for energy.  MCTs have been shown to improve HDL levels, aid in blood sugar control, improve insulin resistance, and promote feelings of satiety.  
 <br>
-&emsp;Besides <a href="/misc/fats">fat</a>, coconut is also quite high in <a href="/misc/fiber">fiber</a>.  <a href="https://www.nutritionvalue.org/Organic_coconut_flour_by_Bob%27s_Red_Mill_Natural_Foods%2C_Inc._547983_nutritional_value.html">Coconut flour</a> in particular contains 5 g of <a href="/misc/fiber">fiber</a> in 2 tbsp (14 g).  Plus, coconut flour is defatted, containing only 1.5 g in 2 tbsp, making it lower in <a href="/misc/calories">calories</a> if that's a concern.  As for micronutrients, coconut is a good source of <a href="/misc/nutrient-alphabet#C">copper</a>, <a href="/misc/nutrient-alphabet#M">manganese</a>, <a href="/misc/iron">iron</a>, and <a href="/misc/nutrient-alphabet#S">selenium</a>.
+&emsp;Besides <a href='/misc/fats'>fat</a>, coconut is also quite high in <a href='/misc/fiber'>fiber</a>.  <a href='https://www.nutritionvalue.org/Organic_coconut_flour_by_Bob%27s_Red_Mill_Natural_Foods%2C_Inc._547983_nutritional_value.html'>Coconut flour</a> in particular contains 5 g of <a href='/misc/fiber'>fiber</a> in 2 tbsp (14 g).  Plus, coconut flour is defatted, containing only 1.5 g in 2 tbsp, making it lower in <a href='/misc/calories'>calories</a> if that's a concern.  As for micronutrients, coconut is a good source of <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, <a href='/misc/iron'>iron</a>, and <a href='/misc/nutrient-alphabet#S'>selenium</a>.
 <br><br>
-&emsp;I doubt you will be consuming a whole, fresh coconut, so I won't include nutrition facts for it here.  There's so many different types of coconut products for you to enjoy: <a href="https://www.nutritionvalue.org/Nuts%2C_not_sweetened%2C_dried_%28desiccated%29%2C_coconut_meat_nutritional_value.html?size=1+oz+%3D+28.35+g">unsweetened coconut flakes</a>, <a href="https://www.nutritionvalue.org/Oil%2C_coconut_nutritional_value.html">coconut oil</a>, <a href="https://www.nutritionvalue.org/Coconut_water%2C_unsweetened_42403010_nutritional_value.html?size=240+g">unsweetened coconut water</a>, and more.  Just don't go calling coconut <a href="/misc/hidden-sugar">sugar</a> healthier than regular granulated <a href="/misc/hidden-sugar">sugar</a>; you get kicked off the island for that.
-<center><img src="/assets/Misc/Nutrition/Overshadowed/coconut.png" alt="" class="smaller-image"></center><br>
+&emsp;I doubt you will be consuming a whole, fresh coconut, so I won't include nutrition facts for it here.  There's so many different types of coconut products for you to enjoy: <a href='https://www.nutritionvalue.org/Nuts%2C_not_sweetened%2C_dried_%28desiccated%29%2C_coconut_meat_nutritional_value.html?size=1+oz+%3D+28.35+g'>unsweetened coconut flakes</a>, <a href='https://www.nutritionvalue.org/Oil%2C_coconut_nutritional_value.html'>coconut oil</a>, <a href='https://www.nutritionvalue.org/Coconut_water%2C_unsweetened_42403010_nutritional_value.html?size=240+g'>unsweetened coconut water</a>, and more.  Just don't go calling coconut <a href='/misc/hidden-sugar'>sugar</a> healthier than regular granulated <a href='/misc/hidden-sugar'>sugar</a>; you get kicked off the island for that.
+<center><img src='/assets/Misc/Nutrition/Overshadowed/coconut.png' alt="" class="smaller-image"></center><br>
 
 <div id="chocolate" class="table-of-contents"></div>
 <br><i><font size="+2">Chocolate</font></i><br>
-&emsp;Chocolate is basically <i>the</i> unhealthy food, being present in many junk foods like candy, cookies, brownies, and cake, and many other "healthier" foods like <a href="/misc/fake-healthy-foods#granola">granola bars</a> and <a href="/misc/fake-healthy-foods#muffins">muffins</a>.  Chocolate is very <a href="/misc/calories">calorie</a> dense; it's essentially a 50:50 ratio of cocoa powder and cocoa butter, meaing that a bar is about 50% <a href="/misc/fats">fat</a>.  Plus, add in that the vast majority of chocolate is loaded with <a href="/misc/hidden-sugar">sugar</a>, and you begin to see why we have an obesity epidemic and a nation of chocoholics.
+&emsp;Chocolate is basically <i>the</i> unhealthy food, being present in many junk foods like candy, cookies, brownies, and cake, and many other "healthier" foods like <a href='/misc/fake-healthy-foods#granola'>granola bars</a> and <a href='/misc/fake-healthy-foods#muffins'>muffins</a>.  Chocolate is very <a href='/misc/calories'>calorie</a> dense; it's essentially a 50:50 ratio of cocoa powder and cocoa butter, meaing that a bar is about 50% <a href='/misc/fats'>fat</a>.  Plus, add in that the vast majority of chocolate is loaded with <a href='/misc/hidden-sugar'>sugar</a>, and you begin to see why we have an obesity epidemic and a nation of chocoholics.
 <br><br>
-&emsp;Ironically though, true dark chocolate is actually a very healthy food.  Cocoa powder is one of the most <a href="/misc/iron">iron dense foods</a> out there, as well as being high in <a href="/misc/fiber">fiber</a>, <a href="/misc/nutrient-alphabet#C">copper</a>, <a href="/misc/nutrient-alphabet#M">manganese</a>, <a href="/misc/magnesium">magnesium</a>, <a href="/misc/phosphorus">phosphorus</a>, <a href="/misc/nutrient-alphabet#Z">zinc</a>, and <a href="/misc/nutrient-alphabet#R">riboflavin</a>.  Dark chocolate is a rich source of antioxidants, which are anti-inflammatory and protect against free radicals.  Cocoa consumption has been shown to lower blood pressure, raise HDL, reduce your risk for heart disease, and improve brain function.
+&emsp;Ironically though, true dark chocolate is actually a very healthy food.  Cocoa powder is one of the most <a href='/misc/iron'>iron dense foods</a> out there, as well as being high in <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, <a href='/misc/magnesium'>magnesium</a>, <a href='/misc/phosphorus'>phosphorus</a>, <a href='/misc/nutrient-alphabet#Z'>zinc</a>, and <a href='/misc/nutrient-alphabet#R'>riboflavin</a>.  Dark chocolate is a rich source of antioxidants, which are anti-inflammatory and protect against free radicals.  Cocoa consumption has been shown to lower blood pressure, raise HDL, reduce your risk for heart disease, and improve brain function.
 <br><br>
-&emsp;Just because chocolate says that it's "dark" though doesn't automatically make it healthy; there's a reason why I also put dark chocolate on <a href="/misc/fake-healthy-foods#chocolate">'Healthy' Trap Foods</a>.  Legally, anything over 43% cocoa solids can claim itself to be dark chocolate.  At minimum, you should aim to consume anything over 70%; anything less is candy.  The higher the percentage, the more cocoa and less <a href="/misc/hidden-sugar">sugar</a> there is.  For 1 ounce (28 g) of <a href="https://www.nutritionvalue.org/Baking_chocolate%2C_squares%2C_unsweetened_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">unsweetened (100%) chocolate</a>, you're looking at the following:
+&emsp;Just because chocolate says that it's "dark" though doesn't automatically make it healthy; there's a reason why I also put dark chocolate on <a href='/misc/fake-healthy-foods#chocolate'>'Healthy' Trap Foods</a>.  Legally, anything over 43% cocoa solids can claim itself to be dark chocolate.  At minimum, you should aim to consume anything over 70%; anything less is candy.  The higher the percentage, the more cocoa and less <a href='/misc/hidden-sugar'>sugar</a> there is.  For 1 ounce (28 g) of <a href='https://www.nutritionvalue.org/Baking_chocolate%2C_squares%2C_unsweetened_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g'>unsweetened (100%) chocolate</a>, you're looking at the following:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 182
+<br><b><a href='/misc/calories'>Calories</a></b>: 182
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 15 g (19 %)
-<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 9.2 g (46 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 8.1 g (3 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 4.7 g (17 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 0.3 g
-<br><b><a href="/misc/protein">Protein</a></b>: 4.1 g (8 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 15 g (19 %)
+<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 9.2 g (46 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 8.1 g (3 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 4.7 g (17 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 0.3 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 4.1 g (8 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.92 mg (102 %)
-<br><b><a href="/misc/iron">Iron</a></b>: 4.9 mg (27 %)
-<br><b><a href="/misc/magnesium">Magnesium</a></b>: 92.7 mg (22 %)
-<br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 1.2 mg (51 %)
-<br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 2.7 mg (25 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.92 mg (102 %)
+<br><b><a href='/misc/iron'>Iron</a></b>: 4.9 mg (27 %)
+<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 92.7 mg (22 %)
+<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 1.2 mg (51 %)
+<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 2.7 mg (25 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrition-alphabet#K">Vitamin K</a></b>: 2.7 mcg (2 %)
+<br><b><a href='/misc/nutrition-alphabet#K'>Vitamin K</a></b>: 2.7 mcg (2 %)
 <br><b>Choline</b>: 13 mg (2 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/cacao.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/cacao.png' alt="" class="smaller-image"></center><br>
 
 <div id="eggs" class="table-of-contents"></div>
 <br><i><font size="+2">Eggs</font></i><br>
-&emsp;Ah <a href="/misc/meat#eggs">eggs</a>, the main reason for this list.  Just like with <a rel="" target="" href="#red-meat">red meat</a>, eggs get a bad rap for saturated <a href="/misc/fats">fat</a> and <a href="/misc/cholesterol">cholesterol</a>.  Eggs are high in <a href="/misc/cholesterol">cholesterol</a>, fairly high in <a href="/misc/fats">fat</a>, and somewhat lacking in <a href="/misc/protein">protein</a> for a food considered to a good source of it.  Although eggs are high in dietary <a href="/misc/cholesterol">cholesterol</a>, this does not cause a rise in blood <a href="/misc/cholesterol">cholesterol</a> in most people; they just share the same name (similar to dietary <a href="/misc/fats">fat</a> and bodily <a href="/misc/fats">fat</a>).  There is little relation between dietary <a href="/misc/cholesterol">cholesterol</a> intake and heart disease; it's time to stop fearing the egg yolk.  In fact, whole eggs have been shown to raise HDL ("good" <a href="/misc/cholesterol">cholesterol</a>).
+&emsp;Ah <a href='/misc/meat#eggs'>eggs</a>, the main reason for this list.  Just like with <a rel="" target="" href='#red-meat'>red meat</a>, eggs get a bad rap for saturated <a href='/misc/fats'>fat</a> and <a href='/misc/cholesterol'>cholesterol</a>.  Eggs are high in <a href='/misc/cholesterol'>cholesterol</a>, fairly high in <a href='/misc/fats'>fat</a>, and somewhat lacking in <a href='/misc/protein'>protein</a> for a food considered to a good source of it.  Although eggs are high in dietary <a href='/misc/cholesterol'>cholesterol</a>, this does not cause a rise in blood <a href='/misc/cholesterol'>cholesterol</a> in most people; they just share the same name (similar to dietary <a href='/misc/fats'>fat</a> and bodily <a href='/misc/fats'>fat</a>).  There is little relation between dietary <a href='/misc/cholesterol'>cholesterol</a> intake and heart disease; it's time to stop fearing the egg yolk.  In fact, whole eggs have been shown to raise HDL ("good" <a href='/misc/cholesterol'>cholesterol</a>).
 <br><br>
-&emsp;Eggs are basically nature's multi-vitamin.  While the egg white is essentially pure <a href="/misc/protein">protein</a>, the yolk is where all the goodies come from - <a href="/misc/protein">protein</a>, <a href="/misc/fats">fat</a>, and all the micronutrients.  Notably, eggs are one of the best sources of choline in your diet.  Choline is an essential, water-soluble nutrient that improves metabolism, liver function, heart health, muscle movement, nervous system, and brain development.  Eggs are also a rich source of lutein and zeaxanthin, which are antioxidants that are beneficial for eye health.  Eggs contain a notable amount of pretty much any vitamin or mineral you can think of, while also being a complete <a href="/misc/protein">protein</a>.  If any food is a superfood, it's the humble egg.
+&emsp;Eggs are basically nature's multi-vitamin.  While the egg white is essentially pure <a href='/misc/protein'>protein</a>, the yolk is where all the goodies come from - <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fat</a>, and all the micronutrients.  Notably, eggs are one of the best sources of choline in your diet.  Choline is an essential, water-soluble nutrient that improves metabolism, liver function, heart health, muscle movement, nervous system, and brain development.  Eggs are also a rich source of lutein and zeaxanthin, which are antioxidants that are beneficial for eye health.  Eggs contain a notable amount of pretty much any vitamin or mineral you can think of, while also being a complete <a href='/misc/protein'>protein</a>.  If any food is a superfood, it's the humble egg.
 <br><br>
-&emsp;Besides being a nutritional powerhouse, eggs are also very cheap and versatile.  My preferred balance for breakfast is 2 whole eggs and 2 servings of liquid <a href="/misc/meat#egg-whites">egg whites</a> with a bunch of veggies (like <a href="/recipes/spinach-mushroom-scrambled-eggs">Spinach & Mushroom Scrambled Eggs</a> and <a href="/recipes/higher-protein-scrambled-eggs">Higher Protein Scrambled Eggs</a>).  I get the extra <a href="/misc/protein">protein</a> boost from just the plain <a href="/misc/meat#egg-whites">egg whites</a> for less <a href="/misc/calories">calories</a>, while still having all the benefits of the whole eggs.  One <a href="https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=1%20egg%20%3D%2050.3%20g">large egg</a> (about 50 g) contains all the following:
+&emsp;Besides being a nutritional powerhouse, eggs are also very cheap and versatile.  My preferred balance for breakfast is 2 whole eggs and 2 servings of liquid <a href='/misc/meat#egg-whites'>egg whites</a> with a bunch of veggies (like <a href='/recipes/spinach-mushroom-scrambled-eggs'>Spinach & Mushroom Scrambled Eggs</a> and <a href='/recipes/higher-protein-scrambled-eggs'>Higher Protein Scrambled Eggs</a>).  I get the extra <a href='/misc/protein'>protein</a> boost from just the plain <a href='/misc/meat#egg-whites'>egg whites</a> for less <a href='/misc/calories'>calories</a>, while still having all the benefits of the whole eggs.  One <a href='https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=1%20egg%20%3D%2050.3%20g'>large egg</a> (about 50 g) contains all the following:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 74
+<br><b><a href='/misc/calories'>Calories</a></b>: 74
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 5 g (6 %)
-<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 1.6 g (8 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 0.5 g (0 %)
-<br><b><a href="/misc/protein">Protein</a></b>: 6.2 g (12 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 5 g (6 %)
+<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 1.6 g (8 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 0.5 g (0 %)
+<br><b><a href='/misc/protein'>Protein</a></b>: 6.2 g (12 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#I">Iodine</a></b>: 24.7 mcg (16 %)
-<br><b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: 15.6 mcg (28 %)
+<br><b><a href='/misc/nutrient-alphabet#I'>Iodine</a></b>: 24.7 mcg (16 %)
+<br><b><a href='/misc/nutrient-alphabet#S'>Selenium</a></b>: 15.6 mcg (28 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#A">Vitamin A</a></b>: 91 mcg (10 %)
-<br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.21 mg (16 %)
-<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: 0.51 mcg (21 %)
-<br><b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: 1.2 mcg (6 %)
+<br><b><a href='/misc/nutrient-alphabet#A'>Vitamin A</a></b>: 91 mcg (10 %)
+<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.21 mg (16 %)
+<br><b><a href='/misc/vitamin-b12'>Vitamin B12</a></b>: 0.51 mcg (21 %)
+<br><b><a href='/misc/nutrient-alphabet#D'>Vitamin D</a></b>: 1.2 mcg (6 %)
 <br><b>Choline</b>: 169 mg (31 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/fried-egg.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/fried-egg.png' alt="" class="smaller-image"></center><br>
 
 <div id="fish" class="table-of-contents"></div>
 <br><i><font size="+2">Fish</font></i><br>
-&emsp;<a href="/misc/fish">Fish</a> is a great food group with a lot of variety.  Some fishes are higher in <a href="/misc/sodium">sodium</a> and <a href="/misc/cholesterol">cholesterol</a> I guess, but neither of which are really a concern if you have a balanced diet.  The only other downsides of fish I can think of are potential foodborne illnesses and the mercury content in some varieties.  But as long as you don't eat canned <a href="/misc/fish#tuna"> tuna</a> more than twice a week, and you consume adequate amounts of <a href="/misc/nutrient-alphabet#S">selenium</a>, there's no reason to fear fish.  Canned fish, like <a href="/recipes/massive-salad">tuna</a> and <a href="/recipes/brain-boosting-bowl">sardines</a>, is a cheap, healthy, and easy <a href="/misc/protein">protein</a> source that's always good to have on hand.
+&emsp;<a href='/misc/fish'>Fish</a> is a great food group with a lot of variety.  Some fishes are higher in <a href='/misc/sodium'>sodium</a> and <a href='/misc/cholesterol'>cholesterol</a> I guess, but neither of which are really a concern if you have a balanced diet.  The only other downsides of fish I can think of are potential foodborne illnesses and the mercury content in some varieties.  But as long as you don't eat canned <a href='/misc/fish#tuna'> tuna</a> more than twice a week, and you consume adequate amounts of <a href='/misc/nutrient-alphabet#S'>selenium</a>, there's no reason to fear fish.  Canned fish, like <a href='/recipes/massive-salad'>tuna</a> and <a href='/recipes/brain-boosting-bowl'>sardines</a>, is a cheap, healthy, and easy <a href='/misc/protein'>protein</a> source that's always good to have on hand.
 <br><br>
-&emsp;As mentioned, there's many varieties of fishes.  Most white fish, like <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_cod_nutritional_value.html?size=100+g">cod</a>, <a href="https://www.nutritionvalue.org/Halibut%2C_raw_26118000_nutritional_value.html?size=100+g">halibut</a>, and <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_tilapia_nutritional_value.html?size=100+g">tilapia</a>, and pretty lean, making them good <a href="/misc/protein">protein</a> sources for less <a href="/misc/calories">calories</a>.  On the other hand, fatty fishes like <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g">salmon</a>, <a href="https://www.nutritionvalue.org/Canned_mackerel_by_DONG_WON_523236_nutritional_value.html?size=100+g">mackerel</a>, and <a href="https://www.nutritionvalue.org/Sardines%2C_packed_in_water%2C_boneless%2C_skinless_26139190_nutritional_value.html?size=100+g">sardines</a> are high in <a href="/misc/nutrient-alphabet#O">Omega-3</a> <a href="/misc/fats">fats</a>, which are essential, typically under consumed, and anti-inflammatory.
+&emsp;As mentioned, there's many varieties of fishes.  Most white fish, like <a href='https://www.nutritionvalue.org/Fish%2C_raw%2C_Atlantic%2C_cod_nutritional_value.html?size=100+g'>cod</a>, <a href='https://www.nutritionvalue.org/Halibut%2C_raw_26118000_nutritional_value.html?size=100+g'>halibut</a>, and <a href='https://www.nutritionvalue.org/Fish%2C_raw%2C_tilapia_nutritional_value.html?size=100+g'>tilapia</a>, and pretty lean, making them good <a href='/misc/protein'>protein</a> sources for less <a href='/misc/calories'>calories</a>.  On the other hand, fatty fishes like <a href='https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g'>salmon</a>, <a href='https://www.nutritionvalue.org/Canned_mackerel_by_DONG_WON_523236_nutritional_value.html?size=100+g'>mackerel</a>, and <a href='https://www.nutritionvalue.org/Sardines%2C_packed_in_water%2C_boneless%2C_skinless_26139190_nutritional_value.html?size=100+g'>sardines</a> are high in <a href='/misc/nutrient-alphabet#O'>Omega-3</a> <a href='/misc/fats'>fats</a>, which are essential, typically under consumed, and anti-inflammatory.
 <br><br>
-&emsp;Shellfish is fantastic as well, where a lot of them are lean <a href="/misc/protein">protein</a> sources that are nutrient dense: <a href="https://www.nutritionvalue.org/Raw_shrimp_564929_nutritional_value.html?size=100%20g">shrimp</a>, <a href="https://www.nutritionvalue.org/Mussels%2C_raw_26313100_nutritional_value.html?size=100+g">mussels</a>, <a href="https://www.nutritionvalue.org/Clams%2C_canned_26303180_nutritional_value.html?size=100+g">clams</a>, <a href="https://www.nutritionvalue.org/Mollusks%2C_raw%2C_mixed_species%2C_scallop_nutritional_value.html?size=100+g">scallops</a>, and <a href="https://www.nutritionvalue.org/Mollusks%2C_raw%2C_common%2C_octopus_nutritional_value.html?size=100+g">octopus</a> are all delicious and great for you.  <a href="https://www.nutritionvalue.org/Oysters%2C_raw_26315100_nutritional_value.html?size=100+g">Oysters</a> in particular are extremely nutrient dense, having one of the highest <a href="/misc/iron">iron contents</a> of any food; even higher than <a rel="" target="" href="#red-meat">red meat</a>.
+&emsp;Shellfish is fantastic as well, where a lot of them are lean <a href='/misc/protein'>protein</a> sources that are nutrient dense: <a href='https://www.nutritionvalue.org/Raw_shrimp_564929_nutritional_value.html?size=100%20g'>shrimp</a>, <a href='https://www.nutritionvalue.org/Mussels%2C_raw_26313100_nutritional_value.html?size=100+g'>mussels</a>, <a href='https://www.nutritionvalue.org/Clams%2C_canned_26303180_nutritional_value.html?size=100+g'>clams</a>, <a href='https://www.nutritionvalue.org/Mollusks%2C_raw%2C_mixed_species%2C_scallop_nutritional_value.html?size=100+g'>scallops</a>, and <a href='https://www.nutritionvalue.org/Mollusks%2C_raw%2C_common%2C_octopus_nutritional_value.html?size=100+g'>octopus</a> are all delicious and great for you.  <a href='https://www.nutritionvalue.org/Oysters%2C_raw_26315100_nutritional_value.html?size=100+g'>Oysters</a> in particular are extremely nutrient dense, having one of the highest <a href='/misc/iron'>iron contents</a> of any food; even higher than <a rel="" target="" href='#red-meat'>red meat</a>.
 <br><br>
-&emsp;I've listed many types of fish and shellfish above, but I've decided to go with <a href="/misc/fish#salmon"> salmon</a> here, as it's typically considered one of the healthiest fishes you can eat. <a href="/misc/fish#salmon"> Salmon</a> is one of the best sources of <a href="/misc/nutrient-alphabet#O">Omega-3</a> fatty acids, and it's pink color comes from astaxanthin, a carotenoid that's beneficial for heart, eye, skin, and brain health.  Per 100 g of <a href="https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g">raw wild salmon</a>:
+&emsp;I've listed many types of fish and shellfish above, but I've decided to go with <a href='/misc/fish#salmon'> salmon</a> here, as it's typically considered one of the healthiest fishes you can eat. <a href='/misc/fish#salmon'> Salmon</a> is one of the best sources of <a href='/misc/nutrient-alphabet#O'>Omega-3</a> fatty acids, and it's pink color comes from astaxanthin, a carotenoid that's beneficial for heart, eye, skin, and brain health.  Per 100 g of <a href='https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g'>raw wild salmon</a>:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 142
+<br><b><a href='/misc/calories'>Calories</a></b>: 142
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 6.3 g (8 %)
-<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 1 g (5 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 0 g (0 %)
-<br><b><a href="/misc/protein">Protein</a></b>: 20 g (40 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 6.3 g (8 %)
+<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 1 g (5 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 0 g (0 %)
+<br><b><a href='/misc/protein'>Protein</a></b>: 20 g (40 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.25 mg (28 %)
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 200 mg (16 %)
-<br><b><a href="/misc/potassium">Potassium</a></b>: 490 mg (10 %)
-<br><b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: 36.5 mcg (66 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.25 mg (28 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 200 mg (16 %)
+<br><b><a href='/misc/potassium'>Potassium</a></b>: 490 mg (10 %)
+<br><b><a href='/misc/nutrient-alphabet#S'>Selenium</a></b>: 36.5 mcg (66 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.23 mg (19 %)
-<br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.38 mg (29 %)
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 7.9 mg (49 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 1.7 mg (33 %)
-<br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.82 mg (48 %)
-<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: 3.2 mcg (132 %)
-<br><b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: 11 mcg (55 %)
+<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.23 mg (19 %)
+<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.38 mg (29 %)
+<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 7.9 mg (49 %)
+<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 1.7 mg (33 %)
+<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.82 mg (48 %)
+<br><b><a href='/misc/vitamin-b12'>Vitamin B12</a></b>: 3.2 mcg (132 %)
+<br><b><a href='/misc/nutrient-alphabet#D'>Vitamin D</a></b>: 11 mcg (55 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/fish.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/fish.png' alt="" class="smaller-image"></center><br>
 
 <div id="milk" class="table-of-contents"></div>
 <br><i><font size="+2">Milk</font></i><br>
-&emsp;How did milk, and dairy as a whole, so quickly go from being an everyday staple for everyone to a must avoid food group?  As long as you're not lactose-intolerant, I see no reason to avoid milk.  Dairy is a good source of complete <a href="/misc/protein">protein</a>, <a href="/misc/calcium">calcium</a>, <a href="/misc/phosphorus">phosphorus</a>, <a href="/misc/nutrient-alphabet#D">vitamin D</a>, and <a href="/misc/vitamin-b12">vitamin B12</a>.  <a href="/misc/calcium">Calcium</a> is crucial for bone health, and <a href="/misc/vitamin-b12">vitamin B12</a> plays a large role in brain function and energy levels.  
+&emsp;How did milk, and dairy as a whole, so quickly go from being an everyday staple for everyone to a must avoid food group?  As long as you're not lactose-intolerant, I see no reason to avoid milk.  Dairy is a good source of complete <a href='/misc/protein'>protein</a>, <a href='/misc/calcium'>calcium</a>, <a href='/misc/phosphorus'>phosphorus</a>, <a href='/misc/nutrient-alphabet#D'>vitamin D</a>, and <a href='/misc/vitamin-b12'>vitamin B12</a>.  <a href='/misc/calcium'>Calcium</a> is crucial for bone health, and <a href='/misc/vitamin-b12'>vitamin B12</a> plays a large role in brain function and energy levels.  
 <br>
 &emsp;Most dairy products are very cheap, versatile, tasty, and minimally processed.  Here are some great overlooked dairy products.  With all of these, always always always make sure to get plain, without any added sugars:
 - Buttermilk
@@ -220,174 +220,174 @@ tags:
 - Kefir
 - Milk
 
-&emsp;Milk also comes in varying <a href="/misc/fats">fat</a> contents, making it easy to get exactly what you're looking for.  All variants of milk (whole, 2%, 1%, and skim) are essentially the same nutritionally besides the <a href="/misc/fats">fat</a> and <a href="/misc/calories">calories</a>.  Below are the nutrition facts for 1 cup (244 g) of <a href="https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=1%20cup%20%3D%20244%20g">skim milk</a>:
+&emsp;Milk also comes in varying <a href='/misc/fats'>fat</a> contents, making it easy to get exactly what you're looking for.  All variants of milk (whole, 2%, 1%, and skim) are essentially the same nutritionally besides the <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>.  Below are the nutrition facts for 1 cup (244 g) of <a href='https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=1%20cup%20%3D%20244%20g'>skim milk</a>:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 83
+<br><b><a href='/misc/calories'>Calories</a></b>: 83
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 0.2 g (0 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 12 g (0 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 12 g
-<br><b><a href="/misc/protein">Protein</a></b>: 8.4 g (17 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 0.2 g (0 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 12 g (0 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 12 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 8.4 g (17 %)
 <br>------------------------------------------
-<br><b><a href="/misc/calcium">Calcium</a></b>: 322 mg (22 %)
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 261 mg (21 %)
-<br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.1 mg (10 %)
+<br><b><a href='/misc/calcium'>Calcium</a></b>: 322 mg (22 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 261 mg (21 %)
+<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 1.1 mg (10 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#A">Vitamin A</a></b>: 156 mcg (17 %)
-<br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (11 %)
-<br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
-<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: 1.4 mcg (59 %)
-<br><b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: 2.7 mcg (13 %)
+<br><b><a href='/misc/nutrient-alphabet#A'>Vitamin A</a></b>: 156 mcg (17 %)
+<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (11 %)
+<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
+<br><b><a href='/misc/vitamin-b12'>Vitamin B12</a></b>: 1.4 mcg (59 %)
+<br><b><a href='/misc/nutrient-alphabet#D'>Vitamin D</a></b>: 2.7 mcg (13 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/milk.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/milk.png' alt="" class="smaller-image"></center><br>
 
 <div id="nuts" class="table-of-contents"></div>
 <br><i><font size="+2">Nuts and Seeds</font></i><br>
-&emsp;Assuming that you don't have a nut allergy, there's no reason to avoid eating <a href="/misc/nuts">nuts</a>.  Yes, they are high in <a href="/misc/fats">fat</a>, meaning that they are high in <a href="/misc/calories">calories</a>.  But as long as you accurately measure out your <a href="/misc/nuts">nuts</a>, there's no reason to not consume them.  <a href="/misc/fats">Fat</a> is not bad for you though; stop avoiding whole food sources of essential nutrients.
+&emsp;Assuming that you don't have a nut allergy, there's no reason to avoid eating <a href='/misc/nuts'>nuts</a>.  Yes, they are high in <a href='/misc/fats'>fat</a>, meaning that they are high in <a href='/misc/calories'>calories</a>.  But as long as you accurately measure out your <a href='/misc/nuts'>nuts</a>, there's no reason to not consume them.  <a href='/misc/fats'>Fat</a> is not bad for you though; stop avoiding whole food sources of essential nutrients.
 <br><br>
-&emsp;While the <a href="/misc/sodium">sodium</a> content is up to you (unsalted, lightly salted, or salted), always try to get dry roasted <a href="/misc/nuts">nuts</a> whenever possible.  Dry roasted means that you're (hopefully) getting nothing but <a href="/misc/nuts">nuts</a> and salt, with no added oils, sugars, flavors, or preservatives.  Most <a href="https://amzn.to/3FpAkL4">commercially salted <a href="/misc/nuts">nuts</a></a> (even some that are dry roasted) have <a href="/misc/hidden-sugar">added sugar</a>, corn syrup, maltodextrin, and flavors.  This, combined with being very easy to overeat, is why <a href="/misc/nuts">nuts</a> were on my <a href="/misc/fake-healthy-foods#nuts">'Healthy' Trap Foods</a> list as well.
+&emsp;While the <a href='/misc/sodium'>sodium</a> content is up to you (unsalted, lightly salted, or salted), always try to get dry roasted <a href='/misc/nuts'>nuts</a> whenever possible.  Dry roasted means that you're (hopefully) getting nothing but <a href='/misc/nuts'>nuts</a> and salt, with no added oils, sugars, flavors, or preservatives.  Most <a href='https://amzn.to/3FpAkL4'>commercially salted <a href='/misc/nuts'>nuts</a></a> (even some that are dry roasted) have <a href='/misc/hidden-sugar'>added sugar</a>, corn syrup, maltodextrin, and flavors.  This, combined with being very easy to overeat, is why <a href='/misc/nuts'>nuts</a> were on my <a href='/misc/fake-healthy-foods#nuts'>'Healthy' Trap Foods</a> list as well.
 <br><br>
-&emsp;Nuts are one of the most nutrient dense food groups.  They're a great source of heart healthy mono-unsaturated <a href="/misc/fats">fats</a>, <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, <a href="/misc/nutrient-alphabet#C">copper</a>, <a href="/misc/magnesium">magnesium</a>, and <a href="/misc/nutrient-alphabet#M">manganese</a>.  Being high in <a href="/misc/fats">fat</a> and <a href="/misc/fiber">fiber</a>, while low in <a href="/misc/carbs">carbs</a>, <a href="/misc/nuts">nuts</a> are great for balancing your blood sugar and feeling full.  Most <a href="/misc/nuts">nuts</a> are very similar, but there are some differences, which is why it's good to have a variety.  Below are all great examples of <a href="/misc/nuts">nuts</a> you should work into your diet and benefits of each of them:
-- <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Almonds</a> - vitamins <a href="/misc/nutrient-alphabet#R">B2</a> & <a href="/misc/nutrient-alphabet#E">E</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Brazil nuts</a> - <a href="/misc/nutrient-alphabet#S">selenium</a> & <a href="/misc/magnesium">magnesium</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html">Cashews</a> - <a href="/misc/nutrient-alphabet#C">copper</a> & <a href="/misc/nutrient-alphabet#K">vitamin K</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_macadamia_nuts_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Macadamia nuts</a> - <a href="/misc/nutrient-alphabet#O">Omega-3s</a>
-- <a href="https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Peanuts</a> - <a href="/misc/protein">protein</a> & <a href="/misc/nutrient-alphabet#N">vitamin B3</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_pecans_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Pecans</a> - <a href="/misc/nutrient-alphabet#M">manganese</a> & <a href="/misc/nutrient-alphabet#T">vitamin B1</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_dried%2C_pine_nuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Pine nuts</a> - <a href="/misc/nutrient-alphabet#M">manganese</a> & <a href="/misc/nutrient-alphabet#K">vitamin K</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_raw%2C_pistachio_nuts_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g">Pistachios</a> - vitamins <a href="/misc/nutrient-alphabet#T">B1</a> & <a href="/misc/nutrient-alphabet#B6">B6</a>
-- <a href="https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Walnuts</a> - <a href="/misc/nutrient-alphabet#O">Omega-3s</a> & <a href="/misc/nutrient-alphabet#C">copper</a>
+&emsp;Nuts are one of the most nutrient dense food groups.  They're a great source of heart healthy mono-unsaturated <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/magnesium'>magnesium</a>, and <a href='/misc/nutrient-alphabet#M'>manganese</a>.  Being high in <a href='/misc/fats'>fat</a> and <a href='/misc/fiber'>fiber</a>, while low in <a href='/misc/carbs'>carbs</a>, <a href='/misc/nuts'>nuts</a> are great for balancing your blood sugar and feeling full.  Most <a href='/misc/nuts'>nuts</a> are very similar, but there are some differences, which is why it's good to have a variety.  Below are all great examples of <a href='/misc/nuts'>nuts</a> you should work into your diet and benefits of each of them:
+- <a href='https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g'>Almonds</a> - vitamins <a href='/misc/nutrient-alphabet#R'>B2</a> & <a href='/misc/nutrient-alphabet#E'>E</a>
+- <a href='https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Brazil nuts</a> - <a href='/misc/nutrient-alphabet#S'>selenium</a> & <a href='/misc/magnesium'>magnesium</a>
+- <a href='https://www.nutritionvalue.org/Nuts%2C_raw%2C_cashew_nuts_nutritional_value.html'>Cashews</a> - <a href='/misc/nutrient-alphabet#C'>copper</a> & <a href='/misc/nutrient-alphabet#K'>vitamin K</a>
+- <a href='https://www.nutritionvalue.org/Nuts%2C_raw%2C_macadamia_nuts_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g'>Macadamia nuts</a> - <a href='/misc/nutrient-alphabet#O'>Omega-3s</a>
+- <a href='https://www.nutritionvalue.org/Peanuts%2C_without_salt%2C_dry-roasted%2C_all_types_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Peanuts</a> - <a href='/misc/protein'>protein</a> & <a href='/misc/nutrient-alphabet#N'>vitamin B3</a>
+- <a href='https://www.nutritionvalue.org/Nuts%2C_pecans_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Pecans</a> - <a href='/misc/nutrient-alphabet#M'>manganese</a> & <a href='/misc/nutrient-alphabet#T'>vitamin B1</a>
+- <a href='https://www.nutritionvalue.org/Nuts%2C_dried%2C_pine_nuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Pine nuts</a> - <a href='/misc/nutrient-alphabet#M'>manganese</a> & <a href='/misc/nutrient-alphabet#K'>vitamin K</a>
+- <a href='https://www.nutritionvalue.org/Nuts%2C_raw%2C_pistachio_nuts_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g'>Pistachios</a> - vitamins <a href='/misc/nutrient-alphabet#T'>B1</a> & <a href='/misc/nutrient-alphabet#B6'>B6</a>
+- <a href='https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Walnuts</a> - <a href='/misc/nutrient-alphabet#O'>Omega-3s</a> & <a href='/misc/nutrient-alphabet#C'>copper</a>
 
-&emsp;Similar to <a href="/misc/nuts">nuts</a>, seeds are also great sources of healthy <a href="/misc/fats">fats</a> and essential micronutrients.  All of the same benefits apply, and some seeds, like chia and flax, are also great sources of <a href="/misc/nutrient-alphabet#O">Omega-3</a> <a href="/misc/fats">fats</a>.  Most seeds also contain less <a href="/misc/fats">fat</a> and more <a href="/misc/fiber">fiber</a>, making them lower in <a href="/misc/calories">calories</a>.  Both <a href="/misc/nuts">nuts</a> and seeds have been shown to aid in weight loss, improve type 2 diabetes and metabolic syndrome, and reduce risk of heart attack and stroke.  Here are some great seeds for you to eat:
-- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Chia seeds</a> - <a href="/misc/nutrient-alphabet#O">Omega-3s</a> & <a href="/misc/fiber">fiber</a>
-- <a href="https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Flax seeds</a> - <a href="/misc/nutrient-alphabet#O">Omega-3s</a> & <a href="/misc/nutrient-alphabet#T">vitamin B1</a>
-- <a href="https://www.nutritionvalue.org/Hemp_seed%2C_raw_shelled_by_TRADER_JOE%27S_403399_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Hemp seeds</a> - <a href="/misc/iron">iron</a> & <a href="/misc/nutrient-alphabet#M">manganese</a>
-- <a href="https://www.nutritionvalue.org/Spices%2C_poppy_seed_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Poppy seeds</a> - <a href="/misc/calcium">calcium</a> & <a href="/misc/nutrient-alphabet#C">copper</a>
-- <a href="https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_roasted%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Pumpkin seeds</a> - <a href="/misc/iron">iron</a> & <a href="/misc/magnesium">magnesium</a>
-- <a href="https://www.nutritionvalue.org/Seeds%2C_dried%2C_whole%2C_sesame_seeds_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Sesame seeds</a> - <a href="/misc/iron">iron</a> & <a href="/misc/nutrient-alphabet#C">copper</a>
-- <a href="https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_dry_roasted%2C_sunflower_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g">Sunflower seeds</a> - <a href="/misc/nutrient-alphabet#S">selenium</a> & <a href="/misc/nutrient-alphabet#E">vitamin E</a>
+&emsp;Similar to <a href='/misc/nuts'>nuts</a>, seeds are also great sources of healthy <a href='/misc/fats'>fats</a> and essential micronutrients.  All of the same benefits apply, and some seeds, like chia and flax, are also great sources of <a href='/misc/nutrient-alphabet#O'>Omega-3</a> <a href='/misc/fats'>fats</a>.  Most seeds also contain less <a href='/misc/fats'>fat</a> and more <a href='/misc/fiber'>fiber</a>, making them lower in <a href='/misc/calories'>calories</a>.  Both <a href='/misc/nuts'>nuts</a> and seeds have been shown to aid in weight loss, improve type 2 diabetes and metabolic syndrome, and reduce risk of heart attack and stroke.  Here are some great seeds for you to eat:
+- <a href='https://www.nutritionvalue.org/Seeds%2C_dried%2C_chia_seeds_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Chia seeds</a> - <a href='/misc/nutrient-alphabet#O'>Omega-3s</a> & <a href='/misc/fiber'>fiber</a>
+- <a href='https://www.nutritionvalue.org/Seeds%2C_flaxseed_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Flax seeds</a> - <a href='/misc/nutrient-alphabet#O'>Omega-3s</a> & <a href='/misc/nutrient-alphabet#T'>vitamin B1</a>
+- <a href='https://www.nutritionvalue.org/Hemp_seed%2C_raw_shelled_by_TRADER_JOE%27S_403399_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Hemp seeds</a> - <a href='/misc/iron'>iron</a> & <a href='/misc/nutrient-alphabet#M'>manganese</a>
+- <a href='https://www.nutritionvalue.org/Spices%2C_poppy_seed_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Poppy seeds</a> - <a href='/misc/calcium'>calcium</a> & <a href='/misc/nutrient-alphabet#C'>copper</a>
+- <a href='https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_roasted%2C_pumpkin_and_squash_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Pumpkin seeds</a> - <a href='/misc/iron'>iron</a> & <a href='/misc/magnesium'>magnesium</a>
+- <a href='https://www.nutritionvalue.org/Seeds%2C_dried%2C_whole%2C_sesame_seeds_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Sesame seeds</a> - <a href='/misc/iron'>iron</a> & <a href='/misc/nutrient-alphabet#C'>copper</a>
+- <a href='https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_dry_roasted%2C_sunflower_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Sunflower seeds</a> - <a href='/misc/nutrient-alphabet#S'>selenium</a> & <a href='/misc/nutrient-alphabet#E'>vitamin E</a>
 
-&emsp;Many <a href="/misc/nuts">nuts</a> and seeds are nutritionally similar, but all are healthy additions to your diet.  They're anti-inflammatory, benefit heart and brain health, contain anti-oxidants, and are very convenient.  Here, I've decided to go with <a href="https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=1+ounce+%3D+28.3495+g">almonds</a>, since they're one of the more well known <a href="/misc/nuts">nuts</a> that people consume.  Per 1 ounce (28 g):
+&emsp;Many <a href='/misc/nuts'>nuts</a> and seeds are nutritionally similar, but all are healthy additions to your diet.  They're anti-inflammatory, benefit heart and brain health, contain anti-oxidants, and are very convenient.  Here, I've decided to go with <a href='https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>almonds</a>, since they're one of the more well known <a href='/misc/nuts'>nuts</a> that people consume.  Per 1 ounce (28 g):
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 164
+<br><b><a href='/misc/calories'>Calories</a></b>: 164
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 14 g (18 %)
-<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 1.1 g (6 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 6.1 g (2 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 3.5 g (12 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 1.2 g
-<br><b><a href="/misc/protein">Protein</a></b>: 6 g (12 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 14 g (18 %)
+<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 1.1 g (6 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 6.1 g (2 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 3.5 g (12 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 1.2 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 6 g (12 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.29 mg (32 %)
-<br><b><a href="/misc/iron">Iron</a></b>: 1.1 mg (6 %)
-<br><b><a href="/misc/magnesium">Magnesium</a></b>: 77 mg (18 %)
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 136 mg (11 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.29 mg (32 %)
+<br><b><a href='/misc/iron'>Iron</a></b>: 1.1 mg (6 %)
+<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 77 mg (18 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 136 mg (11 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
-<br><b><a href="/misc/nutrient-alphabet#E">Vitamin E</a></b>: 7.3 mg (48 %)
+<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
+<br><b><a href='/misc/nutrient-alphabet#E'>Vitamin E</a></b>: 7.3 mg (48 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/nuts.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/nuts.png' alt="" class="smaller-image"></center><br>
 
 <div id="oats" class="table-of-contents"></div>
 <br><i><font size="+2">Oats</font></i><br>
 &emsp;People definitely seem to have a mixed point of view on oats to say the least.  On the one hand, overnight oats were, and still are, a huge internet sensation for being an easy, cheap, and healthy breakfast.  Plus it seems that every youtube short and pintrest video for a healthy dessert uses oats as it's base.  On the other hand, some people make it their life mission to convince you that oatmeal is the worst food on the planet.  Let's find the middle ground here, shall we?
 <br><br>
-&emsp;I'll start with the downsides first, since they're shorter.  Oats are high in <a href="/misc/carbs">carbs</a>, leading to a spike in blood sugar and feeling hungry way before lunch time.  Instant oatmeal packets are essentially the same as <a href="/misc/hidden-sugar">sugar</a>-loaded <a href="/misc/fake-healthy-foods#cereal">cereals</a>, just now warm.  When not homemade, oatmeal can easily sell the illusion of being a health food, when in reality it's actually a well marketed junk item.  Even if you prepare them yourself, it's very easy to add large amounts of <a href="/misc/hidden-sugar">sugar</a>, honey, or maple syrup to them.  There's a reason why oatmeal landed it's way on my <a href="/misc/fake-healthy-foods#oats">'Healthy' Trap Foods</a> list.
+&emsp;I'll start with the downsides first, since they're shorter.  Oats are high in <a href='/misc/carbs'>carbs</a>, leading to a spike in blood sugar and feeling hungry way before lunch time.  Instant oatmeal packets are essentially the same as <a href='/misc/hidden-sugar'>sugar</a>-loaded <a href='/misc/fake-healthy-foods#cereal'>cereals</a>, just now warm.  When not homemade, oatmeal can easily sell the illusion of being a health food, when in reality it's actually a well marketed junk item.  Even if you prepare them yourself, it's very easy to add large amounts of <a href='/misc/hidden-sugar'>sugar</a>, honey, or maple syrup to them.  There's a reason why oatmeal landed it's way on my <a href='/misc/fake-healthy-foods#oats'>'Healthy' Trap Foods</a> list.
 <br><br>
 &emsp;The other main problem with oats comes from pesticides.  In the United States, oats are very commonly sprayed with glyphosate, the active ingredient in the herbicide Roundup.  Long term exposure to glyphosate has been shown to lead to cancer, liver and kidney damage,  endocrine and reproductive issues, and respiratory and digestive problems.  Not something that you want to add up over your lifetime, even in amounts considered to be "safe".
 <br><br>
-&emsp;Glyphosate can be avoided though by buying the right oats.  I like these <a href="https://amzn.to/4myzHPQ">One Degree Rolled Oats</a>, which you can get at Costco for $10 for a 5 lb bag.  They're certified organic and gluten free, meaning that they contain no glyphosate and are totally safe for celiacs.  Plus, rolled oats (also known as old-fashioned) are lower on the glycemic index (53) compared to quick oats (71), since rolled oats are less processed.  I personally prefer the texture of rolled oats as well, but it's up to you.
+&emsp;Glyphosate can be avoided though by buying the right oats.  I like these <a href='https://amzn.to/4myzHPQ'>One Degree Rolled Oats</a>, which you can get at Costco for $10 for a 5 lb bag.  They're certified organic and gluten free, meaning that they contain no glyphosate and are totally safe for celiacs.  Plus, rolled oats (also known as old-fashioned) are lower on the glycemic index (53) compared to quick oats (71), since rolled oats are less processed.  I personally prefer the texture of rolled oats as well, but it's up to you.
 <br><br>
-&emsp;Being a complex carbohydrate source that's rich in <a href="/misc/fiber">fiber</a>, <a href="/misc/nutrient-alphabet#M">manganese</a>, <a href="/misc/nutrient-alphabet#S">selenium</a>, and <a href="/misc/iron">iron</a>, oats are a great addition to your breakfast when paired with <a href="/misc/protein">protein</a> and <a href="/misc/fats">fat</a>.  Next time you make a bowl of oatmeal, add some <a href="/misc/protein">protein</a> in the form of greek <a href="/misc/dairy#yogurt">yogurt</a>, cottage cheese, and protein powder.  Make sure to get some healthy <a href="/misc/fats">fats</a> in there too, like chopped <a href="/misc/nuts">nuts</a> or <a href="/recipes/natural-peanut-butter">natural nut butter</a>, <a href="/misc/seeds#chia-seeds">chia seeds</a>, and <a href="/misc/fruit#avocado">avocado</a>.  Top it with <a href="/misc/fruit#banana">bananas</a>, <a href="/misc/fruit#blueberries">berries</a>, or cocoa powder, and you have a very nutritious breakfast.  Below are some of my <a href="/oatmeal">oatmeal</a> recipes that I rotate through frequently:
-- <a href="/recipes/no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a>
-- <a href="/recipes/strawberry-chia-oatmeal">Strawberry Chia Protein Oatmeal</a>
-- <a href="/recipes/no-yogurt-oatmeal">Yogurt Free Protein Oats</a>
-- <a href="/recipes/big-boi">Bigger Boi Oatmeal</a>
-- <a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a>
-- <a href="/recipes/vic-oats">Very Vic</a>
-- <a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a>
-- <a href="/recipes/oats-berry">Berry Delicious Protein Overnight Oats</a>
-- <a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a>
-- <a href="/recipes/oats-reeses">Reese's Protein Overnight Oats</a>
+&emsp;Being a complex carbohydrate source that's rich in <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, <a href='/misc/nutrient-alphabet#S'>selenium</a>, and <a href='/misc/iron'>iron</a>, oats are a great addition to your breakfast when paired with <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>fat</a>.  Next time you make a bowl of oatmeal, add some <a href='/misc/protein'>protein</a> in the form of greek <a href='/misc/dairy#yogurt'>yogurt</a>, cottage cheese, and protein powder.  Make sure to get some healthy <a href='/misc/fats'>fats</a> in there too, like chopped <a href='/misc/nuts'>nuts</a> or <a href='/recipes/natural-peanut-butter'>natural nut butter</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, and <a href='/misc/fruit#avocado'>avocado</a>.  Top it with <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/fruit#blueberries'>berries</a>, or cocoa powder, and you have a very nutritious breakfast.  Below are some of my <a href='/oatmeal'>oatmeal</a> recipes that I rotate through frequently:
+- <a href='/recipes/no-protein-powder-oatmeal'>Overnight Oats with no Protein Powder</a>
+- <a href='/recipes/strawberry-chia-oatmeal'>Strawberry Chia Protein Oatmeal</a>
+- <a href='/recipes/no-yogurt-oatmeal'>Yogurt Free Protein Oats</a>
+- <a href='/recipes/big-boi'>Bigger Boi Oatmeal</a>
+- <a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a>
+- <a href='/recipes/vic-oats'>Very Vic</a>
+- <a href='/recipes/oats-pb'>Peanut Butter Punch Protein Overnight Oats</a>
+- <a href='/recipes/oats-berry'>Berry Delicious Protein Overnight Oats</a>
+- <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>
+- <a href='/recipes/oats-reeses'>Reese's Protein Overnight Oats</a>
 
-&emsp;The addition of <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, and <a href="/misc/fats">fat</a> from the other ingredients helps offset the blood sugar spikes from the <a href="/misc/carbs">carbs</a> of the oats, while also helping you feel full for longer.  Plus, oats themselves are a good source of <a href="/misc/fiber">fiber</a>, containing nearly 4 g in a 40 g serving.  Like <a rel="" target="" href="#brown-rice">rice</a>, oats may not be much on their own, but they can be a very nutritious base when paired with other ingredients.  A 1/2 cup (40 g) serving of <a href="https://www.nutritionvalue.org/Cereals%2C_Dry%2C_Quick_Oats%2C_QUAKER_nutritional_value.html">oats</a> contains:
+&emsp;The addition of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>fat</a> from the other ingredients helps offset the blood sugar spikes from the <a href='/misc/carbs'>carbs</a> of the oats, while also helping you feel full for longer.  Plus, oats themselves are a good source of <a href='/misc/fiber'>fiber</a>, containing nearly 4 g in a 40 g serving.  Like <a rel="" target="" href='#brown-rice'>rice</a>, oats may not be much on their own, but they can be a very nutritious base when paired with other ingredients.  A 1/2 cup (40 g) serving of <a href='https://www.nutritionvalue.org/Cereals%2C_Dry%2C_Quick_Oats%2C_QUAKER_nutritional_value.html'>oats</a> contains:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 148
+<br><b><a href='/misc/calories'>Calories</a></b>: 148
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 2.7 g (3 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 27 g (10 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 3.8 g (14 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 0.6 g
-<br><b><a href="/misc/protein">Protein</a></b>: 5.5 g (11 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 2.7 g (3 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 27 g (10 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 3.8 g (14 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 0.6 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 5.5 g (11 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.15 mg (17 %)
-<br><b><a href="/misc/iron">Iron</a></b>: 1.9 mg (11 %)
-<br><b><a href="/misc/magnesium">Magnesium</a></b>: 108 mg (26 %)
-<br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 1.72 mg (75 %)
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 183 mg (15 %)
-<br><b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: 11.6 mcg (21 %)
-<br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.3 mg (12 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.15 mg (17 %)
+<br><b><a href='/misc/iron'>Iron</a></b>: 1.9 mg (11 %)
+<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 108 mg (26 %)
+<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 1.72 mg (75 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 183 mg (15 %)
+<br><b><a href='/misc/nutrient-alphabet#S'>Selenium</a></b>: 11.6 mcg (21 %)
+<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 1.3 mg (12 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.22 mg (18 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.28 mg (6 %)
+<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.22 mg (18 %)
+<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.28 mg (6 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/oatmeal.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/oatmeal.png' alt="" class="smaller-image"></center><br>
 
 <div id="peanut-butter" class="table-of-contents"></div>
 <br><i><font size="+2">Peanut Butter</font></i><br>
-&emsp;Peanut butter has pretty much all the same upsides and downsides as <a rel="" target="" href="#nuts">nuts</a>.  But the reason it's on my <a href="/misc/fake-healthy-foods#peanut-butter">'Healthy' Trap Foods</a> list is because <a href="https://amzn.to/4mCcJaA">conventional no stir peanut butter</a> (like <a href="https://amzn.to/44TWyPC">Jif</a> and <a href="https://amzn.to/3FAdRe7">Skippy</a>) has hydroginated oils (vegetable oils and trans <a href="/misc/fats">fats</a>) and <a href="/misc/hidden-sugar">sugar</a>.  It's pastey, overly sweet, and doesn't taste like <a href="/misc/nuts#peanuts">peanuts</a>.  If it doesn't pour out when turned upside-down, then it's not real peanut butter.
+&emsp;Peanut butter has pretty much all the same upsides and downsides as <a rel="" target="" href='#nuts'>nuts</a>.  But the reason it's on my <a href='/misc/fake-healthy-foods#peanut-butter'>'Healthy' Trap Foods</a> list is because <a href='https://amzn.to/4mCcJaA'>conventional no stir peanut butter</a> (like <a href='https://amzn.to/44TWyPC'>Jif</a> and <a href='https://amzn.to/3FAdRe7'>Skippy</a>) has hydroginated oils (vegetable oils and trans <a href='/misc/fats'>fats</a>) and <a href='/misc/hidden-sugar'>sugar</a>.  It's pastey, overly sweet, and doesn't taste like <a href='/misc/nuts#peanuts'>peanuts</a>.  If it doesn't pour out when turned upside-down, then it's not real peanut butter.
 <br><br>
-&emsp;Natural peanut butter on the other hand contains nothing but <a href="/misc/nuts#peanuts">peanuts</a> (or any other kind of nut) and salt.  It's more expensive to buy than no stir peanut butter, but good brands are <a href="https://amzn.to/44YnpKl">Smucker's</a>, Trader Joe's, and <a href="https://amzn.to/4jkkUWd">Teddie</a>.  I prefer to <a href="/recipes/natural-peanut-butter">make my own</a> though, as it's much cheaper and very simple to do.  Just process whole <a href="/misc/nuts">nuts</a> for about 5-10 minutes until you have a smooth and luscious nut butter.
+&emsp;Natural peanut butter on the other hand contains nothing but <a href='/misc/nuts#peanuts'>peanuts</a> (or any other kind of nut) and salt.  It's more expensive to buy than no stir peanut butter, but good brands are <a href='https://amzn.to/44YnpKl'>Smucker's</a>, Trader Joe's, and <a href='https://amzn.to/4jkkUWd'>Teddie</a>.  I prefer to <a href='/recipes/natural-peanut-butter'>make my own</a> though, as it's much cheaper and very simple to do.  Just process whole <a href='/misc/nuts'>nuts</a> for about 5-10 minutes until you have a smooth and luscious nut butter.
 <br><br>
-&emsp;I won't repeat what I said above about <a rel="" target="" href="#nuts">nuts</a>, as everything would still apply here.  <a href="/misc/nuts">Nuts</a> are nutrient powerhouses, but also high in <a href="/misc/fats">fat</a>.  For 2 tbsp (32 g) of <a href="https://www.nutritionvalue.org/Natural_peanut_butter_by_HAMPTON_FARMS_718824_nutritional_value.html?size=2%20tbsp%20%3D%2032.0%20g">natural peanut butter</a> (just <a href="/misc/nuts#peanuts">peanuts</a> and salt, no hydroginated oils or added sugars), we have the following:
+&emsp;I won't repeat what I said above about <a rel="" target="" href='#nuts'>nuts</a>, as everything would still apply here.  <a href='/misc/nuts'>Nuts</a> are nutrient powerhouses, but also high in <a href='/misc/fats'>fat</a>.  For 2 tbsp (32 g) of <a href='https://www.nutritionvalue.org/Natural_peanut_butter_by_HAMPTON_FARMS_718824_nutritional_value.html?size=2%20tbsp%20%3D%2032.0%20g'>natural peanut butter</a> (just <a href='/misc/nuts#peanuts'>peanuts</a> and salt, no hydroginated oils or added sugars), we have the following:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 190
+<br><b><a href='/misc/calories'>Calories</a></b>: 190
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 16 g (21 %)
-<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 2 g (10 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 7 g (3 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 3 g (11 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 1 g
-<br><b><a href="/misc/protein">Protein</a></b>: 8 g (16 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 16 g (21 %)
+<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 2 g (10 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 7 g (3 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 3 g (11 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 1 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 8 g (16 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.14 mg (16 %)
-<br><b><a href="/misc/magnesium">Magnesium</a></b>: 54 mg (13 %)
-<br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 0.53 mg (23 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.14 mg (16 %)
+<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 54 mg (13 %)
+<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 0.53 mg (23 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 4.2 mg (26 %)
-<br><b><a href="/misc/nutrient-alphabet#E">Vitamin E</a></b>: 2.9 mg (19 %)
+<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 4.2 mg (26 %)
+<br><b><a href='/misc/nutrient-alphabet#E'>Vitamin E</a></b>: 2.9 mg (19 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/peanut-butter.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/peanut-butter.png' alt="" class="smaller-image"></center><br>
 
 <div id="popcorn" class="table-of-contents"></div>
 <br><i><font size="+2">Popcorn</font></i><br>
-&emsp;<a href="/misc/grains#popcorn">Popcorn</a> is <i>the</i> movie theater junk food.  It's often covered in <a href="/misc/fats">fat</a> (butter or hydroginated oils) and salt, and sometimes can be loaded with <a href="/misc/hidden-sugar">sugar</a> and artificial flavors too (if it's flavored).  Even worse, microwave <a href="/misc/grains#popcorn">popcorn</a> (the ones in the bags) is a well known source of PFAS chemicals, which are linked with cancer, immunie issues, thyroid disease, and obesity.
+&emsp;<a href='/misc/grains#popcorn'>Popcorn</a> is <i>the</i> movie theater junk food.  It's often covered in <a href='/misc/fats'>fat</a> (butter or hydroginated oils) and salt, and sometimes can be loaded with <a href='/misc/hidden-sugar'>sugar</a> and artificial flavors too (if it's flavored).  Even worse, microwave <a href='/misc/grains#popcorn'>popcorn</a> (the ones in the bags) is a well known source of PFAS chemicals, which are linked with cancer, immunie issues, thyroid disease, and obesity.
 <br><br>
-&emsp;But it's not all bad news; far from it.  <a href="/misc/grains#popcorn">Popcorn</a> is similar to <a rel="" target="" href="#potatoes">potatoes</a>, in that the food itself is fairly unoffensive, but it become an inflammation bomb when the <a href="/misc/fake-healthy-foods#popcorn">junk</a> gets added on.  <a href="/misc/grains#popcorn">Popcorn</a> is a whole grain with a decent amount of <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, <a href="/misc/phosphorus">phosphorus</a>, <a href="/misc/magnesium">magnesium</a>, and <a href="/misc/nutrient-alphabet#C">copper</a>.
+&emsp;But it's not all bad news; far from it.  <a href='/misc/grains#popcorn'>Popcorn</a> is similar to <a rel="" target="" href='#potatoes'>potatoes</a>, in that the food itself is fairly unoffensive, but it become an inflammation bomb when the <a href='/misc/fake-healthy-foods#popcorn'>junk</a> gets added on.  <a href='/misc/grains#popcorn'>Popcorn</a> is a whole grain with a decent amount of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/phosphorus'>phosphorus</a>, <a href='/misc/magnesium'>magnesium</a>, and <a href='/misc/nutrient-alphabet#C'>copper</a>.
 <br><br>
-&emsp;<a href="https://www.nutritionvalue.org/Popcorn%2C_unbuttered%2C_air-popped_54403010_nutritional_value.html?size=40+g">Plain popcorn kernels</a> are an insane volume food.  Just 3 tbsp (40 g) of unpopped kernels becomes 7.5 cups of cooked <a href="/misc/grains#popcorn">popcorn</a>.  The high volume combined with the high <a href="/misc/fiber">fiber</a> content leads <a href="/misc/grains#popcorn">popcorn</a> to become a very filling and somewhat healthy snack if you prepare it yourself.  The nutrition facts are as follows:
+&emsp;<a href='https://www.nutritionvalue.org/Popcorn%2C_unbuttered%2C_air-popped_54403010_nutritional_value.html?size=40+g'>Plain popcorn kernels</a> are an insane volume food.  Just 3 tbsp (40 g) of unpopped kernels becomes 7.5 cups of cooked <a href='/misc/grains#popcorn'>popcorn</a>.  The high volume combined with the high <a href='/misc/fiber'>fiber</a> content leads <a href='/misc/grains#popcorn'>popcorn</a> to become a very filling and somewhat healthy snack if you prepare it yourself.  The nutrition facts are as follows:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 154
+<br><b><a href='/misc/calories'>Calories</a></b>: 154
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 1.8 g (2 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 31 g (11 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 5.8 g (19 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 0.4 g
-<br><b><a href="/misc/protein">Protein</a></b>: 5.2 g (10 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 1.8 g (2 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 31 g (11 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 5.8 g (19 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 0.4 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 5.2 g (10 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.10 mg (11 %)
-<br><b><a href="/misc/magnesium">Magnesium</a></b>: 57 mg (14 %)
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 143 mg (11 %)
-<br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 1.2 mg (11 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.10 mg (11 %)
+<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 57 mg (14 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 143 mg (11 %)
+<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 1.2 mg (11 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 0.92 mg (6 %)
-<br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.06 mg (4 %)
+<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 0.92 mg (6 %)
+<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.06 mg (4 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/popcorn.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/popcorn.png' alt="" class="smaller-image"></center><br>
 
 <div id="potatoes" class="table-of-contents"></div>
 <br><i><font size="+2">Potatoes</font></i><br>
-&emsp;Potatoes are often thought of as a junk food, and probably for good reason.  Similar to <a rel="" target="" href="#popcorn">popcorn</a>, the problem doesn't lie with the food itself, but what's been done to it.  Potatoes actually landed itself on my <a href="/misc/fake-healthy-foods#potatoes">'Healthy' Trap Foods</a> list, because they are often prepared in ways not beneficial to your health:
+&emsp;Potatoes are often thought of as a junk food, and probably for good reason.  Similar to <a rel="" target="" href='#popcorn'>popcorn</a>, the problem doesn't lie with the food itself, but what's been done to it.  Potatoes actually landed itself on my <a href='/misc/fake-healthy-foods#potatoes'>'Healthy' Trap Foods</a> list, because they are often prepared in ways not beneficial to your health:
 - French fries
 - Mashed potatoes
 - Hashbrowns
@@ -401,90 +401,90 @@ tags:
 - Potato rolls
 - Gnocchi
 
-&emsp;As long as you don't cover them in butter, stick them in a deep frier, or load on cheese, <a href="/misc/meat#bacon">bacon</a>, and sour cream, <a href="/misc/veggies#potato">potatoes</a> can be a very healthy addition to your diet.  <a href="/misc/veggies#potato">Potatoes</a> are the highest ranking food on the satiety index, meaning that they keep you full for longer than other foods when <a href="/misc/calories">calories</a> are controlled.  They're a starchy vegetable with a decent bit of <a href="/misc/fiber">fiber</a>, contain more potassium than a <a href="/misc/fruit#banana">banana</a>, and are extremenly cheap and versatile.  Just make sure to consume the skin; that's where all the nutrients are.  For 1 medium <a href="https://www.nutritionvalue.org/Potatoes%2C_raw%2C_flesh_and_skin_nutritional_value.html?size=1+Potato+small+%281-3%2F4%22+to+2-1%2F2%22+dia%29+%3D+170+g">potato</a> (about 170 g), you're looking at:
+&emsp;As long as you don't cover them in butter, stick them in a deep frier, or load on cheese, <a href='/misc/meat#bacon'>bacon</a>, and sour cream, <a href='/misc/veggies#potato'>potatoes</a> can be a very healthy addition to your diet.  <a href='/misc/veggies#potato'>Potatoes</a> are the highest ranking food on the satiety index, meaning that they keep you full for longer than other foods when <a href='/misc/calories'>calories</a> are controlled.  They're a starchy vegetable with a decent bit of <a href='/misc/fiber'>fiber</a>, contain more potassium than a <a href='/misc/fruit#banana'>banana</a>, and are extremenly cheap and versatile.  Just make sure to consume the skin; that's where all the nutrients are.  For 1 medium <a href='https://www.nutritionvalue.org/Potatoes%2C_raw%2C_flesh_and_skin_nutritional_value.html?size=1+Potato+small+%281-3%2F4%22+to+2-1%2F2%22+dia%29+%3D+170+g'>potato</a> (about 170 g), you're looking at:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 131
+<br><b><a href='/misc/calories'>Calories</a></b>: 131
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 0.2 g (0 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 30 g (11 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 3.6 g (19 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 1.4 g
-<br><b><a href="/misc/protein">Protein</a></b>: 3.5 g (7 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 0.2 g (0 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 30 g (11 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 3.6 g (19 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 1.4 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 3.5 g (7 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.19 mg (21 %)
-<br><b><a href="/misc/potassium">Potassium</a></b>: 723 mg (15 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.19 mg (21 %)
+<br><b><a href='/misc/potassium'>Potassium</a></b>: 723 mg (15 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (12 %)
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 1.8 mg (11 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.50 mg (10 %)
-<br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.51 mg (50 %)
-<br><b><a href="/misc/vitamin-c">Vitamin C</a></b>: 36 mg (37 %)
+<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (12 %)
+<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 1.8 mg (11 %)
+<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.50 mg (10 %)
+<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.51 mg (50 %)
+<br><b><a href='/misc/vitamin-c'>Vitamin C</a></b>: 36 mg (37 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/potato.png" alt="" class="smaller-image"></center><br>
-&emsp;<a href="/misc/veggies#sweet-potato">Sweet potatoes</a> are often thought of as a healthier potato.  Not only do they taste better (imo), but sweet potatoes are loaded with vitamin A, which is beneficial for eye and immune health.  Despite being higher in <a href="/misc/hidden-sugar">sugar</a> (there's no need to avoid whole food sugars), sweet potatoes have a lower glycemic index (GI) value than regular <a href="/misc/veggies#potato">potatoes</a>: 70 compared to 85.  Again, make sure to eat the <a href="/misc/veggies#potato">potato</a> skins.  For 1 medium <a href="https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=170+g">sweet potato</a> (170 g):
+<center><img src='/assets/Misc/Nutrition/Overshadowed/potato.png' alt="" class="smaller-image"></center><br>
+&emsp;<a href='/misc/veggies#sweet-potato'>Sweet potatoes</a> are often thought of as a healthier potato.  Not only do they taste better (imo), but sweet potatoes are loaded with vitamin A, which is beneficial for eye and immune health.  Despite being higher in <a href='/misc/hidden-sugar'>sugar</a> (there's no need to avoid whole food sugars), sweet potatoes have a lower glycemic index (GI) value than regular <a href='/misc/veggies#potato'>potatoes</a>: 70 compared to 85.  Again, make sure to eat the <a href='/misc/veggies#potato'>potato</a> skins.  For 1 medium <a href='https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=170+g'>sweet potato</a> (170 g):
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 146
+<br><b><a href='/misc/calories'>Calories</a></b>: 146
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 0.1 g (0 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 34 g (12 %)
-<br>&emsp;<b><a href="/misc/fiber">Fiber</a></b>: 5.1 g (18 %)
-<br>&emsp;<b><a href="/misc/hidden-sugar">Sugar</a></b>: 7.1 g
-<br><b><a href="/misc/protein">Protein</a></b>: 2.7 g (5 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 0.1 g (0 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 34 g (12 %)
+<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 5.1 g (18 %)
+<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 7.1 g
+<br><b><a href='/misc/protein'>Protein</a></b>: 2.7 g (5 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: 0.26 mg (29 %)
-<br><b><a href="/misc/magnesium">Magnesium</a></b>: 43 mg (10 %)
-<br><b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: 0.44 mg (19 %)
-<br><b><a href="/misc/potassium">Potassium</a></b>: 573 mg (12 %)
+<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.26 mg (29 %)
+<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 43 mg (10 %)
+<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 0.44 mg (19 %)
+<br><b><a href='/misc/potassium'>Potassium</a></b>: 573 mg (12 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#A">Vitamin A</a></b>: 1,205 mcg (134 %)
-<br><b><a href="/misc/nutrient-alphabet#T">Thiamin</a></b> <i>(Vitamin B1)</i>: 0.13 mg (11 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 1.4 mg (27 %)
-<br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.36 mg (21 %)
+<br><b><a href='/misc/nutrient-alphabet#A'>Vitamin A</a></b>: 1,205 mcg (134 %)
+<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.13 mg (11 %)
+<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 1.4 mg (27 %)
+<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.36 mg (21 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/sweet-potato.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/sweet-potato.png' alt="" class="smaller-image"></center><br>
 
 <div id="red-meat" class="table-of-contents"></div>
 <br><i><font size="+2">Red Meat</font></i><br>
-&emsp;I've saved the most controversial for last (thank you alphabetical order).  The supposed downsides of red meat are similar to that of <a rel="" target="" href="#eggs">eggs</a>; that being saturated <a href="/misc/fats">fat</a> and dietary <a href="/misc/cholesterol">cholesterol</a>.  Red meat has a similar saturated acid profile to eggs, and contains less <a href="/misc/cholesterol">cholesterol</a>.  Just make sure to avoid fatty meats like 80% ground beef and rib-eye steaks, as well as processed meats like <a href="/misc/meat#bacon">bacon</a>, <a href="/misc/meat#sausage">sausage</a>, cold cuts, <a href="/misc/meat#hot-dogs">hot dogs</a>, and <a href="/misc/meat#pepperoni">pepperoni</a>.
+&emsp;I've saved the most controversial for last (thank you alphabetical order).  The supposed downsides of red meat are similar to that of <a rel="" target="" href='#eggs'>eggs</a>; that being saturated <a href='/misc/fats'>fat</a> and dietary <a href='/misc/cholesterol'>cholesterol</a>.  Red meat has a similar saturated acid profile to eggs, and contains less <a href='/misc/cholesterol'>cholesterol</a>.  Just make sure to avoid fatty meats like 80% ground beef and rib-eye steaks, as well as processed meats like <a href='/misc/meat#bacon'>bacon</a>, <a href='/misc/meat#sausage'>sausage</a>, cold cuts, <a href='/misc/meat#hot-dogs'>hot dogs</a>, and <a href='/misc/meat#pepperoni'>pepperoni</a>.
 <br><br>
-&emsp;As long as you consume lean meats, like 93% lean <a href="/misc/meat#ground-beef">ground beef</a> or lean steaks, there's no reason to avoid red meat.  In fact, there are many reasons why you should actually seek out red meat.  Besides the obvious (complete) <a href="/misc/protein">protein</a>, <a href="/misc/meat#ground-beef">beef</a> is a rich source of <a href="/misc/iron">iron</a>, <a href="/misc/nutrient-alphabet#S">selenium</a>, <a href="/misc/nutrient-alphabet#Z">zinc</a>, <a href="/misc/nutrient-alphabet#N">niacin</a>, <a href="/misc/vitamin-b12">vitamin B12</a>, and choline.  Red meat contains heme-iron, the more bioavailable version, meaning that <a href="/misc/iron">iron</a> from <a href="/misc/meat#ground-beef">beef</a> is more easily absorbed in the body as opposed to plant based sources of <a href="/misc/iron">iron</a>.
+&emsp;As long as you consume lean meats, like 93% lean <a href='/misc/meat#ground-beef'>ground beef</a> or lean steaks, there's no reason to avoid red meat.  In fact, there are many reasons why you should actually seek out red meat.  Besides the obvious (complete) <a href='/misc/protein'>protein</a>, <a href='/misc/meat#ground-beef'>beef</a> is a rich source of <a href='/misc/iron'>iron</a>, <a href='/misc/nutrient-alphabet#S'>selenium</a>, <a href='/misc/nutrient-alphabet#Z'>zinc</a>, <a href='/misc/nutrient-alphabet#N'>niacin</a>, <a href='/misc/vitamin-b12'>vitamin B12</a>, and choline.  Red meat contains heme-iron, the more bioavailable version, meaning that <a href='/misc/iron'>iron</a> from <a href='/misc/meat#ground-beef'>beef</a> is more easily absorbed in the body as opposed to plant based sources of <a href='/misc/iron'>iron</a>.
 <br><br>
-&emsp;A lot of my <a href="/recipes/ground-meat">ground meat</a> recipes use <a href="/misc/meat#ground-turkey">turkey</a> over <a href="/misc/meat#ground-beef">beef</a> since <a href="/misc/meat#ground-turkey">ground turkey</a> is cheaper.  But 2-3 years of minimal <a href="/misc/meat#ground-beef">beef</a> consumption has caught up with me, and I have very low <a href="/misc/iron">iron</a>.  <a href="/misc/meat#ground-beef">Beef</a> has over double the <a href="/misc/iron">iron</a> of <a href="/misc/meat#ground-turkey">turkey</a>, see <a href="/misc/iron">I Run on Iron</a>.  Here's all of the following per 100 grams of raw <a href="https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g">93/7 ground beef</a>:
+&emsp;A lot of my <a href='/recipes/ground-meat'>ground meat</a> recipes use <a href='/misc/meat#ground-turkey'>turkey</a> over <a href='/misc/meat#ground-beef'>beef</a> since <a href='/misc/meat#ground-turkey'>ground turkey</a> is cheaper.  But 2-3 years of minimal <a href='/misc/meat#ground-beef'>beef</a> consumption has caught up with me, and I have very low <a href='/misc/iron'>iron</a>.  <a href='/misc/meat#ground-beef'>Beef</a> has over double the <a href='/misc/iron'>iron</a> of <a href='/misc/meat#ground-turkey'>turkey</a>, see <a href='/misc/iron'>I Run on Iron</a>.  Here's all of the following per 100 grams of raw <a href='https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g'>93/7 ground beef</a>:
 <br>------------------------------------------
-<br><b><a href="/misc/calories">Calories</a></b>: 152
+<br><b><a href='/misc/calories'>Calories</a></b>: 152
 <br>------------------------------------------
-<br><b><a href="/misc/fats">Fat</a></b>: 7 g (9 %)
-<br>&emsp;<b><a href="/misc/fats">Sat Fat</a></b>: 2.9 g (14 %)
-<br><b><a href="/misc/carbs">Carbs</a></b>: 0 g (0 %)
-<br><b><a href="/misc/protein">Protein</a></b>: 21 g (42 %)
+<br><b><a href='/misc/fats'>Fat</a></b>: 7 g (9 %)
+<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 2.9 g (14 %)
+<br><b><a href='/misc/carbs'>Carbs</a></b>: 0 g (0 %)
+<br><b><a href='/misc/protein'>Protein</a></b>: 21 g (42 %)
 <br>------------------------------------------
-<br><b><a href="/misc/iron">Iron</a></b>: 2.3 mg (13 %)
-<br><b><a href="/misc/phosphorus">Phosphorus</a></b>: 192 mg (15 %)
-<br><b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: 17.1 mcg (31 %)
-<br><b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: 5.0 mg (45 %)
+<br><b><a href='/misc/iron'>Iron</a></b>: 2.3 mg (13 %)
+<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 192 mg (15 %)
+<br><b><a href='/misc/nutrient-alphabet#S'>Selenium</a></b>: 17.1 mcg (31 %)
+<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 5.0 mg (45 %)
 <br>------------------------------------------
-<br><b><a href="/misc/nutrient-alphabet#R">Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.15 mg (12 %)
-<br><b><a href="/misc/nutrient-alphabet#N">Niacin</a></b> <i>(Vitamin B3)</i>: 5.3 mg (33 %)
-<br><b><a href="/misc/nutrient-alphabet#P">Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.63 mg (13 %)
-<br><b><a href="/misc/nutrient-alphabet#B6">Vitamin B6</a></b>: 0.38 mg (23 %)
-<br><b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: 2.2 mcg (93 %)
+<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.15 mg (12 %)
+<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 5.3 mg (33 %)
+<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.63 mg (13 %)
+<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.38 mg (23 %)
+<br><b><a href='/misc/vitamin-b12'>Vitamin B12</a></b>: 2.2 mcg (93 %)
 <br><b>Choline</b>: 69 mg (13 %)
 <br>------------------------------------------
-<center><img src="/assets/Misc/Nutrition/Overshadowed/grilling.png" alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Overshadowed/grilling.png' alt="" class="smaller-image"></center><br>
 
 <br><u><font size="+2">Sources</font></u><br>
-1. <a href="https://www.flaticon.com/">FlatIcon</a><br>
-2. <a href="https://www.nutritionvalue.org/">Nutrition Value</a><br>
-3. <a href="https://www.youtube.com/watch?v=BWu5euX-UkU">10 Foods That Get A Bad Reputation</a><br>
-4. <a href="https://www.healthline.com/nutrition/foods-high-in-fodmaps#high-fodmap-foods">High FODMAP Food List</a><br>
-5. <a href="https://www.healthline.com/nutrition/foods-high-in-lectins#TOC_TITLE_HDR_2">6 Foods That Are High in Lectins</a><br>
-6. <a href="https://www.medicalnewstoday.com/articles/320192#benefits">What are the health benefits of beans?</a><br>
-7. <a href="https://www.healthline.com/nutrition/what-is-choline#:~:text=Choline%20is%20an%20organic%2C%20water,number%20of%20vital%20bodily%20functions.">What Is Choline? An Essential Nutrient With Many Benefits</a><br>
-8. <a href="https://www.healthline.com/nutrition/coconut-nutrition">5 Impressive Benefits of Coconut</a><br>
-9. <a href="https://www.healthline.com/nutrition/proven-health-benefits-of-eggs#TOC_TITLE_HDR_2">9 Health Benefits of Eating Eggs</a><br>
-10. <a href="https://www.healthline.com/nutrition/sweet-potato-vs-potato#:~:text=Sweet%20potatoes%20are%20often%20touted,types%20can%20be%20highly%20nutritious.&text=While%20regular%20and%20sweet%20potatoes,incredibly%20high%20in%20vitamin%20A.">What’s the Difference Between Sweet Potatoes and Potatoes?</a><br>
-11. <a href="https://www.health.harvard.edu/heart-health/grain-of-the-month-brown-rice#:~:text=Compared%20with%20white%20rice%2C%20brown,and%20help%20with%20weight%20control.">Grain of the month: Brown rice</a><br>
-12. <a href="https://www.healthline.com/nutrition/8-benefits-of-nuts">8 Health Benefits of Nuts</a><br>
-13. <a href="https://www.webmd.com/cancer/herbicide-glyphosate-cancer">Glyphosate Herbicides and Your Health</a><br>
-14. <a href="https://foolproofliving.com/rolled-oats-vs-quick-oats/#:~:text=Based%20on%20their%20research%2C%20rolled,and%2070%2D100%20being%20high.">Rolled Oats vs. Quick Oats</a><br>
-15. <a href="https://www.healthline.com/nutrition/7-health-benefits-dark-chocolate#TOC_TITLE_HDR_2">7 Proven Health Benefits of Dark Chocolate</a><br>
+1. <a href='https://www.flaticon.com/'>FlatIcon</a><br>
+2. <a href='https://www.nutritionvalue.org/'>Nutrition Value</a><br>
+3. <a href='https://www.youtube.com/watch?v=BWu5euX-UkU'>10 Foods That Get A Bad Reputation</a><br>
+4. <a href='https://www.healthline.com/nutrition/foods-high-in-fodmaps#high-fodmap-foods'>High FODMAP Food List</a><br>
+5. <a href='https://www.healthline.com/nutrition/foods-high-in-lectins#TOC_TITLE_HDR_2'>6 Foods That Are High in Lectins</a><br>
+6. <a href='https://www.medicalnewstoday.com/articles/320192#benefits'>What are the health benefits of beans?</a><br>
+7. <a href='https://www.healthline.com/nutrition/what-is-choline#:~:text=Choline%20is%20an%20organic%2C%20water,number%20of%20vital%20bodily%20functions.'>What Is Choline? An Essential Nutrient With Many Benefits</a><br>
+8. <a href='https://www.healthline.com/nutrition/coconut-nutrition'>5 Impressive Benefits of Coconut</a><br>
+9. <a href='https://www.healthline.com/nutrition/proven-health-benefits-of-eggs#TOC_TITLE_HDR_2'>9 Health Benefits of Eating Eggs</a><br>
+10. <a href='https://www.healthline.com/nutrition/sweet-potato-vs-potato#:~:text=Sweet%20potatoes%20are%20often%20touted,types%20can%20be%20highly%20nutritious.&text=While%20regular%20and%20sweet%20potatoes,incredibly%20high%20in%20vitamin%20A.'>What’s the Difference Between Sweet Potatoes and Potatoes?</a><br>
+11. <a href='https://www.health.harvard.edu/heart-health/grain-of-the-month-brown-rice#:~:text=Compared%20with%20white%20rice%2C%20brown,and%20help%20with%20weight%20control.'>Grain of the month: Brown rice</a><br>
+12. <a href='https://www.healthline.com/nutrition/8-benefits-of-nuts'>8 Health Benefits of Nuts</a><br>
+13. <a href='https://www.webmd.com/cancer/herbicide-glyphosate-cancer'>Glyphosate Herbicides and Your Health</a><br>
+14. <a href='https://foolproofliving.com/rolled-oats-vs-quick-oats/#:~:text=Based%20on%20their%20research%2C%20rolled,and%2070%2D100%20being%20high.'>Rolled Oats vs. Quick Oats</a><br>
+15. <a href='https://www.healthline.com/nutrition/7-health-benefits-dark-chocolate#TOC_TITLE_HDR_2'>7 Proven Health Benefits of Dark Chocolate</a><br>

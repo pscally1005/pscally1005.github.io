@@ -50,7 +50,7 @@ tags:
 - onions
 - peppers
 - diced green chiles
-Description: This simple baked <a href="/misc/grains#brown-rice">rice</a> and <a href="/misc/beans">beans</a> also mixes together <a href="/misc/veggies">vegetables</a> and a spicy sauce.  <a href="/misc/grains#brown-rice">Brown rice</a> is used here instead of <a href="/misc/fake-healthy-foods#white-rice">white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a side of nuts, fruit, or <a href="/misc/protein">protein</a>.
+Description: This simple baked <a href='/misc/grains#brown-rice'>rice</a> and <a href='/misc/beans'>beans</a> also mixes together <a href='/misc/veggies'>vegetables</a> and a spicy sauce.  <a href='/misc/grains#brown-rice'>Brown rice</a> is used here instead of <a href='/misc/fake-healthy-foods#white-rice'>white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a side of nuts, fruit, or <a href='/misc/protein'>protein</a>.
 Instructions: 
 - Preheat your oven to 400F. Heat a large Dutch oven over medium heat with olive oil. Cut your peppers, onions, and carrots into a small dice. Add salt, stir, cover, and cook for about 10 minutes, or until the peppers begin to soften and the onions start to turn translucent
 
@@ -61,5 +61,5 @@ Instructions:
 - Transfer the pot to the oven, and bake at 400F for about 90 minutes, or until the vegetables are tender, the rice is soft, and the water is absorbed
 
 - Divide into 10 servings. Add some acid to it after reheating, like lemon, lime, balsamic, or hot sauce
-- <center><img src="/assets/Food/Meatless/Baked RB/containers.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Meatless/Baked RB/containers.jpg' alt="" class="instruction-image"></center>
 ---

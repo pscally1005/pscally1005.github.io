@@ -43,19 +43,19 @@ tags:
 - gluten free
 - sugar free
 - cocoa powder
-Description: Sharing is caring, right?  <a href="https://youtu.be/1TJNrYfIJBg?si=nW1A_jZFGZT1j77S">Wrong</a>.  Sometimes, you want to bake a cake for the 3 most important people in your life:<b></b> me, myself, and I.  This recipe allows you to bake a single serving cake for a tasty dessert, without having to worry about getting through the rest of the slices over the next week.  Plus, it has under 200 <a href="/misc/calories">calories</a> with 9 g of <a href="/misc/protein">protein</a>, 8 g of <a href="/misc/fiber">fiber</a>, and no <a href="/misc/hidden-sugar">added sugar</a>
+Description: Sharing is caring, right?  <a href='https://youtu.be/1TJNrYfIJBg?si=nW1A_jZFGZT1j77S'>Wrong</a>.  Sometimes, you want to bake a cake for the 3 most important people in your life:<b></b> me, myself, and I.  This recipe allows you to bake a single serving cake for a tasty dessert, without having to worry about getting through the rest of the slices over the next week.  Plus, it has under 200 <a href='/misc/calories'>calories</a> with 9 g of <a href='/misc/protein'>protein</a>, 8 g of <a href='/misc/fiber'>fiber</a>, and no <a href='/misc/hidden-sugar'>added sugar</a>
 Instructions: 
 - Preheat your oven to 350F. Line a small oven safe bowl with parchment paper, and lightly grease the paper
 
 - Dice your apple, and add to a small food processor with an egg, cocoa powder, and baking powder. Blend until smooth, and no chunks of apple remain
-- <center><img src="/assets/Food/Healthier Dessert/Chocolate apple cake/processor.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/processor.jpg' alt="" class="instruction-image"></center>
 
 - Transfer the batter to the bowl, and smooth out the top
-- <center><img src="/assets/Food/Healthier Dessert/Chocolate apple cake/raw.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/raw.jpg' alt="" class="instruction-image"></center>
 
 - Bake at 350F for about 30 minutes, or until a toothpick comes out clean
-- <center><img src="/assets/Food/Healthier Dessert/Chocolate apple cake/baked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/baked.jpg' alt="" class="instruction-image"></center>
 
 - Transfer to the fridge, and let chill until totally cooled. Invert onto a plate, slice, and serve
-- <center><img src="/assets/Food/Healthier Dessert/Chocolate apple cake/sliced.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/sliced.jpg' alt="" class="instruction-image"></center>
 ---

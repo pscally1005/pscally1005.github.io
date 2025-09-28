@@ -51,26 +51,26 @@ tags:
 - vic
 - chicken nuggets
 - dino nuggets
-Description: These <a href="/misc/meat#chicken-breast">chicken</a> nuggets are great for a meal or snack, and can be reheated in the air fryer straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.  Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href="/recipes/sweet-potato-fries">Spiced Sweet Potato Fries</a> for a nutritious version of this meal
+Description: These <a href='/misc/meat#chicken-breast'>chicken</a> nuggets are great for a meal or snack, and can be reheated in the air fryer straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.  Everyone knows that chicken nuggets and french fries are a classic combo, so see my <a href='/recipes/sweet-potato-fries'>Spiced Sweet Potato Fries</a> for a nutritious version of this meal
 Instructions: 
 - Preheat your oven to 400F, and line 2 cookie sheets with parchment paper
 
 - Wash your sweet potato, cut off the ends (but don't peel it), and cut into large chunks.  Cut the onion into large chunks.  Add both to a food processor, and pulse until you have a "riced" consistency
-- <center><img src="/assets/Food/Finger Food/Nuggies/riced.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Nuggies/riced.jpg' alt="" class="instruction-image"></center>
 
-- In a large bowl, combine together all the ingredients except the chicken.  Mix until fully combined.  Oat or almond flour will work in place of casein; I just like to add some more <a href="/misc/protein">protein</a>.  Optionally, add some sugar free syrup (or any other sweetener) for sweet and spicy nuggets
-- <center><img src="/assets/Food/Finger Food/Nuggies/no-meat.jpg" alt="" class="instruction-image"></center>
+- In a large bowl, combine together all the ingredients except the chicken.  Mix until fully combined.  Oat or almond flour will work in place of casein; I just like to add some more <a href='/misc/protein'>protein</a>.  Optionally, add some sugar free syrup (or any other sweetener) for sweet and spicy nuggets
+- <center><img src='/assets/Food/Finger Food/Nuggies/no-meat.jpg' alt="" class="instruction-image"></center>
 
 - Add in the chicken, and mix with your hands until fully combined.  It should be pretty sticky
-- <center><img src="/assets/Food/Finger Food/Nuggies/meat.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Nuggies/meat.jpg' alt="" class="instruction-image"></center>
 
 - Using a 1.5 tbsp cookie scoop, scoop meatballs onto your pans.  I can fit 15 on a standard sized cookie sheet.  Lightly wet your fingers, and flatten into even discs.  Each nugget should be about 1/4 - 1/2 inch thick and 2 inches in diameter, with about 1 inch between each one
-- <center><img src="/assets/Food/Finger Food/Nuggies/raw.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Nuggies/raw.jpg' alt="" class="instruction-image"></center>
 
-- You can attempt to use cookie cutters to make dino chicken nuggets, but be warned, you're in for a lot of work.  I gave up after a few (as you can see), and went for standard nuggets.  If you are going to make shapes, I would recommend spreading the whole mixture into a thin sheet, and freezing for 1 hour.  Then, cut shapes out with cookie cutters.  See <a href="https://feedingtinybellies.com/homemade-dino-nuggets/#wprm-recipe-container-10983">this recipe</a> for a guide on dino shapes
+- You can attempt to use cookie cutters to make dino chicken nuggets, but be warned, you're in for a lot of work.  I gave up after a few (as you can see), and went for standard nuggets.  If you are going to make shapes, I would recommend spreading the whole mixture into a thin sheet, and freezing for 1 hour.  Then, cut shapes out with cookie cutters.  See <a href='https://feedingtinybellies.com/homemade-dino-nuggets/#wprm-recipe-container-10983'>this recipe</a> for a guide on dino shapes
 
 - Bake at 400F for about 15 minutes, flipping halfway, or until one side is lightly browned and the internal temperature is at least 165F.  You will get better browning when reheating, so don't worry.  Transfer to a wire rack to cool as you do the other batches
-- <center><img src="/assets/Food/Finger Food/Nuggies/cooked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Nuggies/cooked.jpg' alt="" class="instruction-image"></center>
 
 - Once the nuggets have cooled, arrange them in a single layer on a parchment lined plate.  Freeze them, uncovered, until they have frozen solid, at least 2 hours. This will help them not stick together in the bags
 

@@ -49,7 +49,7 @@ tags:
 - powdered peanut butter
 - granulated monk fruit
 - cinnamon
-Description: Typical hot chocolate is full of <a href="/misc/hidden-sugar">added sugars</a>, which is not what I'm about. The whey protein here makes this like a warm <a href="/misc/protein">protein</a> shake, and it's sweetened with granulated monk fruit too. This is great after being outside in the snow for hours, and is a much healthier way to enjoy the classic drink.  Or you can make my <a href="/recipes/unsweetened-hot-cocoa">Unsweetened Hot Cocoa</a>
+Description: Typical hot chocolate is full of <a href='/misc/hidden-sugar'>added sugars</a>, which is not what I'm about. The whey protein here makes this like a warm <a href='/misc/protein'>protein</a> shake, and it's sweetened with granulated monk fruit too. This is great after being outside in the snow for hours, and is a much healthier way to enjoy the classic drink.  Or you can make my <a href='/recipes/unsweetened-hot-cocoa'>Unsweetened Hot Cocoa</a>
 Instructions: 
 - Add the dry ingredients to a small saucepot, and whisk in the milk.  
 

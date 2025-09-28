@@ -47,13 +47,13 @@ tags:
 - jam
 - nut
 - chopped
-Description: Plain nonfat <a href="/misc/dairy#yogurt">greek yogurt</a> combined with whey protein powder makes a <a href="/misc/protein">protein</a> packed bowl to start your day off right.  I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have PB&J, <a href="/recipes/yogurt-apple">Apple Pie</a>, <a href="/recipes/yogurt-choc">Chocolate</a>, and <a href="/recipes/yogurt-banana">PB Banana</a> for you to enjoy.  You can also check out any of my other <a href="/yogurt">yogurt recipes</a>!
+Description: Plain nonfat <a href='/misc/dairy#yogurt'>greek yogurt</a> combined with whey protein powder makes a <a href='/misc/protein'>protein</a> packed bowl to start your day off right.  I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have PB&J, <a href='/recipes/yogurt-apple'>Apple Pie</a>, <a href='/recipes/yogurt-choc'>Chocolate</a>, and <a href='/recipes/yogurt-banana'>PB Banana</a> for you to enjoy.  You can also check out any of my other <a href='/yogurt'>yogurt recipes</a>!
 Instructions: 
 - Mix all ingredients together in a bowl, top with your berries, cover, and refrigerate overnight
 
 - For the other flavors and their nutrition facts, check out the links below:<br>
-    <ul><li><a href="/recipes/yogurt-choc">Chocolate Almond Yogurt Bowl</a></li>
-    <li><a href="/recipes/yogurt-apple">Apple Pie Yogurt Bowl</a></li>
-    <li><a href="/recipes/yogurt-banana">Peanut Butter Banana Yogurt Bowl</a></li></ul><br>
-- <center><a href="/recipes/yogurt-choc"><img src="/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg" alt="" class="half-page"></a><a href="/recipes/yogurt-apple"><img src="/assets/Food/Breakfast/Yogurt/yogurt-apple-new.jpg" alt="" class="half-page"></a><br><br><a href="/recipes/yogurt-banana"><img src="/assets/Food/Breakfast/Yogurt/yogurt-banana.jpg" alt="" class="half-page"></a></center><hr>
+    <ul><li><a href='/recipes/yogurt-choc'>Chocolate Almond Yogurt Bowl</a></li>
+    <li><a href='/recipes/yogurt-apple'>Apple Pie Yogurt Bowl</a></li>
+    <li><a href='/recipes/yogurt-banana'>Peanut Butter Banana Yogurt Bowl</a></li></ul><br>
+- <center><a href='/recipes/yogurt-choc'><img src='/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg' alt="" class="half-page"></a><a href='/recipes/yogurt-apple'><img src='/assets/Food/Breakfast/Yogurt/yogurt-apple-new.jpg' alt="" class="half-page"></a><br><br><a href='/recipes/yogurt-banana'><img src='/assets/Food/Breakfast/Yogurt/yogurt-banana.jpg' alt="" class="half-page"></a></center><hr>
 ---

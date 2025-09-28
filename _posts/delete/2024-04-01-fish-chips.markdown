@@ -46,7 +46,7 @@ tags:
 - oat flour
 - sweet potato
 - fries
-Description: <a href="/misc/fish">Fish</a> and <a href="/misc/veggies#potato">Chips</a> is a classic British meal that consists of breaded and deep fried fish, served with a side of French fries, or chips as they would be called across the pond. To make it a more nutritious meal, I've breaded my fish in gluten free <a href="/misc/grains#oats">oat flour</a>, and cooked both the fish and the potatoes in my air fryer. For even more nutrients (and taste imo), I've used <a href="/misc/veggies#sweet-potato">sweet potato</a> here too.
+Description: <a href='/misc/fish'>Fish</a> and <a href='/misc/veggies#potato'>Chips</a> is a classic British meal that consists of breaded and deep fried fish, served with a side of French fries, or chips as they would be called across the pond. To make it a more nutritious meal, I've breaded my fish in gluten free <a href='/misc/grains#oats'>oat flour</a>, and cooked both the fish and the potatoes in my air fryer. For even more nutrients (and taste imo), I've used <a href='/misc/veggies#sweet-potato'>sweet potato</a> here too.
 Instructions: 
 - Starting with the "chips". Wash (but don't peel) your sweet potato, and cut into a French fry shape. Add to a medium microwave safe bowl, cover with a plate, and microwave on high for 3 minutes
 
@@ -61,5 +61,5 @@ Instructions:
 - Coat the fish in your breading. Lightly spray the basket with oil, and add to the air fryer. Lightly spray the top, and air fry for about 6 minutes at 400F
 
 - The fish and chips should take the same time to cook, so you can do them together next to each other. That's why this recipe is only 1 serving, as the air fryer can only fit one portion at a time. If you want to scale this up, I would recommend tripling it (3 servings), and doing the fries first. Transfer the fries to a wire rack to stay crisp, and then cook your 3 fish filets
-- <center><img src="/assets/Food/Fish/Fish Chips/fish-chips-7.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Fish Chips/fish-chips-7.jpg' alt="" class="instruction-image"></center>
 ---

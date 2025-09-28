@@ -46,26 +46,26 @@ tags:
 - bread
 - whole wheat
 - vic
-Description: Everybody loves pizza right? This is a 2 day process, but totally worth it for a good homemade pizza, plus it's a fun activity to do with a few people. Prep the dough the night before, and then have a few people over the next day for dinner. <a href="/misc/grains#whole-wheat">Whole wheat flour</a> serves to add some extra nutrition and taste to your pizza as well.
+Description: Everybody loves pizza right? This is a 2 day process, but totally worth it for a good homemade pizza, plus it's a fun activity to do with a few people. Prep the dough the night before, and then have a few people over the next day for dinner. <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> serves to add some extra nutrition and taste to your pizza as well.
 Instructions: 
 - In a large mixing bowl, combine the water, yeast, salt, and honey. Stir, and let sit for 5 minutes to make sure the yeast is alive
 
 - To the bowl, add the oil, and flours. Mix with a dough scraper and lightly knead in the bowl.  Cover with a cloth and let rest for 1 hour
-- <center><img src="/assets/Food/Bread/Pizza/pizza-2.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Pizza/pizza-2.jpg' alt="" class="instruction-image"></center>
 
 - In the bowl, fold the dough into a smooth ball, and place back in the bowl. Cover and let rest for another 1 hour. Repeat one more time. (Total of three 1 hour rests with stretching and folding)
 
 - Turn dough onto the table. Divide into 4 equal pieces (about 145 g), and shape into balls. Place dough balls in lightly oiled bowls, and cover with plastic wrap. Refrigerate until dinner tomorrow night
-- <center><img src="/assets/Food/Bread/Pizza/pizza-5.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Pizza/pizza-5.jpg' alt="" class="instruction-image"></center>
 
 - Place baking stone in the oven and preheat the oven to 550F, or as high as your oven goes. Preheat stone for an hour
 
-- Shape dough into pizzas. Top with sauce, cheese, and toppings. I like to use either my <a href="/recipes/pasta-sauce">Simple Pasta Sauce</a> or <a href="/recipes/creamy-pesto">Creamy Pesto Dip</a>, as well as some <a href="/recipes/baked-chicken-thighs">Spiced Baked Chicken Thighs</a> and <a href="/recipes/roasted-vegetables">Simply Roasted Vegetables</a>
+- Shape dough into pizzas. Top with sauce, cheese, and toppings. I like to use either my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> or <a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a>, as well as some <a href='/recipes/baked-chicken-thighs'>Spiced Baked Chicken Thighs</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>
 
 - Bake for about 7 minutes, or until the crust and bottom is lightly browned, and the cheese is just bubbly.  Transfer to a wire rack to cool for 5 minutes before cutting into 4 slices
 
 - Every Valentine's Day Vic and I make pizzas together, and she always makes hers into a heart.  Here are some of our past years creations, from 2023 to 2025
-- <center><img src="/assets/Food/Bread/Pizza/2023.jpg" alt="" class="instruction-image"></center>
-- <center><img src="/assets/Food/Bread/Pizza/2024.jpg" alt="" class="instruction-image"></center>
-- <center><img src="/assets/Food/Bread/Pizza/2025.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Pizza/2023.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Pizza/2024.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Pizza/2025.jpg' alt="" class="instruction-image"></center>
 ---

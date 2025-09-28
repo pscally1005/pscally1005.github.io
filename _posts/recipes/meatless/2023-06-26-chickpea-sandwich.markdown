@@ -47,7 +47,7 @@ tags:
 - panini
 - bread
 - lunch
-Description: This sandwich is like having chunky hummus on bread, and is a lunch favorite of mine. No cooking required, and it comes together in just a few minutes. Use some <a href="/recipes/ww-bread">100% Whole Wheat Bread</a> or <a href="/recipes/protein-wrap">High Protein Flatbread Wrap</a>, and you have a quick and nutritious lunch for the next few days.
+Description: This sandwich is like having chunky hummus on bread, and is a lunch favorite of mine. No cooking required, and it comes together in just a few minutes. Use some <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a> or <a href='/recipes/protein-wrap'>High Protein Flatbread Wrap</a>, and you have a quick and nutritious lunch for the next few days.
 Instructions: 
 - Finely chop the onion. Add to a bowl with rest of ingredients (besides the bread lol)
 

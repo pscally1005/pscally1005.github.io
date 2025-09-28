@@ -56,21 +56,21 @@ tags:
 - gluten free
 - quest protein bar
 - rx bar
-Description: <a href="/misc/fake-healthy-foods#granola">RX Bars</a> are one of the processed snacks that I will occasionally buy, as they're pretty healthy <a href="/misc/fake-healthy-foods#protein">protein bar</a> and lack any ultra processed ingredients. They are quite pricey though, so I prefer to make them myself. They're dead simple, and way cheaper than what you can get at the store.  If you enjoy copycat <a href="/misc/protein">protein</a> bar recipes, also see my <a href="/recipes/copycat-quest-bars">Copycat Quest Protein Bars</a> and <a href="/recipes/copycat-barebell">Copycat Barebell Protein Bars</a>
+Description: <a href='/misc/fake-healthy-foods#granola'>RX Bars</a> are one of the processed snacks that I will occasionally buy, as they're pretty healthy <a href='/misc/fake-healthy-foods#protein'>protein bar</a> and lack any ultra processed ingredients. They are quite pricey though, so I prefer to make them myself. They're dead simple, and way cheaper than what you can get at the store.  If you enjoy copycat <a href='/misc/protein'>protein</a> bar recipes, also see my <a href='/recipes/copycat-quest-bars'>Copycat Quest Protein Bars</a> and <a href='/recipes/copycat-barebell'>Copycat Barebell Protein Bars</a>
 Instructions: 
 - Prepare an 9" square baking dish by lining it with parchment paper. If your dates are very dry, soak them in hot water for about 10 minutes to soften.  Otherwise, skip this step. Set aside the soaking water for later
-- <center><img src="/assets/Food/Protein Powder/RX/rx-soaking.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/RX/rx-soaking.jpg' alt="" class="instruction-image"></center>
 
 - In a food processor, chop the nuts until finely ground.  Any nuts will work here.  I've gone with almonds and peanuts, but other good choices are pistachios, cashew, pumpkin seeds, or sunflower seeds
 
 - Blend in the cocoa and protein powder for about 30 seconds, or until fully incorporated.  You could also use powdered peanut butter in place of cocoa powder for a peanut butter flavored bar instead of chocolate
 
 - Finally, blend in the dates. Season with salt to taste (depending on the saltiness of your nuts). You should have a sticky but workable dough. Add a little of the soaking water if needed
-- <center><img src="/assets/Food/Protein Powder/RX/rx-blended.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/RX/rx-blended.jpg' alt="" class="instruction-image"></center>
 
 - Transfer dough to the pan and flatten into a square. Pack it down, and make sure it's even thickness.  Chill in the fridge for a few hours before slicing
-- <center><img src="/assets/Food/Protein Powder/RX/rx-cut.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/RX/rx-cut.jpg' alt="" class="instruction-image"></center>
 
 - Store in the fridge or freezer between pieces of parchment paper so they don't stick together
-- <center><img src="/assets/Food/Protein Powder/RX/rx-parchment.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/RX/rx-parchment.jpg' alt="" class="instruction-image"></center>
 ---

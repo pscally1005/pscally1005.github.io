@@ -43,7 +43,7 @@ tags:
 - turmeric
 - cumin
 - chili powder
-Description: I got this recipe from my girlfriend's mom after having it at their house. It's a simple 2 pan dish of sauteed soft <a href="/misc/veggies#sweet-potatoes">potatoes</a> and diced <a href="/misc/meat#chicken-breast">chicken</a> breast, with Indian spices such as turmeric and cumin. It's a delicious <a href="/misc/protein">protein</a> and <a href="/misc/carbs">carb</a> combo that goes well with any veggies; here, I've paired my chicken and potatoes with a side of <a href="/recipes/vegetable-medley">Spinach & Onion Vegetable Medley</a>
+Description: I got this recipe from my girlfriend's mom after having it at their house. It's a simple 2 pan dish of sauteed soft <a href='/misc/veggies#sweet-potatoes'>potatoes</a> and diced <a href='/misc/meat#chicken-breast'>chicken</a> breast, with Indian spices such as turmeric and cumin. It's a delicious <a href='/misc/protein'>protein</a> and <a href='/misc/carbs'>carb</a> combo that goes well with any veggies; here, I've paired my chicken and potatoes with a side of <a href='/recipes/vegetable-medley'>Spinach & Onion Vegetable Medley</a>
 Instructions: 
 - Wash your potatoes, and cut into 1" cubes. Don't peel the potatoes! Add to a large glass bowl, and season with olive oil, chili powder, garlic powder, turmeric, cumin, and salt. Toss to combine
 
@@ -54,5 +54,5 @@ Instructions:
 - As the potatoes cook, prepare the chicken. Cut into 1" cubes, and add to a large bowl. Season with olive oil, chili powder, garlic powder, turmeric, cumin, and salt
 
 - Heat a large pan over medium heat. Add in the chicken, and saute until browned and internal temperature is 165F, about 10 minutes. Garnish with dried parsley
-- <center><img src="/assets/Food/Chicken/Indian/bowls.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Indian/bowls.jpg' alt="" class="instruction-image"></center>
 ---

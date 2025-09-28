@@ -51,7 +51,7 @@ tags:
 - sides
 - vegetarian
 - vegan
-Description: We've all been there. You want to eat more <a href="/misc/veggies">vegetables</a>, and you hear that steaming them is the most nutritious option, as it preserves most of the vitamins and minerals. So you buy a steamer basket, choke down steamed <a href="/misc/veggies#broccoli">broccoli</a> once, and never use it again. But no more!  In just 10 minutes with nothing but a microwave and a bowl, you can have tasty steamed <a href="/misc/veggies">veggies</a> by using something called <i>seasonings</i>. Wild concept, I know. I'm going simple with just apple cider vinegar and lime pepper over <a href="/misc/veggies#cauliflower">cauliflower</a> today, but use whatever you want. Vegetables are a blank canvas, paint the picture you want to eat
+Description: We've all been there. You want to eat more <a href='/misc/veggies'>vegetables</a>, and you hear that steaming them is the most nutritious option, as it preserves most of the vitamins and minerals. So you buy a steamer basket, choke down steamed <a href='/misc/veggies#broccoli'>broccoli</a> once, and never use it again. But no more!  In just 10 minutes with nothing but a microwave and a bowl, you can have tasty steamed <a href='/misc/veggies'>veggies</a> by using something called <i>seasonings</i>. Wild concept, I know. I'm going simple with just apple cider vinegar and lime pepper over <a href='/misc/veggies#cauliflower'>cauliflower</a> today, but use whatever you want. Vegetables are a blank canvas, paint the picture you want to eat
 Instructions: 
 - Directly from the freezer, add your veggies to a medium glass bowl. Cover with a plate, and microwave for 10 minutes
 

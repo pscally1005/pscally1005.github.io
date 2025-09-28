@@ -48,18 +48,18 @@ tags:
 - onion powder
 - eggs
 - potato
-Description: Home fries are a great breakfast side with <a href="/misc/meat#eggs">eggs</a> consisting of potatoes and sometimes <a href="/misc/veggies#pepper">peppers</a> and <a href="/misc/veggies#onion">onions</a>. I almost always use <a href="/misc/veggies#sweet-potato">sweet potatoes</a> instead of regular potatoes, as they have much more flavor and nutrients. Try whipping this up alongside my <a href="/recipes/frittata">Spinach and Onion Frittata</a>, <a href="/recipes/shakshuka">Tomato and Egg Shakshuka</a>, or <a href="/recipes/spinach-mushroom-scrambled-eggs">Spinach & Mushroom Scrambled Eggs</a>, or serve as a side with dinner
+Description: Home fries are a great breakfast side with <a href='/misc/meat#eggs'>eggs</a> consisting of potatoes and sometimes <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>. I almost always use <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> instead of regular potatoes, as they have much more flavor and nutrients. Try whipping this up alongside my <a href='/recipes/frittata'>Spinach and Onion Frittata</a>, <a href='/recipes/shakshuka'>Tomato and Egg Shakshuka</a>, or <a href='/recipes/spinach-mushroom-scrambled-eggs'>Spinach & Mushroom Scrambled Eggs</a>, or serve as a side with dinner
 Instructions: 
 - Wash and dice your sweet potatoes into bite sized cubes. Don't peel the potatoes. Season with oil, paprika, onion powder, salt, and pepper
-- <center><img src="/assets/Food/Breakfast/Home Fries/home-fries-1.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Home Fries/home-fries-1.jpg' alt="" class="instruction-image"></center>
 
 - Air fry the potatoes for 30 minutes at 400F, mixing halfway
 
 - Meanwhile, cut your onion and pepper into a small dice. Add to a bowl and season with soy sauce, oil, minced garlic, garlic powder, chili powder, black pepper, and salt
-- <center><img src="/assets/Food/Breakfast/Home Fries/home-fries-3.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Home Fries/home-fries-3.jpg' alt="" class="instruction-image"></center>
 
 - Heat a large pan over medium heat and add in your peppers and onions. Cover and cook under occasional stirring until the onions are translucent and the peppers are soft
 
 - When the potatoes are finished, combine them in the pan with the vegetables. Top with dried parsley, and serve with eggs
-- <center><img src="/assets/Food/Breakfast/Home Fries/home-fries-5.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Home Fries/home-fries-5.jpg' alt="" class="instruction-image"></center>
 ---

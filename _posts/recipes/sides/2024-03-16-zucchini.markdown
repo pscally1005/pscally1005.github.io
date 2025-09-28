@@ -46,17 +46,17 @@ tags:
 - basil
 - gluten free
 - vic
-Description: This is something I've wanted to try ever since getting an air fryer, and I'm finally getting around to it. <a href="/misc/veggies#zucchini">Zucchini</a> cut into fries, and breaded with <a href="/misc/dairy#grated-cheese">parmesan</a> cheese (they're gluten free!). Healthy, delicious, and easy
+Description: This is something I've wanted to try ever since getting an air fryer, and I'm finally getting around to it. <a href='/misc/veggies#zucchini'>Zucchini</a> cut into fries, and breaded with <a href='/misc/dairy#grated-cheese'>parmesan</a> cheese (they're gluten free!). Healthy, delicious, and easy
 Instructions: 
 - Preheat your air fryer to 400F
 
 - Wash your zucchini, and cut into wedges. Add the zucchini to a strainer with salt. Mix, and let sit for about 10 minutes to draw out excess moisture. Transfer to a bowl
 
 - Toss the zucchini in a light coating of olive oil. Add in the grated cheese and seasonings (basil, thyme, garlic, onion, pepper, and salt). Coat all the fries in the breading
-- <center><img src="/assets/Food/Sides//Zucchini/zucchini-3.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides//Zucchini/zucchini-3.jpg' alt="" class="instruction-image"></center>
 
 - Arrange fries in a single layer in your air fryer basket. You may have to do multiple batches if everything doesn't fit
 
 - Lightly spray the tops with oil, and air fry at 400F for 8-10 minutes, or until the cheese is crispy and the zucchini is tender
-- <center><img src="/assets/Food/Sides//Zucchini/zucchini-5.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides//Zucchini/zucchini-5.jpg' alt="" class="instruction-image"></center>
 ---

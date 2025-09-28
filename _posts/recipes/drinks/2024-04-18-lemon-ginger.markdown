@@ -45,7 +45,7 @@ tags:
 - warm
 - winter
 - sip
-Description: I've had a bunch of fresh ginger left over lately, so this has been one of my go to ways to churn through it. Who knew making herbal tea is so easy; just boil water with some sort of flavoring (in this case fresh ginger and lemon juice), and sip!
+Description: I've had a bunch of fresh <a href='/misc/veggies#ginger'>ginger</a> left over lately, so this has been one of my go to ways to churn through it. Who knew making herbal tea is so easy; just boil water with some sort of flavoring (in this case fresh <a href='/misc/veggies#ginger'>ginger</a> and <a href='/misc/fruit#lemon-juice'>lemon juice</a>), and sip!
 Instructions: 
 - In a small pot, bring water to a boil. Add a piece of ginger into the pot, and let simmer for 5 minutes
 

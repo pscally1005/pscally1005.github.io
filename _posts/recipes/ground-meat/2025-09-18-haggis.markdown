@@ -50,7 +50,7 @@ tags:
 - allspice
 - cloves
 - nutmeg
-Description: I just recently got back from a trip to Scotland where I tried haggis for the first time, and I loved it. I wanted to recreate it myself at home to enjoy all the same flavors while utilizing ingredients more available to myself in the States. Instead of sheep hearts, lung, and liver, the only organ <a href="/misc/meat">meat</a> I have here is <a href="/misc/meat#liver">beef liver</a>, along with <a href="/misc/meat#ground-beef">ground beef</a>. This simplified ground haggis tastes very similar to the classic dish, featuring the same flavors like coriander, <a href="/misc/veggies#onion">onion</a>, and of course <a href="/misc/grains#oats">oats</a>
+Description: I just recently got back from a trip to Scotland where I tried haggis for the first time, and I loved it. I wanted to recreate it myself at home to enjoy all the same flavors while utilizing ingredients more available to myself in the States. Instead of sheep hearts, lung, and liver, the only organ <a href='/misc/meat'>meat</a> I have here is <a href='/misc/meat#liver'>beef liver</a>, along with <a href='/misc/meat#ground-beef'>ground beef</a>. This simplified ground haggis tastes very similar to the classic dish, featuring the same flavors like coriander, <a href='/misc/veggies#onion'>onion</a>, and of course <a href='/misc/grains#oats'>oats</a>
 Instructions: 
 - An hour before you go to cook, place the liver and blade of your food processor in the freezer for an hour. This makes blending the liver easier
 
@@ -59,20 +59,20 @@ Instructions:
 - Preheat a large pan with olive oil over medium heat. Finely dice an onion, and add to your hot pan with salt. Cover, and cook until translucent, about 10 minutes
 
 - Pulse your beef liver in the food processor until finely ground. Don't over blend, or it'll end up pasty
-- <center><img src="/assets/Food/Ground Meat/Haggis/liver.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Haggis/liver.jpg' alt="" class="instruction-image"></center>
 
 - Add the liver and ground beef to the pan with the onions, and cook until browned and no longer pink.  Add in your spices, and cook until fragrant, about 1 minute. Transfer the meat and onions to the baking dish
-- <center><img src="/assets/Food/Ground Meat/Haggis/meat.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Haggis/meat.jpg' alt="" class="instruction-image"></center>
 
 - Add your oats to the now empty pan over medium low heat. Toast until fragrant and lightly browned, about 3 minutes
-- <center><img src="/assets/Food/Ground Meat/Haggis/oats.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Haggis/oats.jpg' alt="" class="instruction-image"></center>
 
 - Transfer the oats to the baking dish with the meat. Pour in the water, and mix until fully combined
-- <center><img src="/assets/Food/Ground Meat/Haggis/pre-bake.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Haggis/pre-bake.jpg' alt="" class="instruction-image"></center>
 
 - Cover the pan with aluminum foil, and bake at 350F for 30 minutes. Remove the foil, and bake for another 10 minutes
-- <center><img src="/assets/Food/Ground Meat/Haggis/baked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Haggis/baked.jpg' alt="" class="instruction-image"></center>
 
-- The classic sides to haggis would be neeps (mashed <a href="/misc/veggies#parsnips">parsnips</a>) and tatties (mashed <a href="/misc/veggies#potato">potatoes</a>), but today I'm pairing my haggis with a side of <a href="/recipes/parmesan-broccoli">Parmesan Crusted Roasted Broccoli</a>
-- <center><a href="/recipes/parmesan-broccoli"><img src="/assets/Food/Ground Meat/Haggis/plate.jpg" alt="" class="instruction-image"></a></center>
+- The classic sides to haggis would be neeps (mashed <a href='/misc/veggies#parsnips'>parsnips</a>) and tatties (mashed <a href='/misc/veggies#potato'>potatoes</a>), but today I'm pairing my haggis with a side of <a href='/recipes/parmesan-broccoli'>Parmesan Crusted Roasted Broccoli</a>
+- <center><a href='/recipes/parmesan-broccoli'><img src='/assets/Food/Ground Meat/Haggis/plate.jpg' alt="" class="instruction-image"></a></center>
 ---

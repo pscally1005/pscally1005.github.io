@@ -42,7 +42,7 @@ tags:
 - toast
 - air fry
 - food processor
-Description: Yeah you heard me right. Idk whether to file this under bread or meme recipes, but here you go. It's low <a href="/misc/calories">calorie</a> and gluten free, but also made out of <a href="/misc/veggies#cabbage">cabbage</a>, so pick your poison lmao (for the record I love cabbage, and this bread is shockingly good for what it is). I made this into an <a href="/misc/meat#eggs">egg</a> sandwich, as you can see above.
+Description: Yeah you heard me right. Idk whether to file this under bread or meme recipes, but here you go. It's low <a href='/misc/calories'>calorie</a> and gluten free, but also made out of <a href='/misc/veggies#cabbage'>cabbage</a>, so pick your poison lmao (for the record I love cabbage, and this bread is shockingly good for what it is). I made this into an <a href='/misc/meat#eggs'>egg</a> sandwich, as you can see above.
 Instructions: 
 - Using a food processor, shred your cabbage, until you have a riced consistency. Transfer to a large bowl
 
@@ -51,7 +51,7 @@ Instructions:
 - Transfer to a bread pan, and smooth the top
 
 - Bake in a 400F oven for about 50 minutes
-- <center><img src="/assets/Food/Bread/Cabbage/cabbage-4.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Cabbage/cabbage-4.jpg' alt="" class="instruction-image"></center>
 
 - Refrigerate until cooled before slicing. Makes 1 sandwich. I reheated mine for 10 minutes in a 400F air fryer, before using for an egg sandwich
 ---

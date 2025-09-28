@@ -52,7 +52,7 @@ tags:
 - broccoli
 - boneless skinless chicken breast
 - rice vinegar
-Description: This Korean style <a href="/misc/meat#chicken-breast">chicken</a> mixes together roasted <a href="/misc/veggies#broccoli">broccoli</a> and <a href="/misc/veggies#sweet-potato">sweet potatoes</a>, and is served with a sauce made of rice vinegar, soy sauce, and ginger. Everything is roasted in the oven and plated together at the end, making this a simple dish. Just stick pans in the oven; great for preparing ahead of time for when people are over
+Description: This Korean style <a href='/misc/meat#chicken-breast'>chicken</a> mixes together roasted <a href='/misc/veggies#broccoli'>broccoli</a> and <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and is served with a sauce made of rice vinegar, soy sauce, and ginger. Everything is roasted in the oven and plated together at the end, making this a simple dish. Just stick pans in the oven; great for preparing ahead of time for when people are over
 Instructions: 
 - Preheat your oven to 400F, and line 3 large baking sheets with parchment paper. We'll be working in order from longest to shortest cooking times, so sweet potatoes first, then broccoli, and the chicken last
 
@@ -61,10 +61,10 @@ Instructions:
 - Add your thawed broccoli to the second pan, and season with oil, garlic, onion, salt, and pepper. Roast for about 30 minutes at 400F, or until fork tender and lightly browned
 
 - Cut your chicken into cutlets, and pound to an even thickness with a meat mallet. Pounding the chicken in a Ziploc bag prevents chicken juice from squirting throughout the kitchen. Season with oil, garlic, onion, salt, and pepper. Transfer to the final pan. Roast at 400F for about 13 minutes, or until the chicken just reaches 165F
-- <center><img src="/assets/Food/Chicken/Korean/all-3.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Korean/all-3.jpg' alt="" class="instruction-image"></center>
 
 - Finally, the sauce. Mix together soy sauce, rice vinegar, water, ginger, and cornstarch in a medium glass. For some extra heat and sweetness, add 1-2 tbsp (18-36 g) of gochujang. Note that gochujang is not gluten free. Microwave twice for 30 seconds, stirring in between, until the sauce is thickened and syrupy
-- <center><img src="/assets/Food/Chicken/Korean/sauce.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Korean/sauce.jpg' alt="" class="instruction-image"></center>
 
 - Add a portion of potatoes, broccoli, and chicken to a plate. Drizzle with the sauce, and optionally garnish with sesame seeds
 ---

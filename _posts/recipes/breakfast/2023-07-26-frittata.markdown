@@ -43,22 +43,22 @@ tags:
 - cheese
 - chili
 - hot sauce
-Description: A frittata is the perfect meal for leftover veggies.  I'm making fresh <a href="/misc/veggies#spinach-fresh">spinach</a> and <a href="/misc/veggies#onion">onion</a> here, but you can really just throw in any leftovers you want.  Each slice of this delicious <a href="/misc/meat#eggs">egg</a> bake has 11 g of <a href="/misc/protein">protein</a> for a little over 100 <a href="/misc/calories">calories</a>, and is quick to throw together.  Just combine cooked <a href="/misc/veggies">vegetables</a>, <a href="/misc/meat#eggs">eggs</a>, and spices, and bake.  Let rest, then slice!
+Description: A frittata is the perfect meal for leftover veggies.  I'm making fresh <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/veggies#onion'>onion</a> here, but you can really just throw in any leftovers you want.  Each slice of this delicious <a href='/misc/meat#eggs'>egg</a> bake has 11 g of <a href='/misc/protein'>protein</a> for a little over 100 <a href='/misc/calories'>calories</a>, and is quick to throw together.  Just combine cooked <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat#eggs'>eggs</a>, and spices, and bake.  Let rest, then slice!
 Instructions: 
 - Preheat your oven to 375F, and dice 2 onions.  Add onions and spinach to a 10” cast iron pan over medium high heat with olive oil
 
 - Cover with foil, and cook until the water from the spinach has evaporated and the onions are translucent.  Mix in the salsa, hot sauce, minced garlic, and dried spices (garlic powder, onion powder, chili powder, paprika, and black pepper).  Remove from the heat
-- <center><img src="/assets/Food/Breakfast/Frittata/frittata-veggies.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Frittata/frittata-veggies.jpg' alt="" class="instruction-image"></center>
 
 - Meanwhile, crack your eggs into a medium bowl, and add the cottage cheese.  Whisk together until combined
-- <center><img src="/assets/Food/Breakfast/Frittata/frittata-eggs.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Frittata/frittata-eggs.jpg' alt="" class="instruction-image"></center>
 
-- Pour in the egg mixture, and mix with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until the eggs and veggies are fully combined. This will take a few minutes of gentle mixing
-- <center><img src="/assets/Food/Breakfast/Frittata/frittata-raw.jpg" alt="" class="instruction-image"></center>
+- Pour in the egg mixture, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until the eggs and veggies are fully combined. This will take a few minutes of gentle mixing
+- <center><img src='/assets/Food/Breakfast/Frittata/frittata-raw.jpg' alt="" class="instruction-image"></center>
 
 - Bake in the oven for about 30 minutes.  The frittata should be set in the center and golden around the edges (at least 160F).  Optionally, broil the frittata for about 2 minutes to brown the top
-- <center><img src="/assets/Food/Breakfast/Frittata/frittata-cooked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Frittata/frittata-cooked.jpg' alt="" class="instruction-image"></center>
 
 - Let the frittata rest for at least 15 minutes before slicing
-- <center><img src="/assets/Food/Breakfast/Frittata/frittata-cut.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Frittata/frittata-cut.jpg' alt="" class="instruction-image"></center>
 ---

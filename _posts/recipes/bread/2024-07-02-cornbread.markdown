@@ -58,7 +58,7 @@ tags:
 - lemon
 - chili
 - cornbread
-Description: This <a href="/misc/fake-healthy-foods#cornbread">cornbread</a> is not only gluten free, but also super high in <a href="/misc/protein">protein</a> for a side. It's a great <a href="/misc/protein">protein</a>/carb side to your dinner, especially with chili. It's a savory cornbread with diced chilies, <a href="/misc/dairy#grated-cheese">grated cheese</a>, and garlic powder, and tastes delicious on its own.  Or you can pair this cornbread with either <a href="/recipes/chili">Slow Cooker Chili</a> or <a href="/recipes/baked-beans">No Added Sugar Baked Beans</a> for a delicious meal
+Description: This <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a> is not only gluten free, but also super high in <a href='/misc/protein'>protein</a> for a side. It's a great <a href='/misc/protein'>protein</a>/carb side to your dinner, especially with chili. It's a savory cornbread with diced chilies, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and garlic powder, and tastes delicious on its own.  Or you can pair this cornbread with either <a href='/recipes/chili'>Slow Cooker Chili</a> or <a href='/recipes/baked-beans'>No Added Sugar Baked Beans</a> for a delicious meal
 Instructions: 
 - Preheat your oven to 400F, and line an 9" square baking pan with parchment paper. Lightly spray the paper
 
@@ -67,7 +67,7 @@ Instructions:
 - In a separate bowl, whisk together the wet ingredients - cottage cheese, applesauce, water, lemon juice, egg, chiles, and cheese
 
 - Combine the dry ingredients into the wet, and whisk until just fully combined. Don't over mix, and don't wait too long before baking. The acid (lemon juice) and base (baking soda) gives lift to the bread, but the reaction happens quickly, so you want to get it in the oven as fast as possible
-- <center><img src="/assets/Food/Bread/Cornbread/cornbread-4.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Cornbread/cornbread-4.jpg' alt="" class="instruction-image"></center>
 
 - Pour the batter into your baking pan, and optionally top with some shredded cheese.  Bake at 400F for about 25 minutes, or until a toothpick comes out mostly clean and the internal temperature is around 195F
 

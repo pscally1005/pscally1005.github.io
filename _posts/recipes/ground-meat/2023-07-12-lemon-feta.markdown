@@ -49,7 +49,7 @@ tags:
 - rice
 - orzo
 - vic
-Description: These Greek inspired bowls feature ground <a href="/misc/meat#chicken-breast">chicken</a>, <a href="/misc/dairy#feta">feta</a> cheese, and plenty of <a href="/misc/veggies">vegetables</a>. It goes great mixed into a side of <a href="/misc/grains#brown-rice">brown rice</a> or orzo pasta. It's a great summertime healthy meal that I know you'll enjoy.
+Description: These Greek inspired bowls feature ground <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/dairy#feta'>feta</a> cheese, and plenty of <a href='/misc/veggies'>vegetables</a>. It goes great mixed into a side of <a href='/misc/grains#brown-rice'>brown rice</a> or orzo pasta. It's a great summertime healthy meal that I know you'll enjoy.
 Instructions: 
 - Heat a large pan over medium heat. Add in your diced onion, with oil, garlic, and salt. Cover, and cook until the onions turn translucent, about 5 minutes
 
@@ -57,5 +57,5 @@ Instructions:
 
 - To the now empty pan, add the chicken, oil, and garlic. Cook over medium heat until fully cooked and no longer pink. Season (basil, onion and garlic powder, lemon pepper, and black pepper), finish with lemon juice, and add the chicken to the bowl with the vegetables
 
-- Mix the feta into the food and serve with rice (1 cup dry <a href="/misc/grains#brown-rice">brown rice</a>)
+- Mix the feta into the food and serve with rice (1 cup dry <a href='/misc/grains#brown-rice'>brown rice</a>)
 ---

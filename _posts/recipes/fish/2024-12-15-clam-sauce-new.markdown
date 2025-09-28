@@ -47,7 +47,7 @@ tags:
 - parsley
 - oregano
 - lemon juice
-Description: Did you know that <a href="/misc/fish#clam">clams</a> are a fantastic source of <a href="/misc/vitamin-b12">vitamin B12</a>? <a href="/misc/vitamin-b12">B12</a> supports energy production, regulates mood, and much more. This simple <a href="/misc/fish#clam">clam</a> sauce is significantly lower in added <a href="/misc/fats">fat</a> than most, while being a great source of <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, aided by the red <a href="/misc/beans#red-lentils">lentil</a> pasta
+Description: Did you know that <a href='/misc/fish#clam'>clams</a> are a fantastic source of <a href='/misc/vitamin-b12'>vitamin B12</a>? <a href='/misc/vitamin-b12'>B12</a> supports energy production, regulates mood, and much more. This simple <a href='/misc/fish#clam'>clam</a> sauce is significantly lower in added <a href='/misc/fats'>fat</a> than most, while being a great source of <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, aided by the red <a href='/misc/beans#red-lentils'>lentil</a> pasta
 Instructions: 
 - Cut your onion into a fine dice, and add to a medium pot with olive oil over medium heat. Cook until translucent
 
@@ -56,5 +56,5 @@ Instructions:
 - Mix in the rest of the ingredients, and let simmer for about 30 minutes (covered)
 
 - Meanwhile, cook a box of pasta according to its instructions.  Mix with the clam sauce when finished simmering, and serve
-- <center><img src="/assets/Food/Fish/Clam Sauce New/not-mixed.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Clam Sauce New/not-mixed.jpg' alt="" class="instruction-image"></center>
 ---

@@ -47,15 +47,15 @@ tags:
 - gluten free
 - butternut
 - squash
-Description: Protein overnight <a href="/misc/grains#oats">oats</a> are easily my favorite breakfast. They are packed with <a href="/misc/protein">protein</a> and <a href="/misc/fiber">fiber</a>, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!  For more pumpkin recipes, see my <a href="/recipes/pumpkin-bread">Protein Pumpkin Loaf</a>, <a href="/recipes/pancake">Pumpkin Protein Pancakes</a>, or <a href="/recipes/pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a>
+Description: Protein overnight <a href='/misc/grains#oats'>oats</a> are easily my favorite breakfast. They are packed with <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.  Or you can check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!  For more pumpkin recipes, see my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a>
 Instructions: 
 - Mix all ingredients together in a bowl, cover, and refrigerate overnight
 
 - For the other flavors, check out the links below:<br><ul>
-    <li><a href="/recipes/oats-berry">Berry Delicious Protein Overnight Oats</a></li>
-    <li><a href="/recipes/oats-pb">Peanut Butter Punch Protein Overnight Oats</a></li>
-    <li><a href="/recipes/oats-reeses">Reese's Protein Overnight Oats</a></li>
-    <li><a href="/recipes/oats-banana">Banana Nut Bread Protein Overnight Oats</a></li></ul><br>
-- <center><a href="/recipes/oats-berry"><img src="/assets/Food/Breakfast/Oatmeal/oats-berry.jpg" alt="" class="half-page"></a><a href="/recipes/oats-pb"><img src="/assets/Food/Breakfast/Oatmeal/oats-pb.jpg" alt="" class="half-page"></a></center>
-- <center><a href="/recipes/oats-banana"><img src="/assets/Food/Breakfast/Oatmeal/oats-banana-1.jpg" alt="" class="half-page"></a><a href="/recipes/oats-reeses"><img src="/assets/Food/Breakfast/Oatmeal/oats-reeses.jpg" alt="" class="half-page"></a></center><hr>
+    <li><a href='/recipes/oats-berry'>Berry Delicious Protein Overnight Oats</a></li>
+    <li><a href='/recipes/oats-pb'>Peanut Butter Punch Protein Overnight Oats</a></li>
+    <li><a href='/recipes/oats-reeses'>Reese's Protein Overnight Oats</a></li>
+    <li><a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a></li></ul><br>
+- <center><a href='/recipes/oats-berry'><img src='/assets/Food/Breakfast/Oatmeal/oats-berry.jpg' alt="" class="half-page"></a><a href='/recipes/oats-pb'><img src='/assets/Food/Breakfast/Oatmeal/oats-pb.jpg' alt="" class="half-page"></a></center>
+- <center><a href='/recipes/oats-banana'><img src='/assets/Food/Breakfast/Oatmeal/oats-banana-1.jpg' alt="" class="half-page"></a><a href='/recipes/oats-reeses'><img src='/assets/Food/Breakfast/Oatmeal/oats-reeses.jpg' alt="" class="half-page"></a></center><hr>
 ---

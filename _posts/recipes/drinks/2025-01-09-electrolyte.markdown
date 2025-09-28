@@ -51,7 +51,7 @@ tags:
 Description: Electrolyte drink mixes are great for after a hard, sweating workout, or for those with POTS (Postural Orthostatic Tachycardia Syndrome).  But those packets can be super expensive; it's significantly easier to make them yourself.  Thankfully, LMNT, one of the leading electrolyte drink companies, makes that dead simple to do by providing their base recipe right on their website.  Instead of paying <b>$1.50</b> per serving, you can pay just <b>$0.09</b>!  Just add a scoop to a large glass of water, add a flavoring and a sweetener, and enjoy!
 Instructions: 
 - In a small container, mix together Sodium Chloride, Potassium Chloride, and Magnesium Malate.  This is your unflavored base recipe, which makes 30 servings.  When you want to make a drink, just stir a <b>3.3 g</b> scoop of your mix into 16-32 oz (480-960 g) of water.  Optionally, add a splash of lemon or lime juice, and a squirt of liquid monk fruit or stevia
-- <center><img src="/assets/Food/Drinks/LMNT/bowls.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Drinks/LMNT/bowls.jpg' alt="" class="instruction-image"></center>
 
-- If you want to make it <a href="/misc/sodium">sodium</a> free, just leave out the salt (Sodium Chloride).  Each serving is then <b>0.77 g</b>
+- If you want to make it <a href='/misc/sodium'>sodium</a> free, just leave out the salt (Sodium Chloride).  Each serving is then <b>0.77 g</b>
 ---

@@ -50,7 +50,7 @@ tags:
 - lemon juice
 - bake
 - roast
-Description: These baked <a href="/misc/meat#chicken-thighs">chicken</a> thighs are dead simple to make and taste great. Just mix spices in a bowl, dump over chicken, and stick in the oven. I've gone with thighs today to mix it up, but chicken breasts would also work (just reduce the time).  For a dish with a similar cooking method, check out my <a href="/recipes/chicken-wings">Gluten Free Baked Buffalo Wings</a>
+Description: These baked <a href='/misc/meat#chicken-thighs'>chicken</a> thighs are dead simple to make and taste great. Just mix spices in a bowl, dump over chicken, and stick in the oven. I've gone with thighs today to mix it up, but chicken breasts would also work (just reduce the time).  For a dish with a similar cooking method, check out my <a href='/recipes/chicken-wings'>Gluten Free Baked Buffalo Wings</a>
 Instructions:
 - Preheat your oven to 250F (not a typo), and line a large cookie sheet with parchment paper
 
@@ -59,10 +59,10 @@ Instructions:
 - Roast at 250F for about 45 minutes
 
 - Increase the oven temp to 400F, and roast for another 30-45 minues.
-- <center><img src="/assets/Food/Chicken/Baked Thighs/baked-thighs.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Baked Thighs/baked-thighs.jpg' alt="" class="instruction-image"></center>
 
 - You can also use thinly sliced chicken breasts instead. Just do 1 bake at 400F until the breasts reach 165F, about 15 minutes
 
-- You can eat them as a standalone piece of meat on your plate, but today I decided to chop up the baked pieces and use them in place of <a href="/misc/meat#ground-turkey">ground turkey</a> in my <a href="/recipes/penne-casserole">Penne and Meat Casserole Bake</a>
-- <center><img src="/assets/Food/Chicken/Baked Thighs/thigh-casserole.jpg" alt="" class="instruction-image"></center>
+- You can eat them as a standalone piece of meat on your plate, but today I decided to chop up the baked pieces and use them in place of <a href='/misc/meat#ground-turkey'>ground turkey</a> in my <a href='/recipes/penne-casserole'>Penne and Meat Casserole Bake</a>
+- <center><img src='/assets/Food/Chicken/Baked Thighs/thigh-casserole.jpg' alt="" class="instruction-image"></center>
 ---

@@ -46,7 +46,7 @@ tags:
 - prank
 - chocolate covered raisins
 - vic
-Description: This was something stupid I did for April Fool's Day, where I passed them off as chocolate covered <a href="/misc/fruit#raisin">raisins</a>. This is a fun and harmless prank to anyone not expecting it.
+Description: This was something stupid I did for April Fool's Day, where I passed them off as chocolate covered <a href='/misc/fruit#raisin'>raisins</a>. This is a fun and harmless prank to anyone not expecting it.
 Instructions: 
 - Preheat oven to 400F and line small baking sheet with aluminum foil
 

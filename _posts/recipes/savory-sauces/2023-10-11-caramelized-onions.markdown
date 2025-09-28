@@ -46,17 +46,17 @@ tags:
 - onion jam
 - french onion dip
 - vic
-Description: Caramelized <a href="/misc/veggies#onion">onions</a> are simple and delicious, but take a while with often stirring on the stove. I've done them in a slow cooker here, so you can let them go all day, and check on them every hour or so. Caramelized onions are great on nearly everything; give it a go
+Description: Caramelized <a href='/misc/veggies#onion'>onions</a> are simple and delicious, but take a while with often stirring on the stove. I've done them in a slow cooker here, so you can let them go all day, and check on them every hour or so. Caramelized onions are great on nearly everything; give it a go
 Instructions: 
 - Slice all your onions, and add to a large slow cooker. Season, and mix, making sure to separate the onions from other layers
-- <center><img src="/assets/Food/Savory Sauces/Caramel Onions/raw.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Caramel Onions/raw.jpg' alt="" class="instruction-image"></center>
 
 - Cover and cook on high for about 8 hours, stirring occasionally, until soft, jammy, and fragrant. Deglaze with some white wine or water if needed.  Store in a container in the fridge
-- <center><img src="/assets/Food/Savory Sauces/Caramel Onions/cooked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Caramel Onions/cooked.jpg' alt="" class="instruction-image"></center>
 
 - For context, the onions weigh about <b>880 g</b> raw, and I ended up with about <b>120 g</b> of cooked onions.  You're aiming to cook nearly all the water out of the onions and end up with essentially onion jelly
-- <center><img src="/assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg' alt="" class="instruction-image"></center>
 
-- With these onions, you can make my <a href="/recipes/french-onion-dip">Low Fat French Onion Dip</a>, which is higher in <a href="/misc/protein">protein</a> due to plain nonfat greek yogurt instead of sour cream and cream cheese
-- <center><img src="/assets/Food/Savory Sauces/French Onion/cover.jpg" alt="" class="instruction-image"></center>
+- With these onions, you can make my <a href='/recipes/french-onion-dip'>Low Fat French Onion Dip</a>, which is higher in <a href='/misc/protein'>protein</a> due to plain nonfat greek yogurt instead of sour cream and cream cheese
+- <center><img src='/assets/Food/Savory Sauces/French Onion/cover.jpg' alt="" class="instruction-image"></center>
 ---

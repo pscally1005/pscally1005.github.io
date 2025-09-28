@@ -47,11 +47,11 @@ tags:
 - kraft
 - velveeta
 - american cheese
-Description: This Mac & Cheese is made with just 2 ingredients:<b></b> the mac, and the cheese (wild concept, I know). Well I guess I'm not counting the water and salt to cook the pasta, but do those really count as an ingredients? Okay, okay, I guess the <a href="/recipes/cheese-sauce">Gooey Cheese Sauce</a> can't really count as just 1 ingredient. Whatever, two ingredient is much catchier than seven.  For another recipe with my <a href="/recipes/cheese-sauce">Gooey Cheese Sauce</a>, check out my <a href="/recipes/cheesy-rice-and-broccoli">Cheesy Rice & Broccoli</a>
+Description: This Mac & Cheese is made with just 2 ingredients:<b></b> the mac, and the cheese (wild concept, I know). Well I guess I'm not counting the water and salt to cook the pasta, but do those really count as an ingredients? Okay, okay, I guess the <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a> can't really count as just 1 ingredient. Whatever, two ingredient is much catchier than seven.  For another recipe with my <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, check out my <a href='/recipes/cheesy-rice-and-broccoli'>Cheesy Rice & Broccoli</a>
 Instructions: 
 - Add pasta and a pinch of salt to a medium pot. Pour in just enough water to cover the pasta, cover with a lid, and bring to a boil. Cook until al dente. Strain, reserving some of the pasta water, and set aside. Using as little water to boil the pasta will concentrate the starch in the water, helping us emulsify the sauce
 
-- Combine together the <a href="/recipes/cheese-sauce">Gooey Cheese Sauce</a> and the cooked pasta, adding a splash of reserved pasta water if necessary.  Add back to the heat over medium low to melt the cheese and fully combine it with the pasta
+- Combine together the <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a> and the cooked pasta, adding a splash of reserved pasta water if necessary.  Add back to the heat over medium low to melt the cheese and fully combine it with the pasta
 
 - Mix in some spices if desired, like paprika (1 tbsp, 9 g) or black pepper (1 tsp, 3 g)
 ---

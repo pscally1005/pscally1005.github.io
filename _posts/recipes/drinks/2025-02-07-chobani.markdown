@@ -48,9 +48,9 @@ tags:
 - sugar free
 - vanilla extract
 - frozen strawberries
-Description: I recently had one of those <a href="https://amzn.to/3FnzL4r">Chobani Yogurt Drinks</a>, and it was a pretty good yogurt drink with 20 grams of <a href="/misc/protein">protein</a>, no <a href="/misc/hidden-sugar">added sugar</a>, and mostly clean ingredients.  But at $2.50 per serving, I knew I could make it cheaper myself.  So that's what I did today.  This one is <a href="/misc/fruit#strawberries">strawberry</a> flavored, uses liquid monk fruit as the sweetener, and is half the price!
+Description: I recently had one of those <a href='https://amzn.to/3FnzL4r'>Chobani Yogurt Drinks</a>, and it was a pretty good yogurt drink with 20 grams of <a href='/misc/protein'>protein</a>, no <a href='/misc/hidden-sugar'>added sugar</a>, and mostly clean ingredients.  But at $2.50 per serving, I knew I could make it cheaper myself.  So that's what I did today.  This one is <a href='/misc/fruit#strawberries'>strawberry</a> flavored, uses liquid monk fruit as the sweetener, and is half the price!
 Instructions: 
 - Add all ingredients to a blender, and blend until smooth. Optionally, add a serving of lactase enzyme if you're lactose intolerant (or take a lactose pill)
 
-- You can replace the skim milk and coconut oil with 1/4 cup (60 g) whole milk for the same <a href="/misc/fats">fat</a> and <a href="/misc/calories">calories</a>. Extra virgin olive oil will also work in place of coconut oil
+- You can replace the skim milk and coconut oil with 1/4 cup (60 g) whole milk for the same <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>. Extra virgin olive oil will also work in place of coconut oil
 ---

@@ -50,7 +50,7 @@ tags:
 - crispy chickpeas
 - paprika spiced nuts
 - almonds
-Description: Using your air fryer is a fun way to make a good <a href="/misc/fake-healthy-foods#trail-mix">trail mix</a>, and this one uses roasted <a href="/misc/beans#chickpeas">chickpeas</a>, paprika spiced <a href="/misc/nuts#almonds">almonds</a>, and <a href="/misc/fruit#banana">banana</a> chips. Simply roast all 3 and toss with your desired spices before combining together. It goes great on a salad or a bowl of <a href="/yogurt">yogurt</a>, or even on its own!  For a standard <a href="/misc/fruit">fruit</a> and <a href="/misc/nuts">nuts</a> trail mix, see my <a href="/recipes/trail-mix">Mixed Nuts & Chocolate Trail Mix</a>
+Description: Using your air fryer is a fun way to make a good <a href='/misc/fake-healthy-foods#trail-mix'>trail mix</a>, and this one uses roasted <a href='/misc/beans#chickpeas'>chickpeas</a>, paprika spiced <a href='/misc/nuts#almonds'>almonds</a>, and <a href='/misc/fruit#banana'>banana</a> chips. Simply roast all 3 and toss with your desired spices before combining together. It goes great on a salad or a bowl of <a href='/yogurt'>yogurt</a>, or even on its own!  For a standard <a href='/misc/fruit'>fruit</a> and <a href='/misc/nuts'>nuts</a> trail mix, see my <a href='/recipes/trail-mix'>Mixed Nuts & Chocolate Trail Mix</a>
 Instructions: 
 - Preheat your air fryer to 400F, and drain and rinse the chickpeas. Air fry the chickpeas for about 14 minutes, or until browned and crispy.  Remove to a bowl, and toss with the spices. Set aside
 
@@ -60,9 +60,9 @@ Instructions:
 
 - Lower the air fryer to 250F. Air fry the banana slices for about 25 minutes, or until lightly browned and dried.  Remove to a third bowl, and toss with the spices
 
-- When totally cooled, mix the 3 bowls together, and transfer to an airtight bag.  Store at room temperature for up to 1 week, or in the fridge for up to 2 weeks
-- <center><img src="/assets/Food/Finger Food/Air Fry Trail Mix/combined.jpg" alt="" class="instruction-image"></center>
+- When totally cooled, mix the 3 bowls together, and transfer to an airtight bag.  Store at room temperature for up to 1 week
+- <center><img src='/assets/Food/Finger Food/Air Fry Trail Mix/combined.jpg' alt="" class="instruction-image"></center>
 
 - My chickpeas, almonds, and banana chips weighed a respective 114 g, 120 g, and 28 g.  That's a total of 262 g.  At 9 servings, each serving is 29 g, or about 1 oz
-- <center><img src="/assets/Food/Finger Food/Air Fry Trail Mix/separate.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Air Fry Trail Mix/separate.jpg' alt="" class="instruction-image"></center>
 ---

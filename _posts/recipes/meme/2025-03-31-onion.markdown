@@ -45,7 +45,7 @@ tags:
 - roasted onions
 - air fry
 - onion
-Description: It's (almost) April Fool's Day, so let's do something dumb. Have you ever just straight up roasted an onion? It's actually surprisingly good. It can work as a zero effort <a href="/misc/veggies">vegetable</a> addition to your plate, or as a topping for a sandwich or taco. If you like soft and sweet caramelized <a href="/misc/veggies#onion">onions</a>, this variation gets you about 80% there for next to no work
+Description: It's (almost) April Fool's Day, so let's do something dumb. Have you ever just straight up roasted an onion? It's actually surprisingly good. It can work as a zero effort <a href='/misc/veggies'>vegetable</a> addition to your plate, or as a topping for a sandwich or taco. If you like soft and sweet caramelized <a href='/misc/veggies#onion'>onions</a>, this variation gets you about 80% there for next to no work
 Instructions: 
 - Cut both ends off the onion, and peel off the skin. Wrap in aluminum foil, and air fry at 400F for 1 hour, until soft and caramelized
 ---

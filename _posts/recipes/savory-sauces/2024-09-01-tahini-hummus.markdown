@@ -49,7 +49,7 @@ tags:
 - lemon
 - garlic
 - cumin
-Description: I love hummus, and I have plenty of different varieties.  From different spice combinations to various roasted <a href="/misc/veggies">vegetables</a>, hummus is my go to spread, dip, and dressing.  But today, after finding some <a href="/misc/seeds#sesame-seeds">tahini</a> on sale, I decided I should make some classic hummus.  This is a plain hummus flavor that can serve as a base for any other ideas, or stand on its own for your toast, veggie sticks, or salads.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
+Description: I love hummus, and I have plenty of different varieties.  From different spice combinations to various roasted <a href='/misc/veggies'>vegetables</a>, hummus is my go to spread, dip, and dressing.  But today, after finding some <a href='/misc/seeds#sesame-seeds'>tahini</a> on sale, I decided I should make some classic hummus.  This is a plain hummus flavor that can serve as a base for any other ideas, or stand on its own for your toast, veggie sticks, or salads.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
 Instructions: 
 - Drain your chickpeas through a strainer into a bowl, saving the liquid.  This liquid is called aquafaba, and we will be using some of it later in the hummus to make it creamier
 
@@ -57,5 +57,5 @@ Instructions:
 
 - Season with garlic, cumin, and salt.  Blend in aquafaba until creamy.  Garnish with paprika and parsley, and serve
 
-- If you don't have tahini, you can replace it with an equal amount (4 tbsp, 64 g) of either <a href="/misc/nuts#cashews">cashew</a> or <a href="/misc/nuts#almonds">almond</a> butter.  Alternatively, you can replace the tahini with 3 tbsp (45 g) extra virgin olive oil and an additional 1 tbsp (15 g) aquafaba for a similar consistency and nutritional profile
+- If you don't have tahini, you can replace it with an equal amount (4 tbsp, 64 g) of either <a href='/misc/nuts#cashews'>cashew</a> or <a href='/misc/nuts#almonds'>almond</a> butter.  Alternatively, you can replace the tahini with 3 tbsp (45 g) extra virgin olive oil and an additional 1 tbsp (15 g) aquafaba for a similar consistency and nutritional profile
 ---

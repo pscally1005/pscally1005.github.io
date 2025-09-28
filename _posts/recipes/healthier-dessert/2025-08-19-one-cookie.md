@@ -51,7 +51,7 @@ tags:
 - sugar free
 - gluten free
 - chocolate chip cookies
-Description: Do you ever just want one cookie?  You want a nice and delicious chocolate chip cookie, but you don't want to be left with a whole batch?  Well you're in the right spot.  This recipe is essentially a scaled down version of my <a href="/recipes/keto-chocolate-chip-cookies">Keto Chocolate Chip Cookies</a>, enough to make 1 large sized cookie.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: Do you ever just want one cookie?  You want a nice and delicious chocolate chip cookie, but you don't want to be left with a whole batch?  Well you're in the right spot.  This recipe is essentially a scaled down version of my <a href='/recipes/keto-chocolate-chip-cookies'>Keto Chocolate Chip Cookies</a>, enough to make 1 large sized cookie.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions: 
 - Preheat your air fryer to 300F on the air fry setting
 
@@ -60,8 +60,8 @@ Instructions:
 - Cashew or almond butter are best for their neutral flavor and buttery texture.  Peanut butter will work, but only if you want a distinctly peanut butter chocolate chip cookie.  For nut free, try tahini or sunflower seed butter
 
 - Flatten the cookie onto a small piece of parchment paper, shape into a circle, and top with your remaining chocolate chips
-- <center><img src="/assets/Food/Healthier Dessert/One cookie/raw.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/One cookie/raw.jpg' alt="" class="instruction-image"></center>
 
 - Air fry at 300F for about 12 minutes, or until golden brown
-- <center><img src="/assets/Food/Healthier Dessert/One cookie/no-bite.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/One cookie/no-bite.jpg' alt="" class="instruction-image"></center>
 ---

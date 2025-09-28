@@ -47,7 +47,7 @@ tags:
 - dessert
 - cocoa
 - blend
-Description: Chocolate <a href="/misc/fruit#banana">banana</a> <a href="/misc/nuts#almonds">almond</a> butter milkshake. This smoothie can be had for breakfast, but is honestly so good it could easily pass as a milkshake for dessert. It's got over 20 g each of <a href="/misc/protein">protein</a> and <a href="/misc/fats">healthy fats</a>, 10 g of <a href="/misc/fiber">fiber</a>, sweetness from the banana, and creaminess from the <a href="/recipes/natural-peanut-butter">nut butter</a>!
+Description: Chocolate <a href='/misc/fruit#banana'>banana</a> <a href='/misc/nuts#almonds'>almond</a> butter milkshake. This smoothie can be had for breakfast, but is honestly so good it could easily pass as a milkshake for dessert. It's got over 20 g each of <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>healthy fats</a>, 10 g of <a href='/misc/fiber'>fiber</a>, sweetness from the banana, and creaminess from the <a href='/recipes/natural-peanut-butter'>nut butter</a>!
 Instructions: 
 - A few hours (or day) before, add half a banana to an airtight bag, and store in the freezer
 

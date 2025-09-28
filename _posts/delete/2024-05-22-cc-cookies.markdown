@@ -58,7 +58,7 @@ tags:
 - fat free cottage cheese
 - nonfat cottage cheese
 - non fat cottage cheese
-Description: This is part 2 of me trying to make a classic chocolate chip cookie in a much healthier way.  Here we have <a href="/misc/dairy#cottage-cheese">cottage cheese</a>, which provide a great neutral base for the cookies, allowing them to stay moist without all the <a href="/misc/fats">fat</a> of <a href="/misc/dairy#butter">butter</a>, and while being packed with <a href="/misc/protein">protein</a>.  For some healthy <a href="/misc/fats">fats</a> and some sweetness, I've used natural <a href="/misc/nuts#peanuts">peanut</a> butter and <a href="/recipes/sugar-free-syrup">sugar free syrup</a>.  These cookies are gluten and grain free, using coconut flour instead, and use a homemade sugar free chocolate using just 3 ingredients.  They don't taste like cottage cheese at all, and can even be enjoyed raw!  For part 1, see my <a href="/recipes/chickpea-cookies">Chickpea Cookies</a>.  You can also check out any of my other <a href="/cookies">cookie recipes</a>
+Description: This is part 2 of me trying to make a classic chocolate chip cookie in a much healthier way.  Here we have <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, which provide a great neutral base for the cookies, allowing them to stay moist without all the <a href='/misc/fats'>fat</a> of <a href='/misc/dairy#butter'>butter</a>, and while being packed with <a href='/misc/protein'>protein</a>.  For some healthy <a href='/misc/fats'>fats</a> and some sweetness, I've used natural <a href='/misc/nuts#peanuts'>peanut</a> butter and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.  These cookies are gluten and grain free, using coconut flour instead, and use a homemade sugar free chocolate using just 3 ingredients.  They don't taste like cottage cheese at all, and can even be enjoyed raw!  For part 1, see my <a href='/recipes/chickpea-cookies'>Chickpea Cookies</a>.  You can also check out any of my other <a href='/cookies'>cookie recipes</a>
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper.  Also line a small Tupperware with parchment
 
@@ -70,7 +70,7 @@ Instructions:
 
 - Meanwhile, move into the cookie dough.  To a food processor, add your cottage cheese, syrup, and vanilla.  Maple syrup or honey can be used in place of sugar free syrup.  Blend until smooth, and transfer to a large bowl
 
-- Mix the rest of the cookie dough ingredients (nut butter, salt, and coconut flour) with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a> until fully combined.  I've used natural peanut butter, but almond butter, pistachio butter, sunflower seed butter, or pumpkin seed butter would also work.  Oat or almond flour would probably work instead of coconut, but start with at least double by weight, and go on feel.  The dough should be slightly sticky
+- Mix the rest of the cookie dough ingredients (nut butter, salt, and coconut flour) with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined.  I've used natural peanut butter, but almond butter, pistachio butter, sunflower seed butter, or pumpkin seed butter would also work.  Oat or almond flour would probably work instead of coconut, but start with at least double by weight, and go on feel.  The dough should be slightly sticky
 
 - Let chill in the fridge for 15 minutes to cool down. The mix may warm up as it blends, so chilling it prevents the chocolate from melting
 
@@ -83,5 +83,5 @@ Instructions:
 - Let cool on the pan for 5 minutes before transferring to a wire rack to cool completely.  Store in an airtight container in the fridge
 
 - You can also enjoy these as edible cookie dough bites
-- <center><img src="/assets/Food/Healthier Dessert/CC Cookies/cc-cookie-dough.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/CC Cookies/cc-cookie-dough.jpg' alt="" class="instruction-image"></center>
 ---

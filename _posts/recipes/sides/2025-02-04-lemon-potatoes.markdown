@@ -49,22 +49,22 @@ tags:
 - greek
 - minced garlic
 - chicken broth
-Description: As someone who isn't a big fan of <a href="/misc/veggies#potato">potatoes</a>, I'm in love with Greek style lemon potatoes. But after seeing upwards of 1/2 cup of olive oil in most recipes, I knew that I had to give it a shot my way. These roasted potatoes still feature extra virgin olive oil, as it's one of the healthiest <a href="/misc/fats">fats</a> you could consume, but dialed back as to not be too calorically dense
+Description: As someone who isn't a big fan of <a href='/misc/veggies#potato'>potatoes</a>, I'm in love with Greek style lemon potatoes. But after seeing upwards of 1/2 cup of olive oil in most recipes, I knew that I had to give it a shot my way. These roasted potatoes still feature extra virgin olive oil, as it's one of the healthiest <a href='/misc/fats'>fats</a> you could consume, but dialed back as to not be too calorically dense
 Instructions: 
 - You can use any kind of potatoes you have.  I found this bag of mini yellow, red, and puple potatoes at my store, but full sized potatoes will work too.  You can even try it with sweet potatoes!
 
 - Wash your potatoes, and cut into thick wedges (don't peel the potatoes!). Add your potatoes to the base of a 9x13" pan
 
 - In a bowl, whisk together the marinade - water, lemon juice, oil, minced garlic, chicken bouillon powder, oregano, and salt
-- <center><img src="/assets/Food/Sides/Lemon Potatoes/seperate.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides/Lemon Potatoes/seperate.jpg' alt="" class="instruction-image"></center>
 
 - Fresh lemon juice is preferred, as the flavor is better, and you can also incorporate the lemon zest.  I used the juice of 2 whole lemons, with the zest of 1 of them mixed into the marinade.  I used the zest of the other lemon at the end on top after cooking.  Bottled lemon juice will also work though.  
 
 - Pour the liquid over the potatoes. Cover with foil, and let marinate in the fridge for at least 1 hour
-- <center><img src="/assets/Food/Sides/Lemon Potatoes/raw.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides/Lemon Potatoes/raw.jpg' alt="" class="instruction-image"></center>
 
 - When you're ready to cook, preheat your oven to 350F. Bake the potatoes (covered) until fork tender, about 1 - 1.5 hours.  Garnish with parsley and lemon zest
-- <center><img src="/assets/Food/Sides/Lemon Potatoes/cooked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides/Lemon Potatoes/cooked.jpg' alt="" class="instruction-image"></center>
 
 - <center></center><i>Note</i>:<b></b> To make this garlic/onion free, simply omit the chicken bouillon and minced garlic.  Instead, double the salt to 2 tsp (12 g), and add 2 tsp (6 g) black pepper.  This also doubles as vegetarian/vegan
 ---

@@ -47,7 +47,7 @@ tags:
 - hot
 - sauce
 - breast
-Description: This dish pairs sautéed <a href="/misc/veggies#pepper">peppers</a> and <a href="/misc/veggies#onion">onions</a>, <a href="/misc/meat#chicken-breast">chicken</a> breast, and a spicy and creamy buffalo sauce. These are quick to come together, with just sautéing the chicken and <a href="/misc/veggies">vegetables</a>, pouring in the sauce, and serving with a side of <a href="/misc/grains#brown-rice">rice</a>
+Description: This dish pairs sautéed <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/meat#chicken-breast'>chicken</a> breast, and a spicy and creamy buffalo sauce. These are quick to come together, with just sautéing the chicken and <a href='/misc/veggies'>vegetables</a>, pouring in the sauce, and serving with a side of <a href='/misc/grains#brown-rice'>rice</a>
 Instructions: 
 - Mix hot sauce, honey, water, and cornstarch in a medium bowl or tall glass. Stir immediately after adding the cornstarch, and set aside. DO NOT add the cottage cheese yet, or the acid of the hot sauce will curdle it. Add the cheese at the end
 
@@ -58,5 +58,5 @@ Instructions:
 - Spray the pan again, and cook the chicken on medium. Cook until chicken is almost done, because the chicken will cook more in the sauce
 
 - Add in the sauce and vegetables into the pan, and also add the cottage cheese. Combine and cook for about a minute until creamy. Optionally, top with shredded cheese, or serve with rice
-- <center><img src="/assets/Food/Chicken/Buffalo/buffalo-5.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Buffalo/buffalo-5.jpg' alt="" class="instruction-image"></center>
 ---

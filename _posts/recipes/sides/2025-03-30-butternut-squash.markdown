@@ -47,7 +47,7 @@ tags:
 - bake
 - cook
 - carb
-Description: <a href="/misc/veggies#butternut-squash">Butternut squash</a> was my gateway <a href="/misc/veggies">vegetable</a>. I love most veggies now, but growing up, I hated almost all of them. Butternut squash was the one that was able to unlock my love of <a href="/misc/veggies">vegetables</a>, and this recipe how my mom would prepare them. Butternut is a starchy vegetable, similar to <a href="/misc/veggies#potato">potatoes</a> or <a href="/misc/veggies#plantain">plantains</a>, so I tend to eat this more as my <a href="/misc/carbs">carb</a> side than a <a href="/misc/veggies">vegetable</a> side, such as pairing this with <a href="/recipes/grilled-shrimp">Grilled Shrimp Skewers</a> and <a href="/recipes/vegetable-medley">Spinach and Onion Vegetable Medley</a> for a delicious and well rounded meal
+Description: <a href='/misc/veggies#butternut-squash'>Butternut squash</a> was my gateway <a href='/misc/veggies'>vegetable</a>. I love most veggies now, but growing up, I hated almost all of them. Butternut squash was the one that was able to unlock my love of <a href='/misc/veggies'>vegetables</a>, and this recipe how my mom would prepare them. Butternut is a starchy vegetable, similar to <a href='/misc/veggies#potato'>potatoes</a> or <a href='/misc/veggies#plantain'>plantains</a>, so I tend to eat this more as my <a href='/misc/carbs'>carb</a> side than a <a href='/misc/veggies'>vegetable</a> side, such as pairing this with <a href='/recipes/grilled-shrimp'>Grilled Shrimp Skewers</a> and <a href='/recipes/vegetable-medley'>Spinach and Onion Vegetable Medley</a> for a delicious and well rounded meal
 Instructions: 
 - Preheat your oven to 400F, and line a large cookie sheet with parchment paper
 
@@ -56,8 +56,8 @@ Instructions:
 - Cut your onion into a large dice, and add to the pan. Add the butternut squash, oil, minced garlic, garlic powder, onion powder, salt, and pepper
 
 - Roast at 400F for about 30 minutes, or until soft and browned
-- <center><img src="/assets/Food/Sides/Butternut squash/pan.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides/Butternut squash/pan.jpg' alt="" class="instruction-image"></center>
 
 - As for the cost between frozen or fresh butternut squash, I got this 1 lb (454 g) bag of frozen butternut squash for $1.99, already peeled and cubed.  In comparison, I can get a fresh butternut for $0.79/lb, but that includes the weight of the skins and seeds, plus the work to cut it up myself.  This 2.76 lb (1,257 g) squash cost $2.19, and yielded 2.42 lb (1,100 g) of raw squash meat.  Therefore, the net cost of fresh butternut squash is $0.90/lb, making it less than half the price of the frozen.  It's up for you to decide if that cost difference is work the extra effort for fresh vs frozen
-- <center><img src="/assets/Food/Sides/Butternut squash/fresh.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides/Butternut squash/fresh.jpg' alt="" class="instruction-image"></center>
 ---

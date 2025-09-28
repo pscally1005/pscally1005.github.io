@@ -53,7 +53,7 @@ tags:
 - apple butter
 - apple spread
 - pastry
-Description: These cinnamon rolls aren't your traditional empty <a href="/misc/calories">calorie</a> pastries. They have a good blend of <a href="/misc/protein">protein</a>, <a href="/misc/fats">fats</a>, <a href="/misc/carbs">carbs</a>, and <a href="/misc/fiber">fiber</a>, making them a nutritious breakfast choice, with a homemade <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a> filling. The batch makes only 1 serving (a few smaller cinnamon rolls), but can be easily scaled up. For a different <a href="/misc/protein">protein</a> pastry breakfast, see my <a href="/recipes/protein-poptart">PB&J Protein PopTart</a>
+Description: These cinnamon rolls aren't your traditional empty <a href='/misc/calories'>calorie</a> pastries. They have a good blend of <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fats</a>, <a href='/misc/carbs'>carbs</a>, and <a href='/misc/fiber'>fiber</a>, making them a nutritious breakfast choice, with a homemade <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> filling. The batch makes only 1 serving (a few smaller cinnamon rolls), but can be easily scaled up. For a different <a href='/misc/protein'>protein</a> pastry breakfast, see my <a href='/recipes/protein-poptart'>PB&J Protein PopTart</a>
 Instructions: 
 - In a medium bowl, whisk together the dry ingredients for the dough - protein powder, coconut flour, whole wheat flour, baking powder, cinnamon, and salt
 
@@ -61,8 +61,8 @@ Instructions:
 
 - The dough should be slightly sticky. Refrigerate for about 30 minutes to make handling easier
 
-- Put the dough on a piece of parchment paper, and flatten with your fingers into an even rectangle. Spread the <a href="/recipes/apple-spread">No Sugar Added Apple Spread</a> filling on top.  Date paste or unsweetened applesauce should also work
-- <center><img src="/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-4.jpg" alt="" class="instruction-image"></center>
+- Put the dough on a piece of parchment paper, and flatten with your fingers into an even rectangle. Spread the <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> filling on top.  Date paste or unsweetened applesauce should also work
+- <center><img src='/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-4.jpg' alt="" class="instruction-image"></center>
 
 - Roll the dough into 1 long cinnamon roll (left to right when in the position in the photo above), using a butter knife to help peel the dough off the parchment.  Cut with a knife or dental floss into 4 pieces
 
@@ -71,5 +71,5 @@ Instructions:
 - Meanwhile, prepare the glaze by mixing together the ingredients in a small bowl (milk, powdered peanut butter, oil, and cinnamon). Either extra virgin olive oil or unrefined coconut oil will work.  Add some sweetener if you want
 
 - Dollop the glaze on top of the baked cinnamon rolls, and enjoy
-- <center><img src="/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-8.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-8.jpg' alt="" class="instruction-image"></center>
 ---

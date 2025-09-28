@@ -49,7 +49,7 @@ tags:
 - allulose
 - erythritol
 - granulated monk fruit
-Description: Amaretti cookies are an Italian classic at any holiday, and always my favorite dessert at the table.  This recipe is identical to the traditional, except with granulated <a href="/misc/hidden-sugar">sugar</a> swapped for monk fruit.  Or you can make my <a href="/recipes/amaretti-cookies-with-dates">Amaretti Cookies with Dates</a> instead if you prefer a more naturally sweetened version.  Both are gluten free, don't have any <a href="/misc/dairy#butter">butter</a> or oil, and get their healthy <a href="/misc/fats">fats</a> from almonds.  Or check out any of my other <a href="/cookies">cookie recipes</a>!  To use up those leftover yolks, whip up a quick <a href="/recipes/hollandaise">Greek Yogurt Hollandaise Sauce</a>
+Description: Amaretti cookies are an Italian classic at any holiday, and always my favorite dessert at the table.  This recipe is identical to the traditional, except with granulated <a href='/misc/hidden-sugar'>sugar</a> swapped for monk fruit.  Or you can make my <a href='/recipes/amaretti-cookies-with-dates'>Amaretti Cookies with Dates</a> instead if you prefer a more naturally sweetened version.  Both are gluten free, don't have any <a href='/misc/dairy#butter'>butter</a> or oil, and get their healthy <a href='/misc/fats'>fats</a> from almonds.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!  To use up those leftover yolks, whip up a quick <a href='/recipes/hollandaise'>Greek Yogurt Hollandaise Sauce</a>
 Instructions: 
 - In a large bowl, mix together the almond flour, sweetener, and salt
 
@@ -62,5 +62,5 @@ Instructions:
 - Roll each cookie into a small ball and place on baking sheet.  Roll the cookies in sweetener, and place back on the cookie sheet. Lightly flatten with your fingers
 
 - Bake for 12-13 minutes, rotating the sheets halfway through. Let cool on pan for 5 minutes, or until you can safely lift them up.  Transfer to a cooling rack
-- <center><img src="/assets/Food/Healthier Dessert/Amaretti/amaretti-7.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Amaretti/amaretti-7.jpg' alt="" class="instruction-image"></center>
 ---

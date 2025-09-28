@@ -54,7 +54,7 @@ tags:
 - dip
 - spread
 - dressing
-Description: Today I had a ton of fresh ginger left over lying around and a can of <a href="/misc/beans#black-beans">black beans</a> calling my name. Here, I've made hummus using black beans, ginger, and lime juice in place of the regular <a href="/misc/beans#chickpeas">chickpeas</a>, garlic, and lemon juice. The addition of the soy sauce and sesame oil takes it to another level. This recipe also contains no garlic or <a href="/misc/veggies#onion">onion</a> for those who are sensitive to it, and it only has 5 ingredients.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
+Description: Today I had a ton of fresh ginger left over lying around and a can of <a href='/misc/beans#black-beans'>black beans</a> calling my name. Here, I've made hummus using black beans, ginger, and lime juice in place of the regular <a href='/misc/beans#chickpeas'>chickpeas</a>, garlic, and lemon juice. The addition of the soy sauce and sesame oil takes it to another level. This recipe also contains no garlic or <a href='/misc/veggies#onion'>onion</a> for those who are sensitive to it, and it only has 5 ingredients.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
 Instructions: 
 - Using a strainer, drain and rinse your can of beans. Here, I used a 15.5 oz can of black beans, but chickpeas or any other beans would be perfect here too
 

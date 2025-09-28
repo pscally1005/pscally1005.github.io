@@ -54,14 +54,14 @@ tags:
 - parmesan cheese
 - parmesan cheese
 - nutritional yeast
-Description: Delicious pesto for a fraction of the <a href="/misc/calories">calories</a>!  Yes it's possible; this pesto is oil free, but still made with <a href="/misc/nuts#pine-nuts">pine nuts</a>, basil, garlic, and <a href="/misc/dairy#grated-cheese">grated cheese</a>.  It's a great sauce, spread, or salad dressing, and full of the same nutty, cheese, and lemon flavor that you love.  Check out some of my other <a href="/pesto">pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href="/misc/protein">protein</a> versions
+Description: Delicious pesto for a fraction of the <a href='/misc/calories'>calories</a>!  Yes it's possible; this pesto is oil free, but still made with <a href='/misc/nuts#pine-nuts'>pine nuts</a>, basil, garlic, and <a href='/misc/dairy#grated-cheese'>grated cheese</a>.  It's a great sauce, spread, or salad dressing, and full of the same nutty, cheese, and lemon flavor that you love.  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href='/misc/protein'>protein</a> versions
 Instructions: 
 - In a small pan over medium heat, toast your nuts until fragrant and lightly browned
 
 - Add all ingredients (except lemon juice) to a food processor, and blend until chopped and combined. Slowly add the lemon, and blend until creamy
 
 - Store in the fridge, or you can freeze any extra (pesto freezes well)
-- <center><img src="/assets/Food/Savory Sauces/Basil Pesto/basil-pesto.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Basil Pesto/basil-pesto.jpg' alt="" class="instruction-image"></center>
 
 - If basil is too expensive, either fresh or frozen spinach will work as well!
 

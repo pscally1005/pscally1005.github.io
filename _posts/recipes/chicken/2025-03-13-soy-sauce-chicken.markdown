@@ -44,7 +44,7 @@ tags:
 - breast
 - bake
 - marinade
-Description: This big plate of food (minus the <a href="/misc/grains#brown-rice">rice</a>) has under 400 <a href="/misc/calories">calories</a>, over 45 g of <a href="/misc/protein">protein</a>, and costs only $2.56. This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the <a href="/misc/meat#chicken-breast">chicken</a> and sprouts, that way it's easier to put together come dinner time. I like to pair it with a side of <a href="/misc/grains#brown-rice">brown rice</a> for a complete meal.
+Description: This big plate of food (minus the <a href='/misc/grains#brown-rice'>rice</a>) has under 400 <a href='/misc/calories'>calories</a>, over 45 g of <a href='/misc/protein'>protein</a>, and costs only $2.56. This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the <a href='/misc/meat#chicken-breast'>chicken</a> and sprouts, that way it's easier to put together come dinner time. I like to pair it with a side of <a href='/misc/grains#brown-rice'>brown rice</a> for a complete meal.
 Instructions: 
 - Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 

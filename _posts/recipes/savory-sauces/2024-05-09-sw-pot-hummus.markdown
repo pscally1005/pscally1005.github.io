@@ -55,7 +55,7 @@ tags:
 - turmeric
 - ginger
 - cayenne
-Description: After making my <a href="/recipes/air-fried-falafel">🧆 Air Fryer Falafel (GF) 🥙</a>, I realized that <a href="/misc/veggies#sweet-potato">sweet potato</a> and <a href="/misc/beans#chickpeas">chickpeas</a> are a fantastic combination.  This sweet potato hummus combines the two together perfectly, and has the addition of anti-inflammatory spices, such as ginger, turmeric, and cinnamon.  It's creamy and delicious on a salad or wrap, has a great orange hue, and is high in <a href="/misc/fiber">fiber</a> while being lower in <a href="/misc/fats">fat</a> than store-bought hummus.  You can also check out any of my other <a href="/salad-dressings">salad dressings</a> or <a href="/hummus">hummus recipes</a>!
+Description: After making my <a href='/recipes/air-fried-falafel'>🧆 Air Fryer Falafel (GF) 🥙</a>, I realized that <a href='/misc/veggies#sweet-potato'>sweet potato</a> and <a href='/misc/beans#chickpeas'>chickpeas</a> are a fantastic combination.  This sweet potato hummus combines the two together perfectly, and has the addition of anti-inflammatory spices, such as ginger, turmeric, and cinnamon.  It's creamy and delicious on a salad or wrap, has a great orange hue, and is high in <a href='/misc/fiber'>fiber</a> while being lower in <a href='/misc/fats'>fat</a> than store-bought hummus.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
 Instructions: 
 - Wash your sweet potato with a brush, and prick with a fork. Wrap in aluminum foil, and air fry at 400F for 1 hour. Slice open to let steam out as you prepare the rest of the ingredients
 

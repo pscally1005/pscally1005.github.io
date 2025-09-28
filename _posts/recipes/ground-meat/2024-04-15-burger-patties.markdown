@@ -47,17 +47,17 @@ tags:
 - sandwich
 - special sauce
 - big mac sauce
-Description: This is my healthy take on a classic burger sandwich. I've kept it simple with just a patty and my <a href="/recipes/burger-buns">No Yeast Whole Wheat Burger Buns</a>, so feel free to add whatever toppings or sauces you desire, like <a href="/misc/veggies#lettuce">lettuce</a>, tomato, and my <a href="/recipes/ketchup">Date Sweetened Ketchup</a>.  Or you can turn your sandwich into a salad with my <a href="/recipes/burger-bowl">Chopped Burger Bowl with Sweet Potatoes</a>
+Description: This is my healthy take on a classic burger sandwich. I've kept it simple with just a patty and my <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a>, so feel free to add whatever toppings or sauces you desire, like <a href='/misc/veggies#lettuce'>lettuce</a>, tomato, and my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>.  Or you can turn your sandwich into a salad with my <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a>
 Instructions: 
 - Combine all burger ingredients together in a bowl - meat, soy sauce, paprika, garlic, onion, black pepper, salt, and cayenne pepper
-- <center><img src="/assets/Food/Ground Meat/Burger Patties/patty-1.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Burger Patties/patty-1.jpg' alt="" class="instruction-image"></center>
 
 - Shape the meat into 4 equally sized balls, about 120 g each. Flatten into a burger patty shape (I should have flattened these more; keep in mind they will shrink a lot), and seal the sides to make an even circle with no jutting out edges. Lightly wetting your hands may help to prevent sticking
-- <center><img src="/assets/Food/Ground Meat/Burger Patties/patty-2.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Burger Patties/patty-2.jpg' alt="" class="instruction-image"></center>
 
 - Add your 4 patties to a preheated 400F air fryer. Air fry for 8-10 minutes, flipping halfway through, until the patties are at least 165F. Let sit for 5 minutes before assembling into burgers
-- <center><img src="/assets/Food/Ground Meat/Burger Patties/patty-3.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Burger Patties/patty-3.jpg' alt="" class="instruction-image"></center>
 
 - You could also cook them on a grill outside, or use a grill pan (or regular frying pan) over medium heat on your stove. Cook for a few minutes each side, flipping occasionally, until done to your liking
-- <center><img src="/assets/Food/Ground Meat/Burger Patties/grilling.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Burger Patties/grilling.jpg' alt="" class="instruction-image"></center>
 ---

@@ -47,15 +47,15 @@ tags:
 - sauerkraut
 - saurkraut
 - hot sauce
-Description: I'm not vegetarian, but I was in the mood to meal prep something vegetarian for either breakfast or dinner. It's got <a href="/misc/protein">protein</a> from the eggs, tofu, and <a href="/misc/beans">beans</a>, <a href="/misc/fats">fat</a> from the <a href="/misc/meat#eggs">eggs</a> and EVOO, <a href="/misc/carbs">carbs</a> from the beans, and plenty of <a href="/misc/fiber">fiber</a> from the <a href="/misc/veggies#spinach-fresh">spinach</a> and <a href="/misc/beans">beans</a> (did I mention the <a href="/misc/beans">beans</a> enough?). It's also a rich source of vitamins <a href="/misc/nutrient-alphabet#A">A</a>, <a href="/misc/nutrient-alphabet#R">B2</a>, <a href="/misc/nutrient-alphabet#F">B9</a>, <a href="/misc/vitamin-b12">B12</a>, and <a href="/misc/nutrient-alphabet#K">K</a>, as well as choline, <a href="/misc/magnesium">magnesium</a>, <a href="/misc/potassium">potassium</a>, and <a href="/misc/calcium">calcium</a>.
+Description: I'm not vegetarian, but I was in the mood to meal prep something vegetarian for either breakfast or dinner. It's got <a href='/misc/protein'>protein</a> from the eggs, tofu, and <a href='/misc/beans'>beans</a>, <a href='/misc/fats'>fat</a> from the <a href='/misc/meat#eggs'>eggs</a> and EVOO, <a href='/misc/carbs'>carbs</a> from the beans, and plenty of <a href='/misc/fiber'>fiber</a> from the <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/beans'>beans</a> (did I mention the <a href='/misc/beans'>beans</a> enough?). It's also a rich source of vitamins <a href='/misc/nutrient-alphabet#A'>A</a>, <a href='/misc/nutrient-alphabet#R'>B2</a>, <a href='/misc/nutrient-alphabet#F'>B9</a>, <a href='/misc/vitamin-b12'>B12</a>, and <a href='/misc/nutrient-alphabet#K'>K</a>, as well as choline, <a href='/misc/magnesium'>magnesium</a>, <a href='/misc/potassium'>potassium</a>, and <a href='/misc/calcium'>calcium</a>.
 Instructions: 
 - Heat a large pan over medium heat with olive oil. Add spinach and spices (garlic, onion, paprika, chili, salt, and pepper). Cover and cook until most of the water has cooked off (about 10 minutes)
 
 - Add your block of tofu to the pan and mash with a wooden spoon. Crack in your eggs, and mix into the spinach and tofu. Cook the mix over medium low heat until the eggs are just cooked (about 3-5 minutes)
 
 - Drain and rinse your beans, and mix into the egg mixture with nutritional yeast. Divide into 4 servings
-- <center><img src="/assets/Food/Meatless/Vegetarian/pan.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Meatless/Vegetarian/pan.jpg' alt="" class="instruction-image"></center>
 
 - To reheat, microwave on high for 2 minutes, and then top with sauerkraut or hot sauce
-- <center><img src="/assets/Food/Meatless/Vegetarian/portions.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Meatless/Vegetarian/portions.jpg' alt="" class="instruction-image"></center>
 ---

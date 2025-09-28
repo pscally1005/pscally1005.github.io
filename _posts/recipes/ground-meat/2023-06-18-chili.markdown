@@ -61,7 +61,7 @@ tags:
 - vegetable
 - vic
 - cornbread
-Description: Chili is such a classic cold weather hearty meal, and this version comes together pretty quickly and makes a lot of food. Mix in some elbow noodles or <a href="/misc/grains#brown-rice">rice</a> if you want to bulk it up even more. Nothing beats the smell of coming home and smelling fresh chili just waiting for you for dinner.  Chili pairs so well with cornbread, so check out my <a href="/recipes/cornbread">Cheesy Protein Cornbread</a> for a high <a href="/misc/protein">protein</a> and delicious side dish!  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
+Description: Chili is such a classic cold weather hearty meal, and this version comes together pretty quickly and makes a lot of food. Mix in some elbow noodles or <a href='/misc/grains#brown-rice'>rice</a> if you want to bulk it up even more. Nothing beats the smell of coming home and smelling fresh chili just waiting for you for dinner.  Chili pairs so well with cornbread, so check out my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> for a high <a href='/misc/protein'>protein</a> and delicious side dish!  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions: 
 - Chop up the vegetables, and add them to a large skillet with olive oil, garlic, and salt. Cook over medium heat (covered) until soft. Set vegetables aside in crock pot
 
@@ -70,5 +70,5 @@ Instructions:
 - Add in the meat and cook until no longer pink over medium heat, and transfer to crockpot
 
 - Cover and cook for 8 hours on low or 6 hours on high
-- <center><img src="/assets/Food/Ground Meat/Chili/chili-4.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Chili/chili-4.jpg' alt="" class="instruction-image"></center>
 ---

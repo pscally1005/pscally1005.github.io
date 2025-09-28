@@ -46,7 +46,7 @@ tags:
 - sauce
 - gochujang
 - marinate
-Description: <a href="/misc/beef">Beef</a> and <a href="/misc/veggies#broccoli">broccoli</a> is a Chinese classic, and making this version at home is what got me to like steak if cooked properly. I saw a small piece of sirloin on sale at the store and wanted to try it out, and I'm very impressed with the results. Sauteed <a href="/misc/meat#ground-beef">beef</a>, broccoli, and a topping of <a href="/misc/seeds#sesame-seeds">sesame</a> seeds sounds delicious in my book
+Description: <a href='/misc/beef'>Beef</a> and <a href='/misc/veggies#broccoli'>broccoli</a> is a Chinese classic, and making this version at home is what got me to like steak if cooked properly. I saw a small piece of sirloin on sale at the store and wanted to try it out, and I'm very impressed with the results. Sauteed <a href='/misc/meat#ground-beef'>beef</a>, broccoli, and a topping of <a href='/misc/seeds#sesame-seeds'>sesame</a> seeds sounds delicious in my book
 Instructions: 
 - Heat your oven to 400F, and line a cookie sheet with parchment paper. Add broccoli to the pan, season with salt, pepper, and oil, and roast for 30 minutes. Do everything else as the broccoli cooks
 
@@ -55,13 +55,13 @@ Instructions:
 - Add in the marinade (salt, starch, baking soda, soy sauce, and sesame oil). Mix to fully coat the meat, and let marinate for 15 minutes
 
 - Meanwhile, mix the sauce together in a glass - minced garlic, soy sauce, white vinegar ginger, garlic powder, black pepper, and red pepper flakes. In a separate glass, prepare some cold water and cornstarch for a slurry
-- <center><img src="/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-4.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-4.jpg' alt="" class="instruction-image"></center>
 
 - Preheat a large stainless steel pan over medium high heat. Add in the beef, and cook for about 2 minutes per side, just until browned and not overcooked. Remove from the pan
-- <center><img src="/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-5.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-5.jpg' alt="" class="instruction-image"></center>
 
 - Add in the sauce, broccoli, and about half of the slurry. Deglaze the pan, cook for about 2 minutes, and add more slurry if you want to thicken the sauce more. Add back in the beef
-- <center><img src="/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-6.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-6.jpg' alt="" class="instruction-image"></center>
 
 - Optionally serve over rice, and top with sesame seeds
 ---

@@ -47,7 +47,7 @@ tags:
 - broccoli
 - baked potato
 - vic
-Description: I've never been a big fan of <a href="/misc/meat#pork-tenderloin">pork</a>, but I've been wanting to give it a try, and I found some on sale a few days ago. Pork tenderloin is a very lean but still juicy cut of meat, as long as you cook it properly. It's also fairly cheap too, this was only $2.69 for 1 lb. I've paired this with a side of <a href="/recipes/baked-sweet-potato">Baked Sweet Potatoes</a> and <a href="/recipes/roasted-vegetables">Simply Roasted Vegetables</a>, but feel free to throw it together with whatever you have in your fridge
+Description: I've never been a big fan of <a href='/misc/meat#pork-tenderloin'>pork</a>, but I've been wanting to give it a try, and I found some on sale a few days ago. Pork tenderloin is a very lean but still juicy cut of meat, as long as you cook it properly. It's also fairly cheap too, this was only $2.69 for 1 lb. I've paired this with a side of <a href='/recipes/baked-sweet-potato'>Baked Sweet Potatoes</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>, but feel free to throw it together with whatever you have in your fridge
 Instructions: 
 - Trim any excess fat off the side of the meat, and cut into 4 pieces. Light season all sides with salt, pepper, and garlic
 
@@ -55,7 +55,7 @@ Instructions:
 
 - Line a cookie sheet with parchment, and add your meat. Bake in a preheated 350F oven for 13-15 minutes, or until the pork is 150F. Let the meat rest for a few minutes before slicing
 
-- To keep things simple, I'll just be pairing the pork with some <a href="/recipes/baked-sweet-potato">Baked Sweet Potatoes</a> and <a href="/recipes/roasted-vegetables">Simply Roasted Vegetables</a>. You can check out those simple recipes, but I'll give you the short version here
+- To keep things simple, I'll just be pairing the pork with some <a href='/recipes/baked-sweet-potato'>Baked Sweet Potatoes</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>. You can check out those simple recipes, but I'll give you the short version here
 
 - For the potatoes - wash with a brush, poke with a fork, wrap in aluminum foil, and air fry at 400F for about 45 minutes
 

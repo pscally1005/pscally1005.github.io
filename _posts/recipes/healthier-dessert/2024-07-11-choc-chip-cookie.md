@@ -49,29 +49,29 @@ tags:
 - beans
 - chickpeas
 - garbanzo beans
-Description: Delicious cookies made from a base of <a href="/misc/beans">beans</a>, <a href="/misc/fruit#dates">dates</a>, and natural <a href="/recipes/natural-peanut-butter">nut butter</a>!  They're <a href="/misc/hidden-sugar">sugar</a> free, oil free, and gluten free.  They can be vegan too (swap the <a href="/misc/dairy#skim-milk">milk</a> for water and use vegan chocolate).  This is my standard chocolate chip cookie version.  For other delicious variations, check out my <a href="/recipes/double-chocolate-date-cookies">Double Chocolate Date Cookies</a> and my <a href="/recipes/peanut-butter-date-cookies">Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!  Or check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: Delicious cookies made from a base of <a href='/misc/beans'>beans</a>, <a href='/misc/fruit#dates'>dates</a>, and natural <a href='/recipes/natural-peanut-butter'>nut butter</a>!  They're <a href='/misc/hidden-sugar'>sugar</a> free, oil free, and gluten free.  They can be vegan too (swap the <a href='/misc/dairy#skim-milk'>milk</a> for water and use vegan chocolate).  This is my standard chocolate chip cookie version.  For other delicious variations, check out my <a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a> and my <a href='/recipes/peanut-butter-date-cookies'>Peanut Butter Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F, and line a cookie sheet with parchment paper
 
 - Add the beans, dates, nut butter, milk (or water), vanilla, and salt to a food processor and blend until smooth
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-unblended.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-unblended.jpg' alt="" class="instruction-image"></center>
 
 - I've used almond butter here, but any nut butter will work, like peanut or cashew butter.  For a nut free option, use tahini or pumpkin seed butter
 
 - For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change
 
-- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-blended.jpg" alt="" class="instruction-image"></center>
+- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
+- <center><img src='/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-blended.jpg' alt="" class="instruction-image"></center>
 
 - Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-raw.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-raw.jpg' alt="" class="instruction-image"></center>
 
 - Bake for about 14 minutes at 350F, or until the tops and edges are lightly golden brown and the cookies are set to the touch
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-baked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-baked.jpg' alt="" class="instruction-image"></center>
 
 - Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cool.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cool.jpg' alt="" class="instruction-image"></center>
 
 - Or leave out the baking soda and enjoy as edible cookie dough bites
-- <center><img src="/assets/Food/Healthier Dessert/Choc Chip Cookie/cookie-dough.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Choc Chip Cookie/cookie-dough.jpg' alt="" class="instruction-image"></center>
 ---

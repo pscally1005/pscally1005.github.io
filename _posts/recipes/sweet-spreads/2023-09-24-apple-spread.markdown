@@ -61,7 +61,7 @@ tags:
 - sandwich
 - spread
 - toast
-Description: Apple spread is my go to recipe in the fall, when I have too many <a href="/misc/fruit#apple">apples</a> from apple picking and I need to use up all 40 before they go bad. This apple butter has no added sugars, as the apples are more than sweet enough to flavor it. You can use this in place of unsweetened applesauce or mashed <a href="/misc/fruit#banana">banana</a> in any recipes for a significantly better result.  For the ultimate <a href="/misc/nuts#peanuts">peanut</a> butter and jelly, make some <a href="/recipes/natural-peanut-butter">Homemade Natural Nut Butter</a> and <a href="/recipes/ww-bread">100% Whole Wheat Bread</a>
+Description: Apple spread is my go to recipe in the fall, when I have too many <a href='/misc/fruit#apple'>apples</a> from apple picking and I need to use up all 40 before they go bad. This apple butter has no added sugars, as the apples are more than sweet enough to flavor it. You can use this in place of unsweetened applesauce or mashed <a href='/misc/fruit#banana'>banana</a> in any recipes for a significantly better result.  For the ultimate <a href='/misc/nuts#peanuts'>peanut</a> butter and jelly, make some <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> and <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>
 Instructions: 
 - Cut each apple into 8ths and place in a crock pot.  An entire 3 lb bag, or about 9-10 gala apples, will be good for this recipe. Add cinnamon, ginger, cloves, and water
 
@@ -70,5 +70,5 @@ Instructions:
 - Use an immersion blender to blend up the apples until everything is smooth
 
 - Loosely cover and cook on low for another 6 hours, stirring occasionally. Mix in lemon juice when done (to help preserve it).  Store in a mason jar
-- <center><img src="/assets/Food/Sweet Spreads/Apple Spread/apple-spread-4.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sweet Spreads/Apple Spread/apple-spread-4.jpg' alt="" class="instruction-image"></center>
 ---

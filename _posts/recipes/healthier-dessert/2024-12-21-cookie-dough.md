@@ -50,21 +50,21 @@ tags:
 - almond butter
 - gluten free
 - healthy
-Description: Who else agrees that raw cookie dough is better than the actual baked cookies?  This cookie dough is gluten free, lower in <a href="/misc/hidden-sugar">sugar</a> and <a href="/misc/fats">fat</a>, and vegan (depending on your chocolate).  Instead of <a href="/misc/dairy#butter">butter</a>, <a href="/misc/hidden-sugar">sugar</a>, and flour, I've used <a href="/misc/nuts#cashews">cashew</a> butter, honey, and <a href="/misc/grains#oats">oat flour</a> for a more wholesome dessert that's just as delicious.  If instead you prefer baked cookies, check out my <a href="/recipes/date-cookies">Almond Flour Cookies</a> or <a href="/recipes/chocolate-chip-date-cookies">Chocolate Chip Date Cookies</a>.  Or check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: Who else agrees that raw cookie dough is better than the actual baked cookies?  This cookie dough is gluten free, lower in <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fats'>fat</a>, and vegan (depending on your chocolate).  Instead of <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and flour, I've used <a href='/misc/nuts#cashews'>cashew</a> butter, honey, and <a href='/misc/grains#oats'>oat flour</a> for a more wholesome dessert that's just as delicious.  If instead you prefer baked cookies, check out my <a href='/recipes/date-cookies'>Almond Flour Cookies</a> or <a href='/recipes/chocolate-chip-date-cookies'>Chocolate Chip Date Cookies</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions: 
-- Melt your cashew butter and coconut oil (or olive oil) in the microwave for about 45 seconds in a glass bowl. Stir in the honey, vanilla, and salt with a <a href="https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605">silicone spatula</a>. Mix in the oat flour until fully incorporated and slightly sticky. 
+- Melt your cashew butter and coconut oil (or olive oil) in the microwave for about 45 seconds in a glass bowl. Stir in the honey, vanilla, and salt with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Mix in the oat flour until fully incorporated and slightly sticky. 
 
 - Chill the dough in the fridge for at least 15 minutes before folding in the chocolate chips.  I've made the mistake before of mixing in the chocolate right away, which causes it to melt, since the nut butter was warmed up
 
-- I'm using cashew butter here because it provides richness, healthy <a href="/misc/fats">fats</a>, and binds together the ingredients, but still has a neutral taste that will leave this tasting more like a standard cookie dough.  Almond butter would also be good, or you can use sunflower seed butter or tahini to keep it nut free.  Peanut butter also works, but it will have a distinct peanut butter flavor, which is something to keep in mind
+- I'm using cashew butter here because it provides richness, healthy <a href='/misc/fats'>fats</a>, and binds together the ingredients, but still has a neutral taste that will leave this tasting more like a standard cookie dough.  Almond butter would also be good, or you can use sunflower seed butter or tahini to keep it nut free.  Peanut butter also works, but it will have a distinct peanut butter flavor, which is something to keep in mind
 
-- As for the sweetener, I'm using honey here, but either maple syrup or sugar free syrup (bottled or <a href="/recipes/sugar-free-syrup">homemade</a>) will work as well
+- As for the sweetener, I'm using honey here, but either maple syrup or sugar free syrup (bottled or <a href='/recipes/sugar-free-syrup'>homemade</a>) will work as well
 
 - You can also used dates (or raisins or figs) if you prefer.  Blend together the nut butter with 1/2 cup (80 g) of dates until smooth, and transfer to a bowl.  Mix in the rest of the ingredients, but reduce the oat flour to 1 cup (90 g)
 
 - Replace 1/4 cup (20 g) oat flour with cocoa powder for a double chocolate cookie dough
 
-- For the chocolate, you can go with either dark chocolate chips or chopped chunks of dark chocolate.  You can also try sugar free chocolate chips, chopped up <a href="/recipes/chocolate-bar">Sugar Free Chocolate Bar</a>, raisins, or chopped nuts
+- For the chocolate, you can go with either dark chocolate chips or chopped chunks of dark chocolate.  You can also try sugar free chocolate chips, chopped up <a href='/recipes/chocolate-bar'>Sugar Free Chocolate Bar</a>, raisins, or chopped nuts
 
 - Use a cookie scoop or a spoon to scoop your dough onto a plate (about 20 g each). Roll with your hands into a ball, and store in the fridge
 ---

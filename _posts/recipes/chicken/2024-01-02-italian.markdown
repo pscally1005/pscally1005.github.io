@@ -50,7 +50,7 @@ tags:
 - parmesan
 - cheese
 - lemon
-Description: This simple and healthy meal is a go to favorite of mine. Just roast cubed <a href="/misc/veggies#acorn-squash">acorn squash</a> and thinly sliced <a href="/misc/meat#chicken-breast">chicken</a> breasts with Italian herbs and spices for a delicious and quick meal. Both the <a href="/misc/meat">meat</a> and the <a href="/misc/veggies">vegetables</a> can be prepped ahead of time, ready to stick in the oven when you get home from work. I've paired this here with a side of roasted potatoes, but <a href="/misc/grains#brown-rice">rice</a>, <a href="/misc/beans">beans</a>, or <a href="/misc/veggies#sweet-potato">sweet potatoes</a> are also good picks!
+Description: This simple and healthy meal is a go to favorite of mine. Just roast cubed <a href='/misc/veggies#acorn-squash'>acorn squash</a> and thinly sliced <a href='/misc/meat#chicken-breast'>chicken</a> breasts with Italian herbs and spices for a delicious and quick meal. Both the <a href='/misc/meat'>meat</a> and the <a href='/misc/veggies'>vegetables</a> can be prepped ahead of time, ready to stick in the oven when you get home from work. I've paired this here with a side of roasted potatoes, but <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/beans'>beans</a>, or <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> are also good picks!
 Instructions: 
 - Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 
@@ -65,5 +65,5 @@ Instructions:
 - Season the chicken with oil, balsamic, lemon juice, basil, thyme, onion powder, garlic powder, salt, and pepper
 
 - Transfer the chicken to the pan. Roast at 400F for about 13 minutes, or until the internal temperature just reaches 165F
-- <center><img src="/assets/Food/Chicken/Italian/roasted.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Italian/roasted.jpg' alt="" class="instruction-image"></center>
 ---

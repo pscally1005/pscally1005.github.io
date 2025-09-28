@@ -52,7 +52,7 @@ tags:
 - crushed tomatoes
 - bowl
 - dutch oven
-Description: This simple Ratatouille is a stewed dish of various <a href="/misc/veggies">vegetables</a> in a tomato sauce. This is my preferred way to make this dish, as it's way simpler like this, but feel free to make it look pretty like in the movie.  You can also check out any of my other <a href="/soups-and-stews">soups and stews</a>!
+Description: This simple Ratatouille is a stewed dish of various <a href='/misc/veggies'>vegetables</a> in a tomato sauce. This is my preferred way to make this dish, as it's way simpler like this, but feel free to make it look pretty like in the movie.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions: 
 - Preheat the oven to 350F
 
@@ -63,5 +63,5 @@ Instructions:
 - Add the vegetables (zucchini, yellow squash, eggplant, and tomatoes) into the pan. Bake at 350F for 60 minutes, covered
 
 - Remove the cover and continue baking until the vegetables are very soft and the ratatouille is bubbling, another 45 minutes, or until the vegetables are softened to your liking. Let cool for a few minutes before serving
-- <center><img src="/assets/Food/Meatless/Ratatouille/ratatouille-pot.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Meatless/Ratatouille/ratatouille-pot.jpg' alt="" class="instruction-image"></center>
 ---

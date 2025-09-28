@@ -47,24 +47,24 @@ tags:
 - thanksgiving
 - halloween
 - canned pumpkin
-Description: This is less of a recipe and more of a method, as you'd probably use pumpkin puree in something else. Try replacing mashed <a href="/misc/fruit#banana">bananas</a> or unsweetened applesauce in my baked goods with this for a delicious fall twist.<br>&emsp;Similar is my <a href="/recipes/sweet-potato-puree">Roasted Sweet Potato Puree</a>, which can also be used just like pumpkin puree!  Below are some great pumpkin or sweet potato recipes that you can use your puree on:<br><ul>
-    <li><a href="/recipes/oats-pumpkin">Pumpkin Pie Protein Overnight Oats</a></li>
-    <li><a href="/recipes/pancake">Pumpkin Protein Pancakes</a></li>
-    <li><a href="/recipes/sweet-potato-banana-muffins">Sweet Potato Banana Mini Muffins</a></li>
-    <li><a href="/recipes/sweet-potato-yogurt">Sweet Potato Yogurt with Slices Strawberries</a></li>
-    <li><a href="/recipes/sweet-potato-brownies">Sweet Potato Brownies</a><br></li>
-    <li><a href="/recipes/sweet-potato-blondies">Sweet Potato Blondies</a><br></li>
-    <li><a href="/recipes/pumpkin-bread">Protein Pumpkin Bread</a><br></li>
-    <li><a href="/recipes/pumpkin-pie">Perfect Protein Packed Pumpkin Pie</a></li>
-    <li><a href="/recipes/pumpkin-cake">Frosted Pumpkin Cake</a></li></ul>
+Description: This is less of a recipe and more of a method, as you'd probably use pumpkin puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or unsweetened applesauce in my baked goods with this for a delicious fall twist.<br>&emsp;Similar is my <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, which can also be used just like pumpkin puree!  Below are some great pumpkin or sweet potato recipes that you can use your puree on:<br><ul>
+    <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
+    <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>
+    <li><a href='/recipes/sweet-potato-banana-muffins'>Sweet Potato Banana Mini Muffins</a></li>
+    <li><a href='/recipes/sweet-potato-yogurt'>Sweet Potato Yogurt with Slices Strawberries</a></li>
+    <li><a href='/recipes/sweet-potato-brownies'>Sweet Potato Brownies</a><br></li>
+    <li><a href='/recipes/sweet-potato-blondies'>Sweet Potato Blondies</a><br></li>
+    <li><a href='/recipes/pumpkin-bread'>Protein Pumpkin Bread</a><br></li>
+    <li><a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a></li>
+    <li><a href='/recipes/pumpkin-cake'>Frosted Pumpkin Cake</a></li></ul>
 Instructions: 
 - Wash the pumpkin, cut off the stem, and slice in half.  Scoop out the seeds with a spoon
 
 - Place the pumpkin halves cut side down on a parchment line baking sheet, and roast at 400F until fork tender (about 45 minutes).  Flip over to let steam out for a few minutes
-- <center><img src="/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-raw.jpg" alt="" class="half-page"><img src="/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cooked.jpg" alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-raw.jpg' alt="" class="half-page"><img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cooked.jpg' alt="" class="half-page"></center>
 
 - Cut off the ends, and transfer to a food processor (with the skins!!).  Blend until smooth
-- <center><img src="/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-pureed.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-pureed.jpg' alt="" class="instruction-image"></center>
 
 - My whole raw pumpkin weighed 764 g, and I ended up with 368 g of puree.  That's about 1.5 cups or 3 servings of 1/2 cup (120 g)
 ---

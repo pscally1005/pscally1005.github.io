@@ -53,7 +53,7 @@ tags:
 - taco night
 - fodmap
 - low fodmap
-Description: This 5 minute salsa uses pantry staple canned ingredients and some spices. No chopping necessary! Just pulse everything in a food processor, and adjust the taste and texture to your liking.  This salsa also contains no garlic or <a href="/misc/veggies#onion">onion</a> for those that are allergic.  I love to make this with either my <a href="/recipes/taco">Sauteed Taco Meat and Fajita Veggies</a> or <a href="/recipeslow-fodmap-tacos">Low FODMAP Chicken Tacos</a>
+Description: This 5 minute salsa uses pantry staple canned ingredients and some spices. No chopping necessary! Just pulse everything in a food processor, and adjust the taste and texture to your liking.  This salsa also contains no garlic or <a href='/misc/veggies#onion'>onion</a> for those that are allergic.  I love to make this with either my <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a> or <a href='/recipeslow-fodmap-tacos'>Low FODMAP Chicken Tacos</a>
 Instructions: 
 - Lightly drain the can of tomatoes through a gap in the can top.  Don't use a strainer or you'll lose too much
 
@@ -61,7 +61,7 @@ Instructions:
 
 - <center></center><i>Note 1</i> - If you have finely diced tomatoes you don't even need a food processor, just a bowl<br>
 
-- <center></center><i>Note 2</i> - Save the tomato liquid for cooking. I like to throw a splash of it in with the <a href="/recipes/taco">taco meat</a>, since I often make these two at the same time<br>
+- <center></center><i>Note 2</i> - Save the tomato liquid for cooking. I like to throw a splash of it in with the <a href='/recipes/taco'>taco meat</a>, since I often make these two at the same time<br>
 
 - <center></center><i>Note 3</i> - You can substitute soy sauce with another 1 tbsp (15 g) of hot sauce
 ---

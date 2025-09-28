@@ -48,19 +48,19 @@ tags:
 - gluten free
 - coconut macaroons
 - coconut macarons
-Description: These healthy cookies are a cross between <a href="/recipes/coconut-macaroons">Coconut Macaroons</a> and my <a href="/recipes/keto-chocolate-chip-cookies">Keto Chocolate Chip Cookies</a>. Instead of <a href="/recipes/natural-peanut-butter">cashew butter</a>, I'm using a base of <a href="/recipes/natural-peanut-butter">coconut butter</a>, and I'm sweetening my cookies with <a href="/recipes/sugar-free-syrup">sugar free syrup</a>. Coconut flour helps bind everything into a dough, while providing plenty of <a href="/misc/fiber">fiber</a> and some natural sweetness. Coconut's high <a href="/misc/fats">saturated fat</a> content is shown to be beneficial, as this <a href="/misc/fats">fat</a> comes in the form of MCTs, or Medium Chain Tryglicerides, which  tend to be burned more like <a href="/misc/carbs">carbs</a>, without the corresponding <a href="/misc/diabetes">blood sugar spike</a>. Each cookie has just under 2 g <a href="/misc/carbs">net carbs</a>!  Or check out any of my other <a href="/cookies">cookie recipes</a>!
+Description: These healthy cookies are a cross between <a href='/recipes/coconut-macaroons'>Coconut Macaroons</a> and my <a href='/recipes/keto-chocolate-chip-cookies'>Keto Chocolate Chip Cookies</a>. Instead of <a href='/recipes/natural-peanut-butter'>cashew butter</a>, I'm using a base of <a href='/recipes/natural-peanut-butter'>coconut butter</a>, and I'm sweetening my cookies with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>. Coconut flour helps bind everything into a dough, while providing plenty of <a href='/misc/fiber'>fiber</a> and some natural sweetness. Coconut's high <a href='/misc/fats'>saturated fat</a> content is shown to be beneficial, as this <a href='/misc/fats'>fat</a> comes in the form of MCTs, or Medium Chain Tryglicerides, which  tend to be burned more like <a href='/misc/carbs'>carbs</a>, without the corresponding <a href='/misc/diabetes'>blood sugar spike</a>. Each cookie has just under 2 g <a href='/misc/carbs'>net carbs</a>!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F, and line a large cookie sheet with parchment paper
 
-- Add your coconut to a food processor, and blend on high for about 5 minutes, scraping the sides every minute. Blend until you have a smooth coconut butter, aka <a href="/recipes/natural-peanut-butter">"peanut butter"</a>, but with coconut instead
-- <center><img src="/assets/Food/Healthier Dessert/Coconut Cookies/coconut-butter.jpg" alt="" class="instruction-image"></center>
+- Add your coconut to a food processor, and blend on high for about 5 minutes, scraping the sides every minute. Blend until you have a smooth coconut butter, aka <a href='/recipes/natural-peanut-butter'>"peanut butter"</a>, but with coconut instead
+- <center><img src='/assets/Food/Healthier Dessert/Coconut Cookies/coconut-butter.jpg' alt="" class="instruction-image"></center>
 
-- Add your <a href="/recipes/sugar-free-syrup">sugar free syrup</a>, egg, salt, and baking soda to the processor. Blend until smooth, and transfer to a large bowl
+- Add your <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, egg, salt, and baking soda to the processor. Blend until smooth, and transfer to a large bowl
 
-- Add in the coconut flour 2 tbsp (15 g) at a time, and mix with a <a href="https://www.amazon.com/dp/B0C37QM1K3?campaignId=amzn1.campaign.1OO1S5W7ZMYBB">silicone spatula</a> until you have a slightly sticky cookie dough. Coconut flour <a href="/misc/water-absorption#coconut">absorbs a lot of water</a>, so we're adding it slowly to make sure we don't accidentally add too much. Chill the dough in the fridge for about 10 minutes
+- Add in the coconut flour 2 tbsp (15 g) at a time, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?campaignId=amzn1.campaign.1OO1S5W7ZMYBB'>silicone spatula</a> until you have a slightly sticky cookie dough. Coconut flour <a href='/misc/water-absorption#coconut'>absorbs a lot of water</a>, so we're adding it slowly to make sure we don't accidentally add too much. Chill the dough in the fridge for about 10 minutes
 
 - Scoop about 1 tbsp (~19 g) per cookie and place onto the sheet. Lightly wet your hands to prevent sticking, and roll into balls. Flatten down into circles. Leave about an inch between each cookie. They will puff up very slightly in the oven, but not expand outwards
 
 - Bake at 350F for about 12 minutes, or until the bottom and sides are very slightly browned. Let cool on the sheet for 10 minutes before removing
-- <center><img src="/assets/Food/Healthier Dessert/Coconut Cookies/baked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Coconut Cookies/baked.jpg' alt="" class="instruction-image"></center>
 ---

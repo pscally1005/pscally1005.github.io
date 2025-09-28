@@ -53,12 +53,12 @@ tags:
 - banana
 - ice cream
 - frozen yogurt
-Description: Banana ice cream was an Internet trend for a reason - it tastes really good, is a super customizable base, and is much healthier than traditional ice cream. Without <a href="/misc/hidden-sugar">added sugar</a> or heavy cream, <a href="/misc/fruit#banana">banana</a> ice cream tastes and feels just like real ice cream, and can be made in 5 minutes.  I love to use it to make <a href="/recipes/nice-cream-sandwiches">Nice Cream Sandwiches</a>, or you can make a larger batch with multiple flavors using my <a href="/recipes/neopolitan-banana-ice-cream">Neopolitan Banana Ice Cream</a>.  Another popular internet healthy ice cream trend was <a href="/recipes/cottage-cheese-ice-cream">Cottage Cheese Ice Cream</a>, which is delicious and packed with <a href="/misc/protein">protein</a>!
+Description: Banana ice cream was an Internet trend for a reason - it tastes really good, is a super customizable base, and is much healthier than traditional ice cream. Without <a href='/misc/hidden-sugar'>added sugar</a> or heavy cream, <a href='/misc/fruit#banana'>banana</a> ice cream tastes and feels just like real ice cream, and can be made in 5 minutes.  I love to use it to make <a href='/recipes/nice-cream-sandwiches'>Nice Cream Sandwiches</a>, or you can make a larger batch with multiple flavors using my <a href='/recipes/neopolitan-banana-ice-cream'>Neopolitan Banana Ice Cream</a>.  Another popular internet healthy ice cream trend was <a href='/recipes/cottage-cheese-ice-cream'>Cottage Cheese Ice Cream</a>, which is delicious and packed with <a href='/misc/protein'>protein</a>!
 Instructions: 
 - Break up the bananas into pieces. They don't need to be that small, maybe an inch thick. Freeze overnight in an airtight bag
 
 - The next day, blend the bananas in a food processor until you have a smooth ice cream.  Enjoy immediately for soft serve ice cream, or freeze for about 30 minutes for a harder ice cream texture
-- <center><img src="/assets/Food/Healthier Dessert/Nice Cream/processor.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Nice Cream/processor.jpg' alt="" class="instruction-image"></center>
 
 - Here are some flavor options you can try:<br><ul><li><b>Chocolate</b><ul><li>6 tbsp (30 g) cocoa powder</li><li>1/2 tsp (2.5 g) vanilla extract</li></ul></li><li><b>Vanilla</b><ul><li>1 tsp (5 g) vanilla extract</li></ul><li><b>Peanut Butter</b><ul><li>2 tbsp (32 g) natural peanut butter</li></ul></li><li><b>Mint</b><ul><li>1/4 tsp (1.25 g) mint extract</li></ul></li><li><b>Fruity</b><ul><li>Replace half of the frozen bananas with frozen strawberries, blueberries, or mangoes</li><li>1/2 tsp (1.5 g) cinnamon</li></ul></li><li><b>Almond</b><ul><li>2 tbsp (32 g) almond butter</li><li>1/2 tsp (2.5 g) almond extract</li></ul></li></ul>
 ---

@@ -60,12 +60,12 @@ tags:
 - chocolate chips
 - victoria
 - vic
-Description: An overnight <a href="/misc/grains#oats">oats</a> recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of <a href="/misc/fiber">fiber</a>, <a href="/misc/protein">protein</a>, and <a href="/misc/fats">healthy <a href="/misc/fats">fats</a></a> to start your morning off right.  For a variation without protein powder, check out my <a href="/recipes/no-protein-powder-oatmeal">Overnight Oats with no Protein Powder</a>.  Or you can check out any of my other <a href="/oatmeal">oatmeal recipes</a>!
+Description: An overnight <a href='/misc/grains#oats'>oats</a> recipe I developed for my girlfriend, which I made a little sweeter than my standard overnight oats, but still with a good dose of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>healthy <a href='/misc/fats'>fats</a></a> to start your morning off right.  For a variation without protein powder, check out my <a href='/recipes/no-protein-powder-oatmeal'>Overnight Oats with no Protein Powder</a>.  Or you can check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
 Instructions: 
 - In a small airtight container, add your banana, and mash with the back of a fork.  Add in the rest of the ingredients, and stir together with a spoon until fully combined.  Store in the fridge overnight (or at least 2 hours)
 
-- Some ingredient swaps include:<br><ul><li>Unsweetened applesauce (6 tbsp, 90 g) in place of mashed banana</li><li><a href="/recipes/berry-jam">Low Sugar Berry Jam</a> or <a href="/recipes/strawberry-chia-jam">Strawberry Chia Jam</a> (1 tbsp, 20 g) instead of honey (1/2 tbsp, 10 g)</li><li>Whey protein instead of casein (same amount by weight and volume, but it'll be less thick)</li><li>Optionally, you can also add 1/4 tsp (1.25 g) liquid monk fruit or 1 tbsp (15 g) mini chocolate chips if you want it slightly sweeter</li></ul>
+- Some ingredient swaps include:<br><ul><li>Unsweetened applesauce (6 tbsp, 90 g) in place of mashed banana</li><li><a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> or <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a> (1 tbsp, 20 g) instead of honey (1/2 tbsp, 10 g)</li><li>Whey protein instead of casein (same amount by weight and volume, but it'll be less thick)</li><li>Optionally, you can also add 1/4 tsp (1.25 g) liquid monk fruit or 1 tbsp (15 g) mini chocolate chips if you want it slightly sweeter</li></ul>
 
 - You can turn this into baked oats by doing the following:<ul><li>Double the milk to 6 tbsp (90 g)</li><li>Add 1/2 tsp (2.5 g) baking powder</li><li>Lightly grease a mini muffin pan</li><li>Bake at 350F for 14 minutes, or until a toothpick comes out nearly clean</li><li>Makes 16 mini muffins</li></ul>
-- <center><img src="/assets/Food/Breakfast/Vic Oats/baked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Vic Oats/baked.jpg' alt="" class="instruction-image"></center>
 ---

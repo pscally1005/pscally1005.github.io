@@ -47,7 +47,7 @@ tags:
 - carrot
 - veggie
 - chili
-Description: I'm referring to these as "long weekend", as it will make breakfast for you for 3 days. Here's a simple veggie packed scrambled eggs, with each serving having 2 <a href="/misc/meat#eggs">eggs</a> and plenty of <a href="/misc/veggies">vegetables</a>. It's simple to make, and you won't have to worry about breakfast for the next few days.  Other meal prep <a href="/misc/meat#eggs">egg</a> recipes include my <a href="/recipes/egg-wrap">Meal Prep Egg Wraps</a> and my <a href="/recipes/frittata">Spinach and Onion Frittata</a>
+Description: I'm referring to these as "long weekend", as it will make breakfast for you for 3 days. Here's a simple veggie packed scrambled eggs, with each serving having 2 <a href='/misc/meat#eggs'>eggs</a> and plenty of <a href='/misc/veggies'>vegetables</a>. It's simple to make, and you won't have to worry about breakfast for the next few days.  Other meal prep <a href='/misc/meat#eggs'>egg</a> recipes include my <a href='/recipes/egg-wrap'>Meal Prep Egg Wraps</a> and my <a href='/recipes/frittata'>Spinach and Onion Frittata</a>
 Instructions: 
 - Preheat a large nonstick pan over medium heat with a spray of oil. Dice your onion, and add to the pan, along with the spinach.  You can also use frozen chopped kale or collard greens in place of spinach
 
@@ -56,7 +56,7 @@ Instructions:
 - Lower heat to medium low, and beat your eggs with your spatula, fully incorporating it with the vegetables
 
 - Cook for a few minutes under frequent stirring, until the eggs just look cooked. Be careful not to over cook them. Mix in some hot sauce at the end, top with a fresh or dried herb, and serve. Optionally, you can mix in some cheese
-- <center><img src="/assets/Food/Breakfast/Scrambled/scrambled-4.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Scrambled/scrambled-4.jpg' alt="" class="instruction-image"></center>
 
 - Serve with a side of carrots, and put the other 2 servings away for another day
 ---

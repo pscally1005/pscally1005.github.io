@@ -61,18 +61,18 @@ tags:
 - ground meat
 - ground beef
 - ground turkey
-Description: Anyone who says a salad can't be filling or a great meal has obviously never had a good salad. A giant salad at a restaurant, topped with a lean <a href="/misc/protein">protein</a> and amazing toppings is my go to order, with dressing on the side. It's usually cheap, healthy, filling, and delicious. Just like a sandwich, a salad is simply a base for hundreds of different flavors. Don't just stick with a sad bowl of wet iceberg <a href="/misc/veggies#lettuce">lettuce</a> and store bought ranch dressing.  You can also check out any of my other <a href="/salad">salad recipes</a> or <a href="/salad-dressings">salad dressings</a>
+Description: Anyone who says a salad can't be filling or a great meal has obviously never had a good salad. A giant salad at a restaurant, topped with a lean <a href='/misc/protein'>protein</a> and amazing toppings is my go to order, with dressing on the side. It's usually cheap, healthy, filling, and delicious. Just like a sandwich, a salad is simply a base for hundreds of different flavors. Don't just stick with a sad bowl of wet iceberg <a href='/misc/veggies#lettuce'>lettuce</a> and store bought ranch dressing.  You can also check out any of my other <a href='/salad'>salad recipes</a> or <a href='/salad-dressings'>salad dressings</a>
 Instructions: 
 - In a medium glass, mix together the dressing - yogurt, powdered peanut butter, balsamic, soy sauce, garlic, onion, and black pepper. Nonfat cottage cheese will also work in place of yogurt. Season with salt to taste (I thought it was good as is), and thin out with some water if needed. You want the dressing to be pourable but not too liquidy, like a creamy ceasar
-- <center><img src="/assets/Food/Fish/Massive Salad/massive-salad-1.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Massive Salad/massive-salad-1.jpg' alt="" class="instruction-image"></center>
 
 - Next, chop up the vegetables. I used 1 small head of romaine lettuce, and approximately 2 handfuls of raw spinach.  Add the spinach and thinly sliced lettuce to a strainer, and wash under cold water for about 30 seconds. Drain, and add as the base to a large bowl
 
 - Cut the tomatoes pepper into a medium dice. Add over the greens to the side of the bowl. Add the crumbled feta and chopped nuts to the center
-- <center><img src="/assets/Food/Fish/Massive Salad/massive-salad-3.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Massive Salad/massive-salad-3.jpg' alt="" class="instruction-image"></center>
 
-- For the <a href="/misc/protein">protein</a> source, to keep this cheap and easy for a lunch, I've opted for a 5 oz can (4 oz drained weight) of albacore tuna canned in water. It's cheap, low in <a href="/misc/fats">fat</a>, high in <a href="/misc/protein">protein</a>, and super easy. Other great <a href="/misc/protein">protein</a> sources are shredded chicken (from either from a rotiserie chicken or <a href="/recipes/pulled-chicken">BBQ Pulled Chicken and Coleslaw</a>) or any ground meat (like taco meat found in my <a href="/recipes/taco">Sauteed Taco Meat and Fajita Veggies</a>
+- For the <a href='/misc/protein'>protein</a> source, to keep this cheap and easy for a lunch, I've opted for a 5 oz can (4 oz drained weight) of albacore tuna canned in water. It's cheap, low in <a href='/misc/fats'>fat</a>, high in <a href='/misc/protein'>protein</a>, and super easy. Other great <a href='/misc/protein'>protein</a> sources are shredded chicken (from either from a rotiserie chicken or <a href='/recipes/pulled-chicken'>BBQ Pulled Chicken and Coleslaw</a>) or any ground meat (like taco meat found in my <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a>
 
-- Add your <a href="/misc/protein">protein</a> source on top of the salad, drizzle with your dressing, and enjoy!
-- <center><img src="/assets/Food/Fish/Massive Salad/massive-salad-5.jpg" alt="" class="instruction-image"></center>
+- Add your <a href='/misc/protein'>protein</a> source on top of the salad, drizzle with your dressing, and enjoy!
+- <center><img src='/assets/Food/Fish/Massive Salad/massive-salad-5.jpg' alt="" class="instruction-image"></center>
 ---

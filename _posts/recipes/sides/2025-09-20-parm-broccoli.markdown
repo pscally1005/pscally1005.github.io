@@ -45,7 +45,7 @@ tags:
 - grated cheese
 - parmesan cheese
 - lemon juice
-Description: Ah <a href="/misc/dairy#grated-cheese">parmesan</a> <a href="/misc/veggies#broccoli">broccoli</a>. I love some good old <a href="/recipes/roasted-vegetables">Simply Roasted Vegetables</a>, but this is what I make when I want to level up my <a href="/misc/veggies">vegetable</a> game with minimal effort. It's just roasted broccoli sprinkled with <a href="/misc/dairy#grated-cheese">grated cheese</a>, and roasted until crispy and lightly charred. It's cheesy, garlicky, lemony, and a delicious <a href="/recipes/sides">side dish</a> to any mains
+Description: Ah <a href='/misc/dairy#grated-cheese'>parmesan</a> <a href='/misc/veggies#broccoli'>broccoli</a>. I love some good old <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>, but this is what I make when I want to level up my <a href='/misc/veggies'>vegetable</a> game with minimal effort. It's just roasted broccoli sprinkled with <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and roasted until crispy and lightly charred. It's cheesy, garlicky, lemony, and a delicious <a href='/recipes/sides'>side dish</a> to any mains
 Instructions: 
 - Preheat your oven to 425F. Line a large cookie sheet with parchment paper
 
@@ -53,6 +53,6 @@ Instructions:
 
 - Roast at 425F for about 30 minutes, or until browned to your liking
 
-- Today I'm having my parmesan broccoli as a side to some homemade haggis.  Check out my recipe, <a href="/recipes/haggis">My Take on Haggis</a> for a version featuring <a href="/misc/meat#liver">beef liver</a>, <a href="/misc/meat#ground-beef">ground beef</a>, <a href="/misc/veggies#onion">onions</a>, and <a href="/misc/grains#oats">rolled oats</a>
-- <center><a href="/recipes/haggis"><img src="/assets/Food/Ground Meat/Haggis/plate.jpg" alt="" class="instruction-image"></a></center>
+- Today I'm having my parmesan broccoli as a side to some homemade haggis.  Check out my recipe, <a href='/recipes/haggis'>My Take on Haggis</a> for a version featuring <a href='/misc/meat#liver'>beef liver</a>, <a href='/misc/meat#ground-beef'>ground beef</a>, <a href='/misc/veggies#onion'>onions</a>, and <a href='/misc/grains#oats'>rolled oats</a>
+- <center><a href='/recipes/haggis'><img src='/assets/Food/Ground Meat/Haggis/plate.jpg' alt="" class="instruction-image"></a></center>
 ---

@@ -46,7 +46,7 @@ tags:
 - chicken broth
 - vic
 - creamy
-Description: My favorite thing about this Chicken Florentine is that it tastes just as good as all the others I've had, but without the addition of all the heavy cream that would normally turn this into a <a href="/misc/fats">fat</a> bomb. Packed with <a href="/misc/meat#chicken-breast">chicken</a> and <a href="/misc/veggies#spinach-fresh">spinach</a>, and made creamy with a secret ingredient, this recipe is amazing, and goes great with a side of <a href="/misc/grains#brown-rice">brown rice</a> and roasted <a href="/misc/veggies">vegetables</a>
+Description: My favorite thing about this Chicken Florentine is that it tastes just as good as all the others I've had, but without the addition of all the heavy cream that would normally turn this into a <a href='/misc/fats'>fat</a> bomb. Packed with <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies#spinach-fresh'>spinach</a>, and made creamy with a secret ingredient, this recipe is amazing, and goes great with a side of <a href='/misc/grains#brown-rice'>brown rice</a> and roasted <a href='/misc/veggies'>vegetables</a>
 Instructions:
 - Cut your onion into a small dice, and add to a large pan with oil, spinach, and garlic, salt, and pepper.  Cover and cook over medium heat until the onions are translucent and the water has cooked out of the spinach.  It should just slightly start sticking to the pan. Set aside on a plate
 
@@ -57,5 +57,5 @@ Instructions:
 - Meanwhile, dice the chicken into small cubes. Over medium heat in the pan you used to cook the spinach, cook the chicken with oil and spices (garlic powder, onion powder, basil, thyme, and lemon pepper)
 
 - When chicken is almost done (165F), add the plate of spinach and pot of sauce to the pan and combine. Cook on medium heat until liquid has reduced and chicken is done. You want the sauce to be creamy, but not too liquidy where it’s runny. Serve
-- <center><img src="/assets/Food/Chicken/florentine/3-parts.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/florentine/3-parts.jpg' alt="" class="instruction-image"></center>
 ---

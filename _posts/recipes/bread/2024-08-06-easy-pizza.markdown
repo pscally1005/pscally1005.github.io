@@ -59,16 +59,16 @@ tags:
 - shredded cheese
 - mozzarella cheese
 - low moisture part skim mozzarella
-Description: This pizza dough is a variation of the viral 2 ingredient dough, a combination of just <a href="/misc/dairy#yogurt">yogurt</a> and self rising flour (flour + baking powder + salt). <a href="/misc/grains#whole-wheat">Whole wheat flour</a> is the best for its nutrition and taste, and the added spices add a lot to the flavor of the dough. Top if with a no <a href="/misc/hidden-sugar">sugar</a> added sauce and a bit of cheese, and you have a healthy pizza with a decent bit of <a href="/misc/protein">protein</a>
+Description: This pizza dough is a variation of the viral 2 ingredient dough, a combination of just <a href='/misc/dairy#yogurt'>yogurt</a> and self rising flour (flour + baking powder + salt). <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> is the best for its nutrition and taste, and the added spices add a lot to the flavor of the dough. Top if with a no <a href='/misc/hidden-sugar'>sugar</a> added sauce and a bit of cheese, and you have a healthy pizza with a decent bit of <a href='/misc/protein'>protein</a>
 Instructions: 
 - In a medium bowl, whisk together the dry ingredients - whole wheat flour, vital wheat gluten (or sub more flour), baking powder, garlic powder, onion powder, and salt. Add in the yogurt, and combine with your hands until you have a smooth dough ball
-- <center><img src="/assets/Food/Bread/Easy Pizza/easy-pizza-dough-ball.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-ball.jpg' alt="" class="instruction-image"></center>
 
 - For a gluten free version, you can replace the whole wheat flour and vital wheat gluten with oat flour (40 g). The dough will be a little drier and crumblier because of the lack of gluten, but it can still be shaped into a flatbread
 
 - Flatten into a round and thin pizza dough. Top with your sauce, cheese, and any other toppings you like (meat and vegetables are great additions)
-- <center><img src="/assets/Food/Bread/Easy Pizza/easy-pizza-dough-pan.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-pan.jpg' alt="" class="instruction-image"></center>
 
 - You can either bake this in a 500F oven on a preheated pizza stone for about 5-7 minutes, or you can cook it in a pan over medium heat (covered) until the bottom is browned to your liking (about 8 minutes)
-- <center><img src="/assets/Food/Bread/Easy Pizza/easy-pizza-cooked.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-cooked.jpg' alt="" class="instruction-image"></center>
 ---

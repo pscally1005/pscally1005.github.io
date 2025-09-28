@@ -51,7 +51,7 @@ tags:
 - brown rice
 - pita bread
 - whole wheat
-Description: This dish features a <a href="/misc/veggies#spinach-fresh">spinach</a> and <a href="/misc/veggies#tomato">tomato</a> paste pesto sauce, mixed into some <a href="/misc/veggies">vegetables</a> and <a href="/misc/meat#ground-turkey">ground turkey</a>. It goes well inside of a pocket pita, like with my <a href="/recipes/pita">Whole Wheat Pita Bread</a>.  It's also great served on top of some <a href="/misc/grains#brown-rice">brown rice</a>, or just on its own. Nutrition facts are for the filling including a piece of pita bread per serving
+Description: This dish features a <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/veggies#tomato'>tomato</a> paste pesto sauce, mixed into some <a href='/misc/veggies'>vegetables</a> and <a href='/misc/meat#ground-turkey'>ground turkey</a>. It goes well inside of a pocket pita, like with my <a href='/recipes/pita'>Whole Wheat Pita Bread</a>.  It's also great served on top of some <a href='/misc/grains#brown-rice'>brown rice</a>, or just on its own. Nutrition facts are for the filling including a piece of pita bread per serving
 Instructions: 
 - Spray a large pan with a touch of oil, and saute the spinach over medium heat until fully cooked, about 5-10 minutes, covered
 
@@ -61,6 +61,6 @@ Instructions:
 
 - Add your meat to the pan and brown it. When fully cooked, add the spices (basil, garlic and onion powder, lemon pepper, and red pepper flakes) and adjust anything to taste
 
-- Transfer the sauce into the pan, and let simmer for a few minutes over medium low heat. Serve in a <a href="/recipes/pita">pita bread</a>, with rice, or by itself (nutrition facts include the pita)
-- <center><img src="/assets/Food/Ground Meat/Pesto Pita/pesto-pita-5.jpg" alt="" class="instruction-image"></center>
+- Transfer the sauce into the pan, and let simmer for a few minutes over medium low heat. Serve in a <a href='/recipes/pita'>pita bread</a>, with rice, or by itself (nutrition facts include the pita)
+- <center><img src='/assets/Food/Ground Meat/Pesto Pita/pesto-pita-5.jpg' alt="" class="instruction-image"></center>
 ---

@@ -50,7 +50,7 @@ tags:
 - spicy
 - garlic
 - red pepper
-Description: Fra Diavolo sauce is a Christmas classic for me, and was always served over <a href="/misc/veggies#spinach-fresh">spinach</a> and <a href="/misc/fish#shrimp">shrimp</a>, two of my favorite foods. Here, I mixed the <a href="/misc/veggies#spinach-fresh">spinach</a> right into the sauce, and you can put it on whatever you want, such as <a href="/misc/meat#chicken-breast">chicken</a> if you're not a seafood fan.
+Description: Fra Diavolo sauce is a Christmas classic for me, and was always served over <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/fish#shrimp'>shrimp</a>, two of my favorite foods. Here, I mixed the <a href='/misc/veggies#spinach-fresh'>spinach</a> right into the sauce, and you can put it on whatever you want, such as <a href='/misc/meat#chicken-breast'>chicken</a> if you're not a seafood fan.
 Instructions: 
 - In a medium saucepot, saute oil, garlic, and spinach over medium heat for about 5 minutes
 
@@ -63,5 +63,5 @@ Instructions:
 - Add to a pan and cook for 2-3 minutes each side, or until they turn from gray to pink
 
 - Serve the shrimp and sauce with pasta if desired
-- <center><img src="/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg" alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg' alt="" class="instruction-image"></center>
 ---

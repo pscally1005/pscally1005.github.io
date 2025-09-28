@@ -62,10 +62,10 @@ tags:
 - vic
 - honey
 - maple syrup
-Description: I'll make this nutella-ish spread every so often, and store the leftovers in the freezer.  It's sweet without being loaded with added sugars, and goes great on toasted <a href="/recipes/ww-bread">100% Whole Wheat Bread</a> or on <a href="/oatmeal>oatmeal</a>.  You can also check out any of my other <a href="/nut-butter">nut butter recipes</a>!
+Description: I'll make this nutella-ish spread every so often, and store the leftovers in the freezer.  It's sweet without being loaded with added sugars, and goes great on toasted <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a> or on <a href='/oatmeal>oatmeal</a>.  You can also check out any of my other <a href='/nut-butter">nut butter recipes</a>!
 Instructions: 
 - Mix all ingredients in a small container, and store the leftovers in the fridge.  In place of liquid stevia or monk fruit, you can use 1/2 tbsp (10 g) honey or maple syrup
 
-- Optionally, you can turn this spread into some chocolate <a href="/misc/protein">protein</a> bites. Mix in unflavored casein (1 scoop, 30 g) and oat flour (2 tbsp, 15 g), and shape into balls. Makes about 10-12
-- <center><img src="/assets/Food/Sweet Spreads/Protein Choc/protein-choc-2.jpg" alt="" class="instruction-image"></center>
+- Optionally, you can turn this spread into some chocolate <a href='/misc/protein'>protein</a> bites. Mix in unflavored casein (1 scoop, 30 g) and oat flour (2 tbsp, 15 g), and shape into balls. Makes about 10-12
+- <center><img src='/assets/Food/Sweet Spreads/Protein Choc/protein-choc-2.jpg' alt="" class="instruction-image"></center>
 ---
