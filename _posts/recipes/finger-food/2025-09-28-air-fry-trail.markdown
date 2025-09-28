@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Air Fryer Trail Mix"
-date:   2025-08-30 00:00:00 -0500
+date:   2025-09-28 00:00:00 -0500
 categories: 
 - Recipes
 - Finger Foods
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
