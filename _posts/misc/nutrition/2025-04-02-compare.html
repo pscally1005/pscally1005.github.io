@@ -2,12 +2,13 @@
 layout: post
 title:  "Nutrient Comparisons of Similar Foods"
 date:   2025-04-02 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Nutrition
+showPercentage: no
 permalink: /misc/food-comparison
 image: /assets/Misc/Nutrition/Compare/Compare.png
-tags: 
+tags:
 - Yogurt
 - Cottage cheese
 - Chicken breast
@@ -205,7 +206,7 @@ tags:
       table-layout: auto; /* Allow columns to auto adjust based on content */
       text-align: center; /* Center the content inside the table */
     }
-  
+
     /* Table header styling */
     th, td {
       padding: 10px; /* Add padding for better readability */
@@ -213,7 +214,7 @@ tags:
       white-space: nowrap; /* Prevent wrapping in cells */
       word-wrap: break-word; /* Ensure long content can wrap to the next line */
     }
-  
+
     /* Sticky first column */
     td:first-child, th:first-child {
       position: sticky;
@@ -222,7 +223,7 @@ tags:
       z-index: 5; /* Make sure the first column is above other columns */
       font-weight: bold;
     }
-  
+
 </style>
 
 {% assign servingSize = 100 %}
@@ -257,7 +258,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -328,7 +329,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -486,7 +487,7 @@ tags:
 </div>
 
 <div id="white-vs-whole-wheat-vs-oat-vs-almond-vs-coconut-flour" class="table-of-contents">
-    <br><center><i><font size="+2">Oat vs Almond vs Coconut Flour</font></i></center><br>
+    <br><center><i><font size="+2">White vs Whole Wheat vs Oat vs Almond vs Coconut Flour</font></i></center><br>
     <center><table>
         <thead>
             <tr class="header">
@@ -535,7 +536,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -626,7 +627,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -721,7 +722,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -824,7 +825,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food6 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -907,7 +908,7 @@ tags:
                 {% assign food3 = "coconut-yogurt-facts" %}
                 <th><a href='https://www.nutritionvalue.org/public_ingredient_55742.html?size=100+g'>Greek Yogurt<br>(Plain, Nonfat)</a></th>
                 <th><a href='https://www.nutritionvalue.org/public_ingredient_55741.html?size=100+g'>Cottage Cheese<br>(Nonfat)</a></th>
-                <th><a href='https://www.nutritionvalue.org/Yogurt%2C_coconut_milk_42401100_nutritional_value.html?size=100+g'>Coconut Yogurt</a></th>
+                <th><a href='https://www.nutritionvalue.org/Yogurt%2C_coconut_milk_42401100_nutritional_value.html?size=100+g'>Coconut Yogurt<br>(Vanilla, Sweetened)</a></th>
             </tr>
         </thead>
         <tbody>
@@ -936,7 +937,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1025,7 +1026,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1087,7 +1088,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1168,7 +1169,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1243,7 +1244,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1320,7 +1321,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1400,7 +1401,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1478,7 +1479,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1568,7 +1569,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1631,7 +1632,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1699,7 +1700,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1773,7 +1774,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1854,7 +1855,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -1922,7 +1923,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -2018,7 +2019,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -2106,7 +2107,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -2200,7 +2201,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food4 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -2310,7 +2311,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food5 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -2414,7 +2415,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -2506,7 +2507,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -2705,14 +2706,6 @@ tags:
             </tr>
             <tr>
                 {% assign nutrient = "Fat" %}
-                {% assign rnd = 1 %}
-                <td markdown="span">{{ nutrient }}</td>
-                <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food2 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-                <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
-            </tr>
-            <tr>
-                {% assign nutrient = "Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>
@@ -3017,7 +3010,7 @@ tags:
                 <td markdown="span">{% include getNutrient.html facts=food3 servingSize=servingSize nutrient=nutrient fetch="per100g" rnd=rnd %}</td>
             </tr>
             <tr>
-                {% assign nutrient = "Carbs" %}
+                {% assign nutrient = "Net Carbs" %}
                 {% assign rnd = 1 %}
                 <td markdown="span">{{ nutrient }}</td>
                 <td markdown="span">{% include getNutrient.html facts=food1 servingSize=servingSize nutrient=nutrient fetch="perServing" rnd=rnd %}</td>

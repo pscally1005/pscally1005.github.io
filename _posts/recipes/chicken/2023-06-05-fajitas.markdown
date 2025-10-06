@@ -20,23 +20,23 @@ permalink: /recipes/fajitas
 image: /assets/Food/Chicken/Fajitas/cover-new.jpg
 ing: fajitas-ing
 facts: fajitas-facts
-servingSize: 
+servingSize:
 section1: Veggies
 start2: Boneless skinless chicken breast
 section2: Chicken
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 30
-Rest: 
+Rest:
 Cook: 45
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/K4Gvb
-tags: 
+tags:
 - pepper
 - onion
 - breast
@@ -52,7 +52,7 @@ tags:
 - salsa
 - tropical
 - vic
-Description: Fajitas are a go to meal, as they're a fun way to build your own food at the table. We'll have some sauteed <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies#pepper'>peppers</a>, along with <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/beans'>beans</a>, cheese, tortillas, <a href='/misc/veggies#lettuce'>lettuce</a>, and <a href='/recipes/tropical-salsa'>Tropical Fruit Salsa</a>. Make tacos, or make it into a bowl, and mix it up as you see fit.  Both the <a href='/misc/meat#chicken'>chicken</a> and the <a href='/misc/veggies'>veggies</a> utilize a <a href='/recipes/italian-dressing'>Homemade Sugar Free Italian Dressing</a> in their marinades, in addition to lime juice and hot sauce
+Description: Fajitas are a go to meal, as they're a fun way to build your own food at the table. We'll have some sauteed <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies#pepper'>peppers</a>, along with <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/beans'>beans</a>, cheese, tortillas, <a href='/misc/veggies#lettuce'>lettuce</a>, and <a href='/recipes/tropical-salsa'>Tropical Fruit Salsa</a>. Make tacos, or make it into a bowl, and mix it up as you see fit.  Both the <a href='/misc/meat#chicken-breast'>chicken</a> and the <a href='/misc/veggies'>veggies</a> utilize a <a href='/recipes/italian-dressing'>Homemade Sugar Free Italian Dressing</a> in their marinades, in addition to lime juice and hot sauce
 Instructions:
 - Cut your peppers and onions into long thin strips, and add to a large bowl.  Mix with the marinade ingredients - <a href='/recipes/italian-dressing'>Italian dressing</a>, hot sauce, lime juice, and olive oil
 
@@ -62,6 +62,6 @@ Instructions:
 
 - Heat 2 large pans over medium heat.  Add the peppers & onions to one pan, and the chicken to another, and cover both with a lid.  Cook the chicken to 165F, and the veggies until soft and lightly browned, about 10 minutes
 
-- Serve with sides of <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a>, and <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, and <a href='/recipes/tropical-salsa'>Tropical Fruit Salsa</a>
+- Serve with sides of <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a>, <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, and <a href='/recipes/tropical-salsa'>Tropical Fruit Salsa</a>
 - <center><img src='/assets/Food/Chicken/Fajitas/fajita-cover-old.jpg' alt="" class="instruction-image"></center>
 ---

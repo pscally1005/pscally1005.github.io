@@ -1,4 +1,4 @@
---- 
+---
 layout: base
 ---
 <div id="top-home"></div>
@@ -16,17 +16,17 @@ layout: base
   <center><img src="/assets/Logo/logo.png" alt="" class="logo-image"></center>
   {%- if page.title and page.title != "Home" -%}
     <h1 class="page-title"><a rel="" target="" href="#top-home">{{ page.title | escape }}</a></h1>
-  {% elsif page.title == "Home" %} 
+  {% elsif page.title == "Home" %}
     <h1 class="page-title"><a rel="" target="" href="#top-home">Recent Posts</a></h1>
   {%- endif -%}
 
   <!-- Shuffle Button -->
-  {% if 
-    page.title and 
-    page.title != "Search" and 
-    page.title != "Python" and 
-    page.title != "Archive" and 
-    page.title != "Hidden" and 
+  {% if
+    page.title and
+    page.title != "Search" and
+    page.title != "Python" and
+    page.title != "Archive" and
+    page.title != "Hidden" and
     page.title != "Draft" and
     page.title != "Delete"
   %}
@@ -36,12 +36,12 @@ layout: base
   {% endif %}
 
   <!-- Allergen filter -->
-  {% if 
-    page.categories != "Misc." or 
+  {% if
+    page.categories != "Misc." or
     page.categories == "Misc." and page.title == "Unhealthy Recipes"
   %}
     {% unless
-        page.title == "Search" or 
+        page.title == "Search" or
         page.categories == "Food categories" or
         page.title == "Archive" or
         page.title == "Hidden" or
@@ -71,12 +71,12 @@ layout: base
 
   {% assign postCount = 0 %}
   {% for post in posts %}
-    {% if 
-      page.title == "Home" and 
-      post.categories.last != "Archive" and 
-      post.categories.last != "Hidden" and 
-      post.categories.last != "Draft" and 
-      post.categories.last != "Delete" 
+    {% if
+      page.title == "Home" and
+      post.categories.last != "Archive" and
+      post.categories.last != "Hidden" and
+      post.categories.last != "Draft" and
+      post.categories.last != "Delete"
     %}
       {% assign postCount = postCount | plus: 1 %}
     {% elsif post.categories.last == page.title %}
@@ -94,7 +94,7 @@ layout: base
       {% if page.title != "Search" and page.title != "Python" and page.categories != "Food categories" %}
         <span class="page-post-count">{{ postCount }} result(s)</span>
       {% endif %}
-    </div>    
+    </div>
 
     <ul class="post-list">
 
@@ -134,9 +134,9 @@ layout: base
           {% endif %}
 
           <!-- Post correct ones to page, or all to home -->
-          {% if 
-            page.title == "Home" or 
-            post.categories.last == page.title or 
+          {% if
+            page.title == "Home" or
+            post.categories.last == page.title or
             food_category == "true"
           %}
 
@@ -178,7 +178,7 @@ layout: base
                     <b>{{ post.title | escape }}</b>
                   </h3>
                 </a>
-                
+
                 {% if post.categories.first != "Misc." or post.categories.first == "Misc." and post.categories.last == "Unhealthy Recipes" %}
                   {% unless post.title == "Food/Nutrition Meme Dump" %}
                     {% include allergenSymbols.html %}
@@ -222,7 +222,7 @@ layout: base
   // JavaScript for shuffling posts
   document.getElementById('button').addEventListener('click', function(event) {
     event.preventDefault();
-    
+
     // Get the posts that are currently displayed (visible) after filtering
     var posts = document.querySelectorAll('.post-item');
     var visiblePosts = Array.from(posts).filter(function(post) {
@@ -284,14 +284,14 @@ layout: base
           var postSugarFree = post.getAttribute('data-sugar-free') === "true";
 
           var shouldDisplay = true;
-          
+
           if (glutenFreeChecked && !postGlutenFree) shouldDisplay = false;
           if (vegetarianChecked && !postVegetarian) shouldDisplay = false;
           if (dairyFreeChecked && !postDairyFree) shouldDisplay = false;
           if (veganChecked && !postVegan) shouldDisplay = false;
           if (nutFreeChecked && !postNutFree) shouldDisplay = false;
           if (sugarFreeChecked && !postSugarFree) shouldDisplay = false;
-          
+
           post.style.display = shouldDisplay ? 'block' : 'none';
 
           if (shouldDisplay) {
