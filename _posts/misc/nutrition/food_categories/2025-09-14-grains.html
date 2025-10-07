@@ -2,13 +2,13 @@
 layout: post
 title:  "A Grain Of Truth"
 date:   2025-09-14 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Nutrition
 showPercentage: no
 permalink: /misc/grains
 image: /assets/Misc/Nutrition/Grains/Grains.png
-tags: 
+tags:
 - grains
 - carbs
 - starch
@@ -81,6 +81,18 @@ tags:
 &emsp;Corn is a staple <b>gluten free</b> grain that provides <a href='/misc/carbs'>carbohydrates</a>, some <a href='/misc/fiber'>fiber</a>, and <a href='/misc/chronic-inflammation'>antioxidants</a> like lutein and zeaxanthin, which support eye health.  Corn is quite lacking nutritionally, though it is one of the highest sources per gram of <a href='/misc/nutrient-alphabet#B'>vitamin B6</a>.  That being said, whole corn and <a href='#popcorn'>popcorn</a> are much higher in nutrients than refined corn products, such as <a href='/misc/hidden-sugar'>corn syrup</a>, <a href='/misc/carbs'>cornstarch</a>, and <a href='/misc/fats'>corn oil</a>.  Just remember that corn is a grain/carb side, not a <a href='/misc/veggies'>vegetable</a>.  I prefer to have my corn in the form of <a href='/recipes/corn-on-the-cob'>Roasted Corn on the Cob</a> or <a href='/recipes/three-sisters'>Three Sisters - Squash, Beans, and Corn</a>.<br><br>
 
 <center><a href='/recipes/corn-on-the-cob'><img src='/assets/Food/Sides/Corn/corn-cooked.jpg' alt='' class='instruction-image'></a></center>
+" %}
+
+{% assign couscous = "
+&emsp;Couscous similar to many other grains, being a moderate source of the following nutrients: <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet#T'>thiamin</a>, <a href='/misc/nutrient-alphabet#N'>niacin</a>, <a href='/misc/nutrient-alphabet#P'>vitamin B5</a>, <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/magnesium'>magnesium</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, and <a href='/misc/phosphorus'>phosphorus</a>.  These nutrients support energy metabolism, healthy digestion, and overall cell function, making couscous a light yet nourishing base for many meals.<br><br>
+
+&emsp;Couscous is technically a pasta, being made of semolina <a href='#whole-wheat'>wheat</a>.  That means that this delicious <a href='#brown-rice'>rice</a>-like grain <b>contains gluten</b>.  But it's more like <a href='#brown-rice'>rice</a> than pasta; you cook couscous like you would <a href='#brown-rice'>rice</a>, cooking until all the water has been absorbed.  This is as opposed to pasta, which is boiled in excess water, and then subsequently drained off.<br><br>
+
+<center><a href='https://theforkedspoon.com/how-to-cook-couscous/'><img src='/assets/Misc/Nutrition/Grains/types-couscous.jpg' alt='' class='instruction-image'></a></center><br><br>
+
+&emsp;There's 2 different types of couscous: Moroccan and Israeli.  Moroccan couscous is finer and fluffier, whereas Israeli (Pearl) couscous is bigger and more pasta-like.  My preferred way to eat couscous is to cook Moroccan couscous with <a href='/misc/beans'>beans</a> and diced <a href='/misc/veggies#tomato'>tomatoes</a>, like I do in my <a href='/recipes/couscous'>Tomato and Bean Couscous</a>.<br><br>
+
+<center><a href='/recipes/couscous'><img src='/assets/Food/Sides/Couscous/couscous.jpg' alt='' class='instruction-image'></a></center>
 " %}
 
 {% assign farro = "
@@ -288,38 +300,39 @@ tags:
 &emsp;Last but not least, we have wild rice, which is technically a grass, not a true rice.  It’s <b>gluten free</b> and higher in <a href='/misc/fiber'>fiber</a> compared to <a href='#brown-rice'>brown rice</a>, though lower compared to most other whole grains.  Wild rice is decently nutrient-dense, being a <a href='/misc/protein'>complete protein</a> and a good source of <a href='/misc/nutrient-alphabet#R'>vitamin B2</a>, <a href='/misc/nutrient-alphabet#N'>vitamin B3</a>, <a href='/misc/nutrient-alphabet#P'>vitamin B5</a>, <a href='/misc/nutrient-alphabet#F'>folate</a>, <a href='/misc/magnesium'>magnesium</a>, and <a href='/misc/nutrient-alphabet#M'>manganese</a>.  Notably, wild rice is the best source of <a href='/misc/nutrient-alphabet#Z'>zinc</a>, which helps to support immune health, as well as the creation of DNA and RNA.  It has a nutty flavor and chewy texture, with more antioxidants than <a href='#white-rice'>white rice</a>.<br>
 " %}
 
-{% assign descriptions = amaranth 
+{% assign descriptions = amaranth
     | append: "|" | append: barley
-    | append: "|" | append: brown-rice 
-    | append: "|" | append: buckwheat 
-    | append: "|" | append: corn 
+    | append: "|" | append: brown-rice
+    | append: "|" | append: buckwheat
+    | append: "|" | append: corn
+    | append: "|" | append: couscous
     | append: "|" | append: farro
-    | append: "|" | append: millet 
-    | append: "|" | append: oats 
-    | append: "|" | append: popcorn 
-    | append: "|" | append: quinoa 
-    | append: "|" | append: rye 
-    | append: "|" | append: spelt 
-    | append: "|" | append: vital-wheat-gluten 
-    | append: "|" | append: white-rice 
-    | append: "|" | append: white-wheat 
-    | append: "|" | append: whole-wheat 
-    | append: "|" | append: wild-rice 
-    | split: "|" 
+    | append: "|" | append: millet
+    | append: "|" | append: oats
+    | append: "|" | append: popcorn
+    | append: "|" | append: quinoa
+    | append: "|" | append: rye
+    | append: "|" | append: spelt
+    | append: "|" | append: vital-wheat-gluten
+    | append: "|" | append: white-rice
+    | append: "|" | append: white-wheat
+    | append: "|" | append: whole-wheat
+    | append: "|" | append: wild-rice
+    | split: "|"
 %}
 
-{% assign nutrients = 
-    "Calories," 
+{% assign nutrients =
+    "Calories,"
     | append: "Fat,"
     | append: "Carbs,"
     | append: "Net Carbs,"
-    | append: "Fiber," 
-    | append: "Protein," 
+    | append: "Fiber,"
+    | append: "Protein,"
     | append: "Vitamin B1,"
     | append: "Vitamin B9,"
     | append: "Magnesium,"
     | append: "Manganese,"
-    | append: "Phosphorus"  
+    | append: "Phosphorus"
     | split: ","
 %}
 
