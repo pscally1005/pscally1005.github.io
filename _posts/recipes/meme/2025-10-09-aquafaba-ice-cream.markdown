@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Aquafaba Chocolate Ice Cream"
-date:   2025-09-17 00:00:00 -05000
+date:   2025-10-09 00:00:00 -05000
 categories: 
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
