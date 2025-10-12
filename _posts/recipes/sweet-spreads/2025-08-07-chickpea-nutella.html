@@ -2,7 +2,7 @@
 layout: post
 title:  "No-Nut Chickpea Nutella"
 date:   2025-08-07 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sweet Spreads
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Sweet Spreads/Chickpea nutella/cover.jpg
 ing: chickpeanutella-ing
 facts: chickpeanutella-facts
 servingSize: 2 tbsp (32 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 15
 Source1: https://youtu.be/V5asdNp3bwE
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/nXc5v
-tags: 
+tags:
 - nutella
 - hazelnut spread
 - powder peanut butter
@@ -47,36 +47,44 @@ tags:
 - almond extract
 - copycat
 Description: Nutella is a sweet <a href='/misc/nuts'>nut</a> based chocolate spread. Well, <a href='/misc/nuts'>nut</a> based is a stretch, there's more <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fats'>oil</a> in standard Nutella than hazelnuts. I do already have healthier Nutella alternatives, such as <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a> and <a href='/recipes/nutella'>Roasted Hazelnut Nutella (SF)</a>, both with <a href='/misc/hidden-sugar'>no added sugar</a>. But today, I'm making a <a href='/misc/nuts'>nut</a> free Nutella using roasted <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and cocoa powder. It's delicious, naturally sweet, low <a href='/misc/calories'>calorie</a>, and high <a href='/misc/fiber'>fiber</a>
-Instructions: 
+Instructions:
 - Drain and rinse your chickpeas. Air fry at 380F for about 15 minutes, or until dried and crispy. You can also roast in a 425F oven for about 30 minutes
 
-- Blend together chickpeas, dates, cocoa powder, and vanilla until all bits of chickpeas and dates are broken up.  Raisins will work in place of dates.  You can also use 1/2 cup (160 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> in place of dates
+- Blend together chickpeas, dates, cocoa powder, and vanilla until all bits of chickpeas and dates are broken up.  Raisins will work in place of dates
 
 - Add a cup of water to a medium glass and microwave for 1 minute, until hot. Blend in the water until you have a smooth spread. Transfer to a jar, and store in the fridge for up to 1 week
 - <center><img src='/assets/Food/Sweet Spreads/Chickpea nutella/processor.jpg' alt="" class="instruction-image"></center>
 ---
-<br>Below is a table comparing the nutrition facts of my homemade spread to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> per 100 g.  As you can see, the homemade version contains significantly fewer <a href='/misc/calories'>calories</a>, unhealthy <a href='/misc/fats'>fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/fiber'>fiber</a>:<br><br>
+You can also use 1/2 cup (160 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> in place of dates<br><br>
 
-{% assign files = 
-    "chickpeanutella100g," 
+Alternatively, you can use granulated monk fruit as your sweetener in place of dates.  Replace the dates with 1/2 cup (100 g) of granulated monk fruit, reduce the water to 2/3 cup (160 g), and <b>don't</b> roast the chickpeas.  Just add everything to a food processor, and blend until smooth<br><br>
+
+All 3 variations (dates, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and granulated monk fruit) will yield 18 servings of 2 tbsp (32 g) each<br><br>
+
+Below is a table comparing the nutrition facts of my homemade spread to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> <b>per 100 g</b>.  As you can see, the homemade versions contain significantly fewer <a href='/misc/calories'>calories</a>, unhealthy <a href='/misc/fats'>fats</a>, net <a href='/misc/carbs'>carbs</a>, and <a href='/misc/hidden-sugar'>added sugar</a>, while having substantially more <a href='/misc/fiber'>fiber</a>:<br><br>
+
+{% assign files =
+    "chickpeanutella100g,"
     | append: "chickpeanutellasfs100g,"
-    | append: "classicnutella" 
-    | split: "," 
+    | append: "chickpeanutellamonkfruit100g,"
+    | append: "classicnutella"
+    | split: ","
 %}
-{% assign titles = 
-    "Homemade<br>With Dates," 
+{% assign titles =
+    "Homemade<br>With Dates,"
     | append: "Homemade<br>With <a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>,"
-    | append: "Storebought" 
-    | split: "," 
+    | append: "Homemade<br>With Granulated<br>Monk Fruit</a>,"
+    | append: "Storebought"
+    | split: ","
 %}
-{% assign nutrients = 
-    "Calories," 
-    | append: "Protein," 
-    | append: "Fat," 
-    | append: "Net Carbs," 
-    | append: "Fiber," 
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Net Carbs,"
+    | append: "Fiber,"
     | append: "Added Sugar,"
-    | append: "Sugar Alcohol" 
-    | split: "," 
+    | append: "Sugar Alcohol"
+    | split: ","
 %}
 {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" folder="nutella" %}

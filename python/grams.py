@@ -24,7 +24,7 @@ def grams(food, mass, vol):
             return str("6")
         else:
             return str(mass)
-        
+
     # Salty spices
     if food == "Chicken bouillon powder" or food == "Bouillon powder" or food == "Lemon pepper" or food == "Everything bagel seasoning":
         if vol == "1/2 tsp":
@@ -39,7 +39,7 @@ def grams(food, mass, vol):
             return str("12")
         else:
             return str(mass)
-    
+
     # Extracts and sweeteners
     elif food == "Liquid monk fruit" or food == "Liquid stevia" or food == "Liquid stevia or monk fruit" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Butter extract" or food == "Maple extract" or food == "Rum extract" or food == "Almond extract, or vanilla" or food == "Vanilla extract, or almond":
         if vol == "1/4 tsp":
@@ -56,7 +56,7 @@ def grams(food, mass, vol):
             return str("10")
         else:
             return str(mass)
-        
+
     # Granulated sweetener
     elif food == "Granulated monk fruit" or food == "Allulose":
         if vol == "1/4 cup":
@@ -73,7 +73,7 @@ def grams(food, mass, vol):
             return str("200")
         else:
             return str(mass)
-        
+
     # Denser spices
     elif food == "Nutmeg, ground" or food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper" or food == "Old Bay" or food == "Turmeric, ground" or food == "Black pepper" or food == "Cinnamon, ground" or food == "Cinnamon":
         if vol == "1/8 tsp":
@@ -94,7 +94,7 @@ def grams(food, mass, vol):
             return str("20")
         else:
             return str(mass)
-        
+
     # Less dense spices
     elif food == "Allspice, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground" or food == "Coriander, ground":
         if vol == "1/8 tsp":
@@ -115,7 +115,7 @@ def grams(food, mass, vol):
             return str("12")
         else:
             return str(mass)
-        
+
     # Nutritional yeast, cocoa, coconut flakes
     elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Unsweetened coconut flakes":
         if vol == "1/2 tbsp" or vol == "1.5 tsp":
@@ -162,7 +162,7 @@ def grams(food, mass, vol):
             return str("160")
         else:
             return str(mass)
-        
+
     # Herbs
     elif food == "Basil, dried" or food == "Oregano, dried" or food == "Thyme, dried" or food == "Parsley, dried" or food == "Red pepper flakes" or food == "Rosemary, dried" or food == "Italian seasoning":
         if vol == "1/2 tsp":
@@ -179,7 +179,7 @@ def grams(food, mass, vol):
             return str("6")
         else:
             return str(mass)
-    
+
     # Liquids
     elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth":
         if vol == "1/4 tsp":
@@ -210,6 +210,8 @@ def grams(food, mass, vol):
             return str("105")
         elif vol == "1/2 cup" or vol == "8 tbsp":
             return str("120")
+        elif vol == "2/3 cup":
+            return str("160")
         elif vol == "3/4 cup" or vol == "12 tbsp":
             return str("180")
         elif vol == "1 cup":
@@ -228,7 +230,7 @@ def grams(food, mass, vol):
             return str("1200")
         else:
             return str(mass)
-        
+
     # Coconut oil
     if food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil":
         if vol == "1 tsp":
@@ -253,7 +255,7 @@ def grams(food, mass, vol):
             return str("112")
         else:
             return str(mass)
-        
+
     # Yogurt & cottage cheese
     elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free":
         if vol == "1 tbsp":
@@ -278,7 +280,7 @@ def grams(food, mass, vol):
             return str("454")
         else:
             return str(mass)
-        
+
     # Flours
     if food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour":
         if vol == "2 tbsp":
@@ -297,7 +299,7 @@ def grams(food, mass, vol):
             return str("240")
         else:
             return str(mass)
-        
+
     # Protein powder
     if food == "Whey protein powder, unflavored" or food == "Whey protein powder, chocolate" or food == "Whey protein powder, vanilla" or food == "Nutricost Whey Unflavored Protein Powder" or food == "Casein protein powder, unflavored" or food == "Casein protein powder, chocolate" or food == "Casein protein powder, vanilla" or food == "Nutricost Casein Unflavored Protein Powder":
         if vol == "1/3 scoop":
@@ -322,7 +324,7 @@ def grams(food, mass, vol):
             return str("120")
         else:
             return str(mass)
-        
+
     # Nut butters
     if food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter":
         if vol == "1/2 tbsp":
@@ -351,7 +353,7 @@ def grams(food, mass, vol):
             return str("256")
         else:
             return str(mass)
-        
+
     # Syrup
     if food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey":
         if vol == "1/2 tbsp":
@@ -382,7 +384,7 @@ def grams(food, mass, vol):
             return str("320")
         else:
             return str(mass)
-        
+
     # Onions
     if food == "Onion":
         if vol == "1/2 medium":
@@ -399,7 +401,7 @@ def grams(food, mass, vol):
             return str("550")
         else:
             return str(mass)
-        
+
     # Peppers
     if food == "Bell pepper":
         if vol == "1/2 medium":
@@ -416,7 +418,7 @@ def grams(food, mass, vol):
             return str("600")
         else:
             return str(mass)
-        
+
     # Tomatoes
     if food == "Tomato":
         if vol == "1/2 medium":
@@ -433,7 +435,7 @@ def grams(food, mass, vol):
             return str("500")
         else:
             return str(mass)
-        
+
     # Lettuce
     if food == "Lettuce" or food == "Romaine lettuce":
         if vol == "1/2 head" or vol == "4 oz":
@@ -450,7 +452,7 @@ def grams(food, mass, vol):
             return str("600")
         else:
             return str(mass)
-        
+
     # Powdered pb
     if food == "Powdered peanut butter":
         if vol == "1/2 tbsp" or vol == "1.5 tsp":
@@ -495,7 +497,7 @@ def grams(food, mass, vol):
             return str("96")
         else:
             return str(mass)
-        
+
     # Chia seeds
     if food == "Chia seeds":
         if vol == "1/2 tbsp" or vol == "1.5 tsp":
@@ -540,7 +542,7 @@ def grams(food, mass, vol):
             return str("192")
         else:
             return str(mass)
-        
+
     # Oat flour
     if food == "Oat flour" or food == "Oat flour, or almond flour" or food == "Oat flour, or almond":
         if vol == "1/2 tbsp" or vol == "1.5 tsp":
@@ -605,7 +607,7 @@ def grams(food, mass, vol):
             return str("270")
         else:
             return str(mass)
-        
+
     # Almond flour
     if food == "Almond flour" or food == "Almond flour, or oat flour" or food == "Almond flour, or oat" or food == "Almond flour (or whole nuts)":
         if vol == "1/2 tbsp" or vol == "1.5 tsp":
@@ -670,7 +672,7 @@ def grams(food, mass, vol):
             return str("336")
         else:
             return str(mass)
-        
+
     # Oats
     if food == "Rolled oats" or food == "Quick oats" or food == "Rolled oats, or quick oats" or food == "Rolled oats, or quick" or food == "Quick oats, or rolled oats" or food == "Quick oats, or rolled" or food == "Quick oats, or oat flour" or food == "Rolled oats, or oat flour":
         if vol == "1/2 tbsp" or vol == "1.5 tsp":
@@ -735,7 +737,7 @@ def grams(food, mass, vol):
             return str("240")
         else:
             return str(mass)
-        
+
     # Ground Flaxseed
     if food == "Ground flaxseed":
         if vol == "1/2 tbsp" or vol == "1.5 tsp":
@@ -800,7 +802,7 @@ def grams(food, mass, vol):
             return str("312")
         else:
             return str(mass)
-        
+
     # Chocolate chips
     if food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar":
         if vol == "1/2 tbsp":
@@ -862,7 +864,7 @@ def main(path = ""):
                 i = i+1
 
         os.remove(fname)
-        os.rename(temp, fname)            
+        os.rename(temp, fname)
         print(fname)
         changed += 1
 
