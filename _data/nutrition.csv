@@ -189,6 +189,7 @@ grains,White Wheat,white-wheat,1/4 cup,31,https://www.nutritionvalue.org/Wheat_f
 grains,Whole Wheat,whole-wheat,1/4 cup,31,https://www.nutritionvalue.org/Wheat_flour%2C_whole-grain_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
 grains,Wild Rice,wild-rice,1/4 cup,40,https://www.nutritionvalue.org/Wild_rice%2C_raw_nutritional_value.html?size=100+g,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
 dairy,Almond Milk,almond-milk,1 cup,240,https://www.nutritionvalue.org/public_ingredient_62195.html?utm_source=share-by-url,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+dairy,Blue Cheese,blue-cheese,1 oz,28,https://www.nutritionvalue.org/Cheese%2C_blue_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 dairy,Butter,butter,1 tbsp,14,https://www.nutritionvalue.org/Butter%2C_without_salt_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 dairy,Casein Protein Powder,casein,1 scoop,30,https://www.nutritionvalue.org/public_ingredient_51895.html?utm_source=share-by-url,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 dairy,Cheddar Cheese,cheddar,1 oz,28,https://www.nutritionvalue.org/Cheese%2C_cheddar_nutritional_value.html?size=100+g,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE

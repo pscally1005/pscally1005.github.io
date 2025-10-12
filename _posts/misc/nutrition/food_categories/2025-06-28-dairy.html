@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "I'm Dying For Dairy"
-date:   2025-06-28 00:00:00 -05000
-categories: 
+date:   2025-10-12 00:00:00 -05000
+categories:
 - Misc.
 - Nutrition
 showPercentage: no
 permalink: /misc/dairy
 image: /assets/Misc/Nutrition/Dairy/Dairy.png
-tags: 
+tags:
 - dairy
 - milk
 - lactose
@@ -33,6 +33,7 @@ tags:
 - coconut milk
 - butter
 - cream cheese
+- blue cheese
 ---
 {% assign category = "dairy" %}
 
@@ -57,11 +58,15 @@ tags:
 
 &emsp;Almond milk does <i>technically</i> contain more <a href='/misc/calcium'>calcium</a> than standard <a href='#milk'>cow's milk</a>, but that's only because it's fortified with it.  Getting nutrients from whole food sources first and foremost is more important than supplementation or fortification, as synthetic forms of vitamins and minerals are often significantly less bioavailable than naturally occuring forms found in the food itself.  Almond milk is also sometimes fortified with vitamins <a href='/misc/nutrient-alphabet#A'>A</a>, <a href='/misc/nutrient-alphabet#D'>D</a>, and <a href='/misc/nutrient-alphabet#E'>E</a>.<br><br>
 
-&emsp;I'm not saying don't take a multivitamin (I do), but those should be <i>supplemental</i> to nutrients from whole foods, not in place of them.  What almond milk does have more of though is <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, as <a href='/misc/nuts#almonds'>almonds</a> are one of the best sources, though sometimes extra <a href='/misc/nutrient-alphabet#E'>vitamin E</a> is added to products.<br><br> 
+&emsp;I'm not saying don't take a multivitamin (I do), but those should be <i>supplemental</i> to nutrients from whole foods, not in place of them.  What almond milk does have more of though is <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, as <a href='/misc/nuts#almonds'>almonds</a> are one of the best sources, though sometimes extra <a href='/misc/nutrient-alphabet#E'>vitamin E</a> is added to products.<br><br>
 
 &emsp;There are 2 main problems with almond milk: <a href='/misc/hidden-sugar'>added sugar</a>, and artificial additives.  As for the former, you can easily get around this by purchasing <a href='https://amzn.to/43RZ5rA'>unsweetened almond milk</a>.  These typically come in 2 varieties: <a href='https://amzn.to/43RZ5rA'>original (unflavored)</a>, and <a href='https://amzn.to/4mOEEo4'>vanilla</a>.  Be very careful of sweetened almond milks like <a href='https://amzn.to/3ZOTX62'>chocolate</a> or <a href='https://amzn.to/43pNgtx'>vanilla</a>, as some can contain a whopping tablespoon of <a href='/misc/hidden-sugar'>added sugar</a> in just one cup.<br><br>
 
 &emsp;As for the latter, this one is harder to get around.  Most commercial almond milks contain a lot of gums and preservatives.  You can either opt for a more expensive brand without that junk, or make your own <a href='/recipes/oat-milk'>Homemade Plant Based Milk</a>.  This can apply to more than just <a href='/misc/nuts#almonds'>almonds</a>; try homemade oat or peanut milks!<br>
+" %}
+
+{% assign blue-cheese = "
+&emsp;Blue cheese is one of the most distinct cheeses both in appearance and flavor.  Its signature blue or green veins come from the addition of specific strains of Penicillium mold, which give it that sharp, tangy taste and creamy yet crumbly texture.  Nutritionally, a 1 oz (28 g) serving of blue cheese contains about 100 <a href='/misc/calories'>calories</a>, 8 g of <a href='/misc/fats'>fat</a>, and 6 g of <a href='/misc/protein'>protein</a>.  Like most cheeses, it’s a good source of <a href='/misc/calcium'>calcium</a> and <a href='/misc/vitamin-b12'>vitamin B12</a>, and also contains notable amounts of <a href='/misc/phosphorus'>phosphorus</a> and <a href='/misc/nutrient-alphabet#S'>selenium</a>.  Its strong flavor means a little goes a long way, making it a great way to add richness and depth to dishes without needing much.<br>
 " %}
 
 {% assign butter = "
@@ -266,35 +271,36 @@ tags:
 &emsp;Whey protein powder is the main dairy protein powder, with the other one being <a href='#casein'>casein</a>.  Whey is well known, but actually less abundant in <a href='#skim-milk'>milk</a>.  About 80% of the protein in a glass of <a href='#skim-milk'>milk</a> is <a href='#casein'>casein</a>, whereas the remaining 20% is whey.  Whey is an extremely lean and convienent protein source, and mixes great into <a href='/recipes/protein-powder'>no bake snacks</a>, <a href='/yogurt'>yogurt</a>, and <a href='/oatmeal'>oatmeal</a>.  As I found in <a href='/misc/water-absorption#whey'>Water Absorption of Different Flours</a>, whey does not bind to water very well.  It acts more like sugar; easily dissolving into liquids.  This makes it great for protein shakes.  However, when baked, whey tends to make <a href='/recipes/protein-powder'>protein desserts</a> dry, so it's best to either bake with <a href='#casein'>casein</a> instead, or have a lot of moisture in the batter.<br>
 " %}
 
-{% assign descriptions = almond-milk 
-    | append: "|" | append: butter 
-    | append: "|" | append: casein 
-    | append: "|" | append: cheddar 
-    | append: "|" | append: coconut-milk 
-    | append: "|" | append: cottage-cheese 
-    | append: "|" | append: cottage-cheese-whole-milk 
-    | append: "|" | append: cream-cheese 
-    | append: "|" | append: feta 
-    | append: "|" | append: goat-cheese 
-    | append: "|" | append: yogurt 
-    | append: "|" | append: yogurt-whole-milk 
-    | append: "|" | append: kefir 
-    | append: "|" | append: skim-milk 
-    | append: "|" | append: whole-milk 
-    | append: "|" | append: mozzarella 
-    | append: "|" | append: grated-cheese 
-    | append: "|" | append: swiss-cheese 
-    | append: "|" | append: whey 
-    | split: "|" 
+{% assign descriptions = almond-milk
+    | append: "|" | append: blue-cheese
+    | append: "|" | append: butter
+    | append: "|" | append: casein
+    | append: "|" | append: cheddar
+    | append: "|" | append: coconut-milk
+    | append: "|" | append: cottage-cheese
+    | append: "|" | append: cottage-cheese-whole-milk
+    | append: "|" | append: cream-cheese
+    | append: "|" | append: feta
+    | append: "|" | append: goat-cheese
+    | append: "|" | append: yogurt
+    | append: "|" | append: yogurt-whole-milk
+    | append: "|" | append: kefir
+    | append: "|" | append: skim-milk
+    | append: "|" | append: whole-milk
+    | append: "|" | append: mozzarella
+    | append: "|" | append: grated-cheese
+    | append: "|" | append: swiss-cheese
+    | append: "|" | append: whey
+    | split: "|"
 %}
 
-{% assign nutrients = 
-    "Calories," 
+{% assign nutrients =
+    "Calories,"
     | append: "Fat,"
-    | append: "Sodium," 
-    | append: "Carbs," 
+    | append: "Sodium,"
+    | append: "Carbs,"
     | append: "Net Carbs,"
-    | append: "Protein," 
+    | append: "Protein,"
     | append: "Vitamin B12,"
     | append: "Calcium"
     | split: ","

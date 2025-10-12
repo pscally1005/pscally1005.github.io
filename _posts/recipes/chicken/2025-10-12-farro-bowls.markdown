@@ -60,6 +60,6 @@ Instructions:
 - Prepare 6 airtight containers, and evenly divide your food. I got about 150g, 125g, and 100g respectively of broccoli, farro, and chicken per bowl.  Top each bowl with 1 oz (28 g) of goat cheese
 - <center><img src='/assets/Food/Chicken/Farro Bowls/containers.jpg' alt="" class="instruction-image"></center>
 
-- I like using this formula to make different variations of grain bowls.  Below, I combined together <a href='/misc/grains#barley'>barley</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, <a href='/recipes/shredded-chicken'>shreddd chicken</a>, and blue cheese
+- I like using this formula to make different variations of grain bowls.  Below, I combined together <a href='/misc/grains#barley'>barley</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, <a href='/recipes/shredded-chicken'>shreddd chicken</a>, and <a href='/misc/dairy#blue-cheese'>blue cheese</a>
 - <center><img src='/assets/Food/Chicken/Farro Bowls/barley.jpg' alt="" class="instruction-image"></center>
 ---
