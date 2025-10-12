@@ -4,7 +4,7 @@ title:  "Green Eggs & Ham (Kinda)"
 date:   2025-09-23 00:00:00 -0500
 categories:
 - Recipes
-- Chicken
+- Meme Recipes
 - Draft
 showPercentage: no
 hummus: no
@@ -29,15 +29,15 @@ start3: Egg
 section3: Eggs
 start4: Chickpeas, drained and rinsed
 section4: Chickpeas
-start5: 
-section5: 
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 30
 Source1: https://www.clear.rice.edu/comp200/resources/texts/Green%20Eggs%20and%20Ham.txt
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/lVhXU
-tags: 
+tags:
 - scrambled eggs
 - green eggs and ham
 - spinach
@@ -48,7 +48,7 @@ tags:
 - ham steak
 - large eggs
 Description: This healthy green <a href='/misc/meat#eggs'>eggs</a> and <a href='/misc/meat#ham'>ham</a> gets its green from <a href='/misc/veggies#spinach-fresh'>spinach</a> instead of artificial food colorings, and the <a href='/misc/meat#ham'>ham</a> from a lean <a href='/misc/meat#ham'>ham</a> steak instead of a fatty cut. The addition of <a href='/misc/meat#eggs'>eggs</a> and <a href='/misc/beans#chickpeas'>chickpeas</a> makes this a very high <a href='/misc/protein'>protein</a> <a href='/recipes/breakfast'>breakfast</a>, with 55 g of <a href='/misc/protein'>protein</a> in under 550 <a href='/misc/calories'>calories</a>. Moreover, the <a href='/misc/beans'>beans</a> and <a href='/misc/veggies#spinach-fresh'>spinach</a> provide <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet#F'>folate</a>, and <a href='/misc/iron'>iron</a>, while the <a href='/misc/meat#eggs'>eggs</a> add healthy <a href='/misc/fats'>fats</a>, <a href='/misc/vitamin-b12'>vitamin B12</a>, and <a href='/misc/nutrient-alphabet#D'>vitamin D</a>.  It's also kinda <a href='/misc/sodium'>salty</a> from the <a href='/misc/meat#ham'>ham</a>, lemon pepper, and <a href='/misc/beans#chickpeas'>chickpeas</a>; you can take that as a bug or a feature
-Instructions: 
+Instructions:
 - Heat a large pan over medium, trim any fat off your ham, and cut into small cubes. When hot, add in your ham, and cook (uncovered) until the water cooks off and the ham begins to brown, about 10 minutes. Set the ham aside
 - <center><img src='/assets/Food/Meme/Green Eggs and Ham/ham-cooked.jpg' alt="" class="instruction-image"></center>
 

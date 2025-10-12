@@ -21,28 +21,28 @@ image: /assets/Food/Breakfast/Hard Boiled/cover.jpg
 ing: hardboil-ing
 facts: hardboil-facts
 servingSize: 1 egg
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 13
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/YzI1U
-tags: 
+tags:
 - salad
 - egg
 - air fry
 - boil
-Description: Hard boiled <a href='/misc/meat#eggs'>eggs</a> are a quick snack or breakfast, and they are also a quick <a href='/misc/protein'>protein</a> source. Great when chopped up on a salad, these boiled eggs can be made either on the stove, or in the air fryer (my preferred way)
-Instructions: 
+Description: Hard boiled <a href='/misc/meat#eggs'>eggs</a> are a quick snack or <a href='/recipes/breakfast'>breakfast</a>, and they are also a quick <a href='/misc/protein'>protein</a> source. Great when chopped up on a <a href='/salad'>salad</a>, these boiled <a href='/misc/meat#eggs'>eggs</a> can be made either on the stove, or in the <a href='/misc/kitchen-products#air-fryer'>air fryer</a> (my preferred way)
+Instructions:
 - Place eggs in a large pot and cover with water, about an inch over the top of the eggs. Bring to a boil, and let boil for 2 minutes. Reduce heat a simmer, and simmer for 12 minutes, uncovered
 
 - You could also air fry the eggs at 250F for 15 minutes (this is what I prefer)

@@ -145,7 +145,7 @@ fruit,Persimmon,persimmon,1 medium,170,https://www.nutritionvalue.org/Persimmon%
 fruit,Pineapple,pineapple,1 cup,165,https://www.nutritionvalue.org/Pineapple%2C_all_varieties%2C_raw_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 fruit,Plum,plum,1 cup,165,https://www.nutritionvalue.org/Plums%2C_raw_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 fruit,Pomegranate,pomegranate,1/2 cup,87,https://www.nutritionvalue.org/Pomegranates%2C_raw_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-fruit,Prune,prune,1/4 cup,40,https://www.nutritionvalue.org/Plums%2C_uncooked%2C_dried_%28prunes%29_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+fruit,Prune,prune,1/4 cup,40,https://www.nutritionvalue.org/Plums%2C_uncooked%2C_dried_%28prunes%29_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
 fruit,Raisin,raisins,1/4 cup,40,https://www.nutritionvalue.org/Raisins_62125100_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
 fruit,Raspberry,raspberry,1 cup,123,https://www.nutritionvalue.org/Raspberries%2C_raw_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
 fruit,Starfruit,starfruit,1 cup,132,https://www.nutritionvalue.org/Carambola%2C_raw%2C_%28starfruit%29_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
@@ -171,7 +171,7 @@ seeds,Sesame Seeds,sesame-seeds,1 oz,28,https://www.nutritionvalue.org/Seeds%2C_
 seeds,Sunflower Seeds,sunflower-seeds,1 oz,28,https://www.nutritionvalue.org/Seeds%2C_dried%2C_sunflower_seed_kernels_nutritional_value.html?size=100+g,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
 nuts,Walnuts,walnuts,1 oz,28,https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
 grains,Amaranth,amaranth,1/4 cup,48,https://www.nutritionvalue.org/Amaranth_grain%2C_uncooked_nutritional_value.html?size=100+g,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
-grains,Barley,barley,1/4 cup,50,https://www.nutritionvalue.org/Barley%2C_raw%2C_pearled_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+grains,Barley,barley,1/4 cup,50,https://www.nutritionvalue.org/Barley%2C_raw%2C_pearled_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
 grains,Brown Rice,brown-rice,1/4 cup,46,https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
 grains,Buckwheat,buckwheat,1/4 cup,43,https://www.nutritionvalue.org/Buckwheat_nutritional_value.html?size=100+g,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
 grains,Corn,corn,3 oz,85,https://www.nutritionvalue.org/Corn%2C_raw%2C_yellow%2C_sweet_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE

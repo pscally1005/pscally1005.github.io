@@ -2,7 +2,7 @@
 layout: post
 title:  "Healthy Microwave Popcorn"
 date:   2025-04-17 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Finger Foods
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/popcorn
 image: /assets/Food/Finger Food/Popcorn/popcorn.jpg
 ing: popcorn-ing
 facts: popcorn-facts
-servingSize: 
+servingSize:
 section1: Popcorn
 start2: Extra virgin olive oil
 section2: Seasonings
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 2
-Rest: 
+Rest:
 Cook: 3
 Source1: https://cassclaycooking.com/homemade-healthier-microwave-popcorn/#recipe
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/gcAMc
-tags: 
+tags:
 - popcorn kernels
 - movies
 - pfas chemicals
@@ -49,10 +49,40 @@ tags:
 - nooch
 - nutritional yeast
 Description: Despite being thought of as a junk food during movies, <a href='/misc/grains#popcorn'>popcorn</a> can actually be a very healthy and filling snack if done correctly.  It's time to ditch those microwave bags of popcorn which are full of trans <a href='/misc/fats'>fats</a>, <a href='/misc/hidden-sugar'>sugar</a>, and PFAS chemicals.  Going homemade is the way.  Just pop some plain kernels in a brown paper bag in the microwave, season, and enjoy.  This big bowl of food has under 180 <a href='/misc/calories'>calories</a> and over 6 grams of <a href='/misc/fiber'>fiber</a> and 7 grams of <a href='/misc/protein'>protein</a>, while taking less than 5 minutes to make!
-Instructions: 
+Instructions:
 - Add your popcorn to a brown paper bag, and fold down the top 2-3 times
 
 - Microwave on high for about 2-3 minutes, or until the popping occurs more than a second apart
 
-- Transfer to a large bowl.  Season with oil and desired slices.  I'm going with nutritional yeast, paprika, and salt here, but you can use whatever you want.  Try coconut oil, liquid monk fruit, and cinnamon for a dessert popcorn!
+- Transfer to a large bowl.  Season with oil and desired slices.  I'm going with nutritional yeast, paprika, and salt here, but you can use whatever you want
 ---
+You can also make cinnamon sugar popcorn by using coconut oil, granulated monk fruit, and cinnamon.  The recipe is the following:<br><br>
+<ul>
+  <li>3 tbsp (40 g) Popcorn kernels</li>
+  <li>1/2 tsp (2.5 g) Extra virgin coconut oil</li>
+  <li>1 tbsp (12 g) Granulated monk fruit</li>
+  <li>1 tsp (3 g) Cinnamon</li>
+  <li>1/4 tsp (1.5 g) Salt</li>
+</ul><br>
+
+{% assign files =
+    "popcorn,"
+    | append: "popcornsweet"
+    | split: ","
+%}
+{% assign titles =
+    "Nooch<br>Popcorn,"
+    | append: "Cinnamon Sugar<br>Popcorn"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Net Carbs,"
+    | append: "Fiber,"
+    | append: "Added Sugar,"
+    | append: "Sugar Alcohol"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

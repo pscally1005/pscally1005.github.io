@@ -138,7 +138,7 @@
 
             {% if pair[1] == "Sodium" %}
                 {% assign sod = line0 %}
-            {% endif %}        
+            {% endif %}
 
             {% if pair[1] == "Carbohydrate" %}
                 {% assign carb = line1 %}
@@ -319,9 +319,9 @@
                 {% break %}
             {% endif %}
 
-        {% endfor %}  
+        {% endfor %}
 
-    {% endfor %} 
+    {% endfor %}
 
     <!-- Scale down for servings -->
     {% assign addedSugar = addedSugar | divided_by: servings %}
@@ -352,7 +352,7 @@
 
     <!-- Multiplier factor -->
     {% assign factor = 1.0 | round: 2 %}
-        
+
     <!-- Assign factor based on what is being asked for -->
     {% if fetch == "perServing" %}
         {% assign factor = servingSize | divided_by: 100.000 | round: 3 %}
@@ -397,7 +397,7 @@
     {% if nutrient == "Carbs" %}
         {% assign line = carb %}
     {% endif %}
-    
+
     {% if nutrient == "Net Carbs" %}
         {% assign line = netCarbStr %}
     {% endif %}
@@ -592,7 +592,7 @@
         {% endif %}
 
         <!-- Combine for the output -->
-        {% assign output = value | append: ' ' | append: unit | append: '(' | append: percentage | append: ' %)' %}
+        {% assign output = value | append: ' ' | append: unit | append: '<br>(' | append: percentage | append: ' %)' %}
         {% if showPercentage == "False" %}
             {% assign output = value | append: ' ' | append: unit %}
         {% endif %}

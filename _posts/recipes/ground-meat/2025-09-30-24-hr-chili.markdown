@@ -28,15 +28,15 @@ start3: Extra virgin olive oil
 section3: Veggies & Spices
 start4: Crushed tomatoes
 section4: Cans & Cocoa
-start5: 
-section5: 
+start5:
+section5:
 Prep: 480
 Rest: 480
 Cook: 480
 Source1: https://www.poormanprotein.com/recipes/chili
 Source2: https://www.poormanprotein.com/recipes/slow-cooked-beans
 whisk: https://s.samsungfood.com/8gLEL
-tags: 
+tags:
 - ground beef
 - ground turkey
 - ground meat
@@ -63,7 +63,7 @@ tags:
 - crushed tomatoes
 - diced tomatoes
 Description: You know those recipes for 100 hour brownies or 72 hour pizza doughs?  Well this recipe is a 24 hour chili. It's just my <a href='/recipes/chili'>Slow Cooker Chili</a> recipe, but I'm making the beans from scratch instead of using canned. By following my <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a> recipe, you can make a chili with unbeatably soft and creamy beans. The total time is long, but the active time is practically the same.  Or check out any of my other <a href='/soups-and-stews'>soup or stew</a> recipes!
-Instructions: 
+Instructions:
 - At about 10pm, soak your dried beans in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
 
 - At 6am the next day, discard the soaking liquid. Add your beans to a slow cooker with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours
@@ -90,4 +90,7 @@ Instructions:
 - You can even not even use <a href='/misc/beans'>beans</a> at all!  Try making some dried <a href='/misc/grains'>grains</a>, such as <a href='/misc/grains#brown-rice'>brown rice</a>, <a href='/misc/grains#farro'>farro</a>, <a href='/misc/grains#oats'>oats</a>, or <a href='/misc/grains#quinoa'>quinoa</a>.  Below is some delicious <a href='/misc/grains#barley'>barley</a> chili that I made the other day as well
 - <center><a href='/recipes/slow-cooked-beans'><img src='/assets/Food/Sides/Crockpot Beans/barley.jpg' alt="" class="instruction-image"></a></center>
 - <center><img src='/assets/Food/Ground Meat/24 Hour Chili/barley-chili.jpg' alt="" class="instruction-image"></center>
+
+- Or even pea chili using a bag of dried whole green peas (or split peas)!
+- <center><img src='/assets/Food/Ground Meat/24 Hour Chili/pea-chili.jpg' alt="" class="instruction-image"></center>
 ---

@@ -2,17 +2,24 @@
 layout: post
 title:  "Cholesterol: Yay or Nay?"
 date:   2025-09-04 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Nutrition
-showPercentage: no
+showPercentage: yes
 permalink: /misc/cholesterol
 image: /assets/Misc/Nutrition/Cholesterol/Cholesterol.png
-tags: 
+tags:
 - cholesterol
 - mineral
 - supplement
 - micronutrient
+- beef liver
+- eggs
+- seafood
+- fish
+- shrimp
+- sardines
+- squid
 ---
 <u><font size="+2">Introduction</font></u><br>
 &emsp;I'm sure we've all heard of cholesterol. It's been through quite the ringer in nutrition science, but is it really as bad as we once thought?  With the recent realization that <a href='/misc/fats'>fats</a> are indeed good for us, where does that leave cholesterol?<br><br>
@@ -175,10 +182,10 @@ tags:
 
 {% assign nutrient = "Cholesterol" %}
 {% assign rnd = "0" %}
-{% assign categories = 
-    "meat," 
-    | append: "fish," 
-    | append: "dairy" 
+{% assign categories =
+    "meat,"
+    | append: "fish,"
+    | append: "dairy"
     | split: ","
 %}
 {% include nutrients-table.html nutrient=nutrient rnd=rnd categories=categories %}
