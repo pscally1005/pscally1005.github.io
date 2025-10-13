@@ -5,7 +5,7 @@
 {% assign scroll = include.scroll %}
 {% assign last_index = nutrients.size | minus: 1 %}
 
-<div class="table-container">
+<div class='table-container'>
     <table>
         <thead>
             <tr>
@@ -20,10 +20,10 @@
             {% for i in (0..last_index) %}
                 <tr>
                     <td>{{ nutrients[i] }}</td>
-                    
+
                     {% assign nutrient = nutrients[i] %}
 
-                    {% if 
+                    {% if
                         nutrient == "Calories" or
                         nutrient == "Cholesterol" or
                         nutrient == "Sodium" or
@@ -31,19 +31,19 @@
                         nutrient == "Calcium" or
                         nutrient == "Magnesium" or
                         nutrient == "Phosphorus" or
-                        nutrient == "Potassium"   
+                        nutrient == "Potassium"
                     %}
                         {% assign rnd = "0" %}
-                    {% elsif 
-                        nutrient == "Protein" or 
-                        nutrient == "Fat" or 
+                    {% elsif
+                        nutrient == "Protein" or
+                        nutrient == "Fat" or
                         nutrient == "Saturated Fat" or
                         nutrient == "Trans Fat" or
                         nutrient == "Polyunsaturated Fat" or
                         nutrient == "Monounsaturated Fat" or
-                        nutrient == "Carbs" or 
-                        nutrient == "Net Carbs" or 
-                        nutrient == "Fiber" or 
+                        nutrient == "Carbs" or
+                        nutrient == "Net Carbs" or
+                        nutrient == "Fiber" or
                         nutrient == "Sugar" or
                         nutrient == "Sugar Alcohol" or
                         nutrient == "Added Sugar" or
@@ -57,7 +57,7 @@
                         nutrient == "Selenium"
                     %}
                         {% assign rnd = "1" %}
-                    {% elsif 
+                    {% elsif
                         nutrient == "Vitamin B1" or
                         nutrient == "Vitamin B2" or
                         nutrient == "Vitamin B6" or
@@ -89,12 +89,12 @@
                             {% assign ing_file = f | append: "-ing" %}
                             {% assign facts_file = f | append: "-facts" %}
 
-                                {% include getNutrient.html 
-                                    ing=ing_file 
-                                    facts=facts_file 
-                                    servingSize="100" 
-                                    nutrient=nutrient 
-                                    fetch="perServing" 
+                                {% include getNutrient.html
+                                    ing=ing_file
+                                    facts=facts_file
+                                    servingSize="100"
+                                    nutrient=nutrient
+                                    fetch="perServing"
                                     rnd=rnd
                                     folder=include.folder
                                 %}
@@ -141,7 +141,7 @@
 {% endif %}
 
 {% if include.pic %}
-    <center><img src="{{ pic }}" alt="" class="smaller-image"></center><br>
+    <center><img src='{{ pic }}' alt='' class='smaller-image'></center><br>
 {% endif %}
 <hr>
 

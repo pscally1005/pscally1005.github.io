@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Air Fryer Chicken Jerky"
+title:  Air Fryer Chicken Jerky
 date:   2023-11-29 00:00:00 -0500
-categories: 
+categories:
 - Recipes
 - Finger Foods
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Finger Food/Jerky/jerky.jpg
 ing: jerky-ing
 facts: jerky-facts
 servingSize: 1 oz (28 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 30
-Rest: 
+Rest:
 Cook: 60
 Source1: https://airfryandeat.com/chicken-jerky-in-the-air-fryer/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/bwfVe
-tags: 
+tags:
 - beef jerkey
 - air fryer
 - dehydrate
@@ -47,7 +47,7 @@ tags:
 - protein
 - vic
 Description: Chicken jerky is a great high <a href='/misc/protein'>protein</a> snack, and it's way cheaper than buying beef jerky at the store (or use this to make beef jerky too). It's simple to do, just requiring an overnight marinate of thinly sliced <a href='/misc/meat#chicken-breast'>chicken</a> breasts, and a few hours of dehydrating. They're spicy, sweet, salty, healthy, and delicious.
-Instructions: 
+Instructions:
 - Thinly slice the chicken, about 1/4 inch thick. Using slightly frozen chicken will make it easier to slice. Mix with the marinade, and let sit in the fridge overnight (covered if in a bowl, or seal the bag).  You can add 1 tbsp (16 g) gochjang into the marinade as well if you like
 
 - Remove the excess marinade and add to a parchment lined basket. Air fry at 370F for about 9-10 minutes, or until the chicken just reaches 165F. This is to ensure safety and that all salmonella is cooked off prior to dehydrating

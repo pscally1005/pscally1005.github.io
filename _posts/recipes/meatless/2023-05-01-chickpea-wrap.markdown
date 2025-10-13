@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tomato Chickpea Wraps"
+title:  Tomato Chickpea Wraps
 date:   2023-05-01 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meatless
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/chickpea-wrap
 image: /assets/Food/Meatless/Chickpea Wrap/cover.jpg
 ing: chickpeawrap-ing
 facts: chickpeawrap-facts
-servingSize: 
+servingSize:
 section1: Chickpeas
 start2: Whole wheat tortilla
 section2: Wrap
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 40
 Source1: https://www.youtube.com/watch?v=iKMI1xkU_oo
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/hU52x
-tags: 
+tags:
 - chana masala
 - tortilla
 - wrap
@@ -49,7 +49,7 @@ tags:
 - indian
 - rice
 Description: These tomato chickpea wraps are inspired by Indian Chana Masala, but made much simpler and easier for you to easily make for yourself for a weekday lunch. Serve on a tortilla, like my <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, or with a side of <a href='/misc/grains#brown-rice'>rice</a>.
-Instructions: 
+Instructions:
 - For your carb, you can either have tortillas or <a href='/misc/grains#brown-rice'>brown rice</a>.  For 5 servings, you'll either need 5 <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, or cook 1 cup (185 g) rice according to the instructions
 
 - Meanwhile, cut your onions into a small dice, and add them to 12” pan with some oil, salt, and minced garlic.  Cook over medium heat for 5 minutes, covered

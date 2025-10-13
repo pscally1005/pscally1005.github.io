@@ -4,9 +4,9 @@
         <input type="text" id="search-input" placeholder="Type your search here..." autofocus>
         <span id="clear-button">&times;</span>
     </div>
-    
+
     <!-- Search Results Count -->
-    <div id="results-count" class="page-post-count"></div> <!-- This will display the number of results found -->
+    <div id="results-count" class='page-post-count'></div> <!-- This will display the number of results found -->
 
     <!-- Search Results Container -->
     <ul id="results-container"></ul>
@@ -79,22 +79,22 @@
         let allergenHTML = '';
 
         if (glutenFree) {
-            allergenHTML += '<span class="allergen gluten-free" title="Gluten Free">GF</span> ';
+            allergenHTML += '<span class='allergen gluten-free' title="Gluten Free">GF</span> ';
         }
         if (vegetarian) {
-            allergenHTML += '<span class="allergen vegetarian" title="Vegetarian">V</span> ';
+            allergenHTML += '<span class='allergen vegetarian' title="Vegetarian">V</span> ';
         }
         if (dairyFree) {
-            allergenHTML += '<span class="allergen dairy-free" title="Dairy Free">DF</span> ';
+            allergenHTML += '<span class='allergen dairy-free' title="Dairy Free">DF</span> ';
         }
         if (vegan) {
-            allergenHTML += '<span class="allergen vegan" title="Vegan">VG</span> ';
+            allergenHTML += '<span class='allergen vegan' title="Vegan">VG</span> ';
         }
         if (nutFree) {
-            allergenHTML += '<span class="allergen nut-free" title="Nut Free">NF</span> ';
+            allergenHTML += '<span class='allergen nut-free' title="Nut Free">NF</span> ';
         }
         if (sugarFree) {
-            allergenHTML += '<span class="allergen sugar-free" title="Sugar Free">SF</span> ';
+            allergenHTML += '<span class='allergen sugar-free' title="Sugar Free">SF</span> ';
         }
 
         return allergenHTML.trim(); // Return the formatted string
@@ -106,22 +106,22 @@
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
         searchResultTemplate: `
-            <li class="result-item" 
-                data-gluten-free="{gluten-free}" 
-                data-vegetarian="{vegetarian}" 
-                data-dairy-free="{dairy-free}" 
-                data-vegan="{vegan}" 
-                data-nut-free="{nut-free}" 
+            <li class='result-item'
+                data-gluten-free="{gluten-free}"
+                data-vegetarian="{vegetarian}"
+                data-dairy-free="{dairy-free}"
+                data-vegan="{vegan}"
+                data-nut-free="{nut-free}"
                 data-sugar-free="{sugar-free}">
-                <a class="post-link" href="{url}">
-                    <img src="{image}" alt="" class="blog-roll-image">
-                    <span class="post-meta">{date}</span>
-                    <div class="post-title">
-                        <span class="post-count"></span> <!-- Placeholder for numbering -->
-                        <a class="post-link" href="{url}">{title}</a>
+                <a class='post-link' href="{url}">
+                    <img src='{image}' alt='' class='blog-roll-image'>
+                    <span class='post-meta'>{date}</span>
+                    <div class='post-title'>
+                        <span class='post-count'></span> <!-- Placeholder for numbering -->
+                        <a class='post-link' href="{url}">{title}</a>
                     </div>
                     <center>
-                        <div class="allergen-container">
+                        <div class='allergen-container'>
                             <!-- Allergen HTML will be injected here -->
                         </div>
                     </center>
@@ -133,18 +133,18 @@
     const searchInput = document.getElementById('search-input');
     const resultsCountElement = document.getElementById('results-count');
     const clearButton = document.getElementById('clear-button');
-  
+
     function updateResultsUI() {
       const resultItems = document.querySelectorAll('#results-container .result-item');
       const visibleItems = [...resultItems].filter(item => item.offsetParent !== null);
       const count = visibleItems.length;
-  
+
       resultsCountElement.textContent = count > 0 ? `${count} result(s) found` : 'No results found';
-  
+
       visibleItems.forEach((item, index) => {
         const countElement = item.querySelector('.post-count');
         if (countElement) countElement.textContent = `${index + 1}.`;
-  
+
         const allergenContainer = item.querySelector('.allergen-container');
         if (allergenContainer) {
           allergenContainer.innerHTML = formatAllergens(
@@ -158,12 +158,12 @@
         }
       });
     }
-  
+
     searchInput.addEventListener('input', () => {
       clearButton.style.display = searchInput.value.length ? 'block' : 'none';
       setTimeout(updateResultsUI, 0);
     });
-  
+
     clearButton.addEventListener('click', () => {
       searchInput.value = '';
       clearButton.style.display = 'none';

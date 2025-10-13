@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Peanut Butter and Whey Sandwich"
+title:  Peanut Butter and Whey Sandwich
 date:   2023-09-18 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meme Recipes
 - Delete
@@ -21,23 +21,23 @@ permalink: /recipes/pb-whey
 image: /assets/Food/Meme/PB Whey/pb-whey.jpg
 ing: pbwhey-ing
 facts: pbwhey-facts
-servingSize: 
+servingSize:
 section1: Bread
 start2: Natural peanut butter
 section2: Peanut Butter
 start3: Banana, overripe
 section3: Jelly
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/rR6Hq
-tags: 
+tags:
 - peanut butter and jelly
 - bread
 - whole wheat
@@ -57,7 +57,7 @@ tags:
 - pb2
 - pbfit
 Description: I came up with this idea, as it rhymes with PB&J, and serves as a tastier and healthier option for the classic sandwich. The added proteins in the <a href='/recipes/natural-peanut-butter'>peanut butter</a> and jelly serve to make the sandwich more filling, and without the added sugars of typical jelly or jam. To make it even better, serve this on <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>
-Instructions: 
+Instructions:
 - For the peanut butter - in a small bowl or glass, combine peanut butter, powdered peanut butter, and milk
 
 - For the jelly - In a small bowl, mash the banana. Mix with the protein powder and cinnamon.  Add some sweetner if you like (1/4 tsp, 1.25 g liquid monk fruit or stevia)

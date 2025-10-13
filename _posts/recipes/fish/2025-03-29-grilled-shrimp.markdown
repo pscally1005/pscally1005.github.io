@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Grilled Shrimp Skewers"
+title:  Grilled Shrimp Skewers
 date:   2025-03-29 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Fish
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/grilled-shrimp
 image: /assets/Food/Fish/Grilled Shrimp/cover.jpg
 ing: grilledshrimp-ing
 facts: grilledshrimp-facts
-servingSize: 
+servingSize:
 section1: Shrimp
 start2: Hot sauce
 section2: Marinade
-start3: 
-section3: 
-start4: 
-section4:  
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
 Rest: 60
 Cook: 10
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/URA67
-tags: 
+tags:
 - frozen shrimp
 - peeled and deveined
 - hot sauce
@@ -45,13 +45,13 @@ tags:
 - paprika
 - extra virgin olive oil
 Description: Grilled <a href='/misc/fish#shrimp'>shrimp</a> is super easy to make, and is such a great way to mix it up from grilled <a href='/misc/meat#chicken-breast'>chicken</a>. My family makes this every barbeque we have, and it's always my favorite dish. You can also cook this on your stove if you don't have a grill. Simply marinate the shrimp for a few hours, and cook as desired!  Serve with whatever <a href='/misc/carbs'>carb</a> and <a href='/misc/veggies'>vegetable</a> you desire; today, it's <a href='/recipes/butternut-squash'>Roasted Butternut Squash with Onions</a> and <a href='/recipes/vegetable-medley'>Spinach and Onion Vegetable Medley</a>
-Instructions: 
+Instructions:
 - Place a large strainer in a clean sink. Add your shrimp to the strainer, and rinse with cold water for about 5 minutes, turning over occasionally, until thawed
-- <center><img src='/assets/Food/Fish/Grilled Shrimp/sink.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Grilled Shrimp/sink.jpg' alt='' class='instruction-image'></center>
 
 - Meanwhile, combine hot sauce, lemon juice, minced garlic, soy sauce, olive oil, paprika, and oregano in a large bowl. Add in the shrimp, and mix until combined. Cover and let marinate in the fridge for at least 1 hour, and up to 24 hours
-- <center><img src='/assets/Food/Fish/Grilled Shrimp/marinate.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Grilled Shrimp/marinate.jpg' alt='' class='instruction-image'></center>
 
 - You can either saute these on the stove in a pan over medium heat, or cook them on the grill using wooden skewers. Cook until the shrimp turns pink and the temperature is at least 140F
-- <center><img src='/assets/Food/Fish/Grilled Shrimp/skewer.jpg' alt="" class="half-page"><img src='/assets/Food/Fish/Grilled Shrimp/saute.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Fish/Grilled Shrimp/skewer.jpg' alt='' class='half-page'><img src='/assets/Food/Fish/Grilled Shrimp/saute.jpg' alt='' class='half-page'></center>
 ---

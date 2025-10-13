@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "(No Longer Allowed In) Manhattan Clam Chowder"
+title:  (No Longer Allowed In) Manhattan Clam Chowder
 date:   2025-06-22 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Fish
 showPercentage: no
@@ -20,7 +20,7 @@ permalink: /recipes/manhattan-clam-chowder
 image: /assets/Food/Fish/M Clam Chowder/pot.jpg
 ing: manhattan-ing
 facts: manhattan-facts
-servingSize: 
+servingSize:
 section1: Step 1
 start2: Potato
 section2: Step 2
@@ -28,15 +28,15 @@ start3: Garlic powder
 section3: Step 3
 start4: Lemon juice
 section4: Step 4
-start5: 
-section5: 
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 45
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/qgdSd
-tags: 
+tags:
 - canned clams
 - minced clams
 - chopped clams
@@ -49,7 +49,7 @@ tags:
 - carrots
 - fat free evaporated milk
 Description: Manhattan <a href='/misc/fish#clam'>Clam</a> Chowder is a classic tomato based broth soup. This is my leaner take on the dish, with more <a href='/misc/veggies'>vegetables</a>, less <a href='/misc/fats'>fat</a>, and less <a href='/misc/calories'>calories</a>. I've cut out the <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/meat#bacon'>bacon</a> to lower the <a href='/misc/fats'>fat</a>, added extra vegetables for more <a href='/misc/fiber'>fiber</a> and vitamins, and removed the flour to make it gluten free. If you instead prefer creamy soups, you should check out my similar <a href='/recipes/new-england-clam-chowder'>(I'm Banned From) New England Clam Chowder</a>
-Instructions: 
+Instructions:
 - Preheat a large pot over medium heat with olive oil. Cut your vegetables into a small dice, and add to the pot with salt. Cook until the peppers and carrots are soft, and the onions are translucent, about 20 minutes. Add in the garlic, and cook until fragrant, about 30 seconds
 
 - Meanwhile, wash your potatoes, and cut into a medium dice, leaving the skin on. Any potatoes will work here like Yukon gold, red, or even sweet potatoes

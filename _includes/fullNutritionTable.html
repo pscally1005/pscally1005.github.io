@@ -1,5 +1,5 @@
 <!-- Button to open the table in a new window -->
-<div class="full-nutrition-button">
+<div class='full-nutrition-button'>
     <button id="openInNewWindowBtn">Full Nutrition Facts</button>
 </div>
 
@@ -20,27 +20,27 @@
         // Define the table structure as a string
         var tableContent = '<html><head><title>Nutrition Facts</title>';
         tableContent += '<style>';
-        
+
         tableContent += 'table { width: 100%; border-collapse: collapse; background-color: ' + backgroundColor + '; }';
-        
+
         // Borders for table cells and text color
         tableContent += 'th, td { padding: 8px; border: 1px solid black; text-align: left; color: ' + textColor + '; }';
-        
+
         // Sticky header for the table with both top and bottom borders
         tableContent += 'thead th { position: sticky; top: 40px; background-color: ' + backgroundColor + '; z-index: 2; ';
         tableContent += 'padding-top: 8px; padding-bottom: 8px; border-top: 1px solid black; border-bottom: 1px solid black; color: ' + textColor + '; }';
-        
+
         // Fixed position search box with bottom border and matching background and text colors
         tableContent += '#searchBox { position: fixed; top: 0; z-index: 3; background-color: ' + backgroundColor + '; width: 100%; ';
         tableContent += 'font-size: 16px; border-bottom: 1px solid black; box-sizing: border-box; padding: 8px; height: 40px; ';
         tableContent += 'color: ' + textColor + '; }';
-        
+
         // Ensure no margin or padding around body to remove any gap between the search box and table
-        tableContent += 'body { margin: 0; padding: 0; padding-top: 40px; background-color: ' + backgroundColor + '; color: ' + textColor + '; }'; 
+        tableContent += 'body { margin: 0; padding: 0; padding-top: 40px; background-color: ' + backgroundColor + '; color: ' + textColor + '; }';
 
         tableContent += '</style>';
         tableContent += '</head><body>';
-        
+
         // Add the search box at the very top
         tableContent += '<input type="text" id="searchBox" placeholder="Search for a nutrient...">';
 
@@ -91,15 +91,15 @@
         newWindow.document.addEventListener('DOMContentLoaded', function () {
             var searchBox = newWindow.document.getElementById('searchBox');
             var tableBody = newWindow.document.getElementById('nutritionTableBody');
-            
+
             searchBox.addEventListener('input', function () {
                 var searchTerm = searchBox.value.toLowerCase();
                 var rows = tableBody.getElementsByTagName('tr');
-                
+
                 for (var i = 0; i < rows.length; i++) {
                     var row = rows[i];
                     var nutrient = row.cells[0].textContent.toLowerCase(); // Get the text content of the nutrient column
-                    
+
                     // If the search term matches the nutrient, show the row; otherwise, hide it
                     if (nutrient.indexOf(searchTerm) !== -1) {
                         row.style.display = '';

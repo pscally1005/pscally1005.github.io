@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Edible Cookie Dough Bites"
-date:   2024-12-21 00:00:01 -05000
+title:  Edible Cookie Dough Bites
+date:   2024-12-21 00:00:00 -05000
 categories: 
 - Recipes
 - Healthier Dessert

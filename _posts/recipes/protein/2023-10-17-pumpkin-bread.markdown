@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Protein Pumpkin Loaf"
+title:  Protein Pumpkin Loaf
 date:   2023-10-17 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Protein Powder
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 1 slice
 section1: Wet
 start2: Oat flour
 section2: Dry
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 60
 Source1: https://www.poormanprotein.com/recipes/banana-protein
 Source2: https://www.poormanprotein.com/recipes/apple-bread
 whisk: https://s.samsungfood.com/MWkn4
-tags: 
+tags:
 - pumpkin spice
 - butternut squash
 - sweet potatoo
@@ -59,7 +59,7 @@ tags:
 - oat flour
 - nutmeg
 Description: Fall season means pumpkin season, and this pumpkin loaf is full of <a href='/misc/protein'>protein</a>, and with a good amount of <a href='/misc/fiber'>fiber</a> and healthy <a href='/misc/fats'>fats</a> too. It's a great breakfast or dessert that I think you'll enjoy.  You should also try my other fruity <a href='/misc/protein'>protein</a> cakes, such as <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a>, <a href='/recipes/apple-bread'>Protein Apple Bread</a>, or <a href='/recipes/carrot-cake'>Layered Protein Carrot Cake</a>.  For more pumpkin recipes, see my <a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>
-Instructions: 
+Instructions:
 - Preheat your oven to 350F.  Line a 9x5" bread pan with parchment paper, and lightly grease the paper
 
 - In a large bowl, whisk together all the wet ingredients until well combined - pumpkin puree, nut butter, sweetener, and water (or milk)
@@ -73,5 +73,5 @@ Instructions:
 - Add the dry ingredients to the wet, and mix until just fully combined.  Transfer the batter to the pan
 
 - Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing
-- <center><img src='/assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-3.jpg' alt='' class='instruction-image'></center>
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sloppy Joe Skillets"
+title:  Sloppy Joe Skillets
 date:   2023-09-19 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/sloppy-joe
 image: /assets/Food/Ground Meat/Sloppy Joe/cover.jpg
 ing: sloppyjoe-ing
 facts: sloppyjoe-facts
-servingSize: 
+servingSize:
 section1: Vegetables
 start2: Ground turkey, 93/7
 section2: Meat & Spices
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 40
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/MGuZR
-tags: 
+tags:
 - american
 - sandwich
 - bun
@@ -50,7 +50,7 @@ tags:
 - mustard
 - chili
 Description: Sloppy joes are an American classic, and this variation removes the <a href='/misc/hidden-sugar'>sugar</a> filled ketchup and adds some more <a href='/misc/veggies'>vegetables</a> as well. These go great on a plate with a side of <a href='/misc/grains#brown-rice'>rice</a>, roasted veggies, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, or on a sandwich.
-Instructions: 
+Instructions:
 - Finely chop the peppers and onions.  Place a medium skillet over medium heat with oil. When the pan is hot, add onions and peppers.  Cover and cook under occasional stirring until the onions are translucent, about 10 minutes
 
 - Add the meat to the pan, and cook until no longer pink. When the meat is nearly done, add the garlic and cook until fragrant

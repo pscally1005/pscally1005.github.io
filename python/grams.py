@@ -285,6 +285,8 @@ def grams(food, mass, vol):
     if food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour":
         if vol == "2 tbsp":
             return str("15")
+        elif vol == "3 tbsp":
+            return str("22.5")
         elif vol == "4 tbsp" or vol == "1/4 cup":
             return str("30")
         elif vol == "1/2 cup":

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sweet Potato Yogurt with Sliced Strawberries"
+title:  Sweet Potato Yogurt with Sliced Strawberries
 date:   2024-07-14 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/sweet-potato-yogurt
 image: /assets/Food/Breakfast/Sw Pot Yogurt/sw-pot-yogurt.jpg
 ing: yogurtswpot-ing
 facts: yogurtswpot-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/cznnj
-tags: 
+tags:
 - yogurt
 - plain nonfat greek yogurt
 - protein powder
@@ -67,7 +67,7 @@ tags:
 - raspberries
 - frozen berries
 Description: This has been my breakfast for the past 4 mornings, and I'm prepared to have it another 4 times because it's great. This bowl is a great source of <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>healthy <a href='/misc/fats'>fats</a></a>, <a href='/misc/carbs'>complex carbs</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/calcium'>calcium</a>, <a href='/misc/potassium'>potassium</a>, <a href='/misc/vitamin-b12'>vitamin B12</a>, and <a href='/misc/nutrient-alphabet#A'>vitamin A</a>. It's delicious, filling, and super quick to make.  You can also check out any of my other <a href='/yogurt'>yogurt recipes</a>!
-Instructions: 
+Instructions:
 - Here I'm using <a href='/recipes/sweet-potato-puree'>sweet potato puree</a> that I made by roasting and blending a whole sweet potato (with the skin) until smooth.  Some substitutes would be <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, unsweetened applesauce, mashed banana, or <a href='/recipes/apple-spread'>apple spread</a>
 
 - Some other ingredient swaps would be:<br><ul><li>Use cottage cheese instead of yogurt</li><li>Using a different <a href='/recipes/natural-peanut-butter'>natural nut butter</a> instead of almond</li><li>Replacing the strawberries with any other berries, like blueberries, raspberries, or blackberries</li><li>You can also add 2 tbsp of chia seeds (25 g) or ground flax seeds (13 g) for additional <a href='/misc/fiber'>fiber</a>, <a href='/misc/fats'>fat</a>, and Omega-3s</li></ul><br>

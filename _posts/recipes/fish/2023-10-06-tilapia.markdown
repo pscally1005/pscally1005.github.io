@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Air Fried Tilapia from Frozen"
+title:  Air Fried Tilapia from Frozen
 date:   2023-10-06 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Fish
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/tilapia
 image: /assets/Food/Fish/Tilapia/tilapia.jpg
 ing: tilapia-ing
 facts: tilapia-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 4
-Rest: 
+Rest:
 Cook: 6
 Source1: https://summeryule.com/air-fryer-tilapia-with-garlic-chive-miso-butter/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/yiE8x
-tags: 
+tags:
 - air fry
 - bake
 - oven
@@ -48,7 +48,7 @@ tags:
 - tajin
 - seafood
 Description: <a href='/misc/fish#tilapia'>Tilapia</a> fillets are a staple in my freezer, as they're super easy to put together for a quick dinner during the week. They're made even faster by cooking them straight out of the freezer in the air fryer. These will be from freezer to plate in just 10 minutes, and put whatever spices you want on here!
-Instructions: 
+Instructions:
 - Preheat your air fryer to 400F
 
 - Spray the bottom of the basket with oil, and place in the fish. Spray the top with fish, and season the top

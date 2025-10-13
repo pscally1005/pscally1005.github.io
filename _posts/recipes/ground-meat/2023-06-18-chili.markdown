@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Slow Cooker Chili"
+title:  Slow Cooker Chili
 date:   2023-06-18 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/chili
 image: /assets/Food/Ground Meat/Chili/chili-cover.jpg
 ing: chili-ing
 facts: chili-facts
-servingSize: 
+servingSize:
 section1: Vegetables & Spices
 start2: Ground turkey, 93/7
 section2: Meat
 start3: Crushed tomatoes
 section3: Cans & Cocoa
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 45
-Rest: 
+Rest:
 Cook: 480
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/3s11e
-tags: 
+tags:
 - beans
 - kidney
 - black
@@ -62,7 +62,7 @@ tags:
 - vic
 - cornbread
 Description: Chili is such a classic cold weather hearty meal, and this version comes together pretty quickly and makes a lot of food. Mix in some elbow noodles or <a href='/misc/grains#brown-rice'>rice</a> if you want to bulk it up even more. Nothing beats the smell of coming home and smelling fresh chili just waiting for you for dinner.  Chili pairs so well with cornbread, so check out my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> for a high <a href='/misc/protein'>protein</a> and delicious side dish!  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
-Instructions: 
+Instructions:
 - Chop up the vegetables, and add them to a large skillet with olive oil, garlic, and salt. Cook over medium heat (covered) until soft. Set vegetables aside in crock pot
 
 - Meanwhile, drain and rinse the cans of beans. Transfer all the beans, cocoa, and tomatoes to the crock pot
@@ -70,5 +70,5 @@ Instructions:
 - Add in the meat and cook until no longer pink over medium heat, and transfer to crockpot
 
 - Cover and cook for 8 hours on low or 6 hours on high
-- <center><img src='/assets/Food/Ground Meat/Chili/chili-4.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Chili/chili-4.jpg' alt='' class='instruction-image'></center>
 ---

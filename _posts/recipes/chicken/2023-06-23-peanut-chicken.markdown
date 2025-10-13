@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peanut Chili Chicken Skillet"
+title:  Peanut Chili Chicken Skillet
 date:   2023-06-23 00:00:00 -0500
 categories:
 - Recipes
@@ -20,7 +20,7 @@ permalink: /recipes/peanut-chicken
 image: /assets/Food/Chicken/Peanut/peanut-cover.jpg
 ing: peanutchicken-ing
 facts: peanutchicken-facts
-servingSize: 
+servingSize:
 section1: Meat
 start2: Carrots
 section2: Veggies
@@ -28,15 +28,15 @@ start3: Powdered peanut butter
 section3: Sauce
 start4: Sesame oil
 section4: Optional
-start5: 
-section5: 
+start5:
+section5:
 Prep: 30
-Rest: 
+Rest:
 Cook: 30
 Source1: https://www.youtube.com/watch?v=2l1jKvh9FaU&t=10s
 Source2: https://www.youtube.com/watch?v=Aq0n2ziRemc
 whisk: https://s.samsungfood.com/MIWMv
-tags: 
+tags:
 - peanut butter
 - PB2
 - peanut powder
@@ -53,9 +53,9 @@ tags:
 - ginger
 - chopstick
 Description: I'm a big sucker for <a href='/misc/nuts#peanuts'>peanut</a> butter. As an American, the glorious <a href='/misc/nuts'>nut</a> nectar is normally only used for sweet things, which I think is a missed opportunity. The sauce here takes some great Asian inspiration, and tastes fantastic on <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, and a side of <a href='/misc/grains#brown-rice'>brown rice</a>. I used powdered peanut butter here, as it's easier to mix into the sauce, and it also boosts the <a href='/misc/protein'>protein</a> content. Feel free to swap the olive oil and cook in <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> instead for even more flavor.
-Instructions: 
+Instructions:
 - Wash and cut the vegetables. Add the onions and carrots to a large pot or pan with oil. Cook over medium heat (covered) with salt until soft
-- <center><img src='/assets/Food/Chicken/Peanut/peanut-1.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Peanut/peanut-1.jpg' alt='' class='instruction-image'></center>
 
 - When the carrots are about half done, add in the coleslaw mix and the rest of the spices for the vegetables (oil, paprika, garlic and onion powder, salt, pepper, and ginger). Mix, cover, and cook to reduce it down
 
@@ -66,5 +66,5 @@ Instructions:
 - As the chicken rests and the vegetables cook, prepare your sauce in a large glass - PB2, soy sauce, ACV, water, gochujang, cornstarch, ginger, and sesame oil
 
 - Cut the chicken into cubes, and add to the pan. Pour the sauce over it, and mix to fully combine. The cornstarch should thicken the sauce when heated. Optionally, garnish with peanuts, and serve over some <a href='/misc/grains#brown-rice'>brown rice</a>
-- <center><img src='/assets/Food/Chicken/Peanut/peanut-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Peanut/peanut-6.jpg' alt='' class='instruction-image'></center>
 ---

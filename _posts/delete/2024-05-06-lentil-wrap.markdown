@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Red Lentil Wraps"
+title:  Red Lentil Wraps
 date:   2024-05-06 00:00:00 -0500
 categories:
 - Recipes
@@ -22,22 +22,22 @@ image: /assets/Food/Bread/Lentil Wrap/lentil-wrap.jpg
 ing: redlentilwrap-ing
 facts: redlentilwrap-facts
 servingSize: 1 wrap
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 15
 Source1: https://www.youtube.com/watch?v=G9WpnpJ5vg4
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/JHRV5
-tags: 
+tags:
 - wrap
 - tortilla
 - flatbread
@@ -53,7 +53,7 @@ tags:
 - fiber
 - bean
 Description: These super simple wraps are gluten free, healthy, and high in <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>. They only take 3 ingredients (if you even count salt and water as ingredients), are super simple to make, and great with any filling
-Instructions: 
+Instructions:
 - Using a strainer, wash your lentils. Add to a large blender with water and salt. Let soak for 3 hours
 
 - After soaking, blend until smooth

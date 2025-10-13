@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Low Sugar Berry Jam"
+title:  Low Sugar Berry Jam
 date:   2023-06-05 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sweet Spreads
 showPercentage: no
@@ -28,15 +28,15 @@ start3: Oat flour
 section3: Step 3
 start4: Lemon juice
 section4: Step 4
-start5: 
-section5: 
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=N5KhL0Al9vE&t=1s
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/sQGWG
-tags: 
+tags:
 - jam
 - jelly
 - blueberry
@@ -50,7 +50,7 @@ tags:
 - homey
 - frozen berry
 Description: As you probably know by now, I love a good PBJ with a low <a href='/misc/hidden-sugar'>sugar</a> <a href='/misc/fake-healthy-foods#jelly'>jam</a>. This simple berry jam makes use of extra fresh berries that you probably picked up at a farmers market. The pectin in the <a href='/misc/fruit#apple'>apples</a> helps thicken it and make it slightly sweeter, and the little maple syrup really rounds out the flavors.  For a <a href='/misc/seeds#chia-seeds'>chia</a> seed version, be sure to make my <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a>.  Or pair it with <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> and <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a> for the classic PB&J combination
-Instructions: 
+Instructions:
 - To a 10” pan, add the berries and maple syrup. Mash with a potato masher
 
 - Over medium heat, add in applesauce, and bring to light simmer. Cook for an additional 2-3 minutes

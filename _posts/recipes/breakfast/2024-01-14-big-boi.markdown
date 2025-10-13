@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bigger Boi Oatmeal"
+title:  Bigger Boi Oatmeal
 date:   2024-01-14 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/big-boi
 image: /assets/Food/Breakfast/Big Boi/big-boi.jpg
 ing: bigboi-ing
 facts: bigboi-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 2
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/O86kY
-tags: 
+tags:
 - protein
 - casein
 - whey
@@ -52,7 +52,7 @@ tags:
 - microwave
 - chocolate
 Description: I got used to eating a bit less at meals, breakfast included, when I got injured, as I was exercising a lot less. But I've been able to get back into running recently, meaning I need to eat a bit more in the morning. It's got a good source of <a href='/misc/protein'>protein</a> (<a href='/misc/dairy#yogurt'>yogurt</a> and protein powder), <a href='/misc/fats'>healthy <a href='/misc/fats'>fats</a></a> (dark chocolate and nuts), and <a href='/misc/carbs'>complex carbs</a> (<a href='/misc/grains#oats'>oats</a> and <a href='/misc/fruit#banana'>banana</a>) to power my run a few hours later.  You can also check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
-Instructions: 
+Instructions:
 - In a medium bowl, mash half your banana with the back of a fork. Mix the rest of the ingredients into the bowl, and top with the other half of the banana, chopped nuts, and chopped chocolate
 
 - You can make this oatmeal the night before and eat them as overnight oats, but I'm going to eat this warm, in order to melt the chocolate and make it creamy. Cover with a plate, and microwave on high for 2-3 minutes

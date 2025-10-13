@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Peanut Butter Banana Bars"
+title: Peanut Butter Banana Bars
 date:   2023-04-05 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Healthier Dessert/PB Banana Bake/pbb-cover.jpg
 ing: pbbbake-ing
 facts: pbbbake-facts
 servingSize: 1 bar
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 25
 Source1: https://www.sammibrondo.com/blog/peanut-butter-banana-bars
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/e6Lb7
-tags: 
+tags:
 - natural nut butter
 - peanut butter
 - oats
@@ -50,17 +50,17 @@ tags:
 - banana
 - mashed banana
 Description: Remember how I mentioned that most healthy recipes are a combo of <a href='/misc/fruit#banana'>banana</a>, <a href='/misc/nuts#peanuts'>peanut</a> butter, chocolate, and <a href='/misc/grains#oats'>oats</a>? Well this is my baked version of that formula.  For a no-bake recipe with similar ingredients, see my <a href='/recipes/cookie-bar'>No Bake Cookie Bars</a>
-Instructions: 
+Instructions:
 - Preheat the oven to 350F. Line a 9x5 loaf pan with parchment paper
 
 - Mash the ripe bananas with a fork (or blend them and add them to the bowl). Mix in the peanut butter, vanilla, baking powder, salt until fully combined.  Stir in the oats.  Fold in most of your chocolate chips, reserving some for the top
-- <center><img src='/assets/Food/Healthier Dessert/PB Banana Bake/pbb-raw-bowl.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/PB Banana Bake/pbb-raw-bowl.jpg' alt='' class='instruction-image'></center>
 
 - Transfer the mixture into the pan, and top with your remaining chocolate.  Bake for 25 minutes, or until a toothpick comes out almost clean
-- <center><img src='/assets/Food/Healthier Dessert/PB Banana Bake/pbb-raw-pan.jpg' alt="" class="half-page"><img src='/assets/Food/Healthier Dessert/PB Banana Bake/pbb-baked.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Healthier Dessert/PB Banana Bake/pbb-raw-pan.jpg' alt='' class='half-page'><img src='/assets/Food/Healthier Dessert/PB Banana Bake/pbb-baked.jpg' alt='' class='half-page'></center>
 
 - You can also bake these as mini muffins for about 15 minutes at 350F. Makes 24 (meaning that 1 serving is 3 mini muffins)
 
 - Take out of the pan and place on a cooling rack in the fridge for at least 1 hour before slicing
-- <center><img src='/assets/Food/Healthier Dessert/PB Banana Bake/pbb-sliced.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/PB Banana Bake/pbb-sliced.jpg' alt='' class='instruction-image'></center>
 ---

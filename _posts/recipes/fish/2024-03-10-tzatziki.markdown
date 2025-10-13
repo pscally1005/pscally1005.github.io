@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Roasted Salmon and Sprouts with Tzatziki"
+title:  Roasted Salmon and Sprouts with Tzatziki
 date:   2024-03-10 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Fish
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/salmon-and-tzatziki
 image: /assets/Food/Fish/Tzatziki/tzatziki-cover.jpg
 ing: tzatziki-ing
 facts: tzatziki-facts
-servingSize: 
+servingSize:
 section1: Tzatziki
 start2: Frozen brussel sprouts, thawed
 section2: Brussel Sprouts
 start3: Salmon
 section3: Salmon
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 20
 Rest: 60
 Cook: 30
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/LA06D
-tags: 
+tags:
 - bake
 - oven
 - roast
@@ -56,11 +56,11 @@ tags:
 - salmon filet
 - fillet
 Description: Lemon and <a href='/misc/fish#salmon'>salmon</a> go great together, one of my favorite combinations. I've also made a side of tzatziki sauce here, as well as some roasted <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a>. This is a great light and healthy summery meal with plenty of Greek flavors
-Instructions: 
+Instructions:
 - Starting with the Tzatziki. Finely dice your cucumber, and add to a strainer with salt. Let sit for about an hour to draw out excess water
 
 - To a medium bowl, combine the cucumber, yogurt, lemon juice, minced garlic, lemon pepper, garlic powder, and onion powder. Cover and refrigerate until ready to use
-- <center><img src='/assets/Food/Fish/Tzatziki/tzatziki-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Tzatziki/tzatziki-2.jpg' alt='' class='instruction-image'></center>
 
 - Moving on to the brussel sprouts. Preheat your oven to 400F, and prepare a large cookie sheet with parchment or a silicone liner
 
@@ -71,5 +71,5 @@ Instructions:
 - Finally, the salmon. In a small bowl, mix together lemon juice, lemon pepper, garlic powder, and onion powder. Rub onto each piece of salmon
 
 - Roast the salmon for 10-14 minutes at 400F, or until done to your liking. I like my salmon fully cooked, so I prefer the higher end of that range and an internal temperature of about 145F, but you might like less
-- <center><img src='/assets/Food/Fish/Tzatziki/tzatziki-7.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Tzatziki/tzatziki-7.jpg' alt='' class='instruction-image'></center>
 ---

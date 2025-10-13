@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "No Added Sugar Baked Beans"
+title:  No Added Sugar Baked Beans
 date:   2024-08-03 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sides
 showPercentage: no
@@ -20,7 +20,7 @@ permalink: /recipes/baked-beans
 image: /assets/Food/Sides/Baked Beans/baked-beans.jpg
 ing: bakedbeans-ing
 facts: bakedbeans-facts
-servingSize: 
+servingSize:
 section1: Step 1
 start2: Gochujang
 section2: Step 2
@@ -28,15 +28,15 @@ start3: Navy beans, drained and rinsed
 section3: Step 3
 start4: Tomato paste, canned
 section4: Step 4
-start5: 
-section5: 
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 60
 Source1: https://dailydish.co.uk/healthy-baked-beans-no-molasses-or-sugar/#recipe
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/SV7Jq
-tags: 
+tags:
 - navy beans
 - pinto beans
 - kidney beans
@@ -55,8 +55,8 @@ tags:
 - horseradish mustard
 - garlic
 - tomato paste
-Description: Do you like <a href='/misc/fake-healthy-foods#baked-beans'>baked beans</a>? Of course you do. Unfortunately, most canned and homemade recipes contain tons and tons of <a href='/misc/hidden-sugar'>sugar</a>, containing as much as some desserts. This recipe is <a href='/misc/hidden-sugar'>sugar</a> free, and no that doesn't mean there's a ton of maple syrup, honey, or molasses instead. Gochujang does have a little bit of <a href='/misc/hidden-sugar'>added sugar</a>, but other than that this recipe is totally unsweetened, relying on just the sweetness of the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#tomato'>tomatoes</a> for a delicious savory side dish that pairs great with some <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>  
-Instructions: 
+Description: Do you like <a href='/misc/fake-healthy-foods#baked-beans'>baked beans</a>? Of course you do. Unfortunately, most canned and homemade recipes contain tons and tons of <a href='/misc/hidden-sugar'>sugar</a>, containing as much as some desserts. This recipe is <a href='/misc/hidden-sugar'>sugar</a> free, and no that doesn't mean there's a ton of maple syrup, honey, or molasses instead. Gochujang does have a little bit of <a href='/misc/hidden-sugar'>added sugar</a>, but other than that this recipe is totally unsweetened, relying on just the sweetness of the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#tomato'>tomatoes</a> for a delicious savory side dish that pairs great with some <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>
+Instructions:
 - Preheat your oven to 350F, and heat a large pot or Dutch oven over medium heat with olive oil.  Cut your onion into a fine dice, and add to the pot. Cover, and cook for about 5 minutes, or until translucent and lightly browned
 
 - Add minced garlic, gochujang (or chili paste) and water. Cover and simmer over low heat for 5 minutes

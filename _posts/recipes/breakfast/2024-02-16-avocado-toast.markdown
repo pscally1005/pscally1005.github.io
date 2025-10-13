@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Versatile Avocado Toast"
+title:  Versatile Avocado Toast
 date:   2024-02-16 00:00:00 -0500
 categories:
 - Recipes
@@ -26,17 +26,17 @@ start2: Avocado
 section2: Avocado Mix
 start3: Tomato
 section3: Topping
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 5
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/inluy
-tags: 
+tags:
 - whole wheat
 - tomato
 - guac
@@ -50,7 +50,7 @@ tags:
 - everything bagel
 - vic
 Description: Avocados were on sale at my grocery store, so now I'm officially a hipster. This <a href='/misc/fruit#avocado'>avocado</a> toast is simple, healthy, and can be topped with different <a href='/misc/veggies'>vegetables</a> such as <a href='/misc/veggies#tomato'>tomatoes</a> or roasted <a href='/misc/veggies#pepper'>peppers</a> to make it even better. It comes together in the time it takes to toast the bread, and will leave you full and feeling great.  This goes great on a slice of my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>
-Instructions: 
+Instructions:
 - In a toaster or air fryer, toast your bread to your liking
 
 - Meanwhile, in a medium bowl, mash your avocado until decently smooth (a little bit of chunks is okay). Pour in lemon, season, and mix

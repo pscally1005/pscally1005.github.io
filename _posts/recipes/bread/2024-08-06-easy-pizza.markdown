@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Easy Pizza Dough"
+title:  Easy Pizza Dough
 date:   2024-08-06 00:00:00 -0500
 categories:
 - Recipes
@@ -22,21 +22,21 @@ ing: easypizza-ing
 facts: easypizza-facts
 servingSize: 1 pizza
 section1: Dough
-start2: Unsweetened tomato sauce 
+start2: Unsweetened tomato sauce
 section2: Toppings
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 10
 Source1: https://www.youtube.com/watch?v=KBR1r9Z1S6A
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/iucFH
-tags: 
+tags:
 - pizza
 - pizza dough
 - whole wheat flour
@@ -60,15 +60,15 @@ tags:
 - mozzarella cheese
 - low moisture part skim mozzarella
 Description: This pizza dough is a variation of the viral 2 ingredient dough, a combination of just <a href='/misc/dairy#yogurt'>yogurt</a> and self rising flour (flour + baking powder + salt). <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> is the best for its nutrition and taste, and the added spices add a lot to the flavor of the dough. Top if with a no <a href='/misc/hidden-sugar'>sugar</a> added sauce and a bit of cheese, and you have a healthy pizza with a decent bit of <a href='/misc/protein'>protein</a>
-Instructions: 
+Instructions:
 - In a medium bowl, whisk together the dry ingredients - whole wheat flour, vital wheat gluten (or sub more flour), baking powder, garlic powder, onion powder, and salt. Add in the yogurt, and combine with your hands until you have a smooth dough ball
-- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-ball.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-ball.jpg' alt='' class='instruction-image'></center>
 
 - For a gluten free version, you can replace the whole wheat flour and vital wheat gluten with oat flour (40 g). The dough will be a little drier and crumblier because of the lack of gluten, but it can still be shaped into a flatbread
 
 - Flatten into a round and thin pizza dough. Top with your sauce, cheese, and any other toppings you like (meat and vegetables are great additions)
-- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-pan.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-pan.jpg' alt='' class='instruction-image'></center>
 
 - You can either bake this in a 500F oven on a preheated pizza stone for about 5-7 minutes, or you can cook it in a pan over medium heat (covered) until the bottom is browned to your liking (about 8 minutes)
-- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-cooked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-cooked.jpg' alt='' class='instruction-image'></center>
 ---

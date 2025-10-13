@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Nam Sod (Thai Pork Salad)"
+title:  Nam Sod (Thai Pork Salad)
 date:   2024-05-18 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/nam-sod
 image: /assets/Food/Ground Meat/Nam Sod/nam-sod.jpg
 ing: namsod-ing
 facts: namsod-facts
-servingSize: 
+servingSize:
 section1: Dressing
 start2: Sesame oil
 section2: Meat & Cooked Vegetables
 start3: Romaine lettuce
 section3: Salad Base
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 20
-Rest: 
+Rest:
 Cook: 20
 Source1: https://www.budgetbytes.com/nam-sod-thai-pork-salad/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/DDGRK
-tags: 
+tags:
 - thai
 - ground pork
 - ground turkey
@@ -56,7 +56,7 @@ tags:
 - ginger
 - sesame oil
 Description: I recently had Nam Sod for the first time at a Thai place, and I was in love. The combination of lime, <a href='/misc/nuts#peanuts'>peanuts</a>, and ginger was absolutely delicious, and it was a light but filling meal. It's traditionally made with ground <a href='/misc/meat#pork-tenderloin'>pork</a>, but it can be made with <a href='/misc/meat#ground-beef'>ground beef</a>, <a href='/misc/meat#ground-turkey'>turkey</a>, or <a href='/misc/meat#chicken-breast'>chicken</a> (what I had at the restaurant). This is my non-traditional take on the dish.  The <a href='/misc/veggies#carrots'>carrots</a> and <a href='/misc/veggies#onion'>onion</a> are normally raw, but I opted to cook them here and bring out their sweet flavors. It can be served over a bed of <a href='/misc/veggies#lettuce'>lettuce</a> or <a href='/misc/grains#brown-rice'>rice</a> (or both!)
-Instructions: 
+Instructions:
 - In a large bowl (large enough to combine all the food later) mix the lime juice (juice of 2 limes), gochujang, ginger, and PB2. Thin out with some soy sauce (or water). Typically fish sauce is used, but I couldn't find it at my grocery store, so I've swapped it for gochujang. If you use fresh limes, you can choose to zest them as well
 
 - Cut the onions and carrots into a small dice, and add to a large pan over medium heat with oil and a pinch of salt. Cook until the carrots have fully softened, and the onions are translucent and begin to caramelize. Add the garlic, and cook until fragrant, about 30 seconds. Set the vegetables aside in the bowl with the dressing

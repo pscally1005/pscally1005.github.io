@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Long Weekend Scrambled Eggs"
+title:  Long Weekend Scrambled Eggs
 date:   2024-01-25 00:00:00 -0500
 categories:
 - Recipes
@@ -21,23 +21,23 @@ permalink: /recipes/scrambled-eggs
 image: /assets/Food/Breakfast/Scrambled/scrambled-cover.jpg
 ing: scrambled-ing
 facts: scrambled-facts
-servingSize: 
+servingSize:
 section1: Eggs
 start2: Baby carrots
 section2: Side
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 20
-Source1: 
+Source1:
 Source2:
-whisk: https://s.samsungfood.com/hSpXR 
-tags: 
+whisk: https://s.samsungfood.com/hSpXR
+tags:
 - eggs
 - spinach
 - onion
@@ -48,7 +48,7 @@ tags:
 - veggie
 - chili
 Description: I'm referring to these as "long weekend", as it will make breakfast for you for 3 days. Here's a simple veggie packed scrambled eggs, with each serving having 2 <a href='/misc/meat#eggs'>eggs</a> and plenty of <a href='/misc/veggies'>vegetables</a>. It's simple to make, and you won't have to worry about breakfast for the next few days.  Other meal prep <a href='/misc/meat#eggs'>egg</a> recipes include my <a href='/recipes/egg-wrap'>Meal Prep Egg Wraps</a> and my <a href='/recipes/frittata'>Spinach and Onion Frittata</a>
-Instructions: 
+Instructions:
 - Preheat a large nonstick pan over medium heat with a spray of oil. Dice your onion, and add to the pan, along with the spinach.  You can also use frozen chopped kale or collard greens in place of spinach
 
 - Add in your seasonings and mix. Cover, and cook until the onions are translucent and everything is fully cooked to your liking (about 10 minutes). Taste, and adjust for seasoning. Remember that this is all the seasoning for the eggs as well, so it should taste a little too strong of everything. Remove from heat and crack in your eggs
@@ -56,7 +56,7 @@ Instructions:
 - Lower heat to medium low, and beat your eggs with your spatula, fully incorporating it with the vegetables
 
 - Cook for a few minutes under frequent stirring, until the eggs just look cooked. Be careful not to over cook them. Mix in some hot sauce at the end, top with a fresh or dried herb, and serve. Optionally, you can mix in some cheese
-- <center><img src='/assets/Food/Breakfast/Scrambled/scrambled-4.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Scrambled/scrambled-4.jpg' alt='' class='instruction-image'></center>
 
 - Serve with a side of carrots, and put the other 2 servings away for another day
 ---

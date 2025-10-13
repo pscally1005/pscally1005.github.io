@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Simple Shredded Chicken"
+title:  Simple Shredded Chicken
 date:   2025-02-25 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Chicken
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Chicken/Shredded/cover.jpg
 ing: shreddedchicken-ing
 facts: shreddedchicken-facts
 servingSize: 1 oz (28 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 90
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/c0bOF
-tags: 
+tags:
 - boneless
 - skinless
 - bone in
@@ -53,29 +53,29 @@ tags:
 - cooked chicken
 - rotisserie chicken
 Description: If you're making a recipe that calls for cooked <a href='/misc/meat#chicken-breast'>chicken</a>, like my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a>, you can either shred up a store bought rotisserie chicken, or you can cook it yourself. I prefer the latter; rotisserie chickens are cheap and convenient, but filled with tons of additives that I'd prefer to avoid
-Instructions: 
+Instructions:
 - Either boneless skinless chicken thighs or bone-in skin-on thighs will work here. Just discard the skin and bones at the end if you're doing the latter
 
 - Add your chicken to a parchment lined baking sheet, and season both sides liberally with salt and pepper
-- <center><img src='/assets/Food/Chicken/Shredded/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Shredded/raw.jpg' alt='' class='instruction-image'></center>
 
 - Roast at 250F for 45 minutes. Increase oven temperature to 425F, and cook for an additional 30-45 minutes, or until the chicken is around 190F
-- <center><img src='/assets/Food/Chicken/Shredded/baked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Shredded/baked.jpg' alt='' class='instruction-image'></center>
 
 - Let cool totally before shredding with your hands. Discard any skin and bones
-- <center><img src='/assets/Food/Chicken/Shredded/shredded.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Shredded/shredded.jpg' alt='' class='instruction-image'></center>
 
 - I've marked a serving size as about 1 oz (28 g) cooked meat for ease of comparison and measurement. 6 thighs (828 g) should yield about 621 g, as meat tends to lose about 25% of its raw weight when cooked
 
 - With this chicken, you can use it as a topping for your salads for some <a href='/misc/protein'>protein</a>, or toss with with a sauce.  Try mixing it with <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> for some BBQ Pulled Chicken, and serve alongside some <a href='/recipes/pulled-chicken'>coleslaw</a>.  Or mix with <a href='/recipes/salsa'>Five Minute Salsa</a> for some <a href='/recipes/salsa-chicken'>Two Ingredient Salsa Chicken</a>
-- <center><img src='/assets/Food/Chicken/Shredded/salsa.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Shredded/salsa.jpg' alt='' class='instruction-image'></center>
 
 - If you used bone-in, skin-on chicken thighs, you should have a lot of <a href='/misc/fats'>fat</a> rendered out in the pan after baking.  If you desire, transfer all the drippings to a mason jar, and refrigerate overnight.  In the morning, scrape the chicken fat (known as "shmaltz") off the top.  I got just over 1/2 cup (136 g) from a double batch of the chicken
-- <center><img src='/assets/Food/Chicken/Shredded/jars.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Shredded/jars.jpg' alt='' class='instruction-image'></center>
 
-- Use the shmaltz in any place you would use <a href='/misc/dairy#butter'>butter</a> or oil.  I'll be using it in place of olive oil in my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> tomorrow for extra chicken flavor.  Refrigerate the fat for up to a week, or freeze indefinitely.  
-- <center><a href='/recipes/buffalo-chicken-dip'><img src='/assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg' alt="" class="instruction-image"></a></center>
+- Use the shmaltz in any place you would use <a href='/misc/dairy#butter'>butter</a> or oil.  I'll be using it in place of olive oil in my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> tomorrow for extra chicken flavor.  Refrigerate the fat for up to a week, or freeze indefinitely.
+- <center><a href='/recipes/buffalo-chicken-dip'><img src='/assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg' alt='' class='instruction-image'></a></center>
 
-- The top of the jar contains the gelatin and collagen from the bones.  It's essentially concentrated broth with most of the water removed.  Next time I make <a href='/recipes/red-lentils'>Easy Red Lentils</a>, I'll be replacing part of the water with my leftover "broth" for extra flavor and nutrition.  Again, refrigerate the broth for up to a week, or freeze indefinitely.  
-- <center><a href='/recipes/red-lentils'><img src='/assets/Food/Sides/Lentils/lentils.jpg' alt="" class="instruction-image"></a></center>
+- The top of the jar contains the gelatin and collagen from the bones.  It's essentially concentrated broth with most of the water removed.  Next time I make <a href='/recipes/red-lentils'>Easy Red Lentils</a>, I'll be replacing part of the water with my leftover "broth" for extra flavor and nutrition.  Again, refrigerate the broth for up to a week, or freeze indefinitely.
+- <center><a href='/recipes/red-lentils'><img src='/assets/Food/Sides/Lentils/lentils.jpg' alt='' class='instruction-image'></a></center>
 ---

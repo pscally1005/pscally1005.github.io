@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Protein Banana Nut Bread"
+title:  Protein Banana Nut Bread
 date:   2023-08-22 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Protein Powder
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 1 slice
 section1: Wet
 start2: Oat flour
 section2: Dry
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 60
 Source1: https://www.poormanprotein.com/recipes/pumpkin-bread
 Source2: https://www.poormanprotein.com/recipes/apple-bread
 whisk: https://s.samsungfood.com/tqhWW
-tags: 
+tags:
 - banana bread
 - banana peanut butter
 - peanut butter banana
@@ -53,7 +53,7 @@ tags:
 - bread
 - food processor
 Description: If you want to have <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> for breakfast or a dessert, this recipe works as a great way to satisfy that craving while still hitting your <a href='/misc/protein'>protein</a> needs. This healthy cake has some healthy <a href='/misc/fats'>fats</a> in the <a href='/misc/seeds#chia-seeds'>chia</a> seeds and <a href='/misc/nuts#peanuts'>peanut</a> butter, and is free of <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>.  Some similar recipes are my <a href='/recipes/apple-bread'>Protein Apple Bread</a> or <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, which you should totally try
-Instructions: 
+Instructions:
 - Preheat your oven to 350F.  Line a 9x5" bread pan with parchment paper, and lightly grease the paper
 
 - In a large bowl, whisk together all the wet ingredients until well combined - mashed banana, nut butter, sweetener, and milk (or water)
@@ -67,8 +67,8 @@ Instructions:
 - Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped nuts or chocolate chips (1/2 cup, 85 g).  Transfer the batter to the pan
 
 - Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing.  Transfer to a fridge in a bag or container
-- <center><img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg' alt='' class='instruction-image'></center>
 
 - You can also bake in a parchment lined, lightly oiled, 9" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the internal temperature is around 205F
-- <center><img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg' alt='' class='instruction-image'></center>
 ---

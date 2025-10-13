@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Almond Flour Rolls & Bagels"
+title:  Almond Flour Rolls & Bagels
 date:   2025-06-08 00:00:00 -0500
 categories:
 - Recipes
@@ -24,19 +24,19 @@ servingSize: 1 roll or bagel
 section1: Dry Ingredients
 start2: Apple cider vinegar
 section2: Wet Ingredients
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 15
 Rest: 5
 Cook: 40
 Source1: https://youtu.be/AlY2j0qx24w
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/R2eLi
-tags: 
+tags:
 - bread
 - sandwich
 - gluten free
@@ -50,7 +50,7 @@ tags:
 - psyllium husk
 - ground flaxseed
 Description: If you need rolls or bagels and you need them now, then this is the perfect recipe for you. Not only do these require no proofing, but they're also gluten free, as they're made with <a href='/misc/nuts#almonds'>almond</a> flour, psyllium husk, and coconut flour instead of wheat flour. These rolls are free of empty refined starches, and instead contain satiating <a href='/misc/fats'>fat</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/protein'>protein</a> from the almonds, coconut, psyllium, and <a href='/misc/seeds#flax-seeds'>flax</a>. This means that unlike typical bread, these rolls are a low glycemic food, while also being good sources of <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, <a href='/misc/calcium'>calcium</a>, and <a href='/misc/iron'>iron</a>.  If instead you want typical slices of bread, check out my <a href='/recipes/almond-flour-loaf'>Almond Flour Sandwich Loaf</a>
-Instructions: 
+Instructions:
 - Preheat your oven to 375F, and line a large cookie sheet with parchment paper
 
 - Whisk together your dry ingredients in a large bowl - almond flour, psyllium husk, coconut flour, baking powder, ground flax, and salt
@@ -58,13 +58,13 @@ Instructions:
 - Pour the water into a glass, and microwave for 1 minute. Add the water and apple cider vinegar to the dry ingredients, and mix until you have a fully combined dough
 
 - Shape the dough into 1 large ball, and let the dough rest for about 5 minutes before dividing into 6 servings, about 80 g each
-- <center><img src='/assets/Food/Bread/Almond Flour Rolls/bowl.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Almond Flour Rolls/bowl.jpg' alt='' class='instruction-image'></center>
 
 - Roll each piece into balls, and flatten down. You can either make these into rolls, or carve out a hole in the center and make it a bagel. I'll be doing both here
-- <center><img src='/assets/Food/Bread/Almond Flour Rolls/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Almond Flour Rolls/raw.jpg' alt='' class='instruction-image'></center>
 
 - Optionally, brush the tops with water, and top with everything bagel seasoning
 
 - Bake for about 40 minutes at 375F, or until lightly browned on the bottom. Transfer to a wire rack to cool before slicing
-- <center><img src='/assets/Food/Bread/Almond Flour Rolls/stack.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Almond Flour Rolls/stack.jpg' alt='' class='instruction-image'></center>
 ---

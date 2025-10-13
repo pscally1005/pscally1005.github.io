@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "What is the Best Protein Source?"
+title:  What is the Best Protein Source?
 date:   2024-05-31 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Costs
 permalink: /misc/protein-source
 image: /assets/Misc/Cost/Protein/Protein Sources.png
-tags: 
+tags:
 - experiment
 - protein cost
 - protein source
@@ -106,7 +106,7 @@ tags:
 - brown rice
 ---
 
-Here's something I've often though about - what is the best <a href='/misc/protein'>protein</a> source?  I will be considering a few factors, namely what is good for both your body and your wallet.  I've determined 63 (yes 63) potential <a href='/misc/protein'>protein</a> sources.  For the full list and results, you can view the data in <a href='/download/Protein Costs.xlsx' title="Download" download>excel</a> or as a <a href='/download/Protein Costs.pdf' title="Download" download>pdf</a>
+Here's something I've often though about - what is the best <a href='/misc/protein'>protein</a> source?  I will be considering a few factors, namely what is good for both your body and your wallet.  I've determined 63 (yes 63) potential <a href='/misc/protein'>protein</a> sources.  For the full list and results, you can view the data in <a href='/download/Protein Costs.xlsx' title='Download' download>excel</a> or as a <a href='/download/Protein Costs.pdf' title='Download' download>pdf</a>
 
 For all the foods listed, I looked them up on the Walmart website (with a few exceptions on Amazon).  I then took the following data:
 - Total cost ($)

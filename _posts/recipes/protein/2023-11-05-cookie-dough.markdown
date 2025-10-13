@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Edible Protein Cookie Dough"
+title:  Edible Protein Cookie Dough
 date:   2023-11-05 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Protein Powder
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 1 piece
 section1: Chocolate Chips
 start2: Unsweetened applesauce
 section2: Cookie Dough
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 20
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/4CGfi
-tags: 
+tags:
 - edible cookie dough
 - cookie dough
 - gluten free
@@ -50,7 +50,7 @@ tags:
 - oat flour
 - oats
 Description: This edible cookie dough is so simple, and a much healthier way to enjoy a classic treat. They use casein protein as the flour, but for a non <a href='/misc/protein'>protein</a> version, you can use <a href='/misc/grains#oats'>oat flour</a>. I decided to make some homemade <a href='/recipes/chocolate-bar'>Sugar Free Chocolate Bar</a>, but feel free to swap that with some chocolate chips too.  Or see my <a href='/recipes/chickpea-chows'>Chickpea Chows</a> for another high <a href='/misc/protein'>protein</a> healthy cookie dough recipe.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
-Instructions: 
+Instructions:
 - Start by preparing your chocolate. In a microwave safe bowl, melt the coconut oil. Combine with the rest of the chocolate ingredients - cocoa powder, sweeteners (stevia/monkfruit and honey), and a small pinch of salt
 
 - Line a Tupperware with parchment paper. Use a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> to scrape all the melted chocolate into the pan. Freeze to harden

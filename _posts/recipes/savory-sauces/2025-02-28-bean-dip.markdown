@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Cheesy Bean Dip"
+title:  Cheesy Bean Dip
 date:   2025-02-28 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Savory Sauces/Bean Dip/cover.jpg
 ing: beandip-ing
 facts: beandip-facts
 servingSize: About 1/3 cup (90 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 15
 Source1: https://thecleaneatingcouple.com/healthy-easy-bean-dip/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/HeIVZ
-tags: 
+tags:
 - bean dip
 - black beans
 - canned beans
@@ -47,15 +47,15 @@ tags:
 - hummus
 - plain nonfat greek yogurt
 Description: I'm back with more dip recipes. After the success of warm cheesy dips like <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> and <a href='/recipes/spinach-artichoke-dip'>Lightened Up Spinach Artichoke Dip</a>, I knew I had to try this dip when I came across it. Bean dip is like a warm, cheesy hummus, but this one is made without any <a href='/misc/dairy#cream-cheese'>cream cheese</a>, mayonnaise, or sour cream. Instead, with <a href='/misc/dairy#yogurt'>Greek yogurt</a> as it's base, this dip is lower in <a href='/misc/fats'>fat</a> and higher in <a href='/misc/protein'>protein</a>, leaving you feeling satisfied instead of gross
-Instructions: 
+Instructions:
 - Preheat your oven to 400F. Drain and rinse a can of beans.  Any canned beans will work.  Today, I'm using red kidney beans, but black, pinto, navy, chickpeas, or anything else will work in place
 
 - Combine all ingredients (except the cheese) in a food processor, and blend until smooth and no bean chunks remain
-- <center><img src='/assets/Food/Savory Sauces/Bean Dip/blended.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Bean Dip/blended.jpg' alt='' class='instruction-image'></center>
 
 - Transfer the mixture to a 9" square pan, and top with your shredded cheese
-- <center><img src='/assets/Food/Savory Sauces/Bean Dip/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Bean Dip/raw.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 400F for about 15 minutes (uncovered), or until lightly bubbly. Let rest for a few minutes before serving
-- <center><img src='/assets/Food/Savory Sauces/Bean Dip/cooked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Bean Dip/cooked.jpg' alt='' class='instruction-image'></center>
 ---

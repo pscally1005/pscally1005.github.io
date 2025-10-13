@@ -7,8 +7,8 @@
 
 {% for i in (0..last_index) %}
     {% assign item = items[i] %}
-    <div id="{{ item.File }}" class="table-of-contents"></div><br>
-    <div class="food-header">
+    <div id="{{ item.File }}" class='table-of-contents'></div><br>
+    <div class='food-header'>
         {% assign title = item.Name | replace: "<br>", " " %}
         {% assign title = title | replace: "(Canned)", "" %}
         <font size="+2"><i><a href="{{ item.URL }}" target="_blank" rel="noopener noreferrer">{{ title }}</a></i></font>
@@ -21,7 +21,7 @@
     {% assign facts_file = item.File | append: "-facts" %}
 
     {% assign nF = site.data.servingSizes[facts_file] %}
-    {% 
+    {%
         include servingSizeInfo.html
         vol1=item.Vol
         gram1=item.Mass
@@ -31,6 +31,6 @@
 
     {% assign folder = category | capitalize %}
     <br>
-    <center><img src="/assets/Misc/Nutrition/{{ folder }}/{{ item.File }}.png" alt="" class="smaller-image"></center>
+    <center><img src='/assets/Misc/Nutrition/{{ folder }}/{{ item.File }}.png' alt='' class='smaller-image'></center>
     <hr>
 {% endfor %}

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Coconut Macaroons with Honey"
+title: Coconut Macaroons with Honey
 date:   2023-04-15 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Healthier Dessert/Coconut/cover.jpg
 ing: coconut-ing
 facts: coconut-facts
 servingSize: 1 cookie
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
 Rest: 30
 Cook: 15
 Source1: https://www.youtube.com/watch?v=ACbwMHUj-kA
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/N8lEA
-tags: 
+tags:
 - egg white
 - cookie
 - maple
@@ -49,17 +49,17 @@ tags:
 - gluten free
 - low carb
 Description: Coconut macaroons are such a simple healthy dessert, and are great for all you coconut lovers out there. I personally don't like coconut, but even I admit these are hay in the needle stack.  To use up those extra yolks though, check out my <a href='/recipes/hollandaise'>Greek Yogurt Hollandaise Sauce</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
-Instructions: 
+Instructions:
 - With a hand mixer, beat together egg whites until soft peaks in a glass bowl.  Carton egg white will work as well.  66 g is about 4 tbsp + 1 tsp
-- <center><img src='/assets/Food/Healthier Dessert/Coconut/egg-whites.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Coconut/egg-whites.jpg' alt='' class='instruction-image'></center>
 
 - Fold in honey, vanilla, almond extract, and salt. Mix in coconut and oats until fully combined and sticky.  Chill the dough in the fridge for 30 minutes to harden
 
 - Line a baking sheet with parchment paper.  Use a cookie scoop to scoop the dough, and press it down with your hands in the scoop.  Place onto the sheet, and you should have nice sphere-like cookies.  Shape with your fingers if needed
-- <center><img src='/assets/Food/Healthier Dessert/Coconut/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Coconut/raw.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 325F for 15 minutes. Cookies will be lightly browned in the top and golden/dark on the bottom. Transfer to a wire rack to cool
-- <center><img src='/assets/Food/Healthier Dessert/Coconut/cooling.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Coconut/cooling.jpg' alt='' class='instruction-image'></center>
 
 - Optionally drizzle with melted chocolate (2 tbsp, 25 g), or dip the bottoms in chocolate
 ---

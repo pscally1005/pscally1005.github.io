@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peanut Butter Date Cookies"
+title:  Peanut Butter Date Cookies
 date:   2024-09-11 00:00:01 -05000
 categories: 
 - Recipes
@@ -62,11 +62,11 @@ Instructions:
 - For the beans, I've gone with chickpeas, but any other light colored bean will work, like navy, pinto, or cannellini beans.  I wouldn't recommend black or kidney beans, as the color will change
 
 - Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
-- <center><img src='/assets/Food/Healthier Dessert/PB Date Cookie/pb-date-blended.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/PB Date Cookie/pb-date-blended.jpg' alt='' class='instruction-image'></center>
 
 - Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be (lightly wet your fingers to prevent sticking)
-- <center><img src='/assets/Food/Healthier Dessert/PB Date Cookie/pb-date-raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/PB Date Cookie/pb-date-raw.jpg' alt='' class='instruction-image'></center>
 
 - Bake for about 14 minutes at 350F, or until the tops and edges are lightly golden brown and the cookies are set to the touch.  Let cool on the pan for a few minutes to harden, then transfer to a wire rack to cool completely
-- <center><img src='/assets/Food/Healthier Dessert/PB Date Cookie/pb-date-baked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/PB Date Cookie/pb-date-baked.jpg' alt='' class='instruction-image'></center>
 ---

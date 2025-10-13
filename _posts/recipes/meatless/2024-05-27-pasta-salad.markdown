@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mediterranean Pasta Salad"
+title:  Mediterranean Pasta Salad
 date:   2024-05-27 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meatless
 showPercentage: no
@@ -20,7 +20,7 @@ permalink: /recipes/mediterranean-pasta-salad
 image: /assets/Food/Meatless/Pasta Salad/pasta-salad-cover.jpg
 ing: pastasalad-ing
 facts: pastasalad-facts
-servingSize: 
+servingSize:
 section1: Roasted Peppers
 start2: Chickpea pasta
 section2: Chickpea Pasta
@@ -28,15 +28,15 @@ start3: Chickpeas, drained and rinsed
 section3: Rest of Pasta Salad
 start4: Apple cider vinegar
 section4: Dressing
-start5: 
-section5: 
+start5:
+section5:
 Prep: 20
-Rest: 
+Rest:
 Cook: 20
 Source1:  https://www.loveandlemons.com/pasta-salad/#wprm-recipe-container-43201
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/rsPQ7
-tags: 
+tags:
 - pasta
 - chickpea pasta
 - banza
@@ -73,7 +73,7 @@ tags:
 - lemon pepper
 - red pepper flakes
 Description: Pasta salad is a classic summer BBQ dish, but is normally mayo based, which I'm not a fan of. This has a homemade <a href='/misc/fake-healthy-foods#salad-dressing'>salad dressing</a> that isn't too fatty but full of flavor. The salad ingredients are a great Mediterranean combination of <a href='/misc/beans#chickpeas'>chickpeas</a>, roasted red pepper, <a href='/misc/nuts#pine-nuts'>pine nuts</a>, and <a href='/misc/dairy#feta'>feta</a> cheese. Any other <a href='/misc/nuts'>nuts</a> would work besides pine, and <a href='/misc/veggies#arugula'>arugula</a> can be used in place of <a href='/misc/veggies#spinach-fresh'>spinach</a>. For a <a href='/misc/protein'>protein</a> source, mix in some shredded <a href='/misc/meat#chicken-breast'>chicken</a>!  For a very similar dish, see my <a href='/recipes/mediterranean-potato-salad'>Mediterranean Sweet Potato Salad</a>.  You can also check out any of my other <a href='/salad'>salad recipes</a> or <a href='/salad-dressings'>salad dressings</a>
-Instructions: 
+Instructions:
 - Start with the peppers first, since they'll take the longest.  Preheat your oven to 400F, and line a cookie sheet with parchment paper.  Cut the peppers into long thin strips, and add to the sheet.  Drizzle with oil and add a pinch of salt.  Roast for 20-30 minutes, or until soft and lightly charred.  Alternatively, you can use a (drained and rinsed) jar of roasted red peppers
 
 - Meanwhile, prepare your pasta according to instructions.  Drain and rinse, and shock with cold water to stop cooking.  Optionally, drizzle with just a few drops of EVOO to prevent sticking
@@ -85,5 +85,5 @@ Instructions:
 - Finally, in a large glass, prepare the dressing.  Pour in the apple cider vinegar, lemon juice, extra virgin olive oil, balsamic vinegar, Dijon mustard, and minced garlic.  Add in your spices (basil, thyme, oregano, garlic, onion, lemon pepper, and red pepper flakes).  Stir with a spoon
 
 - Pour the dressing over your salad, and serve either cold or warm
-- <center><img src='/assets/Food/Meatless/Pasta Salad/pasta-salad-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Meatless/Pasta Salad/pasta-salad-6.jpg' alt='' class='instruction-image'></center>
 ---

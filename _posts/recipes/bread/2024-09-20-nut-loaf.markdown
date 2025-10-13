@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nordic Nut Loaf (GF)"
+title:  Nordic Nut Loaf (GF)
 date:   2024-09-20 00:00:00 -0500
 categories:
 - Recipes
@@ -21,22 +21,22 @@ image: /assets/Food/Bread/Nut Loaf/nut-loaf-cover.jpg
 ing: nutloaf-ing
 facts: nutloaf-facts
 servingSize: 1 slice
-section1: 
-start2:  
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 70
 Source1: https://nutritionrefined.com/nut-seed-bread/?utm_source=whisk&utm_medium=webapp&utm_campaign=nordic_nut_loaf
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/UkLLJ
-tags: 
+tags:
 - bread
 - loaf
 - keto
@@ -58,26 +58,26 @@ tags:
 - pumpkin seeds
 - pepitas
 Description: This Norwegian bread is naturally Paleo, vegan, and gluten free. It's a simple to make and nutritious bread that's full of healthy <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, and a decent bit of <a href='/misc/protein'>protein</a> from all the <a href='/misc/nuts'>nuts</a> and seeds. As opposed to regular bread, this loaf is dense, crunchy, and chewy, but still delicious when toasted.  It's very versatile, going well topped with hummus, <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/nuts#peanuts'>peanut</a> butter, jam, used for a sandwich, or crumbled onto a salad.
-Instructions: 
+Instructions:
 - Preheat your oven to 350F, and line a 9x5" bread pan with parchment paper
 
 - In a food processor, blend the raisins and almonds until finely chopped. Transfer to a bowl
-- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-processor.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-processor.jpg' alt='' class='instruction-image'></center>
 
 - Add the rest of the dry ingredients to the bowl, and whisk together (or mix with your hands) - flax, oats, sunflower, pumpkin, chia, psyllium, and salt. Optionally, mix in some cinnamon
-- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-nuts.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-nuts.jpg' alt='' class='instruction-image'></center>
 
 - Add the applesauce (or melted coconut oil) to the bowl, and mix in with the nuts. Optionally, mix in some vanilla or almond extract
 
 - Warm your water in the microwave to about 100F, and mix into the bowl until you have a thick dough and everything is just soaked
-- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-bowl.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-bowl.jpg' alt='' class='instruction-image'></center>
 
 - Transfer to your bread pan, and press down into a dense, even layer. Place a piece of parchment paper on top, and use it to press the dough down as dense as possible . Smooth out the top
-- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-raw.jpg' alt='' class='instruction-image'></center>
 
 - Bake in the pan for 45 minutes at 350F. After 45 minutes, remove from the pan and place directly onto a baking sheet. Bake for an additional 25 minutes. Transfer to a wire rack to cool
-- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-baked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-baked.jpg' alt='' class='instruction-image'></center>
 
 - Let cool completely before slicing. Cut into thin slices with a serrated knife. Don't worry, the slices hold together way better than you'd expect them to
-- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-sliced.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Nut Loaf/nut-loaf-sliced.jpg' alt='' class='instruction-image'></center>
 ---

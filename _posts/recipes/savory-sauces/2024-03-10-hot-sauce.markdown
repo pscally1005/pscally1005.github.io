@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Red Jalapeno Louisiana Hot Sauce"
+title:  Red Jalapeno Louisiana Hot Sauce
 date:   2024-03-10 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/hot-sauce
 image: /assets/Food/Savory Sauces/Hot Sauce/hot-sauce-cover.jpg
 ing: hotsauce-ing
 facts: hotsauce-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 20
 Source1: https://moonandspoonandyum.com/louisiana-hot-sauce/#recipe
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/0DWfH
-tags: 
+tags:
 - spicy
 - vinegar
 - red pepper
@@ -49,16 +49,16 @@ tags:
 - vinegar
 - distilled
 Description: I love Frank's hot sauce, I probably do actually put that shit on everything. Here's a simple 3 ingredient recreation of it. It's easy, spicy, and delicious.  I used this batch as the hot sauce on my homemade <a href='/recipes/chicken-wings'>Gluten Free Baked Buffalo Wings</a> the other day, and they were the best wings I've ever had!
-Instructions: 
+Instructions:
 - Remove the stems (and seeds optionally, if you want to reduce the spice) from the peppers, and roughly chop into a large dice. They'll be blended later, so the size doesn't really matter
 
 - In a medium saucepot over high heat, combine the peppers, vinegar, and salt. Cover, bring to a boil, then reduce the heat to medium and let simmer for 10 minutes, or until the peppers are soft. Remove the cover, and let cool for 10 minutes
-- <center><img src='/assets/Food/Savory Sauces/Hot Sauce/hot-sauce-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Hot Sauce/hot-sauce-2.jpg' alt='' class='instruction-image'></center>
 
 - Transfer the mixture to a blender or food processor, then blend until smooth
 
 - Strain the hot sauce through a fine mesh strainer into a mason jar. Use a wooden spoon to grind out all of the liquid. Discard the pulp. Refrigerate for 2 weeks before using
-- <center><img src='/assets/Food/Savory Sauces/Hot Sauce/hot-sauce-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Hot Sauce/hot-sauce-3.jpg' alt='' class='instruction-image'></center>
 
 - Store in the refrigerator for up to 4 months.
 ---

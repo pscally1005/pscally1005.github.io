@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Honey Sweetened Peanut Butter Cookies"
+title: Honey Sweetened Peanut Butter Cookies
 date:   2023-06-06 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 showPercentage: no
@@ -21,35 +21,35 @@ image: /assets/Food/Healthier Dessert/PB Cookie/pb-cookie-cover.jpg
 ing: pbcookie-ing
 facts: pbcookie-facts
 servingSize: 1 cookie
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
 Rest: 30
 Cook: 8
 Source1: https://www.youtube.com/watch?v=LZZxC1wfRAc
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/PO0Ed
-tags: 
+tags:
 - maple
 - syrup
 - almond butter
 - gluten free
 - oat flour
 Description: These soft baked <a href='/misc/nuts#peanuts'>peanut</a> butter cookies are naturally sweetened with honey (or maple syrup), and still feature that classic criss-cross design on the top. They're all about the natural <a href='/recipes/natural-peanut-butter'>peanut butter</a>, have a subtle honey taste, gluten free, and not crumbly!  Make some <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> for an even better cookie, and maybe try them with <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower</a> butter instead!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
-Instructions: 
+Instructions:
 - In a large bowl, beat together peanut butter, sweetener, applesauce (or banana), and vanilla with a hand mixer (or fork) until smooth, about 1 minute
 
 - Add the cornstarch, baking powder, and half of the oats. Combine with a fork. Add in the other half of the oats and mix until fully combined.  Chill cookies to firm up a little bit if needed before shaping, about 30 minutes
 
 - Scoop into cookies and place on a baking sheet lined with parchment paper. Lightly flatten, and cross with a fork. Wet the fork to prevent sticking if necessary
-- <center><img src='/assets/Food/Healthier Dessert/PB Cookie/pb-cookie-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/PB Cookie/pb-cookie-3.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 350F for 8 minutes. Let cool on the pan for 5 minutes, then transfer to a wire rack to cool. Optionally drizzle the cookies with melted chocolate
 ---

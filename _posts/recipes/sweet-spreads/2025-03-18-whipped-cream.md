@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aquafaba Whipped Cream (Sugar Free and Vegan)"
+title:  Aquafaba Whipped Cream (Sugar Free and Vegan)
 date:   2025-03-18 00:00:00 -05000
 categories: 
 - Recipes

@@ -1,4 +1,4 @@
-<center><img src="/assets/Logo/logo.png" alt="" class="instruction-image"></center><br>
+<center><img src='/assets/Logo/logo.png' alt='' class='instruction-image'></center><br>
 
 <font size="+1">
 

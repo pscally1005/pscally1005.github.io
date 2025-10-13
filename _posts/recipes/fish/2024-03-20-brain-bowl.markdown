@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Brain Boosting Bowl"
+title:  Brain Boosting Bowl
 date:   2024-03-20 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Fish
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/brain-boosting-bowl
 image: /assets/Food/Fish/Brain Bowl/brain-bowl.jpg
 ing: brainbowl-ing
 facts: brainbowl-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://storyandrain.com/article/recipe-box-better-brain-bowl
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/jO1t1
-tags: 
+tags:
 - canned sardines
 - sardines
 - protein
@@ -50,6 +50,6 @@ tags:
 - easy
 - brain
 Description: This "recipe" (if you can even call it that) was taken from the cookbook Genius Kitchen, and consists of just a sliced <a href='/misc/fruit#avocado'>avocado</a> and a drained can of <a href='/misc/fish#sardine'>sardines</a>. This brain bowl is a great small meal or large snack that's high in <a href='/misc/nutrient-alphabet#O'>omega-3s</a>, <a href='/misc/fats'>monounsaturated fat</a>, lutein, zeaxanthin, <a href='/misc/protein'>protein</a>, and <a href='/misc/fiber'>fiber</a> making it nourishing for both your stomach and your brain
-Instructions: 
+Instructions:
 - Cut your avocado into slices, and add to the base of a bowl. Roughly drain your sardines, and add on top of the avocado. Squeeze on some lemon/lime juice, and top with everything bagel seasoning
 ---

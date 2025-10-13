@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Chocolate Yogurt Kerfuffles"
+title:  Chocolate Yogurt Kerfuffles
 date:   2023-06-15 00:00:00 -0500
-categories: 
+categories:
 - Recipes
 - Finger Foods
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Finger Food/Kerfuffle/kerfuffle.jpg
 ing: kerfuffle-ing
 facts: kerfuffle-facts
 servingSize: 1 truffle
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 20
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://www.youtube.com/watch?v=VNF4aVJTiEM
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/9HUAn
-tags: 
+tags:
 - truffle
 - chocolate
 - cocoa
@@ -47,7 +47,7 @@ tags:
 - nut
 - yogurt
 Description: These "kerfuffles", or confusing truffles, are a great <a href='/misc/dairy#yogurt'>Greek yogurt</a> based chocolate truffle, with much lower <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a> contents than typical truffles. They mix together in just a few minutes, and store really well in the fridge for a quick snack or dessert. These really bring out the flavor of the yogurt, so if you're not a fan of Greek yogurt, I'd recommend you replace it with mashed <a href='/misc/fruit#avocado'>avocado</a> or <a href='/misc/fruit#banana'>banana</a>.
-Instructions: 
+Instructions:
 - In a glass bowl, melt the coconut oil in the microwave for a minute
 
 - To the bowl, add the yogurt and mix with a spoon until smooth. Add in the rest of the ingredients and mix to fully combine. The dough should be a little sticky, so chill in the fridge for at least 1 hour to firm

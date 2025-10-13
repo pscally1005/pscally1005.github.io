@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Unsweetened BBQ Sauce"
+title:  Unsweetened BBQ Sauce
 date:   2023-04-15 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Savory Sauces/BBQ/bbq-sauce-cover.jpg
 ing: bbqnew-ing
 facts: bbqnew-facts
 servingSize: 2 tbsp (30 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
 Rest: 30
 Cook: 20
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/3Llgd
-tags: 
+tags:
 - barbeque sauce
 - bbq sauce
 - unsweetened
@@ -54,9 +54,9 @@ tags:
 - spread
 - vic
 Description: Most commercial BBQ sauces are loaded with <a href='/misc/hidden-sugar'>high frustose corn syrup</a>, making them insanely sweet and super bad for you. I prefer to keep mine fully unsweetened, but for a sweeter taste, you can add a little of any sweetener you desire.  I love to use my BBQ sauce in my <a href='/recipes/pulled-chicken'>BBQ Pulled Chicken and Coleslaw</a>, <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>, and <a href='/recipes/kale'>Bean Kaled by Cheese</a>.  If you instead want some ketchup, you should see my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> or <a href='/recipes/pickle-ketchup'>Pickle Ketchup with Hot Honey</a>
-Instructions: 
+Instructions:
 - Whisk together all the ingredients in a medium saucepot. Cover, and cook over low heat for about 20 minutes, or until bubbling and thickened
-- <center><img src='/assets/Food/Savory Sauces/BBQ/bbq-sauce-pot.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/BBQ/bbq-sauce-pot.jpg' alt='' class='instruction-image'></center>
 
 - Transfer to a large mason jar, and let cool at room temperature (uncovered) for about 30 minutes before covering with a lid and refrigerating. Store in the fridge for up to 1 week, or freeze indefinitely
 ---

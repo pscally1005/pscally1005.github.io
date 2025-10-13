@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mediterranean Roasted Eggplant Hummus"
+title:  Mediterranean Roasted Eggplant Hummus
 date:   2024-04-09 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 2 tbsp (32 g)
 section1: Roasted Eggplant
 start2: Chickpeas, drained and rinsed
 section2: Hummus
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 40
 Source1: https://youtu.be/dhuvZMsy9pY?si=iPrkskL0DT-J7oyt
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/ai5sT
-tags: 
+tags:
 - hummus
 - spread
 - dip
@@ -55,10 +55,10 @@ tags:
 - paprika
 - cumin
 Description: This is 50% hummus, 50% babaganoush, and 100% delicious. Roasted <a href='/misc/veggies#eggplant'>eggplant</a> in hummus provides great creaminess and fantastic flavor without the need for oil. The subtle flavor of <a href='/misc/nuts#almonds'>almond</a> butter adds some necessary <a href='/misc/fats'>fats</a>, and complements everything else perfectly.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
-Instructions: 
+Instructions:
 - Cut your eggplant in half, and add to a parchment lined cookie sheet. Bake cut side down at 400F for about 40 minutes, or until eggplant is soft and collapses
-- <center><img src='/assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-1.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-1.jpg' alt='' class='instruction-image'></center>
 
 - Combine baked eggplant (with skin!), with the rest of the ingredients in a food processor. Blend until super smooth. Garnish with olives and feta, and transfer to an airtight container to store in the fridge
-- <center><img src='/assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-2.jpg' alt='' class='instruction-image'></center>
 ---

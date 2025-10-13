@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Secret Truffles"
+title:  Secret Truffles
 date:   2025-08-01 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meme Recipes
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 1 truffle
 section1: Truffle
 start2: Cocoa Powder
 section2: Coating
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://wildbrine.com/raw-sauerkraut-brownies-recipe/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/lb2x7
-tags: 
+tags:
 - sauerkraut
 - secret
 - natural peanut butter
@@ -47,7 +47,7 @@ tags:
 - dessert
 - candy
 Description: What's the secret behind these truffles? Well besides being <a href='/misc/hidden-sugar'>sugar free</a>, gluten free, vegan, <a href='/misc/calories'>low calorie</a>, and a good source of both <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, these chocolate truffles contain a secret ingredient that's <a href='/misc/probiotic-table'>beneficial to your gut microbiome</a>.  I swear you cannot taste it, and you'll never guess what it is (it's not <a href='/misc/beans#chickpeas'>chickpeas</a>)
-Instructions: 
+Instructions:
 - For the sauerkraut, you don't need to drain it; however, try to get as much sauerkraut solids as you can, as opposed to the liquid. Using a fork to lift out the sauerkraut and letting any excess liquid drop back into the contain is sufficient
 
 - In a small food processor, blend together nut butter, sauerkraut, cocoa powder, sweetener, and almond extract until you have a smooth and fully combined chocolate dough

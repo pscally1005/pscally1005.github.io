@@ -1,22 +1,22 @@
-<div class="recipe-instruction-header">
+<div class='recipe-instruction-header'>
     {% if page.Instructions %}
-        <div class="recipe-header">Instructions</div>
+        <div class='recipe-header'>Instructions</div>
 
         <!-- "Cook Mode" toggle switch -->
         {% include cook-mode.html %}
 
         <!-- Hide images button -->
         {% include hide-pics.html %}
-        
+
         <!-- Display steps -->
-        <div class="recipe-instructions">
-            <div class="recipe-section">
+        <div class='recipe-instructions'>
+            <div class='recipe-section'>
                 <ol>
                     {% for step in page.Instructions %}
                         {% if step contains "<center>" %}
-                            <span class="print-only">{{ step }}<br></span>
+                            <span class='print-only'>{{ step }}<br></span>
                         {% else %}
-                            <span class="print-only"><li>{{ step }}</li><br></span>
+                            <span class='print-only'><li>{{ step }}</li><br></span>
                         {% endif %}
                     {% endfor %}
                 </ol>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Simply Baked Salmon and Crunchy Salad"
+title:  Simply Baked Salmon and Crunchy Salad
 date:   2023-10-21 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Fish
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/salmon-and-crunchy-salad
 image: /assets/Food/Fish/Salmon/salmon-cover.jpg
 ing: salmon-ing
 facts: salmon-facts
-servingSize: 
+servingSize:
 section1: Salmon
 start2: Onion
 section2: Salad
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 4
-Rest: 
+Rest:
 Cook: 14
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/FCThl
-tags: 
+tags:
 - air fry
 - bake
 - oven
@@ -50,14 +50,14 @@ tags:
 - seafood
 - vic
 Description: <a href='/misc/fish#salmon'>Salmon</a> is my preferred fish, but I don't tend to have it too often because it's fairly expensive. I always pick it up when on sale though, because it's a fantastic source of <a href='/misc/nutrient-alphabet#O'>Omega-3s</a>. These simply baked fillets are made in just a few minutes, and pair great with a crunchy salad, consisting of seasoned raw <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#onion'>onions</a>, and <a href='/misc/veggies#tomato'>tomatoes</a>.
-Instructions: 
+Instructions:
 - Preheat your oven to 400F and line a cookie sheet with parchment paper
 
 - Add your salmon to the pan, and season the top and sides with garlic, onion, and lemon pepper, or any other desired seasinings
 
 - Bake at 400F for about 14 minutes, or until the thickest part reaches 145F.  You can also air fry at 400F for about 10 minutes. Squeeze on some lemon juice
-- <center><img src='/assets/Food/Fish/Salmon/salmon-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Salmon/salmon-3.jpg' alt='' class='instruction-image'></center>
 
 - As the fish cooks, wash and cut your vegetables, and add to a medium bowl. Season and mix to make your crunchy salad
-- <center><img src='/assets/Food/Fish/Salmon/salmon-4.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Salmon/salmon-4.jpg' alt='' class='instruction-image'></center>
 ---

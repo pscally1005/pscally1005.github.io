@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Five Minute Salsa (No Garlic/Onion)"
+title:  Five Minute Salsa (No Garlic/Onion)
 date:   2023-09-13 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Savory Sauces/Salsa/salsa.jpg
 ing: salsa-ing
 facts: salsa-facts
 servingSize: 2 tbsp (30 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/XC9Xl
-tags: 
+tags:
 - diced tomato
 - diced green chiles
 - diced chiles
@@ -54,7 +54,7 @@ tags:
 - fodmap
 - low fodmap
 Description: This 5 minute salsa uses pantry staple canned ingredients and some spices. No chopping necessary! Just pulse everything in a food processor, and adjust the taste and texture to your liking.  This salsa also contains no garlic or <a href='/misc/veggies#onion'>onion</a> for those that are allergic.  I love to make this with either my <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a> or <a href='/recipeslow-fodmap-tacos'>Low FODMAP Chicken Tacos</a>
-Instructions: 
+Instructions:
 - Lightly drain the can of tomatoes through a gap in the can top.  Don't use a strainer or you'll lose too much
 
 - Add all ingredients to a food processor, and pulse a few times until desired consistency is reached.  Season with salt to taste, and store in the fridge

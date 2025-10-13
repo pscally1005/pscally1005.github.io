@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chocolate Nut Milkshake"
+title:  Chocolate Nut Milkshake
 date:   2023-09-18 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/milkshake
 image: /assets/Food/Drinks/Milkshake/milkshake.jpg
 ing: milkshake-ing
 facts: milkshake-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/Uuqsa
-tags: 
+tags:
 - almond
 - butter
 - peanut
@@ -48,7 +48,7 @@ tags:
 - cocoa
 - blend
 Description: Chocolate <a href='/misc/fruit#banana'>banana</a> <a href='/misc/nuts#almonds'>almond</a> butter milkshake. This smoothie can be had for breakfast, but is honestly so good it could easily pass as a milkshake for dessert. It's got over 20 g each of <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>healthy fats</a>, 10 g of <a href='/misc/fiber'>fiber</a>, sweetness from the banana, and creaminess from the <a href='/recipes/natural-peanut-butter'>nut butter</a>!
-Instructions: 
+Instructions:
 - A few hours (or day) before, add half a banana to an airtight bag, and store in the freezer
 
 - Blend the banana, nut butter, and milk until creamy in a small blender or electric food chopper

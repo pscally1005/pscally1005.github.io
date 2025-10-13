@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Trap Foods - Drinks"
+title:  Trap Foods - Drinks
 date:   2024-08-01 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Nutrition
 - Hidden
 permalink: /misc/trap-foods-drinks
 image: /assets/Misc/Nutrition/Trap/drinks.jpg
-tags: 
+tags:
 - healthy
 - unhealthy
 - trap foods
@@ -32,8 +32,8 @@ tags:
 - soda
 - diet soda
 ---
-<i><font size="+2">Note</font><br>
-&emsp;The following is an excerpt from my post <a href='/misc/fake-healthy-foods'>'Healthy' Trap Foods</a>, in which I made a detailed list of foods that I believe to deceptively unhealthy.  I've broken that list down into easier to digest categories based on what food they are.  Linked below are all the individual posts:
+<i><font size='+2'>Note</font><br>
+&emsp;The following is an excerpt from my post <a href='/misc/fake-healthy-foods'>"Healthy" Trap Foods</a>, in which I made a detailed list of foods that I believe to deceptively unhealthy.  I've broken that list down into easier to digest categories based on what food they are.  Linked below are all the individual posts:
 - <i><a href='/misc/trap-foods-breakfast'>Trap Foods - Breakfast</a><br></i>
 - <i><a href='/misc/trap-foods-drinks'>Trap Foods - Drinks</a><br></i>
 - <i><a href='/misc/trap-foods-produce'>Trap Foods - Fruits & Veggies</a><br></i>
@@ -43,93 +43,93 @@ tags:
 - <i><a href='/misc/trap-foods-snacks'>Trap Foods - Snacks</a><br></i>
 - <i><a href='/misc/trap-foods-sweet-spreads'>Trap Foods - Sweet Spreads</a><br></i>
 
-<u><font size="+2">Introduction</font></u><br>
+<u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
 
-<u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
+<u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
 - Avoid ultra processed foods, especially ones containing refined <a href='/misc/hidden-sugar'>sugar</a>, refined <a href='/misc/grains'>grains</a>, and vegetable/seed oils
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt="" class="larger-image"></a></center>
-<u><font size="+2">Disclaimer</font></u><br>
+<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
-<br><u><font size="+2">List of Foods</font></u><br>
-* <a rel="" target="" href='#juice'>Fruit Juice</a><br>
-* <a rel="" target="" href='#smoothie'>Smoothies</a><br>
-* <a rel="" target="" href='#sports-drinks'>Sports Drinks</a><br>
-* <a rel="" target="" href='#energy-drinks'>Energy Drinks</a><br>
-* <a rel="" target="" href='#coffee'>Coffee</a><br>
-* <a rel="" target="" href='#iced-tea'>Iced Tea</a><br>
-* <a rel="" target="" href='#diet-soda'>Diet Soda</a><br>
-* <a rel="" target="" href='#skim-milk'>Milk</a><br>
+<br><u><font size='+2'>List of Foods</font></u><br>
+* <a rel='' target='' href='#juice'>Fruit Juice</a><br>
+* <a rel='' target='' href='#smoothie'>Smoothies</a><br>
+* <a rel='' target='' href='#sports-drinks'>Sports Drinks</a><br>
+* <a rel='' target='' href='#energy-drinks'>Energy Drinks</a><br>
+* <a rel='' target='' href='#coffee'>Coffee</a><br>
+* <a rel='' target='' href='#iced-tea'>Iced Tea</a><br>
+* <a rel='' target='' href='#diet-soda'>Diet Soda</a><br>
+* <a rel='' target='' href='#skim-milk'>Milk</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt="" class="larger-image"></a></center>
+<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
 
-<div id="juice" class="table-of-contents"></div>
-<br><i><font size="+2">Fruit Juice</font></i><br>
-&emsp;So <a rel="" target="" href='/misc/trap-foods-snacks#dried-fruit'>dried fruit</a> is a highly concentrated source of <a href='/misc/hidden-sugar'>sugar</a>, even natural, that you should be mindful of consuming.  But what if we did the opposite: remove all the <a href='/misc/fiber'>fiber</a>, but keep all the water?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any <a href='/misc/hidden-sugar'>added sugar</a>, is only marginally better for you than a glass of soda.  You'll get some <a href='/misc/vitamin-c'>Vitamin C</a>, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href='https://amzn.to/4mAHEUT'>orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without <a href='/misc/fiber'>fiber</a> to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
+<div id='juice' class='table-of-contents'></div>
+<br><i><font size='+2'>Fruit Juice</font></i><br>
+&emsp;So <a rel='' target='' href='/misc/trap-foods-snacks#dried-fruit'>dried fruit</a> is a highly concentrated source of <a href='/misc/hidden-sugar'>sugar</a>, even natural, that you should be mindful of consuming.  But what if we did the opposite: remove all the <a href='/misc/fiber'>fiber</a>, but keep all the water?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any <a href='/misc/hidden-sugar'>added sugar</a>, is only marginally better for you than a glass of soda.  You'll get some <a href='/misc/vitamin-c'>Vitamin C</a>, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href='https://amzn.to/4mAHEUT'>orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without <a href='/misc/fiber'>fiber</a> to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
 
-<center><a href='https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks'><img src='/assets/Misc/Nutrition/Trap/juice-vs-soda.jpg' alt="" class="larger-image"></a></center>
-<div id="smoothie" class="table-of-contents"></div>
-<br><i><font size="+2">Smoothies</font></i><br>
-&emsp;So if <a rel="" target="" href='#dried-fruit'>dried fruit</a> is a maybe and <a rel="" target="" href='#juice'>fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more <a href='/misc/fiber'>fiber</a> than fruit juice.  However, the process of blending fruit destroys some of it's <a href='/misc/fiber'>fiber</a>.  A smoothie can still be healthy however.  Just make sure to add some <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>fat</a> to slow down the spike to your blood sugar.  I prefer using <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/dairy#yogurt'>greek yogurt</a>, and <a href='/misc/seeds#chia-seeds'>chia seeds</a> for a <a href='/recipes/smoothie'>Protein Fruit Smoothie</a> if I do have one, but <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/misc/nuts#almonds'>almond</a> butter, <a href='/misc/fruit#avocado'>avocado</a>, or <a href='/misc/seeds#flax-seeds'>flaxseeds</a> also work as great <a href='/misc/fats'>fat</a> sources.  The healthiest smoothies also include some vegetables like <a href='/misc/veggies#spinach'>spinach</a> as well.
+<center><a href='https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks'><img src='/assets/Misc/Nutrition/Trap/juice-vs-soda.jpg' alt='' class='larger-image'></a></center>
+<div id='smoothie' class='table-of-contents'></div>
+<br><i><font size='+2'>Smoothies</font></i><br>
+&emsp;So if <a rel='' target='' href='#dried-fruit'>dried fruit</a> is a maybe and <a rel='' target='' href='#juice'>fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more <a href='/misc/fiber'>fiber</a> than fruit juice.  However, the process of blending fruit destroys some of it's <a href='/misc/fiber'>fiber</a>.  A smoothie can still be healthy however.  Just make sure to add some <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>fat</a> to slow down the spike to your blood sugar.  I prefer using <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/dairy#yogurt'>greek yogurt</a>, and <a href='/misc/seeds#chia-seeds'>chia seeds</a> for a <a href='/recipes/smoothie'>Protein Fruit Smoothie</a> if I do have one, but <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/misc/nuts#almonds'>almond</a> butter, <a href='/misc/fruit#avocado'>avocado</a>, or <a href='/misc/seeds#flax-seeds'>flaxseeds</a> also work as great <a href='/misc/fats'>fat</a> sources.  The healthiest smoothies also include some vegetables like <a href='/misc/veggies#spinach'>spinach</a> as well.
 
-<center><a href='/recipes/smoothie'><img src='/assets/Food/Drinks/Smoothie/smoothie-cover.jpg' alt="" class="instruction-image"></a></center>
+<center><a href='/recipes/smoothie'><img src='/assets/Food/Drinks/Smoothie/smoothie-cover.jpg' alt='' class='instruction-image'></a></center>
 &emsp;And of course, only use an unsweetened liquid for your smoothies like milk, unsweetened plant milks, or water.  Fruit is already plenty sweet without the addition of added sugars from the milk or any additional honey.  Smoothies are great to make yourself, but be very weary of ordering one anywhere, since you don't know how much <a href='/misc/hidden-sugar'>added sugar</a> is secretly in that glass.
 
-<div id="sports-drinks" class="table-of-contents"></div>
-<br><i><font size="+2">Sports Drinks</font></i><br>
+<div id='sports-drinks' class='table-of-contents'></div>
+<br><i><font size='+2'>Sports Drinks</font></i><br>
 &emsp;Sports drinks, when used as they are intended, can be exactly what your body needs.  One medium 12 oz bottle of <a href='https://amzn.to/45stwa0'>Gatorade</a> contains 21 g of <a href='/misc/hidden-sugar'>added sugar</a> and 160 mg of <a href='/misc/sodium'>sodium</a>.  Which after a really strenuous activity, like a marathon, is exactly what you need.  The simple sugars replenish your glycogen stores in your liver, and <a href='/misc/sodium'>sodium</a> is an essential nutrient that is lost through sweating.  If you're sweating a ton, sick, or hungover, a Gatorade can be a lifesaver.
 
-<center><img src='/assets/Misc/Nutrition/Trap/gatorade.jpg' alt="" class="larger-image"></center>
+<center><img src='/assets/Misc/Nutrition/Trap/gatorade.jpg' alt='' class='larger-image'></center>
 &emsp;Or it can be a noncarbinated salt soda if you're consuming it incorrectly.  The fact of the matter is that most Americans are not exercising enough, and consuming way too much ultraprocessed foods.  That means a high consumption of <a href='/misc/hidden-sugar'>added sugar</a> and salt, without any way of your body to use it.  So another addition source of the 2 is way more likely to do harm than good.  Save sports drinks for after intense physical activity, and not after a kid's leisurely soccer game or as a sipping drink throughout the day.  Give little Jimmy an <a href='/misc/fruit#orange'>orange</a> instead.
 
-<div id="energy-drinks" class="table-of-contents"></div>
-<br><i><font size="+2">Energy Drinks</font></i><br>
-&emsp;What if you take a sports drinks, remove some of the salt, and instead add a ton of caffeine and some B vitamins?  You end up with a Red Bull.  Surprisingly, most energy drinks actually come packed with vitamins and minerals, with concentrations as much as a multivitamin.  They also contain a ton of <a href='/misc/hidden-sugar'>added sugar</a> (go figure) and caffeine (which isn't necessarily good or bad, just something to be mindful of).  
+<div id='energy-drinks' class='table-of-contents'></div>
+<br><i><font size='+2'>Energy Drinks</font></i><br>
+&emsp;What if you take a sports drinks, remove some of the salt, and instead add a ton of caffeine and some B vitamins?  You end up with a Red Bull.  Surprisingly, most energy drinks actually come packed with vitamins and minerals, with concentrations as much as a multivitamin.  They also contain a ton of <a href='/misc/hidden-sugar'>added sugar</a> (go figure) and caffeine (which isn't necessarily good or bad, just something to be mindful of).
 
-<center><img src='/assets/Misc/Nutrition/Trap/energy-drink.jpg' alt="" class="larger-image"></center>
+<center><img src='/assets/Misc/Nutrition/Trap/energy-drink.jpg' alt='' class='larger-image'></center>
 &emsp;I found this image under the listing for <a href='https://amzn.to/44ZF1pc'>Red Bull</a>, where they out themselves as being worse for you than a typical soda or fruit juice.  Thankfully there are some brands of energy drinks that don't have any <a href='/misc/hidden-sugar'>added sugar</a> like <a href='https://amzn.to/4kGkKcV'>Celsius</a>, but that doesn't make them healthy, just less bad.  Energy drinks aren't bad if you got a particularly terrible night's sleep, need to pull the (occasional) all nighter, or if you're out partying.  Just dont rely on them; I see people drinking these all the time at the office or the gym.
 
-<div id="coffee" class="table-of-contents"></div>
-<br><i><font size="+2">Coffee</font></i><br>
-&emsp;As I mentioned above with <a rel="" target="" href='#energy-drinks'>energy drinks</a>, caffeine isn't inherently good or bad.  It can absolutely be a substance of toxic abuse, or it can help improve alertness and brain function.  For clarity, I'll say that I don't consume coffee or any caffeine.  I've just never drank it, so my body has never developed a dependency for it like most people.  There are studies showing the benefits of caffeine in moderation however; every coin has 2 sides.
+<div id='coffee' class='table-of-contents'></div>
+<br><i><font size='+2'>Coffee</font></i><br>
+&emsp;As I mentioned above with <a rel='' target='' href='#energy-drinks'>energy drinks</a>, caffeine isn't inherently good or bad.  It can absolutely be a substance of toxic abuse, or it can help improve alertness and brain function.  For clarity, I'll say that I don't consume coffee or any caffeine.  I've just never drank it, so my body has never developed a dependency for it like most people.  There are studies showing the benefits of caffeine in moderation however; every coin has 2 sides.
 
-<center><img src='/assets/Misc/Nutrition/Trap/coffee.jpg' alt="" class="larger-image"></center>
-&emsp;So why is coffee on this list then?  Added <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a>.  <a href='https://www.starbucks.com/menu/product/873068728/iced/nutrition'>Starbucks Peppermint White Chocolate Mocha Frappuccino</a> contains a tooth shattering and diabetes inducing 73 g of <a href='/misc/hidden-sugar'>added sugar</a> (that's over 6 tablespoons!), as well as 470 <a href='/misc/calories'>calories</a> and 17 g of <a href='/misc/fats'>fat</a>.  That's almost 10 g more <a href='/misc/hidden-sugar'>sugar</a> and double the <a href='/misc/calories'>calories</a> of a 16.9 fl oz <a href='https://amzn.to/450rttK'>Mountain Dew</a>.  One of these every morning along with a <a rel="" target="" href='/misc/trap-foods-breakfast#muffins'>muffin</a> is a one way ticket to metabolic syndrome.  Only black coffee contains any benefits; this is just a caffeinated milkshake.
+<center><img src='/assets/Misc/Nutrition/Trap/coffee.jpg' alt='' class='larger-image'></center>
+&emsp;So why is coffee on this list then?  Added <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a>.  <a href='https://www.starbucks.com/menu/product/873068728/iced/nutrition'>Starbucks Peppermint White Chocolate Mocha Frappuccino</a> contains a tooth shattering and diabetes inducing 73 g of <a href='/misc/hidden-sugar'>added sugar</a> (that's over 6 tablespoons!), as well as 470 <a href='/misc/calories'>calories</a> and 17 g of <a href='/misc/fats'>fat</a>.  That's almost 10 g more <a href='/misc/hidden-sugar'>sugar</a> and double the <a href='/misc/calories'>calories</a> of a 16.9 fl oz <a href='https://amzn.to/450rttK'>Mountain Dew</a>.  One of these every morning along with a <a rel='' target='' href='/misc/trap-foods-breakfast#muffins'>muffin</a> is a one way ticket to metabolic syndrome.  Only black coffee contains any benefits; this is just a caffeinated milkshake.
 
-<div id="iced-tea" class="table-of-contents"></div>
-<br><i><font size="+2">Iced Tea</font></i><br>
-&emsp;I think most people can agree that while tea is healthy, there's no health benefits of a Snapple or Arnold Palmer iced tea.  The issue comes from the iced teas that are marketed as being "healthy", with <a href='https://amzn.to/3Htg4IU'>Pure Leaf</a> being the main brand.  For a 16.9 fl oz serving of Pure Leaf, there's 42 g of <a href='/misc/hidden-sugar'>added sugar</a>, or 2.5 g per fl oz.  Just a single bottle contains over 1.5x your daily <a href='/misc/hidden-sugar'>added sugar</a> maximum.  The nutrition facts for the Pure Leaf are on the left below.  
+<div id='iced-tea' class='table-of-contents'></div>
+<br><i><font size='+2'>Iced Tea</font></i><br>
+&emsp;I think most people can agree that while tea is healthy, there's no health benefits of a Snapple or Arnold Palmer iced tea.  The issue comes from the iced teas that are marketed as being "healthy", with <a href='https://amzn.to/3Htg4IU'>Pure Leaf</a> being the main brand.  For a 16.9 fl oz serving of Pure Leaf, there's 42 g of <a href='/misc/hidden-sugar'>added sugar</a>, or 2.5 g per fl oz.  Just a single bottle contains over 1.5x your daily <a href='/misc/hidden-sugar'>added sugar</a> maximum.  The nutrition facts for the Pure Leaf are on the left below.
 
-<center><img src='/assets/Misc/Nutrition/Trap/iced-tea.jpg' alt="" class="larger-image"></center>
+<center><img src='/assets/Misc/Nutrition/Trap/iced-tea.jpg' alt='' class='larger-image'></center>
 &emsp;Compare that to this <a href='https://www.walmart.com/ip/Great-Value-Sweet-Brewed-Iced-Tea-128-fl-oz-Bottle/10899050?athbdg=L1600&from=/search'>Great Value Iced Tea</a> (on the right in the above image).  This store brand iced tea has 30 g of <a href='/misc/hidden-sugar'>added sugar</a> in a 12 fl oz serving, or 2.5 g of <a href='/misc/hidden-sugar'>sugar</a> per fl oz.  Hey look at that; it's the exact same amounts of <a href='/misc/hidden-sugar'>added sugar</a>!  Don't be a fool to marketing.
 
-<div id="diet-soda" class="table-of-contents"></div>
-<br><i><font size="+2">Diet Soda</font></i><br>
-&emsp;So no sugar = healthy, right?  Not quite.  While the issue of <a rel="" target="" href='/misc/trap-foods-sweet-spreads#sugar-substitutes'>artificial sweeteners</a> is a highly contested topic, it is generally agreed that artificial sweeteners, and by extension diet coke, are less bad than their full <a href='/misc/hidden-sugar'>sugar</a> counterparts.  Less bad, but that doesn't mean good.  Diet soda is good if you're addicted to regular soda, and are trying to wean yourself off.  In the same way that vaping could be helpful as a way to quit cigarettes.  That doesn't mean you should take up vaping, and the same holds true for a Diet Coke.
+<div id='diet-soda' class='table-of-contents'></div>
+<br><i><font size='+2'>Diet Soda</font></i><br>
+&emsp;So no sugar = healthy, right?  Not quite.  While the issue of <a rel='' target='' href='/misc/trap-foods-sweet-spreads#sugar-substitutes'>artificial sweeteners</a> is a highly contested topic, it is generally agreed that artificial sweeteners, and by extension diet coke, are less bad than their full <a href='/misc/hidden-sugar'>sugar</a> counterparts.  Less bad, but that doesn't mean good.  Diet soda is good if you're addicted to regular soda, and are trying to wean yourself off.  In the same way that vaping could be helpful as a way to quit cigarettes.  That doesn't mean you should take up vaping, and the same holds true for a Diet Coke.
 
-<center><a href='https://www.heart.org/en/news/2021/05/20/a-diet-soda-a-day-might-affect-dementia-risk-study-suggests'><img src='/assets/Misc/Nutrition/Trap/soda-brain.jpg' alt="" class="larger-image"></a></center>
-<div id="milk" class="table-of-contents"></div>
-<br><i><font size="+2">Milk</font></i><br>
+<center><a href='https://www.heart.org/en/news/2021/05/20/a-diet-soda-a-day-might-affect-dementia-risk-study-suggests'><img src='/assets/Misc/Nutrition/Trap/soda-brain.jpg' alt='' class='larger-image'></a></center>
+<div id='milk' class='table-of-contents'></div>
+<br><i><font size='+2'>Milk</font></i><br>
 &emsp;Ah, the humble milk.  Whether you get <a href='/misc/dairy#whole-milk'>whole milk</a>, low <a href='/misc/fats'>fat</a>, or skim, milk can be a nutrition option.  It's a complete <a href='/misc/protein'>protein</a>, the <a href='/misc/fats'>fat</a> helps with feeling satiated, and of course is a good source of <a href='/misc/calcium'>calcium</a>.  Milk isn't on this list because of it's <a href='/misc/fats'>fat</a> content.  I think we know by now that <a href='/misc/fats'>fat</a> is very good for you when not overconsumed; we don't live in the low <a href='/misc/fats'>fat</a> craze of the 90s anymore.
 
-<center><img src='/assets/Misc/Nutrition/Trap/milk.jpg' alt="" class="larger-image"></center>
+<center><img src='/assets/Misc/Nutrition/Trap/milk.jpg' alt='' class='larger-image'></center>
 &emsp;The issue is again, added sugars (are you seeing a pattern?), and this plagues both milk and milk adjacent products.  Firstly, let's look at chocolate milk and strawberry milk.  A 14 fl oz bottle of <a href='https://amzn.to/4kijw7W'>Chocolate Milk</a> or <a href='https://amzn.to/4dIUT1Q'>Strawberry Milk</a> contain 39 g of sugar, 18 g of which are added.  But they're made with low <a href='/misc/fats'>fat</a> milk, so people were duped into thinking these were helathy ways to give their kids <a href='/misc/calcium'>calcium</a>.  Oh, and strawberry milk doesn't contain any strawberry.  Go figure.
 
 &emsp;The other main issue with milk is it's non-dairy counterparts.  I'm talking about <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/grains#oats'>oat</a>, <a href='/misc/beans#soybeans'>soy</a>, <a href='/misc/veggies#pea'>pea</a>, <a href='/misc/nuts#cashews'>cashew</a>, and any other type of plant milk you can think of.  I'll be fully transparant and say that I keep <a href='/misc/dairy#almond-milk'>almond milk</a> in my fridge instead of cow's milk, mainly because it lasts way longer in the fridge (a few months instead of just a week).  I hardly ever drink milk too; normally it gets used a little at a time in my oatmeal or something.
 
-<center><img src='/assets/Misc/Nutrition/Trap/almond-milk.jpg' alt="" class="larger-image"></center>
-&emsp;As long as you purchsae an unsweetened variety, you should be relatively okay.  Most plant based milk do contain other gums and weird ingredients, so as an <a href='/misc/dairy#almond-milk'>almond milk</a> purchaser, I will say that cow's milk is almost always the better choice (assuming you can digest it).  Sweetened plant based milk can have 12 g of <a href='/misc/hidden-sugar'>added sugar</a> in just a cup, as is the case with this <a href='https://amzn.to/3Z5M5gk'>Sweetened Vanilla Almond Milk</a>.  I always stick to either <a href='https://amzn.to/4jsjqcp'>Unsweetened Original Almond Milk</a> or <a href='https://amzn.to/4kfor9w'>Unsweetened Vanilla Almond Milk</a>, or occasionally I'll make my own <a href='/recipes/oat-milk'>Homemade Plant Based Milk</a> using either <a href='/misc/grains#oats'>oats</a> or <a href='/misc/nuts#peanuts'>peanuts</a> for a cheaper option. 
+<center><img src='/assets/Misc/Nutrition/Trap/almond-milk.jpg' alt='' class='larger-image'></center>
+&emsp;As long as you purchsae an unsweetened variety, you should be relatively okay.  Most plant based milk do contain other gums and weird ingredients, so as an <a href='/misc/dairy#almond-milk'>almond milk</a> purchaser, I will say that cow's milk is almost always the better choice (assuming you can digest it).  Sweetened plant based milk can have 12 g of <a href='/misc/hidden-sugar'>added sugar</a> in just a cup, as is the case with this <a href='https://amzn.to/3Z5M5gk'>Sweetened Vanilla Almond Milk</a>.  I always stick to either <a href='https://amzn.to/4jsjqcp'>Unsweetened Original Almond Milk</a> or <a href='https://amzn.to/4kfor9w'>Unsweetened Vanilla Almond Milk</a>, or occasionally I'll make my own <a href='/recipes/oat-milk'>Homemade Plant Based Milk</a> using either <a href='/misc/grains#oats'>oats</a> or <a href='/misc/nuts#peanuts'>peanuts</a> for a cheaper option.
 
 &emsp;I'll be honest and say that in high school, I never used to understand why my mom would get mad at me for buying vanilla <a href='/misc/dairy#almond-milk'>almond milk</a> instead of unsweetened vanilla <a href='/misc/dairy#almond-milk'>almond milk</a>, but we all grow up and learn from our mistakes.  Be willing to change, and keep an open milk (I mean mind).
 
-<br><u><font size="+2">Sources</font></u><br>
+<br><u><font size='+2'>Sources</font></u><br>
 1. <a href='https://www.youtube.com/watch?v=aeM4jD9Uv_Y'>10 'Healthy' Foods That Are Worse Than You Think</a><br>
 2. <a href='https://www.courierpress.com/story/life/2021/09/04/diet-nutrition-healthy-trap-foods-yogurt-oatmeal-peanut-butter/8102805002/'>Yogurt to salad dressing: Top 10 trap foods and how to avoid them</a><br>
 3. <a href='https://www.reddit.com/r/AskReddit/comments/t0n3bt/what_foods_are_commonly_mistaken_as_healthy/'>What foods are commonly mistaken as healthy?</a><br>

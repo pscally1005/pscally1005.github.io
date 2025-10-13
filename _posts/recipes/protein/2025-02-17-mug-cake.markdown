@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Microwave Protein Mug Cake"
+title:  Microwave Protein Mug Cake
 date:   2025-02-17 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Protein Powder
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/protein-mug-cake
 image: /assets/Food/Protein Powder/Mug Cake/cooked.jpg
 ing: proteinmugcake-ing
 facts: proteinmugcake-facts
-servingSize: 
+servingSize:
 section1: Dry Ingredients
 start2: Egg
 section2: Wet Ingredients
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 3
 Rest: 1
 Cook: 1
 Source1: https://youtu.be/L34HcjMUpNc?si=DQLVM6GROnwLYGTt
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/44NFS
-tags: 
+tags:
 - microwave
 - mug cake
 - mug brownie
@@ -49,11 +49,11 @@ tags:
 - bootylicious muffins
 - unsweetened applesauce
 Description: A <a href='/misc/protein'>protein</a> mug cake a very quick and tasty way to make sure you're getting all your <a href='/misc/protein'>protein</a> in. With some healthy <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, and no <a href='/misc/hidden-sugar'>added sugar</a>, this healthy mug cake makes a great snack or dessert that mixes it up from your typical <a href='/recipes/protein-shake'>protein shake</a> or <a href='/recipes/protein-bar'>protein bar</a>
-Instructions: 
+Instructions:
 - Make sure to use a big enough mug.  There should be enough room for the mug cake to roughly double in height when cooked
 
 - Lightly grease a mug, and whisk together the dry ingredients. Add in the wet, and mix until fully combined. Use a spoon to scrape the sides to avoid any dry spots, and use a fork to whisk out the clumps
-- <center><img src='/assets/Food/Protein Powder/Mug Cake/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/Mug Cake/raw.jpg' alt='' class='instruction-image'></center>
 
 - Microwave for about 1 minute (± 15 seconds), stirring every 20-30 seconds. Make sure that it doesn't cook over, and that it isn't overcooked and dry.  A spoon should still be slightly moist when mixed, but not raw or dry.  Let rest for a minute before eating
 

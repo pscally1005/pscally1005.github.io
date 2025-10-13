@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Oatmeal Chocolate Chip Cookies"
+title: Oatmeal Chocolate Chip Cookies
 date:   2023-05-29 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Healthier Dessert/Oatmeal Chip/cover.jpg
 ing: oatchip-ing
 facts: oatchip-facts
 servingSize: 1 cookie
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 15
 Rest: 30
 Cook: 12
 Source1: https://www.youtube.com/watch?v=GPFcMBs6JVw
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/I2Wem
-tags: 
+tags:
 - rolled oats
 - quick oats
 - syrup
@@ -47,17 +47,17 @@ tags:
 - gluten free
 - cinnamon
 Description: These <a href='/misc/grains#oats'>oatmeal</a> cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally <a href='/misc/hidden-sugar'>sugar</a> free if using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and sugar free chocolate chips, but you can also use honey (or maple syrup) and regular chocolate chips if that's what you desire.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
-Instructions: 
+Instructions:
 - In a large bowl, mash your banana with the back of a fork, until smooth.  1/2 cup (120 g) unsweetened applesauce, <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, or <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> will all work in place of mashed banana
 
 - To the bowl, add your honey, vanilla, baking powder, cinnamon, salt, and powdered peanut butter.  Any liquid sweetener will work, such as honey, maple syrup, or sugar free syrup.  Optionally, add 1/4 tsp butter extract.  Mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
 
 - Fold in the rolled oats and chocolate chips (minis preferred).  Chill the dough in the fridge for 30 minutes, so the oats can absorb the moisture
-- <center><img src='/assets/Food/Healthier Dessert/Oatmeal Chip/bowl.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Oatmeal Chip/bowl.jpg' alt='' class='instruction-image'></center>
 
 - Preheat your oven to 350F and line a cookie sheet with parchment paper. Scoop dough onto the sheet, making 24 cookies of about 18 g each.  Lightly wet your hands, and flatten into a round and thin cookie (they won't spread or rise as they bake)
-- <center><img src='/assets/Food/Healthier Dessert/Oatmeal Chip/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Oatmeal Chip/raw.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 350F for about 12 minutes, or until golden brown on the edges.  Let them cool totally on the pan in the fridge
-- <center><img src='/assets/Food/Healthier Dessert/Oatmeal Chip/baked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Oatmeal Chip/baked.jpg' alt='' class='instruction-image'></center>
 ---

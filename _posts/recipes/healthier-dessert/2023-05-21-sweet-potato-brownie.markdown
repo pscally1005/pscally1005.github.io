@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sweet Potato Brownies (SF)"
+title:  Sweet Potato Brownies (SF)
 date:   2023-05-21 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 1 brownie
 section1: Dry
 start2: Sugar free syrup
 section2: Wet
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 20
 Source1: https://www.youtube.com/watch?v=cYxuI7FmGHo
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/FdrXW
-tags: 
+tags:
 - cocoa powder
 - chocolate chips
 - oats
@@ -54,26 +54,26 @@ tags:
 - sugar free
 - gluten free
 Description: After my <a href='/misc/boxed-brownie-experiment'>Fat Replacements in Boxed Brownies</a> experiment, where I found that <a href='/misc/veggies#sweet-potato'>sweet potato</a> was the best oil replacement in brownies, I wanted to make a homemade batch using <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a> as the base. The result is a low <a href='/misc/calories'>calorie</a> brownie that is still just as delicious and fudgy as the one from the box. They're also <a href='/misc/nuts'>nut</a> free too, and have an increased <a href='/misc/fiber'>fiber</a> content. There's no weird ingredients; just sweetened by either <a href='/misc/hidden-sugar'>sugar</a> free syrup, maple syrup, or honey.  For more sweet potato based desserts, see my <a href='/recipes/sweet-potato-blondies'>Sweet Potato Blondies</a>, or check out any of my other <a href='/brownies'>brownie recipes</a>!
-Instructions: 
+Instructions:
 - Preheat your oven to 350F and line an 9" square baking pan with parchment paper. Optionally, spray the paper with oil
 
 - In a large bowl, mix together the dry ingredients - oat flour, cocoa powder, cornstarch, baking powder, baking soda, salt, and cinnamon.  Almond flour or whole wheat flour should also work in place of oat flour
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-2.jpg' alt='' class='instruction-image'></center>
 
 - In a separate bowl, mix together the wet ingredients - syrup, egg, applesauce, vanilla, melted chocolate and puree
 
 - Below are some substitutions if you desire:<br><ul><li>Maple syrup or honey would work in place of sugar free syrup</li><li>If using melted chocolate, use a bittersweet (at least 72%) or unsweetened bar</li><li>Melted chocolate can be replaced 1 oz (28 g) each of cocoa powder and melted coconut oil</li><li>Or try 2 tbsp (32 g) natural peanut butter in place of the melted chocolate</li><li>For the puree, you can either choose <a href='/recipes/sweet-potato-puree'>sweet potato puree</a>, <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/recipes/roasted-butternut-squash-puree'>butternut squash puree</a>, or <a href='/recipes/apple-spread'>apple spread</a></li><li>For a vegan version, replace the egg with an additional 1/4 cup (60 g) of puree</li></ul><br>
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-3.jpg' alt='' class='instruction-image'></center>
 
 - Add the dry ingredients into the wet, sifting if necessary. Fold with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined; don't over mix. The batter should be pretty thick
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-4.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-4.jpg' alt='' class='instruction-image'></center>
 
 - Transfer the batter to your parchment lined pan, and smooth the top with your spatula
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-5.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-5.jpg' alt='' class='instruction-image'></center>
 
 - Bake in a preheated 350F oven for about 20 minutes, or until the center is just set to the touch and a toothpick comes out mostly clean with some wet crumbs
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-6.jpg' alt='' class='instruction-image'></center>
 
 - Let cool completely in the pan, preferably in the fridge for a few hours, before slicing with a plastic knife
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-7.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-7.jpg' alt='' class='instruction-image'></center>
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Zoodles and Meatballs"
+title:  Zoodles and Meatballs
 date:   2024-01-31 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/meatballs
 image: /assets/Food/Ground Meat/Meatballs/meatballs-cover.jpg
 ing: meatballs-ing
 facts: meatballs-facts
-servingSize: 
+servingSize:
 section1: Meatballs
 start2: Zucchini
 section2: Zoodles
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 20
-Rest: 
+Rest:
 Cook: 20
 Source1: https://mealprepmanual.com/high-protein-beef-meatballs/
 Source2: https://www.youtube.com/watch?v=PQelNqZNStE
 whisk: https://s.samsungfood.com/qdVaq
-tags: 
+tags:
 - ground
 - beef
 - turkey
@@ -52,13 +52,13 @@ tags:
 - pesto
 - marinara
 Description: These meatballs are gluten free, and can be made with <a href='/misc/meat#ground-beef'>ground beef</a>, <a href='/misc/meat#ground-turkey'>turkey</a>, or <a href='/misc/meat#chicken-breast'>chicken</a>. They taste great, and can be eaten on their own, or mixed into a sauce and pasta, like I did here with <a href='/misc/veggies#zucchini'>zucchini</a> noodles. I used my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> recipe here, but feel free to use whatever sauce you desire. Pesto would be great too, like my <a href='/recipes/evoo-pesto'>Lightened Extra Virgin Olive Oil Pesto</a>, <a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a>, or my <a href='/recipes/avocado-pesto'>Avocado Pesto - Vegan and Oil Free</a>
-Instructions: 
+Instructions:
 - Preheat your oven to 400F, and prepare a large cookie sheet with parchment paper
 
 - In a large bowl, beat your egg, and mix with the rest of the ingredients. Mix with your hands until just combined
 
 - Scoop your mixture (using a cookie scoop helps), roll into balls, and place on your sheet pans
-- <center><img src='/assets/Food/Ground Meat/Meatballs/meatballs-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Meatballs/meatballs-3.jpg' alt='' class='instruction-image'></center>
 
 - Roast the meatballs in your 400F oven for about 14-16 minutes, or until cooked through and reach a temperature of at least 165F. Set aside
 

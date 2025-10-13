@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sauteed Taco Meat and Fajita Veggies"
+title:  Sauteed Taco Meat and Fajita Veggies
 date:   2023-07-04 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/taco
 image: /assets/Food/Ground Meat/Taco/taco-meat.jpg
 ing: taco-ing
 facts: taco-facts
-servingSize: 
+servingSize:
 section1: Spice Mix
 start2: Onion
 section2: Veggies
 start3: Ground turkey, 93/7
 section3: Meat
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 30
 Source1: https://www.allrecipes.com/recipe/255545/ground-turkey-taco-meat/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/HXlPB
-tags: 
+tags:
 - fajita
 - ground
 - beef
@@ -54,7 +54,7 @@ tags:
 - rice
 - vic
 Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my <a href='/recipes/fajitas'>Chicken Fajitas with Peppers</a> recipe, these are an awesome way for each person to build their own meals and have fun at the table. For a no garlic and <a href='/misc/veggies#onion'>onion</a> version, see my <a href='/recipes/low-fodmap-tacos'>Low FODMAP Chicken Tacos</a> recipe.  Invite some people over to make tacos and whip up some <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a> or <a href='/recipes/guacamole'>Holy Guacamole</a>; what are you waiting for!
-Instructions: 
+Instructions:
 - Mix together seasonings in a medium bowl or mason jar and set aside
 
 - Start with the veggies, since they will take the longest.  Cut your onions into long thin slices, and add to a 12" pan with olive oil over medium heat.  Other good veggies besides onions are bell peppers, zucchini, and yellow squash
@@ -66,10 +66,10 @@ Instructions:
 - Add in the garlic and water, and cover with a lid or foil.  Reduce heat to medium low, and let simmer for 10 minutes with occasional stirring
 
 - Stir in the apple cider vinegar and lime juice. Simmer until flavors combine, about another 5 minutes
-- <center><img src='/assets/Food/Ground Meat/Taco/taco-counter.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Taco/taco-counter.jpg' alt='' class='instruction-image'></center>
 
 - Serve your tacos with <a href='/recipes/tortilla'>tortillas</a>, cheese, and <a href='/recipes/rice-and-beans'>rice and beans</a>, and salad.  Other good toppings are olives, <a href='/recipes/guacamole'>guac</a>, <a href='/recipes/salsa'>salsa</a>, and tomatoes.
-- <center><img src='/assets/Food/Ground Meat/Taco/taco-bowl.jpg' alt="" class="half-page"><img src='/assets/Food/Ground Meat/Taco/taco-shell.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Ground Meat/Taco/taco-bowl.jpg' alt='' class='half-page'><img src='/assets/Food/Ground Meat/Taco/taco-shell.jpg' alt='' class='half-page'></center>
 
 - <i>Note:</i> Nutrition facts are just for the meat and veggies, not including any tortillas, cheese, rice, beans, or other toppings
 ---

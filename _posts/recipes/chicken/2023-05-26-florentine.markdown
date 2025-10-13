@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No Cream Chicken Florentine"
+title:  No Cream Chicken Florentine
 date:   2023-05-26 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/chicken-florentine
 image: /assets/Food/Chicken/Florentine/cover.jpg
 ing: florentine-ing
 facts: florentine-facts
-servingSize: 
+servingSize:
 section1: Spinach
 start2: Water
 section2: Sauce
 start3: Boneless skinless chicken breast
 section3: Chicken
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 30
 Source1: https://healthyfitnessmeals.com/chicken-florentine/#recipe
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/sM1Hh
-tags: 
+tags:
 - spinach
 - onion
 - broth
@@ -57,5 +57,5 @@ Instructions:
 - Meanwhile, dice the chicken into small cubes. Over medium heat in the pan you used to cook the spinach, cook the chicken with oil and spices (garlic powder, onion powder, basil, thyme, and lemon pepper)
 
 - When chicken is almost done (165F), add the plate of spinach and pot of sauce to the pan and combine. Cook on medium heat until liquid has reduced and chicken is done. You want the sauce to be creamy, but not too liquidy where it’s runny. Serve
-- <center><img src='/assets/Food/Chicken/florentine/3-parts.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/florentine/3-parts.jpg' alt='' class='instruction-image'></center>
 ---

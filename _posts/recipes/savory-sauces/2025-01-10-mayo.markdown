@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Lighter Mayo Substitute"
+title:  Lighter Mayo Substitute
 date:   2025-01-10 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 1 tbsp (15 g)
 section1: Mayo
 start2: Liquid monk fruit
 section2: Optional
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://www.youtube.com/watch?v=swJ9pET-HHc
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/VwA6G
-tags: 
+tags:
 - mayonnaise
 - mayo
 - low-fat
@@ -57,11 +57,11 @@ tags:
 - buffalo chicken dip
 - spinach artichoke dip
 Description: Standard bottles of <a href='https://amzn.to/4kFH0n6'>mayonnaise</a> are filled with cheap and inflammatory vegetable oils, <a href='/misc/hidden-sugar'>sugar</a>, preservatives, and artificial ingredients. Instead, make this healthy swap in all your mayo-based dishes, like <a href='/misc/veggies#potato'>potato</a> salad, deviled eggs, macaroni salad, French <a href='/misc/veggies#onion'>Onion</a> dip, and <a href='/misc/fish#tuna'>tuna</a> salad. The secret is <a href='/misc/dairy#yogurt'>Greek yogurt</a>, which is low and <a href='/misc/fats'>fat</a> and high in <a href='/misc/protein'>protein</a>, making this mayo significantly lower in <a href='/misc/calories'>calories</a>.  If you prefer hollandaise to mayo, be sure to check out my <a href='/recipes/hollandaise'>Greek Yogurt Hollandaise Sauce</a>.  Or check out any of my other <a href='/salad-dressings'>salad dressings</a>!
-Instructions: 
+Instructions:
 - In a medium bowl, mix together all ingredients until smooth. Store in an airtight container in the fridge for up to a week
 
 - This recipe makes about 1.75 cups (428 g), or 28 servings of 1 tbsp (15 g). For reference, a tablespoon of <a href='https://amzn.to/4kFH0n6'>standard mayo</a> contains the following:<ul><li>7x the <a href='/misc/calories'>calories</a> (90 cal)</li><li>10x the <a href='/misc/fats'>fat</a> (10 g)</li><li>No protein</li></ul>
 
 - Here's a super simple potato salad I made by mixing some homemade mayo with leftover roasted sweet potatoes.  It's creamy, sweet, rich, and delicious, all while significantly lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>
-- <center><img src='/assets/Food/Savory Sauces/Mayo/potato-salad.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Mayo/potato-salad.jpg' alt='' class='instruction-image'></center>
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Coconut Brownies"
+title:  Coconut Brownies
 date:   2024-05-23 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 - Delete
@@ -22,22 +22,22 @@ image: /assets/Food/Healthier Dessert/Coconut Brownies/coconut-brownie.jpg
 ing: coconutbrownies-ing
 facts: coconutbrownies-facts
 servingSize: 1 brownie
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 30
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/4sZEo
-tags: 
+tags:
 - chocolate chip
 - chocolate chunk
 - vanilla extract
@@ -56,7 +56,7 @@ tags:
 - nut free
 - vic
 Description: These coconut brownies are gluten free, <a href='/misc/hidden-sugar'>sugar</a> free, and <a href='/misc/nuts'>nut</a> free, but still just as delicious.  It uses coconut oil and coconut flour as its <a href='/misc/fats'>fat</a> and flour, and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or maple syrup/honey) as its sweetener.  The <a href='/misc/fats'>fat</a> is cut back a bit by the use of plain nonfat <a href='/misc/dairy#yogurt'>greek yogurt</a> and unsweetened applesauce, which also adds a touch of sweetness.  Feel free to top with or mix in some chocolate chips too!  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
-Instructions: 
+Instructions:
 - Preheat your oven to 350F, and line an 9" square baking pan with parchment paper.  Lightly spray the pan with oil
 
 - In a large bowl, mix together all the ingredients in the order above.  It helps to fully combine together the liquid ingredients (oil, yogurt, applesauce, syrup, eggs, vanilla, baking soda, and salt) before whisking in the solids (cocoa powder and coconut flour).  Fold in your chocolate chips, reserving a few for the top

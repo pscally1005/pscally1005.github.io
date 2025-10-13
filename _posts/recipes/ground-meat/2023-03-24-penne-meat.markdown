@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Penne and Meat Casserole Bake"
+title:  Penne and Meat Casserole Bake
 date:   2023-03-24 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,7 +20,7 @@ permalink: /recipes/penne-casserole
 image: /assets/Food/Ground Meat/Penne/penne-cover.jpg
 ing: penne-ing
 facts: penne-facts
-servingSize: 
+servingSize:
 section1: Pasta
 start2: Extra virgin olive oil
 section2: Onion
@@ -28,15 +28,15 @@ start3: Ground turkey, 93/7
 section3: Meat & Spices
 start4: Panko breadcrumbs
 section4: Topping
-start5: 
-section5: 
+start5:
+section5:
 Prep: 30
-Rest: 
+Rest:
 Cook: 40
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/YhUeg
-tags: 
+tags:
 - ground meat
 - ground turkey
 - pasta
@@ -54,7 +54,7 @@ tags:
 - breadcrumbs
 - panko
 Description: This ground <a href='/misc/meat'>meat</a> and penne baked casserole was my go to for feeding a crowd during my running club pasta parties in college. They're really easy to make a day ahead, and simply just reheat in the pan on the day of your event. Feel free to mix in some chopped <a href='/misc/veggies#spinach-fresh'>spinach</a> as well, or serve with a side of roasted <a href='/misc/veggies#broccoli'>broccoli</a>, such as my <a href='/recipes/running-club-broccoli'>Running Club Broccoli</a>
-Instructions: 
+Instructions:
 - Preheat the oven to 375F. Spray 9x13in pan with cooking spray
 
 - Cook you pasta according to the packaging, drain, and set aside. Cook about a minute less than directed, since the pasta will bake in the oven
@@ -66,7 +66,7 @@ Instructions:
 - After the meat is done, add in the spices (garlic and onion powder, oregano, basil, thyme, and pepper) and pour in tomatoes. Let simmer for 5 minutes
 
 - Combine beef, pasta, and cheese in the pot
-- <center><img src='/assets/Food/Ground Meat/Penne/penne-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Penne/penne-6.jpg' alt='' class='instruction-image'></center>
 
 - Transfer to greased pan. Sprinkle breadcrumbs on top
 

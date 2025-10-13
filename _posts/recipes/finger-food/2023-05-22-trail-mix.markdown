@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mixed Nuts & Chocolate Trail Mix"
+title:  Mixed Nuts & Chocolate Trail Mix
 date:   2023-05-22 00:00:00 -0500
-categories: 
+categories:
 - Recipes
 - Finger Foods
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Finger Food/Trail Mix/trail-mix.jpg
 ing: trailmix-ing
 facts: trailmix-facts
 servingSize: 1/4 cup (30 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/ehks9
-tags: 
+tags:
 - peanut
 - cachew
 - almond
@@ -48,6 +48,6 @@ tags:
 - mix
 - simple
 Description: <a href='/misc/fake-healthy-foods#trail-mix'>Trail mix</a> is a perfect snack to take on the go, especially when hiking (duh). Here's a simple formula that I generally follow, but it is super easy to tweak to your liking. Each serving is about 30 grams.  If you prefer crispy <a href='/misc/nuts'>nuts</a> and <a href='/misc/beans#chickpeas'>chickpeas</a> in your trail mix instead, see my <a href='/recipes/air-fried-trail-mix'>Air Fryer Trail Mix</a>
-Instructions: 
+Instructions:
 - Mix together in ziploc bag, store in cabinet or fridge
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Crustless Sweet Potato Pie"
+title:  Crustless Sweet Potato Pie
 date:   2024-06-01 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Protein Powder
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Protein Powder/Sw Pot Pie/sw-pot-pie-cover.jpg
 ing: swpotpie-ing
 facts: swpotpie-facts
 servingSize: 1 bar
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 45
 Source1: https://www.youtube.com/watch?v=BTtVz35A_P4
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/nMdIc
-tags: 
+tags:
 - protein powder
 - whey
 - unflavored whey
@@ -60,7 +60,7 @@ tags:
 - nonfat cottage cheese
 - cottage cheese
 Description: This high <a href='/misc/protein'>protein</a> pie is made without a crust, making it gluten free and saving on <a href='/misc/calories'>calories</a>. It's basically a <a href='/misc/protein'>protein</a> packed pumpkin cheesecake with delicious <a href='/misc/veggies#sweet-potato'>sweet potato</a> flavor, containing a lot of <a href='/misc/protein'>protein</a> from the <a href='/misc/dairy#yogurt'>yogurt</a>, eggs, and <a href='/misc/protein'>protein</a> powder. It's a great dessert, post workout snack, or even breakfast
-Instructions: 
+Instructions:
 - To make your sweet potato puree, wash the potatoes with a brush, poke with a fork all over, and wrap in aluminum foil. Air fry at 400F for about 1 hour, or until a knife can pierce through with no force. Slice open, and allow to cook on the counter for a few minutes
 
 - Preheat your oven to 300F, and line an 9" square pan with parchment paper. Also, lightly spray the paper
@@ -70,8 +70,8 @@ Instructions:
 - Add in the rest of the pie ingredients, and blend until fully combined - unflavored whey, sweetener (omit if using flavored protein powder) egg, yogurt, cottage cheese, milk, cinnamon, nutmeg, ginger, salt, and cloves)
 
 - Pour the pie batter into the pan, and shake to make sure it is even. The batter should be pourable, but a thick liquid
-- <center><img src='/assets/Food/Protein Powder/Sw Pot Pie/sw-pot-pie-5.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/Sw Pot Pie/sw-pot-pie-5.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 300F for about 45 minutes. The top should be lightly browned, and the center should lightly jiggle when tapped on the side. Allow to cool totally in the pan before slicing
-- <center><img src='/assets/Food/Protein Powder/Sw Pot Pie/sw-pot-pie-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Protein Powder/Sw Pot Pie/sw-pot-pie-6.jpg' alt='' class='instruction-image'></center>
 ---

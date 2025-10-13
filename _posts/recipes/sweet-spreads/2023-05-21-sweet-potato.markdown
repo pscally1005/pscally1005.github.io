@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Roasted Sweet Potato Puree"
+title:  Roasted Sweet Potato Puree
 date:   2023-05-21 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sweet Spreads
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Sweet Spreads/Sweet Potato/cover.jpg
 ing: sweetpotato-ing
 facts: sweetpotato-facts
 servingSize: 3 tbsp (45 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 90
 Source1: https://www.darngoodveggies.com/how-to-make-sweet-potato-puree/#tasty-recipes-12129-jump-target
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/ZUyoB
-tags: 
+tags:
 - sweet potato mash
 - mashed potato
 - roasted
@@ -57,7 +57,7 @@ Description: This is less of a recipe and more of a method, as you'd probably us
     <li><a href='/recipes/pumpkin-bread'>Protein Pumpkin Bread</a><br></li>
     <li><a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a></li>
     <li><a href='/recipes/pumpkin-cake'>Frosted Pumpkin Cake</a></li></ul>
-Instructions: 
+Instructions:
 - Wash the potatoes. Prick with a fork all over about 10 times, and wrap in aluminum foil
 
 - Bake in the oven for 90 minutes at 400F until very soft. You can also air fry at 400F for 1 hour. Slice open, and allow to steam out for a few minutes

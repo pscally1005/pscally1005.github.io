@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Roasted Pork Tenderloin & Veggies"
+title:  Roasted Pork Tenderloin & Veggies
 date:   2024-05-15 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/pork-tenderloin
 image: /assets/Food/Ground Meat/Pork Tenderloin/pork-tenderloin.jpg
 ing: porktenderloin-ing
 facts: porktenderloin-facts
-servingSize: 
+servingSize:
 section1: Meat
 start2: Sweet potato
 section2: Potatoes & Veggies
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 45
 Source1: https://www.youtube.com/watch?v=T1uUQgcWVYQ
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/ca4Z1
-tags: 
+tags:
 - pork
 - tenderloin
 - sweet potato
@@ -48,7 +48,7 @@ tags:
 - baked potato
 - vic
 Description: I've never been a big fan of <a href='/misc/meat#pork-tenderloin'>pork</a>, but I've been wanting to give it a try, and I found some on sale a few days ago. Pork tenderloin is a very lean but still juicy cut of meat, as long as you cook it properly. It's also fairly cheap too, this was only $2.69 for 1 lb. I've paired this with a side of <a href='/recipes/baked-sweet-potato'>Baked Sweet Potatoes</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>, but feel free to throw it together with whatever you have in your fridge
-Instructions: 
+Instructions:
 - Trim any excess fat off the side of the meat, and cut into 4 pieces. Light season all sides with salt, pepper, and garlic
 
 - Preheat a pan over medium high heat with a spray of oil. Cook for 1.5-2 minutes before flipping the meat. The goal here is to brown all 4 sides, not to cook the meat through. Use tongs to flip the meat and brown all the sides, and then remove from the heat

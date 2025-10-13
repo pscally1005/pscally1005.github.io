@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Air Fryer Biscotti"
+title:  Air Fryer Biscotti
 date:   2024-12-25 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Finger Foods
 showPercentage: no
@@ -26,17 +26,17 @@ start2: Egg
 section2: Wet
 start3: Almonds
 section3: Mix-in
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 18
 Rest: 15
 Cook: 22
 Source1: https://www.youtube.com/watch?v=wrqsCosGPVQ
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/37uGu
-tags: 
+tags:
 - biscotti
 - cookie
 - italian
@@ -50,7 +50,7 @@ tags:
 - almonds
 - oat flour
 Description: Merry Christmas!  What better way to enjoy a morning Christmas brunch with your family than by dipping homemade biscotti into your coffee or hot chocolate.  This is a small batch of homemade biscotti that's free of gluten and refined <a href='/misc/hidden-sugar'>sugar</a>, and baked in your air fryer, so they're nice and crunchy.  You can check out any of my other <a href='/cookies'>cookie recipes</a>!
-Instructions: 
+Instructions:
 - Preheat your air fryer to 360F, and cut a piece of parchment paper that will fit inside.  You can also use an air fryer liner
 
 - In a large bowl, combine together the dry ingredients - oat flour, almond meal, cornstarch, baking powder, and salt
@@ -64,7 +64,7 @@ Instructions:
 - Combine together, and mix until just combined. Fold in roughly chopped nuts
 
 - Transfer to your parchment paper or air fryer liner, and form into a rectangle
-- <center><img src='/assets/Food/Finger Food/Biscotti/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Biscotti/raw.jpg' alt='' class='instruction-image'></center>
 
 - Air fry at 360F for 12 minutes. Remove from the air fryer, and let cool on a wire rack for 15 minutes. Lower the air fryer temperature to 300F
 

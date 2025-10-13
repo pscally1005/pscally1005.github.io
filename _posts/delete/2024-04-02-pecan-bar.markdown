@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Carob Pecan Butter Bars"
+title:  Carob Pecan Butter Bars
 date:   2024-04-02 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 - Delete
@@ -25,19 +25,19 @@ servingSize: 1 bar
 section1: Filling
 start2: Extra virgin coconut oil
 section2: Topping
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
 Rest: 10
 Cook: 10
 Source1: https://runheartfit.net/pecan-butter-chocolate-truffle-recipe-and-review/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/Y7XpR
-tags: 
+tags:
 - no bake
 - coconut flour
 - pecan butter
@@ -54,21 +54,21 @@ tags:
 - cinnamon
 - coconut oil
 Description: These bars are an adapted version of the Pecan Butter Chocolate Truffles from the cookbook Run Fast Eat Slow. I've made them into bars here, but if you have mini muffin liners you can totally make them into Reese's cups as well. This is admittedly unnecessary boujee with the <a href='/misc/nuts#pecans'>pecan</a> butter and carob powder; you can easily swap those for regular cocoa powder and any kind of <a href='/misc/nuts'>nut</a> or <a href='/misc/seeds'>seed</a> butter you like
-Instructions: 
+Instructions:
 - In a food processor, blend the pecans until a smooth pecan butter forms, scraping down the sides every minute or so. This can take about 5 minutes, depending on your food processor. Any kind of nuts can be used here - peanuts, pistachios, almonds, or even sunflower or pumpkin seeds to make it nut-free
-- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-1.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-1.jpg' alt='' class='instruction-image'></center>
 
 - Add in the rest of the filling ingredients - coconut flour, banana, cinnamon, and salt. Blend until smooth and thick
-- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-2.jpg' alt='' class='instruction-image'></center>
 
 - Transfer to a parchment lined 9" square pan, and evenly spread the mixture with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Freeze for 10 minutes to harden
-- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-3.jpg' alt='' class='instruction-image'></center>
 
 - In a small bowl, melt coconut oil in the microwave for about a minute, Stir in carob powder and salt. Optionally, add some sweetener if you desire. Carob is mildly sweet, so I don't find any necessary, but you may want some if you use cocoa powder instead
 
 - Spread the melted chocolate on top of the filling, spreading edge to edge. Refrigerate for a few hours to harden before slicing
-- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-5.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-5.jpg' alt='' class='instruction-image'></center>
 
 - Slice, transfer to a parchment lined cookie sheet, and flash freeze until solid.  Store in the freezer or fridge
-- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-6.jpg' alt='' class='instruction-image'></center>
 ---

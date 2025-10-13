@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sweet Potato Chcolate Pudding"
+title:  Sweet Potato Chcolate Pudding
 date:   2025-02-06 00:00:00 -05000
 categories: 
 - Recipes

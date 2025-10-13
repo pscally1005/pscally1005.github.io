@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Greek Salad with Chicken"
+title:  Greek Salad with Chicken
 date:   2025-03-03 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Greek Salad/cover.jpg
 ing: greeksalad-ing
 facts: greeksalad-facts
-servingSize: 
+servingSize:
 section1: Roasted Peppers
 start2: Romaine lettuce
 section2: Salad
 start3: Simple Shredded Chicken
 section3: Protein
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 30
-Rest: 
+Rest:
 Cook: 15
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/oxJ8Y
-tags: 
+tags:
 - crumbled feta cheese
 - artichokes
 - tomatoes
@@ -52,7 +52,7 @@ tags:
 Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#artichoke'>artichokes</a> makes it even better. This is super healthy, and tastes great with all the <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat'>meat</a>, and <a href='/misc/dairy#feta'>feta</a>. This also works well as a side without the <a href='/misc/meat'>meat</a> too, or pair it with my <a href='/recipes/pita'>Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita.  Or you can check out any of my other <a href='/salad'>salad recipes</a>!
 Instructions:
 - Preheat your oven to 400F, and line a cookie sheet with parchment paper. Wash and cut your peppers into long, thin strips. Toss with oil and pepper. Roast at 400F for about 30 minutes, or until softened and lightly charred. Set aside
-- <center><img src='/assets/Food/Chicken/Greek Salad/roasted.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Greek Salad/roasted.jpg' alt='' class='instruction-image'></center>
 
 - Meanwhile, prepare the rest of the salad. Thinly slice your lettuce, and wash in a salad spinner. Cut your onion into a small dice. Wash your tomatoes, and cut into a medium dice
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Trap Foods - Meals"
+title:  Trap Foods - Meals
 date:   2024-08-01 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Nutrition
 - Hidden
 permalink: /misc/trap-foods-meals
 image: /assets/Misc/Nutrition/Trap/meals.jpg
-tags: 
+tags:
 - healthy
 - unhealthy
 - trap foods
@@ -29,8 +29,8 @@ tags:
 - cornbread
 - corn bread
 ---
-<i><font size="+2">Note</font><br>
-&emsp;The following is an excerpt from my post <a href='/misc/fake-healthy-foods'>'Healthy' Trap Foods</a>, in which I made a detailed list of foods that I believe to deceptively unhealthy.  I've broken that list down into easier to digest categories based on what food they are.  Linked below are all the individual posts:
+<i><font size='+2'>Note</font><br>
+&emsp;The following is an excerpt from my post <a href='/misc/fake-healthy-foods'>"Healthy" Trap Foods</a>, in which I made a detailed list of foods that I believe to deceptively unhealthy.  I've broken that list down into easier to digest categories based on what food they are.  Linked below are all the individual posts:
 - <i><a href='/misc/trap-foods-breakfast'>Trap Foods - Breakfast</a><br></i>
 - <i><a href='/misc/trap-foods-drinks'>Trap Foods - Drinks</a><br></i>
 - <i><a href='/misc/trap-foods-produce'>Trap Foods - Fruits & Veggies</a><br></i>
@@ -40,42 +40,42 @@ tags:
 - <i><a href='/misc/trap-foods-snacks'>Trap Foods - Snacks</a><br></i>
 - <i><a href='/misc/trap-foods-sweet-spreads'>Trap Foods - Sweet Spreads</a><br></i>
 
-<u><font size="+2">Introduction</font></u><br>
+<u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
 
-<u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
+<u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
 - Avoid ultra processed foods, especially ones containing refined <a href='/misc/hidden-sugar'>sugar</a>, refined <a href='/misc/grains'>grains</a>, and vegetable/seed oils
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt="" class="larger-image"></a></center>
-<u><font size="+2">Disclaimer</font></u><br>
+<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
-<br><u><font size="+2">List of Foods</font></u><br>
-* <a rel="" target="" href='#white-rice'>White Rice</a><br>
-* <a rel="" target="" href='#frozen-meals'>Frozen Meals</a><br>
-* <a rel="" target="" href='#processed-meats'>Processed Meats</a><br>
-* <a rel="" target="" href='#fake-meat'>Fake Meat</a><br>
-* <a rel="" target="" href='#baked-beans'>Baked Beans</a><br>
-* <a rel="" target="" href='#cornbread'>Cornbread</a><br>
-* <a rel="" target="" href='#potatoes'>Potatoes</a><br>
+<br><u><font size='+2'>List of Foods</font></u><br>
+* <a rel='' target='' href='#white-rice'>White Rice</a><br>
+* <a rel='' target='' href='#frozen-meals'>Frozen Meals</a><br>
+* <a rel='' target='' href='#processed-meats'>Processed Meats</a><br>
+* <a rel='' target='' href='#fake-meat'>Fake Meat</a><br>
+* <a rel='' target='' href='#baked-beans'>Baked Beans</a><br>
+* <a rel='' target='' href='#cornbread'>Cornbread</a><br>
+* <a rel='' target='' href='#potatoes'>Potatoes</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt="" class="larger-image"></a></center>
+<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
 
-<div id="white-rice" class="table-of-contents"></div>
-<br><i><font size="+2">White Rice</font></i><br>
-&emsp;<a href='https://amzn.to/4jpk22G'>White rice</a> is fairly processed, removing the hull and bran and leaving just the starch.  It's basically the <a href='/misc/grains#white-wheat'>white flour</a> equivalent for rice.  With just the starch, <a href='/misc/grains#white-rice'>white rice</a> is lacking the <a href='/misc/fiber'>fiber</a>, vitamins, and minerals of <a href='https://amzn.to/3SYPCJG'>brown rice</a>, which is why it's often enriched with micronutrients (the same is done with white bread).  More starch and less <a href='/misc/fiber'>fiber</a> leads to greater insulin spikes, increasing your risk for diabeter and metabilic syndrome.  Now I'm not saying that <a href='/misc/grains#white-rice'>white rice</a> is the most unhealthy thing in the world, far from it; I'm just simply saying there are better options.  Instead of <a href='/misc/grains#white-rice'>white rice</a>, try instead using <a href='/misc/grains#brown-rice'>brown rice</a>, <a href='https://amzn.to/3SnDC4r'>wild rice</a>, <a href='https://amzn.to/4mHBuT4'>quinoa</a>, <a href='https://amzn.to/3Hgh9nj'>couscous</a>, or even riced <a href='https://amzn.to/4kIzrfC'>cauliflower</a> or <a href='https://amzn.to/3Z5MW0w'>broccoli</a>.  
+<div id='white-rice' class='table-of-contents'></div>
+<br><i><font size='+2'>White Rice</font></i><br>
+&emsp;<a href='https://amzn.to/4jpk22G'>White rice</a> is fairly processed, removing the hull and bran and leaving just the starch.  It's basically the <a href='/misc/grains#white-wheat'>white flour</a> equivalent for rice.  With just the starch, <a href='/misc/grains#white-rice'>white rice</a> is lacking the <a href='/misc/fiber'>fiber</a>, vitamins, and minerals of <a href='https://amzn.to/3SYPCJG'>brown rice</a>, which is why it's often enriched with micronutrients (the same is done with white bread).  More starch and less <a href='/misc/fiber'>fiber</a> leads to greater insulin spikes, increasing your risk for diabeter and metabilic syndrome.  Now I'm not saying that <a href='/misc/grains#white-rice'>white rice</a> is the most unhealthy thing in the world, far from it; I'm just simply saying there are better options.  Instead of <a href='/misc/grains#white-rice'>white rice</a>, try instead using <a href='/misc/grains#brown-rice'>brown rice</a>, <a href='https://amzn.to/3SnDC4r'>wild rice</a>, <a href='https://amzn.to/4mHBuT4'>quinoa</a>, <a href='https://amzn.to/3Hgh9nj'>couscous</a>, or even riced <a href='https://amzn.to/4kIzrfC'>cauliflower</a> or <a href='https://amzn.to/3Z5MW0w'>broccoli</a>.
 
 &emsp;I like have rice on the side with my meals, like with my <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a> or <a href='/recipes/cauliflower-rice'>Simple Cauliflower Rice</a>.  Rice also works great mixed into dishes, such as <a href='/recipes/baked-rice-and-beans'>Baked Rice and Beans with Vegetables</a> or <a href='/recipes/lebanese-casserole'>Lebanese Riced Cauliflower Casserole</a>.
 
-<center><a href='https://www.bhutannatural.com/resources/white-rice-bad-for-you'><img src='/assets/Misc/Nutrition/Trap/white-rice.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://www.bhutannatural.com/resources/white-rice-bad-for-you'><img src='/assets/Misc/Nutrition/Trap/white-rice.jpg' alt='' class='larger-image'></a></center>
 
-<div id="frozen-meals" class="table-of-contents"></div>
-<br><i><font size="+2">Frozen and Canned Meals</font></i><br>
+<div id='frozen-meals' class='table-of-contents'></div>
+<br><i><font size='+2'>Frozen and Canned Meals</font></i><br>
 &emsp;Frozen and canned meals are great for convienence, but that they can very high in <a href='/misc/sodium'>sodium</a>, <a href='/misc/fats'>fat</a>, <a href='/misc/hidden-sugar'>added sugar</a>, <a href='/misc/calories'>calories</a>, and artificial preservatives.  I don't want to keep beating a dead horse; instead, I'll just leave some links to examples:
 - <a href='https://amzn.to/4kgWO01'>Chicken and Rice Bowl</a><br>
 - <a href='https://amzn.to/4dBZdjf'>Beef Burrito</a><br>
@@ -87,14 +87,14 @@ tags:
 - <a href='https://amzn.to/45tvdE2'>New England Clam Chowder</a><br>
 - <a href='https://amzn.to/4kaJmuo'>Mac and Cheese</a><br>
 
-<center><a href='https://toneop.com/blog/Are-Frozen-Foods-Healthy-Or-Unhealthy'><img src='/assets/Misc/Nutrition/Trap/frozen.jpg' alt="" class="larger-image"></a></center>
-<div id="processed-meats" class="table-of-contents"></div>
-<br><i><font size="+2">Processed Meats</font></i><br>
-&emsp;Processed meats can be a great convienence food.  They're typically used on a sandwich, but can also work well in <a href='/misc/meat#eggs'>eggs</a>, pizza toppings, salad, or even more.  Examples include <a href='https://amzn.to/4kmBA0O'>pepperoni</a>, <a href='https://amzn.to/4kxTe0Y'>prosciutto</a>, and lunch meats (<a href='https://amzn.to/4kha5FV'>ham</a>, <a href='https://amzn.to/3FyX5fq'>turkey</a>, <a href='https://amzn.to/3T3eO1D'>chicken</a>, and <a href='https://amzn.to/3Z8GeH8'>roast beef</a>), as well as other cured meats like <a href='https://amzn.to/3HtM7IF'>bacon</a>, <a href='https://amzn.to/4kE77e6'>sausage</a>, <a href='https://amzn.to/4jnoBuo'>hot dogs</a>, and <a href='https://amzn.to/3SWAnB3'>ham</a>.  
+<center><a href='https://toneop.com/blog/Are-Frozen-Foods-Healthy-Or-Unhealthy'><img src='/assets/Misc/Nutrition/Trap/frozen.jpg' alt='' class='larger-image'></a></center>
+<div id='processed-meats' class='table-of-contents'></div>
+<br><i><font size='+2'>Processed Meats</font></i><br>
+&emsp;Processed meats can be a great convienence food.  They're typically used on a sandwich, but can also work well in <a href='/misc/meat#eggs'>eggs</a>, pizza toppings, salad, or even more.  Examples include <a href='https://amzn.to/4kmBA0O'>pepperoni</a>, <a href='https://amzn.to/4kxTe0Y'>prosciutto</a>, and lunch meats (<a href='https://amzn.to/4kha5FV'>ham</a>, <a href='https://amzn.to/3FyX5fq'>turkey</a>, <a href='https://amzn.to/3T3eO1D'>chicken</a>, and <a href='https://amzn.to/3Z8GeH8'>roast beef</a>), as well as other cured meats like <a href='https://amzn.to/3HtM7IF'>bacon</a>, <a href='https://amzn.to/4kE77e6'>sausage</a>, <a href='https://amzn.to/4jnoBuo'>hot dogs</a>, and <a href='https://amzn.to/3SWAnB3'>ham</a>.
 
-&emsp;Unfortunately, these meats tend to be very heavily processed and have high amounts of <a href='/misc/sodium'>sodium</a> and saturated <a href='/misc/fats'>fat</a>.  <a href='/misc/sodium'>Sodium</a> can be up to 400% higher in cold cuts as compared to standard cuts of <a href='/misc/meat'>meat</a>, as well as containing more <a href='/misc/fats'>fat</a> than <a href='/misc/protein'>protein</a> in many cases.  Plus, cold cuts are often paired with cheese and bread, which can also be quite <a href='/misc/sodium'>sodium</a> dense.  Additionally, the curing processes involving nitrates and nitrites to preserve the meats have been linked to colorectal cancer, as well as heart disease and high blood pressure.  
+&emsp;Unfortunately, these meats tend to be very heavily processed and have high amounts of <a href='/misc/sodium'>sodium</a> and saturated <a href='/misc/fats'>fat</a>.  <a href='/misc/sodium'>Sodium</a> can be up to 400% higher in cold cuts as compared to standard cuts of <a href='/misc/meat'>meat</a>, as well as containing more <a href='/misc/fats'>fat</a> than <a href='/misc/protein'>protein</a> in many cases.  Plus, cold cuts are often paired with cheese and bread, which can also be quite <a href='/misc/sodium'>sodium</a> dense.  Additionally, the curing processes involving nitrates and nitrites to preserve the meats have been linked to colorectal cancer, as well as heart disease and high blood pressure.
 
-<center><a href='https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html'><img src='/assets/Misc/Nutrition/Trap/processed-meat.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html'><img src='/assets/Misc/Nutrition/Trap/processed-meat.jpg' alt='' class='larger-image'></a></center>
 &emsp;Try grilling, roasting, or shredding your own chicken, or sautee some <a href='/misc/meat#ground-beef'>ground beef</a> or <a href='/misc/meat#ground-turkey'>turkey</a> to use instead.  Here's some ideas to get you started:
 - <a href='/recipes/marinated-chicken'>Marinated Chicken with Air Fried Plantains</a><br>
 - <a href='/recipes/breaded-chicken'>Italian Breaded Chicken with Bruschetta</a><br>
@@ -105,27 +105,27 @@ tags:
 - <a href='/recipes/sloppy-joe'>Sloppy Joe Skillets</a><br>
 - <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a><br>
 
-<div id="fake-meat" class="table-of-contents"></div>
-<br><i><font size="+2">Fake Meat</font></i><br>
-&emsp;If you're vegan, it can be hard to find a meat substitute, both for getting enough <a href='/misc/protein'>protein</a> and for the feeling of being able to replicate meat. However, you don't want to be a junk food vegan.  This means avoiding fake meat replacement products like <a href='https://amzn.to/4kE7kOq'>Impossible Meat</a>, <a href='https://amzn.to/3Smu7T3'>Beyond Burger</a>, <a href='https://amzn.to/43gxSj4'>Bac'n Pieces</a>, and <a href='https://amzn.to/43Qvdgb'>Chick'n Filets</a>.  All are worse for you than regular meat, being ultra-processed and so far removed from what they started as.  
+<div id='fake-meat' class='table-of-contents'></div>
+<br><i><font size='+2'>Fake Meat</font></i><br>
+&emsp;If you're vegan, it can be hard to find a meat substitute, both for getting enough <a href='/misc/protein'>protein</a> and for the feeling of being able to replicate meat. However, you don't want to be a junk food vegan.  This means avoiding fake meat replacement products like <a href='https://amzn.to/4kE7kOq'>Impossible Meat</a>, <a href='https://amzn.to/3Smu7T3'>Beyond Burger</a>, <a href='https://amzn.to/43gxSj4'>Bac'n Pieces</a>, and <a href='https://amzn.to/43Qvdgb'>Chick'n Filets</a>.  All are worse for you than regular meat, being ultra-processed and so far removed from what they started as.
 
-<center><a href='https://www.reddit.com/r/exvegans/comments/pspmts/i_cant_believe_we_actually_believed_that_fake/'><img src='/assets/Misc/Nutrition/Trap/fake-meat.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://www.reddit.com/r/exvegans/comments/pspmts/i_cant_believe_we_actually_believed_that_fake/'><img src='/assets/Misc/Nutrition/Trap/fake-meat.jpg' alt='' class='larger-image'></a></center>
 &emsp;Either eat real meat, or prioritize whole food or minimally processed plant based <a href='/misc/protein'>protein</a> sources, like soy (<a href='https://amzn.to/3Z1MFf1'>tofu</a>, <a href='https://amzn.to/43RYAyA'>tempeh</a>, and <a href='https://amzn.to/3ZEZP1D'>edamame</a>), <a href='https://amzn.to/4kgguB9'>seitan</a>, <a href='https://amzn.to/3Fpdsvc'>beans</a>, <a href='https://amzn.to/4mBSbyU'>lentils</a>, and <a href='https://amzn.to/4kaJVEw'>hemp hearts</a>.  I actually have a recipe for <a href='/recipes/seitan'>Ground 'Meat' Seitan</a> that you can check out, and use in place of <a href='/misc/meat#ground-beef'>ground beef</a> in tacos, skillets, or chili.
 
-<div id="baked-beans" class="table-of-contents"></div>
-<br><i><font size="+2">Baked Beans</font></i><br>
+<div id='baked-beans' class='table-of-contents'></div>
+<br><i><font size='+2'>Baked Beans</font></i><br>
 &emsp;Beans are a healthy side dish.  They're a good plant based <a href='/misc/protein'>protein</a>, contain a lot of <a href='/misc/fiber'>fiber</a>, and can even make you a musician.  Baked beans on the other hand, not so much.  <a href='https://amzn.to/3FuMyC6'>Canned baked beans</a> are just <a href='/misc/beans#navy-beans'>navy beans</a> covered in a ton of <a href='/misc/hidden-sugar'>sugar</a>, often containing as many grams of total <a href='/misc/hidden-sugar'>sugar</a> as <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> combined.  With 11 g (nearly a tablespoon) of <a href='/misc/hidden-sugar'>added sugar</a> per 1/2 cup (130 g) serving, this is really a dessert in disguise on your dinner plate.  I prefer my version instead: <a href='/recipes/baked-beans'>No Added Sugar Baked Beans</a>.  Not to mention that it's often paired with...
 
-<center><img src='/assets/Misc/Nutrition/Trap/baked-beans.jpg' alt="" class="larger-image"></center>
-<div id="cornbread" class="table-of-contents"></div>
-<br><i><font size="+2">Cornbread</font></i><br>
+<center><img src='/assets/Misc/Nutrition/Trap/baked-beans.jpg' alt='' class='larger-image'></center>
+<div id='cornbread' class='table-of-contents'></div>
+<br><i><font size='+2'>Cornbread</font></i><br>
 &emsp;...cornbread.  <a href='https://amzn.to/43qQZ8M'>Cornbread</a> is another dessert that somehow weaseled it's way onto your dinner plate.  Just like muffins, banana bread, and baked beans, cornbread is secretly a dessert with good marketing.  The one linked above (and shown below) has <a href='/misc/hidden-sugar'>sugar</a> as it's first ingredient, closely followed by bleached <a href='/misc/grains#white-wheat'>white flour</a> and seed oil (wait, where's the cornmeal?).  There's more <a href='/misc/hidden-sugar'>added sugar</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/calories'>calories</a> in 1 slice of this cornbread as one of these <a href='https://amzn.to/4dINGPm'>large chocolate chip cookies</a>!
 
-<center><img src='/assets/Misc/Nutrition/Trap/cornbread.jpg' alt="" class="larger-image"></center>
+<center><img src='/assets/Misc/Nutrition/Trap/cornbread.jpg' alt='' class='larger-image'></center>
 &emsp;Cornbread or corn muffins can be a fine dessert in moderation, but know what you're getting when you reach for a slice.  If you're anything like me (if you're this deep down then congrats, you probably are lol), you should enjoy my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>, which is much higher in <a href='/misc/protein'>protein</a>, lower in <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>, and free of any added sugars or artificial sweeteners.
 
-<div id="potatoes" class="table-of-contents"></div>
-<br><i><font size="+2">Potatoes</font></i><br>
+<div id='potatoes' class='table-of-contents'></div>
+<br><i><font size='+2'>Potatoes</font></i><br>
 &emsp;Finally, at long last, we've reached the end.  I bet you're asking: why are <a href='https://amzn.to/3HhSQpd'>potatoes</a>, a nutritious whole food, on this list?  It's true that potatoes are a great starchy vegetable, where 1 medium baked <a href='/misc/veggies#potato'>potato</a> with the skin (173 g) contains:
 -<a href='/misc/calories'>Calories</a>: 161
 - <a href='/misc/fats'>Fat</a>: 0.2 g
@@ -133,7 +133,7 @@ tags:
 - <a href='/misc/carbs'>Carbs</a>: 36.6 g
 - <a href='/misc/fiber'>Fiber</a>: 3.8 g
 - <a href='/misc/vitamin-c'>Vitamin C</a>: 28% of DV (daily value)
-- <a href='/misc/nutrient-alphabet#B6'>B6</a>: 27% of DV 
+- <a href='/misc/nutrient-alphabet#B6'>B6</a>: 27% of DV
 - <a href='/misc/potassium'>Potassium</a>: 26% of DV
 - <a href='/misc/nutrient-alphabet#M'>Manganese</a>: 19% of DV
 - <a href='/misc/magnesium'>Magnesium</a>: 12% of DV
@@ -156,7 +156,7 @@ tags:
 - <a href='/misc/potassium'>Potassium</a>: 20% of DV
 - <a href='/misc/nutrient-alphabet#P'>Vitamin B5</a>: 19% of DV
 
-<center><img src='/assets/Misc/Nutrition/Trap/potatoes.jpg' alt="" class="larger-image"></center>
+<center><img src='/assets/Misc/Nutrition/Trap/potatoes.jpg' alt='' class='larger-image'></center>
 &emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred <a href='/misc/carbs'>carb</a> side to a meal as opposed to pasta, rice, or bread, such as in the following recipes:
 - <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a><br>
 - <a href='/recipes/home-fries'>Sweet Potato Home Fries</a><br>
@@ -168,7 +168,7 @@ tags:
 - <a href='/recipes/cacciatore'>Stewed Chicken Cacciatore</a><br>
 - <a href='/recipes/korean-chicken'>Korean Chicken and Broccoli</a><br>
 
-<center><a href='https://cheezburger.com/21602053/25-vegetarian-food-memes-for-plant-based-food-lovers'><img src='/assets/Misc/Nutrition/Trap/butter.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://cheezburger.com/21602053/25-vegetarian-food-memes-for-plant-based-food-lovers'><img src='/assets/Misc/Nutrition/Trap/butter.jpg' alt='' class='larger-image'></a></center>
 &emsp;Potatoes are on this list because of what's been done to them, not because what they are.  While a baked potato or simply sauteed or roasted cubes are certainly healthy, potatoes are more often than not turned into junk food:
 - French fries
 - Mashed potatoes
@@ -183,16 +183,16 @@ tags:
 - Potato rolls
 - Gnocchi
 
-<center><a href='https://www.reddit.com/r/memes/comments/evkfi5/hmmm_i_have_been_eating_healthy_food_the_whole/'><img src='/assets/Misc/Nutrition/Trap/fried.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://www.reddit.com/r/memes/comments/evkfi5/hmmm_i_have_been_eating_healthy_food_the_whole/'><img src='/assets/Misc/Nutrition/Trap/fried.jpg' alt='' class='larger-image'></a></center>
 &emsp;Most of these foods contain extremely high amounts of oil, butter, cheese, or mayo, or they are deep fried (or both).  No one thinks that potato chips or French fries are healthy just because they come from potatoes.  While all of these dishes can me made in ways that won't clog your arteries, it's best to be mindful about what you're eating, as the <a href='/misc/calories'>calories</a> for all of these can very quickly add up.
 
-<br><u><font size="+2">Sources</font></u><br>
+<br><u><font size='+2'>Sources</font></u><br>
 1. <a href='https://www.youtube.com/watch?v=aeM4jD9Uv_Y'>10 'Healthy' Foods That Are Worse Than You Think</a><br>
 2. <a href='https://www.courierpress.com/story/life/2021/09/04/diet-nutrition-healthy-trap-foods-yogurt-oatmeal-peanut-butter/8102805002/'>Yogurt to salad dressing: Top 10 trap foods and how to avoid them</a><br>
 3. <a href='https://www.reddit.com/r/AskReddit/comments/t0n3bt/what_foods_are_commonly_mistaken_as_healthy/'>What foods are commonly mistaken as healthy?</a><br>
 4. <a href='https://www.eatthis.com/fake-healthy-foods/'>68 'Healthy' Foods That Are Terrible for You</a><br>
 5. <a href='https://www.mdvip.com/about-mdvip/blog/six-so-called-healthy-foods'>Fake Healthy Foods: 6 Foods We Think are Healthy</a><br>
-6. <a href='https://www.healthline.com/nutrition/9-benefits-<a href='/misc/grains#oats">oats</a>-oatmeal">9 Health Benefits of Eating Oats and Oatmeal</a><br>
+6. <a href='https://www.healthline.com/nutrition/9-benefits-<a href='/misc/grains#oats'>oats</a>-oatmeal'>9 Health Benefits of Eating Oats and Oatmeal</a><br>
 7. <a href='https://www.healthline.com/nutrition/8-benefits-of-nuts'>8 Health Benefits of Nuts</a><br>
 8. <a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'>Added Sugars</a>
 9. <a href='https://www.heartandstroke.ca/articles/the-truth-about-juice#:~:text=There%20is%20one%20bright%20spot,linked%20to%20poor%20health%20outcomes.'>The truth about juice</a>

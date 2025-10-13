@@ -1,15 +1,15 @@
 <!-- Copy recipe -->
-<div class="recipe-copy" style="display: none;">
+<div class='recipe-copy' style="display: none;">
 
     <!-- Description -->
-    <div class="desc-copy">
+    <div class='desc-copy'>
         {{ page.Description }}
     </div>
 
     <br><br>
 
     <!-- Ingredients -->
-    <div class="ing-copy">
+    <div class='ing-copy'>
         <!-- Loop Variable -->
         {% assign loopVar = site.data[page.ing] %}
 
@@ -39,21 +39,21 @@
             {% if food == page.start3 %}
                 {% if !page.section3 %}
                     <br>{{ page.section3 | upcase }}<br>
-                {% endif %}      
+                {% endif %}
             {% endif %}
 
             <!-- Section 4 -->
             {% if food == page.start4 %}
                 {% if !page.section4 %}
                     <br>{{ page.section4 | upcase }}<br>
-                {% endif %}           
+                {% endif %}
             {% endif %}
 
             <!-- Section 5 -->
             {% if food == page.start5 %}
                 {% if !page.section5 %}
                     <br>{{ page.section5 | upcase }}<br>
-                {% endif %}          
+                {% endif %}
             {% endif %}
 
             - {{ vol }} ({{ mass }} g) {{ food }}<br>
@@ -64,7 +64,7 @@
     <br><br>
 
     <!-- Steps -->
-    <div class="ins-copy">
+    <div class='ins-copy'>
         {% assign count == 0 %}
         {% for step in page.Instructions %}
 
@@ -80,7 +80,7 @@
     <br>
 
     <!-- Link -->
-     <div class="link-copy">
+     <div class='link-copy'>
         {{ site.url }}{{ pageurl }}
      </div>
 

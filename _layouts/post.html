@@ -3,10 +3,10 @@ layout: base
 ---
 <div id="top-post"></div>
 
-<div class="recipe">
-  <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting">
+<div class='recipe'>
+  <article class='post h-entry' itemscope itemtype="https://schema.org/BlogPosting">
 
-    <div class="post-content e-content" itemprop="articleBody">
+    <div class='post-content e-content' itemprop="articleBody">
 
       {% include top.html %}
 
@@ -15,7 +15,7 @@ layout: base
       {% if page.categories[0] != "Misc." or page.categories[1] == "Unhealthy Recipes" %}
         {% include postInfo.html %}
       {% else %}
-        <div class="recipe-section">{{ content }}</div>
+        <div class='recipe-section'>{{ content }}</div>
       {% endif %}
 
       <font size="-1"><i>This post may contain affiliate links</i></font>
@@ -24,6 +24,6 @@ layout: base
 
     </div>
 
-    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    <a class='u-url' href="{{ page.url | relative_url }}" hidden></a>
   </article>
 </div>

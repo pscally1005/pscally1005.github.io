@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Lemon Feta Chicken Bowls"
+title:  Lemon Feta Chicken Bowls
 date:   2023-07-12 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/lemon-feta-bowl
 image: /assets/Food/Ground Meat/Lemon Feta/lemon-feta.jpg
 ing: lemonfeta-ing
 facts: lemonfeta-facts
-servingSize: 
+servingSize:
 section1: Vegetables
 start2: Ground chicken thighs
 section2: Meat
 start3: Cheese, feta
 section3: Topping
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 20
-Rest: 
+Rest:
 Cook: 60
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/MP7PT
-tags: 
+tags:
 - ground
 - chicken
 - turkey
@@ -50,7 +50,7 @@ tags:
 - orzo
 - vic
 Description: These Greek inspired bowls feature ground <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/dairy#feta'>feta</a> cheese, and plenty of <a href='/misc/veggies'>vegetables</a>. It goes great mixed into a side of <a href='/misc/grains#brown-rice'>brown rice</a> or orzo pasta. It's a great summertime healthy meal that I know you'll enjoy.
-Instructions: 
+Instructions:
 - Heat a large pan over medium heat. Add in your diced onion, with oil, garlic, and salt. Cover, and cook until the onions turn translucent, about 5 minutes
 
 - Add the cucumbers, spinach, and spices (basil, onion and garlic powder, and lemon pepper) to the pan and cook for just a few minutes on medium. Squeeze in the lemon juice, and then set the vegetables aside in a bowl

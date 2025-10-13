@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Trap Foods - Fruits & Veggies"
+title:  Trap Foods - Fruits & Veggies
 date:   2024-08-01 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Nutrition
 - Hidden
 permalink: /misc/trap-foods-produce
 image: /assets/Misc/Nutrition/Trap/produce.jpg
-tags: 
+tags:
 - healthy
 - unhealthy
 - trap foods
@@ -38,8 +38,8 @@ tags:
 - yellow potato
 - russet potato
 ---
-<i><font size="+2">Note</font><br>
-&emsp;The following is an excerpt from my post <a href='/misc/fake-healthy-foods'>'Healthy' Trap Foods</a>, in which I made a detailed list of foods that I believe to deceptively unhealthy.  I've broken that list down into easier to digest categories based on what food they are.  Linked below are all the individual posts:
+<i><font size='+2'>Note</font><br>
+&emsp;The following is an excerpt from my post <a href='/misc/fake-healthy-foods'>"Healthy" Trap Foods</a>, in which I made a detailed list of foods that I believe to deceptively unhealthy.  I've broken that list down into easier to digest categories based on what food they are.  Linked below are all the individual posts:
 - <i><a href='/misc/trap-foods-breakfast'>Trap Foods - Breakfast</a><br></i>
 - <i><a href='/misc/trap-foods-drinks'>Trap Foods - Drinks</a><br></i>
 - <i><a href='/misc/trap-foods-produce'>Trap Foods - Fruits & Veggies</a><br></i>
@@ -49,58 +49,58 @@ tags:
 - <i><a href='/misc/trap-foods-snacks'>Trap Foods - Snacks</a><br></i>
 - <i><a href='/misc/trap-foods-sweet-spreads'>Trap Foods - Sweet Spreads</a><br></i>
 
-<u><font size="+2">Introduction</font></u><br>
+<u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
 
-<u><font size="+2">TLDR (Too Long; Didn't Read)</font></u><br>
+<u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
 - Avoid ultra processed foods, especially ones containing refined <a href='/misc/hidden-sugar'>sugar</a>, refined <a href='/misc/grains'>grains</a>, and vegetable/seed oils
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt="" class="larger-image"></a></center>
-<u><font size="+2">Disclaimer</font></u><br>
+<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
-<br><u><font size="+2">List of Foods</font></u><br>
-* <a rel="" target="" href='#jelly'>Jelly and Jam</a><br>
-* <a rel="" target="" href='#dried-fruit'>Dried Fruit</a><br>
-* <a rel="" target="" href='#juice'>Fruit Juice</a><br>
-* <a rel="" target="" href='#smoothie'>Smoothies</a><br>
-* <a rel="" target="" href='#potatoes'>Potatoes</a><br>
+<br><u><font size='+2'>List of Foods</font></u><br>
+* <a rel='' target='' href='#jelly'>Jelly and Jam</a><br>
+* <a rel='' target='' href='#dried-fruit'>Dried Fruit</a><br>
+* <a rel='' target='' href='#juice'>Fruit Juice</a><br>
+* <a rel='' target='' href='#smoothie'>Smoothies</a><br>
+* <a rel='' target='' href='#potatoes'>Potatoes</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt="" class="larger-image"></a></center>
+<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
 
-<div id="jelly" class="table-of-contents"></div>
-<br><i><font size="+2">Jelly and Jam</font></i><br>
-&emsp;I love a good PB&J.  Which means using a good <a rel="" target="" href='#peanut-butter'>peanut butter</a>, jelly, and <a rel="" target="" href='/misc/trap-foods-grains#bread'>bread</a>.  Here, we're tackling jelly and jam though.  A jam is ideally just simmered fruit that's mildly sweetened, just like my <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> or <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a>.  The problem is that most jellies and jams are just <a href='/misc/hidden-sugar'>sugar</a> spreads.  A 1 tbsp (20 g) serving of <a href='https://amzn.to/4dMgKp6'>Smuckers Grape Jelly</a> contains 12 g of <a href='/misc/hidden-sugar'>sugar</a>.  That's 60% <a href='/misc/hidden-sugar'>sugar</a> (about the same as <a rel="" target="" href='#nutella'>nutella</a>), and with none of the <a href='/misc/fiber'>fiber</a> from the whole fruit.  Even jellies that claim to be healthy may just be using <a href='/misc/hidden-sugar'>sugar</a> under different names, like evaporated cane juice or apple juice concentrate.
+<div id='jelly' class='table-of-contents'></div>
+<br><i><font size='+2'>Jelly and Jam</font></i><br>
+&emsp;I love a good PB&J.  Which means using a good <a rel='' target='' href='#peanut-butter'>peanut butter</a>, jelly, and <a rel='' target='' href='/misc/trap-foods-grains#bread'>bread</a>.  Here, we're tackling jelly and jam though.  A jam is ideally just simmered fruit that's mildly sweetened, just like my <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> or <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a>.  The problem is that most jellies and jams are just <a href='/misc/hidden-sugar'>sugar</a> spreads.  A 1 tbsp (20 g) serving of <a href='https://amzn.to/4dMgKp6'>Smuckers Grape Jelly</a> contains 12 g of <a href='/misc/hidden-sugar'>sugar</a>.  That's 60% <a href='/misc/hidden-sugar'>sugar</a> (about the same as <a rel='' target='' href='#nutella'>nutella</a>), and with none of the <a href='/misc/fiber'>fiber</a> from the whole fruit.  Even jellies that claim to be healthy may just be using <a href='/misc/hidden-sugar'>sugar</a> under different names, like evaporated cane juice or apple juice concentrate.
 
-<center><a href='https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321'><img src='/assets/Misc/Nutrition/Trap/jelly.jpg' alt="" class="larger-image"></a></center>
-&emsp;Outside of making your own jam, your best bets are any low <a href='/misc/hidden-sugar'>sugar</a> jam or jelly, with less than 4-5 g of <a href='/misc/hidden-sugar'>added sugar</a> per serving.  Trader Joe's has some good low <a href='/misc/hidden-sugar'>sugar</a> jellies, jams, and preserves.  <a href='https://amzn.to/4kEAbSM'>Good Good</a> is also a good stevia sweetened jam brand, and this <a href='https://amzn.to/4mzQZMA'>Smuckers Low Sugar Strawberry Preserves</a> is a decent option.  Just stay away from any jellies labeled as "Sugar free" (like <a href='https://amzn.to/4kpZE2H'>this one</a>), as those are sweetened with <a rel="" target="" href='#sugar-substitutes'>sucralose</a> and taste disgusting.
+<center><a href='https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321'><img src='/assets/Misc/Nutrition/Trap/jelly.jpg' alt='' class='larger-image'></a></center>
+&emsp;Outside of making your own jam, your best bets are any low <a href='/misc/hidden-sugar'>sugar</a> jam or jelly, with less than 4-5 g of <a href='/misc/hidden-sugar'>added sugar</a> per serving.  Trader Joe's has some good low <a href='/misc/hidden-sugar'>sugar</a> jellies, jams, and preserves.  <a href='https://amzn.to/4kEAbSM'>Good Good</a> is also a good stevia sweetened jam brand, and this <a href='https://amzn.to/4mzQZMA'>Smuckers Low Sugar Strawberry Preserves</a> is a decent option.  Just stay away from any jellies labeled as "Sugar free" (like <a href='https://amzn.to/4kpZE2H'>this one</a>), as those are sweetened with <a rel='' target='' href='#sugar-substitutes'>sucralose</a> and taste disgusting.
 
-<div id="dried-fruit" class="table-of-contents"></div>
-<br><i><font size="+2">Dried Fruit</font></i><br>
-&emsp;Dried fruit is a bit of a mixed bag.  On the one hand, it's just fruit with the water removed, leaving a concentrated source of minerals but natural sugars.  On the other hand, some dried <a href='/misc/fruit'>fruits</a> are pumped full of added sugars.  Generally, <a href='https://amzn.to/3FdDuS9'>raisins</a>, <a href='https://amzn.to/4dCOo0r'>dates</a>, <a href='https://amzn.to/3HhvLD2'>dried figs</a>, and <a href='https://amzn.to/43Fx2eM'>freeze dried fruits</a> are pretty good, as all the <a href='/misc/hidden-sugar'>sugar</a> in these are just from the fruit itself.  <a href='https://amzn.to/3FvcYDF'>prunes</a> also tend to be unsweetened; just look out for the ingredients list.  Even though, you should be mindful of your dried fruit consumption, as it's very easy to overeat without all the water from the whole fruit.  Think about how many <a href='/misc/fruit#raisins'>raisins</a> you can eat in a handful, versus how many <a href='/misc/fruit#grapes'>grapes</a> you would eat in 1 bite.  Just like with <a rel="" target="" href='/misc/trap-foods-snacks#nuts'>nuts</a>, dried fruit can be a healthy addition to your diet as long as your mindful of how much you're eating.
+<div id='dried-fruit' class='table-of-contents'></div>
+<br><i><font size='+2'>Dried Fruit</font></i><br>
+&emsp;Dried fruit is a bit of a mixed bag.  On the one hand, it's just fruit with the water removed, leaving a concentrated source of minerals but natural sugars.  On the other hand, some dried <a href='/misc/fruit'>fruits</a> are pumped full of added sugars.  Generally, <a href='https://amzn.to/3FdDuS9'>raisins</a>, <a href='https://amzn.to/4dCOo0r'>dates</a>, <a href='https://amzn.to/3HhvLD2'>dried figs</a>, and <a href='https://amzn.to/43Fx2eM'>freeze dried fruits</a> are pretty good, as all the <a href='/misc/hidden-sugar'>sugar</a> in these are just from the fruit itself.  <a href='https://amzn.to/3FvcYDF'>prunes</a> also tend to be unsweetened; just look out for the ingredients list.  Even though, you should be mindful of your dried fruit consumption, as it's very easy to overeat without all the water from the whole fruit.  Think about how many <a href='/misc/fruit#raisins'>raisins</a> you can eat in a handful, versus how many <a href='/misc/fruit#grapes'>grapes</a> you would eat in 1 bite.  Just like with <a rel='' target='' href='/misc/trap-foods-snacks#nuts'>nuts</a>, dried fruit can be a healthy addition to your diet as long as your mindful of how much you're eating.
 
-<center><img src='/assets/Misc/Nutrition/Trap/cranberry.jpg' alt="" class="larger-image"></center>
+<center><img src='/assets/Misc/Nutrition/Trap/cranberry.jpg' alt='' class='larger-image'></center>
 &emsp;The bigger problem though comes from dried <a href='/misc/fruit'>fruits</a> with added sugars.  <a href='https://amzn.to/4jsJq7R'>Dried cranberries</a>, or crasins, are easily the worst offenders here.  Have you ever had a fresh <a href='/misc/fruit#cranberry'>cranberry</a>?  They're insanely tart (which is apparently how fruit used to taste before we selectively bred them to be sweeter).  Compare that to dried <a href='/misc/fruit#cranberry'>cranberries</a> though.  Dried <a href='/misc/fruit#cranberry'>cranberries</a> are entirely <a href='/misc/hidden-sugar'>added sugar</a>.  You wouldn't think of putting <a href='https://amzn.to/3HeRqvG'>Gummy Bears</a> on your salad.  <a href='/misc/fruit#raisins'>Raisins</a> are nature's candy, but craisins are just actual candy.  Just a 1/3 cup (40 g) serving contains a whopping 26 g of <a href='/misc/hidden-sugar'>added sugar</a>!  That's already over the American Heart Association's (AHA) daily guidelines for <a href='/misc/hidden-sugar'>added sugar</a> consumption for women.  Other sweetened dried <a href='/misc/fruit'>fruits</a> to be cautious of include <a href='/misc/fruit#blueberries'>blueberries</a>, <a href='/misc/fruit#mango'>mangos</a>, <a href='/misc/fruit#cherry'>cherries</a>, and <a href='/misc/fruit#banana'>bananas</a>.
 
-<div id="juice" class="table-of-contents"></div>
-<br><i><font size="+2">Fruit Juice</font></i><br>
-&emsp;So <a rel="" target="" href='/misc/trap-foods-snacks#dried-fruit'>dried fruit</a> is a highly concentrated source of <a href='/misc/hidden-sugar'>sugar</a>, even natural, that you should be mindful of consuming.  But what if we did the opposite: remove all the <a href='/misc/fiber'>fiber</a>, but keep all the water?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any <a href='/misc/hidden-sugar'>added sugar</a>, is only marginally better for you than a glass of soda.  You'll get some <a href='/misc/vitamin-c'>Vitamin C</a>, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href='https://amzn.to/4mAHEUT'>orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without <a href='/misc/fiber'>fiber</a> to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
+<div id='juice' class='table-of-contents'></div>
+<br><i><font size='+2'>Fruit Juice</font></i><br>
+&emsp;So <a rel='' target='' href='/misc/trap-foods-snacks#dried-fruit'>dried fruit</a> is a highly concentrated source of <a href='/misc/hidden-sugar'>sugar</a>, even natural, that you should be mindful of consuming.  But what if we did the opposite: remove all the <a href='/misc/fiber'>fiber</a>, but keep all the water?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any <a href='/misc/hidden-sugar'>added sugar</a>, is only marginally better for you than a glass of soda.  You'll get some <a href='/misc/vitamin-c'>Vitamin C</a>, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href='https://amzn.to/4mAHEUT'>orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without <a href='/misc/fiber'>fiber</a> to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
 
-<center><a href='https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks'><img src='/assets/Misc/Nutrition/Trap/juice-vs-soda.jpg' alt="" class="larger-image"></a></center>
-<div id="smoothie" class="table-of-contents"></div>
-<br><i><font size="+2">Smoothies</font></i><br>
-&emsp;So if <a rel="" target="" href='#dried-fruit'>dried fruit</a> is a maybe and <a rel="" target="" href='#juice'>fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more <a href='/misc/fiber'>fiber</a> than fruit juice.  However, the process of blending fruit destroys some of it's <a href='/misc/fiber'>fiber</a>.  A smoothie can still be healthy however.  Just make sure to add some <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>fat</a> to slow down the spike to your blood sugar.  I prefer using <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/dairy#yogurt'>greek yogurt</a>, and <a href='/misc/seeds#chia-seeds'>chia seeds</a> for a <a href='/recipes/smoothie'>Protein Fruit Smoothie</a> if I do have one, but <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/misc/nuts#almonds'>almond</a> butter, <a href='/misc/fruit#avocado'>avocado</a>, or <a href='/misc/seeds#flax-seeds'>flaxseeds</a> also work as great <a href='/misc/fats'>fat</a> sources.  The healthiest smoothies also include some vegetables like <a href='/misc/veggies#spinach'>spinach</a> as well.
+<center><a href='https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks'><img src='/assets/Misc/Nutrition/Trap/juice-vs-soda.jpg' alt='' class='larger-image'></a></center>
+<div id='smoothie' class='table-of-contents'></div>
+<br><i><font size='+2'>Smoothies</font></i><br>
+&emsp;So if <a rel='' target='' href='#dried-fruit'>dried fruit</a> is a maybe and <a rel='' target='' href='#juice'>fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more <a href='/misc/fiber'>fiber</a> than fruit juice.  However, the process of blending fruit destroys some of it's <a href='/misc/fiber'>fiber</a>.  A smoothie can still be healthy however.  Just make sure to add some <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>fat</a> to slow down the spike to your blood sugar.  I prefer using <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/dairy#yogurt'>greek yogurt</a>, and <a href='/misc/seeds#chia-seeds'>chia seeds</a> for a <a href='/recipes/smoothie'>Protein Fruit Smoothie</a> if I do have one, but <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/misc/nuts#almonds'>almond</a> butter, <a href='/misc/fruit#avocado'>avocado</a>, or <a href='/misc/seeds#flax-seeds'>flaxseeds</a> also work as great <a href='/misc/fats'>fat</a> sources.  The healthiest smoothies also include some vegetables like <a href='/misc/veggies#spinach'>spinach</a> as well.
 
-<center><a href='/recipes/smoothie'><img src='/assets/Food/Drinks/Smoothie/smoothie-cover.jpg' alt="" class="instruction-image"></a></center>
+<center><a href='/recipes/smoothie'><img src='/assets/Food/Drinks/Smoothie/smoothie-cover.jpg' alt='' class='instruction-image'></a></center>
 &emsp;And of course, only use an unsweetened liquid for your smoothies like milk, unsweetened plant milks, or water.  Fruit is already plenty sweet without the addition of added sugars from the milk or any additional honey.  Smoothies are great to make yourself, but be very weary of ordering one anywhere, since you don't know how much <a href='/misc/hidden-sugar'>added sugar</a> is secretly in that glass.
 
-<div id="potatoes" class="table-of-contents"></div>
-<br><i><font size="+2">Potatoes</font></i><br>
+<div id='potatoes' class='table-of-contents'></div>
+<br><i><font size='+2'>Potatoes</font></i><br>
 &emsp;Finally, at long last, we've reached the end.  I bet you're asking: why are <a href='https://amzn.to/3HhSQpd'>potatoes</a>, a nutritious whole food, on this list?  It's true that potatoes are a great starchy vegetable, where 1 medium baked potato with the skin (173 g) contains:
 - <a href='/misc/calories'>Calories</a>: 161
 - <a href='/misc/fats'>Fat</a>: 0.2 g
@@ -108,7 +108,7 @@ tags:
 - <a href='/misc/carbs'>Carbs</a>: 36.6 g
 - <a href='/misc/fiber'>Fiber</a>: 3.8 g
 - <a href='/misc/vitamin-c'>Vitamin C</a>: 28% of DV (daily value)
-- <a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a>: 27% of DV 
+- <a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a>: 27% of DV
 - <a href='/misc/potassium'>Potassium</a>: 26% of DV
 - <a href='/misc/nutrient-alphabet#M'>Manganese</a>: 19% of DV
 - <a href='/misc/magnesium'>Magnesium</a>: 12% of DV
@@ -131,7 +131,7 @@ tags:
 - <a href='/misc/potassium'>Potassium</a>: 20% of DV
 - <a href='/misc/nutrient-alphabet#P'>Vitamin B5</a>: 19% of DV
 
-<center><img src='/assets/Misc/Nutrition/Trap/potatoes.jpg' alt="" class="larger-image"></center>
+<center><img src='/assets/Misc/Nutrition/Trap/potatoes.jpg' alt='' class='larger-image'></center>
 &emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred <a href='/misc/carbs'>carb</a> side to a meal as opposed to pasta, rice, or bread, such as in the following recipes:
 - <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a><br>
 - <a href='/recipes/home-fries'>Sweet Potato Home Fries</a><br>
@@ -143,7 +143,7 @@ tags:
 - <a href='/recipes/cacciatore'>Stewed Chicken Cacciatore</a><br>
 - <a href='/recipes/korean-chicken'>Korean Chicken and Broccoli</a><br>
 
-<center><a href='https://cheezburger.com/21602053/25-vegetarian-food-memes-for-plant-based-food-lovers'><img src='/assets/Misc/Nutrition/Trap/butter.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://cheezburger.com/21602053/25-vegetarian-food-memes-for-plant-based-food-lovers'><img src='/assets/Misc/Nutrition/Trap/butter.jpg' alt='' class='larger-image'></a></center>
 &emsp;Potatoes are on this list because of what's been done to them, not because what they are.  While a baked <a href='/misc/veggies#potato'>potato</a> or simply sauteed or roasted cubes are certainly healthy, potatoes are more often than not turned into junk food:
 - French fries
 - Mashed potatoes
@@ -158,10 +158,10 @@ tags:
 - Potato rolls
 - Gnocchi
 
-<center><a href='https://www.reddit.com/r/memes/comments/evkfi5/hmmm_i_have_been_eating_healthy_food_the_whole/'><img src='/assets/Misc/Nutrition/Trap/fried.jpg' alt="" class="larger-image"></a></center>
+<center><a href='https://www.reddit.com/r/memes/comments/evkfi5/hmmm_i_have_been_eating_healthy_food_the_whole/'><img src='/assets/Misc/Nutrition/Trap/fried.jpg' alt='' class='larger-image'></a></center>
 &emsp;Most of these foods contain extremely high amounts of oil, butter, cheese, or mayo, or they are deep fried (or both).  No one thinks that potato chips or French fries are healthy just because they come from potatoes.  While all of these dishes can me made in ways that won't clog your arteries, it's best to be mindful about what you're eating, as the <a href='/misc/calories'>calories</a> for all of these can very quickly add up.
 
-<br><u><font size="+2">Sources</font></u><br>
+<br><u><font size='+2'>Sources</font></u><br>
 1. <a href='https://www.youtube.com/watch?v=aeM4jD9Uv_Y'>10 'Healthy' Foods That Are Worse Than You Think</a><br>
 2. <a href='https://www.courierpress.com/story/life/2021/09/04/diet-nutrition-healthy-trap-foods-yogurt-oatmeal-peanut-butter/8102805002/'>Yogurt to salad dressing: Top 10 trap foods and how to avoid them</a><br>
 3. <a href='https://www.reddit.com/r/AskReddit/comments/t0n3bt/what_foods_are_commonly_mistaken_as_healthy/'>What foods are commonly mistaken as healthy?</a><br>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "White Bean Croutons"
+title:  White Bean Croutons
 date:   2024-08-19 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/white-bean-croutons
 image: /assets/Food/Finger Food/Croutons/croutons-cover.jpg
 ing: croutons-ing
 facts: croutons-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 15
 Source1: https://youtube.com/shorts/UjxBYipPS4w?si=ABst757Y1GXm5rrA
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/zeYgI
-tags: 
+tags:
 - beans
 - white beans
 - cannellini beans
@@ -46,9 +46,9 @@ tags:
 - salad
 - chickpeas
 Description: These super simple croutons are made using <a href='/misc/beans#cannellini-beans'>cannellini</a> beans (or any other beans you have).  Depending on your soy sauce, they can be a great gluten free alternative, as well as being healthier than traditional croutons.  Just air fry or roast the beans until crispy, as use them to top a salad.  They go great with my <a href='/recipes/greek-yogurt-caesar-dressing'>Greek Yogurt Caesar Dressing</a>
-Instructions: 
+Instructions:
 - Drain and rinse your beans, and add to a medium bowl. Add in the rest of the ingredients (soy sauce, garlic powder, oregano, and paprika), and toss to combine
-- <center><img src='/assets/Food/Finger Food/Croutons/croutons-raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Croutons/croutons-raw.jpg' alt='' class='instruction-image'></center>
 
 - Air fry at 400F for 15-20 minutes, mixing halfway. You can also bake in a 400F oven instead for 30-45 minutes.  The whole batch (cooked) weighs about 100 g, so each serving is about 33 g
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Protein Fruit Smoothie"
+title:  Protein Fruit Smoothie
 date:   2023-04-30 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/smoothie
 image: /assets/Food/Drinks/Smoothie/smoothie-cover.jpg
 ing: smoothie-ing
 facts: smoothie-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/amNkx
-tags: 
+tags:
 - fruit
 - bowl
 - nuts
@@ -46,9 +46,9 @@ tags:
 - chia
 - blend
 Description: Here's my simple formula for the perfect <a href='/misc/protein'>protein</a> packed <a href='/misc/fruit'>fruit</a> <a href='/misc/fake-healthy-foods#smoothie'>smoothie</a>. I always use a banana, and whatever frozen fruit I have in my kitchen at the time. The <a href='/misc/dairy#yogurt'>yogurt</a> and protein powder help to make it a bit more filling as a meal that could hold you over until lunch. This also works well as a smoothie bowl, just use a frozen banana.
-Instructions: 
+Instructions:
 - Blend all ingredients together in a blender, and pour into a glass
 
 - Turn into a smoothie bowl by using a frozen banana and leaving out the milk, and blending in a food processor instead.  Transfer to a bowl. Add any toppings if desired, such as nuts or seeds
-- <center><img src='/assets/Food/Drinks/Smoothie/smoothie-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Drinks/Smoothie/smoothie-3.jpg' alt='' class='instruction-image'></center>
 ---

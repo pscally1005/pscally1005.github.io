@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hot Honey Beef Bowls"
+title:  Hot Honey Beef Bowls
 date:   2025-04-28 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Ground Meat
 showPercentage: no
@@ -20,7 +20,7 @@ permalink: /recipes/hot-honey-beef-bowls
 image: /assets/Food/Ground Meat/Hot Honey Beef Bowls/cover.jpg
 ing: hothoneybeefbowl-ing
 facts: hothoneybeefbowl-facts
-servingSize: 
+servingSize:
 section1: Sweet potatoes
 start2: Ground beef, 93/7
 section2: Beef
@@ -28,15 +28,15 @@ start3: Avocado
 section3: Sides
 start4: Hot honey
 section4: Topping
-start5: 
-section5: 
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 40
 Source1: https://youtu.be/TC03ZukbX3g?si=8OjhOQKvwkM_Ym-s
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/GBFUj
-tags: 
+tags:
 - hot honey
 - viral
 - tik tok
@@ -47,16 +47,16 @@ tags:
 - cottage cheese
 - sweet potato
 Description: Recently, there's been a new viral recipe:<b></b> Hot Honey Beef Bowls. It's a combination of roasted <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, sauteed <a href='/misc/meat#ground-beef'>ground beef</a>, <a href='/misc/fruit#avocado'>avocado</a>, and <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, all topped with a drizzle of hot honey.  Here's my take on the recipe, which is high in <a href='/misc/protein'>protein</a>, <a href='/misc/fiber'>fiber</a>, and healthy <a href='/misc/fats'>fats</a>, keeping you feeling satisfied.  It even features <a href='/recipes/hot-honey'>Homemade Hot Honey</a>!  For another hot honey recipe, please check out my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>
-Instructions: 
+Instructions:
 - Preheat your oven to 400F, and line a baking sheet with parchment paper
 
 - Wash your sweet potatoes, and cut into a medium dice (don't peel them!). Season with oil, paprika, pepper, and salt. Add to a glass bowl, cover with a plate, and microwave for 5 minutes. This will speed up the roasting time
 
 - Transfer the potatoes to your baking sheet. Roast for about 30 minutes, or until soft and lightly browned. You can also air fry at 400F for 15-20 minutes if you're making a smaller batch
-- <center><img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/sw-pot.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/sw-pot.jpg' alt='' class='instruction-image'></center>
 
 - When the potatoes have about 10-15 minutes left, start on the beef. Preheat a pan over medium heat, and brown the beef. Season with chili powder, cumin, salt, and cinnamon. Set aside
-- <center><img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/beef.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/beef.jpg' alt='' class='instruction-image'></center>
 
 - Take out 4 bowls, and add 1/4 of your sweet potatoes to one quadrant, and 1/4 of the beef to another. In the third quadrant, add 1/2 a sliced avocado (50 g). Finally, in the remaining quadrant, add your cottage cheese (1/2 cup, 113 g)
 

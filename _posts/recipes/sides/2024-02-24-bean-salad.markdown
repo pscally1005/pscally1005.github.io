@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mediterranean 3 Bean Salad"
+title:  Mediterranean 3 Bean Salad
 date:   2024-02-24 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sides
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/bean-salad
 image: /assets/Food/Sides/Bean Salad/bean-salad-cover.jpg
 ing: beansalad-ing
 facts: beansalad-facts
-servingSize: 
+servingSize:
 section1: Salad
 start2: Extra virgin olive oil
 section2: Dressing
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://healthyfitnessmeals.com/easy-three-beans-salad-recipe/#recipe
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/9gDmG
-tags: 
+tags:
 - bean dip
 - bean salad
 - three bean
@@ -59,7 +59,7 @@ tags:
 - vinegar
 - balsamic vinegar
 Description: A bean salad is a great side to a meal, or a dip for chips and <a href='/misc/veggies'>vegetables</a>. It's simple, healthy, and requires no cooking. Just chopping and draining, and prepare a <a href='/misc/fake-healthy-foods#salad-dressing'>salad dressing</a>. You can also check out any of my other <a href='/salad'>salad recipes</a> or <a href='/salad-dressings'>salad dressings</a>
-Instructions: 
+Instructions:
 - Finely dice your onion, and add to a bowl with cold water. Let the onion soak for 5-10 minutes as you prepare everything else. This removes some of the harsh flavors of the raw onion
 
 - Drain and rinse your cans of beans, and add to a large bowl. Here I'm using a 15.5 oz can each of chickpeas, black beans, and light red kidney beans, but any other bean will work as well
@@ -67,7 +67,7 @@ Instructions:
 - Finely dice the pepper and tomatoes, and add to the bowl with the beans. Drain your onion, and add that as well. Crumble the feta on top
 
 - In a large glass, mix together the dressing ingredients - olive oil, lemon, balsamic vinegar apple cider vinegar, mustard, minced garlic, basil, thyme, pepper, and salt
-- <center><img src='/assets/Food/Sides/Bean Salad/bean-salad-4.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides/Bean Salad/bean-salad-4.jpg' alt='' class='instruction-image'></center>
 
 - Pour the dressing over the salad, mix, and serve
 ---

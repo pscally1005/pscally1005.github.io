@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Banana Bread Hummus Spread"
+title:  Banana Bread Hummus Spread
 date:   2023-05-10 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sweet Spreads
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 2 tbsp (32 g)
 section1: Base
 start2: Liquid monk fruit
 section2: Optional
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://chocolatecoveredkatie.com/want-to-eat-an-entire-bowl-of-cookie-dough/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/8kStn
-tags: 
+tags:
 - dessert hummus
 - chickpea
 - garbanzo bean
@@ -50,11 +50,11 @@ tags:
 - dip
 - cookie dough dip
 Description: Dessert hummus is a great sweet way to enjoy <a href='/misc/beans#chickpeas'>chickpeas</a>. It works really well as a spread on <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>, as a dip for fruit, on a PB&J, or in your morning <a href='/yogurt'>yogurt</a> or <a href='/oatmeal'>oatmeal</a>. It's naturally sweetened with <a href='/misc/fruit#banana'>bananas</a>, get healthy <a href='/misc/fats'>fats</a> and <a href='/misc/protein'>protein</a> from the <a href='/misc/nuts#peanuts'>peanut</a> butter, and <a href='/misc/fiber'>fiber</a> from the chickpeas.  It also works as a great filling for a <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>.  Or check out any of my other <a href='/salad-dressings'>hummus recipes</a>!
-Instructions: 
+Instructions:
 - The day before, break your bananas into 1" chunks, and add to an airtight bag.  Freeze overnight
 
 - Drain and rinse your chickpeas.  Add all ingredients to a food processor, and blend until smooth.  Optionally add some sweetener, like 1/2 tsp (2.5 g) liquid monk fruit, 1 tbsp (12 g) granulated monk fruit, or 1 tbsp (21 g) honey
-- <center><img src='/assets/Food/Sweet Spreads/BB Hummus/blend.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sweet Spreads/BB Hummus/blend.jpg' alt='' class='instruction-image'></center>
 
 - If you don't have powdered peanut butter, you can add an additional 2 tbsp (32 g) of peanut butter or tahini
 

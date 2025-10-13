@@ -12,12 +12,12 @@ layout: base
   }
 </style>
 
-<div class="home">
-  <center><img src="/assets/Logo/logo.png" alt="" class="logo-image"></center>
+<div class='home'>
+  <center><img src='/assets/Logo/logo.png' alt='' class='logo-image'></center>
   {%- if page.title and page.title != "Home" -%}
-    <h1 class="page-title"><a rel="" target="" href="#top-home">{{ page.title | escape }}</a></h1>
+    <h1 class='page-title'><a rel="" target="" href="#top-home">{{ page.title | escape }}</a></h1>
   {% elsif page.title == "Home" %}
-    <h1 class="page-title"><a rel="" target="" href="#top-home">Recent Posts</a></h1>
+    <h1 class='page-title'><a rel="" target="" href="#top-home">Recent Posts</a></h1>
   {%- endif -%}
 
   <!-- Shuffle Button -->
@@ -30,8 +30,8 @@ layout: base
     page.title != "Draft" and
     page.title != "Delete"
   %}
-    <div class="shuffle-container">
-      <center><a href="#" id="button" class="button">Shuffle Post</a></center>
+    <div class='shuffle-container'>
+      <center><a href="#" id="button" class='button'>Shuffle Post</a></center>
     </div>
   {% endif %}
 
@@ -48,7 +48,7 @@ layout: base
         page.title == "Draft" or
         page.title == "Delete"
     %}
-      <center><div class="filter-options">
+      <center><div class='filter-options'>
         <label><input type="checkbox" id="glutenFree" /> Gluten-Free</label>
         <label><input type="checkbox" id="vegetarian" /> Vegetarian</label>
         <label><input type="checkbox" id="dairyFree" /> Dairy-Free</label>
@@ -86,17 +86,17 @@ layout: base
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      <h2 class='post-list-heading'>{{ page.list_title }}</h2>
     {%- endif -%}
 
     <!-- Display total count of posts -->
-    <div class="post-count-container">
+    <div class='post-count-container'>
       {% if page.title != "Search" and page.title != "Python" and page.categories != "Food categories" %}
-        <span class="page-post-count">{{ postCount }} result(s)</span>
+        <span class='page-post-count'>{{ postCount }} result(s)</span>
       {% endif %}
     </div>
 
-    <ul class="post-list">
+    <ul class='post-list'>
 
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
@@ -163,7 +163,7 @@ layout: base
             <!-- Get allergens for filtering -->
             {% include allergenFilter.html %}
 
-            <div class="post-item" data-url="{{ post.url | relative_url }}"
+            <div class='post-item' data-url="{{ post.url | relative_url }}"
                 data-gluten-free="{{ gluten_free }}"
                 data-vegetarian="{{ vegetarian }}"
                 data-dairy-free="{{ dairy_free }}"
@@ -171,10 +171,10 @@ layout: base
                 data-nut-free="{{ nut_free }}"
                 data-sugar-free="{{ sugar_free }}">
                 <a href="{{ post.url | relative_url }}">
-                  <img src="{{ post.image | relative_url }}" alt="" class="blog-roll-image">
-                  <span class="post-meta">{{ post.date | date: date_format }}</span>
-                  <h3 class="post-title">
-                    <span class="post-count">{{ count }}.</span>
+                  <img src='{{ post.image | relative_url }}' alt='' class='blog-roll-image'>
+                  <span class='post-meta'>{{ post.date | date: date_format }}</span>
+                  <h3 class='post-title'>
+                    <span class='post-count'>{{ count }}.</span>
                     <b>{{ post.title | escape }}</b>
                   </h3>
                 </a>
@@ -196,18 +196,18 @@ layout: base
     </ul>
 
     {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
+      <div class='pager'>
+        <ul class='pagination'>
         {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class='previous-page'>{{ paginator.previous_page }}</a></li>
         {%- else %}
-          <li><div class="pager-edge">•</div></li>
+          <li><div class='pager-edge'>•</div></li>
         {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
+          <li><div class='current-page'>{{ paginator.page }}</div></li>
         {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class='next-page'>{{ paginator.next_page }}</a></li>
         {%- else %}
-          <li><div class="pager-edge">•</div></li>
+          <li><div class='pager-edge'>•</div></li>
         {%- endif %}
         </ul>
       </div>

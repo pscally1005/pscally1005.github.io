@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Creamy Pesto Hummus"
+title:  Creamy Pesto Hummus
 date:   2024-05-21 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -26,17 +26,17 @@ start2: Pine nuts
 section2: Toasted Nuts
 start3: Frozen spinach, thawed
 section3: Hummus
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 25
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/MUyuu
-tags: 
+tags:
 - dip
 - dressing
 - salad
@@ -55,7 +55,7 @@ tags:
 - parmesan cheese
 - nutritional yeast
 Description: I love making pesto, and I love making hummus. I have a few variations of either posted here, but now it's time that I combined my 2 favorite spreads and sauces together. The combination of roasted garlic, toasted <a href='/misc/nuts#pine-nuts'>pine nuts</a>, and cheese pairs perfectly with the <a href='/misc/beans#chickpeas'>chickpeas</a> and lemon juice. It's also higher in <a href='/misc/protein'>protein</a> from the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, which also makes it super creamy.  You can also check out any of my other <a href='/pesto'>pesto recipes</a>, <a href='/salad-dressings'>salad dressings</a>, or <a href='/hummus'>hummus recipes</a>!
-Instructions: 
+Instructions:
 - Slice the top off the garlic, lightly coat in oil, wrap in aluminum foil, and air fry at 400F for 25 minutes, or until soft and caramelized, but not burned.  You could also roast in the oven for 45 minutes.  Allow to cool before squeezing the garlic into a food processor.  Alternatively, you can use raw garlic, but reduce to only about 2 cloves instead of the whole bulb
 
 - Meanwhile, in a small pan, toast the nuts over medium heat for about 3 minutes, or until they start to brown lightly.  Add to the food processor

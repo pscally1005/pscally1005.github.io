@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Salad Base For Your Fridge"
+title:  Salad Base For Your Fridge
 date:   2025-02-08 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sides
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/salad-base
 image: /assets/Food/Sides/Salad/unmixed.jpg
 ing: basesalad-ing
 facts: basesalad-facts
-servingSize: 
+servingSize:
 section1: Veggies
 start2: Feta cheese
 section2: Cheese
 start3: Minced garlic
 section3: Spices
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1:
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/YVLF8
-tags: 
+tags:
 - vegetarian
 - romaine lettuce
 - red bell peppers
@@ -48,7 +48,7 @@ tags:
 - minced garlic
 - lemon pepper
 Description: I've previously posted a full in-depth post as to why your salads are lame, with a guide for building the perfect salad; check out <a href='/misc/salad'>You're Doing Salad Wrong</a>.  But today, I decided to actually measure out and document the salad that I make all the time.  I make this large salad base at least twice a week, and use it as the basis of many of my meals. Just add this as a base to a bowl, and top it with whatever <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/carbs'>carbs</a> you desire for a delicious and nutritious meal
-Instructions: 
+Instructions:
 - Thinly slice your lettuce, and add to a <a href='/misc/kitchen-products#salad-spinner'>salad spinner</a>. Rinse in the sink, spin the salad, and drain out the water
 
 - Wash your peppers and tomatoes, and cut into a medium dice. Add to the salad
@@ -56,7 +56,7 @@ Instructions:
 - Crumble the feta cheese on top of the vegetables
 
 - Add in your seasonings - minced garlic, lemon pepper, garlic powder, onion powder, and black pepper. Mix with tongs
-- <center><img src='/assets/Food/Sides/Salad/mixed.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides/Salad/mixed.jpg' alt='' class='instruction-image'></center>
 
 - Seasoning the vegetables makes them taste way better, but it also releases their water. Store the salad in the strainer part of the <a href='/misc/kitchen-products#salad-spinner'>salad spinner</a>, with the strainer in the large bowl. When you go to eat the salad, just lift the strainer out of the bowl and discard the released water
 ---

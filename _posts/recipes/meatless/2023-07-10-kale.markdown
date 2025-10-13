@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Bean Kaled by Cheese"
+title:  Bean Kaled by Cheese
 date:   2023-07-10 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meatless
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/kale
 image: /assets/Food/Meatless/Kale/kale.jpg
 ing: kale-ing
 facts: kale-facts
-servingSize: 
+servingSize:
 section1: Step 1
 start2: Minced garlic
 section2: Step 2
 start3: Pinto beans, drained and rinsed
 section3: Step 3
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 10
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/54iaL
-tags: 
+tags:
 - pinto beans
 - kale
 - spinach
@@ -48,7 +48,7 @@ tags:
 - chopped
 - vic
 Description: This vegetarian Mexican inspired dish mixes together sauteed <a href='/misc/veggies#kale'>kale</a>, <a href='/misc/beans#pinto-beans'>pinto</a> beans, <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>, and is topped with shredded cheese. This goes well with some meatloaf or taco <a href='/misc/meat'>meat</a> as well
-Instructions: 
+Instructions:
 - Cut the onions into a small dice, and add to a large pan over medium heat with olive oil and kale. Cook until the onions are translucent
 
 - Add the seasonings to the veggies - chili powder, cumin, paprika, and salt

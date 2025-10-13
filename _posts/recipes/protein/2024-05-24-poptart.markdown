@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PB&J Protein PopTart"
+title:  PB&J Protein PopTart
 date:   2024-05-24 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/protein-poptart
 image: /assets/Food/Breakfast/PopTart/poptart-cover.jpg
 ing: poptart-ing
 facts: poptart-facts
-servingSize: 
+servingSize:
 section1: Dough
 start2: No sugar added apple spread
 section2: Filling
 start3: Natural peanut butter
 section3: Topping
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 15
 Rest: 30
 Cook: 6
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/T3SHl
-tags: 
+tags:
 - oatmeal
 - oats
 - quick oats
@@ -65,19 +65,19 @@ tags:
 - toaster pastry
 - vic
 Description: Vic got me a pair of PopTart socks, so now I'm legally obligated to make a healthy version myself (those are the rules). It's a gluten free crust made of coconut flour, <a href='/misc/grains#oats'>oat flour</a>, and whey, with a homemade <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> filling, giving you a toaster pastry you can actually eat for breakfast. I also drizzled some melted <a href='/misc/nuts#peanuts'>peanut</a> butter on top for healthy <a href='/misc/fats'>fats</a> and some more <a href='/misc/protein'>protein</a>.  You can do everything the night before, and just toast/airfry the PopTart in the morning, making for a quick and easy breakfast with over 40 g of <a href='/misc/protein'>protein</a>! For a different <a href='/misc/protein'>protein</a> pastry breakfast, see my <a href='/recipes/protein-cinnamon-rolls'>Fluffy Protein Cinnamon Rolls</a>
-Instructions: 
+Instructions:
 - In a bowl, combine together the crust ingredients (whey, syrup, cinnamon, salt, almond extract, yogurt, coconut flour, and oat flour).  You should have a slightly sticky dough.  Refrigerate for about 30 minutes for the oats to absorb the liquid
 
 - Place the dough onto a piece of parchment paper, and lightly wet your hands.  Flatten to an even thin rectangle, and scoop a little bit of batter onto half of it, spreading evenly
-- <center><img src='/assets/Food/Breakfast/PopTart/poptart-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/PopTart/poptart-2.jpg' alt='' class='instruction-image'></center>
 
 - I've used <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> for these PopTarts, but unsweetened applesauce would also work.  Any low or no <a href='/misc/hidden-sugar'>sugar</a> jelly or jam (such as <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a>) would also work well as a filling, as well as date paste
 
 - Fold the PopTart over on itself.  Crimp all the edges together with a fork.  Poke the top a few times with a fork
-- <center><img src='/assets/Food/Breakfast/PopTart/poptart-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/PopTart/poptart-3.jpg' alt='' class='instruction-image'></center>
 
 - Air fry at 350F for about 6 minutes, or until the PopTart is a golden brown color
-- <center><img src='/assets/Food/Breakfast/PopTart/poptart-5.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/PopTart/poptart-5.jpg' alt='' class='instruction-image'></center>
 
 - Meanwhile, in a small bowl, melt peanut butter in the microwave.  Drizzle on top of the PopTart, and serve
 ---

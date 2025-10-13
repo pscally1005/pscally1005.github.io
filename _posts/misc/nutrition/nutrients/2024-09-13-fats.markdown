@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Fat: The Innocent Criminal?"
+title:  'Fat: The Innocent Criminal?'
 date:   2024-09-13 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Nutrition
 permalink: /misc/fats
 image: /assets/Misc/Nutrition/Fats/Fat.png
-tags: 
+tags:
 - fat
 - unsaturated fat
 - good fats
@@ -17,48 +17,48 @@ tags:
 - omega-3
 - omega 3
 ---
-<u><font size="+2">Introduction</font></u><br>
+<u><font size='+2'>Introduction</font></u><br>
 &emsp;For years, we were told that <a href='/misc/fats'>fats</a> were the devil.  Low fat this and fat free that, no more eating <a href='/misc/meat'>meat</a> and <a href='/misc/meat#eggs'>eggs</a>, and a drastic increase consumption of refined grains.  I should specify that I have never been on a keto (high fat, low <a href='/misc/carbs'>carb</a>) diet.  But it is evident how wrong we got it.  In correct moderation and from the proper sources, <a href='/misc/fats'>fats</a> are essential for daily life, and their replacement with more starch and <a href='/misc/hidden-sugar'>sugar</a> has been the main fuel for the recent obesity epidemic.  Check out my other 2 micronutrient analyses: <a href='/misc/protein'>Protein: The Essential Building Blocks</a> and <a href='/misc/carbs'>Carbs: The Devil in Disguise?</a>.
 
-<center><img src='/assets/Misc/Nutrition/Fats/trans.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/obesity.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/trans.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/obesity.png' alt='' class='smaller-image'></center><br>
 
 &emsp;There's 3 main categories of <a href='/misc/fats'>fats</a>: unsaturated fat, saturated fat, and trans <a href='/misc/fats'>fats</a>.  Think of these types of <a href='/misc/fats'>fats</a> as a traffic light, where green is unsaturated, yellow is saturated, and red is trans.
 
-<center><img src='/assets/Misc/Nutrition/Fats/trans-fat.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/traffic-lights.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/trans-fat.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/traffic-lights.png' alt='' class='smaller-image'></center><br>
 
-<u><font size="+2">Unsaturated Fat</font></u><br>
+<u><font size='+2'>Unsaturated Fat</font></u><br>
 &emsp;Unsaturated <a href='/misc/fats'>fats</a> are typically thought of as the healthiest fat, and are broken down into mono-unsaturated <a href='/misc/fats'>fats</a> and poly-unsaturated <a href='/misc/fats'>fats</a>.  Increased unsaturated fat consumption has been shown to decrease inflammation, improve <a href='/misc/cholesterol'>cholesterol</a>, and support heart health.  In their pure form, these fat's are liquid at room temperature.  Think olive oil or canola oil (unsaturated <a href='/misc/fats'>fats</a>) as opposed to coconut oil or <a href='/misc/dairy#butter'>butter</a> (saturated <a href='/misc/fats'>fats</a>).  Foods high in unsaterated <a href='/misc/fats'>fats</a> include <a href='/misc/fruit#avocado'>avocados</a>, olives, <a href='/misc/nuts'>nuts</a>, <a href='/misc/seeds'>seeds</a>, and <a href='/misc/fish#salmon'>salmon</a>.
 
-<center><img src='/assets/Misc/Nutrition/Fats/olive.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/nuts.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/olive.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/nuts.png' alt='' class='smaller-image'></center><br>
 
-<u><font size="+2">Saturated Fat</font></u><br>
+<u><font size='+2'>Saturated Fat</font></u><br>
 &emsp;Saturated <a href='/misc/fats'>fats</a> are somewhere in the middle, like a yellow light.  Sometimes you need to speed up, and sometimes you need to slow down.  Saturated <a href='/misc/fats'>fats</a> are typically solid at room temperature, such as butter, lard, ghee, and coconut oil.  The downside is that high saturated fat consumption is linked to increased <a href='/misc/cholesterol'>cholesterol</a>, blood pressure, and other heart related issues.  However, adequate consumption of saturated <a href='/misc/fats'>fats</a> is necessary for promoting healthy liver, bones, brain, heart, and nervous system.  Foods high in saturated <a href='/misc/fats'>fats</a> include meats, <a href='/misc/meat#eggs'>eggs</a>, and dairy.
 
-<center><img src='/assets/Misc/Nutrition/Fats/meat.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/dairy-products.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/meat.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/dairy-products.png' alt='' class='smaller-image'></center><br>
 
-<u><font size="+2">Trans Fat</font></u><br>
-&emsp;Trans <a href='/misc/fats'>fats</a> are easily the most harmful type of fat, and should be avoided at all costs.  They're so dangerous that the FDA outlawed them in the United States in 2018.  Consumption of trans <a href='/misc/fats'>fats</a> are shown to increase LDL and decrease HDL, leading to an increased risk of diabetes, heart attack, and stroke.  They're creating by fully hydroginating unsaturated <a href='/misc/fats'>fats</a>, and are used to make products more shelf stable.  They're typically found in products such as margarine and vegetable oil spread, fried foods, no stir peanut butter, microwave <a href='/misc/grains#popcorn'>popcorn</a>, and packaged baked goods.  
+<u><font size='+2'>Trans Fat</font></u><br>
+&emsp;Trans <a href='/misc/fats'>fats</a> are easily the most harmful type of fat, and should be avoided at all costs.  They're so dangerous that the FDA outlawed them in the United States in 2018.  Consumption of trans <a href='/misc/fats'>fats</a> are shown to increase LDL and decrease HDL, leading to an increased risk of diabetes, heart attack, and stroke.  They're creating by fully hydroginating unsaturated <a href='/misc/fats'>fats</a>, and are used to make products more shelf stable.  They're typically found in products such as margarine and vegetable oil spread, fried foods, no stir peanut butter, microwave <a href='/misc/grains#popcorn'>popcorn</a>, and packaged baked goods.
 
-<center><img src='/assets/Misc/Nutrition/Fats/heart-disease.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/skull.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/heart-disease.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/skull.png' alt='' class='smaller-image'></center><br>
 
-<u><font size="+2">Fats: Risks</font></u><br>
+<u><font size='+2'>Fats: Risks</font></u><br>
 &emsp;Outside of trans and saturated <a href='/misc/fats'>fats</a>, the main thing you'll hear people comment about fat is calories.  While <a href='/misc/carbs'>carbs</a> and <a href='/misc/protein'>protein</a> each have about 4 calories per gram, <a href='/misc/fats'>fats</a> on the other hand contain 9 calories per gram.  That means that any fatty food, both healthy and unhealthy, will inherently be higher in calories.  And while nutrition does go far beyond pure calorie count, is it very important to acknowledge that fatty foods are higher in calories.  Thus, consumption must be properly moderated as to not go over your caloric budget and cause unexpected weight gain.
 
-<center><img src='/assets/Misc/Nutrition/Fats/calories.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/body.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/calories.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/body.png' alt='' class='smaller-image'></center><br>
 
-<u><font size="+2">Fats: Benefits</font></u><br>
+<u><font size='+2'>Fats: Benefits</font></u><br>
 &emsp;The main benefit of <a href='/misc/fats'>fats</a> is that they help your body absorb fat soluble vitamins.  As opposed to water soluble vitamins (such as all the B vitamins, vitamin C, and all minerals), fat soluble vitamins need to be consumed with fat in order to actually reap the benefits.  These include vitamins A, D, E, and K.  Have you ever wondered why a <a href='/misc/nutrient-alphabet#D'>vitamin D</a> supplement is a soft gel pill, as opposed to a hard regular pill?  This is why; it's packaged with an oil to help your body absorb the nutrients.
 
-<center><img src='/assets/Misc/Nutrition/Fats/vitamin-d.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/vitamin-e.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/vitamin-d.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/vitamin-e.png' alt='' class='smaller-image'></center><br>
 
 &emsp;Proper consumption of healthy <a href='/misc/fats'>fats</a> is critical for regulating your blood pressure and <a href='/misc/cholesterol'>cholesterol</a>, as well as maintaining nerve and brain function.  <a href='/misc/nutrient-alphabet#O'>Omega-3</a> <a href='/misc/fats'>fats</a> in particular are extremely important; these are anti-inflammatory and lower your risk for diabetes, obesiety, CVD (cardiovascular disease), blood clots, cancer, and Alzheimer's.  <a href='/misc/nutrient-alphabet#O'>Omega-3</a> <a href='/misc/fats'>fats</a> are found in fatty fish like <a href='/misc/fish#salmon'>salmon</a> and <a href='/misc/fish#mackerel'>mackerel</a>, and <a href='/misc/seeds'>seeds</a> like <a href='/misc/seeds#chia-seeds'>chia</a> and <a href='/misc/seeds#flax-seeds'>flax</a>.  There are 3 main types:
 <br>- ALA (alpha-linolenic acid)
 <br>- DHA (docosahexaenoic acid)
 <br>- EPA (eicosapentaenoic acid)
 
-<center><img src='/assets/Misc/Nutrition/Fats/fish-pills.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/heart.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/fish-pills.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/heart.png' alt='' class='smaller-image'></center><br>
 
-<u><font size="+2">Fatty Foods to Avoid or Limit</font></u><br>
+<u><font size='+2'>Fatty Foods to Avoid or Limit</font></u><br>
 - Desserts:
 <br>&emsp;- Brownies
 <br>&emsp;- Cakes
@@ -69,15 +69,15 @@ tags:
 <br>&emsp;- Ice cream
 <br>&emsp;- Nutella
 <br>&emsp;- Pies
-<center><img src='/assets/Misc/Nutrition/Fats/cookie.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/pie.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/cookie.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/pie.png' alt='' class='smaller-image'></center><br>
 
-- Fatty <a href='/misc/dairy'>dairy</a>: 
+- Fatty <a href='/misc/dairy'>dairy</a>:
 <br>&emsp;- <a href='/misc/dairy#butter'>Butter</a>
 <br>&emsp;- Cheese
 <br>&emsp;- <a href='/misc/dairy#cream-cheese'>Cream Cheese</a>
 <br>&emsp;- Heavy cream
 <br>&emsp;- Ghee
-<center><img src='/assets/Misc/Nutrition/Fats/butter.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/cheese.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/butter.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/cheese.png' alt='' class='smaller-image'></center><br>
 
 - Fried foods:
 <br>&emsp;- Arancini
@@ -88,7 +88,7 @@ tags:
 <br>&emsp;- Fried calamari
 <br>&emsp;- Fried chicken
 <br>&emsp;- Onion rings
-<center><img src='/assets/Misc/Nutrition/Fats/fried-potatoes.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/nuggets.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/fried-potatoes.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/nuggets.png' alt='' class='smaller-image'></center><br>
 
 - <a href='/misc/meat'>Meat</a>:
 <br>&emsp;- 80% lean <a href='/misc/meat#ground-beef'>ground beef</a> or <a href='/misc/meat#ground-turkey'>turkey</a>
@@ -96,7 +96,7 @@ tags:
 <br>&emsp;- Lard
 <br>&emsp;- Skin on chicken <a href='/misc/meat#chicken-thighs'>thighs</a>
 <br>&emsp;- Tallow
-<center><img src='/assets/Misc/Nutrition/Fats/cheese-burger.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/beef.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/cheese-burger.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/beef.png' alt='' class='smaller-image'></center><br>
 
 - Processed meats:
 <br>&emsp;- <a href='/misc/meat#bacon'>Bacon</a>
@@ -105,7 +105,7 @@ tags:
 <br>&emsp;- <a href='/misc/meat#pepperoni'>Pepperoni</a>
 <br>&emsp;- <a href='/misc/meat#salami'>Salami</a>
 <br>&emsp;- <a href='/misc/meat#sausage'>Sausage</a>
-<center><img src='/assets/Misc/Nutrition/Fats/bacon.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/sausages.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/bacon.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/sausages.png' alt='' class='smaller-image'></center><br>
 
 - Salad dressings:
 <br>&emsp;- Balsamic vinaigrette
@@ -115,7 +115,7 @@ tags:
 <br>&emsp;- Mayo
 <br>&emsp;- Ranch
 <br>&emsp;- Thousand island
-<center><img src='/assets/Misc/Nutrition/Fats/mayonnaise.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/ranch.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/mayonnaise.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/ranch.png' alt='' class='smaller-image'></center><br>
 
 - Snacks:
 <br>&emsp;- Banana chips
@@ -128,13 +128,13 @@ tags:
 <br>&emsp;- Plantian chips
 <br>&emsp;- Tortilla chips
 <br>&emsp;- Veggie straws
-<center><img src='/assets/Misc/Nutrition/Fats/chips.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/chocolate.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/chips.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/chocolate.png' alt='' class='smaller-image'></center><br>
 
 - Spreads:
 <br>&emsp;- Margarine
 <br>&emsp;- Shortening
 <br>&emsp;- Vegetable oil spreads
-<center><img src='/assets/Misc/Nutrition/Fats/toast.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/butter (1).png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/toast.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/butter (1).png' alt='' class='smaller-image'></center><br>
 
 - Vegetable/seed oils:
 <br>&emsp;- Canola oil
@@ -147,14 +147,14 @@ tags:
 <br>&emsp;- Soybean oil
 <br>&emsp;- Sunflower oil
 
-<center><img src='/assets/Misc/Nutrition/Fats/oil.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/polyunsaturated-fat.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/oil.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/polyunsaturated-fat.png' alt='' class='smaller-image'></center><br>
 
-<u><font size="+2">Fatty Foods to Moderate or Consume Often</font></u><br>
+<u><font size='+2'>Fatty Foods to Moderate or Consume Often</font></u><br>
 - Produce:
 <br>&emsp;- <a href='/misc/fruit#avocado'>Avocados</a>
 <br>&emsp;- <a href='/misc/beans#edamame'>Edamame</a>
 <br>&emsp;- Olives
-<center><img src='/assets/Misc/Nutrition/Fats/avocado.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/olive (1).png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/avocado.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/olive (1).png' alt='' class='smaller-image'></center><br>
 
 - Fish:
 <br>&emsp;- <a href='/misc/fish#anchovy'>Anchovies</a>
@@ -162,20 +162,20 @@ tags:
 <br>&emsp;- <a href='/misc/fish#mackerel'>Mackerel</a>
 <br>&emsp;- <a href='/misc/fish#salmon'>Salmon</a>
 <br>&emsp;- <a href='/misc/fish#sardine'>Sardines</a>
-<center><img src='/assets/Misc/Nutrition/Fats/sardines.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/salmon.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/sardines.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/salmon.png' alt='' class='smaller-image'></center><br>
 
 - Lean <a href='/misc/dairy'>dairy</a>:
 <br>&emsp;- <a href='/misc/dairy#cottage-cheese'>Cottage cheese</a>
 <br>&emsp;- <a href='/misc/dairy#yogurt'>Greek yogurt</a>
 <br>&emsp;- <a href='/misc/dairy#skim-milk'>Milk</a>
-<center><img src='/assets/Misc/Nutrition/Fats/yogurt.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/milk.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/yogurt.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/milk.png' alt='' class='smaller-image'></center><br>
 
 - <a href='/misc/meat'>Meat</a> & <a href='/misc/meat#eggs'>Eggs</a>:
 <br>&emsp;- 93% lean <a href='/misc/meat#ground-beef'>ground beef</a> or <a href='/misc/meat#ground-turkey'>turkey</a>
 <br>&emsp;- <a href='/misc/meat#eggs'>Eggs</a>
 <br>&emsp;- Lean cuts of <a href='/misc/meat#steak'>steak</a> or <a href='/misc/meat#pork-tenderloin'>pork</a>
 <br>&emsp;- <a href='/misc/meat#chicken-thighs'>Skinless chicken thighs</a>
-<center><img src='/assets/Misc/Nutrition/Fats/egg.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/minced-meat.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/egg.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/minced-meat.png' alt='' class='smaller-image'></center><br>
 
 - <a href='/misc/nuts'>Nuts</a> & Chocolate:
 <br>&emsp;- <a href='/misc/nuts#almonds'>Almonds</a>
@@ -189,7 +189,7 @@ tags:
 <br>&emsp;- <a href='/misc/nuts#pine-nuts'>Pine nuts</a>
 <br>&emsp;- <a href='/misc/nuts#pistachios'>Pistachios</a>
 <br>&emsp;- <a href='/misc/nuts#walnuts'>Walnuts</a>
-<center><img src='/assets/Misc/Nutrition/Fats/nuts (1).png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/pistachio.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/nuts (1).png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/pistachio.png' alt='' class='smaller-image'></center><br>
 
 - Oils:
 <br>&emsp;- Avocado oil
@@ -197,7 +197,7 @@ tags:
 <br>&emsp;- Extra virgin coconut oil
 <br>&emsp;- Extra virgin olive oil
 <br>&emsp;- Flaxseed oil
-<center><img src='/assets/Misc/Nutrition/Fats/coconut-oil.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/olive-oil.png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/coconut-oil.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/olive-oil.png' alt='' class='smaller-image'></center><br>
 
 - <a href='/misc/seeds'>Seeds</a>:
 <br>&emsp;- <a href='/misc/seeds#chia-seeds'>Chia seeds</a>
@@ -208,9 +208,9 @@ tags:
 <br>&emsp;- <a href='/misc/seeds#pumpkin-seeds'>Pumpkin seeds</a>
 <br>&emsp;- <a href='/misc/seeds#sesame-seeds'>Sesame seeds</a>
 <br>&emsp;- <a href='/misc/seeds#sunflower-seeds'>Sunflower seeds</a>
-<center><img src='/assets/Misc/Nutrition/Fats/sesame.png' alt="" class="smaller-image"><img src='/assets/Misc/Nutrition/Fats/sesame (1).png' alt="" class="smaller-image"></center><br>
+<center><img src='/assets/Misc/Nutrition/Fats/sesame.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Fats/sesame (1).png' alt='' class='smaller-image'></center><br>
 
-<u><font size="+2">Sources</font></u><br>
+<u><font size='+2'>Sources</font></u><br>
 1. <a href='https://www.flaticon.com/'>Flaticon</a>
 2. <a href='https://www.youtube.com/watch?v=mIJ2_uac9Cc'>The REAL Killers - Trans Fats</a>
 3. <a href='https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550#:~:text=Unsaturated%20fats%20are%20usually%20liquid,unsaturated%20fats%3A%20monounsaturated%20and%20polyunsaturated.'>Dietary fat: Know which to choose</a>

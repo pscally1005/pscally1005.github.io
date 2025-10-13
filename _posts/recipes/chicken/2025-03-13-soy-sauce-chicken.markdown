@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Soy Sauce Chicken and Brussel Sprouts"
+title:  Soy Sauce Chicken and Brussel Sprouts
 date:   2025-03-13 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/soy-sauce-chicken
 image: /assets/Food/Chicken/Soy Sauce/cover.jpg
 ing: soysauce-ing
 facts: soysauce-facts
-servingSize: 
+servingSize:
 section1: Brussel Sprouts
 start2: Boneless skinless chicken breast
 section2: Chicken
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 30
-Rest: 
+Rest:
 Cook: 30
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/VEnwR
-tags: 
+tags:
 - roast
 - simple
 - asian
@@ -45,7 +45,7 @@ tags:
 - bake
 - marinade
 Description: This big plate of food (minus the <a href='/misc/grains#brown-rice'>rice</a>) has under 400 <a href='/misc/calories'>calories</a>, over 45 g of <a href='/misc/protein'>protein</a>, and costs only $2.56. This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the <a href='/misc/meat#chicken-breast'>chicken</a> and sprouts, that way it's easier to put together come dinner time. I like to pair it with a side of <a href='/misc/grains#brown-rice'>brown rice</a> for a complete meal.
-Instructions: 
+Instructions:
 - Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 
 - Quarter your brussel sprouts (or just half them if they're small), and add to a large bowl. Season with soy sauce, lemon juice, oil, pepper, paprika, chili powder, garlic powder, and onion powder.  Optionally, you can marinate the veggies in the bowl for at least an hour in the fridge.  Transfer to one of your pans

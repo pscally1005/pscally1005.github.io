@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homemade Plant Based Milk"
+title:  Homemade Plant Based Milk
 date:   2024-02-12 00:00:00 -0500
 categories:
 - Recipes
@@ -21,22 +21,22 @@ image: /assets/Food/Drinks/Oat Milk/oat-milk.jpg
 ing: milk-ing
 facts: milk-facts
 servingSize: 1 cup (240 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://www.foodandmoodcreations.com/how-to-make-unsweetened-oat-milk/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/7Cd3T
-tags: 
+tags:
 - plant based
 - almond milk
 - nut milk
@@ -47,9 +47,9 @@ tags:
 - vanilla
 - cinnamon
 Description: I've been using unsweetened vanilla <a href='/misc/nuts#almonds'>almond</a> <a href='/misc/fake-healthy-foods#skim-milk'>milk</a> for years, so I wanted to try making it myself, since store bought plant based milks tend to have a lot of extra weird ingredients. Unfortunately making <a href='/misc/dairy#almond-milk'>almond milk</a> is more expensive than just buying it, so that's where I got to oat milk. <a href='/misc/grains#oats'>Oats</a> are super cheap, so this is way cheaper than buying oat milk from the store. The process is the same though; I've tried this with quick <a href='/misc/grains#oats'>oats</a>, almonds, <a href='/misc/nuts#peanuts'>peanuts</a>, and <a href='/misc/nuts#pistachios'>pistachios</a>, all to great success
-Instructions: 
+Instructions:
 - If you're making almond (or any nut) milk, you should soak the almonds overnight. Add raw almonds to a bowl, just cover with water, and let soak for at least 8 hours. Drain the excess water prior to blending. If you are making oat milk, there's no soaking required
-- <center><img src='/assets/Food/Drinks/Oat Milk/oat-milk-1.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Drinks/Oat Milk/oat-milk-1.jpg'  class='instruction-image'></center>
 
 - Add your oats (or almonds) and water to a high speed blender. Add in any other flavorings you like as well, such as salt, vanilla, or cinnamon
 

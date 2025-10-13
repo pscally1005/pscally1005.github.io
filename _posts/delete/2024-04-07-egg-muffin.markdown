@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mini Egg Muffins"
+title:  Mini Egg Muffins
 date:   2024-04-07 00:00:00 -0500
 categories:
 - Recipes
@@ -22,22 +22,22 @@ image: /assets/Food/Breakfast/Egg Muffin/egg-muffin-cover.jpg
 ing: eggmuffin-ing
 facts: eggmuffin-facts
 servingSize: 6 mini muffins
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 25
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/h6mde
-tags: 
+tags:
 - eggs
 - breakfast
 - peppers
@@ -51,14 +51,14 @@ tags:
 - shredded cheese
 - cheese
 Description: These <a href='/misc/meat#eggs'>egg</a> muffins are a great way to prep some breakfast ahead of time and eat on the go. Saute whatever <a href='/misc/veggies'>vegetables</a> you like (I went with <a href='/misc/veggies#spinach-fresh'>spinach</a>, pepper, and <a href='/misc/veggies#onion'>onion</a>), mix with <a href='/misc/meat#eggs'>eggs</a>, and bake. Each serving is 1 egg's worth; 6 mini muffins or 3 regular sized muffins
-Instructions: 
+Instructions:
 - Preheat your oven to 350F, and heat a large pan over medium heat. Cut your peppers and onions into a small dice. Add vegetables to the pan with oil and salt. Cover, and cook until peppers have softened and onions turn translucent
 
 - Season to taste with whatever you like. I went with paprika, chili powder, lemon pepper, garlic, onion, black pepper, and hot sauce
 
 - Crack your eggs into a large bowl, and mix with the vegetables. Liberally grease a muffin tin, and evenly divide your batter. This recipe makes 24 mini muffins or 12 regular sized muffins
-- <center><img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-3.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 350F for about 15 minutes for mini muffins, or about 20 minutes for regular sized muffins. Let cool in the pan for 5 minutes before transferring to a wire rack and serving. Optionally, top with shredded cheese and serve with salsa
-- <center><img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-4.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-4.jpg' alt='' class='instruction-image'></center>
 ---

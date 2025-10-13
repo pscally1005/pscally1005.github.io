@@ -1,8 +1,9 @@
+
 ---
 layout: post
-title:  "Shrimp Fra Diavolo con Spinach"
+title:  Shrimp Fra Diavolo con Spinach
 date:   2023-11-24 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Fish
 showPercentage: no
@@ -20,23 +21,23 @@ permalink: /recipes/fra-diavolo
 image: /assets/Food/Fish/Fra Diavolo/fra-diavolo-cover.jpg
 ing: fradiavolo-ing
 facts: fradiavolo-facts
-servingSize: 
+servingSize:
 section1: Sauce
 start2: Frozen raw shrimp, peeled and deveined
 section2: Shrimp
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 70
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/nxnxM
-tags: 
+tags:
 - spinach
 - seafood
 - sea food
@@ -51,7 +52,7 @@ tags:
 - garlic
 - red pepper
 Description: Fra Diavolo sauce is a Christmas classic for me, and was always served over <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/fish#shrimp'>shrimp</a>, two of my favorite foods. Here, I mixed the <a href='/misc/veggies#spinach-fresh'>spinach</a> right into the sauce, and you can put it on whatever you want, such as <a href='/misc/meat#chicken-breast'>chicken</a> if you're not a seafood fan.
-Instructions: 
+Instructions:
 - In a medium saucepot, saute oil, garlic, and spinach over medium heat for about 5 minutes
 
 - Add in tomatoes and seasonings for the sauce (Italian seasoning, paprika, garlic and onion powder, salt, pepper, and red pepper flakes).  Mix, reduce heat to medium low, and simmer for 1 hour, uncovered
@@ -63,5 +64,5 @@ Instructions:
 - Add to a pan and cook for 2-3 minutes each side, or until they turn from gray to pink
 
 - Serve the shrimp and sauce with pasta if desired
-- <center><img src='/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg' alt='' class='instruction-image'></center>
 ---

@@ -1,4 +1,4 @@
-<div class="recipe-time">
+<div class='recipe-time'>
     {% assign prep_minutes = page.Prep | modulo: 60 %}
     {% assign rest_minutes = page.Rest | modulo: 60 %}
     {% assign cook_minutes = page.Cook | modulo: 60 %}
@@ -6,17 +6,17 @@
     {% assign minutes = totaltime | modulo: 60 %}
 
     {% if totaltime > 0 %}
-        <div class="recipe-header">Time</font></div>
+        <div class='recipe-header'>Time</font></div>
 
         {% if page.Prep > 0 %}
-            <div class="recipe-section-bold">Prep Time:</div>
-            <div class="recipe-section">
+            <div class='recipe-section-bold'>Prep Time:</div>
+            <div class='recipe-section'>
                 {% if page.Prep > 60 %}
                     {{ page.Prep | divided_by: 60}} hours
                 {% elsif page.Prep == 60 %}
                     {{ page.Prep | divided_by: 60}} hour
                 {% endif %}
-                {% if prep_minutes > 0 %} 
+                {% if prep_minutes > 0 %}
                     {{ prep_minutes }} minutes
                 {% endif %}
             </div>
@@ -25,8 +25,8 @@
 
 
         {% if page.Rest > 0 %}
-            <div class="recipe-section-bold">Rest Time:</div>
-            <div class="recipe-section">
+            <div class='recipe-section-bold'>Rest Time:</div>
+            <div class='recipe-section'>
                 {% if page.Rest > 60 %}
                     {{ page.Rest | divided_by: 60}} hours
                 {% elsif page.Rest == 60 %}
@@ -40,8 +40,8 @@
         {% endif %}
 
         {% if page.Cook > 0 %}
-            <div class="recipe-section-bold">Cook Time:</div>
-            <div class="recipe-section">
+            <div class='recipe-section-bold'>Cook Time:</div>
+            <div class='recipe-section'>
                 {% if page.Cook > 60 %}
                     {{ page.Cook | divided_by: 60}} hours
                 {% elsif page.Cook == 60 %}
@@ -54,8 +54,8 @@
             <br>
         {% endif %}
 
-        <div class="recipe-section-bold">Total Time:</div>
-        <div class="recipe-section">
+        <div class='recipe-section-bold'>Total Time:</div>
+        <div class='recipe-section'>
             {% if totaltime > 60 %}
                 {{ totaltime | divided_by: 60}} hours
             {% elsif totaltime == 60 %}

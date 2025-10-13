@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peanut Butter Bread"
+title:  Peanut Butter Bread
 date:   2023-06-06 00:00:00 -0500
 categories:
 - Recipes
@@ -21,22 +21,22 @@ image: /assets/Food/Breakfast/PB Bread/pb-bread-cover.jpg
 ing: pbbread-ing
 facts: pbbread-facts
 servingSize: 1 slice
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 60
 Source1: https://www.youtube.com/watch?v=z4i5w_ngyL8
 Source2:
-whisk: https://s.samsungfood.com/1wCSw 
-tags: 
+whisk: https://s.samsungfood.com/1wCSw
+tags:
 - peanut butter
 - bread
 - whole wheat
@@ -44,13 +44,13 @@ tags:
 - jam
 - bake
 Description: This Peanut Butter Bread is inspired by the 1932 Great Depression Peanut Butter Bread. It's full of <a href='/misc/nuts#peanuts'>peanut</a> butter flavor, without being too sweet. It's perfect for breakfast, and goes well with some <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>peanut butter</a>, or jam on top of it. I cut down the <a href='/misc/hidden-sugar'>sugar</a> and replaced it with honey, as well as swapped to <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. I'm sure you'll enjoy this healthier quick bread.
-Instructions: 
+Instructions:
 - In a large bowl, combine together the flour, salt, and baking powder with a whisk
 
 - Add in the peanut butter and honey, and combine with your fingers. It should have the consistency of wet sand
 
 - Finally, using a spatula, mix in the milk
-- <center><img src='/assets/Food/Breakfast/PB Bread/pb-bread-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Breakfast/PB Bread/pb-bread-3.jpg' alt='' class='instruction-image'></center>
 
 - Add to a greased loaf pan, and score down the center with a butter knife or your spatula
 

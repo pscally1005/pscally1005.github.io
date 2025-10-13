@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sugar Free Coconut Cookies"
+title:  Sugar Free Coconut Cookies
 date:   2025-08-31 00:00:00 -05000
 categories: 
 - Recipes
@@ -53,7 +53,7 @@ Instructions:
 - Preheat your oven to 350F, and line a large cookie sheet with parchment paper
 
 - Add your coconut to a food processor, and blend on high for about 5 minutes, scraping the sides every minute. Blend until you have a smooth coconut butter, aka <a href='/recipes/natural-peanut-butter'>"peanut butter"</a>, but with coconut instead
-- <center><img src='/assets/Food/Healthier Dessert/Coconut Cookies/coconut-butter.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Coconut Cookies/coconut-butter.jpg' alt='' class='instruction-image'></center>
 
 - Add your <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, egg, salt, and baking soda to the processor. Blend until smooth, and transfer to a large bowl
 
@@ -62,5 +62,5 @@ Instructions:
 - Scoop about 1 tbsp (~19 g) per cookie and place onto the sheet. Lightly wet your hands to prevent sticking, and roll into balls. Flatten down into circles. Leave about an inch between each cookie. They will puff up very slightly in the oven, but not expand outwards
 
 - Bake at 350F for about 12 minutes, or until the bottom and sides are very slightly browned. Let cool on the sheet for 10 minutes before removing
-- <center><img src='/assets/Food/Healthier Dessert/Coconut Cookies/baked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Coconut Cookies/baked.jpg' alt='' class='instruction-image'></center>
 ---

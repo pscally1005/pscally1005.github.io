@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Dolmas (Stuffed Grape Leaves)"
+title:  Dolmas (Stuffed Grape Leaves)
 date:   2024-03-12 00:00:00 -0500
-categories: 
+categories:
 - Recipes
 - Finger Foods
 showPercentage: no
@@ -26,17 +26,17 @@ start2: Grape leaves
 section2: Grape Leaves
 start3: Onion
 section3: Rest of Filling
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 30
-Rest: 
+Rest:
 Cook: 90
 Source1: https://www.themediterraneandish.com/stuffed-grape-leaves-dolmades/#tasty-recipes-10290-jump-target
 Source2:
-whisk: https://s.samsungfood.com/poKOx 
-tags: 
+whisk: https://s.samsungfood.com/poKOx
+tags:
 - greek
 - rice
 - brown rice
@@ -54,30 +54,30 @@ tags:
 - cloves
 - allspice
 Description: Stuffed Grape Leaves are something I occasionally get at Greek restaurants, and I love them every time.  I've tried to recreate that feeling in my kitchen, and I think they've turned out pretty well.  They're great on their own, or dipped in <a href='/hummus'>hummus</a> or <a href='/recipes/salmon-and-tzatziki'>tzatziki</a>.  This pairs well as a side to a grilled <a href='/misc/meat#chicken-breast'>chicken</a> pocket pita, or some roasted <a href='/misc/fish'>fish</a> with lemon.  It's a lot of work on your own, but a fun activity with a partner or group of people
-Instructions: 
+Instructions:
 - Rinse your rice under cold water in a fine mesh strainer. In a medium pot, add rice, water, and bouillon. Cover, and bring to a boil over high heat. Reduce heat to medium low, and let simmer for 30-45 minutes, or until fully cooked. This will depend on your brand of rice. Set aside
-- <center><img src='/assets/Food/Finger Food/Grape/grape-1.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Grape/grape-1.jpg' alt='' class='instruction-image'></center>
 
 - Using a strainer, drain and rinse your jar of grape leaves. I bough a 16 oz jar, and probably used about half of it.  Set aside
 
 - Cut your onion into a fine dice. To a large pan over medium heat, add onion, oil, and salt. Cover, and cook until onion is translucent, about 5 minutes
 
 - Add in the meat, and cook until fully browned. Season with lemon pepper, cumin, cinnamon, cloves, allspice, and nutmeg. Take off the heat
-- <center><img src='/assets/Food/Finger Food/Grape/grape-4.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Grape/grape-4.jpg' alt='' class='instruction-image'></center>
 
 - Finely chop your dill, and add to a large bowl.  An ounce of chopped dill should be around a cup or so. Combine with the rice and meat mixtures
-- <center><img src='/assets/Food/Finger Food/Grape/grape-5.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Grape/grape-5.jpg' alt='' class='instruction-image'></center>
 
 - To stuff the grape leaves, place the leaf on a cutting board with the rough side up. Take about 1 tbsp of filling per leaf, and place in the center. Fold in the sides, and roll over to create a tightly wrapped mini burrito, with the seam side down
-- <center><img src='/assets/Food/Finger Food/Grape/grape-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Grape/grape-6.jpg' alt='' class='instruction-image'></center>
 
 - Neatly arrange them (seam side down) in a large pot. Pour water (or broth) over the grape leaves, until just covered. Place an inverted plate on top to prevent them from rising
-- <center><img src='/assets/Food/Finger Food/Grape/grape-7.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Grape/grape-7.jpg' alt='' class='instruction-image'></center>
 
 - Cover the pot with a lid, and cook over medium heat for about 30 minutes
 
 - Let cool for 30 minutes before eating
-- <center><img src='/assets/Food/Finger Food/Grape/grape-9.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Grape/grape-9.jpg' alt='' class='instruction-image'></center>
 
 - If you have extra grape leaves, you can finely chop them and add them to a salad
 ---

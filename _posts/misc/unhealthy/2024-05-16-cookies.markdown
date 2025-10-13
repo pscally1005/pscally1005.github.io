@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Classic Chocolate Chip Cookies"
+title:  Classic Chocolate Chip Cookies
 date:   2024-05-16 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Unhealthy Recipes
 cookie: yes
@@ -11,22 +11,22 @@ image: /assets/Misc/Unhealthy/Cookies/cookies.jpg
 ing: cookies-ing
 facts: cookies-facts
 servingSize: 1 cookie
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 12
 Rest: 30
 Cook: 8
 Source1: https://www.countryhillcottage.com/chocolate-chip-cookies-without-brown-sugar/#mv-creation-325-jtr
 Source2: https://www.youtube.com/watch?v=raNLUgnfTTQ
 whisk: https://s.samsungfood.com/FLu5b
-tags: 
+tags:
 - chocolate chip cookie
 - flour
 - butter
@@ -40,7 +40,7 @@ tags:
 - chopped chocolate
 - cookie
 Description: Here's a standard chocolate chip cookie recipe. I usually only make and post healthy recipes, but it's okay to enjoy the classic treat from time to time. Chocolate chip cookies are usually what I make to bring for an occasion; that way I can have 1 or 2 every so often, and I can leave someone else with the rest.  I made these to celebrate Vic getting into UF for her Master's Degree.  Brownies are the other classic dessert, so check out my <a href='/recipes/brownies'>Classic Fudgy Brownies</a>, or check out any of my other <a href='/cookies'>healthy cookie recipes</a>!
-Instructions: 
+Instructions:
 - Preheat your oven to 350F, and line 2 large cookie sheets with parchment paper
 
 - Mix together sugar, honey, and (melted) butter with a hand mixer until fluffy. Beat in egg and mix in vanilla, salt, and baking soda. Fully combine, then mix in the flour. Fold in the chocolate chips
@@ -58,7 +58,7 @@ Instructions:
 - If you want to make the cookies gluten free, just replace the <a href='/misc/grains#white-flour'>all purpose flour</a> (2 cups, 240 g) with 1.5 cups (180 g) oat, almond, or <a href='/misc/grains#millet'>millet</a> flour, and 1/2 cup (60 g) cornstarch
 
 - You can make these into peanut butter chocolate chip cookies as well.  Just add 1/2 cup (128 g) of melted peanut butter to the cookie dough along with the sugar and butter.  Additionally, cut the flour in half, from 2 cups (240 g) to 1 cup (120 g).  Bake as normal for about 9 minutes
-- <center><img src='/assets/Misc/Unhealthy/Cookies/pb-cookie.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Misc/Unhealthy/Cookies/pb-cookie.jpg' alt='' class='instruction-image'></center>
 
 - Cutting the flour in half also applies to gluten free and <a href='/misc/grains#whole-wheat'>whole wheat</a> peanut butter cookies as well.  For GF, use 3/4 cup (90 g) oat, almond, or <a href='/misc/grains#millet'>millet</a> flour, and 1/4 cup (30 g) of cornstarch in place of the <a href='/misc/grains#white-flour'>all purpose flour</a> (1 cup, 120 g).  For <a href='/misc/grains#whole-wheat'>whole wheat</a>, use just under 1 cup (108 g) <a href='/misc/grains#whole-wheat'>whole wheat</a> flour instead of the all purpose
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Frosted Pumpkin Cake"
+title:  Frosted Pumpkin Cake
 date:   2024-10-31 00:00:00 -05000
 categories: 
 - Recipes
@@ -72,18 +72,18 @@ Instructions:
 - Preheat your oven to 350F, and line a 9" circle pan with parchment paper.  Lightly spray the paper with oil
 
 - In a large bowl, add all your wet ingredients, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined - pumpkin puree, yogurt, nut/seed butter, egg, and sweeteners
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-wet.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-wet.jpg' alt='' class='instruction-image'></center>
 
 - To the bowl, add your dry ingredients, and stir until fully combined - salt, cinnamon, ginger, nutmeg, cloves, baking powder, baking soda, cornstarch, and oat flour.  Transfer the batter to the pan, and smooth out the top
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-raw.jpg' alt='' class='instruction-image'></center>
 
 - Bake for 40 minutes, or until the internal temperature is at least 205F and a toothpick comes out nearly clean.  Let cool totally in the pan in the fridge
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-1.jpg' alt="" class="half-page"><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-2.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-1.jpg' alt='' class='half-page'><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-2.jpg' alt='' class='half-page'></center>
 
 - In a food processor, blend the frozen bananas until you have a smooth banana ice cream.  Add in the cottage cheese, pumpkin seed butter, and cinnamon, and blend until smooth and creamy
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-1.jpg' alt="" class="half-page"><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-2.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-1.jpg' alt='' class='half-page'><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-2.jpg' alt='' class='half-page'></center>
 
 - Spread on top of the cooled cake, and optionally dust the top with cinnamon.  Slice into 12, and serve
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-not-dusted.jpg' alt="" class="half-page"><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-dusted.jpg' alt="" class="half-page"></center>
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-not-dusted.jpg' alt='' class='half-page'><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-dusted.jpg' alt='' class='half-page'></center>
+- <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-2.jpg' alt='' class='instruction-image'></center>
 ---

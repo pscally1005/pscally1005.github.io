@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oat-Wheat Tortillas"
+title:  Oat-Wheat Tortillas
 date:   2023-05-01 00:00:00 -0500
 categories:
 - Recipes
@@ -55,7 +55,7 @@ Instructions:
 - Cut the dough into 6 equal portions (~72 g each), roll them into balls, cover, and let rest for 10 more minutes
 
 - Roll each ball with a rolling pin into a round shape tortilla. Roll as thin as possible
-- <center><img src='/assets/Food/Bread/Tortillas/tortilla-5.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Tortillas/tortilla-5.jpg' alt='' class='instruction-image'></center>
 
 - Cook on dry stainless steel 10" skillet over high heat (~7.5) for about 30-45 seconds per side, or until bubbles start to form and lightly browned on the bottom
 

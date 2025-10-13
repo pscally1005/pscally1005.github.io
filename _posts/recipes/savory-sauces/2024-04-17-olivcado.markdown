@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Olivcado Salad Dressing"
+title:  Olivcado Salad Dressing
 date:   2024-04-17 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Savory Sauces/Olivcado/olivcado-cover.jpg
 ing: olivcado-ing
 facts: olivcado-facts
 servingSize: 2 tbsp (30 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://youtu.be/LDTe3k7y5_I
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/XPzBj
-tags: 
+tags:
 - dressing
 - salad
 - spread
@@ -56,7 +56,7 @@ tags:
 - ceasar
 - mayo
 Description: This <a href='/misc/fake-healthy-foods#salad-dressing'>salad dressing</a> still packs healthy <a href='/misc/fats'>fats</a> while being vegan and oil free. It feels like a vegan Caesar dressing, using <a href='/misc/fruit#avocado'>avocado</a> and olives instead of mayo and anchovies. It's perfectly tangy and sweet from the balsamic, creamy from the avocado, and "cheesy" from the nutritional yeast.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
-Instructions: 
+Instructions:
 - Blend all ingredients in a small food processor until smooth. Adjust consistency by adding water if necessary, and add salt to taste if necessary (I thought it was good as is). Transfer to a container, and store in the fridge
-- <center><img src='/assets/Food/Savory Sauces/Olivcado/olivcado-1.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Olivcado/olivcado-1.jpg' alt='' class='instruction-image'></center>
 ---

@@ -596,6 +596,9 @@
         {% if showPercentage == "False" %}
             {% assign output = value | append: ' ' | append: unit %}
         {% endif %}
+        {% if page.title == "The ABCs of Nutrients" %}
+            {% assign output = value | append: ' ' | append: unit | append: '(' | append: percentage | append: ' %)' %}
+        {% endif %}
 
         <!-- Output fix for not present nutrient -->
         {% if output == "0.0 (0 %)" %}

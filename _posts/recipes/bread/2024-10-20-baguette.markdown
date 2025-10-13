@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Whole Wheat Baguettes"
+title:  Whole Wheat Baguettes
 date:   2024-10-20 00:00:00 -0500
 categories:
 - Recipes
@@ -21,22 +21,22 @@ image: /assets/Food/Bread/Baguette/bruschetta-portrait.jpg
 ing: baguette-ing
 facts: baguette-facts
 servingSize: 1 slice
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 30
 Rest: 120
 Cook: 15
 Source1: https://www.bakewithjack.co.uk/blog-1/2021/2/01/easy-baguettes
 Source2: https://www.youtube.com/watch?v=Xn05S9BKV7Q&t=2s
 whisk: https://s.samsungfood.com/6oWig
-tags: 
+tags:
 - bread
 - whole wheat
 - sandwich
@@ -48,22 +48,22 @@ tags:
 - french bread
 - garlic bread
 Description: I have strong memories of French baguettes and Italian bread from holidays growing up.  This recipe is simply my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>, but made into 4 small baguettes instead of a loaf of sandwich bread.  It's great toasted on it's own, or used for <a href='/recipes/breaded-chicken'>bruschetta</a>
-Instructions: 
+Instructions:
 - Microwave your water in a glass for about 1:15 minutes, until warm
 
 - In a large mixing bowl, add your dry ingredients - whole wheat flour, vital wheat gluten, salt, and yeast.  Pour in the water, and mix until well combined with a dough scraper.  Cover with a cloth and let rest for 30 minutes
 
 - 30 minutes later, turn the dough onto the table and knead for 10 minutes. When done, shape the dough into a tight ball, return dough to bowl (seam down), cover with a cloth, and let rise for 1-1.5 hours.  It will have about doubled after the initial rest
-- <center><img src='/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg' alt="" class="half-page"><img src='/assets/Food/Bread/Baguette/baguette-doubled.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg' alt='' class='half-page'><img src='/assets/Food/Bread/Baguette/baguette-doubled.jpg' alt='' class='half-page'></center>
 
 - Divide the dough in 4 equal pieces (about 210 g), form each dough into a tight ball, cover, and let rest for 15 minutes
-- <center><img src='/assets/Food/Bread/Baguette/baguette-balls.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Baguette/baguette-balls.jpg' alt='' class='instruction-image'></center>
 
 - Roll each piece into a tight baguette, pinching the seam shut.  Transfer the loaves to a baking sheet, dust the tops with flour, and score with a bread lame.  Cover and let rest for 1 hour
-- <center><img src='/assets/Food/Bread/Baguette/baguette-raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Baguette/baguette-raw.jpg' alt='' class='instruction-image'></center>
 
 - Meanwhile, preheat your oven to 450F with the baking stone on the middle shelf, and a 9x13" pan on the bottom shelf for the water.  You can bake on a cookie sheet instead, but the bottom won't be as crispy.  The water pan is to steam the bread, making the crust crispier.  This is optional as well
 
 - Put the baguettes into the oven onto the stone (or on the cookie sheet), and fill the bottom tray with hot water.  Bake for 15 minutes, or until the internal temperature is at least 205F, and the bottom sounds hollow when tapped.  Transfer to a wire rack, and let cool for 10 minutes before slicing
-- <center><img src='/assets/Food/Bread/Baguette/baguette-cooled.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Baguette/baguette-cooled.jpg' alt='' class='instruction-image'></center>
 ---

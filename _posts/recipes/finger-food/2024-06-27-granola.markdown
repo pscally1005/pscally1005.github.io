@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Low Sugar Granola"
+title:  Low Sugar Granola
 date:   2024-06-27 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Finger Foods
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Finger Food/Granola/granola-cover.jpg
 ing: granola-ing
 facts: granola-facts
 servingSize: 1/3 cup (42 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 30
 Source1: https://m.youtube.com/watch?v=wKZ8_Bwi6mo&pp=ygUPaGVhbHRoeSBncmFub2xh
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/b7IQ0
-tags: 
+tags:
 - granola
 - granola bar
 - oats
@@ -56,11 +56,11 @@ tags:
 - egg white
 - cinnamon
 Description: Granola is a healthy snack; or is it? (cue Vsauce music).  Most store bought <a href='/misc/fake-healthy-foods#granola'>granolas</a> tend to be filled with added sugars in the form of sweetened dried fruit, chocolate candies, and <a href='/misc/hidden-sugar'>corn syrup</a> to bind everything together, as well as unhealthy oils.  Not this granola though; it cuts down on the <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fats'>fat</a>, leaving you with just the macronutrients from the food itself.  That being the <a href='/misc/grains#oats'>oats</a> and the nuts, which are the star of the show.  Mix in whatever <a href='/misc/nuts'>nuts</a> you have, toast the granola in the oven, and use on top of <a href='/misc/dairy#yogurt'>yogurt</a> with fresh berries for a delicious and healthy breakfast!  If you prefer granola bars to granola, you should make my <a href='/recipes/granola-bars'>Peanut Butter Banana Granola Bars</a>
-Instructions: 
+Instructions:
 - Preheat your oven to 325F, and line a 9x13" pan with parchment paper
 
 - Add your oats to a large bowl. Roughly chop your nuts with a food processor, vegetable chopper, or knife, and add to the bowl. And in the rest of the dry ingredients (chia seeds, cinnamon, and salt) and mix with a spoon
-- <center><img src='/assets/Food/Finger Food/Granola/granola-2.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Granola/granola-2.jpg' alt='' class='instruction-image'></center>
 
 - Pour in the applesauce and sweetener, and mix with your spoon until fully incorporated
 
@@ -69,7 +69,7 @@ Instructions:
 - Transfer your mix to the pan, and press evenly with your hands, minimizing gaps
 
 - Bake for about 30 minutes, or until golden brown and lightly crispy. Let cool totally (at least 30 minutes on the counter) before breaking into small or large pieces (or both)
-- <center><img src='/assets/Food/Finger Food/Granola/granola-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Granola/granola-6.jpg' alt='' class='instruction-image'></center>
 
 - This recipe makes 16 servings. I had a final baked weight of 672 g, meaning each serving is 42 g. Store in a Ziploc bag in the fridge
 ---

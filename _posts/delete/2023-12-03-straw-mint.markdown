@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Strawberry Mint Protein Pistachio Butter"
+title:  Strawberry Mint Protein Pistachio Butter
 date:   2023-12-03 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sweet Spreads
 - Delete
@@ -22,22 +22,22 @@ image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-straw-mint.jpg
 ing: strawmint-ing
 facts: strawmint-facts
 servingSize: 2 tbsp (30 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/ojODH
-tags: 
+tags:
 - nut butter
 - peanut butter
 - almond butter
@@ -57,7 +57,7 @@ tags:
 - berries
 - strawberry
 Description: I love myself a classic natural <a href='/misc/nuts'>nut</a> butter, but sometimes I like to mix it up with various different flavors. It's sweet but sugar free, healthy, and lower in <a href='/misc/fats'>fat</a>, since some of the <a href='/misc/nuts'>nuts</a> are replaced with <a href='/misc/fruit'>fruit</a> or other ingredients. I've also added a scoop of protein powder to add some more <a href='/misc/protein'>protein</a>, since there is proportionally less nuts than regular <a href='/misc/nuts'>nut</a> butter.  For my other flavored <a href='/misc/protein'>protein</a> <a href='/recipes/natural-peanut-butter'>nut butters</a>, check out the links below:<br><ul><li><a href='/recipes/cran-almond'>Cranberry Protein Almond Butter</a></li><li><a href='/recipes/choc-pb'>Chocolate Banana Protein Peanut Butter</a></li></ul>.  You can also check out any of my other <a href='/nut-butter'>nut-butter recipes</a>!
-Instructions: 
+Instructions:
 - In a food processor, blend together the nuts until a smooth nut butter is formed. Scrape down the sides every minute or so. This should take about 5-10 minutes
 
 - Then, choose your flavor, and blend in the rest of the ingredients with the salt (optional, depending on the saltiness of your nuts), sweetener (liquid monk fruit or stevia), and protein powder (unflavored whey)

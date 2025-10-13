@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chocolate Raspberry Brownies"
+title:  Chocolate Raspberry Brownies
 date:   2025-09-12 00:00:00 -05000
 categories: 
 - Recipes
@@ -64,15 +64,15 @@ Instructions:
 - Melted (unsalted) butter or extra virgin olive oil will work in place of melted coconut oil
 
 - Add the dry ingredients to the wet, and mix until just fully combined
-- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/bowl.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/bowl.jpg' alt='' class='instruction-image'></center>
 
 - Transfer the batter to your parchment lined pan, and top with your raspberries, lightly pressing them into the batter
-- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/raw.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 350F for about 25 minutes, or until the edges are set, and a toothpick to the center comes out almost clean with a few moist crumbs
-- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/baked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/baked.jpg' alt='' class='instruction-image'></center>
 
 - Transfer the pan to the fridge, and let chill for at least 30 minutes before slicing.  Store leftover brownies in the fridge or freezer
-- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/cut.jpg' alt="" class="instruction-image"></center>
-- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/cover-1.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/cut.jpg' alt='' class='instruction-image'></center>
+- <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/cover-1.jpg' alt='' class='instruction-image'></center>
 ---

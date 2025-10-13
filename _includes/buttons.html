@@ -1,21 +1,21 @@
-<div class="recipe-buttons">
+<div class='recipe-buttons'>
   <center>
       <span>
 
         {% if page.categories[0] != "Misc." or page.categories[1] == "Unhealthy Recipes" %}
           {% unless page.title == "Food/Nutrition Meme Dump" %}
-            <a rel="" target="" href="#recipe" class="button">Recipe</a>
-            <a rel="" target="" href="#nutrition-facts" class="button">Nutrition</a>
+            <a rel="" target="" href="#recipe" class='button'>Recipe</a>
+            <a rel="" target="" href="#nutrition-facts" class='button'>Nutrition</a>
           {% endunless %}
         {% endif %}
 
-        <a rel="" target="" href="#disqus_thread" class="button">Comment</a>
-        <a onclick="window.print()" target="_blank" class="button">Print</a>
+        <a rel="" target="" href="#disqus_thread" class='button'>Comment</a>
+        <a onclick="window.print()" target="_blank" class='button'>Print</a>
 
         <br>
-        
+
         {% include share-buttons.html %}
-        
+
     </span>
   </center>
 </div>

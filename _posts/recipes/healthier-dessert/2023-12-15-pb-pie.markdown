@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Peanut Butter Banana Pie"
+title: Peanut Butter Banana Pie
 date:   2023-12-15 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 1 slice
 section1: Crust
 start2: Banana, overripe
 section2: Filling
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
 Rest: 240
-Cook: 
+Cook:
 Source1: https://ifoodreal.com/clean-no-bake-peanut-butter-pie/#wprm-recipe-container-37022
 Source2: https://poormanprotein.com/recipes/pie-crust
 whisk: https://s.samsungfood.com/qSjT7
-tags: 
+tags:
 - peanut butter pie
 - banana cream pie
 - dairy free
@@ -57,10 +57,10 @@ tags:
 - chill
 - vic
 Description: Peanut butter pie is a classic Christmas stable, but it's filled with tons of unhealthy <a href='/misc/fats'>fats</a> and <a href='/misc/hidden-sugar'>sugars</a>, making it super <a href='/misc/calories'>calorie</a> dense. This recipe boosts the <a href='/misc/protein'>protein</a> content while cutting back on the <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fats'>fat</a>, but still keeping that great flavor, while also being dairy free. It combines a <a href='/recipes/pie-crust'>Homemade Graham Cracker Pie Crust</a> with the <a href='/recipes/natural-peanut-butter'>peanut butter</a> and <a href='/misc/fruit#banana'>banana</a> filling that you'll love.  If you have a peanut allergy, just swap out the <a href='/recipes/natural-peanut-butter'>peanut butter</a> and <a href='https://amzn.to/4mZuQXM'>powdered peanut butter</a> for <a href='/recipes/natural-peanut-butter'>almond butter</a> and <a href='https://amzn.to/48awAJ9'>powdered almond butter</a>
-Instructions: 
+Instructions:
 - Prepare your <a href='/recipes/pie-crust'>homemade pie crust</a> according to the recipe.  My standard <a href='/recipes/pie-crust'>Healthier Pie Crust</a> is a regular graham craham cracker pie crust, though you can make it chocolate by using <a href='/recipes/gf-crackers'>Chocolate Graham Crackers</a>.  Alternatively, you can also use any storebought pie crust if you prefer.
-- <center><a href='/recipes/gf-crackers'><img src='/assets/Food/Finger Food/GF Crackers/cover.jpg' alt="" class="instruction-image"></a></center>
-- <center><a href='/recipes/pie-crust'><img src='/assets/Food/Healthier Dessert/Pie Crust/pie.jpg' alt="" class="instruction-image"></a></center>
+- <center><a href='/recipes/gf-crackers'><img src='/assets/Food/Finger Food/GF Crackers/cover.jpg' alt='' class='instruction-image'></a></center>
+- <center><a href='/recipes/pie-crust'><img src='/assets/Food/Healthier Dessert/Pie Crust/pie.jpg' alt='' class='instruction-image'></a></center>
 
 - Mash your bananas with the back of a fork in a large bowl.  Combine together the rest of the filling ingredients with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
 

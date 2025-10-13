@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Spinach & Onion Vegetable Medley"
+title:  Spinach & Onion Vegetable Medley
 date:   2023-11-30 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sides
 showPercentage: no
@@ -23,20 +23,20 @@ facts: medley-facts
 servingSize: About 190 g
 section1: Onions
 start2: Chili powder
-section2: Spices 
+section2: Spices
 start3: Spinach
 section3: Frozen spinach, thawed
 start4: Apple cider vinegar
 section4: Finish
-start5: 
-section5: 
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 30
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/4VpGN
-tags: 
+tags:
 - spinach
 - kale
 - collard greens
@@ -50,7 +50,7 @@ tags:
 - lemon
 - garlic
 Description: I made some variation of this dish all the time. Most often, I use this in my morning eggs, like <a href='/recipes/frittata'>Spinach and Onion Frittata</a> and <a href='/recipes/spinach-mushroom-scrambled-eggs'>Spinach & Mushroom Scrambled Eggs</a>.  Or pair it as your <a href='/misc/veggies'>vegetable</a> to a meal with just a <a href='/misc/meat'>meat</a> and <a href='/misc/carbs'>carb</a>, like <a href='/recipes/indian-chicken'>Indian Chicken and Potatoes</a> or <a href='/recipes/marinated-chicken'>Marinated Chicken with Air Fried Plantains</a>
-Instructions: 
+Instructions:
 - Heat a pan on medium heat with olive oil. Cut your onions into a small dice, and add to the pan with salt. Cover and cook with occasional stirring until they start to turn translucent, about 10 minutes
 
 - In a small bowl, mix together the spices, and set aside - chili powder, paprika, garlic powder, onion powder, cumin, and black pepper
@@ -58,5 +58,5 @@ Instructions:
 - When the onions are translucent and lightly browned, add in the chopped spinach and spices. Mix together, cover, and cook over medium heat until most of the water has cooked off, and the spinach is done to your liking; about 20 minutes
 
 - Stir in the apple cider vinegar and lime juice, taste for additional seasonings, and serve.  Here, I'm having these veggies as a side to a serving of <a href='/recipes/tilapia'>Air Fried Fish</a> and <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a>
-- <center><img src='/assets/Food/Sides/Medley/plate.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Sides/Medley/plate.jpg' alt='' class='instruction-image'></center>
 ---

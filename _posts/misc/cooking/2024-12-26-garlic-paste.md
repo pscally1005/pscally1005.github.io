@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Roasted Garlic Paste For Your Freezer"
+title:  Roasted Garlic Paste For Your Freezer
 date:   2024-12-26 00:00:00 -05000
 categories: 
 - Misc.
@@ -15,35 +15,35 @@ tags:
 - paste
 - freezer
 ---
-<u><b><font size="+2">Description</font></b></u><br>
+<u><b><font size='+2'>Description</font></b></u><br>
 &emsp;I normally cook with the jars of minced garlic (aka "jarlic") because it's more convenient, but it lacks that garlic-y pungency of fresh <a href='/misc/veggies#garlic'>garlic</a>.  The problem is that fresh <a href='/misc/veggies#garlic'>garlic</a> is a pain to work with.  It's papery and annoying, makes a mess, and hard to chop.  What's an easy and cheap way to get around this problem?
-<br><center><img src='/assets/Misc/Cooking/Garlic Paste/garlic.png' alt="" class="smaller-image"></center>
+<br><center><img src='/assets/Misc/Cooking/Garlic Paste/garlic.png' alt='' class='smaller-image'></center>
 
 &emsp;You can buy frozen garlic paste cubes that you can easily chuck in a dish for plenty of garlic flavor with little effort.  These products can be fairly expensive though.  But they're pretty easy to make on your own.
-<br><center><img src='/assets/Misc/Cooking/Garlic Paste/wallet.png' alt="" class="smaller-image"></center>
+<br><center><img src='/assets/Misc/Cooking/Garlic Paste/wallet.png' alt='' class='smaller-image'></center>
 
 &emsp;My grocery store recently had a ton of garlic on sale.  I was able to get all these cloves for just $2.32.  I'm going to be roasting my own garlic, mashing it into a paste, freezing them in ice cube trays, and then transferring to an airtight bag.  Whenever I want some garlic in my cooking (so always lmao), I just have to chuck a frozen cube in my food and have it defrost.  Boom, easy roasted garlic!
-<br><center><img src='/assets/Misc/Cooking/Garlic Paste/cloves.jpg' alt="" class="instruction-image"></center>
+<br><center><img src='/assets/Misc/Cooking/Garlic Paste/cloves.jpg' alt='' class='instruction-image'></center>
 
-<u><b><font size="+2">Instructions</font></b></u><br>
+<u><b><font size='+2'>Instructions</font></b></u><br>
 <ol>
     <li>
         Preheat your oven to 350F, and line a cookie sheet with parchment paper.  
     </li><br>
     <li>
         Separate the individual cloves from the whole head, but don't peal them.  Wrap a handful of garlic cloves in aluminum foil, and place on the cookie sheet
-        <br><br><center><img src='/assets/Misc/Cooking/Garlic Paste/raw.jpg' alt="" class="instruction-image"></center>
+        <br><br><center><img src='/assets/Misc/Cooking/Garlic Paste/raw.jpg' alt='' class='instruction-image'></center>
     </li><br>
     <li>
         Roast at 350F for about 1 hour, or until the garlic is soft and lightly brownied.  Unwrap each of the foils to allow the garlic to cool for a few minutes
-        <br><br><center><img src='/assets/Misc/Cooking/Garlic Paste/roasted.jpg' alt="" class="instruction-image"></center>
+        <br><br><center><img src='/assets/Misc/Cooking/Garlic Paste/roasted.jpg' alt='' class='instruction-image'></center>
     </li><br>
     <li>
         Squeeze the cloves of garlic out from the skin into a bowl (this is the fun part).  Mash with a fork until you have a smooth paste
-        <br><br><center><img src='/assets/Misc/Cooking/Garlic Paste/bowl.jpg' alt="" class="instruction-image"></center>
+        <br><br><center><img src='/assets/Misc/Cooking/Garlic Paste/bowl.jpg' alt='' class='instruction-image'></center>
     </li><br>
     <li>
         Add your garlic paste to an ice cube tray, and freeze until solid, about 2 hours.  Transfer to an airtight bag, and store in the freezer
-        <br><br><center><img src='/assets/Misc/Cooking/Garlic Paste/tray.jpg' alt="" class="half-page"><img src='/assets/Misc/Cooking/Garlic Paste/bag.jpg' alt="" class="half-page"></center>
+        <br><br><center><img src='/assets/Misc/Cooking/Garlic Paste/tray.jpg' alt='' class='half-page'><img src='/assets/Misc/Cooking/Garlic Paste/bag.jpg' alt='' class='half-page'></center>
     </li><br>
 </ol>

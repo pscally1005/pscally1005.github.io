@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Neopolitan Banana Ice Cream"
+title:  Neopolitan Banana Ice Cream
 date:   2024-04-16 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/neopolitan-banana-ice-cream
 image: /assets/Food/Healthier Dessert/Neopolitan/neopolitan-cover.jpg
 ing: neopolitan-ing
 facts: neopolitan-facts
-servingSize: 
+servingSize:
 section1: Vanilla
 start2: Frozen Bananas, overripe
 section2: Strawberry
 start3: Frozen overripe bananas
 section3: Chocolate
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://theveglife.com/neapolitan-banana-nice-cream-vegan/#wprm-recipe-container-10091
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/kyeYg
-tags: 
+tags:
 - no bake
 - ice cream
 - nice cream
@@ -48,20 +48,20 @@ tags:
 - unsweetened vanilla almond milk
 - vic
 Description: I love <a href='/misc/fruit#banana'>banana</a> ice cream, but I've never tried making a larger batch to store in the freezer until now. Check out my original recipe, <a href='/recipes/nice-cream'>Banana Nice Cream</a>, for a single serving version.  This take on the classic is way healthier than traditional, as it contains no <a href='/misc/hidden-sugar'>added sugar</a> or <a href='/misc/fats'>fat</a>, just fruit! For a healthy <a href='/misc/fats'>fat</a> source, feel free to add <a href='/recipes/natural-peanut-butter'>nut butter</a> to either the chocolate or the vanilla flavors. Banana ice cream tastes like a lighter version of traditional ice cream, that packs just as much flavor, without leaving you feeling sluggish afterward
-Instructions: 
+Instructions:
 - In order to keep the colors consistent, it's better to go from lightest to darkest color in order. Meaning, start with the vanilla, then strawberry, then finish with the chocolate
 
 - The day before, break all your bananas into large chunks, about 0.5-1" in thickness. Add to a large ziploc bag, and freeze overnight
 
 - For the vanilla, add 2 bananas (220 g) to a food processor. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in milk (2 tbsp, 30 g) and vanilla. Transfer to a loaf pan, only filling up 1/3 of the left side of the pan
-- <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-3.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-3.jpg' alt='' class='instruction-image'></center>
 
 - For the strawberry, add 1 banana (110 g) to a food processor with frozen strawberries. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in milk (2 tbsp, 30 g). Transfer to a loaf pan, only filling up 1/3 of the right side of the pan
-- <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-4.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-4.jpg' alt='' class='instruction-image'></center>
 
 - Finally, for the chocolate, add 2 bananas (220 g) to a food processor. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in the milk (2 tbsp, 30 g) and cocoa. Transfer to a loaf pan, filling in the 1/3 gap in the center
-- <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-5.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-5.jpg' alt='' class='instruction-image'></center>
 
 - Add plastic wrap to the top of the ice cream, pressing it in to make sure there's no gap between. Transfer to the freezer to store and firm before scooping, or enjoy right away
-- <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-6.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-6.jpg' alt='' class='instruction-image'></center>
 ---

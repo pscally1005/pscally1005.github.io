@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peanut Butter & Jelly Muffins"
+title:  Peanut Butter & Jelly Muffins
 date:   2023-05-24 00:00:00 -0500
 categories:
 - Recipes
@@ -26,17 +26,17 @@ start2: Banana, overripe
 section2: Wet
 start3: Frozen blueberries
 section3: Min-ins
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 22
 Source1: https://www.youtube.com/watch?v=4AaCp1rMbGo&t=1s
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/r2wV1
-tags: 
+tags:
 - oatmeal
 - oats
 - quick oats
@@ -62,7 +62,7 @@ tags:
 - mini muffin
 - frozen blueberries
 Description: Blueberry <a href='/misc/fake-healthy-foods#muffins'>muffins</a> are a classic quick grab and go breakfast for a reason, but they're traditionally loaded with added sugars and oils. These ones however are much healthier than the classic though, packing <a href='/misc/fiber'>fiber</a> with <a href='/misc/grains#oats'>oat flour</a>, and avoiding tons of added sugars and unhealthy <a href='/misc/fats'>fats</a>.  Check out my <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a> and my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a> for similar recipes
-Instructions: 
+Instructions:
 - In a large bowl, whisk together the dry ingredients - quick oats, cornstarch, powdered peanut butter, and baking soda
 
 - In a separate medium bowl, mash the banana. Add the rest of the wet ingredients - yogurt, <a href='/recipes/natural-peanut-butter'>nut butter</a>, applesauce, egg, and maple syrup (or honey)

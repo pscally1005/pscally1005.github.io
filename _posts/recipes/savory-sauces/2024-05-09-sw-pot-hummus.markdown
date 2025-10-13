@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Golden Sweet Potato Hummus"
+title:  Golden Sweet Potato Hummus
 date:   2024-05-09 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -24,19 +24,19 @@ servingSize: 2 tbsp (31 g)
 section1: Baked Potato
 start2: Chickpeas, drained and rinsed
 section2: Hummus
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 60
 Source1: https://www.youtube.com/watch?v=u_ZCsFfyQjU
 Source2: https://www.youtube.com/watch?v=9kAP5LRZgRk
 whisk: https://s.samsungfood.com/Efjwy
-tags: 
+tags:
 - hummus
 - spread
 - dip
@@ -56,7 +56,7 @@ tags:
 - ginger
 - cayenne
 Description: After making my <a href='/recipes/air-fried-falafel'>🧆 Air Fryer Falafel (GF) 🥙</a>, I realized that <a href='/misc/veggies#sweet-potato'>sweet potato</a> and <a href='/misc/beans#chickpeas'>chickpeas</a> are a fantastic combination.  This sweet potato hummus combines the two together perfectly, and has the addition of anti-inflammatory spices, such as ginger, turmeric, and cinnamon.  It's creamy and delicious on a salad or wrap, has a great orange hue, and is high in <a href='/misc/fiber'>fiber</a> while being lower in <a href='/misc/fats'>fat</a> than store-bought hummus.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
-Instructions: 
+Instructions:
 - Wash your sweet potato with a brush, and prick with a fork. Wrap in aluminum foil, and air fry at 400F for 1 hour. Slice open to let steam out as you prepare the rest of the ingredients
 
 - Drain and rinse your chickpeas using a strainer. Add to a large food processor with sweet potato (including the skin!), lemon, garlic, and nut butter.  I've used pistachio butter here, but you can use almond butter, tahini, or any other natural nut/seed butter you have. Blend until smooth

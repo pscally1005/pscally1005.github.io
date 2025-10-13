@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Easy Red Lentils"
+title:  Easy Red Lentils
 date:   2024-08-27 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Sides
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/red-lentils
 image: /assets/Food/Sides/Lentils/lentils.jpg
 ing: lentils-ing
 facts: lentils-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 2
-Rest: 
+Rest:
 Cook: 8
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/tWToI
-tags: 
+tags:
 - lentils
 - red lentils
 - split red lentils
@@ -51,7 +51,7 @@ tags:
 - protein
 - fiber
 Description: Red <a href='/misc/beans#red-lentils'>lentils</a> are a fantastic addition to your diet. They're a great side <a href='/misc/carbs'>carb</a> source that is also high in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>. Red split lentils are just as easy to cook as <a href='/misc/grains#brown-rice'>rice</a>, take a fraction of the time, and are healthier. And they're not that much more expensive too. I got a 1 lb bag for $1.50, and normally <a href='/misc/grains#brown-rice'>brown rice</a> runs me $1 per lb.
-Instructions: 
+Instructions:
 - Add everything to a small pot. Cover and bring to a boil
 
 - Keep covered, reduce heat to low to maintain a simmer, and cook for 5-8 minutes, stirring occasionally

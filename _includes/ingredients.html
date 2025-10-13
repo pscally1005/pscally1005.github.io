@@ -84,19 +84,19 @@
     {% endif %}
 
     <!-- Print total and serving costs -->
-    <div class="cost-section">
-        <div class="recipe-header">Cost</div>
+    <div class='cost-section'>
+        <div class='recipe-header'>Cost</div>
         <div id="recipe"></div>
-        <div class="ingredient-item" style="margin-bottom: 5px !important; display: inline !important;">
-                <div class="recipe-section-bold" style="font-style: normal !important;">Total Cost: </div>
-                <div class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}"></div>
+        <div class='ingredient-item' style="margin-bottom: 5px !important; display: inline !important;">
+                <div class='recipe-section-bold' style="font-style: normal !important;">Total Cost: </div>
+                <div class='recipe-costs' data-base-recipe-cost="{{ recipeCost }}"></div>
                 <br>
-                <div class="recipe-section-bold" style="font-style: normal !important;">Cost per Serving: </div>
-                <div class="total-cost">${{ servingCostString }}</div>
+                <div class='recipe-section-bold' style="font-style: normal !important;">Cost per Serving: </div>
+                <div class='total-cost'>${{ servingCostString }}</div>
 
-                <span class="recipe-vol" style="display: none;"></span>
-                <span class="recipe-grams" data-base-mass="{{ mass }}" style="display: none;"></span>
-                <span class="ingredient-cost" data-base-cost="{{ totalCost }}" style="display: none;"></span>
+                <span class='recipe-vol' style="display: none;"></span>
+                <span class='recipe-grams' data-base-mass="{{ mass }}" style="display: none;"></span>
+                <span class='ingredient-cost' data-base-cost="{{ totalCost }}" style="display: none;"></span>
         </div>
     </div>
 
@@ -104,24 +104,24 @@
 
 <!-- Print section title -->
 {% if ing and recipe == "true" %}
-    <div class="recipe-header">Ingredients</div>
+    <div class='recipe-header'>Ingredients</div>
 {% endif %}
 
 <!-- Serving Controls -->
 {% if recipe == "true" %}
-    <div class="serving-controls">
+    <div class='serving-controls'>
         <button id="decrease">-</button>
         <input type="number" id="servingCount" value="1" min="1" step="0.1" />
         <button id="increase">+</button>
         <span><b>Serving(s)</b></span> <!-- Added serving(s) display -->
-        <button id="half" class="half-button">&frac12x</button> <!-- Half button -->
-        <button id="reset" class="reset-button">1x</button> <!-- Reset button -->
-        <button id="double" class="double-button">2x</button> <!-- Double button -->
+        <button id="half" class='half-button'>&frac12x</button> <!-- Half button -->
+        <button id="reset" class='reset-button'>1x</button> <!-- Reset button -->
+        <button id="double" class='double-button'>2x</button> <!-- Double button -->
     </div>
 {% endif %}
 
 <!-- Ingredient Display -->
-<div class="ingredients">
+<div class='ingredients'>
     {% for row in loopVar %}
         {% if forloop.last %}
             {% assign base_servings = row["Amount"] | plus: 0 %}  <!-- Ensure it converts to a number -->
@@ -130,7 +130,7 @@
 
     <!-- Section 1 -->
     {% if !page.section1 %}
-        <div class="ingredients-section">{{ page.section1 }}</div>
+        <div class='ingredients-section'>{{ page.section1 }}</div>
     {% endif %}
 
     <ul>
@@ -148,28 +148,28 @@
                 <!-- Section 2 -->
                 {% if food == page.start2 %}
                     {% if !page.section2 %}
-                        </ul><div class="ingredients-section">{{ page.section2 }}</div><ul>
+                        </ul><div class='ingredients-section'>{{ page.section2 }}</div><ul>
                     {% endif %}
                 {% endif %}
 
                 <!-- Section 3 -->
                 {% if food == page.start3 %}
                     {% if !page.section3 %}
-                        </ul><div class="ingredients-section">{{ page.section3 }}</div><ul>
+                        </ul><div class='ingredients-section'>{{ page.section3 }}</div><ul>
                     {% endif %}
                 {% endif %}
 
                 <!-- Section 4 -->
                 {% if food == page.start4 %}
                     {% if !page.section4 %}
-                        </ul><div class="ingredients-section">{{ page.section4 }}</div><ul>
+                        </ul><div class='ingredients-section'>{{ page.section4 }}</div><ul>
                     {% endif %}
                 {% endif %}
 
                 <!-- Section 5 -->
                 {% if food == page.start5 %}
                     {% if !page.section5 %}
-                        </ul><div class="ingredients-section">{{ page.section5 }}</div><ul>
+                        </ul><div class='ingredients-section'>{{ page.section5 }}</div><ul>
                     {% endif %}
                 {% endif %}
 
@@ -190,21 +190,21 @@
                 {% assign totalCost = unitCost | times: mass %}
 
                 <!-- Ingredient display -->
-                <div class="ingredient-item" style="margin-bottom: 5px; display: inline-block;">
+                <div class='ingredient-item' style="margin-bottom: 5px; display: inline-block;">
                     <li>
-                        <span class="recipe-vol">{{ vol }}</span>
-                        {% if recipe == "true" %} <span class="recipe-grams" data-base-mass="{{ mass }}"></span> {% endif %}
-                        {% if recipe == "false" %} <span class="recipe-grams">({{ mass }} g)</span> {% endif %}
+                        <span class='recipe-vol'>{{ vol }}</span>
+                        {% if recipe == "true" %} <span class='recipe-grams' data-base-mass="{{ mass }}"></span> {% endif %}
+                        {% if recipe == "false" %} <span class='recipe-grams'>({{ mass }} g)</span> {% endif %}
 
                         {% if link %}
-                            <span class="recipe-food"><a href="{{link}}" target="_blank" rel="noopener noreferrer">{{ food }}</a></span>
+                            <span class='recipe-food'><a href="{{link}}" target="_blank" rel="noopener noreferrer">{{ food }}</a></span>
                         {% else %}
-                            <span class="recipe-food">{{ food }}</span>
+                            <span class='recipe-food'>{{ food }}</span>
                         {% endif %}
 
                         {% if recipe == "true" %}
-                            <span class="ingredient-cost" data-base-cost="{{ totalCost }}"></span>
-                            <span class="recipe-costs" data-base-recipe-cost="{{ recipeCost }}" style="display:none"></span>
+                            <span class='ingredient-cost' data-base-cost="{{ totalCost }}"></span>
+                            <span class='recipe-costs' data-base-recipe-cost="{{ recipeCost }}" style="display:none"></span>
                         {% endif %}
                     </li>
                 </div>

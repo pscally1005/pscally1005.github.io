@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Classic Fudgy Brownies"
+title:  Classic Fudgy Brownies
 date:   2024-07-01 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Unhealthy Recipes
 brownie: yes
@@ -11,22 +11,22 @@ image: /assets/Misc/Unhealthy/Brownies/cover.jpg
 ing: brownies-ing
 facts: brownies-facts
 servingSize: 1 brownie
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
+Rest:
 Cook: 25
 Source1: https://cafedelites.com/best-fudgy-cocoa-brownies/#recipe
 Source2: https://youtu.be/qpF5B_jHZrw?si=elQjFbyIdoYjjh3O
 whisk: https://s.samsungfood.com/qY39J
-tags: 
+tags:
 - brownie
 - fudgy
 - butter
@@ -44,7 +44,7 @@ tags:
 - chocolate chunks
 - vanilla
 Description: I think of a single person who doesn't like brownies. As with my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, here's a standard dessert recipe, with <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a>. I like to bake traditional desserts occasionally, and these are ones that you know everyone will love at a party. They're not healthy at all, unlike most things on this page, but that's okay; enjoy these in morderation.  Or check out any of my other <a href='/brownies'>healthy brownie recipes</a>!
-Instructions: 
+Instructions:
 - Preheat your oven to 350F, and grease either an <a href='https://amzn.to/4kzchJ3'>11.5x7"</a> or a <a href='https://amzn.to/4mAvtr9'>9x9"</a> pan with oil. Make sure to coat it well; you don't want the brownies to stick to the pan
 
 - Melt your butter in the microwave. Combine together melted butter, oil, and sugar with a hand mixer until the sugar is very well incorporated, about a minute
@@ -68,5 +68,5 @@ Instructions:
 - Bake at 350F for about 20-25 minutes. Just until the center of the brownies no longer jiggles and is set to the touch. A toothpick should come out slightly dirty. Too wet and the brownies are raw; clean and the brownies are overcooked
 
 - Allow the brownies to cool in the fridge for at least 30 minutes before slicing with a plastic knife.  I got 24 squares out of my glass 11.5x7" pan, but I'll get 16 slightly bigger brownies from a 9" square pan.  Nutrition facts are assuming 24 brownies
-- <center><img src='/assets/Misc/Unhealthy/Brownies/sliced.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Misc/Unhealthy/Brownies/sliced.jpg' alt='' class='instruction-image'></center>
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Chocolate Covered Garlic Cloves"
+title:  Chocolate Covered Garlic Cloves
 date:   2023-04-01 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meme Recipes
 - Delete
@@ -21,23 +21,23 @@ permalink: /recipes/chocolate-covered-garlic
 image: /assets/Food/Meme/Garlic/garlic.jpg
 ing: garlic-ing
 facts: garlic-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 20
-Rest: 
+Rest:
 Cook: 40
 Source1: https://www.simplyrecipes.com/recipes/roasted_garlic/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/mr6VY
-tags: 
+tags:
 - april fools day
 - april fool's day
 - melted chocolate
@@ -47,7 +47,7 @@ tags:
 - chocolate covered raisins
 - vic
 Description: This was something stupid I did for April Fool's Day, where I passed them off as chocolate covered <a href='/misc/fruit#raisin'>raisins</a>. This is a fun and harmless prank to anyone not expecting it.
-Instructions: 
+Instructions:
 - Preheat oven to 400F and line small baking sheet with aluminum foil
 
 - Cut garlic in half and take out the cloves. Leave the skin on

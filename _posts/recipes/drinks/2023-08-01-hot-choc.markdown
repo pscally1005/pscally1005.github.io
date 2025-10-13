@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "High Protein Hot Chocolate"
+title:  High Protein Hot Chocolate
 date:   2023-08-01 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/hot-chocolate
 image: /assets/Food/Drinks/Hot Chocolate/hot-choc.jpg
 ing: hotchoc-ing
 facts: hotchoc-facts
-servingSize: 
+servingSize:
 section1: Dry
 start2: Unsweetened almond milk
 section2: Wet
 start3: Vanilla extract
 section3: End
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 5
 Source1: https://www.theconsciousplantkitchen.com/protein-hot-chocolate/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/lbW8d
-tags: 
+tags:
 - cocoa
 - winter
 - sip
@@ -50,8 +50,8 @@ tags:
 - granulated monk fruit
 - cinnamon
 Description: Typical hot chocolate is full of <a href='/misc/hidden-sugar'>added sugars</a>, which is not what I'm about. The whey protein here makes this like a warm <a href='/misc/protein'>protein</a> shake, and it's sweetened with granulated monk fruit too. This is great after being outside in the snow for hours, and is a much healthier way to enjoy the classic drink.  Or you can make my <a href='/recipes/unsweetened-hot-cocoa'>Unsweetened Hot Cocoa</a>
-Instructions: 
-- Add the dry ingredients to a small saucepot, and whisk in the milk.  
+Instructions:
+- Add the dry ingredients to a small saucepot, and whisk in the milk.
 
 - Heat over medium, whisking frequently, until just boiling and creamy, about 5 minutes
 

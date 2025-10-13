@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nontraditional Kung Pao Chicken"
+title:  Nontraditional Kung Pao Chicken
 date:   2024-11-16 00:00:00 -0500
 categories:
 - Recipes
@@ -20,7 +20,7 @@ permalink: /recipes/kung-pao-chicken
 image: /assets/Food/Chicken/Kung Pao/kung-pao-cover.jpg
 ing: kungpao-ing
 facts: kungpao-facts
-servingSize: 
+servingSize:
 section1: Rice
 start2: Yellow squash
 section2: Veggies
@@ -31,12 +31,12 @@ section4: Chicken
 start5: Soy sauce, low sodium, gluten free
 section5: Sauce
 Prep: 20
-Rest: 
+Rest:
 Cook: 40
 Source1: https://www.slenderkitchen.com/recipe/healthy-kung-pao-chicken
 Source2: https://natashaskitchen.com/kung-pao-chicken/
 whisk: https://s.samsungfood.com/rkNqC
-tags: 
+tags:
 - chicken breast
 - kung pao chicken
 - chinese
@@ -52,26 +52,26 @@ tags:
 - ginger
 - balsamic
 Description: Here's my take on a healthy Kung Pao Chicken. It avoids directly adding in any <a href='/misc/hidden-sugar'>sugar</a> or honey, and doesn't use sugary sauces like hoisin and sriracha. It's mildly sweet from the gochujang and monk fruit, while being bulked up with <a href='/misc/veggies#yellow-squash'>yellow squash</a>. I'm using less oil than typical here, and I've paired it with a side of healthier <a href='/misc/grains#brown-rice'>brown rice</a> instead of <a href='/misc/grains#white-rice'>white rice</a>. Top it with chopped <a href='/misc/nuts#peanuts'>peanuts</a>, and you're sure to love this twist on the classic dish
-Instructions: 
+Instructions:
 - Add rice, chicken bouillon, and water to a medium pot. Cover and bring to a boil on high heat. Lower to medium, cover, and let simmer for about 30 minutes, until all water is absorbed
-- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-rice.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-rice.jpg' alt='' class='instruction-image'></center>
 
 - Meanwhile, heat a large pan medium heat with oil. Cut your yellow squash into thin quarters, and add to the pot along with salt and pepper. Cover and cook until the translucent and caramelized. Transfer to a large bowl
-- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-squash-raw.jpg' alt="" class="half-page"><img src='/assets/Food/Chicken/Kung Pao/kung-pao-squash-cooked.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-squash-raw.jpg' alt='' class='half-page'><img src='/assets/Food/Chicken/Kung Pao/kung-pao-squash-cooked.jpg' alt='' class='half-page'></center>
 
 - As the squash cooks, finely chop your garlic and ginger, and set aside (garlic and ginger together). Finely chop the peanuts, and set aside (separate from the garlic/ginger). Dice your chicken into 1" cubes
-- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-chopped.jpg' alt="" class="half-page"><img src='/assets/Food/Chicken/Kung Pao/kung-pao-chicken-raw.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-chopped.jpg' alt='' class='half-page'><img src='/assets/Food/Chicken/Kung Pao/kung-pao-chicken-raw.jpg' alt='' class='half-page'></center>
 
 - When the squash is cooked and in the bowl, add the garlic, ginger, chicken, and oil to the pan.  Cook over medium heat until chicken reaches 165F, and transfer to the bowl with the squash
-- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-chicken-cooked.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-chicken-cooked.jpg' alt='' class='instruction-image'></center>
 
 - Meanwhile, mix together your sauce in a medium glass - soy sauce, balsamic, white vinegar, gochujang, liquid monk fruit, and cornstarch.  Mix well; make sure these are no clumps of cornstarch of gochujang
-- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-sauce.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-sauce.jpg' alt='' class='instruction-image'></center>
 
 - When the chicken is cooked and the pan is empty, add the sauce to the pan over medium heat. Cook for 1 minute with constant stirring, until the sauce is syrupy, glossy, and thickened. Transfer to the bowl
-- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-syrup.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-syrup.jpg' alt='' class='instruction-image'></center>
 
 - Mix together the yellow squash, chicken, and sauce. Add to a bowl with the rice on the side, top with chopped peanuts, and serve
-- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-mixed.jpg' alt="" class="instruction-image"></center>
-- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-parts.jpg' alt="" class="half-page"><img src='/assets/Food/Chicken/Kung Pao/kung-pao-containers.jpg' alt="" class="half-page"></center>
+- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-mixed.jpg' alt='' class='instruction-image'></center>
+- <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-parts.jpg' alt='' class='half-page'><img src='/assets/Food/Chicken/Kung Pao/kung-pao-containers.jpg' alt='' class='half-page'></center>
 ---

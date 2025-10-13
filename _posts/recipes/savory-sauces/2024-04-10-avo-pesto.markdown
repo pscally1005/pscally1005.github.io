@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Avocado Pesto - Vegan and Oil Free"
+title:  Avocado Pesto - Vegan and Oil Free
 date:   2024-04-10 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Savory Sauces
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Savory Sauces/Avo Pesto/cover.jpg
 ing: avopesto-ing
 facts: avopesto-facts
 servingSize: 2 tbsp (29 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 5
 Source1: https://www.youtube.com/watch?v=VNjINHa_dck
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/0ySW3
-tags: 
+tags:
 - spinach
 - basil
 - sauce
@@ -51,15 +51,15 @@ tags:
 - grated cheese
 - parmesan
 Description: Anyone else love <a href='/misc/fake-healthy-foods#sauces'>pesto</a>, but hate how oily it is? I've made lower oil pesto before, but now I'm fully going none, and instead using <a href='/misc/fruit#avocado'>avocado</a> for my <a href='/misc/fats'>fat</a>. Hey look, I actually used <a href='/misc/nuts#pine-nuts'>pine nuts</a> here too! (not <a href='/misc/nuts#peanuts'>peanuts</a> this time lol, but I won't judge).  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href='/misc/protein'>protein</a> versions
-Instructions: 
+Instructions:
 - In a dry pan over medium heat, toast your pine nuts (1 oz is about 1/4 cup) for about 3 minutes, until they are fragrant and begin to brown. Any other nuts will work here; or use pumpkin seeds to make it nut free. Transfer to a food processor
-- <center><img src='/assets/Food/Savory Sauces/Avo Pesto/nuts.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Avo Pesto/nuts.jpg' alt='' class='instruction-image'></center>
 
 - Blend the nuts with the rest of the ingredients until a smooth sauce forms. I've used fresh spinach here, but frozen spinach or fresh basil will work just as well. Grated cheese will work in place of nutritional yeast. Thin with water or lemon juice if desired
 
 - Transfer to an airtight container, and store in the fridge.  It works great as a pizza sauce, which I've both on my <a href='/recipes/cloud-bread'>Low Carb Cloud Bread</a>
-- <center><img src='/assets/Food/Bread/Cloud Bread/cloud-cover.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Bread/Cloud Bread/cloud-cover.jpg' alt='' class='instruction-image'></center>
 
 - Pesto makes a great sauce for spaghetti squash.  Just like with my <a href='/recipes/vegan-mac-and-cheese'>'Mac' and 'Cheese'</a>, you can mix it with roasted spaghetti squash for a delicious and healthier pasta alternative!
-- <center><img src='/assets/Food/Savory Sauces/Avo Pesto/spaghetti-squash.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Savory Sauces/Avo Pesto/spaghetti-squash.jpg' alt='' class='instruction-image'></center>
 ---

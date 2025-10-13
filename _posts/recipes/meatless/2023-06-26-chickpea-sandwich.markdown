@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mashed Chickpea Sandwich"
+title:  Mashed Chickpea Sandwich
 date:   2023-06-26 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meatless
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/chickpea-sandwich
 image: /assets/Food/Meatless/Chickpea Sandwich/chickpea-sand.jpg
 ing: chickpeasand-ing
 facts: chickpeasand-facts
-servingSize: 
+servingSize:
 section1: Chickpeas
 start2: Whole wheat bread
 section2: Bread
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://www.youtube.com/watch?v=XnSdNMsmbEk
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/Kw0NE
-tags: 
+tags:
 - hummus
 - mashed hummus
 - chickpea
@@ -48,7 +48,7 @@ tags:
 - bread
 - lunch
 Description: This sandwich is like having chunky hummus on bread, and is a lunch favorite of mine. No cooking required, and it comes together in just a few minutes. Use some <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a> or <a href='/recipes/protein-wrap'>High Protein Flatbread Wrap</a>, and you have a quick and nutritious lunch for the next few days.
-Instructions: 
+Instructions:
 - Finely chop the onion. Add to a bowl with rest of ingredients (besides the bread lol)
 
 - Roughly mash with a fork or potato masher

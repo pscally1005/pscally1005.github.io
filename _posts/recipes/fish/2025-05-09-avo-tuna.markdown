@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Avocado Tuna Salad"
+title:  Avocado Tuna Salad
 date:   2025-05-09 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Fish
 showPercentage: no
@@ -21,22 +21,22 @@ image: /assets/Food/Fish/Avocado Tuna Salad/plate.jpg
 ing: avotuna-ing
 facts: avotuna-facts
 servingSize: 265 g
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4:  
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 10
-Rest: 
-Cook: 
-Source1: 
-Source2: 
+Rest:
+Cook:
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/8LgCr
-tags: 
+tags:
 - canned tuna in water
 - avocado
 - extra virgin olive oil
@@ -50,7 +50,7 @@ tags:
 - tuna salad
 - tuna fish
 Description: This healthy <a href='/misc/fish#tuna'>tuna</a> salad, or <a href='/misc/fish#tuna'>tuna</a> fish, uses a base of <a href='/misc/fruit#avocado'>avocado</a> instead of mayonnaise. That means it's significantly lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, and the quality of <a href='/misc/fats'>fat</a> is much higher. Avocados are high in heart healthy mono unsaturated <a href='/misc/fats'>fats</a>, as opposed to mayo, which is nothing but empty <a href='/misc/calories'>calorie</a> inflammatory seed oils. With <a href='/misc/fish#tuna'>tuna</a> canned in water, this high <a href='/misc/protein'>protein</a> dish can be used as a sandwich filling, salad topper, or even a dip for raw <a href='/misc/veggies'>vegetables</a>.  For a <a href='/misc/dairy#yogurt'>Greek yogurt</a> based <a href='/misc/fish#tuna'>tuna</a> salad, check out my <a href='/recipes/tuna-salad'>No-Mayo Tuna Salad</a>
-Instructions: 
+Instructions:
 - Cut your onion into a fine dice, and add to a medium bowl. Add the avocado to the bowl, and mash with the back of a fork. Drain your tuna, and add to the bowl with the rest of the ingredients. Mix until fully combined
-- <center><img src='/assets/Food/Fish/Avocado Tuna Salad/bowl.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Fish/Avocado Tuna Salad/bowl.jpg' alt='' class='instruction-image'></center>
 ---

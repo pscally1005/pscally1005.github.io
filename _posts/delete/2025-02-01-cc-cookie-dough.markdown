@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Protein Cookie Dough Bowl"
+title:  Protein Cookie Dough Bowl
 date:   2025-02-01 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Protein Powder
 - Delete
@@ -21,23 +21,23 @@ permalink: /recipes/protein-cookie-dough-bowl
 image: /assets/Food/Protein Powder/CC Cookie Dough/cc-cookie-dough.jpg
 ing: cccookiedough-ing
 facts: cccookiedough-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://www.eatingbirdfood.com/cottage-cheese-cookie-dough/#wprm-recipe-container-127429
 Source2: https://www.youtube.com/shorts/atCrN5xW-Qo
 whisk: https://s.samsungfood.com/Sk9Qc
-tags: 
+tags:
 - cookie dough
 - cottage cheese
 - nonfat cottage cheese
@@ -54,7 +54,7 @@ tags:
 - unsweetened chocolate
 - liquid monk fruit
 Description: This recipe is an adapted version of the viral healthy <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> cookie dough made even healthier. It can serve 1 person as a breakfast, or can be portioned and stored in the fridge as a snack. It's super high in <a href='/misc/protein'>protein</a> from the <a href='/misc/dairy#yogurt'>yogurt</a>, cottage cheese, and protein powder, while also containing a lot of <a href='/misc/fiber'>fiber</a> (coconut flour), as well as some healthy <a href='/misc/fats'>fats</a> (unsweetened chocolate).  You can also check out any of my other <a href='/yogurt'>yogurt</a> or <a href='/cookie'>cookie</a> recipes!
-Instructions: 
+Instructions:
 - I always pre-blend my entire cottage cheese container when I buy it, but if yours isn't blended then you can make this in the food processor
 
 - In a medium bowl, mix together your ingredients (except the chocolate). Optionally, add 1-2 tbsp (16-32 g) of any natural nut butter

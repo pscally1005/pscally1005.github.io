@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Golden Milk, aka Sleepy Smoothie"
+title:  Golden Milk, aka Sleepy Smoothie
 date:   2025-04-14 00:00:00 -0500
 categories:
 - Recipes
@@ -20,23 +20,23 @@ permalink: /recipes/sleepy-smoothie
 image: /assets/Food/Drinks/Sleepy/sleepy.jpg
 ing: sleepy-ing
 facts: sleepy-facts
-servingSize: 
+servingSize:
 section1: Smoothie
 start2: Magnesium Malate
 section2: Optional
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://youtube.com/shorts/HRMMsK3cK48?si=Bv1zuNXegsclFGAh
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/ygB1v
-tags: 
+tags:
 - smoothie
 - blender
 - frozen banana
@@ -53,7 +53,7 @@ tags:
 - unsweetened vanilla almond milk
 - unsweetened almond milk
 Description: Golden <a href='/misc/dairy#almond-milk'>milk</a> is a traditional Indian turmeric milk used for reducing inflammation. The black pepper aids in activating the anti inflammatory effects of turmeric, and my addition of <a href='/misc/magnesium'>magnesium</a> will relax your muscles and calm your mind.  Pair this with a <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetable</a> as your <a href='/misc/carbs'>carb</a> side at dinner time, and you'll be sleeping like a baby
-Instructions: 
+Instructions:
 - Break your banana into chunks, and freeze overnight
 
 - Blend your frozen banana with the rest of the ingredients

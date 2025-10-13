@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Dead Simple Chili"
+title:  Dead Simple Chili
 date:   2024-01-25 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meme Recipes
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/dead-simple-chili
 image: /assets/Food/Meme/Chili/dead-chili.jpg
 ing: deadchili-ing
 facts: deadchili-facts
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
+Rest:
 Cook: 480
-Source1: 
-Source2: 
+Source1:
+Source2:
 whisk: https://s.samsungfood.com/TELdD
-tags: 
+tags:
 - chili powder
 - beans
 - kidney bean
@@ -51,9 +51,9 @@ tags:
 - diced green chiles
 - diced chiles
 Description: I was bored once and wanted to make possibly the simplest recipe ever. This chili is so easy that even a doorhanger could do it. No measuring, no cutting, just dump stuff in and go. It used an entire small container of chili powder, couldn't get any simpler than that lmao.  Or make real chili using my recipe for <a href='/recipes/chili'>Slow Cooker Chili</a>.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
-Instructions: 
+Instructions:
 - Open all your containers
-- <center><img src='/assets/Food/Meme/Chili/dead-chili-1.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Meme/Chili/dead-chili-1.jpg' alt='' class='instruction-image'></center>
 
 - Dump in and mix (don't drain anything)
 

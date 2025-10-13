@@ -2,10 +2,10 @@
 {% assign rnd = include.rnd %}
 {% assign categories = include.categories %}
 {% assign fetch_types = "perServing,per100g,per100cal" | split: "," %}
-    
+
 <u><font size="+2">Foods High in {{ nutrient }}</font></u><br><br>
 
-<div class="mobile-table" style="font-size: 20px"><center>
+<div class='mobile-table' style="font-size: 20px"><center>
 
     {% for category in categories %}
 
@@ -43,7 +43,7 @@
             {% assign pic = "/assets/Misc/Nutrition/Nutrients/cacao.png" %}
         {% endif %}
 
-        <div id="{{ category }}" class="table-of-contents-2"></div>
+        <div id="{{ category }}" class='table-of-contents-2'></div>
         <i><font size="+2">{{ title }}</font></i><br>
 
         <table>
@@ -56,7 +56,7 @@
             </colgroup>
 
             <thead>
-                <tr class="header">
+                <tr class='header'>
                 <th>Food</th>
                 <th>Serving Size</th>
                 <th>{{ nutrient }}<br>Per Serving</th>
@@ -83,7 +83,7 @@
             </tbody>
         </table>
 
-        <center><img src="{{ pic }}" alt="" class="smaller-image"></center><br><hr>
+        <center><img src='{{ pic }}' alt='' class='smaller-image'></center><br><hr>
 
     {% endfor %}
 

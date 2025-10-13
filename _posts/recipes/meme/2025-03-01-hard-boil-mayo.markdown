@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hard Boiled Egg Mayo"
+title:  Hard Boiled Egg Mayo
 date:   2025-03-01 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Meme Recipes
 dressing: yes
@@ -22,22 +22,22 @@ image: /assets/Food/Meme/Hard Boil Mayo/cover.jpg
 ing: hardboilmayo-ing
 facts: hardboilmayo-facts
 servingSize: 1 tbsp (15 g)
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 5
-Rest: 
-Cook: 
+Rest:
+Cook:
 Source1: https://youtube.com/shorts/OAslDLK_sf4?si=hPOvQzSo3ex8PNEf
 Source2: https://youtube.com/shorts/nXXCxAAylyw?si=NnhFhCSzIRafft_4
 whisk: https://s.samsungfood.com/XhhXB
-tags: 
+tags:
 - hard boiled eggs
 - extra virgin olive oil
 - mayonnaise
@@ -49,9 +49,9 @@ tags:
 - dip
 - salad
 Description: Most mayo recipes are made with raw <a href='/misc/meat#eggs'>eggs</a> and tons and tons of oil.  In comparison, here I'm using cooked eggs and significantly less oil for a lower <a href='/misc/calories'>calorie</a> spread that's just as creamy.  It goes great on a salad, sandwich, roasted veggies, or canned tuna.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
-Instructions: 
+Instructions:
 - Add all ingredients to a small blender or food processor, and blend until smooth. Thin out with water as needed.  Transfer to a mason jar, and store in the fridge for up to 1 week
 
 - Here's a simple tuna salad I made with a 5 oz can of tuna (in water, drained) mixed with 2 tbsp (30 g) of mayo.  I added this high <a href='/misc/protein'>protein</a> and lower <a href='/misc/fats'>fat</a> tuna fish on top of a salad for a tuna-salad-salad
-- <center><img src='/assets/Food/Meme/Hard Boil Mayo/tuna.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Meme/Hard Boil Mayo/tuna.jpg' alt='' class='instruction-image'></center>
 ---

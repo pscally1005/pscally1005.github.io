@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "I'm Hooked On Fish"
+title:  I'm Hooked On Fish
 date:   2025-09-22 00:00:00 -05000
-categories: 
+categories:
 - Misc.
 - Nutrition
 showPercentage: no
 permalink: /misc/fish
 image: /assets/Misc/Nutrition/Fish/Fish.png
-tags: 
+tags:
 - fish
 - seafood
 - shellfish
@@ -188,39 +188,39 @@ tags:
 <center><a href='/recipes/avocado-tuna-salad'><img src='/assets/Food/Fish/Avocado Tuna Salad/plate.jpg' alt='' class='instruction-image'></a></center><br>
 " %}
 
-{% assign descriptions = anchovy 
-    | append: "|" | append: clam 
-    | append: "|" | append: cod 
-    | append: "|" | append: crab 
-    | append: "|" | append: cuttlefish 
-    | append: "|" | append: haddock 
-    | append: "|" | append: halibut 
-    | append: "|" | append: herring 
-    | append: "|" | append: lobster 
-    | append: "|" | append: mackerel 
-    | append: "|" | append: mahi-mahi 
-    | append: "|" | append: mussel 
-    | append: "|" | append: octopus 
-    | append: "|" | append: oyster 
-    | append: "|" | append: salmon 
-    | append: "|" | append: sardine 
-    | append: "|" | append: scallop 
-    | append: "|" | append: shrimp 
-    | append: "|" | append: squid 
-    | append: "|" | append: tilapia 
+{% assign descriptions = anchovy
+    | append: "|" | append: clam
+    | append: "|" | append: cod
+    | append: "|" | append: crab
+    | append: "|" | append: cuttlefish
+    | append: "|" | append: haddock
+    | append: "|" | append: halibut
+    | append: "|" | append: herring
+    | append: "|" | append: lobster
+    | append: "|" | append: mackerel
+    | append: "|" | append: mahi-mahi
+    | append: "|" | append: mussel
+    | append: "|" | append: octopus
+    | append: "|" | append: oyster
+    | append: "|" | append: salmon
+    | append: "|" | append: sardine
+    | append: "|" | append: scallop
+    | append: "|" | append: shrimp
+    | append: "|" | append: squid
+    | append: "|" | append: tilapia
     | append: "|" | append: trout
-    | append: "|" | append: tuna 
-    | split: "|" 
+    | append: "|" | append: tuna
+    | split: "|"
 %}
 
-{% assign nutrients = 
-    "Calories," 
+{% assign nutrients =
+    "Calories,"
     | append: "Fat,"
-    | append: "Protein," 
+    | append: "Protein,"
     | append: "Vitamin B12,"
     | append: "Vitamin D,"
     | append: "Phosphorus,"
-    | append: "Selenium" 
+    | append: "Selenium"
     | split: ","
 %}
 
@@ -228,7 +228,7 @@ tags:
 
 {% include foodCategoryTable.html category=category nutrients=nutrients servSize="true" scroll="true" %}
 
-<u><font size="+2">References</font></u><br>
+<u><font size='+2'>References</font></u><br>
 <ol>
     <li><a href='https://www.flaticon.com/'>Flaticon</a></li>
     <li><a href='https://www.nutritionvalue.org/'>Nutrition Value</a></li>

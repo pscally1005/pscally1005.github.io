@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Turkey & Rice Stuffed Bell Peppers"
+title:  Turkey & Rice Stuffed Bell Peppers
 date:   2025-04-05 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Finger Foods
 showPercentage: no
@@ -26,17 +26,17 @@ start2: Bell pepper
 section2: Peppers
 start3: Ground turkey, 93/7
 section3: Filling
-start4: 
-section4: 
-start5: 
-section5: 
+start4:
+section4:
+start5:
+section5:
 Prep: 30
-Rest: 
+Rest:
 Cook: 90
 Source1: https://www.allrecipes.com/recipe/8284459/jack-o-lantern-stuffed-peppers/
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/dCttZ
-tags: 
+tags:
 - ground turkey
 - ground meat
 - ground beef
@@ -56,7 +56,7 @@ Description: These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled
     <li>Fill it with just beans, such as <a href='/recipes/slow-cooked-beans'>Slow Cooker Black Beans</a>, <a href='/recipes/refried-beans'>Refried Pinto Beans</a>, or <a href='/recipes/baked-beans'>No Added Sugar Baked Beans</a><br></li>
     <li>Replace the <a href='/misc/grains#brown-rice'>brown rice</a> with <a href='/recipes/red-lentils'>red lentils</a>, <a href='/recipes/cauliflower-rice'>cauliflower rice</a>, <a href='/misc/grains#quinoa'>quinoa</a>, or couscous<br></li>
     <li>Mix in some <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> or <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> to the filling, or add on top of the peppers</li></ul>
-Instructions: 
+Instructions:
 - In a small pot, add your rice, water, and salt. Bring to a boil over high heat. Cover, reduce to low, and let simmer for about 20-30 minutes, until fully cooked. Set aside
 
 - Meanwhile, preheat your oven to 400F, and line a 9x13" pan with parchment paper
@@ -64,14 +64,14 @@ Instructions:
 - Cut the peppers in half, and scoop out the ribs and seeds.  Rinsing under the sink helps to remove seeds  Place cut side up in your pan
 
 - In a large bowl, mix together the filling - cooked rice, ground meat, cheese, minced garlic, chili powder, garlic powder, onion powder, cumin, and salt
-- <center><img src='/assets/Food/Finger Food/Stuffed/filling.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Stuffed/filling.jpg' alt='' class='instruction-image'></center>
 
 - Stuff the peppers, about 100 g in each pepper half. Optionally top with more cheese or <a href='/recipes/ketchup'>Unsweetened BBQ Sauce</a>
-- <center><img src='/assets/Food/Finger Food/Stuffed/raw.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Finger Food/Stuffed/raw.jpg' alt='' class='instruction-image'></center>
 
 - Cover the pan with aluminum foil, and roast at 400F for about 1 hour. The peppers should be tender and the meat fully cooked (at least 165F)
-- <center><img src='/assets/Food/Finger Food/Stuffed/cooked.jpg' alt="" class="instruction-image"></center><br>
+- <center><img src='/assets/Food/Finger Food/Stuffed/cooked.jpg' alt='' class='instruction-image'></center><br>
 
 - To celebrate Halloween, feel free to carve a face into your peppers like Vic did below.  I also paired this with my <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf</a> that I instead shaped into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> for the blood
-- <center><a href='/recipes/bbq-meatloaf'><img src='/assets/Food/Finger Food/Stuffed/halloween.jpg' alt="" class="larger-image"></a></center>
+- <center><a href='/recipes/bbq-meatloaf'><img src='/assets/Food/Finger Food/Stuffed/halloween.jpg' alt='' class='larger-image'></a></center>
 ---

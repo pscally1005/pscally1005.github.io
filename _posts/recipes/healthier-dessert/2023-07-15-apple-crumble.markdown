@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Apple Crumble with Oats"
+title: Apple Crumble with Oats
 date:   2023-07-15 00:00:00 -05000
-categories: 
+categories:
 - Recipes
 - Healthier Dessert
 showPercentage: no
@@ -20,23 +20,23 @@ permalink: /recipes/apple-crumble
 image: /assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-cover.jpg
 ing: applecrumble-ing
 facts: applecrumble-facts
-servingSize: 
+servingSize:
 section1: Apple Filling
 start2: Quick oats
 section2: Crisp Topping
-start3: 
-section3: 
-start4: 
-section4: 
-start5: 
-section5: 
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
 Prep: 15
-Rest: 
+Rest:
 Cook: 60
 Source1: https://www.youtube.com/watch?v=Pc2HZMPWi-M&t=7s
-Source2: 
+Source2:
 whisk: https://s.samsungfood.com/ACVhg
-tags: 
+tags:
 - apple crisp
 - gluten free
 - gala
@@ -60,12 +60,12 @@ tags:
 - crumble
 - crisp
 Description: Let me guess, you went <a href='/misc/fruit#apple'>apple</a> picking this fall, and now you have way too many <a href='/misc/fruit#apple'>apples</a>, but are struggling to find something healthy to bake with them. Just me? Well this is awkward then... Or make some <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a>
-Instructions: 
+Instructions:
 - Half, core, and thinly slice each apple. Add to a large bowl.  Add the rest of the apple mix ingredients (honey, cornstarch, lemon juice, cinnamon, nutmeg, ginger, allspice, salt, and cloves), and toss until fully coated.  Transfer to lightly greased 9x13” pan
-- <center><img src='/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-apples.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-apples.jpg' alt='' class='instruction-image'></center>
 
 - Next, prepare the topping. Mix together the crisp topping ingredients (quick oats, maple syrup, coconut oil, cinnamon, ginger, nutmeg, cloves, and salt.  Evenly crumble the mixture on top of the apples
-- <center><img src='/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-crisp.jpg' alt="" class="instruction-image"></center>
+- <center><img src='/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-crisp.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 350F (covered) for about 60 minutes, or until the top is golden brown and the apples are syrupy and tender, but not mushy. Broil the top for a few minutes to brown it more if desired. Let cool at least 15 minutes before slicing
 ---
