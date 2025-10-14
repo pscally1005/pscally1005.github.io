@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Shrimp Fra Diavolo con Spinach

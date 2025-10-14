@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Sweet Potato Waffle Fries
