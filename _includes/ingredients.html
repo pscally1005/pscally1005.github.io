@@ -67,8 +67,9 @@
     {% endfor %}
 
     <!-- Calculate cost per serving -->
-    {% if servings == 0 %}
-        {% assign _ = "Ingredient file: #{ing} | Page: #{page.title}" | log_to_console %}
+    {% if servings == 0 or servings == blank or servings == "" %}
+        {% assign _ = "Ingredient file: " | append: ing | append: " | Page: " | append: page.title | log_to_console %}
+        {% assign servings = 1 %}
     {% endif %}
     {% assign servingCost = recipeCost | divided_by: servings %}
 
