@@ -67,6 +67,9 @@
     {% endfor %}
 
     <!-- Calculate cost per serving -->
+    {% if servings == 0 %}
+      {% raise "Division by zero detected! Ingredient file: #{ing}, Page: #{page.title}, Servings: #{servings}" %}
+    {% endif %}
     {% assign servingCost = recipeCost | divided_by: servings %}
 
     <!-- Format recipe cost with 2 decimal places -->
