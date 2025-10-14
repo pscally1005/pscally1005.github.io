@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mixed Nuts & Chocolate Trail Mix
+title:  'Mixed Nuts & Chocolate Trail Mix'
 date:   2023-05-22 00:00:00 -0500
 categories:
 - Recipes

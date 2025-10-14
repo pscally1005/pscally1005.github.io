@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Spinach & Mushroom Scrambled Eggs
+title:  'Spinach & Mushroom Scrambled Eggs'
 date:   2024-09-05 00:00:00 -0500
 categories:
 - Recipes

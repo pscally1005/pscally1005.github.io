@@ -1,12 +1,12 @@
 ---
 layout: base
 ---
-<div id="top-post"></div>
+<div id='top-post'></div>
 
 <div class='recipe'>
-  <article class='post h-entry' itemscope itemtype="https://schema.org/BlogPosting">
+  <article class='post h-entry' itemscope itemtype='https://schema.org/BlogPosting'>
 
-    <div class='post-content e-content' itemprop="articleBody">
+    <div class='post-content e-content' itemprop='articleBody'>
 
       {% include top.html %}
 
@@ -18,12 +18,12 @@ layout: base
         <div class='recipe-section'>{{ content }}</div>
       {% endif %}
 
-      <font size="-1"><i>This post may contain affiliate links</i></font>
+      <font size='-1'><i>This post may contain affiliate links</i></font>
 
       {% include comments.html %}
 
     </div>
 
-    <a class='u-url' href="{{ page.url | relative_url }}" hidden></a>
+    <a class='u-url' href='{{ page.url | relative_url }}' hidden></a>
   </article>
 </div>

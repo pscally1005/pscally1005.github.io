@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cheesy Rice & Broccoli
+title:  'Cheesy Rice & Broccoli'
 date:   2025-02-10 00:00:00 -05000
 categories:
 - Recipes

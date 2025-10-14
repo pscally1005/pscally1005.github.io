@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Almond Flour Rolls & Bagels
+title:  'Almond Flour Rolls & Bagels'
 date:   2025-06-08 00:00:00 -0500
 categories:
 - Recipes

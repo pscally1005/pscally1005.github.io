@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pesto Goat Cheese Mac & Cheese
+title:  'Pesto Goat Cheese Mac & Cheese'
 date:   2025-04-10 00:00:00 -05000
 categories:
 - Recipes

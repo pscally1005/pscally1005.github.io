@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Two Ingredient Mac & Cheese
+title:  'Two Ingredient Mac & Cheese'
 date:   2025-02-11 00:00:00 -05000
 categories:
 - Recipes

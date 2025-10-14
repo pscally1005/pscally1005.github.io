@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  High Protein Mac & Cheese
+title:  'High Protein Mac & Cheese'
 date:   2024-10-27 00:00:00 -05000
 categories:
 - Recipes

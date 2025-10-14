@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Peanut Butter & Jelly Muffins
+title:  'Peanut Butter & Jelly Muffins'
 date:   2023-05-24 00:00:00 -0500
 categories:
 - Recipes

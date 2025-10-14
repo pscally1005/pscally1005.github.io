@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Trap Foods - Fruits & Veggies
+title:  'Trap Foods - Fruits & Veggies'
 date:   2024-08-01 00:00:00 -05000
 categories:
 - Misc.
