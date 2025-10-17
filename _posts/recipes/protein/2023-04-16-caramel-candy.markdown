@@ -33,7 +33,7 @@ section5:
 Prep: 60
 Rest:
 Cook:
-Source1:
+Source1: https://poormanprotein.com/recipes/banana-bread-hummus
 Source2:
 whisk: https://s.samsungfood.com/XHMfx
 tags:
@@ -61,7 +61,7 @@ tags:
 - coconut oil
 Description: These caramel candy bars are a healthy take on a Twix or Snicker's bar. They feature a <a href='/misc/protein'>protein</a> based shortbread, and <a href='/misc/fruit#banana'>banana</a> dessert hummus filling (based off my <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a>), and are topped with melted chocolate. To me, these taste way better than an actual candy bar, and they're not just empty <a href='/misc/calories'>calories</a>.
 Instructions:
-- In a medium bowl, mix together the base layer ingredients (applesauce, almond milk, honey, vanilla, almond extract, salt, and casein. Line a 9" square pan with parchment, and press the dough into it. Freeze to harden
+- In a medium bowl, mix together the base layer ingredients (applesauce, almond milk, honey, vanilla, almond extract, salt, and casein). Line a 9" square pan with parchment, and press the dough into it. Freeze to harden
 - <center><img src='/assets/Food/Protein Powder/Caramel/caramel-1.jpg' alt='' class='instruction-image'></center>
 
 - Combine the filling ingredients (chickpeas, almond butter, banana, whey, almond extract, salt, and liquid stevia/monk fruit) together in a food processor. Make sure to drain and rinse the can of chickpeas. If you're using a standard 15.5 oz can, you should have about 125g of chickpeas in the food processor, after the liquid is drained (since you're only using half the can)
