@@ -40,7 +40,7 @@
             {% assign pic = "/assets/Misc/Nutrition/Nutrients/yogurt.png" %}
         {% elsif category == "other" %}
             {% assign title = "Other" %}
-            {% assign pic = "/assets/Misc/Nutrition/Nutrients/cacao.png" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/grocery-cart.png" %}
         {% endif %}
 
         <div id="{{ category }}" class='table-of-contents-2'></div>
@@ -68,17 +68,18 @@
             <tbody>
                 {% for item in items %}
                     {% assign fact_file = item.File | append: "-facts" %}
-                    {% if item[nutrient] == "TRUE" %}
+                    {% assign ing_file = item.File | append: "-ing" %}
+                    <!-- {% if item[nutrient] == "TRUE" %} -->
                         <tr>
                             <td markdown="span"><a href="{{ item.URL }}" target="_blank" rel="noopener noreferrer">{{ item["Name"] }}</a></td>
                             <td markdown="span">{{ item.Vol }} ({{ item.Mass }} g)</td>
                             {% for fetch in fetch_types %}
                                 <td markdown="span">
-                                    {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient=nutrient fetch=fetch rnd=rnd %}
+                                    {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient=nutrient fetch=fetch rnd=rnd ing=ing_file %}
                                 </td>
                             {% endfor %}
                         </tr>
-                    {% endif %}
+                    <!-- {% endif %} -->
                 {% endfor %}
             </tbody>
         </table>

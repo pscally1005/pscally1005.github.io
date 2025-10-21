@@ -8,6 +8,9 @@
 {% assign addedSugarNum = include.addedSugar %}
 {% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 | append: '&nbsp;%' %}
 {% assign netCarbNum = include.netCarb %}
+{% assign sugarAlcoholNum = include.sugAlc %}
+{% assign alluloseNum = include.all %}
+{% assign glutenNum = include.gluten %}
 
 <!-- JavaScript to open the table in a new window -->
 <script>
@@ -75,6 +78,27 @@
                 tableContent += '<td>{{addedSugarNum | round: 2}}</td>';
                 tableContent += '<td>g</td>';
                 tableContent += '<td>{{addedSugarPercentage}}</td>';
+            tableContent += '</tr>';
+
+            tableContent += '<tr>';
+                tableContent += '<td>Sugar Alcohols</td>';
+                tableContent += '<td>{{sugAlcNum | round: 2}}</td>';
+                tableContent += '<td>g</td>';
+                tableContent += '<td></td>';
+            tableContent += '</tr>';
+
+            tableContent += '<tr>';
+                tableContent += '<td>Allulose</td>';
+                tableContent += '<td>{{allNum | round: 2}}</td>';
+                tableContent += '<td>g</td>';
+                tableContent += '<td></td>';
+            tableContent += '</tr>';
+
+            tableContent += '<tr>';
+                tableContent += '<td>Gluten</td>';
+                tableContent += '<td>{{glutenNum | round: 2}}</td>';
+                tableContent += '<td>g</td>';
+                tableContent += '<td></td>';
             tableContent += '</tr>';
 
         tableContent += '</tbody></table>';

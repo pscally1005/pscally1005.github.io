@@ -55,9 +55,10 @@
     {% assign sug = "0.0g (0 %)" %}
     {% assign totalSugar = 0.0 %}
     {% assign addedSugar = 0.0 %}
-    {% assign addedSugarStr = "0.0g (0 %)"" %}
+    {% assign addedSugarStr = "0.0g (0 %)" %}
 
     {% assign prot = "0.0g (0 %)" %}
+    {% assign totalProtein = 0.0 %}
 
     {% assign vitA = "0.0mcg (0 %)" %}
     {% assign vitB1 = "0.00mg (0 %)" %}
@@ -94,6 +95,9 @@
     {% assign valine = "0.0g (0 %)" %}
 
     {% assign caffeine = "0.00mg (0 %)" %}
+
+    {% assign gluten = 0.0 %}
+    {% assign glutenStr = "0.0g (0 %)"" %}
 
     <!-- Loop to get nutrition facts -->
     {% for row in loopVarFacts %}
@@ -157,6 +161,7 @@
 
             {% if pair[1] == "Protein" %}
                 {% assign prot = line1 %}
+                {% assign totalProtein = row.Amount | plus: 0 | round: 1 %}
             {% endif %}
 
             {% if pair[1] == "Vitamin A, RAE" %}
@@ -304,8 +309,7 @@
         {% assign mass = row["Amount"] | times: 1.0 %}
 
         {% for row in site.data.foods %}
-
-            <!-- Added sugar per ingredient -->
+            <!-- Added sugar, sugar alcohol, allulose per ingredient -->
             {% if row["Food"] == food %}
                 {% assign itemAddedSugar = row["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
                 {% assign addedSugar = addedSugar | plus: itemAddedSugar %}
@@ -315,6 +319,9 @@
 
                 {% assign itemAllulose = row["Allulose per 100 g"] | times: mass | divided_by: 100 %}
                 {% assign all = all | plus: itemAllulose %}
+
+                {% assign itemGluten = row["Gluten Protein %"] | times: totalProtein | divided_by: 100 %}
+                {% assign gluten = gluten | plus: itemGluten %}
 
                 {% break %}
             {% endif %}
@@ -327,6 +334,7 @@
     {% assign addedSugar = addedSugar | divided_by: servings %}
     {% assign sugAlc = sugAlc | divided_by: servings %}
     {% assign all = all | divided_by: servings %}
+    {% assign gluten = gluten | divided_by: servings %}
 
     <!-- Calc net carbs -->
     {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
@@ -346,6 +354,9 @@
 
     <!-- Allulose -->
     {% assign allStr = all | round: 1 | append: 'g' %}
+
+    <!-- Gluten -->
+    {% assign glutenStr = gluten | round: 1 | append: 'g' %}
 
     <!-- Empty line variable to be filled later -->
     {% assign line = "" %}
@@ -552,6 +563,10 @@
 
     {% if nutrient == "Caffeine" %}
         {% assign line = caffeine %}
+    {% endif %}
+
+    {% if nutrient == "Gluten" %}
+        {% assign line = glutenStr %}
     {% endif %}
 
     <!-- Check if Infinity -->

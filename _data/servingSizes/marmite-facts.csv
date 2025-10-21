@@ -1,10 +1,12 @@
 Nutrient,Amount,Unit,DV
 Calories,250,,
-"Thiamin [Vitamin B1]",6.000,mg,500 %
+"Thiamin [Vitamin B1]",6,mg,500 %
 "Riboflavin [Vitamin B2]",6.375,mg,490 %
-"Niacin [Vitamin B3]",150.000,mg,938 %
-"Vitamin B12 [Cobalamin]",15.00,mcg,625 %
-"Sodium",5000.00,mg,217 %
-"Protein",50.00,g,100 %
-"Carbohydrate",0.00,g,0 %
+"Niacin [Vitamin B3]",150,mg,938 %
+"Vitamin B12 [Cobalamin]",15,mcg,625 %
+"Sodium",5000,mg,217 %
+"Protein",50,g,100 %
+"Carbohydrate",0,g,0 %
 "Net carbs",0,g,
+"Fat",0,g,0 %
+"Fatty acids, total trans",0,g,

@@ -168,6 +168,12 @@ def ingredients(food):
         return str("Simple Shredded Chicken")
 
     # Baking
+    elif food == "Spelt, uncooked":
+        return str("Spelt flour")
+    elif food == "Rye grain":
+        return str("Rye flour")
+    elif food == "Barley, raw, pearled":
+        return str("Barley")
     elif food == "Vanilla instant pudding by SHURFINE":
         return str("Vanilla instant pudding mix")
     elif food == "Allulose plant-based sweetener by Dr. Desai Soap LLC":

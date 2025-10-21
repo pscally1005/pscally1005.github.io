@@ -39,6 +39,7 @@
             | append: "Sugar Alcohol,"
             | append: "Allulose,"
             | append: "Protein,"
+            | append: "Gluten,"
             | append: "Vitamin B12,"
             | append: "Vitamin D,"
             | append: "Calcium,"
@@ -109,6 +110,8 @@
         {% assign addedSugarStr = "" %}
 
         {% assign prot = "" %}
+        {% assign totalProt = "" %}
+        {% assign gluten = "" %}
 
         {% assign vitA = "" %}
         {% assign vitB1 = "" %}
@@ -217,6 +220,7 @@
 
                 {% if pair[1] == "Protein" and nutrients contains "Protein" %}
                     {% assign prot = line1 %}
+                    {% assign totalProt = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Vitamin A, RAE" and nutrients contains "Vitamin A" %}
@@ -346,7 +350,7 @@
             {% endfor %}
         {% endfor %}
 
-        <!-- Calculate added sugar, sugar alcohols, and allulose -->
+        <!-- Calculate added sugar, sugar alcohols, allulose, and gluten -->
         {% assign servings = 1 | times: 1 %}
         {% for row in loopVarIng %}
             {% if forloop.last %}
@@ -358,7 +362,7 @@
             {% assign mass = row["Amount"] | times: 1.0 %}
 
             {% for row in site.data.foods %}
-                <!-- Added sugar per ingredient -->
+                <!-- Added sugar, sugar alcohol, allulose, and gluten per ingredient -->
                 {% if row["Food"] == food %}
                     {% assign itemAddedSugar = row["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign addedSugar = addedSugar | plus: itemAddedSugar %}
@@ -369,6 +373,9 @@
                     {% assign itemAllulose = row["Allulose per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign all = all | plus: itemAllulose %}
 
+                    {% assign itemGluten = row["Gluten Protein %"] | times: totalProt | divided_by: 100 %}
+                    {% assign gluten = gluten | plus: itemGluten %}
+
                     {% break %}
                 {% endif %}
             {% endfor %}
@@ -378,6 +385,7 @@
         {% assign addedSugar = addedSugar | divided_by: servings %}
         {% assign sugAlc = sugAlc | divided_by: servings %}
         {% assign all = all | divided_by: servings %}
+        {% assign gluten = gluten | divided_by: servings %}
 
         <!-- Print nutrition facts -->
         <div class='recipe-section'>
@@ -453,13 +461,14 @@
                         &emsp;<b><a href="/misc/carbs">Total Sugar</a></b>: {{ sug }}<br>
                     {% endif %}
 
-                    <!-- Added sugar, sugar alcohols, and allulose -->
+                    <!-- Added sugar, sugar alcohols, allulose, and gluten -->
                     {% assign addedSugarNum = addedSugar | plus: 0 %}
                     {% assign totalSugarNum = totalSugar | plus: 0 %}
                     {% assign sugAlcNum = sugAlc | plus: 0 %}
                     {% assign allNum = all | plus: 0 %}
+                    {% assign glutenNum = gluten | plus: 0 %}
 
-                    <!-- Added sugar, sugar alcohols, and allulose -->
+                    <!-- Added sugar, sugar alcohols, allulose -->
                     {% if addedSugarNum != 0 and totalSugarNum != 0 %}
                         {% if addedSugarNum > totalSugarNum %}
                             {% assign addedSugarNum = totalSugarNum %}
@@ -483,6 +492,11 @@
 
                 {% if prot != "" %}
                     <b><a href="/misc/protein">Protein</a></b>: {{ prot }}<br>
+                {% endif %}
+
+                {% if glutenNum != 0 %}
+                    {% assign glutenStr = glutenNum | round: 1 | append: 'g' %}
+                    <!-- &emsp;<b><a href="/misc/gluten">Gluten</a></b>: {{ glutenStr }}<br> -->
                 {% endif %}
 
             </div>
@@ -601,7 +615,7 @@
             {% if recipe == "true" %}
                 {% include glycemic.html ing=include.ing %}
                 <br>
-                {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb %}
+                {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all gluten=gluten %}
             {% endif %}
         </div>
 
