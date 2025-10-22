@@ -110,7 +110,6 @@
         {% assign addedSugarStr = "" %}
 
         {% assign prot = "" %}
-        {% assign totalProt = "" %}
         {% assign gluten = "" %}
 
         {% assign vitA = "" %}
@@ -220,7 +219,6 @@
 
                 {% if pair[1] == "Protein" and nutrients contains "Protein" %}
                     {% assign prot = line1 %}
-                    {% assign totalProt = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Vitamin A, RAE" and nutrients contains "Vitamin A" %}
@@ -373,7 +371,8 @@
                     {% assign itemAllulose = row["Allulose per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign all = all | plus: itemAllulose %}
 
-                    {% assign itemGluten = row["Gluten Protein %"] | times: totalProt | divided_by: 100 %}
+                    {% assign itemProtein = row["Protein per 100 g"] | times: mass | divided_by: 100 %}
+                    {% assign itemGluten = row["Gluten Protein %"] | times: itemProtein | divided_by: 100 %}
                     {% assign gluten = gluten | plus: itemGluten %}
 
                     {% break %}
