@@ -21,11 +21,11 @@ image: /assets/Food/Meatless/Seitan/seitan-cover.jpg
 ing: seitan-ing
 facts: seitan-facts
 servingSize:
-section1:
-start2:
-section2:
-start3:
-section3:
+section1: Dry
+start2: Low sodium vegetable broth
+section2: Wet
+start3: Water
+section3: Boil
 start4:
 section4:
 start5:
@@ -62,4 +62,8 @@ Instructions:
 
 - When done cooking, remove from the pot and let it cool. You should now have a ground meat substitute that can be used in place of meat in most recipes
 - <center><img src='/assets/Food/Meatless/Seitan/seitan-6.jpg' alt='' class='instruction-image'></center>
+
+- You can also make baked seitan if you want to have a sliced "meat", instead of using the stovetop for ground "meat".  Make the dough the same with the dry and wet ingredients listed above, but omit the water that's used for boiling.  Line your pan with parchment paper, lightly grease with oil, and evenly press in the dough.  I baked a half batch in a <a href='https://amzn.to/3Ffts2R'>glass meal prep container</a>, which is 6.2x4.5", but you can use a standard <a href='https://amzn.to/43PLxxG'>9x5" bread pan</a> for a whole batch.  Bake at 325F for 1 hour
+- <center><img src='/assets/Food/Meatless/Seitan/baked-raw.jpg' alt='' class='instruction-image'></center>
+- <center><img src='/assets/Food/Meatless/Seitan/baked-baked.jpg' alt='' class='instruction-image'></center>
 ---

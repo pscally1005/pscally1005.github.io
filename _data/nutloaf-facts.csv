@@ -1,9 +1,9 @@
 Nutrient,Amount,Unit,DV
-Calories,118,,
-"Vitamin A, RAE",0.17,mcg,0 %
+Calories,114,,
+"Vitamin A, RAE",0.15,mcg,0 %
 "Carotene, alpha",0.02,mcg,
-"Carotene, beta",1.79,mcg,
-"Cryptoxanthin, beta",0.55,mcg,
+"Carotene, beta",1.56,mcg,
+"Cryptoxanthin, beta",0.39,mcg,
 "Lutein + zeaxanthin",33.28,mcg,
 "Lycopene",0.04,mcg,
 "Retinol",0,mcg,
@@ -17,7 +17,7 @@ Calories,118,,
 "Folate, DFE [Vitamin B9]",15.38,mcg,4 %
 "Folate, food",17.19,mcg,
 "Folic acid",0,mcg,
-"Vitamin C [Ascorbic acid]",0.3,mg,0 %
+"Vitamin C [Ascorbic acid]",1.1,mg,1 %
 "Vitamin D",0,mcg,0 %
 "Vitamin D3",0,mcg,
 "Vitamin E (alpha-tocopherol)",2.03,mg,14 %
@@ -35,23 +35,26 @@ Calories,118,,
 "Vitamin K2 [Menaquinone]",0,mcg,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",1.4,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",8.3,mg,2 %
 "Calcium",55.93,mg,4 %
 "Copper",0.22,mg,24 %
 "Fluoride",7.4,mcg,
-"Iron",1.49,mg,8 %
-"Magnesium",69.66,mg,17 %
+"Iodine",0,mcg,0 %
+"Iron",1.47,mg,8 %
+"Magnesium",69.68,mg,17 %
 "Manganese",0.626,mg,27 %
-"Phosphorus",138.6,mg,11 %
-"Potassium",146.47,mg,3 %
+"Phosphorus",138.67,mg,11 %
+"Potassium",161.99,mg,3 %
 "Selenium",6.22,mcg,11 %
-"Sodium",94.8,mg,4 %
+"Sodium",94.78,mg,4 %
 "Zinc",0.9,mg,8 %
 "Protein",3.88,g,8 %
 "Alanine",0.176,g,
 "Arginine",0.431,g,
 "Aspartic acid",0.372,g,
 "Cystine",0.058,g,
+"Cysteine",0,g,
 "Glutamic acid",0.803,g,
 "Glycine",0.219,g,
 "Histidine",0.094,g,8 %
@@ -68,8 +71,8 @@ Calories,118,,
 "Tyrosine",0.101,g,
 "Valine",0.185,g,9 %
 "Phenylalanine + Tyrosine",0.289,g,11 %
-"Methionine + Cysteine",0.073,g,5 %
-"Carbohydrate",10.68,g,4 %
+"Methionine + Cysteine",0.131,g,8 %
+"Carbohydrate",10.7,g,4 %
 "Fiber",4.85,g,17 %
 "Starch",0.04,g,
 "Sugars",2.62,g,
@@ -79,9 +82,9 @@ Calories,118,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.28,g,
-"Net carbs",5.83,g,
+"Net carbs",5.85,g,
 "0.66 g",1.00 g,undefined,1.51
-"Fat",7.389,g,9 %
+"Fat",7.39,g,9 %
 "Saturated fatty acids",0.768,g,4 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
@@ -143,7 +146,5 @@ Calories,118,,
 "Alcohol, ethyl",0.1,g,
 "Ash",0.98,g,
 "Caffeine",0,mg,
-"Fiber, insoluble",0.15,g,
-"Fiber, soluble",0.92,g,
 "Theobromine",0,mg,
-"Water",17,g,
+"Water",16.98,g,
