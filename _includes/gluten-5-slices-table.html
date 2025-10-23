@@ -1,0 +1,117 @@
+{% assign categories = include.categories %}
+
+{% assign bread_slice_weight = 29 %}
+{% assign bread_protein_100g = 10.67 %}
+{% assign bread_slice_protein = bread_protein_100g | divided_by: 100 | times: bread_slice_weight %}
+{% assign bread_gluten_protein_per = 0.80 %}
+{% assign bread_gluten_100g = bread_protein_100g | times: bread_gluten_protein_per %}
+{% assign five_slices_gluten = bread_gluten_100g | divided_by: 100 | times: bread_slice_weight | times: 5 | round: 1 %}
+
+<u><font size="+2">Gluten Equivalent of 5 Slices of Bread</font></u><br><br>
+
+<div class='mobile-table' style="font-size: 20px"><center>
+
+    {% for category in categories %}
+
+        {% assign items = site.data.nutrition | where: "Category", category %}
+
+        {% if category == "grains" %}
+            {% assign title = "Grains (Raw)" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/wheat.png" %}
+        {% elsif category == "other" %}
+            {% assign title = "Other" %}
+            {% assign pic = "/assets/Misc/Nutrition/Nutrients/grocery-cart.png" %}
+        {% endif %}
+
+        <div id="{{ category }}" class='table-of-contents-2'></div>
+        <i><font size="+2">{{ title }}</font></i><br>
+
+        <table>
+            <colgroup>
+                <col width="30%" />
+                <col width="25%" />
+                <col width="22.5%" />
+                <col width="22.5%" />
+            </colgroup>
+
+            <thead>
+                <tr class='header'>
+                <th>Food</th>
+                <th>Weight</th>
+                <th># Servings</th>
+                <th>Calories</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for item in items %}
+
+                  {% if item["Gluten"] == "TRUE" %}
+
+                    {% assign fact_file = item.File | append: "-facts" %}
+                    {% assign ing_file = item.File | append: "-ing" %}
+
+                    {% capture tempGluten %}
+                      {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient="Gluten" fetch="perServing" rnd="1" ing=ing_file %}
+                    {% endcapture %}
+
+                    {% assign glutenNum = glutenStr | replace: 'g', '' %}
+                    {% assign glutenNum = glutenNum + 0.0 %}
+
+                    {% assign servingSize = item.Mass | plus: 0.0 %}
+                    {% assign weight = five_slices_gluten | divided_by: glutenNum | times: 100 | plus: 0.0 %}
+                    {% assign numOfServings = weight | divided_by: servingSize | plus: 0.0 %}
+
+                    {% capture tempCal %}
+                      {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient="Calories" fetch="perServing" rnd="0" ing=ing_file %}
+                    {% endcapture %}
+
+                    {% assign calories = cal | plus: 0.0 | divided_by: 100 | times: servingSize | times: numOfServings %}
+
+                    <tr>
+                        <td markdown="span">
+                          <a href="{{ item.URL }}" target="_blank" rel="noopener noreferrer">{{ item["Name"] }}</a>
+                        </td>
+
+                        <td markdown="span">
+                          {{ weight | round: 0 }} g
+                        </td>
+
+                        <td markdown="span">
+                          {{ numOfServings | round: 1 }}
+                        </td>
+
+                        <td markdown="span">
+                          {{ calories | round: 0 }}
+                        </td>
+                    </tr>
+
+                  {% endif %}
+
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <center><img src='{{ pic }}' alt='' class='smaller-image'></center><br><hr>
+
+    {% endfor %}
+
+    <style>
+        /* Center text in all table cells */
+        table {
+            width: 100%; /* Optional: makes table take full width */
+        }
+
+        table th, table td {
+            text-align: center; /* Center text in table headers and cells */
+            vertical-align: middle; /* Vertically center the text */
+        }
+
+    @media only screen and (max-width: 768px) {
+        .mobile-table {
+        font-size: 13px !important; /* Shrink font size on mobile */
+        }
+    }
+    </style>
+
+</center></div>

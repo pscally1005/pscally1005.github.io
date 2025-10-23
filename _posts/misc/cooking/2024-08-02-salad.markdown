@@ -22,7 +22,7 @@ tags:
 - vinegar
 ---
 <u><font size='+2'>Introduction</font></u><br>
-&emsp;Salad isn't boring; you're just doing it wrong.  If you think you don't like salads, then you've obviously just never had a good one.  If you had nothing but a piece of American cheese and ketchup between 2 slices of white bread, you may conclude that sandwiches are boring too.  That's what salads are.  They can be a sad bowl of soggy iceberg <a href='/misc/veggies#lettuce'>lettuce</a> with nothing but a <a href='/misc/fake-healthy-foods#salad-dressing'>bottled dressing</a> and a couple of <a href='/misc/veggies#tomato'>tomatoes</a>, or they can be a delicious, filling, and nutritious meal that's a joy to eat.
+&emsp;Salad isn't boring; you're just doing it wrong.  If you think you don't like salads, then you've obviously just never had a good one.  If you had nothing but a piece of American cheese and ketchup between 2 slices of <a href='/misc/grains#white-wheat'>white bread</a>, you may conclude that sandwiches are boring too.  That's what salads are.  They can be a sad bowl of soggy iceberg <a href='/misc/veggies#lettuce'>lettuce</a> with nothing but a <a href='/misc/fake-healthy-foods#salad-dressing'>bottled dressing</a> and a couple of <a href='/misc/veggies#tomato'>tomatoes</a>, or they can be a delicious, filling, and nutritious meal that's a joy to eat.
 
 &emsp;The name of the game with a salad is to eat as many different foods of varying taste and texture for a delicious heterogenous experience.  I'm going to break down the important steps in building your ultimate salad, while also showing photos of some of the amazing bowls I've made recently.
 

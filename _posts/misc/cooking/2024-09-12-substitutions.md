@@ -104,13 +104,13 @@ tags:
 
 <div id='grains' class='table-of-contents-2'></div>
 <i><font size='+2'>Grains</font></i><br>
-&emsp;When I refer to <a href='/misc/grains'>grains</a> here, I'm talking about some sort of <a href='/misc/carbs'>carb</a> base or side to your meal, such as pasta or <a href='/misc/grains#brown-rice'>rice</a>.  In place of pasta, all of the following below can be served in the same way, such as tossed with a sauce like <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>, <a href='/recipes/cottage-cheese-alfredo'>Cottage Cheese Alfredo Sauce</a>, or <a href='/recipes/oil-free-basil-pesto'>Oil Free Basil Pesto</a>.
-- <a href='/misc/grains#whole-wheat'>Whole wheat</a> pasta
+&emsp;When I refer to <a href='/misc/grains'>grains</a> here, I'm talking about some sort of <a href='/misc/carbs'>carb</a> base or side to your meal, such as <a href='/misc/grains#pasta-white'>pasta</a> or <a href='/misc/grains#white-rice'>rice</a>.  In place of <a href='/misc/grains#pasta-white'>pasta</a>, all of the following below can be served in the same way, such as tossed with a sauce like <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>, <a href='/recipes/cottage-cheese-alfredo'>Cottage Cheese Alfredo Sauce</a>, or <a href='/recipes/oil-free-basil-pesto'>Oil Free Basil Pesto</a>.
+- <a href='/misc/grains#pasta'>Whole wheat pasta</a>
 - <a href='/misc/beans#chickpeas'>Chickpea</a> pasta
 - <a href='/misc/beans#red-lentils'>Red lentil</a> pasta
 - <a href='/misc/veggies#spaghetti-squash'>Spaghetti squash</a>
 - <a href='/misc/veggies#zucchini'>Zucchini</a> noodles
-- Roasted or sauteed vegetables
+- Roasted or sauteed <a href='/misc/veggies'>vegetables</a>
 - <a href='/misc/beans'>Beans</a>
 - <a href='/misc/beans#red-lentils'>Lentils</a>
 - Shirataki noodles
@@ -119,11 +119,11 @@ tags:
 
 <center><img src='/assets/Misc/Cooking/Substitutions/spaguetti.png' alt='' class='smaller-image'><img src='/assets/Misc/Cooking/Substitutions/instant-noodles.png' alt='' class='smaller-image'></center><br>
 
-&emsp;Yes, even some very non-traditional things like lentils or cooked vegetables can work well as a pasta replacement if you're gluten free or want to lower your refined grain intake.  Who says you can't put pesto on beans and have a bowl of beans instead of a bowl of pasta?
+&emsp;Yes, even some very non-traditional things like lentils or cooked vegetables can work well as a <a href='/misc/grains#pasta-white'>pasta</a> replacement if you're gluten free or want to lower your refined grain intake.  Who says you can't put <a href='/pesto'>pesto</a> on <a href='/misc/beans'>beans</a> and have a bowl of <a href='/misc/beans'>beans</a> instead of a bowl of <a href='/misc/grains#pasta-white'>pasta</a>?
 
 <center><img src='/assets/Misc/Cooking/Substitutions/rice.png' alt='' class='smaller-image'><img src='/assets/Misc/Cooking/Substitutions/rice-bowl.png' alt='' class='smaller-image'></center><br>
 
-&emsp;The following are all great swaps for <a href='/misc/grains#brown-rice'>rice</a> as well.  As opposed to pasta (where you'd put a liquid sauce on them), rice would be mixed with dried spices, like in <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a> or <a href='/recipes/cauliflower-rice'>Simple Cauliflower Rice</a>.
+&emsp;The following are all great swaps for <a href='/misc/grains#brown-rice'>rice</a> as well.  As opposed to <a href='/misc/grains#pasta-white'>pasta</a> (where you'd put a liquid sauce on them), rice would be mixed with dried spices, like in <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a> or <a href='/recipes/cauliflower-rice'>Simple Cauliflower Rice</a>.
 - <a href='/misc/grains#brown-rice'>Brown rice</a>
 - <a href='/misc/grains#wild-rice'>Wild rice</a>
 - <a href='/misc/grains#quinoa'>Quinoa</a>

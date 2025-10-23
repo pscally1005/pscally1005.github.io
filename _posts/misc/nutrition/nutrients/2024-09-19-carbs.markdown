@@ -25,10 +25,10 @@ tags:
 <center><img src='/assets/Misc/Nutrition/Carbs/insulin.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/sugar-blood-level.png' alt='' class='smaller-image'></center>
 <br>
 <u><font size='+2'>Starch</font></u><br>
-&emsp;Carbohydrates, or <a href='/misc/carbs'>carbs</a>, are typically split into one of two categories: starch and <a href='/misc/hidden-sugar'>sugar</a>.  Starches are probably what you mainly think of when you think of <a href='/misc/carbs'>carbs</a>.  Bread, rice, pasta, etc; these are all starches.  There are also starchy vegetables as well, such as <a href='/misc/veggies#potato'>potatoes</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and <a href='/misc/veggies#plantain'>plantains</a>.  A starch is a more complex carbohydrate molecule, and consists mainly of glucose.  That's why a slice of white bread will spike your blood sugar more than <a href='/misc/hidden-sugar'>sugar</a>; the bread contains more glucose.  Blood sugar spikes are mitigated by <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>fat</a>.
+&emsp;Carbohydrates, or <a href='/misc/carbs'>carbs</a>, are typically split into one of two categories: starch and <a href='/misc/hidden-sugar'>sugar</a>.  Starches are probably what you mainly think of when you think of <a href='/misc/carbs'>carbs</a>.  <a href='/misc/grains#white-wheat'>Bread</a>, <a href='/misc/grains#white-rice'>rice</a>, <a href='/misc/grains#pasta-white'>pasta</a>, etc; these are all starches.  There are also starchy vegetables as well, such as <a href='/misc/veggies#potato'>potatoes</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and <a href='/misc/veggies#plantain'>plantains</a>.  A starch is a more complex carbohydrate molecule, and consists mainly of glucose.  That's why a slice of <a href='/misc/grains#white-wheat'>white bread</a> will spike your blood sugar more than <a href='/misc/hidden-sugar'>sugar</a>; the bread contains more glucose.  Blood sugar spikes are mitigated by <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>fat</a>.
 <center><img src='/assets/Misc/Nutrition/Carbs/starch (1).png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/rice.png' alt='' class='smaller-image'></center>
 <br>
-&emsp;The problem is that all the former starches I listed (bread, rice, and pasta) are all refined white grain products, and thus lack and <a href='/misc/fiber'>fiber</a> or micronutrients.  On the other hand, starchy whole foods like <a href='/misc/fruit#sweet-potato'>sweet potatoes</a>, <a href='/misc/fruit'>fruit</a>, and <a href='/misc/beans'>beans</a> are rich in <a href='/misc/fiber'>fiber</a>, making these much healthier sides to your dinner.
+&emsp;The problem is that all the former starches I listed (<a href='/misc/grains#white-wheat'>bread</a>, <a href='/misc/grains#white-rice'>rice</a>, and <a href='/misc/grains#pasta-white'>pasta</a>) are all refined <a href='/misc/grains#white-wheat'>white</a> grain products, and thus lack and <a href='/misc/fiber'>fiber</a> or micronutrients.  On the other hand, starchy whole foods like <a href='/misc/fruit#sweet-potato'>sweet potatoes</a>, <a href='/misc/fruit'>fruit</a>, and <a href='/misc/beans'>beans</a> are rich in <a href='/misc/fiber'>fiber</a>, making these much healthier <a href='/recipes/sides'>sides</a> to your dinner.
 <center><img src='/assets/Misc/Nutrition/Carbs/fruit.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/potato.png' alt='' class='smaller-image'></center>
 <br>
 <u><font size='+2'><a href='/misc/hidden-sugar'>Sugar</a></font></u><br>
@@ -162,7 +162,7 @@ tags:
 <br>
 - Sweet snacks:
 <br>&emsp;- Candy
-<br>&emsp;- Dried fruit
+<br>&emsp;- <a href='/misc/fruit#cranberry'>Dried fruit</a>
 <br>&emsp;- Granola
 <br>&emsp;- Granola bars
 <br>&emsp;- Jam and jelly
@@ -171,9 +171,9 @@ tags:
 <br>
 - White starches:
 <br>&emsp;- <a href='/misc/grains#white-wheat'>All purpose flour</a>
-<br>&emsp;- Bread
-<br>&emsp;- Enriched wheat flour
-<br>&emsp;- Pasta
+<br>&emsp;- <a href='/misc/grains#white-wheat'>Bread</a>
+<br>&emsp;- <a href='/misc/grains#white-wheat'>Enriched wheat flour</a>
+<br>&emsp;- <a href='/misc/grains#pasta-white'>Pasta</a>
 <br>&emsp;- <a href='/misc/grains#white-rice'>Rice</a>
 <br>&emsp;- Tortillas
 <center><img src='/assets/Misc/Nutrition/Carbs/bread.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/pasta.png' alt='' class='smaller-image'></center>

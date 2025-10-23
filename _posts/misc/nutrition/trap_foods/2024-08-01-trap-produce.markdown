@@ -132,7 +132,7 @@ tags:
 - <a href='/misc/nutrient-alphabet#P'>Vitamin B5</a>: 19% of DV
 
 <center><img src='/assets/Misc/Nutrition/Trap/potatoes.jpg' alt='' class='larger-image'></center>
-&emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred <a href='/misc/carbs'>carb</a> side to a meal as opposed to pasta, rice, or bread, such as in the following recipes:
+&emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred <a href='/misc/carbs'>carb</a> side to a meal as opposed to <a href='/misc/grains#pasta-white'>pasta</a>, <a href='/misc/grains#white-rice'>rice</a>, or <a href='/misc/grains#white-wheat'>bread</a>, such as in the following recipes:
 - <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a><br>
 - <a href='/recipes/home-fries'>Sweet Potato Home Fries</a><br>
 - <a href='/recipes/baked-sweet-potato'>Baked Sweet Potato</a><br>

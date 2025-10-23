@@ -564,6 +564,8 @@ def ingredients(food):
         return str("Quinoa")
     elif food == "Pasta, dry, whole-wheat":
         return str("Whole wheat pasta")
+    elif food == "Pasta, unenriched, dry":
+        return str("Pasta")
     elif food == "Couscous, dry":
         return str("Couscous")
     elif food == "Panko, crispy breadcrumbs by George DeLallo Co., Inc.":

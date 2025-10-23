@@ -49,7 +49,7 @@ tags:
 - red pepper
 - sea food
 - seafood
-Description: <a href='/misc/fish#clam'>Clam</a> sauce always makes me think of Fridays and Christmas time, and this recipe is the perfect way to satisfy these memories in a healthy way. It has some healthy <a href='/misc/fats'>fats</a> in extra virgin olive oil, but isn't a total <a href='/misc/calories'>calorie</a> bomb like most recipes. This goes great over some pasta or <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, so check out my <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a> to learn how to make this simple vegetable
+Description: <a href='/misc/fish#clam'>Clam</a> sauce always makes me think of Fridays and Christmas time, and this recipe is the perfect way to satisfy these memories in a healthy way. It has some healthy <a href='/misc/fats'>fats</a> in extra virgin olive oil, but isn't a total <a href='/misc/calories'>calorie</a> bomb like most recipes. This goes great over some <a href='/misc/grains#pasta'>pasta</a> or <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, so check out my <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a> to learn how to make this simple vegetable
 Instructions:
 - In a medium saucepot, saute oil and garlic over medium heat for a few minutes, until garlic is fragrant and onions are translucent
 
@@ -57,6 +57,6 @@ Instructions:
 
 - Add the rest of the ingredients and simmer on medium low for about half an hour, covered. Stir occasionally
 
-- Serve with pasta (1 lb) or spaghetti squash (whole squash)
+- Serve with <a href='/misc/grains#pasta'>pasta</a> (1 lb) or <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> (whole squash)
 - <center><img src='/assets/Food/Fish/Clam Sauce/mixed.jpg' alt='' class='instruction-image'></center>
 ---

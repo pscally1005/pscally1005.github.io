@@ -48,7 +48,7 @@ tags:
 - black pepper
 - nutmeg
 - fat free evaporated milk
-Description: Chicken Alfredo is typically a <a href='/misc/calories'>caloric</a> bomb with little <a href='/misc/veggies'>vegetables</a>. With <a href='/misc/dairy#butter'>butter</a>, heavy cream, cheese, and white pasta, this dish can use some improvement. I'm making a lighter version here with an insane 60 g of <a href='/misc/protein'>protein</a> per serving. I'm also adding some <a href='/misc/veggies#broccoli'>broccoli</a> for additional volume, and swapping the pasta for <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Potatoes are cheaper and healthier than pasta, and it's just what I'm in the mood for today
+Description: Chicken Alfredo is typically a <a href='/misc/calories'>caloric</a> bomb with little <a href='/misc/veggies'>vegetables</a>. With <a href='/misc/dairy#butter'>butter</a>, heavy cream, and <a href='/misc/grains#pasta-white'>white pasta</a>, this dish can use some improvement. I'm making a lighter version here with an insane 60 g of <a href='/misc/protein'>protein</a> per serving. I'm also adding some <a href='/misc/veggies#broccoli'>broccoli</a> for additional volume, and swapping the <a href='/misc/grains#pasta-white'>pasta</a> for <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Potatoes are cheaper and healthier than <a href='/misc/grains#pasta-white'>pasta</a>, and it's just what I'm in the mood for today
 Instructions:
 - Preheat your oven to 400F, and line 3 baking sheets with parchment paper
 

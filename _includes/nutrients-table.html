@@ -69,7 +69,8 @@
                 {% for item in items %}
                     {% assign fact_file = item.File | append: "-facts" %}
                     {% assign ing_file = item.File | append: "-ing" %}
-                    <!-- {% if item[nutrient] == "TRUE" %} -->
+
+                    {% if item[nutrient] == "TRUE" %}
                         <tr>
                             <td markdown="span"><a href="{{ item.URL }}" target="_blank" rel="noopener noreferrer">{{ item["Name"] }}</a></td>
                             <td markdown="span">{{ item.Vol }} ({{ item.Mass }} g)</td>
@@ -79,7 +80,7 @@
                                 </td>
                             {% endfor %}
                         </tr>
-                    <!-- {% endif %} -->
+                    {% endif %}
                 {% endfor %}
             </tbody>
         </table>

@@ -54,7 +54,7 @@ tags:
 - penne
 - spaghetti squash
 - linguini
-Description: Here's a very simple homemade pasta <a href='/misc/fake-healthy-foods#sauces'>sauce</a>, starting from a humble can of crushed <a href='/misc/veggies#tomato'>tomatoes</a>. This yields enough sauce to flavor a pound of pasta or a whole <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, maybe with some added <a href='/misc/meat'>meat</a> and <a href='/misc/veggies'>vegetables</a>. It couldn't be easier, just saute an <a href='/misc/veggies#onion'>onion</a>, and dump in the tomatoes and any desired spices. From there, just simmer as long as you like. I also use this to top pizzas as well!  Check out my posts for <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a> and <a href='/recipes/pizza'>Home Oven Baked Pizza</a>
+Description: Here's a very simple homemade pasta <a href='/misc/fake-healthy-foods#sauces'>sauce</a>, starting from a humble can of crushed <a href='/misc/veggies#tomato'>tomatoes</a>. This yields enough sauce to flavor a pound of <a href='/misc/grains#pasta'>pasta</a> or a whole <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, maybe with some added <a href='/misc/meat'>meat</a> and <a href='/misc/veggies'>vegetables</a>. It couldn't be easier, just saute an <a href='/misc/veggies#onion'>onion</a>, and dump in the tomatoes and any desired spices. From there, just simmer as long as you like. I also use this to top pizzas as well!  Check out my posts for <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a> and <a href='/recipes/pizza'>Home Oven Baked Pizza</a>
 Instructions:
 - Dice an onion, and add to a medium pot over medium heat with oil and garlic.  Cook until soft and translucent
 

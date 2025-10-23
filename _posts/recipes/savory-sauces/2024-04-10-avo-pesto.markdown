@@ -60,6 +60,6 @@ Instructions:
 - Transfer to an airtight container, and store in the fridge.  It works great as a pizza sauce, which I've both on my <a href='/recipes/cloud-bread'>Low Carb Cloud Bread</a>
 - <center><img src='/assets/Food/Bread/Cloud Bread/cloud-cover.jpg' alt='' class='instruction-image'></center>
 
-- Pesto makes a great sauce for spaghetti squash.  Just like with my <a href='/recipes/vegan-mac-and-cheese'>'Mac' and 'Cheese'</a>, you can mix it with roasted spaghetti squash for a delicious and healthier pasta alternative!
+- Pesto makes a great sauce for spaghetti squash.  Just like with my <a href='/recipes/vegan-mac-and-cheese'>'Mac' and 'Cheese'</a>, you can mix it with roasted spaghetti squash for a delicious and healthier <a href='/misc/grains#pasta-white'>pasta</a> alternative!
 - <center><img src='/assets/Food/Savory Sauces/Avo Pesto/spaghetti-squash.jpg' alt='' class='instruction-image'></center>
 ---
