@@ -1,0 +1,39 @@
+Nutrient,Amount,Unit,DV
+Calories,331,,
+"Vitamin A, RAE",156.15,mcg,17 %
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.538,mg,45 %
+"Riboflavin [Vitamin B2]",0.462,mg,36 %
+"Niacin [Vitamin B3]",1.000,mg,6 %
+"Vitamin B6",1.769,mg,104 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Folate, DFE [Vitamin B9]",306.92,mcg,77 %
+"Vitamin C [Ascorbic acid]",61.5,mg,68 %
+"Vitamin D",0.00,mcg,0 %
+"Calcium",1280.00,mg,98 %
+"Copper",0.77,mg,86 %
+"Fluoride",0.0,mcg,
+"Iodine",0.00,mcg,0 %
+"Iron",29.23,mg,162 %
+"Magnesium",220.00,mg,52 %
+"Manganese",1.846,mg,80 %
+"Phosphorus",70.00,mg,6 %
+"Potassium",954.62,mg,20 %
+"Selenium",4.62,mcg,8 %
+"Sodium",50.00,mg,2 %
+"Zinc",3.08,mg,28 %
+"Protein",4.62,g,9 %
+"Carbohydrate",63.85,g,23 %
+"Fiber",42.31,g,151 %
+"Net carbs",21.54,g,
+"Fat",15.231,g,20 %
+"Saturated fatty acids",7.385,g,37 %
+"Monounsaturated fatty acids",3.000,g,
+"Polyunsaturated fatty acids",2.308,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Caffeine",0.00,mg,

@@ -371,7 +371,17 @@
                     {% assign itemAllulose = row["Allulose per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign all = all | plus: itemAllulose %}
 
-                    {% assign itemProtein = row["Protein per 100 g"] | times: mass | divided_by: 100 %}
+                    {% assign unit_protein = 0.0 %}
+                    {% assign fileName = row["File"] | append: "-facts" %}
+                    {% assign factsFile = site.data.servingSizes[fileName] %}
+                    {% for r in factsFile %}
+                      {% if r["Nutrient"] == "Protein" %}
+                        {% assign unit_protein = r["Amount"] %}
+                        {% break %}
+                      {% endif %}
+                    {% endfor %}
+                    {% assign itemProtein = unit_protein | times: mass | divided_by: 100 %}
+
                     {% assign itemGluten = row["Gluten Protein %"] | times: itemProtein | divided_by: 100 %}
                     {% assign gluten = gluten | plus: itemGluten %}
 

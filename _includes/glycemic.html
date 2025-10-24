@@ -52,7 +52,17 @@
             <!-- Assign GI & unit carbs -->
             {% if row["Food"] == food %}
                 {% assign GI = row["Glycemic Index"] | times: 1.0 %}
-                {% assign unit_carbs = row["Carbs per 100 g"] | times: 1.0 %}
+
+                {% assign unit_carbs = 0.0 %}
+                {% assign fileName = row["File"] | append: "-facts" %}
+                {% assign factsFile = site.data.servingSizes[fileName] %}
+                {% for r in factsFile %}
+                  {% if r["Nutrient"] == "Carbohydrate" %}
+                    {% assign unit_carbs = r["Amount"] %}
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+
                 {% break %}
             {% endif %}
 

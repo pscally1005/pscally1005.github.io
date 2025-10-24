@@ -1,0 +1,71 @@
+Nutrient,Amount,Unit,DV
+Calories,0,,
+"Vitamin A, RAE",0.00,mcg,0 %
+"Carotene, alpha",0.00,mcg,
+"Carotene, beta",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.000,mg,0 %
+"Riboflavin [Vitamin B2]",0.000,mg,0 %
+"Niacin [Vitamin B3]",0.000,mg,0 %
+"Pantothenic acid [Vitamin B5]",0.000,mg,0 %
+"Vitamin B6",0.000,mg,0 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Folate, DFE [Vitamin B9]",0.00,mcg,0 %
+"Vitamin C [Ascorbic acid]",0.0,mg,0 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",0.00,mg,0 %
+"Tocopherol, alpha",0.00,mg,
+"Vitamin K",0.0,mcg,0 %
+"Betaine",0.0,mg,
+"Biotin [Vitamin B7]",0.00,mcg,0 %
+"Choline",0.0,mg,0 %
+"Calcium",0.00,mg,0 %
+"Copper",0.00,mg,0 %
+"Fluoride",0.0,mcg,
+"Iodine",0.00,mcg,0 %
+"Iron",0.00,mg,0 %
+"Magnesium",11666.67,mg,2778 %
+"Manganese",0.000,mg,0 %
+"Phosphorus",0.00,mg,0 %
+"Potassium",0.00,mg,0 %
+"Selenium",0.00,mcg,0 %
+"Sodium",0.00,mg,0 %
+"Zinc",0.00,mg,0 %
+"Protein",0.00,g,0 %
+"Alanine",0.000,g,
+"Arginine",0.000,g,
+"Aspartic acid",0.000,g,
+"Cystine",0.000,g,
+"Cysteine",0.00,g,
+"Glutamic acid",0.000,g,
+"Glycine",0.000,g,
+"Histidine",0.000,g,0 %
+"Hydroxyproline",0.000,g,
+"Isoleucine",0.000,g,0 %
+"Leucine",0.000,g,0 %
+"Lysine",0.000,g,0 %
+"Methionine",0.000,g,
+"Phenylalanine",0.000,g,
+"Proline",0.000,g,
+"Serine",0.000,g,
+"Threonine",0.000,g,0 %
+"Tryptophan",0.000,g,0 %
+"Tyrosine",0.000,g,
+"Valine",0.000,g,0 %
+"Phenylalanine + Tyrosine",0,g,0 %
+"Methionine + Cysteine",0,g,0 %
+"Carbohydrate",0.00,g,0 %
+"Fiber",0.00,g,0 %
+"Sugars",0.00,g,
+"Net carbs",0,g,
+"Fat",0.000,g,0 %
+"Saturated fatty acids",0.000,g,0 %
+"Monounsaturated fatty acids",0.000,g,
+"Polyunsaturated fatty acids",0.000,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Caffeine",0.00,mg,
