@@ -54,7 +54,7 @@ tags:
     <li>100% of the <a href='/misc/protein'>protein</a> in <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a> is made up of gluten</li>
 </ul><br>
 
-<center><img src='/assets/Misc/Diseases/Nutrients/blood-test.png' alt='' class='smaller-image'></center><br>
+<center><img src='/assets/Misc/Nutrition/Nutrients/blood-test.png' alt='' class='smaller-image'></center><br>
 
 {% assign nutrient = "Gluten" %}
 {% assign rnd = "1" %}
@@ -63,14 +63,15 @@ tags:
     | append: "other"
     | split: ","
 %}
-{% include nutrients-table.html nutrient=nutrient rnd=rnd categories=categories %}
+{% assign folder = "gluten" %}
+{% include nutrients-table.html nutrient=nutrient rnd=rnd categories=categories folder=folder %}
 
 {% assign categories =
     "grains,"
     | append: "other"
     | split: ","
 %}
-{% include gluten-5-slices-table.html categories=categories %}
+{% include gluten-5-slices-table.html categories=categories folder=folder %}
 
 <u><font size='+2'>Highest Sources of Gluten</font></u>
 <br><b>Per serving</b>: Vital Wheat Gluten - 22.6 g (1/4 cup, 30 g)

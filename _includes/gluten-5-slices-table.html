@@ -52,7 +52,7 @@
                     {% assign ing_file = item.File | append: "-ing" %}
 
                     {% capture tempGluten %}
-                      {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient="Gluten" fetch="perServing" rnd="1" ing=ing_file %}
+                      {% include getNutrient.html facts=fact_file ing=ing_file servingSize=item.Mass nutrient="Gluten" fetch="perServing" rnd="1" folder=include.folder %}
                     {% endcapture %}
 
                     {% assign glutenNum = glutenStr | replace: 'g', '' %}
@@ -63,10 +63,25 @@
                     {% assign numOfServings = weight | divided_by: servingSize | plus: 0.0 %}
 
                     {% capture tempCal %}
-                      {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient="Calories" fetch="perServing" rnd="0" ing=ing_file %}
+                      {% include getNutrient.html facts=fact_file ing=ing_file servingSize=item.Mass nutrient="Calories" fetch="perServing" rnd="0" folder=include.folder %}
                     {% endcapture %}
 
                     {% assign calories = cal | plus: 0.0 | divided_by: 100 | times: servingSize | times: numOfServings %}
+
+                    {% comment %}
+                      fact_file:"{{fact_file}}"<br>
+                      ing_file:"{{ing_file}}"<br>
+                      tempGluten:"{{tempGluten}}"<br>
+                      glutenStr:"{{glutenStr}}"<br>
+                      glutenNum:"{{glutenNum}}"<br>
+                      servingSize:"{{servingSize}}"<br>
+                      weight:"{{weight | round: 1}}"<br>
+                      numOfServings:"{{numOfServings | round: 2}}"<br>
+                      tempCal:"{{tempCal}}"<br>
+                      cal:"{{cal}}"<br>
+                      calories:"{{calories | round: 1}}"<br>
+                      <br>
+                    {% endcomment %}
 
                     <tr>
                         <td markdown="span">

@@ -76,7 +76,7 @@
                             <td markdown="span">{{ item.Vol }} ({{ item.Mass }} g)</td>
                             {% for fetch in fetch_types %}
                                 <td markdown="span">
-                                    {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient=nutrient fetch=fetch rnd=rnd ing=ing_file %}
+                                    {% include getNutrient.html facts=fact_file servingSize=item.Mass nutrient=nutrient fetch=fetch rnd=rnd ing=ing_file folder=include.folder %}
                                 </td>
                             {% endfor %}
                         </tr>

@@ -385,6 +385,13 @@
                     {% assign itemGluten = row["Gluten Protein %"] | times: itemProtein | divided_by: 100 %}
                     {% assign gluten = gluten | plus: itemGluten %}
 
+                    {% comment %}
+                      food:"{{food}}"<br>
+                      itemGluten:"{{itemGluten}}"<br>
+                      gluten:"{{gluten}}"<br>
+                      <br>
+                    {% endcomment %}
+
                     {% break %}
                 {% endif %}
             {% endfor %}

@@ -418,9 +418,7 @@ Pretzels,pretzels,0.99,283.00,0.00350,83,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,
 "Coriander, ground",coriander,4.36,42.45,0.10271,4,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,
 Ken's Balsamic Vinaigrette,kens-balsamic,3.34,480.00,0.00696,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.5,0.0,0.0,0,https://www.walmart.com/ip/Ken-s-Steak-House-Balsamic-Vinaigrette-Salad-Dressings-16-fl-oz/10307556?classType=VARIANT&from=/search
 Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0,https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search
-Nutella,nutella,4.97,367.90,0.01351,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,0,https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search
-chickpea-nutella-sfs,chickpea-nutella-sfs,2.77,576.00,0.00481,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,15.0,0.0,0,/recipes/chickpea-nutella
-chickpea-nutella-monk-fruit,chickpea-nutella-monk-fruit,2.11,576.00,0.00366,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,17.5,0.0,0,
+Nutella,classic-nutella,4.97,367.90,0.01351,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,0,https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search
 Slow Cooker Dried Beans,crockpot-beans,1.00,"1,269.00",0.00079,33,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,/recipes/slow-cooked-beans
 Farro,farro,3.50,396.20,0.00883,63,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,75,
 "Ham, cooked",ham-cooked,3.99,454.00,0.00879,28,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0,

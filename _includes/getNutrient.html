@@ -17,6 +17,9 @@
     {% assign loopVarFacts = site.data[facts] %}
     {% assign loopVarIng = site.data[ing] %}
 {% endif %}
+{% unless include.ing %}
+  {% assign loopVarIng = site.data.servingSizes['ing-ing'] %}
+{% endunless%}
 
 <!-- Show DV % -->
 {% assign showPercentage = "True" %}
@@ -300,28 +303,50 @@
 
     <!-- Loop through ingredients and foods.csv -->
     {% for row in loopVarIng %}
+
         {% if forloop.last %}
             {% assign servings = row["Amount"] | times: 1 %}
             {% continue %}
         {% endif %}
 
         {% assign food = row["Ingredient"] %}
-        {% assign mass = row["Amount"] | times: 1.0 %}
 
-        {% for row in site.data.foods %}
-            <!-- Added sugar, sugar alcohol, allulose per ingredient -->
-            {% if row["Food"] == food %}
-                {% assign itemAddedSugar = row["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
+        {% for r in site.data.foods %}
+
+            {% assign file = facts | replace: "-facts", "" %}
+
+            <!-- Added sugar, sugar alcohol, allulose, and gluten per ingredient -->
+            {% if r["Food"] == food or r["File"] == file %}
+
+                {% assign mass = 100.0 %}
+                {% if r["Food"] == food %}
+                  {% assign mass = row["Amount"] | times: 1.0 %}
+                {% endif %}
+
+                {% assign itemAddedSugar = r["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
                 {% assign addedSugar = addedSugar | plus: itemAddedSugar %}
 
-                {% assign itemSugarAlcohol = row["Sug Alc per 100 g"] | times: mass | divided_by: 100 %}
+                {% assign itemSugarAlcohol = r["Sug Alc per 100 g"] | times: mass | divided_by: 100 %}
                 {% assign sugAlc = sugAlc | plus: itemSugarAlcohol %}
 
-                {% assign itemAllulose = row["Allulose per 100 g"] | times: mass | divided_by: 100 %}
+                {% assign itemAllulose = r["Allulose per 100 g"] | times: mass | divided_by: 100 %}
                 {% assign all = all | plus: itemAllulose %}
 
-                {% assign itemGluten = row["Gluten Protein %"] | times: totalProtein | divided_by: 100 %}
+                {% assign itemGluten = r["Gluten Protein %"] | times: totalProtein | divided_by: 100 %}
                 {% assign gluten = gluten | plus: itemGluten %}
+
+                {% comment %}
+                  food:"{{food}}"<br>
+                  itemAddedSugar:"{{itemAddedSugar}}"<br>
+                  addedSugar:"{{addedSugar}}"<br>
+                  itemSugarAlcohol:"{{itemSugarAlcohol}}"<br>
+                  sugAlc:"{{sugAlc}}"<br>
+                  itemAllulose:"{{itemAllulose}}"<br>
+                  all:"{{all}}"<br>
+                  itemGluten:"{{itemGluten}}"<br>
+                  gluten:"{{gluten}}"<br>
+                  <br>
+                {% endcomment %}
 
                 {% break %}
             {% endif %}
