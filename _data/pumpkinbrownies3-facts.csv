@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,47,,
+Calories,50,,
 "Vitamin A, RAE",141.7,mcg,16 %
 "Carotene, alpha",849.67,mcg,
 "Carotene, beta",1230.35,mcg,
@@ -15,14 +15,14 @@ Calories,47,,
 "cis-beta-Carotene",0,mcg,
 "trans-Lycopene",0,mcg,
 "trans-beta-Carotene",0,mcg,
-"Thiamin [Vitamin B1]",0.024,mg,2 %
-"Riboflavin [Vitamin B2]",0.029,mg,2 %
-"Niacin [Vitamin B3]",0.391,mg,2 %
-"Pantothenic acid [Vitamin B5]",0.12,mg,2 %
-"Vitamin B6",0.02,mg,1 %
+"Thiamin [Vitamin B1]",0.025,mg,2 %
+"Riboflavin [Vitamin B2]",0.033,mg,3 %
+"Niacin [Vitamin B3]",0.427,mg,3 %
+"Pantothenic acid [Vitamin B5]",0.124,mg,2 %
+"Vitamin B6",0.022,mg,1 %
 "Vitamin B12 [Cobalamin]",0.02,mcg,1 %
 "Vitamin B12, added",0,mcg,
-"Folate, DFE [Vitamin B9]",5.91,mcg,1 %
+"Folate, DFE [Vitamin B9]",6.44,mcg,2 %
 "Folate, food",5.9,mcg,
 "Folic acid",0,mcg,
 "Vitamin C [Ascorbic acid]",0.8,mg,1 %
@@ -45,56 +45,56 @@ Calories,47,,
 "Dihydrophylloquinone",0,mcg,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
-"Choline",12.8,mg,2 %
-"Calcium",9.61,mg,1 %
-"Copper",0.11,mg,12 %
+"Choline",13,mg,2 %
+"Calcium",11.74,mg,1 %
+"Copper",0.17,mg,19 %
 "Fluoride",0,mcg,
 "Iodine",1.03,mcg,1 %
-"Iron",0.87,mg,5 %
-"Magnesium",42.9,mg,10 %
-"Manganese",0.339,mg,15 %
-"Phosphorus",90.28,mg,7 %
-"Potassium",92.73,mg,2 %
-"Selenium",1.33,mcg,2 %
-"Sodium",27.51,mg,1 %
-"Zinc",0.57,mg,5 %
-"Protein",2.41,g,5 %
-"Alanine",0.116,g,
-"Arginine",0.374,g,
-"Aspartic acid",0.239,g,
-"Cystine",0.023,g,
+"Iron",1.1,mg,6 %
+"Magnesium",51.22,mg,12 %
+"Manganese",0.403,mg,18 %
+"Phosphorus",102.51,mg,8 %
+"Potassium",118.13,mg,3 %
+"Selenium",1.57,mcg,3 %
+"Sodium",27.86,mg,1 %
+"Zinc",0.68,mg,6 %
+"Protein",2.74,g,5 %
+"Alanine",0.131,g,
+"Arginine",0.393,g,
+"Aspartic acid",0.272,g,
+"Cystine",0.027,g,
 "Cysteine",0.01,g,
-"Glutamic acid",0.472,g,
-"Glycine",0.134,g,
-"Histidine",0.06,g,5 %
+"Glutamic acid",0.521,g,
+"Glycine",0.149,g,
+"Histidine",0.066,g,6 %
 "Hydroxyproline",0,g,
-"Isoleucine",0.102,g,7 %
-"Leucine",0.188,g,5 %
-"Lysine",0.108,g,3 %
-"Methionine",0.05,g,
-"Phenylalanine",0.133,g,
-"Proline",0.103,g,
-"Serine",0.137,g,
-"Threonine",0.083,g,5 %
-"Tryptophan",0.042,g,10 %
-"Tyrosine",0.09,g,
-"Valine",0.125,g,6 %
-"Phenylalanine + Tyrosine",0.223,g,8 %
-"Methionine + Cysteine",0.06,g,4 %
-"Carbohydrate",7.48,g,3 %
-"Fiber",0.95,g,3 %
+"Isoleucine",0.115,g,7 %
+"Leucine",0.208,g,6 %
+"Lysine",0.124,g,4 %
+"Methionine",0.053,g,
+"Phenylalanine",0.149,g,
+"Proline",0.117,g,
+"Serine",0.151,g,
+"Threonine",0.096,g,6 %
+"Tryptophan",0.047,g,12 %
+"Tyrosine",0.102,g,
+"Valine",0.145,g,7 %
+"Phenylalanine + Tyrosine",0.251,g,9 %
+"Methionine + Cysteine",0.09,g,6 %
+"Carbohydrate",8.45,g,3 %
+"Fiber",1.57,g,6 %
 "Starch",0.1,g,
-"Sugars",0.71,g,
+"Sugars",0.74,g,
 "Fructose",0.01,g,
 "Galactose",0,g,
 "Glucose",0.01,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.07,g,
-"Net carbs",6.53,g,
+"Net carbs",6.88,g,
 "0.01 g",1.37 g,undefined,137.00
-"Fat",3.448,g,4 %
-"Saturated fatty acids",0.656,g,3 %
+"Fat",3.676,g,5 %
+"Saturated fatty acids",0.791,g,4 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Docosanoic acid",0.004,g,
@@ -108,7 +108,7 @@ Calories,47,,
 "Pentadecanoic acid",0.001,g,
 "Tetracosanoic acid",0.003,g,
 "Tetradecanoic acid",0.008,g,
-"Monounsaturated fatty acids",1.139,g,
+"Monounsaturated fatty acids",1.215,g,
 "Cis-hexadecenoic acid",0.008,g,
 "Cis-octadecenoic acid",1.117,g,
 "Docosenoic acid",0,g,
@@ -123,7 +123,7 @@ Calories,47,,
 "Tetradecenoic acid",0,g,
 "Trans-hexadecenoic acid",0,g,
 "Trans-octadecenoic acid",0.002,g,
-"Polyunsaturated fatty acids",1.404,g,
+"Polyunsaturated fatty acids",1.411,g,
 "α-linolenic acid n-3 (ALA)",0.01,g,
 "γ-linolenic acid n-6 (GLA)",0,g,
 "Cis,cis-eicosadienoic n-6 acid",0,g,
@@ -148,7 +148,7 @@ Calories,47,,
 "25-hydroxycholecalciferol",0.01,mcg,
 "Alcohol, ethyl",0.1,g,
 "Ash",0.43,g,
-"Caffeine",0,mg,
+"Caffeine",3.83,mg,
 "Choline, free",0.01,mg,
 "Choline, from glycerophosphocholine",0,mg,
 "Choline, from phosphocholine",6.48,mg,
@@ -159,4 +159,4 @@ Calories,47,,
 "PUFA 18:3 c",0,g,
 "PUFA 20:3 c",0,g,
 "Theobromine",0,mg,
-"Water",18.04,g,
+"Water",18.09,g,

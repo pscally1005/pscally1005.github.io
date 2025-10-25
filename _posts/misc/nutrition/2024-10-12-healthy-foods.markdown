@@ -146,7 +146,7 @@ tags:
 <br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 1.2 mg (51 %)
 <br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 2.7 mg (25 %)
 <br>------------------------------------------
-<br><b><a href='/misc/nutrition-alphabet#K'>Vitamin K</a></b>: 2.7 mcg (2 %)
+<br><b><a href='/misc/nutrient-alphabet#K'>Vitamin K</a></b>: 2.7 mcg (2 %)
 <br><b>Choline</b>: 13 mg (2 %)
 <br>------------------------------------------
 <center><img src='/assets/Misc/Nutrition/Overshadowed/cacao.png' alt='' class='smaller-image'></center><br>
