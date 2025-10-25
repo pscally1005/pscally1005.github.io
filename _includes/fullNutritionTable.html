@@ -59,47 +59,65 @@
             tableContent += '</thead>';
 
         tableContent += '<tbody id="nutritionTableBody">';
-            // Loop through the facts data and generate rows
-            {% for row in site.data[facts] %}
-                tableContent += '<tr>';
-                    tableContent += '<td>{{ row.Nutrient }}</td>';
-                    {% if row.Nutrient == "Net carbs" %}
-                        tableContent += '<td>{{ netCarbNum | round: 2 }}</td>';
-                    {% else %}
-                        tableContent += '<td>{{ row.Amount }}</td>';
+
+            {% assign white_list = site.data.whitelist.white_list %}
+
+            {% for section in site.data.whitelist.sections %}
+                tableContent += '<tr><th colspan="4" style="padding-top:16px; padding-bottom:16px; text-align:left; font-size:1.1em; border-top:3px double black; border-bottom:1px solid black;">{{ section.name }}</th></tr>';
+
+                {% for nutrient_entry in section.nutrients %}
+
+                    {% assign row = site.data[facts] | where: "Nutrient", nutrient_entry.key | first %}
+
+                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" %}
+
+                        {% assign display_name = nutrient_entry.display | default: nutrient_entry.key %}
+
+                        {% assign indent_amount = "" %}
+                        {% if display_name == "Added Sugar" %}
+                          {% assign indent_amount = "&emsp;&emsp;&emsp;" %}
+                        {% elsif nutrient_entry.indent %}
+                          {% assign indent_amount = "&emsp;&emsp;" %}
+                        {% else %}
+                          {% assign indent_amount = "&emsp;" %}
+                        {% endif %}
+
+                        tableContent += '<tr>';
+                            tableContent += '<td>{{ indent_amount}}{{ display_name }}</td>';
+
+                            {% if nutrient_entry.key == "Net carbs" %}
+                                tableContent += '<td>{{ netCarbNum | round: 2 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>';
+                            {% elsif nutrient_entry.key == "Added Sugar" %}
+                                tableContent += '<td>{{ addedSugarNum | round: 2 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td>{{addedSugarPercentage}}</td>'
+                            {% elsif nutrient_entry.key == "Sugar Alcohols" %}
+                                tableContent += '<td>{{ sugAlcNum | round: 2 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>';
+                            {% elsif nutrient_entry.key == "Allulose" %}
+                                tableContent += '<td>{{ allNum | round: 2 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>';
+                            {% elsif nutrient_entry.key == "Gluten" %}
+                                tableContent += '<td>{{ glutenNum | round: 2 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>';
+                            {% else %}
+                                tableContent += '<td>{{ row.Amount }}</td>';
+                                tableContent += '<td>{{ row.Unit }}</td>';
+                                tableContent += '<td>{{ row.DV }}</td>';
+                            {% endif %}
+
+                        tableContent += '</tr>';
+
                     {% endif %}
-                    tableContent += '<td>{{ row.Unit }}</td>';
-                    tableContent += '<td>{{ row.DV }}</td>';
-                tableContent += '</tr>';
+
+                {% endfor %}
+
             {% endfor %}
-
-            tableContent += '<tr>';
-                tableContent += '<td>Added Sugars</td>';
-                tableContent += '<td>{{addedSugarNum | round: 2}}</td>';
-                tableContent += '<td>g</td>';
-                tableContent += '<td>{{addedSugarPercentage}}</td>';
-            tableContent += '</tr>';
-
-            tableContent += '<tr>';
-                tableContent += '<td>Sugar Alcohols</td>';
-                tableContent += '<td>{{sugAlcNum | round: 2}}</td>';
-                tableContent += '<td>g</td>';
-                tableContent += '<td></td>';
-            tableContent += '</tr>';
-
-            tableContent += '<tr>';
-                tableContent += '<td>Allulose</td>';
-                tableContent += '<td>{{allNum | round: 2}}</td>';
-                tableContent += '<td>g</td>';
-                tableContent += '<td></td>';
-            tableContent += '</tr>';
-
-            tableContent += '<tr>';
-                tableContent += '<td>Gluten</td>';
-                tableContent += '<td>{{glutenNum | round: 2}}</td>';
-                tableContent += '<td>g</td>';
-                tableContent += '<td></td>';
-            tableContent += '</tr>';
 
         tableContent += '</tbody></table>';
 

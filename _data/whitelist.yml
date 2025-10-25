@@ -1,0 +1,85 @@
+sections:
+  - name: Vitamins
+    nutrients:
+      - key: Vitamin A, RAE
+        display: Vitamin A
+      - key: Thiamin [Vitamin B1]
+        display: Vitamin B1 (Thiamin)
+      - key: Riboflavin [Vitamin B2]
+        display: Vitamin B2 (Riboflavin)
+      - key: Niacin [Vitamin B3]
+        display: Vitamin B3 (Niacin)
+      - key: Pantothenic acid [Vitamin B5]
+        display: Vitamin B5 (Pantothenic Acid)
+      - key: Vitamin B6
+      - key: Folate, DFE [Vitamin B9]
+        display: Vitamin B9 (Folate)
+      - key: Vitamin B12 [Cobalamin]
+        display: Vitamin B12
+      - key: Vitamin C [Ascorbic acid]
+        display: Vitamin C
+      - key: Vitamin D
+      - key: Vitamin E (alpha-tocopherol)
+        display: Vitamin E
+      - key: Vitamin K
+      - key: Choline
+  - name: Minerals
+    nutrients:
+      - key: Calcium
+      - key: Copper
+      - key: Iron
+      - key: Magnesium
+      - key: Manganese
+      - key: Phosphorus
+      - key: Potassium
+      - key: Sodium
+      - key: Selenium
+      - key: Zinc
+  - name: Proteins
+    nutrients:
+      - key: Protein
+      - key: Gluten
+        indent: true
+  - name: Carbs
+    nutrients:
+      - key: Carbohydrate
+        display: Total Carbs
+      - key: Fiber
+        indent: true
+      - key: Net carbs
+        display: Net Carbs
+        indent: true
+      - key: Sugars
+        display: Total Sugar
+        indent: true
+      - key: Added Sugar
+        indent: true
+      - key: Sugar Alcohols
+        indent: true
+      - key: Allulose
+        indent: true
+  - name: Fats
+    nutrients:
+      - key: Fat
+        display: Total Fat
+      - key: Saturated fatty acids
+        display: Saturated Fat
+        indent: true
+      - key: Monounsaturated fatty acids
+        display: Monounsaturated Fat
+        indent: true
+      - key: Polyunsaturated fatty acids
+        display: Polyunsaturated Fat
+        indent: true
+      - key: Eicosapentaenoic n-3 acid (EPA)
+        display: EPA
+        indent: true
+      - key: Docosahexaenoic n-3 acid (DHA)
+        display: DHA
+        indent: true
+  - name: Other
+    nutrients:
+      - key: Cholesterol
+      - key: Alcohol, ethyl
+        display: Alcohol
+      - key: Caffeine
