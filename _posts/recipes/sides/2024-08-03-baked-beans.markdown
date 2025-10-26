@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  No Added Sugar Baked Beans
-date:   2024-08-03 00:00:00 -05000
+date:   2024-08-03 00:00:00 -0500
 categories:
 - Recipes
 - Sides

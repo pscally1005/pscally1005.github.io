@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Vegan Cashew Cream Cheese
-date:   2025-05-15 00:00:00 -05000
+date:   2025-05-15 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

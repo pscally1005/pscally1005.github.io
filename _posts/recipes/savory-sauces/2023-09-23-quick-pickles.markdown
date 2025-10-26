@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Quick Pickled Red Onions
-date:   2023-09-23 00:00:00 -05000
+date:   2023-09-23 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

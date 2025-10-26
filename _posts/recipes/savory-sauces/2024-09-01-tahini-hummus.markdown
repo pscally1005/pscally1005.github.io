@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Classic Tahini Hummus
-date:   2024-09-01 00:00:00 -05000
+date:   2024-09-01 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

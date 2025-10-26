@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sloppy Joe Skillets
-date:   2023-09-19 00:00:00 -05000
+date:   2023-09-19 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat

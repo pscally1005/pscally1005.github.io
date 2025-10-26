@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Peanut Butter Pretzel Nuggets
-date:   2025-08-03 00:00:00 -05000
+date:   2025-08-03 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes

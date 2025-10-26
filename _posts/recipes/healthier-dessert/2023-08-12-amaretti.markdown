@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amaretti Cookies with Monkfruit
-date:   2023-08-12 00:00:00 -05000
+date:   2023-08-12 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert

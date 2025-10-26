@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Peanut Chili Salad Dressing
-date:   2024-05-17 00:00:00 -05000
+date:   2024-05-17 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

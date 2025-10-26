@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Slow Cooker Dried Beans
-date:   2024-04-30 00:00:00 -05000
+date:   2024-04-30 00:00:00 -0500
 categories:
 - Recipes
 - Sides

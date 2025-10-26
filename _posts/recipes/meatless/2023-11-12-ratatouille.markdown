@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Simple Ratatouille Stew
-date:   2023-11-12 00:00:00 -05000
+date:   2023-11-12 00:00:00 -0500
 categories:
 - Recipes
 - Meatless

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Pesto Goat Cheese Mac & Cheese'
-date:   2025-04-10 00:00:00 -05000
+date:   2025-04-10 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat

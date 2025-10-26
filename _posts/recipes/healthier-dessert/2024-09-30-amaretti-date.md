@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Amaretti Cookies with Dates
-date:   2024-09-30 00:00:00 -05000
+date:   2024-09-30 00:00:00 -0500
 categories: 
 - Recipes
 - Healthier Dessert

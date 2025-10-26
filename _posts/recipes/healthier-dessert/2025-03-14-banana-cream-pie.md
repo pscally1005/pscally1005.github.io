@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Banana No-Cream Pie
-date:   2025-03-14 00:00:00 -05000
+date:   2025-03-14 00:00:00 -0500
 categories: 
 - Recipes
 - Healthier Dessert

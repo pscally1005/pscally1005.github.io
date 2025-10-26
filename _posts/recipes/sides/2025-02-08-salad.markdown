@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Salad Base For Your Fridge
-date:   2025-02-08 00:00:00 -05000
+date:   2025-02-08 00:00:00 -0500
 categories:
 - Recipes
 - Sides

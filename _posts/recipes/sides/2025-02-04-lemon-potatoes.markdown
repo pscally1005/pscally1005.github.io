@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lower Oil Greek Lemon Potatoes
-date:   2025-02-04 00:00:00 -05000
+date:   2025-02-04 00:00:00 -0500
 categories:
 - Recipes
 - Sides

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lightened Extra Virgin Olive Oil Pesto
-date:   2023-09-24 00:00:00 -05000
+date:   2023-09-24 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

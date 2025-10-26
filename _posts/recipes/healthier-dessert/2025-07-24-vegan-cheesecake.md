@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Vegan Chocolate Cheesecake Bars
-date:   2025-07-24 00:00:00 -05000
+date:   2025-07-24 00:00:00 -0500
 categories: 
 - Recipes
 - Healthier Dessert

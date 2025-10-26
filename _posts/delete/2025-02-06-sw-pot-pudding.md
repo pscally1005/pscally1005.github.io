@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sweet Potato Chcolate Pudding
-date:   2025-02-06 00:00:00 -05000
+date:   2025-02-06 00:00:00 -0500
 categories: 
 - Recipes
 - Healthier Dessert

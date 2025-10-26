@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sun Dried Tomato Pasta Salad
-date:   2025-09-08 00:00:00 -05000
+date:   2025-09-08 00:00:00 -0500
 categories:
 - Recipes
 - Meatless

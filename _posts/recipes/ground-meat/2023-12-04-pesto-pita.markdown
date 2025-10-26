@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tomato Pesto Turkey Pitas
-date:   2023-12-04 00:00:00 -05000
+date:   2023-12-04 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat

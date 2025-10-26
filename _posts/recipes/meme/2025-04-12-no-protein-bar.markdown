@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The No-Protein Bar
-date:   2025-04-12 00:00:00 -05000
+date:   2025-04-12 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes

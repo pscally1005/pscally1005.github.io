@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Edible Protein Cookie Dough
-date:   2023-11-05 00:00:00 -05000
+date:   2023-11-05 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder

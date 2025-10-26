@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Kinda Asian Cucumber Salad
-date:   2025-07-14 00:00:00 -05000
+date:   2025-07-14 00:00:00 -0500
 categories:
 - Recipes
 - Sides

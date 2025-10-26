@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Penne and Meat Casserole Bake
-date:   2023-03-24 00:00:00 -05000
+date:   2023-03-24 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Macro Friendly Clam Sauce
-date:   2023-09-08 00:00:00 -05000
+date:   2023-09-08 00:00:00 -0500
 categories:
 - Recipes
 - Fish

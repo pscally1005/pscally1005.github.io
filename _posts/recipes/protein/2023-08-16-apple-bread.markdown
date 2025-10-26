@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Protein Apple Bread
-date:   2023-08-16 00:00:00 -05000
+date:   2023-08-16 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder

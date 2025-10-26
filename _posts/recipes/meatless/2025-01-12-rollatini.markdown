@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Leaner Eggplant Rollatini
-date:   2025-01-12 00:00:00 -05000
+date:   2025-01-12 00:00:00 -0500
 categories:
 - Recipes
 - Meatless

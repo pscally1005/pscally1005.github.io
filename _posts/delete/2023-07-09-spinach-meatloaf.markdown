@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Spinach Meatloaf with Roasted Butternut Squash
-date:   2023-07-09 00:00:00 -05000
+date:   2023-07-09 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Homemade Pumpkin Puree
-date:   2024-10-24 00:00:00 -05000
+date:   2024-10-24 00:00:00 -0500
 categories: 
 - Recipes
 - Sweet Spreads

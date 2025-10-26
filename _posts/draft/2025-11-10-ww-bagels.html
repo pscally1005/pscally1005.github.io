@@ -21,7 +21,7 @@ permalink: /recipes/whole-wheat-bagels
 image: /assets/Food/Bread/WW Bagels/cover.jpg
 ing: wwbagels-ing
 facts: wwbagels-facts
-servingSize: 1 bagel (TODO g)
+servingSize: 1 bagel
 section1:
 start2:
 section2:
@@ -81,4 +81,27 @@ Instructions:
 - <center><img src='/assets/Food/Bread/WW Bagels/bag.jpg' alt='' class='instruction-image'></center>
 
 - To reheat, air fry (or bake or toast) your bagels directly from frozen for about 5 minutes at 350F, or until crispy and lightly browned
+- <center><img src='/assets/Food/Bread/WW Bagels/lox1.jpg' alt='' class='instruction-image'></center>
+
+- Here's a delicious lox bagel with 3 oz (85 g) smoked <a href='/misc/fish#salmon'>salmon</a>, 2 tbsp (30 g) Greek <a href='/misc/dairy#cream-cheese'>cream cheese</a>, and 2 tbsp (15 g) capers
+- <center><img src='/assets/Food/Bread/WW Bagels/lox2.jpg' alt='' class='instruction-image'></center>
 ---
+{% assign files =
+    "wwbagels,"
+    | append: "loxbagel"
+    | split: ","
+%}
+{% assign titles =
+    "Plain Bagel,"
+    | append: "With <a href='/misc/fish#salmon'>Lox</a> &<br><a href='/misc/dairy#cream-cheese'>Cream Cheese</a>"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Net Carbs,"
+    | append: "Fiber"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

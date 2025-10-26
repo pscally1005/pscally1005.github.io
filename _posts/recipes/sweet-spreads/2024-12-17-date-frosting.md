@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Date Sweetened Frosting
-date:   2024-12-17 00:00:00 -05000
+date:   2024-12-17 00:00:00 -0500
 categories: 
 - Recipes
 - Sweet Spreads

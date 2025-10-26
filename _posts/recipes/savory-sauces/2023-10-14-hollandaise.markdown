@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Greek Yogurt Hollandaise Sauce
-date:   2023-10-14 00:00:00 -05000
+date:   2023-10-14 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

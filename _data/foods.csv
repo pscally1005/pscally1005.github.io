@@ -176,6 +176,7 @@ Avocado,avocado,1.00,136.00,0.00735,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0
 Whole wheat bread,whole-wheat-bread,1.97,560.00,0.00352,59,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,75,/recipes/ww-bread
 Whole wheat baguette,whole-wheat-bread,0.65,190.00,0.00342,74,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,75,/recipes/whole-wheat-baguettes
 Whole wheat pita bread,whole-wheat-bread,0.27,60.00,0.00442,73,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,75,/recipes/pita
+Whole wheat bagel,ww-bagel,0.38,103.00,0.00369,70,FALSE,TRUE,TRUE,TRUE,t,TRUE,0.0,0.0,0.0,75,/recipes/whole-wheat-bagels
 Lemon juice,lemon-juice,2.88,896.00,0.00321,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,
 "Cilantro, dried",cilantro-dried,1.94,14.00,0.13857,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,
 Tomato,tomato,0.98,454.00,0.00216,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,

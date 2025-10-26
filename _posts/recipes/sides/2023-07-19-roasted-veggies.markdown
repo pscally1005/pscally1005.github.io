@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Simply Roasted Vegetables
-date:   2023-07-19 00:00:00 -05000
+date:   2023-07-19 00:00:00 -0500
 categories:
 - Recipes
 - Sides

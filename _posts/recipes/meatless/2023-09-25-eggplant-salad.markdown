@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Grilled Eggplant and Chickpea Salad
-date:   2023-09-25 00:00:00 -05000
+date:   2023-09-25 00:00:00 -0500
 categories:
 - Recipes
 - Meatless

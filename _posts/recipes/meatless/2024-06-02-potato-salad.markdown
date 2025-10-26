@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mediterranean Sweet Potato Salad
-date:   2024-06-01 00:00:00 -05000
+date:   2024-06-01 00:00:00 -0500
 categories:
 - Recipes
 - Meatless

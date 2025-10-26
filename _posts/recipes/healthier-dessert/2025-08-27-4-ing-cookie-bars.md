@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  4 Ingredient Cookie Bars
-date:   2025-08-27 00:00:00 -05000
+date:   2025-08-27 00:00:00 -0500
 categories: 
 - Recipes
 - Healthier Dessert

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chicken Fat Chocolate Chip Cookies
-date:   2025-09-06 00:00:00 -05000
+date:   2025-09-06 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes

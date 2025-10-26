@@ -472,7 +472,7 @@ def ingredients(food):
         return str("Tuna, in water")
     elif food == "Pickles, sour, cucumber":
         return str("Pickles")
-    elif food == "Capers by RALEY'S":
+    elif food == "Capers by RALEY'S" or food == "Capers, canned":
         return str("Capers")
     elif food == "Sardines in water" or food == "Sardines, canned in water":
         return str("Sardines, in water")
@@ -554,6 +554,8 @@ def ingredients(food):
         return str("Whole wheat tortilla")
     elif food == "Bread, whole wheat" or food == "ww-bread":
         return str("Whole wheat bread")
+    elif food == "ww-bagles":
+        return str("Whole wheat bagel")
     elif food == "baguette":
         return str("Whole wheat baguette")
     elif food == "Rice, raw, long-grain, brown":
@@ -606,6 +608,8 @@ def ingredients(food):
         return str("Tilapia")
     elif food == "Fish, raw, pink, salmon" or food == "Salmon fillet by WILD ALASKAN SOCKEYE":
         return str("Salmon")
+    elif food == "Smoked Salmon":
+        return str("Smoked salmon")
     elif food == "Crustaceans, raw (may contain additives to retain moisture), mixed species, shrimp" or food == "Peeled & deveined raw shrimp by PACIFIC SURF":
         return str("Frozen raw shrimp, peeled and deveined")
     elif food == "Beef, raw, select, trimmed to 1/8 fat, separable lean only, steak, top sirloin":

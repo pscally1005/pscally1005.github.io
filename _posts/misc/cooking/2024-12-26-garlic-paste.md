@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Roasted Garlic Paste For Your Freezer
-date:   2024-12-26 00:00:00 -05000
+date:   2024-12-26 00:00:00 -0500
 categories: 
 - Misc.
 - Cooking Tips

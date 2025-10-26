@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Parmesan Crusted Roasted Broccoli
-date:   2025-09-20 00:00:00 -05000
+date:   2025-09-20 00:00:00 -0500
 categories:
 - Recipes
 - Sides

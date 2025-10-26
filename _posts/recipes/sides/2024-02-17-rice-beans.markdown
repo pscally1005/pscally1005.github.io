@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Classic Rice and Beans
-date:   2024-02-17 00:00:00 -05000
+date:   2024-02-17 00:00:00 -0500
 categories:
 - Recipes
 - Sides

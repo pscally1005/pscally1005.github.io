@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'What is the Best Protein Source?'
-date:   2024-05-31 00:00:00 -05000
+date:   2024-05-31 00:00:00 -0500
 categories:
 - Misc.
 - Costs

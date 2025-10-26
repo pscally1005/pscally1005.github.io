@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sweet Potato Blondies
-date:   2024-07-10 00:00:00 -05000
+date:   2024-07-10 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert

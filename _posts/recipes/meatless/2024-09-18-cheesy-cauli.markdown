@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  '"Cheesy" Cauliflower Rice & Beans'
-date:   2024-09-18 00:00:00 -05000
+date:   2024-09-18 00:00:00 -0500
 categories:
 - Recipes
 - Meatless

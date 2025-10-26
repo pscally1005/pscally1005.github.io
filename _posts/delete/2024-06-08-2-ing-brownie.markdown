@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  '"Two" Ingredient Brownies'
-date:   2024-06-08 00:00:00 -05000
+date:   2024-06-08 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert

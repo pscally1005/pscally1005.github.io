@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How to Roast a Whole Artichoke
-date:   2024-07-29 00:00:00 -05000
+date:   2024-07-29 00:00:00 -0500
 categories:
 - Misc.
 - Cooking Tips

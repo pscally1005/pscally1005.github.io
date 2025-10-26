@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Steamed Vegetables That Don't Suck
-date:   2025-08-29 00:00:00 -05000
+date:   2025-08-29 00:00:00 -0500
 categories:
 - Recipes
 - Sides

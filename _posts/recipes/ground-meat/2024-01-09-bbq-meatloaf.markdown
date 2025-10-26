@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Classic BBQ Meatloaf and Lemon Roasted Broccoli
-date:   2024-01-09 00:00:00 -05000
+date:   2024-01-09 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat

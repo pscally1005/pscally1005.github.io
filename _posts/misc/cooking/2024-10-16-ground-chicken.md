@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How to Make Ground Chicken
-date:   2024-10-16 00:00:00 -05000
+date:   2024-10-16 00:00:00 -0500
 categories: 
 - Misc.
 - Cooking Tips

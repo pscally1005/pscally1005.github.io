@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lemon Baba Ganoush Without Oil
-date:   2024-12-04 00:00:00 -05000
+date:   2024-12-04 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

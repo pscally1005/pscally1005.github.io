@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  White Bean Blue Cheese Dressing
-date:   2025-01-27 00:00:00 -05000
+date:   2025-01-27 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

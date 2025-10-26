@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lightened Up Spinach Artichoke Dip
-date:   2025-02-27 00:00:00 -05000
+date:   2025-02-27 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

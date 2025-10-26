@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Gooey Cheese Sauce
-date:   2025-02-09 00:00:00 -05000
+date:   2025-02-09 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

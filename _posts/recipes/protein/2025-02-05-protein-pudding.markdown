@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chocolate Protein Pudding
-date:   2025-02-05 00:00:00 -05000
+date:   2025-02-05 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder

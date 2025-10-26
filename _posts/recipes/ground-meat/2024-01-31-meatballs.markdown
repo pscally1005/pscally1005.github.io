@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Zoodles and Meatballs
-date:   2024-01-31 00:00:00 -05000
+date:   2024-01-31 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat

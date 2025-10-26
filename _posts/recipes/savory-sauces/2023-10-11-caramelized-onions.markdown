@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Slow Cooker Caramelized Onions
-date:   2023-10-11 00:00:00 -05000
+date:   2023-10-11 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

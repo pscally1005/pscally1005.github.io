@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  100 Calorie Protein Bars
-date:   2024-05-29 00:00:00 -05000
+date:   2024-05-29 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder

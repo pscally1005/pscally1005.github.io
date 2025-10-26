@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Spaghetti Tacos with Zoodles
-date:   2024-04-05 00:00:00 -05000
+date:   2024-04-05 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes

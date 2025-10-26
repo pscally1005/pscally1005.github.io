@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  '"Cheesy" Garlic Hummus'
-date:   2025-01-08 00:00:00 -05000
+date:   2025-01-08 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces

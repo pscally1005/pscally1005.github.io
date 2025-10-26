@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chickpea Date Blondies
-date:   2024-04-26 00:00:00 -05000
+date:   2024-04-26 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert

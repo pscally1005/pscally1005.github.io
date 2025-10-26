@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Crumble with Oats
-date:   2023-07-15 00:00:00 -05000
+date:   2023-07-15 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert

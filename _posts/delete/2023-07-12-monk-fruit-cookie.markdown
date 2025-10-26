@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Granulated Monkfruit Cookies
-date:   2023-07-12 00:00:00 -05000
+date:   2023-07-12 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
