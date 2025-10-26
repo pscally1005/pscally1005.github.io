@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  'Meal Prop Chocolate Protein Breakfast Bowls (with Electrolytes)'
-date:   2025-10-21 00:00:00 -0500
+title:  'Meal Prep Chocolate Protein Breakfast Bowls (with Electrolytes)'
+date:   2025-10-26 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
