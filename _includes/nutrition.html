@@ -100,14 +100,13 @@
 
         {% assign fib = "" %}
         {% assign totalFib = "" %}
-        {% assign sugAlc = "" %}
-        {% assign all = "" %}
 
         {% assign sug = "" %}
         {% assign totalSugar = "" %}
         {% assign addedSugar = "" %}
-        {% assign addedSugarPercentage = "" %}
-        {% assign addedSugarStr = "" %}
+
+        {% assign sugAlc = "" %}
+        {% assign all = "" %}
 
         {% assign prot = "" %}
         {% assign gluten = "" %}
@@ -511,7 +510,8 @@
                 {% endif %}
 
                 {% if glutenNum != 0 %}
-                    {% assign glutenStr = glutenNum | round: 1 | append: 'g' %}
+                    {% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 %}
+                    {% assign glutenStr = glutenNum | round: 1 | append: 'g (' | append: glutenPercentage | append: ' %)' %}
                     <!-- &emsp;<b><a href="/misc/gluten">Gluten</a></b>: {{ glutenStr }}<br> -->
                 {% endif %}
 

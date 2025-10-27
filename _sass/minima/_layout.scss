@@ -302,7 +302,7 @@
   }
 }
 
-.post-count-container, .page-post-count {
+.post-count-container, .page-post-count, .page-sort-by {
   text-align: center;        /* Center content within this container */
   color: var(--gray-text-color);
   padding-bottom: 30px;     /* Space inside the element */
@@ -998,11 +998,11 @@ a.button {
 
 
 /* Desktop and default */
-#recipe, 
-#nutrition-facts, 
-#disqus_thread, 
-.table-of-contents, 
-.table-of-contents-2, 
+#recipe,
+#nutrition-facts,
+#disqus_thread,
+.table-of-contents,
+.table-of-contents-2,
 #top-post,
 #top-home,
 #top-page {
@@ -1015,11 +1015,11 @@ a.button {
   padding-top: 60px; /* Adjust based on your design */
 }
 
-#recipe:before, 
-#nutrition-facts:before, 
-#disqus_thread:before, 
-.table-of-contents:before, 
-.table-of-contents-2:before, 
+#recipe:before,
+#nutrition-facts:before,
+#disqus_thread:before,
+.table-of-contents:before,
+.table-of-contents-2:before,
 #top-post:before,
 #top-home:before,
 #top-page:before {
@@ -1033,7 +1033,7 @@ a.button {
   margin-top: -40px; /* Same value as height, moving the element up */
 }
 
-#nutrition-facts:before, 
+#nutrition-facts:before,
 .table-of-contents:before,
 #top-post:before,
 #top-home:before,
@@ -1127,7 +1127,7 @@ img {
   }
 
   /* Ensure the important elements are visible */
-  .recipe, 
+  .recipe,
   .recipe-title,
   .recipe-ingredients,
   .recipe-instruction-header,
@@ -1154,9 +1154,9 @@ img {
       font-weight: bold !important; /* Ensure bold weight applies */
   }
 
-  .recipe-ingredients, 
-  .recipe-instruction-header, 
-  .recipe-instructions, 
+  .recipe-ingredients,
+  .recipe-instruction-header,
+  .recipe-instructions,
   .recipe-nutrition {
       font-size: 16px;
       line-height: 1.5; /* Keep line-height */
@@ -1164,7 +1164,7 @@ img {
 
   /* Other styles to ensure print formatting */
   body,
-  .page-title, 
+  .page-title,
   .post-header,
   .recipe-title,
   .recipe-header,

@@ -11,6 +11,7 @@
 {% assign sugarAlcoholNum = include.sugAlc %}
 {% assign alluloseNum = include.all %}
 {% assign glutenNum = include.gluten %}
+{% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 | append: '&nbsp;%' %}
 
 <!-- JavaScript to open the table in a new window -->
 <script>
@@ -92,7 +93,7 @@
                             {% elsif nutrient_entry.key == "Added Sugar" %}
                                 tableContent += '<td>{{ addedSugarNum | round: 2 }}</td>';
                                 tableContent += '<td>g</td>';
-                                tableContent += '<td>{{addedSugarPercentage}}</td>'
+                                tableContent += '<td>{{ addedSugarPercentage }}</td>'
                             {% elsif nutrient_entry.key == "Sugar Alcohols" %}
                                 tableContent += '<td>{{ sugAlcNum | round: 2 }}</td>';
                                 tableContent += '<td>g</td>';
@@ -104,7 +105,7 @@
                             {% elsif nutrient_entry.key == "Gluten" %}
                                 tableContent += '<td>{{ glutenNum | round: 2 }}</td>';
                                 tableContent += '<td>g</td>';
-                                tableContent += '<td></td>';
+                                tableContent += '<td>{{ glutenPercentage }}</td>'
                             {% else %}
                                 tableContent += '<td>{{ row.Amount }}</td>';
                                 tableContent += '<td>{{ row.Unit }}</td>';

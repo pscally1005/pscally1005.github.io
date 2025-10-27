@@ -42,9 +42,9 @@ tags:
 {% assign bread_slice_protein = bread_protein_100g | divided_by: 100 | times: bread_slice_weight %}
 {% assign bread_gluten_protein_per = 0.80 %}
 {% assign bread_gluten_100g = bread_protein_100g | times: bread_gluten_protein_per %}
-{% assign five_slices_gluten = bread_gluten_100g | divided_by: 100 | times: bread_slice_weight | times: 5 | round: 1 %}
+{% assign five_slices_gluten = bread_gluten_100g | divided_by: 100 | times: bread_slice_weight | times: 5 %}
 
-&emsp;Let's assume a <a href='https://www.nutritionvalue.org/Bread%2C_wheat_nutritional_value.html'>standard loaf of bread</a>.  Each slice weighs {{bread_slice_weight}} g, and contains {{bread_slice_protein | round: 1}} g of <a href='/misc/protein'>protein</a>.  Since approximately {{bread_gluten_protein_per | times: 100 | round: 0}}% of <a href='/misc/protein'>protein</a> in bread is made up of gluten, we can therefore conclude that <b>5 slices of bread contains approximately {{ five_slices_gluten }} g of gluten</b>.<br><br>
+&emsp;Let's assume a <a href='https://www.nutritionvalue.org/Bread%2C_wheat_nutritional_value.html'>standard loaf of bread</a>.  Each slice weighs {{bread_slice_weight}} g, and contains {{bread_slice_protein | round: 1}} g of <a href='/misc/protein'>protein</a>.  Since approximately {{bread_gluten_protein_per | times: 100 | round: 0}}% of <a href='/misc/protein'>protein</a> in bread is made up of gluten, we can therefore conclude that <b>5 slices of bread contains approximately {{ five_slices_gluten | round: 1 }} g of gluten</b>.<br><br>
 
 &emsp;In the table below, I will break down the amount of gluten contained in certain foods; per serving size, per 100 g, and per 100 calories.  Note that data for the amount of gluten in specific grains is not always present.  Therefore, I will be assuming the following:<br><br>
 <ul>

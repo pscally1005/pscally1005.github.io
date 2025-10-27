@@ -48,18 +48,115 @@ layout: base
         page.title == "Draft" or
         page.title == "Delete"
     %}
-      <center><div class='filter-options'>
-        <label><input type='checkbox' id='glutenFree' /> Gluten-Free</label>
-        <label><input type='checkbox' id='vegetarian' /> Vegetarian</label>
-        <label><input type='checkbox' id='dairyFree' /> Dairy-Free</label>
-        <br>
-        <label><input type='checkbox' id='vegan' /> Vegan</label>
-        <label><input type='checkbox' id='nutFree' /> Nut-Free</label>
-        <label><input type='checkbox' id='sugarFree' /> Sugar-Free</label>
-        <br><br>
-      </div></center>
+      <center>
+        <div class='filter-options'>
+          <label><input type='checkbox' id='glutenFree' /> Gluten-Free</label>
+          <label><input type='checkbox' id='vegetarian' /> Vegetarian</label>
+          <label><input type='checkbox' id='dairyFree' /> Dairy-Free</label>
+          <span class="mobile-break"></span>
+          <label><input type='checkbox' id='vegan' /> Vegan</label>
+          <label><input type='checkbox' id='nutFree' /> Nut-Free</label>
+          <label><input type='checkbox' id='sugarFree' /> Sugar-Free</label>
+        </div>
+      </center>
+
+      <style>
+        /* Add a line break only on mobile between Dairy-Free and Vegan */
+        @media (max-width: 768px) {
+          .mobile-break {
+            display: block;
+            height: 0; /* optional spacing if needed */
+          }
+        }
+
+        /* Hide the break on desktop */
+        @media (min-width: 769px) {
+          .mobile-break {
+            display: none;
+          }
+        }
+    </style>
+
     {% endunless %}
   {% endif %}
+
+  <!-- Sort Options -->
+  <center>
+    <div class="sort-options" style="margin-top: 1em;">
+      <label for="sortOrder"><span class='page-sort-by'>Sort by:</span></label>
+      <select id="sortOrder">
+        <option value="newest" selected>Date (Newest First)</option>
+        <option value="oldest">Date (Oldest First)</option>
+        <option value="abc">Alphabetical (A–Z)</option>
+        <option value="zyx">Alphabetical (Z–A)</option>
+        <option value="random">Random</option>
+      </select>
+    </div>
+  </center>
+
+  <script>
+    // Function to sort posts by date or alphabetically
+    function sortPosts(order) {
+      const container = document.getElementById('home-posts-container');
+      const posts = Array.from(container.querySelectorAll('.post-item'));
+
+      // Extract title and date from each post
+      const sortedPosts = posts.sort((a, b) => {
+        switch (order) {
+          case 'abc':
+            return a.querySelector('.post-title b').textContent
+              .trim().toLowerCase()
+              .localeCompare(b.querySelector('.post-title b').textContent.trim().toLowerCase());
+          case 'zyx':
+            return b.querySelector('.post-title b').textContent
+              .trim().toLowerCase()
+              .localeCompare(a.querySelector('.post-title b').textContent.trim().toLowerCase());
+          case 'oldest':
+            return new Date(a.dataset.date) - new Date(b.dataset.date);
+          case 'random':
+            return Math.random() - 0.5;
+          default:
+            // Default: newest first
+            return new Date(b.dataset.date) - new Date(a.dataset.date);
+        }
+      });
+
+      // Clear and re-append sorted posts
+      container.innerHTML = '';
+      sortedPosts.forEach(post => container.appendChild(post));
+
+      // Re-run filter after sorting to maintain correct numbering
+      filterPosts();
+    }
+
+    // Event listener for dropdown changes
+    document.getElementById('sortOrder').addEventListener('change', function() {
+      sortPosts(this.value);
+    });
+
+    // remember last user choice
+    document.getElementById('sortOrder').addEventListener('change', function() {
+      localStorage.setItem('sortOrder', this.value);
+      sortPosts(this.value);
+    });
+    window.addEventListener('load', function() {
+      const saved = localStorage.getItem('sortOrder');
+      if (saved) {
+        document.getElementById('sortOrder').value = saved;
+        sortPosts(saved);
+      }
+    });
+
+  </script>
+
+  <style>
+    .sort-options select {
+      padding: 4px 8px;
+      font-size: 0.9rem;
+      border-radius: 6px;
+    }
+  </style>
+
 
   {{ content }}
 
@@ -163,7 +260,9 @@ layout: base
             <!-- Get allergens for filtering -->
             {% include allergenFilter.html %}
 
-            <div class='post-item' data-url='{{ post.url | relative_url }}'
+            <div class='post-item'
+                data-url='{{ post.url | relative_url }}'
+                data-date='{{ post.date | date_to_xmlschema }}'
                 data-gluten-free='{{ gluten_free }}'
                 data-vegetarian='{{ vegetarian }}'
                 data-dairy-free='{{ dairy_free }}'
@@ -174,7 +273,7 @@ layout: base
                   <img src='{{ post.image | relative_url }}' alt='' class='blog-roll-image'>
                   <span class='post-meta'>{{ post.date | date: date_format }}</span>
                   <h3 class='post-title'>
-                    <span class='post-count'>{{ count }}.</span>
+                    <!-- <span class='post-count'>{{ count }}.</span> -->
                     <b>{{ post.title | escape }}</b>
                   </h3>
                 </a>
