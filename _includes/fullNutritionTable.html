@@ -23,9 +23,11 @@
 
         // Define the table structure as a string
         var tableContent = '<html><head><title>Nutrition Facts</title>';
+        tableContent += '<meta name="viewport" content="width=device-width, initial-scale=1.0">';
+
         tableContent += '<style>';
 
-        tableContent += 'table { width: 100%; border-collapse: collapse; background-color: ' + backgroundColor + '; }';
+        tableContent += 'table { width: 100%; max-width: 600px; margin: 0 auto; border-collapse: collapse; background-color: ' + backgroundColor + '; font-size: 16px; }';
 
         // Borders for table cells and text color
         tableContent += 'th, td { padding: 8px; border: 1px solid black; text-align: left; color: ' + textColor + '; }';
@@ -74,17 +76,15 @@
 
                         {% assign display_name = nutrient_entry.display | default: nutrient_entry.key %}
 
-                        {% assign indent_amount = "" %}
+                        {% assign indent_level = 1 %}
                         {% if display_name == "Added Sugar" %}
-                          {% assign indent_amount = "&emsp;&emsp;&emsp;" %}
+                          {% assign indent_level = 3 %}
                         {% elsif nutrient_entry.indent %}
-                          {% assign indent_amount = "&emsp;&emsp;" %}
-                        {% else %}
-                          {% assign indent_amount = "&emsp;" %}
+                          {% assign indent_level = 2 %}
                         {% endif %}
 
                         tableContent += '<tr>';
-                            tableContent += '<td>{{ indent_amount}}{{ display_name }}</td>';
+                            tableContent += '<td style="padding-left:{{ indent_level | times: 1.5 }}em;">{{ display_name }}</td>';
 
                             {% if nutrient_entry.key == "Net carbs" %}
                                 tableContent += '<td>{{ netCarbNum | round: 2 }}</td>';

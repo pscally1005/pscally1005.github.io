@@ -49,7 +49,7 @@ tags:
 - chocolate chips
 - cookies
 - snack
-Description: It's never too early (or late) for Girl Scout Cookies. Instead of those ultra processed, <a href='/misc/diabetes'>high glycemic</a>, <a href='/misc/hidden-sugar'>high sugar</a>, and low nutrient boxed cookies, you can instead make this nutritious snack using <a href='/misc/fruit#apple'>apples</a> as a base. The topping consists of unsweetened <a href='/misc/nuts#coconut'>coconut</a> flakes and <a href='/misc/nuts#almonds'>almond butter</a> for ample amounts of <a href='//misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, as well as honey for <a href='/misc/carbs'>natural sweetness</a>.  A few of these are just what you need mid-day when you're having sugar cravings and need something to hold you over until dinner
+Description: It's never too early (or late) for Girl Scout Cookies. Instead of those ultra processed, <a href='/misc/diabetes'>high glycemic</a>, <a href='/misc/hidden-sugar'>high sugar</a>, and low nutrient boxed cookies, you can instead make this nutritious snack using <a href='/misc/fruit#apple'>apples</a> as a base. The topping consists of unsweetened <a href='/misc/nuts#coconut'>coconut</a> flakes and <a href='/misc/nuts#almonds'>almond butter</a> for ample amounts of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, as well as honey for <a href='/misc/carbs'>natural sweetness</a>.  A few of these are just what you need mid-day when you're having sugar cravings and need something to hold you over until dinner
 Instructions:
 - Wash your apple, and cut into thin slices. Cut out the center with a knife
 
