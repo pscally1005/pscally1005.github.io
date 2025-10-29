@@ -46,7 +46,7 @@ tags:
 - oat flour
 - sweet potato
 - fries
-Description: <a href='/misc/fish'>Fish</a> and <a href='/misc/veggies#potato'>Chips</a> is a classic British meal that consists of breaded and deep fried fish, served with a side of French fries, or chips as they would be called across the pond. To make it a more nutritious meal, I've breaded my fish in gluten free <a href='/misc/grains#oats'>oat flour</a>, and cooked both the fish and the potatoes in my air fryer. For even more nutrients (and taste imo), I've used <a href='/misc/veggies#sweet-potato'>sweet potato</a> here too.
+Description: <a href='/misc/fish'>Fish</a> and <a href='/misc/veggies#potato'>Chips</a> is a classic British meal that consists of breaded and deep fried <a href='/misc/fish#cod'>fish</a>, served with a side of French fries, or chips as they would be called across the pond. To make it a more nutritious meal, I've breaded my fish in <a href='/misc/gluten'>gluten free</a> <a href='/misc/grains#oats'>oat flour</a>, and cooked both the <a href='/misc/fish#cod'>fish</a> and the <a href='/misc/veggies#potato'>potatoes</a> in my air fryer. For even more nutrients (and taste imo), I've used <a href='/misc/veggies#sweet-potato'>sweet potato</a> here too.
 Instructions:
 - Starting with the "chips". Wash (but don't peel) your sweet potato, and cut into a French fry shape. Add to a medium microwave safe bowl, cover with a plate, and microwave on high for 3 minutes
 

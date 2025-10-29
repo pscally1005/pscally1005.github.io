@@ -48,7 +48,7 @@ tags:
 - flax
 - vegan
 - sugar free
-Description: This is the best gluten free bread I've ever had. As someone who isn't gluten free and still occasionally eats wheat bread (check out my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>), this is the closest gluten free bread has ever coming to matching the real deal. The taste and texture are remarkably similar, and I think this bread can stand by itself not just as a great gluten free bread, but as a great bread overall.  This bread is best served warm
+Description: This is the best <a href='/misc/gluten'>gluten free</a> bread I've ever had. As someone who isn't <a href='/misc/gluten'>gluten free</a> and still occasionally eats wheat bread (check out my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>), this is the closest <a href='/misc/gluten'>gluten free</a> bread has ever coming to matching the real deal. The taste and texture are remarkably similar, and I think this bread can stand by itself not just as a great <a href='/misc/gluten'>gluten free</a> bread, but as a great bread overall.  This bread is best served warm
 Instructions:
 - Preheat your oven to 325F, and lightly oil a 9x5" bread pan
 

@@ -49,7 +49,7 @@ tags:
 - banana bread
 - bread
 - cake
-Description: It's officially October, which means it's <a href='/misc/fruit#apple'>apple</a> picking and pumpkin spice season.  This recipe is essentially a <a href='/recipes/banana-bread'>banana bread</a>, but using <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> in place of mashed <a href='/misc/fruit#banana'>bananas</a>.  It's a perfect fall breakfast or dessert that's full of cinnamon flavor without any <a href='/misc/hidden-sugar'>added sugar</a> or <a href='/misc/dairy#butter'>butter</a>.  It's also gluten free and <a href='/misc/nuts'>nut</a> free as well!
+Description: It's officially October, which means it's <a href='/misc/fruit#apple'>apple</a> picking and pumpkin spice season.  This recipe is essentially a <a href='/recipes/banana-bread'>banana bread</a>, but using <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> in place of mashed <a href='/misc/fruit#banana'>bananas</a>.  It's a perfect fall breakfast or dessert that's full of cinnamon flavor without any <a href='/misc/hidden-sugar'>added sugar</a> or <a href='/misc/dairy#butter'>butter</a>.  It's also <a href='/misc/gluten'>gluten free</a> and <a href='/misc/nuts'>nut</a> free as well!
 Instructions:
 - Preheat your oven to 350F, and line a 9x5" bread pan with parchment paper.  Lightly spray the paper with oil
 

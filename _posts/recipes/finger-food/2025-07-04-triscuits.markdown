@@ -46,7 +46,7 @@ tags:
 - board
 - salami
 - pepperoni
-Description: Triscuits only contain 3 ingredients, making it very easy to reverse engineer the recipe from the nutrition facts. All the <a href='/misc/carbs'>carbs</a>, <a href='/misc/sodium'>sodium</a>, and <a href='/misc/fats'>fat</a> are from the <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, salt, and oil respectively, since each ingredient is essentially the only source of those macro and micro nutrients. I've swapped their vegetable oil for healthier EVOO, while still maintaining the whole wheat flour.  For gluten free cracker insteads, check out my <a href='/recipes/flaxseed-crackers'>Gluten Free Flaxseed Crackers</a> or my <a href='/recipes/gf-crackers'>Gluten Free Graham Crackers</a>
+Description: Triscuits only contain 3 ingredients, making it very easy to reverse engineer the recipe from the nutrition facts. All the <a href='/misc/carbs'>carbs</a>, <a href='/misc/sodium'>sodium</a>, and <a href='/misc/fats'>fat</a> are from the <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, salt, and oil respectively, since each ingredient is essentially the only source of those macro and micro nutrients. I've swapped their vegetable oil for healthier EVOO, while still maintaining the whole wheat flour.  For <a href='/misc/gluten'>gluten free</a> crackers instead, check out my <a href='/recipes/flaxseed-crackers'>Gluten Free Flaxseed Crackers</a> or my <a href='/recipes/gf-crackers'>Gluten Free Graham Crackers</a>
 Instructions:
 - Preheat your oven to 450F, and line 2 large cookie sheets with parchment paper
 

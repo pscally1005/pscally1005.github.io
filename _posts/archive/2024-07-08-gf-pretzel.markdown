@@ -54,9 +54,9 @@ tags:
 - salt
 - everything bagel
 - pretzel
-Description: These pretzels are a spin off my <a href='/recipes/coconut-bread'>Gluten and Grain Free Coconut Bread</a> made into pretzels using a pan I found online. They're a great alternative to standard hot pretzels for anyone with Celiac Disease, and they have a great cheesy garlic flavor.
+Description: These pretzels are a spin off my <a href='/recipes/coconut-bread'>Gluten and Grain Free Coconut Bread</a> made into pretzels using a pan I found online. They're a great alternative to standard hot pretzels for anyone with <a href='/misc/gluten'>Celiac</a> Disease, and they have a great cheesy garlic flavor.
 Instructions:
-- The goal of this recipe was to make an easy gluten free pretzel that didn't require kneading, shaping, or boiling.  The result is the best middle ground I can come up with for ease to make as well as taste and texture.  Below is a photo of the pan I used.  I had to do some digging online to find this, so just look around
+- The goal of this recipe was to make an easy <a href='/misc/gluten'>gluten free</a> pretzel that didn't require kneading, shaping, or boiling.  The result is the best middle ground I can come up with for ease to make as well as taste and texture.  Below is a photo of the pan I used.  I had to do some digging online to find this, so just look around
 - <center><img src='/assets/Food/Bread/GF Pretzel/gf-pretzel-pan.jpg' alt='' class='instruction-image'></center>
 
 - In a large bowl, whisk together the dry ingredients - coconut flour, whey, baking powder, salt, garlic powder, and onion powder

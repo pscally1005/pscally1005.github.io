@@ -49,7 +49,7 @@ tags:
 - dip
 - almonds
 - oat flour
-Description: Merry Christmas!  What better way to enjoy a morning Christmas brunch with your family than by dipping homemade biscotti into your coffee or hot chocolate.  This is a small batch of homemade biscotti that's free of gluten and refined <a href='/misc/hidden-sugar'>sugar</a>, and baked in your air fryer, so they're nice and crunchy.  You can check out any of my other <a href='/cookies'>cookie recipes</a>!
+Description: Merry Christmas!  What better way to enjoy a morning Christmas brunch with your family than by dipping homemade biscotti into your coffee or hot chocolate.  This is a small batch of homemade biscotti that's free of <a href='/misc/gluten'>gluten</a> and refined <a href='/misc/hidden-sugar'>sugar</a>, and baked in your air fryer, so they're nice and crunchy.  You can check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - Preheat your air fryer to 360F, and cut a piece of parchment paper that will fit inside.  You can also use an air fryer liner
 

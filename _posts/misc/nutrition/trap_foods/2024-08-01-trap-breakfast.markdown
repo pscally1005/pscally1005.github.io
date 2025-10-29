@@ -76,7 +76,7 @@ tags:
 
 <div id='oats' class='table-of-contents'></div>
 <br><i><font size='+2'>Oatmeal</font></i><br>
-&emsp;Okay so you've gotten past cereal, but surley oatmeal is safe right?  Think again.  Oats can be a great addition to your diet: they're a whole grain, high in <a href='/misc/fiber'>fiber</a> low <a href='/misc/fats'>fat</a>, versatile, delicious, and gluten free.  They also contain a fair bit of <a href='/misc/nutrient-alphabet#M'>manganese</a> and <a href='/misc/iron'>iron</a>, and are rich in antioxidants.  It even boasts about being "heart healthy" (so does cereal) on the box.  So what's the problem?
+&emsp;Okay so you've gotten past cereal, but surley oatmeal is safe right?  Think again.  Oats can be a great addition to your diet: they're a whole grain, high in <a href='/misc/fiber'>fiber</a> low <a href='/misc/fats'>fat</a>, versatile, delicious, and <a href='/misc/gluten'>gluten free</a>.  They also contain a fair bit of <a href='/misc/nutrient-alphabet#M'>manganese</a> and <a href='/misc/iron'>iron</a>, and are rich in antioxidants.  It even boasts about being "heart healthy" (so does cereal) on the box.  So what's the problem?
 
 <center><img src='/assets/Misc/Nutrition/Trap/oatmeal.jpg' alt='' class='larger-image'></center>
 &emsp;The main issue isn't with oatmeal, but how it's prepared.  I'm mainly talking about <a href='https://amzn.to/4dWhEiZ'>flavored packets</a> of oatmeal here, like ones in the image above.  Unfortunately, these are really no different nutritionally from a bowl of sugary cereal; it's just warm now.  These packets are loaded with added sugars.  When it comes to oatmeal for breakfast, make it yourself from plain oats, and sweeten it with fruit and a small amount of maple syrup or honey if desired.  Also add some healthy <a href='/misc/fats'>fats</a> like chopped <a href='/misc/nuts'>nuts</a> or nut butter, and some <a href='/misc/protein'>protein</a> with yogurt or protein powder (or both!)
@@ -145,7 +145,7 @@ tags:
 &emsp;- <a href='/recipes/irish-soda-bread'>Whole Wheat and Oat Flour Irish Soda Bread</a><br>
 &emsp;- <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a><br>
 
-&emsp;For anyone with Celiac disease, I also have a few gluten free bread recipes for you to enjoy.  I've used flour alternatives such as coconut flour and oat flour, but I've come across other GF bread recipes with almond flour, ground flaxseed, psyllium husks, or <a href='/misc/grains#millet'>millet</a> flour.<br>
+&emsp;For anyone with <a href='/misc/gluten'>Celiac</a> disease, I also have a few <a href='/misc/gluten'>gluten free</a> bread recipes for you to enjoy.  I've used flour alternatives such as coconut flour and oat flour, but I've come across other GF bread recipes with almond flour, ground flaxseed, psyllium husks, or <a href='/misc/grains#millet'>millet</a> flour.<br>
 &emsp;- <a href='/recipes/protein-wrap'>High Protein Flatbread Wrap</a><br>
 &emsp;- <a href='/recipes/oat-wraps'>Gluten Free Oat Wraps</a><br>
 &emsp;- <a href='/recipes/coconut-bread'>Gluten and Grain Free Coconut Bread</a><br>

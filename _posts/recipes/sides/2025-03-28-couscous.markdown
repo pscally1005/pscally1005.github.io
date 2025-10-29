@@ -48,7 +48,7 @@ tags:
 - diced tomatoes
 - balsamic vinegar
 - onion
-Description: Did you know that <a href='/misc/grains#couscous'>couscous</a> is technically <a href='/misc/grains#pasta'>pasta</a>? It contains 1 ingredient:<b></b> durum semolina, the same flour used for <a href='/misc/grains#pasta'>pasta</a>, which unfortunately means it's not gluten free. This simple and delicious <a href='/misc/grains'>grain</a> is like <a href='/misc/grains#brown-rice'>rice</a>, but it cooks in just 5 minutes. Here, I'm softening an <a href='/misc/veggies#onion'>onion</a> before adding in diced <a href='/misc/veggies#tomato'>tomatoes</a> and <a href='/misc/beans'>beans</a>, giving my <a href='/misc/grains#couscous'>couscous</a> extra bulk for my <a href='/recipes/sides'>side dish</a>
+Description: Did you know that <a href='/misc/grains#couscous'>couscous</a> is technically <a href='/misc/grains#pasta'>pasta</a>? It contains 1 ingredient:<b></b> durum semolina, the same flour used for <a href='/misc/grains#pasta'>pasta</a>, which unfortunately means it's not <a href='/misc/gluten'>gluten free</a>. This simple and delicious <a href='/misc/grains'>grain</a> is like <a href='/misc/grains#brown-rice'>rice</a>, but it cooks in just 5 minutes. Here, I'm softening an <a href='/misc/veggies#onion'>onion</a> before adding in diced <a href='/misc/veggies#tomato'>tomatoes</a> and <a href='/misc/beans'>beans</a>, giving my <a href='/misc/grains#couscous'>couscous</a> extra bulk for my <a href='/recipes/sides'>side dish</a>
 Instructions:
 - Preheat a medium pot over medium heat with olive oil. Dice your onion, and add to the pot with salt. Cover, and cook with occasional stirring until soft and translucent, about 5 minutes
 

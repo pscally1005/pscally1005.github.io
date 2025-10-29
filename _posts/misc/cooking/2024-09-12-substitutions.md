@@ -119,7 +119,7 @@ tags:
 
 <center><img src='/assets/Misc/Cooking/Substitutions/spaguetti.png' alt='' class='smaller-image'><img src='/assets/Misc/Cooking/Substitutions/instant-noodles.png' alt='' class='smaller-image'></center><br>
 
-&emsp;Yes, even some very non-traditional things like lentils or cooked vegetables can work well as a <a href='/misc/grains#pasta-white'>pasta</a> replacement if you're gluten free or want to lower your refined grain intake.  Who says you can't put <a href='/pesto'>pesto</a> on <a href='/misc/beans'>beans</a> and have a bowl of <a href='/misc/beans'>beans</a> instead of a bowl of <a href='/misc/grains#pasta-white'>pasta</a>?
+&emsp;Yes, even some very non-traditional things like lentils or cooked vegetables can work well as a <a href='/misc/grains#pasta-white'>pasta</a> replacement if you're <a href='/misc/gluten'>gluten free</a> or want to lower your refined <a href='/misc/grains'>grain</a> intake.  Who says you can't put <a href='/pesto'>pesto</a> on <a href='/misc/beans'>beans</a> and have a bowl of <a href='/misc/beans'>beans</a> instead of a bowl of <a href='/misc/grains#pasta-white'>pasta</a>?
 
 <center><img src='/assets/Misc/Cooking/Substitutions/rice.png' alt='' class='smaller-image'><img src='/assets/Misc/Cooking/Substitutions/rice-bowl.png' alt='' class='smaller-image'></center><br>
 

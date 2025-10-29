@@ -49,7 +49,7 @@ tags:
 - gluten free
 - casserole
 - ricotta
-Description: This <a href='/misc/veggies#eggplant'>eggplant</a> <a href='/misc/dairy#grated-cheese'>parmesan</a> recipe cuts out the unnecessary breading and frying of the eggplant. This not only makes it simpler, but healthier as well without all the added oils (and makes it gluten free too!). This great meatless dish works well as a side or on a sandwich as well.
+Description: This <a href='/misc/veggies#eggplant'>eggplant</a> <a href='/misc/dairy#grated-cheese'>parmesan</a> recipe cuts out the unnecessary breading and frying of the eggplant. This not only makes it simpler, but healthier as well without all the added oils (and makes it <a href='/misc/gluten'>gluten free</a> too!). This great meatless dish works well as a side or on a sandwich as well.
 Instructions:
 - Start by making the sauce if you don't have any already made.  I prefer to use my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>.  You can also use a can or jar of sauce too
 

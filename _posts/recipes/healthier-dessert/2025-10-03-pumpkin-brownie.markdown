@@ -50,7 +50,7 @@ tags:
 - pumpkin seed butter
 - natural peanut butter
 - peanut butter
-Description: These brownies spawned from me trying to make my <a href='/recipes/three-ingredient-brownies'>Three Ingredient Brownie Bites</a>, where I wanted to swap the <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/nuts#peanuts'>peanut</a> butter for <a href='/misc/veggies#pumpkin'>pumpkin</a> puree and <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a> butter.  The batter was much thicker, so I added some extra ingredients, spread on a pumpkin topping, and thus these Double Pumpkin Brownies were born.  They're <a href='/misc/hidden-sugar'>sugar</a>, nut, and gluten free, moist and fudgy, and simple to make!  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
+Description: These brownies spawned from me trying to make my <a href='/recipes/three-ingredient-brownies'>Three Ingredient Brownie Bites</a>, where I wanted to swap the <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/nuts#peanuts'>peanut</a> butter for <a href='/misc/veggies#pumpkin'>pumpkin</a> puree and <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a> butter.  The batter was much thicker, so I added some extra ingredients, spread on a pumpkin topping, and thus these Double Pumpkin Brownies were born.  They're <a href='/misc/hidden-sugar'>sugar</a>, nut, and <a href='/misc/gluten'>gluten free</a>, moist and fudgy, and simple to make!  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
 Instructions:
 - This recipe uses an entire 15 oz (420 g) can of pumpkin puree. 1.25 cups (300 g) goes in the brownies themselves, and the remaining 1/2 cup (120 g) goes in the topping
 

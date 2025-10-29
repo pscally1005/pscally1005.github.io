@@ -55,11 +55,11 @@ Instructions:
 
 - Crack in the eggs, pour in the vanilla, and add the salt (omit the salt if using salted butter). Again, beat with your hand mixer until super smooth, about a minute
 
-- Add in the cocoa powder and flour, and stir until just combined with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Do not over mix, or you'll develop the gluten in the flour and end up with tough brownies.  Optionally fold in some chocolate chips (1/2 cup, 90 g)
+- Add in the cocoa powder and flour, and stir until just combined with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Do not over mix, or you'll develop the <a href='/misc/gluten'>gluten</a> in the flour and end up with tough brownies.  Optionally fold in some chocolate chips (1/2 cup, 90 g)
 
 - If you want to make these healthier, replace the <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with <a href='/misc/fruit#coconut'>coconut</a> oil, granulated monk fruit, and <a href='/misc/grains#oats'>oat</a> flour.  Use 1/2 cup (108 g) coconut oil, 1.25 cups (240 g) granulated monk fruit, and 2/3 cup (60 g) oat flour
 
-- Since brownies don't use that much flour, they can easily be made gluten free.  Just replace the <a href='/misc/grains#white-flour'>all purpose flour</a> with either <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/grains#oats'>oat</a> flour.  Obviously, you won't have to worry about over mixing the batter and developing the gluten if it's gluten free
+- Since brownies don't use that much flour, they can easily be made <a href='/misc/gluten'>gluten free</a>.  Just replace the <a href='/misc/grains#white-flour'>all purpose flour</a> with either <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/grains#oats'>oat</a> flour.  Obviously, you won't have to worry about over mixing the batter and developing the gluten if it's <a href='/misc/gluten'>gluten free</a>
 
 - Transfer your batter to the pan, and smooth out to all sides. Thump the pan a few times to remove any air bubbles.  Optionally top with chocolate chips
 

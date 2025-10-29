@@ -29,7 +29,7 @@ tags:
 <u><b><font size='+2'>Overview</font></b></u><br>
 I love meatloaf, it's easily one of my favorite comfort meals.  It's super easy to make; just mix all ingredients together in a bowl, shape it, and stick it in the oven.  It's perfect for a weeknight meal, and can even be prepped the day before and baked the next day.<br>
 
-But today, I wanted to test the effect of different breadcrumbs on the quality of the loaf.  Namely, how do some gluten free alternatives compare to standard breadcrumbs?  For this, I've taken my standard meatloaf recipe in <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>.<br>
+But today, I wanted to test the effect of different breadcrumbs on the quality of the loaf.  Namely, how do some <a href='/misc/gluten'>gluten free</a> alternatives compare to standard breadcrumbs?  For this, I've taken my standard meatloaf recipe in <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>.<br>
 
 I doubled the recipe, and mixed all the ingredients together in a large bowl; except for the breading ingredient.  I then divided the mixture (dough?) into 4 separate bowls, and added 45 g each of my 4 different binders.  They were then shaped into a loaf on a pan, rested in the fridge for an hour, and then roasted in a 350F oven.<br><br>
 
@@ -51,13 +51,13 @@ As mentioned above, I used a double batch of my <a href='/recipes/bbq-meatloaf'>
 
 <div id='breadcrumbs' class='table-of-contents-2'></div>
 <b><font size='+2'>1. Breadcrumbs</font></b><br>
-This was our control, regular old breadcrumbs.  This is what my mom used prior to being diagnosed with Celiac disease, and what I used as well prior to swapping the breadcrumbs for either oat flour or <a href='/misc/dairy#casein'>casein</a> protein.  This felt exactly like I expected from a meatloaf.  It was slightly sticky, but not too much, and was easily shaped into a loaf.  Vic made a meatloaf the other day using a similar recipe with these breadcrumbs, and this is exactly how it felt raw (and that meatloaf was great).<br><br>
+This was our control, regular old breadcrumbs.  This is what my mom used prior to being diagnosed with <a href='/misc/gluten'>Celiac</a> disease, and what I used as well prior to swapping the breadcrumbs for either oat flour or <a href='/misc/dairy#casein'>casein</a> protein.  This felt exactly like I expected from a meatloaf.  It was slightly sticky, but not too much, and was easily shaped into a loaf.  Vic made a meatloaf the other day using a similar recipe with these breadcrumbs, and this is exactly how it felt raw (and that meatloaf was great).<br><br>
 
 <center><img src='/assets/Misc/Experiments/Meatloaf/raw-bc.jpg' alt='' class='larger-image'></center><br>
 
 <div id='oats' class='table-of-contents-2'></div>
 <b><font size='+2'>2. Oat Flour</font></b><br>
-For the first experiment, I wanted to test the effects of swapping for oat flour.  Oats are cheap and gluten free, and can be easily ground into homemade oat flour.  Instead of buying gluten free breadcrumbs, I figured oats would be a cheaper alternative.<br>
+For the first experiment, I wanted to test the effects of swapping for oat flour.  Oats are cheap and <a href='/misc/gluten'>gluten free</a>, and can be easily ground into homemade oat flour.  Instead of buying <a href='/misc/gluten'>gluten free</a> breadcrumbs, I figured oats would be a cheaper alternative.<br>
 
 The raw meat felt significantly stickier than the control however.  Whereas I was able to fully mix the breadcrumb meat and squeeze it though my fingers with minimal sticking, I felt that the oat flour loaf was getting stuck to my hands more.  This made it a little harder to shape, and I'm worried that this will lead to a change in structure and texture upon baking, as well as leaking out of a lot of juices.<br>
 
@@ -67,7 +67,7 @@ The <a href='/misc/grains#oats'>oats</a> were the main reason for the hour rest 
 
 <div id='coconut' class='table-of-contents-2'></div>
 <b><font size='+2'>3. Coconut Flour</font></b><br>
-Coconut flour is the only one on this list that I've never made a meatloaf with before.  It's gluten free, low in <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a>, high in <a href='/misc/fiber'>fiber</a>, midly sweet, and (most imporantly) known for it's ability to absorb a lot of moisture.  As I showed in my <a href='/misc/water-absorption'>Water Absorption of Different Flours</a> experiment, coconut flour can take in a lot of water.<br>
+Coconut flour is the only one on this list that I've never made a meatloaf with before.  It's <a href='/misc/gluten'>gluten free</a>, low in <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a>, high in <a href='/misc/fiber'>fiber</a>, midly sweet, and (most imporantly) known for it's ability to absorb a lot of moisture.  As I showed in my <a href='/misc/water-absorption'>Water Absorption of Different Flours</a> experiment, coconut flour can take in a lot of water.<br>
 
 This is exactly what was shown in mixing the loaf.  Whereas the oat flour one was stickier than the control, the coconnut flour meatloaf was noticeably drier when raw.  It was able to suck up all the extra liquid in the raw meat mix, and as such, is able to hold it's shape very well.<br>
 
@@ -105,7 +105,7 @@ This was the standard meatloaf, and it was a standard meatloaf in pretty much ev
 <center><img src='/assets/Misc/Experiments/Meatloaf/cooked-bc.jpg' alt='' class='larger-image'></center><br>
 
 <b><font size='+2'>2. Oat Flour</font></b><br>
-I could not tell the difference in taste between the oat flour and breadcrumb one in a blind bite.  Texture wise, the oat flour loaf is a little softer and more crumbly, which makes sense, due to the lack of gluten.  Both warm and cold though, it's nearly identical to the breadcrumb loaf; you wouldn't be able to tell a difference unless you compare them side-by-side like I did here, and even then its miniscule.  8/10<br><br>
+I could not tell the difference in taste between the oat flour and breadcrumb one in a blind bite.  Texture wise, the oat flour loaf is a little softer and more crumbly, which makes sense, due to the lack of <a href='/misc/gluten'>gluten</a>.  Both warm and cold though, it's nearly identical to the breadcrumb loaf; you wouldn't be able to tell a difference unless you compare them side-by-side like I did here, and even then its miniscule.  8/10<br><br>
 
 <center><img src='/assets/Misc/Experiments/Meatloaf/cooked-oat.jpg' alt='' class='larger-image'></center><br>
 
@@ -124,7 +124,7 @@ It was interesting to see how the meatloaf that released the most juices (casein
 
 Of the remaining 3, casein was definitely my least favorite in a side-by-side comparison.  However, on it's own you wouldn't really be able to tell.  If you want to sneak a little more <a href='/misc/protein'>protein</a> into your meatloaf without compromising the final product, this will be the way to do it, and still get a good tasting dinner.  For my taste and texture though, I think I'll be changing my meatloaf to use something else.<br>
 
-Between the oat flour and breadcrumbs, I don't think you could go wrong with either option.  Most people probably have some type of breadcrumb in their pantry, so this is an easy pick for some.  For others, either you don't have breadcrumbs on hand, or you have a wheat allergy and cannot consume them.  I didn't test any gluten free breadcrumbs (my mom uses Aleias Italian style), but for a GF meatloaf I'd opt for oat flour based on the cost alone.<br>
+Between the oat flour and breadcrumbs, I don't think you could go wrong with either option.  Most people probably have some type of breadcrumb in their pantry, so this is an easy pick for some.  For others, either you don't have breadcrumbs on hand, or you have a wheat allergy and cannot consume them.  I didn't test any <a href='/misc/gluten'>gluten free</a> breadcrumbs (my mom uses Aleias Italian style), but for a GF meatloaf I'd opt for oat flour based on the cost alone.<br>
 
 The breadcrumb loaf was slightly firmer, while the oat flour one was a little bit softer.  Whatever you choose is up to your tastes and preferences.  You could also add a little more oat flour to make it firmer, or use a little less breadcrumbs to make it more crumbly.<br>
 

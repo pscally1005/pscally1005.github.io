@@ -57,7 +57,7 @@ tags:
 - melted coconut oil
 - extra virgin coconut oil
 - cornstarch
-Description: Apple Pie might be one of my all time favorite desserts. I love the combination of <a href='/misc/fruit#apple'>apples</a> and cinnamon; <a href='/misc/fruit'>fruit</a> based desserts are seriously underrated. Here is my healthy take on it, which is gluten free, <a href='/misc/hidden-sugar'>sugar</a> free, <a href='/misc/nuts'>nut</a> free, and vegan. It's a delicious and healthy treat that is perfectly sweet from the apples and has a great nutty flavor from the <a href='/misc/grains#oats'>oat flour</a> crust
+Description: Apple Pie might be one of my all time favorite desserts. I love the combination of <a href='/misc/fruit#apple'>apples</a> and cinnamon; <a href='/misc/fruit'>fruit</a> based desserts are seriously underrated. Here is my healthy take on it, which is <a href='/misc/gluten'>gluten free</a>, <a href='/misc/hidden-sugar'>sugar</a> free, <a href='/misc/nuts'>nut</a> free, and vegan. It's a delicious and healthy treat that is perfectly sweet from the apples and has a great nutty flavor from the <a href='/misc/grains#oats'>oat flour</a> crust
 Instructions:
 - Preheat your oven to 325F and take out a 9" circular pan
 

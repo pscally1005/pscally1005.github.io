@@ -58,7 +58,6 @@ tags:
 - pita
 - sandwich
 - wrap
-- gluten free
 Description: Falafel is a chickpea based meatless dish originating from Egypt.  They can be a healthy vegan option, but are unfortunately often deep fried.  These falafel are either air fryer or baked, simple and cheap to make, and full of flavor.  Nutrition facts are for each small falafel ball
 Instructions:
 - With a strainer, drain and rinse your can of chickpeas. Add to a parchment lined cookie sheet, and roast at 400F for about 20-25 minutes, or until the chickpeas are dry and slightly cracked
