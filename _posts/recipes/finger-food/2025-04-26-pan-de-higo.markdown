@@ -51,7 +51,7 @@ tags:
 - cinnamon
 - gluten free
 - sugar free
-Description: Pan de Higo, also known as Spanish Fig Cake or Spanish Fig Bread, is a traditional Spanish dessert, snack, or appetizer made from just <a href='/misc/fruit#fig-dried'>figs</a> and <a href='/misc/nuts#almonds'>almonds</a>.  It's naturally free of <a href='/misc/gluten'>gluten</a> and <a href='/misc/hidden-sugar'>added sugars</a>, typically having just <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#fig-dried'>dried fruit</a>, cinnamon, brandy, and sometimes honey.  These are essentially Larabars, which are energy snack bars made from just <a href='/misc/fruit#fig-dried'>dried fruit</a> and <a href='/misc/nuts'>nuts</a>
+Description: Pan de Higo, also known as Spanish Fig Cake or Spanish Fig Bread, is a traditional Spanish dessert, snack, or appetizer made from just <a href='/misc/fruit#fig-dried'>figs</a> and <a href='/misc/nuts#almonds'>almonds</a>.  It's naturally free of <a href='/misc/celiac'>gluten</a> and <a href='/misc/hidden-sugar'>added sugars</a>, typically having just <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#fig-dried'>dried fruit</a>, cinnamon, brandy, and sometimes honey.  These are essentially Larabars, which are energy snack bars made from just <a href='/misc/fruit#fig-dried'>dried fruit</a> and <a href='/misc/nuts'>nuts</a>
 Instructions:
 - In a powerful food processor, blend together dried fruit, nuts, cinnamon, and extract until as combined as possible. You'll end up with a very sticky dough spinning around in your food processor.  You want as little bits of fruit and nuts as you can, but some chunks are okay
 - <center><img src='/assets/Food/Finger Food/Pan de Higo/blended.jpg' alt='' class='instruction-image'></center>

@@ -46,7 +46,7 @@ tags:
 - basil
 - gluten free
 - vic
-Description: This is something I've wanted to try ever since getting an air fryer, and I'm finally getting around to it. <a href='/misc/veggies#zucchini'>Zucchini</a> cut into fries, and breaded with <a href='/misc/dairy#grated-cheese'>parmesan</a> cheese (they're <a href='/misc/gluten'>gluten free</a>!). Healthy, delicious, and easy
+Description: This is something I've wanted to try ever since getting an air fryer, and I'm finally getting around to it. <a href='/misc/veggies#zucchini'>Zucchini</a> cut into fries, and breaded with <a href='/misc/dairy#grated-cheese'>parmesan</a> cheese (they're <a href='/misc/celiac'>gluten free</a>!). Healthy, delicious, and easy
 Instructions:
 - Preheat your air fryer to 400F
 

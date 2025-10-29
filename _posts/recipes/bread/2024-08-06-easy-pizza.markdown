@@ -64,7 +64,7 @@ Instructions:
 - In a medium bowl, whisk together the dry ingredients - whole wheat flour, vital wheat gluten (or sub more flour), baking powder, garlic powder, onion powder, and salt. Add in the yogurt, and combine with your hands until you have a smooth dough ball
 - <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-ball.jpg' alt='' class='instruction-image'></center>
 
-- For a <a href='/misc/gluten'>gluten free</a> version, you can replace the whole wheat flour and vital wheat gluten with oat flour (40 g). The dough will be a little drier and crumblier because of the lack of <a href='/misc/gluten'>gluten</a>, but it can still be shaped into a flatbread
+- For a <a href='/misc/celiac'>gluten free</a> version, you can replace the whole wheat flour and vital wheat gluten with oat flour (40 g). The dough will be a little drier and crumblier because of the lack of <a href='/misc/celiac'>gluten</a>, but it can still be shaped into a flatbread
 
 - Flatten into a round and thin pizza dough. Top with your sauce, cheese, and any other toppings you like (meat and vegetables are great additions)
 - <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-pan.jpg' alt='' class='instruction-image'></center>

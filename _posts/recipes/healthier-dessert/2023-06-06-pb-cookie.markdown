@@ -42,7 +42,7 @@ tags:
 - almond butter
 - gluten free
 - oat flour
-Description: These soft baked <a href='/misc/nuts#peanuts'>peanut</a> butter cookies are naturally sweetened with honey (or maple syrup), and still feature that classic criss-cross design on the top. They're all about the natural <a href='/recipes/natural-peanut-butter'>peanut butter</a>, have a subtle honey taste, <a href='/misc/gluten'>gluten free</a>, and not crumbly!  Make some <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> for an even better cookie, and maybe try them with <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower</a> butter instead!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
+Description: These soft baked <a href='/misc/nuts#peanuts'>peanut</a> butter cookies are naturally sweetened with honey (or maple syrup), and still feature that classic criss-cross design on the top. They're all about the natural <a href='/recipes/natural-peanut-butter'>peanut butter</a>, have a subtle honey taste, <a href='/misc/celiac'>gluten free</a>, and not crumbly!  Make some <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> for an even better cookie, and maybe try them with <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower</a> butter instead!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - In a large bowl, beat together peanut butter, sweetener, applesauce (or banana), and vanilla with a hand mixer (or fork) until smooth, about 1 minute
 

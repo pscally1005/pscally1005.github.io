@@ -46,7 +46,7 @@ tags:
 - fudge
 - dessert
 - candy
-Description: What's the secret behind these truffles? Well besides being <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/gluten'>gluten free</a>, vegan, <a href='/misc/calories'>low calorie</a>, and a good source of both <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, these chocolate truffles contain a secret ingredient that's <a href='/misc/probiotic-table'>beneficial to your gut microbiome</a>.  I swear you cannot taste it, and you'll never guess what it is (it's not <a href='/misc/beans#chickpeas'>chickpeas</a>)
+Description: What's the secret behind these truffles? Well besides being <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, vegan, <a href='/misc/calories'>low calorie</a>, and a good source of both <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, these chocolate truffles contain a secret ingredient that's <a href='/misc/probiotic-table'>beneficial to your gut microbiome</a>.  I swear you cannot taste it, and you'll never guess what it is (it's not <a href='/misc/beans#chickpeas'>chickpeas</a>)
 Instructions:
 - For the sauerkraut, you don't need to drain it; however, try to get as much sauerkraut solids as you can, as opposed to the liquid. Using a fork to lift out the sauerkraut and letting any excess liquid drop back into the contain is sufficient
 

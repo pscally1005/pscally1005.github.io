@@ -38,7 +38,7 @@ tags:
 - white chocolate chips
 - honey
 - extra virgin coconut oil
-Description: Homemade <a href='/misc/nuts#peanuts'>peanut</a> butter pretzel nuggets!  With just 6 ingredients and about 15 minutes of your time, you can make the perfect treat to bring out to the dessert table at your next gathering.  Swap out <a href='/recipes/natural-peanut-butter'>peanut butter</a> for <a href='/misc/nuts#almonds'>almond</a> butter or <a href='/misc/seeds#sesame-seeds'>tahini</a> if you have a <a href='/misc/nuts'>nut</a> allergy, or use <a href='/misc/gluten'>gluten free</a> pretzels if you have <a href='/misc/gluten'>Celiac</a>.  Any type of chocolate will do; today I went for white, but milk, dark, or sugar free chocolate chips are all good as well!
+Description: Homemade <a href='/misc/nuts#peanuts'>peanut</a> butter pretzel nuggets!  With just 6 ingredients and about 15 minutes of your time, you can make the perfect treat to bring out to the dessert table at your next gathering.  Swap out <a href='/recipes/natural-peanut-butter'>peanut butter</a> for <a href='/misc/nuts#almonds'>almond</a> butter or <a href='/misc/seeds#sesame-seeds'>tahini</a> if you have a <a href='/misc/nuts'>nut</a> allergy, or use <a href='/misc/celiac'>gluten free</a> pretzels if you have <a href='/misc/celiac'>Celiac</a>.  Any type of chocolate will do; today I went for white, but milk, dark, or sugar free chocolate chips are all good as well!
 Instructions:
 - In a medium bowl, add peanut butter and honey, and microwave for 30 seconds to melt. Stir together with a silicone spatula until fully combined. Mix in coconut flour until you have a cookie dough like texture
 

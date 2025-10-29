@@ -63,7 +63,7 @@ Instructions:
 - Cut your chicken into cutlets, and pound to an even thickness with a meat mallet. Pounding the chicken in a Ziploc bag prevents chicken juice from squirting throughout the kitchen. Season with oil, garlic, onion, salt, and pepper. Transfer to the final pan. Roast at 400F for about 13 minutes, or until the chicken just reaches 165F
 - <center><img src='/assets/Food/Chicken/Korean/all-3.jpg' alt='' class='instruction-image'></center>
 
-- Finally, the sauce. Mix together soy sauce, rice vinegar, water, ginger, and cornstarch in a medium glass. For some extra heat and sweetness, add 1-2 tbsp (18-36 g) of gochujang. Note that gochujang is not <a href='/misc/gluten'>gluten free</a>. Microwave twice for 30 seconds, stirring in between, until the sauce is thickened and syrupy
+- Finally, the sauce. Mix together soy sauce, rice vinegar, water, ginger, and cornstarch in a medium glass. For some extra heat and sweetness, add 1-2 tbsp (18-36 g) of gochujang. Note that gochujang is not <a href='/misc/celiac'>gluten free</a>. Microwave twice for 30 seconds, stirring in between, until the sauce is thickened and syrupy
 - <center><img src='/assets/Food/Chicken/Korean/sauce.jpg' alt='' class='instruction-image'></center>
 
 - Add a portion of potatoes, broccoli, and chicken to a plate. Drizzle with the sauce, and optionally garnish with sesame seeds

@@ -67,7 +67,7 @@ tags:
 - frosting
 - sugar free
 - gluten free
-Description: Happy Halloween!  Here's an easy cake recipe that's delicious, <a href='/misc/hidden-sugar'>sugar</a> free, <a href='/misc/gluten'>gluten free</a>, and lower in <a href='/misc/fats'>fat</a> than traditional.  Healthy pumpkin cake that's full of cinnamon flavor, and topped with a homemade frosting.  You can either use a can of pumpkin puree, or make your own <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> (or use <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>).  For double pumpkin, use <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a> butter in the cake and the frosting, but <a href='/misc/nuts#peanuts'>peanut</a> butter, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/nuts#almonds'>almond</a> butter will also work
+Description: Happy Halloween!  Here's an easy cake recipe that's delicious, <a href='/misc/hidden-sugar'>sugar</a> free, <a href='/misc/celiac'>gluten free</a>, and lower in <a href='/misc/fats'>fat</a> than traditional.  Healthy pumpkin cake that's full of cinnamon flavor, and topped with a homemade frosting.  You can either use a can of pumpkin puree, or make your own <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> (or use <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>).  For double pumpkin, use <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a> butter in the cake and the frosting, but <a href='/misc/nuts#peanuts'>peanut</a> butter, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/nuts#almonds'>almond</a> butter will also work
 Instructions: 
 - Preheat your oven to 350F, and line a 9" circle pan with parchment paper.  Lightly spray the paper with oil
 

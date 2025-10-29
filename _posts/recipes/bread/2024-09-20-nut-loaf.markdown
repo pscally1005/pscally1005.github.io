@@ -57,7 +57,7 @@ tags:
 - sunflower seeds
 - pumpkin seeds
 - pepitas
-Description: This Norwegian bread is naturally Paleo, vegan, and <a href='/misc/gluten'>gluten free</a>. It's a simple to make and nutritious bread that's full of healthy <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, and a decent bit of <a href='/misc/protein'>protein</a> from all the <a href='/misc/nuts'>nuts</a> and seeds. As opposed to regular bread, this loaf is dense, crunchy, and chewy, but still delicious when toasted.  It's very versatile, going well topped with hummus, <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/nuts#peanuts'>peanut</a> butter, jam, used for a sandwich, or crumbled onto a salad.
+Description: This Norwegian bread is naturally Paleo, vegan, and <a href='/misc/celiac'>gluten free</a>. It's a simple to make and nutritious bread that's full of healthy <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, and a decent bit of <a href='/misc/protein'>protein</a> from all the <a href='/misc/nuts'>nuts</a> and seeds. As opposed to regular bread, this loaf is dense, crunchy, and chewy, but still delicious when toasted.  It's very versatile, going well topped with hummus, <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/nuts#peanuts'>peanut</a> butter, jam, used for a sandwich, or crumbled onto a salad.
 Instructions:
 - Preheat your oven to 350F, and line a 9x5" bread pan with parchment paper
 

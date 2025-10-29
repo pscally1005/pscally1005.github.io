@@ -58,7 +58,7 @@ tags:
 - pecans
 - macadamia nuts
 - chopped nuts
-Description: 7-Layer Bars, also known as Hello Dollies or Magic Bars, and a dessert built from seven different layers of dessert - graham crackers, <a href='/misc/dairy#butter'>butter</a>, chocolate chips, butterscotch chips, chopped nuts, shredded coconut, and sweetened condensed milk. But I'm making these healthier today, which means an oat and coconut flour crust, homemade condensed milk, and allulose dark chocolate. The result is a delicious and healthier dessert that's <a href='/misc/gluten'>gluten free</a> and refined <a href='/misc/hidden-sugar'>sugar</a> free (replace the maple syrup for <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> for totally <a href='/misc/hidden-sugar'>sugar</a> free).  Perfect for Christmas time!
+Description: 7-Layer Bars, also known as Hello Dollies or Magic Bars, and a dessert built from seven different layers of dessert - graham crackers, <a href='/misc/dairy#butter'>butter</a>, chocolate chips, butterscotch chips, chopped nuts, shredded coconut, and sweetened condensed milk. But I'm making these healthier today, which means an oat and coconut flour crust, homemade condensed milk, and allulose dark chocolate. The result is a delicious and healthier dessert that's <a href='/misc/celiac'>gluten free</a> and refined <a href='/misc/hidden-sugar'>sugar</a> free (replace the maple syrup for <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> for totally <a href='/misc/hidden-sugar'>sugar</a> free).  Perfect for Christmas time!
 Instructions:
 - Preheat your oven to 350F, and line an 9" square pan with parchment paper.
 

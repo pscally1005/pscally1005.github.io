@@ -49,7 +49,7 @@ Description: Recently, I made my own <a href='/recipes/hot-honey'>Homemade Hot H
 Instructions:
 - Preheat your oven to 400F, and line a 9" square pan with parchment paper. Lightly spray with oil
 
-- Whisk together the dry ingredients in a large bowl - cornmeal, flour, baking powder, baking soda, and salt. To make it <a href='/misc/gluten'>gluten free</a>, you can use oat flour or almond flour in place of whole wheat flour
+- Whisk together the dry ingredients in a large bowl - cornmeal, flour, baking powder, baking soda, and salt. To make it <a href='/misc/celiac'>gluten free</a>, you can use oat flour or almond flour in place of whole wheat flour
 
 - Add in the wet ingredients - hot honey, apple cider vinegar, and water. Whisk until smooth. If you don't have hot honey, you can replace it with regular honey, and add 1 tsp (2 g) red pepper flakes
 - <center><img src='/assets/Food/Sides/Hot Honey Cornbread/bowl.jpg' alt='' class='instruction-image'></center>
