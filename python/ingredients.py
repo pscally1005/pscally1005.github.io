@@ -254,6 +254,8 @@ def ingredients(food):
         return str("No sugar added apple spread")
     elif food == "Sugars, granulated":
         return str("Granulated sugar")
+    elif food == "Sugars, brown":
+        return str("Brown sugar")
     elif food == "Unsalted butter by FAREWAY" or food == "Butter, without salt":
         return str("Unsalted butter")
     elif food == "Butter, salted":
