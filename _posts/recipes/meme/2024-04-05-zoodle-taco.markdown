@@ -28,8 +28,8 @@ start3: Bell pepper
 section3: Peppers & Onions
 start4: Ground turkey, 93/7
 section4: Meat
-start5:
-section5:
+start5: Gluten Free Oat Wraps
+section5: Tacos
 Prep: 30
 Rest:
 Cook: 30
@@ -47,7 +47,7 @@ tags:
 - peppers
 - onions
 - diced tomatoes
-Description: Anyone else remember spaghetti tacos from iCarly and desperately want to try them? I wanted to make it a complete meal, so I've swapped the spaghetti for zoodles (to avoid the double <a href='/misc/carbs'>carb</a> of taco shell and <a href='/misc/grains#pasta-white'>pasta</a>), as well as added <a href='/misc/meat'>meat</a> and more <a href='/misc/veggies'>vegetables</a>. These go great with <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a> or <a href='/recipes/oat-wraps'>Gluten Free Oat Wraps</a>, or even on its own
+Description: Anyone else remember spaghetti tacos from iCarly and desperately want to try them? I wanted to make it a complete meal, so I've swapped the spaghetti for <a href='/misc/veggies#zucchini'>zoodles</a> (to avoid the double <a href='/misc/carbs'>carb</a> of taco shell and <a href='/misc/grains#pasta-white'>pasta</a>), as well as added <a href='/misc/meat'>meat</a> and more <a href='/misc/veggies'>vegetables</a>. These go great with <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a> or <a href='/recipes/oat-wraps'>Gluten Free Oat Wraps</a>, or even on its own
 Instructions:
 - In a small bowl, mix together the spices for the taco seasoning - chili powder, paprika, cumin, garlic, onion, salt, pepper, and oregano. Set aside
 
@@ -70,4 +70,6 @@ Instructions:
 - <center><img src='/assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-8.jpg' alt='' class='instruction-image'></center>
 
 - Add the meat to the bowl with the vegetables. Combine together, and serve. Pair this with any hard or soft shelled tacos, cheese, and salsa
+
+- Note that the nutrition facts below include 1 <a href='/recipes/oat-wraps'>Gluten Free Oat Wrap</a> per serving
 ---

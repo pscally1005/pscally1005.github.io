@@ -427,4 +427,6 @@ Barley,barley,1.39,454.00,0.00306,35,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,
 Rye flour,rye,9.66,"1,362.00",0.00709,70,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,50,
 Spelt flour,spelt,57.99,"11,350.00",0.00511,55,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,75,
 "Soy sauce, shoyu",shoyu,1.58,450.00,0.00351,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,75,
-Creatine Monohydrate,creatine,14.39,500.00,0.02878,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,https://www.amazon.com/gp/product/B0CCCNKD73?smid=A2S22AQ6WPJEF6&language=en_US&ref_=as_li_ss_tl
+Creatine Monohydrate,creatine,14.39,500.00,0.02878,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,https://amzn.to/4qJC2tw
+Citric acid,citric-acid,19.99,"2,270.00",0.00881,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,https://amzn.to/3WEWlKL
+Gluten Free Oat Wraps,oatwraps,0.55,225.00,0.00244,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0,/recipes/oat-wraps

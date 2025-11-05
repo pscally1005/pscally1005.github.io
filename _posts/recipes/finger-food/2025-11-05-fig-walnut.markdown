@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 'Fig & Walnut Energy Bites'
-date:   2025-10-21 00:00:00 -0500
+date:   2025-11-05 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
