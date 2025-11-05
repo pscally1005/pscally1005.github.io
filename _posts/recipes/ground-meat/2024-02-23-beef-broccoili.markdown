@@ -46,15 +46,17 @@ tags:
 - sauce
 - gochujang
 - marinate
-Description: <a href='/misc/beef'>Beef</a> and <a href='/misc/veggies#broccoli'>broccoli</a> is a Chinese classic, and making this version at home is what got me to like steak if cooked properly. I saw a small piece of sirloin on sale at the store and wanted to try it out, and I'm very impressed with the results. Sauteed <a href='/misc/meat#ground-beef'>beef</a>, broccoli, and a topping of <a href='/misc/seeds#sesame-seeds'>sesame</a> seeds sounds delicious in my book
+Description: <a href='/misc/meat#ground-beef'>Beef</a> and <a href='/misc/veggies#broccoli'>broccoli</a> is a Chinese classic, and making this version at home is what got me to like <a href='/misc/meat#steak'>steak</a> if cooked properly. I saw a small piece of <a href='/misc/meat#steak'>sirloin</a> on sale at the store and wanted to try it out, and I'm very impressed with the results. Sauteed <a href='/misc/meat#ground-beef'>beef</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, and a topping of <a href='/misc/seeds#sesame-seeds'>sesame seeds</a> sounds delicious in my book
 Instructions:
 - Heat your oven to 400F, and line a cookie sheet with parchment paper. Add broccoli to the pan, season with salt, pepper, and oil, and roast for 30 minutes. Do everything else as the broccoli cooks
 
-- Take your meat and slice into 1/4-1/2" thick strips against the grain. Add to a bowl of cold water, and massage the meat for 30 seconds. The meat should turn gray, and the water should turn red with myagloben (not blood). Squeeze and drain the meat with a strainer for about 30 seconds, and add to a medium bowl
+- Take your meat and slice into 1/4-1/2" thick strips against the grain. Add to a bowl of cold water, and massage the meat for 30 seconds. The meat should turn gray, and the water should turn red with myoglobin (not blood). Squeeze and drain the meat with a strainer for about 30 seconds, and add to a medium bowl
 
-- Add in the marinade (salt, starch, baking soda, soy sauce, and sesame oil). Mix to fully coat the meat, and let marinate for 15 minutes
+- Add in the marinade (cornstarch, baking soda, salt, soy sauce, and sesame oil). Mix to fully coat the meat, and let marinate for 15 minutes
 
-- Meanwhile, mix the sauce together in a glass - minced garlic, soy sauce, white vinegar ginger, garlic powder, black pepper, and red pepper flakes. In a separate glass, prepare some cold water and cornstarch for a slurry
+- Meanwhile, mix the sauce together in a glass - minced garlic, soy sauce, white vinegar ginger, garlic powder, black pepper, and red pepper flakes
+
+- In a separate glass, mix together some cold water and cornstarch for a slurry
 - <center><img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-4.jpg' alt='' class='instruction-image'></center>
 
 - Preheat a large stainless steel pan over medium high heat. Add in the beef, and cook for about 2 minutes per side, just until browned and not overcooked. Remove from the pan
