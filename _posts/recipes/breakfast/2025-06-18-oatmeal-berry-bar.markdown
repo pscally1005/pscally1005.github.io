@@ -35,6 +35,9 @@ Rest: 120
 Cook: 25
 Source1: https://www.poormanprotein.com/recipes/oatmeal-fudge-bars
 Source2: https://www.poormanprotein.com/recipes/strawberry-chia-jam
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/1kSiK
 tags:
 - oatmeal raspberry bars

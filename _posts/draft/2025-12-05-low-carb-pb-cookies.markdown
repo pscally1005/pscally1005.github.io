@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Carb Peanut Butter Cookies
+title:  Low Carb Peanut Butter Cookies
 date:   2025-10-31 00:00:00 -0500
 categories:
 - Recipes
@@ -36,6 +36,9 @@ Rest:
 Cook: 10
 Source1: https://www.poormanprotein.com/recipes/keto-chocolate-chip-cookies
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/Btpr4
 tags:
 - cookies

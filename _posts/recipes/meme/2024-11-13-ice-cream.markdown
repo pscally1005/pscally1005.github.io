@@ -35,6 +35,9 @@ Rest: 180
 Cook:
 Source1: https://m.youtube.com/shorts/FW5ns86UjsE
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/fqjBP
 tags:
 - ice cream

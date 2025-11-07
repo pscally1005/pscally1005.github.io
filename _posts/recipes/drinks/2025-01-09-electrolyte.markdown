@@ -35,6 +35,9 @@ Rest:
 Cook:
 Source1: https://science.drinklmnt.com/electrolytes/best-homemade-electrolyte-drink-for-dehydration/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/8KWYa
 tags:
 - LMNT

@@ -35,6 +35,9 @@ Rest: 120
 Cook: 15
 Source1: https://www.bakewithjack.co.uk/blog-1/2021/2/01/easy-baguettes
 Source2: https://www.youtube.com/watch?v=Xn05S9BKV7Q&t=2s
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/6oWig
 tags:
 - bread

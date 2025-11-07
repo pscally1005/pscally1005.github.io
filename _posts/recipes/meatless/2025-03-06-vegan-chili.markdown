@@ -35,6 +35,9 @@ Rest:
 Cook: 60
 Source1: https://youtu.be/MoF3OEkXb9k?si=KWwEuv9k8-h7dY6P
 Source2: https://www.poormanprotein.com/recipes/chili
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/tSgJ5
 tags:
 - chili powder

@@ -35,6 +35,9 @@ Rest:
 Cook: 15
 Source1: https://www.natalieshealth.com/carrot-cake-energy-balls/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/qaycm
 tags:
 - snack

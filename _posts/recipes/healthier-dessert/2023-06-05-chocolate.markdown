@@ -35,6 +35,9 @@ Rest:
 Cook:
 Source1: https://healthyrecipesblogs.com/homemade-chocolate/#recipe
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/J3cj0
 tags:
 - cocoa powder

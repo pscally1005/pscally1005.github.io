@@ -35,6 +35,9 @@ Rest:
 Cook: 25
 Source1: https://m.youtube.com/watch?v=w72F83qzvsA&pp=ygUScHJvdGVpbiBjb3JuYnJlYWQg
 Source2: https://m.youtube.com/watch?v=IAvi6evTIyI&pp=ygUQaGVhbHR5IGNvcm5icnJhZA%3D%3D
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/k0hMt
 tags:
 - protein

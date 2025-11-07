@@ -35,6 +35,9 @@ Rest: 60
 Cook:
 Source1: https://www.laurafuentes.com/no-bake-healthy-chocolate-chip-blondies/#recipe
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/Qfzxi
 tags:
 - natural nut butter

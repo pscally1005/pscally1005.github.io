@@ -35,6 +35,9 @@ Rest:
 Cook: 60
 Source1: https://youtube.com/shorts/h1kKcvglQCA?si=-zukhTWM3YKlBR6q
 Source2: https://amindfullmom.com/diy-dry-onion-soup-mix/#wprm-recipe-container-9383
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/1p6M7
 tags:
 - french onion soup

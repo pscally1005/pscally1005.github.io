@@ -35,6 +35,9 @@ Rest:
 Cook: 45
 Source1: https://alldayidreamaboutfood.com/easy-coconut-flour-bread/#recipe
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/do1JN
 tags:
 - coconut flour

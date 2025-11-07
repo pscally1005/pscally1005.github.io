@@ -35,6 +35,9 @@ Rest: 60
 Cook: 9
 Source1: https://youtu.be/eych5M7xgF0
 Source2: https://www.poormanprotein.com/recipes/chocolate-chip-cookies
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/smcrK
 tags:
 - chocolate chip cookies

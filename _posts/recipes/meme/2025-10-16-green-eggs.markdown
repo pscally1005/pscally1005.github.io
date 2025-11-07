@@ -35,6 +35,9 @@ Rest:
 Cook: 30
 Source1: https://www.clear.rice.edu/comp200/resources/texts/Green%20Eggs%20and%20Ham.txt
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/lVhXU
 tags:
 - scrambled eggs

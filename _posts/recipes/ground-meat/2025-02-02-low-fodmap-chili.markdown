@@ -35,6 +35,9 @@ Rest:
 Cook: 480
 Source1: https://www.poormanprotein.com/recipes/chili
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/6IM6F
 tags:
 - diced tomatoes

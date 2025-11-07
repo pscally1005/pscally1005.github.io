@@ -35,6 +35,9 @@ Rest:
 Cook: 20
 Source1: https://cookieandkate.com/easy-refried-beans-recipe/?utm_source=whisk&utm_medium=webapp&utm_campaign=refried_pinto_beans#tasty-recipes-28453-jump-target
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/VHygv
 tags:
 - pinto beans

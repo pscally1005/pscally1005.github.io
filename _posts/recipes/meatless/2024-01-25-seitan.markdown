@@ -35,6 +35,9 @@ Rest:
 Cook: 45
 Source1: https://shaneandsimple.com/how-to-make-seitan-at-home-easy-step-by-step-guide/#tasty-recipes-8925-jump-target
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/jT0Yl
 tags:
 - vital wheat gluten

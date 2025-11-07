@@ -25,6 +25,9 @@ Rest: 30
 Cook: 8
 Source1: https://www.countryhillcottage.com/chocolate-chip-cookies-without-brown-sugar/#mv-creation-325-jtr
 Source2: https://www.youtube.com/watch?v=raNLUgnfTTQ
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/FLu5b
 tags:
 - chocolate chip cookie

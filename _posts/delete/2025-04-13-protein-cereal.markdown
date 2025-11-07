@@ -36,6 +36,9 @@ Rest: 30
 Cook: 10
 Source1: https://theproteinchef.co/protein-granola-recipe/#recipe
 Source2: https://www.youtube.com/watch?v=YUwV2s2lggk&list=LL&index=3
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/CfnhF
 tags:
 - oatmeal

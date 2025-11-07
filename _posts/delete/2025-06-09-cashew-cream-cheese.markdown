@@ -36,6 +36,9 @@ Rest: 120
 Cook:
 Source1: https://youtu.be/ScFfO9gEEi8
 Source2: https://theveganlarder.com/easy-vegan-cashew-cream-cheese/#recipe
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/qbS8H
 tags:
 - cream cheese

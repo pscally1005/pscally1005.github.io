@@ -35,6 +35,9 @@ Rest:
 Cook: 45
 Source1: https://dontwastethecrumbs.com/diy-homemade-pumpkin-puree/#tasty-recipes-83273-jump-target
 Source2: 
+Source3: 
+Source4: 
+Source5: 
 whisk: https://s.samsungfood.com/7o7Aw
 tags: 
 - pumpkin puree

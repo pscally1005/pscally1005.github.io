@@ -35,6 +35,9 @@ Rest:
 Cook: 25
 Source1: https://thecleaneatingcouple.com/healthy-buffalo-chicken-dip/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/aFCbv
 tags:
 - simple shredded chicken

@@ -36,6 +36,9 @@ Rest:
 Cook:
 Source1: https://quitegoodfood.co.nz/sweet-potato-coconut-butter-fudge/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/yF2WV
 tags:
 - no bake

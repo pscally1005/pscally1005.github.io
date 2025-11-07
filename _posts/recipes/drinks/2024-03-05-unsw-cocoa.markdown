@@ -35,6 +35,9 @@ Rest:
 Cook: 2
 Source1: https://eatteachlaughcraft.com/food/simple-sugar-free-hot-chocolate-recipe/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/bpV54
 tags:
 - chocolate

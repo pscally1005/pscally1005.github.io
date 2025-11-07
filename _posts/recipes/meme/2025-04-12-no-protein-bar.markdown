@@ -35,6 +35,9 @@ Rest: 30
 Cook:
 Source1: https://www.instagram.com/reel/C6rbYlsCn5B/?utm_source=ig_web_copy_link
 Source2: https://www.poormanprotein.com/recipes/copycat-barebell
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/ZoiOj
 tags:
 - protein bar

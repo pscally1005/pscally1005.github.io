@@ -35,6 +35,9 @@ Rest:
 Cook: 90
 Source1: https://www.allrecipes.com/recipe/8284459/jack-o-lantern-stuffed-peppers/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/dCttZ
 tags:
 - ground turkey

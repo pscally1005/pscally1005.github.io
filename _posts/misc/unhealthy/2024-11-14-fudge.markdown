@@ -24,6 +24,9 @@ Rest: 180
 Cook: 15
 Source1: https://www.ghirardelli.com/recipes/ghirardelli-peanut-butter-swirled-fudge-rec1136
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/q2v1J
 tags:
 - fudge

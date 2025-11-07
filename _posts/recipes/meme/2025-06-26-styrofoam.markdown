@@ -35,6 +35,9 @@ Rest:
 Cook: 12
 Source1: https://www.timesleader.com/features/1667541/crunchy-top-chewy-center-just-dont-drop-the-tin-of-styrofoams
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/Y7WxW
 tags:
 - natural peanut butter

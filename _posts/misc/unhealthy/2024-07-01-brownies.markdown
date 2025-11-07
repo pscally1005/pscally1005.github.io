@@ -25,6 +25,9 @@ Rest:
 Cook: 25
 Source1: https://cafedelites.com/best-fudgy-cocoa-brownies/#recipe
 Source2: https://youtu.be/qpF5B_jHZrw?si=elQjFbyIdoYjjh3O
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/qY39J
 tags:
 - brownie

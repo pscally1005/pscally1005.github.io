@@ -35,6 +35,9 @@ Rest:
 Cook:
 Source1: https://www.nestandglow.com/healthy-recipes/fig-and-walnut-energy-balls
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/LLSS4
 tags:
 - energy bites

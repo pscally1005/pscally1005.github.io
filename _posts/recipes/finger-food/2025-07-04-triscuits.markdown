@@ -35,6 +35,9 @@ Rest:
 Cook: 20
 Source1: https://dontwastethecrumbs.com/3-ingredient-homemade-crackers-whole-grain-wheat-andor-spelt/#tasty-recipes-82680-jump-target
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/byfeL
 tags:
 - cracker

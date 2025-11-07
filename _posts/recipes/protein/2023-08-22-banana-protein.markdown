@@ -35,6 +35,9 @@ Rest:
 Cook: 60
 Source1: https://www.poormanprotein.com/recipes/pumpkin-bread
 Source2: https://www.poormanprotein.com/recipes/apple-bread
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/tqhWW
 tags:
 - banana bread

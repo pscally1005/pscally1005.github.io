@@ -35,6 +35,9 @@ Rest:
 Cook:
 Source1: https://chocolatecoveredkatie.com/want-to-eat-an-entire-bowl-of-cookie-dough/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/8kStn
 tags:
 - dessert hummus

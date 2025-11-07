@@ -35,6 +35,9 @@ Rest:
 Cook:
 Source1: https://youtube.com/shorts/HRMMsK3cK48?si=Bv1zuNXegsclFGAh
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/ygB1v
 tags:
 - smoothie

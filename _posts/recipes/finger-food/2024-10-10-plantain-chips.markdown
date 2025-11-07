@@ -35,6 +35,9 @@ Rest:
 Cook: 10
 Source1: https://www.allrecipes.com/recipe/270825/air-fryer-plantain-chips/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/5Bj2f
 tags:
 - plantains

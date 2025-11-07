@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Samoa Bites
+title:  Apple Samoa Bites
 date:   2025-10-27 00:00:00 -0500
 categories:
 - Recipes
@@ -36,6 +36,9 @@ Rest: 10
 Cook:
 Source1: https://www.eatingbirdfood.com/apple-samoas/#wprm-recipe-container-157686
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/S7ibD
 tags:
 - gala apple

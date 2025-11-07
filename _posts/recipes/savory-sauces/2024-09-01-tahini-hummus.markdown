@@ -35,6 +35,9 @@ Rest:
 Cook:
 Source1: https://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/
 Source2: https://thecheaplazyvegan.com/hummus-recipe-no-oil/#recipe
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/VpxSq
 tags:
 - hummus

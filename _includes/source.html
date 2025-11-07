@@ -1,11 +1,39 @@
 <div class='recipe-source'>
     {% if page.Source1 %}
         <div class='recipe-header'>Sources of Inspiration</div>
-        <div class='recipe-section'><a href="{{ page.Source1 }}" target="_blank" rel="noopener noreferrer">{{ page.Source1 }}</a></div>
+
+        <div class='recipe-section'>
+            <a href="{{ page.Source1 }}" target="_blank" rel="noopener noreferrer">{{ page.Source1 }}</a>
+        </div>
+
         {% if page.Source2 %}
             <br>
-            <div class='recipe-section'><a href="{{ page.Source2 }}" target="_blank" rel="noopener noreferrer">{{ page.Source2 }}</a></div>
+            <div class='recipe-section'>
+                <a href="{{ page.Source2 }}" target="_blank" rel="noopener noreferrer">{{ page.Source2 }}</a>
+            </div>
+
+            {% if page.Source3 %}
+                <br>
+                <div class='recipe-section'>
+                    <a href="{{ page.Source3 }}" target="_blank" rel="noopener noreferrer">{{ page.Source3 }}</a>
+                </div>
+
+                {% if page.Source4 %}
+                    <br>
+                    <div class='recipe-section'>
+                        <a href="{{ page.Source4 }}" target="_blank" rel="noopener noreferrer">{{ page.Source4 }}</a>
+                    </div>
+
+                    {% if page.Source5 %}
+                        <br>
+                        <div class='recipe-section'>
+                            <a href="{{ page.Source5 }}" target="_blank" rel="noopener noreferrer">{{ page.Source5 }}</a>
+                        </div>
+                    {% endif %}
+                {% endif %}
+            {% endif %}
         {% endif %}
+
         <br>
     {% endif %}
 </div>

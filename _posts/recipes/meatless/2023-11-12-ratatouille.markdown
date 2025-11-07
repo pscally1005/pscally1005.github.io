@@ -35,6 +35,9 @@ Rest:
 Cook: 105
 Source1: https://thebeet.com/summer-rainbow-ratatouille/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/XKdBu
 tags:
 - remmy

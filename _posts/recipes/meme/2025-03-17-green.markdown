@@ -35,6 +35,9 @@ Rest:
 Cook: 45
 Source1: https://jillzguerin.com/2019/12/03/healthy-green-bread/#tasty-recipes-3480-jump-target
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/BXEkB
 tags:
 - green bread

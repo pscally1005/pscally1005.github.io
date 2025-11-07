@@ -35,6 +35,9 @@ Rest: 120
 Cook:
 Source1: https://youtu.be/o4vgaYlbIMA?si=lMpe0jXPmAm97xlV
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/00tlk
 tags:
 - oats

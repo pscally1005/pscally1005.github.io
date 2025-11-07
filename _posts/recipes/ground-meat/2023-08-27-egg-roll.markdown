@@ -35,6 +35,9 @@ Rest:
 Cook: 40
 Source1: https://www.theseasonedmom.com/egg-roll-in-a-bowl/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/25hwC
 tags:
 - asian

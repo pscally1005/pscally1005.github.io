@@ -35,6 +35,9 @@ Rest: 480
 Cook:
 Source1: https://chocolatecoveredkatie.com/banana-ice-cream-healthy/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/zAvOa
 tags:
 - frozen

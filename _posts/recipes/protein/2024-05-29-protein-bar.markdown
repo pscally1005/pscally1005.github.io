@@ -35,6 +35,9 @@ Rest: 180
 Cook:
 Source1: https://amyshealthybaking.com/blog/2016/01/07/chocolate-chip-peanut-butter-protein-bars/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/ThZUT
 tags:
 - protein powder

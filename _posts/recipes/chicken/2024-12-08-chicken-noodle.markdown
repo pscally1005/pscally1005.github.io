@@ -35,6 +35,9 @@ Rest:
 Cook: 360
 Source1: https://minimalistbaker.com/chicken-noodle-soup-1-pot/#wprm-recipe-container-89167
 Source2: https://kristineskitchenblog.com/crockpot-chicken-noodle-soup/
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/1bcbP
 tags:
 - chicken thighs

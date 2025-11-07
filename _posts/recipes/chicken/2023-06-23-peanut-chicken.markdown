@@ -35,6 +35,9 @@ Rest:
 Cook: 30
 Source1: https://www.youtube.com/watch?v=2l1jKvh9FaU&t=10s
 Source2: https://www.youtube.com/watch?v=Aq0n2ziRemc
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/MIWMv
 tags:
 - peanut butter

@@ -35,6 +35,9 @@ Rest:
 Cook: 60
 Source1: https://shaneandsimple.com/easy-5-ingredient-whole-wheat-beer-bread/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/e5giK
 tags:
 - beer bread

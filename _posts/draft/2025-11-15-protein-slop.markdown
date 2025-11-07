@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protein Slop with Sweet Potatoes
+title:  Protein Slop with Sweet Potatoes
 date:   2025-10-25 00:00:00 -0500
 categories:
 - Recipes
@@ -36,6 +36,9 @@ Rest:
 Cook: 15
 Source1: https://youtu.be/dmH_ivTXS0w
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/kmeng
 tags:
 - sweet potatoes

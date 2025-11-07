@@ -36,6 +36,9 @@ Rest:
 Cook:
 Source1: https://youtube.com/shorts/OAslDLK_sf4?si=hPOvQzSo3ex8PNEf
 Source2: https://youtube.com/shorts/nXXCxAAylyw?si=NnhFhCSzIRafft_4
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/XhhXB
 tags:
 - hard boiled eggs

@@ -35,6 +35,9 @@ Rest:
 Cook:
 Source1: https://hannahmageerd.com/peanut-butter-chocolate-greek-yogurt-bark/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/LK5GU
 tags:
 - peanut butter

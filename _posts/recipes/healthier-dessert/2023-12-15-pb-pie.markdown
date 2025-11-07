@@ -35,6 +35,9 @@ Rest: 240
 Cook:
 Source1: https://ifoodreal.com/clean-no-bake-peanut-butter-pie/#wprm-recipe-container-37022
 Source2: https://poormanprotein.com/recipes/pie-crust
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/qSjT7
 tags:
 - peanut butter pie

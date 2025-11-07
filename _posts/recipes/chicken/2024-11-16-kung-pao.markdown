@@ -35,6 +35,9 @@ Rest:
 Cook: 40
 Source1: https://www.slenderkitchen.com/recipe/healthy-kung-pao-chicken
 Source2: https://natashaskitchen.com/kung-pao-chicken/
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/rkNqC
 tags:
 - chicken breast

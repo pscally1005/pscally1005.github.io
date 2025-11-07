@@ -35,6 +35,9 @@ Rest: 120
 Cook: 20
 Source1: https://youtu.be/lDuy_NqW_mQ?si=jJe0ieACdacJtaRD
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/FTJMu
 tags:
 - ground meat

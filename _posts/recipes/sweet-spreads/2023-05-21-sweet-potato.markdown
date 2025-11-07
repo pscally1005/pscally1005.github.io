@@ -35,6 +35,9 @@ Rest:
 Cook: 90
 Source1: https://www.darngoodveggies.com/how-to-make-sweet-potato-puree/#tasty-recipes-12129-jump-target
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/ZUyoB
 tags:
 - sweet potato mash

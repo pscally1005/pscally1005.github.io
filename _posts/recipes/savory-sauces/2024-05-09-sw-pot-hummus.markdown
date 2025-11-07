@@ -35,6 +35,9 @@ Rest:
 Cook: 60
 Source1: https://www.youtube.com/watch?v=u_ZCsFfyQjU
 Source2: https://www.youtube.com/watch?v=9kAP5LRZgRk
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/Efjwy
 tags:
 - hummus

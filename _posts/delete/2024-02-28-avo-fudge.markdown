@@ -36,6 +36,9 @@ Rest:
 Cook:
 Source1: https://www.youtube.com/shorts/ZozVG7BXpKc
 Source2: https://tasty.co/recipe/avocado-fudge
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/dN4fL
 tags:
 - avocado

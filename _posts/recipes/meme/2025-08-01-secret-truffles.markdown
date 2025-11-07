@@ -35,6 +35,9 @@ Rest:
 Cook:
 Source1: https://wildbrine.com/raw-sauerkraut-brownies-recipe/
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/lb2x7
 tags:
 - sauerkraut

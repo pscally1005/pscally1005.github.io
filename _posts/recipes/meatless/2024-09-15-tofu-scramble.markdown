@@ -35,6 +35,9 @@ Rest:
 Cook: 8
 Source1: https://simpleveganblog.com/simple-tofu-scramble/#recipe
 Source2: https://veganfamilykitchen.com/how-to-make-tofu-scramble/
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/RLAtg
 tags:
 - tofu

@@ -35,6 +35,9 @@ Rest: 60
 Cook:
 Source1: https://allwaysdelicious.com/dress-up-your-cheese-plate-with-pan-de-higo-fig-cake/#recipe
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/sV4ER
 tags:
 - spanish fig cake

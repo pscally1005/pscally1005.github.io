@@ -35,6 +35,9 @@ Rest:
 Cook: 15
 Source1: https://poormanprotein.com/recipes/sweet-potato-fries
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/RSnVX
 tags:
 - burgers

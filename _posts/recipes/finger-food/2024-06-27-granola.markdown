@@ -35,6 +35,9 @@ Rest:
 Cook: 30
 Source1: https://m.youtube.com/watch?v=wKZ8_Bwi6mo&pp=ygUPaGVhbHRoeSBncmFub2xh
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/b7IQ0
 tags:
 - granola

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chia Pudding Base Recipe
+title:  Chia Pudding Base Recipe
 date:   2025-10-27 00:00:00 -0500
 categories:
 - Recipes
@@ -36,6 +36,9 @@ Rest: 480
 Cook:
 Source1: https://www.eatingbirdfood.com/basic-chia-seed-pudding/#wprm-recipe-container-33190
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/rf0TW
 tags:
 - chia pudding

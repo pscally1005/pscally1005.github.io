@@ -35,6 +35,9 @@ Rest: 60
 Cook: 60
 Source1: https://www.recipetineats.com/greek-lemon-potatoes/#wprm-recipe-container-31397
 Source2: https://www.allrecipes.com/recipe/31522/greek-style-potatoes/
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/3fNBR
 tags:
 - yellow potatoes

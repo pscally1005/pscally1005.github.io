@@ -35,6 +35,9 @@ Rest:
 Cook: 20
 Source1:  https://www.loveandlemons.com/pasta-salad/#wprm-recipe-container-43201
 Source2:
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/rsPQ7
 tags:
 - pasta

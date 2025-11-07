@@ -35,6 +35,9 @@ Rest:
 Cook: 480
 Source1: https://www.poormanprotein.com/recipes/chili
 Source2: https://www.poormanprotein.com/recipes/maafe
+Source3:
+Source4:
+Source5:
 whisk: https://s.samsungfood.com/E9NjW
 tags:
 - ground beef
