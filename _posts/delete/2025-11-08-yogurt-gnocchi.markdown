@@ -5,7 +5,7 @@ date:   2025-11-07 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
+- Delete
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -21,7 +21,7 @@ permalink: /recipes/greek-yogurt-gnocchi
 image: /assets/Food/Sides/Yogurt Gnocchi/cover.jpg
 ing: yogurtgnocchi-ing
 facts: yogurtgnocchi-facts
-servingSize: TODO gnocchi (TODO g)
+servingSize: About 28 gnocchi
 section1: Strain the yogurt
 start2: Egg
 section2: Make the Dough
@@ -31,8 +31,8 @@ start4:
 section4:
 start5:
 section5:
-Prep: 22
-Rest: 1440
+Prep: 32
+Rest: 480
 Cook: 3
 Source1: https://www.poormanprotein.com/misc/homemade-cheese#labneh
 Source2: https://youtu.be/8BJMN16kS08?si=ZoDb_vpYrbOzJ9oZ
@@ -59,18 +59,19 @@ tags:
 - pesto
 Description: Gnocchi is a type of Italian <a href='/misc/grains#pasta'>pasta</a> dumplings that's normally made by combining cooked <a href='/misc/veggies#potato'>potatoes</a> with <a href='/misc/grains#white-wheat'>flour</a> and <a href='/misc/meat#eggs'>egg</a> until you get a pillow-y dough.  Lesser known though is <a href='/misc/homemade-cheese#ricotta'>ricotta</a> gnocchi, which replaces the <a href='/misc/veggies#potato'>potatoes</a> with <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a>, shortening the cooking time and leading to a fluffy gnocchi.  What's definitely not known is <a href='/misc/dairy#yogurt'>Greek yogurt</a> gnocchi, which I'm just making up now.  By straining <a href='/misc/dairy#yogurt'>Greek yogurt</a> to use as our gnocchi base, we're essentially making <a href='/misc/homemade-cheese#labneh'>labneh cheese</a> for a high <a href='/misc/protein'>protein</a>, low <a href='/misc/carbs'>carb</a> gnocchi.  Additionally, I'm swapping the refined <a href='/misc/grains#white-wheat'>white flour</a> for <a href='/misc/nuts#almonds'>almond flour</a> for healthy <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/nutrient-alphabet#E'>vitamin E</a> instead of empty <a href='/misc/carbs'>starch</a>, which also makes it <a href='/misc/celiac'>gluten free</a>
 Instructions:
-- Place a fine mesh strainer over a medium bowl.  Add the yogurt to the strainer, and mix in salt with a silicone spatula. Place the strainer over the bowl into the fridge, and allow it to drain (uncovered) for about 24 hours. I ended up with about TODO g of strained yogurt
+- TODO - TRY WITH 2 CUPS (240 G) WHOLE WHEAT FLOUR INSTEAD OF COCONUT/OAT/ALMOND COMBO
+
+- Place a fine mesh strainer over a medium bowl.  Add the yogurt to the strainer, and mix in salt with a silicone spatula. Place the strainer over the bowl into the fridge, and allow it to drain (uncovered) for about 8 hours. I ended up with about 770 g of strained yogurt
 - <center><img src='/assets/Misc/Experiments/Cheese/labneh-separated.jpg' alt='' class='instruction-image'></center>
 
-- Add the strained yogurt to a large bowl.  Beat in an egg, and mix in the grated cheese and coconut flour with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>
+- Add the strained yogurt to a large bowl.  Beat in an egg, and mix in the grated cheese with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>, making sure everything is fully combined without lumps before adding the flours
 
-- Add in the almond flour little by little, mixing it in with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>, until you have a slightly sticky dough
-- <center><img src='/assets/Food/Sides/Yogurt Gnocchi/bowl.jpg' alt='' class='instruction-image'></center>
+- Add in the coconut, oat, and almond flour little by little, mixing it in with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>, until you have a sticky but workable dough.  Let the dough rest for 5 minutes.  My dough weighed about 1,067 g
 
-- Turn the dough onto a clean work surface, and divide into 4 pieces.  My dough weighed TODO g, so each quarter is TODO g
-
-- Roll out the dough into a long thin rope, and cut into 1" sized gnocchi pieces.  Optionally, roll each gnocchi on the back of a fork to make the ridges
+- Turn the dough onto a clean work surface.  In batches, roll into a long and thin rope, and cut into 1" sized pieces
 - <center><img src='/assets/Food/Sides/Yogurt Gnocchi/cut.jpg' alt='' class='instruction-image'></center>
+
+-  Optionally, roll each gnocchi on the back of a fork to make the ridges
 
 - Bring a pot of salted water to a boil.  Place in the gnocchi, and boil for about 3 minutes, or until they float to the top.  Remove with a <a href='https://amzn.to/43zKQHD'>spider</a>, and serve with any <a href='/recipes/savory-sauces'>sauce</a> you desire
 - <center><img src='/assets/Food/Sides/Yogurt Gnocchi/cooked.jpg' alt='' class='instruction-image'></center>

@@ -59,7 +59,7 @@ Instructions:
 - In a powerful food processor, blend together dried fruit, nuts, cinnamon, and extract until as combined as possible. You'll end up with a very sticky dough spinning around in your food processor.  You want as little bits of fruit and nuts as you can, but some chunks are okay
 - <center><img src='/assets/Food/Finger Food/Pan de Higo/blended.jpg' alt='' class='instruction-image'></center>
 
-- Line a meal prep container (my glass ones are 4.5 x 6.2") with parchment paper. Press the dough into the pan, and top with parchment paper. Press dough hard to spread it to all sides, and ensure an even thickness.  Remove the paper
+- Line a meal prep container (my <a href='https://amzn.to/3Ffts2R'>glass ones</a>, are 6.2x4.5") with parchment paper. Press the dough into the pan, and top with parchment paper. Press dough hard to spread it to all sides, and ensure an even thickness.  Remove the paper
 - <center><img src='/assets/Food/Finger Food/Pan de Higo/covered.jpg' alt='' class='half-page'><img src='/assets/Food/Finger Food/Pan de Higo/not-covered.jpg' alt='' class='half-page'></center>
 
 - Chill in the fridge for at least 1 hour before slicing.  Optionally, coat the outsides of the cut pieces in cocoa powder to prevent sticking
