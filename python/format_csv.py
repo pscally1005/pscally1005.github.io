@@ -1,11 +1,13 @@
-# Download csv to /python/testing folder, and run script to split, ing fix, and vol fix
+# Download csv to /python/testing folder, and run script to format the csv files correctly
+# See formatCSV subfolder for specific sections
 
 import os
-import split
-import ingredients
-import amount_desc_swap
-import volume
-import grams
+from formatCSV import split
+from formatCSV import ingredients
+from formatCSV import amount_desc_swap
+from formatCSV import volume
+from formatCSV import vol_from_mass
+from formatCSV import grams
 
 def main():
     os.system('cls')
@@ -20,6 +22,7 @@ def main():
     amount_desc_swap.main(path2)
     ingredients.main(path2)
     volume.main(path2)
+    vol_from_mass.main(path2)
     grams.main(path2)
 
 if __name__ == '__main__':

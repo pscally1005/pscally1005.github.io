@@ -22,9 +22,9 @@ image: /assets/Food/Finger Food/Fiber One/cover.jpg
 ing: fiberone-ing
 facts: fiberone-facts
 servingSize: 1 bar
-section1:
-start2:
-section2:
+section1: Dry Ingredients
+start2: Almond butter
+section2: Wet Ingredients
 start3:
 section3:
 start4:
