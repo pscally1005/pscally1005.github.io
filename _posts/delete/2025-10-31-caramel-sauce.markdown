@@ -5,7 +5,7 @@ date:   2025-10-31 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
-- Draft
+- Delete
 showPercentage: no
 hummus: no
 oatmeal: no

@@ -5,7 +5,7 @@ date:   2025-11-07 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Delete
+- Archive
 showPercentage: no
 hummus: no
 oatmeal: no
