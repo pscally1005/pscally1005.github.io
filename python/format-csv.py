@@ -3,6 +3,7 @@
 import os
 import split
 import ingredients
+import amount_desc_swap
 import volume
 import grams
 
@@ -16,6 +17,7 @@ def main():
     # path2= r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
 
     split.main(path1)
+    amount_desc_swap.main(path2)
     ingredients.main(path2)
     volume.main(path2)
     grams.main(path2)
