@@ -25,6 +25,11 @@ def grams(food, mass, vol):
         else:
             return str(mass)
 
+    # Yeast
+    if food == "Dry yeast":
+        if vol == "1 tbsp":
+            return str("12")
+
     # Salty spices
     if food == "Chicken bouillon powder" or food == "Bouillon powder" or food == "Lemon pepper" or food == "Everything bagel seasoning":
         if vol == "1/2 tsp":
@@ -218,8 +223,14 @@ def grams(food, mass, vol):
             return str("240")
         elif vol == "1.25 cup":
             return str("300")
+        elif vol == "1.33 cup":
+            return str("320")
         elif vol == "1.5 cup":
             return str("360")
+        elif vol == "1.67 cup":
+            return str("400")
+        elif vol == "1.75 cup":
+            return str("420")
         elif vol == "2 cup":
             return str("480")
         elif vol == "3 cup":
@@ -376,14 +387,73 @@ def grams(food, mass, vol):
             return str("107")
         elif vol == "6 tbsp":
             return str("120")
+        elif vol == "7 tbsp":
+            return str("140")
         elif vol == "8 tbsp" or vol == "1/2 cup":
             return str("160")
+        elif vol == "9 tbsp":
+            return str("180")
+        elif vol == "10 tbsp":
+            return str("200")
         elif vol == "2/3 cup":
             return str("213")
+        elif vol == "11 tbsp":
+            return str("220")
         elif vol == "12 tbsp" or vol == "3/4 cup":
             return str("240")
+        elif vol == "13 tbsp":
+            return str("260")
+        elif vol == "14 tbsp":
+            return str("280")
+        elif vol == "15 tbsp":
+            return str("300")
         elif vol == "16 tbsp" or vol == "1 cup":
             return str("320")
+        else:
+            return str(mass)
+
+    # Honey
+    if food == "Honey" or food == "Honey, or maple syrup":
+        if vol == "1/2 tbsp":
+            return str("10.5")
+        elif vol == "1 tbsp":
+            return str("21")
+        elif vol == "1.5 tbsp":
+            return str("31.5")
+        elif vol == "2 tbsp":
+            return str("42")
+        elif vol == "3 tbsp":
+            return str("63")
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            return str("84")
+        elif vol == "5 tbsp":
+            return str("105")
+        elif vol == "1/3 cup":
+            return str("112")
+        elif vol == "6 tbsp":
+            return str("126")
+        elif vol == "7 tbsp":
+            return str("147")
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            return str("168")
+        elif vol == "9 tbsp":
+            return str("189")
+        elif vol == "10 tbsp":
+            return str("210")
+        elif vol == "2/3 cup":
+            return str("224")
+        elif vol == "11 tbsp":
+            return str("231")
+        elif vol == "12 tbsp" or vol == "3/4 cup":
+            return str("252")
+        elif vol == "13 tbsp":
+            return str("273")
+        elif vol == "14 tbsp":
+            return str("294")
+        elif vol == "15 tbsp":
+            return str("315")
+        elif vol == "16 tbsp" or vol == "1 cup":
+            return str("336")
         else:
             return str(mass)
 

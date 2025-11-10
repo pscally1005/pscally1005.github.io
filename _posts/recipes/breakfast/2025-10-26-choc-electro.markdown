@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Meal Prep Chocolate Protein Breakfast Bowls (with Electrolytes)'
+title:  Electrolyte Protein Breakfast Bowls
 date:   2025-10-26 00:00:00 -0500
 categories:
 - Recipes

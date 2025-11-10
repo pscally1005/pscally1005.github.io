@@ -53,7 +53,7 @@ Description: This is a variant of my <a href='/recipes/keto-chocolate-chip-cooki
 Instructions:
 - Preheat your oven to 350F, and line a large cookie sheet with parchment paper
 
-- Mix together the nut butter, sweetener, egg, vanilla, and baking soda until just combined
+- Mix together the nut butter, sweetener, egg, vanilla, and baking soda until just combined with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>
 
 - Note that my peanut butter is salted. If yours is unsalted, add 1/2 tsp (3 g) of salt to the dough
 

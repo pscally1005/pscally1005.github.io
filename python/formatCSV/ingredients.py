@@ -189,7 +189,7 @@ def ingredients(food):
     elif food == "Baking powder by The Kroger Co." or food == "Baking powder by SE GROCERS" or food == "Baking powder by Raley's":
         return str("Baking powder")
     elif food == "Leavening agents, active dry, baker's, yeast":
-        return str("Dry Yeast")
+        return str("Dry yeast")
     elif food == "Vital wheat gluten by The King Arthur Flour Company, Inc.":
         return str("Vital wheat gluten")
     elif food == "Wheat flour, whole-grain" or food == "Whole wheat flour by Target Stores" or food == "Whole wheat flour by Raley's" or food == "Whole wheat flour by FAREWAY" or food == "Whole wheat flour by LIDL":
