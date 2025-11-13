@@ -42,7 +42,6 @@ layout: base
   %}
     {% unless
         page.title == "Search" or
-        page.categories == "Food categories" or
         page.title == "Archive" or
         page.title == "Hidden" or
         page.title == "Draft" or
@@ -81,18 +80,20 @@ layout: base
   {% endif %}
 
   <!-- Sort Options -->
-  <center>
-    <div class="sort-options" style="margin-top: 1em;">
-      <label for="sortOrder"><span class='page-sort-by'>Sort by:</span></label>
-      <select id="sortOrder">
-        <option value="newest" selected>Date (Newest First)</option>
-        <option value="oldest">Date (Oldest First)</option>
-        <option value="abc">Alphabetical (A–Z)</option>
-        <option value="zyx">Alphabetical (Z–A)</option>
-        <option value="random">Random</option>
-      </select>
-    </div>
-  </center>
+  {% unless page.title == "Search" %}
+    <center>
+      <div class="sort-options" style="margin-top: 1em;">
+        <label for="sortOrder"><span class='page-sort-by'>Sort by:</span></label>
+        <select id="sortOrder">
+          <option value="newest" selected>Date (Newest First)</option>
+          <option value="oldest">Date (Oldest First)</option>
+          <option value="abc">Alphabetical (A–Z)</option>
+          <option value="zyx">Alphabetical (Z–A)</option>
+          <option value="random">Random</option>
+        </select>
+      </div>
+    </center>
+  {% endunless%}
 
   <script>
     // Function to sort posts by date or alphabetically
@@ -168,6 +169,7 @@ layout: base
 
   {% assign postCount = 0 %}
   {% for post in posts %}
+
     {% if
       page.title == "Home" and
       post.categories.last != "Archive" and
@@ -176,9 +178,39 @@ layout: base
       post.categories.last != "Delete"
     %}
       {% assign postCount = postCount | plus: 1 %}
+
     {% elsif post.categories.last == page.title %}
       {% assign postCount = postCount | plus: 1 %}
+
+    {% elsif
+      post.categories.last != "Archive" and
+      post.categories.last != "Hidden" and
+      post.categories.last != "Draft" and
+      post.categories.last != "Delete"
+    %}
+      {% if page.title == "Hummus Recipes" and post.hummus == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Oatmeal Recipes" and post.oatmeal == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Yogurt Recipes" and post.yogurt == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Nut Butter Recipes" and post.nut_butter == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Pesto Recipes" and post.pesto == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Salad Dressings" and post.dressing == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Brownies" and post.brownie == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Cookies" and post.cookie == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Soups & Stews" and post.soup_stew == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Salad Recipes" and post.salad == true %}
+        {% assign postCount = postCount | plus: 1 %}
+      {% endif %}
     {% endif %}
+
   {% endfor %}
 
   {%- if posts.size > 0 -%}
@@ -188,7 +220,7 @@ layout: base
 
     <!-- Display total count of posts -->
     <div class='post-count-container'>
-      {% if page.title != "Search" and page.title != "Python" and page.categories != "Food categories" %}
+      {% if page.title != "Search" and page.title != "Python" %}
         <span class='page-post-count'>{{ postCount }} result(s)</span>
       {% endif %}
     </div>
@@ -273,7 +305,6 @@ layout: base
                   <img src='{{ post.image | relative_url }}' alt='' class='blog-roll-image'>
                   <span class='post-meta'>{{ post.date | date: date_format }}</span>
                   <h3 class='post-title'>
-                    <!-- <span class='post-count'>{{ count }}.</span> -->
                     <b>{{ post.title | escape }}</b>
                   </h3>
                 </a>
@@ -364,46 +395,42 @@ layout: base
 
   // Function to filter posts based on selected allergen values
   function filterPosts() {
-      var posts = document.querySelectorAll('.post-item');
-      var glutenFreeChecked = document.getElementById('glutenFree').checked;
-      var vegetarianChecked = document.getElementById('vegetarian').checked;
-      var dairyFreeChecked = document.getElementById('dairyFree').checked;
-      var veganChecked = document.getElementById('vegan').checked;
-      var nutFreeChecked = document.getElementById('nutFree').checked;
-      var sugarFreeChecked = document.getElementById('sugarFree').checked;
+    var posts = document.querySelectorAll('.post-item');
+    var glutenFreeChecked = document.getElementById('glutenFree').checked;
+    var vegetarianChecked = document.getElementById('vegetarian').checked;
+    var dairyFreeChecked = document.getElementById('dairyFree').checked;
+    var veganChecked = document.getElementById('vegan').checked;
+    var nutFreeChecked = document.getElementById('nutFree').checked;
+    var sugarFreeChecked = document.getElementById('sugarFree').checked;
 
-      var visibleCount = 0; // Initialize counter for visible posts
+    var visibleCount = 0;
 
-      posts.forEach(function(post) {
-          var postGlutenFree = post.getAttribute('data-gluten-free') === "true";
-          var postVegetarian = post.getAttribute('data-vegetarian') === "true";
-          var postDairyFree = post.getAttribute('data-dairy-free') === "true";
-          var postVegan = post.getAttribute('data-vegan') === "true";
-          var postNutFree = post.getAttribute('data-nut-free') === "true";
-          var postSugarFree = post.getAttribute('data-sugar-free') === "true";
+    posts.forEach(function(post) {
+      var postGlutenFree = post.getAttribute('data-gluten-free') === "true";
+      var postVegetarian = post.getAttribute('data-vegetarian') === "true";
+      var postDairyFree = post.getAttribute('data-dairy-free') === "true";
+      var postVegan = post.getAttribute('data-vegan') === "true";
+      var postNutFree = post.getAttribute('data-nut-free') === "true";
+      var postSugarFree = post.getAttribute('data-sugar-free') === "true";
 
-          var shouldDisplay = true;
+      var shouldDisplay = true;
 
-          if (glutenFreeChecked && !postGlutenFree) shouldDisplay = false;
-          if (vegetarianChecked && !postVegetarian) shouldDisplay = false;
-          if (dairyFreeChecked && !postDairyFree) shouldDisplay = false;
-          if (veganChecked && !postVegan) shouldDisplay = false;
-          if (nutFreeChecked && !postNutFree) shouldDisplay = false;
-          if (sugarFreeChecked && !postSugarFree) shouldDisplay = false;
+      if (glutenFreeChecked && !postGlutenFree) shouldDisplay = false;
+      if (vegetarianChecked && !postVegetarian) shouldDisplay = false;
+      if (dairyFreeChecked && !postDairyFree) shouldDisplay = false;
+      if (veganChecked && !postVegan) shouldDisplay = false;
+      if (nutFreeChecked && !postNutFree) shouldDisplay = false;
+      if (sugarFreeChecked && !postSugarFree) shouldDisplay = false;
 
-          post.style.display = shouldDisplay ? 'block' : 'none';
+      post.style.display = shouldDisplay ? 'block' : 'none';
 
-          if (shouldDisplay) {
-              visibleCount++; // Increment counter for visible posts
-              post.querySelector('.post-count').textContent = visibleCount + '.'; // Update post number
-          }
-      });
+      if (shouldDisplay) visibleCount++;
+    });
 
-      // Update the post count at the top of the page
-      var postCountElement = document.querySelector('.page-post-count');
-      if (postCountElement) {
-          postCountElement.textContent = visibleCount + " result(s)"; // Update the total count
-      }
+    var postCountElement = document.querySelector('.page-post-count');
+    if (postCountElement) {
+      postCountElement.textContent = visibleCount + " result(s)";
+    }
   }
 
   // Listen for changes to the filter checkboxes

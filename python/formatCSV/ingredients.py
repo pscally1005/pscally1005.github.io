@@ -6,628 +6,630 @@ import glob
 import csv
 
 def ingredients(food):
+    f = food
+
     # Misc
     if food == "Water, generic, bottled" or food == "Beverages, well, tap, water":
-        return str("Water")
+        f = "Water"
     elif food == "Nutricost Electrolyte Mix":
-        return str("Electrolyte mix")
+        f = "Electrolyte mix"
 
     # Beans
     elif food == "crockpotbeans":
-        return str("Slow Cooker Dried Beans")
+        f = "Slow Cooker Dried Beans"
     elif food == "Beans, canned, mature seeds, navy":
-        return str("Navy beans, drained and rinsed")
+        f = "Navy beans, drained and rinsed"
     elif food == "Beans, raw, mature seeds, black":
-        return str("Dried beans")
+        f = "Dried beans"
     elif food == "Chickpeas, canned, drained and rinsed" or food == "Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds" or food == "Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds":
-        return str("Chickpeas, drained and rinsed")
+        f = "Chickpeas, drained and rinsed"
     elif food == "Chickpeas, canned, whole":
-        return str("Chickpeas, NOT drained or rinsed")
+        f = "Chickpeas, NOT drained or rinsed"
     elif food == "Beans, drained solids, canned, pinto" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto" or food == "Beans, solids and liquids, canned, mature seeds, pinto":
-        return str("Pinto beans, drained and rinsed")
+        f = "Pinto beans, drained and rinsed"
     elif food == "Pinto beans, canned, whole":
-        return str("Pinto beans, NOT drained or rinsed")
+        f = "Pinto beans, NOT drained or rinsed"
     elif food == "Black beans, canned, drained and rinsed" or food == "Beans, with salt, boiled, cooked, mature seeds, black" or food == "Beans, rinsed in tap water, drained solids, canned, mature seeds, black" or food == "Beans, canned, mature seeds, all types, black" or food == "Beans, drained solids, canned, black":
-        return str("Black beans, drained and rinsed")
+        f = "Black beans, drained and rinsed"
     elif food == "Black beans, canned, whole":
-        return str("Black beans, NOT drained or rinsed")
+        f = "Black beans, NOT drained or rinsed"
     elif food == "Kidney beans, canned, drained and rinsed" or food == "Beans, drained solids, canned, mature seeds, red, kidney" or food == "Beans, canned, mature seeds, all types, kidney":
-        return str("Kidney beans, drained and rinsed")
+        f = "Kidney beans, drained and rinsed"
     elif food == "Kidney beans, canned, whole":
-        return str("Kidney beans, NOT drained or rinsed")
+        f = "Kidney beans, NOT drained or rinsed"
     elif food == "Beans, raw, black":
-        return str("Dried beans")
+        f = "Dried beans"
     elif food == "Split red lentils by ROYAL" or food == "Split red lentils by CEDAR PHOENICIA" or food == "Red lentils" or food == "Lentils, raw, pink or red":
-        return str("Red split lentils")
+        f = "Red split lentils"
     elif food == "Beans, with salt, boiled, cooked, mature seeds, navy":
-        return str("Cooked navy beans")
+        f = "Cooked navy beans"
 
     # Spices
     elif food == "Spices, coriander seed":
-        return str("Coriander, ground")
+        f = "Coriander, ground"
     elif food == "Capers, canned":
-        return str("Capers")
+        f = "Capers"
     elif food == "Soup, mix, dry, onion":
-        return str("Onion soup mix")
+        f = "Onion soup mix"
     elif food == "Garam masala by NATCO Foods Ltd":
-        return str("Garam masala")
+        f = "Garam masala"
     elif food == "Spices, dried, rosemary":
-        return str("Rosemary, dried")
+        f = "Rosemary, dried"
     elif food == "Spices, dried, dill weed":
-        return str("Dill, dried")
+        f = "Dill, dried"
     elif food == "Salt, table" or food == "Table salt by FIRST STREET" or food == "Table salt by Morton Salt, Inc." or food == "Salt by Morton Salt, Inc." or food == "Table salt by Cardenas Markets":
-        return str("Salt")
+        f = "Salt"
     elif food == "Flakey salt":
-        return str("Flaky salt")
+        f = "Flaky salt"
     elif food == "Spices, garlic powder" or food == "Garlic powder by EL SABOR" or food == "Garlic powder by Target Stores" or food == "Garlic powder by STONEMILL":
-        return str("Garlic powder")
+        f = "Garlic powder"
     elif food == "Spices, onion powder" or food == "Onion powder by ADAMS" or food == "Onion powder by STONEMILL" or food == "Onion powder by Adams Extract Co." or food == "Onion powder by Target Stores":
-        return str("Onion powder")
+        f = "Onion powder"
     elif food == "Onions, dehydrated flakes":
-        return str("Dried onion flakes")
+        f = "Dried onion flakes"
     elif food == "Spices, ground, cinnamon" or food == "Cinnamon ground by ROUNDY'S":
-        return str("Cinnamon")
+        f = "Cinnamon"
     elif food == "Spices, ground, ginger" or food == "Ginger ground organic spices by PRIDE OF INDIA" or food == "Organic ground ginger by MEMBER'S MARK":
-        return str("Ginger, ground")
+        f = "Ginger, ground"
     elif food == "Spices, paprika" or food == "Paprika by ROUNDY'S":
-        return str("Paprika")
+        f = "Paprika"
     elif food == "Spices, chili powder" or food == "Chili powder by ADAMS":
-        return str("Chili powder")
+        f = "Chili powder"
     elif food == "Spices, black, pepper" or food == "Ground black pepper by MEMBER'S MARK" or food == "Ground black pepper by Grace Kennedy Co. Ltd":
-        return str("Black pepper, ground")
+        f = "Black pepper, ground"
     elif food == "Spices, ground, nutmeg" or food == "Ground nutmeg by Rose Spice, Inc.":
-        return str("Nutmeg, ground")
+        f = "Nutmeg, ground"
     elif food == "Spices, ground, cloves" or food == "Cloves ground by Sugar 'N Spice, Inc.":
-        return str("Cloves, ground")
+        f = "Cloves, ground"
     elif food == "Lemon pepper by LA CRIOLLA" or food == "Lemon pepper by La Criolla Inc." or food == "Lemon pepper by SHURFINE":
-        return str("Lemon pepper")
+        f = "Lemon pepper"
     elif food == "Cilantro lightly dried by MCCORMICK & COMPANY, INC.":
-        return str("Cilantro, dried")
+        f = "Cilantro, dried"
     elif food == "Cumin ground by ROUNDY'S" or food == "Ground cumin by STONEMILL" or food == "Spices, cumin seed":
-        return str("Cumin, ground")
+        f = "Cumin, ground"
     elif food == "Spices, dried, oregano":
-        return str("Oregano, dried")
+        f = "Oregano, dried"
     elif food == "Spices, dried, thyme":
-        return str("Thyme, dried")
+        f = "Thyme, dried"
     elif food == "Spices, dried, basil" or food == "Lightly dried basil by Eyebobs, LLC " or food == "Basil lightly dried by GOURMET GARDEN" or food == "Lightly dried basil by Eyebobs, LLC" or food == "Lightly dried basil by Eyebobs, LLC":
-        return str("Basil, dried")
+        f = "Basil, dried"
     elif food == "Spices, ground, allspice":
-        return str("Allspice, ground")
+        f = "Allspice, ground"
     elif food == "Spices, red or cayenne, pepper" or food == "Cayenne pepper by MEMBER'S MARK":
-        return str("Cayenne pepper")
+        f = "Cayenne pepper"
     elif food == "Spices, celery seed":
-        return str("Celery seed")
+        f = "Celery seed"
     elif food == "Old bay, seasoning by Baltimore Spice Co":
-        return str("Old Bay")
+        f = "Old Bay"
     elif food == "Nutritional yeast seasoning by BRAGG" or food == "Nutritional yeast superfoods by FOODS ALIVE":
-        return str("Nutritional yeast")
+        f = "Nutritional yeast"
     elif food == "Chives, freeze-dried":
-        return str("Chives, dried")
+        f = "Chives, dried"
     elif food == "Italian seasoning by Raley's" or food == "Italian seasoning by ROUNDY'S":
-        return str("Italian seasoning")
+        f = "Italian seasoning"
     elif food == "Everything but the bagel seasoning by Big Y Foods, Inc." or food == "Seasoning everything bagel by Whole Foods Market, Inc.":
-        return str("Everything bagel seasoning")
+        f = "Everything bagel seasoning"
     elif food == "Extra hot red pepper flakes by DOC MEYERS BRAND":
-        return str("Red pepper flakes")
+        f = "Red pepper flakes"
     elif food == "Spices, dried, parsley":
-        return str("Parsley, dried")
+        f = "Parsley, dried"
     elif food == "Powdered chicken, bouillon by Goya Foods, Inc." or food == "Powdered bouillon by Goya Foods, Inc." or food == "Powdered chicken flavored bouillon by Goya Foods, Inc.":
-        return str("Chicken bouillon powder")
+        f = "Chicken bouillon powder"
     elif food == "Spices, ground, turmeric":
-        return str("Turmeric, ground")
+        f = "Turmeric, ground"
     elif food == "Seaweed, dried":
-        return str("Dried seaweed")
+        f = "Dried seaweed"
 
 
     # Oil, vinegar, other liquids
     elif food == "Fat, chicken":
-        return str("Chicken fat")
+        f = "Chicken fat"
     elif food == "Oil, salad or cooking, olive" or food == "Extra virgin olive oil by OLIO" or food == "Extra virgin olive oil by QO" or food == "Extra virgin olive oil by GAEA" or food == "Extra virgin olive oil by BRAGG":
-        return str("Extra virgin olive oil")
+        f = "Extra virgin olive oil"
     elif food == "Extra virgin coconut oil by KELAPO" or food == "Oil, coconut" or food == "Extra virgin coconut oil by VITA BRAND":
-        return str("Extra virgin coconut oil")
+        f = "Extra virgin coconut oil"
     elif food == "Oil, sesame" or food == "Sesame oil by DABUR" or food == "Oil, salad or cooking, sesame":
-        return str("Sesame oil")
+        f = "Sesame oil"
     elif food == "Vinegar, distilled" or food == "White distilled vinegar by FAREWAY" or food == "Distilled white vinegar by Raley's" or food == "White wine vinegar by CIRIO" or food == "Distilled white vinegar by HYTOR" or food == "Distilled white vinegra by OLIO":
-        return str("White vinegar")
+        f = "White vinegar"
     elif food == "Vinegar, red wine":
-        return str("Red wine vinegar")
+        f = "Red wine vinegar"
     elif food == "Vinegar, cider" or food == "Apple cider vinegar by BRAGG":
-        return str("Apple cider vinegar")
+        f = "Apple cider vinegar"
     elif food == "Italian dressing, fat free" or food == "Salad dressing, fat-free, italian dressing":
-        return str("Fat free Italian dressing")
+        f = "Fat free Italian dressing"
     elif food == "Lime juice, raw" or food == "Lime juice from concentrate by Safeway, Inc." or food == "Lime juice from concentrate by ITALIAN GARDEN" or food == "Lime juice from concentrate by Harris-Teeter Inc." or food == "Lime juice, freshly squeezed, 100%":
-        return str("Lime juice")
+        f = "Lime juice"
     elif food == "Vinegar, balsamic" or food == "Balsamic vinegar of modena" or food == "Balsamic vinegar by ELSA":
-        return str("Balsamic vinegar")
+        f = "Balsamic vinegar"
     elif food == "Hot pepper sauce" or food == "Hot sauce by LOUISIANA" or food == "Hot sauce, louisiana style by La Preferida In" or food == "Hot sauce, louisiana style by La Preferida Inc" or food == "Sauce by LOUISIANA":
-        return str("Hot sauce")
+        f = "Hot sauce"
     elif food == "Minced garlic by STONEMILL" or food == "Minced garlic by MEMBER'S MARK" or food == "Minced garlic by EL SABOR":
-        return str("Minced garlic")
+        f = "Minced garlic"
     elif food == "Mustard, horseradish" or food == "Mustard" or food == "Dijon mustard by KOOPS'" or food == "Dijon mustard by BRANDLESS" or food == "Dijon mustard by Raley's" or food == "Dijon mustard by SPARTAN":
-        return str("Dijon mustard")
+        f = "Dijon mustard"
     elif food == "White dry cooking wine by CONCHITA":
-        return str("White cooking wine")
+        f = "White cooking wine"
     elif food == "Lemon juice, raw" or food == "Lemon juice from concentrate, REAL LEMON, bottled" or food == "Lemon juice from concentrate, canned or bottled" or food == "Lemon juice from concentrate by GOLDEN SUN" or food == "Lemon juice from concentrate, CONCORD, bottled":
-        return str("Lemon juice")
+        f = "Lemon juice"
     elif food == "Low sodium soy sauce" or food == "Soy sauce made from soy (tamari)" or food == "Soy sauce made from soy and wheat (shoyu)" or food == "Soy sauce made from soy and wheat (shoyu), low sodium" or food == "Low Sodium Soy Sauce by First Street":
-        return str("Soy sauce, low sodium, gluten free")
-    elif food == "Low sodium chicken broth by Glencourt Inc.":
-        return str("Low sodium chicken broth")
+        f = "Soy sauce, low sodium, gluten free"
+    elif food == "Low sodium chicken broth by Glencourt Inc." or food == "Soup, canned, low sodium, chicken broth" or food == "whole-chicken-broth":
+        f = "Low sodium chicken broth"
     elif food == "Low sodium vegetable broth by The Hain Celestial Group, Inc.":
-        return str("Low sodium vegetable broth")
+        f = "Low sodium vegetable broth"
     elif food == "Gochujang sauce by BRANDLESS" or food == "Gochujang korean hot sauce by WE RUB YOU":
-        return str("Gochujang")
+        f = "Gochujang"
     elif food == "Sugar free bbq sauce by G HUGHES SMOKEHOUSE" or food == "bbq":
-        return str("Unsweetened BBQ sauce")
+        f = "Unsweetened BBQ sauce"
     elif food == "ketchup":
-        return str("Date sweetened ketchup")
+        f = "Date sweetened ketchup"
     elif food == "Soup, ready-to-serve, chicken broth":
-        return str("Chicken bone broth")
+        f = "Chicken bone broth"
     elif food == "shredded-chicken":
-        return str("Simple Shredded Chicken")
+        f = "Simple Shredded Chicken"
 
     # Baking
     elif food == "Spelt, uncooked":
-        return str("Spelt flour")
+        f = "Spelt flour"
     elif food == "Rye grain":
-        return str("Rye flour")
+        f = "Rye flour"
     elif food == "Barley, raw, pearled":
-        return str("Barley")
+        f = "Barley"
     elif food == "Vanilla instant pudding by SHURFINE":
-        return str("Vanilla instant pudding mix")
+        f = "Vanilla instant pudding mix"
     elif food == "Allulose plant-based sweetener by Dr. Desai Soap LLC":
-        return str("Allulose")
+        f = "Allulose"
     elif food == "Nabisco, Nabisco Grahams Crackers":
-        return str("Graham cracker")
+        f = "Graham cracker"
     elif food == "Psyllium husk" or food == "Now, whole psyllium husks by Now Health Group Inc.":
-        return str("Psyllium husks, whole")
+        f = "Psyllium husks, whole"
     elif food == "Millet flour":
-        return str("Millet flour")
+        f = "Millet flour"
     elif food == "Leavening agents, baking soda" or food == "Baking soda by The Kroger Co.":
-        return str("Baking soda")
+        f = "Baking soda"
     elif food == "Baking powder by The Kroger Co." or food == "Baking powder by SE GROCERS" or food == "Baking powder by Raley's":
-        return str("Baking powder")
+        f = "Baking powder"
     elif food == "Leavening agents, active dry, baker's, yeast":
-        return str("Dry yeast")
+        f = "Dry yeast"
     elif food == "Vital wheat gluten by The King Arthur Flour Company, Inc.":
-        return str("Vital wheat gluten")
+        f = "Vital wheat gluten"
     elif food == "Wheat flour, whole-grain" or food == "Whole wheat flour by Target Stores" or food == "Whole wheat flour by Raley's" or food == "Whole wheat flour by FAREWAY" or food == "Whole wheat flour by LIDL":
-        return str("Whole wheat flour")
+        f = "Whole wheat flour"
     elif food == "Oat flour by Bob's Red Mill Natural Foods, Inc." or food == "Organic oat flour by The Hain Celestial Group, Inc." or food == "Organic oat flour by Hodgson Mill Inc":
-        return str("Oat flour")
+        f = "Oat flour"
     elif food == "Cornstarch by Tops Markets, LLC" or food == "Cornstarch by Bob's Red Mill Natural Foods, Inc.":
-        return str("Cornstarch")
+        f = "Cornstarch"
     elif food == "Organic coconut flour by Bob's Red Mill Natural Foods, Inc." or food == "Coconut flour by BRANDLESS":
-        return str("Coconut flour")
+        f = "Coconut flour"
     elif food == "Cereals, Dry, Quick Oats, QUAKER" or food == "Cereals, Dry, Quick Oats with Iron, QUAKER" or food == "Quick cook rolled oats by BRANDLESS":
-        return str("Quick oats")
+        f = "Quick oats"
     elif food == "Rolled oats by MILLVILLE" or food == "Rolled oats whole grain by Bob's Red Mill Natural Foods, Inc." or food == "Oats by The Quaker Oats Company":
-        return str("Rolled oats")
+        f = "Rolled oats"
     elif food == "Unsweetened flaked coconut by Raley's" or food == "Unsweetened coconut flakes by Hy-Vee, Inc." or food == "Shredded unsweetened coconut by Bob's Red Mill Natural Foods, Inc." or food == "Unsweetened coconut flakes by Wal-Mart Stores, Inc.":
-        return str("Unsweetened coconut flakes")
+        f = "Unsweetened coconut flakes"
     elif food == "Applesauce, unsweetened" or food == "Unsweetened applesauce by Iga, Inc.":
-        return str("Unsweetened applesauce")
+        f = "Unsweetened applesauce"
     elif food == "Raw pure honey":
-        return str("Honey")
+        f = "Honey"
     elif food == "hot-honey":
-        return str("Hot honey")
+        f = "Hot honey"
     elif food == "Seeds, dried, chia seeds" or food == "Chia seeds by GREENWISE" or food == "Chia seed by NO BRAND" or food == "Chia seed by Hy-Vee, Inc.":
-        return str("Chia seeds")
+        f = "Chia seeds"
     elif food == "Seeds, flaxseed" or food == "Whole ground flaxseed meal by Bob's Red Mill Natural Foods, Inc." or food == "Premium whole ground flax seed meal by Bob's Red Mill Natural Foods, Inc.":
-        return str("Ground flaxseed")
+        f = "Ground flaxseed"
     elif food == "Sugar substitute, stevia, liquid" or food == "Sugar substitute, liquid, stevia" or food == "Stevia zero calorie liquid sweetener by PURE VIA" or food == "Liquid stevia or monk fruit":
-        return str("Liquid monk fruit")
+        f = "Liquid monk fruit"
     elif food == "Peanut butter powder by PBFIT" or food == "Powdered peanut butter by PB2":
-        return str("Powdered peanut butter")
+        f = "Powdered peanut butter"
     elif food == "Premium quality pure almond extract by Morton Bassett Inc." or food == "Pure almond extract by FIRST STREET" or food == "Pure almond extract by Morton Bassett Inc." or food == "Almond extract by Morton Bassett Inc.":
-        return str("Almond extract")
+        f = "Almond extract"
     elif food == "Pumpkin, without salt, canned" or food == "Pumpkin puree by Whole Foods Market, Inc." or food == "Pumpkin puree, pumpkin by Goya Foods, Inc." or food == "Organic pumpkin puree by Pacific Foods of Oregon, Inc.":
-        return str("Pumpkin puree")
+        f = "Pumpkin puree"
     elif food == "Syrups, maple" or food == "Syrup, Canadian, maple":
-        return str("Maple syrup")
+        f = "Maple syrup"
     elif food == "Jellies" or food == "jam" or food == "chia-jam" or food == "Smucker's Raspberry Sugar Free Jam" or food == "Raspberry jelly" or food == "Low Sugar Berry Jam" or food == "Jellies":
-        return str("Low sugar berry jam")
+        f = "Low sugar berry jam"
     elif food == "sugar-free-syrup" or food == "Syrups, sugar free" or food == "Syrups, sugar free or maple" or food == "Sugar free syrup by Supervalu, Inc." or food == "Sugar free syrup by IHOP AT HOME":
-        return str("Sugar free syrup")
+        f = "Sugar free syrup"
     elif food == "Almond flour by RALEY'S" or food == "Almond flour by Supervalu, Inc.":
-        return str("Almond flour")
+        f = "Almond flour"
     elif food == "Pitted dates by DELILAH" or food == "Dates, deglet noor" or food == "Pitted dates" or food == "Date":
-        return str("Dates")
+        f = "Dates"
     elif food == "Fig, dried":
-        return str("Dried figs")
+        f = "Dried figs"
     elif food == "Plums, uncooked, dried (prunes)":
-        return str("Prunes")
+        f = "Prunes"
     elif food == "Sweet potato, without salt, flesh, baked in skin, cooked" or food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked":
-        return str("Sweet potato puree")
+        f = "Sweet potato puree"
     elif food == "Potatoes, raw, flesh and skin":
-        return str("Potato")
+        f = "Potato"
     elif food == "Pure vanilla extract by CITLALI" or food == "Pure vanilla extract by FIRST STREET":
-        return str("Vanilla extract")
+        f = "Vanilla extract"
     elif food == "Granulated no calorie sweetener with erythritol & monk fruit extract by Topco Associates, Inc.":
-        return str("Granulated monk fruit")
+        f = "Granulated monk fruit"
     elif food == "Powdered monkfruit sweetener with erythritol by LAKANTO":
-        return str("Powdered monk fruit")
+        f = "Powdered monk fruit"
     elif food == "Carob flour, or cocoa powder" or food == "Carob flour":
-        return str("Carob powder")
+        f = "Carob powder"
     elif food == "No Sugar Added Apple Spread" or food == "applespread":
-        return str("No sugar added apple spread")
+        f = "No sugar added apple spread"
     elif food == "Sugars, granulated":
-        return str("Granulated sugar")
+        f = "Granulated sugar"
     elif food == "Sugars, brown":
-        return str("Brown sugar")
+        f = "Brown sugar"
     elif food == "Unsalted butter by FAREWAY" or food == "Butter, without salt":
-        return str("Unsalted butter")
+        f = "Unsalted butter"
     elif food == "Butter, salted":
-        return str("Salted butter")
+        f = "Salted butter"
     elif food == "All purpose flour by PIONEER" or food == "Wheat flour, bleached, enriched, all-purpose, white" or food == "Wheat flour, unenriched, all-purpose, white":
-        return str("All purpose flour")
+        f = "All purpose flour"
     elif food == "duncan hines keto brownie mix":
-        return str("Duncan Hines Keto Brownie Mix")
+        f = "Duncan Hines Keto Brownie Mix"
     elif food == "Cocoa, unsweetened, dry powder":
-        return str("Cocoa powder")
+        f = "Cocoa powder"
     elif food == "Sugar, powdered, confectioner's, white" or food == "Sugars, powdered":
-        return str("Powdered sugar")
+        f = "Powdered sugar"
     elif food == "Vegetable oil, palm kernel" or food == "Oil, canola" or food == "Vegetable oil" or food == "Oil, corn and canola":
-        return str("Canola oil")
+        f = "Canola oil"
     elif food == "Pumpkin, raw":
-        return str("Sugar pumpkin")
+        f = "Sugar pumpkin"
     elif food == "Chickpea flour (besan)":
-        return str("Chickpea flour")
+        f = "Chickpea flour"
     elif food == "Coffee, not reconstituted , decaffeinated, instant" or food == "Coffee, instant, decaffeinated, not reconstituted":
-        return str("Ground coffee, decaf")
+        f = "Ground coffee, decaf"
     elif food == "Seeds, hulled, hemp seed":
-        return str("Hemp hearts")
+        f = "Hemp hearts"
 
     # Dairy & Eggs
+    elif food == "labneh-skim":
+        f = "Labneh cheese, skim"
     elif food == "Cheese, blue":
-        return str("Blue cheese")
+        f = "Blue cheese"
     elif food == "Cheese, whole milk, mozzarella" or food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Shredded mozzarella cheese" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
-        return str("Shredded mozzarella cheese, low moisture part skim")
+        f = "Shredded mozzarella cheese, low moisture part skim"
     elif food == "Unflavored Casein Protein Powder by PROMIX" or food == "Nutricost Casein Unflavored Protein Powder":
-        return str("Casein protein powder, unflavored")
+        f = "Casein protein powder, unflavored"
     elif food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
-        return str("Plain nonfat greek yogurt")
+        f = "Plain nonfat greek yogurt"
     elif food == "Yogurt, whole milk, plain, Greek":
-        return str("Plain whole milk greek yogurt")
+        f = "Plain whole milk greek yogurt"
     elif food == "Buttermilk, low fat (1%)" or food == "Buttermilk, fat free (skim)":
-        return str("Buttermilk")
+        f = "Buttermilk"
     elif food == "Fat free ultra-filtered milk by FAIRLIFE" or food == "Fairlife Skim Milk":
-        return str("Fairlife skim milk")
+        f = "Fairlife skim milk"
     elif food == "Milk, with added vitamin A, evaporated, canned":
-        return str("Evaporated milk")
+        f = "Evaporated milk"
     elif food == "Milk, fat free (skim), evaporated":
-        return str("Fat free evaporated milk")
+        f = "Fat free evaporated milk"
     elif food == "Eggs, egg whole, Large, Grade A" or food == "Large egg" or food == "Large Egg":
-        return str("Egg")
+        f = "Egg"
     elif food == "100% liquid egg whites by KROGER":
-        return str("Liquid egg whites")
+        f = "Liquid egg whites"
     elif food == "Beverages, Protein powder whey based" or food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder" or food == "Nutricost Whey Unflavored Protein Powder":
-        return str("Whey protein powder, unflavored")
+        f = "Whey protein powder, unflavored"
     elif food == "Cottage cheese, 1% fat, Friendship Dairies" or food == "Cheese, large or small curd, dry, uncreamed, nonfat, cottage" or food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
-        return str("Nonfat cottage cheese")
+        f = "Nonfat cottage cheese"
     elif food == "Cheese, grated, parmesan" or food == "Kraft Grated Parmesan Cheese" or food == "Grated parmesan cheese by POPE" or food == "Cheese, grated, parmesan":
-        return str("Grated parmesan cheese")
+        f = "Grated parmesan cheese"
     elif food == "Unsweetened original almond milk by Supervalu, Inc." or food == "Almond milk, unsweetened":
-        return str("Unsweetened almond milk")
+        f = "Unsweetened almond milk"
     elif food == "Unsweetened vanilla almondmilk by ORGAIN" or food == "Unsweetened vanilla almond milk, unsweetened vanilla by Danone US, LLC" or food == "Unsweetened vanilla almondmilk by Target Stores" or food == "Unsweetened vanilla almond milk, unsweetened vanilla by Supervalu, Inc." or food == "Unsweetened vanilla almondmilk by Hy-Vee, Inc.":
-        return str("Unsweetened vanilla almond milk")
+        f = "Unsweetened vanilla almond milk"
     elif food == "Cheese, feta":
-        return str("Feta cheese")
+        f = "Feta cheese"
     elif food == "Egg, fresh, raw, white" or food == "Eggs, egg white, Large, Grade A":
-        return str("Egg whites")
+        f = "Egg whites"
     elif food == "Eggs, egg yolk, Large, Grade A":
-        return str("Egg yolk")
+        f = "Egg yolk"
     elif food == "Cheese, cheddar" or food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND" or food == "Cheese, Mexican blend":
-        return str("Shredded cheddar cheese")
+        f = "Shredded cheddar cheese"
     elif food == "Cheese, soft type, goat":
-        return str("Goat cheese")
+        f = "Goat cheese"
     elif food == "Milk, with added vitamin A and vitamin D (fat free or skim), fluid, nonfat" or food == "Milk, fat free (skim)":
-        return str("Skim milk")
+        f = "Skim milk"
 
     # Fresh produce
     elif food == "Broccoli raab, raw":
-        return str("Broccoli rabe")
+        f = "Broccoli rabe"
     elif food == "Endive, raw":
-        return str("Escarole")
+        f = "Escarole"
     elif food == "Tangerines, raw, (mandarin oranges)":
-        return str("Mandarin orange")
+        f = "Mandarin orange"
     elif food == "Corn, raw, yellow, sweet":
-        return str("Corn on the cob")
+        f = "Corn on the cob"
     elif food == "Cabbage, raw" or food == "Cabbage, raw, green":
-        return str("Cabbage")
+        f = "Cabbage"
     elif food == "Sweet potato, without skin, boiled, cooked":
-        return str("Cooked sweet potato")
+        f = "Cooked sweet potato"
     elif food == "Bananas, raw, overripe" or food == "Bananas, raw, ripe and slightly ripe" or food == "Bananas, raw":
-        return str("Banana, overripe")
+        f = "Banana, overripe"
     elif food == "Onions, raw" or food == "Onions, raw, red" or food == "Onions, raw, yellow" or food == "Onions, raw, white":
-        return str("Onion")
+        f = "Onion"
     elif food == "Apples, with skin, gala, raw" or food == "Apples, with skin, raw":
-        return str("Apple, gala")
+        f = "Apple, gala"
     elif food == "Carrots, raw, baby":
-        return str("Baby carrots")
+        f = "Baby carrots"
     elif food == "Avocados, California, raw":
-        return str("Avocado")
+        f = "Avocado"
     elif food == "Tomatoes, raw":
-        return str("Tomato")
+        f = "Tomato"
     elif food == "Tomatoes, sun-dried":
-        return str("Sun dried tomatoes")
+        f = "Sun dried tomatoes"
     elif food == "Tomatoes, raw, grape":
-        return str("Cherry tomatoes")
+        f = "Cherry tomatoes"
     elif food == "Peppers, raw, red, sweet" or food == "Pepper, raw, red, sweet" or food == "Peppers, raw, green, sweet":
-        return str("Bell pepper")
+        f = "Bell pepper"
     elif food == "Sweet potato, unprepared, raw" or food == "Sweet potato, washed":
-        return str("Sweet potato")
+        f = "Sweet potato"
     elif food == "Strawberries, raw":
-        return str("Strawberries")
+        f = "Strawberries"
     elif food == "Ripe plantain, raw" or food == "Plantains, raw, yellow":
-        return str("Plantain, yellow")
+        f = "Plantain, yellow"
     elif food == "Plantains, raw, green":
-        return str("Plantain, green")
+        f = "Plantain, green"
     elif food == "Carrots, raw":
-        return str("Carrots")
+        f = "Carrots"
     elif food == "Coleslaw mix by Bread & Circus Inc.":
-        return str("Coleslaw mix")
+        f = "Coleslaw mix"
     elif food == "Cucumber, raw" or food == "Cucumber, raw, with peel":
-        return str("Cucumber")
+        f = "Cucumber"
     elif food == "Lettuce, raw" or food == "Lettuce, raw, cos or romaine" or food == "Romaine lettuce, raw":
-        return str("Romaine lettuce")
+        f = "Romaine lettuce"
     elif food == "Squash, raw, acorn, winter":
-        return str("Acorn squash")
+        f = "Acorn squash"
     elif food == "Mushrooms, raw, white" or food == "White Mushrooms":
-        return str("White mushrooms")
+        f = "White mushrooms"
     elif food == "Fruit peels apple banana by Target Stores":
-        return str("Banana peel")
+        f = "Banana peel"
     elif food == "Ginger root, raw" or food == "Minced ginger by McCormick & Company, Inc.":
-        return str("Ginger, fresh")
+        f = "Ginger, fresh"
     elif food == "Cranberries, raw":
-        return str("Cranberries")
+        f = "Cranberries"
     elif food == "Eggplant, raw":
-        return str("Eggplant")
+        f = "Eggplant"
     elif food == "Fresh dill weed, fresh" or food == "Dill weed, fresh":
-        return str("Dill, fresh")
+        f = "Dill, fresh"
     elif food == "Squash, raw, butternut, winter":
-        return str("Butternut squash")
+        f = "Butternut squash"
     elif food == "Squash, raw, includes skin, zucchini, summer":
-        return str("Zucchini")
+        f = "Zucchini"
     elif food == "Squash, raw, spaghetti, winter":
-        return str("Spaghetti squash")
+        f = "Spaghetti squash"
     elif food == "Spinach, raw, or arugula" or food == "Spinach, raw":
-        return str("Spinach, fresh")
+        f = "Spinach, fresh"
     elif food == "Garlic, raw":
-        return str("Garlic, fresh")
+        f = "Garlic, fresh"
     elif food == "Pineapple, all varieties, raw":
-        return str("Pineapple")
+        f = "Pineapple"
     elif food == "Mangos, raw":
-        return str("Mango")
+        f = "Mango"
     elif food == "Beets, raw":
-        return str("Beets")
+        f = "Beets"
     elif food == "Blackberries, raw":
-        return str("Blackberries")
+        f = "Blackberries"
     elif food == "Summer squash, raw, yellow":
-        return str("Yellow squash")
+        f = "Yellow squash"
     elif food == "Red jalapeno salsa by The Kroger Co.":
-        return str("Red jalapenos")
+        f = "Red jalapenos"
     elif food == "Cilantro, raw":
-        return str("Cilantro, fresh")
+        f = "Cilantro, fresh"
     elif food == "Kiwi fruit" or food == "Kiwifruit, raw, green":
-        return str("Kiwi")
+        f = "Kiwi"
     elif food == "Celery, raw":
-        return str("Celery")
+        f = "Celery"
 
     # Frozen produce
     elif food == "Corn, unprepared, kernels cut off cob, frozen, yellow, sweet":
-        return str("Frozen corn")
+        f = "Frozen corn"
     elif food == "Squash, unprepared, frozen, butternut, winter":
-        return str("Frozen butternut squash, thawed")
+        f = "Frozen butternut squash, thawed"
     elif food == "Blueberries, frozen, wild" or food == "Blueberries, unsweetened, frozen":
-        return str("Frozen blueberries")
+        f = "Frozen blueberries"
     elif food == "Raspberries, frozen" or food == "Raspberries, unsweetened, red, frozen":
-        return str("Frozen raspberries")
+        f = "Frozen raspberries"
     elif food == "Spinach, unprepared, chopped or leaf, frozen":
-        return str("Frozen spinach, thawed")
+        f = "Frozen spinach, thawed"
     elif food == "Blackberries, unsweetened, frozen":
-        return str("Frozen blackberries")
+        f = "Frozen blackberries"
     elif food == "Strawberries, unsweetened, frozen":
-        return str("Frozen strawberries")
+        f = "Frozen strawberries"
     elif food == "Broccoli, unprepared, chopped, frozen" or food == "Frozen broccoli":
-        return str("Frozen broccoli, thawed")
+        f = "Frozen broccoli, thawed"
     elif food == "Fruit mixture, frozen":
-        return str("Frozen fruit")
+        f = "Frozen fruit"
     elif food == "Brussels sprouts, unprepared, frozen":
-        return str("Frozen brussel sprouts, thawed")
+        f = "Frozen brussel sprouts, thawed"
     elif food == "Cauliflower, unprepared, frozen":
-        return str("Frozen cauliflower, thawed")
+        f = "Frozen cauliflower, thawed"
     elif food == "Kale, unprepared, frozen":
-        return str("Frozen kale, thawed")
+        f = "Frozen kale, thawed"
     elif food == "Vegetables, unprepared, frozen, mixed":
-        return str("Vegetables")
+        f = "Vegetables"
 
     # Canned & jarred
     elif food == "Ginger root, pickled":
-        return str("Pickled ginger")
+        f = "Pickled ginger"
     elif food == "cheese-sauce":
-        return str("Gooey cheese sauce")
+        f = "Gooey cheese sauce"
     elif food == "sauce":
-        return str("Simple pasta sauce")
+        f = "Simple pasta sauce"
     elif food == "Fish, drained solids, canned, pink, salmon":
-        return str("Canned salmon")
+        f = "Canned salmon"
     elif food == "Tomato products, sauce, canned" or food == "Hunt's, pasta sauce, no added sugar, hunt's, pasta sauce, no added sugar by Conagra Brands, Inc.":
-        return str("Unsweetened tomato sauce")
+        f = "Unsweetened tomato sauce"
     elif food == "Artichoke hearts by MATIZ" or food == "Canned artichokes":
-        return str("Artichokes")
+        f = "Artichokes"
     elif food == "Roasted red peppers by GALIL":
-        return str("Roasted red peppers")
+        f = "Roasted red peppers"
     elif food == "Diced tomatoes, canned" or food == "Tomatoes, diced, ripe, red, canned" or food == "Tomatoes, canned, diced" or food == "Fire roasted diced tomatoes by Raley's" or food == "Canned diced tomatoes":
-        return str("Diced tomatoes")
+        f = "Diced tomatoes"
     elif food == "Tomatoes, canned, crushed" or food == "Canned crushed tomatoes":
-        return str("Crushed tomatoes")
+        f = "Crushed tomatoes"
     elif food == "Tomato products, without salt added, paste, canned" or food == "Tomato paste" or food == "Tomato paste by FIESTA" or food == "Tomato paste by REDPACK" or food == "Tomato products, paste, canned" or food == "Canned tomato paste" or food == "Tomato paste, canned" or food == "Tomato paste by TAT":
-        return str("Tomato paste, canned")
+        f = "Tomato paste, canned"
     elif food == "Grape leaves, raw":
-        return str("Grape leaves")
+        f = "Grape leaves"
     elif food == "Clams, canned" or food == "Minced clams in juice by Bumble Bee Foods, LLC" or food == "Canned clams":
-        return str("Clams")
+        f = "Clams"
     elif food == "Clam juice by Casa Imports Inc.":
-        return str("Clam juice")
+        f = "Clam juice"
     elif food == "Tuna, canned in water" or food == "Fish, drained solids, canned in water, light, tuna" or food == "Canned tuna, in water":
-        return str("Tuna, in water")
+        f = "Tuna, in water"
     elif food == "Pickles, sour, cucumber":
-        return str("Pickles")
+        f = "Pickles"
     elif food == "Capers by RALEY'S" or food == "Capers, canned":
-        return str("Capers")
+        f = "Capers"
     elif food == "Sardines in water" or food == "Sardines, canned in water":
-        return str("Sardines, in water")
+        f = "Sardines, in water"
     elif food == "No salt added diced tomatoes by VINE RIPE":
-        return str("Diced tomatoes, unsalted")
+        f = "Diced tomatoes, unsalted"
     elif food == "Diced green chiles by Raley's" or food == "Diced green chiles by HATCH" or food == "Diced green chile by Iga, Inc." or food == "Diced green chilies by SPARTAN" or food == "Diced green chilies by ELRIO":
-        return str("Diced green chiles")
+        f = "Diced green chiles"
     elif food == "Chipotle peppers in adobo sauce by Goya Foods, Inc.":
-        return str("Chipotle peppers in adobo sauce")
+        f = "Chipotle peppers in adobo sauce"
     elif food == "Kalamata olives, pitted":
-        return str("Kalamata olives")
+        f = "Kalamata olives"
     elif food == "Olives, green, canned or bottled, pickled":
-        return str("Olives")
+        f = "Olives"
     elif food == "Anchovy, canned":
-        return str("Anchovies, canned")
+        f = "Anchovies, canned"
     elif food == "Yeast extract by MARMITE":
-        return str("Marmite")
+        f = "Marmite"
     elif food == "Sauerkraut, solids and liquids, canned" or food == "Raw sauerkraut by Bader Publishing":
-        return str("Sauerkraut")
+        f = "Sauerkraut"
 
     # Nuts, chocolate, dried fruit
     elif food == "Pretzels, hard, flavored":
-        return str("Pretzels")
+        f = "Pretzels"
     elif food == "allulose-choc":
-        return str("Allulose chocolate bar")
+        f = "Allulose chocolate bar"
     elif food == "Chocolate, 45- 59% cacao solids, dark":
-        return str("50% chocolate")
+        f = "50% chocolate"
     elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium" or food == "Nuts, without salt added, plain, almond butter":
-        return str("Almond butter")
+        f = "Almond butter"
     elif food == "Peanut Butter, smooth" or food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
-        return str("Natural peanut butter")
+        f = "Natural peanut butter"
     elif food == "Tahini by BRANDLESS":
-        return str("Tahini")
+        f = "Tahini"
     elif food == "Nuts, almonds" or food == "Nuts, with salt added, dry roasted, almonds" or food == "Nuts, without salt added, dry roasted, almonds":
-        return str("Almonds")
+        f = "Almonds"
     elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, roasted" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types" or food == "Peanuts, dry roasted, unsalted":
-        return str("Peanuts")
+        f = "Peanuts"
     elif food == "Dark chocolate baking chips, dark chocolate by LILYS" or food == "Hersheys Zero Sugar Chocolate Chips":
-        return str("Sugar free chocolate chips")
+        f = "Sugar free chocolate chips"
     elif food == "Candies, semisweet chocolate" or food == "Semisweet chocolate mini chips by Harris-Teeter Inc." or food == "Chocolate chips, semisweet by Giant Eagle, Inc.":
-        return str("Semi-sweet chocolate chips")
+        f = "Semi-sweet chocolate chips"
     elif food == "90% cocoa dark chocolate by Lindt" or food == "90% cocoa dark chocolate by Lindt & Sprungli (Schweiz) AG":
-        return str("90% chocolate")
+        f = "90% chocolate"
     elif food == "Raw cashews" or food == "Nuts, raw, cashew nuts" or food == "Nuts, with salt added, dry roasted, cashew nuts":
-        return str("Cashews")
+        f = "Cashews"
     elif food == "Raisins, seedless, dark" or food == "Raisins, seedless, golden":
-        return str("Raisins")
+        f = "Raisins"
     elif food == str("85% dark chocolate by Sinless Raw Food Inc"):
-        return str("85% chocolate")
+        f = "85% chocolate"
     elif food == str("Bakers Premium 70% Dark Chocolate Baking Bar"):
-        return str("70% chocolate")
+        f = "70% chocolate"
     elif food == "Chopped Walnuts, Great Value" or food == "Walnut chopped pieces" or food == "Chopped walnuts by DIAMOND" or food == "Nuts, english, walnuts":
-        return str("Walnuts")
+        f = "Walnuts"
     elif food == "Walnut butter by Lyle Style":
-        return str("Walnut butter")
+        f = "Walnut butter"
     elif food == "Nuts, dried, pine nuts":
-        return str("Pine nuts")
+        f = "Pine nuts"
     elif food == "Nuts, pecans, or peanuts" or food == "Nuts, pecans":
-        return str("Pecans")
+        f = "Pecans"
     elif food == "Seeds, with salt added, dry roasted, sunflower seed kernels" or food == "Seeds, dried, sunflower seed kernels":
-        return str("Sunflower kernels")
+        f = "Sunflower kernels"
     elif food == "Seeds, with salt added, sunflower seed butter":
-        return str("Sunflower seed butter")
+        f = "Sunflower seed butter"
     elif food == "Nuts, raw, pistachio nuts" or food == "Nuts, with salt added, dry roasted, pistachio nuts" or food == "Dry roasted pistachios" or food == "Nuts, raw, pistachios":
-        return str("Pistachios")
+        f = "Pistachios"
     elif food == "Raw hazelnuts" or food == "Nuts, hazelnuts or filberts":
-        return str("Hazelnuts")
+        f = "Hazelnuts"
     elif food == "Roasted pumpkin seed butter, roasted by 88 ACRES" or food == "Pumpkin seed butter by Wilderness Poets LLC":
-        return str("Pumpkin seed butter")
+        f = "Pumpkin seed butter"
     elif food == "Baking chocolate, squares, unsweetened":
-        return str("100% chocolate")
+        f = "100% chocolate"
     elif food == "Seeds, dried, pumpkin and squash seed kernels" or food == "Seeds, without salt, roasted, pumpkin and squash seed kernels":
-        return str("Pumpkin seeds")
+        f = "Pumpkin seeds"
     elif food == "cranberry-sauce":
-        return str("Sugar free cranberry sauce")
+        f = "Sugar free cranberry sauce"
 
     # Carbs
     elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
-        return str("Whole wheat tortilla")
+        f = "Whole wheat tortilla"
     elif food == "Bread, whole wheat" or food == "ww-bread":
-        return str("Whole wheat bread")
+        f = "Whole wheat bread"
     elif food == "ww-bagles":
-        return str("Whole wheat bagel")
+        f = "Whole wheat bagel"
     elif food == "baguette":
-        return str("Whole wheat baguette")
+        f = "Whole wheat baguette"
     elif food == "Rice, raw, long-grain, brown":
-        return str("Brown rice")
+        f = "Brown rice"
     elif food == "Farro, raw":
-        return str("Farro")
+        f = "Farro"
     elif food == "Quinoa, uncooked":
-        return str("Quinoa")
+        f = "Quinoa"
     elif food == "Pasta, dry, whole-wheat":
-        return str("Whole wheat pasta")
+        f = "Whole wheat pasta"
     elif food == "Pasta, unenriched, dry":
-        return str("Pasta")
+        f = "Pasta"
     elif food == "Couscous, dry":
-        return str("Couscous")
+        f = "Couscous"
     elif food == "Panko, crispy breadcrumbs by George DeLallo Co., Inc.":
-        return str("Panko breadcrumbs")
+        f = "Panko breadcrumbs"
     elif food == "Tortilla, whole wheat":
-        return str("Whole wheat tortilla")
+        f = "Whole wheat tortilla"
     elif food == "Chickpeas pasta by Banza LLC" or food == "Chickpeas pasta, penne by Banza LLC":
-        return str("Chickpea pasta")
+        f = "Chickpea pasta"
     elif food == "Organic red lentil pasta by TOLERANT":
-        return str("Red lentil pasta")
+        f = "Red lentil pasta"
     elif food == "Cornmeal, yellow, whole-grain":
-        return str("Cornmeal")
+        f = "Cornmeal"
     elif food == "cracker" or food == "cracker-choc":
-        return str("Gluten free graham crackers")
+        f = "Gluten free graham crackers"
     elif food == "pie-crust-choc":
-        return str("Healthier Graham Cracker Pie Crust, chocolate")
+        f = "Healthier Graham Cracker Pie Crust, chocolate"
     elif food == "pie-crust":
-        return str("Healthier Graham Cracker Pie Crust")
+        f = "Healthier Graham Cracker Pie Crust"
 
     # Meat & fish
     elif food == "Ham, cooked, smoked, honey":
-        return str("Ham, cooked")
+        f = "Ham, cooked"
     elif food == "Beef, raw, liver, variety meats and by-products":
-        return str("Beef liver")
+        f = "Beef liver"
     elif food == "Chicken, raw, meat and skin, thigh, broilers or fryers":
-        return str("Chicken thighs, bone in, skin on")
+        f = "Chicken thighs, bone in, skin on"
     elif food == "Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers":
-        return str("Boneless skinless chicken breast")
+        f = "Boneless skinless chicken breast"
     elif food == "Chicken, raw, meat only, thigh, dark meat, broilers or fryers" or food == "Boneless skinless chicken thigh filets by PERDUE":
-        return str("Boneless skinless chicken thighs")
+        f = "Boneless skinless chicken thighs"
     elif food == "Chicken, raw, meat and skin, wing, broilers or fryers":
-        return str("Chicken wings")
+        f = "Chicken wings"
     elif food == "Chicken, raw, ground":
-        return str("Ground chicken thighs")
+        f = "Ground chicken thighs"
     elif food == str("Turkey, raw, 7% fat, 93% lean, ground"):
-        return str("Ground turkey, 93/7")
+        f = "Ground turkey, 93/7"
     elif food == "Tilapia fillet" or food == "Fish, raw, tilapia":
-        return str("Tilapia")
+        f = "Tilapia"
     elif food == "Fish, raw, pink, salmon" or food == "Salmon fillet by WILD ALASKAN SOCKEYE":
-        return str("Salmon")
+        f = "Salmon"
     elif food == "Smoked Salmon":
-        return str("Smoked salmon")
+        f = "Smoked salmon"
     elif food == "Crustaceans, raw (may contain additives to retain moisture), mixed species, shrimp" or food == "Peeled & deveined raw shrimp by PACIFIC SURF":
-        return str("Frozen raw shrimp, peeled and deveined")
+        f = "Frozen raw shrimp, peeled and deveined"
     elif food == "Beef, raw, select, trimmed to 1/8 fat, separable lean only, steak, top sirloin":
-        return str("Beef top sirloin")
+        f = "Beef top sirloin"
     elif food == "Beef, raw, 93% lean meat / 7% fat, ground":
-        return str("Ground beef, 93/7")
+        f = "Ground beef, 93/7"
     elif food == "Pork, raw, separable lean only, tenderloin, loin, fresh":
-        return str("Pork tenderloin")
+        f = "Pork tenderloin"
     elif food == "Shredded rotisserie chicken, rotisserie by Target Stores":
-        return str("Shredded rotisserie chicken")
+        f = "Shredded rotisserie chicken"
     elif food == "Extra firm tofu" or food == "Tofu, prepared with calcium sulfate, regular, raw":
-        return str("Tofu, firm")
+        f = "Tofu, firm"
 
-    # Else
-    else:
-        return food
+    return f
 
 def main(path = ""):
 

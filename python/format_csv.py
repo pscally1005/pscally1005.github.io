@@ -22,8 +22,8 @@ def main():
     amount_desc_swap.main(path2)
     ingredients.main(path2)
     volume.main(path2)
-    vol_from_mass.main(path2)
     grams.main(path2)
+    vol_from_mass.main(path2)
 
 if __name__ == '__main__':
     main()

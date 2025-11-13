@@ -85,17 +85,22 @@ Instructions:
 - To reheat, air fry (or bake or toast) your bagels directly from frozen for about 5 minutes at 350F, or until crispy and lightly browned
 - <center><img src='/assets/Food/Bread/WW Bagels/lox1.jpg' alt='' class='instruction-image'></center>
 
-- Here's a delicious lox bagel with 3 oz (85 g) smoked <a href='/misc/fish#salmon'>salmon</a>, 2 tbsp (30 g) Greek <a href='/misc/dairy#cream-cheese'>cream cheese</a>, and 2 tbsp (15 g) capers
+- A classic bagel option is a bagel with <a href='/misc/dairy#cream-cheese'>cream cheese</a>, so here I spread 2 tbsp (30 g) <a href='/misc/homemade-cheese#labneh'>Labneh cheese</a> (high <a href='/misc/protein'>protein</a>, homemade <a href='/misc/dairy#cream-cheese'>cream cheese</a>) onto a toasted bagel
+- <center><img src='/assets/Food/Bread/WW Bagels/cc.jpg' alt='' class='instruction-image'></center>
+
+- Another delicious option is a lox bagel with 3 oz (85 g) smoked <a href='/misc/fish#salmon'>salmon</a>, 2 tbsp (30 g) <a href='/misc/homemade-cheese#labneh'>Labneh cheese</a>, and 2 tbsp (15 g) capers
 - <center><img src='/assets/Food/Bread/WW Bagels/lox2.jpg' alt='' class='instruction-image'></center>
 ---
 {% assign files =
     "wwbagels,"
+    | append: "ccbagel,"
     | append: "loxbagel"
     | split: ","
 %}
 {% assign titles =
-    "Plain Bagel,"
-    | append: "With <a href='/misc/fish#salmon'>Lox</a> &<br><a href='/misc/dairy#cream-cheese'>Cream Cheese</a>"
+    "Plain<br>Bagel,"
+    | append: "<a href='/misc/homemade-cheese#labneh'>Cream Cheese</a><br>Bagel,"
+    | append: "<a href='/misc/fish#salmon'>Lox</a><br>Bagel"
     | split: ","
 %}
 {% assign nutrients =
@@ -106,4 +111,5 @@ Instructions:
     | append: "Fiber"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+{% assign folder = "bagel" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients folder=folder scroll="true" %}

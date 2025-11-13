@@ -26,8 +26,8 @@ start2: Carrots
 section2: Veggies
 start3: Powdered peanut butter
 section3: Sauce
-start4: Sesame oil
-section4: Optional
+start4:
+section4:
 start5:
 section5:
 Prep: 30
@@ -66,7 +66,7 @@ Instructions:
 
 - Thinly slice your chicken breast, and add to a large bowl. Mix in the oil and spices (paprika, garlic and onion powder, pepper, salt, and ginger), and transfer to your sheet. Roast for about 12 minutes, or until the chicken just reaches 165F. Let the chicken rest for a few minutes before slicing
 
-- As the chicken rests and the vegetables cook, prepare your sauce in a large glass - PB2, soy sauce, ACV, water, gochujang, cornstarch, ginger, and sesame oil
+- As the chicken rests and the vegetables cook, prepare your sauce in a large glass - powdered peanut butter, soy sauce, ACV, water, gochujang, cornstarch, ginger, and sesame oil
 
 - Cut the chicken into cubes, and add to the pan. Pour the sauce over it, and mix to fully combine. The cornstarch should thicken the sauce when heated. Optionally, garnish with peanuts, and serve over some <a href='/misc/grains#brown-rice'>brown rice</a>
 - <center><img src='/assets/Food/Chicken/Peanut/peanut-6.jpg' alt='' class='instruction-image'></center>

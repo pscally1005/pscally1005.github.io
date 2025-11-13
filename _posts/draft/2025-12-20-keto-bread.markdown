@@ -41,9 +41,35 @@ Source4:
 Source5:
 whisk: https://s.samsungfood.com/5o7Qy
 tags:
-- TODO
-Description: TODO
+- bread
+- sandwich
+- toast
+- slice
+- keto
+- almond flour
+- vital wheat gluten
+- inulin
+- fiber
+- low carb
+- high fat
+Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is perfectly high in <a href='/misc/protein'>protein</a> from the <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, high in healthy <a href='/misc/fats'>fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>, and high in <a href='/misc/fiber'>fiber</a> from the inulin. At about 100 <a href='/misc/calories'>calories</a> per slice, this <a href='/recipes/bread'>bread</a> is the perfect low <a href='/misc/carbs'>carb</a> substitute with only 2 g of net <a href='/misc/carbs'>carbs</a> per slice
 Instructions:
-- TODO
+- In a large bowl, whisk together the dry ingredients - almond flour, vital wheat gluten, inulin, yeast, and salt
+
+- Inulin, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of honey (21 g) or granulated sugar (12 g) if you prefer
+
+- Add in the vinegar and water, and bring together with a dough scraper. Let the dough rest for 5 minutes
+- <center><img src='/assets/Food/Bread/Keto Bread/bowl.jpg' alt='' class='instruction-image'></center>
+
+- Turn the dough onto a clean counter, and knead for about 10 minutes, until you have smooth and cohesive bread dough that's stretchy and doesn't tear
+- <center><img src='/assets/Food/Bread/Keto Bread/knead.jpg' alt='' class='instruction-image'></center>
+
+- Lightly grease a 9x5" bread pan, and add in your dough. Cover with a clean towel, and let proof at room temperature for 2 hours, or until doubled in size
+- <center><img src='/assets/Food/Bread/Keto Bread/raw.jpg' alt='' class='instruction-image'></center>
+
+- Bake the proofed loaf at 350F for about 45 minutes, or until lightly browned and the internal temperature is around 210F
+- <center><img src='/assets/Food/Bread/Keto Bread/baked.jpg' alt='' class='instruction-image'></center>
+
+- Allow the bread to cool totally in the pan before removing and slicing
 - <center><img src='/assets/Food/Bread/Keto Bread/sliced.jpg' alt='' class='instruction-image'></center>
 ---

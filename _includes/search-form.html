@@ -100,6 +100,7 @@
     }
 
     // Initialize Simple Jekyll Search
+    // REMOVED <span class='post-count'></span> BEFORE 'post-link' LINE
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
@@ -116,7 +117,6 @@
                     <img src='{image}' alt='' class='blog-roll-image'>
                     <span class='post-meta'>{date}</span>
                     <div class='post-title'>
-                        <span class='post-count'></span> <!-- Placeholder for numbering -->
                         <a class='post-link' href="{url}">{title}</a>
                     </div>
                     <center>
