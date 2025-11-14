@@ -18,13 +18,13 @@ dressing: no
 brownie: no
 cookie: no
 permalink: /recipes/keto-bread-loaf
-image: /assets/Food/Bread/Keto Bread/cover.jpg
+image: /assets/Food/Bread/Keto Bread/cover1.jpg
 ing: ketobread-ing
 facts: ketobread-facts
 servingSize: 1 slice
-section1:
-start2:
-section2:
+section1: Wet Ingredients
+start2: Apple cider vinegar
+section2: Dry Ingredients
 start3:
 section3:
 start4:
@@ -52,7 +52,7 @@ tags:
 - fiber
 - low carb
 - high fat
-Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is perfectly high in <a href='/misc/protein'>protein</a> from the <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, high in healthy <a href='/misc/fats'>fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>, and high in <a href='/misc/fiber'>fiber</a> from the inulin. At about 100 <a href='/misc/calories'>calories</a> per slice, this <a href='/recipes/bread'>bread</a> is the perfect low <a href='/misc/carbs'>carb</a> substitute with only 2 g of net <a href='/misc/carbs'>carbs</a> per slice
+Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is perfectly high in <a href='/misc/protein'>protein</a> from the <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, high in healthy <a href='/misc/fats'>fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>, and high in <a href='/misc/fiber'>fiber</a> from the inulin. At about 100 <a href='/misc/calories'>calories</a> per slice, this <a href='/recipes/bread'>bread</a> is the perfect low <a href='/misc/carbs'>carb</a> substitute with only 2.5 g of net <a href='/misc/carbs'>carbs</a> per slice
 Instructions:
 - In a large bowl, whisk together the dry ingredients - almond flour, vital wheat gluten, inulin, yeast, and salt
 
@@ -62,10 +62,11 @@ Instructions:
 - <center><img src='/assets/Food/Bread/Keto Bread/bowl.jpg' alt='' class='instruction-image'></center>
 
 - Turn the dough onto a clean counter, and knead for about 10 minutes, until you have smooth and cohesive bread dough that's stretchy and doesn't tear
-- <center><img src='/assets/Food/Bread/Keto Bread/knead.jpg' alt='' class='instruction-image'></center>
+- <center><img src='/assets/Food/Bread/Keto Bread/counter.jpg' alt='' class='instruction-image'></center>
 
-- Lightly grease a 9x5" bread pan, and add in your dough. Cover with a clean towel, and let proof at room temperature for 2 hours, or until doubled in size
-- <center><img src='/assets/Food/Bread/Keto Bread/raw.jpg' alt='' class='instruction-image'></center>
+- Lightly grease a 9x5" bread pan, and add in your dough. Cover with a clean towel, and let proof at room temperature for 2 hours.  Below is the before and after pictures
+- <center><img src='/assets/Food/Bread/Keto Bread/pre-rise.jpg' alt='' class='instruction-image'></center>
+- <center><img src='/assets/Food/Bread/Keto Bread/post-rise.jpg' alt='' class='instruction-image'></center>
 
 - Bake the proofed loaf at 350F for about 45 minutes, or until lightly browned and the internal temperature is around 210F
 - <center><img src='/assets/Food/Bread/Keto Bread/baked.jpg' alt='' class='instruction-image'></center>

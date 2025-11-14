@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,68,,
+Calories,88,,
 "Vitamin A, RAE",5.7,mcg,1 %
 "Carotene, alpha",0.13,mcg,
 "Carotene, beta",0.91,mcg,
@@ -15,8 +15,8 @@ Calories,68,,
 "cis-beta-Carotene",0,mcg,
 "trans-Lycopene",0,mcg,
 "trans-beta-Carotene",0,mcg,
-"Thiamin [Vitamin B1]",0.05,mg,4 %
-"Riboflavin [Vitamin B2]",0.077,mg,6 %
+"Thiamin [Vitamin B1]",0.051,mg,4 %
+"Riboflavin [Vitamin B2]",0.078,mg,6 %
 "Niacin [Vitamin B3]",0.586,mg,4 %
 "Pantothenic acid [Vitamin B5]",0.077,mg,2 %
 "Vitamin B6",0.043,mg,3 %
@@ -44,7 +44,7 @@ Calories,68,,
 "Betaine",5.5,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",15.2,mg,3 %
-"Calcium",33.63,mg,3 %
+"Calcium",33.47,mg,3 %
 "Copper",0.19,mg,21 %
 "Fluoride",0,mcg,
 "Iodine",1.54,mcg,1 %
@@ -52,43 +52,44 @@ Calories,68,,
 "Magnesium",36.93,mg,9 %
 "Manganese",0.517,mg,22 %
 "Phosphorus",95.48,mg,8 %
-"Potassium",141.31,mg,3 %
-"Selenium",6.16,mcg,11 %
-"Sodium",119.1,mg,5 %
-"Zinc",0.53,mg,5 %
+"Potassium",141.4,mg,3 %
+"Selenium",6.19,mcg,11 %
+"Sodium",119.14,mg,5 %
+"Zinc",0.57,mg,5 %
 "Protein",2.81,g,6 %
 "Alanine",0.124,g,
-"Arginine",0.205,g,
-"Aspartic acid",0.257,g,
+"Arginine",0.206,g,
+"Aspartic acid",0.258,g,
 "Cystine",0.037,g,
 "Cysteine",0.03,g,
-"Glutamic acid",0.709,g,
+"Glutamic acid",0.711,g,
 "Glycine",0.139,g,
-"Histidine",0.067,g,6 %
+"Histidine",0.068,g,6 %
 "Hydroxyproline",0,g,
-"Isoleucine",0.104,g,7 %
+"Isoleucine",0.105,g,7 %
 "Leucine",0.193,g,6 %
 "Lysine",0.105,g,3 %
 "Methionine",0.042,g,
 "Phenylalanine",0.144,g,
-"Proline",0.237,g,
-"Serine",0.136,g,
-"Threonine",0.094,g,6 %
+"Proline",0.238,g,
+"Serine",0.137,g,
+"Threonine",0.095,g,6 %
 "Tryptophan",0.035,g,9 %
-"Tyrosine",0.077,g,
+"Tyrosine",0.078,g,
 "Valine",0.133,g,7 %
-"Phenylalanine + Tyrosine",0.221,g,8 %
+"Phenylalanine + Tyrosine",0.222,g,8 %
 "Methionine + Cysteine",0.109,g,7 %
-"Carbohydrate",17.69,g,6 %
-"Fiber",7.03,g,25 %
+"Carbohydrate",17.77,g,6 %
+"Fiber",6.56,g,23 %
 "Starch",4.33,g,
-"Sugars",0.34,g,
+"Sugars",5.67,g,
 "Fructose",0,g,
+"Galactose",0,g,
 "Glucose",0.01,g,
 "Lactose",0,g,
 "Maltose",0,g,
-"Sucrose",0.03,g,
-"Net carbs",10.66,g,
+"Sucrose",4.52,g,
+"Net carbs",11.21,g,
 "",0.05 g,undefined,
 "Fat",3.429,g,4 %
 "Saturated fatty acids",0.834,g,4 %
@@ -116,7 +117,7 @@ Calories,68,,
 "Pentadecenoic acid",0,g,
 "Tetracosenoic cis acid",0,g,
 "Tetradecenoic acid",0,g,
-"Polyunsaturated fatty acids",0.67,g,
+"Polyunsaturated fatty acids",0.669,g,
 "γ-linolenic acid n-6 (GLA)",0,g,
 "Cis,cis-eicosadienoic n-6 acid",0,g,
 "Linoleic acid n-6 (LA)",0.05,g,

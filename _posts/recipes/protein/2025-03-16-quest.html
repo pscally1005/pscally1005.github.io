@@ -75,3 +75,25 @@ Instructions:
 
 - These bars are solid enough to hold their shape at room temperature, and purposely only use ingredients that don't need to be refrigerated. That way, you keep one in an airtight bag during the day for <a href='/misc/protein'>protein</a> on the go
 ---
+<i>Note</i>: You can replace half of the granulated monk fruit with inulin to lower the sugar alcohols and increase the <a href='/misc/fiber'>fiber</a>, more matching the macros of a standard Quest bar.  Inulin is a <a href='/misc/fiber'>fiber</a> powder with 0 <a href='/misc/calories'>calories</a> and a mildly sweet taste.  Use 2 tbsp (24 g) each of granulated monk fruit and inulin.<br><br>
+
+{% assign files =
+    "quest,"
+    | append: "questinulin"
+    | split: ","
+%}
+{% assign titles =
+    "<a href='#recipe'>As Written</a>,"
+    | append: "With Inulin"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Net Carbs,"
+    | append: "Fiber,"
+    | append: "Sugar Alcohol"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
