@@ -21,9 +21,9 @@ image: /assets/Food/Bread/Burger Buns/buns-cover.jpg
 ing: buns-ing
 facts: buns-facts
 servingSize: 1 bun
-section1:
-start2:
-section2:
+section1: Dry Ingredients
+start2: Unsweetened applesauce
+section2: Wet Ingredients
 start3:
 section3:
 start4:
@@ -54,9 +54,9 @@ Description: These buns require no yeast, and instead rely on chemical leaveners
 Instructions:
 - Preheat your oven to 400F, and line a large cookie sheet with parchment paper
 
-- In a large bowl, sift and whisk together the dry ingredients - flours, baking powder, baking soda, salt, garlic powder, and onion powder
+- In a large bowl, sift and whisk together the dry ingredients - whole wheat flour, vital wheat gluten, baking powder, baking soda, salt, garlic powder, and onion powder
 
-- Add the wet ingredients to the bowl (applesauce, almond butter, and milk), and mix until you have a combined ball of bread dough.  Tahini or natural peanut butter will work in place of almond butter here.  Any milk will work as well; plant or cow's based, as long as it's unsweetened
+- Add the wet ingredients to the bowl (applesauce, almond butter, and milk), and mix until you have a combined ball of bread dough.  Tahini or natural peanut butter will work in place of almond butter here.  Any milk will work as well; plant or cow's based, as long as it's unsweetened, or water will do
 
 - Knead the dough in the bowl for about 30-45 seconds, until fully combined; don't over knead
 - <center><img src='/assets/Food/Bread/Burger Buns/buns-4.jpg' alt='' class='instruction-image'></center>

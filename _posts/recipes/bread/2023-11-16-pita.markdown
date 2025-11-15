@@ -47,9 +47,9 @@ tags:
 - hummus
 Description: Pita bread is probably my favorite type of bread. They're specifically designed for sandwiches, taste great, and are light and fluffy. This <a href='/misc/grains#whole-wheat'>whole wheat</a> variety shares all those qualities, while adding some extra <a href='/misc/fiber'>fiber</a> and removing heavily processed <a href='/misc/grains#white-wheat'>white flour</a>. My favorite fillings for it are <a href='/recipes/greek-salad'>Greek Salad with Chicken</a> or <a href='/recipes/turkey-pesto-pita'>Tomato Turkey Pesto Pitas</a>
 Instructions:
-- Mix warm water, salt, yeast, and oil in a large bowl. Let proof for 5 minutes to make sure the yeast is alive
+- Add your water to a glass, and microwave for 1 minute to warm it.  Mix warm water, salt, yeast, and oil in a large bowl. Let proof for 5 minutes to make sure the yeast is alive
 
-- Add in the oil and flours, and bring together with a dough scraper. Lightly knead for a minute to fully mix everything. Cover and let rest for 20 minutes to autolyze
+- In a separate bowl, whisk together the whole wheat flour and vital wheat gluten.  Add the flours into the liquids, and bring together with a dough scraper. Lightly knead for a minute to fully mix everything. Cover and let rest for 20 minutes to autolyze
 - <center><img src='/assets/Food/Bread/Pita/pita-2.jpg' alt='' class='instruction-image'></center>
 
 - Turn dough onto the non floured counter and knead for ~8 minutes. Let rest for 3 minutes, then shape into a ball. Return to the bowl, cover with a cloth, and let rise for 1 hour (should be about doubled in size)

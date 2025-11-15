@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Protein Slop with Sweet Potatoes
-date:   2025-10-25 00:00:00 -0500
+date:   2025-11-15 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

@@ -53,9 +53,9 @@ tags:
 - pizza dough
 Description: Everybody loves pizza right? This is a 2 day process, but totally worth it for a good homemade pizza, plus it's a fun activity to do with a few people. Prep the dough the night before, and then have a few people over the next day for dinner. <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> serves to add some extra nutrition and taste to your pizza as well.
 Instructions:
-- In a large mixing bowl, combine the water, yeast, salt, and honey. Stir, and let sit for 5 minutes to make sure the yeast is alive
+- Add your water to a glass, and microwave for 1 minute to warm it.  Add yeast, salt, honey, oil, and warm water to a large mixing bowl, and mix.  Let sit for 5 minutes to make sure the yeast is still alive
 
-- To the bowl, add the oil, and flours. Mix with a dough scraper and lightly knead in the bowl.  Cover with a cloth and let rest for 1 hour
+- In a separate bowl, whisk together whole wheat flour and vital wheat gluten.  Add the dry into the wet, mix with a dough scraper, and lightly knead in the bowl.  Cover with a cloth and let rest for 1 hour
 - <center><img src='/assets/Food/Bread/Pizza/pizza-2.jpg' alt='' class='instruction-image'></center>
 
 - In the bowl, fold the dough into a smooth ball, and place back in the bowl. Cover and let rest for another 1 hour. Repeat one more time. (Total of three 1 hour rests with stretching and folding)

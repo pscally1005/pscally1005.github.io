@@ -21,9 +21,9 @@ image: /assets/Food/Bread/Baguette/bruschetta-portrait.jpg
 ing: baguette-ing
 facts: baguette-facts
 servingSize: 1 slice
-section1:
-start2:
-section2:
+section1: Wet Ingredients
+start2: Whole wheat flour
+section2: Dry Ingredients
 start3:
 section3:
 start4:
@@ -52,9 +52,9 @@ tags:
 - garlic bread
 Description: I have strong memories of French baguettes and Italian bread from holidays growing up.  This recipe is simply my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>, but made into 4 small baguettes instead of a loaf of sandwich bread.  It's great toasted on it's own, or used for <a href='/recipes/breaded-chicken'>bruschetta</a>
 Instructions:
-- Microwave your water in a glass for about 1:15 minutes, until warm
+- Add your water to a glass, and microwave for 1 minute to warm it.  Add yeast, salt, and warm water to a large mixing bowl, and mix.  Let sit for 5 minutes to make sure the yeast is still alive
 
-- In a large mixing bowl, add your dry ingredients - whole wheat flour, vital wheat gluten, salt, and yeast.  Pour in the water, and mix until well combined with a dough scraper.  Cover with a cloth and let rest for 30 minutes
+- In a separate bowl, whisk together whole wheat flour and vital wheat gluten.  Add the flours into the wet bowl, and mix until well combined with a dough scraper.  Cover with a cloth and let rest for 30 minutes
 
 - 30 minutes later, turn the dough onto the table and knead for 10 minutes. When done, shape the dough into a tight ball, return dough to bowl (seam down), cover with a cloth, and let rise for 1-1.5 hours.  It will have about doubled after the initial rest
 - <center><img src='/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg' alt='' class='half-page'><img src='/assets/Food/Bread/Baguette/baguette-doubled.jpg' alt='' class='half-page'></center>
