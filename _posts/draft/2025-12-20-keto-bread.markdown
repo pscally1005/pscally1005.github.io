@@ -54,11 +54,13 @@ tags:
 - high fat
 Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is perfectly high in <a href='/misc/protein'>protein</a> from the <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, high in healthy <a href='/misc/fats'>fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>, and high in <a href='/misc/fiber'>fiber</a> from the inulin. At about 100 <a href='/misc/calories'>calories</a> per slice, this <a href='/recipes/bread'>bread</a> is the perfect low <a href='/misc/carbs'>carb</a> substitute with only 2.5 g of net <a href='/misc/carbs'>carbs</a> per slice
 Instructions:
+- In a large glass, add your water, and microwave for 1 minute to warm it
+
 - In a large bowl, whisk together the dry ingredients - almond flour, vital wheat gluten, inulin, yeast, and salt
 
 - Inulin, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of honey (21 g) or granulated sugar (12 g) if you prefer
 
-- Add in the vinegar and water, and bring together with a dough scraper. Let the dough rest for 5 minutes
+- Add in the vinegar and warm water, and bring together with a dough scraper. Let the dough rest for 5 minutes
 - <center><img src='/assets/Food/Bread/Keto Bread/bowl.jpg' alt='' class='instruction-image'></center>
 
 - Turn the dough onto a clean counter, and knead for about 10 minutes, until you have smooth and cohesive bread dough that's stretchy and doesn't tear

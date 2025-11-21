@@ -207,7 +207,7 @@ def grams(food, mass, vol):
             m = "40"
         elif vol == "9 tbsp":
             m = "45"
-        elif vol == "10 tbsp":
+        elif vol == "10 tbsp" or vol == "1/2cup + 2tbsp":
             m = "50"
         elif vol == "2/3 cup":
             m = "53"

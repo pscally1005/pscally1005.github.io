@@ -1,0 +1,60 @@
+---
+layout: post
+title:  Balsamic Olive Spread
+date:   2025-11-20 00:00:00 -0500
+categories:
+- Recipes
+- Savory Sauces
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+permalink: /recipes/olive-dip
+image: /assets/Food/Savory Sauces/Olive Dip/cover.jpg
+ing: olivedip-ing
+facts: olivedip-facts
+servingSize: 2 tbsp (30 g)
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest:
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/aFXJa
+tags:
+- olives
+- green olives
+- kalamata olives
+- black olives
+- olive oil
+- balsamic vinegar
+- blasamic vinaigrette
+- salad dressing
+- dip
+- spread
+Description: Do you want all the health benefits of EVOO without all the oil?  When why not just eat <a href='/misc/fruit#olives'>olives</a>?  <a href='/misc/fruit#olives'>Olives</a> are a rich source of <a href='/misc/fats'>mono-unsaturated fats</a> which benefit heart and brain health. <a href='/misc/nutrient-alphabet#E'>Vitamin E</a> and their various colors and provide a myriad of <a href='/misc/phytochemicals'>antioxidants</a>, which help to reduce <a href='/misc/chronic-inflammation'>chronic inflammation</a> and cancer risk.  This dip takes inspiration from <a href='/recipes/balsamic-vinaigrette'>balsamic vinaigrette</a>, olive tapenade, and <a href='/hummus'>hummus</a>, blending together olives with balsamic vinegar and spices for the perfect <a href='/salad-dressings'>salad dressing</a> or raw veggie dip
+Instructions:
+- Drain and rinse your olives. Add all ingredients to a food processor, and blend until smooth. Season with salt to taste (will depend on your olives), and store in the fridge
+- <center><img src='/assets/Food/Savory Sauces/Olive Dip/processor.jpg' alt='' class='instruction-image'></center>
+
+- Any type of olives will work. I prefer kalamata, but green olives are good too. Only use black olives if you're serving this to your worst enemy (can you tell I hate black olives?)
+---

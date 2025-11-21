@@ -60,11 +60,11 @@ tags:
 - fodmap
 - low fodmap
 - salsa
-Description: These tacos are free of <a href='/misc/veggies#onion'>onion</a> and garlic, and are made using ground <a href='/misc/meat#chicken-thighs'>chicken</a> thighs (or any kind of ground <a href='/misc/meat'>meat</a> you prefer; <a href='/misc/meat#ground-beef'>beef</a> or turkey would work great here too!). These can also be served with <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a>, <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, cheese, and <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a>. Also check out my standard <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a> recipe
+Description: These tacos are free of <a href='/misc/veggies#onion'>onion</a> and <a href='/misc/veggies#garlic'>garlic</a>, and are made using ground <a href='/misc/meat#chicken-thighs'>chicken thighs</a> (or any kind of ground <a href='/misc/meat'>meat</a> you prefer; <a href='/misc/meat#ground-beef'>beef</a> or <a href='/misc/meat#ground-turkey'>turkey</a> would work great here too!). These can be served with <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a>, <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, <a href='/misc/dairy#cheddar'>cheese</a>, and <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a>. Also check out my standard <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a> recipe
 Instructions:
 - Prepare your spice mix in a mason jar - paprika, cumin, oregano, black pepper, salt, cornstarch, and cayenne
 
-- Start with the peppers, since they will take the longest. Preheat a 12" nonstick pan over medium heat with a spray of oil. Wash the peppers, and cut into long thin strips. Add to the pan with some oil
+- Start with the peppers, since they will take the longest. Preheat a 12" nonstick pan over medium heat. Wash the peppers, and cut into long thin strips. Add to the pan with some oil
 
 - Season the peppers with your spice mix, about 5 tsp. Cover and cook until soft, browned, and lightly charred, about 20 minutes. Finish with lemon (or lime) juice
 

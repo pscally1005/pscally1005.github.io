@@ -48,6 +48,47 @@ def vol_from_mass(food, mass, vol):
         elif mass == "200" or mass == "192":
             v = "1 cup"
 
+    # Cornstarch
+    elif food == "Cornstarch":
+        if mass == "4":
+            v = "1/2 tbsp"
+        elif mass == "8":
+            v = "1 tbsp"
+        elif mass == "16":
+            v = "2 tbsp"
+        elif mass == "20":
+            v = "2.5 tbsp"
+        elif mass == "24":
+            v = "3 tbsp"
+        elif mass == "32":
+            v = "1/4 cup"
+        elif mass == "40":
+            v = "5 tbsp"
+        elif mass == "48":
+            v = "6 tbsp"
+        elif mass == "56":
+            v = "7 tbsp"
+        elif mass == "64":
+            v = "1/2 cup"
+        elif mass == "72":
+            v = "9 tbsp"
+        elif mass == "80":
+            v = "10 tbsp"
+        elif mass == "85":
+            v = "2/3 cup"
+        elif mass == "88":
+            v = "11 tbsp"
+        elif mass == "96":
+            v = "3/4 cup"
+        elif mass == "104":
+            v = "13 tbsp"
+        elif mass == "112":
+            v = "14 tbsp"
+        elif mass == "120":
+            v = "15 tbsp"
+        elif mass == "128":
+            v = "1 cup"
+
     # Labneh
     elif food == "Labneh cheese, skim":
         if mass == "15":
@@ -102,6 +143,27 @@ def vol_from_mass(food, mass, vol):
         elif mass == "320":
             v = "1 cup"
 
+    # Banana
+    elif food == "Banana, overripe" or food == "Frozen banana" or food == "Banana, underripe" or food == "Frozen bananas, overripe" or food == "Frozen overripe bananas" or food == "Banana, overripe, or unsweetened applesauce":
+        if mass == "55":
+            v = "1/2 medium"
+        elif mass == "90":
+            v = "1 small"
+        elif mass == "110":
+            v = "1 medium"
+        elif mass == "220":
+            v = "2 medium"
+        elif mass == "275":
+            v = "2 large"
+        elif mass == "330":
+            v = "3 medium"
+        elif mass == "440":
+            v = "4 medium"
+        elif mass == "550":
+            v = "5 medium"
+        elif mass == "660":
+            v = "6 medium"
+
     # Liquids
     elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic":
         if mass == "1.25":
@@ -121,7 +183,8 @@ def vol_from_mass(food, mass, vol):
         elif mass == "45":
             v = "3 tbsp"
         elif mass == "60":
-            v = "4 tbsp"
+            # v = "4 tbsp"
+            v = "1/4 cup"
         elif mass == "75":
             v = "5 tbsp"
         elif mass == "80":
@@ -182,7 +245,8 @@ def vol_from_mass(food, mass, vol):
         elif mass == "45":
             v = "9 tbsp"
         elif mass == "50":
-            v = "10 tbsp"
+            # v = "10 tbsp"
+            v = "1/2cup + 2tbsp"
         elif mass == "53":
             v = "2/3 cup"
         elif mass == "55":

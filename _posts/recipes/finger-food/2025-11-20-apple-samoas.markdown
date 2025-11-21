@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Apple Samoa Bites
-date:   2025-10-27 00:00:00 -0500
+date:   2025-11-20 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

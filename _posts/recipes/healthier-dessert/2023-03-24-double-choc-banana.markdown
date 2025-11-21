@@ -57,15 +57,15 @@ tags:
 - bread
 - cake
 - mini muffin
-Description: <a href='/misc/fake-healthy-foods#banana-bread'>Banana bread</a> is a great dessert for a crowd, and this healthy chocolate banana bread is a great way to still feel your best at sweets time. This dessert is minimally sweetened with honey, and fully brings out the flavor of the <a href='/misc/fruit#banana'>bananas</a> and the cocoa for a delicious brownie flavored banana bread.  It's very similar to my <a href='/recipes/pbj-muffin'>Peanut Butter and Jelly Muffins</a> and my <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a>, which you should also check out
+Description: <a href='/misc/fake-healthy-foods#banana-bread'>Banana bread</a> is a great <a href='/recipes/healthier-dessert'>dessert</a> for a crowd, and this healthy chocolate <a href='/misc/fruit#banana'>banana</a> bread is a great way to still feel your best at sweets time. This <a href='/recipes/healthier-dessert'>dessert</a> is minimally sweetened with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or honey or maple syrup), and fully brings out the flavor of the <a href='/misc/fruit#banana'>bananas</a> and the cocoa for a delicious brownie flavored <a href='/misc/fruit#banana'>banana</a> bread.  It's very similar to my <a href='/recipes/pbj-muffin'>Peanut Butter and Jelly Muffins</a> and my <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a>, which you should also check out.  For some other <a href='/misc/fruit#banana'>banana</a> bread recipes, see my <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a> and <a href='/recipes/no-nut-protein-banana-bread'>No Nut Protein Banana Bread</a>
 Instructions:
 - Preheat the oven to 350F, and line a bread pan with parchment paper. Spray the inside of the paper as well
 
-- Whisk together dry ingredients (oat flour, cocoa powder, cornstarch, baking soda, and salt) in a bowl
+- Whisk together dry ingredients (oats, cocoa powder, cornstarch, baking soda, and salt) in a bowl
 
-- In a separate bowl, mash your bananas. Add the rest of the wet ingredients (yogurt, <a href='/recipes/natural-peanut-butter'>nut butter</a>, applesauce, egg, and honey) to the bowl and mix
+- In a separate bowl, mash your bananas. Add the rest of the wet ingredients (yogurt, <a href='/recipes/natural-peanut-butter'>nut butter</a>, applesauce, egg, and sweetener) to the bowl and mix
 
-- Any kind of nut butter, like peanut or almond, will work.  For a nut free version, use pumpkin seed or sunflower seed butter
+- I've gone with <a href='/misc/nuts#peanuts'>peanut butter</a> here, but any <a href='/misc/nuts'>nut</a> or <a href='/misc/seeds'>seed</a> butter will work, such as <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/nuts#cashews'>cashew</a>, <a href='/misc/nuts#pistachios'>pistachio</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/nuts#walnuts'>walnut butter</a>
 
 - Pour the wet ingredients into the dry, and combine with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>.  Fold in the chocolate chips
 - <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg' alt='' class='instruction-image'></center>
@@ -73,10 +73,10 @@ Instructions:
 - Transfer the batter to the lined pan, and optionally top with a few extra chocolate chips
 - <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-raw.jpg' alt='' class='instruction-image'></center>
 
-- Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty, and the internal temperature will be around 190F
+- Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty and wet, and the internal temperature will be around 205F
 - <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-baked.jpg' alt='' class='instruction-image'></center>
 
-- Alternatively, you can bake these as either mini muffins (makes 40) or standard size muffins (makes 12).  Bake at 350F until the internal temperature is around 200F, and a toothpick comes out clean.  About 12 minutes for the mini muffins or about 22 minutes for the standard size
+- Alternatively, you can bake these as either mini muffins (makes 40) or standard size muffins (makes 12).  Bake at 350F until the internal temperature is around 205F, and a toothpick comes out almost clean, but not totally.  About 12 minutes for the mini muffins or about 22 minutes for the standard size
 
 - Let cool completely in the fridge for about an hour, then slice
 ---
