@@ -143,6 +143,11 @@ def vol_from_mass(food, mass, vol):
         elif mass == "320":
             v = "1 cup"
 
+    # capers
+    elif food == "Capers":
+        if mass == "15":
+            v = "2 tbsp"
+
     # Banana
     elif food == "Banana, overripe" or food == "Frozen banana" or food == "Banana, underripe" or food == "Frozen bananas, overripe" or food == "Frozen overripe bananas" or food == "Banana, overripe, or unsweetened applesauce":
         if mass == "55":
@@ -355,6 +360,24 @@ def vol_from_mass(food, mass, vol):
             v = "3 scoop"
         elif mass == "120":
             v = "4 scoop"
+
+    # nuts
+    elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":
+        if mass == "15":
+            v = "2 tbsp"
+        elif mass == "30":
+            v = "1/4 cup"
+        elif mass == "60" or mass == "64":
+            v = "1/2 cup"
+        elif mass == "90":
+            v = "3/4 cup"
+        elif mass == "120" or mass == "128":
+            v = "1 cup"
+        elif mass == "180" or mass == "196":
+            v = "1.5 cup"
+        elif mass == "240" or mass == "256":
+            v = "2 cup"
+
 
     # Nut butters
     elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter":
@@ -850,8 +873,8 @@ def vol_from_mass(food, mass, vol):
         elif mass == "30":
             v = "6 scoop"
 
-    # Dates
-    elif food == "Dates" or food == "Pitted dates":
+    # Dried fruit, olives
+    elif food == "Dates" or food == "Pitted dates" or food == "Raisins" or food == "Dried figs" or food == "Olives":
         if mass == "40":
             v = "1/4 cup"
         elif mass == "80":

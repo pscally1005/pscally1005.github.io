@@ -58,7 +58,7 @@ Instructions:
 
 - In a large bowl, whisk together the dry ingredients - almond flour, vital wheat gluten, inulin, yeast, and salt
 
-- Inulin, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of honey (21 g) or granulated sugar (12 g) if you prefer
+- Inulin, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of honey (21 g) or granulated sugar (12 g) if you prefer.  For another recipe with inulin, check out my <a href='/recipes/fiber-one-brownies'>Copycat Fiber One Brownies</a>
 
 - Add in the vinegar and warm water, and bring together with a dough scraper. Let the dough rest for 5 minutes
 - <center><img src='/assets/Food/Bread/Keto Bread/bowl.jpg' alt='' class='instruction-image'></center>

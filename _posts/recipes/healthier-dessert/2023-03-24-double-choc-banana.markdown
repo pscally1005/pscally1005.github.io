@@ -76,7 +76,7 @@ Instructions:
 - Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty and wet, and the internal temperature will be around 205F
 - <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-baked.jpg' alt='' class='instruction-image'></center>
 
-- Alternatively, you can bake these as either mini muffins (makes 40) or standard size muffins (makes 12).  Bake at 350F until the internal temperature is around 205F, and a toothpick comes out almost clean, but not totally.  About 12 minutes for the mini muffins or about 22 minutes for the standard size
+- Alternatively, you can bake these as either mini muffins (makes 36) or standard size muffins (makes 12).  Bake at 350F until the internal temperature is around 205F, and a toothpick comes out almost clean, but not totally.  About 12 minutes for the mini muffins or about 22 minutes for the standard size
 
 - Let cool completely in the fridge for about an hour, then slice
 ---

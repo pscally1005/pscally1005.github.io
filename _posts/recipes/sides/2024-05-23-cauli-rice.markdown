@@ -47,7 +47,7 @@ tags:
 - riced cauliflower
 - side
 - sautee
-Description: <a href='/misc/veggies#cauliflower'>Cauliflower</a> <a href='/misc/grains#white-rice'>rice</a> is a super easy and quick low <a href='/misc/carbs'>carb</a> side that is very versatile.  Like <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/veggies#cauliflower'>cauliflower</a> is bland, meaning it will taste like whatever you put on it.  I went for a little garlic and allspice here, and garnished with some parsley for a delicious side in just 10 minutes.  For some dishes with <a href='/misc/veggies#cauliflower'>cauliflower</a> <a href='/misc/grains#brown-rice'>rice</a>, check out my <a href='/recipes/cheese-cauliflower-rice-and-beans'>"Cheesy" Cauliflower Rice & Beans</a> and <a href='/recipes/lebanese-casserole'>Lebanese Riced Cauliflower Casserole</a>
+Description: <a href='/misc/veggies#cauliflower'>Cauliflower</a> <a href='/misc/grains#white-rice'>rice</a> is a super easy and quick low <a href='/misc/carbs'>carb</a> side that is very versatile.  Like <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/veggies#cauliflower'>cauliflower</a> is bland, meaning it will taste like whatever you put on it.  I went for a little garlic and allspice here, and garnished with some parsley for a delicious side in just 10 minutes.  For some dishes with <a href='/misc/veggies#cauliflower'>cauliflower</a> <a href='/misc/grains#brown-rice'>rice</a>, check out my <a href='/recipes/cheesy-cauliflower-rice-and-beans'>"Cheesy" Cauliflower Rice & Beans</a> and <a href='/recipes/lebanese-casserole'>Lebanese Riced Cauliflower Casserole</a>
 Instructions:
 - Preheat a large pan over medium heat with EVOO
 
