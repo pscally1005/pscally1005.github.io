@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Pureed Roasted Veggie Soup
-date:   2025-11-22 00:00:00 -0500
+date:   2025-12-09 00:00:00 -0500
 categories:
 - Recipes
 - Sides

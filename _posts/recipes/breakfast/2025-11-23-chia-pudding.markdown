@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Chia Pudding Base Recipe
-date:   2025-10-27 00:00:00 -0500
+date:   2025-11-23 00:00:00 -0500
 categories:
 - Recipes
 - Breakfast
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
