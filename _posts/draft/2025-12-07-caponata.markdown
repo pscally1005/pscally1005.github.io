@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Heavily Modified Sicilian Caponata
-date:   2025-12-07 00:00:00 -0500
+date:   2025-11-07 00:00:00 -0500
 categories:
 - Recipes
 - Sides

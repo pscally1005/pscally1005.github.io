@@ -5,7 +5,6 @@ date:   2025-11-25 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

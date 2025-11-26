@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Junior Mint or Mounds Candy Bark
-date:   2025-12-25 00:00:00 -0500
+date:   2025-11-25 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
