@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Keto Bread Loaf Recipe
-date:   2025-10-28 00:00:00 -0500
+date:   2025-11-28 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
