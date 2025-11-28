@@ -304,6 +304,17 @@ def grams(food, mass, vol):
         elif vol == "5 cup":
             m = "1200"
 
+    # Powdered sugar & monk fruit
+    elif food == "Powdered monk fruit" or food == "Powdered sugar":
+        if vol == "1 tbsp":
+            m = "8"
+        elif vol == "2 tbsp":
+            m = "16"
+        elif vol == "3 tbsp":
+            m = "24"
+        elif vol == "4 tbsp":
+            m = "32"
+
 
     # Coconut oil
     elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil":
@@ -972,6 +983,15 @@ def grams(food, mass, vol):
             m = "350"
         elif vol == "8 large":
             m = "400"
+
+    # Egg whites
+    elif food == "Egg whites":
+        if vol == "1 large":
+            m = "33"
+        if vol == "2 large":
+            m = "66"
+        if vol == "3 large":
+            m = "99"
 
     # Apples
     elif food == "Apple, gala":
