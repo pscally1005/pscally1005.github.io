@@ -23,9 +23,9 @@ facts: porktenderloin-facts
 servingSize:
 section1: Meat
 start2: Sweet potato
-section2: Potatoes & Veggies
-start3:
-section3:
+section2: Potatoes
+start3: Frozen broccoli, thawed
+section3: Veggies
 start4:
 section4:
 start5:
@@ -50,7 +50,7 @@ tags:
 - broccoli
 - baked potato
 - vic
-Description: I've never been a big fan of <a href='/misc/meat#pork-tenderloin'>pork</a>, but I've been wanting to give it a try, and I found some on sale a few days ago. Pork tenderloin is a very lean but still juicy cut of meat, as long as you cook it properly. It's also fairly cheap too, this was only $2.69 for 1 lb. I've paired this with a side of <a href='/recipes/baked-sweet-potato'>Baked Sweet Potatoes</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>, but feel free to throw it together with whatever you have in your fridge
+Description: I've never been a big fan of <a href='/misc/meat#pork-tenderloin'>pork</a>, but I've been wanting to give it a try, and I found some on sale a few days ago. <a href='/misc/meat#pork-tenderloin'>Pork tenderloin</a> is a very lean but still juicy cut of <a href='/misc/meat'>meat</a>, as long as you cook it properly. It's also fairly cheap too, this was only $2.69 for 1 lb. I've paired this with a side of <a href='/recipes/baked-sweet-potato'>Baked Sweet Potatoes</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>, but feel free to throw it together with whatever you have in your fridge
 Instructions:
 - Trim any excess fat off the side of the meat, and cut into 4 pieces. Light season all sides with salt, pepper, and garlic
 
