@@ -25,6 +25,8 @@ def grams(food, mass, vol):
         m = "340"
     elif vol == "14 oz":
         m = "400"
+    elif vol == "14.5 oz" or vol == "14.5oz can":
+        m = "410"
     elif vol == "15 oz":
         m = "425"
     elif vol == "15.5oz can" or vol == "15.5 oz":
@@ -232,9 +234,8 @@ def grams(food, mass, vol):
         elif vol == "2 cup":
             m = "160"
 
-
     # Herbs
-    elif food == "Basil, dried" or food == "Oregano, dried" or food == "Thyme, dried" or food == "Parsley, dried" or food == "Red pepper flakes" or food == "Rosemary, dried" or food == "Italian seasoning":
+    elif food == "Basil, dried" or food == "Oregano, dried" or food == "Thyme, dried" or food == "Parsley, dried" or food == "Red pepper flakes" or food == "Rosemary, dried" or food == "Italian seasoning" or food == "Cilantro, dried" or food == "Chives, dried":
         if vol == "1/2 tsp":
             m = "0.5"
         elif vol == "1 tsp":
@@ -249,8 +250,18 @@ def grams(food, mass, vol):
             m = "6"
 
 
+    # Sauce
+    elif food == "Simple pasta sauce":
+        if vol == "1 serving":
+            m = "100"
+        elif vol == "1.2 serving":
+            m = "120"
+        elif vol == "2.4 serving":
+            m = "240"
+
+
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat":
         if vol == "1/4 tsp":
             m = "1.25"
         elif vol == "1/2 tsp":
@@ -354,7 +365,7 @@ def grams(food, mass, vol):
             m = "60"
 
     # Yogurt & cottage cheese
-    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free":
+    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese":
         if vol == "1 tbsp":
             m = "14"
         elif vol == "2 tbsp":
@@ -376,6 +387,20 @@ def grams(food, mass, vol):
         elif vol == "2 cup":
             m = "454"
 
+    # Cashew ricotta
+    elif food == "Dairy Free Cashew Ricotta Cheese":
+        if vol == "1 serving":
+            m = "56"
+        elif vol == "2 serving":
+            m = "112"
+        elif vol == "3 serving":
+            m = "168"
+        elif vol == "4 serving":
+            m = "224"
+        elif vol == "5 serving":
+            m = "280"
+        elif vol == "6 serving":
+            m = "336"
 
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese":

@@ -282,6 +282,10 @@ def ingredients(food):
         f = "Hemp hearts"
 
     # Dairy & Eggs
+    elif food == 'cashew-ricotta':
+        f = "Dairy Free Cashew Ricotta Cheese"
+    elif food == 'Cheese, Ricotta':
+        f = "Ricotta cheese"
     elif food == "labneh-skim":
         f = "Labneh cheese, skim"
     elif food == "Cheese, blue":
@@ -484,7 +488,7 @@ def ingredients(food):
         f = "Sardines, in water"
     elif food == "No salt added diced tomatoes by VINE RIPE":
         f = "Diced tomatoes, unsalted"
-    elif food == "Diced green chiles by Raley's" or food == "Diced green chiles by HATCH" or food == "Diced green chile by Iga, Inc." or food == "Diced green chilies by SPARTAN" or food == "Diced green chilies by ELRIO":
+    elif food == "Peppers, canned, green, chili" or food == "Diced green chiles by Raley's" or food == "Diced green chiles by HATCH" or food == "Diced green chile by Iga, Inc." or food == "Diced green chilies by SPARTAN" or food == "Diced green chilies by ELRIO":
         f = "Diced green chiles"
     elif food == "Chipotle peppers in adobo sauce by Goya Foods, Inc.":
         f = "Chipotle peppers in adobo sauce"

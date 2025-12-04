@@ -5,7 +5,7 @@ date:   2024-05-02 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Delete
+- Archive
 showPercentage: no
 hummus: no
 oatmeal: no
