@@ -386,6 +386,10 @@ def grams(food, mass, vol):
             m = "396"
         elif vol == "2 cup":
             m = "454"
+        elif vol == "3 cup":
+            m = "681"
+        elif vol == "4 cup":
+            m = "908"
 
     # Cashew ricotta
     elif food == "Dairy Free Cashew Ricotta Cheese":
@@ -420,6 +424,10 @@ def grams(food, mass, vol):
             m = "180"
         elif vol == "2 cup":
             m = "240"
+        elif vol == "2.5 cup":
+            m = "300"
+        elif vol == "3 cup":
+            m = "360"
 
 
     # Protein powder

@@ -10,6 +10,7 @@
 {% assign netCarbNum = include.netCarb %}
 {% assign sugarAlcoholNum = include.sugAlc %}
 {% assign alluloseNum = include.all %}
+{% assign lactoseNum = include.lactose %}
 {% assign glutenNum = include.gluten %}
 {% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 | append: '&nbsp;%' %}
 
@@ -72,7 +73,7 @@
 
                     {% assign row = site.data[facts] | where: "Nutrient", nutrient_entry.key | first %}
 
-                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" %}
+                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" or nutrient_entry.key == "Lactose" %}
 
                         {% assign display_name = nutrient_entry.display | default: nutrient_entry.key %}
 
@@ -99,9 +100,13 @@
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td></td>';
                             {% elsif nutrient_entry.key == "Allulose" %}
-                                tableContent += '<td>{{ allNum | round: 2 }}</td>';
+                                tableContent += '<td>{{ alluloseNum | round: 2 }}</td>';
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td></td>';
+                            {% elsif nutrient_entry.key == "Lactose" %}
+                                tableContent += '<td>{{ lactoseNum | round: 2 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>'
                             {% elsif nutrient_entry.key == "Gluten" %}
                                 tableContent += '<td>{{ glutenNum | round: 2 }}</td>';
                                 tableContent += '<td>g</td>';

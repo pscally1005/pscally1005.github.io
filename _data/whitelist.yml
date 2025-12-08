@@ -58,6 +58,8 @@ sections:
         indent: true
       - key: Allulose
         indent: true
+      - key: Lactose
+        indent: true
   - name: Fats
     nutrients:
       - key: Fat
