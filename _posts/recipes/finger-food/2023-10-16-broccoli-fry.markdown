@@ -61,5 +61,5 @@ Instructions:
 - Once frozen solid, remove from the pan and cut into pieces.  Transfer the bites to a bag and store them in the freezer
 - <center><img src='/assets/Food/Finger Food/Vegetable/vegetable-chip-4.jpg' alt='' class='instruction-image'></center>
 
-- To reheat - Preheat your air fryer to 400°F. Place the frozen broccoli bites into the air fryer. (Spray with oil if you wish). Air fry for 16 minutes, flipping half way. Cooking times may vary depending on thickness, just keep an eye on them.
+- To cook - Preheat your air fryer to 400°F. Place the frozen broccoli bites into the air fryer. (Spray with oil if you wish). Air fry for 16 minutes, flipping half way. Cooking times may vary depending on thickness, just keep an eye on them.
 ---
