@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Pureed Roasted Veggie Soup
-date:   2025-11-10 00:00:00 -0500
+date:   2025-12-10 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
