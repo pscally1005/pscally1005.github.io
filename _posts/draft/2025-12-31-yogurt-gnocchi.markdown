@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Greek Yogurt Whole Wheat Gnocchi
-date:   2025-11-26 00:00:00 -0500
+date:   2025-10-31 00:00:00 -0500
 categories:
 - Recipes
 - Sides
