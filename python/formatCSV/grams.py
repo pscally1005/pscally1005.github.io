@@ -132,7 +132,6 @@ def grams(food, mass, vol):
         elif vol == "3 tsp" or vol == "1 tbsp":
             m = "12"
 
-
     # Extracts and sweeteners
     elif food == "Liquid monk fruit" or food == "Liquid stevia" or food == "Liquid stevia or monk fruit" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Butter extract" or food == "Maple extract" or food == "Rum extract" or food == "Almond extract, or vanilla" or food == "Vanilla extract, or almond":
         if vol == "1/4 tsp":
@@ -147,6 +146,10 @@ def grams(food, mass, vol):
             m = "7.5"
         elif vol == "2 tsp":
             m = "10"
+        elif vol == "3 tsp" or vol == "1 tbsp":
+            m = "15"
+        elif vol == "4.5 tsp" or vol == "1.5 tbsp":
+            m = "22.5"
 
 
     # Denser spices
@@ -328,7 +331,7 @@ def grams(food, mass, vol):
 
 
     # Coconut oil
-    elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil":
+    elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Unsalted butter" or food == "Salted butter":
         if vol == "1/2 tsp":
             m = "2.5"
         elif vol == "1 tsp":
@@ -424,6 +427,8 @@ def grams(food, mass, vol):
             m = "180"
         elif vol == "2 cup":
             m = "240"
+        elif vol == "2.33 cup":
+            m = "280"
         elif vol == "2.5 cup":
             m = "300"
         elif vol == "3 cup":
@@ -1139,6 +1144,8 @@ def grams(food, mass, vol):
             m = "188"
         elif vol == "1 cup" or vol == "16 tbsp":
             m = "200"
+        elif vol == "1.25 cup":
+            m = "250"
 
     # Popcorn
     elif food == "Popcorn kernels":

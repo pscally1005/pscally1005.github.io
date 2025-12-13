@@ -16,7 +16,7 @@ soup_stew: no
 salad: no
 dressing: no
 brownie: no
-cookie: yes
+cookie: no
 permalink: /recipes/greek-yogurt-gnocchi
 image: /assets/Food/Sides/Yogurt Gnocchi/cover-1.jpg
 ing: yogurtgnocchiww-ing

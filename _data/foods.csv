@@ -328,7 +328,7 @@ Salted butter,butter,3.78,454.00,0.00833,0,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0
 Chicken fat,chicken-fat,3.78,454.00,0.00833,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/misc/slow-cooker-chicken
 All purpose flour,white-wheat,4.57,"4,540.00",0.00101,75,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,
 Salsa,salsa,1.98,454.00,0.00436,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/salsa
-Duncan Hines Keto Brownie Mix,duncan-hines-keto,5.92,280.00,0.02114,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,20.8,0.0,,0,https://amzn.to/43uSbYP
+Duncan Hines Keto Brownie Mix,duncan-hines-keto,5.92,280.00,0.02114,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,20.8,0.0,0.0,0,https://amzn.to/43uSbYP
 Skim milk,skim-milk,2.69,"3,904.00",0.00069,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.9,0,
 Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://www.walmart.com/ip/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz/43984342?classType=REGULAR&athbdg=L1600&from=/search
 Ricotta cheese,ricotta,1.35,480.00,0.00280,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.6,0,
@@ -433,3 +433,5 @@ Gluten Free Oat Wraps,oatwraps,0.55,225.00,0.00244,40,TRUE,TRUE,TRUE,TRUE,TRUE,T
 Inulin,inulin,49.99,"1,816.00",0.02753,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/47w8h7R
 "Labneh cheese, skim",labneh-skim,3.69,720.00,0.00513,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,/misc/homemade-cheese#labneh
 Dairy Free Cashew Ricotta Cheese,cashew-ricotta,2.80,336.00,0.00833,21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/cashew-ricotta-cheese
+Cream cheese,cream-cheese,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.6,0,
+"Cream cheese, 1/3 less fat",cream-cheese-low-fat,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,6.0,0,
