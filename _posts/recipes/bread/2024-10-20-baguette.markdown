@@ -20,10 +20,10 @@ permalink: /recipes/whole-wheat-baguettes
 image: /assets/Food/Bread/Baguette/bruschetta-portrait.jpg
 ing: baguette-ing
 facts: baguette-facts
-servingSize: 1 slice
-section1: Wet Ingredients
-start2: Whole wheat flour
-section2: Dry Ingredients
+servingSize: 1 loaf
+section1:
+start2:
+section2:
 start3:
 section3:
 start4:
