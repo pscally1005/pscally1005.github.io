@@ -65,7 +65,7 @@ Instructions:
 - Turn the dough onto a clean counter, and knead for about 10 minutes, until you have smooth and cohesive bread dough that's stretchy and doesn't tear
 - <center><img src='/assets/Food/Bread/Keto Bread/counter.jpg' alt='' class='instruction-image'></center>
 
-- Lightly grease a 9x5" bread pan, and add in your dough. Cover with a clean towel, and let proof at room temperature for 2 hours.  Below is the before and after pictures
+- Lightly grease a 9x5" bread pan, and add in your dough. Cover with a clean towel, and let proof at room temperature for 2 hours.  Below are the before and after pictures
 - <center><img src='/assets/Food/Bread/Keto Bread/pre-rise.jpg' alt='' class='instruction-image'></center>
 - <center><img src='/assets/Food/Bread/Keto Bread/post-rise.jpg' alt='' class='instruction-image'></center>
 

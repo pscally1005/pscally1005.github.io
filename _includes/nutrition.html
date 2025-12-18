@@ -38,6 +38,7 @@
             | append: "Added Sugar,"
             | append: "Sugar Alcohol,"
             | append: "Allulose,"
+            | append: "Lactose,"
             | append: "Protein,"
             | append: "Gluten,"
             | append: "Vitamin B12,"
@@ -107,6 +108,7 @@
 
         {% assign sugAlc = "" %}
         {% assign all = "" %}
+        {% assign lactose = "" %}
 
         {% assign prot = "" %}
         {% assign gluten = "" %}
@@ -347,7 +349,7 @@
             {% endfor %}
         {% endfor %}
 
-        <!-- Calculate added sugar, sugar alcohols, allulose, and gluten -->
+        <!-- Calculate added sugar, sugar alcohols, allulose, gluten, and lactose -->
         {% assign servings = 1 | times: 1 %}
         {% for row in loopVarIng %}
             {% if forloop.last %}
@@ -359,7 +361,7 @@
             {% assign mass = row["Amount"] | times: 1.0 %}
 
             {% for row in site.data.foods %}
-                <!-- Added sugar, sugar alcohol, allulose, and gluten per ingredient -->
+                <!-- Added sugar, sugar alcohol, allulose, gluten, and lactose per ingredient -->
                 {% if row["Food"] == food %}
                     {% assign itemAddedSugar = row["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign addedSugar = addedSugar | plus: itemAddedSugar %}
@@ -369,6 +371,9 @@
 
                     {% assign itemAllulose = row["Allulose per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign all = all | plus: itemAllulose %}
+
+                    {% assign itemLactose = row["Lactose per 100 g"] | times: mass | divided_by: 100 %}
+                    {% assign lactose = lactose | plus: itemLactose %}
 
                     {% assign unit_protein = 0.0 %}
                     {% assign fileName = row["File"] | append: "-facts" %}
@@ -401,6 +406,7 @@
         {% assign sugAlc = sugAlc | divided_by: servings %}
         {% assign all = all | divided_by: servings %}
         {% assign gluten = gluten | divided_by: servings %}
+        {% assign lactose = lactose | divided_by: servings %}
 
         <!-- Print nutrition facts -->
         <div class='recipe-section'>
@@ -476,14 +482,15 @@
                         &emsp;<b><a href="/misc/carbs">Total Sugar</a></b>: {{ sug }}<br>
                     {% endif %}
 
-                    <!-- Added sugar, sugar alcohols, allulose, and gluten -->
+                    <!-- Added sugar, sugar alcohols, allulose, gluten, and lactose -->
                     {% assign addedSugarNum = addedSugar | plus: 0 %}
                     {% assign totalSugarNum = totalSugar | plus: 0 %}
                     {% assign sugAlcNum = sugAlc | plus: 0 %}
                     {% assign allNum = all | plus: 0 %}
                     {% assign glutenNum = gluten | plus: 0 %}
+                    {% assign lactoseNum = lactose | plus: 0 %}
 
-                    <!-- Added sugar, sugar alcohols, allulose -->
+                    <!-- Added sugar, sugar alcohols, allulose, lactose -->
                     {% if addedSugarNum != 0 and totalSugarNum != 0 %}
                         {% if addedSugarNum > totalSugarNum %}
                             {% assign addedSugarNum = totalSugarNum %}
@@ -491,6 +498,11 @@
                         {% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 %}
                         {% assign addedSugarStr = addedSugarNum | round: 1 | append: 'g (' | append: addedSugarPercentage | append: ' %)' %}
                         &emsp;&emsp;<b><a href="/misc/hidden-sugar">Added Sugar</a></b>: {{ addedSugarStr }}<br>
+                    {% endif %}
+
+                    {% if lactoseNum != 0 %}
+                        {% assign lactoseStr = lactoseNum | round: 1 | append: 'g' %}
+                        <!-- &emsp;&emsp;<b><a href="/misc/dairy">Lactose</a></b>: {{ lactoseStr }}<br> -->
                     {% endif %}
 
                     {% if sugAlcNum != 0 %}
@@ -631,7 +643,7 @@
             {% if recipe == "true" %}
                 {% include glycemic.html ing=include.ing %}
                 <br>
-                {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all gluten=gluten %}
+                {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all lactose=lactose gluten=gluten %}
             {% endif %}
         </div>
 
