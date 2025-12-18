@@ -25,11 +25,11 @@ def grams(food, mass, vol):
         m = "340"
     elif vol == "14 oz":
         m = "400"
-    elif vol == "14.5 oz" or vol == "14.5oz can":
+    elif vol == "14.5 oz" or vol == "14.5oz can" or vol == "14.5 oz can":
         m = "410"
     elif vol == "15 oz":
         m = "425"
-    elif vol == "15.5oz can" or vol == "15.5 oz":
+    elif vol == "15.5oz can" or vol == "15.5 oz" or vol == "15.5 oz can":
         m = "440"
     elif vol == "16 oz" or vol == "1 lb":
         m = "454"
@@ -60,9 +60,9 @@ def grams(food, mass, vol):
             m = "4.5"
         elif vol == "1 tsp":
             m = "6"
-        elif vol == "1.25 tsp":
+        elif vol == "1.25 tsp" or vol == "1 1/4 tsp":
             m = "8"
-        elif vol == "1/2 tbsp" or vol == "1.5 tsp":
+        elif vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "9"
         elif vol == "2 tsp":
             m = "12"
@@ -125,7 +125,7 @@ def grams(food, mass, vol):
             m = "2"
         elif vol == "1 tsp":
             m = "4"
-        elif vol == "1.5 tsp" or vol == "1/2 tbsp":
+        elif vol == "1.5 tsp" or vol == "1/2 tbsp" or vol == "1 1/2 tsp":
             m = "6"
         elif vol == "2 tsp":
             m = "8"
@@ -142,13 +142,13 @@ def grams(food, mass, vol):
             m = "3.75"
         elif vol == "1 tsp":
             m = "5"
-        elif vol == "1/2 tbsp" or vol == "1.5 tsp":
+        elif vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "7.5"
         elif vol == "2 tsp":
             m = "10"
         elif vol == "3 tsp" or vol == "1 tbsp":
             m = "15"
-        elif vol == "4.5 tsp" or vol == "1.5 tbsp":
+        elif vol == "4.5 tsp" or vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "22.5"
 
 
@@ -162,7 +162,7 @@ def grams(food, mass, vol):
             m = "1.5"
         elif vol == "1 tsp":
             m = "3"
-        elif vol == "1/2 tbsp" or vol == "1.5 tsp":
+        elif vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "4.5"
         elif vol == "2 tsp":
             m = "6"
@@ -182,7 +182,7 @@ def grams(food, mass, vol):
             m = "1"
         elif vol == "1 tsp":
             m = "2"
-        elif vol == "1/2 tbsp" or vol == "1.5 tsp":
+        elif vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "3"
         elif vol == "2 tsp":
             m = "4"
@@ -194,7 +194,7 @@ def grams(food, mass, vol):
 
     # Nutritional yeast, cocoa, coconut flakes, psyllium
     elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Unsweetened coconut flakes" or food == "Psyllium husks, whole":
-        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "2.5"
         elif vol == "1 tbsp":
             m = "5"
@@ -216,7 +216,7 @@ def grams(food, mass, vol):
             m = "40"
         elif vol == "9 tbsp":
             m = "45"
-        elif vol == "10 tbsp" or vol == "1/2cup + 2tbsp":
+        elif vol == "10 tbsp" or vol == "1/2cup + 2tbsp" or vol == "1/2 cup + 2 tbsp":
             m = "50"
         elif vol == "2/3 cup":
             m = "53"
@@ -232,7 +232,7 @@ def grams(food, mass, vol):
             m = "75"
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "80"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "120"
         elif vol == "2 cup":
             m = "160"
@@ -243,7 +243,7 @@ def grams(food, mass, vol):
             m = "0.5"
         elif vol == "1 tsp":
             m = "1"
-        elif vol == "1/2 tbsp" or vol == "1.5 tsp":
+        elif vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "1.5"
         elif vol == "2 tsp":
             m = "2"
@@ -299,15 +299,15 @@ def grams(food, mass, vol):
             m = "180"
         elif vol == "1 cup":
             m = "240"
-        elif vol == "1.25 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
             m = "300"
-        elif vol == "1.33 cup":
+        elif vol == "1.33 cup" or vol == "1 1/3 cup":
             m = "320"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "360"
-        elif vol == "1.67 cup":
+        elif vol == "1.67 cup" or vol == "1 2/3 cup":
             m = "400"
-        elif vol == "1.75 cup":
+        elif vol == "1.75 cup" or vol == "1 3/4 cup":
             m = "420"
         elif vol == "2 cup":
             m = "480"
@@ -381,11 +381,11 @@ def grams(food, mass, vol):
             m = "170"
         elif vol == "1 cup":
             m = "226"
-        elif vol == "1.25 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
             m = "283"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "340"
-        elif vol == "1.75 cup":
+        elif vol == "1.75 cup" or vol == "1 3/4 cup":
             m = "396"
         elif vol == "2 cup":
             m = "454"
@@ -423,13 +423,13 @@ def grams(food, mass, vol):
             m = "90"
         elif vol == "1 cup":
             m = "120"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "180"
         elif vol == "2 cup":
             m = "240"
-        elif vol == "2.33 cup":
+        elif vol == "2.33 cup" or vol == "2 1/3 cup":
             m = "280"
-        elif vol == "2.5 cup":
+        elif vol == "2.5 cup" or vol == "2 1/2 cup":
             m = "300"
         elif vol == "3 cup":
             m = "360"
@@ -445,13 +445,13 @@ def grams(food, mass, vol):
             m = "20"
         elif vol == "1 scoop":
             m = "30"
-        elif vol == "1.33 scoop":
+        elif vol == "1.33 scoop" or vol == "1 1/3 scoop":
             m = "40"
-        elif vol == "1.5 scoop":
+        elif vol == "1.5 scoop" or vol == "1 1/2 scoop":
             m = "45"
         elif vol == "2 scoop":
             m = "60"
-        elif vol == "2.5 scoop":
+        elif vol == "2.5 scoop" or vol == "2 1/2 scoop":
             m = "75"
         elif vol == "3 scoop":
             m = "90"
@@ -465,11 +465,11 @@ def grams(food, mass, vol):
             m = "8"
         elif vol == "1 tbsp":
             m = "16"
-        elif vol == "1.5 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "24"
         elif vol == "2 tbsp":
             m = "32"
-        elif vol == "2.5 tbsp":
+        elif vol == "2.5 tbsp" or vol == "2 1/2 tbsp":
             m = "40"
         elif vol == "3 tbsp":
             m = "48"
@@ -493,7 +493,7 @@ def grams(food, mass, vol):
             m = "10"
         elif vol == "1 tbsp" or vol == "1 serving":
             m = "20"
-        elif vol == "1.5 tbsp" or vol == "1.5 serving":
+        elif vol == "1.5 tbsp" or vol == "1.5 serving" or vol == "1 1/2 tbsp":
             m = "30"
         elif vol == "2 tbsp" or vol == "2 serving":
             m = "40"
@@ -537,7 +537,7 @@ def grams(food, mass, vol):
             m = "10.5"
         elif vol == "1 tbsp":
             m = "21"
-        elif vol == "1.5 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "31.5"
         elif vol == "2 tbsp":
             m = "42"
@@ -641,11 +641,11 @@ def grams(food, mass, vol):
 
     # Powdered pb
     elif food == "Powdered peanut butter":
-        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "3"
         elif vol == "1 tbsp":
             m = "6"
-        elif vol == "1.5 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "9"
         elif vol == "2 tbsp":
             m = "12"
@@ -689,7 +689,7 @@ def grams(food, mass, vol):
             m = "6"
         elif vol == "1 tbsp":
             m = "12"
-        elif vol == "1.5 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "18"
         elif vol == "2 tbsp":
             m = "24"
@@ -733,7 +733,7 @@ def grams(food, mass, vol):
             m = "3"
         elif vol == "1 tbsp":
             m = "6"
-        elif vol == "1.5 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "9"
         elif vol == "2 tbsp":
             m = "11"
@@ -751,7 +751,7 @@ def grams(food, mass, vol):
             m = "39"
         elif vol == "8 tbsp" or vol == "1/2 cup":
             m = "45"
-        elif vol == "9 tbsp" or vol == "1/2cup + 1tbsp":
+        elif vol == "9 tbsp" or vol == "1/2cup + 1tbsp" or vol == "1/2 cup + 1 tbsp":
             m = "51"
         elif vol == "10 tbsp":
             m = "56"
@@ -769,23 +769,23 @@ def grams(food, mass, vol):
             m = "84"
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "90"
-        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup":
+        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup" or vol == "1 heaping cup" or vol == "1 Heaping cup":
             m = "96"
         elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
             m = "101"
-        elif vol == "1.25 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
             m = "113"
-        elif vol == "1.33 cup":
+        elif vol == "1.33 cup" or vol == "1 1/3 cup":
             m = "120"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "135"
-        elif vol == "1.67 cup" or vol == "1.66 cup":
+        elif vol == "1.67 cup" or vol == "1.66 cup" or vol == "1 2/3 cup":
             m = "150"
-        elif vol == "1.75 cup":
+        elif vol == "1.75 cup" or vol == "1 3/4 cup":
             m = "158"
         elif vol == "2 cup":
             m = "180"
-        elif vol == "2.5 cup":
+        elif vol == "2.5 cup" or vol == "2 1/2 cup":
             m = "225"
         elif vol == "3 cup":
             m = "270"
@@ -793,11 +793,11 @@ def grams(food, mass, vol):
 
     # Almond flour
     elif food == "Almond flour" or food == "Almond flour, or oat flour" or food == "Almond flour, or oat" or food == "Almond flour (or whole nuts)":
-        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "3.5"
         elif vol == "1 tbsp":
             m = "7"
-        elif vol == "1.5 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "10.5"
         elif vol == "2 tbsp":
             m = "14"
@@ -833,23 +833,23 @@ def grams(food, mass, vol):
             m = "105"
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "112"
-        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup":
+        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup" or vol == "1 heaping cup" or vol == "1 Heaping cup":
             m = "119"
         elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
             m = "126"
-        elif vol == "1.25 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
             m = "140"
-        elif vol == "1.33 cup":
+        elif vol == "1.33 cup" or vol == "1 1/3 cup":
             m = "149"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "168"
-        elif vol == "1.67 cup" or vol == "1.66 cup":
+        elif vol == "1.67 cup" or vol == "1.66 cup" or vol == "1 2/3 cup":
             m = "187"
-        elif vol == "1.75 cup":
+        elif vol == "1.75 cup" or vol == "1 3/4 cup":
             m = "196"
         elif vol == "2 cup":
             m = "224"
-        elif vol == "2.5 cup":
+        elif vol == "2.5 cup" or vol == "2 1/2 cup":
             m = "280"
         elif vol == "3 cup":
             m = "336"
@@ -857,11 +857,11 @@ def grams(food, mass, vol):
 
     # Oats
     elif food == "Rolled oats" or food == "Quick oats" or food == "Rolled oats, or quick oats" or food == "Rolled oats, or quick" or food == "Quick oats, or rolled oats" or food == "Quick oats, or rolled" or food == "Quick oats, or oat flour" or food == "Rolled oats, or oat flour":
-        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "2.5"
         elif vol == "1 tbsp":
             m = "5"
-        elif vol == "1.5 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "7.5"
         elif vol == "2 tbsp":
             m = "10"
@@ -897,23 +897,23 @@ def grams(food, mass, vol):
             m = "75"
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "80"
-        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup":
+        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup" or vol == "1 heaping cup" or vol == "1 Heaping cup":
             m = "85"
         elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
             m = "90"
-        elif vol == "1.25 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
             m = "100"
-        elif vol == "1.33 cup":
+        elif vol == "1.33 cup" or vol == "1 1/3 cup":
             m = "107"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "120"
-        elif vol == "1.67 cup" or vol == "1.66 cup":
+        elif vol == "1.67 cup" or vol == "1.66 cup" or vol == "1 2/3 cup":
             m = "133"
-        elif vol == "1.75 cup":
+        elif vol == "1.75 cup" or vol == "1 3/4 cup":
             m = "140"
         elif vol == "2 cup":
             m = "160"
-        elif vol == "2.5 cup":
+        elif vol == "2.5 cup" or vol == "2 1/2 cup":
             m = "200"
         elif vol == "3 cup":
             m = "240"
@@ -921,11 +921,11 @@ def grams(food, mass, vol):
 
     # Ground Flaxseed
     elif food == "Ground flaxseed":
-        if vol == "1/2 tbsp" or vol == "1.5 tsp":
+        if vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tbsp":
             m = "3.25"
         elif vol == "1 tbsp":
             m = "6.5"
-        elif vol == "1.5 tbsp":
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "9.75"
         elif vol == "2 tbsp":
             m = "13"
@@ -961,23 +961,23 @@ def grams(food, mass, vol):
             m = "98"
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "104"
-        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup":
+        elif vol == "17 tbsp" or vol == "1cup + 1tbsp" or vol == "1 cup + 1 tbsp" or vol == "Heaping cup" or vol == "1 heaping cup" or vol == "1 Heaping cup":
             m = "111"
         elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
             m = "117"
-        elif vol == "1.25 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
             m = "130"
-        elif vol == "1.33 cup":
+        elif vol == "1.33 cup" or vol == "1 1/3 cup":
             m = "138"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "156"
-        elif vol == "1.67 cup" or vol == "1.66 cup":
+        elif vol == "1.67 cup" or vol == "1.66 cup" or vol == "1 2/3 cup":
             m = "174"
-        elif vol == "1.75 cup":
+        elif vol == "1.75 cup" or vol == "1 3/4 cup":
             m = "182"
         elif vol == "2 cup":
             m = "208"
-        elif vol == "2.5 cup":
+        elif vol == "2.5 cup" or vol == "2 1/2 cup":
             m = "260"
         elif vol == "3 cup":
             m = "312"
@@ -1064,15 +1064,15 @@ def grams(food, mass, vol):
             m = "180"
         elif vol == "1 cup":
             m = "240"
-        elif vol == "1.25 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
             m = "300"
-        elif vol == "1.33 cup":
+        elif vol == "1.33 cup" or vol == "1 1/3 cup":
             m = "320"
-        elif vol == "1.5 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "360"
-        elif vol == "1.67 cup":
+        elif vol == "1.67 cup" or vol == "1 2/3 cup":
             m = "400"
-        elif vol == "1.75 cup":
+        elif vol == "1.75 cup" or vol == "1 3/4 cup":
             m = "420"
         elif vol == "2 cup":
             m = "480"
@@ -1144,7 +1144,7 @@ def grams(food, mass, vol):
             m = "188"
         elif vol == "1 cup" or vol == "16 tbsp":
             m = "200"
-        elif vol == "1.25 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
             m = "250"
 
     # Popcorn

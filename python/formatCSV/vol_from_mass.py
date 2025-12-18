@@ -107,7 +107,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "20":
             v = "1 tbsp"
         elif mass == "30":
-            v = "1.5 tbsp"
+            v = "1 1/2 tbsp"
         elif mass == "40":
             v = "2 tbsp"
         elif mass == "60":
@@ -151,7 +151,7 @@ def vol_from_mass(food, mass, vol):
     # Diced green chiles
     elif food == "Diced green chiles":
         if mass == "113":
-            v = "4oz can"
+            v = "4 oz can"
 
     # Banana
     elif food == "Banana, overripe" or food == "Frozen banana" or food == "Banana, underripe" or food == "Frozen bananas, overripe" or food == "Frozen overripe bananas" or food == "Banana, overripe, or unsweetened applesauce":
@@ -193,7 +193,6 @@ def vol_from_mass(food, mass, vol):
         elif mass == "45":
             v = "3 tbsp"
         elif mass == "60":
-            # v = "4 tbsp"
             v = "1/4 cup"
         elif mass == "75":
             v = "5 tbsp"
@@ -212,15 +211,15 @@ def vol_from_mass(food, mass, vol):
         elif mass == "240":
             v = "1 cup"
         elif mass == "300":
-            v = "1.25 cup"
+            v = "1 1/4 cup"
         elif mass == "320":
-            v = "1.33 cup"
+            v = "1 1/3cup"
         elif mass == "360":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "400":
-            v = "1.67 cup"
+            v = "1 2/3 cup"
         elif mass == "420":
-            v = "1.75 cup"
+            v = "1 3/4 cup"
         elif mass == "480":
             v = "2 cup"
         elif mass == "720":
@@ -255,8 +254,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "45":
             v = "9 tbsp"
         elif mass == "50":
-            # v = "10 tbsp"
-            v = "1/2cup + 2tbsp"
+            v = "1/2 cup + 2 tbsp"
         elif mass == "53":
             v = "2/3 cup"
         elif mass == "55":
@@ -308,11 +306,11 @@ def vol_from_mass(food, mass, vol):
         elif mass == "112":
             v = "1 cup"
         elif mass == "168":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "224":
             v = "2 cup"
         elif mass == "280":
-            v = "2.5 cup"
+            v = "2 1/2 cup"
         elif mass == "336":
             v = "3 cup"
 
@@ -331,11 +329,11 @@ def vol_from_mass(food, mass, vol):
         elif mass == "226":
             v = "1 cup"
         elif mass == "283":
-            v = "1.25 cup"
+            v = "1 1/4 cup"
         elif mass == "340":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "396":
-            v = "1.75 cup"
+            v = "1 3/4 cup"
         elif mass == "454":
             v = "2 cup"
 
@@ -353,8 +351,10 @@ def vol_from_mass(food, mass, vol):
             v = "3/4 cup"
         elif mass == "120":
             v = "1 cup"
+        elif mass == "150":
+            v = "1 1/4 cup"
         elif mass == "180":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "240":
             v = "2 cup"
 
@@ -369,13 +369,13 @@ def vol_from_mass(food, mass, vol):
         elif mass == "30":
             v = "1 scoop"
         elif mass == "40":
-            v = "1.33 scoop"
+            v = "1 1/3 scoop"
         elif mass == "45":
-            v = "1.5 scoop"
+            v = "1 1/2 scoop"
         elif mass == "60":
             v = "2 scoop"
         elif mass == "75":
-            v = "2.5 scoop"
+            v = "2 1/2 scoop"
         elif mass == "90":
             v = "3 scoop"
         elif mass == "120":
@@ -394,7 +394,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "120" or mass == "128":
             v = "1 cup"
         elif mass == "180" or mass == "196":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "240" or mass == "256":
             v = "2 cup"
 
@@ -406,11 +406,11 @@ def vol_from_mass(food, mass, vol):
         elif mass == "16":
             v = "1 tbsp"
         elif mass == "24":
-            v = "1.5 tbsp"
+            v = "1 1/2 tbsp"
         elif mass == "32":
             v = "2 tbsp"
         elif mass == "40":
-            v = "2.5 tbsp"
+            v = "2 1/2 tbsp"
         elif mass == "48":
             v = "3 tbsp"
         elif mass == "64":
@@ -493,7 +493,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "6":
             v = "1 tbsp"
         elif mass == "9":
-            v = "1.5 tbsp"
+            v = "1 1/2 tbsp"
         elif mass == "12":
             v = "2 tbsp"
         elif mass == "18":
@@ -536,7 +536,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "12":
             v = "1 tbsp"
         elif mass == "18":
-            v = "1.5 tbsp"
+            v = "1 1/2 tbsp"
         elif mass == "24":
             v = "2 tbsp"
         elif mass == "36":
@@ -579,7 +579,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "6":
             v = "1 tbsp"
         elif mass == "9":
-            v = "1.5 tbsp"
+            v = "1 1/2 tbsp"
         elif mass == "11":
             v = "2 tbsp"
         elif mass == "17":
@@ -597,7 +597,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "45":
             v = "1/2 cup"
         elif mass == "51":
-            v = "1/2cup + 1tbsp"
+            v = "1/2 cup + 1 tbsp"
         elif mass == "56":
             v = "10 tbsp"
         elif mass == "60":
@@ -615,23 +615,23 @@ def vol_from_mass(food, mass, vol):
         elif mass == "90":
             v = "1 cup"
         elif mass == "96":
-            v = "1cup + 1tbsp"
+            v = "1 cup + 1 tbsp"
         elif mass == "101":
-            v = "1cup + 2tbsp"
+            v = "1 cup + 2 tbsp"
         elif mass == "113":
-            v = "1.25 cup"
+            v = "1 1/4 cup"
         elif mass == "120":
-            v = "1.33 cup"
+            v = "1 1/3 cup"
         elif mass == "135":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "150":
-            v = "1.67 cup"
+            v = "1 2/3 cup"
         elif mass == "158":
-            v = "1.75 cup"
+            v = "1 3/4 cup"
         elif mass == "180":
             v = "2 cup"
         elif mass == "225":
-            v = "2.5 cup"
+            v = "2 1/2 cup"
         elif mass == "270":
             v = "3 cup"
 
@@ -642,7 +642,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "7":
             v = "1 tbsp"
         elif mass == "10.5":
-            v = "1.5 tbsp"
+            v = "1 1/2 tbsp"
         elif mass == "14":
             v = "2 tbsp"
         elif mass == "21":
@@ -678,23 +678,23 @@ def vol_from_mass(food, mass, vol):
         elif mass == "112":
             v = "1 cup"
         elif mass == "119":
-            v = "1cup + 1tbsp"
+            v = "1 cup + 1 tbsp"
         elif mass == "126":
-            v = "1cup + 2tbsp"
+            v = "1 cup + 2 tbsp"
         elif mass == "140":
-            v = "1.25 cup"
+            v = "1 1/4 cup"
         elif mass == "149":
-            v = "1.33 cup"
+            v = "1 1/3 cup"
         elif mass == "168":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "187":
-            v = "1.67 cup"
+            v = "1 2/3 cup"
         elif mass == "196":
-            v = "1.75 cup"
+            v = "1 3/4 cup"
         elif mass == "224":
             v = "2 cup"
         elif mass == "280":
-            v = "2.5 cup"
+            v = "2 1/2 cup"
         elif mass == "336":
             v = "3 cup"
 
@@ -705,7 +705,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "5":
             v = "1 tbsp"
         elif mass == "7.5":
-            v = "1.5 tbsp"
+            v = "1 1/2 tbsp"
         elif mass == "10":
             v = "2 tbsp"
         elif mass == "15":
@@ -741,23 +741,23 @@ def vol_from_mass(food, mass, vol):
         elif mass == "80":
             v = "1 cup"
         elif mass == "85":
-            v = "1cup + 1tbsp"
+            v = "1 cup + 1 tbsp"
         elif mass == "90":
-            v = "1cup + 2tbsp"
+            v = "1 cup + 2 tbsp"
         elif mass == "100":
-            v = "1.25 cup"
+            v = "1 1/4 cup"
         elif mass == "107":
-            v = "1.33 cup"
+            v = "1 1/3 cup"
         elif mass == "120":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "133":
-            v = "1.67 cup"
+            v = "1 2/3 cup"
         elif mass == "140":
-            v = "1.75 cup"
+            v = "1 3/4 cup"
         elif mass == "160":
             v = "2 cup"
         elif mass == "200":
-            v = "2.5 cup"
+            v = "2 1/2 cup"
         elif mass == "240":
             v = "3 cup"
 
@@ -768,7 +768,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "6.5":
             v = "1 tbsp"
         elif mass == "9.75":
-            v = "1.5 tbsp"
+            v = "1 1/2 tbsp"
         elif mass == "13":
             v = "2 tbsp"
         elif mass == "20":
@@ -804,23 +804,23 @@ def vol_from_mass(food, mass, vol):
         elif mass == "104":
             v = "1 cup"
         elif mass == "111":
-            v = "1cup + 1tbsp"
+            v = "1 cup + 1 tbsp"
         elif mass == "117":
-            v = "1cup + 2tbsp"
+            v = "1 cup + 2 tbsp"
         elif mass == "130":
-            v = "1.25 cup"
+            v = "1 1/4 cup"
         elif mass == "138":
-            v = "1.33 cup"
+            v = "1 1/3 cup"
         elif mass == "156":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "174":
-            v = "1.67 cup"
+            v = "1 2/3 cup"
         elif mass == "182":
-            v = "1.75 cup"
+            v = "1 3/4 cup"
         elif mass == "208":
             v = "2 cup"
         elif mass == "260":
-            v = "2.5 cup"
+            v = "2 1/2 cup"
         elif mass == "312":
             v = "3 cup"
 
@@ -904,9 +904,9 @@ def vol_from_mass(food, mass, vol):
         elif mass == "160":
             v = "1 cup"
         elif mass == "200":
-            v = "1.25 cup"
+            v = "1 1/4 cup"
         elif mass == "240":
-            v = "1.5 cup"
+            v = "1 1/2 cup"
         elif mass == "320":
             v = "2 cup"
 
