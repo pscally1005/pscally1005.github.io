@@ -46,7 +46,7 @@ tags:
 - honey
 - jam
 - bake
-Description: This Peanut Butter Bread is inspired by the 1932 Great Depression Peanut Butter Bread. It's full of <a href='/misc/nuts#peanuts'>peanut</a> butter flavor, without being too sweet. It's perfect for breakfast, and goes well with some <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>peanut butter</a>, or jam on top of it. I cut down the <a href='/misc/hidden-sugar'>sugar</a> and replaced it with honey, as well as swapped to <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. I'm sure you'll enjoy this healthier quick bread.
+Description: This <a href='/misc/nuts#peanuts'>Peanut Butter</a> Bread is inspired by the 1932 Great Depression <a href='/misc/nuts#peanuts'>Peanut Butter</a> Bread. It's full of <a href='/misc/nuts#peanuts'>peanut butter</a> flavor, without being too sweet. It's perfect for <a href='/recipes/breakfast'>breakfast</a>, and goes well with some <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>peanut butter</a>, or <a href='/recipes/berry-jam'>jam</a> on top of it. I cut down the <a href='/misc/hidden-sugar'>sugar</a> and replaced it with honey, as well as swapped to <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. I'm sure you'll enjoy this healthier quick <a href='/recipes/bread'>bread</a>.
 Instructions:
 - In a large bowl, combine together the flour, salt, and baking powder with a whisk
 
