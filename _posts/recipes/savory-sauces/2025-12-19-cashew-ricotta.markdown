@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Dairy Free Cashew Ricotta Cheese
-date:   2025-11-19 00:00:00 -0500
+date:   2025-12-19 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
