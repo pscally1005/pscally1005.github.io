@@ -8,6 +8,7 @@ from formatCSV import amount_desc_swap
 from formatCSV import volume
 from formatCSV import vol_from_mass
 from formatCSV import grams
+from formatCSV import vol_dec_to_frac
 
 def main():
     os.system('cls')
@@ -24,6 +25,7 @@ def main():
     volume.main(path2)
     grams.main(path2)
     vol_from_mass.main(path2)
+    vol_dec_to_frac.main(path2)
 
 if __name__ == '__main__':
     main()
