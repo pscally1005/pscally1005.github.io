@@ -48,9 +48,9 @@ tags:
 - vegetarian
 - velveeta
 - american cheese
-Description: This healthier cheesy <a href='/misc/grains#brown-rice'>rice</a> and <a href='/misc/veggies#broccoli'>broccoli</a> uses my homemade <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, and is dead simple to put together.  Just simmer the rice, roast the broccoli, and mix with the sauce.  Nice and simple vegetarian meal with still a decent amount of <a href='/misc/protein'>protein</a> for not having any meat.  For another recipe with my <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, check out my <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a>
+Description: This healthier <a href='/misc/dairy#cheddar'>cheesy</a> <a href='/misc/grains#brown-rice'>rice</a> and <a href='/misc/veggies#broccoli'>broccoli</a> uses my homemade <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, and is dead simple to put together.  Just simmer the <a href='/misc/grains#brown-rice'>rice</a>, roast the <a href='/misc/veggies#broccoli'>broccoli</a>, and mix with the <a href='/recipes/cheese-sauce'>sauce</a>.  Nice and simple <a href='/recipes/meatless'>vegetarian meal</a> with still a decent amount of <a href='/misc/protein'>protein</a> for not having any <a href='/misc/meat'>meat</a>.  For another recipe with my <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, check out my <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a>
 Instructions:
-- Add rice, bouillon powder, and water to a medium pot. Cover and bring to a boil over high heat. Reduce to medium, and let simmer for about 20 minutes, until fully cooked and water is absorbed. Set aside
+- Add rice, bouillon powder (or salt), and water to a medium pot. Cover and bring to a boil over high heat. Reduce to medium, and let simmer for about 20 minutes, until fully cooked and water is absorbed. Set aside
 
 - Add your broccoli to a bowl, and season with lemon juice, paprika, chili powder, garlic powder, onion powder, and salt. Transfer to a parchment lined cookie sheet, and roast at 400F for about 30 minutes, until tender and lightly charred. Set aside
 
