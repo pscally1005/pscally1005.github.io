@@ -51,9 +51,9 @@ tags:
 Description: This vegan <a href='/misc/nuts#cashews'>cashew</a> <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a> is perfect for those who are lactose intolerant but still looking to make Italian dishes like <a href='/recipes/lasagna-boats'>lasagna</a>.  <a href='/misc/nuts#cashews'>Cashews</a> make this <a href='/misc/dairy'>cheese</a> substitute still creamy with a neutral taste, and the nutritional yeast and salt help it to taste more like <a href='/misc/dairy'>cheese</a>
 Instructions:
 - In a medium bowl, soak your cashews in water for at least 2 hours
-- <center><img src='/assets/Food/Savory Sauces/Cashew Ricotta/processor.jpg' alt='' class='instruction-image'></center>
 
 - Add all ingredients to a food processor (including the soaking liquid), and blend until smooth, about 5 minutes with occasional scraping of the sides
+- <center><img src='/assets/Food/Savory Sauces/Cashew Ricotta/processor.jpg' alt='' class='instruction-image'></center>
 
 - Store in the fridge and use as you would <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a>, like in these <a href='/recipes/lasagna-boats'>Spaghetti Squash Lasagna Boats</a>!
 - <center><a href='/recipes/lasagna-boats'><img src='/assets/Food/Meatless/Lasagna Boats/cover.jpg' alt='' class='instruction-image'></a></center>
