@@ -62,7 +62,7 @@ tags:
 - shredded cheese
 - mozzarella cheese
 - low moisture part skim mozzarella
-Description: This pizza dough is a variation of the viral 2 ingredient dough, a combination of just <a href='/misc/dairy#yogurt'>yogurt</a> and self rising flour (flour + baking powder + salt). <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> is the best for its nutrition and taste, and the added spices add a lot to the flavor of the dough. Top if with a no <a href='/misc/hidden-sugar'>sugar</a> added sauce and a bit of cheese, and you have a healthy pizza with a decent bit of <a href='/misc/protein'>protein</a>
+Description: This pizza <a href='/recipes/bread'>dough</a> is a variation of the viral 2 ingredient <a href='/misc/recipes/bread'>dough</a>, a combination of just <a href='/misc/dairy#yogurt'>yogurt</a> and self rising <a href='/misc/grains#white-wheat'>flour</a> (<a href='/misc/grains#white-wheat'>flour</a> + baking powder + salt). <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> is the best for its nutrition and taste, and the added spices add a lot to the flavor of the <a href='/misc/grains#bread'>dough</a>. Top if with some <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> and a bit of <a href='/misc/dairy#mozzarella'>cheese</a>, and you have a healthy pizza with a decent bit of <a href='/misc/protein'>protein</a>
 Instructions:
 - In a medium bowl, whisk together the dry ingredients - whole wheat flour, vital wheat gluten (or sub more flour), baking powder, garlic powder, onion powder, and salt. Add in the yogurt, and combine with your hands until you have a smooth dough ball
 - <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-ball.jpg' alt='' class='instruction-image'></center>
