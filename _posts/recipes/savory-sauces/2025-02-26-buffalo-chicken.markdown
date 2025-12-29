@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/buffalo-chicken-dip
 image: /assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg
 ing: buffalodipnew-ing

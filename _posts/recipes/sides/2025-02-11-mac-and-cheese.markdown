@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/two-ingredient-mac-and-cheese
 image: /assets/Food/Sides/Mac & Cheese/cover.jpg
 ing: twoingmac-ing

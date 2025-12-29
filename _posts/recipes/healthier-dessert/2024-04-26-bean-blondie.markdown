@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: yes
 cookie: no
+copycat: no
 permalink: /recipes/chickpea-date-blondies
 image: /assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-cover.jpg
 ing: beanblondies-ing

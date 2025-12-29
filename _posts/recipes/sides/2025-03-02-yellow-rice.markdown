@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/yellow-rice
 image: /assets/Food/Sides/Yellow Rice/yellow-rice.jpg
 ing: yellowrice-ing

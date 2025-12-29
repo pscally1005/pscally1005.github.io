@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/oats-pb
 image: /assets/Food/Breakfast/Oatmeal/oats-pb.jpg
 ing: oatspb-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/cottage-cheese-rolls
 image: /assets/Food/Bread/CC rolls/open.jpg
 ing: ccrolls-ing

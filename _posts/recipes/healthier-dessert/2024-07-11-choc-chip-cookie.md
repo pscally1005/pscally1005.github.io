@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: yes
+copycat: no
 permalink: /recipes/chocolate-chip-date-cookies
 image: /assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cover.jpg
 ing: chocchipcookie-ing

@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/tuna-cakes
 image: /assets/Food/Fish/Tuna Cake/tuna-cake-cover.jpg
 ing: tunacake-ing

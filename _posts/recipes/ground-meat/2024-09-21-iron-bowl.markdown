@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/iron-bowl
 image: /assets/Food/Ground Meat/Iron Bowl/iron-bowl-cover.jpg
 ing: ironbowl-ing

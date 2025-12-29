@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/caponata
 image: /assets/Food/Sides/Caponata/cover.jpg
 ing: caponata-ing

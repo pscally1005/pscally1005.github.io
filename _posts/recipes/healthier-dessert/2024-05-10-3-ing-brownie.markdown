@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: yes
 cookie: no
+copycat: no
 permalink: /recipes/three-ingredient-brownies
 image: /assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-cover.jpg
 ing: 3ingbrownie-ing

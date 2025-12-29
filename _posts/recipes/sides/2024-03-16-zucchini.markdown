@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/zucchini-wedges
 image: /assets/Food/Sides/Zucchini/zucchini-cover.jpg
 ing: zucchini-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/baked-beans
 image: /assets/Food/Sides/Baked Beans/baked-beans.jpg
 ing: bakedbeans-ing

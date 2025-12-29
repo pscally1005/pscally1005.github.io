@@ -16,6 +16,7 @@ salad: no
 dressing: yes
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/roasted-eggplant-hummus
 image: /assets/Food/Savory Sauces/Eggplant Hummus/cover.jpg
 ing: eggplanthummus-ing

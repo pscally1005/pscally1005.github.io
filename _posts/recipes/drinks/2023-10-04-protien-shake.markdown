@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/protein-shake
 image: /assets/Food/Drinks/Protein/cover.jpg
 ing: proteinshake-ing

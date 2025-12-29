@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/peanut-butter-pie
 image: /assets/Food/Healthier Dessert/PB Pie/pb-pie-cover.jpg
 ing: pbpienew-ing

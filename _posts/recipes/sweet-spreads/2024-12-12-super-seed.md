@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/super-seed-butter
 image: /assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/cover.jpg
 ing: superseed-ing

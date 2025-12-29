@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chickpea-tortillas
 image: /assets/Food/Finger Food/Chickpea Tortilla/cover.jpg
 ing: chickpeatortillas-ing

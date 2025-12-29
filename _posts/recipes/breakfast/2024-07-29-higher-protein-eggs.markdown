@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/higher-protein-scrambled-eggs
 image: /assets/Food/Breakfast/Higher Protein Eggs/higher-protein-eggs.jpg
 ing: higherproteineggs-ing

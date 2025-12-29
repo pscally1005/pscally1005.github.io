@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/protein-pudding
 image: /assets/Food/Protein Powder/Pudding/protein-pudding.jpg
 ing: proteinpudding-ing

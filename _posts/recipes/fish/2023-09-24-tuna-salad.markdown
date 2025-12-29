@@ -16,6 +16,7 @@ salad: yes
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/tuna-salad
 image: /assets/Food/Fish/Tuna Salad/tuna-salad.jpg
 ing: tunasalad-ing

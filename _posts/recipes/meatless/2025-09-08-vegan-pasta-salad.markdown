@@ -16,6 +16,7 @@ salad: yes
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/vegan-pasta-salad
 image: /assets/Food/Meatless/Vegan Pasta Salad/mixed.jpg
 ing: veganpastasalad-ing

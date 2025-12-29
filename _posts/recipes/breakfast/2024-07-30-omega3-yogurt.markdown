@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/omega-3-yogurt-bowl
 image: /assets/Food/Breakfast/Omega3 Yogurt/omega3-yogurt.jpg
 ing: omega3yogurt-ing

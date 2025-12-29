@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/pasta-sauce
 image: /assets/Food/Savory Sauces/Pasta Sauce/sauce.jpg
 ing: sauce-ing

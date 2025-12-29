@@ -16,6 +16,7 @@ salad: no
 dressing: yes
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/babaganoush
 image: /assets/Food/Savory Sauces/Babaganoush/cover.jpg
 ing: babaganoush-ing

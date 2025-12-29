@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/irish-soda-bread
 image: /assets/Food/Bread/Irish/irish-cover.jpg
 ing: irish-ing

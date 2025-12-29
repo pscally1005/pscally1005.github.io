@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/breaded-chicken
 image: /assets/Food/Chicken/Breaded/cover.jpg
 ing: breaded-ing

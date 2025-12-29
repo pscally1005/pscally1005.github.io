@@ -16,6 +16,7 @@ salad: no
 dressing: yes
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/roasted-beet-hummus
 image: /assets/Food/Savory Sauces/Beet Hummus/cover.jpg
 ing: beethummus-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: yes
+copycat: no
 permalink: /recipes/edible-cookie-dough-bites
 image: /assets/Food/Healthier Dessert/OF CD/cookie-dough.jpg
 ing: ofcd-ing

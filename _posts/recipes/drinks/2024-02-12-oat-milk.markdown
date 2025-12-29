@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/oat-milk
 image: /assets/Food/Drinks/Oat Milk/oat-milk.jpg
 ing: milk-ing

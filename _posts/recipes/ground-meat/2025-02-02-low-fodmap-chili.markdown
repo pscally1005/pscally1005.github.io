@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/low-fodmap-chili
 image: /assets/Food/Ground Meat/Low FODMAP Chili/cover.jpg
 ing: lowfodmapchili-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/granola
 image: /assets/Food/Finger Food/Granola/granola-cover.jpg
 ing: granola-ing

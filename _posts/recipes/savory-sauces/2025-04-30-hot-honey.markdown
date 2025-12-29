@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/hot-honey
 image: /assets/Food/Savory Sauces/Hot Honey/hot-honey.jpg
 ing: hothoney-ing

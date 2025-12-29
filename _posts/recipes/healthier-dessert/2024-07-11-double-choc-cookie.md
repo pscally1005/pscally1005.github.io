@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: yes
+copycat: no
 permalink: /recipes/double-chocolate-date-cookies
 image: /assets/Food/Healthier Dessert/Double Choc Cookie/cover.jpg
 ing: doublechoccookie-ing

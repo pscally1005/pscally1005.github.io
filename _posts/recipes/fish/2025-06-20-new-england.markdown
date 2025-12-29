@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/new-england-clam-chowder
 image: /assets/Food/Fish/NE Clam Chowder/pot.jpg
 ing: newengland-ing

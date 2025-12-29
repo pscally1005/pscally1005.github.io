@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/home-fries
 image: /assets/Food/Breakfast/Home Fries/home-fries-cover.jpg
 ing: homefries-ing

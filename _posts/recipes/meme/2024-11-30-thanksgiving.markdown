@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/ground-thanksgiving
 image: /assets/Food/Meme/Thanksgiving/unmixed.jpg
 ing: groundthanksgiving-ing

@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/brown-rice-risotto
 image: /assets/Food/Sides/Risotto/cover.jpg
 ing: risotto-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/pumpkin-cake
 image: /assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-1.jpg
 ing: pumpkincake-ing

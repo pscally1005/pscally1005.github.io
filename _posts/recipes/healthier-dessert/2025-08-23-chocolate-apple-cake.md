@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chocolate-apple-cake
 image: /assets/Food/Healthier Dessert/Chocolate apple cake/cover.jpg
 ing: chocolateapplecake-ing

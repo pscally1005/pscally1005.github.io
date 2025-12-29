@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/eggplant-rollatini
 image: /assets/Food/Meatless/Rollatini/cover.jpg
 ing: rollatini-ing

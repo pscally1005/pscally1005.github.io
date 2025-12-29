@@ -16,6 +16,7 @@ salad: yes
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Greek Salad/cover.jpg
 ing: greeksalad-ing

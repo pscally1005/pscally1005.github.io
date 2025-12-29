@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: yes
 cookie: yes
+copycat: no
 permalink: /recipes/chocolate-chip-cookie-skillet
 image: /assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-cover.jpg
 ing: cookieskillet-ing

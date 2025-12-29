@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/rice-and-beans
 image: /assets/Food/Sides/Rice and Beans/rice-beans.jpg
 ing: ricebeans-ing

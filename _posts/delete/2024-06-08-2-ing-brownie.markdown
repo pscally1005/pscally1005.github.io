@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: yes
 cookie: no
+copycat: no
 permalink: /recipes/two-ingredient-brownies
 image: /assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-cover.jpg
 ing: 2ingbrowniehomemade-ing

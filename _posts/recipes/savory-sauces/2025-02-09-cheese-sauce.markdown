@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/cheese-sauce
 image: /assets/Food/Savory Sauces/Cheese Sauce/cheese-sauce.jpg
 ing: cheesesauce-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chickpea-wrap
 image: /assets/Food/Meatless/Chickpea Wrap/cover.jpg
 ing: chickpeawrap-ing

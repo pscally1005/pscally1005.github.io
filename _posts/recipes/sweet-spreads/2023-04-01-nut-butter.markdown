@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/natural-peanut-butter
 image: /assets/Food/Sweet Spreads/PB/pb-cover.jpg
 ing: pb-ing

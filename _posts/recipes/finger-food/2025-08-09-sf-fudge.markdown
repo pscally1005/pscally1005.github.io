@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/sugar-free-fudge
 image: /assets/Food/Finger Food/SF Fudge/cover.jpg
 ing: sffudge-ing

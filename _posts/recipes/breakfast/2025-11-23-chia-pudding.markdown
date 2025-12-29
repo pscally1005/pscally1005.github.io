@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chia-pudding
 image: /assets/Food/Breakfast/Chia Pudding/ab.jpg
 ing: chiapudding-ing

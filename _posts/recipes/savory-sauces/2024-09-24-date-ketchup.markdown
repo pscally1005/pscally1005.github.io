@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/ketchup
 image: /assets/Food/Savory Sauces/Ketchup/cover.jpg
 ing: ketchupdate-ing

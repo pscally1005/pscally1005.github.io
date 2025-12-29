@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/waffle-fries
 image: /assets/Food/Finger Food/Waffle Fries/cover.jpg
 ing: wafflefries-ing

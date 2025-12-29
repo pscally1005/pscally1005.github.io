@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/shrimp-oreganata
 image: /assets/Food/Fish/Oreganata/oreganata-cover.jpg
 ing: oreganata-ing

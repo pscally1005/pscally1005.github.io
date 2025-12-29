@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/eggplant-parm
 image: /assets/Food/Meatless/Eggplant Parm/cover.jpg
 ing: eggplantparm2-ing

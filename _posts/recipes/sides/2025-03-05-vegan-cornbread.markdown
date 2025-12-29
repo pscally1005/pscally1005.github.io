@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/vegan-cornbread
 image: /assets/Food/Sides/Vegan Cornbread/cover.jpg
 ing: vegancornbread-ing

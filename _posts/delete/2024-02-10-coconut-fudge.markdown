@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/coconut-fudge
 image: /assets/Food/Healthier Dessert/Coconut Fudge/fudge.jpg
 ing: coconutfudge-ing

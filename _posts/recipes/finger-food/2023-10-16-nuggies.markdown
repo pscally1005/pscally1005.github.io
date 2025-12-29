@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chicken-nuggets
 image: /assets/Food/Finger Food/Nuggies/cover.jpg
 ing: nuggies-ing

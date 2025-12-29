@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/hot-sauce
 image: /assets/Food/Savory Sauces/Hot Sauce/hot-sauce-cover.jpg
 ing: hotsauce-ing

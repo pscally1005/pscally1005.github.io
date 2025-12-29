@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: yes
+copycat: no
 permalink: /recipes/styrofoam-cookies
 image: /assets/Food/Meme/Styrofoam/cover-photo.jpg
 ing: styrofoam-ing

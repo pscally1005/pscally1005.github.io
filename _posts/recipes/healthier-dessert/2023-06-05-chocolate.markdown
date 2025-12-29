@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chocolate-bar
 image: /assets/Food/Healthier Dessert/Choc Bar/cover.jpg
 ing: choc-ing

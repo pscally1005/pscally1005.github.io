@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/protein-cinnamon-rolls
 image: /assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-cover.jpg
 ing: cinnamonroll-ing

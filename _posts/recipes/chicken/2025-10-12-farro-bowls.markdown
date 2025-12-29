@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/farro-bowls
 image: /assets/Food/Chicken/Farro Bowls/cover.jpg
 ing: farrobowl-ing

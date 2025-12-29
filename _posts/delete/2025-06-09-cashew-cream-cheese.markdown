@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/cashew-cream-cheese
 image: /assets/Food/Savory Sauces/Cashew Cream Cheese/bagel-cc.jpg
 ing: cashewcreamcheese-ing

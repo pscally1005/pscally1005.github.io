@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/clam-sauce
 image: /assets/Food/Fish/Clam Sauce/not-mixed.jpg
 ing: clamsauce-ing

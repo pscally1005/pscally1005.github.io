@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/trail-mix
 image: /assets/Food/Finger Food/Trail Mix/trail-mix.jpg
 ing: trailmix-ing

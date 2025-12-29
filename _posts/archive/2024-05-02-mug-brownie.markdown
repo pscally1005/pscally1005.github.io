@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: yes
 cookie: no
+copycat: no
 permalink: /recipes/mug-brownie
 image: /assets/Food/Healthier Dessert/Mug Brownie/mug-brownie-cover.jpg
 ing: mugbrownie-ing

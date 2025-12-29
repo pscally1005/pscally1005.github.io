@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: yes
 cookie: no
+copycat: no
 permalink: /recipes/dual-bean-date-brookies
 image: /assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-cover.jpg
 ing: beanbrookie-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/kale
 image: /assets/Food/Meatless/Kale/kale.jpg
 ing: kale-ing

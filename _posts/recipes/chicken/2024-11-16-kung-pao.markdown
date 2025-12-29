@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/kung-pao-chicken
 image: /assets/Food/Chicken/Kung Pao/kung-pao-cover.jpg
 ing: kungpao-ing

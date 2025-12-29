@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: yes
 permalink: /recipes/rx-bars
 image: /assets/Food/Protein Powder/RX/rx-cover.jpg
 ing: rx-ing

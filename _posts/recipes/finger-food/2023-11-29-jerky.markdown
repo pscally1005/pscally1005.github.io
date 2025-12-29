@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chicken-jerky
 image: /assets/Food/Finger Food/Jerky/jerky.jpg
 ing: jerky-ing

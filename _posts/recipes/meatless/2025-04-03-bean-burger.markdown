@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/black-bean-burger
 image: /assets/Food/Meatless/Bean Burger/cover.jpg
 ing: beanburger-ing

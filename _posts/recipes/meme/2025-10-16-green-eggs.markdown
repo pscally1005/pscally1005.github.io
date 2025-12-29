@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/green-eggs-and-ham
 image: /assets/Food/Meme/Green Eggs and Ham/cover.jpg
 ing: greeneggsham-ing

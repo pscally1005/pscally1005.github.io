@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chocolate-covered-garlic
 image: /assets/Food/Meme/Garlic/garlic.jpg
 ing: garlic-ing

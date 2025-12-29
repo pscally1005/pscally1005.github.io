@@ -6,6 +6,7 @@ categories:
 - Misc.
 - Unhealthy Recipes
 cookie: yes
+copycat: no
 permalink: /recipes/chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Cookies/cookies.jpg
 ing: cookies-ing

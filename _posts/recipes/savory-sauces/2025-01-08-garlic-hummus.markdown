@@ -16,6 +16,7 @@ salad: no
 dressing: yes
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/roasted-garlic-hummus
 image: /assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus.jpg
 ing: garlichummus-ing

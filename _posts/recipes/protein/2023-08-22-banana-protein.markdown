@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/banana-protein
 image: /assets/Food/Protein Powder/Banana Protein/banana-protein-cover.jpg
 ing: bananaprotein-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/pan-de-higo
 image: /assets/Food/Finger Food/Pan de Higo/cover.jpg
 ing: pandehigo-ing

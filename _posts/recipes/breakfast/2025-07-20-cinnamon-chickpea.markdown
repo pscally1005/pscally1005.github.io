@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/cinnamon-chickpea
 image: /assets/Food/Breakfast/Chickpea/milk.jpg
 ing: cinnamontoastchickpeas-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chicken-wings
 image: /assets/Food/Chicken/Wings/wings-cover.jpg
 ing: wings-ing

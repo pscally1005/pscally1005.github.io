@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/apple-spread
 image: /assets/Food/Sweet Spreads/Apple Spread/cover.jpg
 ing: applespread-ing

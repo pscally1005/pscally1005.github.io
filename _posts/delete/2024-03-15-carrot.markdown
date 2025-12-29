@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/carrot-spread
 image: /assets/Food/Sweet Spreads/Carrot/carrot-cover.jpg
 ing: carrot-ing

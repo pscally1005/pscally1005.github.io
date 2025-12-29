@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/granola-bars
 image: /assets/Food/Finger Food/Granola Bar/granola-bar-cover.jpg
 ing: granolabar-ing

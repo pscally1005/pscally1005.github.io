@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chicken-fingers
 image: /assets/Food/Finger Food/Chicken Fingers/cover.jpg
 ing: chickenfingers-ing

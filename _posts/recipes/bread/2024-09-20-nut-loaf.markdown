@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/nordic-nut-loaf
 image: /assets/Food/Bread/Nut Loaf/nut-loaf-cover.jpg
 ing: nutloaf-ing

@@ -16,6 +16,7 @@ salad: yes
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/mediterranean-pasta-salad
 image: /assets/Food/Meatless/Pasta Salad/pasta-salad-cover.jpg
 ing: pastasalad-ing

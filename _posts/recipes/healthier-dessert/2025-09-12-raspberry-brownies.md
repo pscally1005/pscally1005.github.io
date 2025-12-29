@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: yes
 cookie: no
+copycat: no
 permalink: /recipes/raspberry-brownies
 image: /assets/Food/Healthier Dessert/Raspberry Brownies/cover-2.jpg
 ing: raspberrybrownies-ing

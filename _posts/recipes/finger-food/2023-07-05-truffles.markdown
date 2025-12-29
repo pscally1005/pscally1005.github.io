@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/truffles
 image: /assets/Food/Healthier Dessert/Truffle/truffle-cover.jpg
 ing: truffle-ing

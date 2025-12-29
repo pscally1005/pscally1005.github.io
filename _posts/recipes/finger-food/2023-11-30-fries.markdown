@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/sweet-potato-fries
 image: /assets/Food/Finger Food/Fries/cover.jpg
 ing: fries-ing

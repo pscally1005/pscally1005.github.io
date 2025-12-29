@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/protein-bar
 image: /assets/Food/Protein Powder/Protein Bar/protein-bar.jpg
 ing: proteinbar-ing

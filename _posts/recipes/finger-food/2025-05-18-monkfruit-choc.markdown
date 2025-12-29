@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/monkfruit-chocolate-chunks
 image: /assets/Food/Finger Food/Monk Fruit Chocolate/cover.jpg
 ing: monkfruitchoc-ing

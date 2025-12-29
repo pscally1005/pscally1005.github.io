@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/gluten-free-pretzels
 image: /assets/Food/Bread/GF Pretzel/gf-pretzel-back.jpg
 ing: gfpretzel-ing

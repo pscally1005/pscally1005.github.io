@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/seven-layer-bars
 image: /assets/Food/Healthier Dessert/7 Layer/cover.jpg
 ing: 7layer-ing

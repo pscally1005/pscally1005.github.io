@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/pound-cake
 image: /assets/Food/Meme/Pound/pound-cover.jpg
 ing: newlbcake-ing

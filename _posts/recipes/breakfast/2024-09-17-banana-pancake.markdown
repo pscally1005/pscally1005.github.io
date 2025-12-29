@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/banana-protein-pancakes
 image: /assets/Food/Breakfast/Banana Pancake/pancake-cover.jpg
 ing: bananapancake-ing

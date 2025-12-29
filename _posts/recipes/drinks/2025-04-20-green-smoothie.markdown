@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/green-smoothie
 image: /assets/Food/Drinks/Green smoothie/cover.jpg
 ing: greensmoothie-ing

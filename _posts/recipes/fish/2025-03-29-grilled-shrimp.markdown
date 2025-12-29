@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/grilled-shrimp
 image: /assets/Food/Fish/Grilled Shrimp/cover.jpg
 ing: grilledshrimp-ing

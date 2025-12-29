@@ -6,6 +6,7 @@ categories:
 - Misc.
 - Unhealthy Recipes
 cookie: yes
+copycat: no
 permalink: /recipes/sugar-cookies
 image: /assets/Misc/Unhealthy/Sugar Cookies/cover.jpg
 ing: sugarcookies-ing

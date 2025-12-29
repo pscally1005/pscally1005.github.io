@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/slow-cooked-beans
 image: /assets/Food/Sides/Crockpot Beans/beans-cover.jpg
 ing: crockpotbeans-ing

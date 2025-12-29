@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/protein-crumbles
 image: /assets/Food/Finger Food/Protein Crumble/protein-crumble.jpg
 ing: crumble-ing

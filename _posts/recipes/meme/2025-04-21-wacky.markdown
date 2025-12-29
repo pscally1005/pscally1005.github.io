@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/wacky-cake
 image: /assets/Food/Meme/Wacky cake/cover.jpg
 ing: wackycake-ing

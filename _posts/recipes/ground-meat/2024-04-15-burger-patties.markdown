@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/burger-patties
 image: /assets/Food/Ground Meat/Burger Patties/patty-cover.jpg
 ing: patty-ing

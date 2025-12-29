@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chicken-stew
 image: /assets/Food/Chicken/Stew/stew-cover.jpg
 ing: stew-ing

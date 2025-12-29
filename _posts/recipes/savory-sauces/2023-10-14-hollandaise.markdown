@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/hollandaise
 image: /assets/Food/Savory Sauces/Hollandaise/cover.jpg
 ing: hollandaise-ing

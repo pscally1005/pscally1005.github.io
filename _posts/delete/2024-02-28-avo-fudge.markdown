@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/avocado-fudge
 image: /assets/Food/Protein Powder/Avo Fudge/avo-fudge-cover.jpg
 ing: avofudge-ing

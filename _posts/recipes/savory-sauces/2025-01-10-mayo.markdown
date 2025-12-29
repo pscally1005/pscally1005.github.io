@@ -16,6 +16,7 @@ salad: no
 dressing: yes
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/mayo
 image: /assets/Food/Savory Sauces/Mayo/mayo.jpg
 ing: mayo-ing

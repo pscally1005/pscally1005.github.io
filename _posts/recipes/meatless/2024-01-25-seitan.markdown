@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/seitan
 image: /assets/Food/Meatless/Seitan/seitan-cover.jpg
 ing: seitan-ing

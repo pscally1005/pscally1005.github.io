@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/pb-whey
 image: /assets/Food/Meme/PB Whey/pb-whey.jpg
 ing: pbwhey-ing

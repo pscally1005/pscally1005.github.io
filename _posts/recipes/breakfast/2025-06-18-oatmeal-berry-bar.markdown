@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/oatmeal-berry-bars
 image: /assets/Food/Breakfast/Oat Berry Bar/cover-1.jpg
 ing: oatmealberrybar-ing

@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/sweet-potato-pudding
 image: /assets/Food/Healthier Dessert/Pudding/cover.jpg
 ing: swpotpudding-ing

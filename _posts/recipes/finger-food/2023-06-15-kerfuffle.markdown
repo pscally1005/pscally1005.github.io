@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/chocolate-truffle
 image: /assets/Food/Finger Food/Kerfuffle/kerfuffle.jpg
 ing: kerfuffle-ing

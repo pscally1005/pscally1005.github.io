@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/yogurt-choc
 image: /assets/Food/Breakfast/Yogurt/yogurt-choc.jpg
 ing: yogurtchoc-ing

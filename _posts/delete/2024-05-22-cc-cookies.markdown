@@ -17,6 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: yes
+copycat: no
 permalink: /recipes/cottage-cheese-cookies
 image: /assets/Food/Healthier Dessert/CC Cookies/cc-cookies.jpg
 ing: cottagecheesecookies-ing

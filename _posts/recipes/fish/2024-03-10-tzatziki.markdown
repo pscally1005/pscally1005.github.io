@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/salmon-and-tzatziki
 image: /assets/Food/Fish/Tzatziki/tzatziki-cover.jpg
 ing: tzatziki-ing

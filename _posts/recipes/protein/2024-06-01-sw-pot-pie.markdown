@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/sweet-potato-pie
 image: /assets/Food/Protein Powder/Sw Pot Pie/sw-pot-pie-cover.jpg
 ing: swpotpie-ing

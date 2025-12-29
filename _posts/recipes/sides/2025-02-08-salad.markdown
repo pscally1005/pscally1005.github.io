@@ -16,6 +16,7 @@ salad: yes
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/salad-base
 image: /assets/Food/Sides/Salad/unmixed.jpg
 ing: basesalad-ing

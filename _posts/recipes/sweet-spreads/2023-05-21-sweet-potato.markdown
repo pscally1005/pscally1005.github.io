@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/sweet-potato-puree
 image: /assets/Food/Sweet Spreads/Sweet Potato/cover.jpg
 ing: sweetpotato-ing

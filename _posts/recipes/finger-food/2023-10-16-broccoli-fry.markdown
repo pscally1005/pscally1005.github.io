@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/broccoli-fries
 image: /assets/Food/Finger Food/Vegetable/vegetable-chip-cover.jpg
 ing: veggiechip-ing

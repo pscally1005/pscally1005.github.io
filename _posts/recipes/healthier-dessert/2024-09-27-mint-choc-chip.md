@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: yes
+copycat: no
 permalink: /recipes/mint-chocolate-chip-date-cookies
 image: /assets/Food/Healthier Dessert/Mint Chip/mint-chip-cover-green.jpg
 ing: mintchip-ing

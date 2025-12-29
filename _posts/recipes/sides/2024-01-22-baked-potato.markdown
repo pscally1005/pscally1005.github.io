@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/baked-sweet-potato
 image: /assets/Food/Sides/Baked Potato/baked-potato-2.jpg
 ing: potato-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/shepards-pie
 image: /assets/Food/Ground Meat/Shepards/shepards-cover.jpg
 ing: shepards-ing

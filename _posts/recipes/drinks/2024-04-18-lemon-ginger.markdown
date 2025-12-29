@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/lemon-ginger-tea
 image: /assets/Food/Drinks/Lemon Ginger/cover.jpg
 ing: lemonginger-ing

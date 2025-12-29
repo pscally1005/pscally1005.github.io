@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/marinated-chicken
 image: /assets/Food/Chicken/Marinated/marinated-cover.jpg
 ing: marinated-ing

@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: yes
+copycat: no
 permalink: /recipes/amaretti-cookies-with-dates
 image: /assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-cover.jpg
 ing: amarettidate-ing

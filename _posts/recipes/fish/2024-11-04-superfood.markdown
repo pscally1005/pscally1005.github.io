@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/superfood-bowls
 image: /assets/Food/Fish/Superfood/superfood-cover.jpg
 ing: superfood-ing

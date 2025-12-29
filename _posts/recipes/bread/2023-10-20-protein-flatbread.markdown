@@ -16,6 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
+copycat: no
 permalink: /recipes/protein-wrap
 image: /assets/Food/Bread/Protein Wrap/protein-wrap-cover.jpg
 ing: proteinwrap-ing
