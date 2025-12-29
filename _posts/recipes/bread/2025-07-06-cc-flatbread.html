@@ -18,8 +18,8 @@ brownie: no
 cookie: no
 permalink: /recipes/cottage-cheese-flatbread
 image: /assets/Food/Bread/CC flatbread/cover-4.jpg
-ing: ccflatbread-ing
-facts: ccflatbread-facts
+ing: ccflatbreadwhitepsyllium-ing
+facts: ccflatbreadwhitepsyllium-facts
 servingSize: 1/2 batch
 section1:
 start2:
@@ -49,14 +49,14 @@ tags:
 - nonfat cottage cheese
 - egg
 - viral
-Description: Is <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> still having its moment in the sun?  I hope so, because this <a href='/misc/celiac'>gluten</a> and <a href='/misc/grains'>grain</a> free bread is high in <a href='/misc/protein'>protein</a>, low in <a href='/misc/carbs'>carbs</a>, and dead simple to make. Just blend together cottage cheese and eggs, spread on a cookie sheet, and bake.  With over 18 g of <a href='/misc/protein'>protein</a> in just 163 <a href='/misc/calories'>calories</a>, this flatbread makes a great base for a healthy wrap or pizza
+- egg Whites
+- psyllium husk
+Description: Is <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> still having its moment in the sun?  I hope so, because this <a href='/misc/celiac'>gluten</a> and <a href='/misc/grains'>grain</a> free <a href='/recipes/bread'>bread</a> is high in <a href='/misc/protein'>protein</a>, low in <a href='/misc/carbs'>carbs</a>, and dead simple to make. Just blend together <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> and <a href='/misc/meat#egg-whites'>egg whites</a>, spread on a cookie sheet, and bake.  With 18 g of <a href='/misc/protein'>protein</a> in just 119 <a href='/misc/calories'>calories</a>, this <a href='/recipes/bread'>flatbread</a> makes a great base for a healthy wrap or pizza
 Instructions:
 - Preheat your oven to 350F, and line a large cookie sheet with parchment paper.  Lightly grease the paper
 
 - Add all to a small blender or food processor, and blend until smooth
 - <center><img src='/assets/Food/Bread/CC flatbread/processor.jpg' alt='' class='instruction-image'></center>
-
-- Egg whites can be used in place of whole eggs.  3 large egg whites, or 6.5 tbsp (100 g) is the substitution.  Aquafaba <b>will not</b> work; I have tried.  For a better texture and extra fiber, blend 2 tbsp (10 g) of psyllium husk into the batter.  The psyllium husk will make the raw batter noticeably a little bit thicker
 
 - Evenly spread the batter on your pan
 - <center><img src='/assets/Food/Bread/CC flatbread/raw.jpg' alt='' class='instruction-image'></center>
@@ -68,20 +68,32 @@ Instructions:
 - <center><img src='/assets/Food/Bread/CC flatbread/baked-bottom.jpg' alt='' class='instruction-image'></center>
 
 - Cut in half to use as a wrap or pizza
-- <center><img src='/assets/Food/Bread/CC flatbread/cover-2.jpg' alt='' class='half-page'><img src='/assets/Food/Bread/CC flatbread/pizza.jpg' alt='' class='half-page'></center>
+- <center><img src='/assets/Food/Bread/CC flatbread/cover-2.jpg' alt='' class='instruction-image'></center>
+- <center><img src='/assets/Food/Bread/CC flatbread/pizza.jpg' alt='' class='instruction-image'></center>
 ---
+<hr>
+
+<font size="+2"><b><u>Notes</u></b></font>
+<ol>
+    <li><a href='/misc/meat#eggs'>Whole eggs</a> can be used in place of <a href='/misc/meat#egg-whites'>egg whites</a>.  2 large eggs(100 g) is the substitution.  Aquafaba <b>will not</b> work; I have tried.</li><br>
+
+    <li>The psyllium husk provides a better texture and extra <a href='/misc/fiber'>fiber</a>.  It is optional if you do not have it, but highly recommended.</li><br>
+</ol>
+
+<hr>
+
 {% assign files =
-    "ccflatbread,"
-    | append: "ccflatbreadpsyllium,"
+    "ccflatbreadwhitepsyllium,"
     | append: "ccflatbreadwhite,"
-    | append: "ccflatbreadwhitepsyllium"
+    | append: "ccflatbreadpsyllium,"
+    | append: "ccflatbread"
     | split: ","
 %}
 {% assign titles =
-    "Whole Eggs<br>No Psyllium Husk,"
+    "Egg Whites<br>With Psyllium Husk,"
+    | append: "Egg Whtes<br>No Psyllium Husk,"
     | append: "Whole Eggs<br>With Psyllium Husk,"
-    | append: "Egg Whites<br>No Psyllium Husk,"
-    | append: "Egg Whites<br>With Psyllium Husk"
+    | append: "Whole Eggs<br>No Psyllium Husk"
     | split: ","
 %}
 {% assign nutrients =
