@@ -262,9 +262,9 @@ layout: base
             {% assign food_category = "true" %}
           {% elsif page.title == "Salad Recipes" and post.salad == true %}
             {% assign food_category = "true" %}
-          {% endif %}
-          {% if page.title == "Copycat Recipes" and post.copycat == true %}
+          {% elsif page.title == "Copycat Recipes" and post.copycat == true %}
             {% assign food_category = "true" %}
+          {% endif %}
 
           <!-- Post correct ones to page, or all to home -->
           {% if
