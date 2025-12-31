@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Greek Yogurt Whole Wheat Gnocchi
-date:   2025-10-31 00:00:00 -0500
+date:   2025-12-31 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
