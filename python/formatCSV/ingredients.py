@@ -156,7 +156,7 @@ def ingredients(food):
         f = "Soy sauce, low sodium, gluten free"
     elif food == "Low sodium chicken broth by Glencourt Inc." or food == "Soup, canned, low sodium, chicken broth" or food == "whole-chicken-broth":
         f = "Low sodium chicken broth"
-    elif food == "Low sodium vegetable broth by The Hain Celestial Group, Inc.":
+    elif food == "Soup, vegetable broth, SWANSON" or food == "Low sodium vegetable broth by The Hain Celestial Group, Inc.":
         f = "Low sodium vegetable broth"
     elif food == "Gochujang sauce by BRANDLESS" or food == "Gochujang korean hot sauce by WE RUB YOU":
         f = "Gochujang"
@@ -406,6 +406,8 @@ def ingredients(food):
         f = "Spaghetti squash"
     elif food == "Spinach, raw, or arugula" or food == "Spinach, raw":
         f = "Spinach, fresh"
+    elif food == "Kale, raw":
+        f = "Kale"
     elif food == "Garlic, raw":
         f = "Garlic, fresh"
     elif food == "Pineapple, all varieties, raw":
@@ -574,6 +576,8 @@ def ingredients(food):
         f = "Whole wheat baguette"
     elif food == "Rice, raw, long-grain, brown":
         f = "Brown rice"
+    elif food == "Wild rice, raw":
+        f = "Wild rice"
     elif food == "Farro, raw":
         f = "Farro"
     elif food == "Quinoa, uncooked":

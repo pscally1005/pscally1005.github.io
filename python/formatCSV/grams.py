@@ -367,6 +367,29 @@ def grams(food, mass, vol):
         elif vol == "2 serving":
             m = "60"
 
+    # Rice
+    elif food == "Brown rice" or food == "Wild rice":
+        if vol == "1/4 cup":
+            m = "45"
+        elif vol == "1/3 cup":
+            m = "60"
+        elif vol == "1/2 cup":
+            m = "90"
+        elif vol == "2/3 cup":
+            m = "120"
+        elif vol == "3/4 cup":
+            m = "135"
+        elif vol == "1 cup":
+            m = "180"
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
+            m = "270"
+        elif vol == "2 cup":
+            m = "360"
+        elif vol == "3 cup":
+            m = "540"
+        elif vol == "4 cup":
+            m = "720"
+
     # Yogurt & cottage cheese
     elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese":
         if vol == "1 tbsp":
@@ -460,7 +483,7 @@ def grams(food, mass, vol):
 
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Miso":
         if vol == "1/2 tbsp":
             m = "8"
         elif vol == "1 tbsp":

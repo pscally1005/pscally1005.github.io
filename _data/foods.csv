@@ -146,7 +146,7 @@ Whole wheat tortilla,tortilla,3.18,454.00,0.00700,30,FALSE,TRUE,TRUE,TRUE,TRUE,T
 Low sugar berry jam,jam-low-sugar,3.12,364.00,0.00857,38,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,/recipes/berry-jam
 Nonfat cottage cheese,cottage-cheese,2.94,672.00,0.00438,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.5,0,
 "Nutmeg, ground",nutmeg-ground,2.42,42.00,0.05762,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
-Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,https://www.amazon.com/dp/B01MS1JVPL?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1WR9XR6503P52&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1WR9XR6503P52_1751467488677
+Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417
 Natural peanut butter,peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/natural-peanut-butter
 "Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/natural-peanut-butter
 Peanuts,peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
@@ -293,7 +293,7 @@ Unsweetened coconut flakes,coconut-flakes,2.64,196.00,0.01347,10,TRUE,TRUE,TRUE,
 Pitted dates,dates,3.99,672.00,0.00594,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Dates,dates,3.99,672.00,0.00594,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 100% chocolate,unsweetened-chocolate,0.95,113.00,0.00841,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/chocolate-bar
-Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1GH5XMVZQOTF9&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1GH5XMVZQOTF9_1751467092363
+Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598
 Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://amzn.to/43wL0zp
 Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://amzn.to/43vQs5E
 Pecans,pecans,9.87,454.00,0.02174,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
@@ -306,6 +306,7 @@ Nutritional yeast,nutritional-yeast,5.12,140.00,0.03657,11,TRUE,TRUE,TRUE,TRUE,T
 Red lentil pasta,red-lentil-pasta,3.00,249.04,0.01205,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3SlgvaD
 Chickpea pasta,red-lentil-pasta,3.18,224.00,0.01420,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4kdHvoC
 "Spinach, fresh",spinach-fresh,4.98,454.00,0.01097,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+Kale,kale,4.98,454.00,0.01097,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 "Garlic, fresh",garlic,4.88,454.00,0.01075,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Pineapple,pineapple,4.58,454.00,0.01009,59,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Mango,mango,9.26,"1,344.00",0.00689,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
@@ -343,7 +344,7 @@ Corn on the cob,corn,0.50,102.00,0.00490,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.
 Marmite,marmite,7.50,124.52,0.06023,0,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,https://amzn.to/45p7lBy
 Celery,celery,2.38,454.00,0.00524,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Nutricost Electrolyte Mix,electrolyte-mix,17.95,341.00,0.05264,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3FxWcDZ
-Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://www.amazon.com/dp/B07XQ61Y2Y?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TXCU8LZNT4TO&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3TXCU8LZNT4TO_1751467880130
+Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://www.amazon.com/dp/B0C67M4VMF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.311ZWF0YT68R5&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.311ZWF0YT68R5_1767022006491
 "Basil, fresh",basil-fresh,3.29,113.20,0.02906,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Millet flour,millet-flour,3.59,566.00,0.00634,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4dLczd1
 "Psyllium husks, whole",psyllium-husk,7.99,339.60,0.02353,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3FAdvEl
@@ -433,5 +434,8 @@ Gluten Free Oat Wraps,oatwraps,0.55,225.00,0.00244,40,TRUE,TRUE,TRUE,TRUE,TRUE,T
 Inulin,inulin,49.99,"1,816.00",0.02753,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/47w8h7R
 "Labneh cheese, skim",labneh-skim,3.69,720.00,0.00513,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,/misc/homemade-cheese#labneh
 Dairy Free Cashew Ricotta Cheese,cashew-ricotta,2.80,336.00,0.00833,21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/cashew-ricotta-cheese
-Cream cheese,cream-cheese,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.6,0,
-"Cream cheese, 1/3 less fat",cream-cheese-low-fat,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,6.0,0,
+Cream cheese,cream-cheese,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,
+"Cream cheese, 1/3 less fat",cream-cheese-low-fat,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,
+Miso,miso,13.98,498.08,0.02807,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,https://amzn.to/49bU693
+Wild rice,wild-rice,39.99,"2,724.00",0.01468,57,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,https://amzn.to/3N0HFUU
+Kale,,,"2,724.00",0.00000,,,,,,,,0.0,0.0,0.0,3.6,0,

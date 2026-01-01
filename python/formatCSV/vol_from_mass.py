@@ -143,7 +143,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "320":
             v = "1 cup"
 
-    # capers
+    # Capers
     elif food == "Capers":
         if mass == "15":
             v = "2 tbsp"
@@ -299,6 +299,33 @@ def vol_from_mass(food, mass, vol):
         elif mass == "112":
             v = "1/2 cup"
 
+    # Rice
+    elif food == "Brown rice" or food == "Wild rice":
+        if mass == "45":
+            v = "1/4 cup"
+        elif mass == "60":
+            v = "1/3 cup"
+        elif mass == "90":
+            v = "1/2 cup"
+        elif mass == "120":
+            v = "2/3 cup"
+        elif mass == "135":
+            v = "3/4 cup"
+        elif mass == "180":
+            v = "1 cup"
+        elif mass == "225":
+            v = "1 1/4 cup"
+        elif mass == "270":
+            v = "1 1/2 cup"
+        elif mass == "315":
+            v = "1 3/4 cup"
+        elif mass == "360":
+            v = "2 cup"
+        elif mass == "540":
+            v = "3 cup"
+        elif mass == "720":
+            v = "4 cup"
+
     # Cashew ricotta
     elif food == "Dairy Free Cashew Ricotta Cheese":
         if mass == "56":
@@ -381,7 +408,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "120":
             v = "4 scoop"
 
-    # nuts
+    # Nuts
     elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":
         if mass == "15":
             v = "2 tbsp"
@@ -400,7 +427,7 @@ def vol_from_mass(food, mass, vol):
 
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Miso":
         if mass == "8":
             v = "1/2 tbsp"
         elif mass == "16":
