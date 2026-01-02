@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'French Onion & Miso Soup Crossover Event'
+title:  'French Onion & Miso Soup Crossover Event'
 date:   2026-01-01 00:00:00 -0500
 categories:
 - Recipes
@@ -55,6 +55,7 @@ tags:
 - thyme
 - veggie broth
 - vegetable broth
+- low sodium vegetable broth
 - nutritional yeast
 - soup
 - stew

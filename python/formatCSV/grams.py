@@ -390,6 +390,11 @@ def grams(food, mass, vol):
         elif vol == "4 cup":
             m = "720"
 
+    # Empanadas / pierogi
+    elif food == "Empanada/Pierogi dough":
+        if vol == "12 serving":
+            m = "333"
+
     # Yogurt & cottage cheese
     elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese":
         if vol == "1 tbsp":

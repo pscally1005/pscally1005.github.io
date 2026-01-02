@@ -1,0 +1,72 @@
+---
+layout: post
+title:  Almond Flour Focaccia
+date:   2026-01-01 00:00:00 -0500
+categories:
+- Recipes
+- Bread
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+permalink: /recipes/almond-flour-focaccia
+image: /assets/Food/Bread/Almond Flour Focaccia/cover.jpg
+ing: affocaccia-ing
+facts: affocaccia-facts
+servingSize: 1 slice
+section1: Dough
+start2: Rosemary, dried
+section2: Topping
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 10
+Rest:
+Cook: 20
+Source1: https://healthyrecipesblogs.com/easy-focaccia-recipe/#recipe
+Source2: https://www.lowcarbmaven.com/low-carb-almond-flour-bread-almond-flour-focaccia/
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/lQ2Wf
+tags:
+- almond flour
+- bread
+- focaccia
+- shredded mozzarella cheese
+- low moisture
+- part skim
+- cream cheese
+- italian
+- rosemary
+Description: This <a href='/misc/celiac'>gluten free</a> <a href='/misc/nuts#almonds'>almond flour</a> focaccia <a href='/recipes/bread'>bread</a> is high in <a href='/misc/fats'>healthy fats</a> and low in <a href='/misc/carbs'>net carbs</a>.  Featuring <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a>, this <a href='/recipes/bread'>bread</a> is a good source of <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, all with only 3 g of <a href='/misc/carbs'>net carbs</a> per slice.  It's simple to put together, and contains no added <a href='/misc/fats'>oil</a>, unlike most focaccia recipes
+Instructions:
+- Preheat your oven to 350F. Line a 9" square baking dish with parchment paper, and lightly grease the paper with oil
+
+- Add the mozzarella to a large glass bowl. Cut the cream cheese into cubes, and add on top. Microwave for 1 minute, stirring halfway with a silicone spatula
+- <center><img src='/assets/Food/Bread/Almond Flour Focaccia/cheese.jpg' alt='' class='instruction-image'></center>
+
+- Mix in the almond flour and baking powder with a silicone spatula. Add in a beaten egg, and combine with the spatula. Switch to your hands, and knead until fully combined
+- <center><img src='/assets/Food/Bread/Almond Flour Focaccia/knead.jpg' alt='' class='instruction-image'></center>
+
+- Press the dough to the baking dish. Make dimples in the dough with your fingers. Top with rosemary and salt, and lightly press them into the dough. Optionally spray the top with olive oil
+- <center><img src='/assets/Food/Bread/Almond Flour Focaccia/raw.jpg' alt='' class='instruction-image'></center>
+
+- Bake at 350F until puffed and lightly golden brown, about 15-20 minutes
+- <center><img src='/assets/Food/Bread/Almond Flour Focaccia/baked.jpg' alt='' class='instruction-image'></center>
+
+- Allow it to cool totally in the pan before cutting into 9 slices
+- <center><img src='/assets/Food/Bread/Almond Flour Focaccia/cut.jpg' alt='' class='instruction-image'></center>
+---

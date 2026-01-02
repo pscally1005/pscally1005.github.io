@@ -429,6 +429,10 @@ def ingredients(food):
     elif food == "Celery, raw":
         f = "Celery"
 
+    # Empanadas / pierogi
+    elif food == "af-empanada-dough":
+        f = "Empanada/Pierogi dough"
+
     # Frozen produce
     elif food == "Corn, unprepared, kernels cut off cob, frozen, yellow, sweet":
         f = "Frozen corn"

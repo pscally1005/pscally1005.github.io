@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Cloud Bread Loaf
-date:   2025-12-30 00:00:00 -0500
+date:   2026-01-02 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -23,9 +22,9 @@ image: /assets/Food/Bread/Cloud Loaf/cover.jpg
 ing: cloudloaf-ing
 facts: cloudloaf-facts
 servingSize: 1 slice
-section1: 
-start2: 
-section2: 
+section1:
+start2:
+section2:
 start3:
 section3:
 start4:
@@ -36,8 +35,8 @@ Prep: 10
 Rest: 30
 Cook: 30
 Source1: https://www.fatforweightloss.com.au/keto-cloud-bread-loaf/#wprm-recipe-container-194889
-Source2: 
-Source3: 
+Source2:
+Source3:
 Source4:
 Source5:
 whisk: https://s.samsungfood.com/iUqRb

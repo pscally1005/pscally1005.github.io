@@ -18,6 +18,11 @@
 {% if page.title == "Food/Nutrition Meme Dump" %}
     {% assign recipe = "false" %}
 {% endif %}
+{% if include.recipe %}
+    {% if include.recipe == "false" %}
+      {% assign recipe = "false" %}
+    {% endif %}
+{% endif %}
 
 <!-- Loop Variable -->
 {% assign loopVar = site.data[ing] %}
