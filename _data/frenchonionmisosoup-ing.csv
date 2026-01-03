@@ -1,7 +1,6 @@
 Ingredient,Amount,Unit,Description
 "Cabbage",454,g,"1 lb"
 "Onion",454,g,"1 lb"
-"Tofu, firm",454,g,"1 lb"
 "Low sodium vegetable broth",960,g,"4 cup"
 "Minced garlic",45,g,"3 tbsp"
 "Miso",32,g,"2 tbsp"
@@ -12,4 +11,5 @@ Ingredient,Amount,Unit,Description
 "Thyme, dried",6,g,"2 tbsp"
 "Black pepper, ground",3,g,"1 tsp"
 "Turmeric, ground",3,g,"1 tsp"
+"Tofu, firm",454,g,"1 lb"
 Servings,4

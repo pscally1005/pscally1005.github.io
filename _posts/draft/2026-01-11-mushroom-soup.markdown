@@ -19,7 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/mushroom-soup
-image: /assets/Food/Meme Recipes/French Onion Miso Soup/cover.jpg
+image: /assets/Food/Sides/Mushroom Soup/cover.jpg
 ing: mushroomsoup-ing
 facts: mushroomsoup-facts
 servingSize:
@@ -63,7 +63,7 @@ Instructions:
 
 - Add the oats and garlic to the pot, and toast for about 1 minute, until fragrant
 
-- Add broth, thyme, salt, and pepper to the pot. Bring to a boil over high heat. Reduce heat to low, and let simmer for 30 minutes
+- Add broth, thyme, salt, and pepper to the pot.  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
 
 - Remove from the heat and stir in yogurt, soy sauce, and parsley. Serve
 - <center><img src='/assets/Food/Sides/Mushroom Soup/pot.jpg' alt='' class='instruction-image'></center>
