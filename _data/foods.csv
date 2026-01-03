@@ -154,8 +154,8 @@ Peanuts,peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.
 Almonds,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
 Almond meal,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
 Almond butter,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/natural-peanut-butter
-Almond flour,almonds,5.88,454.00,0.01295,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4k90gtm
-Almond flour (or whole nuts),almonds,5.88,454.00,0.01295,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4k90gtm
+Almond flour,almonds,5.88,454.00,0.01295,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/45muDao
+Almond flour (or whole nuts),almonds,5.88,454.00,0.01295,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/45muDao
 Sunflower kernels,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4el1Qq5
 Sunflower butter,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/natural-peanut-butter
 Sunflower seed butter,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/natural-peanut-butter
@@ -381,8 +381,8 @@ Potassium Chloride,kcl,9.98,254.70,0.03918,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0
 Magnesium Malate,magnesium-malate,15.96,99.05,0.16113,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4jl3nx0
 Magnesium Glycinate,magnesium-glycinate,15.95,250.00,0.06380,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/43lbOE5
 Low sodium chicken broth,chicken-broth,0.69,454.00,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
-Low sodium vegetable broth,chicken-broth,3.18,960.00,0.00331,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
-Chicken bone broth,chicken-broth,1.37,905.60,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+Chicken bone broth,bone-broth,1.37,905.60,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/misc/slow-cooker-chicken
 Escarole,escarole,2.99,400.00,0.00748,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 "Chicken thighs, bone in, skin on",thighs-with-skin,1.49,454.00,0.00328,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Sun dried tomatoes,sun-dried-tomatoes,3.49,113.20,0.03083,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,

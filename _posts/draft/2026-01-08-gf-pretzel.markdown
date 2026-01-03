@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Gluten Free Savory Pretzels v2
+title:  Gluten Free Savory Pretzels
 date:   2026-01-01 00:00:00 -0500
 categories:
 - Recipes
@@ -62,15 +62,13 @@ Instructions:
 - Add the mozzarella to a large glass bowl. Cut the cream cheese into cubes, and add on top. Microwave for 1 minute, stirring halfway with a silicone spatula
 - <center><img src='/assets/Food/Bread/GF Pretzel/cheese.jpg' alt='' class='instruction-image'></center>
 
-- Add the almond flour bowl and a beaten egg to the bowl with the melted cheese. Mix with a silicone spatula to incorporate, and knead with your hands until smooth
-- <center><img src='/assets/Food/Bread/GF Pretzel/bowl.jpg' alt='' class='instruction-image'></center>
+- Add the almond flour bowl and a beaten egg to the bowl with the melted cheese. Mix with a silicone spatula to incorporate, and knead with your hands until combined.  The dough should be slightly sticky
+- <center><img src='/assets/Food/Bread/GF Pretzel/dough.jpg' alt='' class='instruction-image'></center>
 
-- Divide into 6 equal pieces (about 70 g each), and shape into pretzels on your prepared pan
-
-- Brush the tops with water. Sprinkle the tops with flaky salt or everything bagel seasoning
+- Divide into 6 equal pieces (about 70 g each), and shape into pretzels on your prepared pan.  Brush the tops with water. Sprinkle the tops with flaky salt or everything bagel seasoning
 - <center><img src='/assets/Food/Bread/GF Pretzel/raw.jpg' alt='' class='instruction-image'></center>
 
-- Bake the pretzels at 350F for 15-18 minutes, or until lightly golden brown. Serve warm
+- Bake the pretzels at 350F for 18 minutes, or until lightly golden brown.  Let cool in the pan for 5 minutes before removing.  Serve warm
 - <center><img src='/assets/Food/Bread/GF Pretzel/baked.jpg' alt='' class='instruction-image'></center>
 
 - Store leftovers in an airtight bag in the freezer. Air fry from frozen at 400F for 5 minutes to reheat

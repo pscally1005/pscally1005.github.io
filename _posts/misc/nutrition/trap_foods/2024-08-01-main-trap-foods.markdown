@@ -724,7 +724,7 @@ emsp;There are variations of chips that are marketed as being healthy though.  T
 34. <a href='https://health.clevelandclinic.org/seed-oils-are-they-actually-toxic'>Seed Oils: Are They Actually Toxic?</a>
 35. <a href='https://www.healthline.com/nutrition/are-vegetable-and-seed-oils-bad'>Are Vegetable and Seed Oils Bad for Your Health?</a>
 36. <a href='https://health.clevelandclinic.org/margarine-or-butter-the-heart-healthiest-spreads-infographic'>Margarine or Butter: The Heart-Healthiest Spreads</a>
-37. <a href='https://www.mayoclinic.org/diseases-conditions/high-blood-<a href='/misc/cholesterol'>cholesterol</a>/in-depth/trans-fat/art-20046114'>Trans fat is double trouble for heart health</a>
+37. <a href='https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol</a>/in-depth/trans-fat/art-20046114'>Trans fat is double trouble for heart health</a>
 38. <a href='https://www.eatingwell.com/article/290503/are-cold-cuts-healthy/'>Are Cold Cuts Healthy? Here's What a Dietitian Has to Say</a>
 39. <a href='https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html#:~:text=Unfortunately%2C%20when%20these%20processed%20meats,at%20MD%20Anderson%20Cancer%20Center.'>Processed meat and cancer: What you need to know</a>
 40. <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267163/'>Sodium Levels of Processed Meat in Australia: Supermarket Survey Data from 2010 to 2017</a>

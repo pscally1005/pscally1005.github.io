@@ -55,16 +55,16 @@ tags:
 - overripe banana
 - vic
 - waffle
-Description: Unlike regular <a href='/misc/fake-healthy-foods#pancakes'>pancakes</a>, these will serve to keep you full all the way until lunch. With <a href='/misc/protein'>protein</a> of the whey and <a href='/misc/fiber'>fiber</a> of the <a href='/misc/grains#oats'>oats</a>, plus the addition of mashed <a href='/misc/fruit#banana'>banana</a>, this serves as a perfect fall recipe. These also work as waffles as well, but I prefer the pancakes.  For a very similar pancake recipe with pumpkin instead, check out my <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>.  Or, for more banana recipes, see my <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a>, <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>, or <a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a>
+Description: Unlike regular <a href='/misc/fake-healthy-foods#pancakes'>pancakes</a>, these will serve to keep you full all the way until lunch. With <a href='/misc/protein'>protein</a> of the <a href='/misc/dairy#whey'>whey</a> and <a href='/misc/fiber'>fiber</a> of the <a href='/misc/grains#oats'>oats</a>, plus the addition of mashed <a href='/misc/fruit#banana'>banana</a>, this serves as a perfect Sunday morning recipe.  For a very similar <a href='/misc/fake-healthy-foods#pancakes'>pancake</a> recipe with <a href='/misc/veggies#pumpkin'>pumpkin</a> instead, check out my <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>.  Or, for more <a href='/misc/fruit#banana'>banana</a> recipes, see my <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a>, <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>, or <a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a>
 Instructions:
 - In a medium bowl, mash a banana with the back of a fork.  Combine in the rest of the ingredients.  Let the batter rest for 5-10 minutes
 - <center><img src='/assets/Food/Breakfast/Banana Pancake/pancake-batter.jpg' alt='' class='instruction-image'></center>
 
-- Optionally, mix in 1 tbsp (12 g) granulated monk fruit, 1/2 tsp (2.5 g) liquid monk fruit, or 1 tbsp (15 g) chocolate chips
-
 - Meanwhile, preheat a large nonstick pan over medium heat with a spray of oil. The pan should sound like it's sizzling lightly when the batter is spooned in
 
-- Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a wire rack or plate, and repeat
+- Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a wire rack or plate, and repeat. This recipe should make about 6 small pancakes and serves 1 for <a href='/recipes/breakfast'>breakfast</a>
 
-- These also work as waffles. Cook on medium heat or so for 2-3 minutes
+- Instead of liquid stevia/monk fruit, you can also use 1/2 tbsp (10 g) honey/maple syrup/sugar free syrup or 1 tbsp (15 g) mini chocolate chips. Or use a flavored protein powder instead of unflavored (vanilla recommended).
+
+- This recipe also works as <a href='/misc/fake-healthy-foods#pancakes'>waffles</a>.  Preheat a waffle iron over medium heat with some oil.  Cook for about 3 minutes, or until lightly browned and no longer sticking
 ---
