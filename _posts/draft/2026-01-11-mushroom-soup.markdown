@@ -19,7 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/mushroom-soup
-image: /assets/Food/Sides/Mushroom Soup/cover.jpg
+image: /assets/Food/Sides/Mushroom Soup/mushroom-soup.jpg
 ing: mushroomsoup-ing
 facts: mushroomsoup-facts
 servingSize:
