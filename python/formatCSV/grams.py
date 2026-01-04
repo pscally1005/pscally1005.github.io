@@ -488,7 +488,7 @@ def grams(food, mass, vol):
 
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Miso":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter":
         if vol == "1/2 tbsp":
             m = "8"
         elif vol == "1 tbsp":
@@ -514,6 +514,26 @@ def grams(food, mass, vol):
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "256"
 
+    # Miso
+    elif food == "Miso" or food == "Miso paste":
+        if vol == "1/2 tbsp":
+            m = "8.5"
+        elif vol == "1 tbsp":
+            m = "17"
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
+            m = "25.5"
+        elif vol == "2 tbsp":
+            m = "34"
+        elif vol == "3 tbsp":
+            m = "51"
+        elif vol == "4 tbsp" or vol == "1/4 cup":
+            m = "68"
+        elif vol == "5 tbsp":
+            m = "85"
+        elif vol == "6 tbsp":
+            m = "102"
+        elif vol == "8 tbsp" or vol == "1/2 cup":
+            m = "136"
 
     # Syrup
     elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey":

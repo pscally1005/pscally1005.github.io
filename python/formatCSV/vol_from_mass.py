@@ -432,7 +432,7 @@ def vol_from_mass(food, mass, vol):
 
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Miso":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini":
         if mass == "8":
             v = "1/2 tbsp"
         elif mass == "16":
@@ -457,6 +457,27 @@ def vol_from_mass(food, mass, vol):
             v = "3/4 cup"
         elif mass == "256":
             v = "1 cup"
+
+    # Miso
+    elif food == "Miso" or food == "Miso paste":
+        if mass == "8.5":
+            v = "1/2 tbsp"
+        elif mass == "17":
+            v = "1 tbsp"
+        elif mass == "25.5":
+            v = "1 1/2 tbsp"
+        elif mass == "34":
+            v = "2 tbsp"
+        elif mass == "51":
+            v = "3 tbsp"
+        elif mass == "68":
+            v = "1/4 cup"
+        elif mass == "85":
+            v = "5 tbsp"
+        elif mass == "102":
+            v = "6 tbsp"
+        elif mass == "136":
+            v = "1/2 cup"
 
     # Onions
     elif food == "Onion":
