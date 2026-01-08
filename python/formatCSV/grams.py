@@ -1032,8 +1032,10 @@ def grams(food, mass, vol):
 
 
     # Chocolate chips
-    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar":
-        if vol == "1/2 tbsp":
+    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips":
+        if vol == "1 tsp":
+            m = "5"
+        elif vol == "1/2 tbsp":
             m = "7.5"
         elif vol == "1 tbsp":
             m = "15"
@@ -1156,7 +1158,13 @@ def grams(food, mass, vol):
 
     # Sugar, etc.
     elif food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin":
-        if vol == "1 tbsp":
+        if vol == "1 tsp":
+            m = "4"
+        elif vol == "1/2 tbsp":
+            m = "6"
+        elif vol == "2 tsp":
+            m = "8"
+        elif vol == "1 tbsp":
             m = "12"
         elif vol == "2 tbsp":
             m = "25"
