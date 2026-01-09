@@ -11,7 +11,13 @@ def vol_from_mass(food, mass, vol):
 
     # Sugar, etc.
     if food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin":
-        if mass == "12" or mass == "12.5" or mass == "15":
+        if mass == "4":
+            v = "1 tsp"
+        elif mass == "6":
+            v = "1/2 tbsp"
+        elif mass == "8":
+            v = "2 tsp"
+        elif mass == "12" or mass == "12.5" or mass == "15":
             v = "1 tbsp"
         elif mass == "25" or mass == "24":
             v = "2 tbsp"

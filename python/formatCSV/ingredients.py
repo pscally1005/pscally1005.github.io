@@ -316,6 +316,8 @@ def ingredients(food):
         f = "Liquid egg whites"
     elif food == "Beverages, Protein powder whey based" or food == "Unflavored 100% whey protein isolate protein powder, unflavored by ISOPURE" or food == "Unflavored 100% whey protein isolate protein powder" or food == "Nutricost Whey Unflavored Protein Powder":
         f = "Whey protein powder, unflavored"
+    elif food == "Levels Vanilla Whey Protein Powder":
+        f = "Whey protein powder, vanilla"
     elif food == "Cottage cheese, 1% fat, Friendship Dairies" or food == "Cheese, large or small curd, dry, uncreamed, nonfat, cottage" or food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
         f = "Nonfat cottage cheese"
     elif food == "Cheese, grated, parmesan" or food == "Kraft Grated Parmesan Cheese" or food == "Grated parmesan cheese by POPE" or food == "Cheese, grated, parmesan":

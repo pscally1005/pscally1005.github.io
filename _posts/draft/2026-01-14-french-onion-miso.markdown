@@ -19,7 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/french-onion-miso-soup
-image: /assets/Food/Meme/French Onion Miso Soup/cover.jpg
+image: /assets/Food/Meme/French Onion Miso Soup/miso-soup.jpg
 ing: frenchonionmisosoup-ing
 facts: frenchonionmisosoup-facts
 servingSize:
@@ -69,6 +69,5 @@ Instructions:
 - Add the remaining ingredients to the pot (except the tofu).  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
 
 - Cut your tofu into bite sized cubes. Add in the tofu, and gently stir to combine. Serve
-- <center><img src='/assets/Food/Meme/French Onion Miso Soup/pot.jpg' alt='' class='instruction-image'></center>
-- <center><img src='/assets/Food/Meme/French Onion Miso Soup/servings.jpg' alt='' class='instruction-image'></center>
+- <center><img src='/assets/Food/Meme/French Onion Miso Soup/pot.jpg' alt='' class='half-page'><img src='/assets/Food/Meme/French Onion Miso Soup/cover.jpg' alt='' class='half-page'></center>
 ---
