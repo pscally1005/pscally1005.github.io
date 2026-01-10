@@ -19,7 +19,7 @@ brownie: no
 cookie: yes
 copycat: no
 permalink: /recipes/protein-cookie-dough-bowl
-image: /assets/Food/Protein Powder/CC Cookie Dough/cc-cookie-dough.jpg
+image: /assets/Food/Protein Powder/Protein Cookie Dough Bowl/cc-cookie-dough.jpg
 ing: cccookiedough-ing
 facts: cccookiedough-facts
 servingSize:
