@@ -95,6 +95,13 @@ def vol_from_mass(food, mass, vol):
         elif mass == "128":
             v = "1 cup"
 
+    # Sourdough
+    elif food == "Sourdough starter":
+        if mass == "120":
+            v = "1/2 cup"
+        elif mass == "240":
+            v = "1 cup"
+
     # Labneh
     elif food == "Labneh cheese, skim":
         if mass == "15":

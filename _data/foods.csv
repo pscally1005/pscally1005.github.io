@@ -39,6 +39,7 @@ Balsamic vinegar,balsamic,3.92,236.60,0.01657,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0
 Red wine vinegar,red-wine-vinegar,2.84,480.00,0.00592,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Vital wheat gluten,vital-wheat-gluten,23.74,"1,816.00",0.01307,51,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,100,https://amzn.to/4kgguB9
 Whole wheat flour,whole-wheat,5.58,"2,240.00",0.00249,75,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,
+Sourdough starter,sourdough-starter,2.79,"2,240.00",0.00125,75,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,/misc/whole-wheat-sourdough#starter
 Oat flour,oat-flour,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/misc/homemade-flours
 "Oat flour, or almond flour",oat-flour,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/misc/homemade-flours
 Rolled oats,oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,

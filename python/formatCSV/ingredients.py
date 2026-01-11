@@ -572,6 +572,8 @@ def ingredients(food):
         f = "Sugar free cranberry sauce"
 
     # Carbs
+    elif food == "sourdough-starter":
+        f = "Sourdough starter"
     elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
         f = "Whole wheat tortilla"
     elif food == "Bread, whole wheat" or food == "ww-bread":

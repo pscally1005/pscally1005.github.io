@@ -447,6 +447,8 @@ def grams(food, mass, vol):
             m = "30"
         elif vol == "1/2 cup":
             m = "60"
+        elif vol == "2/3 cup":
+            m = "80"
         elif vol == "3/4 cup":
             m = "90"
         elif vol == "1 cup":
@@ -1208,6 +1210,12 @@ def grams(food, mass, vol):
         if vol == "3 tbsp":
             m = "40"
 
+    # Sourdough
+    elif food == "Sourdough starter":
+        if vol == "1 serving":
+            m = "120"
+        elif vol == "2 serving":
+            m = "240"
 
     return m
 
