@@ -161,6 +161,16 @@ def fix(vol):
         v = "6 x 14.5oz can"
 
     # lb
+    elif vol == "0.25 pound" or vol == "0.25 lb":
+        v = "1/4 lb"
+    elif vol == "0.33 pound" or vol == "0.33 lb":
+        v = "1/3 lb"
+    elif vol == "0.5 pound" or vol == "0.5 lb":
+        v = "1/2 lb"
+    elif vol == "0.66 pound" or vol == "0.66 lb" or vol == "0.67 pound" or vol == "0.67 lb":
+        v = "2/3 lb"
+    elif vol == "0.75 pound" or vol == "0.75 lb":
+        v = "3/4 lb"
     elif vol == "16 oz" or vol == "16 ounce" or vol == "1 pound" or vol == "1 pound dried beans":
         v = "1 lb"
     elif vol == "1.3 pound":
@@ -211,7 +221,7 @@ def fix(vol):
         v = "32 pitted"
 
     # produce
-    elif vol == "1/2 fruit, without skin and seed" or vol == "0.5 fruit, without skin and seed" or vol == "0.5 Banana" or vol == "0.5 banana" or vol == "1/2 banana" or vol == "1/2 Banana" or vol == "1/2 Onion" or vol == "0.5 Onion" or vol == "1/2 onion" or vol == "0.5 onion" or vol == "0.5 medium bell pepper" or vol == "1/2 medium bell pepper" or vol == "0.5 whole" or vol == "1/2 whole" or vol == "0.5 English" or vol == "1/2 English" or vol == "0.5 Italian tomato" or vol == "1/2 Italian tomato" or vol =="0.5 small" or vol == "1/2 small" or vol == "1/2 eggplant, unpeeled (approx 1-1/4 lb)"or vol == "0.5 eggplant, unpeeled (approx 1-1/4 lb)":
+    elif vol == "1/2 fruit, without skin and seed" or vol == "0.5 fruit, without skin and seed" or vol == "0.5 Banana" or vol == "0.5 banana" or vol == "1/2 banana" or vol == "1/2 Banana" or vol == "1/2 Onion" or vol == "0.5 Onion" or vol == "1/2 onion" or vol == "0.5 onion" or vol == "0.5 medium bell pepper" or vol == "1/2 medium bell pepper" or vol == "0.5 whole" or vol == "1/2 whole" or vol == "0.5 English" or vol == "1/2 English" or vol == "0.5 Italian tomato" or vol == "1/2 Italian tomato" or vol =="0.5 small" or vol == "1/2 small" or vol == "1/2 eggplant, unpeeled (approx 1-1/4 lb)"or vol == "0.5 eggplant, unpeeled (approx 1-1/4 lb)" or vol == "0.5 medium":
         v = "1/2 medium"
     elif vol == "1.09 small (6 to 6-7/8 long)" or vol == "1 fruit (2 dia)" or vol == "1 medium (2-1/2 dia)" or vol == "1 fruit, without skin and seed" or vol == "1 medium (approx 2-3/4 long, 2-1/2 dia.)" or vol == "1.33 medium" or vol == "1 banana" or vol == "1 Banana" or vol == "1 onion" or vol == "1 Onion" or vol == "1 medium bell pepper" or vol == "1 whole" or vol == "1 English" or vol == "1 Italian tomato"or vol == "1 plum tomato" or vol =="1 small" or vol == "1 eggplant, unpeeled (approx 1-1/4 lb)":
         v = "1 medium"

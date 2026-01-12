@@ -17,11 +17,15 @@ def grams(food, mass, vol):
         m = "85"
     elif vol == "4 oz" or vol == "1/4 lb":
         m = "113"
+    elif vol == "1/3 lb":
+        m = "151"
     elif vol == "6 oz":
         m = "168"
     elif vol == "8 oz" or vol == "1/2 lb":
         m = "226"
-    elif vol == "12 oz":
+    elif vol == "2/3 lb":
+        m = "302"
+    elif vol == "12 oz" or vol == "3/4 lb":
         m = "340"
     elif vol == "14 oz":
         m = "400"
