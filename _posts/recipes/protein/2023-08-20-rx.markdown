@@ -35,8 +35,8 @@ Prep: 15
 Rest:
 Cook:
 Source1: https://www.thekitchn.com/easy-copycat-rx-bar-recipe-256203
-Source2:
-Source3:
+Source2: https://amzn.to/3FduH2z
+Source3: /assets/Food/Protein Powder/RX/nutrition-facts.jpg
 Source4:
 Source5:
 whisk: https://s.samsungfood.com/ZKEZd

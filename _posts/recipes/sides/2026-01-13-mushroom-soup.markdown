@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  No Cream of Mushroom Soup
-date:   2026-01-01 00:00:00 -0500
+date:   2026-01-13 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

@@ -137,7 +137,7 @@
     {% endfor %}
 
     <!-- Section 1 -->
-    {% if !page.section1 %}
+    {% if !page.section1 and recipe == "true" %}
         <div class='ingredients-section'>{{ page.section1 }}</div>
     {% endif %}
 
@@ -153,32 +153,37 @@
                 {% assign unit = row["Unit"] %}
                 {% assign vol = row["Description"] %}
 
-                <!-- Section 2 -->
-                {% if food == page.start2 %}
-                    {% if !page.section2 %}
-                        </ul><div class='ingredients-section'>{{ page.section2 }}</div><ul>
-                    {% endif %}
-                {% endif %}
+                <!-- Only do recipe sections on actual page recipes -->
+                {% if recipe == "true" %}
 
-                <!-- Section 3 -->
-                {% if food == page.start3 %}
-                    {% if !page.section3 %}
-                        </ul><div class='ingredients-section'>{{ page.section3 }}</div><ul>
+                    <!-- Section 2 -->
+                    {% if food == page.start2 %}
+                        {% if !page.section2%}
+                            </ul><div class='ingredients-section'>{{ page.section2 }}</div><ul>
+                        {% endif %}
                     {% endif %}
-                {% endif %}
 
-                <!-- Section 4 -->
-                {% if food == page.start4 %}
-                    {% if !page.section4 %}
-                        </ul><div class='ingredients-section'>{{ page.section4 }}</div><ul>
+                    <!-- Section 3 -->
+                    {% if food == page.start3 %}
+                        {% if !page.section3 %}
+                            </ul><div class='ingredients-section'>{{ page.section3 }}</div><ul>
+                        {% endif %}
                     {% endif %}
-                {% endif %}
 
-                <!-- Section 5 -->
-                {% if food == page.start5 %}
-                    {% if !page.section5 %}
-                        </ul><div class='ingredients-section'>{{ page.section5 }}</div><ul>
+                    <!-- Section 4 -->
+                    {% if food == page.start4 %}
+                        {% if !page.section4 %}
+                            </ul><div class='ingredients-section'>{{ page.section4 }}</div><ul>
+                        {% endif %}
                     {% endif %}
+
+                    <!-- Section 5 -->
+                    {% if food == page.start5 %}
+                        {% if !page.section5 %}
+                            </ul><div class='ingredients-section'>{{ page.section5 }}</div><ul>
+                        {% endif %}
+                    {% endif %}
+
                 {% endif %}
 
                 <!-- Calculate cost -->

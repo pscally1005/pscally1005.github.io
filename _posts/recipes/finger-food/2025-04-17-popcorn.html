@@ -60,14 +60,11 @@ Instructions:
 
 - Transfer to a large bowl.  Season with oil and desired slices.  I'm going with nutritional yeast, paprika, and salt here, but you can use whatever you want
 ---
-You can also make cinnamon sugar popcorn by using coconut oil, granulated monk fruit, and cinnamon.  The recipe is the following:<br><br>
-<ul>
-  <li>3 tbsp (40 g) Popcorn kernels</li>
-  <li>1/2 tsp (2.5 g) Extra virgin coconut oil</li>
-  <li>1 tbsp (12 g) Granulated monk fruit</li>
-  <li>1 tsp (3 g) Cinnamon</li>
-  <li>1/4 tsp (1.5 g) Salt</li>
-</ul><br>
+You can also make cinnamon sugar popcorn by using coconut oil, granulated monk fruit, and cinnamon.  The recipe is the following:<br>
+
+{% assign i = site.data['popcornsweet-ing'] %}
+{% include ingredients.html ing=i recipe="false" %}
+<br>
 
 {% assign files =
     "popcorn,"
