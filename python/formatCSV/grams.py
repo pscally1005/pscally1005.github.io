@@ -48,6 +48,27 @@ def grams(food, mass, vol):
     elif vol == "3 lb":
         m = "1362"
 
+    # Dried fruit
+    elif food == "Dates" or food == "Raisins" or food == "Prunes" or food == "Dried figs":
+        if vol == "1/4 cup":
+            m = "40"
+        elif vol == "1/3 cup":
+            m = "55"
+        elif vol == "1/2 cup":
+            m = "80"
+        elif vol == "2/3 cup":
+            m = "110"
+        elif vol == "3/4 cup":
+            m = "130"
+        elif vol == "1 cup":
+            m = "160"
+        elif vol == "1.25 cup" or vol == "1 1/4 cup":
+            m = "200"
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
+            m = "240"
+        elif vol == "2 cup":
+            m = "320"
+
     # Salt, baking powder, baking soda
     elif food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt" or food == "Flaky salt":
         if vol == "Small pinch" or vol == "Tiny pinch":
