@@ -342,6 +342,16 @@ def grams(food, mass, vol):
             m = "960"
         elif vol == "5 cup":
             m = "1200"
+        elif vol == "6 cup":
+            m = "1440"
+        elif vol == "7 cup":
+            m = "1680"
+        elif vol == "8 cup":
+            m = "1920"
+        elif vol == "9 cup":
+            m = "2160"
+        elif vol == "10 cup":
+            m = "2400"
 
     # Powdered sugar & monk fruit
     elif food == "Powdered monk fruit" or food == "Powdered sugar":
@@ -740,7 +750,7 @@ def grams(food, mass, vol):
             m = "48"
         elif vol == "9 tbsp":
             m = "54"
-        elif vol == "10 tbsp":
+        elif vol == "10 tbsp" or vol == "1/2cup + 2tbsp" or vol == "1/2 cup + 2 tbsp":
             m = "60"
         elif vol == "2/3 cup":
             m = "64"

@@ -54,7 +54,7 @@ tags:
 - veggie broth
 - vegetable broth
 - soy sauce
-Description: Who doesn't love a nice hearty bowl of <a href='/soups-and-stews'>soup</a> in the winter?  This healthy and creamy <a href='/misc/veggies#mushrooms'>mushroom <a href='/soups-and-stews'>soup</a> is free of both heavy cream and <a href='/misc/grains#white-wheat'>flour</a> typically found in <a href='/misc/veggies#mushrooms'>mushroom</a> <a href='/soups-and-stews'>soup</a> recipes.  Here, <a href='/misc/dairy#yogurt'>yogurt</a> and <a href='/misc/grains#oats'>oats</a> are used to provide creaminess, making the <a href='/soups-and-stews'>soup</a> <a href='/misc/celiac'>gluten free</a>. A bowl of this satisfying <a href='/soups-and-stews'>soup</a> is the perfect <a href='/recipes/sides'>side</a> to any lunch or dinner
+Description: Who doesn't love a nice hearty bowl of <a href='/soups-and-stews'>soup</a> in the winter?  This healthy and creamy <a href='/misc/veggies#mushrooms'>mushroom</a> <a href='/soups-and-stews'>soup</a> is free of both heavy cream and <a href='/misc/grains#white-wheat'>flour</a> typically found in <a href='/misc/veggies#mushrooms'>mushroom</a> <a href='/soups-and-stews'>soup</a> recipes.  Here, <a href='/misc/dairy#yogurt'>yogurt</a> and <a href='/misc/grains#oats'>oats</a> are used to provide creaminess, making the <a href='/soups-and-stews'>soup</a> <a href='/misc/celiac'>gluten free</a>. A bowl of this satisfying <a href='/soups-and-stews'>soup</a> is the perfect <a href='/recipes/sides'>side</a> to any lunch or dinner
 Instructions:
 - Heat a medium pot over medium heat with olive oil. Cut your onions into a small dice, and add to the pot. Cover and cook for about 5 minutes, or until lightly browned and softened
 
