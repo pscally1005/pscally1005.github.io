@@ -66,3 +66,35 @@ Instructions:
 - Bake at 350F until puffed and lightly golden brown, about 20 minutes.  Allow it to cool totally in the pan before cutting into 9 slices
 - <center><img src='/assets/Food/Bread/Almond Flour Focaccia/cut.jpg' alt='' class='instruction-image'></center>
 ---
+<font size="+2"><u><b>Notes</b></u></font>
+<ol>
+  <li>For a lower <a href='/misc/fats'>fat</a> version, use fat free <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> (1 1/2 cup, 168 g) and <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a> (2 tbsp, 28 g) in place of the standard shredded <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> and <a href='/misc/dairy#cream-cheese'>cream cheese</a></li><br>
+
+  <li>To make it <a href='/misc/nuts'>nut</a> free, swap the <a href='/misc/nuts#almonds'>almond flour</a> for <a href='/misc/grains#oat'>oat flour</a> (1 1/2 cup, 135 g)</li><br>
+
+  <li>Or combine both these ideas together!</li><br>
+</ol>
+
+{% assign files =
+    "affocaccia,"
+    | append: "affocaccialowfatcheese,"
+    | append: "affocacciaoat,"
+    | append: "affocaccialowfatcheeseoat,"
+    | split: ","
+%}
+{% assign titles =
+    "Standard <a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/nuts#almonds'>Almond Flour</a>,"
+    | append: "<a href='/misc/fats'>Fat Free</a> <a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/nuts#almonds'>Almond Flour</a>,"
+    | append: "Standard <a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/grains#oat'>Oat Flour</a>,"
+    | append: "<a href='/misc/fats'>Fat Free</a> <a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/grains#oat'>Oat Flour</a>,"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Net Carbs,"
+    | append: "Fiber"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients folder="focaccia" scroll="true" %}

@@ -619,26 +619,23 @@ def normalize(text):
 def auto_link_safe(text, links):
     """
     Auto-link exact words/phrases in text while skipping existing <a> tags.
-    No pluralization, only exact matches.
-    Protect newly inserted links from being re-linked.
+    Does not touch newly inserted links.
     """
+    import re
+
+    # Sort keys by length descending so longer phrases match first
     sorted_keys = sorted(links.keys(), key=len, reverse=True)
-    protected = []
 
-    def protect_a_tags(t):
-        t, p = protect_blocks(t, r'<a\s+[^>]*>.*?</a>', 'A', flags=re.IGNORECASE | re.DOTALL)
-        protected.extend(p)
-        return t
-
-    text = protect_a_tags(text)
+    # Protect existing <a> tags only once
+    text, protected = protect_blocks(text, r'<a\s+[^>]*>.*?</a>', 'A', flags=re.IGNORECASE | re.DOTALL)
 
     for key in sorted_keys:
         url = links[key]
-        pattern = re.compile(rf"\b{re.escape(key)}\b", re.IGNORECASE)
+        # Match whole words or phrases, allow hyphens
+        pattern = re.compile(rf"(?<!\w){re.escape(key)}(?!\w)", re.IGNORECASE)
         text = pattern.sub(lambda m: f"<a href='{url}'>{m.group(0)}</a>", text)
-        text = protect_a_tags(text)  # protect newly inserted links
 
-    # restore all links
+    # Restore original links
     text = restore_blocks(text, protected, 'A')
     return text
 
