@@ -55,72 +55,61 @@ LINKS = {
   "tofu": "/misc/beans#tofu",
 
   # DAIRY
-  "almond milks": "/misc/dairy#almond-milk",
+  "unsweetened vanilla almond milk": "/misc/dairy#almond-milk",
+  "unsweetened almond milk": "/misc/dairy#almond-milk",
   "almond milk": "/misc/dairy#almond-milk",
-  "blue cheeses": "/misc/dairy#blue-cheese",
   "blue cheese": "/misc/dairy#blue-cheese",
   "butter": "/misc/dairy#butter",
-  "casein protein powders": "/misc/dairy#casein",
   "casein protein powder": "/misc/dairy#casein",
   "casein proteins": "/misc/dairy#casein",
   "casein protein": "/misc/dairy#casein",
   "casein": "/misc/dairy#casein",
-  "cheddar cheeses": "/misc/dairy#cheddar",
+  "shredded cheese": "/misc/dairy#cheddar",
+  "mexican cheese": "/misc/dairy#cheddar",
   "cheddar cheese": "/misc/dairy#cheddar",
   "cheddar": "/misc/dairy#cheddar",
-  "coconut milks": "/misc/dairy#coconut-milk",
   "coconut milk": "/misc/dairy#coconut-milk",
-  "nonfat cottage cheeses": "/misc/dairy#cottage-cheese",
+  "fat free cottage cheeses": "/misc/dairy#cottage-cheese",
   "nonfat cottage cheese": "/misc/dairy#cottage-cheese",
-  "cottage cheeses": "/misc/dairy#cottage-cheese",
   "cottage cheese": "/misc/dairy#cottage-cheese",
-  "whole milk cottage cheeses": "/misc/dairy#cottage-cheese-whole-milk",
   "whole milk cottage cheese": "/misc/dairy#cottage-cheese-whole-milk",
-  "cream cheeses": "/misc/dairy#cream-cheese",
+  "full fat cottage cheese": "/misc/dairy#cottage-cheese-whole-milk",
   "cream cheese": "/misc/dairy#cream-cheese",
-  "feta cheeses": "/misc/dairy#feta",
   "feta cheese": "/misc/dairy#feta",
   "feta": "/misc/dairy#feta",
-  "goat cheeses": "/misc/dairy#goat-cheese",
   "goat cheese": "/misc/dairy#goat-cheese",
-  "plain nonfat greek yogurts": "/misc/dairy#yogurt",
   "plain nonfat greek yogurt": "/misc/dairy#yogurt",
-  "greek yogurts": "/misc/dairy#yogurt",
+  "nonfat greek yogurt": "/misc/dairy#yogurt",
   "greek yogurt": "/misc/dairy#yogurt",
-  "yogurts": "/misc/dairy#yogurt",
   "yogurt": "/misc/dairy#yogurt",
-  "plain whole milk greek yogurts": "/misc/dairy#yogurt-whole-milk",
   "plain whole milk greek yogurt": "/misc/dairy#yogurt-whole-milk",
+  "plain full fat greek yogurt": "/misc/dairy#yogurt-whole-milk",
+  "full fat greek yogurt": "/misc/dairy#yogurt-whole-milk",
   "kefir": "/misc/dairy#kefir",
-  "skim milks": "/misc/dairy#skim-milk",
   "skim milk": "/misc/dairy#skim-milk",
   "milk": "/misc/dairy#skim-milk",
-  "whole milks": "/misc/dairy#whole-milk",
   "whole milk": "/misc/dairy#whole-milk",
-  "mozzarella cheeses": "/misc/dairy#mozzarella",
+  "shredded mozzarella cheese": "/misc/dairy#mozzarella",
   "mozzarella cheese": "/misc/dairy#mozzarella",
   "mozzarella": "/misc/dairy#mozzarella",
-  "parmesan cheeses": "/misc/dairy#grated-cheese",
   "parmesan cheese": "/misc/dairy#grated-cheese",
-  "grated cheeses": "/misc/dairy#grated-cheese",
   "grated cheese": "/misc/dairy#grated-cheese",
   "parmesan": "/misc/dairy#grated-cheese",
-  "swiss cheeses": "/misc/dairy#swiss-cheese",
   "swiss cheese": "/misc/dairy#swiss-cheese",
   "swiss": "/misc/dairy#swiss-cheese",
-  "whey protein powders": "/misc/dairy#whey",
   "whey protein powder": "/misc/dairy#whey",
-  "whey proteins": "/misc/dairy#whey",
   "whey protein": "/misc/dairy#whey",
   "whey": "/misc/dairy#whey",
 
-    # FISH
+  # FISH
+  "canned anchovies": "/misc/fish#anchovy",
   "anchovies": "/misc/fish#anchovy",
   "anchovy": "/misc/fish#anchovy",
   "clams": "/misc/fish#clam",
   "clam": "/misc/fish#clam",
   "cod": "/misc/fish#cod",
   "crabs": "/misc/fish#crab",
+  "canned crab": "/misc/fish#crab",
   "crab": "/misc/fish#crab",
   "cuttlefish": "/misc/fish#cuttlefish",
   "haddock": "/misc/fish#haddock",
@@ -136,7 +125,9 @@ LINKS = {
   "octopi": "/misc/fish#octopus",
   "oysters": "/misc/fish#oyster",
   "oyster": "/misc/fish#oyster",
+  "canned salmon": "/misc/fish#salmon",
   "salmon": "/misc/fish#salmon",
+  "canned sardines": "/misc/fish#sardine",
   "sardines": "/misc/fish#sardine",
   "sardine": "/misc/fish#sardine",
   "scallops": "/misc/fish#scallop",
@@ -145,9 +136,12 @@ LINKS = {
   "squid": "/misc/fish#squid",
   "tilapia": "/misc/fish#tilapia",
   "trout": "/misc/fish#trout",
+  "canned tuna": "/misc/fish#tuna",
   "tuna": "/misc/fish#tuna",
 
   # FRUIT
+  "unsweetened applesauce": "/misc/fruit#apple",
+  "applesauce": "/misc/fruit#apple",
   "apples": "/misc/fruit#apple",
   "apple": "/misc/fruit#apple",
   "apricots": "/misc/fruit#apricot",
@@ -617,25 +611,31 @@ def normalize(text):
     return text.replace("\r\n", "\n").strip() + "\n"
 
 def auto_link_safe(text, links):
-    """
-    Auto-link exact words/phrases in text while skipping existing <a> tags.
-    Does not touch newly inserted links.
-    """
-    import re
+    # Protect existing <a> tags
+    text, protected = protect_blocks(
+        text,
+        r'<a\s+[^>]*>.*?</a>',
+        'A',
+        flags=re.IGNORECASE | re.DOTALL
+    )
 
-    # Sort keys by length descending so longer phrases match first
-    sorted_keys = sorted(links.keys(), key=len, reverse=True)
+    # Sort keys longest → shortest
+    keys = sorted(links.keys(), key=len, reverse=True)
 
-    # Protect existing <a> tags only once
-    text, protected = protect_blocks(text, r'<a\s+[^>]*>.*?</a>', 'A', flags=re.IGNORECASE | re.DOTALL)
+    # Build one alternation regex
+    pattern = re.compile(
+        r'\b(' + '|'.join(re.escape(k) for k in keys) + r')\b',
+        re.IGNORECASE
+    )
 
-    for key in sorted_keys:
-        url = links[key]
-        # Match whole words or phrases, allow hyphens
-        pattern = re.compile(rf"(?<!\w){re.escape(key)}(?!\w)", re.IGNORECASE)
-        text = pattern.sub(lambda m: f"<a href='{url}'>{m.group(0)}</a>", text)
+    def replacer(match):
+        key = match.group(0).lower()
+        url = links.get(key)
+        return f"<a href='{url}'>{match.group(0)}</a>" if url else match.group(0)
 
-    # Restore original links
+    text = pattern.sub(replacer, text)
+
+    # Restore protected <a> tags
     text = restore_blocks(text, protected, 'A')
     return text
 
