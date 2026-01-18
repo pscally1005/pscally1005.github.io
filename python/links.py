@@ -807,7 +807,7 @@ os.system('cls')
 count = 0
 for root, _, files in os.walk(POSTS_DIR):
     for file in files:
-        if not file.startswith("2025"):
+        if not file.startswith("2024"):
             continue
         if file.endswith((".md", ".html", ".markdown")):
             path = os.path.join(root, file)
