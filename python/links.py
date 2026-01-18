@@ -292,9 +292,9 @@ LINKS = {
   "venison": "/misc/meat#venison",
 
   # NUTS
-  "almonds": "/misc/nuts#almonds",
   "almond butter": "/misc/nuts#almond-butter",
   "almond flour": "/misc/nuts#almonds",
+  "almonds": "/misc/nuts#almonds",
   "almond": "/misc/nuts#almonds",
   "brazil nuts": "/misc/nuts#brazil-nuts",
   "brazil nut": "/misc/nuts#brazil-nuts",
@@ -408,6 +408,7 @@ LINKS = {
   "radishes": "/misc/veggies#radish",
   "radish": "/misc/veggies#radish",
   "spaghetti squash": "/misc/veggies#spaghetti-squash",
+  "frozen spinach": "/misc/veggies#spinach-fresh",
   "spinach": "/misc/veggies#spinach-fresh",
   "sweet potatoes": "/misc/veggies#sweet-potato",
   "sweet potato": "/misc/veggies#sweet-potato",
@@ -543,11 +544,13 @@ LINKS = {
   "prebiotic": "/misc/biotics",
   "probiotic": "/misc/biotics",
   "postbiotic": "/misc/biotics",
+  "salsa": "/recipes/salsa",
 
   # RECIPE CATEGORIES
   "beans": "/recipes/beans",
   "bean": "/recipes/beans",
   "dairy": "/recipes/dairy",
+  "cheese": "/recipes/dairy",
   "fish": "/recipes/fish",
   "seafood": "/recipes/fish",
   "fruits": "/recipes/fruit",
@@ -615,7 +618,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "cookie sheets",
     "cookie sheet",
+    "bread pans",
     "bread pan",
     "banana bread",
     "garlic powder",
@@ -624,55 +629,105 @@ EXCLUDED_PHRASES = [
 ]
 
 # -------------------------------------------------------------
+# Helpers for Liquid and &emsp;
+# -------------------------------------------------------------
+def extract_liquid_blocks(text):
+    blocks = []
+    clean = []
+    last = 0
+    for match in re.finditer(r"{%.*?%}", text, flags=re.DOTALL):
+        start, end = match.span()
+        clean.append(text[last:start])
+        blocks.append(match.group(0))
+        clean.append(f"__LIQUID_{len(blocks)-1}__")
+        last = end
+    clean.append(text[last:])
+    return "".join(clean), blocks
+
+def restore_liquid_blocks(text, blocks):
+    for i, block in enumerate(blocks):
+        text = text.replace(f"__LIQUID_{i}__", block)
+    return text
+
+def protect_emsp(text):
+    emsp_blocks = {}
+    def replacer(m):
+        key = f"__EMSP_{len(emsp_blocks)}__"
+        emsp_blocks[key] = m.group(0)
+        return key
+    protected = re.sub(r"&emsp;", replacer, text)
+    return protected, emsp_blocks
+
+def restore_emsp(text, emsp_blocks):
+    for key, val in emsp_blocks.items():
+        text = text.replace(key, val)
+    return text
+
+# -------------------------------------------------------------
 # Auto-link function
 # -------------------------------------------------------------
 def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
-    """
-    Auto-link plain text in HTML, leaving existing <a> and <img> tags untouched.
-    Preserves blank lines exactly.
-    """
-    # Placeholder for double blank lines so they aren’t lost
-    placeholder = "__BS_BLANK_LINE__"
-    html = html.replace("\n\n", f"\n{placeholder}\n")
+    # Protect Liquid and &emsp;
+    html, liquid_blocks = extract_liquid_blocks(html)
+    html, emsp_blocks = protect_emsp(html)
 
     soup = BeautifulSoup(html, "html.parser")
-    exclude_phrases = exclude_phrases or []
+    exclude_phrases = [p.lower() for p in (exclude_phrases or [])]
 
+    # Prepare link keys
     keys = sorted(links.keys(), key=len, reverse=True)
-    if exclude_phrases:
-        keys = [k for k in keys if k.lower() not in [p.lower() for p in exclude_phrases]]
+    if not keys:
+        return restore_emsp(html, emsp_blocks)
 
-    pattern = re.compile(r'\b(' + '|'.join(map(re.escape, keys)) + r')\b', re.IGNORECASE)
+    pattern = re.compile(
+        r'(' + '|'.join(map(re.escape, keys)) + r')',
+        re.IGNORECASE
+    )
+
+    # Helper: check if match overlaps any excluded phrase in the text
+    def is_excluded(text, start, end):
+        # Look a little before and after to catch phrases
+        context_window = 20  # adjust if needed
+        snippet_start = max(0, start - context_window)
+        snippet_end = min(len(text), end + context_window)
+        snippet = text[snippet_start:snippet_end].lower()
+        return any(phrase.lower() in snippet for phrase in exclude_phrases)
 
     def process_node(node):
         if isinstance(node, NavigableString):
-            if node.parent.name == "a":  # skip existing links
+            if node.parent.name in ("a", "script", "style"):
                 return
             text = str(node)
-            last_idx = 0
+            last = 0
             fragments = []
-            for match in pattern.finditer(text):
-                start, end = match.span()
-                key = match.group(0).lower()
+            for m in pattern.finditer(text):
+                start, end = m.span()
+                key = m.group(0).lower()
                 url = links.get(key)
-                if start > last_idx:
-                    fragments.append(text[last_idx:start])
+
+                # Skip linking if it overlaps an excluded phrase
+                if is_excluded(text, start, end):
+                    continue
+
+                if start > last:
+                    fragments.append(text[last:start])
                 if url:
-                    a_tag = soup.new_tag("a")
-                    a_tag['href'] = url
-                    a_tag.string = match.group(0)
-                    fragments.append(a_tag)
+                    tag = soup.new_tag("a", href=url)
+                    tag.string = m.group(0)
+                    fragments.append(tag)
                 else:
-                    fragments.append(match.group(0))
-                last_idx = end
-            if last_idx < len(text):
-                fragments.append(text[last_idx:])
-            for frag in fragments[::-1]:
-                if isinstance(frag, str):
-                    node.insert_after(NavigableString(frag))
-                else:
-                    node.insert_after(frag)
+                    fragments.append(m.group(0))
+                last = end
+
+            if last < len(text):
+                fragments.append(text[last:])
+
+            for frag in reversed(fragments):
+                node.insert_after(
+                    NavigableString(frag) if isinstance(frag, str) else frag
+                )
             node.extract()
+
         elif node.name != "a":
             for child in list(node.contents):
                 process_node(child)
@@ -680,68 +735,53 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
     for child in list(soup.contents):
         process_node(child)
 
-    # Rebuild HTML exactly as-is (no prettifying, no extra newlines)
-    html_str = "".join(str(c) for c in soup.contents)
-    # Restore single quotes
-    html_str = re.sub(r'href="([^"]+)"', r"href='\1'", html_str)
-    # Restore blank lines
-    html_str = html_str.replace(placeholder, "")
+    html = "".join(str(c) for c in soup.contents)
+    html = re.sub(r'href="([^"]+)"', r"href='\1'", html)
+    html = html.replace("<br/>", "<br>")
 
-    return html_str
+    # Restore emsp and Liquid
+    html = restore_emsp(html, emsp_blocks)
+    html = restore_liquid_blocks(html, liquid_blocks)
+
+    return html
 
 # -------------------------------------------------------------
-# Process front matter
+# Process front matter and body
 # -------------------------------------------------------------
-def process_front_matter(front_matter, links, exclude_phrases=None):
-    """
-    Replace only Description in front matter (Instructions can be added back later).
-    Keep existing blank lines, do not add any extra blank lines.
-    """
-    lines = front_matter.splitlines(keepends=True)
+def process_front_matter(text, links, exclude_phrases=None):
+    lines = text.splitlines(keepends=True)
     output = []
-    i = 0
+    front_matter_delims_seen = 0
+    in_front_matter = False
+    body_buffer = []
 
-    while i < len(lines):
-        line = lines[i]
-
-        # Description
-        if line.startswith("Description:"):
-            key, value = line.split(":", 1)
-            value = auto_link_html_safe_single_quotes(value, links, exclude_phrases)
-            # remove trailing spaces/newlines from processed value
-            value = value.rstrip()
-            output.append(f"{key}:{value}\n")
-            i += 1
-            continue
-
-        # Instructions (optional, uncomment if needed)
-        if line.startswith("Instructions:"):
+    for line in lines:
+        if line.strip() == "---" and front_matter_delims_seen < 2:
+            front_matter_delims_seen += 1
+            in_front_matter = front_matter_delims_seen == 1
             output.append(line)
-            i += 1
-            while i < len(lines):
-                bullet = lines[i]
-                if bullet.strip() == "":
-                    output.append(bullet)
-                    i += 1
-                    continue
-                if "<img " in bullet or "<a " in bullet or "<center" in bullet:
-                    output.append(bullet)
-                    i += 1
-                    continue
-                if bullet.lstrip().startswith("-"):
-                    bullet_text = auto_link_html_safe_single_quotes(bullet, links, exclude_phrases)
-                    output.append(bullet_text)  # keep original newline
-                    i += 1
-                else:
-                    break
             continue
 
-        # All other lines unchanged
-        output.append(line)
-        i += 1
+        if in_front_matter:
+            if line.startswith("Description:"):
+                key, value = line.split(":", 1)
+                value = auto_link_html_safe_single_quotes(value, links, exclude_phrases).rstrip()
+                output.append(f"{key}:{value}\n")
+            else:
+                output.append(line)
+        else:
+            body_buffer.append(line)
+
+    # Auto-link the body once
+    if body_buffer:
+        body = "".join(body_buffer)
+        body = auto_link_html_safe_single_quotes(body, links, exclude_phrases)
+        output.append(body)
 
     return "".join(output)
 
+# -------------------------------------------------------------
+# Main processing loop
 # -------------------------------------------------------------
 os.system('cls')
 count = 0
@@ -754,23 +794,19 @@ for root, _, files in os.walk(POSTS_DIR):
             with open(path, "r", encoding="utf-8") as f:
                 content = f.read()
 
-            # Split front matter
-            fm_match = re.match(r"^(---\n.*?\n---\n)", content, re.DOTALL)
-            if fm_match:
-                front_matter = fm_match.group(1)
-                body = content[len(front_matter):]
-            else:
-                front_matter = ""
-                body = content
+            # Remove Liquid once
+            content_no_liquid, liquid_blocks = extract_liquid_blocks(content)
 
-            # Process front matter
-            new_front_matter = process_front_matter(front_matter, LINKS, EXCLUDED_PHRASES)
+            # Process front matter and body
+            new_content = process_front_matter(content_no_liquid, LINKS, EXCLUDED_PHRASES)
 
-            # Overwrite only if changed
-            if new_front_matter != front_matter:
+            # Restore Liquid
+            new_content = restore_liquid_blocks(new_content, liquid_blocks)
+
+            if new_content != content:
                 with open(path, "w", encoding="utf-8") as f:
-                    f.write(new_front_matter + body)
-                print(f"Updated: {path}")
-                count += 1
+                    f.write(new_content)
+                    print(f"Updated: {path}")
+                    count += 1
 
 print(f"Total files updated: {count}")
