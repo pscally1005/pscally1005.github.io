@@ -1,9 +1,9 @@
 import os
 import re
 from html import escape, unescape
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\archive"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\delete"
 
 LINKS = {
 
@@ -466,6 +466,8 @@ LINKS = {
   "vitamin c": "/misc/vitamin-c",
   "added sugar": "/misc/hidden-sugar",
   "hidden sugar": "/misc/hidden-sugar",
+  "sugar free": "/misc/hidden-sugar",
+  "sugar-free": "/misc/hidden-sugar",
   "sugar": "/misc/hidden-sugar",
   "carbohydrates": "/misc/carbs",
   "carbohydrate": "/misc/carbs",
@@ -587,7 +589,9 @@ LINKS = {
 
   # RECIPE TYPES
   "bread": "/recipes/bread",
-  "dough": "/recipes/bread",
+  "buns": "/recipes/bread",
+  "bun": "/recipes/bread",
+  "loaf": "/recipes/bread",
   "breakfast": "/recipes/breakfast",
   "drinks": "/recipes/drink",
   "drink": "/recipes/drink",
@@ -609,135 +613,163 @@ LINKS = {
   "sweet spread": "/recipes/sweet-spreads"
 }
 
-def normalize(text):
-    return text.replace("\r\n", "\n").strip() + "\n"
+EXCLUDED_PHRASES = [
+    "cookie sheet",
+    "bread pan",
+    "banana bread",
+    "garlic powder",
+    "onion powder",
+    "monk fruit"
+]
 
-def auto_link_safe(text, links):
-    # Protect existing <a> tags
-    text, protected = protect_blocks(
-        text,
-        r'<a\s+[^>]*>.*?</a>',
-        'A',
-        flags=re.IGNORECASE | re.DOTALL
-    )
+# -------------------------------------------------------------
+# Auto-link function
+# -------------------------------------------------------------
+def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
+    """
+    Auto-link plain text in HTML, leaving existing <a> and <img> tags untouched.
+    Preserves blank lines exactly.
+    """
+    # Placeholder for double blank lines so they aren’t lost
+    placeholder = "__BS_BLANK_LINE__"
+    html = html.replace("\n\n", f"\n{placeholder}\n")
 
-    # Sort keys longest → shortest
+    soup = BeautifulSoup(html, "html.parser")
+    exclude_phrases = exclude_phrases or []
+
     keys = sorted(links.keys(), key=len, reverse=True)
+    if exclude_phrases:
+        keys = [k for k in keys if k.lower() not in [p.lower() for p in exclude_phrases]]
 
-    # Build one alternation regex
-    pattern = re.compile(
-        r'\b(' + '|'.join(re.escape(k) for k in keys) + r')\b',
-        re.IGNORECASE
-    )
+    pattern = re.compile(r'\b(' + '|'.join(map(re.escape, keys)) + r')\b', re.IGNORECASE)
 
-    def replacer(match):
-        key = match.group(0).lower()
-        url = links.get(key)
-        return f"<a href='{url}'>{match.group(0)}</a>" if url else match.group(0)
+    def process_node(node):
+        if isinstance(node, NavigableString):
+            if node.parent.name == "a":  # skip existing links
+                return
+            text = str(node)
+            last_idx = 0
+            fragments = []
+            for match in pattern.finditer(text):
+                start, end = match.span()
+                key = match.group(0).lower()
+                url = links.get(key)
+                if start > last_idx:
+                    fragments.append(text[last_idx:start])
+                if url:
+                    a_tag = soup.new_tag("a")
+                    a_tag['href'] = url
+                    a_tag.string = match.group(0)
+                    fragments.append(a_tag)
+                else:
+                    fragments.append(match.group(0))
+                last_idx = end
+            if last_idx < len(text):
+                fragments.append(text[last_idx:])
+            for frag in fragments[::-1]:
+                if isinstance(frag, str):
+                    node.insert_after(NavigableString(frag))
+                else:
+                    node.insert_after(frag)
+            node.extract()
+        elif node.name != "a":
+            for child in list(node.contents):
+                process_node(child)
 
-    text = pattern.sub(replacer, text)
+    for child in list(soup.contents):
+        process_node(child)
 
-    # Restore protected <a> tags
-    text = restore_blocks(text, protected, 'A')
-    return text
+    # Rebuild HTML exactly as-is (no prettifying, no extra newlines)
+    html_str = "".join(str(c) for c in soup.contents)
+    # Restore single quotes
+    html_str = re.sub(r'href="([^"]+)"', r"href='\1'", html_str)
+    # Restore blank lines
+    html_str = html_str.replace(placeholder, "")
 
-def protect_blocks(text, pattern, token, flags=0):
-    protected = []
+    return html_str
 
-    def replacer(match):
-        protected.append(match.group(0))
-        return f"__{token}_{len(protected)-1}__"
-
-    text = re.sub(pattern, replacer, text, flags=flags)
-    return text, protected
-
-def restore_blocks(text, protected, token):
-    for i, block in enumerate(protected):
-        text = text.replace(f"__{token}_{i}__", block)
-    return text
-
-def process_front_matter(front_matter):
-    lines = front_matter.splitlines()
+# -------------------------------------------------------------
+# Process front matter
+# -------------------------------------------------------------
+def process_front_matter(front_matter, links, exclude_phrases=None):
+    """
+    Replace only Description in front matter (Instructions can be added back later).
+    Keep existing blank lines, do not add any extra blank lines.
+    """
+    lines = front_matter.splitlines(keepends=True)
     output = []
-
     i = 0
+
     while i < len(lines):
         line = lines[i]
 
+        # Description
         if line.startswith("Description:"):
             key, value = line.split(":", 1)
-
-            value, protected = protect_blocks(
-                value,
-                r'<a\s+[^>]*>.*?</a>',
-                'A',
-                flags=re.IGNORECASE | re.DOTALL
-            )
-
-            value = auto_link_safe(value, LINKS)
-            value = restore_blocks(value, protected, 'A')
-            linked = value
-
-            output.append(f"{key}:{linked}")
+            value = auto_link_html_safe_single_quotes(value, links, exclude_phrases)
+            # remove trailing spaces/newlines from processed value
+            value = value.rstrip()
+            output.append(f"{key}:{value}\n")
             i += 1
             continue
 
+        # Instructions (optional, uncomment if needed)
         if line.startswith("Instructions:"):
             output.append(line)
             i += 1
-            while i < len(lines) and lines[i].lstrip().startswith("-"):
-                output.append(auto_link_safe(lines[i], LINKS))
-                i += 1
+            while i < len(lines):
+                bullet = lines[i]
+                if bullet.strip() == "":
+                    output.append(bullet)
+                    i += 1
+                    continue
+                if "<img " in bullet or "<a " in bullet or "<center" in bullet:
+                    output.append(bullet)
+                    i += 1
+                    continue
+                if bullet.lstrip().startswith("-"):
+                    bullet_text = auto_link_html_safe_single_quotes(bullet, links, exclude_phrases)
+                    output.append(bullet_text)  # keep original newline
+                    i += 1
+                else:
+                    break
             continue
 
+        # All other lines unchanged
         output.append(line)
         i += 1
 
-    return "\n".join(output) + "\n"
+    return "".join(output)
 
-def split_front_matter(text):
-    if text.startswith("---"):
-        delim_indices = [m.start() for m in re.finditer(r'^---\s*$', text, re.MULTILINE)]
-        if len(delim_indices) >= 2:
-            start = delim_indices[0] + 4
-            end = delim_indices[1]
-            front_matter = text[:end].rstrip("\n") + "\n"
-            body = text[end + 4:]
-            return front_matter, body
-    return "", text
-
-def process_file(path):
-    with open(path, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    front_matter, body = split_front_matter(content)
-
-    if front_matter:
-        fm_body_text = front_matter.strip("-\n")
-        fm_body_text = process_front_matter(fm_body_text)
-        front_matter = "---\n" + fm_body_text.strip("\n") + "\n---\n"
-
-    body, code_blocks = protect_blocks(body, r"```[\s\S]*?```", "CODE")
-    body, inline_code = protect_blocks(body, r"`[^`]*`", "INLINE")
-    body, quotes = protect_blocks(body, r"(['\"])(?:\\.|(?!\1).)*\1", "QUOTE")
-    body, bullets = protect_blocks(body, r"(?m)^(?:\s*(?:[-*+]|[0-9]+\.)\s+.*$)", "BULLET", flags=re.MULTILINE)
-
-    body = auto_link_safe(body, LINKS)
-
-    body = restore_blocks(body, bullets, "BULLET")
-    body = restore_blocks(body, quotes, "QUOTE")
-    body = restore_blocks(body, inline_code, "INLINE")
-    body = restore_blocks(body, code_blocks, "CODE")
-
-    new_content = front_matter + body
-
-    if normalize(new_content) != normalize(content):
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(new_content)
-        print(f"Updated: {path}")
-
+# -------------------------------------------------------------
 os.system('cls')
+count = 0
 for root, _, files in os.walk(POSTS_DIR):
     for file in files:
+        if not file.startswith("2026"):
+            continue
         if file.endswith((".md", ".html", ".markdown")):
-            process_file(os.path.join(root, file))
+            path = os.path.join(root, file)
+            with open(path, "r", encoding="utf-8") as f:
+                content = f.read()
+
+            # Split front matter
+            fm_match = re.match(r"^(---\n.*?\n---\n)", content, re.DOTALL)
+            if fm_match:
+                front_matter = fm_match.group(1)
+                body = content[len(front_matter):]
+            else:
+                front_matter = ""
+                body = content
+
+            # Process front matter
+            new_front_matter = process_front_matter(front_matter, LINKS, EXCLUDED_PHRASES)
+
+            # Overwrite only if changed
+            if new_front_matter != front_matter:
+                with open(path, "w", encoding="utf-8") as f:
+                    f.write(new_front_matter + body)
+                print(f"Updated: {path}")
+                count += 1
+
+print(f"Total files updated: {count}")
