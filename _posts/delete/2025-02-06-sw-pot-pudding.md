@@ -52,7 +52,7 @@ tags:
 - sugar free
 - gluten free
 - liquid monk fruit
-Description: Single serving healthy vegan pudding!  The combination of <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> and liquid monk fruit makes this chocolate pudding very sweet without the need for <a href='/misc/hidden-sugar'>added sugar</a>, and it provides healthy <a href='/misc/fats'>fats</a> and <a href='/misc/fiber'>fiber</a> from the ground <a href='/misc/seeds#flax-seeds'>flaxseed</a>.  From a quick snack to an easy dessert, this sweet potato pudding is bound to curb any cravings.  For a high <a href='/misc/protein'>protein</a> pudding with <a href='/misc/dairy#yogurt'>Greek yogurt</a>, check out my <a href='/recipes/protein-pudding'>Chocolate Protein Pudding</a>
+Description: Single serving healthy vegan pudding!  The combination of <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> and liquid monk fruit makes this chocolate pudding very sweet without the need for <a href='/misc/hidden-sugar'>added sugar</a>, and it provides healthy <a href='/misc/fats'>fats</a> and <a href='/misc/fiber'>fiber</a> from the ground <a href='/misc/seeds#flax-seeds'>flaxseed</a>.  From a quick snack to an easy <a href='/recipes/healthier-dessert'>dessert</a>, this <a href='/misc/veggies#sweet-potato'>sweet potato</a> pudding is bound to curb any cravings.  For a high <a href='/misc/protein'>protein</a> pudding with <a href='/misc/dairy#yogurt'>Greek yogurt</a>, check out my <a href='/recipes/protein-pudding'>Chocolate Protein Pudding</a>
 Instructions: 
 - Mix together all ingredients until smooth in a small bowl. 
  Thin out with either water, unsweetened vanilla almond milk, or skim milk until desired consistency. Let chill in the fridge for at least 20 minutes before eating

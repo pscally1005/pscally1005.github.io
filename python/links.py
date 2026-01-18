@@ -424,6 +424,18 @@ LINKS = {
   "zucchini": "/misc/veggies#zucchini",
 
   # NUTRIENTS (ABC)
+  "micronutrients": "/misc/nutrient-alphabet",
+  "micronutrient": "/misc/nutrient-alphabet",
+  "micro nutrients": "/misc/nutrient-alphabet",
+  "micro nutrient": "/misc/nutrient-alphabet",
+  "nutrients": "/misc/nutrient-alphabet",
+  "nutrient": "/misc/nutrient-alphabet",
+  "vitamins and minerals": "/misc/nutrient-alphabet",
+  "vitamins & minerals": "/misc/nutrient-alphabet",
+  "vitamins": "/misc/nutrient-alphabet",
+  "vitamin": "/misc/nutrient-alphabet",
+  "minerals": "/misc/nutrient-alphabet",
+  "mineral": "/misc/nutrient-alphabet",
   "vitamin a": "/misc/nutrient-alphabet#A",
   "beta carotene": "/misc/nutrient-alphabet#A",
   "beta-carotene": "/misc/nutrient-alphabet#A",
@@ -471,6 +483,7 @@ LINKS = {
   "sugar free": "/misc/hidden-sugar",
   "sugar-free": "/misc/hidden-sugar",
   "sugar": "/misc/hidden-sugar",
+  "natural sweetness": "/misc/carbs",
   "carbohydrates": "/misc/carbs",
   "carbohydrate": "/misc/carbs",
   "low carb": "/misc/carbs",
@@ -625,7 +638,14 @@ EXCLUDED_PHRASES = [
     "banana bread",
     "garlic powder",
     "onion powder",
-    "monk fruit"
+    "monk fruit",
+    "nutritional yeast",
+    "minutes",
+    "minute",
+    "non fat",
+    "nonfat",
+    "fat free",
+    "nutrition"
 ]
 
 # -------------------------------------------------------------
@@ -787,7 +807,7 @@ os.system('cls')
 count = 0
 for root, _, files in os.walk(POSTS_DIR):
     for file in files:
-        if not file.startswith("2026"):
+        if not file.startswith("2025"):
             continue
         if file.endswith((".md", ".html", ".markdown")):
             path = os.path.join(root, file)
