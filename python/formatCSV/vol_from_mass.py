@@ -375,7 +375,7 @@ def vol_from_mass(food, mass, vol):
             v = "3 cup"
 
     # Yogurt & cottage cheese
-    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese":
+    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt":
         if mass == "14":
             v = "1 tbsp"
         elif mass == "28":
@@ -396,6 +396,17 @@ def vol_from_mass(food, mass, vol):
             v = "1 3/4 cup"
         elif mass == "454":
             v = "2 cup"
+        elif mass == "680":
+            v = "3 cup"
+        elif mass == "908" or mass == "907" or mass == "906" or mass == "905":
+            v = "4 cup"
+        elif food == "Vanilla Protein Greek Yogurt" and mass == "950":
+            v = "4 cup, 32 oz"
+
+    # Pie crust
+    elif food == "Healthier Graham Cracker Pie Crust" or food == "Healthier Graham Cracker Pie Crust, chocolate":
+        if mass == "255":
+            v = "1 batch, 9 oz"
 
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese":

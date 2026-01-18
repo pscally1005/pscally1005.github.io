@@ -1,0 +1,73 @@
+Nutrient,Amount,Unit,DV
+Calories,145,,
+"Vitamin A, RAE",0,mcg,0 %
+"Carotene, alpha",0,mcg,
+"Carotene, beta",0,mcg,
+"Retinol",0,mcg,
+"Thiamin [Vitamin B1]",0.062,mg,5 %
+"Riboflavin [Vitamin B2]",0.568,mg,44 %
+"Niacin [Vitamin B3]",0.425,mg,3 %
+"Pantothenic acid [Vitamin B5]",0.771,mg,15 %
+"Vitamin B6",0.134,mg,8 %
+"Vitamin B12 [Cobalamin]",1.42,mcg,59 %
+"Folate, DFE [Vitamin B9]",13.68,mcg,3 %
+"Vitamin C [Ascorbic acid]",0,mg,0 %
+"Vitamin D",0,mcg,0 %
+"Vitamin E (alpha-tocopherol)",0.02,mg,0 %
+"Tocopherol, alpha",0.02,mg,
+"Vitamin K",0,mcg,0 %
+"Betaine",1.5,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
+"Choline",34.4,mg,6 %
+"Calcium",208.61,mg,16 %
+"Copper",0.03,mg,3 %
+"Fluoride",0,mcg,
+"Iodine",0,mcg,0 %
+"Iron",0.17,mg,1 %
+"Magnesium",26.3,mg,6 %
+"Manganese",0.023,mg,1 %
+"Phosphorus",285.23,mg,23 %
+"Potassium",274.37,mg,6 %
+"Selenium",18.39,mcg,33 %
+"Sodium",83.38,mg,4 %
+"Zinc",1.14,mg,10 %
+"Protein",20.89,g,42 %
+"Alanine",0.746,g,
+"Arginine",0.719,g,
+"Aspartic acid",0.377,g,
+"Cystine",0.196,g,
+"Cysteine",0.2,g,
+"Glutamic acid",4.352,g,
+"Glycine",0.387,g,
+"Histidine",0.573,g,50 %
+"Hydroxyproline",0,g,
+"Isoleucine",1.089,g,70 %
+"Leucine",2.1,g,61 %
+"Lysine",1.661,g,54 %
+"Methionine",0.577,g,
+"Phenylalanine",0.998,g,
+"Proline",2.247,g,
+"Serine",1.076,g,
+"Threonine",0.892,g,55 %
+"Tryptophan",0.278,g,68 %
+"Tyrosine",0.987,g,
+"Valine",1.341,g,68 %
+"Phenylalanine + Tyrosine",1.985,g,74 %
+"Methionine + Cysteine",0.973,g,63 %
+"Carbohydrate",7.39,g,3 %
+"Fiber",0.02,g,0 %
+"Sugars",6.38,g,
+"Net carbs",7.37,g,
+"Fat",2.816,g,4 %
+"Saturated fatty acids",1.901,g,10 %
+"Monounsaturated fatty acids",0.244,g,
+"Polyunsaturated fatty acids",0.108,g,
+"Docosahexaenoic n-3 acid (DHA)",0,g,
+"Docosapentaenoic n-3 acid (DPA)",0,g,
+"Eicosapentaenoic n-3 acid (EPA)",0,g,
+"Fatty acids, total trans",0.001,g,
+"Cholesterol",16.07,mg,5 %
+"Alcohol, ethyl",1,g,
+"Caffeine",0,mg,
+"Theobromine",0,mg,
+"Water",158.38,g,

@@ -148,6 +148,7 @@ LINKS = {
   "apricot": "/misc/fruit#apricot",
   "avocados": "/misc/fruit#avocado",
   "avocado": "/misc/fruit#avocado",
+  "banana ice cream": "/recipes/nice-cream",
   "bananas": "/misc/fruit#banana",
   "banana": "/misc/fruit#banana",
   "blackberries": "/misc/fruit#blackberry",

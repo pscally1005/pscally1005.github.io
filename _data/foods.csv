@@ -358,6 +358,7 @@ Sugar pumpkin,pumpkin,2.29,764.00,0.00300,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0
 Date Sweetened Ketchup,ketchup-date,1.94,400.00,0.00485,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/ketchup
 Date sweetened ketchup,ketchup-date,1.94,400.00,0.00485,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/ketchup
 "Vanilla Nonfat Greek Yogurt, Sugar Free",vanilla-sf-yogurt,5.48,905.60,0.00605,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,https://amzn.to/43NZ2On
+Vanilla Protein Greek Yogurt,vanilla-sf-yogurt-protein,5.99,760.00,0.00788,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,https://amzn.to/4aZZ7mi
 Quinoa,quinoa,6.22,905.60,0.00687,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Canned salmon,salmon-can,2.00,85.00,0.02353,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3HfjlLU
 Sauerkraut,sauerkraut,3.50,908.00,0.00385,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
@@ -441,3 +442,4 @@ Cream cheese,cream-cheese,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
 Miso,miso,3.99,454.00,0.00879,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/49bU693
 Wild rice,wild-rice,5.29,454.00,0.01165,57,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3N0HFUU
 Empanada/Pierogi Dough,af-empanada-dough,2.90,333.00,0.00871,17,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.2,0,/recipes/almond-flour-empanadas
+Cottage cheese flatbread,cc-flatbread-white-psyllium,0.77,45.00,0.01711,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,8.8,0,/recipes/cottage-cheese-flatbread

@@ -304,6 +304,8 @@ def ingredients(food):
         f = "Plain nonfat greek yogurt"
     elif food == "Yogurt, whole milk, plain, Greek":
         f = "Plain whole milk greek yogurt"
+    elif food == "Chobani 20g Protein, Vanilla Yogurt":
+        f = "Vanilla Protein Greek Yogurt"
     elif food == "Buttermilk, low fat (1%)" or food == "Buttermilk, fat free (skim)":
         f = "Buttermilk"
     elif food == "Fat free ultra-filtered milk by FAIRLIFE" or food == "Fairlife Skim Milk":
@@ -576,6 +578,8 @@ def ingredients(food):
     # Carbs
     elif food == "sourdough-starter":
         f = "Sourdough starter"
+    elif food == "cc-flatbread-white-psyllium":
+        f = "Cottage cheese flatbread"
     elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
         f = "Whole wheat tortilla"
     elif food == "Bread, whole wheat" or food == "ww-bread":

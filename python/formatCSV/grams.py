@@ -364,6 +364,9 @@ def grams(food, mass, vol):
         elif vol == "4 tbsp":
             m = "32"
 
+    elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread":
+        if vol == "1 medium" or vol == "1 serving":
+            m = "45"
 
     # Coconut oil
     elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Unsalted butter" or food == "Salted butter":
@@ -373,6 +376,8 @@ def grams(food, mass, vol):
             m = "5"
         elif vol == "1/2 tbsp":
             m = "7"
+        elif vol == "2 tsp":
+            m = "9"
         elif vol == "1 tbsp":
             m = "14"
         elif vol == "2 tbsp":
@@ -431,7 +436,7 @@ def grams(food, mass, vol):
             m = "333"
 
     # Yogurt & cottage cheese
-    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese":
+    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt":
         if vol == "1 tbsp":
             m = "14"
         elif vol == "2 tbsp":
@@ -456,6 +461,12 @@ def grams(food, mass, vol):
             m = "681"
         elif vol == "4 cup":
             m = "908"
+        elif food == "Vanilla Protein Greek Yogurt" and vol == "1 container":
+            m = "950"
+
+    elif food == "Healthier Graham Cracker Pie Crust" or food == "Healthier Graham Cracker Pie Crust, chocolate":
+        if vol == "12 serving":
+            m = "255"
 
     # Cashew ricotta
     elif food == "Dairy Free Cashew Ricotta Cheese":
