@@ -60,7 +60,7 @@ Description: This isn't my first venture into cornbread. I've previously made my
 Instructions:
 - Preheat your oven to 400F, and line a 9" square baking pan with parchment paper
 
-- In a large bowl, whisk together the dry ingredients - cornmeal, almond flour, nutritional yeast, paprika, baking powder, cumin, oregano, thyme, salt, pepper, baking soda, and cayenne
+- In a large bowl, whisk together the dry ingredients - cornmeal, almond flour, nutritional yeast, paprika, baking powder, cumin, oregano, thyme, salt, black pepper, baking soda, and cayenne
 
 - Add the wet ingredients to the bowl (water, applesauce, and apple cider vinegar) and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until smooth
 - <center><img src='/assets/Food/Sides/Vegan Cornbread/bowl.jpg' alt='' class='instruction-image'></center>

@@ -249,6 +249,7 @@ LINKS = {
   "vital wheat gluten": "/misc/grains#vital-wheat-gluten",
   "white flour": "/misc/grains#white-wheat",
   "all purpose flour": "/misc/grains#white-wheat",
+  "flour": "/misc/grains#white-wheat",
   "white pasta": "/misc/grains#pasta-white",
   "white rice": "/misc/grains#white-rice",
   "whole wheat flour": "/misc/grains#whole-wheat",
@@ -305,6 +306,8 @@ LINKS = {
   "chestnut": "/misc/nuts#chestnuts",
   "coconut flakes": "/misc/nuts#coconut",
   "coconut flour": "/misc/nuts#coconut",
+  "coconut butter": "/misc/nuts#coconut",
+  "coconut oil": "/misc/nuts#coconut",
   "coconut": "/misc/nuts#coconut",
   "hazelnuts": "/misc/nuts#hazelnuts",
   "hazelnut": "/misc/nuts#hazelnuts",
@@ -365,6 +368,7 @@ LINKS = {
   "beet": "/misc/veggies#beets",
   "bell peppers": "/misc/veggies#pepper",
   "bell pepper": "/misc/veggies#pepper",
+  "pepper": "/misc/veggies#pepper",
   "bok choy": "/misc/veggies#bok-choy",
   "broccoli": "/misc/veggies#broccoli",
   "brussels sprouts": "/misc/veggies#brussel-sprout",
@@ -558,6 +562,8 @@ LINKS = {
   "probiotic": "/misc/biotics",
   "postbiotic": "/misc/biotics",
   "salsa": "/recipes/salsa",
+  "sugar free syrup": "/misc/sugar-free-syrup",
+  "sugar-free syrup": "/misc/sugar-free-syrup",
 
   # RECIPE CATEGORIES
   "beans": "/recipes/beans",
@@ -582,26 +588,42 @@ LINKS = {
   "veggie": "/recipes/veggies",
 
   # FOOD SECTIONS
+  "hummus recipes": "/hummus",
   "hummus": "/hummus",
+  "oatmeal recipes": "/oatmeal",
   "oatmeal": "/oatmeal",
   "overnight oats": "/oatmeal",
   "yogurt recipes": "/yogurt",
   "morning yogurt": "/yogurt",
   "yogurt bowl": "/yogurt",
   "natural nut butter": "/nut-butter",
+  "nut butter recipes": "/nut-butter",
   "nut butter": "/nut-butter",
+  "pesto recipes": "/pesto",
   "pesto": "/pesto",
+  "soup and stew recipes": "/soup-stew",
+  "soup and stew": "/soup-stew",
+  "soup recipes": "/soup-stew",
   "soup": "/soup-stew",
+  "stew recipes": "/soup-stew",
   "stew": "/soup-stew",
-  "chilli": "/chilli",
+  "chili recipes": "/chili",
+  "chili": "/chili",
+  "salad recipes": "/salad",
   "salads": "/salad",
   "salad": "/salad",
+  "salad dressing recipes": "/dressing",
+  "salad dressings": "/dressing",
   "salad dressing": "/dressing",
+  "dressing recipes": "/dressing",
   "dressing": "/dressing",
   "brownies": "/brownies",
+  "brownie recipes": "/brownies",
   "brownie": "/brownies",
   "cookies": "/cookies",
+  "cookie recipes": "/cookies",
   "cookie": "/cookies",
+  "copycat recipes": "/copycat",
   "copycat": "/copycat",
 
   # RECIPE TYPES
@@ -645,8 +667,31 @@ EXCLUDED_PHRASES = [
     "non fat",
     "nonfat",
     "fat free",
-    "nutrition"
+    "nutrition",
+    "nutritious",
+    "flours",
+    "evaporated milk",
+    "condensed milk",
+    "carrot cake",
+    "breaded"
+    "fryer"
 ]
+
+EXCLUDED_REGEXES = [
+    re.compile(rf"\b{re.escape(p)}\b", re.IGNORECASE)
+    for p in EXCLUDED_PHRASES
+]
+
+def should_skip_linking(text, key_start, key_end):
+    for rx in EXCLUDED_REGEXES:
+        for m in rx.finditer(text):
+            phrase_start, phrase_end = m.span()
+
+            # ONLY skip if the word is actually inside the phrase
+            if key_start >= phrase_start and key_end <= phrase_end:
+                return True
+
+    return False
 
 # -------------------------------------------------------------
 # Helpers for Liquid and &emsp;
@@ -687,65 +732,88 @@ def restore_emsp(text, emsp_blocks):
 # Auto-link function
 # -------------------------------------------------------------
 def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
-    # Protect Liquid and &emsp;
     html, liquid_blocks = extract_liquid_blocks(html)
     html, emsp_blocks = protect_emsp(html)
 
     soup = BeautifulSoup(html, "html.parser")
     exclude_phrases = [p.lower() for p in (exclude_phrases or [])]
 
-    # Prepare link keys
+    # Prepare links sorted by length (longest first)
     keys = sorted(links.keys(), key=len, reverse=True)
-    if not keys:
-        return restore_emsp(html, emsp_blocks)
+    links_lower = {k.lower(): v for k, v in links.items()}
 
-    pattern = re.compile(
-        r'(' + '|'.join(map(re.escape, keys)) + r')',
-        re.IGNORECASE
-    )
+    # Build regex with named groups for deterministic longest match
+    group_patterns = [
+        f"(?P<L{i}>\\b{re.escape(k)}\\b)"
+        for i, k in enumerate(keys)
+    ]
+    pattern = re.compile("|".join(group_patterns), re.IGNORECASE)
 
-    # Helper: check if match overlaps any excluded phrase in the text
     def is_excluded(text, start, end):
-        # Look a little before and after to catch phrases
-        context_window = 20  # adjust if needed
-        snippet_start = max(0, start - context_window)
-        snippet_end = min(len(text), end + context_window)
-        snippet = text[snippet_start:snippet_end].lower()
-        return any(phrase.lower() in snippet for phrase in exclude_phrases)
+        for phrase in exclude_phrases:
+            phrase_lower = phrase.lower()
+            phrase_start = text.lower().find(phrase_lower)
+            if phrase_start != -1 and start >= phrase_start and end <= phrase_start + len(phrase_lower):
+                return True
+        return False
 
     def process_node(node):
         if isinstance(node, NavigableString):
             if node.parent.name in ("a", "script", "style"):
                 return
+
             text = str(node)
-            last = 0
             fragments = []
+            last = 0
+            last_end = 0
+
             for m in pattern.finditer(text):
                 start, end = m.span()
-                key = m.group(0).lower()
-                url = links.get(key)
+                if start < last_end:
+                    continue  # skip overlaps
 
-                # Skip linking if it overlaps an excluded phrase
-                if is_excluded(text, start, end):
+                group_name = m.lastgroup
+                key_index = int(group_name[1:])  # L{i} -> i
+                key = keys[key_index]
+                url = links_lower.get(key.lower())
+
+                # === HARD RULE: skip butter/flour if previous sibling is a nut/seed/grain link ===
+                if key.lower() in ("butter", "flour", "seeds"):
+                    prev = node.previous_sibling
+                    while prev:
+                        if getattr(prev, "name", None) == "a":
+                            href = prev.get("href", "")
+                            if "nuts" in href or "seeds" in href or "grains" in href:
+                                url = None  # skip linking butter/flour
+                                break
+                        prev = prev.previous_sibling
+
+                    if is_excluded(text, start, end):
+                        continue
+
+                # === HARD RULE: skip ===
+                if should_skip_linking(text, start, end):
+                    url = None  # skip linking
                     continue
 
                 if start > last:
                     fragments.append(text[last:start])
+
                 if url:
                     tag = soup.new_tag("a", href=url)
-                    tag.string = m.group(0)
+                    tag.string = text[start:end]
                     fragments.append(tag)
                 else:
-                    fragments.append(m.group(0))
+                    fragments.append(text[start:end])
+
                 last = end
+                last_end = end
 
             if last < len(text):
                 fragments.append(text[last:])
 
             for frag in reversed(fragments):
-                node.insert_after(
-                    NavigableString(frag) if isinstance(frag, str) else frag
-                )
+                node.insert_after(NavigableString(frag) if isinstance(frag, str) else frag)
             node.extract()
 
         elif node.name != "a":
@@ -759,7 +827,6 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
     html = re.sub(r'href="([^"]+)"', r"href='\1'", html)
     html = html.replace("<br/>", "<br>")
 
-    # Restore emsp and Liquid
     html = restore_emsp(html, emsp_blocks)
     html = restore_liquid_blocks(html, liquid_blocks)
 
@@ -792,7 +859,6 @@ def process_front_matter(text, links, exclude_phrases=None):
         else:
             body_buffer.append(line)
 
-    # Auto-link the body once
     if body_buffer:
         body = "".join(body_buffer)
         body = auto_link_html_safe_single_quotes(body, links, exclude_phrases)
@@ -814,13 +880,8 @@ for root, _, files in os.walk(POSTS_DIR):
             with open(path, "r", encoding="utf-8") as f:
                 content = f.read()
 
-            # Remove Liquid once
             content_no_liquid, liquid_blocks = extract_liquid_blocks(content)
-
-            # Process front matter and body
             new_content = process_front_matter(content_no_liquid, LINKS, EXCLUDED_PHRASES)
-
-            # Restore Liquid
             new_content = restore_liquid_blocks(new_content, liquid_blocks)
 
             if new_content != content:

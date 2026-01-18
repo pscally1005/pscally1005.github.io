@@ -65,7 +65,7 @@ Instructions:
 - Wash your mushrooms, and add to a food processor. Pulse, mix, and repeat until the mushrooms are finely chopped. Don't forget to stop and mix, or they'll be over-blended and watery. I like to use my food processor to finely chop my mushrooms as I don't like the texture of larger pieces, but you can use a knife and cutting board for larger chunks if you desire
 - <center><img src='/assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-mushrooms.jpg' alt='' class='instruction-image'></center>
 
-- Add mushrooms and spinach to your pan with all your spices - chili powder, paprika, garlic powder, onion powder, cumin, pepper, and salt. Mix, cover, and cook over medium heat until the water has cooked out, about 10 minutes
+- Add mushrooms and spinach to your pan with all your spices - chili powder, paprika, garlic powder, onion powder, cumin, black pepper, and salt. Mix, cover, and cook over medium heat until the water has cooked out, about 10 minutes
 - <center><img src='/assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-veggies.jpg' alt='' class='instruction-image'></center>
 
 - Lower the burner to medium low, and take the pan off the heat. Add your eggs and egg whites, and combine together with a wooden spoon

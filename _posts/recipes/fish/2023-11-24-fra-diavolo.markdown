@@ -58,7 +58,7 @@ Description: Fra Diavolo sauce is a Christmas classic for me, and was always ser
 Instructions:
 - In a medium saucepot, saute oil, garlic, and spinach over medium heat for about 5 minutes
 
-- Add in tomatoes and seasonings for the sauce (Italian seasoning, paprika, garlic and onion powder, salt, pepper, and red pepper flakes).  Mix, reduce heat to medium low, and simmer for 1 hour, uncovered
+- Add in tomatoes and seasonings for the sauce (Italian seasoning, paprika, garlic and onion powder, salt, black pepper, and red pepper flakes).  Mix, reduce heat to medium low, and simmer for 1 hour, uncovered
 
 - The shrimp will take just a few minutes to cook, so start it when the sauce is almost done. Heat garlic and oil in a large nonstick pan over medium heat
 

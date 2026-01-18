@@ -53,7 +53,7 @@ tags:
 - vic
 Description: I've never been a big fan of <a href='/misc/meat#pork-tenderloin'>pork</a>, but I've been wanting to give it a try, and I found some on sale a few days ago. <a href='/misc/meat#pork-tenderloin'>Pork tenderloin</a> is a very lean but still juicy cut of <a href='/misc/meat'>meat</a>, as long as you cook it properly. It's also fairly cheap too, this was only $2.69 for 1 lb. I've paired this with a side of <a href='/recipes/baked-sweet-potato'>Baked Sweet Potatoes</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>, but feel free to throw it together with whatever you have in your fridge
 Instructions:
-- Trim any excess fat off the side of the meat, and cut into 4 pieces. Light season all sides with salt, pepper, and garlic
+- Trim any excess fat off the side of the meat, and cut into 4 pieces. Light season all sides with salt, black pepper, and garlic
 
 - Preheat a pan over medium high heat with a spray of oil. Cook for 1.5-2 minutes before flipping the meat. The goal here is to brown all 4 sides, not to cook the meat through. Use tongs to flip the meat and brown all the sides, and then remove from the heat
 

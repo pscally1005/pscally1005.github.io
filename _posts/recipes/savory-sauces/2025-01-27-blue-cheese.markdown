@@ -58,7 +58,7 @@ tags:
 - salad dressing
 Description: This healthy blue cheese dressing uses <a href='/misc/beans#cannellini-beans'>cannellini</a> beans as a base instead of soybean oil or mayo, making it more like a blue cheese hummus. The beans provide <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, and avoid all the unnecessary, unhealthy ingredients like seed oils, <a href='/misc/hidden-sugar'>added sugar</a>, gums, emulsifiers, and artificial flavors.  All the funk, without the junk!  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
 Instructions:
-- Drain and rinse a can of beans in a strainer, and add to a food processor. Add in the rest of the ingredients (lemon juice, evoo, salt, pepper, and blue cheese), and blend until smooth
+- Drain and rinse a can of beans in a strainer, and add to a food processor. Add in the rest of the ingredients (lemon juice, evoo, salt, black pepper, and blue cheese), and blend until smooth
 
 - I'm using cannellini beans here, but any light colored beans will work, like navy, pinto, or garbanzo (chickpeas)
 

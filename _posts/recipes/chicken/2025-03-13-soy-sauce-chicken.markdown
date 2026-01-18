@@ -52,11 +52,11 @@ Description: This big plate of food (minus the <a href='/misc/grains#brown-rice'
 Instructions:
 - Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 
-- Quarter your brussel sprouts (or just half them if they're small), and add to a large bowl. Season with soy sauce, lemon juice, oil, pepper, paprika, chili powder, garlic powder, and onion powder.  Optionally, you can marinate the veggies in the bowl for at least an hour in the fridge.  Transfer to one of your pans
+- Quarter your brussel sprouts (or just half them if they're small), and add to a large bowl. Season with soy sauce, lemon juice, oil, black pepper, paprika, chili powder, garlic powder, and onion powder.  Optionally, you can marinate the veggies in the bowl for at least an hour in the fridge.  Transfer to one of your pans
 
 - Roast the brussel sprouts for about 30 minutes at 400F, or until tender and browned
 
-- Meanwhile, cut your chicken into thin slices. Pound to an even thickness with a meat mallet. Add to a large bowl, and season with soy sauce, lemon juice, oil, pepper, paprika, chili powder, garlic powder, and onion powder. Optionally, you can marinate the chicken in the bowl for at least an hour in the fridge.  Transfer to the other pan
+- Meanwhile, cut your chicken into thin slices. Pound to an even thickness with a meat mallet. Add to a large bowl, and season with soy sauce, lemon juice, oil, black pepper, paprika, chili powder, garlic powder, and onion powder. Optionally, you can marinate the chicken in the bowl for at least an hour in the fridge.  Transfer to the other pan
 
 - Roast the chicken for about 15 minutes at 400F, or until the internal temperature just reaches 165F
 ---

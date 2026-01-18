@@ -54,7 +54,7 @@ Description: Recently, there's been a new viral recipe:<b></b> Hot Honey Beef Bo
 Instructions:
 - Preheat your oven to 400F, and line a baking sheet with parchment paper
 
-- Wash your sweet potatoes, and cut into a medium dice (don't peel them!). Season with oil, paprika, pepper, and salt. Add to a glass bowl, cover with a plate, and microwave for 5 minutes. This will speed up the roasting time
+- Wash your sweet potatoes, and cut into a medium dice (don't peel them!). Season with oil, paprika, black pepper, and salt. Add to a glass bowl, cover with a plate, and microwave for 5 minutes. This will speed up the roasting time
 
 - Transfer the potatoes to your baking sheet. Roast for about 30 minutes, or until soft and lightly browned. You can also air fry at 400F for 15-20 minutes if you're making a smaller batch
 - <center><img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/sw-pot.jpg' alt='' class='instruction-image'></center>

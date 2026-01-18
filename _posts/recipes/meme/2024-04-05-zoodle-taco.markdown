@@ -53,7 +53,7 @@ tags:
 - diced tomatoes
 Description: Anyone else remember spaghetti tacos from iCarly and desperately want to try them? I wanted to make it a complete meal, so I've swapped the spaghetti for <a href='/misc/veggies#zucchini'>zoodles</a> (to avoid the double <a href='/misc/carbs'>carb</a> of taco shell and <a href='/misc/grains#pasta-white'>pasta</a>), as well as added <a href='/misc/meat'>meat</a> and more <a href='/misc/veggies'>vegetables</a>. These go great with <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a> or <a href='/recipes/oat-wraps'>Gluten Free Oat Wraps</a>, or even on its own
 Instructions:
-- In a small bowl, mix together the spices for the taco seasoning - chili powder, paprika, cumin, garlic, onion, salt, pepper, and oregano. Set aside
+- In a small bowl, mix together the spices for the taco seasoning - chili powder, paprika, cumin, garlic, onion, salt, black pepper, and oregano. Set aside
 
 - Use a spiralizer to cut your zucchini into zoodles. Add to a large pan with olive oil over medium heat. Season with 1-2 tbsp of your taco seasoning
 

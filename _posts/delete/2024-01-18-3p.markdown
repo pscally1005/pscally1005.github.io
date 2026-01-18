@@ -53,7 +53,7 @@ tags:
 - gluten free
 - PPP
 - 3
-Description: Leave your <a href='/misc/nuts#peanuts'>peanut</a> allergies at the door, because they're not allowed here. I was bored, and wanted to see if I could create something with only <a href='/misc/nuts#peanuts'>peanuts</a> and peanut-like ingredients. Bonus points if you also have peanut oil on hand I guess then. These can serve as little <a href='/misc/fats'>fat</a> and <a href='/misc/protein'>protein</a> balls for a snack, or crumbled into <a href='/yogurt'>yogurt</a>.
+Description: Leave your <a href='/misc/nuts#peanuts'>peanut</a> allergies at the door, because they're not allowed here. I was bored, and wanted to see if I could create something with only <a href='/misc/nuts#peanuts'>peanuts</a> and <a href='/misc/nuts#peanuts'>peanut</a>-like ingredients. Bonus points if you also have <a href='/misc/nuts#peanuts'>peanut</a> oil on hand I guess then. These can serve as little <a href='/misc/fats'>fat</a> and <a href='/misc/protein'>protein</a> balls for a snack, or crumbled into <a href='/yogurt'>yogurt</a>.
 Instructions:
 - Combine peanut butter and powdered peanut butter together in a medium bowl. Using a chopper, chop your nuts, and fold into the dough
 

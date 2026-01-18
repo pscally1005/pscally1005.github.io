@@ -62,7 +62,7 @@ Description: This meatloaf is a little unorthodox, adding a whole pound of chopp
 Instructions:
 - Preheat your oven to 350F. Line 2 bread pans with parchment for the meatloaf, and line a large cookie sheet with parchment for the squash
 
-- Starting with the squash, peel it and slice in half. Scoop out the seeds, and cut into a large dice. Move the squash to a bowl, and season (oil, minced garlic, garlic powder, onion powder, pepper, and salt).  One large butternut squash is the enough
+- Starting with the squash, peel it and slice in half. Scoop out the seeds, and cut into a large dice. Move the squash to a bowl, and season (oil, minced garlic, garlic powder, onion powder, black pepper, and salt).  One large butternut squash is the enough
 
 - Roast at 350F for about 45 minutes
 - <center><img src='/assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-3.jpg' alt='' class='instruction-image'></center>

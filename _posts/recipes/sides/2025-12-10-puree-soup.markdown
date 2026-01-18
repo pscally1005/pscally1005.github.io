@@ -63,7 +63,7 @@ Instructions:
 
 - Wash all your vegetables. Halve the butternut squash, scoop out the seeds, and cut into large chunks. Don't peel the butternut squash! The skin is entirely edible, and contains <a href='/misc/fiber'>fiber</a> and <a href='/misc/phytochemicals'>phytonutrients</a>. It'll all get blended anyway. You can roast the tomatoes, onions, and garlic cloves whole
 
-- Add your veggies to the dish, and season with salt, pepper, and oil
+- Add your veggies to the dish, and season with salt, black pepper, and oil
 - <center><img src='/assets/Food/Sides/Puree Soup/raw.jpg' alt='' class='instruction-image'></center>
 
 - Roast at 425F for about 1 hour, or until fork tender, browned, and light charred. Let cool totally

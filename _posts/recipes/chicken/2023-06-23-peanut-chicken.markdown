@@ -61,11 +61,11 @@ Instructions:
 - Wash and cut the vegetables. Add the onions and carrots to a large pot or pan with oil. Cook over medium heat (covered) with salt until soft
 - <center><img src='/assets/Food/Chicken/Peanut/peanut-1.jpg' alt='' class='instruction-image'></center>
 
-- When the carrots are about half done, add in the coleslaw mix and the rest of the spices for the vegetables (oil, paprika, garlic and onion powder, salt, pepper, and ginger). Mix, cover, and cook to reduce it down
+- When the carrots are about half done, add in the coleslaw mix and the rest of the spices for the vegetables (oil, paprika, garlic and onion powder, salt, black pepper, and ginger). Mix, cover, and cook to reduce it down
 
 - Meanwhile, as the vegetables cook, get started on the chicken. Preheat your oven to 400F, and line a large cookie sheet with parchment paper
 
-- Thinly slice your chicken breast, and add to a large bowl. Mix in the oil and spices (paprika, garlic and onion powder, pepper, salt, and ginger), and transfer to your sheet. Roast for about 12 minutes, or until the chicken just reaches 165F. Let the chicken rest for a few minutes before slicing
+- Thinly slice your chicken breast, and add to a large bowl. Mix in the oil and spices (paprika, garlic and onion powder, black pepper, salt, and ginger), and transfer to your sheet. Roast for about 12 minutes, or until the chicken just reaches 165F. Let the chicken rest for a few minutes before slicing
 
 - As the chicken rests and the vegetables cook, prepare your sauce in a large glass - powdered peanut butter, soy sauce, ACV, water, gochujang, cornstarch, ginger, and sesame oil
 

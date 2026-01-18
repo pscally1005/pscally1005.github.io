@@ -52,7 +52,7 @@ tags:
 - marinate
 Description: <a href='/misc/meat#ground-beef'>Beef</a> and <a href='/misc/veggies#broccoli'>broccoli</a> is a Chinese classic, and making this version at home is what got me to like <a href='/misc/meat#steak'>steak</a> if cooked properly. I saw a small piece of <a href='/misc/meat#steak'>sirloin</a> on sale at the store and wanted to try it out, and I'm very impressed with the results. Sauteed <a href='/misc/meat#ground-beef'>beef</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, and a topping of <a href='/misc/seeds#sesame-seeds'>sesame seeds</a> sounds delicious in my book
 Instructions:
-- Heat your oven to 400F, and line a cookie sheet with parchment paper. Add broccoli to the pan, season with salt, pepper, and oil, and roast for 30 minutes. Do everything else as the broccoli cooks
+- Heat your oven to 400F, and line a cookie sheet with parchment paper. Add broccoli to the pan, season with salt, black pepper, and oil, and roast for 30 minutes. Do everything else as the broccoli cooks
 
 - Take your meat and slice into 1/4-1/2" thick strips against the grain. Add to a bowl of cold water, and massage the meat for 30 seconds. The meat should turn gray, and the water should turn red with myoglobin (not blood). Squeeze and drain the meat with a strainer for about 30 seconds, and add to a medium bowl
 
