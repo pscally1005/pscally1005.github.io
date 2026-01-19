@@ -7,6 +7,14 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\delete"
 
 LINKS = {
 
+  # RECIPES
+  "banana ice cream": "/recipes/nice-cream",
+  "salsa": "/recipes/salsa",
+  "sugar free syrup": "/recipes/sugar-free-syrup",
+  "sugar-free syrup": "/recipes/sugar-free-syrup",
+  "natural peanut butter": "/recipes/natural-peanut-butter",
+  "natural nut butter": "/recipes/natural-peanut-butter",
+
   # BEANS
   "black beans": "/misc/beans#black-beans",
   "black bean": "/misc/beans#black-beans",
@@ -148,7 +156,6 @@ LINKS = {
   "apricot": "/misc/fruit#apricot",
   "avocados": "/misc/fruit#avocado",
   "avocado": "/misc/fruit#avocado",
-  "banana ice cream": "/recipes/nice-cream",
   "bananas": "/misc/fruit#banana",
   "banana": "/misc/fruit#banana",
   "blackberries": "/misc/fruit#blackberry",
@@ -314,7 +321,6 @@ LINKS = {
   "macadamia nuts": "/misc/nuts#macadamia-nuts",
   "macadamia nut butter": "/misc/nuts#macadamia-nuts",
   "macadamia nut": "/misc/nuts#macadamia-nuts",
-  "natural peanut butter": "/misc/nuts#peanut-butter",
   "peanut butter": "/misc/nuts#peanut-butter",
   "peanuts": "/misc/nuts#peanuts",
   "peanut": "/misc/nuts#peanuts",
@@ -561,9 +567,6 @@ LINKS = {
   "prebiotic": "/misc/biotics",
   "probiotic": "/misc/biotics",
   "postbiotic": "/misc/biotics",
-  "salsa": "/recipes/salsa",
-  "sugar free syrup": "/misc/sugar-free-syrup",
-  "sugar-free syrup": "/misc/sugar-free-syrup",
 
   # RECIPE CATEGORIES
   "beans": "/recipes/beans",
@@ -596,7 +599,6 @@ LINKS = {
   "yogurt recipes": "/yogurt",
   "morning yogurt": "/yogurt",
   "yogurt bowl": "/yogurt",
-  "natural nut butter": "/nut-butter",
   "nut butter recipes": "/nut-butter",
   "nut butter": "/nut-butter",
   "pesto recipes": "/pesto",

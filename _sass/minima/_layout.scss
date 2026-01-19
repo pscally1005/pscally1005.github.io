@@ -575,12 +575,23 @@
 }
 
 
-// Images
-// Images in instruction steps
-.instruction-image {
+/* Text steps use normal list styling */
+.recipe-instructions li {
+    margin-bottom: 0.5em; /* consistent spacing between steps */
+}
+
+/* Images: remove numbers and indentation, center them */
+.instruction-image-li {
+  list-style: none;     /* remove number */
+  padding-left: 0;      /* remove indent */
+  text-align: center;   /* center content */
+  margin: 0.5em 0;      /* spacing above/below */
+}
+
+.instruction-image-li img {
   width: 400px;
   object-fit: cover;
-  border-radius: 10px; /* Rounded corners */
+  border-radius: 10px;
 }
 
 // Logo at top of home and page
@@ -618,6 +629,18 @@
   aspect-ratio: 4 / 3; /* Ensures a 4:3 ratio */
   object-fit: cover;
   border-radius: 10px; /* Rounded corners */
+}
+
+@media (max-width: 768px) {
+  .half-page {
+    display: block;
+    width: 100%;
+    margin-bottom: 0.75rem; /* spacing between stacked images */
+  }
+
+  .half-page:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .third-page {
