@@ -75,6 +75,6 @@ Instructions:
 - Pour the batter into your baking pan, and optionally top with some shredded cheese.  Bake at 400F for about 25 minutes, or until a toothpick comes out mostly clean and the internal temperature is around 195F
 
 - Let cool in the pan for 5 minutes before transferring to a wire rack to cool. Slice
-
+Notes:
 - To make a sweet version instead, omit the garlic powder, onion powder, black pepper, chiles, and cheese. Add 2 tbsp (42 g) honey, and 2 tsp (5 g) cinnamon
 ---

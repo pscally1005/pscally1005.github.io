@@ -69,7 +69,7 @@ Instructions:
 - Shape dough into pizzas. Top with sauce, cheese, and toppings. I like to use either my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> or <a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a>, as well as some <a href='/recipes/baked-chicken-thighs'>Spiced Baked Chicken Thighs</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>
 
 - Bake for about 7 minutes, or until the crust and bottom is lightly browned, and the cheese is just bubbly.  Transfer to a wire rack to cool for 5 minutes before cutting into 4 slices
-
+Notes:
 - Every Valentine's Day Vic and I make pizzas together, and she always makes hers into a heart.  Here are some of our past years creations, from 2023 to 2025
 - <center><img src='/assets/Food/Bread/Pizza/2023.jpg' alt='' class='instruction-image'></center>
 - <center><img src='/assets/Food/Bread/Pizza/2024.jpg' alt='' class='instruction-image'></center>

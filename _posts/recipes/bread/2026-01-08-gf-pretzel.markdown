@@ -71,4 +71,5 @@ Instructions:
 - <center><img src='/assets/Food/Bread/GF Pretzel/baked.jpg' alt='' class='instruction-image'></center>
 
 - Store leftovers in an airtight bag in the freezer. Air fry from frozen at 400F for 5 minutes to reheat
+Notes:
 ---

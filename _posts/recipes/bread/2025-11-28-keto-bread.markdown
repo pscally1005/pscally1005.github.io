@@ -75,4 +75,5 @@ Instructions:
 
 - Allow the bread to cool totally in the pan before removing and slicing
 - <center><img src='/assets/Food/Bread/Keto Bread/sliced.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

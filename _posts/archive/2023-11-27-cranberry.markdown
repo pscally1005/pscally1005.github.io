@@ -58,4 +58,5 @@ Instructions:
 - Cut each of the cranberries in half and add to a small bowl. Optionally, drizzle with some honey, and mix
 
 - Dehydrate at 170F for 6-8 hours, flipping every 2 hours. Try to separate as much as possible. I did 6 oz of <a href='/misc/fruit#cranberry'>cranberries</a> in a 6 qt air fryer.  Transfer to a container in the fridge
+Notes:
 ---

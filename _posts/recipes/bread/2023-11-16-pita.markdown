@@ -62,4 +62,5 @@ Instructions:
 - <center><img src='/assets/Food/Bread/Pita/pita-5.jpg' alt='' class='instruction-image'></center>
 
 - Place on wire rack and repeat with the remaining pitas
+Notes:
 ---

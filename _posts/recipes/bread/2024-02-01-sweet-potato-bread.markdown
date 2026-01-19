@@ -57,4 +57,5 @@ Instructions:
 
 - From here, you can proceed on with making the loaf of bread as normal. Since bread making can be quite complicated, I will leave the link to my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a> recipe, which breaks down my steps for a loaf of bread. Note that this dough is a little stickier than I am used to
 - <center><img src='/assets/Food/Bread/Sweet Potato/sweet-potato-3.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

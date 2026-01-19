@@ -68,4 +68,5 @@ Instructions:
 
 - Remove from the oven, and gently slice when totally cooled with a serrated knife. Add parchment paper between each slice, and place in an airtight bag.  Store in the fridge (up to 5 days).  I do not recommend freezing this bread
 - <center><img src='/assets/Food/Bread/Cloud Loaf/cut.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

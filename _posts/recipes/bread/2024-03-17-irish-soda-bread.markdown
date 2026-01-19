@@ -74,4 +74,5 @@ Instructions:
 - Remove from the oven and allow it to cool in the pan for a few minutes. Transfer the bread to a wire rack to cool completely before slicing
 
 - Store any leftovers in an airtight container at room temperature for up to 2-3 days, or freeze for longer storage
+Notes:
 ---

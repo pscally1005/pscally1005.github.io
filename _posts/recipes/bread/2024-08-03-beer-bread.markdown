@@ -67,4 +67,5 @@ Instructions:
 
 - Allow to cool totally in the pan before removing and slicing.  This bread is best served warm, so toast, bake, or air fry for a few minutes at 400F, until done to your liking.  Store any leftover bread in the fridge or freezer
 - <center><img src='/assets/Food/Bread/Beer Bread/beer-bread-unsliced.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

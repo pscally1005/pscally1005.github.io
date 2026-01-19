@@ -68,4 +68,5 @@ Instructions:
 
 - Let cool completely in the fridge on a cooling rack for a few hours before slicing
 - <center><img src='/assets/Food/Bread/Millet Bread/millet-bread-sliced.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

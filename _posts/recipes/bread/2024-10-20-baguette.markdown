@@ -70,4 +70,5 @@ Instructions:
 
 - Put the baguettes into the oven onto the stone (or on the cookie sheet), and fill the bottom tray with hot water.  Bake for 15 minutes, or until the internal temperature is at least 205F, and the bottom sounds hollow when tapped.  Transfer to a wire rack, and let cool for 10 minutes before slicing
 - <center><img src='/assets/Food/Bread/Baguette/baguette-cooled.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

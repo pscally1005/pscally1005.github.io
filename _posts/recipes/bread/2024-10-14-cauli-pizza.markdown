@@ -80,4 +80,5 @@ Instructions:
 - <center><img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-topped.jpg' alt='' class='instruction-image'></center>
 
 - To reheat, air fry at 400F for 3-5 minutes
+Notes:
 ---

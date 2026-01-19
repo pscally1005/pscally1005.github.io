@@ -66,4 +66,5 @@ Instructions:
 - <center><img src='/assets/Food/Bread/Burger Buns/buns-5.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 400F for about 20-22 minutes.  The buns will be golden brown, sound hollow when tapped on the bottom, and register around 205F with an instant thermometer. Let cool slightly before slicing and eating
+Notes:
 ---

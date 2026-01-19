@@ -75,4 +75,5 @@ Instructions:
 
 - You can either bake this in a 500F oven on a preheated pizza stone for about 5-7 minutes, or you can cook it in a pan over medium heat (covered) until the bottom is browned to your liking (about 8 minutes)
 - <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-cooked.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---
