@@ -57,7 +57,7 @@ Description: These healthy chocolate chip cookies use <a href='/misc/fruit#dates
 Instructions:
 - Preheat oven to 350F and line a large cookie sheet with parchment paper
 
-- Blend the dates in a food processor. Blend in nut flour too. You can also use whole nuts (any nuts will do) instead of nut flour too.  I used whole almonds, so I technically used almond meal instead of almond flour. Blend until you have a crumbly looking dough, but slightly sticky
+- Blend the dates in a food processor. Blend in nut flour too.  Blend until you have a crumbly looking dough, but slightly sticky
 
 - Add the rest of the ingredients (except for the chocolate chips) and blend to combine
 
@@ -68,6 +68,8 @@ Instructions:
 - <center><img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-5.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 350F for about 8 minutes. The cookies should just turn golden but still be soft in the middle. They will puff up a little but not really expand outward.  Let cool on the sheet for a few minutes, then transfer to a wire rack
+Notes:
+- You can also use whole nuts (any nuts will do) instead of nut flour too.  I used whole almonds, so I technically used almond meal instead of almond flour
 
 - Try making an ice cream sandwich with some banana ice cream
 - <center><img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-7.jpg' alt='' class='instruction-image'></center>

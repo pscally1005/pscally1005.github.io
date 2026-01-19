@@ -57,10 +57,13 @@ Instructions:
 
 - Mix all ingredients together in a bowl, and top with the cooked apple.  Cover, and refrigerate overnight
 - <center><img src='/assets/Food/Breakfast/Yogurt/yogurt-apple-separate.jpg' alt='' class='instruction-image'></center>
-
-- For the other flavors and their nutrition facts, check out the links below:<br>
-    <ul><li><a href='/recipes/yogurt-choc'>Chocolate Almond Yogurt Bowl</a></li>
+Notes:
+- |
+  For the other flavors and their nutrition facts, check out the links below:<br>
+  <ul>
+    <li><a href='/recipes/yogurt-choc'>Chocolate Almond Yogurt Bowl</a></li>
     <li><a href='/recipes/yogurt-pbj'>Peanut Butter & Jelly Yogurt Bowl</a></li>
-    <li><a href='/recipes/yogurt-banana'>Peanut Butter Banana Yogurt Bowl</a></li></ul><br>
+    <li><a href='/recipes/yogurt-banana'>Peanut Butter Banana Yogurt Bowl</a></li>
+  </ul>
 - <center><a href='/recipes/yogurt-choc'><img src='/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg' alt='' class='half-page'></a><a href='/recipes/yogurt-pbj'><img src='/assets/Food/Breakfast/Yogurt/yogurt-pbj-new.jpg' alt='' class='half-page'><br><br><a href='/recipes/yogurt-banana'><img src='/assets/Food/Breakfast/Yogurt/yogurt-banana.jpg' alt='' class='half-page'></a></center><hr>
 ---

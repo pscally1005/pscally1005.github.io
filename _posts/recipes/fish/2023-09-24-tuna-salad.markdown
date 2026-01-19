@@ -64,6 +64,6 @@ Instructions:
 - Drain the fish and add to a large bowl. Mash with a fork.  For the fish, I use 2 5oz cans of solid white albacore tuna in water
 
 - Chop up all the vegetables and add to the bowl along with all the spices and everything else. Mix and serve
-
+Notes:
 - Makes 2 bowls or 4 sandwiches
 ---

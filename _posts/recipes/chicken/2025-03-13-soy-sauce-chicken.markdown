@@ -59,4 +59,5 @@ Instructions:
 - Meanwhile, cut your chicken into thin slices. Pound to an even thickness with a meat mallet. Add to a large bowl, and season with soy sauce, lemon juice, oil, black pepper, paprika, chili powder, garlic powder, and onion powder. Optionally, you can marinate the chicken in the bowl for at least an hour in the fridge.  Transfer to the other pan
 
 - Roast the chicken for about 15 minutes at 400F, or until the internal temperature just reaches 165F
+Notes:
 ---

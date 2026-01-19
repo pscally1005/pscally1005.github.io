@@ -70,4 +70,5 @@ Instructions:
 - <center><img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-6.jpg' alt='' class='instruction-image'></center>
 
 - Optionally serve over rice, and top with sesame seeds
+Notes:
 ---

@@ -63,6 +63,55 @@ Instructions:
 
 - The next day, blend the bananas in a food processor until you have a smooth ice cream.  Enjoy immediately for soft serve ice cream, or freeze for about 30 minutes for a harder ice cream texture
 - <center><img src='/assets/Food/Healthier Dessert/Nice Cream/processor.jpg' alt='' class='instruction-image'></center>
+Notes:
+- |
+  Here are some flavor options you can try:
+  <ul>
 
-- Here are some flavor options you can try:<br><ul><li><b>Chocolate</b><ul><li>6 tbsp (30 g) cocoa powder</li><li>1/2 tsp (2.5 g) vanilla extract</li></ul></li><li><b>Vanilla</b><ul><li>1 tsp (5 g) vanilla extract</li></ul><li><b>Peanut Butter</b><ul><li>2 tbsp (32 g) natural peanut butter</li></ul></li><li><b>Mint</b><ul><li>1/4 tsp (1.25 g) mint extract</li></ul></li><li><b>Fruity</b><ul><li>Replace half of the frozen bananas with frozen strawberries, blueberries, or mangoes</li><li>1/2 tsp (1.5 g) cinnamon</li></ul></li><li><b>Almond</b><ul><li>2 tbsp (32 g) almond butter</li><li>1/2 tsp (2.5 g) almond extract</li></ul></li></ul>
+    <li>
+      <b>Chocolate</b>
+      <ul>
+        <li>6 tbsp (30 g) cocoa powder</li>
+        <li>1/2 tsp (2.5 g) vanilla extract</li>
+      </ul>
+    </li>
+
+    <li>
+      <b>Vanilla</b>
+      <ul>
+        <li>1 tsp (5 g) vanilla extract</li>
+      </ul>
+    </li>
+
+    <li>
+      <b>Peanut Butter</b>
+      <ul>
+        <li>2 tbsp (32 g) natural peanut butter</li>
+      </ul>
+    </li>
+
+    <li>
+      <ul>
+        <b>Mint</b>
+        <li>1/4 tsp (1.25 g) mint extract</li>
+      </ul>
+    </li>
+
+    <li>
+      <b>Fruity</b>
+        <ul>
+          <li>Replace half of the frozen bananas with frozen strawberries, blueberries, or mangoes</li>
+          <li>1/2 tsp (1.5 g) cinnamon</li>
+        </ul>
+    </li>
+
+    <li>
+      <b>Almond</b>
+        <ul>
+          <li>2 tbsp (32 g) almond butter</li>
+          <li>1/2 tsp (2.5 g) almond extract</li>
+        </ul>
+    </li>
+
+  </ul>
 ---

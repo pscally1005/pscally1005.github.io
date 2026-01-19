@@ -68,4 +68,5 @@ Instructions:
 
 - Serve the shrimp and sauce with pasta if desired
 - <center><img src='/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

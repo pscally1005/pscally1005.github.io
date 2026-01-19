@@ -68,4 +68,5 @@ Instructions:
 - <center><img src='/assets/Food/Chicken/Cacciatore/cacciatore-5.jpg' alt='' class='instruction-image'></center>
 
 - Divide among 5 containers or bowls, and garnish with a dried herb of your choice (I used parsely)
+Notes:
 ---

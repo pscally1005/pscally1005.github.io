@@ -63,6 +63,8 @@ Instructions:
 - Bake at 325F for 60 minutes, or until crispy and golden brown
 - <center><img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-baked.jpg' alt='' class='instruction-image'></center>
 
-- Let cool totally on a wire rack.  Store in an airtight bag at <b>room temperature</b>.  I ended up with about 8 oz (226 g) of crackers. For a 1 oz (28 g) serving, that's about 8 servings total
+- Let cool totally on a wire rack.  Store in an airtight bag at <b>room temperature</b>
 - <center><img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-cooled.jpg' alt='' class='instruction-image'></center>
+Notes:
+- I ended up with about 8 oz (226 g) of crackers. For a 1 oz (28 g) serving, that's about 8 servings total
 ---

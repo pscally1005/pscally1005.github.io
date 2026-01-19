@@ -80,6 +80,6 @@ Instructions:
 - Bake for about 22 minutes (uncovered) at 350F, until the muffins have an internal temperature of about 200F and toothpick comes out clean.  You can also bake these as mini muffins (makes 40) for about 12 minutes at 350F (uncovered)
 
 - Alternatively, you can bake this as a banana bread in a loaf pan for about an hour (covered), until a toothpick is almost clean and the internal temperature is around 190F
-
+Notes:
 - Optionally, brush tops of muffins with 1 tbsp (14 g) melted unsalted butter. Let cool totally in the pan before removing from the pan with a butter knife
 ---

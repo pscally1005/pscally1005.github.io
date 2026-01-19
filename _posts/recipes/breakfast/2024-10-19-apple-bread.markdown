@@ -65,4 +65,5 @@ Instructions:
 
 - Bake at 350F for about 45 minutes, covered with aluminum foil.  Remove the foil, and bake for an additional 15 minutes.  Place the pan in the fridge, and let it totally cool before removing from the pan and slicing
 - <center><img src='/assets/Food/Breakfast/Apple Bread/apple-bread-baked.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

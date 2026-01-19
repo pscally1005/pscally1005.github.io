@@ -67,4 +67,5 @@ Instructions:
 
 - Transfer the fudge into your lined pan, and level it out by tilting the pan.  Chill in the fridge for 3 hours to set before slicing
 - <center><img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-cool.jpg' alt='' class='half-page'><img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-slice.jpg' alt='' class='half-page'></center>
+Notes:
 ---

@@ -78,4 +78,5 @@ Instructions:
 - Mix together the yellow squash, chicken, and sauce. Add to a bowl with the rice on the side, top with chopped peanuts, and serve
 - <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-mixed.jpg' alt='' class='instruction-image'></center>
 - <center><img src='/assets/Food/Chicken/Kung Pao/kung-pao-parts.jpg' alt='' class='half-page'><img src='/assets/Food/Chicken/Kung Pao/kung-pao-containers.jpg' alt='' class='half-page'></center>
+Notes:
 ---

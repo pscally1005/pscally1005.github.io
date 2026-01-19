@@ -73,4 +73,5 @@ Instructions:
 
 - Cover and cook on low heat for 8 hours. Optionally serve with cheese and lime juice
 - <center><img src='/assets/Food/Ground Meat/Low FODMAP Chili/after.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

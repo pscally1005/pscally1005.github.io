@@ -63,10 +63,6 @@ Instructions:
 
 - In a large bowl, mix together the wet ingredients with a silicone spatula until fully combined
 
-- Any <a href='/misc/nuts'>nut</a> or <a href='/misc/seeds'>seed</a> butter will work in place of <a href='/misc/nuts#almonds'>almond butter</a>, such as <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>
-
-- Melted (unsalted) butter or extra virgin olive oil will work in place of melted coconut oil
-
 - Add the dry ingredients to the wet, and mix until just fully combined
 - <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/bowl.jpg' alt='' class='instruction-image'></center>
 
@@ -79,4 +75,8 @@ Instructions:
 - Transfer the pan to the fridge, and let chill for at least 30 minutes before slicing.  Store leftover brownies in the fridge or freezer
 - <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/cut.jpg' alt='' class='instruction-image'></center>
 - <center><img src='/assets/Food/Healthier Dessert/Raspberry Brownies/cover-1.jpg' alt='' class='instruction-image'></center>
+Notes:
+- Any <a href='/misc/nuts'>nut</a> or <a href='/misc/seeds'>seed</a> butter will work in place of <a href='/misc/nuts#almonds'>almond butter</a>, such as <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>
+
+- Melted (unsalted) butter or extra virgin olive oil will work in place of melted coconut oil
 ---

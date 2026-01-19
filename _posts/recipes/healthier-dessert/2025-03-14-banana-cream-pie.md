@@ -60,4 +60,5 @@ Instructions:
 
 - Evenly spread the <a href='/recipes/whipped-cream'>Aquafaba Whipped Cream</a> on top of the pie, and optionally dust the top with cinnamon. Refrigerate for at least 2 hours before slicing and serving
 - <center><img src='/assets/Food/Healthier Dessert/Banana Cream Pie/seperate.jpg' alt='' class='half-page'><img src='/assets/Food/Healthier Dessert/Banana Cream Pie/uncut.jpg' alt='' class='half-page'></center>
+Notes:
 ---

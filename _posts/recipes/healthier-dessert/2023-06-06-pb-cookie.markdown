@@ -56,4 +56,5 @@ Instructions:
 - <center><img src='/assets/Food/Healthier Dessert/PB Cookie/pb-cookie-3.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 350F for 8 minutes. Let cool on the pan for 5 minutes, then transfer to a wire rack to cool. Optionally drizzle the cookies with melted chocolate
+Notes:
 ---

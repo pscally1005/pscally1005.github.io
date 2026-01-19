@@ -64,4 +64,5 @@ Instructions:
 
 - Freeze for about 1-2 hours before slicing.  Store in the freezer
 - <center><img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/cut.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

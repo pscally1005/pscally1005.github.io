@@ -57,4 +57,5 @@ Description: This healthy <a href='/misc/fish#tuna'>tuna</a> salad, or <a href='
 Instructions:
 - Cut your onion into a fine dice, and add to a medium bowl. Add the avocado to the bowl, and mash with the back of a fork. Drain your tuna, and add to the bowl with the rest of the ingredients. Mix until fully combined
 - <center><img src='/assets/Food/Fish/Avocado Tuna Salad/bowl.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

@@ -65,7 +65,7 @@ Instructions:
 
 - Mash with a wooden spoon to shred
 - <center><img src='/assets/Food/Chicken/Salsa Chicken/salsa-chicken-shredded.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - You can also make a simple salsa chicken by following my <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, and mixing the shredded chicken with a jar of salsa at the end
 - <center><img src='/assets/Food/Chicken/Salsa Chicken/oven-method.jpg' alt='' class='instruction-image'></center>
 ---

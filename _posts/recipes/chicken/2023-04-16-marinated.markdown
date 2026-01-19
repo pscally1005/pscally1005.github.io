@@ -59,4 +59,5 @@ Instructions:
 - For your <a href='/misc/veggies#plantain'>plantains</a>, preheat your air fryer to 370F. Use a knife to peel the <a href='/misc/veggies#plantain'>plantain</a> keeping it in one piece. Air fry for 16 minutes, filling halfway
 
 - Remove to a cutting board and slice. Lightly sprinkle with salt, and serve
+Notes:
 ---

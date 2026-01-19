@@ -71,4 +71,5 @@ Instructions:
 - <center><img src='/assets/Food/Chicken/Korean/sauce.jpg' alt='' class='instruction-image'></center>
 
 - Add a portion of potatoes, broccoli, and chicken to a plate. Drizzle with the sauce, and optionally garnish with sesame seeds
+Notes:
 ---

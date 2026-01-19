@@ -75,4 +75,5 @@ Instructions:
 
 - Cover and cook for 8 hours on low or 6 hours on high
 - <center><img src='/assets/Food/Ground Meat/Chili/chili-4.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

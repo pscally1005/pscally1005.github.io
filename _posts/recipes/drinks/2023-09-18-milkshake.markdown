@@ -59,9 +59,9 @@ Instructions:
 
 - Add in the rest of the ingredients, and blend until fully combined
 
+- Transfer to a medium glass and serve
+Notes:
 - Add some monk fruit if you want it sweeter
 
 - Add some mint extract for a subtle mint flavor if you like, but be careful not to add too much
-
-- Transfer to a medium glass and serve
 ---

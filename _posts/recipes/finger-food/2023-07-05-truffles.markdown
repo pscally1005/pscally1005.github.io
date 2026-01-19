@@ -63,4 +63,5 @@ Instructions:
 - <center><img src='/assets/Food/Healthier Dessert/Truffle/truffle-2.jpg' alt='' class='instruction-image'></center>
 
 - Melt the coconnut oil in the microwave, and mix with the rest of the chocolate ingredients (vanilla, cocoa, honey, salt, and almond extract). Dip the truffles in the chocolate, and return to the plate. Chill to harden. Store in the fridge or freezer
+Notes:
 ---

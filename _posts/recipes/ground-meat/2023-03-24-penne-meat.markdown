@@ -75,4 +75,5 @@ Instructions:
 - Transfer to greased pan. Sprinkle breadcrumbs on top
 
 - Bake covered at 375F for 30 minutes. Uncover, and broil until the top is golden, probably about 2 minutes. Watch very closely. When baking, put the pan on a large cookie sheet to catch any drips if they occur
+Notes:
 ---

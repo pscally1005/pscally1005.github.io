@@ -64,4 +64,5 @@ Instructions:
 
 - You could also cook them on a grill outside, or use a grill pan (or regular frying pan) over medium heat on your stove. Cook for a few minutes each side, flipping occasionally, until done to your liking
 - <center><img src='/assets/Food/Ground Meat/Burger Patties/grilling.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

@@ -65,6 +65,6 @@ Instructions:
 - Take out 4 bowls, and add 1/4 of your sweet potatoes to one quadrant, and 1/4 of the beef to another. In the third quadrant, add 1/2 a sliced avocado (50 g). Finally, in the remaining quadrant, add your cottage cheese (1/2 cup, 113 g)
 
 - Drizzle the top of each bowl with 1/2 tbsp (10 g) <a href='/recipes/hot-honey'>hot honey</a>. If you don't have hot honey, you can use regular honey, and add a dash of hot sauce
-
-- With sweet potatoes, avocado, ground beef, and cottage cheese, this recipe is a great source of complex <a href='/misc/carbs'>carbs</a>, healthy <a href='/misc/fats'>fats</a>, and <a href='/misc/protein'>protein</a>. It's lacking a bit in the vegetable area, so serve this with a side of <a href='/recipes/roasted-vegetables'>roasted vegetables</a> or a <a href='/recipes/salad-base'>side salad</a>
+Notes:
+- With sweet potatoes, avocado, ground beef, and cottage cheese, this recipe is a great source of complex <a href='/misc/carbs'>carbs</a>, healthy <a href='/misc/fats'>fats</a>, and <a href='/misc/protein'>protein</a>. It's lacking a bit in the <a href='/misc/veggies'>vegetable</a> area, so serve this with a side of <a href='/recipes/roasted-vegetables'>roasted vegetables</a> or a <a href='/recipes/salad-base'>side salad</a>
 ---

@@ -71,4 +71,5 @@ Instructions:
 
 - Cut the chicken into cubes, and add to the pan. Pour the sauce over it, and mix to fully combine. The cornstarch should thicken the sauce when heated. Optionally, garnish with peanuts, and serve over some <a href='/misc/grains#brown-rice'>brown rice</a>
 - <center><img src='/assets/Food/Chicken/Peanut/peanut-6.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

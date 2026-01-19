@@ -57,4 +57,5 @@ Instructions:
 - To the bowl, add the yogurt and mix with a spoon until smooth. Add in the rest of the ingredients and mix to fully combine. The dough should be a little sticky, so chill in the fridge for at least 1 hour to firm
 
 - Roll into truffles, and place in an airtight container or bag. Store in the fridge
+Notes:
 ---

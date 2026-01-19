@@ -64,4 +64,5 @@ Instructions:
 
 - As the fish cooks, wash and cut your vegetables, and add to a medium bowl. Season and mix to make your crunchy salad
 - <center><img src='/assets/Food/Fish/Salmon/salmon-4.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

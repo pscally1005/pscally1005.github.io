@@ -69,4 +69,5 @@ Instructions:
 - <center><img src='/assets/Food/Finger Food/Granola Bar/granola-bar-3.jpg' alt='' class='instruction-image'></center>
 
 - Refrigerate for at least 2 hours to set (ideally overnight) before slicing. Wrap each bar in parchment paper, and store in an airtight bag (either in the fridge or freezer)
+Notes:
 ---

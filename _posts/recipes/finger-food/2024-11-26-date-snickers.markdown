@@ -66,7 +66,7 @@ Instructions:
 - When firm, melt chocolate chips and coconut oil in the microwave until smooth. Lightly dip each date into the chocolate, and return to the plate
 - <center><img src='/assets/Food/Finger Food/Date Snickers/date-choc.jpg' alt='' class='instruction-image'></center>
 
-- This recipe calls for exactly the amount of chocolate the dates should take for accurate nutritional information, but you should melt more (probably 1.33x the amount) to ensure you have enough to actually coat the chocolate. I measured the before and after weight to see how much chocolate each date got, but you need to have a little excess in the bowl to be able to cover them
-
 - Optionally, sprinkle the tops with flaky salt.  Freeze for another 15 minutes to harden, and store leftovers in the fridge or freezer
+Notes:
+- This recipe calls for exactly the amount of chocolate the dates should take for accurate nutritional information, but you should melt more (probably 1.33x the amount) to ensure you have enough to actually coat the chocolate. I measured the before and after weight to see how much chocolate each date got, but you need to have a little excess in the bowl to be able to cover them
 ---

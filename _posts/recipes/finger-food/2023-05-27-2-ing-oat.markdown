@@ -65,11 +65,22 @@ Instructions:
 - In a bowl, add your banana, and mash with the back of a fork until smooth. Mix in the oats, with an optional small pinch of salt
 - <center><img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-2.jpg' alt='' class='instruction-image'></center>
 
-- Some other great options instead of banana are:<b></b><br><ul><li>Unsweetened Applesauce</li><li><a href='/recipes/apple-spread'>Apple Butter</a></li><li><a href='/recipes/pumpkin-puree'>Pumpkin Puree</a></li><li><a href='/recipes/sweet-potato-puree'>Sweet Potato Puree</a></li><li><a href='/recipes/roasted-butternut-squash-puree'>Butternut Squash Puree</a></li><li><a href='/recipes/berry-jam'>Berry Jam</a></li></ul><br>Below is a batch I made with homemade blackberry jam (left) and applesauce (right)
-- <center><img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-3.jpg' alt='' class='instruction-image'></center>
-
-- At this step, you can add any other flavors if you like. A dash of cinnamon or vanilla would be great, or you can fold in some mix-ins like chocolate chips or nuts
-
 - Scoop onto your lined tray, and lightly flatten the tops.  Bake at 350F for about 12 minutes. Transfer to a wire rack to cool
 - <center><img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-5.jpg' alt='' class='instruction-image'></center>
+Notes:
+- |
+  Some other great options instead of banana are
+  <ul>
+    <li>Unsweetened Applesauce</li>
+    <li><a href='/recipes/apple-spread'>Apple Butter</a></li>
+    <li><a href='/recipes/pumpkin-puree'>Pumpkin Puree</a></li>
+    <li><a href='/recipes/sweet-potato-puree'>Sweet Potato Puree</a></li>
+    <li><a href='/recipes/roasted-butternut-squash-puree'>Butternut Squash Puree</a></li>
+    <li><a href='/recipes/berry-jam'>Berry Jam</a></li>
+  </ul>
+
+- Below is a batch I made with homemade blackberry jam (left) and applesauce (right)
+- <center><img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-3.jpg' alt='' class='instruction-image'></center>
+
+- You can also add any other flavors if you like. A dash of cinnamon or vanilla would be great, or you can fold in some mix-ins like chocolate chips or nuts
 ---

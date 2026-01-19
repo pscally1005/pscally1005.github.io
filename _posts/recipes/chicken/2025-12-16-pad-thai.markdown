@@ -69,4 +69,5 @@ Instructions:
 - <center><img src='/assets/Food/Chicken/Pad Thai/separate.jpg' alt='' class='instruction-image'></center>
 
 - When everything is done cooking, fluff the spaghetti squash with a fork into the bowl.  Mix until fully combined, and divide 6 ways
+Notes:
 ---

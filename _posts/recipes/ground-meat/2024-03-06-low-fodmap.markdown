@@ -76,4 +76,5 @@ Instructions:
 - Stir in the apple cider vinegar and lime (or lemon) juice. Simmer until flavors combine, 3-4 minutes
 
 - Serve with tortillas, rice, beans, cheese, and salsa
+Notes:
 ---

@@ -66,4 +66,5 @@ Instructions:
 - Make 3 wells, and crack each egg into its own well. Cover, and cook for 2-3 minutes over medium heat until the whites are cooked (opaque white) and the yolks have risen and are cloudy, but still a bit soft
 
 - Garnish with parsley, and optionally serve with bread. Eat directly out of the pan (that's why I used stainless steel)
+Notes:
 ---

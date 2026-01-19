@@ -63,6 +63,6 @@ Description: <a href='/misc/seeds#chia-seeds'>Chia</a> pudding is a super simple
 Instructions:
 - Add chia seeds, milk, vanilla, and sweetener to a small mason jar. Vigorously shake to combine. Let rest for 5 minutes, and then vigorously shake again. Refrigerate for at least 2 hours, ideally overnight
 - <center><img src='/assets/Food/Breakfast/Chia Pudding/base.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - Add whatever toppings on top that you desire. Great options are <a href='/misc/fruit#blueberries'>berries</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, chocolate chips, cinnamon, <a href='/misc/nuts#coconut'>coconut flakes</a>, <a href='/misc/dairy#whey'>protein powder</a>, etc. Here I've topped my <a href='/misc/seeds#chia-seeds'>chia</a> pudding with 1 tbsp (16 g) <a href='/misc/nuts#almonds'>almond butter</a>, as well as a dash of cinnamon
 ---

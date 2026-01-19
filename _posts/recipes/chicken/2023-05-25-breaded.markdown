@@ -82,4 +82,5 @@ Instructions:
 
 - As the chicken cooks, you can make the Bruschetta topping. Finely dice the tomatoes and onion, and add to a medium bowl. Season with garlic, lemon, parsley, basil, and salt.  Serve on a slice of toasted <a href='/recipes/whole-wheat-baguettes'>Whole Wheat Baguettes</a>, or spoon on top of the chicken
 - <center><img src='/assets/Food/Chicken/Breaded/cover.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

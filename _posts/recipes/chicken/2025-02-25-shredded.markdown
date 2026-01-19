@@ -68,7 +68,7 @@ Instructions:
 
 - Let cool totally before shredding with your hands. Discard any skin and bones
 - <center><img src='/assets/Food/Chicken/Shredded/shredded.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - I've marked a serving size as about 1 oz (28 g) cooked meat for ease of comparison and measurement. 6 thighs (828 g) should yield about 621 g, as meat tends to lose about 25% of its raw weight when cooked
 
 - With this chicken, you can use it as a topping for your salads for some <a href='/misc/protein'>protein</a>, or toss with with a sauce.  Try mixing it with <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> for some BBQ Pulled Chicken, and serve alongside some <a href='/recipes/pulled-chicken'>coleslaw</a>.  Or mix with <a href='/recipes/salsa'>Five Minute Salsa</a> for some <a href='/recipes/salsa-chicken'>Two Ingredient Salsa Chicken</a>

@@ -60,4 +60,5 @@ Instructions:
 - Add the meat to the pan, and cook until no longer pink. When the meat is nearly done, add the garlic and cook until fragrant
 
 - In a medium bowl, whisk together the sauce - tomato paste, water, mustard, vinegar, paprika, salt, and pepper.  Pour into the pan, cover, and let simmer over low heat for about 15 minutes.  Remove the cover, and simmer for an additional 5 minutes to thicken
+Notes:
 ---

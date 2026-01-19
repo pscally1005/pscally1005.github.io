@@ -60,4 +60,5 @@ Instructions:
 - Meanwhile, in a medium bowl, mash your avocado until decently smooth (a little bit of chunks is okay). Pour in lemon, season, and mix
 
 - Spread the avocado on your toast, and optionally add some toppings. Good ideas are tomatoes, scrambled eggs, pickled onions, or roasted peppers. Be creative with it!
+Notes:
 ---

@@ -84,4 +84,5 @@ Instructions:
 
 - Slices into 21 pieces, and store the fudge in the fridge
 - <center><img src='/assets/Food/Finger Food/SF Fudge/cut.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

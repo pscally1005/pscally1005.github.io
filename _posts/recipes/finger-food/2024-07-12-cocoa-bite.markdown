@@ -67,4 +67,5 @@ Instructions:
 - Here are some substitutions if you need:<br><ul><li>Any kind of nut butter will work (peanut, almond, pistachio, sunflower, etc.)</li><li>You can use maple syrup or sugar free syrup instead of honey</li><li>Cacao powder or carob powder will also work in place of cocoa powder</li></ul>
 
 - Roll your dough into 12 balls, about 15 g each.  Store in the fridge or freezer
+Notes:
 ---

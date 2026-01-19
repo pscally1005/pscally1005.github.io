@@ -67,4 +67,5 @@ Instructions:
 
 - Bring to a boil on high, then cover and let simmer simmer (reduce heat to medium-low).  Let cook for 30 minutes - 1 hour, stirring every 15 minutes
 - <center><img src='/assets/Food/Ground Meat/Bolognese/bolognese-6.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

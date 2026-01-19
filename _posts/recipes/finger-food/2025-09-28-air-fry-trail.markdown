@@ -66,7 +66,7 @@ Instructions:
 
 - When totally cooled, mix the 3 bowls together, and transfer to an airtight bag.  Store at room temperature for up to 1 week
 - <center><img src='/assets/Food/Finger Food/Air Fry Trail Mix/combined.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - My chickpeas, almonds, and banana chips weighed a respective 114 g, 120 g, and 28 g.  That's a total of 262 g.  At 9 servings, each serving is 29 g, or about 1 oz
 - <center><img src='/assets/Food/Finger Food/Air Fry Trail Mix/separate.jpg' alt='' class='instruction-image'></center>
 ---

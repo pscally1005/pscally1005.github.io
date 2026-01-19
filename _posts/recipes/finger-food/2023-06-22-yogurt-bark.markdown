@@ -58,4 +58,5 @@ Instructions:
 
 - Freeze until firm, at least an hour.  Slice
 - <center><img src='/assets/Food/Finger Food/Yogurt Bark/bark-4.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

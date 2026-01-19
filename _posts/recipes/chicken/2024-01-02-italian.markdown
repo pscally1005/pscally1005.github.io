@@ -70,4 +70,5 @@ Instructions:
 
 - Transfer the chicken to the pan. Roast at 400F for about 13 minutes, or until the internal temperature just reaches 165F
 - <center><img src='/assets/Food/Chicken/Italian/roasted.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

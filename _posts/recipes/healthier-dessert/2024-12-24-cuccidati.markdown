@@ -74,4 +74,5 @@ Instructions:
 
 - Place cookies on a parchment lined baking sheet (seam side down). Bake at 350F for 12 minutes, or until lightly golden on the outside. Let cool totally before serving
 - <center><img src='/assets/Food/Healthier Dessert/Cuccidati/baked.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

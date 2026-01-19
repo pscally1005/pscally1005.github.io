@@ -57,6 +57,6 @@ Instructions:
 - The night before, break your banana into chunks, and freeze in an airtight bag. You can also use 1 cup (150 g) frozen grapes in place of banana
 
 - The next morning, blend together all ingredients until smooth
-
+Notes:
 - Optionally, add a scoop of protein powder. You can also use whatever milk you have on hand; today was almond for me
 ---

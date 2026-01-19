@@ -64,4 +64,5 @@ Instructions:
 - For the potatoes - wash with a brush, poke with a fork, wrap in aluminum foil, and air fry at 400F for about 45 minutes
 
 - For the broccoli - take your defrosted bag of broccoli, and add to a parchment lined cookie sheet. Add some oil, season to taste with lemon pepper and garlic powder, and roast in the oven for about 45 minutes at 350F
+Notes:
 ---

@@ -68,4 +68,5 @@ Instructions:
 - <center><img src='/assets/Food/Ground Meat/Casserole/casserole-4.jpg' alt='' class='instruction-image'></center>
 
 - In a large bowl, combine the spinach, meat, and cauliflower. Serve
+Notes:
 ---

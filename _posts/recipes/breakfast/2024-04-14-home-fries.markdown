@@ -66,4 +66,5 @@ Instructions:
 
 - When the potatoes are finished, combine them in the pan with the vegetables. Top with dried parsley, and serve with eggs
 - <center><img src='/assets/Food/Breakfast/Home Fries/home-fries-5.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

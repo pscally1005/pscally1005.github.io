@@ -63,4 +63,5 @@ Instructions:
 -  In a medium bowl, mash your banana with the back of a fork until smooth. Combine with the rest of the ingredients (except the strawberries), and mix until creamy and fully combined
 
 - Top with finely diced strawberries. Cover with a plate, and refrigerate overnight. Either eat cold for overnight oats, or microwave on high for 2 minutes (stirring halfway) to eat warm
+Notes:
 ---

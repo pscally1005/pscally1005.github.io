@@ -56,4 +56,5 @@ Instructions:
 
 - Pour the melted chocolate into <a href='https://www.amazon.com/dp/B0D9J99TW4?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.33LWXAZ203YV4&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.33LWXAZ203YV4_1751469098772'>molds</a>, and refrigerate for 1 hour to harden. Break into large pieces, or chop into smaller chunks
 - <center><img src='/assets/Food/Finger Food/Monk Fruit Chocolate/mold.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

@@ -68,4 +68,5 @@ Instructions:
 
 - Transfer to the fridge at let chill for at least 4 hour before slicing
 - <center><img src='/assets/Food/Healthier Dessert/Vegan cheesecake/sliced.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

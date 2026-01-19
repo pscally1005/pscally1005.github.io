@@ -60,4 +60,5 @@ Instructions:
 - <center><img src='/assets/Food/Finger Food/Apple Samoas/separate.jpg' alt='' class='instruction-image'></center>
 
 - In a small bowl, add chocolate chips and coconut oil, and microwave for 20 seconds. Stir until fully melted. Drizzle the chocolate on top of the "cookies", and refrigerate until the chocolate is hardened
+Notes:
 ---

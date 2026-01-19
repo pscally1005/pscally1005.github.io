@@ -60,4 +60,5 @@ Instructions:
 
 - Pour milk over the cereal in a small bowl.  Store leftovers in an airtight bag at <b>room temperature</b>
 - <center><img src='/assets/Food/Breakfast/Chickpea/no-milk.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

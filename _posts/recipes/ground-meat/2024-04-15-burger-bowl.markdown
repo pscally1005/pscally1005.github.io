@@ -75,4 +75,5 @@ Instructions:
 
 - Finally, it's time to assemble your bowls. Place the lettuce on the bottom as a base, and evenly top with your meat and sweet potatoes. Add the vegetables on top around the sides, and spoon on some <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>
 - <center><img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

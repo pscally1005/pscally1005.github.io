@@ -58,7 +58,7 @@ Instructions:
 
 - Air fry at 350F for about 10-12 minutes, or until golden brown, but not burnt.  You can also bake in a 350F oven for 25-30 minutes. Transfer to a wire rack to cool and crisp.  Store leftovers in an airtight container in the fridge
 - <center><img src='/assets/Food/Finger Food/Plantain Chips/plantain-chips-cooked.jpg' alt='' class='half-page'><img src='/assets/Food/Finger Food/Plantain Chips/plantain-chips-cooling.jpg' alt='' class='half-page'></center>
-
+Notes:
 - You can also make veggie chips out of sweet potatoes!
 - <center><img src='/assets/Food/Finger Food/Plantain Chips/sw-pot-chip-raw.jpg' alt='' class='half-page'><img src='/assets/Food/Finger Food/Plantain Chips/sw-pot-chip-cooked.jpg' alt='' class='half-page'></center>
 

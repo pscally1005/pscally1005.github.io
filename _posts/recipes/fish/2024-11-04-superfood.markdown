@@ -86,16 +86,22 @@ Instructions:
 - Top each bowl with half of your sauerkraut and half of your mustard.  Mix, and serve warm or cold
 - <center><img src='/assets/Food/Fish/Superfood/superfood-mixed.jpg' alt='' class='instruction-image'></center>
 
-- <center></center><b>Summary</b>
-- <center></center>&emsp;These bowls are super customizable.  Below is a simple formula you can follow to make your perfect superfood bowl.  I've bolded the options I've used here, but mix and match with whatever you like:<br>
-- <center></center><i>Leafy <a href='/misc/veggies'>Greens</a> (raw or cooked)</i><ul>
+Notes:
+- |
+  These bowls are super customizable.  Below is a simple formula you can follow to make your perfect superfood bowl.  I've bolded the options I've used here, but mix and match with whatever you like<br><br>
+
+  <i>Leafy <a href='/misc/veggies'>Greens</a> (raw or cooked)</i>
+  <ul>
     <li><a href='/misc/veggies#arugula'>Arugula</a></li>
     <li><a href='/misc/veggies#collard-green'>Collard greens</a></li>
     <li><b><a href='/misc/veggies#kale'>Kale</a></b></li>
     <li><a href='/misc/veggies#lettuce'>Romaine lettuce</a></li>
     <li><a href='/misc/veggies#spinach-fresh'>Spinach</a></li>
-    <li><a href='/misc/veggies#swiss-chard'>Swiss chard</a></li></ul>
-- <center></center><i><a href='/misc/carbs'>Carbs</a></i><ul>
+    <li><a href='/misc/veggies#swiss-chard'>Swiss chard</a></li>
+  </ul><br>
+
+  <i><a href='/misc/carbs'>Carbs</a></i>
+  <ul>
     <li><a href='/misc/beans'>Beans</a></li>
     <li><a href='/misc/grains#brown-rice'>Brown rice</a></li>
     <li><a href='/misc/veggies#butternut-squash'>Butternut squash</a></li>
@@ -103,8 +109,11 @@ Instructions:
     <li><a href='/misc/beans#chickpeas'>Chickpeas</a></li>
     <li><b><a href='/misc/grains#quinoa'>Quinoa</a></b></li>
     <li><a href='/misc/beans#red-lentils'>Lentils</a></li>
-    <li><a href='/misc/veggies#sweet-potato'>Sweet potato</a></li></ul>
-- <center></center><i><a href='/misc/fats'>Fat</a></i><ul>
+    <li><a href='/misc/veggies#sweet-potato'>Sweet potato</a></li>
+  </ul><br>
+
+  <i><a href='/misc/fats'>Fat</a></i>
+  <ul>
     <li><a href='/misc/nuts#almonds'>Almonds</a></li>
     <li><b><a href='/misc/fruit#avocado'>Avocado</a></b></li>
     <li><a href='/misc/seeds#chia-seeds'>Chia seeds</a></li>
@@ -113,15 +122,21 @@ Instructions:
     <li><a href='/misc/dairy#mozzarella'>Mozzarella cheese</a></li>
     <li><b><a href='/misc/seeds#pumpkin-seeds'>Pumpkin seeds</a></b></li>
     <li><a href='/misc/seeds#sunflower-seeds'>Sunflower seeds</a></li>
-    <li><a href='/misc/nuts#walnuts'>Walnuts</a></li></ul>
-- <center></center><i>Raw <a href='/misc/veggies'>Veggies</a></i><ul>
+    <li><a href='/misc/nuts#walnuts'>Walnuts</a></li>
+  </ul><br>
+
+  <i>Raw <a href='/misc/veggies'>Veggies</a></i>
+  <ul>
     <li><a href='/misc/veggies#pepper'>Bell pepper</a></li>
     <li><a href='/misc/veggies#carrots'>Carrot</a></li>
     <li><a href='/misc/veggies#cucumber'>Cucumber</a></li>
     <li><a href='/misc/veggies#onion'>Onion</a></li>
     <li><a href='/misc/veggies#radish'>Radish</a></li>
-    <li><a href='/misc/veggies#tomato'>Tomato</a></li></ul>
-- <center></center><i>Cooked <a href='/misc/veggies'>Veggies</a></i><ul>
+    <li><a href='/misc/veggies#tomato'>Tomato</a></li>
+  </ul><br>
+
+  <i>Cooked <a href='/misc/veggies'>Veggies</a></i>
+  <ul>
     <li><a href='/misc/veggies#artichoke'>Artichoke</a></li>
     <li><b><a href='/misc/veggies#beets'>Beets</a></b></li>
     <li><b><a href='/misc/veggies#pepper'>Bell pepper</a></b></li>
@@ -131,8 +146,11 @@ Instructions:
     <li><a href='/misc/veggies#eggplant'>Eggplant</a></li>
     <li><a href='/misc/veggies#mushrooms'>Mushroom</a></li>
     <li><a href='/misc/veggies#yellow-squash'>Yellow squash</a></li>
-    <li><a href='/misc/veggies#zucchini'>Zucchini</a></li></ul>
-- <center></center><i><a href='/misc/fruit'>Fruit</a></i><ul>
+    <li><a href='/misc/veggies#zucchini'>Zucchini</a></li>
+  </ul><br>
+
+  <i><a href='/misc/fruit'>Fruit</a></i>
+  <ul>
     <li><a href='/misc/fruit#apple'>Apple</a></li>
     <li><a href='/misc/fruit#blackberry'>Blackberries</a></li>
     <li><a href='/misc/fruit#blueberries'>Blueberries</a></li>
@@ -141,8 +159,11 @@ Instructions:
     <li><a href='/misc/fruit#pear'>Pear</a></li>
     <li><a href='/misc/fruit#pomegranate'>Pomegranate</a></li>
     <li><a href='/misc/fruit#strawberries'>Strawberries</a></li>
-    <li><a href='/misc/fruit#watermelon'>Watermelon</a></li></ul>
-- <center></center><i><a href='/misc/protein'>Protein</a></i><ul>
+    <li><a href='/misc/fruit#watermelon'>Watermelon</a></li>
+  </ul><br>
+
+  <i><a href='/misc/protein'>Protein</a></i>
+  <ul>
     <li><a href='/misc/meat#chicken-breast'>Chicken breast</a></li>
     <li><a href='/misc/meat#chicken-thighs'>Chicken thighs</a></li>
     <li>Hard boiled <a href='/misc/meat#eggs'>eggs</a></li>
@@ -155,20 +176,24 @@ Instructions:
     <li><a href='/misc/fish#sardine'>Sardines</a> (canned)</li>
     <li><a href='/misc/fish#tilapia'>Tilapia</a> (fresh)</li>
     <li><a href='/misc/fish#tuna'>Tuna</a> (canned)</li>
-    <li><a href='/misc/meat#turkey-breast'>Turkey breast</li></ul>
-- <center></center><i><a href='/salad-dressings'>Dressing/Toppings</a></i><ul>
-    <li>Apple cider vinegar</li>
+    <li><a href='/misc/meat#turkey-breast'>Turkey breast</li>
+  </ul><br>
+
+  <i><a href='/salad-dressings'>Dressing/Toppings</a></i>
+  <ul>
+    <li><a href='/misc/apple-cider-vinegar'>Apple cider vinegar</a></li>
     <li>Balsamic vinegar (not vinaigrette)</li>
     <li>Extra virgin olive oil</li>
     <li><a href='/recipes/guacamole'>Guac</a></li>
     <li>Hot sauce</li>
     <li><a href='/hummus'>Hummus</a></li>
     <li>Kimchi</li>
-    <li>Lemon juice</li>
-    <li>Lime juice</li>
+    <li><a href='/misc/fruit#lemon-juice'>Lemon juice</a></li>
+    <li><a href='/misc/fruit#lime-juice'>Lime juice</a></li>
     <li><b>Mustard</b></li>
     <li>Nutritional yeast</li>
     <li><a href='/misc/fruit#olives'>Olives</a></li>
     <li><a href='/recipes/salsa'>Salsa</a></li>
-    <li><b>Sauerkraut</b></li></ul>
+    <li><b>Sauerkraut</b></li>
+  </ul><br>
 ---

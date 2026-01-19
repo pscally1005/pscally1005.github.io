@@ -62,4 +62,5 @@ Instructions:
 - To the now empty pan, add the chicken, oil, and garlic. Cook over medium heat until fully cooked and no longer pink. Season (basil, onion and garlic powder, lemon pepper, and black pepper), finish with lemon juice, and add the chicken to the bowl with the vegetables
 
 - Mix the feta into the food and serve with rice (1 cup dry <a href='/misc/grains#brown-rice'>brown rice</a>)
+Notes:
 ---

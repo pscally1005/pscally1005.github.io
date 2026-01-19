@@ -68,7 +68,7 @@ Instructions:
 
 - Let the meatloaf rest for at least 10 minutes before slicing (makes about 12 slices, so 1 serving is 2 pieces), and serve with your broccoli. I find that meatloaf is always better the next day actually, as it's less likely to fall apart (and sometimes I prefer it cold imo)
 - <center><img src='/assets/Food/Ground Meat/BBQ Meatloaf/bbq-meat-5.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - To celebrate Halloween, I made this recipe and shaped it into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> for the blood.  This was paired with <a href='/recipes/stuffed-peppers'>Turkey & Lentil Stuffed Bell Peppers</a> that Vic carved a Jack O'Lantern face into
 - <center><a href='/recipes/stuffed-peppers'><img src='/assets/Food/Finger Food/Stuffed/halloween.jpg' alt='' class='instruction-image'></a></center>
 ---

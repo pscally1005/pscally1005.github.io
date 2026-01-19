@@ -59,12 +59,15 @@ Instructions:
 - Add most of your berries to a small bowl, and microwave for 30 seconds.  Roughly mash with the back of a fork
 
 - Mix all ingredients together in a bowl, top with the rest of your berries, cover, and refrigerate overnight
-
-- For the other flavors, check out the links below:<br><ul>
+Notes:
+- |
+  For the other flavors, check out the links below:
+  <ul>
     <li><a href='/recipes/oats-reeses'>Reese's Protein Overnight Oats</a></li>
     <li><a href='/recipes/oats-pb'>Peanut Butter Punch Protein Overnight Oats</a></li>
     <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
-    <li><a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a></li></ul><br>
+    <li><a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a></li>
+  </ul>
 - <center><a href='/recipes/oats-banana'><img src='/assets/Food/Breakfast/Oatmeal/oats-banana-1.jpg' alt='' class='half-page'></a><a href='/recipes/oats-pb'><img src='/assets/Food/Breakfast/Oatmeal/oats-pb.jpg' alt='' class='half-page'></a></center>
 - <center><a href='/recipes/oats-pumpkin'><img src='/assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg' alt='' class='half-page'></a><a href='/recipes/oats-reeses'><img src='/assets/Food/Breakfast/Oatmeal/oats-reeses.jpg' alt='' class='half-page'></a></center><hr>
 ---

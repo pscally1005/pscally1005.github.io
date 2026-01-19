@@ -62,4 +62,5 @@ Instructions:
 
 - Remove from heat, stir in the evaporated milk, and serve
 - <center><img src='/assets/Food/Fish/NE Clam Chowder/bowl.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

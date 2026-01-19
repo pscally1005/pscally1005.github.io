@@ -66,6 +66,6 @@ Instructions:
 - Cover and cook on low for about 6 hours, or until the chicken is at least 180F, and the vegetables are tender
 
 - With about 30 minutes left on the stew, cook your pasta on the stove according to instructions.  Mix the cooked pasta into the finished stew, along with lemon juice.  Serve
-
+Notes:
 - Whole wheat, egg noodles, gluten free pasta, chickpea pasta, or red lentil pasta are all good choices.  Putting the pasta in raw at the start will cause it to disintegrate and fully mix into the stew (I've made that mistake before lol), which is why it has to be added at the end
 ---

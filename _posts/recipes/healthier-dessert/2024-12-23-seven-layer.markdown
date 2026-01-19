@@ -86,4 +86,5 @@ Instructions:
 
 - Bake at 350F for about 25 minutes, or until slightly golden on top. Place in the fridge to totally cook before slicing and serving
 - <center><img src='/assets/Food/Healthier Dessert/7 Layer/baked.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

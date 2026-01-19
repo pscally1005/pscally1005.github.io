@@ -66,8 +66,6 @@ Instructions:
 
 - In a separate bowl, mash your bananas. Add the rest of the wet ingredients (yogurt, <a href='/recipes/natural-peanut-butter'>nut butter</a>, applesauce, egg, and sweetener) to the bowl and mix
 
-- I've gone with <a href='/misc/nuts#peanuts'>peanut butter</a> here, but any <a href='/misc/nuts'>nut</a> or <a href='/misc/seeds'>seed</a> butter will work, such as <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/nuts#cashews'>cashew</a>, <a href='/misc/nuts#pistachios'>pistachio</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/nuts#walnuts'>walnut butter</a>
-
 - Pour the wet ingredients into the dry, and combine with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>.  Fold in the chocolate chips
 - <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg' alt='' class='instruction-image'></center>
 
@@ -77,7 +75,9 @@ Instructions:
 - Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty and wet, and the internal temperature will be around 205F
 - <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-baked.jpg' alt='' class='instruction-image'></center>
 
-- Alternatively, you can bake these as either mini muffins (makes 36) or standard size muffins (makes 12).  Bake at 350F until the internal temperature is around 205F, and a toothpick comes out almost clean, but not totally.  About 12 minutes for the mini muffins or about 22 minutes for the standard size
-
 - Let cool completely in the fridge for about an hour, then slice
+Notes:
+- I've gone with <a href='/misc/nuts#peanuts'>peanut butter</a> here, but any <a href='/misc/nuts'>nut</a> or <a href='/misc/seeds'>seed</a> butter will work, such as <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/nuts#cashews'>cashew</a>, <a href='/misc/nuts#pistachios'>pistachio</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/nuts#walnuts'>walnut butter</a>
+
+- Alternatively, you can bake these as either mini muffins (makes 36) or standard size muffins (makes 12).  Bake at 350F until the internal temperature is around 205F, and a toothpick comes out almost clean, but not totally.  About 12 minutes for the mini muffins or about 22 minutes for the standard size
 ---

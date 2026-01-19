@@ -72,4 +72,5 @@ Instructions:
 - <center><img src='/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-crisp.jpg' alt='' class='instruction-image'></center>
 
 - Bake at 350F (covered) for about 60 minutes, or until the top is golden brown and the apples are syrupy and tender, but not mushy. Broil the top for a few minutes to brown it more if desired. Let cool at least 15 minutes before slicing
+Notes:
 ---

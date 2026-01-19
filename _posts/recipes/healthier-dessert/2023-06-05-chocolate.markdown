@@ -54,10 +54,10 @@ Instructions:
 - In a glass bowl, melt the coconut oil in the microwave for about 1 minute.  Stir in cocoa powder until smooth.  Optionally, add a small pinch of salt
 - <center><img src='/assets/Food/Healthier Dessert/Choc Bar/bowl.jpg' alt='' class='instruction-image'></center>
 
-- You can either sweeten your chocolate bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) liquid monk fruit or stevia, or 1 tbsp (20 g) honey or maple syrup
-
 - Pour into a chocolate mold (a parchment lined bread pan will also work).  <a href='https://amzn.to/4mBCtnu'>These</a> are the ones I have.  A full batch of the chocolate will make 2 of these thin bars
 - <center><img src='/assets/Food/Healthier Dessert/Choc Bar/mold.jpg' alt='' class='instruction-image'></center>
 
 - Chill in the fridge for at least an hour (or freeze for 15 minutes) to set before using
+Notes:
+- You can either sweeten your chocolate bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) liquid monk fruit or stevia, or 1 tbsp (20 g) honey or maple syrup
 ---

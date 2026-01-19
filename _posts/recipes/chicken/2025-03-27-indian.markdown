@@ -59,4 +59,5 @@ Instructions:
 
 - Heat a large pan over medium heat. Add in the chicken, and saute until browned and internal temperature is 165F, about 10 minutes. Garnish with dried parsley
 - <center><img src='/assets/Food/Chicken/Indian/bowls.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

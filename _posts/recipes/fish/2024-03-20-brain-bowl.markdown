@@ -56,4 +56,5 @@ tags:
 Description: This "recipe" (if you can even call it that) was taken from the cookbook Genius Kitchen, and consists of just a sliced <a href='/misc/fruit#avocado'>avocado</a> and a drained can of <a href='/misc/fish#sardine'>sardines</a>. This brain bowl is a great small meal or large snack that's high in <a href='/misc/nutrient-alphabet#O'>omega-3s</a>, <a href='/misc/fats'>monounsaturated fat</a>, lutein, zeaxanthin, <a href='/misc/protein'>protein</a>, and <a href='/misc/fiber'>fiber</a> making it nourishing for both your stomach and your brain
 Instructions:
 - Cut your avocado into slices, and add to the base of a bowl. Roughly drain your sardines, and add on top of the avocado. Squeeze on some lemon/lime juice, and top with everything bagel seasoning
+Notes:
 ---

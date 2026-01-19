@@ -63,4 +63,5 @@ Instructions:
 
 - Add in the sauce and vegetables into the pan, and also add the cottage cheese. Combine and cook for about a minute until creamy. Optionally, top with shredded cheese, or serve with rice
 - <center><img src='/assets/Food/Chicken/Buffalo/buffalo-5.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

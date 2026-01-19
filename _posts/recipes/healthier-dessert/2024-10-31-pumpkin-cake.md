@@ -90,4 +90,5 @@ Instructions:
 - Spread on top of the cooled cake, and optionally dust the top with cinnamon.  Slice into 12, and serve
 - <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-not-dusted.jpg' alt='' class='half-page'><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-dusted.jpg' alt='' class='half-page'></center>
 - <center><img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-2.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

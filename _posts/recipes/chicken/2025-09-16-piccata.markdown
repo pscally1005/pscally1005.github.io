@@ -66,7 +66,7 @@ Instructions:
 - <center><img src='/assets/Food/Chicken/Piccata/sauce.jpg' alt='' class='instruction-image'></center>
 
 - As the sauce simmers, slice your chicken on a bias. Add the chicken to a plate, and pour the sauce over the chicken. Optionally garnish with a slice of lemon, and serve
-
+Notes:
 - Serve with a <a href='/recipes/sides'>side</a> of <a href='/recipes/roasted-vegetables'>roasted</a> or <a href='/recipes/vegetable-medley'>sauteed</a> veggies, such as <a href='/misc/veggies#spinach'>spinach</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, <a href='/misc/veggies#cauliflower'>cauliflower</a>, or <a href='/misc/veggies#asparagus'>asparagus</a>. Also pair with healthy <a href='/misc/veggies#carbs'>starches</a>, such as a <a href='/recipes/baked-sweet-potato'>baked potato</a>, <a href='/recipes/rice-and-beans'>brown rice</a>, <a href='/recipes/red-lentils'>lentils</a>, or <a href='/recipes/couscous'>couscous</a>.  Today, I'm pairing my Chicken Piccata with <a href='/recipes/roasted-vegetables'>Roasted Brussel Sprouts</a> and <a href='/recipes/air-fried-trail-mix'>Air Fryer Trail Mix</a>!
 - <center><img src='/assets/Food/Chicken/Piccata/cover1.jpg' alt='' class='instruction-image'></center>
 ---

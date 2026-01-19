@@ -62,8 +62,8 @@ Instructions:
 
 - Drain and rinse the can of artichokes and the can of chickpeas. Add to the salad
 
-- Top the base with crumbled feta cheese and kalamata olives
-
+- Top the base with crumbled feta cheese, kalamata olives, and your protein source
+Notes:
 - For the <a href='/misc/protein'>protein</a> source, I'll be using leftover <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, but any sort of <a href='/misc/protein'>protein</a> source will work, like grilled chicken/salmon, sauteed ground beef/turkey, crumbled tofu, or canned tuna. I prefer to add the meat to the individual bowls instead of the entire salad. So take out a serving of salad, top with chicken, and any additional feta or olives if desired
 
 - For a more typical dressing, check out the links below:<ul><li><a href='/recipes/eggplant-salad'>Grilled Eggplant and Chickpea Salad</a></li><li><a href='/recipes/mediterranean-potato-salad'>Mediterranean Sweet Potato Salad</a></li><li><a href='/recipes/peanut-chili-salad-dressing'>Peanut Chili Salad Dressing</a></li><li><a href='/recipes/olivcado'>Olivecado Salad Dressing</a></li><li><a href='/recipes/greek-yogurt-caesar-dressing'>Greek Yogurt Caesar Dressing</a></li></ul>

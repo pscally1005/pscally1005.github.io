@@ -55,4 +55,5 @@ Description: Chobani sells <a href='https://amzn.to/43NZ2On'>this</a> lactose fr
 Instructions:
 - Mix all ingredients together in a large bowl, and store in the fridge
 - <center><img src='/assets/Food/Breakfast/Lactose Free Yogurt/bowl.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

@@ -84,4 +84,5 @@ Instructions:
 
 - Divide into 6 servings, and garnish with chopped peanuts
 - <center><img src='/assets/Food/Ground Meat/Peanut Chili/containers.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

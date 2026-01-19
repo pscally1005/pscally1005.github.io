@@ -64,7 +64,7 @@ Instructions:
 
 - Freeze for about 1 hour (or refrigerate for 3) before slicing into 16. Store in the fridge or freezer
 - <center><img src='/assets/Food/Healthier Dessert/Cookie Bar/cut.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - You can also make a double batch in a 9x13" pan, and cut into 32 bars.  If you're struggling to visualize how to slice this, here's what helped for me:<b></b> Cut it in half to make 2 equal squares, and then cut each square into 16 to get a total of 32
 - <center><img src='/assets/Food/Healthier Dessert/Cookie Bar/double.jpg' alt='' class='instruction-image'></center>
 ---

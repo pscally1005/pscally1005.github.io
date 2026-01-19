@@ -66,4 +66,5 @@ Instructions:
 
 - Let cool on the pan for a few minutes before transferring to a wire rack to cool
 - <center><img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-cooled.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

@@ -65,7 +65,7 @@ Instructions:
 
 - Chill in the fridge for at least 1 hour before slicing.  Optionally, coat the outsides of the cut pieces in cocoa powder to prevent sticking
 - <center><img src='/assets/Food/Finger Food/Pan de Higo/cut.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - Any unsweetened dried fruit can work in place of figs, such as dates, raisins, or prunes
 
 - You can also swap out the almonds; try peanuts, pistachios, cashews, or sunflower seeds

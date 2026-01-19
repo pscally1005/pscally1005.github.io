@@ -67,4 +67,5 @@ Instructions:
 
 - Transfer the sauce into the pan, and let simmer for a few minutes over medium low heat. Serve in a <a href='/recipes/pita'>pita bread</a>, with rice, or by itself (nutrition facts include the pita)
 - <center><img src='/assets/Food/Ground Meat/Pesto Pita/pesto-pita-5.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

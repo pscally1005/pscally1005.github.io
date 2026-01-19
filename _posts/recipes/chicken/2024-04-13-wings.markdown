@@ -63,7 +63,7 @@ Instructions:
 
 - Meanwhile, to a large bowl, add your hot sauce, where here I used my <a href='/recipes/hot-sauce'>Red Jalepeno Louisiana Hot Sauce</a>. Optionally, add some more cayenne if you like it a little spicier. Toss the wings in the sauce, and serve
 - <center><img src='/assets/Food/Chicken/Wings/wings-5.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - You can also use this cooking method with chicken thighs (either boneless skinless, or bone in and skin on) for crispy and juicy chicken thighs.  See my <a href='/recipes/baked-chicken-thighs'>Spiced Baked Chicken Thighs</a> for more detail
 - <center><img src='/assets/Food/Chicken/Wings/boneless-skinless.jpg' alt='' class='instruction-image'></center>
 - <center><img src='/assets/Food/Chicken/Wings/bone-in-skin-on.jpg' alt='' class='half-page'></center>

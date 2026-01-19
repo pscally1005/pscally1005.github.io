@@ -64,4 +64,5 @@ Instructions:
 
 - Add to your air fryer basket. You may have to fry in 2 batches. Air fry at 400F for about 6-8 minutes, or until the outside is browned and crispy, and the center is soft and tender
 - <center><img src='/assets/Food/Finger Food/Waffle Fries/cooked.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

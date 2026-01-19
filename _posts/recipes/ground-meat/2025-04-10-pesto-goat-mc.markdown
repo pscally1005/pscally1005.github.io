@@ -68,4 +68,5 @@ Instructions:
 
 - Finally, combine together the pesto with the pasta in your pot, using a small splash of reserved pasta water to thicken. Transfer to 5 bowls, and top with vegetables and meat. Garnish with some crumbles of goat cheese, basil leaves, pine nuts, or sun dried tomatoes. Serve
 - <center><img src='/assets/Food/Ground Meat/Pesto Goat MC/containers.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

@@ -62,4 +62,5 @@ Instructions:
 
 - Transfer to the fridge, and let chill until totally cooled. Invert onto a plate, slice, and serve
 - <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/sliced.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

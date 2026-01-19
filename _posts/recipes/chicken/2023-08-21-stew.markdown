@@ -66,4 +66,5 @@ Instructions:
 
 - Cover and cook on low for about 6 hours, or until chicken is fully cooked, ideally around 180F
 - <center><img src='/assets/Food/Chicken/Stew/stew-2.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

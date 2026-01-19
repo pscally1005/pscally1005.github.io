@@ -54,4 +54,5 @@ Instructions:
 - In a small pot, bring water to a boil. Add a piece of ginger into the pot, and let simmer for 5 minutes
 
 - Stir in lemon juice, and let sit for a few minutes.  Remove the ginger, and optionally some honey if you like it sweeter
+Notes:
 ---

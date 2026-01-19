@@ -67,4 +67,5 @@ Instructions:
 
 - Bake at 350F for about 12 minutes, or until the bottom and sides are very slightly browned. Let cool on the sheet for 10 minutes before removing
 - <center><img src='/assets/Food/Healthier Dessert/Coconut Cookies/baked.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

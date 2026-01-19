@@ -56,4 +56,5 @@ Instructions:
 - Add the other ingredients to a food processor and blend until mixture turns into a dough-like consistency. You can also mix in a bowl if your food processor is too small to fit it all, as long as you blend up the carrots. Refrigerate until you can shape it without too much sticking
 
 - With a small spoon, scoop the mixture and roll into balls.  Place in an airtight container, and store in the fridge or the freezer
+Notes:
 ---

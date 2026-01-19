@@ -78,4 +78,5 @@ Instructions:
 - To reheat from the fridge, cook at 400F until thawed and hot, about 3-5 minutes in the air fryer or 10-15 minutes in the oven
 
 - To reheat from frozen, cook at 400F until thawed and hot, about 5-8 minutes in the air fryer or 15-20 minutes in the oven
+Notes:
 ---

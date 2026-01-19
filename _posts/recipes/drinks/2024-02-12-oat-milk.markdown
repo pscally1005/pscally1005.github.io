@@ -52,9 +52,6 @@ tags:
 - cinnamon
 Description: I've been using unsweetened vanilla <a href='/misc/nuts#almonds'>almond</a> <a href='/misc/fake-healthy-foods#skim-milk'>milk</a> for years, so I wanted to try making it myself, since store bought plant based milks tend to have a lot of extra weird ingredients. Unfortunately making <a href='/misc/dairy#almond-milk'>almond milk</a> is more expensive than just buying it, so that's where I got to oat milk. <a href='/misc/grains#oats'>Oats</a> are super cheap, so this is way cheaper than buying oat milk from the store. The process is the same though; I've tried this with quick <a href='/misc/grains#oats'>oats</a>, almonds, <a href='/misc/nuts#peanuts'>peanuts</a>, and <a href='/misc/nuts#pistachios'>pistachios</a>, all to great success
 Instructions:
-- If you're making almond (or any nut) milk, you should soak the almonds overnight. Add raw almonds to a bowl, just cover with water, and let soak for at least 8 hours. Drain the excess water prior to blending. If you are making oat milk, there's no soaking required
-- <center><img src='/assets/Food/Drinks/Oat Milk/oat-milk-1.jpg'  class='instruction-image'></center>
-
 - Add your oats (or almonds) and water to a high speed blender. Add in any other flavorings you like as well, such as salt, vanilla, or cinnamon
 
 - Blend on high for 30 seconds, or until well combined. Do not over blend, or it will get slimy (this is more of an issue with oat milk than almond milk)
@@ -62,4 +59,7 @@ Instructions:
 - Place a cheese cloth (or nut milk bag) over a large bowl, and strain the milk. Don't squeeze the milk through the cloth, this could make it slimy
 
 - Transfer to a mason jar or soup container, and refrigerate for up to 5 days. Use the leftover pulp in your morning oatmeal or yogurt bowls
+Notes:
+- If you're making almond (or any nut) milk, you should soak the almonds overnight. Add raw almonds to a bowl, just cover with water, and let soak for at least 8 hours. Drain the excess water prior to blending. If you are making oat milk, there's no soaking required
+- <center><img src='/assets/Food/Drinks/Oat Milk/oat-milk-1.jpg'  class='instruction-image'></center>
 ---

@@ -68,4 +68,5 @@ Instructions:
 
 - Serve with sides of <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a>, <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, and <a href='/recipes/tropical-salsa'>Tropical Fruit Salsa</a>
 - <center><img src='/assets/Food/Chicken/Fajitas/fajita-cover-old.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

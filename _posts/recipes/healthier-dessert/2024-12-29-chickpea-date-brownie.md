@@ -63,4 +63,5 @@ Instructions:
 
 - Transfer to a wire rack to totally cool in the fridge before slicing into 24 with a plastic knife
 - <center><img src='/assets/Food/Healthier Dessert/Chickpea Date Brownie/cut.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

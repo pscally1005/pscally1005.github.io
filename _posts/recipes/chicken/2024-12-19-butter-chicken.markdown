@@ -78,4 +78,5 @@ Instructions:
 
 - Remove from the heat, serve with a side of quinoa (or <a href='/misc/grains#brown-rice'>brown rice</a> or lentils), and top with dried parsley
 - <center><img src='/assets/Food/Chicken/Butter Chicken/pot.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

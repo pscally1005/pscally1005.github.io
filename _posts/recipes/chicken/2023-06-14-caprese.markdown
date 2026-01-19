@@ -65,4 +65,5 @@ Instructions:
 
 - Return chicken to skillet and nestle with tomatoes. Top each piece of chicken with cheese, and cover the skillet to melt the cheese. Cover and cook for an additional minute until the cheese is melted, and serve
 - <center><img src='/assets/Food/Chicken/Caprese/caprese-6.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

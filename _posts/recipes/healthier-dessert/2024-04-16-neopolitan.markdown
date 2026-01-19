@@ -68,4 +68,5 @@ Instructions:
 
 - Add plastic wrap to the top of the ice cream, pressing it in to make sure there's no gap between. Transfer to the freezer to store and firm before scooping, or enjoy right away
 - <center><img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-6.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

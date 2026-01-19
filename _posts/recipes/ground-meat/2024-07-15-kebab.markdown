@@ -69,4 +69,5 @@ Instructions:
 - <center><img src='/assets/Food/Ground Meat/Kebab/kebab-pan.jpg' alt='' class='instruction-image'></center>
 
 - Grill - heat a grill to medium heat, and cook the skewers for about 5 minutes per side, or until cooked through (at least 165F for turkey)
+Notes:
 ---

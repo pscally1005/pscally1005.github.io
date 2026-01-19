@@ -64,10 +64,8 @@ Instructions:
 
 - If you don't already have oat flour, you can just blend up quick or rolled oats in your food processor. Make sure to grind up the oats on their own, as they won't get fully blended if you do it with everything else
 
-- Place the rest of the ingredients and blend until a smooth batter forms. For a nut free replacement, you can use the same amount by weight (128 g) of any seed butter (pumpkin seed or sunflower seed), or an overripe banana.  Note that the batter should be very thick. My 8 cup food processor could barely fit the whole batter and blend it together
+- Place the rest of the ingredients and blend until a smooth batter forms
 - <center><img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-3.jpg' alt='' class='instruction-image'></center>
-
-- These brownies are naturally sweetened with dates. Using the same amount by weight of raisins or figs would also work as a replacement for dates. For a lower <a href='/misc/hidden-sugar'>sugar</a> option, replace both the dates and the milk with overripe bananas, about 3 large or 330 g
 
 - Transfer the batter to the pan. Using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <center><img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-5.jpg' alt='' class='instruction-image'></center>
@@ -76,4 +74,10 @@ Instructions:
 - <center><img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-6.jpg' alt='' class='instruction-image'></center>
 
 - Let cool totally in the fridge for a few hours (ideally overnight) before slicing and enjoying
+Notes:
+- These brownies are naturally sweetened with dates. Using the same amount by weight of raisins or figs would also work as a replacement for dates. For a lower <a href='/misc/hidden-sugar'>sugar</a> option, replace both the dates and the milk with overripe bananas, about 3 large or 330 g
+
+- For a nut free replacement, you can use the same amount by weight (128 g) of any seed butter (pumpkin seed or sunflower seed), or an overripe banana
+
+- The batter should be very thick. My 8 cup food processor could barely fit the whole batter and blend it together
 ---

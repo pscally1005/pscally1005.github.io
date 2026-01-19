@@ -62,4 +62,5 @@ Description: I love <a href='/misc/protein'>protein</a> overnight <a href='/misc
 Instructions:
 - Mix all ingredients together in a bowl or airtight container. Top with sliced strawberries, refrigerate overnight, and enjoy cold or warm the next day
 - <center><img src='/assets/Food/Breakfast/No Pro/no-pro-1.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

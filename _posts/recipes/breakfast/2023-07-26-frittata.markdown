@@ -65,4 +65,5 @@ Instructions:
 
 - Let the frittata rest for at least 15 minutes before slicing
 - <center><img src='/assets/Food/Breakfast/Frittata/frittata-cut.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

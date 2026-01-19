@@ -52,4 +52,5 @@ Instructions:
 - In a mug, whisk the cocoa and cinnamon into a splash of milk (about 2 tbsp). Optionally, add some cinnamon, a small pinch of salt, or a dash of vanilla (or all 3). Whisk until fully combined, then add in the rest of the milk. This helps prevent clumping and allows for everything to be fully incorporated
 
 - Microwave on high for 1-2 minutes, or until desired temperature is reached
+Notes:
 ---

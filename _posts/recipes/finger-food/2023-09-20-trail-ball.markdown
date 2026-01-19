@@ -62,4 +62,5 @@ Instructions:
 - In a bowl, mash the banana with a fork. Roughly chop the raisins and nuts.  Mix in the rest of the ingredients
 
 - Roll into balls and place on a plate. Let chill in the fridge for an hour to harden
+Notes:
 ---

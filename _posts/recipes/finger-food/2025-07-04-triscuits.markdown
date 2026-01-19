@@ -63,7 +63,7 @@ Instructions:
 - Bake in a preheated 450F oven for 10 minutes, or until the crackers are medium brown and begin to pull up at the edges.  Reduce oven temperature to 300F, and bake for an additional 10 minutes.  The crackers should be a dark golden brown
 - <center><img src='/assets/Food/Finger Food/Triscuit/baked.jpg' alt='' class='instruction-image'></center>
 
--  Allow the crackers to totally cool on the baking sheet.  Store in an airtight bag at <b>room temperature</b>
-
+- Allow the crackers to totally cool on the baking sheet.  Store in an airtight bag at <b>room temperature</b>
+Notes:
 - I ended up with about 120 crackers weighing about 8 oz (226 g) total.  Each serving is 1 oz (28 g) or about 15 crackers
 ---
