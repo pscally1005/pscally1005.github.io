@@ -63,4 +63,5 @@ Instructions:
 - <center><img src='/assets/Food/Breakfast/Scrambled/scrambled-4.jpg' alt='' class='instruction-image'></center>
 
 - Serve with a side of carrots, and put the other 2 servings away for another day
+Notes:
 ---

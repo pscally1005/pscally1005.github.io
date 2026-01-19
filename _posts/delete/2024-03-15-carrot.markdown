@@ -68,4 +68,5 @@ Instructions:
 - <center><img src='/assets/Food/Sweet Spreads/Carrot/carrot-4.jpg' alt='' class='instruction-image'></center>
 
 - My batch weighed about 570g at the end. Assuming a 2 tbsp (32 g) serving, there are about 18 servings
+Notes:
 ---

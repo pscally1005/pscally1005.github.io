@@ -61,4 +61,5 @@ Instructions:
 - <center><img src='/assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-2.jpg' alt='' class='instruction-image'></center>
 
 - Refrigerate for a few hours to harden fully before slicing
+Notes:
 ---

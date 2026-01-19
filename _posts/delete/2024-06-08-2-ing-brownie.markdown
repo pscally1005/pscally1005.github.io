@@ -64,10 +64,6 @@ Instructions:
 
 - Microwave your chocolate in 20-30 second intervals, stirring in between, until fully melted
 
-- If you choose to make your own chocolate instead, microwave the coconut oil for about 1:30 until fully melted. Stir in the cocoa and sweetener until smooth
-
-- Either way, set your chocolate aside to cool after melting
-
 - Meanwhile, crack your eggs into a large bowl. Beat with a hand mixer until frothy, about 1-2 minutes
 - <center><img src='/assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-5.jpg' alt='' class='instruction-image'></center>
 
@@ -76,4 +72,6 @@ Instructions:
 - Bake at 350F for about 16-20 minutes, or until a toothpick to the center comes out moist with a few crumbs, but not too dirty.  If it's clean, the brownies are overcooked
 
 - Let cool on the counter for a few minutes before transferring to the fridge to cool and set (at least a few hours) before cutting and serving
+Notes:
+- If you choose to make your own chocolate instead, microwave the coconut oil for about 1:30 until fully melted. Stir in the cocoa and sweetener until smooth.  Either way, set your chocolate aside to cool after melting
 ---

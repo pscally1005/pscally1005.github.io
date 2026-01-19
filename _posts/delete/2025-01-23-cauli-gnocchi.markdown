@@ -80,4 +80,5 @@ Instructions:
 
 - Divide into 4 servings
 - <center><img src='/assets/Food/Meatless/Gnocchi/cover-2.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

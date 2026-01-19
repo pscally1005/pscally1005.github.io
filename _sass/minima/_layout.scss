@@ -580,6 +580,13 @@
     margin-bottom: 0.5em; /* consistent spacing between steps */
 }
 
+// Images in instruction steps
+.instruction-image {
+  width: 400px;
+  object-fit: cover;
+  border-radius: 10px; /* Rounded corners */
+}
+
 /* Images: remove numbers and indentation, center them */
 .instruction-image-li {
   list-style: none;     /* remove number */

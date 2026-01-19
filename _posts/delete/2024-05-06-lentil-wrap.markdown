@@ -63,6 +63,6 @@ Instructions:
 - After soaking, blend until smooth
 
 - Preheat a large pan over medium heat. Pour in the tortilla batter, and cook until the top has bubbles and appears dry. Flip and cook for an additional minute. Transfer to a plate or wire rack. Between each batch, re-blend the batter, and lightly spray the pan with oil
-
+Notes:
 - Don't make them too thin or they will fall apart when flipping or eating. With any failed tortillas, you can rip them into large chunks and air fry at 400F for about 5 minutes to make red lentil tortilla chips
 ---

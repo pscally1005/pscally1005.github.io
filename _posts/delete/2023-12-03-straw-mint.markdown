@@ -65,4 +65,5 @@ Instructions:
 - In a food processor, blend together the nuts until a smooth nut butter is formed. Scrape down the sides every minute or so. This should take about 5-10 minutes
 
 - Then, choose your flavor, and blend in the rest of the ingredients with the salt (optional, depending on the saltiness of your nuts), sweetener (liquid monk fruit or stevia), and protein powder (unflavored whey)
+Notes:
 ---

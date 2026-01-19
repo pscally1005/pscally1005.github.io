@@ -79,4 +79,5 @@ Instructions:
 
 - Add your <a href='/misc/protein'>protein</a> source on top of the salad, drizzle with your dressing, and enjoy!
 - <center><img src='/assets/Food/Fish/Massive Salad/massive-salad-5.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

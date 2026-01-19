@@ -65,4 +65,5 @@ Instructions:
 
 - Bake at 350F for about 15 minutes for mini muffins, or about 20 minutes for regular sized muffins. Let cool in the pan for 5 minutes before transferring to a wire rack and serving. Optionally, top with shredded cheese and serve with salsa
 - <center><img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-4.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

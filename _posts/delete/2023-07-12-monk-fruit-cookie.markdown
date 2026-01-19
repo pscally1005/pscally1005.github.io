@@ -62,17 +62,20 @@ Description: Delicious cookies made without <a href='/misc/hidden-sugar'>sugar</
 Instructions:
 - Combine the base ingredients in a large bowl - granulated monk fruit (or any other granular sweetener), unsweetened applesauce, vanilla extract, baking soda, and salt
 
-- Here are some example flavors that you can make<br>
-- <b>Chocolate Chip</b> - <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (1 cup, 124 g), and chopped sugar free chocolate (1/4 cup, 45 g)<br>
-- <b>Oatmeal Raisin</b> - cinnamon (1/2 tsp), oat flour (1.33 cup, 120 g), and raisins (1/4 cup, 40 g)<br>
-- <b>Peanut Chocolate</b> - powdered peanut butter (1 cup, 100 g, omit the salt if using powdered peanut butter), and chopped sugar free chocolate (1/4 cup, 45 g)<br>
-- <b>Almond</b> - almond extract (1/2 tsp, 2.5 g), and almond flour (1 cup, 112 g)<br>
-- <b>Coconut</b> - blended unsweetened coconut flakes (1 cup, 100 g), and a drizzle of melted chocolate on the baked cookies at the end
-
-- Choose your flavor. Here, the flour is oat flour, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
+- Choose your flavor (see notes below). Here, the flour is oat flour, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
 
 - Preheat the oven to 350F and line a large cookie sheet with parchment paper. Roll into cookies, and flatten as desired (they won't flatten as they cook)
 - <center><img src='/assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-3.jpg' alt='' class='instruction-image'></center>
 
 - Bake in your preheat oven for about 8 minutes.  Let the cookies cool on the pan for 5 minutes, then transfer to a cooling rack
+Notes:
+- <b>Chocolate Chip</b> - <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (1 cup, 124 g), and chopped sugar free chocolate (1/4 cup, 45 g)
+
+- <b>Oatmeal Raisin</b> - cinnamon (1/2 tsp), oat flour (1.33 cup, 120 g), and raisins (1/4 cup, 40 g)
+
+- <b>Peanut Chocolate</b> - powdered peanut butter (1 cup, 100 g, omit the salt if using powdered peanut butter), and chopped sugar free chocolate (1/4 cup, 45 g)
+
+- <b>Almond</b> - almond extract (1/2 tsp, 2.5 g), and almond flour (1 cup, 112 g)
+
+- <b>Coconut</b> - blended unsweetened coconut flakes (1 cup, 100 g), and a drizzle of melted chocolate on the baked cookies at the end
 ---

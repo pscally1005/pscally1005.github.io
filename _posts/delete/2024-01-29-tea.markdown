@@ -53,4 +53,5 @@ Instructions:
 - <center><img src='/assets/Food/Drinks/Banana Tea/tea-1.jpg' alt='' class='instruction-image'></center>
 
 - Strain the liquid, optionally sweeten, and serve
+Notes:
 ---

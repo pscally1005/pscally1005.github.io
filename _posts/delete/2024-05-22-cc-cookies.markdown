@@ -85,7 +85,7 @@ Instructions:
 - Bake in a preheated 350F oven for about 13-15 minutes, or until the cookies have risen slightly, and the bottoms are a light golden brown.  Be careful to not overcook them
 
 - Let cool on the pan for 5 minutes before transferring to a wire rack to cool completely.  Store in an airtight container in the fridge
-
+Notes:
 - You can also enjoy these as edible cookie dough bites
 - <center><img src='/assets/Food/Healthier Dessert/CC Cookies/cc-cookie-dough.jpg' alt='' class='instruction-image'></center>
 ---

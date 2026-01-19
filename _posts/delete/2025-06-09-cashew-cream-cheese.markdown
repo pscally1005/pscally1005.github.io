@@ -61,4 +61,5 @@ Instructions:
 
 - Add the soaked cashews and water to a food processor or blender, along with lemon juice, apple cider vinegar, nutritional yeast, garlic, and salt. Blend until smooth
 - <center><img src='/assets/Food/Savory Sauces/Cashew Cream Cheese/processor.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

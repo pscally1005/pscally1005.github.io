@@ -1,0 +1,28 @@
+<div class='recipe-instruction-header'>
+    {% if page.Notes %}
+        <div class='recipe-header'>Notes</div>
+
+        <!-- Display steps -->
+        <div class='recipe-instructions'>
+            <div class='recipe-section'>
+                <ol>
+                    {% assign step_number = 1 %}
+                    {% for step in page.Notes %}
+                      {% if step contains "<center>" %}
+                        <!-- Image step -->
+                        </ol>
+                        <li class="instruction-image-li print-only">
+                          {{ step }}
+                        </li>
+                        <ol start="{{ step_number }}">
+                      {% else %}
+                        <!-- Numbered text step -->
+                        <li class="print-only">{{ step }}</li>
+                        {% assign step_number = step_number | plus: 1 %}
+                      {% endif %}
+                    {% endfor %}
+                  </ol>
+            </div>
+        </div>
+    {% endif %}
+</div>

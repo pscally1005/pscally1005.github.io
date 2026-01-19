@@ -61,6 +61,6 @@ Instructions:
 
 - Remove the pot from the heat, and stir in vanilla and salt. Transfer to a mason jar. Let cool uncovered at room temperature for at least 30 minutes, or until fully cooled
 - <center><img src='/assets/Misc/Unhealthy/Caramel/jar.jpg' alt='' class='instruction-image'></center>
-
+Notes:
 - If the syrup hardens, just microwave the jar in 30 second intervals, stirring in between, until you can easily drizzle it out
 ---

@@ -63,4 +63,5 @@ Instructions:
 - Add all ingredients to a food processor, and blend until super smooth.  Thin out with aquafaba if needed (1-2 tbsp, or 15-30 g)
 
 - Transfer to an airtight container, and garnish with sesame seeds or chopped scallions (most folks call them green onions).  Store in the fridge for up to 1 week. Use as a dip, spread, or dressing
+Notes:
 ---

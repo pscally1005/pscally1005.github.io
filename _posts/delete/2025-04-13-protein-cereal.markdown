@@ -75,4 +75,5 @@ Instructions:
 
 - Air fry at 300F for 10 minutes. Transfer to a wire rack to completely cool before breaking into small chunks with your hands
 - <center><img src='/assets/Food/Breakfast/Protein Cereal/cooked.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---
