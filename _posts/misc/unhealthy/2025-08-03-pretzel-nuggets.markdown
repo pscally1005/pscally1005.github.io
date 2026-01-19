@@ -53,4 +53,5 @@ Instructions:
 - In a small bowl, add chocolate chips and coconut oil. Microwave in 30 second intervals, stirring in between, until you have a smooth melted chocolate. Lightly paint the tops of each pretzel nugget in chocolate, and return to the pan. Refrigerate to harden, and serve
 - <center><img src='/assets/Misc/Unhealthy/Pretzel Nuggets/done.jpg' alt='' class='instruction-image'></center>
 - <center><img src='/assets/Misc/Unhealthy/Pretzel Nuggets/cover-1.jpg' alt='' class='instruction-image'></center>
+Notes:
 ---

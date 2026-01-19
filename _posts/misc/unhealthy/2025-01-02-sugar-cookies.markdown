@@ -62,4 +62,5 @@ Instructions:
 - <center><img src='/assets/Misc/Unhealthy/Sugar Cookies/icing.jpg' alt='' class='instruction-image'></center>
 
 - Dip the cookies in the icing, and decorate as you see fit.  You can also use butter knives, toothpicks, or piping bags.  Let rest for about 30 minutes for the icing to harden before serving.  Have fun, and get creative!
+Notes:
 ---
