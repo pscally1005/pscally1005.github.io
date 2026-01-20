@@ -595,12 +595,16 @@
   padding-left: 0;      /* remove indent */
   text-align: center;   /* center content */
   margin: 0.5em 0;      /* spacing above/below */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 .instruction-image-li img {
   width: 400px;
   object-fit: cover;
   border-radius: 10px;
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 // Logo at top of home and page
@@ -608,6 +612,8 @@
   width: 400px;
   object-fit: cover;
   border-radius: 10px; /* Rounded corners */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 // Larger image for instructions
@@ -615,6 +621,8 @@
   width: 800px;
   object-fit: cover;
   border-radius: 10px; /* Rounded corners */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 // Favicon for site
@@ -622,12 +630,16 @@
   width: 25px; /* Favicon width */
   object-fit: cover; /* Maintain aspect ratio */
   margin-right: 5px; /* Add some spacing between the favicon and text */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 // Small image for clip arts
 .smaller-image {
   width: 10%;
   object-fit: cover;
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 .half-page {
@@ -638,6 +650,8 @@
   aspect-ratio: 4 / 3; /* Ensures a 4:3 ratio */
   object-fit: cover;
   border-radius: 10px; /* Rounded corners */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 @media (max-width: 1000px) {
@@ -645,10 +659,14 @@
     display: block;
     width: 100%;
     margin-bottom: 0.75rem; /* spacing between stacked images */
+    display: block;        /* ⬅ makes margin work */
+    margin: 0 auto;        /* ⬅ centers horizontally */
   }
 
   .half-page:last-child {
     margin-bottom: 0;
+    display: block;        /* ⬅ makes margin work */
+    margin: 0 auto;        /* ⬅ centers horizontally */
   }
 }
 
@@ -660,6 +678,8 @@
   aspect-ratio: 4 / 3; /* Ensures a 4:3 ratio */
   object-fit: cover;
   border-radius: 10px; /* Rounded corners */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 // Full page width image
@@ -667,6 +687,10 @@
   width: 100%;
   object-fit: cover;
   border-radius: 10px; /* Rounded corners */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 
