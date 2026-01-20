@@ -69,10 +69,10 @@ tags:
 &emsp;I use cans of <a href='/misc/beans'>beans</a> interchangeably.  To me, all beans are the same; just a different color and shape (with minor nutritional differences).  Put <a href='/misc/beans#chickpeas'>chickpeas</a> in your chili, use <a href='/misc/beans#black-beans'>black beans</a> for hummus, put <a href='/misc/beans#pinto-beans'>pinto beans</a> in a salad, I don't care; they're all the same to me anyway:
 - <a href='/misc/beans#black-beans'>Black beans</a>
 - <a href='/misc/beans#black-eyed-peas'>Black eyes peas</a>
-- Cannellini beans</a>
+- <a href='/misc/beans#cannellini-beans'>Cannellini beans</a>
 - <a href='/misc/beans#chickpeas'>Chickpeas (garbanzo beans)</a>
 - Dark red <a href='/misc/beans#kidney-beans'>kidney beans</a>
-- Fava beans
+- <a href='/misc/beans#fava-beans'>Fava beans</a>
 - Light red <a href='/misc/beans#kidney-beans'>kidney beans</a>
 - <a href='/misc/beans#navy-beans'>Navy beans</a>
 - <a href='/misc/beans#pink-beans'>Pink beans</a>

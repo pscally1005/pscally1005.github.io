@@ -638,8 +638,7 @@
 .smaller-image {
   width: 10%;
   object-fit: cover;
-  display: block;        /* ⬅ makes margin work */
-  margin: 0 auto;        /* ⬅ centers horizontally */
+  margin: 0 6px;        /* ⬅ centers horizontally */
 }
 
 .half-page {

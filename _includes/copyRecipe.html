@@ -68,7 +68,7 @@
         {% assign count == 0 %}
         {% for step in page.Instructions %}
 
-            {% if step contains "<center>" %}
+            {% if step contains "<img" %}
                 {% continue %}
             {% endif %}
 
