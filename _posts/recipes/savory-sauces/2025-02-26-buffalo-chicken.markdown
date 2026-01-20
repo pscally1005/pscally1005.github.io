@@ -60,14 +60,11 @@ Instructions:
 - Preheat your oven to 400F
 
 - Directly in a 9" square baking dish, mix together <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, hot sauce, yogurt, cottage cheese, oil, and 1 cup (113 g) shredded cheese.  Top with your remaining 1/2 cup (56 g) shredded cheese
-- <center><img src='/assets/Food/Savory Sauces/Buffalo Chicken/raw.jpg' alt='' class='instruction-image'></center>
-
-- For the chicken, I prefer to make my own <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, since it's cheap and easy to do.  You can also shred up a storebought rotisserie chicken, but those tend to be filled with a ton of additives that I'd prefer to avoid, but it's totally up to you
+- en, I prefer to make my own <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, since it's cheap and easy to do.  You can also shred up a storebought rotisserie chicken, but those tend to be filled with a ton of additives that I'd prefer to avoid, but it's totally up to you
 - <center><a href='/recipes/shredded-chicken'><img src='/assets/Food/Chicken/Shredded/cover.jpg' alt='' class='instruction-image'></a></center>
 
 - I would normally use oil, but you can also use the leftover shmaltz (chicken fat) you rendered out from making the <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a> for even more flavor
 - <center><a href='/recipes/shredded-chicken'><img src='/assets/Food/Chicken/Shredded/jars.jpg' alt='' class='instruction-image'></a></center>
 
 - Bake at 400F for 25 minutes (uncovered), or until lightly bubbly.  Let cool for a few minutes before serving
-- <center><img src='/assets/Food/Savory Sauces/Buffalo Chicken/cooked.jpg' alt='' class='instruction-image'></center>
----
+- 

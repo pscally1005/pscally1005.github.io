@@ -58,13 +58,13 @@ Instructions:
 - Pour the water into a glass, and microwave for 1 minute. Add the water and apple cider vinegar to the dry ingredients, and mix until you have a fully combined dough
 
 - Shape the dough into a large ball, and let the dough rest for about 10 minutes
-- <center><img src='/assets/Food/Bread/Almond Flour Loaf/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Almond Flour Loaf/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the dough to the loaf pan, and firmly press down
-- <center><img src='/assets/Food/Bread/Almond Flour Loaf/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Almond Flour Loaf/raw.jpg' alt='' class='instruction-image'>
 
 - Bake for about 75 minutes at 375F, or until lightly browned on the top, and a toockpick comes out totally clean. Transfer to a wire rack to cool before slicing
-- <center><img src='/assets/Food/Bread/Almond Flour Loaf/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Almond Flour Loaf/baked.jpg' alt='' class='instruction-image'>
 Notes:
 - |
   The sandwich pictured below and above combines 2 slices of this almond flour bread with 1 sliced banana, a dash of cinnamon, and a peanut butter spread consisting of the following
@@ -84,5 +84,5 @@ Notes:
     <li><a href='/misc/carbs'>Net Carbs</a> - 29 g</li>
     <li><a href='/misc/fiber'>Fiber</a> - 15 g </li>
   </ul>
-- <center><img src='/assets/Food/Bread/Almond Flour Loaf/toast.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Almond Flour Loaf/toast.jpg' alt='' class='instruction-image'>
 ---

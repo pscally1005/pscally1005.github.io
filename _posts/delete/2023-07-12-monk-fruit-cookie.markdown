@@ -65,7 +65,7 @@ Instructions:
 - Choose your flavor (see notes below). Here, the flour is oat flour, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
 
 - Preheat the oven to 350F and line a large cookie sheet with parchment paper. Roll into cookies, and flatten as desired (they won't flatten as they cook)
-- <center><img src='/assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-3.jpg' alt='' class='instruction-image'>
 
 - Bake in your preheat oven for about 8 minutes.  Let the cookies cool on the pan for 5 minutes, then transfer to a cooling rack
 Notes:

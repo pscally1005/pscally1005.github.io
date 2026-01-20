@@ -67,6 +67,6 @@ Instructions:
 - Add to a pan and cook for 2-3 minutes each side, or until they turn from gray to pink
 
 - Serve the shrimp and sauce with pasta if desired
-- <center><img src='/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Fish/Fra Diavolo/fra-diavolo-6.jpg' alt='' class='instruction-image'>
 Notes:
 ---

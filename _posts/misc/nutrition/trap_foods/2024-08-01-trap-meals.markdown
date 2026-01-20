@@ -116,12 +116,12 @@ tags:
 <br><i><font size='+2'>Baked Beans</font></i><br>
 &emsp;Beans are a healthy side dish.  They're a good plant based <a href='/misc/protein'>protein</a>, contain a lot of <a href='/misc/fiber'>fiber</a>, and can even make you a musician.  Baked beans on the other hand, not so much.  <a href='https://amzn.to/3FuMyC6'>Canned baked beans</a> are just <a href='/misc/beans#navy-beans'>navy beans</a> covered in a ton of <a href='/misc/hidden-sugar'>sugar</a>, often containing as many grams of total <a href='/misc/hidden-sugar'>sugar</a> as <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> combined.  With 11 g (nearly a tablespoon) of <a href='/misc/hidden-sugar'>added sugar</a> per 1/2 cup (130 g) serving, this is really a dessert in disguise on your dinner plate.  I prefer my version instead: <a href='/recipes/baked-beans'>No Added Sugar Baked Beans</a>.  Not to mention that it's often paired with...
 
-<center><img src='/assets/Misc/Nutrition/Trap/baked-beans.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/baked-beans.jpg' alt='' class='larger-image'>
 <div id='cornbread' class='table-of-contents'></div>
 <br><i><font size='+2'>Cornbread</font></i><br>
 &emsp;...cornbread.  <a href='https://amzn.to/43qQZ8M'>Cornbread</a> is another dessert that somehow weaseled it's way onto your dinner plate.  Just like muffins, banana bread, and baked beans, cornbread is secretly a dessert with good marketing.  The one linked above (and shown below) has <a href='/misc/hidden-sugar'>sugar</a> as it's first ingredient, closely followed by bleached <a href='/misc/grains#white-wheat'>white flour</a> and seed oil (wait, where's the cornmeal?).  There's more <a href='/misc/hidden-sugar'>added sugar</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/calories'>calories</a> in 1 slice of this cornbread as one of these <a href='https://amzn.to/4dINGPm'>large chocolate chip cookies</a>!
 
-<center><img src='/assets/Misc/Nutrition/Trap/cornbread.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/cornbread.jpg' alt='' class='larger-image'>
 &emsp;Cornbread or corn muffins can be a fine dessert in moderation, but know what you're getting when you reach for a slice.  If you're anything like me (if you're this deep down then congrats, you probably are lol), you should enjoy my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>, which is much higher in <a href='/misc/protein'>protein</a>, lower in <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>, and free of any added sugars or artificial sweeteners.
 
 <div id='potatoes' class='table-of-contents'></div>
@@ -156,7 +156,7 @@ tags:
 - <a href='/misc/potassium'>Potassium</a>: 20% of DV
 - <a href='/misc/nutrient-alphabet#P'>Vitamin B5</a>: 19% of DV
 
-<center><img src='/assets/Misc/Nutrition/Trap/potatoes.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/potatoes.jpg' alt='' class='larger-image'>
 &emsp;Both potatoes and sweet potatoes are highly nutritious foods.  Sweet potatoes are my preferred <a href='/misc/carbs'>carb</a> side to a meal as opposed to <a href='/misc/grains#pasta-white'>pasta</a>, <a href='/misc/grains#white-rice'>rice</a>, or <a href='/misc/grains#white-wheat'>bread</a>, such as in the following recipes:
 - <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a><br>
 - <a href='/recipes/home-fries'>Sweet Potato Home Fries</a><br>

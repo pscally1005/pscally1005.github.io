@@ -62,18 +62,18 @@ Instructions:
 - Add the rest of the ingredients (except for the chocolate chips) and blend to combine
 
 - Fold in chocolate chips. Let the batter chill in the fridge for an hour to make it easier to work with
-- <center><img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-4.jpg' alt='' class='instruction-image'>
 
 - Scoop and roll into balls. Place on the cookie sheet. Lightly press down, and shape into a circle. Wetting your hands a little helps the dough from sticking everywhere
-- <center><img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-5.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 8 minutes. The cookies should just turn golden but still be soft in the middle. They will puff up a little but not really expand outward.  Let cool on the sheet for a few minutes, then transfer to a wire rack
 Notes:
 - You can also use whole nuts (any nuts will do) instead of nut flour too.  I used whole almonds, so I technically used almond meal instead of almond flour
 
 - Try making an ice cream sandwich with some banana ice cream
-- <center><img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-7.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-7.jpg' alt='' class='instruction-image'>
 
 - Or leave out the baking soda and enjoy as edible cookie dough bites
-- <center><img src='/assets/Food/Healthier Dessert/Date Cookie/cookie-dough.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Date Cookie/cookie-dough.jpg' alt='' class='instruction-image'>
 ---

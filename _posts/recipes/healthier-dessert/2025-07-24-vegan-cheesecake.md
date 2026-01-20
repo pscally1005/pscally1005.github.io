@@ -58,15 +58,15 @@ Instructions:
 - Preheat your oven to 350F. Line a 9x13" baking pan with parchment paper, and lightly grease the paper
 
 - Drain and rinse your chickpeas. Drain your tofu. Add all ingredients (chickpeas, tofu, dates, cocoa, vanilla, and almond milk) to a food processor, and blend until smooth. There should be no chunks of dates or chickpeas in the batter
-- <center><img src='/assets/Food/Healthier Dessert/Vegan cheesecake/processor.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Vegan cheesecake/processor.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top
-- <center><img src='/assets/Food/Healthier Dessert/Vegan cheesecake/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Vegan cheesecake/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for 40 minutes, or until the top is set, the cheesecake no longer giggles when tapped on the side, and the top begins to crack. Note that a toothpick to the center will NOT come out clean
-- <center><img src='/assets/Food/Healthier Dessert/Vegan cheesecake/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Vegan cheesecake/baked.jpg' alt='' class='instruction-image'>
 
 - Transfer to the fridge at let chill for at least 4 hour before slicing
-- <center><img src='/assets/Food/Healthier Dessert/Vegan cheesecake/sliced.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Vegan cheesecake/sliced.jpg' alt='' class='instruction-image'>
 Notes:
 ---

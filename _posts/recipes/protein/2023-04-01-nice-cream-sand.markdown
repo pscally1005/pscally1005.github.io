@@ -72,10 +72,6 @@ Instructions:
 - Shape dough into balls (about 24 cookies, 28 g each), and place on a parchment lined cookie sheet
 
 - Slightly wet your fingers, and flatten each cookie as thin as possible. It's okay if they touch a little bit, since they won't be baking. Freeze to fully harden, about 2 hours
-- <center><img src='/assets/Food/Protein Powder/Nice Cream/nice-cream-3.jpg' alt='' class='instruction-image'></center>
-
-- In a food processor, combine the ice cream ingredients - frozen bananas, frozen fruit (mangos or berries work well), and powdered peanut butter. Process until you have an ice cream like texture
-- <center><img src='/assets/Food/Protein Powder/Nice Cream/nice-cream-5.jpg' alt='' class='instruction-image'></center>
-
-- Take 2 cookies and a scoop of ice cream (about 50 g). Make into a sandwich, and wrap in aluminum foil. Store ice cream sandwiches in the freezer. Makes 12 sandwiches. Work quickly, the cookies thaw fast since they're so thin. Put the cookies back in freezer if needed
+- cessor, combine the ice cream ingredients - frozen bananas, frozen fruit (mangos or berries work well), and powdered peanut butter. Process until you have an ice cream like texture
+- s and a scoop of ice cream (about 50 g). Make into a sandwich, and wrap in aluminum foil. Store ice cream sandwiches in the freezer. Makes 12 sandwiches. Work quickly, the cookies thaw fast since they're so thin. Put the cookies back in freezer if needed
 ---

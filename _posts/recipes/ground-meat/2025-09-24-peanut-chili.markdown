@@ -80,9 +80,9 @@ Instructions:
 - Drain and rinse the cans of beans. Transfer all the beans, canned tomatoes, cocoa powder, and powdered peanut butter to the slow cooker
 
 - Mix, cover, and cook for 8 hours on low or 6 hours on high
-- <center><img src='/assets/Food/Ground Meat/Peanut Chili/crockpot.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Peanut Chili/crockpot.jpg' alt='' class='instruction-image'>
 
 - Divide into 6 servings, and garnish with chopped peanuts
-- <center><img src='/assets/Food/Ground Meat/Peanut Chili/containers.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Peanut Chili/containers.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -72,10 +72,10 @@ Instructions:
 - Pour the wet ingredients into the dry and mix just until smooth with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Optionally fold in some chocolate chips
 
 - Liberally grease a mini muffin pan with oil.  Evenly spoon the batter into the muffin holes.  This recipe makes 40 mini muffins; I had to bake in 2 batches
-- <center><img src='/assets/Food/Breakfast/Banana Bread/bb-raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Banana Bread/bb-raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 12 minutes (uncovered), or until a toothpick comes out clean, and the internal temperature is around 200F.  You can also bake these as standard size muffins (makes 12) for about 22 minutes at 350F (uncovered)
-- <center><img src='/assets/Food/Breakfast/Banana Bread/bb-baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Banana Bread/bb-baked.jpg' alt='' class='instruction-image'>
 
 - Place the pan in the fridge, and let it totally cool before removing from the pan
 Notes:
@@ -84,5 +84,5 @@ Notes:
 - If you're out of yogurt, you can instead double the nut butter (1/2 cup, 128 g) and eggs (2 large eggs)
 
 - Alternatively, you can bake this as a banana bread in a loaf pan for about an hour (covered), until a toothpick is almost clean and the internal temperature is around 200F
-- <center><img src='/assets/Food/Breakfast/Banana Bread/bb-loaf.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Banana Bread/bb-loaf.jpg' alt='' class='instruction-image'>
 ---

@@ -59,9 +59,7 @@ Instructions:
 - Line an 8” pie pan with parchment paper and spray. Pour in the mixture and even out. Optionally top with chocolate chips (2 tbsp, 30 g)
 
 - Bake for about 25-30 minutes at 350F. The center should lightly jiggle when the side of the pan is tapped. If it jiggles too much, continue to bake for an additional few minutes
-- <center><img src='/assets/Food/Protein Powder/Cheesecake/cheesecake-3.jpg' alt='' class='instruction-image'></center>
-
-- Place the pan in the fridge overnight. Cut into pieces. Flash freeze, and store slices in a ziploc bag in the freezer
+-  in the fridge overnight. Cut into pieces. Flash freeze, and store slices in a ziploc bag in the freezer
 
 - Can serve with a side of berries and topped with melted peanut butter
 ---

@@ -86,5 +86,5 @@ Notes:
     <li>Bake at 350F for 14 minutes, or until a toothpick comes out nearly clean</li>
     <li>Makes 16 mini muffins</li>
   </ul>
-- <center><img src='/assets/Food/Breakfast/Vic Oats/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Vic Oats/baked.jpg' alt='' class='instruction-image'>
 ---

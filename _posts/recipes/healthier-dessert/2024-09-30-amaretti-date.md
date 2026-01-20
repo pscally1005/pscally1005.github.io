@@ -56,15 +56,15 @@ Instructions:
 - Preheat your oven to 350F, and line a large cookie sheet with parchment paper
 
 - Add all ingredients to a food processor, and blend until smooth and no visible chunks of dates are remaining. You will have to stop and scrape down the sides a few times
-- <center><img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-blended.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-blended.jpg' alt='' class='instruction-image'>
 
 - Use a cookie scoop (mine is 1.5 tbsp) to scoop the batter onto your lined pan. Lightly wet your hands to shape the cookies into round balls if necessary. Don't flatten the cookies, you want them to be smaller but taller, instead of wider and flat
-- <center><img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-raw.jpg' alt='' class='instruction-image'>
 
 - Bake in a preheated 350F oven for about 15 minutes, or until the tops are lightly golden brown
-- <center><img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-baked.jpg' alt='' class='instruction-image'>
 
 - Let cool on the pan for a few minutes before transferring to a wire rack to cool
-- <center><img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-cooled.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-cooled.jpg' alt='' class='instruction-image'>
 Notes:
 ---

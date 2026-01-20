@@ -68,8 +68,5 @@ Instructions:
 - Add the crushed tomatoes, diced tomatoes, and (drained and rinsed) beans (2 cans). Reduce heat to low, cover, and simmer for 1 hour with occasional stirring
 
 - Meanwhile, add tahini (or any nut/seed butter) and an entire other can of beans (not drained or rinsed) to a food processor.  Blend until smooth
-- <center><img src='/assets/Food/Meatless/Vegan Chili/stove.jpg' alt='' class='instruction-image'></center>
-
-- Add the cream mix to the pot, and stir until fully combined. Squeeze in some lime, and divide into 6 servings
-- <center><img src='/assets/Food/Meatless/Vegan Chili/containers.jpg' alt='' class='instruction-image'></center>
----
+-  mix to the pot, and stir until fully combined. Squeeze in some lime, and divide into 6 servings
+- 

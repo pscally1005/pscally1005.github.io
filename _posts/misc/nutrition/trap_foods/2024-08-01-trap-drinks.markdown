@@ -86,28 +86,28 @@ tags:
 <br><i><font size='+2'>Sports Drinks</font></i><br>
 &emsp;Sports drinks, when used as they are intended, can be exactly what your body needs.  One medium 12 oz bottle of <a href='https://amzn.to/45stwa0'>Gatorade</a> contains 21 g of <a href='/misc/hidden-sugar'>added sugar</a> and 160 mg of <a href='/misc/sodium'>sodium</a>.  Which after a really strenuous activity, like a marathon, is exactly what you need.  The simple sugars replenish your glycogen stores in your liver, and <a href='/misc/sodium'>sodium</a> is an essential nutrient that is lost through sweating.  If you're sweating a ton, sick, or hungover, a Gatorade can be a lifesaver.
 
-<center><img src='/assets/Misc/Nutrition/Trap/gatorade.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/gatorade.jpg' alt='' class='larger-image'>
 &emsp;Or it can be a noncarbinated salt soda if you're consuming it incorrectly.  The fact of the matter is that most Americans are not exercising enough, and consuming way too much ultraprocessed foods.  That means a high consumption of <a href='/misc/hidden-sugar'>added sugar</a> and salt, without any way of your body to use it.  So another addition source of the 2 is way more likely to do harm than good.  Save sports drinks for after intense physical activity, and not after a kid's leisurely soccer game or as a sipping drink throughout the day.  Give little Jimmy an <a href='/misc/fruit#orange'>orange</a> instead.
 
 <div id='energy-drinks' class='table-of-contents'></div>
 <br><i><font size='+2'>Energy Drinks</font></i><br>
 &emsp;What if you take a sports drinks, remove some of the salt, and instead add a ton of caffeine and some B vitamins?  You end up with a Red Bull.  Surprisingly, most energy drinks actually come packed with vitamins and minerals, with concentrations as much as a multivitamin.  They also contain a ton of <a href='/misc/hidden-sugar'>added sugar</a> (go figure) and caffeine (which isn't necessarily good or bad, just something to be mindful of).
 
-<center><img src='/assets/Misc/Nutrition/Trap/energy-drink.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/energy-drink.jpg' alt='' class='larger-image'>
 &emsp;I found this image under the listing for <a href='https://amzn.to/44ZF1pc'>Red Bull</a>, where they out themselves as being worse for you than a typical soda or fruit juice.  Thankfully there are some brands of energy drinks that don't have any <a href='/misc/hidden-sugar'>added sugar</a> like <a href='https://amzn.to/4kGkKcV'>Celsius</a>, but that doesn't make them healthy, just less bad.  Energy drinks aren't bad if you got a particularly terrible night's sleep, need to pull the (occasional) all nighter, or if you're out partying.  Just dont rely on them; I see people drinking these all the time at the office or the gym.
 
 <div id='coffee' class='table-of-contents'></div>
 <br><i><font size='+2'>Coffee</font></i><br>
 &emsp;As I mentioned above with <a rel='' target='' href='#energy-drinks'>energy drinks</a>, caffeine isn't inherently good or bad.  It can absolutely be a substance of toxic abuse, or it can help improve alertness and brain function.  For clarity, I'll say that I don't consume coffee or any caffeine.  I've just never drank it, so my body has never developed a dependency for it like most people.  There are studies showing the benefits of caffeine in moderation however; every coin has 2 sides.
 
-<center><img src='/assets/Misc/Nutrition/Trap/coffee.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/coffee.jpg' alt='' class='larger-image'>
 &emsp;So why is coffee on this list then?  Added <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a>.  <a href='https://www.starbucks.com/menu/product/873068728/iced/nutrition'>Starbucks Peppermint White Chocolate Mocha Frappuccino</a> contains a tooth shattering and diabetes inducing 73 g of <a href='/misc/hidden-sugar'>added sugar</a> (that's over 6 tablespoons!), as well as 470 <a href='/misc/calories'>calories</a> and 17 g of <a href='/misc/fats'>fat</a>.  That's almost 10 g more <a href='/misc/hidden-sugar'>sugar</a> and double the <a href='/misc/calories'>calories</a> of a 16.9 fl oz <a href='https://amzn.to/450rttK'>Mountain Dew</a>.  One of these every morning along with a <a rel='' target='' href='/misc/trap-foods-breakfast#muffins'>muffin</a> is a one way ticket to metabolic syndrome.  Only black coffee contains any benefits; this is just a caffeinated milkshake.
 
 <div id='iced-tea' class='table-of-contents'></div>
 <br><i><font size='+2'>Iced Tea</font></i><br>
 &emsp;I think most people can agree that while tea is healthy, there's no health benefits of a Snapple or Arnold Palmer iced tea.  The issue comes from the iced teas that are marketed as being "healthy", with <a href='https://amzn.to/3Htg4IU'>Pure Leaf</a> being the main brand.  For a 16.9 fl oz serving of Pure Leaf, there's 42 g of <a href='/misc/hidden-sugar'>added sugar</a>, or 2.5 g per fl oz.  Just a single bottle contains over 1.5x your daily <a href='/misc/hidden-sugar'>added sugar</a> maximum.  The nutrition facts for the Pure Leaf are on the left below.
 
-<center><img src='/assets/Misc/Nutrition/Trap/iced-tea.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/iced-tea.jpg' alt='' class='larger-image'>
 &emsp;Compare that to this <a href='https://www.walmart.com/ip/Great-Value-Sweet-Brewed-Iced-Tea-128-fl-oz-Bottle/10899050?athbdg=L1600&from=/search'>Great Value Iced Tea</a> (on the right in the above image).  This store brand iced tea has 30 g of <a href='/misc/hidden-sugar'>added sugar</a> in a 12 fl oz serving, or 2.5 g of <a href='/misc/hidden-sugar'>sugar</a> per fl oz.  Hey look at that; it's the exact same amounts of <a href='/misc/hidden-sugar'>added sugar</a>!  Don't be a fool to marketing.
 
 <div id='diet-soda' class='table-of-contents'></div>
@@ -119,12 +119,12 @@ tags:
 <br><i><font size='+2'>Milk</font></i><br>
 &emsp;Ah, the humble milk.  Whether you get <a href='/misc/dairy#whole-milk'>whole milk</a>, low <a href='/misc/fats'>fat</a>, or skim, milk can be a nutrition option.  It's a complete <a href='/misc/protein'>protein</a>, the <a href='/misc/fats'>fat</a> helps with feeling satiated, and of course is a good source of <a href='/misc/calcium'>calcium</a>.  Milk isn't on this list because of it's <a href='/misc/fats'>fat</a> content.  I think we know by now that <a href='/misc/fats'>fat</a> is very good for you when not overconsumed; we don't live in the low <a href='/misc/fats'>fat</a> craze of the 90s anymore.
 
-<center><img src='/assets/Misc/Nutrition/Trap/milk.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/milk.jpg' alt='' class='larger-image'>
 &emsp;The issue is again, added sugars (are you seeing a pattern?), and this plagues both milk and milk adjacent products.  Firstly, let's look at chocolate milk and strawberry milk.  A 14 fl oz bottle of <a href='https://amzn.to/4kijw7W'>Chocolate Milk</a> or <a href='https://amzn.to/4dIUT1Q'>Strawberry Milk</a> contain 39 g of sugar, 18 g of which are added.  But they're made with low <a href='/misc/fats'>fat</a> milk, so people were duped into thinking these were helathy ways to give their kids <a href='/misc/calcium'>calcium</a>.  Oh, and strawberry milk doesn't contain any strawberry.  Go figure.
 
 &emsp;The other main issue with milk is it's non-dairy counterparts.  I'm talking about <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/grains#oats'>oat</a>, <a href='/misc/beans#soybeans'>soy</a>, <a href='/misc/veggies#pea'>pea</a>, <a href='/misc/nuts#cashews'>cashew</a>, and any other type of plant milk you can think of.  I'll be fully transparant and say that I keep <a href='/misc/dairy#almond-milk'>almond milk</a> in my fridge instead of cow's milk, mainly because it lasts way longer in the fridge (a few months instead of just a week).  I hardly ever drink milk too; normally it gets used a little at a time in my oatmeal or something.
 
-<center><img src='/assets/Misc/Nutrition/Trap/almond-milk.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/almond-milk.jpg' alt='' class='larger-image'>
 &emsp;As long as you purchsae an unsweetened variety, you should be relatively okay.  Most plant based milk do contain other gums and weird ingredients, so as an <a href='/misc/dairy#almond-milk'>almond milk</a> purchaser, I will say that cow's milk is almost always the better choice (assuming you can digest it).  Sweetened plant based milk can have 12 g of <a href='/misc/hidden-sugar'>added sugar</a> in just a cup, as is the case with this <a href='https://amzn.to/3Z5M5gk'>Sweetened Vanilla Almond Milk</a>.  I always stick to either <a href='https://amzn.to/4jsjqcp'>Unsweetened Original Almond Milk</a> or <a href='https://amzn.to/4kfor9w'>Unsweetened Vanilla Almond Milk</a>, or occasionally I'll make my own <a href='/recipes/oat-milk'>Homemade Plant Based Milk</a> using either <a href='/misc/grains#oats'>oats</a> or <a href='/misc/nuts#peanuts'>peanuts</a> for a cheaper option.
 
 &emsp;I'll be honest and say that in high school, I never used to understand why my mom would get mad at me for buying vanilla <a href='/misc/dairy#almond-milk'>almond milk</a> instead of unsweetened vanilla <a href='/misc/dairy#almond-milk'>almond milk</a>, but we all grow up and learn from our mistakes.  Be willing to change, and keep an open milk (I mean mind).

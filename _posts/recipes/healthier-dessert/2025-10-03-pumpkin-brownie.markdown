@@ -59,16 +59,16 @@ Instructions:
 - Preheat your oven to 350F, line a pan with parchment paper, and lightly grease the paper with oil. I'll be using an <a href='https://amzn.to/4kzchJ3'>11.5x7" glass pan</a>, but a standard <a href='https://amzn.to/4mAvtr9'>9" metal square pan</a> will also work. Note that with the rectangular pan, I will be slicing into <b>24</b> brownies, but a square pan will be cut into <b>16</b> brownies. The nutrition facts for 16 brownies will be <b>1.5x</b> higher than those of a batch cut into 24
 
 - In a large bowl, mix together all brownie ingredients with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined. Transfer the batter to the pan
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/bowl.jpg' alt='' class='instruction-image'></center>
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/bowl.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/raw.jpg' alt='' class='instruction-image'>
 
 - Bake in a preheated 350F oven for about 25 minutes. A toothpick to the center will come out slightly wet with some crumbs. It should not be clean
 
 - In a small bowl, mix together the remaining pumpkin puree with granulated monk fruit and vanilla extract. Spread on top of the cooled brownies
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/baked.jpg' alt='' class='instruction-image'>
 
 - Sprinkle pumpkin seeds on top of the pumpkin topping. Slice into 24 brownies. Store in the fridge or freezer in an airtight container
-- <center><img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/cut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - This recipe uses an entire 15 oz (420 g) can of pumpkin puree. 1.25 cups (300 g) goes in the brownies themselves, and the remaining 1/2 cup (120 g) goes in the topping
 

@@ -61,7 +61,7 @@ Instructions:
 - Bake at 350F for about 20-25 minutes. Just until the center of the brownies no longer jiggles and is set to the touch. A toothpick should come out slightly dirty. Too wet and the brownies are raw; clean and the brownies are overcooked
 
 - Allow the brownies to cool in the fridge for at least 30 minutes before slicing with a plastic knife
-- <center><img src='/assets/Misc/Unhealthy/Brownies/sliced.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Misc/Unhealthy/Brownies/sliced.jpg' alt='' class='instruction-image'>
 Notes:
 - Omit the salt if using salted butter
 

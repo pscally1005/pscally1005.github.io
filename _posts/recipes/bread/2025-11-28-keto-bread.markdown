@@ -61,19 +61,19 @@ Instructions:
 - Inulin, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of honey (21 g) or granulated sugar (12 g) if you prefer.  For another recipe with inulin, check out my <a href='/recipes/fiber-one-brownies'>Copycat Fiber One Brownies</a>
 
 - Add in the vinegar and warm water, and bring together with a dough scraper. Let the dough rest for 5 minutes
-- <center><img src='/assets/Food/Bread/Keto Bread/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Keto Bread/bowl.jpg' alt='' class='instruction-image'>
 
 - Turn the dough onto a clean counter, and knead for about 10 minutes, until you have smooth and cohesive bread dough that's stretchy and doesn't tear
-- <center><img src='/assets/Food/Bread/Keto Bread/counter.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Keto Bread/counter.jpg' alt='' class='instruction-image'>
 
 - Lightly grease a 9x5" bread pan, and add in your dough. Cover with a clean towel, and let proof at room temperature for 2 hours.  Below are the before and after pictures
-- <center><img src='/assets/Food/Bread/Keto Bread/pre-rise.jpg' alt='' class='instruction-image'></center>
-- <center><img src='/assets/Food/Bread/Keto Bread/post-rise.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Keto Bread/pre-rise.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Bread/Keto Bread/post-rise.jpg' alt='' class='instruction-image'>
 
 - Bake the proofed loaf at 350F for about 45 minutes, or until lightly browned and the internal temperature is around 210F
-- <center><img src='/assets/Food/Bread/Keto Bread/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Keto Bread/baked.jpg' alt='' class='instruction-image'>
 
 - Allow the bread to cool totally in the pan before removing and slicing
-- <center><img src='/assets/Food/Bread/Keto Bread/sliced.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Keto Bread/sliced.jpg' alt='' class='instruction-image'>
 Notes:
 ---

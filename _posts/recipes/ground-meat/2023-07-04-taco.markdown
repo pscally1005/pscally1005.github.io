@@ -70,10 +70,11 @@ Instructions:
 - Add in the garlic and water, and cover with a lid or foil.  Reduce heat to medium low, and let simmer for 10 minutes with occasional stirring
 
 - Stir in the apple cider vinegar and lime juice. Simmer until flavors combine, about another 5 minutes
-- <center><img src='/assets/Food/Ground Meat/Taco/taco-counter.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Taco/taco-counter.jpg' alt='' class='instruction-image'>
 
 - Serve your tacos with <a href='/recipes/tortilla'>tortillas</a>, cheese, and <a href='/recipes/rice-and-beans'>rice and beans</a>, and salad.  Other good toppings are olives, <a href='/recipes/guacamole'>guac</a>, <a href='/recipes/salsa'>salsa</a>, and tomatoes.
-- <center><img src='/assets/Food/Ground Meat/Taco/taco-bowl.jpg' alt='' class='half-page'><img src='/assets/Food/Ground Meat/Taco/taco-shell.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Ground Meat/Taco/taco-bowl.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Ground Meat/Taco/taco-shell.jpg' alt='' class='instruction-image'>
 Notes:
 - Nutrition facts are just for the meat and veggies, not including any tortillas, cheese, rice, beans, or other toppings
 ---

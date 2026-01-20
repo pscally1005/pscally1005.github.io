@@ -62,21 +62,21 @@ Instructions:
 - Preheat your oven to 350F and line an 9" square baking pan with parchment paper. Optionally, spray the paper with oil
 
 - In a large bowl, mix together the dry ingredients - oat flour, cocoa powder, cornstarch, baking powder, baking soda, salt, and cinnamon.  Almond flour or whole wheat flour should also work in place of oat flour
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-2.jpg' alt='' class='instruction-image'>
 
 - In a separate bowl, mix together the wet ingredients - syrup, egg, applesauce, vanilla, melted chocolate and puree
 
 - Add the dry ingredients into the wet, sifting if necessary. Fold with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined; don't over mix. The batter should be pretty thick
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-4.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to your parchment lined pan, and smooth the top with your spatula
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-5.jpg' alt='' class='instruction-image'>
 
 - Bake in a preheated 350F oven for about 20 minutes, or until the center is just set to the touch and a toothpick comes out mostly clean with some wet crumbs
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-6.jpg' alt='' class='instruction-image'>
 
 - Let cool completely in the pan, preferably in the fridge for a few hours, before slicing with a plastic knife
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-7.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-7.jpg' alt='' class='instruction-image'>
 Notes:
 - |
   Below are some substitutions if you desire
@@ -87,5 +87,5 @@ Notes:
     <li>Or try 2 tbsp (32 g) natural peanut butter in place of the melted chocolate</li>
     <li>For the puree, you can either choose <a href='/recipes/sweet-potato-puree'>sweet potato puree</a>, <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/recipes/roasted-butternut-squash-puree'>butternut squash puree</a>, or <a href='/recipes/apple-spread'>apple spread</a></li><li>For a vegan version, replace the egg with an additional 1/4 cup (60 g) of puree</li>
   </ul>
-- <center><img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-3.jpg' alt='' class='instruction-image'>
 ---

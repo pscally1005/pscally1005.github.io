@@ -58,17 +58,18 @@ Instructions:
 - In a separate bowl, whisk together whole wheat flour and vital wheat gluten.  Add the flours into the wet bowl, and mix until well combined with a dough scraper.  Cover with a cloth and let rest for 30 minutes
 
 - 30 minutes later, turn the dough onto the table and knead for 10 minutes. When done, shape the dough into a tight ball, return dough to bowl (seam down), cover with a cloth, and let rise for 1-1.5 hours.  It will have about doubled after the initial rest
-- <center><img src='/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg' alt='' class='half-page'><img src='/assets/Food/Bread/Baguette/baguette-doubled.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Bread/Baguette/baguette-doubled.jpg' alt='' class='instruction-image'>
 
 - Divide the dough in 4 equal pieces (about 210 g), form each dough into a tight ball, cover, and let rest for 15 minutes
-- <center><img src='/assets/Food/Bread/Baguette/baguette-balls.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Baguette/baguette-balls.jpg' alt='' class='instruction-image'>
 
 - Roll each piece into a tight baguette, pinching the seam shut.  Transfer the loaves to a baking sheet, dust the tops with flour, and score with a bread lame.  Cover and let rest for 1 hour
-- <center><img src='/assets/Food/Bread/Baguette/baguette-raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Baguette/baguette-raw.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, preheat your oven to 450F with the baking stone on the middle shelf, and a 9x13" pan on the bottom shelf for the water.  You can bake on a cookie sheet instead, but the bottom won't be as crispy.  The water pan is to steam the bread, making the crust crispier.  This is optional as well
 
 - Put the baguettes into the oven onto the stone (or on the cookie sheet), and fill the bottom tray with hot water.  Bake for 15 minutes, or until the internal temperature is at least 205F, and the bottom sounds hollow when tapped.  Transfer to a wire rack, and let cool for 10 minutes before slicing
-- <center><img src='/assets/Food/Bread/Baguette/baguette-cooled.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Baguette/baguette-cooled.jpg' alt='' class='instruction-image'>
 Notes:
 ---

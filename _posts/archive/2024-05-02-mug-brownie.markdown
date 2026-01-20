@@ -63,6 +63,6 @@ Instructions:
 - Finely chop a square of unsweetened chocolate. Fold some into the batter, and top with the rest. Optionally top with flakey salt (or fold fine salt into the batter)
 
 - Microwave on high for 1-2 minutes, or until just set on the top, but still gooey inside. Let cool for 2 minutes before eating
-- <center><img src='/assets/Food/Healthier Dessert/Mug Brownie/mug-brownie-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Mug Brownie/mug-brownie-3.jpg' alt='' class='instruction-image'>
 Notes:
 ---

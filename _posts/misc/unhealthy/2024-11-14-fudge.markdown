@@ -43,15 +43,16 @@ Instructions:
 - In a medium saucepot over medium-high heat, combine the evaporated milk, sugar, butter, and salt with a heat-proof <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>.  Wear an oven mitt on your mixing hand to prevent burning from splashing
 
 - Bring to a full rolling boil. Stir constantly, scraping the bottom, sides, and corners of the pot to prevent sticking and burning.  Let boil for 5 minutes under constant stirring
-- <center><img src='/assets/Misc/Unhealthy/Fudge/fudge-boil.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Misc/Unhealthy/Fudge/fudge-boil.jpg' alt='' class='instruction-image'>
 
 - Remove from heat and add your marshmallows, chocolate, and vanilla. You can either use 2 cups of mini marshmallows, or 13 regular marshmallows (chopped)
 
 - Vigorously stir to completely melt the marshmallows and chocolate, and the mixture is smooth
-- <center><img src='/assets/Misc/Unhealthy/Fudge/fudge-choc.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Misc/Unhealthy/Fudge/fudge-choc.jpg' alt='' class='instruction-image'>
 
 - Transfer the fudge into your lined pan, and level it out by tilting the pan.  Chill in the fridge for 3 hours to set before slicing
-- <center><img src='/assets/Misc/Unhealthy/Fudge/fudge-cool.jpg' alt='' class='half-page'><img src='/assets/Misc/Unhealthy/Fudge/fudge-slice.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Misc/Unhealthy/Fudge/fudge-cool.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Fudge/fudge-slice.jpg' alt='' class='instruction-image'>
 Notes:
 - <b>Peanut Swirl</b> - swirl in 1/2 cup (128 g) of peanut butter, and top with 1/3 cup (50 g) chopped peanuts
 
@@ -60,5 +61,5 @@ Notes:
 - <b>Cookies & Cream</b> - mix in and top with some crushed oreos
 
 - If you omit the <a href='/misc/hidden-sugar'>sugar</a> and marshmallows, and instead sweeten with some liquid monk fruit, you will end up with my <a href='/recipes/keto-fudge'>Bittersweet Keto Fudge</a>, which is less than half the <a href='/misc/calories'>calories</a>, <a href='/misc/hidden-sugar'>sugar</a> free, and has that same fudge texture with a bold chocolate flavor.  On the left is my classic fudge, and on the right is the <a href='/misc/hidden-sugar'>sugar</a> free version
-- <center><img src='/assets/Misc/Unhealthy/Fudge/fudge-compare.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Misc/Unhealthy/Fudge/fudge-compare.jpg' alt='' class='instruction-image'>
 ---

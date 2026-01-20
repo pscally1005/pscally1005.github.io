@@ -65,13 +65,13 @@ Instructions:
 - Starting with the squash, peel it and slice in half. Scoop out the seeds, and cut into a large dice. Move the squash to a bowl, and season (oil, minced garlic, garlic powder, onion powder, black pepper, and salt).  One large butternut squash is the enough
 
 - Roast at 350F for about 45 minutes
-- <center><img src='/assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-3.jpg' alt='' class='instruction-image'>
 
 - As the squash cooks, move on to the meatloaf. Mix all meatloaf ingredients together in a bowl - meat, egg, spinach (pat it dry first with paper towels), oat flour, cheese, dijon mustard, soy sauce, apple cider vinegar, chili powder, paprika, garlic and onion powder, cumin, black pepper, salt, and ginger
 
 - Spray the parchment paper in the bread pans, and put meat on the pan. Shape into a loaf, and insert a meat thermometer into the front
 
 - Bake at 350F until meat is done (a least 160F for beef and 165F for turkey), or about 45 minutes, depending on the thickness of your loaf.  Serve with <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> on the side
-- <center><img src='/assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-6.jpg' alt='' class='instruction-image'>
 Notes:
 ---

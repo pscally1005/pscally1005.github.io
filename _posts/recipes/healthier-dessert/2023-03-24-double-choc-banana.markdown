@@ -67,13 +67,13 @@ Instructions:
 - In a separate bowl, mash your bananas. Add the rest of the wet ingredients (yogurt, <a href='/recipes/natural-peanut-butter'>nut butter</a>, applesauce, egg, and sweetener) to the bowl and mix
 
 - Pour the wet ingredients into the dry, and combine with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>.  Fold in the chocolate chips
-- <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the lined pan, and optionally top with a few extra chocolate chips
-- <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-raw.jpg' alt='' class='instruction-image'>
 
 - Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty and wet, and the internal temperature will be around 205F
-- <center><img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-baked.jpg' alt='' class='instruction-image'>
 
 - Let cool completely in the fridge for about an hour, then slice
 Notes:

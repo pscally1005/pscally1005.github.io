@@ -67,9 +67,9 @@ Instructions:
 - Meanwhile, dice your chicken into cubes. Add to the pan along with salt and pepper when the onions are translucent. Cook until the chicken is 165F. Remove from the heat
 
 - As the chicken cooks, prepare your sauce. Blend together all ingredients in a food processor until smooth - cottage cheese, evaporated milk, grated cheese, garlic powder, onion powder, and nutmeg
-- <center><img src='/assets/Food/Chicken/Alfredo/separate.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Alfredo/separate.jpg' alt='' class='instruction-image'>
 
 - To assemble, mix together the sweet potatoes, broccoli, chicken, and Alfredo sauce in a large bowl. Divide into 6 servings (about 500 g each)
-- <center><img src='/assets/Food/Chicken/Alfredo/together.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Alfredo/together.jpg' alt='' class='instruction-image'>
 Notes:
 ---

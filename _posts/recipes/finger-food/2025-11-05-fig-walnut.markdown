@@ -64,16 +64,16 @@ tags:
 Description: If you're looking for healthy snacks, but not looking to be in a <a href='/misc/calories'>calorie</a> deficit (i.e. maintain or gain weight) then these <a href='/misc/fruit#fig-dried'>Fig</a> & <a href='/misc/nuts#walnuts'>Walnut</a> Energy Bites are the perfect snack for you.  These <a href='/misc/nutrient-alphabet'>nutrient</a> dense balls contain heart healthy <a href='/misc/fats'>mono-unsaturated fats</a> and <a href='/misc/nutrient-alphabet#O'>omega 3 fatty acids</a> from the <a href='/misc/nuts#walnuts'>walnuts</a>, as well as some additional <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>.  The <a href='/misc/fruit#fig-dried'>dried figs</a> provide ample <a href='/misc/calories'>energy</a> due to their high <a href='/misc/carbs'>natural sugar</a> content, helping to fuel your workouts, as well as <a href='/misc/fiber'>fiber</a>, which promotes satiety and digestion.  Finally, the medium chain triglyceride (MCT) <a href='/misc/fats'>fats</a> in the <a href='/misc/nuts#coconut'>coconut</a> help to <a href='/misc/diabetes'>stabilize blood sugar</a> and boost <a href='/misc/insulin-resistance'>insulin sensitivity</a>, while still being burned for <a href='/misc/calories'>energy</a>!
 Instructions:
 - Blend your <a href='/misc/nuts'>nuts</a> in a food processor for about 30 seconds, or until you have a coarse crumb
-- <center><img src='/assets/Food/Finger Food/Fig Walnut/nuts.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Fig Walnut/nuts.jpg' alt='' class='instruction-image'>
 
 - Remove the stems from the <a href='/misc/fruit#fig-dried'>figs</a>, and add to the food processor. Blend until fully chopped and combined
-- <center><img src='/assets/Food/Finger Food/Fig Walnut/nuts-figs.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Fig Walnut/nuts-figs.jpg' alt='' class='instruction-image'>
 
 - Add in the <a href='/misc/fruit#coconut'>coconut flakes</a> and cinnamon, and blend to fully combine. The dough should look slightly dry, but come together easily when molded into a ball. It should feel somewhat oily, like a raw cookie dough
-- <center><img src='/assets/Food/Finger Food/Fig Walnut/nuts-figs-cinnamon-coconut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Fig Walnut/nuts-figs-cinnamon-coconut.jpg' alt='' class='instruction-image'>
 
 - Roll the mixture into balls (~19 g), and add to an airtight container. You should have 30 pieces. Store leftovers in the fridge or freezer
-- <center><img src='/assets/Food/Finger Food/Fig Walnut/cover2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Fig Walnut/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 - I've gone with <a href='/misc/nuts#walnuts'>walnuts</a> here, but any <a href='/misc/nuts'>nuts</a> or <a href='/misc/seeds'>seeds</a> will work, such as <a href='/misc/nuts#almonds'>almonds</a>, <a href='/misc/nuts#brazil-nuts'>Brazil nuts</a>, <a href='/misc/nuts#cashews'>cashews</a>, <a href='/misc/nuts#hazelnuts'>hazelnuts</a>, <a href='/misc/nuts#macadamia-nuts'>macadamia nuts</a>, <a href='/misc/nuts#peanuts'>peanuts</a>, <a href='/misc/nuts#pecans'>pecans</a>, <a href='/misc/nuts#pistachios'>pistachios</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a>, <a href='/misc/seeds#sesame-seeds'>sesame seeds</a>, or <a href='/misc/seeds#sunflower-seeds'>sunflower seeds</a>
 

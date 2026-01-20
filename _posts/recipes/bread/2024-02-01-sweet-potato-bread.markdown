@@ -56,6 +56,6 @@ Instructions:
 - In a large bowl, combine the water (use the leftover boiling water, and add some fresh water if you need more) and the sweet potatoes. Mash with a fork or potato masher, and fully combine into the water
 
 - From here, you can proceed on with making the loaf of bread as normal. Since bread making can be quite complicated, I will leave the link to my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a> recipe, which breaks down my steps for a loaf of bread. Note that this dough is a little stickier than I am used to
-- <center><img src='/assets/Food/Bread/Sweet Potato/sweet-potato-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Sweet Potato/sweet-potato-3.jpg' alt='' class='instruction-image'>
 Notes:
 ---

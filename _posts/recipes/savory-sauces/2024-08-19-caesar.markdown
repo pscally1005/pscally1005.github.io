@@ -54,9 +54,7 @@ tags:
 Description: 1 serving of a standard bottle of <a href='https://amzn.to/4jmPi2g'>Caesar dressing</a> contains 120 <a href='/misc/calories'>calories</a>, 12 g of <a href='/misc/fats'>fat</a>, no <a href='/misc/protein'>protein</a>, mayo made from soybean oil, and a paragraph of ingredients. This healthy version on the other hand has less than half the <a href='/misc/calories'>calories</a>, a third of the <a href='/misc/fats'>fat</a>, and quadruple the <a href='/misc/protein'>protein</a>. Plus, it only contains simple ingredients, and is made in just 5 minutes.  No raw <a href='/misc/meat#eggs'>eggs</a> either!  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
 Instructions:
 - Using a small fine mesh strainer, thoroughly drain and rinse your anchovies
-- <center><img src='/assets/Food/Savory Sauces/Caesar/caesar-anchovies.jpg' alt='' class='instruction-image'></center>
-
-- Add the anchovies to a small food processor along with the rest of the ingredients. Blend until smooth. Store in the fridge
+- vies to a small food processor along with the rest of the ingredients. Blend until smooth. Store in the fridge
 
 - The cover photo for this recipe is a Caesar salad I made by tossing together half a large head of Romaine lettuce, 1 serving (2 tbsp, 30 g) of this dressing, 1 serving of my <a href='/recipes/white-bean-croutons'>White Bean Croutons</a>, and 1/2 oz (15 g) crumbled feta cheese
 ---

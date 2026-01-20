@@ -65,10 +65,11 @@ Instructions:
 - Wash the pumpkin, cut off the stem, and slice in half.  Scoop out the seeds with a spoon
 
 - Place the pumpkin halves cut side down on a parchment line baking sheet, and roast at 400F until fork tender (about 45 minutes).  Flip over to let steam out for a few minutes
-- <center><img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-raw.jpg' alt='' class='half-page'><img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cooked.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-raw.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cooked.jpg' alt='' class='instruction-image'>
 
 - Cut off the ends, and transfer to a food processor (with the skins!!).  Blend until smooth
-- <center><img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-pureed.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-pureed.jpg' alt='' class='instruction-image'>
 
 - My whole raw pumpkin weighed 764 g, and I ended up with 368 g of puree.  That's about 1.5 cups or 3 servings of 1/2 cup (120 g)
 ---

@@ -55,5 +55,4 @@ Instructions:
 - Toast the nuts until fragrant in a small pan over medium heat (about 5 minutes)
 
 - Add all ingredients to a small food processor, and blend until combined and the nuts are chopped
-- <center><img src='/assets/Food/Meme/Tomato Pesto/no-pasta.jpg' alt='' class='instruction-image'></center>
----
+- 

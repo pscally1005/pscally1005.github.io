@@ -62,7 +62,7 @@ Instructions:
 - In a large bowl, beat your egg, and mix with the rest of the ingredients. Mix with your hands until just combined
 
 - Scoop your mixture (using a cookie scoop helps), roll into balls, and place on your sheet pans
-- <center><img src='/assets/Food/Ground Meat/Meatballs/meatballs-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Meatballs/meatballs-3.jpg' alt='' class='instruction-image'>
 
 - Roast the meatballs in your 400F oven for about 14-16 minutes, or until cooked through and reach a temperature of at least 165F. Set aside
 

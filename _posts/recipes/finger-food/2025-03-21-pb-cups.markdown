@@ -57,15 +57,15 @@ tags:
 Description: Making <a href='/misc/nuts#peanuts'>peanut</a> butter cups at home is one of the classic desserts, as it's so easy to do. But instead of double dipping in <a href='/misc/fats'>fat</a> with both <a href='/recipes/natural-peanut-butter'>peanut butter</a> and melted chocolate, I've swapped the filling for powdered peanut butter, lowering <a href='/misc/calories'>calories</a> and raising the <a href='/misc/protein'>protein</a>. Additionally, both the filling and coating are sweetened with monk fruit, making them <a href='/misc/hidden-sugar'>sugar</a> free as well
 Instructions:
 - In a medium bowl, whisk together powdered peanut butter, sweetener, salt, and cinnamon. Add in the vanilla and applesauce, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until you have a fully combined dough
-- <center><img src='/assets/Food/Finger Food/PB Cups/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/PB Cups/bowl.jpg' alt='' class='instruction-image'>
 
 - Scoop small balls onto a parchment lined plate, about 8 g each. Lightly wet your fingers, and flatten into even disks. Freeze for 15 minutes to harden
-- <center><img src='/assets/Food/Finger Food/PB Cups/not-coated.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/PB Cups/not-coated.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, clean your bowl, and add in the coconut oil. Microwave for 1 minute to melt, and stir in the cocoa powder and sweetener
-- <center><img src='/assets/Food/Finger Food/PB Cups/chocolate.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/PB Cups/chocolate.jpg' alt='' class='instruction-image'>
 
 - Using 2 forks, lightly coat each peanut butter disc in the chocolate, and transfer back to the plate. Optionally, top with flakey salt. Refrigerate to harden
-- <center><img src='/assets/Food/Finger Food/PB Cups/coated.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/PB Cups/coated.jpg' alt='' class='instruction-image'>
 Notes:
 ---

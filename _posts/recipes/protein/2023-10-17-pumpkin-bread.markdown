@@ -77,5 +77,4 @@ Instructions:
 - Add the dry ingredients to the wet, and mix until just fully combined.  Transfer the batter to the pan
 
 - Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing
-- <center><img src='/assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-3.jpg' alt='' class='instruction-image'></center>
----
+- 

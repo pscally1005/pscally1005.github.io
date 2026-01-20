@@ -58,8 +58,5 @@ Instructions:
 - Add your block of tofu to the pan and mash with a wooden spoon. Crack in your eggs, and mix into the spinach and tofu. Cook the mix over medium low heat until the eggs are just cooked (about 3-5 minutes)
 
 - Drain and rinse your beans, and mix into the egg mixture with nutritional yeast. Divide into 4 servings
-- <center><img src='/assets/Food/Meatless/Vegetarian/pan.jpg' alt='' class='instruction-image'></center>
-
-- To reheat, microwave on high for 2 minutes, and then top with sauerkraut or hot sauce
-- <center><img src='/assets/Food/Meatless/Vegetarian/portions.jpg' alt='' class='instruction-image'></center>
----
+- crowave on high for 2 minutes, and then top with sauerkraut or hot sauce
+- 

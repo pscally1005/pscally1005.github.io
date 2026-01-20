@@ -52,10 +52,10 @@ tags:
 Description: When recipes call for <a href='/misc/fake-healthy-foods#chocolate'>dark chocolate</a> or chocolate chips, I typically make some variation of this recipe.  This chopped up bar of chocolate works great as a replacement for chocolate chips in all recipes, such as <a href='/recipes/date-brownie'>Almond Butter Date Brownies</a>, <a href='/recipes/edible-cookie-dough-bites'>Edible Cookie Dough Bites</a>, or my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>.  Each serving is half an ounce (14 g)
 Instructions:
 - In a glass bowl, melt the coconut oil in the microwave for about 1 minute.  Stir in cocoa powder until smooth.  Optionally, add a small pinch of salt
-- <center><img src='/assets/Food/Healthier Dessert/Choc Bar/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Choc Bar/bowl.jpg' alt='' class='instruction-image'>
 
 - Pour into a chocolate mold (a parchment lined bread pan will also work).  <a href='https://amzn.to/4mBCtnu'>These</a> are the ones I have.  A full batch of the chocolate will make 2 of these thin bars
-- <center><img src='/assets/Food/Healthier Dessert/Choc Bar/mold.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Choc Bar/mold.jpg' alt='' class='instruction-image'>
 
 - Chill in the fridge for at least an hour (or freeze for 15 minutes) to set before using
 Notes:

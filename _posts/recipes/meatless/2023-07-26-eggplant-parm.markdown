@@ -64,8 +64,5 @@ Instructions:
 - Meanwhile, in a medium bowl combine egg, cottage cheese, shredded mozzarella, garlic powder, onion powder, and dried parsley
 
 - In a 9x13" casserole dish, place a light layer of sauce on the bottom.  Add the eggplant on top, and top with your cheese mix.  Repeat again - sauce, eggplant, and cheese.  Put one final layer of sauce on top, and top with grated cheese
-- <center><img src='/assets/Food/Meatless/Eggplant Parm/raw.jpg' alt='' class='instruction-image'></center>
-
-- Cover with foil, and bake at 400F until cheese is melted and everything is bubbling, about 40 minutes.  Remove the foil, and bake an additional 10 minutes.  Let cool for about 10 minutes before cutting into 6 pieces
-- <center><img src='/assets/Food/Meatless/Eggplant Parm/baked.jpg' alt='' class='instruction-image'></center>
----
+- il, and bake at 400F until cheese is melted and everything is bubbling, about 40 minutes.  Remove the foil, and bake an additional 10 minutes.  Let cool for about 10 minutes before cutting into 6 pieces
+- 

@@ -61,6 +61,6 @@ Instructions:
 - Meanwhile, dice the chicken into small cubes. Over medium heat in the pan you used to cook the spinach, cook the chicken with oil and spices (garlic powder, onion powder, basil, thyme, and lemon pepper)
 
 - When chicken is almost done (165F), add the plate of spinach and pot of sauce to the pan and combine. Cook on medium heat until liquid has reduced and chicken is done. You want the sauce to be creamy, but not too liquidy where it’s runny. Serve
-- <center><img src='/assets/Food/Chicken/florentine/3-parts.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/florentine/3-parts.jpg' alt='' class='instruction-image'>
 Notes:
 ---

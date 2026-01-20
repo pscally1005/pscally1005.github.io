@@ -57,12 +57,12 @@ tags:
 Description: These simple and healthy chocolate chip cookie bars require only 4 ingredients:<b></b> mashed <a href='/misc/fruit#banana'>bananas</a>, powdered <a href='/misc/nuts#peanuts'>peanut</a> butter, vanilla extract, and chocolate chips.  They're very similar to my <a href='/recipes/cookie-bar'>No Bake Cookie Bars</a>, where here I'm instead opting for low <a href='/misc/fats'>fat</a> powdered peanut butter instead of traditional <a href='/recipes/natural-peanut-butter'>peanut butter</a>.  Nothing wrong with <a href='/misc/fats'>fat</a>, but good to have options!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions: 
 - In a large bowl, mash your bananas with the back of a fork. Mix in the vanilla extract and powdered peanut butter with a silicone spatula. Fold in the chocolate chips
-- <center><img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/bowl.jpg' alt='' class='instruction-image'>
 
 - Line a small pan with parchment paper (<a href='https://amzn.to/4fTXpmH'>mine</a> is 10" x 6"). Spread the batter into the pan. It will be very sticky; be patient. Make sure it's an even thickness and spread to all edges.  Optionally top with a few more chocolate chips
-- <center><img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/pan.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/pan.jpg' alt='' class='instruction-image'>
 
 - Freeze for about 1-2 hours before slicing.  Store in the freezer
-- <center><img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/cut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---

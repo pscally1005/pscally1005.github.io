@@ -52,15 +52,15 @@ Instructions:
 - Preheat your oven to 350F. Line a small oven safe bowl with parchment paper, and lightly grease the paper
 
 - Dice your apple, and add to a small food processor with an egg, cocoa powder, and baking powder. Blend until smooth, and no chunks of apple remain
-- <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/processor.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Chocolate apple cake/processor.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the bowl, and smooth out the top
-- <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Chocolate apple cake/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 30 minutes, or until a toothpick comes out clean
-- <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Chocolate apple cake/baked.jpg' alt='' class='instruction-image'>
 
 - Transfer to the fridge, and let chill until totally cooled. Invert onto a plate, slice, and serve
-- <center><img src='/assets/Food/Healthier Dessert/Chocolate apple cake/sliced.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Chocolate apple cake/sliced.jpg' alt='' class='instruction-image'>
 Notes:
 ---

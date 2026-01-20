@@ -61,10 +61,10 @@ Instructions:
 - In a bowl, mix together the base ingredients - sugar free syrup (or any other liquid sweetener), unsweetened applesauce, vanilla extract, baking soda, and salt
 
 - Choose your flavor (see notes below). Here, the flour is a mix of powdered peanut butter and oat flour, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
-- <center><img src='/assets/Food/Healthier Dessert/SF Syrup/sf-syrup-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/SF Syrup/sf-syrup-2.jpg' alt='' class='instruction-image'>
 
 - Line a cookie sheet with parchment and preheat your oven to 350F. Scoop dough onto the sheet, and flatten into a cookie (they won't flatten or spread as they bake)
-- <center><img src='/assets/Food/Healthier Dessert/SF Syrup/sf-syrup-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/SF Syrup/sf-syrup-3.jpg' alt='' class='instruction-image'>
 
 - Bake in your preheat oven for about 8 minutes.  Let the cookies cool on the pan for 5 minutes, then transfer to a cooling rack
 Notes:

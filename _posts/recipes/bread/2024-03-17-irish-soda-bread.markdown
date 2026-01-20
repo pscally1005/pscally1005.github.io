@@ -59,17 +59,17 @@ Instructions:
 - Combine all the dry ingredients in a large mixing bowl - oat flour, whole wheat flour, cornstarch, baking soda, and salt
 
 - In a separate bowl, whisk together the buttermilk and egg until well combined
-- <center><img src='/assets/Food/Bread/Irish/irish-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Irish/irish-3.jpg' alt='' class='instruction-image'>
 
 - Pour the wet mixture into the dry. Using a wooden spoon, gently stir the mixture until a dough forms. Be careful not to overmix
 
 - Transfer the dough onto a floured surface and knead it gently a few times to shape it into a round circle. Place the shaped dough into the prepared skillet or baking pan
 
 - Using a sharp knife, score a cross on the top of the dough. This helps the bread expand while baking
-- <center><img src='/assets/Food/Bread/Irish/irish-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Irish/irish-6.jpg' alt='' class='instruction-image'>
 
 - Bake in the preheated 450F oven for 10 minutes. Reduce the temperature to 400F, and continue baking for another 35-40 minutes, or until the bread is deep golden brown and sounds hollow when tapped on the bottom
-- <center><img src='/assets/Food/Bread/Irish/irish-7.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Irish/irish-7.jpg' alt='' class='instruction-image'>
 
 - Remove from the oven and allow it to cool in the pan for a few minutes. Transfer the bread to a wire rack to cool completely before slicing
 

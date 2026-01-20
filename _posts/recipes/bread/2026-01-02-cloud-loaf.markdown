@@ -55,18 +55,18 @@ Instructions:
 - Preheat your oven to 350F. Line a 9x5" bread pan with parchment paper, and lightly grease the paper
 
 - In a large glass or metal bowl, whip your egg whites on high speed with a hand mixer for about 5 minutes, or until you have stiff peaks
-- <center><img src='/assets/Food/Bread/Cloud Loaf/egg-whites.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Loaf/egg-whites.jpg' alt='' class='instruction-image'>
 
 - Add in the protein powder and lemon juice. Mix on low speed just until everything is fully incorporated
-- <center><img src='/assets/Food/Bread/Cloud Loaf/protein-powder.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Loaf/protein-powder.jpg' alt='' class='instruction-image'>
 
 - Carefully transfer the batter into your prepared pan, trying to deflate it as little as possible
-- <center><img src='/assets/Food/Bread/Cloud Loaf/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Loaf/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 30 minutes.  After 30 minutes, turn the oven off and leave the door closed.  Leave the bread in the oven for an additional 30 minutes
-- <center><img src='/assets/Food/Bread/Cloud Loaf/baked1.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Loaf/baked1.jpg' alt='' class='instruction-image'>
 
 - Remove from the oven, and gently slice when totally cooled with a serrated knife. Add parchment paper between each slice, and place in an airtight bag.  Store in the fridge (up to 5 days).  I do not recommend freezing this bread
-- <center><img src='/assets/Food/Bread/Cloud Loaf/cut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Loaf/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---

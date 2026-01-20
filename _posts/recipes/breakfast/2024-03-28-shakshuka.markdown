@@ -61,7 +61,7 @@ Instructions:
 - Add in the minced garlic, and cook until fragrant, about 30 seconds
 
 - Pour in the diced tomatoes and add the spices - paprika, chili, garlic, onion, cumin, and pepper. Cover and let simmer for 5 minutes over medium heat
-- <center><img src='/assets/Food/Breakfast/Shakshuka/shakshuka-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Shakshuka/shakshuka-3.jpg' alt='' class='instruction-image'>
 
 - Make 3 wells, and crack each egg into its own well. Cover, and cook for 2-3 minutes over medium heat until the whites are cooked (opaque white) and the yolks have risen and are cloudy, but still a bit soft
 

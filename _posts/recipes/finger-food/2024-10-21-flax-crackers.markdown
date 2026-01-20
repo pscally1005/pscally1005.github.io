@@ -55,16 +55,16 @@ Instructions:
 - Preheat your oven to 325F, and line 2 large cookie sheets with parchment paper
 
 - In a large bowl, whisk together the dry ingredients. Add water, and stir until fully combined and you have a cracker dough
-- <center><img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-bowl.jpg' alt='' class='instruction-image'>
 
 - Divide the dough in half, and roll out to 1/8" thick between 2 sheets of parchment paper.  Cut with a pizza wheel or knife
-- <center><img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-cut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-cut.jpg' alt='' class='instruction-image'>
 
 - Bake at 325F for 60 minutes, or until crispy and golden brown
-- <center><img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-baked.jpg' alt='' class='instruction-image'>
 
 - Let cool totally on a wire rack.  Store in an airtight bag at <b>room temperature</b>
-- <center><img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-cooled.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-cooled.jpg' alt='' class='instruction-image'>
 Notes:
 - I ended up with about 8 oz (226 g) of crackers. For a 1 oz (28 g) serving, that's about 8 servings total
 ---

@@ -85,5 +85,5 @@ Instructions:
 - Let cool on the pan for 5 minutes before transferring to a wire rack to cool completely.  Store in an airtight container in the fridge
 Notes:
 - You can also enjoy these as edible cookie dough bites, just omit the baking powder
-- <center><img src='/assets/Food/Healthier Dessert/Chickpea Cookies/chickpea-cookie-dough.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Chickpea Cookies/chickpea-cookie-dough.jpg' alt='' class='instruction-image'>
 ---

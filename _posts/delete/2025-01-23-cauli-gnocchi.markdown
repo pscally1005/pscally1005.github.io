@@ -60,25 +60,26 @@ Instructions:
 - Preheat your oven to 350F, and line 2 large cookie sheets with parchment paper
 
 - Add your cauliflower to a food processor, and pulse until you have a riced consistency. Don't over blend
-- <center><img src='/assets/Food/Meatless/Gnocchi/cauli.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Meatless/Gnocchi/cauli.jpg' alt='' class='instruction-image'>
 
 - Transfer to a medium glass bowl, and cover with a plate. Microwave on high for 5 minutes. Let cool for a few minutes
 
 - Meanwhile, in a large bowl, add the rest of the gnocchi dough ingredients - egg, mozzarella, parmesan, flax, oregano, garlic, onion, and red pepper flakes
 
 - Add in the cauliflower, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until you have a fully combined dough
-- <center><img src='/assets/Food/Meatless/Gnocchi/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Meatless/Gnocchi/bowl.jpg' alt='' class='instruction-image'>
 
 - Shape your dough into little gnocchi pillows, and add to the sheet
-- <center><img src='/assets/Food/Meatless/Gnocchi/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Meatless/Gnocchi/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 45 minutes, or until browned. Transfer to a wire rack to cool
-- <center><img src='/assets/Food/Meatless/Gnocchi/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Meatless/Gnocchi/baked.jpg' alt='' class='instruction-image'>
 
 - Mix with sauce and top with chopped sun dried tomatoes
-- <center><img src='/assets/Food/Meatless/Gnocchi/tomatoes-1.jpg' alt='' class='half-page'><img src='/assets/Food/Meatless/Gnocchi/tomatoes-2.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Meatless/Gnocchi/tomatoes-1.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meatless/Gnocchi/tomatoes-2.jpg' alt='' class='instruction-image'>
 
 - Divide into 4 servings
-- <center><img src='/assets/Food/Meatless/Gnocchi/cover-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Meatless/Gnocchi/cover-2.jpg' alt='' class='instruction-image'>
 Notes:
 ---

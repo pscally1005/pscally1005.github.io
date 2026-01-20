@@ -61,19 +61,19 @@ Instructions:
 - Remove the potatoes from the microwave, and toss with the seasonings - chili powder, paprika, garlic, onion, black pepper, salt, and cayenne pepper
 
 - Add to your air fryer in a single layer, and air fry at 400F for about 6-8 minutes, or until crispy but not burnt. Set aside
-- <center><img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-3.jpg' alt='' class='instruction-image'>
 
 - Moving onto the cheese. In a small bowl, mix together shredded cheese, cornstarch, and almond milk. This will get added into the beef at the end. Set the bowl aside
 
 - Now for the burger. Heat a large pan over medium heat with olive oil. Add in the beef, and cook until browned. Season with soy sauce, paprika, garlic, onion, black pepper, salt, and cayenne pepper
-- <center><img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-5.jpg' alt='' class='instruction-image'>
 
 - Add the bowl of cheese into the pan, mix, and cover. Cook for just a minute or so to melt the cheese and a creamy sauce forms. Set the pan aside
-- <center><img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-6.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, chop up the vegetables for the salad. Wash your lettuce and tomatoes. Thinly slice the lettuce, cut the tomatoes into a medium dice, and the onions and pickles into a small dice. Set vegetables aside
 
 - Finally, it's time to assemble your bowls. Place the lettuce on the bottom as a base, and evenly top with your meat and sweet potatoes. Add the vegetables on top around the sides, and spoon on some <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>
-- <center><img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg' alt='' class='instruction-image'>
 Notes:
 ---

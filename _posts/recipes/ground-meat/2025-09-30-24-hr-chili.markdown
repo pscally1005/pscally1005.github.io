@@ -79,22 +79,22 @@ Instructions:
 - The beans should be done cooking around 2 pm. If you started the meat and veggies around 1pm, you should have them done around the same time
 
 - Combine together your beans, meat, veggies, canned tomatoes, and cocoa powder in the slow cooker
-- <center><img src='/assets/Food/Ground Meat/24 Hour Chili/separate.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/24 Hour Chili/separate.jpg' alt='' class='instruction-image'>
 
 - Cover and cook on low for 8 hours. The chili should be done around 10pm. Divide into 6 containers, refrigerate, and go to bed. You earned it
-- <center><img src='/assets/Food/Ground Meat/24 Hour Chili/crockpot.jpg' alt='' class='instruction-image'></center>
-- <center><img src='/assets/Food/Ground Meat/24 Hour Chili/containers.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/24 Hour Chili/crockpot.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Ground Meat/24 Hour Chili/containers.jpg' alt='' class='instruction-image'>
 Notes:
 - Note that this recipe is intended for meal prep, as it finishes at 10pm, at not meant to be eaten fresh that night for dinner.  If you would like to have the chili fresh, then you would need to split the process into another day.  Just start the beans whenever in the morning.  8 hours later, when the beans are done, cover the pot with a lid, and refrigerate until the next day.  In the morning, you can put together the rest of the chili, and get it on the slow cooker around 10:30am if you're aiming for a 6:30pm dinner
 
 - Using the method from <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a>, you can make this chili with any type of <a href='/misc/beans'>bean</a>, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#navy-beans'>navy</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.  You can also make <a href='/misc/beans#red-lentils'>lentil</a> chili with <a href='/misc/beans#brown-lentils'>brown</a>, <a href='/misc/beans#green-lentils'>green</a>, or <a href='/misc/beans#red-lentils'>red lentils</a>
 - <center><a href='/recipes/slow-cooked-beans'><img src='/assets/Food/Sides/Crockpot Beans/lentils.jpg' alt='' class='instruction-image'></a></center>
-- <center><img src='/assets/Food/Ground Meat/24 Hour Chili/lentil-chili.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/24 Hour Chili/lentil-chili.jpg' alt='' class='instruction-image'>
 
 - You can even not even use <a href='/misc/beans'>beans</a> at all!  Try making some dried <a href='/misc/grains'>grains</a>, such as <a href='/misc/grains#brown-rice'>brown rice</a>, <a href='/misc/grains#farro'>farro</a>, <a href='/misc/grains#oats'>oats</a>, or <a href='/misc/grains#quinoa'>quinoa</a>.  Below is some delicious <a href='/misc/grains#barley'>barley</a> chili that I made the other day as well
 - <center><a href='/recipes/slow-cooked-beans'><img src='/assets/Food/Sides/Crockpot Beans/barley.jpg' alt='' class='instruction-image'></a></center>
-- <center><img src='/assets/Food/Ground Meat/24 Hour Chili/barley-chili.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/24 Hour Chili/barley-chili.jpg' alt='' class='instruction-image'>
 
 - Or even pea chili using a bag of dried whole green peas (or split peas)!
-- <center><img src='/assets/Food/Ground Meat/24 Hour Chili/pea-chili.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/24 Hour Chili/pea-chili.jpg' alt='' class='instruction-image'>
 ---

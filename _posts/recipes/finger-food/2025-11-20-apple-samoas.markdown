@@ -57,7 +57,7 @@ Instructions:
 - Wash your apple, and cut into thin slices. Cut out the center with a knife
 
 - In a small bowl, mix together coconut flakes, almond butter, and honey until you have a fully combined dough. Place a thin and even layer of the coconut mixture on top of each apple slice
-- <center><img src='/assets/Food/Finger Food/Apple Samoas/separate.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Apple Samoas/separate.jpg' alt='' class='instruction-image'>
 
 - In a small bowl, add chocolate chips and coconut oil, and microwave for 20 seconds. Stir until fully melted. Drizzle the chocolate on top of the "cookies", and refrigerate until the chocolate is hardened
 Notes:

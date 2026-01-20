@@ -69,22 +69,22 @@ Instructions:
 - Add the evaporated milk and maple syrup to a medium pot over medium heat. Bring to a slow boil, and allow it to simmer until it reduces by half, about 25 minutes, stirring frequently to ensure nothing sticks to the bottom of the pan
 
 - Remove the pan from the heat and stir in the vanilla extract. Set aside to cool for at least 10 minutes in the fridge
-- <center><img src='/assets/Food/Healthier Dessert/7 Layer/milk.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/7 Layer/milk.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, in a medium bowl, mix together the crust ingredients - oat flour, coconut flour, salt, cinnamon, melted coconut oil, and maple syrup. Evenly press the mixture into the pan. The dough should feel slightly crumbly, and you should have just enough dough to barely cover the base of the pan
 
 - Bake the crust for 10 minutes at 350F, then cool for at least 5 minutes
-- <center><img src='/assets/Food/Healthier Dessert/7 Layer/crust.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/7 Layer/crust.jpg' alt='' class='instruction-image'>
 
 - As the milk boils and crust bakes, prepare your chocolate. Line a small glass container with parchment paper, and set aside. Combine cocoa powder, melted coconut oil, and allulose with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Pour into the parchment lined pan, and freeze for at least 15 minutes to harden
 
 - Roughly chop your chocolate and your nuts (any 2 different kinds of nuts will do). Combine together with coconut flakes in a medium bowl
-- <center><img src='/assets/Food/Healthier Dessert/7 Layer/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/7 Layer/bowl.jpg' alt='' class='instruction-image'>
 
 - Add the chocolate, nuts, and coconut over the crust, and evenly pour the condensed milk over the top
-- <center><img src='/assets/Food/Healthier Dessert/7 Layer/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/7 Layer/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 25 minutes, or until slightly golden on top. Place in the fridge to totally cook before slicing and serving
-- <center><img src='/assets/Food/Healthier Dessert/7 Layer/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/7 Layer/baked.jpg' alt='' class='instruction-image'>
 Notes:
 ---

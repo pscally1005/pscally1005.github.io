@@ -65,5 +65,5 @@ Instructions:
 - Coat the fish in your breading. Lightly spray the basket with oil, and add to the air fryer. Lightly spray the top, and air fry for about 6 minutes at 400F
 Notes:
 - The fish and chips should take the same time to cook, so you can do them together next to each other. That's why this recipe is only 1 serving, as the air fryer can only fit one portion at a time. If you want to scale this up, I would recommend tripling it (3 servings), and doing the fries first. Transfer the fries to a wire rack to stay crisp, and then cook your 3 fish filets
-- <center><img src='/assets/Food/Fish/Fish Chips/fish-chips-7.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Fish/Fish Chips/fish-chips-7.jpg' alt='' class='instruction-image'>
 ---

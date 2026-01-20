@@ -69,10 +69,10 @@ tags:
 Description: No bake energy bites were the first healthy baking recipe I had ever made. I had gotten this recipe from a friend 6 years ago or so, so I feel like it's time to bring it back. I've made some light modifications, like swapping the honey for <a href='/misc/fruit#dates'>dates</a> instead. These energy bites are a great grab and go snack, or topping to your morning <a href='/misc/dairy#yogurt'>Greek yogurt</a>.  For other no bake bite sized snacks, check out my <a href='/recipes/trail-mix-balls'>Trail Mix Balls</a>, <a href='/recipes/chickpea-chows'>Chickpea Chows</a>, or my <a href='/recipes/carrot-cake-bites'>Carrot Cake Energy Bites</a>
 Instructions:
 - Add your dates to a medium bowl, and pour hot water over them. Let soak for 10 minutes.  Blend the dates, soaking water, and nut butter until smooth in a food processor. Transfer to a large bowl
-- <center><img src='/assets/Food/Finger Food/Energy Bites/energy-bites-processor.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Energy Bites/energy-bites-processor.jpg' alt='' class='instruction-image'>
 
 - Mix the rest of your ingredients together in the bowl. Chill in the fridge for at least 30 minutes so the oats, chia seeds, and flaxseeds can absorb the moisture
-- <center><img src='/assets/Food/Finger Food/Energy Bites/energy-bites-bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Energy Bites/energy-bites-bowl.jpg' alt='' class='instruction-image'>
 
 - Lightly wet your hands to prevent sticking, and roll into balls. Store in an airtight bag or container in the fridge
 Notes:

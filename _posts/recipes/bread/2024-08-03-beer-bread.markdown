@@ -58,14 +58,14 @@ Instructions:
 - In a mixing bowl add the dry ingredients and whisk until well combined - flour, baking powder, and salt
 
 - Add in the honey (or maple syrup) and beer (I used Blue Moon). Mix until it forms a well combined dough
-- <center><img src='/assets/Food/Bread/Beer Bread/beer-bread-dough.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Beer Bread/beer-bread-dough.jpg' alt='' class='instruction-image'>
 
 - Transfer your dough into a loaf pan and spread evenly to all sides. Cross the top with a knife, and optionally sprinkle the top with flour (or oat flour)
 
 - Bake for about 60 minutes, or until a toothpick comes out clean and the internal temperature is at least 205F.  The edges and top should be golden brown
-- <center><img src='/assets/Food/Bread/Beer Bread/beer-bread-baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Beer Bread/beer-bread-baked.jpg' alt='' class='instruction-image'>
 
 - Allow to cool totally in the pan before removing and slicing.  This bread is best served warm, so toast, bake, or air fry for a few minutes at 400F, until done to your liking.  Store any leftover bread in the fridge or freezer
-- <center><img src='/assets/Food/Bread/Beer Bread/beer-bread-unsliced.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Beer Bread/beer-bread-unsliced.jpg' alt='' class='instruction-image'>
 Notes:
 ---

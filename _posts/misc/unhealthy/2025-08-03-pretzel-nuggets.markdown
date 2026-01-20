@@ -48,10 +48,10 @@ Instructions:
 - Almond or oat flour will also work, but you may need upwards of double the amount (both by weight and volume), as coconut flour absorbs much more moisture.  See <a href='/misc/water-absorption'>Water Absorption of Different Flours</a> for an in depth analysis
 
 - Line a baking sheet with parchment paper, and prepare 48 pretzels. Place a small scoop of the dough (about 7 g) onto one pretzel, and sandwich with another on top. Add to the sheet, and repeat to make 24 pretzel nuggets
-- <center><img src='/assets/Misc/Unhealthy/Pretzel Nuggets/in-progress.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/in-progress.jpg' alt='' class='instruction-image'>
 
 - In a small bowl, add chocolate chips and coconut oil. Microwave in 30 second intervals, stirring in between, until you have a smooth melted chocolate. Lightly paint the tops of each pretzel nugget in chocolate, and return to the pan. Refrigerate to harden, and serve
-- <center><img src='/assets/Misc/Unhealthy/Pretzel Nuggets/done.jpg' alt='' class='instruction-image'></center>
-- <center><img src='/assets/Misc/Unhealthy/Pretzel Nuggets/cover-1.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/done.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/cover-1.jpg' alt='' class='instruction-image'>
 Notes:
 ---

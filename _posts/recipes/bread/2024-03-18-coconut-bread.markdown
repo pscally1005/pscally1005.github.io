@@ -61,17 +61,17 @@ Instructions:
 - In a large bowl, whisk together the dry ingredients - coconut flour, whey, baking powder, salt, and garlic powder. Make sure everything is fully mixed and there are no clumps of baking powder
 
 - In a separate bowl, beat together the eggs, water, applesauce, and cheese. I've used shredded mozzarella (low moisture part skim), but shredded cheddar would work as well.  Optionally add some apple cider vinegar for a slight sour flavor
-- <center><img src='/assets/Food/Bread/Coconut Bread/coconut-bread-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Coconut Bread/coconut-bread-3.jpg' alt='' class='instruction-image'>
 
 - Pour the wet into the dry, and mix until well combined. If the batter is too thick, add water 1 tbsp at a time. The batter should be thick but scoopable.  Transfer to your prepared bread pan
-- <center><img src='/assets/Food/Bread/Coconut Bread/coconut-bread-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Coconut Bread/coconut-bread-4.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 40-45 minutes, until the top is just firm to the touch
 
 - Brush the top with water (or olive oil), and sprinkle with everything bagel seasoning (optional). Return to the oven for another 4 minutes. A toothpick should come out totally clean, and the internal temperature should register about 205F
 
 - Remove from the oven, and let cool in the pan for 30 minutes. Transfer to a wire rack in the fridge to totally cool before slicing
-- <center><img src='/assets/Food/Bread/Coconut Bread/coconut-bread-7.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Coconut Bread/coconut-bread-7.jpg' alt='' class='instruction-image'>
 
 - Add slices to a large Ziploc bag, and store in the freezer
 Notes:

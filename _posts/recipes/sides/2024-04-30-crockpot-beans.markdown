@@ -59,8 +59,5 @@ Instructions:
 - Pour in your water to just fully submerge the beans. Cover and cook for 8 hours on low. You can add an additional hour on high (uncovered) if you want to cook off more liquid
 
 - Using this method, you can make any type of dried <a href='/misc/beans'>bean</a>, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#navy-beans'>navy</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.  You can also make <a href='/misc/beans#red-lentils'>lentils</a>, such as <a href='/misc/beans#brown-lentils'>brown</a>, <a href='/misc/beans#green-lentils'>green</a>, or <a href='/misc/beans#red-lentils'>red</a>.  All using the same amount of water and salt, and taking the same time to cook
-- <center><img src='/assets/Food/Sides/Crockpot Beans/lentils.jpg' alt='' class='instruction-image'></center>
-
-- You can even not even use <a href='/misc/beans'>beans</a> at all!  Try making some dried <a href='/misc/grains'>grains</a>, such as <a href='/misc/grains#brown-rice'>brown rice</a>, <a href='/misc/grains#farro'>farro</a>, <a href='/misc/grains#oats'>oats</a>, or <a href='/misc/grains#quinoa'>quinoa</a>.  Below is some <a href='/misc/grains#barley'>barley</a> I made the other day using this method
-- <center><img src='/assets/Food/Sides/Crockpot Beans/barley.jpg' alt='' class='instruction-image'></center>
----
+- not even use <a href='/misc/beans'>beans</a> at all!  Try making some dried <a href='/misc/grains'>grains</a>, such as <a href='/misc/grains#brown-rice'>brown rice</a>, <a href='/misc/grains#farro'>farro</a>, <a href='/misc/grains#oats'>oats</a>, or <a href='/misc/grains#quinoa'>quinoa</a>.  Below is some <a href='/misc/grains#barley'>barley</a> I made the other day using this method
+- 

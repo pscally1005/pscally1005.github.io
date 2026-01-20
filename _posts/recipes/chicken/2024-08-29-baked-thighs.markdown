@@ -63,10 +63,10 @@ Instructions:
 - Roast at 250F for about 45 minutes
 
 - Increase the oven temp to 400F, and roast for another 30-45 minues.
-- <center><img src='/assets/Food/Chicken/Baked Thighs/baked-thighs.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Baked Thighs/baked-thighs.jpg' alt='' class='instruction-image'>
 Notes:
 - You can also use thinly sliced chicken breasts instead. Just do 1 bake at 400F until the breasts reach 165F, about 15 minutes
 
 - You can eat them as a standalone piece of meat on your plate, but today I decided to chop up the baked pieces and use them in place of <a href='/misc/meat#ground-turkey'>ground turkey</a> in my <a href='/recipes/penne-casserole'>Penne and Meat Casserole Bake</a>
-- <center><img src='/assets/Food/Chicken/Baked Thighs/thigh-casserole.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Baked Thighs/thigh-casserole.jpg' alt='' class='instruction-image'>
 ---

@@ -66,14 +66,14 @@ tags:
 Description: This pizza <a href='/recipes/bread'>dough</a> is a variation of the viral 2 ingredient <a href='/recipes/bread'>dough</a>, a combination of just <a href='/misc/dairy#yogurt'>yogurt</a> and self rising <a href='/misc/grains#white-wheat'>flour</a> (<a href='/misc/grains#white-wheat'>flour</a> + baking powder + salt). <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> is the best for its nutrition and taste, and the added spices add a lot to the flavor of the <a href='/misc/grains#bread'>dough</a>. Top if with some <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> and a bit of <a href='/misc/dairy#mozzarella'>cheese</a>, and you have a healthy pizza with a decent bit of <a href='/misc/protein'>protein</a>
 Instructions:
 - In a medium bowl, whisk together the dry ingredients - whole wheat flour, vital wheat gluten (or sub more flour), baking powder, garlic powder, onion powder, and salt. Add in the yogurt, and combine with your hands until you have a smooth dough ball
-- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-ball.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-ball.jpg' alt='' class='instruction-image'>
 
 - For a <a href='/misc/celiac'>gluten free</a> version, you can replace the whole wheat flour and vital wheat gluten with oat flour (40 g). The dough will be a little drier and crumblier because of the lack of <a href='/misc/celiac'>gluten</a>, but it can still be shaped into a flatbread
 
 - Flatten into a round and thin pizza dough. Top with your sauce, cheese, and any other toppings you like (meat and vegetables are great additions)
-- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-pan.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Easy Pizza/easy-pizza-dough-pan.jpg' alt='' class='instruction-image'>
 
 - You can either bake this in a 500F oven on a preheated pizza stone for about 5-7 minutes, or you can cook it in a pan over medium heat (covered) until the bottom is browned to your liking (about 8 minutes)
-- <center><img src='/assets/Food/Bread/Easy Pizza/easy-pizza-cooked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Easy Pizza/easy-pizza-cooked.jpg' alt='' class='instruction-image'>
 Notes:
 ---

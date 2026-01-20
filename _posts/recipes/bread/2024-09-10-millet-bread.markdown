@@ -59,14 +59,14 @@ Instructions:
 - In a large bowl, combine the water, vinegar, and psyllium husks. Let sit for 5 minutes.  The psyllium husk needs a few minutes to gel; it should be a similar consistency as applesauce
 
 - Meanwhile, in a separate large bowl, whisk together the rest of the ingredients - millet flour, baking powder, baking soda, ground flaxseed, and salt
-- <center><img src='/assets/Food/Bread/Millet Bread/millet-bread-bowls.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Millet Bread/millet-bread-bowls.jpg' alt='' class='instruction-image'>
 
 - Add the wet ingredients into the dry, and mix with a spoon until fully combined. Transfer the dough to your pan. Optionally top with oats, seeds, chopped nuts, dusted flour, etc, or you can score the top with a knife or bread lame. Here, I topped with about 1 tbsp (12 g) chia seeds
 
 - Bake at 325F for about 90 minutes, or until the internal temperature is at least 205F
-- <center><img src='/assets/Food/Bread/Millet Bread/millet-bread-cooked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Millet Bread/millet-bread-cooked.jpg' alt='' class='instruction-image'>
 
 - Let cool completely in the fridge on a cooling rack for a few hours before slicing
-- <center><img src='/assets/Food/Bread/Millet Bread/millet-bread-sliced.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Millet Bread/millet-bread-sliced.jpg' alt='' class='instruction-image'>
 Notes:
 ---

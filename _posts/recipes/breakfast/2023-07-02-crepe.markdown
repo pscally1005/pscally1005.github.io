@@ -64,6 +64,6 @@ Instructions:
 - Serve each one with some filling. Makes about 10 small crepes
 
 - Stack leftovers aside on a plate or wire rack to cool
-- <center><img src='/assets/Food/Breakfast/Crepe/crepe-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Crepe/crepe-6.jpg' alt='' class='instruction-image'>
 Notes:
 ---

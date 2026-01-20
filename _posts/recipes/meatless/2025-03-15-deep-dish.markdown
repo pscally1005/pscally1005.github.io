@@ -57,17 +57,8 @@ Instructions:
 - Preheat your oven to 350F, and take out a 9" cake pan
 
 - Stretch your pizza dough as thin and round as possible, and place into the pan. Line the bottom, and pull the dough up the sides of the walls of the pan.  Lightly wet your fingers to get the dough to cling to the walls of the pan
-- <center><img src='/assets/Food/Meatless/Deep Dish/dough.jpg' alt='' class='instruction-image'></center>
-
-- Add your shredded cheese on top of the dough
-- <center><img src='/assets/Food/Meatless/Deep Dish/cheese.jpg' alt='' class='instruction-image'></center>
-
-- In a medium bowl, mix together the sauce ingredients - tomatoes, balsamic, garlic, onion, basil, salt, and red pepper flakes. Add on top of the mozzarella cheese
-- <center><img src='/assets/Food/Meatless/Deep Dish/sauce.jpg' alt='' class='instruction-image'></center>
-
-- Top the pizza with grated cheese, oregano, and any other toppings you like
-- <center><img src='/assets/Food/Meatless/Deep Dish/top.jpg' alt='' class='instruction-image'></center>
-
-- Bake at 350F for 20 minutes, or until the crust is lightly browned. Let rest in the pan for 5 minutes before cutting into 4 slices
-- <center><img src='/assets/Food/Meatless/Deep Dish/baked.jpg' alt='' class='instruction-image'></center>
----
+- dded cheese on top of the dough
+- owl, mix together the sauce ingredients - tomatoes, balsamic, garlic, onion, basil, salt, and red pepper flakes. Add on top of the mozzarella cheese
+-  with grated cheese, oregano, and any other toppings you like
+- for 20 minutes, or until the crust is lightly browned. Let rest in the pan for 5 minutes before cutting into 4 slices
+- 

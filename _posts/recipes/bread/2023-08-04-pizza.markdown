@@ -57,12 +57,12 @@ Instructions:
 - Add your water to a glass, and microwave for 1 minute to warm it.  Add yeast, salt, honey, oil, and warm water to a large mixing bowl, and mix.  Let sit for 5 minutes to make sure the yeast is still alive
 
 - In a separate bowl, whisk together whole wheat flour and vital wheat gluten.  Add the dry into the wet, mix with a dough scraper, and lightly knead in the bowl.  Cover with a cloth and let rest for 1 hour
-- <center><img src='/assets/Food/Bread/Pizza/pizza-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Pizza/pizza-2.jpg' alt='' class='instruction-image'>
 
 - In the bowl, fold the dough into a smooth ball, and place back in the bowl. Cover and let rest for another 1 hour. Repeat one more time. (Total of three 1 hour rests with stretching and folding)
 
 - Turn dough onto the table. Divide into 4 equal pieces (about 145 g), and shape into balls. Place dough balls in lightly oiled bowls, and cover with plastic wrap. Refrigerate until dinner tomorrow night
-- <center><img src='/assets/Food/Bread/Pizza/pizza-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Pizza/pizza-5.jpg' alt='' class='instruction-image'>
 
 - Place baking stone in the oven and preheat the oven to 550F, or as high as your oven goes. Preheat stone for an hour
 
@@ -71,7 +71,7 @@ Instructions:
 - Bake for about 7 minutes, or until the crust and bottom is lightly browned, and the cheese is just bubbly.  Transfer to a wire rack to cool for 5 minutes before cutting into 4 slices
 Notes:
 - Every Valentine's Day Vic and I make pizzas together, and she always makes hers into a heart.  Here are some of our past years creations, from 2023 to 2025
-- <center><img src='/assets/Food/Bread/Pizza/2023.jpg' alt='' class='instruction-image'></center>
-- <center><img src='/assets/Food/Bread/Pizza/2024.jpg' alt='' class='instruction-image'></center>
-- <center><img src='/assets/Food/Bread/Pizza/2025.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Pizza/2023.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Bread/Pizza/2024.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Bread/Pizza/2025.jpg' alt='' class='instruction-image'>
 ---

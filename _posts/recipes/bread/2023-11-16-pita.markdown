@@ -51,15 +51,15 @@ Instructions:
 - Add your water to a glass, and microwave for 1 minute to warm it.  Mix warm water, salt, yeast, and oil in a large bowl. Let proof for 5 minutes to make sure the yeast is alive
 
 - In a separate bowl, whisk together the whole wheat flour and vital wheat gluten.  Add the flours into the liquids, and bring together with a dough scraper. Lightly knead for a minute to fully mix everything. Cover and let rest for 20 minutes to autolyze
-- <center><img src='/assets/Food/Bread/Pita/pita-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Pita/pita-2.jpg' alt='' class='instruction-image'>
 
 - Turn dough onto the non floured counter and knead for ~8 minutes. Let rest for 3 minutes, then shape into a ball. Return to the bowl, cover with a cloth, and let rise for 1 hour (should be about doubled in size)
-- <center><img src='/assets/Food/Bread/Pita/pita-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Pita/pita-3.jpg' alt='' class='instruction-image'>
 
 - Preheat the oven to 500F. Turn dough onto the surface and divide into 10 pieces, ~90 g each. Roll each into a smooth ball, cover, and let rest for 10 minutes
 
 - Using a rolling pin (or your hands) roll each ball to about ¼ inch thick. Place 3 onto an ungreased cookie sheet, and bake for 4-5 minutes. For even better results, bake the pitas on a preheated pizza stone instead
-- <center><img src='/assets/Food/Bread/Pita/pita-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Pita/pita-5.jpg' alt='' class='instruction-image'>
 
 - Place on wire rack and repeat with the remaining pitas
 Notes:

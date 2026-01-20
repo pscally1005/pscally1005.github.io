@@ -63,13 +63,13 @@ Instructions:
 - Cut the peppers in half, and scoop out the ribs and seeds.  Rinsing under the sink helps to remove seeds  Place cut side up in your pan
 
 - In a large bowl, mix together the filling - cooked rice, ground meat, cheese, minced garlic, chili powder, garlic powder, onion powder, cumin, and salt
-- <center><img src='/assets/Food/Finger Food/Stuffed/filling.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Stuffed/filling.jpg' alt='' class='instruction-image'>
 
 - Stuff the peppers, about 100 g in each pepper half. Optionally top with more cheese or <a href='/recipes/ketchup'>Unsweetened BBQ Sauce</a>
-- <center><img src='/assets/Food/Finger Food/Stuffed/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Stuffed/raw.jpg' alt='' class='instruction-image'>
 
 - Cover the pan with aluminum foil, and roast at 400F for about 1 hour. The peppers should be tender and the meat fully cooked (at least 165F)
-- <center><img src='/assets/Food/Finger Food/Stuffed/cooked.jpg' alt='' class='instruction-image'></center><br>
+- <img src='/assets/Food/Finger Food/Stuffed/cooked.jpg' alt='' class='instruction-image'><br>
 Notes:
 - |
   This post is more of a guide on how to make stuffed peppers; below are different filling options you can try

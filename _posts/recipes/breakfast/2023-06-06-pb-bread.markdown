@@ -54,7 +54,7 @@ Instructions:
 - Add in the peanut butter and honey, and combine with your fingers. It should have the consistency of wet sand
 
 - Finally, using a spatula, mix in the milk
-- <center><img src='/assets/Food/Breakfast/PB Bread/pb-bread-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/PB Bread/pb-bread-3.jpg' alt='' class='instruction-image'>
 
 - Add to a greased loaf pan, and score down the center with a butter knife or your spatula
 

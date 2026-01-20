@@ -54,5 +54,5 @@ Instructions:
 - Blend all ingredients together in a blender, and pour into a glass
 Notes:
 - Turn into a smoothie bowl by using a frozen banana and leaving out the milk, and blending in a food processor instead.  Transfer to a bowl. Add any toppings if desired, such as nuts or seeds
-- <center><img src='/assets/Food/Drinks/Smoothie/smoothie-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Drinks/Smoothie/smoothie-3.jpg' alt='' class='instruction-image'>
 ---

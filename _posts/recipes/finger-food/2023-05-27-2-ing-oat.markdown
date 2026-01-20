@@ -63,10 +63,10 @@ Instructions:
 - Preheat your oven to 350F and line a cookie sheet with parchment paper
 
 - In a bowl, add your banana, and mash with the back of a fork until smooth. Mix in the oats, with an optional small pinch of salt
-- <center><img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-2.jpg' alt='' class='instruction-image'>
 
 - Scoop onto your lined tray, and lightly flatten the tops.  Bake at 350F for about 12 minutes. Transfer to a wire rack to cool
-- <center><img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-5.jpg' alt='' class='instruction-image'>
 Notes:
 - |
   Some other great options instead of banana are
@@ -80,7 +80,7 @@ Notes:
   </ul>
 
 - Below is a batch I made with homemade blackberry jam (left) and applesauce (right)
-- <center><img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-3.jpg' alt='' class='instruction-image'>
 
 - You can also add any other flavors if you like. A dash of cinnamon or vanilla would be great, or you can fold in some mix-ins like chocolate chips or nuts
 ---

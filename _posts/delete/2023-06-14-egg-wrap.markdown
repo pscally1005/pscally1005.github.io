@@ -61,7 +61,7 @@ Instructions:
 - Return to the burner and cook until eggs are almost done (~15 min?) over medium heat
 
 - When eggs are almost done, add in the cheese and salsa and stir until incorporated
-- <center><img src='/assets/Food/Breakfast/Egg Wrap/egg-wrap-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Egg Wrap/egg-wrap-5.jpg' alt='' class='instruction-image'>
 
 - Divide the mix evenly across 6 tortillas. Wait to shape the leftovers until the eggs have cooled. Optionally top with some sauce
 

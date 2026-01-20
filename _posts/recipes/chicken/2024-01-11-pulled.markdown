@@ -68,6 +68,6 @@ Instructions:
 - The coleslaw can be made at any time and kept in the fridge, so I like to do it as the chicken cooks. I find that a food processor is the easiest way to shred cabbage. Cut your cabbage into wedges and remove the core. Using the shredder attachment, feed the cabbage down the tube to finely shred it. You can also use a mandolin or a knife. Transfer the shredded cabbage to a large bowl
 
 - In a glass, mix together the dressing ingredients (ACV, oil, lime, soy sauce, balsamic, dijon, onion and garlic powder, black pepper, and celery seed). Pour over the cabbage, mix, and serve
-- <center><img src='/assets/Food/Chicken/Pulled/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Pulled/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -58,7 +58,7 @@ tags:
 Description: Unlike regular <a href='/misc/fake-healthy-foods#pancakes'>pancakes</a>, these will serve to keep you full all the way until lunch. With <a href='/misc/protein'>protein</a> of the <a href='/misc/dairy#whey'>whey</a> and <a href='/misc/fiber'>fiber</a> of the <a href='/misc/grains#oats'>oats</a>, plus the addition of mashed <a href='/misc/fruit#banana'>banana</a>, this serves as a perfect Sunday morning recipe.  For a very similar <a href='/misc/fake-healthy-foods#pancakes'>pancake</a> recipe with <a href='/misc/veggies#pumpkin'>pumpkin</a> instead, check out my <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>.  Or, for more <a href='/misc/fruit#banana'>banana</a> recipes, see my <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a>, <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>, or <a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a>
 Instructions:
 - In a medium bowl, mash a banana with the back of a fork.  Combine in the rest of the ingredients.  Let the batter rest for 5-10 minutes
-- <center><img src='/assets/Food/Breakfast/Banana Pancake/pancake-batter.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Banana Pancake/pancake-batter.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, preheat a large nonstick pan over medium heat with a spray of oil. The pan should sound like it's sizzling lightly when the batter is spooned in
 

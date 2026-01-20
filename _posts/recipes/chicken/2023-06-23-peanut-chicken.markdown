@@ -59,7 +59,7 @@ tags:
 Description: I'm a big sucker for <a href='/misc/nuts#peanuts'>peanut</a> butter. As an American, the glorious <a href='/misc/nuts'>nut</a> nectar is normally only used for sweet things, which I think is a missed opportunity. The sauce here takes some great Asian inspiration, and tastes fantastic on <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, and a side of <a href='/misc/grains#brown-rice'>brown rice</a>. I used powdered peanut butter here, as it's easier to mix into the sauce, and it also boosts the <a href='/misc/protein'>protein</a> content. Feel free to swap the olive oil and cook in <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> instead for even more flavor.
 Instructions:
 - Wash and cut the vegetables. Add the onions and carrots to a large pot or pan with oil. Cook over medium heat (covered) with salt until soft
-- <center><img src='/assets/Food/Chicken/Peanut/peanut-1.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Peanut/peanut-1.jpg' alt='' class='instruction-image'>
 
 - When the carrots are about half done, add in the coleslaw mix and the rest of the spices for the vegetables (oil, paprika, garlic and onion powder, salt, black pepper, and ginger). Mix, cover, and cook to reduce it down
 
@@ -70,6 +70,6 @@ Instructions:
 - As the chicken rests and the vegetables cook, prepare your sauce in a large glass - powdered peanut butter, soy sauce, ACV, water, gochujang, cornstarch, ginger, and sesame oil
 
 - Cut the chicken into cubes, and add to the pan. Pour the sauce over it, and mix to fully combine. The cornstarch should thicken the sauce when heated. Optionally, garnish with peanuts, and serve over some <a href='/misc/grains#brown-rice'>brown rice</a>
-- <center><img src='/assets/Food/Chicken/Peanut/peanut-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Peanut/peanut-6.jpg' alt='' class='instruction-image'>
 Notes:
 ---

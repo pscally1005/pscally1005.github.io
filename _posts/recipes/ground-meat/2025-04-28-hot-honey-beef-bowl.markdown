@@ -57,10 +57,10 @@ Instructions:
 - Wash your sweet potatoes, and cut into a medium dice (don't peel them!). Season with oil, paprika, black pepper, and salt. Add to a glass bowl, cover with a plate, and microwave for 5 minutes. This will speed up the roasting time
 
 - Transfer the potatoes to your baking sheet. Roast for about 30 minutes, or until soft and lightly browned. You can also air fry at 400F for 15-20 minutes if you're making a smaller batch
-- <center><img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/sw-pot.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/sw-pot.jpg' alt='' class='instruction-image'>
 
 - When the potatoes have about 10-15 minutes left, start on the beef. Preheat a pan over medium heat, and brown the beef. Season with chili powder, cumin, salt, and cinnamon. Set aside
-- <center><img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/beef.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/beef.jpg' alt='' class='instruction-image'>
 
 - Take out 4 bowls, and add 1/4 of your sweet potatoes to one quadrant, and 1/4 of the beef to another. In the third quadrant, add 1/2 a sliced avocado (50 g). Finally, in the remaining quadrant, add your cottage cheese (1/2 cup, 113 g)
 

@@ -63,14 +63,14 @@ Instructions:
 - In a large bowl, whisk together the dry ingredients - cornmeal, almond flour, nutritional yeast, paprika, baking powder, cumin, oregano, thyme, salt, black pepper, baking soda, and cayenne
 
 - Add the wet ingredients to the bowl (water, applesauce, and apple cider vinegar) and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until smooth
-- <center><img src='/assets/Food/Sides/Vegan Cornbread/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Vegan Cornbread/bowl.jpg' alt='' class='instruction-image'>
 
 - Pour the batter into the pan, and smooth out the top
-- <center><img src='/assets/Food/Sides/Vegan Cornbread/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Vegan Cornbread/raw.jpg' alt='' class='instruction-image'>
 
 - Bake for 30 minutes, or until the top is firm to the touch, and a toothpick comes out clean. The internal temperature should be around 200F
-- <center><img src='/assets/Food/Sides/Vegan Cornbread/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Vegan Cornbread/baked.jpg' alt='' class='instruction-image'>
 
 - Let rest in the pan for 10 minutes before transferring to a wire rack to cool completely before slicing
-- <center><img src='/assets/Food/Sides/Vegan Cornbread/cut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Vegan Cornbread/cut.jpg' alt='' class='instruction-image'>
 ---

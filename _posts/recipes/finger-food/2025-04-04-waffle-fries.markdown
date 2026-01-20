@@ -60,9 +60,9 @@ Instructions:
 - Wash your sweet potato, and slice off the ends (but don't peel it!). Slice the potato using a mandoline on the waffle fry setting
 
 - Add your fries to a glass bowl, and toss with vinegar, oil, and spices. Cover with a plate, and microwave for 5 minutes to soften the inside a little before air frying
-- <center><img src='/assets/Food/Finger Food/Waffle Fries/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Waffle Fries/raw.jpg' alt='' class='instruction-image'>
 
 - Add to your air fryer basket. You may have to fry in 2 batches. Air fry at 400F for about 6-8 minutes, or until the outside is browned and crispy, and the center is soft and tender
-- <center><img src='/assets/Food/Finger Food/Waffle Fries/cooked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Waffle Fries/cooked.jpg' alt='' class='instruction-image'>
 Notes:
 ---

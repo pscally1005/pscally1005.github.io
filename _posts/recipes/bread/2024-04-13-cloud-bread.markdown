@@ -53,23 +53,23 @@ tags:
 Description: Cloud bread is a low <a href='/misc/carbs'>carb</a> bread substitute made with whipped <a href='/misc/meat#eggs'>egg</a> whites. It's lower in <a href='/misc/calories'>calories</a> and higher in <a href='/misc/protein'>protein</a> than regular bread, and it can be made in just a few minutes. It can be even lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a> if you omit the yolks, but I choose not to as egg yolks are still highly nutritious; plus what would I do with the extra yolk then? Just 1 egg is enough 2 small slices for a sandwich, or one large flatbread for a pizza
 Instructions:
 - Separate your egg yolks from the whites. Add the whites to a large metal or glass bowl. Not plastic, or the egg whites won't beat properly. Carton egg whites are not recommended as those are harder to beat as well
-- <center><img src='/assets/Food/Bread/Cloud Bread/cloud-1.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Bread/cloud-1.jpg' alt='' class='instruction-image'>
 
 - Add baking powder and baking soda to the egg whites. Using a hand mixer, whip to form stuff peaks
-- <center><img src='/assets/Food/Bread/Cloud Bread/cloud-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Bread/cloud-2.jpg' alt='' class='instruction-image'>
 
 - In a separate bowl, to the yolks, add garlic powder, onion, powder, salt, and yogurt. Mix together with a spatula
 
 - Carefully fold the egg whites into the yolks
-- <center><img src='/assets/Food/Bread/Cloud Bread/cloud-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Bread/cloud-4.jpg' alt='' class='instruction-image'>
 
 - Scoop the batter into a parchment lined baking pan, forming 6 equal sized disks (or 3 larger ones for a pizza)
-- <center><img src='/assets/Food/Bread/Cloud Bread/cloud-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Bread/cloud-5.jpg' alt='' class='instruction-image'>
 
 - Bake for 26 minutes in a preheated 300F oven. While the pizza is bigger, it's also a bit thinner, so both the pizza and the smaller bread should take the same time. Let cool totally on the pan before removing
-- <center><img src='/assets/Food/Bread/Cloud Bread/cloud-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Bread/cloud-6.jpg' alt='' class='instruction-image'>
 
 - To reheat for a pizza, top with sauce, cheese, and toppings, and bake at 400F for 5 minutes until warm and melty.  The sauce here is my <a href='/recipes/avocado-pesto'>Avocado Pesto - Vegan and Oil Free</a>
-- <center><img src='/assets/Food/Bread/Cloud Bread/cloud-7.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cloud Bread/cloud-7.jpg' alt='' class='instruction-image'>
 Notes:
 ---

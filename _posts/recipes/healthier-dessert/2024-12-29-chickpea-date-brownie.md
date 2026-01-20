@@ -57,11 +57,11 @@ Instructions:
 - Preheat your oven to 350F, and line a 9x13" pan with parchment paper. Lightly oil the paper
 
 - In a food processor, blend together all ingredients until smooth. Transfer to your prepared pan
-- <center><img src='/assets/Food/Healthier Dessert/Chickpea Date Brownie/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Chickpea Date Brownie/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 30 minutes, or until the center is set, a toothpick comes out slightly moist, and the internal temperature is around 195F
 
 - Transfer to a wire rack to totally cool in the fridge before slicing into 24 with a plastic knife
-- <center><img src='/assets/Food/Healthier Dessert/Chickpea Date Brownie/cut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Chickpea Date Brownie/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---

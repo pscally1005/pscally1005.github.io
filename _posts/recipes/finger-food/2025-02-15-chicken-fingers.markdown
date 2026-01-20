@@ -58,22 +58,22 @@ Instructions:
 - This recipe will work with either boneless skinless chicken breast, or chicken tenders. For breasts, cut them into long, thin strips. For tenders, remove the tendon with a fork, and slice in half lengthwise
 
 - Add the chicken to a parchment lined cookie sheet, and season both sides with salt. Dry brine in the fridge (uncovered) for at least 1 hour
-- <center><img src='/assets/Food/Finger Food/Chicken Fingers/brine.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Chicken Fingers/brine.jpg' alt='' class='instruction-image'>
 
 - Mix together almond flour (or any other kind of flour), oregano, and black pepper on a plate. Place on the left
 
 - In the middle, beat together an egg in a bowl, and mix with hot sauce
 
 - Finally, on the right, mix together your breadcrumbs on a plate - oat flour, grated cheese, paprika, cumin, cayenne, and salt
-- <center><img src='/assets/Food/Finger Food/Chicken Fingers/plates.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Chicken Fingers/plates.jpg' alt='' class='instruction-image'>
 
 - From left to right, flour the chicken, lightly coat in the egg wash, and then roll in the breadcrumbs. Place chicken back on the cookie sheet
-- <center><img src='/assets/Food/Finger Food/Chicken Fingers/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Chicken Fingers/raw.jpg' alt='' class='instruction-image'>
 
 - You can either air fry the chicken fingers, or bake them in the oven. The oven is easier, since you can do it all in 1 batch, but they won't come out as crispy. On the other hand, the air fryer will cook the chicken faster and get a crispier breading without drying out the chicken, but it will take multiple batches
 
 - Either way, cook at 400F until the chicken just reaches 165F (about 15 minutes in the oven or 8 minutes in the air fryer). Transfer to a wire rack to cool
-- <center><img src='/assets/Food/Finger Food/Chicken Fingers/cooked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Chicken Fingers/cooked.jpg' alt='' class='instruction-image'>
 
 - To reheat from the fridge, cook at 400F until thawed and hot, about 3-5 minutes in the air fryer or 10-15 minutes in the oven
 

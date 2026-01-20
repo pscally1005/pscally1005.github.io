@@ -61,9 +61,9 @@ Instructions:
 - Season to taste with whatever you like. I went with paprika, chili powder, lemon pepper, garlic, onion, black pepper, and hot sauce
 
 - Crack your eggs into a large bowl, and mix with the vegetables. Liberally grease a muffin tin, and evenly divide your batter. This recipe makes 24 mini muffins or 12 regular sized muffins
-- <center><img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-3.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 15 minutes for mini muffins, or about 20 minutes for regular sized muffins. Let cool in the pan for 5 minutes before transferring to a wire rack and serving. Optionally, top with shredded cheese and serve with salsa
-- <center><img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-4.jpg' alt='' class='instruction-image'>
 Notes:
 ---

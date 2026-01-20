@@ -31,7 +31,8 @@ tags:
     <li>
         Trim the fat off your chicken, and cut into 1" cubes.  Transfer to a cookie sheet.  Either chicken breasts or <a href='/misc/meat#chicken-thighs'>thighs</a> will work here, but today I'm going with breasts.
         <br><br>
-        <center><img src='/assets/Misc/Cooking/Ground Chicken/whole-breasts.jpg' alt='' class='half-page'><img src='/assets/Misc/Cooking/Ground Chicken/cubed.jpg' alt='' class='half-page'></center>
+        <img src='/assets/Misc/Cooking/Ground Chicken/whole-breasts.jpg' alt='' class='instruction-image'><br>
+        <img src='/assets/Misc/Cooking/Ground Chicken/cubed.jpg' alt='' class='instruction-image'>
     </li><br>
     <li>
         Freeze the food processor blade and the cookie sheet (uncovered) for 30 minutes.
@@ -39,13 +40,13 @@ tags:
     <li>
         Pulse in a food processor (about 10 times of 1 second each) until you have a ground chicken consistency, about the size of a grain of <a href='/misc/grains#brown-rice'>rice</a>.  Transfer to a bowl.  You may need to blend in batches depending on how much chicken you have; I did 3 for these 4 large breasts.
         <br><br>
-        <center><img src='/assets/Misc/Cooking/Ground Chicken/ground.jpg' alt='' class='instruction-image'></center>
+        <img src='/assets/Misc/Cooking/Ground Chicken/ground.jpg' alt='' class='instruction-image'>
     </li><br>
     <li>
         At this point you have raw ground chicken!  Use any way you'd normally use any ground meat.  Here I'm just sauteing it in a pan until fully cooked, and adding in a can of fava beans, some <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>, and spices (chili powder, garlic powder, paprika, onion powder, black pepper, and salt)
         <br><br>
-        <center><img src='/assets/Misc/Cooking/Ground Chicken/raw-pan.jpg' alt='' class='instruction-image'></center><br>
-        <center><img src='/assets/Misc/Cooking/Ground Chicken/cooked-pan.jpg' alt='' class='instruction-image'></center><br>
-        <center><img src='/assets/Misc/Cooking/Ground Chicken/seasoned-pan-1.jpg' alt='' class='instruction-image'></center><br>
+        <img src='/assets/Misc/Cooking/Ground Chicken/raw-pan.jpg' alt='' class='instruction-image'><br>
+        <img src='/assets/Misc/Cooking/Ground Chicken/cooked-pan.jpg' alt='' class='instruction-image'><br>
+        <img src='/assets/Misc/Cooking/Ground Chicken/seasoned-pan-1.jpg' alt='' class='instruction-image'><br>
     </li>
 </ol>

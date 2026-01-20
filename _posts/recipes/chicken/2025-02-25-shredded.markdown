@@ -61,21 +61,21 @@ Instructions:
 - Either boneless skinless chicken thighs or bone-in skin-on thighs will work here. Just discard the skin and bones at the end if you're doing the latter
 
 - Add your chicken to a parchment lined baking sheet, and season both sides liberally with salt and pepper
-- <center><img src='/assets/Food/Chicken/Shredded/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Shredded/raw.jpg' alt='' class='instruction-image'>
 
 - Roast at 250F for 45 minutes. Increase oven temperature to 425F, and cook for an additional 30-45 minutes, or until the chicken is around 190F
-- <center><img src='/assets/Food/Chicken/Shredded/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Shredded/baked.jpg' alt='' class='instruction-image'>
 
 - Let cool totally before shredding with your hands. Discard any skin and bones
-- <center><img src='/assets/Food/Chicken/Shredded/shredded.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Shredded/shredded.jpg' alt='' class='instruction-image'>
 Notes:
 - I've marked a serving size as about 1 oz (28 g) cooked meat for ease of comparison and measurement. 6 thighs (828 g) should yield about 621 g, as meat tends to lose about 25% of its raw weight when cooked
 
 - With this chicken, you can use it as a topping for your salads for some <a href='/misc/protein'>protein</a>, or toss with with a sauce.  Try mixing it with <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> for some BBQ Pulled Chicken, and serve alongside some <a href='/recipes/pulled-chicken'>coleslaw</a>.  Or mix with <a href='/recipes/salsa'>Five Minute Salsa</a> for some <a href='/recipes/salsa-chicken'>Two Ingredient Salsa Chicken</a>
-- <center><img src='/assets/Food/Chicken/Shredded/salsa.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Shredded/salsa.jpg' alt='' class='instruction-image'>
 
 - If you used bone-in, skin-on chicken thighs, you should have a lot of <a href='/misc/fats'>fat</a> rendered out in the pan after baking.  If you desire, transfer all the drippings to a mason jar, and refrigerate overnight.  In the morning, scrape the chicken fat (known as "shmaltz") off the top.  I got just over 1/2 cup (136 g) from a double batch of the chicken
-- <center><img src='/assets/Food/Chicken/Shredded/jars.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Shredded/jars.jpg' alt='' class='instruction-image'>
 
 - Use the shmaltz in any place you would use <a href='/misc/dairy#butter'>butter</a> or oil.  I'll be using it in place of olive oil in my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> tomorrow for extra chicken flavor.  Refrigerate the fat for up to a week, or freeze indefinitely.
 - <center><a href='/recipes/buffalo-chicken-dip'><img src='/assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg' alt='' class='instruction-image'></a></center>

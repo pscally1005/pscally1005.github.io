@@ -74,6 +74,6 @@ Instructions:
 - Add in the meat and cook until no longer pink over medium heat, and transfer to crockpot
 
 - Cover and cook for 8 hours on low or 6 hours on high
-- <center><img src='/assets/Food/Ground Meat/Chili/chili-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Chili/chili-4.jpg' alt='' class='instruction-image'>
 Notes:
 ---

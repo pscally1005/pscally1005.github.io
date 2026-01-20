@@ -60,9 +60,7 @@ tags:
 Description: Most commercial BBQ sauces are loaded with <a href='/misc/hidden-sugar'>high frustose corn syrup</a>, making them insanely sweet and super bad for you. I prefer to keep mine fully unsweetened, but for a sweeter taste, you can add a little of any sweetener you desire.  I love to use my BBQ sauce in my <a href='/recipes/pulled-chicken'>BBQ Pulled Chicken and Coleslaw</a>, <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf and Lemon Roasted Broccoli</a>, and <a href='/recipes/kale'>Bean Kaled by Cheese</a>.  If you instead want some ketchup, you should see my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> or <a href='/recipes/pickle-ketchup'>Pickle Ketchup with Hot Honey</a>
 Instructions:
 - Whisk together all the ingredients in a medium saucepot. Cover, and cook over low heat for about 20 minutes, or until bubbling and thickened
-- <center><img src='/assets/Food/Savory Sauces/BBQ/bbq-sauce-pot.jpg' alt='' class='instruction-image'></center>
-
-- Transfer to a large mason jar, and let cool at room temperature (uncovered) for about 30 minutes before covering with a lid and refrigerating. Store in the fridge for up to 1 week, or freeze indefinitely
+-  large mason jar, and let cool at room temperature (uncovered) for about 30 minutes before covering with a lid and refrigerating. Store in the fridge for up to 1 week, or freeze indefinitely
 
 - For a garlic/onion free version, you'll need to omit the garlic powder, onion powder, and chili powder.  Instead, increase the paprika to 3 tbsp (30 g), and add 1 tbsp (10 g) cumin.  Keep everything else the same
 ---

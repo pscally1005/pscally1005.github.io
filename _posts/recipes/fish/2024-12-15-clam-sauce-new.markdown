@@ -60,6 +60,6 @@ Instructions:
 - Mix in the rest of the ingredients, and let simmer for about 30 minutes (covered)
 
 - Meanwhile, cook a box of pasta according to its instructions.  Mix with the clam sauce when finished simmering, and serve
-- <center><img src='/assets/Food/Fish/Clam Sauce New/not-mixed.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Fish/Clam Sauce New/not-mixed.jpg' alt='' class='instruction-image'>
 Notes:
 ---

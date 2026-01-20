@@ -54,10 +54,6 @@ tags:
 Description: Who else loves ketchup, but hates all the <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/hidden-sugar'>corn syrup</a>, and <a href='/misc/hidden-sugar'>high frustose corn syrup</a> that it contains?  This simple sauce uses the sweetness of <a href='/misc/fruit#dates'>dates</a> to deliver that traditional ketchup taste without being loaded with added sugars and other ultra-processed ingredients.<br>&emsp;Everyone knows that ketchup goes great with burgers and fries, so check out my <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/sweet-potato-fries'>Spiced Sweet Potato Fries</a>, or turn it into a bowl with my <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a>.  If you instead want some barbeque sauce, you should see my <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>
 Instructions:
 - Roughly chop your dates, and add all ingredients to a medium stainless steel saucepot. Simmer on medium low heat with occasional stirring for 10-15 minutes, then blend until smooth with an immersion blender
-- <center><img src='/assets/Food/Savory Sauces/Ketchup/ketchup-blended.jpg' alt='' class='instruction-image'></center>
-
-- Store in the fridge for up to a week.  This recipe makes about 400 g of ketchup.  Each serving is about 2 tbsp or 31 g
-- <center><img src='/assets/Food/Savory Sauces/Ketchup/ketchup-spoon.jpg' alt='' class='instruction-image'></center>
-
-- If you want to turn this into BBQ sauce instead, just add some paprika, cumin, and cinnamon along with the other ingredients
+- fridge for up to a week.  This recipe makes about 400 g of ketchup.  Each serving is about 2 tbsp or 31 g
+- o turn this into BBQ sauce instead, just add some paprika, cumin, and cinnamon along with the other ingredients
 ---

@@ -72,14 +72,15 @@ Instructions:
 - If using raw seeds, air fry for about 15 minutes at 300F, until lightly browned.  If they're already roasted, just air fry for about 5 minutes
 
 - In a food processor, blend together your sunflower seeds on high until a smooth butter forms, about 5-10 minutes. You could also use 1 cup (256 g) of sunflower butter instead.  Add 1/2 tsp (3 g) salt if your sunflower seeds are unsalted
-- <center><img src='/assets/Food/Meme/Green/seed-butter.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Meme/Green/seed-butter.jpg' alt='' class='instruction-image'>
 
 - Only once your super smooth seed butter has formed, add in the rest of the ingredients.  Blend until smooth; the batter should be very liquidy.  Transfer your batter to the pan
-- <center><img src='/assets/Food/Meme/Green/processor.jpg' alt='' class='half-page'><img src='/assets/Food/Meme/Green/raw.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Meme/Green/processor.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/Green/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 45 minutes. A toothpick should come out clean, and the bread should have an internal temperature around 205F
-- <center><img src='/assets/Food/Meme/Green/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Meme/Green/baked.jpg' alt='' class='instruction-image'>
 
 - Let cool for at least 1 hour before slicing.  Don't worry if the inside looks more tan than green; the color will turn more the next day.  Store leftovers in the fridge or freezer
-- <center><img src='/assets/Food/Meme/Green/slice.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Meme/Green/slice.jpg' alt='' class='instruction-image'>
 ---

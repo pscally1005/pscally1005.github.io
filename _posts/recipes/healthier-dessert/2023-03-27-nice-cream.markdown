@@ -62,7 +62,7 @@ Instructions:
 - Break up the bananas into pieces. They don't need to be that small, maybe an inch thick. Freeze overnight in an airtight bag
 
 - The next day, blend the bananas in a food processor until you have a smooth ice cream.  Enjoy immediately for soft serve ice cream, or freeze for about 30 minutes for a harder ice cream texture
-- <center><img src='/assets/Food/Healthier Dessert/Nice Cream/processor.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Nice Cream/processor.jpg' alt='' class='instruction-image'>
 Notes:
 - |
   Here are some flavor options you can try:

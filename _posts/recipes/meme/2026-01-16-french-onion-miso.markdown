@@ -68,5 +68,6 @@ Instructions:
 - Add the remaining ingredients to the pot (except the tofu).  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
 
 - Cut your tofu into bite sized cubes. Add in the tofu, and gently stir to combine. Serve
-- <center><img src='/assets/Food/Meme/French Onion Miso Soup/pot.jpg' alt='' class='half-page'><img src='/assets/Food/Meme/French Onion Miso Soup/cover.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Meme/French Onion Miso Soup/pot.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/French Onion Miso Soup/cover.jpg' alt='' class='instruction-image'>
 ---

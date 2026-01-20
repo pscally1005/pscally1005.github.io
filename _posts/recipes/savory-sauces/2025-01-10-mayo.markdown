@@ -67,5 +67,4 @@ Instructions:
 - This recipe makes about 1.75 cups (428 g), or 28 servings of 1 tbsp (15 g). For reference, a tablespoon of <a href='https://amzn.to/4kFH0n6'>standard mayo</a> contains the following:<ul><li>7x the <a href='/misc/calories'>calories</a> (90 cal)</li><li>10x the <a href='/misc/fats'>fat</a> (10 g)</li><li>No protein</li></ul>
 
 - Here's a super simple potato salad I made by mixing some homemade mayo with leftover roasted sweet potatoes.  It's creamy, sweet, rich, and delicious, all while significantly lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>
-- <center><img src='/assets/Food/Savory Sauces/Mayo/potato-salad.jpg' alt='' class='instruction-image'></center>
----
+- 

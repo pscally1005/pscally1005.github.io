@@ -63,21 +63,21 @@ Instructions:
 - Transfer the cauliflower to a medium glass bowl, and cover with a plate. Microwave on high for 5 minutes
 
 - Meanwhile, add the rest of the crust ingredients (egg, mozzarella, parmesan, flax, oregano, garlic powder, onion powder, and red pepper flakes) to a bowl and mix
-- <center><img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-separate.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-separate.jpg' alt='' class='instruction-image'>
 
 - Add the cauliflower to the bowl, and mix until fully combined.  Divide the dough in half for 2 pizzas
-- <center><img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-bowls.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-bowls.jpg' alt='' class='instruction-image'>
 
 - Transfer the dough to a piece of parchment paper, and flatten into 2 even round crusts
-- <center><img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-raw.jpg' alt='' class='instruction-image'>
 
 - Blind bake the crust on a preheated stone on the parchment paper until golden brown, about 10 minutes
-- <center><img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-baked.jpg' alt='' class='instruction-image'>
 
 - Remove the crusts from the oven, top with sauce, cheese, and any other toppings, and return to the oven. Bake for an additional 8 minutes to warm the sauce and melt the cheese. Optionally, broil the top for 1-2 minutes. Watch it carefully so it doesn't burn
 
 - Remove the pizzas from the oven, and transfer to a cooling rack. Allow to cool for about 5 minutes before slicing and enjoying
-- <center><img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-topped.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-topped.jpg' alt='' class='instruction-image'>
 
 - To reheat, air fry at 400F for 3-5 minutes
 Notes:

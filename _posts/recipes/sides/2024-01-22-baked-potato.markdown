@@ -53,5 +53,4 @@ Instructions:
 - Wash your sweet potato, and prick it a few times with a fork. Wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until you can easily peirce it with a fork.  You can also bake in a preheated 400F over for about 1 hour
 
 - Slice in half, and let steam out before eating. Optionally, top with a small pinch of salt
-- <center><img src='/assets/Food/Sides/Baked Potato/baked-potato-cover.jpg' alt='' class='instruction-image'></center>
----
+- 

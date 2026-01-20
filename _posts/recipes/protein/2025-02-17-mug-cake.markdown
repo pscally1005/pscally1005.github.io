@@ -57,9 +57,7 @@ Instructions:
 - Make sure to use a big enough mug.  There should be enough room for the mug cake to roughly double in height when cooked
 
 - Lightly grease a mug, and whisk together the dry ingredients. Add in the wet, and mix until fully combined. Use a spoon to scrape the sides to avoid any dry spots, and use a fork to whisk out the clumps
-- <center><img src='/assets/Food/Protein Powder/Mug Cake/raw.jpg' alt='' class='instruction-image'></center>
-
-- Microwave for about 1 minute (± 15 seconds), stirring every 20-30 seconds. Make sure that it doesn't cook over, and that it isn't overcooked and dry.  A spoon should still be slightly moist when mixed, but not raw or dry.  Let rest for a minute before eating
+-  about 1 minute (± 15 seconds), stirring every 20-30 seconds. Make sure that it doesn't cook over, and that it isn't overcooked and dry.  A spoon should still be slightly moist when mixed, but not raw or dry.  Let rest for a minute before eating
 
 - Optionally toppings:<ul><li>1 tsp (6 g) <a href='/recipes/natural-peanut-butter'>peanut butter</a></li><li>1 tsp (5 g) chopped nuts</li><li>1 tsp (5 g) mini chocolate chips</li><li>1 tsp (7 g) honey</li></ul>
 ---

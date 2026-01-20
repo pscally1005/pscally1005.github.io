@@ -54,7 +54,7 @@ tags:
 Description: Chicken Cacciatore, or Hunter's Chicken, is an Italian Chicken dish that often served as a tomato stew with <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies'>vegetables</a>. It's one of my favorites, and I've decided to add <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> into it, as opposed to serving with <a href='/misc/grains#pasta-white'>pasta</a>. This is a very hearty meal that's great for a winter dinner.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions:
 - Prepare your vegetables and potatoes (keep the skins on). Dice your onions, peppers, and mushrooms. Wash the sweet potatoes, and cut them into pieces, about the same size as the peppers. Don't peel the potatoes. Make sure not to cut the potatoes too large, or they'll take too long to cook. Here's the size to shoot for
-- <center><img src='/assets/Food/Chicken/Cacciatore/cacciatore-1.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Cacciatore/cacciatore-1.jpg' alt='' class='instruction-image'>
 
 - Heat a large Dutch oven over medium high heat. Add in your mushrooms with a splash of water (no oil here). Cook for about 5-10 minutes, until the water in the pan is gone, and the mushrooms have shrunk and are starting to look cooked
 
@@ -65,7 +65,7 @@ Instructions:
 - Stir in the raw chicken, potatoes, tomatoes, chicken stock (or water + powder), and thyme
 
 - Bring to a boil over high heat, reduce heat to medium, cover, and let simmer for 30 minutes.  The potatoes should be fork tender, and the chicken at least 165F
-- <center><img src='/assets/Food/Chicken/Cacciatore/cacciatore-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Cacciatore/cacciatore-5.jpg' alt='' class='instruction-image'>
 
 - Divide among 5 containers or bowls, and garnish with a dried herb of your choice (I used parsely)
 Notes:

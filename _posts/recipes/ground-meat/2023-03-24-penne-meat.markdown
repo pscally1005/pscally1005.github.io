@@ -70,7 +70,7 @@ Instructions:
 - After the meat is done, add in the spices (garlic and onion powder, oregano, basil, thyme, and pepper) and pour in tomatoes. Let simmer for 5 minutes
 
 - Combine beef, pasta, and cheese in the pot
-- <center><img src='/assets/Food/Ground Meat/Penne/penne-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Penne/penne-6.jpg' alt='' class='instruction-image'>
 
 - Transfer to greased pan. Sprinkle breadcrumbs on top
 

@@ -61,10 +61,10 @@ Instructions:
 - Split each date in half with your hands, making sure not to rip it in half. Just open it up, and place onto the plate
 
 - Microwave your peanut butter if necessary to get it liquidy, and fill each date with a little bit of peanut butter. Close the dates, and place the plate in the freezer for 15 minutes to firm
-- <center><img src='/assets/Food/Finger Food/Date Snickers/date-pb.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Date Snickers/date-pb.jpg' alt='' class='instruction-image'>
 
 - When firm, melt chocolate chips and coconut oil in the microwave until smooth. Lightly dip each date into the chocolate, and return to the plate
-- <center><img src='/assets/Food/Finger Food/Date Snickers/date-choc.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/Date Snickers/date-choc.jpg' alt='' class='instruction-image'>
 
 - Optionally, sprinkle the tops with flaky salt.  Freeze for another 15 minutes to harden, and store leftovers in the fridge or freezer
 Notes:

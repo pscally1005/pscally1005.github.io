@@ -56,5 +56,4 @@ tags:
 Description: This salad contains a base of <a href='/misc/veggies#lettuce'>lettuce</a> and <a href='/misc/veggies#tomato'>tomatoes</a>, and is topped with hard boiled eggs, kimchi, and a <a href='/misc/nuts#peanuts'>peanut</a> chili dressing. It's a delicious and quick lunch that's healthy and full of flavor.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
 Instructions:
 - In a small glass, mix together the dressing - powdered peanut butter, gochujang, soy sauce, vineger, and ground ginger. Thin out with water, and pour over your salad
-- <center><img src='/assets/Food/Savory Sauces/PB Dressing/glass.jpg' alt='' class='instruction-image'></center>
----
+- 

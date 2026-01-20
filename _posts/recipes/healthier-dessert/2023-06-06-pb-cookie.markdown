@@ -53,7 +53,7 @@ Instructions:
 - Add the cornstarch, baking powder, and half of the oats. Combine with a fork. Add in the other half of the oats and mix until fully combined.  Chill cookies to firm up a little bit if needed before shaping, about 30 minutes
 
 - Scoop into cookies and place on a baking sheet lined with parchment paper. Lightly flatten, and cross with a fork. Wet the fork to prevent sticking if necessary
-- <center><img src='/assets/Food/Healthier Dessert/PB Cookie/pb-cookie-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/PB Cookie/pb-cookie-3.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for 8 minutes. Let cool on the pan for 5 minutes, then transfer to a wire rack to cool. Optionally drizzle the cookies with melted chocolate
 Notes:

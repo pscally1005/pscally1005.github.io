@@ -57,5 +57,4 @@ Instructions:
 - Add all ingredients to a small blender or food processor, and blend until smooth. Thin out with water as needed.  Transfer to a mason jar, and store in the fridge for up to 1 week
 
 - Here's a simple tuna salad I made with a 5 oz can of tuna (in water, drained) mixed with 2 tbsp (30 g) of mayo.  I added this high <a href='/misc/protein'>protein</a> and lower <a href='/misc/fats'>fat</a> tuna fish on top of a salad for a tuna-salad-salad
-- <center><img src='/assets/Food/Meme/Hard Boil Mayo/tuna.jpg' alt='' class='instruction-image'></center>
----
+- 

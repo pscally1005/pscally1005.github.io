@@ -71,5 +71,5 @@ Instructions:
 - Mix all ingredients in a small container, and store the leftovers in the fridge.  In place of liquid stevia or monk fruit, you can use 1/2 tbsp (10 g) honey or maple syrup
 Notes:
 - Optionally, you can turn this spread into some chocolate <a href='/misc/protein'>protein</a> bites. Mix in unflavored casein (1 scoop, 30 g) and oat flour (2 tbsp, 15 g), and shape into balls. Makes about 10-12
-- <center><img src='/assets/Food/Sweet Spreads/Protein Choc/protein-choc-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sweet Spreads/Protein Choc/protein-choc-2.jpg' alt='' class='instruction-image'>
 ---

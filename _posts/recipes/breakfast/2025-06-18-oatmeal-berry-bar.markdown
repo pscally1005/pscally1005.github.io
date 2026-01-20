@@ -66,25 +66,25 @@ Instructions:
 - Preheat your oven to 350F, and line a 9" square baking pan with parchment paper
 
 - Microwave your frozen berries for about 2 minutes to defrost. Add berries and sweetener to a medium stainless steel pan over medium low heat, and roughly mash with a potato masher. Cook with occasional stirring until thickened and syrupy, about 10 minutes. Stir in chia seeds and lemon juice. Refrigerate to cool, at least 30 minutes so the chia seeds can thicken the jam
-- <center><img src='/assets/Food/Breakfast/Oat Berry Bar/pan.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Oat Berry Bar/pan.jpg' alt='' class='instruction-image'>
 
 - In a bowl, combine together the crust/crumble ingredients - mashed banana, cinnamon, salt, vanilla, powdered peanut butter, and oats. Mix until well combined. Add in any milk if too dry, or more oats if too wet. The mixture should be a little sticky
-- <center><img src='/assets/Food/Breakfast/Oat Berry Bar/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Oat Berry Bar/bowl.jpg' alt='' class='instruction-image'>
 
 - In your pan, spread 2/3 of the oat mixture (320 g) in an even layer to all edges.  Either use a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, or lightly wet your hands to prevent sticking
-- <center><img src='/assets/Food/Breakfast/Oat Berry Bar/bottom.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Oat Berry Bar/bottom.jpg' alt='' class='instruction-image'>
 
 - Spread your jam on top of the oatmeal base
-- <center><img src='/assets/Food/Breakfast/Oat Berry Bar/middle.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Oat Berry Bar/middle.jpg' alt='' class='instruction-image'>
 
 - Crumble the rest of the oatmeal mixture on top of the jam, and lightly press down
-- <center><img src='/assets/Food/Breakfast/Oat Berry Bar/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Oat Berry Bar/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 25 minutes, or until the oats are lightly browned and the jam is lightly bubbly
-- <center><img src='/assets/Food/Breakfast/Oat Berry Bar/bake.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Oat Berry Bar/bake.jpg' alt='' class='instruction-image'>
 
 - Refrigerate for at least 2 hours to allow the bars to set before slicing
-- <center><img src='/assets/Food/Breakfast/Oat Berry Bar/cut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Oat Berry Bar/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - Today I'm using frozen blueberries, but any kind of frozen (or fresh) berries will work, such as strawberries, raspberries, or blackberries
 

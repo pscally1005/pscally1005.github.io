@@ -56,7 +56,7 @@ Instructions:
 - Heat a small pan over medium heat.  Finely dice your apple, and add to the pan with a splash of water.  Cover and cook until soft and lightly browned.  Add your spices, toast until fragrant (about 30 seconds), and remove from the heat.
 
 - Mix all ingredients together in a bowl, and top with the cooked apple.  Cover, and refrigerate overnight
-- <center><img src='/assets/Food/Breakfast/Yogurt/yogurt-apple-separate.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Yogurt/yogurt-apple-separate.jpg' alt='' class='instruction-image'>
 Notes:
 - |
   For the other flavors and their nutrition facts, check out the links below:<br>

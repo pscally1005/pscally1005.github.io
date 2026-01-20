@@ -58,7 +58,7 @@ Instructions:
 - Scoop the cookies into 24 cookie dough balls, about 17 g each. Roll them in your hands, and place onto a parchment lined cookie sheet. Press down to your desired thickness, shape into a circle, and cross with a fork. These will puff up and expand just slightly when cooking
 
 - Bake for about 10 min at 350F, or until lightly golden brown. Allow them to cool totally on the pan before removing
-- <center><img src='/assets/Food/Healthier Dessert/Low Carb PB/out.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Low Carb PB/out.jpg' alt='' class='instruction-image'>
 Notes:
 - Note that my peanut butter is salted. If yours is unsalted, add 1/2 tsp (3 g) of salt to the dough
 ---

@@ -83,7 +83,7 @@ tags:
 
 &emsp;It doesn't take a nutritionist to realize that Lucky Charms or Froot Loops are nothing more than a treat, but where the real "danger" lies is the cereals that are instead marketed as healthy.  I'm talking about things like Honey Nut Cheerios, Raisin Bran, and any of the other "boring" adult cereals that aren't "sugar bombs".  Except they are.  For a 1 cup (36 g) serving of <a href='https://www.cheerios.com/products/honey-nut-cheerios'>Honey Nut Cheerios</a>, you'll run yourself 12 g of <a href='/misc/hidden-sugar'>added sugar</a> and 140 <a href='/misc/calories'>calories</a>, the exact same as in <a href='https://www.luckycharms.com/products/original-lucky-charms'>Lucky Charms</a>.  Oh and that "can help lower <a href='/misc/cholesterol'>cholesterol</a>" claim, only <a href='https://www.cheerios.com/products/original-cheerios'>Original Cheerios</a> actually have the American Heart Association certification on it.  And let's be honest, no one eats just 1 cup of cereal.
 
-<center><img src='/assets/Misc/Nutrition/Trap/cereal.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/cereal.jpg' alt='' class='larger-image'>
 &emsp;If you're going to eat breakfast cereal, go with a <a href='/misc/hidden-sugar'>sugar</a> free option like plain cheerios or unsweetened puffed rice, and instead add flavors using fruit.  Original Cheerios only have 1 g of <a href='/misc/hidden-sugar'>added sugar</a> per serving, and the serving size is larger (1.5 cups as opposed to 1 cup).  Even then cereal still isn't the healthiest breakfast; it's still a bowl of empty refined <a href='/misc/carbs'>carbs</a> with no healthy <a href='/misc/fats'>fats</a> or proteins, but at least this way it can actually be "part of a complete breakfast".  I've also had good success making my own cereal called <a href='/recipes/cinnamon-chickpea'>Cinnamon Toast Chickpeas</a>, which are crispy <a href='/misc/beans#chickpeas'>chickpeas</a> tossed with cinnamon, served over a <a href='/misc/protein'>protein</a> shake, and topped with berries and <a href='/misc/nuts'>nuts</a>.  Now that's a complete breakfast!
 
 &emsp;Don't know why I just came out swinging with a vendetta against General Mills, the rest will be toned down.  Probably because I've personally been duped by this in the past, and it's a very common trap food.  Look for cereals with no added sugars, whole <a href='/misc/grains'>grains</a>, and high in <a href='/misc/fiber'>fiber</a>.  Anything else is junk food with a good marketing team.
@@ -92,7 +92,7 @@ tags:
 <br><i><font size='+2'>Oatmeal</font></i><br>
 &emsp;Okay so you've gotten past cereal, but surley oatmeal is safe right?  Think again.  Oats can be a great addition to your diet: they're a whole grain, high in <a href='/misc/fiber'>fiber</a> low <a href='/misc/fats'>fat</a>, versatile, delicious, and <a href='/misc/celiac'>gluten free</a>.  They also contain a fair bit of <a href='/misc/nutrient-alphabet#M'>manganese</a> and <a href='/misc/iron'>iron</a>, and are rich in antioxidants.  It even boasts about being "heart healthy" (so does cereal) on the box.  So what's the problem?
 
-<center><img src='/assets/Misc/Nutrition/Trap/oatmeal.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/oatmeal.jpg' alt='' class='larger-image'>
 &emsp;The main issue isn't with oatmeal, but how it's prepared.  I'm mainly talking about <a href='https://amzn.to/4dWhEiZ'>flavored packets</a> of oatmeal here, like ones in the image above.  Unfortunately, these are really no different nutritionally from a bowl of sugary cereal; it's just warm now.  These packets are loaded with added sugars.  When it comes to oatmeal for breakfast, make it yourself from plain oats, and sweeten it with fruit and a small amount of maple syrup or honey if desired.  Also add some healthy <a href='/misc/fats'>fats</a> like chopped <a href='/misc/nuts'>nuts</a> or nut butter, and some <a href='/misc/protein'>protein</a> with yogurt or protein powder (or both!)
 
 &emsp;Below I'll list a bunch of oatmeal recipes which are all low in <a href='/misc/hidden-sugar'>added sugar</a>, packed with <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, have a good dose of healthy <a href='/misc/fats'>fats</a>, and can be eaten warm or cold:<br>
@@ -113,29 +113,29 @@ tags:
 
 &emsp;Don't think <a href='https://amzn.to/3Fw9TTQ'>Nature Valley</a>, <a href='https://amzn.to/3FdsqEB'>Nutrigrain</a>, <a href='https://amzn.to/3ZEg66W'>Kind Bars,</a> or <a href='https://amzn.to/43GaeM1'>Clif Bars</a> are any better.  I will say I used to be a huge fan of all 4 of these, and Clif Bars in particular serve a purpose.  On a long hike or after a hard workout, the simple sugars in Clif Bars are actually exactly what your body needs to replenish energy, and the <a href='/misc/protein'>protein</a> aids in recovery.  Just don't eat them as a day to day snack.  If you want your own homemade granola or granola bars, you should check out my <a href='/recipes/granola'>Low Sugar Granola</a> and my <a href='/recipes/granola-bars'>Peanut Butter Banana Granola Bars</a>, which only use a minimal amount of sweetener, and no refined <a href='/misc/fats'>fats</a> or oils.  Just <a href='/misc/nuts'>nuts</a> and oats!
 
-<center><img src='/assets/Misc/Nutrition/Trap/bars-1.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/bars-1.jpg' alt='' class='larger-image'>
 &emsp;If you're going to get a bar, I'd recommend either <a href='https://amzn.to/4jnf0n6'>Larabar</a> or <a href='https://amzn.to/3FduH2z'>RxBars</a> (or my own <a href='/recipes/rx-bars'>Copycat Chocolate RX Bars</a>); both are made with <a href='/misc/fruit#dates'>dates</a> and <a href='/misc/nuts'>nuts</a>, and contain no <a href='/misc/hidden-sugar'>added sugar</a> or artificial sweeteners.  RxBars even have some <a href='/misc/protein'>protein</a> powder as well.
 
-<center><img src='/assets/Misc/Nutrition/Trap/bars-2.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/bars-2.jpg' alt='' class='larger-image'>
 <div id='pretzels' class='table-of-contents'></div>
 <br><i><font size='+2'>Pretzels</font></i><br>
 &emsp;Let's leave the world of dairy and move on to snack foods.  First on the chopping block: pretzels.  I'll just come out and say it: I was the weird kid who liked getting pretzel on Halloween (everything is probably starting to add up now).  I've always like fresh baked desserts, but I've never been a fan of packages cookies or candy; they're just too sweet with no flavor.
 
-<center><img src='/assets/Misc/Nutrition/Trap/pretzels.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/pretzels.jpg' alt='' class='larger-image'>
 &emsp;Backstory aside, let's get back to pretzels.  Pretzels are though of as a healthier snack for some reason; I'm guessing because they're savory instead of sweet.  So <a href='/misc/hidden-sugar'>added sugar</a> isn't an issue for once; these <a href='https://amzn.to/3ZteywT'>pretzels</a> contain virtually none.  The problem is that they're not much more than an ultraprocessed <a href='/misc/grains#white-wheat'>white flour</a> snack with a ton of salt. The enriched flour is stripped of all it's <a href='/misc/fiber'>fiber</a> and micronutrients, leaving just starch and empty <a href='/misc/calories'>calories</a>.  At least they're low in <a href='/misc/fats'>fat</a> though, unlike <a rel='' targer='' href='#crackers'>crackers</a> and <a rel='' targer='' href='#chips'>chips</a>.  I'll be honest, I still love pretzels to this day, but they're still a treat I enjoy in moderation.
 
 <div id='crackers' class='table-of-contents'></div>
 <br><i><font size='+2'>Crackers</font></i><br>
 &emsp;Crackers were easily my go to snack growing up.  <a href='https://amzn.to/4jhZBEF'>Ritz</a>, <a href='https://amzn.to/44Zfug2'>Graham Crackers</a>, you name it.  I even have a recipe for <a href='/recipes/gf-crackers'>Gluten Free Crackers</a>, that are basically mini healthy graham crackers.  I used to have an obsession with <a href='https://amzn.to/43wASXl'>Wheat Thins</a>, where in college my friend shipped me 18 boxes for my birthday (thanks Sean, I would eat them every day when I woke up just before running).
 
-<center><img src='/assets/Misc/Nutrition/Trap/crackers.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/crackers.jpg' alt='' class='larger-image'>
 &emsp;Crackers have the same issue as pretzels though.  While being low in <a href='/misc/hidden-sugar'>sugar</a>, they can just be empty starch <a href='/misc/calories'>calories</a> from refined <a href='/misc/grains#white-wheat'>white flour</a>.  Some crackers are also noticeably in both <a href='/misc/fats'>fat</a> (think "butter" crackers like Ritz), or <a href='/misc/hidden-sugar'>sugar</a> (sweet graham crackers).  A serving of Ritz is a measly 5 crackers, with 4.5 g of <a href='/misc/fats'>fat</a> and 3 g of <a href='/misc/sugar'>sugar</a>.  Graham crackers aren't any better, where a serving (2 full cracker sheets) has 3.5 g of <a href='/misc/fats'>fat</a> and 8 g of <a href='/misc/hidden-sugar'>added sugar</a>.  My precious wheat things are actually high in both, where just a 16 cracker serving has 5 g of <a href='/misc/fats'>fat</a> (from canola oil) and 5 g of <a href='/misc/hidden-sugar'>sugar</a>.  These don't sound terrible, but you and I will certainly be eating more than just 1 serving if we're not paying attention.
 
 <div id='chips' class='table-of-contents'></div>
 <br><i><font size='+2'>Chips</font></i><br>
 &emsp;I think everyone can agree that <a href='https://amzn.to/3SlGChE'>Lay's Potato Chips</a> or <a href='https://amzn.to/43zYuul'>Doritos</a> aren't healthy.  In fact, they're probably the default junk food snack that people think of, up there with cookies and candy.  There are lots of different types of chips though, with <a href='https://amzn.to/4dC0gzH'>tortilla chips</a> being the other main variety.  Most would probably also agree that tortilla chips are junk food, so I'm not gonna spend any time here.  Any type of chip is going to be relatively low in <a href='/misc/hidden-sugar'>sugar</a>, but very high in <a href='/misc/fats'>fat</a> and salt.
 
-<center><img src='/assets/Misc/Nutrition/Trap/chips.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/chips.jpg' alt='' class='larger-image'>
 &emsp;There are variations of chips that are marketed as being healthy though.  These include veggie straws, <a href='/misc/veggies#plantain'>plantain</a> chips, and banana chips.  Starting with <a href='https://amzn.to/3Z4zPww'>Veggie Straws</a>, these are just potato shapes in a different shape, with a tiny bit of dehydrated vegetable.  They're basically the potato chip version of <a href='https://amzn.to/43zJHQ7'>Tri-Color Rotini Pasta</a>; just a fun different color, no more, no less.
 
 <center><a href='https://transformpersonaltraining.com/its-not-your-fault/'><img src='/assets/Misc/Nutrition/Trap/chips-vs-veggies.jpg' alt='' class='larger-image'></a></center>
@@ -145,7 +145,7 @@ tags:
 <br><i><font size='+2'>Popcorn</font></i><br>
 &emsp;This one might actually be the opposite of the others on this list.  Most people would associate <a href='/misc/grains#popcorn'>popcorn</a> with being junk food, eaten with a ton of butter alongside a candy at the movies.  But <a href='/misc/grains#popcorn'>popcorn</a> can actually be a relatively healthy snack with a lot of volume if prepared correctly.  Just 3 tbsp (40 g) of unpopped kernels turns into a whopping 7.5 cups when cooked.  I've never been a personal fan of <a href='/misc/grains#popcorn'>popcorn</a> (it always gets stuck in my teeth), but I've heard that <a href='https://amzn.to/3FuKGcz'>plain popcorn</a> with some nutritional yeast or other spices can make for a very satisfying snack.  Yes it's essentially all <a href='/misc/carbs'>carbs</a> with a mediocre amount of <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>, but a full serving actually looks like a lot of food since it's mostly air.  Just make sure to get plain <a href='/misc/grains#popcorn'>popcorn</a> kernels like the one linked above and shown below.
 
-<center><img src='/assets/Misc/Nutrition/Trap/popcorn.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/popcorn.jpg' alt='' class='larger-image'>
 &emsp;Just stay away from the <a href='https://amzn.to/3T1O5T6'>microwaveable bags of popcorn</a>.  These have a lot of salt, <a href='/misc/fats'>fat</a> (palm or vegetable oils), and preservatives.  Additionally, the packaging for microwave <a href='/misc/grains#popcorn'>popcorn</a> contains PFAS, or forever chemicals, which are linked to many negative health outcomes including cancer and lung problems.
 
 <div id='rice-cakes' class='table-of-contents'></div>
@@ -175,7 +175,7 @@ tags:
 &emsp;- <a href='/recipes/roasted-beet-hummus'>Creamy Roasted Beet Hummus</a><br>
 &emsp;- <a href='/recipes/hummus'>Lemony Taco Inspired Hummus</a><br>
 
-<center><img src='/assets/Misc/Nutrition/Trap/rice-cake.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/rice-cake.jpg' alt='' class='larger-image'>
 &emsp;As with most things, make sure to get the plain variety.  The lightly salted ones contain nothing but <a href='/misc/grains#brown-rice'>brown rice</a> and salt, 2 healthy ingredients.  The problem comes with the flavored rice cakes, like <a href='https://amzn.to/4khhwwM'>Caramel</a>, <a href='https://amzn.to/3HeQTKc'>Chocolate</a>, or <a href='https://amzn.to/4kaTpjb'>White Cheddar</a>.  <a href='/misc/calories'>Calories</a> can double, <a href='/misc/hidden-sugar'>sugar</a> is added, and the ingredients list expands.
 
 <div id='white-rice' class='table-of-contents'></div>
@@ -196,7 +196,7 @@ tags:
 <br><i><font size='+2'>Bread</font></i><br>
 &emsp;Since <a rel='' target='' href='/misc/trap-foods-grains#flour'>white flour</a> is generally a poor nutrition choice, it would then follow that <a href='https://amzn.to/4kgjOvX'>white bread</a> would also not be your healthiest option.  Though <a href='https://amzn.to/4kiiRU0'>whole wheat bread</a> isn't that much better of an option if we're still talking about commercially processed bread products.  Most store bought loaves of bread are high in our old friend, <a href='/misc/hidden-sugar'>added sugar</a> (a lot of <a href='/misc/grains#whole-wheat'>whole wheat</a> breads actually contain more <a href='/misc/hidden-sugar'>sugar</a> than their <a href='/misc/grains#white-wheat'>white bread</a> counterparts), as well as vegetable oils and preservatives.  Look at that giant list of ingredients below!  There's a reason why grocery store bread can last for weeks without going bad, whereas real bread from a bakery goes stale in just a day or two (tip: store extra fresh baked bread in the freezer, it'll last forever in there).  Traditionally, bread is just flour, water, yeast, and salt; one of man's oldest and simplest creations.
 
-<center><img src='/assets/Misc/Nutrition/Trap/bread.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/bread.jpg' alt='' class='larger-image'>
 &emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of <a href='/misc/grains#whole-wheat'>whole wheat</a> bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high <a href='/misc/hidden-sugar'>sugar</a> content.  <a href='/misc/grains#white-wheat'>White bread</a> is essentially entirely made up of glucose, leading to the largest blood sugar spike of any food you could consume.  Even <a href='/misc/grains#whole-wheat'>whole wheat</a> bread is a high GI food, but it is significantly lower than <a href='/misc/grains#white-wheat'>white bread</a>.  Below is a chart of different foods and their respective GI values.
 
 <center><a href='https://x.com/iam_preethi/status/1345457708892266496'><img src='/assets/Misc/Nutrition/Trap/gi.jpg' alt='' class='larger-image'></a></center>
@@ -222,14 +222,14 @@ tags:
 <br><i><font size='+2'>Muffins</font></i><br>
 &emsp;Muffins are unfrosted cupcakes that somehow get a pass as a breakfast food.  These <a href='https://www.walmart.com/ip/Marketside-Blueberry-Muffins-14-oz-4-Count/19758064?athbdg=L1200&from=/search'>Blueberry Muffins</a> have 350 <a href='/misc/calories'>calories</a> per muffin with 21 g of <a href='/misc/hidden-sugar'>added sugar</a> and 17 g of <a href='/misc/fats'>fat</a>.  They're filled with a ton of ingredients, and contain almost as much <a href='/misc/hidden-sugar'>sugar</a> as flour.  I used to make muffins decently often (<a href='https://www.spendwithpennies.com/banana-chocolate-chip-muffins/#wprm-recipe-container-174068'>banana chocolate chip</a> specifically).  Just take a look: 1/2 cup of vegetable oil and 3/4 cup of <a href='/misc/hidden-sugar'>sugar</a>, as well as 1.5 cups of <a href='/misc/grains#white-wheat'>white flour</a>, for just a dozen muffins.  If that sounds like a lot, that's because it is.  Most "breakfast" options are just a meal of dessert.  Which is fine in moderation if you know what you're getting yourself into.  A muffin can be a fine dessert on occasion, but is a terrible start to your day.  Sorry, but a <a href='https://www.walmart.com/ip/Marketside-Triple-Chocolate-Muffins-14-oz-4-Count/987289191?from=/search'>Triple Chocolate Muffin</a> is just a brownie.
 
-<center><img src='/assets/Misc/Nutrition/Trap/muffin.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/muffin.jpg' alt='' class='larger-image'>
 &emsp;As for healthier homemade versions, you should check out my <a href='/recipes/sweet-potato-banana-muffins'>Sweet Potato Banana Muffins</a>, <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a>, or my <a href='/recipes/pbj-muffin'>Peanut Butter & Jelly Muffins</a>.
 
 <div id='banana-bread' class='table-of-contents'></div>
 <br><i><font size='+2'>Banana Bread</font></i><br>
 &emsp;So take <a rel='' target='' href='#muffins'>muffins</a>, mash some <a href='/misc/fruit#banana'>bananas</a> into it, and bake it in a loaf pan.  What you end up with is <a href='https://www.walmart.com/ip/Marketside-Banana-Nut-Sliced-Cake-14-1-oz-8-Count/1407294647?athbdg=L1600&from=/search'>banana bread</a>.  A delicious cake, no doubt, but not a breakfast, bread, or a healthy snack.  Just because it has <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/nuts'>nuts</a> doesn't make it healthy; it's still a dessert.  At least this one below is honest and refers to itself as a cake.
 
-<center><img src='/assets/Misc/Nutrition/Trap/banana-bread.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/banana-bread.jpg' alt='' class='larger-image'>
 &emsp;As for healthier homemade versions, you should check out my <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a> or my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>.
 
 <div id='pancakes' class='table-of-contents'></div>
@@ -243,7 +243,7 @@ tags:
 <br><i><font size='+2'>Cornbread</font></i><br>
 &emsp;...cornbread.  <a href='https://amzn.to/43qQZ8M'>Cornbread</a> is another dessert that somehow weaseled it's way onto your dinner plate.  Just like muffins, banana bread, and baked beans, cornbread is secretly a dessert with good marketing.  The one linked above (and shown below) has <a href='/misc/hidden-sugar'>sugar</a> as it's first ingredient, closely followed by bleached <a href='/misc/grains#white-wheat'>white flour</a> and seed oil (wait, where's the cornmeal?).  There's more <a href='/misc/hidden-sugar'>added sugar</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/calories'>calories</a> in 1 slice of this cornbread as one of these <a href='https://amzn.to/4dINGPm'>large chocolate chip cookies</a>!
 
-<center><img src='/assets/Misc/Nutrition/Trap/cornbread.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/cornbread.jpg' alt='' class='larger-image'>
 &emsp;Cornbread or corn muffins can be a fine dessert in moderation, but know what you're getting when you reach for a slice.  If you're anything like me (if you're this deep down then congrats, you probably are lol), you should enjoy my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>, which is much higher in <a href='/misc/protein'>protein</a>, lower in <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>, and free of any added sugars or artificial sweeteners.
 
 <br><u><font size='+2'>Sources</font></u><br>

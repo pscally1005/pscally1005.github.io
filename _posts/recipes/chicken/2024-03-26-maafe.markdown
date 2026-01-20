@@ -62,7 +62,7 @@ Instructions:
 - Cut your onions and bell peppers into a medium dice. Add to a Dutch oven or large pot with a spray of oil and salt. Cover, and cook over medium heat until the peppers soften and the onions turn translucent, about 10 minutes
 
 - Meanwhile, cut the excess <a href='/misc/fats'>fat</a> off your chicken, and dice into bite sized cubes. Add to a large bowl. Season with lemon juice, paprika, garlic, onion, salt, and pepper. Mix, and let marinate on the counter as you prepare everything else. You could also marinate the chicken for a few hours in the fridge prior to cooking
-- <center><img src='/assets/Food/Chicken/Maafe/chicken.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Maafe/chicken.jpg' alt='' class='instruction-image'>
 
 - Add the minced garlic into the pan, and cook for only 30 seconds, until fragrant
 
@@ -73,7 +73,7 @@ Instructions:
 - Pour in the broth, and stir in the peanut butter. Add your raw chicken into the pot
 
 - Cover, and let simmer over medium low heat for 30 minutes, until the chicken just reaches 165F. Be careful not to over cook it. Season with salt to taste, and optionally garnish with chopped peanuts
-- <center><img src='/assets/Food/Chicken/Maafe/pot-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Maafe/pot-2.jpg' alt='' class='instruction-image'>
 Notes:
 - I've never tried this, but my guess is that this would be great for a crockpot. Do everything above the same, but instead of simmer for 30 minutes on the stove at the end, just cook on low in a slow cooker for about 6 hours. I would definitely use chicken thighs instead of breasts though
 ---

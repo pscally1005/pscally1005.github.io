@@ -64,14 +64,14 @@ Instructions:
 - Wash all your vegetables. Halve the butternut squash, scoop out the seeds, and cut into large chunks. Don't peel the butternut squash! The skin is entirely edible, and contains <a href='/misc/fiber'>fiber</a> and <a href='/misc/phytochemicals'>phytonutrients</a>. It'll all get blended anyway. You can roast the tomatoes, onions, and garlic cloves whole
 
 - Add your veggies to the dish, and season with salt, black pepper, and oil
-- <center><img src='/assets/Food/Sides/Puree Soup/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Puree Soup/raw.jpg' alt='' class='instruction-image'>
 
 - Roast at 425F for about 1 hour, or until fork tender, browned, and light charred. Let cool totally
-- <center><img src='/assets/Food/Sides/Puree Soup/roasted.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Puree Soup/roasted.jpg' alt='' class='instruction-image'>
 
 - Add your veggies to a blender or food processor, and blend until smooth, thinning out with water or broth. Season with turmeric, ginger, and cinnamon to taste, and blend in the yogurt.  You can also use a large bowl or pot with an immersion blender
-- <center><img src='/assets/Food/Sides/Puree Soup/blended.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Puree Soup/blended.jpg' alt='' class='instruction-image'>
 
 - Divide into 4 servings, and garnish with toasted nuts, herbs, or olive oil. Serve
-- <center><img src='/assets/Food/Sides/Puree Soup/containers.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Puree Soup/containers.jpg' alt='' class='instruction-image'>
 ---

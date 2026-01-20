@@ -63,13 +63,13 @@ Instructions:
 - Preheat your oven to 350F, line a 9x13" baking pan with parchment paper, and lightly spray it with oil. Drain and rinse your beans
 
 - Place the rest of the ingredients and blend until a smooth batter forms
-- <center><img src='/assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-3.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan. Using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
-- <center><img src='/assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-5.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for 20-25 minutes, or until a toothpick comes out fairly clean. A few crumbs left is generally ok. The blondies will firm up much more as they cool, so they should look a bit underdone
-- <center><img src='/assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-6.jpg' alt='' class='instruction-image'>
 
 - Let cool totally in the fridge for a few hours (ideally overnight) before slicing and enjoying
 Notes:

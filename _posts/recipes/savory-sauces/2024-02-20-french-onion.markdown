@@ -60,11 +60,6 @@ Instructions:
 - If you prefer the stove instead, heat a large pan over low heat with olive oil.  Add in the onions, garlic, and salt with a splash of water.  Cover and cook with frequent stirring until the onions are soft and jammy, about 1 hour
 
 - For context, the onions weigh about <b>880 g</b> raw, and I ended up with about <b>120 g</b> of cooked onions.  You're aiming to cook nearly all the water out of the onions and end up with essentially onion jelly
-- <center><img src='/assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg' alt='' class='instruction-image'></center>
-
-- Once the onions are totally cooled, mix everything together in a medium bowl.  Top with more dried parsley to garnish
-- <center><img src='/assets/Food/Savory Sauces/French Onion/bowl.jpg' alt='' class='instruction-image'></center>
-
-- Compared to <a href='https://amzn.to/3FvHYDF'>storebought french onion dip</a>, mine has a sixth of the <a href='/misc/fats'>fat</a> and triple the <a href='/misc/protein'>protein</a> for the same 2 tbsp serving size, while also containing none of the artificial additives
-- <center><img src='/assets/Food/Savory Sauces/French Onion/store.jpg' alt='' class='instruction-image'></center>
----
+- ns are totally cooled, mix everything together in a medium bowl.  Top with more dried parsley to garnish
+- a href='https://amzn.to/3FvHYDF'>storebought french onion dip</a>, mine has a sixth of the <a href='/misc/fats'>fat</a> and triple the <a href='/misc/protein'>protein</a> for the same 2 tbsp serving size, while also containing none of the artificial additives
+- 

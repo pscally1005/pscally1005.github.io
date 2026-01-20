@@ -72,17 +72,17 @@ Instructions:
 - You can also replace the <a href='/recipes/chocolate-bar'>100% chocolate bar</a> with 1/4 cup (56 g) melted coconut oil and 11 tbsp (56 g) cocoa powder
 
 - Add the <a href='/recipes/natural-peanut-butter'>peanut butter</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> to the melted chocolate, and stir with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
-- <center><img src='/assets/Food/Finger Food/SF Fudge/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/SF Fudge/bowl.jpg' alt='' class='instruction-image'>
 
 - I've gone with <a href='/misc/nuts#peanuts'>peanut butter</a> here, but <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or any other <a href='/recipes/natural-peanut-butter'>nut/seed butter</a> will totally work
 
 - Spread the fudge batter into your container. Optionally top with flaky salt
-- <center><img src='/assets/Food/Finger Food/SF Fudge/pan.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/SF Fudge/pan.jpg' alt='' class='instruction-image'>
 
 - Cover with a lid, and freeze for 2 hours to harden
-- <center><img src='/assets/Food/Finger Food/SF Fudge/set.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/SF Fudge/set.jpg' alt='' class='instruction-image'>
 
 - Slices into 21 pieces, and store the fudge in the fridge
-- <center><img src='/assets/Food/Finger Food/SF Fudge/cut.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Finger Food/SF Fudge/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---

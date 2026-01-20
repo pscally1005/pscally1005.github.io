@@ -63,21 +63,21 @@ Instructions:
 - Cook your pasta according to instructions. Strain, rinse with cold water, and set aside
 
 - Meanwhile, preheat a large pan over medium heat with oil. Cut your onions into a small dice, and add to the pan with salt. Cover, and cook until translucent, about 5-8 minutes
-- <center><img src='/assets/Food/Ground Meat/M&C/m&c-pasta.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/M&C/m&c-pasta.jpg' alt='' class='instruction-image'>
 
 - Add the meat to the pan, and cook until no longer pink. Season with chili powder and black pepper. Remove from the heat
-- <center><img src='/assets/Food/Ground Meat/M&C/m&c-meat.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/M&C/m&c-meat.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, prepare your cheese sauce by blending together all the ingredients - cottage cheese, shredded cheese, milk, nutritional yeast, cornstarch, garlic powder, onion powder, and paprika
-- <center><img src='/assets/Food/Ground Meat/M&C/m&c-sauce.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/M&C/m&c-sauce.jpg' alt='' class='instruction-image'>
 
 - Combine the cheese sauce and pasta with the meat in a 9x13" casserole pan.  Top with shredded cheese, and optionally top with BBQ sauce or breadcrumbs as well
-- <center><img src='/assets/Food/Ground Meat/M&C/m&c-topped.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/M&C/m&c-topped.jpg' alt='' class='instruction-image'>
 
 - Cover, and bake at 400F until bubbly. This will take about 10 minutes if baking right away, or 30 minutes if preparing ahead of time, refrigerating, and baking later
-- <center><img src='/assets/Food/Ground Meat/M&C/m&c-baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/M&C/m&c-baked.jpg' alt='' class='instruction-image'>
 
 - To meal prep this - split the dish into 6 servings, add some <a href='/recipes/roasted-vegetables'>roasted veggies</a> on the side, cover, and refrigerate
-- <center><img src='/assets/Food/Ground Meat/M&C/m&c-container.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/M&C/m&c-container.jpg' alt='' class='instruction-image'>
 Notes:
 ---

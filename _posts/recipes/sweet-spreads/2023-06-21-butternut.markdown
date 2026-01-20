@@ -59,10 +59,6 @@ Instructions:
 - Place the cut side down on the cookie sheet. Prick the skin of the squash with a fork
 
 - Roast for about 50-70 minutes, or until tender. A knife should be able to easily pierce through it without any force
-- <center><img src='/assets/Food/Sweet Spreads/Butternut/butternut-4.jpg' alt='' class='instruction-image'></center>
-
-- Flip over and let cool until you can safely handle it, about 5 minutes
-- <center><img src='/assets/Food/Sweet Spreads/Butternut/butternut-5.jpg' alt='' class='instruction-image'></center>
-
-- Scrape off the insides from the skin and place into a large bowl. Mash with a potato masher, or blend in a food processor.
+-  let cool until you can safely handle it, about 5 minutes
+- e insides from the skin and place into a large bowl. Mash with a potato masher, or blend in a food processor.
 ---

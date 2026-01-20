@@ -71,7 +71,7 @@ Instructions:
 - Finely dice the pepper and tomatoes, and add to the bowl with the beans. Drain your onion, and add that as well. Crumble the feta on top
 
 - In a large glass, mix together the dressing ingredients - olive oil, lemon, balsamic vinegar apple cider vinegar, mustard, minced garlic, basil, thyme, black pepper, and salt
-- <center><img src='/assets/Food/Sides/Bean Salad/bean-salad-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Sides/Bean Salad/bean-salad-4.jpg' alt='' class='instruction-image'>
 
 - Pour the dressing over the salad, mix, and serve
 ---

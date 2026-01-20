@@ -66,15 +66,9 @@ tags:
 Description: These caramel candy bars are a healthy take on a Twix or Snicker's bar. They feature a <a href='/misc/protein'>protein</a> based shortbread, and <a href='/misc/fruit#banana'>banana</a> dessert hummus filling (based off my <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a>), and are topped with melted chocolate. To me, these taste way better than an actual candy bar, and they're not just empty <a href='/misc/calories'>calories</a>.
 Instructions:
 - In a medium bowl, mix together the base layer ingredients (applesauce, almond milk, honey, vanilla, almond extract, salt, and casein). Line a 9" square pan with parchment, and press the dough into it. Freeze to harden
-- <center><img src='/assets/Food/Protein Powder/Caramel/caramel-1.jpg' alt='' class='instruction-image'></center>
-
-- Combine the filling ingredients (chickpeas, almond butter, banana, whey, almond extract, salt, and liquid stevia/monk fruit) together in a food processor. Make sure to drain and rinse the can of chickpeas. If you're using a standard 15.5 oz can, you should have about 125g of chickpeas in the food processor, after the liquid is drained (since you're only using half the can)
+- illing ingredients (chickpeas, almond butter, banana, whey, almond extract, salt, and liquid stevia/monk fruit) together in a food processor. Make sure to drain and rinse the can of chickpeas. If you're using a standard 15.5 oz can, you should have about 125g of chickpeas in the food processor, after the liquid is drained (since you're only using half the can)
 
 - Blend until smooth, and spread on top of the base layer. Again, freeze to harden
-- <center><img src='/assets/Food/Protein Powder/Caramel/caramel-3.jpg' alt='' class='instruction-image'></center>
-
-- In a small bowl, melt the coconut oil. Stir in the rest of the chocolate ingredients (cocoa, honey, liquid stevia/monk fruit, almond extract, and salt). Spread on top of the filling. Chill to harden
-- <center><img src='/assets/Food/Protein Powder/Caramel/caramel-4.jpg' alt='' class='instruction-image'></center>
-
-- Slice and serve. Flash freeze on a cookie sheet, then store in an airtight bag in the freezer
+- wl, melt the coconut oil. Stir in the rest of the chocolate ingredients (cocoa, honey, liquid stevia/monk fruit, almond extract, and salt). Spread on top of the filling. Chill to harden
+- ve. Flash freeze on a cookie sheet, then store in an airtight bag in the freezer
 ---

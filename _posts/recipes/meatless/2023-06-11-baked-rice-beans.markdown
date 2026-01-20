@@ -65,5 +65,4 @@ Instructions:
 - Transfer the pot to the oven, and bake at 400F for about 90 minutes, or until the vegetables are tender, the rice is soft, and the water is absorbed
 
 - Divide into 10 servings. Add some acid to it after reheating, like lemon, lime, balsamic, or hot sauce
-- <center><img src='/assets/Food/Meatless/Baked RB/containers.jpg' alt='' class='instruction-image'></center>
----
+- 

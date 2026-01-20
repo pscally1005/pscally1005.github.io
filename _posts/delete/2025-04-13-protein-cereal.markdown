@@ -65,15 +65,15 @@ tags:
 Description: Most cereals are bowls of <a href='/misc/hidden-sugar'>sugar</a>, containing little <a href='/misc/nutrient-alphabet'>nutrients</a> and nothing but empty <a href='/misc/calories'>calories</a>.  In comparison, this high <a href='/misc/protein'>protein</a> cereal nearly has <a href='/misc/protein'>protein</a> bar macros, healthy <a href='/misc/fats'>fats</a>, and no <a href='/misc/hidden-sugar'>added sugar</a>.  It's a little dry on its own, making it perfect for soaking up <a href='/misc/dairy#skim-milk'>milk</a> in your morning bowl.  Or double up on <a href='/misc/protein'>protein</a> by using either <a href='/misc/dairy#yogurt'>Greek yogurt</a> or a <a href='/misc/protein'>protein</a> shake as your <a href='/misc/dairy#skim-milk'>milk</a>; may I suggest <a href='/recipes/protein-shake'>Simple Protein Shake</a>, <a href='/recipes/core-power-milkshake'>CopyCat Core Power Protein Milkshake</a> or <a href='/recipes/chocolate-kefir'>Probiotic Chocolate Kefir</a>?
 Instructions:
 - In a large bowl, beat your egg white with a hand mixer until soft peaks form
-- <center><img src='/assets/Food/Breakfast/Protein Cereal/egg-white.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Protein Cereal/egg-white.jpg' alt='' class='instruction-image'>
 
 - Mix in the rest of the ingredients with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> - peanut butter (any nut/seed butter will work), almond milk (any milk will work), vanilla extract, liquid monk fruit, cinnamon, whey, and rolled oats
-- <center><img src='/assets/Food/Breakfast/Protein Cereal/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Protein Cereal/bowl.jpg' alt='' class='instruction-image'>
 
 - Add your raw mix to an air fryer liner
-- <center><img src='/assets/Food/Breakfast/Protein Cereal/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Protein Cereal/raw.jpg' alt='' class='instruction-image'>
 
 - Air fry at 300F for 10 minutes. Transfer to a wire rack to completely cool before breaking into small chunks with your hands
-- <center><img src='/assets/Food/Breakfast/Protein Cereal/cooked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Protein Cereal/cooked.jpg' alt='' class='instruction-image'>
 Notes:
 ---

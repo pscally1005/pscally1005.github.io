@@ -64,15 +64,15 @@ Instructions:
 - Simmer the filling over medium heat (covered for the first half) for about 30-40 minutes with occasional stirring. The mixture should be thick and jam like, and the dates should mashed and broken down.  Optionally, stir in some rum extract (1 tsp, 4 g).  Let cool completely before filling the cookies
 
 - For the dough, whisk together the dry ingredients - almond flour, oat flour, baking powder, and salt.  Add in the applesauce, nut butter, and vanilla, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
-- <center><img src='/assets/Food/Healthier Dessert/Cuccidati/bowl.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Cuccidati/bowl.jpg' alt='' class='instruction-image'>
 
 - Roll out your dough between 2 pieces of parchment paper. It should be about 10x15 inches, and 1/8-1/4 inch thick.  Cut the rectangle down the center to have 2 doughs of 5x15 inches each. Add the filling lengthwise to the center of each of your dough rectangles
-- <center><img src='/assets/Food/Healthier Dessert/Cuccidati/filling.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Cuccidati/filling.jpg' alt='' class='instruction-image'>
 
 - Use the parchment paper to gently fold the cookies together, seam side up. Use the parchment to turn it over, so the seam is now on the bottom. Cut into cookies
-- <center><img src='/assets/Food/Healthier Dessert/Cuccidati/raw.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Cuccidati/raw.jpg' alt='' class='instruction-image'>
 
 - Place cookies on a parchment lined baking sheet (seam side down). Bake at 350F for 12 minutes, or until lightly golden on the outside. Let cool totally before serving
-- <center><img src='/assets/Food/Healthier Dessert/Cuccidati/baked.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Cuccidati/baked.jpg' alt='' class='instruction-image'>
 Notes:
 ---

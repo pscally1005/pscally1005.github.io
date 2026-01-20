@@ -65,13 +65,13 @@ Instructions:
 - If you don't already have oat flour, you can just blend up quick or rolled oats in your food processor. Make sure to grind up the oats on their own, as they won't get fully blended if you do it with everything else
 
 - Place the rest of the ingredients and blend until a smooth batter forms
-- <center><img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-3.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-3.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan. Using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
-- <center><img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-5.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for 20-25 minutes, or until a toothpick comes out fairly clean. A few crumbs left is generally ok. The brownies will firm up much more as they cool, so they should look a bit underdone
-- <center><img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-6.jpg' alt='' class='instruction-image'>
 
 - Let cool totally in the fridge for a few hours (ideally overnight) before slicing and enjoying
 Notes:

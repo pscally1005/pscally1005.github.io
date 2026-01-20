@@ -66,5 +66,5 @@ Instructions:
 - Top with hot sauce and everything bagel seasoning (optional) and serve
 Notes:
 - You can mix up your veggies too.  Here, I've used 1/2 lb frozen chopped spinach in each bowl instead of the diced tomatoes and bell peppers.  You can also meal prep this as well by scaling it up!
-- <center><img src='/assets/Food/Breakfast/Higher Protein Eggs/higher-protein-eggs-spinach.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Breakfast/Higher Protein Eggs/higher-protein-eggs-spinach.jpg' alt='' class='instruction-image'>
 ---

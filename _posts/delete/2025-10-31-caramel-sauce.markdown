@@ -57,10 +57,10 @@ Instructions:
 - Add the pot to the stove over medium high heat, and bring to a bubble with occasional stirring
 
 - When bubbling, stop stirring, and cook for 5-7 minutes, or until the syrup reaches 240F
-- <center><img src='/assets/Misc/Unhealthy/Caramel/pot.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Misc/Unhealthy/Caramel/pot.jpg' alt='' class='instruction-image'>
 
 - Remove the pot from the heat, and stir in vanilla and salt. Transfer to a mason jar. Let cool uncovered at room temperature for at least 30 minutes, or until fully cooled
-- <center><img src='/assets/Misc/Unhealthy/Caramel/jar.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Misc/Unhealthy/Caramel/jar.jpg' alt='' class='instruction-image'>
 Notes:
 - If the syrup hardens, just microwave the jar in 30 second intervals, stirring in between, until you can easily drizzle it out
 ---

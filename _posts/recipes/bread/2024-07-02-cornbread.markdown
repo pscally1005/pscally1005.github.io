@@ -70,7 +70,7 @@ Instructions:
 - In a separate bowl, whisk together the wet ingredients - cottage cheese, applesauce, water, lemon juice, egg, chiles, and cheese
 
 - Combine the dry ingredients into the wet, and whisk until just fully combined. Don't over mix, and don't wait too long before baking. The acid (lemon juice) and base (baking soda) gives lift to the bread, but the reaction happens quickly, so you want to get it in the oven as fast as possible
-- <center><img src='/assets/Food/Bread/Cornbread/cornbread-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Bread/Cornbread/cornbread-4.jpg' alt='' class='instruction-image'>
 
 - Pour the batter into your baking pan, and optionally top with some shredded cheese.  Bake at 400F for about 25 minutes, or until a toothpick comes out mostly clean and the internal temperature is around 195F
 

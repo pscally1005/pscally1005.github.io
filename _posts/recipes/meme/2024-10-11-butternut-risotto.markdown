@@ -60,18 +60,22 @@ tags:
 Description: This <a href='/misc/veggies#butternut-squash'>butternut squash</a> risOATto doesn't use arborio rice.  Instead, I'm using rolled <a href='/misc/grains#oats'>oats</a> as my base.  <a href='/misc/grains#oats'>Oats</a> get just as creamy for a perfect risotto, while also being a whole grain and containing 5x the <a href='/misc/fiber'>fiber</a> and 2x the <a href='/misc/protein'>protein</a> of <a href='/misc/grains#white-rice'>white rice</a>.  Plus, I always have oats on hand; I don't need to buy a specific type of rice just for 1 dish.  The butternut squash provides some mild sweetness while also making the risotto creamy without the need for butter.  The combination of toasting the oats and the <a href='/misc/dairy#grated-cheese'>grated cheese</a> gives this dish a classic but elevated feel that you're sure to love.  It's vegetarian and <a href='/misc/celiac'>gluten free</a>, and can be made vegan by swapping the grated cheese for nutritional yeast and <a href='/misc/meat#chicken-breast'>chicken</a> bouillon for veggie bouillon.
 Instructions:
 - Peel and dice the squash, and add to a large bowl.  Season with olive oil, garlic powder, onion powder, black pepper, and salt
-- <center><img src='/assets/Food/Meme/RisOATto/butternut-cut.jpg' alt='' class='half-page'><img src='/assets/Food/Meme/RisOATto/butternut-bowl.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Meme/RisOATto/butternut-cut.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/RisOATto/butternut-bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer to a parchment lined baking sheet, and roast for 45 minutes at 350F
-- <center><img src='/assets/Food/Meme/RisOATto/butternut-raw.jpg' alt='' class='half-page'><img src='/assets/Food/Meme/RisOATto/butternut-cooked.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Meme/RisOATto/butternut-raw.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/RisOATto/butternut-cooked.jpg' alt='' class='instruction-image'>
 
 - Wait about half an hour before starting the risOATto, since you want the oats to be done around the same time as the squash is done roasting
 
 - Heat EVOO in a Dutch oven over medium heat.  Add oats and bouillon powder, and toast the oats until fragrant, about 5 minutes
 
 - Add in the water and simmer uncovered with occasional stirring until creamy (about 10 minutes)
-- <center><img src='/assets/Food/Meme/RisOATto/oats.jpg' alt='' class='instruction-image'></center>
-
+- <img src='/assets/Food/Meme/RisOATto/oats.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/RisOATto/risotto.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/RisOATto/containers.jpg' alt='' class='instruction-image'>
 - Add all the squash into the pot, and vigorously stir until all the butternut squash has melted in.  Stir in the grated cheese, and serve
-- <center><img src='/assets/Food/Meme/RisOATto/risotto.jpg' alt='' class='half-page'><img src='/assets/Food/Meme/RisOATto/containers.jpg' alt='' class='half-page'></center>
+- <img src='/assets/Food/Meme/RisOATto/risotto.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/RisOATto/containers.jpg' alt='' class='instruction-image'>
 ---

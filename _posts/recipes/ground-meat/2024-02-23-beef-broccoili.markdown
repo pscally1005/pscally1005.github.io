@@ -61,13 +61,13 @@ Instructions:
 - Meanwhile, mix the sauce together in a glass - minced garlic, soy sauce, white vinegar ginger, garlic powder, black pepper, and red pepper flakes
 
 - In a separate glass, mix together some cold water and cornstarch for a slurry
-- <center><img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-4.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-4.jpg' alt='' class='instruction-image'>
 
 - Preheat a large stainless steel pan over medium high heat. Add in the beef, and cook for about 2 minutes per side, just until browned and not overcooked. Remove from the pan
-- <center><img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-5.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-5.jpg' alt='' class='instruction-image'>
 
 - Add in the sauce, broccoli, and about half of the slurry. Deglaze the pan, cook for about 2 minutes, and add more slurry if you want to thicken the sauce more. Add back in the beef
-- <center><img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-6.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-6.jpg' alt='' class='instruction-image'>
 
 - Optionally serve over rice, and top with sesame seeds
 Notes:

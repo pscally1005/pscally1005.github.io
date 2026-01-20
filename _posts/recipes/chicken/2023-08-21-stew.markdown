@@ -65,6 +65,6 @@ Instructions:
 - Finally, mix in your dried spices - paprika, chili powder, garlic powder, onion powder, oregano, basil, black pepper, and cinnamon
 
 - Cover and cook on low for about 6 hours, or until chicken is fully cooked, ideally around 180F
-- <center><img src='/assets/Food/Chicken/Stew/stew-2.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Chicken/Stew/stew-2.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -64,9 +64,9 @@ Instructions:
 - As the broccoli and pasta cook, you can cook the meat in a large pan over medium heat until no longer pink. Season with basil, oregano, thyme, salt, and pepper. Add lemon juice at the end when the meat is fully cooked, and set aside
 
 - Last is the pesto. In a small pan, saute the spinach for a few minutes over medium heat, until the water has evaporated. You can also microwave it and pat out the water with paper towels.  Add all pesto ingredients (spinach, goat cheese, minced garlic, lemon, oil, garlic powder, onion powder, salt, and pepper) to a food processor, and blend until smooth
-- <center><img src='/assets/Food/Ground Meat/Pesto Goat MC/seperate.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Pesto Goat MC/seperate.jpg' alt='' class='instruction-image'>
 
 - Finally, combine together the pesto with the pasta in your pot, using a small splash of reserved pasta water to thicken. Transfer to 5 bowls, and top with vegetables and meat. Garnish with some crumbles of goat cheese, basil leaves, pine nuts, or sun dried tomatoes. Serve
-- <center><img src='/assets/Food/Ground Meat/Pesto Goat MC/containers.jpg' alt='' class='instruction-image'></center>
+- <img src='/assets/Food/Ground Meat/Pesto Goat MC/containers.jpg' alt='' class='instruction-image'>
 Notes:
 ---
