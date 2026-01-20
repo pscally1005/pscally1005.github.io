@@ -55,5 +55,7 @@ Instructions:
 - Transfer to a bread pan, and smooth the top
 
 - Bake in a 400F oven for about 50 minutes
-- ntil cooled before slicing. Makes 1 sandwich. I reheated mine for 10 minutes in a 400F air fryer, before using for an egg sandwich
+- <img src='/assets/Food/Bread/Cabbage/cabbage-4.jpg' alt='' class='instruction-image'>
+
+- Refrigerate until cooled before slicing. Makes 1 sandwich. I reheated mine for 10 minutes in a 400F air fryer, before using for an egg sandwich
 ---

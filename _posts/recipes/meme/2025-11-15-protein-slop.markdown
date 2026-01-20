@@ -54,10 +54,14 @@ tags:
 Description: Not every meal has to look exquisite to taste good.  Here is what I'm calling "<a href='/misc/protein'>Protein</a> Slop".  This face made for radio contains mashed <a href='/misc/fish#tuna'>tuna</a>, <a href='/misc/fruit#avocado'>avocado</a>, and <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, with a side of air fried <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, served over a bowl of shredded raw <a href='/misc/veggies#cabbage'>cabbage</a>.  The only cooking required is just dicing and roasting a <a href='/misc/veggies#sweet-potato'>sweet potato</a>, making this a very quick and convenient meal. It's a good source of <a href='/misc/protein'>protein</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/fats'>healthy fats</a>, <a href='/misc/nutrient-alphabet#A'>vitamin A</a>, <a href='/misc/vitamin-b12'>vitamin B12</a>, and <a href='/misc/nutrient-alphabet#S'>selenium</a> that can be served both warm or cold
 Instructions:
 - Wash your sweet potato, and cut into a medium dice (with the skin!). Toss with the oil and spices
-- 0F for about 15 minutes, or until browned and soft. You can also roast in a 400F oven for about 25 minutes
+- <img src='/assets/Food/Meme/Protein Slop/potatoes.jpg' alt='' class='instruction-image'>
+
+- Air fry at 400F for about 15 minutes, or until browned and soft. You can also roast in a 400F oven for about 25 minutes
 
 - Meanwhile, drain your can of tuna, and add to a medium bowl with cottage cheese, avocado, and lemon juice. Mash with the back of a fork
 
 - Add your roasted sweet potatoes to one side of a bowl, and add your tuna mix to the other. Top with chopped olives
-- o add more vegetables, serve over a base of 8 oz (226 g) shredded cabbage
+- <img src='/assets/Food/Meme/Protein Slop/separate.jpg' alt='' class='instruction-image'>
+
+- Optionally, to add more vegetables, serve over a base of 8 oz (226 g) shredded cabbage
 ---

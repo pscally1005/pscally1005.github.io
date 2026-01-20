@@ -78,5 +78,8 @@ Instructions:
 - Bake for about 25 minutes at 350F. A toothpick to the center should come out clean, and the internal temperature should be around 205F. Transfer to a wire rack to cool completely in the fridge
 
 - In a bowl, prepare the frosting - whipped cottage cheese, applesauce, lemon juice, whey, almond extract, and liquid stevia (or monk fruit).  If you want it a little sweeter, you can also add 1 tbsp (20 g) maple syrup or honey
--  of one of the layers, then place the other layer on top. Spread on top of the second layer, and optionally sprinkle the top with cinnamon
-- 
+- <img src='/assets/Food/Protein Powder/Carrot Cake/carrot-cake-7.jpg' alt='' class='instruction-image'>
+
+- Spread on top of one of the layers, then place the other layer on top. Spread on top of the second layer, and optionally sprinkle the top with cinnamon
+- <img src='/assets/Food/Protein Powder/Carrot Cake/carrot-cake-8.jpg' alt='' class='instruction-image'>
+---

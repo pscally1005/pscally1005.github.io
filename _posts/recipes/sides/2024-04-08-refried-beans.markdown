@@ -61,6 +61,11 @@ tags:
 Description: Refried <a href='/misc/beans'>beans</a> are a great side dish to many different meals. It's very easy to put together, and can be made with any type of bean that you desire. It's basically roughly mashed and cooked hummus, and works well as a dip, burrito filling, or side on your plate
 Instructions:
 - Preheat a medium pot over medium heat with oil. Meanwhile, finely dice your onion. Add diced onion to the pan with salt. Cover, and cook until the onions are soft and translucent, and begin to caramelize
-- ns are done, add in the minced garlic, spices (chili, paprika, cumin, garlic, onion, and pepper), and your beans (entire can; NOT drained or rinsed). Mix, cover, and cook for 5 minutes
-- o low, and roughly mash with a potato masher to reach your desired consistency. I like mine a little chunky, but if you want it super smooth, use an immersion blender. Simmer uncovered for about 5 minutes, or until thickened to your liking. Squeeze in some lime, and finish with cilantro or parsley
-- 
+- <img src='/assets/Food/Sides/Refried/refried-1.jpg' alt='' class='instruction-image'>
+
+- When the onions are done, add in the minced garlic, spices (chili, paprika, cumin, garlic, onion, and pepper), and your beans (entire can; NOT drained or rinsed). Mix, cover, and cook for 5 minutes
+- <img src='/assets/Food/Sides/Refried/refried-2.jpg' alt='' class='instruction-image'>
+
+- Reduce heat to low, and roughly mash with a potato masher to reach your desired consistency. I like mine a little chunky, but if you want it super smooth, use an immersion blender. Simmer uncovered for about 5 minutes, or until thickened to your liking. Squeeze in some lime, and finish with cilantro or parsley
+- <img src='/assets/Food/Sides/Refried/refried-3.jpg' alt='' class='instruction-image'>
+---

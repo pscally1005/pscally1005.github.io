@@ -69,4 +69,5 @@ Instructions:
 - Add in half the oil and your cheese, and grind until combined. Grind in the other half of the oil
 
 - Pesto isn't just for <a href='/misc/grains#pasta'>pasta</a>!  Below is this batch of pesto mixed with 1 cup (185 g) <a href='/misc/grains#brown-rice'>brown rice</a> and 2 lbs (908 g) frozen vegetables (broccoli & cauliflower)
-- 
+- <img src='/assets/Food/Savory Sauces/Pesto Classico/pot.jpg' alt='' class='instruction-image'>
+---

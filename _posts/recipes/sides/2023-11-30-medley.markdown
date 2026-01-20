@@ -62,4 +62,5 @@ Instructions:
 - When the onions are translucent and lightly browned, add in the chopped spinach and spices. Mix together, cover, and cook over medium heat until most of the water has cooked off, and the spinach is done to your liking; about 20 minutes
 
 - Stir in the apple cider vinegar and lime juice, taste for additional seasonings, and serve.  Here, I'm having these veggies as a side to a serving of <a href='/recipes/tilapia'>Air Fried Fish</a> and <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a>
-- 
+- <img src='/assets/Food/Sides/Medley/plate.jpg' alt='' class='instruction-image'>
+---

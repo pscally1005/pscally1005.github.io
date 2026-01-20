@@ -60,9 +60,15 @@ Instructions:
 - Wash your potatoes, and cut into thick wedges (don't peel the potatoes!). Add your potatoes to the base of a 9x13" pan
 
 - In a bowl, whisk together the marinade - water, lemon juice, oil, minced garlic, chicken bouillon powder, oregano, and salt
-- uice is preferred, as the flavor is better, and you can also incorporate the lemon zest.  I used the juice of 2 whole lemons, with the zest of 1 of them mixed into the marinade.  I used the zest of the other lemon at the end on top after cooking.  Bottled lemon juice will also work though.
+- <img src='/assets/Food/Sides/Lemon Potatoes/seperate.jpg' alt='' class='instruction-image'>
+
+- Fresh lemon juice is preferred, as the flavor is better, and you can also incorporate the lemon zest.  I used the juice of 2 whole lemons, with the zest of 1 of them mixed into the marinade.  I used the zest of the other lemon at the end on top after cooking.  Bottled lemon juice will also work though.
 
 - Pour the liquid over the potatoes. Cover with foil, and let marinate in the fridge for at least 1 hour
-- eady to cook, preheat your oven to 350F. Bake the potatoes (covered) until fork tender, about 1 - 1.5 hours.  Garnish with parsley and lemon zest
-- ter><i>Note</i>:<b></b> To make this garlic/onion free, simply omit the chicken bouillon and minced garlic.  Instead, double the salt to 2 tsp (12 g), and add 2 tsp (6 g) black pepper.  This also doubles as vegetarian/vegan
+- <img src='/assets/Food/Sides/Lemon Potatoes/raw.jpg' alt='' class='instruction-image'>
+
+- When you're ready to cook, preheat your oven to 350F. Bake the potatoes (covered) until fork tender, about 1 - 1.5 hours.  Garnish with parsley and lemon zest
+- <img src='/assets/Food/Sides/Lemon Potatoes/cooked.jpg' alt='' class='instruction-image'>
+
+- <center></center><i>Note</i>:<b></b> To make this garlic/onion free, simply omit the chicken bouillon and minced garlic.  Instead, double the salt to 2 tsp (12 g), and add 2 tsp (6 g) black pepper.  This also doubles as vegetarian/vegan
 ---

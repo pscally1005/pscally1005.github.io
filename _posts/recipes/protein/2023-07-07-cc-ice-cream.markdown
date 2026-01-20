@@ -60,7 +60,9 @@ Instructions:
 - Mix base ingredients together in a tupperware or small blender - cottage cheese, whey, stevia, and vanilla
 
 - Choose a flavor and mix in ingredients.  Here are some example flavors:<br><ul><li><b>Peanut Butter Chocolate</b> - 1 tbsp (16 g) natural peanut butter, 2 tbsp (10 g) cocoa powder, and a dash of almond extract</li><li><b>Mint Chocolate</b> - 2 drops of mint extract, and 2 tbsp (10 g) cocoa powder</li></ul><br>
--  cream every half hour or so for about 3 hours. Doing so will prevent it from getting too icy
+- <img src='/assets/Food/Protein Powder/Cottage Cheese Ice Cream/cc-cream-1.jpg' alt='' class='instruction-image'>
+
+- Churn the ice cream every half hour or so for about 3 hours. Doing so will prevent it from getting too icy
 
 - Store in the freezer. Let sit out for about 20 minutes to soften before eating
 ---

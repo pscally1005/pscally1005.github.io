@@ -58,5 +58,8 @@ Instructions:
 - Preheat oven to 400F.  Drain and rinse your artichokes, and chop into small pieces.  Squeeze your defrosted spinach in a paper towel over the sink until water no longer drips out
 
 - Directly in a 9" square baking dish, mix together the artichokes, spinach, yogurt, cottage cheese, 1/2 cup (56 g) shredded mozzarella, 1/2 cup (56 g) shredded cheddar, grated cheese, olive oil, and black pepper.  Top with your remaining 1/4 cup (28 g) of shredded mozzarella and 1/4 cup (28 g) shredded cheddar
-- for 25 minutes (uncovered), or until lightly bubbly.  Let cool for a few minutes before serving
-- 
+- <img src='/assets/Food/Savory Sauces/Artichoke/raw.jpg' alt='' class='instruction-image'>
+
+- Bake at 400F for 25 minutes (uncovered), or until lightly bubbly.  Let cool for a few minutes before serving
+- <img src='/assets/Food/Savory Sauces/Artichoke/cooked.jpg' alt='' class='instruction-image'>
+---

@@ -64,10 +64,15 @@ Instructions:
 - Cut your tomatoes into a medium dice, finely dice an onion, and halve your olives. Add all 3 to the bowl with the pasta, and mix. 1 pint (10 oz, 283 g) of cherry tomatoes (halved) will also work
 
 - Add your sun dried tomatoes to the food processor, and pulse until roughly chopped. Add in the spinach and the rest of the dressing ingredients, and blend until well combined. Thin out with water as needed
-- ing into the pasta bowl, and mix until fully combined. Serve cold or warm
-- t free, replace the pistachios with pumpkin seeds
+- <img src='/assets/Food/Meatless/Vegan Pasta Salad/separate.jpg' alt='' class='instruction-image'>
+
+- Add the dressing into the pasta bowl, and mix until fully combined. Serve cold or warm
+- <img src='/assets/Food/Meatless/Vegan Pasta Salad/no-sardines.jpg' alt='' class='instruction-image'>
+
+- To make it nut free, replace the pistachios with pumpkin seeds
 
 - If you don't have avocado, here's a substitution.  Microwave 1/4 cup + 2 tsp (70 g) water in a medium glass for a minute.  Add 1/4 cup (30 g) of pistachios (or pumpkin seeds), and let soak for at least 10 minutes.  This will yield a similar creaminess and nutritional profile as the 1 medium (100 g) avocado
 
 - For some <a href='/misc/protein'>protein</a> and <a href='/misc/nutrient-alphabet#O'>omega 3s</a>, I'm adding a can of <a href='/misc/fish#sardine'>sardines</a> onto my pasta salad. You can also go with any leftover cooked <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/meat#ground-beef'>beef</a>, <a href='/misc/meat#ground-turkey'>turkey</a>, or <a href='/misc/fish'>fish</a>
-- 
+- <img src='/assets/Food/Meatless/Vegan Pasta Salad/sardines.jpg' alt='' class='instruction-image'>
+---

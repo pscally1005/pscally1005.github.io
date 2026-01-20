@@ -71,5 +71,8 @@ Instructions:
 - Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped nuts or chocolate chips (1/2 cup, 85 g).  Transfer the batter to the pan
 
 - Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing.  Transfer to a fridge in a bag or container
-- bake in a parchment lined, lightly oiled, 9" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the internal temperature is around 205F
-- 
+- <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg' alt='' class='instruction-image'>
+
+- You can also bake in a parchment lined, lightly oiled, 9" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the internal temperature is around 205F
+- <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg' alt='' class='instruction-image'>
+---

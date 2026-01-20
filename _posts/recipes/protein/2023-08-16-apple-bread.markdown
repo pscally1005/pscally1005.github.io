@@ -62,5 +62,7 @@ Instructions:
 - Pour the wet ingredients into the dry, and fold together until just combined
 
 - Transfer everything to a bread pan and bake for 30 min at 350°F. Cake is done when it reaches an internal temperature of 200F
-- cool down, then slice and refrigerate for 3-4 days.  You can serve with some whipped cottage cheese on top per slice
+- <img src='/assets/Food/Protein Powder/Apple Bread/apple-bread-4.jpg' alt='' class='instruction-image'>
+
+- Let the cake cool down, then slice and refrigerate for 3-4 days.  You can serve with some whipped cottage cheese on top per slice
 ---

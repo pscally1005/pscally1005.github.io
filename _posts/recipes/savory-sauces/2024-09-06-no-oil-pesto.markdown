@@ -65,7 +65,9 @@ Instructions:
 - Add all ingredients (except lemon juice) to a food processor, and blend until chopped and combined. Slowly add the lemon, and blend until creamy
 
 - Store in the fridge, or you can freeze any extra (pesto freezes well)
-- oo expensive, either fresh or frozen spinach will work as well!
+- <img src='/assets/Food/Savory Sauces/Basil Pesto/basil-pesto.jpg' alt='' class='instruction-image'>
+
+- If basil is too expensive, either fresh or frozen spinach will work as well!
 
 - To make it nut free, replace the nuts (either pine nuts or walnuts) with seeds, like pumpkin seeds or sunflower seeds
 

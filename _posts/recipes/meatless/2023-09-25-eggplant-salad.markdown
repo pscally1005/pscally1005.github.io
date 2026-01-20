@@ -56,7 +56,9 @@ Instructions:
 - Wash the eggplant, then slice into 1/2" slices. Lightly salt both side, and let sit for 10 minutes on paper towels. Pat dry
 
 - In a skillet or grill pan, cook the eggplant with olive oil over medium heat, flipping occasionally, until fully cooked, about 10-15 minutes. Season with pepper, garlic powder, and onion powder
-- ain and rinse a can of chickpeas. Add to a large bowl. Cut up the rest of your vegetables and add them and the feta to the bowl
+- <img src='/assets/Food/Meatless/Eggplant Salad/eggplant-salad-2.jpg' alt='' class='instruction-image'>
+
+- Meanwhile, drain and rinse a can of chickpeas. Add to a large bowl. Cut up the rest of your vegetables and add them and the feta to the bowl
 
 - In a small bowl, mix together the dressing - olive oil, white vinegar, lemon juice, parsley, garlic and onion powder, black pepper, and salt. Pour over the salad
 

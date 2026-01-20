@@ -66,11 +66,14 @@ Instructions:
 - The dough should be slightly sticky. Refrigerate for about 30 minutes to make handling easier
 
 - Put the dough on a piece of parchment paper, and flatten with your fingers into an even rectangle. Spread the <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> filling on top.  Date paste or unsweetened applesauce should also work
-- h into 1 long cinnamon roll (left to right when in the position in the photo above), using a butter knife to help peel the dough off the parchment.  Cut with a knife or dental floss into 4 pieces
+- <img src='/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-4.jpg' alt='' class='instruction-image'>
+
+- Roll the dough into 1 long cinnamon roll (left to right when in the position in the photo above), using a butter knife to help peel the dough off the parchment.  Cut with a knife or dental floss into 4 pieces
 
 - Air fry the cinnamon rolls cut side down at 350F for about 8 minutes, or until lightly golden brown and slightly crispy
 
 - Meanwhile, prepare the glaze by mixing together the ingredients in a small bowl (milk, powdered peanut butter, oil, and cinnamon). Either extra virgin olive oil or unrefined coconut oil will work.  Add some sweetener if you want
 
 - Dollop the glaze on top of the baked cinnamon rolls, and enjoy
-- 
+- <img src='/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-8.jpg' alt='' class='instruction-image'>
+---

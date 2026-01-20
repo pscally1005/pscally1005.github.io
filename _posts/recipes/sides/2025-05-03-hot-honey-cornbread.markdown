@@ -56,7 +56,14 @@ Instructions:
 - Whisk together the dry ingredients in a large bowl - cornmeal, flour, baking powder, baking soda, and salt. To make it <a href='/misc/celiac'>gluten free</a>, you can use oat flour or almond flour in place of whole wheat flour
 
 - Add in the wet ingredients - hot honey, apple cider vinegar, and water. Whisk until smooth. If you don't have hot honey, you can replace it with regular honey, and add 1 tsp (2 g) red pepper flakes
-- er into your pan, and shake bake and forth to make sure it's even and goes to all sides
-- for about 30 minutes, or until lightly browned, and a toothpick comes out nearly clean. Transfer to a wire rack to cool completely
-- ly cooled, cut into 16 slices. Store in the fridge for a week, or the freezer indefinitely
-- 
+- <img src='/assets/Food/Sides/Hot Honey Cornbread/bowl.jpg' alt='' class='instruction-image'>
+
+- Pour the batter into your pan, and shake bake and forth to make sure it's even and goes to all sides
+- <img src='/assets/Food/Sides/Hot Honey Cornbread/raw.jpg' alt='' class='instruction-image'>
+
+- Bake at 400F for about 30 minutes, or until lightly browned, and a toothpick comes out nearly clean. Transfer to a wire rack to cool completely
+- <img src='/assets/Food/Sides/Hot Honey Cornbread/baked.jpg' alt='' class='instruction-image'>
+
+- When completely cooled, cut into 16 slices. Store in the fridge for a week, or the freezer indefinitely
+- <img src='/assets/Food/Sides/Hot Honey Cornbread/cut.jpg' alt='' class='instruction-image'>
+---

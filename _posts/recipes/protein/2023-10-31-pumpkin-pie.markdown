@@ -64,8 +64,12 @@ Instructions:
 - In a large bowl, mash your banana with the back of a fork. Mix in the rest of the crust ingredients - whey, casein, oat flour, cornstarch, monk fruit/stevia, cinnamon, baking powder, and optionally a dash of butter extract
 
 - Spread the crust onto the bottom of the pan with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Make sure the crust is even, and spreads to all sides
--  bowl, mix together the filling ingredients (pumpkin puree, eggs, water, cinnamon, ginger, salt, nutmeg, cloves, yogurt, monk fruit or stevia, vanila, and whey). You can add a little butter extract to the filling if you want (as well as the crust)
+- <img src='/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-3.jpg' alt='' class='instruction-image'>
+
+- In your large bowl, mix together the filling ingredients (pumpkin puree, eggs, water, cinnamon, ginger, salt, nutmeg, cloves, yogurt, monk fruit or stevia, vanila, and whey). You can add a little butter extract to the filling if you want (as well as the crust)
 
 - Bake in a 350F oven for 25 minutes. Lower heat to 300F, and bake for an additional 15 minutes
-- letely before slicing, at least a few hours in the fridge to totally set. Optionally, dust the top of the pie with some cinnamon
+- <img src='/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-6.jpg' alt='' class='instruction-image'>
+
+- Let cool completely before slicing, at least a few hours in the fridge to totally set. Optionally, dust the top of the pie with some cinnamon
 ---

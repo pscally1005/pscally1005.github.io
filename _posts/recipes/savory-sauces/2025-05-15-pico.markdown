@@ -57,4 +57,5 @@ Instructions:
 - Add the rest of the ingredients to the bowl (cilantro, tomatoes, lime, and salt), and mix. Cover, and refrigerate for a few hours before servings, allowing the flavors to combine
 
 - Pico de gallo is more than just a dip for chips or topping for your tacos and rice bowls.  Here it is on top of my salad for lunch
-- 
+- <img src='/assets/Food/Savory Sauces/Pico/salad.jpg' alt='' class='instruction-image'>
+---

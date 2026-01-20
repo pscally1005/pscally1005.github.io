@@ -60,5 +60,7 @@ Instructions:
 - Crumble the feta cheese on top of the vegetables
 
 - Add in your seasonings - minced garlic, lemon pepper, garlic powder, onion powder, and black pepper. Mix with tongs
--  vegetables makes them taste way better, but it also releases their water. Store the salad in the strainer part of the <a href='/misc/kitchen-products#salad-spinner'>salad spinner</a>, with the strainer in the large bowl. When you go to eat the salad, just lift the strainer out of the bowl and discard the released water
+- <img src='/assets/Food/Sides/Salad/mixed.jpg' alt='' class='instruction-image'>
+
+- Seasoning the vegetables makes them taste way better, but it also releases their water. Store the salad in the strainer part of the <a href='/misc/kitchen-products#salad-spinner'>salad spinner</a>, with the strainer in the large bowl. When you go to eat the salad, just lift the strainer out of the bowl and discard the released water
 ---

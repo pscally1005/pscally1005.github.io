@@ -63,5 +63,7 @@ Instructions:
 - Pour batter into a 9" square pan lined with parchment paper. Freeze for about 2-3 hours to fully harden, or overnight
 
 - Let sit out on the fridge for a few minutes if needed before slicing into bars
-- on a cookie sheet until fully hardened, about an hour. Transfer to a Ziploc bag and store in the freezer
+- <img src='/assets/Food/Protein Powder/No Bake Brownie/no-bake-brownie-3.jpg' alt='' class='instruction-image'>
+
+- Flash freeze on a cookie sheet until fully hardened, about an hour. Transfer to a Ziploc bag and store in the freezer
 ---

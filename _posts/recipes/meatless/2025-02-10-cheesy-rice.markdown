@@ -56,4 +56,5 @@ Instructions:
 - Add your broccoli to a bowl, and season with lemon juice, paprika, chili powder, garlic powder, onion powder, and salt. Transfer to a parchment lined cookie sheet, and roast at 400F for about 30 minutes, until tender and lightly charred. Set aside
 
 - In a large bowl, combine together the rice, broccoli, and <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>. Divide into 4 servings
-- 
+- <img src='/assets/Food/Meatless/Cheesy Rice/bowl.jpg' alt='' class='instruction-image'>
+---
