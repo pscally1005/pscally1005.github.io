@@ -94,5 +94,5 @@ Notes:
     <li><a href='/misc/fiber'>Fiber</a> - 5 g</li>
     <li><a href='/misc/hidden-sugar'>Added Sugar</a> - 0 g</li>
   </ul>
-- <center><img src='/assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg' alt='' class='instruction-image'></center>
+- <center><a href='/recipes/quick-nutella'><img src='/assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg' alt='' class='instruction-image'></a></center>
 ---

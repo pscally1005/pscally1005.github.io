@@ -91,8 +91,8 @@ Notes:
     </li>
 
     <li>
-      <ul>
         <b>Mint</b>
+      <ul>
         <li>1/4 tsp (1.25 g) mint extract</li>
       </ul>
     </li>

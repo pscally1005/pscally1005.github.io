@@ -282,6 +282,8 @@ def ingredients(food):
         f = "Hemp hearts"
 
     # Dairy & Eggs
+    elif food == "Sour cream, regular":
+        f = "Sour cream"
     elif food == "Cheese, low fat, cream":
         f = "Cream cheese, 1/3 less fat"
     elif food == "Cheese, cream":

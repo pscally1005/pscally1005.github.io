@@ -76,4 +76,5 @@ Instructions:
 - <center><img src='/assets/Food/Finger Food/Chickpea Tortilla/chips.jpg' alt='' class='instruction-image'></center>
 Notes:
 - I ended up with about 280 g of tortilla chips, meaning I have about 10 servings of 1 oz (28 g) each. For reference, a standard 1 oz (28 g) serving of <a href='https://amzn.to/3Fdslkh'>tortilla chips</a> contains the following:<br><ul><li>Nearly double the <a href='/misc/calories'>calories</a> (140 cal)</li><li>Five times the <a href='/misc/fats'>fat</a> (6 g)</li><li>Nearly double the <a href='/misc/carbs'>carbs</a> (20 g)</li><li>Half the <a href='/misc/protein'>protein</a> (2 g)</li><li>Half of the <a href='/misc/fiber'>fiber</a> (1 g)</li></ul>
+- <center><img src='/assets/Food/Finger Food/Chickpea Tortilla/cover.jpg' alt='' class='instruction-image'></center>
 ---

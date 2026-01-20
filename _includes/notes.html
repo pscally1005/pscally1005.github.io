@@ -8,11 +8,13 @@
                 <ol>
                     {% assign step_number = 1 %}
                     {% for step in page.Notes %}
-                      {% if step contains "<center>" %}
+                      {% if step contains "<img" %}
                         <!-- Image step -->
                         </ol>
                         <li class="instruction-image-li print-only">
-                          {{ step }}
+                          <center>
+                            {{ step }}
+                          </center>
                         </li>
                         <ol start="{{ step_number }}">
                       {% else %}

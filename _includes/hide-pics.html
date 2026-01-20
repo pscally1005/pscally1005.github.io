@@ -78,11 +78,13 @@
     document.addEventListener('DOMContentLoaded', () => {
         const hidePicturesToggle = document.getElementById('hide-pictures-toggle');
         const hidePicturesLabel = document.getElementById('hide-pictures-label');
-        const centers = document.querySelectorAll('center'); // Select all <center> elements
+        const images = document.querySelectorAll(
+            '.recipe-instructions li.instruction-image-li'
+        );
 
         // Function to hide/show images and adjust <br> tags
         const updateVisibility = (showImages) => {
-            centers.forEach(center => {
+            images.forEach(center => {
                 const nextElement = center.nextElementSibling;
 
                 if (showImages) {

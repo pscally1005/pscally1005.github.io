@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  East Asian Miso Hummus
-date:   2026-01-03 00:00:00 -0500
+date:   2026-01-19 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces
-- Draft
 showPercentage: no
 hummus: yes
 oatmeal: no

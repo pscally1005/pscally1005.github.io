@@ -66,7 +66,37 @@ Instructions:
 Notes:
 - For the <a href='/misc/protein'>protein</a> source, I'll be using leftover <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, but any sort of <a href='/misc/protein'>protein</a> source will work, like grilled chicken/salmon, sauteed ground beef/turkey, crumbled tofu, or canned tuna. I prefer to add the meat to the individual bowls instead of the entire salad. So take out a serving of salad, top with chicken, and any additional feta or olives if desired
 
-- For a more typical dressing, check out the links below:<ul><li><a href='/recipes/eggplant-salad'>Grilled Eggplant and Chickpea Salad</a></li><li><a href='/recipes/mediterranean-potato-salad'>Mediterranean Sweet Potato Salad</a></li><li><a href='/recipes/peanut-chili-salad-dressing'>Peanut Chili Salad Dressing</a></li><li><a href='/recipes/olivcado'>Olivecado Salad Dressing</a></li><li><a href='/recipes/greek-yogurt-caesar-dressing'>Greek Yogurt Caesar Dressing</a></li></ul>
+- |
+  For a more typical dressing, check out the links below
+  <ul>
+    <li><a href='/recipes/eggplant-salad'>Grilled Eggplant and Chickpea Salad</a></li>
+    <li><a href='/recipes/mediterranean-potato-salad'>Mediterranean Sweet Potato Salad</a></li>
+    <li><a href='/recipes/peanut-chili-salad-dressing'>Peanut Chili Salad Dressing</a></li>
+    <li><a href='/recipes/olivcado'>Olivecado Salad Dressing</a></li>
+    <li><a href='/recipes/greek-yogurt-caesar-dressing'>Greek Yogurt Caesar Dressing</a></li>
+  </ul>
 
-- For an unconventional <a href='/salad-dressings'>dressing</a>, I normally just throw some combination of dijon mustard, sauerkraut, hot sauce, <a href='/recipes/salsa'>salsa</a>, or <a href='/misc/fruit#avocado'>avocado</a> on most of my <a href='/salad'>salads</a>. But I like pretty much anything you'll find in <a href='/recipes/savory-sauces'>Savory Sauces</a>, like <a href='/hummus'>hummus</a>, <a href='/pesto'>pesto</a>, or even <a href='/recipes/pasta-sauce'>pasta sauce</a>, all linked below:<ul><li><a href='/recipes/roasted-red-pepper-hummus'>Roasted Red Pepper Hummus</a></li><li><a href='/recipes/blue-cheese-dressing'>White Bean Blue Cheese Dressing</a></li><li><a href='/recipes/mayo'>Lighter Mayo Substitute</a></li><li><a href='/recipes/roasted-garlic-hummus'>'Cheesy' Garlic Hummus</a></li><li><a href='/recipes/babaganoush'>Lemon Baba Ganoush Without Oil</a></li><li><a href='/recipes/ketchup'>Date Sweetened Ketchup</a></li><li><a href='/recipes/oil-free-basil-pesto'>Oil Free Basil Pesto</a></li><li><a href='/recipes/classic-tahini-hummus'>Classic Tahini Hummus</a></li><li><a href='/recipes/creamy-pesto-hummus'>Creamy Pesto Hummus</a></li><li><a href='/recipes/sweet-potato-hummus'>Golden Sweet Potato Hummus</a></li><li><a href='/recipes/avocado-pesto'>Avocado Pesto - Vegan and Oil Free</a></li><li><a href='/recipes/roasted-eggplant-hummus'>Mediterranean Roasted Eggplant Hummus</a></li><li><a href='/recipes/roasted-beet-hummus'>Creamy Roasted Beet Hummus</a></li><li><a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a></li><li><a href='/recipes/guacamole'>Holy Guacamole</a></li><li><a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a></li><li><a href='/recipes/hummus'>Lemony Taco Inspired Hummus</a></li><li><a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a></li><li><a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a></li></ul>
+- |
+  For an unconventional <a href='/salad-dressings'>dressing</a>, I normally just throw some combination of dijon mustard, sauerkraut, hot sauce, <a href='/recipes/salsa'>salsa</a>, or <a href='/misc/fruit#avocado'>avocado</a> on most of my <a href='/salad'>salads</a>. But I like pretty much anything you'll find in <a href='/recipes/savory-sauces'>Savory Sauces</a>, like <a href='/hummus'>hummus</a>, <a href='/pesto'>pesto</a>, or even <a href='/recipes/pasta-sauce'>pasta sauce</a>, all linked below
+  <ul>
+    <li><a href='/recipes/roasted-red-pepper-hummus'>Roasted Red Pepper Hummus</a></li>
+    <li><a href='/recipes/blue-cheese-dressing'>White Bean Blue Cheese Dressing</a></li>
+    <li><a href='/recipes/mayo'>Lighter Mayo Substitute</a></li>
+    <li><a href='/recipes/roasted-garlic-hummus'>'Cheesy' Garlic Hummus</a></li>
+    <li><a href='/recipes/babaganoush'>Lemon Baba Ganoush Without Oil</a></li>
+    <li><a href='/recipes/ketchup'>Date Sweetened Ketchup</a></li>
+    <li><a href='/recipes/oil-free-basil-pesto'>Oil Free Basil Pesto</a></li>
+    <li><a href='/recipes/classic-tahini-hummus'>Classic Tahini Hummus</a></li>
+    <li><a href='/recipes/creamy-pesto-hummus'>Creamy Pesto Hummus</a></li>
+    <li><a href='/recipes/sweet-potato-hummus'>Golden Sweet Potato Hummus</a></li>
+    <li><a href='/recipes/avocado-pesto'>Avocado Pesto - Vegan and Oil Free</a></li>
+    <li><a href='/recipes/roasted-eggplant-hummus'>Mediterranean Roasted Eggplant Hummus</a></li>
+    <li><a href='/recipes/roasted-beet-hummus'>Creamy Roasted Beet Hummus</a></li>
+    <li><a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a></li>
+    <li><a href='/recipes/guacamole'>Holy Guacamole</a></li>
+    <li><a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a></li>
+    <li><a href='/recipes/hummus'>Lemony Taco Inspired Hummus</a></li>
+    <li><a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a></li>
+    <li><a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a></li>
+  </ul>
 ---

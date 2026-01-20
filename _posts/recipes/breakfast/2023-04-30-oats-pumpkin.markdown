@@ -63,6 +63,8 @@ Notes:
     <li><a href='/recipes/oats-reeses'>Reese's Protein Overnight Oats</a></li>
     <li><a href='/recipes/oats-banana'>Banana Nut Bread Protein Overnight Oats</a></li>
   </ul>
-- <center><a href='/recipes/oats-berry'><img src='/assets/Food/Breakfast/Oatmeal/oats-berry.jpg' alt='' class='half-page'></a><a href='/recipes/oats-pb'><img src='/assets/Food/Breakfast/Oatmeal/oats-pb.jpg' alt='' class='half-page'></a></center>
-- <center><a href='/recipes/oats-banana'><img src='/assets/Food/Breakfast/Oatmeal/oats-banana-1.jpg' alt='' class='half-page'></a><a href='/recipes/oats-reeses'><img src='/assets/Food/Breakfast/Oatmeal/oats-reeses.jpg' alt='' class='half-page'></a></center><hr>
+- <center><a href='/recipes/oats-berry'><img src='/assets/Food/Breakfast/Oatmeal/oats-berry.jpg' alt='' class='instruction-image'></a></center>
+- <center><a href='/recipes/oats-pb'><img src='/assets/Food/Breakfast/Oatmeal/oats-pb.jpg' alt='' class='instruction-image'></a></center>
+- <center><a href='/recipes/oats-reeses'><img src='/assets/Food/Breakfast/Oatmeal/oats-reeses.jpg' alt='' class='instruction-image'></a></center>
+- <center><a href='/recipes/oats-banana'><img src='/assets/Food/Breakfast/Oatmeal/oats-banana-1.jpg' alt='' class='instruction-image'></a></center><hr>
 ---

@@ -54,15 +54,7 @@ tags:
 - brown rice
 - quinoa beans
 Description: |
-  These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled with <a href='/misc/meat#ground-turkey'>ground turkey</a>, <a href='/misc/grains#brown-rice'>brown rice</a>, and taco seasonings.  But they're super customizable.  This post is more of a guide on how to make stuffed peppers; below are different filling options you can try
-  <ul>
-    <li>Replace the ground turkey with either ground beef or <a href='/misc/ground-chicken'>ground chicken</a></li>
-    <li>Vegetarian stuffed peppers using either <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a> or <a href='/recipes/couscous'>Tomato and Bean Couscous</a> as your filling</li>
-    <li>Mediterranean stuffed peppers using my <a href='/recipes/mediterranean-potato-salad'>Mediterranean Sweet Potato Salad</a> or <a href='/recipes/bean-salad'>Mediterranean 3 Bean Salad</a></li>
-    <li>Fill it with just beans, such as <a href='/recipes/slow-cooked-beans'>Slow Cooker Black Beans</a>, <a href='/recipes/refried-beans'>Refried Pinto Beans</a>, or <a href='/recipes/baked-beans'>No Added Sugar Baked Beans</a></li>
-    <li>Replace the <a href='/misc/grains#brown-rice'>brown rice</a> with <a href='/recipes/red-lentils'>red lentils</a>, <a href='/recipes/cauliflower-rice'>cauliflower rice</a>, <a href='/misc/grains#quinoa'>quinoa</a>, or couscous</li>
-    <li>Mix in some <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> or <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> to the filling, or add on top of the peppers</li>
-  </ul>
+  These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled with <a href='/misc/meat#ground-turkey'>ground turkey</a>, <a href='/misc/grains#brown-rice'>brown rice</a>, and taco seasonings.  But they're super customizable, see notes below
 Instructions:
 - In a small pot, add your rice, water, and salt. Bring to a boil over high heat. Cover, reduce to low, and let simmer for about 20-30 minutes, until fully cooked. Set aside
 
@@ -79,6 +71,17 @@ Instructions:
 - Cover the pan with aluminum foil, and roast at 400F for about 1 hour. The peppers should be tender and the meat fully cooked (at least 165F)
 - <center><img src='/assets/Food/Finger Food/Stuffed/cooked.jpg' alt='' class='instruction-image'></center><br>
 Notes:
+- |
+  This post is more of a guide on how to make stuffed peppers; below are different filling options you can try
+  <ul>
+    <li>Replace the ground turkey with either ground beef or <a href='/misc/ground-chicken'>ground chicken</a></li>
+    <li>Vegetarian stuffed peppers using either <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a> or <a href='/recipes/couscous'>Tomato and Bean Couscous</a> as your filling</li>
+    <li>Mediterranean stuffed peppers using my <a href='/recipes/mediterranean-potato-salad'>Mediterranean Sweet Potato Salad</a> or <a href='/recipes/bean-salad'>Mediterranean 3 Bean Salad</a></li>
+    <li>Fill it with just beans, such as <a href='/recipes/slow-cooked-beans'>Slow Cooker Black Beans</a>, <a href='/recipes/refried-beans'>Refried Pinto Beans</a>, or <a href='/recipes/baked-beans'>No Added Sugar Baked Beans</a></li>
+    <li>Replace the <a href='/misc/grains#brown-rice'>brown rice</a> with <a href='/recipes/red-lentils'>red lentils</a>, <a href='/recipes/cauliflower-rice'>cauliflower rice</a>, <a href='/misc/grains#quinoa'>quinoa</a>, or couscous</li>
+    <li>Mix in some <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> or <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> to the filling, or add on top of the peppers</li>
+  </ul>
+
 - To celebrate Halloween, feel free to carve a face into your peppers like Vic did below.  I also paired this with my <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf</a> that I instead shaped into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> for the blood
 - <center><a href='/recipes/bbq-meatloaf'><img src='/assets/Food/Finger Food/Stuffed/halloween.jpg' alt='' class='larger-image'></a></center>
 ---

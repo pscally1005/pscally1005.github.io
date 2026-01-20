@@ -585,6 +585,8 @@
   width: 400px;
   object-fit: cover;
   border-radius: 10px; /* Rounded corners */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
 /* Images: remove numbers and indentation, center them */
