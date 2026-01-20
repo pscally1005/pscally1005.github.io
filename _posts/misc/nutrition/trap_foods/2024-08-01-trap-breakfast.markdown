@@ -38,7 +38,7 @@ tags:
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a>
 
 <u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -46,7 +46,7 @@ tags:
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a>
 <u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
@@ -61,7 +61,7 @@ tags:
 * <a rel='' target='' href='#banana-bread'>Banana Bread</a><br>
 * <a rel='' target='' href='#pancakes'>Pancakes and Waffles</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
+<br><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a>
 
 <div id='cereal' class='table-of-contents'></div>
 <br><i><font size='+2'>Cereal</font></i><br>
@@ -121,7 +121,7 @@ tags:
 <br><i><font size='+2'>Yogurt</font></i><br>
 &emsp;Yogurt, just like <a rel='' target='' href='#skim-milk'>milk</a> has the same deceptions.  It offers low <a href='/misc/fats'>fat</a> "healthier" varieties that are pumped full of <a href='/misc/hidden-sugar'>added sugar</a>, and are way worse for you than their original full <a href='/misc/fats'>fat</a> counterparts.  Just like with milk, the low or no <a href='/misc/fats'>fat</a> options can also be healthy, as long as they are plain.  For me, <a href='https://amzn.to/43OPqTw'>Plain Nonfat Greek Yogurt</a> is the king of all dairy products.  Just 1 serving (2/3 cup, 170 g) contains 17 g of <a href='/misc/protein'>protein</a>, no <a href='/misc/fats'>fat</a>, no <a href='/misc/hidden-sugar'>added sugar</a>, and just 100 <a href='/misc/calories'>calories</a>.  Greek yogurt is also a fantastic source of both <a href='/misc/calcium'>calcium</a> and <a href='/misc/vitamin-b12'>vitamin B12</a>, where 1 serving has 15% and 53% of your daily value, respectively.  I opt for the nonfat version, as I don't taste a difference between that and the full <a href='/misc/fats'>fat</a> variety, so I'll instead get my <a href='/misc/fats'>fat</a> from other sources, like <a rel='' target='' href='/misc/trap-foods-snacks#nuts'>nuts</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, or natural <a rel='' target='' href='/misc/trap-foods-sweet-spreads#peanut-butter'>nut butter</a>.
 
-<center><a href='https://feedthemwisely.com/added-sugar-in-flavored-yogurt'><img src='/assets/Misc/Nutrition/Trap/yogurt-sugar.jpg' alt='' class='larger-image'></a></center>
+<a href='https://feedthemwisely.com/added-sugar-in-flavored-yogurt'><img src='/assets/Misc/Nutrition/Trap/yogurt-sugar.jpg' alt='' class='larger-image'></a>
 &emsp;Things start to get worse when you look at flavored yogurt, where <a href='https://amzn.to/4dz5SdQ'>Vanilla Nonfat Greek Yogurt</a> contains 13 g of <a href='/misc/hidden-sugar'>added sugar</a> (remeber, that's up from 0 g), and less <a href='/misc/protein'>protein</a> (14 g instead of 17 g).  Don't be fooled by the fruit flavors either, even the ones with fruit chunks in them.  These contain just as much <a href='/misc/hidden-sugar'>added sugar</a> as the vanilla, if not more.  I used to eat the single serving fruit cup yogurts (like <a href='https://amzn.to/4mA1kIo'>this one</a>) every day in high school, until it started to hurt my teeth to eat it.  Only then did I flip it over and notice how much <a href='/misc/hidden-sugar'>sugar</a> was loaded into these small "healthy" cups.  Stick to plain, and add your own fruit and additional sweetner if desired.
 
 <img src='/assets/Misc/Nutrition/Trap/vanilla-yogurt.jpg' alt='' class='larger-image'>
@@ -134,7 +134,7 @@ tags:
 <img src='/assets/Misc/Nutrition/Trap/bread.jpg' alt='' class='larger-image'>
 &emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of <a href='/misc/grains#whole-wheat'>whole wheat</a> bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high <a href='/misc/hidden-sugar'>sugar</a> content.  <a href='/misc/grains#white-wheat'>White bread</a> is essentially entirely made up of glucose, leading to the largest blood <a href='/misc/hidden-sugar'>sugar</a> spike of any food you could consume.  Even <a href='/misc/grains#whole-wheat'>whole wheat</a> bread is a high GI food, but it is significantly lower than <a href='/misc/grains#white-wheat'>white bread</a>.  Below is a chart of different foods and their respective GI values.
 
-<center><a href='https://x.com/iam_preethi/status/1345457708892266496'><img src='/assets/Misc/Nutrition/Trap/gi.jpg' alt='' class='larger-image'></a></center>
+<a href='https://x.com/iam_preethi/status/1345457708892266496'><img src='/assets/Misc/Nutrition/Trap/gi.jpg' alt='' class='larger-image'></a>
 &emsp;If you'd like to get into <a href='/recipes/bread'>breadmaking</a>, I have plenty of <a href='/misc/grains#whole-wheat'>whole wheat flour</a> recipes.  I've linked some of them below.<br>
 &emsp;- <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a><br>
 &emsp;- <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a><br>
@@ -171,7 +171,7 @@ tags:
 <br><i><font size='+2'>Pancakes and Waffles</font></i><br>
 &emsp;Last on the chopping block for breakfast foods are pancakes and waffles.  Take your banana bread recipe, and cook it instead on a frying pan for pancakes or a waffle maker for waffles.  Just the same dessert in a different shape again, being filled with <a href='/misc/hidden-sugar'>sugar</a> and refined flour, leading to massive spikes and crashes in your blood sugar, energy, and mood.
 
-<center><a href='https://www.reddit.com/r/memes/comments/188citx/breakfast_food_sucks/'><img src='/assets/Misc/Nutrition/Trap/pancake.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.reddit.com/r/memes/comments/188citx/breakfast_food_sucks/'><img src='/assets/Misc/Nutrition/Trap/pancake.jpg' alt='' class='larger-image'></a>
 &emsp;I'll be honest, I absolutely loved waffles growing up.  I'd make myself chocolate chip banana waffles once a week in high school by following a boxed mix, mashed in a banana, and fold in chocolate chips.  They're delicious, but again not something to start your day off with.  Instead, consider a pancake (or waffle) recipe made of <a href='/misc/protein'>protein</a> and whole <a href='/misc/grains'>grains</a>, like my <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>.
 
 <br><u><font size='+2'>Sources</font></u><br>

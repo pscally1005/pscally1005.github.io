@@ -63,14 +63,33 @@ Instructions:
 
 - Add your <a href='/misc/veggies'>vegetables</a> to a pan. Drizzle with olive oil and sprinkle with salt, pepper, garlic, and onion powder. Roast at 400F (times below). Squeeze on some lemon juice when done
 
-- <center><a href='/misc/veggies#artichoke'>Artichokes</a> - 30 minutes</center>
-- ef='/misc/veggies#asparagus'>Asparagus</a> - 20 minutes</center>
-- ef='/misc/veggies#beets'>Beets</a> - 40 minutes</center>
-- ef='/misc/veggies#pepper'>Bell Peppers</a> - 20 minutes</center>
-- ef='/misc/veggies#broccoli'>Broccoli</a> or <a href='/misc/veggies#cauliflower'>Cauliflower</a> - 30 minutes</center>
-- ef='/misc/veggies#brussel-sprout'>Brussel Sprouts</a> - 30 minutes</center>
-- ef='/misc/veggies#carrots'>Carrots</a> - 30 minutes</center>
-- ef='/misc/veggies#eggplant'>Eggplant</a> - 30 minutes</center>
-- ef='/misc/veggies#garlic'>Garlic</a> - 45 minutes</center>
-- ef='/misc/veggies#acorn-squash'>Squash</a> - 40 minutes</center>
-- 
+- <a href='/misc/veggies#artichoke'>Artichokes</a> - 30 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-artichoke.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#asparagus'>Asparagus</a> - 20 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-asparagus.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#beets'>Beets</a> - 40 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-beet.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#pepper'>Bell Peppers</a> - 20 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-pepper.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#broccoli'>Broccoli</a> or <a href='/misc/veggies#cauliflower'>Cauliflower</a> - 30 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-broccoli.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#brussel-sprout'>Brussel Sprouts</a> - 30 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-brussel.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#carrots'>Carrots</a> - 30 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-carrot.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#eggplant'>Eggplant</a> - 30 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-eggplant.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#garlic'>Garlic</a> - 45 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-garlic.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#acorn-squash'>Squash</a> - 40 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-squash.jpg' alt='' class='instruction-image'>
+---

@@ -80,5 +80,5 @@ Notes:
 - Similarly, any unsweetened dried <a href='/misc/fruit'>fruit</a> will work, not just <a href='/misc/fruit#fig-dried'>figs</a>. I've used black mission <a href='/misc/fruit#fig-dried'>figs</a> here, but other good options are golden California <a href='/misc/fruit#fig-dried'>figs</a>, <a href='/misc/fruit#raisins'>raisins</a>, golden <a href='/misc/fruit#raisins'>raisins</a>, deglet noor <a href='/misc/fruit#dates'>dates</a>, medjool <a href='/misc/fruit#dates'>dates</a>, or <a href='/misc/fruit#prune'>prunes</a>
 
 - Alternatively, you can turn these into healthy Ohio Buckeyes (<a href='/misc/nuts#peanuts'>peanuts</a> would be recommended in place of <a href='/misc/nuts#walnuts'>walnuts</a> here) by coating them in melted chocolate!  Either melt chocolate chips (regular or sugar free), or make your own <a href='/misc/chocolate-percentages'>homemade chocolate</a>
-- <center><a href='/recipes/chocolate-bar'><img src='/assets/Food/Healthier Dessert/Choc Bar/cover.jpg' alt='' class='instruction-image'></a></center>
+- <a href='/recipes/chocolate-bar'><img src='/assets/Food/Healthier Dessert/Choc Bar/cover.jpg' alt='' class='instruction-image'></a>
 ---

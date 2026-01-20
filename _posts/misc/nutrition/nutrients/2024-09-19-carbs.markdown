@@ -15,28 +15,28 @@ tags:
 ---
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;For years, we were told that <a href='/misc/fats'>fats</a> were the devil.  Low <a href='/misc/fats'>fat</a> this and <a href='/misc/fats'>fat</a> free that, no more eating <a href='/misc/meat'>meat</a> and <a href='/misc/meat#eggs'>eggs</a>, and a drastic increase consumption of refined grains.  I should specify that I have never been on a keto (high <a href='/misc/fats'>fat</a>, low <a href='/misc/carbs'>carb</a>) diet.  But it is evident how wrong we got it.  Carbs are the energy of life, and are crucial to properly fueling your body.  But in today's society, they are overconsumed and ultra-processed.  Check out my other 2 micronutrient analyses: <a href='/misc/fats'>Fat: The Innocent Criminal?</a> and <a href='/misc/protein'>Protein: The Essential Building Blocks</a>.
-<center><img src='/assets/Misc/Nutrition/Carbs/starch.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/sugar-cube.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/starch.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/sugar-cube.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>Glucose</font></u><br>
 &emsp;First, let's talk about glucose.  Glucose is your body's main energy source.  Your body runs on glucose no matter what, whether you consume it or not.  Most people get glucose from food, but those on a ketogenic diet put their bodies into what's known as ketosis, where your body produces glucose itself from <a href='/misc/fats'>fat</a> (called gluconeogenesis).
-<center><img src='/assets/Misc/Nutrition/Carbs/diabetes (1).png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/keto.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/diabetes (1).png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/keto.png' alt='' class='smaller-image'>
 <br>
 &emsp;It's esimated that a maximum of 50 g <a href='/misc/carbs'>carbs</a> can be consumed in a given day to remain in ketosis.  In comparison, the average American consumes about 300 g of <a href='/misc/carbs'>carbs</a> per day.  I'd say you should aim for somewhere in the middle.  The measure of your body's glucose is what's known as your blood sugar, where higher glycemic foods (foods high in glucose) will spike your blood sugar more than lower glycemic foods.
-<center><img src='/assets/Misc/Nutrition/Carbs/insulin.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/sugar-blood-level.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/insulin.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/sugar-blood-level.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>Starch</font></u><br>
 &emsp;Carbohydrates, or <a href='/misc/carbs'>carbs</a>, are typically split into one of two categories: starch and <a href='/misc/hidden-sugar'>sugar</a>.  Starches are probably what you mainly think of when you think of <a href='/misc/carbs'>carbs</a>.  <a href='/misc/grains#white-wheat'>Bread</a>, <a href='/misc/grains#white-rice'>rice</a>, <a href='/misc/grains#pasta-white'>pasta</a>, etc; these are all starches.  There are also starchy vegetables as well, such as <a href='/misc/veggies#potato'>potatoes</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and <a href='/misc/veggies#plantain'>plantains</a>.  A starch is a more complex carbohydrate molecule, and consists mainly of glucose.  That's why a slice of <a href='/misc/grains#white-wheat'>white bread</a> will spike your blood sugar more than <a href='/misc/hidden-sugar'>sugar</a>; the bread contains more glucose.  Blood sugar spikes are mitigated by <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>fat</a>.
-<center><img src='/assets/Misc/Nutrition/Carbs/starch (1).png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/rice.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/starch (1).png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/rice.png' alt='' class='smaller-image'>
 <br>
 &emsp;The problem is that all the former starches I listed (<a href='/misc/grains#white-wheat'>bread</a>, <a href='/misc/grains#white-rice'>rice</a>, and <a href='/misc/grains#pasta-white'>pasta</a>) are all refined <a href='/misc/grains#white-wheat'>white</a> grain products, and thus lack and <a href='/misc/fiber'>fiber</a> or micronutrients.  On the other hand, starchy whole foods like <a href='/misc/fruit#sweet-potato'>sweet potatoes</a>, <a href='/misc/fruit'>fruit</a>, and <a href='/misc/beans'>beans</a> are rich in <a href='/misc/fiber'>fiber</a>, making these much healthier <a href='/recipes/sides'>sides</a> to your dinner.
-<center><img src='/assets/Misc/Nutrition/Carbs/fruit.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/potato.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/fruit.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/potato.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'><a href='/misc/hidden-sugar'>Sugar</a></font></u><br>
 &emsp;On the other hand, a <a href='/misc/hidden-sugar'>sugar</a> is a simple carbohydrate.  Table <a href='/misc/hidden-sugar'>sugar</a>, or sucrose, is a molecule that's a bond of 50% glucose and 50% fructose.  Fructose should sound familiar, like <a href='/misc/hidden-sugar'>high frustose corn syrup</a> (HFCS).  Fructose is found in trace amounts in <a href='/misc/fruit'>fruits</a>, but is very high in most liquid sweeteners, such as honey, agave, and maple syrup.  The average American consumes 17 tsp (68 g or 270 <a href='/misc/calories'>calories</a>) of <a href='/misc/hidden-sugar'>added sugar</a> each day.  For reference, the American Heart Association (AHA) recommends no more than 9 tsp per day for men and 6 tsp for women.
-<center><img src='/assets/Misc/Nutrition/Carbs/sugar-free.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/maple-syrup.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/sugar-free.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/maple-syrup.png' alt='' class='smaller-image'>
 <br>
 &emsp;<a href='/misc/hidden-sugar'>Sugar</a> is high in fruit, but these are whole foods containing lots of <a href='/misc/fiber'>fiber</a> and water.  There's no reason to restrict how much fruit you eat.  Be mindful of your dried fruit consumption though, as all the water is removed and sometimes <a href='/misc/hidden-sugar'>sugar</a> is added.  However, when most people think <a href='/misc/hidden-sugar'>sugar</a>, they think desserts, but also be very weary of breakfast cereals, sauces, salad dressing, and snacks, as most of these are loaded with added sugars.  Always read nutrition labels.  Check out <a href='https://deliciousdoor.com/blogs/1/100-hidden-names-for-sugar'>this list</a> of 100+ names for <a href='/misc/hidden-sugar'>sugar</a> you may find in the grocery store trying to hide from you.
-<center><a href='https://www.youtube.com/watch?v=HHe50x6W2nY'><img src='/assets/Misc/Nutrition/Carbs/added-sugars.JPG' alt='' class='larger-image'></a></center>
+<a href='https://www.youtube.com/watch?v=HHe50x6W2nY'><img src='/assets/Misc/Nutrition/Carbs/added-sugars.JPG' alt='' class='larger-image'></a>
 <br>
 <u><font size='+2'>Carbs: Risks</font></u><br>
 &emsp;You body runs on glucose, but most people today consume far too many refined grain products, causing chronically elevated blood sugar levels and increased insulin secretion.  Excess sugars in the body either get stored in the liver (liver <a href='/misc/fats'>fat</a>) or <a href='/misc/fats'>fat</a> cells (weight gain).  This can lead to the following (in alphabetical order):
@@ -63,23 +63,23 @@ tags:
 - PCOS
 - Sugar addiction
 - Weight gain
-<center><img src='/assets/Misc/Nutrition/Carbs/obesity.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/neglect.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/obesity.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/neglect.png' alt='' class='smaller-image'>
 <br>
 &emsp;Additionally, there's no biological process in your body where fructose is required; it's essentially metabolized the same way alcohol is.  This is why we are now seeing alarming rates of fatty liver disease in children, a disease normally only found in alcoholics.  To make matters worse, the difference with HFCS is that the glucose and fructose are free; they are not bonded together.  Meaning that the fructose is more readily "available" to the body, which is what makes HFCS so much worse for you than even white <a href='/misc/hidden-sugar'>sugar</a>.  HFCS is predominantly found in soda, fruit juices, snacks, candies, desserts, and condiments.
-<center><img src='/assets/Misc/Nutrition/Carbs/no-drinks.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/liver.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/no-drinks.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/liver.png' alt='' class='smaller-image'>
 <br>
 &emsp;It's estimated that 180,000 deaths per year are caused by <a href='/misc/hidden-sugar'>added sugar</a> alone.  <a href='/misc/hidden-sugar'>Sugar</a>, corn syrup, whatever you want to call them all share 2 things in common:  they're cheap and addicting.  While sugars are the body's main energy source, you don't need it unless you're expending energy.  This is why most sports drinks have a lot of <a href='/misc/hidden-sugar'>sugar</a> in them.  They're great for after running a marathon, when your body needs to replenish all it's lost energy, but terrible for you when you're just sitting on the couch.
-<center><img src='/assets/Misc/Nutrition/Carbs/skull.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/candy.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/skull.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/candy.png' alt='' class='smaller-image'>
 <br>
 &emsp;An argument for a low <a href='/misc/carbs'>carb</a> diet that you often hear is that <a href='/misc/carbs'>carbs</a> are non-essential.  While there are essential amino acids (proteins) and essential fatty acids (fats), there is no such thing as an essential <a href='/misc/carbs'>carb</a>.  You could survive on a diet with 0 g of <a href='/misc/carbs'>carbs</a>, as your body does not require ingesting any to survive.
-<center><img src='/assets/Misc/Nutrition/Carbs/diabetes.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/heart-disease.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/diabetes.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/heart-disease.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>Carbs: Benefits</font></u><br>
 &emsp;But would you thrive on a diet of no <a href='/misc/carbs'>carbs</a>?  Absolutely not.  You'd survive, sure, but you wouldn't be doing great.  Being deficient in carbohydrates means that your liver won't have enough stores of glycogen.  You'll stuggle to have enough energy to get through the day and exercise properly, as you'll be running the tank on near empty most of the time.  Carbs are also pretty cheap; <a href='/misc/grains#oats'>oats</a>, <a href='/misc/grains#rice'>rice</a>, <a href='/misc/beans'>beans</a>, <a href='/misc/fruit'>fruits</a>, and <a href='/misc/veggies'>vegetables</a> are all inexpensive foods, and great for people on a budget.
-<center><img src='/assets/Misc/Nutrition/Carbs/fuel.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/wallet.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/fuel.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/wallet.png' alt='' class='smaller-image'>
 <br>
 &emsp;Additionally, healthy <a href='/misc/carbs'>carb</a> sources (listed below) are great sources of many micronutrients, particularly vitamin A (carrots and sweet potatoes), <a href='/misc/vitamin-c'>vitamin C</a> (citrus fruits), <a href='/misc/iron'>iron</a> (<a href='/misc/beans'>beans</a> and <a href='/misc/grains#oats'>oats</a>), <a href='/misc/potassium'>potassium</a> (<a href='/misc/fruit#banana'>bananas</a> and sweet potatoes), and <a href='/misc/fiber'>fiber</a> (everything).  While, in isolation, <a href='/misc/hidden-sugar'>sugar</a> from an <a href='/misc/fruit#apple'>apple</a> isn't too different from the <a href='/misc/hidden-sugar'>sugar</a> from a cookie, there are some very key differences.  Added sugars enter the blood stream way faster than whole food sources of <a href='/misc/hidden-sugar'>sugar</a> due to the precense of <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fat</a>, <a href='/misc/fiber'>fiber</a>, and water.  The same grams of <a href='/misc/carbs'>carbs</a> from an <a href='/misc/fruit#apple'>apple</a> will cause a significantly lower rise in your blood sugar as compared to added sugars, even with the same amount of <a href='/misc/calories'>calories</a>.  Whole food <a href='/misc/carbs'>carbs</a> sources also promote satiety, helping you stay full for longer, not overeat, and prevent weight gain.
-<center><img src='/assets/Misc/Nutrition/Carbs/veins.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/energy.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/veins.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/energy.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>High Carb Foods to Avoid or Limit</font></u><br>
 - Breakfast foods:
@@ -91,7 +91,7 @@ tags:
 <br>&emsp;- Oatmeal packets
 <br>&emsp;- Pancakes
 <br>&emsp;- Waffles
-<center><img src='/assets/Misc/Nutrition/Carbs/cereals.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/muffin.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/cereals.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/muffin.png' alt='' class='smaller-image'>
 <br>
 - Desserts:
 <br>&emsp;- Banana bread
@@ -106,7 +106,7 @@ tags:
 <br>&emsp;- Nutella
 <br>&emsp;- Pastries
 <br>&emsp;- Pies
-<center><img src='/assets/Misc/Nutrition/Carbs/cupcake.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/chocolate.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/cupcake.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/chocolate.png' alt='' class='smaller-image'>
 <br>
 - Drinks:
 <br>&emsp;- All <a href='/misc/hidden-sugar'>sugar</a> sweetened beverages
@@ -117,7 +117,7 @@ tags:
 <br>&emsp;- Soda
 <br>&emsp;- Sweetened coffee
 <br>&emsp;- Sweetened milks
-<center><img src='/assets/Misc/Nutrition/Carbs/iced-coffee.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/soda.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/iced-coffee.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/soda.png' alt='' class='smaller-image'>
 <br>
 - Savory snacks:
 <br>&emsp;- Banana chips
@@ -128,7 +128,7 @@ tags:
 <br>&emsp;- Pretzels
 <br>&emsp;- Tortilla chips
 <br>&emsp;- Veggie straws
-<center><img src='/assets/Misc/Nutrition/Carbs/potato-chips.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/pretzels.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/potato-chips.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/pretzels.png' alt='' class='smaller-image'>
 <br>
 - Sugars (granulated):
 <br>&emsp;- Beet sugar
@@ -145,7 +145,7 @@ tags:
 <br>&emsp;- Maltose
 <br>&emsp;- Powdered sugar
 <br>&emsp;- White <a href='/misc/hidden-sugar'>sugar</a>
-<center><img src='/assets/Misc/Nutrition/Carbs/sugar.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/sugar-cubes.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/sugar.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/sugar-cubes.png' alt='' class='smaller-image'>
 <br>
 - Sugars (liquid):
 <br>&emsp;- Agave syrup
@@ -158,7 +158,7 @@ tags:
 <br>&emsp;- Maple syrup
 <br>&emsp;- Molasses
 <br>&emsp;- Nectar
-<center><img src='/assets/Misc/Nutrition/Carbs/corn-syrup.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/honey.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/corn-syrup.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/honey.png' alt='' class='smaller-image'>
 <br>
 - Sweet snacks:
 <br>&emsp;- Candy
@@ -167,7 +167,7 @@ tags:
 <br>&emsp;- Granola bars
 <br>&emsp;- Jam and jelly
 <br>&emsp;- Trail mix
-<center><img src='/assets/Misc/Nutrition/Carbs/sweets.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/bar.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/sweets.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/bar.png' alt='' class='smaller-image'>
 <br>
 - White starches:
 <br>&emsp;- <a href='/misc/grains#white-wheat'>All purpose flour</a>
@@ -176,7 +176,7 @@ tags:
 <br>&emsp;- <a href='/misc/grains#pasta-white'>Pasta</a>
 <br>&emsp;- <a href='/misc/grains#white-rice'>Rice</a>
 <br>&emsp;- Tortillas
-<center><img src='/assets/Misc/Nutrition/Carbs/bread.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/pasta.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/bread.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/pasta.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>High Carb Foods to Moderate or Consume Often</font></u><br>
 - <a href='/misc/fruit'>Fruits</a>:
@@ -196,7 +196,7 @@ tags:
 <br>&emsp;- <a href='/misc/fruit#raspberry'>Raspberries</a>
 <br>&emsp;- <a href='/misc/fruit#strawberries'>Strawberries</a>
 <br>&emsp;- <a href='/misc/fruit#watermelon'>Watermelon</a>
-<center><img src='/assets/Misc/Nutrition/Carbs/apple.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/watermelon.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/apple.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/watermelon.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/beans'>Legumes</a>:
 <br>&emsp;- <a href='/misc/beans#black-beans'>Black beans</a>
@@ -206,7 +206,7 @@ tags:
 <br>&emsp;- <a href='/misc/beans#pinto-beans'>Pinto beans</a>
 <br>&emsp;- <a href='/misc/beans#red-lentils'>Red lentils</a>
 <br>&emsp;- <a href='/misc/beans#soybeans'>Soy beans</a>
-<center><img src='/assets/Misc/Nutrition/Carbs/beans.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/soy.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/beans.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/soy.png' alt='' class='smaller-image'>
 <br>
 - Starchy <a href='/misc/veggies'>Vegetables</a>:
 <br>&emsp;- <a href='/misc/veggies#acorn-squash'>Acorn squash</a>
@@ -219,7 +219,7 @@ tags:
 <br>&emsp;- <a href='/misc/veggies#potato'>Potatoes</a>
 <br>&emsp;- <a href='/misc/veggies#spaghetti-squash'>Spaghetti squash</a>
 <br>&emsp;- <a href='/misc/veggies#sweet-potato'>Sweet potatoes</a>
-<center><img src='/assets/Misc/Nutrition/Carbs/corn.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/potatoes.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/corn.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/potatoes.png' alt='' class='smaller-image'>
 <br>
 - Whole <a href='/misc/grains'>grains</a>:
 <br>&emsp;- <a href='/misc/grains#amaranth'>Amaranth</a>
@@ -230,7 +230,7 @@ tags:
 <br>&emsp;- <a href='/misc/grains#oats'>Oats</a>
 <br>&emsp;- <a href='/misc/grains#quinoa'>Quinoa</a>
 <br>&emsp;- <a href='/misc/grains#whole-wheat'>Whole wheat</a>
-<center><img src='/assets/Misc/Nutrition/Carbs/rye.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/whole-grain.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Carbs/rye.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Carbs/whole-grain.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>Sources</font></u><br>
 1. <a href='https://www.flaticon.com/'>Flaticon</a>

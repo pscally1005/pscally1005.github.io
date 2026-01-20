@@ -51,7 +51,7 @@ tags:
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a>
 
 <u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -59,7 +59,7 @@ tags:
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a>
 <u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
@@ -80,7 +80,7 @@ tags:
 * <a rel='' target='' href='#banana-bread'>Banana Bread</a><br>
 * <a rel='' target='' href='#chocolate'>Dark Chocolate</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
+<br><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a>
 
 <div id='granola' class='table-of-contents'></div>
 <br><i><font size='+2'>Granola Bars</font></i><br>
@@ -105,7 +105,7 @@ tags:
 <br><i><font size='+2'>Nuts</font></i><br>
 &emsp;Nuts, just like <a href='/misc/grains#oats'>oats</a>, can be a very healthful addition to your diet, or they can be the end of it, depending upon how they're prepared and consumed.  <a href='/misc/nuts'>Nuts</a> are rich in antioxidants, healthy <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet#S'>selenium</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, and contain a fair bit of <a href='/misc/protein'>protein</a>.  They can also help in raising your HDL.  The problem is that <a href='/misc/nuts'>nuts</a> are insanely calorically dense (similar to <a rel='' target='' href='#chocolate'>real dark chocolate</a>).  They're very high in <a href='/misc/fats'>fat</a>, where just a 1 oz (28 g) serving contains about 160 <a href='/misc/calories'>calories</a>.  <a href='/misc/calories'>Calories</a> aren't everything, and <a href='/misc/fats'>fat</a> is essential for you, but just don't overdo it on <a href='/misc/nuts'>nuts</a> (as I tend do to).
 
-<center><a href='https://www.thewellnesscorner.com/blog/side-effects-of-overeating-dry-fruits'><img src='/assets/Misc/Nutrition/Trap/nuts-calories.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.thewellnesscorner.com/blog/side-effects-of-overeating-dry-fruits'><img src='/assets/Misc/Nutrition/Trap/nuts-calories.jpg' alt='' class='larger-image'></a>
 &emsp;Additionally, make sure to get plain <a href='/misc/nuts'>nuts</a>.  Ideally, your <a href='/misc/nuts'>nuts</a> are dry roasted; either unsalted or lightly salted are okay depending on your tastes and salt intake.  Just stay away from flavored <a href='/misc/nuts'>nuts</a>, like <a href='https://amzn.to/4kz2KkA'>honey roasted peanuts</a> or <a href='https://amzn.to/4jr6KTs'>candied pecans</a>.  These contain lots of added sugars, unhealthy oils, and unnecessary ingredients.  Even <a href='https://amzn.to/4kKUfmJ'>regularly salted <a href='/misc/nuts'>nuts</a></a> tend to contain a paragraph of ingredients.  Stick to just <a href='/misc/nuts'>nuts</a> and salt, and always weigh out your serving of <a href='/misc/nuts'>nuts</a>.  Any more than a handful is probably too much.
 
 <div id='dried-fruit' class='table-of-contents'></div>
@@ -119,7 +119,7 @@ tags:
 <br><i><font size='+2'>Yogurt</font></i><br>
 &emsp;Yogurt, just like <a rel='' target='' href='#trap-foods-drinks#skim-milk'>milk</a> has the same deceptions.  It offers low <a href='/misc/fats'>fat</a> "healthier" varieties that are pumped full of <a href='/misc/hidden-sugar'>added sugar</a>, and are way worse for you than their original full <a href='/misc/fats'>fat</a> counterparts.  Just like with milk, the low or no <a href='/misc/fats'>fat</a> options can also be healthy, as long as they are plain.  For me, <a href='https://amzn.to/43OPqTw'>Plain Nonfat Greek Yogurt</a> is the king of all dairy products.  Just 1 serving (2/3 cup, 170 g) contains 17 g of <a href='/misc/protein'>protein</a>, no <a href='/misc/fats'>fat</a>, no <a href='/misc/hidden-sugar'>added sugar</a>, and just 100 <a href='/misc/calories'>calories</a>.  Greek <a href='/misc/dairy#yogurt'>yogurt</a> is also a fantastic source of both <a href='/misc/calcium'>calcium</a> and <a href='/misc/vitamin-b12'>vitamin B12</a>, where 1 serving has 15% and 53% of your daily value, respectively.  I opt for the nonfat version, as I don't taste a difference between that and the full <a href='/misc/fats'>fat</a> variety, so I'll instead get my <a href='/misc/fats'>fat</a> from other sources, like <a rel='' target='' href='/misc/trap-foods-snacks#nuts'>nuts</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, or natural <a rel='' target='' href='/misc/trap-foods-sweet-spreads#peanut-butter'>nut butter</a>.
 
-<center><a href='https://feedthemwisely.com/added-sugar-in-flavored-yogurt'><img src='/assets/Misc/Nutrition/Trap/yogurt-sugar.jpg' alt='' class='larger-image'></a></center>
+<a href='https://feedthemwisely.com/added-sugar-in-flavored-yogurt'><img src='/assets/Misc/Nutrition/Trap/yogurt-sugar.jpg' alt='' class='larger-image'></a>
 &emsp;Things start to get worse when you look at flavored yogurt, where <a href='https://amzn.to/4dz5SdQ'>Vanilla Nonfat Greek Yogurt</a> contains 13 g of <a href='/misc/hidden-sugar'>added sugar</a> (remeber, that's up from 0 g), and less <a href='/misc/protein'>protein</a> (14 g instead of 17 g).  Don't be fooled by the fruit flavors either, even the ones with fruit chunks in them.  These contain just as much <a href='/misc/hidden-sugar'>added sugar</a> as the vanilla, if not more.  I used to eat the single serving fruit cup yogurts (like <a href='https://amzn.to/4mA1kIo'>this one</a>) every day in high school, until it started to hurt my teeth to eat it.  Only then did I flip it over and notice how much <a href='/misc/hidden-sugar'>sugar</a> was loaded into these small "healthy" cups.  Stick to plain, and add your own fruit and additional sweetner if desired.
 
 <img src='/assets/Misc/Nutrition/Trap/vanilla-yogurt.jpg' alt='' class='larger-image'>
@@ -146,14 +146,14 @@ tags:
 <img src='/assets/Misc/Nutrition/Trap/chips.jpg' alt='' class='larger-image'>
 &emsp;There are variations of chips that are marketed as being healthy though.  These include veggie straws, <a href='/misc/veggies#plantain'>plantain</a> chips, and banana chips.  Starting with <a href='https://amzn.to/3Z4zPww'>Veggie Straws</a>, these are just potato shapes in a different shape, with a tiny bit of dehydrated vegetable.  They're basically the potato chip version of <a href='https://amzn.to/43zJHQ7'>Tri-Color Rotini Pasta</a>; just a fun different color, no more, no less.
 
-<center><a href='https://transformpersonaltraining.com/its-not-your-fault/'><img src='/assets/Misc/Nutrition/Trap/chips-vs-veggies.jpg' alt='' class='larger-image'></a></center>
+<a href='https://transformpersonaltraining.com/its-not-your-fault/'><img src='/assets/Misc/Nutrition/Trap/chips-vs-veggies.jpg' alt='' class='larger-image'></a>
 &emsp;Next up is <a href='https://amzn.to/4jqKAke'>Plantain Chips</a>.  Instead of deepfrying potatoes to make potato chips, these are just deepfried <a href='/misc/veggies#plantain'>plantains</a>.  It's a starchy vegetable (good) fried in vegetable oil (bad).  Both <a rel='' targer='' href='/misc/trap-foods-produce#potatoes'>potatoes</a> and <a href='/misc/veggies#plantain'>plantains</a> are healthy on their own, but can be turned into junk food when prepared like so.  Now replace the plantians with <a href='/misc/fruit#banana'>bananas</a>, add a little bit of <a href='/misc/hidden-sugar'>sugar</a>, and you end up with <a href='https://amzn.to/3T1O4yw'>banana chips</a>.  These tend to use coconut oil at least, but that's a mild improvement.  If you can, make them yourself, or just eat the whole fruit/vegetable.
 
 <div id='popcorn' class='table-of-contents'></div>
 <br><i><font size='+2'>Popcorn</font></i><br>
 &emsp;This one might actually be the opposite of the others on this list.  Most people would associate <a href='/misc/grains#popcorn'>popcorn</a> with being junk food, eaten with a ton of butter alongside a candy at the movies.  But <a href='/misc/grains#popcorn'>popcorn</a> can actually be a relatively healthy snack with a lot of volume if prepared correctly.  Just 3 tbsp (40 g) of unpopped kernels turns into a whopping 7.5 cups when cooked.  I've never been a personal fan of <a href='/misc/grains#popcorn'>popcorn</a> (it always gets stuck in my teeth), but I've heard that <a href='https://amzn.to/3FuKGcz'>plain popcorn</a> with some nutritional yeast or other spices can make for a very satisfying snack.  Yes it's essentially all <a href='/misc/carbs'>carbs</a> with a mediocre amount of <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>, but a full serving actually looks like a lot of food since it's mostly air.  Just make sure to get plain <a href='/misc/grains#popcorn'>popcorn</a> kernels like the one linked above and shown below.
 
-<center><img src='/assets/Misc/Nutrition/Trap/<a href='/misc/grains#popcorn'>popcorn</a>.jpg' alt='' class='larger-image'></center>
+<img src='/assets/Misc/Nutrition/Trap/<a href='/misc/grains#popcorn'>popcorn</a>.jpg' alt='' class='larger-image'>
 &emsp;Just stay away from the <a href='https://amzn.to/3T1O5T6'>microwaveable bags of popcorn</a>.  These have a lot of salt, <a href='/misc/fats'>fat</a> (palm or vegetable oils), and preservatives.  Additionally, the packaging for microwave <a href='/misc/grains#popcorn'>popcorn</a> contains PFAS, or forever chemicals, which are linked to many negative health outcomes including cancer and lung problems.
 
 <div id='diets' class='table-of-contents'></div>
@@ -163,13 +163,13 @@ tags:
 <img src='/assets/Misc/Nutrition/Trap/keto.jpg' alt='' class='larger-image'>
 &emsp;First up is keto.  For those living under a rock, a ketogenic, or keto diet is extremely low <a href='/misc/carbs'>carb</a> and high <a href='/misc/fats'>fat</a>.  This means a lot of oil, <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/nuts'>nuts</a>, and fatty <a href='/misc/fish'>fish</a> (ooh sounds good), and no high <a href='/misc/carbs'>carb</a> foods like <a href='/misc/grains#white-wheat'>bread</a>, <a href='/misc/grains#white-rice'>rice</a>, <a href='/misc/grains#pasta-white'>pasta</a>, or even <a href='/misc/beans'>beans</a> (whelp nevermind).  Keto is the hot and trendy diet right now, with snacks such as <a href='https://amzn.to/4dDtsq5'>cookies</a>, <a href='https://amzn.to/3HhRxGM'>brownie mix</a>, <a href='https://amzn.to/4dWNwnD'>chips</a>, and more hitting the store shelves.  These are similar to their original counterparts, with just all the <a href='/misc/carbs'>carbs</a> removed.  Mainly, they use stevia or erythritol instead of <a href='/misc/hidden-sugar'>sugar</a>, and almond flour instead of wheat or corn.  While maybe being margianlly healthier, these snacks are still ultraprocessed, containing a laundry list of ingredients, with a lot of hydroginated oils, salt, and preservatives.
 
-<center><a href='https://www.arespectfullife.com/2017/05/28/vegan-junk-food/'><img src='/assets/Misc/Nutrition/Trap/vegan.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.arespectfullife.com/2017/05/28/vegan-junk-food/'><img src='/assets/Misc/Nutrition/Trap/vegan.jpg' alt='' class='larger-image'></a>
 &emsp;Many people have the false notion that vegan = healthy.  But you can be very unhealthy on a vegan diet, or very healthy on an omnivorous diet.  Not eating animal products does not directly correlate to better health; eating more whole foods does (which vegans tend to do, so that's a plus).  You know what else is vegan though: <a href='https://amzn.to/45vgvwl'>Oreo's</a>, <a href='https://amzn.to/43Cg0Ou'>Coca-Cola</a>, and <a href='https://amzn.to/4dztlLY'>Sour Patch Kids</a>.  I think you get my point.  Even the supposedly healthier snacks (like these <a href='https://amzn.to/45vif8R'>Nature's Bakery</a> bars) are just expensive and fancy looking versions of the original products, and are at best only marginally better for you.
 
 <img src='/assets/Misc/Nutrition/Trap/gf.jpg' alt='' class='larger-image'>
 &emsp;At least (most) people have a good reason for following a strict <a href='/misc/celiac'>gluten free</a> diet, with that being <a href='/misc/celiac'>Celiac</a> disease.  <a href='/misc/celiac'>Gluten</a> comes from <a href='/misc/grains'>grains</a> such as <a href='/misc/grains#barley'>barley</a>, <a href='/misc/grains#rye'>rye</a>, and of course wheat.  It would be assumed then that a <a href='/misc/celiac'>gluten free</a> diet would be healthier then, omitting all sources of flour, thus eliminating any ultraprocessed "foods" containing it.  But there's still plenty of junk food that's naturally <a href='/misc/celiac'>gluten free</a> (pretty much all <a rel='' target='' href='#chips'>chips</a> are), and some specifically made to be <a href='/misc/celiac'>gluten free</a>.  You can still get <a href='/misc/celiac'>gluten free</a> cookies like <a href='https://amzn.to/45viUal'>Oreo's</a> and <a href='https://amzn.to/43B8mUK'>Tate's</a>.  Fine treats to have on occasion (everything in moderation, remember), but don't fool yourself into thinking it's healthier because it contains no <a href='/misc/celiac'>gluten</a>.
 
-<center><a href='https://www.dietvsdisease.org/17-diet-and-nutrition-memes-to-share-with-your-fact-denying-friends/'><img src='/assets/Misc/Nutrition/Trap/organic.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.dietvsdisease.org/17-diet-and-nutrition-memes-to-share-with-your-fact-denying-friends/'><img src='/assets/Misc/Nutrition/Trap/organic.jpg' alt='' class='larger-image'></a>
 &emsp;Finally, and probably worst of all, we have organic.  Why is organic the worst?  Because it's the most ambiguous.  All the other categories above (keto, vegan, and <a href='/misc/celiac'>gluten free</a>) have hard set criteria for what is and isn't allowed.  Organic though: can anyone actually define what that means?  Why do <a href='https://amzn.to/45xcJCB'>Doritos</a> and <a href='https://amzn.to/43xYHhA'>Tostitos</a> make organic chips?  What are you really doing here lmao.
 
 <div id='protein' class='table-of-contents'></div>
@@ -197,7 +197,7 @@ tags:
 &emsp;- <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a> with toasted <a href='/misc/grains#oats'>oats</a><br>
 &emsp;- <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> with pumpkin seeds<br>
 
-<center><a href='/recipes/natural-peanut-butter'><img src='/assets/Food/Sweet Spreads/PB/pb-cover.jpg' alt='' class='larger-image'></a></center>
+<a href='/recipes/natural-peanut-butter'><img src='/assets/Food/Sweet Spreads/PB/pb-cover.jpg' alt='' class='larger-image'></a>
 <div id='hummus' class='table-of-contents'></div>
 &emsp;You can make them savory too; sometimes I mix some plain nonfat greek yogurt or <a href='/recipes/guacamole'>Holy Guacamole</a> with some spices, and top with sliced <a href='/misc/veggies#tomato'>tomatoes</a>, <a href='/misc/veggies#celery'>cucumber</a>, or any other fresh produce in my fridge at the time.  Or you can just simply spread on some hummus.  Here are my homemade hummus recipes:<br>
 &emsp;- <a href='/recipes/classic-tahini-hummus'>Classic Tahini Hummus</a><br>

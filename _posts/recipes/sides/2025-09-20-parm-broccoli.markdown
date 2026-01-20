@@ -58,5 +58,5 @@ Instructions:
 - Roast at 425F for about 30 minutes, or until browned to your liking
 
 - Today I'm having my parmesan broccoli as a side to some homemade haggis.  Check out my recipe, <a href='/recipes/haggis'>My Take on Haggis</a> for a version featuring <a href='/misc/meat#liver'>beef liver</a>, <a href='/misc/meat#ground-beef'>ground beef</a>, <a href='/misc/veggies#onion'>onions</a>, and <a href='/misc/grains#oats'>rolled oats</a>
-- <center><a href='/recipes/haggis'><img src='/assets/Food/Ground Meat/Haggis/plate.jpg' alt='' class='instruction-image'></a></center>
+- <a href='/recipes/haggis'><img src='/assets/Food/Ground Meat/Haggis/plate.jpg' alt='' class='instruction-image'></a>
 ---

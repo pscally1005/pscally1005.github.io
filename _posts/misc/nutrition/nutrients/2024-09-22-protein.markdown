@@ -16,7 +16,7 @@ tags:
 ---
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;Ah protein.  The thing that most normal people aren't talking about, but the one that people interested in health and wellness can't shut up about (myself included lol).  Protein is the third and final macronutrient that I will be discussing, and I've saved the most important for last.  Check out my other 2 micronutrient analyses: <a href='/misc/fats'>Fat: The Innocent Criminal?</a> and <a href='/misc/carbs'>Carbs: The Devil in Disguise?</a>.
-<center><img src='/assets/Misc/Nutrition/Protein/arm-muscle.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/protein (1).png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/arm-muscle.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/protein (1).png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>Why is Protein so Important?</font></u><br>
 &emsp;Protein is made up of what's known as amino acids.  There are 20 amino acids, 9 of which are essential.  "Essential" means that the body does not create them on its own.  Therefore, you must consume these 9 amino acids in order to survive and thrive.  The other 11 are considered "nonessential".  You still need them to survive, but they can be created by your body itself.  Here are the 9 essential amino acids, along with 3 key roles that each one plays in your body:
@@ -56,10 +56,10 @@ tags:
 <br>&emsp;- Aid in muscle regeneration
 <br>&emsp;- Energy production
 <br>&emsp;- Stimulate muscle growth
-<center><img src='/assets/Misc/Nutrition/Protein/proteins.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/protein (2).png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/proteins.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/protein (2).png' alt='' class='smaller-image'>
 <br>
 &emsp;Any food containing all 9 of these amino acids is considered to be a "complete protein".  Amounts of each amino acid do vary from food to food, but there is at least a significant source of all 9 amino acids available in a complete protein.  All animal based products are complete protein sources, such as <a href='/misc/meat'>meat</a>, <a href='/misc/fish'>fish</a>, <a href='/misc/meat#eggs'>eggs</a>, and <a href='/misc/dairy'>dairy</a>.  There are some plant foods that are complete proteins, such as <a href='/misc/beans#tofu'>tofu</a> and <a href='/misc/grains#quinoa'>quinoa</a>; however, for the most part plant proteins are "incomplete proteins", meaning they lack 1 or more essential amino acids.  Not all proteins are created equal.
-<center><img src='/assets/Misc/Nutrition/Protein/cow.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/protein-powder.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/cow.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/protein-powder.png' alt='' class='smaller-image'>
 <br>
 &emsp;Proteins are the building blocks for your body.  Your body breaks down proteins into their amino acids, and uses them to perform most bodily functions.  Protein isn't just used for muscle growth; protein plays a vital role in all of the following:
 - Energy production and hormone regulation
@@ -70,7 +70,7 @@ tags:
 - Reduced soreness and fatigue
 - Transportation of oxygen, <a href='/misc/cholesterol'>cholesterol</a>, and glucose throughout the body
 - Wound healing and immune health
-<center><img src='/assets/Misc/Nutrition/Protein/red-blood-cells.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/gastroenterology.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/red-blood-cells.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/gastroenterology.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>Other Benefits of Protein</font></u><br>
 &emsp;Protein is arguably the most important nutrient, and for good reason.  A proper protein intake is linked with all of the following health benefits:
@@ -92,34 +92,34 @@ tags:
 - Slow down aging
 - Support bone health
 - Wound healing
-<center><img src='/assets/Misc/Nutrition/Protein/health.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/good-mood.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/health.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/good-mood.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>How Much to Consume?</font></u><br>
 &emsp;Protein is one of the 3 main macronutrients, along with <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>.  1 gram of protein supplies about 4 <a href='/misc/calories'>calories</a>, as opposed to 9 <a href='/misc/calories'>calories</a> for <a href='/misc/fats'>fat</a> and 4 <a href='/misc/calories'>calories</a> for carbohydrates.  A standard nutrition label sets 50 g of protein as 100% DV, but realistically you should be consuming much more than this, as this measurement is purely to prevent deficiencies.  Ideally, you consume somewhere between 0.7 g and 1.0 g of protein per pound of body weight.  For example, if you weight 150 pounds, you should aim to consume anywhere between 105 g and 150 g of protein every day to maintain optimal skeletal function and promote muscle growth.
-<center><img src='/assets/Misc/Nutrition/Protein/strong.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/skeleton.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/strong.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/skeleton.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>What Kind to Consume?</font></u><br>
 &emsp;Unlike <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>, there are really no "bad" protein sources, though some are better than others.  As mentioned above, animal protein sources are almost always better, as not only are they complete proteins, but the protein itself is more bioavailable.  With animal proteins, the main thing you would want to watch out for is <a href='/misc/fats'>fat</a> content or the context in which the <a href='/misc/meat'>meat</a> is served, such as being fried or served on bread.
-<center><img src='/assets/Misc/Nutrition/Protein/turkey.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/polyunsaturated-fat.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/turkey.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/polyunsaturated-fat.png' alt='' class='smaller-image'>
 <br>
 &emsp;Plant proteins on the other hand mostly lack all 9 essential amino acids, while also being less bioavailable.  For example,  <a href='https://en.wikipedia.org/wiki/Digestible_Indispensable_Amino_Acid_Score'>DIAAS</a> (Digestible Indispensable Amino Acid Score) is a measure of the quality of a given protein, ranging from 0 to 1.  Whereas animal based sources all score at 1.00 (or higher), most plant protein sources fail to reach this.  1 gram of <a href='/misc/meat#ground-beef'>beef</a> protein is equivalent to only about 0.6 g of protein from <a href='/misc/beans'>beans</a> or 0.4 g of protein from bread.
-<center><img src='/assets/Misc/Nutrition/Protein/plant.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/bread.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/plant.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/bread.png' alt='' class='smaller-image'>
 <br>
 &emsp;I also want to quickly talk about protein powders.  The most common protein powder is <a href='/misc/dairy#whey'>whey</a>, but <a href='/misc/dairy#casein'>casein</a> is popular as well.  These are the 2 milk proteins, and are thus complete protein sources.  Vegetarian protein powders on the market are often made from <a href='/misc/beans#soybeans'>soy</a>, <a href='/misc/veggies#pea'>peas</a>, <a href='/misc/grains#brown-rice'>rice</a>, or <a href='/misc/nuts#peanuts'>peanuts</a>, where some of these are not complete proteins.
-<center><img src='/assets/Misc/Nutrition/Protein/protein-shake.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/protein (3).png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/protein-shake.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/protein (3).png' alt='' class='smaller-image'>
 <br>
 &emsp;Remember that protein powders are supplements afterall.  Protein powder should not be your main source of protein; rather, they should be supplemental, and provide more when needed.  I consume protein powder almost every day, but I always try to get my protein from whole food sources first.  I have plenty of <a href='/recipes/breakfast'>breakfast recipes</a> and <a href='/recipes/protein-powder'>protein powder desserts</a> using protein powder to help you hit your daily protein goals.  There's more to protein powder than just <a href='/recipes/electrolyte-protein-shake'>protein shakes</a>.
-<center><img src='/assets/Misc/Nutrition/Protein/nutrient.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/nutritional-drink.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/nutrient.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/nutritional-drink.png' alt='' class='smaller-image'>
 <br>
 &emsp;Check out one of my previous posts <a href='/misc/protein-source'>What is the Best Protein Source</a>, where I broke down over 60 high protein foods, and ranked them according to their price and bioavailability.
-<center><img src='/assets/Misc/Nutrition/Protein/wallet.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/ranking.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/wallet.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/ranking.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>High Protein Foods to Avoid or Limit</font></u><br>
 - Fatty <a href='/misc/meat'>meats</a>:
 <br>&emsp;- 80% lean ground beef or turkey
 <br>&emsp;- Fatty cuts of steak or pork
 <br>&emsp;- Skin on chicken <a href='/misc/meat#chicken-thighs'>thighs</a>
-<center><img src='/assets/Misc/Nutrition/Protein/sirloin-steak.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/ham.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/sirloin-steak.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/ham.png' alt='' class='smaller-image'>
 <br>
 - Fried foods:
 <br>&emsp;- Chicken fingers and nuggets
@@ -133,7 +133,7 @@ tags:
 <br>&emsp;- Fried chicken
 <br>&emsp;- General Tso's chicken
 <br>&emsp;- Kung Pao chicken
-<center><img src='/assets/Misc/Nutrition/Protein/chicken.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/corn-dog.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/chicken.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/corn-dog.png' alt='' class='smaller-image'>
 <br>
 - Meat dishes:
 <br>&emsp;- Burritos
@@ -146,7 +146,7 @@ tags:
 <br>&emsp;- Ribs
 <br>&emsp;- Sandwiches
 <br>&emsp;- Wraps
-<center><img src='/assets/Misc/Nutrition/Protein/burger.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/lasagna.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/burger.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/lasagna.png' alt='' class='smaller-image'>
 <br>
 - Processed meats:
 <br>&emsp;- <a href='/misc/meat#bacon'>Bacon</a>
@@ -155,7 +155,7 @@ tags:
 <br>&emsp;- <a href='/misc/meat#pepperoni'>Pepperoni</a>
 <br>&emsp;- <a href='/misc/meat#salami'>Salami</a>
 <br>&emsp;- <a href='/misc/meat#sausage'>Sausage</a>
-<center><img src='/assets/Misc/Nutrition/Protein/sausage.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/bacon-strips.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/sausage.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/bacon-strips.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>High Protein Foods to Moderate or Consume Often</font></u><br>
 - <a href='/misc/dairy'>Dairy</a>:
@@ -166,12 +166,12 @@ tags:
 <br>&emsp;- Low moisture, part skim, shredded <a href='/misc/dairy#mozzarella'>mozzarella</a>
 <br>&emsp;- <a href='/misc/dairy#skim-milk'>Milk</a> (any <a href='/misc/fats'>fat</a> %)
 <br>&emsp;- <a href='/misc/dairy#whey'>Whey protein powder</a>
-<center><img src='/assets/Misc/Nutrition/Protein/yogurt.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/whey-protein.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/yogurt.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/whey-protein.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/meat#eggs'>Eggs</a>:
 <br>&emsp;- <a href='/misc/meat#egg-whites'>Egg whites</a>
 <br>&emsp;- <a href='/misc/meat#eggs'>Whole eggs</a>
-<center><img src='/assets/Misc/Nutrition/Protein/fried-egg.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/eggs.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/fried-egg.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/eggs.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/fish'>Fish</a> (canned)
 <br>&emsp;- <a href='/misc/fish#anchovy'>Anchovies</a>
@@ -180,7 +180,7 @@ tags:
 <br>&emsp;- <a href='/misc/fish#salmon'>Salmon</a>
 <br>&emsp;- <a href='/misc/fish#sardine'>Sardines</a>
 <br>&emsp;- <a href='/misc/fish#tuna'>Tuna</a>
-<center><img src='/assets/Misc/Nutrition/Protein/canned-food.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/sardines.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/canned-food.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/sardines.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/fish'>Fish</a> (fresh)
 <br>&emsp;- <a href='/misc/fish#clam'>Clams</a>
@@ -194,7 +194,7 @@ tags:
 <br>&emsp;- <a href='/misc/fish#shrimp'>Shrimp</a>
 <br>&emsp;- <a href='/misc/fish#tuna'>Tuna</a>
 <br>&emsp;- <a href='/misc/fish#tilapia'>Tilapia</a>
-<center><img src='/assets/Misc/Nutrition/Protein/fish.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/shrimp.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/fish.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/shrimp.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/grains'>Grains</a>:
 <br>&emsp;- <a href='/misc/grains#amaranth'>Amaranth</a>
@@ -203,7 +203,7 @@ tags:
 <br>&emsp;- <a href='/misc/grains#oats'>Oats</a>
 <br>&emsp;- <a href='/misc/grains#quinoa'>Quinoa</a>
 <br>&emsp;- <a href='/misc/grains#vital-wheat-gluten'>Vital wheat gluten</a> (seitan)
-<center><img src='/assets/Misc/Nutrition/Protein/oats.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/quinoa.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/oats.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/quinoa.png' alt='' class='smaller-image'>
 <br>
 - Lean <a href='/misc/meat'>Meats</a>:
 <br>&emsp;- 93% lean <a href='/misc/meat#ground-beef'>ground beef</a> or <a href='/misc/meat#ground-turkey'>turkey</a>
@@ -213,7 +213,7 @@ tags:
 <br>&emsp;- <a href='/misc/meat#chicken-thighs'>Skinless chicken thighs</a>
 <br>&emsp;- <a href='/misc/meat#turkey-breast'>Turkey breast</a>
 <br>&emsp;- <a href='/misc/meat#venison'>Venison</a>
-<center><img src='/assets/Misc/Nutrition/Protein/chicken-breast.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/meat.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/chicken-breast.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/meat.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/beans'>Legumes</a> (canned or dried):
 <br>&emsp;- <a href='/misc/beans#black-beans'>Black beans</a>
@@ -226,7 +226,7 @@ tags:
 <br>&emsp;- <a href='/misc/beans#red-lentils'>Red lentils</a>
 <br>&emsp;- <a href='/misc/beans#soybeans'>Soybeans</a>
 <br>&emsp;- <a href='/misc/beans#tofu'>Tofu</a>
-<center><img src='/assets/Misc/Nutrition/Protein/red-beans.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/soy.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/red-beans.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/soy.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/nuts'>Nuts</a>:
 <br>&emsp;- <a href='/misc/nuts#almonds'>Almonds</a>
@@ -240,7 +240,7 @@ tags:
 <br>&emsp;- <a href='/misc/nuts#pine-nuts'>Pine nuts</a>
 <br>&emsp;- <a href='/misc/nuts#pistachios'>Pistachios</a>
 <br>&emsp;- <a href='/misc/nuts#walnuts'>Walnuts</a>
-<center><img src='/assets/Misc/Nutrition/Protein/nuts.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/peanut-butter.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/nuts.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/peanut-butter.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/seeds'>Seeds</a>:
 <br>&emsp;- <a href='/misc/seeds#chia-seeds'>Chia seeds</a>
@@ -249,13 +249,13 @@ tags:
 <br>&emsp;- <a href='/recipes/natural-peanut-butter'>Natural seed butters</a>
 <br>&emsp;- <a href='/misc/seeds#pumpkin-seeds'>Pumpkin seeds</a>
 <br>&emsp;- <a href='/misc/seeds#sunflower-seeds'>Sunflower seeds</a>
-<center><img src='/assets/Misc/Nutrition/Protein/sesame.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/seeds.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/sesame.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/seeds.png' alt='' class='smaller-image'>
 <br>
 - <a href='/misc/veggies'>Vegetables</a>:
 <br>&emsp;- <a href='/misc/beans#edamame'>Edamame</a>
 <br>&emsp;- <a href='/misc/grains#corn'>Corn</a>
 <br>&emsp;- <a href='/misc/veggies#pea'>Peas</a>
-<center><img src='/assets/Misc/Nutrition/Protein/peas.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/edamame.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Nutrition/Protein/peas.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Protein/edamame.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>Sources</font></u><br>
 1. <a href='https://www.flaticon.com/'>Flaticon</a>

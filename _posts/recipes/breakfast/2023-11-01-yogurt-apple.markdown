@@ -65,7 +65,7 @@ Notes:
     <li><a href='/recipes/yogurt-pbj'>Peanut Butter & Jelly Yogurt Bowl</a></li>
     <li><a href='/recipes/yogurt-banana'>Peanut Butter Banana Yogurt Bowl</a></li>
   </ul>
-- <center><a href='/recipes/yogurt-choc'><img src='/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg' alt='' class='instruction-image'></a></center>
-- <center><a href='/recipes/yogurt-pbj'><img src='/assets/Food/Breakfast/Yogurt/yogurt-pbj-new.jpg' alt='' class='instruction-image'></a></center>
-- <center><a href='/recipes/yogurt-banana'><img src='/assets/Food/Breakfast/Yogurt/yogurt-banana.jpg' alt='' class='instruction-image'></a></center><hr>
+- <a href='/recipes/yogurt-choc'><img src='/assets/Food/Breakfast/Yogurt/yogurt-choc.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/yogurt-pbj'><img src='/assets/Food/Breakfast/Yogurt/yogurt-pbj-new.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/yogurt-banana'><img src='/assets/Food/Breakfast/Yogurt/yogurt-banana.jpg' alt='' class='instruction-image'></a><hr>
 ---

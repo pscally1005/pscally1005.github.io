@@ -78,8 +78,8 @@ Notes:
 - <img src='/assets/Food/Chicken/Shredded/jars.jpg' alt='' class='instruction-image'>
 
 - Use the shmaltz in any place you would use <a href='/misc/dairy#butter'>butter</a> or oil.  I'll be using it in place of olive oil in my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> tomorrow for extra chicken flavor.  Refrigerate the fat for up to a week, or freeze indefinitely.
-- <center><a href='/recipes/buffalo-chicken-dip'><img src='/assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg' alt='' class='instruction-image'></a></center>
+- <a href='/recipes/buffalo-chicken-dip'><img src='/assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg' alt='' class='instruction-image'></a>
 
 - The top of the jar contains the gelatin and collagen from the bones.  It's essentially concentrated broth with most of the water removed.  Next time I make <a href='/recipes/red-lentils'>Easy Red Lentils</a>, I'll be replacing part of the water with my leftover "broth" for extra flavor and nutrition.  Again, refrigerate the broth for up to a week, or freeze indefinitely.
-- <center><a href='/recipes/red-lentils'><img src='/assets/Food/Sides/Lentils/lentils.jpg' alt='' class='instruction-image'></a></center>
+- <a href='/recipes/red-lentils'><img src='/assets/Food/Sides/Lentils/lentils.jpg' alt='' class='instruction-image'></a>
 ---

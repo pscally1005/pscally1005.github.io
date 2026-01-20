@@ -47,7 +47,7 @@ tags:
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a>
 
 <u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -55,7 +55,7 @@ tags:
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a>
 <u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
@@ -66,7 +66,7 @@ tags:
 * <a rel='' target='' href='#unrefined-sugar'>Unrefined Sugars</a><br>
 * <a rel='' target='' href='#sugar-substitutes'>Sugar Substitutes</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
+<br><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a>
 
 <div id='peanut-butter' class='table-of-contents'></div>
 <br><i><font size='+2'>Peanut Butter</font></i><br>
@@ -79,27 +79,27 @@ tags:
 <br><i><font size='+2'>Nutella</font></i><br>
 &emsp;...nutella.  Nutella has a lot of nerve to call itself <a href='/misc/nuts#hazelnuts'>hazelnut</a> spread, considering its just a <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fats'>fat</a> spread.  A jar of nutella is 58% <a href='/misc/hidden-sugar'>sugar</a> and 30% palm oil; only just 13% of the jar contains actual hazelnuts.  Nutella is way more of a jelly substitute than a peanut butter one.  A 2 tbsp (37 g) serving contains 200 <a href='/misc/calories'>calories</a> and a whopping 18 g of <a href='/misc/hidden-sugar'>added sugar</a>; that's 5 teaspoons!.  You know what contains 17 g of <a href='/misc/hidden-sugar'>added sugar</a> in the same serving size?  That's right, <a href='https://amzn.to/3Zybq2A'>Chocolate Frosting</a>, and the frosting is actually lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>. And you and me both know we're going to eat more than just 1 serving.
 
-<center><a href='https://www.theguardian.com/lifeandstyle/shortcuts/2017/jan/20/is-nutella-really-that-bad-for-you'><img src='/assets/Misc/Nutrition/Trap/nutella.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.theguardian.com/lifeandstyle/shortcuts/2017/jan/20/is-nutella-really-that-bad-for-you'><img src='/assets/Misc/Nutrition/Trap/nutella.jpg' alt='' class='larger-image'></a>
 &emsp;If you love nutella, then consider making it yourself, where you can control the sweetness, and totally eliminated the hydroginated oils.  I have a recipe for <a href='/recipes/nutella'>Roasted Hazelnut Nutella</a> that's free of added sugars and oils.  Just roast and blend hazelnuts (or <a href='/misc/nuts#peanuts'>peanuts</a>) into a smooth nut butter, and add in some chocolate and <a href='/misc/fruit#banana'>bananas</a> for sweetness.  Tastes way better than the jar, and isn't a total <a href='/misc/hidden-sugar'>sugar</a> bomb.
 
 <div id='jelly' class='table-of-contents'></div>
 <br><i><font size='+2'>Jelly and Jam</font></i><br>
 &emsp;I love a good PB&J.  Which means using a good <a rel='' target='' href='#peanut-butter'>peanut butter</a>, jelly, and <a rel='' target='' href='/misc/trap-foods-grains#bread'>bread</a>.  Here, we're tackling jelly and jam though.  A jam is ideally just simmered fruit that's mildly sweetened, just like my <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> or <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a>.  The problem is that most jellies and jams are just <a href='/misc/hidden-sugar'>sugar</a> spreads.  A 1 tbsp (20 g) serving of <a href='https://amzn.to/4dMgKp6'>Smuckers Grape Jelly</a> contains 12 g of <a href='/misc/hidden-sugar'>sugar</a>.  That's 60% <a href='/misc/hidden-sugar'>sugar</a> (about the same as <a rel='' target='' href='#nutella'>nutella</a>), and with none of the <a href='/misc/fiber'>fiber</a> from the whole fruit.  Even jellies that claim to be healthy may just be using <a href='/misc/hidden-sugar'>sugar</a> under different names, like evaporated cane juice or <a href='/misc/fruit#apple'>apple</a> juice concentrate.
 
-<center><a href='https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321'><img src='/assets/Misc/Nutrition/Trap/jelly.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.verywellfit.com/jelly-nutrition-facts-and-health-benefits-5081321'><img src='/assets/Misc/Nutrition/Trap/jelly.jpg' alt='' class='larger-image'></a>
 &emsp;Outside of making your own jam, your best bets are any low <a href='/misc/hidden-sugar'>sugar</a> jam or jelly, with less than 4-5 g of <a href='/misc/hidden-sugar'>added sugar</a> per serving.  Trader Joe's has some good low <a href='/misc/hidden-sugar'>sugar</a> jellies, jams, and preserves.  <a href='https://amzn.to/4kEAbSM'>Good Good</a> is also a good stevia sweetened jam brand, and this <a href='https://amzn.to/4mzQZMA'>Smuckers Low Sugar Strawberry Preserves</a> is a decent option.  Just stay away from any jellies labeled as "<a href='/misc/hidden-sugar'>Sugar</a> free" (like <a href='https://amzn.to/4kpZE2H'>this one</a>), as those are sweetened with <a rel='' target='' href='#sugar-substitutes'>sucralose</a> and taste disgusting.
 
 <div id='unrefined-sugar' class='table-of-contents'></div>
 <br><i><font size='+2'>Unrefined Sugars</font></i><br>
 &emsp;Very often, I see recipes that are "sugar free", meaning they replace any white or brown <a href='/misc/hidden-sugar'>sugar</a> with some other natural, less refined sweetener.  While it is true that these may offer some very minimal health benefits, at the end of the day they are still just concentrated <a href='/misc/hidden-sugar'>sugar</a> that needs to be moderated.
 
-<center><a href='https://www.nutrientsreview.com/carbs/disaccharides-sucrose.html'><img src='/assets/Misc/Nutrition/Trap/sucrose.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.nutrientsreview.com/carbs/disaccharides-sucrose.html'><img src='/assets/Misc/Nutrition/Trap/sucrose.jpg' alt='' class='larger-image'></a>
 &emsp;To start though, what even is <a href='/misc/hidden-sugar'>sugar</a>?  I've mentioned it a lot here, but what exactly is it?  Here's the really rough chemistry lesson:  <a href='https://amzn.to/4kdeCc5'>White sugar</a>, or sucrose, is a chemical bond of 50% glucose (your body's main energy source) and 50% fructose (what's actually sweet, typically found in fruit).  It is typically made from dehydrated sugar cane or beets.  <a href='https://amzn.to/450hp3W'>Brown sugar</a> is simply just white sugar plus molasses.  High intakes of <a href='/misc/hidden-sugar'>sugar</a>, particilarly fructose, can lead to diabetes, heart disease, fatty liver, Alzheimer's, high blood pressure, and much much more.
 
-<center><a href='https://www.27fchileanway.cl/is-high-fructose-corn-syrup-worse-than-fructose/'><img src='/assets/Misc/Nutrition/Trap/hfcs.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.27fchileanway.cl/is-high-fructose-corn-syrup-worse-than-fructose/'><img src='/assets/Misc/Nutrition/Trap/hfcs.jpg' alt='' class='larger-image'></a>
 &emsp;<a href='/misc/hidden-sugar'>High frustose corn syrup</a> on the other hand comes from corn (duh), and is about 45% glucose to 55% fructose.  The main difference is that the glucose and fructose are not bonded together; instead they are free molecules.  This means that the fructose does even more damage to your body than standard <a href='/misc/hidden-sugar'>sugar</a>.  You can't even commercially buy <a href='/misc/hidden-sugar'>high frustose corn syrup</a>; I think that's telling of how bad it is for you.
 
-<center><a href='https://www.sdxtraining.com/articles/how-the-body-absorbs-sugar-high-fructose-corn-syrup'><img src='/assets/Misc/Nutrition/Trap/hfcs2.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.sdxtraining.com/articles/how-the-body-absorbs-sugar-high-fructose-corn-syrup'><img src='/assets/Misc/Nutrition/Trap/hfcs2.jpg' alt='' class='larger-image'></a>
 &emsp;So what are the "unrefined" sugars then?  Let's start with the granulated ones first: <a href='https://amzn.to/4mxmE1j'>coconut sugar</a> and <a href='https://amzn.to/4jzeva0'>date sugar</a>.  These are essentially the exact same thing as regular granulated <a href='/misc/hidden-sugar'>sugar</a>.  Instead of dehydrating a sugar cane or beet and making it into a pure <a href='/misc/hidden-sugar'>sugar</a>, it's instead done with <a href='/misc/fruit#dates'>dates</a> or coconut.  Okay in moderation like all <a href='/misc/hidden-sugar'>added sugar</a>, but really just the same product from a different fruit.  And no, <a href='https://amzn.to/4kiVolD'>organic cane sugar</a> is not any better for you.  You're just spending more money for the same product.
 
 &emsp;Next up are the liquid sweeteners.  My mind goes to <a href='https://amzn.to/4krgX3e'>honey</a>, <a href='https://amzn.to/4mAxCDd'>maple syrup</a>, <a href='https://amzn.to/4dFQ8pN'>agave</a>, <a href='https://amzn.to/43zrfqR'>date syrup</a>, and <a href='https://amzn.to/4mBGIzm'>molasses</a>.  With the exception of molasses, all these liquid sweeteners are more fructose than glucose, wtih agave being the worst offender at 85% fructose.  In equal quantities, agave might actually be worse for you than <a href='/misc/hidden-sugar'>high frustose corn syrup</a>.  Molasses is mostly glucose, which is why it's not that sweet, despite being entirely <a href='/misc/hidden-sugar'>sugar</a>.
@@ -109,7 +109,7 @@ tags:
 
 &emsp;The dose totally makes the poison; using 2 tbsp (42 g) of honey or maple syrup in a midly sweetened dessert is much better for you than 1 cup (200 g) of granulated <a href='/misc/hidden-sugar'>sugar</a> in your cookies.  But if a recipe uses more than 1/4 cup of sweetener, you should be probably rethinking it's claim of being "healthy".  I'm looking at you, healthy cookie recipes with 3/4 cup of honey or 1 cup of coconut <a href='/misc/hidden-sugar'>sugar</a>
 
-<center><a href='https://www.reddit.com/r/memes/comments/hlmdpw/healthy_food/'><img src='/assets/Misc/Nutrition/Trap/american.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.reddit.com/r/memes/comments/hlmdpw/healthy_food/'><img src='/assets/Misc/Nutrition/Trap/american.jpg' alt='' class='larger-image'></a>
 <div id='sugar-substitutes' class='table-of-contents'></div>
 <br><i><font size='+2'>Sugar Substitutes</font></i><br>
 &emsp;<a href='/misc/hidden-sugar'>Sugar</a> substitutes are typically low <a href='/misc/calories'>calorie</a> sweeteners that does not contain any <a href='/misc/hidden-sugar'>sugar</a>, but are instead sweetened through something else.  The first category is artificial sweeteners, where the main ones are sucralose (<a href='https://amzn.to/4mTiUrd'>Splenda</a>), Saccharin (<a href='https://amzn.to/4jlydG5'>Sweet'N Low</a>), and aspartame (<a href='https://amzn.to/43k5j4n'>Equal</a>).  These can be up to 600 times sweeter than <a href='/misc/hidden-sugar'>sugar</a>.  Additionally, we have the sugar alcohols: <a href='https://amzn.to/44Z4X4u'>erythritol</a>, <a href='https://amzn.to/3HifMVf'>sorbitol</a>, <a href='https://amzn.to/3SLco85'>maltitol</a>, and <a href='https://amzn.to/3HifEFf'>xylitol</a>.  The other category is the "natural" <a href='/misc/hidden-sugar'>sugar</a> substitutes, like <a href='https://amzn.to/3SpIaal'>stevia</a>, <a href='https://amzn.to/3HgOeQ6'>monk fruit</a>, and <a href='https://amzn.to/4mzsH5p'>allulose</a>.
@@ -126,7 +126,7 @@ tags:
 
 &emsp;Allulose on the other hand isn't a sugar alcohol, but it has properties more closely aligned with it.  It occurs naturally in some <a href='/misc/fruit'>fruits</a>, and anything not absorbed exits your body in your urine.  Like erythritol, allulose contains about 0.2 <a href='/misc/calories'>calories</a> per gram, and is about 70% the sweetness of table <a href='/misc/hidden-sugar'>sugar</a>
 
-<center><a href='https://www.drpeterosborne.com/artificial-sweeteners-toxic-side-effects/'><img src='/assets/Misc/Nutrition/Trap/artificial-health-risks.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.drpeterosborne.com/artificial-sweeteners-toxic-side-effects/'><img src='/assets/Misc/Nutrition/Trap/artificial-health-risks.jpg' alt='' class='larger-image'></a>
 &emsp;Overall, I don't have too much bad to say about the low <a href='/misc/calories'>calorie</a> sweeteners.  But I want to point them out for 3 main reasons.  Firstly, most of these, like stevia, monk fruit, and all the artificial sweeteners, are many hundred times sweeter than table <a href='/misc/hidden-sugar'>sugar</a>.  As such, any granulated forms of these contain very small amounts of the actual sweetener.  Instead, the majority of the packet is either maltodextrin or dextrose, a flavorless <a href='/misc/hidden-sugar'>sugar</a> that's added to bulk up the product, making it measure more similarly to <a href='/misc/hidden-sugar'>sugar</a>.  Yes you heard that right; your sugar free sweeteners have <a href='/misc/hidden-sugar'>sugar</a> in them.  Talk about <a href='/misc/iron'>iron</a>y.  Instead try to get a liquid version of these sweeteners.  I prefer to use <a href='https://amzn.to/4kj7hYO'>liquid stevia</a> or <a href='https://amzn.to/3Z5tUaF'>liquid monk fruit</a> with essentially just water and the natural sweetener.
 
 <img src='/assets/Misc/Nutrition/Trap/stevia-monk-fruit.jpg' alt='' class='larger-image'>

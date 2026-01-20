@@ -54,6 +54,8 @@ Instructions:
 - In a medium bowl, soak your cashews in water for at least 2 hours
 
 - Add all ingredients to a food processor (including the soaking liquid), and blend until smooth, about 5 minutes with occasional scraping of the sides
-- fridge and use as you would <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a>, like in these <a href='/recipes/lasagna-boats'>Spaghetti Squash Lasagna Boats</a>!
-- <center><a href='/recipes/lasagna-boats'><img src='/assets/Food/Meatless/Lasagna Boats/cover.jpg' alt='' class='instruction-image'></a></center>
+- <img src='/assets/Food/Savory Sauces/Cashew Ricotta/processor.jpg' alt='' class='instruction-image'>
+
+- Store in the fridge and use as you would <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a>, like in these <a href='/recipes/lasagna-boats'>Spaghetti Squash Lasagna Boats</a>!
+- <a href='/recipes/lasagna-boats'><img src='/assets/Food/Meatless/Lasagna Boats/cover.jpg' alt='' class='instruction-image'></a>
 ---

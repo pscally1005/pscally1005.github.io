@@ -46,7 +46,7 @@ tags:
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a>
 
 <u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -54,7 +54,7 @@ tags:
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a>
 <u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
@@ -75,7 +75,7 @@ tags:
 * <a rel='' target='' href='#pancakes'>Pancakes and Waffles</a><br>
 * <a rel='' target='' href='#cornbread'>Cornbread</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
+<br><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a>
 
 <div id='cereal' class='table-of-contents'></div>
 <br><i><font size='+2'>Cereal</font></i><br>
@@ -138,7 +138,7 @@ tags:
 <img src='/assets/Misc/Nutrition/Trap/chips.jpg' alt='' class='larger-image'>
 &emsp;There are variations of chips that are marketed as being healthy though.  These include veggie straws, <a href='/misc/veggies#plantain'>plantain</a> chips, and banana chips.  Starting with <a href='https://amzn.to/3Z4zPww'>Veggie Straws</a>, these are just potato shapes in a different shape, with a tiny bit of dehydrated vegetable.  They're basically the potato chip version of <a href='https://amzn.to/43zJHQ7'>Tri-Color Rotini Pasta</a>; just a fun different color, no more, no less.
 
-<center><a href='https://transformpersonaltraining.com/its-not-your-fault/'><img src='/assets/Misc/Nutrition/Trap/chips-vs-veggies.jpg' alt='' class='larger-image'></a></center>
+<a href='https://transformpersonaltraining.com/its-not-your-fault/'><img src='/assets/Misc/Nutrition/Trap/chips-vs-veggies.jpg' alt='' class='larger-image'></a>
 &emsp;Next up is <a href='https://amzn.to/4jqKAke'>Plantain Chips</a>.  Instead of deepfrying potatoes to make potato chips, these are just deepfried <a href='/misc/veggies#plantain'>plantains</a>.  It's a starchy vegetable (good) fried in vegetable oil (bad).  Both <a rel='' targer='' href='/misc/trap-foods-produce#potatoes'>potatoes</a> and <a href='/misc/veggies#plantain'>plantains</a> are healthy on their own, but can be turned into junk food when prepared like so.  Now replace the plantians with <a href='/misc/fruit#banana'>bananas</a>, add a little bit of <a href='/misc/hidden-sugar'>sugar</a>, and you end up with <a href='https://amzn.to/3T1O4yw'>banana chips</a>.  These tend to use coconut oil at least, but that's a mild improvement.  If you can, make them yourself, or just eat the whole fruit/vegetable.
 
 <div id='popcorn' class='table-of-contents'></div>
@@ -163,7 +163,7 @@ tags:
 &emsp;- <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a> with toasted <a href='/misc/grains#oats'>oats</a><br>
 &emsp;- <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> with pumpkin seeds<br>
 
-<center><a href='/recipes/natural-peanut-butter'><img src='/assets/Food/Sweet Spreads/PB/pb-cover.jpg' alt='' class='larger-image'></a></center>
+<a href='/recipes/natural-peanut-butter'><img src='/assets/Food/Sweet Spreads/PB/pb-cover.jpg' alt='' class='larger-image'></a>
 <div id='hummus' class='table-of-contents'></div>
 &emsp;You can make them savory too; sometimes I mix some plain nonfat greek <a href='/misc/dairy#yogurt'>yogurt</a> or <a href='/recipes/guacamole'>Holy Guacamole</a> with some spices, and top with sliced <a href='/misc/veggies#tomato'>tomatoes</a>, <a href='/misc/veggies#celery'>cucumber</a>, or any other fresh produce in my fridge at the time.  Or you can just simply spread on some hummus.  Here are my homemade hummus recipes:<br>
 &emsp;- <a href='/recipes/classic-tahini-hummus'>Classic Tahini Hummus</a><br>
@@ -184,12 +184,12 @@ tags:
 
 &emsp;I like have rice on the side with my meals, like with my <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a> or <a href='/recipes/cauliflower-rice'>Simple Cauliflower Rice</a>.  Rice also works great mixed into dishes, such as <a href='/recipes/baked-rice-and-beans'>Baked Rice and Beans with Vegetables</a> or <a href='/recipes/lebanese-casserole'>Lebanese Riced Cauliflower Casserole</a>.
 
-<center><a href='https://www.bhutannatural.com/resources/white-rice-bad-for-you'><img src='/assets/Misc/Nutrition/Trap/white-rice.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.bhutannatural.com/resources/white-rice-bad-for-you'><img src='/assets/Misc/Nutrition/Trap/white-rice.jpg' alt='' class='larger-image'></a>
 <div id='flour' class='table-of-contents'></div>
 <br><i><font size='+2'>Flour</font></i><br>
 &emsp;If you've noticed, all of my recipes stay away from <a href='https://amzn.to/4kGmtip'>white flour</a>, also known as <a href='/misc/grains#white-flour'>all purpose flour</a>.  Instead, I opt for <a href='https://amzn.to/43k5M6G'>whole wheat flour</a> in recipes with gluten, and probably either <a href='https://amzn.to/3FfZSKC'>oat flour</a> or <a href='https://amzn.to/4dD7MKJ'>coconut flour</a> in <a href='/misc/celiac'>gluten free</a> dishes.  So why not <a href='/misc/grains#white-flour'>all purpose flour</a>?  Below is a diagram showing the anatomy of a grain of wheat.  Grinding togther the whole kernel (the bran, germ, and endosperm) will yield <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, which is rich in nutrients like <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/calcium'>calcium</a>, <a href='/misc/iron'>iron</a>, <a href='/misc/potassium'>potassium</a>, and some B vitamins (<a href='/misc/nutrient-alphabet#T'>B1</a>, <a href='/misc/nutrient-alphabet#N'>B3</a>, and <a href='/misc/nutrient-alphabet#P'>B5</a>).  It also contains a small amount of <a href='/misc/fats'>fat</a>, which in combination with the high <a href='/misc/fiber'>fiber</a> content of <a href='/misc/grains#whole-wheat'>whole wheat flour</a> leads to much lower spikes in blood sugar.  <a href='/misc/grains#whole-wheat'>whole wheat flour</a> can be used just like regular <a href='/misc/grains#white-flour'>all purpose flour</a> in baking, and leaves you with a great nutty flavor that adds a lot of depth to your baking.
 
-<center><a href='https://wholegrainscouncil.org/what-whole-grain'><img src='/assets/Misc/Nutrition/Trap/wheat.jpg' alt='' class='larger-image'></a></center>
+<a href='https://wholegrainscouncil.org/what-whole-grain'><img src='/assets/Misc/Nutrition/Trap/wheat.jpg' alt='' class='larger-image'></a>
 &emsp;But if you grind down just the endosperm, you end up with <a href='/misc/grains#white-wheat'>white flour</a>.  <a href='/misc/grains#white-wheat'>white flour</a> is white due to both the white endosperm center and bleaching.  All the nutrients are in the other parts (the bran and the germ), leaving just the starchy center with nothing but empty <a href='/misc/calories'>calories</a> and a massive spike in your blood sugar.  There's a reason why most commercial <a href='/misc/grains#white-wheat'>white flour</a>s and white <a rel='' target='' href='#bread'>breads</a> are "fortified" or "enriched".  <a href='/misc/grains#white-wheat'>white flour</a> is entirely stripped of its nutrients, so manufacturers have to "add" them back in.  Not only is <a href='/misc/grains#white-wheat'>white flour</a> much more processed and refined than whole wheat, being devoid of any flavor, but its minerals aren't as bioavable as compared to the ones naturally occuring in <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  Whenever feasible, it is best to avoid using and consuming products with refined <a href='/misc/grains#white-wheat'>white flour</a>, and instead opt for more whole grain options.
 
 <div id='bread' class='table-of-contents'></div>
@@ -199,7 +199,7 @@ tags:
 <img src='/assets/Misc/Nutrition/Trap/bread.jpg' alt='' class='larger-image'>
 &emsp;Bread is a soft spot for me; baking bread is what first got me into cooking during COVID (no I've never made sourdough; apparently I missed that memo).  The process of creating a loaf of <a href='/misc/grains#whole-wheat'>whole wheat</a> bread from scratch is my favorite thing to do in the kitchen, leading me to enjoy the delicious resulting loaf more than the cake like loaves bread you typically see on store shelves.  There's a reason my most Europeans describe American bread as being way too sweet, and why Ireland declared Subway "bread" to instead be cake due to its high <a href='/misc/hidden-sugar'>sugar</a> content.  <a href='/misc/grains#white-wheat'>White bread</a> is essentially entirely made up of glucose, leading to the largest blood sugar spike of any food you could consume.  Even <a href='/misc/grains#whole-wheat'>whole wheat</a> bread is a high GI food, but it is significantly lower than <a href='/misc/grains#white-wheat'>white bread</a>.  Below is a chart of different foods and their respective GI values.
 
-<center><a href='https://x.com/iam_preethi/status/1345457708892266496'><img src='/assets/Misc/Nutrition/Trap/gi.jpg' alt='' class='larger-image'></a></center>
+<a href='https://x.com/iam_preethi/status/1345457708892266496'><img src='/assets/Misc/Nutrition/Trap/gi.jpg' alt='' class='larger-image'></a>
 &emsp;If you'd like to get into <a href='/recipes/bread'>breadmaking</a>, I have plenty of <a href='/misc/grains#whole-wheat'>whole wheat flour</a> recipes.  I've linked some of them below.<br>
 &emsp;- <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a><br>
 &emsp;- <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a><br>
@@ -236,7 +236,7 @@ tags:
 <br><i><font size='+2'>Pancakes and Waffles</font></i><br>
 &emsp;Last on the chopping block for breakfast foods are pancakes and waffles.  Take your banana bread recipe, and cook it instead on a frying pan for pancakes or a waffle maker for waffles.  Just the same dessert in a different shape again, being filled with <a href='/misc/hidden-sugar'>sugar</a> and refined flour, leading to massive spikes and crashes in your blood sugar, energy, and mood.
 
-<center><a href='https://www.reddit.com/r/memes/comments/188citx/breakfast_food_sucks/'><img src='/assets/Misc/Nutrition/Trap/pancake.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.reddit.com/r/memes/comments/188citx/breakfast_food_sucks/'><img src='/assets/Misc/Nutrition/Trap/pancake.jpg' alt='' class='larger-image'></a>
 &emsp;I'll be honest, I absolutely loved waffles growing up.  I'd make myself chocolate chip banana waffles once a week in high school by following a boxed mix, mashed in a banana, and fold in chocolate chips.  They're delicious, but again not something to start your day off with.  Instead, consider a pancake (or waffle) recipe made of <a href='/misc/protein'>protein</a> and whole grains, like my <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>.
 
 <div id='cornbread' class='table-of-contents'></div>

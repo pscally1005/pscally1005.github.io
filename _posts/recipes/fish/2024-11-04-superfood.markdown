@@ -58,33 +58,38 @@ tags:
 - saurkraut
 Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/fish#salmon'>salmon</a>, <a href='/misc/grains#quinoa'>quinoa</a>, and <a href='/misc/veggies#beets'>beets</a>. It's delicious, filling, customizable, tasty, while also being high in <a href='/misc/protein'>protein</a>, healthy <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, and complex <a href='/misc/carbs'>carbs</a>
 Instructions:
-- <center></center><b>Roasted Veggies</b>
-- Wash your beet, wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until soft (timing depends on the size of your beets).  Unwrap the beet, discard the ends, and cut into a medium dice (keep the skin on!!)
-- <img src='/assets/Food/Fish/Superfood/superfood-beets.jpg' alt='' class='instruction-image'>
+- |
+  <b>Roasted Veggies</b>
+  Wash your beet, wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until soft (timing depends on the size of your beets).  Unwrap the beet, discard the ends, and cut into a medium dice (keep the skin on!!)
+  <img src='/assets/Food/Fish/Superfood/superfood-beets.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, cut your pepper into large pieces, season with oil, salt, and pepper, and air fry for 10 minutes (have the beet and pepper finish at the same time).  Cut into a medium dice
-- <img src='/assets/Food/Fish/Superfood/superfood-peppers.jpg' alt='' class='instruction-image'>
+  Meanwhile, cut your pepper into large pieces, season with oil, salt, and pepper, and air fry for 10 minutes (have the beet and pepper finish at the same time).  Cut into a medium dice
+  <img src='/assets/Food/Fish/Superfood/superfood-peppers.jpg' alt='' class='instruction-image'>
 
-- <center></center><b>Quinoa</b>
-- Add quinoa, water, and salt to a small pot. Bring to a boil, cover, reduce to medium, and let simmer for about 12 minutes, until fully cooked. Set aside
-- <img src='/assets/Food/Fish/Superfood/superfood-quinoa.jpg' alt='' class='instruction-image'>
+- |
+  <b>Quinoa</b>
+  Add quinoa, water, and salt to a small pot. Bring to a boil, cover, reduce to medium, and let simmer for about 12 minutes, until fully cooked. Set aside
+  <img src='/assets/Food/Fish/Superfood/superfood-quinoa.jpg' alt='' class='instruction-image'>
 
-- <center></center><b>Kale</b>
-- Heat a large pan over medium heat with olive oil. Cover and cook your kale with spices (chili, garlic, onion, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
-- <img src='/assets/Food/Fish/Superfood/superfood-kale.jpg' alt='' class='instruction-image'>
+- |
+  <b>Kale</b>
+  Heat a large pan over medium heat with olive oil. Cover and cook your kale with spices (chili, garlic, onion, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
+  <img src='/assets/Food/Fish/Superfood/superfood-kale.jpg' alt='' class='instruction-image'>
 
-- <center></center><b>Pumpkin seeds</b>
-- Toast your pumpkin seeds in a small pan over medium heat until fragrant (3-5 minutes). Set aside
+- |
+  <b>Pumpkin seeds</b>
+  Toast your pumpkin seeds in a small pan over medium heat until fragrant (3-5 minutes). Set aside
 
-- <center></center><b>Assemble</b>
-- Prepare your 2 bowls with a base of half your kale, and add half the quinoa on top to each bowl.  Top each with half of your diced beets and peppers
+- |
+  <b>Assemble</b>
+  Prepare your 2 bowls with a base of half your kale, and add half the quinoa on top to each bowl.  Top each with half of your diced beets and peppers
 
-- Add 1/2 sliced avocado to each bowl. Cut your kiwi into a small dice (with the skin!!), and add half to each bowl.  Add half your pumpkin seeds to each bowl
+  Add 1/2 sliced avocado to each bowl. Cut your kiwi into a small dice (with the skin!!), and add half to each bowl.  Add half your pumpkin seeds to each bowl
 
-- Add any <a href='/misc/protein'>protein</a> source you have (I'm going with canned salmon here)
+  Add any <a href='/misc/protein'>protein</a> source you have (I'm going with canned salmon here)
 
-- Top each bowl with half of your sauerkraut and half of your mustard.  Mix, and serve warm or cold
-- <img src='/assets/Food/Fish/Superfood/superfood-mixed.jpg' alt='' class='instruction-image'>
+  Top each bowl with half of your sauerkraut and half of your mustard.  Mix, and serve warm or cold
+  <img src='/assets/Food/Fish/Superfood/superfood-mixed.jpg' alt='' class='instruction-image'>
 
 Notes:
 - |

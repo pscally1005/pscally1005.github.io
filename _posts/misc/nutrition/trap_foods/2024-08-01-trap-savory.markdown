@@ -66,7 +66,7 @@ tags:
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a>
 
 <u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -74,7 +74,7 @@ tags:
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a>
 <u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
@@ -87,7 +87,7 @@ tags:
 * <a rel='' target='' href='#dips'>Creamy Dips</a><br>
 * <a rel='' target='' href='#sauces'>Sauces</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
+<br><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a>
 
 <div id='low-fat' class='table-of-contents'></div>
 <br><i><font size='+2'>Low Fat Options</font></i><br>
@@ -130,14 +130,14 @@ tags:
 
 &emsp;These oils are highly processed, being devoid of any flavor or smell, leading to their main use as a "neutral" oil.  Again, while these oils are a highly debated topic, it would seem intuitive that oils used for thousands of years from fatty sources like olives or coconut with minimal processing are probably healthier for you than these plant oils from products that aren't even fatty (does anyone describe <a href='/misc/grains#corn'>corn</a>, <a href='/misc/grains#brown-rice'>rice</a>, or <a href='/misc/fruit#grapes'>grapes</a> as being high in <a href='/misc/fats'>fat</a>?).  That's just my two cents on the issue.
 
-<center><a href='https://www.zeroacre.com/blog/seed-oil-free-holiday'><img src='/assets/Misc/Nutrition/Trap/avoid-seed-oil.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.zeroacre.com/blog/seed-oil-free-holiday'><img src='/assets/Misc/Nutrition/Trap/avoid-seed-oil.jpg' alt='' class='larger-image'></a>
 &emsp;In general, definitely avoid deep frying (which creates trans <a href='/misc/fats'>fats</a>), as that's when these oils are at the most dangerous.  It's best to cook with less processed <a href='/misc/fats'>fats</a> like extra virgin olive oil, sesame oil, or unrefined coconut oil instead of highly processed vegetable oils.  But a little bit here and there is probably okay; just try to limit your intake whenever possible.  Cutting back your intake of ultra-processed foods would probably decrease the vast majority of vegetable oil in your diet anyway.
 
 <div id='margarine' class='table-of-contents'></div>
 <br><i><font size='+2'>Margarine and Low Fat Butter</font></i><br>
 &emsp;Margarine is a butter substitute typically made from <a rel='' target='' href='#seed-oil'>vegetable oils</a>.  Popular brands include <a href='https://amzn.to/3SlIdEa'>Country Crock</a> and <a href='https://amzn.to/4kD04T1'>I Can't Believe It's Not Butter</a>.  They're heavily processed, contain unnecessary additives, and even used to have trans <a href='/misc/fats'>fats</a> until they were banned.  Margarine is essentially hydroginated <a rel='' target='' href='#seed-oil'>seed oils</a>, turning them from a liquid to a solid.  I'm not calling butter a health food, but I'd certainly opt for that over the fake butter substitutes.
 
-<center><a href='https://www.meghantelpner.com/butter-or-margarine/'><img src='/assets/Misc/Nutrition/Trap/margarine-vs-butter.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.meghantelpner.com/butter-or-margarine/'><img src='/assets/Misc/Nutrition/Trap/margarine-vs-butter.jpg' alt='' class='larger-image'></a>
 &emsp;Despite trans <a href='/misc/fats'>fats</a> being banned in the US, most brands still contain trace amounts, as it can legally be rounded down to 0g if they contain less than 0.5g of trans <a href='/misc/fats'>fats</a>.  Trans <a href='/misc/fats'>fats</a> in any amount are extremenly harmful to your health, raising LDL, lowering HDL, and lead to increased risk of heart attack or stroke.  The process of partially hydroginating unsaturated <a href='/misc/fats'>fats</a> is how trans <a href='/misc/fats'>fats</a> are created (how margarine used to be made).  Now, it uses fully hydroginated oils, which are instead saturated <a href='/misc/fats'>fats</a> instead of trans <a href='/misc/fats'>fats</a>.  Research on fully hydroginated <a href='/misc/fats'>fats</a> is minimal, as trans <a href='/misc/fats'>fats</a> were only banned in 2018, but it's assumed that these <a href='/misc/fats'>fats</a> are less bad, but not good.  Always opt for whole food <a href='/misc/fats'>fat</a> sources whenever possible instead, like <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#avocado'>avocado</a>, fatty <a href='/misc/fish'>fish</a>, and EVOO.
 
 <div id='salad-dressing' class='table-of-contents'></div>
@@ -161,7 +161,7 @@ tags:
 - <a href='/recipes/mediterranean-potato-salad'>Mediterranean Sweet Potato Salad</a><br>
 - <a href='/recipes/mediterranean-pasta-salad'>Mediterranean Pasta Salad</a><br>
 
-<center><a href='https://www.boredpanda.com/funny-diet-weight-loss-memes/'><img src='/assets/Misc/Nutrition/Trap/salad.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.boredpanda.com/funny-diet-weight-loss-memes/'><img src='/assets/Misc/Nutrition/Trap/salad.jpg' alt='' class='larger-image'></a>
 <div id='condiments' class='table-of-contents'></div>
 <br><i><font size='+2'>Condiments</font></i><br>
 &emsp;Condiments are types of sauces that can typically go on a sandwich, salad or toast, or be used in cooking.  Here are some of the most common condiments that I can think of:
@@ -204,7 +204,7 @@ tags:
 <br><i><font size='+2'>Sauces</font></i><br>
 &emsp;A lot of commercial pasta sauces are either full of hidden sugars or loaded with oils.  Examples include <a href='https://amzn.to/4dCPj0T'>marinara</a>, <a href='https://amzn.to/4kDiwLf'>pesto</a> or <a href='https://amzn.to/44YYbLV'>alfredo</a>.  The below image shows just how much <a href='/misc/hidden-sugar'>sugar</a> there is in each serving of sauce.  Note that <a href='/misc/veggies#tomato'>tomatoes</a> are sweet on their own, and these glasses include the natural sugars of the <a href='/misc/veggies#tomato'>tomatoes</a> as well.  But it's apparent how much can be added without you even noticing.  Marinara sauce is probably not the main source of <a href='/misc/hidden-sugar'>added sugar</a> in your diet, but it's something to be aware of.  These jarred sauces also tend to also be highly processed and <a href='/misc/sodium'>sodium</a> dense.
 
-<center><a href='https://www.reddit.com/r/pics/comments/rxwg30/the_amount_of_sugar_in_pasta_sauce_yogurt_cups/'><img src='/assets/Misc/Nutrition/Trap/sauce-sugar.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.reddit.com/r/pics/comments/rxwg30/the_amount_of_sugar_in_pasta_sauce_yogurt_cups/'><img src='/assets/Misc/Nutrition/Trap/sauce-sugar.jpg' alt='' class='larger-image'></a>
 &emsp;Below are some of my homemade sauces.  All are <a href='/misc/hidden-sugar'>sugar</a> and sweetener free, low in added <a href='/misc/fats'>fats</a>, delicious, easy, and healthy:
 - <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a><br>
 - <a href='/recipes/evoo-pesto'>Lightened Extra Virign Olive Oil Pesto</a><br>

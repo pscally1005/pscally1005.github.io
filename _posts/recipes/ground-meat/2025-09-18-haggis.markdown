@@ -78,5 +78,5 @@ Instructions:
 - <img src='/assets/Food/Ground Meat/Haggis/baked.jpg' alt='' class='instruction-image'>
 Notes:
 - The classic sides to haggis would be neeps (mashed <a href='/misc/veggies#parsnips'>parsnips</a>) and tatties (mashed <a href='/misc/veggies#potato'>potatoes</a>), but today I'm pairing my haggis with a side of <a href='/recipes/parmesan-broccoli'>Parmesan Crusted Roasted Broccoli</a>
-- <center><a href='/recipes/parmesan-broccoli'><img src='/assets/Food/Ground Meat/Haggis/plate.jpg' alt='' class='instruction-image'></a></center>
+- <a href='/recipes/parmesan-broccoli'><img src='/assets/Food/Ground Meat/Haggis/plate.jpg' alt='' class='instruction-image'></a>
 ---

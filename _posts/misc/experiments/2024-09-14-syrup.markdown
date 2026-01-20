@@ -20,7 +20,7 @@ tags:
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;Today I'm some homemade syrup to use as a liquid sweetener.  I had accidentally bought some seeded <a href='/misc/fruit#grapes'>grapes</a>, so I'll separate them into pulp and juice.  Then, I'll boil down the juice into a syrup, until it's about the consistency of honey.
 
-<center><img src='/assets/Misc/Experiments/Syrup/grapes.png' alt='' class='smaller-image'><img src='/assets/Misc/Experiments/Syrup/honey.png' alt='' class='smaller-image'></center><br>
+<img src='/assets/Misc/Experiments/Syrup/grapes.png' alt='' class='smaller-image'><img src='/assets/Misc/Experiments/Syrup/honey.png' alt='' class='smaller-image'><br>
 
 &emsp;This will also work with any storebought or fresh squeezed juice; just boil until all the water has cooked off, and the sweet syrup remains.  You can use this in your baking in place of honey or maple syrup to give a slightly fruity tasted to your baked goods.
 

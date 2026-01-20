@@ -83,5 +83,5 @@ Notes:
   </ul>
 
 - To celebrate Halloween, feel free to carve a face into your peppers like Vic did below.  I also paired this with my <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf</a> that I instead shaped into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> for the blood
-- <center><a href='/recipes/bbq-meatloaf'><img src='/assets/Food/Finger Food/Stuffed/halloween.jpg' alt='' class='larger-image'></a></center>
+- <a href='/recipes/bbq-meatloaf'><img src='/assets/Food/Finger Food/Stuffed/halloween.jpg' alt='' class='larger-image'></a>
 ---

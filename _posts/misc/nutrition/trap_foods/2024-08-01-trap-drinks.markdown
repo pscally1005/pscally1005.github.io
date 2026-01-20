@@ -46,7 +46,7 @@ tags:
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;I wanted to put together a list of foods that people consider to be healthy, but are really just either a product of good marketing or misinformation.  These foods are typically referred to "Trap Foods", or "Fake Healthy Foods", as they can lure customers into thinking they're making better decisions, when in realty these "healthy" alternatives can be just as bad, if not worse.
 
-<center><a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.dailymail.co.uk/news/article-5393231/Processed-foods-driving-rates-cancer.html'><img src='/assets/Misc/Nutrition/Trap/risk.jpg' alt='' class='larger-image'></a>
 
 <u><font size='+2'>TLDR (Too Long; Didn't Read)</font></u><br>
 - Extensively read ingredient labels
@@ -54,7 +54,7 @@ tags:
 - Don't believe marketing claims
 - Prioritize nutrient dense whole foods or minimally processed foods
 
-<center><a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a></center>
+<a href='https://memes.com/tag/nutrition'><img src='/assets/Misc/Nutrition/Trap/nutrition.jpg' alt='' class='larger-image'></a>
 <u><font size='+2'>Disclaimer</font></u><br>
 &emsp;I'm not saying you should absolutely never eat any of these foods.  Moderation is key, and the dose makes the poison.  Most of the foods on this list are treats, and should be treated as such, but it's healthy to enjoy treats every once in a while.  Don't eat them all the time, but don't forbid yourself from having anything.  Find a proper balance.
 
@@ -68,18 +68,18 @@ tags:
 * <a rel='' target='' href='#diet-soda'>Diet Soda</a><br>
 * <a rel='' target='' href='#skim-milk'>Milk</a><br>
 
-<br><center><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a></center>
+<br><a href='https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars'><img src='/assets/Misc/Nutrition/Trap/sugar.jpg' alt='' class='larger-image'></a>
 
 <div id='juice' class='table-of-contents'></div>
 <br><i><font size='+2'>Fruit Juice</font></i><br>
 &emsp;So <a rel='' target='' href='/misc/trap-foods-snacks#dried-fruit'>dried fruit</a> is a highly concentrated source of <a href='/misc/hidden-sugar'>sugar</a>, even natural, that you should be mindful of consuming.  But what if we did the opposite: remove all the <a href='/misc/fiber'>fiber</a>, but keep all the water?  That's fruit juice.  In reality, a glass of fruit juice, even 100% without any <a href='/misc/hidden-sugar'>added sugar</a>, is only marginally better for you than a glass of soda.  You'll get some <a href='/misc/vitamin-c'>Vitamin C</a>, but that's really about it.  You wouldn't give your child a Coke with breakfast, so why a glass of <a href='https://amzn.to/4mAHEUT'>orange juice</a> (I'll tell you: really good marketing).  Just eat the whole fruit.  At the end of your day, all fructose is the same to your liver, so without <a href='/misc/fiber'>fiber</a> to slow it's absorption, it really doesn't matter what the source is, even if it any isn't technically added.
 
-<center><a href='https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks'><img src='/assets/Misc/Nutrition/Trap/juice-vs-soda.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.nutritionwithjudy.com/microblog-coke-vs-orange-juice-sugary-drinks'><img src='/assets/Misc/Nutrition/Trap/juice-vs-soda.jpg' alt='' class='larger-image'></a>
 <div id='smoothie' class='table-of-contents'></div>
 <br><i><font size='+2'>Smoothies</font></i><br>
 &emsp;So if <a rel='' target='' href='#dried-fruit'>dried fruit</a> is a maybe and <a rel='' target='' href='#juice'>fruit juice</a> is a hard no, then where do smoothies fall then?  Well about somewhere in the middle.  Smoothies are made with whole fruit, and thus do contain more <a href='/misc/fiber'>fiber</a> than fruit juice.  However, the process of blending fruit destroys some of it's <a href='/misc/fiber'>fiber</a>.  A smoothie can still be healthy however.  Just make sure to add some <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>fat</a> to slow down the spike to your blood sugar.  I prefer using <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/dairy#yogurt'>greek yogurt</a>, and <a href='/misc/seeds#chia-seeds'>chia seeds</a> for a <a href='/recipes/smoothie'>Protein Fruit Smoothie</a> if I do have one, but <a href='/recipes/natural-peanut-butter'>peanut butter</a>, <a href='/misc/nuts#almonds'>almond</a> butter, <a href='/misc/fruit#avocado'>avocado</a>, or <a href='/misc/seeds#flax-seeds'>flaxseeds</a> also work as great <a href='/misc/fats'>fat</a> sources.  The healthiest smoothies also include some vegetables like <a href='/misc/veggies#spinach'>spinach</a> as well.
 
-<center><a href='/recipes/smoothie'><img src='/assets/Food/Drinks/Smoothie/smoothie-cover.jpg' alt='' class='instruction-image'></a></center>
+<a href='/recipes/smoothie'><img src='/assets/Food/Drinks/Smoothie/smoothie-cover.jpg' alt='' class='instruction-image'></a>
 &emsp;And of course, only use an unsweetened liquid for your smoothies like milk, unsweetened plant milks, or water.  Fruit is already plenty sweet without the addition of added sugars from the milk or any additional honey.  Smoothies are great to make yourself, but be very weary of ordering one anywhere, since you don't know how much <a href='/misc/hidden-sugar'>added sugar</a> is secretly in that glass.
 
 <div id='sports-drinks' class='table-of-contents'></div>
@@ -114,7 +114,7 @@ tags:
 <br><i><font size='+2'>Diet Soda</font></i><br>
 &emsp;So no sugar = healthy, right?  Not quite.  While the issue of <a rel='' target='' href='/misc/trap-foods-sweet-spreads#sugar-substitutes'>artificial sweeteners</a> is a highly contested topic, it is generally agreed that artificial sweeteners, and by extension diet coke, are less bad than their full <a href='/misc/hidden-sugar'>sugar</a> counterparts.  Less bad, but that doesn't mean good.  Diet soda is good if you're addicted to regular soda, and are trying to wean yourself off.  In the same way that vaping could be helpful as a way to quit cigarettes.  That doesn't mean you should take up vaping, and the same holds true for a Diet Coke.
 
-<center><a href='https://www.heart.org/en/news/2021/05/20/a-diet-soda-a-day-might-affect-dementia-risk-study-suggests'><img src='/assets/Misc/Nutrition/Trap/soda-brain.jpg' alt='' class='larger-image'></a></center>
+<a href='https://www.heart.org/en/news/2021/05/20/a-diet-soda-a-day-might-affect-dementia-risk-study-suggests'><img src='/assets/Misc/Nutrition/Trap/soda-brain.jpg' alt='' class='larger-image'></a>
 <div id='milk' class='table-of-contents'></div>
 <br><i><font size='+2'>Milk</font></i><br>
 &emsp;Ah, the humble milk.  Whether you get <a href='/misc/dairy#whole-milk'>whole milk</a>, low <a href='/misc/fats'>fat</a>, or skim, milk can be a nutrition option.  It's a complete <a href='/misc/protein'>protein</a>, the <a href='/misc/fats'>fat</a> helps with feeling satiated, and of course is a good source of <a href='/misc/calcium'>calcium</a>.  Milk isn't on this list because of it's <a href='/misc/fats'>fat</a> content.  I think we know by now that <a href='/misc/fats'>fat</a> is very good for you when not overconsumed; we don't live in the low <a href='/misc/fats'>fat</a> craze of the 90s anymore.

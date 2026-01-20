@@ -19,7 +19,7 @@ tags:
 ---
 <u><font size='+2'>Introduction</font></u><br>
 &emsp;Here's something I've always wondered:  What's cheaper, bone-in skin-on chicken <a href='/misc/meat#chicken-thighs'>thighs</a>, or boneless skinless?  Obviously the price per pound of bone-in and skin-on thighs is lower.  But once you discard the bones and skin and are left with just meat, is it still cheaper?
-<center><img src='/assets/Misc/Cost/Chicken Thighs/hen.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Chicken Thighs/wallet.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Cost/Chicken Thighs/hen.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Chicken Thighs/wallet.png' alt='' class='smaller-image'>
 <br>
 <u><font size='+2'>Boneless Skinless Chicken Thighs</font></u><br>
 &emsp;I normally have a hard time finding boneless skinless chicken thighs at the store, as the normal store brand doesn't carry it (only bone-in and skin-on).  Thus, I have to buy another brand of chicken, which might end up being more expensive than if the general store brand carried it.  Nevertheless, I can find chicken thighs for <b>$2.99 per pound</b>.  This packet of chicken below was 1.67 lbs (758 g), so it cost $4.99.
@@ -34,8 +34,8 @@ tags:
 <br>
 <u><font size='+2'>Conclusion</font></u><br>
 &emsp;The cost each for boneless skinless and bone-in skin-on chicken thighs are <b>$2.99/lb</b>, and <b>$1.99/lb</b>, respectively.  This means that <b>bone-in skin-on chicken thighs are 40% cheaper than boneless skinless</b>.  Obviously you still have to put in the effort to de-bone and de-skin the chicken yourself, instead of just buying it already done.  For me, I will probably stil get bone-in skin-on, as long as I can find it for less than $1.50/lb.  Any more expensive and the work isn't worth it for me; I'd rather just pay more for boneless skinless at that point.
-<center><img src='/assets/Misc/Cost/Chicken Thighs/chicken.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Chicken Thighs/chicken-leg.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Cost/Chicken Thighs/chicken.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Chicken Thighs/chicken-leg.png' alt='' class='smaller-image'>
 <br>
 &emsp;Interestingly, the bone-in skin-on net meat weight was 1.67 lb, the exact same as the package of bonless skinless chicken.  This tells me that these packages actually contain the same amount of net meat, which is good to know.  Plus, with the bone-in and skin-on packs, I can save the bones to make chicken bone broth.  I currently have a bag of over 30 thigh bones in my freezer right now that I'm stocking up on for broth, so that's an added benefit.  I just throw away the skins though, but I have seen some recipes for chicken skin chips if you're in to that.
-<center><img src='/assets/Misc/Cost/Chicken Thighs/cooking-pot.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Chicken Thighs/sancocho.png' alt='' class='smaller-image'></center>
+<img src='/assets/Misc/Cost/Chicken Thighs/cooking-pot.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Chicken Thighs/sancocho.png' alt='' class='smaller-image'>
 <br>
