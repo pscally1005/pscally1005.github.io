@@ -51,7 +51,11 @@ tags:
 - thanksgiving
 - halloween
 - canned pumpkin
-Description: This is less of a recipe and more of a method, as you'd probably use <a href='/misc/veggies#pumpkin'>pumpkin</a> puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> in my baked goods with this for a delicious fall twist.<br>&emsp;Similar is my <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, which can also be used just like pumpkin puree!  Below are some great pumpkin or sweet potato recipes that you can use your puree on:<br><ul>
+Description: |
+  This is less of a recipe and more of a method, as you'd probably use <a href='/misc/veggies#pumpkin'>pumpkin</a> puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> in my baked goods with this for a delicious fall twist
+  <br><br>
+  Similar is my <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, which can also be used just like pumpkin puree!  Below are some great pumpkin or sweet potato recipes that you can use your puree on
+  <ul>
     <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
     <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>
     <li><a href='/recipes/sweet-potato-banana-muffins'>Sweet Potato Banana Mini Muffins</a></li>
@@ -60,7 +64,8 @@ Description: This is less of a recipe and more of a method, as you'd probably us
     <li><a href='/recipes/sweet-potato-blondies'>Sweet Potato Blondies</a><br></li>
     <li><a href='/recipes/pumpkin-bread'>Protein Pumpkin Bread</a><br></li>
     <li><a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a></li>
-    <li><a href='/recipes/pumpkin-cake'>Frosted Pumpkin Cake</a></li></ul>
+    <li><a href='/recipes/pumpkin-cake'>Frosted Pumpkin Cake</a></li>
+  </ul>
 Instructions: 
 - Wash the pumpkin, cut off the stem, and slice in half.  Scoop out the seeds with a spoon
 

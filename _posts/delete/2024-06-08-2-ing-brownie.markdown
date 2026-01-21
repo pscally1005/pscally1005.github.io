@@ -57,7 +57,10 @@ tags:
 - melted chocolate
 - cocoa powder
 - almond extract
-Description: These delicious and fudgy <a href='/brownies'>brownies</a> are made with just 2 simple ingredients - melted chocolate and <a href='/misc/meat#eggs'>eggs</a>.  I've put "Two" in quotes, as you can instead make a homemade chocolate, or add some optional flavorings or mix ins.  They can be <a href='/misc/hidden-sugar'>sugar</a> free depending on your chocolate as well.<br>&emsp;I'm no artist, but I made these to celebrate Vic's half marathon, so I drizzled a 13.1 in a <a href='/misc/nuts#peanuts'>peanut</a> butter glaze.  The glaze is just 2 parts <a href='/recipes/natural-peanut-butter'>peanut butter</a> to 1 part honey and 1 part melted <a href='/misc/nuts#coconut'>coconut oil</a>.  The nutrition facts are assuming you use just the homemade chocolate instead of the chocolate chips; no mix ins or additional flavorings.  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
+Description: |
+  These delicious and fudgy <a href='/brownies'>brownies</a> are made with just 2 simple ingredients - melted chocolate and <a href='/misc/meat#eggs'>eggs</a>.  I've put "Two" in quotes, as you can instead make a homemade chocolate, or add some optional flavorings or mix ins.  They can be <a href='/misc/hidden-sugar'>sugar</a> free depending on your chocolate as well
+  <br><br>
+  I'm no artist, but I made these to celebrate Vic's half marathon, so I drizzled a 13.1 in a <a href='/misc/nuts#peanuts'>peanut</a> butter glaze.  The glaze is just 2 parts <a href='/recipes/natural-peanut-butter'>peanut butter</a> to 1 part honey and 1 part melted <a href='/misc/nuts#coconut'>coconut oil</a>.  The nutrition facts are assuming you use just the homemade chocolate instead of the chocolate chips; no mix ins or additional flavorings.  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
 Instructions:
 - Preheat your oven to 350F, and line an 9" square pan with parchment paper. Spray the paper with oil
 - <img src='/assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-1.jpg' alt='' class='instruction-image'>

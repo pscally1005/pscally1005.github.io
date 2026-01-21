@@ -61,7 +61,14 @@ tags:
 - syrup
 - gluten free
 - almond extract
-Description: To me, a <a href='/misc/fake-healthy-foods#protein'>protein bar</a> must meet 3 basic requirements:<br><br><ol><li>At least 10g of <a href='/misc/protein'>protein</a> per 100cal, with <a href='/misc/protein'>protein</a> being the predominant macro nutrient</li><li>No <a href='/misc/hidden-sugar'>added sugar</a></li><li>Can be taken on the go</li></ol>&emsp;These <a href='/misc/protein'>protein</a> bars meet all 3, as they clock in at just 100 <a href='/misc/calories'>calories</a> and have over 13g of <a href='/misc/protein'>protein</a>
+Description: |
+  To me, a <a href='/misc/fake-healthy-foods#protein'>protein bar</a> must meet 3 basic requirements
+  <ol>
+    <li>At least 10g of <a href='/misc/protein'>protein</a> per 100cal, with <a href='/misc/protein'>protein</a> being the predominant macro nutrient</li>
+    <li>No <a href='/misc/hidden-sugar'>added sugar</a></li>
+    <li>Can be taken on the go</li>
+  </ol>
+  These <a href='/misc/protein'>protein</a> bars meet all 3, as they clock in at just 100 <a href='/misc/calories'>calories</a> and have over 13g of <a href='/misc/protein'>protein</a>
 Instructions:
 - In a large bowl, whisk together the dry ingredients - powdered peanut butter, whey, casein, coconut flour, cinnamon, and salt
 

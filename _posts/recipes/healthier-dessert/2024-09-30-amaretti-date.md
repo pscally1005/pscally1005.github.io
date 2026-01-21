@@ -51,7 +51,10 @@ tags:
 - egg
 - skim milk
 - milk
-Description: Amaretti cookies have long been one of my favorite desserts, being a staple at Italian holidays.  They're pretty simple to make healthy though, as they are traditionally free of any <a href='/misc/dairy#butter'>butter</a>, oil, or highly processed flours.  Just swap the <a href='/misc/hidden-sugar'>sugar</a> for any other sweetener - see my <a href='/recipes/amaretti'>Amaretti Cookies with Monkfruit</a>.<br>&emsp;But today, I wanted to make a more naturally sweetened version, instead of using highly processed (albeit sugar-free) sweeteners like granulated monk fruit.  This recipe is more similar to my <a href='/recipes/date-cookies'>Almond Flour Cookies</a>, but with almond extract instead of chocolate chips.  These are a bit softer than the traditional amaretti cookies, but are still full of the same great flavor while containing no <a href='/misc/hidden-sugar'>added sugar</a>!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
+Description: |
+  Amaretti cookies have long been one of my favorite desserts, being a staple at Italian holidays.  They're pretty simple to make healthy though, as they are traditionally free of any <a href='/misc/dairy#butter'>butter</a>, oil, or highly processed flours.  Just swap the <a href='/misc/hidden-sugar'>sugar</a> for any other sweetener - see my <a href='/recipes/amaretti'>Amaretti Cookies with Monkfruit</a>
+  <br><br>
+  But today, I wanted to make a more naturally sweetened version, instead of using highly processed (albeit sugar-free) sweeteners like granulated monk fruit.  This recipe is more similar to my <a href='/recipes/date-cookies'>Almond Flour Cookies</a>, but with almond extract instead of chocolate chips.  These are a bit softer than the traditional amaretti cookies, but are still full of the same great flavor while containing no <a href='/misc/hidden-sugar'>added sugar</a>!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions: 
 - Preheat your oven to 350F, and line a large cookie sheet with parchment paper
 

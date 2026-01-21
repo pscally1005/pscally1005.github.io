@@ -65,7 +65,10 @@ tags:
 - keto
 - low carb
 - high fat
-Description: Happy St. Patrick's Day! Would you believe me if I told you this bread was made with no food dye? Of course you wouldn't, because this looks too ridiculous to be natural. As I accidentally found out while making <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a> with <a href='/misc/seeds#sunflower-seeds'>sunflower</a> butter in place of <a href='/misc/nuts#peanuts'>peanut</a> butter, the chlorophyll in the sunflower <a href='/misc/seeds'>seeds</a> reacts with the baking soda, turning the baked good green.<br>&emsp;I've taken that to the extreme here with this Green Bread, which is free of artificial dyes, added oils, <a href='/misc/celiac'>gluten</a>, <a href='/misc/nuts'>nuts</a>, and <a href='/misc/grains'>grains</a>, and is mildly sweet from the <a href='/misc/fruit#banana'>bananas</a> and some honey. This bread makes a great higher <a href='/misc/fats'>fat</a>, lower carb breakfast, and goes well topped with some <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a> for some color contrast
+Description: |
+  Happy St. Patrick's Day! Would you believe me if I told you this bread was made with no food dye? Of course you wouldn't, because this looks too ridiculous to be natural. As I accidentally found out while making <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a> with <a href='/misc/seeds#sunflower-seeds'>sunflower</a> butter in place of <a href='/misc/nuts#peanuts'>peanut</a> butter, the chlorophyll in the sunflower <a href='/misc/seeds'>seeds</a> reacts with the baking soda, turning the baked good green
+  <br><br>
+  I've taken that to the extreme here with this Green Bread, which is free of artificial dyes, added oils, <a href='/misc/celiac'>gluten</a>, <a href='/misc/nuts'>nuts</a>, and <a href='/misc/grains'>grains</a>, and is mildly sweet from the <a href='/misc/fruit#banana'>bananas</a> and some honey. This bread makes a great higher <a href='/misc/fats'>fat</a>, lower carb breakfast, and goes well topped with some <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a> for some color contrast
 Instructions:
 - Preheat your oven to 350F, and line a 9x5" loaf pan with parchment paper
 
