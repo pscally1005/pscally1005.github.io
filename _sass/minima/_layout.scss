@@ -660,17 +660,15 @@
   .half-page {
     display: block;
     width: 100%;
-    margin-bottom: 0.75rem; /* spacing between stacked images */
-    display: block;        /* ⬅ makes margin work */
-    margin: 0 auto;        /* ⬅ centers horizontally */
+    margin: 0 auto; /* center horizontally */
   }
 
-  .half-page:last-child {
-    margin-bottom: 0;
-    display: block;        /* ⬅ makes margin work */
-    margin: 0 auto;        /* ⬅ centers horizontally */
+  /* Add spacing below the first image only when stacked */
+  .half-page:not(:last-child) {
+      margin-bottom: 0.75rem;
   }
 }
+
 
 .third-page {
   flex-direction: row;
