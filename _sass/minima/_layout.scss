@@ -574,7 +574,7 @@
   }
 }
 
-
+// IMAGES
 /* Text steps use normal list styling */
 .recipe-instructions li {
     margin-bottom: 0.5em; /* consistent spacing between steps */
@@ -634,11 +634,15 @@
   margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
-// Small image for clip arts
+.image-row {
+  display: flex;              /* lay out children side by side */
+  justify-content: center;    /* center the whole row */
+  gap: 12px;                  /* space between images */
+}
+
 .smaller-image {
   width: 10%;
   object-fit: cover;
-  margin: 0 6px;        /* ⬅ centers horizontally */
 }
 
 .half-page {
@@ -649,8 +653,7 @@
   aspect-ratio: 4 / 3; /* Ensures a 4:3 ratio */
   object-fit: cover;
   border-radius: 10px; /* Rounded corners */
-  display: block;        /* ⬅ makes margin work */
-  margin: 0 auto;        /* ⬅ centers horizontally */
+  margin: 0 6px;        /* ⬅ centers horizontally */
 }
 
 @media (max-width: 1000px) {

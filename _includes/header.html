@@ -5,11 +5,6 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
-    <!-- <a class='site-title' rel="author" href="{{ "/" | relative_url }}" style="text-decoration:none">
-      <img src='/assets/Logo/logo.png' alt='' class='favicon-image'>
-    </a>
-    &emsp;&emsp; -->
-
     <div class='site-title'>
       <a rel="author" href="{{ "/" | relative_url }}" style="text-decoration:none">
         {{ site.title | escape }}

@@ -416,11 +416,15 @@
                 {% include servings.html ing=include.ing %}
 
                 {% if page.servingSize %}
-                    <b><a href="/misc/serving-sizes">Serving Size</a></b>: {{ page.servingSize }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/serving-sizes">Serving Size</a></b>: {{ page.servingSize }}
+                    </div>
                 {% endif %}
 
                 {% if cal != "" %}
-                    <b><a href="/misc/calories">Calories</a></b>: {{ cal }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/calories">Calories</a></b>: {{ cal }}
+                    </div>
                 {% endif %}
 
             </div>
@@ -428,44 +432,66 @@
             <div class='macros'>
 
                 ------------------------------------------<br>
-                <!-- Fats: total, sat, unsat, poly, cholesterol -->
+                 <!-- Fats: total, sat, unsat, poly, cholesterol -->
                 {% if fat != "" %}
-                    <b><a href="/misc/fats">Total Fat</a></b>: {{ fat }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/fats">Total Fat</a></b>: {{ fat }}
+                    </div>
                 {% endif %}
 
                 <!-- If total fat is 0, then hide sat, unsat, trans, & cholesterol -->
-                {% if totalFat != "" and totalFat != 0.0 and totalFat != 0 %}
+                {% if totalFat and totalFat != 0 %}
                     {% if sat != "" %}
-                        &emsp;<b><a href="/misc/fats">Saturated Fat</a></b>: {{ sat }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/fats">Saturated Fat</a></b>: {{ sat }}
+                        </div>
                     {% endif %}
+
                     {% if trans != "" %}
-                        &emsp;<b><a href="/misc/fats">Trans Fat</a></b>: {{ trans }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/fats">Trans Fat</a></b>: {{ trans }}
+                        </div>
                     {% endif %}
+
                     {% if poly != "" %}
-                        &emsp;<b><a href="/misc/fats">Polyunsaturated Fat</a></b>: {{ poly }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/fats">Polyunsaturated Fat</a></b>: {{ poly }}
+                        </div>
                     {% endif %}
+
                     {% if mono != "" %}
-                        &emsp;<b><a href="/misc/fats">Monounsaturated Fat</a></b>: {{ mono }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/fats">Monounsaturated Fat</a></b>: {{ mono }}
+                        </div>
                     {% endif %}
+                    
                     {% if choles != "" %}
-                        <b><a href="/misc/cholesterol">Cholesterol</a></b>: {{ choles }}<br>
+                        <div class="nutrition-indent-0">
+                            <b><a href="/misc/cholesterol">Cholesterol</a></b>: {{ choles }}
+                        </div>
                     {% endif %}
 
                 {% endif %}
 
                 {% if sod != "" %}
-                    <b><a href="/misc/sodium">Sodium</a></b>: {{ sod }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/sodium">Sodium</a></b>: {{ sod }}
+                    </div>
                 {% endif %}
 
                 <!-- Carbs: total, fiber, net, sug, sugAlc, allulose -->
                 {% if carb != "" %}
-                    <b><a href="/misc/carbs">Total Carbohydrate</a></b>: {{ carb }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/carbs">Total Carbohydrate</a></b>: {{ carb }}
+                    </div>
                 {% endif %}
 
                 <!-- If total carbs is 0, then hide fiber, net carbs, and sugar -->
                 {% if totalCarb != "" and totalCarb != 0.0 and totalCarb != 0 %}
                     {% if fib != "" %}
-                        &emsp;<b><a href="/misc/fiber">Fiber</a></b>: {{ fib }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/fiber">Fiber</a></b>: {{ fib }}
+                        </div>
                     {% endif %}
 
                     <!-- Calc net carbs -->
@@ -475,11 +501,15 @@
                     {% endif %}
                     {% if netCarb != "" %}
                         {% assign netCarbStr = netCarb | round: 1 | append: 'g' %}
-                        &emsp;<b><a href="/misc/carbs">Net Carbs</a></b>: {{ netCarbStr }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/carbs">Net Carbs</a></b>: {{ netCarbStr }}
+                        </div>
                     {% endif %}
 
                     {% if sug != "" %}
-                        &emsp;<b><a href="/misc/carbs">Total Sugar</a></b>: {{ sug }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/carbs">Total Sugar</a></b>: {{ sug }}
+                        </div>
                     {% endif %}
 
                     <!-- Added sugar, sugar alcohols, allulose, gluten, and lactose -->
@@ -497,34 +527,46 @@
                         {% endif %}
                         {% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 %}
                         {% assign addedSugarStr = addedSugarNum | round: 1 | append: 'g (' | append: addedSugarPercentage | append: ' %)' %}
-                        &emsp;&emsp;<b><a href="/misc/hidden-sugar">Added Sugar</a></b>: {{ addedSugarStr }}<br>
+                        <div class="nutrition-indent-2">
+                            <b><a href="/misc/hidden-sugar">Added Sugar</a></b>: {{ addedSugarStr }}
+                        </div>
                     {% endif %}
 
                     {% if lactoseNum != 0 %}
                         {% assign lactoseStr = lactoseNum | round: 1 | append: 'g' %}
-                        <!-- &emsp;&emsp;<b><a href="/misc/dairy">Lactose</a></b>: {{ lactoseStr }}<br> -->
+                        <!-- <div class="nutrition-indent-2">
+                            <b><a href="/misc/dairy">Lactose</a></b>: {{ lactoseStr }}
+                        </div> -->
                     {% endif %}
 
                     {% if sugAlcNum != 0 %}
                         {% assign sugAlcStr = sugAlcNum | round: 1 | append: 'g' %}
-                        &emsp;<b><a href="/misc/fake-healthy-foods#sugar-substitutes">Sugar Alcohol</a></b>: {{ sugAlcStr }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/fake-healthy-foods#sugar-substitutes">Sugar Alcohol</a></b>: {{ sugAlcStr }}
+                        </div>
                     {% endif %}
 
                     {% if allNum != 0 %}
                         {% assign allStr = allNum | round: 1 | append: 'g' %}
-                        &emsp;<b><a href="/misc/fake-healthy-foods#sugar-substitutes">Allulose</a></b>: {{ allStr }}<br>
+                        <div class="nutrition-indent-1">
+                            <b><a href="/misc/fake-healthy-foods#sugar-substitutes">Allulose</a></b>: {{ allStr }}
+                        </div>
                     {% endif %}
 
                 {% endif %}
 
                 {% if prot != "" %}
-                    <b><a href="/misc/protein">Protein</a></b>: {{ prot }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/protein">Protein</a></b>: {{ prot }}
+                    </div>
                 {% endif %}
 
                 {% if glutenNum != 0 %}
                     {% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 %}
                     {% assign glutenStr = glutenNum | round: 1 | append: 'g (' | append: glutenPercentage | append: ' %)' %}
-                    <!-- &emsp;<b><a href="/misc/celiac">Gluten</a></b>: {{ glutenStr }}<br> -->
+                    <!-- <div class="nutrition-indent-1">
+                        <b><a href="/misc/celiac">Gluten</a></b>: {{ glutenStr }}
+                    </div> -->
                 {% endif %}
 
             </div>
@@ -534,103 +576,193 @@
                 {% if shorterFacts == "false" %} ------------------------------------------<br> {% endif %}
 
                 {% if vitA != "" %}
-                    <b><a href="/misc/nutrient-alphabet#A">Vitamin A</a></b>: {{ vitA }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#A">Vitamin A</a></b>: {{ vitA }}
+                    </div>
                 {% endif %}
+
                 {% if vitB1 != "" %}
-                    <b><a href="/misc/nutrient-alphabet#T">Vitamin B1 (Thiamin)</a></b>: {{ vitB1 }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#T">Vitamin B1 (Thiamin)</a></b>: {{ vitB1 }}
+                    </div>
                 {% endif %}
+
                 {% if vitB2 != "" %}
-                    <b><a href="/misc/nutrient-alphabet#R">Vitamin B2 (Riboflavin)</a></b>: {{ vitB2 }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#R">Vitamin B2 (Riboflavin)</a></b>: {{ vitB2 }}
+                    </div>
                 {% endif %}
+
                 {% if vitB3 != "" %}
-                    <b><a href="/misc/nutrient-alphabet#N">Vitamin B3 (Niacin)</a></b>: {{ vitB3 }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#N">Vitamin B3 (Niacin)</a></b>: {{ vitB3 }}
+                    </div>
                 {% endif %}
+
                 {% if vitB5 != "" %}
-                    <b><a href="/misc/nutrient-alphabet#P">Vitamin B5</a></b>: {{ vitB5 }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#P">Vitamin B5</a></b>: {{ vitB5 }}
+                    </div>
                 {% endif %}
+
                 {% if vitB6 != "" %}
-                    <b><a href="/misc/nutrient-alphabet#B">Vitamin B6 (Pyridoxine)</a></b>: {{ vitB6 }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#B">Vitamin B6 (Pyridoxine)</a></b>: {{ vitB6 }}
+                    </div>
                 {% endif %}
+
                 {% if vitB9 != "" %}
-                    <b><a href="/misc/nutrient-alphabet#F">Vitamin B9 (Folate)</a></b>: {{ vitB9 }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#F">Vitamin B9 (Folate)</a></b>: {{ vitB9 }}
+                    </div>
                 {% endif %}
+
                 {% if vitB12 != "" %}
-                    <b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: {{ vitB12 }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/vitamin-b12">Vitamin B12</a></b>: {{ vitB12 }}
+                    </div>
                 {% endif %}
+
                 {% if vitC != "" %}
-                    <b><a href="/misc/vitamin-c">Vitamin C</a></b>: {{ vitC }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/vitamin-c">Vitamin C</a></b>: {{ vitC }}
+                    </div>
                 {% endif %}
+
                 {% if vitD != "" %}
-                    <b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: {{ vitD }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#D">Vitamin D</a></b>: {{ vitD }}
+                    </div>
                 {% endif %}
+
                 {% if vitE != "" %}
-                    <b><a href="/misc/nutrient-alphabet#E">Vitamin E</a></b>: {{ vitE }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#E">Vitamin E</a></b>: {{ vitE }}
+                    </div>
                 {% endif %}
+
                 {% if vitK != "" %}
-                    <b><a href="/misc/nutrient-alphabet#K">Vitamin K</a></b>: {{ vitK }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#K">Vitamin K</a></b>: {{ vitK }}
+                    </div>
                 {% endif %}
+
                 {% if choline != "" %}
-                    <b><a href="/misc/choline">Choline</a></b>: {{ choline }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/choline">Choline</a></b>: {{ choline }}
+                    </div>
                 {% endif %}
 
                 {% if shorterFacts == "false" %} ------------------------------------------<br> {% endif %}
 
                 {% if cop != "" %}
-                    <b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: {{ cop }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#C">Copper</a></b>: {{ cop }}
+                    </div>
                 {% endif %}
+
                 {% if calc != "" %}
-                    <b><a href="/misc/calcium">Calcium</a></b>: {{ calc }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/calcium">Calcium</a></b>: {{ calc }}
+                    </div>
                 {% endif %}
+
                 {% if iron != "" %}
-                    <b><a href="/misc/iron">Iron</a></b>: {{ iron }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/iron">Iron</a></b>: {{ iron }}
+                    </div>
                 {% endif %}
+
                 {% if magn != "" %}
-                    <b><a href="/misc/magnesium">Magnesium</a></b>: {{ magn }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/magnesium">Magnesium</a></b>: {{ magn }}
+                    </div>
                 {% endif %}
+
                 {% if mang != "" %}
-                    <b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: {{ mang }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#M">Manganese</a></b>: {{ mang }}
+                    </div>
                 {% endif %}
+
                 {% if phos != "" %}
-                    <b><a href="/misc/phosphorus">Phosphorus</a></b>: {{ phos }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/phosphorus">Phosphorus</a></b>: {{ phos }}
+                    </div>
                 {% endif %}
+
                 {% if pot != "" %}
-                    <b><a href="/misc/potassium">Potassium</a></b>: {{ pot }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/potassium">Potassium</a></b>: {{ pot }}
+                    </div>
                 {% endif %}
+
                 {% if sel != "" %}
-                    <b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: {{ sel }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#S">Selenium</a></b>: {{ sel }}
+                    </div>
                 {% endif %}
+
                 {% if zinc != "" %}
-                    <b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: {{ zinc }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: {{ zinc }}
+                    </div>
                 {% endif %}
 
                 {% if aminoAcids == "true" %} ------------------------------------------<br> {% endif %}
 
                 {% if histidine != "" %}
-                    <b><a href="/misc/nutrient-alphabet#H">Histidine</a></b>: {{ histidine }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#H">Histidine</a></b>: {{ histidine }}
+                    </div>
                 {% endif %}
+
                 {% if isoleucine != "" %}
-                    <b><a href="/misc/protein">Isoleucine</a></b>: {{ isoleucine }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/protein">Isoleucine</a></b>: {{ isoleucine }}
+                    </div>
                 {% endif %}
+
                 {% if leucine != "" %}
-                    <b><a href="/misc/protein">Leucine</a></b>: {{ leucine }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/protein">Leucine</a></b>: {{ leucine }}
+                    </div>
                 {% endif %}
+
                 {% if lysine != "" %}
-                    <b><a href="/misc/protein">Lysine</a></b>: {{ lysine }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/protein">Lysine</a></b>: {{ lysine }}
+                    </div>
                 {% endif %}
+
                 {% if methionine != "" %}
-                    <b><a href="/misc/protein">Methionine</a></b>: {{ methionine }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/protein">Methionine</a></b>: {{ methionine }}
+                    </div>
                 {% endif %}
+
                 {% if phenylalanine != "" %}
-                    <b><a href="/misc/protein">phenylalanine</a></b>: {{ phenylalanine }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/protein">Phenylalanine</a></b>: {{ phenylalanine }}
+                    </div>
                 {% endif %}
+
                 {% if threonine != "" %}
-                    <b><a href="/misc/protein">Threonine</a></b>: {{ threonine }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/protein">Threonine</a></b>: {{ threonine }}
+                    </div>
                 {% endif %}
+
                 {% if tryptophan != "" %}
-                    <b><a href="/misc/protein">Tryptophan</a></b>: {{ tryptophan }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/protein">Tryptophan</a></b>: {{ tryptophan }}
+                    </div>
                 {% endif %}
+
                 {% if valine != "" %}
-                    <b><a href="/misc/nutrient-alphabet#V">Valine</a></b>: {{ valine }}<br>
+                    <div class="nutrition-indent-0">
+                        <b><a href="/misc/nutrient-alphabet#V">Valine</a></b>: {{ valine }}
+                    </div>
                 {% endif %}
 
             </div>
@@ -651,6 +783,18 @@
 </div>
 
 <style>
+    .nutrition-indent-0 {
+        margin-left: 0rem;
+    }
+
+    .nutrition-indent-1 {
+        margin-left: 1.25rem;
+    }
+
+        .nutrition-indent-2 {
+        margin-left: 2.5rem;
+    }
+
     @media print {
         .micros, .gi {
             display: none;

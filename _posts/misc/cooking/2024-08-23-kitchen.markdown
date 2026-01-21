@@ -42,7 +42,9 @@ I wanted to make a simple post about some kitchen products that I find helpful a
   <li><a rel='' target='' href='#bread-lame'>Bread Lame</a></li>
 </ul>
 
-<br><img src='/assets/Misc/Cooking/Kitchen/kitchen-pack.png' alt='' class='smaller-image'><img src='/assets/Misc/Cooking/Kitchen/kitchen-tools.png' alt='' class='smaller-image'>
+<div class="image-row">
+    <br><img src='/assets/Misc/Cooking/Kitchen/kitchen-pack.png' alt='' class='smaller-image'><img src='/assets/Misc/Cooking/Kitchen/kitchen-tools.png' alt='' class='smaller-image'>
+</div>
 
 <div id='food-scale' class='table-of-contents'></div>
 <br><i><font size='+2'>Food Scale</font></i><br>

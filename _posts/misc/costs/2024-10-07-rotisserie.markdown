@@ -23,14 +23,20 @@ tags:
 ---
 <u><font size='+2'>Introduction</font></u><br>
 You know those rotisserie chickens that grocery stores have?  The ones that are like 5 bucks for a whole small cooked chicken.  Yes they're super convenient, but here's the question I'm proposing:  Is it actually cheaper than buying and cooking your own chicken?
-<img src='/assets/Misc/Cost/Rotisserie/hen.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Rotisserie/wallet.png' alt='' class='smaller-image'>
+<div class="image-row">
+    <img src='/assets/Misc/Cost/Rotisserie/hen.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Rotisserie/wallet.png' alt='' class='smaller-image'>
+</div>
 <br>
 <u><font size='+2'>Raw Chicken</font></u><br>
 How are we going to compare the price of cooked rotisserie chicken to raw chicken?  Since a rotisserie chicken is a mix of white <a href='/misc/meat'>meat</a> (breast) and dark meat (<a href='/misc/meat#chicken-thighs'>thighs</a> and wings), I'm going to assume a 50/50 split.  Therefore, I will be averaging the price per pound of boneless skinless <a href='/misc/meat#chicken-breast'>chicken breast</a> and boneless skinless chicken <a href='/misc/meat#chicken-thighs'>thighs</a> to get the price per pound.  Thankfully, both <a href='/misc/meat#chicken-breast'>chicken breast</a> and <a href='/misc/meat#chicken-thighs'>thighs</a> are each $2.99 per pound, which is strange; normally <a href='/misc/meat#chicken-thighs'>thighs</a> are cheaper.  Whatever, I'm not complaining, that makes my math easier.
-<img src='/assets/Misc/Cost/Rotisserie/chicken-wings.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Rotisserie/chicken-breast.png' alt='' class='smaller-image'>
+<div class="image-row">
+    <img src='/assets/Misc/Cost/Rotisserie/chicken-wings.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Rotisserie/chicken-breast.png' alt='' class='smaller-image'>
+</div>
 <br>
 Okay cool, so $2.99/lb, but that's for raw meat.  What about cooked?  I'm going to assume that meat loses about 25% of it's mass from water when cooked.  For example, a 4 oz (113 g) piece of raw chicken typically weighs about 3 oz (85 g) when cooked.  That would mean that 1 lb (454 g) of raw meat yields about 3/4 lb (340 g) cooked meat.  At $2.99 for 3/4 lb, that would mean that the cooked chicken costs <b>$3.99 per pound</b>.
-<img src='/assets/Misc/Cost/Rotisserie/chicken-breast (1).png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Rotisserie/money.png' alt='' class='smaller-image'>
+<div class="image-row">
+    <img src='/assets/Misc/Cost/Rotisserie/chicken-breast (1).png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Rotisserie/money.png' alt='' class='smaller-image'>
+</div>
 <br>
 <u><font size='+2'>Rotisserie Chicken</font></u><br>
 Now, let's compare the cost of cooking raw chicken ourselves to the cost of a rotisserie chicken.  This chicken cost me $4.69, and weighs 2.14 lbs (973 g).  This weight includes all the skin and bones though, what about just meat?
@@ -46,4 +52,6 @@ The cost each for cooking your own chicken and buying a pre-cooked rotisserie ch
 <img src='/assets/Food/Savory Sauces/Buffalo Chicken/buffalo-dip-cover.jpg' alt='' class='instruction-image'><br>
 <br>
 Discarding the skins does leave a fairly bland piece of meat, but that does allow you to use the chicken for whatever you like.  I do love my <a href='/recipes/pulled-chicken'>BBQ Pulled Chicken and Coleslaw</a> with homemade pulled chicken, but here's an easier dinner:  Toss the plain shredded chicken with some <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> or <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>, and you have a super easy BBQ Pulled Chicken.  Or you can bake the chicken into my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a>; using precooked chicken just makes the dish so much faster to put together!
-<img src='/assets/Misc/Cost/Rotisserie/chicken-leg.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Rotisserie/chicken.png' alt='' class='smaller-image'>
+<div class="image-row">
+    <img src='/assets/Misc/Cost/Rotisserie/chicken-leg.png' alt='' class='smaller-image'><img src='/assets/Misc/Cost/Rotisserie/chicken.png' alt='' class='smaller-image'>
+</div>

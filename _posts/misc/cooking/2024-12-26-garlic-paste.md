@@ -17,10 +17,14 @@ tags:
 ---
 <u><b><font size='+2'>Description</font></b></u><br>
 I normally cook with the jars of minced garlic (aka "jarlic") because it's more convenient, but it lacks that garlic-y pungency of fresh <a href='/misc/veggies#garlic'>garlic</a>.  The problem is that fresh <a href='/misc/veggies#garlic'>garlic</a> is a pain to work with.  It's papery and annoying, makes a mess, and hard to chop.  What's an easy and cheap way to get around this problem?
-<br><img src='/assets/Misc/Cooking/Garlic Paste/garlic.png' alt='' class='smaller-image'>
+<div class="image-row">
+    <br><img src='/assets/Misc/Cooking/Garlic Paste/garlic.png' alt='' class='smaller-image'>
+</div>
 
 You can buy frozen garlic paste cubes that you can easily chuck in a dish for plenty of garlic flavor with little effort.  These products can be fairly expensive though.  But they're pretty easy to make on your own.
-<br><img src='/assets/Misc/Cooking/Garlic Paste/wallet.png' alt='' class='smaller-image'>
+<div class="image-row">
+    <br><img src='/assets/Misc/Cooking/Garlic Paste/wallet.png' alt='' class='smaller-image'>
+</div>
 
 My grocery store recently had a ton of garlic on sale.  I was able to get all these cloves for just $2.32.  I'm going to be roasting my own garlic, mashing it into a paste, freezing them in ice cube trays, and then transferring to an airtight bag.  Whenever I want some garlic in my cooking (so always lmao), I just have to chuck a frozen cube in my food and have it defrost.  Boom, easy roasted garlic!
 <br><img src='/assets/Misc/Cooking/Garlic Paste/cloves.jpg' alt='' class='instruction-image'>
