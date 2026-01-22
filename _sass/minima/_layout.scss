@@ -646,40 +646,45 @@
 }
 
 .half-page {
-  flex-direction: row;
-  flex-wrap: wrap;
-  flex-grow: 2;
   width: 40%;
-  aspect-ratio: 4 / 3; /* Ensures a 4:3 ratio */
+  aspect-ratio: 4 / 3;
   object-fit: cover;
-  border-radius: 10px; /* Rounded corners */
-  margin: 0 6px;        /* ⬅ centers horizontally */
+  border-radius: 10px;
+  margin: 0 6px;
+  display: inline-block; /* desktop: stay on same line */
 }
 
 @media (max-width: 1000px) {
-  .half-page {
-    display: block;
+  a > .half-page {
+    display: block;     /* mobile: force line break */
     width: 100%;
-    margin: 0 auto; /* center horizontally */
+    margin: 0 auto;
   }
 
-  /* Add spacing below the first image only when stacked */
-  .half-page:not(:last-child) {
-      margin-bottom: 0.75rem;
+  a:not(:last-child) > .half-page {
+    margin-bottom: 0.75rem;
   }
 }
 
-
 .third-page {
-  flex-direction: row;
-  flex-wrap: wrap;
-  flex-grow: 2;
   width: 30%;
-  aspect-ratio: 4 / 3; /* Ensures a 4:3 ratio */
+  aspect-ratio: 4 / 3;
   object-fit: cover;
-  border-radius: 10px; /* Rounded corners */
-  display: block;        /* ⬅ makes margin work */
-  margin: 0 auto;        /* ⬅ centers horizontally */
+  border-radius: 10px;
+  margin: 0 6px;
+  display: inline-block; /* desktop: stay on same line */
+}
+
+@media (max-width: 1000px) {
+  a > .third-page {
+    display: block;     /* mobile: force line break */
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  a:not(:last-child) > .third-page {
+    margin-bottom: 0.75rem;
+  }
 }
 
 // Full page width image
