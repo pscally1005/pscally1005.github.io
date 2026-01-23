@@ -62,4 +62,5 @@ Instructions:
 
 - Bake at 400F for 25 minutes (uncovered), or until lightly bubbly.  Let cool for a few minutes before serving
 - <img src='/assets/Food/Savory Sauces/Artichoke/cooked.jpg' alt='' class='instruction-image'>
+Notes:
 ---

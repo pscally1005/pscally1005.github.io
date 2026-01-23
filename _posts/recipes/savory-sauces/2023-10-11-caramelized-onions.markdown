@@ -57,7 +57,7 @@ Instructions:
 
 - Cover and cook on high for about 8 hours, stirring occasionally, until soft, jammy, and fragrant. Deglaze with some white wine or water if needed.  Store in a container in the fridge
 - <img src='/assets/Food/Savory Sauces/Caramel Onions/cooked.jpg' alt='' class='instruction-image'>
-
+Notes:
 - For context, the onions weigh about <b>880 g</b> raw, and I ended up with about <b>120 g</b> of cooked onions.  You're aiming to cook nearly all the water out of the onions and end up with essentially onion jelly
 - <img src='/assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg' alt='' class='instruction-image'>
 

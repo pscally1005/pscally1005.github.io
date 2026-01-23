@@ -61,6 +61,6 @@ Instructions:
 
 - Store in the fridge for up to a week.  This recipe makes about 400 g of ketchup.  Each serving is about 2 tbsp or 31 g
 - <img src='/assets/Food/Savory Sauces/Ketchup/ketchup-spoon.jpg' alt='' class='instruction-image'>
-
+Notes:
 - If you want to turn this into BBQ sauce instead, just add some paprika, cumin, and cinnamon along with the other ingredients
 ---

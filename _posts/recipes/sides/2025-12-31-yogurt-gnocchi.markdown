@@ -59,7 +59,7 @@ tags:
 - pesto
 Description: Gnocchi is a type of Italian <a href='/misc/grains#pasta'>pasta</a> dumplings that's normally made by combining cooked <a href='/misc/veggies#potato'>potatoes</a> with <a href='/misc/grains#white-wheat'>flour</a> and <a href='/misc/meat#eggs'>egg</a> until you get a pillow-y dough.  Lesser known though is <a href='/misc/homemade-cheese#ricotta'>ricotta</a> gnocchi, which replaces the <a href='/misc/veggies#potato'>potatoes</a> with <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a>, shortening the cooking time and leading to a fluffy gnocchi.  What's definitely not known is <a href='/misc/dairy#yogurt'>Greek yogurt</a> gnocchi, which I'm just making up now.  By straining <a href='/misc/dairy#yogurt'>Greek yogurt</a> to use as our gnocchi base, we're essentially making <a href='/misc/homemade-cheese#labneh'>labneh cheese</a> for a high <a href='/misc/protein'>protein</a>, lower <a href='/misc/carbs'>carb</a> gnocchi.  Additionally, I'm swapping the <a href='/misc/grains#white-wheat'>refined white flour</a> for <a href='/misc/grains#whole-wheat'>whole wheat flour</a> for additional <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet'>vitamins</a>, and <a href='/misc/nutrient-alphabet'>minerals</a>
 Instructions:
-- Place a fine mesh strainer over a medium bowl.  Add the yogurt to the strainer, and mix in salt with a silicone spatula. Place the strainer over the bowl into the fridge, and allow it to drain (uncovered) for about 24 hours. I ended up with about 715 g of strained yogurt
+- Place a fine mesh strainer over a medium bowl.  Add the yogurt to the strainer, and mix in salt with a silicone spatula. Place the strainer over the bowl into the fridge, and allow it to drain (uncovered) for about 24 hours
 - <img src='/assets/Misc/Experiments/Cheese/labneh-separated.jpg' alt='' class='instruction-image'>
 
 - Add the strained yogurt to a large bowl.  Beat in an egg, and mix in the grated cheese with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>, making sure everything is fully combined without lumps before adding the flour
@@ -70,11 +70,13 @@ Instructions:
 - Turn the dough onto a clean work surface.  In batches, roll into a long and thin rope, and cut into 1" sized pieces
 - <img src='/assets/Food/Sides/Yogurt Gnocchi/cut.jpg' alt='' class='instruction-image'>
 
--  Optionally, roll each gnocchi on the back of a fork to make the ridges
-
 - Bring a pot of salted water to a boil.  Place in the gnocchi, and boil for about 3 minutes, or until they float to the top.  Remove with a <a href='https://amzn.to/43zKQHD'>spider</a>, and serve with any <a href='/recipes/savory-sauces'>sauce</a> you desire
 - <img src='/assets/Food/Sides/Yogurt Gnocchi/boil.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Sides/Yogurt Gnocchi/plate.jpg' alt='' class='instruction-image'>
+Notes:
+- I ended up with about 715 g of strained yogurt
+
+- Optionally, roll each gnocchi on the back of a fork to make the ridges
 
 - To turn this into a meal, I mixed the full batch of gnocchi with a full batch of <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>, as well as 4 pounds of <a href='/misc/veggies#broccoli'>frozen broccoli</a> that I <a href='/recipes/roasted-vegetables'>roasted</a>, as well as some <a href='/misc/dairy#grated-cheese'>parmesan</a> to make myself lunches for the next 8 days
 - <img src='/assets/Food/Sides/Yogurt Gnocchi/servings.jpg' alt='' class='instruction-image'>

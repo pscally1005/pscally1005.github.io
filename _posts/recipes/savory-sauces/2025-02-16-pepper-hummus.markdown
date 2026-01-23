@@ -65,4 +65,5 @@ Instructions:
 - Drain and rinse the chickpeas, and add to a food processor. Blend with the peppers, lemon, almond butter (or tahini), and minced garlic until smooth
 
 - Add in your spices, and blend to combine. Adjust anything to taste, and store in the fridge
+Notes:
 ---

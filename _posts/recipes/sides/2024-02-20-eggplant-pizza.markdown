@@ -62,6 +62,6 @@ Instructions:
 
 - Bake for another 10 minutes, or until browned to your liking. You can also broil the top for a minute to brown the cheese
 - <img src='/assets/Food/Sides/Eggplant Pizza/baked.jpg' alt='' class='instruction-image'>
-
+Notes:
 - I've marked this recipe as having 36 servings since I ended up with 36 mini pizzas, meaning the nutrition facts are for each individual pizza.  Realistically though, this should serve about 6 people as a side
 ---

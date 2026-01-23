@@ -66,7 +66,7 @@ Instructions:
 
 - Store in the fridge, or you can freeze any extra (pesto freezes well)
 - <img src='/assets/Food/Savory Sauces/Basil Pesto/basil-pesto.jpg' alt='' class='instruction-image'>
-
+Notes:
 - If basil is too expensive, either fresh or frozen spinach will work as well!
 
 - To make it nut free, replace the nuts (either pine nuts or walnuts) with seeds, like pumpkin seeds or sunflower seeds

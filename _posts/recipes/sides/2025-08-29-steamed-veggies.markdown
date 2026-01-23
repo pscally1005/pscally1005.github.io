@@ -60,4 +60,5 @@ Instructions:
 - Directly from the freezer, add your veggies to a medium glass bowl. Cover with a plate, and microwave for 10 minutes
 
 - Remove the plate and it let steam out for about 2 minutes. Add your vinegar and lime pepper (or whatever spices you like), mix, and serve
+Notes:
 ---

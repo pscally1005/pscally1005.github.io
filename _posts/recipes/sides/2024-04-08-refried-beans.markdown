@@ -68,4 +68,5 @@ Instructions:
 
 - Reduce heat to low, and roughly mash with a potato masher to reach your desired consistency. I like mine a little chunky, but if you want it super smooth, use an immersion blender. Simmer uncovered for about 5 minutes, or until thickened to your liking. Squeeze in some lime, and finish with cilantro or parsley
 - <img src='/assets/Food/Sides/Refried/refried-3.jpg' alt='' class='instruction-image'>
+Notes:
 ---

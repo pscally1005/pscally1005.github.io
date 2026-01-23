@@ -65,7 +65,7 @@ Description: If you know me, then you know that I'm a sucker for Mediterranean d
 Instructions:
 - Add all ingredients to a food processor, and blend until smooth
 - <img src='/assets/Food/Savory Sauces/Whipped Feta/processor.jpg' alt='' class='instruction-image'>
-
+Notes:
 - Plain Greek yogurt can also be used in place of cottage cheese, but add 1/2 tsp (3 g) salt, since cottage cheese is salty and yogurt is not
 
 - Any fat percentage of cottage cheese (or yogurt) will work here, but I've gone with nonfat

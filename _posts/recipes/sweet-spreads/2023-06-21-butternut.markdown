@@ -65,4 +65,5 @@ Instructions:
 - <img src='/assets/Food/Sweet Spreads/Butternut/butternut-5.jpg' alt='' class='instruction-image'>
 
 - Scrape off the insides from the skin and place into a large bowl. Mash with a potato masher, or blend in a food processor.
+Notes:
 ---

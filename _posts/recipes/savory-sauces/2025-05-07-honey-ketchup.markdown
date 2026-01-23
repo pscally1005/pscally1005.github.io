@@ -58,6 +58,6 @@ Instructions:
 - <img src='/assets/Food/Savory Sauces/Pickle Honey Ketchup/pot.jpg' alt='' class='instruction-image'>
 
 - Transfer to a large mason jar, and let cool at room temperature (uncovered) for about 30 minutes before covering with a lid and refrigerating. Store in the fridge for up to 1 week, or freeze indefinitely
-
+Notes:
 - Instead of hot honey, you can also use 4 tbsp (84 g) honey and 1 tsp (2 g) red pepper flakes. You can also omit the red pepper and dill for a more classic ketchup
 ---

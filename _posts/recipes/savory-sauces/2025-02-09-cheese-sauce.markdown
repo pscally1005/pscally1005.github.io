@@ -60,8 +60,8 @@ Instructions:
 
 - Add the milk and cheese to the pan, and melt over medium low heat until smooth and thickened. The sauce should leave ribbons when drizzled down
 - <img src='/assets/Food/Savory Sauces/Cheese Sauce/pan.jpg' alt='' class='instruction-image'>
-
-- Note - any milk will work here.  Skim, whole, almond, etc., or even just water
+Notes:
+- Ay milk will work here.  Skim, whole, almond, etc., or even just water
 
 - With this sauce, you can make <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a> by mixing it with a 1 lb box of <a href='/misc/grains#pasta'>pasta</a>. You can also make <a href='/recipes/cheesy-rice-and-broccoli'>Cheesy Rice & Broccoli</a> by combining the sauce with 1 cup of rice and 2 lbs frozen broccoli
 - <img src='/assets/Food//Sides/Mac & Cheese/cover.jpg' alt='' class='instruction-image'>

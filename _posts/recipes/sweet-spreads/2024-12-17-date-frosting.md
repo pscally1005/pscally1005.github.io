@@ -59,5 +59,7 @@ Description: This icing recipe is great for <a href='/recipes/cut-out-cookies'>H
 Instructions: 
 - Add the dates to a bowl, and cover with warm water. Let soak for 10 minutes to soften. Other unsweetened dried fruit will work, like raisins, prunes, or figs
 
-- Add dates, cottage cheese, and vanilla to a small food processor. Blend until smooth, scraping down the sides every minute. Try to get the dates as best chopped as possible. Add the soaking liquid if needed to thin it out
+- Add dates, cottage cheese, and vanilla to a small food processor. Blend until smooth, scraping down the sides every minute
+Notes:
+- Try to get the dates as best chopped as possible. Add the soaking liquid if needed to thin it out
 ---

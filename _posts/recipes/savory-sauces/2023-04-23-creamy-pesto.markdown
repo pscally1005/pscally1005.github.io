@@ -62,4 +62,5 @@ Instructions:
 - Toast the nuts over medium heat in a dry pan for 2-3 minutes.  Any nuts will work here - almonds, peanuts, pistachios, etc., or none if you have a nut allergy
 
 - Add all ingredients to a food processor. Blend on high until everything is finely blended, about 45 seconds. Scrape down the sides if needed
+Notes:
 ---

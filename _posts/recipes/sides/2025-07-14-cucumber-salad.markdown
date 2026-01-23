@@ -55,4 +55,5 @@ Instructions:
 - Cut your cucumber thinly, either with a knife or mandoline. Add to a medium bowl with salt, and mix. Let sit for at least 10 minutes for the salt to draw out the water from the cucumber. Drain the water, and pat dry
 
 - Season with vinegar, soy sauce, garlic, monk fruit, oil, and ginger. Optionally mix in red pepper flakes for some heat, or top with some sesame seeds as a garnish
+Notes:
 ---

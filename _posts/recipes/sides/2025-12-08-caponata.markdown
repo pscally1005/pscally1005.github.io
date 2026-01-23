@@ -78,4 +78,5 @@ Instructions:
 - <img src='/assets/Food/Sides/Caponata/sauce.jpg' alt='' class='instruction-image'>
 
 - Stir in the roasted eggplant, and cook for an additional 3 minutes to incorporate. Allow to cool totally before serving, ideally the next day
+Notes:
 ---

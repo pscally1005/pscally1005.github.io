@@ -72,6 +72,6 @@ Instructions:
 - Bake in the oven for 90 minutes at 400F until very soft. You can also air fry at 400F for 1 hour. Slice open, and allow to steam out for a few minutes
 
 - Cut off the ends, and transfer the rest of the potatoes (with the skins!!) to a food processor.  Blend until smooth
-
+Notes:
 - You can also turn this into mashed sweet potatoes. Season to taste with garlic and onion powder, black pepper, salt, paprika, and parsley
 ---

@@ -74,4 +74,5 @@ Instructions:
 - <img src='/assets/Food/Sides/Bean Salad/bean-salad-4.jpg' alt='' class='instruction-image'>
 
 - Pour the dressing over the salad, mix, and serve
+Notes:
 ---

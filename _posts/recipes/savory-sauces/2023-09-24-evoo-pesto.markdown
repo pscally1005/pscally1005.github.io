@@ -66,4 +66,5 @@ Instructions:
 
 - Add the nuts and the rest of the ingredients to the food processor. Blend until smooth and combined. Thin out with more water if needed, and season with salt to taste
 - <img src='/assets/Food/Savory Sauces/EVOO Pesto/cover.jpg' alt='' class='instruction-image'>
+Notes:
 ---

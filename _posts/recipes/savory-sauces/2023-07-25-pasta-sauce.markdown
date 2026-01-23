@@ -66,4 +66,5 @@ Instructions:
 - When onion is softened, add in the can of crushed tomatoes and your spices - oregano, basil, parsley, onion powder, garlic powder, black pepper, salt, and red pepper flakes<br>
 
 - Simmer on medium low heat (covered) for about 45 minutes with occasional stirring
+Notes:
 ---

@@ -73,4 +73,5 @@ Instructions:
 
 - Let rest in the pan for 10 minutes before transferring to a wire rack to cool completely before slicing
 - <img src='/assets/Food/Sides/Vegan Cornbread/cut.jpg' alt='' class='instruction-image'>
+Notes:
 ---

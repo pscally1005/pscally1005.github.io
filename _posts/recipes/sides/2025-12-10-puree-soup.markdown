@@ -61,7 +61,7 @@ Description: It's starting to get cold out, which means we're on our way towards
 Instructions:
 - Preheat your oven to 425F, and line 2 9x13" baking dishes with parchment paper
 
-- Wash all your vegetables. Halve the butternut squash, scoop out the seeds, and cut into large chunks. Don't peel the butternut squash! The skin is entirely edible, and contains <a href='/misc/fiber'>fiber</a> and <a href='/misc/phytochemicals'>phytonutrients</a>. It'll all get blended anyway. You can roast the tomatoes, onions, and garlic cloves whole
+- Wash all your vegetables. Halve the butternut squash, scoop out the seeds, and cut into large chunks. You can roast the tomatoes, onions, and garlic cloves whole
 
 - Add your veggies to the dish, and season with salt, black pepper, and oil
 - <img src='/assets/Food/Sides/Puree Soup/raw.jpg' alt='' class='instruction-image'>
@@ -74,4 +74,6 @@ Instructions:
 
 - Divide into 4 servings, and garnish with toasted nuts, herbs, or olive oil. Serve
 - <img src='/assets/Food/Sides/Puree Soup/containers.jpg' alt='' class='instruction-image'>
+Notes:
+- Don't peel the butternut squash! The skin is entirely edible, and contains <a href='/misc/fiber'>fiber</a> and <a href='/misc/phytochemicals'>phytonutrients</a>. It'll all get blended anyway
 ---

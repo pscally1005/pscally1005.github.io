@@ -67,4 +67,5 @@ Instructions:
 - To your food processor, combine together the garlic, nuts, spinach, (drained and rinsed) chickpeas, lemon juice, grated cheese, vinegar, and nutritional yeast.  Blend until everything is fully chopped
 
 - Add in the cottage cheese, and blend until smooth.  Blend in your spices, season with salt to taste, and transfer to an airtight container to store in the fridge
+Notes:
 ---

@@ -54,4 +54,5 @@ Instructions:
 
 - Slice in half, and let steam out before eating. Optionally, top with a small pinch of salt
 - <img src='/assets/Food/Sides/Baked Potato/baked-potato-cover.jpg' alt='' class='instruction-image'>
+Notes:
 ---

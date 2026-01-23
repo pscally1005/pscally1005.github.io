@@ -66,4 +66,5 @@ Instructions:
 
 - Remove from the heat and stir in yogurt, soy sauce, and parsley. Serve
 - <img src='/assets/Food/Sides/Mushroom Soup/pot.jpg' alt='' class='instruction-image'>
+Notes:
 ---

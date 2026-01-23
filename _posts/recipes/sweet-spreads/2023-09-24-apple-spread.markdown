@@ -75,4 +75,5 @@ Instructions:
 
 - Loosely cover and cook on low for another 6 hours, stirring occasionally. Mix in lemon juice when done (to help preserve it).  Store in a mason jar
 - <img src='/assets/Food/Sweet Spreads/Apple Spread/apple-spread-4.jpg' alt='' class='instruction-image'>
+Notes:
 ---

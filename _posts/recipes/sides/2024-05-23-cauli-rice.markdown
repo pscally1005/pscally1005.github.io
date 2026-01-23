@@ -59,7 +59,7 @@ Instructions:
 
 - Cook over medium heat for about 5-10 minutes with occasional stirring to cook off the water.  The cauliflower should become lightly crispy and browned, like the texture of rice.  Don't mix too much or it will become mushy.  Adjust with spices to taste, garnish with parsley, and serve
 - <img src='/assets/Food/Sides/Cauli Rice/cauli-rice-3.jpg' alt='' class='instruction-image'>
-
+Notes:
 - You can also make "rice" with other veggies, like broccoli, mushrooms, and sweet potatoes!
 - <img src='/assets/Food/Sides/Cauli Rice/broccoli-rice.jpg' alt='' class='instruction-image'>
 ---

@@ -59,4 +59,5 @@ Instructions:
 
 - Remove from the heat, and use a potato masher to roughly mash the cranberries to desired consistency. Stir in the vanilla and monk fruit, sweeten to taste, and allow to cool totally before serving
 - <img src='/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-mashed.jpg' alt='' class='instruction-image'>
+Notes:
 ---

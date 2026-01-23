@@ -57,4 +57,5 @@ Description: This salad contains a base of <a href='/misc/veggies#lettuce'>lettu
 Instructions:
 - In a small glass, mix together the dressing - powdered peanut butter, gochujang, soy sauce, vineger, and ground ginger. Thin out with water, and pour over your salad
 - <img src='/assets/Food/Savory Sauces/PB Dressing/glass.jpg' alt='' class='instruction-image'>
+Notes:
 ---

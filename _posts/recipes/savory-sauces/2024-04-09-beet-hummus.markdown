@@ -60,7 +60,7 @@ Instructions:
 
 - Combine roasted beets (with skins!) with the rest of ingredients in a food processor, and blend until smooth
 - <img src='/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-2.jpg' alt='' class='instruction-image'>
-
+Notes:
 - Optionally, saute the stems and leaves with a little salt and olive oil until crispy, and use as a garnish on top of your hummus
 - <img src='/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-3.jpg' alt='' class='instruction-image'>
 ---

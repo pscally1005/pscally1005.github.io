@@ -60,4 +60,5 @@ Instructions:
 - <img src='/assets/Food/Sides/Broccoli Rabe/garlic.jpg' alt='' class='instruction-image'>
 
 - Add in the broccoli rabe, and saute for about 10 minutes with occasional stirring, until tender. Remove from heat, season with salt and pepper to taste, and finish with lemon juice
+Notes:
 ---

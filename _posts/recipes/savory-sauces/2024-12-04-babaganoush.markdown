@@ -61,4 +61,5 @@ Instructions:
 
 - Add the eggplant (with the skin!) and all other ingredients to a food processor. Blend until smooth.  Serve with <a href='/recipes/pita'>pita bread</a>, <a href='/recipes/stuffed-grape-leaves'>dolmas</a>, or over a salad. Store leftovers in the fridge or freezer
 - <img src='/assets/Food/Savory Sauces/Babaganoush/blended.jpg' alt='' class='instruction-image'>
+Notes:
 ---

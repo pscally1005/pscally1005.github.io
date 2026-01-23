@@ -60,7 +60,7 @@ Instructions:
 - In the morning, discard the water, and add the beans to the pot of a slow cooker with salt
 
 - Pour in your water to just fully submerge the beans. Cover and cook for 8 hours on low. You can add an additional hour on high (uncovered) if you want to cook off more liquid
-
+Notes:
 - Using this method, you can make any type of dried <a href='/misc/beans'>bean</a>, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#navy-beans'>navy</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.  You can also make <a href='/misc/beans#red-lentils'>lentils</a>, such as <a href='/misc/beans#brown-lentils'>brown</a>, <a href='/misc/beans#green-lentils'>green</a>, or <a href='/misc/beans#red-lentils'>red</a>.  All using the same amount of water and salt, and taking the same time to cook
 - <img src='/assets/Food/Sides/Crockpot Beans/lentils.jpg' alt='' class='instruction-image'>
 

@@ -31,7 +31,7 @@ start4:
 section4:
 start5:
 section5:
-Prep: 8
+Prep: 5
 Rest:
 Cook:
 Source1: https://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/
@@ -60,6 +60,6 @@ Instructions:
 - Add your chickpeas, tahini, and lemon juice to a food processor, and blend until smooth
 
 - Season with garlic, cumin, and salt.  Blend in aquafaba until creamy.  Garnish with paprika and parsley, and serve
-
+Notes:
 - If you don't have tahini, you can replace it with an equal amount (4 tbsp, 64 g) of either <a href='/misc/nuts#cashews'>cashew</a> or <a href='/misc/nuts#almonds'>almond</a> butter.  Alternatively, you can replace the tahini with 3 tbsp (45 g) extra virgin olive oil and an additional 1 tbsp (15 g) aquafaba for a similar consistency and nutritional profile
 ---

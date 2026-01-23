@@ -57,6 +57,6 @@ Instructions:
 - <img src='/assets/Food/Savory Sauces/Caesar/caesar-anchovies.jpg' alt='' class='instruction-image'>
 
 - Add the anchovies to a small food processor along with the rest of the ingredients. Blend until smooth. Store in the fridge
-
+Notes:
 - The cover photo for this recipe is a Caesar salad I made by tossing together half a large head of Romaine lettuce, 1 serving (2 tbsp, 30 g) of this dressing, 1 serving of my <a href='/recipes/white-bean-croutons'>White Bean Croutons</a>, and 1/2 oz (15 g) crumbled feta cheese
 ---

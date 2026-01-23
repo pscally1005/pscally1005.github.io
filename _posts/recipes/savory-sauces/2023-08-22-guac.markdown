@@ -60,6 +60,6 @@ tags:
 Description: Guacamole is one of my favorite dips, and it's already pretty healthy.  Avocados are a rich source of both <a href='/misc/fiber'>fiber</a> and heart healthy mono-unsaturated <a href='/misc/fats'>fats</a>.  Instead of nullifying the health benefits of guac by pairing it with ultra-processed tortilla chips, you can use guacamole as a dip for raw <a href='/misc/veggies'>veggies</a> like <a href='/misc/veggies#pepper'>peppers</a> or <a href='/misc/veggies#carrots'>carrots</a>, as a salad dressing, or as a spread for your next <a href='/misc/fruit#avocado'>avocado</a> toast.  Guacamole is also perfect with <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a>!
 Instructions:
 - Cut your onion and tomato into a fine dice, and add to a bowl (or mortar and pestle).  Scoop in your avocado, and add in the garlic, lime, salt, and pepper.  Mash until nearly smooth
-
+Notes:
 - Optionally add some spices (like paprika and chili powder). It will taste better, but the guac will lose its green color.  Optionally garnish with everything bagel seasoning and dried parsley or cilantro
 ---

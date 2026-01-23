@@ -65,4 +65,5 @@ Instructions:
 
 - Combine baked eggplant (with skin!), with the rest of the ingredients in a food processor. Blend until super smooth. Garnish with olives and feta, and transfer to an airtight container to store in the fridge
 - <img src='/assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-2.jpg' alt='' class='instruction-image'>
+Notes:
 ---

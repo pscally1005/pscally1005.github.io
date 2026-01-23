@@ -66,4 +66,5 @@ Instructions:
 
 - When completely cooled, cut into 16 slices. Store in the fridge for a week, or the freezer indefinitely
 - <img src='/assets/Food/Sides/Hot Honey Cornbread/cut.jpg' alt='' class='instruction-image'>
+Notes:
 ---

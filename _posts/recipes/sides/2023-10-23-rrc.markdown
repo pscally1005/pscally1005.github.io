@@ -59,4 +59,5 @@ Instructions:
 
 - Bake for 35 minutes, rotating halfway
 - <img src='/assets/Food/Sides/RRC/rrc-3.jpg' alt='' class='instruction-image'>
+Notes:
 ---

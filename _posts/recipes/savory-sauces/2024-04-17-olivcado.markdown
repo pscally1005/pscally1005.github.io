@@ -63,4 +63,5 @@ Description: This <a href='/misc/fake-healthy-foods#salad-dressing'>salad dressi
 Instructions:
 - Blend all ingredients in a small food processor until smooth. Adjust consistency by adding water if necessary, and add salt to taste if necessary (I thought it was good as is). Transfer to a container, and store in the fridge
 - <img src='/assets/Food/Savory Sauces/Olivcado/olivcado-1.jpg' alt='' class='instruction-image'>
+Notes:
 ---

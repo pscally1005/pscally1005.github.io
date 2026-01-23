@@ -60,4 +60,5 @@ Instructions:
 - Stir in mustard and spices - basil, salt, sumin, paprika, black pepper, and red pepper flakes.  You can optionally also add a drop of liquid monk fruit or butter extract
 
 - Serve over roasted vegetables, use as a base for tuna salad, or however you want
+Notes:
 ---

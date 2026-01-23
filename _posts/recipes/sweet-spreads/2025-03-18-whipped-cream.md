@@ -57,6 +57,6 @@ Instructions:
 - Drain your can of chickpeas using a fine mesh strainer over a bowl. Add the aquafaba (chickpea water) to a large bowl with lemon juice. Beat on high for about 5 minutes, until stiff peaks
 
 - Add in the vanilla and sweetener, and beat for another 2 minutes to combine. Use as you would whipped cream, like to top my <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>
-
+Notes:
 - Per 1 cup (40 g) of whipped cream, this homemade version has just 30 <a href='/misc/calories'>calories</a> instead of the standard 260. My healthier version also has a negligible amount of <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carbs</a>, compared to 22 g of <a href='/misc/fats'>fat</a> and 8 g of <a href='/misc/hidden-sugar'>added sugar</a> in typical whipped cream
 ---

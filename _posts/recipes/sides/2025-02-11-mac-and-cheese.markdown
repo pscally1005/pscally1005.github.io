@@ -58,4 +58,5 @@ Instructions:
 - Combine together the <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a> and the cooked pasta, adding a splash of reserved pasta water if necessary.  Add back to the heat over medium low to melt the cheese and fully combine it with the pasta
 
 - Mix in some spices if desired, like paprika (1 tbsp, 9 g) or black pepper (1 tsp, 3 g)
+Notes:
 ---

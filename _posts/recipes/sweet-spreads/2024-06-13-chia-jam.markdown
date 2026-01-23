@@ -57,7 +57,7 @@ tags:
 - strawberry
 - strawberries
 Description: |
-  Here I'm using <a href='/misc/fruit#strawberries'>strawberries</a> (or <a href='/misc/fruit#blueberries'>blueberries</a>) and <a href='/misc/seeds#chia-seeds'>chia</a> seeds to make a delicious <a href='/misc/fake-healthy-foods#jelly'>jam</a> that really lets the flavor of the <a href='/misc/fruit'>fruit</a> shine. Most fruit jams contain significantly more <a href='/misc/hidden-sugar'>sugar</a> than actual fruit, but not this one.  Each serving is about 1 tbsp, or 19g
+  Here I'm using <a href='/misc/fruit#strawberries'>strawberries</a> (or <a href='/misc/fruit#blueberries'>blueberries</a>) and <a href='/misc/seeds#chia-seeds'>chia</a> seeds to make a delicious <a href='/misc/fake-healthy-foods#jelly'>jam</a> that really lets the flavor of the <a href='/misc/fruit'>fruit</a> shine. Most fruit jams contain significantly more <a href='/misc/hidden-sugar'>sugar</a> than actual fruit, but not this one
   <br><br>
   Pictured here is a rice cake topped with <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> (using a blend of <a href='/misc/nuts#peanuts'>peanuts</a> and <a href='/misc/nuts#pistachios'>pistachios</a>) and the strawberry jam for a delicious snack.  Strawberries and blueberries are lower in pectin compared to other berries, so chia seeds are used as a thickener. You can also check out my <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> for a <a href='/misc/fruit#blackberry'>blackberry</a> (or <a href='/misc/fruit#raspberry'>raspberry</a>) version, which has no chia seeds since these berries contain more pectin
 Instructions:
@@ -68,4 +68,5 @@ Instructions:
 - Bring to a simmer, and let simmer for 2-3 minutes, until thickened
 
 - Remove from heat, stir in the chia seeds and lemon juice, and transfer to an airtight container. The jam will thicken as it cools
+Notes:
 ---

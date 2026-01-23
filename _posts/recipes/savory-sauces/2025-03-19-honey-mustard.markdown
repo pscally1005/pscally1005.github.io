@@ -57,7 +57,7 @@ Description: Honey mustard used to go be my go to spread or my sandwich or dress
 Instructions:
 - In a medium bowl, whisk together all ingredients until fully combined. Adjust sweetness and salt as desired. Store in the fridge for up to 1 week
 - <img src='/assets/Food/Savory Sauces/No Honey Mustard/salad.jpg' alt='' class='instruction-image'>
-
+Notes:
 - Plain nonfat greek yogurt will work in place of cottage cheese.  I've also made this recipe using whole milk greek yogurt, and just removed one of the tablespoons of oil
 
 - You can also use 1/2 tsp (2.5 g) of liquid monk fruit or stevia as your sweetener in place of the granulated monk fruit.  2 tbsp (40 g) sugar free syrup, maple syrup, or (ironically) honey should also work too

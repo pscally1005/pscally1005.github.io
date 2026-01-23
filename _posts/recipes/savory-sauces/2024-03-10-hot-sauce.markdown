@@ -65,4 +65,5 @@ Instructions:
 - <img src='/assets/Food/Savory Sauces/Hot Sauce/hot-sauce-3.jpg' alt='' class='instruction-image'>
 
 - Store in the refrigerator for up to 4 months.
+Notes:
 ---

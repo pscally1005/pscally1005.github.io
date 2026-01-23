@@ -55,6 +55,6 @@ Description: Do you want all the health benefits of EVOO without all the <a href
 Instructions:
 - Drain and rinse your olives. Add all ingredients to a food processor, and blend until smooth. Season with salt to taste (will depend on your olives), and store in the fridge
 - <img src='/assets/Food/Savory Sauces/Olive Dip/processor.jpg' alt='' class='instruction-image'>
-
+Notes:
 - Any type of olives will work. I prefer kalamata, but green olives are good too. Only use black olives if you're serving this to your worst enemy (can you tell I hate black olives?)
 ---

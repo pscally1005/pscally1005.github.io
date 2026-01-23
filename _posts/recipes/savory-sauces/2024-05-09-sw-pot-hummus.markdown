@@ -66,4 +66,5 @@ Instructions:
 - Drain and rinse your chickpeas using a strainer. Add to a large food processor with sweet potato (including the skin!), lemon, garlic, and nut butter.  I've used pistachio butter here, but you can use almond butter, tahini, or any other natural nut/seed butter you have. Blend until smooth
 
 - Add in your spices, and blend to fully combine. Adjust anything to taste, and store in the fridge
+Notes:
 ---

@@ -64,7 +64,7 @@ Instructions:
 
 - Once the onions are totally cooled, mix everything together in a medium bowl.  Top with more dried parsley to garnish
 - <img src='/assets/Food/Savory Sauces/French Onion/bowl.jpg' alt='' class='instruction-image'>
-
+Notes:
 - Compared to <a href='https://amzn.to/3FvHYDF'>storebought french onion dip</a>, mine has a sixth of the <a href='/misc/fats'>fat</a> and triple the <a href='/misc/protein'>protein</a> for the same 2 tbsp serving size, while also containing none of the artificial additives
 - <img src='/assets/Food/Savory Sauces/French Onion/store.jpg' alt='' class='instruction-image'>
 ---

@@ -57,4 +57,5 @@ tags:
 Description: Quick pickles add a great color and flavor pop to nearly every dish, and red <a href='/misc/veggies#onion'>onions</a> are my personal favorite <a href='/misc/veggies'>vegetable</a> for this. Simply cover with water and vinegar in a mason jar, wait a few days, and you're done!  You can also check out any of my <a href='/salad-dressings'>salad toppings</a>!
 Instructions:
 - Cut the red onions into long thin strips and add to a large mason jar. In a measuring cup, mix together water, vinegar, salt, garlic, and dill.  Pour over the sliced onions, and let pickle in the fridge for at least a few days before eating
+Notes:
 ---

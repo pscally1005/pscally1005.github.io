@@ -75,6 +75,6 @@ Instructions:
 
 - Cut off the ends, and transfer to a food processor (with the skins!!).  Blend until smooth
 - <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-pureed.jpg' alt='' class='instruction-image'>
-
+Notes:
 - My whole raw pumpkin weighed 764 g, and I ended up with 368 g of puree.  That's about 1.5 cups or 3 servings of 1/2 cup (120 g)
 ---

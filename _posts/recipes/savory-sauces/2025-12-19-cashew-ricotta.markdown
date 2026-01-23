@@ -58,4 +58,5 @@ Instructions:
 
 - Store in the fridge and use as you would <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a>, like in these <a href='/recipes/lasagna-boats'>Spaghetti Squash Lasagna Boats</a>!
 - <a href='/recipes/lasagna-boats'><img src='/assets/Food/Meatless/Lasagna Boats/cover.jpg' alt='' class='instruction-image'></a>
+Notes:
 ---
