@@ -82,4 +82,5 @@ Instructions:
 
 - Spread on top of one of the layers, then place the other layer on top. Spread on top of the second layer, and optionally sprinkle the top with cinnamon
 - <img src='/assets/Food/Protein Powder/Carrot Cake/carrot-cake-8.jpg' alt='' class='instruction-image'>
+Notes:
 ---

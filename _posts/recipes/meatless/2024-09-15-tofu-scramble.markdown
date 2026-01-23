@@ -63,4 +63,5 @@ Instructions:
 
 - Cook uncovered until most of the water has evaporated and the tofu has started to brown. Mix in lemon juice, and serve
 - <img src='/assets/Food/Meatless/Tofu Scramble/tofu-seasoned.jpg' alt='' class='instruction-image'>
+Notes:
 ---

@@ -67,4 +67,5 @@ Instructions:
 
 - Transfer the ice cream to an airtight container, and pack down. Freeze for at least 1 more hour before serving. This can be eaten right away, or stored in the freezer indefinitely
 - <img src='/assets/Food/Meme/Ice Cream/ice-cream-packed.jpg' alt='' class='instruction-image'>
+Notes:
 ---

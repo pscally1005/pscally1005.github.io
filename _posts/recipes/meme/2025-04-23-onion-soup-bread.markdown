@@ -71,4 +71,5 @@ Instructions:
 
 - Let cool in the pan for 10 minutes before transferring to a wire rack. Let it totally cool before slicing
 - <img src='/assets/Food/Meme/Onion Soup Bread/sliced.jpg' alt='' class='instruction-image'>
+Notes:
 ---

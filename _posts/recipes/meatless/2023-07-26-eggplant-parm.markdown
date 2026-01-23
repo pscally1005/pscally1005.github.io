@@ -68,4 +68,5 @@ Instructions:
 
 - Cover with foil, and bake at 400F until cheese is melted and everything is bubbling, about 40 minutes.  Remove the foil, and bake an additional 10 minutes.  Let cool for about 10 minutes before cutting into 6 pieces
 - <img src='/assets/Food/Meatless/Eggplant Parm/baked.jpg' alt='' class='instruction-image'>
+Notes:
 ---

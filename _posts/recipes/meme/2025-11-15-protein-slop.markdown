@@ -62,6 +62,6 @@ Instructions:
 
 - Add your roasted sweet potatoes to one side of a bowl, and add your tuna mix to the other. Top with chopped olives
 - <img src='/assets/Food/Meme/Protein Slop/separate.jpg' alt='' class='instruction-image'>
-
+Notes:
 - Optionally, to add more vegetables, serve over a base of 8 oz (226 g) shredded cabbage
 ---

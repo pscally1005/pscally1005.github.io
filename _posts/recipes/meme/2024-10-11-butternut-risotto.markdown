@@ -75,7 +75,9 @@ Instructions:
 - <img src='/assets/Food/Meme/RisOATto/oats.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meme/RisOATto/risotto.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meme/RisOATto/containers.jpg' alt='' class='instruction-image'>
+
 - Add all the squash into the pot, and vigorously stir until all the butternut squash has melted in.  Stir in the grated cheese, and serve
 - <img src='/assets/Food/Meme/RisOATto/risotto.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meme/RisOATto/containers.jpg' alt='' class='instruction-image'>
+Notes:
 ---

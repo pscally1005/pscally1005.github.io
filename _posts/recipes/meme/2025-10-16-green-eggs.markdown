@@ -61,4 +61,5 @@ Instructions:
 
 - Drain and rinse a can of chickpeas. Add in the chickpeas, as well as the ham. Combine together, and divide into 4 servings
 - <img src='/assets/Food/Meme/Green Eggs and Ham/full-pan.jpg' alt='' class='instruction-image'>
+Notes:
 ---

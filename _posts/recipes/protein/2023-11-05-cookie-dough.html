@@ -59,9 +59,31 @@ Instructions:
 
 - Line a Tupperware with parchment paper. Use a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> to scrape all the melted chocolate into the pan. Freeze to harden
 
-- For the cookie dough, combine the ingredients in a medium bowl in the following order - applesauce, honey, vanilla, monk fruit or stevia, and salt.  If you have some, 1/4 tsp (1.25 g) butter extract would work great here as well
-
-- For your flour, use oats for the standard version, or casein for the <a href='/misc/protein'>protein</a> version. Casein absorbs a lot of liquid, so you will need some milk too. If you're using oats, use 120 g and no milk.  For casein, use 60g protein and 60 g almond milk
+- For the cookie dough, combine the ingredients in a medium bowl in the following order - applesauce, honey, vanilla, liquid monk fruit, and salt.  Add in the casein, thin out with milk, and mix to form a slightly sticky cookie dough
 
 - Chop up your chocolate, and fold into the cookie dough. Roll into balls, transfer to an airtight bag or container, and enjoy
+Notes:
+- If you have some, 1/4 tsp (1.25 g) butter extract would work great here as well
+
+- For your flour, use casein for the regular <a href='/misc/protein'>protein</a> version, or oat flour for a standard non-<a href='/misc/protein'>protein</a> version. Casein absorbs a lot of liquid, so you will need some milk too. If you're using oat flour, use 120 g (1 1/3 cup) and no milk.  For casein, use 60 g (2 scoop) protein powder and 60 g (1/4 cup) unsweetened almond milk
 ---
+{% assign files =
+    "cookiedough,"
+    | append: "cookiedoughprotnoprot"
+    | split: ","
+%}
+{% assign titles =
+    "<a href='#recipe'>Original<br>Recipe</a>,"
+    | append: "Non-<a href='/misc/protein'>Protein</a><br>Variation"
+    | split: ","
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Net Carbs,"
+    | append: "Fiber,"
+    | append: "Added Sugar"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

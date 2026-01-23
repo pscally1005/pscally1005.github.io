@@ -65,4 +65,5 @@ Instructions:
 - Let simmer on medium for 25 minutes until thickened, uncovered
 
 - Squeeze in some lemon juice and dash in some red pepper flakes. Taste for salt if needed. Serve over rice or in a tortilla
+Notes:
 ---

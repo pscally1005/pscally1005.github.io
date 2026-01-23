@@ -66,4 +66,5 @@ Instructions:
 
 - Divide into 10 servings. Add some acid to it after reheating, like lemon, lime, balsamic, or hot sauce
 - <img src='/assets/Food/Meatless/Baked RB/containers.jpg' alt='' class='instruction-image'>
+Notes:
 ---

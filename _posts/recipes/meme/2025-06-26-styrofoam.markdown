@@ -68,4 +68,5 @@ Instructions:
 
 - Bake for about 12 minutes at 325F, or until lightly browned.  Note that should still feel very soft to the touch. Cool completely on the sheet before removing. Store leftovers in the fridge or freezer
 - <img src='/assets/Food/Meme/Styrofoam/baked.jpg' alt='' class='instruction-image'>
+Notes:
 ---

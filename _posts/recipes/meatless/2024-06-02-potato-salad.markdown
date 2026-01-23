@@ -90,4 +90,5 @@ Instructions:
 
 - Pour the dressing over your salad, and serve either cold or warm
 - <img src='/assets/Food/Meatless/Potato Salad/potato-salad-6.jpg' alt='' class='instruction-image'>
+Notes:
 ---

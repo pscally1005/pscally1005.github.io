@@ -64,14 +64,14 @@ Instructions:
 
 - In a separate large bowl, whisk together all the dry ingredients until well combined - oat flour, whey protein, powdered peanut butter, chia seeds, baking powder, cinnamon, baking soda, and salt
 
-- I've used 1 tsp (5 g) of liquid monk fruit here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/sugar free syrup, or 2 tbsp (25 g) granulated monk fruit
-
-- Note that my powdered peanut butter is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
-
 - Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped nuts or chocolate chips (1/2 cup, 85 g).  Transfer the batter to the pan
 
 - Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing.  Transfer to a fridge in a bag or container
 - <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg' alt='' class='instruction-image'>
+Notes:
+- I've used 1 tsp (5 g) of liquid monk fruit here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/sugar free syrup, or 2 tbsp (25 g) granulated monk fruit
+
+- Note that my powdered peanut butter is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
 
 - You can also bake in a parchment lined, lightly oiled, 9" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the internal temperature is around 205F
 - <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg' alt='' class='instruction-image'>

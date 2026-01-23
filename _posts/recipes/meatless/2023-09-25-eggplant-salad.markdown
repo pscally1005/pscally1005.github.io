@@ -63,4 +63,5 @@ Instructions:
 - In a small bowl, mix together the dressing - olive oil, white vinegar, lemon juice, parsley, garlic and onion powder, black pepper, and salt. Pour over the salad
 
 - When the eggplant is done, cut into bite sized pieces and mix into the salad. Serve
+Notes:
 ---

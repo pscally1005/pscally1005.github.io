@@ -115,7 +115,9 @@ def vol_from_mass(food, mass, vol):
 
     # Sugar free syrup
     elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional":
-        if mass == "10":
+        if mass == "6.5":
+          v = "1 tsp"
+        elif mass == "10":
           v = "1/2 tbsp"
         elif mass == "20":
             v = "1 tbsp"
@@ -154,6 +156,51 @@ def vol_from_mass(food, mass, vol):
         elif mass == "300":
             v = "15 tbsp"
         elif mass == "320":
+            v = "1 cup"
+
+    # Honey
+    elif food == "Honey" or food == "Honey, or maple syrup" or food == "Molasses, or honey":
+        if m == "7":
+            v = "1 tsp"
+        elif m == "10.5":
+            v = "1/2 tbsp"
+        elif m == "21":
+            v = "1 tbsp"
+        elif m == "31.5":
+            v = "1.5 tbsp"
+        elif m == "42":
+            v = "2 tbsp"
+        elif m == "63":
+            v = "3 tbsp"
+        elif m == "84":
+            v = "4 tbsp"
+        elif m == "105":
+            v = "5 tbsp"
+        elif m == "112":
+            v = "1/3 cup"
+        elif m == "126":
+            v = "6 tbsp"
+        elif m == "147":
+            v = "7 tbsp"
+        elif m == "168":
+            v = "8 tbsp"
+        elif m == "189":
+            v = "9 tbsp"
+        elif m == "210":
+            v = "10 tbsp"
+        elif m == "224":
+            v = "2/3 cup"
+        elif m == "231":
+            v = "11 tbsp"
+        elif m == "252":
+            v = "12 tbsp"
+        elif m == "273":
+            v = "13 tbsp"
+        elif m == "294":
+            v = "14 tbsp"
+        elif m == "315":
+            v = "15 tbsp"
+        elif m == "336":
             v = "1 cup"
 
     # Capers

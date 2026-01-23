@@ -65,4 +65,5 @@ Instructions:
 - <img src='/assets/Food/Protein Powder/Apple Bread/apple-bread-4.jpg' alt='' class='instruction-image'>
 
 - Let the cake cool down, then slice and refrigerate for 3-4 days.  You can serve with some whipped cottage cheese on top per slice
+Notes:
 ---

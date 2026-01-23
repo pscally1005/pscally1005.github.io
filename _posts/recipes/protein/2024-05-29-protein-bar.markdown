@@ -75,4 +75,5 @@ Instructions:
 - Add in the wet ingredients (milk, syrup, and extract). Fold with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined. The mix should be slightly sticky
 
 - Line a 9x5" bread pan with parchment paper, and evenly press the dough into the pan. Chill in the fridge for 3 hours before slicing.  Store in the fridge or freezer, wrapped in parchment paper
+Notes:
 ---

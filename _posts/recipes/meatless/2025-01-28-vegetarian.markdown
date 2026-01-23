@@ -62,4 +62,5 @@ Instructions:
 
 - To reheat, microwave on high for 2 minutes, and then top with sauerkraut or hot sauce
 - <img src='/assets/Food/Meatless/Vegetarian/portions.jpg' alt='' class='instruction-image'>
+Notes:
 ---

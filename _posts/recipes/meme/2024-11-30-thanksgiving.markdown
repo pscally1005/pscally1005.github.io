@@ -79,4 +79,5 @@ Instructions:
 
 - Divide the mix onto 6 equal servings, about 710 g each
 - <img src='/assets/Food/Meme/Thanksgiving/containers.jpg' alt='' class='instruction-image'>
+Notes:
 ---

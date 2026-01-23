@@ -62,4 +62,5 @@ Instructions:
 - Dump in and mix (don't drain anything)
 
 - Cook covered on low for 8 hours. Divide into containers
+Notes:
 ---

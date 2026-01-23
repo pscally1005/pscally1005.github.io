@@ -66,4 +66,5 @@ Instructions:
 - Meanwhile, in a separate saucepan, bring water, oats and salt to a boil. Reduce to medium low and cook until tender. Mix in some grated cheese at the end (risOATto style)
 
 - Serve the oatmeal in bowls, and top with the bolognese
+Notes:
 ---

@@ -81,4 +81,5 @@ Instructions:
 
 - You can also make this as a "meat"-loaf by baking for 1 hour at 350F in a 9x5" bread pan
 - <img src='/assets/Food/Meatless/Bean Burger/bean-loaf.jpg' alt='' class='instruction-image'>
+Notes:
 ---

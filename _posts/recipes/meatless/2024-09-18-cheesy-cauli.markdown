@@ -87,4 +87,5 @@ Instructions:
 
 - To serve, combine the cauliflower rice and bean mixture together in a large bowl. Evenly split into 4 bowls, and pour on the cheese sauce. Top with dried parsley and optionally a drizzle of hot sauce
 - <img src='/assets/Food/Meatless/Cheesy Cauli/container-no-sauce.jpg' alt='' class='instruction-image'>
+Notes:
 ---

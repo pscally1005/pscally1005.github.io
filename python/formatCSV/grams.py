@@ -585,7 +585,9 @@ def grams(food, mass, vol):
 
     # Syrup
     elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey":
-        if vol == "1/2 tbsp" or vol == "0.5 serving":
+        if vol == "1 tsp":
+            m = "6.5"
+        elif vol == "1/2 tbsp" or vol == "0.5 serving":
             m = "10"
         elif vol == "1 tbsp" or vol == "1 serving":
             m = "20"
@@ -629,7 +631,9 @@ def grams(food, mass, vol):
 
     # Honey
     elif food == "Honey" or food == "Honey, or maple syrup":
-        if vol == "1/2 tbsp":
+        if vol == "1 tsp":
+            m = "7"
+        elif vol == "1/2 tbsp":
             m = "10.5"
         elif vol == "1 tbsp":
             m = "21"

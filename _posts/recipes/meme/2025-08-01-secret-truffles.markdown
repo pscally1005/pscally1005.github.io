@@ -57,4 +57,5 @@ Instructions:
 - In a small food processor, blend together nut butter, sauerkraut, cocoa powder, sweetener, and almond extract until you have a smooth and fully combined chocolate dough
 
 - Add cocoa powder to a small bowl. Scoop out about a tablespoon of the dough (about 18 g each), roll into a ball with your hands, and coat in cocoa powder. Add to an airtight container, and repeat for the remaining 9 truffles
+Notes:
 ---

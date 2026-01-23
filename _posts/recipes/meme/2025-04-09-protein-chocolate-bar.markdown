@@ -57,7 +57,7 @@ tags:
 Description: If you mix together melted coconut oil with cocoa powder, you get a <a href='/recipes/chocolate-bar'>100% Chocolate Bar</a>. Simple as that. Well, you can replace the cocoa with whey <a href='/misc/protein'>protein</a> powder, either chocolate or vanilla, to end up with a <a href='/misc/hidden-sugar'>sugar</a> free bar of milk or white chocolate. I preferred the white chocolate with the vanilla protein powder, but the chocolate was good too.  You can even use powdered <a href='/misc/nuts#peanuts'>peanut</a> butter and chop up the bar to make <a href='/recipes/natural-peanut-butter'>peanut butter</a> chips!
 Instructions:
 - Add your coconut oil to a small bowl, and microwave for 1 minute to melt. Stir in the protein powder with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until smooth. Transfer the batter to a <a href='https://www.amazon.com/dp/B0D9J99TW4?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.33LWXAZ203YV4&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.33LWXAZ203YV4_1751469098772'>chocolate mold</a>, and refrigerate to harden, about 1 hour
-
+Notes:
 - You can also use powdered peanut butter to make a peanut butter flavored bar.  Just use 5 tbsp (30 g) powdered peanut butter in place of whey.  My powdered peanut butter is unsweetened and unsalted, so I also added 1/2 tsp (2.5 g) liquid monk fruit and 1/8 tsp (0.75 g) salt
 - <img src='/assets/Food/Meme/Protein Chocolate/pb-bar.jpg' alt='' class='instruction-image'>
 

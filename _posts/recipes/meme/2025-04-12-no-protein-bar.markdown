@@ -71,4 +71,5 @@ Instructions:
 - <img src='/assets/Food/Meme/No <a href='/misc/protein'>protein</a> bar/choc.jpg' alt='' class='instruction-image'>
 
 - Freeze for 30 minutes to harden. Wrap each bar in parchment paper or aluminum foil, and store in an airtight bag in the fridge or freezer
+Notes:
 ---

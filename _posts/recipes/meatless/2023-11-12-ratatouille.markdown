@@ -68,4 +68,5 @@ Instructions:
 
 - Remove the cover and continue baking until the vegetables are very soft and the ratatouille is bubbling, another 45 minutes, or until the vegetables are softened to your liking. Let cool for a few minutes before serving
 - <img src='/assets/Food/Meatless/Ratatouille/ratatouille-pot.jpg' alt='' class='instruction-image'>
+Notes:
 ---

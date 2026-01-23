@@ -57,4 +57,5 @@ Instructions:
 
 - In a large bowl, combine together the rice, broccoli, and <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>. Divide into 4 servings
 - <img src='/assets/Food/Meatless/Cheesy Rice/bowl.jpg' alt='' class='instruction-image'>
+Notes:
 ---

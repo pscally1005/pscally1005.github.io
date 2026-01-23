@@ -58,4 +58,5 @@ Instructions:
 - Microwave the coconut oil in a medium bowl for about 1:30, until fully melted. Stir in carob until fully combined. Optionally, add a small pinch of salt and some liquid sweetener, such as sugar free syrup, honey, or maple syrup
 
 - Transfer to a parchment line bread pan, and refrigerate until hardened, about an hour. Cut into 8 squares, each 1/2 oz (14 g)
+Notes:
 ---

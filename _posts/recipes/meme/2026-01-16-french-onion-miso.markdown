@@ -70,4 +70,5 @@ Instructions:
 - Cut your tofu into bite sized cubes. Add in the tofu, and gently stir to combine. Serve
 - <img src='/assets/Food/Meme/French Onion Miso Soup/pot.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meme/French Onion Miso Soup/cover.jpg' alt='' class='instruction-image'>
+Notes:
 ---

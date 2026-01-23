@@ -89,4 +89,5 @@ Instructions:
 
 - Turn off heat and add walnut and tomato paste mixture. Mix thoroughly to combine. Mix in your protein powder, season with salt to taste, and enjoy
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-container.jpg' alt='' class='instruction-image'>
+Notes:
 ---

@@ -76,4 +76,5 @@ Instructions:
 
 - Dollop the glaze on top of the baked cinnamon rolls, and enjoy
 - <img src='/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-8.jpg' alt='' class='instruction-image'>
+Notes:
 ---

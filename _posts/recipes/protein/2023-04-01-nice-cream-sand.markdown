@@ -78,4 +78,5 @@ Instructions:
 - <img src='/assets/Food/Protein Powder/Nice Cream/nice-cream-5.jpg' alt='' class='instruction-image'>
 
 - Take 2 cookies and a scoop of ice cream (about 50 g). Make into a sandwich, and wrap in aluminum foil. Store ice cream sandwiches in the freezer. Makes 12 sandwiches. Work quickly, the cookies thaw fast since they're so thin. Put the cookies back in freezer if needed
+Notes:
 ---

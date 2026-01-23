@@ -68,7 +68,7 @@ Instructions:
 - In a medium bowl, mix together the base layer ingredients (applesauce, almond milk, honey, vanilla, almond extract, salt, and casein). Line a 9" square pan with parchment, and press the dough into it. Freeze to harden
 - <img src='/assets/Food/Protein Powder/Caramel/caramel-1.jpg' alt='' class='instruction-image'>
 
-- Combine the filling ingredients (chickpeas, almond butter, banana, whey, almond extract, salt, and liquid stevia/monk fruit) together in a food processor. Make sure to drain and rinse the can of chickpeas. If you're using a standard 15.5 oz can, you should have about 125g of chickpeas in the food processor, after the liquid is drained (since you're only using half the can)
+- Combine the filling ingredients (chickpeas, almond butter, banana, whey, almond extract, salt, and liquid stevia/monk fruit) together in a food processor
 
 - Blend until smooth, and spread on top of the base layer. Again, freeze to harden
 - <img src='/assets/Food/Protein Powder/Caramel/caramel-3.jpg' alt='' class='instruction-image'>
@@ -77,4 +77,6 @@ Instructions:
 - <img src='/assets/Food/Protein Powder/Caramel/caramel-4.jpg' alt='' class='instruction-image'>
 
 - Slice and serve. Flash freeze on a cookie sheet, then store in an airtight bag in the freezer
+Notes:
+- Make sure to drain and rinse the can of chickpeas. If you're using a standard 15.5 oz can, you should have about 125g of chickpeas in the food processor, after the liquid is drained (since you're only using half the can)
 ---

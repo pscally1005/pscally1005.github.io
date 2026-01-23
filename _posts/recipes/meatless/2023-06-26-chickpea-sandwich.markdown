@@ -58,4 +58,5 @@ Instructions:
 - Roughly mash with a fork or potato masher
 
 - Form into 3 sandwiches, and wrap in aluminum foil
+Notes:
 ---

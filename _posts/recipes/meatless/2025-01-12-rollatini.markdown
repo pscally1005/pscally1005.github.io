@@ -69,12 +69,12 @@ Instructions:
 - In a medium bowl, beat an egg, and combine with the cheese mix ingredients - (blended) cottage cheese, shredded mozzarella, garlic powder, onion powder, and dried parsley. Mix in coconut flour to thicken
 - <img src='/assets/Food/Meatless/Rollatini/sauce-and-cheese.jpg' alt='' class='instruction-image'>
 
-- <img src='/assets/Food/Meatless/Rollatini/topped.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Meatless/Rollatini/baked.jpg' alt='' class='instruction-image'>n. Repeat with the rest of the eggplant. Top with the remaining sauce, and sprinkle with grated cheese
+- Place about 1/3 of your sauce on the bottom of a 9x13" casserole dish. Add a spoonful of the cheese mix onto the eggplant, roll tightly, and place into the tray seam side down. Repeat with the rest of the eggplant. Top with the remaining sauce, and sprinkle with grated cheese
 - <img src='/assets/Food/Meatless/Rollatini/assembling.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meatless/Rollatini/rolled.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meatless/Rollatini/topped.jpg' alt='' class='instruction-image'>
 
 - Cover with foil and bake at 400F for about 30 minutes, or until melty and bubbly. Remove the cover, and bake for an additional 15 minutes. Let cool for 5 minutes before serving
-- <img src='/assets/Food/Meatless/Rollatini/topped.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meatless/Rollatini/baked.jpg' alt='' class='instruction-image'>
+Notes:
 ---

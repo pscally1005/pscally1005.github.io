@@ -70,4 +70,5 @@ Instructions:
 
 - Bake at 350F for 20 minutes, or until the crust is lightly browned. Let rest in the pan for 5 minutes before cutting into 4 slices
 - <img src='/assets/Food/Meatless/Deep Dish/baked.jpg' alt='' class='instruction-image'>
+Notes:
 ---

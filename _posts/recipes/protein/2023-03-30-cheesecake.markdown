@@ -62,6 +62,6 @@ Instructions:
 - <img src='/assets/Food/Protein Powder/Cheesecake/cheesecake-3.jpg' alt='' class='instruction-image'>
 
 - Place the pan in the fridge overnight. Cut into pieces. Flash freeze, and store slices in a ziploc bag in the freezer
-
+Notes:
 - Can serve with a side of berries and topped with melted peanut butter
 ---

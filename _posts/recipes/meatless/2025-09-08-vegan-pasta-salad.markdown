@@ -68,7 +68,7 @@ Instructions:
 
 - Add the dressing into the pasta bowl, and mix until fully combined. Serve cold or warm
 - <img src='/assets/Food/Meatless/Vegan Pasta Salad/no-sardines.jpg' alt='' class='instruction-image'>
-
+Notes:
 - To make it nut free, replace the pistachios with pumpkin seeds
 
 - If you don't have avocado, here's a substitution.  Microwave 1/4 cup + 2 tsp (70 g) water in a medium glass for a minute.  Add 1/4 cup (30 g) of pistachios (or pumpkin seeds), and let soak for at least 10 minutes.  This will yield a similar creaminess and nutritional profile as the 1 medium (100 g) avocado

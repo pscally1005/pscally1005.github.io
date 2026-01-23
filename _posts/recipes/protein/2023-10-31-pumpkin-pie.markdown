@@ -72,4 +72,5 @@ Instructions:
 - <img src='/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-6.jpg' alt='' class='instruction-image'>
 
 - Let cool completely before slicing, at least a few hours in the fridge to totally set. Optionally, dust the top of the pie with some cinnamon
+Notes:
 ---

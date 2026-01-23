@@ -74,6 +74,6 @@ Instructions:
 - <img src='/assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-8.jpg' alt='' class='instruction-image'>
 
 - Add the meat to the bowl with the vegetables. Combine together, and serve. Pair this with any hard or soft shelled tacos, cheese, and salsa
-
+Notes:
 - Note that the nutrition facts below include 1 <a href='/recipes/oat-wraps'>Gluten Free Oat Wrap</a> per serving
 ---

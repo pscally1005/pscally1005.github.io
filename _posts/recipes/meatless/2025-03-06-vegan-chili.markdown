@@ -72,4 +72,5 @@ Instructions:
 
 - Add the cream mix to the pot, and stir until fully combined. Squeeze in some lime, and divide into 6 servings
 - <img src='/assets/Food/Meatless/Vegan Chili/containers.jpg' alt='' class='instruction-image'>
+Notes:
 ---
