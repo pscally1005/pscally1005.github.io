@@ -633,11 +633,18 @@
 
         <!-- Combine for the output -->
         {% assign output = value | append: ' ' | append: unit | append: '<br>(' | append: percentage | append: ' %)' %}
+
         {% if showPercentage == "False" %}
             {% assign output = value | append: ' ' | append: unit %}
         {% endif %}
-        {% if page.title == "The ABCs of Nutrients" %}
+        {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" %}
             {% assign output = value | append: ' ' | append: unit | append: '(' | append: percentage | append: ' %)' %}
+
+            {% assign nutrients_without_percentage = "Calories,Net Carbs,Sugar" | split: "," %}
+            {% if nutrients_without_percentage contains nutrient" %}
+                {% assign output = value | append: ' ' | append: unit %}
+            {% endif %}
+
         {% endif %}
 
         <!-- Output fix for not present nutrient -->

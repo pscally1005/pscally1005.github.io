@@ -5,6 +5,15 @@
 {% assign scroll = include.scroll %}
 {% assign last_index = nutrients.size | minus: 1 %}
 
+{% assign servingSize = "100" %}
+{% if include.servingSize %}
+  {% assign servingSize = include.servingSize %}
+{% endif %}
+
+{% if page.title == "Overshadowed Healthy Foods" %}
+    <br><br>
+{% endif %}
+
 <div class='table-container'>
     <table>
         <thead>
@@ -92,7 +101,7 @@
                                 {% include getNutrient.html
                                     ing=ing_file
                                     facts=facts_file
-                                    servingSize="100"
+                                    servingSize=servingSize
                                     nutrient=nutrient
                                     fetch="perServing"
                                     rnd=rnd
@@ -145,7 +154,12 @@
     <img src='{{ pic }}' alt='' class='smaller-image'>
 </div><br><br>
 {% endif %}
-<hr>
+
+{% if page.title != "Overshadowed Healthy Foods" %}
+    <hr>
+{% else %}
+    <br>
+{% endif %}
 
 <style>
     table {
@@ -175,3 +189,27 @@
         max-width: 100%;
     }
 </style>
+
+{% if page.title == "Overshadowed Healthy Foods" %}
+  <style>
+    .table-container {
+      display: flex;
+      justify-content: center; /* centers the table */
+      overflow-x: auto;        /* allows scrolling if very wide */
+      width: 100%;
+    }
+
+    .table-container table {
+      width: auto;             /* shrink to fit columns */
+      max-width: none;
+      border-collapse: collapse;
+      margin: 0;               /* margin handled by flex centering */
+    }
+
+    th, td {
+      text-align: center;
+      white-space: nowrap;
+      padding: 6px 12px;
+    }
+  </style>
+{% endif %}
