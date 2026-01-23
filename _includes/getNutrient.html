@@ -79,6 +79,7 @@
 
     {% assign calc = "0mg (0 %)" %}
     {% assign cop = "0.00mg (0 %)" %}
+    {% assign iodine = "0.0mcg (0 %)" %}
     {% assign iron = "0.00mg (0 %)" %}
     {% assign magn = "0mg (0 %)" %}
     {% assign mang = "0.00mg (0 %)" %}
@@ -225,6 +226,10 @@
 
             {% if pair[1] == "Copper" %}
                 {% assign cop = line2 %}
+            {% endif %}
+
+            {% if pair[1] == "Iodine" %}
+                {% assign iodine = line1 %}
             {% endif %}
 
             {% if pair[1] == "Iron" %}
@@ -520,6 +525,10 @@
 
     {% if nutrient == "Copper" %}
         {% assign line = cop %}
+    {% endif %}
+
+    {% if nutrient == "Iodine" %}
+        {% assign line = iodine %}
     {% endif %}
 
     {% if nutrient == "Iron" %}

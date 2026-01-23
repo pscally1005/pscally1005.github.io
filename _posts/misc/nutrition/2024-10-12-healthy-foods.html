@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Overshadowed Healthy Foods
-date:   2026-01-22 00:00:00 -0500
+date:   2024-10-12 00:00:00 -0500
 categories:
 - Misc.
 - Nutrition
@@ -149,6 +149,28 @@ Besides <a href='/misc/fats'>fat</a>, coconut is also quite high in <a href='/mi
 
 I doubt you will be consuming a whole, fresh coconut, so I won't include nutrition facts for it here.  There's so many different types of coconut products for you to enjoy: <a href='https://www.nutritionvalue.org/Nuts%2C_not_sweetened%2C_dried_%28desiccated%29%2C_coconut_meat_nutritional_value.html?size=1+oz+%3D+28.35+g'>unsweetened coconut flakes</a>, <a href='https://www.nutritionvalue.org/Oil%2C_coconut_nutritional_value.html'>coconut oil</a>, <a href='https://www.nutritionvalue.org/Coconut_water%2C_unsweetened_42403010_nutritional_value.html?size=240+g'>unsweetened coconut water</a>, and more.  Just don't go calling coconut <a href='/misc/hidden-sugar'>sugar</a> healthier than regular granulated <a href='/misc/hidden-sugar'>sugar</a>; you get kicked off the island for that.<br><br>
 
+Instead below are the nutrition facts for both coconut flour and (unsweetened) coconut flakes, the two most common forms of coconut, both per 2 tbsp (15 g):
+
+{% assign files =
+    "coconut-flour,"
+    | append: "coconut-flakes"
+    | split: ","
+%}
+{% assign titles =
+    "Coconut<br>Flour<br>(2 tbsp, 15 g);"
+    | append: "Coconut<br>Flakes<br>(2 tbsp, 15 g)"
+    | split: ";"
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients servingSize="15" %}
+
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/coconut.png' alt='' class='smaller-image'>
 </div><br>
@@ -161,25 +183,24 @@ Ironically though, true dark chocolate is actually a very healthy food.  Cocoa p
 
 Just because chocolate says that it's "dark" though doesn't automatically make it healthy; there's a reason why I also put dark chocolate on <a href='/misc/fake-healthy-foods#chocolate'>"Healthy" Trap Foods</a>.  Legally, anything over 43% cocoa solids can claim itself to be dark chocolate.  At minimum, you should aim to consume anything over 70%; anything less is candy.  The higher the percentage, the more cocoa and less <a href='/misc/hidden-sugar'>sugar</a> there is.  For 1 ounce (28 g) of <a href='https://www.nutritionvalue.org/Baking_chocolate%2C_squares%2C_unsweetened_nutritional_value.html?size=1%20ounce%20%3D%2028.3495%20g'>unsweetened (100%) chocolate</a>, you're looking at the following:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 182
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 15 g (19 %)
-<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 9.2 g (46 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 8.1 g (3 %)
-<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 4.7 g (17 %)
-<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 0.3 g
-<br><b><a href='/misc/protein'>Protein</a></b>: 4.1 g (8 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.92 mg (102 %)
-<br><b><a href='/misc/iron'>Iron</a></b>: 4.9 mg (27 %)
-<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 92.7 mg (22 %)
-<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 1.2 mg (51 %)
-<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 2.7 mg (25 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#K'>Vitamin K</a></b>: 2.7 mcg (2 %)
-<br><b>Choline</b>: 13 mg (2 %)
-<br>------------------------------------------
+{% assign file = "unsweetened-chocolate" %}
+{% assign title = "100% Chocolate<br>(1 oz, 28 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Vitamin K,"
+    | append: "Choline,"
+    | append: "Copper,"
+    | append: "Iron,"
+    | append: "Manganese,"
+    | append: "Manganese,"
+    | append: "Zinc"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="28" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/cacao.png' alt='' class='smaller-image'>
@@ -193,23 +214,22 @@ Eggs are basically nature's multi-vitamin.  While the egg white is essentially p
 
 Besides being a nutritional powerhouse, eggs are also very cheap and versatile.  My preferred balance for breakfast is 2 whole eggs and 2 servings of liquid <a href='/misc/meat#egg-whites'>egg whites</a> with a bunch of veggies (like <a href='/recipes/spinach-mushroom-scrambled-eggs'>Spinach & Mushroom Scrambled Eggs</a> and <a href='/recipes/higher-protein-scrambled-eggs'>Higher Protein Scrambled Eggs</a>).  I get the extra <a href='/misc/protein'>protein</a> boost from just the plain <a href='/misc/meat#egg-whites'>egg whites</a> for less <a href='/misc/calories'>calories</a>, while still having all the benefits of the whole eggs.  One <a href='https://www.nutritionvalue.org/Eggs%2C_egg_whole%2C_Large%2C_Grade_A_748967_nutritional_value.html?size=1%20egg%20%3D%2050.3%20g'>large egg</a> (about 50 g) contains all the following:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 74
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 5 g (6 %)
-<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 1.6 g (8 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 0.5 g (0 %)
-<br><b><a href='/misc/protein'>Protein</a></b>: 6.2 g (12 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#I'>Iodine</a></b>: 24.7 mcg (16 %)
-<br><b><a href='/misc/nutrient-alphabet#S'>Selenium</a></b>: 15.6 mcg (28 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#A'>Vitamin A</a></b>: 91 mcg (10 %)
-<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.21 mg (16 %)
-<br><b><a href='/misc/vitamin-b12'>Vitamin B12</a></b>: 0.51 mcg (21 %)
-<br><b><a href='/misc/nutrient-alphabet#D'>Vitamin D</a></b>: 1.2 mcg (6 %)
-<br><b>Choline</b>: 169 mg (31 %)
-<br>------------------------------------------
+{% assign file = "eggs" %}
+{% assign title = "Large Egg<br>(50 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Vitamin A,"
+    | append: "Vitamin B2,"
+    | append: "Vitamin B12,"
+    | append: "Vitamin D,"
+    | append: "Choline,"
+    | append: "Iodine,"
+    | append: "Selenium"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="50" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/fried-egg.png' alt='' class='smaller-image'>
@@ -223,29 +243,28 @@ As mentioned, there's many varieties of fishes.  Most white fish, like <a href='
 
 Shellfish is fantastic as well, where a lot of them are lean <a href='/misc/protein'>protein</a> sources that are nutrient dense: <a href='https://www.nutritionvalue.org/Raw_shrimp_564929_nutritional_value.html?size=100%20g'>shrimp</a>, <a href='https://www.nutritionvalue.org/Mussels%2C_raw_26313100_nutritional_value.html?size=100+g'>mussels</a>, <a href='https://www.nutritionvalue.org/Clams%2C_canned_26303180_nutritional_value.html?size=100+g'>clams</a>, <a href='https://www.nutritionvalue.org/Mollusks%2C_raw%2C_mixed_species%2C_scallop_nutritional_value.html?size=100+g'>scallops</a>, and <a href='https://www.nutritionvalue.org/Mollusks%2C_raw%2C_common%2C_octopus_nutritional_value.html?size=100+g'>octopus</a> are all delicious and great for you.  <a href='https://www.nutritionvalue.org/Oysters%2C_raw_26315100_nutritional_value.html?size=100+g'>Oysters</a> in particular are extremely nutrient dense, having one of the highest <a href='/misc/iron'>iron contents</a> of any food; even higher than <a rel='' target='' href='#red-meat'>red meat</a>.<br><br>
 
-I've listed many types of fish and shellfish above, but I've decided to go with <a href='/misc/fish#salmon'> salmon</a> here, as it's typically considered one of the healthiest fishes you can eat. <a href='/misc/fish#salmon'> Salmon</a> is one of the best sources of <a href='/misc/nutrient-alphabet#O'>Omega-3</a> fatty acids, and it's pink color comes from astaxanthin, a carotenoid that's beneficial for heart, eye, skin, and brain health.  Per 100 g of <a href='https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g'>raw wild salmon</a>:
+I've listed many types of fish and shellfish above, but I've decided to go with <a href='/misc/fish#salmon'> salmon</a> here, as it's typically considered one of the healthiest fishes you can eat. <a href='/misc/fish#salmon'> Salmon</a> is one of the best sources of <a href='/misc/nutrient-alphabet#O'>Omega-3</a> fatty acids, and it's pink color comes from astaxanthin, a carotenoid that's beneficial for heart, eye, skin, and brain health.  For a 3 oz (85 g) piece of <a href='https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g'>raw wild salmon</a>:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 142
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 6.3 g (8 %)
-<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 1 g (5 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 0 g (0 %)
-<br><b><a href='/misc/protein'>Protein</a></b>: 20 g (40 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.25 mg (28 %)
-<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 200 mg (16 %)
-<br><b><a href='/misc/potassium'>Potassium</a></b>: 490 mg (10 %)
-<br><b><a href='/misc/nutrient-alphabet#S'>Selenium</a></b>: 36.5 mcg (66 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.23 mg (19 %)
-<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.38 mg (29 %)
-<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 7.9 mg (49 %)
-<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 1.7 mg (33 %)
-<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.82 mg (48 %)
-<br><b><a href='/misc/vitamin-b12'>Vitamin B12</a></b>: 3.2 mcg (132 %)
-<br><b><a href='/misc/nutrient-alphabet#D'>Vitamin D</a></b>: 11 mcg (55 %)
-<br>------------------------------------------
+{% assign file = "salmon" %}
+{% assign title = "Salmon<br>(3 oz, 85 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Vitamin B1,"
+    | append: "Vitamin B2,"
+    | append: "Vitamin B3,"
+    | append: "Vitamin B5,"
+    | append: "Vitamin B6,"
+    | append: "Vitamin B12,"
+    | append: "Vitamin D,"
+    | append: "Copper,"
+    | append: "Phosphorus,"
+    | append: "Potassium,"
+    | append: "Selenium"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="85" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/fish.png' alt='' class='smaller-image'>
@@ -264,26 +283,26 @@ Most dairy products are very cheap, versatile, tasty, and minimally processed.  
   <li>Milk</li>
 </ol><br>
 
-Milk also comes in varying <a href='/misc/fats'>fat</a> contents, making it easy to get exactly what you're looking for.  All variants of milk (whole, 2%, 1%, and skim) are essentially the same nutritionally besides the <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>.  Below are the nutrition facts for 1 cup (244 g) of <a href='https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=1%20cup%20%3D%20244%20g'>skim milk</a>:
+Milk also comes in varying <a href='/misc/fats'>fat</a> contents, making it easy to get exactly what you're looking for.  All variants of milk (whole, 2%, 1%, and skim) are essentially the same nutritionally besides the <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>.  Below are the nutrition facts for 1 cup (240 g) of <a href='https://www.nutritionvalue.org/Milk%2C_fat_free_%28skim%29_11113000_nutritional_value.html?size=1%20cup%20%3D%20244%20g'>skim milk</a>:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 83
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 0.2 g (0 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 12 g (0 %)
-<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 12 g
-<br><b><a href='/misc/protein'>Protein</a></b>: 8.4 g (17 %)
-<br>------------------------------------------
-<br><b><a href='/misc/calcium'>Calcium</a></b>: 322 mg (22 %)
-<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 261 mg (21 %)
-<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 1.1 mg (10 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#A'>Vitamin A</a></b>: 156 mcg (17 %)
-<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (11 %)
-<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
-<br><b><a href='/misc/vitamin-b12'>Vitamin B12</a></b>: 1.4 mcg (59 %)
-<br><b><a href='/misc/nutrient-alphabet#D'>Vitamin D</a></b>: 2.7 mcg (13 %)
-<br>------------------------------------------
+{% assign file = "skim-milk" %}
+{% assign title = "Skim milk<br>(1 cup, 240 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Vitamin A,"
+    | append: "Vitamin B1,"
+    | append: "Vitamin B2,"
+    | append: "Vitamin B12,"
+    | append: "Vitamin D,"
+    | append: "Calcium,"
+    | append: "Phosphorus,"
+    | append: "Zinc"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="240" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/milk.png' alt='' class='smaller-image'>
@@ -333,26 +352,33 @@ Similar to <a href='/misc/nuts'>nuts</a>, seeds are also great sources of health
   <li><a href='https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_dry_roasted%2C_sunflower_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>Sunflower seeds</a> – <a href='/misc/nutrient-alphabet#S'>selenium</a> &amp; <a href='/misc/nutrient-alphabet#E'>vitamin E</a></li>
 </ul><br>
 
-Many <a href='/misc/nuts'>nuts</a> and seeds are nutritionally similar, but all are healthy additions to your diet.  They're anti-inflammatory, benefit heart and brain health, contain anti-oxidants, and are very convenient.  Here, I've decided to go with <a href='https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>almonds</a>, since they're one of the more well known <a href='/misc/nuts'>nuts</a> that people consume.  Per 1 ounce (28 g):
+Many <a href='/misc/nuts'>nuts</a> and seeds are nutritionally similar, but all are healthy additions to your diet.  They're anti-inflammatory, benefit heart and brain health, contain anti-oxidants, and are very convenient.  Here, I've decided to go with <a href='https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>almonds</a> and <a href='https://www.nutritionvalue.org/Seeds%2C_without_salt%2C_dry_roasted%2C_sunflower_seed_kernels_nutritional_value.html?size=1+ounce+%3D+28.3495+g'>sunflower seeds</a>, since they're one of the more well known <a href='/misc/nuts'>nuts</a> and <a href='/misc/seeds'>seeds</a> that people consume.  Per 1 ounce (28 g):
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 164
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 14 g (18 %)
-<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 1.1 g (6 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 6.1 g (2 %)
-<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 3.5 g (12 %)
-<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 1.2 g
-<br><b><a href='/misc/protein'>Protein</a></b>: 6 g (12 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.29 mg (32 %)
-<br><b><a href='/misc/iron'>Iron</a></b>: 1.1 mg (6 %)
-<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 77 mg (18 %)
-<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 136 mg (11 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.32 mg (25 %)
-<br><b><a href='/misc/nutrient-alphabet#E'>Vitamin E</a></b>: 7.3 mg (48 %)
-<br>------------------------------------------
+{% assign files =
+    "almonds,"
+    | append: "sunflower-seeds"
+    | split: ","
+%}
+{% assign titles =
+    "Almonds<br>(1 oz, 28 g);"
+    | append: "Sunflower Seeds<br>(1 oz, 28 g)"
+    | split: ";"
+%}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Vitamin B2,"
+    | append: "Vitamin E,"
+    | append: "Copper,"
+    | append: "Iron,"
+    | append: "Magnesium,"
+    | append: "Phosphorus"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients servingSize="28" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/nuts.png' alt='' class='smaller-image'>
@@ -384,26 +410,26 @@ Being a complex carbohydrate source that's rich in <a href='/misc/fiber'>fiber</
 
 The addition of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/fats'>fat</a> from the other ingredients helps offset the blood sugar spikes from the <a href='/misc/carbs'>carbs</a> of the oats, while also helping you feel full for longer.  Plus, oats themselves are a good source of <a href='/misc/fiber'>fiber</a>, containing nearly 4 g in a 40 g serving.  Like <a rel='' target='' href='#brown-rice'>rice</a>, oats may not be much on their own, but they can be a very nutritious base when paired with other ingredients.  A 1/2 cup (40 g) serving of <a href='https://www.nutritionvalue.org/Cereals%2C_Dry%2C_Quick_Oats%2C_QUAKER_nutritional_value.html'>oats</a> contains:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 148
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 2.7 g (3 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 27 g (10 %)
-<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 3.8 g (14 %)
-<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 0.6 g
-<br><b><a href='/misc/protein'>Protein</a></b>: 5.5 g (11 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.15 mg (17 %)
-<br><b><a href='/misc/iron'>Iron</a></b>: 1.9 mg (11 %)
-<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 108 mg (26 %)
-<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 1.72 mg (75 %)
-<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 183 mg (15 %)
-<br><b><a href='/misc/nutrient-alphabet#S'>Selenium</a></b>: 11.6 mcg (21 %)
-<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 1.3 mg (12 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.22 mg (18 %)
-<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.28 mg (6 %)
-<br>------------------------------------------
+{% assign file = "oats" %}
+{% assign title = "Oats<br>(1/2 cup, 40 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Vitamin B1,"
+    | append: "Vitamin B5,"
+    | append: "Copper,"
+    | append: "Iron,"
+    | append: "Magnesium,"
+    | append: "Manganese,"
+    | append: "Phosphorus,"
+    | append: "Selenium,"
+    | append: "Zinc"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="40" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/oatmeal.png' alt='' class='smaller-image'>
@@ -417,23 +443,22 @@ Natural peanut butter on the other hand contains nothing but <a href='/misc/nuts
 
 I won't repeat what I said above about <a rel='' target='' href='#nuts'>nuts</a>, as everything would still apply here.  <a href='/misc/nuts'>Nuts</a> are nutrient powerhouses, but also high in <a href='/misc/fats'>fat</a>.  For 2 tbsp (32 g) of <a href='https://www.nutritionvalue.org/Natural_peanut_butter_by_HAMPTON_FARMS_718824_nutritional_value.html?size=2%20tbsp%20%3D%2032.0%20g'>natural peanut butter</a> (just <a href='/misc/nuts#peanuts'>peanuts</a> and salt, no hydroginated oils or added sugars), we have the following:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 190
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 16 g (21 %)
-<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 2 g (10 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 7 g (3 %)
-<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 3 g (11 %)
-<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 1 g
-<br><b><a href='/misc/protein'>Protein</a></b>: 8 g (16 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.14 mg (16 %)
-<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 54 mg (13 %)
-<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 0.53 mg (23 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 4.2 mg (26 %)
-<br><b><a href='/misc/nutrient-alphabet#E'>Vitamin E</a></b>: 2.9 mg (19 %)
-<br>------------------------------------------
+{% assign file = "nat-pb" %}
+{% assign title = "Peanut Butter<br>(2 tbsp, 32 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Vitamin B3,"
+    | append: "Vitamin E,"
+    | append: "Copper,"
+    | append: "Magnesium,"
+    | append: "Manganese"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="32" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/peanut-butter.png' alt='' class='smaller-image'>
@@ -447,23 +472,23 @@ But it's not all bad news; far from it.  <a href='/misc/grains#popcorn'>Popcorn<
 
 <a href='https://www.nutritionvalue.org/Popcorn%2C_unbuttered%2C_air-popped_54403010_nutritional_value.html?size=40+g'>Plain popcorn kernels</a> are an insane volume food.  Just 3 tbsp (40 g) of unpopped kernels becomes 7.5 cups of cooked <a href='/misc/grains#popcorn'>popcorn</a>.  The high volume combined with the high <a href='/misc/fiber'>fiber</a> content leads <a href='/misc/grains#popcorn'>popcorn</a> to become a very filling and somewhat healthy snack if you prepare it yourself.  The nutrition facts are as follows:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 154
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 1.8 g (2 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 31 g (11 %)
-<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 5.8 g (19 %)
-<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 0.4 g
-<br><b><a href='/misc/protein'>Protein</a></b>: 5.2 g (10 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.10 mg (11 %)
-<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 57 mg (14 %)
-<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 143 mg (11 %)
-<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 1.2 mg (11 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 0.92 mg (6 %)
-<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.06 mg (4 %)
-<br>------------------------------------------
+{% assign file = "popcorn" %}
+{% assign title = "Popcorn,<br>popped<br>(7 1/2 cup, 40 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Vitamin B3,"
+    | append: "Vitamin B6,"
+    | append: "Copper,"
+    | append: "Magnesium,"
+    | append: "Phosphorus,"
+    | append: "Zinc"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="40" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/popcorn.png' alt='' class='smaller-image'>
@@ -489,24 +514,24 @@ Potatoes are often thought of as a junk food, and probably for good reason.  Sim
 
 As long as you don't cover them in butter, stick them in a deep frier, or load on cheese, <a href='/misc/meat#bacon'>bacon</a>, and sour cream, <a href='/misc/veggies#potato'>potatoes</a> can be a very healthy addition to your diet.  <a href='/misc/veggies#potato'>Potatoes</a> are the highest ranking food on the satiety index, meaning that they keep you full for longer than other foods when <a href='/misc/calories'>calories</a> are controlled.  They're a starchy vegetable with a decent bit of <a href='/misc/fiber'>fiber</a>, contain more potassium than a <a href='/misc/fruit#banana'>banana</a>, and are extremenly cheap and versatile.  Just make sure to consume the skin; that's where all the nutrients are.  For 1 medium <a href='https://www.nutritionvalue.org/Potatoes%2C_raw%2C_flesh_and_skin_nutritional_value.html?size=1+Potato+small+%281-3%2F4%22+to+2-1%2F2%22+dia%29+%3D+170+g'>potato</a> (about 170 g), you're looking at:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 131
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 0.2 g (0 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 30 g (11 %)
-<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 3.6 g (19 %)
-<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 1.4 g
-<br><b><a href='/misc/protein'>Protein</a></b>: 3.5 g (7 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.19 mg (21 %)
-<br><b><a href='/misc/potassium'>Potassium</a></b>: 723 mg (15 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.14 mg (12 %)
-<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 1.8 mg (11 %)
-<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.50 mg (10 %)
-<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.51 mg (50 %)
-<br><b><a href='/misc/vitamin-c'>Vitamin C</a></b>: 36 mg (37 %)
-<br>------------------------------------------
+{% assign file = "potato" %}
+{% assign title = "Potato<br>(1 medium, 170 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Vitamin B1,"
+    | append: "Vitamin B3,"
+    | append: "Vitamin B5,"
+    | append: "Vitamin B6,"
+    | append: "Vitamin C,"
+    | append: "Copper,"
+    | append: "Potassium"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="170" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/potato.png' alt='' class='smaller-image'>
@@ -514,25 +539,25 @@ As long as you don't cover them in butter, stick them in a deep frier, or load o
 
 <a href='/misc/veggies#sweet-potato'>Sweet potatoes</a> are often thought of as a healthier potato.  Not only do they taste better (imo), but sweet potatoes are loaded with vitamin A, which is beneficial for eye and immune health.  Despite being higher in <a href='/misc/hidden-sugar'>sugar</a> (there's no need to avoid whole food sugars), sweet potatoes have a lower glycemic index (GI) value than regular <a href='/misc/veggies#potato'>potatoes</a>: 70 compared to 85.  Again, make sure to eat the <a href='/misc/veggies#potato'>potato</a> skins.  For 1 medium <a href='https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=170+g'>sweet potato</a> (170 g):
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 146
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 0.1 g (0 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 34 g (12 %)
-<br>&emsp;<b><a href='/misc/fiber'>Fiber</a></b>: 5.1 g (18 %)
-<br>&emsp;<b><a href='/misc/hidden-sugar'>Sugar</a></b>: 7.1 g
-<br><b><a href='/misc/protein'>Protein</a></b>: 2.7 g (5 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#C'>Copper</a></b>: 0.26 mg (29 %)
-<br><b><a href='/misc/magnesium'>Magnesium</a></b>: 43 mg (10 %)
-<br><b><a href='/misc/nutrient-alphabet#M'>Manganese</a></b>: 0.44 mg (19 %)
-<br><b><a href='/misc/potassium'>Potassium</a></b>: 573 mg (12 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#A'>Vitamin A</a></b>: 1,205 mcg (134 %)
-<br><b><a href='/misc/nutrient-alphabet#T'>Thiamin</a></b> <i>(Vitamin B1)</i>: 0.13 mg (11 %)
-<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 1.4 mg (27 %)
-<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.36 mg (21 %)
-<br>------------------------------------------
+{% assign file = "sweet-potato" %}
+{% assign title = "Sweet Potato<br>(1 medium, 170 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Carbs,"
+    | append: "Fiber,"
+    | append: "Vitamin A,"
+    | append: "Vitamin B1,"
+    | append: "Vitamin B5,"
+    | append: "Vitamin B6,"
+    | append: "Copper,"
+    | append: "Magnesium,"
+    | append: "Manganese,"
+    | append: "Potassium"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="170" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/sweet-potato.png' alt='' class='smaller-image'>
@@ -544,28 +569,27 @@ I've saved the most controversial for last (thank you alphabetical order).  The 
 
 As long as you consume lean meats, like 93% lean <a href='/misc/meat#ground-beef'>ground beef</a> or lean steaks, there's no reason to avoid red meat.  In fact, there are many reasons why you should actually seek out red meat.  Besides the obvious (complete) <a href='/misc/protein'>protein</a>, <a href='/misc/meat#ground-beef'>beef</a> is a rich source of <a href='/misc/iron'>iron</a>, <a href='/misc/nutrient-alphabet#S'>selenium</a>, <a href='/misc/nutrient-alphabet#Z'>zinc</a>, <a href='/misc/nutrient-alphabet#N'>niacin</a>, <a href='/misc/vitamin-b12'>vitamin B12</a>, and choline.  Red meat contains heme-iron, the more bioavailable version, meaning that <a href='/misc/iron'>iron</a> from <a href='/misc/meat#ground-beef'>beef</a> is more easily absorbed in the body as opposed to plant based sources of <a href='/misc/iron'>iron</a>.<br><br>
 
-A lot of my <a href='/recipes/ground-meat'>ground meat</a> recipes use <a href='/misc/meat#ground-turkey'>turkey</a> over <a href='/misc/meat#ground-beef'>beef</a> since <a href='/misc/meat#ground-turkey'>ground turkey</a> is cheaper.  But 2-3 years of minimal <a href='/misc/meat#ground-beef'>beef</a> consumption has caught up with me, and I have very low <a href='/misc/iron'>iron</a>.  <a href='/misc/meat#ground-beef'>Beef</a> has over double the <a href='/misc/iron'>iron</a> of <a href='/misc/meat#ground-turkey'>turkey</a>, see <a href='/misc/iron'>I Run on Iron</a>.  Here's all of the following per 100 grams of raw <a href='https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g'>93/7 ground beef</a>:
+A lot of my <a href='/recipes/ground-meat'>ground meat</a> recipes use <a href='/misc/meat#ground-turkey'>turkey</a> over <a href='/misc/meat#ground-beef'>beef</a> since <a href='/misc/meat#ground-turkey'>ground turkey</a> is cheaper.  But 2-3 years of minimal <a href='/misc/meat#ground-beef'>beef</a> consumption has caught up with me, and I have very low <a href='/misc/iron'>iron</a>.  <a href='/misc/meat#ground-beef'>Beef</a> has over double the <a href='/misc/iron'>iron</a> of <a href='/misc/meat#ground-turkey'>turkey</a>, see <a href='/misc/iron'>I Run on Iron</a>.  Here's all of the following for a 4 oz (113 g) serving of raw <a href='https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g'>93/7 ground beef</a>:
 
-<br>------------------------------------------
-<br><b><a href='/misc/calories'>Calories</a></b>: 152
-<br>------------------------------------------
-<br><b><a href='/misc/fats'>Fat</a></b>: 7 g (9 %)
-<br>&emsp;<b><a href='/misc/fats'>Sat Fat</a></b>: 2.9 g (14 %)
-<br><b><a href='/misc/carbs'>Carbs</a></b>: 0 g (0 %)
-<br><b><a href='/misc/protein'>Protein</a></b>: 21 g (42 %)
-<br>------------------------------------------
-<br><b><a href='/misc/iron'>Iron</a></b>: 2.3 mg (13 %)
-<br><b><a href='/misc/phosphorus'>Phosphorus</a></b>: 192 mg (15 %)
-<br><b><a href='/misc/nutrient-alphabet#S'>Selenium</a></b>: 17.1 mcg (31 %)
-<br><b><a href='/misc/nutrient-alphabet#Z'>Zinc</a></b>: 5.0 mg (45 %)
-<br>------------------------------------------
-<br><b><a href='/misc/nutrient-alphabet#R'>Riboflavin</a></b> <i>(Vitamin B2)</i>: 0.15 mg (12 %)
-<br><b><a href='/misc/nutrient-alphabet#N'>Niacin</a></b> <i>(Vitamin B3)</i>: 5.3 mg (33 %)
-<br><b><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></b> <i>(Vitamin B5)</i>: 0.63 mg (13 %)
-<br><b><a href='/misc/nutrient-alphabet#B6'>Vitamin B6</a></b>: 0.38 mg (23 %)
-<br><b><a href='/misc/vitamin-b12'>Vitamin B12</a></b>: 2.2 mcg (93 %)
-<br><b>Choline</b>: 69 mg (13 %)
-<br>------------------------------------------
+{% assign file = "ground-beef" %}
+{% assign title = "93/7 Beef<br>(4 oz, 113 g)" %}
+{% assign nutrients =
+    "Calories,"
+    | append: "Protein,"
+    | append: "Fat,"
+    | append: "Vitamin B2,"
+    | append: "Vitamin B3,"
+    | append: "Vitamin B5,"
+    | append: "Vitamin B6,"
+    | append: "Vitamin B12,"
+    | append: "Choline,"
+    | append: "Iron,"
+    | append: "Phosphorus,"
+    | append: "Selenium,"
+    | append: "Zinc"
+    | split: ","
+%}
+{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="113" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/grilling.png' alt='' class='smaller-image'>
