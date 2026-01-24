@@ -4,18 +4,19 @@ sections:
       - key: Vitamin A, RAE
         display: Vitamin A
       - key: Thiamin [Vitamin B1]
-        display: Vitamin B1 (Thiamin)
+        display: Vitamin B1<br>(Thiamin)
       - key: Riboflavin [Vitamin B2]
-        display: Vitamin B2 (Riboflavin)
+        display: Vitamin B2<br>(Riboflavin)
       - key: Niacin [Vitamin B3]
-        display: Vitamin B3 (Niacin)
+        display: Vitamin B3<br>(Niacin)
       - key: Pantothenic acid [Vitamin B5]
-        display: Vitamin B5 (Pantothenic Acid)
+        display: Vitamin B5<br>(Pantothenic Acid)
       - key: Vitamin B6
+        display: Vitamin B6<br>(Pyridoxine)
       - key: Folate, DFE [Vitamin B9]
-        display: Vitamin B9 (Folate)
+        display: Vitamin B9<br>(Folate)
       - key: Vitamin B12 [Cobalamin]
-        display: Vitamin B12
+        display: Vitamin B12<br>(Cobalamin)
       - key: Vitamin C [Ascorbic acid]
         display: Vitamin C
       - key: Vitamin D

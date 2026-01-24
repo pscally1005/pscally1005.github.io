@@ -54,7 +54,7 @@ tags:
 - brown rice
 - quinoa beans
 Description: |
-  These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled with <a href='/misc/meat#ground-turkey'>ground turkey</a>, <a href='/misc/grains#brown-rice'>brown rice</a>, and taco seasonings.  But they're super customizable, see notes below
+  These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled with <a href='/misc/meat#ground-turkey'>ground turkey</a>, <a href='/misc/grains#brown-rice'>brown rice</a>, and taco seasonings.  But they're super customizable, see <a href='#notes'>notes</a> below
 Instructions:
 - In a small pot, add your rice, water, and salt. Bring to a boil over high heat. Cover, reduce to low, and let simmer for about 20-30 minutes, until fully cooked. Set aside
 

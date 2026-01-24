@@ -33,6 +33,9 @@
         // Borders for table cells and text color
         tableContent += 'th, td { padding: 8px; border: 1px solid black; text-align: left; color: ' + textColor + '; }';
 
+        // Center all except first column
+        tableContent += 'tbody td:not(:first-child), thead th:not(:first-child) { text-align: center; }';
+
         // Sticky header for the table with both top and bottom borders
         tableContent += 'thead th { position: sticky; top: 40px; background-color: ' + backgroundColor + '; z-index: 2; ';
         tableContent += 'padding-top: 8px; padding-bottom: 8px; border-top: 1px solid black; border-bottom: 1px solid black; color: ' + textColor + '; }';

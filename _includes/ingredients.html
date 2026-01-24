@@ -94,7 +94,9 @@
     <!-- Print total and serving costs -->
     <div class='cost-section'>
         <div class='recipe-header'>Cost</div>
-        <div id="recipe"></div>
+        {% if ing and recipe == "true" %}
+            <div id="recipe"></div>
+        {% endif %}
         <div class='ingredient-item' style="margin-bottom: 5px !important; display: inline !important;">
                 <div class='recipe-section-bold' style="font-style: normal !important;">Total Cost: </div>
                 <div class='recipe-costs' data-base-recipe-cost="{{ recipeCost }}"></div>

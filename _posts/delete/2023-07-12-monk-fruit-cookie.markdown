@@ -62,7 +62,7 @@ Description: Delicious cookies made without <a href='/misc/hidden-sugar'>sugar</
 Instructions:
 - Combine the base ingredients in a large bowl - granulated monk fruit (or any other granular sweetener), unsweetened applesauce, vanilla extract, baking soda, and salt
 
-- Choose your flavor (see notes below). Here, the flour is oat flour, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
+- Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is oat flour, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
 
 - Preheat the oven to 350F and line a large cookie sheet with parchment paper. Roll into cookies, and flatten as desired (they won't flatten as they cook)
 - <img src='/assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-3.jpg' alt='' class='instruction-image'>

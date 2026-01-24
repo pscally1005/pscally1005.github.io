@@ -1,9 +1,10 @@
-<div class='recipe-instruction-header'>
+<div class='recipe-notes-header'>
     {% if page.Notes %}
+        <div id="notes" class="table-of-contents-2"></div>
         <div class='recipe-header'>Notes</div>
 
         <!-- Display steps -->
-        <div class='recipe-instructions'>
+        <div class='recipe-notes'>
             <div class='recipe-section'>
                 <ol>
                     {% assign step_number = 1 %}
