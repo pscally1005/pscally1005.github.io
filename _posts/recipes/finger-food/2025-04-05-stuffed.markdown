@@ -69,7 +69,7 @@ Instructions:
 - <img src='/assets/Food/Finger Food/Stuffed/raw.jpg' alt='' class='instruction-image'>
 
 - Cover the pan with aluminum foil, and roast at 400F for about 1 hour. The peppers should be tender and the meat fully cooked (at least 165F)
-- <img src='/assets/Food/Finger Food/Stuffed/cooked.jpg' alt='' class='instruction-image'><br>
+- <img src='/assets/Food/Finger Food/Stuffed/cooked.jpg' alt='' class='instruction-image'>
 Notes:
 - |
   This post is more of a guide on how to make stuffed peppers; below are different filling options you can try

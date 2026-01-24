@@ -14,6 +14,7 @@ LINKS = {
   "sugar-free syrup": "/recipes/sugar-free-syrup",
   "natural peanut butter": "/recipes/natural-peanut-butter",
   "natural nut butter": "/recipes/natural-peanut-butter",
+  "sugar free chocolate chips": "/recipes/monkfruit-chocolate-chunks",
 
   # BEANS
   "black beans": "/misc/beans#black-beans",
@@ -490,6 +491,7 @@ LINKS = {
   "vitamin c": "/misc/vitamin-c",
   "added sugar": "/misc/hidden-sugar",
   "hidden sugar": "/misc/hidden-sugar",
+  "refined sugar": "/misc/hidden-sugar",
   "sugar free": "/misc/hidden-sugar",
   "sugar-free": "/misc/hidden-sugar",
   "sugar": "/misc/hidden-sugar",
