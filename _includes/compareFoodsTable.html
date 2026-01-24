@@ -30,128 +30,8 @@
                 <tr>
 
                     {% assign nutrient = nutrients[i] %}
-                    {% assign nutrientLink = nutrient %}
 
-                    {% if nutrient == "Calories" %}
-                      {% assign nutrientLink = "<a href='/misc/calories'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Fat" or nutrient == "Total Fat" %}
-                      {% assign nutrientLink = "<a href='/misc/fats'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Saturated Fat" %}
-                      {% assign nutrientLink = "<a href='/misc/fats'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Trans Fat" %}
-                      {% assign nutrientLink = "<a href='/misc/fats'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Polyunsaturated Fat" %}
-                      {% assign nutrientLink = "<a href='/misc/fats'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Monounsaturated Fat" %}
-                      {% assign nutrientLink = "<a href='/misc/fats'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Cholesterol" %}
-                      {% assign nutrientLink = "<a href='/misc/cholesterol'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Sodium" %}
-                      {% assign nutrientLink = "<a href='/misc/sodium'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Carbs" or nutrient == "Carbohydrates" or nutrient == "Total Carbohydrate" %}
-                      {% assign nutrientLink = "<a href='/misc/carbs'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Fiber" %}
-                      {% assign nutrientLink = "<a href='/misc/fiber'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Net Carbs" %}
-                      {% assign nutrientLink = "<a href='/misc/carbs'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Sugar" or nutrient == "Total Sugar" %}
-                      {% assign nutrientLink = "<a href='/misc/carbs'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Lactose" %}
-                      {% assign nutrientLink = "<a href='/misc/dairy'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Added Sugar" %}
-                      {% assign nutrientLink = "<a href='/misc/hidden-sugar'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Sugar Alcohol" %}
-                      {% assign nutrientLink = "<a href='/misc/fake-healthy-foods#sugar-substitutes'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Allulose" %}
-                      {% assign nutrientLink = "<a href='/misc/fake-healthy-foods#sugar-substitutes'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Protein" %}
-                      {% assign nutrientLink = "<a href='/misc/protein'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Gluten" %}
-                      {% assign nutrientLink = "<a href='/misc/celiac'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin A" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#A'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin B1" or nutrient == "Thiamin" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#T'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin B2" or nutrient == "Riboflavin" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#R'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin B3" or nutrient == "Niacin" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#N'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin B5" or nutrient == "Pantothenic Acid" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#P'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin B6" or nutrient == "Pyridoxine" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#B'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin B9" or nutrient == "Folate" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#F'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin B12" %}
-                      {% assign nutrientLink = "<a href='/misc/vitamin-b12'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin C" %}
-                      {% assign nutrientLink = "<a href='/misc/vitamin-c'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin D" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#D'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin E" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#E'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Vitamin K" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#K'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Choline" %}
-                      {% assign nutrientLink = "<a href='/misc/choline'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Calcium" %}
-                      {% assign nutrientLink = "<a href='/misc/calcium'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Iron" %}
-                      {% assign nutrientLink = "<a href='/misc/iron'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Magnesium" %}
-                      {% assign nutrientLink = "<a href='/misc/magnesium'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Manganese" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#M'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Phosphorus" %}
-                      {% assign nutrientLink = "<a href='/misc/phosphorus'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Potassium" %}
-                      {% assign nutrientLink = "<a href='/misc/potassium'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Selenium" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#S'>" | append: nutrient | append: "</a>" %}
-
-                    {% elsif nutrient == "Zinc" %}
-                      {% assign nutrientLink = "<a href='/misc/nutrient-alphabet#Z'>" | append: nutrient | append: "</a>" %}
-
-                    {% endif %}
-
-                    <td>{{ nutrientLink }}</td>
+                    <td>{% include nutrientLinks.html nutrient=nutrient %}</td>
 
                     {% if
                         nutrient == "Calories" or
@@ -204,6 +84,7 @@
                         nutrient == "Vitamin B6" or
                         nutrient == "Pyridoxine" or
                         nutrient == "Vitamin B12" or
+                        nutrient == "Cobalamin" or
                         nutrient == "Vitamin D" or
                         nutrient == "Vitamin E" or
                         nutrient == "Copper" or
@@ -215,7 +96,7 @@
                         nutrient == "Leucine" or
                         nutrient == "Lysine" or
                         nutrient == "Methionine" or
-                        nutrient == "Phenyalanine" or
+                        nutrient == "Phenylalanine" or
                         nutrient == "Threonine" or
                         nutrient == "Tryptophan" or
                         nutrient == "Valine" or

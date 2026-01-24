@@ -1,0 +1,84 @@
+{% if include.nutrient %}
+
+  {% assign nutrient = include.nutrient %}
+  {% assign nutrientLink = nutrient %}
+
+  {% assign nutrientLinks =
+    "Calories:/misc/calories,
+     Fat:/misc/fats,
+     Total Fat:/misc/fats,
+     Saturated Fat:/misc/fats,
+     Trans Fat:/misc/fats,
+     Polyunsaturated Fat:/misc/fats,
+     Monounsaturated Fat:/misc/fats,
+     Cholesterol:/misc/cholesterol,
+     Sodium:/misc/sodium,
+
+     Carbs:/misc/carbs,
+     Carbohydrates:/misc/carbs,
+     Total Carbohydrate:/misc/carbs,
+     Fiber:/misc/fiber,
+     Net Carbs:/misc/carbs,
+     Sugar:/misc/carbs,
+     Total Sugar:/misc/carbs,
+     Lactose:/misc/dairy,
+     Added Sugar:/misc/hidden-sugar,
+     Sugar Alcohol:/misc/fake-healthy-foods#sugar-substitutes,
+     Allulose:/misc/fake-healthy-foods#sugar-substitutes,
+
+     Protein:/misc/protein,
+     Gluten:/misc/celiac,
+
+     Histidine:/misc/nutrient-alphabet#H,
+     Isoleucine:/misc/protein,
+     Leucine:/misc/protein,
+     Lysine:/misc/protein,
+     Methionine:/misc/protein,
+     Phenylalanine:/misc/protein,
+     Threonine:/misc/protein,
+     Tryptophan:/misc/protein,
+     Valine:/misc/nutrient-alphabet#V,
+
+     Vitamin A:/misc/nutrient-alphabet#A,
+     Vitamin B1:/misc/nutrient-alphabet#T,
+     Thiamin:/misc/nutrient-alphabet#T,
+     Vitamin B2:/misc/nutrient-alphabet#R,
+     Riboflavin:/misc/nutrient-alphabet#R,
+     Vitamin B3:/misc/nutrient-alphabet#N,
+     Niacin:/misc/nutrient-alphabet#N,
+     Vitamin B5:/misc/nutrient-alphabet#P,
+     Pantothenic Acid:/misc/nutrient-alphabet#P,
+     Vitamin B6:/misc/nutrient-alphabet#B,
+     Pyridoxine:/misc/nutrient-alphabet#B,
+     Vitamin B9:/misc/nutrient-alphabet#F,
+     Folate:/misc/nutrient-alphabet#F,
+     Vitamin B12:/misc/vitamin-b12,
+     Cobalamin:/misc/vitamin-b12,
+     Vitamin C:/misc/vitamin-c,
+     Vitamin D:/misc/nutrient-alphabet#D,
+     Vitamin E:/misc/nutrient-alphabet#E,
+     Vitamin K:/misc/nutrient-alphabet#K,
+
+     Choline:/misc/choline,
+     Calcium:/misc/calcium,
+     Iron:/misc/iron,
+     Magnesium:/misc/magnesium,
+     Manganese:/misc/nutrient-alphabet#M,
+     Phosphorus:/misc/phosphorus,
+     Potassium:/misc/potassium,
+     Selenium:/misc/nutrient-alphabet#S,
+     Zinc:/misc/nutrient-alphabet#Z"
+  | split: ","
+  %}
+
+  {% for item in nutrientLinks %}
+    {% assign pair = item | strip | split: ":" %}
+    {% if pair[0] == nutrient %}
+      {% assign nutrientLink = "<a href='" | append: pair[1] | append: "'>" | append: nutrient | append: "</a>" %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {{ nutrientLink }}
+
+{% endif %}
