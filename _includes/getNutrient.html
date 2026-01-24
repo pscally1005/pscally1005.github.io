@@ -103,6 +103,9 @@
     {% assign gluten = 0.0 %}
     {% assign glutenStr = "0.0g (0 %)"" %}
 
+    {% assign lactose = 0.0 %}
+    {% assign lactoseStr = "0.0g (0 %)"" %}
+
     <!-- Loop to get nutrition facts -->
     {% for row in loopVarFacts %}
         {% for pair in row %}
@@ -320,7 +323,7 @@
 
             {% assign file = facts | replace: "-facts", "" %}
 
-            <!-- Added sugar, sugar alcohol, allulose, and gluten per ingredient -->
+            <!-- Added sugar, sugar alcohol, allulose, gluten, and lactose per ingredient -->
             {% if r["Food"] == food or r["File"] == file %}
 
                 {% assign mass = 100.0 %}
@@ -340,6 +343,9 @@
                 {% assign itemGluten = r["Gluten Protein %"] | times: totalProtein | divided_by: 100 %}
                 {% assign gluten = gluten | plus: itemGluten %}
 
+                {% assign itemLactose = r["Lactose per 100 g"] | times: mass | divided_by: 100 %}
+                {% assign lactose = lactose | plus: itemLactose %}
+
                 {% comment %}
                   food:"{{food}}"<br>
                   itemAddedSugar:"{{itemAddedSugar}}"<br>
@@ -350,6 +356,8 @@
                   all:"{{all}}"<br>
                   itemGluten:"{{itemGluten}}"<br>
                   gluten:"{{gluten}}"<br>
+                  itemLactose:"{{itemLactose}}"<br>
+                  lactose:"{{lactose}}"<br>
                   <br>
                 {% endcomment %}
 
@@ -365,6 +373,7 @@
     {% assign sugAlc = sugAlc | divided_by: servings %}
     {% assign all = all | divided_by: servings %}
     {% assign gluten = gluten | divided_by: servings %}
+    {% assign lactose = lactose | divided_by: servings %}
 
     <!-- Calc net carbs -->
     {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
@@ -388,6 +397,9 @@
     <!-- Gluten -->
     {% assign glutenStr = gluten | round: 1 | append: 'g' %}
 
+    <!-- Lactose -->
+    {% assign lactoseStr = lactose | round: 1 | append: 'g' %}
+
     <!-- Empty line variable to be filled later -->
     {% assign line = "" %}
 
@@ -407,7 +419,7 @@
         {% assign line = cal %}
     {% endif %}
 
-    {% if nutrient == "Fat" %}
+    {% if nutrient == "Fat" or nutrient == "Total Fat" %}
         {% assign line = fat %}
     {% endif %}
 
@@ -435,7 +447,7 @@
         {% assign line = sod %}
     {% endif %}
 
-    {% if nutrient == "Carbs" %}
+    {% if nutrient == "Carbs" or nutrient == "Carbohydrates" or nutrient == "Total Carbohydrate" %}
         {% assign line = carb %}
     {% endif %}
 
@@ -455,7 +467,7 @@
         {% assign line = allStr %}
     {% endif %}
 
-    {% if nutrient == "Sugar" %}
+    {% if nutrient == "Sugar" or nutrient == "Total Sugar" %}
         {% assign line = sug %}
     {% endif %}
 
@@ -471,27 +483,27 @@
         {% assign line = vitA %}
     {% endif %}
 
-    {% if nutrient == "Vitamin B1" %}
+    {% if nutrient == "Vitamin B1" or nutrient == "Thiamin" %}
         {% assign line = vitB1 %}
     {% endif %}
 
-    {% if nutrient == "Vitamin B2" %}
+    {% if nutrient == "Vitamin B2" or nutrient == "Riboflavin" %}
         {% assign line = vitB2 %}
     {% endif %}
 
-    {% if nutrient == "Vitamin B3" %}
+    {% if nutrient == "Vitamin B3" or nutrient == "Niacin" %}
         {% assign line = vitB3 %}
     {% endif %}
 
-    {% if nutrient == "Vitamin B5" %}
+    {% if nutrient == "Vitamin B5" or nutrient == "Pantothenic Acid" %}
         {% assign line = vitB5 %}
     {% endif %}
 
-    {% if nutrient == "Vitamin B6" %}
+    {% if nutrient == "Vitamin B6" or nutrient == "Pyridoxine" %}
         {% assign line = vitB6 %}
     {% endif %}
 
-    {% if nutrient == "Vitamin B9" %}
+    {% if nutrient == "Vitamin B9" or nutrient == "Folate" %}
         {% assign line = vitB9 %}
     {% endif %}
 
@@ -601,6 +613,10 @@
 
     {% if nutrient == "Gluten" %}
         {% assign line = glutenStr %}
+    {% endif %}
+
+    {% if nutrient == "Lactose" %}
+        {% assign line = lactoseStr %}
     {% endif %}
 
     <!-- Check if Infinity -->
