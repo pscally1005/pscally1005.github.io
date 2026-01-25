@@ -3,8 +3,8 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\delete"
-POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\delete"
+# POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
 
 LINKS = {
 
