@@ -31,6 +31,7 @@ LINKS = {
   "cannellini bean": "/misc/beans#cannellini-beans",
   "cannellini": "/misc/beans#cannellini-beans",
   "chickpeas": "/misc/beans#chickpeas",
+  "chickpea flour": "/misc/beans#chickpeas",
   "chickpea": "/misc/beans#chickpeas",
   "edamame": "/misc/beans#edamame",
   "fava beans": "/misc/beans#fava-beans",
@@ -250,6 +251,7 @@ LINKS = {
   "farro": "/misc/grains#farro",
   "millet": "/misc/grains#millet",
   "oat flour": "/misc/grains#oats",
+  "oat milk": "/misc/grains#oats",
   "oats": "/misc/grains#oats",
   "oat": "/misc/grains#oats",
   "rolled oats": "/misc/grains#oats",
@@ -265,6 +267,9 @@ LINKS = {
   "flour": "/misc/grains#white-wheat",
   "white pasta": "/misc/grains#pasta-white",
   "white rice": "/misc/grains#white-rice",
+  "white arborio rice": "/misc/grains#white-rice",
+  "arborio rice": "/misc/grains#white-rice",
+  "sushi rice": "/misc/grains#white-rice",
   "whole wheat flour": "/misc/grains#whole-wheat",
   "wheat flour": "/misc/grains#white-wheat",
   "whole wheat": "/misc/grains#whole-wheat",
@@ -349,6 +354,10 @@ LINKS = {
   "chia seeds": "/misc/seeds#chia-seeds",
   "chia seed": "/misc/seeds#chia-seeds",
   "chia": "/misc/seeds#chia-seeds",
+  "ground flax seeds": "/misc/seeds#flax-seeds",
+  "ground flaxseeds": "/misc/seeds#flax-seeds",
+  "ground flax seed": "/misc/seeds#flax-seeds",
+  "ground flaxseed": "/misc/seeds#flax-seeds",
   "flax seeds": "/misc/seeds#flax-seeds",
   "flax seed": "/misc/seeds#flax-seeds",
   "flax": "/misc/seeds#flax-seeds",
@@ -596,26 +605,26 @@ LINKS = {
   "postbiotic": "/misc/biotics",
 
   # RECIPE CATEGORIES
-  "beans": "/recipes/beans",
-  "bean": "/recipes/beans",
-  "dairy": "/recipes/dairy",
-  "cheese": "/recipes/dairy",
-  "fish": "/recipes/fish",
-  "seafood": "/recipes/fish",
-  "fruits": "/recipes/fruit",
-  "fruit": "/recipes/fruit",
-  "grains": "/recipes/grains",
-  "grain": "/recipes/grains",
-  "meats": "/recipes/meat",
-  "meat": "/recipes/meat",
-  "nuts": "/recipes/nuts",
-  "nut": "/recipes/nuts",
-  "seeds": "/recipes/seeds",
-  "seed": "/recipes/seeds",
-  "vegetables": "/recipes/veggies",
-  "vegetable": "/recipes/veggies",
-  "veggies": "/recipes/veggies",
-  "veggie": "/recipes/veggies",
+  "beans": "/misc/beans",
+  "bean": "/misc/beans",
+  "dairy": "/misc/dairy",
+  "cheese": "/misc/dairy",
+  "fish": "/misc/fish",
+  "seafood": "/misc/fish",
+  "fruits": "/misc/fruit",
+  "fruit": "/misc/fruit",
+  "grains": "/misc/grains",
+  "grain": "/misc/grains",
+  "meats": "/misc/meat",
+  "meat": "/misc/meat",
+  "nuts": "/misc/nuts",
+  "nut": "/misc/nuts",
+  "seeds": "/misc/seeds",
+  "seed": "/misc/seeds",
+  "vegetables": "/misc/veggies",
+  "vegetable": "/misc/veggies",
+  "veggies": "/misc/veggies",
+  "veggie": "/misc/veggies",
 
   # FOOD SECTIONS
   "hummus recipes": "/hummus",
@@ -718,7 +727,20 @@ EXCLUDED_PHRASES = [
     "side effect",
     "corn starch",
     "cornstarch",
-    "cast iron"
+    "cast iron",
+    "cast-iron"
+]
+
+REMOVE_CATEGORIES = [
+    "/misc/beans",
+    "/misc/dairy",
+    "/misc/fish",
+    "/misc/fruit",
+    "/misc/grains",
+    "/misc/meat",
+    "/misc/nuts",
+    "/misc/seeds",
+    "/misc/veggies"
 ]
 
 EXCLUDED_REGEXES = [
@@ -738,6 +760,21 @@ def should_skip_linking(text, key_start, key_end):
             if key_start >= phrase_start and key_end <= phrase_end:
                 return True
     return False
+
+def remove_existing_links(html, remove_categories):
+    """
+    Removes <a href='...'>...</a> tags if the href starts with any of remove_categories.
+    Keeps the inner text intact.
+    """
+    def repl(m):
+        href = m.group(1)
+        text = m.group(2)
+        if any(href.startswith(cat) for cat in remove_categories):
+            return text  # remove the <a> tag but keep inner text
+        return m.group(0)  # leave untouched
+
+    pattern = re.compile(r"<a\s+href=['\"](.*?)['\"]>(.*?)</a>", re.IGNORECASE | re.DOTALL)
+    return pattern.sub(repl, html)
 
 
 # -------------------------------------------------------------
@@ -848,6 +885,8 @@ def process_front_matter(text, links, exclude_phrases=None):
         if in_front_matter:
             if line.startswith("Description:"):
                 key, value = line.split(":", 1)
+                # remove old links for nuts/seeds/grains before auto-linking
+                value = remove_existing_links(value, REMOVE_CATEGORIES)
                 value = auto_link_html_safe_single_quotes(value, links, exclude_phrases)
                 output.append(f"{key}:{value}")
             else:
@@ -856,9 +895,9 @@ def process_front_matter(text, links, exclude_phrases=None):
             body.append(line)
 
     if body:
-        output.append(
-            auto_link_html_safe_single_quotes("".join(body), links, exclude_phrases)
-        )
+        html_body = "".join(body)
+        html_body = remove_existing_links(html_body, REMOVE_CATEGORIES)
+        output.append(auto_link_html_safe_single_quotes(html_body, links, exclude_phrases))
 
     return "".join(output)
 
@@ -877,7 +916,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2024"):
+            if not file.startswith("2023"):
                 continue
 
             path = os.path.join(root, file)
