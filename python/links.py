@@ -761,21 +761,19 @@ def should_skip_linking(text, key_start, key_end):
                 return True
     return False
 
-def remove_existing_links(html, remove_categories):
-    """
-    Removes <a href='...'>...</a> tags if the href starts with any of remove_categories.
-    Keeps the inner text intact.
-    """
-    def repl(m):
-        href = m.group(1)
-        text = m.group(2)
-        if any(href.startswith(cat) for cat in remove_categories):
-            return text  # remove the <a> tag but keep inner text
-        return m.group(0)  # leave untouched
+def remove_existing_links(html, categories):
+    escaped = [re.escape(cat) for cat in categories]
 
-    pattern = re.compile(r"<a\s+href=['\"](.*?)['\"]>(.*?)</a>", re.IGNORECASE | re.DOTALL)
-    return pattern.sub(repl, html)
+    # Match:
+    # - exact category (/misc/nuts)
+    # - OR category + fragment (/misc/nuts#almonds)
+    # - BUT NOT extra path chars like /misc/meatloaf-experiment
+    pattern = re.compile(
+        rf"<a\s+href=['\"](?:{'|'.join(escaped)})(?:#[^'\"/]*)?['\"]>(.*?)</a>",
+        re.IGNORECASE
+    )
 
+    return pattern.sub(r"\1", html)
 
 # -------------------------------------------------------------
 # Generic block protector

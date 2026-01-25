@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Copycat Sweetgreen Harvest Bowl
-date:   2026-01-01 00:00:00 -0500
+date:   2026-01-25 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -66,6 +65,19 @@ Instructions:
 
 - Roughly chop your kale, cut the apple into a small dice, and finely chop the almonds
 
-- Finally assemble by dividing your ingredients evenly into 4 bowls. Each bowl should get the following:<br><ul><li>4 oz (113 g) Kale</li><li>1/2 cup (100 g) Wild rice</li><li>1 oz (28 g) Sweet potato</li><li>3 oz (85 g) Chicken</li><li>1/4 medium (37.5 g) Apple, gala</li><li>1 oz (28 g) Goat cheese</li><li>1/2 oz (14 g) Almonds</li><li>2 tbsp (30 g) Lemon juice</li></ul><br>Start with a base of kale, then add the rice, sweet potatoes, chicken, apples, goat cheese, and nuts around the sides. Finish with lemon juice on top, and serve. Store leftover meals in the fridge for up to 5 days
+- |
+  Finally assemble by dividing your ingredients evenly into 4 bowls. Each bowl should get the following
+  <ul>
+    <li>4 oz (113 g) Kale</li>
+    <li>1/2 cup (100 g) Wild rice</li>
+    <li>1 oz (28 g) Sweet potato</li>
+    <li>3 oz (85 g) Chicken</li>
+    <li>1/4 medium (37.5 g) Apple, gala</li>
+    <li>1 oz (28 g) Goat cheese</li>
+    <li>1/2 oz (14 g) Almonds</li>
+    <li>2 tbsp (30 g) Lemon juice</li>
+  </ul><br>
+
+  Start with a base of kale, then add the rice, sweet potatoes, chicken, apples, goat cheese, and nuts around the sides. Finish with lemon juice on top, and serve. Store leftover meals in the fridge for up to 5 days
 Notes:
 ---
