@@ -52,7 +52,7 @@ tags:
 - natural peanut butter
 - unsweetened
 - maple syrup
-Description: This easy fudge is made with just 3 simple ingredients - melted <a href='/misc/nuts#coconut'>coconut oil</a>, cocoa powder, and natural <a href='/misc/nuts#peanuts'>peanut</a> butter. I love this bittersweet treat, but you can add some maple syrup to taste if you like it a bit sweeter than I do
+Description: This easy fudge is made with just 3 simple ingredients - melted <a href='/misc/nuts#coconut'>coconut oil</a>, cocoa powder, and <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>. I love this bittersweet treat, but you can add some maple syrup to taste if you like it a bit sweeter than I do
 Instructions:
 - In a medium bowl, microwave coconut oil for about a minute, until fully melted. Stir in cocoa powder and peanut butter. Add liquid sweetener to taste if desired
 - <img src='/assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-1.jpg' alt='' class='instruction-image'>

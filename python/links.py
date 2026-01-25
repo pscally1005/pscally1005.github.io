@@ -16,6 +16,9 @@ LINKS = {
   "natural peanut butter": "/recipes/natural-peanut-butter",
   "natural nut butter": "/recipes/natural-peanut-butter",
   "sugar free chocolate chips": "/recipes/monkfruit-chocolate-chunks",
+  "pumpkin puree": "/recipes/pumpkin-puree",
+  "sweet potato puree": "/recipes/sweet-potato-puree",
+  "butternut squash puree": "/recipes/roasted-butternut-squash-puree",
 
   # BEANS
   "black beans": "/misc/beans#black-beans",
@@ -257,13 +260,16 @@ LINKS = {
   "spelt": "/misc/grains#spelt",
   "vital wheat gluten": "/misc/grains#vital-wheat-gluten",
   "white flour": "/misc/grains#white-wheat",
+  "refined flour": "/misc/grains#white-wheat",
   "all purpose flour": "/misc/grains#white-wheat",
   "flour": "/misc/grains#white-wheat",
   "white pasta": "/misc/grains#pasta-white",
   "white rice": "/misc/grains#white-rice",
   "whole wheat flour": "/misc/grains#whole-wheat",
+  "wheat flour": "/misc/grains#white-wheat",
   "whole wheat": "/misc/grains#whole-wheat",
   "whole wheat pasta": "/misc/grains#pasta",
+  "wheat flour": "/misc/grains#pasta-white",
   "pasta": "/misc/grains#pasta",
   "wild rice": "/misc/grains#wild-rice",
 
@@ -563,11 +569,16 @@ LINKS = {
   "antioxidant": "/misc/phytochemicals",
   "anti-oxidant": "/misc/phytochemicals",
 
-  # KITCHEN
+  # AMAZON
   "silicone spatula": "https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605",
   "dough scraper": "https://amzn.to/44XmqKz",
   "bread lame": "https://amzn.to/43Cj65h",
   "razorblade": "https://amzn.to/43Cj65h",
+  "liquid monk fruit": "https://amzn.to/3SqwsMO",
+  "powdered peanut butter": "https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417",
+  "granulated monk fruit": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
+  "lactase enzyme": "https://amzn.to/43ycqF2",
+  "inulin": "https://amzn.to/47w8h7R",
 
   # MISC
   "processed foods": "/misc/processed-foods",
@@ -699,7 +710,15 @@ EXCLUDED_PHRASES = [
     "avocado oil",
     "lemon pepper",
     "cut side",
-    "the side"
+    "the side",
+    "almond extract",
+    "butter extract",
+    "coconut extract",
+    "side effects",
+    "side effect",
+    "corn starch",
+    "cornstarch",
+    "cast iron"
 ]
 
 EXCLUDED_REGEXES = [
@@ -707,316 +726,180 @@ EXCLUDED_REGEXES = [
     for p in EXCLUDED_PHRASES
 ]
 
+import re
+
+# -------------------------------------------------------------
+# Core skip logic (unchanged)
+# -------------------------------------------------------------
 def should_skip_linking(text, key_start, key_end):
     for rx in EXCLUDED_REGEXES:
         for m in rx.finditer(text):
             phrase_start, phrase_end = m.span()
-
-            # ONLY skip if the word is actually inside the phrase
             if key_start >= phrase_start and key_end <= phrase_end:
                 return True
-
     return False
 
+
 # -------------------------------------------------------------
-# Helpers for Liquid and &emsp;
+# Generic block protector
 # -------------------------------------------------------------
-def extract_liquid_blocks(text):
+def protect_blocks(text, patterns):
     blocks = []
-    clean = []
-    last = 0
-    for match in re.finditer(r"{%.*?%}", text, flags=re.DOTALL):
-        start, end = match.span()
-        clean.append(text[last:start])
-        blocks.append(match.group(0))
-        clean.append(f"__LIQUID_{len(blocks)-1}__")
-        last = end
-    clean.append(text[last:])
-    return "".join(clean), blocks
-
-def restore_liquid_blocks(text, blocks):
-    for i, block in enumerate(blocks):
-        text = text.replace(f"__LIQUID_{i}__", block)
-    return text
-
-def protect_emsp(text):
-    emsp_blocks = {}
-    def replacer(m):
-        key = f"__EMSP_{len(emsp_blocks)}__"
-        emsp_blocks[key] = m.group(0)
+    def repl(m):
+        key = f"__BLOCK_{len(blocks)}__"
+        blocks.append(m.group(0))
         return key
-    protected = re.sub(r"&emsp;", replacer, text)
-    return protected, emsp_blocks
 
-def restore_emsp(text, emsp_blocks):
-    for key, val in emsp_blocks.items():
-        text = text.replace(key, val)
-    return text
+    combined = re.compile("|".join(patterns), re.DOTALL | re.IGNORECASE)
+    return combined.sub(repl, text), blocks
 
-def extract_div_blocks(text):
-    blocks = []
-    clean = []
-    last = 0
 
-    # capture <div> … </div> + optional <br> + newline(s)
-    for m in re.finditer(r"(<div\b[^>]*>.*?</div>(?:<br>\s*)?)", text, flags=re.DOTALL | re.IGNORECASE):
-        start, end = m.span()
-        clean.append(text[last:start])
-        blocks.append(m.group(0))
-        clean.append(f"__DIV_BLOCK_{len(blocks)-1}__")
-        last = end
-
-    clean.append(text[last:])
-    return "".join(clean), blocks
-
-def restore_div_blocks(text, blocks):
+def restore_blocks(text, blocks):
     for i, block in enumerate(blocks):
-        text = text.replace(f"__DIV_BLOCK_{i}__", block)
+        text = text.replace(f"__BLOCK_{i}__", block)
     return text
+
 
 # -------------------------------------------------------------
-# Extract <ul> blocks like we do <div> or liquid
-# -------------------------------------------------------------
-def extract_ul_blocks(text):
-    blocks = []
-    clean = []
-    last = 0
-
-    # capture <ul> … </ul> + optional <br> + newline(s)
-    for m in re.finditer(r"(<ul\b[^>]*>.*?</ul>(?:<br>\s*)?)", text, flags=re.DOTALL | re.IGNORECASE):
-        start, end = m.span()
-        clean.append(text[last:start])
-        blocks.append(m.group(0))
-        clean.append(f"__UL_BLOCK_{len(blocks)-1}__")
-        last = end
-
-    clean.append(text[last:])
-    return "".join(clean), blocks
-
-def restore_ul_blocks(text, blocks):
-    for i, block in enumerate(blocks):
-        text = text.replace(f"__UL_BLOCK_{i}__", block)
-    return text
-
-def extract_ol_blocks(text):
-    blocks = []
-    clean = []
-    last = 0
-
-    # capture <ol> … </ol> + optional <br> + newline(s)
-    for m in re.finditer(r"(<ol\b[^>]*>.*?</ol>(?:<br>\s*)?)", text, flags=re.DOTALL | re.IGNORECASE):
-        start, end = m.span()
-        clean.append(text[last:start])
-        blocks.append(m.group(0))
-        clean.append(f"__OL_BLOCK_{len(blocks)-1}__")
-        last = end
-
-    clean.append(text[last:])
-    return "".join(clean), blocks
-
-def restore_ol_blocks(text, blocks):
-    for i, block in enumerate(blocks):
-        text = text.replace(f"__OL_BLOCK_{i}__", block)
-    return text
-
-# -------------------------------------------------------------
-# Auto-link function
+# Auto-linker (PURE TEXT, NO PARSING)
 # -------------------------------------------------------------
 def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
-    html, liquid_blocks = extract_liquid_blocks(html)
-    html, emsp_blocks = protect_emsp(html)
 
-    html, div_blocks = extract_div_blocks(html)
-    html, ul_blocks = extract_ul_blocks(html)
-    html, ol_blocks = extract_ol_blocks(html)
-
-    soup = BeautifulSoup(html, "html.parser")
     exclude_phrases = [p.lower() for p in (exclude_phrases or [])]
 
-    # Prepare links sorted by length (longest first)
+    # ---------------------------------------------------------
+    # Protect regions that must NEVER be touched
+    # ---------------------------------------------------------
+    PROTECTED_PATTERNS = [
+        r"{%.*?%}",                       # Liquid
+        r"<a\b[^>]*>.*?</a>",             # Existing links
+        r"<script\b[^>]*>.*?</script>",
+        r"<style\b[^>]*>.*?</style>",
+        r"<ul\b[^>]*>.*?</ul>",
+        r"<ol\b[^>]*>.*?</ol>",
+        r"<div\b[^>]*>.*?</div>",
+        r"<img\b[^>]*>",
+        r"&emsp;",
+    ]
+
+    html, protected_blocks = protect_blocks(html, PROTECTED_PATTERNS)
+
+    # ---------------------------------------------------------
+    # Prepare longest-first regex
+    # ---------------------------------------------------------
     keys = sorted(links.keys(), key=len, reverse=True)
     links_lower = {k.lower(): v for k, v in links.items()}
 
-    # Build regex with named groups for deterministic longest match
-    group_patterns = [
-        f"(?P<L{i}>\\b{re.escape(k)}\\b)"
-        for i, k in enumerate(keys)
-    ]
-    pattern = re.compile("|".join(group_patterns), re.IGNORECASE)
-
-    def is_excluded(text, start, end):
-        for phrase in exclude_phrases:
-            phrase_lower = phrase.lower()
-            phrase_start = text.lower().find(phrase_lower)
-            if phrase_start != -1 and start >= phrase_start and end <= phrase_start + len(phrase_lower):
-                return True
-        return False
-
-    def process_node(node):
-        if isinstance(node, NavigableString):
-            if node.parent.name in ("a", "script", "style"):
-                return
-
-            text = str(node)
-            fragments = []
-            last = 0
-            last_end = 0
-
-            for m in pattern.finditer(text):
-                start, end = m.span()
-                if start < last_end:
-                    continue  # skip overlaps
-
-                group_name = m.lastgroup
-                key_index = int(group_name[1:])  # L{i} -> i
-                key = keys[key_index]
-                url = links_lower.get(key.lower())
-
-                # === HARD RULE: skip butter/flour if previous sibling is a nut/seed/grain link ===
-                if key.lower() in ("butter", "flour", "seeds"):
-                    prev = node.previous_sibling
-                    while prev:
-                        if getattr(prev, "name", None) == "a":
-                            href = prev.get("href", "")
-                            if "nuts" in href or "seeds" in href or "grains" in href:
-                                url = None  # skip linking butter/flour
-                                break
-                        prev = prev.previous_sibling
-
-                    if is_excluded(text, start, end):
-                        continue
-
-                # === HARD RULE: skip ===
-                if should_skip_linking(text, start, end):
-                    url = None  # skip linking
-                    continue
-
-                if start > last:
-                    fragments.append(text[last:start])
-
-                if url:
-                    tag = soup.new_tag("a", href=url)
-                    tag.string = text[start:end]
-                    fragments.append(tag)
-                else:
-                    fragments.append(text[start:end])
-
-                last = end
-                last_end = end
-
-            if last < len(text):
-                fragments.append(text[last:])
-
-            for frag in reversed(fragments):
-                node.insert_after(NavigableString(frag) if isinstance(frag, str) else frag)
-            node.extract()
-
-        elif node.name != "a":
-            for child in list(node.contents):
-                process_node(child)
-
-    for child in list(soup.contents):
-        process_node(child)
-
-    # html = "".join(str(c) for c in soup.contents)
-    html = soup.decode(formatter=None)
-    html = re.sub(r'href="([^"]+)"', r"href='\1'", html)
-    html = html.replace("<br/>", "<br>")
-
-    html = restore_emsp(html, emsp_blocks)
-    html = restore_liquid_blocks(html, liquid_blocks)
-
-    # force single quotes for all attributes
-    html = re.sub(
-        r'(\s[\w:-]+)="([^"]*)"',
-        r"\1='\2'",
-        html
+    pattern = re.compile(
+        r"\b(" + "|".join(map(re.escape, keys)) + r")\b",
+        re.IGNORECASE
     )
 
-    html = normalize_img_attrs(html)
-    html = restore_div_blocks(html, div_blocks)
-    html = restore_ul_blocks(html, ul_blocks)
-    html = restore_ol_blocks(html, ol_blocks)
+    # ---------------------------------------------------------
+    # Replace matches safely
+    # ---------------------------------------------------------
+    def replacer(m):
+        word = m.group(0)
+        start, end = m.span()
+        lower = word.lower()
+        url = links_lower.get(lower)
+
+        if not url:
+            return word
+
+        # excluded phrases
+        for phrase in exclude_phrases:
+            idx = html.lower().find(phrase)
+            if idx != -1 and start >= idx and end <= idx + len(phrase):
+                return word
+
+        if should_skip_linking(html, start, end):
+            return word
+
+        return f"<a href='{url}'>{word}</a>"
+
+    html = pattern.sub(replacer, html)
+
+    # ---------------------------------------------------------
+    # Restore protected regions EXACTLY
+    # ---------------------------------------------------------
+    html = restore_blocks(html, protected_blocks)
 
     return html
 
-def normalize_img_attrs(html):
-    def repl(m):
-        tag = m.group(0)
-
-        attrs = dict(re.findall(r"([\w:-]+)='([^']*)'", tag))
-
-        order = ["src", "alt", "class"]
-        parts = []
-
-        for k in order:
-            if k in attrs:
-                parts.append(f"{k}='{attrs.pop(k)}'")
-
-        for k, v in attrs.items():
-            parts.append(f"{k}='{v}'")
-
-        return "<img " + " ".join(parts) + ">"
-
-    return re.sub(r"<img\s+[^>]+>", repl, html)
 
 # -------------------------------------------------------------
-# Process front matter and body
+# Front matter processor (minimal change)
 # -------------------------------------------------------------
 def process_front_matter(text, links, exclude_phrases=None):
     lines = text.splitlines(keepends=True)
     output = []
-    front_matter_delims_seen = 0
     in_front_matter = False
-    body_buffer = []
+    delims = 0
+    body = []
 
     for line in lines:
-        if line.strip() == "---" and front_matter_delims_seen < 2:
-            front_matter_delims_seen += 1
-            in_front_matter = front_matter_delims_seen == 1
+        if line.strip() == "---" and delims < 2:
+            delims += 1
+            in_front_matter = delims == 1
             output.append(line)
             continue
 
         if in_front_matter:
             if line.startswith("Description:"):
                 key, value = line.split(":", 1)
-                value = auto_link_html_safe_single_quotes(value, links, exclude_phrases).rstrip()
-                output.append(f"{key}:{value}\n")
+                value = auto_link_html_safe_single_quotes(value, links, exclude_phrases)
+                output.append(f"{key}:{value}")
             else:
                 output.append(line)
         else:
-            body_buffer.append(line)
+            body.append(line)
 
-    if body_buffer:
-        body = "".join(body_buffer)
-        body = auto_link_html_safe_single_quotes(body, links, exclude_phrases)
-        output.append(body)
+    if body:
+        output.append(
+            auto_link_html_safe_single_quotes("".join(body), links, exclude_phrases)
+        )
 
     return "".join(output)
 
 # -------------------------------------------------------------
-# Main processing loop
+# Main processing loop (NO BeautifulSoup)
 # -------------------------------------------------------------
-os.system('cls')
-print('-------------------')
-count = 0
-for root, _, files in os.walk(POSTS_DIR):
-    for file in files:
-        if not file.startswith("2024-12-19-healthy-cookie"):
-            continue
-        if file.endswith((".md", ".html", ".markdown")):
+def main():
+    os.system("cls")
+    print("-------------------")
+
+    count = 0
+
+    for root, _, files in os.walk(POSTS_DIR):
+        for file in files:
+            if not file.endswith((".md", ".html", ".markdown")):
+                continue
+
+            # optional filename filter (keep or remove)
+            if not file.startswith("2024"):
+                continue
+
             path = os.path.join(root, file)
+
             with open(path, "r", encoding="utf-8") as f:
-                content = f.read()
+                original = f.read()
 
-            content_no_liquid, liquid_blocks = extract_liquid_blocks(content)
-            new_content = process_front_matter(content_no_liquid, LINKS, EXCLUDED_PHRASES)
-            new_content = restore_liquid_blocks(new_content, liquid_blocks)
+            updated = process_front_matter(
+                original,
+                LINKS,
+                EXCLUDED_PHRASES
+            )
 
-            if new_content != content:
+            if updated != original:
                 with open(path, "w", encoding="utf-8") as f:
-                    f.write(new_content)
-                    print(f"Updated: {path}")
-                    count += 1
+                    f.write(updated)
 
-print(f"Total files updated: {count}")
+                print(f"Updated: {path}")
+                count += 1
+
+    print(f"Total files updated: {count}")
+
+
+if __name__ == "__main__":
+    main()
