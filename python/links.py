@@ -681,7 +681,11 @@ LINKS = {
   "meme recipes": "/recipes/meme",
   "meme recipe": "/recipes/meme",
   "meme": "/recipes/meme",
-  "protein powder": "/recipes/protein-powder",
+  # "protein powder": "/recipes/protein-powder",
+  "protein snacks": "/recipes/protein-powder",
+  "protein snack": "/recipes/protein-powder",
+  "protein desserts": "/recipes/protein-powder",
+  "protein dessert": "/recipes/protein-powder",
   "savory sauces": "/recipes/savory-sauces",
   "savory sauce": "/recipes/savory-sauces",
   "sides": "/recipes/sides",
@@ -881,7 +885,7 @@ def process_front_matter(text, links, exclude_phrases=None):
             continue
 
         if in_front_matter:
-            if line.startswith("Description:"):
+            if line.startswith("Description:") or line.startswith("Instructions:") or line.startswith("Notes:"):
                 key, value = line.split(":", 1)
                 # remove old links for nuts/seeds/grains before auto-linking
                 value = remove_existing_links(value, REMOVE_CATEGORIES)
@@ -914,8 +918,8 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2023"):
-                continue
+            # if not file.startswith("2023"):
+            #     continue
 
             path = os.path.join(root, file)
 

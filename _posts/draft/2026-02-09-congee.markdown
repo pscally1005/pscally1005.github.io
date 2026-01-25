@@ -47,7 +47,7 @@ tags:
 - congee
 - porridge
 - oatmeal
-Description: Have you ever had congee? It's a savory <a href='/misc/grains#white-rice'>rice</a> porridge popular in many Asian countries, and feels similar to risotto or even <a href='/misc/grains#oats'>oatmeal</a>.  This recipe uses <a href='/misc/grains#brown-rice'>brown rice</a> for added <a href='/misc/nutrient-alphabet'>nutrition</a> and a nuttier flavor.  Customize it with your favorite toppings for a comforting meal or <a href='/recipes/sides'>side dish</a>
+Description: Have you ever had congee? It's a savory rice porridge popular in many Asian countries, and feels similar to risotto or even <a href='/oatmeal'>oatmeal</a>.  This recipe uses <a href='/misc/grains#brown-rice'>brown rice</a> for added <a href='/misc/nutrient-alphabet'>nutrition</a> and a nuttier flavor.  Customize it with your favorite toppings for a comforting meal or <a href='/recipes/sides'>side dish</a>
 Instructions:
 - Add rice, water, salt, and ginger to a medium pot. Cover and bring to a boil over high heat
 
