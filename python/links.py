@@ -3,7 +3,7 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\cooking"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
 
 LINKS = {
@@ -17,6 +17,8 @@ LINKS = {
   "natural peanut butter": "/recipes/natural-peanut-butter",
   "natural nut butter": "/recipes/natural-peanut-butter",
   "natural seed butter": "/recipes/natural-peanut-butter",
+  "nut butters": "/recipes/natural-peanut-butter",
+  "seed butters": "/recipes/natural-peanut-butter",
   "nut butter": "/recipes/natural-peanut-butter",
   "seed butter": "/recipes/natural-peanut-butter",
   "sugar free chocolate chips": "/recipes/monkfruit-chocolate-chunks",
@@ -25,6 +27,8 @@ LINKS = {
   "sweet potato puree": "/recipes/sweet-potato-puree",
   "butternut squash puree": "/recipes/roasted-butternut-squash-puree",
   "cottage cheese flatbread": "/recipes/cottage-cheese-flatbread",
+  "smoothies": "/recipes/smoothie",
+  "smoothie": "/recipes/smoothie",
 
   # BEANS
   "black beans": "/misc/beans#black-beans",
@@ -296,12 +300,15 @@ LINKS = {
   "chicken liver": "/misc/meat#chicken-liver",
   "chicken livers": "/misc/meat#chicken-liver",
   "chicken thighs": "/misc/meat#chicken-thighs",
+  "thighs": "/misc/meat#chicken-thighs",
   "egg": "/misc/meat#eggs",
   "eggs": "/misc/meat#eggs",
   "egg white": "/misc/meat#egg-whites",
   "egg whites": "/misc/meat#egg-whites",
   "ground beef": "/misc/meat#ground-beef",
+  "beef": "/misc/meat#ground-beef",
   "ground turkey": "/misc/meat#ground-turkey",
+  "turkey": "/misc/meat#ground-turkey",
   "ham": "/misc/meat#ham",
   "hot dog": "/misc/meat#hot-dogs",
   "hot dogs": "/misc/meat#hot-dogs",
@@ -401,6 +408,7 @@ LINKS = {
   "beet": "/misc/veggies#beets",
   "bell peppers": "/misc/veggies#pepper",
   "bell pepper": "/misc/veggies#pepper",
+  "peppers": "/misc/veggies#pepper",
   "pepper": "/misc/veggies#pepper",
   "bok choy": "/misc/veggies#bok-choy",
   "broccoli": "/misc/veggies#broccoli",
@@ -613,7 +621,9 @@ LINKS = {
   "small food chopper": "https://amzn.to/3VHhgMM",
   "immersion blender": "https://amzn.to/3VHhgMM",
   "chopper": "https://amzn.to/3VHhgMM",
+  "air fryers": "https://amzn.to/3FuWETp",
   "air fryer": "https://amzn.to/3FuWETp",
+  "air fried": "https://amzn.to/3FuWETp",
   "air fry": "https://amzn.to/3FuWETp",
   "air fryer liner": "https://amzn.to/43AzcfI",
   "silicone liner": "https://amzn.to/44T3n3X",
@@ -695,6 +705,7 @@ LINKS = {
   "wooden spoon": "https://amzn.to/3Fw6MeC",
   "wooden spatulas": "https://amzn.to/3Fw6MeC",
   "wooden spatula": "https://amzn.to/3Fw6MeC",
+  "food thermometer": "https://amzn.to/4kmobG2",
   "instant thermometer": "https://amzn.to/4kmobG2",
   "thermometer": "https://amzn.to/4kmobG2",
   "internal temperature": "https://amzn.to/4kmobG2",
@@ -730,8 +741,13 @@ LINKS = {
   "metal bowl": "https://amzn.to/4rb3CiD",
   "hand mixer": "https://amzn.to/45yqsbM",
   "salad spinner": "https://amzn.to/4dFeyPZ",
+  '12" nonstick pans': "https://amzn.to/4rdR0HI",
+  '12" nonstick pan': "https://amzn.to/4rdR0HI",
+  '12" non-stick pans': "https://amzn.to/4rdR0HI",
+  '12" non-stick pan': "https://amzn.to/4rdR0HI",
   '12" pans': "https://amzn.to/4rdR0HI",
   '12" pan': "https://amzn.to/4rdR0HI",
+  '12"': "https://amzn.to/4rdR0HI",
   "large pans": "https://amzn.to/4rdR0HI",
   "large pan": "https://amzn.to/4rdR0HI",
   "cast iron pan": "https://amzn.to/465aAxx",
@@ -740,6 +756,7 @@ LINKS = {
   "small pan": "https://amzn.to/4qFE9y3",
   '8" pans': "https://amzn.to/4qFE9y3",
   '8" pan': "https://amzn.to/4qFE9y3",
+  '8"': "https://amzn.to/4qFE9y3",
   "stainless steel pans": "https://amzn.to/4pREQ61",
   "stainless steel pan": "https://amzn.to/4pREQ61",
   "stainless steel pots": "https://amzn.to/49DLg42",
@@ -749,6 +766,7 @@ LINKS = {
   "dutch oven": "https://amzn.to/3LNGdVy",
   '10" pans': "https://amzn.to/4bOh0on",
   '10" pan': "https://amzn.to/4bOh0on",
+  '10"': "https://amzn.to/4bOh0on",
   "potato masher": "https://amzn.to/4r5boL0",
   "fine mesh strainer": "https://amzn.to/4q2FwWu",
   "mesh strainer": "https://amzn.to/4q2FwWu",
@@ -758,6 +776,15 @@ LINKS = {
   "wire rack": "https://amzn.to/4qQNmn2",
   "cooling racks": "https://amzn.to/4qQNmn2",
   "cooling rack": "https://amzn.to/4qQNmn2",
+  "knife sharpener": "https://amzn.to/44T3gFz",
+  "chef knife": "https://amzn.to/4jlDKwc",
+  "knives": "https://amzn.to/4jlDKwc",
+  "knife": "https://amzn.to/4jlDKwc",
+  "cutting board": "https://amzn.to/43gNqmY",
+  "measuring spoons": "https://amzn.to/4dHwY2G",
+  "measuring spoon": "https://amzn.to/4dHwY2G",
+  "measuring cups": "https://amzn.to/4dFNtMP",
+  "measuring cup": "https://amzn.to/4dFNtMP",
 
   # MISC
   "processed foods": "/misc/processed-foods",
@@ -835,6 +862,7 @@ LINKS = {
   "copycat": "/copycat",
 
   # RECIPE TYPES
+  "breads": "/recipes/bread",
   "bread": "/recipes/bread",
   "buns": "/recipes/bread",
   "bun": "/recipes/bread",
@@ -844,7 +872,9 @@ LINKS = {
   "finger foods": "/recipes/finger-food",
   "finger food": "/recipes/finger-food",
   "ground meat": "/recipes/ground-meat",
+  "healthier desserts": "/recipes/healthier-dessert",
   "healthier dessert": "/recipes/healthier-dessert",
+  "desserts": "/recipes/healthier-dessert",
   "dessert": "/recipes/healthier-dessert",
   "meatless": "/recipes/meatless",
   "meme recipes": "/recipes/meme",
@@ -865,6 +895,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "banana peppers",
+    "banana pepper",
     "banana bread",
     "garlic powder",
     "onion powder",
@@ -922,7 +954,12 @@ EXCLUDED_PHRASES = [
     "scale down",
     "scale this",
     "easily scale",
-    "grains of"
+    "grains of",
+    "butter knife",
+    '8" long',
+    '1/8" thick',
+    '1/8"',
+    '1/8" - 1/4"',
 ]
 
 REMOVE_CATEGORIES = [
@@ -934,15 +971,13 @@ REMOVE_CATEGORIES = [
     "/misc/meat",
     "/misc/nuts",
     "/misc/seeds",
-    "/misc/veggies"
+    "/misc/veggies",
 ]
 
 EXCLUDED_REGEXES = [
     re.compile(rf"\b{re.escape(p)}\b", re.IGNORECASE)
     for p in EXCLUDED_PHRASES
 ]
-
-import re
 
 # -------------------------------------------------------------
 # Core skip logic (unchanged)
@@ -1009,6 +1044,7 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
         r"<div\b[^>]*>.*?</div>",
         r"<img\b[^>]*>",
         r"&emsp;",
+        r"<font\b[^>]*>.*?</font>",
     ]
 
     html, protected_blocks = protect_blocks(html, PROTECTED_PATTERNS)
@@ -1129,11 +1165,11 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            # if not file.startswith("2023"):
-            #     continue
+            if not file.startswith("2024"):
+                continue
 
             # exclude some files
-            if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips"):
+            # if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips"):
                 continue
 
             path = os.path.join(root, file)
