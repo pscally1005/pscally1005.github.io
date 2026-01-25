@@ -50,7 +50,7 @@ tags:
 - syrup
 - candy
 - sauce
-Description: Here's a super simple caramel sauce recipe that uses only 4 ingredients, without any cream, <a href='/misc/dairy#whole-milk'>milk</a>, or <a href='/misc/dairy#butter'>butter</a>. This <a href='/recipes/dairy'>dairy</a> free caramel sauce involves just bringing <a href='/misc/hidden-sugar'>sugar</a> to a boil, and flavoring it with vanilla and salt.  You can even make it <a href='/misc/hidden-sugar'>sugar free</a> using monk fruit or allulose
+Description: Here's a super simple caramel sauce recipe that uses only 4 ingredients, without any cream, <a href='/misc/dairy#whole-milk'>milk</a>, or <a href='/misc/dairy#butter'>butter</a>. This <a href='/misc/dairy'>dairy</a> free caramel sauce involves just bringing <a href='/misc/hidden-sugar'>sugar</a> to a boil, and flavoring it with vanilla and salt.  You can even make it <a href='/misc/hidden-sugar'>sugar free</a> using monk fruit or allulose
 Instructions:
 - Add sugar and water to a small stainless steel sauce pot.  Either brown or white sugar will work, or try any low calorie sweetener. Mix until fully dissolved
 
