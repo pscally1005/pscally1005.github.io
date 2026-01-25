@@ -11,14 +11,20 @@ LINKS = {
   # RECIPES
   "banana ice cream": "/recipes/nice-cream",
   "salsa": "/recipes/salsa",
+  "hot sauce": "/recipes/hot-sauce",
   "sugar free syrup": "/recipes/sugar-free-syrup",
   "sugar-free syrup": "/recipes/sugar-free-syrup",
   "natural peanut butter": "/recipes/natural-peanut-butter",
   "natural nut butter": "/recipes/natural-peanut-butter",
+  "natural seed butter": "/recipes/natural-peanut-butter",
+  "nut butter": "/recipes/natural-peanut-butter",
+  "seed butter": "/recipes/natural-peanut-butter",
   "sugar free chocolate chips": "/recipes/monkfruit-chocolate-chunks",
+  "sugar free chocolate": "/recipes/monkfruit-chocolate-chunks",
   "pumpkin puree": "/recipes/pumpkin-puree",
   "sweet potato puree": "/recipes/sweet-potato-puree",
   "butternut squash puree": "/recipes/roasted-butternut-squash-puree",
+  "cottage cheese flatbread": "/recipes/cottage-cheese-flatbread",
 
   # BEANS
   "black beans": "/misc/beans#black-beans",
@@ -114,6 +120,7 @@ LINKS = {
   "whey protein powder": "/misc/dairy#whey",
   "whey protein": "/misc/dairy#whey",
   "whey": "/misc/dairy#whey",
+  "protein powder": "/misc/dairy#whey",
 
   # FISH
   "canned anchovies": "/misc/fish#anchovy",
@@ -245,6 +252,7 @@ LINKS = {
   "amaranth": "/misc/grains#amaranth",
   "barley": "/misc/grains#barley",
   "brown rice": "/misc/grains#brown-rice",
+  "rice": "/misc/grains#brown-rice",
   "buckwheat": "/misc/grains#buckwheat",
   "corn": "/misc/grains#corn",
   "couscous": "/misc/grains#couscous",
@@ -324,6 +332,7 @@ LINKS = {
   "cashew": "/misc/nuts#cashews",
   "chestnuts": "/misc/nuts#chestnuts",
   "chestnut": "/misc/nuts#chestnuts",
+  "unsweetened coconut flakes": "/misc/nuts#coconut",
   "coconut flakes": "/misc/nuts#coconut",
   "coconut flour": "/misc/nuts#coconut",
   "coconut butter": "/misc/nuts#coconut",
@@ -376,6 +385,7 @@ LINKS = {
   "tahini": "/misc/seeds#sesame-seeds",
   "sunflower seeds": "/misc/seeds#sunflower-seeds",
   "sunflower seed butter": "/misc/seeds#sunflower-seeds",
+  "sun butter": "/misc/seeds#sunflower-seeds",
   "sunflower seed": "/misc/seeds#sunflower-seeds",
   "sunflower": "/misc/seeds#sunflower-seeds",
 
@@ -420,6 +430,10 @@ LINKS = {
   "string bean": "/misc/veggies#green-bean",
   "kale": "/misc/veggies#kale",
   "kohlrabi": "/misc/veggies#kohlrabi",
+  "romaine lettuce": "/misc/veggies#lettuce",
+  "iceberg lettuce": "/misc/veggies#lettuce",
+  "romaine": "/misc/veggies#lettuce",
+  "iceberg": "/misc/veggies#lettuce",
   "lettuce": "/misc/veggies#lettuce",
   "mustard greens": "/misc/veggies#mustard-greens",
   "mustard green": "/misc/veggies#mustard-greens",
@@ -579,7 +593,9 @@ LINKS = {
   "anti-oxidant": "/misc/phytochemicals",
 
   # AMAZON
+  "metal spatula": "https://amzn.to/4raSjqy",
   "silicone spatula": "https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605",
+  "spatula": "https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605",
   "dough scraper": "https://amzn.to/44XmqKz",
   "bread lame": "https://amzn.to/43Cj65h",
   "razorblade": "https://amzn.to/43Cj65h",
@@ -588,6 +604,160 @@ LINKS = {
   "granulated monk fruit": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
   "lactase enzyme": "https://amzn.to/43ycqF2",
   "inulin": "https://amzn.to/47w8h7R",
+  "food scale": "https://amzn.to/45yjx2X",
+  "kitchen scale": "https://amzn.to/45yjx2X",
+  "scale": "https://amzn.to/45yjx2X",
+  "food processor": "https://amzn.to/4q0AUjI",
+  "blender": "https://amzn.to/4bO4VQ3",
+  "small food processor": "https://amzn.to/3VHhgMM",
+  "small food chopper": "https://amzn.to/3VHhgMM",
+  "immersion blender": "https://amzn.to/3VHhgMM",
+  "chopper": "https://amzn.to/3VHhgMM",
+  "air fryer": "https://amzn.to/3FuWETp",
+  "air fry": "https://amzn.to/3FuWETp",
+  "air fryer liner": "https://amzn.to/43AzcfI",
+  "silicone liner": "https://amzn.to/44T3n3X",
+  "silicone baking mat": "https://amzn.to/44T3n3X",
+  "silicone mat": "https://amzn.to/44T3n3X",
+  '9" square baking pans': "https://amzn.to/3YY2H9q",
+  '9" square baking pan': "https://amzn.to/3YY2H9q",
+  '9" square pans': "https://amzn.to/3YY2H9q",
+  '9" square pan': "https://amzn.to/3YY2H9q",
+  "9x9 square baking pans": "https://amzn.to/3YY2H9q",
+  "9x9 square baking pan": "https://amzn.to/3YY2H9q",
+  "9 inch square baking pans": "https://amzn.to/3YY2H9q",
+  "9 inch square baking pan": "https://amzn.to/3YY2H9q",
+  "9 in square baking pans": "https://amzn.to/3YY2H9q",
+  "9 in square baking pan": "https://amzn.to/3YY2H9q",
+  "9x13in pans": "https://amzn.to/4aiCsjh",
+  "9x13in pan": "https://amzn.to/4aiCsjh",
+  '9x13" casserole dishes': "https://amzn.to/4aiCsjh",
+  '9x13" casserole dish': "https://amzn.to/4aiCsjh",
+  '9x13" casserole pans': "https://amzn.to/4aiCsjh",
+  '9x13" casserole pan': "https://amzn.to/4aiCsjh",
+  '9x13" baking dishes': "https://amzn.to/4aiCsjh",
+  '9x13" baking dish': "https://amzn.to/4aiCsjh",
+  '9x13" baking pans': "https://amzn.to/4aiCsjh",
+  '9x13" baking pan': "https://amzn.to/4aiCsjh",
+  '9x13" pans': "https://amzn.to/4aiCsjh",
+  '9x13" pan': "https://amzn.to/4aiCsjh",
+  "9x13in pans": "https://amzn.to/4aiCsjh",
+  "9x13in pan": "https://amzn.to/4aiCsjh",
+  '9 x 13" casserole dishes': "https://amzn.to/4aiCsjh",
+  '9 x 13" casserole dish': "https://amzn.to/4aiCsjh",
+  '9 x 13" casserole pans': "https://amzn.to/4aiCsjh",
+  '9 x 13" casserole pan': "https://amzn.to/4aiCsjh",
+  '9 x 13" baking dishes': "https://amzn.to/4aiCsjh",
+  '9 x 13" baking dish': "https://amzn.to/4aiCsjh",
+  '9 x 13" baking pans': "https://amzn.to/4aiCsjh",
+  '9 x 13" baking pan': "https://amzn.to/4aiCsjh",
+  '9 x 13" pans': "https://amzn.to/4aiCsjh",
+  '9 x 13" pan': "https://amzn.to/4aiCsjh",
+  '9" pie pans': "https://amzn.to/4q0gY0f",
+  '9" pie pan': "https://amzn.to/4q0gY0f",
+  '9" cake pans': "https://amzn.to/4q0gY0f",
+  '9" cake pan': "https://amzn.to/4q0gY0f",
+  '9" circlular pie pans': "https://amzn.to/4q0gY0f",
+  '9" circlular pie pan': "https://amzn.to/4q0gY0f",
+  '9" circlular cake pans': "https://amzn.to/4q0gY0f",
+  '9" circlular cake pan': "https://amzn.to/4q0gY0f",
+  '9" circle pie pans': "https://amzn.to/4q0gY0f",
+  '9" circle pie pan': "https://amzn.to/4q0gY0f",
+  '9" circle cake pans': "https://amzn.to/4q0gY0f",
+  '9" circle cake pan': "https://amzn.to/4q0gY0f",
+  '9" circle pans': "https://amzn.to/4q0gY0f",
+  '9" circle pan': "https://amzn.to/4q0gY0f",
+  '9x5" bread pans': "https://amzn.to/3YUjIkN",
+  '9x5" bread pan': "https://amzn.to/3YUjIkN",
+  '9 x 5" bread pans': "https://amzn.to/3YUjIkN",
+  '9 x 5" bread pan': "https://amzn.to/3YUjIkN",
+  '9x5" loaf pans': "https://amzn.to/3YUjIkN",
+  '9x5" loaf pan': "https://amzn.to/3YUjIkN",
+  '9 x 5" loaf pans': "https://amzn.to/3YUjIkN",
+  '9 x 5" loaf pan': "https://amzn.to/3YUjIkN",
+  "bread pans": "https://amzn.to/3YUjIkN",
+  "bread pan": "https://amzn.to/3YUjIkN",
+  "cookie sheets": "https://amzn.to/45sRAsB",
+  "cookie sheet": "https://amzn.to/45sRAsB",
+  "baking pans": "https://amzn.to/45sRAsB",
+  "baking pan": "https://amzn.to/45sRAsB",
+  "mini muffin pans": "https://amzn.to/3T1ymDy",
+  "mini muffin pan": "https://amzn.to/3T1ymDy",
+  "mini-muffin pans": "https://amzn.to/3T1ymDy",
+  "mini-muffin pan": "https://amzn.to/3T1ymDy",
+  "mini muffin tins": "https://amzn.to/3T1ymDy",
+  "mini muffin tin": "https://amzn.to/3T1ymDy",
+  "mini-muffin tins": "https://amzn.to/3T1ymDy",
+  "mini-muffin tin": "https://amzn.to/3T1ymDy",
+  "muffin pans": "https://amzn.to/4mzzEDl",
+  "muffin pan": "https://amzn.to/4mzzEDl",
+  "wooden spoons": "https://amzn.to/3Fw6MeC",
+  "wooden spoon": "https://amzn.to/3Fw6MeC",
+  "wooden spatulas": "https://amzn.to/3Fw6MeC",
+  "wooden spatula": "https://amzn.to/3Fw6MeC",
+  "instant thermometer": "https://amzn.to/4kmobG2",
+  "thermometer": "https://amzn.to/4kmobG2",
+  "internal temperature": "https://amzn.to/4kmobG2",
+  "spray of oil": "https://amzn.to/3Hdg0gk",
+  "spray the paper with oil": "https://amzn.to/3Hdg0gk",
+  "spray the pan with oil": "https://amzn.to/3Hdg0gk",
+  "spray with oil": "https://amzn.to/3Hdg0gk",
+  "cooking spray": "https://amzn.to/3Hdg0gk",
+  "oil spray": "https://amzn.to/3Hdg0gk",
+  "spray": "https://amzn.to/3Hdg0gk",
+  "grease with oil": "https://amzn.to/3Hdg0gk",
+  "glass containers": "https://amzn.to/4mPZcMW",
+  "glass container": "https://amzn.to/4mPZcMW",
+  "glass meal prep containers": "https://amzn.to/4mPZcMW",
+  "glass meal prep container": "https://amzn.to/4mPZcMW",
+  "meal prep containers": "https://amzn.to/4mPZcMW",
+  "meal prep container": "https://amzn.to/4mPZcMW",
+  "large glass bowls": "https://amzn.to/4adxMft",
+  "large glass bowl": "https://amzn.to/4adxMft",
+  "medium glass bowls": "https://amzn.to/4adxMft",
+  "medium glass bowl": "https://amzn.to/4adxMft",
+  "small glass bowls": "https://amzn.to/4adxMft",
+  "small glass bowl": "https://amzn.to/4adxMft",
+  "glass bowls": "https://amzn.to/4adxMft",
+  "glass bowl": "https://amzn.to/4adxMft",
+  "large bowls": "https://amzn.to/4adxMft",
+  "large bowl": "https://amzn.to/4adxMft",
+  "medium bowls": "https://amzn.to/4adxMft",
+  "medium bowl": "https://amzn.to/4adxMft",
+  "small bowls": "https://amzn.to/4adxMft",
+  "small bowl": "https://amzn.to/4adxMft",
+  "metal bowls": "https://amzn.to/4rb3CiD",
+  "metal bowl": "https://amzn.to/4rb3CiD",
+  "hand mixer": "https://amzn.to/45yqsbM",
+  "salad spinner": "https://amzn.to/4dFeyPZ",
+  '12" pans': "https://amzn.to/4rdR0HI",
+  '12" pan': "https://amzn.to/4rdR0HI",
+  "large pans": "https://amzn.to/4rdR0HI",
+  "large pan": "https://amzn.to/4rdR0HI",
+  "cast iron pan": "https://amzn.to/465aAxx",
+  "cast iron": "https://amzn.to/465aAxx",
+  "small pans": "https://amzn.to/4qFE9y3",
+  "small pan": "https://amzn.to/4qFE9y3",
+  '8" pans': "https://amzn.to/4qFE9y3",
+  '8" pan': "https://amzn.to/4qFE9y3",
+  "stainless steel pans": "https://amzn.to/4pREQ61",
+  "stainless steel pan": "https://amzn.to/4pREQ61",
+  "stainless steel pots": "https://amzn.to/49DLg42",
+  "stainless steel pot": "https://amzn.to/49DLg42",
+  "medium saucepot": "https://amzn.to/46ccg8m",
+  "medium pot": "https://amzn.to/46ccg8m",
+  "dutch oven": "https://amzn.to/3LNGdVy",
+  '10" pans': "https://amzn.to/4bOh0on",
+  '10" pan': "https://amzn.to/4bOh0on",
+  "potato masher": "https://amzn.to/4r5boL0",
+  "fine mesh strainer": "https://amzn.to/4q2FwWu",
+  "mesh strainer": "https://amzn.to/4q2FwWu",
+  "sift": "https://amzn.to/4q2FwWu",
+  "spider": "https://amzn.to/49ZXQcQ",
+  "wire racks": "https://amzn.to/4qQNmn2",
+  "wire rack": "https://amzn.to/4qQNmn2",
+  "cooling racks": "https://amzn.to/4qQNmn2",
+  "cooling rack": "https://amzn.to/4qQNmn2",
 
   # MISC
   "processed foods": "/misc/processed-foods",
@@ -668,7 +838,6 @@ LINKS = {
   "bread": "/recipes/bread",
   "buns": "/recipes/bread",
   "bun": "/recipes/bread",
-  "loaf": "/recipes/bread",
   "breakfast": "/recipes/breakfast",
   "drinks": "/recipes/drink",
   "drink": "/recipes/drink",
@@ -696,10 +865,6 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
-    "cookie sheets",
-    "cookie sheet",
-    "bread pans",
-    "bread pan",
     "banana bread",
     "garlic powder",
     "onion powder",
@@ -722,8 +887,12 @@ EXCLUDED_PHRASES = [
     "peanut oil",
     "avocado oil",
     "lemon pepper",
+    "lime pepper",
+    "mango pepper",
     "cut side",
     "the side",
+    "first side",
+    "other side",
     "almond extract",
     "butter extract",
     "coconut extract",
@@ -732,7 +901,28 @@ EXCLUDED_PHRASES = [
     "corn starch",
     "cornstarch",
     "cast iron",
-    "cast-iron"
+    "cast-iron",
+    "non dairy",
+    "non-dairy",
+    "all sides",
+    "all 4 sides",
+    "4 sides",
+    "both sides",
+    "soy sauce",
+    "the flour",
+    "each side",
+    "the sides",
+    "the side",
+    "scoop out the seeds",
+    "black pepper",
+    "red pepper flakes",
+    "red pepper",
+    "chili powder",
+    "scale up",
+    "scale down",
+    "scale this",
+    "easily scale",
+    "grains of"
 ]
 
 REMOVE_CATEGORIES = [
@@ -877,6 +1067,8 @@ def process_front_matter(text, links, exclude_phrases=None):
     delims = 0
     body = []
 
+    current_section = None  # Description / Instructions / Notes
+
     for line in lines:
         if line.strip() == "---" and delims < 2:
             delims += 1
@@ -885,17 +1077,36 @@ def process_front_matter(text, links, exclude_phrases=None):
             continue
 
         if in_front_matter:
-            if line.startswith("Description:") or line.startswith("Instructions:") or line.startswith("Notes:"):
+            # Section headers
+            if line.startswith(("Description:", "Instructions:", "Notes:")):
                 key, value = line.split(":", 1)
-                # remove old links for nuts/seeds/grains before auto-linking
+                current_section = key
+
                 value = remove_existing_links(value, REMOVE_CATEGORIES)
                 value = auto_link_html_safe_single_quotes(value, links, exclude_phrases)
+
                 output.append(f"{key}:{value}")
-            else:
-                output.append(line)
+                continue
+
+            # Bullet points inside Instructions / Notes
+            if current_section in ("Instructions", "Notes") and line.lstrip().startswith("-"):
+                line = remove_existing_links(line, REMOVE_CATEGORIES)
+
+                linked = auto_link_html_safe_single_quotes(
+                    line,
+                    links,
+                    exclude_phrases
+                )
+
+                output.append(linked)
+                continue
+
+            # Any other front-matter line
+            output.append(line)
         else:
             body.append(line)
 
+    # Process body normally
     if body:
         html_body = "".join(body)
         html_body = remove_existing_links(html_body, REMOVE_CATEGORIES)
@@ -920,6 +1131,10 @@ def main():
             # optional filename filter (keep or remove)
             # if not file.startswith("2023"):
             #     continue
+
+            # exclude some files
+            if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips"):
+                continue
 
             path = os.path.join(root, file)
 

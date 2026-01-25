@@ -56,14 +56,14 @@ tags:
 - cheese
 Description: These <a href='/misc/meat#eggs'>egg</a> muffins are a great way to prep some <a href='/recipes/breakfast'>breakfast</a> ahead of time and eat on the go. Saute whatever <a href='/misc/veggies'>vegetables</a> you like (I went with <a href='/misc/veggies#spinach-fresh'>spinach</a>, <a href='/misc/veggies#pepper'>pepper</a>, and <a href='/misc/veggies#onion'>onion</a>), mix with <a href='/misc/meat#eggs'>eggs</a>, and bake. Each serving is 1 <a href='/misc/meat#eggs'>egg</a>'s worth; 6 mini muffins or 3 regular sized muffins
 Instructions:
-- Preheat your oven to 350F, and heat a large pan over medium heat. Cut your peppers and onions into a small dice. Add vegetables to the pan with oil and salt. Cover, and cook until peppers have softened and onions turn translucent
+- Preheat your oven to 350F, and heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Cut your peppers and <a href='/misc/veggies#onion'>onions</a> into a small dice. Add <a href='/misc/veggies'>vegetables</a> to the pan with <a href='/misc/fats'>oil</a> and salt. Cover, and cook until peppers have softened and <a href='/misc/veggies#onion'>onions</a> turn translucent
 
-- Season to taste with whatever you like. I went with paprika, chili powder, lemon pepper, garlic, onion, black pepper, and hot sauce
+- Season to taste with whatever you like. I went with paprika, <a href='/chili'>chili</a> powder, lemon pepper, <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, black pepper, and <a href='/recipes/hot-sauce'>hot sauce</a>
 
-- Crack your eggs into a large bowl, and mix with the vegetables. Liberally grease a muffin tin, and evenly divide your batter. This recipe makes 24 mini muffins or 12 regular sized muffins
+- Crack your <a href='/misc/meat#eggs'>eggs</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>, and mix with the <a href='/misc/veggies'>vegetables</a>. Liberally grease a muffin tin, and evenly divide your batter. This recipe makes 24 mini muffins or 12 regular sized muffins
 - <img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-3.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 15 minutes for mini muffins, or about 20 minutes for regular sized muffins. Let cool in the pan for 5 minutes before transferring to a wire rack and serving. Optionally, top with shredded cheese and serve with salsa
+- Bake at 350F for about 15 minutes for mini muffins, or about 20 minutes for regular sized muffins. Let cool in the pan for 5 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> and serving. Optionally, top with <a href='/misc/dairy#cheddar'>shredded cheese</a> and serve with <a href='/recipes/salsa'>salsa</a>
 - <img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-4.jpg' alt='' class='instruction-image'>
 Notes:
 ---

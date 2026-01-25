@@ -56,7 +56,7 @@ Description: These tomato chickpea wraps are inspired by Indian Chana Masala, bu
 Instructions:
 - For your carb, you can either have tortillas or <a href='/misc/grains#brown-rice'>brown rice</a>.  For 5 servings, you'll either need 5 <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, or cook 1 cup (185 g) rice according to the instructions
 
-- Meanwhile, cut your onions into a small dice, and add them to 12” pan with some oil, salt, and minced garlic.  Cook over medium heat for 5 minutes, covered
+- Meanwhile, cut your onions into a small dice, and add them to 12" pan with some oil, salt, and minced garlic.  Cook over medium heat for 5 minutes, covered
 
 - Pour in the tomatoes and chilies. Drain and rinse the chickpeas, and dump those in too. Season with paprika, garlic powder, onion powder, and black pepper
 

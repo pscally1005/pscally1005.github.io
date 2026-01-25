@@ -53,6 +53,6 @@ tags:
 - ball
 Description: It took me way too long to realize that with unflavored <a href='/recipes/protein-powder'>protein powder</a>, I can make <a href='/misc/protein'>protein</a> packed snacks that are savory instead of sweet. They're a fantastic source of quick, lean <a href='/misc/protein'>protein</a>, and they taste great. Instead of being limited by the small amount of things that can go into a healthy sweet, there's now a whole spice cabinet at your disposal to flavor these in interesting ways. I like to crumble these up on a <a href='/salad'>salad</a> when I don't have any <a href='/misc/meat'>meat</a> available.
 Instructions:
-- Add ingredients to a medium bowl and mix together with a spoon.  Roll into balls and refrigerate, or crumble on top of a salad
+- Add ingredients to a <a href='https://amzn.to/4adxMft'>medium bowl</a> and mix together with a spoon.  Roll into balls and refrigerate, or crumble on top of a <a href='/salad'>salad</a>
 Notes:
 ---

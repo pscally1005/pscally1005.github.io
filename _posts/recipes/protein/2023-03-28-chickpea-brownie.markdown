@@ -73,7 +73,7 @@ Instructions:
 - Drain and rinse your beans, and blend all ingredients in a food processor until fully combined and smooth
 - <img src='/assets/Food/Protein Powder/Chickpea Brownie/chickpea-brownie-batter.jpg' alt='' class='instruction-image'>
 
-- Line a 9x13” baking pan with parchment paper and lightly spray it. Pour batter in, and even out. Bake for 50 minutes at 350F, covered, until a toothpick comes out almost clean
+- Line a 9x13" baking pan with parchment paper and lightly spray it. Pour batter in, and even out. Bake for 50 minutes at 350F, covered, until a toothpick comes out almost clean
 - <img src='/assets/Food/Protein Powder/Chickpea Brownie/chickpea-brownie-toothpick.jpg' alt='' class='instruction-image'>
 
 - Move to the fridge and let cool for around an hour. Cut into slices and store in a ziploc bag or airtight container in either the fridge or the freezer

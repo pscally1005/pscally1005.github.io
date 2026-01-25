@@ -62,17 +62,17 @@ tags:
 - gluten free
 Description: I took and modified this recipe from my parents, who made <a href='/misc/fish#crab'>crab</a> cakes on Christmas. I really liked them, but I didn't want to pay for <a href='/misc/fish#crab'>crab</a>, so I wanted to try it with <a href='/misc/fish#tuna'>tuna</a> instead. I think they turned out pretty well. They're cheap, healthy, and simple. Feel free to actually use <a href='/misc/fish#crab'>crab</a> too. They're <a href='/misc/celiac'>gluten free</a> too, being made with <a href='/misc/nuts#coconut'>coconut flour</a>! The nutrition facts are per cake
 Instructions:
-- Prepare a 12" pan with a spray of oil
+- Prepare a 12" pan with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 
-- In a large bowl, beat the eggs, and mix with the ingredients above, from eggs to old bay
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat the <a href='/misc/meat#eggs'>eggs</a>, and mix with the ingredients above, from <a href='/misc/meat#eggs'>eggs</a> to old bay
 
-- Drain and rinse your fish under water with a strainer and add the fish into the bowl. Make sure to check for any shells (if using crab). Mash with the back of a fork to fully incorporate the fish. Fold in the flour, and mix until just combined. The mixture should feel slightly sticky, but able to be shaped
+- Drain and rinse your <a href='/misc/fish'>fish</a> under water with a strainer and add the <a href='/misc/fish'>fish</a> into the bowl. Make sure to check for any shells (if using <a href='/misc/fish#crab'>crab</a>). Mash with the back of a fork to fully incorporate the <a href='/misc/fish'>fish</a>. Fold in the flour, and mix until just combined. The mixture should feel slightly sticky, but able to be shaped
 - <img src='/assets/Food/Fish/Tuna Cake/tuna-cake-3.jpg' alt='' class='instruction-image'>
 
 - Shape the mixture into patties (about 12) and place on your pan. Cover and refrigerate the cakes for at least 30 minutes to 1 hour to set
 - <img src='/assets/Food/Fish/Tuna Cake/tuna-cake-4.jpg' alt='' class='instruction-image'>
 
-- Heat your large pan over medium heat with a spray of oil. Cook the cakes for about 10 minutes until golden brown on each side. Be very careful not to break them when flipping
+- Heat your large pan over medium heat with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>. Cook the cakes for about 10 minutes until golden brown on each side. Be very careful not to break them when flipping
 - <img src='/assets/Food/Fish/Tuna Cake/tuna-cake-5.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -58,11 +58,11 @@ tags:
 - bean
 Description: These super simple wraps are <a href='/misc/celiac'>gluten free</a>, healthy, and high in <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>. They only take 3 ingredients (if you even count salt and water as ingredients), are super simple to make, and great with any filling
 Instructions:
-- Using a strainer, wash your lentils. Add to a large blender with water and salt. Let soak for 3 hours
+- Using a strainer, wash your lentils. Add to a large <a href='https://amzn.to/4bO4VQ3'>blender</a> with water and salt. Let soak for 3 hours
 
 - After soaking, blend until smooth
 
-- Preheat a large pan over medium heat. Pour in the tortilla batter, and cook until the top has bubbles and appears dry. Flip and cook for an additional minute. Transfer to a plate or wire rack. Between each batch, re-blend the batter, and lightly spray the pan with oil
+- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Pour in the tortilla batter, and cook until the top has bubbles and appears dry. Flip and cook for an additional minute. Transfer to a plate or <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Between each batch, re-blend the batter, and lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the pan with <a href='/misc/fats'>oil</a>
 Notes:
-- Don't make them too thin or they will fall apart when flipping or eating. With any failed tortillas, you can rip them into large chunks and air fry at 400F for about 5 minutes to make red lentil tortilla chips
+- Don't make them too thin or they will fall apart when flipping or eating. With any failed tortillas, you can rip them into large chunks and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 5 minutes to make <a href='/misc/beans#red-lentils'>red lentil</a> tortilla chips
 ---

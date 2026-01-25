@@ -52,18 +52,18 @@ tags:
 - freezer
 Description: I love having <a href='/misc/meat#eggs'>eggs</a> for <a href='/recipes/breakfast'>breakfast</a>, but I don't like spending 15 minutes making <a href='/recipes/breakfast'>breakfast</a> for just 1 morning, just to do it again the next day. This recipe serves as a way to prep a whole week's worth of <a href='/recipes/breakfast'>breakfast</a> to store in the freezer for easy reheating in the morning. Wrap these in <a href='/misc/protein'>protein</a> tortillas as I did here for even more of a <a href='/misc/nutrient-alphabet'>nutrient</a> boost.  Other meal prep <a href='/misc/meat#eggs'>egg</a> recipes include my <a href='/recipes/frittata'>Spinach and Onion Frittata</a> and my <a href='/recipes/scrambled-eggs'>Long Weekend Scrambled Eggs</a>
 Instructions:
-- Dice the onion small, and add the onion and defrosted spinach to a 12” pan over medium heat (3-4 on my stove) with a spray of oil
+- Dice the <a href='/misc/veggies#onion'>onion</a> small, and add the <a href='/misc/veggies#onion'>onion</a> and defrosted <a href='/misc/veggies#spinach-fresh'>spinach</a> to a <a href='https://amzn.to/4rdR0HI'>12" pan</a> over medium heat (3-4 on my stove) with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 
-- Add in the hot sauce, garlic, and spices. Cover and cook until onions are translucent (medium heat)
+- Add in the <a href='/recipes/hot-sauce'>hot sauce</a>, <a href='/misc/veggies#garlic'>garlic</a>, and spices. Cover and cook until <a href='/misc/veggies#onion'>onions</a> are translucent (medium heat)
 
-- Remove the pan from the burner, and crack in the 6 eggs. Beat the eggs with your spatula until fully beaten and everything is fully mixed
+- Remove the pan from the burner, and crack in the 6 <a href='/misc/meat#eggs'>eggs</a>. Beat the <a href='/misc/meat#eggs'>eggs</a> with your <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a> until fully beaten and everything is fully mixed
 
-- Return to the burner and cook until eggs are almost done (~15 min?) over medium heat
+- Return to the burner and cook until <a href='/misc/meat#eggs'>eggs</a> are almost done (~15 min?) over medium heat
 
-- When eggs are almost done, add in the cheese and salsa and stir until incorporated
+- When <a href='/misc/meat#eggs'>eggs</a> are almost done, add in the <a href='/misc/dairy'>cheese</a> and <a href='/recipes/salsa'>salsa</a> and stir until incorporated
 - <img src='/assets/Food/Breakfast/Egg Wrap/egg-wrap-5.jpg' alt='' class='instruction-image'>
 
-- Divide the mix evenly across 6 tortillas. Wait to shape the leftovers until the eggs have cooled. Optionally top with some sauce
+- Divide the mix evenly across 6 tortillas. Wait to shape the leftovers until the <a href='/misc/meat#eggs'>eggs</a> have cooled. Optionally top with some sauce
 
 - Wrap up, wrap in aluminum foil, and freeze
 

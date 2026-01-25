@@ -58,13 +58,13 @@ tags:
 - jelly
 Description: This <a href='/misc/veggies#carrots'>carrot</a> jam is a twist on my classic <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a>. It simmers <a href='/misc/veggies#carrots'>carrots</a> with all the carrot cake spices, leaving your home smelling amazing. It tastes great on a PB&J or in your morning <a href='/yogurt'>yogurt</a> or <a href='/oatmeal'>oatmeal</a>. It's very simple, so give it a go
 Instructions:
-- Wash and cut your carrots. If using baby carrots, you can add those right to the pot as is, no cutting needed. For large carrots, cut into strips, about the size of a baby carrot. Transfer to your pot
+- Wash and cut your <a href='/misc/veggies#carrots'>carrots</a>. If using baby <a href='/misc/veggies#carrots'>carrots</a>, you can add those right to the pot as is, no cutting needed. For large <a href='/misc/veggies#carrots'>carrots</a>, cut into strips, about the size of a baby <a href='/misc/veggies#carrots'>carrot</a>. Transfer to your pot
 
-- To the pot, add your spices (cinnamon, ginger, nutmeg, cloves, and allspice), vanilla, and applesauce. Mix together
+- To the pot, add your spices (cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, cloves, and allspice), vanilla, and <a href='/misc/fruit#apple'>applesauce</a>. Mix together
 
-- Pour in just enough water to cover the carrots. Cover and cook on medium heat with occasional stirring and mashing with a wooden spoon (make sure nothing sticks and burns), until the carrots are tender. If all the water has cooked off but the carrots aren't soft yet, just cover again with water, and cook until the carrots are fork tender. I had to fill mine up with water 3 times
+- Pour in just enough water to cover the <a href='/misc/veggies#carrots'>carrots</a>. Cover and cook on medium heat with occasional stirring and mashing with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> (make sure nothing sticks and burns), until the <a href='/misc/veggies#carrots'>carrots</a> are tender. If all the water has cooked off but the <a href='/misc/veggies#carrots'>carrots</a> aren't soft yet, just cover again with water, and cook until the <a href='/misc/veggies#carrots'>carrots</a> are fork tender. I had to fill mine up with water 3 times
 
-- Use an immersion blender to blend the jam as smoothly as possible. It should be about the consistency of pumpkin puree. Squeeze in the some lemon (the acid helps preserve it in the fridge for longer). Transfer to a jar, and store in the fridge
+- Use an <a href='https://amzn.to/3VHhgMM'>immersion blender</a> to blend the jam as smoothly as possible. It should be about the consistency of <a href='/recipes/pumpkin-puree'>pumpkin puree</a>. Squeeze in the some <a href='/misc/fruit#lemon'>lemon</a> (the acid helps preserve it in the fridge for longer). Transfer to a jar, and store in the fridge
 - <img src='/assets/Food/Sweet Spreads/Carrot/carrot-4.jpg' alt='' class='instruction-image'>
 
 - My batch weighed about 570g at the end. Assuming a 2 tbsp (32 g) serving, there are about 18 servings
