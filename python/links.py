@@ -3,7 +3,8 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\delete"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\delete"
+POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
 
 LINKS = {
 
@@ -301,14 +302,14 @@ LINKS = {
   "venison": "/misc/meat#venison",
 
   # NUTS
-  "almond butter": "/misc/nuts#almond-butter",
+  "almond butter": "/misc/nuts#almonds",
   "almond flour": "/misc/nuts#almonds",
   "almonds": "/misc/nuts#almonds",
   "almond": "/misc/nuts#almonds",
   "brazil nuts": "/misc/nuts#brazil-nuts",
   "brazil nut": "/misc/nuts#brazil-nuts",
   "cashews": "/misc/nuts#cashews",
-  "cashew butter": "/misc/nuts#cashew-butter",
+  "cashew butter": "/misc/nuts#cashews",
   "cashew": "/misc/nuts#cashews",
   "chestnuts": "/misc/nuts#chestnuts",
   "chestnut": "/misc/nuts#chestnuts",
@@ -322,7 +323,7 @@ LINKS = {
   "macadamia nuts": "/misc/nuts#macadamia-nuts",
   "macadamia nut butter": "/misc/nuts#macadamia-nuts",
   "macadamia nut": "/misc/nuts#macadamia-nuts",
-  "peanut butter": "/misc/nuts#peanut-butter",
+  "peanut butter": "/misc/nuts#peanuts",
   "peanuts": "/misc/nuts#peanuts",
   "peanut": "/misc/nuts#peanuts",
   "pecans": "/misc/nuts#pecans",
@@ -335,7 +336,7 @@ LINKS = {
   "pistachio butter": "/misc/nuts#pistachios",
   "pistachio": "/misc/nuts#pistachios",
   "walnuts": "/misc/nuts#walnuts",
-  "walnut butter": "/misc/nuts#walnut-butter",
+  "walnut butter": "/misc/nuts#walnuts",
   "walnut": "/misc/nuts#walnuts",
 
   # SEEDS
@@ -352,14 +353,14 @@ LINKS = {
   "poppy seed": "/misc/seeds#poppy-seeds",
   "poppy": "/misc/seeds#poppy-seeds",
   "pumpkin seeds": "/misc/seeds#pumpkin-seeds",
-  "pumpkin seed butter": "/misc/seeds#pumpkin-seed-butter",
+  "pumpkin seed butter": "/misc/seeds#pumpkin-seeds",
   "pumpkin seed": "/misc/seeds#pumpkin-seeds",
   "sesame seeds": "/misc/seeds#sesame-seeds",
   "sesame seed butter": "/misc/seeds#sesame-seeds",
   "sesame seed": "/misc/seeds#sesame-seeds",
   "tahini": "/misc/seeds#sesame-seeds",
   "sunflower seeds": "/misc/seeds#sunflower-seeds",
-  "sunflower seed butter": "/misc/seeds#sunflower-seed-butter",
+  "sunflower seed butter": "/misc/seeds#sunflower-seeds",
   "sunflower seed": "/misc/seeds#sunflower-seeds",
   "sunflower": "/misc/seeds#sunflower-seeds",
 
@@ -394,6 +395,9 @@ LINKS = {
   "eggplants": "/misc/veggies#eggplant",
   "eggplant": "/misc/veggies#eggplant",
   "fennel": "/misc/veggies#fennel",
+  "fresh garlic": "/misc/veggies#garlic",
+  "garlic cloves": "/misc/veggies#garlic",
+  "minced garlic": "/misc/veggies#garlic",
   "garlic": "/misc/veggies#garlic",
   "ginger": "/misc/veggies#ginger",
   "green beans": "/misc/veggies#green-bean",
@@ -513,8 +517,18 @@ LINKS = {
   "saturated fat": "/misc/fats",
   "trans fats": "/misc/fats",
   "trans fat": "/misc/fats",
+  "added fats": "/misc/fats",
+  "added fat": "/misc/fats",
   "fats": "/misc/fats",
   "fat": "/misc/fats",
+  "refined oils": "/misc/fats",
+  "refined oil": "/misc/fats",
+  "seed oils": "/misc/fats",
+  "seed oil": "/misc/fats",
+  "vegetable oils": "/misc/fats",
+  "vegetable oil": "/misc/fats",
+  "oils": "/misc/fats",
+  "oil": "/misc/fats",
   "protein": "/misc/protein",
   "high protein": "/misc/high-protein",
   "calories": "/misc/calories",
@@ -651,6 +665,7 @@ LINKS = {
   "savory sauces": "/recipes/savory-sauces",
   "savory sauce": "/recipes/savory-sauces",
   "sides": "/recipes/sides",
+  "side dish": "/recipes/sides",
   "side": "/recipes/sides",
   "sweet spreads": "/recipes/sweet-spreads",
   "sweet spread": "/recipes/sweet-spreads"
@@ -677,8 +692,14 @@ EXCLUDED_PHRASES = [
     "evaporated milk",
     "condensed milk",
     "carrot cake",
-    "breaded"
-    "fryer"
+    "breaded",
+    "fryer",
+    "olive oil",
+    "peanut oil",
+    "avocado oil",
+    "lemon pepper",
+    "cut side",
+    "the side"
 ]
 
 EXCLUDED_REGEXES = [
@@ -732,12 +753,82 @@ def restore_emsp(text, emsp_blocks):
         text = text.replace(key, val)
     return text
 
+def extract_div_blocks(text):
+    blocks = []
+    clean = []
+    last = 0
+
+    # capture <div> … </div> + optional <br> + newline(s)
+    for m in re.finditer(r"(<div\b[^>]*>.*?</div>(?:<br>\s*)?)", text, flags=re.DOTALL | re.IGNORECASE):
+        start, end = m.span()
+        clean.append(text[last:start])
+        blocks.append(m.group(0))
+        clean.append(f"__DIV_BLOCK_{len(blocks)-1}__")
+        last = end
+
+    clean.append(text[last:])
+    return "".join(clean), blocks
+
+def restore_div_blocks(text, blocks):
+    for i, block in enumerate(blocks):
+        text = text.replace(f"__DIV_BLOCK_{i}__", block)
+    return text
+
+# -------------------------------------------------------------
+# Extract <ul> blocks like we do <div> or liquid
+# -------------------------------------------------------------
+def extract_ul_blocks(text):
+    blocks = []
+    clean = []
+    last = 0
+
+    # capture <ul> … </ul> + optional <br> + newline(s)
+    for m in re.finditer(r"(<ul\b[^>]*>.*?</ul>(?:<br>\s*)?)", text, flags=re.DOTALL | re.IGNORECASE):
+        start, end = m.span()
+        clean.append(text[last:start])
+        blocks.append(m.group(0))
+        clean.append(f"__UL_BLOCK_{len(blocks)-1}__")
+        last = end
+
+    clean.append(text[last:])
+    return "".join(clean), blocks
+
+def restore_ul_blocks(text, blocks):
+    for i, block in enumerate(blocks):
+        text = text.replace(f"__UL_BLOCK_{i}__", block)
+    return text
+
+def extract_ol_blocks(text):
+    blocks = []
+    clean = []
+    last = 0
+
+    # capture <ol> … </ol> + optional <br> + newline(s)
+    for m in re.finditer(r"(<ol\b[^>]*>.*?</ol>(?:<br>\s*)?)", text, flags=re.DOTALL | re.IGNORECASE):
+        start, end = m.span()
+        clean.append(text[last:start])
+        blocks.append(m.group(0))
+        clean.append(f"__OL_BLOCK_{len(blocks)-1}__")
+        last = end
+
+    clean.append(text[last:])
+    return "".join(clean), blocks
+
+def restore_ol_blocks(text, blocks):
+    for i, block in enumerate(blocks):
+        text = text.replace(f"__OL_BLOCK_{i}__", block)
+    return text
+
 # -------------------------------------------------------------
 # Auto-link function
 # -------------------------------------------------------------
 def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
     html, liquid_blocks = extract_liquid_blocks(html)
     html, emsp_blocks = protect_emsp(html)
+
+    html, div_blocks = extract_div_blocks(html)
+    html, ul_blocks = extract_ul_blocks(html)
+    html, ol_blocks = extract_ol_blocks(html)
 
     soup = BeautifulSoup(html, "html.parser")
     exclude_phrases = [p.lower() for p in (exclude_phrases or [])]
@@ -827,14 +918,47 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
     for child in list(soup.contents):
         process_node(child)
 
-    html = "".join(str(c) for c in soup.contents)
+    # html = "".join(str(c) for c in soup.contents)
+    html = soup.decode(formatter=None)
     html = re.sub(r'href="([^"]+)"', r"href='\1'", html)
     html = html.replace("<br/>", "<br>")
 
     html = restore_emsp(html, emsp_blocks)
     html = restore_liquid_blocks(html, liquid_blocks)
 
+    # force single quotes for all attributes
+    html = re.sub(
+        r'(\s[\w:-]+)="([^"]*)"',
+        r"\1='\2'",
+        html
+    )
+
+    html = normalize_img_attrs(html)
+    html = restore_div_blocks(html, div_blocks)
+    html = restore_ul_blocks(html, ul_blocks)
+    html = restore_ol_blocks(html, ol_blocks)
+
     return html
+
+def normalize_img_attrs(html):
+    def repl(m):
+        tag = m.group(0)
+
+        attrs = dict(re.findall(r"([\w:-]+)='([^']*)'", tag))
+
+        order = ["src", "alt", "class"]
+        parts = []
+
+        for k in order:
+            if k in attrs:
+                parts.append(f"{k}='{attrs.pop(k)}'")
+
+        for k, v in attrs.items():
+            parts.append(f"{k}='{v}'")
+
+        return "<img " + " ".join(parts) + ">"
+
+    return re.sub(r"<img\s+[^>]+>", repl, html)
 
 # -------------------------------------------------------------
 # Process front matter and body
@@ -874,10 +998,11 @@ def process_front_matter(text, links, exclude_phrases=None):
 # Main processing loop
 # -------------------------------------------------------------
 os.system('cls')
+print('-------------------')
 count = 0
 for root, _, files in os.walk(POSTS_DIR):
     for file in files:
-        if not file.startswith("2024"):
+        if not file.startswith("2024-12-19-healthy-cookie"):
             continue
         if file.endswith((".md", ".html", ".markdown")):
             path = os.path.join(root, file)
