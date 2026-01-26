@@ -3,7 +3,7 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\cooking"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
 
 LINKS = {
@@ -967,6 +967,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "olive or canola",
     "plastic knife",
     "serated knife",
     "banana peppers",
@@ -1294,8 +1295,8 @@ def main():
                 # continue
 
             # exclude some files
-            if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips") or file.startswith("2024-08-23-kitchen") or file.startswith("2025-03-12-tips"):
-                continue
+            # if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips") or file.startswith("2024-08-23-kitchen") or file.startswith("2025-03-12-tips"):
+            #     continue
 
             path = os.path.join(root, file)
 
