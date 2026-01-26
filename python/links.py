@@ -1019,6 +1019,7 @@ EXCLUDED_PHRASES = [""
     "both sides",
     "soy sauce",
     "the flour",
+    "together flour",
     "lightly flour",
     "flour the bowl",
     "flour your bowl",
@@ -1285,7 +1286,7 @@ def main():
                 # continue
 
             # exclude some files
-            if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips") or file.startswith("2024-08-23-kitchen"):
+            if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips") or file.startswith("2024-08-23-kitchen") or file.startswith("2025-03-12-tips"):
                 continue
 
             path = os.path.join(root, file)
