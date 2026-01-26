@@ -58,7 +58,7 @@ tags:
 - bean
 Description: These super simple wraps are <a href='/misc/celiac'>gluten free</a>, healthy, and high in <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>. They only take 3 ingredients (if you even count salt and water as ingredients), are super simple to make, and great with any filling
 Instructions:
-- Using a strainer, wash your lentils. Add to a large <a href='https://amzn.to/4bO4VQ3'>blender</a> with water and salt. Let soak for 3 hours
+- Using a strainer, wash your <a href='/misc/beans#brown-lentils'>lentils</a>. Add to a large <a href='https://amzn.to/4bO4VQ3'>blender</a> with water and salt. Let soak for 3 hours
 
 - After soaking, blend until smooth
 

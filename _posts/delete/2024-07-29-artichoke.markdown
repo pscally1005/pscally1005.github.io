@@ -33,7 +33,7 @@ I love <a href='/misc/veggies#artichoke'>artichokes</a>, but I've only ever prev
 
 <img src='/assets/Misc/Cooking/Artichoke/artichoke-whole.jpg' alt='' class='larger-image'>
 <u><font size='+2'>Snipping</font></u><br>
-Start by washing your <a href='/misc/veggies#artichoke'>artichokes</a> under cold water, and drying them with a paper towel.  Using a pair of kitchen shears, snip the pointy ends off each of the leaves.  After, using a serated knife, cut about 1-2 inches off the stem, and 1-2 inches off the top.  If you're slicing and it feel too stiff, move your knife back and cut off more.
+Start by washing your <a href='/misc/veggies#artichoke'>artichokes</a> under cold water, and drying them with a paper towel.  Using a pair of kitchen shears, snip the pointy ends off each of the leaves.  After, using a serated knife, cut about 1-2 inches off the stem, and 1-2 inches off the top.  If you're slicing and it feel too stiff, move your <a href='https://amzn.to/4jlDKwc'>knife</a> back and cut off more.
 
 <img src='/assets/Misc/Cooking/Artichoke/artichoke-snipped.jpg' alt='' class='larger-image'>
 <u><font size='+2'>Slicing and Seasoning</font></u><br>
@@ -43,11 +43,11 @@ For seasoning, I drizzled both the inside and outside of each <a href='/misc/veg
 
 <img src='/assets/Misc/Cooking/Artichoke/artichoke-seasoned.jpg' alt='' class='larger-image'>
 <u><font size='+2'>Roasting</font></u><br>
-Place each <a href='/misc/veggies#artichoke'>artichoke</a> cut side down on a lined baking sheet.  Bake uncovered in a preheated 400F oven for 15 minutes.  Then, cover with aluminum foil, and bake for an additional 30 minutes.  The <a href='/misc/veggies#artichoke'>artichokes</a> are done when you can easily pierce the stem with a knife, and the leaves pull off easily.
+Place each <a href='/misc/veggies#artichoke'>artichoke</a> cut side down on a lined baking sheet.  Bake uncovered in a preheated 400F oven for 15 minutes.  Then, cover with aluminum foil, and bake for an additional 30 minutes.  The <a href='/misc/veggies#artichoke'>artichokes</a> are done when you can easily pierce the stem with a <a href='https://amzn.to/4jlDKwc'>knife</a>, and the leaves pull off easily.
 
 <img src='/assets/Misc/Cooking/Artichoke/artichoke-roasted.jpg' alt='' class='larger-image'>
 <u><font size='+2'>Eating</font></u><br>
-To eat the <a href='/misc/veggies#artichoke'>artichoke</a>, simply pull off a leaf, and scrape your teeth along the bottom part of it, as seen below.  Make your way though all the leaves to the center to find the heart.  The <a href='/misc/veggies#artichoke'>artichoke</a> heart is the best part; this is what you find canned, jarred, or frozen.  Switch to a fork and knife, and enjoy your hard work.
+To eat the <a href='/misc/veggies#artichoke'>artichoke</a>, simply pull off a leaf, and scrape your teeth along the bottom part of it, as seen below.  Make your way though all the leaves to the center to find the heart.  The <a href='/misc/veggies#artichoke'>artichoke</a> heart is the best part; this is what you find canned, jarred, or frozen.  Switch to a fork and <a href='https://amzn.to/4jlDKwc'>knife</a>, and enjoy your hard work.
 
 <img src='/assets/Misc/Cooking/Artichoke/artichoke-eating.jpg' alt='' class='larger-image'>
 <br><u><font size='+2'>Sources</font></u><br>

@@ -3,7 +3,7 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\cooking"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
 
 LINKS = {
@@ -402,6 +402,8 @@ LINKS = {
   "chia seeds": "/misc/seeds#chia-seeds",
   "chia seed": "/misc/seeds#chia-seeds",
   "chia": "/misc/seeds#chia-seeds",
+  "flax eggs": "/misc/seeds#flax-seeds",
+  "flax egg": "/misc/seeds#flax-seeds",
   "ground flax seeds": "/misc/seeds#flax-seeds",
   "ground flaxseeds": "/misc/seeds#flax-seeds",
   "ground flax seed": "/misc/seeds#flax-seeds",
@@ -578,8 +580,11 @@ LINKS = {
   "sodium": "/misc/sodium",
   "vitamin b12": "/misc/vitamin-b12",
   "vitamin c": "/misc/vitamin-c",
+  "added sugars": "/misc/hidden-sugar",
   "added sugar": "/misc/hidden-sugar",
+  "hidden sugars": "/misc/hidden-sugar",
   "hidden sugar": "/misc/hidden-sugar",
+  "refined sugas": "/misc/hidden-sugar",
   "refined sugar": "/misc/hidden-sugar",
   "sugar free": "/misc/hidden-sugar",
   "sugar-free": "/misc/hidden-sugar",
@@ -961,8 +966,9 @@ LINKS = {
   "sweet spread": "/recipes/sweet-spreads"
 }
 
-EXCLUDED_PHRASES = [""
-
+EXCLUDED_PHRASES = [
+    "plastic knife",
+    "serated knife",
     "banana peppers",
     "banana pepper",
     "banana bread",
@@ -980,6 +986,7 @@ EXCLUDED_PHRASES = [""
     "minute",
     "non fat",
     "nonfat",
+    "full fat",
     "fat free",
     "nutrition",
     "nutritious",
@@ -1048,6 +1055,7 @@ EXCLUDED_PHRASES = [""
     "scale up",
     "scale down",
     "scale this",
+    "to scale",
     "easily scale",
     "grains of",
     "butter knife",
