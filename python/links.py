@@ -1003,6 +1003,8 @@ EXCLUDED_PHRASES = [
     "grain of",
     "grain of rice",
     "grain of salt",
+    "white meat",
+    "dark meat",
 ]
 
 REMOVE_CATEGORIES = [
