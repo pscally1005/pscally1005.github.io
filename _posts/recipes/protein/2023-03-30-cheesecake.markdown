@@ -56,7 +56,7 @@ Description: This <a href='/misc/nuts#peanuts'>peanut</a> butter cheesecake is a
 Instructions:
 - Mix ingredients together in a bowl or food processor until smooth - whipped fat free cottage cheese, banana, powdered peanut butter, cornstarch, vanilla, and sweetener
 
-- Line an 8" pie pan with parchment paper and spray. Pour in the mixture and even out. Optionally top with chocolate chips (2 tbsp, 30 g)
+- Line an 9" pie pan with parchment paper and spray. Pour in the mixture and even out. Optionally top with chocolate chips (2 tbsp, 30 g)
 
 - Bake for about 25-30 minutes at 350F. The center should lightly jiggle when the side of the pan is tapped. If it jiggles too much, continue to bake for an additional few minutes
 - <img src='/assets/Food/Protein Powder/Cheesecake/cheesecake-3.jpg' alt='' class='instruction-image'>
