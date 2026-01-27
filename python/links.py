@@ -3,7 +3,7 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\costs"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\diseases"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
 
 LINKS = {
@@ -1409,8 +1409,8 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            # if not file.startswith("2024"):
-                # continue
+            if not file.startswith("2025-12-01"):
+                continue
 
             # exclude some files
             # if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips") or file.startswith("2024-08-23-kitchen") or file.startswith("2025-03-12-tips"):
