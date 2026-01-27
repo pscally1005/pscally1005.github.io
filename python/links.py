@@ -653,11 +653,14 @@ LINKS = {
   "pyridoxine": "/misc/nutrient-alphabet#B",
   "copper": "/misc/nutrient-alphabet#C",
   "vitamin d": "/misc/nutrient-alphabet#D",
+  "d": "/misc/nutrient-alphabet#D",
   "vitamin e": "/misc/nutrient-alphabet#E",
+  "e": "/misc/nutrient-alphabet#E",
   "folate": "/misc/nutrient-alphabet#F",
   "vitamin b9": "/misc/nutrient-alphabet#F",
   "b9": "/misc/nutrient-alphabet#F",
   "iodine": "/misc/nutrient-alphabet#I",
+  "vitamin k": "/misc/nutrient-alphabet#K",
   "vitamin k": "/misc/nutrient-alphabet#K",
   "lycopene": "/misc/nutrient-alphabet#L",
   "manganese": "/misc/nutrient-alphabet#M",
@@ -703,6 +706,7 @@ LINKS = {
   "vitamin b12": "/misc/vitamin-b12",
   "b12": "/misc/vitamin-b12",
   "vitamin c": "/misc/vitamin-c",
+  "c": "/misc/vitamin-c",
   "sugar consumption": "/misc/hidden-sugar",
   "added sugars": "/misc/hidden-sugar",
   "added sugar": "/misc/hidden-sugar",
@@ -1238,6 +1242,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "e.",
     "chicken or the egg",
     "toxic soup",
     "a drink",
@@ -1733,8 +1738,8 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2025-12-01"):
-                continue
+            # if not file.startswith("2025-12-01"):
+            #     continue
 
             # exclude some files
             # if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips") or file.startswith("2024-08-23-kitchen") or file.startswith("2025-03-12-tips"):
