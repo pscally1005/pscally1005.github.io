@@ -1110,6 +1110,8 @@ LINKS = {
   "xylitol": "/misc/fake-healthy-foods#sugar-substitutes",
   "sorbitol": "/misc/fake-healthy-foods#sugar-substitutes",
   "sucralose": "/misc/fake-healthy-foods#sugar-substitutes",
+  "aspartame": "/misc/fake-healthy-foods#sugar-substitutes",
+  "saccharin": "/misc/fake-healthy-foods#sugar-substitutes",
   "allulose": "/misc/fake-healthy-foods#sugar-substitutes",
   "artificial sweeteners": "/misc/fake-healthy-foods#sugar-substitutes",
   "artificial sweetener": "/misc/fake-healthy-foods#sugar-substitutes",
@@ -1679,7 +1681,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2024-12-28"):
+            if not file.startswith("2025-02-13"):
                 continue
 
             # exclude some files
