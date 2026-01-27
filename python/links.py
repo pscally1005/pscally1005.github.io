@@ -413,6 +413,8 @@ LINKS = {
   "salami": "/misc/meat#salami",
   "sausage": "/misc/meat#sausage",
   "sausages": "/misc/meat#sausage",
+  "breakfast sausages": "/misc/meat#sausage",
+  "breakfast sausage": "/misc/meat#sausage",
   "spam": "/misc/meat#spam",
   "steak": "/misc/meat#steak",
   "steaks": "/misc/meat#steak",
@@ -679,6 +681,8 @@ LINKS = {
   "carb": "/misc/carbs",
   "refined starches": "/misc/carbs",
   "refined starch": "/misc/carbs",
+  "refined grains": "/misc/carbs",
+  "refined grain": "/misc/carbs",
   "starches": "/misc/carbs",
   "starch": "/misc/carbs",
   "hydroginated fats": "/misc/fats",
@@ -1081,6 +1085,12 @@ LINKS = {
   "prepared meal": "/misc/fake-healthy-foods#frozen-meals",
   "processed meats": "/misc/fake-healthy-foods#processed-meats",
   "processed meat": "/misc/fake-healthy-foods#processed-meats",
+  "deli meats": "/misc/fake-healthy-foods#processed-meats",
+  "deli meat": "/misc/fake-healthy-foods#processed-meats",
+  "sandwich meats": "/misc/fake-healthy-foods#processed-meats",
+  "sandwich meat": "/misc/fake-healthy-foods#processed-meats",
+  "cold cuts": "/misc/fake-healthy-foods#processed-meats",
+  "cold cut": "/misc/fake-healthy-foods#processed-meats",
   "flavored yogurts": "/misc/fake-healthy-foods#yogurt",
   "flavored yogurt": "/misc/fake-healthy-foods#yogurt",
   "breakfast bars": "/misc/fake-healthy-foods#granola",
@@ -1116,6 +1126,7 @@ LINKS = {
   "fries": "/misc/fake-healthy-foods#potatoes",
   "fruit juice": "/misc/fake-healthy-foods#juice",
   "juice": "/misc/fake-healthy-foods#juice",
+  "lemonade": "/misc/fake-healthy-foods#juice",
 
 }
 
@@ -1266,6 +1277,9 @@ EXCLUDED_PHRASES = [
     "date sugar",
     "coconut sugar",
     "agave syrup",
+    "glucose syrup",
+    "invert sugar",
+    "rice syrup",
     "beet sugar",
     "brown rice syrup",
     "cane sugar",
@@ -1570,7 +1584,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2024-12"):
+            if not file.startswith("2024-12-30"):
                 continue
 
             # exclude some files
