@@ -55,7 +55,7 @@ tags:
 - lemon juice
 - sweet potato
 - harvest bowl
-Description: I'm a sucker for Sweetgreen, and particularly their Harvest Bowl.  With chopped <a href='/misc/veggies#kale'>kale</a>, <a href='/misc/fruit#apple'>apples</a>, <a href='/misc/dairy#goat-cheese'>goat cheese</a>, <a href='/misc/nuts#almonds'>almonds</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and <a href='/misc/grains#wild-rice'>wild rice</a>, this combination is both nourishing and delicious.  Making at home is sigificantly cheaper though, as each bowl of my homemade versions costs just $3.94, as opposed to paying $13.95 in the restaurant.  That's 3.5 times cheaper!
+Description: I'm a sucker for Sweetgreen, and particularly their Harvest Bowl.  With chopped <a href='/misc/veggies#kale'>kale</a>, <a href='/misc/fruit#apple'>apples</a>, <a href='/misc/dairy#goat-cheese'>goat cheese</a>, <a href='/misc/nuts#almonds'>almonds</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and <a href='/misc/grains#wild-rice'>wild rice</a>, this combination is both nourishing and delicious.  Making at home is sigificantly cheaper though, as each bowl of my homemade versions costs just $3.77, as opposed to paying $13.95 in the restaurant.  That's 3.5 times cheaper!
 Instructions:
 - Add your rice, water, and salt to a medium pot. Cover and bring to a boil over high heat. Reduce heat to medium low, and let simmer until all water is absorbed, about 30 minutes
 
