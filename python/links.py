@@ -772,6 +772,9 @@ LINKS = {
   "protein": "/misc/protein",
   "high protein": "/misc/high-protein",
   "high-protein": "/misc/high-protein",
+  "calorie dense": "/misc/calories",
+  "calorically dense": "/misc/calories",
+  "calorically": "/misc/calories",
   "calories": "/misc/calories",
   "low calories": "/misc/calories",
   "high calories": "/misc/calories",
@@ -1221,6 +1224,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "fat mailman",
+    "coffee brews",
+    "burn fat",
     "don't drink",
     "essential oils",
     "essential oil",
@@ -1694,7 +1700,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2025-02-24"):
+            if not file.startswith("2025-03-07"):
                 continue
 
             # exclude some files
