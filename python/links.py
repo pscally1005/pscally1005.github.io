@@ -1233,6 +1233,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "toxic soup",
     "a drink",
     "to drink",
     "fat mailman",
@@ -1726,7 +1727,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2025-03-11"):
+            if not file.startswith("2025-04-06"):
                 continue
 
             # exclude some files
