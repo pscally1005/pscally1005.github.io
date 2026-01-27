@@ -699,6 +699,7 @@ LINKS = {
   "potassium": "/misc/potassium",
   "sodium": "/misc/sodium",
   "vitamin b12": "/misc/vitamin-b12",
+  "b12": "/misc/vitamin-b12",
   "vitamin c": "/misc/vitamin-c",
   "sugar consumption": "/misc/hidden-sugar",
   "added sugars": "/misc/hidden-sugar",
@@ -1023,6 +1024,8 @@ LINKS = {
   "seafood": "/misc/fish",
   "fruits": "/misc/fruit",
   "fruit": "/misc/fruit",
+  "whole grains": "/misc/grains",
+  "whole grain": "/misc/grains",
   "grains": "/misc/grains",
   "grain": "/misc/grains",
   "meats": "/misc/meat",
@@ -1233,6 +1236,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "chicken or the egg",
     "toxic soup",
     "a drink",
     "to drink",
