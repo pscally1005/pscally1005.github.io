@@ -38,6 +38,8 @@ LINKS = {
   "metabolically unfit": "/misc/metabolic-syndrome",
   "metabolic health issues": "/misc/metabolic-syndrome",
   "metabolic healthy": "/misc/metabolic-syndrome",
+  "poor metabolic health": "/misc/metabolic-syndrome",
+  "metabolic health": "/misc/metabolic-syndrome",
   "prediabetes": "/misc/diabetes",
   "pre-diabetes": "/misc/diabetes",
   "prediabetics": "/misc/diabetes",
@@ -1731,7 +1733,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2025-04-06"):
+            if not file.startswith("2025-06-12"):
                 continue
 
             # exclude some files
