@@ -1090,8 +1090,8 @@ LINKS = {
   "rolls": "/recipes/bread",
   "roll": "/recipes/bread",
   "breakfast": "/recipes/breakfast",
-  "drinks": "/recipes/drink",
-  "drink": "/recipes/drink",
+  "drinks": "/recipes/drinks",
+  "drink": "/recipes/drinks",
   "finger foods": "/recipes/finger-food",
   "finger food": "/recipes/finger-food",
   "ground meat": "/recipes/ground-meat",
@@ -1140,8 +1140,17 @@ LINKS = {
   "sports drink": "/misc/fake-healthy-foods#sports-drinks",
   "energy drinks": "/misc/fake-healthy-foods#energy-drinks",
   "energy drink": "/misc/fake-healthy-foods#energy-drinks",
-  "coffees": "/misc/fake-healthy-foods#coffee",
-  "coffee": "/misc/fake-healthy-foods#coffee",
+  # "coffees": "/misc/fake-healthy-foods#coffee",
+  # "coffee addictions": "/misc/fake-healthy-foods#coffee",
+  # "coffee addiction": "/misc/fake-healthy-foods#coffee",
+  # "coffee addicts": "/misc/fake-healthy-foods#coffee",
+  # "coffee addict": "/misc/fake-healthy-foods#coffee",
+  # "caffeine addictions": "/misc/fake-healthy-foods#coffee",
+  # "caffeine addiction": "/misc/fake-healthy-foods#coffee",
+  # "caffeine addicts": "/misc/fake-healthy-foods#coffee",
+  # "caffeine addict": "/misc/fake-healthy-foods#coffee",
+  # "caffeine": "/misc/fake-healthy-foods#coffee",
+  # "coffee": "/misc/fake-healthy-foods#coffee",
   "iced teas": "/misc/fake-healthy-foods#iced-tea",
   "iced tea": "/misc/fake-healthy-foods#iced-tea",
   "diet sodas": "/misc/fake-healthy-foods#diet-soda",
@@ -1224,6 +1233,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "a drink",
+    "to drink",
     "fat mailman",
     "coffee brews",
     "burn fat",
@@ -1424,6 +1435,7 @@ EXCLUDED_PHRASES = [
     "kidneys",
     "c-reactive protein",
     "kidney stone",
+    "or orange",
 
 ]
 
@@ -1480,6 +1492,20 @@ REMOVE_CATEGORIES = [
     "/brownies",
     "/cookies",
     "/copycat",
+    "/recipes/bread",
+    "/recipes/breakfast",
+    "/recipes/chicken",
+    "/recipes/drinks",
+    "/recipes/finger-food",
+    "/recipes/fish",
+    "/recipes/ground-meat",
+    "/recipes/healthier-dessert",
+    "/recipes/meatless",
+    "/recipes/meme",
+    "/recipes/protein-powder",
+    "/recipes/savory-sauces",
+    "/recipes/sides",
+    "/recipes/sweet-spreads",
 
 ]
 
@@ -1700,7 +1726,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2025-03-07"):
+            if not file.startswith("2025-03-11"):
                 continue
 
             # exclude some files
