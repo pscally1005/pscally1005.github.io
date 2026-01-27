@@ -653,9 +653,9 @@ LINKS = {
   "creatine": "/misc/creatine",
 
   # DISEASES
-  "gluten free": "/misc/gluten",
-  "gluten": "/misc/gluten",
-  "celiac": "/misc/gluten",
+  "gluten free": "/misc/celiac",
+  "gluten": "/misc/celiac",
+  "celiac": "/misc/celiac",
   "metabolic syndrome": "/misc/metabolic-syndrome",
   "type 2 diabetes": "/misc/diabetes",
   "type-2 diabetes": "/misc/diabetes",
@@ -1267,7 +1267,7 @@ def restore_blocks(text, blocks):
 # -------------------------------------------------------------
 # Auto-linker (PURE TEXT, NO PARSING)
 # -------------------------------------------------------------
-def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
+def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None, skip_links_to=None):
 
     exclude_phrases = [p.lower() for p in (exclude_phrases or [])]
 
@@ -1316,13 +1316,22 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None):
         if not url:
             return word
 
-        # excluded phrases
+        # Skip if the match is inside an excluded phrase
         for phrase in exclude_phrases:
             idx = html.lower().find(phrase)
             if idx != -1 and start >= idx and end <= idx + len(phrase):
                 return word
 
+        # Skip if should_skip_linking logic applies
         if should_skip_linking(html, start, end):
+            return word
+
+        print(skip_links_to)
+        print(url)
+        print('\n')
+
+        # **Skip linking if URL matches current page permalink**
+        if skip_links_to and url == skip_links_to:
             return word
 
         return f"<a href='{url}'>{word}</a>"
@@ -1348,6 +1357,12 @@ def process_front_matter(text, links, exclude_phrases=None):
     body = []
 
     current_section = None  # Description / Instructions / Notes
+    current_permalink = None
+
+    for line in lines:
+        if line.startswith("permalink:"):
+            current_permalink = line.split(":", 1)[1].strip()
+            break
 
     for line in lines:
         if line.strip() == "---" and delims < 2:
@@ -1363,7 +1378,12 @@ def process_front_matter(text, links, exclude_phrases=None):
                 current_section = key
 
                 value = remove_existing_links(value, REMOVE_CATEGORIES)
-                value = auto_link_html_safe_single_quotes(value, links, exclude_phrases)
+                value = auto_link_html_safe_single_quotes(
+                    value,
+                    links,
+                    exclude_phrases,
+                    skip_links_to=current_permalink
+                )
 
                 output.append(f"{key}:{value}")
                 continue
@@ -1375,7 +1395,8 @@ def process_front_matter(text, links, exclude_phrases=None):
                 linked = auto_link_html_safe_single_quotes(
                     line,
                     links,
-                    exclude_phrases
+                    exclude_phrases,
+                    skip_links_to=current_permalink
                 )
 
                 output.append(linked)
@@ -1390,7 +1411,12 @@ def process_front_matter(text, links, exclude_phrases=None):
     if body:
         html_body = "".join(body)
         html_body = remove_existing_links(html_body, REMOVE_CATEGORIES)
-        output.append(auto_link_html_safe_single_quotes(html_body, links, exclude_phrases))
+        output.append(auto_link_html_safe_single_quotes(
+            html_body,
+            links,
+            exclude_phrases,
+            skip_links_to=current_permalink
+        ))
 
     return "".join(output)
 
