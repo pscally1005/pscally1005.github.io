@@ -1733,7 +1733,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2025-06-12"):
+            if not file.startswith("2025-12-01"):
                 continue
 
             # exclude some files
