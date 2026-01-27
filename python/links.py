@@ -3,7 +3,7 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\diseases"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\experiments"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
 
 LINKS = {
@@ -1243,6 +1243,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "e.",
+    "i.e.",
+    "you'd",
     "chicken or the egg",
     "toxic soup",
     "a drink",
@@ -1738,7 +1740,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            # if not file.startswith("2025-12-01"):
+            # if not file.startswith("2025-03"):
             #     continue
 
             # exclude some files
