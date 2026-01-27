@@ -35,6 +35,15 @@ LINKS = {
   "gluten": "/misc/celiac",
   "celiac": "/misc/celiac",
   "metabolic syndrome": "/misc/metabolic-syndrome",
+  "metabolically unfit": "/misc/metabolic-syndrome",
+  "metabolic health issues": "/misc/metabolic-syndrome",
+  "metabolic healthy": "/misc/metabolic-syndrome",
+  "prediabetes": "/misc/diabetes",
+  "pre-diabetes": "/misc/diabetes",
+  "prediabetics": "/misc/diabetes",
+  "pre-diabetics": "/misc/diabetes",
+  "prediabetic": "/misc/diabetes",
+  "pre-diabetic": "/misc/diabetes",
   "diabetics": "/misc/diabetes",
   "diabetic": "/misc/diabetes",
   "type-2 diabetics": "/misc/diabetes",
@@ -67,6 +76,7 @@ LINKS = {
   "polycystic ovary syndrome": "/misc/pcos",
   "polycystic ovarian syndrome": "/misc/pcos",
   "insulin resistance": "/misc/insulin-resistance",
+  "insulin resistant": "/misc/insulin-resistance",
   "insulin sensitivity": "/misc/insulin-resistance",
   "insulin sensitive": "/misc/insulin-resistance",
   "insulin": "/misc/insulin-resistance",
@@ -690,6 +700,7 @@ LINKS = {
   "sodium": "/misc/sodium",
   "vitamin b12": "/misc/vitamin-b12",
   "vitamin c": "/misc/vitamin-c",
+  "sugar consumption": "/misc/hidden-sugar",
   "added sugars": "/misc/hidden-sugar",
   "added sugar": "/misc/hidden-sugar",
   "hidden sugars": "/misc/hidden-sugar",
@@ -1103,6 +1114,8 @@ LINKS = {
   "sweet spread": "/recipes/sweet-spreads",
 
   # FAKE HEALTHY FOODS
+  "junk foods": "/misc/fake-healthy-foods",
+  "junk food": "/misc/fake-healthy-foods",
   "sugar alcohols": "/misc/fake-healthy-foods#sugar-substitutes",
   "sugar alcohol": "/misc/fake-healthy-foods#sugar-substitutes",
   "erythritol": "/misc/fake-healthy-foods#sugar-substitutes",
@@ -1681,7 +1694,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2025-02-13"):
+            if not file.startswith("2025-02-24"):
                 continue
 
             # exclude some files
