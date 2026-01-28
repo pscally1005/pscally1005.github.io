@@ -35,6 +35,8 @@ LINKS = {
   "whole wheat bread": "/recipes/ww-bread",
 
   # DISEASES
+  "gluten allergy": "/misc/celiac",
+  "wheat allergy": "/misc/celiac",
   "gluten free": "/misc/celiac",
   "gf": "/misc/celiac",
   "gluten intolerance": "/misc/celiac",
@@ -1546,6 +1548,11 @@ EXCLUDED_PHRASES = [
     "c-reactive protein",
     "kidney stone",
     "or orange",
+    "meat mix",
+    "meat's",
+    "dry side",
+    "wet side",
+    "side-by-side",
 
 ]
 
@@ -1836,7 +1843,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-04-24")):
+            if not file.startswith(("2024-04-26")):
                 continue
 
             # exclude some files
