@@ -33,6 +33,8 @@ LINKS = {
   "whole wheat bread loaves": "/recipes/ww-bread",
   "whole wheat bread loaf": "/recipes/ww-bread",
   "whole wheat bread": "/recipes/ww-bread",
+  "ricotta cheese": "/misc/homemade-cheese#ricotta",
+  "ricotta": "/misc/homemade-cheese#ricotta",
 
   # DISEASES
   "gluten allergy": "/misc/celiac",
@@ -1312,6 +1314,25 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "cheese to make",
+    "brownie batter",
+    "milk flavor",
+    "milk hit",
+    "cheese done",
+    "milk solids",
+    "milk solid",
+    '"cheese"',
+    "making cheese",
+    "cheese somehow",
+    "curds (cheese)",
+    "cheese making",
+    "made cheese",
+    "whey syrup",
+    "cheese curds",
+    "cheese curd",
+    "liquid (whey)",
+    "liquid whey",
+    "acid whey",
     "still side",
     "side with",
     "fiber one brownie",
@@ -1849,7 +1870,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-04-27", "2024-04-24")):
+            if not file.startswith(("2024-07-05")):
                 continue
 
             # exclude some files
