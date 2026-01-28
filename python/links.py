@@ -755,6 +755,7 @@ LINKS = {
   "refined sugar free": "/misc/hidden-sugar",
   "refined sugar": "/misc/hidden-sugar",
   "sugar free": "/misc/hidden-sugar",
+  "sf": "/misc/hidden-sugar",
   "sugar-free": "/misc/hidden-sugar",
   "sugars": "/misc/hidden-sugar",
   "sugar": "/misc/hidden-sugar",
@@ -1311,6 +1312,10 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "still side",
+    "side with",
+    "fiber one brownie",
+    "brownie mix",
     "frankenstein cookie dough",
     "so cookie dough",
     "much flour",
@@ -1843,7 +1848,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-04-26")):
+            if not file.startswith(("2024-04-27"), "2024-04-24"):
                 continue
 
             # exclude some files
