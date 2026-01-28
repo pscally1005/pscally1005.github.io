@@ -1314,6 +1314,15 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "pulp and juice",
+    "fruit syrup",
+    "skins and seeds",
+    "the juice",
+    "squeezed juice",
+    "grape juice",
+    "grape pulp",
+    "grape skins",
+    "grape skin",
     "cheese to make",
     "brownie batter",
     "milk flavor",
@@ -1650,6 +1659,7 @@ REMOVE_CATEGORIES = [
     "/recipes/savory-sauces",
     "/recipes/sides",
     "/recipes/sweet-spreads",
+    "/misc/fake-healthy-foods",
 
 ]
 
@@ -1870,7 +1880,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-07-05")):
+            if not file.startswith(("2024-09-14")):
                 continue
 
             # exclude some files
