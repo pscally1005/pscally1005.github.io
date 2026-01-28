@@ -3,8 +3,8 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\experiments"
-# POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\delete"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\experiments"
+POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\experiments"
 
 LINKS = {
 
@@ -14,6 +14,7 @@ LINKS = {
   "hot sauce": "/recipes/hot-sauce",
   "sugar free syrup": "/recipes/sugar-free-syrup",
   "sugar-free syrup": "/recipes/sugar-free-syrup",
+  "sf syrup": "/recipes/sugar-free-syrup",
   "natural peanut butter": "/recipes/natural-peanut-butter",
   "natural nut butter": "/recipes/natural-peanut-butter",
   "natural seed butter": "/recipes/natural-peanut-butter",
@@ -535,6 +536,8 @@ LINKS = {
   "ground flax seed": "/misc/seeds#flax-seeds",
   "ground flaxseed": "/misc/seeds#flax-seeds",
   "ground flax": "/misc/seeds#flax-seeds",
+  "flaxseed meal": "/misc/seeds#flax-seeds",
+  "flax seed meal": "/misc/seeds#flax-seeds",
   "flax meal": "/misc/seeds#flax-seeds",
   "flaxmeal": "/misc/seeds#flax-seeds",
   "flax seeds": "/misc/seeds#flax-seeds",
