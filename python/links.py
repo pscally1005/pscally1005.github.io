@@ -1316,6 +1316,7 @@ EXCLUDED_PHRASES = [
     "side with",
     "fiber one brownie",
     "brownie mix",
+    "boxed brownies",
     "frankenstein cookie dough",
     "so cookie dough",
     "much flour",
@@ -1848,7 +1849,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-04-27"), "2024-04-24"):
+            if not file.startswith(("2024-04-27", "2024-04-24")):
                 continue
 
             # exclude some files
