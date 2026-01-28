@@ -850,6 +850,7 @@ LINKS = {
   "kitchen scale": "https://amzn.to/45yjx2X",
   "scale": "https://amzn.to/45yjx2X",
   "food processor": "https://amzn.to/4q0AUjI",
+  "hand blender": "https://amzn.to/3VHhgMM",
   "blender": "https://amzn.to/4bO4VQ3",
   "small food processor": "https://amzn.to/3VHhgMM",
   "small food chopper": "https://amzn.to/3VHhgMM",
@@ -1198,8 +1199,13 @@ LINKS = {
   "iced tea": "/misc/fake-healthy-foods#iced-tea",
   "diet sodas": "/misc/fake-healthy-foods#diet-soda",
   "diet soda": "/misc/fake-healthy-foods#diet-soda",
+  "diet coke": "/misc/fake-healthy-foods#diet-soda",
   "sodas": "/misc/fake-healthy-foods#diet-soda",
   "soda": "/misc/fake-healthy-foods#diet-soda",
+  "mini muffins": "/misc/fake-healthy-foods#muffins",
+  "mini-muffins": "/misc/fake-healthy-foods#muffins",
+  "mini muffin": "/misc/fake-healthy-foods#muffins",
+  "mini muffin": "/misc/fake-healthy-foods#muffins",
   "muffins": "/misc/fake-healthy-foods#muffins",
   "muffin": "/misc/fake-healthy-foods#muffins",
   "banana bread": "/misc/fake-healthy-foods#banana-bread",
@@ -1803,7 +1809,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2024-04-11"):
+            if not file.startswith("2024-04-24"):
                 continue
 
             # exclude some files
