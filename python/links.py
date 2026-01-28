@@ -1342,6 +1342,9 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "pumpkin pie",
+    "bean water",
+    "bean skins",
+    "bean skin",
     "lemon essential oils",
     "lemon essential oil",
     "pancakes; see my",
