@@ -1253,10 +1253,15 @@ LINKS = {
   "muffins": "/misc/fake-healthy-foods#muffins",
   "muffin": "/misc/fake-healthy-foods#muffins",
   "banana bread": "/misc/fake-healthy-foods#banana-bread",
-  "pancakes": "/misc/fake-healthy-foods#pancakes",
-  "pancake": "/misc/fake-healthy-foods#pancakes",
-  "waffles": "/misc/fake-healthy-foods#pancakes",
-  "waffle": "/misc/fake-healthy-foods#pancakes",
+  # "waffles and pancakes": "/misc/fake-healthy-foods#pancakes",
+  # "waffles or pancakes": "/misc/fake-healthy-foods#pancakes",
+  # "waffles": "/misc/fake-healthy-foods#pancakes",
+  # "pancakes": "/misc/fake-healthy-foods#pancakes",
+  # "pancake": "/misc/fake-healthy-foods#pancakes",
+  # "waffles": "/misc/fake-healthy-foods#pancakes",
+  # "waffle": "/misc/fake-healthy-foods#pancakes",
+  # "waffles/pancakes": "/misc/fake-healthy-foods#pancakes",
+  # "waffle/pancake": "/misc/fake-healthy-foods#pancakes",
   "inflammatory oils": "/misc/fake-healthy-foods#seed-oil",
   "inflammatory oil": "/misc/fake-healthy-foods#seed-oil",
   "seed oils": "/misc/fake-healthy-foods#seed-oil",
@@ -1327,6 +1332,20 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "with oil",
+    "top side",
+    "bottom side",
+    "top (raw) side",
+    "per side",
+    "heavily oil",
+    "out of the iron",
+    "chocolate chips",
+    "chocolate chip",
+    "later date",
+    "waffle iron",
+    "waffle maker",
+    "cheese waffles",
+    "cheese waffle",
     "cheese cloth",
     "with a knife",
     "pulp and juice",
@@ -1895,7 +1914,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-02-19")):
+            if not file.startswith(("2025-03-09")):
                 continue
 
             # exclude some files
