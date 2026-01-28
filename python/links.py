@@ -15,7 +15,17 @@ LINKS = {
   "sugar free syrup": "/recipes/sugar-free-syrup",
   "sugar-free syrup": "/recipes/sugar-free-syrup",
   "sf syrup": "/recipes/sugar-free-syrup",
+  "homemade peanut butters": "/recipes/natural-peanut-butter",
+  "homemade peanut butter": "/recipes/natural-peanut-butter",
+  "homemade nut butters": "/recipes/natural-peanut-butter",
+  "homemade nut butter": "/recipes/natural-peanut-butter",
+  "homemade seed butters": "/recipes/natural-peanut-butter",
+  "homemade seed butter": "/recipes/natural-peanut-butter",
+  "natural peanut butters": "/recipes/natural-peanut-butter",
   "natural peanut butter": "/recipes/natural-peanut-butter",
+  "real peanut butter": "/recipes/natural-peanut-butter",
+  "natural nut butters": "/recipes/natural-peanut-butter",
+  "natural seed butters": "/recipes/natural-peanut-butter",
   "natural nut butter": "/recipes/natural-peanut-butter",
   "natural seed butter": "/recipes/natural-peanut-butter",
   "nut butters": "/recipes/natural-peanut-butter",
@@ -890,6 +900,7 @@ LINKS = {
   "air fryer": "https://amzn.to/3FuWETp",
   "air fried": "https://amzn.to/3FuWETp",
   "air fry": "https://amzn.to/3FuWETp",
+  "silicone air fryer liner": "https://amzn.to/43AzcfI",
   "air fryer liner": "https://amzn.to/43AzcfI",
   "silicone liner": "https://amzn.to/44T3n3X",
   "silicone baking mat": "https://amzn.to/44T3n3X",
@@ -1165,6 +1176,7 @@ LINKS = {
   "bagel": "/recipes/bread",
   "rolls": "/recipes/bread",
   "roll": "/recipes/bread",
+  "breakfasts": "/recipes/breakfast",
   "breakfast": "/recipes/breakfast",
   "drinks": "/recipes/drinks",
   "drink": "/recipes/drinks",
@@ -1301,6 +1313,7 @@ LINKS = {
   "processed peanut butter": "/misc/fake-healthy-foods#peanut-butter",
   "no-stir peanut butter": "/misc/fake-healthy-foods#peanut-butter",
   "no stir peanut butter": "/misc/fake-healthy-foods#peanut-butter",
+  '"peanut butters"': "/misc/fake-healthy-foods#peanut-butter",
   "grape jelly": "/misc/fake-healthy-foods#jelly",
   "grape jam": "/misc/fake-healthy-foods#jelly",
   "cornbread": "/misc/fake-healthy-foods#cornbread",
@@ -1314,6 +1327,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "with a knife",
     "pulp and juice",
     "fruit syrup",
     "skins and seeds",
@@ -1880,7 +1894,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-09-14")):
+            if not file.startswith(("2025-02-19")):
                 continue
 
             # exclude some files
