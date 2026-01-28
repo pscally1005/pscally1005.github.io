@@ -1327,6 +1327,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "cheese cloth",
     "with a knife",
     "pulp and juice",
     "fruit syrup",
