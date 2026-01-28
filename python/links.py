@@ -1341,6 +1341,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "lemon essential oils",
+    "lemon essential oil",
     "pancakes; see my",
     "waffle; that thing",
     "two ingredient waffles",
@@ -1972,7 +1974,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-03-09")):
+            if not file.startswith(("2025-03-10")):
                 continue
 
             # exclude some files
