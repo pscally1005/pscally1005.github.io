@@ -534,6 +534,23 @@ def grams(food, mass, vol):
         elif vol == "4 scoop":
             m = "120"
 
+    # Nuts
+    elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":
+        if vol == "2 tbsp":
+            m = "15"
+        elif vol == "1/4 cup":
+            m = "30"
+        elif vol == "1/2 cup":
+            m = "60"
+        elif vol == "3/4 cup":
+            m = "90"
+        elif vol == "1 cup":
+            m = "120"
+        elif vol == "1 1/2 cup":
+            m = "180"
+        elif vol == "2 cup":
+            m = "256"
+
 
     # Nut butters
     elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter":
