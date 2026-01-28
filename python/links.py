@@ -3,7 +3,7 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\experiments"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\nutrition"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\experiments"
 
 LINKS = {
@@ -1395,12 +1395,13 @@ EXCLUDED_PHRASES = [
     "savory waffle",
     "sweet waffle",
     "waffles falling",
-    "with oil",
     "top side",
     "bottom side",
     "top (raw) side",
     "per side",
     "heavily oil",
+    "oil between making",
+    "oil for about",
     "out of the iron",
     "chocolate chips",
     "chocolate chip",
@@ -1978,7 +1979,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-04-11")):
+            if not file.startswith(("2024-10-12")):
                 continue
 
             # exclude some files
