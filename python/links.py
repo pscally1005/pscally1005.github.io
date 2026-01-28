@@ -3,8 +3,8 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\experiments"
-POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\experiments"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\experiments"
+# POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\experiments"
 
 LINKS = {
 
@@ -96,6 +96,8 @@ LINKS = {
   "anti inflammatory": "/misc/chronic-inflammation",
   "anti-inflammatory": "/misc/chronic-inflammation",
   "reduce inflammation": "/misc/chronic-inflammation",
+  "antioxidants": "/misc/phytochemicals",
+  "anti-oxidants": "/misc/phytochemicals",
   "antioxidant": "/misc/phytochemicals",
   "anti-oxidant": "/misc/phytochemicals",
   "polyphenols": "/misc/phytochemicals",
@@ -347,6 +349,8 @@ LINKS = {
   "watermelon": "/misc/fruit#watermelon",
   "melons": "/misc/fruit#watermelon",
   "melon": "/misc/fruit#watermelon",
+  "berries": "/misc/fruit#blueberries",
+  "berry": "/misc/fruit#blueberries",
 
   # GRAINS
   "amaranth": "/misc/grains#amaranth",
@@ -746,6 +750,7 @@ LINKS = {
   "hidden sugars": "/misc/hidden-sugar",
   "hidden sugar": "/misc/hidden-sugar",
   "refined sugars": "/misc/hidden-sugar",
+  "refined sugar free": "/misc/hidden-sugar",
   "refined sugar": "/misc/hidden-sugar",
   "sugar free": "/misc/hidden-sugar",
   "sugar-free": "/misc/hidden-sugar",
@@ -788,10 +793,30 @@ LINKS = {
   "heart healthy fats": "/misc/fats",
   "heart healthy fats": "/misc/fats",
   "healthy fats": "/misc/fats",
+  "heart-healthy monounsaturated fats": "/misc/fats",
+  "heart healthy monounsaturated fats": "/misc/fats",
+  "heart-healthy monounsaturated fat": "/misc/fats",
+  "heart healthy monounsaturated fat": "/misc/fats",
+  "heart-healthy mono-unsaturated fats": "/misc/fats",
+  "heart healthy mono-unsaturated fats": "/misc/fats",
+  "heart-healthy mono-unsaturated fat": "/misc/fats",
+  "heart healthy mono-unsaturated fat": "/misc/fats",
+  "heart-healthy mono unsaturated fats": "/misc/fats",
+  "heart healthy mono unsaturated fats": "/misc/fats",
+  "heart-healthy mono unsaturated fat": "/misc/fats",
+  "heart healthy mono unsaturated fat": "/misc/fats",
   "monounsaturated fats": "/misc/fats",
   "monounsaturated fat": "/misc/fats",
+  "mono-unsaturated fats": "/misc/fats",
+  "mono-unsaturated fat": "/misc/fats",
+  "mono unsaturated fats": "/misc/fats",
+  "mono unsaturated fat": "/misc/fats",
   "polyunsaturated fats": "/misc/fats",
   "polyunsaturated fat": "/misc/fats",
+  "poly-unsaturated fats": "/misc/fats",
+  "poly-unsaturated fat": "/misc/fats",
+  "poly unsaturated fats": "/misc/fats",
+  "poly unsaturated fat": "/misc/fats",
   "saturated fats": "/misc/fats",
   "saturated fat": "/misc/fats",
   "trans fats": "/misc/fats",
@@ -951,6 +976,8 @@ LINKS = {
   "cooking spray": "https://amzn.to/3Hdg0gk",
   "oil spray": "https://amzn.to/3Hdg0gk",
   "spray": "https://amzn.to/3Hdg0gk",
+  "lightly grease with oil": "https://amzn.to/3Hdg0gk",
+  "lightly spray with oil": "https://amzn.to/3Hdg0gk",
   "grease with oil": "https://amzn.to/3Hdg0gk",
   "glass containers": "https://amzn.to/4mPZcMW",
   "glass container": "https://amzn.to/4mPZcMW",
@@ -1809,7 +1836,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith("2024-04-24"):
+            if not file.startswith(("2024-04-24")):
                 continue
 
             # exclude some files

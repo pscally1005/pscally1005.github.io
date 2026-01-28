@@ -160,47 +160,47 @@ def vol_from_mass(food, mass, vol):
 
     # Honey
     elif food == "Honey" or food == "Honey, or maple syrup" or food == "Molasses, or honey":
-        if m == "7":
+        if mass == "7":
             v = "1 tsp"
-        elif m == "10.5":
+        elif mass == "10.5":
             v = "1/2 tbsp"
-        elif m == "21":
+        elif mass == "21":
             v = "1 tbsp"
-        elif m == "31.5":
+        elif mass == "31.5":
             v = "1.5 tbsp"
-        elif m == "42":
+        elif mass == "42":
             v = "2 tbsp"
-        elif m == "63":
+        elif mass == "63":
             v = "3 tbsp"
-        elif m == "84":
+        elif mass == "84":
             v = "4 tbsp"
-        elif m == "105":
+        elif mass == "105":
             v = "5 tbsp"
-        elif m == "112":
+        elif mass == "112":
             v = "1/3 cup"
-        elif m == "126":
+        elif mass == "126":
             v = "6 tbsp"
-        elif m == "147":
+        elif mass == "147":
             v = "7 tbsp"
-        elif m == "168":
+        elif mass == "168":
             v = "8 tbsp"
-        elif m == "189":
+        elif mass == "189":
             v = "9 tbsp"
-        elif m == "210":
+        elif mass == "210":
             v = "10 tbsp"
-        elif m == "224":
+        elif mass == "224":
             v = "2/3 cup"
-        elif m == "231":
+        elif mass == "231":
             v = "11 tbsp"
-        elif m == "252":
+        elif mass == "252":
             v = "12 tbsp"
-        elif m == "273":
+        elif mass == "273":
             v = "13 tbsp"
-        elif m == "294":
+        elif mass == "294":
             v = "14 tbsp"
-        elif m == "315":
+        elif mass == "315":
             v = "15 tbsp"
-        elif m == "336":
+        elif mass == "336":
             v = "1 cup"
 
     # Capers
@@ -255,7 +255,7 @@ def vol_from_mass(food, mass, vol):
             v = "2 cup"
 
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract":
         if mass == "1.25":
             v = "1/4 tsp"
         elif mass == "2.5":
