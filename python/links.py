@@ -1318,6 +1318,9 @@ LINKS = {
   "french onin dip": "/misc/fake-healthy-foods#dips",
   "mayo": "/misc/fake-healthy-foods#dips",
   "pasta sauces": "/misc/fake-healthy-foods#sauces",
+  "cocktail sauce": "/misc/fake-healthy-foods#sauces",
+  "pizza sauce": "/misc/fake-healthy-foods#sauces",
+  "tartar sauce": "/misc/fake-healthy-foods#sauces",
   "jarred sauces": "/misc/fake-healthy-foods#sauces",
   "jarred sauce": "/misc/fake-healthy-foods#sauces",
   "storebought pesto": "/misc/fake-healthy-foods#sauces",
@@ -1518,6 +1521,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "red bean paste",
     "barley malt",
     "corn sweetener",
     "cane juice",
@@ -1744,9 +1748,8 @@ EXCLUDED_PHRASES = [
     "corndogs",
     "corndog",
     "fried chicken",
-    "mozzarella sticks",
+    "mozzarella sticks",sa
     "mozzarella stick",
-    "beef jerky",
     "potassium sorbate",
     "potassium chloride",
     "sodium chloride",
