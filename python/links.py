@@ -3,7 +3,7 @@ import re
 from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\nutrition"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\nutrition\food_categories"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
@@ -143,6 +143,15 @@ LINKS = {
   "depression": "/misc/depression",
 
   # FOOD CATEGORIES
+  "Let's Meet The Meats": "/misc/meat",
+  "I'm Nuts For Nuts": "/misc/nuts",
+  "I See Seeds In Your Future": "/misc/seeds",
+  "Beans Beans The Musical Fruit": "/misc/beans",
+  "Going Bananas For Bananas": "/misc/fruit",
+  "Lettuce Turnip The Beet": "/misc/veggies",
+  "I'm Hooked On Fish": "/misc/fish",
+  "A Grain Of Truth": "/misc/grains",
+  "I'm Dying For Dairy": "/misc/dairy",
 
 
   # BEANS
@@ -2260,7 +2269,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-08-17")):
+            if not file.startswith(("2024-11-10")):
                 continue
 
             # exclude some files
