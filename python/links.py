@@ -142,6 +142,9 @@ LINKS = {
   "phyto nutrient": "/misc/phytochemicals",
   "depression": "/misc/depression",
 
+  # FOOD CATEGORIES
+
+
   # BEANS
   "black beans": "/misc/beans#black-beans",
   "black bean": "/misc/beans#black-beans",
@@ -485,6 +488,8 @@ LINKS = {
   "thigh": "/misc/meat#chicken-thighs",
   "egg yolks": "/misc/meat#eggs",
   "egg yolk": "/misc/meat#eggs",
+  "yolks": "/misc/meat#eggs",
+  "yolk": "/misc/meat#eggs",
   "egg": "/misc/meat#eggs",
   "eggs": "/misc/meat#eggs",
   "egg whites": "/misc/meat#egg-whites",
@@ -714,10 +719,18 @@ LINKS = {
   "multivitamin": "/misc/nutrient-alphabet",
   "micronutrients": "/misc/nutrient-alphabet",
   "micronutrient": "/misc/nutrient-alphabet",
+  "macronutrients": "/misc/nutrient-alphabet",
+  "macronutrient": "/misc/nutrient-alphabet",
   "nutrient-dense": "/misc/nutrient-alphabet",
   "nutrient dense": "/misc/nutrient-alphabet",
   "micro nutrients": "/misc/nutrient-alphabet",
   "micro nutrient": "/misc/nutrient-alphabet",
+  "micro-nutrients": "/misc/nutrient-alphabet",
+  "micro-nutrient": "/misc/nutrient-alphabet",
+  "macro nutrients": "/misc/nutrient-alphabet",
+  "macro nutrient": "/misc/nutrient-alphabet",
+  "macro-nutrients": "/misc/nutrient-alphabet",
+  "macro-nutrient": "/misc/nutrient-alphabet",
   "essential nutrients": "/misc/nutrient-alphabet",
   "essential nutrient": "/misc/nutrient-alphabet",
   "essential micronutrients": "/misc/nutrient-alphabet",
@@ -947,8 +960,8 @@ LINKS = {
   "protein": "/misc/protein",
   "complete proteins": "/misc/protein",
   "complete protein": "/misc/protein",
-  "high protein": "/misc/high-protein",
-  "high-protein": "/misc/high-protein",
+  # "high protein": "/misc/high-protein",
+  # "high-protein": "/misc/high-protein",
   "calorie dense": "/misc/calories",
   "calorically dense": "/misc/calories",
   "calorically": "/misc/calories",
@@ -2247,7 +2260,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-06-01")):
+            if not file.startswith(("2025-08-17")):
                 continue
 
             # exclude some files
