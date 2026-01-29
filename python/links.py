@@ -1277,6 +1277,7 @@ LINKS = {
   "protein dessert": "/recipes/protein-powder",
   "savory sauces": "/recipes/savory-sauces",
   "savory sauce": "/recipes/savory-sauces",
+  "sauces": "/recipes/savory-sauces",
   "sides": "/recipes/sides",
   "side dish": "/recipes/sides",
   "side": "/recipes/sides",
@@ -1456,6 +1457,10 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "drink it",
+    "fermented juice",
+    "rice vinegars",
+    "rice vinegar",
     "dairy free",
     "dairy-free",
     "quail eggs",
@@ -2137,7 +2142,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-12-22")):
+            if not file.startswith(("2025-01-14")):
                 continue
 
             # exclude some files
