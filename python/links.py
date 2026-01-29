@@ -1411,6 +1411,8 @@ LINKS = {
   "fruit juice": "/misc/fake-healthy-foods#juice",
   "juice": "/misc/fake-healthy-foods#juice",
   "lemonade": "/misc/fake-healthy-foods#juice",
+  "flavored instant oatmeal": "/misc/fake-healthy-foods#oats",
+  "flavored instant oats": "/misc/fake-healthy-foods#oats",
   "instant oatmeal": "/misc/fake-healthy-foods#oats",
   "instant oats": "/misc/fake-healthy-foods#oats",
   "flavored oatmeal": "/misc/fake-healthy-foods#oats",
@@ -2097,7 +2099,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-12-07")):
+            if not file.startswith(("2024-12-22")):
                 continue
 
             # exclude some files
