@@ -51,6 +51,10 @@ LINKS = {
   "unsweetened bbq sauce": "/recipes/bbq-sauce",
   "sugar-free bbq sauce": "/recipes/bbq-sauce",
   "sugar free bbq sauce": "/recipes/bbq-sauce",
+  "sugar free ketchup": "/recipes/ketchup",
+  "date sweetened ketchup": "/recipes/ketchup",
+  "date-sweetened ketchup": "/recipes/ketchup",
+  "unsweetened ketchup": "/recipes/ketchup",
 
   # DISEASES
   "gluten allergy": "/misc/celiac",
@@ -224,6 +228,7 @@ LINKS = {
   "plain whole milk greek yogurt": "/misc/dairy#yogurt-whole-milk",
   "plain full fat greek yogurt": "/misc/dairy#yogurt-whole-milk",
   "full fat greek yogurt": "/misc/dairy#yogurt-whole-milk",
+  "kefir (milk)": "/misc/dairy#kefir",
   "kefir": "/misc/dairy#kefir",
   "skim milk": "/misc/dairy#skim-milk",
   "milk": "/misc/dairy#skim-milk",
@@ -2236,7 +2241,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-02-03")):
+            if not file.startswith(("2025-03-26")):
                 continue
 
             # exclude some files
