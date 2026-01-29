@@ -121,6 +121,7 @@ LINKS = {
   "anti inflammatory": "/misc/chronic-inflammation",
   "anti-inflammatory": "/misc/chronic-inflammation",
   "reduce inflammation": "/misc/chronic-inflammation",
+  "reducing inflammation": "/misc/chronic-inflammation",
   "antioxidants": "/misc/phytochemicals",
   "anti-oxidants": "/misc/phytochemicals",
   "antioxidant": "/misc/phytochemicals",
@@ -633,6 +634,8 @@ LINKS = {
   "brussel sprout": "/misc/veggies#brussel-sprout",
   "butternut squash noodles": "/misc/veggies#butternut-squash",
   "butternut squash": "/misc/veggies#butternut-squash",
+  "orange vegetables": "/misc/veggies#butternut-squash",
+  "orange vegetable": "/misc/veggies#butternut-squash",
   "squash": "/misc/veggies#butternut-squash",
   "shredded cabbage": "/misc/veggies#cabbage",
   "cabbage": "/misc/veggies#cabbage",
@@ -1280,6 +1283,7 @@ LINKS = {
   "healthier dessert": "/recipes/healthier-dessert",
   "healthy desserts": "/recipes/healthier-dessert",
   "healthy dessert": "/recipes/healthier-dessert",
+  "baking": "/recipes/healthier-dessert",
   "desserts": "/recipes/healthier-dessert",
   "dessert": "/recipes/healthier-dessert",
   "meatless": "/recipes/meatless",
@@ -1332,7 +1336,7 @@ LINKS = {
   "alfredo": "/misc/fake-healthy-foods#sauces",
   "ketchup": "/misc/fake-healthy-foods#dips",
   "bbq sauce": "/misc/fake-healthy-foods#dips",
-  "dark chocolate": "/misc/fake-healthy-foods#chocolate",
+  # "dark chocolate": "/misc/fake-healthy-foods#chocolate",
   "sugar alcohols": "/misc/fake-healthy-foods#sugar-substitutes",
   "sugar alcohol": "/misc/fake-healthy-foods#sugar-substitutes",
   "erythritol": "/misc/fake-healthy-foods#sugar-substitutes",
@@ -1526,6 +1530,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "opposite side",
+    "sense of scale",
     "red bean paste",
     "barley malt",
     "corn sweetener",
@@ -2241,7 +2247,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-03-26")):
+            if not file.startswith(("2025-06-01")):
                 continue
 
             # exclude some files
