@@ -2043,7 +2043,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-10-12")):
+            if not file.startswith(("2024-12-07")):
                 continue
 
             # exclude some files
