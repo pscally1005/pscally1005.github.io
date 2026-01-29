@@ -623,6 +623,7 @@ LINKS = {
   "brussel sprout": "/misc/veggies#brussel-sprout",
   "butternut squash noodles": "/misc/veggies#butternut-squash",
   "butternut squash": "/misc/veggies#butternut-squash",
+  "squash": "/misc/veggies#butternut-squash",
   "shredded cabbage": "/misc/veggies#cabbage",
   "cabbage": "/misc/veggies#cabbage",
   "baby carrots": "/misc/veggies#carrots",
@@ -795,6 +796,9 @@ LINKS = {
   "high fiber": "/misc/fiber",
   "high-fiber": "/misc/fiber",
   "fiber": "/misc/fiber",
+  "dietary fiber": "/misc/fiber",
+  "soluble fiber": "/misc/fiber",
+  "insoluble fiber": "/misc/fiber",
   "I Run on Iron": "/misc/iron",
   "iron": "/misc/iron",
   "heme iron": "/misc/iron",
@@ -1457,6 +1461,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "drink a glass",
     "drink it",
     "fermented juice",
     "rice vinegars",
@@ -2142,7 +2147,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-01-14")):
+            if not file.startswith(("2025-01-24")):
                 continue
 
             # exclude some files
