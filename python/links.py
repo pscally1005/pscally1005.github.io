@@ -1748,7 +1748,7 @@ EXCLUDED_PHRASES = [
     "corndogs",
     "corndog",
     "fried chicken",
-    "mozzarella sticks",sa
+    "mozzarella sticks",
     "mozzarella stick",
     "potassium sorbate",
     "potassium chloride",
