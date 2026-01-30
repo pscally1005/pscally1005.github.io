@@ -764,6 +764,10 @@ LINKS = {
   "b6": "/misc/nutrient-alphabet#B",
   "b vitamins": "/misc/nutrient-alphabet#B",
   "pyridoxine": "/misc/nutrient-alphabet#B",
+  "vitamin b6 (pyridoxine)": "/misc/nutrient-alphabet#B",
+  "b6 (pyridoxine)": "/misc/nutrient-alphabet#B",
+  "pyridoxine (vitamin b6)": "/misc/nutrient-alphabet#B",
+  "pyridoxine (b6)": "/misc/nutrient-alphabet#B",
   "copper": "/misc/nutrient-alphabet#C",
   "vitamin d": "/misc/nutrient-alphabet#D",
   "d": "/misc/nutrient-alphabet#D",
@@ -771,6 +775,10 @@ LINKS = {
   "e": "/misc/nutrient-alphabet#E",
   "folate": "/misc/nutrient-alphabet#F",
   "vitamin b9": "/misc/nutrient-alphabet#F",
+  "vitamin b9 (folate)": "/misc/nutrient-alphabet#F",
+  "b9 (folate)": "/misc/nutrient-alphabet#F",
+  "folate (vitamin b9)": "/misc/nutrient-alphabet#F",
+  "folate (b9)": "/misc/nutrient-alphabet#F",
   "b9": "/misc/nutrient-alphabet#F",
   "iodine": "/misc/nutrient-alphabet#I",
   "vitamin k": "/misc/nutrient-alphabet#K",
@@ -780,6 +788,10 @@ LINKS = {
   "niacin": "/misc/nutrient-alphabet#N",
   "vitamin b3": "/misc/nutrient-alphabet#N",
   "b3": "/misc/nutrient-alphabet#N",
+  "vitamin b3 (niacin)": "/misc/nutrient-alphabet#N",
+  "b3 (niacin)": "/misc/nutrient-alphabet#N",
+  "niacin (vitamin b3)": "/misc/nutrient-alphabet#N",
+  "niacin (b3)": "/misc/nutrient-alphabet#N",
   "omega-3 fish oils": "/misc/nutrient-alphabet#O",
   "omega 3 fish oils": "/misc/nutrient-alphabet#O",
   "omega-3 fish oil": "/misc/nutrient-alphabet#O",
@@ -814,11 +826,23 @@ LINKS = {
   "DHA": "/misc/nutrient-alphabet#O",
   "ALA": "/misc/nutrient-alphabet#O",
   "vitamin b5": "/misc/nutrient-alphabet#P",
+  "vitamin b5 (pantothenic acid)": "/misc/nutrient-alphabet#P",
+  "b5 (pantothenic acid)": "/misc/nutrient-alphabet#P",
+  "pantothenic acid (vitamin b5)": "/misc/nutrient-alphabet#P",
+  "pantothenic acid (b5)": "/misc/nutrient-alphabet#P",
   "pantothenic acid": "/misc/nutrient-alphabet#P",
+  "vitamin b2 (riboflavin)": "/misc/nutrient-alphabet#R",
+  "b2 (riboflavin)": "/misc/nutrient-alphabet#R",
+  "riboflavin (b2)": "/misc/nutrient-alphabet#R",
+  "riboflavin (vitamin b2)": "/misc/nutrient-alphabet#R",
   "vitamin b2": "/misc/nutrient-alphabet#R",
   "b2": "/misc/nutrient-alphabet#R",
   "riboflavin": "/misc/nutrient-alphabet#R",
   "selenium": "/misc/nutrient-alphabet#S",
+  "vitamin b1 (thiamin)": "/misc/nutrient-alphabet#T",
+  "thiamin (vitamin b1)": "/misc/nutrient-alphabet#T",
+  "thiamin (b1)": "/misc/nutrient-alphabet#T",
+  "b1 (thiamin)": "/misc/nutrient-alphabet#T",
   "vitamin b1": "/misc/nutrient-alphabet#T",
   "b1": "/misc/nutrient-alphabet#T",
   "thiamin": "/misc/nutrient-alphabet#T",
@@ -847,7 +871,12 @@ LINKS = {
   "potassium": "/misc/potassium",
   "sodium": "/misc/sodium",
   "vitamin b12": "/misc/vitamin-b12",
+  "vitamin b12 (cobalamin)": "/misc/vitamin-b12",
+  "b12 (cobalamin)": "/misc/vitamin-b12",
+  "cobalamin (vitamin b12)": "/misc/vitamin-b12",
+  "cobalamin (b12)": "/misc/vitamin-b12",
   "b12": "/misc/vitamin-b12",
+  "cobalamin": "/misc/vitamin-b12",
   "vitamin c": "/misc/vitamin-c",
   "c": "/misc/vitamin-c",
   "high sugar": "/misc/hidden-sugar",
@@ -1186,6 +1215,7 @@ LINKS = {
   "large crockpot": "https://amzn.to/49TUS9E",
   "large crock pot": "https://amzn.to/49TUS9E",
   "slow cooker": "https://amzn.to/49TUS9E",
+  "slow cooked": "https://amzn.to/49TUS9E",
   "slowcooker": "https://amzn.to/49TUS9E",
   "crockpot": "https://amzn.to/49TUS9E",
   "crock pot": "https://amzn.to/49TUS9E",
@@ -1463,6 +1493,8 @@ LINKS = {
   "deli meat": "/misc/fake-healthy-foods#processed-meats",
   "sandwich meats": "/misc/fake-healthy-foods#processed-meats",
   "sandwich meat": "/misc/fake-healthy-foods#processed-meats",
+  "lunch meats": "/misc/fake-healthy-foods#processed-meats",
+  "lunch meat": "/misc/fake-healthy-foods#processed-meats",
   "cold cuts": "/misc/fake-healthy-foods#processed-meats",
   "cold cut": "/misc/fake-healthy-foods#processed-meats",
   "flavored yogurts": "/misc/fake-healthy-foods#yogurt",
@@ -1552,6 +1584,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "minimally processed meats",
     "opposite side",
     "sense of scale",
     "red bean paste",
@@ -2113,7 +2146,7 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None, skip_li
     # Protect regions that must NEVER be touched
     # ---------------------------------------------------------
     PROTECTED_PATTERNS = [
-        r"{%.*?%}",                       # Liquid
+        # r"{%.*?%}",                       # Liquid
         r"<a\b[^>]*>.*?</a>",             # Existing links
         r"<script\b[^>]*>.*?</script>",
         r"<style\b[^>]*>.*?</style>",
@@ -2132,13 +2165,14 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None, skip_li
     html, protected_blocks = protect_blocks(html, PROTECTED_PATTERNS)
 
     # ---------------------------------------------------------
-    # Prepare longest-first regex
+    # Prepare longest-first regex (no \b boundaries)
     # ---------------------------------------------------------
     keys = sorted(links.keys(), key=len, reverse=True)
     links_lower = {k.lower(): v for k, v in links.items()}
 
+    # Use negative lookarounds instead of \b to handle parentheses, commas, etc.
     pattern = re.compile(
-        r"\b(" + "|".join(map(re.escape, keys)) + r")\b",
+        r"(?<!\w)(" + "|".join(map(re.escape, keys)) + r")(?!\w)",
         re.IGNORECASE
     )
 
@@ -2165,7 +2199,8 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None, skip_li
             return word
 
         # **Skip linking if URL matches current page permalink**
-        if skip_links_to and url == skip_links_to:
+        # if skip_links_to and url == skip_links_to:
+        if skip_links_to and url.startswith(skip_links_to):
             return word
 
         return f"<a href='{url}'>{word}</a>"
