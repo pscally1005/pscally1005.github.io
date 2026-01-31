@@ -29,6 +29,7 @@ LINKS = {
   "natural nut butters": "/recipes/natural-peanut-butter",
   "natural seed butters": "/recipes/natural-peanut-butter",
   "natural nut butter": "/recipes/natural-peanut-butter",
+  "homemade tahini": "/recipes/natural-peanut-butter",
   "natural seed butter": "/recipes/natural-peanut-butter",
   "nut butters": "/recipes/natural-peanut-butter",
   "seed butters": "/recipes/natural-peanut-butter",
@@ -974,6 +975,7 @@ LINKS = {
   "starch": "/misc/carbs",
   "Fat: The Innocent Criminal?": "/misc/fats",
   "Protein: The Essential Building Blocks": "/misc/protein",
+  "Fiber: Happiness is a Good Poop": "/misc/fiber",
   "Carbs: The Devil in Disguise?": "/misc/fats",
   "hydrogenated fats": "/misc/fats",
   "hydrogenated fat": "/misc/fats",
@@ -1015,8 +1017,8 @@ LINKS = {
   "saturated fats": "/misc/fats",
   "saturated fat": "/misc/fats",
   "saturated": "/misc/fats",
-  "usaturated fats": "/misc/fats",
-  "usaturated fat": "/misc/fats",
+  "unsatured fats": "/misc/fats",
+  "unsatured fat": "/misc/fats",
   "unsaturated": "/misc/fats",
   "trans fats": "/misc/fats",
   "trans fat": "/misc/fats",
@@ -1343,6 +1345,7 @@ LINKS = {
   "oatmeal recipes": "/oatmeal",
   "oatmeal": "/oatmeal",
   "overnight oats": "/oatmeal",
+  "overnight oat": "/oatmeal",
   "yogurt recipes": "/yogurt",
   "morning yogurt": "/yogurt",
   "yogurt bowl": "/yogurt",
@@ -1616,8 +1619,8 @@ LINKS = {
   '"peanut butters"': "/misc/fake-healthy-foods#peanut-butter",
   "grape jelly": "/misc/fake-healthy-foods#jelly",
   "grape jam": "/misc/fake-healthy-foods#jelly",
-  "jelly": "/misc/fake-healthy-foods#jelly",
-  "jam": "/misc/fake-healthy-foods#jelly",
+  # "jelly": "/misc/fake-healthy-foods#jelly",
+  # "jam": "/misc/fake-healthy-foods#jelly",
   "cornbread": "/misc/fake-healthy-foods#cornbread",
   "french fries": "/misc/fake-healthy-foods#potatoes",
   "french fry": "/misc/fake-healthy-foods#potatoes",
@@ -1673,6 +1676,10 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "baking powder",
+    "baking soda",
+    "butter-able",
+    "non-butter-able",
     "caprese salad",
     "side note",
     "milk drink",
@@ -2407,7 +2414,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-06-28")):
+            if not file.startswith(("2025-07-08")):
                 continue
 
             # exclude some files
