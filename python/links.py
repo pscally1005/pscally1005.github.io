@@ -192,6 +192,7 @@ LINKS = {
   "lima": "/misc/beans#lima-beans",
   "lupini beans": "/misc/beans#lupini-beans",
   "lupini bean": "/misc/beans#lupini-beans",
+  "lupinis": "/misc/beans#lupini-beans",
   "lupini": "/misc/beans#lupini-beans",
   "navy beans": "/misc/beans#navy-beans",
   "navy bean": "/misc/beans#navy-beans",
@@ -891,6 +892,8 @@ LINKS = {
   "glazes": "/misc/hidden-sugar",
   "glaze": "/misc/hidden-sugar",
   "sugary": "/misc/hidden-sugar",
+  "sugar-filled": "/misc/hidden-sugar",
+  "sugar filled": "/misc/hidden-sugar",
   "high sugar": "/misc/hidden-sugar",
   "low sugar": "/misc/hidden-sugar",
   "sugar consumption": "/misc/hidden-sugar",
@@ -1238,6 +1241,7 @@ LINKS = {
   "chocolate mold": "https://amzn.to/4qZKHI9",
 
   # MISC
+  "processed stuff": "/misc/processed-foods",
   "processed foods": "/misc/processed-foods",
   "processed food": "/misc/processed-foods",
   "highly processed": "/misc/processed-foods",
@@ -1289,8 +1293,13 @@ LINKS = {
   "greens": "/misc/veggies",
 
   # FOOD SECTIONS
+  "hummuses": "/hummus",
   "hummus recipes": "/hummus",
   "hummus": "/hummus",
+  "hummus-like recipes": "/hummus",
+  "hummus-like recipe": "/hummus",
+  "hummus-like": "/hummus",
+  "hummus like": "/hummus",
   "oatmeal recipes": "/oatmeal",
   "oatmeal": "/oatmeal",
   "overnight oats": "/oatmeal",
@@ -1491,6 +1500,12 @@ LINKS = {
   "soybean oil": "/misc/fake-healthy-foods#seed-oil",
   "palm oil": "/misc/fake-healthy-foods#seed-oil",
   "sunflower oil": "/misc/fake-healthy-foods#seed-oil",
+  "pre-prepared processed meals": "/misc/fake-healthy-foods#frozen-meals",
+  "pre-prepared processed meal": "/misc/fake-healthy-foods#frozen-meals",
+  "prepared processed meals": "/misc/fake-healthy-foods#frozen-meals",
+  "prepared processed meal": "/misc/fake-healthy-foods#frozen-meals",
+  "processed meals": "/misc/fake-healthy-foods#frozen-meals",
+  "processed meal": "/misc/fake-healthy-foods#frozen-meals",
   "frozen meals": "/misc/fake-healthy-foods#frozen-meals",
   "frozen meal": "/misc/fake-healthy-foods#frozen-meals",
   "pre-prepared meals": "/misc/fake-healthy-foods#frozen-meals",
@@ -1570,6 +1585,9 @@ LINKS = {
   "flavored oatmeal": "/misc/fake-healthy-foods#oats",
   "flavored oats": "/misc/fake-healthy-foods#oats",
   "canned baked beans": "/misc/fake-healthy-foods#baked-beans",
+  "pre-prepared baked beans": "/misc/fake-healthy-foods#baked-beans",
+  "preprepared beans": "/misc/fake-healthy-foods#baked-beans",
+  "prepared baked beans": "/misc/fake-healthy-foods#baked-beans",
   "baked beans": "/misc/fake-healthy-foods#baked-beans",
   "canned refried beans": "/misc/beans#refried-beans",
   "refried beans": "/misc/beans#refried-beans",
@@ -1599,6 +1617,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "butter beans",
+    "butter bean",
     "poor man protein",
     "'breakfast'",
     "'breakfast",
@@ -1887,6 +1907,8 @@ EXCLUDED_PHRASES = [
     "mango pepper",
     "cut side",
     "the side",
+    "flip side",
+    "sleep on",
     "first side",
     "other side",
     "side down",
@@ -2325,7 +2347,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-02-06")):
+            if not file.startswith(("2025-04-13")):
                 continue
 
             # exclude some files
