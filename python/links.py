@@ -34,6 +34,7 @@ LINKS = {
   "seed butters": "/recipes/natural-peanut-butter",
   "nut butter": "/recipes/natural-peanut-butter",
   "seed butter": "/recipes/natural-peanut-butter",
+  "'nut' butter": "/recipes/natural-peanut-butter",
   "sugar free chocolate chips": "/recipes/monkfruit-chocolate-chunks",
   "sugar free chocolate": "/recipes/monkfruit-chocolate-chunks",
   "pumpkin puree": "/recipes/pumpkin-puree",
@@ -728,10 +729,13 @@ LINKS = {
   "multivitamin": "/misc/nutrient-alphabet",
   "micronutrients": "/misc/nutrient-alphabet",
   "micronutrient": "/misc/nutrient-alphabet",
+  "micronutritionally": "/misc/nutrient-alphabet",
   "macronutrients": "/misc/nutrient-alphabet",
   "macronutrient": "/misc/nutrient-alphabet",
   "nutrient-dense": "/misc/nutrient-alphabet",
   "nutrient dense": "/misc/nutrient-alphabet",
+  "nutrient rich": "/misc/nutrient-alphabet",
+  "nutrient-rich": "/misc/nutrient-alphabet",
   "micro nutrients": "/misc/nutrient-alphabet",
   "micro nutrient": "/misc/nutrient-alphabet",
   "micro-nutrients": "/misc/nutrient-alphabet",
@@ -1485,6 +1489,7 @@ LINKS = {
   "grapeseed oil": "/misc/fake-healthy-foods#seed-oil",
   "safflower oil": "/misc/fake-healthy-foods#seed-oil",
   "soybean oil": "/misc/fake-healthy-foods#seed-oil",
+  "palm oil": "/misc/fake-healthy-foods#seed-oil",
   "sunflower oil": "/misc/fake-healthy-foods#seed-oil",
   "frozen meals": "/misc/fake-healthy-foods#frozen-meals",
   "frozen meal": "/misc/fake-healthy-foods#frozen-meals",
@@ -1594,6 +1599,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "poor man protein",
     "'breakfast'",
     "'breakfast",
     "beakfast'",
@@ -2319,7 +2325,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-11-10")):
+            if not file.startswith(("2025-02-06")):
                 continue
 
             # exclude some files
