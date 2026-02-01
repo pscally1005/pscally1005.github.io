@@ -62,6 +62,7 @@ LINKS = {
   "gluten allergy": "/misc/celiac",
   "wheat allergy": "/misc/celiac",
   "gluten free": "/misc/celiac",
+  "gluten-free": "/misc/celiac",
   "gf": "/misc/celiac",
   "gluten intolerance": "/misc/celiac",
   "gluten sensitivity": "/misc/celiac",
@@ -124,18 +125,54 @@ LINKS = {
   "anti-inflammatory": "/misc/chronic-inflammation",
   "reduce inflammation": "/misc/chronic-inflammation",
   "reducing inflammation": "/misc/chronic-inflammation",
-  "anti-oxidant resveratrol": "/misc/phytochemicals",
+  "antioxidants kaempferol": "/misc/phytochemicals",
+  "antioxidant kaempferol": "/misc/phytochemicals",
+  "antioxidantsrutin": "/misc/phytochemicals",
+  "antioxidant rutin": "/misc/phytochemicals",
+  "rutin": "/misc/phytochemicals",
+  "antioxidants quercetin": "/misc/phytochemicals",
+  "antioxidant quercetin": "/misc/phytochemicals",
+  "quercetin": "/misc/phytochemicals",
+  "antioxidants avenathramides": "/misc/phytochemicals",
+  "antioxidant avenathramides": "/misc/phytochemicals",
+  "avenathramides": "/misc/phytochemicals",
+  "avenathramide": "/misc/phytochemicals",
+  "antioxidants lutein and zeaxanthin": "/misc/phytochemicals",
+  "antioxidant lutein and zeaxanthin": "/misc/phytochemicals",
+  "lutein and zeaxanthin": "/misc/phytochemicals",
+  "antioxidants lutein": "/misc/phytochemicals",
+  "antioxidants zeaxanthin": "/misc/phytochemicals",
+  "antioxidant lutein": "/misc/phytochemicals",
+  "antioxidant zeaxanthin": "/misc/phytochemicals",
+  "lutein": "/misc/phytochemicals",
+  "zeaxanthin": "/misc/phytochemicals",
+  "antioxidants resveratrol": "/misc/phytochemicals",
   "antioxidant resveratrol": "/misc/phytochemicals",
-  "anti oxidant resveratrol": "/misc/phytochemicals",
   "resveratrol": "/misc/phytochemicals",
+  "antioxidants carotenoids": "/misc/phytochemicals",
+  "antioxidant carotenoids": "/misc/phytochemicals",
+  "antioxidants carotenoid": "/misc/phytochemicals",
+  "antioxidant carotenoid": "/misc/phytochemicals",
   "carotenoids": "/misc/phytochemicals",
   "carotenoid": "/misc/phytochemicals",
   "flavonoids": "/misc/phytochemicals",
   "flavonoid": "/misc/phytochemicals",
+  "antioxidants punicalagins": "/misc/phytochemicals",
+  "antioxidant punicalagins": "/misc/phytochemicals",
+  "antioxidants punicalagin": "/misc/phytochemicals",
+  "antioxidant punicalagin": "/misc/phytochemicals",
   "punicalagins": "/misc/phytochemicals",
   "punicalagin": "/misc/phytochemicals",
+  "antioxidants proanthocyanidins": "/misc/phytochemicals",
+  "antioxidant proanthocyanidins": "/misc/phytochemicals",
+  "antioxidants proanthocyanidin": "/misc/phytochemicals",
+  "antioxidants proanthocyanidin": "/misc/phytochemicals",
   "proanthocyanidins": "/misc/phytochemicals",
   "proanthocyanidin": "/misc/phytochemicals",
+  "antioxidants anthocyanins": "/misc/phytochemicals",
+  "antioxidant anthocyanins": "/misc/phytochemicals",
+  "antioxidants anthocyanin": "/misc/phytochemicals",
+  "antioxidant anthocyanin": "/misc/phytochemicals",
   "anthocyanins": "/misc/phytochemicals",
   "anthocyanin": "/misc/phytochemicals",
   "antioxidants": "/misc/phytochemicals",
@@ -1033,6 +1070,7 @@ LINKS = {
   "starches": "/misc/carbs",
   "starch": "/misc/carbs",
   "Fat: The Innocent Criminal?": "/misc/fats",
+  "protein quality": "/misc/protein-source",
   "Protein: The Essential Building Blocks": "/misc/protein",
   "Fiber: Happiness is a Good Poop": "/misc/fiber",
   "Carbs: The Devil in Disguise?": "/misc/fats",
@@ -1417,6 +1455,7 @@ LINKS = {
   "pesto recipes": "/pesto",
   "pesto": "/pesto",
   "soup and stew recipes": "/soup-stew",
+  "soups, stews": "/soup-stew",
   "soups and stews": "/soup-stew",
   "soup and stew": "/soup-stew",
   "soup recipes": "/soup-stew",
@@ -1486,7 +1525,9 @@ LINKS = {
   "savory sauces": "/recipes/savory-sauces",
   "savory sauce": "/recipes/savory-sauces",
   "sauces": "/recipes/savory-sauces",
+  "sauce": "/recipes/savory-sauces",
   "sides": "/recipes/sides",
+  "side dishes": "/recipes/sides",
   "side dish": "/recipes/sides",
   "side": "/recipes/sides",
   "sweet spreads": "/recipes/sweet-spreads",
@@ -1753,6 +1794,10 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "cake flour",
+    "bread flour",
+    "D-Chiro-Inositol",
+    "whatever starch",
     "these seeds",
     "redish/purplish juice",
     "unsweetened dried fruits",
@@ -2498,11 +2543,11 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-07-22")):
+            if not file.startswith(("2025-09-22")):
                 continue
 
             # exclude some files
-            # if file.startswith("2025-11-03-cheese") or file.startswith("2024-04-01-fish-chips") or file.startswith("2024-08-23-kitchen") or file.startswith("2025-03-12-tips"):
+            # if file.startswith("2025-11-03-cheese"):
             #     continue
 
             path = os.path.join(root, file)
