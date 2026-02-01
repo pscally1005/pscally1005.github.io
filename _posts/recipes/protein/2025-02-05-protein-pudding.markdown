@@ -49,7 +49,7 @@ tags:
 - peanut butter
 - crushed walnuts
 - vanilla extract
-Description: This extra lean pudding packs over 30 g of <a href='/misc/protein'>protein</a> in less than 200 <a href='/misc/calories'>calories</a>, with no <a href='/misc/hidden-sugar'>added sugar</a>. It's dead simple to put together, and is very low in <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a>; just pure <a href='/misc/protein'>protein</a>! <a href='/misc/carbs'>Carbs</a> and <a href='/misc/fats'>fats</a> aren't inherently bad by any means, but it's best to get your <a href='/misc/protein'>protein</a> first and foremost, and add any <a href='/misc/fats'>fat</a> (<a href='/misc/nuts#peanuts'>peanut</a> butter) or <a href='/misc/carbs'>carbs</a> (mashed <a href='/misc/fruit#banana'>banana</a>) if you desire
+Description: This extra <a href='/misc/fats'>lean</a> pudding packs over 30 g of <a href='/misc/protein'>protein</a> in less than 200 <a href='/misc/calories'>calories</a>, with no <a href='/misc/hidden-sugar'>added sugar</a>. It's dead simple to put together, and is very low in <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a>; just pure <a href='/misc/protein'>protein</a>! <a href='/misc/carbs'>Carbs</a> and <a href='/misc/fats'>fats</a> aren't inherently bad by any means, but it's best to get your <a href='/misc/protein'>protein</a> first and foremost, and add any <a href='/misc/fats'>fat</a> (<a href='/misc/nuts#peanuts'>peanut</a> butter) or <a href='/misc/carbs'>carbs</a> (mashed <a href='/misc/fruit#banana'>banana</a>) if you desire
 Instructions:
 - In a small bowl, mix together yogurt, protein powder, cocoa powder, vanilla extract, and sweetener until fully combined
 Notes:

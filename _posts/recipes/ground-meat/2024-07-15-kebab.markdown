@@ -56,7 +56,7 @@ tags:
 - cloves
 - oregano
 - dill
-Description: These simple kebabs are made with <a href='/misc/meat#ground-turkey'>ground turkey</a> (either <a href='/misc/meat#ground-beef'>beef</a> or <a href='/misc/meat#lamb'>lamb</a> will work as well), and they can be cooked inside on a pan or grilled outdoors. The simple combination of lean <a href='/misc/meat'>meats</a> and spices makes this a super quick and delicious summer main that pairs well with some <a href='/recipes/salmon-and-tzatziki'>tzatziki</a>. Nutrition facts are for a serving size of 2 skewers/patties
+Description: These simple kebabs are made with <a href='/misc/meat#ground-turkey'>ground turkey</a> (either <a href='/misc/meat#ground-beef'>beef</a> or <a href='/misc/meat#lamb'>lamb</a> will work as well), and they can be cooked inside on a pan or grilled outdoors. The simple combination of <a href='/misc/fats'>lean</a> <a href='/misc/meat'>meats</a> and spices makes this a super quick and delicious summer main that pairs well with some <a href='/recipes/salmon-and-tzatziki'>tzatziki</a>. Nutrition facts are for a serving size of 2 skewers/patties
 Instructions:
 - In a small bowl, whisk together the spices - garlic powder, onion powder, allspice, black pepper, turmeric, oregano, cinnamon, nutmeg, salt, and cloves
 
