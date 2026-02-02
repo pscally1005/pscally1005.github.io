@@ -1000,6 +1000,15 @@ LINKS = {
   "ALA omega 3 fatty acids": "/misc/nutrient-alphabet#O",
   "ALA omega-3 fatty acid": "/misc/nutrient-alphabet#O",
   "ALA omega 3 fatty acid": "/misc/nutrient-alphabet#O",
+  "alpha-linolenic acid": "/misc/nutrient-alphabet#O",
+  "docosahexaenoic acid": "/misc/nutrient-alphabet#O",
+  "eicosapentaenoic acid": "/misc/nutrient-alphabet#O",
+  "ALA (alpha-linolenic acid)": "/misc/nutrient-alphabet#O",
+  "DHA (docosahexaenoic acid)": "/misc/nutrient-alphabet#O",
+  "EPA (eicosapentaenoic acid)": "/misc/nutrient-alphabet#O",
+  "alpha-linolenic acid (ALA)": "/misc/nutrient-alphabet#O",
+  "docosahexaenoic acid (DHA)": "/misc/nutrient-alphabet#O",
+  "eicosapentaenoic acid (EPA)": "/misc/nutrient-alphabet#O",
   "EPA": "/misc/nutrient-alphabet#O",
   "DHA": "/misc/nutrient-alphabet#O",
   "ALA": "/misc/nutrient-alphabet#O",
@@ -1756,6 +1765,8 @@ LINKS = {
   "waffles/pancakes": "/misc/fake-healthy-foods#pancakes",
   "waffle/pancake": "/misc/fake-healthy-foods#pancakes",
   "inflammatory oils": "/misc/fake-healthy-foods#seed-oil",
+  "peanut oil": "/misc/fake-healthy-foods#seed-oil",
+  "rice bran oil": "/misc/fake-healthy-foods#seed-oil",
   "inflammatory oil": "/misc/fake-healthy-foods#seed-oil",
   "refined seed oils": "/misc/fake-healthy-foods#seed-oil",
   "refined seed oil": "/misc/fake-healthy-foods#seed-oil",
@@ -1764,6 +1775,8 @@ LINKS = {
   "canola oil": "/misc/fake-healthy-foods#seed-oil",
   "corn oil": "/misc/fake-healthy-foods#seed-oil",
   "cottonseed oil": "/misc/fake-healthy-foods#seed-oil",
+  "vegetable/seed oils": "/misc/fake-healthy-foods#seed-oil",
+  "vegetable/seed oil": "/misc/fake-healthy-foods#seed-oil",
   "grapeseed oil": "/misc/fake-healthy-foods#seed-oil",
   "safflower oil": "/misc/fake-healthy-foods#seed-oil",
   "soybean oil": "/misc/fake-healthy-foods#seed-oil",
@@ -1810,8 +1823,12 @@ LINKS = {
   "graham cracker": "/misc/fake-healthy-foods#crackers",
   "crackers": "/misc/fake-healthy-foods#crackers",
   "cracker": "/misc/fake-healthy-foods#crackers",
+  "tortilla chips": "/misc/fake-healthy-foods#chips",
+  "tortilla chip": "/misc/fake-healthy-foods#chips",
   "potato chips": "/misc/fake-healthy-foods#chips",
   "potato chip": "/misc/fake-healthy-foods#chips",
+  "veggie straws": "/misc/fake-healthy-foods#chips",
+  "veggie straw": "/misc/fake-healthy-foods#chips",
   "plantain chips": "/misc/fake-healthy-foods#chips",
   "plantain chip": "/misc/fake-healthy-foods#chips",
   "banana chips": "/misc/fake-healthy-foods#chips",
@@ -1867,6 +1884,9 @@ LINKS = {
   "bottled salad dressing": "/misc/fake-healthy-foods#salad-dressing",
   "balsamic vinaigrette": "/misc/fake-healthy-foods#salad-dressing",
   "raspberry vinaigrette": "/misc/fake-healthy-foods#salad-dressing",
+  "italian dressing": "/misc/fake-healthy-foods#salad-dressing",
+  "thousand island dressing": "/misc/fake-healthy-foods#salad-dressing",
+  "thousand island": "/misc/fake-healthy-foods#salad-dressing",
   "caesar dressing": "/misc/fake-healthy-foods#salad-dressing",
   "caesar": "/misc/fake-healthy-foods#salad-dressing",
   "canned soup": "/misc/fake-healthy-foods#frozen-meals",
@@ -1890,10 +1910,26 @@ LINKS = {
   "low fat crackers": "/misc/fake-healthy-foods#low-fat",
   # "dips": "/misc/fake-healthy-foods#dips",
   "dessert hummus": "/misc/fake-healthy-foods#dips",
+  "microwave popcorn": "/misc/fake-healthy-foods#dips",
+  "margarine": "/misc/fake-healthy-foods#margarine",
+  "low fat butter": "/misc/fake-healthy-foods#margarine",
+  "lowfat": "/misc/fake-healthy-foods#margarine",
+  "shortening": "/misc/fake-healthy-foods#margarine",
+  "vegetable oil spreads": "/misc/fake-healthy-foods#margarine",
+  "vegetable oil spread": "/misc/fake-healthy-foods#margarine",
 
 }
 
 EXCLUDED_PHRASES = [
+    "chocolate covered fruit and nuts",
+    "chocolate covered fruit",
+    "chocolate covered raisins",
+    "chocolate covered raisin",
+    "chocolate covered nuts",
+    "chocolate covered nut",
+    "chocolate covered almonds",
+    "chocolate covered almond",
+    "packaged baked goods",
     "mushroom rice",
     "sugar pumpkin",
     "resistant starch",
@@ -2211,7 +2247,8 @@ EXCLUDED_PHRASES = [
     "breaded",
     "fryer",
     "olive oil",
-    "peanut oil",
+    "flaxseed oil",
+    # "peanut oil",
     "avocado oil",
     "almond oil",
     "sesame oil",
@@ -2661,7 +2698,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-08-07")):
+            if not file.startswith(("2024-09-13")):
                 continue
 
             # exclude some files
