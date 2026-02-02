@@ -67,7 +67,7 @@ Notes:
 - If your seeds are raw, air fry them at 300F for 10 minutes, or roast in the oven at 350F for 12 minutes
 - <img src='/assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/roasted.jpg' alt='' class='instruction-image'>
 
-- If you prefer a chunky seed butter, reserve about 1 oz (28 g) of nuts, and blend in at the end
+- If you prefer a chunky seed butter, reserve about 1 oz (28 g) of seeds, and blend in at the end
 
 - |
   Be sure to check out all 6 of my flavored nut butters
