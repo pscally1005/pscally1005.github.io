@@ -9,6 +9,7 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\nutrition\nutrients"
 LINKS = {
 
   # RECIPES
+  "seitan": "/recipes/seitan",
   "simple pasta sauce": "/recipes/pasta-sauce",
   "pasta sauce": "/recipes/pasta-sauce",
   "banana ice cream": "/recipes/nice-cream",
@@ -312,6 +313,12 @@ LINKS = {
   "great northern": "/misc/beans#great-northern-beans",
   "green lentils": "/misc/beans#green-lentils",
   "green lentil": "/misc/beans#green-lentils",
+  "light red kidney beans": "/misc/beans#kidney-beans",
+  "dark red kidney beans": "/misc/beans#kidney-beans",
+  "light red kidney bean": "/misc/beans#kidney-beans",
+  "dark red kidney bean": "/misc/beans#kidney-beans",
+  "red kidney beans": "/misc/beans#kidney-beans",
+  "red kidney bean": "/misc/beans#kidney-beans",
   "kidney beans": "/misc/beans#kidney-beans",
   "kidney bean": "/misc/beans#kidney-beans",
   "kidney": "/misc/beans#kidney-beans",
@@ -619,6 +626,7 @@ LINKS = {
   # MEAT
   "bacon": "/misc/meat#bacon",
   "beef liver": "/misc/meat#liver",
+  "liver": "/misc/meat#liver",
   "bologna": "/misc/meat#bologna",
   "boneless skinless chicken breasts": "/misc/meat#chicken-breast",
   "boneless skinless chicken breast": "/misc/meat#chicken-breast",
@@ -644,6 +652,8 @@ LINKS = {
   "thighs": "/misc/meat#chicken-thighs",
   "thigh meat": "/misc/meat#chicken-thighs",
   "thigh": "/misc/meat#chicken-thighs",
+  "whole eggs": "/misc/meat#eggs",
+  "whole egg": "/misc/meat#eggs",
   "egg yolks": "/misc/meat#eggs",
   "egg yolk": "/misc/meat#eggs",
   "yolks": "/misc/meat#eggs",
@@ -1180,7 +1190,7 @@ LINKS = {
   "Protein: The Essential Building Blocks": "/misc/protein",
   "What is the Best Protein Source?": "/misc/protein-source",
   "Fiber: Happiness is a Good Poop": "/misc/fiber",
-  "Carbs: The Devil in Disguise?": "/misc/fats",
+  "Carbs: The Devil in Disguise?": "/misc/carbs",
   "leaner": "/misc/fats",
   "lean": "/misc/fats",
   "hydrogenated fats": "/misc/fats",
@@ -1634,6 +1644,10 @@ LINKS = {
   "meme recipe": "/recipes/meme",
   "meme": "/recipes/meme",
   # "protein powder": "/recipes/protein-powder",
+  "protein powder desserts": "/recipes/protein-powder",
+  "protein powder dessert": "/recipes/protein-powder",
+  "protein desserts": "/recipes/protein-powder",
+  "protein dessert": "/recipes/protein-powder",
   "protein snacks": "/recipes/protein-powder",
   "protein snack": "/recipes/protein-powder",
   "protein desserts": "/recipes/protein-powder",
@@ -1950,6 +1964,12 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "80% lean",
+    "vegetarian protein powders",
+    "vegetarian protein powder",
+    "vegan protein powders",
+    "vegan protein powder",
+    "fat metabolism",
     "fruit concentrate",
     "confectioner's sugar",
     "confectioners sugar",
@@ -1975,8 +1995,17 @@ EXCLUDED_PHRASES = [
     "water soluble",
     "roll the",
     "eggplant parmesean",
+    "eggplant parmesan",
     "eggplant parm",
     "chicken parmesean",
+    "chicken parmesan",
+    "chicken wings",
+    "chicken wing",
+    "coconut shrimp",
+    "general tso's chicken",
+    "kung pao chicken",
+    "chicken alfredo",
+    "pulled pork",
     "chicken parm",
     "tuna salad",
     "tuna fish",
@@ -2734,7 +2763,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-09-19")):
+            if not file.startswith(("2024-09-22")):
                 continue
 
             # exclude some files
