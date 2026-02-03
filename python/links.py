@@ -97,6 +97,9 @@ LINKS = {
   "diabetes (type 2)": "/misc/diabetes",
   "diabetes (type ii)": "/misc/diabetes",
   "diabetes": "/misc/diabetes",
+  "impaired glucose metabolism": "/misc/diabetes",
+  "impaired glucose": "/misc/diabetes",
+  "metabolism of glucose": "/misc/diabetes",
   "glucose": "/misc/diabetes",
   "blood sugar": "/misc/diabetes",
   "glycemic index": "/misc/diabetes",
@@ -110,6 +113,14 @@ LINKS = {
   "alzheimer's": "/misc/alzheimers",
   "alzheimers": "/misc/alzheimers",
   "alzheimer": "/misc/alzheimers",
+  "memory problems": "/misc/alzheimers",
+  "memory problem": "/misc/alzheimers",
+  "cognitive decline or memory issues": "/misc/alzheimers",
+  "cognitive decline": "/misc/alzheimers",
+  "cognitive impairment": "/misc/alzheimers",
+  "memory issues": "/misc/alzheimers",
+  "memory issue": "/misc/alzheimers",
+  "memory loss": "/misc/alzheimers",
   "dementia": "/misc/alzheimers",
   "sleep apnea": "/misc/sleep",
   "sleep": "/misc/sleep",
@@ -626,6 +637,8 @@ LINKS = {
   # MEAT
   "bacon": "/misc/meat#bacon",
   "beef liver": "/misc/meat#liver",
+  "organ meats": "/misc/meat#liver",
+  "organ meat": "/misc/meat#liver",
   "liver": "/misc/meat#liver",
   "bologna": "/misc/meat#bologna",
   "boneless skinless chicken breasts": "/misc/meat#chicken-breast",
@@ -1064,6 +1077,7 @@ LINKS = {
   "zinc": "/misc/nutrient-alphabet#Z",
 
   # NUTRIENTS (OTHER)
+  "Got Calcium?": "/misc/calcium",
   "minerals calcium": "/misc/calcium",
   "mineral calcium": "/misc/calcium",
   "calcium": "/misc/calcium",
@@ -1094,18 +1108,22 @@ LINKS = {
   "heme": "/misc/iron",
   "non heme": "/misc/iron",
   "non-heme": "/misc/iron",
+  "Mag-nificent: The Mighty Mineral for Muscles and Mind": "/misc/magnesium",
   "minerals magnesium": "/misc/magnesium",
   "mineral magnesium": "/misc/magnesium",
   "magnesium": "/misc/magnesium",
+  "Phosphorus: Fuel For Bones & Beyond": "/misc/phosphorus",
   "minerals phosphorus": "/misc/phosphorus",
   "mineral phosphorus": "/misc/phosphorus",
   "phosphorus": "/misc/phosphorus",
+  "A Monkey Never Cramps: Why You Need Potassium": "/misc/potassium",
   "minerals potassium": "/misc/potassium",
   "mineral potassium": "/misc/potassium",
   "potassium": "/misc/potassium",
   "minerals sodium": "/misc/sodium",
   "mineral sodium": "/misc/sodium",
   "sodium": "/misc/sodium",
+  "B-Ware the Deficiency: The Power of B12": "/misc/vitamin-b12",
   "vitamins b12 (cobalamin)": "/misc/vitamin-b12",
   "vitamins b12": "/misc/vitamin-b12",
   "vitamin b12": "/misc/vitamin-b12",
@@ -1115,6 +1133,7 @@ LINKS = {
   "cobalamin (b12)": "/misc/vitamin-b12",
   "b12": "/misc/vitamin-b12",
   "cobalamin": "/misc/vitamin-b12",
+  "(Vitamin) C You Later, Sickness!": "/misc/vitamin-c",
   "vitamins c": "/misc/vitamin-c",
   "vitamin c": "/misc/vitamin-c",
   "c": "/misc/vitamin-c",
@@ -1203,6 +1222,8 @@ LINKS = {
   "healthy fat": "/misc/fats",
   "unhealthy fats": "/misc/fats",
   "unhealthy fat": "/misc/fats",
+  "essential fatty acids": "/misc/fats",
+  "essential fatty acid": "/misc/fats",
   "fatty acids": "/misc/fats",
   "fatty acid": "/misc/fats",
   "fatty": "/misc/fats",
@@ -1254,19 +1275,36 @@ LINKS = {
   "refined oil": "/misc/fats",
   # "seed oils": "/misc/fats",
   # "seed oil": "/misc/fats",
-  "vegetable oils": "/misc/fats",
-  "vegetable oil": "/misc/fats",
+  # "vegetable oils": "/misc/fats",
+  # "vegetable oil": "/misc/fats",
   "oils": "/misc/fats",
   "oil": "/misc/fats",
   "lard": "/misc/fats",
+  "branched-chain amino acids (BCAAs)": "/misc/protein",
+  "branched-chain amino acid (BCAA)": "/misc/protein",
+  "branched chain amino acids (BCAAs)": "/misc/protein",
+  "branched chain amino acid (BCAA)": "/misc/protein",
+  "BCAAs": "/misc/protein",
+  "BCAA": "/misc/protein",
+  "branched chain amino acids": "/misc/protein",
+  "branched chain amino acid": "/misc/protein",
+  "branched-chain amino acids": "/misc/protein",
+  "branched-chain amino acid": "/misc/protein",
+  "essential amino acids": "/misc/protein",
+  "essential amino acid": "/misc/protein",
   "amino acids": "/misc/protein",
   "amino acid": "/misc/protein",
   "proteins": "/misc/protein",
   "protein": "/misc/protein",
   "complete proteins": "/misc/protein",
   "complete protein": "/misc/protein",
+  "high protein foods": "/misc/high-protein",
+  "high protein food": "/misc/high-protein",
+  "high-protein foods": "/misc/high-protein",
+  "high-protein foods": "/misc/high-protein",
   "high protein": "/misc/high-protein",
   "high-protein": "/misc/high-protein",
+  "It's About More Than Calories": "/misc/calories",
   "calorie dense": "/misc/calories",
   "calorically dense": "/misc/calories",
   "calorically": "/misc/calories",
@@ -1285,6 +1323,10 @@ LINKS = {
   "zero-calorie": "/misc/calories",
   "calories": "/misc/calories",
   "calorie": "/misc/calories",
+  # "kilocalories": "/misc/calories",
+  # "kilocalorie": "/misc/calories",
+  # "kcal": "/misc/calories",
+  # "cal": "/misc/calories",
   "creatine": "/misc/creatine",
 
   # AMAZON
@@ -1525,6 +1567,7 @@ LINKS = {
   "fish and seafood": "/misc/fish",
   "fish": "/misc/fish",
   "seafood": "/misc/fish",
+  "shellfish": "/misc/fish",
   "fruits": "/misc/fruit",
   "fruit": "/misc/fruit",
   "whole grains": "/misc/grains",
@@ -1543,6 +1586,12 @@ LINKS = {
   "veggie": "/misc/veggies",
   "dark leafy greens": "/misc/veggies",
   "leafy greens": "/misc/veggies",
+  "dark leafy green": "/misc/veggies",
+  "leafy green": "/misc/veggies",
+  "dark leafy vegetables": "/misc/veggies",
+  "leafy vegetables": "/misc/veggies",
+  "dark leafy vegetable": "/misc/veggies",
+  "leafy vegetable": "/misc/veggies",
   "greens": "/misc/veggies",
 
   # FOOD SECTIONS
@@ -1804,6 +1853,8 @@ LINKS = {
   "peanut oil": "/misc/fake-healthy-foods#seed-oil",
   "rice bran oil": "/misc/fake-healthy-foods#seed-oil",
   "inflammatory oil": "/misc/fake-healthy-foods#seed-oil",
+  "vegetable oils": "/misc/fake-healthy-foods#seed-oil",
+  "vegetable oil": "/misc/fake-healthy-foods#seed-oil",
   "refined seed oils": "/misc/fake-healthy-foods#seed-oil",
   "refined seed oil": "/misc/fake-healthy-foods#seed-oil",
   "seed oils": "/misc/fake-healthy-foods#seed-oil",
@@ -1964,6 +2015,18 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "synthesis of DNA and proteins",
+    "synthesis of DNA and protein",
+    "synthesis of proteins",
+    "synthesis of protein",
+    "your liver",
+    "your kidneys",
+    "your kidney",
+    "the liver",
+    "the kidneys",
+    "the kidney",
+    "orange foods",
+    "orange food",
     "80% lean",
     "vegetarian protein powders",
     "vegetarian protein powder",
@@ -2605,7 +2668,7 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None, skip_li
     # Protect regions that must NEVER be touched
     # ---------------------------------------------------------
     PROTECTED_PATTERNS = [
-        # r"{%.*?%}",                       # Liquid
+        r"{%.*?%}",                       # Liquid
         r"<a\b[^>]*>.*?</a>",             # Existing links
         r"<script\b[^>]*>.*?</script>",
         r"<style\b[^>]*>.*?</style>",
@@ -2763,7 +2826,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-10-18")):
+            if not file.startswith(("2024-10-23")):
                 continue
 
             # exclude some files
