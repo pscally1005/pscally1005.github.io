@@ -2019,6 +2019,14 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "kidney stones",
+    "kidney stone",
+    "nutrient transfer",
+    "transfer nutrients",
+    "transfer nutrient",
+    "kidney disease",
+    "kidney problems",
+    "kidney problem",
     "structures of proteins",
     "structures of protein",
     "formation of proteins",
@@ -2842,7 +2850,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-03-23")):
+            if not file.startswith(("2025-03-25")):
                 continue
 
             # exclude some files
