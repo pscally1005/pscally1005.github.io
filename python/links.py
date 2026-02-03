@@ -1822,11 +1822,11 @@ LINKS = {
   "coffee addiction": "/misc/fake-healthy-foods#coffee",
   "coffee addicts": "/misc/fake-healthy-foods#coffee",
   "coffee addict": "/misc/fake-healthy-foods#coffee",
-  "caffeine addictions": "/misc/fake-healthy-foods#coffee",
-  "caffeine addiction": "/misc/fake-healthy-foods#coffee",
-  "caffeine addicts": "/misc/fake-healthy-foods#coffee",
-  "caffeine addict": "/misc/fake-healthy-foods#coffee",
-  "caffeine": "/misc/fake-healthy-foods#coffee",
+  # "caffeine addictions": "/misc/fake-healthy-foods#coffee",
+  # "caffeine addiction": "/misc/fake-healthy-foods#coffee",
+  # "caffeine addicts": "/misc/fake-healthy-foods#coffee",
+  # "caffeine addict": "/misc/fake-healthy-foods#coffee",
+  # "caffeine": "/misc/fake-healthy-foods#coffee",
   "coffee": "/misc/fake-healthy-foods#coffee",
   "iced teas": "/misc/fake-healthy-foods#iced-tea",
   "iced tea": "/misc/fake-healthy-foods#iced-tea",
@@ -2019,6 +2019,14 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "structures of proteins",
+    "structures of protein",
+    "formation of proteins",
+    "formation of protein",
+    "structure of proteins",
+    "structure of protein",
+    "protein structure",
+    "protein formation",
     "get fat",
     "apple watch",
     "as fat",
@@ -2834,7 +2842,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-01-20")):
+            if not file.startswith(("2025-03-23")):
                 continue
 
             # exclude some files
