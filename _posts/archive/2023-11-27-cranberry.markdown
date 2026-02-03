@@ -4,7 +4,7 @@ title:  Unsweetened Dried Cranberries
 date:   2023-11-27 00:00:00 -0500
 categories:
 - Recipes
-- Finger Food
+- Finger Foods
 - Archive
 showPercentage: no
 hummus: no

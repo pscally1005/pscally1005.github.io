@@ -2019,6 +2019,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "get fat",
+    "apple watch",
+    "as fat",
     "synthesis of DNA and proteins",
     "synthesis of DNA and protein",
     "synthesis of proteins",
@@ -2831,7 +2834,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-10-23")):
+            if not file.startswith(("2025-01-20")):
                 continue
 
             # exclude some files
