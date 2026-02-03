@@ -1194,6 +1194,10 @@ LINKS = {
   "carbohydrate": "/misc/carbs",
   "low carb": "/misc/carbs",
   "high carb": "/misc/carbs",
+  "total carbohydrates": "/misc/carbs",
+  "total carbohydrate": "/misc/carbs",
+  "total carbs": "/misc/carbs",
+  "total carb": "/misc/carbs",
   "net carbs": "/misc/carbs",
   "net carb": "/misc/carbs",
   "carbs": "/misc/carbs",
@@ -2522,6 +2526,7 @@ EXCLUDED_PHRASES = [
     "skinny-fat",
     "fat inside",
     "breast cancer",
+    "breast and colon cancer"
     "kidney disease",
     "kidneys",
     "c-reactive protein",
