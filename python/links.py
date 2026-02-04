@@ -473,6 +473,8 @@ LINKS = {
   "tuna": "/misc/fish#tuna",
 
   # FRUIT
+  "citrus fruits": "/misc/fruit",
+  "citrus fruit": "/misc/fruit",
   "unsweetened applesauce": "/misc/fruit#apple",
   "applesauce": "/misc/fruit#apple",
   "apples": "/misc/fruit#apple",
@@ -2057,6 +2059,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "orange juice",
     "the protein needed",
     "combines with a protein",
     "black olives",
@@ -2900,7 +2903,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-05-05")):
+            if not file.startswith(("2025-06-16")):
                 continue
 
             # exclude some files
