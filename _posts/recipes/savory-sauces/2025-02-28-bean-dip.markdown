@@ -63,5 +63,5 @@ Instructions:
 - Bake at 400F for about 15 minutes (uncovered), or until lightly bubbly. Let rest for a few minutes before serving
 - <img src='/assets/Food/Savory Sauces/Bean Dip/cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- Any canned beans will work.  Today, I'm using red kidney beans, but black, pinto, navy, chickpeas, or anything else will work in place
+- Any canned beans will work.  Today, I'm using red kidney beans, but <a href='/misc/beans#black-beans'>black</a>, pinto, navy, chickpeas, or anything else will work in place
 ---

@@ -65,11 +65,13 @@ Instructions:
 
 - Add minced garlic, gochujang (or chili paste) and water. Cover and simmer over low heat for 5 minutes
 
-- Drain and rinse your beans.  Traditionally, baked beans are made with navy beans, but any other kind of bean (pinto, kidney, black, etc. will work as well).  Add the beans to the pot
+- Drain and rinse your beans
 
 - Add in the remaining ingredients - tomato paste, apple cider vinegar, soy sauce, dijon mustard, chili powder, garlic powder, black pepper, salt, and cinnamon. Cover and let simmer for 5 minutes
 
 - If you're using a Dutch oven, you can bake directly in there.  If not, transfer your beans to an 9" square baking dish.  Bake in a 350F oven (covered) for 45 minutes
 Notes:
+- Traditionally, baked beans are made with navy beans, but any other kind of bean (pinto, kidney, <a href='/misc/beans#black-beans'>black</a>, etc. will work as well).  Add the beans to the pot
+
 - You can also cook in a slow cooker on low for about 4-6 hours
 ---

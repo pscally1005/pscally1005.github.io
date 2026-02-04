@@ -298,6 +298,7 @@ LINKS = {
   # BEANS
   "black beans": "/misc/beans#black-beans",
   "black bean": "/misc/beans#black-beans",
+  "black": "/misc/beans#black-beans",
   "black eyed peas": "/misc/beans#black-eyed-peas",
   "black eyed pea": "/misc/beans#black-eyed-peas",
   "brown lentils": "/misc/beans#brown-lentils",
@@ -945,6 +946,10 @@ LINKS = {
   "vitamins": "/misc/nutrient-alphabet",
   "vitamin contents": "/misc/nutrient-alphabet",
   "vitamin content": "/misc/nutrient-alphabet",
+  "essential vitamins": "/misc/nutrient-alphabet",
+  "essential minerals": "/misc/nutrient-alphabet",
+  "essential vitamin": "/misc/nutrient-alphabet",
+  "essential mineral": "/misc/nutrient-alphabet",
   "vitamin": "/misc/nutrient-alphabet",
   "minerals": "/misc/nutrient-alphabet",
   "mineral contents": "/misc/nutrient-alphabet",
@@ -1745,6 +1750,12 @@ LINKS = {
   "french onin dip": "/misc/fake-healthy-foods#dips",
   "mayo-based": "/misc/fake-healthy-foods#dips",
   "mayo": "/misc/fake-healthy-foods#dips",
+  "jarred pasta sauces": "/misc/fake-healthy-foods#sauces",
+  "jarred pasta sauce": "/misc/fake-healthy-foods#sauces",
+  "jarred sauces": "/misc/fake-healthy-foods#sauces",
+  "jarred sauce": "/misc/fake-healthy-foods#sauces",
+  "bottled sauces": "/misc/fake-healthy-foods#sauces",
+  "bottled sauce": "/misc/fake-healthy-foods#sauces",
   "pasta sauces": "/misc/fake-healthy-foods#sauces",
   "cocktail sauce": "/misc/fake-healthy-foods#sauces",
   "pizza sauce": "/misc/fake-healthy-foods#sauces",
@@ -1891,6 +1902,8 @@ LINKS = {
   "prepared meal": "/misc/fake-healthy-foods#frozen-meals",
   "processed meats": "/misc/fake-healthy-foods#processed-meats",
   "processed meat": "/misc/fake-healthy-foods#processed-meats",
+  "cured meats": "/misc/fake-healthy-foods#processed-meats",
+  "cured meat": "/misc/fake-healthy-foods#processed-meats",
   "beef jerky": "/misc/fake-healthy-foods#processed-meats",
   "deli meats": "/misc/fake-healthy-foods#processed-meats",
   "deli meat": "/misc/fake-healthy-foods#processed-meats",
@@ -1977,6 +1990,7 @@ LINKS = {
   "vanilla yogurt": "/misc/fake-healthy-foods#yogurt",
   "strawberry yogurt": "/misc/fake-healthy-foods#yogurt",
   "sweetened yogurt": "/misc/fake-healthy-foods#yogurt",
+  "bottled salad dressings": "/misc/fake-healthy-foods#salad-dressing",
   "bottled salad dressing": "/misc/fake-healthy-foods#salad-dressing",
   "balsamic vinaigrette": "/misc/fake-healthy-foods#salad-dressing",
   "raspberry vinaigrette": "/misc/fake-healthy-foods#salad-dressing",
@@ -1988,6 +2002,7 @@ LINKS = {
   "canned soup": "/misc/fake-healthy-foods#frozen-meals",
   "ramen cups": "/misc/fake-healthy-foods#frozen-meals",
   "ramen cup": "/misc/fake-healthy-foods#frozen-meals",
+  "instant ramen": "/misc/fake-healthy-foods#frozen-meals",
   "ramen": "/misc/fake-healthy-foods#frozen-meals",
   "sweetened almond milk": "/misc/fake-healthy-foods#milk",
   "chocolate almond milk": "/misc/fake-healthy-foods#milk",
@@ -2019,12 +2034,22 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "black olives",
+    "black olive",
+    "black tea",
+    "black or green tea",
+    "black coffee",
+    "black and white",
+    "black-and-white",
     "kidney stones",
     "kidney stone",
+    "kidney disease",
+    "kidney failure",
+    "liver disease",
+    "liver failure",
     "nutrient transfer",
     "transfer nutrients",
     "transfer nutrient",
-    "kidney disease",
     "kidney problems",
     "kidney problem",
     "structures of proteins",
@@ -2850,7 +2875,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-03-25")):
+            if not file.startswith(("2025-04-07")):
                 continue
 
             # exclude some files
