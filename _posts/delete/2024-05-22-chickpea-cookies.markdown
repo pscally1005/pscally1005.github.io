@@ -66,7 +66,7 @@ Instructions:
 
 - Start with the chocolate chips, since these will need to fully solidify in the fridge.  In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add the <a href='/misc/nuts#coconut'>coconut oil</a>, and melt in the microwave for 1:30
 
-- Add the cocoa powder, syrup, and a few grains of salt to the <a href='/misc/nuts#coconut'>coconut oil</a>, and mix until smooth
+- Add the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, syrup, and a few grains of salt to the <a href='/misc/nuts#coconut'>coconut oil</a>, and mix until smooth
 
 - Pour the chocolate into a parchment lined Tupperware, and refrigerate until solid, about 30 minutes
 

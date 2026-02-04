@@ -2082,10 +2082,14 @@ LINKS = {
   "100% chocolate": "/misc/overshadowed-healthy-foods#chocolate",
   "unsweetened chocolate": "/misc/overshadowed-healthy-foods#chocolate",
   "cocoa powder": "/misc/overshadowed-healthy-foods#chocolate",
+  "cocoa": "/misc/overshadowed-healthy-foods#chocolate",
+  "cacao powder": "/misc/overshadowed-healthy-foods#chocolate",
+  "cacao": "/misc/overshadowed-healthy-foods#chocolate",
 
 }
 
 EXCLUDED_PHRASES = [
+    "cocoa butter",
     "exercise bands",
     "exercise band",
     "make you fat",
