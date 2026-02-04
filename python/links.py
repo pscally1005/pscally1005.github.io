@@ -989,6 +989,7 @@ LINKS = {
   "b9": "/misc/nutrient-alphabet#F",
   "folate": "/misc/nutrient-alphabet#F",
   "vitamin b9": "/misc/nutrient-alphabet#F",
+  # "glucose": "/misc/nutrient-alphabet#G",
   "iodine": "/misc/nutrient-alphabet#I",
   "vitamins k": "/misc/nutrient-alphabet#K",
   "vitamin k": "/misc/nutrient-alphabet#K",
@@ -2034,6 +2035,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "the protein needed",
+    "combines with a protein",
     "black olives",
     "black olive",
     "black tea",
@@ -2875,7 +2878,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-04-07")):
+            if not file.startswith(("2025-05-05")):
                 continue
 
             # exclude some files
