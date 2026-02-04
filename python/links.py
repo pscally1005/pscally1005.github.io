@@ -74,6 +74,8 @@ LINKS = {
   "celiac disease": "/misc/celiac",
   "celiacs": "/misc/celiac",
   "celiac": "/misc/celiac",
+  "metabolic issues": "/misc/metabolic-syndrome",
+  "metabolic issue": "/misc/metabolic-syndrome",
   "metabolic syndrome": "/misc/metabolic-syndrome",
   "metabolically unfit": "/misc/metabolic-syndrome",
   "metabolic health issues": "/misc/metabolic-syndrome",
@@ -144,7 +146,12 @@ LINKS = {
   "dementia": "/misc/alzheimers",
   "sleep apnea": "/misc/sleep",
   "sleep": "/misc/sleep",
+  "physical exercises": "/misc/exercise",
+  "physical exercise": "/misc/exercise",
+  "exercises": "/misc/exercise",
   "exercise": "/misc/exercise",
+  "sedentary lifestyle": "/misc/exercise",
+  "sedentary": "/misc/exercise",
   "pcos": "/misc/pcos",
   "polycystic ovary syndrome": "/misc/pcos",
   "polycystic ovarian syndrome": "/misc/pcos",
@@ -1272,6 +1279,8 @@ LINKS = {
   "essential fatty acid": "/misc/fats",
   "fatty acids": "/misc/fats",
   "fatty acid": "/misc/fats",
+  "fatty foods": "/misc/fats",
+  "fatty food": "/misc/fats",
   "fatty": "/misc/fats",
   "fattier": "/misc/fats",
   "fattiest": "/misc/fats",
@@ -1805,8 +1814,6 @@ LINKS = {
   "ketchup": "/misc/fake-healthy-foods#dips",
   "bbq sauce": "/misc/fake-healthy-foods#dips",
   # "dark chocolate": "/misc/fake-healthy-foods#chocolate",
-  "dark chocolate (at least 85%)": "/misc/overshadowed-healthy-foods#chocolate",
-  "dark chocolate": "/misc/overshadowed-healthy-foods#chocolate",
   "chocolate (less than 70%)": "/misc/fake-healthy-foods#chocolate",
   "sugar alcohols erythritol": "/misc/fake-healthy-foods#sugar-substitutes",
   "sugar alcohol erythritol": "/misc/fake-healthy-foods#sugar-substitutes",
@@ -2069,9 +2076,20 @@ LINKS = {
   "vegetable oil spreads": "/misc/fake-healthy-foods#margarine",
   "vegetable oil spread": "/misc/fake-healthy-foods#margarine",
 
+  # OVERSHADOWED
+  "dark chocolate (at least 85%)": "/misc/overshadowed-healthy-foods#chocolate",
+  "dark chocolate": "/misc/overshadowed-healthy-foods#chocolate",
+  "100% chocolate": "/misc/overshadowed-healthy-foods#chocolate",
+  "unsweetened chocolate": "/misc/overshadowed-healthy-foods#chocolate",
+  "cocoa powder": "/misc/overshadowed-healthy-foods#chocolate",
+
 }
 
 EXCLUDED_PHRASES = [
+    "exercise bands",
+    "exercise band",
+    "make you fat",
+    "fat-like",
     "calcium phosphate",
     "kidney waste",
     "kidney tuble",
@@ -2928,7 +2946,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-08-25")):
+            if not file.startswith(("2025-09-04")):
                 continue
 
             # exclude some files
