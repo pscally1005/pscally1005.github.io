@@ -2946,7 +2946,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-09-04")):
+            if not file.startswith(("2025-10-21")):
                 continue
 
             # exclude some files
