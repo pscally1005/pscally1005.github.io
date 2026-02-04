@@ -382,6 +382,12 @@ LINKS = {
   "tofu": "/misc/beans#tofu",
 
   # DAIRY
+  "plant based milks": "/misc/dairy#almond-milk",
+  "plant based milk": "/misc/dairy#almond-milk",
+  "non-dairy milks": "/misc/dairy#almond-milk",
+  "non-dairy milk": "/misc/dairy#almond-milk",
+  "non dairy milks": "/misc/dairy#almond-milk",
+  "non dairy milk": "/misc/dairy#almond-milk",
   "unsweetened vanilla almond milk": "/misc/dairy#almond-milk",
   "almond milk": "/misc/dairy#almond-milk",
   "blue cheese": "/misc/dairy#blue-cheese",
@@ -416,6 +422,12 @@ LINKS = {
   "kefir": "/misc/dairy#kefir",
   "skim milk": "/misc/dairy#skim-milk",
   "milk": "/misc/dairy#skim-milk",
+  "dairy milks": "/misc/dairy#skim-milk",
+  "dairy milk": "/misc/dairy#skim-milk",
+  "animal based milks": "/misc/dairy#skim-milk",
+  "animal based milk": "/misc/dairy#skim-milk",
+  "animal milks": "/misc/dairy#skim-milk",
+  "animal milk": "/misc/dairy#skim-milk",
   "whole milk": "/misc/dairy#whole-milk",
   "shredded mozzarella cheese": "/misc/dairy#mozzarella",
   "mozzarella cheese": "/misc/dairy#mozzarella",
@@ -1655,6 +1667,7 @@ LINKS = {
   "oatmeal": "/oatmeal",
   "overnight oats": "/oatmeal",
   "overnight oat": "/oatmeal",
+  # "oats": "/oatmeal",
   "yogurt recipes": "/yogurt",
   "morning yogurt": "/yogurt",
   "yogurt bowl": "/yogurt",
@@ -2059,6 +2072,12 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "calcium phosphate",
+    "kidney waste",
+    "kidney tuble",
+    "mineral deposits",
+    "mineral deposit",
+    "fat-free mass",
     "orange juice",
     "the protein needed",
     "combines with a protein",
@@ -2074,6 +2093,12 @@ EXCLUDED_PHRASES = [
     "kidney disease",
     "kidney failure",
     "liver disease",
+    "liver or kidney damage",
+    "liver or kidney",
+    "kidney, liver",
+    "liver, kidney",
+    "kidney or liver",
+    "liver damage",
     "liver failure",
     "nutrient transfer",
     "transfer nutrients",
@@ -2903,7 +2928,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-06-16")):
+            if not file.startswith(("2025-08-25")):
                 continue
 
             # exclude some files
