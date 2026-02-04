@@ -53,7 +53,7 @@ tags:
 - no carb
 - low carb
 - diet
-Description: This fudge is a healthy version of my <a href='/recipes/classic-fudge'>Traditional Fudge Recipe</a>, where I swapped out the <a href='/misc/hidden-sugar'>sugar</a> and marshmallows for liquid monk fruit. The result is a fudge with the perfect texture and a strong, bittersweet chocolate flavor. It has 0 g of <a href='/misc/hidden-sugar'>sugar</a> and less than half the <a href='/misc/calories'>calories</a>. If you like super dark chocolate, than this fudge is for you.  On the left is my classic fudge, and on the right is the <a href='/misc/hidden-sugar'>sugar</a> free version<img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-compare.jpg' alt='' class='instruction-image'>
+Description: This fudge is a healthy version of my <a href='/recipes/classic-fudge'>Traditional Fudge Recipe</a>, where I swapped out the <a href='/misc/hidden-sugar'>sugar</a> and marshmallows for liquid monk fruit. The result is a fudge with the perfect texture and a strong, bittersweet chocolate flavor. It has 0 g of <a href='/misc/hidden-sugar'>sugar</a> and less than half the <a href='/misc/calories'>calories</a>. If you like <a href='/misc/overshadowed-healthy-foods#chocolate'>super dark chocolate</a>, than this fudge is for you.  On the left is my classic fudge, and on the right is the <a href='/misc/hidden-sugar'>sugar</a> free version<img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-compare.jpg' alt='' class='instruction-image'>
 Instructions:
 - Line an 9" square pan with parchment paper, and set aside. You can also use a 9x5" bread pan for a half batch
 
