@@ -286,6 +286,10 @@ def grams(food, mass, vol):
             m = "120"
         elif vol == "2.4 serving":
             m = "240"
+        elif vol == "4 serving":
+            m = "400"
+        elif vol == "8 serving":
+            m = "800"
 
 
     # Liquids
@@ -367,6 +371,12 @@ def grams(food, mass, vol):
     elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread":
         if vol == "1 medium" or vol == "1 serving":
             m = "45"
+        elif vol == "2 medium" or vol == "2 serving":
+            m = "90"
+        elif vol == "3 medium" or vol == "3 serving":
+            m = "135"
+        elif vol == "4 medium" or vol == "4 serving":
+            m = "180"
 
     # Coconut oil
     elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Unsalted butter" or food == "Salted butter":

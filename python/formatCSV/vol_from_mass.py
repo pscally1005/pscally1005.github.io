@@ -308,6 +308,19 @@ def vol_from_mass(food, mass, vol):
             v = "4 cup"
         elif mass == "1200":
             v = "5 cup"
+        elif mass == "800" and food == "Simple pasta sauce":
+            v = "1 batch, 3 cup"
+
+    # Cottage cheese flatbread
+    elif food == "Cottage cheese flatbread":
+        if mass == "45":
+            v = "1 medium"
+        elif mass == "90":
+            v = "2 medium"
+        elif mass == "135":
+            v = "3 medium"
+        elif mass == "180":
+            v = "4 medium"
 
     # Nutritional yeast, cocoa, coconut flakes, psyllium
     elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Unsweetened coconut flakes" or food == "Psyllium husks, whole":
