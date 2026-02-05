@@ -245,13 +245,17 @@ def vol_from_mass(food, mass, vol):
             v = "1/4 cup"
         elif mass == "56":
             v = "1/2 cup"
-        elif mass == "84":
+        elif mass == "84" or mass == "85":
             v = "3/4 cup"
-        elif mass == "112":
+        elif mass == "112" or mass == "113":
             v = "1 cup"
+        elif mass == "142":
+            v = "1 1/4 cup"
         elif mass == "168":
             v = "1 1/2 cup"
-        elif mass == "224":
+        elif mass == "198":
+            v = "1 3/4 cup"
+        elif mass == "224" or mass == "226":
             v = "2 cup"
 
     # Liquids

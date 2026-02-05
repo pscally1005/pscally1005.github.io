@@ -493,6 +493,25 @@ def grams(food, mass, vol):
         elif vol == "6 serving":
             m = "336"
 
+    # Shredded cheese
+    elif food == "Shredded mozzarella cheese, low moisture part skim" or food == "Shredded chaddar cheese":
+        if vol == "1/4 cup" or vol == "1 oz":
+            m = "28"
+        elif vol == "1/2 cup" or vol == "2 oz":
+            m = "56"
+        elif vol == "3/4 cup" or vol == "3 oz":
+            m = "84"
+        elif vol == "1 cup" or vol == "4 oz":
+            m = "113"
+        elif vol == "1 1/4 cup" or vol == "5 oz":
+            m = "142"
+        elif vol == "1/2 cup" or vol == "6 oz":
+            m = "168"
+        elif vol == "1/2 cup" or vol == "7 oz":
+            m = "198"
+        elif vol == "1/2 cup" or vol == "8 oz":
+            m = "226"
+
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese":
         if vol == "2 tbsp":
