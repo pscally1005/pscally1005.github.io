@@ -51,13 +51,13 @@ tags:
 - sandwich
 - baking powder
 - baking soda
-Description: These buns require no yeast, and instead rely on chemical leaveners (baking powder and soda).  This means you can prepare them right around dinner time, no waiting required.  To build your perfect burger, check out <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>, or make a delicious salad with <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potato</a>
+Description: These buns require no yeast, and instead rely on chemical leaveners (baking powder and soda).  This means you can prepare them right around dinner time, no waiting required.  To build your perfect burger, check out <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>, or make a delicious <a href='/salad'>salad</a> with <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potato</a>
 Instructions:
-- Preheat your oven to 400F, and line a large cookie sheet with parchment paper
+- Preheat your oven to 400F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- In a large bowl, sift and whisk together the dry ingredients - whole wheat flour, vital wheat gluten, baking powder, baking soda, salt, garlic powder, and onion powder
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, <a href='https://amzn.to/4q2FwWu'>sift</a> and whisk together the dry ingredients - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, baking powder, baking soda, salt, garlic powder, and onion powder
 
-- Add the wet ingredients to the bowl (applesauce, almond butter, and milk), and mix until you have a combined ball of bread dough.  Tahini or natural peanut butter will work in place of almond butter here.  Any milk will work as well; plant or cow's based, as long as it's unsweetened, or water will do
+- Add the wet ingredients to the bowl (<a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a>), and mix until you have a combined ball of <a href='/recipes/bread'>bread</a> dough
 
 - Knead the dough in the bowl for about 30-45 seconds, until fully combined; don't over knead
 - <img src='/assets/Food/Bread/Burger Buns/buns-4.jpg' alt='' class='instruction-image'>
@@ -65,6 +65,9 @@ Instructions:
 - Divide the dough into 4 equal sized balls, about 90 g each. Roll into a ball and place them on the tray. Flatten to the size of your burgers. They will expand upward in the oven, but not really outward, so make them as wide as you want them to be when done baking. I probably could have flattened these a bit more here
 - <img src='/assets/Food/Bread/Burger Buns/buns-5.jpg' alt='' class='instruction-image'>
 
-- Bake at 400F for about 20-22 minutes.  The buns will be golden brown, sound hollow when tapped on the bottom, and register around 205F with an instant thermometer. Let cool slightly before slicing and eating
+- Bake at 400F for about 20-22 minutes.  The buns will be golden brown, sound hollow when tapped on the bottom, and register around 205F with an <a href='https://amzn.to/4kmobG2'>instant thermometer</a>. Let cool slightly before slicing and eating
 Notes:
+- <a href='/misc/seeds#sesame-seeds'>Tahini</a> or <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> will work in place of <a href='/misc/nuts#almonds'>almond butter</a> here
+
+- Any <a href='/misc/dairy#skim-milk'>milk</a> will work as well; plant or cow's based, as long as it's unsweetened, or water will do
 ---

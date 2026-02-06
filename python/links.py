@@ -62,6 +62,7 @@ LINKS = {
   # "whole wheat bread loaves": "/recipes/ww-bread",
   # "whole wheat bread loaf": "/recipes/ww-bread",
   # "whole wheat bread": "/recipes/ww-bread",
+  "my classic bread recipe": "/recipes/ww-bread",
   "toast": "/recipes/ww-bread",
   "ricotta cheese": "/misc/homemade-cheese#ricotta",
   "ricotta": "/misc/homemade-cheese#ricotta",
@@ -73,6 +74,7 @@ LINKS = {
   "date sweetened ketchup": "/recipes/ketchup",
   "date-sweetened ketchup": "/recipes/ketchup",
   "unsweetened ketchup": "/recipes/ketchup",
+  "chili": "/recipes/chili",
 
   # DISEASES
   "gluten allergy": "/misc/celiac",
@@ -425,6 +427,8 @@ LINKS = {
   "shredded cheese": "/misc/dairy#cheddar",
   "mexican cheese": "/misc/dairy#cheddar",
   "cheddar cheese": "/misc/dairy#cheddar",
+  "shredded cheddar cheese": "/misc/dairy#cheddar",
+  "shredded cheddar": "/misc/dairy#cheddar",
   "cheddar": "/misc/dairy#cheddar",
   "coconut milks": "/misc/dairy#coconut-milk",
   "coconut milk": "/misc/dairy#coconut-milk",
@@ -463,6 +467,7 @@ LINKS = {
   "whole milk": "/misc/dairy#whole-milk",
   "shredded mozzarella cheese": "/misc/dairy#mozzarella",
   "mozzarella cheese": "/misc/dairy#mozzarella",
+  "shredded mozzarella": "/misc/dairy#mozzarella",
   "mozzarella": "/misc/dairy#mozzarella",
   "parmesan cheese": "/misc/dairy#grated-cheese",
   "grated cheese": "/misc/dairy#grated-cheese",
@@ -1742,7 +1747,6 @@ LINKS = {
   "soup and stew recipes here": "/soup-stew",
   "soup recipes here": "/soup-stew",
   "stew recipes here": "/soup-stew",
-  "chili recipes here": "/chili",
   "salad recipes here": "/salad",
   "salad dressing recipes here": "/dressing",
   "dressing recipes here": "/dressing",
@@ -1779,8 +1783,6 @@ LINKS = {
   "stew recipes": "/soup-stew",
   "stews": "/soup-stew",
   "stew": "/soup-stew",
-  "chili recipes": "/chili",
-  "chili": "/chili",
   "salad recipes": "/salad",
   "salads": "/salad",
   "salad": "/salad",
@@ -2203,6 +2205,20 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "the bread",
+    "before baking",
+    # "savory cornbread",
+    # "this cornbread",
+    "done baking",
+    "baking powder and soda",
+    "baking soda and powder",
+    "smaller bread",
+    "make tortilla chips",
+    "part-skim",
+    "part skim",
+    "while baking",
+    "continue baking",
+    "irish soda",
     "remaining pretzels",
     "the pretzel",
     "each pretzel",
@@ -3013,9 +3029,9 @@ REMOVE_CATEGORIES = [
     "/recipes/savory-sauces",
     "/recipes/sides",
     "/recipes/sweet-spreads",
-    # "/misc/fake-healthy-foods",
+    "/misc/fake-healthy-foods",
     "/misc/processed-foods",
-    # "/misc/overshadowed-healthy-foods",
+    "/misc/overshadowed-healthy-foods",
 
 ]
 
@@ -3239,7 +3255,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

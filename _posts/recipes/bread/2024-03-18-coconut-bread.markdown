@@ -54,23 +54,23 @@ tags:
 - low moisture part skim
 - garlic powder
 - vic
-Description: This loaf of bread is free of both <a href='/misc/celiac'>gluten</a> and refined <a href='/misc/grains'>grains</a>. It's higher in <a href='/misc/protein'>protein</a>, lower in <a href='/misc/carbs'>carbs</a>, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as toast with jam or a PB&J. It's much simpler than standard bread to make, keto friendly, and great for people with <a href='/misc/celiac'>Celiac</a> disease
+Description: This loaf of bread is free of both <a href='/misc/celiac'>gluten</a> and <a href='/misc/carbs'>refined grains</a>. It's higher in <a href='/misc/protein'>protein</a>, lower in <a href='/misc/carbs'>carbs</a>, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as <a href='/recipes/ww-bread'>toast</a> with jam or a PB&J. It's much simpler than standard <a href='/recipes/bread'>bread</a> to make, keto friendly, and great for people with <a href='/misc/celiac'>Celiac disease</a>
 Instructions:
 - Preheat oven to 350F, and line a 9x5" pan with parchment paper
 
-- In a large bowl, whisk together the dry ingredients - coconut flour, whey, baking powder, salt, and garlic powder. Make sure everything is fully mixed and there are no clumps of baking powder
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/dairy#whey'>whey</a>, baking powder, salt, and garlic powder. Make sure everything is fully mixed and there are no clumps of baking powder
 
-- In a separate bowl, beat together the eggs, water, applesauce, and cheese. I've used shredded mozzarella (low moisture part skim), but shredded cheddar would work as well.  Optionally add some apple cider vinegar for a slight sour flavor
+- In a separate bowl, beat together the <a href='/misc/meat#eggs'>eggs</a>, water, <a href='/misc/fruit#apple'>applesauce</a>, and <a href='/misc/dairy#mozzarella'>cheese</a>. I've used <a href='/misc/dairy#mozzarella'>shredded mozzarella</a> (low moisture part skim), but <a href='/misc/dairy#cheddar'>shredded cheddar</a> would work as well.  Optionally add some <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> for a slight sour flavor
 - <img src='/assets/Food/Bread/Coconut Bread/coconut-bread-3.jpg' alt='' class='instruction-image'>
 
-- Pour the wet into the dry, and mix until well combined. If the batter is too thick, add water 1 tbsp at a time. The batter should be thick but scoopable.  Transfer to your prepared bread pan
+- Pour the wet into the dry, and mix until well combined. If the batter is too thick, add water 1 tbsp at a time. The batter should be thick but scoopable.  Transfer to your prepared <a href='https://amzn.to/3YUjIkN'>bread pan</a>
 - <img src='/assets/Food/Bread/Coconut Bread/coconut-bread-4.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 40-45 minutes, until the top is just firm to the touch
 
-- Brush the top with water (or olive oil), and sprinkle with everything bagel seasoning (optional). Return to the oven for another 4 minutes. A toothpick should come out totally clean, and the internal temperature should register about 205F
+- Brush the top with water (or olive oil), and sprinkle with everything bagel seasoning (optional). Return to the oven for another 4 minutes. A toothpick should come out totally clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> should register about 205F
 
-- Remove from the oven, and let cool in the pan for 30 minutes. Transfer to a wire rack in the fridge to totally cool before slicing
+- Remove from the oven, and let cool in the pan for 30 minutes. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> in the fridge to totally cool before slicing
 - <img src='/assets/Food/Bread/Coconut Bread/coconut-bread-7.jpg' alt='' class='instruction-image'>
 
 - Add slices to a large Ziploc bag, and store in the freezer
