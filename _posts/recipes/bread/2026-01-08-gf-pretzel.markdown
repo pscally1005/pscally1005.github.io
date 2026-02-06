@@ -51,17 +51,17 @@ tags:
 - low moisture part skim
 - parmesan cheese
 - cream cheese
-Description: These <a href='/misc/celiac'>gluten free</a> pretzels are low in <a href='/misc/carbs'>carbs</a>, high in <a href='/misc/fats'>fat</a>, and contain a moderate amount of <a href='/misc/protein'>protein</a>.  That's due in part to the <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> in the <a href='/recipes/bread'>dough</a>.  That in combination with the spices in the <a href='/recipes/bread'>dough</a> and the salt on top makes the perfect savory pretzel for those with <a href='/misc/celiac'>Celiac Disease</a>.  For similar <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> <a href='/recipes/bread'>bread</a> recipes, see my <a href='/recipes/almond-flour-focaccia'>Almond Flour Focaccia</a> and <a href='/recipes/almond-flour-empanadas'>Almond Flour Empanadas</a>
+Description: These <a href='/misc/celiac'>gluten free</a> pretzels are low in <a href='/misc/carbs'>carbs</a>, high in <a href='/misc/fats'>fat</a>, and contain a moderate amount of <a href='/misc/protein'>protein</a>.  That's due in part to the <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> in the dough.  That in combination with the spices in the dough and the salt on top makes the perfect savory pretzel for those with <a href='/misc/celiac'>Celiac Disease</a>.  For similar <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> <a href='/recipes/bread'>bread recipes</a>, see my <a href='/recipes/almond-flour-focaccia'>Almond Flour Focaccia</a> and <a href='/recipes/almond-flour-empanadas'>Almond Flour Empanadas</a>
 Instructions:
-- Preheat your oven to 350F. Line a large cookie sheet with parchment paper. Alternatively, you can use a pretzel pan like this one below for easier shaping. In this case, lightly grease the pan with oil
+- Preheat your oven to 350F. Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Alternatively, you can use a pretzel pan like this one below for easier shaping. In this case, lightly grease the pan with oil
 - <img src='/assets/Food/Bread/GF Pretzel/pan.jpg' alt='' class='instruction-image'>
 
-- Add all dry ingredients to a medium bowl, and whisk until fully combined
+- Add all dry ingredients to a <a href='https://amzn.to/4adxMft'>medium bowl</a>, and whisk until fully combined
 
-- Add the mozzarella to a large glass bowl. Cut the cream cheese into cubes, and add on top. Microwave for 1 minute, stirring halfway with a silicone spatula
+- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
 - <img src='/assets/Food/Bread/GF Pretzel/cheese.jpg' alt='' class='instruction-image'>
 
-- Add the almond flour bowl and a beaten egg to the bowl with the melted cheese. Mix with a silicone spatula to incorporate, and knead with your hands until combined.  The dough should be slightly sticky
+- Add the <a href='/misc/nuts#almonds'>almond flour</a> and a beaten <a href='/misc/meat#eggs'>egg</a> to the bowl with the melted <a href='/misc/dairy#mozzarella'>cheese</a>. Mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> to incorporate, and knead with your hands until combined.  The dough should be slightly sticky
 - <img src='/assets/Food/Bread/GF Pretzel/dough.jpg' alt='' class='instruction-image'>
 
 - Divide into 6 equal pieces (about 70 g each), and shape into pretzels on your prepared pan.  Brush the tops with water. Sprinkle the tops with flaky salt or everything bagel seasoning
@@ -70,6 +70,6 @@ Instructions:
 - Bake the pretzels at 350F for 18 minutes, or until lightly golden brown.  Let cool in the pan for 5 minutes before removing.  Serve warm
 - <img src='/assets/Food/Bread/GF Pretzel/baked.jpg' alt='' class='instruction-image'>
 
-- Store leftovers in an airtight bag in the freezer. Air fry from frozen at 400F for 5 minutes to reheat
+- Store leftovers in an airtight bag in the freezer. <a href='https://amzn.to/3FuWETp'>Air fry</a> from frozen at 400F for 5 minutes to reheat
 Notes:
 ---

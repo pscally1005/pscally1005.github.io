@@ -757,6 +757,10 @@ LINKS = {
   "yolk": "/misc/meat#eggs",
   "egg": "/misc/meat#eggs",
   "eggs": "/misc/meat#eggs",
+  "liquid egg whites": "/misc/meat#egg-whites",
+  "liquid egg white": "/misc/meat#egg-whites",
+  "carton egg whites": "/misc/meat#egg-whites",
+  "carton egg white": "/misc/meat#egg-whites",
   "egg whites": "/misc/meat#egg-whites",
   "egg white": "/misc/meat#egg-whites",
   "whites": "/misc/meat#egg-whites",
@@ -1483,6 +1487,8 @@ LINKS = {
   "silicone liner": "https://amzn.to/44T3n3X",
   "silicone baking mat": "https://amzn.to/44T3n3X",
   "silicone mat": "https://amzn.to/44T3n3X",
+  '9" square baking dishes': "https://amzn.to/3YY2H9q",
+  '9" square baking dish': "https://amzn.to/3YY2H9q",
   '9" square baking pans': "https://amzn.to/3YY2H9q",
   '9" square baking pan': "https://amzn.to/3YY2H9q",
   '9" square pans': "https://amzn.to/3YY2H9q",
@@ -1576,6 +1582,8 @@ LINKS = {
   "oil spray": "https://amzn.to/3Hdg0gk",
   "spray": "https://amzn.to/3Hdg0gk",
   "lightly grease with oil": "https://amzn.to/3Hdg0gk",
+  "lightly grease the paper with oil": "https://amzn.to/3Hdg0gk",
+  "grease the paper with oil": "https://amzn.to/3Hdg0gk",
   "lightly spray with oil": "https://amzn.to/3Hdg0gk",
   "grease with oil": "https://amzn.to/3Hdg0gk",
   "lightly oil": "https://amzn.to/3Hdg0gk",
@@ -2212,6 +2220,13 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "bake the pretzels",
+    "pretzel pan",
+    "savory pretzel",
+    "pretzels are low in",
+    "baking dish",
+    "freezing this bread",
+    "serrated knife",
     "bread dough",
     "bake or toast",
     "traditional bread",
@@ -2793,7 +2808,6 @@ EXCLUDED_PHRASES = [
     "mixed drinks",
     "olive or canola",
     "plastic knife",
-    "serated knife",
     "banana peppers",
     "banana pepper",
     # "banana bread",
@@ -3107,6 +3121,14 @@ def restore_blocks(text, blocks):
         text = text.replace(f"__BLOCK_{i}__", block)
     return text
 
+# -------------------------------------------------------------
+# Liquid protection (shared everywhere)
+# -------------------------------------------------------------
+LIQUID_PROTECT = [
+    r"{%\s*assign\b.*?%}",            # assign blocks (multi-line safe)
+    r"{%\s*capture\b.*?{%\s*endcapture\s*%}",  # capture blocks
+    r"{%.*?%}",                       # other Liquid tags
+]
 
 # -------------------------------------------------------------
 # Auto-linker (PURE TEXT, NO PARSING)
@@ -3119,7 +3141,8 @@ def auto_link_html_safe_single_quotes(html, links, exclude_phrases=None, skip_li
     # Protect regions that must NEVER be touched
     # ---------------------------------------------------------
     PROTECTED_PATTERNS = [
-        r"{%.*?%}",                       # Liquid
+        r"{%\s*assign\b.*?%}",   # Protect full assign blocks
+        r"{%.*?%}",              # Other Liquid tags
         r"<a\b[^>]*>.*?</a>",             # Existing links
         r"<script\b[^>]*>.*?</script>",
         r"<style\b[^>]*>.*?</style>",
@@ -3219,7 +3242,10 @@ def process_front_matter(text, links, exclude_phrases=None):
                 key, value = line.split(":", 1)
                 current_section = key
 
+                value, blocks = protect_blocks(value, LIQUID_PROTECT)
                 value = remove_existing_links(value, REMOVE_CATEGORIES)
+                value = restore_blocks(value, blocks)
+
                 value = auto_link_html_safe_single_quotes(
                     value,
                     links,
@@ -3232,7 +3258,10 @@ def process_front_matter(text, links, exclude_phrases=None):
 
             # Bullet points inside Instructions / Notes
             if current_section in ("Instructions", "Notes") and line.lstrip().startswith("-"):
+
+                line, blocks = protect_blocks(line, LIQUID_PROTECT)
                 line = remove_existing_links(line, REMOVE_CATEGORIES)
+                line = restore_blocks(line, blocks)
 
                 linked = auto_link_html_safe_single_quotes(
                     line,
@@ -3252,7 +3281,10 @@ def process_front_matter(text, links, exclude_phrases=None):
     # Process body normally
     if body:
         html_body = "".join(body)
+        html_body, blocks = protect_blocks(html_body, LIQUID_PROTECT)
         html_body = remove_existing_links(html_body, REMOVE_CATEGORIES)
+        html_body = restore_blocks(html_body, blocks)
+
         output.append(auto_link_html_safe_single_quotes(
             html_body,
             links,
@@ -3278,7 +3310,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025")):
+            if not file.startswith(("2026")):
                 continue
 
             # exclude some files
