@@ -41,17 +41,16 @@ tags:
 - white chocolate chips
 - honey
 - extra virgin coconut oil
-Description: Homemade <a href='/misc/nuts#peanuts'>peanut</a> butter pretzel nuggets!  With just 6 ingredients and about 15 minutes of your time, you can make the perfect treat to bring out to the dessert table at your next gathering.  Swap out <a href='/recipes/natural-peanut-butter'>peanut butter</a> for <a href='/misc/nuts#almonds'>almond</a> butter or <a href='/misc/seeds#sesame-seeds'>tahini</a> if you have a <a href='/misc/nuts'>nut</a> allergy, or use <a href='/misc/celiac'>gluten free</a> pretzels if you have <a href='/misc/celiac'>Celiac</a>.  Any type of chocolate will do; today I went for white, but milk, dark, or sugar free chocolate chips are all good as well!
+Description: Homemade <a href='/recipes/natural-peanut-butter'>peanut butter</a> <a href='/misc/fake-healthy-foods#pretzels'>pretzel</a> nuggets!  With just 6 ingredients and about 15 minutes of your time, you can make the perfect treat to bring out to the dessert table at your next gathering.  Swap out <a href='/misc/nuts#peanuts'>peanut butter</a> for <a href='/misc/nuts#almonds'>almond butter</a> or <a href='/misc/seeds#sesame-seeds'>tahini</a> if you have a <a href='/misc/nuts'>nut</a> allergy, or use <a href='/misc/celiac'>gluten free</a> <a href='/misc/fake-healthy-foods#pretzels'>pretzels</a> if you have <a href='/misc/celiac'>Celiac</a>.  Any type of chocolate will do; today I went for white, but <a href='/misc/dairy#skim-milk'>milk</a>, dark, or <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> are all good as well!
 Instructions:
-- In a medium bowl, add peanut butter and honey, and microwave for 30 seconds to melt. Stir together with a silicone spatula until fully combined. Mix in coconut flour until you have a cookie dough like texture
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add <a href='/misc/nuts#peanuts'>peanut butter</a> and honey, and microwave for 30 seconds to melt. Stir together with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined. Mix in <a href='/misc/nuts#coconut'>coconut flour</a> until you have a cookie dough like texture
 
-- Almond or oat flour will also work, but you may need upwards of double the amount (both by weight and volume), as coconut flour absorbs much more moisture.  See <a href='/misc/water-absorption'>Water Absorption of Different Flours</a> for an in depth analysis
-
-- Line a baking sheet with parchment paper, and prepare 48 pretzels. Place a small scoop of the dough (about 7 g) onto one pretzel, and sandwich with another on top. Add to the sheet, and repeat to make 24 pretzel nuggets
+- Line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with parchment paper, and prepare 48 <a href='/misc/fake-healthy-foods#pretzels'>pretzels</a>. Place a small scoop of the dough (about 7 g) onto one <a href='/misc/fake-healthy-foods#pretzels'>pretzel</a>, and sandwich with another on top. Add to the sheet, and repeat to make 24 pretzel nuggets
 - <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/in-progress.jpg' alt='' class='instruction-image'>
 
-- In a small bowl, add chocolate chips and coconut oil. Microwave in 30 second intervals, stirring in between, until you have a smooth melted chocolate. Lightly paint the tops of each pretzel nugget in chocolate, and return to the pan. Refrigerate to harden, and serve
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a>. Microwave in 30 second intervals, stirring in between, until you have a smooth melted chocolate. Lightly paint the tops of each pretzel nugget in chocolate, and return to the pan. Refrigerate to harden, and serve
 - <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/done.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/cover-1.jpg' alt='' class='instruction-image'>
 Notes:
+- <a href='/misc/nuts#almonds'>Almond</a> or <a href='/misc/grains#oats'>oat flour</a> will also work, but you may need upwards of double the amount (both by weight and volume), as <a href='/misc/nuts#coconut'>coconut flour</a> absorbs much more moisture.  See <a href='/misc/water-absorption'>Water Absorption of Different Flours</a> for an in depth analysis
 ---

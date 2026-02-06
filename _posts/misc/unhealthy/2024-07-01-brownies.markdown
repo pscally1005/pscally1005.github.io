@@ -46,15 +46,15 @@ tags:
 - chocolate chips
 - chocolate chunks
 - vanilla
-Description: I think of a single person who doesn't like brownies. As with my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, here's a standard dessert recipe, with <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a>. I like to bake traditional desserts occasionally, and these are ones that you know everyone will love at a party. They're not healthy at all, unlike most things on this page, but that's okay; enjoy these in morderation.  Or check out any of my other <a href='/brownies'>healthy brownie recipes</a>!
+Description: I think of a single person who doesn't like <a href='/brownies'>brownies</a>. As with my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, here's a standard standard recipe, with <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a>. I like to bake traditional desserts occasionally, and these are ones that you know everyone will love at a party. They're not healthy at all, unlike most things on this page, but that's okay; enjoy these in morderation.  Or check out any of my other healthy <a href='/brownies'>brownie recipes</a>!
 Instructions:
 - Preheat your oven to 350F, and grease either an <a href='https://amzn.to/4kzchJ3'>11.5x7"</a> or a <a href='https://amzn.to/4mAvtr9'>9x9"</a> pan with oil. Make sure to coat it well; you don't want the brownies to stick to the pan
 
-- Melt your butter in the microwave. Combine together melted butter, oil, and sugar with a hand mixer until the sugar is very well incorporated, about a minute
+- Melt your <a href='/misc/dairy#butter'>butter</a> in the microwave. Combine together melted <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/fats'>oil</a>, and <a href='/misc/hidden-sugar'>sugar</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until the <a href='/misc/hidden-sugar'>sugar</a> is very well incorporated, about a minute
 
-- Crack in the eggs, pour in the vanilla, and add the salt. Again, beat with your hand mixer until super smooth, about a minute
+- Crack in the <a href='/misc/meat#eggs'>eggs</a>, pour in the vanilla, and add the salt. Again, beat with your <a href='https://amzn.to/45yqsbM'>hand mixer</a> until super smooth, about a minute
 
-- Add in the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> and flour, and stir until just combined with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- Add in the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> and <a href='/misc/grains#white-wheat'>flour</a>, and stir until just combined with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
 
 - Transfer your batter to the pan, and smooth out to all sides. Thump the pan a few times to remove any air bubbles.  Optionally top with chocolate chips
 
@@ -63,21 +63,21 @@ Instructions:
 - Allow the brownies to cool in the fridge for at least 30 minutes before slicing with a plastic knife
 - <img src='/assets/Misc/Unhealthy/Brownies/sliced.jpg' alt='' class='instruction-image'>
 Notes:
-- Omit the salt if using salted butter
+- Omit the salt if using salted <a href='/misc/dairy#butter'>butter</a>
 
 - You can replace the powdered sugar with granulated sugar, but remember to replace with 1:1 by weight, not volume. Replace 2 cups (240 g) of powdered sugar with 1.25 cups (240 g) granulated sugar
 
-- As for the oil, I'll be using extra virgin coconut oil here, but either extra virgin olive oil or canola oil will also work
+- As for the <a href='/misc/fats'>oil</a>, I'll be using extra virgin coconut oil here, but either extra virgin olive oil or <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> will also work
 
-- Do not over mix, or you'll develop the <a href='/misc/celiac'>gluten</a> in the flour and end up with tough brownies
+- Do not over mix, or you'll develop the gluten in the flour and end up with tough <a href='/brownies'>brownies</a>
 
 - Optionally fold in some chocolate chips (1/2 cup, 90 g)
 
-- If you want to make these healthier, replace the <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with <a href='/misc/fruit#coconut'>coconut</a> oil, granulated monk fruit, and <a href='/misc/grains#oats'>oat</a> flour.  Use 1/2 cup (108 g) coconut oil, 1.25 cups (240 g) granulated monk fruit, and 2/3 cup (60 g) oat flour
+- If you want to make these healthier, replace the <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, and <a href='/misc/grains#oats'>oat flour</a>.  Use 1/2 cup (108 g) <a href='/misc/nuts#coconut'>coconut oil</a>, 1.25 cups (240 g) <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, and 2/3 cup (60 g) <a href='/misc/grains#oats'>oat flour</a>
 
-- Since brownies don't use that much flour, they can easily be made <a href='/misc/celiac'>gluten free</a>.  Just replace the <a href='/misc/grains#white-wheat'>all purpose flour</a> with either <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/grains#oats'>oat</a> flour.  Obviously, you won't have to worry about over mixing the batter and developing the gluten if it's <a href='/misc/celiac'>gluten free</a>
+- Since brownies don't use that much flour, they can easily be made <a href='/misc/celiac'>gluten free</a>.  Just replace the <a href='/misc/grains#white-wheat'>all purpose flour</a> with either <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/grains#oats'>oat flour</a>.  Obviously, you won't have to worry about over mixing the batter and developing the gluten if it's <a href='/misc/celiac'>gluten free</a>
 
-- Optional, but recommend if you have the patience - let the batter sit in pan in the fridge overnight (covered with foil). This step further dissolves the sugar into the batter, leading to the glossy skin on top characteristic of boxed brownies. This step is really only necessary if you swap the powdered sugar for granulated sugar. The powdered sugar is much more fine, and as such will dissolve much more easily into the batter. Granulated sugar on the other hand will leave grainy sugar crystals in your raw batter, preventing brownie skin. Letting the sugar dissolve overnight breaks down these crystals, leading to a better brownie texture
+- Optional, but recommend if you have the patience - let the batter sit in pan in the fridge overnight (covered with foil). This step further dissolves the sugar into the batter, leading to the glossy skin on top characteristic of boxed brownies. This step is really only necessary if you swap the powdered sugar for granulated sugar. The powdered sugar is much more fine, and as such will dissolve much more easily into the batter. Granulated sugar on the other hand will leave grainy sugar crystals in your raw batter, preventing <a href='/brownies'>brownie</a> skin. Letting the sugar dissolve overnight breaks down these crystals, leading to a better brownie texture
 
-- I got 24 squares out of my glass 11.5x7" pan, but I'll get 16 slightly bigger brownies from a 9" square pan.  Nutrition facts are assuming 24 brownies
+- I got 24 squares out of my glass 11.5x7" pan, but I'll get 16 slightly bigger brownies from a <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.  Nutrition facts are assuming 24 brownies
 ---

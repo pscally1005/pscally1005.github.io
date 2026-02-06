@@ -40,12 +40,12 @@ tags:
 - graham cracker
 - winter
 - inside
-Description: It's starting to get cold outside, but that doesn't mean you can't still enjoy a s'more every now and then. You can whip one up in less than 5 minutes using your air fryer or oven, and dare I say that these taste better than the ones over the campfire
+Description: It's starting to get cold outside, but that doesn't mean you can't still enjoy a s'more every now and then. You can whip one up in less than 5 minutes using your <a href='https://amzn.to/3FuWETp'>air fryer</a> or oven, and dare I say that these taste better than the ones over the campfire
 Instructions:
-- Preheat your air fryer to 400F, and prepare a small piece of parchment paper. Break your graham cracker in half
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F, and prepare a small piece of parchment paper. Break your <a href='/misc/fake-healthy-foods#crackers'>graham cracker</a> in half
 - <img src='/assets/Misc/Unhealthy/Smores/smores-ing.jpg' alt='' class='instruction-image'>
 
-- Air fry the graham cracker, chocolate, and marshmallow for about 2 minutes, or until golden. Top with the other half of the cracker, and enjoy
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> the <a href='/misc/fake-healthy-foods#crackers'>graham cracker</a>, chocolate, and marshmallow for about 2 minutes, or until golden. Top with the other half of the <a href='/misc/fake-healthy-foods#crackers'>cracker</a>, and enjoy
 - <img src='/assets/Misc/Unhealthy/Smores/smores-airfry.jpg' alt='' class='instruction-image'>
 Notes:
 - You can also use the oven as well. Use foil instead of parchment paper, and cook under the broiler for about 2 minutes, until golden

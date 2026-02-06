@@ -38,24 +38,24 @@ tags:
 - sugar
 - banana bread
 - coconut oil
-Description: Vic has been sampling and craving this cake every time we visit the Troy farmer's market, so I've attempted to recreate it here. She loved both the <a href='/misc/fruit#banana'>banana</a> rum cake and the coconut rum cake, so I've combined the two together here. This is a standard dessert recipe, though it does seem to be mildly healthier than a standard cake. The banana and coconut combination with the rum and maple leads to a delicious tasting cake, like a fancier banana bread. Vic and I aren't big frosting people, so I just left it out here. But feel free to glaze with any frosting you desire!
+Description: Vic has been sampling and craving this cake every time we visit the Troy farmer's market, so I've attempted to recreate it here. She loved both the <a href='/misc/fruit#banana'>banana</a> rum cake and the <a href='/misc/nuts#coconut'>coconut</a> rum cake, so I've combined the two together here. This is a standard dessert recipe, though it does seem to be mildly healthier than a standard cake. The <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/nuts#coconut'>coconut</a> combination with the rum and maple leads to a delicious tasting cake, like a fancier <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>. Vic and I aren't big frosting people, so I just left it out here. But feel free to <a href='/misc/hidden-sugar'>glaze</a> with any frosting you desire!
 Instructions:
-- Preheat your oven to 350F, and oil a 9x5" loaf pan
+- Preheat your oven to 350F, and oil a <a href='https://amzn.to/3YUjIkN'>9x5" loaf pan</a>
 
-- In a medium bowl, whisk together the dry ingredients - flour, pudding mix, baking powder, baking soda and salt. Set aside
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#white-wheat'>flour</a>, pudding mix, baking powder, baking soda and salt. Set aside
 
-- In a separate medium bowl, mash your <a href='/misc/fruit#banana'>bananas</a> with the back of a fork until smooth. Mix together the wet ingredients until fully combined - yogurt, maple syrup, eggs, and rum extract
+- In a separate <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash your <a href='/misc/fruit#banana'>bananas</a> with the back of a fork until smooth. Mix together the wet ingredients until fully combined - <a href='/misc/dairy#yogurt'>yogurt</a>, maple syrup, <a href='/misc/meat#eggs'>eggs</a>, and rum extract
 
-- In a separate large bowl, cream together coconut oil and sugar with a hand mixer until light and fluffy, about 2-3 minutes
+- In a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, cream together <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/hidden-sugar'>sugar</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until light and fluffy, about 2-3 minutes
 - <img src='/assets/Misc/Unhealthy/Rum Cake/4-parts.jpg' alt='' class='instruction-image'>
 
-- Alternate adding in the dry and wet ingredients (about 1/2 cup each at a time) to the bowl with the oil and sugar. Mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- Alternate adding in the dry and wet ingredients (about 1/2 cup each at a time) to the bowl with the <a href='/misc/fats'>oil</a> and <a href='/misc/hidden-sugar'>sugar</a>. Mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
 - <img src='/assets/Misc/Unhealthy/Rum Cake/bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer the batter to your loaf pan, and top with shredded coconut
+- Transfer the batter to your loaf pan, and top with <a href='/misc/nuts#coconut'>shredded coconut</a>
 - <img src='/assets/Misc/Unhealthy/Rum Cake/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 60 minutes, or until a toothpick comes out clean and the cake has an internal temperature of 205F.  Let cool in the pan for 15 minutes before transferring to a wire rack to cool completely before slicing
+- Bake at 350F for about 60 minutes, or until a toothpick comes out clean and the cake has an <a href='https://amzn.to/4kmobG2'>internal temperature</a> of 205F.  Let cool in the pan for 15 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely before slicing
 - <img src='/assets/Misc/Unhealthy/Rum Cake/baked.jpg' alt='' class='instruction-image'>
 Notes:
 ---
