@@ -54,31 +54,31 @@ tags:
 - low moisture part skim
 - shredded cheese
 - pepperoni
-Description: This pizza crust is a delicious lower <a href='/misc/carbs'>carb</a> and <a href='/misc/celiac'>gluten free</a> option, being made of riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, cheese, and ground <a href='/misc/seeds#flax-seeds'>flax</a> seeds. It is very simple to make, and can be topped with whatever you like, such as <a href='/misc/meat'>meat</a> or roasted veggies. This recipe yields 2 healthier personal pizzas
+Description: This pizza crust is a delicious lower <a href='/misc/carbs'>carb</a> and <a href='/misc/celiac'>gluten free</a> option, being made of riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and <a href='/misc/seeds#flax-seeds'>ground flax seeds</a>. It is very simple to make, and can be topped with whatever you like, such as <a href='/misc/meat'>meat</a> or roasted <a href='/misc/veggies'>veggies</a>. This recipe yields 2 healthier personal pizzas
 Instructions:
-- Preheat your oven to as hot as it goes (500F for me) with a pizza stone for around an hour. Heating the stone for a long time gets it as hot as possible, leading to the most browning on the underside of your pizza. This step is optional; if you don't have a pizza stone you can also bake on a cookie sheet
+- Preheat your oven to as hot as it goes (500F for me) with a <a href='https://amzn.to/4ccXgLm'>pizza stone</a> for around an hour. Heating the <a href='https://amzn.to/4ccXgLm'>stone</a> for a long time gets it as hot as possible, leading to the most browning on the underside of your pizza. This step is optional; if you don't have a <a href='https://amzn.to/4ccXgLm'>pizza stone</a> you can also bake on a <a href='https://amzn.to/45sRAsB'>cookie sheet</a>
 
-- Add your cauliflower to a food processor, and pulse until you have a rice like consistency. Don't over blend
+- Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse until you have a rice like consistency. Don't over blend
 
-- Transfer the cauliflower to a medium glass bowl, and cover with a plate. Microwave on high for 5 minutes
+- Transfer the <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>, and cover with a plate. Microwave on high for 5 minutes
 
-- Meanwhile, add the rest of the crust ingredients (egg, mozzarella, parmesan, flax, oregano, garlic powder, onion powder, and red pepper flakes) to a bowl and mix
+- Meanwhile, add the rest of the crust ingredients (<a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#mozzarella'>mozzarella</a>, <a href='/misc/dairy#grated-cheese'>parmesan</a>, <a href='/misc/seeds#flax-seeds'>flax</a>, oregano, garlic powder, onion powder, and red pepper flakes) to a bowl and mix
 - <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-separate.jpg' alt='' class='instruction-image'>
 
-- Add the cauliflower to the bowl, and mix until fully combined.  Divide the dough in half for 2 pizzas
+- Add the <a href='/misc/veggies#cauliflower'>cauliflower</a> to the bowl, and mix until fully combined.  Divide the dough in half for 2 pizzas
 - <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-bowls.jpg' alt='' class='instruction-image'>
 
 - Transfer the dough to a piece of parchment paper, and flatten into 2 even round crusts
 - <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-raw.jpg' alt='' class='instruction-image'>
 
-- Blind bake the crust on a preheated stone on the parchment paper until golden brown, about 10 minutes
+- Blind bake the crust on a preheated <a href='https://amzn.to/4ccXgLm'>stone</a> on the parchment paper until golden brown, about 10 minutes
 - <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-baked.jpg' alt='' class='instruction-image'>
 
-- Remove the crusts from the oven, top with sauce, cheese, and any other toppings, and return to the oven. Bake for an additional 8 minutes to warm the sauce and melt the cheese. Optionally, broil the top for 1-2 minutes. Watch it carefully so it doesn't burn
+- Remove the crusts from the oven, top with <a href='/recipes/savory-sauces'>sauce</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and any other toppings, and return to the oven. Bake for an additional 8 minutes to warm the <a href='/recipes/savory-sauces'>sauce</a> and melt the <a href='/misc/dairy#mozzarella'>cheese</a>. Optionally, broil the top for 1-2 minutes. Watch it carefully so it doesn't burn
 
-- Remove the pizzas from the oven, and transfer to a cooling rack. Allow to cool for about 5 minutes before slicing and enjoying
+- Remove the pizzas from the oven, and transfer to a <a href='https://amzn.to/4qQNmn2'>cooling rack</a>. Allow to cool for about 5 minutes before slicing and enjoying
 - <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-topped.jpg' alt='' class='instruction-image'>
 
-- To reheat, air fry at 400F for 3-5 minutes
+- To reheat, <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 3-5 minutes
 Notes:
 ---
