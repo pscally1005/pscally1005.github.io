@@ -509,6 +509,7 @@ LINKS = {
   "oyster": "/misc/fish#oyster",
   "canned salmon": "/misc/fish#salmon",
   "salmon": "/misc/fish#salmon",
+  "lox": "/misc/fish#salmon",
   "canned sardines": "/misc/fish#sardine",
   "sardines": "/misc/fish#sardine",
   "sardine": "/misc/fish#sardine",
@@ -1302,6 +1303,8 @@ LINKS = {
   "total carb": "/misc/carbs",
   "net carbs": "/misc/carbs",
   "net carb": "/misc/carbs",
+  "complex carbs": "/misc/carbs",
+  "complex carb": "/misc/carbs",
   "carbs": "/misc/carbs",
   "carb": "/misc/carbs",
   "refined starches": "/misc/carbs",
@@ -1540,6 +1543,8 @@ LINKS = {
   "bread pan": "https://amzn.to/3YUjIkN",
   "cookie sheets": "https://amzn.to/45sRAsB",
   "cookie sheet": "https://amzn.to/45sRAsB",
+  "baking trays": "https://amzn.to/45sRAsB",
+  "baking tray": "https://amzn.to/45sRAsB",
   "baking sheets": "https://amzn.to/45sRAsB",
   "baking sheet": "https://amzn.to/45sRAsB",
   "baking pans": "https://amzn.to/45sRAsB",
@@ -1813,6 +1818,7 @@ LINKS = {
   "bread recipe": "/recipes/bread",
   "breads": "/recipes/bread",
   "bread": "/recipes/bread",
+  # "flatbread": "/recipes/bread",
   # "buns": "/recipes/bread",
   # "bun": "/recipes/bread",
   # "bagels": "/recipes/bread",
@@ -2206,6 +2212,14 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "bread dough",
+    "bake or toast",
+    "traditional bread",
+    "this bread is",
+    "typical bread",
+    "slices of bread",
+    "slice of bread",
+    "sandwich or toast",
     "rice-like",
     "rice like",
     "dusted flour",
@@ -3264,7 +3278,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2025")):
                 continue
 
             # exclude some files

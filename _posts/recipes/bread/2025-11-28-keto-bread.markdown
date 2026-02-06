@@ -52,28 +52,27 @@ tags:
 - fiber
 - low carb
 - high fat
-Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is perfectly high in <a href='/misc/protein'>protein</a> from the <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, high in healthy <a href='/misc/fats'>fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>, and high in <a href='/misc/fiber'>fiber</a> from the inulin. At about 100 <a href='/misc/calories'>calories</a> per slice, this <a href='/recipes/bread'>bread</a> is the perfect low <a href='/misc/carbs'>carb</a> substitute with only 2.5 g of net <a href='/misc/carbs'>carbs</a> per slice
+Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is perfectly high in <a href='/misc/protein'>protein</a> from the <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, high in <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>, and high in <a href='/misc/fiber'>fiber</a> from the <a href='https://amzn.to/47w8h7R'>inulin</a>. At about 100 <a href='/misc/calories'>calories</a> per slice, this bread is the perfect <a href='/misc/carbs'>low carb</a> substitute with only 2.5 g of <a href='/misc/carbs'>net carbs</a> per slice
 Instructions:
 - In a large glass, add your water, and microwave for 1 minute to warm it
 
-- In a large bowl, whisk together the dry ingredients - almond flour, vital wheat gluten, inulin, yeast, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, yeast, and salt
 
-- Inulin, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of honey (21 g) or granulated sugar (12 g) if you prefer.  For another recipe with inulin, check out my <a href='/recipes/fiber-one-brownies'>Copycat Fiber One Brownies</a>
-
-- Add in the vinegar and warm water, and bring together with a dough scraper. Let the dough rest for 5 minutes
+- Add in the vinegar and warm water, and bring together with a <a href='https://amzn.to/44XmqKz'>dough scraper</a>. Let the dough rest for 5 minutes
 - <img src='/assets/Food/Bread/Keto Bread/bowl.jpg' alt='' class='instruction-image'>
 
 - Turn the dough onto a clean counter, and knead for about 10 minutes, until you have smooth and cohesive bread dough that's stretchy and doesn't tear
 - <img src='/assets/Food/Bread/Keto Bread/counter.jpg' alt='' class='instruction-image'>
 
-- Lightly grease a 9x5" bread pan, and add in your dough. Cover with a clean towel, and let proof at room temperature for 2 hours.  Below are the before and after pictures
+- Lightly grease a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>, and add in your dough. Cover with a clean towel, and let proof at room temperature for 2 hours.  Below are the before and after pictures
 - <img src='/assets/Food/Bread/Keto Bread/pre-rise.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Keto Bread/post-rise.jpg' alt='' class='instruction-image'>
 
-- Bake the proofed loaf at 350F for about 45 minutes, or until lightly browned and the internal temperature is around 210F
+- Bake the proofed loaf at 350F for about 45 minutes, or until lightly browned and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around 210F
 - <img src='/assets/Food/Bread/Keto Bread/baked.jpg' alt='' class='instruction-image'>
 
 - Allow the bread to cool totally in the pan before removing and slicing
 - <img src='/assets/Food/Bread/Keto Bread/sliced.jpg' alt='' class='instruction-image'>
 Notes:
+- <a href='https://amzn.to/47w8h7R'>Inulin</a>, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of honey (21 g) or granulated <a href='/misc/hidden-sugar'>sugar</a> (12 g) if you prefer.  For another recipe with <a href='https://amzn.to/47w8h7R'>inulin</a>, check out my <a href='/recipes/fiber-one-brownies'>Copycat Fiber One Brownies</a>
 ---
