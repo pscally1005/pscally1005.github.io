@@ -33,11 +33,11 @@ I love <a href='/misc/veggies#artichoke'>artichokes</a>, but I've only ever prev
 
 <img src='/assets/Misc/Cooking/Artichoke/artichoke-whole.jpg' alt='' class='larger-image'>
 <u><font size='+2'>Snipping</font></u><br>
-Start by washing your <a href='/misc/veggies#artichoke'>artichokes</a> under cold water, and drying them with a paper towel.  Using a pair of kitchen shears, snip the pointy ends off each of the leaves.  After, using a serated knife, cut about 1-2 inches off the stem, and 1-2 inches off the top.  If you're slicing and it feel too stiff, move your <a href='https://amzn.to/4jlDKwc'>knife</a> back and cut off more.
+Start by washing your <a href='/misc/veggies#artichoke'>artichokes</a> under cold water, and drying them with a paper towel.  Using a pair of kitchen shears, snip the pointy ends off each of the leaves.  After, using a serrated knife, cut about 1-2 inches off the stem, and 1-2 inches off the top.  If you're slicing and it feel too stiff, move your <a href='https://amzn.to/4jlDKwc'>knife</a> back and cut off more.
 
 <img src='/assets/Misc/Cooking/Artichoke/artichoke-snipped.jpg' alt='' class='larger-image'>
 <u><font size='+2'>Slicing and Seasoning</font></u><br>
-Next, using your serated knife, slice the <a href='/misc/veggies#artichoke'>artichoke</a> in half lengthwise.  Rub down the entire inside and outside of the <a href='/misc/veggies#artichoke'>artichoke</a> with <a href='/misc/fruit#lemon'>lemon</a> or <a href='/misc/fruit#lime'>lime</a> to prevent browning.  At it's core, you'll see the fuzzy "choke".  Using a spoon, scoop out all the fuzz, and discard.  The choke is inedible and a choking hazard.  Also discard and purple leaves in the center.
+Next, using your serrated knife, slice the <a href='/misc/veggies#artichoke'>artichoke</a> in half lengthwise.  Rub down the entire inside and outside of the <a href='/misc/veggies#artichoke'>artichoke</a> with <a href='/misc/fruit#lemon'>lemon</a> or <a href='/misc/fruit#lime'>lime</a> to prevent browning.  At it's core, you'll see the fuzzy "choke".  Using a spoon, scoop out all the fuzz, and discard.  The choke is inedible and a choking hazard.  Also discard and purple leaves in the center.
 
 For seasoning, I drizzled both the inside and outside of each <a href='/misc/veggies#artichoke'>artichoke</a> with olive oil, and seasoned with lemon pepper, garlic powder, and onion powder.  Some people also stuff <a href='/misc/veggies#garlic'>garlic cloves</a> in the hole in the center where the choke used to be
 

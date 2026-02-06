@@ -52,12 +52,12 @@ tags:
 - egg whites
 Description: This healthy <a href='/recipes/bread'>bread</a> loaf alternative contains only 3 ingredients and is essentially pure <a href='/misc/protein'>protein</a>, being practically <a href='/misc/carbs'>carb</a> and <a href='/misc/fats'>fat</a> free. The base relies on <a href='/misc/meat#egg-whites'>liquid egg whites</a>, which are whipped to provide air and structure, similar to an angel food cake.  Then <a href='/misc/dairy#whey'>protein powder</a> is folded in to provide additional structure and <a href='/misc/protein'>protein</a>, as well as a midly sweet flavor. You can have the entire <a href='/recipes/bread'>bread</a> prepared in less time than it takes to heat up the oven!
 Instructions:
-- Preheat your oven to 350F. Line a 9x5" bread pan with parchment paper, and lightly grease the paper
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and lightly grease the paper
 
-- In a large glass or metal bowl, whip your egg whites on high speed with a hand mixer for about 5 minutes, or until you have stiff peaks
+- In a large glass or <a href='https://amzn.to/4rb3CiD'>metal bowl</a>, whip your <a href='/misc/meat#egg-whites'>egg whites</a> on high speed with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> for about 5 minutes, or until you have stiff peaks
 - <img src='/assets/Food/Bread/Cloud Loaf/egg-whites.jpg' alt='' class='instruction-image'>
 
-- Add in the protein powder and lemon juice. Mix on low speed just until everything is fully incorporated
+- Add in the <a href='/misc/dairy#whey'>protein powder</a> and <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Mix on low speed just until everything is fully incorporated
 - <img src='/assets/Food/Bread/Cloud Loaf/protein-powder.jpg' alt='' class='instruction-image'>
 
 - Carefully transfer the batter into your prepared pan, trying to deflate it as little as possible
