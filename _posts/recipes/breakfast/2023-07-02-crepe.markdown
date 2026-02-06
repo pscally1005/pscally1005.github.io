@@ -53,17 +53,17 @@ tags:
 - vic
 Description: Crepes are a fun Sunday morning <a href='/recipes/breakfast'>breakfast</a> for the family, and this recipe is a great <a href='/misc/grains#whole-wheat'>whole wheat</a> crepe batter that can be topped with anything, sweet or savory.  The nutrition facts just for the crepes themselves, not any filling
 Instructions:
-- To a large bowl, beat the egg. Add in the yogurt, maple syrup, salt, vanilla, and milk. Whisk until fully combined, then whisk in the flour
+- To a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat the <a href='/misc/meat#eggs'>egg</a>. Add in the <a href='/misc/dairy#yogurt'>yogurt</a>, maple syrup, salt, vanilla, and <a href='/misc/dairy#skim-milk'>milk</a>. Whisk until fully combined, then whisk in the flour
 
 - Refrigerate at least 30-60 minutes, but preferably overnight
 
-- Spray an 8" pan with cooking spray between each one and set the burner to medium heat. Using a ¼ cup, fill about halfway and pour into the pan. Immediately swirl the pan around to thin out the crepe and make as wide as the pan
+- <a href='https://amzn.to/3Hdg0gk'>Spray</a> an <a href='https://amzn.to/4qFE9y3'>8" pan</a> with <a href='https://amzn.to/3Hdg0gk'>cooking spray</a> between each one and set the burner to medium heat. Using a ¼ cup, fill about halfway and pour into the pan. Immediately swirl the pan around to thin out the crepe and make as wide as the pan
 
 - Cook for about a minute on each side, or until opposite side starts to get some color
 
 - Serve each one with some filling. Makes about 10 small crepes
 
-- Stack leftovers aside on a plate or wire rack to cool
+- Stack leftovers aside on a plate or <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool
 - <img src='/assets/Food/Breakfast/Crepe/crepe-6.jpg' alt='' class='instruction-image'>
 Notes:
 ---

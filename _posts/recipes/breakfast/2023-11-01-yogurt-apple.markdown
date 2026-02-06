@@ -51,11 +51,11 @@ tags:
 - nut
 - chopped
 - air fry
-Description: Plain nonfat <a href='/misc/dairy#yogurt'>greek yogurt</a> combined with whey protein powder makes a <a href='/misc/protein'>protein</a> packed bowl to start your day off right.  I've made 4 different variations of yogurt bowls that you can easily prep the night before for an easy breakfast. We have <a href='/recipes/yogurt-pbj'>PB&J</a>, Apple Pie, <a href='/recipes/yogurt-choc'>Chocolate</a>, and <a href='/recipes/yogurt-banana'>PB Banana</a> for you to enjoy.  You can also check out any of my other <a href='/yogurt'>yogurt recipes</a>!
+Description: <a href='/misc/dairy#yogurt'>Plain nonfat greek yogurt</a> combined with <a href='/misc/dairy#whey'>whey protein powder</a> makes a <a href='/misc/protein'>protein</a> packed bowl to start your day off right.  I've made 4 different variations of <a href='/misc/dairy#yogurt'>yogurt</a> bowls that you can easily prep the night before for an easy <a href='/recipes/breakfast'>breakfast</a>. We have <a href='/recipes/yogurt-pbj'>PB&J</a>, Apple Pie, <a href='/recipes/yogurt-choc'>Chocolate</a>, and <a href='/recipes/yogurt-banana'>PB Banana</a> for you to enjoy.  You can also check out any of my other <a href='/yogurt'>yogurt recipes</a>!
 Instructions:
-- Heat a small pan over medium heat.  Finely dice your apple, and add to the pan with a splash of water.  Cover and cook until soft and lightly browned.  Add your spices, toast until fragrant (about 30 seconds), and remove from the heat.
+- Heat a <a href='https://amzn.to/4qFE9y3'>small pan</a> over medium heat.  Finely dice your <a href='/misc/fruit#apple'>apple</a>, and add to the pan with a splash of water.  Cover and cook until soft and lightly browned.  Add your spices, toast until fragrant (about 30 seconds), and remove from the heat.
 
-- Mix all ingredients together in a bowl, and top with the cooked apple.  Cover, and refrigerate overnight
+- Mix all ingredients together in a bowl, and top with the cooked <a href='/misc/fruit#apple'>apple</a>.  Cover, and refrigerate overnight
 - <img src='/assets/Food/Breakfast/Yogurt/yogurt-apple-separate.jpg' alt='' class='instruction-image'>
 Notes:
 - |
