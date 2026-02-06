@@ -48,20 +48,20 @@ tags:
 - cottage cheese
 - rolled oats
 - eggs
-Description: These easy and healthy bread rolls are made from just rolled <a href='/misc/grains#oats'>oats</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, and eggs. They take only a few minutes to prep and rest, and they bake up nice and thin and crispy, perfect for a sandwich or toast.  Here, I made a pulled <a href='/misc/meat#chicken-breast'>chicken</a> sandwich using my <a href='/recipes/salsa-chicken'>Two Ingredient Salsa Chicken</a>
+Description: These easy and healthy <a href='/recipes/bread'>bread</a> rolls are made from just <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, and <a href='/misc/meat#eggs'>eggs</a>. They take only a few minutes to prep and rest, and they bake up nice and thin and crispy, perfect for a sandwich or toast.  Here, I made a pulled <a href='/misc/meat#chicken-breast'>chicken</a> sandwich using my <a href='/recipes/salsa-chicken'>Two Ingredient Salsa Chicken</a>
 Instructions:
-- In a medium bowl, beat your eggs with a fork until smooth. Add in your (blended) cottage cheese, baking powder, and salt. Mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, beat your <a href='/misc/meat#eggs'>eggs</a> with a fork until smooth. Add in your (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, baking powder, and salt. Mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
 
-- Add in the rolled oats, and fold together until well combined. The batter should look too wet; let chill in the fridge for at least 30 minutes, so the oats can soak up the excess moisture
+- Add in the <a href='/misc/grains#oats'>rolled oats</a>, and fold together until well combined. The batter should look too wet; let chill in the fridge for at least 30 minutes, so the <a href='/misc/grains#oats'>oats</a> can soak up the excess moisture
 - <img src='/assets/Food/Bread/CC rolls/bowl.jpg' alt='' class='instruction-image'>
 
-- Preheat your oven to 400F, and line a cookie sheet with parchment paper. Scoop the batter onto the pan (about 100 g each). Lightly wet your hands, and shape into an even circle. Optionally, top with everything bagel seasoning
+- Preheat your oven to 400F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Scoop the batter onto the pan (about 100 g each). Lightly wet your hands, and shape into an even circle. Optionally, top with everything bagel seasoning
 - <img src='/assets/Food/Bread/CC rolls/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 400F for about 20 minutes, or until browned and firm to the touch
 - <img src='/assets/Food/Bread/CC rolls/baked.jpg' alt='' class='instruction-image'>
 
-- Transfer to a wire rack to cool before slicing in half. Store in an airtight bag in the fridge for up to 1 week, or indefinitely in the freezer
+- Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool before slicing in half. Store in an airtight bag in the fridge for up to 1 week, or indefinitely in the freezer
 - <img src='/assets/Food/Bread/CC rolls/closed.jpg' alt='' class='instruction-image'>
 Notes:
 ---
