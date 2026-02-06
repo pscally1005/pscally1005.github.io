@@ -4,12 +4,18 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\bread"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\breakfast"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
 
   # RECIPES
+  "whole wheat sourdough starter": "/misc/whole-wheat-sourdough#starter",
+  "sourdough starter": "/misc/whole-wheat-sourdough#starter",
+  "whole wheat sourdough bread": "/misc/whole-wheat-sourdough#bread-recipe",
+  "sourdough bread": "/misc/whole-wheat-sourdough#bread-recipe",
+  "sourdough": "/misc/whole-wheat-sourdough#bread-recipe",
+  "starter": "/misc/whole-wheat-sourdough#starter",
   "chicken fat": "/misc/slow-cooker-chicken",
   "shmaltz": "/misc/slow-cooker-chicken",
   "homemade broth": "/misc/slow-cooker-chicken",
@@ -1826,6 +1832,7 @@ LINKS = {
   "bread recipe": "/recipes/bread",
   "breads": "/recipes/bread",
   "bread": "/recipes/bread",
+  # "flatbreads": "/recipes/bread",
   # "flatbread": "/recipes/bread",
   # "buns": "/recipes/bread",
   # "bun": "/recipes/bread",
@@ -2220,6 +2227,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "like a pancake",
+    "of full fat",
+    "graham cracker crust",
     "bake the pretzels",
     "pretzel pan",
     "savory pretzel",
@@ -2372,7 +2382,7 @@ EXCLUDED_PHRASES = [
     "store bought bread",
     "whole wheat breads",
     "loaves of bread",
-    "loaf of bread",
+    # "loaf of bread",
     "bread products",
     "bread product",
     "protein cookies",
@@ -3000,6 +3010,7 @@ EXCLUDED_PHRASES = [
 ]
 
 REMOVE_CATEGORIES = [
+    "/misc/whole-wheat-sourdough",
     "/misc/beans",
     "/misc/dairy",
     "/misc/fish",
@@ -3310,7 +3321,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026")):
+            if not file.startswith(("2023")):
                 continue
 
             # exclude some files
