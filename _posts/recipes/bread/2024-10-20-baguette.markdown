@@ -51,11 +51,11 @@ tags:
 - italian bread
 - french bread
 - garlic bread
-Description: I have strong memories of French baguettes and Italian bread from holidays growing up.  This recipe is simply my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>, but made into 4 small baguettes instead of a loaf of sandwich bread.  It's great toasted on it's own, or used for <a href='/recipes/breaded-chicken'>bruschetta</a>
+Description: I have strong memories of French baguettes and Italian <a href='/recipes/bread'>bread</a> from holidays growing up.  This recipe is simply my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>, but made into 4 small baguettes instead of a loaf of sandwich <a href='/recipes/bread'>bread</a>.  It's great toasted on it's own, or used for <a href='/recipes/breaded-chicken'>bruschetta</a>
 Instructions:
 - Add your water to a glass, and microwave for 1 minute to warm it.  Add yeast, salt, and warm water to a large mixing bowl, and mix.  Let sit for 5 minutes to make sure the yeast is still alive
 
-- In a separate bowl, whisk together whole wheat flour and vital wheat gluten.  Add the flours into the wet bowl, and mix until well combined with a dough scraper.  Cover with a cloth and let rest for 30 minutes
+- In a separate bowl, whisk together <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>.  Add the flours into the wet bowl, and mix until well combined with a <a href='https://amzn.to/44XmqKz'>dough scraper</a>.  Cover with a cloth and let rest for 30 minutes
 
 - 30 minutes later, turn the dough onto the table and knead for 10 minutes. When done, shape the dough into a tight ball, return dough to bowl (seam down), cover with a cloth, and let rise for 1-1.5 hours.  It will have about doubled after the initial rest
 - <img src='/assets/Food/Bread/Whole Wheat Bread/ww-3.jpg' alt='' class='instruction-image'>
@@ -64,12 +64,12 @@ Instructions:
 - Divide the dough in 4 equal pieces (about 210 g), form each dough into a tight ball, cover, and let rest for 15 minutes
 - <img src='/assets/Food/Bread/Baguette/baguette-balls.jpg' alt='' class='instruction-image'>
 
-- Roll each piece into a tight baguette, pinching the seam shut.  Transfer the loaves to a baking sheet, dust the tops with flour, and score with a bread lame.  Cover and let rest for 1 hour
+- Roll each piece into a tight baguette, pinching the seam shut.  Transfer the loaves to a <a href='https://amzn.to/45sRAsB'>baking sheet</a>, dust the tops with flour, and score with a <a href='https://amzn.to/43Cj65h'>bread lame</a>.  Cover and let rest for 1 hour
 - <img src='/assets/Food/Bread/Baguette/baguette-raw.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, preheat your oven to 450F with the baking stone on the middle shelf, and a 9x13" pan on the bottom shelf for the water.  You can bake on a cookie sheet instead, but the bottom won't be as crispy.  The water pan is to steam the bread, making the crust crispier.  This is optional as well
+- Meanwhile, preheat your oven to 450F with the <a href='https://amzn.to/4ccXgLm'>baking stone</a> on the middle shelf, and a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> on the bottom shelf for the water.  You can bake on a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> instead, but the bottom won't be as crispy.  The water pan is to steam the bread, making the crust crispier.  This is optional as well
 
-- Put the baguettes into the oven onto the stone (or on the cookie sheet), and fill the bottom tray with hot water.  Bake for 15 minutes, or until the internal temperature is at least 205F, and the bottom sounds hollow when tapped.  Transfer to a wire rack, and let cool for 10 minutes before slicing
+- Put the baguettes into the oven onto the <a href='https://amzn.to/4ccXgLm'>stone</a> (or on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>), and fill the bottom tray with hot water.  Bake for 15 minutes, or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least 205F, and the bottom sounds hollow when tapped.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>, and let cool for 10 minutes before slicing
 - <img src='/assets/Food/Bread/Baguette/baguette-cooled.jpg' alt='' class='instruction-image'>
 Notes:
 ---

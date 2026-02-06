@@ -1573,6 +1573,7 @@ LINKS = {
   "lightly grease with oil": "https://amzn.to/3Hdg0gk",
   "lightly spray with oil": "https://amzn.to/3Hdg0gk",
   "grease with oil": "https://amzn.to/3Hdg0gk",
+  "lightly oil": "https://amzn.to/3Hdg0gk",
   "glass containers": "https://amzn.to/4mPZcMW",
   "glass container": "https://amzn.to/4mPZcMW",
   "glass meal prep containers": "https://amzn.to/4mPZcMW",
@@ -2205,6 +2206,14 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "rice-like",
+    "rice like",
+    "dusted flour",
+    "sifted flour",
+    "pizza dough",
+    "leftover bread",
+    "so toast",
+    "- flour",
     "the bread",
     "before baking",
     # "savory cornbread",
