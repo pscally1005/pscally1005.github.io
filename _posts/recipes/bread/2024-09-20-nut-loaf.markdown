@@ -61,28 +61,28 @@ tags:
 - sunflower seeds
 - pumpkin seeds
 - pepitas
-Description: This Norwegian bread is naturally Paleo, vegan, and <a href='/misc/celiac'>gluten free</a>. It's a simple to make and nutritious bread that's full of healthy <a href='/misc/fats'>fats</a>, <a href='/misc/fiber'>fiber</a>, and a decent bit of <a href='/misc/protein'>protein</a> from all the <a href='/misc/nuts'>nuts</a> and seeds. As opposed to regular bread, this loaf is dense, crunchy, and chewy, but still delicious when toasted.  It's very versatile, going well topped with hummus, <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/nuts#peanuts'>peanut</a> butter, jam, used for a sandwich, or crumbled onto a salad.
+Description: This Norwegian <a href='/recipes/bread'>bread</a> is naturally Paleo, vegan, and <a href='/misc/celiac'>gluten free</a>. It's a simple to make and nutritious <a href='/recipes/bread'>bread</a> that's full of <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and a decent bit of <a href='/misc/protein'>protein</a> from all the <a href='/misc/nuts'>nuts</a> and <a href='/misc/seeds'>seeds</a>. As opposed to regular <a href='/recipes/bread'>bread</a>, this loaf is dense, crunchy, and chewy, but still delicious when toasted.  It's very versatile, going well topped with <a href='/hummus'>hummus</a>, <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, jam, used for a sandwich, or crumbled onto a <a href='/salad'>salad</a>.
 Instructions:
-- Preheat your oven to 350F, and line a 9x5" bread pan with parchment paper
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper
 
-- In a food processor, blend the raisins and almonds until finely chopped. Transfer to a bowl
+- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend the <a href='/misc/fruit#raisins'>raisins</a> and <a href='/misc/nuts#almonds'>almonds</a> until finely chopped. Transfer to a bowl
 - <img src='/assets/Food/Bread/Nut Loaf/nut-loaf-processor.jpg' alt='' class='instruction-image'>
 
-- Add the rest of the dry ingredients to the bowl, and whisk together (or mix with your hands) - flax, oats, sunflower, pumpkin, chia, psyllium, and salt. Optionally, mix in some cinnamon
+- Add the rest of the dry ingredients to the bowl, and whisk together (or mix with your hands) - <a href='/misc/seeds#flax-seeds'>flax</a>, <a href='/misc/grains#oats'>oats</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower</a>, <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/seeds#chia-seeds'>chia</a>, psyllium, and salt. Optionally, mix in some cinnamon
 - <img src='/assets/Food/Bread/Nut Loaf/nut-loaf-nuts.jpg' alt='' class='instruction-image'>
 
-- Add the applesauce (or melted coconut oil) to the bowl, and mix in with the nuts. Optionally, mix in some vanilla or almond extract
+- Add the <a href='/misc/fruit#apple'>applesauce</a> (or melted <a href='/misc/nuts#coconut'>coconut oil</a>) to the bowl, and mix in with the <a href='/misc/nuts'>nuts</a>. Optionally, mix in some vanilla or almond extract
 
 - Warm your water in the microwave to about 100F, and mix into the bowl until you have a thick dough and everything is just soaked
 - <img src='/assets/Food/Bread/Nut Loaf/nut-loaf-bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer to your bread pan, and press down into a dense, even layer. Place a piece of parchment paper on top, and use it to press the dough down as dense as possible . Smooth out the top
+- Transfer to your <a href='https://amzn.to/3YUjIkN'>bread pan</a>, and press down into a dense, even layer. Place a piece of parchment paper on top, and use it to press the dough down as dense as possible . Smooth out the top
 - <img src='/assets/Food/Bread/Nut Loaf/nut-loaf-raw.jpg' alt='' class='instruction-image'>
 
-- Bake in the pan for 45 minutes at 350F. After 45 minutes, remove from the pan and place directly onto a baking sheet. Bake for an additional 25 minutes. Transfer to a wire rack to cool
+- Bake in the pan for 45 minutes at 350F. After 45 minutes, remove from the pan and place directly onto a <a href='https://amzn.to/45sRAsB'>baking sheet</a>. Bake for an additional 25 minutes. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool
 - <img src='/assets/Food/Bread/Nut Loaf/nut-loaf-baked.jpg' alt='' class='instruction-image'>
 
-- Let cool completely before slicing. Cut into thin slices with a serrated knife. Don't worry, the slices hold together way better than you'd expect them to
+- Let cool completely before slicing. Cut into thin slices with a serrated <a href='https://amzn.to/4jlDKwc'>knife</a>. Don't worry, the slices hold together way better than you'd expect them to
 - <img src='/assets/Food/Bread/Nut Loaf/nut-loaf-sliced.jpg' alt='' class='instruction-image'>
 Notes:
 ---
