@@ -54,9 +54,9 @@ tags:
 - pizza dough
 Description: Everybody loves pizza right? This is a 2 day process, but totally worth it for a good homemade pizza, plus it's a fun activity to do with a few people. Prep the dough the night before, and then have a few people over the next day for dinner. <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> serves to add some extra nutrition and taste to your pizza as well.
 Instructions:
-- Add your water to a glass, and microwave for 1 minute to warm it.  Add yeast, salt, honey, oil, and warm water to a large mixing bowl, and mix.  Let sit for 5 minutes to make sure the yeast is still alive
+- Add your water to a glass, and microwave for 1 minute to warm it.  Add yeast, salt, honey, <a href='/misc/fats'>oil</a>, and warm water to a large mixing bowl, and mix.  Let sit for 5 minutes to make sure the yeast is still alive
 
-- In a separate bowl, whisk together whole wheat flour and vital wheat gluten.  Add the dry into the wet, mix with a dough scraper, and lightly knead in the bowl.  Cover with a cloth and let rest for 1 hour
+- In a separate bowl, whisk together <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>.  Add the dry into the wet, mix with a <a href='https://amzn.to/44XmqKz'>dough scraper</a>, and lightly knead in the bowl.  Cover with a cloth and let rest for 1 hour
 - <img src='/assets/Food/Bread/Pizza/pizza-2.jpg' alt='' class='instruction-image'>
 
 - In the bowl, fold the dough into a smooth ball, and place back in the bowl. Cover and let rest for another 1 hour. Repeat one more time. (Total of three 1 hour rests with stretching and folding)
@@ -64,11 +64,11 @@ Instructions:
 - Turn dough onto the table. Divide into 4 equal pieces (about 145 g), and shape into balls. Place dough balls in lightly oiled bowls, and cover with plastic wrap. Refrigerate until dinner tomorrow night
 - <img src='/assets/Food/Bread/Pizza/pizza-5.jpg' alt='' class='instruction-image'>
 
-- Place baking stone in the oven and preheat the oven to 550F, or as high as your oven goes. Preheat stone for an hour
+- Place <a href='https://amzn.to/4ccXgLm'>baking stone</a> in the oven and preheat the oven to 550F, or as high as your oven goes. Preheat <a href='https://amzn.to/4ccXgLm'>stone</a> for an hour
 
-- Shape dough into pizzas. Top with sauce, cheese, and toppings. I like to use either my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> or <a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a>, as well as some <a href='/recipes/baked-chicken-thighs'>Spiced Baked Chicken Thighs</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>
+- Shape dough into pizzas. Top with <a href='/recipes/savory-sauces'>sauce</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and toppings. I like to use either my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> or <a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a>, as well as some <a href='/recipes/baked-chicken-thighs'>Spiced Baked Chicken Thighs</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>
 
-- Bake for about 7 minutes, or until the crust and bottom is lightly browned, and the cheese is just bubbly.  Transfer to a wire rack to cool for 5 minutes before cutting into 4 slices
+- Bake for about 7 minutes, or until the crust and bottom is lightly browned, and the <a href='/misc/dairy#mozzarella'>cheese</a> is just bubbly.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool for 5 minutes before cutting into 4 slices
 Notes:
 - Every Valentine's Day Vic and I make pizzas together, and she always makes hers into a heart.  Here are some of our past years creations, from 2023 to 2025
 - <img src='/assets/Food/Bread/Pizza/2023.jpg' alt='' class='instruction-image'>

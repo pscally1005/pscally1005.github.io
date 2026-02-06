@@ -46,11 +46,11 @@ tags:
 - stuffed
 - greek
 - hummus
-Description: Pita bread is probably my favorite type of bread. They're specifically designed for sandwiches, taste great, and are light and fluffy. This <a href='/misc/grains#whole-wheat'>whole wheat</a> variety shares all those qualities, while adding some extra <a href='/misc/fiber'>fiber</a> and removing heavily processed <a href='/misc/grains#white-wheat'>white flour</a>. My favorite fillings for it are <a href='/recipes/greek-salad'>Greek Salad with Chicken</a> or <a href='/recipes/turkey-pesto-pita'>Tomato Turkey Pesto Pitas</a>
+Description: Pita <a href='/recipes/bread'>bread</a> is probably my favorite type of <a href='/recipes/bread'>bread</a>. They're specifically designed for sandwiches, taste great, and are light and fluffy. This <a href='/misc/grains#whole-wheat'>whole wheat</a> variety shares all those qualities, while adding some extra <a href='/misc/fiber'>fiber</a> and removing <a href='/misc/processed-foods'>heavily processed</a> <a href='/misc/grains#white-wheat'>white flour</a>. My favorite fillings for it are <a href='/recipes/greek-salad'>Greek Salad with Chicken</a> or <a href='/recipes/turkey-pesto-pita'>Tomato Turkey Pesto Pitas</a>
 Instructions:
-- Add your water to a glass, and microwave for 1 minute to warm it.  Mix warm water, salt, yeast, and oil in a large bowl. Let proof for 5 minutes to make sure the yeast is alive
+- Add your water to a glass, and microwave for 1 minute to warm it.  Mix warm water, salt, yeast, and <a href='/misc/fats'>oil</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Let proof for 5 minutes to make sure the yeast is alive
 
-- In a separate bowl, whisk together the whole wheat flour and vital wheat gluten.  Add the flours into the liquids, and bring together with a dough scraper. Lightly knead for a minute to fully mix everything. Cover and let rest for 20 minutes to autolyze
+- In a separate bowl, whisk together the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>.  Add the flours into the liquids, and bring together with a <a href='https://amzn.to/44XmqKz'>dough scraper</a>. Lightly knead for a minute to fully mix everything. Cover and let rest for 20 minutes to autolyze
 - <img src='/assets/Food/Bread/Pita/pita-2.jpg' alt='' class='instruction-image'>
 
 - Turn dough onto the non floured counter and knead for ~8 minutes. Let rest for 3 minutes, then shape into a ball. Return to the bowl, cover with a cloth, and let rise for 1 hour (should be about doubled in size)
@@ -58,9 +58,9 @@ Instructions:
 
 - Preheat the oven to 500F. Turn dough onto the surface and divide into 10 pieces, ~90 g each. Roll each into a smooth ball, cover, and let rest for 10 minutes
 
-- Using a rolling pin (or your hands) roll each ball to about ¼ inch thick. Place 3 onto an ungreased cookie sheet, and bake for 4-5 minutes. For even better results, bake the pitas on a preheated pizza stone instead
+- Using a rolling pin (or your hands) roll each ball to about ¼ inch thick. Place 3 onto an ungreased <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and bake for 4-5 minutes. For even better results, bake the pitas on a preheated <a href='https://amzn.to/4ccXgLm'>pizza stone</a> instead
 - <img src='/assets/Food/Bread/Pita/pita-5.jpg' alt='' class='instruction-image'>
 
-- Place on wire rack and repeat with the remaining pitas
+- Place on <a href='https://amzn.to/4qQNmn2'>wire rack</a> and repeat with the remaining pitas
 Notes:
 ---

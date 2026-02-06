@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\misc\unhealthy"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\bread"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
@@ -26,10 +26,16 @@ LINKS = {
   "sugar free syrup": "/recipes/sugar-free-syrup",
   "sugar-free syrup": "/recipes/sugar-free-syrup",
   "sf syrup": "/recipes/sugar-free-syrup",
+  "homemade natural peanut butters": "/recipes/natural-peanut-butter",
+  "homemade natural peanut butter": "/recipes/natural-peanut-butter",
   "homemade peanut butters": "/recipes/natural-peanut-butter",
   "homemade peanut butter": "/recipes/natural-peanut-butter",
+  "homemade natural nut butters": "/recipes/natural-peanut-butter",
+  "homemade natural nut butter": "/recipes/natural-peanut-butter",
   "homemade nut butters": "/recipes/natural-peanut-butter",
   "homemade nut butter": "/recipes/natural-peanut-butter",
+  "homemade natural seed butters": "/recipes/natural-peanut-butter",
+  "homemade natural seed butter": "/recipes/natural-peanut-butter",
   "homemade seed butters": "/recipes/natural-peanut-butter",
   "homemade seed butter": "/recipes/natural-peanut-butter",
   "natural peanut butters": "/recipes/natural-peanut-butter",
@@ -53,9 +59,9 @@ LINKS = {
   "cottage cheese flatbread": "/recipes/cottage-cheese-flatbread",
   "smoothies": "/recipes/smoothie",
   "smoothie": "/recipes/smoothie",
-  "whole wheat bread loaves": "/recipes/ww-bread",
-  "whole wheat bread loaf": "/recipes/ww-bread",
-  "whole wheat bread": "/recipes/ww-bread",
+  # "whole wheat bread loaves": "/recipes/ww-bread",
+  # "whole wheat bread loaf": "/recipes/ww-bread",
+  # "whole wheat bread": "/recipes/ww-bread",
   "toast": "/recipes/ww-bread",
   "ricotta cheese": "/misc/homemade-cheese#ricotta",
   "ricotta": "/misc/homemade-cheese#ricotta",
@@ -1434,6 +1440,9 @@ LINKS = {
   "creatine": "/misc/creatine",
 
   # AMAZON
+  "baking stone": "https://amzn.to/4ccXgLm",
+  "pizza stone": "https://amzn.to/4ccXgLm",
+  "stone": "https://amzn.to/4ccXgLm",
   "metal spatula": "https://amzn.to/4raSjqy",
   "silicone spatula": "https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605",
   "spatula": "https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605",
@@ -1548,6 +1557,7 @@ LINKS = {
   "instant thermometer": "https://amzn.to/4kmobG2",
   "thermometer": "https://amzn.to/4kmobG2",
   "internal temperature": "https://amzn.to/4kmobG2",
+  "inside temperature": "https://amzn.to/4kmobG2",
   "spray of oil": "https://amzn.to/3Hdg0gk",
   "spray the paper with oil": "https://amzn.to/3Hdg0gk",
   "spray the pan with oil": "https://amzn.to/3Hdg0gk",
@@ -1688,7 +1698,8 @@ LINKS = {
   "legumes": "/misc/beans",
   "legume": "/misc/beans",
   "dairy": "/misc/dairy",
-  "cheese": "/misc/dairy",
+  # "cheese": "/misc/dairy",
+  "cheese": "/misc/dairy#mozzarella",
   "fish & seafood": "/misc/fish",
   "fish and seafood": "/misc/fish",
   "fish": "/misc/fish",
@@ -2192,6 +2203,18 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "remaining pretzels",
+    "the pretzel",
+    "each pretzel",
+    "add as much soda",
+    "place pretzels",
+    "into pretzels",
+    "move the soda",
+    "washing soda",
+    "healthier pretzels",
+    "healthier pretzel",
+    "hot pretzels",
+    "hot pretzel",
     "any baking recipes",
     "beef tallow",
     "cookie scooop",
@@ -3216,8 +3239,8 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            # if not file.startswith(("2024-08-01-main")):
-            #     continue
+            if not file.startswith(("2023")):
+                continue
 
             # exclude some files
             # if file.startswith("2025-11-03-cheese"):
