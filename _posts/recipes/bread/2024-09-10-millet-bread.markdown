@@ -52,21 +52,21 @@ tags:
 - flax
 - vegan
 - sugar free
-Description: This is the best <a href='/misc/celiac'>gluten free</a> bread I've ever had. As someone who isn't <a href='/misc/celiac'>gluten free</a> and still occasionally eats wheat bread (check out my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>), this is the closest <a href='/misc/celiac'>gluten free</a> bread has ever coming to matching the real deal. The taste and texture are remarkably similar, and I think this bread can stand by itself not just as a great <a href='/misc/celiac'>gluten free</a> bread, but as a great bread overall.  This bread is best served warm
+Description: This is the best <a href='/misc/celiac'>gluten free</a> <a href='/recipes/bread'>bread</a> I've ever had. As someone who isn't <a href='/misc/celiac'>gluten free</a> and still occasionally eats <a href='/misc/grains#whole-wheat'>wheat</a> <a href='/recipes/bread'>bread</a> (check out my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>), this is the closest <a href='/misc/celiac'>gluten free</a> <a href='/recipes/bread'>bread</a> has ever coming to matching the real deal. The taste and texture are remarkably similar, and I think this <a href='/recipes/bread'>bread</a> can stand by itself not just as a great <a href='/misc/celiac'>gluten free</a> <a href='/recipes/bread'>bread</a>, but as a great <a href='/recipes/bread'>bread</a> overall.  This <a href='/recipes/bread'>bread</a> is best served warm
 Instructions:
-- Preheat your oven to 325F, and lightly oil a 9x5" bread pan
+- Preheat your oven to 325F, and <a href='https://amzn.to/3Hdg0gk'>lightly oil</a> a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>
 
-- In a large bowl, combine the water, vinegar, and psyllium husks. Let sit for 5 minutes.  The psyllium husk needs a few minutes to gel; it should be a similar consistency as applesauce
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine the water, vinegar, and psyllium husks. Let sit for 5 minutes.  The psyllium husk needs a few minutes to gel; it should be a similar consistency as <a href='/misc/fruit#apple'>applesauce</a>
 
-- Meanwhile, in a separate large bowl, whisk together the rest of the ingredients - millet flour, baking powder, baking soda, ground flaxseed, and salt
+- Meanwhile, in a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the rest of the ingredients - <a href='/misc/grains#millet'>millet flour</a>, baking powder, baking soda, <a href='/misc/seeds#flax-seeds'>ground flaxseed</a>, and salt
 - <img src='/assets/Food/Bread/Millet Bread/millet-bread-bowls.jpg' alt='' class='instruction-image'>
 
-- Add the wet ingredients into the dry, and mix with a spoon until fully combined. Transfer the dough to your pan. Optionally top with oats, seeds, chopped nuts, dusted flour, etc, or you can score the top with a knife or bread lame. Here, I topped with about 1 tbsp (12 g) chia seeds
+- Add the wet ingredients into the dry, and mix with a spoon until fully combined. Transfer the dough to your pan. Optionally top with <a href='/misc/grains#oats'>oats</a>, <a href='/misc/seeds'>seeds</a>, chopped <a href='/misc/nuts'>nuts</a>, dusted flour, etc, or you can score the top with a knife or <a href='https://amzn.to/43Cj65h'>bread lame</a>. Here, I topped with about 1 tbsp (12 g) <a href='/misc/seeds#chia-seeds'>chia seeds</a>
 
-- Bake at 325F for about 90 minutes, or until the internal temperature is at least 205F
+- Bake at 325F for about 90 minutes, or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least 205F
 - <img src='/assets/Food/Bread/Millet Bread/millet-bread-cooked.jpg' alt='' class='instruction-image'>
 
-- Let cool completely in the fridge on a cooling rack for a few hours before slicing
+- Let cool completely in the fridge on a <a href='https://amzn.to/4qQNmn2'>cooling rack</a> for a few hours before slicing
 - <img src='/assets/Food/Bread/Millet Bread/millet-bread-sliced.jpg' alt='' class='instruction-image'>
 Notes:
 ---
