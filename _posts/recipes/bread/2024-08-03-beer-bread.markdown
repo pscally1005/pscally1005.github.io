@@ -51,7 +51,7 @@ tags:
 - baking powder
 - salt
 - easy
-Description: Beer bread takes me back to my childhood, as my dad would occasionally make it. I had some Blue Moon lying around after a friend left it over, so I decided to turn a bottle into some <a href='/misc/grains#whole-wheat'>whole wheat</a> beer bread for a small gathering. It's a super quick and easy bread that goes well on its own, or with any spread on top, like butter, jam, or <a href='/misc/nuts#peanuts'>peanut</a> butter
+Description: Beer <a href='/recipes/bread'>bread</a> takes me back to my childhood, as my dad would occasionally make it. I had some Blue Moon lying around after a friend left it over, so I decided to turn a bottle into some <a href='/misc/grains#whole-wheat'>whole wheat</a> beer <a href='/recipes/bread'>bread</a> for a small gathering. It's a super quick and easy <a href='/recipes/bread'>bread</a> that goes well on its own, or with any spread on top, like <a href='/misc/dairy#butter'>butter</a>, jam, or <a href='/misc/nuts#peanuts'>peanut butter</a>
 Instructions:
 - Preheat your oven to 375F, and lightly grease a loaf pan with olive oil
 
@@ -60,12 +60,12 @@ Instructions:
 - Add in the honey (or maple syrup) and beer (I used Blue Moon). Mix until it forms a well combined dough
 - <img src='/assets/Food/Bread/Beer Bread/beer-bread-dough.jpg' alt='' class='instruction-image'>
 
-- Transfer your dough into a loaf pan and spread evenly to all sides. Cross the top with a knife, and optionally sprinkle the top with flour (or oat flour)
+- Transfer your dough into a loaf pan and spread evenly to all sides. Cross the top with a knife, and optionally sprinkle the top with flour (or <a href='/misc/grains#oats'>oat flour</a>)
 
-- Bake for about 60 minutes, or until a toothpick comes out clean and the internal temperature is at least 205F.  The edges and top should be golden brown
+- Bake for about 60 minutes, or until a toothpick comes out clean and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least 205F.  The edges and top should be golden brown
 - <img src='/assets/Food/Bread/Beer Bread/beer-bread-baked.jpg' alt='' class='instruction-image'>
 
-- Allow to cool totally in the pan before removing and slicing.  This bread is best served warm, so toast, bake, or air fry for a few minutes at 400F, until done to your liking.  Store any leftover bread in the fridge or freezer
+- Allow to cool totally in the pan before removing and slicing.  This <a href='/recipes/bread'>bread</a> is best served warm, so <a href='/recipes/ww-bread'>toast</a>, bake, or <a href='https://amzn.to/3FuWETp'>air fry</a> for a few minutes at 400F, until done to your liking.  Store any leftover bread in the fridge or freezer
 - <img src='/assets/Food/Bread/Beer Bread/beer-bread-unsliced.jpg' alt='' class='instruction-image'>
 Notes:
 ---
