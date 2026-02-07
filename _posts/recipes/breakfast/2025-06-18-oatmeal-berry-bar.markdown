@@ -61,14 +61,14 @@ tags:
 - rolled oats
 - mashed banana
 - peanut butter fudge bars
-Description: These layered bars are a cross between Raspberry <a href='/misc/grains#oats'>Oatmeal</a> Bars and PB&J Bars.  The base is an <a href='/misc/grains#oats'>oatmeal</a> crumble similar to my <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a>, made with <a href='/misc/grains#oats'>oats</a>, <a href='/misc/fruit#banana'>banana</a>, and powdered <a href='/misc/nuts#peanuts'>peanut</a> butter.  Instead, these feature a homemade <a href='/recipes/strawberry-chia-jam'>Chia Berry Jam</a> sweetened just with monk fruit.  Containing minimally processed ingredients, these bars are a much healthier alternative to conventionally processed granola bars, as they contain a moderate amount of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/carbs'>whole grains</a>, while being <a href='/misc/hidden-sugar'>sugar free</a> and under 100 <a href='/misc/calories'>calories</a>!
+Description: These layered bars are a cross between Raspberry Oatmeal Bars and PB&J Bars.  The base is an <a href='/oatmeal'>oatmeal</a> crumble similar to my <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a>, made with <a href='/misc/grains#oats'>oats</a>, <a href='/misc/fruit#banana'>banana</a>, and <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>.  Instead, these feature a homemade <a href='/recipes/strawberry-chia-jam'>Chia Berry Jam</a> sweetened just with monk fruit.  Containing minimally processed ingredients, these bars are a much healthier alternative to conventionally <a href='/misc/processed-foods'>processed</a> <a href='/misc/fake-healthy-foods#granola'>granola bars</a>, as they contain a moderate amount of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/grains'>whole grains</a>, while being <a href='/misc/hidden-sugar'>sugar free</a> and under 100 <a href='/misc/calories'>calories</a>!
 Instructions:
-- Preheat your oven to 350F, and line a 9" square baking pan with parchment paper
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper
 
-- Microwave your frozen berries for about 2 minutes to defrost. Add berries and sweetener to a medium stainless steel pan over medium low heat, and roughly mash with a potato masher. Cook with occasional stirring until thickened and syrupy, about 10 minutes. Stir in chia seeds and lemon juice. Refrigerate to cool, at least 30 minutes so the chia seeds can thicken the jam
+- Microwave your frozen <a href='/misc/fruit#blueberries'>berries</a> for about 2 minutes to defrost. Add <a href='/misc/fruit#blueberries'>berries</a> and sweetener to a medium <a href='https://amzn.to/4pREQ61'>stainless steel pan</a> over medium low heat, and roughly mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a>. Cook with occasional stirring until thickened and syrupy, about 10 minutes. Stir in <a href='/misc/seeds#chia-seeds'>chia seeds</a> and <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Refrigerate to cool, at least 30 minutes so the <a href='/misc/seeds#chia-seeds'>chia seeds</a> can thicken the jam
 - <img src='/assets/Food/Breakfast/Oat Berry Bar/pan.jpg' alt='' class='instruction-image'>
 
-- In a bowl, combine together the crust/crumble ingredients - mashed banana, cinnamon, salt, vanilla, powdered peanut butter, and oats. Mix until well combined. Add in any milk if too dry, or more oats if too wet. The mixture should be a little sticky
+- In a bowl, combine together the crust/crumble ingredients - mashed <a href='/misc/fruit#banana'>banana</a>, cinnamon, salt, vanilla, <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, and <a href='/misc/grains#oats'>oats</a>. Mix until well combined. Add in any <a href='/misc/dairy#skim-milk'>milk</a> if too dry, or more <a href='/misc/grains#oats'>oats</a> if too wet. The mixture should be a little sticky
 - <img src='/assets/Food/Breakfast/Oat Berry Bar/bowl.jpg' alt='' class='instruction-image'>
 
 - In your pan, spread 2/3 of the oat mixture (320 g) in an even layer to all edges.  Either use a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, or lightly wet your hands to prevent sticking
@@ -80,15 +80,15 @@ Instructions:
 - Crumble the rest of the oatmeal mixture on top of the jam, and lightly press down
 - <img src='/assets/Food/Breakfast/Oat Berry Bar/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 25 minutes, or until the oats are lightly browned and the jam is lightly bubbly
+- Bake at 350F for about 25 minutes, or until the <a href='/misc/grains#oats'>oats</a> are lightly browned and the jam is lightly bubbly
 - <img src='/assets/Food/Breakfast/Oat Berry Bar/bake.jpg' alt='' class='instruction-image'>
 
 - Refrigerate for at least 2 hours to allow the bars to set before slicing
 - <img src='/assets/Food/Breakfast/Oat Berry Bar/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- Today I'm using frozen blueberries, but any kind of frozen (or fresh) berries will work, such as strawberries, raspberries, or blackberries
+- Today I'm using frozen <a href='/misc/fruit#blueberries'>blueberries</a>, but any kind of frozen (or fresh) <a href='/misc/fruit#blueberries'>berries</a> will work, such as <a href='/misc/fruit#strawberries'>strawberries</a>, <a href='/misc/fruit#raspberry'>raspberries</a>, or <a href='/misc/fruit#blackberry'>blackberries</a>
 
-- I'm using granulated monk fruit as my sweetener today, but any granular or liquid sweeteners will work. Examples include allulose, stevia, erythritol, honey, maple syrup, or sugar free syrup. Use the same amount by volume (1 tbsp = 12 g granular sweetener or 20 g liquid sweetener)
+- I'm using <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> as my sweetener today, but any granular or liquid sweeteners will work. Examples include <a href='/misc/fake-healthy-foods#sugar-substitutes'>allulose</a>, stevia, <a href='/misc/fake-healthy-foods#sugar-substitutes'>erythritol</a>, honey, maple syrup, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>. Use the same amount by volume (1 tbsp = 12 g granular sweetener or 20 g liquid sweetener)
 
-- Oat, coconut, or almond flours can be used in place of powdered peanut butter. If using coconut flour, cut the amount in half; keep it the same for almond or oat flours
+- <a href='/misc/grains#oats'>Oat</a>, <a href='/misc/nuts#coconut'>coconut</a>, or <a href='/misc/nuts#almonds'>almond flours</a> can be used in place of <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>. If using <a href='/misc/nuts#coconut'>coconut flour</a>, cut the amount in half; keep it the same for <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/grains#oats'>oat flours</a>
 ---

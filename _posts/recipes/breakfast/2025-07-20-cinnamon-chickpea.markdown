@@ -51,14 +51,19 @@ tags:
 - skim milk
 - unsweetened vanilla almond milk
 - unsweetened almond milk
-Description: This <a href='/misc/fake-healthy-foods#cereal'>cereal</a> is full of <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>, and tastes similar to the sweet cereals you loved growing up, without all the extra <a href='/misc/hidden-sugar'>added sugars</a>. Instead of serving with just plain <a href='/misc/dairy#skim-milk'>milk</a>, I'm also mixing up a little <a href='/misc/protein'>protein</a> shake to use for even more of a boost.
+Description: This <a href='/misc/fake-healthy-foods#cereal'>cereal</a> is full of <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>, and tastes similar to the sweet <a href='/misc/fake-healthy-foods#cereal'>cereals</a> you loved growing up, without all the extra <a href='/misc/hidden-sugar'>added sugars</a>. Instead of serving with just plain <a href='/misc/dairy#skim-milk'>milk</a>, I'm also mixing up a little protein shake to use for even more of a boost.
 Instructions:
-- Preheat your air fryer to 380F, and drain and rinse a can of chickpeas. Add to a bowl, and toss with cinnamon.  Air fry for about 15 minutes, shaking halfway, until golden and crispy
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 380F, and drain and rinse a can of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add to a bowl, and toss with cinnamon.  <a href='https://amzn.to/3FuWETp'>Air fry</a> for about 15 minutes, shaking halfway, until golden and crispy
 - <img src='/assets/Food/Breakfast/Chickpea/roasted.jpg' alt='' class='instruction-image'>
 
-- In a shaker bottle, make your protein shake - milk, protein powder, sweetener, and vanilla.  Any milk will work; almond milk is just what I have today.  Omit the sweetener if your protein powder is flavored.  1/2 tsp (2.5 g) liquid monk fruit will also work in place of the granulated
+- In a shaker bottle, make your protein shake - <a href='/misc/dairy#skim-milk'>milk</a>, <a href='/misc/dairy#whey'>protein powder</a>, sweetener, and vanilla
 
-- Pour milk over the cereal in a small bowl.  Store leftovers in an airtight bag at <b>room temperature</b>
+- Pour <a href='/misc/dairy#skim-milk'>milk</a> over the <a href='/misc/fake-healthy-foods#cereal'>cereal</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a>.  Store leftovers in an airtight bag at <b>room temperature</b>
 - <img src='/assets/Food/Breakfast/Chickpea/no-milk.jpg' alt='' class='instruction-image'>
 Notes:
+- Any <a href='/misc/dairy#skim-milk'>milk</a> will work; <a href='/misc/dairy#almond-milk'>almond milk</a> is just what I have today
+
+- Omit the sweetener if your <a href='/misc/dairy#whey'>protein powder</a> is flavored
+
+- 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> will also work in place of the granulated
 ---

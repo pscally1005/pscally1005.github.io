@@ -460,6 +460,7 @@ LINKS = {
   "greek yogurt": "/misc/dairy#yogurt",
   "yogurt": "/misc/dairy#yogurt",
   "plain whole milk greek yogurt": "/misc/dairy#yogurt-whole-milk",
+  "whole milk greek yogurt": "/misc/dairy#yogurt-whole-milk",
   "plain full fat greek yogurt": "/misc/dairy#yogurt-whole-milk",
   "full fat greek yogurt": "/misc/dairy#yogurt-whole-milk",
   "kefir (milk)": "/misc/dairy#kefir",
@@ -1141,6 +1142,18 @@ LINKS = {
   "ALA omega 3 fatty acids": "/misc/nutrient-alphabet#O",
   "ALA omega-3 fatty acid": "/misc/nutrient-alphabet#O",
   "ALA omega 3 fatty acid": "/misc/nutrient-alphabet#O",
+  "omega-3 fatty acids EPA": "/misc/nutrient-alphabet#O",
+  "omega 3 fatty acids EPA": "/misc/nutrient-alphabet#O",
+  "omega-3 fatty acid EPA": "/misc/nutrient-alphabet#O",
+  "omega 3 fatty acid EPA": "/misc/nutrient-alphabet#O",
+  "omega-3 fatty acids DHA": "/misc/nutrient-alphabet#O",
+  "omega 3 fatty acids DHA": "/misc/nutrient-alphabet#O",
+  "omega-3 fatty acid DHA": "/misc/nutrient-alphabet#O",
+  "omega 3 fatty acid DHA": "/misc/nutrient-alphabet#O",
+  "omega-3 fatty acids ALA": "/misc/nutrient-alphabet#O",
+  "omega 3 fatty acids ALA": "/misc/nutrient-alphabet#O",
+  "omega-3 fatty acid ALA": "/misc/nutrient-alphabet#O",
+  "omega 3 fatty acid ALA": "/misc/nutrient-alphabet#O",
   "alpha-linolenic acid": "/misc/nutrient-alphabet#O",
   "docosahexaenoic acid": "/misc/nutrient-alphabet#O",
   "eicosapentaenoic acid": "/misc/nutrient-alphabet#O",
@@ -1341,6 +1354,8 @@ LINKS = {
   "Carbs: The Devil in Disguise?": "/misc/carbs",
   "leaner": "/misc/fats",
   "lean": "/misc/fats",
+  "full fat": "/misc/fats",
+  "fat free": "/misc/fats",
   "hydrogenated fats": "/misc/fats",
   "hydrogenated fat": "/misc/fats",
   "hydrogenated oils": "/misc/fats",
@@ -1808,7 +1823,7 @@ LINKS = {
   "yogurt bowl": "/yogurt",
   # "yogurt": "/yogurt",
   "nut butter recipes": "/nut-butter",
-  "nut butter": "/nut-butter",
+  # "nut butter": "/nut-butter",
   "pesto recipes": "/pesto",
   "pesto": "/pesto",
   "soup and stew recipes": "/soup-stew",
@@ -2245,6 +2260,11 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "oat mixture",
+    "oat base",
+    "oatmeal mixture",
+    "oatmeal base",
+    "raspberry oatmeal bars",
     "and toast until",
     "apple picking",
     "apple spice",
@@ -2854,8 +2874,8 @@ EXCLUDED_PHRASES = [
     "mozzarella sticks",
     "mozzarella stick",
     "potassium sorbate",
-    "potassium chloride",
-    "sodium chloride",
+    # "potassium chloride",
+    # "sodium chloride",
     "magnesium malate",
     "magnesium glycinate",
     "magnesium citrate",
@@ -3378,7 +3398,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2025")):
                 continue
 
             # exclude some files

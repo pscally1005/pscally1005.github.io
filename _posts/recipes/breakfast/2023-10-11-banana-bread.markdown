@@ -67,7 +67,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>quick oats</a>, <a href='/misc/grains#oats'>oat flour</a>, cornstarch, baking soda, and salt
 
-- In a separate <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/nut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and maple syrup (or honey)
+- In a separate <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and maple syrup (or honey)
 
 - Pour the wet ingredients into the dry and mix just until smooth with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Optionally fold in some chocolate chips
 
@@ -79,9 +79,9 @@ Instructions:
 
 - Place the pan in the fridge, and let it totally cool before removing from the pan
 Notes:
-- Any kind of <a href='/nut-butter'>nut butter</a>, like <a href='/misc/nuts#peanuts'>peanut</a> or <a href='/misc/nuts#almonds'>almond</a>, will work.  For a <a href='/misc/nuts'>nut</a> free version, use <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a> or <a href='/misc/seeds#sesame-seeds'>tahini</a>
+- Any kind of <a href='/misc/natural-peanut-butter'>nut butter</a>, like <a href='/misc/nuts#peanuts'>peanut</a> or <a href='/misc/nuts#almonds'>almond</a>, will work.  For a <a href='/misc/nuts'>nut</a> free version, use <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a> or <a href='/misc/seeds#sesame-seeds'>tahini</a>
 
-- If you're out of <a href='/misc/dairy#yogurt'>yogurt</a>, you can instead double the <a href='/nut-butter'>nut butter</a> (1/2 cup, 128 g) and <a href='/misc/meat#eggs'>eggs</a> (2 large <a href='/misc/meat#eggs'>eggs</a>)
+- If you're out of <a href='/misc/dairy#yogurt'>yogurt</a>, you can instead double the <a href='/misc/natural-peanut-butter'>nut butter</a> (1/2 cup, 128 g) and <a href='/misc/meat#eggs'>eggs</a> (2 large <a href='/misc/meat#eggs'>eggs</a>)
 
 - This recipe makes 40 mini muffins; I had to bake in 2 batches
 
