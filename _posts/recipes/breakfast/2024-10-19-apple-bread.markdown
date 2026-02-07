@@ -53,15 +53,15 @@ tags:
 - banana bread
 - bread
 - cake
-Description: It's officially October, which means it's <a href='/misc/fruit#apple'>apple</a> picking and pumpkin spice season.  This recipe is essentially a <a href='/recipes/banana-bread'>banana bread</a>, but using <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> in place of mashed <a href='/misc/fruit#banana'>bananas</a>.  It's a perfect fall breakfast or dessert that's full of cinnamon flavor without any <a href='/misc/hidden-sugar'>added sugar</a> or <a href='/misc/dairy#butter'>butter</a>.  It's also <a href='/misc/celiac'>gluten free</a> and <a href='/misc/nuts'>nut</a> free as well!
+Description: It's officially October, which means it's apple picking and pumpkin spice season.  This recipe is essentially a <a href='/recipes/banana-bread'>banana bread</a>, but using <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> in place of mashed <a href='/misc/fruit#banana'>bananas</a>.  It's a perfect fall <a href='/recipes/breakfast'>breakfast</a> or <a href='/recipes/healthier-dessert'>dessert</a> that's full of cinnamon flavor without any <a href='/misc/hidden-sugar'>added sugar</a> or <a href='/misc/dairy#butter'>butter</a>.  It's also <a href='/misc/celiac'>gluten free</a> and <a href='/misc/nuts'>nut</a> free as well!
 Instructions:
-- Preheat your oven to 350F, and line a 9x5" bread pan with parchment paper.  Lightly spray the paper with oil
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper.  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
-- In a large bowl, combine together the wet ingredients - <a href='/recipes/apple-spread'>apple spread</a>, tahini (or any other <a href='/recipes/natural-peanut-butter'>nut or seed butter</a>), and eggs
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the wet ingredients - <a href='/recipes/apple-spread'>apple spread</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a> (or any other <a href='/misc/nuts'>nut</a> or <a href='/recipes/natural-peanut-butter'>seed butter</a>), and <a href='/misc/meat#eggs'>eggs</a>
 - <img src='/assets/Food/Breakfast/Apple Bread/apple-bread-unmixed.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Breakfast/Apple Bread/apple-bread-mixed.jpg' alt='' class='instruction-image'>
 
-- Add the dry ingredients to the bowl, and mix until fully combined - quick (or rolled) oats, oat flour, cornstarch, baking soda, and salt.  Transfer the batter to the prepared loaf pan
+- Add the dry ingredients to the bowl, and mix until fully combined - quick (or rolled) <a href='/misc/grains#oats'>oats</a>, <a href='/misc/grains#oats'>oat flour</a>, cornstarch, baking soda, and salt.  Transfer the batter to the prepared <a href='https://amzn.to/3YUjIkN'>loaf pan</a>
 - <img src='/assets/Food/Breakfast/Apple Bread/apple-bread-bowl.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Breakfast/Apple Bread/apple-bread-raw.jpg' alt='' class='instruction-image'>
 

@@ -54,17 +54,17 @@ tags:
 - onion powder
 - cumin
 - protein
-Description: Shakshuka is an egg, tomato, and veggie based dish that originates in Northern Africa. It's a delicious breakfast that's packed with <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> that will leave you satisfied until lunch. Or it can be served as any meal of the day. You can also serve it on top of some toast
+Description: Shakshuka is an <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/veggies#tomato'>tomato</a>, and <a href='/misc/veggies'>veggie</a> based dish that originates in Northern Africa. It's a delicious <a href='/recipes/breakfast'>breakfast</a> that's packed with <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> that will leave you satisfied until lunch. Or it can be served as any meal of the day. You can also serve it on top of some <a href='/recipes/ww-bread'>toast</a>
 Instructions:
-- Cut your pepper and onion each into a small dice. Add to a 10" stainless steel pan over medium heat with a spray of oil and salt. Cover, and cook until the peppers and soft and onions are translucent, about 5 minutes
+- Cut your <a href='/misc/veggies#pepper'>pepper</a> and <a href='/misc/veggies#onion'>onion</a> each into a small dice. Add to a <a href='https://amzn.to/4bOh0on'>10" stainless steel pan</a> over medium heat with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a> and salt. Cover, and cook until the <a href='/misc/veggies#pepper'>peppers</a> are soft and <a href='/misc/veggies#onion'>onions</a> are translucent, about 5 minutes
 
-- Add in the minced garlic, and cook until fragrant, about 30 seconds
+- Add in the <a href='/misc/veggies#garlic'>minced garlic</a>, and cook until fragrant, about 30 seconds
 
-- Pour in the diced tomatoes and add the spices - paprika, chili, garlic, onion, cumin, and pepper. Cover and let simmer for 5 minutes over medium heat
+- Pour in the diced <a href='/misc/veggies#tomato'>tomatoes</a> and add the spices - paprika, chili powder, garlic powder, onion powder, cumin, and <a href='/misc/veggies#pepper'>pepper</a>. Cover and let simmer for 5 minutes over medium heat
 - <img src='/assets/Food/Breakfast/Shakshuka/shakshuka-3.jpg' alt='' class='instruction-image'>
 
-- Make 3 wells, and crack each egg into its own well. Cover, and cook for 2-3 minutes over medium heat until the whites are cooked (opaque white) and the yolks have risen and are cloudy, but still a bit soft
+- Make 3 wells, and crack each <a href='/misc/meat#eggs'>egg</a> into its own well. Cover, and cook for 2-3 minutes over medium heat until the <a href='/misc/meat#egg-whites'>whites</a> are cooked (opaque white) and the <a href='/misc/meat#eggs'>yolks</a> have risen and are cloudy, but still a bit soft
 
-- Garnish with parsley, and optionally serve with bread. Eat directly out of the pan (that's why I used stainless steel)
+- Garnish with parsley, and optionally serve with <a href='/recipes/bread'>bread</a>. Eat directly out of the pan (that's why I used stainless steel)
 Notes:
 ---

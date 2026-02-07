@@ -51,9 +51,9 @@ tags:
 - berry
 - blueberry
 - nut
-Description: I've challenged myself to go the month of February without any <a href='/recipes/natural-peanut-butter'>nut butter</a> (should've chosen November). I've used <a href='/misc/fruit#avocado'>avocados</a> as my <a href='/misc/fats'>fat</a> source here, as they're highly nutritious and add creaminess and bulk. I've also topped it with berries, which are full of anti-oxidants and polyphenolic compounds.  You can also check out any of my other <a href='/yogurt'>yogurt recipes</a>!
+Description: I've challenged myself to go the month of February without any <a href='/nut-butter'>nut butter</a> (should've chosen November). I've used <a href='/misc/fruit#avocado'>avocados</a> as my <a href='/misc/fats'>fat</a> source here, as they're highly nutritious and add creaminess and bulk. I've also topped it with <a href='/misc/fruit#blueberries'>berries</a>, which are full of <a href='/misc/phytochemicals'>anti-oxidants</a> and <a href='/misc/phytochemicals'>polyphenolic compounds</a>.  You can also check out any of my other <a href='/yogurt'>yogurt recipes</a>!
 Instructions:
-- In a bowl, mash your avocado with the back of a fork. Mix in the rest of the ingredients, divide across 2 bowls, and top with berries.  Refrigerate overnight
+- In a bowl, mash your <a href='/misc/fruit#avocado'>avocado</a> with the back of a fork. Mix in the rest of the ingredients, divide across 2 bowls, and top with <a href='/misc/fruit#blueberries'>berries</a>.  Refrigerate overnight
 Notes:
 - |
   You can also turn this into an oatmeal instead with the following substitutions

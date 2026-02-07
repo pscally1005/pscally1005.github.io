@@ -58,22 +58,22 @@ tags:
 - white mushrooms
 - feta cheese
 - crumbled feta
-Description: Did you know that you can meal prep eggs? Yup, breakfast meal prep isn't reserved for just <a href='/oatmeal'>overnight oats</a> or <a href='/yogurt'>yogurt</a>. This batch of food makes 4 servings, and is a good source of <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> in the morning
+Description: Did you know that you can meal prep <a href='/misc/meat#eggs'>eggs</a>? Yup, <a href='/recipes/breakfast'>breakfast</a> meal prep isn't reserved for just <a href='/oatmeal'>overnight oats</a> or <a href='/misc/dairy#yogurt'>yogurt</a>. This batch of food makes 4 servings, and is a good source of <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> in the morning
 Instructions:
-- Preheat a 12" nonstick pan over medium heat with olive oil
+- Preheat a <a href='https://amzn.to/4rdR0HI'>12" nonstick pan</a> over medium heat with olive oil
 
-- Wash your mushrooms, and add to a food processor. Pulse, mix, and repeat until the mushrooms are finely chopped. Don't forget to stop and mix, or they'll be over-blended and watery. I like to use my food processor to finely chop my mushrooms as I don't like the texture of larger pieces, but you can use a knife and cutting board for larger chunks if you desire
+- Wash your <a href='/misc/veggies#mushrooms'>mushrooms</a>, and add to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Pulse, mix, and repeat until the <a href='/misc/veggies#mushrooms'>mushrooms</a> are finely chopped. Don't forget to stop and mix, or they'll be over-blended and watery. I like to use my <a href='https://amzn.to/4q0AUjI'>food processor</a> to finely chop my <a href='/misc/veggies#mushrooms'>mushrooms</a> as I don't like the texture of larger pieces, but you can use a <a href='https://amzn.to/4jlDKwc'>knife</a> and <a href='https://amzn.to/43gNqmY'>cutting board</a> for larger chunks if you desire
 - <img src='/assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-mushrooms.jpg' alt='' class='instruction-image'>
 
-- Add mushrooms and spinach to your pan with all your spices - chili powder, paprika, garlic powder, onion powder, cumin, black pepper, and salt. Mix, cover, and cook over medium heat until the water has cooked out, about 10 minutes
+- Add <a href='/misc/veggies#mushrooms'>mushrooms</a> and <a href='/misc/veggies#spinach-fresh'>spinach</a> to your pan with all your spices - chili powder, paprika, garlic powder, onion powder, cumin, black pepper, and salt. Mix, cover, and cook over medium heat until the water has cooked out, about 10 minutes
 - <img src='/assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-veggies.jpg' alt='' class='instruction-image'>
 
-- Lower the burner to medium low, and take the pan off the heat. Add your eggs and egg whites, and combine together with a wooden spoon
+- Lower the burner to medium low, and take the pan off the heat. Add your <a href='/misc/meat#eggs'>eggs</a> and <a href='/misc/meat#egg-whites'>egg whites</a>, and combine together with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>
 
-- Return the pan to the heat, and cook over medium low with frequent stirring until just fully cooked. Remove from heat, and mix in lemon juice and minced garlic
+- Return the pan to the heat, and cook over medium low with frequent stirring until just fully cooked. Remove from heat, and mix in <a href='/misc/fruit#lemon-juice'>lemon juice</a> and <a href='/misc/veggies#garlic'>minced garlic</a>
 - <img src='/assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-eggs.jpg' alt='' class='instruction-image'>
 
-- Divide your eggs into 4 containers, and top with each with 1/4 of your feta
+- Divide your <a href='/misc/meat#eggs'>eggs</a> into 4 containers, and top with each with 1/4 of your <a href='/misc/dairy#feta'>feta</a>
 
 - To reheat, cover with a damp paper towel, and microwave on high for 2-3 minutes
 Notes:

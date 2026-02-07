@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\breakfast"
 LINKS = {
 
   # RECIPES
+  "pickled red onions": "/recipes/pickled-onions",
+  "pickled red onion": "/recipes/pickled-onions",
+  "pickled onions": "/recipes/pickled-onions",
+  "pickled onion": "/recipes/pickled-onions",
   "whole wheat sourdough starter": "/misc/whole-wheat-sourdough#starter",
   "sourdough starter": "/misc/whole-wheat-sourdough#starter",
   "whole wheat sourdough bread": "/misc/whole-wheat-sourdough#bread-recipe",
@@ -69,7 +73,7 @@ LINKS = {
   # "whole wheat bread loaf": "/recipes/ww-bread",
   # "whole wheat bread": "/recipes/ww-bread",
   "my classic bread recipe": "/recipes/ww-bread",
-  "toast": "/recipes/ww-bread",
+  # "toast": "/recipes/ww-bread",
   "ricotta cheese": "/misc/homemade-cheese#ricotta",
   "ricotta": "/misc/homemade-cheese#ricotta",
   "homemade bbq sauce": "/recipes/bbq-sauce",
@@ -192,6 +196,10 @@ LINKS = {
   "reducing inflammation": "/misc/chronic-inflammation",
   "carotenoids astaxanthin": "/misc/chronic-inflammation",
   "carotenoid astaxanthin": "/misc/chronic-inflammation",
+  "polyphenolic compounds": "/misc/phytochemicals",
+  "polyphenolic compound": "/misc/phytochemicals",
+  "polyphenolics": "/misc/phytochemicals",
+  "polyphenols": "/misc/phytochemicals",
   "polyphenols apigen, chologenic acid, and quercetin": "/misc/phytochemicals",
   "allicin, s-allyl cysteine (SAC), and diallyl disulfide (DADS)": "/misc/phytochemicals",
   "gingerol": "/misc/phytochemicals",
@@ -1583,6 +1591,7 @@ LINKS = {
   "thermometer": "https://amzn.to/4kmobG2",
   "internal temperature": "https://amzn.to/4kmobG2",
   "inside temperature": "https://amzn.to/4kmobG2",
+  "spray of olive oil": "https://amzn.to/3Hdg0gk",
   "spray of oil": "https://amzn.to/3Hdg0gk",
   "spray the paper with oil": "https://amzn.to/3Hdg0gk",
   "spray the pan with oil": "https://amzn.to/3Hdg0gk",
@@ -1647,6 +1656,8 @@ LINKS = {
   "dutch oven": "https://amzn.to/3LNGdVy",
   '10" pans': "https://amzn.to/4bOh0on",
   '10" pan': "https://amzn.to/4bOh0on",
+  '10" stainless steel pans': "https://amzn.to/4bOh0on",
+  '10" stainless steel pan': "https://amzn.to/4bOh0on",
   '10"': "https://amzn.to/4bOh0on",
   "potato masher": "https://amzn.to/4r5boL0",
   "fine mesh strainer": "https://amzn.to/4q2FwWu",
@@ -2234,6 +2245,16 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "and toast until",
+    "apple picking",
+    "apple spice",
+    "pumpkin spice",
+    "pumpkin pie",
+    "muffin batter",
+    "not a dessert",
+    "banana muffins",
+    "banana muffin",
+    "toast your",
     "toast until",
     "apple pie",
     "muffin holes",
@@ -2775,8 +2796,9 @@ EXCLUDED_PHRASES = [
     "liquid (whey)",
     "liquid whey",
     "acid whey",
+    "inside",
+    "aside",
     "still side",
-    "side with",
     "fiber one brownie",
     "brownie mix",
     "boxed brownies",
@@ -2881,7 +2903,6 @@ EXCLUDED_PHRASES = [
     "lime pepper",
     "mango pepper",
     "cut side",
-    "the side",
     "flip side",
     "sleep on",
     "first side",
@@ -2924,7 +2945,20 @@ EXCLUDED_PHRASES = [
     "flour +",
     "60 g flour",
     "each side",
-    "the sides",
+    "down the sides",
+    "down the side",
+    "pan on the side",
+    "off the sides",
+    "the side of the",
+    "to the side",
+    "on the side of",
+    "and the sides",
+    "on the sides",
+    "tapped on the side",
+    "when the side",
+    "of the sides",
+    "of the side",
+    "around the sides",
     "the side",
     "one side",
     "scoop out the seeds",
@@ -3344,7 +3378,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

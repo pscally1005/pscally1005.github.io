@@ -53,12 +53,12 @@ tags:
 - everything but the bagel
 - everything bagel
 - vic
-Description: Avocados were on sale at my grocery store, so now I'm officially a hipster. This <a href='/misc/fruit#avocado'>avocado</a> toast is simple, healthy, and can be topped with different <a href='/misc/veggies'>vegetables</a> such as <a href='/misc/veggies#tomato'>tomatoes</a> or roasted <a href='/misc/veggies#pepper'>peppers</a> to make it even better. It comes together in the time it takes to toast the bread, and will leave you full and feeling great.  This goes great on a slice of my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>
+Description: <a href='/misc/fruit#avocado'>Avocados</a> were on sale at my grocery store, so now I'm officially a hipster. This <a href='/misc/fruit#avocado'>avocado</a> toast is simple, healthy, and can be topped with different <a href='/misc/veggies'>vegetables</a> such as <a href='/misc/veggies#tomato'>tomatoes</a> or roasted <a href='/misc/veggies#pepper'>peppers</a> to make it even better. It comes together in the time it takes to toast the bread, and will leave you full and feeling great.  This goes great on a slice of my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>
 Instructions:
-- In a toaster or air fryer, toast your bread to your liking
+- In a toaster or <a href='https://amzn.to/3FuWETp'>air fryer</a>, toast your <a href='/recipes/bread'>bread</a> to your liking
 
-- Meanwhile, in a medium bowl, mash your avocado until decently smooth (a little bit of chunks is okay). Pour in lemon, season, and mix
+- Meanwhile, in a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash your <a href='/misc/fruit#avocado'>avocado</a> until decently smooth (a little bit of chunks is okay). Pour in <a href='/misc/fruit#lemon'>lemon</a>, season, and mix
 
-- Spread the avocado on your toast, and optionally add some toppings. Good ideas are tomatoes, scrambled eggs, pickled onions, or roasted peppers. Be creative with it!
+- Spread the <a href='/misc/fruit#avocado'>avocado</a> on your toast, and optionally add some toppings. Good ideas are <a href='/misc/veggies#tomato'>tomatoes</a>, scrambled <a href='/misc/meat#eggs'>eggs</a>, <a href='/recipes/pickled-onions'>pickled onions</a>, or roasted <a href='/misc/veggies#pepper'>peppers</a>. Be creative with it!
 Notes:
 ---

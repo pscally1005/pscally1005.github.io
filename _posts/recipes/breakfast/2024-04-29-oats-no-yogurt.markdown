@@ -70,6 +70,6 @@ Description: |
   <br><br>
   <a href='/misc/grains#oats'>Oats</a> are such a blank slate - replace the <a href='/misc/fruit#banana'>banana</a> with pumpkin, add some cocoa powder, swirl in some <a href='/misc/nuts#peanuts'>peanut</a> butter or powdered peanut butter, top with fruit; the possibilities are endless, create your perfect bowl!  For a protein powder free recipe, check out my <a href='/recipes/no-protein-powder-oatmeal'>Overnight Oats with no Protein Powder</a>.  Or you can check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
 Instructions:
-- Mash the banana in a bowl, and mix with the rest of the ingredients.  Optionally top with 1 cup (140 g) fresh or frozen berries.  Either refrigerate overnight to enjoy cold, or microwave on high for 2 minutes (stirring halfway) to enjoy warm
+- Mash the <a href='/misc/fruit#banana'>banana</a> in a bowl, and mix with the rest of the ingredients.  Optionally top with 1 cup (140 g) fresh or frozen <a href='/misc/fruit#blueberries'>berries</a>.  Either refrigerate overnight to enjoy cold, or microwave on high for 2 minutes (stirring halfway) to enjoy warm
 Notes:
 ---

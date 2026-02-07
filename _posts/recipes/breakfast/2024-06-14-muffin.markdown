@@ -57,24 +57,24 @@ tags:
 - muffin
 - mini muffin
 - chocolate chips
-Description: These delicious <a href='/misc/fruit#banana'>banana</a> <a href='/misc/fake-healthy-foods#muffins'>muffins</a> are free of any oils, added sugars, and artificial sweeteners. Just 4 simple ingredients - <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, <a href='/misc/meat#eggs'>eggs</a>, and <a href='/recipes/natural-peanut-butter'>nut butter</a>. These are muffins that are actually a breakfast and not a dessert, and can have any mix-ins you like, such as chopped nuts, fruit, or even dark chocolate.  The nutrition facts below are assuming just the 4 base ingredients; no mix-ins
+Description: These delicious banana muffins are free of any <a href='/misc/fats'>oils</a>, <a href='/misc/hidden-sugar'>added sugars</a>, and <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>. Just 4 simple ingredients - <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, <a href='/misc/meat#eggs'>eggs</a>, and <a href='/nut-butter'>nut butter</a>. These are <a href='/misc/fake-healthy-foods#muffins'>muffins</a> that are actually a <a href='/recipes/breakfast'>breakfast</a> and not a dessert, and can have any mix-ins you like, such as chopped <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit'>fruit</a>, or even <a href='/misc/overshadowed-healthy-foods#chocolate'>dark chocolate</a>.  The nutrition facts below are assuming just the 4 base ingredients; no mix-ins
 Instructions:
-- Preheat your oven to 375F and liberally spray a mini muffin tin with oil
+- Preheat your oven to 375F and liberally <a href='https://amzn.to/3Hdg0gk'>spray</a> a <a href='https://amzn.to/3T1ymDy'>mini muffin tin</a> with oil
 
-- In a large bowl, add your cooked sweet potato (without skin) and your ripe banana. Mash with the back of a fork, or mix with a hand mixer. You can also use a food processor
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, add your cooked <a href='/misc/veggies#sweet-potato'>sweet potato</a> (without skin) and your ripe <a href='/misc/fruit#banana'>banana</a>. Mash with the back of a fork, or mix with a <a href='https://amzn.to/45yqsbM'>hand mixer</a>. You can also use a <a href='https://amzn.to/4q0AUjI'>food processor</a>
 
-- Add in the eggs and nut butter, and mix until fully combined
+- Add in the <a href='/misc/meat#eggs'>eggs</a> and <a href='/nut-butter'>nut butter</a>, and mix until fully combined
 
-- Transfer your batter to the muffin pan, and bake for about 16 minutes at 375F, or until a toothpick comes out clean.  Let cool in the pan for about 30 minutes, before transferring to a wire rack to cool.  Store in the fridge
+- Transfer your batter to the <a href='https://amzn.to/4mzzEDl'>muffin pan</a>, and bake for about 16 minutes at 375F, or until a toothpick comes out clean.  Let cool in the pan for about 30 minutes, before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool.  Store in the fridge
 - <img src='/assets/Food/Breakfast/Sw Pot Ban Muff/muffin-all.jpg' alt='' class='instruction-image'>
 Notes:
-- Canned sweet potato or pumpkin puree will work, but I prefer to use my homemade <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>.  I've never tried with <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a>, but I don't see why that wouldn't be great as well
+- Canned <a href='/misc/veggies#sweet-potato'>sweet potato</a> or <a href='/recipes/pumpkin-puree'>pumpkin puree</a> will work, but I prefer to use my homemade <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>.  I've never tried with <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a>, but I don't see why that wouldn't be great as well
 
-- You can also use unsweetened applesauce or <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> in place of mashed bananas
+- You can also use <a href='/misc/fruit#apple'>unsweetened applesauce</a> or <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> in place of mashed <a href='/misc/fruit#banana'>bananas</a>
 
-- Any nut or seed butter will work; here I've used some <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> using a combination of peanuts and pistachios, but almond butter or sunflower seed butter would also work great
+- Any <a href='/misc/nuts'>nut</a> or <a href='/recipes/natural-peanut-butter'>seed butter</a> will work; here I've used some <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> using a combination of <a href='/misc/nuts#peanuts'>peanuts</a> and <a href='/misc/nuts#pistachios'>pistachios</a>, but <a href='/misc/nuts#almonds'>almond butter</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> would also work great
 
-- Finally, to make it vegan, you can replace the eggs with flax or chia eggs, where 1 tbsp of flax or chia seeds + 3 tbsp water is equivalent to 1 egg.  Mix together in a small bowl and let sit for 5 minutes to thicken before adding to the muffin batter
+- Finally, to make it vegan, you can replace the <a href='/misc/meat#eggs'>eggs</a> with <a href='/misc/seeds#flax-seeds'>flax</a> or <a href='/misc/seeds#chia-seeds'>chia eggs</a>, where 1 tbsp of <a href='/misc/seeds#flax-seeds'>flax</a> or <a href='/misc/seeds#chia-seeds'>chia seeds</a> + 3 tbsp water is equivalent to 1 <a href='/misc/meat#eggs'>egg</a>.  Mix together in a <a href='https://amzn.to/4adxMft'>small bowl</a> and let sit for 5 minutes to thicken before adding to the muffin batter
 
 - Add in any additional ingredients if desired. I'll go with cinnamon and almond extract. I'm also going to top them with a few mini chocolate chips
 ---
