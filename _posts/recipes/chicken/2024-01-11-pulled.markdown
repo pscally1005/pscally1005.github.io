@@ -53,21 +53,21 @@ tags:
 - oil
 - vinegar
 - sandwich
-Description: This BBQ pulled <a href='/misc/meat#chicken-thighs'>chicken</a> is made easy in a slow cooker, and features a homemade <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>. I paired it with a side of oil and vinegar coleslaw (not a mayo based coleslaw), and can be easily made into a sandwich. I always hated shredding <a href='/misc/veggies#cabbage'>cabbage</a>, until I realized I could use my food processor to do the work for me. Give it a go, and check out the homemade sauce, or use your own BBQ sauce
+Description: This BBQ pulled chicken is made easy in a <a href='https://amzn.to/49TUS9E'>slow cooker</a>, and features a homemade <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>. I paired it with a <a href='/recipes/sides'>side</a> of oil and vinegar coleslaw (not a <a href='/misc/fake-healthy-foods#dips'>mayo</a> based coleslaw), and can be easily made into a sandwich. I always hated shredding <a href='/misc/veggies#cabbage'>cabbage</a>, until I realized I could use my <a href='https://amzn.to/4q0AUjI'>food processor</a> to do the work for me. Give it a go, and check out the homemade sauce, or use your own <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a>
 Instructions:
-- Place the chicken into a large slow cooker. Add spices (chili powder, paprika, garlic powder, onion powder, black pepper, and cayenne) over the chicken, and mix to evenly coat it all
+- Place the <a href='/misc/meat#chicken-thighs'>thighs</a> into a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>. Add spices (chili powder, paprika, garlic powder, onion powder, black pepper, and cayenne) over the <a href='/misc/meat#chicken-breast'>chicken</a>, and mix to evenly coat it all
 
-- Add half of your BBQ sauce on top of the chicken. The other half of the BBQ sauce will be reserved for at the end
+- Add half of your <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a> on top of the <a href='/misc/meat#chicken-breast'>chicken</a>. The other half of the <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a> will be reserved for at the end
 
-- Cover, and cook on low for 4-6 hours, or until the chicken is at least 185F and shreds easily
+- Cover, and cook on low for 4-6 hours, or until the <a href='/misc/meat#chicken-breast'>chicken</a> is at least <a href='https://amzn.to/4kmobG2'>185F</a> and shreds easily
 
-- Transfer the chicken to a cutting board or bowl, and shred with 2 forks (or your hands). Return the chicken to the slow cooker
+- Transfer the <a href='/misc/meat#chicken-breast'>chicken</a> to a <a href='https://amzn.to/43gNqmY'>cutting board</a> or bowl, and shred with 2 forks (or your hands). Return the <a href='/misc/meat#chicken-breast'>chicken</a> to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 
-- Heat the remainder of your BBQ sauce and soy sauce in the microwave for about a minute until warm, and pour over your shredded chicken
+- Heat the remainder of your <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a> and soy sauce in the microwave for about a minute until warm, and pour over your shredded <a href='/misc/meat#chicken-breast'>chicken</a>
 
-- The coleslaw can be made at any time and kept in the fridge, so I like to do it as the chicken cooks. I find that a food processor is the easiest way to shred cabbage. Cut your cabbage into wedges and remove the core. Using the shredder attachment, feed the cabbage down the tube to finely shred it. You can also use a mandolin or a knife. Transfer the shredded cabbage to a large bowl
+- The coleslaw can be made at any time and kept in the fridge, so I like to do it as the <a href='/misc/meat#chicken-breast'>chicken</a> cooks. I find that a <a href='https://amzn.to/4q0AUjI'>food processor</a> is the easiest way to shred <a href='/misc/veggies#cabbage'>cabbage</a>. Cut your <a href='/misc/veggies#cabbage'>cabbage</a> into wedges and remove the core. Using the shredder attachment, feed the <a href='/misc/veggies#cabbage'>cabbage</a> down the tube to finely shred it. You can also use a <a href='https://amzn.to/4q3nlQz'>mandoline</a> or a <a href='https://amzn.to/4jlDKwc'>knife</a>. Transfer the <a href='/misc/veggies#cabbage'>shredded cabbage</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a>
 
-- In a glass, mix together the dressing ingredients (ACV, oil, lime, soy sauce, balsamic, dijon, onion and garlic powder, black pepper, and celery seed). Pour over the cabbage, mix, and serve
+- In a glass, mix together the dressing ingredients (<a href='/misc/apple-cider-vinegar'>ACV</a>, <a href='/misc/fats'>oil</a>, <a href='/misc/fruit#lime'>lime</a>, soy sauce, balsamic, dijon, onion and garlic powder, black pepper, and celery seed). Pour over the <a href='/misc/veggies#cabbage'>cabbage</a>, mix, and serve
 - <img src='/assets/Food/Chicken/Pulled/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 ---

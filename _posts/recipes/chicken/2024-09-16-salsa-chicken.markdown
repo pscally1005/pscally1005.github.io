@@ -53,19 +53,19 @@ tags:
 - protein
 - easy
 - pulled chicken
-Description: Would you believe that this 2 ingredient salsa <a href='/misc/meat#chicken-thighs'>chicken</a> contains just salsa and <a href='/misc/meat#chicken-thighs'>chicken</a>? Wild concept, I know, I bet you're beyond shocked. This is probably the most low effort <a href='/misc/protein'>protein</a> source you can make, and still tastes great. With just a pack of <a href='/misc/meat#chicken-thighs'>chicken thighs</a> and a jar of salsa, you can have a easy <a href='/misc/meat'>meat</a> ready for you at the end of the day.  I've gone with storebought salsa here, but you can also use a full batch of my <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a> as well!
+Description: Would you believe that this 2 ingredient <a href='/recipes/salsa'>salsa</a> chick contains just <a href='/recipes/salsa'>salsa</a> and <a href='/misc/meat#chicken-breast'>chicken</a>? Wild concept, I know, I bet you're beyond shocked. This is probably the most low effort <a href='/misc/protein'>protein</a> source you can make, and still tastes great. With just a pack of <a href='/misc/meat#chicken-thighs'>chicken thighs</a> and a jar of <a href='/recipes/salsa'>salsa</a>, you can have a easy <a href='/misc/meat'>meat</a> ready for you at the end of the day.  I've gone with storebought <a href='/recipes/salsa'>salsa</a> here, but you can also use a full batch of my <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a> as well!
 Instructions:
 - <br><img src='/assets/Food/Chicken/Salsa Chicken/salsa-chicken-packaging.jpg' alt='' class='larger-image'>
 
-- Add some salsa to the base of your slow cooker. Add the chicken on top, and dump in the rest of the salsa
+- Add some <a href='/recipes/salsa'>salsa</a> to the base of your <a href='https://amzn.to/49TUS9E'>slow cooker</a>. Add the <a href='/misc/meat#chicken-breast'>chicken</a> on top, and dump in the rest of the <a href='/recipes/salsa'>salsa</a>
 - <img src='/assets/Food/Chicken/Salsa Chicken/salsa-chicken-raw.jpg' alt='' class='instruction-image'>
 
 - Cover and cook on low for 6 hours
 - <img src='/assets/Food/Chicken/Salsa Chicken/salsa-chicken-cooked.jpg' alt='' class='instruction-image'>
 
-- Mash with a wooden spoon to shred
+- Mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> to shred
 - <img src='/assets/Food/Chicken/Salsa Chicken/salsa-chicken-shredded.jpg' alt='' class='instruction-image'>
 Notes:
-- You can also make a simple salsa chicken by following my <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, and mixing the shredded chicken with a jar of salsa at the end
+- You can also make a simple salsa chicken by following my <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, and mixing the shredded <a href='/misc/meat#chicken-breast'>chicken</a> with a jar of <a href='/recipes/salsa'>salsa</a> at the end
 - <img src='/assets/Food/Chicken/Salsa Chicken/oven-method.jpg' alt='' class='instruction-image'>
 ---

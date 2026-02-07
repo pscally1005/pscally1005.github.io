@@ -2280,6 +2280,31 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "butter chicken",
+    "egg noodles",
+    "egg noodle",
+    "egg pasta",
+    "oatmeal raisin",
+    "noodle soup",
+    "noodle stew",
+    "chicken noodle",
+    "salsa chicken",
+    "baking them",
+    "tomato paste",
+    "crushed tomatoes",
+    "diced tomatoes",
+    "trim the fat",
+    "cut the fat",
+    "excess fat",
+    "italian chicken",
+    "indian chicken",
+    "korean chicken",
+    "hunter's chicken",
+    "chicken cacciatore",
+    "celery seeds",
+    "celery seed",
+    "dressing ingredients",
+    "oil and vinegar",
     "mode at 170F",
     "chicken florentine",
     "buffalo chicken",
@@ -2627,6 +2652,7 @@ EXCLUDED_PHRASES = [
     "eggplant parm",
     "chicken parmesean",
     "chicken parmesan",
+    "pulled chicken",
     "chicken wings",
     "chicken wing",
     "coconut shrimp",
@@ -3436,7 +3462,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

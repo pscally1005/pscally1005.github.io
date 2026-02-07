@@ -54,19 +54,19 @@ tags:
 - lemon juice
 - bake
 - roast
-Description: These baked <a href='/misc/meat#chicken-thighs'>chicken</a> thighs are dead simple to make and taste great. Just mix spices in a bowl, dump over chicken, and stick in the oven. I've gone with thighs today to mix it up, but chicken breasts would also work (just reduce the time).  For a dish with a similar cooking method, check out my <a href='/recipes/chicken-wings'>Gluten Free Baked Buffalo Wings</a>
+Description: These baked <a href='/misc/meat#chicken-thighs'>chicken thighs</a> are dead simple to make and taste great. Just mix spices in a bowl, dump over <a href='/misc/meat#chicken-breast'>chicken</a>, and stick in the oven. I've gone with <a href='/misc/meat#chicken-thighs'>thighs</a> today to mix it up, but <a href='/misc/meat#chicken-breast'>chicken breasts</a> would also work (just reduce the time).  For a dish with a similar cooking method, check out my <a href='/recipes/chicken-wings'>Gluten Free Baked Buffalo Wings</a>
 Instructions:
-- Preheat your oven to 250F (not a typo), and line a large cookie sheet with parchment paper
+- Preheat your oven to 250F (not a typo), and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add your chicken thighs to a large bowl with lemon juice and the spices. Mix until fully combined. Transfer to your baking sheet
+- Add your <a href='/misc/meat#chicken-thighs'>chicken thighs</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a> and the spices. Mix until fully combined. Transfer to your <a href='https://amzn.to/45sRAsB'>baking sheet</a>
 
 - Roast at 250F for about 45 minutes
 
 - Increase the oven temp to 400F, and roast for another 30-45 minues.
 - <img src='/assets/Food/Chicken/Baked Thighs/baked-thighs.jpg' alt='' class='instruction-image'>
 Notes:
-- You can also use thinly sliced chicken breasts instead. Just do 1 bake at 400F until the breasts reach 165F, about 15 minutes
+- You can also use thinly sliced <a href='/misc/meat#chicken-breast'>chicken breasts</a> instead. Just do 1 bake at 400F until the <a href='/misc/meat#chicken-breast'>breasts</a> reach <a href='https://amzn.to/4kmobG2'>165F</a>, about 15 minutes
 
-- You can eat them as a standalone piece of meat on your plate, but today I decided to chop up the baked pieces and use them in place of <a href='/misc/meat#ground-turkey'>ground turkey</a> in my <a href='/recipes/penne-casserole'>Penne and Meat Casserole Bake</a>
+- You can eat them as a standalone piece of <a href='/misc/meat'>meat</a> on your plate, but today I decided to chop up the baked pieces and use them in place of <a href='/misc/meat#ground-turkey'>ground turkey</a> in my <a href='/recipes/penne-casserole'>Penne and Meat Casserole Bake</a>
 - <img src='/assets/Food/Chicken/Baked Thighs/thigh-casserole.jpg' alt='' class='instruction-image'>
 ---
