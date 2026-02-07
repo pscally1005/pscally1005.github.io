@@ -62,7 +62,7 @@ Instructions:
 
 - Add the oats and garlic to the pot, and toast for about 1 minute, until fragrant
 
-- Add broth, thyme, salt, and pepper to the pot.  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
+- Add broth, thyme, salt, and black pepper to the pot.  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
 
 - Remove from the heat and stir in yogurt, soy sauce, and parsley. Serve
 - <img src='/assets/Food/Sides/Mushroom Soup/pot.jpg' alt='' class='instruction-image'>

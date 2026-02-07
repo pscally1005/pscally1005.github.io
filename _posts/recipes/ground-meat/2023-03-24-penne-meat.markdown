@@ -67,7 +67,7 @@ Instructions:
 
 - Add the meat and fully cook (meat should sound like its crackling instead of boiling)
 
-- After the meat is done, add in the spices (garlic and onion powder, oregano, basil, thyme, and pepper) and pour in tomatoes. Let simmer for 5 minutes
+- After the meat is done, add in the spices (garlic powder, onion powder, oregano, basil, thyme, and black pepper) and pour in tomatoes. Let simmer for 5 minutes
 
 - Combine beef, pasta, and cheese in the pot
 - <img src='/assets/Food/Ground Meat/Penne/penne-6.jpg' alt='' class='instruction-image'>

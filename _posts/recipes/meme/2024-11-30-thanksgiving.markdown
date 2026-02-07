@@ -60,18 +60,18 @@ Description: Happy Thanksgiving!  Here's an idea I wanted to try that I'm dubbin
 Instructions:
 - Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
 
-- Wash and dice your sweet potatoes, keeping the skin on. Add to one of the sheets, drizzle with oil, and add salt and pepper to taste
+- Wash and dice your sweet potatoes, keeping the skin on. Add to one of the sheets, drizzle with oil, and add salt and black pepper to taste
 - <img src='/assets/Food/Meme/Thanksgiving/potatoes-whole.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meme/Thanksgiving/potatoes-cut.jpg' alt='' class='instruction-image'>
 
-- Cut your brussel sprouts in half, and add to the other pan cut side down. Using brussel sprouts that are midway between frozen and defrosted is the easiest to cut in half. Again, drizzle with oil, and add salt and pepper to taste
+- Cut your brussel sprouts in half, and add to the other pan cut side down. Using brussel sprouts that are midway between frozen and defrosted is the easiest to cut in half. Again, drizzle with oil, and add salt and black pepper to taste
 
 - Roast both the potatoes and sprouts at 400F for about 30 minutes, or until browned and softened. Set aside
 - <img src='/assets/Food/Meme/Thanksgiving/roasted.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, add your turkey along with oil, salt, and pepper to a 12" pan. Cover, and cook over medium heat until no longer pink. Set aside
+- Meanwhile, add your turkey along with oil, salt, and black pepper to a 12" pan. Cover, and cook over medium heat until no longer pink. Set aside
 
-- As the meat cooks, prepare another pan with diced carrots, oil, salt, and pepper. Pour in water to just cover the carrots, and put the lid on the pan. Cook over medium heat until the water has cooked off, and the carrots are soft and browned
+- As the meat cooks, prepare another pan with diced carrots, oil, salt, and black pepper. Pour in water to just cover the carrots, and put the lid on the pan. Cook over medium heat until the water has cooked off, and the carrots are soft and browned
 - <img src='/assets/Food/Meme/Thanksgiving/carrots.jpg' alt='' class='instruction-image'>
 
 - In a large bowl, combine together the sweet potatoes, brussel sprouts, ground turkey, and carrots. Add the cranberry sauce and spices (thyme, allspice, rosemary, cinnamon, nutmeg, cloves, and ginger). Mix until fully combined

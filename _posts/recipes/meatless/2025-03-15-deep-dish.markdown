@@ -62,7 +62,7 @@ Instructions:
 - Add your shredded cheese on top of the dough
 - <img src='/assets/Food/Meatless/Deep Dish/cheese.jpg' alt='' class='instruction-image'>
 
-- In a medium bowl, mix together the sauce ingredients - tomatoes, balsamic, garlic, onion, basil, salt, and red pepper flakes. Add on top of the mozzarella cheese
+- In a medium bowl, mix together the sauce ingredients - tomatoes, balsamic, garlic powder, onion powder, basil, salt, and red pepper flakes. Add on top of the mozzarella cheese
 - <img src='/assets/Food/Meatless/Deep Dish/sauce.jpg' alt='' class='instruction-image'>
 
 - Top the pizza with grated cheese, oregano, and any other toppings you like

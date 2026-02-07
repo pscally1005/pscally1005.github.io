@@ -59,7 +59,7 @@ Instructions:
 
 - Cover and bring your pot to a boil over high heat. When boiling, reduce heat to low, cover and cook about 45 minutes (this will depend on your brand of rice)
 
-- When the rice is done, add in the rest of the seasonings (paprika, chili powder, cumin, garlic and onion powder, and black pepper), mix, and adjust to taste. I prefer to add in the beans in the beginning, but can you wait until now to add them as well
+- When the rice is done, add in the rest of the seasonings (paprika, chili powder, cumin, garlic powder, onion powder, and black pepper), mix, and adjust to taste. I prefer to add in the beans in the beginning, but can you wait until now to add them as well
 Notes:
 - Optionally, you can rinse the rice prior to cooking. This makes the rice drier and fluffier, instead of wet and clumpy (which I honestly prefer ngl, so I don't bother with this). Using a fine mesh strainer, rinse the rice under cold water until the water runs clear
 ---

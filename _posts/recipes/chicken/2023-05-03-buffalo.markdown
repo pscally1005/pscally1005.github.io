@@ -51,17 +51,18 @@ tags:
 - hot
 - sauce
 - breast
-Description: This dish pairs sautéed <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/meat#chicken-breast'>chicken</a> breast, and a spicy and creamy buffalo sauce. These are quick to come together, with just sautéing the chicken and <a href='/misc/veggies'>vegetables</a>, pouring in the sauce, and serving with a side of <a href='/misc/grains#brown-rice'>rice</a>
+Description: This dish pairs sautéed <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/meat#chicken-breast'>chicken breast</a>, and a spicy and creamy buffalo sauce. These are quick to come together, with just sautéing the <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies'>vegetables</a>, pouring in the sauce, and serving with a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>rice</a>
 Instructions:
-- Mix hot sauce, honey, water, and cornstarch in a medium bowl or tall glass. Stir immediately after adding the cornstarch, and set aside. DO NOT add the cottage cheese yet, or the acid of the hot sauce will curdle it. Add the cheese at the end
+- Mix <a href='/recipes/hot-sauce'>hot sauce</a>, honey, water, and cornstarch in a <a href='https://amzn.to/4adxMft'>medium bowl</a> or tall glass. Stir immediately after adding the cornstarch, and set aside
 
-- Dice up the peppers and onions, and add to a large skillet with oil and a small pinch of salt. Cover, and cook over medium heat until browned and soft. Set aside
+- Dice up the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, and add to a large skillet with oil and a small pinch of salt. Cover, and cook over medium heat until browned and soft. Set aside
 
-- Meanwhile, dice the chicken into bite sized pieces, and transfer to a bowl. Mix in the seasonings
+- Meanwhile, dice the <a href='/misc/meat#chicken-breast'>chicken</a> into bite sized pieces, and transfer to a bowl. Mix in the seasonings
 
-- Spray the pan again, and cook the chicken on medium. Cook until chicken is almost done, because the chicken will cook more in the sauce
+- <a href='https://amzn.to/3Hdg0gk'>Spray</a> the pan again, and cook the <a href='/misc/meat#chicken-breast'>chicken</a> on medium. Cook until <a href='/misc/meat#chicken-breast'>chicken</a> is almost done, because the <a href='/misc/meat#chicken-breast'>chicken</a> will cook more in the sauce
 
-- Add in the sauce and vegetables into the pan, and also add the cottage cheese. Combine and cook for about a minute until creamy. Optionally, top with shredded cheese, or serve with rice
+- Add in the sauce and <a href='/misc/veggies'>vegetables</a> into the pan, and also add the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Combine and cook for about a minute until creamy. Optionally, top with <a href='/misc/dairy#cheddar'>shredded cheese</a>, or serve with <a href='/misc/grains#brown-rice'>rice</a>
 - <img src='/assets/Food/Chicken/Buffalo/buffalo-5.jpg' alt='' class='instruction-image'>
 Notes:
+- DO NOT add the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> to the sauce in step 1, or the acid of the <a href='/recipes/hot-sauce'>hot sauce</a> will curdle it. Add the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> at the end
 ---

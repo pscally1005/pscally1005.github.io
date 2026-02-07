@@ -62,7 +62,7 @@ Instructions:
   <b>Roasted Veggies</b><br>
   Wash your beet, wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until soft (timing depends on the size of your beets).  Unwrap the beet, discard the ends, and cut into a medium dice (keep the skin on!!)<br><br>
 
-  Meanwhile, cut your pepper into large pieces, season with oil, salt, and pepper, and air fry for 10 minutes (have the beet and pepper finish at the same time).  Cut into a medium dice
+  Meanwhile, cut your pepper into large pieces, season with oil, salt, and black pepper, and air fry for 10 minutes (have the beet and pepper finish at the same time).  Cut into a medium dice
 - <img src='/assets/Food/Fish/Superfood/superfood-beets.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Fish/Superfood/superfood-peppers.jpg' alt='' class='instruction-image'>
 
@@ -73,7 +73,7 @@ Instructions:
 
 - |
   <b>Kale</b><br>
-  Heat a large pan over medium heat with olive oil. Cover and cook your kale with spices (chili, garlic, onion, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
+  Heat a large pan over medium heat with olive oil. Cover and cook your kale with spices (chili powder, garlic powder, onion powder, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
 - <img src='/assets/Food/Fish/Superfood/superfood-kale.jpg' alt='' class='instruction-image'>
 
 - |

@@ -60,7 +60,7 @@ Description: If you're making a recipe that calls for cooked <a href='/misc/meat
 Instructions:
 - Either boneless skinless chicken thighs or bone-in skin-on thighs will work here. Just discard the skin and bones at the end if you're doing the latter
 
-- Add your chicken to a parchment lined baking sheet, and season both sides liberally with salt and pepper
+- Add your chicken to a parchment lined baking sheet, and season both sides liberally with salt and black pepper
 - <img src='/assets/Food/Chicken/Shredded/raw.jpg' alt='' class='instruction-image'>
 
 - Roast at 250F for 45 minutes. Increase oven temperature to 425F, and cook for an additional 30-45 minutes, or until the chicken is around 190F

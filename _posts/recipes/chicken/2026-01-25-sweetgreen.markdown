@@ -61,7 +61,7 @@ Instructions:
 
 - Meanwhile, preheat your oven to 400F, and line a small baking sheet with parchment paper. Wash your sweet potato, cut into a small dice, and season with olive oil and lemon pepper. Transfer to the tray, and roast at 400F for about 30 minutes, or until browned and softened
 
-- Preheat a medium pan over medium heat with olive oil. Cut your chicken into cubes, and add to a medium bowl.  Season with vinegar, garlic powder, onion powder, salt, and pepper, and add to the pan. Cook for about 8 minutes, or until the internal temperature reaches 165F.  Remove from the heat
+- Preheat a medium pan over medium heat with olive oil. Cut your chicken into cubes, and add to a medium bowl.  Season with vinegar, garlic powder, onion powder, salt, and black pepper, and add to the pan. Cook for about 8 minutes, or until the internal temperature reaches 165F.  Remove from the heat
 
 - Roughly chop your kale, cut the apple into a small dice, and finely chop the almonds
 

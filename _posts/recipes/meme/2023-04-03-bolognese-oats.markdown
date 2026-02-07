@@ -59,7 +59,7 @@ Instructions:
 
 - Over medium heat, spray pot with olive oil and cook garlic for about a minute. Add in the meat and mash with a wooden spoon to break up clumps. Cook until browned
 
-- Stir in the diced tomatoes, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and pepper to taste. Add the vegetables back in, and add the vinegar
+- Stir in the diced tomatoes, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and black pepper to taste. Add the vegetables back in, and add the vinegar
 
 - Reduce heat to low and let simmer for 30 minutes, stirring occasionally. Stir in balsamic
 

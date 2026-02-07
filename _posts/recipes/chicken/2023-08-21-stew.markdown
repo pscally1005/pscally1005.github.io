@@ -54,17 +54,17 @@ tags:
 - winter
 - bowl
 - balsamic
-Description: This Crockpot stew is a perfect dump and go recipe, like my <a href='/recipes/chicken-noodle-stew'>Chicken Noodle Stew</a>; meaning you just have to cut up the <a href='/misc/veggies'>vegetables</a> and <a href='/misc/meat#chicken'>chicken</a>, add it to the crockpot, and have dinner ready for you. No other cooking required!. Add all the vegetables, chicken, and spices raw, and just forget about it until dinner time. This hearty meal is great during a cold winter. Chicken thighs work the best here for the long cooking time, as they won't dry out like chicken breast would.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
+Description: This <a href='https://amzn.to/49TUS9E'>Crockpot</a> <a href='/soup-stew'>stew</a> is a perfect dump and go recipe, like my <a href='/recipes/chicken-noodle-stew'>Chicken Noodle Stew</a>; meaning you just have to cut up the <a href='/misc/veggies'>vegetables</a> and <a href='/misc/meat#chicken-breast'>chicken</a>, add it to the <a href='https://amzn.to/49TUS9E'>crockpot</a>, and have dinner ready for you. No other cooking required!. Add all the <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, and spices raw, and just forget about it until dinner time. This hearty meal is great during a cold winter. <a href='/misc/meat#chicken-thighs'>Chicken thighs</a> work the best here for the long cooking time, as they won't dry out like <a href='/misc/meat#chicken-breast'>chicken breast</a> would.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions:
-- Cut the peppers and onions into a medium dice, and cut your broccoli florets into a similar size.  Add to a large slow cooker (mine is 6 quarts)
+- Cut the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a medium dice, and cut your <a href='/misc/veggies#broccoli'>broccoli</a> florets into a similar size.  Add to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a> (mine is 6 quarts)
 
-- Dice the chicken into bite sized cubes, and add to the pot
+- Dice the <a href='/misc/meat#chicken-breast'>chicken</a> into bite sized cubes, and add to the pot
 
-- Measure out all the liquid ingredients in a medium bowl - (drained and rinsed) beans, diced tomatoes, water, salsa, hot sauce, soy sauce, minced garlic, lemon juice, and balsamic vinegar.  Add to the pot as well
+- Measure out all the liquid ingredients in a <a href='https://amzn.to/4adxMft'>medium bowl</a> - (drained and rinsed) <a href='/misc/beans'>beans</a>, diced <a href='/misc/veggies#tomato'>tomatoes</a>, water, <a href='/recipes/salsa'>salsa</a>, <a href='/recipes/hot-sauce'>hot sauce</a>, soy sauce, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and balsamic vinegar.  Add to the pot as well
 
 - Finally, mix in your dried spices - paprika, chili powder, garlic powder, onion powder, oregano, basil, black pepper, and cinnamon
 
-- Cover and cook on low for about 6 hours, or until chicken is fully cooked, ideally around 180F
+- Cover and cook on low for about 6 hours, or until <a href='/misc/meat#chicken-breast'>chicken</a> is fully cooked, ideally around <a href='https://amzn.to/4kmobG2'>180F</a>
 - <img src='/assets/Food/Chicken/Stew/stew-2.jpg' alt='' class='instruction-image'>
 Notes:
 ---

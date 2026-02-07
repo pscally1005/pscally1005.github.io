@@ -59,6 +59,6 @@ Instructions:
 - Using the same pan, heat olive oil over medium heat. Cook the garlic until fragrant and lightly browned, about 2 minutes. Toast the red pepper flakes for about 30 seconds
 - <img src='/assets/Food/Sides/Broccoli Rabe/garlic.jpg' alt='' class='instruction-image'>
 
-- Add in the broccoli rabe, and saute for about 10 minutes with occasional stirring, until tender. Remove from heat, season with salt and pepper to taste, and finish with lemon juice
+- Add in the broccoli rabe, and saute for about 10 minutes with occasional stirring, until tender. Remove from heat, season with salt and black pepper to taste, and finish with lemon juice
 Notes:
 ---

@@ -64,7 +64,7 @@ Instructions:
 - As everything else is cooking, you can prepare your cauliflower rice. Add your defrosted florets to a food processor, and pulse until you have a fully chopped rice-like cauliflower. Don't overblend
 - <img src='/assets/Food/Ground Meat/Casserole/casserole-3.jpg' alt='' class='instruction-image'>
 
-- When the meat is done and the pan is free, add the cauliflower to the pan with oil, lemon pepper, garlic and onion powders, nutmeg, cloves, and red pepper flakes. Cover and cook over medium heat until the cauliflower is tender and done to your liking. Don't over mix, or it could become mushy
+- When the meat is done and the pan is free, add the cauliflower to the pan with oil, lemon pepper, garlic powder, onion powder, nutmeg, cloves, and red pepper flakes. Cover and cook over medium heat until the cauliflower is tender and done to your liking. Don't over mix, or it could become mushy
 - <img src='/assets/Food/Ground Meat/Casserole/casserole-4.jpg' alt='' class='instruction-image'>
 
 - In a large bowl, combine the spinach, meat, and cauliflower. Serve

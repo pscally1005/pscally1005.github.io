@@ -55,7 +55,7 @@ Description: <a href='/misc/veggies#butternut-squash'>Butternut squash</a> was m
 Instructions:
 - Preheat your oven to 400F, and line a large cookie sheet with parchment paper
 
-- Cut your onion into a large dice, and add to the pan. Add the butternut squash, oil, minced garlic, garlic powder, onion powder, salt, and pepper
+- Cut your onion into a large dice, and add to the pan. Add the butternut squash, oil, minced garlic, garlic powder, onion powder, salt, and black pepper
 
 - Roast at 400F for about 30 minutes, or until soft and browned
 - <img src='/assets/Food/Sides/Butternut squash/pan.jpg' alt='' class='instruction-image'>

@@ -54,7 +54,7 @@ Description: <a href='/misc/fish'>Fish</a> and <a href='/misc/veggies#potato'>Ch
 Instructions:
 - Starting with the "chips". Wash (but don't peel) your sweet potato, and cut into a French fry shape. Add to a medium microwave safe bowl, cover with a plate, and microwave on high for 3 minutes
 
-- Toss the fries with the oil, garlic, onion, paprika, salt, and black pepper
+- Toss the fries with the oil, garlic powder, onion powder, paprika, salt, and black pepper
 
 - Preheat your air fryer to 400F, and lightly spray the basket with oil. Add in the fries, and air fry for about 6 minutes
 

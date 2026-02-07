@@ -56,20 +56,20 @@ tags:
 - asian
 - ginger
 - chopstick
-Description: I'm a big sucker for <a href='/misc/nuts#peanuts'>peanut</a> butter. As an American, the glorious <a href='/misc/nuts'>nut</a> nectar is normally only used for sweet things, which I think is a missed opportunity. The sauce here takes some great Asian inspiration, and tastes fantastic on <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, and a side of <a href='/misc/grains#brown-rice'>brown rice</a>. I used powdered peanut butter here, as it's easier to mix into the sauce, and it also boosts the <a href='/misc/protein'>protein</a> content. Feel free to swap the olive oil and cook in <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> instead for even more flavor.
+Description: I'm a big sucker for <a href='/misc/nuts#peanuts'>peanut butter</a>. As an American, the glorious <a href='/misc/nuts'>nut</a> nectar is normally only used for sweet things, which I think is a missed opportunity. The sauce here takes some great Asian inspiration, and tastes fantastic on <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, and a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>brown rice</a>. I used <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a> here, as it's easier to mix into the sauce, and it also boosts the <a href='/misc/protein'>protein</a> content. Feel free to swap the olive oil and cook in <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> instead for even more flavor.
 Instructions:
-- Wash and cut the vegetables. Add the onions and carrots to a large pot or pan with oil. Cook over medium heat (covered) with salt until soft
+- Wash and cut the <a href='/misc/veggies'>vegetables</a>. Add the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#carrots'>carrots</a> to a large pot or pan with oil. Cook over medium heat (covered) with salt until soft
 - <img src='/assets/Food/Chicken/Peanut/peanut-1.jpg' alt='' class='instruction-image'>
 
-- When the carrots are about half done, add in the coleslaw mix and the rest of the spices for the vegetables (oil, paprika, garlic and onion powder, salt, black pepper, and ginger). Mix, cover, and cook to reduce it down
+- When the <a href='/misc/veggies#carrots'>carrots</a> are about half done, add in the coleslaw mix and the rest of the spices for the <a href='/misc/veggies'>vegetables</a> (<a href='/misc/fats'>oil</a>, paprika, garlic powder, onion powder, salt, black pepper, and <a href='/misc/veggies#ginger'>ginger</a>). Mix, cover, and cook to reduce it down
 
-- Meanwhile, as the vegetables cook, get started on the chicken. Preheat your oven to 400F, and line a large cookie sheet with parchment paper
+- Meanwhile, as the <a href='/misc/veggies'>vegetables</a> cook, get started on the <a href='/misc/meat#chicken-breast'>chicken</a>. Preheat your oven to 400F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Thinly slice your chicken breast, and add to a large bowl. Mix in the oil and spices (paprika, garlic and onion powder, black pepper, salt, and ginger), and transfer to your sheet. Roast for about 12 minutes, or until the chicken just reaches 165F. Let the chicken rest for a few minutes before slicing
+- Thinly slice your <a href='/misc/meat#chicken-breast'>chicken breast</a>, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Mix in the <a href='/misc/fats'>oil</a> and spices (paprika, garlic powder, onion powder, black pepper, salt, and <a href='/misc/veggies#ginger'>ginger</a>), and transfer to your sheet. Roast for about 12 minutes, or until the <a href='/misc/meat#chicken-breast'>chicken</a> just reaches <a href='https://amzn.to/4kmobG2'>165F</a>. Let the <a href='/misc/meat#chicken-breast'>chicken</a> rest for a few minutes before slicing
 
-- As the chicken rests and the vegetables cook, prepare your sauce in a large glass - powdered peanut butter, soy sauce, ACV, water, gochujang, cornstarch, ginger, and sesame oil
+- As the <a href='/misc/meat#chicken-breast'>chicken</a> rests and the <a href='/misc/veggies'>vegetables</a> cook, prepare your sauce in a large glass - <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, soy sauce, <a href='/misc/apple-cider-vinegar'>ACV</a>, water, gochujang, cornstarch, <a href='/misc/veggies#ginger'>ginger</a>, and sesame oil
 
-- Cut the chicken into cubes, and add to the pan. Pour the sauce over it, and mix to fully combine. The cornstarch should thicken the sauce when heated. Optionally, garnish with peanuts, and serve over some <a href='/misc/grains#brown-rice'>brown rice</a>
+- Cut the <a href='/misc/meat#chicken-breast'>chicken</a> into cubes, and add to the pan. Pour the sauce over it, and mix to fully combine. The cornstarch should thicken the sauce when heated. Optionally, garnish with <a href='/misc/nuts#peanuts'>peanuts</a>, and serve over some <a href='/misc/grains#brown-rice'>brown rice</a>
 - <img src='/assets/Food/Chicken/Peanut/peanut-6.jpg' alt='' class='instruction-image'>
 Notes:
 ---

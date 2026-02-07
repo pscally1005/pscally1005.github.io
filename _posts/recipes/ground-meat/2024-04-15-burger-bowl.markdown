@@ -58,14 +58,14 @@ Description: These bowls are deconstructed burgers, instead making them into a h
 Instructions:
 - Starting with the potatoes. Wash and cut your sweet potatoes into cubes. You don't need to peel the potatoes. Add to a microwave save bowl, and toss with oil, soy sauce, and baking soda. Cover, and microwave on full power for 3 minutes to soften the potatoes
 
-- Remove the potatoes from the microwave, and toss with the seasonings - chili powder, paprika, garlic, onion, black pepper, salt, and cayenne pepper
+- Remove the potatoes from the microwave, and toss with the seasonings - chili powder, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 
 - Add to your air fryer in a single layer, and air fry at 400F for about 6-8 minutes, or until crispy but not burnt. Set aside
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-3.jpg' alt='' class='instruction-image'>
 
 - Moving onto the cheese. In a small bowl, mix together shredded cheese, cornstarch, and almond milk. This will get added into the beef at the end. Set the bowl aside
 
-- Now for the burger. Heat a large pan over medium heat with olive oil. Add in the beef, and cook until browned. Season with soy sauce, paprika, garlic, onion, black pepper, salt, and cayenne pepper
+- Now for the burger. Heat a large pan over medium heat with olive oil. Add in the beef, and cook until browned. Season with soy sauce, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-5.jpg' alt='' class='instruction-image'>
 
 - Add the bowl of cheese into the pan, mix, and cover. Cook for just a minute or so to melt the cheese and a creamy sauce forms. Set the pan aside

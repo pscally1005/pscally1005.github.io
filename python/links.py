@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\breakfast"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\chicken"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
@@ -1605,6 +1605,26 @@ LINKS = {
   "instant thermometer": "https://amzn.to/4kmobG2",
   "thermometer": "https://amzn.to/4kmobG2",
   "internal temperature": "https://amzn.to/4kmobG2",
+  # "registering": "https://amzn.to/4kmobG2",
+  # "registered": "https://amzn.to/4kmobG2",
+  "register": "https://amzn.to/4kmobG2",
+  "130F": "https://amzn.to/4kmobG2",
+  "135F": "https://amzn.to/4kmobG2",
+  "140F": "https://amzn.to/4kmobG2",
+  "145F": "https://amzn.to/4kmobG2",
+  "150F": "https://amzn.to/4kmobG2",
+  "155F": "https://amzn.to/4kmobG2",
+  "160F": "https://amzn.to/4kmobG2",
+  "165F": "https://amzn.to/4kmobG2",
+  "170F": "https://amzn.to/4kmobG2",
+  "175F": "https://amzn.to/4kmobG2",
+  "180F": "https://amzn.to/4kmobG2",
+  "185F": "https://amzn.to/4kmobG2",
+  "190F": "https://amzn.to/4kmobG2",
+  "195F": "https://amzn.to/4kmobG2",
+  "205F": "https://amzn.to/4kmobG2",
+  "200F": "https://amzn.to/4kmobG2",
+  "210F": "https://amzn.to/4kmobG2",
   "inside temperature": "https://amzn.to/4kmobG2",
   "spray of olive oil": "https://amzn.to/3Hdg0gk",
   "spray of oil": "https://amzn.to/3Hdg0gk",
@@ -1918,7 +1938,7 @@ LINKS = {
   "savory sauce recipe": "/recipes/savory-sauces",
   "sauce recipe": "/recipes/savory-sauces",
   "sauces": "/recipes/savory-sauces",
-  "sauce": "/recipes/savory-sauces",
+  # "sauce": "/recipes/savory-sauces",
   "sides": "/recipes/sides",
   "side dishes": "/recipes/sides",
   "side dish": "/recipes/sides",
@@ -2260,6 +2280,15 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "mode at 170F",
+    "chicken florentine",
+    "buffalo chicken",
+    "barbeque chicken",
+    "bbq chicken",
+    "lemon chicken",
+    "chili paste",
+    "chili sauce",
+    "'d",
     "oat mixture",
     "oat base",
     "oatmeal mixture",
@@ -2891,9 +2920,11 @@ EXCLUDED_PHRASES = [
     "garlic and onion powders",
     "garlic and onion powder",
     "garlic and onion",
+    # "garlic, onion",
     "onion and garlic powders",
     "onion and garlic powder",
     "onion and garlic",
+    # "onion, garlic",
     "monk fruit",
     "nutritional yeast",
     "minutes",
@@ -2988,11 +3019,16 @@ EXCLUDED_PHRASES = [
     "cayenne pepper",
     "chicken bouillon",
     "chicken broth",
+    "veggie broth",
+    "vegetable broth",
+    "chicken or veggie broth",
+    "veggie or chicken broth",
+    "beef broth",
     "chicken bone",
     "chicken skin",
     "skin chips",
     "red pepper flakes",
-    "red pepper",
+    # "red pepper",
     "chili powder",
     "scale up",
     "scale down",
@@ -3026,6 +3062,8 @@ EXCLUDED_PHRASES = [
     "dark meat",
     "salt and pepper",
     "pepper and salt",
+    "salt, and pepper",
+    "pepper, and salt",
     "date syrup",
     "date sugar",
     "coconut sugar",
@@ -3398,7 +3436,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025")):
+            if not file.startswith(("2023")):
                 continue
 
             # exclude some files

@@ -62,7 +62,7 @@ Instructions:
 
 - In a large bowl, mix together the broccoli and the spices (lemon juice, minced garlic, oil, lemon pepper, garlic powder, and onion powder). Add to one of your sheets
 
-- Rinse the bowl, and use it for the meatloaf. Crack in the egg, and mix together all the ingredients (meat, BBQ sauce, onion, oat flour, cheese, garlic and onion powder, chili powder, and paprika). Almond flour, breadcrumbs, or unflavored casein protein powder can be used in place of oat flour, as I tested in <a href='/misc/meatloaf-experiment'>The Effect of Different Breadcrumbs on Meatloaf</a>.  Transfer the mix to the other pan, and shape into a meatloaf. You can also use a bread pan if you like
+- Rinse the bowl, and use it for the meatloaf. Crack in the egg, and mix together all the ingredients (meat, BBQ sauce, onion, oat flour, cheese, garlic powder, onion powder, chili powder, and paprika). Almond flour, breadcrumbs, or unflavored casein protein powder can be used in place of oat flour, as I tested in <a href='/misc/meatloaf-experiment'>The Effect of Different Breadcrumbs on Meatloaf</a>.  Transfer the mix to the other pan, and shape into a meatloaf. You can also use a bread pan if you like
 
 - Bake the meatloaf for about 45 minutes at 350F. The broccoli should also take about 45 minutes.  Cook the meatloaf to at least 165F, and the broccoli is to your liking. Optionally, brush the meatloaf with BBQ sauce during baking
 

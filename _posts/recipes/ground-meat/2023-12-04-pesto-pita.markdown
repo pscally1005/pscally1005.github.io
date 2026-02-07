@@ -59,11 +59,11 @@ Description: This dish features a <a href='/misc/veggies#spinach-fresh'>spinach<
 Instructions:
 - Spray a large pan with a touch of oil, and saute the spinach over medium heat until fully cooked, about 5-10 minutes, covered
 
-- Transfer spinach to a food processor with the rest of the pesto ingredients (tomato paste, cottage cheese, parmesan cheese, lemon juice, minced garlic, oil, garlic and onion powder, black pepper, lemon pepper, and salt). Blend until smooth
+- Transfer spinach to a food processor with the rest of the pesto ingredients (tomato paste, cottage cheese, parmesan cheese, lemon juice, minced garlic, oil, garlic powder, onion powder, black pepper, lemon pepper, and salt). Blend until smooth
 
 - Lightly spray your pan with oil, and cook the onions and mushrooms with salt. Add some water to help steam and cook the veggies. Cover, and stir occasionally until the water has cooked off and vegetables are almost done
 
-- Add your meat to the pan and brown it. When fully cooked, add the spices (basil, garlic and onion powder, lemon pepper, and red pepper flakes) and adjust anything to taste
+- Add your meat to the pan and brown it. When fully cooked, add the spices (basil, garlic powder, onion powder, lemon pepper, and red pepper flakes) and adjust anything to taste
 
 - Transfer the sauce into the pan, and let simmer for a few minutes over medium low heat. Serve in a <a href='/recipes/pita'>pita bread</a>, with rice, or by itself (nutrition facts include the pita)
 - <img src='/assets/Food/Ground Meat/Pesto Pita/pesto-pita-5.jpg' alt='' class='instruction-image'>

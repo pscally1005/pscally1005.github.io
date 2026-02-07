@@ -60,7 +60,7 @@ Description: I've made plenty of pesto variations over the years, but after gett
 Instructions:
 - In a small pan over medium heat, toast the pine nuts (or any other nuts) until lightly browned and fragrant, about 3 minutes
 
-- Meanwhile, crush together the garlic, salt, and pepper in your mortar and pestle until you have a paste
+- Meanwhile, crush together the garlic, salt, and black pepper in your mortar and pestle until you have a paste
 
 - Roughly chop your basil, add to the mortar in batches, and crush until broken down. Repeat until all the basil is incorporated
 

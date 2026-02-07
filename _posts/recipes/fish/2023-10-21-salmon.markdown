@@ -57,7 +57,7 @@ Description: <a href='/misc/fish#salmon'>Salmon</a> is my preferred fish, but I 
 Instructions:
 - Preheat your oven to 400F and line a cookie sheet with parchment paper
 
-- Add your salmon to the pan, and season the top and sides with garlic, onion, and lemon pepper, or any other desired seasinings
+- Add your salmon to the pan, and season the top and sides with garlic powder, onion powder, and lemon pepper, or any other desired seasonings
 
 - Bake at 400F for about 14 minutes, or until the thickest part reaches 145F.  You can also air fry at 400F for about 10 minutes. Squeeze on some lemon juice
 - <img src='/assets/Food/Fish/Salmon/salmon-3.jpg' alt='' class='instruction-image'>

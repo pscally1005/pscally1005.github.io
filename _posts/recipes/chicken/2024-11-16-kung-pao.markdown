@@ -60,7 +60,7 @@ Instructions:
 - Add rice, chicken bouillon, and water to a medium pot. Cover and bring to a boil on high heat. Lower to medium, cover, and let simmer for about 30 minutes, until all water is absorbed
 - <img src='/assets/Food/Chicken/Kung Pao/kung-pao-rice.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, heat a large pan medium heat with oil. Cut your yellow squash into thin quarters, and add to the pot along with salt and pepper. Cover and cook until the translucent and caramelized. Transfer to a large bowl
+- Meanwhile, heat a large pan medium heat with oil. Cut your yellow squash into thin quarters, and add to the pot along with salt and black pepper. Cover and cook until the translucent and caramelized. Transfer to a large bowl
 - <img src='/assets/Food/Chicken/Kung Pao/kung-pao-squash-raw.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Chicken/Kung Pao/kung-pao-squash-cooked.jpg' alt='' class='instruction-image'>
 

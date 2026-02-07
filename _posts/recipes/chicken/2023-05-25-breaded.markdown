@@ -57,30 +57,34 @@ tags:
 - bruschetta
 - brushetta
 - simple pasta sauce
-Description: An Italian style breaded <a href='/misc/meat#chicken-breast'>chicken</a> that's both <a href='/misc/celiac'>gluten free</a> and not deep fried sounds like a dream come true. They get the most crispy in the air fryer, but the oven will work too.  This dish is elevated even more when made into Chicken Parmesan using my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>. It goes well with a side of Bruschetta mix on top of a <a href='/recipes/whole-wheat-baguettes'>Whole Wheat Baguette</a>
+Description: An Italian style breaded <a href='/misc/meat#chicken-breast'>chicken</a> that's both <a href='/misc/celiac'>gluten free</a> and not deep fried sounds like a dream come true. They get the most crispy in the <a href='https://amzn.to/3FuWETp'>air fryer</a>, but the oven will work too.  This dish is elevated even more when made into Chicken Parmesan using my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>. It goes well with a <a href='/recipes/sides'>side</a> of Bruschetta mix on top of a <a href='/recipes/whole-wheat-baguettes'>Whole Wheat Baguette</a>
 Instructions:
-- Cut the chicken into cutlets. Make each piece even thickness by adding it to a bag and smashing it down to make it wide and thin. Sprinkle each side with salt. Refrigerate for at least 1 hour
+- Cut the <a href='/misc/meat#chicken-breast'>chicken</a> into cutlets. Make each piece even thickness by adding it to a bag and smashing it down to make it wide and thin. Sprinkle each side with salt. Refrigerate for at least 1 hour
 
-- Preheat your oven (or air fryer) to 400F and line a cookie sheet with parchment paper
+- Preheat your oven (or <a href='https://amzn.to/3FuWETp'>air fryer</a>) to 400F and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- On a plate, measure out the flour. Add the garlic and onion powder, black pepper, and oregano to the plate and mix
+- On a plate, measure out the flour. Add the garlic powder, onion powder, black pepper, and oregano to the plate and mix
 - <img src='/assets/Food/Chicken/Breaded/flour-plate.jpg' alt='' class='instruction-image'>
 
-- To a medium bowl, add in the egg and water, and beat the egg with a fork
+- To a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add in the <a href='/misc/meat#eggs'>egg</a> and water, and beat the <a href='/misc/meat#eggs'>egg</a> with a fork
 - <img src='/assets/Food/Chicken/Breaded/egg-bowl.jpg' alt='' class='instruction-image'>
 
-- To a separate plate, add the breadcrumb mix - oat flour, grated cheese, thyme, basil, salt, and pepper
+- To a separate plate, add the breadcrumb mix - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, thyme, basil, salt, and black pepper
 - <img src='/assets/Food/Chicken/Breaded/bc-plate.jpg' alt='' class='instruction-image'>
 
-- In order, coat the chicken in the flour, egg, and breadcrumb mixes. Add it to the pan
+- In order, coat the <a href='/misc/meat#chicken-breast'>chicken</a> in the flour, <a href='/misc/meat#eggs'>egg</a>, and breadcrumb mixes. Add it to the pan
 - <img src='/assets/Food/Chicken/Breaded/raw.jpg' alt='' class='instruction-image'>
 
-- Cook the chicken until it registers 165F, about 15 minutes in a 400F oven, or 8 minutes in a 400F air fryer.  Transfer to a wire rack to keep it crispy
+- Cook the <a href='/misc/meat#chicken-breast'>chicken</a> until it registers <a href='https://amzn.to/4kmobG2'>165F</a>, about 15 minutes in a 400F oven, or 8 minutes in a 400F <a href='https://amzn.to/3FuWETp'>air fryer</a>.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to keep it crispy
 - <img src='/assets/Food/Chicken/Breaded/cooked.jpg' alt='' class='instruction-image'>
 
-- Optional (Chicken Parm) - add <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> (about 1/2 cup or 120 g for the whole batch of chicken) and shredded mozzarella cheese (about 3/4 cup or 84 g for the whole batch of chicken) to the top of the chicken, and broil until the cheese is melted (about 2 minutes).  Note - DO NOT USE PARCHMENT PAPER FOR CHICKEN PARM. IT WILL BURN UNDER THE BROILER
-
-- As the chicken cooks, you can make the Bruschetta topping. Finely dice the tomatoes and onion, and add to a medium bowl. Season with garlic, lemon, parsley, basil, and salt.  Serve on a slice of toasted <a href='/recipes/whole-wheat-baguettes'>Whole Wheat Baguettes</a>, or spoon on top of the chicken
+- As the <a href='/misc/meat#chicken-breast'>chicken</a> cooks, you can make the Bruschetta topping. Finely dice the <a href='/misc/veggies#tomato'>tomatoes</a> and <a href='/misc/veggies#onion'>onion</a>, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>. Season with <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/fruit#lemon'>lemon</a>, parsley, basil, and salt.  Serve on a slice of toasted <a href='/recipes/whole-wheat-baguettes'>Whole Wheat Baguettes</a>, or spoon on top of the <a href='/misc/meat#chicken-breast'>chicken</a>
 - <img src='/assets/Food/Chicken/Breaded/cover.jpg' alt='' class='instruction-image'>
 Notes:
+- |
+  Optional (Chicken Parm)<br><br>
+
+  Add <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> (about 1/2 cup or 120 g for the whole batch of <a href='/misc/meat#chicken-breast'>chicken</a>) and <a href='/misc/dairy#mozzarella'>shredded mozzarella cheese</a> (about 3/4 cup or 84 g for the whole batch of <a href='/misc/meat#chicken-breast'>chicken</a>) to the top of the <a href='/misc/meat#chicken-breast'>chicken</a>, and broil until the <a href='/misc/dairy#mozzarella'>cheese</a> is melted (about 2 minutes)<br><br>
+
+  Note - DO NOT USE PARCHMENT PAPER FOR CHICKEN PARM. IT WILL BURN UNDER THE BROILER
 ---

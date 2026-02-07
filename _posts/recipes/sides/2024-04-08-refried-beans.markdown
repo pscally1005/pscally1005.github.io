@@ -63,7 +63,7 @@ Instructions:
 - Preheat a medium pot over medium heat with oil. Meanwhile, finely dice your onion. Add diced onion to the pan with salt. Cover, and cook until the onions are soft and translucent, and begin to caramelize
 - <img src='/assets/Food/Sides/Refried/refried-1.jpg' alt='' class='instruction-image'>
 
-- When the onions are done, add in the minced garlic, spices (chili, paprika, cumin, garlic, onion, and pepper), and your beans (entire can; NOT drained or rinsed). Mix, cover, and cook for 5 minutes
+- When the onions are done, add in the minced garlic, spices (chili powder, paprika, cumin, garlic powder, onion powder, and black pepper), and your beans (entire can; NOT drained or rinsed). Mix, cover, and cook for 5 minutes
 - <img src='/assets/Food/Sides/Refried/refried-2.jpg' alt='' class='instruction-image'>
 
 - Reduce heat to low, and roughly mash with a potato masher to reach your desired consistency. I like mine a little chunky, but if you want it super smooth, use an immersion blender. Simmer uncovered for about 5 minutes, or until thickened to your liking. Squeeze in some lime, and finish with cilantro or parsley

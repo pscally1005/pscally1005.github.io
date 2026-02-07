@@ -58,7 +58,7 @@ Description: These <a href='/misc/meat#eggs'>egg</a> muffins are a great way to 
 Instructions:
 - Preheat your oven to 350F, and heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a small dice. Add <a href='/misc/veggies'>vegetables</a> to the pan with <a href='/misc/fats'>oil</a> and salt. Cover, and cook until the <a href='/misc/veggies#pepper'>peppers</a> have softened and the <a href='/misc/veggies#onion'>onions</a> turn translucent
 
-- Season to taste with whatever you like. I went with paprika, <a href='/chili'>chili</a> powder, lemon pepper, <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, black pepper, and <a href='/recipes/hot-sauce'>hot sauce</a>
+- Season to taste with whatever you like. I went with paprika, chili powder, lemon pepper, garlic powder, onion powder, black pepper, and <a href='/recipes/hot-sauce'>hot sauce</a>
 
 - Crack your <a href='/misc/meat#eggs'>eggs</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>, and mix with the <a href='/misc/veggies'>vegetables</a>. Liberally grease a muffin tin, and evenly divide your batter. This recipe makes 24 mini muffins or 12 regular sized muffins
 - <img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-3.jpg' alt='' class='instruction-image'>

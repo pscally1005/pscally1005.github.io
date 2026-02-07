@@ -61,7 +61,7 @@ Instructions:
 
 - Cut your chicken thighs into bite sized pieces, and add to the pot
 
-- Add in your soy sauce, chicken bouillon, dried spices (thyme, garlic, onion, cumin, black pepper, allspice, turmeric, cinnamon, nutmeg, and cayenne), and water. Mix everything together
+- Add in your soy sauce, chicken bouillon, dried spices (thyme, garlic powder, onion powder, cumin, black pepper, allspice, turmeric, cinnamon, nutmeg, and cayenne), and water. Mix everything together
 
 - Cover and cook on low for about 6 hours, or until the chicken is at least 180F, and the vegetables are tender
 

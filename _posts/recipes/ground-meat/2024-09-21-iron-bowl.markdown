@@ -62,9 +62,9 @@ Description: If you read through my post <a href='/misc/iron'>I Run on Iron</a>,
 Instructions:
 - Lentils - In a medium pot, add your lentils, water, and chicken bouillon powder. Bring to a boil, reduce heat to medium, and let cook for about 6 minutes. See my <a href='/recipes/red-lentils'>Easy Red Lentils</a> for a full breakdown on cooking lentils
 
-- Spinach - Heat a 12" nonstick pan over medium heat with olive oil. Add your spinach and spices (garlic, onion, cumin, and lemon pepper), and cook (covered) until the water has cooked off and the spinach just begins to stick to the pan (about 10 minutes)
+- Spinach - Heat a 12" nonstick pan over medium heat with olive oil. Add your spinach and spices (garlic powder, onion powder, cumin, and lemon pepper), and cook (covered) until the water has cooked off and the spinach just begins to stick to the pan (about 10 minutes)
 
-- Meat - Heat a 10" cast iron pan over medium heat with olive oil. Add your beef, and brown the meat. When no longer pink, season with soy sauce, garlic, allspice, cinnamon, nutmeg, cloves, and salt
+- Meat - Heat a 10" cast iron pan over medium heat with olive oil. Add your beef, and brown the meat. When no longer pink, season with soy sauce, garlic powder, allspice, cinnamon, nutmeg, cloves, and salt
 - <img src='/assets/Food/Ground Meat/Iron Bowl/iron-bowl-pans.jpg' alt='' class='instruction-image'>
 
 - Seeds - Once the lentils, spinach, and beef are finished, assemble into bowls, and use one of your pans to toast the pumpkin seeds on medium heat for about 5 minutes, or until browned and fragrant. Top each bowl with the seeds, and enjoy
