@@ -53,18 +53,18 @@ tags:
 - grilled chicken
 - chickpeas
 - kalamata olives
-Description: My go to order at a restaurant is normally a Greek Salad with Grilled Chicken, and the addition of roasted red <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#artichoke'>artichokes</a> makes it even better. This is super healthy, and tastes great with all the <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat'>meat</a>, and <a href='/misc/dairy#feta'>feta</a>. This also works well as a side without the <a href='/misc/meat'>meat</a> too, or pair it with my <a href='/recipes/pita'>Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita.  Or you can check out any of my other <a href='/salad'>salad recipes</a>!
+Description: My go to order at a restaurant is normally a Greek Salad with Grilled <a href='/misc/meat#chicken-breast'>Chicken</a>, and the addition of roasted red <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#artichoke'>artichokes</a> makes it even better. This is super healthy, and tastes great with all the <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat'>meat</a>, and <a href='/misc/dairy#feta'>feta</a>. This also works well as a <a href='/recipes/sides'>side</a> without the <a href='/misc/meat'>meat</a> too, or pair it with my <a href='/recipes/pita'>Whole Wheat Pita Bread</a> for a Greek Salad Pocket Pita.  Or you can check out any of my other <a href='/salad'>salad recipes</a>!
 Instructions:
-- Preheat your oven to 400F, and line a cookie sheet with parchment paper. Wash and cut your peppers into long, thin strips. Toss with oil and black pepper. Roast at 400F for about 30 minutes, or until softened and lightly charred. Set aside
+- Preheat your oven to 400F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Wash and cut your <a href='/misc/veggies#pepper'>peppers</a> into long, thin strips. Toss with oil and black pepper. Roast at 400F for about 30 minutes, or until softened and lightly charred. Set aside
 - <img src='/assets/Food/Chicken/Greek Salad/roasted.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, prepare the rest of the salad. Thinly slice your lettuce, and wash in a salad spinner. Cut your onion into a small dice. Wash your tomatoes, and cut into a medium dice
+- Meanwhile, prepare the rest of the <a href='/salad'>salad</a>. Thinly slice your <a href='/misc/veggies#lettuce'>lettuce</a>, and wash in a <a href='https://amzn.to/4dFeyPZ'>salad spinner</a>. Cut your <a href='/misc/veggies#onion'>onion</a> into a small dice. Wash your <a href='/misc/veggies#tomato'>tomatoes</a>, and cut into a medium dice
 
-- Drain and rinse the can of artichokes and the can of chickpeas. Add to the salad
+- Drain and rinse the can of <a href='/misc/veggies#artichoke'>artichokes</a> and the can of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add to the <a href='/salad'>salad</a>
 
-- Top the base with crumbled feta cheese, kalamata olives, and your protein source
+- Top the base with crumbled <a href='/misc/dairy#feta'>feta cheese</a>, kalamata <a href='/misc/fruit#olives'>olives</a>, and your <a href='/misc/protein'>protein</a> source
 Notes:
-- For the <a href='/misc/protein'>protein</a> source, I'll be using leftover <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, but any sort of <a href='/misc/protein'>protein</a> source will work, like grilled chicken/salmon, sauteed ground beef/turkey, crumbled tofu, or canned tuna. I prefer to add the meat to the individual bowls instead of the entire salad. So take out a serving of salad, top with chicken, and any additional feta or olives if desired
+- For the <a href='/misc/protein'>protein</a> source, I'll be using leftover <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, but any sort of <a href='/misc/protein'>protein</a> source will work, like grilled <a href='/misc/meat#chicken-breast'>chicken</a>/<a href='/misc/fish#salmon'>salmon</a>, sauteed <a href='/misc/meat#ground-beef'>ground beef</a>/<a href='/misc/meat#ground-turkey'>turkey</a>, crumbled <a href='/misc/beans#tofu'>tofu</a>, or <a href='/misc/fish#tuna'>canned tuna</a>. I prefer to add the <a href='/misc/meat'>meat</a> to the individual bowls instead of the entire <a href='/salad'>salad</a>. So take out a serving of <a href='/salad'>salad</a>, top with <a href='/misc/meat#chicken-breast'>chicken</a>, and any additional <a href='/misc/dairy#feta'>feta</a> or <a href='/misc/fruit#olives'>olives</a> if desired
 
 - |
   For a more typical dressing, check out the links below

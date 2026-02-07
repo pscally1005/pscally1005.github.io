@@ -48,16 +48,16 @@ tags:
 - breast
 - bake
 - marinade
-Description: This big plate of food (minus the <a href='/misc/grains#brown-rice'>rice</a>) has under 400 <a href='/misc/calories'>calories</a>, over 45 g of <a href='/misc/protein'>protein</a>, and costs only $2.56. This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the <a href='/misc/meat#chicken-breast'>chicken</a> and sprouts, that way it's easier to put together come dinner time. I like to pair it with a side of <a href='/misc/grains#brown-rice'>brown rice</a> for a complete meal.
+Description: This big plate of food (minus the <a href='/misc/grains#brown-rice'>rice</a>) has under 400 <a href='/misc/calories'>calories</a>, over 45 g of <a href='/misc/protein'>protein</a>, and costs only $2.56. This dish is a perfect prepare ahead meal for an easy dinner. I called to marinate the <a href='/misc/meat#chicken-breast'>chicken</a> and sprouts, that way it's easier to put together come dinner time. I like to pair it with a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>brown rice</a> for a complete meal.
 Instructions:
-- Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
+- Preheat your oven to 400F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- Quarter your brussel sprouts (or just half them if they're small), and add to a large bowl. Season with soy sauce, lemon juice, oil, black pepper, paprika, chili powder, garlic powder, and onion powder.  Optionally, you can marinate the veggies in the bowl for at least an hour in the fridge.  Transfer to one of your pans
+- Quarter your <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a> (or just half them if they're small), and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Season with soy sauce, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/fats'>oil</a>, black pepper, paprika, chili powder, garlic powder, and onion powder.  Optionally, you can marinate the <a href='/misc/veggies'>veggies</a> in the bowl for at least an hour in the fridge.  Transfer to one of your pans
 
-- Roast the brussel sprouts for about 30 minutes at 400F, or until tender and browned
+- Roast the <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a> for about 30 minutes at 400F, or until tender and browned
 
-- Meanwhile, cut your chicken into thin slices. Pound to an even thickness with a meat mallet. Add to a large bowl, and season with soy sauce, lemon juice, oil, black pepper, paprika, chili powder, garlic powder, and onion powder. Optionally, you can marinate the chicken in the bowl for at least an hour in the fridge.  Transfer to the other pan
+- Meanwhile, cut your <a href='/misc/meat#chicken-breast'>chicken</a> into thin slices. Pound to an even thickness with a <a href='/misc/meat'>meat</a> mallet. Add to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and season with soy sauce, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/fats'>oil</a>, black pepper, paprika, chili powder, garlic powder, and onion powder. Optionally, you can marinate the <a href='/misc/meat#chicken-breast'>chicken</a> in the bowl for at least an hour in the fridge.  Transfer to the other pan
 
-- Roast the chicken for about 15 minutes at 400F, or until the internal temperature just reaches 165F
+- Roast the <a href='/misc/meat#chicken-breast'>chicken</a> for about 15 minutes at 400F, or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> just reaches <a href='https://amzn.to/4kmobG2'>165F</a>
 Notes:
 ---

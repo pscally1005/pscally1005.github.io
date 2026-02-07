@@ -58,26 +58,26 @@ tags:
 - rotisserie chicken
 Description: If you're making a recipe that calls for cooked <a href='/misc/meat#chicken-breast'>chicken</a>, like my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a>, you can either shred up a store bought rotisserie chicken, or you can cook it yourself. I prefer the latter; rotisserie chickens are cheap and convenient, but filled with tons of additives that I'd prefer to avoid
 Instructions:
-- Either boneless skinless chicken thighs or bone-in skin-on thighs will work here. Just discard the skin and bones at the end if you're doing the latter
+- Either <a href='/misc/meat#chicken-thighs'>boneless skinless chicken thighs</a> or <a href='/misc/meat#chicken-thighs'>bone-in skin-on thighs</a> will work here. Just discard the skin and bones at the end if you're doing the latter
 
-- Add your chicken to a parchment lined baking sheet, and season both sides liberally with salt and black pepper
+- Add your <a href='/misc/meat#chicken-breast'>chicken</a> to a parchment lined <a href='https://amzn.to/45sRAsB'>baking sheet</a>, and season both sides liberally with salt and black pepper
 - <img src='/assets/Food/Chicken/Shredded/raw.jpg' alt='' class='instruction-image'>
 
-- Roast at 250F for 45 minutes. Increase oven temperature to 425F, and cook for an additional 30-45 minutes, or until the chicken is around 190F
+- Roast at 250F for 45 minutes. Increase oven temperature to 425F, and cook for an additional 30-45 minutes, or until the <a href='/misc/meat#chicken-breast'>chicken</a> is around <a href='https://amzn.to/4kmobG2'>190F</a>
 - <img src='/assets/Food/Chicken/Shredded/baked.jpg' alt='' class='instruction-image'>
 
 - Let cool totally before shredding with your hands. Discard any skin and bones
 - <img src='/assets/Food/Chicken/Shredded/shredded.jpg' alt='' class='instruction-image'>
 Notes:
-- I've marked a serving size as about 1 oz (28 g) cooked meat for ease of comparison and measurement. 6 thighs (828 g) should yield about 621 g, as meat tends to lose about 25% of its raw weight when cooked
+- I've marked a serving size as about 1 oz (28 g) cooked <a href='/misc/meat'>meat</a> for ease of comparison and measurement. 6 <a href='/misc/meat#chicken-thighs'>thighs</a> (828 g) should yield about 621 g, as <a href='/misc/meat'>meat</a> tends to lose about 25% of its raw weight when cooked
 
-- With this chicken, you can use it as a topping for your salads for some <a href='/misc/protein'>protein</a>, or toss with with a sauce.  Try mixing it with <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> for some BBQ Pulled Chicken, and serve alongside some <a href='/recipes/pulled-chicken'>coleslaw</a>.  Or mix with <a href='/recipes/salsa'>Five Minute Salsa</a> for some <a href='/recipes/salsa-chicken'>Two Ingredient Salsa Chicken</a>
+- With this <a href='/misc/meat#chicken-breast'>chicken</a>, you can use it as a topping for your <a href='/salad'>salads</a> for some <a href='/misc/protein'>protein</a>, or toss with with a sauce.  Try mixing it with <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> for some BBQ Pulled Chicken, and serve alongside some <a href='/recipes/pulled-chicken'>coleslaw</a>.  Or mix with <a href='/recipes/salsa'>Five Minute Salsa</a> for some <a href='/recipes/salsa-chicken'>Two Ingredient Salsa Chicken</a>
 - <img src='/assets/Food/Chicken/Shredded/salsa.jpg' alt='' class='instruction-image'>
 
-- If you used bone-in, skin-on chicken thighs, you should have a lot of <a href='/misc/fats'>fat</a> rendered out in the pan after baking.  If you desire, transfer all the drippings to a mason jar, and refrigerate overnight.  In the morning, scrape the chicken fat (known as "shmaltz") off the top.  I got just over 1/2 cup (136 g) from a double batch of the chicken
+- If you used bone-in, skin-on <a href='/misc/meat#chicken-thighs'>chicken thighs</a>, you should have a lot of <a href='/misc/fats'>fat</a> rendered out in the pan after baking.  If you desire, transfer all the drippings to a mason jar, and refrigerate overnight.  In the morning, scrape the <a href='/misc/slow-cooker-chicken'>chicken fat</a> (known as "<a href='/misc/slow-cooker-chicken'>shmaltz</a>") off the top.  I got just over 1/2 cup (136 g) from a double batch of the <a href='/misc/meat#chicken-breast'>chicken</a>
 - <img src='/assets/Food/Chicken/Shredded/jars.jpg' alt='' class='instruction-image'>
 
-- Use the shmaltz in any place you would use <a href='/misc/dairy#butter'>butter</a> or oil.  I'll be using it in place of olive oil in my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> tomorrow for extra chicken flavor.  Refrigerate the fat for up to a week, or freeze indefinitely.
+- Use the <a href='/misc/slow-cooker-chicken'>shmaltz</a> in any place you would use <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/fats'>oil</a>.  I'll be using it in place of olive oil in my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> tomorrow for extra <a href='/misc/meat#chicken-breast'>chicken</a> flavor.  Refrigerate the <a href='/misc/fats'>fat</a> for up to a week, or freeze indefinitely.
 - <a href='/recipes/buffalo-chicken-dip'><img src='/assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg' alt='' class='instruction-image'></a>
 
 - The top of the jar contains the gelatin and collagen from the bones.  It's essentially concentrated broth with most of the water removed.  Next time I make <a href='/recipes/red-lentils'>Easy Red Lentils</a>, I'll be replacing part of the water with my leftover "broth" for extra flavor and nutrition.  Again, refrigerate the broth for up to a week, or freeze indefinitely.

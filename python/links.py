@@ -132,6 +132,7 @@ LINKS = {
   "high glucose": "/misc/diabetes",
   "glucose spikes": "/misc/diabetes",
   "glucose spike": "/misc/diabetes",
+  "glucose curve": "/misc/diabetes",
   "elevated glucose": "/misc/diabetes",
   "glucose metabolism": "/misc/diabetes",
   "spikes in glucose": "/misc/diabetes",
@@ -744,6 +745,10 @@ LINKS = {
   "boneless skinless chicken breast": "/misc/meat#chicken-breast",
   "skinless chicken breasts": "/misc/meat#chicken-breast",
   "skinless chicken breast": "/misc/meat#chicken-breast",
+  "boneless skinless breasts": "/misc/meat#chicken-breast",
+  "boneless skinless breast": "/misc/meat#chicken-breast",
+  "skinless breasts": "/misc/meat#chicken-breast",
+  "skinless breast": "/misc/meat#chicken-breast",
   "chicken breast": "/misc/meat#chicken-breast",
   "chicken breasts": "/misc/meat#chicken-breast",
   "breasts": "/misc/meat#chicken-breast",
@@ -754,12 +759,24 @@ LINKS = {
   "chicken livers": "/misc/meat#chicken-liver",
   "boneless skinless chicken thighs": "/misc/meat#chicken-thighs",
   "boneless skinless chicken thigh": "/misc/meat#chicken-thighs",
+  "boneless skinless thighs": "/misc/meat#chicken-thighs",
+  "boneless skinless thigh": "/misc/meat#chicken-thighs",
   "skinless chicken thighs": "/misc/meat#chicken-thighs",
   "skinless chicken thigh": "/misc/meat#chicken-thighs",
+  "skinless thighs": "/misc/meat#chicken-thighs",
+  "skinless thigh": "/misc/meat#chicken-thighs",
+  "bone-in skin-on chicken thighs": "/misc/meat#chicken-thighs",
+  "bone-in skin-on chicken thigh": "/misc/meat#chicken-thighs",
   "bone-in skin-on chicken thighs": "/misc/meat#chicken-thighs",
   "bone-in skin-on chicken thigh": "/misc/meat#chicken-thighs",
   "bone in skin on chicken thighs": "/misc/meat#chicken-thighs",
   "bone in skin on chicken thigh": "/misc/meat#chicken-thighs",
+  "bone-in skin-on thighs": "/misc/meat#chicken-thighs",
+  "bone-in skin-on thigh": "/misc/meat#chicken-thighs",
+  "bone-in skin-on thighs": "/misc/meat#chicken-thighs",
+  "bone-in skin-on thigh": "/misc/meat#chicken-thighs",
+  "bone in skin on thighs": "/misc/meat#chicken-thighs",
+  "bone in skin on thigh": "/misc/meat#chicken-thighs",
   "chicken thighs": "/misc/meat#chicken-thighs",
   "thighs": "/misc/meat#chicken-thighs",
   "thigh meat": "/misc/meat#chicken-thighs",
@@ -2280,6 +2297,17 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "chicken pad thai",
+    "rice noodles",
+    "rice noodle",
+    "chicken francese",
+    "chicken piccata",
+    "chicken juice",
+    # "grilled chicken",
+    "greek salad",
+    "after baking",
+    "rotisserie chickens",
+    "rotisserie chicken",
     "butter chicken",
     "egg noodles",
     "egg noodle",
@@ -3462,8 +3490,8 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
-                continue
+            # if not file.startswith(("2023")):
+            #     continue
 
             # exclude some files
             # if file.startswith("2025-11-03-cheese"):
