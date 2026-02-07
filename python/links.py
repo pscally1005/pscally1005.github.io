@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\chicken"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\drinks"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
@@ -595,6 +595,8 @@ LINKS = {
   "lime juice": "/misc/fruit#lime-juice",
   "limes": "/misc/fruit#lime",
   "lime": "/misc/fruit#lime",
+  "mandarin oranges": "/misc/fruit#mandarin",
+  "mandarin orange": "/misc/fruit#mandarin",
   "mandarins": "/misc/fruit#mandarin",
   "mandarin": "/misc/fruit#mandarin",
   "mangos": "/misc/fruit#mangos",
@@ -2297,6 +2299,13 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "golden milk",
+    "whole milk (3.25%",
+    "and drink",
+    "strain the milk",
+    ") milk",
+    "squeeze the milk",
+    "nut milk bag",
     "chicken pad thai",
     "rice noodles",
     "rice noodle",
@@ -2959,9 +2968,9 @@ EXCLUDED_PHRASES = [
     "potassium sorbate",
     # "potassium chloride",
     # "sodium chloride",
-    "magnesium malate",
-    "magnesium glycinate",
-    "magnesium citrate",
+    # "magnesium malate",
+    # "magnesium glycinate",
+    # "magnesium citrate",
     "sodium benzoate",
     "mixed drinks",
     "olive or canola",

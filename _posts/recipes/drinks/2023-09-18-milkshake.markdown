@@ -51,11 +51,11 @@ tags:
 - dessert
 - cocoa
 - blend
-Description: Chocolate <a href='/misc/fruit#banana'>banana</a> <a href='/misc/nuts#almonds'>almond</a> butter milkshake. This smoothie can be had for breakfast, but is honestly so good it could easily pass as a milkshake for dessert. It's got over 20 g each of <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>healthy fats</a>, 10 g of <a href='/misc/fiber'>fiber</a>, sweetness from the banana, and creaminess from the <a href='/recipes/natural-peanut-butter'>nut butter</a>!
+Description: Chocolate <a href='/misc/fruit#banana'>banana</a> <a href='/misc/nuts#almonds'>almond butter</a> milkshake. This <a href='/recipes/smoothie'>smoothie</a> can be had for <a href='/recipes/breakfast'>breakfast</a>, but is honestly so good it could easily pass as a milkshake for <a href='/recipes/healthier-dessert'>dessert</a>. It's got over 20 g each of <a href='/misc/protein'>protein</a> and <a href='/misc/fats'>healthy fats</a>, 10 g of <a href='/misc/fiber'>fiber</a>, sweetness from the <a href='/misc/fruit#banana'>banana</a>, and creaminess from the <a href='/recipes/natural-peanut-butter'>nut butter</a>!
 Instructions:
-- A few hours (or day) before, add half a banana to an airtight bag, and store in the freezer
+- A few hours (or day) before, add half a <a href='/misc/fruit#banana'>banana</a> to an airtight bag, and store in the freezer
 
-- Blend the banana, nut butter, and milk until creamy in a small blender or electric food chopper
+- Blend the <a href='/misc/fruit#banana'>banana</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/dairy#skim-milk'>milk</a> until creamy in a small <a href='https://amzn.to/4bO4VQ3'>blender</a> or electric food <a href='https://amzn.to/3VHhgMM'>chopper</a>
 
 - Add in the rest of the ingredients, and blend until fully combined
 

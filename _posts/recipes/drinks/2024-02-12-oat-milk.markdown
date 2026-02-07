@@ -50,16 +50,16 @@ tags:
 - unsweetened
 - vanilla
 - cinnamon
-Description: I've been using unsweetened vanilla <a href='/misc/nuts#almonds'>almond</a> <a href='/misc/fake-healthy-foods#skim-milk'>milk</a> for years, so I wanted to try making it myself, since store bought plant based milks tend to have a lot of extra weird ingredients. Unfortunately making <a href='/misc/dairy#almond-milk'>almond milk</a> is more expensive than just buying it, so that's where I got to oat milk. <a href='/misc/grains#oats'>Oats</a> are super cheap, so this is way cheaper than buying oat milk from the store. The process is the same though; I've tried this with quick <a href='/misc/grains#oats'>oats</a>, almonds, <a href='/misc/nuts#peanuts'>peanuts</a>, and <a href='/misc/nuts#pistachios'>pistachios</a>, all to great success
+Description: I've been using <a href='/misc/dairy#almond-milk'>unsweetened vanilla almond milk</a> for years, so I wanted to try making it myself, since store bought <a href='/misc/dairy#almond-milk'>plant based milks</a> tend to have a lot of extra weird ingredients. Unfortunately making <a href='/misc/dairy#almond-milk'>almond milk</a> is more expensive than just buying it, so that's where I got to <a href='/misc/grains#oats'>oat milk</a>. <a href='/misc/grains#oats'>Oats</a> are super cheap, so this is way cheaper than buying <a href='/misc/grains#oats'>oat milk</a> from the store. The process is the same though; I've tried this with <a href='/misc/grains#oats'>quick oats</a>, <a href='/misc/nuts#almonds'>almonds</a>, <a href='/misc/nuts#peanuts'>peanuts</a>, and <a href='/misc/nuts#pistachios'>pistachios</a>, all to great success
 Instructions:
-- Add your oats (or almonds) and water to a high speed blender. Add in any other flavorings you like as well, such as salt, vanilla, or cinnamon
+- Add your <a href='/misc/grains#oats'>oats</a> (or <a href='/misc/nuts#almonds'>almonds</a>) and water to a high speed <a href='https://amzn.to/4bO4VQ3'>blender</a>. Add in any other flavorings you like as well, such as salt, vanilla, or cinnamon
 
-- Blend on high for 30 seconds, or until well combined. Do not over blend, or it will get slimy (this is more of an issue with oat milk than almond milk)
+- Blend on high for 30 seconds, or until well combined. Do not over blend, or it will get slimy (this is more of an issue with <a href='/misc/grains#oats'>oat milk</a> than <a href='/misc/dairy#almond-milk'>almond milk</a>)
 
-- Place a cheese cloth (or nut milk bag) over a large bowl, and strain the milk. Don't squeeze the milk through the cloth, this could make it slimy
+- Place a cheese cloth (or nut milk bag) over a <a href='https://amzn.to/4adxMft'>large bowl</a>, and strain the milk. Don't squeeze the milk through the cloth, this could make it slimy
 
-- Transfer to a mason jar or soup container, and refrigerate for up to 5 days. Use the leftover pulp in your morning oatmeal or yogurt bowls
+- Transfer to a mason jar or <a href='/soup-stew'>soup</a> container, and refrigerate for up to 5 days. Use the leftover pulp in your morning <a href='/oatmeal'>oatmeal</a> or <a href='/misc/dairy#yogurt'>yogurt</a> bowls
 Notes:
-- If you're making almond (or any nut) milk, you should soak the almonds overnight. Add raw almonds to a bowl, just cover with water, and let soak for at least 8 hours. Drain the excess water prior to blending. If you are making oat milk, there's no soaking required
+- If you're making <a href='/misc/nuts#almonds'>almond</a> (or any <a href='/misc/nuts'>nut</a>) milk, you should soak the <a href='/misc/nuts#almonds'>almonds</a> overnight. Add raw <a href='/misc/nuts#almonds'>almonds</a> to a bowl, just cover with water, and let soak for at least 8 hours. Drain the excess water prior to blending. If you are making <a href='/misc/grains#oats'>oat milk</a>, there's no soaking required
 - <img src='/assets/Food/Drinks/Oat Milk/oat-milk-1.jpg'  class='instruction-image'>
 ---

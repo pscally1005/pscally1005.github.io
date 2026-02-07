@@ -48,11 +48,11 @@ tags:
 - unflavored protein powder
 - cocoa powder
 - protein bar
-Description: I used to never be a fan of <a href='/misc/protein'>protein</a> shakes, but upon switching to unflavored protein powder I was able to customize them a lot more and avoid the gross sucralose taste, in my opinion. I'll normally have this to add some extra <a href='/misc/protein'>protein</a> at a meal if I'm missing a <a href='/misc/protein'>protein</a> source, like a meatless salad.
+Description: I used to never be a fan of protein shakes, but upon switching to unflavored <a href='/misc/dairy#whey'>protein powder</a> I was able to customize them a lot more and avoid the gross <a href='/misc/fake-healthy-foods#sugar-substitutes'>sucralose</a> taste, in my opinion. I'll normally have this to add some extra <a href='/misc/protein'>protein</a> at a meal if I'm missing a <a href='/misc/protein'>protein</a> source, like a <a href='/recipes/meatless'>meatless</a> <a href='/salad'>salad</a>.
 Instructions:
 - Add all ingredients to a shaker bottle and shake.  Sometimes I like to add in a serving of <a href='https://www.amazon.com/dp/B07XQ61Y2Y?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TXCU8LZNT4TO&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3TXCU8LZNT4TO_1751467880758'>stevia sweetened electrolyte powder</a> as well
 Notes:
-- To make it lactose free, swap the milk for unsweetened almond milk
+- To make it lactose free, swap the <a href='/misc/dairy#skim-milk'>milk</a> for <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a>
 
-- You can also make it vanilla by omitting the <a href='/misc/protein'>protein</a> powder and adding 1/2 tsp (2.5 g) vanilla extract
+- You can also make it vanilla by omitting the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> and adding 1/2 tsp (2.5 g) vanilla extract
 ---

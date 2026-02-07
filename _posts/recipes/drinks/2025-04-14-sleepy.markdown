@@ -56,11 +56,11 @@ tags:
 - liquid monk fruit
 - unsweetened vanilla almond milk
 - unsweetened almond milk
-Description: Golden <a href='/misc/dairy#almond-milk'>milk</a> is a traditional Indian turmeric milk used for reducing <a href='/misc/chronic-inflammation'>inflammation</a>. The black pepper aids in activating the <a href='/misc/chronic-inflammation'>anti inflammatory</a> effects of turmeric, and my addition of <a href='/misc/magnesium'>magnesium</a> will relax your muscles and calm your mind.  Pair this with a <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetable</a> as your <a href='/misc/carbs'>carb</a> side at dinner time, and you'll be <a href='/misc/sleep'>sleeping</a> like a baby
+Description: Golden milk is a traditional Indian turmeric <a href='/misc/dairy#skim-milk'>milk</a> used for <a href='/misc/chronic-inflammation'>reducing inflammation</a>. The black pepper aids in activating the <a href='/misc/chronic-inflammation'>anti inflammatory</a> effects of turmeric, and my addition of <a href='/misc/magnesium'>magnesium</a> will relax your muscles and calm your mind.  Pair this with a <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetable</a> as your <a href='/misc/carbs'>carb</a> <a href='/recipes/sides'>side</a> at dinner time, and you'll be sleeping like a baby
 Instructions:
-- Break your banana into chunks, and freeze overnight
+- Break your <a href='/misc/fruit#banana'>banana</a> into chunks, and freeze overnight
 
-- Blend your frozen banana with the rest of the ingredients
+- Blend your frozen <a href='/misc/fruit#banana'>banana</a> with the rest of the ingredients
 Notes:
-- Optionally, add a scoop of protein powder. You can also use whatever milk you have on hand; today was almond for me
+- Optionally, add a scoop of <a href='/misc/dairy#whey'>protein powder</a>. You can also use whatever <a href='/misc/dairy#skim-milk'>milk</a> you have on hand; today was <a href='/misc/nuts#almonds'>almond</a> for me
 ---
