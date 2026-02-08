@@ -53,22 +53,21 @@ tags:
 - red split lentils
 - brown rice
 - quinoa beans
-Description: |
-  These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled with <a href='/misc/meat#ground-turkey'>ground turkey</a>, <a href='/misc/grains#brown-rice'>brown rice</a>, and taco seasonings.  But they're super customizable, see <a href='#notes'>notes</a> below
+Description: These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled with <a href='/misc/meat#ground-turkey'>ground turkey</a>, <a href='/misc/grains#brown-rice'>brown rice</a>, and taco seasonings.  But they're super customizable, see <a href='#notes'>notes</a> below
 Instructions:
-- In a small pot, add your rice, water, and salt. Bring to a boil over high heat. Cover, reduce to low, and let simmer for about 20-30 minutes, until fully cooked. Set aside
+- In a small pot, add your <a href='/misc/grains#brown-rice'>rice</a>, water, and salt. Bring to a boil over high heat. Cover, reduce to low, and let simmer for about 20-30 minutes, until fully cooked. Set aside
 
-- Meanwhile, preheat your oven to 400F, and line a 9x13" pan with parchment paper
+- Meanwhile, preheat your oven to 400F, and line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper
 
-- Cut the peppers in half, and scoop out the ribs and seeds.  Rinsing under the sink helps to remove seeds  Place cut side up in your pan
+- Cut the <a href='/misc/veggies#pepper'>peppers</a> in half, and scoop out the ribs and seeds.  Rinsing under the sink helps to remove seeds  Place cut side up in your pan
 
-- In a large bowl, mix together the filling - cooked rice, ground meat, cheese, minced garlic, chili powder, garlic powder, onion powder, cumin, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the filling - cooked <a href='/misc/grains#brown-rice'>rice</a>, <a href='/recipes/ground-meat'>ground meat</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, chili powder, garlic powder, onion powder, cumin, and salt
 - <img src='/assets/Food/Finger Food/Stuffed/filling.jpg' alt='' class='instruction-image'>
 
-- Stuff the peppers, about 100 g in each pepper half. Optionally top with more cheese or <a href='/recipes/ketchup'>Unsweetened BBQ Sauce</a>
+- Stuff the <a href='/misc/veggies#pepper'>peppers</a>, about 100 g in each <a href='/misc/veggies#pepper'>pepper</a> half. Optionally top with more <a href='/misc/dairy#mozzarella'>cheese</a> or <a href='/recipes/ketchup'>Unsweetened BBQ Sauce</a>
 - <img src='/assets/Food/Finger Food/Stuffed/raw.jpg' alt='' class='instruction-image'>
 
-- Cover the pan with aluminum foil, and roast at 400F for about 1 hour. The peppers should be tender and the meat fully cooked (at least 165F)
+- Cover the pan with aluminum foil, and roast at 400F for about 1 hour. The <a href='/misc/veggies#pepper'>peppers</a> should be tender and the <a href='/misc/meat'>meat</a> fully cooked (at least <a href='https://amzn.to/4kmobG2'>165F</a>)
 - <img src='/assets/Food/Finger Food/Stuffed/cooked.jpg' alt='' class='instruction-image'>
 Notes:
 - |
@@ -82,6 +81,6 @@ Notes:
     <li>Mix in some <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a> or <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> to the filling, or add on top of the peppers</li>
   </ul>
 
-- To celebrate Halloween, feel free to carve a face into your peppers like Vic did below.  I also paired this with my <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf</a> that I instead shaped into a scary face.  I used fresh mozzarella and olives for the eyes, garlic cloves for the teeth, and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> for the blood
+- To celebrate Halloween, feel free to carve a face into your <a href='/misc/veggies#pepper'>peppers</a> like Vic did below.  I also paired this with my <a href='/recipes/bbq-meatloaf'>Classic BBQ Meatloaf</a> that I instead shaped into a scary face.  I used fresh <a href='/misc/dairy#mozzarella'>mozzarella</a> and <a href='/misc/fruit#olives'>olives</a> for the eyes, <a href='/misc/veggies#garlic'>garlic cloves</a> for the teeth, and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> for the blood
 - <a href='/recipes/bbq-meatloaf'><img src='/assets/Food/Finger Food/Stuffed/halloween.jpg' alt='' class='larger-image'></a>
 ---

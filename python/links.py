@@ -55,6 +55,10 @@ LINKS = {
   "homemade seed butter": "/recipes/natural-peanut-butter",
   "natural peanut butters": "/recipes/natural-peanut-butter",
   "natural peanut butter": "/recipes/natural-peanut-butter",
+  "nut/seed butters": "/recipes/natural-peanut-butter",
+  "nut or seed butters": "/recipes/natural-peanut-butter",
+  "nut/seed butter": "/recipes/natural-peanut-butter",
+  "nut or seed butter": "/recipes/natural-peanut-butter",
   "real peanut butter": "/recipes/natural-peanut-butter",
   "natural nut butters": "/recipes/natural-peanut-butter",
   "natural seed butters": "/recipes/natural-peanut-butter",
@@ -1534,6 +1538,7 @@ LINKS = {
   "small food chopper": "https://amzn.to/3VHhgMM",
   "immersion blender": "https://amzn.to/3VHhgMM",
   "chopper": "https://amzn.to/3VHhgMM",
+  "air frying": "https://amzn.to/3FuWETp",
   "air fryers": "https://amzn.to/3FuWETp",
   "air fryer": "https://amzn.to/3FuWETp",
   "air fried": "https://amzn.to/3FuWETp",
@@ -2272,7 +2277,12 @@ LINKS = {
   "low fat crackers": "/misc/fake-healthy-foods#low-fat",
   # "dips": "/misc/fake-healthy-foods#dips",
   "dessert hummus": "/misc/fake-healthy-foods#dips",
-  "microwave popcorn": "/misc/fake-healthy-foods#dips",
+  "movie theater or microwave popcorn": "/misc/fake-healthy-foods#popcorn",
+  "movie theater popcorn": "/misc/fake-healthy-foods#popcorn",
+  "movie popcorn": "/misc/fake-healthy-foods#popcorn",
+  "theater popcorn": "/misc/fake-healthy-foods#popcorn",
+  "microwave popcorn": "/misc/fake-healthy-foods#popcorn",
+  "microwave bags of popcorn": "/misc/fake-healthy-foods#popcorn",
   "margarine": "/misc/fake-healthy-foods#margarine",
   "low fat butter": "/misc/fake-healthy-foods#margarine",
   "lowfat": "/misc/fake-healthy-foods#margarine",
@@ -2307,6 +2317,24 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    '"cookies"',
+    "boxed cookies",
+    "girl scout cookies",
+    "girl scout cookie",
+    "black mission",
+    "each cracker",
+    "vanilla, mint, or almond",
+    "vanilla or almond",
+    "spanish fig",
+    "fig cake",
+    "fig bread",
+    "cinnamon sugar",
+    "remove the seeds",
+    "remove seeds",
+    "ribs and seeds",
+    "waffle fries",
+    "waffle fry",
+    "flour the",
     "cracker dough",
     "caesar salad",
     "granola mixture",
@@ -3519,7 +3547,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2025")):
                 continue
 
             # exclude some files

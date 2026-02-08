@@ -63,18 +63,16 @@ tags:
 - allulose
 - monk fruit
 - stevia
-Description: Fudge made simple and healthy!  With just 3 ingredients, a microwave, and a few minutes of time, you can whip up this easy dessert for a crowd. The <a href='/recipes/chocolate-bar'>unsweetened chocolate</a> and <a href='/recipes/natural-peanut-butter'>peanut butter</a> are full of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, and the lack of <a href='/misc/hidden-sugar'>added sugar</a> prevents <a href='/misc/diabetes'>blood sugar spikes</a> and <a href='/misc/insulin-resistance'>energy crashes</a>.  A <a href='/misc/fats'>higher fat</a> and <a href='/misc/carbs'>lower carb</a> snack is a great way to keep you feeling satiated throughout the day.  For other fudge recipes, check out my <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a> and <a href='/recipes/keto-fudge'>Bittersweet Keto Fudge</a>
+Description: Fudge made simple and healthy!  With just 3 ingredients, a microwave, and a few minutes of time, you can whip up this easy <a href='/recipes/healthier-dessert'>dessert</a> for a crowd. The <a href='/recipes/chocolate-bar'>unsweetened chocolate</a> and <a href='/misc/nuts#peanuts'>peanut butter</a> are full of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, and the lack of <a href='/misc/hidden-sugar'>added sugar</a> prevents <a href='/misc/diabetes'>blood sugar</a> spikes and energy crashes.  A higher <a href='/misc/fats'>fat</a> and lower <a href='/misc/carbs'>carb</a> snack is a great way to keep you feeling satiated throughout the day.  For other fudge recipes, check out my <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a> and <a href='/recipes/keto-fudge'>Bittersweet Keto Fudge</a>
 Instructions:
 - Line a small airtight container with parchment paper; mine are about 6" x 4"
 
 - Break your chocolate into chunks, and add to a medium microwave safe bowl. Microwave in 20 second intervals, stirring in between, until just fully melted, about 1.5 minutes total
 
-- You can also replace the <a href='/recipes/chocolate-bar'>100% chocolate bar</a> with 1/4 cup (56 g) melted coconut oil and 11 tbsp (56 g) cocoa powder
 
-- Add the <a href='/recipes/natural-peanut-butter'>peanut butter</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> to the melted chocolate, and stir with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
+- Add the <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> to the melted chocolate, and stir with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
 - <img src='/assets/Food/Finger Food/SF Fudge/bowl.jpg' alt='' class='instruction-image'>
 
-- I've gone with <a href='/misc/nuts#peanuts'>peanut butter</a> here, but <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or any other <a href='/recipes/natural-peanut-butter'>nut/seed butter</a> will totally work
 
 - Spread the fudge batter into your container. Optionally top with flaky salt
 - <img src='/assets/Food/Finger Food/SF Fudge/pan.jpg' alt='' class='instruction-image'>
@@ -85,4 +83,7 @@ Instructions:
 - Slices into 21 pieces, and store the fudge in the fridge
 - <img src='/assets/Food/Finger Food/SF Fudge/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- You can also replace the <a href='/recipes/chocolate-bar'>100% chocolate bar</a> with 1/4 cup (56 g) melted <a href='/misc/nuts#coconut'>coconut oil</a> and 11 tbsp (56 g) <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
+
+- I've gone with <a href='/misc/nuts#peanuts'>peanut butter</a> here, but <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or any other <a href='/recipes/natural-peanut-butter'>nut/seed butter</a> will totally work
 ---

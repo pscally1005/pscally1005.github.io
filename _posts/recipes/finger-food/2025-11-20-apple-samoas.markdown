@@ -15,7 +15,7 @@ soup_stew: no
 salad: no
 dressing: no
 brownie: no
-cookie: no
+cookie: yes
 copycat: no
 permalink: /recipes/apple-samoas
 image: /assets/Food/Finger Food/Apple Samoas/cover.jpg
@@ -52,13 +52,13 @@ tags:
 - chocolate chips
 - cookies
 - snack
-Description: It's never too early (or late) for Girl Scout Cookies. Instead of those ultra processed, <a href='/misc/diabetes'>high glycemic</a>, <a href='/misc/hidden-sugar'>high sugar</a>, and low nutrient boxed cookies, you can instead make this nutritious snack using <a href='/misc/fruit#apple'>apples</a> as a base. The topping consists of unsweetened <a href='/misc/nuts#coconut'>coconut</a> flakes and <a href='/misc/nuts#almonds'>almond butter</a> for ample amounts of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, as well as honey for <a href='/misc/carbs'>natural sweetness</a>.  A few of these are just what you need mid-day when you're having sugar cravings and need something to hold you over until dinner
+Description: It's never too early (or late) for Girl Scout Cookies. Instead of those <a href='/misc/processed-foods'>ultra processed</a>, <a href='/misc/diabetes'>high glycemic</a>, <a href='/misc/hidden-sugar'>high sugar</a>, and low <a href='/misc/nutrient-alphabet'>nutrient</a> boxed cookies, you can instead make this nutritious snack using <a href='/misc/fruit#apple'>apples</a> as a base. The topping consists of <a href='/misc/nuts#coconut'>unsweetened coconut flakes</a> and <a href='/misc/nuts#almonds'>almond butter</a> for ample amounts of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, as well as honey for <a href='/misc/carbs'>natural sweetness</a>.  A few of these are just what you need mid-day when you're having <a href='/misc/hidden-sugar'>sugar</a> cravings and need something to hold you over until dinner
 Instructions:
-- Wash your apple, and cut into thin slices. Cut out the center with a knife
+- Wash your <a href='/misc/fruit#apple'>apple</a>, and cut into thin slices. Cut out the center with a knife
 
-- In a small bowl, mix together coconut flakes, almond butter, and honey until you have a fully combined dough. Place a thin and even layer of the coconut mixture on top of each apple slice
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/nuts#coconut'>coconut flakes</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and honey until you have a fully combined dough. Place a thin and even layer of the <a href='/misc/nuts#coconut'>coconut</a> mixture on top of each <a href='/misc/fruit#apple'>apple</a> slice
 - <img src='/assets/Food/Finger Food/Apple Samoas/separate.jpg' alt='' class='instruction-image'>
 
-- In a small bowl, add chocolate chips and coconut oil, and microwave for 20 seconds. Stir until fully melted. Drizzle the chocolate on top of the "cookies", and refrigerate until the chocolate is hardened
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a>, and microwave for 20 seconds. Stir until fully melted. Drizzle the chocolate on top of the "cookies", and refrigerate until the chocolate is hardened
 Notes:
 ---
