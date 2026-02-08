@@ -53,25 +53,24 @@ tags:
 - dip
 - almonds
 - oat flour
-Description: Merry Christmas!  What better way to enjoy a morning Christmas brunch with your family than by dipping homemade biscotti into your coffee or hot chocolate.  This is a small batch of homemade biscotti that's free of <a href='/misc/celiac'>gluten</a> and refined <a href='/misc/hidden-sugar'>sugar</a>, and baked in your air fryer, so they're nice and crunchy.  You can check out any of my other <a href='/cookies'>cookie recipes</a>!
+Description: Merry Christmas!  What better way to enjoy a morning Christmas brunch with your family than by dipping homemade biscotti into your <a href='/misc/fake-healthy-foods#coffee'>coffee</a> or hot chocolate.  This is a small batch of homemade biscotti that's free of <a href='/misc/celiac'>gluten</a> and <a href='/misc/hidden-sugar'>refined sugar</a>, and baked in your <a href='https://amzn.to/3FuWETp'>air fryer</a>, so they're nice and crunchy.  You can check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- Preheat your air fryer to 360F, and cut a piece of parchment paper that will fit inside.  You can also use an air fryer liner
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 360F, and cut a piece of parchment paper that will fit inside.  You can also use an <a href='https://amzn.to/43AzcfI'>air fryer liner</a>
 
-- In a large bowl, combine together the dry ingredients - oat flour, almond meal, cornstarch, baking powder, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the dry ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/nuts#almonds'>almond meal</a>, cornstarch, baking powder, and salt
 
-- Almond meal is ground whole almonds, as opposed to almond flour, which is ground blanched almonds. If you don't have almond meal, then blend some whole almonds in a food processor until fine
+- In a separate bowl, beat together the wet ingredients - <a href='/misc/meat#eggs'>egg</a>, sweetener, and vanilla
 
-- For chocolate biscotti, replace 2 tbsp (10 g) of oat flour with cocoa powder, or maybe stir in some chocolate chips instead of almonds
+- Combine together, and mix until just combined. Fold in roughly chopped <a href='/misc/nuts'>nuts</a>
 
-- In a separate bowl, beat together the wet ingredients - egg, sweetener, and vanilla
-
-- Combine together, and mix until just combined. Fold in roughly chopped nuts
-
-- Transfer to your parchment paper or air fryer liner, and form into a rectangle
+- Transfer to your parchment paper or <a href='https://amzn.to/43AzcfI'>air fryer liner</a>, and form into a rectangle
 - <img src='/assets/Food/Finger Food/Biscotti/raw.jpg' alt='' class='instruction-image'>
 
-- Air fry at 360F for 12 minutes. Remove from the air fryer, and let cool on a wire rack for 15 minutes. Lower the air fryer temperature to 300F
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 360F for 12 minutes. Remove from the <a href='https://amzn.to/3FuWETp'>air fryer</a>, and let cool on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> for 15 minutes. Lower the <a href='https://amzn.to/3FuWETp'>air fryer</a> temperature to 300F
 
-- After cooling, slice into your biscotti. Air fry at 300F for 10 minutes, flipping halfway through.  Transfer to a wire rack to cool completely
+- After cooling, slice into your biscotti. <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for 10 minutes, flipping halfway through.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely
 Notes:
+- <a href='/misc/nuts#almonds'>Almond meal</a> is ground whole <a href='/misc/nuts#almonds'>almonds</a>, as opposed to <a href='/misc/nuts#almonds'>almond flour</a>, which is ground blanched <a href='/misc/nuts#almonds'>almonds</a>. If you don't have <a href='/misc/nuts#almonds'>almond meal</a>, then blend some whole <a href='/misc/nuts#almonds'>almonds</a> in a <a href='https://amzn.to/4q0AUjI'>food processor</a> until fine
+
+- For chocolate biscotti, replace 2 tbsp (10 g) of <a href='/misc/grains#oats'>oat flour</a> with <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, or maybe fold in some chocolate chips instead of <a href='/misc/nuts#almonds'>almonds</a>
 ---

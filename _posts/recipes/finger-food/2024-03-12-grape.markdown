@@ -57,22 +57,22 @@ tags:
 - cinnamon
 - cloves
 - allspice
-Description: Stuffed Grape Leaves are something I occasionally get at Greek restaurants, and I love them every time.  I've tried to recreate that feeling in my kitchen, and I think they've turned out pretty well.  They're great on their own, or dipped in <a href='/hummus'>hummus</a> or <a href='/recipes/salmon-and-tzatziki'>tzatziki</a>.  This pairs well as a side to a grilled <a href='/misc/meat#chicken-breast'>chicken</a> pocket pita, or some roasted <a href='/misc/fish'>fish</a> with lemon.  It's a lot of work on your own, but a fun activity with a partner or group of people
+Description: Stuffed Grape Leaves are something I occasionally get at Greek restaurants, and I love them every time.  I've tried to recreate that feeling in my kitchen, and I think they've turned out pretty well.  They're great on their own, or dipped in <a href='/hummus'>hummus</a> or <a href='/recipes/salmon-and-tzatziki'>tzatziki</a>.  This pairs well as a <a href='/recipes/sides'>side</a> to a grilled <a href='/misc/meat#chicken-breast'>chicken</a> pocket <a href='/recipes/pita'>pita</a>, or some roasted <a href='/misc/fish'>fish</a> with <a href='/misc/fruit#lemon'>lemon</a>.  It's a lot of work on your own, but a fun activity with a partner or group of people
 Instructions:
-- Rinse your rice under cold water in a fine mesh strainer. In a medium pot, add rice, water, and bouillon. Cover, and bring to a boil over high heat. Reduce heat to medium low, and let simmer for 30-45 minutes, or until fully cooked. This will depend on your brand of rice. Set aside
+- Rinse your <a href='/misc/grains#brown-rice'>rice</a> under cold water in a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a>. In a <a href='https://amzn.to/46ccg8m'>medium pot</a>, add <a href='/misc/grains#brown-rice'>rice</a>, water, and bouillon. Cover, and bring to a boil over high heat. Reduce heat to medium low, and let simmer for 30-45 minutes, or until fully cooked. This will depend on your brand of <a href='/misc/grains#brown-rice'>rice</a>. Set aside
 - <img src='/assets/Food/Finger Food/Grape/grape-1.jpg' alt='' class='instruction-image'>
 
 - Using a strainer, drain and rinse your jar of grape leaves. I bough a 16 oz jar, and probably used about half of it.  Set aside
 
-- Cut your onion into a fine dice. To a large pan over medium heat, add onion, oil, and salt. Cover, and cook until onion is translucent, about 5 minutes
+- Cut your <a href='/misc/veggies#onion'>onion</a> into a fine dice. To a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat, add <a href='/misc/veggies#onion'>onion</a>, <a href='/misc/fats'>oil</a>, and salt. Cover, and cook until <a href='/misc/veggies#onion'>onion</a> is translucent, about 5 minutes
 
-- Add in the meat, and cook until fully browned. Season with lemon pepper, cumin, cinnamon, cloves, allspice, and nutmeg. Take off the heat
+- Add in the <a href='/misc/meat'>meat</a>, and cook until fully browned. Season with lemon pepper, cumin, cinnamon, cloves, allspice, and nutmeg. Take off the heat
 - <img src='/assets/Food/Finger Food/Grape/grape-4.jpg' alt='' class='instruction-image'>
 
-- Finely chop your dill, and add to a large bowl.  An ounce of chopped dill should be around a cup or so. Combine with the rice and meat mixtures
+- Finely chop your dill, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>.  An ounce of chopped dill should be around a cup or so. Combine with the rice and meat mixtures
 - <img src='/assets/Food/Finger Food/Grape/grape-5.jpg' alt='' class='instruction-image'>
 
-- To stuff the grape leaves, place the leaf on a cutting board with the rough side up. Take about 1 tbsp of filling per leaf, and place in the center. Fold in the sides, and roll over to create a tightly wrapped mini burrito, with the seam side down
+- To stuff the grape leaves, place the leaf on a <a href='https://amzn.to/43gNqmY'>cutting board</a> with the rough side up. Take about 1 tbsp of filling per leaf, and place in the center. Fold in the sides, and roll over to create a tightly wrapped mini burrito, with the seam side down
 - <img src='/assets/Food/Finger Food/Grape/grape-6.jpg' alt='' class='instruction-image'>
 
 - Neatly arrange them (seam side down) in a large pot. Pour water (or broth) over the grape leaves, until just covered. Place an inverted plate on top to prevent them from rising
@@ -83,5 +83,5 @@ Instructions:
 - Let cool for 30 minutes before eating
 - <img src='/assets/Food/Finger Food/Grape/grape-9.jpg' alt='' class='instruction-image'>
 Notes:
-- If you have extra grape leaves, you can finely chop them and add them to a salad
+- If you have extra grape leaves, you can finely chop them and add them to a <a href='/salad'>salad</a>
 ---

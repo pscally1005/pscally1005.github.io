@@ -11,6 +11,7 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\finger-food"
 LINKS = {
 
   # RECIPES
+  "pita": "/recipes/pita",
   "homemade jam": "/recipes/berry-jam",
   "homemade jelly": "/recipes/berry-jam",
   "homemade blackberry jam": "/recipes/berry-jam",
@@ -1505,6 +1506,8 @@ LINKS = {
   "creatine": "/misc/creatine",
 
   # AMAZON
+  "pizza wheel": "https://amzn.to/3O5nlSH",
+  "pizza cutter": "https://amzn.to/3O5nlSH",
   "baking stone": "https://amzn.to/4ccXgLm",
   "pizza stone": "https://amzn.to/4ccXgLm",
   "stone": "https://amzn.to/4ccXgLm",
@@ -2164,6 +2167,7 @@ LINKS = {
   "breakfast bar": "/misc/fake-healthy-foods#granola",
   "granola bars": "/misc/fake-healthy-foods#granola",
   "granola bar": "/misc/fake-healthy-foods#granola",
+  "granolas": "/misc/fake-healthy-foods#granola",
   "granola": "/misc/fake-healthy-foods#granola",
   "trail mix": "/misc/fake-healthy-foods#trail-mix",
   "pretzels": "/misc/fake-healthy-foods#pretzels",
@@ -2303,6 +2307,13 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "cracker dough",
+    "caesar salad",
+    "granola mixture",
+    "in the sides",
+    "rice and meat mixtures",
+    "grape leaves",
+    "grape leaf",
     "the crackers",
     "the fries",
     "sweet potato fries",
@@ -3508,7 +3519,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files
