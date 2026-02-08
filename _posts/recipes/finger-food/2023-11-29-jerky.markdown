@@ -50,12 +50,12 @@ tags:
 - snack
 - protein
 - vic
-Description: Chicken jerky is a great high <a href='/misc/protein'>protein</a> snack, and it's way cheaper than buying beef jerky at the store (or use this to make beef jerky too). It's simple to do, just requiring an overnight marinate of thinly sliced <a href='/misc/meat#chicken-breast'>chicken</a> breasts, and a few hours of dehydrating. They're spicy, sweet, salty, healthy, and delicious.
+Description: <a href='/misc/meat#chicken-breast'>Chicken</a> jerky is a great <a href='/misc/high-protein'>high protein</a> snack, and it's way cheaper than buying <a href='/misc/fake-healthy-foods#processed-meats'>beef jerky</a> at the store (or use this to make <a href='/misc/fake-healthy-foods#processed-meats'>beef jerky</a> too). It's simple to do, just requiring an overnight marinate of thinly sliced <a href='/misc/meat#chicken-breast'>chicken breasts</a>, and a few hours of dehydrating. They're spicy, sweet, salty, healthy, and delicious.
 Instructions:
-- Thinly slice the chicken, about 1/4 inch thick. Using slightly frozen chicken will make it easier to slice. Mix with the marinade, and let sit in the fridge overnight (covered if in a bowl, or seal the bag).  You can add 1 tbsp (16 g) gochjang into the marinade as well if you like
+- Thinly slice the <a href='/misc/meat#chicken-breast'>chicken</a>, about 1/4 inch thick. Using slightly frozen <a href='/misc/meat#chicken-breast'>chicken</a> will make it easier to slice. Mix with the marinade, and let sit in the fridge overnight (covered if in a bowl, or seal the bag).  You can add 1 tbsp (16 g) gochjang into the marinade as well if you like
 
-- Remove the excess marinade and add to a parchment lined basket. Air fry at 370F for about 9-10 minutes, or until the chicken just reaches 165F. This is to ensure safety and that all salmonella is cooked off prior to dehydrating
+- Remove the excess marinade and add to a parchment lined basket. <a href='https://amzn.to/3FuWETp'>Air fry</a> at 370F for about 9-10 minutes, or until the <a href='/misc/meat#chicken-breast'>chicken</a> just reaches <a href='https://amzn.to/4kmobG2'>165F</a>. This is to ensure safety and that all salmonella is cooked off prior to dehydrating
 
-- Switch your air fryer to dehydrate mode at 170F. Cook for an additional 3 hours (flipping halfway), or until you have your desired texture. Store in an air tight container in the fridge
+- Switch your <a href='https://amzn.to/3FuWETp'>air fryer</a> to dehydrate mode at 170F. Cook for an additional 3 hours (flipping halfway), or until you have your desired texture. Store in an air tight container in the fridge
 Notes:
 ---

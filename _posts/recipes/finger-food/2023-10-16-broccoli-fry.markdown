@@ -51,17 +51,18 @@ tags:
 - protein
 - casein
 - vic
-Description: These simple <a href='/misc/veggies'>vegetable</a> snack bites are delicious and super nutritious. They're made by blending together <a href='/misc/veggies#broccoli'>broccoli</a> and spices, turned into a dough and baked in bite sized pieces. Bonus points for accidentally satisfying all my criteria for a <a href='/misc/protein'>protein</a> bar as well!  For a meal, you can pair them with my <a href='/recipes/chicken-fingers'>Gluten Free Air Fryer Chicken Fingers</a> recipe
+Description: These simple <a href='/misc/veggies'>vegetable</a> snack bites are delicious and super nutritious. They're made by blending together <a href='/misc/veggies#broccoli'>broccoli</a> and spices, turned into a dough and baked in bite sized pieces. Bonus points for accidentally satisfying all my criteria for a protein bar as well!  For a meal, you can pair them with my <a href='/recipes/chicken-fingers'>Gluten Free Air Fryer Chicken Fingers</a> recipe
 Instructions:
-- Thaw out your broccoli in the microwave, or let sit on the counter for a few hours
+- Thaw out your <a href='/misc/veggies#broccoli'>broccoli</a> in the microwave, or let sit on the counter for a few hours
 
-- In a food processor, combine all the ingredients. Mix to combine. Keep moving everything around until the mix becomes sticky and a dough like consistency starts to form
+- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, combine all the ingredients. Mix to combine. Keep moving everything around until the mix becomes sticky and a dough like consistency starts to form
 
-- Line a small cookie sheet with parchment and spread out the broccoli mix. Press it into all sides of the sheet pan to get a dense, thin product. The thinner you make these the crispier they will get in the air fryer. If your sheet pan is too small and you try to fit the entire mixture on to it, your final bites will probably be too thick. It may be necessary in this case to use two sheet pans. You want about ⅛"-¼" in thickness. Place the sheet pan into the freezer and allow it to freeze until solid
+- Line a small <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment and spread out the <a href='/misc/veggies#broccoli'>broccoli</a> mix. Press it into all sides of the sheet pan to get a dense, thin product.  Place the sheet pan into the freezer and allow it to freeze until solid
 
 - Once frozen solid, remove from the pan and cut into pieces.  Transfer the bites to a bag and store them in the freezer
 - <img src='/assets/Food/Finger Food/Vegetable/vegetable-chip-4.jpg' alt='' class='instruction-image'>
 
-- To cook - Preheat your air fryer to 400°F. Place the frozen broccoli bites into the air fryer. (Spray with oil if you wish). Air fry for 16 minutes, flipping half way. Cooking times may vary depending on thickness, just keep an eye on them.
+- To cook - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400°F. Place the frozen <a href='/misc/veggies#broccoli'>broccoli</a> bites into the <a href='https://amzn.to/3FuWETp'>air fryer</a>. (<a href='https://amzn.to/3Hdg0gk'>Spray with oil</a> if you wish). <a href='https://amzn.to/3FuWETp'>Air fry</a> for 16 minutes, flipping half way. Cooking times may vary depending on thickness, just keep an eye on them.
 Notes:
+- The thinner you make these the crispier they will get in the <a href='https://amzn.to/3FuWETp'>air fryer</a>. If your sheet pan is too small and you try to fit the entire mixture on to it, your final bites will probably be too thick. It may be necessary in this case to use two sheet pans. You want about ⅛"-¼" in thickness
 ---

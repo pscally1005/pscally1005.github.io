@@ -48,12 +48,12 @@ tags:
 - french
 - roast
 - vic
-Description: <a href='/misc/veggies#sweet-potato'>Sweet potato</a> fries are a perfect quick side to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular fries. Everyone knows that <a href='/misc/meat#chicken-breast'>chicken</a> nuggets and french fries are a classic combo, so see my <a href='/recipes/chicken-nuggets'>Freezer Chicken Nuggets</a> for a nutritious version of this meal
+Description: Sweet potato fries are a perfect quick <a href='/recipes/sides'>side</a> to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular <a href='/misc/fake-healthy-foods#potatoes'>fries</a>. Everyone knows that chicken nuggets and <a href='/misc/fake-healthy-foods#potatoes'>french fries</a> are a classic combo, so see my <a href='/recipes/chicken-nuggets'>Freezer Chicken Nuggets</a> for a nutritious version of this meal
 Instructions:
-- Wash your sweet potato, and cut into a fry shape. Add to a bowl, and microwave on high (covered) for 3 minutes
+- Wash your <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut into a fry shape. Add to a bowl, and microwave on high (covered) for 3 minutes
 
-- Toss the potato with the oil and the spices
+- Toss the <a href='/misc/veggies#potato'>potato</a> with the <a href='/misc/fats'>oil</a> and the spices
 
-- Lightly spray the basket with oil, and arrange the fries in a single layer, giving room for the air to circulate. You may need to fry them in 2 batches.  Air fry for about 6 minutes at 400F, or until done to your liking
+- Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the basket with oil, and arrange the fries in a single layer, giving room for the air to circulate. You may need to fry them in 2 batches.  <a href='https://amzn.to/3FuWETp'>Air fry</a> for about 6 minutes at 400F, or until done to your liking
 Notes:
 ---

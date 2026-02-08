@@ -58,14 +58,14 @@ tags:
 - jam
 - gluten free
 - sugar free
-Description: These simple cookies are made with just mashed <a href='/misc/fruit#banana'>banana</a> and rolled <a href='/misc/grains#oats'>oats</a>. They can be easily customized by switching out the banana for unsweetened applesauce, pumpkin puree, or really anything you can think of. Or feel free to fold in whatever mix-ins you like, such as chocolate chips, <a href='/misc/fruit#raisin'>raisins</a>, or chopped <a href='/misc/nuts'>nuts</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
+Description: These simple <a href='/cookies'>cookies</a> are made with just mashed <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/grains#oats'>rolled oats</a>. They can be easily customized by switching out the <a href='/misc/fruit#banana'>banana</a> for <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, or really anything you can think of. Or feel free to fold in whatever mix-ins you like, such as chocolate chips, <a href='/misc/fruit#raisins'>raisins</a>, or chopped <a href='/misc/nuts'>nuts</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- Preheat your oven to 350F and line a cookie sheet with parchment paper
+- Preheat your oven to 350F and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- In a bowl, add your banana, and mash with the back of a fork until smooth. Mix in the oats, with an optional small pinch of salt
+- In a bowl, add your <a href='/misc/fruit#banana'>banana</a>, and mash with the back of a fork until smooth. Mix in the <a href='/misc/grains#oats'>oats</a>, with an optional small pinch of salt
 - <img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-2.jpg' alt='' class='instruction-image'>
 
-- Scoop onto your lined tray, and lightly flatten the tops.  Bake at 350F for about 12 minutes. Transfer to a wire rack to cool
+- Scoop onto your lined tray, and lightly flatten the tops.  Bake at 350F for about 12 minutes. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool
 - <img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-5.jpg' alt='' class='instruction-image'>
 Notes:
 - |
@@ -79,8 +79,8 @@ Notes:
     <li><a href='/recipes/berry-jam'>Berry Jam</a></li>
   </ul>
 
-- Below is a batch I made with homemade blackberry jam (left) and applesauce (right)
+- Below is a batch I made with <a href='/recipes/berry-jam'>homemade blackberry jam</a> (left) and <a href='/misc/fruit#apple'>applesauce</a> (right)
 - <img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-3.jpg' alt='' class='instruction-image'>
 
-- You can also add any other flavors if you like. A dash of cinnamon or vanilla would be great, or you can fold in some mix-ins like chocolate chips or nuts
+- You can also add any other flavors if you like. A dash of cinnamon or vanilla would be great, or you can fold in some mix-ins like chocolate chips or <a href='/misc/nuts'>nuts</a>
 ---

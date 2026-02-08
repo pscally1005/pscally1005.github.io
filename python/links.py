@@ -4,12 +4,16 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\drinks"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\finger-food"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
 
   # RECIPES
+  "homemade jam": "/recipes/berry-jam",
+  "homemade jelly": "/recipes/berry-jam",
+  "homemade blackberry jam": "/recipes/berry-jam",
   "pickled red onions": "/recipes/pickled-onions",
   "pickled red onion": "/recipes/pickled-onions",
   "pickled onions": "/recipes/pickled-onions",
@@ -2299,6 +2303,11 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "the crackers",
+    "the fries",
+    "sweet potato fries",
+    "sweet potato fry",
+    "into crackers",
     "golden milk",
     "whole milk (3.25%",
     "and drink",
@@ -3499,8 +3508,8 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            # if not file.startswith(("2023")):
-            #     continue
+            if not file.startswith(("2023")):
+                continue
 
             # exclude some files
             # if file.startswith("2025-11-03-cheese"):
