@@ -374,8 +374,8 @@ LINKS = {
   "black eyed pea": "/misc/beans#black-eyed-peas",
   "brown lentils": "/misc/beans#brown-lentils",
   "brown lentil": "/misc/beans#brown-lentils",
-  "lentils": "/misc/beans#brown-lentils",
-  "lentil": "/misc/beans#brown-lentils",
+  "lentils": "/misc/beans#red-lentils",
+  "lentil": "/misc/beans#red-lentils",
   "cannellini beans": "/misc/beans#cannellini-beans",
   "cannellini bean": "/misc/beans#cannellini-beans",
   "cannellini": "/misc/beans#cannellini-beans",
@@ -839,6 +839,7 @@ LINKS = {
   "spam": "/misc/meat#spam",
   "steak": "/misc/meat#steak",
   "steaks": "/misc/meat#steak",
+  "sirloin": "/misc/meat#steak",
   "turkey breast": "/misc/meat#turkey-breast",
   "turkey breasts": "/misc/meat#turkey-breast",
   "veal": "/misc/meat#veal",
@@ -2321,6 +2322,21 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "if baking",
+    "cheese sauce",
+    "lemon zest",
+    "lime zest",
+    "orange zest",
+    "fish sauce",
+    "oyster sauce",
+    "seal the sides",
+    "some oil",
+    "baking later",
+    "baking now",
+    "meat filling",
+    "with the grain",
+    "against the grain",
+    "cookie scoop",
     "hummus ingredients",
     "sauce ingredients",
     "pesto ingredients",
@@ -3049,7 +3065,7 @@ EXCLUDED_PHRASES = [
     # "garlic, onion",
     "onion and garlic powders",
     "onion and garlic powder",
-    "onion and garlic",
+    # "onion and garlic",
     # "onion, garlic",
     "monk fruit",
     "nutritional yeast",
@@ -3562,7 +3578,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

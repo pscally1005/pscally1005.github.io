@@ -60,18 +60,18 @@ tags:
 - nooch
 Description: I bet you've never had a healthy mac and cheese before.  This dish is still cheesy and creamy while packing over 42 g of <a href='/misc/protein'>protein</a> in 500 <a href='/misc/calories'>calories</a> per serving.  You can add even more bulk by adding more <a href='/misc/veggies'>vegetables</a> like <a href='/misc/veggies#pepper'>peppers</a> or <a href='/misc/veggies#broccoli'>broccoli</a>, but I wanted to keep it more traditional here.  To elevate this, make it a BBQ Mac & Cheese with <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> or <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>, or top it with breadcrumbs and broil the top until crispy!
 Instructions:
-- Cook your pasta according to instructions. Strain, rinse with cold water, and set aside
+- Cook your <a href='/misc/grains#pasta'>pasta</a> according to instructions. Strain, rinse with cold water, and set aside
 
-- Meanwhile, preheat a large pan over medium heat with oil. Cut your onions into a small dice, and add to the pan with salt. Cover, and cook until translucent, about 5-8 minutes
+- Meanwhile, preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with oil. Cut your <a href='/misc/veggies#onion'>onions</a> into a small dice, and add to the pan with salt. Cover, and cook until translucent, about 5-8 minutes
 - <img src='/assets/Food/Ground Meat/M&C/m&c-pasta.jpg' alt='' class='instruction-image'>
 
-- Add the meat to the pan, and cook until no longer pink. Season with chili powder and black pepper. Remove from the heat
+- Add the <a href='/misc/meat'>meat</a> to the pan, and cook until no longer pink. Season with chili powder and black pepper. Remove from the heat
 - <img src='/assets/Food/Ground Meat/M&C/m&c-meat.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, prepare your cheese sauce by blending together all the ingredients - cottage cheese, shredded cheese, milk, nutritional yeast, cornstarch, garlic powder, onion powder, and paprika
+- Meanwhile, prepare your cheese sauce by blending together all the ingredients - <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#cheddar'>shredded cheese</a>, <a href='/misc/dairy#skim-milk'>milk</a>, nutritional yeast, cornstarch, garlic powder, onion powder, and paprika
 - <img src='/assets/Food/Ground Meat/M&C/m&c-sauce.jpg' alt='' class='instruction-image'>
 
-- Combine the cheese sauce and pasta with the meat in a 9x13" casserole pan.  Top with shredded cheese, and optionally top with BBQ sauce or breadcrumbs as well
+- Combine the cheese sauce and <a href='/misc/grains#pasta'>pasta</a> with the <a href='/misc/meat'>meat</a> in a <a href='https://amzn.to/4aiCsjh'>9x13" casserole pan</a>.  Top with <a href='/misc/dairy#cheddar'>shredded cheese</a>, and optionally top with <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a> or breadcrumbs as well
 - <img src='/assets/Food/Ground Meat/M&C/m&c-topped.jpg' alt='' class='instruction-image'>
 
 - Cover, and bake at 400F until bubbly. This will take about 10 minutes if baking right away, or 30 minutes if preparing ahead of time, refrigerating, and baking later

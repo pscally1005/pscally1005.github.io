@@ -54,26 +54,26 @@ tags:
 - salad
 - chopped
 - sweet potatoes
-Description: These bowls are deconstructed burgers, instead making them into a healthy salad, with the buns swapped for roasted <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. There's way more food for way less <a href='/misc/calories'>calories</a>, with a lot of volume to this dish. It's full of all your favorite burger flavors, toppings, and my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>. If a classic burger is what you desire, see my <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a>
+Description: These bowls are deconstructed burgers, instead making them into a healthy <a href='/salad'>salad</a>, with the buns swapped for roasted <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. There's way more food for way less <a href='/misc/calories'>calories</a>, with a lot of volume to this dish. It's full of all your favorite burger flavors, toppings, and my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>. If a classic burger is what you desire, see my <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a>
 Instructions:
-- Starting with the potatoes. Wash and cut your sweet potatoes into cubes. You don't need to peel the potatoes. Add to a microwave save bowl, and toss with oil, soy sauce, and baking soda. Cover, and microwave on full power for 3 minutes to soften the potatoes
+- Starting with the <a href='/misc/veggies#potato'>potatoes</a>. Wash and cut your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> into cubes. You don't need to peel the <a href='/misc/veggies#potato'>potatoes</a>. Add to a microwave save bowl, and toss with oil, soy sauce, and baking soda. Cover, and microwave on full power for 3 minutes to soften the <a href='/misc/veggies#potato'>potatoes</a>
 
-- Remove the potatoes from the microwave, and toss with the seasonings - chili powder, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
+- Remove the <a href='/misc/veggies#potato'>potatoes</a> from the microwave, and toss with the seasonings - chili powder, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 
-- Add to your air fryer in a single layer, and air fry at 400F for about 6-8 minutes, or until crispy but not burnt. Set aside
+- Add to your <a href='https://amzn.to/3FuWETp'>air fryer</a> in a single layer, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 6-8 minutes, or until crispy but not burnt. Set aside
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-3.jpg' alt='' class='instruction-image'>
 
-- Moving onto the cheese. In a small bowl, mix together shredded cheese, cornstarch, and almond milk. This will get added into the beef at the end. Set the bowl aside
+- Moving onto the <a href='/misc/dairy#mozzarella'>cheese</a>. In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/dairy#cheddar'>shredded cheese</a>, cornstarch, and <a href='/misc/dairy#almond-milk'>almond milk</a>. This will get added into the <a href='/misc/meat#ground-beef'>beef</a> at the end. Set the bowl aside
 
-- Now for the burger. Heat a large pan over medium heat with olive oil. Add in the beef, and cook until browned. Season with soy sauce, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
+- Now for the burger. Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with olive oil. Add in the <a href='/misc/meat#ground-beef'>beef</a>, and cook until browned. Season with soy sauce, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-5.jpg' alt='' class='instruction-image'>
 
-- Add the bowl of cheese into the pan, mix, and cover. Cook for just a minute or so to melt the cheese and a creamy sauce forms. Set the pan aside
+- Add the bowl of <a href='/misc/dairy#mozzarella'>cheese</a> into the pan, mix, and cover. Cook for just a minute or so to melt the <a href='/misc/dairy#mozzarella'>cheese</a> and a creamy sauce forms. Set the pan aside
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-6.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, chop up the vegetables for the salad. Wash your lettuce and tomatoes. Thinly slice the lettuce, cut the tomatoes into a medium dice, and the onions and pickles into a small dice. Set vegetables aside
+- Meanwhile, chop up the <a href='/misc/veggies'>vegetables</a> for the <a href='/salad'>salad</a>. Wash your <a href='/misc/veggies#lettuce'>lettuce</a> and <a href='/misc/veggies#tomato'>tomatoes</a>. Thinly slice the <a href='/misc/veggies#lettuce'>lettuce</a>, cut the <a href='/misc/veggies#tomato'>tomatoes</a> into a medium dice, and the <a href='/misc/veggies#onion'>onions</a> and pickles into a small dice. Set <a href='/misc/veggies'>vegetables</a> aside
 
-- Finally, it's time to assemble your bowls. Place the lettuce on the bottom as a base, and evenly top with your meat and sweet potatoes. Add the vegetables on top around the sides, and spoon on some <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>
+- Finally, it's time to assemble your bowls. Place the <a href='/misc/veggies#lettuce'>lettuce</a> on the bottom as a base, and evenly top with your <a href='/misc/meat'>meat</a> and <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Add the <a href='/misc/veggies'>vegetables</a> on top around the sides, and spoon on some <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg' alt='' class='instruction-image'>
 Notes:
 ---

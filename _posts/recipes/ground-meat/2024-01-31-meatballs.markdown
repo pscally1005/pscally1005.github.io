@@ -55,21 +55,21 @@ tags:
 - gluten free
 - pesto
 - marinara
-Description: These meatballs are <a href='/misc/celiac'>gluten free</a>, and can be made with <a href='/misc/meat#ground-beef'>ground beef</a>, <a href='/misc/meat#ground-turkey'>turkey</a>, or <a href='/misc/meat#chicken-breast'>chicken</a>. They taste great, and can be eaten on their own, or mixed into a <a href='/recipes/savory-sauces'>sauce</a> and <a href='/misc/grains#pasta'>pasta</a>, like I did here with <a href='/misc/veggies#zucchini'>zucchini</a> noodles. I used my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> recipe here, but feel free to use whatever <a href='/recipes/savory-sauces'>sauce</a> you desire. <a href='/pesto'>Pesto</a> would be great too, like my <a href='/recipes/evoo-pesto'>Lightened Extra Virgin Olive Oil Pesto</a>, <a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a>, or my <a href='/recipes/avocado-pesto'>Avocado Pesto - Vegan and Oil Free</a>.  This recipe here is very similar to my <a href='/recipes/spaghetti-and-meatballs'>Spaghetti (Squash) & (Gluten Free) Meatballs</a>, where that recipe instead uses <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> instead of <a href='/misc/veggies#zucchini'>zoodles</a> and <a href='/misc/meat#ground-beef'>beef</a> instead of <a href='/misc/meat#ground-turkey'>turkey</a>
+Description: These meatballs are <a href='/misc/celiac'>gluten free</a>, and can be made with <a href='/misc/meat#ground-beef'>ground beef</a>, <a href='/misc/meat#ground-turkey'>turkey</a>, or <a href='/misc/meat#chicken-breast'>chicken</a>. They taste great, and can be eaten on their own, or mixed into a sauce and <a href='/misc/grains#pasta'>pasta</a>, like I did here with <a href='/misc/veggies#zucchini'>zucchini noodles</a>. I used my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> recipe here, but feel free to use whatever sauce you desire. <a href='/pesto'>Pesto</a> would be great too, like my <a href='/recipes/evoo-pesto'>Lightened Extra Virgin Olive Oil Pesto</a>, <a href='/recipes/creamy-pesto'>Creamy Pesto Dip</a>, or my <a href='/recipes/avocado-pesto'>Avocado Pesto - Vegan and Oil Free</a>.  This recipe here is very similar to my <a href='/recipes/spaghetti-and-meatballs'>Spaghetti (Squash) & (Gluten Free) Meatballs</a>, where that recipe instead uses <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> instead of <a href='/misc/veggies#zucchini'>zoodles</a> and <a href='/misc/meat#ground-beef'>beef</a> instead of <a href='/misc/meat#ground-turkey'>turkey</a>
 Instructions:
-- Preheat your oven to 400F, and prepare a large cookie sheet with parchment paper
+- Preheat your oven to 400F, and prepare a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- In a large bowl, beat your egg, and mix with the rest of the ingredients. Mix with your hands until just combined
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat your <a href='/misc/meat#eggs'>egg</a>, and mix with the rest of the ingredients. Mix with your hands until just combined
 
 - Scoop your mixture (using a cookie scoop helps), roll into balls, and place on your sheet pans
 - <img src='/assets/Food/Ground Meat/Meatballs/meatballs-3.jpg' alt='' class='instruction-image'>
 
-- Roast the meatballs in your 400F oven for about 14-16 minutes, or until cooked through and reach a temperature of at least 165F. Set aside
+- Roast the meatballs in your 400F oven for about 14-16 minutes, or until cooked through and reach a temperature of at least <a href='https://amzn.to/4kmobG2'>165F</a>. Set aside
 
-- Meanwhile, warm up (or cook) your sauce in a medium pot over medium low heat
+- Meanwhile, warm up (or cook) your sauce in a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium low heat
 
-- As the sauce simmers, use a spiralizer to cut the zucchini into zoodles, and add to a large pan with oil over medium heat. Season, cover, and cook until desired texture is reached
+- As the sauce simmers, use a spiralizer to cut the <a href='/misc/veggies#zucchini'>zucchini</a> into <a href='/misc/veggies#zucchini'>zoodles</a>, and add to a <a href='https://amzn.to/4rdR0HI'>large pan</a> with oil over medium heat. Season, cover, and cook until desired texture is reached
 
-- Mix together the sauce and the zoodles. Top with meatballs and serve
+- Mix together the sauce and the <a href='/misc/veggies#zucchini'>zoodles</a>. Top with meatballs and serve
 Notes:
 ---
