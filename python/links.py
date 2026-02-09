@@ -2317,6 +2317,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "clam juice",
     "top and sides",
     '"cookies"',
     "boxed cookies",
@@ -3548,7 +3549,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2025")):
                 continue
 
             # exclude some files
