@@ -1892,6 +1892,9 @@ LINKS = {
   "stew recipes": "/soup-stew",
   "stews": "/soup-stew",
   "stew": "/soup-stew",
+  "chili recipes here": "/soup-stew",
+  "chili recipes": "/soup-stew",
+  "chili recipe": "/soup-stew",
   "salad recipes": "/salad",
   "salads": "/salad",
   "salad": "/salad",
@@ -2322,6 +2325,16 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "split peas",
+    "split pea",
+    "hour brownies",
+    "hour pizza",
+    "sheep hearts, lung, and liver",
+    "the only organ meat",
+    "honey beef",
+    "sun dried tomatoes",
+    "sun dried tomato",
+    "pasta water",
     "if baking",
     "cheese sauce",
     "lemon zest",
@@ -3578,7 +3591,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2025")):
                 continue
 
             # exclude some files

@@ -54,29 +54,29 @@ tags:
 - allspice
 - cloves
 - nutmeg
-Description: I just recently got back from a trip to Scotland where I tried haggis for the first time, and I loved it. I wanted to recreate it myself at home to enjoy all the same flavors while utilizing ingredients more available to myself in the States. Instead of sheep hearts, lung, and liver, the only organ <a href='/misc/meat'>meat</a> I have here is <a href='/misc/meat#liver'>beef liver</a>, along with <a href='/misc/meat#ground-beef'>ground beef</a>. This simplified ground haggis tastes very similar to the classic dish, featuring the same flavors like coriander, <a href='/misc/veggies#onion'>onion</a>, and of course <a href='/misc/grains#oats'>oats</a>
+Description: I just recently got back from a trip to Scotland where I tried haggis for the first time, and I loved it. I wanted to recreate it myself at home to enjoy all the same flavors while utilizing ingredients more available to myself in the States. Instead of sheep hearts, lung, and liver, the only organ meat I have here is <a href='/misc/meat#liver'>beef liver</a>, along with <a href='/misc/meat#ground-beef'>ground beef</a>. This simplified ground haggis tastes very similar to the classic dish, featuring the same flavors like coriander, <a href='/misc/veggies#onion'>onion</a>, and of course <a href='/misc/grains#oats'>oats</a>
 Instructions:
-- An hour before you go to cook, place the liver and blade of your food processor in the freezer for an hour. This makes blending the liver easier
+- An hour before you go to cook, place the liver and blade of your <a href='https://amzn.to/4q0AUjI'>food processor</a> in the freezer for an hour. This makes blending the liver easier
 
-- Preheat your oven to 350F. Lightly grease a 9x13" baking dish
+- Preheat your oven to 350F. Lightly grease a <a href='https://amzn.to/4aiCsjh'>9x13" baking dish</a>
 
-- Preheat a large pan with olive oil over medium heat. Finely dice an onion, and add to your hot pan with salt. Cover, and cook until translucent, about 10 minutes
+- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> with olive oil over medium heat. Finely dice an <a href='/misc/veggies#onion'>onion</a>, and add to your hot pan with salt. Cover, and cook until translucent, about 10 minutes
 
-- Pulse your beef liver in the food processor until finely ground. Don't over blend, or it'll end up pasty
+- Pulse your <a href='/misc/meat#liver'>beef liver</a> in the <a href='https://amzn.to/4q0AUjI'>food processor</a> until finely ground. Don't over blend, or it'll end up pasty
 - <img src='/assets/Food/Ground Meat/Haggis/liver.jpg' alt='' class='instruction-image'>
 
-- Add the liver and ground beef to the pan with the onions, and cook until browned and no longer pink.  Add in your spices, and cook until fragrant, about 1 minute. Transfer the meat and onions to the baking dish
+- Add the liver and <a href='/misc/meat#ground-beef'>ground beef</a> to the pan with the <a href='/misc/veggies#onion'>onions</a>, and cook until browned and no longer pink.  Add in your spices, and cook until fragrant, about 1 minute. Transfer the <a href='/misc/meat'>meat</a> and <a href='/misc/veggies#onion'>onions</a> to the baking dish
 - <img src='/assets/Food/Ground Meat/Haggis/meat.jpg' alt='' class='instruction-image'>
 
-- Add your oats to the now empty pan over medium low heat. Toast until fragrant and lightly browned, about 3 minutes
+- Add your <a href='/misc/grains#oats'>oats</a> to the now empty pan over medium low heat. Toast until fragrant and lightly browned, about 3 minutes
 - <img src='/assets/Food/Ground Meat/Haggis/oats.jpg' alt='' class='instruction-image'>
 
-- Transfer the oats to the baking dish with the meat. Pour in the water, and mix until fully combined
+- Transfer the <a href='/misc/grains#oats'>oats</a> to the baking dish with the <a href='/misc/meat'>meat</a>. Pour in the water, and mix until fully combined
 - <img src='/assets/Food/Ground Meat/Haggis/pre-bake.jpg' alt='' class='instruction-image'>
 
 - Cover the pan with aluminum foil, and bake at 350F for 30 minutes. Remove the foil, and bake for another 10 minutes
 - <img src='/assets/Food/Ground Meat/Haggis/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- The classic sides to haggis would be neeps (mashed <a href='/misc/veggies#parsnips'>parsnips</a>) and tatties (mashed <a href='/misc/veggies#potato'>potatoes</a>), but today I'm pairing my haggis with a side of <a href='/recipes/parmesan-broccoli'>Parmesan Crusted Roasted Broccoli</a>
+- The classic <a href='/recipes/sides'>sides</a> to haggis would be neeps (mashed <a href='/misc/veggies#parsnips'>parsnips</a>) and tatties (mashed potatoes), but today I'm pairing my haggis with a <a href='/recipes/sides'>side</a> of <a href='/recipes/parmesan-broccoli'>Parmesan Crusted Roasted Broccoli</a>
 - <a href='/recipes/parmesan-broccoli'><img src='/assets/Food/Ground Meat/Haggis/plate.jpg' alt='' class='instruction-image'></a>
 ---

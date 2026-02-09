@@ -53,25 +53,25 @@ tags:
 - carrots
 - peppers
 - sweet potatoes
-Description: This chili recipe is for all those out there who can't eat garlic, <a href='/misc/veggies#onion'>onion</a>, or <a href='/misc/beans'>beans</a> (some of my favorite foods lol). It's essentially just my standard <a href='/recipes/chili'>Slow Cooker Chili</a>, but with <a href='/misc/veggies#onion'>onions</a>, chili powder, and beans swapped out for <a href='/misc/veggies#carrots'>carrots</a>, paprika, and <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
+Description: This <a href='/soup-stew'>chili recipe</a> is for all those out there who can't eat <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, or <a href='/misc/beans'>beans</a> (some of my favorite foods lol). It's essentially just my standard <a href='/recipes/chili'>Slow Cooker Chili</a>, but with <a href='/misc/veggies#onion'>onions</a>, chili powder, and <a href='/misc/beans'>beans</a> swapped out for <a href='/misc/veggies#carrots'>carrots</a>, paprika, and <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions:
-- Heat a large pan over medium heat with olive oil. Wash your peppers and carrots. Cut the peppers into a medium dice, and the carrots into a small dice. The carrots are smaller because they are harder, and will take longer to cook
+- Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with olive oil. Wash your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a>. Cut the <a href='/misc/veggies#pepper'>peppers</a> into a medium dice, and the <a href='/misc/veggies#carrots'>carrots</a> into a small dice. The <a href='/misc/veggies#carrots'>carrots</a> are smaller because they are harder, and will take longer to cook
 
-- Add the peppers and carrots to the pan with paprika, cumin, and salt with a splash of water. Cover and cook until both the peppers and carrots are fork tender, about 15 minutes. Transfer to a large slow cooker
+- Add the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> to the pan with paprika, cumin, and salt with a splash of water. Cover and cook until both the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> are fork tender, about 15 minutes. Transfer to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/veggies.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, wash your sweet potatoes, and cut into a medium dice (don't peel the potatoes!). Add to a glass bowl, cover with a plate, and microwave on high for 5 minutes
+- Meanwhile, wash your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut into a medium dice (don't peel the <a href='/misc/veggies#potato'>potatoes</a>!). Add to a <a href='https://amzn.to/4adxMft'>glass bowl</a>, cover with a plate, and microwave on high for 5 minutes
 
-- When the peppers and carrots are done and the pan is free, add the sweet potatoes with olive oil over medium heat with a splash of water. Again cover and cook until fork tender (about 10 minutes), and then transfer to the slow cooker
+- When the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> are done and the pan is free, add the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> with olive oil over medium heat with a splash of water. Again cover and cook until fork tender (about 10 minutes), and then transfer to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/sw-pot.jpg' alt='' class='instruction-image'>
 
-- Finally, the last part to pre-cook is the meat. When the potatoes are done, add the meat to the pan with oil. Brown the meat over medium heat, and cook until no longer pink. Transfer to the slow cooker
+- Finally, the last part to pre-cook is the <a href='/misc/meat'>meat</a>. When the <a href='/misc/veggies#potato'>potatoes</a> are done, add the <a href='/misc/meat'>meat</a> to the pan with oil. Brown the <a href='/misc/meat'>meat</a> over medium heat, and cook until no longer pink. Transfer to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/meat.jpg' alt='' class='instruction-image'>
 
-- Add your crushed tomatoes, diced tomatoes, and cocoa powder to the slow cooker pot, and mix until everything is fully combined
+- Add your crushed tomatoes, diced tomatoes, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> to the <a href='https://amzn.to/49TUS9E'>slow cooker</a> pot, and mix until everything is fully combined
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/before.jpg' alt='' class='instruction-image'>
 
-- Cover and cook on low heat for 8 hours. Optionally serve with cheese and lime juice
+- Cover and cook on low heat for 8 hours. Optionally serve with <a href='/misc/dairy#cheddar'>shredded cheese</a> and <a href='/misc/fruit#lime-juice'>lime juice</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/after.jpg' alt='' class='instruction-image'>
 Notes:
 ---

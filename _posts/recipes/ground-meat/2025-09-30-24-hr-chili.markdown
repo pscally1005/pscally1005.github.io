@@ -66,35 +66,35 @@ tags:
 - tomatoes
 - crushed tomatoes
 - diced tomatoes
-Description: You know those recipes for 100 hour brownies or 72 hour pizza doughs?  Well this recipe is a 24 hour chili. It's just my <a href='/recipes/chili'>Slow Cooker Chili</a> recipe, but I'm making the beans from scratch instead of using canned. By following my <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a> recipe, you can make a chili with unbeatably soft and creamy beans. The total time is long, but the active time is practically the same.  Or check out any of my other <a href='/soups-and-stews'>soup or stew</a> recipes!
+Description: You know those recipes for 100 hour brownies or 72 hour pizza doughs?  Well this recipe is a 24 hour <a href='/recipes/chili'>chili</a>. It's just my <a href='/recipes/chili'>Slow Cooker Chili</a> recipe, but I'm making the <a href='/misc/beans'>beans</a> from scratch instead of using canned. By following my <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a> recipe, you can make a <a href='/recipes/chili'>chili</a> with unbeatably soft and creamy <a href='/misc/beans'>beans</a>. The total time is long, but the active time is practically the same.  Or check out any of my other <a href='/soups-and-stews'>soup or stew</a> recipes!
 Instructions:
-- At about 10pm, soak your dried beans in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
+- At about 10pm, soak your dried <a href='/misc/beans'>beans</a> in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
 
-- At 6am the next day, discard the soaking liquid. Add your beans to a slow cooker with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours
+- At 6am the next day, discard the soaking liquid. Add your <a href='/misc/beans'>beans</a> to a <a href='https://amzn.to/49TUS9E'>slow cooker</a> with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours
 
-- At about 1pm, heat a large pan over medium heat. Brown the meat, and cook until no longer pink. Set aside
+- At about 1pm, heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Brown the <a href='/misc/meat'>meat</a>, and cook until no longer pink. Set aside
 
-- As the meat cooks, cut your peppers and onions into a medium dice. When the pan is empty, add olive oil, peppers, onions, chili powder, cumin, and salt. Cover and cook until soft and browned, about 10 minutes. Add the garlic, and cook until fragrant (about 30 seconds). Set aside
+- As the <a href='/misc/meat'>meat</a> cooks, cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a medium dice. When the pan is empty, add olive oil, <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#onion'>onions</a>, chili powder, cumin, and salt. Cover and cook until soft and browned, about 10 minutes. Add the <a href='/misc/veggies#garlic'>garlic</a>, and cook until fragrant (about 30 seconds). Set aside
 
-- The beans should be done cooking around 2 pm. If you started the meat and veggies around 1pm, you should have them done around the same time
+- The <a href='/misc/beans'>beans</a> should be done cooking around 2 pm. If you started the <a href='/misc/meat'>meat</a> and <a href='/misc/veggies'>veggies</a> around 1pm, you should have them done around the same time
 
-- Combine together your beans, meat, veggies, canned tomatoes, and cocoa powder in the slow cooker
+- Combine together your <a href='/misc/beans'>beans</a>, <a href='/misc/meat'>meat</a>, <a href='/misc/veggies'>veggies</a>, canned <a href='/misc/veggies#tomato'>tomatoes</a>, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> in the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 - <img src='/assets/Food/Ground Meat/24 Hour Chili/separate.jpg' alt='' class='instruction-image'>
 
-- Cover and cook on low for 8 hours. The chili should be done around 10pm. Divide into 6 containers, refrigerate, and go to bed. You earned it
+- Cover and cook on low for 8 hours. The <a href='/recipes/chili'>chili</a> should be done around 10pm. Divide into 6 containers, refrigerate, and go to bed. You earned it
 - <img src='/assets/Food/Ground Meat/24 Hour Chili/crockpot.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Ground Meat/24 Hour Chili/containers.jpg' alt='' class='instruction-image'>
 Notes:
-- Note that this recipe is intended for meal prep, as it finishes at 10pm, at not meant to be eaten fresh that night for dinner.  If you would like to have the chili fresh, then you would need to split the process into another day.  Just start the beans whenever in the morning.  8 hours later, when the beans are done, cover the pot with a lid, and refrigerate until the next day.  In the morning, you can put together the rest of the chili, and get it on the slow cooker around 10:30am if you're aiming for a 6:30pm dinner
+- Note that this recipe is intended for meal prep, as it finishes at 10pm, at not meant to be eaten fresh that night for dinner.  If you would like to have the <a href='/recipes/chili'>chili</a> fresh, then you would need to split the process into another day.  Just start the <a href='/misc/beans'>beans</a> whenever in the morning.  8 hours later, when the <a href='/misc/beans'>beans</a> are done, cover the pot with a lid, and refrigerate until the next day.  In the morning, you can put together the rest of the <a href='/recipes/chili'>chili</a>, and get it on the <a href='https://amzn.to/49TUS9E'>slow cooker</a> around 10:30am if you're aiming for a 6:30pm dinner
 
-- Using the method from <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a>, you can make this chili with any type of <a href='/misc/beans'>bean</a>, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#navy-beans'>navy</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.  You can also make <a href='/misc/beans#red-lentils'>lentil</a> chili with <a href='/misc/beans#brown-lentils'>brown</a>, <a href='/misc/beans#green-lentils'>green</a>, or <a href='/misc/beans#red-lentils'>red lentils</a>
+- Using the method from <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a>, you can make this <a href='/recipes/chili'>chili</a> with any type of <a href='/misc/beans'>bean</a>, such as <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#navy-beans'>navy</a>, or <a href='/misc/beans#chickpeas'>chickpeas</a>.  You can also make <a href='/misc/beans#red-lentils'>lentil</a> <a href='/recipes/chili'>chili</a> with <a href='/misc/beans#brown-lentils'>brown lentils</a>, <a href='/misc/beans#green-lentils'>green lentils</a>, or <a href='/misc/beans#red-lentils'>red lentils</a>
 - <a href='/recipes/slow-cooked-beans'><img src='/assets/Food/Sides/Crockpot Beans/lentils.jpg' alt='' class='instruction-image'></a>
 - <img src='/assets/Food/Ground Meat/24 Hour Chili/lentil-chili.jpg' alt='' class='instruction-image'>
 
-- You can even not even use <a href='/misc/beans'>beans</a> at all!  Try making some dried <a href='/misc/grains'>grains</a>, such as <a href='/misc/grains#brown-rice'>brown rice</a>, <a href='/misc/grains#farro'>farro</a>, <a href='/misc/grains#oats'>oats</a>, or <a href='/misc/grains#quinoa'>quinoa</a>.  Below is some delicious <a href='/misc/grains#barley'>barley</a> chili that I made the other day as well
+- You can even not even use <a href='/misc/beans'>beans</a> at all!  Try making some dried <a href='/misc/grains'>grains</a>, such as <a href='/misc/grains#brown-rice'>brown rice</a>, <a href='/misc/grains#farro'>farro</a>, <a href='/misc/grains#oats'>oats</a>, or <a href='/misc/grains#quinoa'>quinoa</a>.  Below is some delicious <a href='/misc/grains#barley'>barley</a> <a href='/recipes/chili'>chili</a> that I made the other day as well
 - <a href='/recipes/slow-cooked-beans'><img src='/assets/Food/Sides/Crockpot Beans/barley.jpg' alt='' class='instruction-image'></a>
 - <img src='/assets/Food/Ground Meat/24 Hour Chili/barley-chili.jpg' alt='' class='instruction-image'>
 
-- Or even pea chili using a bag of dried whole green peas (or split peas)!
+- Or even <a href='/misc/veggies#pea'>pea</a> <a href='/recipes/chili'>chili</a> using a bag of dried whole green <a href='/misc/veggies#pea'>peas</a> (or split peas)!
 - <img src='/assets/Food/Ground Meat/24 Hour Chili/pea-chili.jpg' alt='' class='instruction-image'>
 ---
