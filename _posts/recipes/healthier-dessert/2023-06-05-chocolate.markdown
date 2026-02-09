@@ -51,13 +51,13 @@ tags:
 - bark
 Description: When recipes call for <a href='/misc/overshadowed-healthy-foods#chocolate'>dark chocolate</a> or chocolate chips, I typically make some variation of this recipe.  This chopped up bar of chocolate works great as a replacement for chocolate chips in all recipes, such as <a href='/recipes/date-brownie'>Almond Butter Date Brownies</a>, <a href='/recipes/edible-cookie-dough-bites'>Edible Cookie Dough Bites</a>, or my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>.  Each serving is half an ounce (14 g)
 Instructions:
-- In a glass bowl, melt the coconut oil in the microwave for about 1 minute.  Stir in cocoa powder until smooth.  Optionally, add a small pinch of salt
+- In a <a href='https://amzn.to/4adxMft'>glass bowl</a>, melt the <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave for about 1 minute.  Stir in <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> until smooth.  Optionally, add a small pinch of salt
 - <img src='/assets/Food/Healthier Dessert/Choc Bar/bowl.jpg' alt='' class='instruction-image'>
 
-- Pour into a chocolate mold (a parchment lined bread pan will also work).  <a href='https://amzn.to/4mBCtnu'>These</a> are the ones I have.  A full batch of the chocolate will make 2 of these thin bars
+- Pour into a <a href='https://amzn.to/4qZKHI9'>chocolate mold</a> (a parchment lined <a href='https://amzn.to/3YUjIkN'>bread pan</a> will also work).  <a href='https://amzn.to/4mBCtnu'>These</a> are the ones I have.  A full batch of the chocolate will make 2 of these thin bars
 - <img src='/assets/Food/Healthier Dessert/Choc Bar/mold.jpg' alt='' class='instruction-image'>
 
 - Chill in the fridge for at least an hour (or freeze for 15 minutes) to set before using
 Notes:
-- You can either sweeten your chocolate bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) liquid monk fruit or stevia, or 1 tbsp (20 g) honey or maple syrup
+- You can either sweeten your chocolate bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or stevia, or 1 tbsp (20 g) honey or maple syrup
 ---

@@ -57,11 +57,11 @@ tags:
 - banana
 - ice cream
 - frozen yogurt
-Description: <a href='/misc/fruit#banana'>Banana</a> ice cream was an Internet trend for a reason - it tastes really good, is a super customizable base, and is much healthier than traditional ice cream. Without <a href='/misc/hidden-sugar'>added sugar</a> or heavy cream, <a href='/misc/fruit#banana'>banana</a> ice cream tastes and feels just like real ice cream, and can be made in 5 minutes.  I love to use it to make <a href='/recipes/nice-cream-sandwiches'>Nice Cream Sandwiches</a>, or you can make a larger batch with multiple flavors using my <a href='/recipes/neopolitan-banana-ice-cream'>Neopolitan Banana Ice Cream</a>.  Another popular internet healthy ice cream trend was <a href='/recipes/cottage-cheese-ice-cream'>Cottage Cheese Ice Cream</a>, which is delicious and packed with <a href='/misc/protein'>protein</a>!
+Description: Banana ice cream was an Internet trend for a reason - it tastes really good, is a super customizable base, and is much healthier than traditional ice cream. Without <a href='/misc/hidden-sugar'>added sugar</a> or heavy cream, banana ice cream tastes and feels just like real ice cream, and can be made in 5 minutes.  I love to use it to make <a href='/recipes/nice-cream-sandwiches'>Nice Cream Sandwiches</a>, or you can make a larger batch with multiple flavors using my <a href='/recipes/neopolitan-banana-ice-cream'>Neopolitan Banana Ice Cream</a>.  Another popular internet healthy ice cream trend was <a href='/recipes/cottage-cheese-ice-cream'>Cottage Cheese Ice Cream</a>, which is delicious and packed with <a href='/misc/protein'>protein</a>!
 Instructions:
-- Break up the bananas into pieces. They don't need to be that small, maybe an inch thick. Freeze overnight in an airtight bag
+- Break up the <a href='/misc/fruit#banana'>bananas</a> into pieces. They don't need to be that small, maybe an inch thick. Freeze overnight in an airtight bag
 
-- The next day, blend the bananas in a food processor until you have a smooth ice cream.  Enjoy immediately for soft serve ice cream, or freeze for about 30 minutes for a harder ice cream texture
+- The next day, blend the <a href='/misc/fruit#banana'>bananas</a> in a <a href='https://amzn.to/4q0AUjI'>food processor</a> until you have a smooth ice cream.  Enjoy immediately for soft serve ice cream, or freeze for about 30 minutes for a harder ice cream texture
 - <img src='/assets/Food/Healthier Dessert/Nice Cream/processor.jpg' alt='' class='instruction-image'>
 Notes:
 - |

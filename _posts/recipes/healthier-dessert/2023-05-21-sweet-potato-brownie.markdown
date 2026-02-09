@@ -57,19 +57,19 @@ tags:
 - applesauce
 - sugar free
 - gluten free
-Description: After my <a href='/misc/boxed-brownie-experiment'>Fat Replacements in Boxed Brownies</a> experiment, where I found that <a href='/misc/veggies#sweet-potato'>sweet potato</a> was the best oil replacement in brownies, I wanted to make a homemade batch using <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a> as the base. The result is a low <a href='/misc/calories'>calorie</a> brownie that is still just as delicious and fudgy as the one from the box. They're also <a href='/misc/nuts'>nut</a> free too, and have an increased <a href='/misc/fiber'>fiber</a> content. There's no weird ingredients; just sweetened by either <a href='/misc/hidden-sugar'>sugar</a> free syrup, maple syrup, or honey.  For more sweet potato based desserts, see my <a href='/recipes/sweet-potato-blondies'>Sweet Potato Blondies</a>, or check out any of my other <a href='/brownies'>brownie recipes</a>!
+Description: After my <a href='/misc/boxed-brownie-experiment'>Fat Replacements in Boxed Brownies</a> experiment, where I found that <a href='/misc/veggies#sweet-potato'>sweet potato</a> was the best <a href='/misc/fats'>oil</a> replacement in <a href='/brownies'>brownies</a>, I wanted to make a homemade batch using <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a> as the base. The result is a <a href='/misc/calories'>low calorie</a> <a href='/brownies'>brownie</a> that is still just as delicious and fudgy as the one from the box. They're also <a href='/misc/nuts'>nut</a> free too, and have an increased <a href='/misc/fiber'>fiber</a> content. There's no weird ingredients; just sweetened by either <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, maple syrup, or honey.  For more <a href='/misc/veggies#sweet-potato'>sweet potato</a> based <a href='/recipes/healthier-dessert'>desserts</a>, see my <a href='/recipes/sweet-potato-blondies'>Sweet Potato Blondies</a>, or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
-- Preheat your oven to 350F and line an 9" square baking pan with parchment paper. Optionally, spray the paper with oil
+- Preheat your oven to 350F and line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. Optionally, <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
-- In a large bowl, mix together the dry ingredients - oat flour, cocoa powder, cornstarch, baking powder, baking soda, salt, and cinnamon.  Almond flour or whole wheat flour should also work in place of oat flour
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, cornstarch, baking powder, baking soda, salt, and cinnamon
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-2.jpg' alt='' class='instruction-image'>
 
-- In a separate bowl, mix together the wet ingredients - syrup, egg, applesauce, vanilla, melted chocolate and puree
+- In a separate bowl, mix together the wet ingredients - syrup, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/fruit#apple'>applesauce</a>, vanilla, melted chocolate and puree
 
 - Add the dry ingredients into the wet, sifting if necessary. Fold with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined; don't over mix. The batter should be pretty thick
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-4.jpg' alt='' class='instruction-image'>
 
-- Transfer the batter to your parchment lined pan, and smooth the top with your spatula
+- Transfer the batter to your parchment lined pan, and smooth the top with your <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a>
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-5.jpg' alt='' class='instruction-image'>
 
 - Bake in a preheated 350F oven for about 20 minutes, or until the center is just set to the touch and a toothpick comes out mostly clean with some wet crumbs
@@ -78,14 +78,16 @@ Instructions:
 - Let cool completely in the pan, preferably in the fridge for a few hours, before slicing with a plastic knife
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-7.jpg' alt='' class='instruction-image'>
 Notes:
-- |
-  Below are some substitutions if you desire
-  <ul>
-    <li>Maple syrup or honey would work in place of sugar free syrup</li>
-    <li>If using melted chocolate, use a bittersweet (at least 72%) or unsweetened bar</li>
-    <li>Melted chocolate can be replaced 1 oz (28 g) each of cocoa powder and melted coconut oil</li>
-    <li>Or try 2 tbsp (32 g) natural peanut butter in place of the melted chocolate</li>
-    <li>For the puree, you can either choose <a href='/recipes/sweet-potato-puree'>sweet potato puree</a>, <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/recipes/roasted-butternut-squash-puree'>butternut squash puree</a>, or <a href='/recipes/apple-spread'>apple spread</a></li><li>For a vegan version, replace the egg with an additional 1/4 cup (60 g) of puree</li>
-  </ul>
+- <a href='/misc/nuts#almonds'>Almond flour</a> or <a href='/misc/grains#whole-wheat'>whole wheat flour</a> should also work in place of <a href='/misc/grains#oats'>oat flour</a>
+
+- Maple syrup or honey would work in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+
+- Melted chocolate can be replaced 1 oz (28 g) each of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> and melted <a href='/misc/nuts#coconut'>coconut oil</a>
+
+- If using melted chocolate, use a bittersweet (at least 72%) or unsweetened bar
+
+- Or try 2 tbsp (32 g) <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> in place of the melted chocolate
+
+- For the puree, you can either choose <a href='/recipes/sweet-potato-puree'>sweet potato puree</a>, <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/recipes/roasted-butternut-squash-puree'>butternut squash puree</a>, or <a href='/recipes/apple-spread'>apple spread</a></li><li>For a vegan version, replace the <a href='/misc/meat#eggs'>egg</a> with an additional 1/4 cup (60 g) of puree
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-3.jpg' alt='' class='instruction-image'>
 ---

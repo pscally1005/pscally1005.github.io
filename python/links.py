@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup, NavigableString
 import time
 
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\ground-meat"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\healthier-dessert"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
@@ -58,6 +58,8 @@ LINKS = {
   "natural peanut butters": "/recipes/natural-peanut-butter",
   "natural peanut butter": "/recipes/natural-peanut-butter",
   "nut/seed butters": "/recipes/natural-peanut-butter",
+  "natural nut or seed butters": "/recipes/natural-peanut-butter",
+  "natural nut or seed butter": "/recipes/natural-peanut-butter",
   "nut or seed butters": "/recipes/natural-peanut-butter",
   "nut/seed butter": "/recipes/natural-peanut-butter",
   "nut or seed butter": "/recipes/natural-peanut-butter",
@@ -849,6 +851,7 @@ LINKS = {
   "almond butter": "/misc/nuts#almonds",
   "almond flours": "/misc/nuts#almonds",
   "almond flour": "/misc/nuts#almonds",
+  "nut flour": "/misc/nuts#almonds",
   "almond meals": "/misc/nuts#almonds",
   "almond meal": "/misc/nuts#almonds",
   "almonds": "/misc/nuts#almonds",
@@ -1709,8 +1712,8 @@ LINKS = {
   '12"': "https://amzn.to/4rdR0HI",
   "large pans": "https://amzn.to/4rdR0HI",
   "large pan": "https://amzn.to/4rdR0HI",
-  '10"cast iron pan': "https://amzn.to/465aAxx",
-  '10"cast iron': "https://amzn.to/465aAxx",
+  '10" cast iron pan': "https://amzn.to/465aAxx",
+  '10" cast iron': "https://amzn.to/465aAxx",
   "cast iron pan": "https://amzn.to/465aAxx",
   "cast iron": "https://amzn.to/465aAxx",
   "small pans": "https://amzn.to/4qFE9y3",
@@ -2325,6 +2328,23 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "chocolate chip cookie",
+    "graham cracker pie crust",
+    "graham cracker crust",
+    "peanut butter pie",
+    "into cookies",
+    "peanut butter cookies",
+    "peanut butter cookie",
+    "thin cookie",
+    "oatmeal cookies",
+    "oatmeal cookie",
+    "cookie dough",
+    "coconut macaroons",
+    "coconut macarons",
+    "coconut macaroon",
+    "coconut macaron"
+    "either mini muffins",
+    "cookie cake",
     "split peas",
     "split pea",
     "hour brownies",
@@ -3591,7 +3611,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025")):
+            if not file.startswith(("2023")):
                 continue
 
             # exclude some files
