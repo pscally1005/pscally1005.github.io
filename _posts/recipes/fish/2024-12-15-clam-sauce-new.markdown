@@ -51,15 +51,15 @@ tags:
 - parsley
 - oregano
 - lemon juice
-Description: Did you know that <a href='/misc/fish#clam'>clams</a> are a fantastic source of <a href='/misc/vitamin-b12'>vitamin B12</a>? <a href='/misc/vitamin-b12'>B12</a> supports energy production, regulates mood, and much more. This simple <a href='/misc/fish#clam'>clam</a> sauce is significantly lower in added <a href='/misc/fats'>fat</a> than most, while being a great source of <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, aided by the red <a href='/misc/beans#red-lentils'>lentil</a> pasta
+Description: Did you know that <a href='/misc/fish#clam'>clams</a> are a fantastic source of <a href='/misc/vitamin-b12'>vitamin B12</a>? <a href='/misc/vitamin-b12'>B12</a> supports energy production, regulates mood, and much more. This simple <a href='/misc/fish#clam'>clam</a> sauce is significantly lower in <a href='/misc/fats'>added fat</a> than most, while being a great source of <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, aided by the <a href='/misc/beans#red-lentils'>red lentil pasta</a>
 Instructions:
-- Cut your onion into a fine dice, and add to a medium pot with olive oil over medium heat. Cook until translucent
+- Cut your <a href='/misc/veggies#onion'>onion</a> into a fine dice, and add to a <a href='https://amzn.to/46ccg8m'>medium pot</a> with olive oil over medium heat. Cook until translucent
 
-- Add the clams (with the juice) to the pot, and cover with a lid.  Bring to a boil over medium heat, and let boil for about 5 minutes
+- Add the <a href='/misc/fish#clam'>clams</a> (with the juice) to the pot, and cover with a lid.  Bring to a boil over medium heat, and let boil for about 5 minutes
 
 - Mix in the rest of the ingredients, and let simmer for about 30 minutes (covered)
 
-- Meanwhile, cook a box of pasta according to its instructions.  Mix with the clam sauce when finished simmering, and serve
+- Meanwhile, cook a box of <a href='/misc/grains#pasta'>pasta</a> according to its instructions.  Mix with the <a href='/misc/fish#clam'>clam</a> sauce when finished simmering, and serve
 - <img src='/assets/Food/Fish/Clam Sauce New/not-mixed.jpg' alt='' class='instruction-image'>
 Notes:
 ---

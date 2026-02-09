@@ -61,20 +61,20 @@ tags:
 - ground flaxseed
 - lemon
 - extra virgin olive oil
-Description: This <a href='/misc/fish#shrimp'>shrimp</a> oreganata utilizes a homemade breadcrumb mix made of <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and ground <a href='/misc/seeds#flax-seeds'>flaxseeds</a>. It's <a href='/misc/celiac'>gluten free</a>, delicious, and cheaper than store-bought GF breadcrumbs. This meal comes together very quickly, and is a great light and healthy meal that serves 4. Pair it with a side of roasted veggies, and you have a complete dish
+Description: This <a href='/misc/fish#shrimp'>shrimp</a> oreganata utilizes a homemade breadcrumb mix made of <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and <a href='/misc/seeds#flax-seeds'>ground flaxseeds</a>. It's <a href='/misc/celiac'>gluten free</a>, delicious, and cheaper than store-bought <a href='/misc/celiac'>GF</a> breadcrumbs. This meal comes together very quickly, and is a great light and healthy meal that serves 4. Pair it with a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies'>veggies</a>, and you have a complete dish
 Instructions:
-- Preheat your oven to 450F, and grease a 9x13" pan with a spray of oil
+- Preheat your oven to 450F, and grease a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 
-- In a large mixing bowl, combine together the breadcrumb ingredients - oat flour, grated cheese, minced garlic, ground flax, parsley, oregano, basil, garlic powder, onion powder, black pepper, and salt. Set aside
+- In a large mixing bowl, combine together the breadcrumb ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/seeds#flax-seeds'>ground flax</a>, parsley, oregano, basil, garlic powder, onion powder, black pepper, and salt. Set aside
 - <img src='/assets/Food/Fish/Oreganata/oreganata-bc.jpg' alt='' class='instruction-image'>
 
-- Add the frozen shrimp to a large bowl, and let water run in the bowl for a few minutes until defrosted.  Peel off the shells and tails (if applicable), and pat dry
+- Add the frozen <a href='/misc/fish#shrimp'>shrimp</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and let water run in the bowl for a few minutes until defrosted.  Peel off the shells and tails (if applicable), and pat dry
 
-- In a bowl, toss the shrimp with the balsamic vinegar, olive oil, lemon juice, and salt. Arrange in a single layer in your pan.  Spoon the breadcrumb mixture on top of the shrimp
+- In a bowl, toss the <a href='/misc/fish#shrimp'>shrimp</a> with the balsamic vinegar, olive oil, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and salt. Arrange in a single layer in your pan.  Spoon the breadcrumb mixture on top of the <a href='/misc/fish#shrimp'>shrimp</a>
 - <img src='/assets/Food/Fish/Oreganata/oreganata-bowl.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Fish/Oreganata/oreganata-raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 450F for 10 minutes, then broil for 2-3 minutes, or until the breadcrumbs are golden brown. Watch carefully while broiling; you don't want to burn it. Squeeze some lemon juice to taste on top
+- Bake at 450F for 10 minutes, then broil for 2-3 minutes, or until the breadcrumbs are golden brown. Watch carefully while broiling; you don't want to burn it. Squeeze some <a href='/misc/fruit#lemon-juice'>lemon juice</a> to taste on top
 - <img src='/assets/Food/Fish/Oreganata/oreganata-cooked.jpg' alt='' class='instruction-image'>
 Notes:
 ---
