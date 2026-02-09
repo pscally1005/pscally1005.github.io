@@ -53,16 +53,16 @@ tags:
 - omega 3
 - seafood
 - vic
-Description: <a href='/misc/fish#salmon'>Salmon</a> is my preferred fish, but I don't tend to have it too often because it's fairly expensive. I always pick it up when on sale though, because it's a fantastic source of <a href='/misc/nutrient-alphabet#O'>Omega-3s</a>. These simply baked fillets are made in just a few minutes, and pair great with a crunchy salad, consisting of seasoned raw <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#onion'>onions</a>, and <a href='/misc/veggies#tomato'>tomatoes</a>.
+Description: <a href='/misc/fish#salmon'>Salmon</a> is my preferred <a href='/misc/fish'>fish</a>, but I don't tend to have it too often because it's fairly expensive. I always pick it up when on sale though, because it's a fantastic source of <a href='/misc/nutrient-alphabet#O'>Omega-3s</a>. These simply baked fillets are made in just a few minutes, and pair great with a crunchy <a href='/salad'>salad</a>, consisting of seasoned raw <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#onion'>onions</a>, and <a href='/misc/veggies#tomato'>tomatoes</a>.
 Instructions:
-- Preheat your oven to 400F and line a cookie sheet with parchment paper
+- Preheat your oven to 400F and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add your salmon to the pan, and season the top and sides with garlic powder, onion powder, and lemon pepper, or any other desired seasonings
+- Add your <a href='/misc/fish#salmon'>salmon</a> to the pan, and season the top and sides with garlic powder, onion powder, and lemon pepper, or any other desired seasonings
 
-- Bake at 400F for about 14 minutes, or until the thickest part reaches 145F.  You can also air fry at 400F for about 10 minutes. Squeeze on some lemon juice
+- Bake at 400F for about 14 minutes, or until the thickest part reaches <a href='https://amzn.to/4kmobG2'>145F</a>.  You can also <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 10 minutes. Squeeze on some <a href='/misc/fruit#lemon-juice'>lemon juice</a>
 - <img src='/assets/Food/Fish/Salmon/salmon-3.jpg' alt='' class='instruction-image'>
 
-- As the fish cooks, wash and cut your vegetables, and add to a medium bowl. Season and mix to make your crunchy salad
+- As the <a href='/misc/fish'>fish</a> cooks, wash and cut your <a href='/misc/veggies'>vegetables</a>, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>. Season and mix to make your crunchy <a href='/salad'>salad</a>
 - <img src='/assets/Food/Fish/Salmon/salmon-4.jpg' alt='' class='instruction-image'>
 Notes:
 ---

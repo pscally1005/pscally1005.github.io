@@ -2317,6 +2317,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "top and sides",
     '"cookies"',
     "boxed cookies",
     "girl scout cookies",

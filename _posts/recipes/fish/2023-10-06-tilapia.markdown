@@ -51,15 +51,15 @@ tags:
 - lime
 - tajin
 - seafood
-Description: <a href='/misc/fish#tilapia'>Tilapia</a> fillets are a staple in my freezer, as they're super easy to put together for a quick dinner during the week. They're made even faster by cooking them straight out of the freezer in the air fryer. These will be from freezer to plate in just 10 minutes, and put whatever spices you want on here!
+Description: <a href='/misc/fish#tilapia'>Tilapia</a> fillets are a staple in my freezer, as they're super easy to put together for a quick dinner during the week. They're made even faster by cooking them straight out of the freezer in the <a href='https://amzn.to/3FuWETp'>air fryer</a>. These will be from freezer to plate in just 10 minutes, and put whatever spices you want on here!
 Instructions:
-- Preheat your air fryer to 400F
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F
 
-- Spray the bottom of the basket with oil, and place in the fish. Spray the top with fish, and season the top
+- <a href='https://amzn.to/3Hdg0gk'>Spray</a> the bottom of the basket with oil, and place in the <a href='/misc/fish'>fish</a>. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the top with <a href='/misc/fish'>fish</a>, and season the top
 
-- Air fry for 6-7 minutes, flipping halfway. Season the other half when flipping. Squeeze some lemon juice on after
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> for 6-7 minutes, flipping halfway. Season the other half when flipping. Squeeze some <a href='/misc/fruit#lemon-juice'>lemon juice</a> on after
 Notes:
-- You can also bake the tilapia in the oven.  Bake at 400F for about 14 minutes, or until the thickest part reaches 145F. Squeeze on some lemon juice
+- You can also bake the <a href='/misc/fish#tilapia'>tilapia</a> in the oven.  Bake at 400F for about 14 minutes, or until the thickest part reaches <a href='https://amzn.to/4kmobG2'>145F</a>. Squeeze on some <a href='/misc/fruit#lemon-juice'>lemon juice</a>
 
-- If your tilapia is defrosted, you can air fry at 400F for 4-6 minutes, or bake in a 400F oven for 6-8 minutes
+- If your <a href='/misc/fish#tilapia'>tilapia</a> is defrosted, you can <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 4-6 minutes, or bake in a 400F oven for 6-8 minutes
 ---
