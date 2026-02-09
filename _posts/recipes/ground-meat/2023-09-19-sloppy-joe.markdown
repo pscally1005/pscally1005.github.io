@@ -53,12 +53,12 @@ tags:
 - ketchup
 - mustard
 - chili
-Description: Sloppy joes are an American classic, and this variation removes the <a href='/misc/hidden-sugar'>sugar</a> filled ketchup and adds some more <a href='/misc/veggies'>vegetables</a> as well. These go great on a plate with a side of <a href='/misc/grains#brown-rice'>rice</a>, roasted veggies, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, or on a sandwich.
+Description: Sloppy joes are an American classic, and this variation removes the <a href='/misc/hidden-sugar'>sugar filled</a> <a href='/misc/fake-healthy-foods#dips'>ketchup</a> and adds some more <a href='/misc/veggies'>vegetables</a> as well. These go great on a plate with a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>rice</a>, roasted <a href='/misc/veggies'>veggies</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, or on a sandwich.
 Instructions:
-- Finely chop the peppers and onions.  Place a medium skillet over medium heat with oil. When the pan is hot, add onions and peppers.  Cover and cook under occasional stirring until the onions are translucent, about 10 minutes
+- Finely chop the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>.  Place a medium skillet over medium heat with oil. When the pan is hot, add <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#pepper'>peppers</a>.  Cover and cook under occasional stirring until the <a href='/misc/veggies#onion'>onions</a> are translucent, about 10 minutes
 
-- Add the meat to the pan, and cook until no longer pink. When the meat is nearly done, add the garlic and cook until fragrant
+- Add the <a href='/misc/meat'>meat</a> to the pan, and cook until no longer pink. When the <a href='/misc/meat'>meat</a> is nearly done, add the <a href='/misc/veggies#garlic'>garlic</a> and cook until fragrant
 
-- In a medium bowl, whisk together the sauce - tomato paste, water, mustard, vinegar, paprika, salt, and black pepper.  Pour into the pan, cover, and let simmer over low heat for about 15 minutes.  Remove the cover, and simmer for an additional 5 minutes to thicken
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together the sauce - tomato paste, water, mustard, vinegar, paprika, salt, and black pepper.  Pour into the pan, cover, and let simmer over low heat for about 15 minutes.  Remove the cover, and simmer for an additional 5 minutes to thicken
 Notes:
 ---

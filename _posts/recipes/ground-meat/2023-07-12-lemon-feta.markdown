@@ -53,14 +53,14 @@ tags:
 - rice
 - orzo
 - vic
-Description: These Greek inspired bowls feature ground <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/dairy#feta'>feta</a> cheese, and plenty of <a href='/misc/veggies'>vegetables</a>. It goes great mixed into a side of <a href='/misc/grains#brown-rice'>brown rice</a> or orzo <a href='/misc/grains#pasta'>pasta</a>. It's a great summertime healthy meal that I know you'll enjoy.
+Description: These Greek inspired bowls feature ground <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/dairy#feta'>feta cheese</a>, and plenty of <a href='/misc/veggies'>vegetables</a>. It goes great mixed into a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>brown rice</a> or orzo <a href='/misc/grains#pasta'>pasta</a>. It's a great summertime healthy meal that I know you'll enjoy.
 Instructions:
-- Heat a large pan over medium heat. Add in your diced onion, with oil, garlic, and salt. Cover, and cook until the onions turn translucent, about 5 minutes
+- Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Add in your diced <a href='/misc/veggies#onion'>onion</a>, with oil, <a href='/misc/veggies#garlic'>garlic</a>, and salt. Cover, and cook until the <a href='/misc/veggies#onion'>onions</a> turn translucent, about 5 minutes
 
-- Add the cucumbers, spinach, and spices (basil, onion and garlic powder, and lemon pepper) to the pan and cook for just a few minutes on medium. Squeeze in the lemon juice, and then set the vegetables aside in a bowl
+- Add the <a href='/misc/veggies#cucumber'>cucumbers</a>, <a href='/misc/veggies#spinach-fresh'>spinach</a>, and spices (basil, onion and garlic powder, and lemon pepper) to the pan and cook for just a few minutes on medium. Squeeze in the <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and then set the <a href='/misc/veggies'>vegetables</a> aside in a bowl
 
-- To the now empty pan, add the chicken, oil, and garlic. Cook over medium heat until fully cooked and no longer pink. Season (basil, onion and garlic powder, lemon pepper, and black pepper), finish with lemon juice, and add the chicken to the bowl with the vegetables
+- To the now empty pan, add the <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/fats'>oil</a>, and <a href='/misc/veggies#garlic'>garlic</a>. Cook over medium heat until fully cooked and no longer pink. Season (basil, onion and garlic powder, lemon pepper, and black pepper), finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and add the <a href='/misc/meat#chicken-breast'>chicken</a> to the bowl with the <a href='/misc/veggies'>vegetables</a>
 
-- Mix the feta into the food and serve with rice (1 cup dry <a href='/misc/grains#brown-rice'>brown rice</a>)
+- Mix the <a href='/misc/dairy#feta'>feta</a> into the food and serve with <a href='/misc/grains#brown-rice'>rice</a> (1 cup dry <a href='/misc/grains#brown-rice'>brown rice</a>)
 Notes:
 ---

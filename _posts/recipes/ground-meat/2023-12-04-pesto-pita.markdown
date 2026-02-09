@@ -55,17 +55,17 @@ tags:
 - brown rice
 - pita bread
 - whole wheat
-Description: This dish features a <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/veggies#tomato'>tomato</a> paste pesto sauce, mixed into some <a href='/misc/veggies'>vegetables</a> and <a href='/misc/meat#ground-turkey'>ground turkey</a>. It goes well inside of a pocket pita, like with my <a href='/recipes/pita'>Whole Wheat Pita Bread</a>.  It's also great served on top of some <a href='/misc/grains#brown-rice'>brown rice</a>, or just on its own. Nutrition facts are for the filling including a piece of pita bread per serving
+Description: This dish features a <a href='/misc/veggies#spinach-fresh'>spinach</a> and tomato paste <a href='/pesto'>pesto</a> sauce, mixed into some <a href='/misc/veggies'>vegetables</a> and <a href='/misc/meat#ground-turkey'>ground turkey</a>. It goes well inside of a <a href='/recipes/pita'>pocket pita</a>, like with my <a href='/recipes/pita'>Whole Wheat Pita Bread</a>.  It's also great served on top of some <a href='/misc/grains#brown-rice'>brown rice</a>, or just on its own. Nutrition facts are for the filling including a piece of <a href='/recipes/pita'>pita bread</a> per serving
 Instructions:
-- Spray a large pan with a touch of oil, and saute the spinach over medium heat until fully cooked, about 5-10 minutes, covered
+- <a href='https://amzn.to/3Hdg0gk'>Spray</a> a <a href='https://amzn.to/4rdR0HI'>large pan</a> with a touch of oil, and saute the <a href='/misc/veggies#spinach-fresh'>spinach</a> over medium heat until fully cooked, about 5-10 minutes, covered
 
-- Transfer spinach to a food processor with the rest of the pesto ingredients (tomato paste, cottage cheese, parmesan cheese, lemon juice, minced garlic, oil, garlic powder, onion powder, black pepper, lemon pepper, and salt). Blend until smooth
+- Transfer <a href='/misc/veggies#spinach-fresh'>spinach</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the rest of the pesto ingredients (tomato paste, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#grated-cheese'>parmesan cheese</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/fats'>oil</a>, garlic powder, onion powder, black pepper, lemon pepper, and salt). Blend until smooth
 
-- Lightly spray your pan with oil, and cook the onions and mushrooms with salt. Add some water to help steam and cook the veggies. Cover, and stir occasionally until the water has cooked off and vegetables are almost done
+- Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> your pan with oil, and cook the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#mushrooms'>mushrooms</a> with salt. Add some water to help steam and cook the <a href='/misc/veggies'>veggies</a>. Cover, and stir occasionally until the water has cooked off and <a href='/misc/veggies'>vegetables</a> are almost done
 
-- Add your meat to the pan and brown it. When fully cooked, add the spices (basil, garlic powder, onion powder, lemon pepper, and red pepper flakes) and adjust anything to taste
+- Add your <a href='/misc/meat'>meat</a> to the pan and brown it. When fully cooked, add the spices (basil, garlic powder, onion powder, lemon pepper, and red pepper flakes) and adjust anything to taste
 
-- Transfer the sauce into the pan, and let simmer for a few minutes over medium low heat. Serve in a <a href='/recipes/pita'>pita bread</a>, with rice, or by itself (nutrition facts include the pita)
+- Transfer the sauce into the pan, and let simmer for a few minutes over medium low heat. Serve in a <a href='/recipes/pita'>pita bread</a>, with <a href='/misc/grains#brown-rice'>rice</a>, or by itself (nutrition facts include the <a href='/recipes/pita'>pita</a>)
 - <img src='/assets/Food/Ground Meat/Pesto Pita/pesto-pita-5.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -5,12 +5,14 @@ from bs4 import BeautifulSoup, NavigableString
 import time
 
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\fish"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\ground-meat"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
 
   # RECIPES
+  "pocket pita": "/recipes/pita",
+  "pita bread": "/recipes/pita",
   "pita": "/recipes/pita",
   "homemade jam": "/recipes/berry-jam",
   "homemade jelly": "/recipes/berry-jam",
@@ -742,6 +744,7 @@ LINKS = {
   "whole wheat pasta": "/misc/grains#pasta",
   "wheat pasta": "/misc/grains#pasta",
   "pasta": "/misc/grains#pasta",
+  "penne": "/misc/grains#pasta",
   "wheat": "/misc/grains#whole-wheat",
   "wild rice": "/misc/grains#wild-rice",
 
@@ -811,6 +814,7 @@ LINKS = {
   "93 % ground beef": "/misc/meat#ground-beef",
   "93/7ground beef": "/misc/meat#ground-beef",
   "ground beef": "/misc/meat#ground-beef",
+  "ground meat": "/misc/meat#ground-beef",
   "red meat": "/misc/meat#ground-beef",
   "beef": "/misc/meat#ground-beef",
   "93% lean ground turkey": "/misc/meat#ground-turkey",
@@ -1930,7 +1934,7 @@ LINKS = {
   "drink": "/recipes/drinks",
   "finger foods": "/recipes/finger-food",
   "finger food": "/recipes/finger-food",
-  "ground meat": "/recipes/ground-meat",
+  # "ground meat": "/recipes/ground-meat",
   "healthier desserts": "/recipes/healthier-dessert",
   "healthier dessert": "/recipes/healthier-dessert",
   "healthier baking": "/recipes/healthier-dessert",
@@ -2317,6 +2321,15 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "hummus ingredients",
+    "sauce ingredients",
+    "pesto ingredients",
+    "touch of oil",
+    "egg rolls",
+    "egg roll",
+    "when baking",
+    "pasta parties",
+    "pasta party",
     "clam juice",
     "top and sides",
     '"cookies"',
@@ -3032,7 +3045,7 @@ EXCLUDED_PHRASES = [
     "onion powder",
     "garlic and onion powders",
     "garlic and onion powder",
-    "garlic and onion",
+    # "garlic and onion",
     # "garlic, onion",
     "onion and garlic powders",
     "onion and garlic powder",
@@ -3549,7 +3562,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025")):
+            if not file.startswith(("2023")):
                 continue
 
             # exclude some files

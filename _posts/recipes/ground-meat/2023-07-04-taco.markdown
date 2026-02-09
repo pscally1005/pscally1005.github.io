@@ -57,24 +57,26 @@ tags:
 - brown
 - rice
 - vic
-Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my <a href='/recipes/fajitas'>Chicken Fajitas with Peppers</a> recipe, these are an awesome way for each person to build their own meals and have fun at the table. For a no garlic and <a href='/misc/veggies#onion'>onion</a> version, see my <a href='/recipes/low-fodmap-tacos'>Low FODMAP Chicken Tacos</a> recipe.  Invite some people over to make tacos and whip up some <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a> or <a href='/recipes/guacamole'>Holy Guacamole</a>; what are you waiting for!
+Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my <a href='/recipes/fajitas'>Chicken Fajitas with Peppers</a> recipe, these are an awesome way for each person to build their own meals and have fun at the table. For a no <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/veggies#onion'>onion</a> version, see my <a href='/recipes/low-fodmap-tacos'>Low FODMAP Chicken Tacos</a> recipe.  Invite some people over to make tacos and whip up some <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a> or <a href='/recipes/guacamole'>Holy Guacamole</a>; what are you waiting for!
 Instructions:
-- Mix together seasonings in a medium bowl or mason jar and set aside
+- Mix together seasonings in a <a href='https://amzn.to/4adxMft'>medium bowl</a> or mason jar and set aside
 
-- Start with the veggies, since they will take the longest.  Cut your onions into long thin slices, and add to a 12" pan with olive oil over medium heat.  Other good veggies besides onions are bell peppers, zucchini, and yellow squash
+- Start with the <a href='/misc/veggies'>veggies</a>, since they will take the longest.  Cut your <a href='/misc/veggies#onion'>onions</a> into long thin slices, and add to a <a href='https://amzn.to/4rdR0HI'>12" pan</a> with olive oil over medium heat
 
-- Season the onions with 2 tbsp of the spice mix. Cover and cook until soft, browned, and lightly charred, about 20 minutes. Finish with lime juice
+- Season the <a href='/misc/veggies#onion'>onions</a> with 2 tbsp of the spice mix. Cover and cook until soft, browned, and lightly charred, about 20 minutes. Finish with <a href='/misc/fruit#lime-juice'>lime juice</a>
 
-- Meanwhile, heat a 10" pan over medium heat with oil.  When hot, add in the meat, and press down to brown the meat.  Cook until no longer pink, and season with the rest of your spice mix
+- Meanwhile, heat a <a href='https://amzn.to/4bOh0on'>10" pan</a> over medium heat with oil.  When hot, add in the <a href='/misc/meat'>meat</a>, and press down to brown the <a href='/misc/meat'>meat</a>.  Cook until no longer pink, and season with the rest of your spice mix
 
-- Add in the garlic and water, and cover with a lid or foil.  Reduce heat to medium low, and let simmer for 10 minutes with occasional stirring
+- Add in the <a href='/misc/veggies#garlic'>garlic</a> and water, and cover with a lid or foil.  Reduce heat to medium low, and let simmer for 10 minutes with occasional stirring
 
-- Stir in the apple cider vinegar and lime juice. Simmer until flavors combine, about another 5 minutes
+- Stir in the <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> and <a href='/misc/fruit#lime-juice'>lime juice</a>. Simmer until flavors combine, about another 5 minutes
 - <img src='/assets/Food/Ground Meat/Taco/taco-counter.jpg' alt='' class='instruction-image'>
 
-- Serve your tacos with <a href='/recipes/tortilla'>tortillas</a>, cheese, and <a href='/recipes/rice-and-beans'>rice and beans</a>, and salad.  Other good toppings are olives, <a href='/recipes/guacamole'>guac</a>, <a href='/recipes/salsa'>salsa</a>, and tomatoes.
+- Serve your tacos with <a href='/recipes/tortilla'>tortillas</a>, <a href='/misc/dairy#cheddar'>shredded cheese</a>, and <a href='/recipes/rice-and-beans'>rice and beans</a>, and <a href='/salad'>salad</a>.  Other good toppings are <a href='/misc/fruit#olives'>olives</a>, <a href='/recipes/guacamole'>guac</a>, <a href='/recipes/salsa'>salsa</a>, and <a href='/misc/veggies#tomato'>tomatoes</a>.
 - <img src='/assets/Food/Ground Meat/Taco/taco-bowl.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Ground Meat/Taco/taco-shell.jpg' alt='' class='instruction-image'>
 Notes:
-- Nutrition facts are just for the meat and veggies, not including any tortillas, cheese, rice, beans, or other toppings
+- Other good <a href='/misc/veggies'>veggies</a> besides <a href='/misc/veggies#onion'>onions</a> are <a href='/misc/veggies#pepper'>bell peppers</a>, <a href='/misc/veggies#zucchini'>zucchini</a>, and <a href='/misc/veggies#yellow-squash'>yellow squash</a>
+
+- Nutrition facts are just for the <a href='/misc/meat'>meat</a> and <a href='/misc/veggies'>veggies</a>, not including any tortillas, <a href='/misc/dairy#mozzarella'>cheese</a>, <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/beans'>beans</a>, or other toppings
 ---

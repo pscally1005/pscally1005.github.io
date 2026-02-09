@@ -65,13 +65,13 @@ tags:
 - vegetable
 - vic
 - cornbread
-Description: Chili is such a classic cold weather hearty meal, and this version comes together pretty quickly and makes a lot of food. Mix in some elbow noodles or <a href='/misc/grains#brown-rice'>rice</a> if you want to bulk it up even more. Nothing beats the smell of coming home and smelling fresh chili just waiting for you for dinner.  Chili pairs so well with cornbread, so check out my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> for a high <a href='/misc/protein'>protein</a> and delicious side dish!  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
+Description: Chili is such a classic cold weather hearty meal, and this version comes together pretty quickly and makes a lot of food. Mix in some elbow noodles or <a href='/misc/grains#brown-rice'>rice</a> if you want to bulk it up even more. Nothing beats the smell of coming home and smelling fresh chili just waiting for you for dinner.  Chili pairs so well with <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a>, so check out my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> for a <a href='/misc/high-protein'>high protein</a> and delicious <a href='/recipes/sides'>side dish</a>!  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions:
-- Chop up the vegetables, and add them to a large skillet with olive oil, garlic, and salt. Cook over medium heat (covered) until soft. Set vegetables aside in crock pot
+- Chop up the <a href='/misc/veggies'>vegetables</a>, and add them to a large skillet with olive oil, <a href='/misc/veggies#garlic'>garlic</a>, and salt. Cook over medium heat (covered) until soft. Set <a href='/misc/veggies'>vegetables</a> aside in <a href='https://amzn.to/49TUS9E'>crock pot</a>
 
-- Meanwhile, drain and rinse the cans of beans. Transfer all the beans, cocoa, and tomatoes to the crock pot
+- Meanwhile, drain and rinse the cans of <a href='/misc/beans'>beans</a>. Transfer all the <a href='/misc/beans'>beans</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a>, and <a href='/misc/veggies#tomato'>tomatoes</a> to the <a href='https://amzn.to/49TUS9E'>crock pot</a>
 
-- Add in the meat and cook until no longer pink over medium heat, and transfer to crockpot
+- Add in the <a href='/misc/meat'>meat</a> and cook until no longer pink over medium heat, and transfer to <a href='https://amzn.to/49TUS9E'>crockpot</a>
 
 - Cover and cook for 8 hours on low or 6 hours on high
 - <img src='/assets/Food/Ground Meat/Chili/chili-4.jpg' alt='' class='instruction-image'>

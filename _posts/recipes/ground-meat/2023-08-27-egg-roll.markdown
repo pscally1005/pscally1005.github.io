@@ -54,23 +54,23 @@ tags:
 - dumpling
 - peanut
 - sesame
-Description: Shredded <a href='/misc/veggies#cabbage'>cabbage</a> makes such a good base for a meal, just like <a href='/misc/grains#brown-rice'>rice</a> or noodles would. These bowls are like a deconstructed version of an egg roll, and they're packed with <a href='/misc/veggies'>vegetables</a> and feature a flavorful sauce.
+Description: <a href='/misc/veggies#cabbage'>Shredded cabbage</a> makes such a good base for a meal, just like <a href='/misc/grains#brown-rice'>rice</a> or noodles would. These bowls are like a deconstructed version of an egg roll, and they're packed with <a href='/misc/veggies'>vegetables</a> and feature a flavorful sauce.
 Instructions:
-- You can either buy a bags of shredded cabbage and carrots, or shred them yourself.  I like to cut them into big chunks, pulse them in my food processor, and use that.  It's cheaper and simpler, but you don't get the strips that a mandolin would get you
+- You can either buy a bags of <a href='/misc/veggies#cabbage'>shredded cabbage</a> and <a href='/misc/veggies#carrots'>carrots</a>, or shred them yourself.  I like to cut them into big chunks, pulse them in my <a href='https://amzn.to/4q0AUjI'>food processor</a>, and use that.  It's cheaper and simpler, but you don't get the strips that a mandolin would get you
 
-- Heat a large wok over medium to medium high heat. Add the cabbage, carrots, a pinch of salt, and a drizzle of olive oil
+- Heat a large wok over medium to medium high heat. Add the <a href='/misc/veggies#cabbage'>cabbage</a>, <a href='/misc/veggies#carrots'>carrots</a>, a pinch of salt, and a drizzle of olive oil
 
-- Cover the wok with aluminum foil and cook the vegetables until softened to desired texture
+- Cover the wok with aluminum foil and cook the <a href='/misc/veggies'>vegetables</a> until softened to desired texture
 - <img src='/assets/Food/Ground Meat/Egg Roll/egg-roll-2.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, in a large pan or wok, brown the meat with the spices (onion and garlic powder, chili powder, cumin, ginger, black pepper, and salt) over medium heat. Mix in soy sauce and gochujang at the end
+- Meanwhile, in a <a href='https://amzn.to/4rdR0HI'>large pan</a> or wok, brown the <a href='/misc/meat'>meat</a> with the spices (onion and garlic powder, chili powder, cumin, <a href='/misc/veggies#ginger'>ginger</a>, black pepper, and salt) over medium heat. Mix in soy sauce and gochujang at the end
 - <img src='/assets/Food/Ground Meat/Egg Roll/egg-roll-3.jpg' alt='' class='instruction-image'>
 
-- Mix together the sauce in a bowl or glass. Optionally add some peanut butter
+- Mix together the sauce in a bowl or glass. Optionally add some <a href='/misc/nuts#peanuts'>peanut butter</a>
 
-- Pour the sauce onto the cooked vegetables. Mix in the meat, season to taste with lemon, soy sauce, and salt, and serve
+- Pour the sauce onto the cooked <a href='/misc/veggies'>vegetables</a>. Mix in the <a href='/misc/meat'>meat</a>, season to taste with <a href='/misc/fruit#lemon'>lemon</a>, soy sauce, and salt, and serve
 
-- This can also work as a great filling for dumplings. Lightly wet the edges of the wrapper with water, place a small spoonful on the inside, and seal it shut, crimping the edges. Steam in a pan over medium heat until soft, or air fry at 400F until crispy
+- This can also work as a great filling for dumplings. Lightly wet the edges of the wrapper with water, place a small spoonful on the inside, and seal it shut, crimping the edges. Steam in a pan over medium heat until soft, or <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F until crispy
 - <img src='/assets/Food/Ground Meat/Egg Roll/egg-roll-7.jpg' alt='' class='instruction-image'>
 Notes:
 ---

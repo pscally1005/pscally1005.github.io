@@ -57,23 +57,23 @@ tags:
 - broil
 - breadcrumbs
 - panko
-Description: This ground <a href='/misc/meat'>meat</a> and penne baked casserole was my go to for feeding a crowd during my running club pasta parties in college. They're really easy to make a day ahead, and simply just reheat in the pan on the day of your event. Feel free to mix in some chopped <a href='/misc/veggies#spinach-fresh'>spinach</a> as well, or serve with a side of roasted <a href='/misc/veggies#broccoli'>broccoli</a>, such as my <a href='/recipes/running-club-broccoli'>Running Club Broccoli</a>
+Description: This <a href='/misc/meat#ground-turkey'>ground turkey</a> and <a href='/misc/grains#pasta'>penne</a> baked casserole was my go to for feeding a crowd during my running club pasta parties in college. They're really easy to make a day ahead, and simply just reheat in the pan on the day of your event. Feel free to mix in some chopped <a href='/misc/veggies#spinach-fresh'>spinach</a> as well, or serve with a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies#broccoli'>broccoli</a>, such as my <a href='/recipes/running-club-broccoli'>Running Club Broccoli</a>
 Instructions:
-- Preheat the oven to 375F. Spray 9x13in pan with cooking spray
+- Preheat the oven to 375F. <a href='https://amzn.to/3Hdg0gk'>Spray</a> <a href='https://amzn.to/4aiCsjh'>9x13in pan</a> with <a href='https://amzn.to/3Hdg0gk'>cooking spray</a>
 
-- Cook you pasta according to the packaging, drain, and set aside. Cook about a minute less than directed, since the pasta will bake in the oven
+- Cook you <a href='/misc/grains#pasta'>pasta</a> according to the packaging, drain, and set aside. Cook about a minute less than directed, since the <a href='/misc/grains#pasta'>pasta</a> will bake in the oven
 
-- Heat olive oil over medium high heat in a Dutch oven. Add garlic, onion, and salt, and cook until the onion is transparent
+- Heat olive oil over medium high heat in a <a href='https://amzn.to/3LNGdVy'>Dutch oven</a>. Add <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, and salt, and cook until the <a href='/misc/veggies#onion'>onion</a> is transparent
 
-- Add the meat and fully cook (meat should sound like its crackling instead of boiling)
+- Add the <a href='/misc/meat'>meat</a> and fully cook (<a href='/misc/meat'>meat</a> should sound like its crackling instead of boiling)
 
-- After the meat is done, add in the spices (garlic powder, onion powder, oregano, basil, thyme, and black pepper) and pour in tomatoes. Let simmer for 5 minutes
+- After the <a href='/misc/meat'>meat</a> is done, add in the spices (garlic powder, onion powder, oregano, basil, thyme, and black pepper) and pour in <a href='/misc/veggies#tomato'>tomatoes</a>. Let simmer for 5 minutes
 
-- Combine beef, pasta, and cheese in the pot
+- Combine <a href='/misc/meat'>meat</a>, <a href='/misc/grains#pasta'>pasta</a>, and <a href='/misc/dairy#mozzarella'>cheese</a> in the pot
 - <img src='/assets/Food/Ground Meat/Penne/penne-6.jpg' alt='' class='instruction-image'>
 
 - Transfer to greased pan. Sprinkle breadcrumbs on top
 
-- Bake covered at 375F for 30 minutes. Uncover, and broil until the top is golden, probably about 2 minutes. Watch very closely. When baking, put the pan on a large cookie sheet to catch any drips if they occur
+- Bake covered at 375F for 30 minutes. Uncover, and broil until the top is golden, probably about 2 minutes. Watch very closely. When baking, put the pan on a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> to catch any drips if they occur
 Notes:
 ---
