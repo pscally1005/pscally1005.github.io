@@ -2340,6 +2340,11 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "pecan pie",
+    "combo of low fat",
+    "store cookies",
+    "24 cookies",
+    "to baking",
     "standard full fat",
     "chocolate chip muffins",
     "chocolate chip muffin",
@@ -3699,7 +3704,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025")):
+            if not file.startswith(("2026")):
                 continue
 
             # exclude some files
