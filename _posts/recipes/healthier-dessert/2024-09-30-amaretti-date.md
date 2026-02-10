@@ -52,13 +52,14 @@ tags:
 - skim milk
 - milk
 Description: |
-  Amaretti cookies have long been one of my favorite desserts, being a staple at Italian holidays.  They're pretty simple to make healthy though, as they are traditionally free of any <a href='/misc/dairy#butter'>butter</a>, oil, or highly processed flours.  Just swap the <a href='/misc/hidden-sugar'>sugar</a> for any other sweetener - see my <a href='/recipes/amaretti'>Amaretti Cookies with Monkfruit</a>
+  Amaretti <a href='/cookies'>cookies</a> have long been one of my favorite <a href='/recipes/healthier-dessert'>desserts</a>, being a staple at Italian holidays.  They're pretty simple to make healthy though, as they are traditionally free of any <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/fats'>oil</a>, or <a href='/misc/processed-foods'>highly processed flours</a>.  Just swap the <a href='/misc/hidden-sugar'>sugar</a> for any other sweetener - see my <a href='/recipes/amaretti'>Amaretti Cookies with Monkfruit</a>
   <br><br>
-  But today, I wanted to make a more naturally sweetened version, instead of using highly processed (albeit sugar-free) sweeteners like granulated monk fruit.  This recipe is more similar to my <a href='/recipes/date-cookies'>Almond Flour Cookies</a>, but with almond extract instead of chocolate chips.  These are a bit softer than the traditional amaretti cookies, but are still full of the same great flavor while containing no <a href='/misc/hidden-sugar'>added sugar</a>!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
+  
+  But today, I wanted to make a more naturally sweetened version, instead of using <a href='/misc/processed-foods'>highly processed</a> (albeit <a href='/misc/hidden-sugar'>sugar-free</a>) sweeteners like <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>.  This recipe is more similar to my <a href='/recipes/date-cookies'>Almond Flour Cookies</a>, but with almond extract instead of chocolate chips.  These are a bit softer than the traditional amaretti <a href='/cookies'>cookies</a>, but are still full of the same great flavor while containing no <a href='/misc/hidden-sugar'>added sugar</a>!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions: 
-- Preheat your oven to 350F, and line a large cookie sheet with parchment paper
+- Preheat your oven to 350F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add all ingredients to a food processor, and blend until smooth and no visible chunks of dates are remaining. You will have to stop and scrape down the sides a few times
+- Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth and no visible chunks of <a href='/misc/fruit#dates'>dates</a> are remaining. You will have to stop and scrape down the sides a few times
 - <img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-blended.jpg' alt='' class='instruction-image'>
 
 - Use a cookie scoop (mine is 1.5 tbsp) to scoop the batter onto your lined pan. Lightly wet your hands to shape the cookies into round balls if necessary. Don't flatten the cookies, you want them to be smaller but taller, instead of wider and flat
@@ -67,7 +68,7 @@ Instructions:
 - Bake in a preheated 350F oven for about 15 minutes, or until the tops are lightly golden brown
 - <img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-baked.jpg' alt='' class='instruction-image'>
 
-- Let cool on the pan for a few minutes before transferring to a wire rack to cool
+- Let cool on the pan for a few minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool
 - <img src='/assets/Food/Healthier Dessert/Amaretti Date/amaretti-date-cooled.jpg' alt='' class='instruction-image'>
 Notes:
 ---

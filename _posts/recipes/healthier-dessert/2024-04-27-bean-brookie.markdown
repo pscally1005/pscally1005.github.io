@@ -60,30 +60,33 @@ tags:
 - sunflower butter
 - sunflower seeds
 - pumpkin seeds
-Description: These brookies are so good that you would never know there were <a href='/misc/beans'>beans</a> in there. The combination of beans, <a href='/misc/grains#oats'>oats</a>, and <a href='/misc/fruit#dates'>dates</a> means they're packed with <a href='/misc/fiber'>fiber</a>. They contain only healthy <a href='/misc/fats'>fats</a> from the nuts, and are free of any refined sugars. These blondies are super rich, fudgy, the right amount of sweet, <a href='/misc/celiac'>gluten free</a> and vegan, and only 100 <a href='/misc/calories'>calories</a>. Use <a href='/misc/seeds#sunflower-seeds'>sunflower</a> or <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a> butter to make them <a href='/misc/nuts'>nut</a> free too. For more date and bean based desserts, see my <a href='/recipes/black-bean-date-brownies'>Black Bean Date Brownies</a> and <a href='/recipes/chickpea-date-blondies'>Chickpea Date Blondies</a>.  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
-Instructions:
-- Preheat your oven to 350F, line a 9x13" baking pan with parchment paper, and lightly spray it with oil. Drain and rinse your beans
+Description: |
+  These <a href='/brownies'>brookies</a> are so good that you would never know there were <a href='/misc/beans'>beans</a> in there. The combination of <a href='/misc/beans'>beans</a>, <a href='/misc/grains#oats'>oats</a>, and <a href='/misc/fruit#dates'>dates</a> means they're packed with <a href='/misc/fiber'>fiber</a>. They contain only <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts'>nuts</a>, and are free of any <a href='/misc/hidden-sugar'>refined sugars</a>. These <a href='/brownies'>blondies</a> are super rich, fudgy, the right amount of sweet, <a href='/misc/celiac'>gluten free</a> and vegan, and only 100 <a href='/misc/calories'>calories</a>.<br><br>
 
-- Starting with the brownie layer, add all ingredients to the food processor - black beans, oat flour, dates, cocoa powder, peanut butter, baking powder, milk, and vanilla
+  For more <a href='/misc/fruit#dates'>date</a> and <a href='/misc/beans'>bean</a> based <a href='/recipes/healthier-dessert'>desserts</a>, see my <a href='/recipes/black-bean-date-brownies'>Black Bean Date Brownies</a> and <a href='/recipes/chickpea-date-blondies'>Chickpea Date Blondies</a>.  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
+Instructions:
+- Preheat your oven to 350F, line a <a href='https://amzn.to/4aiCsjh'>9x13" baking pan</a> with parchment paper, and lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> it with oil. Drain and rinse your <a href='/misc/beans'>beans</a>
+
+- Starting with the <a href='/brownies'>brownie</a> layer, add all ingredients to the <a href='https://amzn.to/4q0AUjI'>food processor</a> - <a href='/misc/beans#black-beans'>black beans</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and vanilla
 
 - Transfer the brownie batter to the pan. Using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-5.jpg' alt='' class='instruction-image'>
 
-- Moving on to the blondie layer, repeat the same steps with the blondie ingredients - chickpeas, oat flour, dates, peanut butter, baking powder, milk, and vanilla
+- Moving on to the <a href='/brownies'>blondie</a> layer, repeat the same steps with the <a href='/brownies'>blondie</a> ingredients - <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and vanilla
 
-- Transfer the blondie batter to the pan on top of the brownies. Using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
+- Transfer the <a href='/brownies'>blondie</a> batter to the pan on top of the brownies. Using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-8.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 20-25 minutes, or until a toothpick comes out fairly clean. A few crumbs left is generally ok. The brookies will firm up much more as they cool, so they should look a bit underdone
+- Bake at 350F for about 20-25 minutes, or until a toothpick comes out fairly clean. A few crumbs left is generally ok. The <a href='/brownies'>brookies</a> will firm up much more as they cool, so they should look a bit underdone
 - <img src='/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-9.jpg' alt='' class='instruction-image'>
 
 - Let cool totally in the fridge for a few hours (ideally overnight) before slicing and enjoying
 Notes:
-- If you don't already have oat flour, you can just blend up quick or rolled oats in your food processor. Make sure to grind up the oats on their own, as they won't get fully blended if you do it with everything else
+- If you don't already have <a href='/misc/grains#oats'>oat flour</a>, you can just blend up quick or <a href='/misc/grains#oats'>rolled oats</a> in your <a href='https://amzn.to/4q0AUjI'>food processor</a>. Make sure to grind up the <a href='/misc/grains#oats'>oats</a> on their own, as they won't get fully blended if you do it with everything else
 
-- For a nut free replacement, you can use the same amount by weight (64 g) of any seed butter (pumpkin seed or sunflower seed), or half an overripe banana.
+- For a <a href='/misc/nuts'>nut</a> free replacement, you can use the same amount by weight (64 g) of any <a href='/recipes/natural-peanut-butter'>seed butter</a> (<a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed</a>), or half an overripe <a href='/misc/fruit#banana'>banana</a>.
 
-- The batter should be very thick. My 8 cup food processor could barely blend it together
+- The <a href='/brownies'>brownie</a> and <a href='/brownies'>blondie</a> layers are naturally sweetened with <a href='/misc/fruit#dates'>dates</a>. Using the same amount by weight of <a href='/misc/fruit#raisins'>raisins</a> or <a href='/misc/fruit#fig-dried'>figs</a> would also work as a replacement for <a href='/misc/fruit#dates'>dates</a>. For a lower <a href='/misc/hidden-sugar'>sugar</a> option, replace both the <a href='/misc/fruit#dates'>dates</a> and the <a href='/misc/dairy#skim-milk'>milk</a> with overripe <a href='/misc/fruit#banana'>bananas</a>, about 1.5 large or 165 g (per layer)
 
-- The brownie and blondie layers are naturally sweetened with dates. Using the same amount by weight of raisins or figs would also work as a replacement for dates. For a lower <a href='/misc/hidden-sugar'>sugar</a> option, replace both the dates and the milk with overripe bananas, about 1.5 large or 165 g (per layer)
+- The batter should be very thick. My 8 cup <a href='https://amzn.to/4q0AUjI'>food processor</a> could barely blend it together
 ---

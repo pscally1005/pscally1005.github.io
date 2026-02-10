@@ -71,21 +71,21 @@ tags:
 - frosting
 - sugar free
 - gluten free
-Description: Happy Halloween!  Here's an easy cake recipe that's delicious, <a href='/misc/hidden-sugar'>sugar</a> free, <a href='/misc/celiac'>gluten free</a>, and lower in <a href='/misc/fats'>fat</a> than traditional.  Healthy pumpkin cake that's full of cinnamon flavor, and topped with a homemade frosting.  You can either use a can of pumpkin puree, or make your own <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> (or use <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>).  For double pumpkin, use <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed</a> butter in the cake and the frosting, but <a href='/misc/nuts#peanuts'>peanut</a> butter, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/nuts#almonds'>almond</a> butter will also work
+Description: Happy Halloween!  Here's an easy cake recipe that's delicious, <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, and lower in <a href='/misc/fats'>fat</a> than traditional.  Healthy pumpkin cake that's full of cinnamon flavor, and topped with a homemade frosting.  You can either use a can of <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, or make your own <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> (or use <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>).  For double <a href='/misc/veggies#pumpkin'>pumpkin</a>, use <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a> in the cake and the frosting, but <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/nuts#almonds'>almond butter</a> will also work
 Instructions: 
-- Preheat your oven to 350F, and line a 9" circle pan with parchment paper.  Lightly spray the paper with oil
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/4q0gY0f'>9" circle pan</a> with parchment paper.  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
-- In a large bowl, add all your wet ingredients, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined - pumpkin puree, yogurt, nut/seed butter, egg, and sweeteners
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, add all your wet ingredients, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut/seed butter</a>, <a href='/misc/meat#eggs'>egg</a>, and sweeteners
 - <img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-wet.jpg' alt='' class='instruction-image'>
 
-- To the bowl, add your dry ingredients, and stir until fully combined - salt, cinnamon, ginger, nutmeg, cloves, baking powder, baking soda, cornstarch, and oat flour.  Transfer the batter to the pan, and smooth out the top
+- To the bowl, add your dry ingredients, and stir until fully combined - salt, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, cloves, baking powder, baking soda, cornstarch, and <a href='/misc/grains#oats'>oat flour</a>.  Transfer the batter to the pan, and smooth out the top
 - <img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-raw.jpg' alt='' class='instruction-image'>
 
-- Bake for 40 minutes, or until the internal temperature is at least 205F and a toothpick comes out nearly clean.  Let cool totally in the pan in the fridge
+- Bake for 40 minutes, or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least <a href='https://amzn.to/4kmobG2'>205F</a> and a toothpick comes out nearly clean.  Let cool totally in the pan in the fridge
 - <img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-1.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-baked-2.jpg' alt='' class='instruction-image'>
 
-- In a food processor, blend the frozen bananas until you have a smooth banana ice cream.  Add in the cottage cheese, pumpkin seed butter, and cinnamon, and blend until smooth and creamy
+- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend the frozen <a href='/misc/fruit#banana'>bananas</a> until you have a smooth <a href='/recipes/nice-cream'>banana ice cream</a>.  Add in the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a>, and cinnamon, and blend until smooth and creamy
 - <img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-1.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-frosting-2.jpg' alt='' class='instruction-image'>
 

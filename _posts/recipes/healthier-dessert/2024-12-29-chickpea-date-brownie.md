@@ -52,16 +52,16 @@ tags:
 - prunes
 - figs
 - unsweetened vanilla almond milk
-Description: Not only are these brownies much healthier, but they're also dead simple. Just blend together everything in a food processor, transfer to a pan, and bake! Where else are you going to find a delicious brownie recipe that's <a href='/misc/hidden-sugar'>added sugar</a> free, <a href='/misc/celiac'>gluten free</a>, and vegan. Compared to traditional brownies, these bars are lower in unhealthy <a href='/misc/fats'>fats</a> and <a href='/misc/carbs'>carbs</a>, while also having more <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a> from the <a href='/misc/beans'>beans</a> and nuts. I'll be honest with you, this is essentially just my <a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a> baked into brownie form; that's what I call versatility!  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
+Description: Not only are these <a href='/brownies'>brownies</a> much healthier, but they're also dead simple. Just blend together everything in a <a href='https://amzn.to/4q0AUjI'>food processor</a>, transfer to a pan, and bake! Where else are you going to find a delicious <a href='/brownies'>brownie</a> recipe that's <a href='/misc/hidden-sugar'>added sugar</a> free, <a href='/misc/celiac'>gluten free</a>, and vegan. Compared to traditional <a href='/brownies'>brownies</a>, these bars are lower in <a href='/misc/fats'>unhealthy fats</a> and <a href='/misc/carbs'>carbs</a>, while also having more <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a> from the <a href='/misc/beans'>beans</a> and <a href='/misc/nuts'>nuts</a>. I'll be honest with you, this is essentially just my <a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a> baked into <a href='/brownies'>brownie</a> form; that's what I call versatility!  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions: 
-- Preheat your oven to 350F, and line a 9x13" pan with parchment paper. Lightly oil the paper
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly oil</a> the paper
 
-- In a food processor, blend together all ingredients until smooth. Transfer to your prepared pan
+- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together all ingredients until smooth. Transfer to your prepared pan
 - <img src='/assets/Food/Healthier Dessert/Chickpea Date Brownie/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 30 minutes, or until the center is set, a toothpick comes out slightly moist, and the internal temperature is around 195F
+- Bake at 350F for about 30 minutes, or until the center is set, a toothpick comes out slightly moist, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>195F</a>
 
-- Transfer to a wire rack to totally cool in the fridge before slicing into 24 with a plastic knife
+- Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to totally cool in the fridge before slicing into 24 with a plastic knife
 - <img src='/assets/Food/Healthier Dessert/Chickpea Date Brownie/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---
