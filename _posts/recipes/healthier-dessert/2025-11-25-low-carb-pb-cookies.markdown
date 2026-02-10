@@ -49,16 +49,16 @@ tags:
 - peanuts
 - granulated monk fruit
 - vanilla extract
-Description: This is a variant of my <a href='/recipes/keto-chocolate-chip-cookies'>Keto Chocolate Chip Cookies</a>, using <a href='/recipes/natural-peanut-butter'>peanut butter</a> in place of <a href='/misc/nuts#cashews'>cashew butter</a>, and omitting the chocolate chips.  The result is a healthy <a href='/misc/nuts#peanuts'>peanut butter</a> <a href='/cookies'>cookie</a> that has only 1 g of <a href='/misc/carbs'>net carbs</a>.  These taste just as good as traditional <a href='/misc/nuts#peanuts'>peanut butter</a> <a href='/cookies'>cookies</a>, without all the <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/fats'>oil</a>, <a href='/misc/hidden-sugar'>added sugar</a>, and <a href='/misc/grains#white-wheat'>refined flour</a>.  The <a href='/misc/nuts#peanuts'>peanuts</a> provide plenty of <a href='/misc/fats'>healthy fats</a>, along with some <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#N'>B3</a>, and <a href='/misc/nutrient-alphabet#M'>manganese</a>
+Description: This is a variant of my <a href='/recipes/keto-chocolate-chip-cookies'>Keto Chocolate Chip Cookies</a>, using <a href='/misc/nuts#peanuts'>peanut butter</a> in place of <a href='/misc/nuts#cashews'>cashew butter</a>, and omitting the chocolate chips.  The result is a healthy peanut butter cookie that has only 1 g of <a href='/misc/carbs'>net carbs</a>.  These taste just as good as traditional peanut butter cookies, without all the <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/fats'>oil</a>, <a href='/misc/hidden-sugar'>added sugar</a>, and <a href='/misc/grains#white-wheat'>refined flour</a>.  The <a href='/misc/nuts#peanuts'>peanuts</a> provide plenty of <a href='/misc/fats'>healthy fats</a>, along with some <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#N'>B3</a>, and <a href='/misc/nutrient-alphabet#M'>manganese</a>
 Instructions:
-- Preheat your oven to 350F, and line a large cookie sheet with parchment paper
+- Preheat your oven to 350F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Mix together the nut butter, sweetener, egg, vanilla, and baking soda until just combined with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>
+- Mix together the <a href='/recipes/natural-peanut-butter'>nut butter</a>, sweetener, <a href='/misc/meat#eggs'>egg</a>, vanilla, and baking soda until just combined with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>
 
-- Scoop the cookies into 24 cookie dough balls, about 17 g each. Roll them in your hands, and place onto a parchment lined cookie sheet. Press down to your desired thickness, shape into a circle, and cross with a fork. These will puff up and expand just slightly when cooking
+- Scoop the cookies into 24 cookie dough balls, about 17 g each. Roll them in your hands, and place onto a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Press down to your desired thickness, shape into a circle, and cross with a fork. These will puff up and expand just slightly when cooking
 
 - Bake for about 10 min at 350F, or until lightly golden brown. Allow them to cool totally on the pan before removing
 - <img src='/assets/Food/Healthier Dessert/Low Carb PB/out.jpg' alt='' class='instruction-image'>
 Notes:
-- Note that my peanut butter is salted. If yours is unsalted, add 1/2 tsp (3 g) of salt to the dough
+- Note that my <a href='/misc/nuts#peanuts'>peanut butter</a> is salted. If yours is unsalted, add 1/2 tsp (3 g) of salt to the dough
 ---

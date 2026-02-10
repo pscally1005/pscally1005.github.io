@@ -74,6 +74,7 @@ LINKS = {
   "nut butter": "/recipes/natural-peanut-butter",
   "seed butter": "/recipes/natural-peanut-butter",
   "'nut' butter": "/recipes/natural-peanut-butter",
+  "pb": "/recipes/natural-peanut-butter",
   "sugar free chocolate chips": "/recipes/monkfruit-chocolate-chunks",
   "sugar free chocolate chip": "/recipes/monkfruit-chocolate-chunks",
   "sugar free chocolate": "/recipes/monkfruit-chocolate-chunks",
@@ -876,6 +877,7 @@ LINKS = {
   "coconut butter": "/misc/nuts#coconut",
   "coconut oil": "/misc/nuts#coconut",
   "coconuts": "/misc/nuts#coconut",
+  "coconut's": "/misc/nuts#coconut",
   "coconut": "/misc/nuts#coconut",
   "hazelnuts": "/misc/nuts#hazelnuts",
   "hazelnut": "/misc/nuts#hazelnuts",
@@ -1566,6 +1568,8 @@ LINKS = {
   '9" square baking pan': "https://amzn.to/3YY2H9q",
   '9" square pans': "https://amzn.to/3YY2H9q",
   '9" square pan': "https://amzn.to/3YY2H9q",
+  '9" baking pans': "https://amzn.to/3YY2H9q",
+  '9" baking pan': "https://amzn.to/3YY2H9q",
   "9x9 square baking pans": "https://amzn.to/3YY2H9q",
   "9x9 square baking pan": "https://amzn.to/3YY2H9q",
   "9 inch square baking pans": "https://amzn.to/3YY2H9q",
@@ -2336,6 +2340,46 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "standard full fat",
+    "chocolate chip muffins",
+    "chocolate chip muffin",
+    "banana chocolate chip",
+    "banana muffins",
+    "banana muffin",
+    "pumpkin blondies",
+    "sized muffins",
+    "sized muffin",
+    "muffin tins",
+    "48 mini muffins",
+    "36 mini muffins",
+    "pumpkin muffins",
+    "pumpkin muffin",
+    "pumpkin topping",
+    "cooled brownies",
+    "24 brownies",
+    "16 brownies",
+    "pumpkin brownies",
+    "leftover brownies",
+    "leftover brownie",
+    "line a small pan with parchment paper",
+    '10" x 6"',
+    "flatten the cookies",
+    "flatten the cookie",
+    "air fry setting",
+    "mint cookies",
+    "mint cookie",
+    "square cookies",
+    "a lot of cookies",
+    '"cookie" layers',
+    "per cookie",
+    "coating the cookies",
+    "each baked cookie",
+    "and baking at",
+    "instant coffee",
+    "mascarpone cheese",
+    "layers of coffee",
+    "also coffee and",
+    "italian dessert",
     "fig newton",
     "peanut butter chips",
     "butterscotch chips",
@@ -2371,6 +2415,7 @@ EXCLUDED_PHRASES = [
     "mini muffin liners",
     "mini muffin cups",
     "pecan butter chocolate truffles",
+    "chocolate chip cookies",
     "chocolate chip cookie",
     "graham cracker pie crust",
     "graham cracker crust",
@@ -3654,7 +3699,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2025")):
                 continue
 
             # exclude some files
