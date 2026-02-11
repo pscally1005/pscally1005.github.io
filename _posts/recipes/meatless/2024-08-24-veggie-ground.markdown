@@ -75,19 +75,19 @@ tags:
 - unflavored whey
 Description: This delicious combo of chopped <a href='/misc/veggies'>vegetables</a> and spices is a great alternative for <a href='/misc/meat#ground-beef'>ground beef</a> in <a href='/recipes/taco'>tacos</a>, <a href='/soups-and-stews'>stews</a>, on top of <a href='/salad'>salads</a>, or anything else you can imagine. <a href='/misc/veggies#mushrooms'>Mushrooms</a> are a good plant based source of <a href='/misc/protein'>protein</a>, and I've bumped up the <a href='/misc/protein'>protein</a> content significantly more with the addition of <a href='/misc/dairy#whey'>protein powder</a>. Feel free to leave it out, or replace it with any vegan protein powder if you desire
 Instructions:
-- In a medium bowl, add the walnuts, and cover with water. Let soak for at least 2 hours
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add the <a href='/misc/nuts#walnuts'>walnuts</a>, and cover with water. Let soak for at least 2 hours
 
-- Coarsely chop all vegetables (cauliflower, carrots, onion, and mushrooms) in a food processor. Do this in batches, and don't over blend. Add to a large pot or Dutch oven
+- Coarsely chop all <a href='/misc/veggies'>vegetables</a> (<a href='/misc/veggies#cauliflower'>cauliflower</a>, <a href='/misc/veggies#carrots'>carrots</a>, <a href='/misc/veggies#onion'>onion</a>, and <a href='/misc/veggies#mushrooms'>mushrooms</a>) in a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Do this in batches, and don't over blend. Add to a large pot or <a href='https://amzn.to/3LNGdVy'>Dutch oven</a>
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-raw.jpg' alt='' class='instruction-image'>
 
-- Cook the veggies on medium heat with occasional stirring until water releases begins to release, about 5 minutes
+- Cook the <a href='/misc/veggies'>veggies</a> on medium heat with occasional stirring until water releases begins to release, about 5 minutes
 
-- Meanwhile, coarsely chop the walnuts (discard the soaking water) with the tomato paste until well combined. Don't over blend
+- Meanwhile, coarsely chop the <a href='/misc/nuts#walnuts'>walnuts</a> (discard the soaking water) with the tomato paste until well combined. Don't over blend
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-nuts.jpg' alt='' class='instruction-image'>
 
-- Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your garlic, soy sauce, mustard, marmite, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out
+- Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your <a href='/misc/veggies#garlic'>garlic</a>, soy sauce, mustard, marmite, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out
 
-- Turn off heat and add walnut and tomato paste mixture. Mix thoroughly to combine. Mix in your protein powder, season with salt to taste, and enjoy
+- Turn off heat and add <a href='/misc/nuts#walnuts'>walnut</a> and tomato paste mixture. Mix thoroughly to combine. Mix in your <a href='/misc/dairy#whey'>protein powder</a>, season with salt to taste, and enjoy
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-container.jpg' alt='' class='instruction-image'>
 Notes:
 ---

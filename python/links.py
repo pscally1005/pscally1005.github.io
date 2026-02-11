@@ -5,12 +5,14 @@ from bs4 import BeautifulSoup, NavigableString
 import time
 
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meatless"
-# POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meatless"
+POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\recipes\meatless"
 
 LINKS = {
 
   # RECIPES
+  "tacos": "/recipes/taco",
+  "taco": "/recipes/taco",
   "pocket pita": "/recipes/pita",
   "pita bread": "/recipes/pita",
   "pita": "/recipes/pita",
@@ -820,7 +822,7 @@ LINKS = {
   "93 % ground beef": "/misc/meat#ground-beef",
   "93/7ground beef": "/misc/meat#ground-beef",
   "ground beef": "/misc/meat#ground-beef",
-  "ground meat": "/misc/meat#ground-beef",
+#   "ground meat": "/misc/meat#ground-beef",
   "red meat": "/misc/meat#ground-beef",
   "beef": "/misc/meat#ground-beef",
   "93% lean ground turkey": "/misc/meat#ground-turkey",
@@ -892,6 +894,7 @@ LINKS = {
   "pecan": "/misc/nuts#pecans",
   "pine nuts": "/misc/nuts#pine-nuts",
   "pine nut": "/misc/nuts#pine-nuts",
+  "pine": "/misc/nuts#pine-nuts",
   "pignoli nuts": "/misc/nuts#pine-nuts",
   "pignoli": "/misc/nuts#pine-nuts",
   "pistachios": "/misc/nuts#pistachios",
@@ -1955,7 +1958,7 @@ LINKS = {
   "drink": "/recipes/drinks",
   "finger foods": "/recipes/finger-food",
   "finger food": "/recipes/finger-food",
-  # "ground meat": "/recipes/ground-meat",
+  "ground meat": "/recipes/ground-meat",
   "healthier desserts": "/recipes/healthier-dessert",
   "healthier dessert": "/recipes/healthier-dessert",
   "healthier baking": "/recipes/healthier-dessert",
@@ -2315,6 +2318,11 @@ LINKS = {
   "shortening": "/misc/fake-healthy-foods#margarine",
   "vegetable oil spreads": "/misc/fake-healthy-foods#margarine",
   "vegetable oil spread": "/misc/fake-healthy-foods#margarine",
+  "ultraprocessed fake meat": "/misc/fake-healthy-foods#fake-meat",
+  "ultra processed fake meat": "/misc/fake-healthy-foods#fake-meat",
+  "ultra-processed fake meat": "/misc/fake-healthy-foods#fake-meat",
+  "processed fake meat": "/misc/fake-healthy-foods#fake-meat",
+  "fake meat": "/misc/fake-healthy-foods#fake-meat",
 
   # OVERSHADOWED
   "real dark chocolate": "/misc/overshadowed-healthy-foods#chocolate",
@@ -2343,6 +2351,10 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "pasta salad",
+    "potato salad",
+    'ground "meat"',
+    "baking enough",
     "taco meat",
     "chipotle peppers",
     "chipotle pepper",
@@ -3710,7 +3722,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

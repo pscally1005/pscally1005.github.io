@@ -62,29 +62,29 @@ tags:
 - pita
 - sandwich
 - wrap
-Description: Falafel is a chickpea based meatless dish originating from Egypt.  They can be a healthy vegan option, but are unfortunately often deep fried.  These falafel are either air fryer or baked, simple and cheap to make, and full of flavor.  Nutrition facts are for each small falafel ball
+Description: Falafel is a <a href='/misc/beans#chickpeas'>chickpea</a> based <a href='/recipes/meatless'>meatless dish</a> originating from Egypt.  They can be a healthy vegan option, but are unfortunately often deep fried.  These falafel are either <a href='https://amzn.to/3FuWETp'>air fryer</a> or baked, simple and cheap to make, and full of flavor.  Nutrition facts are for each small falafel ball
 Instructions:
-- With a strainer, drain and rinse your can of chickpeas. Add to a parchment lined cookie sheet, and roast at 400F for about 20-25 minutes, or until the chickpeas are dry and slightly cracked
+- With a strainer, drain and rinse your can of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add to a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and roast at 400F for about 20-25 minutes, or until the <a href='/misc/beans#chickpeas'>chickpeas</a> are dry and slightly cracked
 - <img src='/assets/Food/Meatless/Falafel/falafel-1.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, dice your onion, and add to a food processor. Add in the roasted chickpeas, and lightly pulse a full time to chop and combine. Don't over-blend, you want it to be a little bit coarse. Here is the texture you're looking for
+- Meanwhile, dice your <a href='/misc/veggies#onion'>onion</a>, and add to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Add in the roasted <a href='/misc/beans#chickpeas'>chickpeas</a>, and lightly pulse a full time to chop and combine. Don't over-blend, you want it to be a little bit coarse. Here is the texture you're looking for
 - <img src='/assets/Food/Meatless/Falafel/falafel-2.jpg' alt='' class='instruction-image'>
 
-- Add the rest of the ingredients to the food processor, and pulse to combine and roughly chop the cilantro. Be careful not to over-blend
+- Add the rest of the ingredients to the <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse to combine and roughly chop the cilantro. Be careful not to over-blend
 - <img src='/assets/Food/Meatless/Falafel/falafel-3.jpg' alt='' class='instruction-image'>
 
-- Using a cookie scoop (mine is 1 tbsp), scoop the batter into a parchment lined cookie sheet. Roll into balls (refrigerating for at least 30 minutes makes this step easier)
+- Using a cookie scoop (mine is 1 tbsp), scoop the batter into a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Roll into balls (refrigerating for at least 30 minutes makes this step easier)
 - <img src='/assets/Food/Meatless/Falafel/falafel-4.jpg' alt='' class='instruction-image'>
 
-- Air fry at 375F for 12 minutes, flipping halfway. Alternatively, bake in a preheated 375F oven for 20 minutes, flipping halfway
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 375F for 12 minutes, flipping halfway. Alternatively, bake in a preheated 375F oven for 20 minutes, flipping halfway
 Notes:
-- I used some <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, but either <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> or <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a> will work.  Canned pumpkin puree will work as well
+- I used some <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, but either <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> or <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a> will work.  Canned <a href='/recipes/pumpkin-puree'>pumpkin puree</a> will work as well
 
-- Instead of almond butter, you can use tahini, pistachio butter, or any other natural nut or seed butter
+- Instead of <a href='/misc/nuts#almonds'>almond butter</a>, you can use <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/nuts#pistachios'>pistachio butter</a>, or any other <a href='/recipes/natural-peanut-butter'>natural nut or seed butter</a>
 
-- Or 1 tbsp (15 g) extra virgin olive oil + 1 tbsp (15 g) aquafaba can be used in place of almond butter
+- Or 1 tbsp (15 g) extra virgin olive oil + 1 tbsp (15 g) aquafaba can be used in place of <a href='/misc/nuts#almonds'>almond butter</a>
 
 - Fresh parsley can be used instead of cilantro as well
 
-- Eat the falafel as is, put on a wrap with hummus (check out my <a href='/recipes/red-lentil-wraps'>Red Lentil Wraps</a> and <a href='/recipes/sweet-potato-hummus'>Golden Sweet Potato Hummus</a>), or crumble over a salad
+- Eat the falafel as is, put on a wrap with <a href='/hummus'>hummus</a> (check out my <a href='/recipes/red-lentil-wraps'>Red Lentil Wraps</a> and <a href='/recipes/sweet-potato-hummus'>Golden Sweet Potato Hummus</a>), or crumble over a <a href='/salad'>salad</a>
 ---

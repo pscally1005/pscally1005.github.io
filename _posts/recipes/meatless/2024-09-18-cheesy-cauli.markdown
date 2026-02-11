@@ -64,28 +64,28 @@ tags:
 - low carb
 - keto
 Description: |
-  This dish features <a href='/misc/veggies#cauliflower'>cauliflower</a> <a href='/misc/grains#brown-rice'>rice</a> and some spiced <a href='/misc/beans'>beans</a>, topped with a vegan cheese sauce featuring <a href='/misc/nuts'>nuts</a>, <a href='/misc/veggies'>vegetables</a>, and nutritional yeast. It boasts some healthy <a href='/misc/fats'>fats</a> from the <a href='/misc/nuts#cashews'>cashews</a>, while being lower in <a href='/misc/carbs'>carbs</a> due to the <a href='/misc/veggies#cauliflower'>cauliflower</a>. It comes together pretty quickly, is high in <a href='/misc/fiber'>fiber</a>, and is a rich source of <a href='/misc/vitamin-b12'>B vitamins due</a> to the nutritional yeast and marmite, something typically lacking in vegan dishes
+  This dish features <a href='/misc/veggies#cauliflower'>cauliflower</a> <a href='/misc/grains#brown-rice'>rice</a> and some spiced <a href='/misc/beans'>beans</a>, topped with a vegan cheese sauce featuring <a href='/misc/nuts'>nuts</a>, <a href='/misc/veggies'>vegetables</a>, and nutritional yeast. It boasts some <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#cashews'>cashews</a>, while being lower in <a href='/misc/carbs'>carbs</a> due to the <a href='/misc/veggies#cauliflower'>cauliflower</a>. It comes together pretty quickly, is high in <a href='/misc/fiber'>fiber</a>, and is a rich source of <a href='/misc/vitamin-b12'>B vitamins due</a> to the nutritional yeast and marmite, something typically lacking in vegan dishes
   <br><br>
   This recipes is an adapted version of "Cheesy Cauliflower Rice Bowl" from the book Good Energy.  For another vegan cheese sauce dish, see my <a href='/recipes/vegan-mac-and-cheese'>'Mac' & 'Cheese'</a>
 Instructions:
-- Add cashews to a small bowl, and cover with water. Let soak for 2 hours to soften (they will be blended into the cheese sauce). Drain the soaking liquid when done
+- Add <a href='/misc/nuts#cashews'>cashews</a> to a <a href='https://amzn.to/4adxMft'>small bowl</a>, and cover with water. Let soak for 2 hours to soften (they will be blended into the cheese sauce). Drain the soaking liquid when done
 
-- Add cauliflower, carrots, and onion to a wide pot. Large chunks of onion will work, it will all get blended anyway for the cheese sauce. Cover with water, and bring to a boil. Cover the pot, and let boil for about 10-15 minutes, or until the carrots are fork tender
+- Add <a href='/misc/veggies#cauliflower'>cauliflower</a>, <a href='/misc/veggies#carrots'>carrots</a>, and <a href='/misc/veggies#onion'>onion</a> to a wide pot. Large chunks of <a href='/misc/veggies#onion'>onion</a> will work, it will all get blended anyway for the cheese sauce. Cover with water, and bring to a boil. Cover the pot, and let boil for about 10-15 minutes, or until the <a href='/misc/veggies#carrots'>carrots</a> are fork tender
 - <img src='/assets/Food/Meatless/Cheesy Cauli/veggies.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, preheat a large pan over medium heat with olive oil. Add your cauliflower to a food processor, and pulse until you have a riced consistency (don't over blend)
+- Meanwhile, preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with olive oil. Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse until you have a riced consistency (don't over blend)
 
-- Transfer your cauliflower rice to the pan. Season with garlic powder, onion powder, black pepper, salt, and allspice. Cook over medium heat with occasional stirring until tender, about 10 minutes. Set aside
+- Transfer your <a href='/misc/veggies#cauliflower'>cauliflower rice</a> to the pan. Season with garlic powder, onion powder, black pepper, salt, and allspice. Cook over medium heat with occasional stirring until tender, about 10 minutes. Set aside
 - <img src='/assets/Food/Meatless/Cheesy Cauli/rice.jpg' alt='' class='instruction-image'>
 
-- As the veggies steam and rice cooks, you can prepare your beans. Drain and rinse your beans, and add to a large bowl. Cut an onion into a small dice, and add to the bowl. Mix in the diced tomatoes, lime juice, oregano, chili powder, and salt. Set aside
+- As the <a href='/misc/veggies'>veggies</a> steam and <a href='/misc/grains#brown-rice'>rice</a> cooks, you can prepare your <a href='/misc/beans'>beans</a>. Drain and rinse your <a href='/misc/beans'>beans</a>, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Cut an <a href='/misc/veggies#onion'>onion</a> into a small dice, and add to the bowl. Mix in the diced tomatoes, <a href='/misc/fruit#lime-juice'>lime juice</a>, oregano, chili powder, and salt. Set aside
 - <img src='/assets/Food/Meatless/Cheesy Cauli/beans.jpg' alt='' class='instruction-image'>
 
-- Once the vegetables are done cooking, add to a food processor with the cashews, almond milk, nutritional yeast, minced garlic, mustard, apple cider vinegar, marmite, paprika, and salt. Blend until smooth
+- Once the <a href='/misc/veggies'>vegetables</a> are done cooking, add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the <a href='/misc/nuts#cashews'>cashews</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, nutritional yeast, <a href='/misc/veggies#garlic'>minced garlic</a>, mustard, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, marmite, paprika, and salt. Blend until smooth
 
-- Transfer the cheese sauce to a separate bowl, and mix in the turmeric. The turmeric is added after as to not stain the food processor orange
+- Transfer the cheese sauce to a separate bowl, and mix in the turmeric. The turmeric is added after as to not stain the <a href='https://amzn.to/4q0AUjI'>food processor</a> <a href='/misc/fruit#orange'>orange</a>
 
-- To serve, combine the cauliflower rice and bean mixture together in a large bowl. Evenly split into 4 bowls, and pour on the cheese sauce. Top with dried parsley and optionally a drizzle of hot sauce
+- To serve, combine the <a href='/misc/veggies#cauliflower'>cauliflower rice</a> and <a href='/misc/beans'>bean</a> mixture together in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Evenly split into 4 bowls, and pour on the cheese sauce. Top with dried parsley and optionally a drizzle of <a href='/recipes/hot-sauce'>hot sauce</a>
 - <img src='/assets/Food/Meatless/Cheesy Cauli/container-no-sauce.jpg' alt='' class='instruction-image'>
 Notes:
 ---
