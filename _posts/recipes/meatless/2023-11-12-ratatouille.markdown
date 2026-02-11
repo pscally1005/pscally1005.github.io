@@ -60,13 +60,13 @@ Description: This simple Ratatouille is a stewed dish of various <a href='/misc/
 Instructions:
 - Preheat the oven to 350F
 
-- Heat the olive oil in a large Dutch oven over medium heat. Add the (finely diced) onion, garlic, and salt. Cook, stirring often until the onion has softened, about 5 minutes. Meanwhile, dice the pepper (medium dice)
+- Heat the olive oil in a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium heat. Add the (finely diced) <a href='/misc/veggies#onion'>onion</a>, <a href='/misc/veggies#garlic'>garlic</a>, and salt. Cook, stirring often until the <a href='/misc/veggies#onion'>onion</a> has softened, about 5 minutes. Meanwhile, dice the <a href='/misc/veggies#pepper'>pepper</a> (medium dice)
 
-- Add the bell pepper and cook, stirring occasionally, until softened, about 7 minutes. Meanwhile, cut the rest of the vegetables (medium dice). Pour in the crushed tomatoes and season (basil, garlic powder, onion powder, and black pepper)
+- Add the <a href='/misc/veggies#pepper'>bell pepper</a> and cook, stirring occasionally, until softened, about 7 minutes. Meanwhile, cut the rest of the <a href='/misc/veggies'>vegetables</a> (medium dice). Pour in the crushed tomatoes and season (basil, garlic powder, onion powder, and black pepper)
 
-- Add the vegetables (zucchini, yellow squash, eggplant, and tomatoes) into the pan. Bake at 350F for 60 minutes, covered
+- Add the <a href='/misc/veggies'>vegetables</a> (<a href='/misc/veggies#zucchini'>zucchini</a>, <a href='/misc/veggies#yellow-squash'>yellow squash</a>, <a href='/misc/veggies#eggplant'>eggplant</a>, and <a href='/misc/veggies#tomato'>tomatoes</a>) into the pan. Bake at 350F for 60 minutes, covered
 
-- Remove the cover and continue baking until the vegetables are very soft and the ratatouille is bubbling, another 45 minutes, or until the vegetables are softened to your liking. Let cool for a few minutes before serving
+- Remove the cover and continue baking until the <a href='/misc/veggies'>vegetables</a> are very soft and the ratatouille is bubbling, another 45 minutes, or until the <a href='/misc/veggies'>vegetables</a> are softened to your liking. Let cool for a few minutes before serving
 - <img src='/assets/Food/Meatless/Ratatouille/ratatouille-pot.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup, NavigableString
 import time
 
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\healthier-dessert"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meatless"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\misc\nutrition"
 
 LINKS = {
@@ -1910,6 +1910,8 @@ LINKS = {
   "salads": "/salad",
   "salad": "/salad",
   "salad dressing recipes": "/dressing",
+  "homemade salad dressings": "/dressing",
+  "homemade salad dressing": "/dressing",
   "salad dressings": "/dressing",
   "salad dressing": "/dressing",
   "dressing recipes": "/dressing",
@@ -1971,6 +1973,7 @@ LINKS = {
   "baking": "/recipes/healthier-dessert",
   "desserts": "/recipes/healthier-dessert",
   "dessert": "/recipes/healthier-dessert",
+  "meatless dish": "/recipes/meatless",
   "meatless": "/recipes/meatless",
   "meme recipes": "/recipes/meme",
   "meme recipe": "/recipes/meme",
@@ -2340,6 +2343,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "taco meat",
+    "chipotle peppers",
+    "chipotle pepper",
     "pecan pie",
     "combo of low fat",
     "store cookies",
@@ -3704,7 +3710,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026")):
+            if not file.startswith(("2023")):
                 continue
 
             # exclude some files

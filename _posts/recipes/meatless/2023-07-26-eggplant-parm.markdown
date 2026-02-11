@@ -53,20 +53,20 @@ tags:
 - gluten free
 - casserole
 - ricotta
-Description: This <a href='/misc/veggies#eggplant'>eggplant</a> <a href='/misc/dairy#grated-cheese'>parmesan</a> recipe cuts out the unnecessary breading and frying of the eggplant. This not only makes it simpler, but healthier as well without all the added oils (and makes it <a href='/misc/celiac'>gluten free</a> too!). This great meatless dish works well as a side or on a sandwich as well.
+Description: This eggplant parmesan recipe cuts out the unnecessary breading and frying of the <a href='/misc/veggies#eggplant'>eggplant</a>. This not only makes it simpler, but healthier as well without all the <a href='/misc/fats'>added oils</a> (and makes it <a href='/misc/celiac'>gluten free</a> too!). This great <a href='/recipes/meatless'>meatless dish</a> works well as a <a href='/recipes/sides'>side</a> or on a sandwich as well.
 Instructions:
 - Start by making the sauce if you don't have any already made.  I prefer to use my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>.  You can also use a can or jar of sauce too
 
-- Preheat oven your oven to 400F, and line a large cookie sheet with parchment paper
+- Preheat oven your oven to 400F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- While the sauce simmers, slice the eggplant lengthwise into 1/4 inch thick slices. Transfer to the prepared pan; it's ok if they overlap. Season with salt.  Bake for about 30 minutes, or until the eggplant is browned and soft but not burnt
+- While the sauce simmers, slice the <a href='/misc/veggies#eggplant'>eggplant</a> lengthwise into 1/4 inch thick slices. Transfer to the prepared pan; it's ok if they overlap. Season with salt.  Bake for about 30 minutes, or until the <a href='/misc/veggies#eggplant'>eggplant</a> is browned and soft but not burnt
 
-- Meanwhile, in a medium bowl combine egg, cottage cheese, shredded mozzarella, garlic powder, onion powder, and dried parsley
+- Meanwhile, in a <a href='https://amzn.to/4adxMft'>medium bowl</a> combine <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>, garlic powder, onion powder, and dried parsley
 
-- In a 9x13" casserole dish, place a light layer of sauce on the bottom.  Add the eggplant on top, and top with your cheese mix.  Repeat again - sauce, eggplant, and cheese.  Put one final layer of sauce on top, and top with grated cheese
+- In a <a href='https://amzn.to/4aiCsjh'>9x13" casserole dish</a>, place a light layer of sauce on the bottom.  Add the <a href='/misc/veggies#eggplant'>eggplant</a> on top, and top with your <a href='/misc/dairy#mozzarella'>cheese</a> mix.  Repeat again - sauce, <a href='/misc/veggies#eggplant'>eggplant</a>, and <a href='/misc/dairy#mozzarella'>cheese</a>.  Put one final layer of sauce on top, and top with <a href='/misc/dairy#grated-cheese'>grated cheese</a>
 - <img src='/assets/Food/Meatless/Eggplant Parm/raw.jpg' alt='' class='instruction-image'>
 
-- Cover with foil, and bake at 400F until cheese is melted and everything is bubbling, about 40 minutes.  Remove the foil, and bake an additional 10 minutes.  Let cool for about 10 minutes before cutting into 6 pieces
+- Cover with foil, and bake at 400F until <a href='/misc/dairy#mozzarella'>cheese</a> is melted and everything is bubbling, about 40 minutes.  Remove the foil, and bake an additional 10 minutes.  Let cool for about 10 minutes before cutting into 6 pieces
 - <img src='/assets/Food/Meatless/Eggplant Parm/baked.jpg' alt='' class='instruction-image'>
 Notes:
 ---

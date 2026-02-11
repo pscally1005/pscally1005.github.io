@@ -51,12 +51,12 @@ tags:
 - barbeque sauce
 - chopped
 - vic
-Description: This vegetarian Mexican inspired dish mixes together sauteed <a href='/misc/veggies#kale'>kale</a>, <a href='/misc/beans#pinto-beans'>pinto</a> beans, <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>, and is topped with shredded cheese. This goes well with some meatloaf or taco <a href='/misc/meat'>meat</a> as well
+Description: This vegetarian Mexican inspired dish mixes together sauteed <a href='/misc/veggies#kale'>kale</a>, <a href='/misc/beans#pinto-beans'>pinto beans</a>, <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>, and is topped with <a href='/misc/dairy#cheddar'>shredded cheese</a>. This goes well with some meatloaf or taco meat as well
 Instructions:
-- Cut the onions into a small dice, and add to a large pan over medium heat with olive oil and kale. Cook until the onions are translucent
+- Cut the <a href='/misc/veggies#onion'>onions</a> into a small dice, and add to a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with olive oil and <a href='/misc/veggies#kale'>kale</a>. Cook until the <a href='/misc/veggies#onion'>onions</a> are translucent
 
-- Add the seasonings to the veggies - chili powder, cumin, paprika, and salt
+- Add the seasonings to the <a href='/misc/veggies'>veggies</a> - chili powder, cumin, paprika, and salt
 
-- Add in the BBQ sauce (I used my <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>) and beans to the skillet. Cook over medium heat for a few minutes. Top with shredded cheese
+- Add in the <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a> (I used my <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>) and <a href='/misc/beans'>beans</a> to the skillet. Cook over medium heat for a few minutes. Top with <a href='/misc/dairy#cheddar'>shredded cheese</a>
 Notes:
 ---

@@ -54,17 +54,18 @@ tags:
 - onions
 - peppers
 - diced green chiles
-Description: This simple baked <a href='/misc/grains#brown-rice'>rice</a> and <a href='/misc/beans'>beans</a> also mixes together <a href='/misc/veggies'>vegetables</a> and a spicy sauce.  <a href='/misc/grains#brown-rice'>Brown rice</a> is used here instead of <a href='/misc/fake-healthy-foods#white-rice'>white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a side of nuts, fruit, or <a href='/misc/protein'>protein</a>.
+Description: This simple baked <a href='/misc/grains#brown-rice'>rice</a> and <a href='/misc/beans'>beans</a> also mixes together <a href='/misc/veggies'>vegetables</a> and a spicy sauce.  <a href='/misc/grains#brown-rice'>Brown rice</a> is used here instead of <a href='/misc/grains#white-rice'>white rice</a> for more nutrition.  This makes a bunch of food, enough to last you for lunch through two whole work weeks with a <a href='/recipes/sides'>side</a> of <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit'>fruit</a>, or <a href='/misc/protein'>protein</a>.
 Instructions:
-- Preheat your oven to 400F. Heat a large Dutch oven over medium heat with olive oil. Cut your peppers, onions, and carrots into a small dice. Add salt, stir, cover, and cook for about 10 minutes, or until the peppers begin to soften and the onions start to turn translucent
+- Preheat your oven to 400F. Heat a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium heat with olive oil. Cut your <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#onion'>onions</a>, and <a href='/misc/veggies#carrots'>carrots</a> into a small dice. Add salt, stir, cover, and cook for about 10 minutes, or until the <a href='/misc/veggies#pepper'>peppers</a> begin to soften and the <a href='/misc/veggies#onion'>onions</a> start to turn translucent
 
-- Add in garlic, diced green chilies, chipotle peppers in adobo, and your beans (not drained or rinsed). Any canned beans will work; I used a can each of kidney, pinto, and cannellini here. Bring to a boil over high heat, cover, and let cook for 10 minutes
+- Add in <a href='/misc/veggies#garlic'>garlic</a>, diced green chilies, chipotle peppers in adobo, and your <a href='/misc/beans'>beans</a> (not drained or rinsed). Bring to a boil over high heat, cover, and let cook for 10 minutes
 
-- Add the rest of the ingredients to the pot, and stir to combine - brown rice, water, tomato paste, apple cider vinegar, soy sauce, bouillon powder, chili powder, cumin, and black pepper
+- Add the rest of the ingredients to the pot, and stir to combine - <a href='/misc/grains#brown-rice'>brown rice</a>, water, tomato paste, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, soy sauce, bouillon powder, chili powder, cumin, and black pepper
 
-- Transfer the pot to the oven, and bake at 400F for about 90 minutes, or until the vegetables are tender, the rice is soft, and the water is absorbed
+- Transfer the pot to the oven, and bake at 400F for about 90 minutes, or until the <a href='/misc/veggies'>vegetables</a> are tender, the <a href='/misc/grains#brown-rice'>rice</a> is soft, and the water is absorbed
 
-- Divide into 10 servings. Add some acid to it after reheating, like lemon, lime, balsamic, or hot sauce
+- Divide into 10 servings. Add some acid to it after reheating, like <a href='/misc/fruit#lemon'>lemon</a>, <a href='/misc/fruit#lime'>lime</a>, balsamic, or <a href='/recipes/hot-sauce'>hot sauce</a>
 - <img src='/assets/Food/Meatless/Baked RB/containers.jpg' alt='' class='instruction-image'>
 Notes:
+- Any canned <a href='/misc/beans'>beans</a> will work; I used a can each of <a href='/misc/beans#kidney-beans'>kidney</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, and <a href='/misc/beans#cannellini-beans'>cannellini</a> here.
 ---
