@@ -46,17 +46,17 @@ tags:
 - toast
 - air fry
 - food processor
-Description: Yeah you heard me right. Idk whether to file this under bread or meme recipes, but here you go. It's low <a href='/misc/calories'>calorie</a> and <a href='/misc/celiac'>gluten free</a>, but also made out of <a href='/misc/veggies#cabbage'>cabbage</a>, so pick your poison lmao (for the record I love cabbage, and this bread is shockingly good for what it is). I made this into an <a href='/misc/meat#eggs'>egg</a> sandwich, as you can see above.
+Description: Yeah you heard me right. Idk whether to file this under <a href='/recipes/bread'>bread</a> or <a href='/recipes/meme'>meme recipes</a>, but here you go. It's <a href='/misc/calories'>low calorie</a> and <a href='/misc/celiac'>gluten free</a>, but also made out of <a href='/misc/veggies#cabbage'>cabbage</a>, so pick your poison lmao (for the record I love <a href='/misc/veggies#cabbage'>cabbage</a>, and this bread is shockingly good for what it is). I made this into an <a href='/misc/meat#eggs'>egg</a> sandwich, as you can see above.
 Instructions:
-- Using a food processor, shred your cabbage, until you have a riced consistency. Transfer to a large bowl
+- Using a <a href='https://amzn.to/4q0AUjI'>food processor</a>, shred your <a href='/misc/veggies#cabbage'>cabbage</a>, until you have a riced consistency. Transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
 
-- Mix in the yogurt, baking powder, and salt with a spatula. Optionally, add some spices, like garlic or onion powder (1/4 tsp, 0.75 g each)
+- Mix in the <a href='/misc/dairy#yogurt'>yogurt</a>, baking powder, and salt with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a>. Optionally, add some spices, like garlic or onion powder (1/4 tsp, 0.75 g each)
 
-- Transfer to a bread pan, and smooth the top
+- Transfer to a <a href='https://amzn.to/3YUjIkN'>bread pan</a>, and smooth the top
 
 - Bake in a 400F oven for about 50 minutes
 - <img src='/assets/Food/Bread/Cabbage/cabbage-4.jpg' alt='' class='instruction-image'>
 
-- Refrigerate until cooled before slicing. Makes 1 sandwich. I reheated mine for 10 minutes in a 400F air fryer, before using for an egg sandwich
+- Refrigerate until cooled before slicing. Makes 1 sandwich. I reheated mine for 10 minutes in a 400F <a href='https://amzn.to/3FuWETp'>air fryer</a>, before using for an <a href='/misc/meat#eggs'>egg</a> sandwich
 Notes:
 ---

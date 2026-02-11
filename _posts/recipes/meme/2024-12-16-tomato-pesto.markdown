@@ -50,11 +50,11 @@ tags:
 - sandwich
 - toast
 - salad
-Description: Have you ever wanted to make tomato pesto, but oil free and using canned tomato paste instead of fresh or sun dried <a href='/misc/veggies#tomato'>tomatoes</a>? Yeah idk why I bothered asking, only I come up with this stuff lmao.  You can also check out any of my other <a href='/pesto'>pesto recipes</a>!
+Description: Have you ever wanted to make <a href='/misc/veggies#tomato'>tomato</a> <a href='/pesto'>pesto</a>, but <a href='/misc/fats'>oil</a> free and using canned tomato paste instead of fresh or sun dried tomatoes? Yeah idk why I bothered asking, only I come up with this stuff lmao.  You can also check out any of my other <a href='/pesto'>pesto recipes</a>!
 Instructions:
-- Toast the nuts until fragrant in a small pan over medium heat (about 5 minutes)
+- Toast the <a href='/misc/nuts'>nuts</a> until fragrant in a <a href='https://amzn.to/4qFE9y3'>small pan</a> over medium heat (about 5 minutes)
 
-- Add all ingredients to a small food processor, and blend until combined and the nuts are chopped
+- Add all ingredients to a <a href='https://amzn.to/3VHhgMM'>small food processor</a>, and blend until combined and the <a href='/misc/nuts'>nuts</a> are chopped
 - <img src='/assets/Food/Meme/Tomato Pesto/no-pasta.jpg' alt='' class='instruction-image'>
 Notes:
 ---

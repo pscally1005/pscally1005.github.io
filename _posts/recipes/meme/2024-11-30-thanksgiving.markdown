@@ -58,23 +58,23 @@ tags:
 - allspice
 Description: Happy Thanksgiving!  Here's an idea I wanted to try that I'm dubbing "Ground Thanksgiving". It's a bowl of food that combines many Thanksgiving type dishes.  We have <a href='/misc/meat#ground-turkey'>ground turkey</a>, roasted <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> & <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a>, and sauteed <a href='/misc/veggies#carrots'>carrots</a>.  And of course it has my <a href='/recipes/cranberry-sauce'>Sugar Free Cranberry Sauce</a> mixed in, and features many fall spices like rosemary, thyme, cinnamon, and cloves
 Instructions:
-- Preheat your oven to 400F, and line 2 large cookie sheets with parchment paper
+- Preheat your oven to 400F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- Wash and dice your sweet potatoes, keeping the skin on. Add to one of the sheets, drizzle with oil, and add salt and black pepper to taste
+- Wash and dice your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, keeping the skin on. Add to one of the sheets, drizzle with oil, and add salt and black pepper to taste
 - <img src='/assets/Food/Meme/Thanksgiving/potatoes-whole.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meme/Thanksgiving/potatoes-cut.jpg' alt='' class='instruction-image'>
 
-- Cut your brussel sprouts in half, and add to the other pan cut side down. Using brussel sprouts that are midway between frozen and defrosted is the easiest to cut in half. Again, drizzle with oil, and add salt and black pepper to taste
+- Cut your <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a> in half, and add to the other pan cut side down. Using <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a> that are midway between frozen and defrosted is the easiest to cut in half. Again, drizzle with oil, and add salt and black pepper to taste
 
-- Roast both the potatoes and sprouts at 400F for about 30 minutes, or until browned and softened. Set aside
+- Roast both the <a href='/misc/veggies#potato'>potatoes</a> and sprouts at 400F for about 30 minutes, or until browned and softened. Set aside
 - <img src='/assets/Food/Meme/Thanksgiving/roasted.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, add your turkey along with oil, salt, and black pepper to a 12" pan. Cover, and cook over medium heat until no longer pink. Set aside
+- Meanwhile, add your <a href='/misc/meat#ground-turkey'>turkey</a> along with oil, salt, and black pepper to a <a href='https://amzn.to/4rdR0HI'>12" pan</a>. Cover, and cook over medium heat until no longer pink. Set aside
 
-- As the meat cooks, prepare another pan with diced carrots, oil, salt, and black pepper. Pour in water to just cover the carrots, and put the lid on the pan. Cook over medium heat until the water has cooked off, and the carrots are soft and browned
+- As the <a href='/misc/meat'>meat</a> cooks, prepare another pan with diced <a href='/misc/veggies#carrots'>carrots</a>, <a href='/misc/fats'>oil</a>, salt, and black pepper. Pour in water to just cover the <a href='/misc/veggies#carrots'>carrots</a>, and put the lid on the pan. Cook over medium heat until the water has cooked off, and the <a href='/misc/veggies#carrots'>carrots</a> are soft and browned
 - <img src='/assets/Food/Meme/Thanksgiving/carrots.jpg' alt='' class='instruction-image'>
 
-- In a large bowl, combine together the sweet potatoes, brussel sprouts, ground turkey, and carrots. Add the cranberry sauce and spices (thyme, allspice, rosemary, cinnamon, nutmeg, cloves, and ginger). Mix until fully combined
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a>, <a href='/misc/meat#ground-turkey'>ground turkey</a>, and <a href='/misc/veggies#carrots'>carrots</a>. Add the <a href='/misc/fruit#cranberry'>cranberry</a> sauce and spices (thyme, allspice, rosemary, cinnamon, nutmeg, cloves, and <a href='/misc/veggies#ginger'>ginger</a>). Mix until fully combined
 - <img src='/assets/Food/Meme/Thanksgiving/mixed.jpg' alt='' class='instruction-image'>
 
 - Divide the mix onto 6 equal servings, about 710 g each

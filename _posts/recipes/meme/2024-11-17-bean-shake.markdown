@@ -55,21 +55,19 @@ tags:
 - dates
 - cocoa powder
 - chocolate
-Description: I'm not lying when I say this may be the best chocolate milkshake I've ever tasted; healthy or not.  This is spot on to a sweet and delicious chocolate milkshake, but it's vegan, <a href='/misc/celiac'>gluten free</a>, and <a href='/misc/hidden-sugar'>sugar</a> free.  This glass contains 14 g of <a href='/misc/protein'>protein</a> and 19 g of <a href='/misc/fiber'>fiber</a>, and is a good source of B vitamins like <a href='/misc/nutrient-alphabet#T'>thiamin (B1)</a>, <a href='/misc/nutrient-alphabet#R'>riboflavin (B2)</a>, and <a href='/misc/nutrient-alphabet#F'>folate (B9)</a>, as well as <a href='/misc/calcium'>calcium</a>, <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/iron'>iron</a>, <a href='/misc/magnesium'>magnesium</a>, and <a href='/misc/nutrient-alphabet#M'>manganese</a>
+Description: I'm not lying when I say this may be the best chocolate milkshake I've ever tasted; healthy or not.  This is spot on to a sweet and delicious chocolate milkshake, but it's vegan, <a href='/misc/celiac'>gluten free</a>, and <a href='/misc/hidden-sugar'>sugar free</a>.  This glass contains 14 g of <a href='/misc/protein'>protein</a> and 19 g of <a href='/misc/fiber'>fiber</a>, and is a good source of <a href='/misc/nutrient-alphabet#B'>B vitamins</a> like <a href='/misc/nutrient-alphabet#T'>thiamin (B1)</a>, <a href='/misc/nutrient-alphabet#R'>riboflavin (B2)</a>, and <a href='/misc/nutrient-alphabet#F'>folate (B9)</a>, as well as <a href='/misc/calcium'>calcium</a>, <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/iron'>iron</a>, <a href='/misc/magnesium'>magnesium</a>, and <a href='/misc/nutrient-alphabet#M'>manganese</a>
 Instructions:
-- Add all ingredients to a small food processor, and blend until smooth. Transfer to a glass to drink as a milkshake
+- Add all ingredients to a <a href='https://amzn.to/3VHhgMM'>small food processor</a>, and blend until smooth. Transfer to a glass to drink as a milkshake
 Notes:
-- |
-  Here are some ingredient swaps if you desire
-  <ul>
-    <li>Any cooked beans will work.  I only used navy here because it was what I had in my fridge at the time.  Chickpeas, black beans, kidney beans, pinto beans, etc. will all work</li>
+- Any cooked <a href='/misc/beans'>beans</a> will work.  I only used <a href='/misc/beans#navy-beans'>navy</a> here because it was what I had in my fridge at the time.  <a href='/misc/beans#chickpeas'>Chickpeas</a>, <a href='/misc/beans#black-beans'>black beans</a>, <a href='/misc/beans#kidney-beans'>kidney beans</a>, <a href='/misc/beans#pinto-beans'>pinto beans</a>, etc. will all work
 
-    <li>I've used raisins here as my natural sweetener, but any unsweetened dried fruit (like dates or figs) would work as well</li>
+- I've used <a href='/misc/fruit#raisins'>raisins</a> here as my <a href='/misc/carbs'>natural sweetener</a>, but any <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> (like <a href='/misc/fruit#dates'>dates</a> or <a href='/misc/fruit#fig-dried'>figs</a>) would work as well
 
-    <li>Either unsweetened vanilla or unsweetened original almond milk are good, as well as any other non-dairy or dairy based milks</li>
+- Either unsweetened vanilla or unsweetened original <a href='/misc/dairy#almond-milk'>almond milk</a> are good, as well as any other non-dairy or <a href='/misc/dairy'>dairy</a> based milks
 
-    <li>Liquid stevia will also work in place of liquid monk fruit</li><li>For a vanilla milkshake, omit the cocoa powder, and use a light colored bean (like navy or chickpea)</li>
-  </ul>
+- Liquid stevia will also work in place of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
+
+- For a vanilla milkshake, omit the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and use a light colored <a href='/misc/beans'>bean</a> (like <a href='/misc/beans#navy-beans'>navy</a> or <a href='/misc/beans#chickpeas'>chickpea</a>)>
 
 - You can also pour it into an airtight container and freeze it to get ice cream.  Freeze for about 4 hours, mixing every hour or so with a spoon to break up ice crystals.  Let sit out for about 20 minutes to soften before eating.  I prefer the milkshake, as the "ice cream" is more like a chocolate ice, but it's still very good
 - <img src='/assets/Food/Meme/Milkshake/bean-ice-cream.jpg' alt='' class='instruction-image'>

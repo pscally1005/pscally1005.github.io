@@ -58,27 +58,26 @@ tags:
 - mac & cheese
 - macaroni & cheese
 Description: |
-  This is a healthier mac and cheese recipe that's free of both the mac and the cheese (no it's not an empty plate). Instead of traditional <a href='/misc/grains#pasta-white'>pasta</a>, I've roasted a <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, but <a href='/misc/veggies#zucchini'>zucchini</a> noodles will also work. The star of the show is a dairy free cheese <a href='/misc/fake-healthy-foods#sauces'>sauce</a> made of <a href='/misc/nuts#cashews'>cashews</a>. It's creamy and delicious without all the lactose, and tastes like real cheese (I know because I still eat cheese lol). This is a great LCHF meal if you're looking to boost your healthy <a href='/misc/fats'>fat</a> intake without increasing your <a href='/misc/calories'>caloric</a> intake
-  <br><br>
-  The sauce recipe is a modified version of "Vegan Carrot Noodle Mac and Cheese" in the cook book Genius Kitchen with inspiration taken from other vegan <a href='/misc/nuts'>nut</a> based cheese sauces.  For another vegan cheese sauce dish, see my <a href='/recipes/cheesy-cauliflower-rice-and-beans'>Cheesy Cauliflower Rice & Beans</a>
+  This is a healthier mac and cheese recipe that's free of both the mac and the <a href='/misc/dairy#mozzarella'>cheese</a> (no it's not an empty plate). Instead of traditional <a href='/misc/grains#pasta'>pasta</a>, I've roasted a <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, but <a href='/misc/veggies#zucchini'>zucchini noodles</a> will also work. The star of the show is a dairy free cheese sauce made of <a href='/misc/nuts#cashews'>cashews</a>. It's creamy and delicious without all the lactose, and tastes like real <a href='/misc/dairy#mozzarella'>cheese</a> (I know because I still eat <a href='/misc/dairy#mozzarella'>cheese</a> lol). This is a great LCHF meal if you're looking to boost your <a href='/misc/fats'>healthy fat</a> intake without increasing your <a href='/misc/calories'>caloric</a> intake.<br><br>
+  The <a href='/recipes/savory-sauces'>sauce recipe</a> is a modified version of "Vegan <a href='/misc/veggies#carrots'>Carrot</a> Noodle Mac and Cheese" in the cook book Genius Kitchen with inspiration taken from other vegan <a href='/misc/nuts'>nut</a> based <a href='/misc/dairy#mozzarella'>cheese</a> <a href='/recipes/savory-sauces'>sauces</a>.  For another vegan cheese sauce dish, see my <a href='/recipes/cheesy-cauliflower-rice-and-beans'>Cheesy Cauliflower Rice & Beans</a>
 Instructions:
-- Add the nuts to a large bowl and cover with water. For a nut free version, use sunflower seeds. Cover with a cloth, and let soak in the fridge for 8 hours. Discard the soaking liquid
+- Add the <a href='/misc/nuts'>nuts</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a> and cover with water. For a <a href='/misc/nuts'>nut</a> free version, use <a href='/misc/seeds#sunflower-seeds'>sunflower seeds</a>. Cover with a cloth, and let soak in the fridge for 8 hours. Discard the soaking liquid
 
-- I'm going to cook my spaghetti squash in the oven, but feel free to look at <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a> for some other options. To start prick it with a knife and microwave it for 5 minutes to make it easier to slice. Meanwhile, preheat your oven to 400F
+- I'm going to cook my <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> in the oven, but feel free to look at <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a> for some other options. To start prick it with a knife and microwave it for 5 minutes to make it easier to slice. Meanwhile, preheat your oven to 400F
 
-- Cut the squash in half lengthwise, and scoop out the seeds with a spoon
+- Cut the <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> in half lengthwise, and scoop out the seeds with a spoon
 
-- Add your spices (salt, garlic, and onion powder) to a small bowl, and mix. Lightly oil the squash, and sprinkle on your seasonings
+- Add your spices (salt, <a href='/misc/veggies#garlic'>garlic</a>, and onion powder) to a <a href='https://amzn.to/4adxMft'>small bowl</a>, and mix. <a href='https://amzn.to/3Hdg0gk'>Lightly oil</a> the <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, and sprinkle on your seasonings
 
-- Roast (cut side down) for about 45 minutes at 400F on a parchment lined cookie sheet. The squash should be tender and easily come off the skin without a fork, without being mushy and overcooked
+- Roast (cut side down) for about 45 minutes at 400F on a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. The <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> should be tender and easily come off the skin without a fork, without being mushy and overcooked
 - <img src='/assets/Food/Meme/Mac & Cheese/fake-mac-5.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, as the squash cooks, you can prepare the cheese sauce. To a food processor, add your nuts, water, and lemon juice. Blend until smooth
+- Meanwhile, as the <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> cooks, you can prepare the cheese sauce. To a <a href='https://amzn.to/4q0AUjI'>food processor</a>, add your <a href='/misc/nuts'>nuts</a>, water, and <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Blend until smooth
 
-- Add in the nutritional yeast, mustard, minced garlic, and spices (paprika, salt, and black pepper). Again, blend until smooth
+- Add in the nutritional yeast, mustard, <a href='/misc/veggies#garlic'>minced garlic</a>, and spices (paprika, salt, and black pepper). Again, blend until smooth
 - <img src='/assets/Food/Meme/Mac & Cheese/fake-mac-7.jpg' alt='' class='instruction-image'>
 
-- When the squash is done cooking, fluff it with a fork, and add to a lightly greased 9x13" pan. Pour over the cheese sauce, and mix well
+- When the <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> is done cooking, fluff it with a fork, and add to a lightly greased <a href='https://amzn.to/4aiCsjh'>9x13" pan</a>. Pour over the cheese sauce, and mix well
 
 - Roast uncovered for about 10-15 minutes, or until bubbly and lightly charred. You can optionally add some breadcrumbs and broil the top. Top with parsley, and serve
 - <img src='/assets/Food/Meme/Mac & Cheese/fake-mac-9.jpg' alt='' class='instruction-image'>

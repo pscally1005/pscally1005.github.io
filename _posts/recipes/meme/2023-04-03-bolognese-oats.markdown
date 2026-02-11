@@ -53,18 +53,18 @@ tags:
 - tomato sauce
 - tomato
 - savory oats
-Description: I have this saved under meme recipes because of the <a href='/misc/grains#oats'>oats</a>, but it's actually really good. The "Bolognese" is more of a <a href='/misc/meat'>meat</a> and carrot stew, and it's served alongside a "risOATto" with quick oats, seasoned with Parmesan cheese. My brother generated this recipe as a joke with ChatGPT, and I wanted to test it out and turn it into an actual dish.  You can also check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
+Description: I have this saved under <a href='/recipes/meme'>meme recipes</a> because of the <a href='/misc/grains#oats'>oats</a>, but it's actually really good. The "Bolognese" is more of a <a href='/misc/meat'>meat</a> and <a href='/misc/veggies#carrots'>carrot</a> <a href='/soup-stew'>stew</a>, and it's served alongside a "risOATto" with <a href='/misc/grains#oats'>quick oats</a>, seasoned with <a href='/misc/dairy#grated-cheese'>parmesan cheese</a>. My brother generated this recipe as a joke with ChatGPT, and I wanted to test it out and turn it into an actual dish.  You can also check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
 Instructions:
-- Cut the carrots and onion into a large dice and add to a dutch oven with olive oil. Just cover with water and bring to a boil. Boil until all liquid has been cooked off. Set vegetables aside
+- Cut the <a href='/misc/veggies#carrots'>carrots</a> and <a href='/misc/veggies#onion'>onion</a> into a large dice and add to a <a href='https://amzn.to/3LNGdVy'>dutch oven</a> with olive oil. Just cover with water and bring to a boil. Boil until all liquid has been cooked off. Set <a href='/misc/veggies'>vegetables</a> aside
 
-- Over medium heat, spray pot with olive oil and cook garlic for about a minute. Add in the meat and mash with a wooden spoon to break up clumps. Cook until browned
+- Over medium heat, <a href='https://amzn.to/3Hdg0gk'>spray</a> pot with olive oil and cook <a href='/misc/veggies#garlic'>garlic</a> for about a minute. Add in the <a href='/misc/meat'>meat</a> and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> to break up clumps. Cook until browned
 
-- Stir in the diced tomatoes, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and black pepper to taste. Add the vegetables back in, and add the vinegar
+- Stir in the diced tomatoes, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and black pepper to taste. Add the <a href='/misc/veggies'>vegetables</a> back in, and add the vinegar
 
 - Reduce heat to low and let simmer for 30 minutes, stirring occasionally. Stir in balsamic
 
-- Meanwhile, in a separate saucepan, bring water, oats and salt to a boil. Reduce to medium low and cook until tender. Mix in some grated cheese at the end (risOATto style)
+- Meanwhile, in a separate saucepan, bring water, <a href='/misc/grains#oats'>oats</a> and salt to a boil. Reduce to medium low and cook until tender. Mix in some <a href='/misc/dairy#grated-cheese'>grated cheese</a> at the end (risOATto style)
 
-- Serve the oatmeal in bowls, and top with the bolognese
+- Serve the <a href='/oatmeal'>oatmeal</a> in bowls, and top with the bolognese
 Notes:
 ---

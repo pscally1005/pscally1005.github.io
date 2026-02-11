@@ -51,29 +51,29 @@ tags:
 - peppers
 - onions
 - diced tomatoes
-Description: Anyone else remember spaghetti tacos from iCarly and desperately want to try them? I wanted to make it a complete meal, so I've swapped the spaghetti for <a href='/misc/veggies#zucchini'>zoodles</a> (to avoid the double <a href='/misc/carbs'>carb</a> of taco shell and <a href='/misc/grains#pasta-white'>pasta</a>), as well as added <a href='/misc/meat'>meat</a> and more <a href='/misc/veggies'>vegetables</a>. These go great with <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a> or <a href='/recipes/oat-wraps'>Gluten Free Oat Wraps</a>, or even on its own
+Description: Anyone else remember spaghetti tacos from iCarly and desperately want to try them? I wanted to make it a complete meal, so I've swapped the spaghetti for <a href='/misc/veggies#zucchini'>zoodles</a> (to avoid the double <a href='/misc/carbs'>carb</a> of taco shell and <a href='/misc/grains#pasta'>pasta</a>), as well as added <a href='/misc/meat'>meat</a> and more <a href='/misc/veggies'>vegetables</a>. These go great with <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a> or <a href='/recipes/oat-wraps'>Gluten Free Oat Wraps</a>, or even on its own
 Instructions:
-- In a small bowl, mix together the spices for the taco seasoning - chili powder, paprika, cumin, garlic powder, onion powder, salt, black pepper, and oregano. Set aside
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together the spices for the taco seasoning - chili powder, paprika, cumin, garlic powder, onion powder, salt, black pepper, and oregano. Set aside
 
-- Use a spiralizer to cut your zucchini into zoodles. Add to a large pan with olive oil over medium heat. Season with 1-2 tbsp of your taco seasoning
+- Use a spiralizer to cut your <a href='/misc/veggies#zucchini'>zucchini</a> into <a href='/misc/veggies#zucchini'>zoodles</a>. Add to a <a href='https://amzn.to/4rdR0HI'>large pan</a> with olive oil over medium heat. Season with 1-2 tbsp of your taco seasoning seasoning
 
 - Cover, and cook for a few minutes under occasional stirring, until the noodles have lightly softened and water is released. Set aside in a bowl
 - <img src='/assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-3.jpg' alt='' class='instruction-image'>
 
-- As the zucchini cooks, cut your peppers and onion into a small dice. When the pan is free, add veggies to the pan with oil over medium heat. Season with 1-2 tbsp of your taco seasoning
+- As the <a href='/misc/veggies#zucchini'>zucchini</a> cooks, cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onion</a> into a small dice. When the pan is free, add <a href='/misc/veggies'>veggies</a> to the pan with oil over medium heat. Season with 1-2 tbsp of your taco seasoning
 
-- Cover and cook over medium heat, or until the peppers have softened and the onions are translucent and begin to caramelize. Set aside in the bowl with the noodles
+- Cover and cook over medium heat, or until the <a href='/misc/veggies#pepper'>peppers</a> have softened and the <a href='/misc/veggies#onion'>onions</a> are translucent and begin to caramelize. Set aside in the bowl with the noodles
 - <img src='/assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-5.jpg' alt='' class='instruction-image'>
 
-- Last but not least, the meat. When the pan is free, add in the ground meat and oil over medium heat. Cook until fully browned, and break up the meat with a wooden spoon
+- Last but not least, the <a href='/misc/meat'>meat</a>. When the pan is free, add in the <a href='/recipes/ground-meat'>ground meat</a> and <a href='/misc/fats'>oil</a> over medium heat. Cook until fully browned, and break up the <a href='/misc/meat'>meat</a> with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>
 
-- Season with the rest of your taco seasoning when the meat is fully cooked. Add minced garlic, and cook until fragrant, about 30 seconds
+- Season with the rest of your taco seasoning when the <a href='/misc/meat'>meat</a> is fully cooked. Add <a href='/misc/veggies#garlic'>minced garlic</a>, and cook until fragrant, about 30 seconds
 - <img src='/assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-7.jpg' alt='' class='instruction-image'>
 
-- Turn heat down to medium low, and pour in your diced tomatoes. Cover, and let simmer for about 10 minutes. The sauce should thicken and will be bubbling. Squeeze in some lime
+- Turn heat down to medium low, and pour in your diced tomatoes. Cover, and let simmer for about 10 minutes. The sauce should thicken and will be bubbling. Squeeze in some <a href='/misc/fruit#lime'>lime</a>
 - <img src='/assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-8.jpg' alt='' class='instruction-image'>
 
-- Add the meat to the bowl with the vegetables. Combine together, and serve. Pair this with any hard or soft shelled tacos, cheese, and salsa
+- Add the <a href='/misc/meat'>meat</a> to the bowl with the <a href='/misc/veggies'>vegetables</a>. Combine together, and serve. Pair this with any hard or soft shelled <a href='/recipes/taco'>tacos</a>, <a href='/misc/dairy#cheddar'>shredded cheese</a>, and <a href='/recipes/salsa'>salsa</a>
 Notes:
 - Note that the nutrition facts below include 1 <a href='/recipes/oat-wraps'>Gluten Free Oat Wrap</a> per serving
 ---
