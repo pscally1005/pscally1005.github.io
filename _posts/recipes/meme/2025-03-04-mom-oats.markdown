@@ -50,9 +50,9 @@ tags:
 - jelly
 - sugar free syrup
 - plain nonfat greek yogurt
-Description: I made this <a href='/misc/grains#oats'>oatmeal</a> recently for my mom when I was visiting my parents. She liked it, but she said it was too big for her, and got full halfway through. So instead, I'm splitting into 2 smaller servings; though personally I'd be eating the whole thing lol.  You can also check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
+Description: I made this <a href='/oatmeal'>oatmeal</a> recently for my mom when I was visiting my parents. She liked it, but she said it was too big for her, and got full halfway through. So instead, I'm splitting into 2 smaller servings; though personally I'd be eating the whole thing lol.  You can also check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
 Instructions:
-- In a medium bowl, mix together all ingredients. Split into 2 servings, cover, and refrigerate overnight.  Optionally top with berries (about 1/3 cup, 50 g total, or 25 g in each bowl)
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together all ingredients. Split into 2 servings, cover, and refrigerate overnight.  Optionally top with <a href='/misc/fruit#blueberries'>berries</a> (about 1/3 cup, 50 g total, or 25 g in each bowl)
 Notes:
-- If you want to use unflavored whey instead of chocolate, just add 1 tbsp (5 g) cocoa powder, and some additional sweetener. Either 1/2 tsp (2.5 g) liquid monk fruit, 1 tbsp (12 g) granular sweetener, or another 1 tbsp (20 g) sugar free syrup
+- If you want to use unflavored <a href='/misc/dairy#whey'>whey</a> instead of chocolate, just add 1 tbsp (5 g) <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and some additional sweetener. Either 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, 1 tbsp (12 g) granular sweetener, or another 1 tbsp (20 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 ---

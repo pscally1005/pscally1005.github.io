@@ -54,8 +54,8 @@ Description: What's the secret behind these truffles? Well besides being <a href
 Instructions:
 - For the sauerkraut, you don't need to drain it; however, try to get as much sauerkraut solids as you can, as opposed to the liquid. Using a fork to lift out the sauerkraut and letting any excess liquid drop back into the contain is sufficient
 
-- In a small food processor, blend together nut butter, sauerkraut, cocoa powder, sweetener, and almond extract until you have a smooth and fully combined chocolate dough
+- In a <a href='https://amzn.to/3VHhgMM'>small food processor</a>, blend together <a href='/recipes/natural-peanut-butter'>nut butter</a>, sauerkraut, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, sweetener, and almond extract until you have a smooth and fully combined chocolate dough
 
-- Add cocoa powder to a small bowl. Scoop out about a tablespoon of the dough (about 18 g each), roll into a ball with your hands, and coat in cocoa powder. Add to an airtight container, and repeat for the remaining 9 truffles
+- Add <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> to a <a href='https://amzn.to/4adxMft'>small bowl</a>. Scoop out about a tablespoon of the dough (about 18 g each), roll into a ball with your hands, and coat in <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>. Add to an airtight container, and repeat for the remaining 9 truffles
 Notes:
 ---

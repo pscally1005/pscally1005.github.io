@@ -830,6 +830,7 @@ LINKS = {
   "93/7 ground turkey": "/misc/meat#ground-turkey",
   "ground turkey": "/misc/meat#ground-turkey",
   "turkey": "/misc/meat#ground-turkey",
+  "ham steak": "/misc/meat#ham",
   "ham": "/misc/meat#ham",
   "hot dog": "/misc/meat#hot-dogs",
   "hot dogs": "/misc/meat#hot-dogs",
@@ -2133,7 +2134,7 @@ LINKS = {
   # "caffeine addicts": "/misc/fake-healthy-foods#coffee",
   # "caffeine addict": "/misc/fake-healthy-foods#coffee",
   # "caffeine": "/misc/fake-healthy-foods#coffee",
-  "coffee": "/misc/fake-healthy-foods#coffee",
+#   "coffee": "/misc/fake-healthy-foods#coffee",
   "iced teas": "/misc/fake-healthy-foods#iced-tea",
   "iced tea": "/misc/fake-healthy-foods#iced-tea",
   "diet drinks": "/misc/fake-healthy-foods#diet-soda",
@@ -2366,7 +2367,17 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
-    "french onion",
+    "coffee cake",
+    "baking yesteryear",
+    "onion flakes",
+    "onion soup",
+    "soda bread",
+    "quick bread",
+    "milk or white",
+    "smooth butter forms",
+    "tuna-salad-salad",
+    "tuna-salad",
+    "french onion soup",
     "buffalo chicken",
     "spinach artichoke",
     '"meat"-loaf',
@@ -3743,7 +3754,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files
