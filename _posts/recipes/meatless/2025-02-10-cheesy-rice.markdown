@@ -49,13 +49,13 @@ tags:
 - vegetarian
 - velveeta
 - american cheese
-Description: This healthier <a href='/misc/dairy#cheddar'>cheesy</a> <a href='/misc/grains#brown-rice'>rice</a> and <a href='/misc/veggies#broccoli'>broccoli</a> uses my homemade <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, and is dead simple to put together.  Just simmer the <a href='/misc/grains#brown-rice'>rice</a>, roast the <a href='/misc/veggies#broccoli'>broccoli</a>, and mix with the <a href='/recipes/cheese-sauce'>sauce</a>.  Nice and simple <a href='/recipes/meatless'>vegetarian meal</a> with still a decent amount of <a href='/misc/protein'>protein</a> for not having any <a href='/misc/meat'>meat</a>.  For another recipe with my <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, check out my <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a>
+Description: This healthier cheesy rice and <a href='/misc/veggies#broccoli'>broccoli</a> uses my homemade <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, and is dead simple to put together.  Just simmer the <a href='/misc/grains#brown-rice'>rice</a>, roast the <a href='/misc/veggies#broccoli'>broccoli</a>, and mix with the <a href='/recipes/cheese-sauce'>sauce</a>.  Nice and simple <a href='/recipes/meatless'>vegetarian meal</a> with still a decent amount of <a href='/misc/protein'>protein</a> for not having any <a href='/misc/meat'>meat</a>.  For another recipe with my <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>, check out my <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a>
 Instructions:
-- Add rice, bouillon powder (or salt), and water to a medium pot. Cover and bring to a boil over high heat. Reduce to medium, and let simmer for about 20 minutes, until fully cooked and water is absorbed. Set aside
+- Add <a href='/misc/grains#brown-rice'>rice</a>, bouillon powder (or salt), and water to a <a href='https://amzn.to/46ccg8m'>medium pot</a>. Cover and bring to a boil over high heat. Reduce to medium, and let simmer for about 20 minutes, until fully cooked and water is absorbed. Set aside
 
-- Add your broccoli to a bowl, and season with lemon juice, paprika, chili powder, garlic powder, onion powder, and salt. Transfer to a parchment lined cookie sheet, and roast at 400F for about 30 minutes, until tender and lightly charred. Set aside
+- Add your <a href='/misc/veggies#broccoli'>broccoli</a> to a bowl, and season with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, paprika, chili powder, garlic powder, onion powder, and salt. Transfer to a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and roast at 400F for about 30 minutes, until tender and lightly charred. Set aside
 
-- In a large bowl, combine together the rice, broccoli, and <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>. Divide into 4 servings
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, and <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>. Divide into 4 servings
 - <img src='/assets/Food/Meatless/Cheesy Rice/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 ---

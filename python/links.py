@@ -1019,6 +1019,12 @@ LINKS = {
   "mustard green": "/misc/veggies#mustard-greens",
   "onions": "/misc/veggies#onion",
   "onion": "/misc/veggies#onion",
+  "yellow onions": "/misc/veggies#onion",
+  "yellow onion": "/misc/veggies#onion",
+  "red onions": "/misc/veggies#onion",
+  "red onion": "/misc/veggies#onion",
+  "white onions": "/misc/veggies#onion",
+  "white onion": "/misc/veggies#onion",
   "parsnips": "/misc/veggies#parsnips",
   "parsnip": "/misc/veggies#parsnips",
   "peas": "/misc/veggies#pea",
@@ -1041,6 +1047,10 @@ LINKS = {
   "swiss chard": "/misc/veggies#swiss-chard",
   "tomatoes": "/misc/veggies#tomato",
   "tomato": "/misc/veggies#tomato",
+  "cherry tomatoes": "/misc/veggies#tomato",
+  "cherry tomato": "/misc/veggies#tomato",
+  "grape tomatoes": "/misc/veggies#tomato",
+  "grape tomato": "/misc/veggies#tomato",
   "turnips": "/misc/veggies#turnip",
   "turnip": "/misc/veggies#turnip",
   "white mushrooms": "/misc/veggies#mushrooms",
@@ -1978,6 +1988,10 @@ LINKS = {
   "dessert": "/recipes/healthier-dessert",
   "meatless dish": "/recipes/meatless",
   "meatless": "/recipes/meatless",
+  "meatless meals": "/recipes/meatless",
+  "meatless meal": "/recipes/meatless",
+  "vegetarian meals": "/recipes/meatless",
+  "vegetarian meal": "/recipes/meatless",
   "meme recipes": "/recipes/meme",
   "meme recipe": "/recipes/meme",
   "meme": "/recipes/meme",
@@ -2000,6 +2014,7 @@ LINKS = {
   "sauces": "/recipes/savory-sauces",
   # "sauce": "/recipes/savory-sauces",
   "sides": "/recipes/sides",
+  "on the side": "/recipes/sides",
   "side dishes": "/recipes/sides",
   "side dish": "/recipes/sides",
   "side": "/recipes/sides",
@@ -2351,6 +2366,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    '"meat"-loaf',
+    "by baking for",
+    "cheesy rice",
     "pasta salad",
     "potato salad",
     'ground "meat"',
@@ -3722,7 +3740,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2026")):
                 continue
 
             # exclude some files

@@ -55,22 +55,22 @@ tags:
 - pinto beans
 - white beans
 - gluten free
-Description: Everyone knows I'm a big sucker for chili; check out my <a href='/recipes/chili'>Slow Cooker Chili</a> and <a href='/recipes/low-fodmap-chili'>Low FODMAP Chili</a>. But I came across this recipe for a vegan creamy chili, and it looked too delicious not to try. I've modified it quite a bit, and the result is a creamy meatless, dairy free, and <a href='/misc/nuts'>nut</a> free chili that's high in <a href='/misc/fiber'>fiber</a> from the <a href='/misc/beans'>beans</a> and <a href='/misc/veggies'>vegetables</a>. Pair this alongside some <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a>, and you got a delicious and healthy meal to serve next time you have vegetarians over.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
+Description: Everyone knows I'm a big sucker for <a href='/recipes/chili'>chili</a>; check out my <a href='/recipes/chili'>Slow Cooker Chili</a> and <a href='/recipes/low-fodmap-chili'>Low FODMAP Chili</a>. But I came across this recipe for a vegan creamy <a href='/recipes/chili'>chili</a>, and it looked too delicious not to try. I've modified it quite a bit, and the result is a creamy <a href='/recipes/meatless'>meatless</a>, dairy free, and <a href='/misc/nuts'>nut</a> free <a href='/recipes/chili'>chili</a> that's high in <a href='/misc/fiber'>fiber</a> from the <a href='/misc/beans'>beans</a> and <a href='/misc/veggies'>vegetables</a>. Pair this alongside some <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a>, and you got a delicious and healthy meal to serve next time you have vegetarians over.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions:
-- Heat a large Dutch oven over medium heat with olive oil.  Cut your peppers and onions into a medium dice
+- Heat a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium heat with olive oil.  Cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a medium dice
 
-- Add the vegetables to the pot along with salt. Cover with a lid, and cook until the peppers are soft and the onions are translucent, about 15 minutes
+- Add the <a href='/misc/veggies'>vegetables</a> to the pot along with salt. Cover with a lid, and cook until the <a href='/misc/veggies#pepper'>peppers</a> are soft and the <a href='/misc/veggies#onion'>onions</a> are translucent, about 15 minutes
 
-- Add in the garlic, and cook for about 30 seconds, or until fragrant
+- Add in the <a href='/misc/veggies#garlic'>garlic</a>, and cook for about 30 seconds, or until fragrant
 
 - Add the spices (chili powder, cumin, and oregano) into the pot, and toast for about a minute before adding the soy sauce
 
-- Add the crushed tomatoes, diced tomatoes, and (drained and rinsed) beans (2 cans). Reduce heat to low, cover, and simmer for 1 hour with occasional stirring
+- Add the crushed tomatoes, diced tomatoes, and (drained and rinsed) <a href='/misc/beans'>beans</a> (2 cans). Reduce heat to low, cover, and simmer for 1 hour with occasional stirring
 
-- Meanwhile, add tahini (or any nut/seed butter) and an entire other can of beans (not drained or rinsed) to a food processor.  Blend until smooth
+- Meanwhile, add <a href='/misc/seeds#sesame-seeds'>tahini</a> (or any <a href='/recipes/natural-peanut-butter'>nut/seed butter</a>) and an entire other can of <a href='/misc/beans'>beans</a> (not drained or rinsed) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Blend until smooth
 - <img src='/assets/Food/Meatless/Vegan Chili/stove.jpg' alt='' class='instruction-image'>
 
-- Add the cream mix to the pot, and stir until fully combined. Squeeze in some lime, and divide into 6 servings
+- Add the cream mix to the pot, and stir until fully combined. Squeeze in some <a href='/misc/fruit#lime'>lime</a>, and divide into 6 servings
 - <img src='/assets/Food/Meatless/Vegan Chili/containers.jpg' alt='' class='instruction-image'>
 Notes:
 ---

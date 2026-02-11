@@ -57,19 +57,19 @@ tags:
 - manicotti
 - lasagna
 - rollatini
-Description: If Manicotti is individual lasagnas, then <a href='/misc/veggies#eggplant'>Eggplant</a> Rollatini are just individual <a href='/recipes/eggplant-parm'>Eggplant Parmesans</a>. This dish is essentially my <a href='/recipes/eggplant-parm'>Hassle Free Eggplant Parm</a> in a different shape. Instead of layering the eggplant with sauce and cheese like you'd do for lasagna, you instead roll the eggplant around the cheese mix and top with sauce. Put simply, I'm making Manicotti with eggplant instead of lasagna noodles. Couple that with a lower <a href='/misc/fats'>fat</a> but equally delicious filling, and you get a great cheesy and saucy side dish that won't tip the scales
+Description: If Manicotti is individual lasagnas, then <a href='/misc/veggies#eggplant'>Eggplant</a> Rollatini are just individual <a href='/recipes/eggplant-parm'>Eggplant Parmesans</a>. This dish is essentially my <a href='/recipes/eggplant-parm'>Hassle Free Eggplant Parm</a> in a different shape. Instead of layering the <a href='/misc/veggies#eggplant'>eggplant</a> with sauce and <a href='/misc/dairy#mozzarella'>cheese</a> like you'd do for lasagna, you instead roll the <a href='/misc/veggies#eggplant'>eggplant</a> around the <a href='/misc/dairy#mozzarella'>cheese</a> mix and top with sauce. Put simply, I'm making Manicotti with <a href='/misc/veggies#eggplant'>eggplant</a> instead of lasagna noodles. Couple that with a lower <a href='/misc/fats'>fat</a> but equally delicious filling, and you get a great cheesy and saucy <a href='/recipes/sides'>side dish</a> that won't tip the scales
 Instructions:
-- Preheat your oven to 400F, and line 2 large cookies sheet with parchment paper
+- Preheat your oven to 400F, and line 2 large <a href='/cookies'>cookies</a> sheet with parchment paper
 
-- Slice your eggplant lengthwise, about 1/4" thick. Add to the pan, and sprinkle with salt on both sides.  It's okay if they overlap a little
+- Slice your <a href='/misc/veggies#eggplant'>eggplant</a> lengthwise, about 1/4" thick. Add to the pan, and sprinkle with salt on both sides.  It's okay if they overlap a little
 
-- Bake the eggplant for about 30 minutes, or until soft and lightly browned. Let cool completely
+- Bake the <a href='/misc/veggies#eggplant'>eggplant</a> for about 30 minutes, or until soft and lightly browned. Let cool completely
 - <img src='/assets/Food/Meatless/Rollatini/eggplant.jpg' alt='' class='instruction-image'>
 
-- In a medium bowl, beat an egg, and combine with the cheese mix ingredients - (blended) cottage cheese, shredded mozzarella, garlic powder, onion powder, and dried parsley. Mix in coconut flour to thicken
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, beat an <a href='/misc/meat#eggs'>egg</a>, and combine with the <a href='/misc/dairy#mozzarella'>cheese</a> mix ingredients - (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>, garlic powder, onion powder, and dried parsley. Mix in <a href='/misc/nuts#coconut'>coconut flour</a> to thicken
 - <img src='/assets/Food/Meatless/Rollatini/sauce-and-cheese.jpg' alt='' class='instruction-image'>
 
-- Place about 1/3 of your sauce on the bottom of a 9x13" casserole dish. Add a spoonful of the cheese mix onto the eggplant, roll tightly, and place into the tray seam side down. Repeat with the rest of the eggplant. Top with the remaining sauce, and sprinkle with grated cheese
+- Place about 1/3 of your sauce on the bottom of a <a href='https://amzn.to/4aiCsjh'>9x13" casserole dish</a>. Add a spoonful of the <a href='/misc/dairy#mozzarella'>cheese</a> mix onto the <a href='/misc/veggies#eggplant'>eggplant</a>, roll tightly, and place into the tray seam side down. Repeat with the rest of the <a href='/misc/veggies#eggplant'>eggplant</a>. Top with the remaining sauce, and sprinkle with <a href='/misc/dairy#grated-cheese'>grated cheese</a>
 - <img src='/assets/Food/Meatless/Rollatini/assembling.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meatless/Rollatini/rolled.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meatless/Rollatini/topped.jpg' alt='' class='instruction-image'>
