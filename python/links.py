@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup, NavigableString
 import time
 
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meme"
-# POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\recipes\meatless"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meme"
+POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\recipes\meme"
 
 LINKS = {
 
@@ -2366,6 +2366,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "french onion",
+    "buffalo chicken",
+    "spinach artichoke",
     '"meat"-loaf',
     "by baking for",
     "cheesy rice",

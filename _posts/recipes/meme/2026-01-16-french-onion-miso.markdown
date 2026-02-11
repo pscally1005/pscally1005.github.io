@@ -61,13 +61,13 @@ tags:
 - hearty
 Description: This quick and simple <a href='/soups-and-stews'>soup</a> combines the vibes of French Onion <a href='/soups-and-stews'>Soup</a> and Miso <a href='/soups-and-stews'>Soup</a>.  It features sautéed <a href='/misc/veggies#onion'>onions</a> and cheesy flavor from the former, along with miso, <a href='/misc/beans#tofu'>tofu</a>, and soy sauce from the latter.  The <a href='/misc/veggies#cabbage'>cabbage</a> serves to provide extra bulk, as well as replace the seaweed.  This recipe makes 4 generous sized <a href='/soups-and-stews'>soup</a> bowls that can easily be whipped up on a lunch break
 Instructions:
-- Heat a large pot over medium heat. As the pot heats, finely cut your cabbage and onions
+- Heat a large pot over medium heat. As the pot heats, finely cut your <a href='/misc/veggies#cabbage'>cabbage</a> and <a href='/misc/veggies#onion'>onions</a>
 
-- Add the veggies to the pot with a splash of broth. Cover and cook for about 10 minutes, or until translucent and lightly browned
+- Add the <a href='/misc/veggies'>veggies</a> to the pot with a splash of broth. Cover and cook for about 10 minutes, or until translucent and lightly browned
 
-- Add the remaining ingredients to the pot (except the tofu).  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
+- Add the remaining ingredients to the pot (except the <a href='/misc/beans#tofu'>tofu</a>).  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
 
-- Cut your tofu into bite sized cubes. Add in the tofu, and gently stir to combine. Serve
+- Cut your <a href='/misc/beans#tofu'>tofu</a> into bite sized cubes. Add in the <a href='/misc/beans#tofu'>tofu</a>, and gently stir to combine. Serve
 - <img src='/assets/Food/Meme/French Onion Miso Soup/pot.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meme/French Onion Miso Soup/cover.jpg' alt='' class='instruction-image'>
 Notes:
