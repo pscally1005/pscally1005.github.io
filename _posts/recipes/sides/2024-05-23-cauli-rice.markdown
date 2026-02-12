@@ -48,18 +48,18 @@ tags:
 - riced cauliflower
 - side
 - sautee
-Description: <a href='/misc/veggies#cauliflower'>Cauliflower</a> <a href='/misc/grains#white-rice'>rice</a> is a super easy and quick low <a href='/misc/carbs'>carb</a> side that is very versatile.  Like <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/veggies#cauliflower'>cauliflower</a> is bland, meaning it will taste like whatever you put on it.  I went for a little garlic powder and allspice here, and garnished with some parsley for a delicious side in just 10 minutes.  For some dishes with <a href='/misc/veggies#cauliflower'>cauliflower</a> <a href='/misc/grains#brown-rice'>rice</a>, check out my <a href='/recipes/cheesy-cauliflower-rice-and-beans'>"Cheesy" Cauliflower Rice & Beans</a> and <a href='/recipes/lebanese-casserole'>Lebanese Riced Cauliflower Casserole</a>
+Description: <a href='/misc/veggies#cauliflower'>Cauliflower rice</a> is a super easy and quick <a href='/misc/carbs'>low carb</a> <a href='/recipes/sides'>side</a> that is very versatile.  Like <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/veggies#cauliflower'>cauliflower</a> is bland, meaning it will taste like whatever you put on it.  I went for a little garlic powder and allspice here, and garnished with some parsley for a delicious <a href='/recipes/sides'>side</a> in just 10 minutes.  For some dishes with <a href='/misc/veggies#cauliflower'>cauliflower rice</a>, check out my <a href='/recipes/cheesy-cauliflower-rice-and-beans'>"Cheesy" Cauliflower Rice & Beans</a> and <a href='/recipes/lebanese-casserole'>Lebanese Riced Cauliflower Casserole</a>
 Instructions:
-- Preheat a large pan over medium heat with EVOO
+- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with EVOO
 
-- Add your cauliflower florets to a food processor.  I used a pound of frozen cauliflower that I defrosted, but fresh will work too.  Pulse a couple of times to chop it to a rice consistency, but be careful not to overblend.  Here's what it should look like
+- Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> florets to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  I used a pound of frozen <a href='/misc/veggies#cauliflower'>cauliflower</a> that I defrosted, but fresh will work too.  Pulse a couple of times to chop it to a <a href='/misc/grains#brown-rice'>rice</a> consistency, but be careful not to overblend.  Here's what it should look like
 - <img src='/assets/Food/Sides/Cauli Rice/cauli-rice-1.jpg' alt='' class='instruction-image'>
 
-- Remove the blade from the food processor, and mix in the spices with a spatula.  Transfer to your heated pan
+- Remove the blade from the <a href='https://amzn.to/4q0AUjI'>food processor</a>, and mix in the spices with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a>.  Transfer to your heated pan
 
-- Cook over medium heat for about 5-10 minutes with occasional stirring to cook off the water.  The cauliflower should become lightly crispy and browned, like the texture of rice.  Don't mix too much or it will become mushy.  Adjust with spices to taste, garnish with parsley, and serve
+- Cook over medium heat for about 5-10 minutes with occasional stirring to cook off the water.  The <a href='/misc/veggies#cauliflower'>cauliflower</a> should become lightly crispy and browned, like the texture of <a href='/misc/grains#brown-rice'>rice</a>.  Don't mix too much or it will become mushy.  Adjust with spices to taste, garnish with parsley, and serve
 - <img src='/assets/Food/Sides/Cauli Rice/cauli-rice-3.jpg' alt='' class='instruction-image'>
 Notes:
-- You can also make "rice" with other veggies, like broccoli, mushrooms, and sweet potatoes!
+- You can also make "rice" with other <a href='/misc/veggies'>veggies</a>, like <a href='/misc/veggies#broccoli'>broccoli</a>, <a href='/misc/veggies#mushrooms'>mushrooms</a>, and <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>!
 - <img src='/assets/Food/Sides/Cauli Rice/broccoli-rice.jpg' alt='' class='instruction-image'>
 ---

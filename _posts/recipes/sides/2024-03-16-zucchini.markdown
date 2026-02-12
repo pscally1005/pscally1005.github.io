@@ -50,18 +50,18 @@ tags:
 - basil
 - gluten free
 - vic
-Description: This is something I've wanted to try ever since getting an <a href='/misc/kitchen-products#air-fryer'>air fryer</a>, and I'm finally getting around to it. <a href='/misc/veggies#zucchini'>Zucchini</a> cut into fries, and breaded with <a href='/misc/dairy#grated-cheese'>parmesan</a> cheese (they're <a href='/misc/celiac'>gluten free</a>!). Healthy, delicious, and easy
+Description: This is something I've wanted to try ever since getting an <a href='/misc/kitchen-products#air-fryer'>air fryer</a>, and I'm finally getting around to it. <a href='/misc/veggies#zucchini'>Zucchini</a> cut into <a href='/misc/fake-healthy-foods#potatoes'>fries</a>, and breaded with <a href='/misc/dairy#grated-cheese'>parmesan cheese</a> (they're <a href='/misc/celiac'>gluten free</a>!). Healthy, delicious, and easy
 Instructions:
-- Preheat your air fryer to 400F
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F
 
-- Wash your zucchini, and cut into wedges. Add the zucchini to a strainer with salt. Mix, and let sit for about 10 minutes to draw out excess moisture. Transfer to a bowl
+- Wash your <a href='/misc/veggies#zucchini'>zucchini</a>, and cut into wedges. Add the <a href='/misc/veggies#zucchini'>zucchini</a> to a strainer with salt. Mix, and let sit for about 10 minutes to draw out excess moisture. Transfer to a bowl
 
-- Toss the zucchini in a light coating of olive oil. Add in the grated cheese and seasonings (basil, thyme, garlic powder, onion powder, black pepper, and salt). Coat all the fries in the breading
+- Toss the <a href='/misc/veggies#zucchini'>zucchini</a> in a light coating of olive oil. Add in the <a href='/misc/dairy#grated-cheese'>grated cheese</a> and seasonings (basil, thyme, garlic powder, onion powder, black pepper, and salt). Coat all the fries in the breading
 - <img src='/assets/Food/Sides//Zucchini/zucchini-3.jpg' alt='' class='instruction-image'>
 
-- Arrange fries in a single layer in your air fryer basket. You may have to do multiple batches if everything doesn't fit
+- Arrange fries in a single layer in your <a href='https://amzn.to/3FuWETp'>air fryer</a> basket. You may have to do multiple batches if everything doesn't fit
 
-- Lightly spray the tops with oil, and air fry at 400F for 8-10 minutes, or until the cheese is crispy and the zucchini is tender
+- Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the tops with oil, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 8-10 minutes, or until the <a href='/misc/dairy#mozzarella'>cheese</a> is crispy and the <a href='/misc/veggies#zucchini'>zucchini</a> is tender
 - <img src='/assets/Food/Sides//Zucchini/zucchini-5.jpg' alt='' class='instruction-image'>
 Notes:
 ---

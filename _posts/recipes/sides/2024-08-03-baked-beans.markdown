@@ -59,19 +59,19 @@ tags:
 - horseradish mustard
 - garlic
 - tomato paste
-Description: Do you like <a href='/misc/fake-healthy-foods#baked-beans'>baked beans</a>? Of course you do. Unfortunately, most canned and homemade recipes contain tons and tons of <a href='/misc/hidden-sugar'>sugar</a>, containing as much as some desserts. This recipe is <a href='/misc/hidden-sugar'>sugar</a> free, and no that doesn't mean there's a ton of maple syrup, honey, or molasses instead. Gochujang does have a little bit of <a href='/misc/hidden-sugar'>added sugar</a>, but other than that this recipe is totally unsweetened, relying on just the sweetness of the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#tomato'>tomatoes</a> for a delicious savory side dish that pairs great with some <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>
+Description: Do you like <a href='/misc/fake-healthy-foods#baked-beans'>baked beans</a>? Of course you do. Unfortunately, most canned and homemade recipes contain tons and tons of <a href='/misc/hidden-sugar'>sugar</a>, containing as much as some desserts. This recipe is <a href='/misc/hidden-sugar'>sugar free</a>, and no that doesn't mean there's a ton of maple syrup, honey, or molasses instead. Gochujang does have a little bit of <a href='/misc/hidden-sugar'>added sugar</a>, but other than that this recipe is totally unsweetened, relying on just the sweetness of the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#tomato'>tomatoes</a> for a delicious savory <a href='/recipes/sides'>side dish</a> that pairs great with some <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>
 Instructions:
-- Preheat your oven to 350F, and heat a large pot or Dutch oven over medium heat with olive oil.  Cut your onion into a fine dice, and add to the pot. Cover, and cook for about 5 minutes, or until translucent and lightly browned
+- Preheat your oven to 350F, and heat a large pot or <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium heat with olive oil.  Cut your <a href='/misc/veggies#onion'>onion</a> into a fine dice, and add to the pot. Cover, and cook for about 5 minutes, or until translucent and lightly browned
 
-- Add minced garlic, gochujang (or chili paste) and water. Cover and simmer over low heat for 5 minutes
+- Add <a href='/misc/veggies#garlic'>minced garlic</a>, gochujang (or chili paste) and water. Cover and simmer over low heat for 5 minutes
 
-- Drain and rinse your beans
+- Drain and rinse your <a href='/misc/beans'>beans</a>
 
-- Add in the remaining ingredients - tomato paste, apple cider vinegar, soy sauce, dijon mustard, chili powder, garlic powder, black pepper, salt, and cinnamon. Cover and let simmer for 5 minutes
+- Add in the remaining ingredients - tomato paste, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, soy sauce, dijon mustard, chili powder, garlic powder, black pepper, salt, and cinnamon. Cover and let simmer for 5 minutes
 
-- If you're using a Dutch oven, you can bake directly in there.  If not, transfer your beans to an 9" square baking dish.  Bake in a 350F oven (covered) for 45 minutes
+- If you're using a <a href='https://amzn.to/3LNGdVy'>Dutch oven</a>, you can bake directly in there.  If not, transfer your <a href='/misc/beans'>beans</a> to an <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a>.  Bake in a 350F oven (covered) for 45 minutes
 Notes:
-- Traditionally, baked beans are made with navy beans, but any other kind of bean (pinto, kidney, <a href='/misc/beans#black-beans'>black</a>, etc. will work as well).  Add the beans to the pot
+- Traditionally, <a href='/misc/fake-healthy-foods#baked-beans'>baked beans</a> are made with <a href='/misc/beans#navy-beans'>navy beans</a>, but any other kind of <a href='/misc/beans'>bean</a> (<a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#kidney-beans'>kidney</a>, <a href='/misc/beans#black-beans'>black</a>, etc. will work as well).  Add the <a href='/misc/beans'>beans</a> to the pot
 
-- You can also cook in a slow cooker on low for about 4-6 hours
+- You can also cook in a <a href='https://amzn.to/49TUS9E'>slow cooker</a> on low for about 4-6 hours
 ---

@@ -1842,6 +1842,7 @@ LINKS = {
   "ultra processed": "/misc/processed-foods",
   "ultra-processed": "/misc/processed-foods",
   "heavily processed": "/misc/processed-foods",
+  "processed": "/misc/processed-foods",
   "apple cider vinegar": "/misc/apple-cider-vinegar",
   "acv": "/misc/apple-cider-vinegar",
   "prebiotic": "/misc/biotics",
@@ -2403,6 +2404,11 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "as some desserts",
+    '"rice"',
+    "arrange fries",
+    "arrange the fries",
+    "bean salad",
     "cheese substitute",
     "fruit salsa",
     "orange color",
@@ -3304,8 +3310,8 @@ EXCLUDED_PHRASES = [
     "don't drink",
     "essential oils",
     "essential oil",
-    "minimally processed",
-    "less processed",
+    # "minimally processed",
+    # "less processed",
     "corn dogs",
     "corn dog",
     "corndogs",
@@ -3848,7 +3854,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

@@ -50,15 +50,15 @@ tags:
 - summer
 - oven
 - air fryer
-Description: <a href='/misc/grains#corn'>Corn</a> on the cob makes me think of grilling and summer barbeques, but did you know that you can enjoy <a href='/misc/grains#corn'>corn</a> all year round? Just wrap it and foil and roast it in the oven. It's a great easy <a href='/misc/carbs'>carb</a> side to any meal
+Description: <a href='/misc/grains#corn'>Corn</a> on the cob makes me think of grilling and summer barbeques, but did you know that you can enjoy <a href='/misc/grains#corn'>corn</a> all year round? Just wrap it and foil and roast it in the oven. It's a great easy <a href='/misc/carbs'>carb</a> <a href='/recipes/sides'>side</a> to any meal
 Instructions:
-- Preheat your oven to 425F, and line a large cookie sheet with aluminum foil
+- Preheat your oven to 425F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with aluminum foil
 
-- Tear the leaves off the corn, and rinse off the "hairy" parts. Spray the corn with oil, and sprinkle with lemon pepper (or salt)
+- Tear the leaves off the <a href='/misc/grains#corn'>corn</a>, and rinse off the "hairy" parts. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the <a href='/misc/grains#corn'>corn</a> with oil, and sprinkle with lemon pepper (or salt)
 - <img src='/assets/Food/Sides/Corn/corn-raw.jpg' alt='' class='instruction-image'>
 
-- Wrap each corn in aluminum foil. Roast for 30 minutes (flipping halfway) in a preheated 425F oven (or air fryer). Allow to cool for a few minutes before eating
+- Wrap each <a href='/misc/grains#corn'>corn</a> in aluminum foil. Roast for 30 minutes (flipping halfway) in a preheated 425F oven (or <a href='https://amzn.to/3FuWETp'>air fryer</a>). Allow to cool for a few minutes before eating
 - <img src='/assets/Food/Sides/Corn/corn-wrapped.jpg' alt='' class='instruction-image'>
 Notes:
-- Keep any leftover corn wrapped in foil, and store in an airtight bag in the fridge. To reheat, roast in a preheated 400F oven (or air fryer) for 15-20 minutes, or until hot
+- Keep any leftover <a href='/misc/grains#corn'>corn</a> wrapped in foil, and store in an airtight bag in the fridge. To reheat, roast in a preheated 400F oven (or <a href='https://amzn.to/3FuWETp'>air fryer</a>) for 15-20 minutes, or until hot
 ---

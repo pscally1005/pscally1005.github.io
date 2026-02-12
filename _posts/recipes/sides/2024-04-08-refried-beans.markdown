@@ -58,15 +58,15 @@ tags:
 - garbanzo beans
 - cumin
 - vic
-Description: Refried <a href='/misc/beans'>beans</a> are a great side dish to many different meals. It's very easy to put together, and can be made with any type of bean that you desire. It's basically roughly mashed and cooked hummus, and works well as a dip, burrito filling, or side on your plate
+Description: <a href='/misc/beans#refried-beans'>Refried beans</a> are a great <a href='/recipes/sides'>side dish</a> to many different meals. It's very easy to put together, and can be made with any type of <a href='/misc/beans'>bean</a> that you desire. It's basically roughly mashed and cooked <a href='/hummus'>hummus</a>, and works well as a dip, burrito filling, or <a href='/recipes/sides'>side</a> on your plate
 Instructions:
-- Preheat a medium pot over medium heat with oil. Meanwhile, finely dice your onion. Add diced onion to the pan with salt. Cover, and cook until the onions are soft and translucent, and begin to caramelize
+- Preheat a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat with oil. Meanwhile, finely dice your <a href='/misc/veggies#onion'>onion</a>. Add diced <a href='/misc/veggies#onion'>onion</a> to the pan with salt. Cover, and cook until the <a href='/misc/veggies#onion'>onions</a> are soft and translucent, and begin to caramelize
 - <img src='/assets/Food/Sides/Refried/refried-1.jpg' alt='' class='instruction-image'>
 
-- When the onions are done, add in the minced garlic, spices (chili powder, paprika, cumin, garlic powder, onion powder, and black pepper), and your beans (entire can; NOT drained or rinsed). Mix, cover, and cook for 5 minutes
+- When the <a href='/misc/veggies#onion'>onions</a> are done, add in the <a href='/misc/veggies#garlic'>minced garlic</a>, spices (chili powder, paprika, cumin, garlic powder, onion powder, and black pepper), and your <a href='/misc/beans'>beans</a> (entire can; NOT drained or rinsed). Mix, cover, and cook for 5 minutes
 - <img src='/assets/Food/Sides/Refried/refried-2.jpg' alt='' class='instruction-image'>
 
-- Reduce heat to low, and roughly mash with a potato masher to reach your desired consistency. I like mine a little chunky, but if you want it super smooth, use an immersion blender. Simmer uncovered for about 5 minutes, or until thickened to your liking. Squeeze in some lime, and finish with cilantro or parsley
+- Reduce heat to low, and roughly mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a> to reach your desired consistency. I like mine a little chunky, but if you want it super smooth, use an <a href='https://amzn.to/3VHhgMM'>immersion blender</a>. Simmer uncovered for about 5 minutes, or until thickened to your liking. Squeeze in some <a href='/misc/fruit#lime'>lime</a>, and finish with cilantro or parsley
 - <img src='/assets/Food/Sides/Refried/refried-3.jpg' alt='' class='instruction-image'>
 Notes:
 ---
