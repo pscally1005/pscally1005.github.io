@@ -61,12 +61,12 @@ tags:
 - dill
 - red pepper flakes
 - oregano
-Description: If you know me, then you know that I'm a sucker for Mediterranean dishes. This dip is just that; perfectly cheesy, zesty, and creamy. It's basically <a href='/hummus'>hummus</a> with a base of <a href='/misc/dairy#feta'>feta</a> instead of <a href='/misc/beans#chickpeas'>chickpeas</a>. The <a href='/misc/dairy#feta'>feta</a> provides some whole food <a href='/misc/fats'>fats</a>, the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> adds <a href='/misc/protein'>protein</a> and additional creaminess, and the lemon and dill bring more delicious flavor. This dip is a perfect side to pita, raw veggies, or on top of a <a href='/salad'>salad</a> or wrap
+Description: If you know me, then you know that I'm a sucker for Mediterranean dishes. This dip is just that; perfectly cheesy, zesty, and creamy. It's basically <a href='/hummus'>hummus</a> with a base of <a href='/misc/dairy#feta'>feta</a> instead of <a href='/misc/beans#chickpeas'>chickpeas</a>. The <a href='/misc/dairy#feta'>feta</a> provides some whole food <a href='/misc/fats'>fats</a>, the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> adds <a href='/misc/protein'>protein</a> and additional creaminess, and the <a href='/misc/fruit#lemon'>lemon</a> and dill bring more delicious flavor. This dip is a perfect <a href='/recipes/sides'>side</a> to <a href='/recipes/pita'>pita</a>, raw <a href='/misc/veggies'>veggies</a>, or on top of a <a href='/salad'>salad</a> or wrap
 Instructions:
-- Add all ingredients to a food processor, and blend until smooth
+- Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
 - <img src='/assets/Food/Savory Sauces/Whipped Feta/processor.jpg' alt='' class='instruction-image'>
 Notes:
-- Plain Greek yogurt can also be used in place of cottage cheese, but add 1/2 tsp (3 g) salt, since cottage cheese is salty and yogurt is not
+- Plain <a href='/misc/dairy#yogurt'>Greek yogurt</a> can also be used in place of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, but add 1/2 tsp (3 g) salt, since <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> is salty and <a href='/misc/dairy#yogurt'>yogurt</a> is not
 
-- Any fat percentage of cottage cheese (or yogurt) will work here, but I've gone with nonfat
+- Any <a href='/misc/fats'>fat</a> percentage of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (or <a href='/misc/dairy#yogurt'>yogurt</a>) will work here, but I've gone with <a href='/misc/fats'>nonfat</a>
 ---

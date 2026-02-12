@@ -210,6 +210,7 @@ LINKS = {
   "insulin sensitive": "/misc/insulin-resistance",
   "fasting insulin": "/misc/insulin-resistance",
   "insulin": "/misc/insulin-resistance",
+  "inflammatory": "/misc/chronic-inflammation",
   "chronic inflammation": "/misc/chronic-inflammation",
   "inflammation": "/misc/chronic-inflammation",
   "anti inflammatory": "/misc/chronic-inflammation",
@@ -1948,6 +1949,8 @@ LINKS = {
   "salad dressing recipes": "/salad-dressings",
   "homemade salad dressings": "/salad-dressings",
   "homemade salad dressing": "/salad-dressings",
+  "homemade dressings": "/salad-dressings",
+  "homemade dressing": "/salad-dressings",
   "salad dressings": "/salad-dressings",
   "salad dressing": "/salad-dressings",
   "dressing recipes": "/salad-dressings",
@@ -2398,6 +2401,16 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "cheese substitute",
+    "fruit salsa",
+    "orange color",
+    "sodium citrate",
+    "american cheese",
+    "blue cheese dressing",
+    "homemade mayo",
+    "deviled eggs",
+    "egg salad",
+    "macaroni salad",
     "400 g of ketchup",
     "favorite spreads and sauces",
     "peanut chili",
@@ -3833,7 +3846,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2026")):
                 continue
 
             # exclude some files

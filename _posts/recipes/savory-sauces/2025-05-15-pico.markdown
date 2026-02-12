@@ -50,12 +50,12 @@ tags:
 - tomatoes
 - lime
 - chips
-Description: Pico de Gallo has to be one of the easiest salsas or taco toppings you can make. Just dice an <a href='/misc/veggies#onion'>onion</a>, and mix with <a href='/misc/veggies#tomato'>tomatoes</a>, cilantro, and lime. I've left out the jalapeno here, but you can add it in if you like. Typically, fresh tomatoes are used, but you can easily get away with a can of petite diced tomatoes instead
+Description: Pico de Gallo has to be one of the easiest salsas or <a href='/recipes/taco'>taco</a> toppings you can make. Just dice an <a href='/misc/veggies#onion'>onion</a>, and mix with <a href='/misc/veggies#tomato'>tomatoes</a>, cilantro, and <a href='/misc/fruit#lime'>lime</a>. I've left out the jalapeno here, but you can add it in if you like. Typically, fresh <a href='/misc/veggies#tomato'>tomatoes</a> are used, but you can easily get away with a can of petite diced tomatoes instead
 Instructions:
-- Cut your onions into a fine dice, and add to a medium bowl. Cover with water, and let sit for 10 minutes. This removes the harsh flavors of the raw onion. Drain the water
+- Cut your <a href='/misc/veggies#onion'>onions</a> into a fine dice, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>. Cover with water, and let sit for 10 minutes. This removes the harsh flavors of the raw <a href='/misc/veggies#onion'>onion</a>. Drain the water
 
-- Add the rest of the ingredients to the bowl (cilantro, tomatoes, lime, and salt), and mix. Cover, and refrigerate for a few hours before servings, allowing the flavors to combine
+- Add the rest of the ingredients to the bowl (cilantro, <a href='/misc/veggies#tomato'>tomatoes</a>, <a href='/misc/fruit#lime'>lime</a>, and salt), and mix. Cover, and refrigerate for a few hours before servings, allowing the flavors to combine
 Notes:
-- Pico de gallo is more than just a dip for chips or topping for your tacos and rice bowls.  Here it is on top of my salad for lunch
+- Pico de gallo is more than just a dip for <a href='/misc/fake-healthy-foods#chips'>chips</a> or topping for your <a href='/recipes/taco'>tacos</a> and <a href='/misc/grains#brown-rice'>rice</a> bowls.  Here it is on top of my <a href='/salad'>salad</a> for lunch
 - <img src='/assets/Food/Savory Sauces/Pico/salad.jpg' alt='' class='instruction-image'>
 ---

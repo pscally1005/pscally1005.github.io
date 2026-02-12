@@ -50,18 +50,18 @@ tags:
 - mexican cheese
 - hummus
 - plain nonfat greek yogurt
-Description: I'm back with more dip recipes. After the success of warm cheesy dips like <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> and <a href='/recipes/spinach-artichoke-dip'>Lightened Up Spinach Artichoke Dip</a>, I knew I had to try this dip when I came across it. Bean dip is like a warm, cheesy hummus, but this one is made without any <a href='/misc/dairy#cream-cheese'>cream cheese</a>, mayonnaise, or sour cream. Instead, with <a href='/misc/dairy#yogurt'>Greek yogurt</a> as it's base, this dip is lower in <a href='/misc/fats'>fat</a> and higher in <a href='/misc/protein'>protein</a>, leaving you feeling satisfied instead of gross
+Description: I'm back with more dip recipes. After the success of warm cheesy dips like <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a> and <a href='/recipes/spinach-artichoke-dip'>Lightened Up Spinach Artichoke Dip</a>, I knew I had to try this dip when I came across it. <a href='/misc/beans'>Bean</a> dip is like a warm, cheesy <a href='/hummus'>hummus</a>, but this one is made without any <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/fake-healthy-foods#dips'>mayonnaise</a>, or sour cream. Instead, with <a href='/misc/dairy#yogurt'>Greek yogurt</a> as it's base, this dip is lower in <a href='/misc/fats'>fat</a> and higher in <a href='/misc/protein'>protein</a>, leaving you feeling satisfied instead of gross
 Instructions:
-- Preheat your oven to 400F. Drain and rinse a can of beans
+- Preheat your oven to 400F. Drain and rinse a can of <a href='/misc/beans'>beans</a>
 
-- Combine all ingredients (except the cheese) in a food processor, and blend until smooth and no bean chunks remain
+- Combine all ingredients (except the <a href='/misc/dairy#cheddar'>shredded cheese</a>) in a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth and no <a href='/misc/beans'>bean</a> chunks remain
 - <img src='/assets/Food/Savory Sauces/Bean Dip/blended.jpg' alt='' class='instruction-image'>
 
-- Transfer the mixture to a 9" square pan, and top with your shredded cheese
+- Transfer the mixture to a <a href='https://amzn.to/3YY2H9q'>9" square pan</a>, and top with your <a href='/misc/dairy#cheddar'>shredded cheese</a>
 - <img src='/assets/Food/Savory Sauces/Bean Dip/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 400F for about 15 minutes (uncovered), or until lightly bubbly. Let rest for a few minutes before serving
 - <img src='/assets/Food/Savory Sauces/Bean Dip/cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- Any canned beans will work.  Today, I'm using red kidney beans, but <a href='/misc/beans#black-beans'>black</a>, pinto, navy, chickpeas, or anything else will work in place
+- Any canned <a href='/misc/beans'>beans</a> will work.  Today, I'm using <a href='/misc/beans#kidney-beans'>red kidney beans</a>, but <a href='/misc/beans#black-beans'>black</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, <a href='/misc/beans#navy-beans'>navy</a>, <a href='/misc/beans#chickpeas'>chickpeas</a>, or anything else will work in place
 ---

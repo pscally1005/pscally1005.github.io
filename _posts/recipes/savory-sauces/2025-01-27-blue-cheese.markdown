@@ -56,11 +56,11 @@ tags:
 - spread
 - dip
 - salad dressing
-Description: This healthy blue cheese dressing uses <a href='/misc/beans#cannellini-beans'>cannellini</a> beans as a base instead of soybean oil or mayo, making it more like a blue cheese hummus. The beans provide <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, and avoid all the unnecessary, unhealthy ingredients like seed oils, <a href='/misc/hidden-sugar'>added sugar</a>, gums, emulsifiers, and artificial flavors.  All the funk, without the junk!  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
+Description: This healthy blue cheese dressing uses <a href='/misc/beans#cannellini-beans'>cannellini beans</a> as a base instead of <a href='/misc/fake-healthy-foods#seed-oil'>soybean oil</a> or <a href='/misc/fake-healthy-foods#dips'>mayo</a>, making it more like a <a href='/misc/dairy#blue-cheese'>blue cheese</a> <a href='/hummus'>hummus</a>. The <a href='/misc/beans'>beans</a> provide <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, and avoid all the unnecessary, unhealthy ingredients like <a href='/misc/fake-healthy-foods#seed-oil'>seed oils</a>, <a href='/misc/hidden-sugar'>added sugar</a>, gums, emulsifiers, and artificial flavors.  All the funk, without the junk!  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
 Instructions:
-- Drain and rinse a can of beans in a strainer, and add to a food processor. Add in the rest of the ingredients (lemon juice, evoo, salt, black pepper, and blue cheese), and blend until smooth
+- Drain and rinse a can of <a href='/misc/beans'>beans</a> in a strainer, and add to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Add in the rest of the ingredients (<a href='/misc/fruit#lemon-juice'>lemon juice</a>, evoo, salt, black pepper, and <a href='/misc/dairy#blue-cheese'>blue cheese</a>), and blend until smooth
 Notes:
-- I'm using cannellini beans here, but any light colored beans will work, like navy, pinto, or garbanzo (chickpeas)
+- I'm using <a href='/misc/beans#cannellini-beans'>cannellini beans</a> here, but any light colored <a href='/misc/beans'>beans</a> will work, like <a href='/misc/beans#navy-beans'>navy</a>, <a href='/misc/beans#pinto-beans'>pinto</a>, or <a href='/misc/beans#chickpeas'>garbanzo</a> (<a href='/misc/beans#chickpeas'>chickpeas</a>)
 
 - |
   For comparison, the same 2 tbsp (30 g) serving of <a href='https://amzn.to/4khxarK'>bottled blue cheese dressing</a> contains

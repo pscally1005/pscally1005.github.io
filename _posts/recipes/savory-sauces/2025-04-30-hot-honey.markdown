@@ -50,11 +50,11 @@ tags:
 - red pepper flakes
 - pizza
 - grilled cheese
-Description: Hot Honey is a popular condiment that's basically just honey infused with hot sauce. Not only has Vic been wanting this for a while, but I also wanted to try the viral <a href='/recipes/hot-honey-beef-bowls'>Hot Honey Beef Bowls</a>. So instead of buying it, today I'm making my own hot honey. It's done in less than 10 minutes, and adds a fantastic sweet and spicy flavor into anything you drizzle it on.  Other uses of hot honey include my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>
+Description: Hot Honey is a popular condiment that's basically just honey infused with <a href='/recipes/hot-sauce'>hot sauce</a>. Not only has Vic been wanting this for a while, but I also wanted to try the viral <a href='/recipes/hot-honey-beef-bowls'>Hot Honey Beef Bowls</a>. So instead of buying it, today I'm making my own hot honey. It's done in less than 10 minutes, and adds a fantastic sweet and spicy flavor into anything you drizzle it on.  Other uses of hot honey include my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>
 Instructions:
 - Add honey to a medium sauce pot over medium low heat. Cook for about 2 minutes, or until the honey loosens up
 
-- Remove from the heat, and stir in hot sauce and red pepper flakes
+- Remove from the heat, and stir in <a href='/recipes/hot-sauce'>hot sauce</a> and red pepper flakes
 
 - Transfer to a mason jar, and let cool at room temperature before putting on the lid. Store in a cabinet
 Notes:
