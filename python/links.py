@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\savory-sauces"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\sides"
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meme"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\recipes\protein"
 
@@ -1550,6 +1550,8 @@ LINKS = {
   "creatine": "/misc/creatine",
 
   # AMAZON
+  "instant pot": "https://amzn.to/46PSfov",
+  "pressure cooker": "https://amzn.to/46PSfov",
   "glass meal prep container": "https://amzn.to/3Ffts2R",
   "meal prep container": "https://amzn.to/3Ffts2R",
   '6.2 x 4.5"': "https://amzn.to/3Ffts2R",
@@ -3846,7 +3848,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026")):
+            if not file.startswith(("2023")):
                 continue
 
             # exclude some files

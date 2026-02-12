@@ -57,11 +57,11 @@ tags:
 - pepper
 - bell pepper
 - eggplant
-Description: Roasted <a href='/misc/veggies'>vegetables</a> are so easy to do that I should really be making them more often. You can really do this with whatever <a href='/misc/veggies'>vegetables</a> you have on hand, like <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, or <a href='/misc/veggies#asparagus'>asparagus</a>. It's written to be minimally seasoned, that way you can add any other spices you desire for tons of different flavors. Serve it on the side of grilled <a href='/recipes/chicken'>chicken</a> or <a href='/recipes/fish'>fish</a> and with any other <a href='/misc/sides'>side</a> you desire.
+Description: Roasted <a href='/misc/veggies'>vegetables</a> are so easy to do that I should really be making them more often. You can really do this with whatever <a href='/misc/veggies'>vegetables</a> you have on hand, like <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, or <a href='/misc/veggies#asparagus'>asparagus</a>. It's written to be minimally seasoned, that way you can add any other spices you desire for tons of different flavors. Serve it on the side of grilled <a href='/misc/meat#chicken-breast'>chicken</a> or <a href='/misc/fish'>fish</a> and with any other <a href='/misc/sides'>side</a> you desire.
 Instructions:
-- Preheat oven to 400F and line a baking sheet with aluminum foil or parchment paper
+- Preheat oven to 400F and line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with aluminum foil or parchment paper
 
-- Add your <a href='/misc/veggies'>vegetables</a> to a pan. Drizzle with olive oil and sprinkle with salt, black pepper, garlic powder, and onion powder. Roast at 400F (<a href='#notes'>times</a> below). Squeeze on some lemon juice when done
+- Add your <a href='/misc/veggies'>vegetables</a> to a pan. Drizzle with olive oil and sprinkle with salt, black pepper, garlic powder, and onion powder. Roast at 400F (<a href='#notes'>times</a> below). Squeeze on some <a href='/misc/fruit#lemon-juice'>lemon juice</a> when done
 Notes:
 - <a href='/misc/veggies#artichoke'>Artichokes</a> - 30 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-artichoke.jpg' alt='' class='instruction-image'>
@@ -90,6 +90,6 @@ Notes:
 - <a href='/misc/veggies#garlic'>Garlic</a> - 45 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-garlic.jpg' alt='' class='instruction-image'>
 
-- <a href='/misc/veggies#acorn-squash'>Squash</a> - 45 minutes
+- <a href='/misc/veggies#butternut-squash'>Squash</a> - 45 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-squash.jpg' alt='' class='instruction-image'>
 ---
