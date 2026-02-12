@@ -66,7 +66,7 @@ Instructions:
 - Add your sun dried tomatoes to the <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse until roughly chopped. Add in the <a href='/misc/veggies#spinach-fresh'>spinach</a> and the rest of the dressing ingredients, and blend until well combined. Thin out with water as needed
 - <img src='/assets/Food/Meatless/Vegan Pasta Salad/separate.jpg' alt='' class='instruction-image'>
 
-- Add the <a href='/dressing'>dressing</a> into the <a href='/misc/grains#pasta'>pasta</a> bowl, and mix until fully combined. Serve cold or warm
+- Add the <a href='/salad-dressings'>dressing</a> into the <a href='/misc/grains#pasta'>pasta</a> bowl, and mix until fully combined. Serve cold or warm
 - <img src='/assets/Food/Meatless/Vegan Pasta Salad/no-sardines.jpg' alt='' class='instruction-image'>
 Notes:
 - To make it <a href='/misc/nuts'>nut</a> free, replace the <a href='/misc/nuts#pistachios'>pistachios</a> with <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a>

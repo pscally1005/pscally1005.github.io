@@ -60,11 +60,11 @@ tags:
 - pizza
 - pasta
 - vic
-Description: If you're after more of a traditional <a href='/misc/fake-healthy-foods#sauces'>pesto</a> but still want to cut back on a bit of oil, then this pesto recipe is for you. Yes, extra virgin olive oil is a very healthy <a href='/misc/fats'>fat</a> you should be consuming, but too much can lead to an excess of <a href='/misc/calories'>calories</a>.  I typically prefer some type of pesto as the sauce on my <a href='/recipes/pizza'>Home Oven Baked Pizza</a>  This recipe cuts down on a bit of the oil while still preserving all the taste of the classic.  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href='/misc/protein'>protein</a> versions
+Description: If you're after more of a traditional <a href='/pesto'>pesto</a> but still want to cut back on a bit of <a href='/misc/fats'>oil</a>, then this <a href='/pesto'>pesto</a> recipe is for you. Yes, extra virgin olive oil is a very <a href='/misc/fats'>healthy fat</a> you should be consuming, but too much can lead to an excess of <a href='/misc/calories'>calories</a>.  I typically prefer some type of <a href='/pesto'>pesto</a> as the sauce on my <a href='/recipes/pizza'>Home Oven Baked Pizza</a>  This recipe cuts down on a bit of the <a href='/misc/fats'>oil</a> while still preserving all the taste of the classic.  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of <a href='/misc/fats'>oil</a>, different kinds of <a href='/misc/nuts'>nuts</a>, vegan versions, and <a href='/misc/high-protein'>high protein</a> versions
 Instructions:
-- Add the almonds to a pan over medium heat. Toast the nuts for 2-3 minutes or until lightly fragrant and softened
+- Add the <a href='/misc/nuts#almonds'>almonds</a> to a pan over medium heat. Toast the <a href='/misc/nuts'>nuts</a> for 2-3 minutes or until lightly fragrant and softened
 
-- Add the nuts and the rest of the ingredients to the food processor. Blend until smooth and combined. Thin out with more water if needed, and season with salt to taste
+- Add the <a href='/misc/nuts'>nuts</a> and the rest of the ingredients to the <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until smooth and combined. Thin out with more water if needed, and season with salt to taste
 - <img src='/assets/Food/Savory Sauces/EVOO Pesto/cover.jpg' alt='' class='instruction-image'>
 Notes:
 ---

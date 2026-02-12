@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\protein"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\savory-sauces"
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meme"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\recipes\protein"
 
@@ -1340,6 +1340,10 @@ LINKS = {
   "simple sugar": "/misc/hidden-sugar",
   "added sugars": "/misc/hidden-sugar",
   "added sugar": "/misc/hidden-sugar",
+  "high fructose corn syrup (hfcs)": "/misc/hidden-sugar",
+  "high fructose corn syrup": "/misc/hidden-sugar",
+  "hfcs": "/misc/hidden-sugar",
+  "corn syrup": "/misc/hidden-sugar",
   "no sugars": "/misc/hidden-sugar",
   "no sugar": "/misc/hidden-sugar",
   "sugar spreads": "/misc/hidden-sugar",
@@ -1896,8 +1900,9 @@ LINKS = {
   "soup recipes here": "/soup-stew",
   "stew recipes here": "/soup-stew",
   "salad recipes here": "/salad",
-  "salad dressing recipes here": "/dressing",
-  "dressing recipes here": "/dressing",
+  "salad dressing recipes here": "/salad-dressings",
+  "dressing recipes here": "/salad-dressings",
+  "salad toppings": "/salad-dressings",
   "brownie recipes here": "/brownies",
   "cookie recipes here": "/cookies",
   "copycat recipes here": "/copycat",
@@ -1940,13 +1945,13 @@ LINKS = {
   "salad recipes": "/salad",
   "salads": "/salad",
   "salad": "/salad",
-  "salad dressing recipes": "/dressing",
-  "homemade salad dressings": "/dressing",
-  "homemade salad dressing": "/dressing",
-  "salad dressings": "/dressing",
-  "salad dressing": "/dressing",
-  "dressing recipes": "/dressing",
-  "dressing": "/dressing",
+  "salad dressing recipes": "/salad-dressings",
+  "homemade salad dressings": "/salad-dressings",
+  "homemade salad dressing": "/salad-dressings",
+  "salad dressings": "/salad-dressings",
+  "salad dressing": "/salad-dressings",
+  "dressing recipes": "/salad-dressings",
+  "dressing": "/salad-dressings",
   "brownies": "/brownies",
   "brownie recipes": "/brownies",
   "brownie": "/brownies",
@@ -2082,6 +2087,9 @@ LINKS = {
   "storebought pesto": "/misc/fake-healthy-foods#sauces",
   "alfredo": "/misc/fake-healthy-foods#sauces",
   "ketchup": "/misc/fake-healthy-foods#dips",
+  "commercial bbq sauces": "/misc/fake-healthy-foods#dips",
+  "commercial bbq sauce": "/misc/fake-healthy-foods#dips",
+  "bbq sauces": "/misc/fake-healthy-foods#dips",
   "bbq sauce": "/misc/fake-healthy-foods#dips",
   # "dark chocolate": "/misc/fake-healthy-foods#chocolate",
   "chocolate (less than 70%)": "/misc/fake-healthy-foods#chocolate",
@@ -2388,6 +2396,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "my bbq sauce",
     "the banana bread should",
     "the glaze",
     "non-protein",
@@ -3454,7 +3463,7 @@ EXCLUDED_PHRASES = [
     "powdered sugar",
     "honey nut",
     "raisin bran",
-    "corn syrup",
+    # "corn syrup",
     "fruit juice concentrate",
     "desserts for breakfast",
     "dessert for breakfast",
@@ -3551,6 +3560,7 @@ REMOVE_CATEGORIES = [
     "/chili",
     "/salad",
     "/dressing",
+    "/salad-dressings",
     "/brownies",
     "/cookies",
     "/copycat",
@@ -3812,7 +3822,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025")):
+            if not file.startswith(("2023")):
                 continue
 
             # exclude some files

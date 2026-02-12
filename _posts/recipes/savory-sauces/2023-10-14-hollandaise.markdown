@@ -51,14 +51,14 @@ tags:
 - paprika
 - lemon
 - garlic
-Description: Any time I made amaretti cookies, macaroons, or anything that uses <a href='/misc/meat#egg-whites'>egg whites</a>, I always struggle to find the use for my leftover <a href='/misc/meat#eggs'>yolks</a>. This simple sauce is now my go to for not wasting perfectly good <a href='/misc/meat#eggs'>eggs</a>, and uses <a href='/misc/dairy#yogurt'>Greek yogurt</a> instead of <a href='/misc/dairy#butter'>butter</a> for higher <a href='/misc/protein'>protein</a> and lower saturated <a href='/misc/fats'>fat</a>. For my cookie recipes, check out <a href='/recipes/coconut-macaroons'>Coconut Macaroons with Honey</a> and <a href='/recipes/amaretti'>Amaretti Cookies with Monkfruit</a>.  If you prefer mayo to hollandaise, be sure to check out my <a href='/recipes/mayo'>Lighter Mayo Substitute</a>
+Description: Any time I made amaretti <a href='/cookies'>cookies</a>, macaroons, or anything that uses <a href='/misc/meat#egg-whites'>egg whites</a>, I always struggle to find the use for my leftover <a href='/misc/meat#eggs'>yolks</a>. This simple sauce is now my go to for not wasting perfectly good <a href='/misc/meat#eggs'>eggs</a>, and uses <a href='/misc/dairy#yogurt'>Greek yogurt</a> instead of <a href='/misc/dairy#butter'>butter</a> for higher <a href='/misc/protein'>protein</a> and lower <a href='/misc/fats'>saturated fat</a>. For my <a href='/cookies'>cookie recipes</a>, check out <a href='/recipes/coconut-macaroons'>Coconut Macaroons with Honey</a> and <a href='/recipes/amaretti'>Amaretti Cookies with Monkfruit</a>.  If you prefer <a href='/misc/fake-healthy-foods#dips'>mayo</a> to hollandaise, be sure to check out my <a href='/recipes/mayo'>Lighter Mayo Substitute</a>
 Instructions:
-- Assemble a double boiler by heating 1" of water in a medium pot. Place a glass bowl on top. Bring water to a simmer
+- Assemble a double boiler by heating 1" of water in a <a href='https://amzn.to/46ccg8m'>medium pot</a>. Place a <a href='https://amzn.to/4adxMft'>glass bowl</a> on top. Bring water to a simmer
 
-- Over the simmering water for about 15 minutes, whisk together eggs, lemon, yogurt, and garlic. Stir frequently, until sauce has thickened and reached 160F
+- Over the simmering water for about 15 minutes, whisk together <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/fruit#lemon'>lemon</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, and <a href='/misc/veggies#garlic'>garlic</a>. Stir frequently, until sauce has thickened and reached <a href='https://amzn.to/4kmobG2'>160F</a>
 
-- Stir in mustard and spices - basil, salt, sumin, paprika, black pepper, and red pepper flakes.  You can optionally also add a drop of liquid monk fruit or butter extract
+- Stir in mustard and spices - basil, salt, cumin, paprika, black pepper, and red pepper flakes.  You can optionally also add a drop of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or butter extract
 
-- Serve over roasted vegetables, use as a base for tuna salad, or however you want
+- Serve over roasted <a href='/misc/veggies'>vegetables</a>, use as a base for tuna salad, or however you want
 Notes:
 ---
