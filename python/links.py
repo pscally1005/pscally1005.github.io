@@ -11,6 +11,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\protein"
 LINKS = {
 
   # RECIPES
+  "protein shakes": "/recipes/protein-shake",
+  # "protein bars": "/recipes/protein-bar",
+  "protein shake": "/recipes/protein-shake",
+  "protein bar": "/recipes/protein-bar",
   "tacos": "/recipes/taco",
   "taco": "/recipes/taco",
   "pocket pita": "/recipes/pita",
@@ -1541,6 +1545,10 @@ LINKS = {
   "creatine": "/misc/creatine",
 
   # AMAZON
+  "glass meal prep container": "https://amzn.to/3Ffts2R",
+  "meal prep container": "https://amzn.to/3Ffts2R",
+  '6.2 x 4.5"': "https://amzn.to/3Ffts2R",
+  '6.2" x 4.5"': "https://amzn.to/3Ffts2R",
   "pizza wheel": "https://amzn.to/3O5nlSH",
   "pizza cutter": "https://amzn.to/3O5nlSH",
   "baking stone": "https://amzn.to/4ccXgLm",
@@ -1561,6 +1569,7 @@ LINKS = {
   "peanut flour": "https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417",
   "powdered peanuts": "https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417",
   "granulated monk fruit": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
+  "granulated sweetener": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
   "lactase enzyme": "https://amzn.to/43ycqF2",
   "inulin": "https://amzn.to/47w8h7R",
   "food scale": "https://amzn.to/45yjx2X",
@@ -1892,6 +1901,7 @@ LINKS = {
   "brownie recipes here": "/brownies",
   "cookie recipes here": "/cookies",
   "copycat recipes here": "/copycat",
+  "recreated": "/copycat",
   "hummuses": "/hummus",
   "hummus recipes": "/hummus",
   "hummus": "/hummus",
@@ -2378,6 +2388,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "the banana bread should",
     "the glaze",
     "non-protein",
     "your flour",
@@ -3058,8 +3069,8 @@ EXCLUDED_PHRASES = [
     "smoothie bowl",
     "protein shakes",
     "protein shake",
-    "protein bars",
-    "protein bar",
+    # "protein bars",
+    # "protein bar",
     "flavored rice dishes",
     "traditional desserts",
     "traditional dessert",
@@ -3801,7 +3812,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2025")):
                 continue
 
             # exclude some files
