@@ -2378,6 +2378,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "the glaze",
     "non-protein",
     "your flour",
     "spread to",
@@ -3800,7 +3801,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

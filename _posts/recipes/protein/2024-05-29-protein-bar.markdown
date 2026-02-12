@@ -62,18 +62,18 @@ tags:
 - gluten free
 - almond extract
 Description: |
-  To me, a <a href='/misc/fake-healthy-foods#protein'>protein bar</a> must meet 3 basic requirements
+  To me, a protein bar must meet 3 basic requirements
   <ol>
-    <li>At least 10g of <a href='/misc/protein'>protein</a> per 100cal, with <a href='/misc/protein'>protein</a> being the predominant macro nutrient</li>
+    <li>At least 10g of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calories</a>, with <a href='/misc/protein'>protein</a> being the predominant <a href='/misc/nutrient-alphabet'>macro nutrient</a></li>
     <li>No <a href='/misc/hidden-sugar'>added sugar</a></li>
     <li>Can be taken on the go</li>
   </ol>
-  These <a href='/misc/protein'>protein</a> bars meet all 3, as they clock in at just 100 <a href='/misc/calories'>calories</a> and have over 13g of <a href='/misc/protein'>protein</a>
+  These protein bars meet all 3, as they clock in at just 100 <a href='/misc/calories'>calories</a> and have over 13g of <a href='/misc/protein'>protein</a>
 Instructions:
-- In a large bowl, whisk together the dry ingredients - powdered peanut butter, whey, casein, coconut flour, cinnamon, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, and salt
 
-- Add in the wet ingredients (milk, syrup, and extract). Fold with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined. The mix should be slightly sticky
+- Add in the wet ingredients (<a href='/misc/dairy#skim-milk'>milk</a>, syrup, and extract). Fold with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined. The mix should be slightly sticky
 
-- Line a 9x5" bread pan with parchment paper, and evenly press the dough into the pan. Chill in the fridge for 3 hours before slicing.  Store in the fridge or freezer, wrapped in parchment paper
+- Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and evenly press the dough into the pan. Chill in the fridge for 3 hours before slicing.  Store in the fridge or freezer, wrapped in parchment paper
 Notes:
 ---
