@@ -56,23 +56,23 @@ tags:
 - cake
 - bread
 - food processor
-Description: If you want to have <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> for breakfast or a dessert, this recipe works as a great way to satisfy that craving while still hitting your <a href='/misc/protein'>protein</a> needs. This healthy cake has some healthy <a href='/misc/fats'>fats</a> in the <a href='/misc/seeds#chia-seeds'>chia</a> seeds and <a href='/misc/nuts#peanuts'>peanut</a> butter, and is free of <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>.  Some similar recipes are my <a href='/recipes/apple-bread'>Protein Apple Bread</a> or <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, which you should totally try
+Description: If you want to have <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> for <a href='/recipes/breakfast'>breakfast</a> or a <a href='/recipes/healthier-dessert'>dessert</a>, this recipe works as a great way to satisfy that craving while still hitting your <a href='/misc/protein'>protein</a> needs. This healthy cake has some <a href='/misc/fats'>healthy fats</a> in the <a href='/misc/seeds#chia-seeds'>chia seeds</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>, and is free of <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>.  Some similar recipes are my <a href='/recipes/apple-bread'>Protein Apple Bread</a> or <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, which you should totally try
 Instructions:
-- Preheat your oven to 350F.  Line a 9x5" bread pan with parchment paper, and lightly grease the paper
+- Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and lightly grease the paper
 
-- In a large bowl, whisk together all the wet ingredients until well combined - mashed banana, nut butter, sweetener, and milk (or water)
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the wet ingredients until well combined - mashed <a href='/misc/fruit#banana'>banana</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, sweetener, and <a href='/misc/dairy#skim-milk'>milk</a> (or water)
 
-- In a separate large bowl, whisk together all the dry ingredients until well combined - oat flour, whey protein, powdered peanut butter, chia seeds, baking powder, cinnamon, baking soda, and salt
+- In a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the dry ingredients until well combined - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, baking powder, cinnamon, baking soda, and salt
 
-- Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped nuts or chocolate chips (1/2 cup, 85 g).  Transfer the batter to the pan
+- Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped <a href='/misc/nuts'>nuts</a> or chocolate chips (1/2 cup, 85 g).  Transfer the batter to the pan
 
-- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing.  Transfer to a fridge in a bag or container
+- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>. Let cook on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> before slicing.  Transfer to a fridge in a bag or container
 - <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg' alt='' class='instruction-image'>
 Notes:
-- I've used 1 tsp (5 g) of liquid monk fruit here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/sugar free syrup, or 2 tbsp (25 g) granulated monk fruit
+- I've used 1 tsp (5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/<a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or 2 tbsp (25 g) <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>
 
-- Note that my powdered peanut butter is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
+- Note that my <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a> is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
 
-- You can also bake in a parchment lined, lightly oiled, 9" square baking pan as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the internal temperature is around 205F
+- You can also bake in a parchment lined, lightly oiled, <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>
 - <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg' alt='' class='instruction-image'>
 ---

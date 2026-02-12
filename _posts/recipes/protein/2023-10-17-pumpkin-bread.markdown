@@ -62,20 +62,20 @@ tags:
 - oats
 - oat flour
 - nutmeg
-Description: Fall season means <a href='/misc/veggies#pumpkin'>pumpkin</a> season, and this <a href='/misc/veggies#pumpkin'>pumpkin</a> loaf is full of <a href='/misc/protein'>protein</a>, and with a good amount of <a href='/misc/fiber'>fiber</a> and healthy <a href='/misc/fats'>fats</a> too. It's a great <a href='/recipes/breakfast'>breakfast</a> or <a href='/recipes/protein-powder'>dessert</a> that I think you'll enjoy.  You should also try my other fruity <a href='/misc/protein'>protein</a> cakes, such as <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a>, <a href='/recipes/apple-bread'>Protein Apple Bread</a>, or <a href='/recipes/carrot-cake'>Layered Protein Carrot Cake</a>.  For more pumpkin recipes, see my <a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>
+Description: Fall season means <a href='/misc/veggies#pumpkin'>pumpkin</a> season, and this <a href='/misc/veggies#pumpkin'>pumpkin</a> loaf is full of <a href='/misc/protein'>protein</a>, and with a good amount of <a href='/misc/fiber'>fiber</a> and <a href='/misc/fats'>healthy fats</a> too. It's a great <a href='/recipes/breakfast'>breakfast</a> or <a href='/recipes/healthier-dessert'>dessert</a> that I think you'll enjoy.  You should also try my other fruity <a href='/misc/protein'>protein</a> cakes, such as <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a>, <a href='/recipes/apple-bread'>Protein Apple Bread</a>, or <a href='/recipes/carrot-cake'>Layered Protein Carrot Cake</a>.  For more <a href='/misc/veggies#pumpkin'>pumpkin</a> recipes, see my <a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>
 Instructions:
-- Preheat your oven to 350F.  Line a 9x5" bread pan with parchment paper, and lightly grease the paper
+- Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and lightly grease the paper
 
-- In a large bowl, whisk together all the wet ingredients until well combined - pumpkin puree, nut butter, sweetener, and water (or milk)
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the wet ingredients until well combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, sweetener, and water (or <a href='/misc/dairy#skim-milk'>milk</a>)
 
-- In a separate large bowl, whisk together all the dry ingredients until well combined - oat flour, whey protein, powdered peanut butter, chia seeds, baking powder, cinnamon, baking soda, ginger, salt, and nutmeg
+- In a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the dry ingredients until well combined - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, baking powder, cinnamon, baking soda, <a href='/misc/veggies#ginger'>ginger</a>, salt, and nutmeg
 
 - Add the dry ingredients to the wet, and mix until just fully combined.  Transfer the batter to the pan
 
-- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the internal temperature is around 205F. Let cook on a wire rack before slicing
+- Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>. Let cook on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> before slicing
 - <img src='/assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-3.jpg' alt='' class='instruction-image'>
 Notes:
-- I've used 1 tsp (5 g) of liquid monk fruit here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/sugar free syrup, or 2 tbsp (25 g) granulated monk fruit
+- I've used 1 tsp (5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/<a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or 2 tbsp (25 g) <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>
 
-- Note that my powdered peanut butter is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
+- Note that my <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a> is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
 ---

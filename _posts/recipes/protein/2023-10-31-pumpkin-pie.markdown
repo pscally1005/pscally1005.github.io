@@ -57,16 +57,16 @@ tags:
 - plain nonfat greek yogurt
 - yogurt
 - gluten free
-Description: Alliterations aside, this pumpkin pie is made with a protein powder and <a href='/misc/grains#oats'>oat flour</a> crust, and features a filling of pumpkin puree, liquid monk fruit, and no added sugars. For some healthy <a href='/misc/fats'>fats</a>, mix some chopped <a href='/misc/nuts'>nuts</a> into the filling, or sprinkle on top of the pie.  For more pumpkin recipes, see my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>
+Description: Alliterations aside, this pumpkin pie is made with a <a href='/misc/dairy#whey'>protein powder</a> and <a href='/misc/grains#oats'>oat flour</a> crust, and features a filling of <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and no <a href='/misc/hidden-sugar'>added sugars</a>. For some <a href='/misc/fats'>healthy fats</a>, mix some chopped <a href='/misc/nuts'>nuts</a> into the filling, or sprinkle on top of the pie.  For more <a href='/misc/veggies#pumpkin'>pumpkin</a> recipes, see my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>
 Instructions:
-- Preheat your oven to 350F. Liberally grease a 9" metal pie pan with oil spray
+- Preheat your oven to 350F. Liberally grease a 9" metal pie pan with <a href='https://amzn.to/3Hdg0gk'>oil spray</a>
 
-- In a large bowl, mash your banana with the back of a fork. Mix in the rest of the crust ingredients - whey, casein, oat flour, cornstarch, monk fruit/stevia, cinnamon, baking powder, and optionally a dash of butter extract
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork. Mix in the rest of the crust ingredients - <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/grains#oats'>oat flour</a>, cornstarch, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit/stevia</a>, cinnamon, baking powder, and optionally a dash of butter extract
 
-- Spread the crust onto the bottom of the pan with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Make sure the crust is even, and spreads to all sides
+- Spread the crust onto the bottom of the pan with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Make sure the crust is even, and spread to all sides
 - <img src='/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-3.jpg' alt='' class='instruction-image'>
 
-- In your large bowl, mix together the filling ingredients (pumpkin puree, eggs, water, cinnamon, ginger, salt, nutmeg, cloves, yogurt, monk fruit or stevia, vanila, and whey). You can add a little butter extract to the filling if you want (as well as the crust)
+- In your <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the filling ingredients (<a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/meat#eggs'>eggs</a>, water, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, salt, nutmeg, cloves, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or stevia, vanila, and <a href='/misc/dairy#whey'>whey</a>). You can add a little butter extract to the filling if you want (as well as the crust)
 
 - Bake in a 350F oven for 25 minutes. Lower heat to 300F, and bake for an additional 15 minutes
 - <img src='/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-6.jpg' alt='' class='instruction-image'>

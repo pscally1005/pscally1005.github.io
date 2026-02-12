@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\protein"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\protein"
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meme"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\recipes\protein"
 
@@ -465,7 +465,10 @@ LINKS = {
   "coconut milks": "/misc/dairy#coconut-milk",
   "coconut milk": "/misc/dairy#coconut-milk",
   "fat free cottage cheeses": "/misc/dairy#cottage-cheese",
+  "fat free cottage cheese": "/misc/dairy#cottage-cheese",
+  "nonfat cottage cheeses": "/misc/dairy#cottage-cheese",
   "nonfat cottage cheese": "/misc/dairy#cottage-cheese",
+  "cottage cheeses": "/misc/dairy#cottage-cheese",
   "cottage cheese": "/misc/dairy#cottage-cheese",
   "whole milk cottage cheese": "/misc/dairy#cottage-cheese-whole-milk",
   "full fat cottage cheese": "/misc/dairy#cottage-cheese-whole-milk",
@@ -1550,6 +1553,10 @@ LINKS = {
   "bread lame": "https://amzn.to/43Cj65h",
   "razorblade": "https://amzn.to/43Cj65h",
   "liquid monk fruit": "https://amzn.to/3SqwsMO",
+  "liquid stevia or monk fruit": "https://amzn.to/3SqwsMO",
+  "liquid stevia (or monk fruit)": "https://amzn.to/3SqwsMO",
+  "liquid stevia/monk fruit": "https://amzn.to/3SqwsMO",
+  "liquid monk fruit/stevia": "https://amzn.to/3SqwsMO",
   "powdered peanut butter": "https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417",
   "peanut flour": "https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417",
   "powdered peanuts": "https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417",
@@ -1999,6 +2006,10 @@ LINKS = {
   # "protein powder": "/recipes/protein-powder",
   "protein powder desserts": "/recipes/protein-powder",
   "protein powder dessert": "/recipes/protein-powder",
+  "protein based desserts": "/recipes/protein-powder",
+  "protein based dessert": "/recipes/protein-powder",
+  "protein packed desserts": "/recipes/protein-powder",
+  "protein packed dessert": "/recipes/protein-powder",
   "protein desserts": "/recipes/protein-powder",
   "protein dessert": "/recipes/protein-powder",
   "protein snacks": "/recipes/protein-powder",
@@ -2321,7 +2332,7 @@ LINKS = {
   "low fat salad dressing": "/misc/fake-healthy-foods#low-fat",
   "low fat crackers": "/misc/fake-healthy-foods#low-fat",
   # "dips": "/misc/fake-healthy-foods#dips",
-  "dessert hummus": "/misc/fake-healthy-foods#dips",
+  # "dessert hummus": "/misc/fake-healthy-foods#dips",
   "movie theater or microwave popcorn": "/misc/fake-healthy-foods#popcorn",
   "movie theater popcorn": "/misc/fake-healthy-foods#popcorn",
   "movie popcorn": "/misc/fake-healthy-foods#popcorn",
@@ -2367,6 +2378,32 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "non-protein",
+    "your flour",
+    "spread to",
+    "apple bread",
+    "chickpea chows",
+    "dessert hummus",
+    "banana brownies",
+    "2 cookies",
+    "be baking",
+    "oat cookies",
+    "oat cookie",
+    "cookie ingredients",
+    "brownie ingredients",
+    "bread ingredients",
+    "traditional brownies",
+    "traditional brownie",
+    "traditional cookies",
+    "traditional cookie",
+    "black bean brownies",
+    "black bean brownie",
+    "chickpea brownies",
+    "chickpea brownie",
+    "chickpea blondies",
+    "chickpea blondie",
+    "bean brownies",
+    "bean brownie",
     "garlic or onion powders",
     "garlic or onion powder",
     "onion or garlic powders",

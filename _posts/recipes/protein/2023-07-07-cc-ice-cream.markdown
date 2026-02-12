@@ -55,9 +55,9 @@ tags:
 - cocoa powder
 - whey
 - protein powder
-Description: Cottage cheese ice cream is more than just an Internet food trend. It's a <a href='/misc/protein'>protein</a> packed copycat dessert that is filling and satisfied any ice cream cravings. This recipe adds in some <a href='/misc/protein'>protein</a> powder for even more of a <a href='/misc/protein'>protein</a> boost, and can be made in various flavors, like <a href='/misc/nuts#peanuts'>peanut</a> butter or mint chocolate.  For a dairy free healthy ice cream, make some <a href='/recipes/nice-cream'>Banana Nice Cream</a>
+Description: <a href='/misc/dairy#cottage-cheese'>Cottage cheese</a> ice cream is more than just an Internet food trend. It's a <a href='/recipes/protein-powder'>protein packed dessert</a> that is filling and satisfies any ice cream cravings. This recipe adds in some <a href='/misc/dairy#whey'>protein powder</a> for even more of a <a href='/misc/protein'>protein</a> boost, and can be made in various flavors, like <a href='/misc/nuts#peanuts'>peanut butter</a> or mint chocolate.  For a dairy free healthy ice cream, make some <a href='/recipes/nice-cream'>Banana Nice Cream</a>
 Instructions:
-- Mix base ingredients together in a tupperware or small blender - cottage cheese, whey, stevia, and vanilla
+- Mix base ingredients together in a tupperware or small <a href='https://amzn.to/4bO4VQ3'>blender</a> - <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#whey'>whey</a>, sweetener, and vanilla
 
 - Choose a flavor and mix in ingredients (see <a href='#notes'>notes</a> below)
 - <img src='/assets/Food/Protein Powder/Cottage Cheese Ice Cream/cc-cream-1.jpg' alt='' class='instruction-image'>
@@ -66,11 +66,7 @@ Instructions:
 
 - Store in the freezer. Let sit out for about 20 minutes to soften before eating
 Notes:
-- |
-  Here are some example flavors
-  <ul>
-    <li><b>Peanut Butter Chocolate</b> - 1 tbsp (16 g) natural peanut butter, 2 tbsp (10 g) cocoa powder, and a dash of almond extract</li>
+- <b><a href='/misc/nuts#peanuts'>Peanut Butter</a> Chocolate</b> - 1 tbsp (16 g) <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, 2 tbsp (10 g) <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and a dash of almond extract
 
-    <li><b>Mint Chocolate</b> - 2 drops of mint extract, and 2 tbsp (10 g) cocoa powder</li>
-  </ul>
+- <b>Mint Chocolate</b> - 2 drops of mint extract, and 2 tbsp (10 g) <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
 ---

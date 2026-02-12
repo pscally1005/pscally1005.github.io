@@ -52,16 +52,18 @@ tags:
 - crust
 - cake
 - chocolate chip
-Description: This <a href='/misc/nuts#peanuts'>peanut</a> butter cheesecake is a great <a href='/misc/celiac'>gluten free</a> and high <a href='/misc/protein'>protein</a> dessert option. It as work as a <a href='/misc/protein'>protein</a> bar too, as it even has more than 10 of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calories</a>. Fold in some chocolate chips or serve with some <a href='/recipes/natural-peanut-butter'>peanut butter</a> and berries to mix it up.  This cheesecake doesn't have a crust, but if you want one, see my <a href='/recipes/peanut-butter-pie'>Peanut Butter Banana Pie</a> for a standard pie crust, or my <a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a> for a high <a href='/misc/protein'>protein</a> pie crust
+Description: This <a href='/misc/nuts#peanuts'>peanut butter</a> cheesecake is a great <a href='/misc/celiac'>gluten free</a> and <a href='/misc/high-protein'>high protein</a> <a href='/recipes/healthier-dessert'>dessert</a> option. It as work as a protein bar too, as it even has more than 10 of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calories</a>. Fold in some chocolate chips or serve with some <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/fruit#blueberries'>berries</a> to mix it up
 Instructions:
-- Mix ingredients together in a bowl or food processor until smooth - whipped fat free cottage cheese, banana, powdered peanut butter, cornstarch, vanilla, and sweetener
+- Mix ingredients together in a bowl or <a href='https://amzn.to/4q0AUjI'>food processor</a> until smooth - whipped <a href='/misc/dairy#cottage-cheese'>fat free cottage cheese</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, cornstarch, vanilla, and sweetener
 
-- Line an 9" pie pan with parchment paper and spray. Pour in the mixture and even out. Optionally top with chocolate chips (2 tbsp, 30 g)
+- Line an <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> with parchment paper and <a href='https://amzn.to/3Hdg0gk'>spray</a>. Pour in the mixture and even out. Optionally top with chocolate chips (2 tbsp, 30 g)
 
 - Bake for about 25-30 minutes at 350F. The center should lightly jiggle when the side of the pan is tapped. If it jiggles too much, continue to bake for an additional few minutes
 - <img src='/assets/Food/Protein Powder/Cheesecake/cheesecake-3.jpg' alt='' class='instruction-image'>
 
 - Place the pan in the fridge overnight. Cut into pieces. Flash freeze, and store slices in a ziploc bag in the freezer
 Notes:
-- Can serve with a side of berries and topped with melted peanut butter
+- This cheesecake doesn't have a crust, but if you want one, see my <a href='/recipes/peanut-butter-pie'>Peanut Butter Banana Pie</a> for a standard pie crust, or my <a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a> for a <a href='/misc/high-protein'>high protein</a> pie crust
+
+- You can serve with a <a href='/recipes/sides'>side</a> of <a href='/misc/fruit#blueberries'>berries</a> and topped with melted <a href='/misc/nuts#peanuts'>peanut butter</a>
 ---
