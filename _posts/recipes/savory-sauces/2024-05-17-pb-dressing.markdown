@@ -53,9 +53,9 @@ tags:
 - soy sauce
 - balsamic vinegar
 - protein
-Description: This salad contains a base of <a href='/misc/veggies#lettuce'>lettuce</a> and <a href='/misc/veggies#tomato'>tomatoes</a>, and is topped with hard boiled eggs, kimchi, and a <a href='/misc/nuts#peanuts'>peanut</a> chili dressing. It's a delicious and quick lunch that's healthy and full of flavor.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
+Description: This <a href='/salad'>salad</a> contains a base of <a href='/misc/veggies#lettuce'>lettuce</a> and <a href='/misc/veggies#tomato'>tomatoes</a>, and is topped with hard boiled <a href='/misc/meat#eggs'>eggs</a>, kimchi, and a peanut chili <a href='/salad-dressings'>dressing</a>. It's a delicious and quick lunch that's healthy and full of flavor.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
 Instructions:
-- In a small glass, mix together the dressing - powdered peanut butter, gochujang, soy sauce, vineger, and ground ginger. Thin out with water, and pour over your salad
+- In a small glass, mix together the <a href='/salad-dressings'>dressing</a> - <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, gochujang, soy sauce, vineger, and ground <a href='/misc/veggies#ginger'>ginger</a>. Thin out with water, and pour over your <a href='/salad'>salad</a>
 - <img src='/assets/Food/Savory Sauces/PB Dressing/glass.jpg' alt='' class='instruction-image'>
 Notes:
 ---

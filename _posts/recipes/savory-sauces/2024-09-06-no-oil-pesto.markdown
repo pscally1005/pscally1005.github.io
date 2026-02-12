@@ -58,18 +58,18 @@ tags:
 - parmesan cheese
 - parmesan cheese
 - nutritional yeast
-Description: Delicious pesto for a fraction of the <a href='/misc/calories'>calories</a>!  Yes it's possible; this pesto is oil free, but still made with <a href='/misc/nuts#pine-nuts'>pine nuts</a>, basil, garlic, and <a href='/misc/dairy#grated-cheese'>grated cheese</a>.  It's a great sauce, spread, or salad dressing, and full of the same nutty, cheese, and lemon flavor that you love.  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of oil, different kinds of nuts, vegan versions, and high <a href='/misc/protein'>protein</a> versions
+Description: Delicious <a href='/pesto'>pesto</a> for a fraction of the <a href='/misc/calories'>calories</a>!  Yes it's possible; this <a href='/pesto'>pesto</a> is <a href='/misc/fats'>oil</a> free, but still made with <a href='/misc/nuts#pine-nuts'>pine nuts</a>, basil, <a href='/misc/veggies#garlic'>garlic</a>, and <a href='/misc/dairy#grated-cheese'>grated cheese</a>.  It's a great sauce, spread, or <a href='/salad-dressings'>salad dressing</a>, and full of the same nutty, <a href='/misc/dairy#mozzarella'>cheese</a>, and <a href='/misc/fruit#lemon'>lemon</a> flavor that you love.  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of <a href='/misc/fats'>oil</a>, different kinds of <a href='/misc/nuts'>nuts</a>, vegan versions, and <a href='/misc/high-protein'>high protein</a> versions
 Instructions:
-- In a small pan over medium heat, toast your nuts until fragrant and lightly browned
+- In a <a href='https://amzn.to/4qFE9y3'>small pan</a> over medium heat, toast your <a href='/misc/nuts'>nuts</a> until fragrant and lightly browned
 
-- Add all ingredients (except lemon juice) to a food processor, and blend until chopped and combined. Slowly add the lemon, and blend until creamy
+- Add all ingredients (except <a href='/misc/fruit#lemon-juice'>lemon juice</a>) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until chopped and combined. Slowly add the <a href='/misc/fruit#lemon'>lemon</a>, and blend until creamy
 
-- Store in the fridge, or you can freeze any extra (pesto freezes well)
+- Store in the fridge, or you can freeze any extra (<a href='/pesto'>pesto</a> freezes well)
 - <img src='/assets/Food/Savory Sauces/Basil Pesto/basil-pesto.jpg' alt='' class='instruction-image'>
 Notes:
-- If basil is too expensive, either fresh or frozen spinach will work as well!
+- If basil is too expensive, either fresh or <a href='/misc/veggies#spinach-fresh'>frozen spinach</a> will work as well!
 
-- To make it nut free, replace the nuts (either pine nuts or walnuts) with seeds, like pumpkin seeds or sunflower seeds
+- To make it <a href='/misc/nuts'>nut</a> free, replace the <a href='/misc/nuts'>nuts</a> (either <a href='/misc/nuts#pine-nuts'>pine nuts</a> or <a href='/misc/nuts#walnuts'>walnuts</a>) with <a href='/misc/seeds'>seeds</a>, like <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seeds</a>
 
-- For a vegan version, use nutritional yeast in place of grated cheese
+- For a vegan version, use nutritional yeast in place of <a href='/misc/dairy#grated-cheese'>grated cheese</a>
 ---

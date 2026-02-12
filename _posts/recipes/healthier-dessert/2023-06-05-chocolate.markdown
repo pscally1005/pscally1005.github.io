@@ -49,7 +49,7 @@ tags:
 - unsweetened
 - vanilla
 - bark
-Description: When recipes call for <a href='/misc/overshadowed-healthy-foods#chocolate'>dark chocolate</a> or chocolate chips, I typically make some variation of this recipe.  This chopped up bar of chocolate works great as a replacement for chocolate chips in all recipes, such as <a href='/recipes/date-brownie'>Almond Butter Date Brownies</a>, <a href='/recipes/edible-cookie-dough-bites'>Edible Cookie Dough Bites</a>, or my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>.  Each serving is half an ounce (14 g)
+Description: When recipes call for <a href='/misc/overshadowed-healthy-foods#chocolate'>dark chocolate</a> or chocolate chips, I typically make some variation of this recipe.  This chopped up bar of chocolate works great as a replacement for chocolate chips in all recipes, such as <a href='/recipes/date-brownie'>Almond Butter Date Brownies</a>, <a href='/recipes/edible-cookie-dough-bites'>Edible Cookie Dough Bites</a>, or my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a>
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>glass bowl</a>, melt the <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave for about 1 minute.  Stir in <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> until smooth.  Optionally, add a small pinch of salt
 - <img src='/assets/Food/Healthier Dessert/Choc Bar/bowl.jpg' alt='' class='instruction-image'>

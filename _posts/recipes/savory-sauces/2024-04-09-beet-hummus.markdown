@@ -55,12 +55,12 @@ tags:
 - paprika
 Description: I love <a href='/hummus'>hummus</a>; it's easily my favorite dip for <a href='/misc/veggies'>vegetables</a> and <a href='/salad-dressings'>dressing</a> for <a href='/salad'>salad</a>. Lately I've been experimenting with other flavors, so I've made this roasted <a href='/misc/veggies#beets'>beet</a> <a href='/hummus'>hummus</a>.  <a href='/misc/veggies#beets'>Beets</a> give this <a href='/hummus'>hummus</a> a mild sweet taste, while making them creamy and vibrant red.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
 Instructions:
-- Cut the ends off your beets, wrap in aluminum foil, and bake wrapped beets at 400F for 40 mins or until a knife goes through with ease
+- Cut the ends off your <a href='/misc/veggies#beets'>beets</a>, wrap in aluminum foil, and bake wrapped <a href='/misc/veggies#beets'>beets</a> at 400F for 40 mins or until a <a href='https://amzn.to/4jlDKwc'>knife</a> goes through with ease
 - <img src='/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-1.jpg' alt='' class='instruction-image'>
 
-- Combine roasted beets (with skins!) with the rest of ingredients in a food processor, and blend until smooth
+- Combine roasted <a href='/misc/veggies#beets'>beets</a> (with skins!) with the rest of ingredients in a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
 - <img src='/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-2.jpg' alt='' class='instruction-image'>
 Notes:
-- Optionally, saute the stems and leaves with a little salt and olive oil until crispy, and use as a garnish on top of your hummus
+- Optionally, saute the stems and leaves with a little salt and olive oil until crispy, and use as a garnish on top of your <a href='/hummus'>hummus</a>
 - <img src='/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-3.jpg' alt='' class='instruction-image'>
 ---

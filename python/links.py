@@ -2091,6 +2091,8 @@ LINKS = {
   "commercial bbq sauce": "/misc/fake-healthy-foods#dips",
   "bbq sauces": "/misc/fake-healthy-foods#dips",
   "bbq sauce": "/misc/fake-healthy-foods#dips",
+  "barbeque sauces": "/misc/fake-healthy-foods#dips",
+  "barbeque sauce": "/misc/fake-healthy-foods#dips",
   # "dark chocolate": "/misc/fake-healthy-foods#chocolate",
   "chocolate (less than 70%)": "/misc/fake-healthy-foods#chocolate",
   "sugar alcohols erythritol": "/misc/fake-healthy-foods#sugar-substitutes",
@@ -2396,6 +2398,14 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "400 g of ketchup",
+    "favorite spreads and sauces",
+    "peanut chili",
+    "store-bought hummus",
+    "storebought hummus",
+    "store bought hummus",
+    "orange hue",
+    "stems (and seeds",
     "my bbq sauce",
     "the banana bread should",
     "the glaze",
@@ -2445,6 +2455,7 @@ EXCLUDED_PHRASES = [
     "tuna-salad-salad",
     "tuna-salad",
     "french onion soup",
+    "french onion dip",
     "buffalo chicken",
     "spinach artichoke",
     '"meat"-loaf',
@@ -3822,7 +3833,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

@@ -64,6 +64,6 @@ Instructions:
 
 - Drain and rinse the chickpeas, and add to a food processor. Squeeze the cloves of garlic out of the head into the food processor. Blend the garlic and chickpeas with the lemon juice and almond butter (or tahini) until smooth
 
-- Season with nutritional yeast and your spices, and blend to combine. Adjust anything to taste, and store in the fridge.  Each serving is about 2 tbsp (30 g)
+- Season with nutritional yeast and your spices, and blend to combine. Adjust anything to taste, and store in the fridge
 Notes:
 ---

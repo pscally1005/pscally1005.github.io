@@ -54,18 +54,20 @@ tags:
 - nooch
 - grated cheese
 - parmesan
-Description: Anyone else love <a href='/pesto'>pesto</a>, but hate how oily it is? I've made lower oil pesto before, but now I'm fully going none, and instead using <a href='/misc/fruit#avocado'>avocado</a> for my <a href='/misc/fats'>fat</a>. Hey look, I actually used <a href='/misc/nuts#pine-nuts'>pine nuts</a> here too! (not <a href='/misc/nuts#peanuts'>peanuts</a> this time lol, but I won't judge).  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of oil, different kinds of <a href='/misc/nuts'>nuts</a>, vegan versions, and high <a href='/misc/protein'>protein</a> versions
+Description: Anyone else love <a href='/pesto'>pesto</a>, but hate how oily it is? I've made lower <a href='/misc/fats'>oil</a> <a href='/pesto'>pesto</a> before, but now I'm fully going none, and instead using <a href='/misc/fruit#avocado'>avocado</a> for my <a href='/misc/fats'>fat</a>. Hey look, I actually used <a href='/misc/nuts#pine-nuts'>pine nuts</a> here too! (not <a href='/misc/nuts#peanuts'>peanuts</a> this time lol, but I won't judge).  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of <a href='/misc/fats'>oil</a>, different kinds of <a href='/misc/nuts'>nuts</a>, vegan versions, and <a href='/misc/high-protein'>high protein</a> versions
 Instructions:
-- In a dry pan over medium heat, toast your pine nuts (1 oz is about 1/4 cup) for about 3 minutes, until they are fragrant and begin to brown. Any other nuts will work here; or use pumpkin seeds to make it nut free. Transfer to a food processor
+- In a dry pan over medium heat, toast your <a href='/misc/nuts#pine-nuts'>pine nuts</a> (1 oz is about 1/4 cup) for about 3 minutes, until they are fragrant and begin to brown.  Transfer to a <a href='https://amzn.to/4q0AUjI'>food processor</a>
 - <img src='/assets/Food/Savory Sauces/Avo Pesto/nuts.jpg' alt='' class='instruction-image'>
 
-- Blend the nuts with the rest of the ingredients until a smooth sauce forms. I've used fresh spinach here, but frozen spinach or fresh basil will work just as well. Grated cheese will work in place of nutritional yeast. Thin with water or lemon juice if desired
+- Blend the <a href='/misc/nuts'>nuts</a> with the rest of the ingredients until a smooth sauce forms. I've used fresh <a href='/misc/veggies#spinach-fresh'>spinach</a> here, but <a href='/misc/veggies#spinach-fresh'>frozen spinach</a> or fresh basil will work just as well. <a href='/misc/dairy#grated-cheese'>Grated cheese</a> will work in place of nutritional yeast. Thin with water or <a href='/misc/fruit#lemon-juice'>lemon juice</a> if desired
 
 - Transfer to an airtight container, and store in the fridge
 Notes:
-- This avocado pesto works great as a pizza sauce, which I've done below on my <a href='/recipes/cloud-bread'>Low Carb Cloud Bread</a>
+- Any other <a href='/misc/nuts'>nuts</a> will work here; or use <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a> to make it <a href='/misc/nuts'>nut</a> free.
+
+- This <a href='/misc/fruit#avocado'>avocado</a> <a href='/pesto'>pesto</a> works great as a <a href='/misc/fake-healthy-foods#sauces'>pizza sauce</a>, which I've done below on my <a href='/recipes/cloud-bread'>Low Carb Cloud Bread</a>
 - <img src='/assets/Food/Bread/Cloud Bread/cloud-cover.jpg' alt='' class='instruction-image'>
 
-- Pesto makes a great sauce for spaghetti squash.  Just like with my <a href='/recipes/vegan-mac-and-cheese'>'Mac' and 'Cheese'</a>, you can mix it with roasted spaghetti squash for a delicious and healthier <a href='/misc/grains#pasta-white'>pasta</a> alternative!
+- <a href='/pesto'>Pesto</a> makes a great sauce for <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>.  Just like with my <a href='/recipes/vegan-mac-and-cheese'>'Mac' and 'Cheese'</a>, you can mix it with roasted <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> for a delicious and healthier <a href='/misc/grains#pasta'-white>pasta</a> alternative!
 - <img src='/assets/Food/Savory Sauces/Avo Pesto/spaghetti-squash.jpg' alt='' class='instruction-image'>
 ---

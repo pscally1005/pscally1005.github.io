@@ -59,9 +59,9 @@ tags:
 - creamy
 - ceasar
 - mayo
-Description: This <a href='/misc/fake-healthy-foods#salad-dressing'>salad dressing</a> still packs healthy <a href='/misc/fats'>fats</a> while being vegan and oil free.  It feels like a vegan Caesar dressing, using <a href='/misc/fruit#avocado'>avocado</a> and <a href='/misc/fruit#olives'>olives</a> instead of <a href='/misc/fake-healthy-foods#condiments'>mayo</a> and <a href='/misc/fish#anchovy'>anchovies</a>.  It's perfectly tangy and sweet from the balsamic, creamy from the <a href='/misc/fruit#avocado'>avocado</a>, and "cheesy" from the nutritional yeast.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
+Description: This <a href='/salad-dressings'>salad dressing</a> still packs <a href='/misc/fats'>healthy fats</a> while being vegan and <a href='/misc/fats'>oil</a> free.  It feels like a vegan <a href='/misc/fake-healthy-foods#salad-dressing'>Caesar dressing</a>, using <a href='/misc/fruit#avocado'>avocado</a> and <a href='/misc/fruit#olives'>olives</a> instead of <a href='/misc/fake-healthy-foods#dips'>mayo</a> and <a href='/misc/fish#anchovy'>anchovies</a>.  It's perfectly tangy and sweet from the balsamic, creamy from the <a href='/misc/fruit#avocado'>avocado</a>, and "cheesy" from the nutritional yeast.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
 Instructions:
-- Blend all ingredients in a small food processor until smooth. Adjust consistency by adding water if necessary, and add salt to taste if necessary (I thought it was good as is). Transfer to a container, and store in the fridge
+- Blend all ingredients in a <a href='https://amzn.to/3VHhgMM'>small food processor</a> until smooth. Adjust consistency by adding water if necessary, and add salt to taste if necessary (I thought it was good as is). Transfer to a container, and store in the fridge
 - <img src='/assets/Food/Savory Sauces/Olivcado/olivcado-1.jpg' alt='' class='instruction-image'>
 Notes:
 ---

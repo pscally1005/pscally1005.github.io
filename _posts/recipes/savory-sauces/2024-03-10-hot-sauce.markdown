@@ -54,14 +54,14 @@ tags:
 - distilled
 Description: I love Frank's hot sauce, I probably do actually put that shit on everything. Here's a simple 3 ingredient recreation of it. It's easy, spicy, and delicious.  I used this batch as the hot sauce on my homemade <a href='/recipes/chicken-wings'>Gluten Free Baked Buffalo Wings</a> the other day, and they were the best wings I've ever had!
 Instructions:
-- Remove the stems (and seeds optionally, if you want to reduce the spice) from the peppers, and roughly chop into a large dice. They'll be blended later, so the size doesn't really matter
+- Remove the stems (and seeds optionally, if you want to reduce the spice) from the <a href='/misc/veggies#pepper'>peppers</a>, and roughly chop into a large dice. They'll be blended later, so the size doesn't really matter
 
-- In a medium saucepot over high heat, combine the peppers, vinegar, and salt. Cover, bring to a boil, then reduce the heat to medium and let simmer for 10 minutes, or until the peppers are soft. Remove the cover, and let cool for 10 minutes
+- In a <a href='https://amzn.to/46ccg8m'>medium saucepot</a> over high heat, combine the <a href='/misc/veggies#pepper'>peppers</a>, vinegar, and salt. Cover, bring to a boil, then reduce the heat to medium and let simmer for 10 minutes, or until the <a href='/misc/veggies#pepper'>peppers</a> are soft. Remove the cover, and let cool for 10 minutes
 - <img src='/assets/Food/Savory Sauces/Hot Sauce/hot-sauce-2.jpg' alt='' class='instruction-image'>
 
-- Transfer the mixture to a blender or food processor, then blend until smooth
+- Transfer the mixture to a <a href='https://amzn.to/4bO4VQ3'>blender</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>, then blend until smooth
 
-- Strain the hot sauce through a fine mesh strainer into a mason jar. Use a wooden spoon to grind out all of the liquid. Discard the pulp. Refrigerate for 2 weeks before using
+- Strain the hot sauce through a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a> into a mason jar. Use a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> to grind out all of the liquid. Discard the pulp. Refrigerate for 2 weeks before using
 - <img src='/assets/Food/Savory Sauces/Hot Sauce/hot-sauce-3.jpg' alt='' class='instruction-image'>
 
 - Store in the refrigerator for up to 4 months.

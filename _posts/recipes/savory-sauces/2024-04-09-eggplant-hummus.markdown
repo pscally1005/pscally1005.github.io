@@ -58,12 +58,12 @@ tags:
 - garlic
 - paprika
 - cumin
-Description: This is 50% <a href='/hummus'>hummus</a>, 50% <a href='/recipes/babaganoush'>babaganoush</a>, and 100% delicious. Roasted <a href='/misc/veggies#eggplant'>eggplant</a> in <a href='/hummus'>hummus</a> provides great creaminess and fantastic flavor without the need for oil. The subtle flavor of <a href='/misc/nuts#almonds'>almond</a> butter adds some necessary <a href='/misc/fats'>fats</a>, and complements everything else perfectly.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
+Description: This is 50% <a href='/hummus'>hummus</a>, 50% <a href='/recipes/babaganoush'>babaganoush</a>, and 100% delicious. Roasted <a href='/misc/veggies#eggplant'>eggplant</a> in <a href='/hummus'>hummus</a> provides great creaminess and fantastic flavor without the need for <a href='/misc/fats'>oil</a>. The subtle flavor of <a href='/misc/nuts#almonds'>almond butter</a> adds some necessary <a href='/misc/fats'>fats</a>, and complements everything else perfectly.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a> or <a href='/hummus'>hummus recipes</a>!
 Instructions:
-- Cut your eggplant in half, and add to a parchment lined cookie sheet. Bake cut side down at 400F for about 40 minutes, or until eggplant is soft and collapses
+- Cut your <a href='/misc/veggies#eggplant'>eggplant</a> in half, and add to a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Bake cut side down at 400F for about 40 minutes, or until <a href='/misc/veggies#eggplant'>eggplant</a> is soft and collapses
 - <img src='/assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-1.jpg' alt='' class='instruction-image'>
 
-- Combine baked eggplant (with skin!), with the rest of the ingredients in a food processor. Blend until super smooth. Garnish with olives and feta, and transfer to an airtight container to store in the fridge
+- Combine baked <a href='/misc/veggies#eggplant'>eggplant</a> (with skin!), with the rest of the ingredients in a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until super smooth. Garnish with <a href='/misc/fruit#olives'>olives</a> and <a href='/misc/dairy#feta'>feta</a>, and transfer to an airtight container to store in the fridge
 - <img src='/assets/Food/Savory Sauces/Eggplant Hummus/eggplant-hummus-2.jpg' alt='' class='instruction-image'>
 Notes:
 ---
