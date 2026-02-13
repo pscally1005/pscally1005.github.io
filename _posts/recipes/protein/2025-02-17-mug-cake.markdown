@@ -61,15 +61,7 @@ Instructions:
 Notes:
 - Make sure to use a big enough mug.  There should be enough room for the mug cake to roughly double in height when cooked
 
-- |
-  Optionally toppings
-  <ul>
-    <li>1 tsp (6 g) <a href='/recipes/natural-peanut-butter'>Peanut butter</a></li>
-
-    <li>1 tsp (5 g) Chopped nuts</li>
-
-    <li>1 tsp (5 g) Mini chocolate chips</li>
-
-    <li>1 tsp (7 g) Honey</li>
-  </ul>
+- Optionally toppings include the following
 ---
+{% assign i = site.data['mugcaketoppings-ing'] %}
+{% include ingredients.html ing=i recipe="false" %}

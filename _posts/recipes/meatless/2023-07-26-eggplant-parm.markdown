@@ -53,7 +53,7 @@ tags:
 - gluten free
 - casserole
 - ricotta
-Description: This eggplant parmesan recipe cuts out the unnecessary breading and frying of the <a href='/misc/veggies#eggplant'>eggplant</a>. This not only makes it simpler, but healthier as well without all the <a href='/misc/fats'>added oils</a> (and makes it <a href='/misc/celiac'>gluten free</a> too!). This great <a href='/recipes/meatless'>meatless dish</a> works well as a <a href='/recipes/sides'>side</a> or on a sandwich as well.
+Description: This eggplant parmesan recipe cuts out the unnecessary breading and frying of the <a href='/misc/veggies#eggplant'>eggplant</a>. This not only makes it simpler, but healthier as well without all the <a href='/misc/fats'>added oils</a> (and makes it <a href='/misc/celiac'>gluten free</a> too!). This great <a href='/recipes/meatless'>meatless dish</a> works well as a <a href='/recipes/sides'>side</a> or on a sandwich as well.  For other healthier Italian dishes, check out my <a href='/recipes/recipes/vegetaria-protein-lasagna'>Vegetarian Protein Lasagna</a> and <a href='/recipes/eggplant-rollatini'>Leaner Eggplant Rollatini</a>
 Instructions:
 - Start by making the sauce if you don't have any already made.  I prefer to use my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>.  You can also use a can or jar of sauce too
 

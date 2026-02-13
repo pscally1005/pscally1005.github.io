@@ -29,7 +29,7 @@ def fix(vol):
         v = "1/2 tsp"
     elif vol == "0.75 tsp" or vol == "0.25 tbsp (15.0 ml) aprx" or vol == "0.25 tbsp" or vol == "3/4 tsp, ground" or vol == "0.75 tsp, ground" or vol == "3/4 tsp, leaves" or vol == "0.75 tsp, leaves" or vol == "0.75 tsp | about" or vol == "0.75 tsp (1.2 ml) aprx" or vol == "0.75 teaspoon" or vol == "3 1/4 tsp":
         v = "3/4 tsp"
-    elif vol == "0.0208 cup" or vol == "1 teaspoonsful (10.0 ml) aprx" or vol == "1.2 tsp" or vol == "1.1 tsp" or vol == "1 tsp (1.0 ml) aprx" or vol == "0.33 tbsp" or vol == "1.15 tsp" or vol == "8 1/8 tsp" or vol == "0.33 tbsp (15.0 ml) aprx" or vol == "0.25 tbsp" or vol == "1 tsp (5.0 ml) aprx" or vol == "1 tsp, leaves" or vol == "1 tsp, ground" or vol == "1 tsp | about" or vol == "1 tsp (1.2 ml) aprx" or vol == "1 teaspoon" or vol == "0.33 tablespoon" or vol == "4 1/4 tsp" or vol == "1 tsp aprx":
+    elif vol == "0.334 tbsp" or vol == "0.0208 cup" or vol == "1 teaspoonsful (10.0 ml) aprx" or vol == "1.2 tsp" or vol == "1.1 tsp" or vol == "1 tsp (1.0 ml) aprx" or vol == "0.33 tbsp" or vol == "1.15 tsp" or vol == "8 1/8 tsp" or vol == "0.33 tbsp (15.0 ml) aprx" or vol == "0.25 tbsp" or vol == "1 tsp (5.0 ml) aprx" or vol == "1 tsp, leaves" or vol == "1 tsp, ground" or vol == "1 tsp | about" or vol == "1 tsp (1.2 ml) aprx" or vol == "1 teaspoon" or vol == "0.33 tablespoon" or vol == "4 1/4 tsp" or vol == "1 tsp aprx":
         v = "1 tsp"
     elif vol == "5 1/4 tsp":
         v = "1 1/4 tsp"

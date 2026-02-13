@@ -65,15 +65,11 @@ Notes:
 
 - This ice cream can be eaten directly out of the freezer.  It doesn't need to sit out before scooping, but it will melt quickly.  Its texture is similar to a chocolate Italian ice
 
-- |
-  Other sweetener options include the following
-  <ul>
-    <li>2 tbsp (40 g) Maple syrup</li>
-    <li>2 tbsp (42 g) Honey</li>
-    <li>2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>Sugar Free Syrup</a></li>
-    <li>2 tbsp (24 g) Granulated Monk Fruit</li>
-  </ul>
+- Other sweetener options include the following
 ---
+{% assign i = site.data['sweetenersaquafabaicecream-ing'] %}
+{% include ingredients.html ing=i recipe="false" %}
+<br>
 
 {% assign files =
     "aquafabaicecreammaplesyrup,"
