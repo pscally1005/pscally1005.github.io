@@ -11,6 +11,8 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\sweet-spreads"
 LINKS = {
 
   # RECIPES
+  "apple spread": "/recipes/apple-spread",
+  "appe butter": "/recipes/apple-spread",
   "chocolate almond butter": "/recipes/chocolate-almond-butter",
   "maple cinnamon peanut butter": "/recipes/maple-cinnamon-peanut-butter",
   "white chocolate walnut butter": "/recipes/white-chocolate-walnut-butter",
@@ -2425,6 +2427,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "PB&J",
+    "PBJ",
     "strawberry jam",
     "cranberry sauce",
     "scale it up",
@@ -3890,7 +3894,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2023")):
                 continue
 
             # exclude some files

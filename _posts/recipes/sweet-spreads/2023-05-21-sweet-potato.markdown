@@ -52,9 +52,9 @@ tags:
 - pumpkin spice
 - mashed sweet potato
 Description: |
-  This is less of a recipe and more of a method, as you'd probably use <a href='/misc/veggies#sweet-potato'>sweet potato</a> puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> in my baked goods with this for a delicious fall twist
-  <br><br>
-  Similar is my <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a>, which can also be used just like sweet potato puree!  Below are some great pumpkin or sweet potato recipes that you can use your puree on
+  This is less of a recipe and more of a method, as you'd probably use <a href='/misc/veggies#sweet-potato'>sweet potato</a> puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> in my baked goods with this for a delicious fall twist<br><br>
+
+  Similar is my <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a>, which can also be used just like <a href='/misc/veggies#sweet-potato'>sweet potato</a> puree!  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a> or <a href='/misc/veggies#sweet-potato'>sweet potato</a> recipes that you can use your puree on
   <ul>
     <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
     <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>
@@ -67,11 +67,11 @@ Description: |
     <li><a href='/recipes/pumpkin-cake'>Frosted Pumpkin Cake</a></li>
   </ul>
 Instructions:
-- Wash the potatoes. Prick with a fork all over about 10 times, and wrap in aluminum foil
+- Wash the <a href='/misc/veggies#potato'>potatoes</a>. Prick with a fork all over about 10 times, and wrap in aluminum foil
 
-- Bake in the oven for 90 minutes at 400F until very soft. You can also air fry at 400F for 1 hour. Slice open, and allow to steam out for a few minutes
+- Bake in the oven for 90 minutes at 400F until very soft. You can also <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 1 hour. Slice open, and allow to steam out for a few minutes
 
-- Cut off the ends, and transfer the rest of the potatoes (with the skins!!) to a food processor.  Blend until smooth
+- Cut off the ends, and transfer the rest of the <a href='/misc/veggies#potato'>potatoes</a> (with the skins!!) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Blend until smooth
 Notes:
-- You can also turn this into mashed sweet potatoes. Season to taste with garlic powder, onion powder, black pepper, salt, paprika, and parsley
+- You can also turn this into mashed <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Season to taste with garlic powder, onion powder, black pepper, salt, paprika, and parsley
 ---

@@ -53,14 +53,16 @@ tags:
 - cinnamon
 - dip
 - cookie dough dip
-Description: Dessert hummus is a great sweet way to enjoy <a href='/misc/beans#chickpeas'>chickpeas</a>. It works really well as a spread on <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>, as a dip for fruit, on a PB&J, or in your morning <a href='/yogurt'>yogurt</a> or <a href='/oatmeal'>oatmeal</a>. It's naturally sweetened with <a href='/misc/fruit#banana'>bananas</a>, get healthy <a href='/misc/fats'>fats</a> and <a href='/misc/protein'>protein</a> from the <a href='/misc/nuts#peanuts'>peanut</a> butter, and <a href='/misc/fiber'>fiber</a> from the chickpeas.  It also works as a great filling for a <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>.  Or check out any of my other <a href='/salad-dressings'>hummus recipes</a>!
+Description: Dessert hummus is a great sweet way to enjoy <a href='/misc/beans#chickpeas'>chickpeas</a>. It works really well as a spread on <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>, as a dip for <a href='/misc/fruit'>fruit</a>, on a PB&J, or in your <a href='/yogurt'>morning yogurt</a> or <a href='/oatmeal'>oatmeal</a>. It's naturally sweetened with <a href='/misc/fruit#banana'>bananas</a>, get <a href='/misc/fats'>healthy fats</a> and <a href='/misc/protein'>protein</a> from the <a href='/misc/nuts#peanuts'>peanut butter</a>, and <a href='/misc/fiber'>fiber</a> from the <a href='/misc/beans#chickpeas'>chickpeas</a>.  It also works as a great filling for a <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>.  Or check out any of my other <a href='/hummus'>hummus recipes</a>!
 Instructions:
-- The day before, break your bananas into 1" chunks, and add to an airtight bag.  Freeze overnight
+- The day before, break your <a href='/misc/fruit#banana'>bananas</a> into 1" chunks, and add to an airtight bag.  Freeze overnight
 
-- Drain and rinse your chickpeas.  Add all ingredients to a food processor, and blend until smooth.  Optionally add some sweetener, like 1/2 tsp (2.5 g) liquid monk fruit, 1 tbsp (12 g) granulated monk fruit, or 1 tbsp (21 g) honey
+- Drain and rinse your <a href='/misc/beans#chickpeas'>chickpeas</a>.  Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
 - <img src='/assets/Food/Sweet Spreads/BB Hummus/blend.jpg' alt='' class='instruction-image'>
 Notes:
-- If you don't have powdered peanut butter, you can add an additional 2 tbsp (32 g) of peanut butter or tahini
+- If you don't have <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, you can add an additional 2 tbsp (32 g) of <a href='/misc/nuts#peanuts'>peanut butter</a> or <a href='/misc/seeds#sesame-seeds'>tahini</a>
 
-- Store in an air tight container in the fridge. Use it anywhere you'd use peanut butter, such as spreading on toast, or in your oatmeal.
+- Optionally add some sweetener, like 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, 1 tbsp (12 g) <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, or 1 tbsp (21 g) honey
+
+- Store in an air tight container in the fridge. Use it anywhere you'd use <a href='/misc/nuts#peanuts'>peanut butter</a>, such as spreading on toast, or in your <a href='/oatmeal'>oatmeal</a>.
 ---

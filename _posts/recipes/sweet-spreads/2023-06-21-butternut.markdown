@@ -50,20 +50,20 @@ tags:
 - pumpkin pie
 - pumpkin spice
 - mashed sweet potato
-Description: Similar to the <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, this is more of a method than a recipe, as unless you're a baby I don't expect you'll be eating this on its own. <a href='/misc/veggies#butternut-squash'>Butternut squash</a> is a great pumpkin replacement, especially in this <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>, or my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>.  Butternut squash puree can also be used in place of mashed <a href='/misc/fruit#banana'>banana</a> or <a href='/misc/fruit#apple'>applesauce</a>; I've even had great success using it in my <a href='/recipes/chickpea-brownies'>Chickpea Protein Brownies</a>
+Description: Similar to the <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, this is more of a method than a recipe, as unless you're a baby I don't expect you'll be eating this on its own. <a href='/misc/veggies#butternut-squash'>Butternut squash</a> is a great <a href='/misc/veggies#pumpkin'>pumpkin</a> replacement, especially in this <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>, or my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>.  <a href='/misc/veggies#butternut-squash'>Butternut squash</a> puree can also be used in place of mashed <a href='/misc/fruit#banana'>banana</a> or <a href='/misc/fruit#apple'>applesauce</a>; I've even had great success using it in my <a href='/recipes/chickpea-brownies'>Chickpea Protein Brownies</a>
 Instructions:
-- Preheat oven to 400F and line a cookie sheet with parchment paper
+- Preheat oven to 400F and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Slice off the stem of the squash and cut in half lengthwise. Scoop out the seeds using a spoon. Sprinkle the inside with a little bit of salt
+- Slice off the stem of the <a href='/misc/veggies#butternut-squash'>squash</a> and cut in half lengthwise. Scoop out the seeds using a spoon. Sprinkle the inside with a little bit of salt
 
-- Place the cut side down on the cookie sheet. Prick the skin of the squash with a fork
+- Place the cut side down on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Prick the skin of the <a href='/misc/veggies#butternut-squash'>squash</a> with a fork
 
-- Roast for about 50-70 minutes, or until tender. A knife should be able to easily pierce through it without any force
+- Roast for about 50-70 minutes, or until tender. A <a href='https://amzn.to/4jlDKwc'>knife</a> should be able to easily pierce through it without any force
 - <img src='/assets/Food/Sweet Spreads/Butternut/butternut-4.jpg' alt='' class='instruction-image'>
 
 - Flip over and let cool until you can safely handle it, about 5 minutes
 - <img src='/assets/Food/Sweet Spreads/Butternut/butternut-5.jpg' alt='' class='instruction-image'>
 
-- Scrape off the insides from the skin and place into a large bowl. Mash with a potato masher, or blend in a food processor.
+- Scrape off the insides from the skin and place into a <a href='https://amzn.to/4adxMft'>large bowl</a>. Mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a>, or blend in a <a href='https://amzn.to/4q0AUjI'>food processor</a>.
 Notes:
 ---
