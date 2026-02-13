@@ -52,9 +52,9 @@ tags:
 - halloween
 - canned pumpkin
 Description: |
-  This is less of a recipe and more of a method, as you'd probably use <a href='/misc/veggies#pumpkin'>pumpkin</a> puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> in my baked goods with this for a delicious fall twist
-  <br><br>
-  Similar is my <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, which can also be used just like pumpkin puree!  Below are some great pumpkin or sweet potato recipes that you can use your puree on
+  This is less of a recipe and more of a method, as you'd probably use <a href='/misc/veggies#pumpkin'>pumpkin</a> puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> in my baked goods with this for a delicious fall twist<br><br>
+
+  Similar is my <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, which can also be used just like <a href='/misc/veggies#pumpkin'>pumpkin</a> puree!  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a> or <a href='/misc/veggies#sweet-potato'>sweet potato</a> recipes that you can use your puree on
   <ul>
     <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
     <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>
@@ -67,14 +67,14 @@ Description: |
     <li><a href='/recipes/pumpkin-cake'>Frosted Pumpkin Cake</a></li>
   </ul>
 Instructions: 
-- Wash the pumpkin, cut off the stem, and slice in half.  Scoop out the seeds with a spoon
+- Wash the <a href='/misc/veggies#pumpkin'>pumpkin</a>, cut off the stem, and slice in half.  Scoop out the seeds with a spoon
 
-- Place the pumpkin halves cut side down on a parchment line baking sheet, and roast at 400F until fork tender (about 45 minutes).  Flip over to let steam out for a few minutes
+- Place the <a href='/misc/veggies#pumpkin'>pumpkin</a> halves cut side down on a parchment line <a href='https://amzn.to/45sRAsB'>baking sheet</a>, and roast at 400F until fork tender (about 45 minutes).  Flip over to let steam out for a few minutes
 - <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-raw.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cooked.jpg' alt='' class='instruction-image'>
 
-- Cut off the ends, and transfer to a food processor (with the skins!!).  Blend until smooth
+- Cut off the ends, and transfer to a <a href='https://amzn.to/4q0AUjI'>food processor</a> (with the skins!!).  Blend until smooth
 - <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-pureed.jpg' alt='' class='instruction-image'>
 Notes:
-- My whole raw pumpkin weighed 764 g, and I ended up with 368 g of puree.  That's about 1.5 cups or 3 servings of 1/2 cup (120 g)
+- My whole raw <a href='/misc/veggies#pumpkin'>pumpkin</a> weighed 764 g, and I ended up with 368 g of puree.  That's about 1.5 cups or 3 servings of 1/2 cup (120 g)
 ---

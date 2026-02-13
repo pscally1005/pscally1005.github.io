@@ -52,25 +52,25 @@ tags:
 - allulose
 - sugar free
 - nut free
-Description: I'm back for 3 more flavored <a href='/recipes/natural-peanut-butter'>nut butter</a> recipes.  Last time was <a href='/misc/nuts#peanuts'>peanuts</a>, <a href='/misc/nuts#almonds'>almonds</a>, and <a href='/misc/nuts#walnuts'>walnuts</a>, but today I'm going for <a href='/misc/nuts#pistachios'>pistachios</a>, <a href='/misc/nuts#cashews'>cashews</a>, and <a href='/misc/seeds#sunflower-seeds'>sunflower</a> & <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a>.  First up is Super Seed Butter, but be sure to check out the other 2 - <a href='/recipes/mint-pistachio-butter'>Mint Pistachio Butter</a> and <a href='/recipes/cashew-cookie-butter'>Cashew Cookie Butter</a>.  Or check out any of my other <a href='/nut-butter'>nut butter recipes</a>!
+Description: I'm back for 3 more flavored <a href='/nut-butter'>nut butter recipes</a>.  Last time was <a href='/misc/nuts#peanuts'>peanuts</a>, <a href='/misc/nuts#almonds'>almonds</a>, and <a href='/misc/nuts#walnuts'>walnuts</a>, but today I'm going for <a href='/misc/nuts#pistachios'>pistachios</a>, <a href='/misc/nuts#cashews'>cashews</a>, and <a href='/misc/seeds#sunflower-seeds'>sunflower</a> & <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a>.  First up is Super Seed Butter, but be sure to check out the other 2 - <a href='/recipes/mint-pistachio-butter'>Mint Pistachio Butter</a> and <a href='/recipes/cashew-cookie-butter'>Cashew Cookie Butter</a>.  Or check out any of my other <a href='/nut-butter'>nut butter recipes</a>!
 Instructions: 
-- Add your seeds to a food processor, and blend until super smooth, scraping down the sides every few minutes. This may take 5-10 minutes depending on your food processor. If it doesn't look and pour like a liquid, keep blending, you're not done yet. Have patience, and wear ear plugs!
+- Add your <a href='/misc/seeds'>seeds</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until super smooth, scraping down the sides every few minutes. This may take 5-10 minutes depending on your <a href='https://amzn.to/4q0AUjI'>food processor</a>. If it doesn't look and pour like a liquid, keep blending, you're not done yet. Have patience, and wear ear plugs!
 - <img src='/assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/nut-butter.jpg' alt='' class='instruction-image'>
 
-- Only once you have the creamiest and smoothest seed butter you've ever seen, add in your salt, and blend for 30 seconds to fully combine
+- Only once you have the creamiest and smoothest <a href='/recipes/natural-peanut-butter'>seed butter</a> you've ever seen, add in your salt, and blend for 30 seconds to fully combine
 
-- It's time to flavor your seed butter. Add in the flavoring ingredients, and blend until smooth and fully combined
+- It's time to flavor your <a href='/recipes/natural-peanut-butter'>seed butter</a>. Add in the flavoring ingredients, and blend until smooth and fully combined
 - <img src='/assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/flavored.jpg' alt='' class='instruction-image'>
 
-- Transfer to a mason jar or air tight container, and store at room temperature for up to a week. You can also freeze homemade seed butter for later
+- Transfer to a mason jar or air tight container, and store at room temperature for up to a week. You can also freeze <a href='/recipes/natural-peanut-butter'>homemade seed butter</a> for later
 Notes:
-- If your seeds are raw, air fry them at 300F for 10 minutes, or roast in the oven at 350F for 12 minutes
+- If your <a href='/misc/seeds'>seeds</a> are raw, <a href='https://amzn.to/3FuWETp'>air fry</a> them at 300F for 10 minutes, or roast in the oven at 350F for 12 minutes
 - <img src='/assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/roasted.jpg' alt='' class='instruction-image'>
 
-- If you prefer a chunky seed butter, reserve about 1 oz (28 g) of seeds, and blend in at the end
+- If you prefer a chunky <a href='/recipes/natural-peanut-butter'>seed butter</a>, reserve about 1 oz (28 g) of <a href='/misc/seeds'>seeds</a>, and blend in at the end
 
 - |
-  Be sure to check out all 6 of my flavored nut butters
+  Be sure to check out all 6 of my flavored <a href='/nut-butter'>nut butters</a>
   <ul>
     <li><a href='/recipes/maple-cinnamon-peanut-butter'>Maple Cinnamon Peanut Butter</a></li>
     <li><a href='/recipes/chocolate-almond-butter'>Chocolate Almond Butter</a></li>

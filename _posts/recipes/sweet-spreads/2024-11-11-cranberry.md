@@ -47,17 +47,17 @@ tags:
 - vanilla
 - liquid monk fruit
 - liquid stevia
-Description: It's almost Thanksgiving, which means it's time for <a href='/misc/fruit#cranberry'>cranberry</a> sauce. But this isn't your aunt's typical <a href='/misc/fruit#cranberry'>cranberry</a> sauce. It's <a href='/misc/hidden-sugar'>sugar</a> free, being sweetened just from fresh <a href='/misc/fruit#mandarin'>mandarin oranges</a> and a little liquid monk fruit. You can adjust the sweetness to your taste preferences, or add some maple syrup if you like it super sweet. Spoon on top of your <a href='/misc/meat#turkey-breast'>turkey</a>, or use it for your morning oatmeal, I won't tell.
+Description: It's almost Thanksgiving, which means it's time for cranberry sauce. But this isn't your aunt's typical cranberry sauce. It's <a href='/misc/hidden-sugar'>sugar free</a>, being sweetened just from fresh <a href='/misc/fruit#mandarin'>mandarin oranges</a> and a little <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. You can adjust the sweetness to your taste preferences, or add some maple syrup if you like it super sweet. Spoon on top of your <a href='/misc/meat#ground-turkey'>turkey</a>, or use it for your morning <a href='/oatmeal'>oatmeal</a>, I won't tell.
 Instructions: 
-- Peel your oranges, and add to a food processor. Blend until smooth, and transfer to a medium pot
+- Peel your <a href='/misc/fruit#orange'>oranges</a>, and add to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until smooth, and transfer to a <a href='https://amzn.to/46ccg8m'>medium pot</a>
 - <img src='/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-orange.jpg' alt='' class='instruction-image'>
 
-- Add your cranberries, water, and cinnamon to the pot, cover, and bring to a boil over medium-high heat
+- Add your <a href='/misc/fruit#cranberry'>cranberries</a>, water, and cinnamon to the pot, cover, and bring to a boil over medium-high heat
 
-- Reduce the heat to medium and simmer for about 6 minutes (covered), until most of the cranberries have broken down. Stir the mixture frequently to ensure nothing burns or sticks to the pan, and to further break down the cranberries
+- Reduce the heat to medium and simmer for about 6 minutes (covered), until most of the <a href='/misc/fruit#cranberry'>cranberries</a> have broken down. Stir the mixture frequently to ensure nothing burns or sticks to the pan, and to further break down the <a href='/misc/fruit#cranberry'>cranberries</a>
 - <img src='/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-cooked.jpg' alt='' class='instruction-image'>
 
-- Remove from the heat, and use a potato masher to roughly mash the cranberries to desired consistency. Stir in the vanilla and monk fruit, sweeten to taste, and allow to cool totally before serving
+- Remove from the heat, and use a <a href='https://amzn.to/4r5boL0'>potato masher</a> to roughly mash the <a href='/misc/fruit#cranberry'>cranberries</a> to desired consistency. Stir in the vanilla and monk fruit, sweeten to taste, and allow to cool totally before serving
 - <img src='/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-mashed.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -11,6 +11,12 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\sweet-spreads"
 LINKS = {
 
   # RECIPES
+  "chocolate almond butter": "/recipes/chocolate-almond-butter",
+  "maple cinnamon peanut butter": "/recipes/maple-cinnamon-peanut-butter",
+  "white chocolate walnut butter": "/recipes/white-chocolate-walnut-butter",
+  "mint pistachio butter": "/recipes/mint-pistachio-butter",
+  "cashew cookie butter": "/recipes/cashew-cookie-butter",
+  "super seed butter": "/recipes/super-seed-butter",
   "protein shakes": "/recipes/protein-shake",
   # "protein bars": "/recipes/protein-bar",
   "protein shake": "/recipes/protein-shake",
@@ -890,6 +896,7 @@ LINKS = {
   "coconuts": "/misc/nuts#coconut",
   "coconut's": "/misc/nuts#coconut",
   "coconut": "/misc/nuts#coconut",
+  "hazelnut butter": "/misc/nuts#hazelnuts",
   "hazelnuts": "/misc/nuts#hazelnuts",
   "hazelnut": "/misc/nuts#hazelnuts",
   "macadamia nuts": "/misc/nuts#macadamia-nuts",
@@ -2304,6 +2311,14 @@ LINKS = {
   "grape jam": "/misc/fake-healthy-foods#jelly",
   "jam and jelly": "/misc/fake-healthy-foods#jelly",
   "jelly and jam": "/misc/fake-healthy-foods#jelly",
+  "most fruit jams": "/misc/fake-healthy-foods#jelly",
+  "most fruit jam": "/misc/fake-healthy-foods#jelly",
+  "most fruit jellies": "/misc/fake-healthy-foods#jelly",
+  "most fruit jelly": "/misc/fake-healthy-foods#jelly",
+  "fruit jams": "/misc/fake-healthy-foods#jelly",
+  "fruit jam": "/misc/fake-healthy-foods#jelly",
+  "fruit jellies": "/misc/fake-healthy-foods#jelly",
+  "fruit jelly": "/misc/fake-healthy-foods#jelly",
   # "jelly": "/misc/fake-healthy-foods#jelly",
   # "jam": "/misc/fake-healthy-foods#jelly",
   "cornbread": "/misc/fake-healthy-foods#cornbread",
@@ -2410,6 +2425,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "strawberry jam",
+    "cranberry sauce",
     "scale it up",
     "shortening the",
     "cucumber salad",
@@ -3873,7 +3890,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025")):
+            if not file.startswith(("2024")):
                 continue
 
             # exclude some files

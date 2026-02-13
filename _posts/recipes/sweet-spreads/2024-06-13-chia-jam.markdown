@@ -57,16 +57,16 @@ tags:
 - strawberry
 - strawberries
 Description: |
-  Here I'm using <a href='/misc/fruit#strawberries'>strawberries</a> (or <a href='/misc/fruit#blueberries'>blueberries</a>) and <a href='/misc/seeds#chia-seeds'>chia</a> seeds to make a delicious <a href='/misc/fake-healthy-foods#jelly'>jam</a> that really lets the flavor of the <a href='/misc/fruit'>fruit</a> shine. Most fruit jams contain significantly more <a href='/misc/hidden-sugar'>sugar</a> than actual fruit, but not this one
-  <br><br>
-  Pictured here is a rice cake topped with <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> (using a blend of <a href='/misc/nuts#peanuts'>peanuts</a> and <a href='/misc/nuts#pistachios'>pistachios</a>) and the strawberry jam for a delicious snack.  Strawberries and blueberries are lower in pectin compared to other berries, so chia seeds are used as a thickener. You can also check out my <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> for a <a href='/misc/fruit#blackberry'>blackberry</a> (or <a href='/misc/fruit#raspberry'>raspberry</a>) version, which has no chia seeds since these berries contain more pectin
-Instructions:
-- Add your berries to a medium bowl, and microwave until soft. Or you can leave on the counter for a bit to defrost
+  Here I'm using <a href='/misc/fruit#strawberries'>strawberries</a> (or <a href='/misc/fruit#blueberries'>blueberries</a>) and <a href='/misc/seeds#chia-seeds'>chia seeds</a> to make a delicious jam that really lets the flavor of the <a href='/misc/fruit'>fruit</a> shine. <a href='/misc/fake-healthy-foods#jelly'>Most fruit jams</a> contain significantly more <a href='/misc/hidden-sugar'>sugar</a> than actual <a href='/misc/fruit'>fruit</a>, but not this one<br><br>
 
-- In a large pan over medium heat, add the berries and sweetener. Roughly mash with a potato masher
+  Pictured here is a rice cake topped with <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> (using a blend of <a href='/misc/nuts#peanuts'>peanuts</a> and <a href='/misc/nuts#pistachios'>pistachios</a>) and the strawberry jam for a delicious snack.  <a href='/misc/fruit#strawberries'>Strawberries</a> and <a href='/misc/fruit#blueberries'>blueberries</a> are lower in pectin compared to other <a href='/misc/fruit#blueberries'>berries</a>, so <a href='/misc/seeds#chia-seeds'>chia seeds</a> are used as a thickener. You can also check out my <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> for a <a href='/misc/fruit#blackberry'>blackberry</a> (or <a href='/misc/fruit#raspberry'>raspberry</a>) version, which has no <a href='/misc/seeds#chia-seeds'>chia seeds</a> since these <a href='/misc/fruit#blueberries'>berries</a> contain more pectin
+Instructions:
+- Add your <a href='/misc/fruit#blueberries'>berries</a> to a <a href='https://amzn.to/4adxMft'>medium bowl</a>, and microwave until soft. Or you can leave on the counter for a bit to defrost
+
+- In a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat, add the <a href='/misc/fruit#blueberries'>berries</a> and sweetener. Roughly mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a>
 
 - Bring to a simmer, and let simmer for 2-3 minutes, until thickened
 
-- Remove from heat, stir in the chia seeds and lemon juice, and transfer to an airtight container. The jam will thicken as it cools
+- Remove from heat, stir in the <a href='/misc/seeds#chia-seeds'>chia seeds</a> and <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and transfer to an airtight container. The jam will thicken as it cools
 Notes:
 ---
