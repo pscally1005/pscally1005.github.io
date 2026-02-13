@@ -1,14 +1,22 @@
+# Download csv to /python/testing folder, and run script to swap amount and description columns
+
+import pandas as pd
 import os
 import glob
 import csv
-import io
+import re
 
-def csv_quote(value):
-    buf = io.StringIO()
-    csv.writer(buf, quoting=csv.QUOTE_ALL).writerow([value])
-    return buf.getvalue().strip()
+def fix_vol_col(mass, vol):
+    if len(mass) != 0 and len(vol) == 0:
+       if re.search('[a-zA-Z]', mass):
+            temp = mass
+            # mass = vol
+            mass = 0
+            vol = temp
 
-def main(path=""):
+    return mass, vol
+
+def main(path = ""):
 
     os.system('cls')
 
@@ -20,40 +28,35 @@ def main(path=""):
         # path = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\python\testing\*-ing.csv"
         print("empty path")
 
+    # loop through all the files
+    changed = 0
     for fname in glob.glob(path):
-        temp = fname[:-4] + "-temp.csv"
 
-        with open(fname, newline='', encoding="utf-8") as fin, \
-             open(temp, "w", newline='', encoding="utf-8") as fout:
+        with open(fname, 'r+', newline='') as csvfile:
+            spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
 
-            reader = csv.reader(fin)
+            i = 0
+            for row in spamreader:
 
-            for i, row in enumerate(reader):
+                temp = fname[:-4] + "-temp.csv"
 
-                # Header
-                if i == 0:
-                    fout.write('"Ingredient",Amount,Unit,"Description"\n')
-                    continue
+                if len(row) == 4 and i != 0:
+                    row[1], row[3] = fix_vol_col(row[1], row[3])
+                    line = '"' + row[0] + '",' + str(row[1]) + ',' + row[2] + ',"' + row[3] + '"\n'
+                else:
+                    line = ','.join(row) + "\n"
 
-                # Servings row
-                if row[0] == "Servings":
-                    fout.write(f'"Servings",{row[1]}\n')
-                    continue
+                with open(temp, 'a') as fout:
+                    fout.writelines(line)
 
-                # Find unit
-                unit_idx = row.index("g")
+                i = i+1
 
-                ingredient = csv_quote(row[0])
-                description = csv_quote(
-                    ", ".join(cell.strip() for cell in row[1:unit_idx])
-                )
-
-                fout.write(
-                    f"{ingredient},0,g,{description}\n"
-                )
-
-        os.replace(temp, fname)
+        os.remove(fname)
+        os.rename(temp, fname)
         print(fname)
+        changed += 1
 
-if __name__ == "__main__":
+    print(str(changed) + " files updated")
+
+if __name__ == '__main__':
     main()

@@ -286,11 +286,12 @@ Cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.
 Pine nuts,pine-nuts,6.92,112.00,0.06179,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
 Pork tenderloin,pork-tenderloin,3.43,454.00,0.00756,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,https://amzn.to/4kGEfC5
-Chocolate chips,chocolate-chips,3.97,252.00,0.01575,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,
+Chocolate chips,chocolate-chips,2.32,336.00,0.00690,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,
+Mini chocolate chips,chocolate-chips,2.32,336.00,0.00690,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,
 Semisweet chocolate chips,chocolate-chips,2.32,336.00,0.00690,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,
 Semi-sweet chocolate chips,chocolate-chips,2.32,336.00,0.00690,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,
-Semisweet chocolate chips (optional),chocolate-chips,2.32,336.00,0.00690,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
-Dark chocolate chips,chocolate-chips,2.32,336.00,0.00690,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,
+Semisweet chocolate chips (optional),chocolate-chips,0.00,336.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+Dark chocolate chips,chocolate-chips,0.00,336.00,0.00000,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,
 Egg whites,egg-whites,1.30,540.00,0.00241,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Liquid egg whites,egg-whites,3.98,908.00,0.00438,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3Hdzv8u
 Egg yolk,egg-yolk,0.87,540.00,0.00161,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,

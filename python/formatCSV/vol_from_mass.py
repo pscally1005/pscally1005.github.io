@@ -259,7 +259,7 @@ def vol_from_mass(food, mass, vol):
             v = "2 cup"
 
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa":
         if mass == "1.25":
             v = "1/4 tsp"
         elif mass == "2.5":
@@ -396,6 +396,60 @@ def vol_from_mass(food, mass, vol):
         elif mass == "112":
             v = "1/2 cup"
 
+    # Lentils
+    elif food == "Red lentils" or food == "Red split lentils" or food == "Green lentils" or food == "Brown lentils" or food == "Lentils":
+        if mass == "48":
+            v = "1/4 cup"
+        elif mass == "64":
+            v = "1/3 cup"
+        elif mass == "96":
+            v = "1/2 cup"
+        elif mass == "128":
+            v = "2/3 cup"
+        elif mass == "144":
+            v = "3/4 cup"
+        elif mass == "192":
+            v = "1 cup"
+        elif mass == "240":
+            v = "1 1/4 cup"
+        elif mass == "256":
+            v = "1 1/3 cup"
+        elif mass == "288":
+            v = "1 1/2 cup"
+        elif mass == "320":
+            v = "1 2/3 cup"
+        elif mass == "336":
+            v = "1 3/4 cup"
+        elif mass == "384":
+            v = "2 cup"
+
+    # Frozen corn
+    elif food == "Frozen corn":
+        if mass == "34":
+            v = "1/4 cup"
+        elif mass == "45":
+            v = "1/3 cup"
+        elif mass == "68":
+            v = "1/2 cup"
+        elif mass == "91":
+            v = "2/3 cup"
+        elif mass == "102":
+            v = "3/4 cup"
+        elif mass == "136":
+            v = "1 cup"
+        elif mass == "170":
+            v = "1 1/4 cup"
+        elif mass == "181":
+            v = "1 1/3 cup"
+        elif mass == "204":
+            v = "1 1/2 cup"
+        elif mass == "227":
+            v = "1 2/3 cup"
+        elif mass == "238":
+            v = "1 3/4 cup"
+        elif mass == "272":
+            v = "2 cup"
+
     # Rice
     elif food == "Brown rice" or food == "Wild rice":
         if mass == "45":
@@ -518,7 +572,9 @@ def vol_from_mass(food, mass, vol):
 
     # Nuts
     elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":
-        if mass == "15":
+        if mass == "5":
+            v = "1 tsp, chopped"
+        elif mass == "15":
             v = "2 tbsp"
         elif mass == "30":
             v = "1/4 cup"
@@ -536,7 +592,9 @@ def vol_from_mass(food, mass, vol):
 
     # Nut butters
     elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini":
-        if mass == "8":
+        if mass == "5" or mass == "6":
+            v = "1 tsp"
+        elif mass == "8":
             v = "1/2 tbsp"
         elif mass == "16":
             v = "1 tbsp"
@@ -588,13 +646,32 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 medium"
         elif mass == "110":
             v = "1 medium"
+        elif mass == "150":
+            v = "1 large"
         elif mass == "220":
             v = "2 medium"
+        elif mass == "300":
+            v = "2 large"
         elif mass == "330":
             v = "3 medium"
         elif mass == "440":
             v = "4 medium"
+        elif mass == "450":
+            v = "3 large"
         elif mass == "550":
+            v = "5 medium"
+
+    # Carrots
+    elif food == "Carrots":
+        if mass == "100":
+            v = "1 medium"
+        elif mass == "200":
+            v = "2 medium"
+        elif mass == "300":
+            v = "3 medium"
+        elif mass == "400":
+            v = "4 medium"
+        elif mass == "500":
             v = "5 medium"
 
     # Peppers
@@ -603,9 +680,15 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 medium"
         elif mass == "120":
             v = "1 medium"
+        elif mass == "150":
+            v = "1 large"
         elif mass == "240":
             v = "2 medium"
+        elif mass == "300":
+            v = "2 large"
         elif mass == "360":
+            v = "3 medium"
+        elif mass == "450":
             v = "3 medium"
         elif mass == "480":
             v = "4 medium"
