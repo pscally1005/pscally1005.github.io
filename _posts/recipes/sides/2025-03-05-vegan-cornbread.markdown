@@ -56,22 +56,22 @@ tags:
 - cajun seasoning
 - unsweetened applesauce
 - apple cider vinegar
-Description: This isn't my first venture into cornbread. I've previously made my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> using both whey and casein protein, as well as <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, for a high <a href='/misc/protein'>protein</a>, low <a href='/misc/fats'>fat</a>, and lower <a href='/misc/carbs'>carb</a> cornbread. But today, I'm making a vegan cornbread with more whole foods ingredients. This version is lower in <a href='/misc/protein'>protein</a>, but higher in healthy <a href='/misc/fats'>fats</a> and <a href='/misc/fiber'>fiber</a>. But both are gluten and <a href='/misc/hidden-sugar'>sugar</a> free; you can't go wrong with either one! This is a great side to some <a href='/recipes/vegan-chili'>Creamy Vegan White Bean Chili</a> for a vegetarian meal with a decent source of plant based <a href='/misc/protein'>protein</a>
+Description: This isn't my first venture into <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a>. I've previously made my <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> using both <a href='/misc/dairy#whey'>whey</a> and <a href='/misc/dairy#casein'>casein protein</a>, as well as <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, for a <a href='/misc/high-protein'>high protein</a>, <a href='/misc/fats'>low fat</a>, and lower <a href='/misc/carbs'>carb</a> <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a>. But today, I'm making a vegan <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a> with more whole foods ingredients. This version is lower in <a href='/misc/protein'>protein</a>, but higher in <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>. But both are <a href='/misc/celiac'>gluten</a> and <a href='/misc/hidden-sugar'>sugar free</a>; you can't go wrong with either one! This is a great <a href='/recipes/sides'>side</a> to some <a href='/recipes/vegan-chili'>Creamy Vegan White Bean Chili</a> for a <a href='/recipes/meatless'>vegetarian meal</a> with a decent source of plant based <a href='/misc/protein'>protein</a>
 Instructions:
-- Preheat your oven to 400F, and line a 9" square baking pan with parchment paper
+- Preheat your oven to 400F, and line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper
 
-- In a large bowl, whisk together the dry ingredients - cornmeal, almond flour, nutritional yeast, paprika, baking powder, cumin, oregano, thyme, salt, black pepper, baking soda, and cayenne
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - cornmeal, <a href='/misc/nuts#almonds'>almond flour</a>, nutritional yeast, paprika, baking powder, cumin, oregano, thyme, salt, black pepper, baking soda, and cayenne
 
-- Add the wet ingredients to the bowl (water, applesauce, and apple cider vinegar) and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until smooth
+- Add the wet ingredients to the bowl (water, <a href='/misc/fruit#apple'>applesauce</a>, and <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>) and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until smooth
 - <img src='/assets/Food/Sides/Vegan Cornbread/bowl.jpg' alt='' class='instruction-image'>
 
 - Pour the batter into the pan, and smooth out the top
 - <img src='/assets/Food/Sides/Vegan Cornbread/raw.jpg' alt='' class='instruction-image'>
 
-- Bake for 30 minutes, or until the top is firm to the touch, and a toothpick comes out clean. The internal temperature should be around 200F
+- Bake for 30 minutes, or until the top is firm to the touch, and a toothpick comes out clean. The <a href='https://amzn.to/4kmobG2'>internal temperature</a> should be around <a href='https://amzn.to/4kmobG2'>200F</a>
 - <img src='/assets/Food/Sides/Vegan Cornbread/baked.jpg' alt='' class='instruction-image'>
 
-- Let rest in the pan for 10 minutes before transferring to a wire rack to cool completely before slicing
+- Let rest in the pan for 10 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely before slicing
 - <img src='/assets/Food/Sides/Vegan Cornbread/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---

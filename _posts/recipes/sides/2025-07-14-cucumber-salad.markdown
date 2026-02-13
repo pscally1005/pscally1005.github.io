@@ -12,7 +12,7 @@ yogurt: no
 nut_butter: no
 pesto: no
 soup_stew: no
-salad: no
+salad: yes
 dressing: no
 brownie: no
 cookie: no
@@ -50,10 +50,10 @@ tags:
 - garlic
 - ginger
 - pickles
-Description: This is Asian cucumber salad...kinda.  If you've ever wanted to recreate it at home, but somewhat bastardize it, well then you're in the right place.  I've tried to keep this as "traditional" as possible while using ingredients I regularly have in my white guy kitchen, while also making it <a href='/misc/hidden-sugar'>sugar free</a> and not <a href='/misc/fats'>super oily</a>
+Description: This is Asian cucumber salad...kinda.  If you've ever wanted to recreate it at home, but somewhat bastardize it, well then you're in the right place.  I've tried to keep this as "traditional" as possible while using ingredients I regularly have in my white guy kitchen, while also making it <a href='/misc/hidden-sugar'>sugar free</a> and not super oily
 Instructions:
-- Cut your cucumber thinly, either with a knife or mandoline. Add to a medium bowl with salt, and mix. Let sit for at least 10 minutes for the salt to draw out the water from the cucumber. Drain the water, and pat dry
+- Cut your <a href='/misc/veggies#cucumber'>cucumber</a> thinly, either with a knife or <a href='https://amzn.to/4q3nlQz'>mandoline</a>. Add to a <a href='https://amzn.to/4adxMft'>medium bowl</a> with salt, and mix. Let sit for at least 10 minutes for the salt to draw out the water from the <a href='/misc/veggies#cucumber'>cucumber</a>. Drain the water, and pat dry
 
-- Season with vinegar, soy sauce, garlic, monk fruit, oil, and ginger. Optionally mix in red pepper flakes for some heat, or top with some sesame seeds as a garnish
+- Season with vinegar, soy sauce, <a href='/misc/veggies#garlic'>garlic</a>, <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, <a href='/misc/fats'>oil</a>, and <a href='/misc/veggies#ginger'>ginger</a>. Optionally mix in red pepper flakes for some heat, or top with some <a href='/misc/seeds#sesame-seeds'>sesame seeds</a> as a garnish
 Notes:
 ---

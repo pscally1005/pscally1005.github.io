@@ -56,15 +56,15 @@ tags:
 - soy sauce
 Description: Who doesn't love a nice hearty bowl of <a href='/soups-and-stews'>soup</a> in the winter?  This healthy and creamy <a href='/misc/veggies#mushrooms'>mushroom</a> <a href='/soups-and-stews'>soup</a> is free of both heavy cream and <a href='/misc/grains#white-wheat'>flour</a> typically found in <a href='/misc/veggies#mushrooms'>mushroom</a> <a href='/soups-and-stews'>soup</a> recipes.  Here, <a href='/misc/dairy#yogurt'>yogurt</a> and <a href='/misc/grains#oats'>oats</a> are used to provide creaminess, making the <a href='/soups-and-stews'>soup</a> <a href='/misc/celiac'>gluten free</a>. A bowl of this satisfying <a href='/soups-and-stews'>soup</a> is the perfect <a href='/recipes/sides'>side</a> to any lunch or dinner
 Instructions:
-- Heat a medium pot over medium heat with olive oil. Cut your onions into a small dice, and add to the pot. Cover and cook for about 5 minutes, or until lightly browned and softened
+- Heat a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat with olive oil. Cut your <a href='/misc/veggies#onion'>onions</a> into a small dice, and add to the pot. Cover and cook for about 5 minutes, or until lightly browned and softened
 
-- Cut your mushrooms into a small dice, and add to the pot with the onions. Cook uncovered until all the water has evaporated, about 10 minutes
+- Cut your <a href='/misc/veggies#mushrooms'>mushrooms</a> into a small dice, and add to the pot with the <a href='/misc/veggies#onion'>onions</a>. Cook uncovered until all the water has evaporated, about 10 minutes
 
-- Add the oats and garlic to the pot, and toast for about 1 minute, until fragrant
+- Add the <a href='/misc/grains#oats'>oats</a> and <a href='/misc/veggies#garlic'>garlic</a> to the pot, and toast for about 1 minute, until fragrant
 
 - Add broth, thyme, salt, and black pepper to the pot.  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
 
-- Remove from the heat and stir in yogurt, soy sauce, and parsley. Serve
+- Remove from the heat and stir in <a href='/misc/dairy#yogurt'>yogurt</a>, soy sauce, and parsley. Serve
 - <img src='/assets/Food/Sides/Mushroom Soup/pot.jpg' alt='' class='instruction-image'>
 Notes:
 ---

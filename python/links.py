@@ -2404,6 +2404,18 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "shortening the",
+    "cucumber salad",
+    "flour, baking powder",
+    "honey cornbread",
+    "squash meat",
+    "scale the recipe",
+    "the same flour",
+    "broccoli rabe",
+    "yellow rice",
+    "concentrate the starch",
+    "and the cheese",
+    "lemon potatoes",
     "as some desserts",
     '"rice"',
     "arrange fries",
@@ -3854,7 +3866,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024")):
+            if not file.startswith(("2026")):
                 continue
 
             # exclude some files
