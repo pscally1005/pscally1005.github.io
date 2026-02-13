@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/flaxseed-crackers
 image: /assets/Food/Finger Food/Flax Crackers/flax-crackers-cover.jpg
-ing: flaxcracker-ing
-facts: flaxcracker-facts
+file: flaxcracker
 servingSize: 1 oz (28 g)
 section1:
 start2:

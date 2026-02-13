@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/green-eggs-and-ham
 image: /assets/Food/Meme/Green Eggs and Ham/cover.jpg
-ing: greeneggsham-ing
-facts: greeneggsham-facts
+file: greeneggsham
 servingSize:
 section1: Ham
 start2: Lemon juice

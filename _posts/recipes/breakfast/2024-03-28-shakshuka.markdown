@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/shakshuka
 image: /assets/Food/Breakfast/Shakshuka/shakshuka-cover.jpg
-ing: shakshuka-ing
-facts: shakshuka-facts
+file: shakshuka
 servingSize: Whole pan
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/granola-bars
 image: /assets/Food/Finger Food/Granola Bar/granola-bar-cover.jpg
-ing: granolabar-ing
-facts: granolabar-facts
+file: granolabar
 servingSize: 1 granola bar
 section1:
 start2:

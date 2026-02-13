@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/tortilla
 image: /assets/Food/Bread/Tortillas/tortilla-cover.jpg
-ing: tortillas-ing
-facts: tortillas-facts
+file: tortillas
 servingSize: 1 tortilla
 section1:
 start2:

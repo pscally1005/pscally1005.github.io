@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/two-ingredient-mac-and-cheese
 image: /assets/Food/Sides/Mac & Cheese/cover.jpg
-ing: twoingmac-ing
-facts: twoingmac-facts
+file: twoingmac
 servingSize:
 section1: Pasta
 start2: Gooey cheese sauce

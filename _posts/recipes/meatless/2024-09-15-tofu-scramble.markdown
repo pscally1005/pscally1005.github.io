@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/tofu-scramble
 image: /assets/Food/Meatless/Tofu Scramble/tofu-cover.jpg
-ing: tofuscramble-ing
-facts: tofuscramble-facts
+file: tofuscramble
 servingSize:
 section1: Tofu
 start2: Soy sauce, low sodium, gluten free

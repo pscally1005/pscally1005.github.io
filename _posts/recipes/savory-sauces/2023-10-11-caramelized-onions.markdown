@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/caramelized-onions
 image: /assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg
-ing: onions-ing
-facts: onions-facts
+file: onions
 servingSize: 1 tbsp (15 g)
 section1:
 start2:

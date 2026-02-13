@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-cereal
 image: /assets/Food/Breakfast/Protein Cereal/cover.jpg
-ing: proteincereal-ing
-facts: proteincereal-facts
+file: proteincereal
 servingSize: 2 oz (56 g)
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/stuffed-grape-leaves
 image: /assets/Food/Finger Food/Grape/grape-cover.jpg
-ing: grape-ing
-facts: grape-facts
+file: grape
 servingSize: 1 grape leaf
 section1: Rice
 start2: Grape leaves

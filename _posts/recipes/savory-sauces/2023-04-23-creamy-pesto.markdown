@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/creamy-pesto
 image: /assets/Food/Savory Sauces/Creamy Pesto/pesto-cover.jpg
-ing: pesto-ing
-facts: pesto-facts
+file: pesto
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

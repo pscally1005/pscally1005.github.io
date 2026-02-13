@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/no-honey-mustard
 image: /assets/Food/Savory Sauces/No Honey Mustard/cover.jpg
-ing: nohoneymustard-ing
-facts: nohoneymustard-facts
+file: nohoneymustard
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

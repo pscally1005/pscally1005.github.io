@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/egg-muffins
 image: /assets/Food/Breakfast/Egg Muffin/egg-muffin-cover.jpg
-ing: eggmuffin-ing
-facts: eggmuffin-facts
+file: eggmuffin
 servingSize: 6 mini muffins
 section1:
 start2:

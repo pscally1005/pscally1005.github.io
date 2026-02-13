@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/greek-lemon-potatoes
 image: /assets/Food/Sides/Lemon Potatoes/cover.jpg
-ing: lemonpotatoes-ing
-facts: lemonpotatoes-facts
+file: lemonpotatoes
 servingSize:
 section1: Potatoes
 start2: Water

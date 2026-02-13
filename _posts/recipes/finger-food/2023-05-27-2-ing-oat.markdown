@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/two-ingredient-oat-cookies
 image: /assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-cover.jpg
-ing: 2oatcookie-ing
-facts: 2oatcookie-facts
+file: 2oatcookie
 servingSize: 1 cookie
 section1:
 start2:

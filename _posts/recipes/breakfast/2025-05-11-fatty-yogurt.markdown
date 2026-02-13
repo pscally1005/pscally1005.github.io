@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/fatty-yogurt
 image: /assets/Food/Breakfast/Fatty Yogurt/cover.jpg
-ing: fattyyogurt-ing
-facts: fattyyogurt-facts
+file: fattyyogurt
 servingSize:
 section1:
 start2:

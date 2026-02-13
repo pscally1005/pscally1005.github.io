@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/whipped-feta-spread
 image: /assets/Food/Savory Sauces/Whipped Feta/cover-pepper.jpg
-ing: whippedfeta-ing
-facts: whippedfeta-facts
+file: whippedfeta
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

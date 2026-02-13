@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/baked-beans
 image: /assets/Food/Sides/Baked Beans/baked-beans.jpg
-ing: bakedbeans-ing
-facts: bakedbeans-facts
+file: bakedbeans
 servingSize:
 section1: Step 1
 start2: Gochujang

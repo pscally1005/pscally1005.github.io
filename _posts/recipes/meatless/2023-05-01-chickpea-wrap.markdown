@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chickpea-wrap
 image: /assets/Food/Meatless/Chickpea Wrap/cover.jpg
-ing: chickpeawrap-ing
-facts: chickpeawrap-facts
+file: chickpeawrap
 servingSize:
 section1: Chickpeas
 start2: Whole wheat tortilla

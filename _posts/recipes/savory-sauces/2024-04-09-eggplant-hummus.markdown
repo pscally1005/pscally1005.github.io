@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/roasted-eggplant-hummus
 image: /assets/Food/Savory Sauces/Eggplant Hummus/cover.jpg
-ing: eggplanthummus-ing
-facts: eggplanthummus-facts
+file: eggplanthummus
 servingSize: 2 tbsp (32 g)
 section1: Roasted Eggplant
 start2: Chickpeas, drained and rinsed

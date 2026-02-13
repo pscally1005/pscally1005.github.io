@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/fajitas
 image: /assets/Food/Chicken/Fajitas/cover-new.jpg
-ing: fajitas-ing
-facts: fajitas-facts
+file: fajitas
 servingSize:
 section1: Veggies
 start2: Boneless skinless chicken breast

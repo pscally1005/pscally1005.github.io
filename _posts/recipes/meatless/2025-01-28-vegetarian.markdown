@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vegetarian-meal
 image: /assets/Food/Meatless/Vegetarian/cover.jpg
-ing: vegetarian-ing
-facts: vegetarian-facts
+file: vegetarian
 servingSize:
 section1: Step 1
 start2: Tofu, firm

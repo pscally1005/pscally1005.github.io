@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/chicken-fat-chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Chicken Fat Cookies/cover.jpg
-ing: chickenfatcookies-ing
-facts: chickenfatcookies-facts
+file: chickenfatcookies
 servingSize: 1 cookie
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/salad-base
 image: /assets/Food/Sides/Salad/unmixed.jpg
-ing: basesalad-ing
-facts: basesalad-facts
+file: basesalad
 servingSize:
 section1: Veggies
 start2: Feta cheese

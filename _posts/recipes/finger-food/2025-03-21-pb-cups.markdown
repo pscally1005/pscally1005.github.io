@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pb-cups
 image: /assets/Food/Finger Food/PB Cups/cover.jpg
-ing: pbcups-ing
-facts: pbcups-facts
+file: pbcups
 servingSize: 1 PB cup
 section1: Filling
 start2: Extra virgin coconut oil

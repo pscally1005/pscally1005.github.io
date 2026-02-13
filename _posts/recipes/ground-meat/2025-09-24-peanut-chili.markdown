@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/peanut-butter-chili
 image: /assets/Food/Ground Meat/Peanut Chili/cover.jpg
-ing: peanutchiliv2-ing
-facts: peanutchiliv2-facts
+file: peanutchiliv2
 servingSize:
 section1: Meat
 start2: Extra virgin olive oil

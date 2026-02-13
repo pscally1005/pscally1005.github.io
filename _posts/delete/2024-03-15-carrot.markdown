@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/carrot-spread
 image: /assets/Food/Sweet Spreads/Carrot/carrot-cover.jpg
-ing: carrot-ing
-facts: carrot-facts
+file: carrot
 servingSize: 2 tbsp (32 g)
 section1:
 start2:

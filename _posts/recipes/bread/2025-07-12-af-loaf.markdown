@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/almond-flour-loaf
 image: /assets/Food/Bread/Almond Flour Loaf/sandwich.jpg
-ing: afloaf-ing
-facts: afloaf-facts
+file: afloaf
 servingSize: 1 slice (35 g)
 section1: Dry Ingredients
 start2: Apple cider vinegar

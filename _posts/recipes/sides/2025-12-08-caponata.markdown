@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/caponata
 image: /assets/Food/Sides/Caponata/cover.jpg
-ing: caponata-ing
-facts: caponata-facts
+file: caponata
 servingSize: 1.5 cup (400 g)
 section1: Eggplant
 start2: Onion

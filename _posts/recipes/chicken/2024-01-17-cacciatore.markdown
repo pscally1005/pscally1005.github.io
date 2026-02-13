@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cacciatore
 image: /assets/Food/Chicken/Cacciatore/cacciatore-cover.jpg
-ing: cacciatore-ing
-facts: cacciatore-facts
+file: cacciatore
 servingSize:
 section1: Chicken
 start2: Sweet potato

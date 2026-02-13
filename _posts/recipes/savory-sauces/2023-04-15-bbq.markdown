@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/bbq-sauce
 image: /assets/Food/Savory Sauces/BBQ/bbq-sauce-cover.jpg
-ing: bbqnew-ing
-facts: bbqnew-facts
+file: bbqnew
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

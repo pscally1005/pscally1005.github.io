@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vegetarian-protein-lasagna
 image: /assets/Food/Meme/Vegetarian Lasagna/cover.jpg
-ing: proteinwraplasagna-ing
-facts: proteinwraplasagna-facts
+file: proteinwraplasagna
 servingSize:
 section1: "Noodles"
 start2: Simple pasta sauce

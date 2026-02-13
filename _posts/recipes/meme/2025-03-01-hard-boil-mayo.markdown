@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/hard-boiled-egg-mayo
 image: /assets/Food/Meme/Hard Boil Mayo/cover.jpg
-ing: hardboilmayo-ing
-facts: hardboilmayo-facts
+file: hardboilmayo
 servingSize: 1 tbsp (15 g)
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/carrot-cake
 image: /assets/Food/Protein Powder/Carrot Cake/carrot-cake-cover.jpg
-ing: carrotcake-ing
-facts: carrotcake-facts
+file: carrotcake
 servingSize: 1 slice
 section1: Roasting the Carrots
 start2: Oat flour

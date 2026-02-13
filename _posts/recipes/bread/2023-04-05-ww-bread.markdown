@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/ww-bread
 image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
-ing: wwbread-ing
-facts: wwbread-facts
+file: wwbread
 servingSize: 1 slice
 section1: Base Bread
 start2: Extra virgin olive oil

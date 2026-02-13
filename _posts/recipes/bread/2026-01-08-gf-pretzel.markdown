@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/gluten-free-pretzels
 image: /assets/Food/Bread/GF Pretzel/cover.jpg
-ing: afpretzels-ing
-facts: afpretzels-facts
+file: afpretzels
 servingSize: 1 pretzel
 section1: Dry Ingredients
 start2: Shredded mozzarella cheese, low moisture part skim

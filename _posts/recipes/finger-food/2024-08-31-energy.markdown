@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/energy-bites
 image: /assets/Food/Finger Food/Energy Bites/energy-bites-cover.jpg
-ing: energybites-ing
-facts: energybites-facts
+file: energybites
 servingSize: 1 bite
 section1:
 start2:

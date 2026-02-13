@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/seven-layer-bars
 image: /assets/Food/Healthier Dessert/7 Layer/cover.jpg
-ing: 7layer-ing
-facts: 7layer-facts
+file: 7layer
 servingSize: 1 bar
 section1: Layer 7 - Condensed Milk
 start2: Oat flour

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/roasted-garlic-hummus
 image: /assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus.jpg
-ing: garlichummus-ing
-facts: garlichummus-facts
+file: garlichummus
 servingSize: 2 tbsp (30 g)
 section1: Roasted Garilc
 start2: Chickpeas, drained and rinsed

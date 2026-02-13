@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/indian-chicken
 image: /assets/Food/Chicken/Indian/plate.jpg
-ing: indiannew-ing
-facts: indiannew-facts
+file: indiannew
 servingSize:
 section1: Potatoes
 start2: Boneless skinless chicken breast

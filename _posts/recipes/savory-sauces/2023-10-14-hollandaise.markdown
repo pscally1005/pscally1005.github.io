@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/hollandaise
 image: /assets/Food/Savory Sauces/Hollandaise/cover.jpg
-ing: hollandaise-ing
-facts: hollandaise-facts
+file: hollandaise
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/beef-liver
 image: /assets/Food/Meme/Liver/cover.jpg
-ing: liver-ing
-facts: liver-facts
+file: liver
 servingSize:
 section1: Potatoes
 start2: Frozen broccoli, thawed

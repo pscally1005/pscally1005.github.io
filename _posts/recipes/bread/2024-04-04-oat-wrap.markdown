@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/oat-wraps
 image: /assets/Food/Bread/Oat Wrap/oat-wrap.jpg
-ing: oatwraps-ing
-facts: oatwraps-facts
+file: oatwraps
 servingSize: 1 wrap
 section1:
 start2:

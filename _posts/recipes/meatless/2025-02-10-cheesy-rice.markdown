@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cheesy-rice-and-broccoli
 image: /assets/Food/Meatless/Cheesy Rice/cover.jpg
-ing: cheesyrice-ing
-facts: cheesyrice-facts
+file: cheesyrice
 servingSize:
 section1: Rice
 start2: Frozen broccoli, thawed

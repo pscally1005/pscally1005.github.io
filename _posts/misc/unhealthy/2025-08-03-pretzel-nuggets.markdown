@@ -7,8 +7,7 @@ categories:
 - Unhealthy Recipes
 permalink: /recipes/pretzel-nuggets
 image: /assets/Misc/Unhealthy/Pretzel Nuggets/cover-2.jpg
-ing: pretzelnugg-ing
-facts: pretzelnugg-facts
+file: pretzelnugg
 servingSize: 1 nugget
 section1: Filling
 start2: Pretzels

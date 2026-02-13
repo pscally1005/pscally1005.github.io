@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vegan-mac-and-cheese
 image: /assets/Food/Meme/Mac & Cheese/fake-mac-cover.jpg
-ing: fakemaccheese-ing
-facts: fakemaccheese-facts
+file: fakemaccheese
 servingSize:
 section1: 'Mac'
 start2: Cashews

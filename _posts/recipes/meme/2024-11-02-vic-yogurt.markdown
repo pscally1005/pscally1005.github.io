@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vic-yogurt
 image: /assets/Food/Meme/Yogurt/cover.jpg
-ing: vicyogurt-ing
-facts: vicyogurt-facts
+file: vicyogurt
 servingSize:
 section1:
 start2:

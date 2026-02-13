@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/yogurt-apple
 image: /assets/Food/Breakfast/Yogurt/yogurt-apple-new.jpg
-ing: yogurtapple-ing
-facts: yogurtapple-facts
+file: yogurtapple
 servingSize:
 section1: Apple
 start2: Plain nonfat greek yogurt

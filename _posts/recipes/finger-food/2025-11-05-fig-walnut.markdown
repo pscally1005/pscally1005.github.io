@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/fig-walnut-energy-bites
 image: /assets/Food/Finger Food/Fig Walnut/cover1.jpg
-ing: figwalnut-ing
-facts: figwalnut-facts
+file: figwalnut
 servingSize: 1 ball (19 g)
 section1:
 start2:

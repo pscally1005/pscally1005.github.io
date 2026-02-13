@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/sugar-free-fudge
 image: /assets/Food/Finger Food/SF Fudge/cover.jpg
-ing: sffudge-ing
-facts: sffudge-facts
+file: sffudge
 servingSize: 1 piece (~19 g)
 section1:
 start2:

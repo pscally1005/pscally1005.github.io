@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/keto-bread-loaf
 image: /assets/Food/Bread/Keto Bread/cover1.jpg
-ing: ketobread-ing
-facts: ketobread-facts
+file: ketobread
 servingSize: 1 slice
 section1: Wet Ingredients
 start2: Apple cider vinegar

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chicken-piccata
 image: /assets/Food/Chicken/Piccata/cover2.jpg
-ing: piccata-ing
-facts: piccata-facts
+file: piccata
 servingSize:
 section1: Step 1
 start2: Coconut flour

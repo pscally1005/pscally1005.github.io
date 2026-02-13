@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/hot-honey-cornbread
 image: /assets/Food/Sides/Hot Honey Cornbread/cover.jpg
-ing: hothoneycornbread-ing
-facts: hothoneycornbread-facts
+file: hothoneycornbread
 servingSize: 1 slice
 section1: Dry
 start2: Hot honey

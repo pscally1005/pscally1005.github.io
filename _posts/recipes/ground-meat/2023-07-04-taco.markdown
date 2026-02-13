@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/taco
 image: /assets/Food/Ground Meat/Taco/taco-meat.jpg
-ing: taco-ing
-facts: taco-facts
+file: taco
 servingSize:
 section1: Spice Mix
 start2: Onion

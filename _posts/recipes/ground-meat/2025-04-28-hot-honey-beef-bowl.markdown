@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/hot-honey-beef-bowls
 image: /assets/Food/Ground Meat/Hot Honey Beef Bowls/cover.jpg
-ing: hothoneybeefbowl-ing
-facts: hothoneybeefbowl-facts
+file: hothoneybeefbowl
 servingSize:
 section1: Sweet potatoes
 start2: Ground beef, 93/7

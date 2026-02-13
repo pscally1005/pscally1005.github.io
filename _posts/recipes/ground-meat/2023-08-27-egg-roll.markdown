@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/egg-roll-bowl
 image: /assets/Food/Ground Meat/Egg Roll/egg-roll-cover.jpg
-ing: eggroll-ing
-facts: eggroll-facts
+file: eggroll
 servingSize:
 section1: Meat
 start2: Cabbage

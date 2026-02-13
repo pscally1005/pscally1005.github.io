@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/secret-truffles
 image: /assets/Food/Meme/Secret/cover.jpg
-ing: secret-ing
-facts: secret-facts
+file: secret
 servingSize: 1 truffle
 section1: Truffle
 start2: Cocoa Powder

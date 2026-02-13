@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/kale
 image: /assets/Food/Meatless/Kale/kale.jpg
-ing: kale-ing
-facts: kale-facts
+file: kale
 servingSize:
 section1: Step 1
 start2: Minced garlic

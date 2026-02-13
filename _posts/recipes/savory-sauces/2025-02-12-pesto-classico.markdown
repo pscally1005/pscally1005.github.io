@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pesto-classico
 image: /assets/Food/Savory Sauces/Pesto Classico/pesto.jpg
-ing: pestoclassico-ing
-facts: pestoclassico-facts
+file: pestoclassico
 servingSize: 2 tbsp (29 g)
 section1:
 start2:

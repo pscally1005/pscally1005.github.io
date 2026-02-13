@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/corn-on-the-cob
 image: /assets/Food/Sides/Corn/corn-cooked.jpg
-ing: corn-ing
-facts: corn-facts
+file: corn
 servingSize: 1 ear
 section1:
 start2:

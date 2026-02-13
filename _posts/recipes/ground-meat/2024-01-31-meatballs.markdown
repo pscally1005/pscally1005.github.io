@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/meatballs
 image: /assets/Food/Ground Meat/Meatballs/meatballs-cover.jpg
-ing: meatballs-ing
-facts: meatballs-facts
+file: meatballs
 servingSize:
 section1: Meatballs
 start2: Zucchini

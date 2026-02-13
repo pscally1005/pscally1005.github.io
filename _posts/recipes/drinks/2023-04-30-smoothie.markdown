@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/smoothie
 image: /assets/Food/Drinks/Smoothie/smoothie-cover.jpg
-ing: smoothie-ing
-facts: smoothie-facts
+file: smoothie
 servingSize:
 section1:
 start2:

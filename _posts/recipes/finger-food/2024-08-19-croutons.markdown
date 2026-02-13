@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/white-bean-croutons
 image: /assets/Food/Finger Food/Croutons/croutons-cover.jpg
-ing: croutons-ing
-facts: croutons-facts
+file: croutons
 servingSize: 33 g
 section1:
 start2:

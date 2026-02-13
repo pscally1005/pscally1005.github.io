@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/sweet-potato-fries
 image: /assets/Food/Finger Food/Fries/cover.jpg
-ing: fries-ing
-facts: fries-facts
+file: fries
 servingSize:
 section1:
 start2:

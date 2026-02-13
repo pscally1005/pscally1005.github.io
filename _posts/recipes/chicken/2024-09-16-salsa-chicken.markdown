@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/salsa-chicken
 image: /assets/Food/Chicken/Salsa Chicken/cover.jpg
-ing: salsachicken-ing
-facts: salsachicken-facts
+file: salsachicken
 servingSize:
 section1:
 start2:

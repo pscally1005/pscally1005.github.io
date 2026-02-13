@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/spinach-mushroom-scrambled-eggs
 image: /assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-feta.jpg
-ing: spinachmushroom-ing
-facts: spinachmushroom-facts
+file: spinachmushroom
 servingSize:
 section1: Veggies
 start2: Chili powder

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/butternut-squash
 image: /assets/Food/Sides/Butternut squash/plate.jpg
-ing: butternutsquash-ing
-facts: butternutsquash-facts
+file: butternutsquash
 servingSize:
 section1:
 start2:

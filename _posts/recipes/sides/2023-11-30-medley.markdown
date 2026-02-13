@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vegetable-medley
 image: /assets/Food/Sides/Medley/pan.jpg
-ing: medley-ing
-facts: medley-facts
+file: medley
 servingSize: About 190 g
 section1: Onions
 start2: Chili powder

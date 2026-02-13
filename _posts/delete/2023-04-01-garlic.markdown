@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chocolate-covered-garlic
 image: /assets/Food/Meme/Garlic/garlic.jpg
-ing: garlic-ing
-facts: garlic-facts
+file: garlic
 servingSize:
 section1:
 start2:

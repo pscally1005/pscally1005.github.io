@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/black-bean-burger
 image: /assets/Food/Meatless/Bean Burger/cover.jpg
-ing: beanburger-ing
-facts: beanburger-facts
+file: beanburger
 servingSize: 1 patty
 section1: Step 1
 start2: Onion

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cloud-bread-loaf
 image: /assets/Food/Bread/Cloud Loaf/cover.jpg
-ing: cloudloaf-ing
-facts: cloudloaf-facts
+file: cloudloaf
 servingSize: 1 slice
 section1:
 start2:

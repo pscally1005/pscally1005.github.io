@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/spinach-meatloaf
 image: /assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-cover.jpg
-ing: spinachmeat-ing
-facts: spinachmeat-facts
+file: spinachmeat
 servingSize:
 section1: Butternut Squash
 start2: Ground turkey, 93/7

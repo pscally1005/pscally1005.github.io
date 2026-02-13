@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/reconstituted-peanut-butter
 image: /assets/Food/Meme/PB/pb.jpg
-ing: reconstitutedpb-ing
-facts: reconstitutedpb-facts
+file: reconstitutedpb
 servingSize: 2 tbsp (32 g)
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pretzel
 image: /assets/Food/Bread/Pretzels/pretzel-cover.jpg
-ing: pretzel-ing
-facts: pretzel-facts
+file: pretzel
 servingSize: 1 pretzel
 section1:
 start2:

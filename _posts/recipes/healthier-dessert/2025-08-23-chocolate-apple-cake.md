@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chocolate-apple-cake
 image: /assets/Food/Healthier Dessert/Chocolate apple cake/cover.jpg
-ing: chocolateapplecake-ing
-facts: chocolateapplecake-facts
+file: chocolateapplecake
 servingSize: Whole batch
 section1: 
 start2: 

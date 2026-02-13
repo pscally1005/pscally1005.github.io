@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chickpea-sandwich
 image: /assets/Food/Meatless/Chickpea Sandwich/chickpea-sand.jpg
-ing: chickpeasand-ing
-facts: chickpeasand-facts
+file: chickpeasand
 servingSize:
 section1: Chickpeas
 start2: Whole wheat bread

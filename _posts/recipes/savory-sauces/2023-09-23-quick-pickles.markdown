@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pickled-onions
 image: /assets/Food/Savory Sauces/Quick Pickles/quick-pickles.jpg
-ing: quickpickle-ing
-facts: quickpickle-facts
+file: quickpickle
 servingSize: 1 oz (28 g)
 section1:
 start2:

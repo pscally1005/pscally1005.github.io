@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/farro-bowls
 image: /assets/Food/Chicken/Farro Bowls/cover.jpg
-ing: farrobowl-ing
-facts: farrobowl-facts
+file: farrobowl
 servingSize:
 section1: Farro
 start2: Frozen broccoli, thawed

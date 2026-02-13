@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/oats-pb
 image: /assets/Food/Breakfast/Oatmeal/oats-pb.jpg
-ing: oatspb-ing
-facts: oatspb-facts
+file: oatspb
 servingSize:
 section1:
 start2:

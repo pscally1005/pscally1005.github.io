@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/poor-mans-ice-cream
 image: /assets/Food/Meme/Ice Cream/ice-cream-cover.jpg
-ing: pooricecream-ing
-facts: pooricecream-facts
+file: pooricecream
 servingSize:
 section1:
 start2:

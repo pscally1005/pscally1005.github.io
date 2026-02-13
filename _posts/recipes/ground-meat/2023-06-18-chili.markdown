@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chili
 image: /assets/Food/Ground Meat/Chili/chili-cover.jpg
-ing: chili-ing
-facts: chili-facts
+file: chili
 servingSize:
 section1: Vegetables & Spices
 start2: Ground turkey, 93/7

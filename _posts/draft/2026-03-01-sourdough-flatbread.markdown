@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/sourdough-flatbread
 image: /assets/Food/Bread/Discard flatbread/cover.jpg
-ing: sourdoughflatbread-ing
-facts: sourdoughflatbread-facts
+file: sourdoughflatbread
 servingSize: 1 flatbread
 section1:
 start2:

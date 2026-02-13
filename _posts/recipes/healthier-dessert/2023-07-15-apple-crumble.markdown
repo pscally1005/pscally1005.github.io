@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/apple-crumble
 image: /assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-cover.jpg
-ing: applecrumble-ing
-facts: applecrumble-facts
+file: applecrumble
 servingSize:
 section1: Apple Filling
 start2: Quick oats

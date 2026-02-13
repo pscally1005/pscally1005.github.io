@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/hot-honey
 image: /assets/Food/Savory Sauces/Hot Honey/hot-honey.jpg
-ing: hothoney-ing
-facts: hothoney-facts
+file: hothoney
 servingSize: 1 tbsp (20 g)
 section1:
 start2:

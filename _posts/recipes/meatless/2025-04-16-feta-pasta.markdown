@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/feta-pasta
 image: /assets/Food/Meatless/Feta pasta/separate.jpg
-ing: fetapasta-ing
-facts: fetapasta-facts
+file: fetapasta
 servingSize:
 section1: Oven
 start2: Whole wheat pasta

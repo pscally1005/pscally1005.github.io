@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/haggis
 image: /assets/Food/Ground Meat/Haggis/cover-1.jpg
-ing: haggis-ing
-facts: haggis-facts
+file: haggis
 servingSize:
 section1: Sautee the Onion
 start2: Beef liver

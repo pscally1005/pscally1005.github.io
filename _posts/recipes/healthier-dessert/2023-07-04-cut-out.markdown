@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/cut-out-cookies
 image: /assets/Food/Healthier Dessert/Cut Out/cut-out-cover.jpg
-ing: cutout-ing
-facts: cutout-facts
+file: cutout
 servingSize: 1 cookie
 section1: Dry
 start2: Egg

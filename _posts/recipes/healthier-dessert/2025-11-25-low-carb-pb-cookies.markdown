@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/low-carb-pb-cookies
 image: /assets/Food/Healthier Dessert/Low Carb PB/in.jpg
-ing: lowcarbpbcookies-ing
-facts: lowcarbpbcookies-facts
+file: lowcarbpbcookies
 servingSize: 1 cookie
 section1:
 start2:

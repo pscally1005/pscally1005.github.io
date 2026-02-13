@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cauliflower-rice
 image: /assets/Food/Sides/Cauli Rice/cauli-rice-cover.jpg
-ing: caulirice-ing
-facts: caulirice-facts
+file: caulirice
 servingSize:
 section1:
 start2:

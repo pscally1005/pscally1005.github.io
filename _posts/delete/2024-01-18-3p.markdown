@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/triple-p
 image: /assets/Food/Meme/3P/3p.jpg
-ing: 3p-ing
-facts: 3p-facts
+file: 3p
 servingSize: 1 ball
 section1:
 start2:

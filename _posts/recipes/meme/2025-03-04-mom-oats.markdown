@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/mom-oatmeal
 image: /assets/Food/Meme/Mom Oats/cover.jpg
-ing: momoats-ing
-facts: momoats-facts
+file: momoats
 servingSize:
 section1:
 start2:

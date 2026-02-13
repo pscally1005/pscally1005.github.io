@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/french-onion-miso-soup
 image: /assets/Food/Meme/French Onion Miso Soup/miso-soup.jpg
-ing: frenchonionmisosoup-ing
-facts: frenchonionmisosoup-facts
+file: frenchonionmisosoup
 servingSize:
 section1: Veggies
 start2: Low sodium vegetable broth

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cloud-bread
 image: /assets/Food/Bread/Cloud Bread/cloud-cover.jpg
-ing: cloud-ing
-facts: cloud-facts
+file: cloud
 servingSize: 2 small or 1 large
 section1:
 start2:

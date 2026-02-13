@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/stuffed-peppers
 image: /assets/Food/Finger Food/Stuffed/cover.jpg
-ing: stuffed-ing
-facts: stuffed-facts
+file: stuffed
 servingSize: 1/2 pepper
 section1: Rice
 start2: Bell pepper

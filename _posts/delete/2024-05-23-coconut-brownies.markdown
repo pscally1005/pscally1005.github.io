@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/coconut-brownies
 image: /assets/Food/Healthier Dessert/Coconut Brownies/coconut-brownie.jpg
-ing: coconutbrownies-ing
-facts: coconutbrownies-facts
+file: coconutbrownies
 servingSize: 1 brownie
 section1:
 start2:

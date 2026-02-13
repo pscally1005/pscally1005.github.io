@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pan-de-higo
 image: /assets/Food/Finger Food/Pan de Higo/cover.jpg
-ing: pandehigo-ing
-facts: pandehigo-facts
+file: pandehigo
 servingSize: 1 piece
 section1:
 start2:

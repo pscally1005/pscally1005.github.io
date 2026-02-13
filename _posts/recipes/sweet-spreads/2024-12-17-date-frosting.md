@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/date-frosting
 image: /assets/Food/Sweet Spreads/Frosting/cover.jpg
-ing: frosting-ing
-facts: frosting-facts
+file: frosting
 servingSize: 2 tbsp (29 g)
 section1: 
 start2: 

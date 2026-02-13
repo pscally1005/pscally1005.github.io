@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/grilled-shrimp
 image: /assets/Food/Fish/Grilled Shrimp/cover.jpg
-ing: grilledshrimp-ing
-facts: grilledshrimp-facts
+file: grilledshrimp
 servingSize:
 section1: Shrimp
 start2: Hot sauce

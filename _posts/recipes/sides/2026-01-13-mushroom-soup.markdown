@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/mushroom-soup
 image: /assets/Food/Sides/Mushroom Soup/mushroom-soup.jpg
-ing: mushroomsoup-ing
-facts: mushroomsoup-facts
+file: mushroomsoup
 servingSize:
 section1: Step 1
 start2: White mushrooms

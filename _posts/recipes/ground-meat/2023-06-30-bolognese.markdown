@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/bolognese
 image: /assets/Food/Ground Meat/Bolognese/bolognese-cover.jpg
-ing: bolognese-ing
-facts: bolognese-facts
+file: bolognese
 servingSize:
 section1: Vegetables
 start2: Ground turkey, 93/7

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/apple-spread
 image: /assets/Food/Sweet Spreads/Apple Spread/cover.jpg
-ing: applespread-ing
-facts: applespread-facts
+file: applespread
 servingSize: 1 tbsp (20 g)
 section1: Beginning
 start2: Lemon juice

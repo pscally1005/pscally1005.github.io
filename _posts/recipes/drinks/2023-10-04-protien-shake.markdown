@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-shake
 image: /assets/Food/Drinks/Protein/cover.jpg
-ing: proteinshake-ing
-facts: proteinshake-facts
+file: proteinshake
 servingSize:
 section1:
 start2:

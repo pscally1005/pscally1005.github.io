@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chicken-nuggets
 image: /assets/Food/Finger Food/Nuggies/cover.jpg
-ing: nuggies-ing
-facts: nuggies-facts
+file: nuggies
 servingSize: 1 nugget
 section1: Food processor
 start2: Egg

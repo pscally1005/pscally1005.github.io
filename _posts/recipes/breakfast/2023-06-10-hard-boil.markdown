@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/hard-boiled-egg
 image: /assets/Food/Breakfast/Hard Boiled/cover.jpg
-ing: hardboil-ing
-facts: hardboil-facts
+file: hardboil
 servingSize: 1 egg
 section1:
 start2:

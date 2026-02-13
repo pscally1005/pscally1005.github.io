@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chickpea-date-brownies
 image: /assets/Food/Healthier Dessert/Chickpea Date Brownie/cover.jpg
-ing: chickpeadatebrownies-ing
-facts: chickpeadatebrownies-facts
+file: chickpeadatebrownies
 servingSize: 1 brownie
 section1: 
 start2: 

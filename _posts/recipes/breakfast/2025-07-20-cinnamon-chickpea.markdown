@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cinnamon-chickpea
 image: /assets/Food/Breakfast/Chickpea/milk.jpg
-ing: cinnamontoastchickpeas-ing
-facts: cinnamontoastchickpeas-facts
+file: cinnamontoastchickpeas
 servingSize:
 section1: Cereal
 start2: Unsweetened almond milk

@@ -19,8 +19,7 @@ cookie: no
 copycat: yes
 permalink: /recipes/core-power-milkshake
 image: /assets/Food/Drinks/Core Power/core-power.jpg
-ing: corepower-ing
-facts: corepower-facts
+file: corepower
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/three-sisters
 image: /assets/Food/Meatless/3 Sisters/bowl.jpg
-ing: 3sisters-ing
-facts: 3sisters-facts
+file: 3sisters
 servingSize:
 section1: Beans
 start2: Butternut squash

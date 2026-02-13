@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/manhattan-clam-chowder
 image: /assets/Food/Fish/M Clam Chowder/pot.jpg
-ing: manhattan-ing
-facts: manhattan-facts
+file: manhattan
 servingSize:
 section1: Step 1
 start2: Potato

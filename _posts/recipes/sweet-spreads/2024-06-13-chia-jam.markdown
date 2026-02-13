@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/strawberry-chia-jam
 image: /assets/Food/Sweet Spreads/Chia Jam/chia-jam.jpg
-ing: chiajam-ing
-facts: chiajam-facts
+file: chiajam
 servingSize: 1 tbsp (19 g)
 section1:
 start2:

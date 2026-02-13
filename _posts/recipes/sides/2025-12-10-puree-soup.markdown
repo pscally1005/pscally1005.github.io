@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/puree-veggie-soup
 image: /assets/Food/Sides/Puree Soup/cover.jpg
-ing: pureesoup-ing
-facts: pureesoup-facts
+file: pureesoup
 servingSize: 1 bowl (550 g)
 section1: Veggies
 start2: Salt

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/peanut-butter-pie
 image: /assets/Food/Healthier Dessert/PB Pie/pb-pie-cover.jpg
-ing: pbpienew-ing
-facts: pbpienew-facts
+file: pbpienew
 servingSize: 1 slice
 section1: Crust
 start2: Banana, overripe

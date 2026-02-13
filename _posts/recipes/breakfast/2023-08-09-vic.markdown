@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vic-oats
 image: /assets/Food/Breakfast/Vic Oats/very-vic.jpg
-ing: vic-ing
-facts: vic-facts
+file: vic
 servingSize:
 section1:
 start2:

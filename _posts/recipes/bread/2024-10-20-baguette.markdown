@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/whole-wheat-baguettes
 image: /assets/Food/Bread/Baguette/bruschetta-portrait.jpg
-ing: baguette-ing
-facts: baguette-facts
+file: baguette
 servingSize: 1 loaf
 section1:
 start2:

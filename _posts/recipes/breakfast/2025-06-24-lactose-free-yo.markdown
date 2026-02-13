@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/lactose-free-yogurt
 image: /assets/Food/Breakfast/Lactose Free Yogurt/cover-1.jpg
-ing: lactosefreeyog-ing
-facts: lactosefreeyog-facts
+file: lactosefreeyog
 servingSize: 3/4 cup (170 g)
 section1:
 start2:

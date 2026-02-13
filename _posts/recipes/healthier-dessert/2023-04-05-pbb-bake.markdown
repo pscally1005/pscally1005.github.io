@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/peanut-butter-banana-bake
 image: /assets/Food/Healthier Dessert/PB Banana Bake/pbb-cover.jpg
-ing: pbbbake-ing
-facts: pbbbake-facts
+file: pbbbake
 servingSize: 1 bar
 section1:
 start2:

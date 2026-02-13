@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/guacamole
 image: /assets/Food/Savory Sauces/Guac/guac.jpg
-ing: guac-ing
-facts: guac-facts
+file: guac
 servingSize: 2 tbsp (31 g)
 section1: Guac
 start2: Paprika

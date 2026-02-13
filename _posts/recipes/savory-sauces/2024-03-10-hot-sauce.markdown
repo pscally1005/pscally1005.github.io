@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/hot-sauce
 image: /assets/Food/Savory Sauces/Hot Sauce/hot-sauce-cover.jpg
-ing: hotsauce-ing
-facts: hotsauce-facts
+file: hotsauce
 servingSize:
 section1:
 start2:

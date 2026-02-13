@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/avocado-tuna-salad
 image: /assets/Food/Fish/Avocado Tuna Salad/plate.jpg
-ing: avotuna-ing
-facts: avotuna-facts
+file: avotuna
 servingSize: 265 g
 section1:
 start2:

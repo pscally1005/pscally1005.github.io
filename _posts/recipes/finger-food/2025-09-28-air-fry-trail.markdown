@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/air-fried-trail-mix
 image: /assets/Food/Finger Food/Air Fry Trail Mix/cover.jpg
-ing: airfrytrail-ing
-facts: airfrytrail-facts
+file: airfrytrail
 servingSize: 1 oz (29 g)
 section1: Roasted Chickpeas
 start2: Almonds

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/big-boi
 image: /assets/Food/Breakfast/Big Boi/big-boi.jpg
-ing: bigboi-ing
-facts: bigboi-facts
+file: bigboi
 servingSize:
 section1:
 start2:

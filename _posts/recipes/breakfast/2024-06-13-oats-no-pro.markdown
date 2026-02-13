@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/no-protein-powder-oatmeal
 image: /assets/Food/Breakfast/No Pro/no-pro.jpg
-ing: oatsnopro-ing
-facts: oatsnopro-facts
+file: oatsnopro
 servingSize:
 section1:
 start2:

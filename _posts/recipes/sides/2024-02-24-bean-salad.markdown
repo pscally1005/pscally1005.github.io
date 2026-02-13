@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/bean-salad
 image: /assets/Food/Sides/Bean Salad/bean-salad-cover.jpg
-ing: beansalad-ing
-facts: beansalad-facts
+file: beansalad
 servingSize:
 section1: Salad
 start2: Extra virgin olive oil

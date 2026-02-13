@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/oats-pumpkin
 image: /assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg
-ing: oatspumpkin-ing
-facts: oatspumpkin-facts
+file: oatspumpkin
 servingSize:
 section1:
 start2:

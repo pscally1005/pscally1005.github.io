@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chickpea-chows
 image: /assets/Food/Protein Powder/Chickpea Chow/chow.jpg
-ing: chow-ing
-facts: chow-facts
+file: chow
 servingSize: 1 piece
 section1:
 start2:

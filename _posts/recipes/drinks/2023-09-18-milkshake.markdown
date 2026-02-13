@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/milkshake
 image: /assets/Food/Drinks/Milkshake/milkshake.jpg
-ing: milkshake-ing
-facts: milkshake-facts
+file: milkshake
 servingSize:
 section1:
 start2:

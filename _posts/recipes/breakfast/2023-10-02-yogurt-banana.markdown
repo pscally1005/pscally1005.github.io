@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/yogurt-banana
 image: /assets/Food/Breakfast/Yogurt/yogurt-banana.jpg
-ing: yogurtbanana-ing
-facts: yogurtbanana-facts
+file: yogurtbanana
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cashew-ricotta-cheese
 image: /assets/Food/Savory Sauces/Cashew Ricotta/cover.jpg
-ing: cashewricotta-ing
-facts: cashewricotta-facts
+file: cashewricotta
 servingSize: 1/4 cup (56 g)
 section1: Soak
 start2: Apple cider vinegar

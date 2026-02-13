@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/marinated-chicken
 image: /assets/Food/Chicken/Marinated/marinated-cover.jpg
-ing: marinated-ing
-facts: marinated-facts
+file: marinated
 servingSize:
 section1: Chicken
 start2: Italian seasoning

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/nordic-nut-loaf
 image: /assets/Food/Bread/Nut Loaf/nut-loaf-cover.jpg
-ing: nutloaf-ing
-facts: nutloaf-facts
+file: nutloaf
 servingSize: 1 slice
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/raspberry-brownies
 image: /assets/Food/Healthier Dessert/Raspberry Brownies/cover-2.jpg
-ing: raspberrybrownies-ing
-facts: raspberrybrownies-facts
+file: raspberrybrownies
 servingSize: 1 brownie
 section1: Wet Ingredients
 start2: Oat flour

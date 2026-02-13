@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-slop
 image: /assets/Food/Meme/Protein Slop/cover.jpg
-ing: proteinslop-ing
-facts: proteinslop-facts
+file: proteinslop
 servingSize:
 section1: Sweet Potato
 start2: Tuna, in water

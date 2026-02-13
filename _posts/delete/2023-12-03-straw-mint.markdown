@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/straw-mint
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-straw-mint.jpg
-ing: strawmint-ing
-facts: strawmint-facts
+file: strawmint
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

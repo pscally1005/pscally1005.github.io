@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/babaganoush
 image: /assets/Food/Savory Sauces/Babaganoush/cover.jpg
-ing: babaganoush-ing
-facts: babaganoush-facts
+file: babaganoush
 servingSize: 2 tbsp (32 g)
 section1:
 start2:

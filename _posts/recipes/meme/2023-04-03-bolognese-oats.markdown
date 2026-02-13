@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/bolognese-oats
 image: /assets/Food/Meme/Bolognese/bolognese-oats.jpg
-ing: bologneseoats-ing
-facts: bologneseoats-facts
+file: bologneseoats
 servingSize:
 section1: Bolognese
 start2: Water

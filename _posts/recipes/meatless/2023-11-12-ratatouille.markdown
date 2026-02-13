@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/ratatouille
 image: /assets/Food/Meatless/Ratatouille/ratatouille-cover.jpg
-ing: ratatouille-ing
-facts: ratatouille-facts
+file: ratatouille
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: yes
 permalink: /recipes/triscuits
 image: /assets/Food/Finger Food/Triscuit/cover-new.jpg
-ing: triscuit-ing
-facts: triscuit-facts
+file: triscuit
 servingSize: 1 oz (28 g), about 15 crackers
 section1:
 start2:

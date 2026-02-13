@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/low-fodmap-chili
 image: /assets/Food/Ground Meat/Low FODMAP Chili/cover.jpg
-ing: lowfodmapchili-ing
-facts: lowfodmapchili-facts
+file: lowfodmapchili
 servingSize:
 section1: Peppers, Carrots, & Spices
 start2: Sweet potato

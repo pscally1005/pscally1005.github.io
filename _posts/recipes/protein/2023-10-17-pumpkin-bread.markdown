@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pumpkin-bread
 image: /assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-cover.jpg
-ing: pumpkinbread-ing
-facts: pumpkinbread-facts
+file: pumpkinbread
 servingSize: 1 slice
 section1: Wet
 start2: Oat flour

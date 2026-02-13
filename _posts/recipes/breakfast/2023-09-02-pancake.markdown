@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pancake
 image: /assets/Food/Breakfast/Pumpkin Pancake/cover.jpg
-ing: pancake-ing
-facts: pancake-facts
+file: pancake
 servingSize: Whole batch
 section1:
 start2:

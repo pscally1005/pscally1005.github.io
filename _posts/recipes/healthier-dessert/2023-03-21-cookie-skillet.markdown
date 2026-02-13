@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/chocolate-chip-cookie-skillet
 image: /assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-cover.jpg
-ing: cookieskillet-ing
-facts: cookieskillet-facts
+file: cookieskillet
 servingSize: 1 slice
 section1:
 start2:

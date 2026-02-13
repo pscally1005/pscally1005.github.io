@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chicken-stew
 image: /assets/Food/Chicken/Stew/stew-cover.jpg
-ing: stew-ing
-facts: stew-facts
+file: stew
 servingSize:
 section1: Veggies
 start2: Boneless skinless chicken thighs

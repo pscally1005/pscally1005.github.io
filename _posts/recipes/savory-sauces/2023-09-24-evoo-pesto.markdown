@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/evoo-pesto
 image: /assets/Food/Savory Sauces/EVOO Pesto/sandwich.jpg
-ing: evoo-ing
-facts: evoo-facts
+file: evoo
 servingSize: 2 tbsp (31 g)
 section1:
 start2:

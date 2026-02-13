@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/parmesan-broccoli
 image: /assets/Food/Sides/Parm Broccoli/cover.jpg
-ing: parmbroccoli-ing
-facts: parmbroccoli-facts
+file: parmbroccoli
 servingSize:
 section1:
 start2:

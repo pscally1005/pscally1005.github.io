@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/omega-3-yogurt-bowl
 image: /assets/Food/Breakfast/Omega3 Yogurt/omega3-yogurt.jpg
-ing: omega3yogurt-ing
-facts: omega3yogurt-facts
+file: omega3yogurt
 servingSize:
 section1:
 start2:

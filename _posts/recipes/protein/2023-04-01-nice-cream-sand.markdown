@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/nice-cream-sandwiches
 image: /assets/Food/Protein Powder/Nice Cream/nice-cream-cover.jpg
-ing: nicecreamsand-ing
-facts: nicecreamsand-facts
+file: nicecreamsand
 servingSize: 1 sandwich
 section1: Cookies
 start2: Frozen overripe bananas

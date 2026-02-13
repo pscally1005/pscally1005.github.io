@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/brain-boosting-bowl
 image: /assets/Food/Fish/Brain Bowl/brain-bowl.jpg
-ing: brainbowl-ing
-facts: brainbowl-facts
+file: brainbowl
 servingSize:
 section1:
 start2:

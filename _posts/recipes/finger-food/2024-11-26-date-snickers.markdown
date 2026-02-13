@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/date-snickers
 image: /assets/Food/Finger Food/Date Snickers/date-snickers.jpg
-ing: datesnickers-ing
-facts: datesnickers-facts
+file: datesnickers
 servingSize: 1 date
 section1:
 start2:

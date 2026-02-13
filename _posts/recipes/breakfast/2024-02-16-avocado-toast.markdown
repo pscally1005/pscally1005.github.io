@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/avocado-toast
 image: /assets/Food/Breakfast/Avocado Toast/toast.jpg
-ing: toast-ing
-facts: toast-facts
+file: toast
 servingSize: 2 slices
 section1: Bread
 start2: Avocado

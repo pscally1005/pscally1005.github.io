@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pumpkin-cake
 image: /assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-1.jpg
-ing: pumpkincake-ing
-facts: pumpkincake-facts
+file: pumpkincake
 servingSize: 1 slice
 section1: Wet
 start2: Salt

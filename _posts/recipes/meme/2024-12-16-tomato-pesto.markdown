@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/tomato-pesto
 image: /assets/Food/Meme/Tomato Pesto/pasta.jpg
-ing: tomatopesto-ing
-facts: tomatopesto-facts
+file: tomatopesto
 servingSize: 3 tbsp (50 g)
 section1:
 start2:

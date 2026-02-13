@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/slow-cooked-beans
 image: /assets/Food/Sides/Crockpot Beans/beans-cover.jpg
-ing: crockpotbeans-ing
-facts: crockpotbeans-facts
+file: crockpotbeans
 servingSize: 1/4 cup dry (50 g) or 3/4 cup cooked (141 g)
 section1:
 start2:

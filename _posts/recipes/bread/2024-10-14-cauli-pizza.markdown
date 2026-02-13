@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cauliflower-pizza
 image: /assets/Food/Bread/Cauli Pizza/cauli-pizza-cover.jpg
-ing: caulipizza-ing
-facts: caulipizza-facts
+file: caulipizza
 servingSize: 1 pizza
 section1: Crust
 start2:  Unsweetened tomato sauce

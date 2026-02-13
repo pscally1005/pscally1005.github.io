@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/oats-berry
 image: /assets/Food/Breakfast/Oatmeal/oats-berry.jpg
-ing: oatsberry-ing
-facts: oatsberry-facts
+file: oatsberry
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/greek-yogurt-gnocchi
 image: /assets/Food/Sides/Yogurt Gnocchi/cover-1.jpg
-ing: yogurtgnocchiww-ing
-facts: yogurtgnocchiww-facts
+file: yogurtgnocchiww
 servingSize:
 section1: Strain the yogurt
 start2: Egg

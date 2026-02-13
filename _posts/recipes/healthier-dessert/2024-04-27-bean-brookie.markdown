@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/dual-bean-date-brookies
 image: /assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-cover.jpg
-ing: beanbrookie-ing
-facts: beanbrookie-facts
+file: beanbrookie
 servingSize: 1 brookie
 section1: Brownies
 start2: Chickpeas, drained and rinsed

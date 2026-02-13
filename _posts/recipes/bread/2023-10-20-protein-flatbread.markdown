@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-wrap
 image: /assets/Food/Bread/Protein Wrap/protein-wrap-cover.jpg
-ing: proteinwrap-ing
-facts: proteinwrap-facts
+file: proteinwrap
 servingSize: 1 flatbread
 section1:
 start2:

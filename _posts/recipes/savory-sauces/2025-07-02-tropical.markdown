@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/tropical-salsa
 image: /assets/Food/Savory Sauces/Tropical Salsa/salsa.jpg
-ing: tropical-ing
-facts: tropical-facts
+file: tropical
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

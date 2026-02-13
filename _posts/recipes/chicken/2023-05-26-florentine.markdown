@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chicken-florentine
 image: /assets/Food/Chicken/Florentine/cover.jpg
-ing: florentine-ing
-facts: florentine-facts
+file: florentine
 servingSize:
 section1: Spinach
 start2: Water

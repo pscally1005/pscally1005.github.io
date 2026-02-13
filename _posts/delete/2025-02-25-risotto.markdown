@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/brown-rice-risotto
 image: /assets/Food/Sides/Risotto/cover.jpg
-ing: risotto-ing
-facts: risotto-facts
+file: risotto
 servingSize: ~3/4 cup (130 g) cooked rice
 section1: Step 1
 start2: Low sodium chicken broth

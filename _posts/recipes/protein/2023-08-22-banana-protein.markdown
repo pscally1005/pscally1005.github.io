@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/banana-protein
 image: /assets/Food/Protein Powder/Banana Protein/banana-protein-cover.jpg
-ing: bananaprotein-ing
-facts: bananaprotein-facts
+file: bananaprotein
 servingSize: 1 slice
 section1: Wet
 start2: Oat flour

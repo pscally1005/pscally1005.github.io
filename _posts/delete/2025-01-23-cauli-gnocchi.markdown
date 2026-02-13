@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cauliflower-gnocchi
 image: /assets/Food/Meatless/Gnocchi/cover-1.jpg
-ing: gnocchi-ing
-facts: gnocchi-facts
+file: gnocchi
 servingSize:
 section1: Cauliflower
 start2: Egg

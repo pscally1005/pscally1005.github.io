@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-crumbles
 image: /assets/Food/Finger Food/Protein Crumble/protein-crumble.jpg
-ing: crumble-ing
-facts: crumble-facts
+file: crumble
 servingSize:
 section1:
 start2:

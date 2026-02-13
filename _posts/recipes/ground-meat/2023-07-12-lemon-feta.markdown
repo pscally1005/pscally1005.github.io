@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/lemon-feta-bowl
 image: /assets/Food/Ground Meat/Lemon Feta/lemon-feta.jpg
-ing: lemonfeta-ing
-facts: lemonfeta-facts
+file: lemonfeta
 servingSize:
 section1: Vegetables
 start2: Ground chicken thighs

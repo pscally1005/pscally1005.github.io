@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/carrot-cake-bites
 image: /assets/Food/Finger Food/Carrot Cake/carrot-cake-bite.jpg
-ing: carrotbite-ing
-facts: carrotbite-facts
+file: carrotbite
 servingSize: 1 bite
 section1: Roasting the Carrots
 start2: Honey

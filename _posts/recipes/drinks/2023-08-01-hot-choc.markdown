@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/hot-chocolate
 image: /assets/Food/Drinks/Hot Chocolate/hot-choc.jpg
-ing: hotchoc-ing
-facts: hotchoc-facts
+file: hotchoc
 servingSize:
 section1: Dry
 start2: Unsweetened almond milk

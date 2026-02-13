@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/tuna-cakes
 image: /assets/Food/Fish/Tuna Cake/tuna-cake-cover.jpg
-ing: tunacake-ing
-facts: tunacake-facts
+file: tunacake
 servingSize: 1 cake
 section1:
 start2:

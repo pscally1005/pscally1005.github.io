@@ -7,8 +7,7 @@ categories:
 - Unhealthy Recipes
 permalink: /recipes/coconut-banana-rum-cake
 image: /assets/Misc/Unhealthy/Rum Cake/cover.jpg
-ing: rumcake-ing
-facts: rumcake-facts
+file: rumcake
 servingSize: 1 slice
 section1: Dry
 start2: Banana, overripe

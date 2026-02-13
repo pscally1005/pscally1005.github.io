@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vegan-pasta-salad
 image: /assets/Food/Meatless/Vegan Pasta Salad/mixed.jpg
-ing: veganpastasalad-ing
-facts: veganpastasalad-facts
+file: veganpastasalad
 servingSize:
 section1: Salad
 start2: Frozen spinach, thawed

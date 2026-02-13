@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vegan-chili
 image: /assets/Food/Meatless/Vegan Chili/cover.jpg
-ing: veganchili-ing
-facts: veganchili-facts
+file: veganchili
 servingSize:
 section1: Vegetables
 start2: Chili powder

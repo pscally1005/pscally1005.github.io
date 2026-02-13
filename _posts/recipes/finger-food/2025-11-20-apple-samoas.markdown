@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/apple-samoas
 image: /assets/Food/Finger Food/Apple Samoas/cover.jpg
-ing: applesamoas-ing
-facts: applesamoas-facts
+file: applesamoas
 servingSize: 1 "cookie"
 section1: Apple
 start2: Unsweetened coconut flakes

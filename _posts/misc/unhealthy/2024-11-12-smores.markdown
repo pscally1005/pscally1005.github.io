@@ -7,8 +7,7 @@ categories:
 - Unhealthy Recipes
 permalink: /recipes/smores
 image: /assets/Misc/Unhealthy/Smores/smores-cover.jpg
-ing: smores-ing
-facts: smores-facts
+file: smores
 servingSize:
 section1:
 start2:

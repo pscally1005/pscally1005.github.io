@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/running-club-broccoli
 image: /assets/Food/Sides/RRC/cover.jpg
-ing: rrc-ing
-facts: rrc-facts
+file: rrc
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/crepe
 image: /assets/Food/Breakfast/Crepe/crepe-cover.jpg
-ing: crepe-ing
-facts: crepe-facts
+file: crepe
 servingSize: 1 wrap
 section1:
 start2:

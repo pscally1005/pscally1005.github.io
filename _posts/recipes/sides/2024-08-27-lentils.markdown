@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/red-lentils
 image: /assets/Food/Sides/Lentils/lentils.jpg
-ing: lentils-ing
-facts: lentils-facts
+file: lentils
 servingSize:
 section1:
 start2:

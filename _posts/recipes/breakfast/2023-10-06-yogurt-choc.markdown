@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/yogurt-choc
 image: /assets/Food/Breakfast/Yogurt/yogurt-choc.jpg
-ing: yogurtchoc-ing
-facts: yogurtchoc-facts
+file: yogurtchoc
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/eggplant-pizza
 image: /assets/Food/Sides/Eggplant Pizza/cover.jpg
-ing: eggplantpizza-ing
-facts: eggplantpizza-facts
+file: eggplantpizza
 servingSize: 1 mini pizza
 section1: Roasted Eggplant
 start2: Simple pasta sauce

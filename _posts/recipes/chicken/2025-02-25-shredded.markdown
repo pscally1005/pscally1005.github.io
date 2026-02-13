@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/shredded-chicken
 image: /assets/Food/Chicken/Shredded/cover.jpg
-ing: shreddedchicken-ing
-facts: shreddedchicken-facts
+file: shreddedchicken
 servingSize: 1 oz (28 g)
 section1:
 start2:

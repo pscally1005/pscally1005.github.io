@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/shawarma-turkey-kebabs
 image: /assets/Food/Ground Meat/Kebab/kebab-plate.jpg
-ing: kebab-ing
-facts: kebab-facts
+file: kebab
 servingSize:
 section1: Spice Mix
 start2: Onion

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/home-fries
 image: /assets/Food/Breakfast/Home Fries/home-fries-cover.jpg
-ing: homefries-ing
-facts: homefries-facts
+file: homefries
 servingSize:
 section1: Potatoes
 start2: Onion

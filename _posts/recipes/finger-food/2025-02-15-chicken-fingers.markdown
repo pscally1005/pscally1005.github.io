@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chicken-fingers
 image: /assets/Food/Finger Food/Chicken Fingers/cover.jpg
-ing: chickenfingers-ing
-facts: chickenfingers-facts
+file: chickenfingers
 servingSize:
 section1: Chicken Dry Brine
 start2: Almond flour

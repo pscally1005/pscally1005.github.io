@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/double-chocolate-banana-bread
 image: /assets/Food/Healthier Dessert/Choc Bread/choc-bread-cover.jpg
-ing: chocbread-ing
-facts: chocbread-facts
+file: chocbread
 servingSize: 1 slice
 section1: Dry
 start2: Banana, overripe

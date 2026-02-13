@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/irish-soda-bread
 image: /assets/Food/Bread/Irish/irish-cover.jpg
-ing: irish-ing
-facts: irish-facts
+file: irish
 servingSize: 1 slice
 section1:
 start2:

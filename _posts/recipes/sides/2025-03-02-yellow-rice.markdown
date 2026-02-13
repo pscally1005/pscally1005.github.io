@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/yellow-rice
 image: /assets/Food/Sides/Yellow Rice/yellow-rice.jpg
-ing: yellowrice-ing
-facts: yellowrice-facts
+file: yellowrice
 servingSize: ~3/4 cup (130 g) cooked rice
 section1: Rice
 start2: Water

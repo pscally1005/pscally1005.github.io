@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/ground-thanksgiving
 image: /assets/Food/Meme/Thanksgiving/unmixed.jpg
-ing: groundthanksgiving-ing
-facts: groundthanksgiving-facts
+file: groundthanksgiving
 servingSize:
 section1: Potatoes
 start2: Frozen brussel sprouts, thawed

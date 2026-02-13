@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/super-seed-butter
 image: /assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/cover.jpg
-ing: superseed-ing
-facts: superseed-facts
+file: superseed
 servingSize: 2 tbsp (32 g)
 section1: Base
 start2: Allulose

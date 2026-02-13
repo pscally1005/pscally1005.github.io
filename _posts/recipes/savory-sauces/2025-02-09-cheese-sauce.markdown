@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cheese-sauce
 image: /assets/Food/Savory Sauces/Cheese Sauce/cheese-sauce.jpg
-ing: cheesesauce-ing
-facts: cheesesauce-facts
+file: cheesesauce
 servingSize:
 section1: Neutralize the acid
 start2: Skim milk

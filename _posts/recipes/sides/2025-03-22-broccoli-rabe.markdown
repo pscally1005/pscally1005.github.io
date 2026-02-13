@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/broccoli-rabe
 image: /assets/Food/Sides/Broccoli Rabe/cover.jpg
-ing: broccolirabe-ing
-facts: broccolirabe-facts
+file: broccolirabe
 servingSize:
 section1:
 start2:

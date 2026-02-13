@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/banana-bread-hummus
 image: /assets/Food/Sweet Spreads/BB Hummus/cover.jpg
-ing: bbhummus-ing
-facts: bbhummus-facts
+file: bbhummus
 servingSize: 2 tbsp (32 g)
 section1: Base
 start2: Liquid monk fruit

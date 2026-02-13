@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/keto-fudge
 image: /assets/Food/Healthier Dessert/Keto Fudge/fudge-cover.jpg
-ing: ketofudge-ing
-facts: ketofudge-facts
+file: ketofudge
 servingSize: 1 piece
 section1:
 start2:

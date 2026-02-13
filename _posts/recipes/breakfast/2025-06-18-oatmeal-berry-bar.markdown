@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/oatmeal-berry-bars
 image: /assets/Food/Breakfast/Oat Berry Bar/cover-1.jpg
-ing: oatmealberrybar-ing
-facts: oatmealberrybar-facts
+file: oatmealberrybar
 servingSize: 1 bar
 section1: Jam
 start2: Banana, overripe

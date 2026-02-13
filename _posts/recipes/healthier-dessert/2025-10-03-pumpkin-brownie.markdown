@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/double-pumpkin-brownies
 image: /assets/Food/Healthier Dessert/Pumpkin Brownies/cover.jpg
-ing: pumpkinbrownies3-ing
-facts: pumpkinbrownies3-facts
+file: pumpkinbrownies3
 servingSize: 1 brownie
 section1: Brownies
 start2: Pumpkin Puree

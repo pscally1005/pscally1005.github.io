@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pbj-muffin
 image: /assets/Food/Breakfast/PBJ Muffin/pbj-muffin.jpg
-ing: pbjmuffin-ing
-facts: pbjmuffin-facts
+file: pbjmuffin
 servingSize: 1 muffin
 section1: Dry
 start2: Banana, overripe

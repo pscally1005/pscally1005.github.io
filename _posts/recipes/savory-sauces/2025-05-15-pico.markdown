@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pico-de-gallo
 image: /assets/Food/Savory Sauces/Pico/pico.jpg
-ing: pico-ing
-facts: pico-facts
+file: pico
 servingSize: 1/4 cup (60 g)
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/burger-buns
 image: /assets/Food/Bread/Burger Buns/buns-cover.jpg
-ing: buns-ing
-facts: buns-facts
+file: buns
 servingSize: 1 bun
 section1: Dry Ingredients
 start2: Unsweetened applesauce

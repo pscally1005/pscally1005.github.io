@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chickpea-tortillas
 image: /assets/Food/Finger Food/Chickpea Tortilla/cover.jpg
-ing: chickpeatortillas-ing
-facts: chickpeatortillas-facts
+file: chickpeatortillas
 servingSize: 1 oz (28 g)
 section1:
 start2:

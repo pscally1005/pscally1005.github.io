@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/eggplant-parm
 image: /assets/Food/Meatless/Eggplant Parm/cover.jpg
-ing: eggplantparm2-ing
-facts: eggplantparm2-facts
+file: eggplantparm2
 servingSize:
 section1: Eggplant
 start2: Egg

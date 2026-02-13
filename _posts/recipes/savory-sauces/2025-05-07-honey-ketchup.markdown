@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pickle-ketchup
 image: /assets/Food/Savory Sauces/Pickle Honey Ketchup/cover.jpg
-ing: ketchuphoney-ing
-facts: ketchuphoney-facts
+file: ketchuphoney
 servingSize: 1 tbsp (29 g)
 section1:
 start2:

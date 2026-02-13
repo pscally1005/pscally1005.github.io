@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chicken-noodle-stew
 image: /assets/Food/Chicken/Chicken Noodle/cover.jpg
-ing: chickennoodle-ing
-facts: chickennoodle-facts
+file: chickennoodle
 servingSize:
 section1: Veggies
 start2: Boneless skinless chicken thighs

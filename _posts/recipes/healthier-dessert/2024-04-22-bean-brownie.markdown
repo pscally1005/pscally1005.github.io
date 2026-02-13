@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/black-bean-date-brownies
 image: /assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-cover.jpg
-ing: beanbrownies-ing
-facts: beanbrownies-facts
+file: beanbrownies
 servingSize: 1 brownie
 section1:
 start2:

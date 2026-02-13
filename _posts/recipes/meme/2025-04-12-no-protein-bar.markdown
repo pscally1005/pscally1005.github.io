@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/no-protein-bar
 image: /assets/Food/Meme/No protein bar/cover.jpg
-ing: noproteinbar-ing
-facts: noproteinbar-facts
+file: noproteinbar
 servingSize: 1 bar
 section1: Filling
 start2: Extra virgin coconut oil

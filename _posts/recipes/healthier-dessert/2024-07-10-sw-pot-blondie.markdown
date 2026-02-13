@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/sweet-potato-blondies
 image: /assets/Food/Healthier Dessert/Sw Pot Blondies/blondies-cover.jpg
-ing: swpotblondie-ing
-facts: swpotblondie-facts
+file: swpotblondie
 servingSize: 1 blondie
 section1:
 start2:

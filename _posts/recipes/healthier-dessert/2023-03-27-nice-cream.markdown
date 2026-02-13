@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/nice-cream
 image: /assets/Food/Healthier Dessert/Nice Cream/cover.jpg
-ing: nicecream-ing
-facts: nicecream-facts
+file: nicecream
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/apple-cinnamon-bread
 image: /assets/Food/Breakfast/Apple Bread/apple-bread-cover.jpg
-ing: applebread-ing
-facts: applebread-facts
+file: applebread
 servingSize: 1 slice
 section1: Wet
 start2: Quick oats

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/almond-flour-rolls
 image: /assets/Food/Bread/Almond Flour Rolls/bagel-cc.jpg
-ing: afrolls-ing
-facts: afrolls-facts
+file: afrolls
 servingSize: 1 roll or bagel
 section1: Dry Ingredients
 start2: Apple cider vinegar

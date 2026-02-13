@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cucumber-salad
 image: /assets/Food/Sides/Cucumber salad/cover.jpg
-ing: cucumbersalad-ing
-facts: cucumbersalad-facts
+file: cucumbersalad
 servingSize: 1 slice
 section1: Step 1
 start2: Rice vinegar, unsweetened

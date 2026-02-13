@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/roasted-vegetables
 image: /assets/Food/Sides/Roasted Veggie/cover.jpg
-ing: veggies-ing
-facts: veggies-facts
+file: veggies
 servingSize:
 section1:
 start2:

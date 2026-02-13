@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/biscotti
 image: /assets/Food/Finger Food/Biscotti/cover.jpg
-ing: biscotti-ing
-facts: biscotti-facts
+file: biscotti
 servingSize: 1 cookie
 section1: Dry
 start2: Egg

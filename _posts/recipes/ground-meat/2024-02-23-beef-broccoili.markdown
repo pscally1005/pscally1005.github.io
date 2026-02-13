@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/beef-and-broccoli
 image: /assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-cover.jpg
-ing: beefbroccoli-ing
-facts: beefbroccoli-facts
+file: beefbroccoli
 servingSize:
 section1: Beef Marinade
 start2: Frozen broccoli, thawed

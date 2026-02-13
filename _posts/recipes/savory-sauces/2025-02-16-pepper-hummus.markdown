@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/roasted-red-pepper-hummus
 image: /assets/Food/Savory Sauces/Pepper Hummus/cover.jpg
-ing: pepperhummus-ing
-facts: pepperhummus-facts
+file: pepperhummus
 servingSize: 2 tbsp (30 g)
 section1: Roasted Peppers
 start2: Chickpeas, drained and rinsed

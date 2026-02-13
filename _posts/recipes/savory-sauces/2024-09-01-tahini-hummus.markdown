@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/classic-tahini-hummus
 image: /assets/Food/Savory Sauces/Tahini Hummus/tahini-hummus.jpg
-ing: tahinihummus-ing
-facts: tahinihummus-facts
+file: tahinihummus
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

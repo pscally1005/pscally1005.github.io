@@ -19,8 +19,7 @@ cookie: no
 copycat: yes
 permalink: /recipes/chobani-yogurt-drink
 image: /assets/Food/Drinks/Chobani/chobani.jpg
-ing: chobani-ing
-facts: chobani-facts
+file: chobani
 servingSize:
 section1:
 start2:

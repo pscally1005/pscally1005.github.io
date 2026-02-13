@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/roasted-butternut-squash-puree
 image: /assets/Food/Sweet Spreads/Butternut/cover.jpg
-ing: butternut-ing
-facts: butternut-facts
+file: butternut
 servingSize: 1/2 cup (120 g)
 section1:
 start2:

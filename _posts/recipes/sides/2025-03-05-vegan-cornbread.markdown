@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vegan-cornbread
 image: /assets/Food/Sides/Vegan Cornbread/cover.jpg
-ing: vegancornbread-ing
-facts: vegancornbread-facts
+file: vegancornbread
 servingSize: 1 slice
 section1: Dry Ingredients
 start2: Water

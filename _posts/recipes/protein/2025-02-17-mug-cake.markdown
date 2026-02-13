@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-mug-cake
 image: /assets/Food/Protein Powder/Mug Cake/cooked.jpg
-ing: proteinmugcake-ing
-facts: proteinmugcake-facts
+file: proteinmugcake
 servingSize:
 section1: Dry Ingredients
 start2: Egg

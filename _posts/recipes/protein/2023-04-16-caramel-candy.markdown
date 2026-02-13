@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-candy-bars
 image: /assets/Food/Protein Powder/Caramel/caramel-cover.jpg
-ing: caramel-ing
-facts: caramel-facts
+file: caramel
 servingSize: 1 bar
 section1: Base Layer
 start2: Chickpeas, drained and rinsed

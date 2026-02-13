@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/unsweetened-hot-cocoa
 image: /assets/Food/Drinks/Unsw Cocoa/unsw-cocoa.jpg
-ing: cocoa-ing
-facts: cocoa-facts
+file: cocoa
 servingSize:
 section1:
 start2:

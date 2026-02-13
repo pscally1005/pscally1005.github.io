@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/low-fodmap-tacos
 image: /assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg
-ing: lowfodmap-ing
-facts: lowfodmap-facts
+file: lowfodmap
 servingSize:
 section1: Spice Mix
 start2: Bell pepper

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/creamy-pesto-hummus
 image: /assets/Food/Savory Sauces/Pesto Hummus/pesto-hummus.jpg
-ing: pestohummus-ing
-facts: pestohummus-facts
+file: pestohummus
 servingSize: 2 tbsp (30 g)
 section1: Roasted Garlic
 start2: Pine nuts

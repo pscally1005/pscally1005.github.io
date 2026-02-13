@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/roasted-beet-hummus
 image: /assets/Food/Savory Sauces/Beet Hummus/cover.jpg
-ing: beethummus-ing
-facts: beethummus-facts
+file: beethummus
 servingSize: 2 tbsp (29 g)
 section1: Roasted Beets
 start2: Chickpeas, drained and rinsed

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/deep-dish-pizza
 image: /assets/Food/Meatless/Deep Dish/cover.jpg
-ing: deepdish-ing
-facts: deepdish-facts
+file: deepdish
 servingSize: 1 slice
 section1: Dough
 start2: Shredded mozzarella cheese, low moisture part skim

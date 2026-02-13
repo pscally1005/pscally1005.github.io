@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/new-england-clam-chowder
 image: /assets/Food/Fish/NE Clam Chowder/pot.jpg
-ing: newengland-ing
-facts: newengland-facts
+file: newengland
 servingSize:
 section1: Step 1
 start2: Potato

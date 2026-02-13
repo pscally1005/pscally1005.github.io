@@ -6,6 +6,13 @@
 {% if include.ing %}
     {% assign ing = include.ing %}
 {% endif %}
+{% if include.file %}
+    {% assign file = include.file %}
+    {% assign ing = file | append: "-ing" %}
+{% elsif page.file %}
+    {% assign file = page.file %}
+    {% assign ing = file | append: "-ing" %}
+{% endif %}
 
 <!-- Not a standard recipe -->
 {% assign recipe = "true" %}

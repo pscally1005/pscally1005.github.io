@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/couscous
 image: /assets/Food/Sides/Couscous/couscous.jpg
-ing: couscous-ing
-facts: couscous-facts
+file: couscous
 servingSize: About 194 g
 section1: Step 1
 start2: Balsamic vinegar

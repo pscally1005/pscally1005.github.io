@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/olive-dip
 image: /assets/Food/Savory Sauces/Olive Dip/cover.jpg
-ing: olivedip-ing
-facts: olivedip-facts
+file: olivedip
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

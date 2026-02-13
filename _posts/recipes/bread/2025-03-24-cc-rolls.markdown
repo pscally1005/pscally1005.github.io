@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cottage-cheese-rolls
 image: /assets/Food/Bread/CC rolls/open.jpg
-ing: ccrolls-ing
-facts: ccrolls-facts
+file: ccrolls
 servingSize: 1 roll
 section1:
 start2:

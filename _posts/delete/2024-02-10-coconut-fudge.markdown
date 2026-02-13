@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/coconut-fudge
 image: /assets/Food/Healthier Dessert/Coconut Fudge/fudge.jpg
-ing: coconutfudge-ing
-facts: coconutfudge-facts
+file: coconutfudge
 servingSize: 1 piece
 section1:
 start2:

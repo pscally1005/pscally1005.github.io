@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/blue-cheese-dressing
 image: /assets/Food/Savory Sauces/Blue Cheese/blue-cheese.jpg
-ing: bluecheese-ing
-facts: bluecheese-facts
+file: bluecheese
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

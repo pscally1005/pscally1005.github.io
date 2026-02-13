@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/coconut-cookies
 image: /assets/Food/Healthier Dessert/Coconut Cookies/cover.jpg
-ing: coconutcookies-ing
-facts: coconutcookies-facts
+file: coconutcookies
 servingSize: 1 cookie
 section1: 
 start2: 

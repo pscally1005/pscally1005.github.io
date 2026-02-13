@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/strawberry-chia-oatmeal
 image: /assets/Food/Breakfast/Strawberry Chia/strawberry-chia.jpg
-ing: strawberrychiaoats-ing
-facts: strawberrychiaoats-facts
+file: strawberrychiaoats
 servingSize:
 section1:
 start2:

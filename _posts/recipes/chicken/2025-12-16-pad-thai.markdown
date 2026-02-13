@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pad-thai
 image: /assets/Food/Chicken/Pad Thai/cover.jpg
-ing: padthai-ing
-facts: padthai-facts
+file: padthai
 servingSize:
 section1: Squash
 start2: Boneless skinless chicken breast

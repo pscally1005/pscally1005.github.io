@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/yogurt-pbj
 image: /assets/Food/Breakfast/Yogurt/yogurt-pbj-new.jpg
-ing: yogurtpbjnew-ing
-facts: yogurtpbjnew-facts
+file: yogurtpbjnew
 servingSize:
 section1:
 start2:

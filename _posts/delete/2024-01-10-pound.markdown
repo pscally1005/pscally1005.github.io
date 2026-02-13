@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pound-cake
 image: /assets/Food/Meme/Pound/pound-cover.jpg
-ing: newlbcake-ing
-facts: newlbcake-facts
+file: newlbcake
 servingSize: 1 slice
 section1: Base Pound Cake
 start2: Vanilla extract

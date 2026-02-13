@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chocolate-electrolyte-bowls
 image: /assets/Food/Breakfast/Choc Electro/cover.jpg
-ing: chocelectrobowl-ing
-facts: chocelectrobowl-facts
+file: chocelectrobowl
 servingSize: 1 bowl (308 g)
 section1: Nut Butter
 start2: Banana, overripe

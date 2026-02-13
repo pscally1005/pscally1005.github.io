@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/turkey-pesto-pita
 image: /assets/Food/Ground Meat/Pesto Pita/pesto-pita-cover.jpg
-ing: pestopita-ing
-facts: pestopita-facts
+file: pestopita
 servingSize:
 section1: Pesto
 start2: Onion

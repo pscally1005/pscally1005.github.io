@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/scrambled-eggs
 image: /assets/Food/Breakfast/Scrambled/scrambled-cover.jpg
-ing: scrambled-ing
-facts: scrambled-facts
+file: scrambled
 servingSize:
 section1: Eggs
 start2: Baby carrots

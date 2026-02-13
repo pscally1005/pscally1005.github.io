@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cabbage-bread
 image: /assets/Food/Bread/Cabbage/cabbage-cover.jpg
-ing: cabbagebread-ing
-facts: cabbagebread-facts
+file: cabbagebread
 servingSize:
 section1:
 start2:

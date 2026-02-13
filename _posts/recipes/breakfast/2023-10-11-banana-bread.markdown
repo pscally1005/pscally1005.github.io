@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/banana-bread
 image: /assets/Food/Breakfast/Banana Bread/bb-cover.jpg
-ing: bananabread-ing
-facts: bananabread-facts
+file: bananabread
 servingSize: 1 mini muffin
 section1: Dry
 start2: Banana, overripe

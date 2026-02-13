@@ -7,8 +7,7 @@ categories:
 - Unhealthy Recipes
 permalink: /recipes/classic-fudge
 image: /assets/Misc/Unhealthy/Fudge/fudge-cover.jpg
-ing: fudge-ing
-facts: fudge-facts
+file: fudge
 servingSize: 1 piece
 section1:
 start2:

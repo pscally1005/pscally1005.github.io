@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/berry-jam
 image: /assets/Food/Sweet Spreads/Berry Jam/berry-jam.jpg
-ing: jam-ing
-facts: jam-facts
+file: jam
 servingSize: 1 tbsp (19 g)
 section1: Step 1
 start2: Unsweetened applesauce

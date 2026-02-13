@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/sweet-potato-bread
 image: /assets/Food/Bread/Sweet Potato/sweet-potato-cover.jpg
-ing: sweetpotatobread-ing
-facts: sweetpotatobread-facts
+file: sweetpotatobread
 servingSize: 1 slice
 section1:
 start2:

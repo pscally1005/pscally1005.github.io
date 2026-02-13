@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/zucchini-wedges
 image: /assets/Food/Sides/Zucchini/zucchini-cover.jpg
-ing: zucchini-ing
-facts: zucchini-facts
+file: zucchini
 servingSize:
 section1:
 start2:

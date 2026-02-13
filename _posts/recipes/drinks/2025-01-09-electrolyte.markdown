@@ -19,8 +19,7 @@ cookie: no
 copycat: yes
 permalink: /recipes/electrolyte-powder
 image: /assets/Food/Drinks/LMNT/electrolyte.jpg
-ing: lmnt-ing
-facts: lmnt-facts
+file: lmnt
 servingSize: 3.3 g
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/mayo
 image: /assets/Food/Savory Sauces/Mayo/mayo.jpg
-ing: mayo-ing
-facts: mayo-facts
+file: mayo
 servingSize: 1 tbsp (15 g)
 section1: Mayo
 start2: Liquid monk fruit

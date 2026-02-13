@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/miso-hummus
 image: /assets/Food/Savory Sauces/Miso Hummus/cover.jpg
-ing: misohummus-ing
-facts: misohummus-facts
+file: misohummus
 servingSize: 2 tbsp (30 g)
 section1:
 start2:

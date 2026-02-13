@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chickpea-date-blondies
 image: /assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-cover.jpg
-ing: beanblondies-ing
-facts: beanblondies-facts
+file: beanblondies
 servingSize: 1 blondie
 section1:
 start2:

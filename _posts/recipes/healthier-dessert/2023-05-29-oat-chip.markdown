@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/oatmeal-chocolate-cookies
 image: /assets/Food/Healthier Dessert/Oatmeal Chip/cover.jpg
-ing: oatchip-ing
-facts: oatchip-facts
+file: oatchip
 servingSize: 1 cookie
 section1:
 start2:

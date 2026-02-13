@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/wacky-cake
 image: /assets/Food/Meme/Wacky cake/cover.jpg
-ing: wackycake-ing
-facts: wackycake-facts
+file: wackycake
 servingSize: 1 slice
 section1: Beans
 start2: Sauerkraut juice

@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/three-ingredient-fudge
 image: /assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-cover.jpg
-ing: 3ingfudge-ing
-facts: 3ingfudge-facts
+file: 3ingfudge
 servingSize: 1 piece
 section1:
 start2:

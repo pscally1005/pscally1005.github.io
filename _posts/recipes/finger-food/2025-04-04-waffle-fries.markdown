@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/waffle-fries
 image: /assets/Food/Finger Food/Waffle Fries/cover.jpg
-ing: wafflefries-ing
-facts: wafflefries-facts
+file: wafflefries
 servingSize:
 section1:
 start2:

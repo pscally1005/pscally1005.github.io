@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/sweet-potato-yogurt
 image: /assets/Food/Breakfast/Sw Pot Yogurt/sw-pot-yogurt.jpg
-ing: yogurtswpot-ing
-facts: yogurtswpot-facts
+file: yogurtswpot
 servingSize:
 section1:
 start2:

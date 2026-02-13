@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/banana-cream-pie
 image: /assets/Food/Healthier Dessert/Banana Cream Pie/cut.jpg
-ing: bananacreampie-ing
-facts: bananacreampie-facts
+file: bananacreampie
 servingSize: 1 slice
 section1: Pie Crust
 start2: Banana Bread Hummus Spread

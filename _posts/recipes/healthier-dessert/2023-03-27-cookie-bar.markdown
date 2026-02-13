@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/cookie-bar
 image: /assets/Food/Healthier Dessert/Cookie Bar/cover.jpg
-ing: cookiebar-ing
-facts: cookiebar-facts
+file: cookiebar
 servingSize: 1 bar
 section1:
 start2:

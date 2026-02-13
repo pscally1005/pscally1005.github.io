@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/sleepy-smoothie
 image: /assets/Food/Drinks/Sleepy/sleepy.jpg
-ing: sleepy-ing
-facts: sleepy-facts
+file: sleepy
 servingSize:
 section1: Smoothie
 start2: Magnesium Malate

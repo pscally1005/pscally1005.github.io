@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/roasted-onion
 image: /assets/Food/Meme/Onion/onion.jpg
-ing: roastedonion-ing
-facts: roastedonion-facts
+file: roastedonion
 servingSize:
 section1:
 start2:

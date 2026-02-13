@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/burger-bowl
 image: /assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg
-ing: burgerbowl-ing
-facts: burgerbowl-facts
+file: burgerbowl
 servingSize:
 section1: Potatoes
 start2: Shredded cheddar cheese

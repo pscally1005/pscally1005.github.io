@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/choc-pb
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cover.jpg
-ing: chocpb-ing
-facts: chocpb-facts
+file: chocpb
 servingSize: 2 tbsp (31 g)
 section1:
 start2:

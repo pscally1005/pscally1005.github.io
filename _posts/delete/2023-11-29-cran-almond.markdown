@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cran-almond
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cran-almond.jpg
-ing: cranalmond-ing
-facts: cranalmond-facts
+file: cranalmond
 servingSize: 2 tbsp (29 g)
 section1:
 start2:

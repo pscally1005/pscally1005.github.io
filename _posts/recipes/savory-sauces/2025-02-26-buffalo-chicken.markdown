@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/buffalo-chicken-dip
 image: /assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg
-ing: buffalodipnew-ing
-facts: buffalodipnew-facts
+file: buffalodipnew
 servingSize: About 1/2 cup (133 g)
 section1:
 start2:

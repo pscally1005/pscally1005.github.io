@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/seitan
 image: /assets/Food/Meatless/Seitan/seitan-cover.jpg
-ing: seitan-ing
-facts: seitan-facts
+file: seitan
 servingSize:
 section1: Dry
 start2: Low sodium vegetable broth

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/monkfruit-chocolate-chunks
 image: /assets/Food/Finger Food/Monk Fruit Chocolate/cover.jpg
-ing: monkfruitchoc-ing
-facts: monkfruitchoc-facts
+file: monkfruitchoc
 servingSize: 1 tbsp (15 g)
 section1:
 start2:

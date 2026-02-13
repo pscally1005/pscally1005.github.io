@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/nam-sod
 image: /assets/Food/Ground Meat/Nam Sod/nam-sod.jpg
-ing: namsod-ing
-facts: namsod-facts
+file: namsod
 servingSize:
 section1: Dressing
 start2: Sesame oil

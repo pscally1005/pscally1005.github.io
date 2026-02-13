@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/spinach-artichoke-dip
 image: /assets/Food/Savory Sauces/Artichoke/cover.jpg
-ing: artichokedipnew-ing
-facts: artichokedipnew-facts
+file: artichokedipnew
 servingSize: About 1/3 cup (90 g)
 section1:
 start2:

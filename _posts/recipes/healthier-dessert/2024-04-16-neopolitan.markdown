@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/neopolitan-banana-ice-cream
 image: /assets/Food/Healthier Dessert/Neopolitan/neopolitan-cover.jpg
-ing: neopolitan-ing
-facts: neopolitan-facts
+file: neopolitan
 servingSize:
 section1: Vanilla
 start2: Frozen Bananas, overripe

@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/red-lentil-wraps
 image: /assets/Food/Bread/Lentil Wrap/lentil-wrap.jpg
-ing: redlentilwrap-ing
-facts: redlentilwrap-facts
+file: redlentilwrap
 servingSize: 1 wrap
 section1:
 start2:

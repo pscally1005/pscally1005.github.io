@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/24-hour-chili
 image: /assets/Food/Ground Meat/24 Hour Chili/cover.jpg
-ing: 24hourchili-ing
-facts: 24hourchili-facts
+file: 24hourchili
 servingSize:
 section1: Beans
 start2: Ground turkey, 93/7

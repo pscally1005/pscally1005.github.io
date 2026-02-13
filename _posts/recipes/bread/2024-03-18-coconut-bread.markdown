@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/coconut-bread
 image: /assets/Food/Bread/Coconut Bread/coconut-bread-cover.jpg
-ing: coconutbread-ing
-facts: coconutbread-facts
+file: coconutbread
 servingSize: 1 slice
 section1:
 start2:

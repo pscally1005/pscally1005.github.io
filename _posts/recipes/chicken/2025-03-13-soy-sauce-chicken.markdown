@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/soy-sauce-chicken
 image: /assets/Food/Chicken/Soy Sauce/cover.jpg
-ing: soysauce-ing
-facts: soysauce-facts
+file: soysauce
 servingSize:
 section1: Brussel Sprouts
 start2: Boneless skinless chicken breast

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/salmon-and-crunchy-salad
 image: /assets/Food/Fish/Salmon/salmon-cover.jpg
-ing: salmon-ing
-facts: salmon-facts
+file: salmon
 servingSize:
 section1: Salmon
 start2: Onion

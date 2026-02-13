@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/maafe
 image: /assets/Food/Chicken/Maafe/pot-1.jpg
-ing: maafe-ing
-facts: maafe-facts
+file: maafe
 servingSize:
 section1: Vegetables
 start2: Boneless skinless chicken breast

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/korean-chicken
 image: /assets/Food/Chicken/Korean/cover.jpg
-ing: koreannew-ing
-facts: koreannew-facts
+file: koreannew
 servingSize:
 section1: Sweet Potatoes
 start2: Frozen broccoli, thawed

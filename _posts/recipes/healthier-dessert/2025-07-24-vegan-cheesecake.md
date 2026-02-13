@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/vegan-chocolate-cheesecake
 image: /assets/Food/Healthier Dessert/Vegan cheesecake/cover.jpg
-ing: chocolatecheesecake-ing
-facts: chocolatecheesecake-facts
+file: chocolatecheesecake
 servingSize: 1 slice
 section1: 
 start2: 

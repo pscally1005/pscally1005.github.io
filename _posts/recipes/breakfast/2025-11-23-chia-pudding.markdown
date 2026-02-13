@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chia-pudding
 image: /assets/Food/Breakfast/Chia Pudding/ab.jpg
-ing: chiapudding-ing
-facts: chiapudding-facts
+file: chiapudding
 servingSize:
 section1:
 start2:

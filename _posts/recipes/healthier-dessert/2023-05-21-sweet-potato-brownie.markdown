@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/sweet-potato-brownies
 image: /assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-cover.jpg
-ing: sweetpotatobrownies-ing
-facts: sweetpotatobrownies-facts
+file: sweetpotatobrownies
 servingSize: 1 brownie
 section1: Dry
 start2: Sugar free syrup

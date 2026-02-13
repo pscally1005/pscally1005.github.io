@@ -19,8 +19,7 @@ cookie: yes
 copycat: no
 permalink: /recipes/styrofoam-cookies
 image: /assets/Food/Meme/Styrofoam/cover-photo.jpg
-ing: styrofoam-ing
-facts: styrofoam-facts
+file: styrofoam
 servingSize: 1 cookie
 section1:
 start2:

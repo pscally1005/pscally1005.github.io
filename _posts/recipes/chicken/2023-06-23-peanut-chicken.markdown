@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/peanut-chicken
 image: /assets/Food/Chicken/Peanut/peanut-cover.jpg
-ing: peanutchicken-ing
-facts: peanutchicken-facts
+file: peanutchicken
 servingSize:
 section1: Meat
 start2: Carrots

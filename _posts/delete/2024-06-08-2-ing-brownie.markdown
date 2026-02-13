@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/two-ingredient-brownies
 image: /assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-cover.jpg
-ing: 2ingbrowniehomemade-ing
-facts: 2ingbrowniehomemade-facts
+file: 2ingbrowniehomemade
 servingSize: 1 brownie
 section1: Base
 start2: Extra virgin coconut oil, or extra virgin olive oil

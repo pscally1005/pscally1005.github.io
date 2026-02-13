@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/green-smoothie
 image: /assets/Food/Drinks/Green smoothie/cover.jpg
-ing: greensmoothie-ing
-facts: greensmoothie-facts
+file: greensmoothie
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/stovetop-oatmeal
 image: /assets/Food/Breakfast/Stovetop Oats/bowl.jpg
-ing: stoveoats-ing
-facts: stoveoats-facts
+file: stoveoats
 servingSize:
 section1: Apple - on the heat
 start2: Rolled oats

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/whipped-cream
 image: /assets/Food/Sweet Spreads/Whipped Cream/cover.jpg
-ing: whippedcream-ing
-facts: whippedcream-facts
+file: whippedcream
 servingSize: 2 tbsp (5 g)
 section1: 
 start2: 

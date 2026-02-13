@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/ketchup
 image: /assets/Food/Savory Sauces/Ketchup/cover.jpg
-ing: ketchupdate-ing
-facts: ketchupdate-facts
+file: ketchupdate
 servingSize: 2 tbsp (31 g)
 section1: Ketchup
 start2: Paprika

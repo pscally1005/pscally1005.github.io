@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/caramel-sauce
 image: /assets/Misc/Unhealthy/Caramel/cover.jpg
-ing: caramelsauce-ing
-facts: caramelsauce-facts
+file: caramelsauce
 servingSize: 1 tbsp (20 g)
 section1:
 start2:

@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/fish-and-chips
 image: /assets/Food/Fish/Fish Chips/fish-chips-cover.jpg
-ing: fishchips-ing
-facts: fishchips-facts
+file: fishchips
 servingSize:
 section1: Fish
 start2: Tilapia

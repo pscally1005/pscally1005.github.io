@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-chocolate-bar
 image: /assets/Food/Meme/Protein Chocolate/cover.jpg
-ing: proteinchocolatebar-ing
-facts: proteinchocolatebar-facts
+file: proteinchocolatebar
 servingSize: 1 oz (29 g)
 section1:
 start2:

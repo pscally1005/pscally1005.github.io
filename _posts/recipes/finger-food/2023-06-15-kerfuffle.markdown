@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/chocolate-truffle
 image: /assets/Food/Finger Food/Kerfuffle/kerfuffle.jpg
-ing: kerfuffle-ing
-facts: kerfuffle-facts
+file: kerfuffle
 servingSize: 1 truffle
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pesto-goat-cheese-mac-and-cheese
 image: /assets/Food/Ground Meat/Pesto Goat MC/cover.jpg
-ing: pestogoatmc-ing
-facts: pestogoatmc-facts
+file: pestogoatmc
 servingSize:
 section1: Veggies
 start2: Red lentil pasta

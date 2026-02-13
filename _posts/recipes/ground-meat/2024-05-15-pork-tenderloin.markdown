@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/pork-tenderloin
 image: /assets/Food/Ground Meat/Pork Tenderloin/pork-tenderloin.jpg
-ing: porktenderloin-ing
-facts: porktenderloin-facts
+file: porktenderloin
 servingSize:
 section1: Meat
 start2: Sweet potato

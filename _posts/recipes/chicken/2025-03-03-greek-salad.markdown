@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Greek Salad/cover.jpg
-ing: greeksalad-ing
-facts: greeksalad-facts
+file: greeksalad
 servingSize:
 section1: Roasted Peppers
 start2: Romaine lettuce

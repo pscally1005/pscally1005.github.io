@@ -8,8 +8,7 @@ categories:
 brownie: yes
 permalink: /recipes/brownies
 image: /assets/Misc/Unhealthy/Brownies/cover.jpg
-ing: brownies-ing
-facts: brownies-facts
+file: brownies
 servingSize: 1 brownie
 section1:
 start2:

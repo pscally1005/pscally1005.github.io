@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/white-bean-milkshake
 image: /assets/Food/Meme/Milkshake/bean-shake.jpg
-ing: beanicecream-ing
-facts: beanicecream-facts
+file: beanicecream
 servingSize:
 section1:
 start2:

@@ -19,8 +19,7 @@ cookie: no
 copycat: yes
 permalink: /recipes/copycat-harvest-bowl
 image: /assets/Food/Chicken/Sweetgreen/cover.jpg
-ing: sweetgreencopycat-ing
-facts: sweetgreencopycat-facts
+file: sweetgreencopycat
 servingSize:
 section1: Rice
 start2: Sweet potato

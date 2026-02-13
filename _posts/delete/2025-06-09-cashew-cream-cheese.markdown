@@ -20,8 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/cashew-cream-cheese
 image: /assets/Food/Savory Sauces/Cashew Cream Cheese/bagel-cc.jpg
-ing: cashewcreamcheese-ing
-facts: cashewcreamcheese-facts
+file: cashewcreamcheese
 servingSize: 2 tbsp (31 g)
 section1:
 start2:

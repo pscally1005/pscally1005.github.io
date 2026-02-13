@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/onion-soup-bread
 image: /assets/Food/Meme/Onion Soup Bread/cover.jpg
-ing: onionsoupbreadhomemade-ing
-facts: onionsoupbreadhomemade-facts
+file: onionsoupbreadhomemade
 servingSize: 1 slice
 section1: Onion soup mix
 start2: Whole wheat flour

@@ -19,8 +19,7 @@ cookie: no
 copycat: no
 permalink: /recipes/protein-bar
 image: /assets/Food/Protein Powder/Protein Bar/protein-bar.jpg
-ing: proteinbar-ing
-facts: proteinbar-facts
+file: proteinbar
 servingSize: 1 bar
 section1:
 start2:
