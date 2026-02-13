@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\sides"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\sweet-spreads"
 # POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\meme"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\recipes\protein"
 
@@ -1540,6 +1540,8 @@ LINKS = {
   "zero calories": "/misc/calories",
   "zero-calories": "/misc/calories",
   "zero calorie": "/misc/calories",
+  "0 calories": "/misc/calories",
+  "0 calorie": "/misc/calories",
   "zero-calorie": "/misc/calories",
   "calories": "/misc/calories",
   "calorie": "/misc/calories",
@@ -1577,6 +1579,9 @@ LINKS = {
   "powdered peanuts": "https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417",
   "granulated monk fruit": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
   "granulated sweetener": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
+  "granulated zero calorie sweetener": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
+  "granular zero calorie sweetener": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
+  "granular sweetener": "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598",
   "lactase enzyme": "https://amzn.to/43ycqF2",
   "inulin": "https://amzn.to/47w8h7R",
   "food scale": "https://amzn.to/45yjx2X",
@@ -1709,6 +1714,7 @@ LINKS = {
   "205F": "https://amzn.to/4kmobG2",
   "200F": "https://amzn.to/4kmobG2",
   "210F": "https://amzn.to/4kmobG2",
+  "215F": "https://amzn.to/4kmobG2",
   "inside temperature": "https://amzn.to/4kmobG2",
   "spray of olive oil": "https://amzn.to/3Hdg0gk",
   "spray of oil": "https://amzn.to/3Hdg0gk",
@@ -2404,6 +2410,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "scale it up",
     "shortening the",
     "cucumber salad",
     "flour, baking powder",
@@ -3866,7 +3873,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026")):
+            if not file.startswith(("2025")):
                 continue
 
             # exclude some files
