@@ -17,8 +17,6 @@ tags:
 - cheap
 - expensive
 ---
-{% assign folder = 'eat-healthy' %}
-
 <u><b><font size='+2'>Contents</font></b></u><br>
 <ul>
   <li><a href='/misc/not-expensive-to-eat-healthy#introduction'>Introduction</a></li>
@@ -471,7 +469,7 @@ In comparison, here are 10 of my criteria for a "minimally processed" diet.  Thi
         {% assign total = 0 %}
         {% for i in (1..7) %}
           {% assign file = "healthyday" | append: i | append: "-facts" %}
-          {% assign csv_file = site.data[folder][file] %}
+          {% assign csv_file = site.data[file] %}
           {% assign row = csv_file | where: "Nutrient", nutrient | first %}
           <td class='{% if nutrient == 'Calories' %}calorie-healthy-value{% endif %}'>
             {% if row %}
@@ -910,7 +908,7 @@ In comparison, here are 10 of my criteria for a "minimally processed" diet.  Thi
         {% assign total = 0 %}
         {% for i in (1..7) %}
           {% assign file = "sadday" | append: i | append: "-facts" %}
-          {% assign csv_file = site.data[folder][file] %}
+          {% assign csv_file = site.data[file] %}
           {% assign row = csv_file | where: "Nutrient", nutrient | first %}
           <td class='{% if nutrient == 'Calories' %}calorie-sad-value{% endif %}'>
             {% if row %}

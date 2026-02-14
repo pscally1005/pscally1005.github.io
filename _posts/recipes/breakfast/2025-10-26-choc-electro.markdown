@@ -68,7 +68,7 @@ Description: |
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F, and roast your unsalted <a href='/misc/nuts'>nuts</a> until lightly browned. About 5 minutes if the <a href='/misc/nuts'>nuts</a> are already roasted, and 10 minutes if they're raw
 
-- Transfer the <a href='/misc/nuts'>nuts</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend for about 5 minutes, until you have a super smooth <a href='/misc/natural-peanut-butter'>nut butter</a>. Add in the salt and <a href='/misc/potassium'>potassium</a> chloride, and blend for another 30 seconds to incorporate
+- Transfer the <a href='/misc/nuts'>nuts</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend for about 5 minutes, until you have a super smooth <a href='/recipes/natural-peanut-butter'>nut butter</a>. Add in the salt and <a href='/misc/potassium'>potassium</a> chloride, and blend for another 30 seconds to incorporate
 
 - Store leftovers in the fridge for up to 4 days, or in the freezer indefinitely
 Notes:

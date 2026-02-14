@@ -7,15 +7,12 @@
 {% assign ing = include.ing %}
 
 <!-- Loop variables -->
-{% assign loopVarFacts = site.data.servingSizes[facts] %}
-{% assign loopVarIng = site.data.servingSizes[ing] %}
+{% assign loopVarFacts = site.data[facts] %}
+{% assign loopVarIng = site.data[ing] %}
 {% if include.folder %}
     {% assign folder = include.folder %}
     {% assign loopVarFacts = site.data[folder][facts] %}
     {% assign loopVarIng = site.data[folder][ing] %}
-{% elsif page.categories.first == "Recipes" %}
-    {% assign loopVarFacts = site.data[facts] %}
-    {% assign loopVarIng = site.data[ing] %}
 {% endif %}
 {% unless include.ing %}
   {% assign loopVarIng = site.data.servingSizes['ing-ing'] %}

@@ -168,7 +168,7 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
                 <td>{{ ingredient_names[i] }}</td>
                 {% for f in files %}
                     {% assign file = f | append: "-ing" %}
-                    <td>{{ site.data.chocolate[file][i]["Amount"] | round: 0 }} g</td>
+                    <td>{{ site.data[file][i]["Amount"] | round: 0 }} g</td>
                 {% endfor %}
             </tr>
         {% endfor %}

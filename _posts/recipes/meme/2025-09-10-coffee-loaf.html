@@ -76,24 +76,39 @@ Instructions:
 - Let the cake chill in the fridge for at least 1 hour before removing from the pan and cutting into 20 slices
 - <img src='/assets/Food/Meme/Coffee Loaf/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- You can eithe use <b>ground coffee</b> (<b>1/2 cup</b>, <b>40 g</b>), <b>instant espresso powder</b> (<b>4 tsp</b>, <b>8 g</b>) or <b>instant coffee</b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your coffee in 1/2 cup (120 g) of hot water for 5-10 minutes before adding to the batter.  I've tested the recipe both with decaf ground coffee and instant espresso powder</a>.  Ground coffee leads to a crumblier but stronger coffee tasting loaf, whereas the espresso powder holds its shape better with a very mild coffee flavor
-
-- For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>
-- <img src='/assets/Food/Meme/Coffee Loaf/coffee.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Meme/Coffee Loaf/espresso.jpg' alt='' class='instruction-image'>
-
-- |
-  If you don't need it <a href='/misc/celiac'>gluten free</a>, you can simply use 2 cup (240 g) <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If it needs to be <a href='/misc/celiac'>gluten free</a> though, you can replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with the following blend of flours
-  <ul>
-      <li>1 cup (112 g) Almond flour</li>
-      <li>1/2 cup (45 g) Oat flour</li>
-      <li>1/4 cup (26 g) Ground flaxseed</li>
-      <li>2 tbsp (15 g) Coconut flour</li>
-  </ul>
-
-- The original recipe used 1 stick (113 g) unsalted <a href='/misc/dairy#butter'>butter</a>, 3/4 cup (150 g) granulated <a href='/misc/hidden-sugar'>sugar</a>, and 2 cup (240 g) <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='/misc/fruit#apple'>applesauce</a>, monk fruit, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If you don't care to make it healthy, you can do that instead
 ---
+<font size="+2"><i><u>Notes</u></i></font><br>
+<ol>
+  <li>
+    You can eithe use <b>ground coffee</b> (<b>1/2 cup</b>, <b>40 g</b>), <b>instant espresso powder</b> (<b>4 tsp</b>, <b>8 g</b>) or <b>instant coffee</b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your coffee in 1/2 cup (120 g) of hot water for 5-10 minutes before adding to the batter.<br><br>
+
+    I've tested the recipe both with decaf ground coffee and instant espresso powder</a>.  Ground coffee leads to a crumblier but stronger coffee tasting loaf, whereas the espresso powder holds its shape better with a very mild coffee flavor<br><br>
+
+    For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>.
+  </li>
+
+  <br>
+  <img src='/assets/Food/Meme/Coffee Loaf/coffee.jpg' alt='' class='instruction-image'>
+  <br>
+  <img src='/assets/Food/Meme/Coffee Loaf/espresso.jpg' alt='' class='instruction-image'>
+  <br>
+
+  <li>
+    If you don't need it <a href='/misc/celiac'>gluten free</a>, you can simply use 2 cup (240 g) <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
+
+    If it needs to be <a href='/misc/celiac'>gluten free</a> though, you can replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with the following blend of flours.
+  </li>
+
+  {% assign i = site.data['coffeeloafgfflour-ing'] %}
+  {% include ingredients.html ing=i recipe="false" %}
+
+  <li>
+    The original recipe used 1 stick (113 g) unsalted <a href='/misc/dairy#butter'>butter</a>, 3/4 cup (150 g) granulated <a href='/misc/hidden-sugar'>sugar</a>, and 2 cup (240 g) <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='/misc/fruit#apple'>applesauce</a>, monk fruit, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If you don't care to make it healthy, you can do that instead.
+  </li>
+</ol>
+
 <hr>
+
 {% assign files =
     "coffeeloaf,"
     | append: "coffeeloafcaf,"
