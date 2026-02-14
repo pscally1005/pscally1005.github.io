@@ -66,9 +66,9 @@
     {% assign ing = page.ing %}
     {% assign facts = page.facts %}
     {% if include.facts %}
+        {% assign ing = include.ing %}
         {% assign facts = include.facts %}
-    {% endif %}
-    {% if include.file %}
+    {% elsif include.file %}
         {% assign file = include.file %}
         {% assign ing = file | append: "-ing" %}
         {% assign facts = file | append: "-facts" %}
