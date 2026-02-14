@@ -2426,6 +2426,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "potato bread",
+    "potato buns",
+    "potato bun",
     "PB&J",
     "PBJ",
     "strawberry jam",

@@ -64,7 +64,7 @@ Description: <a href='/misc/meat#liver'>Beef liver</a> is one of the most nutrit
 Instructions:
 - Preheat your oven to 400F, and line 2 sheets with parchment paper
 
-- Wash your <a href='/misc/veggies#potato'>potatoes</a>, and cut into a dice, leaving the skin on. Add to one pan, and mix with <a href='/misc/fruit#lemon'>lemon</a>, salt, and black pepper
+- Wash your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut into a dice, leaving the skin on. Add to one pan, and mix with <a href='/misc/fruit#lemon'>lemon</a>, salt, and black pepper
 
 - To the other pan, add your <a href='/misc/veggies#broccoli'>broccoli</a> with <a href='/misc/fruit#lemon'>lemon</a>, salt, and black pepper
 

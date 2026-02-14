@@ -55,10 +55,11 @@ Description: Manhattan <a href='/misc/fish#clam'>Clam</a> Chowder is a classic <
 Instructions:
 - Preheat a large pot over medium heat with olive oil. Cut your <a href='/misc/veggies'>vegetables</a> into a small dice, and add to the pot with salt. Cook until the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> are soft, and the <a href='/misc/veggies#onion'>onions</a> are translucent, about 20 minutes. Add in the <a href='/misc/veggies#garlic'>garlic</a>, and cook until fragrant, about 30 seconds
 
-- Meanwhile, wash your <a href='/misc/veggies#potato'>potatoes</a>, and cut into a medium dice, leaving the skin on. Any <a href='/misc/veggies#potato'>potatoes</a> will work here like Yukon gold, red, or even <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>
+- Meanwhile, wash your <a href='/misc/veggies#potato'>potatoes</a>, and cut into a medium dice, leaving the skin on
 
 - To the pot, add your <a href='/misc/veggies#potato'>potatoes</a>, garlic powder, onion powder, thyme, oregano, black pepper, clam juice, canned <a href='/misc/fish#clam'>clams</a> (entire can, not drained), diced tomatoes, and tomato paste. Bring to a boil over high heat, reduce heat to medium, cover, and let simmer for 15-20 minutes, or until the <a href='/misc/veggies#potato'>potatoes</a> are fork tender
 
 - Remove from heat, finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and serve
 Notes:
+- Any <a href='/misc/veggies#potato'>potatoes</a> will work here like Yukon gold, red, or even <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>
 ---

@@ -66,11 +66,11 @@ Description: |
     <li><a href='/recipes/pumpkin-cake'>Frosted Pumpkin Cake</a></li>
   </ul>
 Instructions:
-- Wash the <a href='/misc/veggies#potato'>potatoes</a>. Prick with a fork all over about 10 times, and wrap in aluminum foil
+- Wash the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Prick with a fork all over about 10 times, and wrap in aluminum foil
 
 - Bake in the oven for 90 minutes at 400F until very soft. You can also <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 1 hour. Slice open, and allow to steam out for a few minutes
 
-- Cut off the ends, and transfer the rest of the <a href='/misc/veggies#potato'>potatoes</a> (with the skins!!) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Blend until smooth
+- Cut off the ends, and transfer the rest of the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> (with the skins!!) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Blend until smooth
 Notes:
 - You can also turn this into mashed <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Season to taste with garlic powder, onion powder, black pepper, salt, paprika, and parsley
 ---

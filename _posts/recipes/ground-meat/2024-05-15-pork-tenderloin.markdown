@@ -60,7 +60,7 @@ Instructions:
 
 - To keep things simple, I'll just be pairing the <a href='/misc/meat#pork-tenderloin'>pork</a> with some <a href='/recipes/baked-sweet-potato'>Baked Sweet Potatoes</a> and <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>. You can check out those simple recipes, but I'll give you the short version here
 
-- For the <a href='/misc/veggies#potato'>potatoes</a> - wash with a brush, poke with a fork, wrap in aluminum foil, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 45 minutes
+- For the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> - wash with a brush, poke with a fork, wrap in aluminum foil, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 45 minutes
 
 - For the <a href='/misc/veggies#broccoli'>broccoli</a> - take your defrosted bag of <a href='/misc/veggies#broccoli'>broccoli</a>, and add to a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Add some oil, season to taste with lemon pepper and garlic powder, and roast in the oven for about 45 minutes at 350F
 Notes:

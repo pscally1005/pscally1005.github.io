@@ -59,12 +59,12 @@ Instructions:
 - Add the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> to the pan with paprika, cumin, and salt with a splash of water. Cover and cook until both the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> are fork tender, about 15 minutes. Transfer to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/veggies.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, wash your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut into a medium dice (don't peel the <a href='/misc/veggies#potato'>potatoes</a>!). Add to a <a href='https://amzn.to/4adxMft'>glass bowl</a>, cover with a plate, and microwave on high for 5 minutes
+- Meanwhile, wash your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut into a medium dice (don't peel the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>!). Add to a <a href='https://amzn.to/4adxMft'>glass bowl</a>, cover with a plate, and microwave on high for 5 minutes
 
 - When the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> are done and the pan is free, add the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> with olive oil over medium heat with a splash of water. Again cover and cook until fork tender (about 10 minutes), and then transfer to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/sw-pot.jpg' alt='' class='instruction-image'>
 
-- Finally, the last part to pre-cook is the <a href='/misc/meat'>meat</a>. When the <a href='/misc/veggies#potato'>potatoes</a> are done, add the <a href='/misc/meat'>meat</a> to the pan with oil. Brown the <a href='/misc/meat'>meat</a> over medium heat, and cook until no longer pink. Transfer to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
+- Finally, the last part to pre-cook is the <a href='/misc/meat'>meat</a>. When the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> are done, add the <a href='/misc/meat'>meat</a> to the pan with oil. Brown the <a href='/misc/meat'>meat</a> over medium heat, and cook until no longer pink. Transfer to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/meat.jpg' alt='' class='instruction-image'>
 
 - Add your crushed tomatoes, diced tomatoes, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> to the <a href='https://amzn.to/49TUS9E'>slow cooker</a> pot, and mix until everything is fully combined

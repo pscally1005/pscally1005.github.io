@@ -55,10 +55,10 @@ Instructions:
 
 - Wash your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut into a medium dice (don't peel them!). Season with oil, paprika, black pepper, and salt. Add to a <a href='https://amzn.to/4adxMft'>glass bowl</a>, cover with a plate, and microwave for 5 minutes. This will speed up the roasting time
 
-- Transfer the <a href='/misc/veggies#potato'>potatoes</a> to your <a href='https://amzn.to/45sRAsB'>baking sheet</a>. Roast for about 30 minutes, or until soft and lightly browned. You can also <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 15-20 minutes if you're making a smaller batch
+- Transfer the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> to your <a href='https://amzn.to/45sRAsB'>baking sheet</a>. Roast for about 30 minutes, or until soft and lightly browned. You can also <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 15-20 minutes if you're making a smaller batch
 - <img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/sw-pot.jpg' alt='' class='instruction-image'>
 
-- When the <a href='/misc/veggies#potato'>potatoes</a> have about 10-15 minutes left, start on the <a href='/misc/meat#ground-beef'>beef</a>. Preheat a pan over medium heat, and brown the <a href='/misc/meat#ground-beef'>beef</a>. Season with chili powder, cumin, salt, and cinnamon. Set aside
+- When the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> have about 10-15 minutes left, start on the <a href='/misc/meat#ground-beef'>beef</a>. Preheat a pan over medium heat, and brown the <a href='/misc/meat#ground-beef'>beef</a>. Season with chili powder, cumin, salt, and cinnamon. Set aside
 - <img src='/assets/Food/Ground Meat/Hot Honey Beef Bowls/beef.jpg' alt='' class='instruction-image'>
 
 - Take out 4 bowls, and add 1/4 of your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> to one quadrant, and 1/4 of the <a href='/misc/meat#ground-beef'>beef</a> to another. In the third quadrant, add 1/2 a sliced <a href='/misc/fruit#avocado'>avocado</a> (50 g). Finally, in the remaining quadrant, add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (1/2 cup, 113 g)

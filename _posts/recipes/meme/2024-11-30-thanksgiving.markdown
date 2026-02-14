@@ -65,7 +65,7 @@ Instructions:
 
 - Cut your <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a> in half, and add to the other pan cut side down. Using <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a> that are midway between frozen and defrosted is the easiest to cut in half. Again, drizzle with oil, and add salt and black pepper to taste
 
-- Roast both the <a href='/misc/veggies#potato'>potatoes</a> and sprouts at 400F for about 30 minutes, or until browned and softened. Set aside
+- Roast both the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> and sprouts at 400F for about 30 minutes, or until browned and softened. Set aside
 - <img src='/assets/Food/Meme/Thanksgiving/roasted.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, add your <a href='/misc/meat#ground-turkey'>turkey</a> along with oil, salt, and black pepper to a <a href='https://amzn.to/4rdR0HI'>12" pan</a>. Cover, and cook over medium heat until no longer pink. Set aside

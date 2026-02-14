@@ -55,9 +55,9 @@ tags:
 - sweet potatoes
 Description: These bowls are deconstructed burgers, instead making them into a healthy <a href='/salad'>salad</a>, with the buns swapped for roasted <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. There's way more food for way less <a href='/misc/calories'>calories</a>, with a lot of volume to this dish. It's full of all your favorite burger flavors, toppings, and my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>. If a classic burger is what you desire, see my <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a>
 Instructions:
-- Starting with the <a href='/misc/veggies#potato'>potatoes</a>. Wash and cut your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> into cubes. You don't need to peel the <a href='/misc/veggies#potato'>potatoes</a>. Add to a microwave save bowl, and toss with oil, soy sauce, and baking soda. Cover, and microwave on full power for 3 minutes to soften the <a href='/misc/veggies#potato'>potatoes</a>
+- Starting with the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Wash and cut your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> into cubes. You don't need to peel the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Add to a microwave save bowl, and toss with oil, soy sauce, and baking soda. Cover, and microwave on full power for 3 minutes to soften the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>
 
-- Remove the <a href='/misc/veggies#potato'>potatoes</a> from the microwave, and toss with the seasonings - chili powder, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
+- Remove the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> from the microwave, and toss with the seasonings - chili powder, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 
 - Add to your <a href='https://amzn.to/3FuWETp'>air fryer</a> in a single layer, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 6-8 minutes, or until crispy but not burnt. Set aside
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-3.jpg' alt='' class='instruction-image'>
