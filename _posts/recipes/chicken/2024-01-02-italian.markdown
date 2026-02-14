@@ -57,13 +57,13 @@ Description: This simple and healthy meal is a go to favorite of mine. Just roas
 Instructions:
 - Preheat your oven to 400F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- Wash your <a href='/misc/veggies#acorn-squash'>acorn squash</a>, cut in half, and scoop out the seeds. Cut the <a href='/misc/veggies#butternut-squash'>squash</a> into a medium dice, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>.  Leave the skins on!
+- Wash your <a href='/misc/veggies#acorn-squash'>acorn squash</a>, cut in half, and scoop out the seeds. Cut the <a href='/misc/veggies#acorn-squash'>acorn squash</a> into a medium dice, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>.  Leave the skins on!
 
 - Season the <a href='/misc/veggies#acorn-squash'>acorn squash</a> with oil, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, basil, onion powder, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, lemon pepper, and black pepper
 
 - Transfer to the pan, and roast for 30-40 minutes, or until soft and browned
 
-- As the <a href='/misc/veggies#butternut-squash'>squash</a> roasts, prepare the <a href='/misc/meat#chicken-breast'>chicken</a>. Cut your <a href='/misc/meat#chicken-breast'>chicken breasts</a> into large cutlets, and pound to an even thickness. Add to your bowl
+- As the <a href='/misc/veggies#acorn-squash'>acorn squash</a> roasts, prepare the <a href='/misc/meat#chicken-breast'>chicken</a>. Cut your <a href='/misc/meat#chicken-breast'>chicken breasts</a> into large cutlets, and pound to an even thickness. Add to your bowl
 
 - Season the <a href='/misc/meat#chicken-breast'>chicken</a> with oil, balsamic, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, basil, thyme, onion powder, garlic powder, salt, and black pepper
 

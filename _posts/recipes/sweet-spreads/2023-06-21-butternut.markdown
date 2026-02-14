@@ -53,9 +53,9 @@ Description: Similar to the <a href='/recipes/sweet-potato-puree'>Roasted Sweet 
 Instructions:
 - Preheat oven to 400F and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Slice off the stem of the <a href='/misc/veggies#butternut-squash'>squash</a> and cut in half lengthwise. Scoop out the seeds using a spoon. Sprinkle the inside with a little bit of salt
+- Slice off the stem of the <a href='/misc/veggies#butternut-squash'>butternut squash</a> and cut in half lengthwise. Scoop out the seeds using a spoon. Sprinkle the inside with a little bit of salt
 
-- Place the cut side down on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Prick the skin of the <a href='/misc/veggies#butternut-squash'>squash</a> with a fork
+- Place the cut side down on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Prick the skin of the <a href='/misc/veggies#butternut-squash'>butternut squash</a> with a fork
 
 - Roast for about 50-70 minutes, or until tender. A <a href='https://amzn.to/4jlDKwc'>knife</a> should be able to easily pierce through it without any force
 - <img src='/assets/Food/Sweet Spreads/Butternut/butternut-4.jpg' alt='' class='instruction-image'>
