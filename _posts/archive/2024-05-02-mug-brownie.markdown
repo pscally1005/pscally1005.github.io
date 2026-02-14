@@ -57,7 +57,7 @@ tags:
 - microwave
 Description: These mug <a href='/brownies'>brownies</a> are perfect for when you want just 1 <a href='/recipes/healthier-dessert'>dessert</a> instead of a whole pan. They're ultra gooey dark chocolate <a href='/brownies'>brownies</a> without any <a href='/misc/hidden-sugar'>added sugar</a>, and contain less than 200 <a href='/misc/calories'>calories</a> per mug. It takes only 5 minutes to make, and only dirties a mug and a spoon
 Instructions:
-- In a mug, mix together the <a href='/misc/grains#oats'>oat flour</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> until fully combined. Add in the <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/dairy#skim-milk'>milk</a>, and syrup. Mix fully to form a thick batter
+- In a mug, mix together the <a href='/misc/grains#oats'>oat flour</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> until fully combined. Add in the <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/dairy#skim-milk'>milk</a>, and <a href='/recipes/sugar-free-syrup'>syrup</a>. Mix fully to form a thick batter
 
 - Finely chop a square of <a href='/misc/overshadowed-healthy-foods#chocolate'>unsweetened chocolate</a>. Fold some into the batter, and top with the rest. Optionally top with flakey salt (or fold fine salt into the batter)
 
