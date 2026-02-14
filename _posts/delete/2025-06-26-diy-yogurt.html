@@ -20,7 +20,7 @@ cookie: no
 copycat: no
 permalink: /recipes/diy-yogurt
 image: /assets/Food/Meme/DIY Yogurt/cover.jpg
-file: diyyogurt
+file: diyyogurtmonkfruit
 servingSize: 3/4 cup (170 g)
 section1:
 start2:
@@ -60,8 +60,8 @@ Notes:
 ---
 {% assign files =
     "plain-nonfat-greek-yogurt,"
-    | append: "diy-yogurt-monk-fruit,"
-    | append: "diy-yogurt-honey"
+    | append: "diyyogurtmonkfruit,"
+    | append: "diyyogurthoney"
     | split: ","
 %}
 {% assign titles =
@@ -81,4 +81,4 @@ Notes:
     | append: "Calcium"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" folder="diy-yogurt" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

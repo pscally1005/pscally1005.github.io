@@ -94,9 +94,8 @@ Notes:
 - The original recipe used 1 stick (113 g) unsalted <a href='/misc/dairy#butter'>butter</a>, 3/4 cup (150 g) granulated <a href='/misc/hidden-sugar'>sugar</a>, and 2 cup (240 g) <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='/misc/fruit#apple'>applesauce</a>, monk fruit, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If you don't care to make it healthy, you can do that instead
 ---
 <hr>
-{% assign folder = "coffee-loaf" %}
 {% assign files =
-    "coffeeloafdecaf,"
+    "coffeeloaf,"
     | append: "coffeeloafcaf,"
     | append: "coffeeloafespdecaf,"
     | append: "coffeeloafespcaf,"
@@ -117,10 +116,10 @@ Notes:
     "Caffeine"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" folder=folder %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
 
 {% assign files =
-    "coffeeloafww,"
+    "coffeeloaf,"
     | append: "coffeeloafgf,"
     | append: "coffeeloafog"
     | split: ","
@@ -141,4 +140,4 @@ Notes:
     | append: "Sugar Alcohol"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" folder=folder %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

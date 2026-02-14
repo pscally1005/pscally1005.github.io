@@ -22,8 +22,6 @@ tags:
 - mashed banana
 - unsweetened applesauce
 ---
-{% assign folder = 'waffle' %}
-
 <div id='intro' class='table-of-contents-2'></div>
 <b><u><font size='+2'>Introduction</font></u></b><br>
 Lately I've been wanted to make either <a href='/misc/fake-healthy-foods#pancakes'>waffles or pancakes</a>. I stumbled across a two ingredient waffles recipe and was interested. And then I saw another one. And another one. And another.<br><br>
@@ -79,12 +77,12 @@ These keto waffles are the highest in <a href='/misc/fats'>fat</a>, <a href='/mi
 Any kind of natural <a href='/misc/nuts'>nut</a> or <a href='/recipes/natural-peanut-butter'>seed butter</a> will work here, like <a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed</a>, or <a href='/misc/seeds#sesame-seeds'>tahini</a>, but today I'm going with <a href='/misc/nuts#pistachios'>pistachio butter</a>.  <a href='/misc/nuts#pistachios'>Pistachio butter</a> is just what I had on hand at the time.  Just use something with only <a href='/misc/nuts'>nuts</a> and salt, no <a href='/misc/fats'>hydrogenated oils</a>, <a href='/misc/hidden-sugar'>sugar</a>, or preservatives.<br><br>
 
 <u><font size='+2'>Ingredients</font></u><br>
-{% assign i = site.data[folder]['wafflepb-ing'] %}
+{% assign i = site.data['wafflepb-ing'] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size='+2'>Nutrition Facts</font></u><br>
-{% assign nf = site.data[folder]['wafflepb-facts'] %}
+{% assign nf = site.data['wafflepb-facts'] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href='https://beautyandthefoodie.com/two-ingredient-keto-waffles/'>Beauty and the Foodie</a><br><br>
@@ -100,12 +98,12 @@ Known as "Chaffles", these cheese waffles features you guessed it, <a href='/mis
 Despite being higher in <a href='/misc/fats'>fat</a> than the next three recipes, these have about the same <a href='/misc/calories'>calories</a>, since they are significantly lower in <a href='/misc/carbs'>carbs</a>. I'm the most excited about these ones actually, since odd recipes tend to peak my interest.  But can I still put syrup on it, or should I be spreading <a href='/hummus'>hummus</a> on it instead?<br><br>
 
 <u><font size='+2'>Ingredients</font></u><br>
-{% assign i = site.data[folder]['wafflecheese-ing'] %}
+{% assign i = site.data['wafflecheese-ing'] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size='+2'>Nutrition Facts</font></u><br>
-{% assign nf = site.data[folder]['wafflecheese-facts'] %}
+{% assign nf = site.data['wafflecheese-facts'] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href='https://thereislifeafterwheat.com/2023/01/2-ingredient-keto-chaffle-recipe-cheese-waffles/#mv-creation-150-jtr'>Life After Wheat</a><br><br>
@@ -121,12 +119,12 @@ I've made three ingredient <a href='/misc/fruit#banana'>banana</a> waffles befor
 They're the second lowest in <a href='/misc/calories'>calories</a>, tied for the lowest in <a href='/misc/fats'>fat</a> with <a rel='' target='' href='#sweet-potato'>sweet potato</a> and <a rel='' target='' href='#applesauce'>applesauce</a>, and contain the most <a href='/misc/carbs'>carbs</a> and <a href='/misc/hidden-sugar'>sugar</a> of the six batches.  I'm thinking that either <a href='/misc/fruit#banana'>banana</a> or <a rel='' target='' href='#sweet-potato'>sweet potato</a> will taste the best.<br><br>
 
 <u><font size='+2'>Ingredients</font></u><br>
-{% assign i = site.data[folder]['wafflebanana-ing'] %}
+{% assign i = site.data['wafflebanana-ing'] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size='+2'>Nutrition Facts</font></u><br>
-{% assign nf = site.data[folder]['wafflebanana-facts'] %}
+{% assign nf = site.data['wafflebanana-facts'] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href='https://www.thekitchn.com/how-to-make-2-ingredient-banana-pancakes-cooking-lessons-from-the-kitchn-218658#post-recipe-10434'>The Kitchn</a><br><br>
@@ -142,12 +140,12 @@ This is actually the first recipe of all of them that I found, and what inspired
 <a href='/misc/veggies#sweet-potato'>Sweet potatoes</a> actually have more <a href='/misc/potassium'>potassium</a> that <a rel='' target='' href='#banana'>bananas</a>, plus more <a href='/misc/nutrient-alphabet'>micronutrients</a> as well. But this recipe is less convenient, as you need to already have a roasted <a href='/misc/veggies#sweet-potato'>sweet potato</a>.  My guess is that either <a href='/misc/veggies#sweet-potato'>sweet potato</a> or <a rel='' target='' href='#banana'>banana</a> will taste the best.<br><br>
 
 <u><font size='+2'>Ingredients</font></u><br>
-{% assign i = site.data[folder]['waffleswpot-ing'] %}
+{% assign i = site.data['waffleswpot-ing'] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size='+2'>Nutrition Facts</font></u><br>
-{% assign nf = site.data[folder]['waffleswpot-facts'] %}
+{% assign nf = site.data['waffleswpot-facts'] %}
 {% include nutrition.html facts=nf ing=i %}
 
 <i>Source</i>: <a href='https://themodernnonna.com/2-ingredient-pancakes/#wprm-recipe-container-49123'>The Modern Nonna</a><br><br>
@@ -165,12 +163,12 @@ But as <a href='/misc/fruit#apple'>applesauce</a> is less sweet than <a rel='' t
 However, they're the easiest to make.  No waiting for <a rel='' target='' href='#banana'>bananas</a> to get ripe, prepping a <a rel='' target='' href='#sweet-potato'>sweet potato</a> ahead of time, or blending up a <a rel='' target='' href='#nut-butter'>nut butter</a>.  Just measure from the jar in the fridge.<br><br>
 
 <u><font size='+2'>Ingredients</font></u><br>
-{% assign i = site.data[folder]['waffleapplesauce-ing'] %}
+{% assign i = site.data['waffleapplesauce-ing'] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size='+2'>Nutrition Facts</font></u><br>
-{% assign nf = site.data[folder]['waffleapplesauce-facts'] %}
+{% assign nf = site.data['waffleapplesauce-facts'] %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -183,12 +181,12 @@ However, they're the easiest to make.  No waiting for <a rel='' target='' href='
 Finally, we have waffles with <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a>. These are the second lowest in <a href='/misc/calories'>calories</a>, with only the <a rel='' target='' href='#applesauce'>applesauce waffles</a> having less.  More imporantly, these <a href='/misc/dairy#yogurt'>Greek yogurt</a> waffles are the highest in <a href='/misc/protein'>protein</a>; 24 g for just 215 <a href='/misc/calories'>calories</a>.  With zero <a href='/misc/dairy#whey'>protein powder</a>, these <a href='/misc/high-protein'>high protein</a> waffles are also a great source of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/nutrient-alphabet'>micronutrients</a>, from <a href='/misc/choline'>choline</a> to <a href='/misc/nutrient-alphabet#D'>vitamin D</a> to <a href='/misc/nutrient-alphabet#S'>selenium</a>.<br><br>
 
 <u><font size='+2'>Ingredients</font></u><br>
-{% assign i = site.data[folder]['waffleyogurt-ing'] %}
+{% assign i = site.data['waffleyogurt-ing'] %}
 {% include ingredients.html ing=i %}
 <br>
 
 <u><font size='+2'>Nutrition Facts</font></u><br>
-{% assign nf = site.data[folder]['waffleyogurt-facts'] %}
+{% assign nf = site.data['waffleyogurt-facts'] %}
 {% include nutrition.html facts=nf ing=i %}
 <br>
 
@@ -315,7 +313,7 @@ If I had to choose one of the six to make regularly, my vote goes to <a rel='' t
     | split: ","
 %}
 {% assign pic = "/assets/Misc/Experiments/Waffles/nutrition-facts-label.png" %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" folder=folder %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" %}
 
 <div id='variations' class='table-of-contents-2'></div>
 <b><u><font size='+2'>Variations</font></u></b><br>

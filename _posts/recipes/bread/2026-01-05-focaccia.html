@@ -73,9 +73,7 @@ Notes:
 
 - For a vegan variation, use the following ingredients below.  The <a href='/misc/dairy#mozzarella'>mozzarella</a>, <a href='/misc/dairy#cream-cheese'>cream cheese</a>, and <a href='/misc/meat#eggs'>egg</a> are replaced with <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  Salt is added to the dough to account for the lack of the salty <a href='/misc/dairy#mozzarella'>cheese</a>.  No microwaving required.  Just mix together the ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a>, add to the pan, and top with rosemary and flaky salt.  Bake for <b>25 minutes</b> this time at 350F (as opposed to 20 minutes), or until the top is set, the edges are lightly browned, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around 205F.  The dough is a bit wetter, so it will need a little more time to bake
 ---
-{% assign folder = "focaccia" %}
-
-{% assign i = site.data[folder]['applesaucefocaccia-ing'] %}
+{% assign i = site.data['applesaucefocaccia-ing'] %}
 {% include ingredients.html ing=i recipe="false" %}
 <br>
 
@@ -103,4 +101,4 @@ Notes:
     | append: "Fiber"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients folder=folder scroll="true" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

@@ -203,8 +203,7 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
     | split: ","
 %}
 {% assign pic = '/assets/Misc/Cooking/Chocolate/nutrition-facts-label.png' %}
-{% assign folder = "chocolate" %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" folder=folder %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" %}
 
 <div id='costs' class='table-of-contents-2'></div>
 <u><b><font size='+2'>Costs</font></b></u><br><br>
@@ -233,7 +232,7 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
             <td>Homemade</td>
             {% for f in files %}
                 {% assign file = f | append: "-ing" %}
-                <td>{% include calcCost.html ing=file folder=folder %}</td>
+                <td>{% include calcCost.html ing=file %}</td>
             {% endfor %}
         </tr>
     </tbody>

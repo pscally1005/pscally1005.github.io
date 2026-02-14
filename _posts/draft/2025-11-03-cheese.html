@@ -25,8 +25,6 @@ tags:
 - spread
 - dip
 ---
-{% assign folder = 'cheese' %}
-
 <b><u><font size='+2'>Table of Contents</font></u></b><br>
 <ul>
     <li><a rel='' target='' href='#intro'>Introduction</a></li>
@@ -89,7 +87,7 @@ You can use any <a href='/misc/fats'>fat</a> content milk here. I'd recommend <a
 
 <div id='ricotta-ingredients' class='table-of-contents-2'></div>
 <i><font size='+2'>Ingredients</font></i><br>
-{% assign i = site.data[folder]['ricottawhole-ing'] %}
+{% assign i = site.data['ricottawhole-ing'] %}
 {% include ingredients.html ing=i %}
 <br>
 
@@ -164,7 +162,7 @@ You can use any <a href='/misc/fats'>fat</a> content milk here. I'd recommend <a
     | split: ","
 %}
 {% assign pic = "/assets/Misc/Experiments/Cheese/nutrition-facts-label.png" %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" pic=pic folder=folder %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" pic=pic %}
 
 <div id='labneh' class='table-of-contents-2'></div>
 <b><u><font size='+2'>Labneh Cheese</font></u></b><br>
@@ -178,7 +176,7 @@ I'm going with <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a> for a 
 
 <div id='labneh-ingredients' class='table-of-contents-2'></div>
 <i><font size='+2'>Ingredients</font></i><br>
-{% assign i = site.data[folder]['labnehskim-ing'] %}
+{% assign i = site.data['labnehskim-ing'] %}
 {% include ingredients.html ing=i %}
 <br>
 
@@ -240,7 +238,7 @@ I'm going with <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a> for a 
     | append: "Net Carbs"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" pic=pic folder=folder %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" pic=pic %}
 
 <div id='whey-uses' class='table-of-contents-2'></div>
 <b><u><font size='+2'>Leftover Whey Uses</font></u></b><br>

@@ -81,14 +81,11 @@ Instructions:
 - <img src='/assets/Food/Finger Food/Empanada/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 ---
-
 <hr>
-
-{% assign folder = "empanada" %}
 
 <div id="empanada" class='table-of-contents-2'></div>
 <font size="+2"><b><u>Empanada Filling</u></b></font>
-{% assign i = site.data[folder]['empanadas-ing'] %}
+{% assign i = site.data['empanadas-ing'] %}
 {% include ingredients.html ing=i recipe="false" %}
 
 <ol>
@@ -108,7 +105,7 @@ Notes:
 
 <div id="pierogi" class='table-of-contents-2'></div>
 <font size="+2"><b><u>Pierogi Filling</u></b></font>
-{% assign i = site.data[folder]['pierogi-ing'] %}
+{% assign i = site.data['pierogi-ing'] %}
 {% include ingredients.html ing=i recipe="false" %}
 
 <ol>
@@ -148,4 +145,4 @@ Notes:
     | append: "Fiber"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients folder=folder scroll="true" %}
+{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
