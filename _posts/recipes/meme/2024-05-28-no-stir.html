@@ -65,13 +65,13 @@ Notes:
 {% assign files =
     "nostir2,"
     | append: "skippy,"
-    | append: "pb,"
+    | append: "pb"
     | split: ","
 %}
 {% assign titles =
     "<a href='#recipe'>Homemade<br>Skippy</a>,"
     | append: "<a href='https://amzn.to/4rbCnV2'>Storebought<br>Skippy</a>,"
-    | append: "<a href='/recipes/natural-peanut-butter'>Homemade<br>Natural</a>,"
+    | append: "<a href='/recipes/natural-peanut-butter'>Homemade<br>Natural</a>"
     | split: ","
 %}
 {% assign nutrients =
@@ -80,7 +80,7 @@ Notes:
     | append: "Fat,"
     | append: "Net Carbs,"
     | append: "Fiber,"
-    | append: "Added Sugar,"
+    | append: "Added Sugar"
     | split: ","
 %}
 {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

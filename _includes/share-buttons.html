@@ -26,6 +26,7 @@
 #share-buttons > div.mail:hover > svg {fill: #D44638;}
 #share-buttons > div.copy-link:hover > svg {fill: #0000EE;}
 #share-buttons > div.copy-recipe:hover > svg {fill: #551A8B;}
+#share-buttons > div.copy-nutrition:hover > svg {fill: #db18cb;}
 #share-buttons > div.text-message:hover > svg {fill: #25D366;}
 
 #share-buttons > div.facebook > svg {height: 18px; margin-top: 9px;}
@@ -36,6 +37,7 @@
 #share-buttons > div.mail > svg {height: 14px; margin-top: 11px;}
 #share-buttons > div.copy-link > svg {height: 18px; margin-top: 9px;}
 #share-buttons > div.copy-recipe > svg {height: 18px; margin-top: 9px;}
+#share-buttons > div.copy-nutrition > svg {height: 18px; margin-top: 9px;}
 #share-buttons > div.text-message > svg {height: 20px; margin-top: 8px;}
 </style>
 
@@ -100,6 +102,15 @@
         </div>
     {% endif %}
 
+    <!-- Copy Nutrition Facts -->
+    {% if page.categories[0] == "Recipes" or page.categories[1] == "Unhealthy Recipes" %}
+        <div class='copy-nutrition' title="Copy nutrition facts" onclick="copyNutrition()">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M7 2a2 2 0 00-2 2v16a2 2 0 002 2h10a2 2 0 002-2V4a2 2 0 00-2-2H7zm10 18H7V4h10v16zM9 6h6v2H9V6zm0 4h2v2H9v-2zm0 4h2v2H9v-2zm4-4h2v2h-2v-2zm0 4h2v2h-2v-2z"/>
+            </svg>
+        </div>
+    {% endif %}
+
     <!-- Text Message -->
     <div class='text-message' title="Send link via Text Message" onclick="window.open('sms:?&body={{ site.url }}{{ pageurl }}');">
         <svg viewBox="0 0 24 24" width="32" height="32" data-testid="sms" class='s46582 '>
@@ -126,6 +137,31 @@
             alert("Recipe copied to clipboard!");  // Success alert
         } catch (err) {
             alert("Failed to copy recipe.");  // Error alert
+        }
+
+        // Hide the element again
+        copyText.style.display = "none";
+
+        // Clear the selection to reset
+        window.getSelection().removeAllRanges();
+    }
+
+    function copyNutrition() {
+        var copyText = document.querySelector(".nutrition-copy");
+
+        // Temporarily make the element visible
+        copyText.style.display = "block";
+
+        var range = document.createRange();
+        range.selectNode(copyText);  // Select the content of the element
+        window.getSelection().removeAllRanges();  // Clear previous selections
+        window.getSelection().addRange(range);  // Select new range
+
+        try {
+            document.execCommand("copy");  // Execute the copy command
+            alert("Nutrition facts copied to clipboard!");  // Success alert
+        } catch (err) {
+            alert("Failed to copy nutrition facts.");  // Error alert
         }
 
         // Hide the element again

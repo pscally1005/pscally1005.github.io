@@ -72,13 +72,13 @@ Notes:
 {% assign files =
     "bulkbrownieshoney,"
     | append: "bulkbrowniesmaple,"
-    | append: "bulkbrowniessfs,"
+    | append: "bulkbrowniessfs"
     | split: ","
 %}
 {% assign titles =
     "Honey,"
     | append: "Maple<br>Syrup,"
-    | append: "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>,"
+    | append: "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>"
     | split: ","
 %}
 {% assign nutrients =
@@ -88,7 +88,7 @@ Notes:
     | append: "Net Carbs,"
     | append: "Fiber,"
     | append: "Added Sugar,"
-    | append: "Sugar Alcohol,"
+    | append: "Sugar Alcohol"
     | split: ","
 %}
 {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

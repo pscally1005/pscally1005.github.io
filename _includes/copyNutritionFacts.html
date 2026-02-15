@@ -1,0 +1,64 @@
+<!-- Copy nutrition -->
+<div class='nutrition-copy' style="display: none;">
+
+    <!-- Files -->
+    {% assign ing = page.ing %}
+    {% assign facts = page.facts %}
+    {% if include.facts %}
+        {% assign ing = include.ing %}
+        {% assign facts = include.facts %}
+    {% elsif include.file %}
+        {% assign file = include.file %}
+        {% assign ing = file | append: "-ing" %}
+        {% assign facts = file | append: "-facts" %}
+    {% elsif page.file %}
+        {% assign file = page.file %}
+        {% assign ing = file | append: "-ing" %}
+        {% assign facts = file | append: "-facts" %}
+    {% endif %}
+
+    <!-- Loop Variable -->
+    {% assign loopVar = site.data[facts] %}
+
+    <!-- Nutrients -->
+    {% assign nutrients =
+        "Calories,"
+        | append: "Protein,"
+        | append: "Fat,"
+        | append: "Carbs,"
+        | append: "Fiber"
+        | split: ","
+    %}
+
+    <!-- Output servings (if not 1) -->
+    {% assign servings = 1 | times: 1 %}
+        {% for row in site.data[ing] %}
+            {% if forloop.last %}
+                {% assign servings = row["Amount"] | times: 1 %}
+                {% continue %}
+            {% endif %}
+    {% endfor %}
+    {% unless servings == 1 %}
+        Servings: {{ servings }}<br>
+    {% endunless %}
+
+    <!-- Output custom serving size if present -->
+    {% if page.servingSize %}
+        {{ page.servingSize }}<br>
+    {% endif %}
+
+    <!-- Output nutrients -->
+    {% for nutrient in nutrients %}
+        {{ nutrient }}:
+        {% include getNutrient.html
+            ing=ing
+            facts=facts
+            servingSize="100"
+            nutrient=nutrient
+            fetch="perServing"
+            rnd=rnd
+        %}
+        <br>
+    {% endfor %}
+
+</div>
