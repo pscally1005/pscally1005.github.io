@@ -2429,6 +2429,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "maple syrup",
     "potato bread",
     "potato buns",
     "potato bun",
