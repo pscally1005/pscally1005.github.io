@@ -6,12 +6,24 @@
         {{ page.Description }}
     </div>
 
-    <br><br>
+    <br>
 
     <!-- Ingredients -->
     <div class='ing-copy'>
+        <!-- Ingredients file -->
+        {% assign ing = page.ing %}
+        {% if include.ing %}
+            {% assign ing = include.ing %}
+        {% elsif include.file %}
+            {% assign file = include.file %}
+            {% assign ing = file | append: "-ing" %}
+        {% elsif page.file %}
+            {% assign file = page.file %}
+            {% assign ing = file | append: "-ing" %}
+        {% endif %}
+
         <!-- Loop Variable -->
-        {% assign loopVar = site.data[page.ing] %}
+        {% assign loopVar = site.data[ing] %}
 
         {% if !page.section1 %}
             {{ page.section1 | upcase }}<br>
@@ -61,7 +73,7 @@
         {% endfor %}
     </div>
 
-    <br><br>
+    <br>
 
     <!-- Steps -->
     <div class='ins-copy'>
@@ -76,8 +88,6 @@
             {{count}}. {{ step }}<br><br>
         {% endfor %}
     </div>
-
-    <br>
 
     <!-- Link -->
      <div class='link-copy'>
