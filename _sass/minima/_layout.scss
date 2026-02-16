@@ -1057,87 +1057,43 @@ a.button {
 }
 
 
+// Jump to links
+#top-post,
+#top-page,
+#top-home {
+  scroll-margin-top: 100px;
+}
 
-/* Desktop and default */
+.table-of-contents {
+  scroll-margin-top: 100px;
+}
+
+.table-of-contents-2 {
+  scroll-margin-top: 120px;
+}
+
 #recipe,
 #nutrition-facts,
-#disqus_thread,
-.table-of-contents,
-.table-of-contents-2,
-#top-post,
-#top-home,
-#top-page {
-  position: relative;
-}
-
-/* Desktop and default */
+#notes,
 #disqus_thread {
-  scroll-margin-top: 80px; /* Adjust this value based on the padding or header height */
-  padding-top: 60px; /* Adjust based on your design */
-}
-
-#recipe:before,
-#nutrition-facts:before,
-#disqus_thread:before,
-.table-of-contents:before,
-.table-of-contents-2:before,
-#top-post:before,
-#top-home:before,
-#top-page:before {
-  content: "";
-  display: block;
-  visibility: hidden;
-}
-
-#recipe:before {
-  height: 40px; /* Adjust this value to the height of your header */
-  margin-top: -40px; /* Same value as height, moving the element up */
-}
-
-#nutrition-facts:before,
-.table-of-contents:before,
-#top-post:before,
-#top-home:before,
-#top-page:before {
-  height: 100px; /* Adjust this value to the height of your header */
-  margin-top: -100px; /* Same value as height, moving the element up */
-}
-
-.table-of-contents-2:before {
-  height: 130px; /* Adjust this value to the height of your header */
-  margin-top: -130px; /* Same value as height, moving the element up */
-}
-
-#disqus_thread:before {
-  height: 130px; /* Adjust this value to the height of your header */
-  margin-top: -130px; /* Same value as height, moving the element up */
+  scroll-margin-top: 120px; /* match your header height */
 }
 
 /* Adjust for mobile screens */
 @media only screen and (max-width: 768px) {
-  #recipe:before {
-    height: 0;
-    margin-top: 0;
+  #recipe,
+  #nutrition-facts,
+  #notes,
+  #disqus_thread {
+    scroll-margin-top: 70px; /* match your header height */
   }
 
-  #nutrition-facts:before {
-      height: 60px; /* Adjust this value for mobile */
-      margin-top: -60px; /* Adjust this value for mobile */
+  .table-of-contents {
+    scroll-margin-top: 50px;
   }
 
-  #disqus_thread:before {
-    height: 0; /* Adjust this value for mobile */
-    margin-top: 0; /* Adjust this value for mobile */
-  }
-
-  .table-of-contents:before {
-    height: 40px; /* Adjust this value for mobile */
-    margin-top: -40px; /* Adjust this value for mobile */
-  }
-
-  .table-of-contents-2:before {
-    height: 70px; /* Adjust this value for mobile */
-    margin-top: -70px; /* Adjust this value for mobile */
+  .table-of-contents-2 {
+    scroll-margin-top: 70px;
   }
 }
 
