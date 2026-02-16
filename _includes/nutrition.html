@@ -168,7 +168,7 @@
                 {% assign dv = "" %}
                 {% if row.DV %}
                     {% assign dv_factor = row.DV | times: factor | round: 0 %}
-                    {% assign dv = '&nbsp;(' | append: dv_factor | append: ' %)' %}
+                    {% assign dv = ' (' | append: dv_factor | append: ' %)' %}
                 {% endif %}
 
                 {% assign val = row.Amount | times: factor %}

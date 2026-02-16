@@ -160,19 +160,22 @@
 </div>
 
 {% if include.scroll and scroll == "true" %}
-    <i>Scroll to the right to read information about every variation</i><br><br>
+<div>
+  <i>Scroll to the right to read information about every variation</i>
+</div>
 {% endif %}
 
 {% if include.pic %}
+<br>
 <div class="image-row">
-    <img src='{{ pic }}' alt='' class='smaller-image'>
-</div><br><br>
+<img src='{{ pic }}' alt='' class='smaller-image'>
+</div>
 {% endif %}
 
-{% if page.title != "Overshadowed Healthy Foods" %}
-    <hr>
+{% if page.title != "Overshadowed Healthy Foods" and page.title != "Nutrient Comparisons of Similar Foods" %}
+<hr>
 {% else %}
-    <br>
+<br>
 {% endif %}
 
 <style>

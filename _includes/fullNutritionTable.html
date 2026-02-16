@@ -6,13 +6,13 @@
 <!-- Variables -->
 {% assign facts = include.facts %}
 {% assign addedSugarNum = include.addedSugar %}
-{% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 | append: '&nbsp;%' %}
+{% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 | append: ' %' %}
 {% assign netCarbNum = include.netCarb %}
 {% assign sugarAlcoholNum = include.sugAlc %}
 {% assign alluloseNum = include.all %}
 {% assign lactoseNum = include.lactose %}
 {% assign glutenNum = include.gluten %}
-{% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 | append: '&nbsp;%' %}
+{% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 | append: ' %' %}
 
 <!-- JavaScript to open the table in a new window -->
 <script>
