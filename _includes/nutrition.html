@@ -783,7 +783,7 @@
         <!-- Glycemic index & full nutrition facts only on recipes-->
         <div class='gi'>
             {% if recipe == "true" %}
-                {% include glycemic.html ing=include.ing %}
+                {% include glycemic.html %}
                 <br>
                 {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all lactose=lactose gluten=gluten %}
             {% endif %}

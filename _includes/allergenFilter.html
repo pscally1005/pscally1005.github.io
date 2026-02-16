@@ -5,8 +5,20 @@
 {% assign nut_free = "true" %}
 {% assign sugar_free = "true" %}
 
+<!-- Use parameters or not -->
+{% assign ing = page.ing %}
+{% if include.ing %}
+    {% assign ing = include.ing %}
+{% elsif include.file %}
+    {% assign file = include.file %}
+    {% assign ing = file | append: "-ing" %}
+{% elsif post.file %}
+    {% assign file = post.file %}
+    {% assign ing = file | append: "-ing" %}
+{% endif %}
+
 <!-- Loop through ingredients file to determine allergens -->
-{% for row in site.data[post.ing] %}
+{% for row in site.data[ing] %}
     {% if forloop.last %}
         {% continue %}
     {% else %}

@@ -3,10 +3,10 @@ layout: none
 ---
 [
   {%- assign live_posts = site.posts
-    | where_exp: "post", "post.categories.last != 'Archive'" 
+    | where_exp: "post", "post.categories.last != 'Archive'"
     | where_exp: "post", "post.categories.last != 'Draft'"
     | where_exp: "post", "post.categories.last != 'Delete'"
-    | where_exp: "post", "post.categories.last != 'Hidden'" 
+    | where_exp: "post", "post.categories.last != 'Hidden'"
   -%}
 
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -19,10 +19,11 @@ layout: none
     {%- assign nut_free = "true" -%}
     {%- assign sugar_free = "true" -%}
 
-    {%- assign ing = post.ing -%}
+    {%- assign file = post.file -%}
+    {%- assign ing = file | append: "-ing" -%}
 
     {% if ing %}
-    
+
       {%- for row in site.data[ing] -%}
           {% unless forloop.last %}
               {% assign food = row["Ingredient"] %}
@@ -67,7 +68,7 @@ layout: none
       "date"     : "{{ post.date | date: date_format }}",
       "tags": "{{ post.tags | join: ', ' }}",
       "image"    : "{{ post.image }}",
-      "ingred"   : "{{ post.ing }}",
+      "ingred"   : "{{ ing }}",
       "gluten-free": "{{ gluten_free }}",
       "vegetarian": "{{ vegetarian }}",
       "dairy-free": "{{ dairy_free }}",

@@ -10,10 +10,17 @@
         {% assign ing = page.ing %}
         {% if include.ing %}
             {% assign ing = include.ing %}
+        {% elsif include.file %}
+            {% assign file = include.file %}
+            {% assign ing = file | append: "-ing" %}
+        {% elsif page.file %}
+            {% assign file = page.file %}
+            {% assign ing = file | append: "-ing" %}
         {% endif %}
 
         {% if page.layout == "home" %}
-            {% assign ing = post.ing %}
+            {% assign file = post.file %}
+            {% assign ing = file | append: "-ing" %}
         {% endif %}
 
         <!-- Default case: everything is allergen friendly -->
