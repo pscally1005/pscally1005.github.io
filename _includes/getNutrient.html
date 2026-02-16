@@ -616,78 +616,87 @@
         {% assign line = lactoseStr %}
     {% endif %}
 
+    <!-- Strip white space -->
+    {% assign line = line | strip %}
+
     <!-- Check if Infinity -->
-    {% if cal == 0 or cal == '' or cal == "0" %}
+    {% if cal == 0 or cal == '' or cal == "0" or cal == "0 " %}
         {% assign infinity_flag = true %}
     {% else %}
         {% assign infinity_flag = false %}
     {% endif %}
 
+    {% comment %}
+        infinity_flag:"{{infinity_flag}}"
+        cal:"{{cal}}"
+        fetch:"{{fetch}}"
+    {% endcomment %}
+
     {% if infinity_flag and fetch == "per100cal" %}
         {% assign output = "∞" %}
     {% else %}
 
-        <!-- Extract the numeric value -->
-        {% assign value_raw = line | split: '(' | first %}
-        {% assign value = value_raw | remove: 'a' | remove: 'b' | remove: 'c' | remove: 'd' | remove: 'e' | remove: 'f' | remove: 'g' | remove: 'h' | remove: 'i' | remove: 'j' | remove: 'k' | remove: 'l' | remove: 'm' | remove: 'n' | remove: 'o' | remove: 'p' | remove: 'q' | remove: 'r' | remove: 's' | remove: 't' | remove: 'u' | remove: 'v' | remove: 'w' | remove: 'x' | remove: 'y' | remove: 'z' | remove: 'A' | remove: 'B' | remove: 'C' | remove: 'D' | remove: 'E' | remove: 'F' | remove: 'G' | remove: 'H' | remove: 'I' | remove: 'J' | remove: 'K' | remove: 'L' | remove: 'M' | remove: 'N' | remove: 'O' | remove: 'P' | remove: 'Q' | remove: 'R' | remove: 'S' | remove: 'T' | remove: 'U' | remove: 'V' | remove: 'W' | remove: 'X' | remove: 'Y' | remove: 'Z' | remove: '&' | remove: ';' %}
-        {% assign value = value | plus: 0 %}
+      <!-- Extract the numeric value -->
+      {% assign value_raw = line | split: '(' | first %}
+      {% assign value = value_raw | remove: 'a' | remove: 'b' | remove: 'c' | remove: 'd' | remove: 'e' | remove: 'f' | remove: 'g' | remove: 'h' | remove: 'i' | remove: 'j' | remove: 'k' | remove: 'l' | remove: 'm' | remove: 'n' | remove: 'o' | remove: 'p' | remove: 'q' | remove: 'r' | remove: 's' | remove: 't' | remove: 'u' | remove: 'v' | remove: 'w' | remove: 'x' | remove: 'y' | remove: 'z' | remove: 'A' | remove: 'B' | remove: 'C' | remove: 'D' | remove: 'E' | remove: 'F' | remove: 'G' | remove: 'H' | remove: 'I' | remove: 'J' | remove: 'K' | remove: 'L' | remove: 'M' | remove: 'N' | remove: 'O' | remove: 'P' | remove: 'Q' | remove: 'R' | remove: 'S' | remove: 'T' | remove: 'U' | remove: 'V' | remove: 'W' | remove: 'X' | remove: 'Y' | remove: 'Z' | remove: '&' | remove: ';' %}
+      {% assign value = value | plus: 0 %}
 
-        <!-- Extract the percentage -->
-        {% if line contains '%' %}
-            {% assign percentage_raw = line | split: '(' | last %}
-            {% assign percentage = percentage_raw | remove: '%' | remove: ')' | strip %}
-        {% else %}
-            {% assign percentage = -1 %}
-        {% endif %}
+      <!-- Extract the percentage -->
+      {% if line contains '%' %}
+          {% assign percentage_raw = line | split: '(' | last %}
+          {% assign percentage = percentage_raw | remove: '%' | remove: ')' | strip %}
+      {% else %}
+          {% assign percentage = -1 %}
+      {% endif %}
 
-        <!-- Extract unit -->
-        {% assign parts = line | split: ' ' %}
-        {% if parts.size > 1 %}
-          {% assign unit = parts[1] %}
-        {% else %}
-          {% assign unit = '' %}
-        {% endif %}
+      <!-- Extract unit -->
+      {% assign parts = line | split: ' ' %}
+      {% if parts.size > 1 %}
+        {% assign unit = parts[1] %}
+      {% else %}
+        {% assign unit = '' %}
+      {% endif %}
 
-        {% comment %}
-            line:"{{line}}"<br>
-            value_raw:"{{value_raw}}"<br>
-            value:"{{value}}"<br>
-            unit:"{{unit}}"<br>
-            percentage_raw:"{{percentage_raw}}"<br>
-            digits_only:"{{digits_only}}"<br>
-            chars:"{{chars}}"<br>
-            percentage:"{{percentage}}"<br>
-            rnd:"{{rnd}}"<br>
-        {% endcomment %}
+      {% comment %}
+          line:"{{line}}"<br>
+          value_raw:"{{value_raw}}"<br>
+          value:"{{value}}"<br>
+          unit:"{{unit}}"<br>
+          percentage_raw:"{{percentage_raw}}"<br>
+          digits_only:"{{digits_only}}"<br>
+          chars:"{{chars}}"<br>
+          percentage:"{{percentage}}"<br>
+          rnd:"{{rnd}}"<br>
+      {% endcomment %}
 
-        <!-- Apply factor -->
-        {% assign value = value | times: factor | round: rnd %}
-        {% if showPercentage == "True" %}
-            {% assign percentage = percentage | times: factor | round: 0 %}
-        {% else %}
-            {% assign percentage = 0 %}
-        {% endif %}
+      <!-- Apply factor -->
+      {% assign value = value | times: factor | round: rnd %}
+      {% if showPercentage == "True" %}
+          {% assign percentage = percentage | times: factor | round: 0 %}
+      {% else %}
+          {% assign percentage = 0 %}
+      {% endif %}
 
-        <!-- Combine for the output -->
-        {% assign output = value | append: ' ' | append: unit | append: '<br>(' | append: percentage | append: ' %)' %}
+      <!-- Combine for the output -->
+      {% assign output = value | append: ' ' | append: unit | append: '<br>(' | append: percentage | append: ' %)' %}
 
-        {% if showPercentage == "False" or percentage == "" or percentage == -1 %}
-            {% assign output = value | append: ' ' | append: unit %}
-        {% endif %}
-        {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" %}
-            {% assign output = value | append: ' ' | append: unit | append: '(' | append: percentage | append: ' %)' %}
+      {% if showPercentage == "False" or percentage == "" or percentage == -1 %}
+          {% assign output = value | append: ' ' | append: unit %}
+      {% endif %}
+      {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" %}
+          {% assign output = value | append: ' ' | append: unit | append: '(' | append: percentage | append: ' %)' %}
 
-            {% assign nutrients_without_percentage = "Calories,Net Carbs,Sugar" | split: "," %}
-            {% if nutrients_without_percentage contains nutrient" %}
-                {% assign output = value | append: ' ' | append: unit %}
-            {% endif %}
+          {% assign nutrients_without_percentage = "Calories,Net Carbs,Sugar" | split: "," %}
+          {% if nutrients_without_percentage contains nutrient" %}
+              {% assign output = value | append: ' ' | append: unit %}
+          {% endif %}
 
-        {% endif %}
+      {% endif %}
 
-        <!-- Output fix for not present nutrient -->
-        {% if output == "0.0 (0 %)" %}
-            {% assign output = "0.0 g (0 %)" %}
-        {% endif %}
+      <!-- Output fix for not present nutrient -->
+      {% if output == "0.0 (0 %)" %}
+          {% assign output = "0.0 g (0 %)" %}
+      {% endif %}
 
     {% endif %}
 
