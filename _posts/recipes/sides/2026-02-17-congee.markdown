@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Brown Rice Congee Base
-date:   2026-01-15 00:00:00 -0500
+date:   2026-02-17 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
