@@ -199,7 +199,6 @@ Notes:
         </ul><br>
   </ol>
 ---
-
 {% assign files =
     "barbellunsw,"
     | append: "barbell-sug-free-choc,"

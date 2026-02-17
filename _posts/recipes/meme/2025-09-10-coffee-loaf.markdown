@@ -59,7 +59,7 @@ tags:
 Description: |
   Fun fact:<b></b> coffee cake doesn't have any coffee. It's named as such because it was served alongside coffee. On the other hand, this coffee loaf is a sweet quick bread with ground decaf coffee. I've taken the original recipe, and swapped out the unhealthy, empty <a href='/misc/calories'>calorie</a>, inflammatory <a href='/misc/hidden-sugar'>white sugar</a>, <a href='/misc/dairy#butter'>butter</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with more wholesome ingredients, like <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, <a href='/misc/fruit#apple'>unsweetened applesauce</a>, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
 
-  This reduces the <a href='/misc/calories'>calories</a>, ups the <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> contents, lowers the <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carb</a> contents, and adds more crucial <a href='/misc/nutrient-alphabet'>vitamins and minerals</a>.  You can even make it <a href='/misc/celiac'>gluten free</a>; just check out the <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#gf-note'>below</a>.  A slice of this makes a great snack for any of you coffee lovers out there!
+  This reduces the <a href='/misc/calories'>calories</a>, ups the <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> contents, lowers the <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carb</a> contents, and adds more crucial <a href='/misc/nutrient-alphabet'>vitamins and minerals</a>.  You can even make it <a href='/misc/celiac'>gluten free</a>; just check out the <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#notes'>below</a>.  A slice of this makes a great snack for any of you coffee lovers out there!
 Instructions:
 - Preheat your oven to 325F, and lightly grease a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with oil
 
@@ -79,41 +79,17 @@ Instructions:
 - Let the cake chill in the fridge for at least 1 hour before removing from the pan and cutting into 20 slices
 - <img src='/assets/Food/Meme/Coffee Loaf/baked.jpg' alt='' class='instruction-image'>
 Notes:
+- You can eithe use <b>ground coffee</b> (<b>1/2 cup</b>, <b>40 g</b>), <b>instant espresso powder</b> (<b>4 tsp</b>, <b>8 g</b>) or <b>instant coffee</b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your coffee in 1/2 cup (120 g) of hot water for 5-10 minutes before adding to the batter
+
+- I've tested the recipe both with decaf ground coffee and instant espresso powder</a>.  Ground coffee leads to a crumblier but stronger coffee tasting loaf, whereas the espresso powder holds its shape better with a very mild coffee flavor
+
+- For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>
+
+- If you don't need it <a href='/misc/celiac'>gluten free</a>, you can simply use 2 cup (240 g) <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  If it needs to be <a href='/misc/celiac'>gluten free</a> though, you can replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with the following blend of flours
+- INGREDIENTS(coffeeloafgfflour-ing)
+
+- The original recipe used 1 stick (113 g) unsalted <a href='/misc/dairy#butter'>butter</a>, 3/4 cup (150 g) granulated <a href='/misc/hidden-sugar'>sugar</a>, and 2 cup (240 g) <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='/misc/fruit#apple'>applesauce</a>, monk fruit, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If you don't care to make it healthy, you can do that instead
 ---
-<div id="notes" class='table-of-contents-2'></div>
-<font size="+2"><b><u>Notes</u></b></font><br>
-<ol>
-  <li>
-    You can eithe use <b>ground coffee</b> (<b>1/2 cup</b>, <b>40 g</b>), <b>instant espresso powder</b> (<b>4 tsp</b>, <b>8 g</b>) or <b>instant coffee</b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your coffee in 1/2 cup (120 g) of hot water for 5-10 minutes before adding to the batter.<br><br>
-
-    I've tested the recipe both with decaf ground coffee and instant espresso powder</a>.  Ground coffee leads to a crumblier but stronger coffee tasting loaf, whereas the espresso powder holds its shape better with a very mild coffee flavor<br><br>
-
-    For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>.
-  </li>
-</ol>
-
-<br>
-<img src='/assets/Food/Meme/Coffee Loaf/coffee.jpg' alt='' class='instruction-image'>
-<br>
-<img src='/assets/Food/Meme/Coffee Loaf/espresso.jpg' alt='' class='instruction-image'>
-<br>
-
-<div id="gf-note" class='table-of-contents-2'></div>
-<ol start="2">
-  <li>
-    If you don't need it <a href='/misc/celiac'>gluten free</a>, you can simply use 2 cup (240 g) <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
-
-    If it needs to be <a href='/misc/celiac'>gluten free</a> though, you can replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with the following blend of flours.
-  </li>
-
-  {% assign i = site.data['coffeeloafgfflour-ing'] %}
-  {% include ingredients.html ing=i recipe="false" %}
-
-  <li>
-    The original recipe used 1 stick (113 g) unsalted <a href='/misc/dairy#butter'>butter</a>, 3/4 cup (150 g) granulated <a href='/misc/hidden-sugar'>sugar</a>, and 2 cup (240 g) <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='/misc/fruit#apple'>applesauce</a>, monk fruit, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If you don't care to make it healthy, you can do that instead.
-  </li>
-</ol>
-
 <hr>
 
 {% assign files =
