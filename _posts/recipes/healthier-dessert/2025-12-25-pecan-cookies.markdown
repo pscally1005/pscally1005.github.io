@@ -79,6 +79,7 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/cover-2.jpg' alt='' class='instruction-image'>
 Notes:
 - The step 5 combo of low fat <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, vanilla, and salt makes the best healthy <a href='/misc/dairy#cream-cheese'>cream cheese</a> frosting
+
 - |
   The <a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>original recipe</a> talks about how people tend to eat lots of sweets between Halloween and New Year's, and that <a href='/recipes/healthier-dessert'>healthier desserts</a> with <a href='/misc/nuts'>nuts</a> are a great way to still have nutrition in your sweets.  Sounds great, right?<br><br>
 

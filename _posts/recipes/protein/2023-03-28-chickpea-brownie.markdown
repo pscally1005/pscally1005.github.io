@@ -102,6 +102,5 @@ Notes:
 - For a frosting, you can also use my either <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a> or <a href='/recipes/date-frosting'>Date Sweetened Frosting</a> as frostings too!
 
 - Or, you can also make a frosting with the following ingredients
+- INGREDIENTS(chickpeabrowniefrosting-ing)
 ---
-{% assign i = site.data['chickpeabrowniefrosting-ing'] %}
-{% include ingredients.html ing=i recipe="false" %}

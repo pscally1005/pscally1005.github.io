@@ -61,6 +61,5 @@ Notes:
 - Make sure to use a big enough mug.  There should be enough room for the mug cake to roughly double in height when cooked
 
 - Optionally toppings include the following
+- INGREDIENTS(mugcaketoppings-ing)
 ---
-{% assign i = site.data['mugcaketoppings-ing'] %}
-{% include ingredients.html ing=i recipe="false" %}

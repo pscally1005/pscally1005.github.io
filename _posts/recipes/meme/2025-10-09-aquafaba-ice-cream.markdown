@@ -65,11 +65,8 @@ Notes:
 - This ice cream can be eaten directly out of the freezer.  It doesn't need to sit out before scooping, but it will melt quickly.  Its texture is similar to a chocolate Italian ice
 
 - Other sweetener options include the following
+- INGREDIENTS(sweetenersaquafabaicecream-ing)
 ---
-{% assign i = site.data['sweetenersaquafabaicecream-ing'] %}
-{% include ingredients.html ing=i recipe="false" %}
-<br>
-
 {% assign files =
     "aquafabaicecreammaplesyrup,"
     | append: "aquafabaicecreamhoney,"

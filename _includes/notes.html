@@ -3,26 +3,47 @@
         <div id="notes" class="table-of-contents-2"></div>
         <div class='recipe-header'>Notes</div>
 
-        <!-- Display steps -->
+        <!-- Display notes -->
         <div class='recipe-instructions'>
             <div class='recipe-section'>
                 <ol>
-                    {% assign step_number = 1 %}
-                    {% for step in page.Notes %}
-                      {% if step contains "<img" %}
-                        <!-- Image step -->
+                    {% assign note_number = 1 %}
+                    {% for note in page.Notes %}
+
+                      <!-- Image rendering -->
+                      {% if note contains "<img" %}
+
                         </ol>
                         <li class="instruction-image-li print-only">
                           <center>
-                            {{ step }}
+                            {{ note }}
                           </center>
                         </li>
-                        <ol start="{{ step_number }}">
+                        <ol tart="{{ note_number }}">
+
+                      <!-- Include ingredients file -->
+                      {% elsif note contains "INGREDIENTS(" %}
+
+                          {% assign ing = note | remove: "INGREDIENTS(" | remove: ")" | strip %}
+                          {% assign i = site.data[ing] %}
+                          {% include ingredients.html ing=i recipe="false" %}
+
+                      <!-- Include facts file -->
+                      {% elsif note contains "FACTS(" %}
+
+                          {% assign facts = note | remove: "FACTS(" | remove: ")" | strip %}
+                          {% assign f = site.data[facts] %}
+                          {% include nutrition.html facts=f %}
+
+                      <!-- Print note -->
                       {% else %}
-                        <!-- Numbered text step -->
-                        <li class="print-only">{{ step }}</li>
-                        {% assign step_number = step_number | plus: 1 %}
+
+                        <!-- Numbered text note -->
+                        <li class="print-only">{{ note }}</li>
+                        {% assign note_number = note_number | plus: 1 %}
+
                       {% endif %}
+
                     {% endfor %}
                   </ol>
             </div>

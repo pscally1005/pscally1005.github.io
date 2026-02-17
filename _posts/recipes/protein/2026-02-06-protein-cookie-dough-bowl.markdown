@@ -70,7 +70,7 @@ Notes:
     | split: ","
 %}
 {% assign titles =
-    "<a href='#recipe'>Original Recipe</a><br>(With Liquid<br>Monk Fruit),"
+    "<a href='#recipe'>Original Recipe</a><br>(With <a href='https://amzn.to/3SqwsMO'>Liquid<br>Monk Fruit</a>),"
     | append: "With Honey"
     | split: ","
 %}

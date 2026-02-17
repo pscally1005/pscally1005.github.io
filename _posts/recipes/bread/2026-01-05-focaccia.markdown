@@ -72,11 +72,8 @@ Notes:
 - Or combine both these ideas together!
 
 - For a vegan variation, use the following ingredients below.  The <a href='/misc/dairy#mozzarella'>mozzarella</a>, <a href='/misc/dairy#cream-cheese'>cream cheese</a>, and <a href='/misc/meat#eggs'>egg</a> are replaced with <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  Salt is added to the dough to account for the lack of the salty <a href='/misc/dairy#mozzarella'>cheese</a>.  No microwaving required.  Just mix together the ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a>, add to the pan, and top with rosemary and flaky salt.  Bake for <b>25 minutes</b> this time at 350F (as opposed to 20 minutes), or until the top is set, the edges are lightly browned, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around 205F.  The dough is a bit wetter, so it will need a little more time to bake
+- INGREDIENTS(applesaucefocaccia-ing)
 ---
-{% assign i = site.data['applesaucefocaccia-ing'] %}
-{% include ingredients.html ing=i recipe="false" %}
-<br>
-
 {% assign files =
     "affocaccia,"
     | append: "affocaccialowfatcheese,"
@@ -86,10 +83,10 @@ Notes:
     | split: ","
 %}
 {% assign titles =
-    "Standard <a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/nuts#almonds'>Almond Flour</a>,"
-    | append: "<a href='/misc/fats'>Fat Free</a> <a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/nuts#almonds'>Almond Flour</a>,"
-    | append: "Standard <a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/grains#oats'>Oat Flour</a>,"
-    | append: "<a href='/misc/fats'>Fat Free</a> <a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/grains#oats'>Oat Flour</a>,"
+    "Standard<br><a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>,"
+    | append: "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>,"
+    | append: "Standard<br><a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/grains#oats'>Oat<br>Flour</a>,"
+    | append: "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#mozzarella'>Cheese</a><br>&<br><a href='/misc/grains#oats'>Oat<br>Flour</a>,"
     | append: "Vegan<br>Variation"
     | split: ","
 %}

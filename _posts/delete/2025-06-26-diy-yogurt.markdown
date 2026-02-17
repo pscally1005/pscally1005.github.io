@@ -65,9 +65,9 @@ Notes:
     | split: ","
 %}
 {% assign titles =
-    "Plain Nonfat<br>Greek Yogurt,"
-    | append: "DIY Yogurt<br>Monk Fruit,"
-    | append: "DIY Yogurt<br>Honey"
+    "Plain<br>Nonfat<br>Greek<br>Yogurt,"
+    | append: "DIY<br>Yogurt<br>Monk Fruit,"
+    | append: "DIY<br>Yogurt<br>Honey"
     | split: ","
 %}
 {% assign nutrients =

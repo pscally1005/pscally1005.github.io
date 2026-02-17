@@ -94,7 +94,6 @@ Notes:
       </ul>
   </ul>
 ---
-
 {% assign files =
     "proteinbananabreadone,"
     | append: "proteinbananabreadoneapplesauce,"

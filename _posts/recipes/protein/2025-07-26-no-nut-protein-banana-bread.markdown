@@ -92,7 +92,6 @@ Notes:
   </ul>
 - <img src='/assets/Food/Protein Powder/No Nut Protein Banana Bread/chocolate.jpg' alt='' class='instruction-image'>
 ---
-
 {% assign files =
     "nonutproteinbananabread,"
     | append: "nonutproteinbananabreadchoc"
