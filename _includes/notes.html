@@ -24,31 +24,69 @@
                       <!-- Include ingredients file -->
                       {% elsif note contains "INGREDIENTS(" %}
 
-                          {% assign ing = note | remove: "INGREDIENTS(" | remove: ")" | strip %}
+                          {% assign file = note | remove: "INGREDIENTS(" | remove: ")" | strip %}
+                          {% assign ing = file | append: "-ing" %}
                           {% assign i = site.data[ing] %}
                           {% include ingredients.html ing=i recipe="false" %}
 
                       <!-- Include facts file -->
                       {% elsif note contains "FACTS(" %}
 
-                          {% assign facts = note | remove: "FACTS(" | remove: ")" | strip %}
+                          {% assign file = note | remove: "FACTS(" | remove: ")" | strip %}
+                          {% assign ing = file | append: "-ing" %}
+                          {% assign facts = file | append: "-facts" %}
+                          {% assign i = site.data[ing] %}
                           {% assign f = site.data[facts] %}
-                          {% include nutrition.html facts=f %}
+                          {% include nutrition.html facts=f ing=i recipe="false" %}
 
                       <!-- Include compare table -->
                       {% elsif note contains "COMPARE(" %}
 
-                          {% assign raw = note | remove: "COMPARE(" | remove: ")" | strip %}
+                          {% assign raw = note
+                            | remove: "COMPARE("
+                            | remove: ")"
+                            | replace: newline, ""
+                            | strip
+                          %}
 
                           {% assign parts = raw | split: ";" %}
 
-                          {% assign files_raw = parts[0] %}
-                          {% assign titles_raw = parts[1] %}
-                          {% assign nutrients_raw = parts[2] %}
+                          {% assign files_raw_array = parts[0] | strip | split: "," %}
+                          {% assign files = "" | split: "" %}
+                          {% for f in files_raw_array %}
+                            {% assign clean = f | strip | remove: '"' %}
+                            {% assign files = files | push: clean %}
+                          {% endfor %}
 
-                          {% assign files = files_raw | split: "," | join: "|" | remove: '"' | split: "|" %}
-                          {% assign titles = titles_raw | split: "," | join: "|" | remove: '"' | split: "|" %}
-                          {% assign nutrients = nutrients_raw | split: "," | join: "|" | remove: '"' | split: "|" %}
+                          {% assign titles_raw_array = parts[1] | strip | split: "," %}
+                          {% assign titles = "" | split: "" %}
+                          {% for t in titles_raw_array %}
+                            {% assign clean = t | strip | remove: '"' %}
+                            {% assign titles = titles | push: clean %}
+                          {% endfor %}
+
+                          {% assign nutrients_raw_array = parts[2] | strip | split: "," %}
+                          {% assign nutrients = "" | split: "" %}
+
+                          {% for n in nutrients_raw_array %}
+                            {% assign clean = n | strip | remove: '"' %}
+                            {% assign nutrients = nutrients | push: clean %}
+                          {% endfor %}
+
+                          {% comment %}
+                              raw:"{{raw}}"<br><br>
+                              parts:"{{parts}}"<br><br>
+                              parts[0]:"{{parts[0]}}"<br><br>
+                              titles_raw:"{{titles_raw}}"<br><br>
+                              nutrients_raw:"{{nutrients_raw}}"<br><br>
+                              files:"{{files}}"<br><br>
+                              titles:"{{titles}}"<br><br>
+                              nutrients:"{{nutrients}}"<br><br>
+
+                              {% for f in files %}
+                                f:"{{f}}"<br><br>
+                              {% endfor %}
+                          {% endcomment %}
 
                           {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
 

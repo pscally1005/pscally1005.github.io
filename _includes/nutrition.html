@@ -16,6 +16,12 @@
         {% endunless %}
     {% endif %}
 
+    <!-- Manually make shorter for include nutrition.html -->
+    {% if include.recipe == "false" %}
+          {% assign recipe = "false" %}
+          {% assign shorterFacts = "true" %}
+    {% endif %}
+
     <!-- Assign nutrients array -->
     {% if include.nutrients %}
         {% assign nutrients = include.nutrients %}
@@ -421,9 +427,11 @@
 
             <div class='cals'>
                 ------------------------------------------<br>
-                {% include servings.html ing=include.ing %}
+                {% if recipe == "true" %}
+                    {% include servings.html ing=include.ing %}
+                {% endif %}
 
-                {% if page.servingSize %}
+                {% if page.servingSize and recipe == "true" %}
                     <div class="nutrition-indent-0">
                         <b><a href="/misc/serving-sizes">Serving Size</a></b>: {{ page.servingSize }}
                     </div>
