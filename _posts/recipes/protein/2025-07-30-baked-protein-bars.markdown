@@ -99,14 +99,14 @@ Notes:
     | split: ","
 %}
 {% assign titles =
-    "Unflavored <a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#skim-milk'>Skim Milk</a>,"
-    | append: "Unflavored <a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#skim-milk'>Skim Milk</a>,"
-    | append: "Flavored <a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#skim-milk'>Skim Milk</a>,"
-    | append: "Flavored <a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#skim-milk'>Skim Milk</a>,"
-    | append: "Unflavored <a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#almond-milk'>Almond Milk</a>,"
-    | append: "Unflavored <a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#almond-milk'>Almond Milk</a>,"
-    | append: "Flavored <a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#almond-milk'>Almond Milk</a>,"
-    | append: "Flavored <a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#almond-milk'>Almond Milk</a>"
+    "Unflavored<br><a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>,"
+    | append: "Unflavored<br><a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>,"
+    | append: "Flavored<br><a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>,"
+    | append: "Flavored<br><a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>,"
+    | append: "Unflavored<br><a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>,"
+    | append: "Unflavored<br><a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>,"
+    | append: "Flavored<br><a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>,"
+    | append: "Flavored<br><a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>"
     | split: ","
 %}
 {% assign nutrients =

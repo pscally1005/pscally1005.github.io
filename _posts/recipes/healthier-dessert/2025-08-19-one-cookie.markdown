@@ -82,8 +82,8 @@ Notes:
     | split: ","
 %}
 {% assign titles =
-    "Cashew Butter<br>(<a href='#recipe'>Original Recipe</a>),"
-    | append: "Coconut Oil<br>(<a href='#coconut-oil'>Alternative Above</a>)"
+    "Cashew<br>Butter<br>(<a href='#recipe'>Original<br>Recipe</a>),"
+    | append: "Coconut<br>Oil<br>(<a href='#coconut-oil'>Alternative<br>Above</a>)"
     | split: ","
 %}
 {% assign nutrients =

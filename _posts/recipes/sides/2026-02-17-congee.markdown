@@ -52,7 +52,7 @@ Instructions:
 - Reduce heat to medium low, and let simmer (covered) with occasional stirring for about 60-90 minutes, or until thick and creamy
 - <img src='/assets/Food/Sides/Congee/pot.jpg' alt='' class='instruction-image'>
 
-- Top with whatever you like, such as a fried <a href='/misc/meat#eggs'>egg</a>, cooked <a href='/misc/meat#chicken-breast'>chicken</a>, roasted <a href='/misc/veggies'>vegetables</a>, <a href='/misc/veggies#mushrooms'>mushrooms</a>, or kimchi.  Here, I went with <a href='/misc/beans#edamame'>edamame</a>, soy sauce, and carmelized <a href='/misc/vegetables#onion'>onions</a>.
+- Top with whatever you like, such as a fried <a href='/misc/meat#eggs'>egg</a>, cooked <a href='/misc/meat#chicken-breast'>chicken</a>, roasted <a href='/misc/veggies'>vegetables</a>, <a href='/misc/veggies#mushrooms'>mushrooms</a>, or kimchi.  Here, I went with <a href='/misc/beans#edamame'>edamame</a>, soy sauce, and carmelized <a href='/misc/veggies#onion'>onions</a>.
 - <img src='/assets/Food/Sides/Congee/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 ---
