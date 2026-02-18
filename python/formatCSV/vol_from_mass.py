@@ -173,7 +173,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "63":
             v = "3 tbsp"
         elif mass == "84":
-            v = "4 tbsp"
+            v = "1/4 cup"
         elif mass == "105":
             v = "5 tbsp"
         elif mass == "112":
@@ -183,7 +183,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "147":
             v = "7 tbsp"
         elif mass == "168":
-            v = "8 tbsp"
+            v = "1/2 cup"
         elif mass == "189":
             v = "9 tbsp"
         elif mass == "210":
@@ -193,7 +193,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "231":
             v = "11 tbsp"
         elif mass == "252":
-            v = "12 tbsp"
+            v = "3/4 cup"
         elif mass == "273":
             v = "13 tbsp"
         elif mass == "294":

@@ -6,11 +6,9 @@
 {% if include.ing %}
     {% assign ing = include.ing %}
 {% elsif include.file %}
-    {% assign file = include.file %}
-    {% assign ing = file | append: "-ing" %}
+    {% assign ing = include.file | append: "-ing" %}
 {% elsif page.file %}
-    {% assign file = page.file %}
-    {% assign ing = file | append: "-ing" %}
+    {% assign ing = page.file | append: "-ing" %}
 {% endif %}
 
 <!-- Not a standard recipe -->
@@ -32,8 +30,9 @@
 
 <!-- Loop Variable -->
 {% assign loopVar = site.data[ing] %}
-{% if recipe == "false" %}
-    {% assign loopVar = ing %}
+{% if include.folder %}
+    {% assign folder = include.folder %}
+    {% assign loopVar = site.data[folder][ing] %}
 {% endif %}
 
 <!-- Total and unit cost section -->

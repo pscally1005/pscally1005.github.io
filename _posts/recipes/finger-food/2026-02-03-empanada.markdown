@@ -85,8 +85,7 @@ Notes:
 
 <div id="empanada" class='table-of-contents-2'></div>
 <font size="+2"><b><u>Empanada Filling</u></b></font>
-{% assign i = site.data['empanadas-ing'] %}
-{% include ingredients.html ing=i recipe="false" %}
+{% include ingredients.html file="empanadas" recipe="false" %}
 
 <ol>
   <li>Heat a medium pan over medium heat with olive oil. Finely dice your <a href='/misc/veggies#onion'>onion</a>, and add to the pan. Cook for about 5 minutes, or until transparent and lightly caramelized.</li><br>
@@ -105,8 +104,7 @@ Notes:
 
 <div id="pierogi" class='table-of-contents-2'></div>
 <font size="+2"><b><u>Pierogi Filling</u></b></font>
-{% assign i = site.data['pierogi-ing'] %}
-{% include ingredients.html ing=i recipe="false" %}
+{% include ingredients.html file="pierogi" recipe="false" %}
 
 <ol>
   <li>Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> (or oven) to 400F</li><br>

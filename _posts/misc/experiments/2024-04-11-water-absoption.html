@@ -617,8 +617,8 @@ I've a Python script where you can enter the flours you are converting from and 
 Now if you'll excuse me, I'm about to blend all these dough balls together to create some weird Frankenstein cookie dough.
 <br><br>
 <u><font size='+2'>Ingredients</font></u><br>
-{% assign i = site.data['frank-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'frank' %}
+{% include ingredients.html file=f %}
 <br>
 <b><u><font size='+2'>Epilogue</font></u></b><br>
 So cookie dough didn't end up happening...it was too liquidy.  So instead, I made it into a chocolate spread.  It's surprisingly delicious and high in <a href='/misc/protein'>protein</a>, like a <a href='/misc/high-protein'>high protein</a> and <a href='/misc/hidden-sugar'>low sugar</a>/<a href='/misc/fats'>fat</a> <a href='/misc/fake-healthy-foods#nutella'>nutella</a>.
@@ -634,8 +634,7 @@ It's a really good spread on toast or in <a href='/misc/grains#oats'>oats</a> th
 <img src='/assets/Misc/Experiments/Water Absorption/toast.jpg' alt='' class='instruction-image'>
 <br>
 <u><font size='+2'>Nutrition Facts</font></u><br>
-{% assign nf = site.data['frank-facts'] %}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 <b><u><font size='+2'>Sources</font></u></b><br>
 <ol>

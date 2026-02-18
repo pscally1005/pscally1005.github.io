@@ -92,10 +92,9 @@ These are the amounts that will go in the control batch, and the experimental ba
 <br>
 This is the standard experiment.  In a <a href='https://amzn.to/4adxMft'>small bowl</a> goes the brownie mix, water, <a href='/misc/meat#eggs'>egg</a>, and melted <a href='/misc/dairy#butter'>butter</a>.  The batter was stirred together, and poured into a greased <a href='https://amzn.to/3T1ymDy'>mini muffin tin</a>.  This will be the basis of our experiment, as it will provide a frame of reference for the other 5 trials.
 <br>
-{% assign i=site.data['dhbutter-ing']%}
-{% assign nf=site.data['dhbutter-facts']%}
-{% include ingredients.html ing=i %}
-{% include nutrition.html facts=nf ing=i %}
+{% assign f='dhbutter' %}
+{% include ingredients.html file=f %}
+{% include nutrition.html file=f %}
 <br>
 <div id='applesauce' class='table-of-contents-2'></div>
 <b><font size='+2'>2. Unsweetened Applesauce</font></b><br>
@@ -109,10 +108,9 @@ For the <a href='/misc/fruit#apple'>applesauce</a>, the conversions are the foll
 <br>
 Therefore, for the 1/3 <a href='/misc/meat#eggs'>egg</a> and 1 tbsp <a href='/misc/dairy#butter'>butter</a>, I will need 20.42 + 15.31 = <b>35.73 g</b> <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  This batch will get the same <b>13.33 g</b> water as well, like most of the other batches.
 <br>
-{% assign i=site.data['dhapplesauce-ing']%}
-{% assign nf=site.data['dhapplesauce-facts']%}
-{% include ingredients.html ing=i %}
-{% include nutrition.html facts=nf ing=i %}
+{% assign f='dhapplesauce' %}
+{% include ingredients.html file=f %}
+{% include nutrition.html file=f %}
 <br>
 <div id='yogurt' class='table-of-contents-2'></div>
 <b><font size='+2'>3. Plain Nonfat Greek Yogurt</font></b><br>
@@ -126,10 +124,9 @@ For the <a href='/misc/dairy#yogurt'>yogurt</a>, the conversions are the followi
 <br>
 Therefore, for the 1/3 <a href='/misc/meat#eggs'>egg</a> and 1 tbsp <a href='/misc/dairy#butter'>butter</a>, I will need 18.89 + 14.17 = <b>33.06 g</b> <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>.  This batch will get the same <b>13.33 g</b> water as well, like most of the other batches.
 <br>
-{% assign i=site.data['dhyogurt-ing']%}
-{% assign nf=site.data['dhyogurt-facts']%}
-{% include ingredients.html ing=i %}
-{% include nutrition.html facts=nf ing=i %}
+{% assign f='dhyogurt' %}
+{% include ingredients.html file=f %}
+{% include nutrition.html file=f %}
 <br>
 <div id='banana' class='table-of-contents-2'></div>
 <b><font size='+2'>4. Mashed Banana</font></b><br>
@@ -145,10 +142,9 @@ Therefore, for the 1/3 <a href='/misc/meat#eggs'>egg</a> and 1 tbsp <a href='/mi
 <br><br>
 <img src='/assets/Misc/Experiments/Brownies/banana.jpg' alt='' class='instruction-image'>
 <br>
-{% assign i=site.data['dhbanana-ing']%}
-{% assign nf=site.data['dhbanana-facts']%}
-{% include ingredients.html ing=i %}
-{% include nutrition.html facts=nf ing=i %}
+{% assign f='dhbanana' %}
+{% include ingredients.html file=f %}
+{% include nutrition.html file=f %}
 <br>
 <div id='potato' class='table-of-contents-2'></div>
 <b><font size='+2'>5. Sweet Potato Puree</font></b><br>
@@ -164,10 +160,9 @@ Therefore, for the 1/3 <a href='/misc/meat#eggs'>egg</a> and 1 tbsp <a href='/mi
 <br><br>
 <img src='/assets/Misc/Experiments/Brownies/sweet-potato.jpg' alt='' class='instruction-image'>
 <br>
-{% assign i=site.data['dhsweetpotato-ing']%}
-{% assign nf=site.data['dhsweetpotato-facts']%}
-{% include ingredients.html ing=i %}
-{% include nutrition.html facts=nf ing=i %}
+{% assign f='dhsweetpotato' %}
+{% include ingredients.html file=f %}
+{% include nutrition.html file=f %}
 <br>
 <div id='beans' class='table-of-contents-2'></div>
 <b><font size='+2'>6. Black Bean Puree</font></b><br>
@@ -177,10 +172,9 @@ I will replace the water, <a href='/misc/meat#eggs'>eggs</a>, and <a href='/misc
 <br><br>
 <img src='/assets/Misc/Experiments/Brownies/beans.jpg' alt='' class='instruction-image'>
 <br>
-{% assign i=site.data['dhbeans-ing']%}
-{% assign nf=site.data['dhbeans-facts']%}
-{% include ingredients.html ing=i %}
-{% include nutrition.html facts=nf ing=i %}
+{% assign f='dhbeans' %}
+{% include ingredients.html file=f %}
+{% include nutrition.html file=f %}
 <br>
 <b><u><font size='+2'>Mixing & Baking</font></u></b><br>
 Each of the batches were measured and mixed in separate bowl.  Note that the texture of the <a href='/misc/fruit#apple'>applesauce</a> and <a href='/misc/fruit#banana'>banana</a> batters was nearly identical to that of the control.  However, the <a href='/misc/dairy#yogurt'>yogurt</a> and <a href='/misc/veggies#sweet-potato'>sweet potato</a> ones were noticably thicker, and the <a href='/misc/beans'>bean</a> one was even thicker than that, almost like a sticky <a href='/cookies'>cookie</a> dough.  Left to right in the pan, we have - <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and <a href='/misc/beans#black-beans'>black beans</a>.
@@ -234,13 +228,12 @@ For making a full batch, I would replace the 6 tbsp (85 g) melted <a href='/misc
 <br><br>
 For a homemade healthy <a href='/brownies'>brownie</a> using <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, you should check out my <a href='/recipes/sweet-potato-brownies'>Sweet Potato Brownies (SF)</a>.  They're homemade instead of from a box, so they avoid a lot of <a href='/misc/processed-foods'>ultra processed</a> ingredients.  They're still <a href='/misc/celiac'>gluten free</a> (and this time <a href='/misc/nuts'>nut</a> free!), can be make keto by using <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#oats'>oat flour</a>, and are still lower in <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a> while still being just as delicious.
 <br>
-{% assign i=site.data['dhfinal-ing']%}
-{% include ingredients.html ing=i %}
+{% assign f='dhfinal' %}
+{% include ingredients.html file=f %}
 <br>
 Above is the complete ingredients list for a full batch of Duncan Hines Keto Boxed Brownies, made healthier using <a href='/misc/veggies#sweet-potato'>Sweet Potatoes</a>. You can also use an additional 1/2 cup (127.5 g) mashed <a href='/misc/veggies#sweet-potato'>sweet potato</a> in replace of the 2 <a href='/misc/meat#eggs'>eggs</a> if you like.
 <br><br>
-{% assign nf=site.data['dhfinal-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 Above are the nutrition facts for <b>16</b> <a href='/brownies'>brownies</a> for a standard batch of Duncan Hines Keto Boxed Brownies, made healthier using <a href='/misc/veggies#sweet-potato'>Sweet Potatoes</a>.  For reference, the standard <a href='/misc/dairy#butter'>butter</a> batch of keto <a href='/brownies'>brownies</a> cut into <b>16</b> would be <b>130 <a href='/misc/calories'>calories</a></b> each with <b>7.4g <a href='/misc/fats'>fat</a></b> (with essentially 0g <a href='/misc/hidden-sugar'>sugar</a>), whereas standard Duncan Hines <a href='/brownies'>brownies</a> cut into <b>16</b> pieces has <b>215 <a href='/misc/calories'>calories</a></b> with <b>12g <a href='/misc/fats'>fat</a></b> and <b>19g <a href='/misc/hidden-sugar'>sugar</a></b>.
 <br><br>

@@ -51,14 +51,13 @@ For the purposes of this experiment, I will be using my <a href='/recipes/chocol
 
 For reference, below are the ingredients and nutrition facts for my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>.  This is just a standard <a href='/cookies'>cookie</a> recipe that I make from time to time, and I figured it would be a good starting place:<br>
 
-{% assign i = site.data['cookies-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'cookies' %}
+{% include ingredients.html file=f %}
 <br>
 
 These <a href='/cookies'>cookies</a> are delicious, don't get me wrong.  But with 110 <a href='/misc/calories'>calories</a> and 10 g of <a href='/misc/hidden-sugar'>added sugar</a> for a fairly small <a href='/cookies'>cookie</a>, these can't be more than a once a holiday treat for me.  How can we bump up these numbers? (or more accurately, bump them down).<br><br>
 
-{% assign nf=site.data['cookies-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 <u><font size='+2'>Batch 1</font></u><br>
@@ -70,14 +69,13 @@ Here is my first batch.  I wanted to tackle the first bullet point right off the
 
 As mentioned, the main change was swapping <a href='/misc/hidden-sugar'>sugar</a> for allulose.  I also swapped out the molasses and <a href='/misc/grains#white-wheat'>white flour</a> for honey and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  I don't normally have molasses or <a href='/misc/grains#white-wheat'>white flour</a> in my house; I do this swap all the time in standard <a href='/cookies'>cookies</a>.  Below is the full list of ingredients for batch 1:<br>
 
-{% assign i = site.data['cookiesallulose-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'cookiesallulose' %}
+{% include ingredients.html file=f %}
 <br>
 
 Right off the bat, we knocked out most of the <a href='/misc/hidden-sugar'>sugar</a> and nearly a quarter the <a href='/misc/calories'>calories</a>  These <a href='/cookies'>cookies</a> are not <a href='/misc/hidden-sugar'>sugar</a> free through; they still use honey and semi-sweet chocolate chips.  There's also still a whole stick of <a href='/misc/dairy#butter'>butter</a>, and I'm not wild on the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> tbh; we can do better.  But this is a good first step.<br><br>
 
-{% assign nf=site.data['cookiesallulose-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 Let's bake it and see how batch #1 holds up.  For starters, I should go over a quick mistake I made while baking this batch:<br><br>
@@ -144,16 +142,15 @@ A bar of chocolate is essentially just 3 ingredients.  Firstly, you have some so
 
 That means, we'll need 6 g of sweetener and 5 g of <a href='/misc/fats'>fat</a>.  That leaves us with the remaining 6 g being <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>.  If using <a href='/misc/hidden-sugar'>sugar</a> as the sweetener and <a href='/misc/nuts#coconut'>coconut oil</a> as the <a href='/misc/fats'>fat</a>, this gets you nearly identical nutrition facts to our original bar.  But I'll be going with allulose here instead of <a href='/misc/hidden-sugar'>sugar</a>.  Scaling up to make a full size chocolate bar, we have the following:<br>
 
-{% assign i = site.data['allulosechoc-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'allulosechoc' %}
+{% include ingredients.html file=f %}
 <br>
 
 <img src='/assets/Misc/Experiments/Healthy Cookie/Choc Bar/pan.jpg' alt='' class='instruction-image'><br>
 
 This gets us a bar of chocolate weighting 176 g (about 6 oz).  Just melt <a href='/misc/nuts#coconut'>coconut oil</a> in a bowl, mix in the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> and sweetener, and transfer to a <a href='https://www.amazon.com/dp/B0D9J99TW4?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.33LWXAZ203YV4&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.33LWXAZ203YV4_1751469098772'>chocolate mold</a> or parchment lined <a href='https://amzn.to/3YUjIkN'>bread pan</a>.  Refrigerate for an hour to harden, and then chop into chunks.<br><br>
 
-{% assign nf=site.data['allulosechoc-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 <img src='/assets/Misc/Experiments/Healthy Cookie/Choc Bar/chopped.jpg' alt='' class='instruction-image'><br>
@@ -177,8 +174,8 @@ I've made a few changes for the second batch.  The main swap here was changing t
 
 <a href='/misc/nuts#peanuts'>Peanut butter</a> lowers the <a href='/misc/fats'>fat</a>, adds <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, and is just an overall much healthier ingredient than <a href='/misc/dairy#butter'>butter</a>.  Optionally, add 1/2 tsp (2.5 g) butter extract to make up for the lack of <a href='/misc/dairy#butter'>butter</a> flavor.  Besides this, the other main changes were swapping <a href='/misc/grains#whole-wheat'>whole wheat</a> for <a href='/misc/grains#oats'>oat flour</a>, and using homemade chocolate instead of storebought chips.  Here's the full recipe:<br>
 
-{% assign i = site.data['cookiesallulose2-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'cookiesallulose2' %}
+{% include ingredients.html file=f %}
 <br>
 
 By cutting out the honey and chocolate chips, we now have fully <a href='/misc/hidden-sugar'>sugar free</a> <a href='/cookies'>cookies</a>.  If you want it slightly sweeter, add 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.  They're also <a href='/misc/celiac'>gluten free</a> too because of the <a href='/misc/grains#oats'>oat flour</a>, and vegan due to the lack of <a href='/misc/meat#eggs'>eggs</a>.  No <a href='/misc/meat#eggs'>eggs</a> and no <a href='/misc/grains#white-wheat'>flour</a> also means that these can safely be enjoyed raw too!  They can be <a href='/misc/nuts'>nut</a> free as well if you use <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a>, or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>.<br><br>
@@ -190,8 +187,7 @@ I mixed everything with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac
 
 Honestly, these were mediocre at best.  They were crunchy, not soft, and not sweet.  The butter extract didn't do anything, and I would have been better off with <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> than homemade allulose chocolate.  The one good thing I'll say is that <a href='/misc/grains#oats'>oat flour</a> is a better alternative to <a href='/misc/grains#white-wheat'>white flour</a> in <a href='/cookies'>cookies</a> than <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  It absorbs more water (meaning you'll need less of it), and it has a more mild flavor that doesn't distract from the <a href='/cookies'>cookies</a>.<br><br>
 
-{% assign nf=site.data['cookiesallulose2-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 <img src='/assets/Misc/Experiments/Healthy Cookie/Allulose2/baked.jpg' alt='' class='instruction-image'><br>

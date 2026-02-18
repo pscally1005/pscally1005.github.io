@@ -67,28 +67,24 @@ Instructions:
 - Transfer to the fridge to cool for at least 30 minutes before slicing with a plastic knife
 - <img src='/assets/Food/Healthier Dessert/Bulking brownies/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- For the sweetener, you can either use honey (1/2 cup, 168 g), maple syrup (1/2 cup, 160 g), or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (1/2 cup, 160 g)
+- For the sweetener, you can either use any of the following
+- INGREDIENTS(bulkbrowniessweeteners)
+- |
+  COMPARE(
+    "bulkbrownieshoney",
+    "bulkbrowniesmaple",
+    "bulkbrowniessfs";
+
+    "Honey",
+    "Maple<br>Syrup",
+    "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "bulkbrownieshoney,"
-    | append: "bulkbrowniesmaple,"
-    | append: "bulkbrowniessfs"
-    | split: ","
-%}
-{% assign titles =
-    "Honey,"
-    | append: "Maple<br>Syrup,"
-    | append: "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

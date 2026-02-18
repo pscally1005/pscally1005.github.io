@@ -25,19 +25,13 @@
                       {% elsif note contains "INGREDIENTS(" %}
 
                           {% assign file = note | remove: "INGREDIENTS(" | remove: ")" | strip %}
-                          {% assign ing = file | append: "-ing" %}
-                          {% assign i = site.data[ing] %}
-                          {% include ingredients.html ing=i recipe="false" %}
+                          {% include ingredients.html file=file recipe="false" %}
 
                       <!-- Include facts file -->
                       {% elsif note contains "FACTS(" %}
 
                           {% assign file = note | remove: "FACTS(" | remove: ")" | strip %}
-                          {% assign ing = file | append: "-ing" %}
-                          {% assign facts = file | append: "-facts" %}
-                          {% assign i = site.data[ing] %}
-                          {% assign f = site.data[facts] %}
-                          {% include nutrition.html facts=f ing=i recipe="false" %}
+                          {% include nutrition.html file=file recipe="false" %}
 
                       <!-- Include compare table -->
                       {% elsif note contains "COMPARE(" %}

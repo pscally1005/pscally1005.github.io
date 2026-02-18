@@ -38,8 +38,7 @@ This is my outline to follow; let's see how well it works.<br><br>
 8. Blend the powder in a <a href='https://amzn.to/4q0AUjI'>food processor</a> to make your <a href='/misc/dairy#whey'>protein powder</a>, and flavor (if desired)<br><br>
 
 <u><font size='+2'>Ingredients</font></u>
-{% assign i=site.data['cheeseandwhey-ing']%}
-{% include ingredients.html ing=i %}<br>
+{% include ingredients.html file='cheeseandwhey' %}<br>
 
 <u><font size='+2'>How it actually went</font></u><br>
 Most of the <a href='/misc/homemade-cheese#ricotta'>ricotta</a> recipes I looked up called for <a href='/misc/dairy#whole-milk'>whole milk</a>, but I wanted to use skim to get a leaner <a href='/misc/dairy'>cheese</a>,
@@ -109,8 +108,8 @@ these and moved on with my day, but I'm too stubborn to waste food.  So here's w
 <br><br>
 
 <u><font size='+2'>Ingredients</font></u><br>
-{% assign i=site.data['ricottabrownie-ing']%}
-{% include ingredients.html ing=i %}<br>
+{% assign f = 'ricottabrownie' %}
+{% include ingredients.html file=f %}<br>
 
 <u><font size='+2'>Brownies?</font></u><br>
 To a <a href='https://amzn.to/4adxMft'>large bowl</a>, I added the <a href='/misc/homemade-cheese#ricotta'>ricotta</a> and whey syrup.  Note that I microwaved the syrup for about a minute to soften
@@ -156,8 +155,7 @@ and I don't feel like making any at the moment.
 <img src='/assets/Misc/Experiments/Milk/brownie-sliced.jpg' alt='' class='instruction-image'>
 <br><br>
 
-{% assign nf=site.data['ricottabrownie-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 <u><font size='+2'>Conclusion</font></u><br>

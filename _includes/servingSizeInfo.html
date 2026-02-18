@@ -3,6 +3,7 @@
 {% assign vol2 = include.vol2 %}
 {% assign gram2 = include.gram2 %}
 {% assign nutritionFacts = include.nutritionFacts %}
+{% assign file = include.file %}
 {% assign img1 = include.img1 %}
 {% assign img2 = include.img2 %}
 {% assign nutrients = include.nutrients %}
@@ -24,4 +25,5 @@
 {% endif %}
 <br>
 {% assign mult = gram1 | divided_by: 100.000 | round: 3 %}
-{% include nutrition.html facts=nutritionFacts factor=mult nutrients=nutrients %}
+{% assign folder = 'servingSizes' %}
+{% include nutrition.html file=file factor=mult nutrients=nutrients folder=folder %}

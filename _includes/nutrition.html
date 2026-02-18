@@ -73,13 +73,11 @@
         {% assign ing = include.ing %}
         {% assign facts = include.facts %}
     {% elsif include.file %}
-        {% assign file = include.file %}
-        {% assign ing = file | append: "-ing" %}
-        {% assign facts = file | append: "-facts" %}
+        {% assign ing = include.file | append: "-ing" %}
+        {% assign facts = include.file | append: "-facts" %}
     {% elsif page.file %}
-        {% assign file = page.file %}
-        {% assign ing = file | append: "-ing" %}
-        {% assign facts = file | append: "-facts" %}
+        {% assign ing = page.file | append: "-ing" %}
+        {% assign facts = page.file | append: "-facts" %}
     {% endif %}
 
     <!-- Multiplication factor (if necessary) -->
@@ -161,11 +159,13 @@
         {% assign tryptophan = "" %}
         {% assign valine = "" %}
 
-        {% assign loopVarFacts = site.data[facts] %}
+        <!-- Loop Variables -->
         {% assign loopVarIng = site.data[ing] %}
-        {% if recipe == "false" %}
-            {% assign loopVarFacts = facts %}
-            {% assign loopVarIng = ing %}
+        {% assign loopVarFacts = site.data[facts] %}
+        {% if include.folder %}
+            {% assign folder = include.folder %}
+            {% assign loopVarIng = site.data[folder][ing] %}
+            {% assign loopVarFacts = site.data.[folder][facts] %}
         {% endif %}
 
         <!-- Loop to get nutrition facts -->

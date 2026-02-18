@@ -61,5 +61,5 @@ Notes:
 - Make sure to use a big enough mug.  There should be enough room for the mug cake to roughly double in height when cooked
 
 - Optionally toppings include the following
-- INGREDIENTS(mugcaketoppings-ing)
+- INGREDIENTS(mugcaketoppings)
 ---

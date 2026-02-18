@@ -57,14 +57,13 @@ For the purposes of this experiment, I will be using my <a href='/recipes/browni
 
 For reference, below are the ingredients and nutrition facts for my <a href='/recipes/brownies'>Classic Fudgy Brownies</a>.  This is just a standard <a href='/brownies'>brownie</a> recipe that I make from time to time, and I figured it would be a good starting place:<br>
 
-{% assign i = site.data['brownies-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'brownies' %}
+{% include ingredients.html file=f %}
 <br>
 
 These <a href='/brownies'>brownies</a> are delicious, don't get me wrong.  But with 150 <a href='/misc/calories'>calories</a>, 15 g of <a href='/misc/hidden-sugar'>added sugar</a>, and 8 g of <a href='/misc/fats'>fat</a> for a fairly small <a href='/brownies'>brownie</a>, these can't be more than a once a holiday treat for me.  How can we bump up these numbers? (or more accurately, bump them down).<br><br>
 
-{% assign nf=site.data['brownies-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 <u><font size='+2'>Batch 1</font></u><br>
@@ -77,14 +76,13 @@ Here is my first batch.  I wanted to tackle the first bullet point right off the
 
 As mentioned, the main change was swapping <a href='/misc/hidden-sugar'>sugar</a> for allulose.  I also swapped out the <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/grains#white-wheat'>white flour</a> for olive oil and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  I was out of <a href='/misc/nuts#coconut'>coconut oil</a> at the time, and I figured that for just a tablespoon of <a href='/misc/fats'>oil</a>, it wouldn't really make much of a difference.  And I never carry <a href='/misc/grains#white-wheat'>white flour</a> in my house anyway; my original <a href='/brownies'>brownies</a> definitely have <a href='/misc/grains#whole-wheat'>whole wheat</a> in them despite the what the ingredients say lol.  Below is the full list of ingredients for batch 1:<br>
 
-{% assign i = site.data['browniesallulose-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'browniesallulose' %}
+{% include ingredients.html file=f %}
 <br>
 
 Right off the bat, we knocked out all the <a href='/misc/hidden-sugar'>sugar</a> and nearly half the <a href='/misc/calories'>calories</a>.  There's still a whole stick of <a href='/misc/dairy#butter'>butter</a>, and I'm not wild on the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> tbh; we can do better.  But this is a good first step.<br><br>
 
-{% assign nf=site.data['browniesallulose-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 Let's bake it and see how batch #1 holds up.  For starters, I should go over a few mistakes I made while baking this batch.  These were the following:<br><br>
@@ -137,16 +135,15 @@ A bar of chocolate is essentially just 3 ingredients.  Firstly, you have some so
 
 That means, we'll need 6 g of sweetener and 5 g of <a href='/misc/fats'>fat</a>.  That leaves us with the remaining 6 g being <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>.  If using <a href='/misc/hidden-sugar'>sugar</a> as the sweetener and <a href='/misc/nuts#coconut'>coconut oil</a> as the <a href='/misc/fats'>fat</a>, this gets you nearly identical nutrition facts to our original bar.  But I'll be going with allulose here instead of <a href='/misc/hidden-sugar'>sugar</a>.  Scaling up to make a full size chocolate bar, we have the following:<br>
 
-{% assign i = site.data['allulosechoc-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'allulosechoc' %}
+{% include ingredients.html file=f %}
 <br>
 
 <img src='/assets/Misc/Experiments/Healthy Brownie/Choc Bar/pan.jpg' alt='' class='instruction-image'><br>
 
 This gets us a bar of chocolate weighting 176 g (about 6 oz).  Just melt <a href='/misc/nuts#coconut'>coconut oil</a> in a bowl, mix in the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> and sweetener, and transfer to a <a href='https://www.amazon.com/dp/B0D9J99TW4?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.33LWXAZ203YV4&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.33LWXAZ203YV4_1751469098772'>chocolate mold</a> or parchment lined <a href='https://amzn.to/3YUjIkN'>bread pan</a>.  Refrigerate for an hour to harden, and then chop into chunks.<br><br>
 
-{% assign nf=site.data['allulosechoc-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 <img src='/assets/Misc/Experiments/Healthy Brownie/Choc Bar/chopped.jpg' alt='' class='instruction-image'><br>
@@ -166,8 +163,8 @@ I swear I tried to only change one or two amall things for this batch, but I got
 
 You may be wondering, where is the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>?  That's a great question; I ran out lmao.  I swapped the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> for <a href='/misc/grains#oats'>oat flour</a>, and made these into blondies instead.  Everything else is a fairly reasonable substitution.<br>
 
-{% assign i = site.data['browniesblonde-ing'] %}
-{% include ingredients.html ing=i %}
+{% assign f = 'browniesblonde' %}
+{% include ingredients.html file=f %}
 <br>
 
 I swapped the <a href='/misc/dairy#butter'>butter</a> for <a href='/misc/veggies#sweet-potato'>sweet potato</a> to reduce the unhealthy <a href='/misc/fats'>fats</a>, but I included <a href='/recipes/natural-peanut-butter'>nut butter</a> and <a href='/misc/nuts#almonds'>almond flour</a> to still have some <a href='/misc/fats'>fat</a>.  I decreased the allulose, as most keto <a href='/brownies'>brownie recipes</a> only called for a cup.  But I supplemented with some monk fruit to help boost the sweetness.  I also wanted a bit more salt to make up for them being less sweet than traditional.<br><br>
@@ -182,8 +179,7 @@ Not only are these healthier than the first batch, containing less <a href='/mis
 
 This batch contained less <a href='/misc/carbs'>carbs</a>, more healthy <a href='/misc/fats'>fats</a>, and had slightly more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>.  Because of the chopped chocolate, there's slightly more <a href='/misc/calories'>calories</a> than the first batch, but I'll gladly take that tradeoff.  <a href='/misc/fats'>Fat</a> and <a href='/misc/calories'>calories</a> aren't inherently bad; they depend on the source (<a href='/misc/nuts'>nuts</a> > <a href='/misc/dairy#butter'>butter</a>).<br><br>
 
-{% assign nf=site.data['browniesblonde-facts']%}
-{% include nutrition.html facts=nf ing=i %}
+{% include nutrition.html file=f %}
 <br>
 
 <img src='/assets/Misc/Experiments/Healthy Brownie/Blondies/cut.jpg' alt='' class='instruction-image'><br>

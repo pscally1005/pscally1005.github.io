@@ -62,7 +62,7 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - For a homemade filling with same taste and nutrition facts, mix together the following ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> before adding to the crust
-- INGREDIENTS(chobani20gproteinx5-ing)
+- INGREDIENTS(chobani20gproteinx5)
 - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/both.jpg' alt='' class='instruction-image'>
 
 - Does this taste exactly as good as a traditional cheesecake?  No, of course not.  It's made of <a href='/misc/dairy#yogurt'>yogurt</a> with <a href='/misc/hidden-sugar'>no sugar</a> and minimal <a href='/misc/fats'>fat</a>.  It is however still a delicious healthier alternative, but don't expect it to taste exactly like a slice of classic New York style cheesecake.  That instead would have about 32 oz (908 g) of full fat <a href='/misc/dairy#cream-cheese'>cream cheese</a>, 1 cup (200 g) of <a href='/misc/hidden-sugar'>sugar</a>, and 2/3 cup (160 g) of sour cream in the filling instead
