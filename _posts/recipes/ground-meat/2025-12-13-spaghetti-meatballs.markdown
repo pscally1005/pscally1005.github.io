@@ -80,23 +80,19 @@ Notes:
 - <img src='/assets/Food/Ground Meat/Spaghetti and Meatballs/meatloaf.jpg' alt='' class='instruction-image'>
 
 - You can optionally mix your <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> and meatballs with some <a href='/misc/grains#pasta'>pasta</a>, either <a href='/misc/grains#whole-wheat'>whole wheat</a> or <a href='/misc/beans#red-lentils'>red lentil pasta</a>.  Below is the nutrition facts assuming you make <b>8 oz (227 g, or half a standard size box)</b> of  <a href='/misc/grains#pasta'>whole wheat pasta</a>
+
+- |
+  COMPARE(
+    "meatballsspaghettisquash",
+    "meatballsspaghettisquashpasta";
+
+    "Without <a href='/misc/grains#pasta'>Pasta</a>",
+    "With <a href='/misc/grains#pasta'>Pasta</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
-{% assign files =
-    "meatballsspaghettisquash,"
-    | append: "meatballsspaghettisquashpasta"
-    | split: ","
-%}
-{% assign titles =
-    "Without <a href='/misc/grains#pasta'>Pasta</a>,"
-    | append: "With <a href='/misc/grains#pasta'>Pasta</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

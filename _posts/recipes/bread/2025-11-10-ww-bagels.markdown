@@ -89,26 +89,22 @@ Notes:
 - <img src='/assets/Food/Bread/WW Bagels/cc.jpg' alt='' class='instruction-image'>
 
 - Another delicious option is a <a href='/misc/fish#salmon'>lox</a> bagel with 3 oz (85 g) smoked <a href='/misc/fish#salmon'>salmon</a>, 2 tbsp (30 g) <a href='/misc/homemade-cheese#labneh'>Labneh cheese</a>, and 2 tbsp (15 g) capers
+
+- |
+  COMPARE(
+    "wwbagels",
+    "ccbagel",
+    "loxbagel";
+
+    "Plain<br>Bagel",
+    "<a href='/misc/homemade-cheese#labneh'>Cream Cheese</a><br>Bagel",
+    "Lox<br>Bagel";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 - <img src='/assets/Food/Bread/WW Bagels/lox2.jpg' alt='' class='instruction-image'>
 ---
-{% assign files =
-    "wwbagels,"
-    | append: "ccbagel,"
-    | append: "loxbagel"
-    | split: ","
-%}
-{% assign titles =
-    "Plain<br>Bagel,"
-    | append: "<a href='/misc/homemade-cheese#labneh'>Cream Cheese</a><br>Bagel,"
-    | append: "Lox<br>Bagel"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

@@ -76,31 +76,27 @@ Notes:
 
 - For a <a href='/misc/protein'>protein</a> version of this cookie dough that you can eat with a spoon, swap the <a href='/misc/grains#oats'>oat flour</a> for vanilla <a href='/misc/dairy#whey'>whey protein powder</a> (3 scoops, 90 g), as well as add 1/4 cup (60 g) <a href='/misc/dairy#almond-milk'>unsweetened vanilla almond milk</a>.  For a full recipe, see <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a>
 - <img src='/assets/Food/Healthier Dessert/OF CD/protein-cookie-dough.jpg' alt='' class='instruction-image'>
+
+- |
+  COMPARE(
+    "ofcd",
+    "ofcdsfs",
+    "ofcddate",
+    "ofcddoublechoc",
+    "ofcdprotein";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "<a href='/misc/fruit#dates'>Dates</a>",
+    "Double<br>Chocolate",
+    "<a href='/recipes/edible-cookie-dough-protein'>Protein<br>Powder</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "ofcd,"
-    | append: "ofcdsfs,"
-    | append: "ofcddate,"
-    | append: "ofcddoublechoc,"
-    | append: "ofcdprotein"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>Original<br>Recipe</a>,"
-    | append: "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>,"
-    | append: "<a href='/misc/fruit#dates'>Dates</a>,"
-    | append: "Double<br>Chocolate,"
-    | append: "<a href='/recipes/edible-cookie-dough-protein'>Protein<br>Powder</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

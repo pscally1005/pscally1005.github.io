@@ -55,24 +55,20 @@ Instructions:
 - <img src='/assets/Food/Sweet Spreads/Quick Nutella/glass.jpg' alt='' class='instruction-image'>
 Notes:
 - Below is a table comparing the nutrition facts of my homemade spread to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> <b>per 100 g</b>.  As you can see, the homemade version contains significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>
+
+- |
+  COMPARE(
+    "quick-nutella-100g",
+    "classic-nutella-100g";
+
+    "<a href='#recipe'>Homemade</a>",
+    "<a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Storebought</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---
-{% assign files =
-    "quick-nutella-100g,"
-    | append: "classic-nutella-100g"
-    | split: ","
-%}
-{% assign titles =
-    "Homemade,"
-    | append: "Storebought"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

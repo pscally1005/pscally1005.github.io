@@ -89,26 +89,21 @@ Notes:
 - I'm using <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> with <a href='/misc/fake-healthy-foods#sugar-substitutes'>erythritol</a> as my sweetener here, but any granulated sweetener will work, such as stevia or <a href='/misc/fake-healthy-foods#sugar-substitutes'>allulose</a>
 
 - Below is the nutrition facts comparison between these keto <a href='/brownies'>brownies</a> and my standard <a href='/recipes/brownies'>Classic Fudgy Brownies</a>
----
 
-{% assign files =
-    "ketobrownie,"
-    | append: "brownies"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='/recipes/keto-brownies'>Keto<br>Brownies</a>,"
-    | append: "<a href='/recipes/brownies'>Classic<br>Fudgy Brownies</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+- |
+  COMPARE(
+    "ketobrownie",
+    "brownies";
+
+    "<a href='/recipes/keto-brownies'>Keto<br>Brownies</a>",
+    "<a href='/recipes/brownies'>Classic<br>Fudgy Brownies</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+---

@@ -58,24 +58,20 @@ Notes:
 - <img src='/assets/Food/Savory Sauces/Italian dressing/sundried.jpg' alt='' class='instruction-image'>
 
 - Below is a table comparing the nutrition facts of my <a href='/salad-dressings'>homemade dressing</a> to a <a href='https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search'>standard bottle of Italian dressing</a> per serving (2 tbsp, 30 g).  As you can see, the homemade version contains less <a href='/misc/calories'>calories</a> and <a href='/misc/fats'>unhealthy fats</a>, more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, and no <a href='/misc/hidden-sugar'>added sugar</a>
+
+- |
+  COMPARE(
+    "italiandressing",
+    "traditionalitalian";
+
+    "<a href='/salad-dressings'>Homemade Dressing</a>",
+    "<a href='https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search'>Bottled Dressing</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---
-{% assign files =
-    "italiandressing,"
-    | append: "traditionalitalian"
-    | split: ","
-%}
-{% assign titles =
-    "Homemade Dressing,"
-    | append: "Bottled Dressing"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

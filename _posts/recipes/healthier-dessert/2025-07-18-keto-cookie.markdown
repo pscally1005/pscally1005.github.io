@@ -85,25 +85,21 @@ Notes:
 - For edible cookie dough bites, replace the <a href='/misc/meat#eggs'>egg</a> with 3 tbsp (45 g) milk (<a href='/misc/dairy'>dairy</a> or dairy-free), or use a <a href='/misc/seeds#flax-seeds'>flax egg</a> (see above).  Additionally, omit the baking soda
 
 - Below is the nutrition facts comparison between these keto <a href='/cookies'>cookies</a> and my standard <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>
+
+- |
+  COMPARE(
+    "ketocookie",
+    "cookies";
+
+    "<a href='/recipes/keto-chocolate-chip-cookies'>Keto Chocolate<br>Chip Cookies</a>",
+    "<a href='/recipes/chocolate-chip-cookies'>Classic Chocolate<br>Chip Cookies</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "ketocookie,"
-    | append: "cookies"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='/recipes/keto-chocolate-chip-cookies'>Keto Chocolate<br>Chip Cookies</a>,"
-    | append: "<a href='/recipes/chocolate-chip-cookies'>Classic Chocolate<br>Chip Cookies</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

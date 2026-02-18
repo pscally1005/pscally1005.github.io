@@ -75,47 +75,43 @@ Instructions:
 - Let cool totally in the pan in the fridge before cutting into bars.  I actually prefer the texture of these straight out of the freezer, but you can also store them in the fridge, or travel with them in an airtight bag
 - <img src='/assets/Food/Protein Powder/Baked Protein Bars/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- Any <a href='/recipes/natural-peanut-butter'>nut butter</a> will work.  I've gone with <a href='/misc/nuts#peanuts'>peanut</a> today because it was what I had on hand, but <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, etc. would all be good as well
+
+- Either vanilla or almond extract are good options here
+
 - If you want to use <a href='/misc/dairy#whey'>whey</a> instead of <a href='/misc/dairy#casein'>casein</a>, you will need to <b>double</b> the <a href='/misc/dairy#skim-milk'>milk</a> to <b>2 cups (480 g)</b>.  This is because <a href='/misc/dairy#whey'>whey</a> tends to dry out <a href='/recipes/healthier-dessert'>baked goods</a> in the oven, so anything baked with <a href='/misc/dairy#whey'>whey</a> needs much more liquid.  The raw batter with <a href='/misc/dairy#casein'>casein</a> should look like a thick spread, whereas the raw batter with <a href='/misc/dairy#whey'>whey</a> should look like <a href='/misc/fake-healthy-foods#milk'>chocolate milk</a>.  This is normal.  Use a <a href='https://amzn.to/4q0AUjI'>food processor</a> to combine if necessary.  Bake for the same amount of time (~45 minutes) at the same temperature (350F)
 - <img src='/assets/Food/Protein Powder/Baked Protein Bars/whey-raw.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Protein Powder/Baked Protein Bars/whey-baked.jpg' alt='' class='instruction-image'>
-
-- Any <a href='/recipes/natural-peanut-butter'>nut butter</a> will work.  I've gone with <a href='/misc/nuts#peanuts'>peanut</a> today because it was what I had on hand, but <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, etc. would all be good as well
 
 - My <a href='/misc/dairy#whey'>protein powder</a> is unflavored, but if yours is flavored then omit the <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and use 1.5 times the <a href='/misc/dairy#skim-milk'>milk</a>.  If using <a href='/misc/dairy#casein'>casein</a>, use 1.5 cups (360 g) milk.  Otherwise with <a href='/misc/dairy#whey'>whey</a>, use 3 cups (720 g) milk
 
 - You can also use <a href='/misc/dairy#almond-milk'>non-dairy milk</a>, water, <a href='/misc/dairy#whole-milk'>whole milk</a>, etc. in place of <a href='/misc/dairy#skim-milk'>skim milk</a>
 
-- Either vanilla or almond extract are good options here
+- |
+  COMPARE(
+    "bakedproteinbarunflcasein",
+    "bakedproteinbarunflwhey",
+    "bakedproteinbarflcasein",
+    "bakedproteinbarflwhey",
+    "bakedproteinbarunflcaseinalmond",
+    "bakedproteinbarunflwheyalmond",
+    "bakedproteinbarflcaseinalmond",
+    "bakedproteinbarflwheyalmond";
+
+    "Unflavored<br><a href='/misc/dairy#casein'>Casein</a><br>&<br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>",
+    "Unflavored<br><a href='/misc/dairy#whey'>Whey</a><br>&<br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>",
+    "Flavored<br><a href='/misc/dairy#casein'>Casein</a><br>&<br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>",
+    "Flavored<br><a href='/misc/dairy#whey'>Whey</a><br>&<br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>",
+    "Unflavored<br><a href='/misc/dairy#casein'>Casein</a><br>&<br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>",
+    "Unflavored<br><a href='/misc/dairy#whey'>Whey</a><br>&<br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>",
+    "Flavored<br><a href='/misc/dairy#casein'>Casein</a><br>&<br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>",
+    "Flavored<br><a href='/misc/dairy#whey'>Whey</a><br>&<br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "bakedproteinbarunflcasein,"
-    | append: "bakedproteinbarunflwhey,"
-    | append: "bakedproteinbarflcasein,"
-    | append: "bakedproteinbarflwhey,"
-    | append: "bakedproteinbarunflcaseinalmond,"
-    | append: "bakedproteinbarunflwheyalmond,"
-    | append: "bakedproteinbarflcaseinalmond,"
-    | append: "bakedproteinbarflwheyalmond"
-    | split: ","
-%}
-{% assign titles =
-    "Unflavored<br><a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>,"
-    | append: "Unflavored<br><a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>,"
-    | append: "Flavored<br><a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>,"
-    | append: "Flavored<br><a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>,"
-    | append: "Unflavored<br><a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>,"
-    | append: "Unflavored<br><a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>,"
-    | append: "Flavored<br><a href='/misc/dairy#casein'>Casein</a><br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>,"
-    | append: "Flavored<br><a href='/misc/dairy#whey'>Whey</a><br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

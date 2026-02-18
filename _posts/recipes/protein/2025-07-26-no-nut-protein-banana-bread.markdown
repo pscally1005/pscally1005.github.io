@@ -91,23 +91,19 @@ Notes:
       <li>Optionally, fold in 1/2 cup (85 g) chocolate chips (not included in the nutrition facts below)</li>
   </ul>
 - <img src='/assets/Food/Protein Powder/No Nut Protein Banana Bread/chocolate.jpg' alt='' class='instruction-image'>
+
+- |
+  COMPARE(
+    "nonutproteinbananabread",
+    "nonutproteinbananabreadchoc";
+
+    "Regular<br><a href='/misc/fruit#banana'>Banana</a> Bread",
+    "Chocolate<br><a href='/misc/fruit#banana'>Banana</a> Bread";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
-{% assign files =
-    "nonutproteinbananabread,"
-    | append: "nonutproteinbananabreadchoc"
-    | split: ","
-%}
-{% assign titles =
-    "Regular<br>Banana Bread,"
-    | append: "Chocolate<br>Banana Bread"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

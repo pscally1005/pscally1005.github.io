@@ -67,23 +67,19 @@ Instructions:
 - Serve as 2 halves in the skin shell, and garnish with parsley
 Notes:
 - As mentioned above, you can either use my homemade <a href='/recipes/cashew-ricotta-cheese'>Dairy Free Cashew Ricotta Cheese</a> as your <a href='/misc/dairy#mozzarella'>cheese</a>, or just a standard <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a> (either store bought or homemade).  Below compares the nutrition facts of the 2 different options
+
+- |
+  COMPARE(
+    "lasagnaboatscashew",
+    "lasagnaboatsricotta";
+
+    "With <a href='/recipes/cashew-ricotta-cheese'>Cashew<br>Ricotta Cheese</a>",
+    "With Standard<br><a href='/misc/homemade-cheese#ricotta'>Ricotta Cheese</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
-{% assign files =
-    "lasagnaboatscashew,"
-    | append: "lasagnaboatsricotta"
-    | split: ","
-%}
-{% assign titles =
-    "With <a href='/recipes/cashew-ricotta-cheese'>Cashew<br>Ricotta Cheese</a>,"
-    | append: "With Standard<br><a href='/misc/homemade-cheese#ricotta'>Ricotta Cheese</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

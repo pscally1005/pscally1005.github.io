@@ -75,27 +75,22 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Pecan pie bars/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - For the sweetener, you can either use honey (1/4 cup, 84 g), maple syrup (1/4 cup, 80 g), or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (1/4 cup, 80 g)
+- |
+  COMPARE(
+    "pecanpiebarshoney",
+    "pecanpiebarsmaple",
+    "pecanpiebarssfs";
+
+    "Honey",
+    "Maple<br>Syrup",
+    "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "pecanpiebarshoney,"
-    | append: "pecanpiebarsmaple,"
-    | append: "pecanpiebarssfs"
-    | split: ","
-%}
-{% assign titles =
-    "Honey,"
-    | append: "Maple<br>Syrup,"
-    | append: "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

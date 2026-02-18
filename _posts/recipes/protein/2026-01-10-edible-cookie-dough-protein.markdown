@@ -64,28 +64,24 @@ Notes:
 
 - I'm using <a href='/misc/nuts#cashews'>cashew butter</a> here because it provides richness, <a href='/misc/fats'>healthy fats</a>, and binds together the ingredients, but still has a neutral taste that will leave this tasting more like a standard cookie dough.  <a href='/misc/nuts#almonds'>Almond butter</a> would also be good, or you can use <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> or <a href='/misc/seeds#sesame-seeds'>tahini</a> to keep it <a href='/misc/nuts'>nut</a> free.  <a href='/misc/nuts#peanuts'>Peanut butter</a> also works, but it will have a distinct <a href='/misc/nuts#peanuts'>peanut butter</a> flavor, which is something to keep in mind
 
+- Use chocolate <a href='/misc/dairy#whey'>whey protein powder</a> instead of vanilla for a double chocolate cookie dough
+
 - For a <a href='/misc/hidden-sugar'>sugar free</a> version, replace the honey and chocolate chips with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (3 tbsp, 60 g) and <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> (1/2 cup, 90 g)
 
-- Use chocolate <a href='/misc/dairy#whey'>whey protein powder</a> instead of vanilla for a double chocolate cookie dough
+- |
+  COMPARE(
+    "ediblecookiedoughprotein",
+    "ediblecookiedoughproteinsfs";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "<a href='/recipes/sugar-free-syrup'>Sugar Free</a><br>Variation";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "ediblecookiedoughprotein,"
-    | append: "ediblecookiedoughproteinsfs"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>Original<br>Recipe</a>,"
-    | append: "<a href='/recipes/sugar-free-syrup'>Sugar Free</a><br>Variation"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

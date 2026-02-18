@@ -88,25 +88,22 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-cut.jpg' alt='' class='instruction-image'>
 Notes:
 - Alternatively, you can use 1/4 cup (80 g) of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> in the filling in place of 4 oz (113 g) <a href='/misc/fruit#dates'>dates</a>
+
+- |
+  COMPARE(
+    "cheesecakebar",
+    "cheesecakebarsfs";
+
+    "With <a href='/misc/fruit#dates'>Dates</a>",
+    "With <a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+
 ---
-{% assign files =
-    "cheesecakebar,"
-    | append: "cheesecakebarsfs"
-    | split: ","
-%}
-{% assign titles =
-    "With Dates,"
-    | append: "With <a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

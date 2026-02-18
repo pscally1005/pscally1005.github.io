@@ -86,25 +86,21 @@ Notes:
   Except the <a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>original recipe</a> has over 1 cup of <a href='/misc/hidden-sugar'>added sugar</a> and over 2 cups of <a href='/misc/grains#white-wheat'>refined white flour</a>.  I don't think anyone would be referring to their <a href='/brownies'>brownies</a> as healthy just because they added some <a href='/misc/nuts#walnuts'>walnuts</a> to them.<br><br>
 
   My version on the other hand fixes that, removing any <a href='/misc/hidden-sugar'>refined sugar</a> and <a href='/misc/grains#white-wheat'>flour</a>.  Below is the nutrition facts per <a href='/cookies'>cookie</a> comparing the 2 recipes
+
+- |
+  COMPARE(
+    "pecancookieshealthy",
+    "pecancookiesoriginal";
+
+    "<a href='#recipe'>My Recipe</a>",
+    "<a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>Original Recipe</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "pecancookieshealthy,"
-    | append: "pecancookiesoriginal"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>My Recipe</a>,"
-    | append: "<a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>Original Recipe</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

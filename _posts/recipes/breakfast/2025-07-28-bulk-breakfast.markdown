@@ -68,23 +68,19 @@ Notes:
 
 - To make this a non-bulking <a href='/recipes/breakfast'>breakfast</a>, keep the <a href='/misc/dairy#yogurt'>yogurt</a> the same, and halve the rest of the ingredients.  The recipe would then be the following
 - INGREDIENTS(nonbulkbreakfast)
+
+- |
+  COMPARE(
+    "bulkbreakfast",
+    "nonbulkbreakfast";
+
+    "Bulking Breakfast",
+    "Non Bulking Breakfast";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
-{% assign files =
-    "bulkbreakfast,"
-    | append: "nonbulkbreakfast"
-    | split: ","
-%}
-{% assign titles =
-    "Bulking Breakfast,"
-    | append: "Non Bulking Breakfast"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

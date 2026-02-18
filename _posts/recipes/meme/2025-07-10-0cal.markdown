@@ -65,23 +65,19 @@ Notes:
 - Optionally, mix in some <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> for a chocolate <a href='/cookies'>cookie</a>.  I'm going with 1 tbsp (5 g) of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> in half the batch, and leaving the other half white.  Note that adding <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a> will <b>triple</b> the <a href='/misc/calories'>calories</a> to a whole <b>3</b>.  Oh the horror!
 
 - Just because these are <a href='/misc/calories'>zero calories</a> does <b>not</b> mean you should eat the entire batch at once.  That much <a href='/misc/fake-healthy-foods#sugar-substitutes'>sugar alcohols</a> in one sitting would probably wreck your stomach, or at least give you lethal farts.  You have been warned (maybe I should be warning your friends instead)
+
+- |
+  COMPARE(
+    "0cal",
+    "0calcocoa";
+
+    "White<br>(No <a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa</a>)",
+    "Black<br>(With <a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa</a>)";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
-{% assign files =
-    "0cal,"
-    | append: "0calcocoa"
-    | split: ","
-%}
-{% assign titles =
-    "White<br>(No Cocoa),"
-    | append: "Black<br>(With Cocoa)"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

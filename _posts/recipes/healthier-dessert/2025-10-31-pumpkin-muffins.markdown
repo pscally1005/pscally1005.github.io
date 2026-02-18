@@ -82,39 +82,35 @@ Notes:
 - <img src='/assets/Food/Healthier Dessert/Pumpkin Muffin/banana-muffins.jpg' alt='' class='instruction-image'>
 
 - For standard, neutral chocolate chip muffins, replace the <a href='/misc/veggies#pumpkin'>pumpkin</a> with <a href='/misc/fruit#apple'>unsweetened applesauce</a> (1 cup, 240 g)
+
+- |
+  COMPARE(
+    "pumpkinmuffins",
+    "pumpkinmuffinsmaple",
+    "pumpkinmuffinsoat",
+    "pumpkinmuffinslarge",
+    "pumpkinblondies",
+    "bananamuffins",
+    "applesaucemuffins",
+    "pumpkinmuffinssf",
+    "pumpkinmuffinssfnochoc";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "Maple Syrup<br>Mini Muffins",
+    "<a href='/misc/grains#oats'>Oat Flour</a><br>Mini Muffins",
+    "Standard Sized<br>Muffins",
+    "<a href='/misc/veggies#pumpkin'>Pumpkin</a><br>Blondies",
+    "<a href='/misc/fruit#banana'>Banana</a><br>Chocolate Chip",
+    "Plain<br>Chocolate Chip",
+    "<a href='/misc/hidden-sugar'>Sugar Free</a><br>Chocolate Chip",
+    "<a href='/misc/hidden-sugar'>Sugar Free</a><br>Without Chocolate";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "pumpkinmuffins,"
-    | append: "pumpkinmuffinsmaple,"
-    | append: "pumpkinmuffinsoat,"
-    | append: "pumpkinmuffinslarge,"
-    | append: "pumpkinblondies,"
-    | append: "bananamuffins,"
-    | append: "applesaucemuffins,"
-    | append: "pumpkinmuffinssf,"
-    | append: "pumpkinmuffinssfnochoc"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>Original<br>Recipe</a>,"
-    | append: "Maple Syrup<br>Mini Muffins,"
-    | append: "<a href='/misc/grains#oats'>Oat Flour</a><br>Mini Muffins,"
-    | append: "Standard Sized<br>Muffins,"
-    | append: "Pumpkin<br>Blondies,"
-    | append: "<a href='/misc/fruit#banana'>Banana</a><br>Chocolate Chip,"
-    | append: "Plain<br>Chocolate Chip,"
-    | append: "<a href='/misc/carbs'>Sugar Free</a><br>Chocolate Chip,"
-    | append: "<a href='/misc/carbs'>Sugar Free</a><br>Without Chocolate"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

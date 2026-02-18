@@ -74,24 +74,20 @@ Notes:
 - Any kind of <a href='/recipes/natural-peanut-butter'>natural nut or seed butter</a> will work for this recipe.  I prefer <a href='/misc/nuts#almonds'>almond butter</a>, but other good options are <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, or <a href='/misc/seeds#sesame-seeds'>tahini</a>.  Just use something that's only <a href='/misc/nuts'>nuts</a>/<a href='/misc/seeds'>seeds</a> and salt, without any <a href='/misc/hidden-sugar'>added sugars</a> or <a href='/misc/fats'>hydrogenated oils</a>
 
 - Below is the nutrition facts comparison between these <a href='#recipe'>date brownies</a> and my standard <a href='/recipes/brownies'>Classic Fudgy Brownies</a>
+
+- |
+  COMPARE(
+    "datebrownie",
+    "brownies";
+
+    "<a href='#recipe'>Date<br>Brownies</a>",
+    "<a href='/recipes/brownies'>Classic<br>Fudgy Brownies</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---
-{% assign files =
-    "datebrownie,"
-    | append: "brownies"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>Date<br>Brownies</a>,"
-    | append: "<a href='/recipes/brownies'>Classic<br>Fudgy Brownies</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

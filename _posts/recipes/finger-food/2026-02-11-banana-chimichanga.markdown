@@ -62,24 +62,20 @@ Instructions:
 - <img src='/assets/Food/Finger Food/Banana chimichanga/pan.jpg' alt='' class='instruction-image'>
 Notes:
 - For a <a href='/misc/celiac'>gluten free</a> and higher <a href='/misc/protein'>protein</a> version, swap the <a href='/misc/grains#whole-wheat'>whole wheat</a> tortila for a <a href='/recipes/cottage-cheese-flatbread'>Cottage Cheese Flatbread</a>
+
+- |
+  COMPARE(
+    "bananachimichanga",
+    "bananachimichangaprotein";
+
+    "Using <a href='#recipe'>Whole<br>Wheat Tortilla</a>",
+    "Using <a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese Flatbread</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---
-{% assign files =
-    "bananachimichanga,"
-    | append: "bananachimichangaprotein"
-    | split: ","
-%}
-{% assign titles =
-    "Using <a href='#recipe'>Whole<br>Wheat Tortilla</a>,"
-    | append: "Using <a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese Flatbread</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

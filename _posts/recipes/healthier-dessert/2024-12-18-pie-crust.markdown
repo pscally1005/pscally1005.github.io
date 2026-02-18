@@ -62,6 +62,23 @@ Instructions:
 Notes:
 - I'm using my standard <a href='/recipes/gf-crackers'>Gluten Free Graham Crackers</a> here, but you can make this into a chocolate graham cracker pie crust by using chocolate graham crackers instead
 
+- |
+  COMPARE(
+    "piecrust",
+    "piecrustchoc";
+
+    "Regular<br>Pie Crust",
+    "Chocolate<br>Pie Crust";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+
 - The pie pictured in the thumbnail is just this healthy pie crust filled with my <a href='/recipes/date-frosting'>Date Sweetened Frosting</a> for a creamy, sweet, and delicious no bake pie!
 - <img src='/assets/Food/Healthier Dessert/Pie Crust/pie.jpg' alt='' class='instruction-image'>
 
@@ -73,24 +90,3 @@ Notes:
 - <img src='/assets/Food/Healthier Dessert/Pie Crust/raw-1.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Healthier Dessert/Pie Crust/baked-1.jpg' alt='' class='instruction-image'>
 ---
-{% assign files =
-    "piecrust,"
-    | append: "piecrustchoc"
-    | split: ","
-%}
-{% assign titles =
-    "Regular<br>Pie Crust,"
-    | append: "Chocolate<br>Pie Crust"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

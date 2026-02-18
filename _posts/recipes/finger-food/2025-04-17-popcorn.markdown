@@ -61,25 +61,21 @@ Instructions:
 Notes:
 - You can also make cinnamon sugar <a href='/misc/grains#popcorn'>popcorn</a> by using <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, and cinnamon.  The recipe is the following
 - INGREDIENTS(popcornsweet)
+
+- |
+  COMPARE(
+    "popcorn",
+    "popcornsweet";
+
+    "Nooch<br><a href='/misc/grains#popcorn'>Popcorn</a>",
+    "Cinnamon Sugar<br><a href='/misc/grains#popcorn'>Popcorn</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "popcorn,"
-    | append: "popcornsweet"
-    | split: ","
-%}
-{% assign titles =
-    "Nooch<br>Popcorn,"
-    | append: "Cinnamon Sugar<br>Popcorn"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

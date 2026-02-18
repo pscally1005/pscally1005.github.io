@@ -69,6 +69,7 @@ Instructions:
 Notes:
 - For the sweetener, you can either use any of the following
 - INGREDIENTS(bulkbrowniessweeteners)
+
 - |
   COMPARE(
     "bulkbrownieshoney",

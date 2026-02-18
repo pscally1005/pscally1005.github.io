@@ -70,6 +70,23 @@ Instructions:
 Notes:
 - Alternatively, you can make these into chocolate <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a>.  Reduce the <a href='/misc/grains#oats'>oat flour</a> to 2 cups (180 g), and add 4 tbsp (20 g) of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
 
+- |
+  COMPARE(
+    "cracker",
+    "crackerchoc";
+
+    "Regular<br>Graham Crackers",
+    "Chocolate<br>Graham Crackers";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+
 - Check out my <a href='/recipes/pie-crust'>Healthier Graham Cracker Pie Crust</a> for an easy pie crust with just homemade <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a> and <a href='/misc/fruit#apple'>unsweetened applesauce</a>!
 - <img src='/assets/Food/Healthier Dessert/Pie Crust/pie.jpg' alt='' class='instruction-image'>
 
@@ -77,24 +94,3 @@ Notes:
 - <img src='/assets/Food/Healthier Dessert/Pie Crust/raw-1.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Healthier Dessert/Pie Crust/baked-1.jpg' alt='' class='instruction-image'>
 ---
-{% assign files =
-    "cracker,"
-    | append: "crackerchoc"
-    | split: ","
-%}
-{% assign titles =
-    "Regular<br>Graham Crackers</a>,"
-    | append: "Chocolate<br>Graham Crackers</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

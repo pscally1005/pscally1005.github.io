@@ -73,30 +73,26 @@ Instructions:
 Notes:
 - <a href='/misc/meat#eggs'>Whole eggs</a> can be used in place of <a href='/misc/meat#egg-whites'>egg whites</a>.  2 large <a href='/misc/meat#eggs'>eggs</a> (100 g) is the substitution.  Aquafaba will <b>not</b> work; I have tried
 - The psyllium husk provides a better texture and extra <a href='/misc/fiber'>fiber</a>.  It is optional if you do not have it, but highly recommended
+
+- |
+  COMPARE(
+    "ccflatbreadwhitepsyllium",
+    "ccflatbreadwhite",
+    "ccflatbreadpsyllium",
+    "ccflatbread";
+
+    "Egg<br>Whites<br>With<br>Psyllium<br>Husk",
+    "Egg<br>Whtes<br><br>Without<br>Psyllium<br>Husk",
+    "Whole<br>Eggs<br>With<br>Psyllium<br>Husk",
+    "Whole<br>Eggs<br>Without<br>Psyllium<br>Husk";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Vitamin B12",
+    "Vitamin D",
+    "Choline"
+  )
 ---
-{% assign files =
-    "ccflatbreadwhitepsyllium,"
-    | append: "ccflatbreadwhite,"
-    | append: "ccflatbreadpsyllium,"
-    | append: "ccflatbread"
-    | split: ","
-%}
-{% assign titles =
-    "Egg Whites<br>With Psyllium Husk,"
-    | append: "Egg Whtes<br>No Psyllium Husk,"
-    | append: "Whole Eggs<br>With Psyllium Husk,"
-    | append: "Whole Eggs<br>No Psyllium Husk"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Vitamin B12,"
-    | append: "Vitamin D,"
-    | append: "Choline"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

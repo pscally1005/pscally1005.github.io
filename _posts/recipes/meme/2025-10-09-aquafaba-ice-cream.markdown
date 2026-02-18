@@ -66,29 +66,25 @@ Notes:
 
 - Other sweetener options include the following
 - INGREDIENTS(sweetenersaquafabaicecream)
+
+- |
+  COMPARE(
+    "aquafabaicecreammaplesyrup",
+    "aquafabaicecreamhoney",
+    "aquafabaicecreamsfs",
+    "aquafabaicecreammonkfruit";
+
+    "Maple<br>Syrup",
+    "Honey",
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>",
+    "<a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Granulated<br>Monk Fruit</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "aquafabaicecreammaplesyrup,"
-    | append: "aquafabaicecreamhoney,"
-    | append: "aquafabaicecreamsfs,"
-    | append: "aquafabaicecreammonkfruit"
-    | split: ","
-%}
-{% assign titles =
-    "Maple<br>Syrup,"
-    | append: "Honey,"
-    | append: "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>,"
-    | append: "Granulated<br>Monk Fruit"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

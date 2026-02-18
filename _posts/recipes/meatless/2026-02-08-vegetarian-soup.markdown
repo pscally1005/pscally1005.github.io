@@ -75,23 +75,19 @@ Notes:
 - Optionally mix in some <a href='/misc/meat#ground-beef'>ground beef</a> and <a href='/misc/dairy#cheddar'>shredded cheese</a> to make it more filling
 
 - You can also make it creamier by mixing in 1 cup (226 g) of (whipped) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (or <a href='/misc/dairy#yogurt'>Greek yogurt</a>) at the end, which also adds some <a href='/misc/protein'>protein</a> as well
+
+- |
+  COMPARE(
+    "vicsoup",
+    "vicsoupcc";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "With<br><a href='/misc/dairy#cottage-cheese'>Cottage Cheese</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
-{% assign files =
-    "vicsoup,"
-    | append: "vicsoupcc"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>Original<br>Recipe</a>,"
-    | append: "With<br><a href='/misc/dairy#cottage-cheese'>Cottage Cheese</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

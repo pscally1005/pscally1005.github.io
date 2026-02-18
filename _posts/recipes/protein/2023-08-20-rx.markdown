@@ -93,30 +93,26 @@ Notes:
 
 - Alternatively, you can sweeten these with 4 tbsp of honey (84 g), maple syrup (80 g), or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (80 g) instead of <a href='/misc/fruit#dates'>dates</a>
 
+- |
+  COMPARE(
+    "rxnew",
+    "rxnewhoney",
+    "rxnewsfs";
+
+    "Sweetened with<br><a href='/misc/fruit#dates'>Dates</a><br>(<a href='#recipe'>Original Recipe</a>)",
+    "Sweetened with<br>Honey",
+    "Sweetened with<br><a href='/recipes/sugar-free-syrup'>Sugar Free Syrup</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+
 - I'm using <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> as my liquid, but water or any type of <a href='/misc/dairy#skim-milk'>milk</a> (<a href='/misc/dairy'>dairy</a> or non-dairy) will work. Add just a tiny bit at a time, a little goes a long way. You want everything to just come together into a dough while blending without being too wet or too dry
 
 - Optionally top with flaky salt, chocolate chips, <a href='/misc/nuts#coconut'>coconut flakes</a>, or anything else you desire
 ---
-{% assign files =
-    "rxnew,"
-    | append: "rxnewhoney,"
-    | append: "rxnewsfs"
-    | split: ","
-%}
-{% assign titles =
-    "Sweetened with<br><a href='/misc/fruit#dates'>Dates</a><br>(<a href='#recipe'>Original Recipe</a>),"
-    | append: "Sweetened with<br>Honey,"
-    | append: "Sweetened with<br><a href='/recipes/sugar-free-syrup'>Sugar Free Syrup</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

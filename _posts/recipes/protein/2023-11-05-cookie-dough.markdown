@@ -65,24 +65,20 @@ Notes:
 - If you have some, 1/4 tsp (1.25 g) butter extract would work great here as well
 
 - For your flour, use <a href='/misc/dairy#casein'>casein</a> for the regular <a href='/misc/protein'>protein</a> version, or <a href='/misc/grains#oats'>oat flour</a> for a standard non-protein version. <a href='/misc/dairy#casein'>Casein</a> absorbs a lot of liquid, so you will need some <a href='/misc/dairy#skim-milk'>milk</a> too. If you're using <a href='/misc/grains#oats'>oat flour</a>, use 120 g (1 1/3 cup) and no <a href='/misc/dairy#skim-milk'>milk</a>.  For <a href='/misc/dairy#casein'>casein</a>, use 60 g (2 scoop) <a href='/misc/dairy#whey'>protein powder</a> and 60 g (1/4 cup) <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a>
+
+- |
+  COMPARE(
+    "cookiedough",
+    "cookiedoughprotnoprot";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "Non-<a href='/misc/protein'>Protein</a><br>Variation";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---
-{% assign files =
-    "cookiedough,"
-    | append: "cookiedoughprotnoprot"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>Original<br>Recipe</a>,"
-    | append: "Non-<a href='/misc/protein'>Protein</a><br>Variation"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

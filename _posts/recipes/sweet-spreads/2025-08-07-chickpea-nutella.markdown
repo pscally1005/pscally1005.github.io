@@ -67,29 +67,25 @@ Notes:
 - All 3 variations (<a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>) will yield 18 servings of 2 tbsp (32 g) each
 
 - Below is a table comparing the nutrition facts of my homemade spread to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> <b>per 100 g</b>.  As you can see, the homemade versions contain significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/hidden-sugar'>added sugar</a>, while having substantially more <a href='/misc/fiber'>fiber</a>
+
+- |
+  COMPARE(
+    "chickpea-nutella-100g",
+    "chickpea-nutella-sfs-100g",
+    "chickpea-nutella-monk-fruit-100g",
+    "classic-nutella-100g";
+
+    "<a href='#recipe'>Homemade</a><br><a href='/misc/fruit#dates'>Dates</a>",
+    "<a href='#recipe'>Homemade</a><br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "<a href='#recipe'>Homemade</a><br><a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Granulated<br>Monk<br>Fruit</a>",
+    "<a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Storebought</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "chickpea-nutella-100g,"
-    | append: "chickpea-nutella-sfs-100g,"
-    | append: "chickpea-nutella-monk-fruit-100g,"
-    | append: "classic-nutella-100g"
-    | split: ","
-%}
-{% assign titles =
-    "Homemade<br>With Dates,"
-    | append: "Homemade<br>With <a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>,"
-    | append: "Homemade<br>With Granulated<br>Monk Fruit</a>,"
-    | append: "Storebought"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

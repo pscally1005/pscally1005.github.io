@@ -93,27 +93,24 @@ Notes:
         <li>Replace mashed <a href='/misc/fruit#banana'>banana</a> with mashed cooked sweet potato (with the skin!)</li>
       </ul>
   </ul>
+
+- |
+  COMPARE(
+    "proteinbananabreadone",
+    "proteinbananabreadoneapplesauce",
+    "proteinbananabreadonepumpkin",
+    "proteinbananabreadoneswpot";
+
+    "<a href='/misc/fruit#banana'>Banana</a><br>Bread",
+    "<a href='/misc/fruit#apple'>Apple</a><br>Bread",
+    "<a href='/misc/veggies#pumpkin'>Pumpkin</a><br>Bread",
+    "<a href='/misc/veggies#sweet-potato'>Sweet Potato</a><br>Bread";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
-{% assign files =
-    "proteinbananabreadone,"
-    | append: "proteinbananabreadoneapplesauce,"
-    | append: "proteinbananabreadonepumpkin,"
-    | append: "proteinbananabreadoneswpot"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='/misc/fruit#banana'>Banana</a><br>Bread,"
-    | append: "<a href='/misc/fruit#apple'>Apple</a><br>Bread,"
-    | append: "<a href='/misc/veggies#pumpkin'>Pumpkin</a><br>Bread,"
-    | append: "<a href='/misc/veggies#sweet-potato'>Sweet Potato</a><br>Bread"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+

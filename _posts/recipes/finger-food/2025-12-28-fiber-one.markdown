@@ -82,29 +82,25 @@ Notes:
 - To make <a href='https://amzn.to/495pUN5'>Copycat Fiber One Cookie Bars</a> instead, replace the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> with <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a> (1/2 cup, 48 g)
 
 - To make <a href='https://www.walmart.com/ip/Great-Value-Chocolate-Fudge-Fiber-Brownie-Baked-Bars-Value-Pack-0-89-oz-12-Count/163790745?fulfillmentIntent=Pickup&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22Pickup%22%5D%7D%5D&classType=VARIANT&athbdg=L1600&from=/search'>Copycat Great Value Fiber Brownies</a> instead, replace the monk fruit with granulated <a href='/misc/hidden-sugar'>sugar</a> (6 tbsp, 72 g), and replace the <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> with regular chocolate chips (2 tbsp, 30 g).  The Walmart knockoffs use <a href='/misc/hidden-sugar'>added sugar</a> instead of <a href='/misc/fake-healthy-foods#sugar-substitutes'>sugar alcohols</a>, which is why they have 90 <a href='/misc/calories'>calories</a> instad of 70
+
+- |
+  COMPARE(
+    "fiberone",
+    "fiberonepb2",
+    "fiberonesugar",
+    "fiberonepb2sugar";
+
+    "<a href='#recipe'>Brownie Bar</a><br><a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Monk Fruit</a>",
+    "Cookie Bar<br><a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Monk Fruit</a>",
+    "Brownie Bar<br><a href='/misc/hidden-sugar'>Added Sugar</a>",
+    "Cookie Bar<br><a href='/misc/hidden-sugar'>Added Sugar</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "fiberone,"
-    | append: "fiberonepb2,"
-    | append: "fiberonesugar,"
-    | append: "fiberonepb2sugar"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>Brownie Bar<br>Monk Fruit</a>,"
-    | append: "Cookie Bar<br>Monk Fruit,"
-    | append: "Brownie Bar<br><a href='/misc/hidden-sugar'>Added Sugar</a>,"
-    | append: "Cookie Bar<br><a href='/misc/hidden-sugar'>Added Sugar</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

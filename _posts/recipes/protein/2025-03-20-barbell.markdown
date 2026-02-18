@@ -19,7 +19,7 @@ cookie: no
 copycat: yes
 permalink: /recipes/copycat-barebell
 image: /assets/Food/Protein Powder/Barbell/cover.jpg
-file: barbellunsw
+file: barbell-unsw
 servingSize: 1 protein bar
 section1: Filling - Dry
 start2: Vanilla extract
@@ -198,53 +198,49 @@ Notes:
           <li>Still use coconut oil and cocoa powder, but add 2 tbsp (42 g) honey and 1/2 tsp (2.5 g) liquid monk fruit to the melted chocolate</li>
         </ul><br>
   </ol>
+
+- |
+  COMPARE(
+    "barbell-unsw",
+    "barbell-sug-free-choc",
+    "barbell-oat",
+    "barbell-almond",
+    "barbell-candy",
+    "barbell-flavored",
+    "barbell-flavored-double",
+    "barbell-liq-monk-fruit",
+    "barbell-honey",
+    "barbell-honey-double",
+    "barbell-sf-syrup",
+    "barbell-reeses",
+    "barbell-double-pb",
+    "barbell-white-pb",
+    "barbell-casein",
+    "barbell-low-sug";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "<a href='/recipes/monkfruit-chocolate-chunks'>Sugar<br>Free<br>Chocolate<br>Chips</a>",
+    "<a href='/misc/grains#oats'>Oat<br>Flour</a>",
+    "<a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
+    "Candy<br>Bar",
+    "Flavored<br><a href='/misc/dairy#whey'>Whey</a>",
+    "Double<br>Flavored<br><a href='/misc/dairy#whey'>Whey</a>",
+    "<a href='https://amzn.to/44ZDhwi'>Liquid<br>Monk<br>Fruit</a>",
+    "Honey",
+    "Double<br>Honey",
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "Reese's",
+    "Double<br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a>",
+    "White<br>Chocolate<br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a>",
+    "<a href='/misc/dairy#casein'>Casein<br>Protein<br>Powder</a>",
+    "Lower<br><a href='/misc/hidden-sugar'>Sugar</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "barbellunsw,"
-    | append: "barbell-sug-free-choc,"
-    | append: "barbell-oat,"
-    | append: "barbell-almond,"
-    | append: "barbell-candy,"
-    | append: "barbell-flavored,"
-    | append: "barbell-flavored-double,"
-    | append: "barbell-liq-monk-fruit,"
-    | append: "barbell-honey,"
-    | append: "barbell-honey-double,"
-    | append: "barbell-sf-syrup,"
-    | append: "barbell-reeses,"
-    | append: "barbell-double-pb,"
-    | append: "barbell-white-pb,"
-    | append: "barbell-casein,"
-    | append: "barbell-low-sug"
-    | split: ","
-%}
-{% assign titles =
-    "Original<br>Recipe,"
-    | append: "Sugar<br>Free<br>Chocolate<br>Chips,"
-    | append: "Oat<br>Flour,"
-    | append: "Almond<br>Flour,"
-    | append: "Candy<br>Bar,"
-    | append: "Flavored<br>Whey,"
-    | append: "Double<br>Flavored<br>Whey,"
-    | append: "<a href='https://amzn.to/44ZDhwi'>Liquid<br>Monk<br>Fruit</a>,"
-    | append: "Honey,"
-    | append: "Double<br>Honey,"
-    | append: "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>,"
-    | append: "Reese's,"
-    | append: "Double<br>Peanut<br>Butter,"
-    | append: "White<br>Chocolate<br>Peanut<br>Butter,"
-    | append: "Casein<br>Protein<br>Powder,"
-    | append: "Lower<br>Sugar"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" cost="true" mass="true" %}

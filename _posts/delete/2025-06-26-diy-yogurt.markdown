@@ -57,28 +57,24 @@ Notes:
 - I'd recommend adding some cinnamon (1/2 tsp, 1.5 g) or vanilla extract (1/2 tsp, 2.5 g) for flavor, but as the point is to keep this as <i>plain</i> <a href='/misc/dairy#yogurt'>Greek yogurt</a>, I've omitted them above
 
 - As your sweetener, you can either use <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> (1 tbsp, 12 g) or honey (1 tsp, 7 g).  If using honey instead, replace the <a href='/misc/dairy#almond-milk'>almond milk</a> (1/2 cup, 125 g) with water (1/2 cup, 130 g).  Below is a table comparing the two versions to <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a> (per 3/4 cup, 170 g serving)
+
+- |
+  COMPARE(
+    "plain-nonfat-greek-yogurt",
+    "diyyogurtmonkfruit",
+    "diyyogurthoney";
+
+    "<a href='/misc/dairy#yogurt'>Plain<br>Nonfat<br>Greek<br>Yogurt</a>",
+    "DIY<br>Yogurt<br>Monk Fruit",
+    "DIY<br>Yogurt<br>Honey";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Added Sugar",
+    "Sugar Alcohol",
+    "Vitamin B12",
+    "Calcium"
+  )
 ---
-{% assign files =
-    "plain-nonfat-greek-yogurt,"
-    | append: "diyyogurtmonkfruit,"
-    | append: "diyyogurthoney"
-    | split: ","
-%}
-{% assign titles =
-    "Plain<br>Nonfat<br>Greek<br>Yogurt,"
-    | append: "DIY<br>Yogurt<br>Monk Fruit,"
-    | append: "DIY<br>Yogurt<br>Honey"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol,"
-    | append: "Vitamin B12,"
-    | append: "Calcium"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

@@ -75,25 +75,21 @@ Notes:
   The instructions are the same.  Combine all ingredients together in a <a href='https://amzn.to/4adxMft'>small bowl</a>, flatten onto a sheet of parchment paper, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 300F for about 12 minutes, or until golden brown
 - INGREDIENTS(onecookiecoconutoil)
 - <img src='/assets/Food/Healthier Dessert/One cookie/coconut-oil-cooked.jpg' alt='' class='instruction-image'>
+
+- |
+  COMPARE(
+    "onecookie",
+    "onecookiecoconutoil";
+
+    "Cashew<br>Butter<br>(<a href='#recipe'>Original<br>Recipe</a>)",
+    "Coconut<br>Oil<br>(<a href='#coconut-oil'>Alternative<br>Above</a>)";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "onecookie,"
-    | append: "onecookiecoconutoil"
-    | split: ","
-%}
-{% assign titles =
-    "Cashew<br>Butter<br>(<a href='#recipe'>Original<br>Recipe</a>),"
-    | append: "Coconut<br>Oil<br>(<a href='#coconut-oil'>Alternative<br>Above</a>)"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}

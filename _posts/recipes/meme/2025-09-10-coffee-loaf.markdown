@@ -84,6 +84,7 @@ Notes:
 - I've tested the recipe both with decaf ground coffee and instant espresso powder</a>.  Ground coffee leads to a crumblier but stronger coffee tasting loaf, whereas the espresso powder holds its shape better with a very mild coffee flavor
 
 - For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>
+
 - |
   COMPARE(
     "coffeeloaf",
@@ -107,6 +108,7 @@ Notes:
 - INGREDIENTS(coffeeloafgfflour)
 
 - The original recipe used 1 stick (113 g) unsalted <a href='/misc/dairy#butter'>butter</a>, 3/4 cup (150 g) granulated <a href='/misc/hidden-sugar'>sugar</a>, and 2 cup (240 g) <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='/misc/fruit#apple'>applesauce</a>, monk fruit, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If you don't care to make it healthy, you can do that instead
+
 - |
   COMPARE(
     "coffeeloaf",

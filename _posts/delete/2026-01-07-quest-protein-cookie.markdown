@@ -72,25 +72,22 @@ Instructions:
 - <img src='/assets/Food/Protein Powder/Quest Cookie/baked.jpg' alt='' class='instruction-image'>
 Notes:
 - If you don't mind the extra <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/calories'>calories</a>, you can substitute granulated <a href='/misc/hidden-sugar'>sugar</a> for monk fruit, as well as use regular chocolate chips instead of the <a href='/misc/hidden-sugar'>sugar-free</a> variety
+
+- |
+  COMPARE(
+    "proteincookiequest",
+    "proteincookiequestsugar";
+
+    "<a href='#recipe'>Sugar Free</a>",
+    "With <a href='/misc/hidden-sugar'>Sugar</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---
-{% assign files =
-    "proteincookiequest,"
-    | append: "proteincookiequestsugar"
-    | split: ","
-%}
-{% assign titles =
-    "<a href='#recipe'>Sugar Free</a>,"
-    | append: "With <a href='/misc/hidden-sugar'>Sugar</a>"
-    | split: ","
-%}
-{% assign nutrients =
-    "Calories,"
-    | append: "Protein,"
-    | append: "Fat,"
-    | append: "Net Carbs,"
-    | append: "Fiber,"
-    | append: "Added Sugar,"
-    | append: "Sugar Alcohol"
-    | split: ","
-%}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+
