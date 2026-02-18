@@ -35,6 +35,23 @@
                           {% assign f = site.data[facts] %}
                           {% include nutrition.html facts=f %}
 
+                      <!-- Include compare table -->
+                      {% elsif note contains "COMPARE(" %}
+
+                          {% assign raw = note | remove: "COMPARE(" | remove: ")" | strip %}
+
+                          {% assign parts = raw | split: ";" %}
+
+                          {% assign files_raw = parts[0] %}
+                          {% assign titles_raw = parts[1] %}
+                          {% assign nutrients_raw = parts[2] %}
+
+                          {% assign files = files_raw | split: "," | join: "|" | remove: '"' | split: "|" %}
+                          {% assign titles = titles_raw | split: "," | join: "|" | remove: '"' | split: "|" %}
+                          {% assign nutrients = nutrients_raw | split: "," | join: "|" | remove: '"' | split: "|" %}
+
+                          {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+
                       <!-- Print note -->
                       {% else %}
 
