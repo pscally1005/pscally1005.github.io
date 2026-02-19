@@ -24,18 +24,23 @@
                       <!-- Include ingredients file -->
                       {% elsif note contains "INGREDIENTS(" %}
 
+                          </ol>
                           {% assign file = note | remove: "INGREDIENTS(" | remove: ")" | strip %}
                           {% include ingredients.html file=file recipe="false" %}
+                          <ol start="{{ note_number }}">
 
                       <!-- Include facts file -->
                       {% elsif note contains "FACTS(" %}
 
+                          </ol>
                           {% assign file = note | remove: "FACTS(" | remove: ")" | strip %}
                           {% include nutrition.html file=file recipe="false" %}
+                          <ol start="{{ note_number }}">
 
                       <!-- Include compare table -->
                       {% elsif note contains "COMPARE(" %}
 
+                          </ol>
                           {% assign raw = note
                             | remove: "COMPARE("
                             | remove: ")"
@@ -83,6 +88,7 @@
                           {% endcomment %}
 
                           {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+                          <ol start="{{ note_number }}">
 
                       <!-- Print note -->
                       {% else %}

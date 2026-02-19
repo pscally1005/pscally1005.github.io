@@ -22,11 +22,11 @@ def scale_images_in_directory(directory):
         for filename in files:
             if filename.endswith("_scaled.jpg") or filename.endswith("_scaled.JPG") or filename.endswith("_scaled.png") or filename.endswith("_scaled.jpeg"):
                 continue
-            elif filename.endswith(".jpg") or filename.endswith(".JPG") or filename.endswith(".png") or filename.endswith(".jpeg"):
+            elif filename.endswith(".jpg") or filename.endswith(".JPG") or filename.endswith(".png") or filename.endswith(".PNG") or filename.endswith(".jpeg"):
                 filepath = os.path.join(root, filename)
                 try:
                     img = Image.open(filepath)
-                    
+
                     # Check for EXIF orientation and rotate if necessary
                     exif = img._getexif()
                     if exif:
@@ -37,7 +37,7 @@ def scale_images_in_directory(directory):
                             img = img.rotate(270, expand=True)
                         elif orientation == 8:
                             img = img.rotate(90, expand=True)
-                    
+
                     # Resize the image
                     width, height = img.size
                     new_width = int(width * 0.25)
