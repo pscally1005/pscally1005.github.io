@@ -94,12 +94,12 @@ Notes:
     "coffeeloafinstdecaf",
     "coffeeloafinstcaf";
 
-    "<a href='https://amzn.to/4oXITP0'>Ground<br>Coffee<br>(Decaf)</a>",
-    "<a href='https://amzn.to/47ZDr8c'>Ground<br>Coffee<br>(Caffeinated)</a>",
-    "<a href='https://amzn.to/4p4wEQM'>Instant<br>Espresso<br>(Decaf)</a>",
-    "<a href='https://amzn.to/4gdD4cw'>Instant<br>Espresso<br>(Caffeinated)</a>",
-    "<a href='https://amzn.to/3HKCVjY'>Instant<br>Coffee<br>(Decaf)</a>",
-    "<a href='https://amzn.to/486aYxs'>Instant<br>Coffee<br>(Caffeinated)</a>";
+    "<a href='https://amzn.to/4oXITP0'>Ground<br>Coffee<br>Decaf</a>",
+    "<a href='https://amzn.to/47ZDr8c'>Ground<br>Coffee<br>Caffeinated</a>",
+    "<a href='https://amzn.to/4p4wEQM'>Instant<br>Espresso<br>Decaf</a>",
+    "<a href='https://amzn.to/4gdD4cw'>Instant<br>Espresso<br>Caffeinated</a>",
+    "<a href='https://amzn.to/3HKCVjY'>Instant<br>Coffee<br>Decaf</a>",
+    "<a href='https://amzn.to/486aYxs'>Instant<br>Coffee<br>Caffeinated</a>";
 
     "Caffeine"
   )
@@ -117,7 +117,7 @@ Notes:
 
     "<a href='/misc/grains#whole-wheat'>Whole<br>Wheat</a>",
     "<a href='/misc/celiac'>Gluten</a><br>Free",
-    "<a href='#recipe'>Original<br>Recipe</a>";
+    "Original<br>Recipe";
 
     "Calories",
     "Protein",

@@ -68,7 +68,7 @@ Notes:
     "proteincookiedoughv2",
     "proteincookiedoughv2honey";
 
-    "<a href='#recipe'>Original Recipe</a><br>(With <a href='https://amzn.to/3SqwsMO'>Liquid<br>Monk Fruit</a>)",
+    "<a href='#recipe'>Original Recipe</a><br><a href='https://amzn.to/3SqwsMO'>Liquid<br>Monk Fruit</a>",
     "With Honey";
 
     "Calories",

@@ -81,8 +81,8 @@ Notes:
     "onecookie",
     "onecookiecoconutoil";
 
-    "Cashew<br>Butter<br>(<a href='#recipe'>Original<br>Recipe</a>)",
-    "Coconut<br>Oil<br>(<a href='#coconut-oil'>Alternative<br>Above</a>)";
+    "Cashew Butter<br><a href='#recipe'>Original<br>Recipe</a>",
+    "Coconut Oil<br><a href='#coconut-oil'>Alternative<br>Above</a>";
 
     "Calories",
     "Protein",

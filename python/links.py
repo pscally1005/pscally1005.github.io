@@ -474,7 +474,134 @@ LINKS = {
         "roasted garlic paste",
         "garlic paste"
     ],
-
+    "/recipes/date-frosting": [
+        "date sweetened frosting",
+        "sugar free frosting",
+        "sugar-free frosting",
+        "healthier frosting",
+        "healthy frosting",
+        "date frosting",
+        "yogurt frosting",
+        "cottage cheese frosting",
+        "low fat frosting",
+        "fat free frosting"
+    ],
+    "/recipes/pasta-with-clam-sauce": [
+        "pasta with healthier clam sauce",
+        "pasta with clam sauce",
+        "clam sauce"
+    ],
+    "/recipes/babaganoush": [
+        "lemon baba ganoush without oil",
+        "lemon babaganoush without oil",
+        "lemon babaganoush",
+        "lemon baba ganoush",
+        "eggplant babaganoush",
+        "eggplant baba ganoush",
+        "babaganoush",
+        "baba ganoush"
+    ],
+    "/recipes/salmon-and-tzatziki": [
+        "roasted salmon and sprouts with tzatziki",
+        "roasted salmon",
+        "tzatziki sauce",
+        "greek yogurt tzatziki",
+        "yogurt tzatziki",
+        "tzatziki",
+        "homemade tzatziki"
+    ],
+    "/recipes/shrimp-oreganata": [
+        "gluten free shrimp oreganata",
+        "shrimp oreganata",
+        "homemade breadcrumbs",
+        "gluten free breadcrumbs",
+        "breadcrumb mix",
+        "gluten free breadcrumb mix",
+        "homemade breadcrumb mix",
+        "oat flour breadcrumb mix",
+        "oat flour breadcrumbs"
+    ],
+    "/recipes/whole-wheat-baguettes": [
+        "whole wheat baguettes",
+        "whole wheat baguette",
+        "homemade baguettes",
+        "homemage baguette",
+        "french bread",
+        "french baguette",
+        "italian bread",
+        "club roll"
+    ],
+    "/recipes/core-power-milkshake": [
+        "copycat core power protein milkshake",
+        "copycat core power milkshake",
+        "core power protein milkshake",
+        "copycat core powder",
+        "protein milkshake",
+        "core power protein milkshake",
+        "core power",
+        "homemade core power milkshake",
+        "homemade core power protein milkshake",
+        "homemade protein core cpower milkshake",
+        "homemade core powder",
+        "homemade protein milkshake"
+    ],
+    "/recipes/rx-bars": [
+        "copycat chocolate rx bars",
+        "copycat rx bars",
+        "chocolate rx bars",
+        "copycat chocolate rx bar",
+        "copycat rx bar",
+        "chocolate rx bar",
+        "homemade rx bars",
+        "homemade rx bar",
+        "rx bars",
+        "rx bar"
+    ],
+    "/recipes/copycat-barebell": [
+        "copycat barebell protein bars",
+        "copycat barebell protein bar",
+        "barebell protien bars",
+        "barebell protein bar",
+        "copycat barebell",
+        "barebell",
+        "homemade barebell protein bars",
+        "homemade barebell protein bar",
+        "homemade barebell"
+        "barebell bars",
+        "barebell bar",
+        "barebell"
+    ],
+    "/recipes/copycat-quest-bars": [
+        "copycat quest protein bars",
+        "copycat quest protein bar",
+        "quest protein bars",
+        "quest protein bar",
+        "homemade quest protein bars",
+        "homemade quest protein bar",
+        "homemade quest",
+        "copycat quest",
+        "quest bars",
+        "quest bar",
+        "quest"
+    ],
+    "/recipes/chobani-yogurt-drink": [
+        "copycat chobani yogurt drink",
+        "chobani yogurt drink",
+        "copycat chobani",
+        "homemade chobani yogurt drink"
+    ],
+    "/recipes/electrolyte-powder": [
+        "copycat LMNT electrolyte powder",
+        "homemade electrolyte powder",
+        "LMNT",
+        "electrolyte powder"
+    ],
+    "/misc/rotisserie-chicken-cost-analysis": [
+        "store-bought rotisserie chicken",
+        "storebought rotisserie chicken",
+        "store bough rotisserie chicken",
+        "rotisserie chicken"
+    ],
 
 
     # DISEASES
@@ -3535,6 +3662,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+
     "maple syrup",
     "potato bread",
     "potato buns",

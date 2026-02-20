@@ -99,9 +99,9 @@ Notes:
     "rxnewhoney",
     "rxnewsfs";
 
-    "Sweetened with<br><a href='/misc/fruit#dates'>Dates</a><br>(<a href='#recipe'>Original Recipe</a>)",
-    "Sweetened with<br>Honey",
-    "Sweetened with<br><a href='/recipes/sugar-free-syrup'>Sugar Free Syrup</a>";
+    "<a href='/misc/fruit#dates'>Dates</a><br><a href='#recipe'>Original Recipe</a>",
+    "<br>Honey",
+    "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>";
 
     "Calories",
     "Protein",
