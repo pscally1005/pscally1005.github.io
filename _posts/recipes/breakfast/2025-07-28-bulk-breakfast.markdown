@@ -74,8 +74,8 @@ Notes:
     "bulkbreakfast",
     "nonbulkbreakfast";
 
-    "Bulking Breakfast",
-    "Non Bulking Breakfast";
+    "Bulking<br>Breakfast",
+    "Non Bulking<br>Breakfast";
 
     "Calories",
     "Protein",

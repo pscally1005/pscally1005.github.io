@@ -1295,6 +1295,37 @@ def grams(food, mass, vol):
         elif vol == "5 cup":
             m = "1200"
 
+    # Magnesium
+    elif food == "Magnesium Glycinate":
+        if vol == "1 scoop":
+            m = "1.8"
+        elif vol == "2 scoop":
+            m = "3.6"
+        elif vol == "3 scoop":
+            m = "5.4"
+        elif vol == "4 scoop":
+            m = "7.2"
+        elif vol == "5 scoop":
+            m = "9.0"
+        elif vol == "6 scoop":
+            m = "10.8"
+
+
+    # Creatine
+    elif food == "Creatine Monohydrate":
+        if vol == "1 scoop":
+            m = "5"
+        elif vol == "2 scoop":
+            v = "10"
+        elif vol == "3 scoop":
+            m = "15"
+        elif vol == "4 scoop":
+            m = "20"
+        elif vol == "5":
+            m = "25"
+        elif vol == "6 scoop":
+            m = "30"
+
     # Apples
     elif food == "Apple, gala":
         if vol == "1 medium":

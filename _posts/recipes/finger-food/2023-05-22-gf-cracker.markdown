@@ -75,8 +75,8 @@ Notes:
     "cracker",
     "crackerchoc";
 
-    "Regular<br>Graham Crackers",
-    "Chocolate<br>Graham Crackers";
+    "Regular<br>Graham<br>Crackers",
+    "Chocolate<br>Graham<br>Crackers";
 
     "Calories",
     "Protein",

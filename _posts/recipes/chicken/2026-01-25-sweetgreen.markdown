@@ -33,7 +33,7 @@ section5:
 Prep: 5
 Rest:
 Cook: 30
-Source1: /assets/Food/Chicken/Sweetgreen/harvestBowl.jpg
+Source1: /assets/Food/Chicken/Sweetgreen/original.jpg
 Source2:
 Source3:
 Source4:

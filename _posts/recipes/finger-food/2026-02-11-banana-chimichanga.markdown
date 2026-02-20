@@ -61,15 +61,15 @@ Instructions:
 - Add the tortilla cut side down to the hot pan, and let sit for at least a minute to seal it shut. Brown all 4 sides, and remove from the heat. Sprinkle cinnamon on top, cut in half, and serve
 - <img src='/assets/Food/Finger Food/Banana chimichanga/pan.jpg' alt='' class='instruction-image'>
 Notes:
-- For a <a href='/misc/celiac'>gluten free</a> and higher <a href='/misc/protein'>protein</a> version, swap the <a href='/misc/grains#whole-wheat'>whole wheat</a> tortila for a <a href='/recipes/cottage-cheese-flatbread'>Cottage Cheese Flatbread</a>
+- For a <a href='/misc/celiac'>gluten free</a> and higher <a href='/misc/protein'>protein</a> version, swap the <a href='/recipes/tortilla'>whole wheat tortilla</a> for a <a href='/recipes/cottage-cheese-flatbread'>Cottage Cheese Flatbread</a>
 
 - |
   COMPARE(
     "bananachimichanga",
     "bananachimichangaprotein";
 
-    "Using <a href='#recipe'>Whole<br>Wheat Tortilla</a>",
-    "Using <a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese Flatbread</a>";
+    "With <a href='#recipe'>Whole<br>Wheat<br>Tortilla</a>",
+    "With <a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese<br>Flatbread</a>";
 
     "Calories",
     "Protein",

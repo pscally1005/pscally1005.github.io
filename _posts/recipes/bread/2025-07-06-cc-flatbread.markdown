@@ -81,10 +81,10 @@ Notes:
     "ccflatbreadpsyllium",
     "ccflatbread";
 
-    "Egg<br>Whites<br>With<br>Psyllium<br>Husk",
-    "Egg<br>Whtes<br><br>Without<br>Psyllium<br>Husk",
-    "Whole<br>Eggs<br>With<br>Psyllium<br>Husk",
-    "Whole<br>Eggs<br>Without<br>Psyllium<br>Husk";
+    "<a href='/misc/meat#egg-whites'>Egg<br>Whites</a><br>With<br>Psyllium<br>Husk",
+    "<a href='/misc/meat#egg-whites'>Egg<br>Whtes</a><br>Without<br>Psyllium<br>Husk",
+    "<a href='/misc/meat#eggs'>Whole<br>Eggs</a><br>With<br>Psyllium<br>Husk",
+    "<a href='/misc/meat#eggs'>Whole<br>Eggs</a><br>Without<br>Psyllium<br>Husk";
 
     "Calories",
     "Protein",
