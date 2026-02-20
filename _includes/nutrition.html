@@ -79,6 +79,7 @@
         {% assign ing = page.file | append: "-ing" %}
         {% assign facts = page.file | append: "-facts" %}
     {% endif %}
+    {% assign ingBackup = ing %}
 
     <!-- Multiplication factor (if necessary) -->
     {% assign factor = 1.0 %}
@@ -161,6 +162,7 @@
 
         <!-- Loop Variables -->
         {% assign loopVarIng = site.data[ing] %}
+        {% assign loopVarIngBackup = loopVarIng %}
         {% assign loopVarFacts = site.data[facts] %}
         {% if include.folder %}
             {% assign folder = include.folder %}
@@ -365,6 +367,7 @@
 
         <!-- Calculate added sugar, sugar alcohols, allulose, gluten, and lactose -->
         {% assign servings = 1 | times: 1 %}
+        {% assign loopVarIng = loopVarIngBackup %}
         {% for row in loopVarIng %}
             {% if forloop.last %}
                 {% assign servings = row["Amount"] | times: 1 %}
@@ -427,8 +430,9 @@
 
             <div class='cals'>
                 ------------------------------------------<br>
-                {% if recipe == "true" %}
-                    {% include servings.html ing=include.ing %}
+                {% assign ing = ingBackup %}
+                {% if ing %}
+                    {% include servings.html ing=ing %}
                 {% endif %}
 
                 {% if page.servingSize and recipe == "true" %}

@@ -9,6 +9,12 @@
     {% assign ing = file | append: "-ing" %}
 {% endif %}
 
+{% for row in site.data[ing] %}
+    {% if forloop.last %}
+        {% assign base_servings = row["Amount"] | plus: 0 %}  <!-- Ensure it converts to a number -->
+    {% endif %}
+{% endfor %}
+
 {% if ing %}
     <!-- Servings Display -->
     <div id="nutritionServings">

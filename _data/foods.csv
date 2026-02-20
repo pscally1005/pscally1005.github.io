@@ -195,6 +195,7 @@ Red pepper flakes,red-pepper-flakes,1.44,49.00,0.02939,16,TRUE,TRUE,TRUE,TRUE,TR
 Low sodium soy sauce,soy-sauce,1.58,420.00,0.00376,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,
 "Soy sauce, low sodium, gluten free",soy-sauce,3.99,300.00,0.01330,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/44VXByC
 "Parsley, dried",parsley-dried,1.12,11.20,0.10000,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+Chicken,chicken-cooked,3.56,454.00,0.00784,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Boneless skinless chicken breast,chicken-breast,2.67,454.00,0.00588,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Plantain,plantain,0.60,454.00,0.00132,66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 "Plantain, yellow",plantain,0.60,454.00,0.00132,66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,

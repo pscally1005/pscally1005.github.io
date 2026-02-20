@@ -640,6 +640,15 @@ def vol_from_mass(food, mass, vol):
         elif mass == "136":
             v = "1/2 cup"
 
+    # Cucumber
+    elif food == "Cucumber":
+        if mass == "52":
+            v = "1/2 cup"
+        elif mass == "104":
+            v = "1 cup"
+        elif mass == "208":
+            v = "208"
+
     # Onions
     elif food == "Onion":
         if mass == "55":

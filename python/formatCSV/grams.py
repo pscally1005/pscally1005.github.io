@@ -776,6 +776,14 @@ def grams(food, mass, vol):
         elif vol == "16 tbsp" or vol == "1 cup":
             m = "336"
 
+    # Cucumber
+    elif food == "Cucumber":
+        if vol == "1/2 cup":
+            m = "52"
+        elif vol == "1 cup":
+            m = "104"
+        elif vol == "2 cup":
+            m = "208"
 
     # Onions
     elif food == "Onion":

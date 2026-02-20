@@ -77,7 +77,7 @@ LINKS = {
         "flax seed crackers",
         "flax seed cracker"
     ],
-    "/recipes/creamy-pesto": [
+    "/recipes/granola-bars": [
         "homemade granola bars",
         "homemade granola bar",
         "peanut butter banana granola bars",
@@ -101,6 +101,22 @@ LINKS = {
         "sugar free nutella",
         "sugar-free nutella"
     ],
+    "/recipes/chickpea-nutella": [
+        "no-nut chickpea nutella",
+        "no nut chickpea nutella",
+        "nut free nutella",
+        "chickpea nutella",
+        "low fat nutella",
+        "fat free nutella"
+    ],
+    "/recipes/quick-nutella": [
+        "single serving quick nutella",
+        "quick nutella",
+        "powdered peanut butter nutella",
+        "sugar free chocolate spread",
+        "sugar-free chocolate spread",
+        "chocolate spread"
+    ],
     "/recipes/gf-crackers": [
         "gluten free graham crackers",
         "gluten free graham cracker",
@@ -112,6 +128,7 @@ LINKS = {
         "healthy graham cracker"
     ],
     "/recipes/pizza": [
+        "home oven baked pizza",
         "homemade pizza dough",
         "homemade pizza",
         "pizza dough",
@@ -135,6 +152,8 @@ LINKS = {
         "how to make ground chicken"
     ],
     "/recipes/tortilla": [
+        "oat-wheat tortillas",
+        "oat wheat tortillas",
         "whole wheat tortillas",
         "whole wheat tortilla",
         "tortillas",
@@ -166,10 +185,12 @@ LINKS = {
         "super seed butter"
     ],
     "/recipes/protein-shake": [
+        "simple protein shake",
         "protein shake",
         "protein shakes"
     ],
     "/recipes/protein-bar": [
+        "100 calorie protein bars"
         "protein bar"
     ],
     "/recipes/taco": [
@@ -179,7 +200,31 @@ LINKS = {
     "/recipes/pita": [
         "pita",
         "pita bread",
-        "pocket pita"
+        "pocket pita",
+        "whole wheat pita bread",
+        "whole wheat pita"
+    ],
+    "/recipes/pretzel": [
+        "whole wheat hot pretzels",
+        "whole wheat hot pretzel",
+        "hot pretzels",
+        "hot pretzel",
+        "homemade hot pretzels",
+        "homemade hot pretzel"
+        "homemade pretzels",
+        "homemade pretzel"
+    ],
+    "/recipes/gluten-free-pretzels": [
+        "gluten free savory pretzels",
+        "gluten free savory pretzel",
+        "gluten free pretzels",
+        "gluten free pretzel",
+        "savory pretzels",
+        "savory pretzel",
+        "almond flour pretzels",
+        "almond flour pretzel",
+        "homemade gluten free pretzels",
+        "homemade gluten free pretzel"
     ],
     "/recipes/chia-pudding": [
         "chia pudding"
@@ -206,13 +251,13 @@ LINKS = {
         "chia jam",
         "strawberry jelly",
         "blueberry jelly",
-        "chia jelly"
-    ],
-    "/recipes/pickled-onions": [
-        "pickled onions",
-        "pickled onion",
-        "pickled red onions",
-        "pickled red onion"
+        "chia jelly",
+        "strawberry chia jam",
+        "strawberry chia jelly",
+        "blueberry chia jam",
+        "blueberry chia jelly",
+        "homemade chia jam",
+        "homemade chia jelly"
     ],
     "/misc/whole-wheat-sourdough#starter": [
         "starter",
@@ -244,16 +289,48 @@ LINKS = {
         "pasta sauce"
     ],
     "/recipes/nice-cream": [
-        "banana ice cream"
+        "banana nice cream",
+        "banana ice cream",
+        "nice cream",
+        "healthy ice cream",
+        "homemade nice cream",
+        "homemade ice cream",
+        "chocolate banana nice cream",
+        "chocolate banana ice cream"
+    ],
+    "/recipes/double-chocolate-banana-bread": [
+        "double chocolate banana bread",
+        "chocolate chip banana bread",
+        "chocolate banana bread"
+    ],
+    "/recipes/cookie-bar": [
+        "no bake cookie bars",
+        "no bake cookie bar",
+        "cookie bars",
+        "cookie bar",
+        "oat flour cookie bars",
+        "oat flour cookie bar",
+        "peanut butter banana cookie bars",
+        "peanut butter banana cookie bar"
     ],
     "/recipes/salsa": [
+        "five minute salsa (no garlic/onion)",
+        "five minute salsa",
+        "5 minute salsa (no garlic/onion)",
+        "5 minute salsa",
+        "homemade salsa",
         "salsa"
     ],
     "/recipes/guacamole": [
+        "holy guacamole",
+        "homemade guacamole",
+        "homemade guac",
         "guacamole",
         "guac"
     ],
     "/recipes/hot-sauce": [
+        "red jalapeno louisiana hot sauce",
+        "homemade hot sauce",
         "hot sauce"
     ],
     "/recipes/sugar-free-syrup": [
@@ -262,7 +339,8 @@ LINKS = {
         "sugar free syrup",
         "sugar-free syrup",
         "sf syrup",
-        "syrup"
+        "syrup",
+        "sfs"
     ],
     "/recipes/natural-peanut-butter": [
         "homemade natural peanut butters",
@@ -340,12 +418,24 @@ LINKS = {
         "cashew ricotta"
     ],
     "/recipes/smoothie": [
+        "protein fruit smoothies",
+        "protein fruit smoothie",
+        "fruit smoothies",
+        "fruit smoothie",
         "smoothies",
-        "smoothie"
+        "smoothie",
+        "smoothie bowls",
+        "smoothie bowl",
+        "protein smoothie bowls",
+        "protein smoothie bowl",
+        "fruit smoothie bowls",
+        "fruit smoothie bowl"
     ],
     "/recipes/ww-bread": [
         "my classic bread recipe",
         "whole wheat bread",
+        "100% whole wheat bread",
+        "homemade whole wheat bread"
     ],
     "/recipes/whole-wheat-bagels": [
         "whole wheat bagles",
@@ -401,6 +491,10 @@ LINKS = {
         "honey ketchup"
     ],
     "/recipes/chili": [
+        "slow cooker chili",
+        "crockpot chili",
+        "homemade chili",
+        "my chili recipe",
         "chili"
     ],
     "/recipes/creamy-pesto": [
@@ -602,7 +696,314 @@ LINKS = {
         "store bough rotisserie chicken",
         "rotisserie chicken"
     ],
-
+    "/recipes/gluten-free-millet-bread": [
+        "gluten free millet bread",
+        "millet bread"
+    ],
+    "/recipes/classic-tahini-hummus": [
+        "classic tahini hummus",
+        "classic hummus",
+        "tahini hummus"
+    ],
+    "/recipes/veggie-ground": [
+        "high protein veggie ground",
+        "protein veggie ground",
+        "veggie ground"
+    ],
+    "/recipes/baked-beans": [
+        "no added sugar baked beans",
+        "sugar free baked beans",
+        "sugar-free baked beans",
+        "homemade baked beans",
+        "unsweetened baked beans"
+    ],
+    "/recipes/brownies": [
+        "classic fudgy brownies",
+        "classic brownies",
+        "classic fudgy brownie",
+        "classic fudgy brownie",
+        "traditional brownies",
+        "traditional brownie"
+    ],
+    "/recipes/chocolate-chip-cookies": [
+        "classic chocolate chip cookies",
+        "classic cookies",
+        "classic chocolate chip cookie",
+        "classic cookie",
+        "traditional chocolate chip cookies",
+        "traditional cookies",
+        "traditional chocolate chip cookie",
+        "traditional cookie"
+    ],
+    "/recipes/chocolate-chip-date-cookies": [
+        "chocolate chip date cookies",
+        "date cookies",
+        "chocolate chip date cookie",
+        "date cookie"
+    ],
+    "/recipes/double-chocolate-date-cookies": [
+        "double chocolate date cookies",
+        "double chocolate date cookie"
+    ],
+    "/recipes/peanut-butter-date-cookies": [
+        "peanut butter date cookies",
+        "peanut butter date cookie",
+        "pb date cookies",
+        "pb date cookie"
+    ],
+    "/recipes/min-chocolate-chip-date-cookies": [
+        "mint chocolate chip date cookies",
+        "mint chocolate chip date cookie",
+        "mint chocolate cookies",
+        "mint chocolate cookie",
+        "mint cookies",
+        "mint cookie"
+    ],
+    "/recipes/oatmeal-raisin-cookies": [
+        "naturally sweetened oatmeal raisin cookies",
+        "naturally sweetened oatmeal raisin cookie",
+        "oatmeal raisin cookies",
+        "oatmeal raisin cookie"
+    ],
+    "/recipes/cauliflower-rice": [
+        "simple cauliflower rice",
+        "cauliflower rice"
+    ],
+    "/recipes/burger-patties": [
+        "simple burger patties",
+        "simple burger patty",
+        "burger patties",
+        "burger patty",
+        "burgers",
+        "burger"
+    ],
+    "/recipes/burger-buns": [
+        "no yeast whole wheat burger buns",
+        "no yeast whole wheat burger bun",
+        "no yeast burger buns",
+        "no yeast burger bun",
+        "whole wheat burger buns",
+        "whole wheat burger bun",
+        "burger buns",
+        "burger bun"
+    ],
+    "/recipes/oat-wraps": [
+        "gluten free oat wraps",
+        "gluten free oat wrap",
+        "gluten free wraps",
+        "gluten free wrap",
+        "oat wraps",
+        "oat wrap",
+        "wraps",
+        "wrap"
+    ],
+    "/recipes/coconut-bread": [
+        "gluten and grain free coconut bread",
+        "gluten free coconut bread",
+        "grain free coconut bread",
+        "keto coconut bread",
+        "coconut bread"
+    ],
+    "/recipes/irish-soda-bread": [
+        "whole wheat and oat flour irish soda bread",
+        "whole wheat irish soda bread",
+        "oat flour irish soda bread",
+        "irish soda bread",
+        "soda bread"
+    ],
+    "/recipes/unsweetened-hot-cocoa": [
+        "unsweetened hot cocoa",
+        "unsweetened hot chocolate",
+        "sugar-free hot cocoa",
+        "sugar-free hot chocolate",
+        "sugar free hot cocoa",
+        "sugar free hot chocolate",
+        "hot cocoa",
+        "hot chocolate"
+    ],
+    "/recipes/hot-chocolate": [
+        "high protein hot cocoa",
+        "high protein hot chocolate",
+        "protein hot cocoa",
+        "protein hot chocolate"
+    ],"/recipes/rice-and-beans": [
+        "classic rice and beans",
+        "classic rice & beans",
+        "rice and beans",
+        "rice & beans"
+    ],
+    "/recipes/avocado-toast": [
+        "versatile avocado toast",
+        "avocado toast"
+    ],
+    "/recipes/baked-sweet-potato": [
+        "baked sweet potatoes",
+        "baked sweet potato",
+        "baked potatoes",
+        "baked potato"
+    ],
+    "/recipes/pulled-chicken": [
+        "bbq pulled chicken and coleslaw",
+        "bbq pulled chicken",
+        "pulled chicken",
+        "pulled pork",
+        "bbq chicken",
+        "barbeque chicken",
+        "barbeque pulled chicken and coleslaw",
+        "barbeque pulled chicken"
+    ],
+    "/recipes/sweet-potato-fries": [
+        "spices sweet potato fries",
+        "sweet potato fries"
+    ],
+    "/recipes/chicken-jerky": [
+        # "beef jerky",
+        "air fryer chicken jerky",
+        "chicken jerky"
+    ],
+    "/recipes/pickled-onions": [
+        "quick pickled red onions",
+        "pickled red onions",
+        "quick pickled red onion",
+        "pickled red onion",
+        "quick pickled onions",
+        "quick pickled onion",
+        "pickled onions",
+        "pickled onion",
+        "pickled red onions",
+        "pickled red onion"
+    ],
+    "/recipes/bolognese": [
+        "dutch oven bolognese sauce",
+        "homemade bolognese sauce",
+        "homemade bolognese",
+        "bolognese sauce",
+        "bolognese"
+    ],
+    "/recipes/hard-boiled-egg": [
+        "hard boiled eggs: stovetop or air fryer",
+        "hard boiled egg: stovetop or air fryer"
+        "hard boiled eggs",
+        "hard boiled egg",
+        "eggs, hard boiled",
+        "egg, hard boiled"
+    ],
+    "/recipes/chocolate-bar": [
+        "sugar free chocolate bar",
+        "sugar-free chocolate bar",
+        # "homemade choocolate bar",
+        "unsweetened chocolate bar"
+    ],
+    "/misc/chocolate-percentages": [
+        "make your own dark chocolate",
+        "homemade dark chocolate",
+        "homemade chocolate bars",
+        "homemade chocolate bar",
+        "homemade chocolate"
+    ],
+    "/misc/pinto-bean-cake": [
+        "improving the pinto bean cake",
+        "pinto bean cake"
+    ],
+    "/recipes/sugar-cookies": [
+        "decorative sugar cookies",
+        "decorative sugar cookie",
+        "decorating sugar cookies",
+        "decorating sugar cookie",
+        "sugar cookies",
+        "sugar cookie"
+    ],
+    "/misc/homemade-flours": [
+        "homemade flours",
+        "homemade flour"
+    ],
+    "/recipes/spaghetti-squash": [
+        "spaghetti squash cooked 3 ways",
+        "spaghetti squash cooked three ways",
+        "cooked spaghetti squash"
+    ],
+    "/recipes/bannaa-bread-hummus": [
+        "banana bread hummus spread",
+        "banana bread hummus",
+        "homemade dessert hummus",
+        "dessert hummus",
+    ],
+    "/recipes/cloud-bread-loaf": [
+        "cloud bread loaf",
+        "cloud bread"
+    ],
+    "/recipes/keto-bread-loaf": [
+        "keto bread loaf recipe",
+        "keto bread loaf",
+        "keto bread"
+    ],
+    "/recipes/cauliflower-pizza": [
+        "gluten free pizza crust",
+        "gluten free pizza",
+        "cauliflower flaxseed pizza crust",
+        "cauliflower flax seed pizza crust",
+        "cauliflower flaxseed pizza",
+        "cauliflower flax seed pizza",
+        "cauliflower pizza"
+    ],
+    "/recipes/pico-de-gallo": [
+        "simple pico de gallo",
+        "homemade pico de gallo",
+        "pico de gallo"
+    ],
+    "/recipes/no-honey-mustard": [
+        "no-honey mustard dressing",
+        "no honey mustard dressing",
+        "honey mustard dressing",
+    ],
+    "/recipes/buffalo-chicken-dip": [
+        "high protein buffalo chicken dip",
+        "homemade buffalo chicken dip",
+        "buffalo chicken dip",
+        "buffalo dip"
+    ],
+    "/recipes/spinach-artichoke-dip": [
+        "lightened up spinach artichoke dip",
+        "homemade spinach artichoke dip",
+        "spinach artichoke dip",
+        "spinach artichoke"
+    ],
+    "/recipes/cheese-bean-dip": [
+        "cheesy bean dip",
+        "homemade bean dip",
+        "bean dip"
+    ],
+    "/recipes/greek-yogurt-caesar-dressing": [
+        "greek yogurt caesar dressing",
+        "yogurt carsear dressing",
+        "greek yogurt casesar",
+        "healthier caesar dressing",
+        "healthy caesar dressing",
+        "homemade caesar dressing"
+    ],
+    "/recipes/french-onion-dip": [
+        "low fat french onion dip",
+        "homemade french onion dip"
+    ],
+    "/recipes/caramelized-onions": [
+        "slow cooker caramelized onions",
+        "slow cooker caramelized onion",
+        "caramelized onions",
+        "caramelized onion"
+    ],
+    "/recipes/evoo-pesto": [
+        "lightened extra virgin olive oil pesto",
+        "lightened evoo pesto",
+        "extra virgin olive oil pesto",
+        "evoo pesto",
+        "olive oil pesto"
+    ],
+    "/recipes/pesto-classico": [
+        "pesto classico",
+        "classic pesto",
+        "traditional pesto",
+        "basil pesto"
+    ],
 
     # DISEASES
     "/misc/celiac": [
@@ -1918,7 +2319,6 @@ LINKS = {
     ],
     "/misc/veggies#cauliflower": [
         "mashed cauliflower",
-        "cauliflower rice",
         "cauliflower"
     ],
     "/misc/veggies#celery": [
@@ -3252,7 +3652,7 @@ LINKS = {
         "honey mustard",
         "ranch dressing",
         "ranch",
-        "french onin dip",
+        "french onion dip",
         "mayo-based",
         "mayo",
         "ketchup",
@@ -3715,7 +4115,7 @@ EXCLUDED_PHRASES = [
     "spread to",
     "apple bread",
     "chickpea chows",
-    "dessert hummus",
+    # "dessert hummus",
     "banana brownies",
     "2 cookies",
     "be baking",
@@ -3756,9 +4156,8 @@ EXCLUDED_PHRASES = [
     "tuna-salad-salad",
     "tuna-salad",
     "french onion soup",
-    "french onion dip",
-    "buffalo chicken",
-    "spinach artichoke",
+    # "french onion dip",
+    # "spinach artichoke",
     '"meat"-loaf',
     "by baking for",
     "cheesy rice",
@@ -3955,7 +4354,7 @@ EXCLUDED_PHRASES = [
     "egg noodles",
     "egg noodle",
     "egg pasta",
-    "oatmeal raisin",
+    # "oatmeal raisin",
     "noodle soup",
     "noodle stew",
     "chicken noodle",
@@ -3979,6 +4378,7 @@ EXCLUDED_PHRASES = [
     "mode at 170F",
     "chicken florentine",
     "buffalo chicken",
+    # "buffalo chicken dip",
     "barbeque chicken",
     "bbq chicken",
     "lemon chicken",
@@ -4038,7 +4438,7 @@ EXCLUDED_PHRASES = [
     "rice like",
     "dusted flour",
     "sifted flour",
-    "pizza dough",
+    # "pizza dough",
     "leftover bread",
     "so toast",
     "- flour",
@@ -4055,7 +4455,7 @@ EXCLUDED_PHRASES = [
     "part skim",
     "while baking",
     "continue baking",
-    "irish soda",
+    # "irish soda",
     "remaining pretzels",
     "the pretzel",
     "each pretzel",
@@ -4083,10 +4483,10 @@ EXCLUDED_PHRASES = [
     "your brownie",
     "cookie cutters",
     "cookie cutter",
-    "decorative cookies",
-    "decorating cookies",
-    "decorative cookie",
-    "decorating cookie",
+    # "decorative cookies",
+    # "decorating cookies",
+    # "decorative cookie",
+    # "decorating cookie",
     "sugar cookies",
     "sugar cookie",
     "and oil a",
@@ -4386,10 +4786,10 @@ EXCLUDED_PHRASES = [
     "coconut yogurt",
     "english muffins",
     "english muffin",
-    "smoothie bowls",
-    "smoothie bowl",
-    "protein shakes",
-    "protein shake",
+    # "smoothie bowls",
+    # "smoothie bowl",
+    # "protein shakes",
+    # "protein shake",
     # "protein bars",
     # "protein bar",
     "flavored rice dishes",

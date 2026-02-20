@@ -74,22 +74,8 @@ Instructions:
 Notes:
 - I've gone with <a href='/misc/nuts#peanuts'>peanuts</a> here, but any <a href='/misc/nuts'>nuts</a> or <a href='/misc/seeds'>seeds</a> will work, such as <a href='/misc/nuts#almonds'>almonds</a>, <a href='/misc/nuts#brazil-nuts'>Brazil nuts</a>, <a href='/misc/nuts#cashews'>cashews</a>, <a href='/misc/nuts#hazelnuts'>hazelnuts</a>, <a href='/misc/nuts#macadamia-nuts'>macadamia nuts</a>, <a href='/misc/nuts#pecans'>pecans</a>, <a href='/misc/nuts#pistachios'>pistachios</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a>, <a href='/misc/seeds#sesame-seeds'>sesame seeds</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seeds</a>, or <a href='/misc/nuts#walnuts'>walnuts</a>
 
-- |
-  Prepare 4 airtight containers. Evenly divide your ingredients 4 ways across the containers. That means that each bowl gets the following
-  <ul>
-    <li>1/2 medium (55 g) <a href='/misc/fruit#banana'>Banana</a>, mashed</li>
-    <li>1/4 cup (64 g) <a href='/recipes/natural-peanut-butter'>Natural peanut butter</a></li>
-    <li>2 tbsp (10 g) Cocoa powder</li>
-    <li>1 scoop (30 g) <a href='/misc/dairy#casein'>Casein protein powder</a>, unflavored</li>
-    <li>1 scoop (5 g) <a href='/misc/creatine'>Creatine monohydrate</a></li>
-    <li>1 scoop (1.8 g) <a href='/misc/magnesium'>Magnesium glycinate</a></li>
-    <li>1/2 tsp (1.5 g) Cinnamon, ground</li>
-    <li>1/4 tsp (0.5 g) Ginger, ground</li>
-    <li>1/2 tsp (2.5 g) Vanilla extract</li>
-    <li>1/4 tsp (1.25 g) Liquid monk fruit</li>
-    <li>1 tbsp (15 g) Balsamic vinegar</li>
-    <li>1/2 cup (120 g) Water</li>
-  </ul>
+- Prepare 4 airtight containers. Evenly divide your ingredients 4 ways across the containers. That means that each bowl gets the following
+- INGREDIENTS(chocelectrobowlone)
 
 - Why vinegar? The slight fruity sourness provides a great flavor contrast to the chocolate and <a href='/misc/nuts#peanuts'>peanut butter</a> that <a href='/misc/dairy#yogurt'>yogurt</a> would normally provide.  However, I've used <a href='/misc/dairy#casein'>casein protein powder</a> as the sole <a href='/misc/protein'>protein</a> source here instead of <a href='/misc/dairy#yogurt'>Greek yogurt</a>, so the vinegar helps round out the flavor.  Good options include balsamic, red wine, or <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>
 ---

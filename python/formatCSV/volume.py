@@ -77,7 +77,7 @@ def fix(vol):
         v = "3/4 cup"
     elif vol == "0.815 cup":
         v = "7/8 cup"
-    elif vol == "1 cup, shredded" or vol == "0.9975 cup" or vol == "0.914 cup" or vol == "0.98 cup" or vol == "1.95 1/2 cup" or vol == "0.99 cup" or vol == "1 cup whole kernels" or vol == "0.922 cup" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
+    elif vol == "1 cup slices" or vol == "1 cup, shredded" or vol == "0.9975 cup" or vol == "0.914 cup" or vol == "0.98 cup" or vol == "1.95 1/2 cup" or vol == "0.99 cup" or vol == "1 cup whole kernels" or vol == "0.922 cup" or vol == "0.9 cup, whole" or vol == "1 cup, whole" or vol == "4 1/4 cup" or vol == "0.9225 cup" or vol == "0.921 cup" or vol == "16 tbsp" or vol == "16 Tbsp" or vol == "1 cup (240.0 ml) aprx" or vol == "1 cup, frozen" or vol == "1 cup, crumbled" or vol == "48 tsp (5.0 ml) aprx" or vol == "1 cup, unthawed" or vol == "48 tsp" or vol == "50 tsp":
         v = "1 cup"
     elif vol == "1.0989 cup":
         v = "1 heaping cup"
