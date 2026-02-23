@@ -97,8 +97,8 @@ Notes:
     "nonutproteinbananabread",
     "nonutproteinbananabreadchoc";
 
-    "Regular<br><a href='/misc/fruit#banana'>Banana</a> Bread",
-    "Chocolate<br><a href='/misc/fruit#banana'>Banana</a> Bread";
+    "Regular<br><a href='/misc/fruit#banana'>Banana</a><br>Bread",
+    "Chocolate<br><a href='/misc/fruit#banana'>Banana</a><br>Bread";
 
     "Calories",
     "Protein",

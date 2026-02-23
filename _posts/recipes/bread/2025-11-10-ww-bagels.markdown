@@ -97,9 +97,9 @@ Notes:
     "ccbagel",
     "loxbagel";
 
-    "Plain<br>Bagel",
-    "<a href='/misc/homemade-cheese#labneh'>Cream Cheese</a><br>Bagel",
-    "Lox<br>Bagel";
+    "Plain<br><a href='#recipe'>Bagel</a>",
+    "<a href='/misc/homemade-cheese#labneh'>Cream<br>Cheese</a><br><a href='#recipe'>Bagel</a>",
+    "<a href='/misc/fish#salmon'>Lox</a><br><a href='#recipe'>Bagel</a>";
 
     "Calories",
     "Protein",

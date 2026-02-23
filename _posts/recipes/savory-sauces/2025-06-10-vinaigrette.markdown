@@ -62,8 +62,8 @@ Notes:
     "vinaigrette",
     "kensbalsamic";
 
-    "<a href='/salad-dressings'>Homemade Dressing</a>",
-    "<a href='https://www.walmart.com/ip/Ken-s-Steak-House-Balsamic-Vinaigrette-Salad-Dressings-16-fl-oz/10307556?classType=VARIANT&from=/search'>Bottled Dressing</a>";
+    "<a href='/salad-dressings'>Homemade<br>Dressing</a>",
+    "<a href='https://www.walmart.com/ip/Ken-s-Steak-House-Balsamic-Vinaigrette-Salad-Dressings-16-fl-oz/10307556?classType=VARIANT&from=/search'>Bottled<br>Dressing</a>";
 
     "Calories",
     "Protein",

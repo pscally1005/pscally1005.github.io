@@ -69,7 +69,7 @@ Notes:
     "pbcc",
     "pbccchickpea";
 
-    "With<br><a href='/misc/dairy#cottage-cheese'>Cottage Cheese</a>",
+    "With<br><a href='/misc/dairy#cottage-cheese'>Cottage<br>Cheese</a>",
     "With<br><a href='/misc/beans#chickpeas'>Chickpeas</a>";
 
     "Calories",

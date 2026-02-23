@@ -73,8 +73,8 @@ Notes:
     "lasagnaboatscashew",
     "lasagnaboatsricotta";
 
-    "With <a href='/recipes/cashew-ricotta-cheese'>Cashew<br>Ricotta Cheese</a>",
-    "With Standard<br><a href='/misc/homemade-cheese#ricotta'>Ricotta Cheese</a>";
+    "With <a href='/recipes/cashew-ricotta-cheese'>Cashew<br>Ricotta<br>Cheese</a>",
+    "With<br>Standard<br><a href='/misc/homemade-cheese#ricotta'>Ricotta<br>Cheese</a>";
 
     "Calories",
     "Protein",
