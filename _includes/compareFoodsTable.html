@@ -126,31 +126,29 @@
                 </tr>
             {% endfor %}
 
-            {% if include.cost == "true" and include.folder %}
+            {% if include.cost == "true" %}
                 <tr>
                     <td>Cost</td>
 
-                    {% assign folder = include.folder %}
-                    {% assign loopVar = site.data[folder][include.ing] %}
+                    {% assign loopVar = site.data[include.ing] %}
                     {% for f in files %}
                         <td>
                             {% assign ing_file = f | append: "-ing" %}
-                            {% include calcCost.html ing=ing_file folder=folder %}
+                            {% include calcCost.html ing=ing_file %}
                         </td>
                     {% endfor %}
                 </tr>
             {% endif %}
 
-            {% if include.mass == "true" and include.folder %}
+            {% if include.mass == "true" %}
                 <tr>
                     <td>Filling Weight</td>
 
-                    {% assign folder = include.folder %}
-                    {% assign loopVar = site.data[folder][include.ing] %}
+                    {% assign loopVar = site.data[include.ing] %}
                     {% for f in files %}
                         <td>
                             {% assign ing_file = f | append: "-ing" %}
-                            {% include calcMass.html ing=ing_file folder=folder %}
+                            {% include calcMass.html ing=ing_file %}
                         </td>
                     {% endfor %}
                 </tr>

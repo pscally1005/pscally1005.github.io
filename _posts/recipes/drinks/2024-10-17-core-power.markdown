@@ -56,6 +56,22 @@ Instructions:
 Notes:
 - For chocolate instead of vanilla, omit, the vanilla extract, and instead use 1 tbsp (5 g) of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
 
-- You can also sweeten this with a <a href='https://www.amazon.com/dp/B07XQ61Y2Y?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TXCU8LZNT4TO&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3TXCU8LZNT4TO_1751467880758'>flavored electrolyte mix</a> as well, like I did in my <a href='/recipes/electrolyte-protein-shake'>Electrolyte Protein Shake</a>.  Just replace the vanilla and liqud monk fruit with your electrolyte mix
-- <a href='/recipes/electrolyte-protein-shake'><img src='/assets/Food/Drinks/Salt Shake/salt-shake.jpg' alt='' class='instruction-image'></a>
+- Alternatively, you can use <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> instead of fairlife <a href='/misc/skim-milk'>skim milk</a> to make it even cheaper.  In that case, increase the <a href='/misc/dairy#whey'>whey</a> to 1 1/2 scoops (45 g)
+
+- |
+  COMPARE(
+    "corepower",
+    "corepoweralmondmilk";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "With<br><a href='/misc/dairy#almond-milk'>Almond Milk</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs"
+  )
+
+# - You can also sweeten this with a <a href='https://www.amazon.com/dp/B07XQ61Y2Y?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TXCU8LZNT4TO&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3TXCU8LZNT4TO_1751467880758'>flavored electrolyte mix</a> as well, like I did in my <a href='/recipes/electrolyte-protein-shake'>Electrolyte Protein Shake</a>.  Just replace the vanilla and liqud monk fruit with your electrolyte mix
+# - <a href='/recipes/electrolyte-protein-shake'><img src='/assets/Food/Drinks/Salt Shake/salt-shake.jpg' alt='' class='instruction-image'></a>
 ---

@@ -87,7 +87,17 @@
                               {% endfor %}
                           {% endcomment %}
 
-                          {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+                          {% assign costFlg = "false" %}
+                          {% if page.title == "Copycat Core Power Protein Milkshake" or page.title == "Copycat Barebell Protein Bars" %}
+                            {% assign costFlg = "true" %}
+                          {% endif %}
+
+                          {% assign massFlg = "false" %}
+                          {% if page.title == "Copycat Barebell Protein Bars" %}
+                            {% assign massFlg = "true" %}
+                          {% endif %}
+
+                          {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" cost=costFlg mass=massFlg %}
                           <ol start="{{ note_number }}">
 
                       <!-- Print note -->
