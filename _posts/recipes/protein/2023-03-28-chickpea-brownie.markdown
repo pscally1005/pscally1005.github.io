@@ -88,7 +88,7 @@ Notes:
 
 - Any liquid sweetener will work in place of honey, like maple syrup, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or <a href='/misc/homemade-fruit-syrup'>Homemade Fruit Syrup</a>
 
-- You can also use <a href='https://amzn.to/3SqwsMO'>liquid stevia or monk fruit</a>.  Replace the honey with about 2 tsp (10 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or stevia.  Again, taste the batter and adjust the sweetness to your personal preferences
+- You can also use <a href='https://amzn.to/3SqwsMO'>liquid stevia or monk fruit</a>.  Replace the honey with about 2 tsp (10 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit or stevia</a>.  Again, taste the batter and adjust the sweetness to your personal preferences
 
 - <a href='/misc/fruit#apple'>Unsweetened applesauce</a>, <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a>, <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a>, or <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> will all work in place of ripe <a href='/misc/fruit#banana'>bananas</a>
 
@@ -99,8 +99,11 @@ Notes:
 - To make this into a layer cake, bake the batter in two <a href='https://amzn.to/4q0gY0f'>9" circle cake pans</a> for about 40 minutes, covered with foil. Spread frosting on the middle layer, the top, and down the sides. Dust the top with <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
 - <img src='/assets/Food/Protein Powder/Chickpea Brownie/chickpea-cake.jpg' alt='' class='instruction-image'>
 
-- For a frosting, you can also use my either <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a> or <a href='/recipes/date-frosting'>Date Sweetened Frosting</a> as frostings too!
-
-- Or, you can also make a frosting with the following ingredients
+- Here's a simple protein frosting recipe
 - INGREDIENTS(chickpeabrowniefrosting)
+
+- If you make a layer cake with the above frosting and cut the cake into 12 slices, this will yield the following nutrition facts
+- FACTS(chickpeabrownielayercake)
+
+- Or you can use either my <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a> or <a href='/recipes/date-frosting'>Date Sweetened Frosting</a> as frostings too!
 ---

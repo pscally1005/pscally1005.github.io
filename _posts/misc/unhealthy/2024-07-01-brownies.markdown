@@ -47,7 +47,7 @@ tags:
 - vanilla
 Description: I think of a single person who doesn't like <a href='/brownies'>brownies</a>. As with my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, here's a standard standard recipe, with <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a>. I like to bake traditional desserts occasionally, and these are ones that you know everyone will love at a party. They're not healthy at all, unlike most things on this page, but that's okay; enjoy these in morderation.  Or check out any of my other healthy <a href='/brownies'>brownie recipes</a>!
 Instructions:
-- Preheat your oven to 350F, and grease either an <a href='https://amzn.to/4kzchJ3'>11.5x7"</a> or a <a href='https://amzn.to/4mAvtr9'>9x9"</a> pan with oil. Make sure to coat it well; you don't want the brownies to stick to the pan
+- Preheat your oven to 350F, and grease a <a href='https://amzn.to/4mAvtr9'>square 9x9" pan</a> with oil. Make sure to coat it well; you don't want the brownies to stick to the pan
 
 - Melt your <a href='/misc/dairy#butter'>butter</a> in the microwave. Combine together melted <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/fats'>oil</a>, and <a href='/misc/hidden-sugar'>sugar</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until the <a href='/misc/hidden-sugar'>sugar</a> is very well incorporated, about a minute
 
@@ -60,7 +60,7 @@ Instructions:
 - Bake at 350F for about 20-25 minutes. Just until the center of the brownies no longer jiggles and is set to the touch. A toothpick should come out slightly dirty. Too wet and the brownies are raw; clean and the brownies are overcooked
 
 - Allow the brownies to cool in the fridge for at least 30 minutes before slicing with a plastic knife
-- <img src='/assets/Misc/Unhealthy/Brownies/sliced.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Misc/Unhealthy/Brownies/sliced.jpg' alt='' class='instruction-image'>
 Notes:
 - Omit the salt if using salted <a href='/misc/dairy#butter'>butter</a>
 
@@ -76,7 +76,7 @@ Notes:
 
 - Since brownies don't use that much flour, they can easily be made <a href='/misc/celiac'>gluten free</a>.  Just replace the <a href='/misc/grains#white-wheat'>all purpose flour</a> with either <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/grains#oats'>oat flour</a>.  Obviously, you won't have to worry about over mixing the batter and developing the gluten if it's <a href='/misc/celiac'>gluten free</a>
 
-- Optional, but recommend if you have the patience - let the batter sit in pan in the fridge overnight (covered with foil). This step further dissolves the sugar into the batter, leading to the glossy skin on top characteristic of boxed brownies. This step is really only necessary if you swap the powdered sugar for granulated sugar. The powdered sugar is much more fine, and as such will dissolve much more easily into the batter. Granulated sugar on the other hand will leave grainy sugar crystals in your raw batter, preventing <a href='/brownies'>brownie</a> skin. Letting the sugar dissolve overnight breaks down these crystals, leading to a better brownie texture
+- Optional, but recommend if you have the patience - let the batter sit in pan in the fridge overnight (covered with foil). This step further dissolves the sugar into the batter, leading to the glossy skin on top characteristic of boxed brownies. This step is really only necessary if you swap the powdered sugar for granulated sugar. The powdered sugar is much more fine, and as such will dissolve much more easily into the batter. Granulated sugar on the other hand will leave grainy sugar crystals in your raw batter, preventing brownie skin. Letting the sugar dissolve overnight breaks down these crystals, leading to a better brownie texture
 
-- I got 24 squares out of my glass 11.5x7" pan, but I'll get 16 slightly bigger brownies from a <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.  Nutrition facts are assuming 24 brownies
+# - I got 24 squares out of my glass 11.5x7" pan, but I'll get 16 slightly bigger brownies from a <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.  Nutrition facts are assuming 24 brownies
 ---

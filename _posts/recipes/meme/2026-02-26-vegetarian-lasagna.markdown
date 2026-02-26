@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Vegetarian Protein Lasagna
-date:   2026-02-04 00:00:00 -0500
+date:   2026-02-26 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

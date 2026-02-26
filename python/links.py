@@ -3031,7 +3031,10 @@ LINKS = {
     "https://amzn.to/3SqwsMO": [
         "liquid monk fruit",
         "liquid stevia or monk fruit",
+        "liquid monk fruit or stevia",
+        "liquid monk fruit (or stevia)",
         "liquid stevia (or monk fruit)",
+        "liquid stevia",
         "liquid stevia/monk fruit",
         "liquid monk fruit/stevia"
     ],
