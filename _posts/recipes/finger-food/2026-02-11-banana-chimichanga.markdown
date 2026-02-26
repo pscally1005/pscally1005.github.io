@@ -68,8 +68,8 @@ Notes:
     "bananachimichanga",
     "bananachimichangaprotein";
 
-    "With <a href='#recipe'>Whole<br>Wheat<br>Tortilla</a>",
-    "With <a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese<br>Flatbread</a>";
+    "With<br><a href='#recipe'>Whole<br>Wheat<br>Tortilla</a>",
+    "With<br><a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese<br>Flatbread</a>";
 
     "Calories",
     "Protein",
