@@ -155,13 +155,13 @@
             {% endif %}
         </tbody>
     </table>
-</div>
 
-{% if include.scroll and scroll == "true" %}
-<div>
-  <i>Scroll to the right to read information about every variation</i>
+    {% if include.scroll and scroll == "true" %}
+        <div class="scroll-note" style="display:none;">
+          <i>Scroll right for more</i>
+        </div>
+    {% endif %}
 </div>
-{% endif %}
 
 {% if include.pic %}
 <br>
@@ -170,19 +170,43 @@
 </div>
 {% endif %}
 
-{% if page.title != "Overshadowed Healthy Foods" and page.title != "Nutrient Comparisons of Similar Foods" %}
-<hr>
-{% else %}
-<br>
-{% endif %}
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+      const tables = document.querySelectorAll(".table-container");
+
+      tables.forEach(container => {
+        const table = container.querySelector("table");
+        const note = container.querySelector(".scroll-note");
+
+        if (!table || !note || !note.classList.contains("scroll-note")) return;
+
+        function checkOverflow() {
+          if (table.scrollWidth > container.clientWidth) {
+            note.style.display = "block";
+          } else {
+            note.style.display = "none";
+          }
+        }
+
+        checkOverflow();
+        window.addEventListener("resize", checkOverflow);
+      });
+
+    });
+</script>
 
 <style>
+    .scroll-note {
+        margin: 0px;
+    }
+
     table {
         border-collapse: collapse;
-        width: max-content;
-        max-width: 100%;
+        width: 100%;
         table-layout: auto;
         text-align: center;
+        margin-bottom: 0px;
     }
 
     th, td {
@@ -202,7 +226,20 @@
     .table-container {
         overflow-x: auto; /* Adds horizontal scrolling if needed */
         max-width: 100%;
-        display: flex;
-        justify-content: center; /* Centers the table */
+        gap: 0px;
+    }
+
+    @media (max-width: 768px) {
+        table {
+            width: max-content;   /* only as wide as needed */
+            max-width: 100%;
+        }
+
+        .table-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
     }
 </style>

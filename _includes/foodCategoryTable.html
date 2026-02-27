@@ -118,24 +118,29 @@
             {% endfor %}
         </tbody>
     </table>
+
+    {% if include.scroll and scroll == "true" %}
+        <i>Scroll right for more</i>
+    {% endif %}
 </div>
 
-{% if include.scroll and scroll == "true" %}
-    <i>Scroll to the right to read information about every variation</i><br><br>
-{% endif %}
-
+<br>
 <div class="image-row">
   <img src='/assets/Misc/Nutrition/Foods/nutrition-facts-label.png' alt='' class='smaller-image'>
-</div><br><br>
+</div>
 <hr>
 
 <style>
+    .scroll-note {
+        margin: 0px;
+    }
+
     table {
         border-collapse: collapse;
         width: 100%;
-        max-width: 100%;
         table-layout: auto;
         text-align: center;
+        margin-bottom: 0px;
     }
 
     th, td {
@@ -155,5 +160,20 @@
     .table-container {
         overflow-x: auto; /* Adds horizontal scrolling if needed */
         max-width: 100%;
+        gap: 0px;
+    }
+
+    @media (max-width: 768px) {
+        table {
+            width: max-content;   /* only as wide as needed */
+            max-width: 100%;
+        }
+
+        .table-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
     }
 </style>

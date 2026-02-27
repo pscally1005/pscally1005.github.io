@@ -235,8 +235,6 @@ Whether you want to swap one ingredient for another based on what you have on ha
 
 <hr>
 
-<center>
-
 <div id='bananas-vs-applesauce' class='table-of-contents'>
     <br><i><font size='+2'>Bananas vs Applesauce</font></i><br>
     {% assign files =
@@ -1082,8 +1080,8 @@ Whether you want to swap one ingredient for another based on what you have on ha
       | split: ","
     %}
     {% assign titles =
-      "<a href='https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g'>Chicken<br>Breast<br>(Boneless<br>Skinless)</a>,"
-      | append: "<a href='https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g'>Chicken<br>Thighs<br>(Boneless<br>Skinless)</a>"
+      "<a href='https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g'>Chicken Breast<br>(Boneless Skinless)</a>,"
+      | append: "<a href='https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_thigh%2C_dark_meat%2C_broilers_or_fryers_nutritional_value.html?size=100%20g'>Chicken Thighs<br>(Boneless Skinless)</a>"
       | split: ","
     %}
     {% assign nutrients =
@@ -1108,9 +1106,9 @@ Whether you want to swap one ingredient for another based on what you have on ha
       | split: ","
     %}
     {% assign titles =
-      "<a href='https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g'>Ground<br>Beef<br>(93%<br>Lean)</a>,"
-      | append: "<a href='https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g'>Ground<br>Turkey<br>(93%<br>Lean)</a>,"
-      | append: "<a href='https://www.nutritionvalue.org/Chicken%2C_raw%2C_ground_nutritional_value.html?size=100+g'>Ground<br>Chicken<br>(92%<br>Lean)</a>"
+      "<a href='https://www.nutritionvalue.org/Beef%2C_raw%2C_93%25_lean_meat_%252F_7%25_fat%2C_ground_nutritional_value.html?size=100+g'>Beef<br>(93% Lean)</a>,"
+      | append: "<a href='https://www.nutritionvalue.org/Turkey%2C_raw%2C_7%25_fat%2C_93%25_lean%2C_ground_nutritional_value.html?size=100+g'>Turkey<br>(93% Lean)</a>,"
+      | append: "<a href='https://www.nutritionvalue.org/Chicken%2C_raw%2C_ground_nutritional_value.html?size=100+g'>Chicken<br>(92% Lean)</a>"
       | split: ","
     %}
     {% assign nutrients =
@@ -1268,8 +1266,6 @@ Whether you want to swap one ingredient for another based on what you have on ha
     {% assign pic = '/assets/Misc/Nutrition/Compare/marinara-sauce.png' %}
     {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" folder=folder pic=pic %}
 </div>
-
-</center>
 
 <hr>
 

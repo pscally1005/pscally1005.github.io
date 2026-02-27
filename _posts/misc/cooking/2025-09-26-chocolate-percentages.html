@@ -98,12 +98,16 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
 <a href='/recipes/chocolate-bar'><img src='/assets/Food/Healthier Dessert/Choc Bar/cover.jpg' alt='' class='instruction-image'></a><br>
 
 <style>
+    .scroll-note {
+        margin: 0px;
+    }
+
     table {
         border-collapse: collapse;
         width: 100%;
-        max-width: 100%;
         table-layout: auto;
         text-align: center;
+        margin-bottom: 0px;
     }
 
     th, td {
@@ -123,6 +127,21 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
     .table-container {
         overflow-x: auto; /* Adds horizontal scrolling if needed */
         max-width: 100%;
+        gap: 0px;
+    }
+
+    @media (max-width: 768px) {
+        table {
+            width: max-content;   /* only as wide as needed */
+            max-width: 100%;
+        }
+
+        .table-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
     }
 </style>
 
@@ -140,7 +159,8 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
 
 <div id='ingredients' class='table-of-contents-2'></div>
 <u><b><font size='+2'>Ingredients</font></b></u><br><br>
-<div class='table-container'><table>
+<div class='table-container'>
+  <table>
     <thead>
         <tr>
             <th>Ingredient</th>
@@ -173,11 +193,18 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
             </tr>
         {% endfor %}
     </tbody>
-</table></div>
-<i>Scroll to the right to read information about every variation</i><br><br>
+  </table>
+
+  <div class="scroll-note" style="display:none;">
+      <i>Scroll right for more</i>
+  </div>
+
+</div>
+
+<br>
 <div class='image-row'>
     <img src='/assets/Misc/Cooking/Chocolate/coconut.png' alt='' class='smaller-image'><img src='/assets/Misc/Cooking/Chocolate/cocoa.png' alt='' class='smaller-image'><img src='/assets/Misc/Cooking/Chocolate/sugar-cube.png' alt='' class='smaller-image'>
-</div><br>
+</div>
 <hr>
 
 <div id='nutrition' class='table-of-contents-2'></div>
@@ -204,10 +231,12 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
 %}
 {% assign pic = '/assets/Misc/Cooking/Chocolate/nutrition-facts-label.png' %}
 {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients pic=pic scroll="true" %}
+<hr>
 
 <div id='costs' class='table-of-contents-2'></div>
 <u><b><font size='+2'>Costs</font></b></u><br><br>
-<div class='table-container'><table>
+<div class='table-container'>
+  <table>
     <thead>
         <tr>
             <th>Cost</th>
@@ -236,11 +265,18 @@ Below will be 3 tables.  The first will be for the ingredients; how much <a href
             {% endfor %}
         </tr>
     </tbody>
-</table></div>
-<i>Scroll to the right to read information about every variation</i><br><br>
+  </table>
+
+  <div class="scroll-note" style="display:none;">
+    <i>Scroll right for more</i>
+  </div>
+
+</div>
+
+<br>
 <div class='image-row'>
     <img src='/assets/Misc/Cooking/Chocolate/wallet.png' alt='' class='smaller-image'>
-</div><br>
+</div>
 <hr>
 
 <div id='sources' class='table-of-contents-2'></div>
