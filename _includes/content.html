@@ -1,0 +1,7 @@
+<div class='recipe-content'>
+    {% assign cleaned_content = page.content | strip %}
+    {% if cleaned_content != "" %}
+        <div class='recipe-section'>{{ page.content }}</div>
+        <hr>
+    {% endif %}
+</div>

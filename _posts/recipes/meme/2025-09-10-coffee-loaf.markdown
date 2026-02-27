@@ -67,7 +67,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the flour, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, baking powder, cinnamon, and salt
 
-- In a separate bowl, add your <a href='/misc/fruit#apple'>applesauce</a>, granulated sweetener, and <a href='/misc/meat#eggs'>eggs</a>. Beat until smooth with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- In a separate bowl, add your <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated sweetener</a>, and <a href='/misc/meat#eggs'>eggs</a>. Beat until smooth with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
 
 - Add the coffee and the liquid ingredients into the dry. Mix until just fully combined. Don't over mix, or you could develop the gluten and get a chewy and tough cake (see <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#notes'>below</a>)
 

@@ -467,29 +467,32 @@
                         </div>
                     {% endif %}
 
-                    {% if trans != "" %}
-                        <div class="nutrition-indent-1">
-                            <b><a href="/misc/fats">Trans Fat</a></b>: {{ trans }}
-                        </div>
-                    {% endif %}
+                    <div class="also-hide">
+                        {% if trans != "" %}
+                            <div class="nutrition-indent-1">
+                                <b><a href="/misc/fats">Trans Fat</a></b>: {{ trans }}
+                            </div>
+                        {% endif %}
 
-                    {% if poly != "" %}
-                        <div class="nutrition-indent-1">
-                            <b><a href="/misc/fats">Polyunsaturated Fat</a></b>: {{ poly }}
-                        </div>
-                    {% endif %}
+                        {% if poly != "" %}
+                            <div class="nutrition-indent-1">
+                                <b><a href="/misc/fats">Polyunsaturated Fat</a></b>: {{ poly }}
+                            </div>
+                        {% endif %}
 
-                    {% if mono != "" %}
-                        <div class="nutrition-indent-1">
-                            <b><a href="/misc/fats">Monounsaturated Fat</a></b>: {{ mono }}
-                        </div>
-                    {% endif %}
+                        {% if mono != "" %}
+                            <div class="nutrition-indent-1">
+                                <b><a href="/misc/fats">Monounsaturated Fat</a></b>: {{ mono }}
+                            </div>
+                        {% endif %}
 
-                    {% if choles != "" %}
-                        <div class="nutrition-indent-0">
-                            <b><a href="/misc/cholesterol">Cholesterol</a></b>: {{ choles }}
-                        </div>
-                    {% endif %}
+                        {% if choles != "" %}
+                            <div class="nutrition-indent-0">
+                                <b><a href="/misc/cholesterol">Cholesterol</a></b>: {{ choles }}
+                            </div>
+                        {% endif %}
+
+                    </div>
 
                 {% endif %}
 
@@ -552,26 +555,28 @@
                         </div>
                     {% endif %}
 
-                    {% if lactoseNum != 0 %}
-                        {% assign lactoseStr = lactoseNum | round: 1 | append: 'g' %}
-                        <!-- <div class="nutrition-indent-2">
-                            <b><a href="/misc/dairy">Lactose</a></b>: {{ lactoseStr }}
-                        </div> -->
-                    {% endif %}
+                    <div class="also-hide">
+                        {% if lactoseNum != 0 %}
+                            {% assign lactoseStr = lactoseNum | round: 1 | append: 'g' %}
+                            <!-- <div class="nutrition-indent-2">
+                                <b><a href="/misc/dairy">Lactose</a></b>: {{ lactoseStr }}
+                            </div> -->
+                        {% endif %}
 
-                    {% if sugAlcNum != 0 %}
-                        {% assign sugAlcStr = sugAlcNum | round: 1 | append: 'g' %}
-                        <div class="nutrition-indent-1">
-                            <b><a href="/misc/fake-healthy-foods#sugar-substitutes">Sugar Alcohol</a></b>: {{ sugAlcStr }}
-                        </div>
-                    {% endif %}
+                        {% if sugAlcNum != 0 %}
+                            {% assign sugAlcStr = sugAlcNum | round: 1 | append: 'g' %}
+                            <div class="nutrition-indent-1">
+                                <b><a href="/misc/fake-healthy-foods#sugar-substitutes">Sugar Alcohol</a></b>: {{ sugAlcStr }}
+                            </div>
+                        {% endif %}
 
-                    {% if allNum != 0 %}
-                        {% assign allStr = allNum | round: 1 | append: 'g' %}
-                        <div class="nutrition-indent-1">
-                            <b><a href="/misc/fake-healthy-foods#sugar-substitutes">Allulose</a></b>: {{ allStr }}
-                        </div>
-                    {% endif %}
+                        {% if allNum != 0 %}
+                            {% assign allStr = allNum | round: 1 | append: 'g' %}
+                            <div class="nutrition-indent-1">
+                                <b><a href="/misc/fake-healthy-foods#sugar-substitutes">Allulose</a></b>: {{ allStr }}
+                            </div>
+                        {% endif %}
+                    </div>
 
                 {% endif %}
 
@@ -581,13 +586,15 @@
                     </div>
                 {% endif %}
 
-                {% if glutenNum != 0 %}
-                    {% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 %}
-                    {% assign glutenStr = glutenNum | round: 1 | append: 'g (' | append: glutenPercentage | append: ' %)' %}
-                    <!-- <div class="nutrition-indent-1">
-                        <b><a href="/misc/celiac">Gluten</a></b>: {{ glutenStr }}
-                    </div> -->
-                {% endif %}
+                <div class="also-hide">
+                    {% if glutenNum != 0 %}
+                        {% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 %}
+                        {% assign glutenStr = glutenNum | round: 1 | append: 'g (' | append: glutenPercentage | append: ' %)' %}
+                        <!-- <div class="nutrition-indent-1">
+                            <b><a href="/misc/celiac">Gluten</a></b>: {{ glutenStr }}
+                        </div> -->
+                    {% endif %}
+                </div>
 
             </div>
 
@@ -799,6 +806,9 @@
             {% endif %}
         </div>
 
+        {% if recipe == "true" %}
+            <hr>
+        {% endif %}
     {% endif %}
 </div>
 
@@ -816,7 +826,9 @@
     }
 
     @media print {
-        .micros, .gi {
+        .micros,
+        .gi,
+        .also-hide {
             display: none;
         }
     }

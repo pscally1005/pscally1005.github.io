@@ -64,5 +64,5 @@ Notes:
 
 - Omit the sweetener if your <a href='/misc/dairy#whey'>protein powder</a> is flavored
 
-- 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> will also work in place of the granulated
+- 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> will also work in place of the <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated</a>
 ---

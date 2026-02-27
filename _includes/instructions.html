@@ -18,11 +18,13 @@
                       {% if step contains "<img" %}
                         <!-- Image step -->
                         </ol>
+                        </div>
                         <li class="instruction-image-li print-only">
                           <center>
                             {{ step }}
                           </center>
                         </li>
+                        <div class='recipe-section'>
                         <ol start="{{ step_number }}">
                       {% else %}
                         <!-- Numbered text step -->
@@ -33,5 +35,6 @@
                   </ol>
             </div>
         </div>
+        <hr>
     {% endif %}
 </div>

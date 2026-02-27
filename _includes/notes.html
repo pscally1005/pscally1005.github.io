@@ -10,108 +10,112 @@
                     {% assign note_number = 1 %}
                     {% for note in page.Notes %}
 
-                      <!-- Image rendering -->
-                      {% if note contains "<img" %}
+                        {% if note contains "<img" or note contains "INGREDIENTS(" or note contains "FACTS(" or note contains "COMPARE(" %}
 
-                        </ol>
-                        <li class="instruction-image-li print-only">
-                          <center>
-                            {{ note }}
-                          </center>
-                        </li>
-                        <ol start="{{ note_number }}">
+                            </ol>
+                            </div>
+                            </div>
 
-                      <!-- Include ingredients file -->
-                      {% elsif note contains "INGREDIENTS(" %}
+                            <div class='recipe-section'>
 
-                          </ol>
-                          {% assign file = note | remove: "INGREDIENTS(" | remove: ")" | strip %}
-                          {% include ingredients.html file=file recipe="false" %}
-                          <ol start="{{ note_number }}">
+                            <!-- Image rendering -->
+                            {% if note contains "<img" %}
+                              <div class='recipe-instructions'>
+                              <li class="instruction-image-li print-only">
+                                <center>
+                                  {{ note }}
+                                </center>
+                              </li>
+                              </div>
+                            <!-- Include ingredients file -->
+                            {% elsif note contains "INGREDIENTS(" %}
+                                {% assign file = note | remove: "INGREDIENTS(" | remove: ")" | strip %}
+                                {% include ingredients.html file=file recipe="false" %}
+                            <!-- Include facts file -->
+                            {% elsif note contains "FACTS(" %}
+                                {% assign file = note | remove: "FACTS(" | remove: ")" | strip %}
+                                {% include nutrition.html file=file recipe="false" %}
+                            <!-- Include compare table -->
+                            {% elsif note contains "COMPARE(" %}
+                                {% assign raw = note
+                                  | remove: "COMPARE("
+                                  | remove: ")"
+                                  | replace: newline, ""
+                                  | strip
+                                %}
 
-                      <!-- Include facts file -->
-                      {% elsif note contains "FACTS(" %}
+                                {% assign parts = raw | split: ";" %}
 
-                          </ol>
-                          {% assign file = note | remove: "FACTS(" | remove: ")" | strip %}
-                          {% include nutrition.html file=file recipe="false" %}
-                          <ol start="{{ note_number }}">
+                                {% assign files_raw_array = parts[0] | strip | split: "," %}
+                                {% assign files = "" | split: "" %}
+                                {% for f in files_raw_array %}
+                                  {% assign clean = f | strip | remove: '"' %}
+                                  {% assign files = files | push: clean %}
+                                {% endfor %}
 
-                      <!-- Include compare table -->
-                      {% elsif note contains "COMPARE(" %}
+                                {% assign titles_raw_array = parts[1] | strip | split: "," %}
+                                {% assign titles = "" | split: "" %}
+                                {% for t in titles_raw_array %}
+                                  {% assign clean = t | strip | remove: '"' %}
+                                  {% assign titles = titles | push: clean %}
+                                {% endfor %}
 
-                          </ol>
-                          {% assign raw = note
-                            | remove: "COMPARE("
-                            | remove: ")"
-                            | replace: newline, ""
-                            | strip
-                          %}
+                                {% assign nutrients_raw_array = parts[2] | strip | split: "," %}
+                                {% assign nutrients = "" | split: "" %}
 
-                          {% assign parts = raw | split: ";" %}
+                                {% for n in nutrients_raw_array %}
+                                  {% assign clean = n | strip | remove: '"' %}
+                                  {% assign nutrients = nutrients | push: clean %}
+                                {% endfor %}
 
-                          {% assign files_raw_array = parts[0] | strip | split: "," %}
-                          {% assign files = "" | split: "" %}
-                          {% for f in files_raw_array %}
-                            {% assign clean = f | strip | remove: '"' %}
-                            {% assign files = files | push: clean %}
-                          {% endfor %}
+                                {% comment %}
+                                    raw:"{{raw}}"<br><br>
+                                    parts:"{{parts}}"<br><br>
+                                    parts[0]:"{{parts[0]}}"<br><br>
+                                    titles_raw:"{{titles_raw}}"<br><br>
+                                    nutrients_raw:"{{nutrients_raw}}"<br><br>
+                                    files:"{{files}}"<br><br>
+                                    titles:"{{titles}}"<br><br>
+                                    nutrients:"{{nutrients}}"<br><br>
 
-                          {% assign titles_raw_array = parts[1] | strip | split: "," %}
-                          {% assign titles = "" | split: "" %}
-                          {% for t in titles_raw_array %}
-                            {% assign clean = t | strip | remove: '"' %}
-                            {% assign titles = titles | push: clean %}
-                          {% endfor %}
+                                    {% for f in files %}
+                                      f:"{{f}}"<br><br>
+                                    {% endfor %}
+                                {% endcomment %}
 
-                          {% assign nutrients_raw_array = parts[2] | strip | split: "," %}
-                          {% assign nutrients = "" | split: "" %}
+                                {% assign costFlg = "false" %}
+                                {% if page.title == "Copycat Core Power Protein Milkshake" or page.title == "Copycat Barebell Protein Bars" %}
+                                  {% assign costFlg = "true" %}
+                                {% endif %}
 
-                          {% for n in nutrients_raw_array %}
-                            {% assign clean = n | strip | remove: '"' %}
-                            {% assign nutrients = nutrients | push: clean %}
-                          {% endfor %}
+                                {% assign massFlg = "false" %}
+                                {% if page.title == "Copycat Barebell Protein Bars" %}
+                                  {% assign massFlg = "true" %}
+                                {% endif %}
 
-                          {% comment %}
-                              raw:"{{raw}}"<br><br>
-                              parts:"{{parts}}"<br><br>
-                              parts[0]:"{{parts[0]}}"<br><br>
-                              titles_raw:"{{titles_raw}}"<br><br>
-                              nutrients_raw:"{{nutrients_raw}}"<br><br>
-                              files:"{{files}}"<br><br>
-                              titles:"{{titles}}"<br><br>
-                              nutrients:"{{nutrients}}"<br><br>
+                                {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" cost=costFlg mass=massFlg %}
 
-                              {% for f in files %}
-                                f:"{{f}}"<br><br>
-                              {% endfor %}
-                          {% endcomment %}
+                            {% endif %}
 
-                          {% assign costFlg = "false" %}
-                          {% if page.title == "Copycat Core Power Protein Milkshake" or page.title == "Copycat Barebell Protein Bars" %}
-                            {% assign costFlg = "true" %}
-                          {% endif %}
+                            </div>
 
-                          {% assign massFlg = "false" %}
-                          {% if page.title == "Copycat Barebell Protein Bars" %}
-                            {% assign massFlg = "true" %}
-                          {% endif %}
+                            <div class='recipe-instructions'>
+                            <div class='recipe-section'>
+                            <ol start="{{ note_number }}">
 
-                          {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" cost=costFlg mass=massFlg %}
-                          <ol start="{{ note_number }}">
+                        <!-- Print note -->
+                        {% else %}
 
-                      <!-- Print note -->
-                      {% else %}
+                            <!-- Numbered text note -->
+                            <li class="print-only">{{ note }}</li>
+                            {% assign note_number = note_number | plus: 1 %}
 
-                        <!-- Numbered text note -->
-                        <li class="print-only">{{ note }}</li>
-                        {% assign note_number = note_number | plus: 1 %}
-
-                      {% endif %}
+                        {% endif %}
 
                     {% endfor %}
                   </ol>
             </div>
         </div>
+        <hr>
     {% endif %}
 </div>
