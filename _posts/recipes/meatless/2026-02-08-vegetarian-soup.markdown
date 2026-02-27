@@ -82,7 +82,7 @@ Notes:
     "vicsoupcc";
 
     "<a href='#recipe'>Original<br>Recipe</a>",
-    "With<br><a href='/misc/dairy#cottage-cheese'>Cottage Cheese</a>";
+    "With<br><a href='/misc/dairy#cottage-cheese'>Cottage<br>Cheese</a>";
 
     "Calories",
     "Protein",

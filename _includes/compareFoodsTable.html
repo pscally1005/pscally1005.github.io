@@ -206,27 +206,3 @@
         justify-content: center; /* Centers the table */
     }
 </style>
-
-{% if page.title == "Overshadowed Healthy Foods" %}
-  <style>
-    .table-container {
-      display: flex;
-      justify-content: center; /* centers the table */
-      overflow-x: auto;        /* allows scrolling if very wide */
-      width: 100%;
-    }
-
-    .table-container table {
-      width: auto;             /* shrink to fit columns */
-      max-width: none;
-      border-collapse: collapse;
-      margin: 0;               /* margin handled by flex centering */
-    }
-
-    th, td {
-      text-align: center;
-      white-space: nowrap;
-      padding: 6px 12px;
-    }
-  </style>
-{% endif %}

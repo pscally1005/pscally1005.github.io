@@ -75,7 +75,7 @@ Notes:
     "nonbulkbreakfast";
 
     "<a href='#recipe'>Bulking<br>Breakfast</a>",
-    "Non-Bulking<br>Breakfast";
+    "Non Bulking<br>Breakfast";
 
     "Calories",
     "Protein",

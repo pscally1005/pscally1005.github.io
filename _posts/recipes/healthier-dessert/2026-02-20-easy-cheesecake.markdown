@@ -71,8 +71,8 @@ Notes:
     "easycheesecake",
     "traditionalcheesecake";
 
-    "<a href='#recipe'>Healthy<br>Cheesecake</a>",
-    "<a href='https://sugarspunrun.com/best-cheesecake-recipe/#recipe'>Traditional<br>Cheesecake</a>";
+    "<a href='#recipe'>Healthy</a>",
+    "<a href='https://sugarspunrun.com/best-cheesecake-recipe/#recipe'>Traditional</a>";
 
     "Calories",
     "Protein",

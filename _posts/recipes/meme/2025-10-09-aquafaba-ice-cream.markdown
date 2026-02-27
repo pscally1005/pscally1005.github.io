@@ -76,8 +76,8 @@ Notes:
 
     "Maple<br>Syrup",
     "Honey",
-    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>",
-    "<a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Granulated<br>Monk Fruit</a>";
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "<a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Granulated<br>Monk<br>Fruit</a>";
 
     "Calories",
     "Protein",

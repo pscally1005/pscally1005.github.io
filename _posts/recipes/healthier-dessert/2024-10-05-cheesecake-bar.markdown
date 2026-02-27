@@ -94,8 +94,8 @@ Notes:
     "cheesecakebar",
     "cheesecakebarsfs";
 
-    "With <a href='/misc/fruit#dates'>Dates</a>",
-    "With <a href='/recipes/sugar-free-syrup'>Sugar<br>Free Syrup</a>";
+    "With<br><a href='/misc/fruit#dates'>Dates</a>",
+    "With<br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>";
 
     "Calories",
     "Protein",

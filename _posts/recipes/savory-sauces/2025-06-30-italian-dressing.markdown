@@ -64,8 +64,8 @@ Notes:
     "italiandressing",
     "traditionalitalian";
 
-    "<a href='/salad-dressings'>Homemade<br>Dressing</a>",
-    "<a href='https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search'>Bottled<br>Dressing</a>";
+    "<a href='#recipe'>Homemade</a>",
+    "<a href='https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search'>Bottled</a>";
 
     "Calories",
     "Protein",

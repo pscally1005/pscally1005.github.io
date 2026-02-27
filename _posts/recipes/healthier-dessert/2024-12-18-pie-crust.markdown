@@ -67,8 +67,8 @@ Notes:
     "piecrust",
     "piecrustchoc";
 
-    "Regular<br>Pie Crust",
-    "Chocolate<br>Pie Crust";
+    "Regular<br>Pie<br>Crust",
+    "Chocolate<br>Pie<br>Crust";
 
     "Calories",
     "Protein",

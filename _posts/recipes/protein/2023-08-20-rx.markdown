@@ -99,7 +99,7 @@ Notes:
     "rxnewhoney",
     "rxnewsfs";
 
-    "<a href='/misc/fruit#dates'>Dates</a><br><a href='#recipe'>Original<br>Recipe</a>",
+    "<a href='/misc/fruit#dates'>Dates</a>",
     "Honey",
     "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>";
 

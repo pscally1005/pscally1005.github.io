@@ -96,7 +96,7 @@ Notes:
     "brownies";
 
     "<a href='/recipes/keto-brownies'>Keto<br>Brownies</a>",
-    "<a href='/recipes/brownies'>Classic<br>Fudgy Brownies</a>";
+    "<a href='/recipes/brownies'>Classic<br>Fudgy<br>Brownies</a>";
 
     "Calories",
     "Protein",

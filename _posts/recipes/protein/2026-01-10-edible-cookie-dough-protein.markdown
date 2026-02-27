@@ -74,7 +74,7 @@ Notes:
     "ediblecookiedoughproteinsfs";
 
     "<a href='#recipe'>Original<br>Recipe</a>",
-    "<a href='/recipes/sugar-free-syrup'>Sugar Free</a><br>Variation";
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free</a>";
 
     "Calories",
     "Protein",

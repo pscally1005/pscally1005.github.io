@@ -65,7 +65,7 @@ Notes:
     "diyyogurthoney";
 
     "<a href='/misc/dairy#yogurt'>Plain<br>Nonfat<br>Greek<br>Yogurt</a>",
-    "DIY<br>Yogurt<br><a href='<a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>'>Monk Fruit</a>",
+    "DIY<br>Yogurt<br><a href='<a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>'>Monk<br>Fruit</a>",
     "DIY<br>Yogurt<br>Honey";
 
     "Calories",

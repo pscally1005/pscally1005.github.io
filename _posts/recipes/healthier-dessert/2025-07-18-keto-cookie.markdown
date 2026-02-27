@@ -91,8 +91,8 @@ Notes:
     "ketocookie",
     "cookies";
 
-    "<a href='/recipes/keto-chocolate-chip-cookies'>Keto Chocolate<br>Chip Cookies</a>",
-    "<a href='/recipes/chocolate-chip-cookies'>Classic Chocolate<br>Chip Cookies</a>";
+    "<a href='/recipes/keto-chocolate-chip-cookies'>Keto<br>Chocolate<br>Chip<br>Cookies</a>",
+    "<a href='/recipes/chocolate-chip-cookies'>Classic<br>Chocolate<br>Chip<br>Cookies</a>";
 
     "Calories",
     "Protein",

@@ -85,8 +85,8 @@ Notes:
     "quest",
     "questinulin";
 
-    "<a href='#recipe'>As Written</a>",
-    "With Inulin";
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "With<br><a href='https://amzn.to/47w8h7R'>Inulin</a>";
 
     "Calories",
     "Protein",

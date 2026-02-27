@@ -67,8 +67,8 @@ Notes:
     "popcorn",
     "popcornsweet";
 
-    "Nooch<br><a href='/misc/grains#popcorn'>Popcorn</a>",
-    "Cinnamon Sugar<br><a href='/misc/grains#popcorn'>Popcorn</a>";
+    "Nutritional<br>Yeast<br><a href='/misc/grains#popcorn'>Popcorn</a>",
+    "Cinnamon<br>Sugar<br><a href='/misc/grains#popcorn'>Popcorn</a>";
 
     "Calories",
     "Protein",

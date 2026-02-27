@@ -86,8 +86,8 @@ Notes:
     "meatballsspaghettisquash",
     "meatballsspaghettisquashpasta";
 
-    "Without <a href='/misc/grains#pasta'>Pasta</a>",
-    "With <a href='/misc/grains#pasta'>Pasta</a>";
+    "Without<br><a href='/misc/grains#pasta'>Pasta</a>",
+    "With<br><a href='/misc/grains#pasta'>Pasta</a>";
 
     "Calories",
     "Protein",

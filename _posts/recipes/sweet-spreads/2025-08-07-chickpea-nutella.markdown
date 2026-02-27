@@ -75,9 +75,9 @@ Notes:
     "chickpea-nutella-monk-fruit-100g",
     "classic-nutella-100g";
 
-    "<a href='#recipe'>Homemade</a><br><a href='/misc/fruit#dates'>Dates</a>",
-    "<a href='#recipe'>Homemade</a><br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
-    "<a href='#recipe'>Homemade</a><br><a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Granulated<br>Monk<br>Fruit</a>",
+    "With<br><a href='/misc/fruit#dates'>Dates</a>",
+    "With<br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "With<br><a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Granulated<br>Monk<br>Fruit</a>",
     "<a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Storebought</a>";
 
     "Calories",

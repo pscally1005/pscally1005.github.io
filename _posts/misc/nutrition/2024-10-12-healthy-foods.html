@@ -31,7 +31,7 @@ This post is essentially the opposite of my <a href='/misc/fake-healthy-foods'>"
 </div><br>
 
 <u><font size='+2'>List of Foods</font></u><br>
-<ul>
+<ol>
     <li><a rel='' target='' href='#bananas'>Bananas</a></li>
     <li><a rel='' target='' href='#beans'>Beans</a></li>
     <li><a rel='' target='' href='#brown-rice'>Brown Rice</a></li>
@@ -46,7 +46,7 @@ This post is essentially the opposite of my <a href='/misc/fake-healthy-foods'>"
     <li><a rel='' target='' href='#popcorn'>Popcorn</a></li>
     <li><a rel='' target='' href='#potatoes'>Potatoes</a></li>
     <li><a rel='' target='' href='#red-meat'>Red Meat</a></li>
-</ul><br>
+</ol><br>
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/better-health.png' alt='' class='smaller-image'><img src='/assets/Misc/Nutrition/Overshadowed/healthy.png' alt='' class='smaller-image'><br>
@@ -73,7 +73,7 @@ A <a href='/misc/fruit#banana'>banana</a> is a delicious way to to flavor anythi
     | append: "Potassium"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="110" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="110" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/banana.png' alt='' class='smaller-image'>
@@ -104,7 +104,7 @@ But overall, <a href='/misc/beans'>beans</a> are a great food.  As long as you c
     | append: "Potassium"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="50" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="50" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/beans.png' alt='' class='smaller-image'>
@@ -133,7 +133,7 @@ Of all the <a href='/misc/carbs'>starches</a> on the side of your plate, <a href
     | append: "Potassium"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="46" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="46" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/rice.png' alt='' class='smaller-image'>
@@ -169,7 +169,7 @@ Instead below are the nutrition facts for both <a href='/misc/nuts#coconut'>coco
     | append: "Fiber"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients servingSize="15" %}
+{% include compareFoodsTable.html folder=folder files=files titles=titles nutrients=nutrients servingSize="15" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/coconut.png' alt='' class='smaller-image'>
@@ -200,7 +200,7 @@ Just because chocolate says that it's "dark" though doesn't automatically make i
     | append: "Zinc"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="28" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="28" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/cacao.png' alt='' class='smaller-image'>
@@ -229,7 +229,7 @@ Besides being a nutritional powerhouse, <a href='/misc/meat#eggs'>eggs</a> are a
     | append: "Selenium"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="50" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="50" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/fried-egg.png' alt='' class='smaller-image'>
@@ -264,7 +264,7 @@ I've listed many types of <a href='/misc/fish'>fish</a> and shellfish above, but
     | append: "Selenium"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="85" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="85" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/fish.png' alt='' class='smaller-image'>
@@ -302,7 +302,7 @@ Most <a href='/misc/dairy'>dairy</a> products are very cheap, versatile, tasty, 
     | append: "Zinc"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="240" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="240" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/milk.png' alt='' class='smaller-image'>
@@ -378,7 +378,7 @@ Many <a href='/misc/nuts'>nuts</a> and <a href='/misc/seeds'>seeds</a> are nutri
     | append: "Phosphorus"
     | split: ","
 %}
-{% include compareFoodsTable.html files=files titles=titles nutrients=nutrients servingSize="28" %}
+{% include compareFoodsTable.html folder=folder files=files titles=titles nutrients=nutrients servingSize="28" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/nuts.png' alt='' class='smaller-image'>
@@ -429,7 +429,7 @@ The addition of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein
     | append: "Zinc"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="40" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="40" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/oatmeal.png' alt='' class='smaller-image'>
@@ -458,7 +458,7 @@ I won't repeat what I said above about <a rel='' target='' href='#nuts'>nuts</a>
     | append: "Manganese"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="32" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="32" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/peanut-butter.png' alt='' class='smaller-image'>
@@ -488,7 +488,7 @@ But it's not all bad news; far from it.  <a href='/misc/grains#popcorn'>Popcorn<
     | append: "Zinc"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="40" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="40" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/popcorn.png' alt='' class='smaller-image'>
@@ -531,7 +531,7 @@ As long as you don't cover them in <a href='/misc/dairy#butter'>butter</a>, stic
     | append: "Potassium"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="170" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="170" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/potato.png' alt='' class='smaller-image'>
@@ -557,7 +557,7 @@ As long as you don't cover them in <a href='/misc/dairy#butter'>butter</a>, stic
     | append: "Potassium"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="170" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="170" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/sweet-potato.png' alt='' class='smaller-image'>
@@ -589,7 +589,7 @@ A lot of my <a href='/recipes/ground-meat'>ground meat</a> recipes use <a href='
     | append: "Zinc"
     | split: ","
 %}
-{% include compareFoodsTable.html files=file titles=title nutrients=nutrients servingSize="113" %}
+{% include compareFoodsTable.html folder=folder files=file titles=title nutrients=nutrients servingSize="113" %}
 
 <div class='image-row'>
     <img src='/assets/Misc/Nutrition/Overshadowed/grilling.png' alt='' class='smaller-image'>

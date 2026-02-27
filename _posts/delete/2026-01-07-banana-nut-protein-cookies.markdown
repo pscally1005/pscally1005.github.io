@@ -74,8 +74,8 @@ Notes:
     "proteincookiebanananut",
     "proteincookiebanananutsugar";
 
-    "<a href='#recipe'>Sugar Free</a>",
-    "With <a href='/misc/hidden-sugar'>Sugar</a>";
+    "<a href='#recipe'>Sugar<br>Free</a>",
+    "With<br><a href='/misc/hidden-sugar'>Sugar</a>";
 
     "Calories",
     "Protein",

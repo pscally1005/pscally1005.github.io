@@ -96,14 +96,14 @@ Notes:
     "pumpkinmuffinssfnochoc";
 
     "<a href='#recipe'>Original<br>Recipe</a>",
-    "Maple Syrup<br>Mini Muffins",
-    "<a href='/misc/grains#oats'>Oat Flour</a><br>Mini Muffins",
-    "Standard Sized<br>Muffins",
+    "Maple<br>Syrup<br>Mini<br>Muffins",
+    "<a href='/misc/grains#oats'>Oat<br>Flour</a><br>Mini<br>Muffins",
+    "Standard<br>Sized<br>Muffins",
     "<a href='/misc/veggies#pumpkin'>Pumpkin</a><br>Blondies",
-    "<a href='/misc/fruit#banana'>Banana</a><br>Chocolate Chip",
-    "Plain<br>Chocolate Chip",
-    "<a href='/misc/hidden-sugar'>Sugar Free</a><br>Chocolate Chip",
-    "<a href='/misc/hidden-sugar'>Sugar Free</a><br>Without Chocolate";
+    "<a href='/misc/fruit#banana'>Banana</a><br>Chocolate<br>Chip<br>Mini<br>Muffins",
+    "Plain<br>Chocolate<br>Chip<br>Mini<br>Muffins",
+    "<a href='/misc/hidden-sugar'>Sugar<br>Free</a><br>Chocolate<br>Chip<br>Mini<br>Muffins",
+    "<a href='/misc/hidden-sugar'>Sugar<br>Free</a><br>Without<br>Chocolate<br>Mini<br>Muffins";
 
     "Calories",
     "Protein",

@@ -58,8 +58,8 @@ Notes:
     "kefir",
     "kefirlowfat";
 
-    "3.25% Fat <a href='/misc/dairy#kefir'>Kefir</a>",
-    "1% Fat <a href='/misc/dairy#kefir'>Kefir</a>";
+    "3.25% Fat<br><a href='/misc/dairy#kefir'>Kefir</a>",
+    "1% Fat<br><a href='/misc/dairy#kefir'>Kefir</a>";
 
     "Calories",
     "Protein",

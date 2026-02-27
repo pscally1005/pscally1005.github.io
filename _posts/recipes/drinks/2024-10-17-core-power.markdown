@@ -64,7 +64,7 @@ Notes:
     "corepoweralmondmilk";
 
     "<a href='#recipe'>Original<br>Recipe</a>",
-    "With<br><a href='/misc/dairy#almond-milk'>Almond Milk</a>";
+    "With<br><a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>";
 
     "Calories",
     "Protein",

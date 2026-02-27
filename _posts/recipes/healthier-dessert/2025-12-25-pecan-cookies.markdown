@@ -92,8 +92,8 @@ Notes:
     "pecancookieshealthy",
     "pecancookiesoriginal";
 
-    "<a href='#recipe'>My Recipe</a>",
-    "<a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>Original Recipe</a>";
+    "<a href='#recipe'>My<br>Recipe</a>",
+    "<a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>Original<br>Recipe</a>";
 
     "Calories",
     "Protein",

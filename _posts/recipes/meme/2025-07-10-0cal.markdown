@@ -71,8 +71,8 @@ Notes:
     "0cal",
     "0calcocoa";
 
-    "White<br>No <a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa</a>",
-    "Black<br><a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa Powder</a>";
+    "White<br>No<br><a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa</a>",
+    "Black<br>With<br><a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa</a>";
 
     "Calories",
     "Protein",
