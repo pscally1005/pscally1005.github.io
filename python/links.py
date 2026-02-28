@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\draft"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\protein"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\draft"
 
 LINKS = {
@@ -4113,7 +4113,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
-
+    "wrap each",
     "maple syrup",
     "potato bread",
     "potato buns",
@@ -5623,7 +5623,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026")):
+            if not file.startswith(("2025-03-20-barbell")):
                 continue
 
             # exclude some files
