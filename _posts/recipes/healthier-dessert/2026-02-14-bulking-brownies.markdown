@@ -61,7 +61,7 @@ Instructions:
 - Transfer the batter to the pan, and smooth out the top
 - <img src='/assets/Food/Healthier Dessert/Bulking brownies/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 25 minutes, or until a toothpick comes out slightly moist and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about 190F
+- Bake at 350F for about 25 minutes, or until a toothpick comes out slightly moist and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>190F</a>
 - <img src='/assets/Food/Healthier Dessert/Bulking brownies/baked.jpg' alt='' class='instruction-image'>
 
 - Transfer to the fridge to cool for at least 30 minutes before slicing with a plastic knife

@@ -4,7 +4,7 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts\recipes\protein"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 # POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\draft"
 
 LINKS = {
@@ -4841,7 +4841,7 @@ EXCLUDED_PHRASES = [
     # "smoothie bowl",
     # "protein shakes",
     # "protein shake",
-    # "protein bars",
+    "protein bars",
     # "protein bar",
     "flavored rice dishes",
     "traditional desserts",
@@ -5536,6 +5536,7 @@ def process_front_matter(text, links, exclude_phrases=None):
 
     current_section = None  # Description / Instructions / Notes
     current_permalink = None
+    in_compare_block = False  # For COMPARE()/INGREDIENTS()/FACTS() macros
 
     for line in lines:
         if line.startswith("permalink:"):
@@ -5569,21 +5570,39 @@ def process_front_matter(text, links, exclude_phrases=None):
                 output.append(f"{key}:{value}")
                 continue
 
-            # Bullet points inside Instructions / Notes
-            if current_section in ("Instructions", "Notes") and line.lstrip().startswith("-"):
+            # Inside Description / Instructions / Notes, but skip COMPARE/INGREDIENTS/FACTS macros
+            if current_section in ("Description", "Instructions", "Notes"):
+                stripped = line.lstrip()
 
-                line, blocks = protect_blocks(line, LIQUID_PROTECT)
-                line = remove_existing_links(line, REMOVE_CATEGORIES)
-                line = restore_blocks(line, blocks)
+                # If we're already inside a COMPARE/INGREDIENTS/FACTS block, just copy through
+                if in_compare_block:
+                    output.append(line)
+                    if ")" in stripped:
+                        in_compare_block = False
+                    continue
 
-                linked = auto_link_html_safe_single_quotes(
-                    line,
+                # Detect start of COMPARE/INGREDIENTS/FACTS blocks
+                if stripped.startswith(("COMPARE(", "INGREDIENTS(", "FACTS(")):
+                    in_compare_block = True
+                    output.append(line)
+                    # Handle single-line macro case
+                    if ")" in stripped:
+                        in_compare_block = False
+                    continue
+
+                # Normal content in these sections gets auto-linked
+                processed, blocks = protect_blocks(line, LIQUID_PROTECT)
+                processed = remove_existing_links(processed, REMOVE_CATEGORIES)
+                processed = restore_blocks(processed, blocks)
+
+                processed = auto_link_html_safe_single_quotes(
+                    processed,
                     links,
                     exclude_phrases,
                     skip_links_to=current_permalink
                 )
 
-                output.append(linked)
+                output.append(processed)
                 continue
 
             # Any other front-matter line
@@ -5623,7 +5642,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-03-20-barbell")):
+            if not file.startswith(("2026-02-14")):
                 continue
 
             # exclude some files
