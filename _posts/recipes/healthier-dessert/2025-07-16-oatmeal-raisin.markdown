@@ -64,7 +64,7 @@ Instructions:
 - When fully combined, blend in <a href='/misc/dairy#skim-milk'>milk</a>, baking soda, and baking powder briefly to combine.  Transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Raisin/with-milk.jpg' alt='' class='instruction-image'>
 
-- Fold in the <a href='/misc/grains#oats'>rolled oats</a> and <a href='/misc/fruit#raisins'>raisins</a> with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>.  The cookie dough should be very loose, almost more like the consistency of a brownie batter
+- Fold in the <a href='/misc/grains#oats'>rolled oats</a> and <a href='/misc/fruit#raisins'>raisins</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  The cookie dough should be very loose, almost more like the consistency of a brownie batter
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Raisin/bowl.jpg' alt='' class='instruction-image'>
 
 - Using spoon, scoop the cookie dough onto to the pan, about 23 g each. These cookies won't flatten or spread as they bake, and will only puff up slightly

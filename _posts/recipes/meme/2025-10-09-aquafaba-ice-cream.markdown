@@ -54,7 +54,7 @@ Description: Do you know what to do with leftover <a href='/recipes/classic-tahi
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, beat your aquafaba and <a href='/misc/fruit#lemon-juice'>lemon juice</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> for about 3 minutes, or until foamy and you have soft peaks
 
-- Beat in the vanilla until fully combined. Next, beat in the sweetener. Finally, beat in the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> until just fully combined.  Don't overbeat, or you'll deflate the mixture
+- Beat in the vanilla until fully combined. Next, beat in the maple syrup. Finally, beat in the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> until just fully combined.  Don't overbeat, or you'll deflate the mixture
 
 - Freeze for 1 hour. Churn with your <a href='https://amzn.to/45yqsbM'>hand mixer</a>. Repeat 2 more times for a total of 3 hours
 
@@ -77,7 +77,7 @@ Notes:
     "Maple<br>Syrup",
     "Honey",
     "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
-    "<a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Granulated<br>Monk<br>Fruit</a>";
+    "<a href='https://amzn.to/4ceFnvP'>Granulated<br>Monk<br>Fruit</a>";
 
     "Calories",
     "Protein",

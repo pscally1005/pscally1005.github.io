@@ -54,8 +54,9 @@ tags:
 - dark chocolate
 Description: This <a href='/misc/overshadowed-healthy-foods#chocolate'>dark chocolate</a> contains (checks notes) ... no chocolate, that can't be right? A normal bar of chocolate consists of half <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a> solids (<a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>) and half cocoa fat (cocoa butter). Homemade chocolate tends to swap the cocoa butter for <a href='/misc/nuts#coconut'>coconut oil</a> though, as the latter is cheaper and easier to come by. I've also swapped the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> for carob powder here, using its mild sweetness to sweeten the bar. The final product is a 4 oz (113 g) bar of <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate</a> that's much cheaper and tastes similar to an 85% <a href='/misc/overshadowed-healthy-foods#chocolate'>dark chocolate</a>
 Instructions:
-- Microwave the <a href='/misc/nuts#coconut'>coconut oil</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a> for about 1:30, until fully melted. Stir in carob until fully combined. Optionally, add a small pinch of salt and some liquid sweetener, such as <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, honey, or maple syrup
+- Microwave the <a href='/misc/nuts#coconut'>coconut oil</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a> for about 1:30, until fully melted. Stir in carob until fully combined
 
 - Transfer to a parchment line <a href='https://amzn.to/3YUjIkN'>bread pan</a>, and refrigerate until hardened, about an hour. Cut into 8 squares, each 1/2 oz (14 g)
 Notes:
+- Optionally, add a small pinch of salt and some liquid sweetener, such as <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, honey, or maple syrup
 ---

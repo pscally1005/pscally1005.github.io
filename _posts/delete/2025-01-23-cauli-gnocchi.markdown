@@ -65,7 +65,7 @@ Instructions:
 
 - Meanwhile, in a <a href='https://amzn.to/4adxMft'>large bowl</a>, add the rest of the gnocchi dough ingredients - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#mozzarella'>mozzarella</a>, <a href='/misc/dairy#grated-cheese'>parmesan</a>, <a href='/misc/seeds#flax-seeds'>flax</a>, oregano, <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, and red pepper flakes
 
-- Add in the <a href='/misc/veggies#cauliflower'>cauliflower</a>, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until you have a fully combined dough
+- Add in the <a href='/misc/veggies#cauliflower'>cauliflower</a>, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a fully combined dough
 - <img src='/assets/Food/Meatless/Gnocchi/bowl.jpg' alt='' class='instruction-image'>
 
 - Shape your dough into little gnocchi pillows, and add to the sheet

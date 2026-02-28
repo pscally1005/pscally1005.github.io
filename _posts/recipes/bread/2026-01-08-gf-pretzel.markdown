@@ -57,10 +57,10 @@ Instructions:
 
 - Add all dry ingredients to a <a href='https://amzn.to/4adxMft'>medium bowl</a>, and whisk until fully combined
 
-- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Bread/GF Pretzel/cheese.jpg' alt='' class='instruction-image'>
 
-- Add the <a href='/misc/nuts#almonds'>almond flour</a> and a beaten <a href='/misc/meat#eggs'>egg</a> to the bowl with the melted <a href='/misc/dairy#mozzarella'>cheese</a>. Mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> to incorporate, and knead with your hands until combined.  The dough should be slightly sticky
+- Add the <a href='/misc/nuts#almonds'>almond flour</a> and a beaten <a href='/misc/meat#eggs'>egg</a> to the bowl with the melted <a href='/misc/dairy#mozzarella'>cheese</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to incorporate, and knead with your hands until combined.  The dough should be slightly sticky
 - <img src='/assets/Food/Bread/GF Pretzel/dough.jpg' alt='' class='instruction-image'>
 
 - Divide into 6 equal pieces (about 70 g each), and shape into pretzels on your prepared pan.  Brush the tops with water. Sprinkle the tops with flaky salt or everything bagel seasoning

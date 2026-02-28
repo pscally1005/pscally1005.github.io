@@ -50,9 +50,9 @@ Description: Every 2 weeks, I feed my <a href='/misc/whole-wheat-sourdough#start
 Instructions:
 - Preheat a cast iron or nonstick pan over medium heat with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, combine together your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> with salt and baking powder with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, combine together your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> with salt and baking powder with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 
-- Add 1/4 cup (half the mixture, 120 g) into the pan. Use a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a> to spread it into a 6 inch round flatbread. Add any toppings you like, such as <a href='/misc/dairy#mozzarella'>cheese</a> or everything bagel seasoning
+- Add 1/4 cup (half the mixture, 120 g) into the pan. Use a <a href='https://amzn.to/40F2aK0'>spatula</a> to spread it into a 6 inch round flatbread. Add any toppings you like, such as <a href='/misc/dairy#mozzarella'>cheese</a> or everything bagel seasoning
 
 - Cook each side for about 1-2 minutes, or until lightly browned. Repeat with the rest of the batter
 - <img src='/assets/Food/Bread/Discard flatbread/raw.jpg' alt='' class='instruction-image'>

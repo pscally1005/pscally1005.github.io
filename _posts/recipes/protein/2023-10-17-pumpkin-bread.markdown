@@ -65,16 +65,16 @@ Description: Fall season means <a href='/misc/veggies#pumpkin'>pumpkin</a> seaso
 Instructions:
 - Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and lightly grease the paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the wet ingredients until well combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, sweetener, and water (or <a href='/misc/dairy#skim-milk'>milk</a>)
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the wet ingredients until well combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and water (or <a href='/misc/dairy#skim-milk'>milk</a>)
 
-- In a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the dry ingredients until well combined - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, baking powder, cinnamon, baking soda, <a href='/misc/veggies#ginger'>ginger</a>, salt, and nutmeg
+- In a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the dry ingredients until well combined - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, baking powder, cinnamon, baking soda, <a href='/misc/veggies#ginger'>ginger</a>, salt, and nutmeg
 
 - Add the dry ingredients to the wet, and mix until just fully combined.  Transfer the batter to the pan
 
 - Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>. Let cook on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> before slicing
 - <img src='/assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-3.jpg' alt='' class='instruction-image'>
 Notes:
-- I've used 1 tsp (5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> here as my sweetener, but other good options are 1 tsp (5 g) liquid stevia, 2 tbsp (40 g) honey/maple syrup/<a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or 2 tbsp (25 g) <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>
+- I've used 1 tsp (5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> here as my sweetener, but other good options are 1 tsp (5 g) <a href='https://amzn.to/45wOzIv'>liquid stevia</a>, 2 tbsp (40 g) honey/maple syrup/<a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or 2 tbsp (25 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>
 
-- Note that my <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a> is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
+- Note that my <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
 ---

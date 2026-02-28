@@ -55,7 +55,7 @@ tags:
 - gluten free
 - chocolate chip cookies
 Description: |
-  These healthy keto <a href='/cookies'>cookies</a> use <a href='/misc/nuts#cashews'>cashew butter</a> as a base, and are sweetened with <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> and <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a>. With just 7 simple ingredients, you can make a <a href='/misc/hidden-sugar'>sugar free</a> and <a href='/misc/celiac'>gluten free</a> <a href='/cookies'>cookie</a> with the exact same taste and texture as the classic treat. They're crispy on the outside, soft on the inside, and contain only 3 g <a href='/misc/carbs'>net carbs</a> per cookie.<br><br>
+  These healthy keto <a href='/cookies'>cookies</a> use <a href='/misc/nuts#cashews'>cashew butter</a> as a base, and are sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a>. With just 7 simple ingredients, you can make a <a href='/misc/hidden-sugar'>sugar free</a> and <a href='/misc/celiac'>gluten free</a> <a href='/cookies'>cookie</a> with the exact same taste and texture as the classic treat. They're crispy on the outside, soft on the inside, and contain only 3 g <a href='/misc/carbs'>net carbs</a> per cookie.<br><br>
 
   They're also higher in <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/protein'>protein</a> from the <a href='/misc/nuts'>nuts</a>, making them a great snack to keep you satiated, instead of spiking your <a href='/misc/diabetes'>blood sugar</a> with empty <a href='/misc/hidden-sugar'>refined sugar</a> and <a href='/misc/carbs'>starch</a>.  All without copious amounts of <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/fats'>oil</a> that's typically found in keto <a href='/recipes/healthier-dessert'>desserts</a>.<br><br>
 
@@ -63,7 +63,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- Mix together the <a href='/recipes/natural-peanut-butter'>nut butter</a>, sweetener, <a href='/misc/meat#eggs'>egg</a>, vanilla, and baking soda until just combined. Fold in the chocolate chips
+- Mix together the <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='/misc/meat#eggs'>egg</a>, vanilla, and baking soda until just combined. Fold in the chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Keto Cookie/bowl.jpg' alt='' class='instruction-image'>
 
 - Scoop the cookies into 24 cookie dough balls, about 20 g each. Roll them in your hands, and place onto a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Press down to your desired thickness, and shape into a circle. These will puff up and expand just slightly when cooking
@@ -76,7 +76,7 @@ Notes:
 
 - My <a href='/recipes/natural-peanut-butter'>nut butter</a> is salted, but if you have unsalted <a href='/recipes/natural-peanut-butter'>nut butter</a>, I would recommend adding 1/2 tsp (3 g) salt
 
-- I'm using <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> with <a href='/misc/fake-healthy-foods#sugar-substitutes'>erythritol</a> as my sweetener here, but any granulated sweetener will work, such as stevia or <a href='/misc/fake-healthy-foods#sugar-substitutes'>allulose</a>
+- I'm using <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with <a href='https://amzn.to/4lkg3Hr'>erythritol</a> as my sweetener here, but any <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> will work, such as <a href='https://amzn.to/4beiNlT'>stevia</a> or <a href='https://amzn.to/4mzsH5p'>allulose</a>
 
 - I have not tried with a <a href='/misc/seeds#flax-seeds'>flax egg</a>, but it should work.  Just mix 1 tbsp (6.5 g) <a href='/misc/seeds#flax-seeds'>ground flaxseed</a> with 3 tbsp (45 g) water in a <a href='https://amzn.to/4adxMft'>small bowl</a>, and let sit for 10 minutes before mixing into the batter
 

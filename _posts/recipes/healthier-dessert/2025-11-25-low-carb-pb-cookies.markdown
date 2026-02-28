@@ -52,7 +52,7 @@ Description: This is a variant of my <a href='/recipes/keto-chocolate-chip-cooki
 Instructions:
 - Preheat your oven to 350F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Mix together the <a href='/recipes/natural-peanut-butter'>nut butter</a>, sweetener, <a href='/misc/meat#eggs'>egg</a>, vanilla, and baking soda until just combined with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>
+- Mix together the <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='/misc/meat#eggs'>egg</a>, vanilla, and baking soda until just combined with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>
 
 - Scoop the cookies into 24 cookie dough balls, about 17 g each. Roll them in your hands, and place onto a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Press down to your desired thickness, shape into a circle, and cross with a fork. These will puff up and expand just slightly when cooking
 

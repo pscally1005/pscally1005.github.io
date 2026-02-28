@@ -63,7 +63,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. Lightly grease the paper
 
-- In a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>, add the <a href='/recipes/natural-peanut-butter'>nut butter</a>, and microwave for 30 seconds to soften. Add in the rest of the ingredients, and combine with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- In a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>, add the <a href='/recipes/natural-peanut-butter'>nut butter</a>, and microwave for 30 seconds to soften. Add in the rest of the ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Baked Protein Bars/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top

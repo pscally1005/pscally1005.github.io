@@ -56,7 +56,7 @@ tags:
 - protein powder
 Description: <a href='/misc/dairy#cottage-cheese'>Cottage cheese</a> ice cream is more than just an Internet food trend. It's a <a href='/recipes/protein-powder'>protein packed dessert</a> that is filling and satisfies any ice cream cravings. This recipe adds in some <a href='/misc/dairy#whey'>protein powder</a> for even more of a <a href='/misc/protein'>protein</a> boost, and can be made in various flavors, like <a href='/misc/nuts#peanuts'>peanut butter</a> or mint chocolate.  For a dairy free healthy ice cream, make some <a href='/recipes/nice-cream'>Banana Nice Cream</a>
 Instructions:
-- Mix base ingredients together in a tupperware or small <a href='https://amzn.to/4bO4VQ3'>blender</a> - <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#whey'>whey</a>, sweetener, and vanilla
+- Mix base ingredients together in a tupperware or small <a href='https://amzn.to/4bO4VQ3'>blender</a> - <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and vanilla
 
 - Choose a flavor and mix in ingredients (see <a href='#notes'>notes</a> below)
 - <img src='/assets/Food/Protein Powder/Cottage Cheese Ice Cream/cc-cream-1.jpg' alt='' class='instruction-image'>

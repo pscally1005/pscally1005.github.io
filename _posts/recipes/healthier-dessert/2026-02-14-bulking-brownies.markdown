@@ -53,9 +53,9 @@ Description: These <a href='/brownies'>brownies</a> are the perfect snack for th
 Instructions:
 - Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper, and lightly <a href='https://amzn.to/3Hdg0gk'>grease with oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the wet ingredients - <a href='/misc/nuts#almonds'>almond butter</a>, liquid sweetener, <a href='/misc/meat#eggs'>eggs</a>, and vanilla
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the wet ingredients - <a href='/misc/nuts#almonds'>almond butter</a>, honey, <a href='/misc/meat#eggs'>eggs</a>, and vanilla
 
-- Add in the dry ingredients (baking powder, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and <a href='/misc/nuts#almonds'>almond flour</a>), and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
+- Add in the dry ingredients (baking powder, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and <a href='/misc/nuts#almonds'>almond flour</a>), and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 - <img src='/assets/Food/Healthier Dessert/Bulking brownies/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top

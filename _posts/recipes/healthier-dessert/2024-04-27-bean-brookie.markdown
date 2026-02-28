@@ -68,12 +68,12 @@ Instructions:
 
 - Starting with the <a href='/brownies'>brownie</a> layer, add all ingredients to the <a href='https://amzn.to/4q0AUjI'>food processor</a> - <a href='/misc/beans#black-beans'>black beans</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and vanilla
 
-- Transfer the brownie batter to the pan. Using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
+- Transfer the brownie batter to the pan. Using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-5.jpg' alt='' class='instruction-image'>
 
 - Moving on to the <a href='/brownies'>blondie</a> layer, repeat the same steps with the <a href='/brownies'>blondie</a> ingredients - <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and vanilla
 
-- Transfer the <a href='/brownies'>blondie</a> batter to the pan on top of the brownies. Using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
+- Transfer the <a href='/brownies'>blondie</a> batter to the pan on top of the brownies. Using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-8.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 20-25 minutes, or until a toothpick comes out fairly clean. A few crumbs left is generally ok. The <a href='/brownies'>brookies</a> will firm up much more as they cool, so they should look a bit underdone

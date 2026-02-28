@@ -60,7 +60,7 @@ Instructions:
 
 - Add your <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='/misc/meat#eggs'>egg</a>, salt, and baking soda to the processor. Blend until smooth, and transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
 
-- Add in the <a href='/misc/nuts#coconut'>coconut flour</a> 2 tbsp (15 g) at a time, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?campaignId=amzn1.campaign.1OO1S5W7ZMYBB'>silicone spatula</a> until you have a slightly sticky cookie dough. <a href='/misc/nuts#coconut'>Coconut flour</a> <a href='/misc/water-absorption#coconut'>absorbs a lot of water</a>, so we're adding it slowly to make sure we don't accidentally add too much. Chill the dough in the fridge for about 10 minutes
+- Add in the <a href='/misc/nuts#coconut'>coconut flour</a> 2 tbsp (15 g) at a time, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a slightly sticky cookie dough. <a href='/misc/nuts#coconut'>Coconut flour</a> <a href='/misc/water-absorption#coconut'>absorbs a lot of water</a>, so we're adding it slowly to make sure we don't accidentally add too much. Chill the dough in the fridge for about 10 minutes
 
 - Scoop about 1 tbsp (~19 g) per cookie and place onto the sheet. Lightly wet your hands to prevent sticking, and roll into balls. Flatten down into circles. Leave about an inch between each cookie. They will puff up very slightly in the oven, but not expand outwards
 

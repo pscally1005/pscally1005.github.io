@@ -63,6 +63,6 @@ Description: I love myself a classic <a href='/recipes/natural-peanut-butter'>na
 Instructions:
 - In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together the <a href='/misc/nuts'>nuts</a> until a smooth <a href='/recipes/natural-peanut-butter'>nut butter</a> is formed. Scrape down the sides every minute or so. This should take about 5-10 minutes
 
-- Then, choose your flavor, and blend in the rest of the ingredients with the salt (optional, depending on the saltiness of your <a href='/misc/nuts'>nuts</a>), sweetener (<a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or stevia), and <a href='/misc/dairy#whey'>protein powder</a> (unflavored <a href='/misc/dairy#whey'>whey</a>)
+- Then, choose your flavor, and blend in the rest of the ingredients with the salt (optional, depending on the saltiness of your <a href='/misc/nuts'>nuts</a>), <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/dairy#whey'>protein powder (unflavored whey)</a>
 Notes:
 ---

@@ -59,10 +59,10 @@ Description: Instead of <a href='/misc/grains#white-wheat'>refined white flour</
 Instructions:
 - Preheat your oven to 350F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/cheese.jpg' alt='' class='instruction-image'>
 
-- Add in the <a href='/misc/nuts#almonds'>almond flour</a> and a beaten <a href='/misc/meat#eggs'>egg</a>, and mix in with the <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a> to make a combined and slightly sticky dough
+- Add in the <a href='/misc/nuts#almonds'>almond flour</a> and a beaten <a href='/misc/meat#eggs'>egg</a>, and mix in with the <a href='https://amzn.to/40F2aK0'>spatula</a> to make a combined and slightly sticky dough
 - <img src='/assets/Food/Finger Food/Empanada/bowl.jpg' alt='' class='instruction-image'>
 
 - Scoop your dough into 12 equal sized pieces, about 2 tbsp (27 g) each, and roll into balls.  Place on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and flatten into a round and thin circle, about 1/4" thick

@@ -61,7 +61,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - cornmeal, <a href='/misc/nuts#almonds'>almond flour</a>, nutritional yeast, paprika, baking powder, cumin, oregano, thyme, salt, black pepper, baking soda, and cayenne
 
-- Add the wet ingredients to the bowl (water, <a href='/misc/fruit#apple'>applesauce</a>, and <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>) and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until smooth
+- Add the wet ingredients to the bowl (water, <a href='/misc/fruit#apple'>applesauce</a>, and <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>) and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until smooth
 - <img src='/assets/Food/Sides/Vegan Cornbread/bowl.jpg' alt='' class='instruction-image'>
 
 - Pour the batter into the pan, and smooth out the top

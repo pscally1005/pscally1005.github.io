@@ -68,7 +68,7 @@ Instructions:
 
 - In a separate <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and maple syrup (or honey)
 
-- Pour the wet ingredients into the dry and mix just until smooth with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Optionally fold in some chocolate chips
+- Pour the wet ingredients into the dry and mix just until smooth with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Optionally fold in some chocolate chips
 
 - Liberally grease a <a href='https://amzn.to/3T1ymDy'>mini muffin pan</a> with oil.  Evenly spoon the batter into the muffin holes
 - <img src='/assets/Food/Breakfast/Banana Bread/bb-raw.jpg' alt='' class='instruction-image'>

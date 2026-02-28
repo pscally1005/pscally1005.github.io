@@ -56,7 +56,7 @@ Instructions:
 
 - Add in your seasonings and mix. Cover, and cook until the <a href='/misc/veggies#onion'>onions</a> are translucent and everything is fully cooked to your liking (about 10 minutes). Taste, and adjust for seasoning. Remember that this is all the seasoning for the <a href='/misc/meat#eggs'>eggs</a> as well, so it should taste a little too strong of everything. Remove from heat and crack in your <a href='/misc/meat#eggs'>eggs</a>
 
-- Lower heat to medium low, and beat your <a href='/misc/meat#eggs'>eggs</a> with your <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a>, fully incorporating it with the <a href='/misc/veggies'>vegetables</a>
+- Lower heat to medium low, and beat your <a href='/misc/meat#eggs'>eggs</a> with your <a href='https://amzn.to/40F2aK0'>spatula</a>, fully incorporating it with the <a href='/misc/veggies'>vegetables</a>
 
 - Cook for a few minutes under frequent stirring, until the <a href='/misc/meat#eggs'>eggs</a> just look cooked. Be careful not to over cook them. Mix in some <a href='/recipes/hot-sauce'>hot sauce</a> at the end, top with a fresh or dried herb, and serve. Optionally, you can mix in some <a href='/misc/dairy'>cheese</a>
 - <img src='/assets/Food/Breakfast/Scrambled/scrambled-4.jpg' alt='' class='instruction-image'>

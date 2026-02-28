@@ -66,7 +66,7 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat your <a href='/misc/meat#egg-whites'>egg white</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until soft peaks form
 - <img src='/assets/Food/Breakfast/Protein Cereal/egg-white.jpg' alt='' class='instruction-image'>
 
-- Mix in the rest of the ingredients with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> - <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, cinnamon, <a href='/misc/dairy#whey'>whey</a>, and <a href='/misc/grains#oats'>rolled oats</a>
+- Mix in the rest of the ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, cinnamon, <a href='/misc/dairy#whey'>whey</a>, and <a href='/misc/grains#oats'>rolled oats</a>
 - <img src='/assets/Food/Breakfast/Protein Cereal/bowl.jpg' alt='' class='instruction-image'>
 
 - Add your raw mix to an <a href='https://amzn.to/43AzcfI'>air fryer liner</a>

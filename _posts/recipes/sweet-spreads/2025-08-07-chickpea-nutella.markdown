@@ -62,9 +62,9 @@ Notes:
 
 - You can also use 1/2 cup (160 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> in place of <a href='/misc/fruit#dates'>dates</a>
 
-- Alternatively, you can use <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> as your sweetener in place of <a href='/misc/fruit#dates'>dates</a>.  Replace the <a href='/misc/fruit#dates'>dates</a> with 1/2 cup (100 g) of <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, reduce the water to 2/3 cup (160 g), and <b>don't</b> roast the <a href='/misc/beans#chickpeas'>chickpeas</a>.  Just add everything to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
+- Alternatively, you can use <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> as your sweetener in place of <a href='/misc/fruit#dates'>dates</a>.  Replace the <a href='/misc/fruit#dates'>dates</a> with 1/2 cup (100 g) of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, reduce the water to 2/3 cup (160 g), and <b>don't</b> roast the <a href='/misc/beans#chickpeas'>chickpeas</a>.  Just add everything to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
 
-- All 3 variations (<a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>) will yield 18 servings of 2 tbsp (32 g) each
+- All 3 variations (<a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>) will yield 18 servings of 2 tbsp (32 g) each
 
 - Below is a table comparing the nutrition facts of my homemade spread to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> <b>per 100 g</b>.  As you can see, the homemade versions contain significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/hidden-sugar'>added sugar</a>, while having substantially more <a href='/misc/fiber'>fiber</a>
 
@@ -77,7 +77,7 @@ Notes:
 
     "With<br><a href='/misc/fruit#dates'>Dates</a>",
     "With<br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
-    "With<br><a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Granulated<br>Monk<br>Fruit</a>",
+    "With<br><a href='https://amzn.to/4ceFnvP'>Granulated<br>Monk<br>Fruit</a>",
     "<a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Storebought</a>";
 
     "Calories",

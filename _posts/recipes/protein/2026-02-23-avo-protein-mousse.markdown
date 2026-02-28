@@ -52,7 +52,7 @@ Instructions:
 - In a <a href='https://amzn.to/3VHhgMM'>small food processor</a>, blend together <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, vanilla extract, and salt. Sweeten to taste, transfer to a <a href='https://amzn.to/4adxMft'>small bowl</a>, and enjoy
 - <img src='/assets/Food/Protein Powder/Avo protein mousse/blend.jpg' alt='' class='instruction-image'>
 Notes:
-- With the vanilla <a href='/misc/dairy#whey'>protein powder</a>, this decadent and rich mousse is just sweet enough for me, but you may like some additional sweetener, just as <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, honey, maple syrup, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- With the vanilla <a href='/misc/dairy#whey'>protein powder</a>, this decadent and rich mousse is just sweet enough for me, but you may like some additional sweetener, such as <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, honey, maple syrup, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 
 - Top with whatever you like, such as <a href='/recipes/natural-peanut-butter'>nut butter</a> or <a href='/misc/fruit#blueberries'>berries</a>!
 ---

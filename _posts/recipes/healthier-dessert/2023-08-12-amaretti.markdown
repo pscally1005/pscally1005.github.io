@@ -52,9 +52,9 @@ tags:
 - allulose
 - erythritol
 - granulated monk fruit
-Description: Amaretti <a href='/cookies'>cookies</a> are an Italian classic at any holiday, and always my favorite <a href='/recipes/healthier-dessert'>dessert</a> at the table.  Traditionally containing <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and no <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/fats'>oil</a>, amaretti <a href='/cookies'>cookies</a> can be made healthy with very little changes.  This recipe is identical to the traditional, except with granulated <a href='/misc/hidden-sugar'>sugar</a> swapped for monk fruit.  Or you can make my <a href='/recipes/amaretti-cookies-with-dates'>Amaretti Cookies with Dates</a> instead if you prefer a more naturally sweetened version.  Both are <a href='/misc/celiac'>gluten free</a>, don't have any <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/fats'>oil</a>, and get their <a href='/misc/fats'>healthy fats</a> from <a href='/misc/nuts#almonds'>almonds</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!  To use up those leftover <a href='/misc/meat#eggs'>yolks</a>, whip up a quick <a href='/recipes/hollandaise'>Greek Yogurt Hollandaise Sauce</a>
+Description: Amaretti <a href='/cookies'>cookies</a> are an Italian classic at any holiday, and always my favorite <a href='/recipes/healthier-dessert'>dessert</a> at the table.  Traditionally containing <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and no <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/fats'>oil</a>, amaretti <a href='/cookies'>cookies</a> can be made healthy with very little changes.  This recipe is identical to the traditional, except with granulated <a href='/misc/hidden-sugar'>sugar</a> swapped for <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  Or you can make my <a href='/recipes/amaretti-cookies-with-dates'>Amaretti Cookies with Dates</a> instead if you prefer a more naturally sweetened version.  Both are <a href='/misc/celiac'>gluten free</a>, don't have any <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/fats'>oil</a>, and get their <a href='/misc/fats'>healthy fats</a> from <a href='/misc/nuts#almonds'>almonds</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!  To use up those leftover <a href='/misc/meat#eggs'>yolks</a>, whip up a quick <a href='/recipes/hollandaise'>Greek Yogurt Hollandaise Sauce</a>
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the <a href='/misc/nuts#almonds'>almond flour</a>, sweetener, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the <a href='/misc/nuts#almonds'>almond flour</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and salt
 
 - In a separate bowl (glass or metal), beat the <a href='/misc/meat#egg-whites'>egg whites</a> on high speed until medium to stiff peaks. Fresh <a href='/misc/meat#egg-whites'>egg whites</a> are recommended here, as <a href='/misc/meat#egg-whites'>carton egg whites</a> will not beat up as well.  A plastic bowl will also prevent the <a href='/misc/meat#egg-whites'>egg whites</a> from whipping properly
 
@@ -62,21 +62,21 @@ Instructions:
 
 - Gently fold the <a href='/misc/meat#eggs'>egg</a> mixture into the flour mixture with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>. Mix gently until just combined. Chill dough in the fridge for an hour
 
-- Preheat the oven to 325F and line 2 <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper.  In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add the powdered sweetener
+- Preheat the oven to 325F and line 2 <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper.  In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add the <a href='https://amzn.to/43vQs5E'>powdered sweetener</a>
 
-- Scoop your dough into 36 cookie dough balls, about 16 g each.  Roll each cookie into a small ball, roll the cookies in sweetener, transfer to the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and lightly flatten with your fingers
+- Scoop your dough into 36 cookie dough balls, about 16 g each.  Roll each cookie into a small ball, roll the cookies in the <a href='https://amzn.to/43vQs5E'>powdered sweetener</a>, transfer to the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and lightly flatten with your fingers
 
 - Bake for 12-13 minutes, rotating the sheets halfway through, or until lighly browned on the sides. Let cool on pan for 5 minutes, or until you can safely lift them up.  Transfer to a <a href='https://amzn.to/4qQNmn2'>cooling rack</a>
 - <img src='/assets/Food/Healthier Dessert/Amaretti/amaretti-7.jpg' alt='' class='instruction-image'>
 Notes:
-- Below is a table comparing if you used either <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>monk fruit</a> or <a href='/misc/hidden-sugar'>sugar</a> as the sweetener.  For the former, that means <b>1 cup (200 g) <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a></b> in the cookies, and rolling the dough in <b>3 tbsp (24 g) powdered monk fruit</b>.  The latter involes using <b>1 cup (200 g) granulated <a href='/misc/hidden-sugar'>sugar</a></b> instead in the cookies, and <b>3 tbsp (24 g) powdered sugar</b> for the rolling
+- Below is a table comparing if you used either <a href='https://amzn.to/4ceFnvP'>monk fruit</a> or <a href='/misc/hidden-sugar'>sugar</a> as the sweetener.  For the former, that means <b>1 cup (200 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></b> in the cookies, and rolling the dough in <b>3 tbsp (24 g) powdered monk fruit</b>.  The latter involes using <b>1 cup (200 g) granulated <a href='/misc/hidden-sugar'>sugar</a></b> instead in the cookies, and <b>3 tbsp (24 g) powdered sugar</b> for the rolling
 
 - |
   COMPARE(
     "amaretticookies",
     "amaretticookiessugar";
 
-    "<a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Monk<br>Fruit</a>",
+    "<a href='https://amzn.to/4ceFnvP'>Monk<br>Fruit</a>",
     "<a href='/misc/hidden-sugar'>White<br>Sugar</a>";
 
     "Calories",

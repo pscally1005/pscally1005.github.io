@@ -58,7 +58,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, onion soup mix, and baking soda until well combined
 
-- Pour in the buttermilk, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> to get a dough. Mix in the <a href='/misc/dairy#cheddar'>shredded cheese</a>
+- Pour in the buttermilk, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to get a dough. Mix in the <a href='/misc/dairy#cheddar'>shredded cheese</a>
 - <img src='/assets/Food/Meme/Onion Soup Bread/bowl.jpg' alt='' class='instruction-image'>
 
 - Add the dough to the pan, and shape to all sides. Optionally, top with more <a href='/misc/dairy#mozzarella'>cheese</a> (not included in nutrition facts)

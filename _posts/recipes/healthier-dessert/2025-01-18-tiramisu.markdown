@@ -66,7 +66,7 @@ Description: Tiramisù is a classic Italian dessert that consists of layers of c
 Instructions:
 - Line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and set aside
 
-- Mash your <a href='/misc/fruit#banana'>bananas</a> with the back of a fork in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Combine with the rest of the base ingredients using a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> - cinnamon, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, vanilla extract, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/grains#oats'>rolled oats</a>. Optionally, add 1/2 tsp (2.5 g) of either rum extract or instant coffee (or both!)
+- Mash your <a href='/misc/fruit#banana'>bananas</a> with the back of a fork in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Combine with the rest of the base ingredients using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - cinnamon, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, vanilla extract, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/grains#oats'>rolled oats</a>. Optionally, add 1/2 tsp (2.5 g) of either rum extract or instant coffee (or both!)
 - <img src='/assets/Food/Healthier Dessert/Tiramisu/bowl.jpg' alt='' class='instruction-image'>
 
 - Firmly press half the dry mixture (196 g) into the base of your pan

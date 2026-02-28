@@ -63,9 +63,9 @@ Instructions:
 
 - Whisk together dry ingredients (<a href='/misc/grains#oats'>oats</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, cornstarch, baking soda, and salt) in a bowl
 
-- In a separate bowl, mash your <a href='/misc/fruit#banana'>bananas</a>. Add the rest of the wet ingredients (<a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and sweetener) to the bowl and mix
+- In a separate bowl, mash your <a href='/misc/fruit#banana'>bananas</a>. Add the rest of the wet ingredients (<a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>) to the bowl and mix
 
-- Pour the wet ingredients into the dry, and combine with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>.  Fold in the chocolate chips
+- Pour the wet ingredients into the dry, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Fold in the chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the lined pan, and optionally top with a few extra chocolate chips

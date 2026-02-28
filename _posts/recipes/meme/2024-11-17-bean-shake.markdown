@@ -64,7 +64,7 @@ Notes:
 
 - Either unsweetened vanilla or unsweetened original <a href='/misc/dairy#almond-milk'>almond milk</a> are good, as well as any other non-dairy or <a href='/misc/dairy'>dairy</a> based milks
 
-- Liquid stevia will also work in place of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
+- <a href='https://amzn.to/45wOzIv'>Liquid stevia</a> will also work in place of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
 - For a vanilla milkshake, omit the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and use a light colored <a href='/misc/beans'>bean</a> (like <a href='/misc/beans#navy-beans'>navy</a> or <a href='/misc/beans#chickpeas'>chickpea</a>)>
 

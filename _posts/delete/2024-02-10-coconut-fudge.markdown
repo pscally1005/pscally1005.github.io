@@ -67,10 +67,11 @@ Description: The past week I've been obsessed with developing a healthy fudge re
 Instructions:
 - Add your <a href='/misc/nuts#coconut'>coconut flakes</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend on high speed to form your <a href='/misc/nuts#coconut'>coconut butter</a>, scraping down the sides every minute or so. This could take about 5 minutes, depending on your <a href='https://amzn.to/4q0AUjI'>food processor</a>. Be patient if it doesn't look like it's working right away
 
-- You can either use an overripe <a href='/misc/fruit#banana'>banana</a>, or bake a <a href='/misc/veggies#sweet-potato'>sweet potato</a>, scrape out the insides, and use <a href='/misc/veggies#sweet-potato'>sweet potato</a> mash instead. Add your sweetener to taste. I called for 2 tbsp, but you might prefer it with double. I honestly like it better with none, so see how you like it
+- You can either use an overripe <a href='/misc/fruit#banana'>banana</a>, or bake a <a href='/misc/veggies#sweet-potato'>sweet potato</a>, scrape out the insides, and use <a href='/misc/veggies#sweet-potato'>sweet potato</a> mash instead
 
 - Once you have a smooth <a href='/misc/nuts#coconut'>coconut butter</a> (it should be the similar to the consistency of a <a href='/recipes/natural-peanut-butter'>natural nut butter</a>), blend in the rest of the ingredients until smooth
 
 - Line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper (or a <a href='https://amzn.to/3YUjIkN'>bread pan</a> for a half batch). Press mixture evenly into the pan, and optionally top with flaky salt or chopped <a href='/misc/nuts'>nuts</a>. Refrigerate for a few fours to harden before slicing into small squares
 Notes:
+- Add your sweetener to taste. I called for 2 tbsp, but you might prefer it with double. I honestly like it better with none, so see how you like it
 ---

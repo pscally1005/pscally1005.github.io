@@ -62,7 +62,7 @@ Instructions:
 - Add the <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/dairy#skim-milk'>milk</a>, vanilla, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until smooth
 - <img src='/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-unblended.jpg' alt='' class='instruction-image'>
 
-- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
+- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
 - <img src='/assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-blended.jpg' alt='' class='instruction-image'>
 
 - Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be

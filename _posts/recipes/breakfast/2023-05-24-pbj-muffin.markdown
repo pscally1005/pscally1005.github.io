@@ -66,11 +66,11 @@ tags:
 - frozen blueberries
 Description: Blueberry muffins are a classic quick grab and go <a href='/recipes/breakfast'>breakfast</a> for a reason, but they're traditionally loaded with <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fats'>oils</a>. These ones however are much healthier than the classic though, packing <a href='/misc/fiber'>fiber</a> with <a href='/misc/grains#oats'>oat flour</a>, and avoiding tons of <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fats'>unhealthy fats</a>.  Check out my <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a> and my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a> for similar recipes
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#oats'>quick oats</a>, cornstarch, <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, and baking soda
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#oats'>quick oats</a>, cornstarch, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and baking soda
 
 - In a separate <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and maple syrup (or honey)
 
-- Pour the wet ingredients to the dry, and mix until just combined with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>. Fold in the <a href='/misc/fruit#blueberries'>blueberries</a>
+- Pour the wet ingredients to the dry, and mix until just combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Fold in the <a href='/misc/fruit#blueberries'>blueberries</a>
 
 - Liberally grease a <a href='https://amzn.to/4mzzEDl'>muffin pan</a> with <a href='https://amzn.to/3Hdg0gk'>spray</a>, and evenly spoon in the batter.  This recipe makes a dozen standard size muffins
 

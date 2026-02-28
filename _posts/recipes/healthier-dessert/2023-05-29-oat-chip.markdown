@@ -53,7 +53,7 @@ Description: These oatmeal cookies are a healthier alternative to the classic ch
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork, until smooth
 
-- To the bowl, add your honey, vanilla, baking powder, cinnamon, salt, and <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>.  Mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
+- To the bowl, add your honey, vanilla, baking powder, cinnamon, salt, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>.  Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 
 - Fold in the <a href='/misc/grains#oats'>rolled oats</a> and chocolate chips (minis preferred).  Chill the dough in the fridge for 30 minutes, so the <a href='/misc/grains#oats'>oats</a> can absorb the moisture
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Chip/bowl.jpg' alt='' class='instruction-image'>
@@ -66,9 +66,9 @@ Instructions:
 Notes:
 - 1/2 cup (120 g) <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, or <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> will all work in place of mashed <a href='/misc/fruit#banana'>banana</a>
 
-- Any liquid sweetener will work, such as honey, maple syrup, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- Any <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> will work, such as honey, maple syrup, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 
 - Optionally, add 1/4 tsp butter extract
 
-- <a href='/misc/nuts#coconut'>Coconut flour</a> or <a href='/misc/grains#oats'>oat flour</a> will work in place of <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>
+- <a href='/misc/nuts#coconut'>Coconut flour</a> or <a href='/misc/grains#oats'>oat flour</a> will work in place of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>
 ---

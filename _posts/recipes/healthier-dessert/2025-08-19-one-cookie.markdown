@@ -58,7 +58,7 @@ Description: Do you ever just want one <a href='/cookies'>cookie</a>?  You want 
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F on the <a href='https://amzn.to/3FuWETp'>air fry</a> setting
 
-- Mix together <a href='/recipes/natural-peanut-butter'>nut butter</a>, sweetener, and vanilla extract until smooth and you have a cookie dough texture. Fold in 2/3 (10 g) of your chocolate chips
+- Mix together <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and vanilla extract until smooth and you have a cookie dough texture. Fold in 2/3 (10 g) of your chocolate chips
 
 - Flatten the cookie onto a small piece of parchment paper, shape into a circle, and top with your remaining chocolate chips
 - <img src='/assets/Food/Healthier Dessert/One cookie/raw.jpg' alt='' class='instruction-image'>
@@ -70,7 +70,7 @@ Notes:
 
 - |
   <div id='coconut-oil' class='table-of-contents-2'></div>
-  Alternatively, below is a recipe using <a href='/misc/nuts#coconut'>coconut oil</a> as the <a href='/misc/fats'>fat</a> instead of a <a href='/recipes/natural-peanut-butter'>nut or seed butter</a>.  It's essentially my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a> recipe using <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> in place of <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/hidden-sugar'>sugar</a>, and scaled down to 3 servings (1 large <a href='/cookies'>cookie</a>)<br><br>
+  Alternatively, below is a recipe using <a href='/misc/nuts#coconut'>coconut oil</a> as the <a href='/misc/fats'>fat</a> instead of a <a href='/recipes/natural-peanut-butter'>nut or seed butter</a>.  It's essentially my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a> recipe using <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> in place of <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/hidden-sugar'>sugar</a>, and scaled down to 3 servings (1 large <a href='/cookies'>cookie</a>)<br><br>
 
   The instructions are the same.  Combine all ingredients together in a <a href='https://amzn.to/4adxMft'>small bowl</a>, flatten onto a sheet of parchment paper, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 300F for about 12 minutes, or until golden brown
 - INGREDIENTS(onecookiecoconutoil)

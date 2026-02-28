@@ -62,7 +62,7 @@ Instructions:
 
 - Simmer the filling over medium heat (covered for the first half) for about 30-40 minutes with occasional stirring. The mixture should be thick and jam like, and the <a href='/misc/fruit#dates'>dates</a> should mashed and broken down.  Optionally, stir in some rum extract (1 tsp, 4 g).  Let cool completely before filling the cookies
 
-- For the dough, whisk together the dry ingredients - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#oats'>oat flour</a>, baking powder, and salt.  Add in the <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and vanilla, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined
+- For the dough, whisk together the dry ingredients - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#oats'>oat flour</a>, baking powder, and salt.  Add in the <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and vanilla, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 - <img src='/assets/Food/Healthier Dessert/Cuccidati/bowl.jpg' alt='' class='instruction-image'>
 
 - Roll out your dough between 2 pieces of parchment paper. It should be about 10x15 inches, and 1/8-1/4 inch thick.  Cut the rectangle down the center to have 2 doughs of 5x15 inches each. Add the filling lengthwise to the center of each of your dough rectangles

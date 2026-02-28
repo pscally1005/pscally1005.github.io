@@ -53,7 +53,7 @@ tags:
 - chocolate chip
 Description: This <a href='/misc/nuts#peanuts'>peanut butter</a> cheesecake is a great <a href='/misc/celiac'>gluten free</a> and <a href='/misc/high-protein'>high protein</a> <a href='/recipes/healthier-dessert'>dessert</a> option. It as work as a protein bar too, as it even has more than 10 of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calories</a>. Fold in some chocolate chips or serve with some <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/fruit#blueberries'>berries</a> to mix it up
 Instructions:
-- Mix ingredients together in a bowl or <a href='https://amzn.to/4q0AUjI'>food processor</a> until smooth - whipped <a href='/misc/dairy#cottage-cheese'>fat free cottage cheese</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a>, cornstarch, vanilla, and sweetener
+- Mix ingredients together in a bowl or <a href='https://amzn.to/4q0AUjI'>food processor</a> until smooth - whipped <a href='/misc/dairy#cottage-cheese'>fat free cottage cheese</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cornstarch, vanilla, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
 - Line an <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> with parchment paper and <a href='https://amzn.to/3Hdg0gk'>spray</a>. Pour in the mixture and even out. Optionally top with chocolate chips (2 tbsp, 30 g)
 

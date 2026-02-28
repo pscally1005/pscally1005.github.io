@@ -56,12 +56,12 @@ Description: This fudge is a healthy version of my <a href='/recipes/classic-fud
 Instructions:
 - Line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper, and set aside. You can also use a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> for a half batch
 
-- In a <a href='https://amzn.to/46ccg8m'>medium saucepot</a> over medium-high heat, combine the evaporated milk, <a href='/misc/dairy#butter'>butter</a>, and salt with a heat-proof <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>.  Wear an oven mitt on your mixing hand to prevent burning from splashing
+- In a <a href='https://amzn.to/46ccg8m'>medium saucepot</a> over medium-high heat, combine the evaporated milk, <a href='/misc/dairy#butter'>butter</a>, and salt with a heat-proof <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Wear an oven mitt on your mixing hand to prevent burning from splashing
 
 - Bring to a full rolling boil. Stir constantly, scraping the bottom, sides, and corners of the pot to prevent sticking and burning.  Let boil for 5 minutes under constant stirring
 - <img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-boil.jpg' alt='' class='instruction-image'>
 
-- Remove from heat and add your chocolate, vanilla, and monk fruit. Vigorously stir until all the chocolate has melted, and the fudge is fully smooth
+- Remove from heat and add your chocolate, vanilla, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Vigorously stir until all the chocolate has melted, and the fudge is fully smooth
 - <img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-choc.jpg' alt='' class='instruction-image'>
 
 - Transfer the fudge into your lined pan, and level it out by tilting the pan.  Chill in the fridge for 3 hours to set before slicing

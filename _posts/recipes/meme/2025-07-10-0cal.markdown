@@ -49,11 +49,11 @@ tags:
 - meringue
 - granulated monk fruit
 - zero calories
-Description: No this isn't a joke (okay maybe it is a little bit).  But with just 2 ingredients and a little bit of rounding, you can make 0 <a href='/misc/calories'>calorie</a> <a href='/cookies'>cookies</a>.  I've taken my <a href='/recipes/styrofoam-cookies'>Nut Butter Styrofoam Cookies</a> and just removed the <a href='/misc/nuts#peanuts'>peanut butter</a>.  These dead simple meringue <a href='/cookies'>cookies</a> use just <a href='/misc/meat#egg-whites'>egg whites</a> and <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> for a light and tasty <a href='/cookies'>cookie</a> with a cloud like texture
+Description: No this isn't a joke (okay maybe it is a little bit).  But with just 2 ingredients and a little bit of rounding, you can make 0 <a href='/misc/calories'>calorie</a> <a href='/cookies'>cookies</a>.  I've taken my <a href='/recipes/styrofoam-cookies'>Nut Butter Styrofoam Cookies</a> and just removed the <a href='/misc/nuts#peanuts'>peanut butter</a>.  These dead simple meringue <a href='/cookies'>cookies</a> use just <a href='/misc/meat#egg-whites'>egg whites</a> and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> for a light and tasty <a href='/cookies'>cookie</a> with a cloud like texture
 Instructions:
 - Preheat your oven to 325F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat your <a href='/misc/meat#egg-whites'>egg white</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until stiff peaks form, about 2 minutes. Gradually beat in the sweetener until you have glossy peaks
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat your <a href='/misc/meat#egg-whites'>egg white</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until stiff peaks form, about 2 minutes. Gradually beat in the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> until you have glossy peaks
 - <img src='/assets/Food/Meme/0 Cal/egg-white.jpg' alt='' class='instruction-image'>
 
 - Use a spoon to dollop the cookies onto the tray

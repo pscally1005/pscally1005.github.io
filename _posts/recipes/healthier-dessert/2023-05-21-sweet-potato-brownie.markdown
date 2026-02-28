@@ -65,10 +65,10 @@ Instructions:
 
 - In a separate bowl, mix together the wet ingredients - syrup, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/fruit#apple'>applesauce</a>, vanilla, melted chocolate and puree
 
-- Add the dry ingredients into the wet, sifting if necessary. Fold with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until fully combined; don't over mix. The batter should be pretty thick
+- Add the dry ingredients into the wet, sifting if necessary. Fold with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined; don't over mix. The batter should be pretty thick
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-4.jpg' alt='' class='instruction-image'>
 
-- Transfer the batter to your parchment lined pan, and smooth the top with your <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a>
+- Transfer the batter to your parchment lined pan, and smooth the top with your <a href='https://amzn.to/40F2aK0'>spatula</a>
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-5.jpg' alt='' class='instruction-image'>
 
 - Bake in a preheated 350F oven for about 20 minutes, or until the center is just set to the touch and a toothpick comes out mostly clean with some wet crumbs

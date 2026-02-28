@@ -57,7 +57,7 @@ tags:
 - sugar free
 - gluten free
 Description: |
-  Fun fact:<b></b> coffee cake doesn't have any coffee. It's named as such because it was served alongside coffee. On the other hand, this coffee loaf is a sweet quick bread with ground decaf coffee. I've taken the original recipe, and swapped out the unhealthy, empty <a href='/misc/calories'>calorie</a>, inflammatory <a href='/misc/hidden-sugar'>white sugar</a>, <a href='/misc/dairy#butter'>butter</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with more wholesome ingredients, like <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, <a href='/misc/fruit#apple'>unsweetened applesauce</a>, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
+  Fun fact:<b></b> coffee cake doesn't have any coffee. It's named as such because it was served alongside coffee. On the other hand, this coffee loaf is a sweet quick bread with ground decaf coffee. I've taken the original recipe, and swapped out the unhealthy, empty <a href='/misc/calories'>calorie</a>, inflammatory <a href='/misc/hidden-sugar'>white sugar</a>, <a href='/misc/dairy#butter'>butter</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with more wholesome ingredients, like <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/fruit#apple'>unsweetened applesauce</a>, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
 
   This reduces the <a href='/misc/calories'>calories</a>, ups the <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> contents, lowers the <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carb</a> contents, and adds more crucial <a href='/misc/nutrient-alphabet'>vitamins and minerals</a>.  You can even make it <a href='/misc/celiac'>gluten free</a>; just check out the <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#notes'>below</a>.  A slice of this makes a great snack for any of you coffee lovers out there!
 Instructions:
@@ -67,7 +67,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the flour, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, baking powder, cinnamon, and salt
 
-- In a separate bowl, add your <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated sweetener</a>, and <a href='/misc/meat#eggs'>eggs</a>. Beat until smooth with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- In a separate bowl, add your <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and <a href='/misc/meat#eggs'>eggs</a>. Beat until smooth with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 
 - Add the coffee and the liquid ingredients into the dry. Mix until just fully combined. Don't over mix, or you could develop the gluten and get a chewy and tough cake (see <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#notes'>below</a>)
 
@@ -107,7 +107,7 @@ Notes:
 - If you don't need it <a href='/misc/celiac'>gluten free</a>, you can simply use 2 cup (240 g) <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  If it needs to be <a href='/misc/celiac'>gluten free</a> though, you can replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with the following blend of flours
 - INGREDIENTS(coffeeloafgfflour)
 
-- The original recipe used 1 stick (113 g) unsalted <a href='/misc/dairy#butter'>butter</a>, 3/4 cup (150 g) granulated <a href='/misc/hidden-sugar'>sugar</a>, and 2 cup (240 g) <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='/misc/fruit#apple'>applesauce</a>, monk fruit, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If you don't care to make it healthy, you can do that instead
+- The original recipe used 1 stick (113 g) unsalted <a href='/misc/dairy#butter'>butter</a>, 3/4 cup (150 g) granulated <a href='/misc/hidden-sugar'>sugar</a>, and 2 cup (240 g) <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. If you don't care to make it healthy, you can do that instead
 
 - |
   COMPARE(

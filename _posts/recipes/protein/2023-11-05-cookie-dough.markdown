@@ -54,9 +54,9 @@ tags:
 - oats
 Description: This edible cookie dough is so simple, and a much healthier way to enjoy a classic treat. They use <a href='/misc/dairy#casein'>casein protein</a> as the flour, but for a non <a href='/misc/protein'>protein</a> version, you can use <a href='/misc/grains#oats'>oat flour</a>. I decided to make some homemade <a href='/recipes/chocolate-bar'>Sugar Free Chocolate Bar</a>, but feel free to swap that with some chocolate chips too.  Or see my <a href='/recipes/chickpea-chows'>Chickpea Chows</a> for another <a href='/misc/high-protein'>high protein</a> healthy cookie dough recipe.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- Start by preparing your chocolate. In a microwave safe bowl, melt the <a href='/misc/nuts#coconut'>coconut oil</a>. Combine with the rest of the chocolate ingredients - <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, sweeteners (stevia/monkfruit and honey), and a small pinch of salt
+- Start by preparing your chocolate. In a microwave safe bowl, melt the <a href='/misc/nuts#coconut'>coconut oil</a>. Combine with the rest of the chocolate ingredients - <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, honey, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and a small pinch of salt
 
-- Line a Tupperware with parchment paper. Use a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> to scrape all the melted chocolate into the pan. Freeze to harden
+- Line a Tupperware with parchment paper. Use a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to scrape all the melted chocolate into the pan. Freeze to harden
 
 - For the cookie dough, combine the ingredients in a <a href='https://amzn.to/4adxMft'>medium bowl</a> in the following order - <a href='/misc/fruit#apple'>applesauce</a>, honey, vanilla, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and salt.  Add in the <a href='/misc/dairy#casein'>casein</a>, thin out with <a href='/misc/dairy#skim-milk'>milk</a>, and mix to form a slightly sticky cookie dough
 

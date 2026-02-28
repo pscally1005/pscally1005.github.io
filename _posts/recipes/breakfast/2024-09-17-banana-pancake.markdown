@@ -63,7 +63,7 @@ Instructions:
 
 - Scoop batter into the pan. Cover, and cook over medium heat for about a minute, or until bubbles start to form. Flip, and cook for an additional minute. Remove from the pan, transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> or plate, and repeat. This recipe should make about 6 small pancakes and serves 1 for <a href='/recipes/breakfast'>breakfast</a>
 Notes:
-- Instead of liquid stevia/monk fruit, you can also use 1/2 tbsp (10 g) honey/maple syrup/<a href='/recipes/sugar-free-syrup'>sugar free syrup</a> or 1 tbsp (15 g) mini chocolate chips. Or use a flavored <a href='/misc/dairy#whey'>protein powder</a> instead of unflavored (vanilla recommended).
+- Instead of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>/<a href='https://amzn.to/45wOzIv'>stevia</a>, you can also use 1/2 tbsp (10 g) honey/maple syrup/<a href='/recipes/sugar-free-syrup'>sugar free syrup</a> or 1 tbsp (15 g) mini chocolate chips. Or use a flavored <a href='/misc/dairy#whey'>protein powder</a> instead of unflavored (vanilla recommended).
 
 - This recipe also works as <a href='/misc/fake-healthy-foods#pancakes'>waffles</a>.  Preheat a waffle iron over medium heat with some oil.  Cook for about 3 minutes, or until lightly browned and no longer sticking
 ---

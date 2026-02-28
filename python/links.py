@@ -340,7 +340,10 @@ LINKS = {
         "sugar-free syrup",
         "sf syrup",
         "syrup",
-        "sfs"
+        "sfs",
+        "liquid sweeteners",
+        "liquid sweetener",
+        "liquid zero calorie sweetener"
     ],
     "/recipes/natural-peanut-butter": [
         "homemade natural peanut butters",
@@ -1418,6 +1421,10 @@ LINKS = {
         "butter"
     ],
     "/misc/dairy#casein": [
+        "protein powder (unflavored casein)",
+        "protein powder (casein)",
+        "protein powder (vanilla casein)",
+        "protein powder (chocolate casein)",
         "casein protein powder",
         "casein proteins",
         "casein protein",
@@ -1512,6 +1519,10 @@ LINKS = {
         "swiss"
     ],
     "/misc/dairy#whey": [
+        "protein powder (unflavored whey)",
+        "protein powder (whey)",
+        "protein powder (vanilla whey)",
+        "protein powder (chocolate whey)",
         "whey protein powder",
         "whey protein",
         "whey",
@@ -3017,7 +3028,7 @@ LINKS = {
     "https://amzn.to/4raSjqy": [
         "metal spatula"
     ],
-    "https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605": [
+    "https://amzn.to/40F2aK0": [
         "silicone spatula",
         "spatula"
     ],
@@ -3030,25 +3041,62 @@ LINKS = {
     ],
     "https://amzn.to/3SqwsMO": [
         "liquid monk fruit",
-        "liquid stevia or monk fruit",
-        "liquid monk fruit or stevia",
-        "liquid monk fruit (or stevia)",
-        "liquid stevia (or monk fruit)",
-        "liquid stevia",
-        "liquid stevia/monk fruit",
-        "liquid monk fruit/stevia"
+        # "liquid stevia or monk fruit",
+        # "liquid monk fruit or stevia",
+        # "liquid monk fruit (or stevia)",
+        # "liquid stevia (or monk fruit)",
+        # "liquid stevia",
+        # "liquid stevia/monk fruit",
+        # "liquid monk fruit/stevia"
+        "monk fruit"
     ],
-    "https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417": [
+    "https://amzn.to/45wOzIv": [
+        "liquid stevia"
+    ],
+    "https://amzn.to/4sgDH9S": [
         "powdered peanut butter",
         "peanut flour",
         "powdered peanuts"
     ],
-    "https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598": [
+    "https://amzn.to/4ceFnvP": [
         "granulated monk fruit",
+        "granulated sweeteners",
         "granulated sweetener",
+        "granulated zero calorie sweeteners",
+        "granular zero calorie sweeteners",
         "granulated zero calorie sweetener",
         "granular zero calorie sweetener",
+        "granular sweeteners",
         "granular sweetener"
+        "zero calorie sweetener",
+        "low calorie sweetener"
+    ],
+    "https://amzn.to/43vQs5E": [
+        "powdered monk fruit",
+        "powdered sweeteners",
+        "powdered sweetener",
+        "powdered zero calorie sweeteners",
+        "powder zero calorie sweeteners",
+        "powdered zero calorie sweetener",
+        "powder zero calorie sweetener",
+        "powdered sweeteners",
+        "powdered sweetener"
+    ],
+    "https://amzn.to/4mzsH5p": [
+        "allulose"
+    ],
+    "https://amzn.to/4lkg3Hr": [
+        "erythritol"
+    ],
+    "https://amzn.to/4beiNlT": [
+        "granulated stevia",
+        "stevia"
+    ],
+    "https://amzn.to/4layTR1": [
+        "stevia sweetened electrolyte mix",
+        "flavored electrolyte mix",
+        "electrolyte mix",
+        "electrolyte powder"
     ],
     "https://amzn.to/43ycqF2": [
         "lactase enzyme"
@@ -3685,9 +3733,9 @@ LINKS = {
         "chocolate (less than 70%)"
     ],
     "/misc/fake-healthy-foods#sugar-substitutes": [
-        "sugar alcohols erythritol",
-        "sugar alcohol erythritol",
-        "erythritol",
+        # "sugar alcohols erythritol",
+        # "sugar alcohol erythritol",
+        # "erythritol",
         "sugar alcohols maltitol",
         "sugar alcohol maltitol",
         "maltitol",
@@ -3710,7 +3758,7 @@ LINKS = {
         "artificial sweeteners saccharin",
         "artificial sweetener saccharin",
         "saccharin",
-        "allulose",
+        # "allulose",
         "artificial sweeteners",
         "artificial sweetener"
     ],

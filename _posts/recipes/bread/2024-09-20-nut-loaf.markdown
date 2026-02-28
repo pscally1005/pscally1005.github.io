@@ -33,7 +33,7 @@ section5:
 Prep: 15
 Rest:
 Cook: 70
-Source1: https://nutritionrefined.com/nut-seed-bread/?utm_source=whisk&utm_medium=webapp&utm_campaign=nordic_nut_loaf
+Source1: https://nutritionrefined.com/nut-seed-bread/#recipe
 Source2:
 Source3:
 Source4:

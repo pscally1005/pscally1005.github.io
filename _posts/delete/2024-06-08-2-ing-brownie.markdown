@@ -75,5 +75,5 @@ Instructions:
 
 - Let cool on the counter for a few minutes before transferring to the fridge to cool and set (at least a few hours) before cutting and serving
 Notes:
-- If you choose to make your own chocolate instead, microwave the <a href='/misc/nuts#coconut'>coconut oil</a> for about 1:30 until fully melted. Stir in the cocoa and sweetener until smooth.  Either way, set your chocolate aside to cool after melting
+- If you choose to make your own chocolate instead, microwave the <a href='/misc/nuts#coconut'>coconut oil</a> for about 1:30 until fully melted. Stir in the cocoa and <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> until smooth.  Either way, set your chocolate aside to cool after melting
 ---

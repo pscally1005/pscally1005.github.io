@@ -63,7 +63,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease the paper with oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, monk fruit, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, baking powder, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, baking powder, and salt
 
 - Add in the wet ingredients (vanilla, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and water), and combine with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a> until combined and you have a thick but liquidy brownie batter
 - <img src='/assets/Food/Finger Food/Fiber One/bowl.jpg' alt='' class='instruction-image'>
@@ -79,9 +79,9 @@ Instructions:
 Notes:
 - For another recipe with <a href='https://amzn.to/47w8h7R'>inulin</a>, check out my <a href='/recipes/keto-bread-loaf'>Keto Bread Loaf Recipe</a>
 
-- To make <a href='https://amzn.to/495pUN5'>Copycat Fiber One Cookie Bars</a> instead, replace the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> with <a href='https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417'>powdered peanut butter</a> (1/2 cup, 48 g)
+- To make <a href='https://amzn.to/495pUN5'>Copycat Fiber One Cookie Bars</a> instead, replace the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> with <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> (1/2 cup, 48 g)
 
-- To make <a href='https://www.walmart.com/ip/Great-Value-Chocolate-Fudge-Fiber-Brownie-Baked-Bars-Value-Pack-0-89-oz-12-Count/163790745?fulfillmentIntent=Pickup&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22Pickup%22%5D%7D%5D&classType=VARIANT&athbdg=L1600&from=/search'>Copycat Great Value Fiber Brownies</a> instead, replace the monk fruit with granulated <a href='/misc/hidden-sugar'>sugar</a> (6 tbsp, 72 g), and replace the <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> with regular chocolate chips (2 tbsp, 30 g).  The Walmart knockoffs use <a href='/misc/hidden-sugar'>added sugar</a> instead of <a href='/misc/fake-healthy-foods#sugar-substitutes'>sugar alcohols</a>, which is why they have 90 <a href='/misc/calories'>calories</a> instad of 70
+- To make <a href='https://www.walmart.com/ip/Great-Value-Chocolate-Fudge-Fiber-Brownie-Baked-Bars-Value-Pack-0-89-oz-12-Count/163790745?fulfillmentIntent=Pickup&filters=%5B%7B%22intent%22%3A%22fulfillmentIntent%22%2C%22values%22%3A%5B%22Pickup%22%5D%7D%5D&classType=VARIANT&athbdg=L1600&from=/search'>Copycat Great Value Fiber Brownies</a> instead, replace the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with granulated <a href='/misc/hidden-sugar'>sugar</a> (6 tbsp, 72 g), and replace the <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> with regular chocolate chips (2 tbsp, 30 g).  The Walmart knockoffs use <a href='/misc/hidden-sugar'>added sugar</a> instead of <a href='/misc/fake-healthy-foods#sugar-substitutes'>sugar alcohols</a>, which is why they have 90 <a href='/misc/calories'>calories</a> instad of 70
 
 - |
   COMPARE(
@@ -90,8 +90,8 @@ Notes:
     "fiberonesugar",
     "fiberonepb2sugar";
 
-    "<a href='#recipe'>Brownie Bar</a><br><a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Monk Fruit</a>",
-    "Cookie Bar<br><a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>Monk Fruit</a>",
+    "<a href='#recipe'>Brownie Bar</a><br><a href='https://amzn.to/4ceFnvP'>Monk Fruit</a>",
+    "Cookie Bar<br><a href='https://amzn.to/4ceFnvP'>Monk Fruit</a>",
     "Brownie Bar<br><a href='/misc/hidden-sugar'>Added Sugar</a>",
     "Cookie Bar<br><a href='/misc/hidden-sugar'>Added Sugar</a>";
 

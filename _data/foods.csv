@@ -150,7 +150,7 @@ Whole wheat tortilla,tortilla,3.18,454.00,0.00700,30,FALSE,TRUE,TRUE,TRUE,TRUE,T
 Low sugar berry jam,jam-low-sugar,3.12,364.00,0.00857,38,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,/recipes/berry-jam
 Nonfat cottage cheese,cottage-cheese,2.94,672.00,0.00438,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.5,0,
 "Nutmeg, ground",nutmeg-ground,2.42,42.00,0.05762,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
-Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,https://www.amazon.com/dp/B07SXBL1GF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2L4DOI4F1KV3G&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.2L4DOI4F1KV3G_1767022097417
+Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4sgDH9S
 Skippy peanut butter,skippy,6.27,"1,132.00",0.00554,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6.3,0.0,0.0,0.0,0,
 Natural peanut butter,peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/natural-peanut-butter
 "Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/natural-peanut-butter
@@ -300,7 +300,7 @@ Unsweetened coconut flakes,coconut-flakes,2.64,196.00,0.01347,10,TRUE,TRUE,TRUE,
 Pitted dates,dates,3.99,672.00,0.00594,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Dates,dates,3.99,672.00,0.00594,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 100% chocolate,unsweetened-chocolate,0.95,113.00,0.00841,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/chocolate-bar
-Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598
+Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://amzn.to/4ceFnvP
 Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://amzn.to/43wL0zp
 Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://amzn.to/43vQs5E
 Pecans,pecans,9.87,454.00,0.02174,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
@@ -351,7 +351,7 @@ Corn on the cob,corn,0.50,102.00,0.00490,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.
 Marmite,marmite,7.50,124.52,0.06023,0,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,https://amzn.to/45p7lBy
 Celery,celery,2.38,454.00,0.00524,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Nutricost Electrolyte Mix,electrolyte-mix,17.95,341.00,0.05264,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3FxWcDZ
-Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://www.amazon.com/dp/B0C67M4VMF?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.311ZWF0YT68R5&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.311ZWF0YT68R5_1767022006491
+Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4layTR1
 "Basil, fresh",basil-fresh,3.29,113.20,0.02906,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Millet flour,millet-flour,3.59,566.00,0.00634,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/4dLczd1
 "Psyllium husks, whole",psyllium-husk,7.99,339.60,0.02353,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3FAdvEl

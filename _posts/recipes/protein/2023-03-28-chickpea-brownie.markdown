@@ -86,9 +86,9 @@ Notes:
 
 - If you have flavored <a href='/misc/dairy#whey'>protein powder</a>, either reduce or omit the honey.  Adjust the sweetness to your taste
 
-- Any liquid sweetener will work in place of honey, like maple syrup, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or <a href='/misc/homemade-fruit-syrup'>Homemade Fruit Syrup</a>
+- Any <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> will work in place of honey, like maple syrup, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or <a href='/misc/homemade-fruit-syrup'>Homemade Fruit Syrup</a>
 
-- You can also use <a href='https://amzn.to/3SqwsMO'>liquid stevia or monk fruit</a>.  Replace the honey with about 2 tsp (10 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit or stevia</a>.  Again, taste the batter and adjust the sweetness to your personal preferences
+- You can also use <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>.  Replace the honey with about 2 tsp (10 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>.  Again, taste the batter and adjust the sweetness to your personal preferences
 
 - <a href='/misc/fruit#apple'>Unsweetened applesauce</a>, <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a>, <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a>, or <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> will all work in place of ripe <a href='/misc/fruit#banana'>bananas</a>
 

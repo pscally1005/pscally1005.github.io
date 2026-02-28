@@ -54,7 +54,7 @@ Instructions:
 - Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> florets to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  I used a pound of frozen <a href='/misc/veggies#cauliflower'>cauliflower</a> that I defrosted, but fresh will work too.  Pulse a couple of times to chop it to a <a href='/misc/grains#brown-rice'>rice</a> consistency, but be careful not to overblend.  Here's what it should look like
 - <img src='/assets/Food/Sides/Cauli Rice/cauli-rice-1.jpg' alt='' class='instruction-image'>
 
-- Remove the blade from the <a href='https://amzn.to/4q0AUjI'>food processor</a>, and mix in the spices with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a>.  Transfer to your heated pan
+- Remove the blade from the <a href='https://amzn.to/4q0AUjI'>food processor</a>, and mix in the spices with a <a href='https://amzn.to/40F2aK0'>spatula</a>.  Transfer to your heated pan
 
 - Cook over medium heat for about 5-10 minutes with occasional stirring to cook off the water.  The <a href='/misc/veggies#cauliflower'>cauliflower</a> should become lightly crispy and browned, like the texture of <a href='/misc/grains#brown-rice'>rice</a>.  Don't mix too much or it will become mushy.  Adjust with spices to taste, garnish with parsley, and serve
 - <img src='/assets/Food/Sides/Cauli Rice/cauli-rice-3.jpg' alt='' class='instruction-image'>

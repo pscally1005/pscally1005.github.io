@@ -60,7 +60,7 @@ Instructions:
 
 - Transfer to a medium glass and serve
 Notes:
-- Add some monk fruit if you want it sweeter
+- Add some <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> if you want it sweeter
 
 - Add some mint extract for a subtle mint flavor if you like, but be careful not to add too much
 ---

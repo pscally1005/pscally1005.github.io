@@ -53,5 +53,5 @@ Description: I made this <a href='/oatmeal'>oatmeal</a> recently for my mom when
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together all ingredients. Split into 2 servings, cover, and refrigerate overnight.  Optionally top with <a href='/misc/fruit#blueberries'>berries</a> (about 1/3 cup, 50 g total, or 25 g in each bowl)
 Notes:
-- If you want to use unflavored <a href='/misc/dairy#whey'>whey</a> instead of chocolate, just add 1 tbsp (5 g) <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and some additional sweetener. Either 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, 1 tbsp (12 g) granular sweetener, or another 1 tbsp (20 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- If you want to use unflavored <a href='/misc/dairy#whey'>whey</a> instead of chocolate, just add 1 tbsp (5 g) <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and some additional sweetener. Either 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, 1 tbsp (12 g) <a href='https://amzn.to/4ceFnvP'>granular sweetener</a>, or another 1 tbsp (20 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 ---

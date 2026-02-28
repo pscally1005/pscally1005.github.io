@@ -57,7 +57,7 @@ Instructions:
 - Add baking powder and baking soda to the <a href='/misc/meat#egg-whites'>egg whites</a>. Using a <a href='https://amzn.to/45yqsbM'>hand mixer</a>, whip to form stuff peaks
 - <img src='/assets/Food/Bread/Cloud Bread/cloud-2.jpg' alt='' class='instruction-image'>
 
-- In a separate bowl, to the <a href='/misc/meat#eggs'>yolks</a>, add garlic powder, onion powder, salt, and <a href='/misc/dairy#yogurt'>yogurt</a>. Mix together with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>spatula</a>
+- In a separate bowl, to the <a href='/misc/meat#eggs'>yolks</a>, add garlic powder, onion powder, salt, and <a href='/misc/dairy#yogurt'>yogurt</a>. Mix together with a <a href='https://amzn.to/40F2aK0'>spatula</a>
 
 - Carefully fold the <a href='/misc/meat#egg-whites'>egg whites</a> into the <a href='/misc/meat#eggs'>yolks</a>
 - <img src='/assets/Food/Bread/Cloud Bread/cloud-4.jpg' alt='' class='instruction-image'>

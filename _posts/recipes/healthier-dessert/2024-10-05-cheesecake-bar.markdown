@@ -67,7 +67,7 @@ tags:
 - coconut flour
 Description: These cheesecake bars don't even require you to have an oven. It has mildly sweet <a href='/misc/fruit#banana'>banana</a> and honey oatmeal crust, filling with <a href='/misc/dairy#yogurt'>Greek yogurt</a> that's flavored by <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> and <a href='/misc/fruit#dates'>dates</a>, and all topped by melted dark chocolate and chopped <a href='/misc/nuts#peanuts'>peanuts</a>. No bake not only makes the recipe easier, but it preserves all the probiotics in the <a href='/misc/dairy#yogurt'>yogurt</a>, making this a great fermented food at <a href='/recipes/healthier-dessert'>dessert</a> time. For having no <a href='/misc/dairy#whey'>protein powder</a>, this <a href='/recipes/healthier-dessert'>dessert</a> is fairly high in <a href='/misc/protein'>protein</a>, as well as a good source of <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/carbs'>complex carbs</a>.
 Instructions:
-- In a bowl, mash a <a href='/misc/fruit#banana'>banana</a> with the back of a fork. Combine together the rest of the crust ingredients with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> - honey, cinnamon, vanilla, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/grains#oats'>rolled oats</a>. Mix until well combined
+- In a bowl, mash a <a href='/misc/fruit#banana'>banana</a> with the back of a fork. Combine together the rest of the crust ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - honey, cinnamon, vanilla, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/grains#oats'>rolled oats</a>. Mix until well combined
 - <img src='/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-crust-bowl.jpg' alt='' class='instruction-image'>
 
 - Line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. Evenly press your crust into the pan. Freeze to set as you prepare the filling
@@ -76,7 +76,7 @@ Instructions:
 - In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/fruit#dates'>dates</a> until all the <a href='/misc/fruit#dates'>dates</a> are fully chopped. Add in the <a href='/misc/dairy#yogurt'>yogurt</a> and vanilla, and blend until smooth and fully combined
 - <img src='/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-processor.jpg' alt='' class='instruction-image'>
 
-- Use a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> to evenly spread the filling on top of the oatmeal crust. Freeze for a few minutes to harden as you prepare the topping
+- Use a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to evenly spread the filling on top of the oatmeal crust. Freeze for a few minutes to harden as you prepare the topping
 - <img src='/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-pan.jpg' alt='' class='instruction-image'>
 
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, combine together roughly chopped chocolate with water. Microwave in 30 second intervals, stirring in between, until you have a smooth ganache

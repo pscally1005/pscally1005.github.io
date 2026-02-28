@@ -67,8 +67,10 @@ tags:
 - maple syrup
 Description: I'll make this nutella-ish spread every so often, and store the leftovers in the freezer.  It's sweet without being loaded with <a href='/misc/hidden-sugar'>added sugars</a>, and goes great on toasted <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a> or on <a href='/oatmeal>oatmeal</a>.  You can also check out any of my other <a href='/nut-butter'>nut butter recipes</a>!
 Instructions:
-- Mix all ingredients in a small container, and store the leftovers in the fridge.  In place of liquid stevia or monk fruit, you can use 1/2 tbsp (10 g) honey or maple syrup
+- Mix all ingredients in a small container, and store the leftovers in the fridge.
 Notes:
+- In place of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>, you can use 1/2 tbsp (10 g) honey, maple syrup, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+
 - Optionally, you can turn this spread into some chocolate <a href='/misc/protein'>protein</a> bites. Mix in unflavored <a href='/misc/dairy#casein'>casein</a> (1 scoop, 30 g) and <a href='/misc/grains#oats'>oat flour</a> (2 tbsp, 15 g), and shape into balls. Makes about 10-12
 - <img src='/assets/Food/Sweet Spreads/Protein Choc/protein-choc-2.jpg' alt='' class='instruction-image'>
 ---

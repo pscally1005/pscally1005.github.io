@@ -56,7 +56,7 @@ Description: This cinnamon apple bread is a perfect fall based <a href='/recipes
 Instructions:
 - Combine dry ingredients in a bowl - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, baking powder, cinnamon, salt, baking soda, and <a href='/misc/veggies#ginger'>ginger</a>
 
-- Chop the <a href='/misc/fruit#apple'>apple</a> (with the skin on) and add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Blend the <a href='/misc/fruit#apple'>apple</a> as much as possible, then add the <a href='/misc/meat#eggs'>eggs</a>, vanilla, and stevia. Blend until foamy and no <a href='/misc/fruit#apple'>apple</a> chunks remain
+- Chop the <a href='/misc/fruit#apple'>apple</a> (with the skin on) and add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Blend the <a href='/misc/fruit#apple'>apple</a> as much as possible, then add the <a href='/misc/meat#eggs'>eggs</a>, vanilla, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Blend until foamy and no <a href='/misc/fruit#apple'>apple</a> chunks remain
 
 - Pour the wet ingredients into the dry, and fold together until just combined
 

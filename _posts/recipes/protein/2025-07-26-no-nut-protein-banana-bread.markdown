@@ -64,7 +64,7 @@ Instructions:
 - In a separate bowl, whisk together the dry ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey protein</a>, baking soda, cinnamon, baking powder, salt, and <a href='/misc/veggies#ginger'>ginger</a>
 - <img src='/assets/Food/Protein Powder/No Nut Protein Banana Bread/both.jpg' alt='' class='instruction-image'>
 
-- Add the wet ingredients into the dry, and mix with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> until just fully combined. Don't over mix
+- Add the wet ingredients into the dry, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until just fully combined. Don't over mix
 - <img src='/assets/Food/Protein Powder/No Nut Protein Banana Bread/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top

@@ -50,7 +50,7 @@ tags:
 - whey protein powder
 - skim milk
 Description: |
-  This protein shake dead simple, tasty, and free of <a href='/misc/hidden-sugar'>sugar</a> or <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>.  I find protein shakes with flavored <a href='/misc/dairy#whey'>protein powder</a> to be gross, so here I'm using <a href='https://amzn.to/4kDSMhM'>unflavored whey</a>, and sweetening it with this <a href='https://www.amazon.com/dp/B07XQ61Y2Y?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TXCU8LZNT4TO&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3TXCU8LZNT4TO_1751467880758'>stevia sweetened electrolyte powder</a>.  <a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa powder</a> is optional, but I really like that chocolate taste with the saltiness of the electrolytes.  This is perfect for athletes; it's a great source of all the following <a href='/misc/nutrient-alphabet'>nutrients</a> in 1 convenient cup<br>
+  This protein shake dead simple, tasty, and free of <a href='/misc/hidden-sugar'>sugar</a> or <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>.  I find protein shakes with flavored <a href='/misc/dairy#whey'>protein powder</a> to be gross, so here I'm using <a href='https://amzn.to/4kDSMhM'>unflavored whey</a>, and sweetening it with this <a href='https://amzn.to/4layTR1'>stevia sweetened electrolyte powder</a>.  <a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa powder</a> is optional, but I really like that chocolate taste with the saltiness of the electrolytes.  This is perfect for athletes; it's a great source of all the following <a href='/misc/nutrient-alphabet'>nutrients</a> in 1 convenient cup<br>
   <ul>
     <li><a href='/misc/protein'>Protein</a></li>
     <li><a href='/misc/sodium'>Sodium</a></li>
@@ -68,6 +68,6 @@ Description: |
     <li><a href='/misc/nutrient-alphabet#P'>Pantothenic Acid</a></li>
   </ul>
 Instructions:
-- In a shaker bottle, add all your dry ingredients (<a href='/misc/dairy#whey'>protein powder</a>, electrolyte powder, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>). Pour in just half the <a href='/misc/dairy#skim-milk'>milk</a>, and vigorously shake until everything is dissolved. Pour in the rest of the <a href='/misc/dairy#skim-milk'>milk</a>, shake, and drink
+- In a shaker bottle, add all your dry ingredients (<a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4layTR1'>electrolyte powder</a>, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>). Pour in just half the <a href='/misc/dairy#skim-milk'>milk</a>, and vigorously shake until everything is dissolved. Pour in the rest of the <a href='/misc/dairy#skim-milk'>milk</a>, shake, and drink
 Notes:
 ---

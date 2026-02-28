@@ -49,7 +49,7 @@ tags:
 - sugar free
 - vanilla extract
 - cookies
-Description: Merry Christmas!  My mom found a recipe for <a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>Pecan Cream Cheese Cookies</a>, and requested that I adapted them to make them healthy.  By swapping from <a href='/misc/grains#white-wheat'>white flour</a> to <a href='/misc/grains#oats'>oat flour</a>, I've increased the <a href='/misc/fiber'>fiber</a> and <a href='/misc/nutrient-alphabet'>micronutrients</a> while also making it <a href='/misc/celiac'>gluten free</a>.  These <a href='/cookies'>cookies</a> are <a href='/misc/hidden-sugar'>sugar free</a> too, opting for <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a> instead of <a href='/misc/hidden-sugar'>white sugar</a>.  Finally, I've gone with lower <a href='/misc/fats'>fat</a> <a href='/misc/dairy#cream-cheese'>cream cheese</a> instead of standard full fat.  The result is a delicious and soft shortbread <a href='/cookies'>cookie</a> filled with bits of chopped <a href='/misc/nuts'>nuts</a>.  These <a href='/cookies'>cookies</a> are packed with <a href='/misc/fats'>healthy fats</a>, are lower in <a href='/misc/carbs'>carbs</a>, and are very simple to put together, all for a fraction of the <a href='/misc/calories'>calories</a> compared to the <a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>original recipe</a>!
+Description: Merry Christmas!  My mom found a recipe for <a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>Pecan Cream Cheese Cookies</a>, and requested that I adapted them to make them healthy.  By swapping from <a href='/misc/grains#white-wheat'>white flour</a> to <a href='/misc/grains#oats'>oat flour</a>, I've increased the <a href='/misc/fiber'>fiber</a> and <a href='/misc/nutrient-alphabet'>micronutrients</a> while also making it <a href='/misc/celiac'>gluten free</a>.  These <a href='/cookies'>cookies</a> are <a href='/misc/hidden-sugar'>sugar free</a> too, opting for <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> instead of <a href='/misc/hidden-sugar'>white sugar</a>.  Finally, I've gone with lower <a href='/misc/fats'>fat</a> <a href='/misc/dairy#cream-cheese'>cream cheese</a> instead of standard full fat.  The result is a delicious and soft shortbread <a href='/cookies'>cookie</a> filled with bits of chopped <a href='/misc/nuts'>nuts</a>.  These <a href='/cookies'>cookies</a> are packed with <a href='/misc/fats'>healthy fats</a>, are lower in <a href='/misc/carbs'>carbs</a>, and are very simple to put together, all for a fraction of the <a href='/misc/calories'>calories</a> compared to the <a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>original recipe</a>!
 Instructions:
 - Leave your block of <a href='/misc/dairy#cream-cheese'>cream cheese</a> on the counter for 1 hour to soften before starting with the recipe
 
@@ -61,10 +61,10 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a>, beat your softened <a href='/misc/dairy#cream-cheese'>cream cheese</a> until light and fluffy, about 3 minutes
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/cream-cheese.jpg' alt='' class='instruction-image'>
 
-- Add in the sweetener, vanilla, and salt. Beat for an additional 2 minutes, until fully combined and airy
+- Add in the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, vanilla, and salt. Beat for an additional 2 minutes, until fully combined and airy
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/sweetener.jpg' alt='' class='instruction-image'>
 
-- Switch to a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>, and mix in the <a href='/misc/grains#oats'>oat flour</a> until fully incorporated and you have a slightly sticky dough
+- Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the <a href='/misc/grains#oats'>oat flour</a> until fully incorporated and you have a slightly sticky dough
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/dough.jpg' alt='' class='instruction-image'>
 
 - Fold in the roughly chopped <a href='/misc/nuts#pecans'>pecans</a>, leaving the <a href='/misc/nuts#pecans'>pecan</a> meal off to the side for now
@@ -78,7 +78,7 @@ Instructions:
 - Store the cookies in an airtight container in the fridge for up to 1 week, or freeze indefinitely
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/cover-2.jpg' alt='' class='instruction-image'>
 Notes:
-- The step 5 combo of low fat <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated monk fruit</a>, vanilla, and salt makes the best healthy <a href='/misc/dairy#cream-cheese'>cream cheese</a> frosting
+- The step 5 combo of low fat <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, vanilla, and salt makes the best healthy <a href='/misc/dairy#cream-cheese'>cream cheese</a> frosting
 
 - |
   The <a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>original recipe</a> talks about how people tend to eat lots of sweets between Halloween and New Year's, and that <a href='/recipes/healthier-dessert'>healthier desserts</a> with <a href='/misc/nuts'>nuts</a> are a great way to still have nutrition in your sweets.  Sounds great, right?<br><br>

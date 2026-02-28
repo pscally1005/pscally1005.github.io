@@ -55,14 +55,14 @@ Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 380F, and drain and rinse a can of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add to a bowl, and toss with cinnamon.  <a href='https://amzn.to/3FuWETp'>Air fry</a> for about 15 minutes, shaking halfway, until golden and crispy
 - <img src='/assets/Food/Breakfast/Chickpea/roasted.jpg' alt='' class='instruction-image'>
 
-- In a shaker bottle, make your protein shake - <a href='/misc/dairy#skim-milk'>milk</a>, <a href='/misc/dairy#whey'>protein powder</a>, sweetener, and vanilla
+- In a shaker bottle, make your protein shake - <a href='/misc/dairy#skim-milk'>milk</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and vanilla
 
 - Pour <a href='/misc/dairy#skim-milk'>milk</a> over the <a href='/misc/fake-healthy-foods#cereal'>cereal</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a>.  Store leftovers in an airtight bag at <b>room temperature</b>
 - <img src='/assets/Food/Breakfast/Chickpea/no-milk.jpg' alt='' class='instruction-image'>
 Notes:
 - Any <a href='/misc/dairy#skim-milk'>milk</a> will work; <a href='/misc/dairy#almond-milk'>almond milk</a> is just what I have today
 
-- Omit the sweetener if your <a href='/misc/dairy#whey'>protein powder</a> is flavored
+- Omit the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> if your <a href='/misc/dairy#whey'>protein powder</a> is flavored
 
-- 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> will also work in place of the <a href='https://www.amazon.com/dp/B0DD4YY92R?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3UEEUG24MBC1R&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.3UEEUG24MBC1R_1767021852598'>granulated</a>
+- 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> will also work in place of the <a href='https://amzn.to/4ceFnvP'>granulated</a>
 ---

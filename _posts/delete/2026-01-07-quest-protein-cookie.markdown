@@ -62,7 +62,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 30 seconds, until melted
 
-- Mix in the <a href='/misc/dairy#whey'>protein powder</a>, monk fruit, <a href='https://amzn.to/47w8h7R'>inulin</a>, baking powder, salt, vanilla extract, and <a href='/misc/dairy#almond-milk'>almond milk</a> with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a>
+- Mix in the <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, baking powder, salt, vanilla extract, and <a href='/misc/dairy#almond-milk'>almond milk</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Quest Cookie/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer your <a href='/cookies'>cookie</a> dough to a small piece of parchment paper. Flatten to a 1/4" circle. Press the chocolate chips into the top
@@ -71,7 +71,7 @@ Instructions:
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for about 10 minutes, or until lightly golden
 - <img src='/assets/Food/Protein Powder/Quest Cookie/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- If you don't mind the extra <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/calories'>calories</a>, you can substitute granulated <a href='/misc/hidden-sugar'>sugar</a> for monk fruit, as well as use regular chocolate chips instead of the <a href='/misc/hidden-sugar'>sugar-free</a> variety
+- If you don't mind the extra <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/calories'>calories</a>, you can substitute granulated <a href='/misc/hidden-sugar'>sugar</a> for <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, as well as use regular chocolate chips instead of the <a href='/misc/hidden-sugar'>sugar-free</a> variety
 
 - |
   COMPARE(

@@ -53,7 +53,7 @@ Description: Triscuits only contain 3 ingredients, making it very easy to revers
 Instructions:
 - Preheat your oven to 450F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the flour and salt. Pour in the <a href='/misc/fats'>oil</a> and water.  Start with a <a href='https://www.amazon.com/dp/B0C37QM1K3?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1OO1S5W7ZMYBB&linkCode=tr1&tag=poormanprotei-20&linkId=amzn1.campaign.1OO1S5W7ZMYBB_1751469633605'>silicone spatula</a> then transfer to your hands.  Knead until you have a fully combined dough.  Note that the picture below represents a half batch of the recipe
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the flour and salt. Pour in the <a href='/misc/fats'>oil</a> and water.  Start with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> then transfer to your hands.  Knead until you have a fully combined dough.  Note that the picture below represents a half batch of the recipe
 - <img src='/assets/Food/Finger Food/Triscuit/dough.jpg' alt='' class='instruction-image'>
 
 - Divide the dough in 4 equal pieces, about 90 g each.  Roll out each piece as thin as you can make it, 2 per <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Use a <a href='https://amzn.to/3O5nlSH'>pizza wheel</a> to shape the dough into a rectangle, and cut into rectangles.  Use a fork to prick holes in each cracker
