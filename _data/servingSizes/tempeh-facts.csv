@@ -1,0 +1,75 @@
+Nutrient,Amount,Unit,DV
+Calories,192,,
+"Vitamin A, RAE",0.00,mcg,0 %
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.078,mg,6 %
+"Riboflavin [Vitamin B2]",0.358,mg,28 %
+"Niacin [Vitamin B3]",2.640,mg,16 %
+"Pantothenic acid [Vitamin B5]",0.278,mg,6 %
+"Vitamin B6",0.215,mg,13 %
+"Vitamin B12 [Cobalamin]",0.08,mcg,3 %
+"Folate, DFE [Vitamin B9]",24.00,mcg,6 %
+"Folate, food",24.00,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",0.0,mg,0 %
+"Vitamin D",0.00,mcg,0 %
+"Calcium",111.00,mg,9 %
+"Copper",0.56,mg,62 %
+"Iron",2.70,mg,15 %
+"Magnesium",81.00,mg,19 %
+"Manganese",1.300,mg,57 %
+"Phosphorus",266.00,mg,21 %
+"Potassium",412.00,mg,9 %
+"Selenium",0.00,mcg,0 %
+"Sodium",9.00,mg,0 %
+"Zinc",1.14,mg,10 %
+"Protein",20.29,g,41 %
+"Alanine",0.960,g,
+"Arginine",1.252,g,
+"Aspartic acid",1.995,g,
+"Cystine",0.193,g,
+"Glutamic acid",3.292,g,
+"Glycine",0.754,g,
+"Histidine",0.466,g,41 %
+"Isoleucine",0.880,g,57 %
+"Leucine",1.430,g,42 %
+"Lysine",0.908,g,29 %
+"Methionine",0.175,g,
+"Phenylalanine",0.893,g,
+"Proline",1.030,g,
+"Serine",1.019,g,
+"Threonine",0.796,g,49 %
+"Tryptophan",0.194,g,48 %
+"Tyrosine",0.664,g,
+"Valine",0.920,g,47 %
+"Phenylalanine + Tyrosine",1.557,g,58 %
+"Methionine + Cysteine",0.368,g,24 %
+"Carbohydrate",7.64,g,3 %
+"Net carbs",7.64,g,
+"Fat",10.800,g,14 %
+"Saturated fatty acids",2.539,g,13 %
+"Decanoic acid",0.000,g,
+"Docosanoic acid",0.113,g,
+"Dodecanoic acid",0.000,g,
+"Eicosanoic acid",0.000,g,
+"Heptadecanoic acid",0.034,g,
+"Hexadecanoic acid",1.693,g,
+"Octadecanoic acid",0.677,g,
+"Octanoic acid",0.000,g,
+"Pentadecanoic acid",0.000,g,
+"Tetracosanoic acid",0.000,g,
+"Tetradecanoic acid",0.023,g,
+"Monounsaturated fatty acids",3.205,g,
+"Docosenoic acid",0.000,g,
+"Eicosenoic acid",0.045,g,
+"Heptadecenoic acid",0.056,g,
+"Hexadecenoic acid",0.000,g,
+"Octadecenoic acid",3.103,g,
+"Tetradecenoic acid",0.000,g,
+"Polyunsaturated fatty acids",4.300,g,
+"Eicosadienoic acid",0.000,g,
+"Eicosatetraenoic acid",0.000,g,
+"Octadecadienoic acid",4.052,g,
+"Octadecatrienoic acid",0.248,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %

@@ -31,6 +31,7 @@
 
     <!-- Variables -->
     {% assign cal = "0" %}
+    {% assign totalCal = 0 %}
 
     {% assign fat = "0.0 g (0 %)" %}
     {% assign sat = "0.0 g (0 %)" %}
@@ -59,6 +60,8 @@
 
     {% assign prot = "0.0 g (0 %)" %}
     {% assign totalProtein = 0.0 %}
+
+    {% assign protRatio = 0.0 %}
 
     {% assign vitA = "0.0 mcg (0 %)" %}
     {% assign vitB1 = "0.00 mg (0 %)" %}
@@ -118,6 +121,7 @@
 
             {% if pair[1] == "Calories" %}
                 {% assign cal = line0 %}
+                {% assign totalCal = row.Amount | plus: 0 | round: 0 %}
             {% endif %}
 
             {% if pair[1] == "Fat" %}
@@ -303,6 +307,27 @@
         {% endfor %}
     {% endfor %}
 
+    <!-- Protein ratio -->
+    {% if totalCal > 0 %}
+        {% assign protRatio = totalProtein | divided_by: totalCal | round: rnd %}
+
+        {% assign parts = protRatio | split: "." %}
+
+        {% if rnd == 0 %}
+          {% assign formattedRatio = parts[0] %}
+        {% else %}
+          {% if parts.size == 1 %}
+            {% capture formattedRatio %}{{ parts[0] }}.{% for i in (1..rnd) %}0{% endfor %}{% endcapture %}
+          {% else %}
+            {% assign decimals = parts[1] %}
+            {% assign missing = rnd | minus: decimals.size %}
+            {% capture formattedRatio %}{{ parts[0] }}.{{ decimals }}{% if missing > 0 %}{% for i in (1..missing) %}0{% endfor %}{% endif %}{% endcapture %}
+          {% endif %}
+        {% endif %}
+
+        {% assign protRatio = formattedRatio %}
+    {% endif %}
+
     <!-- Default servings -->
     {% assign servings = 1 | times: 1 %}
 
@@ -476,6 +501,10 @@
         {% assign line = prot %}
     {% endif %}
 
+    {% if nutrient == "Protein Ratio" %}
+        {% assign line = protRatio %}
+    {% endif %}
+
     {% if nutrient == "Vitamin A" %}
         {% assign line = vitA %}
     {% endif %}
@@ -632,7 +661,9 @@
         fetch:"{{fetch}}"
     {% endcomment %}
 
-    {% if infinity_flag and fetch == "per100cal" %}
+    {% if nutrient == "Protein Ratio" %}
+        {% assign output = protRatio %}
+    {% elsif infinity_flag and fetch == "per100cal" %}
         {% assign output = "∞" %}
     {% else %}
 

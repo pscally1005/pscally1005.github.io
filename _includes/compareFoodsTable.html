@@ -103,6 +103,8 @@
                         nutrient == "Caffeine"
                     %}
                         {% assign rnd = "2" %}
+                    {% elsif nutrient == "Protein Ratio" %}
+                        {% assign rnd = "3" %}
                     {% else %}
                         {% assign rnd = "0" %}
                     {% endif %}

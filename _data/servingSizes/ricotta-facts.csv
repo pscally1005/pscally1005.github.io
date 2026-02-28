@@ -1,101 +1,67 @@
 Nutrient,Amount,Unit,DV
-Calories,150,,
-"Vitamin A, RAE",120.00,mcg,13 %
+Calories,148,,
+"Vitamin A, RAE",117.00,mcg,13 %
 "Carotene, alpha",0.00,mcg,
-"Carotene, beta",33.00,mcg,
+"Carotene, beta",10.00,mcg,
 "Cryptoxanthin, beta",0.00,mcg,
 "Lutein + zeaxanthin",0.00,mcg,
 "Lycopene",0.00,mcg,
-"Retinol",117.00,mcg,
-"Thiamin [Vitamin B1]",0.013,mg,1 %
-"Riboflavin [Vitamin B2]",0.298,mg,23 %
-"Niacin [Vitamin B3]",0.137,mg,1 %
-"Pantothenic acid [Vitamin B5]",0.461,mg,9 %
-"Vitamin B6",0.097,mg,6 %
-"Vitamin B12 [Cobalamin]",0.85,mcg,35 %
+"Retinol",116.00,mcg,
+"Thiamin [Vitamin B1]",0.032,mg,3 %
+"Riboflavin [Vitamin B2]",0.256,mg,20 %
+"Niacin [Vitamin B3]",0.123,mg,1 %
+"Vitamin B6",0.060,mg,4 %
+"Vitamin B12 [Cobalamin]",0.54,mcg,22 %
 "Vitamin B12, added",0.00,mcg,
-"Folate, DFE [Vitamin B9]",4.00,mcg,1 %
-"Folate, food",4.00,mcg,
+"Folate, DFE [Vitamin B9]",8.00,mcg,2 %
+"Folate, food",8.00,mcg,
 "Folic acid",0.00,mcg,
 "Vitamin C [Ascorbic acid]",0.0,mg,0 %
 "Vitamin D",0.20,mcg,1 %
-"Vitamin D3",0.20,mcg,
-"Vitamin E (alpha-tocopherol)",0.11,mg,1 %
+"Vitamin E (alpha-tocopherol)",0.17,mg,1 %
 "Vitamin E, added",0.00,mg,
-"Tocopherol, alpha",0.11,mg,
-"Vitamin K",1.1,mcg,1 %
-"Vitamin K1 [Phylloquinone]",1.1,mcg,
-"Choline",17.5,mg,3 %
-"Calcium",206.00,mg,16 %
+"Tocopherol, alpha",0.17,mg,
+"Vitamin K",0.6,mcg,0 %
+"Vitamin K1 [Phylloquinone]",0.6,mcg,
+"Choline",16.9,mg,3 %
+"Calcium",248.00,mg,19 %
 "Copper",0.02,mg,2 %
-"Iron",0.13,mg,1 %
-"Magnesium",20.00,mg,5 %
-"Manganese",0.011,mg,0 %
-"Phosphorus",154.00,mg,12 %
-"Potassium",219.00,mg,5 %
-"Selenium",5.90,mcg,11 %
-"Sodium",110.00,mg,5 %
-"Zinc",0.53,mg,5 %
-"Protein",7.54,g,15 %
-"Hydroxyproline",0.000,g,
-"Carbohydrate",7.27,g,3 %
+"Iron",0.27,mg,2 %
+"Magnesium",18.00,mg,4 %
+"Phosphorus",172.00,mg,14 %
+"Potassium",178.00,mg,4 %
+"Selenium",11.10,mcg,20 %
+"Sodium",102.00,mg,4 %
+"Zinc",0.95,mg,9 %
+"Protein",9.60,g,19 %
+"Carbohydrate",6.00,g,2 %
 "Fiber",0.00,g,0 %
-"Sugars",0.27,g,
-"Net carbs",7.27,g,
-"0.05 g",0.26 g,undefined,5.08
-"Fat",10.180,g,13 %
-"Saturated fatty acids",6.420,g,32 %
-"Butanoic acid",0.232,g,
-"Decanoic acid",0.282,g,
-"Docosanoic acid",0.006,g,
-"Dodecanoic acid",0.335,g,
-"Eicosanoic acid",0.012,g,
-"Heptadecanoic acid",0.063,g,
-"Hexadecanoic acid",3.056,g,
-"Hexanoic acid",0.183,g,
-"Octadecanoic acid",0.956,g,
-"Octanoic acid",0.116,g,
-"Pentadecanoic acid",0.107,g,
-"Tetracosanoic acid",0.004,g,
-"Tetradecanoic acid",1.067,g,
-"Monounsaturated fatty acids",2.659,g,
-"Cis-hexadecenoic acid",0.166,g,
-"Cis-octadecenoic acid",2.077,g,
-"Docosenoic acid",0.003,g,
-"Docosenoic cis acid",0.003,g,
-"Docosenoic trans acid",0.000,g,
-"Eicosenoic acid",0.019,g,
-"Heptadecenoic acid",0.018,g,
-"Hexadecenoic acid",0.196,g,
-"Octadecenoic acid",2.315,g,
-"Pentadecenoic acid",0.000,g,
-"Tetracosenoic cis acid",0.000,g,
-"Tetradecenoic acid",0.108,g,
-"Trans-hexadecenoic acid",0.030,g,
-"Trans-octadecenoic acid",0.238,g,
-"Polyunsaturated fatty acids",0.445,g,
-"α-linolenic acid n-3 (ALA)",0.04,g,
-"γ-linolenic acid n-6 (GLA)",0.00,g,
-"Cis,cis-eicosadienoic n-6 acid",0.002,g,
-"Linoleic acid n-6 (LA)",0.25,g,
-"Docosahexaenoic n-3 acid (DHA)",0.001,g,
-"Docosapentaenoic n-3 acid (DPA)",0.006,g,
-"Docosatetraenoic acid",0.003,g,
-"Eicosadienoic acid",0.013,g,
-"Eicosadienoic n-3 acid",0.001,g,
-"Eicosadienoic n-6 acid",0.012,g,
-"Eicosapentaenoic n-3 acid (EPA)",0.004,g,
-"Eicosatetraenoic acid",0.014,g,
-"Octadecadienoic CLAs acid",0.047,g,
-"Octadecadienoic acid",0.356,g,
-"Octadecatetraenoic acid",0.002,g,
-"Octadecatrienoic acid",0.043,g,
-"Trans-octadecadienoic acid",0.064,g,
-"Trans-octadecatrienoic acid",0.002,g,
-"Fatty acids, total trans",0.333,g,
-"Fatty acids, total trans-monoenoic",0.267,g,
-"Fatty acids, total trans-polyenoic",0.066,g,
-"Cholesterol",49.00,mg,16 %
+"Sugars",0.29,g,
+"Net carbs",6,g,
+"0.01 g",,undefined,0.00
+"Fat",9.460,g,12 %
+"Saturated fatty acids",5.948,g,30 %
+"Butanoic acid",0.252,g,
+"Decanoic acid",0.228,g,
+"Dodecanoic acid",0.232,g,
+"Hexadecanoic acid",2.901,g,
+"Hexanoic acid",0.132,g,
+"Octadecanoic acid",0.943,g,
+"Octanoic acid",0.099,g,
+"Tetradecanoic acid",0.979,g,
+"Monounsaturated fatty acids",2.437,g,
+"Docosenoic acid",0.001,g,
+"Eicosenoic acid",0.010,g,
+"Hexadecenoic acid",0.247,g,
+"Octadecenoic acid",2.195,g,
+"Polyunsaturated fatty acids",0.324,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.004,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.002,g,
+"Eicosatetraenoic acid",0.008,g,
+"Octadecadienoic acid",0.283,g,
+"Octadecatetraenoic acid",0.000,g,
+"Octadecatrienoic acid",0.056,g,
+"Cholesterol",40.00,mg,13 %
 "Alcohol, ethyl",0.0,g,
-"Ash",1.32,g,
 "Caffeine",0.00,mg,
