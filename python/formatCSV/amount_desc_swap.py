@@ -40,9 +40,17 @@ def main(path = ""):
 
                 temp = fname[:-4] + "-temp.csv"
 
-                if len(row) == 4 and i != 0:
-                    row[1], row[3] = fix_vol_col(row[1], row[3])
-                    line = '"' + row[0] + '",' + str(row[1]) + ',' + row[2] + ',"' + row[3] + '"\n'
+                if i != 0 and len(row) >= 4:
+                    # Reconstruct the expected 4 columns even if there are extra
+                    # commas inside the amount/description fields.
+                    ingredient = row[0]
+                    unit = row[-2]
+                    desc = row[-1]
+                    amount = ','.join(row[1:-2])
+
+                    amount, desc = fix_vol_col(amount, desc)
+
+                    line = '"' + ingredient + '",' + str(amount) + ',' + unit + ',"' + desc + '"\n'
                 else:
                     line = ','.join(row) + "\n"
 

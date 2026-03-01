@@ -93,7 +93,7 @@ def fix(vol):
         v = "1 2/3 cup"
     elif vol == "1.78 cup":
         v = "1.75 cup"
-    elif vol == "2.025 cup" or vol == "2.0025 cup" or vol == "2.19 cup, chopped" or vol == "2.08 cup" or vol == "1.79 cup, whole" or vol == "1.88 cup, unthawed" or vol == "1.98 cup" or vol == "2.665 container" or vol == "2 cup, frozen" or vol == "5 1/3 cup" or vol == "7.5 1/3 cup" or vol == "2 cup, chopped" or vol == "32 tbsp" or vol == "32 Tbsp" or vol == "1.855 cup":
+    elif vol == "2 cup, shredded" or vol == "2.025 cup" or vol == "2.0025 cup" or vol == "2.19 cup, chopped" or vol == "2.08 cup" or vol == "1.79 cup, whole" or vol == "1.88 cup, unthawed" or vol == "1.98 cup" or vol == "2.665 container" or vol == "2 cup, frozen" or vol == "5 1/3 cup" or vol == "7.5 1/3 cup" or vol == "2 cup, chopped" or vol == "32 tbsp" or vol == "32 Tbsp" or vol == "1.855 cup":
         v = "2 cup"
     elif vol == "2.22 cup":
         v = "2 1/4 cup"

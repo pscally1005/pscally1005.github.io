@@ -240,7 +240,7 @@ def vol_from_mass(food, mass, vol):
             v = "12 circles"
 
     # Cheese
-    elif food == "Shredded mozzarella cheese, low moisture part skim" or food == "Cheddar cheese" or food == "Mozzarella cheese, fat free":
+    elif food == "Shredded mozzarella cheese, low moisture part skim" or food == "Cheddar cheese" or food == "Mozzarella cheese, fat free" or food == "Shredded cheddar cheese":
         if mass == "28":
             v = "1/4 cup"
         elif mass == "56":

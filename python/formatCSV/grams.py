@@ -548,7 +548,7 @@ def grams(food, mass, vol):
             m = "336"
 
     # Shredded cheese
-    elif food == "Shredded mozzarella cheese, low moisture part skim" or food == "Shredded chaddar cheese":
+    elif food == "Shredded mozzarella cheese, low moisture part skim" or food == "Cheddar cheese" or food == "Mozzarella cheese, fat free" or food == "Shredded cheddar cheese":
         if vol == "1/4 cup" or vol == "1 oz":
             m = "28"
         elif vol == "1/2 cup" or vol == "2 oz":
@@ -559,11 +559,11 @@ def grams(food, mass, vol):
             m = "113"
         elif vol == "1 1/4 cup" or vol == "5 oz":
             m = "142"
-        elif vol == "1/2 cup" or vol == "6 oz":
+        elif vol == "1 1/2 cup" or vol == "6 oz":
             m = "168"
-        elif vol == "1/2 cup" or vol == "7 oz":
+        elif vol == "1 3/4 cup" or vol == "7 oz":
             m = "198"
-        elif vol == "1/2 cup" or vol == "8 oz":
+        elif vol == "2 cup" or vol == "8 oz":
             m = "226"
 
     # Flours
