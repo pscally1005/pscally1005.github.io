@@ -654,6 +654,11 @@
   display: inline-block; /* desktop: stay on same line */
 }
 
+/* Vertical image */
+.half-page-vertical {
+  aspect-ratio: 3 / 4;
+}
+
 @media (max-width: 1000px) {
   a > .half-page {
     display: block;     /* mobile: force line break */

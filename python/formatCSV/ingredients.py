@@ -282,6 +282,10 @@ def ingredients(food):
         f = "Hemp hearts"
 
     # Dairy & Eggs
+    elif food == "Coconut milk, canned, full fat, unsweetened":
+        f = "Coconut milk, full fat"
+    elif food == "Coconut milk, canned, lowfat, unsweetened":
+        f = "Coconut milk, lite"
     elif food == "Sour cream, regular":
         f = "Sour cream"
     elif food == "Cheese, low fat, cream":

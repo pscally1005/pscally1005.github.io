@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Sourdough Discard Flatbread
-date:   2026-02-04 00:00:00 -0500
+date:   2026-03-01 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

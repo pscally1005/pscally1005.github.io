@@ -26,7 +26,6 @@
                                   {{ note }}
                                 </center>
                               </li>
-                              </div>
                             <!-- Include ingredients file -->
                             {% elsif note contains "INGREDIENTS(" %}
                                 {% assign file = note | remove: "INGREDIENTS(" | remove: ")" | strip %}
@@ -94,6 +93,8 @@
                                 {% endif %}
 
                                 {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" cost=costFlg mass=massFlg %}
+
+                                <br>
 
                             {% endif %}
 

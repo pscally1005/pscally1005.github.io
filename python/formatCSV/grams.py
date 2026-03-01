@@ -566,6 +566,13 @@ def grams(food, mass, vol):
         elif vol == "2 cup" or vol == "8 oz":
             m = "226"
 
+    # Coconut milk
+    elif food == "Coconut milk, full fat" or food == "Coconut milk, lite":
+        if vol == "13.5 oz can":
+            m = "405"
+        elif vol == "2 x 13.5 oz can" or vol == "27 oz can":
+            m = "810"
+
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese":
         if vol == "2 tbsp":

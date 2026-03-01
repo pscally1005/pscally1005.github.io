@@ -131,6 +131,10 @@ def fix(vol):
         v = "15 oz"
 
     # cans
+    elif vol == "13.5 fl oz can":
+        v = "13.5 oz can"
+    elif vol == "27 fl oz can":
+        v = "2 x 13.5 oz can"
     elif vol == "1 can (2 oz) drained":
         v = "2 oz, drained"
     elif vol == "1 can, drained (4.4 oz)":

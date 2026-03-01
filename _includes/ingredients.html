@@ -111,6 +111,7 @@
                 <span class='ingredient-cost' data-base-cost="{{ totalCost }}" style="display: none;"></span>
         </div>
     </div>
+    <hr>
 
 {% endif %}
 
@@ -209,7 +210,7 @@
                 <!-- Ingredient display -->
                 <div class='ingredient-item' style="margin-bottom: 5px; display: inline-block;">
                     <li>
-                        <span class='recipe-vol'>{{ vol }}</span>
+                        <span class='recipe-vol' data-base-vol="{{ vol }}">{{ vol }}</span>
                         {% if recipe == "true" %} <span class='recipe-grams' data-base-mass="{{ mass }}"></span> {% endif %}
                         {% if recipe == "false" %} <span class='recipe-grams'>({{ mass }} g)</span> {% endif %}
 
@@ -243,6 +244,622 @@
     const doubleButton = document.getElementById("double");
     const ingredients = document.querySelectorAll(".ingredient-item");
 
+    // Parse a quantity string like "1", "1.5", "1/2", or "1 1/2" into a number
+    function parseQuantity(qtyStr) {
+        if (!qtyStr) return NaN;
+        qtyStr = qtyStr.trim();
+
+        // Mixed number, e.g. "1 1/2"
+        let match = qtyStr.match(/^(\d+)\s+(\d+)\/(\d+)/);
+        if (match) {
+            const whole = parseFloat(match[1]);
+            const num = parseFloat(match[2]);
+            const den = parseFloat(match[3]);
+            if (den === 0) return NaN;
+            return whole + num / den;
+        }
+
+        // Simple fraction, e.g. "1/2"
+        match = qtyStr.match(/^(\d+)\/(\d+)/);
+        if (match) {
+            const num = parseFloat(match[1]);
+            const den = parseFloat(match[2]);
+            if (den === 0) return NaN;
+            return num / den;
+        }
+
+        // Decimal/integer
+        match = qtyStr.match(/^(\d*\.?\d+)/);
+        if (match) {
+            return parseFloat(match[1]);
+        }
+
+        return NaN;
+    }
+
+    // Format mass values (grams) so that trailing .0 is trimmed, but .5 etc are preserved.
+    function formatMass(value) {
+        if (!isFinite(value)) return "";
+        const rounded = Math.round(value * 10) / 10; // one decimal place
+        if (Math.abs(rounded - Math.round(rounded)) < 1e-6) {
+            return String(Math.round(rounded));
+        }
+        return rounded.toFixed(1).replace(/\.0$/, "");
+    }
+
+    // Format a numeric quantity back into a string as a fraction/whole number.
+    // For most units, only denominators 2, 3, or 4 are used.
+    // For teaspoons, allow finer fractions (8, 16, 32) for things like 1/16 tsp.
+    function formatQuantity(value, unitWord) {
+        if (!isFinite(value)) return "";
+
+        const unit = (unitWord || "").toLowerCase();
+        let allowedDenominators;
+        if (unit === "tsp" || unit === "teaspoon" || unit === "teaspoons") {
+            // Allow fine-grained fractions for teaspoons (up to 1/16), but not 1/32 or smaller.
+            allowedDenominators = [2, 3, 4, 6, 8, 16];
+        } else if (unit === "cup" || unit === "cups") {
+            // Allow halves, thirds, quarters, and sixths for cups
+            // (e.g., 1/2, 1/3, 1/4, 3/4, 1/6).
+            allowedDenominators = [2, 3, 4, 6];
+        } else {
+            // For other units (including tbsp), allow 2, 3, 4, and 6 to avoid ugly decimals.
+            allowedDenominators = [2, 3, 4, 6];
+        }
+
+        const sign = value < 0 ? "-" : "";
+        const absVal = Math.abs(value);
+        const whole = Math.floor(absVal + 1e-8);
+        const frac = absVal - whole;
+
+        let bestNum = 0;
+        let bestDen = 1;
+        let bestError = Infinity;
+        const threshold = 0.02; // Only use a fraction if it is close enough
+
+        if (frac > 1e-6) {
+            allowedDenominators.forEach(den => {
+                const num = Math.round(frac * den);
+                if (num === 0) return;
+                const approx = num / den;
+                const error = Math.abs(frac - approx);
+                if (error < bestError) {
+                    bestError = error;
+                    bestNum = num;
+                    bestDen = den;
+                }
+            });
+        }
+
+        let result = "";
+        if (bestError < threshold && bestNum !== 0) {
+            if (whole > 0) {
+                result = `${whole} ${bestNum}/${bestDen}`;
+            } else {
+                result = `${bestNum}/${bestDen}`;
+            }
+        } else {
+            // Fall back to decimal formatting with up to 2 decimal places
+            const rounded = Math.round(absVal * 100) / 100;
+            if (Math.abs(rounded - Math.round(rounded)) < 1e-6) {
+                result = String(Math.round(rounded));
+            } else {
+                result = rounded.toFixed(2).replace(/\.00$/, "").replace(/(\.\d)0$/, "$1");
+            }
+        }
+
+        return sign + result;
+    }
+
+    // Normalize quantity/unit pairs for nicer output, e.g. small cups -> tablespoons,
+    // some tablespoons -> teaspoons when small, and some teaspoons -> tablespoons when scaling up.
+    function normalizeQuantityUnit(quantity, unitWord, factor) {
+        if (!unitWord) {
+            return { value: quantity, unit: unitWord };
+        }
+
+        const u = unitWord.toLowerCase();
+
+        // Cups:
+        // - Anything less than ~1/3 cup is expressed as tablespoons (or teaspoons for very tiny amounts).
+        // - Other cups are kept as cups when they can be expressed cleanly with simple fractions
+        //   (denominators 2, 3, 4, or 6). For "ugly" sub-1-cup amounts that would otherwise
+        //   produce awkward decimals or eighths (e.g., 3/8, 5/8, 7/8 cup), convert to tablespoons.
+        if (u === "cup" || u === "cups") {
+            const sign = quantity < 0 ? -1 : 1;
+            const cupsAbs = Math.abs(quantity);
+            const epsilon = 1e-3;
+
+            // For very small volumes (< ~1/3 cup), use tablespoons/teaspoons instead of cups.
+            if (cupsAbs < (1 / 3) - epsilon) {
+                const tbspVal = cupsAbs * 16;
+                if (tbspVal >= 1 - 1e-6) {
+                    return { value: sign * tbspVal, unit: "tbsp" };
+                }
+                const tspVal = tbspVal * 3;
+                return { value: sign * tspVal, unit: "tsp" };
+            }
+
+            const wholeCups = Math.floor(cupsAbs + 1e-8);
+            const fracCups = cupsAbs - wholeCups;
+
+            // Check if the fractional part is representable nicely as 1/2, 1/3, 1/4, or 1/6 (or combos)
+            const candidateDenoms = [2, 3, 4, 6];
+            let bestDen = 1;
+            let bestNum = 0;
+            let bestError = Infinity;
+            candidateDenoms.forEach(den => {
+                const num = Math.round(fracCups * den);
+                if (num === 0) return;
+                const approx = num / den;
+                const error = Math.abs(fracCups - approx);
+                if (error < bestError) {
+                    bestError = error;
+                    bestDen = den;
+                    bestNum = num;
+                }
+            });
+
+            const threshold = 0.02;
+            const canBeSimpleFraction = bestError < threshold && bestNum !== 0;
+
+            // If the whole+fraction cups can be expressed cleanly with these denominators, keep as cups.
+            if (canBeSimpleFraction || fracCups < 1e-6) {
+                return { value: quantity, unit: "cup" };
+            }
+
+            // Otherwise, for sub-1-cup amounts where cups*16 is an integer, convert the whole thing to tbsp.
+            if (cupsAbs < 1) {
+                const tbsp = cupsAbs * 16;
+                const roundedTbsp = Math.round(tbsp);
+                if (Math.abs(tbsp - roundedTbsp) < 0.01 && roundedTbsp > 0) {
+                    return { value: sign * roundedTbsp, unit: "tbsp" };
+                }
+            }
+
+            // For 1 cup or more with awkward fractional parts, keep as cups and let formatting handle it.
+            return { value: quantity, unit: "cup" };
+        }
+
+        // Tablespoons:
+        // - Prefer converting to cups when possible (4 tbsp -> 1/4 cup, 8 tbsp -> 1/2 cup, etc.).
+        // - Otherwise, for smaller or awkward amounts, may convert to teaspoons if that is cleaner
+        //   (e.g., 1 1/3 tbsp -> 4 tsp), but keep simple halves like 1/2 tbsp as-is.
+        if (u === "tbsp" || u === "tablespoon" || u === "tablespoons") {
+            const tbsp = quantity;
+
+            // First, try to go up to cups if this is a clean multiple of 1/4 cup.
+            const cups = tbsp / 16;
+            const cupsOverQuarter = cups / 0.25;
+            if (cups >= 0.25 && Math.abs(cupsOverQuarter - Math.round(cupsOverQuarter)) < 0.01) {
+                return { value: cups, unit: "cup" };
+            }
+
+            // Next, consider going down to teaspoons when that looks cleaner.
+            const tsp = tbsp * 3;
+            const roundedTsp = Math.round(tsp);
+
+            // If the tablespoon amount has a fractional part close to 1/3 or 2/3, prefer teaspoons
+            // (e.g., 2 1/3 tbsp -> 7 tsp, 2 2/3 tbsp -> 8 tsp).
+            const wholeTbsp = Math.floor(Math.abs(tbsp) + 1e-8);
+            const fracTbsp = Math.abs(tbsp) - wholeTbsp;
+            if (
+                (Math.abs(fracTbsp - 1 / 3) < 0.02 || Math.abs(fracTbsp - 2 / 3) < 0.02) &&
+                Math.abs(tsp - roundedTsp) < 0.01 &&
+                roundedTsp > 0
+            ) {
+                return { value: tsp, unit: "tsp" };
+            }
+
+            // For very small amounts (< 1 tbsp), convert to teaspoons when they represent a simple
+            // fraction of a teaspoon (e.g., 1/6 tbsp -> 1/2 tsp, 1/3 tbsp -> 1 tsp).
+            if (tbsp < 1) {
+                // Exact integer teaspoons (e.g., 1/3 tbsp -> 1 tsp)
+                if (Math.abs(tsp - roundedTsp) < 0.01 && roundedTsp > 0) {
+                    return { value: roundedTsp, unit: "tsp" };
+                }
+                // Half-teaspoon increments below 1 tsp (e.g., 1/6 tbsp -> 1/2 tsp)
+                if (tsp < 1 && Math.abs(tsp - 0.5) < 0.02) {
+                    return { value: tsp, unit: "tsp" };
+                }
+            }
+
+            // For slightly larger, awkward amounts (e.g., ~1.33 tbsp), if the teaspoon amount is an
+            // integer and the tablespoons value is not a clean quarter increment, prefer teaspoons.
+            const tbspOverQuarter = tbsp / 0.25;
+            const isQuarterMultiple = Math.abs(tbspOverQuarter - Math.round(tbspOverQuarter)) < 0.01;
+            if (tbsp >= 1 && tbsp < 2 && !isQuarterMultiple && Math.abs(tsp - roundedTsp) < 0.01 && roundedTsp > 0) {
+                return { value: roundedTsp, unit: "tsp" };
+            }
+
+            return { value: quantity, unit: "tbsp" };
+        }
+
+        // Teaspoons: when there is a clean tablespoon equivalent, prefer tablespoons (larger unit).
+        if (u === "tsp" || u === "teaspoon" || u === "teaspoons") {
+            const tsp = quantity;
+            const tbsp = tsp / 3;
+            const roundedTbsp = Math.round(tbsp);
+            // Prefer tablespoons when tsp is at least 1 and converts cleanly (e.g., 1.5 tsp -> 1/2 tbsp).
+            if (tsp >= 1 && Math.abs(tbsp - roundedTbsp) < 0.01 && roundedTbsp > 0) {
+                return { value: tbsp, unit: "tbsp" };
+            }
+            return { value: quantity, unit: unitWord };
+        }
+
+        // All other units: keep as-is
+        return { value: quantity, unit: unitWord };
+    }
+
+    // Scale a volume description like "1 cup", "1/2 cup + 1 tbsp", "1 batch, 9 oz",
+    // or canned items like "15.5 oz can" and "2 x 15.5 oz can" while keeping can sizes fixed.
+    function scaleVolumeString(baseVol, factor) {
+        if (!baseVol || !factor || !isFinite(factor)) return baseVol;
+        if (Math.abs(factor - 1) < 1e-8) return baseVol;
+
+        const trimmed = baseVol.trim();
+
+        // Helper for formatting pure cup amounts, possibly decomposing into cups + tablespoons.
+        function formatCupAmount(cupQty) {
+            if (!isFinite(cupQty)) return baseVol;
+
+            const sign = cupQty < 0 ? -1 : 1;
+            const absCups = Math.abs(cupQty);
+            const wholeCups = Math.floor(absCups + 1e-8);
+            const fracCups = absCups - wholeCups;
+
+            // First, see if we can represent the cup amount cleanly with simple fractions
+            // (denominators 2, 3, 4, or 6), e.g., 1/4, 1/3, 1/2, 3/4, 1/6.
+            const candidateDenoms = [2, 3, 4, 6];
+            let bestDen = 1;
+            let bestNum = 0;
+            let bestError = Infinity;
+            candidateDenoms.forEach(den => {
+                const num = Math.round(fracCups * den);
+                if (num === 0) return;
+                const approx = num / den;
+                const error = Math.abs(fracCups - approx);
+                if (error < bestError) {
+                    bestError = error;
+                    bestDen = den;
+                    bestNum = num;
+                }
+            });
+
+            const threshold = 0.02;
+            const canBeSimpleFraction = bestError < threshold && bestNum !== 0;
+
+            // If we can represent the cups cleanly (including cases like 1/4 cup, 1/3 cup, 1/2 cup, etc.),
+            // just return a single cup amount.
+            if (canBeSimpleFraction || fracCups < 1e-6) {
+                const val = sign * absCups;
+                const cupStr = formatQuantity(val, "cup");
+                return `${cupStr} cup`;
+            }
+
+            // For sub-1-cup amounts that are not simple cup fractions, convert fully to tablespoons
+            // (and let the tablespoon/teaspoon logic handle the rest).
+            if (absCups < 1) {
+                const tbspVal = sign * absCups * 16;
+                const normalizedTbsp = normalizeQuantityUnit(tbspVal, "tbsp", factor);
+                const unit = normalizedTbsp.unit || "tbsp";
+                const qtyStr = formatQuantity(normalizedTbsp.value, unit);
+                return unit ? `${qtyStr} ${unit}` : qtyStr;
+            }
+
+            // For 1 cup or more with an "ugly" fractional part (like 5/8, 7/8, etc.), decompose into
+            // cups to the nearest 1/2 cup plus remaining tablespoons.
+            const halfSteps = Math.floor(absCups * 2 + 1e-8);
+            const mainCups = halfSteps / 2;
+            const remainderCups = absCups - mainCups;
+            const remainderTbspAbs = remainderCups * 16;
+
+            const parts = [];
+            if (mainCups > 0) {
+                const mainVal = sign * mainCups;
+                const mainCupStr = `${formatQuantity(mainVal, "cup")} cup`;
+                parts.push(mainCupStr);
+            }
+            if (remainderTbspAbs > 0.01) {
+                const remVal = sign * remainderTbspAbs;
+                const normalizedRem = normalizeQuantityUnit(remVal, "tbsp", factor);
+                const unit = normalizedRem.unit || "tbsp";
+                const remQtyStr = formatQuantity(normalizedRem.value, unit);
+                parts.push(`${remQtyStr} ${unit}`);
+            }
+
+            if (parts.length === 0) {
+                return "0 cup";
+            }
+            return parts.join(" + ");
+        }
+
+        // Special handling: if the entire original description is just a cup amount,
+        // scale it numerically then format via the helper above. This avoids decimal
+        // artifacts like "2.63 cup" and ensures outputs like "1/4 cup" or
+        // "2 1/2 cup + 2 tbsp".
+        const baseCupMatch = trimmed.match(/^(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)\s*cup(s)?$/i);
+        if (baseCupMatch) {
+            const baseCupQty = parseQuantity(baseCupMatch[1]);
+            if (!isNaN(baseCupQty)) {
+                const scaledCupQty = baseCupQty * factor;
+                return formatCupAmount(scaledCupQty);
+            }
+        }
+
+        // Special handling: entire description is just a canned item with an explicit count:
+        // e.g., "2 x 15.5 oz can" or "2x15.5 oz cans"
+        let m = trimmed.match(/^(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)\s*x\s*(\d*\.?\d+)\s*oz\s*can(s)?\s*$/i);
+        if (m) {
+            const baseCountVal = parseQuantity(m[1]);
+            const sizeStr = m[2];
+            if (!isNaN(baseCountVal)) {
+                const newCountVal = baseCountVal * factor;
+                const formattedCount = formatQuantity(newCountVal, null);
+                const epsilon = 1e-2;
+
+                let unitCan = "can";
+                if (newCountVal > 1.01) unitCan = "cans";
+
+                const sizePart = `${sizeStr} oz ${unitCan}`;
+                if (newCountVal < 1 - epsilon) {
+                    // Fractional counts: "1/2 15.5 oz can"
+                    return `${formattedCount} ${sizePart}`;
+                } else if (Math.abs(newCountVal - 1) <= epsilon) {
+                    // Exactly one can: just "15.5 oz can"
+                    return sizePart;
+                } else {
+                    // Multiple cans: "4 x 15.5 oz cans"
+                    return `${formattedCount} x ${sizePart}`;
+                }
+            }
+        }
+
+        // Special handling: entire description is just a canned item with an implied count of 1:
+        // e.g., "15.5 oz can" or "16 oz can"
+        m = trimmed.match(/^(\d*\.?\d+)\s*oz\s*can(s)?\s*$/i);
+        if (m) {
+            const sizeStr = m[1];
+            const baseCountVal = 1;
+            const newCountVal = baseCountVal * factor;
+            const formattedCount = formatQuantity(newCountVal, null);
+            const epsilon = 1e-2;
+
+            let unitCan = "can";
+            if (newCountVal > 1.01) unitCan = "cans";
+
+            const sizePart = `${sizeStr} oz ${unitCan}`;
+            if (newCountVal < 1 - epsilon) {
+                // Fractional counts: "1/2 15.5 oz can"
+                return `${formattedCount} ${sizePart}`;
+            } else if (Math.abs(newCountVal - 1) <= epsilon) {
+                // Exactly one can: just "15.5 oz can"
+                return sizePart;
+            } else {
+                // Multiple cans: "2 x 15.5 oz cans"
+                return `${formattedCount} x ${sizePart}`;
+            }
+        }
+
+        // General case: scale all recognized numeric quantities, but don't touch can sizes.
+        let result = baseVol;
+
+        const quantityUnitRegex = /(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)\s*([a-zA-Z]+)?/g;
+
+        result = result.replace(quantityUnitRegex, (match, qtyStr, unitWord, offset, fullStr) => {
+            const qtyVal = parseQuantity(qtyStr);
+            if (isNaN(qtyVal)) {
+                return match;
+            }
+
+            // Skip "oz" immediately followed by "can"/"cans" – that's the can size, not a scalable quantity
+            const after = fullStr.slice(offset + match.length).trimStart().toLowerCase();
+            if (unitWord && unitWord.toLowerCase() === "oz" && (after.startsWith("can") || after.startsWith("cans"))) {
+                return match;
+            }
+
+            const scaledVal = qtyVal * factor;
+            const normalized = normalizeQuantityUnit(scaledVal, unitWord, factor);
+            const formattedQty = formatQuantity(normalized.value, normalized.unit);
+
+            if (normalized.unit) {
+                return `${formattedQty} ${normalized.unit}`;
+            }
+            return formattedQty;
+        });
+
+        // Simplify simple "A unit + B unit" cases where units are compatible:
+        // - same unit (e.g., "4 tbsp + 1 tbsp" -> "5 tbsp")
+        // - cup + tbsp (e.g., "1 cup + 4 tbsp" -> "1 1/4 cup" when exact)
+        const plusPattern = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)\s*([a-zA-Z]+)\s*\+\s*(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)\s*([a-zA-Z]+)$/;
+        const plusMatch = result.trim().match(plusPattern);
+        if (plusMatch) {
+            const q1 = parseQuantity(plusMatch[1]);
+            const u1 = plusMatch[2].toLowerCase();
+            const q2 = parseQuantity(plusMatch[3]);
+            const u2 = plusMatch[4].toLowerCase();
+
+            if (isFinite(q1) && isFinite(q2)) {
+                // Same unit: just add
+                if (u1 === u2) {
+                    const total = q1 + q2;
+                    const formattedTotal = formatQuantity(total, u1);
+                    result = `${formattedTotal} ${u1}`;
+                }
+                // Cup + tbsp combinations
+                else if (
+                    (u1 === "cup" || u1 === "cups") &&
+                    (u2 === "tbsp" || u2 === "tablespoon" || u2 === "tablespoons")
+                ) {
+                    const totalCups = q1 + q2 / 16;
+
+                    // Decide whether we can represent everything nicely as a single cup amount,
+                    // or whether we should keep a cup + tbsp structure (e.g., 2 1/2 cup + 2 tbsp).
+                    const frac = totalCups - Math.floor(totalCups + 1e-8);
+                    const candidateDenoms = [2, 3, 4, 6];
+                    let bestDen = 1;
+                    let bestNum = 0;
+                    let bestError = Infinity;
+                    candidateDenoms.forEach(den => {
+                        const num = Math.round(frac * den);
+                        if (num === 0) return;
+                        const approx = num / den;
+                        const error = Math.abs(frac - approx);
+                        if (error < bestError) {
+                            bestError = error;
+                            bestDen = den;
+                            bestNum = num;
+                        }
+                    });
+
+                    const threshold = 0.02;
+                    // If the fractional part is nicely representable with a simple denominator,
+                    // use a single cup value (e.g., 1 1/4 cup).
+                    if (bestError < threshold && bestNum !== 0) {
+                        const normalizedTotal = normalizeQuantityUnit(totalCups, "cup", factor);
+                        const formattedTotal = formatQuantity(normalizedTotal.value, normalizedTotal.unit);
+                        result = `${formattedTotal} ${normalizedTotal.unit}`;
+                    } else {
+                        // Otherwise, keep cups at the nearest 1/2 cup and put the remainder in tablespoons.
+                        const mainHalfSteps = Math.floor(totalCups * 2 + 1e-8);
+                        const mainCups = mainHalfSteps / 2;
+                        const remainderCups = totalCups - mainCups;
+                        const remainderTbsp = remainderCups * 16;
+
+                        const mainCupStr = mainCups > 0 ? `${formatQuantity(mainCups, "cup")} cup` : "";
+
+                        let remainderStr = "";
+                        if (remainderTbsp > 0.01) {
+                            const remTbspFormatted = formatQuantity(remainderTbsp, "tbsp");
+                            remainderStr = `${remTbspFormatted} tbsp`;
+                        }
+
+                        if (mainCupStr && remainderStr) {
+                            result = `${mainCupStr} + ${remainderStr}`;
+                        } else if (mainCupStr) {
+                            result = mainCupStr;
+                        } else {
+                            result = remainderStr;
+                        }
+                    }
+                } else if (
+                    (u2 === "cup" || u2 === "cups") &&
+                    (u1 === "tbsp" || u1 === "tablespoon" || u1 === "tablespoons")
+                ) {
+                    const totalCups = q2 + q1 / 16;
+
+                    const frac = totalCups - Math.floor(totalCups + 1e-8);
+                    const candidateDenoms = [2, 3, 4, 6];
+                    let bestDen = 1;
+                    let bestNum = 0;
+                    let bestError = Infinity;
+                    candidateDenoms.forEach(den => {
+                        const num = Math.round(frac * den);
+                        if (num === 0) return;
+                        const approx = num / den;
+                        const error = Math.abs(frac - approx);
+                        if (error < bestError) {
+                            bestError = error;
+                            bestDen = den;
+                            bestNum = num;
+                        }
+                    });
+
+                    const threshold = 0.02;
+                    if (bestError < threshold && bestNum !== 0) {
+                        const normalizedTotal = normalizeQuantityUnit(totalCups, "cup", factor);
+                        const formattedTotal = formatQuantity(normalizedTotal.value, normalizedTotal.unit);
+                        result = `${formattedTotal} ${normalizedTotal.unit}`;
+                    } else {
+                        const mainHalfSteps = Math.floor(totalCups * 2 + 1e-8);
+                        const mainCups = mainHalfSteps / 2;
+                        const remainderCups = totalCups - mainCups;
+                        const remainderTbsp = remainderCups * 16;
+
+                        const mainCupStr = mainCups > 0 ? `${formatQuantity(mainCups, "cup")} cup` : "";
+
+                        let remainderStr = "";
+                        if (remainderTbsp > 0.01) {
+                            const remTbspFormatted = formatQuantity(remainderTbsp, "tbsp");
+                            remainderStr = `${remTbspFormatted} tbsp`;
+                        }
+
+                        if (mainCupStr && remainderStr) {
+                            result = `${mainCupStr} + ${remainderStr}`;
+                        } else if (mainCupStr) {
+                            result = mainCupStr;
+                        } else {
+                            result = remainderStr;
+                        }
+                    }
+                }
+            }
+        }
+
+        // If the final result is a single cup amount, consider expressing it as a combination
+        // of cups (to the nearest 1/2 cup) plus tablespoons to avoid awkward decimal or eighth cups.
+        const singleCupPattern = /^(\d+\s+\d+\/\d+|\d+\/\d+|\d*\.?\d+)\s*cup(s)?$/i;
+        const singleCupMatch = result.trim().match(singleCupPattern);
+        if (singleCupMatch) {
+            const cupQty = parseQuantity(singleCupMatch[1]);
+            if (isFinite(cupQty) && cupQty !== 0) {
+                const sign = cupQty < 0 ? -1 : 1;
+                const absCups = Math.abs(cupQty);
+                const totalTbsp = absCups * 16;
+                const roundedTotalTbsp = Math.round(totalTbsp);
+
+                // Only decompose when the underlying tablespoons representation is effectively integral,
+                // and when the cup amount cannot already be expressed cleanly with simple fractions
+                // (denominators 2, 3, 4, or 6). This avoids breaking values like 1 1/4 cup into
+                // "1 cup + 4 tbsp", but still allows 2 5/8 cup to become "2 1/2 cup + 2 tbsp".
+                const frac = absCups - Math.floor(absCups + 1e-8);
+                const candidateDenoms = [2, 3, 4, 6];
+                let bestDen = 1;
+                let bestNum = 0;
+                let bestError = Infinity;
+                candidateDenoms.forEach(den => {
+                    const num = Math.round(frac * den);
+                    if (num === 0) return;
+                    const approx = num / den;
+                    const error = Math.abs(frac - approx);
+                    if (error < bestError) {
+                        bestError = error;
+                        bestDen = den;
+                        bestNum = num;
+                    }
+                });
+                const threshold = 0.02;
+                const alreadySimpleFraction = bestError < threshold && bestNum !== 0;
+
+                if (!alreadySimpleFraction && Math.abs(totalTbsp - roundedTotalTbsp) < 0.01) {
+                    // Use cups in 1/2-cup increments and put the remainder into tablespoons.
+                    const halfSteps = Math.floor(absCups * 2 + 1e-8);
+                    const mainCups = halfSteps / 2;
+                    const remainderCups = absCups - mainCups;
+                    const remainderTbsp = Math.round(remainderCups * 16);
+
+                    const parts = [];
+                    if (mainCups > 0) {
+                        const mainCupVal = sign * mainCups;
+                        const mainCupStr = `${formatQuantity(mainCupVal, "cup")} cup`;
+                        parts.push(mainCupStr);
+                    }
+                    if (remainderTbsp > 0) {
+                        const remTbspVal = sign * remainderTbsp;
+                        const remTbspStr = `${formatQuantity(remTbspVal, "tbsp")} tbsp`;
+                        parts.push(remTbspStr);
+                    }
+
+                    if (parts.length > 0) {
+                        result = parts.join(" + ");
+                    }
+                }
+            }
+        }
+
+        return result;
+    }
+
     // Initialize the base servings variable
     let baseServings = "{{ base_servings }}";
     if (baseServings === undefined || baseServings === null || baseServings.trim() === "") {
@@ -261,21 +878,36 @@
             const baseCost = parseFloat(item.querySelector(".ingredient-cost").getAttribute("data-base-cost"));
             const baseRecipeCost = parseFloat(item.querySelector(".recipe-costs").getAttribute("data-base-recipe-cost"));
 
-            const adjustedMass = baseMass * servings / baseServings;
-            const adjustedCost = baseCost * servings / baseServings; // Scale the cost
-            const adjustedRecipeCost = baseRecipeCost * servings / baseServings; // Scale the cost
+            const factor = servings / baseServings;
+            const adjustedMass = baseMass * factor;
+            const adjustedCost = baseCost * factor; // Scale the cost
+            const adjustedRecipeCost = baseRecipeCost * factor; // Scale the cost
 
             const gramsElement = item.querySelector(".recipe-grams");
             const costElement = item.querySelector(".ingredient-cost");
             const recipeCostElement = item.querySelector(".recipe-costs");
+            const volElement = item.querySelector(".recipe-vol");
+
+            // Determine base volume description
+            let baseVol = "";
+            if (volElement) {
+                baseVol = volElement.getAttribute("data-base-vol") || volElement.textContent.trim();
+            }
 
             // Display logic based on servings
             if (servings === baseServings) {
-                gramsElement.textContent = `(${baseMass} g)`; // Show original mass
-                item.querySelector(".recipe-vol").style.display = 'inline'; // Show volume
+                gramsElement.textContent = `(${formatMass(baseMass)} g)`; // Show original mass
+                if (volElement) {
+                    volElement.textContent = baseVol; // Show original volume
+                    volElement.style.display = 'inline';
+                }
             } else {
-                gramsElement.textContent = `${adjustedMass.toFixed(1)} g`; // Show adjusted grams
-                item.querySelector(".recipe-vol").style.display = 'none'; // Hide volume
+                gramsElement.textContent = `(${formatMass(adjustedMass)} g)`; // Show adjusted grams, always in parentheses
+                if (volElement) {
+                    const scaledVol = scaleVolumeString(baseVol, factor);
+                    volElement.textContent = scaledVol;
+                    volElement.style.display = 'inline'; // Show scaled volume
+                }
             }
 
             // Update cost display
