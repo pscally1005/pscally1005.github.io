@@ -12,8 +12,7 @@
     <ul id="results-container"></ul>
 </div>
 
-<!-- Include the Simple Jekyll Search script -->
-<script src="/assets/js/search-script.js" type="text/javascript"></script>
+<!-- Custom search (word-boundary + relevance sort); SimpleJekyllSearch no longer used -->
 
 <style>
   #search-wrapper {
@@ -99,13 +98,8 @@
         return allergenHTML.trim(); // Return the formatted string
     }
 
-    // Initialize Simple Jekyll Search
-    // REMOVED <span class='post-count'></span> BEFORE 'post-link' LINE
-    SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '/search.json',
-        searchResultTemplate: `
+    // Custom search: word-boundary matching + relevance sort (title > tags > categories > other)
+    const searchResultTemplate = `
             <li class="result-item"
                 data-gluten-free="{gluten-free}"
                 data-vegetarian="{vegetarian}"
@@ -125,8 +119,102 @@
                         </div>
                     </center>
                 </a>
-            </li>`,
-        noResultsText: "" // Message when no results are found
+            </li>`;
+
+    function escapeRegex(s) {
+      return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    // Match only full word or start of word (e.g. "oats" matches "oats" but not "boats")
+    function textMatchesWordBoundary(text, term) {
+      if (!text || typeof text !== 'string') return false;
+      const escaped = escapeRegex(term.trim().toLowerCase());
+      const re = new RegExp('(^|\\b)' + escaped, 'i');
+      return re.test(text.trim());
+    }
+
+    function itemMatchesQuery(item, terms) {
+      const searchable = [
+        (item.title || ''),
+        (item.tags || ''),
+        (item.categories || ''),
+        (item.ingred || '')
+      ].join(' ');
+      return terms.every(term => textMatchesWordBoundary(searchable, term));
+    }
+
+    function relevanceScore(item, terms) {
+      let score = 0;
+      const title = (item.title || '').toLowerCase();
+      const tags = (item.tags || '').toLowerCase();
+      const categories = (item.categories || '').toLowerCase();
+      const ingred = (item.ingred || '').toLowerCase();
+      for (const term of terms) {
+        const t = term.trim().toLowerCase();
+        if (!t) continue;
+        const re = new RegExp('(^|\\b)' + escapeRegex(t), 'i');
+        if (re.test(item.title || '')) score += 100;
+        if (re.test(item.tags || '')) score += 50;
+        if (re.test(item.categories || '')) score += 30;
+        if (re.test(item.ingred || '')) score += 20;
+      }
+      return score;
+    }
+
+    function compileTemplate(item) {
+      return searchResultTemplate.replace(/\{(\w+(-?\w+)*)\}/g, (_, key) => item[key] ?? '');
+    }
+
+    function parseDate(dateStr) {
+      if (!dateStr) return 0;
+      const d = new Date(dateStr);
+      return isNaN(d.getTime()) ? 0 : d.getTime();
+    }
+
+    let searchData = [];
+
+    fetch('/search.json')
+      .then(r => r.json())
+      .then(json => {
+        searchData = json;
+        const q = document.getElementById('search-input').value.trim();
+        if (q) runSearch(q);
+      })
+      .catch(() => { searchData = []; });
+
+    function runSearch(query) {
+      const container = document.getElementById('results-container');
+      container.innerHTML = '';
+      const q = (query || '').trim();
+      if (!q) {
+        updateResultsUI();
+        return;
+      }
+      const terms = q.split(/\s+/).filter(Boolean);
+      const matches = searchData
+        .filter(item => itemMatchesQuery(item, terms))
+        .map(item => ({
+          item,
+          score: relevanceScore(item, terms),
+          date: parseDate(item.date)
+        }))
+        .sort((a, b) => {
+          if (b.score !== a.score) return b.score - a.score;
+          return b.date - a.date;
+        })
+        .map(x => x.item);
+      if (matches.length === 0) {
+        updateResultsUI();
+        return;
+      }
+      matches.forEach(item => container.appendChild(
+        Object.assign(document.createElement('div'), { innerHTML: compileTemplate(item) }).firstElementChild
+      ));
+      updateResultsUI();
+    }
+
+    document.getElementById('search-input').addEventListener('input', function() {
+      runSearch(this.value);
     });
 
     const searchInput = document.getElementById('search-input');
