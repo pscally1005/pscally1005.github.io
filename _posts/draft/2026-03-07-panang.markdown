@@ -19,7 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/peanut-coconut-curry
-image: /assets/Food/Chicken/Peanut Coconut Curry/cover1.jpg
+image: /assets/Food/Chicken/Peanut Coconut Curry/cover4.jpg
 file: panangffcpb2
 servingSize:
 section1: Step 1
@@ -93,7 +93,8 @@ Notes:
     "Calories",
     "Protein",
     "Fat",
-    "Net Carbs"
+    "Net Carbs",
+    "Fiber";
   )
 
 - Lite <a href='/misc/dairy#coconut-milk'>coconut milk</a> is just further watered down <a href='/misc/fats'>full fat</a> <a href='/misc/dairy#coconut-milk'>coconut milk</a>.  You can replace each 13.5 oz can of lite <a href='/misc/dairy#coconut-milk'>coconut milk</a> with the following amounts of full fat <a href='/misc/dairy#coconut-milk'>coconut milk</a> and water
