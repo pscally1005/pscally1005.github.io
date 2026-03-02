@@ -55,6 +55,7 @@ tags:
 - cake
 - bread
 - food processor
+- powdered peanut butter
 Description: If you want to have <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> for <a href='/recipes/breakfast'>breakfast</a> or a <a href='/recipes/healthier-dessert'>dessert</a>, this recipe works as a great way to satisfy that craving while still hitting your <a href='/misc/protein'>protein</a> needs. This healthy cake has some <a href='/misc/fats'>healthy fats</a> in the <a href='/misc/seeds#chia-seeds'>chia seeds</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>, and is free of <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>.  Some similar recipes are my <a href='/recipes/apple-bread'>Protein Apple Bread</a> or <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, which you should totally try
 Instructions:
 - Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and lightly grease the paper

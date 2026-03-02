@@ -64,6 +64,7 @@ tags:
 - cake
 - mini muffin
 - frozen blueberries
+- powdered peanut butter
 Description: Blueberry muffins are a classic quick grab and go <a href='/recipes/breakfast'>breakfast</a> for a reason, but they're traditionally loaded with <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fats'>oils</a>. These ones however are much healthier than the classic though, packing <a href='/misc/fiber'>fiber</a> with <a href='/misc/grains#oats'>oat flour</a>, and avoiding tons of <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fats'>unhealthy fats</a>.  Check out my <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a> and my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a> for similar recipes
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#oats'>quick oats</a>, cornstarch, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and baking soda

@@ -50,6 +50,11 @@ tags:
 - exercise
 - recovery
 - work out
+- powdered peanut butter
+- protein powder
+- natural peanut butter
+- banana
+- greek yogurt
 Description: This recipe is great for those looking to pack on some muscle, or for those with a <a href='/misc/high-protein'>high protein</a> and <a href='/misc/calories'>calorie</a> intake. With 1,000 <a href='/misc/calories'>calories</a> and 100 g of <a href='/misc/protein'>protein</a>, this <a href='/recipes/breakfast'>breakfast</a> is a <a href='/misc/protein'>protein</a> bomb with a lot of <a href='/misc/fats'>healthy fats</a> and good <a href='/misc/carbs'>carbs</a> as well
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a> or airtight container, mash one of your <a href='/misc/fruit#banana'>bananas</a> with the back of a fork. Mix in the <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/dairy#whey'>protein powder</a>, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>. Cut your other <a href='/misc/fruit#banana'>banana</a> into slices, and add on top. Eat immediately, or cover and refrigerate overnight

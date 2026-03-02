@@ -52,6 +52,7 @@ tags:
 - cinnamon
 - dip
 - cookie dough dip
+- powdered peanut butter
 Description: Dessert hummus is a great sweet way to enjoy <a href='/misc/beans#chickpeas'>chickpeas</a>. It works really well as a spread on <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>, as a dip for <a href='/misc/fruit'>fruit</a>, on a PB&J, or in your <a href='/yogurt'>morning yogurt</a> or <a href='/oatmeal'>oatmeal</a>. It's naturally sweetened with <a href='/misc/fruit#banana'>bananas</a>, get <a href='/misc/fats'>healthy fats</a> and <a href='/misc/protein'>protein</a> from the <a href='/misc/nuts#peanuts'>peanut butter</a>, and <a href='/misc/fiber'>fiber</a> from the <a href='/misc/beans#chickpeas'>chickpeas</a>.  It also works as a great filling for a <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>.  Or check out any of my other <a href='/hummus'>hummus recipes</a>!
 Instructions:
 - The day before, break your <a href='/misc/fruit#banana'>bananas</a> into 1" chunks, and add to an airtight bag.  Freeze overnight

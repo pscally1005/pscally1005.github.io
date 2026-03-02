@@ -46,6 +46,7 @@ tags:
 - homemade peanut butter
 - 2 ingredient
 - two ingredient
+- powdered peanut butter
 Description: Have you ever needed <a href='/misc/nuts#peanuts'>peanut butter</a> but not had any? <a href='https://amzn.to/4sgDH9S'>Powdered peanut butter</a> is <a href='/misc/nuts#peanuts'>peanut butter</a> with most the <a href='/misc/fats'>fat</a> removed, so why not just add it back in? This is the ratio of <a href='https://amzn.to/4sgDH9S'>peanut flour</a> to <a href='/misc/fats'>oil</a> to make <a href='/misc/nuts#peanuts'>peanut butter</a>, matching the nutrition facts of <a href='/recipes/natural-peanut-butter'>real peanut butter</a> as close as possible. I used extra virgin olive oil, as it's one of the healthiest <a href='/misc/fats'>fat</a> sources, but other <a href='/misc/fats'>oils</a> will work as well, such as <a href='/misc/nuts#coconut'>coconut</a> or avocado oil.  Or check out any of my other <a href='/nut-butter'>nut butter recipes</a>!
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/fats'>oil</a>. Use this <a href='/misc/nuts#peanuts'>peanut butter</a> any way you'd like. It has the consistency of <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, with a subtle extra virgin olive oil taste

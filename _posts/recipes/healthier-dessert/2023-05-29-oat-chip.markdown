@@ -49,6 +49,7 @@ tags:
 - applesauce
 - gluten free
 - cinnamon
+- powdered peanut butter
 Description: These oatmeal cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally <a href='/misc/hidden-sugar'>sugar free</a> if using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a>, but you can also use honey (or maple syrup) and regular chocolate chips if that's what you desire.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork, until smooth

@@ -42,7 +42,7 @@ whisk: https://s.samsungfood.com/oDuQe
 tags:
 - nutella
 - hazelnut spread
-- powder peanut butter
+- powdered peanut butter
 - pb2
 - pbfit
 - carob powder

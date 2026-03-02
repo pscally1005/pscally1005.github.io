@@ -67,6 +67,7 @@ tags:
 - protein bar
 - almond extract
 - fiber
+- powdered peanut butter
 Description: Chickpea brownies, my original <a href='/recipes/protein-powder'>protein based dessert</a>, that I think I have refined to near perfection. These bars are a great <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> packed snack to take on the go. They're much less sweet than traditional brownies, as they're more of a baked protein bar, but I personally prefer the <a href='/misc/nuts#almonds'>almond</a> and <a href='/misc/fruit#banana'>banana</a> taste that these provide. Don't count out the <a href='/misc/beans'>beans</a> until you try them!  For more <a href='/misc/protein'>protein</a> packed <a href='/misc/beans#chickpeas'>chickpea</a> <a href='/recipes/healthier-dessert'>desserts</a>, make the <a href='/misc/high-protein'>high protein</a> cookie dough <a href='/recipes/chickpea-chows'>Chickpea Chows</a>, or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
 - Drain and rinse your <a href='/misc/beans#chickpeas'>chickpeas</a>, and blend all ingredients in a <a href='https://amzn.to/4q0AUjI'>food processor</a> until fully combined and smooth

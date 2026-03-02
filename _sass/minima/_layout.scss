@@ -603,6 +603,11 @@ a:has(> .instruction-image) {
   margin: 0;            /* centering handled by anchor */
 }
 
+img.instruction-image {
+  display: block;
+  margin: 0 auto;   /* always center */
+}
+
 /* Images: remove numbers and indentation, center them */
 .instruction-image-li {
   list-style: none;     /* remove number */

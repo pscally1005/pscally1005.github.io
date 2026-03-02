@@ -53,6 +53,7 @@ tags:
 - nut
 - almond
 - cocoa
+- powdered peanut butter
 Description: <a href='/misc/protein'>Protein</a> <a href='/oatmeal'>overnight oats</a> are easily my favorite <a href='/recipes/breakfast'>breakfast</a>. They are packed with <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, highly customizable, super easy to prepare the day before, and easy to take on the go. Here is 1 of 5 different recipes that are constantly in my rotation to get you through the work week.  Or you can check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
 Instructions:
 - Mix all ingredients together in a bowl, cover, and refrigerate overnight

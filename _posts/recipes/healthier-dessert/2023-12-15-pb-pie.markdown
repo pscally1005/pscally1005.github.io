@@ -59,6 +59,7 @@ tags:
 - no bake
 - chill
 - vic
+- powdered peanut butter
 Description: Peanut butter pie is a classic Christmas stable, but it's filled with tons of <a href='/misc/fats'>unhealthy fats</a> and <a href='/misc/hidden-sugar'>sugars</a>, making it super <a href='/misc/calories'>calorie dense</a>. This recipe boosts the <a href='/misc/protein'>protein</a> content while cutting back on the <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fats'>fat</a>, but still keeping that great flavor, while also being dairy free. It combines a <a href='/recipes/pie-crust'>Homemade Graham Cracker Pie Crust</a> with the <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/fruit#banana'>banana</a> filling that you'll love.  If you have a <a href='/misc/nuts#peanuts'>peanut</a> allergy, just swap out the <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='https://amzn.to/4mZuQXM'>powdered peanut butter</a> for <a href='/misc/nuts#almonds'>almond butter</a> and <a href='https://amzn.to/48awAJ9'>powdered almond butter</a>
 Instructions:
 - Prepare your <a href='/recipes/pie-crust'>homemade pie crust</a> according to the recipe.  My standard <a href='/recipes/pie-crust'>Healthier Pie Crust</a> is a regular graham cracker pie crust, though you can make it chocolate by using <a href='/recipes/gf-crackers'>Chocolate Graham Crackers</a>.  Alternatively, you can also use any storebought pie crust if you prefer.

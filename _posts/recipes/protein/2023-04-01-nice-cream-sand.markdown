@@ -64,6 +64,7 @@ tags:
 - fruit
 - breakfast
 - vic
+- powdered peanut butter
 Description: <a href='/misc/protein'>Protein</a> ice cream sandwiches are one of my favorite <a href='/recipes/healthier-dessert'>desserts</a> to make. They are 2 no bake <a href='/misc/protein'>protein</a> oat cookies, with a layer of <a href='/recipes/nice-cream'>Banana Nice Cream</a> in the middle. The ice cream is very versatile, so you can mix up the flavor by using other frozen <a href='/misc/fruit'>fruits</a> or extracts.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>bananas</a> with a fork. Mix in the rest of the cookie ingredients - <a href='/misc/nuts#peanuts'>peanut butter</a>, vanilla, almond extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, cinnamon, salt, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, and <a href='/misc/grains#oats'>quick oats</a>. Chill in the fridge for the <a href='/misc/grains#oats'>oats</a> to soak up the liquid, about 15 minutes

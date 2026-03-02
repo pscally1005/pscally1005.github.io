@@ -60,6 +60,7 @@ tags:
 - rolled oats
 - mashed banana
 - peanut butter fudge bars
+- powdered peanut butter
 Description: These layered bars are a cross between Raspberry Oatmeal Bars and PB&J Bars.  The base is an <a href='/oatmeal'>oatmeal</a> crumble similar to my <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a>, made with <a href='/misc/grains#oats'>oats</a>, <a shref='/misc/fruit#banana'>banana</a>, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>.  Instead, these feature a homemade <a href='/recipes/strawberry-chia-jam'>Chia Berry Jam</a> sweetened just with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  Containing minimally processed ingredients, these bars are a much healthier alternative to conventionally <a href='/misc/processed-foods'>processed</a> <a href='/misc/fake-healthy-foods#granola'>granola bars</a>, as they contain a moderate amount of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, and <a href='/misc/grains'>whole grains</a>, while being <a href='/misc/hidden-sugar'>sugar free</a> and under 100 <a href='/misc/calories'>calories</a>!
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper

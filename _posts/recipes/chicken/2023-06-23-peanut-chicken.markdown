@@ -55,6 +55,7 @@ tags:
 - asian
 - ginger
 - chopstick
+- powdered peanut butter
 Description: I'm a big sucker for <a href='/misc/nuts#peanuts'>peanut butter</a>. As an American, the glorious <a href='/misc/nuts'>nut</a> nectar is normally only used for sweet things, which I think is a missed opportunity. The sauce here takes some great Asian inspiration, and tastes fantastic on <a href='/misc/veggies'>vegetables</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, and a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>brown rice</a>. I used <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> here, as it's easier to mix into the sauce, and it also boosts the <a href='/misc/protein'>protein</a> content. Feel free to swap the olive oil and cook in <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> instead for even more flavor.
 Instructions:
 - Wash and cut the <a href='/misc/veggies'>vegetables</a>. Add the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#carrots'>carrots</a> to a large pot or pan with oil. Cook over medium heat (covered) with salt until soft
