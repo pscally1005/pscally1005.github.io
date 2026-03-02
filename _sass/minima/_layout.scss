@@ -581,12 +581,26 @@
 }
 
 // Images in instruction steps
+/* Make any <a> wrapping an instruction image wrap tightly */
+a > .instruction-image {
+  display: block;         /* ensures image is block */
+}
+
+/* Any <a> wrapping an instruction image */
+a:has(> .instruction-image) {
+  display: block;       /* block-level so margin works */
+  width: fit-content;   /* shrink-wrap to image */
+  margin: 0 auto;       /* center horizontally */
+  line-height: 0;       /* remove extra vertical spacing */
+}
+
+/* Image styling */
 .instruction-image {
+  display: block;       /* block inside anchor */
   width: 400px;
   object-fit: cover;
-  border-radius: 10px; /* Rounded corners */
-  display: block;        /* ⬅ makes margin work */
-  margin: 0 auto;        /* ⬅ centers horizontally */
+  border-radius: 10px;
+  margin: 0;            /* centering handled by anchor */
 }
 
 /* Images: remove numbers and indentation, center them */
