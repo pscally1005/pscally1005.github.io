@@ -103,6 +103,8 @@ Notes:
 
     "Caffeine"
   )
+- <img src='/assets/Food/Meme/Coffee Loaf/coffee.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/Coffee Loaf/espresso.jpg' alt='' class='instruction-image'>
 
 - If you don't need it <a href='/misc/celiac'>gluten free</a>, you can simply use 2 cup (240 g) <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  If it needs to be <a href='/misc/celiac'>gluten free</a> though, you can replace the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with the following blend of flours
 - INGREDIENTS(coffeeloafgfflour)
