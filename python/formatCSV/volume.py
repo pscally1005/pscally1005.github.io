@@ -143,7 +143,7 @@ def fix(vol):
         v = "14.5 oz can"
     elif vol == "0.5 can drained solids" or vol == "0.5 can" or vol == "0.5 can, drained, rinsed" or vol == "0.5 can drained" or vol == "0.5 15.5oz can drained, rinsed":
         v = "1/2 x 15.5 oz can"
-    elif vol == "1 15.5oz can, drained and rinsed" or vol == "1 can drained solids" or vol == "1 can drained, rinsed" or vol == "1 can" or vol == "1 can, drained, rinsed" or vol == "1 can drained" or vol == "15.5oz can drained, rinsed":
+    elif vol == "1 15.5oz can, drained and rinsed" or vol == "1 can drained solids" or vol == "1 can drained, rinsed" or vol == "1 can" or vol == "1 can, drained, rinsed" or vol == "1 can drained" or vol == "15.5oz can drained, rinsed" or vol == "15.5oz can, NOT drained or rinsed" or vol == "1 15.5oz can, NOT drained or rinsed":
         v = "15.5 oz can"
     elif vol == "1.5 can drained solids":
         v = "1 1/2 x 15.5 oz can"
@@ -155,12 +155,12 @@ def fix(vol):
         v = "2 x 28 oz can"
     elif vol == "29 ounce":
         v = "2 x 14.5oz can"
-    elif vol == "2 can drained solids" or vol == "2 can" or vol == "2 can, drained, rinsed" or vol == "2 can drained" or vol == "2x15.5oz can drained, rinsed" or vol == "2 15.5oz cans":
+    elif vol == "2 can drained solids" or vol == "2 can" or vol == "2 can, drained, rinsed" or vol == "2 can drained" or vol == "2x15.5oz can drained, rinsed" or vol == "2 15.5oz cans" or vol == "2 15.5oz can, NOT drained or rinsed":
         v = "2 x 15.5 oz can"
-    elif vol == "3 can drained solids" or vol == "3 can" or vol == "3 can, drained, rinsed" or vol == "3 can drained" or vol == "3x15.5oz can drained, rinsed" or vol == "3 15.5oz cans":
+    elif vol == "3 can drained solids" or vol == "3 can" or vol == "3 can, drained, rinsed" or vol == "3 can drained" or vol == "3x15.5oz can drained, rinsed" or vol == "3 15.5oz cans" or vol == "3 15.5oz can, NOT drained or rinsed":
         v = "3 x 15.5 oz can"
-    elif vol == "4 can drained solids" or vol == "4 can" or vol == "4 can, drained, rinsed" or vol == "4 can drained" or vol == "4x15.5oz can drained, rinsed" or vol == "4 15.5oz cans":
-        v = "4 x 15.5oz can"
+    elif vol == "4 can drained solids" or vol == "4 can" or vol == "4 can, drained, rinsed" or vol == "4 can drained" or vol == "4x15.5oz can drained, rinsed" or vol == "4 15.5oz cans" or vol == "4 15.5oz can, NOT drained or rinsed":
+        v = "4 x 15.5 oz can"
     elif vol == "87 ounce" or vol == "87 oz":
         v = "6 x 14.5oz can"
 

@@ -8,8 +8,50 @@ import csv
 def grams(food, mass, vol):
     m = mass
 
+    # Drained and rinsed beans
+    if food == "Chickpeas, drained and rinsed" or food == "Black beans, drained and rinsed" or food == "Kidney beans, drained and rinsed" or food == "Pinto beans, drained and rinsed" or food == "Cannellini beans, drained and rinsed" or food == "Great northern beans, drained and rinsed" or food == "Navy beans, drained and rinsed" or food == "Beans, drained and rinsed" or food == "Cooked black beans" or food == "Cooked navy beans" or food == "Slow Cooker Dried Beans":
+        if vol == "15.5 oz can" or vol == "1 x 15.5 oz can" or vol == "15.5 oz":
+            m = "255"
+        elif vol == "1/2 15.5 oz can" or vol == "7.75 oz can":
+            m = "128"
+        elif vol == "2 x 15.5 oz can" or vol == "31 oz can":
+            m = "510"
+        elif vol == "3 x 15.5 oz can" or vol == "46.5 oz can":
+            m = "765"
+        elif vol == "4 x 15.5 oz can" or vol == "62 oz can":
+            m = "1020"
+        elif vol == "1 cup":
+            m = "180"
+        elif vol == "2 cup":
+            m = "360"
+        elif vol == "3/4 cup":
+            m = "135"
+        elif vol == "2/3 cup":
+            m = "120"
+        elif vol == "1/2 cup":
+            m = "90"
+        elif vol == "1/3 cup":
+            m = "60"
+        elif vol == "1/4 cup":
+            m = "45"
+        elif vol == "1 batch" or vol == "7 cup":
+            m = "1260"
+
+    # NOT drained and rinsed beans
+    elif food == "Chickpeas, NOT drained or rinsed" or food == "Black beans, NOT drained or rinsed" or food == "Kidney beans, NOT drained or rinsed" or food == "Pinto beans, NOT drained or rinsed" or food == "Cannellini beans, NOT drained or rinsed" or food == "Great northern beans, NOT drained or rinsed" or food == "Navy beans, NOT drained or rinsed" or food == "Beans, NOT drained or rinsed":
+        if vol == "15.5 oz can" or vol == "1 x 15.5 oz can" or vol == "15.5 oz":
+            m = "440"
+        elif vol == "1/2 x 15.5 oz can" or vol == "7.75 oz can" or vol == "1/2 15.5 oz can":
+            m = "220"
+        elif vol == "2 x 15.5 oz can" or vol == "31 oz can" or vol == "2 15.5 oz can":
+            m = "880"
+        elif vol == "3 x 15.5 oz can" or vol == "46.5 oz can" or vol == "3 15.5 oz can":
+            m = "1320"
+        elif vol == "4 x 15.5 oz can" or vol == "62 oz can" or vol == "4 15.5 oz can":
+            m = "1760"
+
     # Oz to g
-    if vol == "1 oz":
+    elif vol == "1 oz":
         m = "28"
     elif vol == "2 oz":
         m = "56"
@@ -293,7 +335,7 @@ def grams(food, mass, vol):
 
 
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut":
         if vol == "1/4 tsp":
             m = "1.25"
         elif vol == "1/2 tsp":
