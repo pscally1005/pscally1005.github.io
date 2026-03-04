@@ -18,7 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/chocolate-free-chocolate
-image: /assets/Food/Meme/Choc Free/choc-free-cover.jpg
+image: /assets/Food/Meme/Choc Free/cover-new.jpg
 file: chocfree
 servingSize: 1/2 oz (14 g)
 section1:
