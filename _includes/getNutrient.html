@@ -714,7 +714,7 @@
       {% if showPercentage == "False" or percentage == "" or percentage == -1 %}
           {% assign output = value | append: ' ' | append: unit %}
       {% endif %}
-      {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" %}
+      {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" or page.title == "The Surprising Benefits of Chocolate" %}
           {% assign output = value | append: ' ' | append: unit | append: ' (' | append: percentage | append: ' %)' %}
 
           {% assign nutrients_without_percentage = "Calories,Net Carbs,Sugar" | split: "," %}

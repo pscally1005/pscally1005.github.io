@@ -10,6 +10,1523 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/peanut-coconut-curry": [
+        "peanut coconut curry",
+        "panang"
+    ],
+    "/recipes/gassy-assy": [
+        "the gassy assy",
+        "gassy assy"
+    ],
+    "/recipes/24-hour-chili": [
+        "24 Hour Chili"
+    ],
+    "/recipes/4-ingredient-cookie-bars": [
+        "4 Ingredient Cookie Bars"
+    ],
+    "/recipes/air-fried-falafel": [
+        "Air Fryer Falafel (GF)",
+        "Air Fryer Falafel"
+    ],
+    "/recipes/air-fried-trail-mix": [
+        "Air Fryer Trail Mix"
+    ],
+    "/recipes/almond-flour-empanadas": [
+        "Almond Flour Empanada & Pierogi Dough",
+        "almond flour empanadas",
+        "almond flour pierogi",
+        "almond flour empanada dough",
+        "almond flour pierogi dough",
+        "almond flour empanada"
+    ],
+    "/recipes/almond-flour-focaccia": [
+        "Almond Flour Focaccia"
+    ],
+    "/recipes/amaretti": [
+        "Amaretti Cookies with Monkfruit",
+        "amaretti cookies",
+        "amaretti cookie",
+        "amaretti"
+    ],
+    "/recipes/amaretti-cookies-with-dates": [
+        "Amaretti Cookies with Dates"
+    ],
+    "/recipes/apple-bread": [
+        "Protein Apple Bread"
+    ],
+    "/recipes/apple-cinnamon-bread": [
+        "Pumpkin Spice Apple Bread"
+    ],
+    "/recipes/apple-crumble": [
+        "Apple Crumble with Oats",
+        "apple crisp with oats"
+    ],
+    "/recipes/apple-pie": [
+        "Sugar Free Apple Pie"
+    ],
+    "/recipes/apple-samoas": [
+        "Apple Samoa Bites"
+    ],
+    "/recipes/aquafaba-ice-cream": [
+        "Aquafaba Chocolate Ice Cream",
+        "aquafaba ice cream"
+    ],
+    "/recipes/avocado-pesto": [
+        "Avocado Pesto - Vegan and Oil Free",
+        "avocado pesto"
+    ],
+    "/recipes/avocado-protein-mousse": [
+        "Avocado Protein Chocolate Mousse",
+        "avocado protein mousse",
+        "avocado chocolate mousse",
+        "avocado mousse"
+    ],
+    "/recipes/avocado-tuna-salad": [
+        "Avocado Tuna Salad"
+    ],
+    "/recipes/baked-chicken-thighs": [
+        "Spiced Baked Chicken Thighs"
+    ],
+    "/recipes/baked-protein-bars": [
+        "Baked Protein Bars"
+    ],
+    "/recipes/baked-rice-and-beans": [
+        "Baked Rice and Beans with Vegetables",
+        "baked rice and beans"
+    ],
+    "/recipes/balsamic-vinaigrette": [
+        "Oil Free Balsamic Vinaigrette",
+        "homemade balsamic vinaigrette"
+    ],
+    "/recipes/banana-bread": [
+        "Oatmeal Banana Mini Muffins",
+        "oatmeal banana muffins",
+        "oatmeal banana bread"
+    ],
+    "/recipes/banana-bread-for-one": [
+        "Protein Breakfast Banana Bread for One",
+        "protein breakfast banana bread"
+    ],
+    "/recipes/banana-bread-hummus": [
+        "banana bread hummus spread",
+        "banana bread hummus",
+        "homemade dessert hummus",
+        "dessert hummus"
+    ],
+    "/recipes/banana-chimichanga": [
+        "Healthy Banana Chimichanga",
+        "banana chimichanga"
+    ],
+    "/recipes/banana-cream-pie": [
+        "Banana No-Cream Pie",
+        "banana cream pie"
+    ],
+    "/recipes/banana-protein": [
+        "Protein Banana Nut Bread",
+        "protein banana bread"
+    ],
+    "/recipes/banana-protein-pancakes": [
+        "Banana Protein Pancakes",
+        "banana pancakes"
+        "banana protein pancake",
+        "banana pancake"
+    ],
+    "/recipes/bbq-meatloaf": [
+        "Classic BBQ Meatloaf and Lemon Roasted Broccoli"
+        "classic bbq meatloaf",
+        "meatloaf"
+    ],
+    "/recipes/bean-salad": [
+        "Mediterranean 3 Bean Salad"
+    ],
+    "/recipes/beef-and-broccoli": [
+        "Juicy and Healthy Beef and Broccoli",
+        "beef and broccoli",
+        "beef & broccoli",
+        "juicy and healthy beef & broccoli",
+        "juicy & healthy beef & broccoli"
+        "juicy & healthy beef and broccoli"
+    ],
+    "/recipes/beef-liver": [
+        "Making Liver Taste Good"
+    ],
+    "/recipes/big-boi": [
+        "Bigger Boi Oatmeal"
+    ],
+    "/recipes/biscotti": [
+        "Air Fryer Biscotti",
+        "biscotti cookies",
+        "biscotti cookie",
+        "biscotti"
+    ],
+    "/recipes/black-bean-burger": [
+        "Protein Black Bean Burgers",
+        "protein black bean burger",
+        "black bean burgers",
+        "black bean burger"
+    ],
+    "/recipes/black-bean-date-brownies": [
+        "Black Bean Date Brownies"
+        "black bean date brownie",
+        "black bean brownies",
+        "black bean brownie",
+        "bean brownies",
+        "bean brownie"
+    ],
+    "/recipes/blue-cheese-dressing": [
+        "White Bean Blue Cheese Dressing",
+        "homemade blue cheese dressing",
+        "homemade blue cheese"
+    ],
+    "/recipes/bolognese-oats": [
+        "Turkey Oatmeal Bolognese"
+    ],
+    "/recipes/brain-boosting-bowl": [
+        "Brain Boosting Bowl"
+    ],
+    "/recipes/brain-yogurt": [
+        "Brain Boosting Yogurt"
+    ],
+    "/recipes/breaded-chicken": [
+        "Italian Breaded Chicken with Bruschetta"
+        "italian breaded chicken",
+        "breaded chicken cutlets"
+    ],
+    "/recipes/broccoli-cheddar-soup": [
+        "No Cream Broccoli Cheddar Soup",
+        "broccoli cheddar soup"
+    ],
+    "/recipes/broccoli-fries": [
+        "Air Fryer Broccoli Fries",
+        "broccoli fries"
+    ],
+    "/recipes/broccoli-rabe": [
+        "Garlic Lemon Broccoli Rabe"
+    ],
+    "/recipes/buffalo-chicken": [
+        "Creamy Buffalo Chicken and Peppers"
+    ],
+    "/recipes/bulking-breakfast": [
+        "1,000 Calorie Bulking Breakfast",
+        "bulking breakfast"
+    ],
+    "/recipes/bulking-brownies": [
+        "Clean Bulking Brownies",
+        "bulking brownies"
+    ],
+    "/recipes/burger-bowl": [
+        "Chopped Burger Bowl with Sweet Potatoes",
+        "burger bowl"
+    ],
+    "/recipes/butter-chicken": [
+        "No Butter Chicken with Quinoa",
+        "butter chicken"
+    ],
+    "/recipes/butternut-squash": [
+        "Roasted Butternut Squash with Onions"
+        "roasted butternut squash",
+    ],
+    "/recipes/butternut-squash-risotto": [
+        "Butternut Squash RisOATto",
+        "butternut squash risotto"
+    ],
+    "/recipes/cabbage-bread": [
+        "Cabbage Bread (4 Ingredients)",
+        "cabbage bread"
+    ],
+    "/recipes/cacciatore": [
+        "Stewed Chicken Cacciatore",
+        "chicken cacciatore"
+    ],
+    "/recipes/caponata": [
+        "Heavily Modified Sicilian Caponata",
+        "sicilian caponata",
+        "caponata"
+    ],
+    "/recipes/caprese-chicken": [
+        "Balsamic Caprese Chicken with Roasted Artichokes",
+        "balsamic caprese chicken",
+        "caprese chicken"
+    ],
+    "/recipes/carrot-cake": [
+        "Layered Protein Carrot Cake",
+        "protein carrot cake",
+        "carrot cake"
+    ],
+    "/recipes/carrot-cake-bites": [
+        "Carrot Cake Energy Bites"
+        "carrot cake energy bite",
+    ],
+    "/recipes/cheesecake": [
+        "Sugar Free Peanut Butter Cheesecake",
+        "peanut butter cheesecake"
+    ],
+    "/recipes/cheesecake-bars": [
+        "No Bake Cheesecake Bars",
+        "cheesecake bars",
+        "no bake cheesecake bar",
+        "cheesecake bar"
+    ],
+    "/recipes/cheesy-bean-dip": [
+        "Cheesy Bean Dip",
+        "bean dip"
+    ],
+    "/recipes/cheesy-cauliflower-rice-and-beans": [
+        '"Cheesy" Cauliflower Rice & Beans',
+        "'cheesy' cauliflower rice & beans",
+        '"Cheesy" Cauliflower Rice and Beans',
+        "'cheesy' cauliflower rice and beans",
+        "cheesy cauliflower rice & beans",
+        "cheese cauliflower rice and beans",
+        "cauliflower rice & beans",
+        "cauliflower rice and beans"
+    ],
+    "/recipes/cheesy-rice-and-broccoli": [
+        "Cheesy Rice & Broccoli",
+        "cheesy rice and broccoli"
+    ],
+    "/recipes/chicken-alfredo": [
+        "Chicken Alfredo with Potatoes and Broccoli",
+        "chicken alfredo"
+    ],
+    "/recipes/chicken-fingers": [
+        "Gluten Free Chicken Fingers"
+    ],
+    "/recipes/chicken-florentine": [
+        "No Cream Chicken Florentine",
+        "chicken florentine",
+    ],
+    "/recipes/chicken-noodle-stew": [
+        "Chicken Noodle Stew",
+        "chicken noodle soup"
+    ],
+    "/recipes/chicken-nuggets": [
+        "Freezer Chicken Nuggets"
+    ],
+    "/recipes/chicken-piccata": [
+        "Quick, Easy, & Healthy Chicken Piccata",
+        "chicken piccata"
+    ],
+    "/recipes/chicken-stew": [
+        "Crockpot Chicken Stew",
+        "chicken stew"
+    ],
+    "/recipes/chicken-wings": [
+        "Gluten Free Baked Buffalo Wings",
+        "buffalo chicken wings",
+        "buffalo wings"
+    ],
+    "/recipes/chickpea-brownies": [
+        "Protein Brownie Bars",
+        "protein chickpea brownies",
+        "protein brownies",
+        "protein brownie",
+        "protein brownie bar",
+        "protein chickpea brownie"
+    ],
+    "/recipes/chickpea-chows": [
+        "Chickpea Chows",
+        "chickpea chow"
+    ],
+    "/recipes/chickpea-date-blondies": [
+        "Chickpea Date Blondies",
+        "chickpea date blondie",
+        "chickpea blondies",
+        "chickpea blondie"
+    ],
+    "/recipes/chickpea-date-brownies": [
+        "Chickpea Date Brownies",
+        "chickpea date brownie",
+        "chickpea brownies",
+        "chickpea brownie"
+    ],
+    "/recipes/chickpea-sandwich": [
+        "Mashed Chickpea Sandwich"
+    ],
+    "/recipes/chickpea-wrap": [
+        "Tomato Chickpea Wraps",
+        "chana masala"
+    ],
+    "/recipes/chocolate-apple-cake": [
+        "Chocolate Cake for One"
+    ],
+    "/recipes/chocolate-chip-cookie-skillet": [
+        "Chocolate Chip Cookie Skillet",
+        "cookie cake"
+    ],
+    "/recipes/chocolate-covered-garlic": [
+        "Chocolate Covered Garlic Cloves"
+    ],
+    "/recipes/chocolate-electrolyte-bowls": [
+        "Electrolyte Protein Breakfast Bowls"
+    ],
+    "/recipes/chocolate-kefir": [
+        "Probiotic Chocolate Kefir",
+        "chocolate kefir"
+    ],
+    "/recipes/chocolate-peanut-butter-mousse": [
+        "Chocolate Peanut Butter Mousse",
+        "chocolate mousse",
+        "chickpea mousse",
+        "peanut butter mousse"
+    ],
+    "/recipes/chocolate-truffle": [
+        "Chocolate Yogurt Kerfuffles",
+        "chocolate yogurt truffles",
+        "yogurt truffles",
+    ],
+    "/recipes/cinnamon-chickpea": [
+        "Cinnamon Toast Chickpeas"
+    ],
+    "/recipes/cloud-bread": [
+        "Low Carb Cloud Bread",
+        "cloud bread"
+    ],
+    "/recipes/cocoa-bites": [
+        "Peanut Butter Cocoa Bites"
+    ],
+    "/recipes/coconut-cookies": [
+        "Sugar Free Coconut Cookies"
+    ],
+    "/recipes/coconut-macaroons": [
+        "Coconut Macaroons with Honey",
+        "coconut macaroons",
+        "coconut macaroon"
+    ],
+    "/recipes/coffee-loaf": [
+        "Decaf Coffee Loaf",
+        "coffee loaf"
+    ],
+    "/recipes/congee": [
+        "Brown Rice Congee Base",
+        "congee"
+    ],
+    "/recipes/copycat-harvest-bowl": [
+        "Copycat Sweetgreen Harvest Bowl",
+        "harvest bowl"
+    ],
+    "/recipes/corn-on-the-cob": [
+        "Roasted Corn on the Cob",
+        "corn on the cobb"
+    ],
+    "/recipes/cottage-cheese-ice-cream": [
+        "Cottage Cheese Ice Cream"
+    ],
+    "/recipes/cottage-cheese-peanut-butter": [
+        "Cottage Cheese Peanut Butter"
+    ],
+    "/recipes/couscous": [
+        "Tomato and Bean Couscous",
+        "tomato & bean couscous"
+    ],
+    "/recipes/cranberry-sauce": [
+        "Sugar Free Cranberry Sauce",
+        "cranberry sauce"
+    ],
+    "/recipes/creamy-pesto-hummus": [
+        "Creamy Pesto Hummus",
+        "pesto hummus"
+    ],
+    "/recipes/crepe": [
+        "Whole Wheat Breakfast Crepes",
+        "whole wheat breakfast crepe",
+        "crepes",
+        "crepe"
+    ],
+    "/recipes/cuccidati": [
+        "Date Cuccidati Cookies",
+        "cuccidati",
+        "fig cookies",
+        "fig cookie"
+    ],
+    "/recipes/cucumber-salad": [
+        "Kinda Asian Cucumber Salad",
+        "cucumber salad"
+    ],
+    "/recipes/cut-out-cookies": [
+        "Healthier Cut Out Cookies"
+    ],
+    "/recipes/date-brownie": [
+        "Almond Butter Date Brownies",
+        "date brownies",
+        "almond butter date brownie",
+        "date brownie"
+    ],
+    "/recipes/date-cookies": [
+        "Almond Flour Cookies",
+        "almond flour cookie",
+        "date cookies",
+        "date cookie"
+    ],
+    "/recipes/date-snickers": [
+        "Date Snickers Bars",
+        "date snickers bar",
+        "date snickers"
+    ],
+    "/recipes/dead-simple-chili": [
+        "Dead Simple Chili"
+    ],
+    "/recipes/deep-dish-pizza": [
+        "Whole Wheat Deep Dish Pizza Pie",
+        "deep dish pizza",
+        "deep dish"
+    ],
+    "/recipes/double-pumpkin-brownies": [
+        "Double Pumpkin Brownies",
+        "pumpkin brownies"
+    ],
+    "/recipes/dual-bean-date-brookies": [
+        "Dual Bean Date Brookies",
+        "dual bean date brookie",
+        "bean brookies",
+        "bean brookie"
+    ],
+    "/recipes/easy-cheesecake": [
+        "The Easiest (Healthy) Cheesecake",
+        "easy cheesecake"
+    ],
+    "/recipes/easy-pizza-dough": [
+        "Easy Pizza Dough"
+    ],
+    "/recipes/edible-cookie-dough-bites": [
+        "Edible Cookie Dough Bites",
+        "edible cookie dough"
+    ],
+    "/recipes/edible-cookie-dough-protein": [
+        "Edible Cookie Dough with Protein"
+    ],
+    "/recipes/egg-roll-bowl": [
+        "Egg Roll Skillet Bowls",
+        "egg roll"
+    ],
+    "/recipes/eggplant-pizza": [
+        "Mini Eggplant Pizzas",
+        "mini eggplant pizza",
+        "eggplant pizzas",
+        "eggplant pizza"
+    ],
+    "/recipes/eggplant-salad": [
+        "Grilled Eggplant and Chickpea Salad"
+        "eggplant and chickpea salad"
+    ],
+    "/recipes/electrolyte-protein-shake": [
+        "Electrolyte Protein Shake"
+    ],
+    "/recipes/energy-bites": [
+        "No Bake Energy Bites",
+        "energy bites"
+    ],
+    "/recipes/fajitas": [
+        "Chicken Fajitas with Peppers",
+        "chicken fajitas",
+        "fajitas"
+    ],
+    "/recipes/farro-bowls": [
+        "Chicken Farro Bowls with Goat Cheese"
+    ],
+    "/recipes/fatty-yogurt": [
+        "Fatty Yogurt"
+    ],
+    "/recipes/feta-pasta": [
+        "Viral Baked Feta Pasta",
+        "feta pasta"
+    ],
+    "/recipes/fiber-one-brownies": [
+        "Copycat Fiber One Brownies",
+        "fiber one brownies",
+        "copycat fiber one brownie",
+        "fiber one brownie"
+    ],
+    "/recipes/fig-walnut-energy-bites": [
+        "Fig & Walnut Energy Bites"
+    ],
+    "/recipes/fra-diavolo": [
+        "Shrimp Fra Diavolo con Spinach",
+        "shrimp fra diavolo",
+        "fra diavolo"
+    ],
+    "/recipes/french-onion-miso-soup": [
+        "French Onion & Miso Soup Crossover Event",
+        "french onion miso soup",
+        "french onino soup",
+        "miso soup"
+    ],
+    "/recipes/frittata": [
+        "Spinach and Onion Frittata",
+        "frittata"
+    ],
+    "/recipes/greek-lemon-potatoes": [
+        "Lower Oil Greek Lemon Potatoes",
+        "greek lemon potatoes",
+        "greek potatoes"
+    ],
+    "/recipes/greek-salad": [
+        "Greek Salad with Chicken",
+        "greek salad with grilled chicken",
+        "greek salad"
+    ],
+    "/recipes/greek-yogurt-gnocchi": [
+        "Greek Yogurt Whole Wheat Gnocchi",
+        "whole wheat gnocchi",
+        "gnocchi"
+    ],
+    "/recipes/green-bread": [
+        "Green Bread - No Food Dye",
+        "green bread"
+    ],
+    "/recipes/green-eggs-and-ham": [
+        "Green Eggs & Ham (Kinda)",
+        "green eggs and ham"
+    ],
+    "/recipes/green-smoothie": [
+        "Green Hemp Smoothie",
+        "green smoothie",
+        "hemp smoothie"
+    ],
+    "/recipes/grilled-shrimp": [
+        "Grilled Shrimp Skewers",
+        "grille dshrimp"
+    ],
+    "/recipes/ground-thanksgiving": [
+        "Ground Thanksgiving"
+    ],
+    "/recipes/haggis": [
+        "My Take on Haggis",
+        "haggis"
+    ],
+    "/recipes/hard-boiled-egg-mayo": [
+        "Hard Boiled Egg Mayo"
+    ],
+    "/recipes/higher-protein-scrambled-eggs": [
+        "Higher Protein Scrambled Eggs"
+    ],
+    "/recipes/home-fries": [
+        "Sweet Potato Home Fries",
+        "home fries"
+    ],
+    "/recipes/hot-honey-beef-bowls": [
+        "Hot Honey Beef Bowls",
+        "hot honey beef bowl"
+    ],
+    "/recipes/hot-honey-cornbread": [
+        "Hot Honey Cornbread"
+    ],
+    "/recipes/hummus": [
+        "Lemony Taco Inspired Hummus",
+        "taco hummus"
+    ],
+    "/recipes/indian-chicken": [
+        "Indian Chicken and Potatoes",
+        "indian chicken",
+        "indian potatoes"
+    ],
+    "/recipes/iron-bowl": [
+        "The Iron Bowl",
+        "iron bowl"
+    ],
+    "/recipes/italian-chicken": [
+        "Roasted Italian Chicken Breast and Acorn Squash",
+        "roasted italian chicken"
+    ],
+    "/recipes/italian-dressing": [
+        "Homemade Sugar Free Italian Dressing",
+        "homemade italian dressing"
+    ],
+    "/recipes/just-one-cookie": [
+        "Just One Cookie"
+    ],
+    "/recipes/kale": [
+        "Bean Kaled by Cheese"
+    ],
+    "/recipes/keto-brownies": [
+        "Flourless Keto Brownies (2 g Net Carbs)",
+        "flourless keto brownies",
+        "keto brownies"
+        "flourless keto brownie",
+        "keto brownie"
+    ],
+    "/recipes/keto-chocolate-chip-cookies": [
+        "Keto Chocolate Chip Cookies (3 g Net Carbs)",
+        "keto chocolate chip cookies",
+        "keto chocolate chip cookie",
+        "keto cookies",
+        "keto cookie"
+    ],
+    "/recipes/keto-fudge": [
+        "Bittersweet Keto Fudge",
+        "keto fudge"
+    ],
+    "/recipes/korean-chicken": [
+        "Korean Inspired Chicken with Broccoli and Potatoes",
+        "korean chicken"
+    ],
+    "/recipes/kung-pao-chicken": [
+        "Nontraditional Kung Pao Chicken",
+        "kung pao chicken"
+    ],
+    "/recipes/lactose-free-yogurt": [
+        "Lactose Free, Sugar Free, Vanilla Greek Yogurt",
+        "lactose free yogurt"
+    ],
+    "/recipes/lasagna-boats": [
+        "Spaghetti Squash Lasagna Boats",
+        "lasagna boats"
+    ],
+    "/recipes/lebanese-casserole": [
+        "Lebanese Riced Cauliflower Casserole",
+        "lebanese casserole"
+    ],
+    "/recipes/lemon-feta-bowl": [
+        "Lemon Feta Chicken Bowls"
+    ],
+    "/recipes/lemon-ginger-tea": [
+        "Lemon Ginger Tea",
+        "homemade tea"
+    ],
+    "/recipes/low-carb-pb-cookies": [
+        "Low Carb Peanut Butter Cookies",
+        "keto peanut butter cookies",
+        "low carb peanut butter cookie",
+        "keto peanut butter cookie"
+    ],
+    "/recipes/low-fodmap-chili": [
+        "Low FODMAP Chili"
+    ],
+    "/recipes/low-fodmap-tacos": [
+        "Low FODMAP Chicken Tacos"
+    ],
+    "/recipes/maafe": [
+        "Maafe (African Peanut Stew)",
+        "maafe",
+        "african peanut stew",
+        "peanut chicken stew",
+        "peanut stew"
+    ],
+    "/recipes/mac-and-cheese": [
+        "High Protein Mac & Cheese",
+        "high protein mac and cheese",
+        "mac & cheese",
+        "mac and cheese"
+    ],
+    "/recipes/manhattan-clam-chowder": [
+        "(No Longer Allowed In) Manhattan Clam Chowder",
+        "manhattan clam chowder"
+    ],
+    "/recipes/marinated-chicken": [
+        "Marinated Chicken with Air Fried Plantains",
+        "marinated chicken",
+        "grilled chicken with plantains",
+        "grilled chicken"
+    ],
+    "/recipes/meatballs": [
+        "Zoodles and Meatballs"
+    ],
+    "/recipes/mediterranean-pasta-salad": [
+        "Mediterranean Pasta Salad",
+        "pasta salad"
+    ],
+    "/recipes/mediterranean-potato-salad": [
+        "Mediterranean Sweet Potato Salad",
+        "sweet potato salad",
+        "potato salad"
+    ],
+    "/recipes/milkshake": [
+        "Chocolate Nut Milkshake",
+        "milkshake"
+    ],
+    "/recipes/mint-chocolate-chip-date-cookies": [
+        "Mint Chocolate Chip Date Cookies",
+        "mint chocolate chip cookies",
+        "mint chocolate chip cookie",
+        "mint date cookies",
+        "mint date cookie",
+        "mint chocolate date cookies",
+        "mint chocolate date cookie",
+        "mint cookies",
+        "mint cookie",
+        "mint chocolate cookies",
+        "mint chocolate cookie",
+        "mint chocolate chip date cookie"
+    ],
+    "/recipes/miso-hummus": [
+        "East Asian Miso Hummus",
+        "miso hummus"
+    ],
+    "/recipes/mom-oatmeal": [
+        "Hi Mom, Here's Your Oatmeal"
+    ],
+    "/recipes/mushroom-soup": [
+        "No Cream of Mushroom Soup",
+        "mushroom soup"
+    ],
+    "/recipes/nam-sod": [
+        "Nam Sod (Thai Pork Salad)",
+        "nam sod"
+    ],
+    "/recipes/neopolitan-banana-ice-cream": [
+        "Neopolitan Banana Ice Cream",
+        "neopolitan ice cream"
+    ],
+    "/recipes/new-england-clam-chowder": [
+        "(I'm Banned From) New England Clam Chowder",
+        "new england clam chowder"
+    ],
+    "/recipes/nice-cream-sandwiches": [
+        "Nice Cream Sandwiches",
+        "banana ice cream sandwiches",
+        "nice cream sandwich",
+        "banana ice cream sandwich",
+        "ice cream sandwiches",
+        "ice cream sandwich"
+    ],
+    "/recipes/no-bake-brownies": [
+        "No Bake Protein Brownies",
+        "no bake brownies"
+    ],
+    "/recipes/no-nut-protein-banana-bread": [
+        "No Nut Protein Banana Bread",
+        "nut free protein banana bread",
+        "no nut banana bread",
+        "nut free banana bread"
+    ],
+    "/recipes/no-protein-bar": [
+        "The No-Protein Bar",
+        "the no protein bar",
+        "no-protein bar",
+        "no protein bar"
+    ],
+    "/recipes/no-protein-powder-oatmeal": [
+        "Overnight Oats with no Protein Powder",
+        "overnight oats without protein powder"
+    ],
+    "/recipes/no-stir-peanut-butter": [
+        "Homemade Skippy Peanut Butter",
+        "homemade no stir peanut butter"
+    ],
+    "/recipes/no-yogurt-oatmeal": [
+        "Yogurt Free Protein Oats",
+        "yogurt free protein oatmeal"
+    ],
+    "/recipes/nordic-nut-loaf": [
+        "Nordic Nut Loaf (GF)"
+    ],
+    "/recipes/oat-milk": [
+        "Homemade Plant Based Milk",
+        "homemade almond milk",
+        "homemade oat milk",
+        "homemade plant based milk",
+        "homemade dairy free milk",
+        "homemade nut milk",
+        "homemade peanut milk"
+    ],
+    "/recipes/oatmeal-berry-bars": [
+        "Oatmeal Berry Breakfast Bars",
+        "raspberry oatmeal bars",
+        "oatmeal raspberry bars",
+        "blueberry oatmeal bars",
+        "oatmeal blueberry bars",
+        "strawberry oatmeal bars",
+        "oatmeal strawberry bars"
+    ],
+    "/recipes/oatmeal-chocolate-cookies": [
+        "Oatmeal Chocolate Chip Cookies",
+        "oatmeal chocolate chip cookie",
+        "oatmeal cookies",
+        "oatmeal cookie",
+        "oatmeal chocolate cookies",
+        "oatmeal chocolate cookie"
+    ],
+    "/recipes/oatmeal-fudge-bars": [
+        "Peanut Butter Fudge Bars",
+        "oatmeal fudge bars",
+        "peanut butter oatmeal fudge bars",
+        "peanut butter fudge oatmeal bars",
+        "oatmeal peanut butter fudge bars",
+        "oatmeal fudge peanut butter bars",
+        "fudge bars",
+        "peanut butter fudge bar"
+    ],
+    "/recipes/oats-banana": [
+        "Banana Nut Bread Protein Overnight Oats",
+        "banana protein overnight oats",
+        "banana oatmeal"
+    ],
+    "/recipes/oats-berry": [
+        "Berry Delicious Protein Overnight Oats",
+        "berry protein overnight oats",
+        "berry oatmeal"
+    ],
+    "/recipes/oats-pb": [
+        "Peanut Butter Punch Protein Overnight Oats",
+        "peanut butter protein overnight oats",
+        "peanut butter oatmeal"
+    ],
+    "/recipes/oats-pumpkin": [
+        "Pumpkin Pie Protein Overnight Oats",
+        "pumpkin protein overnight oats",
+        "pumpkin oatmeal"
+    ],
+    "/recipes/oats-reeses": [
+        "Reese's Protein Overnight Oats",
+        "peanut butter chocolate overnight oats",
+        "chocolate peanut butter overnight oats",
+        "peanut butter chocolate oatmeal",
+        "chocolate peanut butter oatmeal"
+    ],
+    "/recipes/oil-free-basil-pesto": [
+        "Oil Free Basil Pesto",
+        "basil pesto"
+    ],
+    "/recipes/olivcado": [
+        "Olivcado Salad Dressing",
+        "homemade caesar dressing",
+        "homemade caesar",
+        "olivcado dressing"
+    ],
+    "/recipes/olive-dip": [
+        "Balsamic Olive Spread",
+        "olive spread",
+        "olive dip"
+    ],
+    "/recipes/omega-3-yogurt-bowl": [
+        "Omega-3 Yogurt Bowl",
+        "omega 3 yogurt bowl"
+    ],
+    "/recipes/onion-soup-bread": [
+        "Onion Soup Bread"
+    ],
+    "/recipes/pad-thai": [
+        "Chicken Pad Thai with Spaghetti Squash",
+        "chicken pad thai",
+        "pad thai"
+    ],
+    "/recipes/pan-de-higo": [
+        "Pan de Higo / Larabars",
+        "larabars",
+        "larabar",
+        "pan de higo"
+    ],
+    "/recipes/pancake": [
+        "Pumpkin Protein Pancakes",
+        "pumpkin protein pancake",
+        "pumpkin pancakes",
+        "pumpkin pancake"
+    ],
+    "/recipes/parmesan-broccoli": [
+        "Parmesan Crusted Roasted Broccoli",
+        "parmesan broccoli"
+    ],
+    "/recipes/pb-bread": [
+        "Peanut Butter Bread"
+    ],
+    "/recipes/pb-cups": [
+        "Low Cal PB Cups",
+        "low calorie peanut butter cups",
+        "low calorie pb cups",
+        "low cal peanut butter cups",
+        "Low Cal PB Cup",
+        "low calorie peanut butter cup",
+        "low calorie pb cup",
+        "low cal peanut butter cup"
+    ],
+    "/recipes/pbj-muffin": [
+        "Peanut Butter & Jelly Muffins",
+        "peanut butter and jelly muffins",
+        "peanut butter & jelly muffin",
+        "peanut butter and jelly muffin",
+        "pb&j muffins",
+        "pb&j muffin"
+        "pb & j muffins",
+        "pb & j muffin"
+    ],
+    "/recipes/peanut-butter-banana-bake": [
+        "Peanut Butter Banana Bars",
+        "peanut butter banana bar",
+        "banana oatmeal bars",
+        "banana oatmeal bar",
+        "oatmeal banana bars",
+        "oatmeal banana bar",
+        "peanut butter oatmeal bars",
+        "peanut butter oatmeal bar"
+    ],
+    "/recipes/peanut-butter-bars": [
+        "No Bake Peanut Butter Bars",
+        "peanut butter bars",
+        "no bake peanut butter bar",
+        "peanut butter bars"
+    ],
+    "/recipes/peanut-butter-chili": [
+        "High Protein Peanut Butter Chili",
+        "peanut butter chili"
+    ],
+    "/recipes/peanut-butter-cookies": [
+        "Honey Sweetened Peanut Butter Cookies",
+        "honey peanut butter cookies",
+        "honey sweetened peanut butter cookie",
+        "honey peanut butter cookies",
+        "peanut butter honey cookies",
+        "peanut butter honey cookie",
+        "peanut butter cookies",
+        "Peanut butter cookie"
+    ],
+    "/recipes/peanut-butter-pie": [
+        "Peanut Butter Banana Pie",
+        "peanut butter pie"
+    ],
+    "/recipes/peanut-chicken": [
+        "Peanut Chili Chicken Skillet",
+        "peanut chicken chili skillet"
+    ],
+    "/recipes/peanut-chili-salad-dressing": [
+        "Peanut Chili Salad Dressing",
+        "peanut salad dressing",
+        "peanut dressing"
+    ],
+    "/recipes/pecan-cream-cheese-cookies": [
+        "Pecan Cream Cheese Cookies",
+        "pecan cookies",
+        "pecan cream cheese cookie",
+        "pecan cookie"
+    ],
+    "/recipes/pecan-pie-bars": [
+        "No Bake Pecan Pie Bars",
+        "no bake pecan pie bar",
+        "no bake pecan pie",
+        "pecan pie"
+    ],
+    "/recipes/penne-casserole": [
+        "Penne and Meat Casserole Bake",
+        "penne & meat casserole bake",
+        "penne and meat casserole",
+        "penne & meat casserole",
+        "Penne and beef Casserole Bake",
+        "penne & beef casserole bake",
+        "penne and beef casserole",
+        "penne & beef casserole"
+    ],
+    "/recipes/pesto-goat-cheese-mac-and-cheese": [
+        "Pesto Goat Cheese Mac & Cheese",
+        "pesto goat cheese"
+    ],
+    "/recipes/pickle-ketchup": [
+        "Pickle Ketchup with Hot Honey",
+        "pickle ketchup"
+    ],
+    "/recipes/plantain-chips": [
+        "Air Fryer Plantain Chips"
+    ],
+    "/recipes/poor-mans-ice-cream": [
+        "Poor Man's Ice Cream"
+    ],
+    "/recipes/popcorn": [
+        "Healthy Microwave Popcorn",
+        "homemade popcorn"
+    ],
+    "/recipes/pork-tenderloin": [
+        "Roasted Pork Tenderloin & Veggies"
+    ],
+    "/recipes/protein-candy-bars": [
+        "Caramel Protein Candy Bars",
+        "protein candy bars",
+        "caramel protein candy bar",
+        "protein candy bar"
+    ],
+    "/recipes/protein-chocolate-bar": [
+        "Protein Chocolate Bar"
+    ],
+    "/recipes/protein-cinnamon-rolls": [
+        "Fluffy Protein Cinnamon Rolls",
+        "protein cinnamon rolls",
+        "fluffy protein cinnamon roll",
+        "protein cinnamon roll",
+        "homemade cinnamon rolls",
+        "homemade cinnamon roll"
+    ],
+    "/recipes/protein-cookie-dough": [
+        "Edible Protein Cookie Dough"
+    ],
+    "/recipes/protein-cookie-dough-bowl": [
+        "Protein Cookie Dough Bowl"
+    ],
+    "/recipes/protein-mug-cake": [
+        "Microwave Protein Mug Cake",
+        "protein mug cake",
+        "protien mug brownie",
+        "microwave protein mug brownie"
+    ],
+    "/recipes/protein-poptart": [
+        "PB&J Protein PopTart",
+        "homemade poptarts",
+        "homemade poptart",
+        "homemade pop tarts",
+        "homemade pop tart"
+    ],
+    "/recipes/protein-pudding": [
+        "Chocolate Protein Pudding",
+        "protein pudding"
+    ],
+    "/recipes/protein-slop": [
+        "Protein Slop with Sweet Potatoes",
+        "protein slop"
+    ],
+    "/recipes/protein-wrap": [
+        "High Protein Flatbread Wrap",
+        "protein wrap",
+        "protein flatbread"
+    ],
+    "/recipes/pumpkin-bread": [
+        "Protein Pumpkin Loaf",
+        "protein pumpkin bread",
+        "pumpkin bread",
+        "pumpkin loaf"
+    ],
+    "/recipes/pumpkin-cake": [
+        "Frosted Pumpkin Cake",
+        "pumpkin cake"
+    ],
+    "/recipes/pumpkin-muffins": [
+        "Pumpkin Chocolate Chip Mini Muffins",
+        "pumpkin chocolate chip muffins"
+        "pumpkin chocolate chip mini muffin",
+        "pumpkin chocolate chip muffin",
+        "pumkin chocolate mini muffins",
+        "pumpkin chocolate muffins",
+        "pumpkin chocolate mini muffin",
+        "pumpkin chocolate muffin",
+        "pumpkin mini muffins",
+        "pumpkin mini muffin",
+        "pumpkin muffins",
+        "pumpkin muffin"
+    ],
+    "/recipes/pumpkin-pie": [
+        "Perfect Protein Packed Pumpkin Pie",
+        "protein pumpkin pie",
+        "pumpkin pie"
+    ],
+    "/recipes/puree-veggie-soup": [
+        "Pureed Roasted Veggie Soup",
+        "tomato soup",
+        "butternut squash soup"
+    ],
+    "/recipes/rainbow-cookies": [
+        "Dye Free Rainbow Cookies",
+        "rainbow cookies",
+        "dye free rainbow cookies",
+        "rainbow cookie"
+    ],
+    "/recipes/raspberry-brownies": [
+        "Chocolate Raspberry Brownies",
+        "raspberry brownies",
+        "chocolate raspberry brownie",
+        "raspberry brownie"
+    ],
+    "/recipes/ratatouille": [
+        "Simple Ratatouille Stew",
+        "ratatouille stew",
+        "ratatouille"
+    ],
+    "/recipes/reconstituted-peanut-butter": [
+        "Reconstituted Peanut Butter"
+    ],
+    "/recipes/red-lentils": [
+        "Easy Red Lentils"
+    ],
+    "/recipes/refried-beans": [
+        "Refried Pinto Beans"
+    ],
+    "/recipes/roasted-beet-hummus": [
+        "Creamy Roasted Beet Hummus",
+        "beet hummus"
+    ],
+    "/recipes/roasted-eggplant-hummus": [
+        "Mediterranean Roasted Eggplant Hummus",
+        "eggplant hummus"
+    ],
+    "/recipes/roasted-garlic-hummus": [
+        '"Cheesy" Garlic Hummus',
+        "'Cheesy' Garlic Hummus",
+        "cheesy garlic hummus",
+        "garlic hummus"
+    ],
+    "/recipes/roasted-onion": [
+        "You Can Roast a Whole Onion",
+        "roasted onion"
+    ],
+    "/recipes/roasted-red-pepper-hummus": [
+        "Roasted Red Pepper Hummus"
+        "red pepper hummus",
+        "roasted pepper hummus",
+        "pepper hummus"
+    ],
+    "/recipes/running-club-broccoli": [
+        "Running Club Broccoli"
+    ],
+    "/recipes/salad-base": [
+        "Salad Base For Your Fridge",
+        "salad base"
+    ],
+    "/recipes/salmon-and-crunchy-salad": [
+        "Simply Baked Salmon and Crunchy Salad",
+        "crunchy salad",
+        "simply baked salmon",
+        "grilled salmon"
+    ],
+    "/recipes/salsa-chicken": [
+        "Two Ingredient Salsa Chicken",
+        "2 ingredient salsa chicken",
+        "salsa chicken"
+    ],
+    "/recipes/secret-truffles": [
+        "Secret Truffles"
+    ],
+    "/recipes/seven-layer-bars": [
+        "7-Layer Bars",
+        "hello dollies",
+        "magic cookie bars",
+        "7 layer bars"
+    ],
+    "/recipes/shakshuka": [
+        "Tomato and Egg Shakshuka",
+        "shakshuka"
+    ],
+    "/recipes/shawarma-turkey-kebabs": [
+        "Shawarma Turkey Kebabs",
+        "turkey kebabs",
+        "shwarma turkey kebab",
+        "turkey kebabs",
+        "kebebs",
+        "kebab"
+    ],
+    "/recipes/shepards-pie": [
+        "Cauliflower Mash Shepard's Pie",
+        "shepard's pie",
+        "shepards pie"
+    ],
+    "/recipes/shredded-chicken": [
+        "Simple Shredded Chicken",
+        "shredded chicken"
+    ],
+    "/recipes/sleepy-smoothie": [
+        "Golden Milk, aka Sleepy Smoothie",
+        "sleepy smoothie",
+        "golden milk"
+    ],
+    "/recipes/sloppy-joe": [
+        "Sloppy Joe Skillets",
+        "sloppy joe's",
+        "sloppy joes"
+    ],
+    "/recipes/sourdough-flatbread": [
+        "Sourdough Discard Flatbread",
+        "sourdough flatbread",
+        "discard flatbread"
+    ],
+    "/recipes/soy-sauce-chicken": [
+        "Soy Sauce Chicken and Brussel Sprouts",
+        "soy sauce chicken"
+    ],
+    "/recipes/spaghetti-and-meatballs": [
+        "Spaghetti (Squash) & (Gluten Free) Meatballs",
+        "spaghetti squash & gluten free meatballs",
+        "Spaghetti (Squash) and (Gluten Free) Meatballs",
+        "spaghetti squash and gluten free meatballs",
+        "Spaghetti & Meatballs",
+        "spaghetti and meatballs",
+        "Spaghetti squash & Meatballs",
+        "spaghetti squash and meatballs"
+    ],
+    "/recipes/spaghetti-taco": [
+        "Spaghetti Tacos with Zoodles",
+        "spaghetti tacos",
+        "spaghetti taco"
+    ],
+    "/recipes/spinach-mushroom-scrambled-eggs": [
+        "Spinach & Mushroom Scrambled Eggs"
+    ],
+    "/recipes/steamed-veggies": [
+        "Steamed Vegetables That Don't Suck",
+        "steamed vegetables"
+    ],
+    "/recipes/stovetop-oatmeal": [
+        "Stovetop Apple Oatmeal",
+        "apple oatmeal"
+    ],
+    "/recipes/strawberry-chia-oatmeal": [
+        "Strawberry Chia Protein Oatmeal",
+        "strawberry oatmeal",
+        "strawberry chia overnight oats"
+    ],
+    "/recipes/stuffed-grape-leaves": [
+        "Dolmas (Stuffed Grape Leaves)",
+        "dolmas",
+        "dolma",
+        "stuffed grape leaves",
+        "stuffed grape leaf"
+    ],
+    "/recipes/stuffed-peppers": [
+        "Turkey & Rice Stuffed Bell Peppers",
+        "stuffed bell peppers",
+        "stuffed peppers"
+    ],
+    "/recipes/styrofoam-cookies": [
+        "Nut Butter Styrofoam Cookies",
+        "styrofoam cookies",
+        "nut butter styrofoam cookie",
+        "styrofoam cookie"
+    ],
+    "/recipes/sugar-free-fudge": [
+        "3 Ingredient Sugar Free Fudge",
+        "three ingredient sugar free fudge",
+        "sugar free fudge"
+    ],
+    "/recipes/superfood-bowls": [
+        "Date Night Superfood Bowls",
+        "superfood bowls",
+        "superfood bowl"
+    ],
+    "/recipes/sweet-potato-banana-muffins": [
+        "Sweet Potato Banana Muffins",
+        "sweet potato banana mini muffins",
+        "sweet potato banana mini-muffins",
+        "sweet potato banana muffin",
+        "sweet potato muffins",
+        "sweet potato mini-muffins",
+        "sweet potato mini muffins",
+        "sweet potato muffin",
+        "sweet potato mini muffin",
+        "sweet potato mini-muffins"
+    ],
+    "/recipes/sweet-potato-blondies": [
+        "Sweet Potato Blondies",
+        "sweet potato blondie"
+    ],
+    "/recipes/sweet-potato-bread": [
+        "Whole Wheat Sweet Potato Loaf",
+        "whole wheat sweet potato bread",
+        "sweet potato loaf",
+        "sweet potato bread",
+        "potato loaf",
+        "potato bread"
+    ],
+    "/recipes/sweet-potato-brownies": [
+        "Sweet Potato Brownies (SF)",
+        "sweet potato brownies",
+        "sweet potato brownie"
+    ],
+    "/recipes/sweet-potato-hummus": [
+        "Golden Sweet Potato Hummus",
+        "sweet potato hummus"
+    ],
+    "/recipes/sweet-potato-pie": [
+        "Crustless Sweet Potato Pie",
+        "sweet potato pie"
+    ],
+    "/recipes/sweet-potato-yogurt": [
+        "Sweet Potato Yogurt with Sliced Strawberries",
+        "sweet potato yogurt"
+    ],
+    "/recipes/thin-mints": [
+        "Homemade Thin Mint Cookies",
+        "homemade thin mints",
+        "homemade thin mint"
+    ],
+    "/recipes/three-ingredient-brownies": [
+        "Three Ingredient Brownie Bites",
+        "3 ingredient brownie bites",
+        "brownie bites",
+        "brownie bite"
+    ],
+    "/recipes/three-sisters": [
+        "Three Sisters - Squash, Beans, and Corn",
+        "3 sisters - squash, beans, and corn",
+        "three sisters",
+        "3 sisters"
+    ],
+    "/recipes/tilapia": [
+        "Air Fried Tilapia from Frozen",
+        "air fried tilapia"
+    ],
+    "/recipes/tiramisu": [
+        "No Bake Homemade Tiramisù",
+        "homemade Tiramisù",
+        "No Bake Homemade Tiramisu",
+        "homemade Tiramisu",
+        "Tiramisù",
+        "Tiramisu",
+    ],
+    "/recipes/tofu-scramble": [
+        "Vegan Tofu Scramble",
+        "tofu scramble"
+    ],
+    "/recipes/tomato-pesto": [
+        "Tomato Paste-o",
+        "tomato pesto"
+    ],
+    "/recipes/trail-mix-balls": [
+        "Trail Mix Balls",
+        "trail mix ball"
+    ],
+    "/recipes/tropical-salsa": [
+        "Tropical Fruit Salsa",
+        "fruit salsa"
+    ],
+    "/recipes/truffles": [
+        "Chocolate Covered Truffles",
+        "oreo balls",
+        "chocolate covered truffle",
+        "oreo ball",
+        "cottage cheese truffles",
+        "cottage cheese truffle"
+    ],
+    "/recipes/tuna-salad": [
+        "No-Mayo Tuna Salad",
+        "tuna salad"
+    ],
+    "/recipes/turkey-pesto-pita": [
+        "Tomato Pesto Turkey Pitas"
+    ],
+    "/recipes/two-ingredient-oat-cookies": [
+        "Two Ingredient Oat Cookies",
+        "2 ingredient oat cookies",
+        "two ingredient oat cookie",
+        "2 ingredient oat cookie",
+        "Two Ingredient Oatmeal Cookies",
+        "2 ingredient Oatmeal cookies",
+        "two ingredient Oatmeal cookie",
+        "2 ingredient Oatmeal cookie"
+    ],
+    "/recipes/vegan-chili": [
+        "Creamy Vegan White Bean Chili",
+        "vegan chili"
+    ],
+    "/recipes/vegan-chocolate-cheesecake": [
+        "Vegan Chocolate Cheesecake Bars",
+        "vegan cheesecake bars",
+        "vegan chocolate cheesecake bar",
+        "vegan cheesecake bars",
+        "vegan cheesecake",
+        "chocolate cheesecake bars",
+        "chocolate cheesecake bar",
+        "chocolate cheesecake"
+    ],
+    "/recipes/vegan-cornbread": [
+        "Vegan Cajun Cornbread",
+        "vegan cornbread",
+        "cajun cornbread"
+    ],
+    "/recipes/vegan-mac-and-cheese": [
+        '"Mac" & "Cheese"',
+        "'Mac' & 'Cheese'",
+        '"Mac" and "Cheese"',
+        "'Mac' and 'Cheese'"
+    ],
+    "/recipes/vegan-pasta-salad": [
+        "Sun Dried Tomato Pasta Salad"
+    ],
+    "/recipes/vegetable-medley": [
+        "Spinach & Onion Vegetable Medley"
+    ],
+    "/recipes/vegetarian-meal": [
+        "A Complete Vegetarian Meal"
+    ],
+    "/recipes/vegetarian-soup": [
+        "Vegetarian Dump & Go Soup",
+        "dump & go soup",
+        "Vegetarian Dump and Go Soup",
+        "dump and go soup"
+    ],
+    "/recipes/vic-oats": [
+        "Very Vic",
+        "vic oatmeal",
+        "vic oats"
+    ],
+    "/recipes/vic-yogurt": [
+        "Yogurt - For Those Who Hate It",
+        "yogurt for those who hate it"
+    ],
+    "/recipes/wacky-cake": [
+        "The Wacky Cake",
+        "wacky cake"
+    ],
+    "/recipes/waffle-fries": [
+        "Sweet Potato Waffle Fries",
+        "waffle fries"
+    ],
+    "/recipes/whipped-cream": [
+        "Aquafaba Whipped Cream (Sugar Free and Vegan)",
+        "aquafaba whipped cream",
+        "sugar free whipped cream",
+        "vegan whipped cream",
+        "dairy free whipped cream"
+    ],
+    "/recipes/whipped-feta-spread": [
+        "Whipped Feta Spread",
+        "feta spread"
+    ],
+    "/recipes/white-bean-croutons": [
+        "White Bean Croutons",
+        "gluten free croutons"
+    ],
+    "/recipes/white-bean-milkshake": [
+        "White Bean Milkshake"
+    ],
+    "/recipes/whole-wheat-beer-bread": [
+        "Whole Wheat Beer Bread",
+        "beef bread"
+    ],
+    "/recipes/yellow-rice": [
+        "Anti-Inflammatory Yellow(ish) Rice",
+        "Anti-Inflammatory Yellow Rice",
+        "yellow rice"
+    ],
+    "/recipes/yogurt-apple": [
+        "Apple Pie Yogurt Bowl",
+        "apple yogurt bowl"
+    ],
+    "/recipes/yogurt-banana": [
+        "Peanut Butter Banana Yogurt Bowl",
+        "peanut butter yogurt bowl"
+    ],
+    "/recipes/yogurt-bark": [
+        "Blueberry Yogurt Bark",
+        "yogurt bark"
+    ],
+    "/recipes/yogurt-choc": [
+        "Chocolate Almond Yogurt Bowl",
+        "chocolate yogurt bowl"
+    ],
+    "/recipes/yogurt-pbj": [
+        "Peanut Butter and Jelly Yogurt Bowl",
+        "peanut butter & jelly yogurt bowl"
+    ],
+    "/recipes/zero-calorie-cookies": [
+        "Zero Calorie Cookies",
+        "0 calorie cookies"
+    ],
+    "/recipes/zucchini-wedges": [
+        "Parmesan Crusted Zucchini Wedges",
+        "zucchini wedges",
+        "zucchini fries"
+    ],
+    "/recipes/chocolate-free-chocolate": [
+        "Chocolate Free Chocolate",
+        "carob chocolate bar"
+    ],
+    "/recipes/nutella": [
+        "roasted hazelnut nutella (sf)",
+        "roasted hazlnut nutella",
+        "homemade nutella"
+    ],
+    "/recipes/quick-nutella": [
+        "single serving quick nutella",
+        "quick nutella"
+    ],
+    "/recipes/pecan-butter-bars": [
+        "carob pecan butter bars",
+        "carob pecan butter bar",
+        "pecan butter bars",
+        "pecan butter bar"
+    ],
     "/recipes/cornbread": [
         "homemade cornbread",
         "healthier cornbread",
@@ -275,7 +1792,7 @@ LINKS = {
         "homemade broth",
         "bone broth",
         "homemade chicken broth",
-        "chicken bone broth",
+        "chicken bone broth"
     ],
     "/recipes/shredded=chicken": [
         "shredded chicken",
@@ -479,7 +1996,7 @@ LINKS = {
         "homemade barbeque sauce",
         "unsweetened barbeque sauce",
         "sugar-free barbeque sauce",
-        "sugar free barbeque sauce",
+        "sugar free barbeque sauce"
     ],
     "/recipes/ketchup": [
         "sugar free ketchup",
@@ -925,12 +2442,6 @@ LINKS = {
         "spaghetti squash cooked three ways",
         "cooked spaghetti squash"
     ],
-    "/recipes/bannaa-bread-hummus": [
-        "banana bread hummus spread",
-        "banana bread hummus",
-        "homemade dessert hummus",
-        "dessert hummus",
-    ],
     "/recipes/cloud-bread-loaf": [
         "cloud bread loaf",
         "cloud bread"
@@ -957,7 +2468,7 @@ LINKS = {
     "/recipes/no-honey-mustard": [
         "no-honey mustard dressing",
         "no honey mustard dressing",
-        "honey mustard dressing",
+        "honey mustard dressing"
     ],
     "/recipes/buffalo-chicken-dip": [
         "high protein buffalo chicken dip",
@@ -1537,7 +3048,7 @@ LINKS = {
         "fish and seafood",
         "fish",
         "seafood",
-        "shellfish",
+        "shellfish"
     ],
      "/misc/fish#anchovy": [
         "canned anchovies",
@@ -3500,7 +5011,7 @@ LINKS = {
     "/nut-butter": [
         # "nut butter",
         "nut butter recipes here",
-        "nut butter recipes",
+        "nut butter recipes"
     ],
     "/pesto": [
         "pesto recipes here",
@@ -5642,7 +7153,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-04-01")):
+            if not file.startswith(("2026-03-03")):
                 continue
 
             # exclude some files
