@@ -54,7 +54,7 @@ tags:
 - pasta
 - penne
 - tomato paste
-Description: My Bolognese recipe is a sauce that can honestly work as a meal on it own. It goes great over some <a href='/misc/grains#pasta'>pasta</a>, <a href='/misc/veggies#zucchini'>zucchini noodles</a>, or <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>.  Try it out with <a href='/recipes/meatballs'>Zoodles and Meatballs</a> or <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a>. It also serves as a great <a href='/soup-stew'>stew</a> between the <a href='/misc/meat'>meat</a> and all the <a href='/misc/veggies'>vegetables</a>.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
+Description: My Bolognese recipe is a sauce that can honestly work as a meal on it own. It goes great over some <a href='/misc/grains#pasta'>pasta</a>, <a href='/misc/veggies#zucchini'>zucchini noodles</a>, or <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>.  Try it out with <a href='/recipes/meatballs'>Zoodles and Meatballs</a> or <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a>. It also serves as a great <a href='/soups-and-stews'>stew</a> between the <a href='/misc/meat'>meat</a> and all the <a href='/misc/veggies'>vegetables</a>.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions:
 - Add <a href='/misc/veggies'>vegetables</a> (<a href='/misc/veggies#onion'>onion</a>, <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#carrots'>carrots</a>, and <a href='/misc/veggies#pepper'>peppers</a>) to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and pulse until fine
 

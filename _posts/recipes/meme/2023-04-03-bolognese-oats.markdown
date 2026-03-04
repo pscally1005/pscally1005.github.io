@@ -52,7 +52,7 @@ tags:
 - tomato sauce
 - tomato
 - savory oats
-Description: I have this saved under <a href='/recipes/meme'>meme recipes</a> because of the <a href='/misc/grains#oats'>oats</a>, but it's actually really good. The "Bolognese" is more of a <a href='/misc/meat'>meat</a> and <a href='/misc/veggies#carrots'>carrot</a> <a href='/soup-stew'>stew</a>, and it's served alongside a "risOATto" with <a href='/misc/grains#oats'>quick oats</a>, seasoned with <a href='/misc/dairy#grated-cheese'>parmesan cheese</a>. My brother generated this recipe as a joke with ChatGPT, and I wanted to test it out and turn it into an actual dish.  You can also check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
+Description: I have this saved under <a href='/recipes/meme'>meme recipes</a> because of the <a href='/misc/grains#oats'>oats</a>, but it's actually really good. The "Bolognese" is more of a <a href='/misc/meat'>meat</a> and <a href='/misc/veggies#carrots'>carrot</a> <a href='/soups-and-stews'>stew</a>, and it's served alongside a "risOATto" with <a href='/misc/grains#oats'>quick oats</a>, seasoned with <a href='/misc/dairy#grated-cheese'>parmesan cheese</a>. My brother generated this recipe as a joke with ChatGPT, and I wanted to test it out and turn it into an actual dish.  You can also check out any of my other <a href='/oatmeal'>oatmeal recipes</a>!
 Instructions:
 - Cut the <a href='/misc/veggies#carrots'>carrots</a> and <a href='/misc/veggies#onion'>onion</a> into a large dice and add to a <a href='https://amzn.to/3LNGdVy'>dutch oven</a> with olive oil. Just cover with water and bring to a boil. Boil until all liquid has been cooked off. Set <a href='/misc/veggies'>vegetables</a> aside
 

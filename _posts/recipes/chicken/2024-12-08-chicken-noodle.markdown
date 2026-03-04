@@ -64,7 +64,7 @@ Instructions:
 
 - Cover and cook on low for about 6 hours, or until the <a href='/misc/meat#chicken-breast'>chicken</a> is at least <a href='https://amzn.to/4kmobG2'>180F</a>, and the <a href='/misc/veggies'>vegetables</a> are tender
 
-- With about 30 minutes left on the <a href='/soup-stew'>stew</a>, cook your <a href='/misc/grains#pasta'>pasta</a> on the stove according to instructions.  Mix the cooked <a href='/misc/grains#pasta'>pasta</a> into the finished <a href='/soup-stew'>stew</a>, along with <a href='/misc/fruit#lemon-juice'>lemon juice</a>.  Serve
+- With about 30 minutes left on the <a href='/soups-and-stews'>stew</a>, cook your <a href='/misc/grains#pasta'>pasta</a> on the stove according to instructions.  Mix the cooked <a href='/misc/grains#pasta'>pasta</a> into the finished <a href='/soups-and-stews'>stew</a>, along with <a href='/misc/fruit#lemon-juice'>lemon juice</a>.  Serve
 Notes:
-- <a href='/misc/grains#whole-wheat'>Whole wheat</a>, egg noodles, <a href='/misc/celiac'>gluten free</a> <a href='/misc/grains#pasta'>pasta</a>, <a href='/misc/beans#chickpeas'>chickpea pasta</a>, or <a href='/misc/beans#red-lentils'>red lentil pasta</a> are all good choices.  Putting the <a href='/misc/grains#pasta'>pasta</a> in raw at the start will cause it to disintegrate and fully mix into the <a href='/soup-stew'>stew</a> (I've made that mistake before lol), which is why it has to be added at the end
+- <a href='/misc/grains#whole-wheat'>Whole wheat</a>, egg noodles, <a href='/misc/celiac'>gluten free</a> <a href='/misc/grains#pasta'>pasta</a>, <a href='/misc/beans#chickpeas'>chickpea pasta</a>, or <a href='/misc/beans#red-lentils'>red lentil pasta</a> are all good choices.  Putting the <a href='/misc/grains#pasta'>pasta</a> in raw at the start will cause it to disintegrate and fully mix into the <a href='/soups-and-stews'>stew</a> (I've made that mistake before lol), which is why it has to be added at the end
 ---

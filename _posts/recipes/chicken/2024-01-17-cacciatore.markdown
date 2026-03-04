@@ -50,7 +50,7 @@ tags:
 - winter
 - hunter
 - bowl
-Description: Chicken Cacciatore, or Hunter's Chicken, is an Italian Chicken dish that often served as a <a href='/misc/veggies#tomato'>tomato</a> <a href='/soup-stew'>stew</a> with <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies'>vegetables</a>. It's one of my favorites, and I've decided to add <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> into it, as opposed to serving with <a href='/misc/grains#pasta'>pasta</a>. This is a very hearty meal that's great for a winter dinner.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
+Description: Chicken Cacciatore, or Hunter's Chicken, is an Italian Chicken dish that often served as a <a href='/misc/veggies#tomato'>tomato</a> <a href='/soups-and-stews'>stew</a> with <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies'>vegetables</a>. It's one of my favorites, and I've decided to add <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> into it, as opposed to serving with <a href='/misc/grains#pasta'>pasta</a>. This is a very hearty meal that's great for a winter dinner.  You can also check out any of my other <a href='/soups-and-stews'>soups and stews</a>!
 Instructions:
 - Prepare your <a href='/misc/veggies'>vegetables</a> and <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> (keep the skins on). Dice your <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/veggies#pepper'>peppers</a>, and <a href='/misc/veggies#mushrooms'>mushrooms</a>. Wash the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut them into pieces, about the same size as the <a href='/misc/veggies#pepper'>peppers</a>
 

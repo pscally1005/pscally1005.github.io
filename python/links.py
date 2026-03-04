@@ -5018,7 +5018,7 @@ LINKS = {
         "pesto recipes",
         "pesto"
     ],
-    "/soup-stew": [
+    "/soups-and-stew": [
         "soup and stew recipes here",
         "soup recipes here",
         "stew recipes here",
@@ -5185,6 +5185,58 @@ LINKS = {
       "sweet spreads",
       "sweet spread",
       "spreads"
+    ],
+
+    # OVERSHADOWED
+    # "/misc/overshadowed-healthy-foods#chocolate": [
+    #     "real dark chocolate",
+    #     "true dark chocolate",
+    #     "dark chocolate (at least 85%)",
+    #     "dark chocolate (100%)",
+    #     "dark chocolate",
+    #     "100% chocolate",
+    #     "100% bar",
+    #     "95% chocolate",
+    #     "95% bar",
+    #     "85-90% chocolate",
+    #     "90% chocolate",
+    #     "90% bar",
+    #     "85% chocolate",
+    #     "85% bar",
+    #     "72% chocolate",
+    #     "72% bar",
+    #     "super dark chocolate",
+    #     "unsweetened chocolate",
+    #     "cocoa powder",
+    #     "cocoa",
+    #     "cacao powder",
+    #     "cacao"
+    # ],
+
+    # COCOA
+    "/misc/chocolate-benefits": [
+        "real dark chocolate",
+        "true dark chocolate",
+        "dark chocolate (at least 85%)",
+        "dark chocolate (100%)",
+        "dark chocolate",
+        "100% chocolate",
+        "100% bar",
+        "95% chocolate",
+        "95% bar",
+        "85-90% chocolate",
+        "90% chocolate",
+        "90% bar",
+        "85% chocolate",
+        "85% bar",
+        "72% chocolate",
+        "72% bar",
+        "super dark chocolate",
+        "unsweetened chocolate",
+        "cocoa powder",
+        "cocoa",
+        "cacao powder",
+        "cacao"
     ],
 
     # FAKE HEALTHY FOODS
@@ -5593,32 +5645,6 @@ LINKS = {
         "ultra-processed fake meat",
         "processed fake meat",
         "fake meat"
-    ],
-
-    # OVERSHADOWED
-    "/misc/overshadowed-healthy-foods#chocolate": [
-        "real dark chocolate",
-        "true dark chocolate",
-        "dark chocolate (at least 85%)",
-        "dark chocolate (100%)",
-        "dark chocolate",
-        "100% chocolate",
-        "100% bar",
-        "95% chocolate",
-        "95% bar",
-        "85-90% chocolate",
-        "90% chocolate",
-        "90% bar",
-        "85% chocolate",
-        "85% bar",
-        "72% chocolate",
-        "72% bar",
-        "super dark chocolate",
-        "unsweetened chocolate",
-        "cocoa powder",
-        "cocoa",
-        "cacao powder",
-        "cacao"
     ]
 
 }
@@ -6854,7 +6880,7 @@ REMOVE_CATEGORIES = [
     "/yogurt",
     "/nut-butter",
     "/pesto",
-    "/soup-stew",
+    "/soups-and-stews",
     "/chili",
     "/salad",
     "/dressing",

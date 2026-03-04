@@ -52,7 +52,7 @@ tags:
 - corn
 - tortilla
 - broth
-Description: This dump and go <a href='/soup-stew'>soup</a> is the perfect <a href='/recipes/sides'>side</a> or <a href='/recipes/meatless'>vegetarian meal</a> this winter season. The only preparation needed is to chop some <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, and drain some <a href='/misc/beans#chickpeas'>chickpeas</a>. Just dump everything in your <a href='https://amzn.to/49TUS9E'>slow cooker</a>, and check back 8 hours later. Between the <a href='/misc/beans#chickpeas'>chickpeas</a> and <a href='/misc/beans#brown-lentils'>lentils</a>, this dish is a good source of both <a href='/misc/fiber'>fiber</a> and plant based <a href='/misc/protein'>protein</a>
+Description: This dump and go <a href='/soups-and-stews'>soup</a> is the perfect <a href='/recipes/sides'>side</a> or <a href='/recipes/meatless'>vegetarian meal</a> this winter season. The only preparation needed is to chop some <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, and drain some <a href='/misc/beans#chickpeas'>chickpeas</a>. Just dump everything in your <a href='https://amzn.to/49TUS9E'>slow cooker</a>, and check back 8 hours later. Between the <a href='/misc/beans#chickpeas'>chickpeas</a> and <a href='/misc/beans#brown-lentils'>lentils</a>, this dish is a good source of both <a href='/misc/fiber'>fiber</a> and plant based <a href='/misc/protein'>protein</a>
 Instructions:
 - Cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a medium dice, and add to your <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 
