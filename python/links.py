@@ -4,8 +4,8 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
-# POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts\draft"
+# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
+POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts"
 
 LINKS = {
 
@@ -4517,6 +4517,10 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4rhYDwh": [
+        "carob powder",
+        "carob"
+    ],
     "https://amzn.to/46PSfov": [
         "instant pot",
         "pressure cooker"
@@ -7179,7 +7183,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-03-03")):
+            if not file.startswith(("2026-03-10")):
                 continue
 
             # exclude some files
