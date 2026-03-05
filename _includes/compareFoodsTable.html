@@ -10,6 +10,16 @@
   {% assign servingSize = include.servingSize %}
 {% endif %}
 
+{% assign showPercentage = "True" %}
+{% if
+    page.showPercentage == false
+%}
+    {% assign showPercentage = "False" %}
+{% endif %}
+{% if include.showPercentage %}
+    {% assign showPercentage = include.showPercentage %}
+{% endif %}
+
 {% if page.title == "Overshadowed Healthy Foods" %}
     <br><br>
 {% endif %}
@@ -124,6 +134,7 @@
                                     fetch="perServing"
                                     rnd=rnd
                                     folder=include.folder
+                                    showPercentage=showPercentage
                                 %}
                         </td>
                     {% endfor %}

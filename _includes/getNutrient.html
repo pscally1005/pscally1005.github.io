@@ -25,6 +25,9 @@
 %}
     {% assign showPercentage = "False" %}
 {% endif %}
+{% if include.showPercentage %}
+    {% assign showPercentage = include.showPercentage %}
+{% endif %}
 
 <!-- Only run if there's a nutrtion facts file -->
 {% if facts %}
@@ -702,7 +705,7 @@
 
       <!-- Apply factor -->
       {% assign value = value | times: factor | round: rnd %}
-      {% if showPercentage == "True" %}
+      {% if showPercentage == "True"  or showPercentage == "true" %}
           {% assign percentage = percentage | times: factor | round: 0 %}
       {% else %}
           {% assign percentage = 0 %}
@@ -711,17 +714,19 @@
       <!-- Combine for the output -->
       {% assign output = value | append: ' ' | append: unit | append: '<br>(' | append: percentage | append: ' %)' %}
 
-      {% if showPercentage == "False" or percentage == "" or percentage == -1 %}
+      {% if showPercentage == "False" or showPercentage == "false" or percentage == "" or percentage == -1 %}
           {% assign output = value | append: ' ' | append: unit %}
       {% endif %}
-      {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" or page.title == "The Surprising Benefits of Chocolate" %}
-          {% assign output = value | append: ' ' | append: unit | append: ' (' | append: percentage | append: ' %)' %}
+      {% if showPercentage == "True" or showPercentage == "true" %}
+          {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" or page.title == "The Surprising Benefits of Chocolate" %}
+              {% assign output = value | append: ' ' | append: unit | append: ' (' | append: percentage | append: ' %)' %}
 
-          {% assign nutrients_without_percentage = "Calories,Net Carbs,Sugar" | split: "," %}
-          {% if nutrients_without_percentage contains nutrient" %}
-              {% assign output = value | append: ' ' | append: unit %}
+              {% assign nutrients_without_percentage = "Calories,Net Carbs,Sugar" | split: "," %}
+              {% if nutrients_without_percentage contains nutrient" %}
+                  {% assign output = value | append: ' ' | append: unit %}
+              {% endif %}
+
           {% endif %}
-
       {% endif %}
 
       <!-- Output fix for not present nutrient -->

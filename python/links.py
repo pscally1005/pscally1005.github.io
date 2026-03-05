@@ -4,8 +4,8 @@ from html import escape, unescape
 from bs4 import BeautifulSoup, NavigableString
 import time
 
-# POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
-POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts"
+POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
+# POSTS_DIR = r"C:\Users\mets1\Documents\GitHub\pscally1005.github.io\_posts"
 
 LINKS = {
 
@@ -69,7 +69,8 @@ LINKS = {
     ],
     "/recipes/aquafaba-ice-cream": [
         "Aquafaba Chocolate Ice Cream",
-        "aquafaba ice cream"
+        "aquafaba ice cream",
+        "ice cream"
     ],
     "/recipes/avocado-pesto": [
         "Avocado Pesto - Vegan and Oil Free",
@@ -88,7 +89,8 @@ LINKS = {
         "Spiced Baked Chicken Thighs"
     ],
     "/recipes/baked-protein-bars": [
-        "Baked Protein Bars"
+        "Baked Protein Bars",
+        "protein bars"
     ],
     "/recipes/baked-rice-and-beans": [
         "Baked Rice and Beans with Vegetables",
@@ -368,7 +370,8 @@ LINKS = {
         "Chocolate Peanut Butter Mousse",
         "chocolate mousse",
         "chickpea mousse",
-        "peanut butter mousse"
+        "peanut butter mousse",
+        "mousse"
     ],
     "/recipes/chocolate-truffle": [
         "Chocolate Yogurt Kerfuffles",
@@ -734,20 +737,6 @@ LINKS = {
         "Chocolate Nut Milkshake",
         "milkshake"
     ],
-    "/recipes/mint-chocolate-chip-date-cookies": [
-        "Mint Chocolate Chip Date Cookies",
-        "mint chocolate chip cookies",
-        "mint chocolate chip cookie",
-        "mint date cookies",
-        "mint date cookie",
-        "mint chocolate date cookies",
-        "mint chocolate date cookie",
-        "mint cookies",
-        "mint cookie",
-        "mint chocolate cookies",
-        "mint chocolate cookie",
-        "mint chocolate chip date cookie"
-    ],
     "/recipes/miso-hummus": [
         "East Asian Miso Hummus",
         "miso hummus"
@@ -1052,7 +1041,8 @@ LINKS = {
         "Microwave Protein Mug Cake",
         "protein mug cake",
         "protien mug brownie",
-        "microwave protein mug brownie"
+        "microwave protein mug brownie",
+        "mug cakes"
     ],
     "/recipes/protein-poptart": [
         "PB&J Protein PopTart",
@@ -1063,7 +1053,8 @@ LINKS = {
     ],
     "/recipes/protein-pudding": [
         "Chocolate Protein Pudding",
-        "protein pudding"
+        "protein pudding",
+        "pudding"
     ],
     "/recipes/protein-slop": [
         "Protein Slop with Sweet Potatoes",
@@ -1277,7 +1268,8 @@ LINKS = {
     "/recipes/sugar-free-fudge": [
         "3 Ingredient Sugar Free Fudge",
         "three ingredient sugar free fudge",
-        "sugar free fudge"
+        "sugar free fudge",
+        "fudge"
     ],
     "/recipes/superfood-bowls": [
         "Date Night Superfood Bowls",
@@ -1407,7 +1399,8 @@ LINKS = {
         "vegan cheesecake",
         "chocolate cheesecake bars",
         "chocolate cheesecake bar",
-        "chocolate cheesecake"
+        "chocolate cheesecake",
+        "cheesecake"
     ],
     "/recipes/vegan-cornbread": [
         "Vegan Cajun Cornbread",
@@ -2263,7 +2256,9 @@ LINKS = {
     ],
     "/recipes/double-chocolate-date-cookies": [
         "double chocolate date cookies",
-        "double chocolate date cookie"
+        "double chocolate date cookie",
+        "chocolate cookies",
+        "chocolate cookie"
     ],
     "/recipes/peanut-butter-date-cookies": [
         "peanut butter date cookies",
@@ -2271,13 +2266,19 @@ LINKS = {
         "pb date cookies",
         "pb date cookie"
     ],
-    "/recipes/min-chocolate-chip-date-cookies": [
-        "mint chocolate chip date cookies",
-        "mint chocolate chip date cookie",
+    "/recipes/mint-chocolate-chip-date-cookies": [
+        "Mint Chocolate Chip Date Cookies",
+        "mint chocolate chip cookies",
+        "mint chocolate chip cookie",
+        "mint date cookies",
+        "mint date cookie",
+        "mint chocolate date cookies",
+        "mint chocolate date cookie",
+        "mint cookies",
+        "mint cookie",
         "mint chocolate cookies",
         "mint chocolate cookie",
-        "mint cookies",
-        "mint cookie"
+        "mint chocolate chip date cookie"
     ],
     "/recipes/oatmeal-raisin-cookies": [
         "naturally sweetened oatmeal raisin cookies",
@@ -6382,7 +6383,7 @@ EXCLUDED_PHRASES = [
     # "smoothie bowl",
     # "protein shakes",
     # "protein shake",
-    "protein bars",
+    # "protein bars",
     # "protein bar",
     "flavored rice dishes",
     "traditional desserts",
@@ -7183,7 +7184,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-03-10")):
+            if not file.startswith(("2026-03-03")):
                 continue
 
             # exclude some files
