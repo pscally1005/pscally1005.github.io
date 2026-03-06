@@ -21,13 +21,23 @@ def main(path = ""):
 
         # only use files that haven't been parsed yet
         if(fname[-10:] != "-facts.csv" and fname[-8:] != "-ing.csv"):
+
+            # read in the file
             with open(fname, 'r') as fin:
                 data = fin.read().splitlines(True)
+
+            # determine how many lines to trim from the end
+            phrase = "** ingredients that do not specify nutrient"
+
+            if any(phrase in line.lower() for line in data):
+                end_trim = -7
+            else:
+                end_trim = -5
 
             # remove first and last few rows from file
             temp = fname[:-4] + "-temp.csv"
             with open(temp, 'w') as fout:
-                fout.writelines(data[6:-7])
+                fout.writelines(data[6:end_trim])
 
             # get row of blank (separation between 2 tables)
             blank = -1
@@ -44,7 +54,7 @@ def main(path = ""):
                     i += 1
 
             # print(blank)
-            
+
             #  now, read from temp file
             with open(temp, 'r') as fin:
                 data = fin.read().splitlines(True)
@@ -64,7 +74,7 @@ def main(path = ""):
             os.remove(temp)
 
             print(fname)
-                
+
             # os.remove(temp)
             # os.remove(ing)
             # os.remove(facts)
