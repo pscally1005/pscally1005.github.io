@@ -78,7 +78,7 @@ Calories,59,,
 "Tyrosine",0.081,g,
 "Valine",0.138,g,7 %
 "Phenylalanine + Tyrosine",0.225,g,8 %
-"Methionine + Cysteine",0.092,g,6 %
+"Methionine + Cysteine",0.128,g,8 %
 "Carbohydrate",15.53,g,6 %
 "Fiber",1.88,g,7 %
 "Starch",6.93,g,
@@ -146,5 +146,5 @@ Calories,59,,
 "PUFA 18:2 c",0.11,g,
 "PUFA 18:3 c",0,g,
 "PUFA 20:3 c",0,g,
-"Theobromine",0,mg,
+"Theobromine",25.71,mg,
 "Water",24.25,g,

@@ -1,9 +1,10 @@
 Nutrient,Amount,Unit,DV
 Calories,22,,
-"Vitamin A, RAE",1.56,mcg,0 %
+"Vitamin A, RAE",1.55,mcg,0 %
 "Carotene, alpha",0,mcg,
-"Carotene, beta",0.07,mcg,
-"Cryptoxanthin, beta",0.16,mcg,
+"Carotene, beta",0,mcg,
+"Cryptoxanthin, alpha",0.11,mcg,
+"Cryptoxanthin, beta",0.11,mcg,
 "Lutein + zeaxanthin",3.36,mcg,
 "Lutein",1.93,mcg,
 "Lycopene",0,mcg,
@@ -24,7 +25,7 @@ Calories,22,,
 "Folate, DFE [Vitamin B9]",2.51,mcg,1 %
 "Folate, food",1.98,mcg,
 "Folic acid",0,mcg,
-"Vitamin C [Ascorbic acid]",0,mg,0 %
+"Vitamin C [Ascorbic acid]",0.2,mg,0 %
 "Vitamin D",0.02,mcg,0 %
 "Vitamin D2",0,mcg,
 "Vitamin D3",0.02,mcg,
@@ -51,8 +52,8 @@ Calories,22,,
 "Iron",0.23,mg,1 %
 "Magnesium",10.72,mg,3 %
 "Manganese",0.144,mg,6 %
-"Phosphorus",23.97,mg,2 %
-"Potassium",35.35,mg,1 %
+"Phosphorus",23.99,mg,2 %
+"Potassium",35.52,mg,1 %
 "Selenium",1.15,mcg,2 %
 "Sodium",37.4,mg,2 %
 "Zinc",0.18,mg,2 %
@@ -78,7 +79,7 @@ Calories,22,,
 "Tyrosine",0.029,g,
 "Valine",0.036,g,2 %
 "Phenylalanine + Tyrosine",0.064,g,2 %
-"Methionine + Cysteine",0.013,g,1 %
+"Methionine + Cysteine",0.019,g,1 %
 "Carbohydrate",3.01,g,1 %
 "Fiber",0.59,g,2 %
 "Starch",0,g,
@@ -130,9 +131,6 @@ Calories,22,,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0.002,g,
 "Uncosapentaenoic acid",0,g,
-"18:2 c",0.01,g,
-"18:3 c",0,g,
-"20:3 c",0,g,
 "Fatty acids, total trans",0,g,
 "Cholesterol",3.58,mg,1 %
 "Phytosterols",0,mg,
@@ -140,13 +138,14 @@ Calories,22,,
 "Alcohol, ethyl",0,g,
 "Ash",0.17,g,
 "Caffeine",1.66,mg,
-"Carbohydrate, by summation",0,g,
 "Choline, free",0.01,mg,
 "Choline, from glycerophosphocholine",0,mg,
 "Choline, from phosphocholine",2.59,mg,
 "Choline, from phosphotidyl choline",0,mg,
 "Choline, from sphingomyelin",0.21,mg,
-"Cryptoxanthin, alpha",0.11,mcg,
 "Nitrogen",0.02,g,
+"PUFA 18:2 c",0.01,g,
+"PUFA 18:3 c",0,g,
+"PUFA 20:3 c",0,g,
 "Theobromine",14.81,mg,
-"Water",3.18,g,
+"Water",3.17,g,

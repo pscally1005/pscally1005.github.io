@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,44,,
+Calories,43,,
 "Vitamin A, RAE",1.87,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0.09,mcg,
@@ -68,13 +68,13 @@ Calories,44,,
 "Tyrosine",0.113,g,
 "Valine",0.196,g,10 %
 "Phenylalanine + Tyrosine",0.256,g,10 %
-"Methionine + Cysteine",0.128,g,8 %
+"Methionine + Cysteine",0.195,g,13 %
 "Carbohydrate",9.47,g,3 %
 "Fiber",1.25,g,4 %
 "Sugars",1.85,g,
 "Net carbs",8.22,g,
-"Fat",0.763,g,1 %
-"Saturated fatty acids",0.278,g,1 %
+"Fat",0.692,g,1 %
+"Saturated fatty acids",0.243,g,1 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Dodecanoic acid",0,g,
@@ -83,12 +83,12 @@ Calories,44,,
 "Octadecanoic acid",0,g,
 "Octanoic acid",0,g,
 "Tetradecanoic acid",0,g,
-"Monounsaturated fatty acids",0.157,g,
+"Monounsaturated fatty acids",0.171,g,
 "Docosenoic acid",0,g,
 "Eicosenoic acid",0,g,
 "Hexadecenoic acid",0,g,
 "Octadecenoic acid",0,g,
-"Polyunsaturated fatty acids",0.122,g,
+"Polyunsaturated fatty acids",0.149,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
@@ -97,9 +97,9 @@ Calories,44,,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0,g,
 "Fatty acids, total trans",0,g,
-"Cholesterol",5.56,mg,2 %
+"Cholesterol",6.27,mg,2 %
 "Alcohol, ethyl",0.1,g,
 "Ash",0,g,
 "Caffeine",2.88,mg,
-"Theobromine",0,mg,
-"Water",32.28,g,
+"Theobromine",25.71,mg,
+"Water",32.64,g,

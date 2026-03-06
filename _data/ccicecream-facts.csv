@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,260,,
+Calories,255,,
 "Vitamin A, RAE",2.26,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0,mcg,
@@ -47,7 +47,7 @@ Calories,260,,
 "Selenium",17.59,mcg,32 %
 "Sodium",520.33,mg,23 %
 "Zinc",2.6,mg,24 %
-"Protein",28.97,g,58 %
+"Protein",28.96,g,58 %
 "Alanine",1.021,g,
 "Arginine",0.981,g,
 "Aspartic acid",2.41,g,
@@ -69,7 +69,7 @@ Calories,260,,
 "Tyrosine",1.054,g,
 "Valine",1.566,g,80 %
 "Phenylalanine + Tyrosine",2.147,g,80 %
-"Methionine + Cysteine",0.803,g,52 %
+"Methionine + Cysteine",1.152,g,74 %
 "Carbohydrate",17.54,g,6 %
 "Fiber",5.15,g,18 %
 "Sugars",3.57,g,
@@ -79,8 +79,8 @@ Calories,260,,
 "Maltose",0,g,
 "Sucrose",0,g,
 "Net carbs",12.39,g,
-"Fat",11.045,g,14 %
-"Saturated fatty acids",2.935,g,15 %
+"Fat",10.589,g,14 %
+"Saturated fatty acids",2.71,g,14 %
 "Butanoic acid",0.008,g,
 "Decanoic acid",0.01,g,
 "Docosanoic acid",0,g,
@@ -94,14 +94,14 @@ Calories,260,,
 "Pentadecanoic acid",0,g,
 "Tetracosanoic acid",0,g,
 "Tetradecanoic acid",0.028,g,
-"Monounsaturated fatty acids",4.747,g,
+"Monounsaturated fatty acids",4.839,g,
 "Docosenoic acid",0.009,g,
 "Eicosenoic acid",0.1,g,
 "Heptadecenoic acid",0,g,
 "Hexadecenoic acid",0.019,g,
 "Octadecenoic acid",4.615,g,
 "Tetracosenoic cis acid",0,g,
-"Polyunsaturated fatty acids",1.612,g,
+"Polyunsaturated fatty acids",1.786,g,
 "Cis,cis-eicosadienoic n-6 acid",0,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
@@ -114,9 +114,9 @@ Calories,260,,
 "Octadecatrienoic acid",0.004,g,
 "Uncosapentaenoic acid",0,g,
 "Fatty acids, total trans",0,g,
-"Cholesterol",42,mg,14 %
+"Cholesterol",46.55,mg,16 %
 "Alcohol, ethyl",0.2,g,
 "Ash",2.53,g,
 "Caffeine",23.6,mg,
 "Theobromine",211.05,mg,
-"Water",93.51,g,
+"Water",95.78,g,

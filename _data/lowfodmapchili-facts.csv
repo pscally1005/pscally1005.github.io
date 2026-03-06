@@ -69,7 +69,7 @@ Calories,400,,
 "Tyrosine",0.788,g,
 "Valine",1.128,g,58 %
 "Phenylalanine + Tyrosine",1.781,g,66 %
-"Methionine + Cysteine",0.644,g,42 %
+"Methionine + Cysteine",0.966,g,62 %
 "Carbohydrate",51.78,g,19 %
 "Fiber",11.69,g,42 %
 "Starch",17.68,g,
@@ -140,5 +140,5 @@ Calories,400,,
 "Ash",5.07,g,
 "Caffeine",1.92,mg,
 "Nitrogen",0.1,g,
-"Theobromine",0,mg,
+"Theobromine",17.14,mg,
 "Water",463.13,g,
