@@ -5655,6 +5655,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "vegetable steam",
     "wrap each",
     "maple syrup",
     "potato bread",

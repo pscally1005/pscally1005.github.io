@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Almond Flour Empanada & Pierogi Dough'
-date:   2026-02-03 00:00:00 -0500
+date:   2026-03-03 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
@@ -81,9 +81,7 @@ Instructions:
 - <img src='/assets/Food/Finger Food/Empanada/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 ---
-<hr>
-
-<div id="empanada" class='table-of-contents-2'></div>
+<div id='empanada' class='table-of-contents-2'></div>
 <font size="+2"><b><u>Empanada Filling</u></b></font>
 {% include ingredients.html file="empanadas" recipe="false" %}
 
@@ -102,7 +100,7 @@ Notes:
 
 <hr>
 
-<div id="pierogi" class='table-of-contents-2'></div>
+<div id='pierogi' class='table-of-contents-2'></div>
 <font size="+2"><b><u>Pierogi Filling</u></b></font>
 {% include ingredients.html file="pierogi" recipe="false" %}
 
@@ -120,8 +118,6 @@ Notes:
   <li>Each pierogi will get about 1.5 tbsp (23 g) of filling</li>
 </ol>
 <img src='/assets/Food/Finger Food/Empanada/sw-pot.jpg' alt='' class='instruction-image'>
-
-<hr>
 
 {% assign files =
     "afempanadadough,"
@@ -144,3 +140,4 @@ Notes:
     | split: ","
 %}
 {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" %}
+

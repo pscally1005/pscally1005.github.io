@@ -1,0 +1,156 @@
+---
+layout: post
+title: Dye Free Rainbow Cookies
+date:   2025-06-06 00:00:00 -0500
+categories:
+- Recipes
+- Healthier Dessert
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: yes
+copycat: no
+permalink: /recipes/rainbow-cookies
+image: /assets/Food/Healthier Dessert/Rainbow New/cover-new.jpg
+file: rainbownew
+servingSize: 1 cookie
+section1: Red Layer
+start2: Unsweetened Applesauce
+section2: White Layer
+start3: Unsweetened applesauce
+section3: Green Layer
+start4: Frozen raspberries
+section4: Jam Filling
+start5: Extra virgin coconut oil
+section5: Chocolate Coating
+Prep: 180
+Rest: 480
+Cook: 60
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/eJGoS
+whiskOLD: https://s.samsungfood.com/cA5Nn
+tags:
+- granulated monk fruit
+- sugar free chocolate chips
+- low sugar berry jam
+- strawberry chia jam
+- raspberry jam
+- food color
+- food dye
+- sugar free
+- gluten free
+- jelly
+- jam
+- almond extract
+- oat flour
+- christmas
+- pride
+- vic
+- sunflower seed Butter
+- sunbutter
+- sunflower butter
+- sunflower kernels
+- sunflower seeds
+- almond butter
+- dates
+Description: |
+  Rainbow <a href='/cookies'>cookies</a> make the perfect gift or <a href='/recipes/healthier-dessert'>dessert</a> on Christmas, but today I'm taking the idea of Pride Month a little too literally. <a href='https://www.tastingtable.com/686065/italian-rainbow-cookie-recipe/'>Traditional versions</a> contain multiple sticks of <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>high sugar</a> jelly, and of course artificial food dyes, so I had my work cut out for me here.<br><br>
+
+  Rainbow <a href='/cookies'>cookies</a>, healthy or not, are a multiple hour process, so be prepared to put in the work. They're absolutely worth the effort on occasion, and I love making these once a year or so. These <a href='/cookies'>cookies</a> are free of <a href='/misc/hidden-sugar'>added sugar</a> and <a href='/misc/fats'>unhealthy fats</a>, and of course contain no food dyes.<br><br>
+
+  <a href='/misc/veggies#beets'>Beets</a> are used to naturally color the red layer, and <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> is used for green. Both the 3 "<a href='/cookies'>cookie</a>" layers as well as the <a href='/recipes/strawberry-chia-jam'>raspberry jam</a> are naturally sweetened with <a href='/misc/fruit#dates'>dates</a>, and the top and bottom chocolate layers are made from <a href='/recipes/monkfruit-chocolate-chunks'>monk fruit sweetened chocolate</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a> if you want a simpler <a href='/recipes/healthier-dessert'>dessert</a>!
+Instructions:
+- |
+  <i>Prep</i><br>
+  Wash your <a href='/misc/veggies#beets'>beet</a> with a brush, wrap in aluminum foil, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 1 hour, until you can easily pierce it with a fork. Unwrap, and let cool for 10 minutes. Cut off the ends, but leave the skin on<br><br>Preheat your oven to 350F, and line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper.  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
+
+- |
+  <b>IMPORTANT</b><br>
+  The red and white layers contain baking powder and <a href='/misc/nuts#almonds'>almond butter</a>, while the green layer contains baking soda and <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>.  THIS IS NOT A TYPO, so please be careful.  The baking soda in combination with the <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> is what causes the green color, but the other layers still need a leavener, so baking powder is used.  Baking soda and baking powder are not the same thing!<br><br>
+
+  <a href='/misc/seeds#sunflower-seeds'>Sunflower seed butter</a> could be used for the other 2 layers, but it will have more of a distinct <a href='/misc/seeds#sunflower-seeds'>sunflower</a> flavor.  I would recommend <a href='/misc/nuts#almonds'>almond butter</a> instead if you have it
+
+- |
+  <i>White Layer</i><br>
+  Add all ingredients to a <a href='https://amzn.to/3VHhgMM'>small food processor</a>, and blend until smooth.  Pour the batter into the pan, and spread to make sure it's even. Bake at 350F for about 10 minutes, or until lightly browned. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to totally cool
+- <img src='/assets/Food/Healthier Dessert/Rainbow New/raw.jpg' alt='' class='instruction-image'>
+
+- |
+  <i>Green Layer</i><br>
+  Prepare the green layer batter as the white layer bakes, following the exact same process.  Bake just like the white layer
+
+- |
+  <i>Red Layer</i><br>
+  Finally, the <a href='/misc/veggies#beets'>beet</a> should be done, and you can make the red layer. Follow the same process as the white and green layers. Let all 3 layers cool on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> in the fridge until totally cooled
+- <img src='/assets/Food/Healthier Dessert/Rainbow New/layers.jpg' alt='' class='instruction-image'>
+
+- |
+  <i><a href='/misc/fruit#raspberry'>Raspberry</a> Jam</i><br>
+  Pour your <a href='/misc/fruit#raspberry'>raspberries</a> into a bowl, and microwave for 1 minute to defrost.  Add your <a href='/misc/fruit#raspberry'>raspberries</a> and <a href='/misc/fruit#dates'>dates</a> to a medium <a href='https://amzn.to/4pREQ61'>stainless steel pan</a> over medium low heat, and roughly mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a><br><br>
+
+  Cook with occasional stirring until the <a href='/misc/fruit#dates'>dates</a> are soft enough to fully mash into the jam, and the jam has noticably thickened (about 10 minutes). Stir in <a href='/misc/seeds#chia-seeds'>chia seeds</a> and <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Refrigerate to cool
+- <img src='/assets/Food/Healthier Dessert/Rainbow New/jam-pan.jpg' alt='' class='instruction-image'>
+
+- |
+  <i>Assembling</i><br>
+  Line your <a href='https://amzn.to/3YY2H9q'>9" baking pan</a> with parchment paper, and place the green layer in the pan. Spread half of your jam onto the green layer. Place the white on top, and spread on the other half of the jam.  Finally, top with the red layer<br><br>
+
+  Cover with parchment paper, and place a heavy weight on top. Refrigerate overnight
+- <img src='/assets/Food/Healthier Dessert/Rainbow New/jam-layer.jpg' alt='' class='instruction-image'>
+
+- |
+  <i>Chocolate Coating</i><br>
+  The next day, melt half your <a href='/misc/nuts#coconut'>coconut oil</a> (2 tbsp, 28 g) in the microwave, and stir in half the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> (5 tbsp, 25 g) and half the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (2 tbsp, 25 g) until smooth. Evenly spread across the red layer on top in the pan. Refrigerate for at least 30 minutes to harden the chocolate<br><br>
+
+  Flip over, and repeat with the other half of the chocolate on the green layer.  Again, refrigerate for 30 minutes
+- <img src='/assets/Food/Healthier Dessert/Rainbow New/choc-bowl.jpg' alt='' class='instruction-image'>
+
+- |
+  <i>Cutting</i><br>
+  When the chocolate has cooled, transfer to a <a href='https://amzn.to/43gNqmY'>cutting board</a>, and cut into 36 small square cookies, about 1" each.  Store in the fridge
+- <img src='/assets/Food/Healthier Dessert/Rainbow New/cut-new.jpg' alt='' class='instruction-image'>
+
+- |
+  <i>Flash Freeze</i><br>
+  Since this makes a lot of cookies, you may want to store some in the freezer.  Line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with parchment paper, and spread out the cookies so none are touching.  Freeze uncovered for at least 1 hour before transferring to an airtight container
+Notes:
+- We're going to work in color order from lightest to darkest, meaning white, then green, and finally red. Not only does this avoid color contamination, but the <a href='/misc/veggies#beets'>beet</a> needs time to roast, giving us time to work on white and green
+
+- I called for <a href='/misc/nuts#almonds'>almond butter</a> in the red and white layers, but any neutral <a href='/recipes/natural-peanut-butter'>natural nut butter</a> will also work, like <a href='/misc/nuts#cashews'>cashew butter</a> or <a href='/misc/seeds#sesame-seeds'>tahini</a>.<br><br>However, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> is <b>required</b> for the green layer, as the chlorophyll in the <a href='/misc/seeds#sunflower-seeds'>sunflower seeds</a> will react with the baking soda, turning the layer green. This is why only the green layer contains baking soda.  The red and white layers contain baking powder instead.<br><br>Don't worry if it's barely green now; it will turn more overnight.  See my <a href='/recipes/green-bread'>Green Bread</a> and <a href='/recipes/mint-chocolate-chip-date-cookies'>Mint Chocolate Chip Date Cookies</a> for reference
+
+- Because I use immitation almond extract, I used 2 tsp (10 g) of extract per layer.  If you have pure almond extract, I'd recommend halving the amount to 1 tsp (5 g) per layer
+
+- <a href='/misc/fruit#raspberry'>Raspberries</a> are the traditional choice for the jam, but they can be very expensive.  For me, 12 oz of frozen <a href='/misc/fruit#raspberry'>raspberries</a> is $4.48, but I can get 32 oz of frozen <a href='/misc/fruit#strawberries'>strawberries</a> for just $4.00.  Swapping the <a href='/misc/fruit#raspberry'>raspberries</a> for <a href='/misc/fruit#strawberries'>strawberries</a> cuts the total cost down from $9.84 to $7.10, or down from $0.27 to $0.20 per cookie, saving $2.74
+
+- Alternatively, you can use 1 cup (180 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> (1/2 cup, 90 g per layer) instead of homemade chocolate
+
+- For a lower <a href='/misc/calories'>calorie</a>, <a href='/misc/carbs'>net carb</a>, and <a href='/misc/hidden-sugar'>sugar</a> version, replace the 1/4 cup (40 g) of <a href='/misc/fruit#dates'>dates</a> in each of the 3 layers, as well as the jam, with 2 tbsp (25 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, for a total of 1/2 cup (100 g), in addition to the sweetener in the melted chocolate
+
+- |
+  COMPARE(
+    "rainbownew",
+    "rainbownewmonkfruit";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    ""<a href='https://amzn.to/4ceFnvP'>Monk Fruit</a><br>Instead of<br><a href='/misc/fruit#dates'>Dates</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+---
