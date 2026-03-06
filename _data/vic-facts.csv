@@ -69,7 +69,7 @@ Calories,492,,
 "Tyrosine",0.772,g,
 "Valine",1.292,g,66 %
 "Phenylalanine + Tyrosine",1.862,g,69 %
-"Methionine + Cysteine",0.833,g,54 %
+"Methionine + Cysteine",1.291,g,83 %
 "Carbohydrate",60.31,g,22 %
 "Fiber",11.62,g,42 %
 "Starch",1.1,g,
@@ -120,5 +120,5 @@ Calories,492,,
 "Alcohol, ethyl",0.8,g,
 "Ash",0.74,g,
 "Caffeine",11.5,mg,
-"Theobromine",0,mg,
+"Theobromine",102.85,mg,
 "Water",132.16,g,

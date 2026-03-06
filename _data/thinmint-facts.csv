@@ -3,6 +3,7 @@ Calories,44,,
 "Vitamin A, RAE",2.67,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0.11,mcg,
+"Cryptoxanthin, alpha",0.19,mcg,
 "Cryptoxanthin, beta",0.19,mcg,
 "Lutein + zeaxanthin",0.45,mcg,
 "Lutein",3.4,mcg,
@@ -77,7 +78,7 @@ Calories,44,,
 "Tyrosine",0.052,g,
 "Valine",0.076,g,4 %
 "Phenylalanine + Tyrosine",0.123,g,5 %
-"Methionine + Cysteine",0.042,g,3 %
+"Methionine + Cysteine",0.063,g,4 %
 "Carbohydrate",5.94,g,2 %
 "Fiber",1.25,g,4 %
 "Starch",0,g,
@@ -118,22 +119,20 @@ Calories,44,,
 "Octadecadienoic acid",0.005,g,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0,g,
-"18:2 c",0.02,g,
-"18:3 c",0,g,
-"20:3 c",0,g,
 "Fatty acids, total trans",0,g,
 "Cholesterol",6.08,mg,2 %
 "25-hydroxycholecalciferol",0.01,mcg,
 "Alcohol, ethyl",0,g,
 "Ash",0.09,g,
 "Caffeine",5.42,mg,
-"Carbohydrate, by summation",0,g,
 "Choline, free",0.01,mg,
 "Choline, from glycerophosphocholine",0,mg,
 "Choline, from phosphocholine",4.57,mg,
 "Choline, from phosphotidyl choline",0,mg,
 "Choline, from sphingomyelin",0.37,mg,
-"Cryptoxanthin, alpha",0.19,mcg,
 "Nitrogen",0.03,g,
-"Theobromine",24.2,mg,
+"PUFA 18:2 c",0.02,g,
+"PUFA 18:3 c",0,g,
+"PUFA 20:3 c",0,g,
+"Theobromine",48.4,mg,
 "Water",2.93,g,

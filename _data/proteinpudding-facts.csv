@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,189,,
+Calories,185,,
 "Vitamin A, RAE",0,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0,mcg,
@@ -31,7 +31,7 @@ Calories,189,,
 "Selenium",21.87,mcg,40 %
 "Sodium",98.15,mg,4 %
 "Zinc",2.5,mg,23 %
-"Protein",30.81,g,62 %
+"Protein",30.8,g,62 %
 "Alanine",1.208,g,
 "Arginine",1.072,g,
 "Aspartic acid",1.58,g,
@@ -53,21 +53,21 @@ Calories,189,,
 "Tyrosine",1.284,g,
 "Valine",1.909,g,97 %
 "Phenylalanine + Tyrosine",2.637,g,98 %
-"Methionine + Cysteine",1.176,g,76 %
+"Methionine + Cysteine",1.595,g,103 %
 "Carbohydrate",12.97,g,5 %
 "Fiber",3.72,g,13 %
 "Sugars",6.45,g,
 "Net carbs",9.25,g,
-"Fat",3.369,g,4 %
-"Saturated fatty acids",1.688,g,8 %
-"Monounsaturated fatty acids",0.549,g,
-"Polyunsaturated fatty acids",0.064,g,
+"Fat",2.913,g,4 %
+"Saturated fatty acids",1.463,g,7 %
+"Monounsaturated fatty acids",0.641,g,
+"Polyunsaturated fatty acids",0.238,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
 "Fatty acids, total trans",0,g,
-"Cholesterol",42.56,mg,14 %
+"Cholesterol",47.11,mg,16 %
 "Alcohol, ethyl",0.8,g,
 "Caffeine",23,mg,
-"Theobromine",0,mg,
-"Water",148.03,g,
+"Theobromine",205.7,mg,
+"Water",150.3,g,

@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,103,,
+Calories,101,,
 "Vitamin A, RAE",0.83,mcg,0 %
 "Carotene, alpha",6.88,mcg,
 "Carotene, beta",7.2,mcg,
@@ -69,7 +69,7 @@ Calories,103,,
 "Tyrosine",0.306,g,
 "Valine",0.468,g,24 %
 "Phenylalanine + Tyrosine",0.71,g,26 %
-"Methionine + Cysteine",0.285,g,18 %
+"Methionine + Cysteine",0.441,g,28 %
 "Carbohydrate",10.83,g,4 %
 "Fiber",3.16,g,11 %
 "Starch",1.51,g,
@@ -82,8 +82,8 @@ Calories,103,,
 "Sucrose",0.82,g,
 "Net carbs",7.67,g,
 "",0.49 g,undefined,
-"Fat",3.72,g,5 %
-"Saturated fatty acids",0.76,g,4 %
+"Fat",3.549,g,5 %
+"Saturated fatty acids",0.676,g,3 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Docosanoic acid",0,g,
@@ -98,7 +98,7 @@ Calories,103,,
 "Tetracosanoic acid",0,g,
 "Tetradecanoic acid",0.002,g,
 "Tridecanoic acid",0,g,
-"Monounsaturated fatty acids",1.766,g,
+"Monounsaturated fatty acids",1.8,g,
 "Cis-hexadecenoic acid",0.009,g,
 "Cis-octadecenoic acid",1.252,g,
 "Docosenoic acid",0,g,
@@ -111,7 +111,7 @@ Calories,103,,
 "Tetradecenoic acid",0,g,
 "Trans-hexadecenoic acid",0,g,
 "Trans-octadecenoic acid",0,g,
-"Polyunsaturated fatty acids",0.762,g,
+"Polyunsaturated fatty acids",0.827,g,
 "α-linolenic acid n-3 (ALA)",0,g,
 "γ-linolenic acid n-6 (GLA)",0,g,
 "Cis,cis-eicosadienoic n-6 acid",0,g,
@@ -131,11 +131,11 @@ Calories,103,,
 "Fatty acids, total trans-polyenoic",0,g,
 "Beta-sitosterol",5.2,mg,
 "Campesterol",0.2,mg,
-"Cholesterol",12.78,mg,4 %
+"Cholesterol",14.49,mg,5 %
 "Phytosterols",4.4,mg,
 "Stigmasterol",0.16,mg,
 "Alcohol, ethyl",0.1,g,
 "Ash",0.51,g,
 "Caffeine",6.21,mg,
 "Theobromine",55.54,mg,
-"Water",21.76,g,
+"Water",22.61,g,

@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,531,,
+Calories,526,,
 "Vitamin A, RAE",23.09,mcg,3 %
 "Carotene, alpha",0.03,mcg,
 "Carotene, beta",10.53,mcg,
@@ -66,7 +66,7 @@ Calories,531,,
 "Tyrosine",0.169,g,
 "Valine",0.26,g,13 %
 "Phenylalanine + Tyrosine",0.411,g,15 %
-"Methionine + Cysteine",0.096,g,6 %
+"Methionine + Cysteine",0.178,g,11 %
 "Carbohydrate",51.07,g,19 %
 "Fiber",15.89,g,57 %
 "Starch",0.04,g,
