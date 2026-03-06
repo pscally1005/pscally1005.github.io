@@ -1,7 +1,17 @@
 <div class='recipe-notes-header'>
+
+    <!-- Exception for empanadas -->
+    {% assign flg_exception = "false" %}
+    {% if page.title == 'Almond Flour Empanada & Pierogi Dough' %}
+        {% assign flg_exception = "true" %}
+    {% endif %}
+
     {% if page.Notes %}
-        <div id="notes" class="table-of-contents-2"></div>
-        <div class='recipe-header'>Notes</div>
+        <!-- Exception for empanadas -->
+        {% if flg_exception == "false" %}
+            <div id="notes" class="table-of-contents-2"></div>
+            <div class='recipe-header'>Notes</div>
+        {% endif %}
 
         <!-- Display notes -->
         <div class='recipe-instructions'>
@@ -10,7 +20,7 @@
                     {% assign note_number = 1 %}
                     {% for note in page.Notes %}
 
-                        {% if note contains "<img" or note contains "INGREDIENTS(" or note contains "FACTS(" or note contains "COMPARE(" %}
+                        {% if flg_exception == "true" or note contains "<img" or note contains "INGREDIENTS(" or note contains "FACTS(" or note contains "COMPARE(" %}
 
                             </ol>
                             </div>
@@ -94,6 +104,9 @@
 
                                 {% include compareFoodsTable.html files=files titles=titles nutrients=nutrients scroll="true" cost=costFlg mass=massFlg %}
 
+                            <!-- Empanada exception -->
+                            {% elsif flg_exception == "true" %}
+                                {{ note }}
                             {% endif %}
 
                             </div>
