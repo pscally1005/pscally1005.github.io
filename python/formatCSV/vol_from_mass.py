@@ -96,6 +96,22 @@ def vol_from_mass(food, mass, vol):
         elif mass == "1760":
             v = "4 x 15.5 oz can"
 
+    # Quick nutella
+    elif food == "Single Serving Quick Nutella":
+        if mass == "54":
+            v = "1 serving"
+        elif mass == "108":
+            v = "2 serving"
+        elif mass == "162":
+            v = "3 serving"
+        elif mass == "216":
+            v = "4 serving"
+        elif mass == "270":
+            v = "5 serving"
+        elif mass == "324":
+            v = "6 serving"
+
+
     # Cornstarch
     elif food == "Cornstarch":
         if mass == "4":

@@ -170,6 +170,8 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "quick-nutella":
+        f = "Single Serving Quick Nutella"
     elif food == "Spelt, uncooked":
         f = "Spelt flour"
     elif food == "Rye grain":

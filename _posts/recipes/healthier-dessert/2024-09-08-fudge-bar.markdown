@@ -85,17 +85,20 @@ Notes:
 
 - To make this recipe <a href='/misc/nuts'>nut</a> free, you can use <a href='/misc/nuts#coconut'>coconut flour</a> or <a href='/misc/grains#oats'>oat flour</a> in place of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> for the crust, and <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> in place of <a href='/misc/nuts#peanuts'>peanut butter</a> for the filling
 
+- For a <a href='/misc/hidden-sugar'>sugar free</a> and lower <a href='/misc/calories'>calorie</a> and <a href='/misc/fats'>fat</a> version, omit the honey in the crust/crumble, and replace the filling (<a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and honey) with 6 servings of <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a>
 - |
-  For a <a href='/misc/hidden-sugar'>sugar free</a> and lower <a href='/misc/fats'>fat</a> version, omit the honey in the crust/crumble, and replace the filling (<a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and honey) with 6 servings of <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a>
-  <br><br>
-  The result is 16 bars with the following macros
-  <ul>
-    <li><a href='/misc/calories'>Calories</a> - 105</li>
-    <li><a href='/misc/protein'>Protein</a> - 6 g</li>
-    <li><a href='/misc/fats'>Fat</a> - 2 g</li>
-    <li><a href='/misc/carbs'>Net Carbs</a> - 14 g</li>
-    <li><a href='/misc/fiber'>Fiber</a> - 5 g</li>
-    <li><a href='/misc/hidden-sugar'>Added Sugar</a> - 0 g</li>
-  </ul>
-- <a href='/recipes/quick-nutella'><img src='/assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg' alt='' class='instruction-image'></a>
+  COMPARE(
+    "oatmealfudge",
+    "oatmealfudgequicknutella";
+
+    "<a href='#recipe'>Original<br>Recipe</a>",
+    "<a href='/misc/calories'>Lower<br>Calorie";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---

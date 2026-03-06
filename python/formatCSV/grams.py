@@ -90,6 +90,21 @@ def grams(food, mass, vol):
     elif vol == "3 lb":
         m = "1362"
 
+    # Quick nutella
+    elif food == "Single Serving Quick Nutella":
+        if vol == "1 serving":
+            m = "54"
+        elif vol == "2 serving":
+            m = "108"
+        elif vol == "3 serving":
+            m = "162"
+        elif vol == "4 serving":
+            m = "216"
+        elif vol == "5 serving":
+            m = "270"
+        elif vol == "6 serving":
+            m = "324"
+
     # Dried fruit
     elif food == "Dates" or food == "Raisins" or food == "Prunes" or food == "Dried figs":
         if vol == "1/4 cup":
@@ -143,7 +158,7 @@ def grams(food, mass, vol):
         elif vol == "1 medium":
             m = "110"
         elif vol == "2 medium":
-            m = "2200"
+            m = "220"
         elif vol == "3 medium":
             m = "330"
         elif vol == "4 medium":
