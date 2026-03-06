@@ -54,7 +54,7 @@ Description: I recently had one of those Core Power <a href='/misc/protein'>prot
 Instructions:
 - Add the <a href='/misc/dairy#whey'>whey</a> and 1/2 cup (120 g) of your <a href='/misc/dairy#skim-milk'>milk</a> to a shaker bottle, and shake until fully dissolved.  Add the rest of the <a href='/misc/dairy#skim-milk'>milk</a>, as well as vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/dairy#yogurt'>yogurt</a>.  Shake, adjust to taste, and enjoy
 Notes:
-- For chocolate instead of vanilla, omit, the vanilla extract, and instead use 1 tbsp (5 g) of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
+- For chocolate instead of vanilla, omit, the vanilla extract, and instead use 1 tbsp (5 g) of <a href='/misc/chocolate-benefits'>cocoa powder</a>
 
 - Alternatively, you can use <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> instead of fairlife <a href='/misc/skim-milk'>skim milk</a> to make it even cheaper.  In that case, increase the <a href='/misc/dairy#whey'>whey</a> to 1 1/2 scoops (45 g)
 

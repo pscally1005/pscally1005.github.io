@@ -54,11 +54,11 @@ tags:
 - chopped nuts
 - 3 ingredient
 - banana brownies
-Description: These simple and healthy <a href='/brownies'>brownie</a> bites are made with just 3 ingredients - pureed <a href='/misc/fruit#banana'>bananas</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>. These taste like delicious chocolate peanut butter <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>, but dense and fudgy, as all <a href='/brownies'>brownies</a> should be. Feel free to add any extra flavors such as vanilla or cinnamon, or any mix-ins like chocolate chips or chopped <a href='/misc/nuts'>nuts</a>. The nutrition facts are per <a href='/brownies'>brownie</a> bite.  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
+Description: These simple and healthy <a href='/brownies'>brownie</a> bites are made with just 3 ingredients - pureed <a href='/misc/fruit#banana'>bananas</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>. These taste like delicious chocolate peanut butter <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>, but dense and fudgy, as all <a href='/brownies'>brownies</a> should be. Feel free to add any extra flavors such as vanilla or cinnamon, or any mix-ins like chocolate chips or chopped <a href='/misc/nuts'>nuts</a>. The nutrition facts are per <a href='/brownies'>brownie</a> bite.  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
 - Preheat your oven to 350F, and <a href='https://amzn.to/3Hdg0gk'>spray</a> a <a href='https://amzn.to/3T1ymDy'>mini muffin pan</a> with oil
 
-- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend the <a href='/misc/fruit#banana'>bananas</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> until smooth
+- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend the <a href='/misc/fruit#banana'>bananas</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a> until smooth
 - <img src='/assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-3.jpg' alt='' class='instruction-image'>
 
 - Evenly divide your batter across 24 mini muffin cups. They won't rise as they bake (unless you add the baking powder), so fill them completely
@@ -70,7 +70,7 @@ Instructions:
 Notes:
 - Choose <a href='/misc/fruit#banana'>bananas</a> that are as brown and soft as possible for the sweetest <a href='/brownies'>brownies</a>. I've used <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> here, but any other <a href='/recipes/natural-peanut-butter'>natural nut or seed butter</a> will work, like <a href='/misc/nuts#almonds'>almond butter</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>. <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> would also work in place of <a href='/misc/fruit#banana'>bananas</a>
 
-- Using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in place of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> would probably work to make it a <a href='/brownies'>blondie</a> instead and add more <a href='/misc/protein'>protein</a>, but I haven't personally tried it yet
+- Using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in place of <a href='/misc/chocolate-benefits'>cocoa powder</a> would probably work to make it a <a href='/brownies'>blondie</a> instead and add more <a href='/misc/protein'>protein</a>, but I haven't personally tried it yet
 
 - Optionally, mix in some other flavors. You can use 1 tsp (5 g) vanilla (or almond) extract, 1/4 tsp (1.5 g) salt, 2 tsp (5 g) cinnamon, or 1/3 cup (60 g) of mix-ins (chocolate chips, chopped <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#raisins'>raisins</a>, etc.). For a cakier <a href='/brownies'>brownie</a>, add a 1/2 tsp (2.4 g) of baking powder
 

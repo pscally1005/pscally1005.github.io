@@ -58,9 +58,9 @@ tags:
 - maple syrup
 - oat flour
 - gluten free
-Description: These super simple 4 ingredients <a href='/misc/celiac'>gluten free</a> snacks are made in just 5 minutes, and are a good quick source of <a href='/misc/fiber'>fiber</a>, <a href='/misc/carbs'>carbs</a>, and <a href='/misc/fats'>healthy fats</a>, helping you get through the day.  They're offer a quick boost of energy through the <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and honey.  They're much cheaper than other minimal ingredient healthy snacks on the market as well
+Description: These super simple 4 ingredients <a href='/misc/celiac'>gluten free</a> snacks are made in just 5 minutes, and are a good quick source of <a href='/misc/fiber'>fiber</a>, <a href='/misc/carbs'>carbs</a>, and <a href='/misc/fats'>healthy fats</a>, helping you get through the day.  They're offer a quick boost of energy through the <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and honey.  They're much cheaper than other minimal ingredient healthy snacks on the market as well
 Instructions:
-- In a bowl or <a href='https://amzn.to/3VHhgMM'>small food processor</a>, combine together all the ingredients until fully combined - <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and honey
+- In a bowl or <a href='https://amzn.to/3VHhgMM'>small food processor</a>, combine together all the ingredients until fully combined - <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and honey
 - <img src='/assets/Food/Finger Food/Cocoa Bite/bowl.jpg' alt='' class='instruction-image'>
 
 - Roll your dough into 12 balls, about 15 g each.  Store in the fridge or freezer
@@ -69,5 +69,5 @@ Notes:
 
 - You can use maple syrup or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> instead of honey
 
-- <a href='/misc/overshadowed-healthy-foods#chocolate'>Cacao powder</a> or carob powder will also work in place of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
+- <a href='/misc/chocolate-benefits'>Cacao powder</a> or carob powder will also work in place of <a href='/misc/chocolate-benefits'>cocoa powder</a>
 ---

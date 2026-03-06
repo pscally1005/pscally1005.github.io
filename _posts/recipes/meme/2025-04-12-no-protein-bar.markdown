@@ -66,7 +66,7 @@ Instructions:
 - Line a plate with parchment paper. Divide the dough in half (85 g each), and shape into 2 protein bars
 - <img src='/assets/Food/Meme/No protein bar/no-choc.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 30 seconds to melt. Add in <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and stir with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until smooth. Evenly spread on top of the bars. The chocolate won't look perfect or pretty, and that's okay. Paint the melted chocolate over the top and the sides of the bars
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 30 seconds to melt. Add in <a href='/misc/chocolate-benefits'>cocoa powder</a>, and stir with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until smooth. Evenly spread on top of the bars. The <a href='/misc/chocolate-benefits'>chocolate</a> won't look perfect or pretty, and that's okay. Paint the melted <a href='/misc/chocolate-benefits'>chocolate</a> over the top and the sides of the bars
 - <img src='/assets/Food/Meme/No protein bar/choc.jpg' alt='' class='instruction-image'>
 
 - Freeze for 30 minutes to harden. Wrap each bar in parchment paper or aluminum foil, and store in an airtight bag in the fridge or freezer

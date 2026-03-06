@@ -44,9 +44,9 @@ Instructions:
 - Bring to a full rolling boil. Stir constantly, scraping the bottom, sides, and corners of the pot to prevent sticking and burning.  Let boil for 5 minutes under constant stirring
 - <img src='/assets/Misc/Unhealthy/Fudge/fudge-boil.jpg' alt='' class='instruction-image'>
 
-- Remove from heat and add your marshmallows, chocolate, and vanilla. You can either use 2 cups of mini marshmallows, or 13 regular marshmallows (chopped)
+- Remove from heat and add your marshmallows, <a href='/misc/chocolate-benefits'>chocolate</a>, and vanilla. You can either use 2 cups of mini marshmallows, or 13 regular marshmallows (chopped)
 
-- Vigorously stir to completely melt the marshmallows and chocolate, and the mixture is smooth
+- Vigorously stir to completely melt the marshmallows and <a href='/misc/chocolate-benefits'>chocolate</a>, and the mixture is smooth
 - <img src='/assets/Misc/Unhealthy/Fudge/fudge-choc.jpg' alt='' class='instruction-image'>
 
 - Transfer the fudge into your lined pan, and level it out by tilting the pan.  Chill in the fridge for 3 hours to set before slicing

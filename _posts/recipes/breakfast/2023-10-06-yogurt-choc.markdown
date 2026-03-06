@@ -51,7 +51,7 @@ tags:
 - chopped
 Description: <a href='/misc/dairy#yogurt'>Plain nonfat greek yogurt</a> combined with <a href='/misc/dairy#whey'>whey protein powder</a> makes a <a href='/misc/protein'>protein</a> packed bowl to start your day off right.  I've made 4 different variations of <a href='/misc/dairy#yogurt'>yogurt</a> bowls that you can easily prep the night before for an easy <a href='/recipes/breakfast'>breakfast</a>. We have <a href='/recipes/yogurt-pbj'>PB&J</a>, <a href='/recipes/yogurt-apple'>Apple Pie</a>, Chocolate, and <a href='/recipes/yogurt-banana'>PB Banana</a> for you to enjoy.  You can also check out any of my other <a href='/yogurt'>yogurt recipes</a>!
 Instructions:
-- Mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork.  Mix the rest of the ingredients together in a bowl, and top with chopped chocolate.  Cover, and refrigerate overnight
+- Mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork.  Mix the rest of the ingredients together in a bowl, and top with chopped <a href='/misc/chocolate-benefits'>chocolate</a>.  Cover, and refrigerate overnight
 Notes:
 - |
   For the other flavors and their nutrition facts, check out the links below:<br>

@@ -62,7 +62,7 @@ Instructions:
 - Bake at 325F for about 12 minutes, or until lightly golden brown. They will feel very soft, but will harden on the tray. Let cool for at least 30 minutes before removing
 - <img src='/assets/Food/Meme/0 Cal/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- Optionally, mix in some <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> for a chocolate <a href='/cookies'>cookie</a>.  I'm going with 1 tbsp (5 g) of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> in half the batch, and leaving the other half white.  Note that adding <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a> will <b>triple</b> the <a href='/misc/calories'>calories</a> to a whole <b>3</b>.  Oh the horror!
+- Optionally, mix in some <a href='/misc/chocolate-benefits'>cocoa powder</a> for a chocolate <a href='/cookies'>cookie</a>.  I'm going with 1 tbsp (5 g) of <a href='/misc/chocolate-benefits'>cocoa powder</a> in half the batch, and leaving the other half white.  Note that adding <a href='/misc/chocolate-benefits'>cocoa</a> will <b>triple</b> the <a href='/misc/calories'>calories</a> to a whole <b>3</b>.  Oh the horror!
 
 - Just because these are <a href='/misc/calories'>zero calories</a> does <b>not</b> mean you should eat the entire batch at once.  That much <a href='/misc/fake-healthy-foods#sugar-substitutes'>sugar alcohols</a> in one sitting would probably wreck your stomach, or at least give you lethal farts.  You have been warned (maybe I should be warning your friends instead)
 
@@ -71,8 +71,8 @@ Notes:
     "0cal",
     "0calcocoa";
 
-    "White<br>No<br><a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa</a>",
-    "Black<br>With<br><a href='/misc/overshadowed-healthy-foods#chocolate'>Cocoa</a>";
+    "White<br>No<br><a href='/misc/chocolate-benefits'>Cocoa</a>",
+    "Black<br>With<br><a href='/misc/chocolate-benefits'>Cocoa</a>";
 
     "Calories",
     "Protein",

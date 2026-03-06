@@ -71,7 +71,7 @@ Instructions:
 - Line a plate with parchment paper, and divide the dough into 4 even balls (see the table below for the weight of each filling).  Lightly wet your hands, and shape into bars
 - <img src='/assets/Food/Protein Powder/Barbell/no-choc.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave your <a href='/misc/nuts#coconut'>coconut oil</a> for about 1 minute, until melted.  Add in the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and stir until fully combined
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave your <a href='/misc/nuts#coconut'>coconut oil</a> for about 1 minute, until melted.  Add in the <a href='/misc/chocolate-benefits'>cocoa powder</a>, and stir until fully combined
 
 - Pour the chocolate over the protein bars, painting it over the top and the sides with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Freeze for 30 minutes to harden, wrap each bar in parchment paper or aluminum foil, and store in an airtight bag in the fridge or freezer
 - <img src='/assets/Food/Protein Powder/Barbell/choc.jpg' alt='' class='instruction-image'>
@@ -85,17 +85,17 @@ Notes:
 - |
   The following are all good variations I've tried of these protein bars:<br><br>
   <ol>
-      <li><i>Original recipe with <a href='/misc/overshadowed-healthy-foods#chocolate'>unsweetened chocolate</a> (<a href='#recipe'>as written above</a>)</i>
+      <li><i>Original recipe with <a href='/misc/chocolate-benefits'>unsweetened chocolate</a> (<a href='#recipe'>as written above</a>)</i>
         <ul>
-          <li>Mix melted <a href='/misc/nuts#coconut'>coconut oil</a> with <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> to make your melted chocolate</li>
+          <li>Mix melted <a href='/misc/nuts#coconut'>coconut oil</a> with <a href='/misc/chocolate-benefits'>cocoa powder</a> to make your melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
           <li>I prefer it unsweetened, but you can add 1-2 tbsp of any <a href='https://amzn.to/4ceFnvP'>granular</a> (12-24 g) or <a href='/recipes/sugar-free-syrup'>liquid</a> (20-40 g) sweetener, or 1/2 tsp (2.5 g) <a href='https://amzn.to/44ZDhwi'>liquid monk fruit</a></li>
         </ul><br>
 
       <li><i><a href='/recipes/monkfruit-chocolate-chunks'>Sugar free chocolate chips</a></i>
         <ul>
-          <li>Replace the <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> with 1/3 cup (60 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a></li>
-          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or olive oil to the chocolate chips to help with melting</li>
-          <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
+          <li>Replace the <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a></li>
+          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or olive oil to the <a href='/misc/chocolate-benefits'>chocolate chips</a> to help with melting</li>
+          <li>Microwave the <a href='/misc/chocolate-benefits'>chocolate chips</a> in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
       <li><i><a href='/misc/grains#oats'>Oat Flour</a></i>
@@ -113,22 +113,22 @@ Notes:
       <li><i>Candy Bar</i>
         <ul>
           <li>Replace <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with granulated <a href='/misc/hidden-sugar'>sugar</a> (1:1)</li>
-          <li>Replace <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> with 1/3 cup (60 g) semi sweet chocolate chips</li>
-          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or olive oil to the chocolate chips to help with melting</li>
-          <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
+          <li>Replace <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) semi sweet <a href='/misc/chocolate-benefits'>chocolate chips</a></li>
+          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or olive oil to the <a href='/misc/chocolate-benefits'>chocolate chips</a> to help with melting</li>
+          <li>Microwave the <a href='/misc/chocolate-benefits'>chocolate chips</a> in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
       <li><i>Flavored <a href='/misc/dairy#whey'>Whey</a></i>
         <ul>
-          <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but chocolate is good too</li>
+          <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but <a href='/misc/chocolate-benefits'>chocolate</a> is good too</li>
           <li>Omit the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
         </ul><br>
 
       <li><i>Double Flavored <a href='/misc/dairy#whey'>Whey</a></i>
         <ul>
-          <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but chocolate is good too</li>
+          <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but <a href='/misc/chocolate-benefits'>chocolate</a> is good too</li>
           <li>Omit the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
-          <li>Replace the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> in the coating with flavored <a href='/misc/dairy#whey'>whey protein powder</a>.  Use vanilla for a white chocolate coating, or chocolate for a milk chocolate coating</li>
+          <li>Replace the <a href='/misc/chocolate-benefits'>cocoa powder</a> in the coating with flavored <a href='/misc/dairy#whey'>whey protein powder</a>.  Use vanilla for a white <a href='/misc/chocolate-benefits'>chocolate</a> coating, or <a href='/misc/chocolate-benefits'>chocolate</a> for a milk <a href='/misc/chocolate-benefits'>chocolate</a> coating</li>
         </ul><br>
 
       <li><i><a href='https://amzn.to/44ZDhwi'>Liquid Monk Fruit</a></i>
@@ -140,23 +140,23 @@ Notes:
         <ul>
           <li>Use 4 tbsp (84 g) of honey (or maple syrup) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
           <li>Reduce the water to 1/4 cup (60 g)</li>
-          <li>Replace cococnut <a href='/misc/fats'>oil</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> with 1/3 cup (60 g) semi sweet chocolate chips</li>
-          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or olive oil to the chocolate chips to help with melting</li>
-          <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
+          <li>Replace cococnut <a href='/misc/fats'>oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) semi sweet <a href='/misc/chocolate-benefits'>chocolate chips</a></li>
+          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or olive oil to the <a href='/misc/chocolate-benefits'>chocolate chips</a> to help with melting</li>
+          <li>Microwave the <a href='/misc/chocolate-benefits'>chocolate chips</a> in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
       <li><i>Double Honey</i>
         <ul>
           <li>Use 4 tbsp (84 g) of honey (or maple syrup) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
           <li>Reduce the water to 1/4 cup (60 g)</li>
-          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, but add 2 tbsp (42 g) honey (or maple syrup) to the melted chocolate</li>
+          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but add 2 tbsp (42 g) honey (or maple syrup) to the melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
         </ul><br>
 
       <li><i><a href='/recipes/sugar-free-syrup'>Sugar Free Syrup</a></i>
         <ul>
           <li>Use 4 tbsp (80 g) of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
           <li>Reduce the water to 1/4 cup (60 g)</li>
-          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, but optionally add 2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> to the melted chocolate </li>
+          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but optionally add 2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> to the melted <a href='/misc/chocolate-benefits'>chocolate</a> </li>
         </ul><br>
 
       <li><i>Reese's</i></li>
@@ -164,7 +164,7 @@ Notes:
           <li>Replace the <a href='/misc/dairy#whey'>whey</a> in the filling with 1 cup (96 g) <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
           <li>If your <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted, then double the salt in the filling to 1/2 tsp (3 g)</li>
           <li>Increase the water to 10 tbsp (150 g)</li>
-          <li>Keep the chocolate coating the same</li>
+          <li>Keep the <a href='/misc/chocolate-benefits'>chocolate</a> coating the same</li>
         </ul><br>
 
       <li><i>Double <a href='/misc/nuts#peanuts'>Peanut Butter</a></i></li>
@@ -172,7 +172,7 @@ Notes:
         <li>Replace the <a href='/misc/dairy#whey'>whey</a> in the filling with 1 cup (96 g) <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
         <li>If your <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted, then double the salt in the filling to 1/2 tsp (3 g)</li>
         <li>Increase the water to 10 tbsp (150 g)</li>
-        <li>Replace the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> in the coating with <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
+        <li>Replace the <a href='/misc/chocolate-benefits'>cocoa powder</a> in the coating with <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
         <li>If your <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted, then add a 1/4 tsp (1.25 g) of salt to the <a href='/misc/nuts#peanuts'>peanut butter</a> coating</li>
       </ul><br>
 
@@ -181,7 +181,7 @@ Notes:
         <li>Replace the <a href='/misc/dairy#whey'>whey</a> in the filling with 1 cup (96 g) <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
         <li>If your <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted, then double the salt in the filling to 1/2 tsp (3 g)</li>
         <li>Increase the water to 10 tbsp (150 g)</li>
-        <li>Replace the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> in the coating with vanilla <a href='/misc/dairy#whey'>whey protein powder</a>.  You can also use chocolate for a milk chocolate peanut butter <a href='/misc/protein'>protein</a> bar</li>
+        <li>Replace the <a href='/misc/chocolate-benefits'>cocoa powder</a> in the coating with vanilla <a href='/misc/dairy#whey'>whey protein powder</a>.  You can also use chocolate for a milk chocolate peanut butter <a href='/misc/protein'>protein</a> bar</li>
       </ul><br>
 
       <li><i><a href='/misc/dairy#casein'>Casein Protein Powder</a></i></li>
@@ -193,10 +193,10 @@ Notes:
 
       <li><i>Lower <a href='/misc/hidden-sugar'>Sugar</a></i></li>
         <ul>
-          <li>This variation is for those who want less <a href='/misc/hidden-sugar'>added sugar</a> than the candy bar, honey, or double honey versions, but not <a href='/misc/hidden-sugar'>sugar free</a> like the rest.  It's a good compromise of <a href='/misc/hidden-sugar'>sugar free</a> flavored <a href='/misc/dairy#whey'>protein powder</a> and honey sweetened chocolate</li>
-          <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but chocolate is good too</li>
+          <li>This variation is for those who want less <a href='/misc/hidden-sugar'>added sugar</a> than the candy bar, honey, or double honey versions, but not <a href='/misc/hidden-sugar'>sugar free</a> like the rest.  It's a good compromise of <a href='/misc/hidden-sugar'>sugar free</a> flavored <a href='/misc/dairy#whey'>protein powder</a> and honey sweetened <a href='/misc/chocolate-benefits'>chocolate</a></li>
+          <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but <a href='/misc/chocolate-benefits'>chocolate</a> is good too</li>
           <li>Omit the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
-          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, but add 2 tbsp (42 g) honey and 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to the melted chocolate</li>
+          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but add 2 tbsp (42 g) honey and 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to the melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
         </ul><br>
   </ol>
 

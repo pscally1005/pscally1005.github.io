@@ -61,7 +61,7 @@ Description: Delicious <a href='/cookies'>cookies</a> made without <a href='/mis
 Instructions:
 - Combine the base ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (or any other <a href='https://amzn.to/4ceFnvP'>granular sweetener</a>), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, vanilla extract, baking soda, and salt
 
-- Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is <a href='/misc/grains#oats'>oat flour</a>, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
+- Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is <a href='/misc/grains#oats'>oat flour</a>, with some <a href='/misc/chocolate-benefits'>dark chocolate</a> chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
 
 - Preheat the oven to 350F and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Roll into <a href='/cookies'>cookies</a>, and flatten as desired (they won't flatten as they cook)
 - <img src='/assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-3.jpg' alt='' class='instruction-image'>

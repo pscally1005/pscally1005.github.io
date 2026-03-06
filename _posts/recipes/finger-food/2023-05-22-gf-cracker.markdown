@@ -68,7 +68,7 @@ Instructions:
 - Leaving the crackers on the paper, transfer to the sheet.  Bake at 350F for 16-20 minutes, or until lightly golden brown.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely
 - <img src='/assets/Food/Finger Food/GF Crackers/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- Alternatively, you can make these into chocolate <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a>.  Reduce the <a href='/misc/grains#oats'>oat flour</a> to 2 cups (180 g), and add 4 tbsp (20 g) of <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
+- Alternatively, you can make these into chocolate <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a>.  Reduce the <a href='/misc/grains#oats'>oat flour</a> to 2 cups (180 g), and add 4 tbsp (20 g) of <a href='/misc/chocolate-benefits'>cocoa powder</a>
 
 - |
   COMPARE(

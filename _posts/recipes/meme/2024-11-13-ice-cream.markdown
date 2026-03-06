@@ -60,7 +60,7 @@ Instructions:
 Notes:
 - <b>Vanilla</b> - 1 tsp (5 g) vanilla extract
 
-- <b>Chocolate</b> - 2 tbsp (10 g) <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
+- <b>Chocolate</b> - 2 tbsp (10 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>
 
 - <b>Mint</b> - 1/4 tsp (1.25 g) mint extract
 
@@ -74,5 +74,5 @@ Notes:
 
 - <b><a href='/cookies'>Cookie</a> Crumble</b> - 2 chocolate chip cookies
 
-- <b>Chocolate Chip</b> - 1 tbsp (15 g) mini chocolate chips
+- <b>Chocolate Chip</b> - 1 tbsp (15 g) mini <a href='/misc/chocolate-benefits'>chocolate chips</a>
 ---

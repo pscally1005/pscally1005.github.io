@@ -68,7 +68,7 @@ Instructions:
 
 - In a separate <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and maple syrup (or honey)
 
-- Pour the wet ingredients into the dry and mix just until smooth with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Optionally fold in some chocolate chips
+- Pour the wet ingredients into the dry and mix just until smooth with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Optionally fold in some <a href='/misc/chocolate-benefits'>chocolate chips</a>
 
 - Liberally grease a <a href='https://amzn.to/3T1ymDy'>mini muffin pan</a> with oil.  Evenly spoon the batter into the muffin holes
 - <img src='/assets/Food/Breakfast/Banana Bread/bb-raw.jpg' alt='' class='instruction-image'>

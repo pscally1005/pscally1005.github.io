@@ -59,7 +59,7 @@ Description: These <a href='/cookies'>cookies</a> are similar to my <a href='htt
 Instructions:
 - In a bowl, mix together the base ingredients - <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or any other liquid sweetener), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, vanilla extract, baking soda, and salt
 
-- Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is a mix of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/grains#oats'>oat flour</a>, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
+- Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is a mix of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/grains#oats'>oat flour</a>, with some <a href='/misc/chocolate-benefits'>dark chocolate</a> chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
 - <img src='/assets/Food/Healthier Dessert/SF Syrup/sf-syrup-2.jpg' alt='' class='instruction-image'>
 
 - Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment and preheat your oven to 350F. Scoop dough onto the sheet, and flatten into a <a href='/cookies'>cookie</a> (they won't flatten or spread as they bake)

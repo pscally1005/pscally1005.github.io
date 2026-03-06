@@ -78,7 +78,7 @@ Instructions:
 - Bake the crust for 10 minutes at 350F, then cool for at least 5 minutes
 - <img src='/assets/Food/Healthier Dessert/7 Layer/crust.jpg' alt='' class='instruction-image'>
 
-- As the <a href='/misc/dairy#skim-milk'>milk</a> boils and crust bakes, prepare your chocolate. Line a small <a href='https://amzn.to/4mPZcMW'>glass container</a> with parchment paper, and set aside. Combine <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='https://amzn.to/4mzsH5p'>allulose</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Pour into the parchment lined pan, and freeze for at least 15 minutes to harden
+- As the <a href='/misc/dairy#skim-milk'>milk</a> boils and crust bakes, prepare your chocolate. Line a small <a href='https://amzn.to/4mPZcMW'>glass container</a> with parchment paper, and set aside. Combine <a href='/misc/chocolate-benefits'>cocoa powder</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='https://amzn.to/4mzsH5p'>allulose</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Pour into the parchment lined pan, and freeze for at least 15 minutes to harden
 
 - Roughly chop your chocolate and your <a href='/misc/nuts'>nuts</a> (any 2 different kinds of <a href='/misc/nuts'>nuts</a> will do). Combine together with <a href='/misc/nuts#coconut'>coconut flakes</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a>
 - <img src='/assets/Food/Healthier Dessert/7 Layer/bowl.jpg' alt='' class='instruction-image'>

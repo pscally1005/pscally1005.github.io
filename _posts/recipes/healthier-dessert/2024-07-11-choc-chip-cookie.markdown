@@ -80,5 +80,5 @@ Notes:
 
 - I'm using blended <a href='/misc/fruit#dates'>dates</a> here as my sweetener, but any <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> will work, like <a href='/misc/fruit#raisins'>raisins</a>, <a href='/misc/fruit#fig-dried'>dried figs</a>, or <a href='/misc/fruit#prune'>prunes</a>
 
-- To make it vegan, swap the <a href='/misc/dairy#skim-milk'>milk</a> for either <a href='/misc/dairy#almond-milk'>almond milk</a> or water, and make sure to use vegan chocolate chips
+- To make it vegan, swap the <a href='/misc/dairy#skim-milk'>milk</a> for either <a href='/misc/dairy#almond-milk'>almond milk</a> or water, and make sure to use vegan <a href='/misc/chocolate-benefits'>chocolate chips</a>
 ---

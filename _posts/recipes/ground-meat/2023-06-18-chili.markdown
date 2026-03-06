@@ -68,7 +68,7 @@ Description: Chili is such a classic cold weather hearty meal, and this version 
 Instructions:
 - Chop up the <a href='/misc/veggies'>vegetables</a>, and add them to a large skillet with olive oil, <a href='/misc/veggies#garlic'>garlic</a>, and salt. Cook over medium heat (covered) until soft. Set <a href='/misc/veggies'>vegetables</a> aside in <a href='https://amzn.to/49TUS9E'>crock pot</a>
 
-- Meanwhile, drain and rinse the cans of <a href='/misc/beans'>beans</a>. Transfer all the <a href='/misc/beans'>beans</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a>, and <a href='/misc/veggies#tomato'>tomatoes</a> to the <a href='https://amzn.to/49TUS9E'>crock pot</a>
+- Meanwhile, drain and rinse the cans of <a href='/misc/beans'>beans</a>. Transfer all the <a href='/misc/beans'>beans</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, and <a href='/misc/veggies#tomato'>tomatoes</a> to the <a href='https://amzn.to/49TUS9E'>crock pot</a>
 
 - Add in the <a href='/misc/meat'>meat</a> and cook until no longer pink over medium heat, and transfer to <a href='https://amzn.to/49TUS9E'>crockpot</a>
 

@@ -54,7 +54,7 @@ Description: Do you know what to do with leftover <a href='/recipes/classic-tahi
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, beat your aquafaba and <a href='/misc/fruit#lemon-juice'>lemon juice</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> for about 3 minutes, or until foamy and you have soft peaks
 
-- Beat in the vanilla until fully combined. Next, beat in the maple syrup. Finally, beat in the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> until just fully combined.  Don't overbeat, or you'll deflate the mixture
+- Beat in the vanilla until fully combined. Next, beat in the maple syrup. Finally, beat in the <a href='/misc/chocolate-benefits'>cocoa powder</a> until just fully combined.  Don't overbeat, or you'll deflate the mixture
 
 - Freeze for 1 hour. Churn with your <a href='https://amzn.to/45yqsbM'>hand mixer</a>. Repeat 2 more times for a total of 3 hours
 
@@ -62,7 +62,7 @@ Instructions:
 Notes:
 - 1/2 tsp (2.5 g) <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> or 1/4 tsp (0.75 g) cream of tartar will also work in place of <a href='/misc/fruit#lemon-juice'>lemon juice</a>.  The acid (<a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/apple-cider-vinegar'>ACV</a>, etc.) is not for flavor, rather to help the aquafaba beat up foamier.  Please do not omit; you will not taste it
 
-- This ice cream can be eaten directly out of the freezer.  It doesn't need to sit out before scooping, but it will melt quickly.  Its texture is similar to a chocolate Italian ice
+- This ice cream can be eaten directly out of the freezer.  It doesn't need to sit out before scooping, but it will melt quickly.  Its texture is similar to a <a href='/misc/chocolate-benefits'>chocolate</a> Italian ice
 
 - Other sweetener options include the following
 - INGREDIENTS(sweetenersaquafabaicecream)

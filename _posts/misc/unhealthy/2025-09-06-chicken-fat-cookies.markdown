@@ -62,7 +62,7 @@ Description: Do I file this recipe under <a href='/recipes/meme'>Meme Recipes</a
 Instructions:
 - Preheat your oven to 350F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- Mix together the (melted) <a href='/misc/slow-cooker-chicken'>chicken fat</a>, water, <a href='/misc/hidden-sugar'>sugar</a>, and honey with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> or <a href='https://amzn.to/45yqsbM'>hand mixer</a> until fully combined and lightly fluffy. Beat in <a href='/misc/meat#eggs'>egg</a> and mix in vanilla, salt, and baking soda. Fully combine, then mix in the flour. Fold in the chocolate chips
+- Mix together the (melted) <a href='/misc/slow-cooker-chicken'>chicken fat</a>, water, <a href='/misc/hidden-sugar'>sugar</a>, and honey with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> or <a href='https://amzn.to/45yqsbM'>hand mixer</a> until fully combined and lightly fluffy. Beat in <a href='/misc/meat#eggs'>egg</a> and mix in vanilla, salt, and baking soda. Fully combine, then mix in the flour. Fold in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
 
 - Using a 1 tbsp cookie scoop, scoop the cookies onto the parchment lined trays. Leave about 1-2 inches between each cookie, as they'll flatten and spread as they bake
 - <img src='/assets/Misc/Unhealthy/Chicken Fat Cookies/raw.jpg' alt='' class='instruction-image'>

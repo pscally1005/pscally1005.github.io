@@ -66,8 +66,8 @@ Notes:
 
 - <a href='https://amzn.to/45wOzIv'>Liquid stevia</a> will also work in place of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
-- For a vanilla milkshake, omit the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and use a light colored <a href='/misc/beans'>bean</a> (like <a href='/misc/beans#navy-beans'>navy</a> or <a href='/misc/beans#chickpeas'>chickpea</a>)>
+- For a vanilla milkshake, omit the <a href='/misc/chocolate-benefits'>cocoa powder</a>, and use a light colored <a href='/misc/beans'>bean</a> (like <a href='/misc/beans#navy-beans'>navy</a> or <a href='/misc/beans#chickpeas'>chickpea</a>)>
 
-- You can also pour it into an airtight container and freeze it to get ice cream.  Freeze for about 4 hours, mixing every hour or so with a spoon to break up ice crystals.  Let sit out for about 20 minutes to soften before eating.  I prefer the milkshake, as the "ice cream" is more like a chocolate ice, but it's still very good
+- You can also pour it into an airtight container and freeze it to get ice cream.  Freeze for about 4 hours, mixing every hour or so with a spoon to break up ice crystals.  Let sit out for about 20 minutes to soften before eating.  I prefer the milkshake, as the "ice cream" is more like a <a href='/misc/chocolate-benefits'>chocolate</a> ice, but it's still very good
 - <img src='/assets/Food/Meme/Milkshake/bean-ice-cream.jpg' alt='' class='instruction-image'>
 ---

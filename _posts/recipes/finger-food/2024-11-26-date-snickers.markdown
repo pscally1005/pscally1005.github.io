@@ -53,7 +53,7 @@ tags:
 - peanut butter
 - natural peanut buter
 - dark chocolate
-Description: <a href='/misc/fruit#dates'>Date</a> snickers were a delicious trend a while ago. I've made them a few times, but I wanted to write it down here and share the "recipe", because they're a delicious snack that will even have any non-<a href='/recipes/healthier-dessert'>healthy dessert</a> eaters be impressed. They're simply just <a href='/misc/fruit#dates'>dates</a> filled with <a href='/recipes/natural-peanut-butter'>nut butter</a> and dipped in chocolate. I first had them when Vic made them for my birthday, and I've got to say they're one of the best things I've ever tasted
+Description: <a href='/misc/fruit#dates'>Date</a> snickers were a delicious trend a while ago. I've made them a few times, but I wanted to write it down here and share the "recipe", because they're a delicious snack that will even have any non-<a href='/recipes/healthier-dessert'>healthy dessert</a> eaters be impressed. They're simply just <a href='/misc/fruit#dates'>dates</a> filled with <a href='/recipes/natural-peanut-butter'>nut butter</a> and dipped in <a href='/misc/chocolate-benefits'>chocolate</a>. I first had them when Vic made them for my birthday, and I've got to say they're one of the best things I've ever tasted
 Instructions:
 - Line a small plate with a piece of parchment paper or aluminum foil, and set aside
 
@@ -62,7 +62,7 @@ Instructions:
 - Microwave your <a href='/misc/nuts#peanuts'>peanut butter</a> if necessary to get it liquidy, and fill each <a href='/misc/fruit#dates'>date</a> with a little bit of <a href='/misc/nuts#peanuts'>peanut butter</a>. Close the <a href='/misc/fruit#dates'>dates</a>, and place the plate in the freezer for 15 minutes to firm
 - <img src='/assets/Food/Finger Food/Date Snickers/date-pb.jpg' alt='' class='instruction-image'>
 
-- When firm, melt chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave until smooth. Lightly dip each <a href='/misc/fruit#dates'>date</a> into the chocolate, and return to the plate
+- When firm, melt chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave until smooth. Lightly dip each <a href='/misc/fruit#dates'>date</a> into the <a href='/misc/chocolate-benefits'>chocolate</a>, and return to the plate
 - <img src='/assets/Food/Finger Food/Date Snickers/date-choc.jpg' alt='' class='instruction-image'>
 
 - Optionally, sprinkle the tops with flaky salt.  Freeze for another 15 minutes to harden, and store leftovers in the fridge or freezer

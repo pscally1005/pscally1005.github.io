@@ -65,17 +65,17 @@ Instructions:
 
 - Start with the chocolate chips, since these will need to fully solidify in the fridge.  In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add the <a href='/misc/nuts#coconut'>coconut oil</a>, and melt in the microwave for 1:30
 
-- Add the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and a few grains of salt to the <a href='/misc/nuts#coconut'>coconut oil</a>, and mix until smooth
+- Add the <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and a few grains of salt to the <a href='/misc/nuts#coconut'>coconut oil</a>, and mix until smooth
 
-- Pour the chocolate into a parchment lined Tupperware, and refrigerate until solid, about 30 minutes
+- Pour the <a href='/misc/chocolate-benefits'>chocolate</a> into a parchment lined Tupperware, and refrigerate until solid, about 30 minutes
 
 - Meanwhile, move into the <a href='/cookies'>cookie</a> dough.  To a <a href='https://amzn.to/4q0AUjI'>food processor</a>, add your (drained and rinsed) <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and vanilla.  Maple syrup or honey can be used in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.  Blend until smooth, and transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
 
 - Mix the rest of the <a href='/cookies'>cookie</a> dough ingredients (<a href='/recipes/natural-peanut-butter'>nut butter</a>, salt, baking powder, and <a href='/misc/nuts#coconut'>coconut flour</a>) with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.  I've used <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, but <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, or <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a> would also work.  <a href='/misc/grains#oats'>Oat</a> or <a href='/misc/nuts#almonds'>almond flour</a> would probably work instead of <a href='/misc/nuts#coconut'>coconut</a>, but start with at least double by weight, and go on feel.  The dough should be slightly sticky
 
-- Let chill in the fridge for 15 minutes to cool down. The mix may warm up as it blends, so chilling it prevents the chocolate from melting
+- Let chill in the fridge for 15 minutes to cool down. The mix may warm up as it blends, so chilling it prevents the <a href='/misc/chocolate-benefits'>chocolate</a> from melting
 
-- Chop your chocolate into small chunks, and fold into the batter
+- Chop your <a href='/misc/chocolate-benefits'>chocolate</a> into small chunks, and fold into the batter
 
 - Scoop the batter onto your pan, and press down each <a href='/cookies'>cookie</a> until it is flat and round.  The <a href='/cookies'>cookies</a> will rise slightly in the oven, but they will not spread outward.  Lightly wet your hands to prevent sticking when shaping the <a href='/cookies'>cookies</a>
 

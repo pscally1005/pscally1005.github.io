@@ -69,7 +69,7 @@ Instructions:
 
 - Optionally, whisk in some <a href='/misc/creatine'>creatine</a> or <a href='/misc/magnesium'>magnesium</a>
 
-- Finally, whisk in the larger dry ingredients - <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/seeds#flax-seeds'>ground flax</a>, psyllium husk, <a href='/misc/dairy#casein'>casein</a>, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>
+- Finally, whisk in the larger dry ingredients - <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/seeds#flax-seeds'>ground flax</a>, psyllium husk, <a href='/misc/dairy#casein'>casein</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>
 
 - Transfer the raw batter to your prepared pan
 

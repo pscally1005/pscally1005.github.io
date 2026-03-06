@@ -79,7 +79,7 @@ Instructions:
 
 - Meanwhile, cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a medium dice, and add to the now empty pan with chili powder, cumin, and salt. Cook over medium heat (covered) until soft.  Add the <a href='/misc/veggies#garlic'>garlic</a>, cook for about 30 seconds (until fragrant), and transfer the <a href='/misc/veggies'>veggies</a> to your <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 
-- Drain and rinse the cans of <a href='/misc/beans'>beans</a>. Transfer all the <a href='/misc/beans'>beans</a>, canned <a href='/misc/veggies#tomato'>tomatoes</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
+- Drain and rinse the cans of <a href='/misc/beans'>beans</a>. Transfer all the <a href='/misc/beans'>beans</a>, canned <a href='/misc/veggies#tomato'>tomatoes</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 
 - Mix, cover, and cook for 8 hours on low or 6 hours on high
 - <img src='/assets/Food/Ground Meat/Peanut Chili/crockpot.jpg' alt='' class='instruction-image'>

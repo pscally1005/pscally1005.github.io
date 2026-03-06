@@ -64,7 +64,7 @@ Instructions:
 - In a bowl, combine together the crust/crumble ingredients - mashed <a href='/misc/fruit#banana'>banana</a>, honey, vanilla, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/grains#oats'>quick oats</a>. Mix until well combined
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Fudge/of-oats.jpg' alt='' class='instruction-image'>
 
-- In another bowl, add the melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, honey, and <a href='/misc/nuts#peanuts'>peanut butter</a>. Mix with a <a href='https://amzn.to/40F2aK0'>spatula</a>.  Melt chocolate in the microwave, and mix with the <a href='/misc/nuts#peanuts'>peanut butter</a> to make the fudge
+- In another bowl, add the melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, honey, and <a href='/misc/nuts#peanuts'>peanut butter</a>. Mix with a <a href='https://amzn.to/40F2aK0'>spatula</a>.  Melt chocolate in the microwave, and mix with the <a href='/misc/nuts#peanuts'>peanut butter</a> to make the fudge
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Fudge/of-fudge.jpg' alt='' class='instruction-image'>
 
 - In a lined <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a>, spread 2/3 of the oat mixture. Lightly wet your hands to prevent sticking, and flatten to an even thickness
@@ -81,12 +81,12 @@ Instructions:
 Notes:
 - <a href='/misc/grains#oats'>Oat flour</a> will work in place of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> if you desire
 
-- You could also use 1 cup (170 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> in place of the <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and honey
+- You could also use 1 cup (170 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> in place of the <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and honey
 
 - To make this recipe <a href='/misc/nuts'>nut</a> free, you can use <a href='/misc/nuts#coconut'>coconut flour</a> or <a href='/misc/grains#oats'>oat flour</a> in place of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> for the crust, and <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> in place of <a href='/misc/nuts#peanuts'>peanut butter</a> for the filling
 
 - |
-  For a <a href='/misc/hidden-sugar'>sugar free</a> and lower <a href='/misc/fats'>fat</a> version, omit the honey in the crust/crumble, and replace the filling (<a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and honey) with 6 servings of <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a>
+  For a <a href='/misc/hidden-sugar'>sugar free</a> and lower <a href='/misc/fats'>fat</a> version, omit the honey in the crust/crumble, and replace the filling (<a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and honey) with 6 servings of <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a>
   <br><br>
   The result is 16 bars with the following macros
   <ul>

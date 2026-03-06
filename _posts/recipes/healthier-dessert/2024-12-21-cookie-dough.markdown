@@ -58,7 +58,7 @@ Description: Who else agrees that raw cookie dough is better than the actual bak
 Instructions:
 - Melt your <a href='/recipes/natural-peanut-butter'>nut butter</a> and <a href='/misc/fats'>oil</a> in the microwave for about 45 seconds in a <a href='https://amzn.to/4adxMft'>glass bowl</a>. Stir in the honey, vanilla, and salt with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the <a href='/misc/grains#oats'>oat flour</a> until fully incorporated and slightly sticky.
 
-- Chill the dough in the fridge for at least 15 minutes before folding in the chocolate chips
+- Chill the dough in the fridge for at least 15 minutes before folding in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
 
 - Use a cookie scoop or a spoon to scoop your dough onto a plate (about 20 g each). Roll with your hands into a ball, and store in the fridge
 Notes:
@@ -70,7 +70,7 @@ Notes:
 
 - You can also used <a href='/misc/fruit#dates'>dates</a> (or <a href='/misc/fruit#raisins'>raisins</a> or <a href='/misc/fruit#fig-dried'>figs</a>) if you prefer.  Blend together the <a href='/recipes/natural-peanut-butter'>nut butter</a> with 1/2 cup (80 g) of <a href='/misc/fruit#dates'>dates</a> until smooth, and transfer to a bowl.  Mix in the rest of the ingredients, but reduce the <a href='/misc/grains#oats'>oat flour</a> to 1 cup (90 g)
 
-- Replace 1/4 cup (20 g) of <a href='/misc/grains#oats'>oat flour</a> with <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> for a double chocolate cookie dough
+- Replace 1/4 cup (20 g) of <a href='/misc/grains#oats'>oat flour</a> with <a href='/misc/chocolate-benefits'>cocoa powder</a> for a double <a href='/misc/chocolate-benefits'>chocolate</a> cookie dough
 
 - For the chocolate, you can go with either dark chocolate chips or chopped chunks of dark chocolate.  You can also try <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a>, chopped up <a href='/recipes/chocolate-bar'>Sugar Free Chocolate Bar</a>, <a href='/misc/fruit#raisins'>raisins</a>, or chopped <a href='/misc/nuts'>nuts</a>
 

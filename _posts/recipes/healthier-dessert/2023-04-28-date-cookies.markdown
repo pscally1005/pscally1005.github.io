@@ -61,9 +61,9 @@ Instructions:
 
 - Blend the <a href='/misc/fruit#dates'>dates</a> in a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend in <a href='/misc/nuts#almonds'>nut flour</a> too.  Blend until you have a crumbly looking dough, but slightly sticky
 
-- Add the rest of the ingredients (except for the chocolate chips) and blend to combine
+- Add the rest of the ingredients (except for the <a href='/misc/chocolate-benefits'>chocolate chips</a>) and blend to combine
 
-- Fold in chocolate chips. Let the batter chill in the fridge for an hour to make it easier to work with
+- Fold in <a href='/misc/chocolate-benefits'>chocolate chips</a>. Let the batter chill in the fridge for an hour to make it easier to work with
 - <img src='/assets/Food/Healthier Dessert/Date Cookie/date-cookie-4.jpg' alt='' class='instruction-image'>
 
 - Scoop and roll into balls. Place on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Lightly press down, and shape into a circle. Wetting your hands a little helps the dough from sticking everywhere

@@ -57,18 +57,18 @@ tags:
 - bread
 - cake
 - mini muffin
-Description: <a href='/misc/fake-healthy-foods#banana-bread'>Banana bread</a> is a great <a href='/recipes/healthier-dessert'>dessert</a> for a crowd, and this healthy chocolate <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> is a great way to still feel your best at sweets time. This <a href='/recipes/healthier-dessert'>dessert</a> is minimally sweetened with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or honey or maple syrup), and fully brings out the flavor of the <a href='/misc/fruit#banana'>bananas</a> and the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a> for a delicious <a href='/brownies'>brownie</a> flavored <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>.  It's very similar to my <a href='/recipes/pbj-muffin'>Peanut Butter and Jelly Muffins</a> and my <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a>, which you should also check out.  For some other <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> recipes, see my <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a> and <a href='/recipes/no-nut-protein-banana-bread'>No Nut Protein Banana Bread</a>
+Description: <a href='/misc/fake-healthy-foods#banana-bread'>Banana bread</a> is a great <a href='/recipes/healthier-dessert'>dessert</a> for a crowd, and this healthy chocolate <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> is a great way to still feel your best at sweets time. This <a href='/recipes/healthier-dessert'>dessert</a> is minimally sweetened with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or honey or maple syrup), and fully brings out the flavor of the <a href='/misc/fruit#banana'>bananas</a> and the <a href='/misc/chocolate-benefits'>cocoa</a> for a delicious <a href='/brownies'>brownie</a> flavored <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>.  It's very similar to my <a href='/recipes/pbj-muffin'>Peanut Butter and Jelly Muffins</a> and my <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a>, which you should also check out.  For some other <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> recipes, see my <a href='/recipes/banana-protein'>Protein Banana Nut Bread</a> and <a href='/recipes/no-nut-protein-banana-bread'>No Nut Protein Banana Bread</a>
 Instructions:
 - Preheat the oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the inside of the paper as well
 
-- Whisk together dry ingredients (<a href='/misc/grains#oats'>oats</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, cornstarch, baking soda, and salt) in a bowl
+- Whisk together dry ingredients (<a href='/misc/grains#oats'>oats</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, cornstarch, baking soda, and salt) in a bowl
 
 - In a separate bowl, mash your <a href='/misc/fruit#banana'>bananas</a>. Add the rest of the wet ingredients (<a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>) to the bowl and mix
 
-- Pour the wet ingredients into the dry, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Fold in the chocolate chips
+- Pour the wet ingredients into the dry, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Fold in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
 - <img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer the batter to the lined pan, and optionally top with a few extra chocolate chips
+- Transfer the batter to the lined pan, and optionally top with a few extra <a href='/misc/chocolate-benefits'>chocolate chips</a>
 - <img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-raw.jpg' alt='' class='instruction-image'>
 
 - Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty and wet, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be around <a href='https://amzn.to/4kmobG2'>205F</a>

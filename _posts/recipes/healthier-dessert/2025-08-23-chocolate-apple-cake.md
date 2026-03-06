@@ -50,7 +50,7 @@ Description: Sharing is caring, right?  <a href='https://youtu.be/1TJNrYfIJBg?si
 Instructions: 
 - Preheat your oven to 350F. Line a small oven safe bowl with parchment paper, and lightly grease the paper
 
-- Dice your <a href='/misc/fruit#apple'>apple</a>, and add to a <a href='https://amzn.to/3VHhgMM'>small food processor</a> with an <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and baking powder. Blend until smooth, and no chunks of <a href='/misc/fruit#apple'>apple</a> remain
+- Dice your <a href='/misc/fruit#apple'>apple</a>, and add to a <a href='https://amzn.to/3VHhgMM'>small food processor</a> with an <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and baking powder. Blend until smooth, and no chunks of <a href='/misc/fruit#apple'>apple</a> remain
 - <img src='/assets/Food/Healthier Dessert/Chocolate apple cake/processor.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the bowl, and smooth out the top

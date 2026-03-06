@@ -58,6 +58,6 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/nuts#coconut'>coconut flakes</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and honey until you have a fully combined dough. Place a thin and even layer of the <a href='/misc/nuts#coconut'>coconut</a> mixture on top of each <a href='/misc/fruit#apple'>apple</a> slice
 - <img src='/assets/Food/Finger Food/Apple Samoas/separate.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a>, and microwave for 20 seconds. Stir until fully melted. Drizzle the chocolate on top of the "cookies", and refrigerate until the chocolate is hardened
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a>, and microwave for 20 seconds. Stir until fully melted. Drizzle the <a href='/misc/chocolate-benefits'>chocolate</a> on top of the "cookies", and refrigerate until the <a href='/misc/chocolate-benefits'>chocolate</a> is hardened
 Notes:
 ---

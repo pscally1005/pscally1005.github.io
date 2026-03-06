@@ -55,7 +55,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the wet ingredients - <a href='/misc/nuts#almonds'>almond butter</a>, honey, <a href='/misc/meat#eggs'>eggs</a>, and vanilla
 
-- Add in the dry ingredients (baking powder, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and <a href='/misc/nuts#almonds'>almond flour</a>), and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
+- Add in the dry ingredients (baking powder, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/misc/nuts#almonds'>almond flour</a>), and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 - <img src='/assets/Food/Healthier Dessert/Bulking brownies/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top

@@ -111,9 +111,9 @@ Instructions:
 
 - |
   <i>Chocolate Coating</i><br>
-  The next day, melt half your <a href='/misc/nuts#coconut'>coconut oil</a> (2 tbsp, 28 g) in the microwave, and stir in half the <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> (5 tbsp, 25 g) and half the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (2 tbsp, 25 g) until smooth. Evenly spread across the red layer on top in the pan. Refrigerate for at least 30 minutes to harden the chocolate<br><br>
+  The next day, melt half your <a href='/misc/nuts#coconut'>coconut oil</a> (2 tbsp, 28 g) in the microwave, and stir in half the <a href='/misc/chocolate-benefits'>cocoa powder</a> (5 tbsp, 25 g) and half the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (2 tbsp, 25 g) until smooth. Evenly spread across the red layer on top in the pan. Refrigerate for at least 30 minutes to harden the <a href='/misc/chocolate-benefits'>chocolate</a><br><br>
 
-  Flip over, and repeat with the other half of the chocolate on the green layer.  Again, refrigerate for 30 minutes
+  Flip over, and repeat with the other half of the <a href='/misc/chocolate-benefits'>chocolate</a> on the green layer.  Again, refrigerate for 30 minutes
 - <img src='/assets/Food/Healthier Dessert/Rainbow New/choc-bowl.jpg' alt='' class='instruction-image'>
 
 - |
@@ -133,9 +133,9 @@ Notes:
 
 - <a href='/misc/fruit#raspberry'>Raspberries</a> are the traditional choice for the jam, but they can be very expensive.  For me, 12 oz of frozen <a href='/misc/fruit#raspberry'>raspberries</a> is $4.48, but I can get 32 oz of frozen <a href='/misc/fruit#strawberries'>strawberries</a> for just $4.00.  Swapping the <a href='/misc/fruit#raspberry'>raspberries</a> for <a href='/misc/fruit#strawberries'>strawberries</a> cuts the total cost down from $9.84 to $7.10, or down from $0.27 to $0.20 per cookie, saving $2.74
 
-- Alternatively, you can use 1 cup (180 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> (1/2 cup, 90 g per layer) instead of homemade chocolate
+- Alternatively, you can use 1 cup (180 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> (1/2 cup, 90 g per layer) instead of homemade <a href='/misc/chocolate-benefits'>chocolate</a>
 
-- For a lower <a href='/misc/calories'>calorie</a>, <a href='/misc/carbs'>net carb</a>, and <a href='/misc/hidden-sugar'>sugar</a> version, replace the 1/4 cup (40 g) of <a href='/misc/fruit#dates'>dates</a> in each of the 3 layers, as well as the jam, with 2 tbsp (25 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, for a total of 1/2 cup (100 g), in addition to the sweetener in the melted chocolate
+- For a lower <a href='/misc/calories'>calorie</a>, <a href='/misc/carbs'>net carb</a>, and <a href='/misc/hidden-sugar'>sugar</a> version, replace the 1/4 cup (40 g) of <a href='/misc/fruit#dates'>dates</a> in each of the 3 layers, as well as the jam, with 2 tbsp (25 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, for a total of 1/2 cup (100 g), in addition to the sweetener in the melted <a href='/misc/chocolate-benefits'>chocolate</a>
 
 - |
   COMPARE(

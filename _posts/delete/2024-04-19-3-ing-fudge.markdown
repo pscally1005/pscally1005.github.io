@@ -51,9 +51,9 @@ tags:
 - natural peanut butter
 - unsweetened
 - maple syrup
-Description: This easy fudge is made with just 3 simple ingredients - melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, and <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>. I love this bittersweet treat, but you can add some maple syrup to taste if you like it a bit sweeter than I do
+Description: This easy fudge is made with just 3 simple ingredients - melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>. I love this bittersweet treat, but you can add some maple syrup to taste if you like it a bit sweeter than I do
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for about a minute, until fully melted. Stir in <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>. Add <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> to taste if desired
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for about a minute, until fully melted. Stir in <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>. Add <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> to taste if desired
 - <img src='/assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-1.jpg' alt='' class='instruction-image'>
 
 - Transfer to a parchment lined container (<a href='https://amzn.to/3Ffts2R'>mine</a>, are 6.2 x 4.5 "). If you want to scale this up, double the recipe for a <a href='https://amzn.to/3YUjIkN'>9 x 5" bread pan</a>, or triple for an <a href='https://amzn.to/3YY2H9q'>9" square pan</a>

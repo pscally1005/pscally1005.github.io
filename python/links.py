@@ -5241,7 +5241,9 @@ LINKS = {
         "cocoa powder",
         "cocoa",
         "cacao powder",
-        "cacao"
+        "cacao",
+        "chocolate chips",
+        "chocolate"
     ],
 
     # FAKE HEALTHY FOODS
@@ -6499,7 +6501,7 @@ EXCLUDED_PHRASES = [
     "oil between making",
     "oil for about",
     "out of the iron",
-    "chocolate chips",
+    # "chocolate chips",
     "chocolate chip",
     "later date",
     "waffle iron",

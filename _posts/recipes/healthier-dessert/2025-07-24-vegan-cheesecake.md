@@ -56,7 +56,7 @@ Description: Most cheesecake is filled with so much <a href='/misc/dairy#cream-c
 Instructions: 
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/4aiCsjh'>9x13" baking pan</a> with parchment paper, and lightly grease the paper
 
-- Drain and rinse your <a href='/misc/beans#chickpeas'>chickpeas</a>. Drain your <a href='/misc/beans#tofu'>tofu</a>. Add all ingredients (<a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/beans#tofu'>tofu</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a>, vanilla, and <a href='/misc/dairy#almond-milk'>almond milk</a>) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth. There should be no chunks of <a href='/misc/fruit#dates'>dates</a> or <a href='/misc/beans#chickpeas'>chickpeas</a> in the batter
+- Drain and rinse your <a href='/misc/beans#chickpeas'>chickpeas</a>. Drain your <a href='/misc/beans#tofu'>tofu</a>. Add all ingredients (<a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/beans#tofu'>tofu</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, vanilla, and <a href='/misc/dairy#almond-milk'>almond milk</a>) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth. There should be no chunks of <a href='/misc/fruit#dates'>dates</a> or <a href='/misc/beans#chickpeas'>chickpeas</a> in the batter
 - <img src='/assets/Food/Healthier Dessert/Vegan cheesecake/processor.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top

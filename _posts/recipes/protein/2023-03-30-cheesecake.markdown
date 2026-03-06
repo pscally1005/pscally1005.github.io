@@ -56,7 +56,7 @@ Description: This <a href='/misc/nuts#peanuts'>peanut butter</a> cheesecake is a
 Instructions:
 - Mix ingredients together in a bowl or <a href='https://amzn.to/4q0AUjI'>food processor</a> until smooth - whipped <a href='/misc/dairy#cottage-cheese'>fat free cottage cheese</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cornstarch, vanilla, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
-- Line an <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> with parchment paper and <a href='https://amzn.to/3Hdg0gk'>spray</a>. Pour in the mixture and even out. Optionally top with chocolate chips (2 tbsp, 30 g)
+- Line an <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> with parchment paper and <a href='https://amzn.to/3Hdg0gk'>spray</a>. Pour in the mixture and even out. Optionally top with <a href='/misc/chocolate-benefits'>chocolate chips</a> (2 tbsp, 30 g)
 
 - Bake for about 25-30 minutes at 350F. The center should lightly jiggle when the side of the pan is tapped. If it jiggles too much, continue to bake for an additional few minutes
 - <img src='/assets/Food/Protein Powder/Cheesecake/cheesecake-3.jpg' alt='' class='instruction-image'>

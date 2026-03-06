@@ -65,7 +65,7 @@ Instructions:
 
 - Add water to a medium glass, and microwave for 1 minute, until hot. Mix in the coffee, and set aside
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the flour, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, baking powder, cinnamon, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the flour, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, cinnamon, and salt
 
 - In a separate bowl, add your <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and <a href='/misc/meat#eggs'>eggs</a>. Beat until smooth with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 

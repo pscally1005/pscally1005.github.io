@@ -60,11 +60,11 @@ Instructions:
 - For the <a href='/misc/fruit#strawberries'>strawberry</a>, add 1 <a href='/misc/fruit#banana'>banana</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with frozen <a href='/misc/fruit#strawberries'>strawberries</a>. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in <a href='/misc/dairy#skim-milk'>milk</a>. Transfer to a <a href='https://amzn.to/3YUjIkN'>loaf pan</a>, only filling up 1/3 of the right side of the pan
 - <img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-4.jpg' alt='' class='instruction-image'>
 
-- Finally, for the chocolate, add 2 <a href='/misc/fruit#banana'>bananas</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in the <a href='/misc/dairy#skim-milk'>milk</a> and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa</a>. Transfer to a <a href='https://amzn.to/3YUjIkN'>loaf pan</a>, filling in the 1/3 gap in the center
+- Finally, for the chocolate, add 2 <a href='/misc/fruit#banana'>bananas</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in the <a href='/misc/dairy#skim-milk'>milk</a> and <a href='/misc/chocolate-benefits'>cocoa</a>. Transfer to a <a href='https://amzn.to/3YUjIkN'>loaf pan</a>, filling in the 1/3 gap in the center
 - <img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-5.jpg' alt='' class='instruction-image'>
 
 - Add plastic wrap to the top of the ice cream, pressing it in to make sure there's no gap between. Transfer to the freezer to store and firm before scooping, or enjoy right away
 - <img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-6.jpg' alt='' class='instruction-image'>
 Notes:
-- In order to keep the colors consistent, it's better to go from lightest to darkest color in order. Meaning, start with the vanilla, then <a href='/misc/fruit#strawberries'>strawberry</a>, then finish with the chocolate
+- In order to keep the colors consistent, it's better to go from lightest to darkest color in order. Meaning, start with the vanilla, then <a href='/misc/fruit#strawberries'>strawberry</a>, then finish with the <a href='/misc/chocolate-benefits'>chocolate</a>
 ---

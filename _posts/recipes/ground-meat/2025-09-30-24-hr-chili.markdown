@@ -77,7 +77,7 @@ Instructions:
 
 - The <a href='/misc/beans'>beans</a> should be done cooking around 2 pm. If you started the <a href='/misc/meat'>meat</a> and <a href='/misc/veggies'>veggies</a> around 1pm, you should have them done around the same time
 
-- Combine together your <a href='/misc/beans'>beans</a>, <a href='/misc/meat'>meat</a>, <a href='/misc/veggies'>veggies</a>, canned <a href='/misc/veggies#tomato'>tomatoes</a>, and <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> in the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
+- Combine together your <a href='/misc/beans'>beans</a>, <a href='/misc/meat'>meat</a>, <a href='/misc/veggies'>veggies</a>, canned <a href='/misc/veggies#tomato'>tomatoes</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a> in the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 - <img src='/assets/Food/Ground Meat/24 Hour Chili/separate.jpg' alt='' class='instruction-image'>
 
 - Cover and cook on low for 8 hours. The <a href='/recipes/chili'>chili</a> should be done around 10pm. Divide into 6 containers, refrigerate, and go to bed. You earned it

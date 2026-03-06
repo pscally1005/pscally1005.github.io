@@ -64,7 +64,7 @@ Instructions:
 
 - In a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the dry ingredients until well combined - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, baking powder, cinnamon, baking soda, and salt
 
-- Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped <a href='/misc/nuts'>nuts</a> or chocolate chips (1/2 cup, 85 g).  Transfer the batter to the pan
+- Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped <a href='/misc/nuts'>nuts</a> or <a href='/misc/chocolate-benefits'>chocolate chips</a> (1/2 cup, 85 g).  Transfer the batter to the pan
 
 - Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>. Let cook on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> before slicing.  Transfer to a fridge in a bag or container
 - <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg' alt='' class='instruction-image'>

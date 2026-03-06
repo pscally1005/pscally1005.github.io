@@ -65,7 +65,7 @@ Instructions:
 - Mix in the <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, baking powder, salt, vanilla extract, and <a href='/misc/dairy#almond-milk'>almond milk</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Quest Cookie/bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer your <a href='/cookies'>cookie</a> dough to a small piece of parchment paper. Flatten to a 1/4" circle. Press the chocolate chips into the top
+- Transfer your <a href='/cookies'>cookie</a> dough to a small piece of parchment paper. Flatten to a 1/4" circle. Press the <a href='/misc/chocolate-benefits'>chocolate chips</a> into the top
 - <img src='/assets/Food/Protein Powder/Quest Cookie/raw.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for about 10 minutes, or until lightly golden

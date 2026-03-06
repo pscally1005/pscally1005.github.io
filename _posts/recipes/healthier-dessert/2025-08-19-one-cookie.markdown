@@ -58,9 +58,9 @@ Description: Do you ever just want one <a href='/cookies'>cookie</a>?  You want 
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F on the <a href='https://amzn.to/3FuWETp'>air fry</a> setting
 
-- Mix together <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and vanilla extract until smooth and you have a cookie dough texture. Fold in 2/3 (10 g) of your chocolate chips
+- Mix together <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and vanilla extract until smooth and you have a cookie dough texture. Fold in 2/3 (10 g) of your <a href='/misc/chocolate-benefits'>chocolate chips</a>
 
-- Flatten the cookie onto a small piece of parchment paper, shape into a circle, and top with your remaining chocolate chips
+- Flatten the cookie onto a small piece of parchment paper, shape into a circle, and top with your remaining <a href='/misc/chocolate-benefits'>chocolate chips</a>
 - <img src='/assets/Food/Healthier Dessert/One cookie/raw.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for about 12 minutes, or until golden brown

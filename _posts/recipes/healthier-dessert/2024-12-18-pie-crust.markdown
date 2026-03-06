@@ -60,7 +60,7 @@ Instructions:
 - Blind bake the pie crust at 350F for about 10 minutes, or until lightly golden brown on the edges. Let cool completely before filling
 - <img src='/assets/Food/Healthier Dessert/Pie Crust/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- I'm using my standard <a href='/recipes/gf-crackers'>Gluten Free Graham Crackers</a> here, but you can make this into a chocolate graham cracker pie crust by using chocolate graham crackers instead
+- I'm using my standard <a href='/recipes/gf-crackers'>Gluten Free Graham Crackers</a> here, but you can make this into a <a href='/misc/chocolate-benefits'>chocolate</a> graham cracker pie crust by using <a href='/misc/chocolate-benefits'>chocolate</a> graham crackers instead
 
 - |
   COMPARE(

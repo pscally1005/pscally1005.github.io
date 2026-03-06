@@ -53,19 +53,19 @@ tags:
 - chickpeas
 - garbanzo beans
 Description: |
-  Delicious <a href='/cookies'>cookies</a> made from a base of <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and <a href='/recipes/natural-peanut-butter'>natural nut butter</a>!  These are a variation of my <a href='/recipes/chocolate-chip-date-cookies'>Chocolate Chip Date Cookies</a>, with added <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> for that delicious double chocolate, <a href='/brownies'>brownie</a> flavored <a href='/cookies'>cookie</a>.  They're <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/fats'>oil</a> free, and <a href='/misc/celiac'>gluten free</a>.<br><br>
+  Delicious <a href='/cookies'>cookies</a> made from a base of <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and <a href='/recipes/natural-peanut-butter'>natural nut butter</a>!  These are a variation of my <a href='/recipes/chocolate-chip-date-cookies'>Chocolate Chip Date Cookies</a>, with added <a href='/misc/chocolate-benefits'>cocoa powder</a> for that delicious double chocolate, <a href='/brownies'>brownie</a> flavored <a href='/cookies'>cookie</a>.  They're <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/fats'>oil</a> free, and <a href='/misc/celiac'>gluten free</a>.<br><br>
 
   For other delicious variations, check out my <a href='/recipes/peanut-butter-date-cookies'>Peanut Butter Date Cookies</a>, <a href='/recipes/mint-chocolate-chip-date-cookies'>Mint Chocolate Chip Date Cookies</a>, and <a href='/recipes/oatmeal-raisin-cookies'>Naturally Sweetened Oatmeal Raisin Cookies</a>.  Or make them all and taste test them to see which ones you like the best!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add the <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a>, <a href='/misc/dairy#skim-milk'>milk</a> (or water), vanilla, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until smooth
+- Add the <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/dairy#skim-milk'>milk</a> (or water), vanilla, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until smooth
 - <img src='/assets/Food/Healthier Dessert/Double Choc Cookie/unblended.jpg' alt='' class='instruction-image'>
 
-- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> (or reserve them to top with the chocolate chips). The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
+- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> (or reserve them to top with the <a href='/misc/chocolate-benefits'>chocolate chips</a>). The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
 - <img src='/assets/Food/Healthier Dessert/Double Choc Cookie/blended.jpg' alt='' class='instruction-image'>
 
-- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be.  Instead of folding the chocolate chips into the batter, you can press them into the top of the cookies here
+- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be.  Instead of folding the <a href='/misc/chocolate-benefits'>chocolate chips</a> into the batter, you can press them into the top of the cookies here
 
 - Bake for about 14 minutes at 350F, or until the cookies are set to the touch
 - <img src='/assets/Food/Healthier Dessert/Double Choc Cookie/baked.jpg' alt='' class='instruction-image'>
@@ -78,5 +78,5 @@ Notes:
 
 - I'm using blended <a href='/misc/fruit#dates'>dates</a> here as my sweetener, but any <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> will work, like <a href='/misc/fruit#raisins'>raisins</a>, <a href='/misc/fruit#fig-dried'>dried figs</a>, or <a href='/misc/fruit#prune'>prunes</a>
 
-- To make it vegan, swap the <a href='/misc/dairy#skim-milk'>milk</a> for either <a href='/misc/dairy#almond-milk'>almond milk</a> or water, and make sure to use vegan chocolate chips
+- To make it vegan, swap the <a href='/misc/dairy#skim-milk'>milk</a> for either <a href='/misc/dairy#almond-milk'>almond milk</a> or water, and make sure to use vegan <a href='/misc/chocolate-benefits'>chocolate chips</a>
 ---

@@ -47,7 +47,7 @@ Instructions:
 - Line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with parchment paper, and prepare 48 <a href='/misc/fake-healthy-foods#pretzels'>pretzels</a>. Place a small scoop of the dough (about 7 g) onto one <a href='/misc/fake-healthy-foods#pretzels'>pretzel</a>, and sandwich with another on top. Add to the sheet, and repeat to make 24 pretzel nuggets
 - <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/in-progress.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a>. Microwave in 30 second intervals, stirring in between, until you have a smooth melted chocolate. Lightly paint the tops of each pretzel nugget in chocolate, and return to the pan. Refrigerate to harden, and serve
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a>. Microwave in 30 second intervals, stirring in between, until you have a smooth melted <a href='/misc/chocolate-benefits'>chocolate</a>. Lightly paint the tops of each pretzel nugget in <a href='/misc/chocolate-benefits'>chocolate</a>, and return to the pan. Refrigerate to harden, and serve
 - <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/done.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Misc/Unhealthy/Pretzel Nuggets/cover-1.jpg' alt='' class='instruction-image'>
 Notes:

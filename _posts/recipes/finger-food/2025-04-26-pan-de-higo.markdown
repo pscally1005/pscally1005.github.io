@@ -63,7 +63,7 @@ Instructions:
 - <img src='/assets/Food/Finger Food/Pan de Higo/covered.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Finger Food/Pan de Higo/not-covered.jpg' alt='' class='instruction-image'>
 
-- Chill in the fridge for at least 1 hour before slicing.  Optionally, coat the outsides of the cut pieces in <a href='/misc/overshadowed-healthy-foods#chocolate'>cocoa powder</a> to prevent sticking
+- Chill in the fridge for at least 1 hour before slicing.  Optionally, coat the outsides of the cut pieces in <a href='/misc/chocolate-benefits'>cocoa powder</a> to prevent sticking
 - <img src='/assets/Food/Finger Food/Pan de Higo/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - Any <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> can work in place of <a href='/misc/fruit#fig-dried'>figs</a>, such as <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/fruit#raisins'>raisins</a>, or <a href='/misc/fruit#prune'>prunes</a>
