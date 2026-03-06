@@ -78,7 +78,7 @@ Calories,88,,
 "Tyrosine",0.066,g,
 "Valine",0.104,g,5 %
 "Phenylalanine + Tyrosine",0.162,g,6 %
-"Methionine + Cysteine",0.072,g,5 %
+"Methionine + Cysteine",0.09,g,6 %
 "Carbohydrate",19.43,g,7 %
 "Fiber",1.44,g,5 %
 "Starch",2.17,g,
@@ -153,6 +153,6 @@ Calories,88,,
 "PUFA 18:2 c",0.09,g,
 "PUFA 18:3 c",0,g,
 "PUFA 20:3 c",0,g,
-"Theobromine",0,mg,
+"Theobromine",57.85,mg,
 "Trans-Octadecadienoic acid",0.02,g,
 "Water",6.55,g,
