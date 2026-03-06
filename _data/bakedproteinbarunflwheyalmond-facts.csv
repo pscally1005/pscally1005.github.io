@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,181,,
+Calories,175,,
 "Vitamin A, RAE",86.47,mcg,10 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0.52,mcg,
@@ -68,13 +68,13 @@ Calories,181,,
 "Tyrosine",0.583,g,
 "Valine",0.995,g,51 %
 "Phenylalanine + Tyrosine",1.277,g,47 %
-"Methionine + Cysteine",0.699,g,45 %
-"Carbohydrate",19.16,g,7 %
+"Methionine + Cysteine",1.06,g,68 %
+"Carbohydrate",19.17,g,7 %
 "Fiber",3.36,g,12 %
-"Sugars",2.34,g,
-"Net carbs",15.8,g,
-"Fat",9.608,g,12 %
-"Saturated fatty acids",2.287,g,11 %
+"Sugars",2.35,g,
+"Net carbs",15.81,g,
+"Fat",9.061,g,12 %
+"Saturated fatty acids",2.017,g,10 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Dodecanoic acid",0,g,
@@ -83,12 +83,12 @@ Calories,181,,
 "Octadecanoic acid",0,g,
 "Octanoic acid",0,g,
 "Tetradecanoic acid",0,g,
-"Monounsaturated fatty acids",4.147,g,
+"Monounsaturated fatty acids",4.257,g,
 "Docosenoic acid",0,g,
 "Eicosenoic acid",0,g,
 "Hexadecenoic acid",0,g,
 "Octadecenoic acid",0,g,
-"Polyunsaturated fatty acids",1.503,g,
+"Polyunsaturated fatty acids",1.712,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
@@ -97,9 +97,9 @@ Calories,181,,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0,g,
 "Fatty acids, total trans",0,g,
-"Cholesterol",40.91,mg,14 %
+"Cholesterol",46.36,mg,15 %
 "Alcohol, ethyl",0.8,g,
 "Ash",0.01,g,
 "Caffeine",11.5,mg,
-"Theobromine",0,mg,
-"Water",109.15,g,
+"Theobromine",102.85,mg,
+"Water",111.88,g,

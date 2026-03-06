@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,213,,
+Calories,208,,
 "Vitamin A, RAE",87.91,mcg,10 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0.52,mcg,
@@ -53,21 +53,21 @@ Calories,213,,
 "Tyrosine",0.82,g,
 "Valine",1.297,g,66 %
 "Phenylalanine + Tyrosine",1.746,g,65 %
-"Methionine + Cysteine",0.853,g,55 %
-"Carbohydrate",13.92,g,5 %
+"Methionine + Cysteine",1.24,g,80 %
+"Carbohydrate",13.93,g,5 %
 "Fiber",3.17,g,11 %
-"Sugars",8.85,g,
-"Net carbs",10.75,g,
-"Fat",8.801,g,11 %
-"Saturated fatty acids",2.29,g,11 %
-"Monounsaturated fatty acids",3.613,g,
-"Polyunsaturated fatty acids",1.277,g,
+"Sugars",8.86,g,
+"Net carbs",10.76,g,
+"Fat",8.254,g,11 %
+"Saturated fatty acids",2.02,g,10 %
+"Monounsaturated fatty acids",3.723,g,
+"Polyunsaturated fatty acids",1.486,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
 "Fatty acids, total trans",0,g,
-"Cholesterol",43.79,mg,15 %
+"Cholesterol",49.24,mg,16 %
 "Alcohol, ethyl",0.7,g,
 "Caffeine",11.5,mg,
-"Theobromine",0,mg,
-"Water",132.29,g,
+"Theobromine",102.85,mg,
+"Water",135.02,g,
