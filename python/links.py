@@ -2340,6 +2340,7 @@ LINKS = {
         "sugar free hot cocoa",
         "sugar free hot chocolate",
         "hot cocoa",
+        # "healthy chocolate milk",
         "hot chocolate"
     ],
     "/recipes/hot-chocolate": [
@@ -2544,7 +2545,9 @@ LINKS = {
         "metabolic health issues",
         "metabolic healthy",
         "poor metabolic health",
-        "metabolic health"
+        "metabolic health",
+        "metabolic function",
+        "metabolic"
     ],
     "/misc/diabetes": [
         "prediabetes",
@@ -2588,13 +2591,18 @@ LINKS = {
         "stable glucose levels",
         "stable glucose level",
         "stable glucose",
+        "blood sugar regulation",
+        "blood sugar control",
         "blood sugar",
         "glycemic index",
         "glycemic",
         "high-glycemic",
         "high glycemic",
         "low-glycemic",
-        "low glycemic"
+        "low glycemic",
+        "blood glucose control",
+        "blood glucose regulation",
+        "blood glucose"
     ],
     "/misc/alzheimers": [
         "alzheimer's disease",
@@ -2644,6 +2652,7 @@ LINKS = {
         "inflammation",
         "anti inflammatory",
         "anti-inflammatory",
+        "reduced inflammation",
         "reduce inflammation",
         "reducing inflammation",
         "carotenoids astaxanthin",
@@ -5004,14 +5013,17 @@ LINKS = {
         "overnight oats recipes",
         "overnight oats recipe",
         "overnight oats",
-        "overnight oat"
+        "overnight oat",
+        "bowl of oatmeal",
+        "bowl of oats"
     ],
     "/yogurt": [
         # "yogurt",
         "yogurt recipes here",
         "yogurt recipes",
         "morning yogurt",
-        "yogurt bowl"
+        "yogurt bowl",
+        "bowl of yogurt"
     ],
     "/nut-butter": [
         # "nut butter",
@@ -5657,6 +5669,26 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "large scale",
+    "large-scale",
+    "cocoa beans",
+    "cocoa bean",
+    "cacao beans",
+    "cacao bean",
+    "carob beans",
+    "carob bean",
+    "cocoa plants",
+    "cocoa plant",
+    "cacao plants",
+    "cacao plant",
+    "carob plants",
+    "carob plant",
+    "cocoa trees",
+    "cocoa tree",
+    "cacao trees",
+    "cacao tree",
+    "carob trees",
+    "carob tree",
     "vegetable steam",
     "wrap each",
     "maple syrup",
@@ -6837,11 +6869,13 @@ EXCLUDED_PHRASES = [
     "dry side",
     "wet side",
     "side-by-side",
+    "phenylethylamine (PEA)"
 
 ]
 EXCLUDED_PHRASES = list(dict.fromkeys(EXCLUDED_PHRASES))
 
 REMOVE_CATEGORIES = [
+    "/misc/chocolate-benefits",
     "/misc/whole-wheat-sourdough",
     "/misc/beans",
     "/misc/dairy",
