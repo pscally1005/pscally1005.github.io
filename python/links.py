@@ -1623,9 +1623,10 @@ LINKS = {
         "single serving quick nutella",
         "quick nutella",
         "powdered peanut butter nutella",
+        # "chocolate spread",
         "sugar free chocolate spread",
-        "sugar-free chocolate spread",
-        "chocolate spread"
+        "sugar-free chocolate spread"
+
     ],
     "/recipes/gf-crackers": [
         "gluten free graham crackers",
@@ -3658,10 +3659,15 @@ LINKS = {
         "chestnut"
     ],
     "/misc/nuts#coconut": [
+        "unsweetened shredded coconut flakes",
         "unsweetened coconut flakes",
         "shredded coconut flakes",
+        "unsweetened shredded coconut flake",
+        "unsweetened coconut flake",
+        "shredded coconut flake",
         "shredded coconut",
         "coconut flakes",
+        "coconut flake",
         "coconut flour",
         "coconut butter",
         "coconut oil",
@@ -5669,6 +5675,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "chocolate spread",
     "large scale",
     "large-scale",
     "cocoa beans",

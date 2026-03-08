@@ -51,23 +51,23 @@ tags:
 - carob powder
 - coconut flour
 - unsweetened applesauce
-Description: Here's a great pre or post workout snack. These bars are made of a coconut flour based crust, filled with a chocolate peanut butter spread, and topped with chopped nuts. The coconut flour and carob supply fiber for healthy digestion, the peanuts and powdered peanut butter add healthy fats and protein for satiety, and the unsweetened applesauce and liquid monk fruit add natural sweetness without any added sugar.  The chocolate filling and crunchy peanut topping gives off the vibes of a healthy Snicker's bar
+Description: Here's a great pre or post workout snack. These bars are made of a <a href='/misc/nuts#coconut'>coconut flour</a> based crust, filled with a chocolate peanut butter spread, and topped with chopped <a href='/misc/nuts'>nuts</a>. The <a href='/misc/nuts#coconut'>coconut flour</a> and <a href='https://amzn.to/4rhYDwh'>carob</a> supply <a href='/misc/fiber'>fiber</a> for healthy digestion, the <a href='/misc/nuts#peanuts'>peanuts</a> and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> add <a href='/misc/fats'>healthy fats</a> and <a href='/misc/protein'>protein</a> for satiety, and the <a href='/misc/fruit#apple'>unsweetened applesauce</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> add <a href='/misc/carbs'>natural sweetness</a> without any <a href='/misc/hidden-sugar'>added sugar</a>.  The <a href='/misc/chocolate-benefits'>chocolate</a> filling and crunchy <a href='/misc/nuts#peanuts'>peanut</a> topping gives off the vibes of a healthy Snicker's bar
 Instructions:
-- Preheat your oven to 400F. Line a 9" square baking pan with parchment paper, and lightly spray with oil
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly spray with oil</a>
 
-- In a large bowl, mix together the base ingredients with a silicone spatula - coconut flour, cinnamon, baking powder, salt, vanilla extract, liquid monk fruit, and applesauce
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the base ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, baking powder, salt, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/fruit#apple'>applesauce</a>
 - <img src='/assets/Food/Finger Food/Carob Peanut/bowl.jpg' alt='' class='instruction-image'>
 
-- The dough should look a little dry, but come together when pressed. Add your crust ingredients into the pan. Evenly press down into all sides. Bake at 400F for about 20 minutes, or until lightly browned. Let cool totally before adding the filling on top, or you can rip the base when spreading on the filling
+- The dough should look a little dry, but come together when pressed. Add your crust ingredients into the pan. Evenly press down into all sides. Bake at 350F for about 20 minutes, or until lightly browned. Let cool totally before adding the filling on top, or you can rip the base when spreading on the filling
 - <img src='/assets/Food/Finger Food/Carob Peanut/base.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, rinse out your bowl, and mix together the filling ingredients with a silicone spatula - carob, powdered peanut butter, cinnamon, salt, vanilla, liquid monk fruit, and applesauce. Roughly chop your peanuts
+- Meanwhile, rinse out your bowl, and mix together the filling ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='https://amzn.to/4rhYDwh'>carob</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cinnamon, salt, vanilla, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/fruit#apple'>applesauce</a>. Roughly chop your <a href='/misc/nuts#peanuts'>peanuts</a>
 - <img src='/assets/Food/Finger Food/Carob Peanut/filling-topping.jpg' alt='' class='instruction-image'>
 
 - Add the chocolate spread onto the cooled crust. Lightly wetting the back of a spoon to spread it helps prevent sticking and tearing
 - <img src='/assets/Food/Finger Food/Carob Peanut/filling.jpg' alt='' class='instruction-image'>
 
-- Top with the chopped nuts. Optionally also top with unsweetened shredded coconut flakes and flaky salt. Lightly press the toppings down with a spoon or spatula
+- Top with the chopped <a href='/misc/nuts'>nuts</a>. Optionally also top with <a href='/misc/nuts#coconut'>unsweetened shredded coconut flakes</a> and flaky salt. Lightly press the toppings down with a spoon or <a href='https://amzn.to/40F2aK0'>spatula</a>
 - <img src='/assets/Food/Finger Food/Carob Peanut/topping.jpg' alt='' class='instruction-image'>
 
 - Chill in the fridge for at least 2 hours before slicing into 9 bars

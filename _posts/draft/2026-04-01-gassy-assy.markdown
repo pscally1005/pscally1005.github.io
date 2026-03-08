@@ -35,7 +35,7 @@ Prep: 10
 Rest:
 Cook: 40
 Source1: https://chatgpt.com/share/69a61f19-5bb4-8012-8865-2c9d29e9179a
-Source2:
+Source2: https://youtu.be/TAqIMA_V6tI?si=fYqPA8Xnn7sDkj7S
 Source3:
 Source4:
 Source5:
