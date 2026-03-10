@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Chocolate Cloud Bars
-date:   2026-03-04 00:00:00 -0500
+date:   2026-03-10 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
