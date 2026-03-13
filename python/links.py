@@ -1099,10 +1099,19 @@ LINKS = {
         "tomato soup",
         "butternut squash soup"
     ],
-    "/recipes/rainbow-cookies": [
+    "/recipes/rainbow-cookies-v1": [
+        "Monk Fruit Rainbow Cookies",
+        "rainbow cookies v1",
+        "monk fruit rainbow cookies"
+    ],
+    "/recipes/rainbow-cookies-v2": [
         "Dye Free Rainbow Cookies",
+        "rainbow cookies v2",
+        "dye free rainbow cookies"
+    ],
+    "/recipes/rainbow-cookies-v3": [
+        "Rainbow Cookies v3",
         "rainbow cookies",
-        "dye free rainbow cookies",
         "rainbow cookie"
     ],
     "/recipes/raspberry-brownies": [

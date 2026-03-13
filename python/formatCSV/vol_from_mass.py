@@ -271,6 +271,23 @@ def vol_from_mass(food, mass, vol):
         if mass == "113":
             v = "4 oz can"
 
+    # Avocado
+    elif food == "Avocado":
+        if mass == "50":
+            v = "1/2 medium"
+        elif mass == "100":
+            v = "1 medium"
+        elif mass == "200":
+            v = "2 medium"
+        elif mass == "300":
+            v = "3 medium"
+        elif mass == "400":
+            v = "4 medium"
+        elif mass == "500":
+            v = "5 medium"
+        elif mass == "600":
+            v = "6 medium"
+
     # Banana
     elif food == "Banana, overripe" or food == "Frozen banana" or food == "Banana, underripe" or food == "Frozen bananas, overripe" or food == "Frozen overripe bananas" or food == "Banana, overripe, or unsweetened applesauce":
         if mass == "55":
@@ -324,7 +341,7 @@ def vol_from_mass(food, mass, vol):
             v = "2 x 13.5 oz can"
 
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Canola oil" or food == "Vegetable oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice":
         if mass == "1.25":
             v = "1/4 tsp"
         elif mass == "2.5":
@@ -654,6 +671,40 @@ def vol_from_mass(food, mass, vol):
         elif mass == "240" or mass == "256" or mass == "250":
             v = "2 cup"
 
+    # Jelly
+    elif food == "Low sugar berry jam" or food == "Strawberry chia jam":
+        if mass == "19":
+            v = "1 tbsp"
+        elif mass == "38":
+            v = "2 tbsp"
+        elif mass == "57":
+            v = "3 tbsp"
+        elif mass == "76":
+            v = "1/4 cup"
+        elif mass == "95":
+            v = "5 tbsp"
+        elif mass == "114":
+            v = "6 tbsp"
+        elif mass == "133":
+            v = "7 tbsp"
+        elif mass == "152":
+            v = "1/2 cup"
+        elif mass == "171":
+            v = "9 tbsp"
+        elif mass == "190":
+            v = "10 tbsp"
+        elif mass == "209":
+            v = "11 tbsp"
+        elif mass == "228":
+            v = "3/4 cup"
+        elif mass == "247":
+            v = "13 tbsp"
+        elif mass == "266":
+            v = "14 tbsp"
+        elif mass == "285":
+            v = "15 tbsp"
+        elif mass == "304":
+            v = "1 cup"
 
     # Nut butters
     elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini":

@@ -140,6 +140,8 @@ def ingredients(food):
         f = "Fat free Italian dressing"
     elif food == "Lime juice, raw" or food == "Lime juice from concentrate by Safeway, Inc." or food == "Lime juice from concentrate by ITALIAN GARDEN" or food == "Lime juice from concentrate by Harris-Teeter Inc." or food == "Lime juice, freshly squeezed, 100%":
         f = "Lime juice"
+    elif food == "Beet juice":
+        f = "Pickled beet juice"
     elif food == "Vinegar, balsamic" or food == "Balsamic vinegar of modena" or food == "Balsamic vinegar by ELSA":
         f = "Balsamic vinegar"
     elif food == "Hot pepper sauce" or food == "Hot sauce by LOUISIANA" or food == "Hot sauce, louisiana style by La Preferida In" or food == "Hot sauce, louisiana style by La Preferida Inc" or food == "Sauce by LOUISIANA":
