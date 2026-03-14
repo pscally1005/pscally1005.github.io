@@ -50,11 +50,11 @@ tags:
 - gluten free
 - cinnamon
 - powdered peanut butter
-Description: These oatmeal cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally <a href='/misc/hidden-sugar'>sugar free</a> if using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a>, but you can also use honey (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) and regular chocolate chips if that's what you desire.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
+Description: These oatmeal cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally <a href='/misc/hidden-sugar'>sugar free</a> if using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a>, but you can also use <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) and regular chocolate chips if that's what you desire.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork, until smooth
 
-- To the bowl, add your honey, vanilla, baking powder, cinnamon, salt, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>.  Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
+- To the bowl, add your <a href='/misc/natural-sweeteners#honey'>honey</a>, vanilla, baking powder, cinnamon, salt, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>.  Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 
 - Fold in the <a href='/misc/grains#oats'>rolled oats</a> and chocolate chips (minis preferred).  Chill the dough in the fridge for 30 minutes, so the <a href='/misc/grains#oats'>oats</a> can absorb the moisture
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Chip/bowl.jpg' alt='' class='instruction-image'>
@@ -67,7 +67,7 @@ Instructions:
 Notes:
 - 1/2 cup (120 g) <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, or <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> will all work in place of mashed <a href='/misc/fruit#banana'>banana</a>
 
-- Any <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> will work, such as honey, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- Any <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> will work, such as <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 
 - Optionally, add 1/4 tsp butter extract
 

@@ -74,7 +74,7 @@ Description: Happy Halloween!  Here's an easy cake recipe that's delicious, <a h
 Instructions: 
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/4q0gY0f'>9" circle pan</a> with parchment paper.  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, add all your wet ingredients, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut/seed butter</a>, <a href='/misc/meat#eggs'>egg</a>, honey, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, add all your wet ingredients, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut/seed butter</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 - <img src='/assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-wet.jpg' alt='' class='instruction-image'>
 
 - To the bowl, add your dry ingredients, and stir until fully combined - salt, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, cloves, baking powder, baking soda, cornstarch, and <a href='/misc/grains#oats'>oat flour</a>.  Transfer the batter to the pan, and smooth out the top

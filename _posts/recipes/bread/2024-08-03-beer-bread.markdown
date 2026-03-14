@@ -56,7 +56,7 @@ Instructions:
 
 - In a mixing bowl add the dry ingredients and whisk until well combined - flour, baking powder, and salt
 
-- Add in the honey (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) and beer (I used Blue Moon). Mix until it forms a well combined dough
+- Add in the <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) and beer (I used Blue Moon). Mix until it forms a well combined dough
 - <img src='/assets/Food/Bread/Beer Bread/beer-bread-dough.jpg' alt='' class='instruction-image'>
 
 - Transfer your dough into a loaf pan and spread evenly to all sides. Cross the top with a knife, and optionally sprinkle the top with flour (or <a href='/misc/grains#oats'>oat flour</a>)

@@ -85,7 +85,7 @@ Instructions:
 
 - Let cool on the pan for 5 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely.  Store in an airtight container in the fridge
 Notes:
-- <a href='/misc/natural-sweeteners#maple-syrup'>Maple syrup</a> or honey can be used in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- <a href='/misc/natural-sweeteners#maple-syrup'>Maple syrup</a> or <a href='/misc/natural-sweeteners#honey'>honey</a> can be used in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 
 - You can also enjoy these as edible <a href='/cookies'>cookie</a> dough bites
 - <img src='/assets/Food/Healthier Dessert/CC Cookies/cc-cookie-dough.jpg' alt='' class='instruction-image'>

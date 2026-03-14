@@ -85,11 +85,11 @@ Notes:
 
 - I've gone with a 50/50 blend (1 scoop, 30 g, each) of <a href='/misc/dairy#whey'>whey</a> and <a href='/misc/dairy#casein'>casein</a>, but either all <a href='/misc/dairy#casein'>casein</a> or all <a href='/misc/dairy#whey'>whey</a> (2 scoops, 60 g, total) will work as well
 
-- If you have flavored <a href='/misc/dairy#whey'>protein powder</a>, either reduce or omit the honey.  Adjust the sweetness to your taste
+- If you have flavored <a href='/misc/dairy#whey'>protein powder</a>, either reduce or omit the <a href='/misc/natural-sweeteners#honey'>honey</a>.  Adjust the sweetness to your taste
 
-- Any <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> will work in place of honey, like <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or <a href='/misc/homemade-fruit-syrup'>Homemade Fruit Syrup</a>
+- Any <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> will work in place of <a href='/misc/natural-sweeteners#honey'>honey</a>, like <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or <a href='/misc/homemade-fruit-syrup'>Homemade Fruit Syrup</a>
 
-- You can also use <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>.  Replace the honey with about 2 tsp (10 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>.  Again, taste the batter and adjust the sweetness to your personal preferences
+- You can also use <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>.  Replace the <a href='/misc/natural-sweeteners#honey'>honey</a> with about 2 tsp (10 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>.  Again, taste the batter and adjust the sweetness to your personal preferences
 
 - <a href='/misc/fruit#apple'>Unsweetened applesauce</a>, <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a>, <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a>, or <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> will all work in place of ripe <a href='/misc/fruit#banana'>bananas</a>
 

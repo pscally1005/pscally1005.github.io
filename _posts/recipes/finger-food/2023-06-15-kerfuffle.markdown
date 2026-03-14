@@ -46,7 +46,6 @@ tags:
 - honey
 - peanut
 - butter
-- honey
 - nut
 - yogurt
 Description: These "kerfuffles", or confusing truffles, are a great <a href='/misc/dairy#yogurt'>Greek yogurt</a> based chocolate truffle, with much lower <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a> contents than typical truffles. They mix together in just a few minutes, and store really well in the fridge for a quick snack or <a href='/recipes/healthier-dessert'>dessert</a>. These really bring out the flavor of the <a href='/misc/dairy#yogurt'>yogurt</a>, so if you're not a fan of <a href='/misc/dairy#yogurt'>Greek yogurt</a>, I'd recommend you replace it with mashed <a href='/misc/fruit#avocado'>avocado</a> or <a href='/misc/fruit#banana'>banana</a>.

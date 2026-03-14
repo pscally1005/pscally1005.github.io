@@ -56,7 +56,7 @@ Instructions:
 Notes:
 - I'd recommend adding some cinnamon (1/2 tsp, 1.5 g) or vanilla extract (1/2 tsp, 2.5 g) for flavor, but as the point is to keep this as <i>plain</i> <a href='/misc/dairy#yogurt'>Greek yogurt</a>, I've omitted them above
 
-- As your sweetener, you can either use <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (1 tbsp, 12 g) or honey (1 tsp, 7 g).  If using honey instead, replace the <a href='/misc/dairy#almond-milk'>almond milk</a> (1/2 cup, 125 g) with water (1/2 cup, 130 g).  Below is a table comparing the two versions to <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a> (per 3/4 cup, 170 g serving)
+- As your sweetener, you can either use <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (1 tbsp, 12 g) or <a href='/misc/natural-sweeteners#honey'>honey</a> (1 tsp, 7 g).  If using <a href='/misc/natural-sweeteners#honey'>honey</a> instead, replace the <a href='/misc/dairy#almond-milk'>almond milk</a> (1/2 cup, 125 g) with water (1/2 cup, 130 g).  Below is a table comparing the two versions to <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a> (per 3/4 cup, 170 g serving)
 
 - |
   COMPARE(
@@ -66,7 +66,7 @@ Notes:
 
     "<a href='/misc/dairy#yogurt'>Plain<br>Nonfat<br>Greek<br>Yogurt</a>",
     "DIY<br>Yogurt<br><a href='<a href='https://amzn.to/4ceFnvP'>'>Monk<br>Fruit</a>",
-    "DIY<br>Yogurt<br>Honey";
+    "DIY<br>Yogurt<br><a href='/misc/natural-sweeteners#honey'>Honey</a>";
 
     "Calories",
     "Protein",

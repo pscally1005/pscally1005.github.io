@@ -54,11 +54,11 @@ tags:
 - oats
 Description: This edible cookie dough is so simple, and a much healthier way to enjoy a classic treat. They use <a href='/misc/dairy#casein'>casein protein</a> as the flour, but for a non <a href='/misc/protein'>protein</a> version, you can use <a href='/misc/grains#oats'>oat flour</a>. I decided to make some homemade <a href='/recipes/chocolate-bar'>Sugar Free Chocolate Bar</a>, but feel free to swap that with some chocolate chips too.  Or see my <a href='/recipes/chickpea-chows'>Chickpea Chows</a> for another <a href='/misc/high-protein'>high protein</a> healthy cookie dough recipe.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- Start by preparing your chocolate. In a microwave safe bowl, melt the <a href='/misc/nuts#coconut'>coconut oil</a>. Combine with the rest of the chocolate ingredients - <a href='/misc/chocolate-benefits'>cocoa powder</a>, honey, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and a small pinch of salt
+- Start by preparing your chocolate. In a microwave safe bowl, melt the <a href='/misc/nuts#coconut'>coconut oil</a>. Combine with the rest of the chocolate ingredients - <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and a small pinch of salt
 
 - Line a Tupperware with parchment paper. Use a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to scrape all the melted <a href='/misc/chocolate-benefits'>chocolate</a> into the pan. Freeze to harden
 
-- For the cookie dough, combine the ingredients in a <a href='https://amzn.to/4adxMft'>medium bowl</a> in the following order - <a href='/misc/fruit#apple'>applesauce</a>, honey, vanilla, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and salt.  Add in the <a href='/misc/dairy#casein'>casein</a>, thin out with <a href='/misc/dairy#skim-milk'>milk</a>, and mix to form a slightly sticky cookie dough
+- For the cookie dough, combine the ingredients in a <a href='https://amzn.to/4adxMft'>medium bowl</a> in the following order - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, vanilla, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and salt.  Add in the <a href='/misc/dairy#casein'>casein</a>, thin out with <a href='/misc/dairy#skim-milk'>milk</a>, and mix to form a slightly sticky cookie dough
 
 - Chop up your <a href='/misc/chocolate-benefits'>chocolate</a>, and fold into the cookie dough. Roll into balls, transfer to an airtight bag or container, and enjoy
 Notes:

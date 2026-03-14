@@ -75,5 +75,5 @@ Instructions:
 
 - Let cool in the pan for 5 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool. Slice
 Notes:
-- To make a sweet version instead, omit the garlic powder, onion powder, black pepper, chiles, and <a href='/misc/dairy#mozzarella'>cheese</a>. Add 2 tbsp (42 g) honey, and 2 tsp (5 g) cinnamon
+- To make a sweet version instead, omit the garlic powder, onion powder, black pepper, chiles, and <a href='/misc/dairy#mozzarella'>cheese</a>. Add 2 tbsp (42 g) <a href='/misc/natural-sweeteners#honey'>honey</a>, and 2 tsp (5 g) cinnamon
 ---

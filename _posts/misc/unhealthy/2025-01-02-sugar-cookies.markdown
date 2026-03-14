@@ -57,7 +57,7 @@ Instructions:
 - Bake for about 12 minutes at 350F, or until just lightly browned.  Let cool on the pan for 5 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool totally, at least 30 minutes
 - <img src='/assets/Misc/Unhealthy/Sugar Cookies/baked.jpg' alt='' class='instruction-image'>
 
-- When the cookies are cooled, you can prepare the frosting.  To a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add powdered sugar, honey, vanilla, and salt.  Add in the water, and whisk until fully combined.  If you hold up the whisk and let the frosting drizzle back into the bowl, it should leave a visible ribbon in the icing for about a second before fully incorporating back in.  Stir in some food coloring if desired
+- When the cookies are cooled, you can prepare the frosting.  To a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add powdered sugar, <a href='/misc/natural-sweeteners#honey'>honey</a>, vanilla, and salt.  Add in the water, and whisk until fully combined.  If you hold up the whisk and let the frosting drizzle back into the bowl, it should leave a visible ribbon in the icing for about a second before fully incorporating back in.  Stir in some food coloring if desired
 - <img src='/assets/Misc/Unhealthy/Sugar Cookies/icing.jpg' alt='' class='instruction-image'>
 
 - Dip the cookies in the icing, and decorate as you see fit.  You can also use butter knives, toothpicks, or piping bags.  Let rest for about 30 minutes for the icing to harden before serving.  Have fun, and get creative!

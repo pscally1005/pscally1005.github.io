@@ -51,7 +51,7 @@ Description: <a href='/misc/dairy#yogurt'>Yogurt</a> bark is a very simple snack
 Instructions:
 - Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Mix <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, and honey in a <a href='https://amzn.to/4adxMft'>medium bowl</a>
+- Mix <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, and <a href='/misc/natural-sweeteners#honey'>honey</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a>
 
 - Spread mixture onto a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> and top with <a href='/misc/fruit#blueberries'>blueberries</a>
 

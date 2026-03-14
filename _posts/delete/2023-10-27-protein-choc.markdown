@@ -69,7 +69,7 @@ Description: I'll make this nutella-ish spread every so often, and store the lef
 Instructions:
 - Mix all ingredients in a small container, and store the leftovers in the fridge.
 Notes:
-- In place of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>, you can use 1/2 tbsp (10 g) honey, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- In place of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>, you can use 1/2 tbsp (10 g) <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 
 - Optionally, you can turn this spread into some chocolate <a href='/misc/protein'>protein</a> bites. Mix in unflavored <a href='/misc/dairy#casein'>casein</a> (1 scoop, 30 g) and <a href='/misc/grains#oats'>oat flour</a> (2 tbsp, 15 g), and shape into balls. Makes about 10-12
 - <img src='/assets/Food/Sweet Spreads/Protein Choc/protein-choc-2.jpg' alt='' class='instruction-image'>

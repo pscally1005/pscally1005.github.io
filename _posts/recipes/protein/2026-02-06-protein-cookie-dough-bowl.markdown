@@ -62,14 +62,14 @@ Instructions:
 Notes:
 - I'm using <a href='/misc/nuts#almonds'>almond butter</a> here, but any <a href='/recipes/natural-peanut-butter'>natural nut or seed butter</a> will work, such as <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, or <a href='/misc/seeds#sesame-seeds'>tahini</a>
 
-- If you don't mind the extra <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/calories'>calories</a>, you can use honey (1/2 tbsp, 10 g) instead of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> as your sweetener, as well as opt for regular chocolate chips instead of the <a href='/misc/hidden-sugar'>sugar-free</a> variety
+- If you don't mind the extra <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/calories'>calories</a>, you can use <a href='/misc/natural-sweeteners#honey'>honey</a> (1/2 tbsp, 10 g) instead of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> as your sweetener, as well as opt for regular chocolate chips instead of the <a href='/misc/hidden-sugar'>sugar-free</a> variety
 - |
   COMPARE(
     "proteincookiedoughv2",
     "proteincookiedoughv2honey";
 
     "<a href='#recipe'>Original<br>Recipe</a>",
-    "With<br>Honey";
+    "With<br><a href='/misc/natural-sweeteners#honey'>Honey</a>";
 
     "Calories",
     "Protein",

@@ -52,6 +52,6 @@ Description: I've had a bunch of fresh <a href='/misc/veggies#ginger'>ginger</a>
 Instructions:
 - In a small pot, bring water to a boil. Add a piece of <a href='/misc/veggies#ginger'>ginger</a> into the pot, and let simmer for 5 minutes
 
-- Stir in <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and let sit for a few minutes.  Remove the <a href='/misc/veggies#ginger'>ginger</a>, and optionally some honey if you like it sweeter
+- Stir in <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and let sit for a few minutes.  Remove the <a href='/misc/veggies#ginger'>ginger</a>, and optionally some <a href='/misc/natural-sweeteners#honey'>honey</a> if you like it sweeter
 Notes:
 ---

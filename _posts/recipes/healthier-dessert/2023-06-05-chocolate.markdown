@@ -58,5 +58,5 @@ Instructions:
 
 - Chill in the fridge for at least an hour (or freeze for 15 minutes) to set before using
 Notes:
-- You can either sweeten your chocolate bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>, or 1 tbsp (20 g) honey, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- You can either sweeten your chocolate bar, or choose to leave it unsweetened.  I prefer the latter, but if you want it sweeter, I'd recommend either 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>, or 1 tbsp (20 g) <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 ---

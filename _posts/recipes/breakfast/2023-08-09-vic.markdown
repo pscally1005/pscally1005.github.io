@@ -71,7 +71,7 @@ Notes:
   Some ingredient swaps include
   <ul>
     <li>Unsweetened applesauce (6 tbsp, 90 g) in place of mashed banana</li>
-    <li><a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> or <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a> (1 tbsp, 20 g) instead of honey (1/2 tbsp, 10 g)</li>
+    <li><a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> or <a href='/recipes/strawberry-chia-jam'>Strawberry Chia Jam</a> (1 tbsp, 20 g) instead of <a href='/misc/natural-sweeteners#honey'>honey</a> (1/2 tbsp, 10 g)</li>
     <li>Whey protein instead of casein (same amount by weight and volume, but it'll be less thick)</li>
     <li>Optionally, you can also add 1/4 tsp (1.25 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or 1 tbsp (15 g) mini <a href='/misc/chocolate-benefits'>chocolate chips</a> if you want it slightly sweeter</li>
   </ul>

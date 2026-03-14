@@ -54,7 +54,7 @@ Instructions:
 
 - Whisk together the dry ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - cornmeal, flour, baking powder, baking soda, and salt. To make it <a href='/misc/celiac'>gluten free</a>, you can use <a href='/misc/grains#oats'>oat flour</a> or <a href='/misc/nuts#almonds'>almond flour</a> in place of <a href='/misc/grains#whole-wheat'>whole wheat flour</a>
 
-- Add in the wet ingredients - hot honey, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, and water. Whisk until smooth. If you don't have hot honey, you can replace it with regular honey, and add 1 tsp (2 g) red pepper flakes
+- Add in the wet ingredients - hot honey, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, and water. Whisk until smooth. If you don't have hot honey, you can replace it with regular <a href='/misc/natural-sweeteners#honey'>honey</a>, and add 1 tsp (2 g) red pepper flakes
 - <img src='/assets/Food/Sides/Hot Honey Cornbread/bowl.jpg' alt='' class='instruction-image'>
 
 - Pour the batter into your pan, and shake bake and forth to make sure it's even and goes to all sides

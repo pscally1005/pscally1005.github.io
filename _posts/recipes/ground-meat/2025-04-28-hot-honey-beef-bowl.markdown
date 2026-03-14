@@ -63,7 +63,7 @@ Instructions:
 
 - Take out 4 bowls, and add 1/4 of your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> to one quadrant, and 1/4 of the <a href='/misc/meat#ground-beef'>beef</a> to another. In the third quadrant, add 1/2 a sliced <a href='/misc/fruit#avocado'>avocado</a> (50 g). Finally, in the remaining quadrant, add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (1/2 cup, 113 g)
 
-- Drizzle the top of each bowl with 1/2 tbsp (10 g) <a href='/recipes/hot-honey'>hot honey</a>. If you don't have hot honey, you can use regular honey, and add a dash of <a href='/recipes/hot-sauce'>hot sauce</a>
+- Drizzle the top of each bowl with 1/2 tbsp (10 g) <a href='/recipes/hot-honey'>hot honey</a>. If you don't have hot honey, you can use regular <a href='/misc/natural-sweeteners#honey'>honey</a>, and add a dash of <a href='/recipes/hot-sauce'>hot sauce</a>
 Notes:
 - With <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/meat#ground-beef'>ground beef</a>, and <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, this recipe is a great source of <a href='/misc/carbs'>complex carbs</a>, <a href='/misc/fats'>healthy fats</a>, and <a href='/misc/protein'>protein</a>. It's lacking a bit in the <a href='/misc/veggies'>vegetable</a> area, so serve this with a <a href='/recipes/sides'>side</a> of <a href='/recipes/roasted-vegetables'>roasted vegetables</a> or a <a href='/recipes/salad-base'>side salad</a>
 ---

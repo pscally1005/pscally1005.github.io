@@ -57,11 +57,11 @@ tags:
 - powdered peanut butter
 Description: These healthy truffles are my variation of a healthy Oreo ball. They taste amazing right out of the freezer, and don't even need to be coated in chocolate if you want to save even more <a href='/misc/calories'>calories</a>. They're even better when made with dutch process <a href='/misc/chocolate-benefits'>cocoa</a> instead of natural <a href='/misc/chocolate-benefits'>cocoa</a>, giving it more of that classic Oreo taste.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the truffle ingredients (<a href='/misc/nuts#peanuts'>peanut butter</a>, honey, <a href='/misc/fruit#apple'>applesauce</a>, whipped <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, vanilla, salt, <a href='/misc/chocolate-benefits'>cocoa</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/grains#oats'>oat flour</a>). Mix in the <a href='/misc/grains#oats'>oat flour</a> a little at a time, pressing the spoon into the dough to get it fully combined
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the truffle ingredients (<a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/fruit#apple'>applesauce</a>, whipped <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, vanilla, salt, <a href='/misc/chocolate-benefits'>cocoa</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/grains#oats'>oat flour</a>). Mix in the <a href='/misc/grains#oats'>oat flour</a> a little at a time, pressing the spoon into the dough to get it fully combined
 
 - Roll the dough into balls, about 1 tbsp (14 g) each. Place on a plate, and freeze to harden the balls, about 10 minutes
 - <img src='/assets/Food/Healthier Dessert/Truffle/truffle-2.jpg' alt='' class='instruction-image'>
 
-- Melt the <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave, and mix with the rest of the chocolate ingredients (vanilla, <a href='/misc/chocolate-benefits'>cocoa</a>, honey, salt, and almond extract). Dip the truffles in the <a href='/misc/chocolate-benefits'>chocolate</a>, and return to the plate. Chill to harden. Store in the fridge or freezer
+- Melt the <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave, and mix with the rest of the chocolate ingredients (vanilla, <a href='/misc/chocolate-benefits'>cocoa</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, salt, and almond extract). Dip the truffles in the <a href='/misc/chocolate-benefits'>chocolate</a>, and return to the plate. Chill to harden. Store in the fridge or freezer
 Notes:
 ---

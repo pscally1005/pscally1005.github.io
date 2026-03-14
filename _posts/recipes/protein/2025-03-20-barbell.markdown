@@ -136,20 +136,20 @@ Notes:
           <li>Use 1 tsp (5 g) of <a href='https://amzn.to/44ZDhwi'>liquid monk fruit</a> (or <a href='https://amzn.to/45wOzIv'>stevia</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
         </ul><br>
 
-      <li><i>Honey</i>
+      <li><i><a href='/misc/natural-sweeteners#honey'>Honey</a></i>
         <ul>
-          <li>Use 4 tbsp (84 g) of honey (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
+          <li>Use 4 tbsp (84 g) of <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
           <li>Reduce the water to 1/4 cup (60 g)</li>
           <li>Replace cococnut <a href='/misc/fats'>oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) semi sweet <a href='/misc/chocolate-benefits'>chocolate chips</a></li>
           <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or olive oil to the <a href='/misc/chocolate-benefits'>chocolate chips</a> to help with melting</li>
           <li>Microwave the <a href='/misc/chocolate-benefits'>chocolate chips</a> in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
-      <li><i>Double Honey</i>
+      <li><i>Double <a href='/misc/natural-sweeteners#honey'>Honey</a></i>
         <ul>
-          <li>Use 4 tbsp (84 g) of honey (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
+          <li>Use 4 tbsp (84 g) of <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
           <li>Reduce the water to 1/4 cup (60 g)</li>
-          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but add 2 tbsp (42 g) honey (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) to the melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
+          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but add 2 tbsp (42 g) <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) to the melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
         </ul><br>
 
       <li><i><a href='/recipes/sugar-free-syrup'>Sugar Free Syrup</a></i>
@@ -193,10 +193,10 @@ Notes:
 
       <li><i>Lower <a href='/misc/hidden-sugar'>Sugar</a></i></li>
         <ul>
-          <li>This variation is for those who want less <a href='/misc/hidden-sugar'>added sugar</a> than the candy bar, honey, or double honey versions, but not <a href='/misc/hidden-sugar'>sugar free</a> like the rest.  It's a good compromise of <a href='/misc/hidden-sugar'>sugar free</a> flavored <a href='/misc/dairy#whey'>protein powder</a> and honey sweetened <a href='/misc/chocolate-benefits'>chocolate</a></li>
+          <li>This variation is for those who want less <a href='/misc/hidden-sugar'>added sugar</a> than the candy bar, <a href='/misc/natural-sweeteners#honey'>honey</a>, or double <a href='/misc/natural-sweeteners#honey'>honey</a> versions, but not <a href='/misc/hidden-sugar'>sugar free</a> like the rest.  It's a good compromise of <a href='/misc/hidden-sugar'>sugar free</a> flavored <a href='/misc/dairy#whey'>protein powder</a> and <a href='/misc/natural-sweeteners#honey'>honey</a> sweetened <a href='/misc/chocolate-benefits'>chocolate</a></li>
           <li>Use a flavored <a href='/misc/dairy#whey'>whey protein powder</a> in place of the unflavored.  Vanilla is better but <a href='/misc/chocolate-benefits'>chocolate</a> is good too</li>
           <li>Omit the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
-          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but add 2 tbsp (42 g) honey and 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to the melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
+          <li>Still use <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a>, but add 2 tbsp (42 g) <a href='/misc/natural-sweeteners#honey'>honey</a> and 1/2 tsp (2.5 g) <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to the melted <a href='/misc/chocolate-benefits'>chocolate</a></li>
         </ul><br>
   </ol>
 
@@ -227,8 +227,8 @@ Notes:
     "Flavored<br><a href='/misc/dairy#whey'>Whey</a>",
     "Double<br>Flavored<br><a href='/misc/dairy#whey'>Whey</a>",
     "<a href='https://amzn.to/44ZDhwi'>Liquid<br>Monk<br>Fruit</a>",
-    "Honey",
-    "Double<br>Honey",
+    "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "Double<br><a href='/misc/natural-sweeteners#honey'>Honey</a>",
     "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
     "Reese's",
     "Double<br><a href='/recipes/natural-peanut-butter'>Peanut<br>Butter</a>",

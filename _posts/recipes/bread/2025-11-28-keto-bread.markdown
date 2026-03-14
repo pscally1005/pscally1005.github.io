@@ -73,5 +73,5 @@ Instructions:
 - Allow the bread to cool totally in the pan before removing and slicing
 - <img src='/assets/Food/Bread/Keto Bread/sliced.jpg' alt='' class='instruction-image'>
 Notes:
-- <a href='https://amzn.to/47w8h7R'>Inulin</a>, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of honey (21 g) or granulated <a href='/misc/hidden-sugar'>sugar</a> (12 g) if you prefer.  For another recipe with <a href='https://amzn.to/47w8h7R'>inulin</a>, check out my <a href='/recipes/fiber-one-brownies'>Copycat Fiber One Brownies</a>
+- <a href='https://amzn.to/47w8h7R'>Inulin</a>, a <a href='/misc/fiber'>fiber</a> powder with a mildly sweet taste, is here to give the yeast something to feed on. You can replace this with 1 tbsp of <a href='/misc/natural-sweeteners#honey'>honey</a> (21 g) or granulated <a href='/misc/hidden-sugar'>sugar</a> (12 g) if you prefer.  For another recipe with <a href='https://amzn.to/47w8h7R'>inulin</a>, check out my <a href='/recipes/fiber-one-brownies'>Copycat Fiber One Brownies</a>
 ---

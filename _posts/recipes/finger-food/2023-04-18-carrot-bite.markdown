@@ -48,7 +48,7 @@ tags:
 - roast
 - blend
 - energy
-Description: These bites take the idea of a carrot cake and simplify them down to bite sized pieces. They are naturally sweetened with honey, and the perfect snack to take on the go for a quick energy boost.  For other no bake bite sized snacks, check out my <a href='/recipes/trail-mix-balls'>Trail Mix Balls</a>, <a href='/recipes/chickpea-chows'>Chickpea Chows</a>, or my <a href='/recipes/energy-bites'>No Bake Energy Bites</a>
+Description: These bites take the idea of a carrot cake and simplify them down to bite sized pieces. They are naturally sweetened with <a href='/misc/natural-sweeteners#honey'>honey</a>, and the perfect snack to take on the go for a quick energy boost.  For other no bake bite sized snacks, check out my <a href='/recipes/trail-mix-balls'>Trail Mix Balls</a>, <a href='/recipes/chickpea-chows'>Chickpea Chows</a>, or my <a href='/recipes/energy-bites'>No Bake Energy Bites</a>
 Instructions:
 - Cut <a href='/misc/veggies#carrots'>carrots</a> into thin strips. Add to a sheet pan with olive oil and salt, and roast for 25 minutes at 425F, stirring halfway. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until you have a puree
 

@@ -46,11 +46,11 @@ tags:
 - honey
 - jam
 - bake
-Description: This Peanut Butter Bread is inspired by the 1932 Great Depression Peanut Butter Bread. It's full of <a href='/misc/nuts#peanuts'>peanut butter</a> flavor, without being too sweet. It's perfect for <a href='/recipes/breakfast'>breakfast</a>, and goes well with some <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, or <a href='/recipes/berry-jam'>jam</a> on top of it. I cut down the <a href='/misc/hidden-sugar'>sugar</a> and replaced it with honey, as well as swapped to <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. I'm sure you'll enjoy this healthier quick <a href='/recipes/bread'>bread</a>.
+Description: This Peanut Butter Bread is inspired by the 1932 Great Depression Peanut Butter Bread. It's full of <a href='/misc/nuts#peanuts'>peanut butter</a> flavor, without being too sweet. It's perfect for <a href='/recipes/breakfast'>breakfast</a>, and goes well with some <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, or <a href='/recipes/berry-jam'>jam</a> on top of it. I cut down the <a href='/misc/hidden-sugar'>sugar</a> and replaced it with <a href='/misc/natural-sweeteners#honey'>honey</a>, as well as swapped to <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. I'm sure you'll enjoy this healthier quick <a href='/recipes/bread'>bread</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the flour, salt, and baking powder with a whisk
 
-- Add in the <a href='/misc/nuts#peanuts'>peanut butter</a> and honey, and combine with your fingers. It should have the consistency of wet sand
+- Add in the <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>, and combine with your fingers. It should have the consistency of wet sand
 
 - Finally, using a <a href='https://amzn.to/40F2aK0'>spatula</a>, mix in the <a href='/misc/dairy#almond-milk'>almond milk</a>
 - <img src='/assets/Food/Breakfast/PB Bread/pb-bread-3.jpg' alt='' class='instruction-image'>
