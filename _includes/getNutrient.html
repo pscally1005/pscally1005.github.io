@@ -427,9 +427,6 @@
     <!-- Lactose -->
     {% assign lactoseStr = lactose | round: 1 | append: ' g' %}
 
-    <!-- Glycemic index -->
-    {% capture giStr %}{% include giNum.html facts=facts ing=ing folder=folder %}{% endcapture %}
-
     <!-- Empty line variable to be filled later -->
     {% assign line = "" %}
 
@@ -673,6 +670,7 @@
         fetch:"{{fetch}}"
     {% endcomment %}
 
+    <!-- Exceptions -->
     {% if nutrient == "Protein Ratio" %}
         {% assign output = protRatio %}
     {% elsif infinity_flag and fetch == "per100cal" %}
@@ -746,6 +744,10 @@
     {% endif %}
 
     <!-- Output -->
-    {{output}}
+    {% if nutrient == "Glycemic Index" %}
+        {% include giNum.html facts=facts ing=ing folder=folder %}
+    {% else %}
+        {{output}}
+    {% endif %}
 
 {% endif %}

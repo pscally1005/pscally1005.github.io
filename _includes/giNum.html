@@ -23,14 +23,15 @@
 <!-- Loop variable -->
 {% assign loopVarFacts = site.data[facts] %}
 {% assign loopVarIng = site.data[ing] %}
-{% if recipe == "false" %}
-    {% assign loopVarIng = ing %}
-{% endif %}
-{% if include.folder %}
+{% if include.folder and include.folder != "" %}
     {% assign folder = include.folder %}
     {% assign loopVarFacts = site.data[folder][facts] %}
     {% assign loopVarIng = site.data[folder][ing] %}
 {% endif %}
+
+{% comment %}
+    <hr>"{{folder}}"<hr>"{{facts}}"<hr>"{{ing}}"<hr>"{{loopVarFacts}}"<hr>"{{loopVarIng}}"<hr>
+{% endcomment %}
 
 <!-- Loop through all the ingredients -->
 {% for row in loopVarIng %}
@@ -49,7 +50,7 @@
 
     <!-- Get the food and gram measurements -->
     {% assign food = row["Ingredient"] %}
-    {% assign mass = row["Amount"] | time: 1.0 %}
+    {% assign mass = row["Amount"] | times: 1.0 %}
 
     <!-- Variables for glycemic index & carbs per 100 g -->
     {% assign GI = "" %}
@@ -89,31 +90,39 @@
     {% assign left = mass | times: unit_carbs %}
     {% assign carbs = left | divided_by: 100 %}
 
+    <!-- Calculator numerator -->
+    {% if unit_carbs == 0 %}
+        {% assign numerator = 0 %}
+    {% else %}
+        {% assign numerator = GI | times: carbs %}
+    {% endif %}
+
     <!-- Calculate total GI numerator for 1 serving -->
     {% assign totalGI_numerator = totalGI_numerator | plus: numerator %}
     {% assign totalCarbs = totalCarbs | plus: carbs %}
 
+    {% comment %}
+        <hr>"{{GI}}"<hr>"{{unit_carbs}}"<hr>"{{left}}"<hr>"{{carbs}}"<hr>"{{numerator}}"<hr>"{{totalGI_numerator}}"<hr>"{{totalCarbs}}"<hr>
+    {% endcomment %}
 
 {% endfor %}
 
-<!-- Return GI -->
-{{ totalGI_numerator | strip }}
+{% comment %}
+    <hr>"{{totalGI_numerator}}"<hr>"{{totalCarbs}}"<hr>
+{% endcomment %}
 
-<style>
-    .gl-row {
-        display: grid;
-        grid-template-columns: 1fr 2fr 1fr 1fr;
-        column-gap: 1.5rem;
-        align-items: center;
-    }
-
-    .debug-totals {
-        display: flex;
-        gap: 2rem;
-        font-weight: 600;
-    }
-
-    .debug-item {
-        margin-right: 2rem;
-    }
-</style>
+<!-- Calculate & return final GI -->
+{% if totalCarbs != 0 and totalCarbs != "0" and totalCarbs != "" %}
+    {% assign totalGI = totalGI_numerator | divided_by: totalCarbs | round: 0 %}
+    {% if totalGI >= 70 %}
+        <font class='red-text-themed'>
+    {% elsif totalGI < 70 and totalGI >= 56 %}
+        <font class='yellow-text-themed'>
+    {% else %}
+        <font class='green-text-themed'>
+    {% endif %}
+    {{ totalGI }}
+    </font>
+{% else %}
+    NA
+{% endif %}
