@@ -127,6 +127,9 @@ Notes:
 - 1 cup (180 g) of melted <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> (1/2 cup or 90 g per side) would also work in place of the <a href='/misc/chocolate-percentages'>homemade chocolate</a> with <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>
 
 - If you don't care to make them <a href='/misc/hidden-sugar'>sugar free</a>, then you can use standard granulated <a href='/misc/hidden-sugar'>sugar</a> in place of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  Additionally, melt 1/2 cup (90 g) of <a href='/misc/chocolate-benefits'>chocolate chips</a> <b>each</b> for the top and bottom instead of using the <a href='/misc/chocolate-percentages'>homemade chocolate</a> (<a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>)
+
+- My final batch of rainbow cookies weighed 878 g, or 1.94 lb.  At $11.96 total, that means these cookies cost $6.14 per pound.  For reference, rainbow cookies at a bakery may run you $20 per pound, which is over 3 times the cost.  If you make them with sugar instead of monk fruit, the cost per pound is even lower, at $5.29, or about a quarter of the price compared to buying them
+
 - |
   COMPARE(
     "rainbowv3monkfruit",
@@ -144,6 +147,4 @@ Notes:
     "Sugar Alcohol",
     "Glycemic Index"
   )
-
-- My final batch of rainbow cookies weighed 878 g, or 1.94 lb.  At $11.96 total, that means these cookies cost $6.14 per pound.  For reference, rainbow cookies at a bakery may run you $20 per pound, which is over 3 times the cost.  If you make them with sugar instead of monk fruit, the cost per pound is even lower, at $5.29, or about a quarter of the price compared to buying them.
 ---

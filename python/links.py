@@ -10,6 +10,25 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/chocolate-cloud-bars": [
+        "chocolate cloud bars"
+    ],
+    "/recipes/clif-bars": [
+        "Copycat Peanut Butter Chocolate Clif Bars",
+        "Copycat Peanut Butter Chocolate Clif Bar",
+        "chocolate clif bars",
+        "chocolate clif bar",
+        "peanut butter chocolate clif bars",
+        "peanut butter chocolate clif bar",
+        "peanut chocolate clif bars",
+        "peanut chocolate clif bar",
+        "copycat chocolate clif bars",
+        "copycat chocolate clif bar",
+        "copycat clif bars",
+        "copycat clif bar",
+        "clif bars",
+        "clif bar"
+    ],
     "/recipes/peanut-coconut-curry": [
         "peanut coconut curry",
         "panang"
@@ -5715,6 +5734,10 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "vanilla or chocolate",
+    "chocolate or vanilla",
+    "vanilla (or chocolate)",
+    "chocolate (or vanilla)"
     "chocolate is firm",
     "chocolate on the other side",
     "harden the chocolate",
