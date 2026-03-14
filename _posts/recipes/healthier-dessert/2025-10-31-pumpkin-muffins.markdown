@@ -68,7 +68,7 @@ Instructions:
 Notes:
 - I've gone with <a href='/misc/nuts#almonds'>almond butter</a> here, but any natural <a href='/misc/nuts'>nut</a> or <a href='/misc/seeds'>seed</a> will work, such as <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, or <a href='/misc/seeds#sesame-seeds'>tahini</a>
 
-- For the sweetener, either honey or maple syrup will work
+- For the sweetener, either honey or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> will work
 
 - I've gone with <a href='/misc/nuts#almonds'>almond flour</a> here, but <a href='/misc/grains#oats'>oat flour</a> (1 cup, 90 g) will also work
 

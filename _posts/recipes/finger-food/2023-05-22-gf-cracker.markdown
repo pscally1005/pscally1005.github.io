@@ -49,7 +49,7 @@ tags:
 - peanut
 - snack
 Description: |
-  <a href='/misc/fake-healthy-foods#crackers'>Graham crackers</a> were always one of my favorite snacks as a kid, so here I've made them healthier and <a href='/misc/celiac'>gluten free</a>.  They're lower in <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a> than traditional, replacing the <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/hidden-sugar'>sugar</a> with <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, and maple syrup.  Here's some great uses for <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a>
+  <a href='/misc/fake-healthy-foods#crackers'>Graham crackers</a> were always one of my favorite snacks as a kid, so here I've made them healthier and <a href='/misc/celiac'>gluten free</a>.  They're lower in <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a> than traditional, replacing the <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/hidden-sugar'>sugar</a> with <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>.  Here's some great uses for <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a>
   <ul>
       <li>Pair with a <a href='/recipes/chocolate-bar'>Sugar Free Chocolate Bar</a> and make a healthier <a href='/recipes/smores'>Indoor Roasted S'more</a></li>
       <li>Dip into a <a href='/recipes/sweet-spreads'>sweet spread</a> like <a href='/recipes/date-frosting'>Date Sweetened Frosting</a> or <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a></li>

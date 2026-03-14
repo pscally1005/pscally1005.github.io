@@ -59,7 +59,7 @@ Instructions:
 Notes:
 - <a href='/misc/dairy#yogurt'>Plain nonfat greek yogurt</a> will work in place of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>.  I've also made this recipe using <a href='/misc/dairy#yogurt-whole-milk'>whole milk greek yogurt</a>, and just removed one of the tablespoons of <a href='/misc/fats'>oil</a>
 
-- You can also use 1/2 tsp (2.5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a> as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, maple syrup, or (ironically) honey should also work too
+- You can also use 1/2 tsp (2.5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a> as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or (ironically) honey should also work too
 
 - Compared to typical <a href='https://amzn.to/43ZqAQ3'>bottled honey mustard</a>, my version has a third of the <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, with <a href='/misc/protein'>protein</a> and no <a href='/misc/hidden-sugar'>added sugar</a>, something the store bought version can't say
 ---

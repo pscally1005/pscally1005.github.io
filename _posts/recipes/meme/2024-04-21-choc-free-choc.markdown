@@ -58,5 +58,5 @@ Instructions:
 
 - Transfer to a parchment line <a href='https://amzn.to/3YUjIkN'>bread pan</a>, and refrigerate until hardened, about an hour. Cut into 8 squares, each 1/2 oz (14 g)
 Notes:
-- Optionally, add a small pinch of salt and some liquid sweetener, such as <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, honey, or maple syrup
+- Optionally, add a small pinch of salt and some liquid sweetener, such as <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, honey, or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>
 ---

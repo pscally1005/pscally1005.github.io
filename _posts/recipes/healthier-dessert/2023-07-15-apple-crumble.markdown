@@ -67,7 +67,7 @@ Instructions:
 - Half, core, and thinly slice each <a href='/misc/fruit#apple'>apple</a>. Add to a <a href='https://amzn.to/4adxMft'>large bowl</a>.  Add the rest of the <a href='/misc/fruit#apple'>apple</a> mix ingredients (honey, cornstarch, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, cinnamon, nutmeg, <a href='/misc/veggies#ginger'>ginger</a>, allspice, salt, and cloves), and toss until fully coated.  Transfer to lightly greased <a href='https://amzn.to/4aiCsjh'>9x13" pan</a>
 - <img src='/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-apples.jpg' alt='' class='instruction-image'>
 
-- Next, prepare the topping. Mix together the crisp topping ingredients (<a href='/misc/grains#oats'>quick oats</a>, maple syrup, <a href='/misc/nuts#coconut'>coconut oil</a>, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, cloves, and salt.  Evenly crumble the mixture on top of the <a href='/misc/fruit#apple'>apples</a>
+- Next, prepare the topping. Mix together the crisp topping ingredients (<a href='/misc/grains#oats'>quick oats</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, cloves, and salt.  Evenly crumble the mixture on top of the <a href='/misc/fruit#apple'>apples</a>
 - <img src='/assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-raw-crisp.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F (covered) for about 60 minutes, or until the top is golden brown and the <a href='/misc/fruit#apple'>apples</a> are syrupy and tender, but not mushy. Broil the top for a few minutes to brown it more if desired. Let cool at least 15 minutes before slicing

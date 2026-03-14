@@ -66,7 +66,7 @@ Notes:
 
 - I'm using <a href='/misc/nuts#cashews'>cashew butter</a> here because it provides richness, <a href='/misc/fats'>healthy fats</a>, and binds together the ingredients, but still has a neutral taste that will leave this tasting more like a standard cookie dough.  <a href='/misc/nuts#almonds'>Almond butter</a> would also be good, or you can use <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> or <a href='/misc/seeds#sesame-seeds'>tahini</a> to keep it <a href='/misc/nuts'>nut</a> free.  <a href='/misc/nuts#peanuts'>Peanut butter</a> also works, but it will have a distinct <a href='/misc/nuts#peanuts'>peanut butter</a> flavor, which is something to keep in mind
 
-- As for the sweetener, I'm using honey here, but either maple syrup or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> will work as well (3 tbsp, 60 g)
+- As for the sweetener, I'm using honey here, but either <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> will work as well (3 tbsp, 60 g)
 
 - You can also used <a href='/misc/fruit#dates'>dates</a> (or <a href='/misc/fruit#raisins'>raisins</a> or <a href='/misc/fruit#fig-dried'>figs</a>) if you prefer.  Blend together the <a href='/recipes/natural-peanut-butter'>nut butter</a> with 1/2 cup (80 g) of <a href='/misc/fruit#dates'>dates</a> until smooth, and transfer to a bowl.  Mix in the rest of the ingredients, but reduce the <a href='/misc/grains#oats'>oat flour</a> to 1 cup (90 g)
 

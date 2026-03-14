@@ -69,7 +69,7 @@ Instructions:
 - Bake at 350F for at least 60 minutes, or a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>. Let cook on a <a href='https://amzn.to/4qQNmn2'>wire rack</a> before slicing.  Transfer to a fridge in a bag or container
 - <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-5.jpg' alt='' class='instruction-image'>
 Notes:
-- I've used 1 tsp (5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> here as my sweetener, but other good options are 1 tsp (5 g) <a href='https://amzn.to/45wOzIv'>liquid stevia</a>, 2 tbsp (40 g) honey/maple syrup/<a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or 2 tbsp (25 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>
+- I've used 1 tsp (5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> here as my sweetener, but other good options are 1 tsp (5 g) <a href='https://amzn.to/45wOzIv'>liquid stevia</a>, 2 tbsp (40 g) honey/<a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>/<a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or 2 tbsp (25 g) <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>
 
 - Note that my <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
 

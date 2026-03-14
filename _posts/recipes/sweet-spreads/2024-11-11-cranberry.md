@@ -46,7 +46,7 @@ tags:
 - vanilla
 - liquid monk fruit
 - liquid stevia
-Description: It's almost Thanksgiving, which means it's time for cranberry sauce. But this isn't your aunt's typical cranberry sauce. It's <a href='/misc/hidden-sugar'>sugar free</a>, being sweetened just from fresh <a href='/misc/fruit#mandarin'>mandarin oranges</a> and a little <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. You can adjust the sweetness to your taste preferences, or add some maple syrup if you like it super sweet. Spoon on top of your <a href='/misc/meat#ground-turkey'>turkey</a>, or use it for your morning <a href='/oatmeal'>oatmeal</a>, I won't tell.
+Description: It's almost Thanksgiving, which means it's time for cranberry sauce. But this isn't your aunt's typical cranberry sauce. It's <a href='/misc/hidden-sugar'>sugar free</a>, being sweetened just from fresh <a href='/misc/fruit#mandarin'>mandarin oranges</a> and a little <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. You can adjust the sweetness to your taste preferences, or add some <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> if you like it super sweet. Spoon on top of your <a href='/misc/meat#ground-turkey'>turkey</a>, or use it for your morning <a href='/oatmeal'>oatmeal</a>, I won't tell.
 Instructions: 
 - Peel your <a href='/misc/fruit#orange'>oranges</a>, and add to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until smooth, and transfer to a <a href='https://amzn.to/46ccg8m'>medium pot</a>
 - <img src='/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-orange.jpg' alt='' class='instruction-image'>

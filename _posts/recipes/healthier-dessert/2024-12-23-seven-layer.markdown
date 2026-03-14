@@ -64,16 +64,16 @@ tags:
 Description: |
   7-Layer Bars, also known as Hello Dollies or Magic Bars, are a dessert built from seven different layers of dessert - <a href='/misc/fake-healthy-foods#crackers'>graham crackers</a>, <a href='/misc/dairy#butter'>butter</a>, chocolate chips, butterscotch chips, chopped <a href='/misc/nuts'>nuts</a>, <a href='/misc/nuts#coconut'>shredded coconut</a>, and sweetened condensed milk.<br><br>
 
-  But I'm making these healthier today, which means an <a href='/misc/grains#oats'>oat</a> and <a href='/misc/nuts#coconut'>coconut flour</a> crust, homemade condensed milk, and <a href='https://amzn.to/4mzsH5p'>allulose</a> dark chocolate. The result is a delicious and <a href='/recipes/healthier-dessert'>healthier dessert</a> that's <a href='/misc/celiac'>gluten free</a> and <a href='/misc/hidden-sugar'>refined sugar free</a> (replace the maple syrup for <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> for totally <a href='/misc/hidden-sugar'>sugar free</a>).  Perfect for Christmas time!
+  But I'm making these healthier today, which means an <a href='/misc/grains#oats'>oat</a> and <a href='/misc/nuts#coconut'>coconut flour</a> crust, homemade condensed milk, and <a href='https://amzn.to/4mzsH5p'>allulose</a> dark chocolate. The result is a delicious and <a href='/recipes/healthier-dessert'>healthier dessert</a> that's <a href='/misc/celiac'>gluten free</a> and <a href='/misc/hidden-sugar'>refined sugar free</a> (replace the <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> for <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> for totally <a href='/misc/hidden-sugar'>sugar free</a>).  Perfect for Christmas time!
 Instructions:
 - Preheat your oven to 350F, and line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper.
 
-- Add the evaporated milk and maple syrup to a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat. Bring to a slow boil, and allow it to simmer until it reduces by half, about 25 minutes, stirring frequently to ensure nothing sticks to the bottom of the pan
+- Add the evaporated milk and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> to a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat. Bring to a slow boil, and allow it to simmer until it reduces by half, about 25 minutes, stirring frequently to ensure nothing sticks to the bottom of the pan
 
 - Remove the pan from the heat and stir in the vanilla extract. Set aside to cool for at least 10 minutes in the fridge
 - <img src='/assets/Food/Healthier Dessert/7 Layer/milk.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, in a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the crust ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, salt, cinnamon, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and maple syrup. Evenly press the mixture into the pan. The dough should feel slightly crumbly, and you should have just enough dough to barely cover the base of the pan
+- Meanwhile, in a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the crust ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, salt, cinnamon, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>. Evenly press the mixture into the pan. The dough should feel slightly crumbly, and you should have just enough dough to barely cover the base of the pan
 
 - Bake the crust for 10 minutes at 350F, then cool for at least 5 minutes
 - <img src='/assets/Food/Healthier Dessert/7 Layer/crust.jpg' alt='' class='instruction-image'>

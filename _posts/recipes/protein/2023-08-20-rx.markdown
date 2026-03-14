@@ -91,7 +91,7 @@ Notes:
 
 - Any <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> will work here, not just <a href='/misc/fruit#dates'>dates</a>.  I've also made these with <a href='/misc/fruit#raisins'>raisins</a>, but <a href='/misc/fruit#fig-dried'>dried figs</a> and <a href='/misc/fruit#prune'>prunes</a> will also work just as well
 
-- Alternatively, you can sweeten these with 4 tbsp of honey (84 g), maple syrup (80 g), or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (80 g) instead of <a href='/misc/fruit#dates'>dates</a>
+- Alternatively, you can sweeten these with 4 tbsp of honey (84 g), <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> (80 g), or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (80 g) instead of <a href='/misc/fruit#dates'>dates</a>
 
 - |
   COMPARE(

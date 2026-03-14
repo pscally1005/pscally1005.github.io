@@ -67,7 +67,7 @@ Instructions:
 Notes:
 - Any kind of <a href='/recipes/natural-peanut-butter'>nut butter</a> will work (<a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/nuts#pistachios'>pistachio</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower</a>, etc.)
 
-- You can use maple syrup or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> instead of honey
+- You can use <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> instead of honey
 
 - <a href='/misc/chocolate-benefits'>Cacao powder</a> or carob powder will also work in place of <a href='/misc/chocolate-benefits'>cocoa powder</a>
 ---

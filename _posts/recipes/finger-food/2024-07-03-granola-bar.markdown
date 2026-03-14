@@ -69,5 +69,5 @@ Instructions:
 
 - Refrigerate for at least 2 hours to set (ideally overnight) before slicing. Wrap each bar in parchment paper, and store in an airtight bag (either in the fridge or freezer)
 Notes:
-- I've gone with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, but either maple syrup or honey will work as well
+- I've gone with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, but either <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> or honey will work as well
 ---

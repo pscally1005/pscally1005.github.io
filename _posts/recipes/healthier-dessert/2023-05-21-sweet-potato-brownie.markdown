@@ -56,7 +56,7 @@ tags:
 - applesauce
 - sugar free
 - gluten free
-Description: After my <a href='/misc/boxed-brownie-experiment'>Fat Replacements in Boxed Brownies</a> experiment, where I found that <a href='/misc/veggies#sweet-potato'>sweet potato</a> was the best <a href='/misc/fats'>oil</a> replacement in <a href='/brownies'>brownies</a>, I wanted to make a homemade batch using <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a> as the base. The result is a <a href='/misc/calories'>low calorie</a> <a href='/brownies'>brownie</a> that is still just as delicious and fudgy as the one from the box. They're also <a href='/misc/nuts'>nut</a> free too, and have an increased <a href='/misc/fiber'>fiber</a> content. There's no weird ingredients; just sweetened by either <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, maple syrup, or honey.  For more <a href='/misc/veggies#sweet-potato'>sweet potato</a> based <a href='/recipes/healthier-dessert'>desserts</a>, see my <a href='/recipes/sweet-potato-blondies'>Sweet Potato Blondies</a>, or check out any of my other <a href='/brownies'>brownie recipes</a>!
+Description: After my <a href='/misc/boxed-brownie-experiment'>Fat Replacements in Boxed Brownies</a> experiment, where I found that <a href='/misc/veggies#sweet-potato'>sweet potato</a> was the best <a href='/misc/fats'>oil</a> replacement in <a href='/brownies'>brownies</a>, I wanted to make a homemade batch using <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a> as the base. The result is a <a href='/misc/calories'>low calorie</a> <a href='/brownies'>brownie</a> that is still just as delicious and fudgy as the one from the box. They're also <a href='/misc/nuts'>nut</a> free too, and have an increased <a href='/misc/fiber'>fiber</a> content. There's no weird ingredients; just sweetened by either <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or honey.  For more <a href='/misc/veggies#sweet-potato'>sweet potato</a> based <a href='/recipes/healthier-dessert'>desserts</a>, see my <a href='/recipes/sweet-potato-blondies'>Sweet Potato Blondies</a>, or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
 - Preheat your oven to 350F and line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. Optionally, <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
@@ -79,7 +79,7 @@ Instructions:
 Notes:
 - <a href='/misc/nuts#almonds'>Almond flour</a> or <a href='/misc/grains#whole-wheat'>whole wheat flour</a> should also work in place of <a href='/misc/grains#oats'>oat flour</a>
 
-- Maple syrup or honey would work in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- <a href='/misc/natural-sweeteners#maple-syrup'>Maple syrup</a> or honey would work in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 
 - Melted chocolate can be replaced 1 oz (28 g) each of <a href='/misc/chocolate-benefits'>cocoa powder</a> and melted <a href='/misc/nuts#coconut'>coconut oil</a>
 

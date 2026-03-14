@@ -71,7 +71,7 @@ Instructions:
 
 - Pour the <a href='/misc/chocolate-benefits'>chocolate</a> into a parchment lined Tupperware, and refrigerate until solid, about 30 minutes
 
-- Meanwhile, move into the <a href='/cookies'>cookie</a> dough.  To a <a href='https://amzn.to/4q0AUjI'>food processor</a>, add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and vanilla.  Maple syrup or honey can be used in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.  Blend until smooth, and transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
+- Meanwhile, move into the <a href='/cookies'>cookie</a> dough.  To a <a href='https://amzn.to/4q0AUjI'>food processor</a>, add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and vanilla.  Blend until smooth, and transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
 
 - Mix the rest of the <a href='/cookies'>cookie</a> dough ingredients (<a href='/recipes/natural-peanut-butter'>nut butter</a>, salt, and <a href='/misc/nuts#coconut'>coconut flour</a>) with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.  I've used <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, but <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, or <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a> would also work.  <a href='/misc/grains#oats'>Oat</a> or <a href='/misc/nuts#almonds'>almond flour</a> would probably work instead of <a href='/misc/nuts#coconut'>coconut</a>, but start with at least double by weight, and go on feel.  The dough should be slightly sticky
 
@@ -85,6 +85,8 @@ Instructions:
 
 - Let cool on the pan for 5 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely.  Store in an airtight container in the fridge
 Notes:
+- <a href='/misc/natural-sweeteners#maple-syrup'>Maple syrup</a> or honey can be used in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+
 - You can also enjoy these as edible <a href='/cookies'>cookie</a> dough bites
 - <img src='/assets/Food/Healthier Dessert/CC Cookies/cc-cookie-dough.jpg' alt='' class='instruction-image'>
 ---

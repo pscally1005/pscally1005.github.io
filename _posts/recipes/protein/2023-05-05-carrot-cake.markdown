@@ -76,7 +76,7 @@ Instructions:
 
 - Bake for about 25 minutes at 350F. A toothpick to the center should come out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> should be around <a href='https://amzn.to/4kmobG2'>205F</a>. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely in the fridge
 
-- In a bowl, prepare the frosting - whipped <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/dairy#whey'>whey</a>, almond extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.  If you want it a little sweeter, you can also add 1 tbsp (20 g) maple syrup, honey, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- In a bowl, prepare the frosting - whipped <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/dairy#whey'>whey</a>, almond extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.  If you want it a little sweeter, you can also add 1 tbsp (20 g) <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, honey, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 - <img src='/assets/Food/Protein Powder/Carrot Cake/carrot-cake-7.jpg' alt='' class='instruction-image'>
 
 - Spread on top of one of the layers, then place the other layer on top. Spread on top of the second layer, and optionally sprinkle the top with cinnamon
