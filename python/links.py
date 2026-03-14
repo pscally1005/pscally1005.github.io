@@ -5064,6 +5064,23 @@ LINKS = {
         '"natural" (or "unrefined") sugars',
         '"natural" (or "unrefined") sugar'
     ],
+    "/misc/natural-sweeteners#honey": [
+        "honey"
+    ],
+    "/misc/natural-sweeteners#maple-syrup": [
+        "maple syrup"
+    ],
+    "/misc/natural-sweeteners#agave": [
+        "agave syrup",
+        "agave"
+    ],
+    "/misc/natural-sweeteners#coconut-sugar": [
+        "coconut sugar"
+    ],
+    "/misc/natural-sweeteners#date-sugar": [
+        "date sugar",
+        "date syrup"
+    ],
     "/misc/processed-foods": [
         "processed stuff",
         "processed foods",
