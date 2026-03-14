@@ -43,7 +43,11 @@
 
                     {% assign nutrient = nutrients[i] %}
 
-                    <td>{% include nutrientLinks.html nutrient=nutrient %}</td>
+                    {% if nutrient == "Glycemic Index" %}
+                        <td><a href="/misc/diabetes">Glycemic<br>Index</a></td>
+                    {% else %}
+                        <td>{% include nutrientLinks.html nutrient=nutrient %}</td>
+                    {% endif %}
 
                     {% if
                         nutrient == "Calories" or
@@ -53,7 +57,8 @@
                         nutrient == "Calcium" or
                         nutrient == "Magnesium" or
                         nutrient == "Phosphorus" or
-                        nutrient == "Potassium"
+                        nutrient == "Potassium" or
+                        nutrient == "Glycemic Index"
                     %}
                         {% assign rnd = "0" %}
                     {% elsif

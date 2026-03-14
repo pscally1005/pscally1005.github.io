@@ -67,9 +67,41 @@ Description: |
 
   <a href='/misc/veggies#beets'>Beets</a> are used to naturally color the red layer, and <a href='/misc/fruit#avocado'>avocado</a> is used for the green.  The cookie layers, the <a href='/recipes/strawberry-chia-jam'>raspberry jam</a>, and the chocolate coating are all sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, instead of white sugar, leading to a cookie with no refined sugar that won't spike your blood sugar.  The cookie layers also use almond flour instead of white flour, making them gluten free, higher in healthy fats and fiber, and lower in refined starches
 Instructions:
-- TODO
+- Preheat your oven to 350F, and line 3 9x9" pans with parchment paper. If you only have 1 pan (like me), you will instead bake the layers in 3 separate batches. Lightly spray the paper with oil
+
+- Separate the yolks from the whites, and add the egg whites to a large metal bowl
+
+- In a large bowl, combine together the egg yolks with the rest of the cookie layer ingredients using a silicone spatula - applesauce, granulated monk fruit, cashew butter, almond extract, baking powder, salt, and almond flour
+
+- Beat the egg whites with a hand mixer until you have stiff peaks, about 3-5 minutes. Carefully fold the egg whites into the cookie batter with a spatula
+
+- Prepare 3 smaller bowls, one for each color. For the green layer, mash an avocado with the back of a fork until smooth. For the red layer, add in your pickled beet juice. Evenly divide the batter across the 3 bowls, about 169 g each, and mix each with a silicone spatula until fully combined
+
+- Transfer the batters into the prepared pans. Bake at 350F for 8-10 minutes, or until set and lightly browned. Remove from the pan, and let cool completely on a wire rack
+
+- Microwave your frozen berries for about 2 minutes to defrost. Add berries and granulated sweetener to a medium stainless steel pan over medium low heat, and roughly mash with a potato masher. Cook with occasional stirring until thickened and syrupy, about 10 minutes. Stir in chia seeds and lemon juice. Refrigerate to cool, at least 30 minutes so the chia seeds can thicken the jam
+
+- Once the cookie layers and the jam have totally cooled, spread half your jam on top of the green layer.  Place the yellow layer on top of the green layer, and spread the other half of the jam on top of the yellow layer. Place the red layer on top
+
+- Wrap the entire cake in plastic wrap. Place on a cookie sheet, and place a weight on top of it.  Refrigerate for at least 4 hours, or ideally overnight
+
+- The next day, remove the plastic, and flip the cake onto a cutting board or wire rack
+
+- Make just half of the chocolate (half the amounts of melted coconut oil, cocoa powder, and granular monk fruit), and spread onto the top layer of the cake. Chill in the refrigerator until the chocolate is firm, at least 30 minutes
+
+- Flip the cake and repeat with the other half of the chocolate on the other side. Again, chill to harden the chocolate, at least 30 minutes
+
+- Once cooled, cut the cake into about 1 inch squares. Line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with parchment paper, and spread out the cookies so none are touching.  Freeze uncovered for at least 1 hour before transferring to an airtight container
 Notes:
-- TODO
+- I'm using cashew butter here because it provides richness, healthy fats, and binds together the ingredients, but still has a neutral taste that will leave this tasting more like a standard cookie dough. Almond butter would also be good
+
+- To make it nut free, replace the cashew butter with tahini or sunflower seed butter, and replace the almond flour with oat flour
+
+- If you're using immitation almond extract, you may want to double it
+
+- 1 cup (170 g) of melted sugar free chocolate chips (1/2 cup or 85 g per side) would also work in place of the homemade chocolate with coconut oil, cocoa powder, and granulated monk fruit
+
+- I've used granulated monk fruit here to make them sugar free, lower in carbs, and lower in calories, but you can use standard granulated sugar if you like.  The measurements (both by volume and weight) are identical
 - |
   COMPARE(
     "rainbowv3monkfruit",

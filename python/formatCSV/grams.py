@@ -801,7 +801,7 @@ def grams(food, mass, vol):
             m = "136"
 
     # Syrup
-    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey":
+    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey" or food == "Agave" or food == "Agave syrup" or food == "Date syrup":
         if vol == "1 tsp":
             m = "6.5"
         elif vol == "1/2 tbsp" or vol == "0.5 serving":
@@ -1465,7 +1465,7 @@ def grams(food, mass, vol):
             m = "1720"
 
     # Sugar, etc.
-    elif food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin":
+    elif food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar":
         if vol == "1 tsp":
             m = "4"
         elif vol == "1/2 tbsp":

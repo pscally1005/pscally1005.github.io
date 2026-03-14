@@ -4542,6 +4542,17 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4bu23Gx": [
+        "manuka honey",
+        "manuka",
+        "50+"
+    ],
+    "https://amzn.to/3N5x2k1": [
+        "10+"
+    ],
+    "https://amzn.to/4uxIiqc": [
+        "850+"
+    ],
     "https://amzn.to/4rhYDwh": [
         "carob powder",
         "carob"

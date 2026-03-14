@@ -1,0 +1,119 @@
+<!-- Use parameters or not -->
+{% assign ing = page.ing %}
+{% assign facts = page.facts %}
+{% if include.ing %}
+    {% assign ing = include.ing %}
+    {% assign facts = include.facts %}
+{% elsif include.file %}
+    {% assign file = include.file %}
+    {% assign ing = file | append: "-ing" %}
+    {% assign facts = file | append: "-facts" %}
+{% elsif page.file %}
+    {% assign file = page.file %}
+    {% assign ing = file | append: "-ing" %}
+    {% assign facts = file | append: "-facts" %}
+{% endif %}
+
+<!-- Variables -->
+{% assign totalGI = 0 %}
+{% assign totalGI_numerator = 0 %}
+{% assign totalCarbs = 0 %}
+{% assign servings = 0 %}
+
+<!-- Loop variable -->
+{% assign loopVarFacts = site.data[facts] %}
+{% assign loopVarIng = site.data[ing] %}
+{% if recipe == "false" %}
+    {% assign loopVarIng = ing %}
+{% endif %}
+{% if include.folder %}
+    {% assign folder = include.folder %}
+    {% assign loopVarFacts = site.data[folder][facts] %}
+    {% assign loopVarIng = site.data[folder][ing] %}
+{% endif %}
+
+<!-- Loop through all the ingredients -->
+{% for row in loopVarIng %}
+    <!-- Get # of servings -->
+    {% if forloop.last %}
+        {% assign servings = row["Amount"] | times: 1 %}
+        {% continue %}
+    {% endif %}
+{% endfor %}
+
+{% for row in loopVarIng %}
+
+    {% if forloop.last %}
+        {% continue %}
+    {% endif %}
+
+    <!-- Get the food and gram measurements -->
+    {% assign food = row["Ingredient"] %}
+    {% assign mass = row["Amount"] | time: 1.0 %}
+
+    <!-- Variables for glycemic index & carbs per 100 g -->
+    {% assign GI = "" %}
+    {% assign unit_carbs = "" %}
+
+    <!-- Loop through rows of foods file -->
+    {% for row in site.data.foods %}
+
+        <!-- Assign GI & unit carbs -->
+        {% if row["Food"] == food %}
+            {% assign GI = row["Glycemic Index"] | times: 1.0 %}
+
+            {% assign unit_carbs = 0.0 %}
+            {% assign fileName = row["File"] | append: "-facts" %}
+            {% assign factsFile = site.data.servingSizes[fileName] %}
+            {% for r in factsFile %}
+              {% if r["Nutrient"] == "Carbohydrate" %}
+                {% assign unit_carbs = r["Amount"] %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+
+            {% break %}
+        {% endif %}
+
+    {% endfor %}
+
+    <!-- No match found -->
+    {% if GI == "" %}
+        {% assign GI = -9999 | times: 1.0 %}
+    {% endif %}
+    {% if unit_carbs == "" %}
+        {% assign unit_carbs = -9999 | times: 1.0 %}
+    {% endif %}
+
+    <!-- Calculate carbs -->
+    {% assign left = mass | times: unit_carbs %}
+    {% assign carbs = left | divided_by: 100 %}
+
+    <!-- Calculate total GI numerator for 1 serving -->
+    {% assign totalGI_numerator = totalGI_numerator | plus: numerator %}
+    {% assign totalCarbs = totalCarbs | plus: carbs %}
+
+
+{% endfor %}
+
+<!-- Return GI -->
+{{ totalGI_numerator | strip }}
+
+<style>
+    .gl-row {
+        display: grid;
+        grid-template-columns: 1fr 2fr 1fr 1fr;
+        column-gap: 1.5rem;
+        align-items: center;
+    }
+
+    .debug-totals {
+        display: flex;
+        gap: 2rem;
+        font-weight: 600;
+    }
+
+    .debug-item {
+        margin-right: 2rem;
+    }
+</style>

@@ -109,6 +109,8 @@
     {% assign lactose = 0.0 %}
     {% assign lactoseStr = "0.0 g (0 %)"" %}
 
+    {% assign giStr = "0" %}
+
     <!-- Loop to get nutrition facts -->
     {% for row in loopVarFacts %}
         {% for pair in row %}
@@ -348,7 +350,7 @@
 
             {% assign file = facts | replace: "-facts", "" %}
 
-            <!-- Added sugar, sugar alcohol, allulose, gluten, and lactose per ingredient -->
+            <!-- Added sugar, sugar alcohol, allulose, gluten, lactose per ingredient -->
             {% if r["Food"] == food or r["File"] == file %}
 
                 {% assign mass = 100.0 %}
@@ -424,6 +426,9 @@
 
     <!-- Lactose -->
     {% assign lactoseStr = lactose | round: 1 | append: ' g' %}
+
+    <!-- Glycemic index -->
+    {% capture giStr %}{% include giNum.html facts=facts ing=ing folder=folder %}{% endcapture %}
 
     <!-- Empty line variable to be filled later -->
     {% assign line = "" %}
@@ -646,6 +651,10 @@
 
     {% if nutrient == "Lactose" %}
         {% assign line = lactoseStr %}
+    {% endif %}
+
+    {% if nutrient == "Glycemic Index" %}
+        {% assign line = giStr %}
     {% endif %}
 
     <!-- Strip white space -->

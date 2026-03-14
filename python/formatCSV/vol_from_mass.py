@@ -10,7 +10,7 @@ def vol_from_mass(food, mass, vol):
     v = vol
 
     # Sugar, etc.
-    if food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin":
+    if food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar":
         if mass == "4":
             v = "1 tsp"
         elif mass == "6":
@@ -172,7 +172,7 @@ def vol_from_mass(food, mass, vol):
             v = "4 tbsp"
 
     # Sugar free syrup
-    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional":
+    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Agave" or food == "Agave syrup" or food == "Date syrup":
         if mass == "6.5":
           v = "1 tsp"
         elif mass == "10":
