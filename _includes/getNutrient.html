@@ -109,8 +109,6 @@
     {% assign lactose = 0.0 %}
     {% assign lactoseStr = "0.0 g (0 %)"" %}
 
-    {% assign giStr = "0" %}
-
     <!-- Loop to get nutrition facts -->
     {% for row in loopVarFacts %}
         {% for pair in row %}
@@ -650,10 +648,6 @@
         {% assign line = lactoseStr %}
     {% endif %}
 
-    {% if nutrient == "Glycemic Index" %}
-        {% assign line = giStr %}
-    {% endif %}
-
     <!-- Strip white space -->
     {% assign line = line | strip %}
 
@@ -745,9 +739,11 @@
 
     <!-- Output -->
     {% if nutrient == "Glycemic Index" %}
-        {% include giNum.html facts=facts ing=ing folder=folder %}
+        {% include giNum.html facts=facts ing=ing folder=folder display="GI" %}
+    {% elsif nutrient == "Glycemic Load" %}
+        {% include giNum.html facts=facts ing=ing folder=folder display="GL" %}
     {% else %}
-        {{output}}
+        {{ output }}
     {% endif %}
 
 {% endif %}

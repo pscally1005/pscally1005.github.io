@@ -103,7 +103,6 @@ Notes:
     "Net Carbs",
     "Fiber",
     "Added Sugar",
-    "Sugar Alcohol",
-    "Glycemic Index"
+    "Sugar Alcohol"
   )
 ---

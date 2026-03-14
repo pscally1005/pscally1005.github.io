@@ -18,7 +18,9 @@
 {% assign totalGI = 0 %}
 {% assign totalGI_numerator = 0 %}
 {% assign totalCarbs = 0 %}
+{% assign totalGL = 0 %}
 {% assign servings = 0 %}
+{% assign GL_all_servings = 0 %}
 
 <!-- Loop variable -->
 {% assign loopVarFacts = site.data[facts] %}
@@ -27,6 +29,12 @@
     {% assign folder = include.folder %}
     {% assign loopVarFacts = site.data[folder][facts] %}
     {% assign loopVarIng = site.data[folder][ing] %}
+{% endif %}
+
+<!-- Variable to return -->
+{% assign display = "GI" %}
+{% if include.display == "GL" %}
+    {% assign display = "GL" %}
 {% endif %}
 
 {% comment %}
@@ -90,16 +98,23 @@
     {% assign left = mass | times: unit_carbs %}
     {% assign carbs = left | divided_by: 100 %}
 
-    <!-- Calculator numerator -->
+    <!-- Calculate glycemic load of 1 ingredient per serving -->
     {% if unit_carbs == 0 %}
         {% assign numerator = 0 %}
+        {% assign GL_all_servings = 0 %}
+        {% assign GL = 0 %}
     {% else %}
         {% assign numerator = GI | times: carbs %}
+        {% assign GL_all_servings = numerator | divided_by: 100 %}
+        {% assign GL = GL_all_servings | divided_by: servings %}
     {% endif %}
 
     <!-- Calculate total GI numerator for 1 serving -->
     {% assign totalGI_numerator = totalGI_numerator | plus: numerator %}
     {% assign totalCarbs = totalCarbs | plus: carbs %}
+
+    <!-- Calculate total GL of all ingredients for 1 serving  -->
+    {% assign totalGL = totalGL | plus: GL %}
 
     {% comment %}
         <hr>"{{GI}}"<hr>"{{unit_carbs}}"<hr>"{{left}}"<hr>"{{carbs}}"<hr>"{{numerator}}"<hr>"{{totalGI_numerator}}"<hr>"{{totalCarbs}}"<hr>
@@ -111,17 +126,28 @@
     <hr>"{{totalGI_numerator}}"<hr>"{{totalCarbs}}"<hr>
 {% endcomment %}
 
-<!-- Calculate & return final GI -->
+<!-- Calculate & return final GI/GL -->
 {% if totalCarbs != 0 and totalCarbs != "0" and totalCarbs != "" %}
     {% assign totalGI = totalGI_numerator | divided_by: totalCarbs | round: 0 %}
-    {% if totalGI >= 70 %}
+    {% assign totalGL = totalGL | round: 0 %}
+
+    {% assign output = totalGI %}
+    {% assign high = 70 %}
+    {% assign med = 56 %}
+    {% if display == "GL" %}
+        {% assign output = totalGL %}
+        {% assign high = 20 %}
+        {% assign med = 10 %}
+    {% endif %}
+
+    {% if output >= high %}
         <font class='red-text-themed'>
-    {% elsif totalGI < 70 and totalGI >= 56 %}
+    {% elsif output < high and output >= med %}
         <font class='yellow-text-themed'>
     {% else %}
         <font class='green-text-themed'>
     {% endif %}
-    {{ totalGI }}
+    {{ output }}
     </font>
 {% else %}
     NA

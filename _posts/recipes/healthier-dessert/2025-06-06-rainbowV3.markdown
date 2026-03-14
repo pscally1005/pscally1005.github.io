@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homemade Italian Rainbow Cookies
-date:   2026-03-14 00:00:00 -0500
+date:   2025-06-06 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
@@ -144,7 +144,6 @@ Notes:
     "Net Carbs",
     "Fiber",
     "Added Sugar",
-    "Sugar Alcohol",
-    "Glycemic Index"
+    "Sugar Alcohol"
   )
 ---

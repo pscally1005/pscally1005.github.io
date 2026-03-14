@@ -45,6 +45,8 @@
 
                     {% if nutrient == "Glycemic Index" %}
                         <td><a href="/misc/diabetes">Glycemic<br>Index</a></td>
+                    {% elsif nutrient == "Glycemic Load" %}
+                        <td><a href="/misc/diabetes">Glycemic<br>Load</a></td>
                     {% else %}
                         <td>{% include nutrientLinks.html nutrient=nutrient %}</td>
                     {% endif %}
