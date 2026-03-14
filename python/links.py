@@ -1888,7 +1888,9 @@ LINKS = {
         "sfs",
         "liquid sweeteners",
         "liquid sweetener",
-        "liquid zero calorie sweetener"
+        "liquid zero calorie sweetener",
+        "sugar free sweeteners",
+        "sugar free sweetener"
     ],
     "/recipes/natural-peanut-butter": [
         "homemade natural peanut butters",
@@ -2264,6 +2266,43 @@ LINKS = {
         "sugar-free baked beans",
         "homemade baked beans",
         "unsweetened baked beans"
+    ],
+    "/recipes/smores": [
+        "indoor roasted s'mores",
+        "indoor roasted smores",
+        "indoor roasted s'more",
+        "indoor roasted smore",
+        "s'mores",
+        "smores",
+        "s'more",
+        "smore"
+    ],
+    "/recipes/chicken-fat-chocolate-chip-cookies": [
+        "chicken fat chocolate chip cookies",
+        "chicken fat cookies"
+    ],
+    "/recipes/pretzel-nuggets": [
+        "homemade peanut butter pretzel nuggets",
+        "homemade peanut butter pretzel nugget",
+        "peanut butter pretzel nuggets",
+        "peanut butter pretzel nugget",
+        "homemade pretzel nuggets",
+        "homemade pretzel nugget"
+    ],
+    "/recipes/sugar-cookies": [
+        "decorative sugar cookies",
+        "decorative sugar cookie"
+    ],
+    "/recipes/coconut-banana-rum-cake": [
+        "coconut banana rum cake",
+        "coconut rum cake",
+        "banana rum cake",
+        "rum cake"
+    ],
+    "/recipes/classic-fudge": [
+        "traditional fudge recipe",
+        "traditional fudge",
+        "classic fudge"
     ],
     "/recipes/brownies": [
         "classic fudgy brownies",
@@ -4347,6 +4386,10 @@ LINKS = {
         "c"
     ],
     "/misc/hidden-sugar": [
+        "table sugar",
+        "white granulated sugar",
+        '"refined" sugars',
+        '"refined" sugar',
         "sugary sauces",
         "sugar sauce",
         "glazes",
@@ -4365,6 +4408,7 @@ LINKS = {
         "added sugar",
         "high fructose corn syrup (hfcs)",
         "high fructose corn syrup",
+        "hfcs (high fructose corn syrup)",
         "hfcs",
         "corn syrup",
         "no sugars",
@@ -4412,11 +4456,11 @@ LINKS = {
         "whole food sugar",
         "refined carbs",
         "refined carb",
-        "natural sweetness",
-        "natural sweeteners",
-        "natural sweetener",
-        "natural sugars",
-        "natural sugar",
+        # "natural sweetness",
+        # "natural sweeteners",
+        # "natural sweetener",
+        # "natural sugars",
+        # "natural sugar",
         "carbohydrates",
         "carbohydrate",
         "low carb",
@@ -5008,6 +5052,18 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/natural-sweeteners": [
+        "natural sugars",
+        "natural sugar",
+        "unrefined sugars",
+        "unrefined sugar",
+        '"natural" sugars',
+        '"natural" sugar',
+        '"natural" (or "unrefined") sugars',
+        '"natural" (or "unrefined") sugar',
+        "natural sweeteners",
+        "natural sweetener"
+    ],
     "/misc/processed-foods": [
         "processed stuff",
         "processed foods",
@@ -5734,6 +5790,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "sugar maple",
     "vanilla or chocolate",
     "chocolate or vanilla",
     "vanilla (or chocolate)",
@@ -6732,7 +6789,7 @@ EXCLUDED_PHRASES = [
     "onion and garlic powder",
     # "onion and garlic",
     # "onion, garlic",
-    "monk fruit",
+    # "monk fruit",
     "nutritional yeast",
     "minutes",
     "minute",
@@ -6956,6 +7013,7 @@ EXCLUDED_PHRASES = [
 EXCLUDED_PHRASES = list(dict.fromkeys(EXCLUDED_PHRASES))
 
 REMOVE_CATEGORIES = [
+    "/misc/natural-sweeteners",
     "/misc/chocolate-benefits",
     "/misc/whole-wheat-sourdough",
     "/misc/beans",
@@ -7302,7 +7360,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-03-19")):
+            if not file.startswith(("2026-03-22")):
                 continue
 
             # exclude some files
