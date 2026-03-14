@@ -3188,13 +3188,17 @@ LINKS = {
     ],
     "/misc/fruit#blackberry": [
         "blackberries",
-        "blackberry"
+        "blackberry",
+        "frozen blackberries",
+        "frozen blackberry"
     ],
     "/misc/fruit#blueberries": [
         "blueberries",
         "blueberry",
         "berries",
-        "berry"
+        "berry",
+        "frozen blueberries",
+        "frozen blueberry"
     ],
     "/misc/fruit#boysenberry": [
         "boysenberries",
@@ -3340,7 +3344,9 @@ LINKS = {
     ],
     "/misc/fruit#raspberry": [
         "raspberries",
-        "raspberry"
+        "raspberry",
+        "frozen raspberries",
+        "frozen raspberry"
     ],
     "/misc/fruit#starfruit": [
         "starfruits",
@@ -3348,7 +3354,9 @@ LINKS = {
     ],
     "/misc/fruit#strawberries": [
         "strawberries",
-        "strawberry"
+        "strawberry",
+        "frozen strawberries",
+        "frozen strawberry"
     ],
     "/misc/fruit#watermelon": [
         "watermelons",
@@ -5701,7 +5709,18 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "chocolate is firm",
+    "chocolate on the other side",
+    "harden the chocolate",
+    "frozen berries",
+    "beet juice",
+    "pickled beet juice",
+    "pickled beets",
+    "pickled beet",
+    "cookie layers",
+    "cookie layer",
     "chocolate spread",
+    "chocolate coating",
     "large scale",
     "large-scale",
     "cocoa beans",

@@ -65,21 +65,21 @@ Description: |
 
   Rainbow cookies, healthy or not, are a multiple hour process, so be prepared to put in the work. They're absolutely worth the effort on occasion, and I love making these once a year or so. These <a href='/cookies'>cookies</a> are free of <a href='/misc/hidden-sugar'>added sugar</a> and <a href='/misc/fats'>unhealthy fats</a>, and of course contain no food dyes.<br><br>
 
-  <a href='/misc/veggies#beets'>Beets</a> are used to naturally color the red layer, and <a href='/misc/fruit#avocado'>avocado</a> is used for the green.  The cookie layers, the <a href='/recipes/strawberry-chia-jam'>raspberry jam</a>, and the chocolate coating are all sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, instead of white sugar, leading to a cookie with no refined sugar that won't spike your blood sugar.  The cookie layers also use almond flour instead of white flour, making them gluten free, higher in healthy fats and fiber, and lower in refined starches
+  <a href='/misc/veggies#beets'>Beets</a> are used to naturally color the red layer, and <a href='/misc/fruit#avocado'>avocado</a> is used for the green.  The cookie layers, the <a href='/recipes/strawberry-chia-jam'>raspberry jam</a>, and the chocolate coating are all sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, instead of <a href='/misc/hidden-sugar'>white sugar</a>, leading to a <a href='/cookies'>cookie</a> with no <a href='/misc/hidden-sugar'>refined sugar</a> that won't spike your <a href='/misc/diabetes'>blood sugar</a>.  The cookie layers also use <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a>, making them <a href='/misc/celiac'>gluten free</a>, higher in <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, and lower in <a href='/misc/carbs'>refined starches</a>
 Instructions:
-- Preheat your oven to 350F, and line 3 9x9" pans with parchment paper.  Lightly spray the paper with oil
+- Preheat your oven to 350F, and line 3 9x9" pans with parchment paper.  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
-- Separate the yolks from the whites, and add the egg whites to a large metal bowl
+- Separate the <a href='/misc/meat#eggs'>yolks</a> from the <a href='/misc/meat#egg-whites'>whites</a>, and add the <a href='/misc/meat#egg-whites'>egg whites</a> to a large <a href='https://amzn.to/4rb3CiD'>metal bowl</a>
 
-- In a large bowl, combine together the egg yolks with the rest of the cookie layer ingredients using a silicone spatula - applesauce, granulated monk fruit, cashew butter, almond extract, baking powder, salt, and almond flour
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the <a href='/misc/meat#eggs'>egg yolks</a> with the rest of the cookie layer ingredients using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, almond extract, baking powder, salt, and <a href='/misc/nuts#almonds'>almond flour</a>
 
-- Beat the egg whites with a hand mixer until you have stiff peaks, about 3-5 minutes
+- Beat the <a href='/misc/meat#egg-whites'>egg whites</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until you have stiff peaks, about 3-5 minutes
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/raw-separate.jpg' alt='' class='instruction-image'>
 
-- Carefully fold the egg whites into the cookie batter with a spatula
+- Carefully fold the <a href='/misc/meat#egg-whites'>egg whites</a> into the <a href='/cookies'>cookie</a> batter with a <a href='https://amzn.to/40F2aK0'>spatula</a>
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/raw-combined.jpg' alt='' class='instruction-image'>
 
-- Prepare 3 smaller bowls, one for each color. For the green layer, mash an avocado with the back of a fork until smooth. For the red layer, add in your pickled beet juice. Evenly divide the batter across the 3 bowls, about 2/3 cup or 169 g each, and mix each with a silicone spatula until fully combined
+- Prepare 3 smaller bowls, one for each color. For the green layer, mash an <a href='/misc/fruit#avocado'>avocado</a> with the back of a fork until smooth. For the red layer, add in your pickled beet juice. Evenly divide the batter across the 3 bowls, about 2/3 cup or 169 g each, and mix each with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/raw-all.jpg' alt='' class='instruction-image'>
 
 - Transfer the batters into the prepared pans
@@ -87,12 +87,12 @@ Instructions:
 # - <img src='/assets/Food/Healthier Dessert/Rainbow v3/raw-white.jpg' alt='' class='instruction-image'>
 # - <img src='/assets/Food/Healthier Dessert/Rainbow v3/raw-green.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 10 minutes, or until set and lightly browned. Remove from the pan, and let cool completely on a wire rack
+- Bake at 350F for about 10 minutes, or until set and lightly browned. Remove from the pan, and let cool completely on a <a href='https://amzn.to/4qQNmn2'>wire rack</a>
 # - <img src='/assets/Food/Healthier Dessert/Rainbow v3/baked-red.jpg' alt='' class='instruction-image'>
 # - <img src='/assets/Food/Healthier Dessert/Rainbow v3/baked-white.jpg' alt='' class='instruction-image'>
 # - <img src='/assets/Food/Healthier Dessert/Rainbow v3/baked-green.jpg' alt='' class='instruction-image'>
 
-- Microwave your frozen berries for about 2 minutes to defrost. Add berries and granulated sweetener to a medium stainless steel pan over medium low heat, and roughly mash with a potato masher. Cook with occasional stirring until thickened and syrupy, about 10 minutes. Stir in chia seeds and lemon juice. Refrigerate to cool, at least 30 minutes so the chia seeds can thicken the jam
+- Microwave your <a href='/misc/fruit#raspberry'>frozen raspberries</a> for about 2 minutes to defrost. Add your <a href='/misc/fruit#raspberry'>raspberries</a> and <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> to a medium <a href='https://amzn.to/4pREQ61'>stainless steel pan</a> over medium low heat, and roughly mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a>. Cook with occasional stirring until thickened and syrupy, about 10 minutes. Stir in <a href='/misc/seeds#chia-seeds'>chia seeds</a> and <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Refrigerate to cool, at least 30 minutes so the <a href='/misc/seeds#chia-seeds'>chia seeds</a> can thicken the jam
 # - <img src='/assets/Food/Healthier Dessert/Rainbow v3/jam-pan.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/baked-all.jpg' alt='' class='instruction-image'>
 
@@ -105,7 +105,7 @@ Instructions:
 - Place a piece of parchment paper on top of the green layer. Place another pan on top of the top layer of parchment, and place a weight inside.  Refrigerate for at least 4 hours, or ideally overnight
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/weight.jpg' alt='' class='instruction-image'>
 
-- The next day, remove the weight and top layer of parchment.  Melt half of your coconut oil in a small bowl, and mix with half your cocoa powder and half your granulated sweetener with a silicone spatula.  Spread onto the top layer of the cake, and chill in the refrigerator until the chocolate is firm, at least 30 minutes
+- The next day, remove the weight and top layer of parchment.  Melt half of your <a href='/misc/nuts#coconut'>coconut oil</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a>, and mix with half your <a href='/misc/chocolate-benefits'>cocoa powder</a> and half your <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Spread onto the top layer of the cake, and chill in the refrigerator until the chocolate is firm, at least 30 minutes
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/chocolate-1.jpg' alt='' class='instruction-image'>
 
 - Flip the cake and repeat with the other half of the chocolate on the other side.  Again, chill to harden the chocolate, at least 30 minutes
@@ -119,15 +119,15 @@ Instructions:
 Notes:
 - If you only have 1 pan (like me), you will instead bake the layers in 3 separate batches
 
-- I'm using cashew butter here because it provides richness, healthy fats, and binds together the ingredients, but still has a neutral taste that will leave this tasting more like a standard cookie dough. Almond butter would also be good
+- I'm using <a href='/misc/nuts#cashews'>cashew butter</a> here because it provides richness, <a href='/misc/fats'>healthy fats</a>, and binds together the ingredients, but still has a neutral taste that won't overpower, as <a href='/misc/nuts#peanuts'>peanut butter</a> would. <a href='/misc/nuts#almonds'>Almond butter</a> would also be good
 
-- To make it nut free, replace the cashew butter with tahini or sunflower seed butter, and replace the almond flour with oat flour
+- To make it <a href='/misc/nuts'>nut</a> free, replace the <a href='/misc/nuts#cashews'>cashew butter</a> with <a href='/misc/seeds#sesame-seeds'>tahini</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, and replace the <a href='/misc/nuts#almonds'>almond flour</a> with <a href='/misc/grains#oats'>oat flour</a>
 
 - If you're using immitation almond extract, you may want to double (or triple) it
 
-- 1 cup (180 g) of melted sugar free chocolate chips (1/2 cup or 90 g per side) would also work in place of the homemade chocolate with coconut oil, cocoa powder, and granulated monk fruit
+- 1 cup (180 g) of melted <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> (1/2 cup or 90 g per side) would also work in place of the <a href='/misc/chocolate-percentages'>homemade chocolate</a> with <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>
 
-- If you don't care to make them sugar free, then you can use standard granulated sugar in place of granulated monk fruit.  Additionally, melt 1/2 cup (90 g) of chocolate chips <b>each</b> for the top and bottom instead of using the homemade chocolate (coconut oil, cocoa powder, and granulated monk fruit)
+- If you don't care to make them <a href='/misc/hidden-sugar'>sugar free</a>, then you can use standard granulated <a href='/misc/hidden-sugar'>sugar</a> in place of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  Additionally, melt 1/2 cup (90 g) of <a href='/misc/chocolate-benefits'>chocolate chips</a> <b>each</b> for the top and bottom instead of using the <a href='/misc/chocolate-percentages'>homemade chocolate</a> (<a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>)
 - |
   COMPARE(
     "rainbowv3monkfruit",
