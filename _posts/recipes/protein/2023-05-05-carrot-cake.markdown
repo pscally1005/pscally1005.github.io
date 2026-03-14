@@ -60,7 +60,7 @@ tags:
 - plain nonfat greek yogurt
 - yogurt
 - layer cake
-Description: Carrot cake is my personal favorite <a href='/recipes/healthier-dessert'>dessert</a>, outside of <a href='/recipes/rainbow-cookies'>Italian Rainbow Cookies</a>. Which is why I was most interested in making this variation, and I am very happy with the result. Roasting the <a href='/misc/veggies#carrots'>carrots</a> beforehand really brings the flavor to a whole new level, and it also ensures that you won't have little <a href='/misc/veggies#carrots'>carrot</a> bits in your cake or mouth.
+Description: Carrot cake is my personal favorite <a href='/recipes/healthier-dessert'>dessert</a>, outside of <a href='/recipes/rainbow-cookies-v3'>Italian Rainbow Cookies</a>. Which is why I was most interested in making this variation, and I am very happy with the result. Roasting the <a href='/misc/veggies#carrots'>carrots</a> beforehand really brings the flavor to a whole new level, and it also ensures that you won't have little <a href='/misc/veggies#carrots'>carrot</a> bits in your cake or mouth.
 Instructions:
 - Cut the <a href='/misc/veggies#carrots'>carrots</a> into strips. Lightly season with salt and oil and roast for 30 minutes at 400F. Blend in a <a href='https://amzn.to/4q0AUjI'>food processor</a> to make the <a href='/misc/veggies#carrots'>carrot</a> "puree"
 

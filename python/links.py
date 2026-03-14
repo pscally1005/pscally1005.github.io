@@ -1112,7 +1112,13 @@ LINKS = {
     "/recipes/rainbow-cookies-v3": [
         "Rainbow Cookies v3",
         "rainbow cookies",
-        "rainbow cookie"
+        "rainbow cookie",
+        "homemade rainbow cookies",
+        "homemade rainbow cookie",
+        "italian rainbow cookies",
+        "italian rainbow cookie",
+        "homemade italian rainbow cookies",
+        "homemade italian rainbow cookie"
     ],
     "/recipes/raspberry-brownies": [
         "Chocolate Raspberry Brownies",
