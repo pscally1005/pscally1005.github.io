@@ -13,7 +13,7 @@ yogurt: no
 nut_butter: no
 pesto: no
 soup_stew: no
-salad: yes
+salad: no
 dressing: no
 brownie: no
 cookie: no

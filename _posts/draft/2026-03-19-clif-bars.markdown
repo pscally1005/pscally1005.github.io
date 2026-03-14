@@ -1,0 +1,109 @@
+---
+layout: post
+title:  Copycat Peanut Butter Chocolate Clif Bars
+date:   2026-03-14 00:00:00 -0500
+categories:
+- Recipes
+- Finger Foods
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: yes
+permalink: /recipes/clif-bars
+image: /assets/Food/Finger Food/Clif Bars/cover.jpg
+file: clifhoney
+servingSize: 1 bar
+section1: Wet Ingredients
+start2: Cinnamon
+section2: Dry ingredients
+start3: Water
+section3: Thin Out
+start4:
+section4:
+start5:
+section5:
+Prep: 10
+Rest: 120
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/y0JEw
+tags:
+- clif bar
+- cliff bar
+- peanut butter
+- chocolate
+- powdered peanut butter
+- cocoa powder
+- unsweetened coconut flakes
+- coconut flakes
+- hike
+- run
+- honey
+- maple syrup
+- rolled oats
+Description: Copycat recipes seem to do well, so here I am with another. My Clif bar copycat version has nearly identical calories, protein, fat, carbs, and fiber to the originals. However, I'm using more minimally processed ingredients, while opting for honey as my sweetener instead of refined sugar.  These bars contain complex carbs and naturally occurring sugars to fuel your muscles, making them a great snack on the go for a hike, or before/during/after a hard workout.  That in addition to their protein, fat, and fiber, content helps in recovery, satiety, and digestion
+Instructions:
+- Line a 9" square baking pan with parchment paper. For a half batch, use a 9x5" bread pan
+
+- Mix together the wet ingredients (honey, nut butter, and vanilla) in a large bowl with a silicone spatula until fully combined
+
+- Add in the dry ingredients, and mix with a silicone spatula
+
+- Thin out with water as needed to get everything just fully combined together. You should have to fold with the spatula to mix. It should look slightly too dry to be able to stick to all the oats, but should feel slightly sticky to the touch
+- <img src='/assets/Food/Finger Food/Clif Bars/bowl.jpg' alt='' class='instruction-image'>
+
+- Lightly wet your hands (or use kitchen gloves) and press the dough into all edges of the pan, making sure to pack it down to even thickness
+- <img src='/assets/Food/Finger Food/Clif Bars/pan.jpg' alt='' class='instruction-image'>
+
+- Optionally top with about 2 tsp (10 g) of mini chocolate chips, raisins, chopped nuts, or flaky salt. Here, I'm going with unsweetened coconut flakes
+- <img src='/assets/Food/Finger Food/Clif Bars/topped.jpg' alt='' class='instruction-image'>
+
+- Chill in the fridge for at least 2 hours before slicing into bars. Wrap each bar in parchment paper, and store in an airtight bag in the fridge or freezer
+- <img src='/assets/Food/Finger Food/Clif Bars/cut.jpg' alt='' class='instruction-image'>
+Notes:
+- You can use any liquid sweetener in these bars, such as the following
+- INGREDIENTS(bulkbrowniessweeteners)
+
+- Alternatively, you can sweeten these bars with dates.  Blend 1 1/4 cup (200 g) of dates with the nut butter and vanilla until smooth and you have no chunks of dates left.  You may need more or less water in step 4 than what's called for above.  Add just enough until you get the correct texture
+
+- To make it nut free, replace the peanut butter with either sunflower seed butter or tahini (1:1).  Replace the powdered peanut butter with vanilla (or chocolate) whey protein powder (2 scoops, 60 g).  I will be assuming you're using honey as the sweetener below
+
+- To make mint chocolate clif bars, replace the vanilla extract with 1/4 tsp (1.5 g) mint extract
+
+- |
+  COMPARE(
+    "clifhoney",
+    "clifmaple",
+    "clifsfs",
+    "clifdate",
+    "clifnutfree";
+
+    "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>",
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "<a href='/misc/fruit#dates'>Dates</a>",
+    "<a href='/misc/nuts'>Nut</a><br>Free";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol",
+    "Glycemic Index"
+  )
+---

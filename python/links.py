@@ -4556,6 +4556,12 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/414BfHP": [
+        "cooking gloves",
+        "kitchen gloves",
+        "cooking glove",
+        "kitchen gloves"
+    ],
     "https://amzn.to/4bu23Gx": [
         "manuka honey",
         "manuka",
@@ -7273,7 +7279,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-03-13")):
+            if not file.startswith(("2026-03-19")):
                 continue
 
             # exclude some files

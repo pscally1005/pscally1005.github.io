@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Rainbow Cookies v3
-date:   2026-03-13 00:00:00 -0500
+title: Homemade Italian Rainbow Cookies
+date:   2026-03-14 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -63,9 +62,9 @@ tags:
 Description: |
   Rainbow cookies make the perfect gift or <a href='/recipes/healthier-dessert'>dessert</a> on Christmas, but today I'm taking the idea of Pride Month a little too literally. <a href='https://www.tastingtable.com/686065/italian-rainbow-cookie-recipe/'>Traditional versions</a> contain multiple sticks of <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>high sugar</a> jelly, and of course artificial food dyes, so I had my work cut out for me here.<br><br>
 
-  Rainbow cookies, healthy or not, are a multiple hour process, so be prepared to put in the work. They're absolutely worth the effort on occasion, and I love making these once a year or so. These <a href='/cookies'>cookies</a> are free of <a href='/misc/hidden-sugar'>added sugar</a> and <a href='/misc/fats'>unhealthy fats</a>, and of course contain no food dyes.<br><br>
+  Rainbow cookies, healthy or not, are a multiple hour process, so be prepared to put in the work. They're absolutely worth the effort on occasion, and I love making these once a year or so. These <a href='/cookies'>cookies</a> are free of <a href='/misc/hidden-sugar'>added sugar</a> and <a href='/misc/fats'>unhealthy fats</a>, and don't even contain any food dye.<br><br>
 
-  <a href='/misc/veggies#beets'>Beets</a> are used to naturally color the red layer, and <a href='/misc/fruit#avocado'>avocado</a> is used for the green.  The cookie layers, the <a href='/recipes/strawberry-chia-jam'>raspberry jam</a>, and the chocolate coating are all sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, instead of <a href='/misc/hidden-sugar'>white sugar</a>, leading to a <a href='/cookies'>cookie</a> with no <a href='/misc/hidden-sugar'>refined sugar</a> that won't spike your <a href='/misc/diabetes'>blood sugar</a>.  The cookie layers also use <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a>, making them <a href='/misc/celiac'>gluten free</a>, higher in <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, and lower in <a href='/misc/carbs'>refined starches</a>
+  <a href='/misc/veggies#beets'>Beets</a> are used to naturally color the red layer, and <a href='/misc/fruit#avocado'>avocado</a> is used for the green.  The cookie layers, the <a href='/recipes/strawberry-chia-jam'>raspberry jam</a>, and the chocolate coating are all sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> instead of <a href='/misc/hidden-sugar'>white sugar</a>, leading to a <a href='/cookies'>cookie</a> with no <a href='/misc/hidden-sugar'>refined sugar</a> that won't spike your <a href='/misc/diabetes'>blood sugar</a>.  Additionally, the cookie layers use <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a>, making them <a href='/misc/celiac'>gluten free</a>, higher in <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a>, and lower in <a href='/misc/carbs'>refined starches</a>.
 Instructions:
 - Preheat your oven to 350F, and line 3 9x9" pans with parchment paper.  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
@@ -105,8 +104,8 @@ Instructions:
 - Place a piece of parchment paper on top of the green layer. Place another pan on top of the top layer of parchment, and place a weight inside.  Refrigerate for at least 4 hours, or ideally overnight
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/weight.jpg' alt='' class='instruction-image'>
 
-- The next day, remove the weight and top layer of parchment.  Melt half of your <a href='/misc/nuts#coconut'>coconut oil</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a>, and mix with half your <a href='/misc/chocolate-benefits'>cocoa powder</a> and half your <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Spread onto the top layer of the cake, and chill in the refrigerator until the chocolate is firm, at least 30 minutes
-- <img src='/assets/Food/Healthier Dessert/Rainbow v3/chocolate-1.jpg' alt='' class='instruction-image'>
+- The next day, remove the weight and top layer of parchment.  Melt half of your <a href='/misc/nuts#coconut'>coconut oil</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a>, and mix with half your <a href='/misc/chocolate-benefits'>cocoa powder</a> and half your <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Spread onto the top layer of the cake.  Optionally draw straight or curved lines using a fork.  Chill in the refrigerator until the chocolate is firm, at least 30 minutes
+# - <img src='/assets/Food/Healthier Dessert/Rainbow v3/chocolate-1.jpg' alt='' class='instruction-image'>
 
 - Flip the cake and repeat with the other half of the chocolate on the other side.  Again, chill to harden the chocolate, at least 30 minutes
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/chocolate-2.jpg' alt='' class='instruction-image'>
@@ -145,4 +144,6 @@ Notes:
     "Sugar Alcohol",
     "Glycemic Index"
   )
+
+- My final batch of rainbow cookies weighed 878 g, or 1.94 lb.  At $11.96 total, that means these cookies cost $6.14 per pound.  For reference, rainbow cookies at a bakery may run you $20 per pound, which is over 3 times the cost.  If you make them with sugar instead of monk fruit, the cost per pound is even lower, at $5.29, or about a quarter of the price compared to buying them.
 ---
