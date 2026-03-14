@@ -5053,6 +5053,8 @@ LINKS = {
 
     # MISC
     "/misc/natural-sweeteners": [
+        "natural sweeteners",
+        "natural sweetener",
         "natural sugars",
         "natural sugar",
         "unrefined sugars",
@@ -5060,9 +5062,7 @@ LINKS = {
         '"natural" sugars',
         '"natural" sugar',
         '"natural" (or "unrefined") sugars',
-        '"natural" (or "unrefined") sugar',
-        "natural sweeteners",
-        "natural sweetener"
+        '"natural" (or "unrefined") sugar'
     ],
     "/misc/processed-foods": [
         "processed stuff",
@@ -5463,7 +5463,11 @@ LINKS = {
         "saccharin",
         # "allulose",
         "artificial sweeteners",
-        "artificial sweetener"
+        "artificial sweetener",
+        "zero-calorie sugar substitutes",
+        "zero calorie sugar substitutes",
+        "zero-calorie sugar substitute",
+        "zero calorie sugar substitute"
     ],
     "/misc/fake-healthy-foods#cereal": [
         "cereal bars",

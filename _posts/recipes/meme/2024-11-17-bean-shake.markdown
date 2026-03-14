@@ -60,7 +60,7 @@ Instructions:
 Notes:
 - Any cooked <a href='/misc/beans'>beans</a> will work.  I only used <a href='/misc/beans#navy-beans'>navy</a> here because it was what I had in my fridge at the time.  <a href='/misc/beans#chickpeas'>Chickpeas</a>, <a href='/misc/beans#black-beans'>black beans</a>, <a href='/misc/beans#kidney-beans'>kidney beans</a>, <a href='/misc/beans#pinto-beans'>pinto beans</a>, etc. will all work
 
-- I've used <a href='/misc/fruit#raisins'>raisins</a> here as my <a href='/misc/carbs'>natural sweetener</a>, but any <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> (like <a href='/misc/fruit#dates'>dates</a> or <a href='/misc/fruit#fig-dried'>figs</a>) would work as well
+- I've used <a href='/misc/fruit#raisins'>raisins</a> here as my natural sweetener, but any <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> (like <a href='/misc/fruit#dates'>dates</a> or <a href='/misc/fruit#fig-dried'>figs</a>) would work as well
 
 - Either unsweetened vanilla or unsweetened original <a href='/misc/dairy#almond-milk'>almond milk</a> are good, as well as any other non-dairy or <a href='/misc/dairy'>dairy</a> based milks
 
