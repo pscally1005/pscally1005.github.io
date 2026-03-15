@@ -77,7 +77,7 @@ Notes:
     "bulkbrowniessfs";
 
     "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
-    "Maple<br>Syrup",
+    "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>",
     "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>";
 
     "Calories",

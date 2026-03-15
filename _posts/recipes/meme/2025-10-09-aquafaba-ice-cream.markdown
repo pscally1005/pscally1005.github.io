@@ -74,7 +74,7 @@ Notes:
     "aquafabaicecreamsfs",
     "aquafabaicecreammonkfruit";
 
-    "Maple<br>Syrup",
+    "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>",
     "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
     "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
     "<a href='https://amzn.to/4ceFnvP'>Granulated<br>Monk<br>Fruit</a>";

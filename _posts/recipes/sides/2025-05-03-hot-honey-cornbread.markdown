@@ -48,13 +48,13 @@ tags:
 - whole wheat flour
 - hot honey
 - apple cider vinegar
-Description: Recently, I made my own <a href='/recipes/hot-honey'>Homemade Hot Honey</a>, particularly to make the viral <a href='/recipes/hot-honey-beef-bowls'>Hot Honey Beef Bowls</a>. While thinking of additional uses for the hot honey, I came up with this Hot Honey Cornbread. I've made both <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> and <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a> before, which you should also check out. This version though is both sweet and mildly spicy, and uses just a few ingredients and contains minimal <a href='/misc/calories'>calories</a>
+Description: Recently, I made my own <a href='/recipes/hot-honey'>Homemade Hot Honey</a>, particularly to make the viral <a href='/recipes/hot-honey-beef-bowls'>Hot Honey Beef Bowls</a>. While thinking of additional uses for the <a href='/recipes/hot-honey'>hot honey</a>, I came up with this <a href='/recipes/hot-honey'>hot honey</a> Cornbread. I've made both <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> and <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a> before, which you should also check out. This version though is both sweet and mildly spicy, and uses just a few ingredients and contains minimal <a href='/misc/calories'>calories</a>
 Instructions:
 - Preheat your oven to 400F, and line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly spray with oil</a>
 
 - Whisk together the dry ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - cornmeal, flour, baking powder, baking soda, and salt. To make it <a href='/misc/celiac'>gluten free</a>, you can use <a href='/misc/grains#oats'>oat flour</a> or <a href='/misc/nuts#almonds'>almond flour</a> in place of <a href='/misc/grains#whole-wheat'>whole wheat flour</a>
 
-- Add in the wet ingredients - hot honey, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, and water. Whisk until smooth. If you don't have hot honey, you can replace it with regular <a href='/misc/natural-sweeteners#honey'>honey</a>, and add 1 tsp (2 g) red pepper flakes
+- Add in the wet ingredients - <a href='/recipes/hot-honey'>hot honey</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, and water. Whisk until smooth. If you don't have <a href='/recipes/hot-honey'>hot honey</a>, you can replace it with regular <a href='/misc/natural-sweeteners#honey'>honey</a>, and add 1 tsp (2 g) red pepper flakes
 - <img src='/assets/Food/Sides/Hot Honey Cornbread/bowl.jpg' alt='' class='instruction-image'>
 
 - Pour the batter into your pan, and shake bake and forth to make sure it's even and goes to all sides

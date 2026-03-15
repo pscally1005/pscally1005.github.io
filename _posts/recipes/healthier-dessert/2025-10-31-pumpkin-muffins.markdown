@@ -96,7 +96,7 @@ Notes:
     "pumpkinmuffinssfnochoc";
 
     "<a href='#recipe'>Original<br>Recipe</a>",
-    "Maple<br>Syrup<br>Mini<br>Muffins",
+    "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a><br>Mini<br>Muffins",
     "<a href='/misc/grains#oats'>Oat<br>Flour</a><br>Mini<br>Muffins",
     "Standard<br>Sized<br>Muffins",
     "<a href='/misc/veggies#pumpkin'>Pumpkin</a><br>Blondies",

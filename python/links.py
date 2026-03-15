@@ -5064,6 +5064,20 @@ LINKS = {
         '"natural" (or "unrefined") sugars',
         '"natural" (or "unrefined") sugar'
     ],
+    "/misc/natural-sweeteners#sugar-free": [
+        "zero calorie natural sweeteners",
+        "zero calorie natural sweetener",
+        "zero-calorie natural sweeteners",
+        "zero-calorie natural sweetener",
+        "sugar free natural sweeteners",
+        "sugar freee natural sweetener",
+        "sugar-free natural sweeteners",
+        "sugar-free natural sweetener",
+        "zero-calorie sugar substitutes",
+        "zero calorie sugar substitutes",
+        "zero-calorie sugar substitute",
+        "zero calorie sugar substitute"
+    ],
     "/misc/natural-sweeteners#honey": [
         "honey"
     ],
@@ -5480,11 +5494,7 @@ LINKS = {
         "saccharin",
         # "allulose",
         "artificial sweeteners",
-        "artificial sweetener",
-        "zero-calorie sugar substitutes",
-        "zero calorie sugar substitutes",
-        "zero-calorie sugar substitute",
-        "zero calorie sugar substitute"
+        "artificial sweetener"
     ],
     "/misc/fake-healthy-foods#cereal": [
         "cereal bars",
