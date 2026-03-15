@@ -59,7 +59,6 @@ tags:
 - chicken
 - lime juice
 - liquid monk fruit
-.
 Instructions:
 - Preheat a large pot over medium heat. Cut your <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#pepper'>peppers</a> into a medium dice, and add to the pot with a splash of water. Cover and cook until the <a href='/misc/veggies#onion'>onions</a> are translucent and the <a href='/misc/veggies#pepper'>peppers</a> are soft, about 10 minutes
 

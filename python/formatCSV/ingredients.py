@@ -554,6 +554,12 @@ def ingredients(food):
         f = "Sugar free chocolate chips"
     elif food == "Candies, semisweet chocolate" or food == "Semisweet chocolate mini chips by Harris-Teeter Inc." or food == "Chocolate chips, semisweet by Giant Eagle, Inc.":
         f = "Semi-sweet chocolate chips"
+    elif food == "Candies, white chocolate" or food == "White chocolate candy":
+        f = "White chocolate chips"
+    elif food == "white-choc":
+        f = "Tangy white chocolate"
+    elif food == "choc-free":
+        f = "Chocolate free chocolate"
     elif food == "90% cocoa dark chocolate by Lindt" or food == "90% cocoa dark chocolate by Lindt & Sprungli (Schweiz) AG":
         f = "90% chocolate"
     elif food == "Raw cashews" or food == "Nuts, raw, cashew nuts" or food == "Nuts, with salt added, dry roasted, cashew nuts":
@@ -582,7 +588,7 @@ def ingredients(food):
         f = "Hazelnuts"
     elif food == "Roasted pumpkin seed butter, roasted by 88 ACRES" or food == "Pumpkin seed butter by Wilderness Poets LLC":
         f = "Pumpkin seed butter"
-    elif food == "Baking chocolate, squares, unsweetened":
+    elif food == "Baking chocolate, squares, unsweetened" or food == "100%" or food == "choc" or food == "100":
         f = "100% chocolate"
     elif food == "Seeds, dried, pumpkin and squash seed kernels" or food == "Seeds, without salt, roasted, pumpkin and squash seed kernels":
         f = "Pumpkin seeds"

@@ -51,6 +51,8 @@ def grams(food, mass, vol):
             m = "1760"
 
     # Oz to g
+    elif vol == "1/2 oz":
+        m = "14"
     elif vol == "1 oz":
         m = "28"
     elif vol == "2 oz":
@@ -290,6 +292,40 @@ def grams(food, mass, vol):
         elif vol == "6 tsp" or vol == "2 tbsp":
             m = "12"
 
+    # Buttermilk powder
+    elif food == "Buttermilk powder":
+      if vol == "1 tbsp":
+        m = "5.75"
+      elif vol == "2 tbsp":
+          m = "11.5"
+      elif vol == "3 tbsp":
+          m = "17.25"
+      elif vol == "4 tbsp" or vol == "1/4 cup":
+          m = "23"
+      elif vol == "5 tbsp":
+          m = "28.75"
+      elif vol == "6 tbsp":
+          m = "34.5"
+      elif vol == "7 tbsp":
+          m = "40.25"
+      elif vol == "8 tbsp" or vol == "1/2 cup":
+          m = "46"
+      elif vol == "9 tbsp":
+          m = "51.75"
+      elif vol == "10 tbsp":
+          m = "57.5"
+      elif vol == "11 tbsp":
+          m = "63.25"
+      elif vol == "12 tbsp" or vol == "3/4 cup":
+          m = "69"
+      elif vol == "13 tbsp":
+          m = "74.75"
+      elif vol == "14 tbsp":
+          m = "80.5"
+      elif vol == "15 tbsp":
+          m = "86.25"
+      elif vol == "16 tbsp" or vol == "1 cup":
+          m = "92"
 
     # Nutritional yeast, cocoa, coconut flakes, psyllium
     elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Unsweetened coconut flakes" or food == "Psyllium husks, whole":
@@ -1309,7 +1345,7 @@ def grams(food, mass, vol):
 
 
     # Chocolate chips
-    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips":
+    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate":
         if vol == "1 tsp":
             m = "5"
         elif vol == "1/2 tbsp":
