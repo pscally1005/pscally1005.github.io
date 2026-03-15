@@ -15,7 +15,9 @@ LINKS = {
         "homemade white chocolate",
         "white chocolate chips",
         "white chocolate chip",
-        "white chocolate"
+        "white chocolate",
+        "unsweetened white chocolate bar",
+        "unsweetened white chocolate"
     ],
     "/recipes/chocolate-cloud-bars": [
         "chocolate cloud bars"
@@ -2494,8 +2496,9 @@ LINKS = {
     "/recipes/chocolate-bar": [
         "sugar free chocolate bar",
         "sugar-free chocolate bar",
-        # "homemade choocolate bar",
-        "unsweetened chocolate bar"
+        # "homemade chocolate bar",
+        "unsweetened chocolate bar",
+        "unsweetened 100% chocolate bar",
     ],
     "/misc/chocolate-percentages": [
         "make your own dark chocolate",
@@ -5828,6 +5831,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "melted chocolate",
+    "milk sugars",
     "honey-like",
     "honey-like consistency",
     "honey like consistency",

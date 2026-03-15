@@ -47,14 +47,14 @@ tags:
 - milk powder
 - buttermilk powder
 - coconut oil
-Description: If you combine equal parts by weight of cocoa powder and melted coconut oil, you can easily make an unsweetened 100% chocolate bar with no added sugar.  Well, today I'm swapping the cocoa powder for buttermilk powder, and adding in some vanilla extract.  The result is an unsweetened white chocolate bar that mildly sweet from the natural milk sugars.  This healthy candy bar is also slightly tangy and salty from the buttermilk, giving it more flavor.  Try this chopped up into your next dessert or bowl of oatmeal to mix it up from normal chocolate chips!
+Description: If you combine equal parts by weight of <a href='/misc/chocolate-benefits'>cocoa powder</a> and melted <a href='/misc/nuts#coconut'>coconut oil</a>, you can easily make an <a href='/recipes/chocolate-bar'>unsweetened 100% chocolate bar</a> with no <a href='/misc/hidden-sugar'>added sugar</a>.  Well, today I'm swapping the <a href='/misc/chocolate-benefits'>cocoa powder</a> for buttermilk powder, and adding in some vanilla extract.  The result is an unsweetened white chocolate bar that mildly sweet from the natural milk sugars.  This healthy candy bar is also slightly tangy and salty from the buttermilk, giving it more flavor.  Try this chopped up into your next <a href='/recipes/healthier-dessert'>dessert</a> or <a href='/oatmeal'>bowl of oatmeal</a> to mix it up from normal <a href='/misc/chocolate-benefits'>chocolate chips</a>!
 Instructions:
-- Melt coconut oil in a small bowl in the microwave for about 1 minute. Stir in the buttermilk powder until fully combined with a silicone spatula. Mix in the vanilla extract
+- Melt <a href='/misc/nuts#coconut'>coconut oil</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a> in the microwave for about 1 minute. Stir in the buttermilk powder until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the vanilla extract
 
-- Transfer the melted chocolate to a chocolate mold. Refrigerate for at least 30 minutes to harden
+- Transfer the melted chocolate to a <a href='https://amzn.to/4qZKHI9'>chocolate mold</a>. Refrigerate for at least 30 minutes to harden
 - <img src='/assets/Food/Meme/White Chocolate/cover2.jpg' alt='' class='instruction-image'>
 Notes:
-- Compared to <a href='https://amzn.to/4sKAEH6'>standard white chocolate chips</a> (per 1/2 oz, 14 g), the homemade version is lower in net carbs and sugar, as it contains no added sugar.  It also has a higher percentage of fat, as well as more protein
+- Compared to <a href='https://amzn.to/4sKAEH6'>standard white chocolate chips</a> (per 1/2 oz, 14 g), the homemade version is lower in <a href='/misc/carbs'>net carbs</a> and <a href='/misc/hidden-sugar'>sugar</a>, as it contains no <a href='/misc/hidden-sugar'>added sugar</a>.  It also has a higher percentage of <a href='/misc/fats'>fat</a>, as well as more <a href='/misc/protein'>protein</a>
 - |
   COMPARE(
     "whitechoc",
