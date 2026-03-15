@@ -52,7 +52,9 @@ tags:
 - no carb
 - low carb
 - diet
-Description: This fudge is a healthy version of my <a href='/recipes/classic-fudge'>Traditional Fudge Recipe</a>, where I swapped out the <a href='/misc/hidden-sugar'>sugar</a> and marshmallows for <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. The result is a fudge with the perfect texture and a strong, bittersweet chocolate flavor. It has 0 g of <a href='/misc/hidden-sugar'>sugar</a> and less than half the <a href='/misc/calories'>calories</a>. If you like <a href='/misc/chocolate-benefits'>super dark chocolate</a>, than this fudge is for you.  On the left is my classic fudge, and on the right is the <a href='/misc/hidden-sugar'>sugar free</a> version<img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-compare.jpg' alt='' class='instruction-image'>
+Description: |
+  This fudge is a healthy version of my <a href='/recipes/classic-fudge'>Traditional Fudge Recipe</a>, where I swapped out the <a href='/misc/hidden-sugar'>sugar</a> and marshmallows for <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. The result is a fudge with the perfect texture and a strong, bittersweet chocolate flavor. It has 0 g of <a href='/misc/hidden-sugar'>sugar</a> and less than half the <a href='/misc/calories'>calories</a>. If you like <a href='/misc/chocolate-benefits'>super dark chocolate</a>, than this fudge is for you.  On the left is my classic fudge, and on the right is the <a href='/misc/hidden-sugar'>sugar free</a> version<br><br>
+  <img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-compare.jpg' alt='' class='instruction-image'>
 Instructions:
 - Line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper, and set aside. You can also use a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> for a half batch
 

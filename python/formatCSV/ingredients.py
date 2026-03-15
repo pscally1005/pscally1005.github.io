@@ -320,6 +320,8 @@ def ingredients(food):
         f = "Vanilla Protein Greek Yogurt"
     elif food == "Buttermilk, low fat (1%)" or food == "Buttermilk, fat free (skim)":
         f = "Buttermilk"
+    elif food == "Milk, dried, buttermilk":
+        f = "Buttermilk powder"
     elif food == "Fat free ultra-filtered milk by FAIRLIFE" or food == "Fairlife Skim Milk":
         f = "Fairlife skim milk"
     elif food == "Milk, with added vitamin A, evaporated, canned":
@@ -540,7 +542,7 @@ def ingredients(food):
         f = "50% chocolate"
     elif food == "Almond butter by JUSTIN'S" or food == "Almond butter, lower sodium" or food == "Nuts, without salt added, plain, almond butter":
         f = "Almond butter"
-    elif food == "Peanut Butter, smooth" or food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
+    elif food == "pb" or food == "Peanut Butter, smooth" or food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
         f = "Natural peanut butter"
     elif food == "Tahini by BRANDLESS":
         f = "Tahini"
