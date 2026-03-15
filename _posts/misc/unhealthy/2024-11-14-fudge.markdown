@@ -35,7 +35,7 @@ tags:
 - sugar
 - dessert
 - chocolate
-Description: I used to make this fudge for my family's annual summer barbeque, and it's always a massive hit. It's something I can only make once a year given how <a href='/misc/hidden-sugar'>sugary</a> and rich it is, but it's fine to have on the very rare occasion. Fudge also works well as a gift too, and can be easily customized
+Description: I used to make this fudge for my family's annual summer barbeque, and it's always a massive hit. It's something I can only make once a year given how <a href='/misc/hidden-sugar'>sugary</a> and rich it is, but it's fine to have on the very rare occasion. Fudge also works well as a gift too, and can be easily customized.
 Instructions:
 - Line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper, and set aside
 

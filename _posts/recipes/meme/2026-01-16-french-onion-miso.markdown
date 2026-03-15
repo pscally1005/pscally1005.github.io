@@ -58,7 +58,7 @@ tags:
 - soup
 - stew
 - hearty
-Description: This quick and simple <a href='/soups-and-stews'>soup</a> combines the vibes of French Onion <a href='/soups-and-stews'>Soup</a> and Miso <a href='/soups-and-stews'>Soup</a>.  It features sautéed <a href='/misc/veggies#onion'>onions</a> and cheesy flavor from the former, along with miso, <a href='/misc/beans#tofu'>tofu</a>, and soy sauce from the latter.  The <a href='/misc/veggies#cabbage'>cabbage</a> serves to provide extra bulk, as well as replace the seaweed.  This recipe makes 4 generous sized <a href='/soups-and-stews'>soup</a> bowls that can easily be whipped up on a lunch break
+Description: This quick and simple <a href='/soups-and-stews'>soup</a> combines the vibes of French Onion <a href='/soups-and-stews'>Soup</a> and Miso <a href='/soups-and-stews'>Soup</a>.  It features sautéed <a href='/misc/veggies#onion'>onions</a> and cheesy flavor from the former, along with miso, <a href='/misc/beans#tofu'>tofu</a>, and soy sauce from the latter.  The <a href='/misc/veggies#cabbage'>cabbage</a> serves to provide extra bulk, as well as replace the seaweed.  This recipe makes 4 generous sized <a href='/soups-and-stews'>soup</a> bowls that can easily be whipped up on a lunch break.
 Instructions:
 - Heat a large pot over medium heat. As the pot heats, finely cut your <a href='/misc/veggies#cabbage'>cabbage</a> and <a href='/misc/veggies#onion'>onions</a>
 

@@ -50,7 +50,7 @@ tags:
 - cocoa
 - mix
 - simple
-Description: <a href='/misc/fake-healthy-foods#trail-mix'>Trail mix</a> is a perfect snack to take on the go, especially when hiking (duh). Here's a simple formula that I generally follow, but it is super easy to tweak to your liking.  If you prefer crispy <a href='/misc/nuts'>nuts</a> and <a href='/misc/beans#chickpeas'>chickpeas</a> in your <a href='/misc/fake-healthy-foods#trail-mix'>trail mix</a> instead, see my <a href='/recipes/air-fried-trail-mix'>Air Fryer Trail Mix</a>
+Description: <a href='/misc/fake-healthy-foods#trail-mix'>Trail mix</a> is a perfect snack to take on the go, especially when hiking (duh). Here's a simple formula that I generally follow, but it is super easy to tweak to your liking.  If you prefer crispy <a href='/misc/nuts'>nuts</a> and <a href='/misc/beans#chickpeas'>chickpeas</a> in your <a href='/misc/fake-healthy-foods#trail-mix'>trail mix</a> instead, see my <a href='/recipes/air-fried-trail-mix'>Air Fryer Trail Mix</a>.
 Instructions:
 - Mix together in ziploc bag, store in cabinet or fridge
 Notes:

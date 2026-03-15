@@ -58,7 +58,7 @@ tags:
 - simply
 - salmon filet
 - fillet
-Description: <a href='/misc/fruit#lemon'>Lemon</a> and <a href='/misc/fish#salmon'>salmon</a> go great together, one of my favorite combinations. I've also made a <a href='/recipes/sides'>side</a> of tzatziki sauce here, as well as some roasted <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a>. This is a great light and healthy summery meal with plenty of Greek flavors
+Description: <a href='/misc/fruit#lemon'>Lemon</a> and <a href='/misc/fish#salmon'>salmon</a> go great together, one of my favorite combinations. I've also made a <a href='/recipes/sides'>side</a> of tzatziki sauce here, as well as some roasted <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a>. This is a great light and healthy summery meal with plenty of Greek flavors.
 Instructions:
 - Starting with the Tzatziki. Finely dice your <a href='/misc/veggies#cucumber'>cucumber</a>, and add to a strainer with salt. Let sit for about an hour to draw out excess water
 

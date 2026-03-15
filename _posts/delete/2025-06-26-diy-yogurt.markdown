@@ -50,7 +50,7 @@ tags:
 - almond milk
 - homemade
 - copycat
-Description: If you need <a href='/misc/dairy#yogurt'>yogurt</a>, and you need it, like, <i>right now</i>, then here a dumb substitution for you.  I've attempted to quickly "reverse engineer" <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>.  The result is a product as similar to <a href='/misc/dairy#yogurt'>greek yogurt</a> as you can reasonably get in 5 minutes.  It has the exact same nutrition facts, as shown in the table below, as well as a similar tangy and mildly sweet flavor
+Description: If you need <a href='/misc/dairy#yogurt'>yogurt</a>, and you need it, like, <i>right now</i>, then here a dumb substitution for you.  I've attempted to quickly "reverse engineer" <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>.  The result is a product as similar to <a href='/misc/dairy#yogurt'>greek yogurt</a> as you can reasonably get in 5 minutes.  It has the exact same nutrition facts, as shown in the table below, as well as a similar tangy and mildly sweet flavor.
 Instructions:
 - Mix together all ingredients in a bowl, as use as you would use <a href='/misc/dairy#yogurt'>yogurt</a> I guess
 Notes:

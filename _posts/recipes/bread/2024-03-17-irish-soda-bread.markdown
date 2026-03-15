@@ -51,7 +51,7 @@ tags:
 - st patricks day
 - st patrick's day
 - buttermilk
-Description: This Irish Soda <a href='/recipes/bread'>Bread</a> is healthier than traditional, as it's packed with much more <a href='/misc/fiber'>fiber</a> and <a href='/misc/nutrient-alphabet'>nutrients</a> due to the <a href='/misc/grains#whole-wheat'>whole wheat</a> and <a href='/misc/grains#oats'>oat flours</a>. This is a quick <a href='/recipes/bread'>bread recipe</a> that relies on the reaction between baking soda and buttermilk, giving you a delicious <a href='/recipes/bread'>bread</a> in a fraction of the time. It goes great with my <a href='/recipes/shepards-pie'>Cauliflower Mash Shepard's Pie</a> for a hearty dinner
+Description: This Irish Soda <a href='/recipes/bread'>Bread</a> is healthier than traditional, as it's packed with much more <a href='/misc/fiber'>fiber</a> and <a href='/misc/nutrient-alphabet'>nutrients</a> due to the <a href='/misc/grains#whole-wheat'>whole wheat</a> and <a href='/misc/grains#oats'>oat flours</a>. This is a quick <a href='/recipes/bread'>bread recipe</a> that relies on the reaction between baking soda and buttermilk, giving you a delicious <a href='/recipes/bread'>bread</a> in a fraction of the time. It goes great with my <a href='/recipes/shepards-pie'>Cauliflower Mash Shepard's Pie</a> for a hearty dinner.
 Instructions:
 - Preheat your oven to 450F, and take out a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Lightly grease it with <a href='/misc/fats'>oil</a>. For a crispier crust, you can instead bake on a preheated <a href='https://amzn.to/4ccXgLm'>pizza stone</a>. Just use parchment paper, so it's easier to get the loaf in
 

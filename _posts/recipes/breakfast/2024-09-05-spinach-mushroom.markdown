@@ -57,7 +57,7 @@ tags:
 - white mushrooms
 - feta cheese
 - crumbled feta
-Description: Did you know that you can meal prep <a href='/misc/meat#eggs'>eggs</a>? Yup, <a href='/recipes/breakfast'>breakfast</a> meal prep isn't reserved for just <a href='/oatmeal'>overnight oats</a> or <a href='/misc/dairy#yogurt'>yogurt</a>. This batch of food makes 4 servings, and is a good source of <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> in the morning
+Description: Did you know that you can meal prep <a href='/misc/meat#eggs'>eggs</a>? Yup, <a href='/recipes/breakfast'>breakfast</a> meal prep isn't reserved for just <a href='/oatmeal'>overnight oats</a> or <a href='/misc/dairy#yogurt'>yogurt</a>. This batch of food makes 4 servings, and is a good source of <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> in the morning.
 Instructions:
 - Preheat a <a href='https://amzn.to/4rdR0HI'>12" nonstick pan</a> over medium heat with olive oil
 

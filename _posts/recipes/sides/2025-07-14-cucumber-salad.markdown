@@ -49,7 +49,7 @@ tags:
 - garlic
 - ginger
 - pickles
-Description: This is Asian cucumber salad...kinda.  If you've ever wanted to recreate it at home, but somewhat bastardize it, well then you're in the right place.  I've tried to keep this as "traditional" as possible while using ingredients I regularly have in my white guy kitchen, while also making it <a href='/misc/hidden-sugar'>sugar free</a> and not super oily
+Description: This is Asian cucumber salad...kinda.  If you've ever wanted to recreate it at home, but somewhat bastardize it, well then you're in the right place.  I've tried to keep this as "traditional" as possible while using ingredients I regularly have in my white guy kitchen, while also making it <a href='/misc/hidden-sugar'>sugar free</a> and not super oily.
 Instructions:
 - Cut your <a href='/misc/veggies#cucumber'>cucumber</a> thinly, either with a knife or <a href='https://amzn.to/4q3nlQz'>mandoline</a>. Add to a <a href='https://amzn.to/4adxMft'>medium bowl</a> with salt, and mix. Let sit for at least 10 minutes for the salt to draw out the water from the <a href='/misc/veggies#cucumber'>cucumber</a>. Drain the water, and pat dry
 

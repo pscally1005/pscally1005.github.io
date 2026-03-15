@@ -53,7 +53,7 @@ tags:
 - low moisture part skim
 - garlic powder
 - vic
-Description: This loaf of bread is free of both <a href='/misc/celiac'>gluten</a> and <a href='/misc/carbs'>refined grains</a>. It's higher in <a href='/misc/protein'>protein</a>, lower in <a href='/misc/carbs'>carbs</a>, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as <a href='/recipes/ww-bread'>toast</a> with jam or a PB&J. It's much simpler than standard <a href='/recipes/bread'>bread</a> to make, keto friendly, and great for people with <a href='/misc/celiac'>Celiac disease</a>
+Description: This loaf of bread is free of both <a href='/misc/celiac'>gluten</a> and <a href='/misc/carbs'>refined grains</a>. It's higher in <a href='/misc/protein'>protein</a>, lower in <a href='/misc/carbs'>carbs</a>, and is full of delicious cheesy and garlicky flavor. It still works great with sweet toppings, such as <a href='/recipes/ww-bread'>toast</a> with jam or a PB&J. It's much simpler than standard <a href='/recipes/bread'>bread</a> to make, keto friendly, and great for people with <a href='/misc/celiac'>Celiac disease</a>.
 Instructions:
 - Preheat oven to 350F, and line a 9x5" pan with parchment paper
 

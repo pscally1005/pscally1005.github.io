@@ -44,7 +44,7 @@ tags:
 - egg
 - air fry
 - boil
-Description: Hard boiled <a href='/misc/meat#eggs'>eggs</a> are a quick snack or <a href='/recipes/breakfast'>breakfast</a>, and they are also a quick <a href='/misc/protein'>protein</a> source. Great when chopped up on a <a href='/salad'>salad</a>, these boiled <a href='/misc/meat#eggs'>eggs</a> can be made either on the stove, or in the <a href='/misc/kitchen-products#air-fryer'>air fryer</a> (my preferred way)
+Description: Hard boiled <a href='/misc/meat#eggs'>eggs</a> are a quick snack or <a href='/recipes/breakfast'>breakfast</a>, and they are also a quick <a href='/misc/protein'>protein</a> source. Great when chopped up on a <a href='/salad'>salad</a>, these boiled <a href='/misc/meat#eggs'>eggs</a> can be made either on the stove, or in the <a href='/misc/kitchen-products#air-fryer'>air fryer</a> (my preferred way).
 Instructions:
 - Place <a href='/misc/meat#eggs'>eggs</a> in a large pot and cover with water, about an inch over the top of the <a href='/misc/meat#eggs'>eggs</a>. Bring to a boil, and let boil for 2 minutes. Reduce heat a simmer, and simmer for 12 minutes, uncovered
 

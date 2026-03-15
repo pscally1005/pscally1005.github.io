@@ -60,7 +60,7 @@ tags:
 - banana bread
 - bread
 - cake
-Description: Unlike traditional <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> or <a href='/misc/fake-healthy-foods#muffins'>muffins</a>, this recipe is healthy enough to be eaten for <a href='/recipes/breakfast'>breakfast</a>, as it's not loaded with <a href='/misc/hidden-sugar'>added sugars</a> or <a href='/misc/fats'>unhealthy fats</a>. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted <a href='/misc/nuts#peanuts'>peanut butter</a> (not included in the nutrition facts). Bonus points for being <a href='/misc/celiac'>gluten free</a> too!  Check out my <a href='/recipes/pbj-muffin'>Peanut Butter and Jelly Muffins</a> and my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a> for similar recipes
+Description: Unlike traditional <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> or <a href='/misc/fake-healthy-foods#muffins'>muffins</a>, this recipe is healthy enough to be eaten for <a href='/recipes/breakfast'>breakfast</a>, as it's not loaded with <a href='/misc/hidden-sugar'>added sugars</a> or <a href='/misc/fats'>unhealthy fats</a>. The base recipe is great on its own, but elevated even more if you mix in some chocolate chips and top with some melted <a href='/misc/nuts#peanuts'>peanut butter</a> (not included in the nutrition facts). Bonus points for being <a href='/misc/celiac'>gluten free</a> too!  Check out my <a href='/recipes/pbj-muffin'>Peanut Butter and Jelly Muffins</a> and my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a> for similar recipes.
 Instructions:
 - Preheat your oven to 350F
 

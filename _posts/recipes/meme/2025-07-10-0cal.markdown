@@ -49,7 +49,7 @@ tags:
 - meringue
 - granulated monk fruit
 - zero calories
-Description: No this isn't a joke (okay maybe it is a little bit).  But with just 2 ingredients and a little bit of rounding, you can make 0 <a href='/misc/calories'>calorie</a> <a href='/cookies'>cookies</a>.  I've taken my <a href='/recipes/styrofoam-cookies'>Nut Butter Styrofoam Cookies</a> and just removed the <a href='/misc/nuts#peanuts'>peanut butter</a>.  These dead simple meringue <a href='/cookies'>cookies</a> use just <a href='/misc/meat#egg-whites'>egg whites</a> and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> for a light and tasty <a href='/cookies'>cookie</a> with a cloud like texture
+Description: No this isn't a joke (okay maybe it is a little bit).  But with just 2 ingredients and a little bit of rounding, you can make 0 <a href='/misc/calories'>calorie</a> <a href='/cookies'>cookies</a>.  I've taken my <a href='/recipes/styrofoam-cookies'>Nut Butter Styrofoam Cookies</a> and just removed the <a href='/misc/nuts#peanuts'>peanut butter</a>.  These dead simple meringue <a href='/cookies'>cookies</a> use just <a href='/misc/meat#egg-whites'>egg whites</a> and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> for a light and tasty <a href='/cookies'>cookie</a> with a cloud like texture.
 Instructions:
 - Preheat your oven to 325F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 

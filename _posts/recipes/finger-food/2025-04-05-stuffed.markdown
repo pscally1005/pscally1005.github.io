@@ -52,7 +52,7 @@ tags:
 - red split lentils
 - brown rice
 - quinoa beans
-Description: These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled with <a href='/misc/meat#ground-turkey'>ground turkey</a>, <a href='/misc/grains#brown-rice'>brown rice</a>, and taco seasonings.  But they're super customizable, see <a href='#notes'>notes</a> below
+Description: These stuffed <a href='/misc/veggies#pepper'>peppers</a> are filled with <a href='/misc/meat#ground-turkey'>ground turkey</a>, <a href='/misc/grains#brown-rice'>brown rice</a>, and taco seasonings.  But they're super customizable, see <a href='#notes'>notes</a> below.
 Instructions:
 - In a small pot, add your <a href='/misc/grains#brown-rice'>rice</a>, water, and salt. Bring to a boil over high heat. Cover, reduce to low, and let simmer for about 20-30 minutes, until fully cooked. Set aside
 

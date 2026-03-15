@@ -49,7 +49,7 @@ tags:
 - onion jam
 - french onion dip
 - vic
-Description: Caramelized <a href='/misc/veggies#onion'>onions</a> are simple and delicious, but take a while with often stirring on the stove. I've done them in a <a href='https://amzn.to/49TUS9E'>slow cooker</a> here, so you can let them go all day, and check on them every hour or so. Caramelized <a href='/misc/veggies#onion'>onions</a> are great on nearly everything; give it a go
+Description: Caramelized <a href='/misc/veggies#onion'>onions</a> are simple and delicious, but take a while with often stirring on the stove. I've done them in a <a href='https://amzn.to/49TUS9E'>slow cooker</a> here, so you can let them go all day, and check on them every hour or so. Caramelized <a href='/misc/veggies#onion'>onions</a> are great on nearly everything; give it a go.
 Instructions:
 - Slice all your <a href='/misc/veggies#onion'>onions</a>, and add to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>. Season, and mix, making sure to separate the <a href='/misc/veggies#onion'>onions</a> from other layers
 - <img src='/assets/Food/Savory Sauces/Caramel Onions/raw.jpg' alt='' class='instruction-image'>

@@ -49,7 +49,7 @@ tags:
 - chicken broth
 - vic
 - creamy
-Description: My favorite thing about this Chicken Florentine is that it tastes just as good as all the others I've had, but without the addition of all the heavy cream that would normally turn this into a <a href='/misc/fats'>fat</a> bomb. Packed with <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies#spinach-fresh'>spinach</a>, and made creamy with a secret ingredient, this recipe is amazing, and goes great with a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>brown rice</a> and roasted <a href='/misc/veggies'>vegetables</a>
+Description: My favorite thing about this Chicken Florentine is that it tastes just as good as all the others I've had, but without the addition of all the heavy cream that would normally turn this into a <a href='/misc/fats'>fat</a> bomb. Packed with <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies#spinach-fresh'>spinach</a>, and made creamy with a secret ingredient, this recipe is amazing, and goes great with a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>brown rice</a> and roasted <a href='/misc/veggies'>vegetables</a>.
 Instructions:
 - Cut your <a href='/misc/veggies#onion'>onion</a> into a small dice, and add to a <a href='https://amzn.to/4rdR0HI'>large pan</a> with oil, <a href='/misc/veggies#spinach-fresh'>spinach</a>, and <a href='/misc/veggies#garlic'>garlic</a>, salt, and black pepper.  Cover and cook over medium heat until the <a href='/misc/veggies#onion'>onions</a> are translucent and the water has cooked out of the <a href='/misc/veggies#spinach-fresh'>spinach</a>.  It should just slightly start sticking to the pan. Set aside on a plate
 

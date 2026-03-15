@@ -58,7 +58,7 @@ tags:
 - maple syrup
 - oat flour
 - gluten free
-Description: These super simple 4 ingredients <a href='/misc/celiac'>gluten free</a> snacks are made in just 5 minutes, and are a good quick source of <a href='/misc/fiber'>fiber</a>, <a href='/misc/carbs'>carbs</a>, and <a href='/misc/fats'>healthy fats</a>, helping you get through the day.  They're offer a quick boost of energy through the <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/misc/natural-sweeteners#honey'>honey</a>.  They're much cheaper than other minimal ingredient healthy snacks on the market as well
+Description: These super simple 4 ingredients <a href='/misc/celiac'>gluten free</a> snacks are made in just 5 minutes, and are a good quick source of <a href='/misc/fiber'>fiber</a>, <a href='/misc/carbs'>carbs</a>, and <a href='/misc/fats'>healthy fats</a>, helping you get through the day.  They're offer a quick boost of energy through the <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/misc/natural-sweeteners#honey'>honey</a>.  They're much cheaper than other minimal ingredient healthy snacks on the market as well.
 Instructions:
 - In a bowl or <a href='https://amzn.to/3VHhgMM'>small food processor</a>, combine together all the ingredients until fully combined - <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/misc/natural-sweeteners#honey'>honey</a>
 - <img src='/assets/Food/Finger Food/Cocoa Bite/bowl.jpg' alt='' class='instruction-image'>

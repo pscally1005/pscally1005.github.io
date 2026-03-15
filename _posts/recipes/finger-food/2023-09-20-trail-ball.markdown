@@ -57,7 +57,7 @@ tags:
 - roll
 - ball
 - powdered peanut butter
-Description: <a href='/recipes/trail-mix'>Trail mix</a> is one of my favorite snacks, and these bites take that idea, and instead blend them together to get bites of sweet and salty <a href='/misc/fake-healthy-foods#trail-mix'>trail mix</a> in every bite. The texture contrast between the crunchy <a href='/misc/nuts'>nuts</a> and chewy <a href='/misc/fruit#raisins'>raisins</a> makes them even more enjoyable to eat.  For other no bake bite sized snacks, check out my <a href='/recipes/energy-bites'>No Bake Energy Bites</a>, <a href='/recipes/chickpea-chows'>Chickpea Chows</a>, or my <a href='/recipes/carrot-cake-bites'>Carrot Cake Energy Bites</a>
+Description: <a href='/recipes/trail-mix'>Trail mix</a> is one of my favorite snacks, and these bites take that idea, and instead blend them together to get bites of sweet and salty <a href='/misc/fake-healthy-foods#trail-mix'>trail mix</a> in every bite. The texture contrast between the crunchy <a href='/misc/nuts'>nuts</a> and chewy <a href='/misc/fruit#raisins'>raisins</a> makes them even more enjoyable to eat.  For other no bake bite sized snacks, check out my <a href='/recipes/energy-bites'>No Bake Energy Bites</a>, <a href='/recipes/chickpea-chows'>Chickpea Chows</a>, or my <a href='/recipes/carrot-cake-bites'>Carrot Cake Energy Bites</a>.
 Instructions:
 - In a bowl, mash the <a href='/misc/fruit#banana'>banana</a> with a fork. Roughly chop the <a href='/misc/fruit#raisins'>raisins</a> and <a href='/misc/nuts'>nuts</a>.  Mix in the rest of the ingredients
 

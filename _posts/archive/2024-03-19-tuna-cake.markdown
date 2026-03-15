@@ -59,7 +59,7 @@ tags:
 - coconut flour
 - soy sauce
 - gluten free
-Description: I took and modified this recipe from my parents, who made <a href='/misc/fish#crab'>crab</a> cakes on Christmas. I really liked them, but I didn't want to pay for <a href='/misc/fish#crab'>crab</a>, so I wanted to try it with <a href='/misc/fish#tuna'>tuna</a> instead. I think they turned out pretty well. They're cheap, healthy, and simple. Feel free to actually use <a href='/misc/fish#crab'>crab</a> too. They're <a href='/misc/celiac'>gluten free</a> too, being made with <a href='/misc/nuts#coconut'>coconut flour</a>! The nutrition facts are per cake
+Description: I took and modified this recipe from my parents, who made <a href='/misc/fish#crab'>crab</a> cakes on Christmas. I really liked them, but I didn't want to pay for <a href='/misc/fish#crab'>crab</a>, so I wanted to try it with <a href='/misc/fish#tuna'>tuna</a> instead. I think they turned out pretty well. They're cheap, healthy, and simple. Feel free to actually use <a href='/misc/fish#crab'>crab</a> too. They're <a href='/misc/celiac'>gluten free</a> too, being made with <a href='/misc/nuts#coconut'>coconut flour</a>! The nutrition facts are per cake.
 Instructions:
 - Prepare a <a href='https://amzn.to/4rdR0HI'>12" pan</a> with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 

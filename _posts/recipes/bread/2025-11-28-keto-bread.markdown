@@ -51,7 +51,7 @@ tags:
 - fiber
 - low carb
 - high fat
-Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is perfectly high in <a href='/misc/protein'>protein</a> from the <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, high in <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>, and high in <a href='/misc/fiber'>fiber</a> from the <a href='https://amzn.to/47w8h7R'>inulin</a>. At about 100 <a href='/misc/calories'>calories</a> per slice, this bread is the perfect <a href='/misc/carbs'>low carb</a> substitute with only 2.5 g of <a href='/misc/carbs'>net carbs</a> per slice
+Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is perfectly high in <a href='/misc/protein'>protein</a> from the <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, high in <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#almonds'>almond flour</a>, and high in <a href='/misc/fiber'>fiber</a> from the <a href='https://amzn.to/47w8h7R'>inulin</a>. At about 100 <a href='/misc/calories'>calories</a> per slice, this bread is the perfect <a href='/misc/carbs'>low carb</a> substitute with only 2.5 g of <a href='/misc/carbs'>net carbs</a> per slice.
 Instructions:
 - In a large glass, add your water, and microwave for 1 minute to warm it
 

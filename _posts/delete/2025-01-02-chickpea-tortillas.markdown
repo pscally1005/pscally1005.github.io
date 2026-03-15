@@ -52,7 +52,7 @@ tags:
 - garbanzo beans
 - gluten free
 - oat flour
-Description: These easy homemade tortillas and tortilla chips are lower in <a href='/misc/fats'>fat</a> and free of preservatives and flavors found in storebought ones. They're much easier to make than standard tortillas, as they're more of a crepe that a dough. I do love my <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, but these are much quicker to whip up. I've even used homemade <a href='/misc/beans#chickpeas'>chickpea flour</a> here too
+Description: These easy homemade tortillas and tortilla chips are lower in <a href='/misc/fats'>fat</a> and free of preservatives and flavors found in storebought ones. They're much easier to make than standard tortillas, as they're more of a crepe that a dough. I do love my <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, but these are much quicker to whip up. I've even used homemade <a href='/misc/beans#chickpeas'>chickpea flour</a> here too.
 Instructions:
 - If you don't have <a href='/misc/beans#chickpeas'>chickpea flour</a>, you can make your own by just blending raw, dried <a href='/misc/beans#chickpeas'>chickpeas</a> in a <a href='https://amzn.to/4q0AUjI'>food processor</a> on high speed for about 5 minutes
 - <img src='/assets/Food/Finger Food/Chickpea Tortilla/flour.jpg' alt='' class='instruction-image'>

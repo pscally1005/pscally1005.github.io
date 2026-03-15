@@ -55,7 +55,7 @@ tags:
 - kiwi
 - sauerkraut
 - saurkraut
-Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/fish#salmon'>salmon</a>, <a href='/misc/grains#quinoa'>quinoa</a>, and <a href='/misc/veggies#beets'>beets</a>. It's delicious, filling, customizable, tasty, while also being high in <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/carbs'>complex carbs</a>
+Description: These superfood bowls make 2 servings, perfect to share with someone else, or 2 servings for yourself if you don't feel like sharing. I don't like using the word "superfood", but these bowls are packed with all the "superfoods" I can think of, including <a href='/misc/fruit#avocado'>avocado</a>, <a href='/misc/fish#salmon'>salmon</a>, <a href='/misc/grains#quinoa'>quinoa</a>, and <a href='/misc/veggies#beets'>beets</a>. It's delicious, filling, customizable, tasty, while also being high in <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/carbs'>complex carbs</a>.
 Instructions:
 - |
   <b>Roasted Veggies</b><br>

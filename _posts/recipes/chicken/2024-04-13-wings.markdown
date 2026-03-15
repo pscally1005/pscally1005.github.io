@@ -47,7 +47,7 @@ tags:
 - frank's
 - louisiana
 - cayenne
-Description: Wings are a great food to have for a party, but they're typically the furthest thing from healthy.  This recipe avoids any sort of unhealthy breading and deep frying, and instead relies of baking them for a simple and crispy dinner.  4 lbs of wings yielded me 10 full wings (20 halves), enough for an appetizer with a gathering of friends.  Any storebought <a href='/recipes/hot-sauce'>hot sauce</a> with just vinegar, <a href='/misc/veggies#pepper'>peppers</a>, and salt works great, or use my <a href='/recipes/hot-sauce'>Red Jalapeno Louisiana Hot Sauce</a> recipe
+Description: Wings are a great food to have for a party, but they're typically the furthest thing from healthy.  This recipe avoids any sort of unhealthy breading and deep frying, and instead relies of baking them for a simple and crispy dinner.  4 lbs of wings yielded me 10 full wings (20 halves), enough for an appetizer with a gathering of friends.  Any storebought <a href='/recipes/hot-sauce'>hot sauce</a> with just vinegar, <a href='/misc/veggies#pepper'>peppers</a>, and salt works great, or use my <a href='/recipes/hot-sauce'>Red Jalapeno Louisiana Hot Sauce</a> recipe.
 Instructions:
 - I had a 4 lb pack of wings, which contained 10 full pieces.  Cut each wing into 2 halves, the drumette and the wingette. Start by cutting down the center, then use your hands to snap the joint in half, and finish by cutting through the rest of the <a href='/misc/meat'>meat</a>. Here's a photo with a diagram of a chicken wing for reference
 - <img src='/assets/Food/Chicken/Wings/wings-1.jpg' alt='' class='instruction-image'>

@@ -54,7 +54,7 @@ tags:
 - fall
 - thanksgiving
 - christmas
-Description: It's a little late for pecan pie season, but who cares?  A good <a href='/recipes/healthier-dessert'>dessert</a> is a good <a href='/recipes/healthier-dessert'>dessert</a>.  These no bake pecan pie bars feature an <a href='/misc/grains#oats'>oat flour</a> based crust, a <a href='/misc/natural-sweeteners#honey'>honey</a> filling, and a crushed <a href='/misc/nuts#pecans'>pecan</a> topping.  It's <a href='/misc/hidden-sugar'>refined sugar free</a>, <a href='/misc/celiac'>gluten free</a>, and can be made vegan if using <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+Description: It's a little late for pecan pie season, but who cares?  A good <a href='/recipes/healthier-dessert'>dessert</a> is a good <a href='/recipes/healthier-dessert'>dessert</a>.  These no bake pecan pie bars feature an <a href='/misc/grains#oats'>oat flour</a> based crust, a <a href='/misc/natural-sweeteners#honey'>honey</a> filling, and a crushed <a href='/misc/nuts#pecans'>pecan</a> topping.  It's <a href='/misc/hidden-sugar'>refined sugar free</a>, <a href='/misc/celiac'>gluten free</a>, and can be made vegan if using <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, combine together the crust ingredients - <a href='/misc/grains#oats'>oat flour</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, cinnamon, and salt
 - <img src='/assets/Food/Healthier Dessert/Pecan pie bars/base-bowl.jpg' alt='' class='instruction-image'>

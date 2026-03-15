@@ -52,7 +52,7 @@ tags:
 - oil
 - vinegar
 - sandwich
-Description: This BBQ pulled chicken is made easy in a <a href='https://amzn.to/49TUS9E'>slow cooker</a>, and features a homemade <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>. I paired it with a <a href='/recipes/sides'>side</a> of oil and vinegar coleslaw (not a <a href='/misc/fake-healthy-foods#dips'>mayo</a> based coleslaw), and can be easily made into a sandwich. I always hated shredding <a href='/misc/veggies#cabbage'>cabbage</a>, until I realized I could use my <a href='https://amzn.to/4q0AUjI'>food processor</a> to do the work for me. Give it a go, and check out the homemade sauce, or use your own <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a>
+Description: This BBQ pulled chicken is made easy in a <a href='https://amzn.to/49TUS9E'>slow cooker</a>, and features a homemade <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>. I paired it with a <a href='/recipes/sides'>side</a> of oil and vinegar coleslaw (not a <a href='/misc/fake-healthy-foods#dips'>mayo</a> based coleslaw), and can be easily made into a sandwich. I always hated shredding <a href='/misc/veggies#cabbage'>cabbage</a>, until I realized I could use my <a href='https://amzn.to/4q0AUjI'>food processor</a> to do the work for me. Give it a go, and check out the homemade sauce, or use your own <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a>.
 Instructions:
 - Place the <a href='/misc/meat#chicken-thighs'>thighs</a> into a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>. Add spices (chili powder, paprika, garlic powder, onion powder, black pepper, and cayenne) over the <a href='/misc/meat#chicken-breast'>chicken</a>, and mix to evenly coat it all
 

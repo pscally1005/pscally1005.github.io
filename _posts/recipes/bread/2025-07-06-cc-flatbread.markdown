@@ -51,7 +51,7 @@ tags:
 - viral
 - egg Whites
 - psyllium husk
-Description: Is <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> still having its moment in the sun?  I hope so, because this <a href='/misc/celiac'>gluten</a> and <a href='/misc/grains'>grain</a> free <a href='/recipes/bread'>bread</a> is high in <a href='/misc/protein'>protein</a>, low in <a href='/misc/carbs'>carbs</a>, and dead simple to make. Just blend together <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> and <a href='/misc/meat#egg-whites'>egg whites</a>, spread on a <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and bake.  With 18 g of <a href='/misc/protein'>protein</a> in just 119 <a href='/misc/calories'>calories</a>, this flatbread makes a great base for a healthy wrap or pizza
+Description: Is <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> still having its moment in the sun?  I hope so, because this <a href='/misc/celiac'>gluten</a> and <a href='/misc/grains'>grain</a> free <a href='/recipes/bread'>bread</a> is high in <a href='/misc/protein'>protein</a>, low in <a href='/misc/carbs'>carbs</a>, and dead simple to make. Just blend together <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> and <a href='/misc/meat#egg-whites'>egg whites</a>, spread on a <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and bake.  With 18 g of <a href='/misc/protein'>protein</a> in just 119 <a href='/misc/calories'>calories</a>, this flatbread makes a great base for a healthy wrap or pizza.
 Instructions:
 - Preheat your oven to 350F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.  Lightly grease the paper
 

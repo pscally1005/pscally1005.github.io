@@ -50,7 +50,7 @@ tags:
 - chickpeas
 - garbanzo beans
 - vanilla extract
-Description: Do you know what to do with leftover <a href='/recipes/classic-tahini-hummus'>aquafaba</a>?  If you guessed making ice cream, then you'd be correct; how'd you possibly get that?  This vegan chocolate ice cream contains only 5 simple ingredients you likely have on hand right now. It's sweet and chocolatey, with a subtly salty flavor, giving it a sea salt chocolate vibe.  Being free of <a href='/misc/celiac'>gluten</a> and <a href='/misc/hidden-sugar'>refined sugar</a>, this healthy ice cream is the perfect light and refreshing treat that's low in <a href='/misc/calories'>calories</a>
+Description: Do you know what to do with leftover <a href='/recipes/classic-tahini-hummus'>aquafaba</a>?  If you guessed making ice cream, then you'd be correct; how'd you possibly get that?  This vegan chocolate ice cream contains only 5 simple ingredients you likely have on hand right now. It's sweet and chocolatey, with a subtly salty flavor, giving it a sea salt chocolate vibe.  Being free of <a href='/misc/celiac'>gluten</a> and <a href='/misc/hidden-sugar'>refined sugar</a>, this healthy ice cream is the perfect light and refreshing treat that's low in <a href='/misc/calories'>calories</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, beat your aquafaba and <a href='/misc/fruit#lemon-juice'>lemon juice</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> for about 3 minutes, or until foamy and you have soft peaks
 

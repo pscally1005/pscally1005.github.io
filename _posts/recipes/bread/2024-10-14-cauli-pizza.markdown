@@ -53,7 +53,7 @@ tags:
 - low moisture part skim
 - shredded cheese
 - pepperoni
-Description: This pizza crust is a delicious lower <a href='/misc/carbs'>carb</a> and <a href='/misc/celiac'>gluten free</a> option, being made of riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and <a href='/misc/seeds#flax-seeds'>ground flax seeds</a>. It is very simple to make, and can be topped with whatever you like, such as <a href='/misc/meat'>meat</a> or roasted <a href='/misc/veggies'>veggies</a>. This recipe yields 2 healthier personal pizzas
+Description: This pizza crust is a delicious lower <a href='/misc/carbs'>carb</a> and <a href='/misc/celiac'>gluten free</a> option, being made of riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and <a href='/misc/seeds#flax-seeds'>ground flax seeds</a>. It is very simple to make, and can be topped with whatever you like, such as <a href='/misc/meat'>meat</a> or roasted <a href='/misc/veggies'>veggies</a>. This recipe yields 2 healthier personal pizzas.
 Instructions:
 - Preheat your oven to as hot as it goes (500F for me) with a <a href='https://amzn.to/4ccXgLm'>pizza stone</a> for around an hour. Heating the <a href='https://amzn.to/4ccXgLm'>stone</a> for a long time gets it as hot as possible, leading to the most browning on the underside of your pizza. This step is optional; if you don't have a <a href='https://amzn.to/4ccXgLm'>pizza stone</a> you can also bake on a <a href='https://amzn.to/45sRAsB'>cookie sheet</a>
 

@@ -52,7 +52,7 @@ tags:
 - greek
 - minced garlic
 - chicken broth
-Description: As someone who isn't a big fan of <a href='/misc/veggies#potato'>potatoes</a>, I'm in love with Greek style lemon potatoes. But after seeing upwards of 1/2 cup of olive oil in most recipes, I knew that I had to give it a shot my way. These roasted <a href='/misc/veggies#potato'>potatoes</a> still feature extra virgin olive oil, as it's one of the healthiest <a href='/misc/fats'>fats</a> you could consume, but dialed back as to not be too <a href='/misc/calories'>calorically dense</a>
+Description: As someone who isn't a big fan of <a href='/misc/veggies#potato'>potatoes</a>, I'm in love with Greek style lemon potatoes. But after seeing upwards of 1/2 cup of olive oil in most recipes, I knew that I had to give it a shot my way. These roasted <a href='/misc/veggies#potato'>potatoes</a> still feature extra virgin olive oil, as it's one of the healthiest <a href='/misc/fats'>fats</a> you could consume, but dialed back as to not be too <a href='/misc/calories'>calorically dense</a>.
 Instructions:
 - Wash your <a href='/misc/veggies#potato'>potatoes</a>, and cut into thick wedges (don't peel the <a href='/misc/veggies#potato'>potatoes</a>!). Add your <a href='/misc/veggies#potato'>potatoes</a> to the base of a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a>
 

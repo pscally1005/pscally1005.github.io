@@ -57,7 +57,7 @@ tags:
 - apple spread
 - pastry
 - powdered peanut butter
-Description: These cinnamon rolls aren't your traditional empty <a href='/misc/calories'>calorie</a> pastries. They have a good blend of <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fats</a>, <a href='/misc/carbs'>carbs</a>, and <a href='/misc/fiber'>fiber</a>, making them a nutritious <a href='/recipes/breakfast'>breakfast</a> choice, with a homemade <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> filling. The batch makes only 1 serving (a few smaller cinnamon rolls), but can be easily scaled up. For a different <a href='/misc/protein'>protein</a> pastry <a href='/recipes/breakfast'>breakfast</a>, see my <a href='/recipes/protein-poptart'>PB&J Protein PopTart</a>
+Description: These cinnamon rolls aren't your traditional empty <a href='/misc/calories'>calorie</a> pastries. They have a good blend of <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fats</a>, <a href='/misc/carbs'>carbs</a>, and <a href='/misc/fiber'>fiber</a>, making them a nutritious <a href='/recipes/breakfast'>breakfast</a> choice, with a homemade <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> filling. The batch makes only 1 serving (a few smaller cinnamon rolls), but can be easily scaled up. For a different <a href='/misc/protein'>protein</a> pastry <a href='/recipes/breakfast'>breakfast</a>, see my <a href='/recipes/protein-poptart'>PB&J Protein PopTart</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together the dry ingredients for the dough - <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, baking powder, cinnamon, and salt
 

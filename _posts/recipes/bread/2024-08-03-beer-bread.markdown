@@ -50,7 +50,7 @@ tags:
 - baking powder
 - salt
 - easy
-Description: Beer <a href='/recipes/bread'>bread</a> takes me back to my childhood, as my dad would occasionally make it. I had some Blue Moon lying around after a friend left it over, so I decided to turn a bottle into some <a href='/misc/grains#whole-wheat'>whole wheat</a> beer <a href='/recipes/bread'>bread</a> for a small gathering. It's a super quick and easy <a href='/recipes/bread'>bread</a> that goes well on its own, or with any spread on top, like <a href='/misc/dairy#butter'>butter</a>, jam, or <a href='/misc/nuts#peanuts'>peanut butter</a>
+Description: Beer <a href='/recipes/bread'>bread</a> takes me back to my childhood, as my dad would occasionally make it. I had some Blue Moon lying around after a friend left it over, so I decided to turn a bottle into some <a href='/misc/grains#whole-wheat'>whole wheat</a> beer <a href='/recipes/bread'>bread</a> for a small gathering. It's a super quick and easy <a href='/recipes/bread'>bread</a> that goes well on its own, or with any spread on top, like <a href='/misc/dairy#butter'>butter</a>, jam, or <a href='/misc/nuts#peanuts'>peanut butter</a>.
 Instructions:
 - Preheat your oven to 375F, and lightly grease a loaf pan with olive oil
 

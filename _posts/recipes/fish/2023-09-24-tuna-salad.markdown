@@ -58,7 +58,7 @@ tags:
 - capers
 - walnuts
 - plain nonfat greek yogurt
-Description: Tuna salad, or tuna fish, is a simple throw together meal that can use pretty much anything in your fridge. Binded with <a href='/misc/dairy#yogurt'>Greek yogurt</a> instead of <a href='/misc/fake-healthy-foods#dips'>mayo</a>, this "<a href='/salad'>salad</a>" is much better for you, and is a great lunch. The recipe makes 2 servings as bowls, or 4 if made as a sandwich.  For an <a href='/misc/fruit#avocado'>avocado</a> based tuna salad instead, check out my <a href='/recipes/avocado-tuna-salad'>Avocado Tuna Salad</a>
+Description: Tuna salad, or tuna fish, is a simple throw together meal that can use pretty much anything in your fridge. Binded with <a href='/misc/dairy#yogurt'>Greek yogurt</a> instead of <a href='/misc/fake-healthy-foods#dips'>mayo</a>, this "<a href='/salad'>salad</a>" is much better for you, and is a great lunch. The recipe makes 2 servings as bowls, or 4 if made as a sandwich.  For an <a href='/misc/fruit#avocado'>avocado</a> based tuna salad instead, check out my <a href='/recipes/avocado-tuna-salad'>Avocado Tuna Salad</a>.
 Instructions:
 - Drain the <a href='/misc/fish'>fish</a> and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Mash with a fork.  For the <a href='/misc/fish'>fish</a>, I use 2 5oz cans of solid white albacore <a href='/misc/fish#tuna'>tuna</a> in water
 

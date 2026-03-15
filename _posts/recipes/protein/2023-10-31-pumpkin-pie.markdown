@@ -56,7 +56,7 @@ tags:
 - plain nonfat greek yogurt
 - yogurt
 - gluten free
-Description: Alliterations aside, this pumpkin pie is made with a <a href='/misc/dairy#whey'>protein powder</a> and <a href='/misc/grains#oats'>oat flour</a> crust, and features a filling of <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and no <a href='/misc/hidden-sugar'>added sugars</a>. For some <a href='/misc/fats'>healthy fats</a>, mix some chopped <a href='/misc/nuts'>nuts</a> into the filling, or sprinkle on top of the pie.  For more <a href='/misc/veggies#pumpkin'>pumpkin</a> recipes, see my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>
+Description: Alliterations aside, this pumpkin pie is made with a <a href='/misc/dairy#whey'>protein powder</a> and <a href='/misc/grains#oats'>oat flour</a> crust, and features a filling of <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and no <a href='/misc/hidden-sugar'>added sugars</a>. For some <a href='/misc/fats'>healthy fats</a>, mix some chopped <a href='/misc/nuts'>nuts</a> into the filling, or sprinkle on top of the pie.  For more <a href='/misc/veggies#pumpkin'>pumpkin</a> recipes, see my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, <a href='/recipes/pancake'>Pumpkin Protein Pancakes</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>.
 Instructions:
 - Preheat your oven to 350F. Liberally grease a 9" metal pie pan with <a href='https://amzn.to/3Hdg0gk'>oil spray</a>
 

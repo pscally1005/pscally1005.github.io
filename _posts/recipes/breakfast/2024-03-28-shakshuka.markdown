@@ -53,7 +53,7 @@ tags:
 - onion powder
 - cumin
 - protein
-Description: Shakshuka is an <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/veggies#tomato'>tomato</a>, and <a href='/misc/veggies'>veggie</a> based dish that originates in Northern Africa. It's a delicious <a href='/recipes/breakfast'>breakfast</a> that's packed with <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> that will leave you satisfied until lunch. Or it can be served as any meal of the day. You can also serve it on top of some <a href='/recipes/ww-bread'>toast</a>
+Description: Shakshuka is an <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/veggies#tomato'>tomato</a>, and <a href='/misc/veggies'>veggie</a> based dish that originates in Northern Africa. It's a delicious <a href='/recipes/breakfast'>breakfast</a> that's packed with <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> that will leave you satisfied until lunch. Or it can be served as any meal of the day. You can also serve it on top of some <a href='/recipes/ww-bread'>toast</a>.
 Instructions:
 - Cut your <a href='/misc/veggies#pepper'>pepper</a> and <a href='/misc/veggies#onion'>onion</a> each into a small dice. Add to a <a href='https://amzn.to/4bOh0on'>10" stainless steel pan</a> over medium heat with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a> and salt. Cover, and cook until the <a href='/misc/veggies#pepper'>peppers</a> are soft and <a href='/misc/veggies#onion'>onions</a> are translucent, about 5 minutes
 

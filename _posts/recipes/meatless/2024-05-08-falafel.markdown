@@ -61,7 +61,7 @@ tags:
 - pita
 - sandwich
 - wrap
-Description: Falafel is a <a href='/misc/beans#chickpeas'>chickpea</a> based <a href='/recipes/meatless'>meatless dish</a> originating from Egypt.  They can be a healthy vegan option, but are unfortunately often deep fried.  These falafel are either <a href='https://amzn.to/3FuWETp'>air fryer</a> or baked, simple and cheap to make, and full of flavor.  Nutrition facts are for each small falafel ball
+Description: Falafel is a <a href='/misc/beans#chickpeas'>chickpea</a> based <a href='/recipes/meatless'>meatless dish</a> originating from Egypt.  They can be a healthy vegan option, but are unfortunately often deep fried.  These falafel are either <a href='https://amzn.to/3FuWETp'>air fryer</a> or baked, simple and cheap to make, and full of flavor.  Nutrition facts are for each small falafel ball.
 Instructions:
 - With a strainer, drain and rinse your can of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add to a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and roast at 400F for about 20-25 minutes, or until the <a href='/misc/beans#chickpeas'>chickpeas</a> are dry and slightly cracked
 - <img src='/assets/Food/Meatless/Falafel/falafel-1.jpg' alt='' class='instruction-image'>

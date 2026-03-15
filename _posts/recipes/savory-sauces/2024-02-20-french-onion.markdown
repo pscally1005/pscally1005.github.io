@@ -50,7 +50,7 @@ tags:
 - protein
 - buffalo chicken dip
 - spinach artichoke dip
-Description: I'm finding recently that although I don't really like <a href='/misc/fake-healthy-foods#chips'>chips</a>, I love any sort of dip. I guess I'm on a dip kick lately, with <a href='/recipes/spinach-artichoke-dip'>Lightened Up Spinach Artichoke Dip</a>, <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a>, and now French Onion Dip. All are perfect for dipping with raw <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/fake-healthy-foods#chips'>chips</a>, or <a href='/misc/veggies#carrots'>carrots</a>, or over a <a href='/salad'>salad</a> or sandwich. <a href='/recipes/caramelized-onions'>Caramelized onions</a> are one of my favorites, and they really shine here
+Description: I'm finding recently that although I don't really like <a href='/misc/fake-healthy-foods#chips'>chips</a>, I love any sort of dip. I guess I'm on a dip kick lately, with <a href='/recipes/spinach-artichoke-dip'>Lightened Up Spinach Artichoke Dip</a>, <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a>, and now French Onion Dip. All are perfect for dipping with raw <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/fake-healthy-foods#chips'>chips</a>, or <a href='/misc/veggies#carrots'>carrots</a>, or over a <a href='/salad'>salad</a> or sandwich. <a href='/recipes/caramelized-onions'>Caramelized onions</a> are one of my favorites, and they really shine here.
 Instructions:
 - Cut your <a href='/misc/veggies#onion'>onions</a> into long, thin slices, and separate each of the layers
 

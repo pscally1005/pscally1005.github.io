@@ -50,7 +50,7 @@ tags:
 - garbanzo
 - beans
 - chocolate chips
-Description: Here is a giant chocolate chip cookie. Because that's what cookie cake is. I've made it <a href='/misc/hidden-sugar'>added sugar</a> free and <a href='/misc/celiac'>gluten free</a>, utilizing <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, and <a href='/misc/grains#oats'>oats</a>. This <a href='/recipes/healthier-dessert'>dessert</a> is like eating a large chocolate chip cookie with a fork, and goes great with a scoop of <a href='/recipes/neopolitan-banana-ice-cream'>Neopolitan Banana Ice Cream</a> right on top of it
+Description: Here is a giant chocolate chip cookie. Because that's what cookie cake is. I've made it <a href='/misc/hidden-sugar'>added sugar</a> free and <a href='/misc/celiac'>gluten free</a>, utilizing <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, and <a href='/misc/grains#oats'>oats</a>. This <a href='/recipes/healthier-dessert'>dessert</a> is like eating a large chocolate chip cookie with a fork, and goes great with a scoop of <a href='/recipes/neopolitan-banana-ice-cream'>Neopolitan Banana Ice Cream</a> right on top of it.
 Instructions:
 - Preheat the oven to 350F, and lightly grease a <a href='https://amzn.to/465aAxx'>10" cast iron pan</a> with oil
 

@@ -50,7 +50,7 @@ tags:
 - hot
 - sauce
 - breast
-Description: This dish pairs sautéed <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/meat#chicken-breast'>chicken breast</a>, and a spicy and creamy buffalo sauce. These are quick to come together, with just sautéing the <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies'>vegetables</a>, pouring in the sauce, and serving with a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>rice</a>
+Description: This dish pairs sautéed <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/meat#chicken-breast'>chicken breast</a>, and a spicy and creamy buffalo sauce. These are quick to come together, with just sautéing the <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies'>vegetables</a>, pouring in the sauce, and serving with a <a href='/recipes/sides'>side</a> of <a href='/misc/grains#brown-rice'>rice</a>.
 Instructions:
 - Mix <a href='/recipes/hot-sauce'>hot sauce</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, water, and cornstarch in a <a href='https://amzn.to/4adxMft'>medium bowl</a> or tall glass. Stir immediately after adding the cornstarch, and set aside
 

@@ -46,7 +46,7 @@ tags:
 - turmeric
 - cumin
 - chili powder
-Description: I got this recipe from my girlfriend's mom after having it at their house. It's a simple 2 pan dish of sauteed soft <a href='/misc/veggies#potato'>potatoes</a> and diced <a href='/misc/meat#chicken-breast'>chicken breast</a>, with Indian spices such as turmeric and cumin. It's a delicious <a href='/misc/protein'>protein</a> and <a href='/misc/carbs'>carb</a> combo that goes well with any <a href='/misc/veggies'>veggies</a>; here, I've paired my <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies#potato'>potatoes</a> with a <a href='/recipes/sides'>side</a> of <a href='/recipes/vegetable-medley'>Spinach & Onion Vegetable Medley</a>
+Description: I got this recipe from my girlfriend's mom after having it at their house. It's a simple 2 pan dish of sauteed soft <a href='/misc/veggies#potato'>potatoes</a> and diced <a href='/misc/meat#chicken-breast'>chicken breast</a>, with Indian spices such as turmeric and cumin. It's a delicious <a href='/misc/protein'>protein</a> and <a href='/misc/carbs'>carb</a> combo that goes well with any <a href='/misc/veggies'>veggies</a>; here, I've paired my <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies#potato'>potatoes</a> with a <a href='/recipes/sides'>side</a> of <a href='/recipes/vegetable-medley'>Spinach & Onion Vegetable Medley</a>.
 Instructions:
 - Wash your <a href='/misc/veggies#potato'>potatoes</a>, and cut into 1" cubes. Don't peel the <a href='/misc/veggies#potato'>potatoes</a>! Add to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, and season with olive oil, chili powder, garlic powder, turmeric, cumin, and salt. Toss to combine
 

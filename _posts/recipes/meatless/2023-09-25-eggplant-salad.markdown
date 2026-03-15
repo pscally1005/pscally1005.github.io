@@ -50,7 +50,7 @@ tags:
 - feta
 - dressing
 - lemon juice
-Description: This simple <a href='/salad'>salad</a> combined grilled or baked <a href='/misc/veggies#eggplant'>eggplant</a>, canned <a href='/misc/beans#chickpeas'>chickpeas</a>, and <a href='/misc/dairy#feta'>feta cheese</a> to make a delicious <a href='/salad'>salad</a> for a lunch or dinner <a href='/recipes/sides'>side</a>. This <a href='/salad'>salad</a> also doesn't have any <a href='/misc/veggies#lettuce'>lettuce</a> if you're into that, and uses a <a href='/salad-dressings'>homemade salad dressing</a>.  You can also check out any of my other <a href='/salad'>salad recipes</a> or <a href='/salad-dressings'>salad dressings</a>
+Description: This simple <a href='/salad'>salad</a> combined grilled or baked <a href='/misc/veggies#eggplant'>eggplant</a>, canned <a href='/misc/beans#chickpeas'>chickpeas</a>, and <a href='/misc/dairy#feta'>feta cheese</a> to make a delicious <a href='/salad'>salad</a> for a lunch or dinner <a href='/recipes/sides'>side</a>. This <a href='/salad'>salad</a> also doesn't have any <a href='/misc/veggies#lettuce'>lettuce</a> if you're into that, and uses a <a href='/salad-dressings'>homemade salad dressing</a>.  You can also check out any of my other <a href='/salad'>salad recipes</a> or <a href='/salad-dressings'>salad dressings</a>.
 Instructions:
 - Wash the <a href='/misc/veggies#eggplant'>eggplant</a>, then slice into 1/2" slices. Lightly salt both sides, and let sit for 10 minutes on paper towels. Pat dry
 

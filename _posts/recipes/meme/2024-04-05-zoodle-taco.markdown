@@ -50,7 +50,7 @@ tags:
 - peppers
 - onions
 - diced tomatoes
-Description: Anyone else remember spaghetti tacos from iCarly and desperately want to try them? I wanted to make it a complete meal, so I've swapped the spaghetti for <a href='/misc/veggies#zucchini'>zoodles</a> (to avoid the double <a href='/misc/carbs'>carb</a> of taco shell and <a href='/misc/grains#pasta'>pasta</a>), as well as added <a href='/misc/meat'>meat</a> and more <a href='/misc/veggies'>vegetables</a>. These go great with <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a> or <a href='/recipes/oat-wraps'>Gluten Free Oat Wraps</a>, or even on its own
+Description: Anyone else remember spaghetti tacos from iCarly and desperately want to try them? I wanted to make it a complete meal, so I've swapped the spaghetti for <a href='/misc/veggies#zucchini'>zoodles</a> (to avoid the double <a href='/misc/carbs'>carb</a> of taco shell and <a href='/misc/grains#pasta'>pasta</a>), as well as added <a href='/misc/meat'>meat</a> and more <a href='/misc/veggies'>vegetables</a>. These go great with <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a> or <a href='/recipes/oat-wraps'>Gluten Free Oat Wraps</a>, or even on its own.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together the spices for the taco seasoning - chili powder, paprika, cumin, garlic powder, onion powder, salt, black pepper, and oregano. Set aside
 

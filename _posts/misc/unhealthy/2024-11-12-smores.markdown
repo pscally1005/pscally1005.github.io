@@ -39,7 +39,7 @@ tags:
 - graham cracker
 - winter
 - inside
-Description: It's starting to get cold outside, but that doesn't mean you can't still enjoy a s'more every now and then. You can whip one up in less than 5 minutes using your <a href='https://amzn.to/3FuWETp'>air fryer</a> or oven, and dare I say that these taste better than the ones over the campfire
+Description: It's starting to get cold outside, but that doesn't mean you can't still enjoy a s'more every now and then. You can whip one up in less than 5 minutes using your <a href='https://amzn.to/3FuWETp'>air fryer</a> or oven, and dare I say that these taste better than the ones over the campfire.
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F, and prepare a small piece of parchment paper. Break your <a href='/misc/fake-healthy-foods#crackers'>graham cracker</a> in half
 - <img src='/assets/Misc/Unhealthy/Smores/smores-ing.jpg' alt='' class='instruction-image'>

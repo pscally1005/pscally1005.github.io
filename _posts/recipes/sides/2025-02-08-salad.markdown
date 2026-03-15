@@ -50,7 +50,7 @@ tags:
 - salad base
 - minced garlic
 - lemon pepper
-Description: I've previously posted a full in-depth post as to why your <a href='/salad'>salads</a> are lame, with a guide for building the perfect <a href='/salad'>salad</a>; check out <a href='/misc/salad'>You're Doing Salad Wrong</a>.  But today, I decided to actually measure out and document the <a href='/salad'>salad</a> that I make all the time.  I make this large <a href='/salad'>salad</a> base at least twice a week, and use it as the basis of many of my meals. Just add this as a base to a bowl, and top it with whatever <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/carbs'>carbs</a> you desire for a delicious and nutritious meal
+Description: I've previously posted a full in-depth post as to why your <a href='/salad'>salads</a> are lame, with a guide for building the perfect <a href='/salad'>salad</a>; check out <a href='/misc/salad'>You're Doing Salad Wrong</a>.  But today, I decided to actually measure out and document the <a href='/salad'>salad</a> that I make all the time.  I make this large <a href='/salad'>salad</a> base at least twice a week, and use it as the basis of many of my meals. Just add this as a base to a bowl, and top it with whatever <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/carbs'>carbs</a> you desire for a delicious and nutritious meal.
 Instructions:
 - Thinly slice your <a href='/misc/veggies#lettuce'>lettuce</a>, and add to a <a href='/misc/kitchen-products#salad-spinner'>salad spinner</a>. Rinse in the sink, spin the <a href='/salad'>salad</a>, and drain out the water
 

@@ -55,7 +55,7 @@ tags:
 - buffalo chicken dip
 - cooked chicken
 - rotisserie chicken
-Description: If you're making a recipe that calls for cooked <a href='/misc/meat#chicken-breast'>chicken</a>, like my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a>, you can either shred up a store bought rotisserie chicken, or you can cook it yourself. I prefer the latter; rotisserie chickens are cheap and convenient, but filled with tons of additives that I'd prefer to avoid
+Description: If you're making a recipe that calls for cooked <a href='/misc/meat#chicken-breast'>chicken</a>, like my <a href='/recipes/buffalo-chicken-dip'>High Protein Buffalo Chicken Dip</a>, you can either shred up a store bought rotisserie chicken, or you can cook it yourself. I prefer the latter; rotisserie chickens are cheap and convenient, but filled with tons of additives that I'd prefer to avoid.
 Instructions:
 - Either <a href='/misc/meat#chicken-thighs'>boneless skinless chicken thighs</a> or <a href='/misc/meat#chicken-thighs'>bone-in skin-on thighs</a> will work here. Just discard the skin and bones at the end if you're doing the latter
 

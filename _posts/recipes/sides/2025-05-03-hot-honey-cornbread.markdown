@@ -48,7 +48,7 @@ tags:
 - whole wheat flour
 - hot honey
 - apple cider vinegar
-Description: Recently, I made my own <a href='/recipes/hot-honey'>Homemade Hot Honey</a>, particularly to make the viral <a href='/recipes/hot-honey-beef-bowls'>Hot Honey Beef Bowls</a>. While thinking of additional uses for the <a href='/recipes/hot-honey'>hot honey</a>, I came up with this <a href='/recipes/hot-honey'>hot honey</a> Cornbread. I've made both <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> and <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a> before, which you should also check out. This version though is both sweet and mildly spicy, and uses just a few ingredients and contains minimal <a href='/misc/calories'>calories</a>
+Description: Recently, I made my own <a href='/recipes/hot-honey'>Homemade Hot Honey</a>, particularly to make the viral <a href='/recipes/hot-honey-beef-bowls'>Hot Honey Beef Bowls</a>. While thinking of additional uses for the <a href='/recipes/hot-honey'>hot honey</a>, I came up with this <a href='/recipes/hot-honey'>hot honey</a> Cornbread. I've made both <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a> and <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a> before, which you should also check out. This version though is both sweet and mildly spicy, and uses just a few ingredients and contains minimal <a href='/misc/calories'>calories</a>.
 Instructions:
 - Preheat your oven to 400F, and line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly spray with oil</a>
 

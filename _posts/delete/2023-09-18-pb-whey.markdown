@@ -59,7 +59,7 @@ tags:
 - powdered peanut butter
 - pb2
 - pbfit
-Description: I came up with this idea, as it rhymes with PB&J, and serves as a tastier and healthier option for the classic sandwich. The added proteins in the <a href='/recipes/natural-peanut-butter'>peanut butter</a> and jelly serve to make the sandwich more filling, and without the <a href='/misc/hidden-sugar'>added sugars</a> of typical jelly or jam. To make it even better, serve this on <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>
+Description: I came up with this idea, as it rhymes with PB&J, and serves as a tastier and healthier option for the classic sandwich. The added proteins in the <a href='/recipes/natural-peanut-butter'>peanut butter</a> and jelly serve to make the sandwich more filling, and without the <a href='/misc/hidden-sugar'>added sugars</a> of typical jelly or jam. To make it even better, serve this on <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a>.
 Instructions:
 - For the <a href='/misc/nuts#peanuts'>peanut butter</a> - in a <a href='https://amzn.to/4adxMft'>small bowl</a> or glass, combine <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/dairy#skim-milk'>milk</a>
 

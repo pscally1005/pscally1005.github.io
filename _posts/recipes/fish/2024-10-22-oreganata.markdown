@@ -60,7 +60,7 @@ tags:
 - ground flaxseed
 - lemon
 - extra virgin olive oil
-Description: This <a href='/misc/fish#shrimp'>shrimp</a> oreganata utilizes a homemade breadcrumb mix made of <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and <a href='/misc/seeds#flax-seeds'>ground flaxseeds</a>. It's <a href='/misc/celiac'>gluten free</a>, delicious, and cheaper than store-bought <a href='/misc/celiac'>GF</a> breadcrumbs. This meal comes together very quickly, and is a great light and healthy meal that serves 4. Pair it with a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies'>veggies</a>, and you have a complete dish
+Description: This <a href='/misc/fish#shrimp'>shrimp</a> oreganata utilizes a homemade breadcrumb mix made of <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and <a href='/misc/seeds#flax-seeds'>ground flaxseeds</a>. It's <a href='/misc/celiac'>gluten free</a>, delicious, and cheaper than store-bought <a href='/misc/celiac'>GF</a> breadcrumbs. This meal comes together very quickly, and is a great light and healthy meal that serves 4. Pair it with a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies'>veggies</a>, and you have a complete dish.
 Instructions:
 - Preheat your oven to 450F, and grease a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 

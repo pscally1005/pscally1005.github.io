@@ -59,7 +59,7 @@ tags:
 - chicken
 - lime juice
 - liquid monk fruit
-Description: This healthy curry dish is inspired by Thai Panang, featuring <a href='/misc/dairy#coconut-milk'>coconut milk</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, and <a href='/misc/veggies'>vegetables</a>. It's deliciously nutty, salty, sweet, spicy, and creamy, all while coming together quickly with minimal effort. Unlike traditional dishes though, mine has more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, less <a href='/misc/fats'>fat</a>, and no <a href='/misc/hidden-sugar'>added sugar</a>
+.
 Instructions:
 - Preheat a large pot over medium heat. Cut your <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#pepper'>peppers</a> into a medium dice, and add to the pot with a splash of water. Cover and cook until the <a href='/misc/veggies#onion'>onions</a> are translucent and the <a href='/misc/veggies#pepper'>peppers</a> are soft, about 10 minutes
 

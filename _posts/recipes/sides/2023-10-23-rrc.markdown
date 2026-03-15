@@ -50,7 +50,7 @@ tags:
 - veggie
 - vegetable
 - vic
-Description: My famous <a href='/misc/veggies#broccoli'>broccoli</a> gets its name from my college's running club pasta parties, which we hosted the night before our races. I would make this every time, and it was always a massive hit and gone in an instant. If you're not really a fan of <a href='/misc/veggies#broccoli'>broccoli</a>, I'd really recommend giving this a try. It really masks the gross flavors of <a href='/misc/veggies#broccoli'>broccoli</a> with a properly seasoned dish. I always paired this with my <a href='/recipes/penne-casserole'>Penne and Meat Casserole Bake</a>
+Description: My famous <a href='/misc/veggies#broccoli'>broccoli</a> gets its name from my college's running club pasta parties, which we hosted the night before our races. I would make this every time, and it was always a massive hit and gone in an instant. If you're not really a fan of <a href='/misc/veggies#broccoli'>broccoli</a>, I'd really recommend giving this a try. It really masks the gross flavors of <a href='/misc/veggies#broccoli'>broccoli</a> with a properly seasoned dish. I always paired this with my <a href='/recipes/penne-casserole'>Penne and Meat Casserole Bake</a>.
 Instructions:
 - Preheat oven to 425F and <a href='https://amzn.to/3Hdg0gk'>spray</a> a 9x13 pan with oil
 

@@ -53,7 +53,7 @@ tags:
 - clam sauce
 - marinara
 - pesto
-Description: Here are 3 methods that I commonly use for making <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> - oven (my preferred), <a href='https://amzn.to/49TUS9E'>crockpot</a>, or <a href='https://amzn.to/46PSfov'>instant pot</a>. <a href='/misc/veggies#spaghetti-squash'>Spaghetti squash</a> is such a versatile <a href='/misc/veggies'>vegetable</a>, since it can either be seasoned however you want, or mixed with any of your favorite <a href='/misc/fake-healthy-foods#sauces'>pasta sauces</a>, such as <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>, <a href='/recipes/pasta-with-clam-sauce'>Healthier Clam Sauce</a>, <a href='/recipes/evoo-pesto'>Lightened Extra Virgin Olive Oil Pesto</a>, or <a href='/recipes/bolognese'>Dutch Oven Bolognese Sauce</a>
+Description: Here are 3 methods that I commonly use for making <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> - oven (my preferred), <a href='https://amzn.to/49TUS9E'>crockpot</a>, or <a href='https://amzn.to/46PSfov'>instant pot</a>. <a href='/misc/veggies#spaghetti-squash'>Spaghetti squash</a> is such a versatile <a href='/misc/veggies'>vegetable</a>, since it can either be seasoned however you want, or mixed with any of your favorite <a href='/misc/fake-healthy-foods#sauces'>pasta sauces</a>, such as <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>, <a href='/recipes/pasta-with-clam-sauce'>Healthier Clam Sauce</a>, <a href='/recipes/evoo-pesto'>Lightened Extra Virgin Olive Oil Pesto</a>, or <a href='/recipes/bolognese'>Dutch Oven Bolognese Sauce</a>.
 Instructions:
 - |
   <i>Prep</i><br>

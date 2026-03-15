@@ -72,7 +72,7 @@ tags:
 - protein powder
 - whey
 - unflavored whey
-Description: This delicious combo of chopped <a href='/misc/veggies'>vegetables</a> and spices is a great alternative for <a href='/misc/meat#ground-beef'>ground beef</a> in <a href='/recipes/taco'>tacos</a>, <a href='/soups-and-stews'>stews</a>, on top of <a href='/salad'>salads</a>, or anything else you can imagine. <a href='/misc/veggies#mushrooms'>Mushrooms</a> are a good plant based source of <a href='/misc/protein'>protein</a>, and I've bumped up the <a href='/misc/protein'>protein</a> content significantly more with the addition of <a href='/misc/dairy#whey'>protein powder</a>. Feel free to leave it out, or replace it with any vegan protein powder if you desire
+Description: This delicious combo of chopped <a href='/misc/veggies'>vegetables</a> and spices is a great alternative for <a href='/misc/meat#ground-beef'>ground beef</a> in <a href='/recipes/taco'>tacos</a>, <a href='/soups-and-stews'>stews</a>, on top of <a href='/salad'>salads</a>, or anything else you can imagine. <a href='/misc/veggies#mushrooms'>Mushrooms</a> are a good plant based source of <a href='/misc/protein'>protein</a>, and I've bumped up the <a href='/misc/protein'>protein</a> content significantly more with the addition of <a href='/misc/dairy#whey'>protein powder</a>. Feel free to leave it out, or replace it with any vegan protein powder if you desire.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add the <a href='/misc/nuts#walnuts'>walnuts</a>, and cover with water. Let soak for at least 2 hours
 

@@ -56,7 +56,7 @@ tags:
 - broil
 - breadcrumbs
 - panko
-Description: This <a href='/misc/meat#ground-turkey'>ground turkey</a> and <a href='/misc/grains#pasta'>penne</a> baked casserole was my go to for feeding a crowd during my running club pasta parties in college. They're really easy to make a day ahead, and simply just reheat in the pan on the day of your event. Feel free to mix in some chopped <a href='/misc/veggies#spinach-fresh'>spinach</a> as well, or serve with a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies#broccoli'>broccoli</a>, such as my <a href='/recipes/running-club-broccoli'>Running Club Broccoli</a>
+Description: This <a href='/misc/meat#ground-turkey'>ground turkey</a> and <a href='/misc/grains#pasta'>penne</a> baked casserole was my go to for feeding a crowd during my running club pasta parties in college. They're really easy to make a day ahead, and simply just reheat in the pan on the day of your event. Feel free to mix in some chopped <a href='/misc/veggies#spinach-fresh'>spinach</a> as well, or serve with a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies#broccoli'>broccoli</a>, such as my <a href='/recipes/running-club-broccoli'>Running Club Broccoli</a>.
 Instructions:
 - Preheat the oven to 375F. <a href='https://amzn.to/3Hdg0gk'>Spray</a> <a href='https://amzn.to/4aiCsjh'>9x13in pan</a> with <a href='https://amzn.to/3Hdg0gk'>cooking spray</a>
 

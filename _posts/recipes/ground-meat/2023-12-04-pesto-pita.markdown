@@ -54,7 +54,7 @@ tags:
 - brown rice
 - pita bread
 - whole wheat
-Description: This dish features a <a href='/misc/veggies#spinach-fresh'>spinach</a> and tomato paste <a href='/pesto'>pesto</a> sauce, mixed into some <a href='/misc/veggies'>vegetables</a> and <a href='/misc/meat#ground-turkey'>ground turkey</a>. It goes well inside of a <a href='/recipes/pita'>pocket pita</a>, like with my <a href='/recipes/pita'>Whole Wheat Pita Bread</a>.  It's also great served on top of some <a href='/misc/grains#brown-rice'>brown rice</a>, or just on its own. Nutrition facts are for the filling including a piece of <a href='/recipes/pita'>pita bread</a> per serving
+Description: This dish features a <a href='/misc/veggies#spinach-fresh'>spinach</a> and tomato paste <a href='/pesto'>pesto</a> sauce, mixed into some <a href='/misc/veggies'>vegetables</a> and <a href='/misc/meat#ground-turkey'>ground turkey</a>. It goes well inside of a <a href='/recipes/pita'>pocket pita</a>, like with my <a href='/recipes/pita'>Whole Wheat Pita Bread</a>.  It's also great served on top of some <a href='/misc/grains#brown-rice'>brown rice</a>, or just on its own. Nutrition facts are for the filling including a piece of <a href='/recipes/pita'>pita bread</a> per serving.
 Instructions:
 - <a href='https://amzn.to/3Hdg0gk'>Spray</a> a <a href='https://amzn.to/4rdR0HI'>large pan</a> with a touch of oil, and saute the <a href='/misc/veggies#spinach-fresh'>spinach</a> over medium heat until fully cooked, about 5-10 minutes, covered
 

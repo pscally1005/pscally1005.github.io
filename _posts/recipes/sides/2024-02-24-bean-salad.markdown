@@ -61,7 +61,7 @@ tags:
 - balsamic
 - vinegar
 - balsamic vinegar
-Description: A bean salad is a great <a href='/recipes/sides'>side</a> to a meal, or a dip for <a href='/misc/fake-healthy-foods#chips'>chips</a> and <a href='/misc/veggies'>vegetables</a>. It's simple, healthy, and requires no cooking. Just chopping and draining, and prepare a <a href='/salad-dressings'>salad dressing</a>. You can also check out any of my other <a href='/salad'>salad recipes</a> or <a href='/salad-dressings'>salad dressings</a>
+Description: A bean salad is a great <a href='/recipes/sides'>side</a> to a meal, or a dip for <a href='/misc/fake-healthy-foods#chips'>chips</a> and <a href='/misc/veggies'>vegetables</a>. It's simple, healthy, and requires no cooking. Just chopping and draining, and prepare a <a href='/salad-dressings'>salad dressing</a>. You can also check out any of my other <a href='/salad'>salad recipes</a> or <a href='/salad-dressings'>salad dressings</a>.
 Instructions:
 - Finely dice your <a href='/misc/veggies#onion'>onion</a>, and add to a bowl with cold water. Let the <a href='/misc/veggies#onion'>onion</a> soak for 5-10 minutes as you prepare everything else. This removes some of the harsh flavors of the raw <a href='/misc/veggies#onion'>onion</a>
 

@@ -50,7 +50,7 @@ tags:
 - sandwich
 - special sauce
 - big mac sauce
-Description: This is my healthy take on a classic burger sandwich. I've kept it simple with just a patty and my <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a>, so feel free to add whatever toppings or <a href='/recipes/savory-sauces'>sauces</a> you desire, like <a href='/misc/veggies#lettuce'>lettuce</a>, <a href='/misc/veggies#tomato'>tomato</a>, and my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>.  Or you can turn your sandwich into a <a href='/salad'>salad</a> with my <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a>
+Description: This is my healthy take on a classic burger sandwich. I've kept it simple with just a patty and my <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a>, so feel free to add whatever toppings or <a href='/recipes/savory-sauces'>sauces</a> you desire, like <a href='/misc/veggies#lettuce'>lettuce</a>, <a href='/misc/veggies#tomato'>tomato</a>, and my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>.  Or you can turn your sandwich into a <a href='/salad'>salad</a> with my <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a>.
 Instructions:
 - Combine all burger ingredients together in a bowl - <a href='/misc/meat'>meat</a>, soy sauce, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 - <img src='/assets/Food/Ground Meat/Burger Patties/patty-1.jpg' alt='' class='instruction-image'>

@@ -53,7 +53,7 @@ tags:
 - lemon juice
 - bake
 - roast
-Description: These baked <a href='/misc/meat#chicken-thighs'>chicken thighs</a> are dead simple to make and taste great. Just mix spices in a bowl, dump over <a href='/misc/meat#chicken-breast'>chicken</a>, and stick in the oven. I've gone with <a href='/misc/meat#chicken-thighs'>thighs</a> today to mix it up, but <a href='/misc/meat#chicken-breast'>chicken breasts</a> would also work (just reduce the time).  For a dish with a similar cooking method, check out my <a href='/recipes/chicken-wings'>Gluten Free Baked Buffalo Wings</a>
+Description: These baked <a href='/misc/meat#chicken-thighs'>chicken thighs</a> are dead simple to make and taste great. Just mix spices in a bowl, dump over <a href='/misc/meat#chicken-breast'>chicken</a>, and stick in the oven. I've gone with <a href='/misc/meat#chicken-thighs'>thighs</a> today to mix it up, but <a href='/misc/meat#chicken-breast'>chicken breasts</a> would also work (just reduce the time).  For a dish with a similar cooking method, check out my <a href='/recipes/chicken-wings'>Gluten Free Baked Buffalo Wings</a>.
 Instructions:
 - Preheat your oven to 250F (not a typo), and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 

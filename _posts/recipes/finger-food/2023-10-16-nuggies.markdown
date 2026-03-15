@@ -54,7 +54,7 @@ tags:
 - vic
 - chicken nuggets
 - dino nuggets
-Description: These chicken nuggets are great for a meal or snack, and can be reheated in the <a href='https://amzn.to/3FuWETp'>air fryer</a> straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.  Everyone knows that chicken nuggets and <a href='/misc/fake-healthy-foods#potatoes'>french fries</a> are a classic combo, so see my <a href='/recipes/sweet-potato-fries'>Spiced Sweet Potato Fries</a> for a nutritious version of this meal
+Description: These chicken nuggets are great for a meal or snack, and can be reheated in the <a href='https://amzn.to/3FuWETp'>air fryer</a> straight from the freezer. They are much tastier and healthier than the typical chicken nuggets you get in your freezer section, and they're cheaper too.  Everyone knows that chicken nuggets and <a href='/misc/fake-healthy-foods#potatoes'>french fries</a> are a classic combo, so see my <a href='/recipes/sweet-potato-fries'>Spiced Sweet Potato Fries</a> for a nutritious version of this meal.
 Instructions:
 - Preheat your oven to 400F, and line 2 <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 

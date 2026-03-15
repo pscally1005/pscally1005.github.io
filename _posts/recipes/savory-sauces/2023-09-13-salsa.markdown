@@ -56,7 +56,7 @@ tags:
 - taco night
 - fodmap
 - low fodmap
-Description: This 5 minute salsa uses pantry staple canned ingredients and some spices. No chopping necessary! Just pulse everything in a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and adjust the taste and texture to your liking.  This salsa also contains no <a href='/misc/veggies#garlic'>garlic</a> or <a href='/misc/veggies#onion'>onion</a> for those that are allergic.  I love to make this with either my <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a> or <a href='/recipeslow-fodmap-tacos'>Low FODMAP Chicken Tacos</a>
+Description: This 5 minute salsa uses pantry staple canned ingredients and some spices. No chopping necessary! Just pulse everything in a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and adjust the taste and texture to your liking.  This salsa also contains no <a href='/misc/veggies#garlic'>garlic</a> or <a href='/misc/veggies#onion'>onion</a> for those that are allergic.  I love to make this with either my <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a> or <a href='/recipeslow-fodmap-tacos'>Low FODMAP Chicken Tacos</a>.
 Instructions:
 - Lightly drain the can of <a href='/misc/veggies#tomato'>tomatoes</a> through a gap in the can top.  Don't use a strainer or you'll lose too much
 

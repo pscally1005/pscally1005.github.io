@@ -50,7 +50,7 @@ tags:
 - sandwich
 - baking powder
 - baking soda
-Description: These buns require no yeast, and instead rely on chemical leaveners (baking powder and soda).  This means you can prepare them right around dinner time, no waiting required.  To build your perfect burger, check out <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>, or make a delicious <a href='/salad'>salad</a> with <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potato</a>
+Description: These buns require no yeast, and instead rely on chemical leaveners (baking powder and soda).  This means you can prepare them right around dinner time, no waiting required.  To build your perfect burger, check out <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>, or make a delicious <a href='/salad'>salad</a> with <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potato</a>.
 Instructions:
 - Preheat your oven to 400F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 

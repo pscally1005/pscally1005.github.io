@@ -53,7 +53,7 @@ tags:
 - onion powder
 - shredded cheese
 - cheese
-Description: These <a href='/misc/meat#eggs'>egg</a> muffins are a great way to prep some <a href='/recipes/breakfast'>breakfast</a> ahead of time and eat on the go. Saute whatever <a href='/misc/veggies'>vegetables</a> you like (I went with <a href='/misc/veggies#spinach-fresh'>spinach</a>, <a href='/misc/veggies#pepper'>pepper</a>, and <a href='/misc/veggies#onion'>onion</a>), mix with <a href='/misc/meat#eggs'>eggs</a>, and bake. Each serving is 1 <a href='/misc/meat#eggs'>egg</a>'s worth; 6 mini muffins or 3 regular sized muffins
+Description: These <a href='/misc/meat#eggs'>egg</a> muffins are a great way to prep some <a href='/recipes/breakfast'>breakfast</a> ahead of time and eat on the go. Saute whatever <a href='/misc/veggies'>vegetables</a> you like (I went with <a href='/misc/veggies#spinach-fresh'>spinach</a>, <a href='/misc/veggies#pepper'>pepper</a>, and <a href='/misc/veggies#onion'>onion</a>), mix with <a href='/misc/meat#eggs'>eggs</a>, and bake. Each serving is 1 <a href='/misc/meat#eggs'>egg</a>'s worth; 6 mini muffins or 3 regular sized muffins.
 Instructions:
 - Preheat your oven to 350F, and heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a small dice. Add <a href='/misc/veggies'>vegetables</a> to the pan with <a href='/misc/fats'>oil</a> and salt. Cover, and cook until the <a href='/misc/veggies#pepper'>peppers</a> have softened and the <a href='/misc/veggies#onion'>onions</a> turn translucent
 

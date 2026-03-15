@@ -47,7 +47,7 @@ tags:
 - french
 - roast
 - vic
-Description: Sweet potato fries are a perfect quick <a href='/recipes/sides'>side</a> to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular <a href='/misc/fake-healthy-foods#potatoes'>fries</a>. Everyone knows that chicken nuggets and <a href='/misc/fake-healthy-foods#potatoes'>french fries</a> are a classic combo, so see my <a href='/recipes/chicken-nuggets'>Freezer Chicken Nuggets</a> for a nutritious version of this meal
+Description: Sweet potato fries are a perfect quick <a href='/recipes/sides'>side</a> to a meal or easy snack. They come together in about 15 minutes, and they're much healthier and more flavorful than regular <a href='/misc/fake-healthy-foods#potatoes'>fries</a>. Everyone knows that chicken nuggets and <a href='/misc/fake-healthy-foods#potatoes'>french fries</a> are a classic combo, so see my <a href='/recipes/chicken-nuggets'>Freezer Chicken Nuggets</a> for a nutritious version of this meal.
 Instructions:
 - Wash your <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut into a fry shape. Add to a bowl, and microwave on high (covered) for 3 minutes
 

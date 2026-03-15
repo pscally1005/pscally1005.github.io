@@ -55,7 +55,7 @@ tags:
 - liquid monk fruit
 - unsweetened vanilla almond milk
 - unsweetened almond milk
-Description: Golden milk is a traditional Indian turmeric <a href='/misc/dairy#skim-milk'>milk</a> used for <a href='/misc/chronic-inflammation'>reducing inflammation</a>. The black pepper aids in activating the <a href='/misc/chronic-inflammation'>anti inflammatory</a> effects of turmeric, and my addition of <a href='/misc/magnesium'>magnesium</a> will relax your muscles and calm your mind.  Pair this with a <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetable</a> as your <a href='/misc/carbs'>carb</a> <a href='/recipes/sides'>side</a> at dinner time, and you'll be sleeping like a baby
+Description: Golden milk is a traditional Indian turmeric <a href='/misc/dairy#skim-milk'>milk</a> used for <a href='/misc/chronic-inflammation'>reducing inflammation</a>. The black pepper aids in activating the <a href='/misc/chronic-inflammation'>anti inflammatory</a> effects of turmeric, and my addition of <a href='/misc/magnesium'>magnesium</a> will relax your muscles and calm your mind.  Pair this with a <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetable</a> as your <a href='/misc/carbs'>carb</a> <a href='/recipes/sides'>side</a> at dinner time, and you'll be sleeping like a baby.
 Instructions:
 - Break your <a href='/misc/fruit#banana'>banana</a> into chunks, and freeze overnight
 

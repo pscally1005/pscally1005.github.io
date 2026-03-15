@@ -48,7 +48,7 @@ tags:
 - grated cheese
 - parmesan cheese
 - lemon juice
-Description: Ah <a href='/misc/dairy#grated-cheese'>parmesan</a> <a href='/misc/veggies#broccoli'>broccoli</a>. I love some good old <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>, but this is what I make when I want to level up my <a href='/misc/veggies'>vegetable</a> game with minimal effort. It's just roasted <a href='/misc/veggies#broccoli'>broccoli</a> sprinkled with <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and roasted until crispy and lightly charred. It's cheesy, garlicky, lemony, and a delicious <a href='/recipes/sides'>side dish</a> to any mains
+Description: Ah <a href='/misc/dairy#grated-cheese'>parmesan</a> <a href='/misc/veggies#broccoli'>broccoli</a>. I love some good old <a href='/recipes/roasted-vegetables'>Simply Roasted Vegetables</a>, but this is what I make when I want to level up my <a href='/misc/veggies'>vegetable</a> game with minimal effort. It's just roasted <a href='/misc/veggies#broccoli'>broccoli</a> sprinkled with <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and roasted until crispy and lightly charred. It's cheesy, garlicky, lemony, and a delicious <a href='/recipes/sides'>side dish</a> to any mains.
 Instructions:
 - Preheat your oven to 425F. Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 

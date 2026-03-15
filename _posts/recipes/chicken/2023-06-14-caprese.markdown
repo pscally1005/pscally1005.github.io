@@ -49,7 +49,7 @@ tags:
 - bake
 - grated
 - parmesan
-Description: A quick caprese <a href='/misc/meat#chicken-breast'>chicken</a> is one of my favorites, as I can simply bake the <a href='/misc/meat#chicken-breast'>chicken</a>, and make a <a href='/misc/veggies#tomato'>tomato</a> and balsamic sauce while it's in the oven. The flavor combination of cooked <a href='/misc/veggies#tomato'>tomatoes</a> with balsamic vinegar is a staple in Italian cooking for a reason. Especially when topped with <a href='/misc/daory#mozzarella'>cheese</a>, this recipe makes a great main to a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies#artichoke'>artichokes</a>
+Description: A quick caprese <a href='/misc/meat#chicken-breast'>chicken</a> is one of my favorites, as I can simply bake the <a href='/misc/meat#chicken-breast'>chicken</a>, and make a <a href='/misc/veggies#tomato'>tomato</a> and balsamic sauce while it's in the oven. The flavor combination of cooked <a href='/misc/veggies#tomato'>tomatoes</a> with balsamic vinegar is a staple in Italian cooking for a reason. Especially when topped with <a href='/misc/daory#mozzarella'>cheese</a>, this recipe makes a great main to a <a href='/recipes/sides'>side</a> of roasted <a href='/misc/veggies#artichoke'>artichokes</a>.
 Instructions:
 - Drain and rinse your <a href='/misc/veggies#artichoke'>artichokes</a>, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Season (vinegar, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/fats'>oil</a>, basil, garlic powder, and lemon pepper), and transfer to an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> lined with aluminum foil
 

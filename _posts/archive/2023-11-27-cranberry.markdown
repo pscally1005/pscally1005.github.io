@@ -50,7 +50,7 @@ tags:
 - date
 - snack
 - trail mix
-Description: Dried <a href='/misc/fruit#cranberry'>cranberries</a> are a staple on many <a href='/salad'>salads</a>, but unfortunately they're full of <a href='/misc/hidden-sugar'>added sugar</a>, as <a href='/misc/fruit#cranberry'>cranberries</a> are naturally tart and not sweet at all. These simple dried <a href='/misc/fruit#cranberry'>cranberries</a> are optionally sweetened with <a href='/misc/natural-sweeteners#honey'>honey</a>, and go great on top of a <a href='/salad'>salad</a> or in a trail mix.  Try using them in place of <a href='/misc/fruit#raisins'>raisins</a> in my <a href='/recipes/trail-mix'>Mixed Nuts & Chocolate Trail Mix</a>
+Description: Dried <a href='/misc/fruit#cranberry'>cranberries</a> are a staple on many <a href='/salad'>salads</a>, but unfortunately they're full of <a href='/misc/hidden-sugar'>added sugar</a>, as <a href='/misc/fruit#cranberry'>cranberries</a> are naturally tart and not sweet at all. These simple dried <a href='/misc/fruit#cranberry'>cranberries</a> are optionally sweetened with <a href='/misc/natural-sweeteners#honey'>honey</a>, and go great on top of a <a href='/salad'>salad</a> or in a trail mix.  Try using them in place of <a href='/misc/fruit#raisins'>raisins</a> in my <a href='/recipes/trail-mix'>Mixed Nuts & Chocolate Trail Mix</a>.
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> on dehydrate mode at 170F
 

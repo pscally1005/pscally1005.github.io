@@ -49,7 +49,7 @@ tags:
 - vanilla extract
 - almond flour
 - cocoa powder
-Description: These <a href='/brownies'>brownies</a> are the perfect snack for those wanting to gain weight in a healthy way.  They're high in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, and also <a href='/misc/hidden-sugar'>refined sugar free</a>, making them a great way to pack in extra food after a workout.  These <a href='/misc/celiac'>gluten free</a> <a href='/brownies'>brownies</a> also feature plenty of <a href='/misc/nutrient-alphabet#E'>vitamin E</a> and <a href='/misc/fiber'>fiber</a> from both the <a href='/misc/nuts#almonds'>almond butter</a> and <a href='/misc/nuts#almonds'>almond flour</a>
+Description: These <a href='/brownies'>brownies</a> are the perfect snack for those wanting to gain weight in a healthy way.  They're high in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, and also <a href='/misc/hidden-sugar'>refined sugar free</a>, making them a great way to pack in extra food after a workout.  These <a href='/misc/celiac'>gluten free</a> <a href='/brownies'>brownies</a> also feature plenty of <a href='/misc/nutrient-alphabet#E'>vitamin E</a> and <a href='/misc/fiber'>fiber</a> from both the <a href='/misc/nuts#almonds'>almond butter</a> and <a href='/misc/nuts#almonds'>almond flour</a>.
 Instructions:
 - Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper, and lightly <a href='https://amzn.to/3Hdg0gk'>grease with oil</a>
 
