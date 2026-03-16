@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Carob Peanut Bars
-date:   2026-03-03 00:00:00 -0500
+date:   2026-03-16 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

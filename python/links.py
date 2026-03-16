@@ -4629,6 +4629,21 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/43lbOE5": [
+        "magnesium glycinate",
+        "magnesium <i>glycinate</i>",
+
+    ],
+    "https://amzn.to/4jl3nx0": [
+        "magnesium malate",
+        "magnesium <i>malate</i>"
+    ],
+    "https://amzn.to/43xsRBI": [
+        "sodium chloride"
+    ],
+    "https://amzn.to/3P2NFNU": [
+        "potassium chloride"
+    ],
     "https://amzn.to/414BfHP": [
         "cooking gloves",
         "kitchen gloves",
