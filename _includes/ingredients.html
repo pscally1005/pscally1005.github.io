@@ -210,16 +210,32 @@
                 <!-- Ingredient display -->
                 <div class='ingredient-item' style="margin-bottom: 5px; display: inline-block;">
                     <li>
-                        <span class='recipe-vol' data-base-vol="{{ vol }}">{{ vol }}</span>
-                        {% if recipe == "true" %} <span class='recipe-grams' data-base-mass="{{ mass }}"></span> {% endif %}
-                        {% if recipe == "false" %} <span class='recipe-grams'>({{ mass }} g)</span> {% endif %}
+                        <!-- volume -->
+                        {% if vol != "" %}
+                            <span class='recipe-vol' data-base-vol="{{ vol }}">{{ vol }}</span>
+                        {% else %}
+                            <span class='recipe-grams' data-base-mass="{{ mass }}"></span>
+                        {% endif %}
 
+                        <!-- mass -->
+                        {% if recipe == "true" %}
+                            <span class='recipe-grams' data-base-mass="{{ mass }}"></span>
+                        {% else %}
+                            {% if vol != "" %}
+                                <span class='recipe-grams'>({{ mass }} g)</span>
+                            {% else %}
+                                <span class='recipe-grams'>{{ mass }} g</span>
+                            {% endif %}
+                        {% endif %}
+
+                        <!-- link & ingredient -->
                         {% if link %}
                             <span class='recipe-food'><a href="{{link}}" target="_blank" rel="noopener noreferrer">{{ food }}</a></span>
                         {% else %}
                             <span class='recipe-food'>{{ food }}</span>
                         {% endif %}
 
+                        <!-- cost -->
                         {% if recipe == "true" %}
                             <span class='ingredient-cost' data-base-cost="{{ totalCost }}"></span>
                             <span class='recipe-costs' data-base-recipe-cost="{{ recipeCost }}" style="display:none"></span>
@@ -894,15 +910,20 @@
                 baseVol = volElement.getAttribute("data-base-vol") || volElement.textContent.trim();
             }
 
+            // If no volume, output mass without ( )
+            if (baseVol === "") {
+                gramsElement.textContent = `${formatMass(adjustedMass)} g`;
+            } else {
+                gramsElement.textContent = `(${formatMass(adjustedMass)} g)`;
+            }
+
             // Display logic based on servings
             if (servings === baseServings) {
-                gramsElement.textContent = `(${formatMass(baseMass)} g)`; // Show original mass
                 if (volElement) {
                     volElement.textContent = baseVol; // Show original volume
                     volElement.style.display = 'inline';
                 }
             } else {
-                gramsElement.textContent = `(${formatMass(adjustedMass)} g)`; // Show adjusted grams, always in parentheses
                 if (volElement) {
                     const scaledVol = scaleVolumeString(baseVol, factor);
                     volElement.textContent = scaledVol;
