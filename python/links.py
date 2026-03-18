@@ -10,7 +10,20 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
-
+    "/recipes/no-bake-white-chocolate-protein-brownies": [
+        "no-bake white chocolate protein brownies",
+        "no bake white chocolate protein brownies",
+        "white chocolate no-bake protein brownies",
+        "white chocolate no bake protein brownies",
+        "white chocolate protein brownies",
+        "white chocolate brownies",
+        "no-bake white chocolate protein brownie",
+        "no bake white chocolate protein brownie",
+        "white chocolate no-bake protein brownie",
+        "white chocolate no bake protein brownie",
+        "white chocolate protein brownie",
+        "white chocolate brownie"
+    ],
     "/recipes/white-chocolate": [
         "tangy white chocolate",
         "homemade white chocolate",
@@ -5858,6 +5871,8 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "brownie base",
+    "entire brownie",
     "melted chocolate",
     "milk sugars",
     "honey-like",
