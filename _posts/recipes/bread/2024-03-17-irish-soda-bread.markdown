@@ -60,18 +60,17 @@ Instructions:
 - In a separate bowl, whisk together the buttermilk and <a href='/misc/meat#eggs'>egg</a> until well combined
 - <img src='/assets/Food/Bread/Irish/irish-3.jpg' alt='' class='instruction-image'>
 
-- Pour the wet mixture into the dry. Using a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>, gently stir the mixture until a dough forms. Be careful not to overmix
+- Pour the wet mixture into the dry. Using a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> or <a href='https://amzn.to/44XmqKz'>dough scraper</a>, lightly knead in the bowl to form a dough
 
-- Transfer the dough onto a floured surface and knead it gently a few times to shape it into a round circle. Place the shaped dough into the prepared skillet or <a href='https://amzn.to/45sRAsB'>baking pan</a>
-
-- Using a sharp <a href='https://amzn.to/43Cj65h'>razorblade</a>, score a cross on the top of the dough. This helps the bread expand while baking
+- Place the shaped dough into <a href='https://amzn.to/45sRAsB'>baking pan</a>.  Using a sharp <a href='https://amzn.to/43Cj65h'>razorblade</a>, score a cross on the top of the dough. This helps the bread expand while baking
 - <img src='/assets/Food/Bread/Irish/irish-6.jpg' alt='' class='instruction-image'>
 
 - Bake in the preheated 450F oven for 10 minutes. Reduce the temperature to 400F, and continue baking for another 35-40 minutes, or until the bread is deep golden brown and sounds hollow when tapped on the bottom
 - <img src='/assets/Food/Bread/Irish/irish-7.jpg' alt='' class='instruction-image'>
 
-- Remove from the oven and allow it to cool in the pan for a few minutes. Transfer the bread to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely before slicing
+- Remove from the oven and transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely before slicing
 
 - Store any leftovers in an airtight container at room temperature for up to 2-3 days, or freeze for longer storage
 Notes:
+- The dough should be quite wet and sticky compared to a normal bread dough.  Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> helps preventing the dough getting stuck to your hands
 ---
