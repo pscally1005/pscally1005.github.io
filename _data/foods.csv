@@ -306,6 +306,7 @@ Sugar free chocolate bar,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRU
 Unsweetened chocolate,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/chocolate-bar
 Chocolate free chocolate,carob-bar,2.02,113.20,0.01784,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/chocolate-free-chocolate
 Tangy white chocolate,white-choc-homemade,1.69,113.20,0.01493,58,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,21.9,0,/recipes/white-chocolate
+Sugar free white chocolate,white-choc-homemade,1.69,113.20,0.01493,58,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,21.9,0,/recipes/white-chocolate
 Egg whites,egg-whites,1.30,540.00,0.00241,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Liquid egg whites,egg-whites,3.98,908.00,0.00438,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3Hdzv8u
 Egg yolk,egg-yolk,0.87,540.00,0.00161,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,

@@ -1345,7 +1345,7 @@ def grams(food, mass, vol):
 
 
     # Chocolate chips
-    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate":
+    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate" or food == "Sugar free white chocolate":
         if vol == "1 tsp":
             m = "5"
         elif vol == "1/2 tbsp":
@@ -1364,7 +1364,38 @@ def grams(food, mass, vol):
             m = "135"
         elif vol == "1 cup":
             m = "180"
-
+        elif vol == "1 serving" or vol == "1/2 oz":
+            m = "14"
+        elif vol == "2 serving" or vol == "1 oz":
+            m = "28"
+        elif vol == "3 serving" or vol == "1 1/2 oz":
+            m = "42"
+        elif vol == "4 serving" or vol == "2 oz":
+            m = "56"
+        elif vol == "5 serving" or vol == "2 1/2 oz":
+            m = "70"
+        elif vol == "6 serving" or vol == "3 oz":
+            m = "85"
+        elif vol == "7 serving" or vol == "3 1/2 oz":
+            m = "98"
+        elif vol == "8 serving" or vol == "4 oz":
+            m = "113"
+        elif vol == "9 serving" or vol == "4 1/2 oz":
+            m = "127"
+        elif vol == "10 serving" or vol == "5 oz":
+            m = "142"
+        elif vol == "11 serving" or vol == "5 1/2 oz":
+            m = "156"
+        elif vol == "12 serving" or vol == "6 oz":
+            m = "170"
+        elif vol == "13 serving" or vol == "6 1/2 oz":
+            m = "184"
+        elif vol == "14 serving" or vol == "7 oz":
+            m = "198"
+        elif vol == "15 serving" or vol == "7 1/2 oz":
+            m = "212"
+        elif vol == "16 serving" or vol == "8 oz":
+            m = "226"
 
     # Eggs
     elif food == "Egg":

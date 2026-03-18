@@ -1224,7 +1224,7 @@ def vol_from_mass(food, mass, vol):
             v = "3 cup"
 
     # Chocolate chips
-    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate":
+    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate" or food == "Sugar free white chocolate":
         if mass == "5":
             v = "1 tsp"
         elif mass == "7.5":
@@ -1243,6 +1243,38 @@ def vol_from_mass(food, mass, vol):
             v = "3/4 cup"
         elif mass == "180" or mass == "170":
             v = "1 cup"
+        elif mass == "14":
+            v = "1/2 oz"
+        elif mass == "28":
+            v = "1 oz"
+        elif mass == "42":
+            v = "1 1/2 oz"
+        elif mass == "56":
+            v = "2 oz"
+        elif mass == "70":
+            v = "2 1/2 oz"
+        elif mass == "85":
+            v = "3 oz"
+        elif mass == "98":
+            v = "3 1/2 oz"
+        elif mass == "113":
+            v = "4 oz"
+        elif mass == "127":
+            v = "4 1/2 oz"
+        elif mass == "142":
+            v = "5 oz"
+        elif mass == "156":
+            v = "5 1/2 oz"
+        elif mass == "170":
+            v = "6 oz"
+        elif mass == "184":
+            v = "6 1/2 oz"
+        elif mass == "198":
+            v = "7 oz"
+        elif mass == "212":
+            v = "7 1/2 oz"
+        elif mass == "226":
+            v = "8 oz"
 
     # Eggs
     elif food == "Egg":

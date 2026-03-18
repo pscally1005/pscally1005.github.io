@@ -19,7 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/white-chocolate
-image: /assets/Food/Meme/White Chocolate/cover.jpg
+image: /assets/Food/Meme/White Chocolate/cover4.jpg
 file: whitechoc
 servingSize: 1/2 oz (14 g)
 section1:
@@ -52,7 +52,7 @@ Instructions:
 - Melt <a href='/misc/nuts#coconut'>coconut oil</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a> in the microwave for about 1 minute. Stir in the buttermilk powder until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the vanilla extract
 
 - Transfer the melted chocolate to a <a href='https://amzn.to/4qZKHI9'>chocolate mold</a>. Refrigerate for at least 30 minutes to harden
-- <img src='/assets/Food/Meme/White Chocolate/cover2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/White Chocolate/cover3.jpg' alt='' class='instruction-image'>
 Notes:
 - Compared to <a href='https://amzn.to/4sKAEH6'>standard white chocolate chips</a> (per 1/2 oz, 14 g), the homemade version is lower in <a href='/misc/carbs'>net carbs</a> and <a href='/misc/hidden-sugar'>sugar</a>, as it contains no <a href='/misc/hidden-sugar'>added sugar</a>.  It also has a higher percentage of <a href='/misc/fats'>fat</a>, as well as more <a href='/misc/protein'>protein</a>
 - |

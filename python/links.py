@@ -10,6 +10,7 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+
     "/recipes/white-chocolate": [
         "tangy white chocolate",
         "homemade white chocolate",
@@ -17,7 +18,10 @@ LINKS = {
         "white chocolate chip",
         "white chocolate",
         "unsweetened white chocolate bar",
-        "unsweetened white chocolate"
+        "unsweetened white chocolate",
+        "sugar free white chocolate chips",
+        "sugar free white chocolate chunks",
+        "sugar free white chocolate"
     ],
     "/recipes/chocolate-cloud-bars": [
         "chocolate cloud bars"
@@ -4673,7 +4677,13 @@ LINKS = {
         "glass meal prep container",
         "meal prep container",
         "6.2 x 4.5\"",
-        "6.2\" x 4.5\""
+        "6.2\" x 4.5\"",
+        "glass containers",
+        "glass container",
+        "glass meal prep containers",
+        "glass meal prep container",
+        "meal prep containers",
+        "meal prep container"
     ],
     "https://amzn.to/3O5nlSH": [
         "pizza wheel",
@@ -4811,7 +4821,10 @@ LINKS = {
         "9 inch square baking pans",
         "9 inch square baking pan",
         "9 in square baking pans",
-        "9 in square baking pan"
+        "9 in square baking pan",
+        '9" square baking pan',
+        '9" square pan',
+        '9" square'
     ],
     "https://amzn.to/4aiCsjh": [
         "9x13in pans",
@@ -4835,7 +4848,11 @@ LINKS = {
         "9 x 13\" baking pans",
         "9 x 13\" baking pan",
         "9 x 13\" pans",
-        "9 x 13\" pan"
+        "9 x 13\" pan",
+        '7x11"',
+        '11x7"',
+        '7 x 11"',
+        '11 x 7"'
     ],
     "https://amzn.to/4q0gY0f": [
         "9\" pie pans",
@@ -4942,12 +4959,7 @@ LINKS = {
         "lightly oil"
     ],
     "https://amzn.to/4mPZcMW": [
-        "glass containers",
-        "glass container",
-        "glass meal prep containers",
-        "glass meal prep container",
-        "meal prep containers",
-        "meal prep container"
+
     ],
     "https://amzn.to/4adxMft": [
         "large glass bowls",
@@ -7424,7 +7436,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-03-25")):
+            if not file.startswith(("2026-03-28")):
                 continue
 
             # exclude some files
