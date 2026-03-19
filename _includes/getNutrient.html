@@ -719,10 +719,10 @@
           {% assign output = value | append: ' ' | append: unit %}
       {% endif %}
       {% if showPercentage == "True" or showPercentage == "true" %}
-          {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" or page.title == "The Surprising Benefits of Chocolate" %}
+          {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" or page.title == "The Surprising Benefits of Chocolate" or page.title == "Olive Oil: Superfood or Super Overrated?" %}
               {% assign output = value | append: ' ' | append: unit | append: ' (' | append: percentage | append: ' %)' %}
 
-              {% assign nutrients_without_percentage = "Calories,Net Carbs,Sugar" | split: "," %}
+              {% assign nutrients_without_percentage = "Calories|Net Carbs|Sugar|Monounsaturated Fat|Polyunsaturated Fat|Trans Fat|Caffeine|Total Sugar|Sugar Alcohol|Allulose|Lactose|EPA|DHA|Alcohol" | split: "|" %}
               {% if nutrients_without_percentage contains nutrient" %}
                   {% assign output = value | append: ' ' | append: unit %}
               {% endif %}

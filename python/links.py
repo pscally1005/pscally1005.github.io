@@ -4969,7 +4969,9 @@ LINKS = {
         "grease the paper with oil",
         "lightly spray with oil",
         "grease with oil",
-        "lightly oil"
+        "lightly oil",
+        "refillable spray bottle",
+        "spray bottle"
     ],
     "https://amzn.to/4mPZcMW": [
 
@@ -5871,6 +5873,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "olive tree",
+    "culinary oils",
+    "culinary oil",
     "brownie base",
     "entire brownie",
     "melted chocolate",
