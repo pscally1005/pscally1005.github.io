@@ -2776,6 +2776,7 @@ LINKS = {
         "free radical"
     ],
     "/misc/phytochemicals": [
+        "oleocanthal",
         "polyphenolic compounds",
         "polyphenolic compound",
         "polyphenolics",
