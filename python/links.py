@@ -2336,7 +2336,11 @@ LINKS = {
         "classic fudgy brownie",
         "classic fudgy brownie",
         "traditional brownies",
-        "traditional brownie"
+        "traditional brownie",
+        "my standard brownie recipe",
+        "standard brownie recipe",
+        "standard brownies",
+        "standard brownie"
     ],
     "/recipes/chocolate-chip-cookies": [
         "classic chocolate chip cookies",
@@ -2346,7 +2350,13 @@ LINKS = {
         "traditional chocolate chip cookies",
         "traditional cookies",
         "traditional chocolate chip cookie",
-        "traditional cookie"
+        "traditional cookie",
+        "my standard chocolate chip cookie recipe",
+        "my standard cookie recipe",
+        "standard chocolate chip cookies",
+        "standard cookies",
+        "standard chocolate chip cookie",
+        "standard cookie"
     ],
     "/recipes/chocolate-chip-date-cookies": [
         "chocolate chip date cookies",
@@ -7456,7 +7466,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-03-28")):
+            if not file.startswith(("2026-04-04")):
                 continue
 
             # exclude some files

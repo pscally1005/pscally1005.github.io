@@ -588,7 +588,7 @@ def ingredients(food):
         f = "Hazelnuts"
     elif food == "Roasted pumpkin seed butter, roasted by 88 ACRES" or food == "Pumpkin seed butter by Wilderness Poets LLC":
         f = "Pumpkin seed butter"
-    elif food == "Baking chocolate, squares, unsweetened" or food == "100%" or food == "choc" or food == "100":
+    elif food == "Baking chocolate, squares, unsweetened" or food == "100%" or food == "choc" or food == "100" or food == "Baking chocolate, liquid, unsweetened":
         f = "100% chocolate"
     elif food == "Seeds, dried, pumpkin and squash seed kernels" or food == "Seeds, without salt, roasted, pumpkin and squash seed kernels":
         f = "Pumpkin seeds"
