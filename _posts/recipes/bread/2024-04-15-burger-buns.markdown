@@ -64,7 +64,7 @@ Instructions:
 - Divide the dough into 4 equal sized balls, about 90 g each. Roll into a ball and place them on the tray. Flatten to the size of your burgers. They will expand upward in the oven, but not really outward, so make them as wide as you want them to be when done baking. I probably could have flattened these a bit more here
 - <img src='/assets/Food/Bread/Burger Buns/buns-5.jpg' alt='' class='instruction-image'>
 
-- Bake at 400F for about 20-22 minutes.  The buns will be golden brown, sound hollow when tapped on the bottom, and register around 205F with an <a href='https://amzn.to/4kmobG2'>instant thermometer</a>. Let cool slightly before slicing and eating
+- Bake at 400F for about 20-22 minutes.  The buns will be golden brown, sound hollow when tapped on the bottom, and register around <a href='https://amzn.to/4kmobG2'>205F</a> with an <a href='https://amzn.to/4kmobG2'>instant thermometer</a>. Let cool slightly before slicing and eating
 Notes:
 - <a href='/misc/seeds#sesame-seeds'>Tahini</a> or <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> will work in place of <a href='/misc/nuts#almonds'>almond butter</a> here
 

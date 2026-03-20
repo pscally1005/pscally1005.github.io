@@ -4963,7 +4963,8 @@ LINKS = {
         "205F",
         "210F",
         "215F",
-        "inside temperature"
+        "inside temperature",
+        "registered a temperature"
     ],
     "https://amzn.to/3Hdg0gk": [
         "spray of olive oil",
@@ -7468,7 +7469,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-04-04")):
+            if not file.startswith(("2026-04-07")):
                 continue
 
             # exclude some files

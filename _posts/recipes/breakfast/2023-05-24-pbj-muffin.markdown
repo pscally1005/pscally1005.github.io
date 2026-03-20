@@ -75,7 +75,7 @@ Instructions:
 
 - Liberally grease a <a href='https://amzn.to/4mzzEDl'>muffin pan</a> with <a href='https://amzn.to/3Hdg0gk'>spray</a>, and evenly spoon in the batter.  This recipe makes a dozen standard size muffins
 
-- Bake for about 22 minutes (uncovered) at 350F, until the muffins have an <a href='https://amzn.to/4kmobG2'>internal temperature</a> of about 200F and toothpick comes out clean
+- Bake for about 22 minutes (uncovered) at 350F, until the muffins have an <a href='https://amzn.to/4kmobG2'>internal temperature</a> of about <a href='https://amzn.to/4kmobG2'>200F</a> and toothpick comes out clean
 
 - Let cool totally in the pan before removing from the pan with a butter knife
 Notes:

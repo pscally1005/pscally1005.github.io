@@ -59,7 +59,7 @@ Instructions:
 - Pour in the <a href='/misc/meat#eggs'>egg</a> mixture, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until the <a href='/misc/meat#eggs'>eggs</a> and <a href='/misc/veggies'>veggies</a> are fully combined. This will take a few minutes of gentle mixing
 - <img src='/assets/Food/Breakfast/Frittata/frittata-raw.jpg' alt='' class='instruction-image'>
 
-- Bake in the oven for about 30 minutes.  The frittata should be set in the center and golden around the edges (at least 160F).  Optionally, broil the frittata for about 2 minutes to brown the top
+- Bake in the oven for about 30 minutes.  The frittata should be set in the center and golden around the edges (at least <a href='https://amzn.to/4kmobG2'>160F</a>).  Optionally, broil the frittata for about 2 minutes to brown the top
 - <img src='/assets/Food/Breakfast/Frittata/frittata-cooked.jpg' alt='' class='instruction-image'>
 
 - Let the frittata rest for at least 15 minutes before slicing

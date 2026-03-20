@@ -68,7 +68,7 @@ Instructions:
 
 - Meanwhile, preheat your oven to 450F with the <a href='https://amzn.to/4ccXgLm'>baking stone</a> on the middle shelf, and a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> on the bottom shelf for the water.  You can bake on a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> instead, but the bottom won't be as crispy.  The water pan is to steam the bread, making the crust crispier.  This is optional as well
 
-- Put the baguettes into the oven onto the <a href='https://amzn.to/4ccXgLm'>stone</a> (or on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>), and fill the bottom tray with hot water.  Bake for 15 minutes, or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least 205F, and the bottom sounds hollow when tapped.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>, and let cool for 10 minutes before slicing
+- Put the baguettes into the oven onto the <a href='https://amzn.to/4ccXgLm'>stone</a> (or on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>), and fill the bottom tray with hot water.  Bake for 15 minutes, or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least <a href='https://amzn.to/4kmobG2'>205F</a>, and the bottom sounds hollow when tapped.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>, and let cool for 10 minutes before slicing
 - <img src='/assets/Food/Bread/Baguette/baguette-cooled.jpg' alt='' class='instruction-image'>
 Notes:
 ---

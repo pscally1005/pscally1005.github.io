@@ -72,7 +72,7 @@ Instructions:
 
 - Store any leftovers in an airtight container at room temperature for up to 2-3 days, or freeze for longer storage
 Notes:
-- You can substitute standard buttermilk with powdered buttermilk.  Mix 6 tbsp (35 g) of buttermilk powder in with the dry ingredients, and substitute the buttermilk for water (1 1/2 cup, 360 g)
-
 - The dough should be quite wet and sticky compared to a normal bread dough.  Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> helps preventing the dough getting stuck to your hands
+
+- You can substitute standard buttermilk with powdered buttermilk.  Mix 6 tbsp (35 g) of buttermilk powder in with the dry ingredients, and substitute the buttermilk for water (1 1/2 cup, 360 g).  The dough will be much liquidier; too liquidy to shape.  Bake instead in a parchment lined and <a href='https://amzn.to/3Hdg0gk'>lightly oiled</a> <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>.  It may need an extra few minutes to be fully cooked.  The bottom should sound hollow when tapped, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be around <a href='https://amzn.to/4kmobG2'>210F</a>
 ---

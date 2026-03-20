@@ -73,7 +73,7 @@ Instructions:
 - Liberally grease a <a href='https://amzn.to/3T1ymDy'>mini muffin pan</a> with oil.  Evenly spoon the batter into the muffin holes
 - <img src='/assets/Food/Breakfast/Banana Bread/bb-raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 12 minutes (uncovered), or until a toothpick comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around 200F
+- Bake at 350F for about 12 minutes (uncovered), or until a toothpick comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>200F</a>
 - <img src='/assets/Food/Breakfast/Banana Bread/bb-baked.jpg' alt='' class='instruction-image'>
 
 - Place the pan in the fridge, and let it totally cool before removing from the pan
@@ -84,7 +84,7 @@ Notes:
 
 - This recipe makes 40 mini muffins; I had to bake in 2 batches
 
-- Alternatively, you can bake this as a <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> in a <a href='https://amzn.to/3YUjIkN'>loaf pan</a> for about an hour (covered), until a toothpick is almost clean and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around 200F
+- Alternatively, you can bake this as a <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> in a <a href='https://amzn.to/3YUjIkN'>loaf pan</a> for about an hour (covered), until a toothpick is almost clean and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>200F</a>
 - <img src='/assets/Food/Breakfast/Banana Bread/bb-loaf.jpg' alt='' class='instruction-image'>
 
 - You can also bake these as standard size muffins (makes 12) for about 22 minutes at 350F (uncovered)

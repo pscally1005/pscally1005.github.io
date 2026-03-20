@@ -71,7 +71,7 @@ Instructions:
 - Combine the dry ingredients into the wet, and whisk until just fully combined. Don't over mix, and don't wait too long before baking. The acid (<a href='/misc/fruit#lemon-juice'>lemon juice</a>) and base (baking soda) gives lift to the bread, but the reaction happens quickly, so you want to get it in the oven as fast as possible
 - <img src='/assets/Food/Bread/Cornbread/cornbread-4.jpg' alt='' class='instruction-image'>
 
-- Pour the batter into your <a href='https://amzn.to/45sRAsB'>baking pan</a>, and optionally top with some <a href='/misc/dairy#cheddar'>shredded cheese</a>.  Bake at 400F for about 25 minutes, or until a toothpick comes out mostly clean and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around 195F
+- Pour the batter into your <a href='https://amzn.to/45sRAsB'>baking pan</a>, and optionally top with some <a href='/misc/dairy#cheddar'>shredded cheese</a>.  Bake at 400F for about 25 minutes, or until a toothpick comes out mostly clean and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>195F</a>
 
 - Let cool in the pan for 5 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool. Slice
 Notes:

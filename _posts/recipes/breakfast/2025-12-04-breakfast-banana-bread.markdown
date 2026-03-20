@@ -73,7 +73,7 @@ Instructions:
 
 - Transfer the raw batter to your prepared pan
 
-- Bake at 350F for about 1 hour, or until a toothpick comes out very nearly clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least 205F
+- Bake at 350F for about 1 hour, or until a toothpick comes out very nearly clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least <a href='https://amzn.to/4kmobG2'>205F</a>
 - <img src='/assets/Food/Breakfast/Breakfast Banana Bread/no-bite.jpg' alt='' class='instruction-image'>
 Notes:
 - |

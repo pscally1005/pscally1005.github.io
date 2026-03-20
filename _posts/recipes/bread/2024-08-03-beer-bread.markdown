@@ -61,7 +61,7 @@ Instructions:
 
 - Transfer your dough into a loaf pan and spread evenly to all sides. Cross the top with a knife, and optionally sprinkle the top with flour (or <a href='/misc/grains#oats'>oat flour</a>)
 
-- Bake for about 60 minutes, or until a toothpick comes out clean and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least 205F.  The edges and top should be golden brown
+- Bake for about 60 minutes, or until a toothpick comes out clean and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least <a href='https://amzn.to/4kmobG2'>205F</a>.  The edges and top should be golden brown
 - <img src='/assets/Food/Bread/Beer Bread/beer-bread-baked.jpg' alt='' class='instruction-image'>
 
 - Allow to cool totally in the pan before removing and slicing.  This <a href='/recipes/bread'>bread</a> is best served warm, so <a href='/recipes/ww-bread'>toast</a>, bake, or <a href='https://amzn.to/3FuWETp'>air fry</a> for a few minutes at 400F, until done to your liking.  Store any leftover bread in the fridge or freezer

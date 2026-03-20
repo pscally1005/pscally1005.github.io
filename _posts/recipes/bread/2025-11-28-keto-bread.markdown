@@ -67,7 +67,7 @@ Instructions:
 - <img src='/assets/Food/Bread/Keto Bread/pre-rise.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Keto Bread/post-rise.jpg' alt='' class='instruction-image'>
 
-- Bake the proofed loaf at 350F for about 45 minutes, or until lightly browned and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around 210F
+- Bake the proofed loaf at 350F for about 45 minutes, or until lightly browned and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>210F</a>
 - <img src='/assets/Food/Bread/Keto Bread/baked.jpg' alt='' class='instruction-image'>
 
 - Allow the bread to cool totally in the pan before removing and slicing

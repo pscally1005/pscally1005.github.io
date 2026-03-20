@@ -62,7 +62,7 @@ Instructions:
 
 - Add the wet ingredients into the dry, and mix with a spoon until fully combined. Transfer the dough to your pan. Optionally top with <a href='/misc/grains#oats'>oats</a>, <a href='/misc/seeds'>seeds</a>, chopped <a href='/misc/nuts'>nuts</a>, dusted flour, etc, or you can score the top with a knife or <a href='https://amzn.to/43Cj65h'>bread lame</a>. Here, I topped with about 1 tbsp (12 g) <a href='/misc/seeds#chia-seeds'>chia seeds</a>
 
-- Bake at 325F for about 90 minutes, or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least 205F
+- Bake at 325F for about 90 minutes, or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least <a href='https://amzn.to/4kmobG2'>205F</a>
 - <img src='/assets/Food/Bread/Millet Bread/millet-bread-cooked.jpg' alt='' class='instruction-image'>
 
 - Let cool completely in the fridge on a <a href='https://amzn.to/4qQNmn2'>cooling rack</a> for a few hours before slicing
