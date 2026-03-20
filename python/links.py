@@ -5351,6 +5351,7 @@ LINKS = {
         "healthier desserts",
         "healthier dessert",
         "healthier baking",
+        "healthy baking dessert",
         "healthy baking",
         "healthy baked goods",
         "healthy baked good",
@@ -5883,6 +5884,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "chocolate flavor",
     "olive tree",
     "culinary oils",
     "culinary oil",
