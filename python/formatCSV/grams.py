@@ -349,7 +349,7 @@ def grams(food, mass, vol):
             m = "35"
         elif vol == "8 tbsp" or vol == "1/2 cup":
             m = "40"
-        elif vol == "9 tbsp":
+        elif vol == "9 tbsp" or vol == "1/2 cup + 1 tbsp":
             m = "45"
         elif vol == "10 tbsp" or vol == "1/2cup + 2tbsp" or vol == "1/2 cup + 2 tbsp":
             m = "50"
@@ -514,6 +514,10 @@ def grams(food, mass, vol):
             m = "98"
         elif vol == "8 tbsp" or vol == "1/2 cup":
             m = "112"
+        elif vol == "9 tbsp" or vol == "1/2 cup + 1 tbsp":
+            m = "126"
+        elif vol == "10 tbsp" or vol == "1/2 cup + 2 tbsp":
+            m = "140"
 
 
     # Labneh cheese
@@ -1345,7 +1349,7 @@ def grams(food, mass, vol):
 
 
     # Chocolate chips
-    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate" or food == "Sugar free white chocolate":
+    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate" or food == "Sugar free white chocolate" or food == "Monk fruit chocolate chunks":
         if vol == "1 tsp":
             m = "5"
         elif vol == "1/2 tbsp":

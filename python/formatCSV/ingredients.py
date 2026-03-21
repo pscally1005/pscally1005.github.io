@@ -590,6 +590,8 @@ def ingredients(food):
         f = "Pumpkin seed butter"
     elif food == "Baking chocolate, squares, unsweetened" or food == "100%" or food == "choc" or food == "100" or food == "Baking chocolate, liquid, unsweetened":
         f = "100% chocolate"
+    elif food == "monk-fruit-choc":
+        f = "Monk fruit chocolate chunks"
     elif food == "Seeds, dried, pumpkin and squash seed kernels" or food == "Seeds, without salt, roasted, pumpkin and squash seed kernels":
         f = "Pumpkin seeds"
     elif food == "cranberry-sauce":

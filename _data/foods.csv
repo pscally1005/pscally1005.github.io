@@ -293,6 +293,7 @@ Shredded cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRU
 Cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,
 Pine nuts,pine-nuts,6.92,112.00,0.06179,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
 Pork tenderloin,pork-tenderloin,3.43,454.00,0.00756,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,/recipes/monkfruit-chocolate-chunks
 Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,https://amzn.to/4kGEfC5
 Chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,
 Mini chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,

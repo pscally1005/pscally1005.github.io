@@ -53,6 +53,8 @@ def vol_from_mass(food, mass, vol):
             v = "15 tbsp"
         elif mass == "200" or mass == "192":
             v = "1 cup"
+        elif mass == "250":
+            v = "1 1/4 cup"
 
     # Drained and rinsed beans
     if food == "Chickpeas, drained and rinsed" or food == "Black beans, drained and rinsed" or food == "Kidney beans, drained and rinsed" or food == "Pinto beans, drained and rinsed" or food == "Cannellini beans, drained and rinsed" or food == "Great northern beans, drained and rinsed" or food == "Navy beans, drained and rinsed" or food == "Beans, drained and rinsed" or food == "Cooked black beans" or food == "Cooked navy beans" or food == "Slow Cooker Dried Beans":
@@ -512,6 +514,10 @@ def vol_from_mass(food, mass, vol):
             v = "7 tbsp"
         elif mass == "112":
             v = "1/2 cup"
+        elif mass == "126":
+            v = "9 tbsp"
+        elif mass == "140":
+            v = "10 tbsp"
 
     # Lentils
     elif food == "Red lentils" or food == "Red split lentils" or food == "Green lentils" or food == "Brown lentils" or food == "Lentils":
@@ -1224,7 +1230,7 @@ def vol_from_mass(food, mass, vol):
             v = "3 cup"
 
     # Chocolate chips
-    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate" or food == "Sugar free white chocolate":
+    elif food == "90% chocolate" or food == "85% chocolate" or food == "Sugar free chocolate chips" or food == "Chocolate chips" or food == "Semisweet chocolate chips" or food == "Semi-sweet chocolate chips" or food == "Semisweet chocolate chips (optional)" or food == "Dark chocolate chips" or food == "100% chocolate" or food == "70% chocolate" or food == "50% chocolate" or food == "Allulose chocolate bar" or food == "Chocolate chips" or food == "White chocolate chips" or food == "Tangy white chocolate" or food == "Sugar free chocolate bar" or food == "Chocolate free chocolate" or food == "Sugar free white chocolate" or food == "Monk fruit chocolate chunks":
         if mass == "5":
             v = "1 tsp"
         elif mass == "7.5":

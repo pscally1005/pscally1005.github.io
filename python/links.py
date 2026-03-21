@@ -6673,6 +6673,8 @@ EXCLUDED_PHRASES = [
     "traditional dessert",
     "classic desserts",
     "classic dessert",
+    "most desserts",
+    "most dessert",
     "these are desserts",
     "drink a glass",
     "drink it",
