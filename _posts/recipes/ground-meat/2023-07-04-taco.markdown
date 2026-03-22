@@ -60,7 +60,7 @@ Description: Taco Tuesday was a tradition among friends in college, and this rec
 Instructions:
 - Mix together seasonings in a <a href='https://amzn.to/4adxMft'>medium bowl</a> or mason jar and set aside
 
-- Start with the <a href='/misc/veggies'>veggies</a>, since they will take the longest.  Cut your <a href='/misc/veggies#onion'>onions</a> into long thin slices, and add to a <a href='https://amzn.to/4rdR0HI'>12" pan</a> with olive oil over medium heat
+- Start with the <a href='/misc/veggies'>veggies</a>, since they will take the longest.  Cut your <a href='/misc/veggies#onion'>onions</a> into long thin slices, and add to a <a href='https://amzn.to/4rdR0HI'>12" pan</a> with <a href='/misc/olive-oil'>olive oil</a> over medium heat
 
 - Season the <a href='/misc/veggies#onion'>onions</a> with 2 tbsp of the spice mix. Cover and cook until soft, browned, and lightly charred, about 20 minutes. Finish with <a href='/misc/fruit#lime-juice'>lime juice</a>
 

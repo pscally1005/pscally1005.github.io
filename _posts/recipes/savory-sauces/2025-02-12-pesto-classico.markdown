@@ -55,7 +55,7 @@ tags:
 - pine nuts
 - walnuts
 - lemon juice
-Description: I've made plenty of <a href='/pesto'>pesto</a> variations over the years, but after getting a fancy bottle of olive oil and a mortar and pestle, I knew that it was finally time to honor my Italian ancestors and make a proper <a href='/pesto'>pesto</a>. <a href='/misc/fruit#lemon-juice'>Lemon juice</a> isn't entirely traditional, but I really think it boosts the flavor, as well as preventing the basil from turning brown.  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of <a href='/misc/fats'>oil</a>, different kinds of <a href='/misc/nuts'>nuts</a>, vegan versions, and <a href='/misc/high-protein'>high protein</a> versions.
+Description: I've made plenty of <a href='/pesto'>pesto</a> variations over the years, but after getting a fancy bottle of <a href='/misc/olive-oil'>olive oil</a> and a mortar and pestle, I knew that it was finally time to honor my Italian ancestors and make a proper <a href='/pesto'>pesto</a>. <a href='/misc/fruit#lemon-juice'>Lemon juice</a> isn't entirely traditional, but I really think it boosts the flavor, as well as preventing the basil from turning brown.  Check out some of my other <a href='/pesto'>pesto recipes</a>, with varying amounts of oil, different kinds of <a href='/misc/nuts'>nuts</a>, vegan versions, and <a href='/misc/high-protein'>high protein</a> versions.
 Instructions:
 - In a <a href='https://amzn.to/4qFE9y3'>small pan</a> over medium heat, toast the <a href='/misc/nuts#pine-nuts'>pine nuts</a> (or any other <a href='/misc/nuts'>nuts</a>) until lightly browned and fragrant, about 3 minutes
 
@@ -65,7 +65,7 @@ Instructions:
 
 - Grind in the <a href='/misc/nuts#pine-nuts'>pine nuts</a> and <a href='/misc/fruit#lemon-juice'>lemon juice</a>
 
-- Add in half the <a href='/misc/fats'>oil</a> and your <a href='/misc/dairy#mozzarella'>cheese</a>, and grind until combined. Grind in the other half of the <a href='/misc/fats'>oil</a>
+- Add in half the <a href='/misc/olive-oil'>oil</a> and your <a href='/misc/dairy#mozzarella'>cheese</a>, and grind until combined. Grind in the other half of the <a href='/misc/olive-oil'>oil</a>
 Notes:
 - <a href='/pesto'>Pesto</a> isn't just for <a href='/misc/grains#pasta'>pasta</a>!  Below is this batch of <a href='/pesto'>pesto</a> mixed with 1 cup (185 g) <a href='/misc/grains#brown-rice'>brown rice</a> and 2 lbs (908 g) frozen <a href='/misc/veggies'>vegetables</a> (<a href='/misc/veggies#broccoli'>broccoli</a> & <a href='/misc/veggies#cauliflower'>cauliflower</a>)
 - <img src='/assets/Food/Savory Sauces/Pesto Classico/pot.jpg' alt='' class='instruction-image'>

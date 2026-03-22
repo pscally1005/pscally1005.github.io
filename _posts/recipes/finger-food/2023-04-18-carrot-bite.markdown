@@ -50,7 +50,7 @@ tags:
 - energy
 Description: These bites take the idea of a carrot cake and simplify them down to bite sized pieces. They are naturally sweetened with <a href='/misc/natural-sweeteners#honey'>honey</a>, and the perfect snack to take on the go for a quick energy boost.  For other no bake bite sized snacks, check out my <a href='/recipes/trail-mix-balls'>Trail Mix Balls</a>, <a href='/recipes/chickpea-chows'>Chickpea Chows</a>, or my <a href='/recipes/energy-bites'>No Bake Energy Bites</a>.
 Instructions:
-- Cut <a href='/misc/veggies#carrots'>carrots</a> into thin strips. Add to a sheet pan with olive oil and salt, and roast for 25 minutes at 425F, stirring halfway. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until you have a puree
+- Cut <a href='/misc/veggies#carrots'>carrots</a> into thin strips. Add to a sheet pan with <a href='/misc/olive-oil'>olive oil</a> and salt, and roast for 25 minutes at 425F, stirring halfway. Add to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until you have a puree
 
 - Add the other ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until mixture turns into a dough-like consistency. You can also mix in a bowl if your <a href='https://amzn.to/4q0AUjI'>food processor</a> is too small to fit it all, as long as you blend up the <a href='/misc/veggies#carrots'>carrots</a>. Refrigerate until you can shape it without too much sticking
 

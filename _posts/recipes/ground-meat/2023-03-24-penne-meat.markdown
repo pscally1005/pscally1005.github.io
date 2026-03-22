@@ -62,7 +62,7 @@ Instructions:
 
 - Cook you <a href='/misc/grains#pasta'>pasta</a> according to the packaging, drain, and set aside. Cook about a minute less than directed, since the <a href='/misc/grains#pasta'>pasta</a> will bake in the oven
 
-- Heat olive oil over medium high heat in a <a href='https://amzn.to/3LNGdVy'>Dutch oven</a>. Add <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, and salt, and cook until the <a href='/misc/veggies#onion'>onion</a> is transparent
+- Heat <a href='/misc/olive-oil'>olive oil</a> over medium high heat in a <a href='https://amzn.to/3LNGdVy'>Dutch oven</a>. Add <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, and salt, and cook until the <a href='/misc/veggies#onion'>onion</a> is transparent
 
 - Add the <a href='/misc/meat'>meat</a> and fully cook (<a href='/misc/meat'>meat</a> should sound like its crackling instead of boiling)
 

@@ -86,7 +86,7 @@ Notes:
 - INGREDIENTS(empanadas)
 - |
   <ol>
-    <li>Heat a medium pan over medium heat with olive oil. Finely dice your <a href='/misc/veggies#onion'>onion</a>, and add to the pan. Cook for about 5 minutes, or until transparent and lightly caramelized.</li><br>
+    <li>Heat a medium pan over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Finely dice your <a href='/misc/veggies#onion'>onion</a>, and add to the pan. Cook for about 5 minutes, or until transparent and lightly caramelized.</li><br>
 
     <li>Add <a href='/recipes/ground-meat'>ground meat</a> to the pan, and cook until browned and no longer pink.</li><br>
 

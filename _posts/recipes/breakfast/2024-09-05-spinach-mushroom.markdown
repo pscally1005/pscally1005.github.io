@@ -59,7 +59,7 @@ tags:
 - crumbled feta
 Description: Did you know that you can meal prep <a href='/misc/meat#eggs'>eggs</a>? Yup, <a href='/recipes/breakfast'>breakfast</a> meal prep isn't reserved for just <a href='/oatmeal'>overnight oats</a> or <a href='/misc/dairy#yogurt'>yogurt</a>. This batch of food makes 4 servings, and is a good source of <a href='/misc/protein'>protein</a> and <a href='/misc/veggies'>vegetables</a> in the morning.
 Instructions:
-- Preheat a <a href='https://amzn.to/4rdR0HI'>12" nonstick pan</a> over medium heat with olive oil
+- Preheat a <a href='https://amzn.to/4rdR0HI'>12" nonstick pan</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>
 
 - Wash your <a href='/misc/veggies#mushrooms'>mushrooms</a>, and add to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Pulse, mix, and repeat until the <a href='/misc/veggies#mushrooms'>mushrooms</a> are finely chopped. Don't forget to stop and mix, or they'll be over-blended and watery. I like to use my <a href='https://amzn.to/4q0AUjI'>food processor</a> to finely chop my <a href='/misc/veggies#mushrooms'>mushrooms</a> as I don't like the texture of larger pieces, but you can use a <a href='https://amzn.to/4jlDKwc'>knife</a> and <a href='https://amzn.to/43gNqmY'>cutting board</a> for larger chunks if you desire
 - <img src='/assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-mushrooms.jpg' alt='' class='instruction-image'>

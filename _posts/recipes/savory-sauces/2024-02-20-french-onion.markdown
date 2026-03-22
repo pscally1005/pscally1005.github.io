@@ -56,7 +56,7 @@ Instructions:
 
 - For this dip, you're going to need caramelized <a href='/misc/veggies#onion'>onions</a>.  I prefer to use my <a href='https://amzn.to/49TUS9E'>crockpot</a>, so I don't have to babysit the stove for an hour; see my <a href='/recipes/caramelized-onions'>Slow Cooker Caramelized Onions</a>
 
-- If you prefer the stove instead, heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over low heat with olive oil.  Add in the <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/veggies#garlic'>garlic</a>, and salt with a splash of water.  Cover and cook with frequent stirring until the <a href='/misc/veggies#onion'>onions</a> are soft and jammy, about 1 hour
+- If you prefer the stove instead, heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over low heat with <a href='/misc/olive-oil'>olive oil</a>.  Add in the <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/veggies#garlic'>garlic</a>, and salt with a splash of water.  Cover and cook with frequent stirring until the <a href='/misc/veggies#onion'>onions</a> are soft and jammy, about 1 hour
 
 - For context, the <a href='/misc/veggies#onion'>onions</a> weigh about <b>880 g</b> raw, and I ended up with about <b>120 g</b> of cooked <a href='/misc/veggies#onion'>onions</a>.  You're aiming to cook nearly all the water out of the <a href='/misc/veggies#onion'>onions</a> and end up with essentially <a href='/misc/veggies#onion'>onion</a> jelly
 - <img src='/assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg' alt='' class='instruction-image'>

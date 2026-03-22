@@ -61,7 +61,7 @@ Instructions:
 
 - After soaking, blend until smooth
 
-- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Pour in the tortilla batter, and cook until the top has bubbles and appears dry. Flip and cook for an additional minute. Transfer to a plate or <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Between each batch, re-blend the batter, and lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the pan with <a href='/misc/fats'>oil</a>
+- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Pour in the tortilla batter, and cook until the top has bubbles and appears dry. Flip and cook for an additional minute. Transfer to a plate or <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Between each batch, re-blend the batter, and lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the pan with <a href='/misc/olive-oil'>oil</a>
 Notes:
 - Don't make them too thin or they will fall apart when flipping or eating. With any failed tortillas, you can rip them into large chunks and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 5 minutes to make <a href='/misc/beans#red-lentils'>red lentil</a> tortilla chips
 ---

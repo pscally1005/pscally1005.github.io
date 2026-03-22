@@ -58,7 +58,7 @@ Description: This dish features a <a href='/misc/veggies#spinach-fresh'>spinach<
 Instructions:
 - <a href='https://amzn.to/3Hdg0gk'>Spray</a> a <a href='https://amzn.to/4rdR0HI'>large pan</a> with a touch of oil, and saute the <a href='/misc/veggies#spinach-fresh'>spinach</a> over medium heat until fully cooked, about 5-10 minutes, covered
 
-- Transfer <a href='/misc/veggies#spinach-fresh'>spinach</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the rest of the pesto ingredients (tomato paste, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#grated-cheese'>parmesan cheese</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/fats'>oil</a>, garlic powder, onion powder, black pepper, lemon pepper, and salt). Blend until smooth
+- Transfer <a href='/misc/veggies#spinach-fresh'>spinach</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with the rest of the pesto ingredients (tomato paste, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#grated-cheese'>parmesan cheese</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/olive-oil'>oil</a>, garlic powder, onion powder, black pepper, lemon pepper, and salt). Blend until smooth
 
 - Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> your pan with oil, and cook the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#mushrooms'>mushrooms</a> with salt. Add some water to help steam and cook the <a href='/misc/veggies'>veggies</a>. Cover, and stir occasionally until the water has cooked off and <a href='/misc/veggies'>vegetables</a> are almost done
 

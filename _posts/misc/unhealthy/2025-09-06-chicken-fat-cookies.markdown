@@ -71,7 +71,7 @@ Instructions:
 - <img src='/assets/Misc/Unhealthy/Chicken Fat Cookies/baked.jpg' alt='' class='instruction-image'>
 Notes:
 - |
-  Note that <a href='/misc/dairy#butter'>butter</a> is only about 80% <a href='/misc/fats'>fat</a> and 20% water. In comparison, rendered animal <a href='/misc/fats'>fats</a> (<a href='/misc/slow-cooker-chicken'>chicken fat'</a>, beef tallow, or lard), as well as <a href='/misc/fats'>oils</a> (<a href='/misc/nuts#coconut'>coconut oil</a>, olive oil, <a href='/misc/fake-healthy-foods#margarine'>shortening</a>, <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a>, etc.), are 100% <a href='/misc/fats'>fat</a>.<br><br>
+  Note that <a href='/misc/dairy#butter'>butter</a> is only about 80% <a href='/misc/fats'>fat</a> and 20% water. In comparison, rendered animal <a href='/misc/fats'>fats</a> (<a href='/misc/slow-cooker-chicken'>chicken fat'</a>, beef tallow, or lard), as well as <a href='/misc/fats'>oils</a> (<a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/olive-oil'>olive oil</a>, <a href='/misc/fake-healthy-foods#margarine'>shortening</a>, <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a>, etc.), are 100% <a href='/misc/fats'>fat</a>.<br><br>
 
   So to substitute for <a href='/misc/dairy#butter'>butter</a>, we need to use 80% of the called for <a href='/misc/dairy#butter'>butter</a>, and replace the rest with water. For 1 stick (113 g) <a href='/misc/dairy#butter'>butter</a>, this means using 6 tbsp (90 g) <a href='/misc/slow-cooker-chicken'>chicken fat</a>, plus 1.5 tbsp (22.5 g) water.<br><br>
 

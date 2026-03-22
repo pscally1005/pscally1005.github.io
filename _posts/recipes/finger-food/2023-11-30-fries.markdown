@@ -51,7 +51,7 @@ Description: Sweet potato fries are a perfect quick <a href='/recipes/sides'>sid
 Instructions:
 - Wash your <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut into a fry shape. Add to a bowl, and microwave on high (covered) for 3 minutes
 
-- Toss the <a href='/misc/veggies#sweet-potato'>sweet potato</a> with the <a href='/misc/fats'>oil</a> and the spices
+- Toss the <a href='/misc/veggies#sweet-potato'>sweet potato</a> with the <a href='/misc/olive-oil'>oil</a> and the spices
 
 - Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the basket with oil, and arrange the fries in a single layer, giving room for the air to circulate. You may need to fry them in 2 batches.  <a href='https://amzn.to/3FuWETp'>Air fry</a> for about 6 minutes at 400F, or until done to your liking
 Notes:

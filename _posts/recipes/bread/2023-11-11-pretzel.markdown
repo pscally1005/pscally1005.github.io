@@ -48,7 +48,7 @@ tags:
 - toast
 Description: Getting a hot pretzel at the mall was a rare treat my parents got for me when I was a kid. These healthier pretzels bring back those memories while being packed with <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. You can also try making them into pretzel nuggets by cutting the pieces bite sized.
 Instructions:
-- Add your water to a glass, and microwave for 1 minute to warm it.  Add yeast, salt, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/fats'>oil</a>, baking powder, and warm water to a large mixing bowl, and mix.  Let sit for 5 minutes to make sure the yeast is still alive
+- Add your water to a glass, and microwave for 1 minute to warm it.  Add yeast, salt, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/olive-oil'>olive oil</a>, baking powder, and warm water to a large mixing bowl, and mix.  Let sit for 5 minutes to make sure the yeast is still alive
 
 - In a separate bowl, whisk together <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>.  Finally, add in the flours and combine with your <a href='https://amzn.to/44XmqKz'>dough scraper</a>. Let rest for 20 minutes
 - <img src='/assets/Food/Bread/Pretzels/pretzel-2.jpg' alt='' class='instruction-image'>

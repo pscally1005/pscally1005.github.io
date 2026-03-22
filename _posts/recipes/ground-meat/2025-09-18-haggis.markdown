@@ -59,7 +59,7 @@ Instructions:
 
 - Preheat your oven to 350F. Lightly grease a <a href='https://amzn.to/4aiCsjh'>9x13" baking dish</a>
 
-- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> with olive oil over medium heat. Finely dice an <a href='/misc/veggies#onion'>onion</a>, and add to your hot pan with salt. Cover, and cook until translucent, about 10 minutes
+- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> with <a href='/misc/olive-oil'>olive oil</a> over medium heat. Finely dice an <a href='/misc/veggies#onion'>onion</a>, and add to your hot pan with salt. Cover, and cook until translucent, about 10 minutes
 
 - Pulse your <a href='/misc/meat#liver'>beef liver</a> in the <a href='https://amzn.to/4q0AUjI'>food processor</a> until finely ground. Don't over blend, or it'll end up pasty
 - <img src='/assets/Food/Ground Meat/Haggis/liver.jpg' alt='' class='instruction-image'>

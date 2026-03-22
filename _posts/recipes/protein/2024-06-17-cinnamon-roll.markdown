@@ -72,14 +72,14 @@ Instructions:
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> the cinnamon rolls cut side down at 350F for about 8 minutes, or until lightly golden brown and slightly crispy
 
-- Meanwhile, prepare the glaze by mixing together the ingredients in a <a href='https://amzn.to/4adxMft'>small bowl</a> (<a href='/misc/dairy#skim-milk'>milk</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/fats'>oil</a>, and cinnamon)
+- Meanwhile, prepare the glaze by mixing together the ingredients in a <a href='https://amzn.to/4adxMft'>small bowl</a> (<a href='/misc/dairy#skim-milk'>milk</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/olive-oil'>oil</a>, and cinnamon)
 
 - Dollop the glaze on top of the baked cinnamon rolls, and enjoy
 - <img src='/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-8.jpg' alt='' class='instruction-image'>
 Notes:
 - <a href='/misc/fruit#dates'>Date</a> paste or <a href='/misc/fruit#apple'>unsweetened applesauce</a> should also work as fillings
 
-- Either extra virgin olive oil or unrefined <a href='/misc/nuts#coconut'>coconut oil</a> will work as your <a href='/misc/fats'>oil</a> for the glaze
+- Either <a href='/misc/olive-oil'>extra virgin olive oil</a> or unrefined <a href='/misc/nuts#coconut'>coconut oil</a> will work as your oil for the glaze
 
 - Optionally add some <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> to the glaze
 ---

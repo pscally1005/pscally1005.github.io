@@ -69,7 +69,7 @@ Instructions:
 
 - Add the frozen <a href='/misc/fish#shrimp'>shrimp</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and let water run in the bowl for a few minutes until defrosted.  Peel off the shells and tails (if applicable), and pat dry
 
-- In a bowl, toss the <a href='/misc/fish#shrimp'>shrimp</a> with the balsamic vinegar, olive oil, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and salt. Arrange in a single layer in your pan.  Spoon the breadcrumb mixture on top of the <a href='/misc/fish#shrimp'>shrimp</a>
+- In a bowl, toss the <a href='/misc/fish#shrimp'>shrimp</a> with the balsamic vinegar, <a href='/misc/olive-oil'>olive oil</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and salt. Arrange in a single layer in your pan.  Spoon the breadcrumb mixture on top of the <a href='/misc/fish#shrimp'>shrimp</a>
 - <img src='/assets/Food/Fish/Oreganata/oreganata-bowl.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Fish/Oreganata/oreganata-raw.jpg' alt='' class='instruction-image'>
 

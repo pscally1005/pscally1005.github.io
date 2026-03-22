@@ -60,5 +60,5 @@ Instructions:
 
 - Season with garlic powder, cumin, and salt.  Blend in aquafaba until creamy.  Garnish with paprika and parsley, and serve
 Notes:
-- If you don't have <a href='/misc/seeds#sesame-seeds'>tahini</a>, you can replace it with an equal amount (4 tbsp, 64 g) of either <a href='/misc/nuts#cashews'>cashew</a> or <a href='/misc/nuts#almonds'>almond butter</a>.  Alternatively, you can replace the <a href='/misc/seeds#sesame-seeds'>tahini</a> with 3 tbsp (45 g) extra virgin olive oil and an additional 1 tbsp (15 g) aquafaba for a similar consistency and nutritional profile
+- If you don't have <a href='/misc/seeds#sesame-seeds'>tahini</a>, you can replace it with an equal amount (4 tbsp, 64 g) of either <a href='/misc/nuts#cashews'>cashew</a> or <a href='/misc/nuts#almonds'>almond butter</a>.  Alternatively, you can replace the <a href='/misc/seeds#sesame-seeds'>tahini</a> with 3 tbsp (45 g) <a href='/misc/olive-oil'>extra virgin olive oil</a> and an additional 1 tbsp (15 g) aquafaba for a similar consistency and nutritional profile
 ---

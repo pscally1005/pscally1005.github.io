@@ -49,7 +49,7 @@ Description: I think of a single person who doesn't like <a href='/brownies'>bro
 Instructions:
 - Preheat your oven to 350F, and grease a <a href='https://amzn.to/4mAvtr9'>square 9x9" pan</a> with oil. Make sure to coat it well; you don't want the brownies to stick to the pan
 
-- Melt your <a href='/misc/dairy#butter'>butter</a> in the microwave. Combine together melted <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/fats'>oil</a>, and <a href='/misc/hidden-sugar'>sugar</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until the <a href='/misc/hidden-sugar'>sugar</a> is very well incorporated, about a minute
+- Melt your <a href='/misc/dairy#butter'>butter</a> in the microwave. Combine together melted <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/hidden-sugar'>sugar</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until the <a href='/misc/hidden-sugar'>sugar</a> is very well incorporated, about a minute
 
 - Crack in the <a href='/misc/meat#eggs'>eggs</a>, pour in the vanilla, and add the salt. Again, beat with your <a href='https://amzn.to/45yqsbM'>hand mixer</a> until super smooth, about a minute
 
@@ -66,7 +66,7 @@ Notes:
 
 - You can replace the powdered sugar with granulated sugar, but remember to replace with 1:1 by weight, not volume. Replace 2 cups (240 g) of powdered sugar with 1.25 cups (240 g) granulated sugar
 
-- As for the <a href='/misc/fats'>oil</a>, I'll be using extra virgin coconut oil here, but either extra virgin olive oil or <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> will also work
+- As for the oil, I'll be using <a href='/misc/nuts#coconut'>extra virgin coconut oil</a> here, but either <a href='/misc/olive-oil'>extra virgin olive oil</a> or <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> will also work
 
 - Do not over mix, or you'll develop the gluten in the flour and end up with tough <a href='/brownies'>brownies</a>
 

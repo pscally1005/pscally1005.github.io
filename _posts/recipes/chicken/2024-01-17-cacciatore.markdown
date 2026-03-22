@@ -54,11 +54,11 @@ Description: Chicken Cacciatore, or Hunter's Chicken, is an Italian Chicken dish
 Instructions:
 - Prepare your <a href='/misc/veggies'>vegetables</a> and <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> (keep the skins on). Dice your <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/veggies#pepper'>peppers</a>, and <a href='/misc/veggies#mushrooms'>mushrooms</a>. Wash the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut them into pieces, about the same size as the <a href='/misc/veggies#pepper'>peppers</a>
 
-- Heat a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium high heat. Add in your <a href='/misc/veggies#mushrooms'>mushrooms</a> with a splash of water (no <a href='/misc/fats'>oil</a> here). Cook for about 5-10 minutes, until the water in the pan is gone, and the <a href='/misc/veggies#mushrooms'>mushrooms</a> have shrunk and are starting to look cooked
+- Heat a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium high heat. Add in your <a href='/misc/veggies#mushrooms'>mushrooms</a> with a splash of water (no <a href='/misc/olive-oil'>oil</a> here). Cook for about 5-10 minutes, until the water in the pan is gone, and the <a href='/misc/veggies#mushrooms'>mushrooms</a> have shrunk and are starting to look cooked
 
 - Add in your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onion</a> with oil a small pinch of salt to help draw out the water. Cook until the <a href='/misc/veggies#pepper'>peppers</a> soften and the <a href='/misc/veggies#onion'>onions</a> are going translucent, about 10 minutes
 
-- Meanwhile, cut your <a href='/misc/meat#chicken-breast'>chicken</a> into bite sized pieces. Add them to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and mix with the <a href='/misc/fats'>oil</a> and spices
+- Meanwhile, cut your <a href='/misc/meat#chicken-breast'>chicken</a> into bite sized pieces. Add them to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and mix with the <a href='/misc/olive-oil'>oil</a> and spices
 
 - Stir in the raw <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, <a href='/misc/veggies#tomato'>tomatoes</a>, <a href='/misc/meat#chicken-breast'>chicken</a> stock (or water + powder), and thyme
 

@@ -70,7 +70,7 @@ Instructions:
 
 - Meanwhile, add your <a href='/misc/meat#ground-turkey'>turkey</a> along with oil, salt, and black pepper to a <a href='https://amzn.to/4rdR0HI'>12" pan</a>. Cover, and cook over medium heat until no longer pink. Set aside
 
-- As the <a href='/misc/meat'>meat</a> cooks, prepare another pan with diced <a href='/misc/veggies#carrots'>carrots</a>, <a href='/misc/fats'>oil</a>, salt, and black pepper. Pour in water to just cover the <a href='/misc/veggies#carrots'>carrots</a>, and put the lid on the pan. Cook over medium heat until the water has cooked off, and the <a href='/misc/veggies#carrots'>carrots</a> are soft and browned
+- As the <a href='/misc/meat'>meat</a> cooks, prepare another pan with diced <a href='/misc/veggies#carrots'>carrots</a>, <a href='/misc/olive-oil'>oil</a>, salt, and black pepper. Pour in water to just cover the <a href='/misc/veggies#carrots'>carrots</a>, and put the lid on the pan. Cook over medium heat until the water has cooked off, and the <a href='/misc/veggies#carrots'>carrots</a> are soft and browned
 - <img src='/assets/Food/Meme/Thanksgiving/carrots.jpg' alt='' class='instruction-image'>
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a>, <a href='/misc/meat#ground-turkey'>ground turkey</a>, and <a href='/misc/veggies#carrots'>carrots</a>. Add the <a href='/misc/fruit#cranberry'>cranberry</a> sauce and spices (thyme, allspice, rosemary, cinnamon, nutmeg, cloves, and <a href='/misc/veggies#ginger'>ginger</a>). Mix until fully combined

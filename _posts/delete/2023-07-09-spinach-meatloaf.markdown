@@ -61,7 +61,7 @@ Description: This meatloaf is a little unorthodox, adding a whole pound of chopp
 Instructions:
 - Preheat your oven to 350F. Line 2 <a href='https://amzn.to/3YUjIkN'>bread pans</a> with parchment for the meatloaf, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment for the <a href='/misc/veggies#butternut-squash'>butternut squash</a>
 
-- Starting with the <a href='/misc/veggies#butternut-squash'>butternut squash</a>, peel it and slice in half. Scoop out the seeds, and cut into a large dice. Move the <a href='/misc/veggies#butternut-squash'>butternut squash</a> to a bowl, and season (<a href='/misc/fats'>oil</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, garlic powder, onion powder, black pepper, and salt).  One large <a href='/misc/veggies#butternut-squash'>butternut squash</a> is the enough
+- Starting with the <a href='/misc/veggies#butternut-squash'>butternut squash</a>, peel it and slice in half. Scoop out the seeds, and cut into a large dice. Move the <a href='/misc/veggies#butternut-squash'>butternut squash</a> to a bowl, and season (<a href='/misc/olive-oil'>oil</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, garlic powder, onion powder, black pepper, and salt).  One large <a href='/misc/veggies#butternut-squash'>butternut squash</a> is the enough
 
 - Roast at 350F for about 45 minutes
 - <img src='/assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-3.jpg' alt='' class='instruction-image'>

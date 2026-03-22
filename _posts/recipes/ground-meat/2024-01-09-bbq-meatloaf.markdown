@@ -59,7 +59,7 @@ Description: Every Sunday night my mom would prepare a meatloaf, and it was my j
 Instructions:
 - Preheat your oven to 350F, and line 2 <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the <a href='/misc/veggies#broccoli'>broccoli</a> and the spices (<a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/fats'>oil</a>, lemon pepper, garlic powder, and onion powder). Add to one of your sheets
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the <a href='/misc/veggies#broccoli'>broccoli</a> and the spices (<a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/olive-oil'>oil</a>, lemon pepper, garlic powder, and onion powder). Add to one of your sheets
 
 - Rinse the bowl, and use it for the meatloaf. Crack in the <a href='/misc/meat#eggs'>egg</a>, and mix together all the ingredients (<a href='/misc/meat'>meat</a>, <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a>, <a href='/misc/veggies#onion'>onion</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, garlic powder, onion powder, chili powder, and paprika).  Transfer the mix to the other pan, and shape into a meatloaf
 

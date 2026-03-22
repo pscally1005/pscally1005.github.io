@@ -85,7 +85,7 @@ Instructions:
 
 - In a small dry pan over medium heat, add the <a href='/misc/nuts#pine-nuts'>pine nuts</a> and lightly toast for about 3 minutes, until fragrant and lightly browned.  Add to the bowl
 
-- Finally, in a large glass, prepare the <a href='/salad-dressings'>dressing</a>.  Pour in the <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, extra virgin olive oil, balsamic vinegar, Dijon mustard, and <a href='/misc/veggies#garlic'>minced garlic</a>.  Add in your spices (basil, thyme, oregano, garlic powder, onion powder, lemon pepper, and red pepper flakes).  Stir with a spoon
+- Finally, in a large glass, prepare the <a href='/salad-dressings'>dressing</a>.  Pour in the <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/olive-oil'>extra virgin olive oil</a>, balsamic vinegar, Dijon mustard, and <a href='/misc/veggies#garlic'>minced garlic</a>.  Add in your spices (basil, thyme, oregano, garlic powder, onion powder, lemon pepper, and red pepper flakes).  Stir with a spoon
 
 - Pour the <a href='/salad-dressings'>dressing</a> over your <a href='/salad'>salad</a>, and serve either cold or warm
 - <img src='/assets/Food/Meatless/Potato Salad/potato-salad-6.jpg' alt='' class='instruction-image'>

@@ -57,7 +57,7 @@ Description: <a href='/misc/veggies#cabbage'>Shredded cabbage</a> makes such a g
 Instructions:
 - You can either buy a bags of <a href='/misc/veggies#cabbage'>shredded cabbage</a> and <a href='/misc/veggies#carrots'>carrots</a>, or shred them yourself.  I like to cut them into big chunks, pulse them in my <a href='https://amzn.to/4q0AUjI'>food processor</a>, and use that.  It's cheaper and simpler, but you don't get the strips that a mandolin would get you
 
-- Heat a large wok over medium to medium high heat. Add the <a href='/misc/veggies#cabbage'>cabbage</a>, <a href='/misc/veggies#carrots'>carrots</a>, a pinch of salt, and a drizzle of olive oil
+- Heat a large wok over medium to medium high heat. Add the <a href='/misc/veggies#cabbage'>cabbage</a>, <a href='/misc/veggies#carrots'>carrots</a>, a pinch of salt, and a drizzle of <a href='/misc/olive-oil'>olive oil</a>
 
 - Cover the wok with aluminum foil and cook the <a href='/misc/veggies'>vegetables</a> until softened to desired texture
 - <img src='/assets/Food/Ground Meat/Egg Roll/egg-roll-2.jpg' alt='' class='instruction-image'>

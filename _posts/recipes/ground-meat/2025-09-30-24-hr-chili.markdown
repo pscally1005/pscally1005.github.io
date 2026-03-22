@@ -73,7 +73,7 @@ Instructions:
 
 - At about 1pm, heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Brown the <a href='/misc/meat'>meat</a>, and cook until no longer pink. Set aside
 
-- As the <a href='/misc/meat'>meat</a> cooks, cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a medium dice. When the pan is empty, add olive oil, <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#onion'>onions</a>, chili powder, cumin, and salt. Cover and cook until soft and browned, about 10 minutes. Add the <a href='/misc/veggies#garlic'>garlic</a>, and cook until fragrant (about 30 seconds). Set aside
+- As the <a href='/misc/meat'>meat</a> cooks, cut your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> into a medium dice. When the pan is empty, add <a href='/misc/olive-oil'>olive oil</a>, <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#onion'>onions</a>, chili powder, cumin, and salt. Cover and cook until soft and browned, about 10 minutes. Add the <a href='/misc/veggies#garlic'>garlic</a>, and cook until fragrant (about 30 seconds). Set aside
 
 - The <a href='/misc/beans'>beans</a> should be done cooking around 2 pm. If you started the <a href='/misc/meat'>meat</a> and <a href='/misc/veggies'>veggies</a> around 1pm, you should have them done around the same time
 

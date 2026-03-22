@@ -60,6 +60,6 @@ Instructions:
 - Combine roasted <a href='/misc/veggies#beets'>beets</a> (with skins!) with the rest of ingredients in a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
 - <img src='/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-2.jpg' alt='' class='instruction-image'>
 Notes:
-- Optionally, saute the stems and leaves with a little salt and olive oil until crispy, and use as a garnish on top of your <a href='/hummus'>hummus</a>
+- Optionally, saute the stems and leaves with a little salt and <a href='/misc/olive-oil'>olive oil</a> until crispy, and use as a garnish on top of your <a href='/hummus'>hummus</a>
 - <img src='/assets/Food/Savory Sauces/Beet Hummus/beet-hummus-3.jpg' alt='' class='instruction-image'>
 ---

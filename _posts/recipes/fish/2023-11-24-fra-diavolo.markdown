@@ -55,11 +55,11 @@ tags:
 - red pepper
 Description: Fra Diavolo sauce is a Christmas classic for me, and was always served over <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/fish#shrimp'>shrimp</a>, two of my favorite foods. Here, I mixed the <a href='/misc/veggies#spinach-fresh'>spinach</a> right into the sauce, and you can put it on whatever you want, such as <a href='/misc/meat#chicken-breast'>chicken</a> if you're not a <a href='/misc/fish'>seafood</a> fan.
 Instructions:
-- In a <a href='https://amzn.to/46ccg8m'>medium saucepot</a>, saute <a href='/misc/fats'>oil</a>, <a href='/misc/veggies#garlic'>garlic</a>, and <a href='/misc/veggies#spinach-fresh'>spinach</a> over medium heat for about 5 minutes
+- In a <a href='https://amzn.to/46ccg8m'>medium saucepot</a>, saute <a href='/misc/olive-oil'>oil</a>, <a href='/misc/veggies#garlic'>garlic</a>, and <a href='/misc/veggies#spinach-fresh'>spinach</a> over medium heat for about 5 minutes
 
 - Add in <a href='/misc/veggies#tomato'>tomatoes</a> and seasonings for the sauce (Italian seasoning, paprika, garlic powder, onion powder, salt, black pepper, and red pepper flakes).  Mix, reduce heat to medium low, and simmer for 1 hour, uncovered
 
-- The <a href='/misc/fish#shrimp'>shrimp</a> will take just a few minutes to cook, so start it when the sauce is almost done. Heat <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/fats'>oil</a> in a large nonstick pan over medium heat
+- The <a href='/misc/fish#shrimp'>shrimp</a> will take just a few minutes to cook, so start it when the sauce is almost done. Heat <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/olive-oil'>oil</a> in a large nonstick pan over medium heat
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, add your <a href='/misc/fish#shrimp'>shrimp</a> and seasonings (Italian seasoning, garlic powder, onion powder, lemon pepper, and paprika). If your <a href='/misc/fish#shrimp'>shrimp</a> isn't already peeled and deveined, make sure to do that first. Remove the tails too. Mix the <a href='/misc/fish#shrimp'>shrimp</a> with the spices
 

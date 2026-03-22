@@ -61,7 +61,7 @@ Description: |
   <br><br>
   I'm no artist, but I made these to celebrate Vic's half marathon, so I drizzled a 13.1 in a <a href='/misc/nuts#peanuts'>peanut</a> butter glaze.  The glaze is just 2 parts <a href='/recipes/natural-peanut-butter'>peanut butter</a> to 1 part <a href='/misc/natural-sweeteners#honey'>honey</a> and 1 part melted <a href='/misc/nuts#coconut'>coconut oil</a>.  The nutrition facts are assuming you use just the homemade chocolate instead of the chocolate chips; no mix ins or additional flavorings.  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
 Instructions:
-- Preheat your oven to 350F, and line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the paper with <a href='/misc/fats'>oil</a>
+- Preheat your oven to 350F, and line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the paper with <a href='/misc/olive-oil'>oil</a>
 - <img src='/assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-1.jpg' alt='' class='instruction-image'>
 
 - Microwave your <a href='/misc/chocolate-benefits'>chocolate</a> in 20-30 second intervals, stirring in between, until fully melted

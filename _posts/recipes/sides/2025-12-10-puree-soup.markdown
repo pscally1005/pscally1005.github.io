@@ -62,7 +62,7 @@ Instructions:
 
 - Wash all your <a href='/misc/veggies'>vegetables</a>. Halve the <a href='/misc/veggies#butternut-squash'>butternut squash</a>, scoop out the seeds, and cut into large chunks. You can roast the <a href='/misc/veggies#tomato'>tomatoes</a>, <a href='/misc/veggies#onion'>onions</a>, and (peeled) <a href='/misc/veggies#garlic'>garlic cloves</a> whole
 
-- Add your <a href='/misc/veggies'>veggies</a> to the dish, and season with salt, black pepper, and <a href='/misc/fats'>oil</a>
+- Add your <a href='/misc/veggies'>veggies</a> to the dish, and season with salt, black pepper, and <a href='/misc/olive-oil'>oil</a>
 - <img src='/assets/Food/Sides/Puree Soup/raw.jpg' alt='' class='instruction-image'>
 
 - Roast at 425F for about 1 hour, or until fork tender, browned, and light charred. Let cool totally
@@ -71,7 +71,7 @@ Instructions:
 - Add your <a href='/misc/veggies'>veggies</a> to a <a href='https://amzn.to/4bO4VQ3'>blender</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth, thinning out with water or broth. Season with turmeric, <a href='/misc/veggies#ginger'>ginger</a>, and cinnamon to taste, and blend in the <a href='/misc/dairy#yogurt'>yogurt</a>.  You can also use a <a href='https://amzn.to/4adxMft'>large bowl</a> or pot with an <a href='https://amzn.to/3VHhgMM'>immersion blender</a>
 - <img src='/assets/Food/Sides/Puree Soup/blended.jpg' alt='' class='instruction-image'>
 
-- Divide into 4 servings, and garnish with toasted <a href='/misc/nuts'>nuts</a>, herbs, or olive oil. Serve
+- Divide into 4 servings, and garnish with toasted <a href='/misc/nuts'>nuts</a>, herbs, or <a href='/misc/olive-oil'>olive oil</a>. Serve
 - <img src='/assets/Food/Sides/Puree Soup/containers.jpg' alt='' class='instruction-image'>
 Notes:
 - Don't peel the <a href='/misc/veggies#butternut-squash'>butternut squash</a>! The skin is entirely edible, and contains <a href='/misc/fiber'>fiber</a> and <a href='/misc/phytochemicals'>phytonutrients</a>. It'll all get blended anyway

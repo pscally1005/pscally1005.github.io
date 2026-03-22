@@ -72,7 +72,7 @@ Instructions:
 
 - |
   <b>Kale</b><br>
-  Heat a large pan over medium heat with olive oil. Cover and cook your kale with spices (chili powder, garlic powder, onion powder, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
+  Heat a large pan over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Cover and cook your kale with spices (chili powder, garlic powder, onion powder, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
 - <img src='/assets/Food/Fish/Superfood/superfood-kale.jpg' alt='' class='instruction-image'>
 
 - |
@@ -187,7 +187,7 @@ Notes:
   <ul>
     <li><a href='/misc/apple-cider-vinegar'>Apple cider vinegar</a></li>
     <li>Balsamic vinegar (not vinaigrette)</li>
-    <li>Extra virgin olive oil</li>
+    <li><a href='/misc/olive-oil'>Extra virgin olive oil</a></li>
     <li><a href='/recipes/guacamole'>Guac</a></li>
     <li>Hot sauce</li>
     <li><a href='/hummus'>Hummus</a></li>

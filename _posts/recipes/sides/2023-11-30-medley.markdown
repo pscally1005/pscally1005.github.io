@@ -54,7 +54,7 @@ tags:
 - garlic
 Description: I made some variation of this dish all the time. Most often, I use this in my morning <a href='/misc/meat#eggs'>eggs</a>, like <a href='/recipes/frittata'>Spinach and Onion Frittata</a> and <a href='/recipes/spinach-mushroom-scrambled-eggs'>Spinach & Mushroom Scrambled Eggs</a>.  Or pair it as your <a href='/misc/veggies'>vegetable</a> to a meal with just a <a href='/misc/meat'>meat</a> and <a href='/misc/carbs'>carb</a>, like <a href='/recipes/indian-chicken'>Indian Chicken and Potatoes</a> or <a href='/recipes/marinated-chicken'>Marinated Chicken with Air Fried Plantains</a>.
 Instructions:
-- Heat a pan on medium heat with olive oil. Cut your <a href='/misc/veggies#onion'>onions</a> into a small dice, and add to the pan with salt. Cover and cook with occasional stirring until they start to turn translucent, about 10 minutes
+- Heat a pan on medium heat with <a href='/misc/olive-oil'>olive oil</a>. Cut your <a href='/misc/veggies#onion'>onions</a> into a small dice, and add to the pan with salt. Cover and cook with occasional stirring until they start to turn translucent, about 10 minutes
 
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together the spices, and set aside - chili powder, paprika, garlic powder, onion powder, cumin, and black pepper
 

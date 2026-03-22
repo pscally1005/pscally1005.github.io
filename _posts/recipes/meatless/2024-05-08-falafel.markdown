@@ -81,7 +81,7 @@ Notes:
 
 - Instead of <a href='/misc/nuts#almonds'>almond butter</a>, you can use <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/nuts#pistachios'>pistachio butter</a>, or any other <a href='/recipes/natural-peanut-butter'>natural nut or seed butter</a>
 
-- Or 1 tbsp (15 g) extra virgin olive oil + 1 tbsp (15 g) aquafaba can be used in place of <a href='/misc/nuts#almonds'>almond butter</a>
+- Or 1 tbsp (15 g) <a href='/misc/olive-oil'>extra virgin <a href='/misc/olive-oil'>olive oil</a></a> + 1 tbsp (15 g) aquafaba can be used in place of <a href='/misc/nuts#almonds'>almond butter</a>
 
 - Fresh parsley can be used instead of cilantro as well
 

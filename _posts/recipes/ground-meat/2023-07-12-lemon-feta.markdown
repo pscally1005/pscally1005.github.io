@@ -58,7 +58,7 @@ Instructions:
 
 - Add the <a href='/misc/veggies#cucumber'>cucumbers</a>, <a href='/misc/veggies#spinach-fresh'>spinach</a>, and spices (basil, onion and garlic powder, and lemon pepper) to the pan and cook for just a few minutes on medium. Squeeze in the <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and then set the <a href='/misc/veggies'>vegetables</a> aside in a bowl
 
-- To the now empty pan, add the <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/fats'>oil</a>, and <a href='/misc/veggies#garlic'>garlic</a>. Cook over medium heat until fully cooked and no longer pink. Season (basil, onion and garlic powder, lemon pepper, and black pepper), finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and add the <a href='/misc/meat#chicken-breast'>chicken</a> to the bowl with the <a href='/misc/veggies'>vegetables</a>
+- To the now empty pan, add the <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/olive-oil'>oil</a>, and <a href='/misc/veggies#garlic'>garlic</a>. Cook over medium heat until fully cooked and no longer pink. Season (basil, onion and garlic powder, lemon pepper, and black pepper), finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and add the <a href='/misc/meat#chicken-breast'>chicken</a> to the bowl with the <a href='/misc/veggies'>vegetables</a>
 
 - Mix the <a href='/misc/dairy#feta'>feta</a> into the food and serve with <a href='/misc/grains#brown-rice'>rice</a> (1 cup dry <a href='/misc/grains#brown-rice'>brown rice</a>)
 Notes:

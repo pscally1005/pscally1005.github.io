@@ -64,7 +64,7 @@ Instructions:
 
 - Moving onto the <a href='/misc/dairy#mozzarella'>cheese</a>. In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/dairy#cheddar'>shredded cheese</a>, cornstarch, and <a href='/misc/dairy#almond-milk'>almond milk</a>. This will get added into the <a href='/misc/meat#ground-beef'>beef</a> at the end. Set the bowl aside
 
-- Now for the burger. Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with olive oil. Add in the <a href='/misc/meat#ground-beef'>beef</a>, and cook until browned. Season with soy sauce, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
+- Now for the burger. Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Add in the <a href='/misc/meat#ground-beef'>beef</a>, and cook until browned. Season with soy sauce, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-5.jpg' alt='' class='instruction-image'>
 
 - Add the bowl of <a href='/misc/dairy#mozzarella'>cheese</a> into the pan, mix, and cover. Cook for just a minute or so to melt the <a href='/misc/dairy#mozzarella'>cheese</a> and a creamy sauce forms. Set the pan aside

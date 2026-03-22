@@ -54,7 +54,7 @@ Instructions:
 - Soak the sun dried tomatoes and <a href='/misc/nuts#cashews'>cashews</a> in warm water for 10 minutes.  Add all ingredients to a <a href='https://amzn.to/4bO4VQ3'>blender</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth.  It should be pretty thick
 - <img src='/assets/Food/Savory Sauces/Italian dressing/processor.jpg' alt='' class='instruction-image'>
 Notes:
-- Make sure to get sun dried tomatoes that are <b>not</b> packed in <a href='/misc/fats'>oil</a>.  This is what I get from my store
+- Make sure to get sun dried tomatoes that are <b>not</b> packed in oil.  This is what I get from my store
 - <img src='/assets/Food/Savory Sauces/Italian dressing/sundried.jpg' alt='' class='instruction-image'>
 
 - Below is a table comparing the nutrition facts of my <a href='/salad-dressings'>homemade dressing</a> to a <a href='https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search'>standard bottle of Italian dressing</a> per serving (2 tbsp, 30 g).  As you can see, the homemade version contains less <a href='/misc/calories'>calories</a> and <a href='/misc/fats'>unhealthy fats</a>, more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, and no <a href='/misc/hidden-sugar'>added sugar</a>

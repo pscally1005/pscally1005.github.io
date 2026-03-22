@@ -51,7 +51,7 @@ tags:
 - marinate
 Description: <a href='/misc/meat#ground-beef'>Beef</a> and <a href='/misc/veggies#broccoli'>broccoli</a> is a Chinese classic, and making this version at home is what got me to like <a href='/misc/meat#steak'>steak</a> if cooked properly. I saw a small piece of <a href='/misc/meat#steak'>sirloin</a> on sale at the store and wanted to try it out, and I'm very impressed with the results. Sauteed <a href='/misc/meat#ground-beef'>beef</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, and a topping of <a href='/misc/seeds#sesame-seeds'>sesame seeds</a> sounds delicious in my book.
 Instructions:
-- Heat your oven to 400F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Add <a href='/misc/veggies#broccoli'>broccoli</a> to the pan, season with salt, black pepper, and <a href='/misc/fats'>oil</a>, and roast for 30 minutes. Do everything else as the <a href='/misc/veggies#broccoli'>broccoli</a> cooks
+- Heat your oven to 400F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Add <a href='/misc/veggies#broccoli'>broccoli</a> to the pan, season with salt, black pepper, and <a href='/misc/olive-oil'>oil</a>, and roast for 30 minutes. Do everything else as the <a href='/misc/veggies#broccoli'>broccoli</a> cooks
 
 - Take your <a href='/misc/meat'>meat</a> and slice into 1/4-1/2" thick strips against the grain. Add to a bowl of cold water, and massage the <a href='/misc/meat'>meat</a> for 30 seconds. The <a href='/misc/meat'>meat</a> should turn gray, and the water should turn red with myoglobin (not blood). Squeeze and drain the <a href='/misc/meat'>meat</a> with a strainer for about 30 seconds, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>
 

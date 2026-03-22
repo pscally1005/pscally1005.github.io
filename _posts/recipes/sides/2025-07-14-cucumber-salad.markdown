@@ -53,6 +53,6 @@ Description: This is Asian cucumber salad...kinda.  If you've ever wanted to rec
 Instructions:
 - Cut your <a href='/misc/veggies#cucumber'>cucumber</a> thinly, either with a knife or <a href='https://amzn.to/4q3nlQz'>mandoline</a>. Add to a <a href='https://amzn.to/4adxMft'>medium bowl</a> with salt, and mix. Let sit for at least 10 minutes for the salt to draw out the water from the <a href='/misc/veggies#cucumber'>cucumber</a>. Drain the water, and pat dry
 
-- Season with vinegar, soy sauce, <a href='/misc/veggies#garlic'>garlic</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/fats'>oil</a>, and <a href='/misc/veggies#ginger'>ginger</a>. Optionally mix in red pepper flakes for some heat, or top with some <a href='/misc/seeds#sesame-seeds'>sesame seeds</a> as a garnish
+- Season with vinegar, soy sauce, <a href='/misc/veggies#garlic'>garlic</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, sesame oil, and <a href='/misc/veggies#ginger'>ginger</a>. Optionally mix in red pepper flakes for some heat, or top with some <a href='/misc/seeds#sesame-seeds'>sesame seeds</a> as a garnish
 Notes:
 ---

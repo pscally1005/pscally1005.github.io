@@ -53,7 +53,7 @@ tags:
 - melt
 Description: These <a href='/misc/carbs'>low carb</a> <a href='/misc/veggies#eggplant'>eggplant</a> Pizzas are perfect little bite sized appetizers to serve to a group. They're really easy to make, just pre roast the <a href='/misc/veggies#eggplant'>eggplant</a>, add toppings, and bake again. I'm keeping it simple here with just a topping of <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a>, <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>, and dried oregano, but you can add any other toppings you desire! I'll be making this alongside a <a href='/recipes/pizza'>Home Oven Baked Pizza</a> for pizza night in my house for now on.
 Instructions:
-- Preheat your oven to 425F, and line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with parchment paper. Cut your <a href='/misc/veggies#eggplant'>eggplant</a> into 1/2" rounds, and add to the sheet. Season with salt, black pepper, and <a href='/misc/fats'>oil</a>, and roast for 15 minutes, until softened and lightly browned.  You may have to cook them in 2 batches
+- Preheat your oven to 425F, and line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with parchment paper. Cut your <a href='/misc/veggies#eggplant'>eggplant</a> into 1/2" rounds, and add to the sheet. Season with salt, black pepper, and <a href='/misc/olive-oil'>oil</a>, and roast for 15 minutes, until softened and lightly browned.  You may have to cook them in 2 batches
 - <img src='/assets/Food/Sides/Eggplant Pizza/raw.jpg' alt='' class='instruction-image'>
 
 - Remove the <a href='/misc/veggies#eggplant'>eggplant</a> from the oven, and top each pizza with sauce, <a href='/misc/dairy#mozzarella'>cheese</a>, and a dash of oregano

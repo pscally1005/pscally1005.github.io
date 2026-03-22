@@ -57,7 +57,7 @@ Instructions:
 
 - Preheat your air fryer to 400F, and lightly spray the basket with oil. Add in the fries, and air fry for about 6 minutes
 
-- Moving on to the fish. Lightly coat the fish in olive oil
+- Moving on to the fish. Lightly coat the fish in <a href='/misc/olive-oil'>olive oil</a>
 
 - In a small bowl, mix together the breading ingredients of oat flour and spices (lemon pepper, thyme, and chili powder)
 

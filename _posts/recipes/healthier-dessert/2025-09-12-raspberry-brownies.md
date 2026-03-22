@@ -77,5 +77,5 @@ Instructions:
 Notes:
 - Any <a href='/recipes/natural-peanut-butter'>nut or seed butter</a> will work in place of <a href='/misc/nuts#almonds'>almond butter</a>, such as <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>
 
-- Melted (unsalted) <a href='/misc/dairy#butter'>butter</a> or extra virgin olive oil will work in place of melted <a href='/misc/nuts#coconut'>coconut oil</a>
+- Melted (unsalted) <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/olive-oil'>extra virgin olive oil</a> will work in place of melted <a href='/misc/nuts#coconut'>coconut oil</a>
 ---

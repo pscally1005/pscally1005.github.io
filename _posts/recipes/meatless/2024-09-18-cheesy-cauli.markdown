@@ -72,7 +72,7 @@ Instructions:
 - Add <a href='/misc/veggies#cauliflower'>cauliflower</a>, <a href='/misc/veggies#carrots'>carrots</a>, and <a href='/misc/veggies#onion'>onion</a> to a wide pot. Large chunks of <a href='/misc/veggies#onion'>onion</a> will work, it will all get blended anyway for the cheese sauce. Cover with water, and bring to a boil. Cover the pot, and let boil for about 10-15 minutes, or until the <a href='/misc/veggies#carrots'>carrots</a> are fork tender
 - <img src='/assets/Food/Meatless/Cheesy Cauli/veggies.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with olive oil. Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse until you have a riced consistency (don't over blend)
+- Meanwhile, preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse until you have a riced consistency (don't over blend)
 
 - Transfer your <a href='/misc/veggies#cauliflower'>cauliflower rice</a> to the pan. Season with garlic powder, onion powder, black pepper, salt, and allspice. Cook over medium heat with occasional stirring until tender, about 10 minutes. Set aside
 - <img src='/assets/Food/Meatless/Cheesy Cauli/rice.jpg' alt='' class='instruction-image'>

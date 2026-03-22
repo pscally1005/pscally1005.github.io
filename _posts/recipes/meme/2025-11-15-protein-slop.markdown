@@ -52,7 +52,7 @@ tags:
 - olives
 Description: Not every meal has to look exquisite to taste good.  Here is what I'm calling "<a href='/misc/protein'>Protein</a> Slop".  This face made for radio contains mashed <a href='/misc/fish#tuna'>tuna</a>, <a href='/misc/fruit#avocado'>avocado</a>, and <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, with a <a href='/recipes/sides'>side</a> of <a href='https://amzn.to/3FuWETp'>air fried</a> <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, served over a bowl of shredded raw <a href='/misc/veggies#cabbage'>cabbage</a>.  The only cooking required is just dicing and roasting a <a href='/misc/veggies#sweet-potato'>sweet potato</a>, making this a very quick and convenient meal. It's a good source of <a href='/misc/protein'>protein</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/fats'>healthy fats</a>, <a href='/misc/nutrient-alphabet#A'>vitamin A</a>, <a href='/misc/vitamin-b12'>vitamin B12</a>, and <a href='/misc/nutrient-alphabet#S'>selenium</a> that can be served both warm or cold.
 Instructions:
-- Wash your <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut into a medium dice (with the skin!). Toss with the <a href='/misc/fats'>oil</a> and spices
+- Wash your <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut into a medium dice (with the skin!). Toss with the <a href='/misc/olive-oil'>oil</a> and spices
 - <img src='/assets/Food/Meme/Protein Slop/potatoes.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 15 minutes, or until browned and soft. You can also roast in a 400F oven for about 25 minutes

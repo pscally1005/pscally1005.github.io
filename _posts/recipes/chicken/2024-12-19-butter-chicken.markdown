@@ -67,7 +67,7 @@ Instructions:
 
 - Dice your <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#pepper'>peppers</a>. Prepare your <a href='/misc/veggies#garlic'>garlic</a>, and finely chop the <a href='/misc/veggies#ginger'>ginger</a>
 
-- Heat a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> with olive oil over medium heat. Add the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> to the pot along with your spices - garlic powder, onion powder, garam masala, paprika, and turmeric. Cover, and cook until the <a href='/misc/veggies#onion'>onions</a> start to turn translucent and <a href='/misc/veggies#pepper'>peppers</a> begin to soften
+- Heat a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> with <a href='/misc/olive-oil'>olive oil</a> over medium heat. Add the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a> to the pot along with your spices - garlic powder, onion powder, garam masala, paprika, and turmeric. Cover, and cook until the <a href='/misc/veggies#onion'>onions</a> start to turn translucent and <a href='/misc/veggies#pepper'>peppers</a> begin to soften
 
 - Add the <a href='/misc/meat#chicken-breast'>chicken</a> to the pot, mix, cover, and cook until the <a href='/misc/meat#chicken-breast'>chicken</a> is <a href='https://amzn.to/4kmobG2'>165F</a>
 

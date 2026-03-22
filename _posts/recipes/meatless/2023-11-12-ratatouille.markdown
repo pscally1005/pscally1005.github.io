@@ -59,7 +59,7 @@ Description: This simple Ratatouille is a stewed dish of various <a href='/misc/
 Instructions:
 - Preheat the oven to 350F
 
-- Heat the olive oil in a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium heat. Add the (finely diced) <a href='/misc/veggies#onion'>onion</a>, <a href='/misc/veggies#garlic'>garlic</a>, and salt. Cook, stirring often until the <a href='/misc/veggies#onion'>onion</a> has softened, about 5 minutes. Meanwhile, dice the <a href='/misc/veggies#pepper'>pepper</a> (medium dice)
+- Heat the <a href='/misc/olive-oil'>olive oil</a> in a large <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium heat. Add the (finely diced) <a href='/misc/veggies#onion'>onion</a>, <a href='/misc/veggies#garlic'>garlic</a>, and salt. Cook, stirring often until the <a href='/misc/veggies#onion'>onion</a> has softened, about 5 minutes. Meanwhile, dice the <a href='/misc/veggies#pepper'>pepper</a> (medium dice)
 
 - Add the <a href='/misc/veggies#pepper'>bell pepper</a> and cook, stirring occasionally, until softened, about 7 minutes. Meanwhile, cut the rest of the <a href='/misc/veggies'>vegetables</a> (medium dice). Pour in the crushed tomatoes and season (basil, garlic powder, onion powder, and black pepper)
 

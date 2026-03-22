@@ -51,7 +51,7 @@ tags:
 - skim milk
 - milk
 Description: |
-  Amaretti <a href='/cookies'>cookies</a> have long been one of my favorite <a href='/recipes/healthier-dessert'>desserts</a>, being a staple at Italian holidays.  They're pretty simple to make healthy though, as they are traditionally free of any <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/fats'>oil</a>, or <a href='/misc/processed-foods'>highly processed flours</a>.  Just swap the <a href='/misc/hidden-sugar'>sugar</a> for any other sweetener - see my <a href='/recipes/amaretti'>Amaretti Cookies with Monkfruit</a>
+  Amaretti <a href='/cookies'>cookies</a> have long been one of my favorite <a href='/recipes/healthier-dessert'>desserts</a>, being a staple at Italian holidays.  They're pretty simple to make healthy though, as they are traditionally free of any <a href='/misc/dairy#butter'>butter</a>, oil, or <a href='/misc/processed-foods'>highly processed flours</a>.  Just swap the <a href='/misc/hidden-sugar'>sugar</a> for any other sweetener - see my <a href='/recipes/amaretti'>Amaretti Cookies with Monkfruit</a>
   <br><br>
   
   But today, I wanted to make a more naturally sweetened version, instead of using <a href='/misc/processed-foods'>highly processed</a> (albeit <a href='/misc/hidden-sugar'>sugar-free</a>) sweeteners like <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  This recipe is more similar to my <a href='/recipes/date-cookies'>Almond Flour Cookies</a>, but with almond extract instead of chocolate chips.  These are a bit softer than the traditional amaretti <a href='/cookies'>cookies</a>, but are still full of the same great flavor while containing no <a href='/misc/hidden-sugar'>added sugar</a>!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!

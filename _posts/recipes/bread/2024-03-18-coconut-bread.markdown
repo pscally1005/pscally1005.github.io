@@ -67,7 +67,7 @@ Instructions:
 
 - Bake at 350F for about 40-45 minutes, until the top is just firm to the touch
 
-- Brush the top with water (or olive oil), and sprinkle with everything bagel seasoning (optional). Return to the oven for another 4 minutes. A toothpick should come out totally clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> should register about <a href='https://amzn.to/4kmobG2'>205F</a>
+- Brush the top with water (or <a href='/misc/olive-oil'>olive oil</a>), and sprinkle with everything bagel seasoning (optional). Return to the oven for another 4 minutes. A toothpick should come out totally clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> should register about <a href='https://amzn.to/4kmobG2'>205F</a>
 
 - Remove from the oven, and let cool in the pan for 30 minutes. Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> in the fridge to totally cool before slicing
 - <img src='/assets/Food/Bread/Coconut Bread/coconut-bread-7.jpg' alt='' class='instruction-image'>

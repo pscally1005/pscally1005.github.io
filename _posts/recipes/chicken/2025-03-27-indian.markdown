@@ -48,13 +48,13 @@ tags:
 - chili powder
 Description: I got this recipe from my girlfriend's mom after having it at their house. It's a simple 2 pan dish of sauteed soft <a href='/misc/veggies#potato'>potatoes</a> and diced <a href='/misc/meat#chicken-breast'>chicken breast</a>, with Indian spices such as turmeric and cumin. It's a delicious <a href='/misc/protein'>protein</a> and <a href='/misc/carbs'>carb</a> combo that goes well with any <a href='/misc/veggies'>veggies</a>; here, I've paired my <a href='/misc/meat#chicken-breast'>chicken</a> and <a href='/misc/veggies#potato'>potatoes</a> with a <a href='/recipes/sides'>side</a> of <a href='/recipes/vegetable-medley'>Spinach & Onion Vegetable Medley</a>.
 Instructions:
-- Wash your <a href='/misc/veggies#potato'>potatoes</a>, and cut into 1" cubes. Don't peel the <a href='/misc/veggies#potato'>potatoes</a>! Add to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, and season with olive oil, chili powder, garlic powder, turmeric, cumin, and salt. Toss to combine
+- Wash your <a href='/misc/veggies#potato'>potatoes</a>, and cut into 1" cubes. Don't peel the <a href='/misc/veggies#potato'>potatoes</a>! Add to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, and season with <a href='/misc/olive-oil'>olive oil</a>, chili powder, garlic powder, turmeric, cumin, and salt. Toss to combine
 
 - Cover with a plate, and microwave for 5 minutes. This accelerates the cooking time by already softening the <a href='/misc/veggies#potato'>potatoes</a>
 
 - Meanwhile, heat up a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Add the microwaved <a href='/misc/veggies#potato'>potatoes</a>, cover, and cook with occasional stirring until soft, about 15 minutes. Deglaze the pan with water during cooking as needed to prevent burning. Garnish with dried parsley
 
-- As the <a href='/misc/veggies#potato'>potatoes</a> cook, prepare the <a href='/misc/meat#chicken-breast'>chicken</a>. Cut into 1" cubes, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Season with olive oil, chili powder, garlic powder, turmeric, cumin, and salt
+- As the <a href='/misc/veggies#potato'>potatoes</a> cook, prepare the <a href='/misc/meat#chicken-breast'>chicken</a>. Cut into 1" cubes, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Season with <a href='/misc/olive-oil'>olive oil</a>, chili powder, garlic powder, turmeric, cumin, and salt
 
 - Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat. Add in the <a href='/misc/meat#chicken-breast'>chicken</a>, and saute until browned and <a href='https://amzn.to/4kmobG2'>internal temperature</a> is <a href='https://amzn.to/4kmobG2'>165F</a>, about 10 minutes. Garnish with dried parsley
 - <img src='/assets/Food/Chicken/Indian/bowls.jpg' alt='' class='instruction-image'>

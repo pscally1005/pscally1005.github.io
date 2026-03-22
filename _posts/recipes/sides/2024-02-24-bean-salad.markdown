@@ -69,7 +69,7 @@ Instructions:
 
 - Finely dice the <a href='/misc/veggies#pepper'>pepper</a> and <a href='/misc/veggies#tomato'>tomatoes</a>, and add to the bowl with the <a href='/misc/beans'>beans</a>. Drain your <a href='/misc/veggies#onion'>onion</a>, and add that as well. Crumble the <a href='/misc/dairy#feta'>feta</a> on top
 
-- In a large glass, mix together the dressing ingredients - olive oil, <a href='/misc/fruit#lemon'>lemon</a>, balsamic vinegar <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, mustard, <a href='/misc/veggies#garlic'>minced garlic</a>, basil, thyme, black pepper, and salt
+- In a large glass, mix together the dressing ingredients - <a href='/misc/olive-oil'>olive oil</a>, <a href='/misc/fruit#lemon'>lemon</a>, balsamic vinegar <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, mustard, <a href='/misc/veggies#garlic'>minced garlic</a>, basil, thyme, black pepper, and salt
 - <img src='/assets/Food/Sides/Bean Salad/bean-salad-4.jpg' alt='' class='instruction-image'>
 
 - Pour the <a href='/salad-dressings'>dressing</a> over the <a href='/salad'>salad</a>, mix, and serve

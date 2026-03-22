@@ -60,7 +60,7 @@ Description: Roasted <a href='/misc/veggies'>vegetables</a> are so easy to do th
 Instructions:
 - Preheat oven to 400F and line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with aluminum foil or parchment paper
 
-- Add your <a href='/misc/veggies'>vegetables</a> to a pan. Drizzle with olive oil and sprinkle with salt, black pepper, garlic powder, and onion powder. Roast at 400F (<a href='#notes'>times</a> below). Squeeze on some <a href='/misc/fruit#lemon-juice'>lemon juice</a> when done
+- Add your <a href='/misc/veggies'>vegetables</a> to a pan. Drizzle with <a href='/misc/olive-oil'>olive oil</a> and sprinkle with salt, black pepper, garlic powder, and onion powder. Roast at 400F (<a href='#notes'>times</a> below). Squeeze on some <a href='/misc/fruit#lemon-juice'>lemon juice</a> when done
 Notes:
 - <a href='/misc/veggies#artichoke'>Artichokes</a> - 30 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-artichoke.jpg' alt='' class='instruction-image'>

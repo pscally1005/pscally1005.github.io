@@ -68,7 +68,7 @@ Instructions:
 
 - Season the <a href='/misc/veggies#pepper'>peppers</a> with your spice mix, about 5 tsp. Cover and cook until soft, browned, and lightly charred, about 20 minutes. Finish with <a href='/misc/fruit#lemon'>lemon</a> (or <a href='/misc/fruit#lime'>lime</a>) <a href='/misc/fake-healthy-foods#juice'>juice</a>
 
-- As the <a href='/misc/veggies#pepper'>peppers</a> cook, move over to the <a href='/misc/meat'>meat</a>. Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> on medium heat. Add the <a href='/misc/fats'>oil</a> and <a href='/misc/meat'>meat</a> to the pan. Brown the <a href='/misc/meat'>meat</a>, and cook until no longer pink
+- As the <a href='/misc/veggies#pepper'>peppers</a> cook, move over to the <a href='/misc/meat'>meat</a>. Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> on medium heat. Add the <a href='/misc/olive-oil'>oil</a> and <a href='/misc/meat'>meat</a> to the pan. Brown the <a href='/misc/meat'>meat</a>, and cook until no longer pink
 
 - Stir in the rest spice mixture and pour in water. Reduce heat to 2 and simmer, stirring occasionally, until most of the liquid is absorbed, about 10 minutes. Uncovered
 

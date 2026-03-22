@@ -53,7 +53,7 @@ tags:
 - onion
 Description: Did you know that <a href='/misc/grains#couscous'>couscous</a> is technically <a href='/misc/grains#pasta'>pasta</a>? It contains 1 ingredient, durum semolina, the same flour used for <a href='/misc/grains#pasta'>pasta</a>, which unfortunately means it's not <a href='/misc/celiac'>gluten free</a>. This simple and delicious <a href='/misc/grains'>grain</a> is like <a href='/misc/grains#brown-rice'>rice</a>, but it cooks in just 5 minutes. Here, I'm softening an <a href='/misc/veggies#onion'>onion</a> before adding in diced tomatoes and <a href='/misc/beans'>beans</a>, giving my <a href='/misc/grains#couscous'>couscous</a> extra bulk for my <a href='/recipes/sides'>side dish</a>.
 Instructions:
-- Preheat a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat with olive oil. Dice your <a href='/misc/veggies#onion'>onion</a>, and add to the pot with salt. Cover, and cook with occasional stirring until soft and translucent, about 5 minutes
+- Preheat a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Dice your <a href='/misc/veggies#onion'>onion</a>, and add to the pot with salt. Cover, and cook with occasional stirring until soft and translucent, about 5 minutes
 
 - When the <a href='/misc/veggies#onion'>onion</a> is soft, add in balsamic and spices (garlic powder, paprika, and black pepper)
 

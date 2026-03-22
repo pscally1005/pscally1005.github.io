@@ -68,7 +68,7 @@ Instructions:
     <b>Sauce</b><br>
     Below is a quick rundown on how to make my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a><br><br>
 
-    Cut an onion into a small dice, and add to a preheated medium pot with olive oil and minced garlic over medium heat<br><br>
+    Cut an onion into a small dice, and add to a preheated medium pot with <a href='/misc/olive-oil'>olive oil</a> and minced garlic over medium heat<br><br>
 
     Cover and cook until translucent, about 5 minutes<br><br>
 

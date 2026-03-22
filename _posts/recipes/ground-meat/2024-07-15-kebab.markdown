@@ -61,7 +61,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the spice mix, finely diced <a href='/misc/veggies#onion'>onion</a>, fresh dill, and <a href='/misc/meat#ground-beef'>ground meat</a>.  Optionally, you can sautee the <a href='/misc/veggies#onion'>onion</a> with a pinch of salt until translucent for extra flavor
 
-- Divide the <a href='/misc/meat'>meat</a> into 8 pieces, about 3 oz (85 g) each. Either make 8 patties for cooking inside, or 8 skewers for grilling.  You can also use skewers for inside cooking too if you have a big enough pan. Brush or <a href='https://amzn.to/3Hdg0gk'>spray</a> the outside of the <a href='/misc/meat'>meat</a> with olive oil
+- Divide the <a href='/misc/meat'>meat</a> into 8 pieces, about 3 oz (85 g) each. Either make 8 patties for cooking inside, or 8 skewers for grilling.  You can also use skewers for inside cooking too if you have a big enough pan. Brush or <a href='https://amzn.to/3Hdg0gk'>spray</a> the outside of the <a href='/misc/meat'>meat</a> with <a href='/misc/olive-oil'>olive oil</a>
 - <img src='/assets/Food/Ground Meat/Kebab/kebab-raw.jpg' alt='' class='instruction-image'>
 
 - Stovetop - heat a large skillet to medium high heat, and cook the patties on each side for about 5 minutes, or until cooked through (at least <a href='https://amzn.to/4kmobG2'>165F</a> for <a href='/misc/meat#ground-turkey'>turkey</a>)

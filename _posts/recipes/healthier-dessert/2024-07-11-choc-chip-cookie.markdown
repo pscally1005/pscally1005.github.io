@@ -53,7 +53,7 @@ tags:
 - chickpeas
 - garbanzo beans
 Description: |
-  Delicious <a href='/cookies'>cookies</a> made from a base of <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and <a href='/recipes/natural-peanut-butter'>natural nut butter</a>!  They're <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/fats'>oil</a> free, and <a href='/misc/celiac'>gluten free</a>.<br><br>
+  Delicious <a href='/cookies'>cookies</a> made from a base of <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and <a href='/recipes/natural-peanut-butter'>natural nut butter</a>!  They're <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/fats'>oil free</a>, and <a href='/misc/celiac'>gluten free</a>.<br><br>
 
   This is my standard chocolate chip cookie version.  For other delicious variations, check out my <a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a>, <a href='/recipes/peanut-butter-date-cookies'>Peanut Butter Date Cookies</a>, <a href='/recipes/mint-chocolate-chip-date-cookies'>Mint Chocolate Chip Date Cookies</a>, and <a href='/recipes/oatmeal-raisin-cookies'>Naturally Sweetened Oatmeal Raisin Cookies</a>.  Or make them all and taste test them to see which ones you like the best!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:

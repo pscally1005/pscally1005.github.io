@@ -60,7 +60,7 @@ tags:
 - tomato paste
 Description: Do you like <a href='/misc/fake-healthy-foods#baked-beans'>baked beans</a>? Of course you do. Unfortunately, most canned and homemade recipes contain tons and tons of <a href='/misc/hidden-sugar'>sugar</a>, containing as much as some desserts. This recipe is <a href='/misc/hidden-sugar'>sugar free</a>, and no that doesn't mean there's a ton of <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, or molasses instead. Gochujang does have a little bit of <a href='/misc/hidden-sugar'>added sugar</a>, but other than that this recipe is totally unsweetened, relying on just the sweetness of the <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#tomato'>tomatoes</a> for a delicious savory <a href='/recipes/sides'>side dish</a> that pairs great with some <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>.
 Instructions:
-- Preheat your oven to 350F, and heat a large pot or <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium heat with olive oil.  Cut your <a href='/misc/veggies#onion'>onion</a> into a fine dice, and add to the pot. Cover, and cook for about 5 minutes, or until translucent and lightly browned
+- Preheat your oven to 350F, and heat a large pot or <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>.  Cut your <a href='/misc/veggies#onion'>onion</a> into a fine dice, and add to the pot. Cover, and cook for about 5 minutes, or until translucent and lightly browned
 
 - Add <a href='/misc/veggies#garlic'>minced garlic</a>, gochujang (or chili paste) and water. Cover and simmer over low heat for 5 minutes
 

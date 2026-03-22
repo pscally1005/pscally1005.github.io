@@ -58,7 +58,7 @@ Description: This buffalo chicken dip is great for your raw <a href='/misc/veggi
 Instructions:
 - Preheat your oven to 400F
 
-- Directly in a <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a>, mix together <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, <a href='/recipes/hot-sauce'>hot sauce</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/fats'>oil</a>, and 1 cup (113 g) <a href='/misc/dairy#cheddar'>shredded cheese</a>.  Top with your remaining 1/2 cup (56 g) <a href='/misc/dairy#cheddar'>shredded cheese</a>
+- Directly in a <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a>, mix together <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>, <a href='/recipes/hot-sauce'>hot sauce</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/olive-oil'>oil</a>, and 1 cup (113 g) <a href='/misc/dairy#cheddar'>shredded cheese</a>.  Top with your remaining 1/2 cup (56 g) <a href='/misc/dairy#cheddar'>shredded cheese</a>
 - <img src='/assets/Food/Savory Sauces/Buffalo Chicken/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 400F for 25 minutes (uncovered), or until lightly bubbly.  Let cool for a few minutes before serving
@@ -68,6 +68,6 @@ Notes:
 - <a href='/recipes/shredded-chicken'><img src='/assets/Food/Chicken/Shredded/cover.jpg' alt='' class='instruction-image'></a>
 - <a href='/recipes/shredded-chicken'><img src='/assets/Food/Chicken/Shredded/jars.jpg' alt='' class='instruction-image'></a>
 
-- I would normally use <a href='/misc/fats'>oil</a>, but you can also use the leftover <a href='/misc/slow-cooker-chicken'>shmaltz</a> (<a href='/misc/slow-cooker-chicken'>chicken fat</a>) you rendered out from making the <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a> for even more flavor
+- I would normally use <a href='/misc/olive-oil'>oil</a>, but you can also use the leftover <a href='/misc/slow-cooker-chicken'>shmaltz</a> (<a href='/misc/slow-cooker-chicken'>chicken fat</a>) you rendered out from making the <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a> for even more flavor
 - <a href='/recipes/shredded-chicken'><img src='/assets/Food/Chicken/Shredded/jars.jpg' alt='' class='instruction-image'></a>
 ---

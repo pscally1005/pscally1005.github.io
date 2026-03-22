@@ -49,7 +49,7 @@ tags:
 - sautee
 Description: <a href='/misc/veggies#cauliflower'>Cauliflower rice</a> is a super easy and quick <a href='/misc/carbs'>low carb</a> <a href='/recipes/sides'>side</a> that is very versatile.  Like <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/veggies#cauliflower'>cauliflower</a> is bland, meaning it will taste like whatever you put on it.  I went for a little garlic powder and allspice here, and garnished with some parsley for a delicious <a href='/recipes/sides'>side</a> in just 10 minutes.  For some dishes with <a href='/misc/veggies#cauliflower'>cauliflower rice</a>, check out my <a href='/recipes/cheesy-cauliflower-rice-and-beans'>"Cheesy" Cauliflower Rice & Beans</a> and <a href='/recipes/lebanese-casserole'>Lebanese Riced Cauliflower Casserole</a>.
 Instructions:
-- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with EVOO
+- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with <a href='/misc/olive-oil'>EVOO</a>
 
 - Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> florets to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  I used a pound of frozen <a href='/misc/veggies#cauliflower'>cauliflower</a> that I defrosted, but fresh will work too.  Pulse a couple of times to chop it to a <a href='/misc/grains#brown-rice'>rice</a> consistency, but be careful not to overblend.  Here's what it should look like
 - <img src='/assets/Food/Sides/Cauli Rice/cauli-rice-1.jpg' alt='' class='instruction-image'>
