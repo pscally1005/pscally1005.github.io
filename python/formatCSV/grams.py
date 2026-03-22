@@ -65,6 +65,8 @@ def grams(food, mass, vol):
         m = "151"
     elif vol == "6 oz":
         m = "168"
+    elif vol == "7 oz" or vol == "7 oz can":
+        m = "198"
     elif vol == "8 oz" or vol == "1/2 lb":
         m = "226"
     elif vol == "2/3 lb":
@@ -255,7 +257,9 @@ def grams(food, mass, vol):
 
     # Denser spices
     elif food == "Nutmeg, ground" or food == "Garlic powder" or food == "Onion powder" or food == "Black pepper, ground" or food == "Paprika" or food == "Cumin, ground" or food == "Chili powder" or food == "Cayenne pepper" or food == "Old Bay" or food == "Turmeric, ground" or food == "Black pepper" or food == "Cinnamon, ground" or food == "Cinnamon":
-        if vol == "1/8 tsp":
+        if vol == "1/16 tsp":
+            m = "0.19"
+        elif vol == "1/8 tsp":
             m = "0.38"
         elif vol == "1/4 tsp":
             m = "0.75"
@@ -275,7 +279,9 @@ def grams(food, mass, vol):
 
     # Less dense spices
     elif food == "Allspice, ground" or food == "Cloves, ground" or food == "Garam masala" or food == "Ginger, ground" or food == "Coriander, ground":
-        if vol == "1/8 tsp":
+        if vol == "1/16 tsp":
+            m = "0.13"
+        elif vol == "1/8 tsp":
             m = "0.25"
         elif vol == "1/4 tsp":
             m = "0.5"

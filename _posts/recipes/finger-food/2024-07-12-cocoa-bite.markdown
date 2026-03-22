@@ -69,5 +69,5 @@ Notes:
 
 - You can use <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> instead of <a href='/misc/natural-sweeteners#honey'>honey</a>
 
-- <a href='/misc/chocolate-benefits'>Cacao powder</a> or carob powder will also work in place of <a href='/misc/chocolate-benefits'>cocoa powder</a>
+- <a href='/misc/chocolate-benefits'>Cacao powder</a> or <a href='https://amzn.to/4rhYDwh'>carob powder</a> will also work in place of <a href='/misc/chocolate-benefits'>cocoa powder</a>
 ---

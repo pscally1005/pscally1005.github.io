@@ -195,8 +195,9 @@ Tomato,tomato,0.98,454.00,0.00216,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0
 Cherry tomatoes,tomato,2.99,283.00,0.01057,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Bell pepper,pepper,1.99,454.00,0.00438,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Red jalapenos,pepper,2.00,454.00,0.00441,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
-Diced tomatoes,diced-tomatoes,1.48,784.00,0.00189,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
-"Diced tomatoes, unsalted",diced-tomatoes,1.48,784.00,0.00189,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+Diced tomatoes,diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+"Diced tomatoes, unsalted",diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
+Petite diced tomatoes,diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 "Cumin, ground",cumin,1.28,70.00,0.01829,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Red pepper flakes,red-pepper-flakes,1.44,49.00,0.02939,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Low sodium soy sauce,soy-sauce,1.58,420.00,0.00376,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,
@@ -318,7 +319,7 @@ Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0,TRUE,TRUE,TRUE
 Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://amzn.to/43wL0zp
 Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,https://amzn.to/43vQs5E
 Pecans,pecans,9.87,454.00,0.02174,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
-Diced green chiles,diced-green-chiles,0.84,112.00,0.00750,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/43APBRm
+Diced green chiles,diced-green-chiles,1.50,198.10,0.00757,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/43APBRm
 Spaghetti squash,spaghetti-squash,1.58,454.00,0.00348,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Chipotle peppers in adobo sauce,chipotle-peppers,1.63,196.00,0.00832,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/44QBd9M
 "Frozen kale, thawed",kale-frozen,1.57,336.00,0.00467,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,

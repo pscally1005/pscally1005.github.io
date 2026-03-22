@@ -1,6 +1,77 @@
 Nutrient,Amount,Unit,DV
-Calories,17,,
-"Vitamin C [Ascorbic acid]",30.0,mg,33 %
-"Sodium",250.00,mg,11 %
-"Protein",0.00,g,0 %
-"Carbohydrate",3.33,g,1 %
+Calories,21,,
+"Vitamin A, RAE",6.00,mcg,1 %
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.010,mg,1 %
+"Riboflavin [Vitamin B2]",0.030,mg,2 %
+"Niacin [Vitamin B3]",0.627,mg,4 %
+"Pantothenic acid [Vitamin B5]",0.084,mg,2 %
+"Vitamin B6",0.120,mg,7 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Folate, DFE [Vitamin B9]",54.00,mcg,14 %
+"Folate, food",54.00,mcg,
+"Folic acid",0.00,mcg,
+"Vitamin C [Ascorbic acid]",34.2,mg,38 %
+"Vitamin D",0.00,mcg,0 %
+"Calcium",36.00,mg,3 %
+"Iron",1.33,mg,7 %
+"Magnesium",4.00,mg,1 %
+"Phosphorus",11.00,mg,1 %
+"Potassium",113.00,mg,2 %
+"Selenium",0.30,mcg,1 %
+"Sodium",397.00,mg,17 %
+"Zinc",0.09,mg,1 %
+"Protein",0.72,g,1 %
+"Alanine",0.030,g,
+"Arginine",0.034,g,
+"Aspartic acid",0.103,g,
+"Cystine",0.014,g,
+"Glutamic acid",0.095,g,
+"Glycine",0.026,g,
+"Histidine",0.014,g,1 %
+"Isoleucine",0.023,g,1 %
+"Leucine",0.038,g,1 %
+"Lysine",0.032,g,1 %
+"Methionine",0.009,g,
+"Phenylalanine",0.022,g,
+"Proline",0.031,g,
+"Serine",0.029,g,
+"Threonine",0.026,g,2 %
+"Tryptophan",0.010,g,2 %
+"Tyrosine",0.015,g,
+"Valine",0.030,g,2 %
+"Phenylalanine + Tyrosine",0.037,g,1 %
+"Methionine + Cysteine",0.023,g,1 %
+"Carbohydrate",4.60,g,2 %
+"Fiber",1.70,g,6 %
+"Net carbs",2.9,g,
+"Fat",0.270,g,0 %
+"Saturated fatty acids",0.028,g,0 %
+"Butanoic acid",0.000,g,
+"Decanoic acid",0.000,g,
+"Docosanoic acid",0.000,g,
+"Dodecanoic acid",0.000,g,
+"Hexadecanoic acid",0.022,g,
+"Hexanoic acid",0.000,g,
+"Octadecanoic acid",0.003,g,
+"Octanoic acid",0.000,g,
+"Tetradecanoic acid",0.003,g,
+"Monounsaturated fatty acids",0.017,g,
+"Docosenoic acid",0.000,g,
+"Eicosenoic acid",0.000,g,
+"Hexadecenoic acid",0.000,g,
+"Octadecenoic acid",0.014,g,
+"Tetradecenoic acid",0.000,g,
+"Polyunsaturated fatty acids",0.153,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Eicosatetraenoic acid",0.000,g,
+"Octadecadienoic acid",0.145,g,
+"Octadecatetraenoic acid",0.000,g,
+"Octadecatrienoic acid",0.006,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Ash",1.31,g,
+"Water",93.25,g,
