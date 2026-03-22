@@ -1972,7 +1972,8 @@ LINKS = {
         "monkfruit chocolate chunks",
         "monkfruit chocolate chunk",
         "monk fruit chocolate",
-        "monkfruit chocolate"
+        "monkfruit chocolate",
+        "homemade sugar free chocolate"
     ],
     "/recipes/pumpkin-puree": [
         "pumpkin puree"
@@ -3567,7 +3568,10 @@ LINKS = {
         # "flours",
         "flour",
         "wheat flours",
-        "wheat flour"
+        "wheat flour",
+        "refined flour free",
+        "free of refined flours",
+        "free of refined flour"
     ],
     "/misc/grains#pasta-white": [
         "white pasta"
@@ -7472,7 +7476,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-04-07")):
+            if not file.startswith(("2026-03-21")):
                 continue
 
             # exclude some files
