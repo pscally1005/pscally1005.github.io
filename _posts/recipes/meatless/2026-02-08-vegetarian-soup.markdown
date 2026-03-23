@@ -72,16 +72,19 @@ Notes:
 
 - Instead of cooking on low for 8 hours, you can also cook on high for 4 hours
 
-- Optionally mix in some <a href='/misc/meat#ground-beef'>ground beef</a> and <a href='/misc/dairy#cheddar'>shredded cheese</a> to make it more filling
+- Optionally mix in some <a href='/misc/meat#ground-turkey'>ground meat</a> to add more <a href='/misc/protein'>protein</a> and make it more filling (though it obviously won't be vegetarian).  You can either sautee 1.3 lb (590 g) of <a href='/misc/meat#ground-turkey'>ground meat</a> and stir it in at the end, or add the raw <a href='/misc/meat'>meat</a> to the slow cooker from the beginning
+- <img src='/assets/Food/Meatless/Vegetarian Soup/with-meat.jpg' alt='' class='instruction-image'>
 
 - You can also make it creamier by mixing in 1 cup (226 g) of (whipped) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (or <a href='/misc/dairy#yogurt'>Greek yogurt</a>) at the end, which also adds some <a href='/misc/protein'>protein</a> as well
 
 - |
   COMPARE(
     "vicsoup",
+    "vicsoupmeat",
     "vicsoupcc";
 
     "<a href='#recipe'>Original<br>Recipe</a>",
+    "With<br><a href='/misc/meat#ground-turkey'>Ground<br>Meat</a>",
     "With<br><a href='/misc/dairy#cottage-cheese'>Cottage<br>Cheese</a>";
 
     "Calories",

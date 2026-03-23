@@ -694,7 +694,7 @@ def grams(food, mass, vol):
             m = "810"
 
     # Flours
-    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese":
+    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Cornstarch":
         if vol == "2 tbsp":
             m = "15"
         elif vol == "3 tbsp":
@@ -1487,6 +1487,19 @@ def grams(food, mass, vol):
         elif vol == "5 cup":
             m = "1200"
 
+    # Yolks
+    elif food == "Egg yolk":
+        if vol == "1 large":
+            m = "17"
+        elif vol == "2 large":
+            m = "34"
+        elif vol == "3 large":
+            m = "51"
+        elif vol == "4 large":
+            m = "68"
+        elif vol == "5 large":
+            m = "85"
+
     # Magnesium
     elif food == "Magnesium Glycinate":
         if vol == "1 scoop":
@@ -1557,6 +1570,8 @@ def grams(food, mass, vol):
             m = "38"
         elif vol == "1/4 cup" or vol == "4 tbsp":
             m = "50"
+        elif vol == "14 tsp":
+            m = "56"
         elif vol == "5 tbsp":
             m = "63"
         elif vol == "1/3 cup":

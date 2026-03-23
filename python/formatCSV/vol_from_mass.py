@@ -23,7 +23,7 @@ def vol_from_mass(food, mass, vol):
             v = "2 tbsp"
         elif mass == "37.5" or mass == "37" or mass == "38" or mass == "36":
             v = "3 tbsp"
-        elif mass == "50" or mass == "48":
+        elif mass == "50" or mass == "48" or mass == "56":
             v = "1/4 cup"
         elif mass == "62.5" or mass == "62" or mass == "63" or mass == "60":
             v = "5 tbsp"
@@ -126,7 +126,7 @@ def vol_from_mass(food, mass, vol):
             v = "2.5 tbsp"
         elif mass == "24":
             v = "3 tbsp"
-        elif mass == "32":
+        elif mass == "32" or mass == "30":
             v = "1/4 cup"
         elif mass == "40":
             v = "5 tbsp"
@@ -1300,6 +1300,19 @@ def vol_from_mass(food, mass, vol):
             v = "7 large"
         elif mass == "400" or mass == "402":
             v = "8 large"
+
+    # Yolks
+    elif food == "Egg yolk":
+        if mass == "17":
+            v = "1 large"
+        elif mass == "34":
+            v = "2 large"
+        elif mass == "51":
+            v = "3 large"
+        elif mass == "68":
+            v = "4 large"
+        elif mass == "85":
+            v = "5 large"
 
     # Magnesium
     elif food == "Magnesium Glycinate":

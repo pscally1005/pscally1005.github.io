@@ -1953,8 +1953,8 @@ LINKS = {
         "pb"
     ],
     "/recipes/monkfruit-chocolate-chunks": [
-        "sugar free chocolate chips",
-        "sugar free chocolate chip",
+        # "sugar free chocolate chips",
+        # "sugar free chocolate chip",
         "sugar free chocolate"
         "sugar free chocolate chunks",
         "sugar free chocolate chunk",
@@ -4667,6 +4667,10 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4kGEfC5": [
+        "sugar free chocolate chips",
+        "sugar free chocolate chip"
+    ],
     "https://amzn.to/43lbOE5": [
         "magnesium glycinate",
         "magnesium <i>glycinate</i>",
@@ -5904,6 +5908,7 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "into chocolate chips",
     "and oil, as",
     "amount of oil",
     "with the oil",

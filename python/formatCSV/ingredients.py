@@ -348,7 +348,7 @@ def ingredients(food):
         f = "Feta cheese"
     elif food == "Egg, fresh, raw, white" or food == "Eggs, egg white, Large, Grade A":
         f = "Egg whites"
-    elif food == "Eggs, egg yolk, Large, Grade A":
+    elif food == "Eggs, egg yolk, Large, Grade A" or food == "Egg, fresh, raw, yolk":
         f = "Egg yolk"
     elif food == "Cheese, cheddar" or food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND" or food == "Cheese, Mexican blend":
         f = "Shredded cheddar cheese"

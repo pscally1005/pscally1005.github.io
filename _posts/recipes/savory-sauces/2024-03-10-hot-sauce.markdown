@@ -20,7 +20,7 @@ copycat: no
 permalink: /recipes/hot-sauce
 image: /assets/Food/Savory Sauces/Hot Sauce/hot-sauce-cover.jpg
 file: hotsauce
-servingSize:
+servingSize: 1 tsp (5 g)
 section1:
 start2:
 section2:
