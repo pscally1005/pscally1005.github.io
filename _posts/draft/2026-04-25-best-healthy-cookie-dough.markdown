@@ -53,30 +53,30 @@ tags:
 - best cookies
 - gluten free
 - sugar free
-Description: That's quite a bold claim I'm making here.  Why do I call this the best healthy cookie dough?  The main reason is their method.  Making this edible cookie dough is identical to making a batch of standard cookie dough, just with butter, sugar, and white flour swapped for healthier alternatives (coconut oil, <a href='https://amzn.to/4ceFnvP'>monk fruit</a>, and almond flour) at a 1:1 rate.  Doing so keeps the process perfectly familiar, while also resulting in a delicious and rich edible cookie dough that's sugar free, gluten free, and high in healthy fats.  For a similar recipe, check out The Best Healthy Brownies Recipe, or see the full article, Healthier Brownies & Cookies Experiment
+Description: That's quite a bold claim I'm making here.  Why do I call this the best healthy cookie dough?  The main reason is their method.  Making this edible cookie dough is identical to making a batch of <a href='/recipes/chocolate-chip-cookies'>standard cookie dough</a>, just with <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> swapped for healthier alternatives (<a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://amzn.to/4ceFnvP'>monk fruit</a>, and <a href='/misc/nuts#almonds'>almond flour</a>) at a 1:1 rate.  Doing so keeps the process perfectly familiar, while also resulting in a delicious and rich <a href='/recipes/edible-cookie-dough-bites'>edible cookie dough</a> that's <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, and high in <a href='/misc/fats'>healthy fats</a>.  For a similar recipe, check out <a href='/recipes/best-healthy-brownies'>The Best Healthy Brownies Recipe</a>, or see the full article, <a href='/misc/healthier-brownies-and-cookies-experiment'>Healthier Brownies & Cookies Experiment</a>
 Instructions:
-- In a large glass bowl, melt coconut oil in the microwave. Add in your granulated monk fruit, and beat with an electric hand mixer for 2 minutes to help dissolve the sweetener
+- In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, melt <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave. Add in your <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> for 2 minutes to help dissolve the sweetener
 
-- Beat in the milk, vanilla, and salt. Switch to a silicone spatula, and mix in the cornstarch and almond flour. Fold in the chocolate chips
+- Beat in the <a href='/misc/dairy#skim-milk'>milk</a>, vanilla, and salt. Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the cornstarch and <a href='/misc/nuts#almonds'>almond flour</a>. Fold in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
 - <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookies-bowl.jpg' alt='' class='instruction-image'>
 
 - Chill the bowl of dough in the fridge for 30 minutes
 
-- Line a large cookie sheet with parchment paper. Roll the dough into 32 balls, and 17 g each. Store cookie dough bites in the fridge
+- Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Roll the dough into 32 balls, about 22 g each (1.5 tbsp). Store cookie dough bites in the fridge
 - <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookie-dough.jpg' alt='' class='instruction-image'>
 Notes:
-- Any kind of milk will work.  I went with almond milk today, but any unsweetened animal or plant basedmilk will do
+- Any kind of <a href='/misc/dairy#skim-milk'>milk</a> will work.  I went with <a href='/misc/dairy#almond-milk'>almond milk</a> today, but any unsweetened animal or plant based milk will do
 
-- You can either use sugar free chocolate chips, or homemade Monk Fruit Chocolate Chunks.  I tried it with a mixture of both, and both were great
+- You can either use <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>, or homemade <a href='/recipes/monkfruit-chocolate-chunks'>Monk Fruit Chocolate Chunks</a>.  I tried it with a mixture of both, and both were great
 
-- You may want to chill the dough for 5-10 minutes after mixing in the almond flour before folding in the chocolate chips to prevent the chocolate from melting
+- You may want to chill the dough for 5-10 minutes after mixing in the <a href='/misc/nuts#almonds'>almond flour</a> before folding in the <a href='/misc/chocolate-benefits'>chocolate chips</a> to prevent the <a href='/misc/chocolate-benefits'>chocolate</a> from melting
 
-- The main difference this and standard cookie dough is that there's a mild cooling effect from the erythritol in the sweetener.  Do you know what else has a cooling effect?  That's right, mint.  You can very easily "pass off" the cooling taste as mint by adding in 1/4 tsp (1.25 g) mint extract for a mint chocolate chip cookie
+- The main difference this and <a href='/recipes/chocolate-chip-cookies'>standard cookie dough</a> is that there's a mild cooling effect from the <a href='https://amzn.to/4lkg3Hr'>erythritol</a> in the sweetener.  Do you know what else has a cooling effect?  That's right, mint.  You can very easily "pass off" the cooling taste as mint by adding in 1/4 tsp (1.25 g) mint extract for a mint chocolate chip cookie
 
-- If you would like to bake these instead, swap the milk for an egg, and add 1/2 tsp (3 g) baking soda.  Lightly flatten, and bake for 10 minutes on a parchment lined cookie sheet at 350F, or until lightly browned
+- If you would like to bake these instead, swap the <a href='/misc/dairy#skim-milk'>milk</a> for an <a href='/misc/meat#eggs'>egg</a>, and add 1/2 tsp (3 g) baking soda.  Lightly flatten, and bake for 10 minutes on a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a> at 350F, or until lightly browned
 - <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookies-cover.jpg' alt='' class='instruction-image'>
 
-- Below is a table comparing the nutrition facts of <a href='#recipe'>this recipe</a> to a standard version of cookies
+- Below is a table comparing the nutrition facts of <a href='#recipe'>this recipe</a> to a <a href='/recipes/chocolate-chip-cookies'>standard version of cookies</a>
 - |
   COMPARE(
     "cookiedoughhealthier",

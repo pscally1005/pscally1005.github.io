@@ -2411,8 +2411,8 @@ LINKS = {
     ],
     "/recipes/mint-chocolate-chip-date-cookies": [
         "Mint Chocolate Chip Date Cookies",
-        "mint chocolate chip cookies",
-        "mint chocolate chip cookie",
+        # "mint chocolate chip cookies",
+        # "mint chocolate chip cookie",
         "mint date cookies",
         "mint date cookie",
         "mint chocolate date cookies",
@@ -5068,6 +5068,7 @@ LINKS = {
         "metal bowl"
     ],
     "https://amzn.to/45yqsbM": [
+        "electric hand mixer",
         "hand mixer"
     ],
     "https://amzn.to/4dFeyPZ": [
@@ -5981,13 +5982,14 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "actual baked cookies",
+    "making this edible cookie dough",
     "If you're a fan of edible cookie dough",
     "crunchy cookies",
     "crunchy cookie",
     "the cookies and the brownies",
     "mint chocolate chip cookie or mint chocolate brownie",
-    # "mint chocolate chip cookies",
-    # "mint chocolate chip cookie",
+    "mint chocolate chip cookies",
+    "mint chocolate chip cookie",
     "mint chocolate brownies",
     "mint chocolate brownie",
     "baked brownies",
@@ -7646,7 +7648,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-04-22")):
+            if not file.startswith(("2026-04-25")):
                 continue
 
             # exclude some files
