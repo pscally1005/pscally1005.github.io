@@ -20,7 +20,7 @@ copycat: no
 permalink: /recipes/neopolitan-banana-ice-cream
 image: /assets/Food/Healthier Dessert/Neopolitan/neopolitan-cover.jpg
 file: neopolitan
-servingSize:
+servingSize: 1 cup (132 g)
 section1: Vanilla
 start2: Frozen Bananas, overripe
 section2: Strawberry

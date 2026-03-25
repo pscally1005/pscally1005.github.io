@@ -16,7 +16,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
-copycat: no
+copycat: yes
 permalink: /recipes/pan-de-higo
 image: /assets/Food/Finger Food/Pan de Higo/cover.jpg
 file: pandehigo
@@ -54,12 +54,12 @@ tags:
 - cinnamon
 - gluten free
 - sugar free
-Description: Pan de Higo, also known as Spanish Fig Cake or Spanish Fig Bread, is a traditional Spanish <a href='/recipes/healthier-dessert'>dessert</a>, snack, or appetizer made from just <a href='/misc/fruit#fig-dried'>figs</a> and <a href='/misc/nuts#almonds'>almonds</a>.  It's naturally free of <a href='/misc/celiac'>gluten</a> and <a href='/misc/hidden-sugar'>added sugars</a>, typically having just <a href='/misc/nuts'>nuts</a>, <a href='/misc/fake-healthy-foods#dried-fruit'>dried fruit</a>, cinnamon, brandy, and sometimes <a href='/misc/natural-sweeteners#honey'>honey</a>.  These are essentially Larabars, which are energy snack bars made from just <a href='/misc/fake-healthy-foods#dried-fruit'>dried fruit</a> and <a href='/misc/nuts'>nuts</a>.
+Description: Pan de Higo, also known as Spanish Fig Cake or Spanish Fig Bread, is a traditional Spanish <a href='/recipes/healthier-dessert'>dessert</a>, snack, or appetizer made from just <a href='/misc/fruit#fig-dried'>figs</a> and <a href='/misc/nuts#almonds'>almonds</a>.  It's naturally free of <a href='/misc/celiac'>gluten</a> and <a href='/misc/hidden-sugar'>added sugars</a>, typically having just <a href='/misc/nuts'>nuts</a>, <a href='/misc/fake-healthy-foods#dried-fruit'>dried fruit</a>, cinnamon, brandy, and sometimes <a href='/misc/natural-sweeteners#honey'>honey</a>.  These are essentially <a href='https://amzn.to/4jnf0n6'>Larabars</a>, which are energy snack bars made from just <a href='/misc/fake-healthy-foods#dried-fruit'>dried fruit</a> and <a href='/misc/nuts'>nuts</a>.
 Instructions:
 - In a powerful <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together <a href='/misc/fake-healthy-foods#dried-fruit'>dried fruit</a>, <a href='/misc/nuts'>nuts</a>, cinnamon, and extract until as combined as possible. You'll end up with a very sticky dough spinning around in your <a href='https://amzn.to/4q0AUjI'>food processor</a>.  You want as little bits of <a href='/misc/fruit'>fruit</a> and <a href='/misc/nuts'>nuts</a> as you can, but some chunks are okay
 - <img src='/assets/Food/Finger Food/Pan de Higo/blended.jpg' alt='' class='instruction-image'>
 
-- Line a <a href='https://amzn.to/3Ffts2R'>meal prep container</a> (my <a href='https://amzn.to/3Ffts2R'>glass ones</a>, are 6.2x4.5") with parchment paper. Press the dough into the pan, and top with parchment paper. Press dough hard to spread it to all sides, and ensure an even thickness.  Remove the paper
+- Line a <a href='https://amzn.to/3Ffts2R'>small container</a> (my <a href='https://amzn.to/3Ffts2R'>glass ones</a> are 6.2x4.5") with parchment paper. Press the dough into the pan, and top with parchment paper. Press dough hard to spread it to all sides, and ensure an even thickness.  Remove the paper top
 - <img src='/assets/Food/Finger Food/Pan de Higo/covered.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Finger Food/Pan de Higo/not-covered.jpg' alt='' class='instruction-image'>
 
