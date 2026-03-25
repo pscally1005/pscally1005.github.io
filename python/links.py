@@ -5979,6 +5979,9 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "certainly be baking",
+    "actual baked cookies",
+    "If you're a fan of edible cookie dough",
     "crunchy cookies",
     "crunchy cookie",
     "the cookies and the brownies",
@@ -7643,7 +7646,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-03-21")):
+            if not file.startswith(("2026-04-19")):
                 continue
 
             # exclude some files
