@@ -615,6 +615,11 @@ def vol_from_mass(food, mass, vol):
         elif mass == "336":
             v = "3 cup"
 
+    # Ice cream
+    elif food == "Vanilla ice cream":
+        if mass == "135":
+            v = "1 cup"
+
     # Yogurt & cottage cheese
     elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt":
         if mass == "14":

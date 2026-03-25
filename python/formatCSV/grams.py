@@ -667,6 +667,11 @@ def grams(food, mass, vol):
         elif vol == "6 serving":
             m = "336"
 
+    # Ice cream
+    elif food == "Vanilla ice cream":
+        if vol == "1 cup":
+            m = "135"
+
     # Shredded cheese
     elif food == "Shredded mozzarella cheese, low moisture part skim" or food == "Cheddar cheese" or food == "Mozzarella cheese, fat free" or food == "Shredded cheddar cheese":
         if vol == "1/4 cup" or vol == "1 oz":

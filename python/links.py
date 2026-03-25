@@ -10,6 +10,32 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/best-healthy-brownies": [
+        "the best healthy brownies recipe",
+        "the best healthy brownies",
+        "best healthy brownies recipe",
+        "best healthy brownies"
+    ],
+    "/recipes/best-healthy-cookie-dough": [
+        "the best healthy cookie dough recipe",
+        "the best healthy cookie dough",
+        "the best healthy cookies",
+        "the best healthy cookie",
+        "best healthy cookie dough recipe",
+        "best healthy cookie dough",
+        "best healthy cookies",
+        "best healthy cookie",
+        "best healthy cookies recipe",
+        "best healthy cookie recipe",
+        "the best healthy chocolate chip cookies recipe",
+        "the best healthy chocolate chip cookie recipe",
+        "the best healthy chocolate chip cookies",
+        "the best healthy chocolate chip cookie",
+        "best healthy chocolate chip cookies recipe",
+        "best healthy chocolate chip cookie recipe",
+        "best healthy chocolate chip cookies",
+        "best healthy chocolate chip cookie"
+    ],
     "/recipes/no-bake-white-chocolate-protein-brownies": [
         "no-bake white chocolate protein brownies",
         "no bake white chocolate protein brownies",
@@ -2341,7 +2367,8 @@ LINKS = {
         "my standard brownie recipe",
         "standard brownie recipe",
         "standard brownies",
-        "standard brownie"
+        "standard brownie",
+        "standard version of brownies"
     ],
     "/recipes/chocolate-chip-cookies": [
         "classic chocolate chip cookies",
@@ -2357,7 +2384,12 @@ LINKS = {
         "standard chocolate chip cookies",
         "standard cookies",
         "standard chocolate chip cookie",
-        "standard cookie"
+        "standard cookie",
+        "standard cookie dough",
+        "traditional cookie dough",
+        "classic cookie dough",
+        "typical homemade cookie",
+        "standard version of cookies",
     ],
     "/recipes/chocolate-chip-date-cookies": [
         "chocolate chip date cookies",
@@ -4607,8 +4639,8 @@ LINKS = {
         "fat",
         "added oils",
         "added oil",
-        "highly refined oils",
-        "highly refined oil",
+        # "highly refined oils",
+        # "highly refined oil",
         "heavily refined oils",
         "heavily refined oil",
         "refined oils",
@@ -5143,6 +5175,16 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/healthier-brownies-and-cookies-experiment": [
+        "healthier brownies & cookies experiment",
+        "healthier brownies & cookies",
+        "healthy brownies & cookies experiment",
+        "healthy brownies & cookies",
+        "healthier brownies and cookies experiment",
+        "healthier brownies and cookies",
+        "healthy brownies and cookies experiment",
+        "healthy brownies and cookies"
+    ],
     "/misc/olive-oil": [
         "extra-virgin olive oil",
         "extra virgin olive oil",
@@ -5722,7 +5764,9 @@ LINKS = {
         "safflower oil",
         "soybean oil",
         "palm oil",
-        "sunflower oil"
+        "sunflower oil",
+        "highly refined oils",
+        "highly refined oil",
     ],
     "/misc/fake-healthy-foods#frozen-meals": [
         "pre-prepared processed meals",
@@ -5935,6 +5979,21 @@ LINKS = {
 }
 
 EXCLUDED_PHRASES = [
+    "crunchy cookies",
+    "crunchy cookie",
+    "the cookies and the brownies",
+    "mint chocolate chip cookie or mint chocolate brownie",
+    # "mint chocolate chip cookies",
+    # "mint chocolate chip cookie",
+    "mint chocolate brownies",
+    "mint chocolate brownie",
+    "baked brownies",
+    "raw cookie dough",
+    "these cookies",
+    "fairly small cookie",
+    "tate's cookie",
+    "these brownies",
+    "fairly small brownie",
     "true for cookies",
     "passable cookies",
     "passable cookie",
@@ -6112,10 +6171,10 @@ EXCLUDED_PHRASES = [
     "cookie ingredients",
     "brownie ingredients",
     "bread ingredients",
-    "traditional brownies",
-    "traditional brownie",
-    "traditional cookies",
-    "traditional cookie",
+    # "traditional brownies",
+    # "traditional brownie",
+    # "traditional cookies",
+    # "traditional cookie",
     "black bean brownies",
     "black bean brownie",
     "chickpea brownies",

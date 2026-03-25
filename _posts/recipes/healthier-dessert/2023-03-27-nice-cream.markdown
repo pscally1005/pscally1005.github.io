@@ -20,7 +20,7 @@ copycat: no
 permalink: /recipes/nice-cream
 image: /assets/Food/Healthier Dessert/Nice Cream/cover.jpg
 file: nicecream
-servingSize:
+servingSize: 1 cup (110 g)
 section1:
 start2:
 section2:
@@ -70,47 +70,65 @@ Notes:
     <li>
       <b>Chocolate</b>
       <ul>
-        <li>6 tbsp (30 g) cocoa powder</li>
-        <li>1/2 tsp (2.5 g) vanilla extract</li>
+        <li>6 tbsp (30 g) Cocoa powder</li>
+        <li>1/2 tsp (2.5 g) Vanilla extract</li>
       </ul>
     </li>
 
     <li>
       <b>Vanilla</b>
       <ul>
-        <li>1 tsp (5 g) vanilla extract</li>
+        <li>1 tsp (5 g) Vanilla extract</li>
       </ul>
     </li>
 
     <li>
       <b>Peanut Butter</b>
       <ul>
-        <li>2 tbsp (32 g) natural peanut butter</li>
+        <li>2 tbsp (32 g) <a href='/recipes/natural-peanut-butter'>Natural peanut butter</a></li>
       </ul>
     </li>
 
     <li>
         <b>Mint</b>
       <ul>
-        <li>1/4 tsp (1.25 g) mint extract</li>
+        <li>1/4 tsp (1.25 g) Mint extract</li>
       </ul>
     </li>
 
     <li>
       <b>Fruity</b>
         <ul>
-          <li>Replace half of the frozen bananas with frozen strawberries, blueberries, or mangoes</li>
-          <li>1/2 tsp (1.5 g) cinnamon</li>
+          <li>Replace half of the frozen <a href='/misc/fruit#banana'>bananas</a> with frozen <a href='/misc/fruit#strawberries'>strawberries</a>, <a href='/misc/fruit#blueberries'>blueberries</a>, or <a href='/misc/fruit#mangos'>mangos</a></li>
+          <li>1/2 tsp (1.5 g) Cinnamon</li>
         </ul>
     </li>
 
     <li>
       <b>Almond</b>
         <ul>
-          <li>2 tbsp (32 g) almond butter</li>
-          <li>1/2 tsp (2.5 g) almond extract</li>
+          <li>2 tbsp (32 g) <a href='/misc/nuts#almonds'>Almond butter</a></li>
+          <li>1/2 tsp (2.5 g) Almond extract</li>
         </ul>
     </li>
 
   </ul>
+
+- Below is a table comparing the nutrition facts of <a href='#recipe'>this recipe</a> to standard ice cream per cup.  As you can see, the homemade banana ice cream is significantly lower in <a href='/misc/fat'>fat</a> and <a href='/misc/calories'>calories</a>, while being free of any <a href='/misc/hidden-sugar'>added sugar</a>!
+- |
+  COMPARE(
+    "nicecream",
+    "vanillaicecream";
+
+    "<a href='#recipe'>Healthier<br>Base</a>",
+    "Standard<br>Vanilla";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Added Sugar",
+    "Fiber",
+    "Glycemic Index"
+  )
 ---
