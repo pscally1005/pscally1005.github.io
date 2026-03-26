@@ -2827,6 +2827,8 @@ LINKS = {
         "sulfur compounds",
         "sulfur compound",
         "anthocyanins nasunin",
+        "antioixdant compounds",
+        "antioxidant compound",
         "anthocyanin nasunin",
         "nasunin",
         "carotenoids capsanthin",
@@ -3649,7 +3651,8 @@ LINKS = {
     "/misc/meat": [
         "Let's Meet The Meats",
         "meats",
-        "meat"
+        "meat",
+        "lean meats"
     ],
     "/misc/meat#bacon": [
         "bacon"
@@ -4534,6 +4537,8 @@ LINKS = {
     ],
     "/misc/carbs": [
         "whole food sources of sugar",
+        "carbohydrate-rich",
+        "carb-rich",
         "whole food carbohydrates",
         "whole food carbs",
         "whole food carbohydrate",
@@ -4581,6 +4586,8 @@ LINKS = {
         "hydrogenated oils",
         "hydrogenated oil",
         "heart healthy fats",
+        "healthiest fats",
+        "healthiest fat",
         "healthy fats",
         "healthy fat",
         "unhealthy fats",
@@ -4641,10 +4648,10 @@ LINKS = {
         "added oil",
         # "highly refined oils",
         # "highly refined oil",
-        "heavily refined oils",
-        "heavily refined oil",
-        "refined oils",
-        "refined oil",
+        # "heavily refined oils",
+        # "heavily refined oil",
+        # "refined oils",
+        # "refined oil",
         "refined fats",
         "refined fat",
         "oils",
@@ -4690,6 +4697,8 @@ LINKS = {
         "calorically dense",
         "calorically",
         "caloric",
+        "calorie-dense",
+        "calorie dense",
         "low calories",
         "high calories",
         "low-calories",
@@ -5192,7 +5201,15 @@ LINKS = {
         "virgin olive oil",
         "olive oil",
         "EVOO",
-        "oil"
+        "oil",
+        "olive oils",
+        "extra-virgin oils",
+        "extra virgin oils",
+        "extra-virgin oil",
+        "extra virgin oil",
+        "olive oil's",
+        "extra-virgin olive oil's",
+        "extra virgin olive oil's"
     ],
     "/misc/natural-sweeteners": [
         "natural sweeteners",
@@ -5768,6 +5785,10 @@ LINKS = {
         "sunflower oil",
         "highly refined oils",
         "highly refined oil",
+        "heavily refined oils",
+        "heavily refined oil",
+        "refined oils",
+        "refined oil"
     ],
     "/misc/fake-healthy-foods#frozen-meals": [
         "pre-prepared processed meals",
@@ -5981,7 +6002,14 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "blends of oils",
     "actual baked cookies",
+    "canola, corn",
+    "safflower, soybean",
+    "and sunfower oils",
+    '"vegetable" oil',
+    "animal fats",
+    "animal fat",
     "making this edible cookie dough",
     "If you're a fan of edible cookie dough",
     "crunchy cookies",
@@ -6063,6 +6091,26 @@ EXCLUDED_PHRASES = [
     "oil substitute",
     "as opposed to oil",
     "chocolate flavor",
+    "olive trees",
+    "stone wheels",
+    "high-quality oils",
+    "higher-quality oils",
+    "low-quality oils",
+    "lower-quality oils",
+    "lower-grade oils",
+    "lower grade oils",
+    "higher-grade oils",
+    "higher grade oils",
+    "high-quality oil",
+    "higher-quality oil",
+    "low-quality oil",
+    "lower-quality oil",
+    "177 - 210 C",
+    "lower-grade oil",
+    "lower grade oil",
+    "higher-grade oil",
+    "cooking fat",
+    "higher grade oil",
     "olive tree",
     "culinary oils",
     "culinary oil",
@@ -7648,7 +7696,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-04-25")):
+            if not file.startswith(("2026-04-07")):
                 continue
 
             # exclude some files
