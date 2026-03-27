@@ -62,10 +62,10 @@ Instructions:
 - Add the <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/dairy#skim-milk'>milk</a> (or water), vanilla, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until smooth
 - <img src='/assets/Food/Healthier Dessert/Double Choc Cookie/unblended.jpg' alt='' class='instruction-image'>
 
-- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> (or reserve them to top with the <a href='/misc/chocolate-benefits'>chocolate chips</a>). The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
+- Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> (or reserve them to top with the chocolate chips). The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
 - <img src='/assets/Food/Healthier Dessert/Double Choc Cookie/blended.jpg' alt='' class='instruction-image'>
 
-- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be.  Instead of folding the <a href='/misc/chocolate-benefits'>chocolate chips</a> into the batter, you can press them into the top of the cookies here
+- Using a cookie scoop (mine is 1.5 tbsp), scoop the cookie dough onto to the pan. These cookies won't flatten or spread as they bake, and will only puff up slightly. Flatten to as wide as you'd like the finished cookies to be.  Instead of folding the chocolate chips into the batter, you can press them into the top of the cookies here
 
 - Bake for about 14 minutes at 350F, or until the cookies are set to the touch
 - <img src='/assets/Food/Healthier Dessert/Double Choc Cookie/baked.jpg' alt='' class='instruction-image'>
@@ -78,5 +78,5 @@ Notes:
 
 - I'm using blended <a href='/misc/fruit#dates'>dates</a> here as my sweetener, but any <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> will work, like <a href='/misc/fruit#raisins'>raisins</a>, <a href='/misc/fruit#fig-dried'>dried figs</a>, or <a href='/misc/fruit#prune'>prunes</a>
 
-- To make it vegan, swap the <a href='/misc/dairy#skim-milk'>milk</a> for either <a href='/misc/dairy#almond-milk'>almond milk</a> or water, and make sure to use vegan <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- To make it vegan, swap the <a href='/misc/dairy#skim-milk'>milk</a> for either <a href='/misc/dairy#almond-milk'>almond milk</a> or water, and make sure to use vegan chocolate chips
 ---

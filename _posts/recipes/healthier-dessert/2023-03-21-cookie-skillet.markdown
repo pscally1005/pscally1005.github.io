@@ -58,10 +58,10 @@ Instructions:
 
 - To the <a href='https://amzn.to/4q0AUjI'>food processor</a> with the <a href='/misc/fruit#dates'>dates</a>, add an entire can of <a href='/misc/beans#chickpeas'>chickpeas</a> (NOT drained or rinsed), <a href='/misc/fruit#banana'>bananas</a>, and <a href='/misc/nuts#peanuts'>peanut butter</a> (or any other <a href='/recipes/natural-peanut-butter'>nut/seed butter</a>). Blend until smooth, and no chunks remain. Transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
 
-- With a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, mix in <a href='/misc/nuts#almonds'>almond</a> (or vanilla) extract, baking powder, baking soda, and salt. Mix in the <a href='/misc/grains#oats'>oat flour</a> until fully combined. Fold in half the <a href='/misc/chocolate-benefits'>chocolate chips</a>, reserving the rest for the top
+- With a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, mix in <a href='/misc/nuts#almonds'>almond</a> (or vanilla) extract, baking powder, baking soda, and salt. Mix in the <a href='/misc/grains#oats'>oat flour</a> until fully combined. Fold in half the chocolate chips, reserving the rest for the top
 - <img src='/assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer your batter to the pan, and spread to an even thickness. Top with your remaining <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Transfer your batter to the pan, and spread to an even thickness. Top with your remaining chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-raw.jpg' alt='' class='instruction-image'>
 
 - Bake in a 350F oven for about 30 minutes, or until lightly golden brown and it registers an <a href='https://amzn.to/4kmobG2'>internal temperature</a> of <a href='https://amzn.to/4kmobG2'>195F</a>

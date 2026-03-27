@@ -55,10 +55,10 @@ tags:
 - no bake
 Description: The classic Internet/Pinterest/TikTok <a href='/recipes/healthier-dessert'>healthy dessert</a> is some combination of <a href='/misc/fruit#banana'>bananas</a>, chocolate chips, <a href='/misc/grains#oats'>oats</a>, and <a href='/misc/nuts#peanuts'>peanut butter</a> (I'm sure you've noticed). This recipe is my take on that formula, and works really well out of the freezer as a <a href='/recipes/healthier-dessert'>dessert</a> or even a <a href='/recipes/breakfast'>breakfast</a>. For a baked recipe with similar ingredients, see my <a href='/recipes/peanut-butter-banana-bake'>Peanut Butter Banana Bars</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- Mash the ripe <a href='/misc/fruit#banana'>bananas</a> with a fork. Mix in the <a href='/misc/nuts#peanuts'>peanut butter</a>, vanilla, and salt until fully combined.  Stir in the <a href='/misc/grains#oats'>oat flour</a>.  Fold in most of your <a href='/misc/chocolate-benefits'>chocolate chips</a>, reserving some for the top
+- Mash the ripe <a href='/misc/fruit#banana'>bananas</a> with a fork. Mix in the <a href='/misc/nuts#peanuts'>peanut butter</a>, vanilla, and salt until fully combined.  Stir in the <a href='/misc/grains#oats'>oat flour</a>.  Fold in most of your chocolate chips, reserving some for the top
 - <img src='/assets/Food/Healthier Dessert/Cookie Bar/bowl.jpg' alt='' class='instruction-image'>
 
-- Line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper.  Evenly press your dough into all sides of the pan, and press in your remaining <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper.  Evenly press your dough into all sides of the pan, and press in your remaining chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Cookie Bar/pan.jpg' alt='' class='instruction-image'>
 
 - Freeze for about 1 hour (or refrigerate for 3) before slicing into 16. Store in the fridge or freezer

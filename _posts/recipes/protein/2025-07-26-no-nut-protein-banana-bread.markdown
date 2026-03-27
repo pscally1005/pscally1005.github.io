@@ -80,7 +80,7 @@ Notes:
 
 - <a href='/misc/nuts#almonds'>Almond flour</a> should work in place of <a href='/misc/grains#oats'>oat flour</a>
 
-- Optionally, fold in 1/2 cup (85 g) chopped <a href='/misc/nuts#walnuts'>walnuts</a> or <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Optionally, fold in 1/2 cup (85 g) chopped <a href='/misc/nuts#walnuts'>walnuts</a> or chocolate chips
 
 - |
   To make it a <a href='/recipes/double-chocolate-banana-bread'>chocolate banana bread</a> instead, do the following
@@ -88,7 +88,7 @@ Notes:
       <li>Use chocolate <a href='/misc/dairy#whey'>whey protein powder</a> instead of vanilla</li>
       <li>Reduce <a href='/misc/grains#oats'>oat flour</a> to 1 2/3 cups (150 g)</li>
       <li>Add 1/2 cup (40 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>, ideally sifted</li>
-      <li>Optionally, fold in 1/2 cup (85 g) <a href='/misc/chocolate-benefits'>chocolate chips</a> (not included in the nutrition facts below)</li>
+      <li>Optionally, fold in 1/2 cup (85 g) chocolate chips (not included in the nutrition facts below)</li>
   </ul>
 - <img src='/assets/Food/Protein Powder/No Nut Protein Banana Bread/chocolate.jpg' alt='' class='instruction-image'>
 

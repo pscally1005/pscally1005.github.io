@@ -46,7 +46,7 @@ Description: Here's a standard chocolate chip <a href='/cookies'>cookie</a> reci
 Instructions:
 - Preheat your oven to 350F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- Mix together <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and (melted) <a href='/misc/dairy#butter'>butter</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until fluffy. Beat in <a href='/misc/meat#eggs'>egg</a> and mix in vanilla, salt, and baking soda. Fully combine, then mix in the flour. Fold in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Mix together <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and (melted) <a href='/misc/dairy#butter'>butter</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until fluffy. Beat in <a href='/misc/meat#eggs'>egg</a> and mix in vanilla, salt, and baking soda. Fully combine, then mix in the flour. Fold in the chocolate chips
 
 - Scoop the cookies, roll into balls, and place on the pan.  These will flatten and spread as they bake, so leave plenty of room in between.  Don't do more than 12 on a standard size <a href='https://amzn.to/45sRAsB'>cookie sheet</a>
 

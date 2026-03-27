@@ -65,10 +65,10 @@ Instructions:
 
 - In a separate bowl, mash your <a href='/misc/fruit#banana'>bananas</a>. Add the rest of the wet ingredients (<a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>) to the bowl and mix
 
-- Pour the wet ingredients into the dry, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Fold in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Pour the wet ingredients into the dry, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Fold in the chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer the batter to the lined pan, and optionally top with a few extra <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Transfer the batter to the lined pan, and optionally top with a few extra chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Choc Bread/choc-bread-raw.jpg' alt='' class='instruction-image'>
 
 - Cover with aluminum foil, and bake at 350F for about 60 minutes. A toothpick should come out slightly dirty and wet, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be around <a href='https://amzn.to/4kmobG2'>205F</a>

@@ -55,10 +55,10 @@ tags:
 - sugar free chocolate chips
 Description: These simple and healthy chocolate chip cookie bars require only 4 ingredients:<b></b> mashed <a href='/misc/fruit#banana'>bananas</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, vanilla extract, and chocolate chips.  They're very similar to my <a href='/recipes/cookie-bar'>No Bake Cookie Bars</a>, where here I'm instead opting for <a href='/misc/fats'>low fat</a> <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> instead of traditional <a href='/misc/nuts#peanuts'>peanut butter</a>.  Nothing wrong with <a href='/misc/fats'>fat</a>, but good to have options!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions: 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>bananas</a> with the back of a fork. Mix in the vanilla extract and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Fold in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>bananas</a> with the back of a fork. Mix in the vanilla extract and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Fold in the chocolate chips
 - <img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/bowl.jpg' alt='' class='instruction-image'>
 
-- Line a small pan with parchment paper (<a href='https://amzn.to/4fTXpmH'>mine</a> is 10" x 6"). Spread the batter into the pan. It will be very sticky; be patient. Make sure it's an even thickness and spread to all edges.  Optionally top with a few more <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Line a small pan with parchment paper (<a href='https://amzn.to/4fTXpmH'>mine</a> is 10" x 6"). Spread the batter into the pan. It will be very sticky; be patient. Make sure it's an even thickness and spread to all edges.  Optionally top with a few more chocolate chips
 - <img src='/assets/Food/Healthier Dessert/4 Ing Cookie Bars/pan.jpg' alt='' class='instruction-image'>
 
 - Freeze for about 1-2 hours before slicing.  Store in the freezer

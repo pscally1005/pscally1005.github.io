@@ -58,7 +58,7 @@ Description: Who else agrees that raw cookie dough is better than the actual bak
 Instructions:
 - Melt your <a href='/recipes/natural-peanut-butter'>nut butter</a> and <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave for about 45 seconds in a <a href='https://amzn.to/4adxMft'>glass bowl</a>. Stir in the <a href='/misc/natural-sweeteners#honey'>honey</a>, vanilla, and salt with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the <a href='/misc/grains#oats'>oat flour</a> until fully incorporated and slightly sticky.
 
-- Chill the dough in the fridge for at least 15 minutes before folding in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Chill the dough in the fridge for at least 15 minutes before folding in the chocolate chips
 
 - Use a cookie scoop or a spoon to scoop your dough onto a plate (about 20 g each). Roll with your hands into a ball, and store in the fridge
 Notes:

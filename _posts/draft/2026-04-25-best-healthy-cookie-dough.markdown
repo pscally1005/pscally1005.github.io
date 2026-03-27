@@ -57,7 +57,7 @@ Description: That's quite a bold claim I'm making here.  Why do I call this the 
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, melt <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave. Add in your <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> for 2 minutes to help dissolve the sweetener
 
-- Beat in the <a href='/misc/dairy#skim-milk'>milk</a>, vanilla, and salt. Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the cornstarch and <a href='/misc/nuts#almonds'>almond flour</a>. Fold in the <a href='/misc/chocolate-benefits'>chocolate chips</a>
+- Beat in the <a href='/misc/dairy#skim-milk'>milk</a>, vanilla, and salt. Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the cornstarch and <a href='/misc/nuts#almonds'>almond flour</a>. Fold in the chocolate chips
 - <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookies-bowl.jpg' alt='' class='instruction-image'>
 
 - Chill the bowl of dough in the fridge for 30 minutes
@@ -69,7 +69,7 @@ Notes:
 
 - You can either use <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>, or homemade <a href='/recipes/monkfruit-chocolate-chunks'>Monk Fruit Chocolate Chunks</a>.  I tried it with a mixture of both, and both were great
 
-- You may want to chill the dough for 5-10 minutes after mixing in the <a href='/misc/nuts#almonds'>almond flour</a> before folding in the <a href='/misc/chocolate-benefits'>chocolate chips</a> to prevent the <a href='/misc/chocolate-benefits'>chocolate</a> from melting
+- You may want to chill the dough for 5-10 minutes after mixing in the <a href='/misc/nuts#almonds'>almond flour</a> before folding in the chocolate chips to prevent the <a href='/misc/chocolate-benefits'>chocolate</a> from melting
 
 - The main difference this and <a href='/recipes/chocolate-chip-cookies'>standard cookie dough</a> is that there's a mild cooling effect from the <a href='https://amzn.to/4lkg3Hr'>erythritol</a> in the sweetener.  Do you know what else has a cooling effect?  That's right, mint.  You can very easily "pass off" the cooling taste as mint by adding in 1/4 tsp (1.25 g) mint extract for a mint chocolate chip cookie
 

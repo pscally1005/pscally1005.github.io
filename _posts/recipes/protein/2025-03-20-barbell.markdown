@@ -94,8 +94,8 @@ Notes:
       <li><i><a href='/recipes/monkfruit-chocolate-chunks'>Sugar free chocolate chips</a></i>
         <ul>
           <li>Replace the <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a></li>
-          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or <a href='/misc/olive-oil'>olive oil</a> to the <a href='/misc/chocolate-benefits'>chocolate chips</a> to help with melting</li>
-          <li>Microwave the <a href='/misc/chocolate-benefits'>chocolate chips</a> in 20 second intervals, stirring in between, until fully melted</li>
+          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or <a href='/misc/olive-oil'>olive oil</a> to the chocolate chips to help with melting</li>
+          <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
       <li><i><a href='/misc/grains#oats'>Oat Flour</a></i>
@@ -113,9 +113,9 @@ Notes:
       <li><i>Candy Bar</i>
         <ul>
           <li>Replace <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with granulated <a href='/misc/hidden-sugar'>sugar</a> (1:1)</li>
-          <li>Replace <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) semi sweet <a href='/misc/chocolate-benefits'>chocolate chips</a></li>
-          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or <a href='/misc/olive-oil'>olive oil</a> to the <a href='/misc/chocolate-benefits'>chocolate chips</a> to help with melting</li>
-          <li>Microwave the <a href='/misc/chocolate-benefits'>chocolate chips</a> in 20 second intervals, stirring in between, until fully melted</li>
+          <li>Replace <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) semi sweet chocolate chips</li>
+          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or <a href='/misc/olive-oil'>olive oil</a> to the chocolate chips to help with melting</li>
+          <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
       <li><i>Flavored <a href='/misc/dairy#whey'>Whey</a></i>
@@ -140,9 +140,9 @@ Notes:
         <ul>
           <li>Use 4 tbsp (84 g) of <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></li>
           <li>Reduce the water to 1/4 cup (60 g)</li>
-          <li>Replace <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) semi sweet <a href='/misc/chocolate-benefits'>chocolate chips</a></li>
-          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or <a href='/misc/olive-oil'>olive oil</a> to the <a href='/misc/chocolate-benefits'>chocolate chips</a> to help with melting</li>
-          <li>Microwave the <a href='/misc/chocolate-benefits'>chocolate chips</a> in 20 second intervals, stirring in between, until fully melted</li>
+          <li>Replace <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> with 1/3 cup (60 g) semi sweet chocolate chips</li>
+          <li>Add 1/2 tsp (2.5 g) <a href='/misc/nuts#coconut'>coconut oil</a> or <a href='/misc/olive-oil'>olive oil</a> to the chocolate chips to help with melting</li>
+          <li>Microwave the chocolate chips in 20 second intervals, stirring in between, until fully melted</li>
         </ul><br>
 
       <li><i>Double <a href='/misc/natural-sweeteners#honey'>Honey</a></i>

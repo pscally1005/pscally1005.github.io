@@ -64,7 +64,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend the <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/fruit#banana'>bananas</a>, and <a href='/recipes/natural-peanut-butter'>nut butter</a> until a smooth paste forms. Blend in the rest of the ingredients
 
-- Transfer batter to the pan. Optionally top with 1-2 tbsp (15-30 g) <a href='/misc/chocolate-benefits'>chocolate chips</a>, minis preferred
+- Transfer batter to the pan. Optionally top with 1-2 tbsp (15-30 g) chocolate chips, minis preferred
 
 - Bake for 30 minutes uncovered.  Let them cool completely in the fridge before slicing
 - <img src='/assets/Food/Healthier Dessert/Date Brownie/date-brownie-4.jpg' alt='' class='instruction-image'>
