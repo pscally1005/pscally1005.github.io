@@ -5609,7 +5609,7 @@ LINKS = {
         "cocoa",
         "cacao powder",
         "cacao",
-        "chocolate chips",
+        # "chocolate chips",
         "chocolate"
     ],
 
@@ -6031,6 +6031,19 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "dubai style chocolate",
+    "thick chocolate bar",
+    "plain shredded wheat cereal",
+    "shredded wheat cereal",
+    "your wheat cereal",
+    "combine the cereal",
+    "remaining chocolate",
+    "chocolate outside",
+    "almond paste",
+    "pistachio dough",
+    "in the chocolate",
+    "chocolate candies",
+    "excess chocolate",
     "blends of oils",
     "actual baked cookies",
     "canola, corn",
@@ -7036,7 +7049,7 @@ EXCLUDED_PHRASES = [
     "oil between making",
     "oil for about",
     "out of the iron",
-    # "chocolate chips",
+    "chocolate chips",
     "chocolate chip",
     "later date",
     "waffle iron",
@@ -7378,6 +7391,7 @@ EXCLUDED_PHRASES = [
 EXCLUDED_PHRASES = list(dict.fromkeys(EXCLUDED_PHRASES))
 
 REMOVE_CATEGORIES = [
+    "/misc/olive-oil",
     "/misc/natural-sweeteners",
     "/misc/chocolate-benefits",
     "/misc/whole-wheat-sourdough",
@@ -7725,7 +7739,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-04-13")):
+            if not file.startswith(("2026-04-28")):
                 continue
 
             # exclude some files

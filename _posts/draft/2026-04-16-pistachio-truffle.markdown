@@ -47,23 +47,23 @@ tags:
 - chocolate chips
 - truffles
 - vic
-Description: Happy Birthday Vic!  Do you remember those pistachio chocolate truffles that Sandra got you?  Well this is a homemade version of them with just pistachio butter, honey, chocolate chips, and coconut oil!
+Description: Happy Birthday Vic!  Do you remember those pistachio chocolate truffles that Sandra got you?  Well this is a homemade version of them with just <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, chocolate chips, and <a href='/misc/nuts#coconut'>coconut oil</a>!
 Instructions:
-- Line a cookie sheet with parchment paper, and place a wire rack on top
+- Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper, and place a <a href='https://amzn.to/4qQNmn2'>wire rack</a> on top
 
-- Mix together pistachio butter, honey, and vanilla with a silicone spatula in a medium bowl to form a dough
+- Mix together <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and vanilla with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a> to form a dough
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/bowl.jpg' alt='' class='instruction-image'>
 
 - Scoop the dough and roll into 20 balls, about 17 g each. Freeze for 10 minutes
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/balls.jpg' alt='' class='instruction-image'>
 
-- In a medium bowl, microwave chocolate chips and coconut oil in 20 second intervals, stirring in between, until you have a smooth melted chocolate
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, microwave chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> in 20 second intervals, stirring in between, until you have a smooth melted chocolate
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/chocolate.jpg' alt='' class='instruction-image'>
 
-- Using 2 forks, coat the pistachio dough in the chocolate, and add to the wire rack. Repeat with all the truffles. Chill for 30 minutes to harden
+- Using 2 forks, coat the pistachio dough in the chocolate, and add to the <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Repeat with all the truffles. Chill for 30 minutes to harden
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/coated.jpg' alt='' class='instruction-image'>
 Notes:
-- You can also make these truffles sugar free by replacing the honey and standard chocolate chips with sugar free sugar and sugar free chocolate chips
+- You can also make these truffles <a href='/misc/hidden-sugar'>sugar free</a> by replacing the <a href='/misc/natural-sweeteners#honey'>honey</a> and standard chocolate chips with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>
 
 - |
   COMPARE(
