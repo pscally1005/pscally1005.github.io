@@ -1,0 +1,98 @@
+---
+layout: post
+title:  Sugar Free Dubai Chocolate
+date:   2026-03-27 00:00:00 -0500
+categories:
+- Recipes
+- Finger Foods
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+permalink: /recipes/dubai-chocolate
+image: /assets/Food/Finger Food/Dubai/cover.jpg
+file: dubai
+servingSize: 1 square
+section1: Chocolate
+start2: Pistachio butter
+section2: Pistachio butter
+start3: Shredded wheat cereal
+section3: Crunchy
+start4: Pistachios
+section4: Topping
+start5:
+section5:
+Prep: 20
+Rest: 20
+Cook: 20
+Source1: https://healthyfitnessmeals.com/dubai-chocolate-bar/#wprm-recipe-container-84373
+Source2: https://kirbiecravings.com/4-ingredient-healthier-dubai-chocolate-bars/
+Source3: https://chatgpt.com/share/69bf02ec-9788-832f-b60d-0d15569fd3a8
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/OFkOV
+tags:
+- pistachio butter
+- dubai chocolate
+- granulated monk fruit
+- tahini
+- cocoa powder
+- coconut oil
+- unsweetened coconut flakes
+- shredded wheat cereal
+Description: |
+  In case you haven't heard of this viral trend, Dubai style Chocolate is a thick chocolate bar filled with pistachio butter and  a crunchy kataifi dough. I'm a little late to the party, but here's my healthy spin on it.<br><br>
+
+  The chocolate outside and pistachio filling are sugar free, being sweetened with <a href='https://amzn.to/4ceFnvP'>monk fruit</a>. The crunchiness comes from a mixture of plain shredded wheat cereal and unsweetened coconut flakes. And I'm using a mixture of tahini and homemade pistachio butter for a creamy filling, plus a garnish of pistachios on top!
+Instructions:
+- In a small bowl, microwave coconut oil for 1 minute, until fully melted. Mix in cocoa powder, granulated sweetener, and salt with a silicone spatula until smooth. Set aside
+- <img src='/assets/Food/Finger Food/Dubai/chocolate.jpg' alt='' class='instruction-image'>
+
+- In a medium bowl, mix together pistachio butter, tahini, and granulated monk fruit. Set aside
+- <img src='/assets/Food/Finger Food/Dubai/pistachio-butter.jpg' alt='' class='instruction-image'>
+
+- Roughly chop your wheat cereal to make a shredded crumb. Add to a medium pan over medium heat with the coconut flakes. Toast for about 5 minutes, or until lightly browned and fragrant. Set aside
+- <img src='/assets/Food/Finger Food/Dubai/crunchy.jpg' alt='' class='instruction-image'>
+
+- Finely chop your pistachios. Set aside
+- <img src='/assets/Food/Finger Food/Dubai/pistachios.jpg' alt='' class='instruction-image'>
+
+- Combine the cereal/coconut mixture with the pistachio butter mixture
+- <img src='/assets/Food/Finger Food/Dubai/bowl.jpg' alt='' class='instruction-image'>
+
+- Add half your chopped pistachios (7 g) to each of your two thick chocolate bar molds. Pour a quarter of your melted chocolate (40 g) on top of the pistachios. Add half your filling mixture (120 g) on top of each of the melted chocolate. Top with your remaining chocolate
+- <img src='/assets/Food/Finger Food/Dubai/bottom.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Finger Food/Dubai/middle.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Finger Food/Dubai/top.jpg' alt='' class='instruction-image'>
+
+- Chill for at least 20 minutes to harden the chocolate. Store in the fridge
+- <img src='/assets/Food/Finger Food/Dubai/bar.jpg' alt='' class='instruction-image'>
+Notes:
+- My homeade version costs just $0.35 per ounce, whereas a standard Dubai chocolate bar costs $2.14 per ounce, or 6 times the price!  It's also filled with added sugar, which the homemade version avoids.  Below is a nutrition facts and cost comparison <b>per 100 g</b>
+- |
+  COMPARE(
+    "dubai-100g",
+    "dubai-store";
+
+    "<a href='#recipe'>Homemade</a>",
+    "<a href='https://amzn.to/4uVLBYm'>Storebought</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Added Sugar",
+    "Sugar Alcohol",
+    "Fiber",
+    "Glycemic Index"
+  )
+---

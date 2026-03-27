@@ -335,8 +335,8 @@ def grams(food, mass, vol):
       elif vol == "16 tbsp" or vol == "1 cup":
           m = "92"
 
-    # Nutritional yeast, cocoa, coconut flakes, psyllium
-    elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Unsweetened coconut flakes" or food == "Psyllium husks, whole":
+    # Nutritional yeast, cocoa, psyllium
+    elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Psyllium husks, whole":
         if vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":
             m = "2.5"
         elif vol == "1 tbsp":
@@ -652,9 +652,15 @@ def grams(food, mass, vol):
         elif food == "Vanilla Protein Greek Yogurt" and vol == "1 container":
             m = "950"
 
+    # Pie crust
     elif food == "Healthier Graham Cracker Pie Crust" or food == "Healthier Graham Cracker Pie Crust, chocolate":
         if vol == "12 serving":
             m = "255"
+
+    # Marzipan
+    elif food == "Marzipan, homemade, with sugar" or food == "Marzipan, homemade, sugar free":
+        if vol == "10 serving":
+            m = "393"
 
     # Cashew ricotta
     elif food == "Dairy Free Cashew Ricotta Cheese":
@@ -675,6 +681,17 @@ def grams(food, mass, vol):
     elif food == "Vanilla ice cream":
         if vol == "1 cup":
             m = "135"
+
+    # Shredded wheat cereal
+    elif food == "Shredded wheat cereal":
+        if vol == "1/3 cup":
+            m = "15"
+        elif vol == "2/3 cup":
+            m = "30"
+        elif vol == "1 cup":
+            m = "45"
+        elif vol == "1 1/3 cup":
+            m = "60"
 
     # Shredded cheese
     elif food == "Shredded mozzarella cheese, low moisture part skim" or food == "Cheddar cheese" or food == "Mozzarella cheese, fat free" or food == "Shredded cheddar cheese":
@@ -703,7 +720,7 @@ def grams(food, mass, vol):
             m = "810"
 
     # Flours
-    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Cornstarch":
+    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Cornstarch" or food == "Unsweetened coconut flakes":
         if vol == "2 tbsp":
             m = "15"
         elif vol == "3 tbsp":
@@ -806,7 +823,7 @@ def grams(food, mass, vol):
             m = "304"
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini":
         if vol == "1 tsp":
             m = "6"
         elif vol == "1/2 tbsp":

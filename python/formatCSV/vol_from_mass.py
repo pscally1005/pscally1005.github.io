@@ -447,8 +447,8 @@ def vol_from_mass(food, mass, vol):
         elif mass == "92":
             v = "1 cup"
 
-    # Nutritional yeast, cocoa, coconut flakes, psyllium
-    elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Unsweetened coconut flakes" or food == "Psyllium husks, whole":
+    # Nutritional yeast, cocoa, psyllium
+    elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Psyllium husks, whole":
         if mass == "2.5":
             v = "1/2 tbsp"
         elif mass == "5":
@@ -656,8 +656,13 @@ def vol_from_mass(food, mass, vol):
         if mass == "255":
             v = "1 batch, 9 oz"
 
+    # Marzipan
+    elif food == "Marzipan, homemade, with sugar" or food == "Marzipan, homemade, sugar free":
+        if mass == "393":
+            v = "1 batch"
+
     # Flours
-    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese":
+    elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Cornstarch" or food == "Unsweetened coconut flakes":
         if mass == "15":
             v = "2 tbsp"
         elif mass == "22.5":

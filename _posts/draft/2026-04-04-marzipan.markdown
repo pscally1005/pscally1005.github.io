@@ -1,0 +1,94 @@
+---
+layout: post
+title:  Chocolate Covered Marzipan
+date:   2026-03-27 00:00:00 -0500
+categories:
+- Misc.
+- Unhealthy Recipes
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+permalink: /recipes/chocolate-covered-marzipan
+image: /assets/Misc/Unhealthy/Marzipan/cover.jpg
+file: chocolatemarzipanstore
+servingSize: 1 piece
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 20
+Rest: 30
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/oN4rX
+tags:
+- marzipan
+- almond paste
+- almond flour
+- almond extract
+- chocolate chips
+- candy
+- vic
+Description: Marzipan, or almond paste, is a sweet dough made of almond flour and sugar that serves as the basis for Amaretti Cookies and Rainbow Cookies. Or, you can cut it up into pieces, coat it in chocolate, and have a very simple candy recipe. Vic is a big fan of marzipan chocolate candies, so I'm making a homemade version for her today for Easter!
+Instructions:
+- Line a cookie sheet with parchment paper, and place a wire rack on top
+
+- Cut your marzipan into 20 pieces, about 1 tbsp (19 g) each. Add to the wire rack
+- <img src='/assets/Misc/Unhealthy/Marzipan/marzipan.jpg' alt='' class='instruction-image'>
+
+- Add chocolate chips and coconut oil to a medium bowl. Microwave in 20 second intervals, stirring in between with a silicone spatula, until you have a smooth melted chocolate
+- <img src='/assets/Misc/Unhealthy/Marzipan/chocolate.jpg' alt='' class='instruction-image'>
+
+- Using 2 forks, dip the marzipan in the chocolate. Transfer to the wire rack so the excess chocolate drips off.  Chill for 30 minutes to harden. Store in the fridge
+- <img src='/assets/Misc/Unhealthy/Marzipan/coated.jpg' alt='' class='instruction-image'>
+Notes:
+- |
+  Marzipan can be quite expensive.  On <a href='https://amzn.to/3PCwCCq'>Amazon</a> three 7 oz containers will cost about $16.20. That's quite expensive to make some homemade candy!  That means the entire batch will cost $13.03!<br><br>
+
+  <a href='https://amzn.to/3PCwCCq'>Storebought marzipan</a> may also contain some "wheat starch", meaning that it's not gluten free.<br><br>
+
+  For less than half the price (and gluten free), you can make your own marzipan.  Blend together almond flour and granulated sugar until combined. Add in almond extract and water to form your marzipan dough.  The whole batch will cost $4.83, with each serving being $0.24
+- INGREDIENTS(marzipansugar)
+
+- You can also make this chocolate covered marzipan sugar free by using granulated monk fruit in your homemade marzipan instead of sugar, and also using sugar free chocolate chips.  The whole batch will cost $7.19, with each serving being $0.36
+
+- Below is a nutrition facts and cost comparison <b>per serving</b> of the chocolate covered marzipan options
+- |
+  COMPARE(
+    "chocolatemarzipanstore",
+    "chocolatemarzipansugar",
+    "chocolatemarzipansf";
+
+    "<a href='#recipe'>Storebought</a>",
+    "<a href='#notes'>Homemade</a><br><a href='/misc/hidden-sugar'>Granulated<br>Sugar</a>",
+    "<a href='#notes'>Homemade</a><br><a href='https://amzn.to/4ceFnvP'>Monk<br>Fruit</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Added Sugar",
+    "Sugar Alcohol",
+    "Fiber",
+    "Glycemic Index"
+  )
+---

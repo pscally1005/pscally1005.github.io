@@ -1,0 +1,73 @@
+Nutrient,Amount,Unit,DV
+Calories,358,,
+"Vitamin A, RAE",0.00,mcg,0 %
+"Carotene, alpha",0.00,mcg,
+"Carotene, beta",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.295,mg,25 %
+"Riboflavin [Vitamin B2]",0.000,mg,0 %
+"Niacin [Vitamin B3]",1.573,mg,10 %
+"Pantothenic acid [Vitamin B5]",0.542,mg,11 %
+"Vitamin B6",0.083,mg,5 %
+"Vitamin B12 [Cobalamin]",0.00,mcg,0 %
+"Folate, DFE [Vitamin B9]",23.00,mcg,6 %
+"Vitamin C [Ascorbic acid]",0.0,mg,0 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",0.07,mg,0 %
+"Tocopherol, alpha",0.07,mg,
+"Vitamin K",0.0,mcg,0 %
+"Betaine",0.0,mg,
+"Biotin [Vitamin B7]",0.00,mcg,0 %
+"Choline",10.3,mg,2 %
+"Calcium",22.00,mg,2 %
+"Copper",0.22,mg,24 %
+"Fluoride",0.0,mcg,
+"Iodine",0.00,mcg,0 %
+"Iron",1.17,mg,6 %
+"Magnesium",36.00,mg,9 %
+"Manganese",3.658,mg,159 %
+"Phosphorus",133.00,mg,11 %
+"Potassium",148.00,mg,3 %
+"Selenium",19.90,mcg,36 %
+"Sodium",2.00,mg,0 %
+"Zinc",1.13,mg,10 %
+"Protein",11.88,g,24 %
+"Alanine",0.440,g,
+"Arginine",0.583,g,
+"Aspartic acid",0.650,g,
+"Cystine",0.247,g,
+"Cysteine",0.25,g,
+"Glutamic acid",3.893,g,
+"Glycine",0.512,g,
+"Histidine",0.322,g,28 %
+"Hydroxyproline",0.000,g,
+"Isoleucine",0.398,g,26 %
+"Leucine",0.808,g,24 %
+"Lysine",0.323,g,10 %
+"Methionine",0.205,g,
+"Phenylalanine",0.613,g,
+"Proline",1.867,g,
+"Serine",0.558,g,
+"Threonine",0.330,g,20 %
+"Tryptophan",0.157,g,38 %
+"Tyrosine",0.247,g,
+"Valine",0.507,g,26 %
+"Phenylalanine + Tyrosine",0.86,g,32 %
+"Methionine + Cysteine",0.702,g,45 %
+"Carbohydrate",73.85,g,27 %
+"Fiber",13.00,g,46 %
+"Sugars",0.27,g,
+"Net carbs",60.85,g,
+"Fat",1.680,g,2 %
+"Saturated fatty acids",0.153,g,1 %
+"Monounsaturated fatty acids",0.087,g,
+"Polyunsaturated fatty acids",0.408,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+"Alcohol, ethyl",0.0,g,
+"Caffeine",0.00,mg,
+"Theobromine",0.00,mg,
+"Water",10.98,g,

@@ -10,6 +10,23 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/dubai-chocolate": [
+        "sugar free dubai chocolate",
+        "homemade dubai chocolate"
+    ],
+    "/recipes/pistachio-truffles": [
+        "chocolate pistachio truffles",
+        "pistachio chocolate truffles",
+        "chocolate pistachio truffle",
+        "pistachio chocolate truffle"
+    ],
+    "/recipes/chocolate-covered-marzipan": [
+        "chocolate covered marzipan",
+        "chocolate marzipan"
+    ],
+    "/recipes/chocolate-covered-marzipan#notes": [
+        "homemade marzipan"
+    ],
     "/recipes/mint-protien-bar": [
         "mint protein bars",
         "mint protein bar",
@@ -4729,6 +4746,10 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4uVLBYm": [
+        "standard dubai chocolate bar",
+        "standard dubai chocolate"
+    ],
     "https://amzn.to/4kGEfC5": [
         "sugar free chocolate chips",
         "sugar free chocolate chip"

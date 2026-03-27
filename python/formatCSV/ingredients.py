@@ -172,6 +172,16 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "Dubai chocolate":
+        f = "Dubai chocolate, storebought"
+    elif food == "Sugar Free Dubai Chocolate" or food == "dubai-100g" or food == "dubai100g" or food == "dubai":
+        f = "Dubai chocolate, homemade"
+    elif food == "Nuts, almond paste" or food == "Almond paste":
+        f = "Marzipan"
+    elif food == "marzipan-sugar":
+        f = "Marzipan, homemade, with sugar"
+    elif food == "marzipan-sf":
+        f = "Marzipan, homemade, sugar free"
     elif food == "quick-nutella":
         f = "Single Serving Quick Nutella"
     elif food == "Spelt, uncooked":
