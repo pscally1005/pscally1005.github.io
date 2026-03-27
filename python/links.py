@@ -168,8 +168,8 @@ LINKS = {
         "Spiced Baked Chicken Thighs"
     ],
     "/recipes/baked-protein-bars": [
-        "Baked Protein Bars",
-        "protein bars"
+        # "protein bars",
+        "Baked Protein Bars"
     ],
     "/recipes/baked-rice-and-beans": [
         "Baked Rice and Beans with Vegetables",
@@ -1795,8 +1795,8 @@ LINKS = {
         "protein shakes"
     ],
     "/recipes/protein-bar": [
+        # "protein bar",
         "100 calorie protein bars"
-        "protein bar"
     ],
     "/recipes/taco": [
         "taco",
@@ -6898,8 +6898,8 @@ EXCLUDED_PHRASES = [
     # "smoothie bowl",
     # "protein shakes",
     # "protein shake",
-    # "protein bars",
-    # "protein bar",
+    "protein bars",
+    "protein bar",
     "flavored rice dishes",
     "traditional desserts",
     "traditional dessert",
