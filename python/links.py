@@ -6032,6 +6032,8 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "dubai style chocolate",
+    "coconut palm",
+    "palm sap",
     "thick chocolate bar",
     "plain shredded wheat cereal",
     "shredded wheat cereal",
