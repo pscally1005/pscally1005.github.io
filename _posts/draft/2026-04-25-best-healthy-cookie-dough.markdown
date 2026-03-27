@@ -15,8 +15,8 @@ pesto: no
 soup_stew: no
 salad: no
 dressing: no
-brownie: yes
-cookie: no
+brownie: no
+cookie: yes
 copycat: no
 permalink: /recipes/best-healthy-cookie-dough
 image: /assets/Misc/Experiments/Healthier Brownies Cookies/cookie-dough-bite.jpg

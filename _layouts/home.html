@@ -41,11 +41,7 @@ layout: base
     page.categories == "Misc." and page.title == "Unhealthy Recipes"
   %}
     {% unless
-        page.title == "Search" or
-        page.title == "Archive" or
-        page.title == "Hidden" or
-        page.title == "Draft" or
-        page.title == "Delete"
+        page.title == "Search"
     %}
       <center>
         <div class='filter-options'>
@@ -313,11 +309,20 @@ layout: base
                   </h3>
                 </a>
 
-                {% if post.categories.first != "Misc." or post.categories.first == "Misc." and post.categories.last == "Unhealthy Recipes" %}
+                {% assign show_badges = true %}
+
+                {% if post.categories[0] == "Misc." %}
+                  {% if post.categories[1] != "Unhealthy Recipes" %}
+                    {% assign show_badges = false %}
+                  {% endif %}
+                {% endif %}
+
+                {% if show_badges %}
                   {% unless post.title == "Food/Nutrition Meme Dump" %}
                     {% include allergenSymbols.html %}
                   {% endunless %}
                 {% endif %}
+
             </div>
 
             <!-- Increment the count -->
