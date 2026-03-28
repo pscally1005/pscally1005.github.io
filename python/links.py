@@ -10,6 +10,12 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/chocolate-chili": [
+        "chocolate... chili?",
+        "chocolate... chili",
+        "chocolate chili?",
+        "chocolate chili"
+    ],
     "/recipes/dubai-chocolate": [
         "sugar free dubai chocolate",
         "homemade dubai chocolate"
@@ -7741,7 +7747,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-04-28")):
+            if not file.startswith(("2026-05-01")):
                 continue
 
             # exclude some files

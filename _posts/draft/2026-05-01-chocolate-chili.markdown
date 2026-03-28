@@ -56,21 +56,21 @@ tags:
 - chili powder
 - stew
 - winter
-Description: Traditionally, chili has a little bit of chocolate or cocoa powder in it. A little bit. But what if it had quite a bit more than a little bit?  Introducing "Chocolate Chili", with a whipping cup or carob powder. It's incidentally vegetarian. Have you seen meat prices lately?  I'm not wasting my hard earned money on this potentially stupid idea
+Description: Traditionally, <a href='/recipes/chili'>chili</a> has a little bit of <a href='/misc/chocolate-benefits'>chocolate</a> or <a href='/misc/chocolate-benefits'>cocoa powder</a> in it. A little bit. But what if it had quite a bit more than a little bit?  Introducing "Chocolate Chili", with a whopping cup of <a href='https://amzn.to/4rhYDwh'>carob powder</a>. It's incidentally vegetarian. Have you seen <a href='/misc/meat'>meat</a> prices lately?  I'm not wasting my hard earned money on this potentially stupid idea
 Instructions:
-- Preheat a large pan over medium heat with oil. Cut your onions and peppers into a medium dice, and add to the hot pan with the spices (chili powder, cumin, and salt)
+- Preheat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with <a href='/misc/olive-oil'>oil</a>. Cut your <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#pepper'>peppers</a> into a medium dice, and add to the hot pan with the spices (chili powder, cumin, and salt)
 
-- Cover and cook with occasional stirring, until the onions are translucent and the peppers are soft (about 10-15 minutes)
+- Cover and cook with occasional stirring, until the <a href='/misc/veggies#onion'>onions</a> are translucent and the <a href='/misc/veggies#pepper'>peppers</a> are soft (about 10-15 minutes)
 
-- Add the beans, cooked veggies, minced garlic. canned tomatoes, and carob powder to a large slow cooker
+- Add the <a href='/misc/beans'>beans</a>, cooked <a href='/misc/veggies'>veggies</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, canned <a href='/misc/veggies#tomato'>tomatoes</a>, and <a href='https://amzn.to/4rhYDwh'>carob powder</a> to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>
 
 - Cover and cook on low for 8 hours
 - <img src='/assets/Food/Meme/Chocolate chili/pot.jpg' alt='' class='instruction-image'>
 Notes:
 - |
-  I will be using a full batch of my Slow Cooler Dried Beans here, but you can alternatively use 5 15.5 oz cans of any bean you like (drained and rinsed).<br><br>
+  I will be using a full batch of my <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a> here, but you can alternatively use 5 15.5 oz cans of any <a href='/misc/beans'>bean</a> you like (drained and rinsed).<br><br>
 
-  For the dried beans, soak the beans overnight in 5 cups (1,200 g) water and 1 tbsp (18 g) salt. Discard the soaking liquid. Add the beans to a large slow cooker with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours.<br><br>
+  For the dried <a href='/misc/beans'>beans</a>, soak the <a href='/misc/beans'>beans</a> overnight in 5 cups (1,200 g) water and 1 tbsp (18 g) salt. Discard the soaking liquid. Add the <a href='/misc/beans'>beans</a> to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a> with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours.<br><br>
 
-  This yields ~1,269 g of cooked beans, or a little under 3 pounds
+  This yields ~1,269 g of cooked <a href='/misc/beans'>beans</a>, or a little under 3 pounds
 ---
