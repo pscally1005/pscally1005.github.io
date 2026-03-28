@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  No Bake White Chocolate Protein Brownies
-date:   2026-03-18 00:00:00 -0500
+date:   2026-03-28 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

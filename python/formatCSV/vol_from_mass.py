@@ -83,7 +83,8 @@ def vol_from_mass(food, mass, vol):
         elif mass == "45":
             v = "1/4 cup"
         elif mass == "1260":
-            v = "7 cup"
+            # v = "7 cup"
+            v = "1 batch"
 
     # NOT drained and rinsed beans
     elif food == "Chickpeas, NOT drained or rinsed" or food == "Black beans, NOT drained or rinsed" or food == "Kidney beans, NOT drained or rinsed" or food == "Pinto beans, NOT drained or rinsed" or food == "Cannellini beans, NOT drained or rinsed" or food == "Great northern beans, NOT drained or rinsed" or food == "Navy beans, NOT drained or rinsed" or food == "Beans, NOT drained or rinsed":
@@ -832,7 +833,7 @@ def vol_from_mass(food, mass, vol):
             v = "2 large"
         elif mass == "330":
             v = "3 medium"
-        elif mass == "440":
+        elif mass == "440" or mass == "500":
             v = "4 medium"
         elif mass == "450":
             v = "3 large"
@@ -868,7 +869,7 @@ def vol_from_mass(food, mass, vol):
             v = "3 medium"
         elif mass == "450":
             v = "3 medium"
-        elif mass == "480":
+        elif mass == "480" or mass == "500":
             v = "4 medium"
         elif mass == "600":
             v = "5 medium"

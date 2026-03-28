@@ -34,7 +34,7 @@ def grams(food, mass, vol):
             m = "60"
         elif vol == "1/4 cup":
             m = "45"
-        elif vol == "1 batch" or vol == "7 cup":
+        elif vol == "1 batch" or vol == "7 cup" or "9 serving":
             m = "1260"
 
     # NOT drained and rinsed beans
@@ -87,6 +87,8 @@ def grams(food, mass, vol):
         m = "590"
     elif vol == "1.5 lb":
         m = "681"
+    elif vol == "28 oz " or vol == "28 oz can":
+        m = "792"
     elif vol == "32 oz" or vol == "2 lb":
         m = "908"
     elif vol == "2.5 lb":
@@ -277,6 +279,10 @@ def grams(food, mass, vol):
             m = "10"
         elif vol == "6 tsp" or vol == "2 tbsp":
             m = "20"
+        elif vol == "9 tsp" or vol == "3 tbsp":
+            m = "30"
+        elif vol == "12 tsp" or vol == "4 tbsp" or vol == "1/4 cup":
+            m = "40"
 
 
     # Less dense spices
