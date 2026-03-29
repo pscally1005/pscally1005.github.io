@@ -67,7 +67,8 @@ Instructions:
 Notes:
 - Any kind of <a href='/misc/dairy#skim-milk'>milk</a> will work.  I went with <a href='/misc/dairy#almond-milk'>almond milk</a> today, but any unsweetened animal or plant based milk will do
 
-- You can either use <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>, or homemade <a href='/recipes/monkfruit-chocolate-chunks'>Monk Fruit Chocolate Chunks</a>.  I tried it with a mixture of both, and both were great
+- You can either use <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a> (left), or homemade <a href='/recipes/monkfruit-chocolate-chunks'>Monk Fruit Chocolate Chunks</a> (right).  I tried it with a mixture of both, and both were great
+- <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookies-bowl.jpg' alt='' class='instruction-image'>
 
 - You may want to chill the dough for 5-10 minutes after mixing in the <a href='/misc/nuts#almonds'>almond flour</a> before folding in the chocolate chips to prevent the <a href='/misc/chocolate-benefits'>chocolate</a> from melting
 
