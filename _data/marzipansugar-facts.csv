@@ -1,79 +1,79 @@
 Nutrient,Amount,Unit,DV
-Calories,162,,
+Calories,1619,,
 "Vitamin A, RAE",0,mcg,0 %
 "Carotene, alpha",0,mcg,
-"Carotene, beta",0.67,mcg,
+"Carotene, beta",6.72,mcg,
 "Cryptoxanthin, beta",0,mcg,
 "Lutein + zeaxanthin",0,mcg,
 "Lycopene",0,mcg,
 "Retinol",0,mcg,
-"Thiamin [Vitamin B1]",0.032,mg,3 %
-"Riboflavin [Vitamin B2]",0.125,mg,10 %
-"Niacin [Vitamin B3]",0.594,mg,4 %
-"Pantothenic acid [Vitamin B5]",0.054,mg,1 %
-"Vitamin B6",0.019,mg,1 %
+"Thiamin [Vitamin B1]",0.327,mg,27 %
+"Riboflavin [Vitamin B2]",1.244,mg,96 %
+"Niacin [Vitamin B3]",5.943,mg,37 %
+"Pantothenic acid [Vitamin B5]",0.534,mg,11 %
+"Vitamin B6",0.195,mg,11 %
 "Vitamin B12 [Cobalamin]",0,mcg,0 %
 "Vitamin B12, added",0,mcg,
-"Folate, DFE [Vitamin B9]",8.23,mcg,2 %
+"Folate, DFE [Vitamin B9]",82.32,mcg,21 %
 "Folate, food",0,mcg,
 "Folic acid",0,mcg,
 "Vitamin C [Ascorbic acid]",0,mg,0 %
 "Vitamin D",0,mcg,0 %
-"Vitamin E (alpha-tocopherol)",4,mg,27 %
+"Vitamin E (alpha-tocopherol)",39.96,mg,266 %
 "Vitamin E, added",0,mg,
-"Tocopherol, alpha",4,mg,
+"Tocopherol, alpha",39.96,mg,
 "Vitamin K",0,mcg,0 %
 "Vitamin K1 [Phylloquinone]",0,mcg,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
-"Choline",8.8,mg,2 %
-"Calcium",40.57,mg,3 %
-"Copper",0.17,mg,19 %
+"Choline",87.6,mg,16 %
+"Calcium",405.63,mg,31 %
+"Copper",1.69,mg,188 %
 "Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
-"Iron",0.56,mg,3 %
-"Magnesium",45.32,mg,11 %
-"Manganese",0.313,mg,14 %
-"Phosphorus",80.9,mg,6 %
-"Potassium",113.23,mg,2 %
-"Selenium",0.63,mcg,1 %
-"Sodium",3.6,mg,0 %
-"Zinc",0.5,mg,5 %
-"Protein",3.6,g,7 %
-"Alanine",0.169,g,
-"Arginine",0.418,g,
-"Aspartic acid",0.462,g,
-"Cystine",0.048,g,
-"Cysteine",0.05,g,
-"Glutamic acid",0.875,g,
-"Glycine",0.248,g,
-"Histidine",0.1,g,9 %
+"Iron",5.62,mg,31 %
+"Magnesium",453.24,mg,108 %
+"Manganese",3.126,mg,136 %
+"Phosphorus",808.98,mg,65 %
+"Potassium",1132.32,mg,24 %
+"Selenium",6.3,mcg,11 %
+"Sodium",35.97,mg,2 %
+"Zinc",5.08,mg,46 %
+"Protein",36,g,72 %
+"Alanine",1.692,g,
+"Arginine",4.176,g,
+"Aspartic acid",4.62,g,
+"Cystine",0.48,g,
+"Cysteine",0.48,g,
+"Glutamic acid",8.748,g,
+"Glycine",2.484,g,
+"Histidine",0.996,g,87 %
 "Hydroxyproline",0,g,
-"Isoleucine",0.116,g,7 %
-"Leucine",0.248,g,7 %
-"Lysine",0.102,g,3 %
-"Methionine",0.032,g,
-"Phenylalanine",0.194,g,
-"Proline",0.164,g,
-"Serine",0.17,g,
-"Threonine",0.114,g,7 %
-"Tryptophan",0.032,g,8 %
-"Tyrosine",0.09,g,
-"Valine",0.016,g,1 %
-"Phenylalanine + Tyrosine",0.284,g,11 %
-"Methionine + Cysteine",0.13,g,8 %
-"Carbohydrate",18.32,g,7 %
-"Fiber",1.67,g,6 %
-"Sugars",15.94,g,
+"Isoleucine",1.164,g,75 %
+"Leucine",2.484,g,72 %
+"Lysine",1.02,g,33 %
+"Methionine",0.324,g,
+"Phenylalanine",1.944,g,
+"Proline",1.644,g,
+"Serine",1.704,g,
+"Threonine",1.14,g,70 %
+"Tryptophan",0.324,g,79 %
+"Tyrosine",0.9,g,
+"Valine",0.156,g,8 %
+"Phenylalanine + Tyrosine",2.844,g,106 %
+"Methionine + Cysteine",1.284,g,83 %
+"Carbohydrate",183.18,g,67 %
+"Fiber",16.68,g,60 %
+"Sugars",159.39,g,
 "Fructose",0,g,
 "Galactose",0,g,
 "Glucose",0,g,
 "Lactose",0,g,
 "Maltose",0,g,
-"Sucrose",14.97,g,
-"Net carbs",16.65,g,
-"Fat",8.825,g,11 %
-"Saturated fatty acids",0.664,g,3 %
+"Sucrose",149.7,g,
+"Net carbs",166.5,g,
+"Fat",88.245,g,113 %
+"Saturated fatty acids",6.639,g,33 %
 "Butanoic acid",0,g,
 "Decanoic acid",0,g,
 "Dodecanoic acid",0,g,
@@ -82,12 +82,12 @@ Calories,162,,
 "Octadecanoic acid",0,g,
 "Octanoic acid",0,g,
 "Tetradecanoic acid",0,g,
-"Monounsaturated fatty acids",5.614,g,
+"Monounsaturated fatty acids",56.139,g,
 "Docosenoic acid",0,g,
 "Eicosenoic acid",0,g,
 "Hexadecenoic acid",0,g,
 "Octadecenoic acid",0,g,
-"Polyunsaturated fatty acids",2.078,g,
+"Polyunsaturated fatty acids",20.784,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
@@ -97,8 +97,8 @@ Calories,162,,
 "Octadecatrienoic acid",0,g,
 "Fatty acids, total trans",0,g,
 "Cholesterol",0,mg,0 %
-"Alcohol, ethyl",0.5,g,
-"Ash",0,g,
+"Alcohol, ethyl",5.1,g,
+"Ash",0.01,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",7.55,g,
+"Water",75.47,g,

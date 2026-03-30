@@ -472,10 +472,10 @@ Sour cream,sour-cream,1.88,454.00,0.00414,15,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0
 Beet juice,beet-juice,19.13,"5,433.60",0.00352,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Pickled beet juice,beet-juice,19.13,"5,433.60",0.00352,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Vanilla ice cream,vanilla-ice-cream,2.97,"1,358.40",0.00219,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.2,0.0,0.0,4.9,0,
-Marzipan,marzipan,16.20,594.30,0.02726,70,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,36.3,0.0,0.0,0.0,0,https://amzn.to/4rZ0tTe
+Marzipan,marzipan,16.20,594.30,0.02726,70,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,36.3,0.0,0.0,0.0,0,https://amzn.to/4rZ0tTe
 "Marzipan, homemade, with sugar",marzipan-sugar,2.70,393.00,0.00687,56,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,38.2,0.0,0.0,0.0,0,/recipes/chocolate-covered-marzipan#notes
 "Marzipan, homemade, sugar free",marzipan-sf,4.14,393.00,0.01053,2,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,38.2,0.0,0.0,0,/recipes/chocolate-covered-marzipan#notes
-Shredded wheat cereal,shredded-wheat-cereal,2.94,464.12,0.00633,48,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,
+Shredded wheat cereal,shredded-wheat-cereal,2.94,464.12,0.00633,48,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,https://amzn.to/4m1zWDi
 "Dubai chocolate, storebought",dubai-store,14.99,198.10,0.07567,45,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.0,0.0,0.0,0.0,0,https://amzn.to/4uVLBYm
 "Dubai chocolate, homemade",dubai-100g,5.15,414.40,0.01243,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,/recipes/dubai-chocolate
 Sugar Free Dubai Chocolate,dubai-100g,5.15,414.40,0.01243,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,/recipes/dubai-chocolate

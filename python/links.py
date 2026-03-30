@@ -5218,6 +5218,13 @@ LINKS = {
         "chocolate bar mold",
         "chocolate mold"
     ],
+    "https://amzn.to/40XU6EF": [
+        "thick chocolate bar mold",
+        "thick chocolate mold",
+        "dubai chocolate bar mold",
+        "dubai chocolate mold",
+        "thick chocolate bar"
+    ],
 
     # MISC
     "/misc/healthier-brownies-and-cookies-experiment": [
@@ -6046,7 +6053,7 @@ EXCLUDED_PHRASES = [
     "your wheat cereal",
     "combine the cereal",
     "remaining chocolate",
-    "chocolate outside",
+    # "chocolate outside",
     "almond paste",
     "pistachio dough",
     "in the chocolate",

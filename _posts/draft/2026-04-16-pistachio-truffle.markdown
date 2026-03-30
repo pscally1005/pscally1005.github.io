@@ -19,7 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/pistachio-truffles
-image: /assets/Misc/Unhealthy/Pistachio Truffle/cover.jpg
+image: /assets/Misc/Unhealthy/Pistachio Truffle/cover1.jpg
 file: pistachiotruffle
 servingSize: 1 piece
 section1: Filling
@@ -54,14 +54,17 @@ Instructions:
 - Mix together <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and vanilla with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a> to form a dough
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/bowl.jpg' alt='' class='instruction-image'>
 
-- Scoop the dough and roll into 20 balls, about 17 g each. Freeze for 10 minutes
+- Scoop the dough and roll into 10 balls, about 17 g each. Freeze for 10 minutes
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/balls.jpg' alt='' class='instruction-image'>
 
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, microwave chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> in 20 second intervals, stirring in between, until you have a smooth melted chocolate
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/chocolate.jpg' alt='' class='instruction-image'>
 
-- Using 2 forks, coat the pistachio dough in the chocolate, and add to the <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Repeat with all the truffles. Chill for 30 minutes to harden
+- Using 2 forks, coat the pistachio dough in the chocolate, and add to the <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Repeat with all the truffles
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/coated.jpg' alt='' class='instruction-image'>
+
+- Chill for 30 minutes to harden
+- <img src='/assets/Misc/Unhealthy/Pistachio Truffle/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 - You can also make these truffles <a href='/misc/hidden-sugar'>sugar free</a> by replacing the <a href='/misc/natural-sweeteners#honey'>honey</a> and standard chocolate chips with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>
 

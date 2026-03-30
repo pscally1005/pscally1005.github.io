@@ -665,7 +665,7 @@ def grams(food, mass, vol):
 
     # Marzipan
     elif food == "Marzipan, homemade, with sugar" or food == "Marzipan, homemade, sugar free":
-        if vol == "10 serving":
+        if vol == "1 serving":
             m = "393"
 
     # Cashew ricotta
