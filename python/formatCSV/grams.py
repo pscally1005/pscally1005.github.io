@@ -666,7 +666,7 @@ def grams(food, mass, vol):
     # Marzipan
     elif food == "Marzipan, homemade, with sugar" or food == "Marzipan, homemade, sugar free":
         if vol == "1 serving":
-            m = "393"
+            m = "377"
 
     # Cashew ricotta
     elif food == "Dairy Free Cashew Ricotta Cheese":
@@ -1240,21 +1240,23 @@ def grams(food, mass, vol):
             m = "119"
         elif vol == "18 tbsp" or vol == "1cup + 2tbsp" or vol == "1 cup + 2 tbsp":
             m = "126"
-        elif vol == "1.25 cup" or vol == "1 1/4 cup":
+        elif vol == "1.25 cup" or vol == "1 1/4 cup" or vol == "20 tbsp":
             m = "140"
         elif vol == "1.33 cup" or vol == "1 1/3 cup":
             m = "149"
-        elif vol == "1.5 cup" or vol == "1 1/2 cup":
+        elif vol == "1.5 cup" or vol == "1 1/2 cup" or vol == "24 tbsp":
             m = "168"
+        elif vol == "26 tbsp":
+            m = "182"
         elif vol == "1.67 cup" or vol == "1.66 cup" or vol == "1 2/3 cup":
             m = "187"
-        elif vol == "1.75 cup" or vol == "1 3/4 cup":
+        elif vol == "1.75 cup" or vol == "1 3/4 cup" or vol == "28 tbsp":
             m = "196"
-        elif vol == "2 cup":
+        elif vol == "2 cup" or vol == "32 tbsp":
             m = "224"
-        elif vol == "2.5 cup" or vol == "2 1/2 cup":
+        elif vol == "2.5 cup" or vol == "2 1/2 cup" or vol == "40 tbsp":
             m = "280"
-        elif vol == "3 cup":
+        elif vol == "3 cup" or vol == "48 tbsp":
             m = "336"
 
 

@@ -65,7 +65,7 @@ Instructions:
 - Bake at 350F until puffed and lightly golden brown, about 20 minutes.  Allow it to cool totally in the pan before cutting into 9 slices
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- For a lower <a href='/misc/fats'>fat</a> version, use <a href='/misc/fats'>fat</a> free <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> (1 1/2 cup, 168 g) and <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a> (2 tbsp, 28 g) in place of the standard <a href='/misc/dairy#mozzarella'>shredded mozzarella cheese</a> and <a href='/misc/dairy#cream-cheese'>cream cheese</a>
+- For a lower <a href='/misc/fats'>fat</a> version, use <a href='/misc/fats'>fat free</a> <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> (1 1/2 cup, 168 g) and <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a> (2 tbsp, 28 g) in place of the standard <a href='/misc/dairy#mozzarella'>shredded mozzarella cheese</a> and <a href='/misc/dairy#cream-cheese'>cream cheese</a>
 
 - To make it <a href='/misc/nuts'>nut</a> free, swap the <a href='/misc/nuts#almonds'>almond flour</a> for <a href='/misc/grains#oats'>oat flour</a> (1 1/2 cup, 135 g), though it will be a little drier due to the lack of <a href='/misc/fats'>fat</a> from the <a href='/misc/nuts#almonds'>almonds</a>
 
@@ -94,4 +94,6 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+
+- Try whatever <a href='/misc/dairy#mozzarella'>cheese</a> you like!  I've made this quite a few times with <a href='/misc/dairy#mozzarella'>mozzarella</a> as directed, but I've also has great success using both <a href='/misc/dairy#cheddar'>cheddar</a> and <a href='/misc/dairy#feta'>feta cheese</a>!
 ---

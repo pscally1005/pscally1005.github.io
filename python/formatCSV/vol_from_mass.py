@@ -659,7 +659,7 @@ def vol_from_mass(food, mass, vol):
 
     # Marzipan
     elif food == "Marzipan, homemade, with sugar" or food == "Marzipan, homemade, sugar free":
-        if mass == "393":
+        if mass == "377":
             v = "1 batch"
 
     # Flours
@@ -1105,6 +1105,8 @@ def vol_from_mass(food, mass, vol):
             v = "1 1/3 cup"
         elif mass == "168":
             v = "1 1/2 cup"
+        elif mass == "182":
+            v = "1 1/2 cup + 2 tbsp"
         elif mass == "187":
             v = "1 2/3 cup"
         elif mass == "196":

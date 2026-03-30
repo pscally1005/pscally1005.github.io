@@ -19,7 +19,7 @@
                         <!-- Image step -->
                         </ol>
                         </div>
-                        <li class="instruction-image-li print-only">
+                        <li class="{% if step contains 'larger-image' %}larger-image-li{% else %}instruction-image-li{% endif %} print-only">
                           <center>
                             {{ step }}
                           </center>

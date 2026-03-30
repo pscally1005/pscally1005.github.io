@@ -14,7 +14,15 @@ LINKS = {
         "chocolate... chili?",
         "chocolate... chili",
         "chocolate chili?",
-        "chocolate chili"
+        "chocolate chili",
+        "chocolaty... chili?",
+        "chocolaty... chili",
+        "chocolaty chili?",
+        "chocolaty chili",
+        "chocolatey... chili?",
+        "chocolatey... chili",
+        "chocolatey chili?",
+        "chocolatey chili"
     ],
     "/recipes/dubai-chocolate": [
         "sugar free dubai chocolate",
@@ -1765,7 +1773,9 @@ LINKS = {
     "/recipes/slow-cooked-beans": [
         "slow cooker dried beans",
         "homemade beans",
-        "crockpot beans"
+        "crockpot beans",
+        "make the beans from scratch",
+        "beans from scratch"
     ],
     "/misc/homemade-cheese#labneh": [
         "labneh cheese, whole milk",
@@ -2992,7 +3002,9 @@ LINKS = {
         "beans",
         "bean",
         "legumes",
-        "legume"
+        "legume",
+        "dried beans",
+        "dried bean"
     ],
     "/misc/beans#black-beans": [
         "black beans",

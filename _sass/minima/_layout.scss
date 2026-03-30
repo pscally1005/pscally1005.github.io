@@ -644,6 +644,23 @@ img.instruction-image {
   margin: 0 auto;        /* ⬅ centers horizontally */
 }
 
+.larger-image-li {
+  list-style: none;     /* remove number */
+  padding-left: 0;      /* remove indent */
+  text-align: center;   /* center content */
+  margin: 0.5em 0;      /* spacing above/below */
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
+}
+
+.larger-image-li img {
+  width: 800px;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;        /* ⬅ makes margin work */
+  margin: 0 auto;        /* ⬅ centers horizontally */
+}
+
 // Favicon for site
 .favicon-image {
   width: 25px; /* Favicon width */
