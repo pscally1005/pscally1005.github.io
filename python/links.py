@@ -2711,6 +2711,9 @@ LINKS = {
     ],
 
     # DISEASES
+    "/misc/stats": [
+        "chronic disease"
+    ],
     "/misc/celiac": [
         "gluten allergy",
         "wheat allergy",
@@ -2855,6 +2858,7 @@ LINKS = {
     ],
     "/misc/phytochemicals": [
         "oleocanthal",
+        "oleuropein",
         "polyphenolic compounds",
         "polyphenolic compound",
         "polyphenolics",

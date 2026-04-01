@@ -81,6 +81,6 @@ Notes:
 
 - Optionally, chill the dough in the fridge for at least 30 minutes, but I chose to skip that here
 
-- For April Fool's Day 2026, I made chicken fat brownies by taking my <a href='/recipes/brownies'>standard brownie recipe</a> and swapping out the 1/2 cup (112 g) <a href='/misc/diary#butter'>butter</a> and 1 tbsp (14 g) <a href='/misc/nuts#coconut'>coconut oil</a> for 7 tbsp (105 g) chicken fat + 1 1/2 tbsp (23 g) water
-- <img src='/assets/Misc/Unhealthy/Chicken Fat Cookies/chicken-fat-brownies.jpg' alt='' class='instruction-image'>
+- For April Fool's Day 2026, I made chicken fat brownies by taking my <a href='/recipes/brownies'>standard brownie recipe</a> and swapping out the 1/2 cup (112 g) <a href='/misc/dairy#butter'>butter</a> and 1 tbsp (14 g) <a href='/misc/nuts#coconut'>coconut oil</a> for 7 tbsp (105 g) chicken fat + 1 1/2 tbsp (23 g) water
+- <a href='/recipes/brownies'><img src='/assets/Misc/Unhealthy/Chicken Fat Cookies/chicken-fat-brownies.jpg' alt='' class='instruction-image'></a>
 ---
