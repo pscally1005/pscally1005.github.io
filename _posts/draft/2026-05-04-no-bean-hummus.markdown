@@ -50,4 +50,21 @@ Description: <a href='/misc/beans'>Beans</a> and <a href='/misc/beans#chickpeas'
 Instructions:
 - Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
 Notes:
+- You can also make no <a href='/misc/beans'>bean</a> dessert <a href='/hummus'>hummus</a> with <a href='/misc/veggies#zucchini'>zucchini</a> by blending together the following ingredients!
+- INGREDIENTS(nobeandesserthummus)
+- <img src='/assets/Food/Savory Sauces/No bean hummus/dessert-hummus.jpg' alt='' class='instruction-image'>
+- |
+  COMPARE(
+    "nobeanhummus",
+    "nobeandesserthummus";
+
+    "<a href='#recipe'>Classic</a>",
+    "<a href='#notes'>Dessert</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
