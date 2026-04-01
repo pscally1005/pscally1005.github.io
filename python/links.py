@@ -2373,7 +2373,11 @@ LINKS = {
     ],
     "/recipes/chicken-fat-chocolate-chip-cookies": [
         "chicken fat chocolate chip cookies",
-        "chicken fat cookies"
+        "chicken fat cookies",
+        "chicken fat brownies",
+        "chicken fat cookie",
+        "chicken fat brownie",
+        "chicken fat chocolate chip cookie"
     ],
     "/recipes/pretzel-nuggets": [
         "homemade peanut butter pretzel nuggets",
