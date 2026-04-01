@@ -90,8 +90,9 @@ Notes:
     "Protein",
     "Fat",
     "Net Carbs",
-    "Added Sugar",
     "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol",
     "Glycemic Index"
   )
 ---

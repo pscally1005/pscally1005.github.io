@@ -6060,6 +6060,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "coat it in chocolate",
+    "delicious and rich edible cookie dough",
     "dubai style chocolate",
     "coconut palm",
     "palm sap",

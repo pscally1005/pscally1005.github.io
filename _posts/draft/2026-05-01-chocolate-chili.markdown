@@ -56,7 +56,7 @@ tags:
 - chili powder
 - stew
 - winter
-Description: Traditionally, <a href='/recipes/chili'>chili</a> has a little bit of <a href='/misc/chocolate-benefits'>chocolate</a> or <a href='/misc/chocolate-benefits'>cocoa powder</a> in it. A <i>little</i> bit. But what if it had <i>quite</i> a bit more than a little bit?  Introducing "Chocolaty Chili", with a whopping cup of <a href='https://amzn.to/4rhYDwh'>carob powder</a>. It's incidentally vegetarian. Have you seen <a href='/misc/meat'>meat</a> prices lately?  I'm not wasting my hard earned money on this potentially stupid idea
+Description: Traditionally, <a href='/recipes/chili'>chili</a> has a little bit of <a href='/misc/chocolate-benefits'>chocolate</a> or <a href='/misc/chocolate-benefits'>cocoa powder</a> in it. A <i>little</i> bit. But what if it had <i>quite</i> a bit more than a little bit?  Introducing "Chocolate Chili", with a whopping cup of <a href='https://amzn.to/4rhYDwh'>carob powder</a>. It's incidentally vegetarian. Have you seen <a href='/misc/meat'>meat</a> prices lately?  I'm not wasting my hard earned money on this potentially stupid idea
 Instructions:
 - Cut your <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#pepper'>peppers</a> into a medium dice
 
@@ -68,7 +68,7 @@ Notes:
 - |
   I will be using a full batch of my <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a> here, but you can alternatively use five 15.5 oz cans of any <a href='/misc/beans'>bean</a> you like (drained and rinsed).<br><br>
 
-  For the <a href='/misc/beans'>dried beans</a>, soak the <a href='/misc/beans'>beans</a> overnight in 5 cups (1,200 g) water and 1 tbsp (18 g) salt. Discard the soaking liquid. Add the <a href='/misc/beans'>beans</a> to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a> with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours.<br><br>
+  For the <a href='/misc/beans'>dried beans</a>, soak 1 lb (454 g) the <a href='/misc/beans'>beans</a> overnight in 5 cups (1,200 g) water and 1 tbsp (18 g) salt. Discard the soaking liquid. Add the <a href='/misc/beans'>beans</a> to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a> with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours.<br><br>
 
   This yields ~1,269 g of cooked <a href='/misc/beans'>beans</a>, or a little under 3 pounds
 

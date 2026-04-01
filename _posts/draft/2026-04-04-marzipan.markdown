@@ -51,7 +51,7 @@ tags:
 Description: |
   Marzipan, or almond paste, is a sweet dough made of <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/hidden-sugar'>sugar</a> that serves as the basis for <a href='/recipes/amaretti'>Amaretti Cookies</a> and <a href='/recipes/rainbow-cookies-v3'>Rainbow Cookies</a>.<br><br>
 
-  Or, you can cut it up into pieces, coat it in <a href='/misc/chocolate-benefits'>chocolate</a>, and have a very simple candy recipe. Vic is a big fan of marzipan chocolate candies, so I'm making a homemade version for her today for Easter!
+  Or, you can cut it up into pieces, coat it in chocolate, and have a very simple candy recipe. Vic is a big fan of marzipan chocolate candies, so I'm making a homemade version for her today for Easter!
 Instructions:
 - Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper, and place a <a href='https://amzn.to/4qQNmn2'>wire rack</a> on top
 
@@ -68,7 +68,7 @@ Instructions:
 - <img src='/assets/Misc/Unhealthy/Marzipan/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 - |
-  Marzipan and almond paste are very similar, though slightly different ingredients.  Below you can see marzipan on the left, and almond paste on the right.  Almond paste has a higher proportion of <a href='/misc/nuts#almonds'>almond flour</a>, while marzipan is a bit higher in <a href='/misc/hidden-sugar'>sugar</a>.<br><br>
+  Marzipan and almond paste are very similar, though slightly different products.  Below you can see marzipan on the left, and almond paste on the right.  Almond paste has a higher proportion of <a href='/misc/nuts#almonds'>almond flour</a>, while marzipan is a bit higher in <a href='/misc/hidden-sugar'>sugar</a>.<br><br>
 
   I used a tube of each here, but either one will work.  Almond paste tastes slightly less sweet with a bit more of an almond flavor compared to marzipan in isolation.<br><br>
 
@@ -83,12 +83,12 @@ Notes:
 
   <a href='https://amzn.to/3PCwCCq'>Storebought marzipan</a> <i>may</i> also contain some "wheat starch", meaning that it's not <a href='/misc/celiac'>gluten free</a>.<br><br>
 
-  For less than half the price (and <a href='/misc/celiac'>gluten free</a>), you can make your own marzipan.  Blend together <a href='/misc/nuts#almonds'>almond flour</a> and granulated <a href='/misc/hidden-sugar'>sugar</a> until combined. Add in almond extract and water to form your marzipan dough.  The whole batch will cost $5.01, with each serving being $0.13
+  For less than half the price (and <a href='/misc/celiac'>gluten free</a>), you can make your own marzipan.  Blend together <a href='/misc/nuts#almonds'>almond flour</a> and granulated <a href='/misc/hidden-sugar'>sugar</a> until combined. Add in almond extract and water to form your marzipan dough.  The whole batch of chocolate covered candies will cost $5.01, with each serving being $0.13
 - INGREDIENTS(marzipansugar)
 - <img src='/assets/Misc/Unhealthy/Marzipan/marzipan-homemade-processor.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Misc/Unhealthy/Marzipan/marzipan-homemade-log.jpg' alt='' class='instruction-image'>
 
-- You can also make this chocolate covered marzipan <a href='/misc/hidden-sugar'>sugar free</a> by using <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> in your homemade marzipan instead of <a href='/misc/hidden-sugar'>sugar</a>, and also using <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>.  The whole batch will cost $7.37, with each serving being $0.18
+- You can also make this chocolate covered marzipan <a href='/misc/hidden-sugar'>sugar free</a> by using <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> in your homemade marzipan instead of <a href='/misc/hidden-sugar'>sugar</a>, and also using <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>.  The whole batch of chocolate candies will cost $7.37, with each serving being $0.18
 
 - Below is a nutrition facts and cost comparison <b>per serving</b> of the chocolate covered marzipan options
 - |
