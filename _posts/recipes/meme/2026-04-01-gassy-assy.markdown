@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  The Gassy Assy
-date:   2026-03-03 00:00:00 -0500
+date:   2026-04-01 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

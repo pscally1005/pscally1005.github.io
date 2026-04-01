@@ -993,6 +993,20 @@ def grams(food, mass, vol):
         elif vol == "5 medium":
             m = "550"
 
+    # Zucchini
+    elif food == "Zucchini" or food == "Yellow squash":
+        if vol == "1/2 medium":
+            m = "60"
+        elif vol == "1 medium":
+            m = "125"
+        elif vol == "2 medium":
+            m = "250"
+        elif vol == "3 medium":
+            m = "375"
+        elif vol == "4 medium":
+            m = "500"
+        elif vol == "5 medium":
+            m = "625"
 
     # Peppers
     elif food == "Bell pepper":

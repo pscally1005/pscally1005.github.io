@@ -840,6 +840,21 @@ def vol_from_mass(food, mass, vol):
         elif mass == "550":
             v = "5 medium"
 
+    # Zucchini
+    elif food == "Zucchini" or food == "Yellow squash":
+        if mass == "60":
+            v = "1/2 medium"
+        elif mass == "125":
+            v = "1 medium"
+        elif mass == "250":
+            v = "2 medium"
+        elif mass == "375":
+            v = "3 medium"
+        elif mass == "500":
+            v = "4 medium"
+        elif mass == "625":
+            v = "5 medium"
+
     # Carrots
     elif food == "Carrots":
         if mass == "100":
