@@ -21,7 +21,7 @@ copycat: no
 permalink: /recipes/dubai-chocolate
 image: /assets/Food/Finger Food/Dubai/cover.jpg
 file: dubai
-servingSize: 1 square
+servingSize: 1 square (42 g)
 section1: Chocolate
 start2: Shredded wheat cereal
 section2: Crunchy
