@@ -19,7 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/TODO
-image: /assets/Food/Meme/TODO/TODO.jpg
+image: /assets/Food/TODO/TODO/TODO.jpg
 file: TODO
 servingSize:
 section1:
@@ -47,4 +47,20 @@ Instructions:
 - TODO
 - <img src='/assets/Food/TODO/TODO/TODO.jpg' alt='' class='instruction-image'>
 Notes:
+- INGREDIENTS(nobeandesserthummus)
+- FACTS(nobeandesserthummus)
+- |
+  COMPARE(
+    "nobeanhummus",
+    "nobeandesserthummus";
+
+    "<a href='#recipe'>Classic</a>",
+    "<a href='#notes'>Dessert</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---

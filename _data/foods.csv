@@ -408,6 +408,7 @@ Low sodium chicken broth,chicken-broth,0.69,454.00,0.00151,0,TRUE,FALSE,TRUE,FAL
 Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Chicken bone broth,bone-broth,1.37,905.60,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/misc/slow-cooker-chicken
+Broth,bone-broth,1.37,905.60,0.00151,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/misc/slow-cooker-chicken
 Escarole,escarole,2.99,400.00,0.00748,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 "Chicken thighs, bone in, skin on",thighs-with-skin,1.49,454.00,0.00328,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Sun dried tomatoes,sun-dried-tomatoes,3.49,113.20,0.03083,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
