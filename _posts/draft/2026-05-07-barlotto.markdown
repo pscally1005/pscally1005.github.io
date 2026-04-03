@@ -49,14 +49,17 @@ tags:
 - nutritional yeast
 - vegetarian
 - chicken broth
-Description: Instead of white arborio rice, I'm making a risotto inspired dish using barley instead. Being a whole grain, barley is much higher in fiber, vitamins, minerals, and protein compared to standard white rice. This barlotto is also vegetarian, dairy free, and stirring free. What does that mean?  It means you won't have to labor over a pot of risotto, stirring continuously for an hour. Instead, you use your slow cooker to make the barley creamy. Just check back after work, and you're good to go for this side dish!  For another risotto hybrid dish, check out my Butternut Squash RisOATto.
-Instructions:
-- The night before, soak your barley in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
+Description: |
+  Instead of <a href='/misc/grains#white-rice'>white arborio rice</a>, I'm making a risotto inspired dish using <a href='/misc/grains#barley'>barley</a> instead. Being a <a href='/misc/grains'>whole grain</a>, <a href='/misc/grains#barley'>barley</a> is much higher in <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet'>vitamins, minerals</a>, and <a href='/misc/protein'>protein</a> compared to standard <a href='/misc/grains#white-rice'>white rice</a>.<br><br>
 
-- In the morning, discard the soaking liquid. Add the soaked barley to a slow cooker with broth, nutritional yeast, and black pepper
+  This barlotto is also vegetarian (depending on your broth), dairy free, and stirring free. What does that mean?  It means you won't have to labor over a pot of risotto, stirring continuously for an hour. Instead, you use your <a href='https://amzn.to/49TUS9E'>slow cooker</a> to make the <a href='/misc/grains#barley'>barley</a> creamy. Just check back after work, and you're good to go for this <a href='/recipes/sides'>side dish</a>!  For another risotto hybrid dish, check out my <a href='/recipes/butternut-squash-risotto'>Butternut Squash RisOATto</a> or <a href='/recipes/congee'>Brown Rice Congee Base</a>.
+Instructions:
+- The night before, soak your <a href='/misc/grains#barley'>barley</a> in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
+
+- In the morning, discard the soaking liquid. Add the soaked <a href='/misc/grains#barley'>barley</a> to a <a href='https://amzn.to/49TUS9E'>slow cooker</a> with broth, nutritional yeast, and black pepper
 
 - Cover and cook on low for 8 hours, stirring occasionally
 - <img src='/assets/Food/Sides/Barlotto/crockpot.jpg' alt='' class='instruction-image'>
 Notes:
-- Alternatively, instead of broth, you can use 1 tbsp better than bouillon (18 g) or bouillon powder (12 g) plus the same amount (3 cups, 720 g) of water
+- Alternatively, instead of broth, you can use 1 tbsp (18 g) <a href='https://amzn.to/4c6GlII'>better than bouillon</a>, 1 tbsp (12 g) <a href='https://amzn.to/3QiSinj'>bouillon powder</a>, or 3 pieces (12 g) of <a href='https://amzn.to/4sUCq9c'>bouillon cubes</a>, plus the same amount (3 cups, 720 g) of water
 ---

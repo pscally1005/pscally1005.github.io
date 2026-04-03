@@ -49,23 +49,26 @@ tags:
 - natural peanut butter
 - tahini
 - liquid monk fruit
-Description: This edible protein batter makes the perfect dessert, snack, or even breakfast. It's a great source of protein from the whey, healthy fats from the peanut butter, and fiber and natural sugars from the carob powder. This makes satiating in addition to being delicious. It takes less than 10 minutes to prep 4 servings of rich, decadent, but healthy brownie batter that you don't have to feel guilty about eating with a spoon. Check out my Edible Protein with Cookie Dough for a protein packed cookie dough you can also eat with a spoon!
+Description: |
+  This edible protein brownie batter makes the perfect <a href='/recipes/healthier-dessert'>dessert</a>, <a href='/recipes/protein-powder'>protein snack</a>, or even <a href='/recipes/breakfast'>breakfast</a>. It's a great source of <a href='/misc/protein'>protein</a> from the <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#peanuts'>peanut butter</a>, and <a href='/misc/fiber'>fiber</a> and <a href='/misc/natural-sweeteners'>natural sugars</a> from the <a href='https://amzn.to/4rhYDwh'>carob powder</a>.<br><br>
+
+  This makes satiating in addition to being delicious. It takes less than 10 minutes to prep 4 servings of rich, decadent, but <a href='/brownies'>healthy brownie</a> batter that you don't have to feel guilty about eating with a spoon. Check out my <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a> for a <a href='/misc/protein'>protein</a> packed cookie dough you can also eat with a spoon!
 Instructions:
-- Mix all ingredients together in a large bowl with a silicone spatula
+- Mix all ingredients together in a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Brownie Batter/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide into 4 mason jars, about 3/4 cup (200 g) each
 
 - Store in the fridge for up to 1 week, or in the freezer indefinitely
 Notes:
-- To bulk it up (both in size and in protein content), you can add a 32 oz (908 g) container of plain nonfat Greek yogurt into the brownie batter!
+- To bulk it up (both in size and in <a href='/misc/protein'>protein</a> content), you can add a 32 oz (4 cups, 908 g) container of <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a> into the brownie batter!
 - |
   COMPARE(
     "proteinbrowniebatter",
     "proteinbrowniebatteryogurt";
 
     "<a href='#recipe'>As<br>Is</a>",
-    "With <a href='/misc/dairy#yogurt'>Yogurt</a>";
+    "With<br><a href='/misc/dairy#yogurt'>Yogurt</a>";
 
     "Calories",
     "Protein",
@@ -73,4 +76,6 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+
+- Note that using <a href='/misc/chocolate-benefits'>cocoa powder</a> instead of <a href='https://amzn.to/4rhYDwh'>carob</a> would not only probably be too bitter, but it would mean that each serving would contain 92 mg of caffeine (as compared to 0 mg with <a href='https://amzn.to/4rhYDwh'>carob</a>), which is roughly equal to the caffeine conent of a cup of coffee
 ---

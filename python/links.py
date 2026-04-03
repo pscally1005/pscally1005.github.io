@@ -10,6 +10,16 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/protein-brownie-batter": [
+        "edible protein brownie batter",
+        "protein brownie batter"
+    ],
+    "/recipes/barlotto": [
+        "barlotto, aka barley risotto",
+        "barlotto aka barley risotto",
+        "barlotto",
+        "barley risotto"
+    ],
     "/recipes/chocolate-chili": [
         "chocolate... chili?",
         "chocolate... chili",
@@ -4772,6 +4782,21 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4c6GlII": [
+        "chicken better than bouillon",
+        "better than bouillon chicken",
+        "better than bouillon"
+    ],
+    "https://amzn.to/3QiSinj": [
+        "chicken bouillon powder",
+        "bouillon powder"
+    ],
+    "https://amzn.to/4sUCq9c": [
+        "chicken bouillon cubes",
+        "chicken bouillon cube",
+        "bouillon cubes",
+        "bouillon cube"
+    ],
     "https://amzn.to/4uVLBYm": [
         "standard dubai chocolate bar",
         "standard dubai chocolate"
