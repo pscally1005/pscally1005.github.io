@@ -55,13 +55,13 @@ Description: |
   This makes satiating in addition to being delicious. It takes less than 10 minutes to prep 4 servings of rich, decadent, but <a href='/brownies'>healthy brownie</a> batter that you don't have to feel guilty about eating with a spoon. Check out my <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a> for a <a href='/misc/protein'>protein</a> packed cookie dough you can also eat with a spoon!
 Instructions:
 - Mix all ingredients together in a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
-- <img src='/assets/Food/Protein Powder/Brownie Batter/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide into 4 mason jars, about 3/4 cup (200 g) each
 
 - Store in the fridge for up to 1 week, or in the freezer indefinitely
 Notes:
 - To bulk it up (both in size and in <a href='/misc/protein'>protein</a> content), you can add a 32 oz (4 cups, 908 g) container of <a href='/misc/dairy#yogurt'>plain nonfat Greek yogurt</a> into the brownie batter!
+- <img src='/assets/Food/Protein Powder/Brownie Batter/yogurt.jpg' alt='' class='instruction-image'>
 - |
   COMPARE(
     "proteinbrowniebatter",

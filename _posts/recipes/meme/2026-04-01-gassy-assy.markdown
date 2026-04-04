@@ -51,7 +51,7 @@ tags:
 Description: |
   Happy April Fools Day!<br><br>
 
-  Have you ever been invited somewhere you absolutely did not want to go? A dinner party. A game night. Your neighbor’s “casual” wine tasting that somehow lasts six hours?<br><br>
+  Have you ever been invited somewhere you absolutely did not want to go? A dinner party. A game night. Your neighbor’s "casual" wine tasting that somehow lasts six hours?<br><br>
 
   Worry no more.<br><br>
 
@@ -61,7 +61,7 @@ Description: |
 
   This is a biological event.<br><br>
 
-  Stacked with raffinose, fructans, <a href='/misc/phytochemicals'>sulfur compounds</a>, and enough <a href='/misc/fiber'>fiber</a> to frighten a gastroenterologist, this bowl doesn’t just nourish you — it transforms you.<br><br>
+  Stacked with raffinose, fructans, <a href='/misc/phytochemicals'>sulfur compounds</a>, and enough <a href='/misc/fiber'>fiber</a> to frighten a gastroenterologist, this bowl doesn’t just nourish you, it transforms you.<br><br>
 
   With your newfound powers, you won’t need to fake a headache. You won’t need an early alarm excuse. You won’t even need to say a word.<br><br>
 
