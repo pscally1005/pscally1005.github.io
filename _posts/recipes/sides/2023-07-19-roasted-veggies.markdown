@@ -65,10 +65,10 @@ Notes:
 - <a href='/misc/veggies#artichoke'>Artichokes</a> - 30 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-artichoke.jpg' alt='' class='instruction-image'>
 
-- <a href='/misc/veggies#asparagus'>Asparagus</a> - 20 minutes
+- <a href='/misc/veggies#asparagus'>Asparagus</a> - 30 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-asparagus.jpg' alt='' class='instruction-image'>
 
-- <a href='/misc/veggies#beets'>Beets</a> - 40 minutes
+- <a href='/misc/veggies#beets'>Beets</a> - 60 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-beet.jpg' alt='' class='instruction-image'>
 
 - <a href='/misc/veggies#pepper'>Bell Peppers</a> - 20 minutes
@@ -89,6 +89,9 @@ Notes:
 - <a href='/misc/veggies#garlic'>Garlic</a> - 45 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-garlic.jpg' alt='' class='instruction-image'>
 
-- <a href='/misc/veggies#butternut-squash'>Squash</a> - 45 minutes
+- <a href='/misc/veggies#artichoke'>Rutabega</a> - 60 minutes
+- <img src='/assets/Food/Sides/Roasted Veggie/roasted-rutabega.jpg' alt='' class='instruction-image'>
+
+- <a href='/misc/veggies#butternut-squash'>Squash</a> - 60 minutes
 - <img src='/assets/Food/Sides/Roasted Veggie/roasted-squash.jpg' alt='' class='instruction-image'>
 ---
