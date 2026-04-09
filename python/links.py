@@ -25,7 +25,8 @@ LINKS = {
     ],
     "/recipes/chocolate-cake": [
         "chocolate cake from scratch",
-        "chocolate cake"
+        "chocolate cake",
+        "homemade chocolate cake"
     ],
     "/recipes/protein-brownie-batter": [
         "edible protein brownie batter",
@@ -1356,7 +1357,9 @@ LINKS = {
     ],
     "/recipes/shredded-chicken": [
         "Simple Shredded Chicken",
-        "shredded chicken"
+        "shredded chicken",
+        "leftover cooked chicken"
+        "shredded cooked chicken",
     ],
     "/recipes/sleepy-smoothie": [
         "Golden Milk, aka Sleepy Smoothie",
@@ -1951,10 +1954,6 @@ LINKS = {
         "homemade chicken broth",
         "chicken bone broth"
     ],
-    "/recipes/shredded=chicken": [
-        "shredded chicken",
-        "simple shredded chicken"
-    ],
     "/recipes/seitan": [
         "seitan"
     ],
@@ -2373,7 +2372,7 @@ LINKS = {
     "/misc/rotisserie-chicken-cost-analysis": [
         "store-bought rotisserie chicken",
         "storebought rotisserie chicken",
-        "store bough rotisserie chicken",
+        "store bought rotisserie chicken",
         "rotisserie chicken"
     ],
     "/recipes/gluten-free-millet-bread": [
@@ -5187,6 +5186,7 @@ LINKS = {
     ],
     "https://amzn.to/45yqsbM": [
         "electric hand mixer",
+        "electric mixer"
         "hand mixer"
     ],
     "https://amzn.to/4dFeyPZ": [
@@ -6118,6 +6118,10 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "shaved chocolate",
+    "oil, and vanilla",
+    "pistachio mixture",
+    "in the syrup you pour",
     "coat it in chocolate",
     "delicious and rich edible cookie dough",
     "dubai style chocolate",
@@ -7830,7 +7834,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-07")):
+            if not file.startswith(("2026-xx-xx-wh")):
                 continue
 
             # exclude some files
