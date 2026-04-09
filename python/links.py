@@ -10,6 +10,23 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/baklava": [
+        "healthy baklava",
+        "sugar free baklava",
+        "gluten free baklava",
+        "rice paper baklava",
+        "baklava with rice paper",
+        "baklava"
+    ],
+    "/recipes/white-chicken-chili": [
+        "white chicken chili with greek yogurt",
+        "greek yogurt white chicken chili",
+        "white chicken chili"
+    ],
+    "/recipes/chocolate-cake": [
+        "chocolate cake from scratch",
+        "chocolate cake"
+    ],
     "/recipes/protein-brownie-batter": [
         "edible protein brownie batter",
         "protein brownie batter"
@@ -157,7 +174,16 @@ LINKS = {
         "almond flour pierogi",
         "almond flour empanada dough",
         "almond flour pierogi dough",
-        "almond flour empanada"
+        "almond flour empanada",
+        "ground beef empanadas",
+        "ground beef empanada",
+        "sweet potato pierogi",
+        "spinach and feta hand pies",
+        "spinach and feta hand pie",
+        "spinach feta hand pies",
+        "spinach feta hand pie",
+        "spinach hand pies",
+        "spinach hand pie"
     ],
     "/recipes/almond-flour-focaccia": [
         "Almond Flour Focaccia"
@@ -4782,6 +4808,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/3QbZba1": [
+        "rice paper"
+    ],
     "https://amzn.to/4c6GlII": [
         "chicken better than bouillon",
         "better than bouillon chicken",
