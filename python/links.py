@@ -184,7 +184,9 @@ LINKS = {
         "spinach feta hand pies",
         "spinach feta hand pie",
         "spinach hand pies",
-        "spinach hand pie"
+        "spinach hand pie",
+        "spinach pies",
+        "spinach pie"
     ],
     "/recipes/almond-flour-focaccia": [
         "Almond Flour Focaccia"
@@ -6118,6 +6120,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "wrap in foil",
     "shaved chocolate",
     "oil, and vanilla",
     "pistachio mixture",
@@ -7834,7 +7837,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-xx-xx-wh")):
+            if not file.startswith(("2026-02-03")):
                 continue
 
             # exclude some files

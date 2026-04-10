@@ -120,7 +120,7 @@ Notes:
 
     <li>Let the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> cool completely before using as filling</li><br>
 
-    <li>Each pierogi will get about 1.5 tbsp (23 g) of filling</li>
+    <li>Each pierogi will get about 1 1/2 tbsp (23 g) of filling</li>
   </ol>
 - <img src='/assets/Food/Finger Food/Empanada/sw-pot.jpg' alt='' class='instruction-image'>
 
@@ -133,15 +133,15 @@ Notes:
 - INGREDIENTS(spinachpie)
 - |
   <ol>
-    <li>Add frozen spinach to a medium glass bowl.  Cover with a plate, and microwave for 5 minutes</li><br>
+    <li>Add <a href='/misc/veggies#spinach-fresh'>frozen spinach</a> to a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>.  Cover with a plate, and microwave for 5 minutes</li><br>
 
-    <li>Mix in feta, minced garlic, dill, onion powder, and salt</li><br>
+    <li>Mix in <a href='/misc/dairy#feta'>feta</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, dill, onion powder, and salt</li><br>
 
-    <li>Let the spinach cool completely before using as filling</li><br>
+    <li>Let the <a href='/misc/veggies#spinach-fresh'>spinach</a> cool completely before using as filling</li><br>
 
-    <li>Each spinach pie will get about 1.5 tbsp (23 g) of filling</li>
+    <li>Each spinach pie will get about 1 1/3 tbsp (19 g) of filling</li>
   </ol>
-# - <img src='/assets/Food/Finger Food/Empanada/spinach.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Finger Food/Empanada/spinach.jpg' alt='' class='instruction-image'>
 
 - |
   <hr>
