@@ -47,7 +47,7 @@ tags:
 - chocolate chips
 - truffles
 - vic
-Description: Happy Birthday Vic!  Do you remember those pistachio chocolate truffles that Sandra got you?  Well this is a homemade version of them with just <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, chocolate chips, and <a href='/misc/nuts#coconut'>coconut oil</a>!
+Description: These homemade truffles feature just <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, chocolate chips, and <a href='/misc/nuts#coconut'>coconut oil</a>!  There my homemade version of the <a href='https://amzn.to/4syAeDt'>Lindt Lindor Pistachio Chocolate Truffles</a> for a significantly lower cost.  It's kinda like a cross between Ohio Buckeye Balls and Dubai Chocolate.
 Instructions:
 - Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper, and place a <a href='https://amzn.to/4qQNmn2'>wire rack</a> on top
 

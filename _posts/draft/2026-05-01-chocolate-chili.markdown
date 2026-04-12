@@ -56,7 +56,7 @@ tags:
 - chili powder
 - stew
 - winter
-Description: Traditionally, <a href='/recipes/chili'>chili</a> has a little bit of <a href='/misc/chocolate-benefits'>chocolate</a> or <a href='/misc/chocolate-benefits'>cocoa powder</a> in it. A <i>little</i> bit. But what if it had <i>quite</i> a bit more than a little bit?  Introducing "Chocolate Chili", with a whopping cup of <a href='https://amzn.to/4rhYDwh'>carob powder</a>. It's incidentally vegetarian. Have you seen <a href='/misc/meat'>meat</a> prices lately?  I'm not wasting my hard earned money on this potentially stupid idea
+Description: Traditionally, <a href='/recipes/chili'>chili</a> has a little bit of <a href='/misc/chocolate-benefits'>chocolate</a> or <a href='/misc/chocolate-benefits'>cocoa powder</a> in it. A <i>little</i> bit. But what if it had <i>quite</i> a bit more than a little bit?  Introducing "Chocolate Chili", with a whopping cup of <a href='https://amzn.to/4rhYDwh'>carob powder</a>. It's incidentally vegetarian. Have you seen <a href='/misc/meat'>meat</a> prices lately?  I'm not wasting my hard earned money on this potentially stupid idea.
 Instructions:
 - Cut your <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#pepper'>peppers</a> into a medium dice
 

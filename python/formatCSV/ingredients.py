@@ -364,6 +364,8 @@ def ingredients(food):
         f = "Egg yolk"
     elif food == "Cheese, cheddar" or food == "Shredded mild cheddar cheese by BORDEN" or food == "Shredded cheese mexican blend by HOMELAND" or food == "Cheese, Mexican blend":
         f = "Shredded cheddar cheese"
+    elif food == "Cheese, Cheddar, nonfat or fat free":
+        f = "Cheddar cheese, fat free"
     elif food == "Cheese, soft type, goat":
         f = "Goat cheese"
     elif food == "Milk, with added vitamin A and vitamin D (fat free or skim), fluid, nonfat" or food == "Milk, fat free (skim)":

@@ -227,6 +227,7 @@ Cucumber,cucumber,0.64,200.00,0.00320,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0
 Romaine lettuce,lettuce,3.62,600.00,0.00603,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Roasted red peppers,roasted-red-peppers,2.13,336.00,0.00634,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/roasted-vegetables
 Feta cheese,feta,6.00,454.00,0.01322,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,
+"Feta cheese, fat free",feta-fat-free,6.00,454.00,0.01322,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,
 "Frozen broccoli, thawed",broccoli-frozen,1.16,336.00,0.00345,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Vegetables,broccoli-frozen,0.98,336.00,0.00292,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Boneless skinless chicken thighs,chicken-thighs,3.48,454.00,0.00767,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
@@ -292,6 +293,7 @@ Beef top sirloin,steak,7.82,454.00,0.01722,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0
 Frozen cauliflower,cauliflower-frozen,1.16,336.00,0.00345,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Shredded cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,
 Cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,
+"Cheddar cheese, fat free",cheddar-fat-free,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,
 Pine nuts,pine-nuts,6.92,112.00,0.06179,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,
 Pork tenderloin,pork-tenderloin,3.43,454.00,0.00756,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,/recipes/monkfruit-chocolate-chunks

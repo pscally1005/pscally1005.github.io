@@ -46,7 +46,7 @@ tags:
 - beans
 - low fodmap
 - tahini
-Description: <a href='/misc/beans'>Beans</a> and <a href='/misc/beans#chickpeas'>chickpeas</a> are some of the most nutritious foods you can eat. But some people have...certain audible and nose scrunching effects when they consume <a href='/misc/beans'>beans</a>. Introducing this no <a href='/misc/beans'>bean</a> <a href='/hummus'>hummus</a>!  Using a base of <a href='/misc/veggies#zucchini'>zucchini</a> instead of <a href='/misc/beans#chickpeas'>chickpeas</a>, this low FODMAP <a href='/hummus'>hummus</a> is also free of <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/veggies#onion'>onion</a>.  It's just as creamy and with the same taste, while also being lower in <a href='/misc/carbs'>carbs</a> and <a href='/misc/calories'>calories</a>
+Description: <a href='/misc/beans'>Beans</a> and <a href='/misc/beans#chickpeas'>chickpeas</a> are some of the most nutritious foods you can eat. But some people have...certain audible and nose scrunching effects when they consume <a href='/misc/beans'>beans</a>. Introducing this no <a href='/misc/beans'>bean</a> <a href='/hummus'>hummus</a>!  Using a base of <a href='/misc/veggies#zucchini'>zucchini</a> instead of <a href='/misc/beans#chickpeas'>chickpeas</a>, this low FODMAP <a href='/hummus'>hummus</a> is also free of <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/veggies#onion'>onion</a>.  It's just as creamy and with the same taste, while also being lower in <a href='/misc/carbs'>carbs</a> and <a href='/misc/calories'>calories</a>.
 Instructions:
 - Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
 Notes:

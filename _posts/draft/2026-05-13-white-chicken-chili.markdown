@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  White Chicken Chili with Greek Yogurt
-date:   2026-04-09 00:00:00 -0500
+date:   2026-04-12 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
@@ -64,8 +64,12 @@ Instructions:
 - Add in <a href='/misc/veggies#garlic'>minced garlic</a>, spices (chili powder, cilantro, cumin, salt, and cayenne), <a href='/misc/grains#corn'>corn</a>, and <a href='/misc/beans'>beans</a>. Cook until fragrant (about 1 minute)
 
 - Pour in your broth. Cover and bring to a boil over high heat. Reduce heat to medium low, and let simmer for 20 minutes
+- <img src='/assets/Food/Chicken/White Chicken Chili/pot-before.jpg' alt='' class='instruction-image'>
 
 - Remove from the heat, and optionally lightly blend with an <a href='https://amzn.to/3VHhgMM'>immersion blender</a> to make it creamier and thicker. Stir in your <a href='/recipes/shredded-chicken'>shredded cooked chicken</a>, <a href='/misc/dairy#yogurt'>Greek yogurt</a>, and <a href='/misc/fruit#lime-juice'>lime juice</a>. Serve
-- <img src='/assets/Food/Chicken/White Chicken Chili/pot.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Chicken/White Chicken Chili/pot-after.jpg' alt='' class='instruction-image'>
 Notes:
+- <a href='/misc/dairy#cottage-cheese'>Nonfat cottage cheese</a> (blended) can be used in place of <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>
+
+- It's better to let the <a href='/soups-and-stew'>stew</a> totally cool if you can before adding the <a href='/misc/dairy#yogurt'>yogurt</a> (or <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>), as the heat could curdle the <a href='/misc/dairy'>dairy</a>
 ---
