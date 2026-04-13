@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Mint Chocolate Protein Bar
-date:   2026-03-26 00:00:00 -0500
+date:   2026-04-13 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -21,12 +20,12 @@ copycat: no
 permalink: /recipes/mint-protein-bar
 image: /assets/Food/Protein Powder/Mint Protein Bar/cover.jpg
 file: mintprotbar
-servingSize: 
-section1: 
-start2: 
-section2: 
-start3: 
-section3: 
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
 start4:
 section4:
 start5:
