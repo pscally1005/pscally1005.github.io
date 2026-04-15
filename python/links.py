@@ -4681,6 +4681,7 @@ LINKS = {
         "leaner",
         "lean",
         "full fat",
+        "reduced fat",
         "fat free",
         "hydrogenated fats",
         "hydrogenated fat",
@@ -7853,7 +7854,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-01-05")):
+            if not file.startswith(("2026-04-16")):
                 continue
 
             # exclude some files
