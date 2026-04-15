@@ -1,0 +1,77 @@
+Nutrient,Amount,Unit,DV
+Calories,418,,
+"Vitamin A, RAE",0,mcg,0 %
+"Carotene, alpha",0,mcg,
+"Carotene, beta",0,mcg,
+"Cryptoxanthin, beta",0,mcg,
+"Lutein + zeaxanthin",0,mcg,
+"Lycopene",0,mcg,
+"Retinol",0,mcg,
+"Thiamin [Vitamin B1]",0.01,mg,1 %
+"Riboflavin [Vitamin B2]",0.302,mg,23 %
+"Niacin [Vitamin B3]",0.22,mg,1 %
+"Pantothenic acid [Vitamin B5]",0.055,mg,1 %
+"Vitamin B6",0,mg,0 %
+"Vitamin B12 [Cobalamin]",0,mcg,0 %
+"Vitamin B12, added",0,mcg,
+"Folate, DFE [Vitamin B9]",8,mcg,2 %
+"Folate, food",8,mcg,
+"Folic acid",0,mcg,
+"Vitamin C [Ascorbic acid]",0,mg,0 %
+"Vitamin D",0,mcg,0 %
+"Vitamin D3",0,mcg,
+"Vitamin E (alpha-tocopherol)",1.53,mg,10 %
+"Vitamin E, added",0,mg,
+"Tocopherol, alpha",1.53,mg,
+"Vitamin K",13,mcg,11 %
+"Vitamin K1 [Phylloquinone]",13,mcg,
+"Choline",2.3,mg,0 %
+"Calcium",3,mg,0 %
+"Copper",0,mg,0 %
+"Iron",0.16,mg,1 %
+"Magnesium",1,mg,0 %
+"Manganese",0,mg,0 %
+"Phosphorus",18,mg,1 %
+"Potassium",34,mg,1 %
+"Selenium",0.1,mcg,0 %
+"Sodium",184,mg,8 %
+"Zinc",0.07,mg,1 %
+"Protein",0,g,0 %
+"Carbohydrate",67.89,g,25 %
+"Fiber",0,g,0 %
+"Sugars",63.1,g,
+"Net carbs",67.89,g,
+"Fat",16.23,g,21 %
+"Saturated fatty acids",2.974,g,15 %
+"Butanoic acid",0,g,
+"Decanoic acid",0,g,
+"Docosanoic acid",0,g,
+"Dodecanoic acid",0,g,
+"Eicosanoic acid",0,g,
+"Heptadecanoic acid",0,g,
+"Hexadecanoic acid",2.375,g,
+"Hexanoic acid",0,g,
+"Octadecanoic acid",0.579,g,
+"Octanoic acid",0,g,
+"Pentadecanoic acid",0,g,
+"Tetradecanoic acid",0.02,g,
+"Monounsaturated fatty acids",4.86,g,
+"Docosenoic acid",0,g,
+"Eicosenoic acid",0,g,
+"Hexadecenoic acid",0.178,g,
+"Octadecenoic acid",4.681,g,
+"Polyunsaturated fatty acids",7.951,g,
+"Docosahexaenoic n-3 acid (DHA)",0,g,
+"Docosapentaenoic n-3 acid (DPA)",0,g,
+"Eicosapentaenoic n-3 acid (EPA)",0,g,
+"Eicosatetraenoic acid",0,g,
+"Octadecadienoic acid",7.05,g,
+"Octadecatetraenoic acid",0,g,
+"Octadecatrienoic acid",0.901,g,
+"Fatty acids, total trans",0,g,
+"Cholesterol",0,mg,0 %
+"Alcohol, ethyl",0,g,
+"Ash",0.81,g,
+"Caffeine",0,mg,
+"Theobromine",0,mg,
+"Water",15.07,g,

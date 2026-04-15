@@ -172,6 +172,12 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "Frostings, ready-to-eat, creamy, vanilla":
+        f = "Frosting"
+    elif food == "protein-frosting":
+        f = "Protein Frosting, Vanilla"
+    elif food == "protein-frosting-choc":
+        f = "Protein Frosting, Chocolate"
     elif food == "Dubai chocolate":
         f = "Dubai chocolate, storebought"
     elif food == "Sugar Free Dubai Chocolate" or food == "dubai-100g" or food == "dubai100g" or food == "dubai":

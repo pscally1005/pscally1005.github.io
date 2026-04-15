@@ -483,3 +483,6 @@ Shredded wheat cereal,shredded-wheat-cereal,2.94,464.12,0.00633,48,FALSE,TRUE,TR
 "Dubai chocolate, homemade",dubai-100g,5.15,414.40,0.01243,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,/recipes/dubai-chocolate
 Sugar Free Dubai Chocolate,dubai-100g,5.15,414.40,0.01243,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,/recipes/dubai-chocolate
 Rice paper,rice-paper,12.99,"1,018.80",0.01275,80,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,https://amzn.to/3QbZba1
+Frosting,frosting,1.96,454.00,0.00432,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1,0.0,0.0,0.0,0,
+"Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,/recipes/protein-frosting
+"Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,/recipes/protein-frosting#notes
