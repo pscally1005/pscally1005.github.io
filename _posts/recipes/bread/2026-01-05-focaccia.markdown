@@ -55,7 +55,7 @@ tags:
 - cheddar cheese
 - mexican cheese
 Description: |
-  This <a href='/misc/celiac'>gluten free</a> almond flour focaccia <a href='/recipes/bread'>bread</a> is high in <a href='/misc/fats'>healthy fats</a> and low in <a href='/misc/carbs'>net carbs</a>.  Featuring <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a>, this bread is a good source of <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, all with only 3 g of <a href='/misc/carbs'>net carbs</a> per slice.<br><br>
+  This <a href='/misc/celiac'>gluten free</a> <a href='/misc/nuts#almonds</a>almond flour</a> focaccia <a href='/recipes/bread'>bread</a> is high in <a href='/misc/fats'>healthy fats</a> and low in <a href='/misc/carbs'>net carbs</a>.  Featuring <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a>, this bread is a good source of <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, all with only 3 g of <a href='/misc/carbs'>net carbs</a> per slice.<br><br>
 
   It's simple to put together, and contains no <a href='/misc/fats'>added oil</a>, unlike most focaccia recipes.  For similar <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> <a href='/recipes/bread'>bread recipes</a>, see my <a href='/recipes/gluten-free-pretzels'>Gluten Free Savory Pretzels</a> and <a href='/recipes/almond-flour-empanadas'>Almond Flour Empanadas</a>.
 Instructions:
@@ -64,13 +64,13 @@ Instructions:
 - Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/cheese.jpg' alt='' class='instruction-image'>
 
-- Mix in the <a href='/misc/nuts#almonds'>almond flour</a> and baking powder with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Add in a beaten <a href='/misc/meat#eggs'>egg</a>, and combine with the <a href='https://amzn.to/40F2aK0'>spatula</a>. Switch to your hands, and knead until fully combined.  The dough should be slightly sticky
+- Mix in the baking powder and <a href='/misc/meat#eggs'>egg</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the <a href='/misc/nuts#almonds'>almond flour</a>, and combine with the <a href='https://amzn.to/40F2aK0'>spatula</a>. Switch to your hands, and knead until fully combined.  The dough should be slightly sticky
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/dough.jpg' alt='' class='instruction-image'>
 
 - Press the dough to the baking dish. Make dimples in the dough with your fingers. Top with rosemary and salt, and lightly press them into the dough. Optionally <a href='https://amzn.to/3Hdg0gk'>spray</a> the top with <a href='/misc/olive-oil'>olive oil</a>
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F until puffed and lightly golden brown, about 20 minutes.  Allow it to cool totally in the pan before cutting into 9 slices
+- Bake at 350F until puffed and lightly golden brown, about 20 minutes.  Transfer to a wire rack, and allow it to cool totally before cutting into 9 slices
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - For a lower <a href='/misc/fats'>fat</a> version, use <a href='/misc/fats'>fat free</a> <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> (1 1/2 cup, 168 g) and <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a> (2 tbsp, 28 g) in place of the standard <a href='/misc/dairy#mozzarella'>shredded mozzarella cheese</a> and <a href='/misc/dairy#cream-cheese'>cream cheese</a>
@@ -79,6 +79,8 @@ Notes:
 
 - You can also use <a href='/misc/nuts#coconut'>coconut flour</a> instead to make it <a href='/misc/nuts'>nut</a> free (3/4 cup, 90 g)
 
+- You can even get away with using <a href='/misc/dairy#whey'>whey protein powder</a> (4 scoops, 120 g) or <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> (1 cup, 96 g) in this "focaccia" if you're into that
+
 - Try whatever <a href='/misc/dairy#mozzarella'>cheese</a> you like!  I've made this quite a few times with <a href='/misc/dairy#mozzarella'>mozzarella</a> as directed, but I've also has great success using both <a href='/misc/dairy#cheddar'>cheddar</a> and <a href='/misc/dairy#feta'>feta cheese</a>!
 
 - |
@@ -86,7 +88,7 @@ Notes:
 
   The <a href='/misc/dairy#mozzarella'>mozzarella</a>, <a href='/misc/dairy#cream-cheese'>cream cheese</a>, and <a href='/misc/meat#eggs'>egg</a> are replaced with <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  Salt is added to the dough to account for the lack of the salty <a href='/misc/dairy#mozzarella'>cheese</a>.<br><br>
 
-  I'm calling for <a href='/misc/nuts#almonds'>almond flour</a> here (1 1/2 cup, 168 g), but you can also use <a href='/misc/grains#oats'>oat flour</a> (1 1/2 cup, 135 g) or <a href='/misc/nuts#coconut'>coconut flour</a> (3/4 cup, 90 g)<br><br>
+  I'm calling for <a href='/misc/nuts#almonds'>almond flour</a> here (1 1/2 cup, 168 g), but you can also use <a href='/misc/grains#oats'>oat flour</a> (1 1/2 cup, 135 g), <a href='/misc/nuts#coconut'>coconut flour</a> (3/4 cup, 90 g), <a href='/misc/dairy#whey'>whey protein</a> (4 scoops, 120 g), or <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> (1 cup, 96 g).  Obviously if you use <a href='/misc/dairy#whey'>whey</a> it won't be vegan, but it will be <a href='/misc/meat#eggs'>egg</a> and <a href='/misc/dairy#mozzarella'>cheese</a> free.<br><br>
 
   No microwaving required.  Just mix together the ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a>, add to the pan, and top with rosemary and flaky salt.<br><br>
 
@@ -101,21 +103,35 @@ Notes:
     "affocaccialowfatcheeseoat",
     "affocacciacoconut",
     "affocaccialowfatcheesecoconut",
+    "affocacciawhey",
+    "affocaccialowfatcheesewhey",
+    "affocacciapb2",
+    "affocaccialowfatcheesepb2",
     "affocacciacheddar",
     "affocaccialowfatcheddar",
     "affocacciacheddaroat",
     "affocaccialowfatcheddaroat",
     "affocacciacheddarcoconut",
     "affocaccialowfatcheddarcoconut",
+    "affocacciacheddarwhey",
+    "affocaccialowfatcheddarwhey",
+    "affocacciacheddarpb2",
+    "affocaccialowfatcheddarpb2",
     "affocacciafeta",
     "affocaccialowfatfeta",
     "affocacciafetaoat",
     "affocaccialowfatfetaoat",
     "affocacciafetacoconut",
     "affocaccialowfatfetacoconut",
+    "affocacciafetawhey",
+    "affocaccialowfatfetawhey",
+    "affocacciafetapb2",
+    "affocaccialowfatfetapb2",
     "veganfocaccia",
     "veganfocacciaoat",
-    "veganfocacciacoconut";
+    "veganfocacciacoconut",
+    "veganfocacciawhey",
+    "veganfocacciapb2";
 
     "Standard<br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
@@ -123,21 +139,35 @@ Notes:
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='/misc/grains#oats'>Oat<br>Flour</a>",
     "Standard<br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='/misc/nuts#coconut'>Coconut<br>Flour</a>",
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='/misc/nuts#coconut'>Coconut<br>Flour</a>",
+    "Standard<br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='/misc/dairy#whey'>Whey<br>Protein</a>",
+    "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='/misc/dairy#whey'>Whey<br>Protein</a>",
+    "Standard<br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanuts</a>",
+    "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#mozzarella'>Mozzarella</a><br>&<br><a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanuts</a>",
     "Standard<br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
     "Standard<br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='/misc/grains#oats'>Oat<br>Flour</a>",
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='/misc/grains#oats'>Oat<br>Flour</a>",
     "Standard<br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='/misc/nuts#coconut'>Coconut<br>Flour</a>",
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='/misc/nuts#coconut'>Coconut<br>Flour</a>",
+    "Standard<br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='/misc/dairy#whey'>Whey<br>Protein</a>",
+    "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='/misc/dairy#whey'>Whey<br>Protein</a>",
+    "Standard<br><a href='/misc/dairy#cheddar'>Cheddar</a><br>&<br><a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanuts</a>",
+    "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#Cheddar'>Mozzarella</a><br>&<br><a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanuts</a>",
     "Standard<br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
     "Standard<br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='/misc/grains#oats'>Oat<br>Flour</a>",
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='/misc/grains#oats'>Oat<br>Flour</a>",
     "Standard<br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='/misc/nuts#coconut'>Coconut<br>Flour</a>",
     "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='/misc/nuts#coconut'>Coconut<br>Flour</a>",
+    "Standard<br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='/misc/dairy#whey'>Whey<br>Protein</a>",
+    "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='/misc/dairy#whey'>Whey<br>Protein</a>",
+    "Standard<br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanuts</a>",
+    "<a href='/misc/fats'>Fat Free</a><br><a href='/misc/dairy#feta'>Feta</a><br>&<br><a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanuts</a>",
     "Vegan<br>Variation<br><a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
     "Vegan<br>Variation<br><a href='/misc/grains#oats'>Oat<br>Flour</a>",
-    "Vegan<br>Variation<br><a href='/misc/nuts#coconut'>Coconut<br>Flour</a>";
+    "Vegan<br>Variation<br><a href='/misc/nuts#coconut'>Coconut<br>Flour</a>",
+    "'Vegan'<br>Variation<br><a href='/misc/dairy#whey'>Whey<br>Protein</a>",
+    "Vegan<br>Variation<br><a href='https://amzn.to/4sgDH9S'>Powdered<br>Peanuts</a>";
 
     "Calories",
     "Protein",

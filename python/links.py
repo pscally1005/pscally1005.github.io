@@ -10,6 +10,16 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/protein-frosting": [
+        "protein frosting recipe",
+        "protein frosting, vanilla",
+        "protein frosting, chocolate",
+        "protein frosting",
+        "vanilla protein frosting",
+        "chocolate protein frosting"
+        "vanilla frosting",
+        "chocolate frosting"
+    ],
     "/recipes/baklava": [
         "healthy baklava",
         "sugar free baklava",
@@ -3223,6 +3233,7 @@ LINKS = {
     "/misc/dairy#yogurt": [
         "plain nonfat greek yogurt",
         "nonfat greek yogurt",
+        "plain greek yogurt",
         "greek yogurt",
         "yogurt"
     ],
@@ -3279,6 +3290,8 @@ LINKS = {
         "protein powder (whey)",
         "protein powder (vanilla whey)",
         "protein powder (chocolate whey)",
+        "vanilla whey protein powder",
+        "chocolate whey protein powder",
         "whey protein powder",
         "whey protein",
         "whey",
@@ -5880,6 +5893,7 @@ LINKS = {
     ],
     "/misc/fake-healthy-foods#seed-oil": [
         "inflammatory oils",
+        "inflammatory fats",
         "palm or vegetable oils",
         "palm or vegetable oil",
         "peanut oil",
@@ -6120,6 +6134,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "cupcakes, muffins",
+    "delicious and healthy frosting for all",
     "wrap in foil",
     "shaved chocolate",
     "oil, and vanilla",

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Protein Frosting Recipe
-date:   2026-03-28 00:00:00 -0500
+date:   2026-04-15 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
@@ -51,17 +51,17 @@ tags:
 - nonfat cottage cheese
 - protein powder
 - vanilla whey
-Description: With just 3 simple ingredients, you can make a delicious and healthy frosting for all your healthy cakes, cupcakes, muffins, dips, or whatever else you can think of. Just combine together blended cottage cheese, vanilla whey protein powder, and vanilla extract for a super duper high protein frosting that's sugar free and fat free.
+Description: With just 3 simple ingredients, you can make a delicious and healthy frosting for all your healthy cakes, cupcakes, muffins, dips, or whatever else you can think of. Just combine together blended <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#whey'>vanilla whey protein powder</a>, and vanilla extract for a super duper <a href='/misc/high-protein'>high protein</a> frosting that's <a href='/misc/hidden-sugar'>sugar free</a> and <a href='/misc/fats'>fat free</a>.
 Instructions:
-- In a medium bowl, combine together (blended) cottage cheese, protein powder, and vanilla extract
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, combine together (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#whey'>protein powder</a>, and vanilla extract
 
 Notes:
-- You can also use an equal amount of plain Greek yogurt instead of cottage cheese, though you'll need to add 1/2 tsp (3 g) salt
+- You can also use an equal amount of <a href='/misc/dairy#yogurt'>plain Greek yogurt</a> instead of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, though you'll need to add 1/2 tsp (3 g) salt
 
-- To make this into a chocolate frosting, add 4 tbsp (20 g) cocoa powder
+- To make this into a chocolate frosting, add 4 tbsp (20 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>
 - <img src='/assets/Food/Sweet spreads/Protein frosting/chocolate.jpg' alt='' class='instruction-image'>
 
-- Unlike storebought frostings, which are filled with added sugars, inflammatory fats, food dye, preservatives, and loads of other junk, this homemade frosting contains no added sugar and fat, while being low calorie and high protein.  Refer to the table below for a nutritional comparison per serving (2 tbsp)
+- Unlike storebought frostings, which are filled with <a href='/misc/hidden-sugar'>added sugars</a>, <a href='/misc/fake-healthy-foods#seed-oil'>inflammatory fats</a>, food dye, preservatives, and loads of other junk, this homemade frosting contains no <a href='/misc/hidden-sugar'>added sugar</a> and <a href='/misc/fats'>fat</a>, while being <a href='/misc/calories'>low calorie</a> and <a href='/misc/high-protein'>high protein</a>.  Refer to the table below for a nutritional comparison per serving (2 tbsp)
 - |
   COMPARE(
     "proteinfrosting",
