@@ -63,7 +63,7 @@ tags:
 - gluten free
 Description: Oh boy.  My brother sent me this ridiculous ChatGPT generated cake recipe, and I wanted to try making it for when he came to visit.  This wacky cake is certainly the strangest thing I've ever made.  It's a savory <a href='/misc/beans#black-beans'>black bean</a> cake that's shockingly way better than it sounds.  Ignore that it's called cake; this concoction is more of a savory quick bread.  It acts more so as a dinner <a href='/misc/carbs'>carb</a> <a href='/recipes/sides'>side</a> than a <a href='/recipes/healthier-dessert'>dessert</a>.
 Instructions:
-- Preheat your oven to 350F, and line a <a href='https://amzn.to/4q0gY0f'>9" cake pan</a> with parchment paper. Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the paper
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/4mxxkxl'>9" cake pan</a> with parchment paper. Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the paper
 
 - Drain and rinse your <a href='/misc/beans'>beans</a>. Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth. Blend in the baking soda last. As soon as the baking soda interacts with the vinegar, the reaction to rise the cake will begin, so adding it as late as possible helps to get more optimal lift (am I really giving advice when I'm <a href='/recipes/healthier-dessert'>baking</a> a cake with sauerkraut, seaweed, and <a href='/misc/veggies#ginger'>ginger</a>??)
 - <img src='/assets/Food/Meme/Wacky cake/processor.jpg' alt='' class='instruction-image'>

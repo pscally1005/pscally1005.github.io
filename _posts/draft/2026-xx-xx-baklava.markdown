@@ -60,7 +60,7 @@ Description: |
 
   The result is a delicious and nutty <a href='/recipes/healthier-dessert'>dessert</a> that's a good source of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a> from the <a href='/misc/nuts'>nuts</a>!
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/4mxxkxl'>9" cake pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>
 
 - Prepare a wide and flat bowl with cold water to dip your <a href='https://amzn.to/3QbZba1'>rice paper</a> into
 

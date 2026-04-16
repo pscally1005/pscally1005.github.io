@@ -97,7 +97,7 @@ Notes:
 
 - I've used both immitation vanilla and almond extract, but if you use real extracts, you may want to cut the amounts in half
 
-- To make this into a layer cake, bake the batter in two <a href='https://amzn.to/4q0gY0f'>9" circle cake pans</a> for about 40 minutes, covered with foil. Spread frosting on the middle layer, the top, and down the sides. Dust the top with <a href='/misc/chocolate-benefits'>cocoa powder</a>
+- To make this into a layer cake, bake the batter in two <a href='https://amzn.to/4mxxkxl'>9" circle cake pans</a> for about 40 minutes, covered with foil. Spread frosting on the middle layer, the top, and down the sides. Dust the top with <a href='/misc/chocolate-benefits'>cocoa powder</a>
 - <img src='/assets/Food/Protein Powder/Chickpea Brownie/chickpea-cake.jpg' alt='' class='instruction-image'>
 
 - Here's a simple protein frosting recipe

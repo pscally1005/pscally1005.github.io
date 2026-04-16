@@ -51,7 +51,7 @@ tags:
 - birthday
 Description: Happy Birthday Vic!  Here's a homemade chocolate cake recipe.  That's it, that's the description.
 Instructions:
-- Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4q0gY0f'>9" cake pans</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease the paper with oil</a>
+- Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4mxxkxl'>9" cake pans</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease the paper with oil</a>
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, baking soda, and salt
 

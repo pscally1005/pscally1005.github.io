@@ -49,11 +49,11 @@ tags:
 - simple pasta sauce
 - whole wheat pizza dough
 - home oven baked pizza
-Description: Deep Dish Pizza is certainly an unconventional way to celebrate Pi Day, but it is technically a pie, so I'm counting it. As a New Yorker with Italian heritage, deep dish is probably the last thing that comes to mind when I think of pizza; but it may just be my new favorite. Using a <a href='https://amzn.to/4q0gY0f'>9" cake pan</a> and some leftover pizza dough, I'm making a simple deep dish pizza with <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> and tomato sauce. I'm keeping it simple today, but you can also top with any <a href='/misc/meat'>meat</a> or roasted <a href='/misc/veggies'>veggies</a> you like.  For <a href='/recipes/healthier-dessert'>dessert</a>, I'm celebrating Pi day with a <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>.
+Description: Deep Dish Pizza is certainly an unconventional way to celebrate Pi Day, but it is technically a pie, so I'm counting it. As a New Yorker with Italian heritage, deep dish is probably the last thing that comes to mind when I think of pizza; but it may just be my new favorite. Using a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a> and some leftover pizza dough, I'm making a simple deep dish pizza with <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> and tomato sauce. I'm keeping it simple today, but you can also top with any <a href='/misc/meat'>meat</a> or roasted <a href='/misc/veggies'>veggies</a> you like.  For <a href='/recipes/healthier-dessert'>dessert</a>, I'm celebrating Pi day with a <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>.
 Instructions:
 - See my <a href='/recipes/pizza'>Home Oven Baked Pizza</a> for instructions on how to make and prepare the pizza dough
 
-- Preheat your oven to 350F, and take out a <a href='https://amzn.to/4q0gY0f'>9" cake pan</a>
+- Preheat your oven to 350F, and take out a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a>
 
 - Stretch your pizza dough as thin and round as possible, and place into the pan. Line the bottom, and pull the dough up the sides of the walls of the pan.  Lightly wet your fingers to get the dough to cling to the walls of the pan
 - <img src='/assets/Food/Meatless/Deep Dish/dough.jpg' alt='' class='instruction-image'>

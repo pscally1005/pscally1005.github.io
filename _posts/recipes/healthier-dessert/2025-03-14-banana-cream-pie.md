@@ -45,7 +45,7 @@ tags:
 - healthier graham cracker pie crust
 Description: Today, I'm celebrating Pi day by combining 3 recipes together to make a healthy <a href='/misc/fruit#banana'>banana</a> cream pie. With my <a href='/recipes/pie-crust'>Healthier Graham Cracker Pie Crust</a>, <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a>, and <a href='/recipes/whipped-cream'>Aquafaba Whipped Cream</a>, you end up with a delicious pie that's significantly lower in <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fats'>fat</a> than traditional!  Before <a href='/recipes/healthier-dessert'>dessert</a> though, I'm celebrating Pi day with a <a href='/recipes/deep-dish-pizza'>Whole Wheat Deep Dish Pizza Pie</a>.
 Instructions: 
-- Prepare the <a href='/recipes/pie-crust'>Healthier Graham Cracker Pie Crust</a> by mixing all ingredients together in a bowl, shaping into a <a href='https://amzn.to/4q0gY0f'>9" cake pan</a>, and baking at 350F for 15 minutes, until lightly browned. Refrigerate to cool
+- Prepare the <a href='/recipes/pie-crust'>Healthier Graham Cracker Pie Crust</a> by mixing all ingredients together in a bowl, shaping into a <a href='https://amzn.to/4q0gY0f'>9" pie pan</a>, and baking at 350F for 15 minutes, until lightly browned. Refrigerate to cool
 - <img src='/assets/Food/Healthier Dessert/Pie Crust/baked.jpg' alt='' class='instruction-image'>
 
 - Drain your <a href='/misc/beans#chickpeas'>chickpeas</a>, saving the liquid (aquafaba). Blend the <a href='/misc/beans#chickpeas'>chickpeas</a> with the rest of the filling ingredients to make the <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a>
