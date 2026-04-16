@@ -3221,6 +3221,8 @@ LINKS = {
         "full fat cottage cheese"
     ],
     "/misc/dairy#cream-cheese": [
+        "full fat cream cheese",
+        "reduced fat cream cheese",
         "cream cheese"
     ],
     "/misc/dairy#feta": [
