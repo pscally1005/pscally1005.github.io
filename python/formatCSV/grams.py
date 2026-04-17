@@ -405,6 +405,17 @@ def grams(food, mass, vol):
         elif vol == "12 tsp" or vol == "4 tbsp" or vol == "1/4 cup":
             m = "12"
 
+    # Frosting
+    elif food == "Protein Frosting, Vanilla":
+        if vol == "1 serving":
+            m = "29"
+        elif vol == "12 serving":
+            m = "351"
+    elif food == "Protein Frosting, Chocolate":
+        if vol == "1 serving":
+            m = "31"
+        elif vol == "12 serving":
+            m = "371"
 
     # Sauce
     elif food == "Simple pasta sauce":

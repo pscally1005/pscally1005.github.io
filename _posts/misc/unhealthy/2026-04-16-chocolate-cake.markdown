@@ -76,27 +76,45 @@ Instructions:
 - Slice and serve. Store in the fridge for up to a week, or freeze the slices indefinitely
 - <img src='/assets/Misc/Unhealthy/Cake/no-candle.jpg' alt='' class='instruction-image'>
 Notes:
-- If you don't have buttermilk, mix together 1 tbsp (15 g) white vinegar with 15 tbsp (225 g) <a href='/misc/dairy#skim-milk'>milk</a>, and let sit for 5 minutes before using as buttermilk in the cake batter
+- If you don't have buttermilk, mix together 1 tbsp (15 g) white vinegar with 15 tbsp (225 g) milk, and let sit for 5 minutes before using as buttermilk in the cake batter
 
-- To make the cake slightly healthy, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/misc/olive-oil'>extra virgin olive oil</a>.  Half of the raw batter for each pan will weigh 662 g in this case
+- |
+  <div id='healthier' class='table-of-contents-2'></div>
+  To make the cake <i>slightly</i> healthier, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/misc/olive-oil'>extra virgin olive oil</a>.  Half of the raw batter for each pan will weigh 662 g in this case<br><br>
+
+  I taste testing this version side by side with the <a href='#recipe'>original cake recipe</a>, and noticed absolutely no difference in taste or texture in the finish baked cake.  The raw batter (which I need to legally say you shoudn't eat), did taste a little "wheaty", though the baked cakes were identical.  You could not taste the <a href='/misc/grains#whole-wheat'>whole wheat</a>, <a href='/misc/olive-oil'>olive oil</a>, or <a href='/misc/natural-sweeteners#honey'>honey</a> whatsoever after baking.
 - INGREDIENTS(cakehealthierbase)
 
-- As for the frosting, to make it a bit healthier, use the following instead.  The <a href='/misc/dairy#cream-cheese'>full fat cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a> are swapped out for <a href='/misc/dairy#cream-cheese'>reduced fat cream cheese</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>
+- As for the frosting, to make it <i>slightly</i> healthier, use the following instead.  The <a href='/misc/dairy#cream-cheese'>full fat cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a> are swapped out for <a href='/misc/dairy#cream-cheese'>reduced fat cream cheese</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>
 - INGREDIENTS(cakehealthierfrosting)
+
+- |
+  <div id='healthiest' class='table-of-contents-2'></div>
+  To make the cake <i>significantly</i> healthier, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/nuts#almonds'>almond flour</a>, <a href='recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  Half of the raw batter for each pan will weigh 654 g in this case.<br><br>
+
+  Doing so makes the cake <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, lower in <a href='/misc/carbs'>net carbs</a>, lower in <a href='/misc/fats'>fat</a>, higher in <a href='/misc/protein'>protein</a>, higher in <a href='/misc/fiber'>fiber</a>, and lower in <a href='/misc/calories'>calories</a>.  I have yet to test this variation, but I will report back on my findings when I do.
+- INGREDIENTS(cakehealthiestnofrosting)
+
+- As for the frosting, I will be utilizing my <a href='/recipes/protein-frosting'>protein frosting recipe</a> to <a href='/misc/hidden-sugar'>glaze</a> this cake, which combines together <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (or <a href='/misc/dairy#yogurt'>greek yogurt</a>) with <a href='/misc/dairy#whey'>whey protein powder</a> and vanilla extract
 
 - |
   COMPARE(
     "cake",
-    "cakehealthier";
+    "cakehealthier",
+    "cakehealthiest";
 
     "<a href='#recipe'>As Is</a>",
-    "<a href='#notes'>Healthier</a>";
+    "<a href='#healthier'>Healthier</a>",
+    "<a href='#healthiest'>Healthiest</a>";
+
 
     "Calories",
     "Protein",
     "Fat",
     "Fiber",
     "Net Carbs",
-    "Added Sugar"
+    "Added Sugar",
+    "Sugar Alcohol",
+    "Glycemic Index"
   )
 ---

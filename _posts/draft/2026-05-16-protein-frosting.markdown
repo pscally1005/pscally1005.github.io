@@ -59,7 +59,7 @@ Notes:
 - You can also use an equal amount of <a href='/misc/dairy#yogurt'>plain Greek yogurt</a> instead of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, though you'll need to add 1/2 tsp (3 g) salt
 
 - To make this into a chocolate frosting, add 4 tbsp (20 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>
-- <img src='/assets/Food/Sweet spreads/Protein frosting/choc.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Sweet spreads/Protein frosting/choc.jpg' alt='' class='instruction-image'>
 
 - Unlike storebought frostings, which are filled with <a href='/misc/hidden-sugar'>added sugars</a>, <a href='/misc/fake-healthy-foods#seed-oil'>inflammatory fats</a>, food dye, preservatives, and loads of other junk, this homemade frosting contains no <a href='/misc/hidden-sugar'>added sugar</a> and <a href='/misc/fats'>fat</a>, while being <a href='/misc/calories'>low calorie</a> and <a href='/misc/high-protein'>high protein</a>.  Refer to the table below for a nutritional comparison per serving (2 tbsp)
 - |

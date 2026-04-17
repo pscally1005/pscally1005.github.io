@@ -355,6 +355,13 @@ def vol_from_mass(food, mass, vol):
         elif mass == "810":
             v = "2 x 13.5 oz can"
 
+    # Frosting
+    elif food == "Protein Frosting, Vanilla" or food == "Protein Frosting, Chocolate":
+        if mass == "29":
+            v = "2 tbsp"
+        elif mass == "351" or mass == "371":
+            v = "1 batch"
+
     # Shredded chicken
     elif food == "Simple Shredded Chicken":
         if mass == "28":
