@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/spinach-artichoke-dip
 image: /assets/Food/Savory Sauces/Artichoke/cover.jpg
 file: artichokedipnew

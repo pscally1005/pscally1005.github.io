@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/green-bread
 image: /assets/Food/Meme/Green/cover.jpg
 file: green

@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/caramel-sauce
 image: /assets/Misc/Unhealthy/Caramel/cover.jpg
 file: caramelsauce

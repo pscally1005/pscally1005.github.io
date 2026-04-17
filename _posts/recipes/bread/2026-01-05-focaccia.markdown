@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/almond-flour-focaccia
 image: /assets/Food/Bread/Almond Flour Focaccia/cover.jpg
 file: affocaccia

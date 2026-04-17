@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: yes
+vic: yes
 permalink: /recipes/copycat-barebell
 image: /assets/Food/Protein Powder/Barbell/cover.jpg
 file: barbell-unsw
@@ -63,7 +64,7 @@ tags:
 - vanilla whey
 - barebell protein bar
 - powdered peanut butter
-Description: My go to <a href='/recipes/protein-bar'>protein bar</a> is a <a href='https://amzn.to/4joguO0'>Quest Bar</a>, which I've already <a href='/copycat'>recreated</a> to great success. But Vic prefers <a href='https://amzn.to/3HwsPlW'>Barebell Protein Bars</a>, so today I'm making my own version. This <a href='/recipes/protein-bar'>protein bar</a> has a chewy, nougat-like <a href='/misc/protein'>protein</a> filling, coated with melted chocolate. We end up with a <a href='/misc/hidden-sugar'>sugar free</a> <a href='/recipes/protein-bar'>protein bar</a> with 200 <a href='/misc/calories'>calories</a>, 20 g of <a href='/misc/protein'>protein</a>, and no junk ingredients you've never heard of.  Plus, it's less half the price, just $0.92 per bar instead of $8.98 for a measly box of 4. If you enjoy <a href='/copycat'>copycat</a> <a href='/recipes/protein-bar'>protein bar</a> recipes, also see my <a href='/recipes/copycat-quest-bars'>Copycat Quest Protein Bars</a> and <a href='/recipes/rx-bars'>Copycat Chocolate RX Bars</a>.
+Description: My go to <a href='/recipes/protein-bar'>protein bar</a> is a <a href='https://amzn.to/4joguO0'>Quest Bar</a>, which I've already <a href='/copycat'>recreated</a> to great success. But <a href='/vic'>Vic</a> prefers <a href='https://amzn.to/3HwsPlW'>Barebell Protein Bars</a>, so today I'm making my own version. This <a href='/recipes/protein-bar'>protein bar</a> has a chewy, nougat-like <a href='/misc/protein'>protein</a> filling, coated with melted chocolate. We end up with a <a href='/misc/hidden-sugar'>sugar free</a> <a href='/recipes/protein-bar'>protein bar</a> with 200 <a href='/misc/calories'>calories</a>, 20 g of <a href='/misc/protein'>protein</a>, and no junk ingredients you've never heard of.  Plus, it's less half the price, just $0.92 per bar instead of $8.98 for a measly box of 4. If you enjoy <a href='/copycat'>copycat</a> <a href='/recipes/protein-bar'>protein bar</a> recipes, also see my <a href='/recipes/copycat-quest-bars'>Copycat Quest Protein Bars</a> and <a href='/recipes/rx-bars'>Copycat Chocolate RX Bars</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together all dry ingredients for the filling - <a href='/misc/dairy#whey'>whey</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, and salt.  Add in the vanilla, and thin out little by little with water until you have a sticky dough
 - <img src='/assets/Food/Protein Powder/Barbell/bowl.jpg' alt='' class='instruction-image'>

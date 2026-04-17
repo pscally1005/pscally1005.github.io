@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chocolate-kefir
 image: /assets/Food/Drinks/Kefir/cover.jpg
 file: kefir

@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/chickpea-cookies
 image: /assets/Food/Healthier Dessert/Chickpea Cookies/chickpea-cookies.jpg
 file: chickpeacookies

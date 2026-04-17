@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/sweet-potato-yogurt
 image: /assets/Food/Breakfast/Sw Pot Yogurt/sw-pot-yogurt.jpg
 file: yogurtswpot

@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/pistachio-truffles
 image: /assets/Misc/Unhealthy/Pistachio Truffle/cover1.jpg
 file: pistachiotruffle

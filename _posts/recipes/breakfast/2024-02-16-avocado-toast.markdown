@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/avocado-toast
 image: /assets/Food/Breakfast/Avocado Toast/toast.jpg
 file: toast

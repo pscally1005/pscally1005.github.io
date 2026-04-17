@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/keto-fudge
 image: /assets/Food/Healthier Dessert/Keto Fudge/fudge-cover.jpg
 file: ketofudge

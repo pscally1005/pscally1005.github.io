@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/sweet-potato-banana-muffins
 image: /assets/Food/Breakfast/Sw Pot Ban Muff/muffin-cover.jpg
 file: muffin

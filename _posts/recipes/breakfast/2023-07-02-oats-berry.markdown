@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/oats-berry
 image: /assets/Food/Breakfast/Oatmeal/oats-berry.jpg
 file: oatsberry

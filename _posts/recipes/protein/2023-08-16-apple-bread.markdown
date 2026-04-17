@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/apple-bread
 image: /assets/Food/Protein Powder/Apple Bread/apple-bread-cover.jpg
 file: appplebread

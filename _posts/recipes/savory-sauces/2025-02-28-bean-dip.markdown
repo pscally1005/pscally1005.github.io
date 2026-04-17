@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cheesy-bean-dip
 image: /assets/Food/Savory Sauces/Bean Dip/cover.jpg
 file: beandip

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/no-yogurt-oatmeal
 image: /assets/Food/Breakfast/No Yo/cover.jpg
 file: oatsnoyogurt

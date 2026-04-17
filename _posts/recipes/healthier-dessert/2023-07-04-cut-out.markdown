@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/cut-out-cookies
 image: /assets/Food/Healthier Dessert/Cut Out/cut-out-cover.jpg
 file: cutout

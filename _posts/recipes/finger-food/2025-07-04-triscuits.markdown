@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: yes
+vic: no
 permalink: /recipes/triscuits
 image: /assets/Food/Finger Food/Triscuit/cover-new.jpg
 file: triscuit

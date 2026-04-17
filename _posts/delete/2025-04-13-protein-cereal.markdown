@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/protein-cereal
 image: /assets/Food/Breakfast/Protein Cereal/cover.jpg
 file: proteincereal

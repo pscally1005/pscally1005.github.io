@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/fatty-yogurt
 image: /assets/Food/Breakfast/Fatty Yogurt/cover.jpg
 file: fattyyogurt

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/puree-veggie-soup
 image: /assets/Food/Sides/Puree Soup/cover.jpg
 file: pureesoup

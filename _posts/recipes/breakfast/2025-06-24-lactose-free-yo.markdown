@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/lactose-free-yogurt
 image: /assets/Food/Breakfast/Lactose Free Yogurt/cover-1.jpg
 file: lactosefreeyog

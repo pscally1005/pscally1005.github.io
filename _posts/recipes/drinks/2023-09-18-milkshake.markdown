@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/milkshake
 image: /assets/Food/Drinks/Milkshake/milkshake.jpg
 file: milkshake

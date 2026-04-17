@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/bean-salad
 image: /assets/Food/Sides/Bean Salad/bean-salad-cover.jpg
 file: beansalad

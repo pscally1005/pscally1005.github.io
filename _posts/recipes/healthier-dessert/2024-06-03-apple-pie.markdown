@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/apple-pie
 image: /assets/Food/Healthier Dessert/Apple Pie/apple-pie-cover.jpg
 file: applepie

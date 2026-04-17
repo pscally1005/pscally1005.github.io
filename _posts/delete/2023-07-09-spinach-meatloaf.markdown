@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/spinach-meatloaf
 image: /assets/Food/Ground Meat/Spinach Meatloaf/spinach-meat-cover.jpg
 file: spinachmeat

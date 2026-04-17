@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cashew-ricotta-cheese
 image: /assets/Food/Savory Sauces/Cashew Ricotta/cover.jpg
 file: cashewricotta

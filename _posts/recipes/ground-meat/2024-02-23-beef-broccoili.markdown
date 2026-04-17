@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/beef-and-broccoli
 image: /assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-cover.jpg
 file: beefbroccoli

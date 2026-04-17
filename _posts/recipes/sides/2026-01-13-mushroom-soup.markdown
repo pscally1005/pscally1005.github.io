@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/mushroom-soup
 image: /assets/Food/Sides/Mushroom Soup/mushroom-soup.jpg
 file: mushroomsoup

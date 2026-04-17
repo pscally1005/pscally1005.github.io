@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/crepe
 image: /assets/Food/Breakfast/Crepe/crepe-cover.jpg
 file: crepe

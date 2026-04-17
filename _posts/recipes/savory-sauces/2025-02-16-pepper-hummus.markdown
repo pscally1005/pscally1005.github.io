@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/roasted-red-pepper-hummus
 image: /assets/Food/Savory Sauces/Pepper Hummus/cover.jpg
 file: pepperhummus

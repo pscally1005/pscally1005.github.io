@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/reconstituted-peanut-butter
 image: /assets/Food/Meme/PB/pb.jpg
 file: reconstitutedpb

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/protein-mug-cake
 image: /assets/Food/Protein Powder/Mug Cake/cooked.jpg
 file: proteinmugcake

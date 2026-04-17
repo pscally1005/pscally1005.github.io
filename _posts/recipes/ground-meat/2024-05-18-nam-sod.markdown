@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/nam-sod
 image: /assets/Food/Ground Meat/Nam Sod/nam-sod.jpg
 file: namsod

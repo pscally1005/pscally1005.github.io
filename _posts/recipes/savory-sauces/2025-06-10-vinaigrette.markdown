@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/balsamic-vinaigrette
 image: /assets/Food/Savory Sauces/Vinaigrette/salad.jpg
 file: vinaigrette

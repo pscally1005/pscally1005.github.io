@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/chicken-florentine
 image: /assets/Food/Chicken/Florentine/cover.jpg
 file: florentine

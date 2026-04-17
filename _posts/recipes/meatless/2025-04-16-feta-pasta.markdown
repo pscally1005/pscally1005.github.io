@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/feta-pasta
 image: /assets/Food/Meatless/Feta pasta/separate.jpg
 file: fetapasta

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cottage-cheese-ice-cream
 image: /assets/Food/Protein Powder/Cottage Cheese Ice Cream/cc-cream.jpg
 file: ccicecream

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/broccoli-fries
 image: /assets/Food/Finger Food/Vegetable/vegetable-chip-cover.jpg
 file: veggiechip
@@ -49,7 +50,6 @@ tags:
 - blend
 - protein
 - casein
-- vic
 Description: These simple <a href='/misc/veggies'>vegetable</a> snack bites are delicious and super nutritious. They're made by blending together <a href='/misc/veggies#broccoli'>broccoli</a> and spices, turned into a dough and baked in bite sized pieces. Bonus points for accidentally satisfying all my criteria for a protein bar as well!  For a meal, you can pair them with my <a href='/recipes/chicken-fingers'>Gluten Free Air Fryer Chicken Fingers</a> recipe.
 Instructions:
 - Thaw out your <a href='/misc/veggies#broccoli'>broccoli</a> in the microwave, or let sit on the counter for a few hours

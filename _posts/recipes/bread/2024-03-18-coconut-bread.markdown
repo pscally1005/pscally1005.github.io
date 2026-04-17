@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/coconut-bread
 image: /assets/Food/Bread/Coconut Bread/coconut-bread-cover.jpg
 file: coconutbread

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: yes
 permalink: /recipes/coconut-macaroons
 image: /assets/Food/Healthier Dessert/Coconut/cover.jpg
 file: coconut

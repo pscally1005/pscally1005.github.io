@@ -18,6 +18,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/coconut-brownies
 image: /assets/Food/Healthier Dessert/Coconut Brownies/coconut-brownie.jpg
 file: coconutbrownies
@@ -57,7 +58,6 @@ tags:
 - unsweetened applesauce
 - applesauce
 - nut free
-- vic
 Description: These <a href='/misc/nuts#coconut'>coconut</a> <a href='/brownies'>brownies</a> are <a href='/misc/celiac'>gluten free</a>, <a href='/misc/hidden-sugar'>sugar</a> free, and <a href='/misc/nuts'>nut</a> free, but still just as delicious.  It uses <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='/misc/nuts#coconut'>coconut flour</a> as its <a href='/misc/fats'>fat</a> and <a href='/misc/grains#white-wheat'>flour</a>, and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>/<a href='/misc/natural-sweeteners#honey'>honey</a>) as its sweetener.  The <a href='/misc/fats'>fat</a> is cut back a bit by the use of <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a> and <a href='/misc/fruit#apple'>unsweetened applesauce</a>, which also adds a touch of sweetness.  Feel free to top with or mix in some chocolate chips too!  You can also check out any of my other <a href='/brownies'>brownie recipes</a>.
 Instructions:
 - Preheat your oven to 350F, and line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper.  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the pan with oil</a>

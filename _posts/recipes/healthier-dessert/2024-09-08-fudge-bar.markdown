@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/oatmeal-fudge-bars
 image: /assets/Food/Healthier Dessert/Oatmeal Fudge/of-cover.jpg
 file: oatmealfudge

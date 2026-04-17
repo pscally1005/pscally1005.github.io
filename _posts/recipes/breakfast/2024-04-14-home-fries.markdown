@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/home-fries
 image: /assets/Food/Breakfast/Home Fries/home-fries-cover.jpg
 file: homefries

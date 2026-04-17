@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pasta-with-clam-sauce
 image: /assets/Food/Fish/Clam Sauce New/mixed.jpg
 file: clamsaucenew

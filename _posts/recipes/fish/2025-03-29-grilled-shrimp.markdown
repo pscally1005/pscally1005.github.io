@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/grilled-shrimp
 image: /assets/Food/Fish/Grilled Shrimp/cover.jpg
 file: grilledshrimp

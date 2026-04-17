@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/air-fried-trail-mix
 image: /assets/Food/Finger Food/Air Fry Trail Mix/cover.jpg
 file: airfrytrail

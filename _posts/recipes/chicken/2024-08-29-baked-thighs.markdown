@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/baked-chicken-thighs
 image: /assets/Food/Chicken/Baked Thighs/cover.jpg
 file: bakedthighs

@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/blue-cheese-dressing
 image: /assets/Food/Savory Sauces/Blue Cheese/blue-cheese.jpg
 file: bluecheese

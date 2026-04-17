@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/fig-walnut-energy-bites
 image: /assets/Food/Finger Food/Fig Walnut/cover1.jpg
 file: figwalnut

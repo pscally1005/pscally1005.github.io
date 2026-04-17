@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chickpea-date-brownies
 image: /assets/Food/Healthier Dessert/Chickpea Date Brownie/cover.jpg
 file: chickpeadatebrownies

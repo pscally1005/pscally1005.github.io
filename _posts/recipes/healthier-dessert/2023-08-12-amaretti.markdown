@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: yes
 permalink: /recipes/amaretti
 image: /assets/Food/Healthier Dessert/Amaretti/amaretti-cover.jpg
 file: amaretticookies

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: yes
 permalink: /recipes/edible-cookie-dough-bites
 image: /assets/Food/Healthier Dessert/OF CD/cookie-dough.jpg
 file: ofcd

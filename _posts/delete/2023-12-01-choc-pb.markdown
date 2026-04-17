@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/choc-pb
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cover.jpg
 file: chocpb

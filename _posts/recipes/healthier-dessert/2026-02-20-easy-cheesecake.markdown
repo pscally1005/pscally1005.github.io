@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/easy-cheesecake
 image: /assets/Food/Healthier Dessert/Easy cheesecake/cover.jpg
 file: easycheesecake

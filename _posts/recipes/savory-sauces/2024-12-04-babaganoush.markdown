@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/babaganoush
 image: /assets/Food/Savory Sauces/Babaganoush/cover.jpg
 file: babaganoush

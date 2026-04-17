@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cheesy-cauliflower-rice-and-beans
 image: /assets/Food/Meatless/Cheesy Cauli/container-sauce.jpg
 file: cheesycauli

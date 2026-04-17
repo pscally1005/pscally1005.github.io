@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/refried-beans
 image: /assets/Food/Sides/Refried/refried-cover.jpg
 file: refried
@@ -56,7 +57,6 @@ tags:
 - chickpeas
 - garbanzo beans
 - cumin
-- vic
 Description: <a href='/misc/beans#refried-beans'>Refried beans</a> are a great <a href='/recipes/sides'>side dish</a> to many different meals. It's very easy to put together, and can be made with any type of <a href='/misc/beans'>bean</a> that you desire. It's basically roughly mashed and cooked <a href='/hummus'>hummus</a>, and works well as a dip, burrito filling, or <a href='/recipes/sides'>side</a> on your plate.
 Instructions:
 - Preheat a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat with oil. Meanwhile, finely dice your <a href='/misc/veggies#onion'>onion</a>. Add diced <a href='/misc/veggies#onion'>onion</a> to the pan with salt. Cover, and cook until the <a href='/misc/veggies#onion'>onions</a> are soft and translucent, and begin to caramelize

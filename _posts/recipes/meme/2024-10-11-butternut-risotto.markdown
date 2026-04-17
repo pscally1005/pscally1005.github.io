@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/butternut-squash-risotto
 image: /assets/Food/Meme/RisOATto/cover.jpg
 file: butternutrisotto

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/mint-protein-bar
 image: /assets/Food/Protein Powder/Mint Protein Bar/cover.jpg
 file: mintprotbar

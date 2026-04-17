@@ -5558,6 +5558,10 @@ LINKS = {
         "copycat drinks",
         "copycat"
     ],
+    "/vic": [
+        "vic's",
+        "vic"
+    ],
 
     # RECIPE TYPES
     "/recipes/bread": [

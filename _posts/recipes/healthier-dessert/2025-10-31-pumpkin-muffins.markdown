@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/pumpkin-muffins
 image: /assets/Food/Healthier Dessert/Pumpkin Muffin/cover.jpg
 file: pumpkinmuffins

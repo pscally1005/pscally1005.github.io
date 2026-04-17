@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/whole-wheat-bagels
 image: /assets/Food/Bread/WW Bagels/cover.jpg
 file: wwbagels

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/dead-simple-chili
 image: /assets/Food/Meme/Chili/dead-chili.jpg
 file: deadchili

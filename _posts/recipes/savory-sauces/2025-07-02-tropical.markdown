@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/tropical-salsa
 image: /assets/Food/Savory Sauces/Tropical Salsa/salsa.jpg
 file: tropical

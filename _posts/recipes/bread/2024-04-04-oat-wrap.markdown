@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/oat-wraps
 image: /assets/Food/Bread/Oat Wrap/oat-wrap.jpg
 file: oatwraps

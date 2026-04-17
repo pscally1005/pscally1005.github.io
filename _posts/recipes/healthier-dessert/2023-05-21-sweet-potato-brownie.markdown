@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/sweet-potato-brownies
 image: /assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-cover.jpg
 file: sweetpotatobrownies

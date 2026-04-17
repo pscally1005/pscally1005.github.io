@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/greek-yogurt-gnocchi
 image: /assets/Food/Sides/Yogurt Gnocchi/cover-1.jpg
 file: yogurtgnocchiww

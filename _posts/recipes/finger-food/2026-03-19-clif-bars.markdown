@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: yes
+vic: yes
 permalink: /recipes/clif-bars
 image: /assets/Food/Finger Food/Clif Bars/cover.jpg
 file: clifhoney

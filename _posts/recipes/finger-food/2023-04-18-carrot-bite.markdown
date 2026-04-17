@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/carrot-cake-bites
 image: /assets/Food/Finger Food/Carrot Cake/carrot-cake-bite.jpg
 file: carrotbite

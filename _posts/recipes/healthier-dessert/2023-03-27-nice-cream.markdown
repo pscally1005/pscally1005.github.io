@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/nice-cream
 image: /assets/Food/Healthier Dessert/Nice Cream/cover.jpg
 file: nicecream

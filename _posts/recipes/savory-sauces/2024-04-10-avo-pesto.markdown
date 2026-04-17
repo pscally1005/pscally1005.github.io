@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/avocado-pesto
 image: /assets/Food/Savory Sauces/Avo Pesto/cover.jpg
 file: avopesto

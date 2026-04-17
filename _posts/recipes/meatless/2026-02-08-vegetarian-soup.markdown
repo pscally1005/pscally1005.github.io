@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/vegetarian-soup
 image: /assets/Food/Meatless/Vegetarian Soup/cover.jpg
 file: vicsoup

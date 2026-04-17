@@ -18,6 +18,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/no-bean-hummus
 image: /assets/Food/Savory Sauces/No bean hummus/cover.jpg
 file: nobeanhummus

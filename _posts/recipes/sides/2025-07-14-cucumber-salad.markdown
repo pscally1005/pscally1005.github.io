@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/cucumber-salad
 image: /assets/Food/Sides/Cucumber salad/cover.jpg
 file: cucumbersalad

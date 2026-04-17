@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/gluten-free-pretzels
 image: /assets/Food/Bread/GF Pretzel/cover.jpg
 file: afpretzels

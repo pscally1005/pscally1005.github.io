@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: yes
 permalink: /recipes/cookie-bar
 image: /assets/Food/Healthier Dessert/Cookie Bar/cover.jpg
 file: cookiebar

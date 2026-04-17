@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/chicken-fingers
 image: /assets/Food/Finger Food/Chicken Fingers/cover.jpg
 file: chickenfingers

@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chickpea-brownies
 image: /assets/Food/Protein Powder/Chickpea Brownie/chickpea-brownie.jpg
 file: chickpeabrownie

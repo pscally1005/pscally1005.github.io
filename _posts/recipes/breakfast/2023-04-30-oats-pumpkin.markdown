@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/oats-pumpkin
 image: /assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg
 file: oatspumpkin

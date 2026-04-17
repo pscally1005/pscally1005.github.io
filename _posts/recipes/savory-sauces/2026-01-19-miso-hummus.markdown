@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/miso-hummus
 image: /assets/Food/Savory Sauces/Miso Hummus/cover.jpg
 file: misohummus

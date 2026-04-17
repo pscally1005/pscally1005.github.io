@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chickpea-nutella
 image: /assets/Food/Sweet Spreads/Chickpea nutella/cover.jpg
 file: chickpeanutella

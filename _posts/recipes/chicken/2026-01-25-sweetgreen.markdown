@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: yes
+vic: no
 permalink: /recipes/copycat-harvest-bowl
 image: /assets/Food/Chicken/Sweetgreen/cover.jpg
 file: sweetgreencopycat

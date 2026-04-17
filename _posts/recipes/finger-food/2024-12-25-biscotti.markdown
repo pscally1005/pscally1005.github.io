@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/biscotti
 image: /assets/Food/Finger Food/Biscotti/cover.jpg
 file: biscotti

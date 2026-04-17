@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cheesecake-bars
 image: /assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-cover.jpg
 file: cheesecakebar

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/hot-chocolate
 image: /assets/Food/Drinks/Hot Chocolate/hot-choc.jpg
 file: hotchoc

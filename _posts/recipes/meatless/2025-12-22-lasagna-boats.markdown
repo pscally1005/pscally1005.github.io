@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/lasagna-boats
 image: /assets/Food/Meatless/Lasagna Boats/cover.jpg
 file: lasagnaboatscashew

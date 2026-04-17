@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/hard-boiled-egg-mayo
 image: /assets/Food/Meme/Hard Boil Mayo/cover.jpg
 file: hardboilmayo

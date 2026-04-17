@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/massive-salad
 image: /assets/Food/Fish/Massive Salad/massive-salad-cover.jpg
 file: massivesalad

@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/egg-muffins
 image: /assets/Food/Breakfast/Egg Muffin/egg-muffin-cover.jpg
 file: eggmuffin

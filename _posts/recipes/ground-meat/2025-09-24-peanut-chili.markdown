@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/peanut-butter-chili
 image: /assets/Food/Ground Meat/Peanut Chili/cover.jpg
 file: peanutchiliv2

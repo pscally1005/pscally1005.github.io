@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/burger-bowl
 image: /assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg
 file: burgerbowl

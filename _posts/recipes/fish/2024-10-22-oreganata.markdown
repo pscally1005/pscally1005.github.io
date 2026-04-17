@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/shrimp-oreganata
 image: /assets/Food/Fish/Oreganata/oreganata-cover.jpg
 file: oreganata

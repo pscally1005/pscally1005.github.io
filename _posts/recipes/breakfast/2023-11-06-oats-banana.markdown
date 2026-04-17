@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/oats-banana
 image: /assets/Food/Breakfast/Oatmeal/oats-banana-1.jpg
 file: oatsbanana

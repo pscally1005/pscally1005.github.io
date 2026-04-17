@@ -206,6 +206,8 @@ layout: base
         {% assign postCount = postCount | plus: 1 %}
       {% elsif page.title == "Copycat Recipes" and post.copycat == true %}
         {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Vic Recipes" and post.vic == true %}
+        {% assign postCount = postCount | plus: 1 %}
       {% endif %}
     {% endif %}
 
@@ -259,6 +261,8 @@ layout: base
           {% elsif page.title == "Salad Recipes" and post.salad == true %}
             {% assign food_category = "true" %}
           {% elsif page.title == "Copycat Recipes" and post.copycat == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Vic Recipes" and post.vic == true %}
             {% assign food_category = "true" %}
           {% endif %}
 

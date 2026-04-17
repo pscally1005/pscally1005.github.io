@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pancake
 image: /assets/Food/Breakfast/Pumpkin Pancake/cover.jpg
 file: pancake

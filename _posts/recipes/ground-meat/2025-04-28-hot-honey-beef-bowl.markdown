@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/hot-honey-beef-bowls
 image: /assets/Food/Ground Meat/Hot Honey Beef Bowls/cover.jpg
 file: hothoneybeefbowl

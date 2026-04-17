@@ -5,6 +5,18 @@ date:   2025-08-03 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
 permalink: /recipes/pretzel-nuggets
 image: /assets/Misc/Unhealthy/Pretzel Nuggets/cover-2.jpg
 file: pretzelnugg

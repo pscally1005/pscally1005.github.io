@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/coffee-loaf
 image: /assets/Food/Meme/Coffee Loaf/cover.jpg
 file: coffeeloaf

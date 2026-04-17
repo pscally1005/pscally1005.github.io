@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pumpkin-pie
 image: /assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-cover.jpg
 file: pumpkinpie

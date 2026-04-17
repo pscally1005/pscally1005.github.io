@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/spaghetti-squash
 image: /assets/Food/Sides/Spaghetti Squash/spaghetti-squash-cover.jpg
 file: spaghettisquash

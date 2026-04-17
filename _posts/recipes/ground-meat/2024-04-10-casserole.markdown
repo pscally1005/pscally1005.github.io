@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/lebanese-casserole
 image: /assets/Food/Ground Meat/Casserole/casserole-cover.jpg
 file: casserole

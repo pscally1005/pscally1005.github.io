@@ -7,6 +7,18 @@ categories:
 - Unhealthy Recipes
 cookie: yes
 copycat: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: yes
 permalink: /recipes/sugar-cookies
 image: /assets/Misc/Unhealthy/Sugar Cookies/cover.jpg
 file: sugarcookies
@@ -39,7 +51,7 @@ tags:
 - sugar cookies
 - white flour
 - all purpose flour
-Description: Happy New Year!  Vic and I tend to make sugar cookies once a year, and we decided to make them for New Year's Eve.  While I've never been a big fan of sugar cookies, they're a fun activity to do with a partner or a group.  Decorating cookies is a great way to bring out creativity and unwind, and they always seem to be a big hit at gatherings.  If you prefer healthier decorative cookies, you can check out my <a href='/recipes/cut-out-cookies'>Healthier Cut Out Cookies</a>, which have a <a href='/misc/chocolate-benefits'>cocoa</a> base, only a little <a href='/misc/hidden-sugar'>added sugar</a> from <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, and a homemade frosting.  You can also check out any of my other healthy <a href='/cookies'>cookie recipes</a>!
+Description: Happy New Year!  <a href='/vic'>Vic</a> and I tend to make sugar cookies once a year, and we decided to make them for New Year's Eve.  While I've never been a big fan of sugar cookies, they're a fun activity to do with a partner or a group.  Decorating cookies is a great way to bring out creativity and unwind, and they always seem to be a big hit at gatherings.  If you prefer healthier decorative cookies, you can check out my <a href='/recipes/cut-out-cookies'>Healthier Cut Out Cookies</a>, which have a <a href='/misc/chocolate-benefits'>cocoa</a> base, only a little <a href='/misc/hidden-sugar'>added sugar</a> from <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, and a homemade frosting.  You can also check out any of my other healthy <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together the dry ingredients, and set aside - <a href='/misc/grains#white-wheat'>flour</a>, baking powder, and salt
 

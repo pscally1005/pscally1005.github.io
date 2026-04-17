@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/ratatouille
 image: /assets/Food/Meatless/Ratatouille/ratatouille-cover.jpg
 file: ratatouille

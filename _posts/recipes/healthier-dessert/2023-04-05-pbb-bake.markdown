@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/peanut-butter-banana-bake
 image: /assets/Food/Healthier Dessert/PB Banana Bake/pbb-cover.jpg
 file: pbbbake

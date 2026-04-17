@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/bolognese
 image: /assets/Food/Ground Meat/Bolognese/bolognese-cover.jpg
 file: bolognese

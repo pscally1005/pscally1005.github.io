@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/just-one-cookie
 image: /assets/Food/Healthier Dessert/One cookie/bite.jpg
 file: onecookie

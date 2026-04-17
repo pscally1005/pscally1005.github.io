@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/pickled-onions
 image: /assets/Food/Savory Sauces/Quick Pickles/quick-pickles.jpg
 file: quickpickle

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/spaghetti-taco
 image: /assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-cover.jpg
 file: zoodletaco

@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/black-bean-date-brownies
 image: /assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-cover.jpg
 file: beanbrownies

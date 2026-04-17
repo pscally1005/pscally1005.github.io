@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chicken-noodle-stew
 image: /assets/Food/Chicken/Chicken Noodle/cover.jpg
 file: chickennoodle

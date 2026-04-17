@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/vegetarian-protein-lasagna
 image: /assets/Food/Meme/Vegetarian Lasagna/cover.jpg
 file: proteinwraplasagna

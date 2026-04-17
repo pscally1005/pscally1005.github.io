@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/classic-tahini-hummus
 image: /assets/Food/Savory Sauces/Tahini Hummus/tahini-hummus.jpg
 file: tahinihummus

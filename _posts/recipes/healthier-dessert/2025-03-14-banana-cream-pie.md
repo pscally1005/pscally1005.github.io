@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/banana-cream-pie
 image: /assets/Food/Healthier Dessert/Banana Cream Pie/cut.jpg
 file: bananacreampie

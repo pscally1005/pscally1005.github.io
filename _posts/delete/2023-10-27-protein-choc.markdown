@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/protein-chocolate-spread
 image: /assets/Food/Sweet Spreads/Protein Choc/protein-choc-cover.jpg
 file: proteinchoc

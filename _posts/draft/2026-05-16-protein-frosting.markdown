@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/protein-frosting
 image: /assets/Food/Sweet Spreads/Protein frosting/vanilla.jpg
 file: proteinfrosting

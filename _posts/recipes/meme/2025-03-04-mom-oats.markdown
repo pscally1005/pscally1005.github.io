@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/mom-oatmeal
 image: /assets/Food/Meme/Mom Oats/cover.jpg
 file: momoats

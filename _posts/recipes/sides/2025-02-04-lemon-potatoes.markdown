@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/greek-lemon-potatoes
 image: /assets/Food/Sides/Lemon Potatoes/cover.jpg
 file: lemonpotatoes

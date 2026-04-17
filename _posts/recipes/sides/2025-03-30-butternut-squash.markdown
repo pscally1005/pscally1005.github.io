@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/butternut-squash
 image: /assets/Food/Sides/Butternut squash/plate.jpg
 file: butternutsquash

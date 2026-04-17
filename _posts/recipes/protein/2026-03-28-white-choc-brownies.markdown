@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/no-bake-white-chocolate-protein-brownies
 image: /assets/Food/Protein Powder/White Choc Brownie/cover1.jpg
 file: whitechocprotbrownie

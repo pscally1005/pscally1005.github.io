@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/bbq-meatloaf
 image: /assets/Food/Ground Meat/BBQ Meatloaf/cover.jpg
 file: bbqmeat
@@ -76,6 +77,6 @@ Notes:
 
 - I find that meatloaf is always better the next day actually, as it's less likely to fall apart (and sometimes I prefer it cold imo)
 
-- To celebrate Halloween, I made this recipe and shaped it into a scary face.  I used fresh <a href='/misc/dairy#mozzarella'>mozzarella</a> and <a href='/misc/fruit#olives'>olives</a> for the eyes, <a href='/misc/veggies#garlic'>garlic cloves</a> for the teeth, and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> for the blood.  This was paired with <a href='/recipes/stuffed-peppers'>Turkey & Lentil Stuffed Bell Peppers</a> that Vic carved a Jack O'Lantern face into
+- To celebrate Halloween, I made this recipe and shaped it into a scary face.  I used fresh <a href='/misc/dairy#mozzarella'>mozzarella</a> and <a href='/misc/fruit#olives'>olives</a> for the eyes, <a href='/misc/veggies#garlic'>garlic cloves</a> for the teeth, and <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> for the blood.  This was paired with <a href='/recipes/stuffed-peppers'>Turkey & Lentil Stuffed Bell Peppers</a> that <a href='/vic'>Vic</a> carved a Jack O'Lantern face into
 - <a href='/recipes/stuffed-peppers'><img src='/assets/Food/Finger Food/Stuffed/halloween.jpg' alt='' class='instruction-image'></a>
 ---

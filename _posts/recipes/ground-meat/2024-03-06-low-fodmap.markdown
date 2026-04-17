@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/low-fodmap-tacos
 image: /assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg
 file: lowfodmap
@@ -54,7 +55,6 @@ tags:
 - chip
 - tortilla
 - shell
-- vic
 - cass
 - taco night
 - fodmap

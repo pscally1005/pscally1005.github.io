@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/brain-yogurt
 image: /assets/Food/Breakfast/Avocado Yogurt/avocado-yogurt.jpg
 file: avoyog

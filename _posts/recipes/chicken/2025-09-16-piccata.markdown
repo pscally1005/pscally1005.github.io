@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chicken-piccata
 image: /assets/Food/Chicken/Piccata/cover2.jpg
 file: piccata

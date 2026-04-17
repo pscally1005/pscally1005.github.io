@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/avocado-protein-mousse
 image: /assets/Food/Protein Powder/Avo protein mousse/cover.jpg
 file: avoprotmousse

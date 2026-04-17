@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chocolate-truffle
 image: /assets/Food/Finger Food/Kerfuffle/kerfuffle.jpg
 file: kerfuffle

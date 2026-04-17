@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/bulking-brownies
 image: /assets/Food/Healthier Dessert/Bulking brownies/cover.jpg
 file: bulkbrownieshoney

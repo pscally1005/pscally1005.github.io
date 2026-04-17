@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/vic-yogurt
 image: /assets/Food/Meme/Yogurt/cover.jpg
 file: vicyogurt

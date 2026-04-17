@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/sweet-potato-hummus
 image: /assets/Food/Savory Sauces/Sw Pot Hummus/cover.jpg
 file: swpothummus

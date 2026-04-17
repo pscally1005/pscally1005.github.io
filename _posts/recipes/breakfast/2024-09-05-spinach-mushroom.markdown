@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/spinach-mushroom-scrambled-eggs
 image: /assets/Food/Breakfast/Spinach Mushroom/spinach-mushroom-feta.jpg
 file: spinachmushroom

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pumpkin-puree
 image: /assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cover.jpg
 file: pumpkinpuree

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/almond-flour-loaf
 image: /assets/Food/Bread/Almond Flour Loaf/sandwich.jpg
 file: afloaf

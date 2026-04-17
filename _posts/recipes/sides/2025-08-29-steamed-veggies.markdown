@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/steamed-veggies
 image: /assets/Food/Sides/Steamed Veggies/cover.jpg
 file: steamedveggies

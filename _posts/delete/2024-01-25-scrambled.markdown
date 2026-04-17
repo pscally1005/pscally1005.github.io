@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/scrambled-eggs
 image: /assets/Food/Breakfast/Scrambled/scrambled-cover.jpg
 file: scrambled

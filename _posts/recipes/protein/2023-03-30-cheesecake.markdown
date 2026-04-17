@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cheesecake
 image: /assets/Food/Protein Powder/Cheesecake/cheesecake-cover.jpg
 file: cheesecake

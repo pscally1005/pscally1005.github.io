@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Poor Man's Ice Cream
+title:  "Poor Man's Ice Cream"
 date:   2024-11-13 00:00:00 -0500
 categories:
 - Recipes
@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/poor-mans-ice-cream
 image: /assets/Food/Meme/Ice Cream/ice-cream-cover.jpg
 file: pooricecream
@@ -46,7 +47,7 @@ tags:
 - vanilla
 - milkshake
 - milk shake
-Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simple, <a href='/misc/hidden-sugar'>sugar free</a>, and tastes exactly like classic vanilla ice cream. Even Vic agreed that it was spot on to regular vanilla ice cream, and this contains a fraction of the <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/calories'>calories</a>, all while having more <a href='/misc/protein'>protein</a>, <a href='/misc/calcium'>calcium</a>, and <a href='/misc/vitamin-b12'>vitamin B12</a>.  The ice cream can be scooped right out of the freezer; there's no need to let it sit out and soften!
+Description: This 3 ingredient ice cream (okay 4 if you count salt) is dead simple, <a href='/misc/hidden-sugar'>sugar free</a>, and tastes exactly like classic vanilla ice cream. Even <a href='/vic'>Vic</a> agreed that it was spot on to regular vanilla ice cream, and this contains a fraction of the <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/calories'>calories</a>, all while having more <a href='/misc/protein'>protein</a>, <a href='/misc/calcium'>calcium</a>, and <a href='/misc/vitamin-b12'>vitamin B12</a>.  The ice cream can be scooped right out of the freezer; there's no need to let it sit out and soften!
 Instructions:
 - Place a medium glass, ceramic, or <a href='https://amzn.to/4rb3CiD'>metal bowl</a> (anything but plastic) in the freezer overnight. Refrigerate your can of evaporated milk overnight
 

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pecan-butter-bars
 image: /assets/Food/Healthier Dessert/Pecan Bar/pecan-bar-cover.jpg
 file: pecanbar

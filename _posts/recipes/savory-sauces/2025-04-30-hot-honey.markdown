@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/hot-honey
 image: /assets/Food/Savory Sauces/Hot Honey/hot-honey.jpg
 file: hothoney
@@ -49,7 +50,7 @@ tags:
 - red pepper flakes
 - pizza
 - grilled cheese
-Description: Hot Honey is a popular condiment that's basically just <a href='/misc/natural-sweeteners#honey'>honey</a> infused with <a href='/recipes/hot-sauce'>hot sauce</a>. Not only has Vic been wanting this for a while, but I also wanted to try the viral <a href='/recipes/hot-honey-beef-bowls'>Hot Honey Beef Bowls</a>. So instead of buying it, today I'm making my own hot <a href='/misc/natural-sweeteners#honey'>honey</a>. It's done in less than 10 minutes, and adds a fantastic sweet and spicy flavor into anything you drizzle it on.  Other uses of hot <a href='/misc/natural-sweeteners#honey'>honey</a> include my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>.
+Description: Hot Honey is a popular condiment that's basically just <a href='/misc/natural-sweeteners#honey'>honey</a> infused with <a href='/recipes/hot-sauce'>hot sauce</a>. Not only has <a href='/vic'>Vic</a> been wanting this for a while, but I also wanted to try the viral <a href='/recipes/hot-honey-beef-bowls'>Hot Honey Beef Bowls</a>. So instead of buying it, today I'm making my own hot <a href='/misc/natural-sweeteners#honey'>honey</a>. It's done in less than 10 minutes, and adds a fantastic sweet and spicy flavor into anything you drizzle it on.  Other uses of hot <a href='/misc/natural-sweeteners#honey'>honey</a> include my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>.
 Instructions:
 - Add <a href='/misc/natural-sweeteners#honey'>honey</a> to a medium sauce pot over medium low heat. Cook for about 2 minutes, or until the <a href='/misc/natural-sweeteners#honey'>honey</a> loosens up
 

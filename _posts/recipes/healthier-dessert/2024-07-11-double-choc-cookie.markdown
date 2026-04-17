@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: yes
 permalink: /recipes/double-chocolate-date-cookies
 image: /assets/Food/Healthier Dessert/Double Choc Cookie/cover.jpg
 file: doublechoccookie

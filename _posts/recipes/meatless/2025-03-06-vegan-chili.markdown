@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/vegan-chili
 image: /assets/Food/Meatless/Vegan Chili/cover.jpg
 file: veganchili

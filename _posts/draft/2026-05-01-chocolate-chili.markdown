@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chocolate-chili
 image: /assets/Food/Meme/Chocolate chili/cover.jpg
 file: chocolatechili

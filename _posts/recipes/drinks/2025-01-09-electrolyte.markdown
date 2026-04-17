@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: yes
+vic: no
 permalink: /recipes/electrolyte-powder
 image: /assets/Food/Drinks/LMNT/electrolyte.jpg
 file: lmntmalate

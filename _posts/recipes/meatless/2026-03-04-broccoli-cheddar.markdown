@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/broccoli-cheddar-soup
 image: /assets/Food/Meatless/Broccoli Cheddar/cover.jpg
 file: broccchedsoup

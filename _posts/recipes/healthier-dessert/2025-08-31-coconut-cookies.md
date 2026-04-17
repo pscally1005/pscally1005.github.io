@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/coconut-cookies
 image: /assets/Food/Healthier Dessert/Coconut Cookies/cover.jpg
 file: coconutcookies

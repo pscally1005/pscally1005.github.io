@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/peanut-chicken
 image: /assets/Food/Chicken/Peanut/peanut-cover.jpg
 file: peanutchicken

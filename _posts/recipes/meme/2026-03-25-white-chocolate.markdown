@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/white-chocolate
 image: /assets/Food/Meme/White Chocolate/cover4.jpg
 file: whitechoc

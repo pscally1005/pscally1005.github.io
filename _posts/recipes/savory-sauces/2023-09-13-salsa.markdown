@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/salsa
 image: /assets/Food/Savory Sauces/Salsa/salsa.jpg
 file: salsa
@@ -50,7 +51,6 @@ tags:
 - tortilla
 - taco
 - fajita
-- vic
 - cass
 - taco night
 - fodmap

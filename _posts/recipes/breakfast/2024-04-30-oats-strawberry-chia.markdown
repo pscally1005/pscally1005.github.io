@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/strawberry-chia-oatmeal
 image: /assets/Food/Breakfast/Strawberry Chia/strawberry-chia.jpg
 file: strawberrychiaoats

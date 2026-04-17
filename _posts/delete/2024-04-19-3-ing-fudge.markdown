@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/three-ingredient-fudge
 image: /assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-cover.jpg
 file: 3ingfudge

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pesto-classico
 image: /assets/Food/Savory Sauces/Pesto Classico/pesto.jpg
 file: pestoclassico

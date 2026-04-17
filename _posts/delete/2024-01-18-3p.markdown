@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/triple-p
 image: /assets/Food/Meme/3P/3p.jpg
 file: 3p

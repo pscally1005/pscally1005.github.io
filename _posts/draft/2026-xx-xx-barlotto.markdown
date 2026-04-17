@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/barlotto
 image: /assets/Food/Sides/Barlotto/cover.jpg
 file: barlotto

@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/no-honey-mustard
 image: /assets/Food/Savory Sauces/No Honey Mustard/cover.jpg
 file: nohoneymustard

@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/best-healthy-cookie-dough
 image: /assets/Misc/Experiments/Healthier Brownies Cookies/cookie-dough-bite.jpg
 file: cookiedoughhealthier

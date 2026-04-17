@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/butter-chicken
 image: /assets/Food/Chicken/Butter Chicken/cover.jpg
 file: butterchicken

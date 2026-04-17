@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/energy-bites
 image: /assets/Food/Finger Food/Energy Bites/energy-bites-cover.jpg
 file: energybites

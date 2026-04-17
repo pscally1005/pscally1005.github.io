@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/yogurt-bark
 image: /assets/Food/Finger Food/Yogurt Bark/bark-cover.jpg
 file: bark

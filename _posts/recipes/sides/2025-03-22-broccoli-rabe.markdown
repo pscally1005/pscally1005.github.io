@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/broccoli-rabe
 image: /assets/Food/Sides/Broccoli Rabe/cover.jpg
 file: broccolirabe

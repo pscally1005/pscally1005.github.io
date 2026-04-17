@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/burger-patties
 image: /assets/Food/Ground Meat/Burger Patties/patty-cover.jpg
 file: patty

@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/roasted-garlic-hummus
 image: /assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus.jpg
 file: garlichummus

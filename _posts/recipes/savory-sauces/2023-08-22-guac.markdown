@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/guacamole
 image: /assets/Food/Savory Sauces/Guac/guac.jpg
 file: guac

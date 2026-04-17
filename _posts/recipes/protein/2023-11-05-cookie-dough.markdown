@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/protein-cookie-dough
 image: /assets/Food/Protein Powder/Cookie Dough/cookie-dough.jpg
 file: cookiedough

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/creamy-pesto
 image: /assets/Food/Savory Sauces/Creamy Pesto/pesto-cover.jpg
 file: pesto

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/protein-chocolate-bar
 image: /assets/Food/Meme/Protein Chocolate/cover.jpg
 file: proteinchocolatebar

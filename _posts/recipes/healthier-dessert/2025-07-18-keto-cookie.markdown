@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: yes
 permalink: /recipes/keto-chocolate-chip-cookies
 image: /assets/Food/Healthier Dessert/Keto Cookie/cover.jpg
 file: ketocookie

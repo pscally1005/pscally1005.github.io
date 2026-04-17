@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/soy-sauce-chicken
 image: /assets/Food/Chicken/Soy Sauce/cover.jpg
 file: soysauce

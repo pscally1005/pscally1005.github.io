@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/carrot-cake
 image: /assets/Food/Protein Powder/Carrot Cake/carrot-cake-cover.jpg
 file: carrotcake

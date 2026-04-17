@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: yes
+vic: no
 permalink: /recipes/no-stir-peanut-butter
 image: /assets/Food/Meme/No Stir/no-stir.jpg
 file: nostir2

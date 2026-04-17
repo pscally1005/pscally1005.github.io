@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/chicken-fat-chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Chicken Fat Cookies/cover.jpg
 file: chickenfatcookies

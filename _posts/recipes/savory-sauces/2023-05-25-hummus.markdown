@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/hummus
 image: /assets/Food/Savory Sauces/Hummus/cover.jpg
 file: hummus

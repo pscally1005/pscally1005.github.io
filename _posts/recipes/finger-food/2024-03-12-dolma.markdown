@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/stuffed-grape-leaves
 image: /assets/Food/Finger Food/Grape/grape-cover.jpg
 file: grape

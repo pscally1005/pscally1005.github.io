@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/monk-fruit-cookies
 image: /assets/Food/Healthier Dessert/Monk Fruit Cookie/monk-fruit-cover.jpg
 file: monkfruit

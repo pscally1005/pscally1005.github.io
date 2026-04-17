@@ -5,8 +5,18 @@ date:   2024-05-16 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
 cookie: yes
 copycat: no
+vic: yes
 permalink: /recipes/chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Cookies/cookies.jpg
 file: cookies
@@ -42,7 +52,7 @@ tags:
 - chocolate chunks
 - chopped chocolate
 - cookie
-Description: Here's a standard chocolate chip <a href='/cookies'>cookie</a> recipe. I usually only make and post healthy recipes, but it's okay to enjoy the classic treat from time to time. Chocolate chip <a href='/cookies'>cookies</a> are usually what I make to bring for an occasion; that way I can have 1 or 2 every so often, and I can leave someone else with the rest.  I made these to celebrate Vic getting into UF for her Master's Degree.  <a href='/brownies'>Brownies</a> are the other classic dessert, so check out my <a href='/recipes/brownies'>Classic Fudgy Brownies</a>, or check out any of my other healthy <a href='/cookies'>cookie recipes</a>!
+Description: Here's a standard chocolate chip <a href='/cookies'>cookie</a> recipe. I usually only make and post healthy recipes, but it's okay to enjoy the classic treat from time to time. Chocolate chip <a href='/cookies'>cookies</a> are usually what I make to bring for an occasion; that way I can have 1 or 2 every so often, and I can leave someone else with the rest.  I made these to celebrate <a href='/vic'>Vic</a> getting into UF for her Master's Degree.  <a href='/brownies'>Brownies</a> are the other classic dessert, so check out my <a href='/recipes/brownies'>Classic Fudgy Brownies</a>, or check out any of my other healthy <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - Preheat your oven to 350F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 

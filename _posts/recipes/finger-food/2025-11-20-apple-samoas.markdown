@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: yes
 permalink: /recipes/apple-samoas
 image: /assets/Food/Finger Food/Apple Samoas/cover.jpg
 file: applesamoas

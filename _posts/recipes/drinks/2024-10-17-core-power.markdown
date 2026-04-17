@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: yes
+vic: no
 permalink: /recipes/core-power-milkshake
 image: /assets/Food/Drinks/Core Power/core-power.jpg
 file: corepower

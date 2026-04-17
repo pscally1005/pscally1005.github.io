@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/no-protein-bar
 image: /assets/Food/Meme/No protein bar/cover.jpg
 file: noproteinbar

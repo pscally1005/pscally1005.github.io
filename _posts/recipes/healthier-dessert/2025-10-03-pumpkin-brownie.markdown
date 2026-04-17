@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/double-pumpkin-brownies
 image: /assets/Food/Healthier Dessert/Pumpkin Brownies/cover.jpg
 file: pumpkinbrownies3

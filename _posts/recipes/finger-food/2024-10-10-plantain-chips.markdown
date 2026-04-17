@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/plantain-chips
 image: /assets/Food/Finger Food/Plantain Chips/plantain-chips-cover.jpg
 file: plantainchips

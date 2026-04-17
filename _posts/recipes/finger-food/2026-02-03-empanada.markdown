@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/almond-flour-empanadas
 image: /assets/Food/Finger Food/Empanada/cover.jpg
 file: afempanadadough

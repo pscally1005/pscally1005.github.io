@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/no-protein-powder-oatmeal
 image: /assets/Food/Breakfast/No Pro/no-pro.jpg
 file: oatsnopro

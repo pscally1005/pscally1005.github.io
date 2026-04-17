@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/no-bake-brownies
 image: /assets/Food/Protein Powder/No Bake Brownie/no-bake-brownie-cover.jpg
 file: nobakebrownie

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/gassy-assy
 image: /assets/Food/Meme/Gassy Assy/cover.jpg
 file: gassy

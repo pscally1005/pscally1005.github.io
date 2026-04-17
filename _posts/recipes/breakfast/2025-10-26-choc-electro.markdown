@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chocolate-electrolyte-bowls
 image: /assets/Food/Breakfast/Choc Electro/cover.jpg
 file: chocelectrobowl

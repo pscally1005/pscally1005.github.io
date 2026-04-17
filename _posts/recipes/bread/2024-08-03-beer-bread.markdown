@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/whole-wheat-beer-bread
 image: /assets/Food/Bread/Beer Bread/beer-bread-sliced.jpg
 file: beerbread

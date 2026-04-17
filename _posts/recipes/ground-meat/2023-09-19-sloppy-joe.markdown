@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/sloppy-joe
 image: /assets/Food/Ground Meat/Sloppy Joe/cover.jpg
 file: sloppyjoe

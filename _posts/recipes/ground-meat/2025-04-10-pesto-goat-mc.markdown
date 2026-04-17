@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/pesto-goat-cheese-mac-and-cheese
 image: /assets/Food/Ground Meat/Pesto Goat MC/cover.jpg
 file: pestogoatmc
@@ -54,7 +55,7 @@ tags:
 - extra virgin <a href='/misc/olive-oil'>olive oil</a>
 - minced garlic
 - pressed cafe
-Description: I saw this on the menu at Pressed Cafe, and Vic and I both thought that sounded delicious. So for her birthday, I'm making it at home. My version has the addition of <a href='/misc/veggies#broccoli'>broccoli</a> and <a href='/misc/meat#ground-turkey'>ground turkey</a> for extra <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>, as well as healthier <a href='/misc/beans#red-lentils'>red lentil pasta</a> instead of refined <a href='/misc/grains#pasta-white'>white pasta</a>. The homemade <a href='/pesto'>pesto</a> is creamy from <a href='/misc/dairy#goat-cheese'>goat cheese</a> with a minimal amount of oil, keeping it lower in <a href='/misc/calories'>calories</a> for the same delicious flavor!
+Description: I saw this on the menu at Pressed Cafe, and <a href='/vic'>Vic</a> and I both thought that sounded delicious. So for her birthday, I'm making it at home. My version has the addition of <a href='/misc/veggies#broccoli'>broccoli</a> and <a href='/misc/meat#ground-turkey'>ground turkey</a> for extra <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a>, as well as healthier <a href='/misc/beans#red-lentils'>red lentil pasta</a> instead of refined <a href='/misc/grains#pasta-white'>white pasta</a>. The homemade <a href='/pesto'>pesto</a> is creamy from <a href='/misc/dairy#goat-cheese'>goat cheese</a> with a minimal amount of oil, keeping it lower in <a href='/misc/calories'>calories</a> for the same delicious flavor!
 Instructions:
 - The <a href='/misc/veggies#broccoli'>broccoli</a> takes the longest, so you should start that first. Preheat your oven to 400F, and line a large <a href='https://amzn.to/45sRAsB'>baking sheet</a> with parchment paper. Toss the <a href='/misc/veggies#broccoli'>broccoli</a> with the <a href='/misc/fruit#lemon'>lemon</a>, salt, and black pepper on the sheet, and roast at 400F for 30 minutes, or until tender and lightly charred. Set aside
 

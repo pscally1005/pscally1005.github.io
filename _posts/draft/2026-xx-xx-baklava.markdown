@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/baklava
 image: /assets/Food/Healthier Dessert/Baklava/cover.jpg
 file: baklava

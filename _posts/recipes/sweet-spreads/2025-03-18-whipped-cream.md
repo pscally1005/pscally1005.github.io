@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/whipped-cream
 image: /assets/Food/Sweet Spreads/Whipped Cream/cover.jpg
 file: whippedcream

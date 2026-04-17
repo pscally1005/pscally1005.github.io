@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/yogurt-pbj
 image: /assets/Food/Breakfast/Yogurt/yogurt-pbj-new.jpg
 file: yogurtpbjnew

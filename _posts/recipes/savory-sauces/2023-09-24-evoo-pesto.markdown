@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/evoo-pesto
 image: /assets/Food/Savory Sauces/EVOO Pesto/sandwich.jpg
 file: evoo

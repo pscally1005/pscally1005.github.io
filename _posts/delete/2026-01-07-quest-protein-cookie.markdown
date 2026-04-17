@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: yes
+vic: no
 permalink: /recipes/copycat-quest-cookie
 image: /assets/Food/Protein Powder/Quest Cookie/cover.jpg
 file: proteincookiequest

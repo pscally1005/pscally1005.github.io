@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pecan-pie-bars
 image: /assets/Food/Healthier Dessert/Pecan pie bars/cover.jpg
 file: pecanpiebarshoney

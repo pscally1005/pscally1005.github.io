@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/whipped-feta-spread
 image: /assets/Food/Savory Sauces/Whipped Feta/cover-pepper.jpg
 file: whippedfeta

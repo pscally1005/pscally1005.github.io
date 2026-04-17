@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/red-lentil-wraps
 image: /assets/Food/Bread/Lentil Wrap/lentil-wrap.jpg
 file: redlentilwrap

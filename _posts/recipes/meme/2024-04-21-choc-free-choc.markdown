@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/chocolate-free-chocolate
 image: /assets/Food/Meme/Choc Free/cover-new.jpg
 file: chocfree

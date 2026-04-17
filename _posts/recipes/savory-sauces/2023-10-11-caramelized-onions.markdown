@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/caramelized-onions
 image: /assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg
 file: onions

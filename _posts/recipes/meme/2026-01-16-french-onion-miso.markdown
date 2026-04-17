@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/french-onion-miso-soup
 image: /assets/Food/Meme/French Onion Miso Soup/miso-soup.jpg
 file: frenchonionmisosoup

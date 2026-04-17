@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cocoa-bites
 image: /assets/Food/Finger Food/Cocoa Bite/cover.jpg
 file: cacaopunch3

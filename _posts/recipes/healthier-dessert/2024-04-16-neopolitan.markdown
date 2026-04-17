@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/neopolitan-banana-ice-cream
 image: /assets/Food/Healthier Dessert/Neopolitan/neopolitan-cover.jpg
 file: neopolitan

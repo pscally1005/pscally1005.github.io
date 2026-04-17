@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cran-almond
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cran-almond.jpg
 file: cranalmond

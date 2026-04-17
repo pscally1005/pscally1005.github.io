@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/strawberry-chia-jam
 image: /assets/Food/Sweet Spreads/Chia Jam/chia-jam.jpg
 file: chiajam

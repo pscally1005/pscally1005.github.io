@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cranberry-sauce
 image: /assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-cover.jpg
 file: cranberrysauce

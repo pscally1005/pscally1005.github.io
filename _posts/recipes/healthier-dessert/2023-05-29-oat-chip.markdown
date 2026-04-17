@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/oatmeal-chocolate-cookies
 image: /assets/Food/Healthier Dessert/Oatmeal Chip/cover.jpg
 file: oatchip

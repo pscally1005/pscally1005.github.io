@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/keto-brownies
 image: /assets/Food/Healthier Dessert/Keto Brownie/cover.jpg
 file: ketobrownie

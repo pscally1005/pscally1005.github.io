@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/avocado-tuna-salad
 image: /assets/Food/Fish/Avocado Tuna Salad/plate.jpg
 file: avotuna

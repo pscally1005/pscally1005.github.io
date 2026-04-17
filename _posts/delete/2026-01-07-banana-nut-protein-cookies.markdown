@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/banana-nut-protein-cookies
 image: /assets/Food/Protein Powder/Banana Nut Protein Cookies/cover.jpg
 file: proteincookiebanananut

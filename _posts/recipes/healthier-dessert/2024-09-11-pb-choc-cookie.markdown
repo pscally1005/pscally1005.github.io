@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/peanut-butter-date-cookies
 image: /assets/Food/Healthier Dessert/PB Date Cookie/pb-date-cover.jpg
 file: pbdatecookie

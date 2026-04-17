@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/two-ingredient-oat-cookies
 image: /assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-cover.jpg
 file: 2oatcookie

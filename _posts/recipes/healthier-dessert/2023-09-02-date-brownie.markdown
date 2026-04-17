@@ -17,6 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/date-brownie
 image: /assets/Food/Healthier Dessert/Date Brownie/date-brownie-cover.jpg
 file: datebrownie

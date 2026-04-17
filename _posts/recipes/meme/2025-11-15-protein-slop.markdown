@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/protein-slop
 image: /assets/Food/Meme/Protein Slop/cover.jpg
 file: proteinslop

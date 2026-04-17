@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/diy-yogurt
 image: /assets/Food/Meme/DIY Yogurt/cover.jpg
 file: diyyogurtmonkfruit

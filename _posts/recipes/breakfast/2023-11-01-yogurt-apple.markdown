@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/yogurt-apple
 image: /assets/Food/Breakfast/Yogurt/yogurt-apple-new.jpg
 file: yogurtapple

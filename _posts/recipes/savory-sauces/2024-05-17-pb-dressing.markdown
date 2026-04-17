@@ -17,6 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/peanut-chili-salad-dressing
 image: /assets/Food/Savory Sauces/PB Dressing/cover.jpg
 file: pbdressing

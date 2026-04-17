@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/banana-tea
 image: /assets/Food/Drinks/Banana Tea/tea-cover.jpg
 file: tea

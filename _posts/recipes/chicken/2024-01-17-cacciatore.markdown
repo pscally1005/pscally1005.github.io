@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cacciatore
 image: /assets/Food/Chicken/Cacciatore/cacciatore-cover.jpg
 file: cacciatore

@@ -18,6 +18,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/protein-brownie-batter
 image: /assets/Food/Protein Powder/Brownie Batter/cover.jpg
 file: proteinbrowniebatter

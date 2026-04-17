@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/cloud-bread
 image: /assets/Food/Bread/Cloud Bread/cloud-cover.jpg
 file: cloud

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/cuccidati
 image: /assets/Food/Healthier Dessert/Cuccidati/cover.jpg
 file: cuccidati

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/vegan-chocolate-cheesecake
 image: /assets/Food/Healthier Dessert/Vegan cheesecake/cover.jpg
 file: chocolatecheesecake

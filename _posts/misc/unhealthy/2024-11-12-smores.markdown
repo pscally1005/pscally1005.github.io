@@ -5,6 +5,18 @@ date:   2024-11-12 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
 permalink: /recipes/smores
 image: /assets/Misc/Unhealthy/Smores/smores-cover.jpg
 file: smores

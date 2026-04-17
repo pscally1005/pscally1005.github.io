@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pickle-ketchup
 image: /assets/Food/Savory Sauces/Pickle Honey Ketchup/cover.jpg
 file: ketchuphoney

@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/pbj-muffin
 image: /assets/Food/Breakfast/PBJ Muffin/pbj-muffin.jpg
 file: pbjmuffin

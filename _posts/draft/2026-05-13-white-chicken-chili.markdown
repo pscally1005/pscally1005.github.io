@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/white-chicken-chili
 image: /assets/Food/Chicken/White Chicken Chili/cover.jpg
 file: whitechickenchili

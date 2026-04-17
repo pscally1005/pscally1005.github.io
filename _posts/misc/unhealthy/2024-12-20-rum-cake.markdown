@@ -5,6 +5,18 @@ date:   2024-12-20 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: yes
 permalink: /recipes/coconut-banana-rum-cake
 image: /assets/Misc/Unhealthy/Rum Cake/cover.jpg
 file: rumcake
@@ -37,7 +49,7 @@ tags:
 - sugar
 - banana bread
 - coconut oil
-Description: Vic has been sampling and craving this cake every time we visit the Troy farmer's market, so I've attempted to recreate it here. She loved both the <a href='/misc/fruit#banana'>banana</a> rum cake and the <a href='/misc/nuts#coconut'>coconut</a> rum cake, so I've combined the two together here. This is a standard dessert recipe, though it does seem to be mildly healthier than a standard cake. The <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/nuts#coconut'>coconut</a> combination with the rum and maple leads to a delicious tasting cake, like a fancier <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>. Vic and I aren't big frosting people, so I just left it out here. But feel free to <a href='/misc/hidden-sugar'>glaze</a> with any frosting you desire!
+Description: <a href='/vic'>Vic</a> has been sampling and craving this cake every time we visit the Troy farmer's market, so I've attempted to recreate it here. She loved both the <a href='/misc/fruit#banana'>banana</a> rum cake and the <a href='/misc/nuts#coconut'>coconut</a> rum cake, so I've combined the two together here. This is a standard dessert recipe, though it does seem to be mildly healthier than a standard cake. The <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/nuts#coconut'>coconut</a> combination with the rum and maple leads to a delicious tasting cake, like a fancier <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>. <a href='/vic'>Vic</a> and I aren't big frosting people, so I just left it out here. But feel free to <a href='/misc/hidden-sugar'>glaze</a> with any frosting you desire!
 Instructions:
 - Preheat your oven to 350F, and oil a <a href='https://amzn.to/3YUjIkN'>9x5" loaf pan</a>
 

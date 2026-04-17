@@ -18,6 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: no
 permalink: /recipes/straw-mint
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-straw-mint.jpg
 file: strawmint

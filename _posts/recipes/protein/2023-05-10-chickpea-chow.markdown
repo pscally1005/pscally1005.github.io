@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
+vic: yes
 permalink: /recipes/chickpea-chows
 image: /assets/Food/Protein Powder/Chickpea Chow/chow.jpg
 file: chow

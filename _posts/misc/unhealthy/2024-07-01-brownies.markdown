@@ -5,7 +5,18 @@ date:   2024-07-01 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
 brownie: yes
+cookie: no
+copycat: no
+vic: yes
 permalink: /recipes/brownies
 image: /assets/Misc/Unhealthy/Brownies/cover.jpg
 file: brownies

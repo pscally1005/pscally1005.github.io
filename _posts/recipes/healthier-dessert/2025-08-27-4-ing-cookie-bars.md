@@ -17,6 +17,7 @@ dressing: no
 brownie: no
 cookie: yes
 copycat: no
+vic: no
 permalink: /recipes/4-ingredient-cookie-bars
 image: /assets/Food/Healthier Dessert/4 Ing Cookie Bars/cover.jpg
 file: 4ingcookiebars
