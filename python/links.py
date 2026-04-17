@@ -6140,6 +6140,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "flour blend",
     "side by side",
     "cupcakes, muffins",
     "delicious and healthy frosting for all",

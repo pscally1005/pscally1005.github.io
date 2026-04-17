@@ -973,6 +973,8 @@ def grams(food, mass, vol):
             m = "300"
         elif vol == "16 tbsp" or vol == "1 cup" or vol == "16 serving":
             m = "320"
+        elif vol == "24 tbsp" or vol == "1.5 cup" or vol == "1 1/2 cup" or vol == "24 serving":
+            m = "480"
 
 
     # Honey

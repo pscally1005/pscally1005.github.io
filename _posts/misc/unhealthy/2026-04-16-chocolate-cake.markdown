@@ -18,7 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 permalink: /recipes/chocolate-cake
-image: /assets/Misc/Unhealthy/Cake/candle.jpg
+image: /assets/Misc/Unhealthy/Cake/cut.jpg
 file: cake
 servingSize: 1 slice
 section1: Dry
@@ -74,28 +74,31 @@ Instructions:
 - <img src='/assets/Misc/Unhealthy/Cake/whole.jpg' alt='' class='instruction-image'>
 
 - Slice and serve. Store in the fridge for up to a week, or freeze the slices indefinitely
-- <img src='/assets/Misc/Unhealthy/Cake/no-candle.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Cake/candle.jpg' alt='' class='instruction-image'>
 Notes:
-- If you don't have buttermilk, mix together 1 tbsp (15 g) white vinegar with 15 tbsp (225 g) milk, and let sit for 5 minutes before using as buttermilk in the cake batter
+- If you don't have buttermilk, mix together 1 tbsp (15 g) white vinegar with 15 tbsp (225 g) <a href='/misc/dairy#skim-milk'>milk</a>, and let sit for 5 minutes before using as buttermilk in the cake batter
 
 - |
   <div id='healthier' class='table-of-contents-2'></div>
-  To make the cake <i>slightly</i> healthier, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/misc/olive-oil'>extra virgin olive oil</a>.  Half of the raw batter for each pan will weigh 662 g in this case<br><br>
+  To make the cake <i>slightly healthier</i>, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/misc/olive-oil'>extra virgin olive oil</a>.  Half of the raw batter for each pan will weigh 662 g in this case<br><br>
 
   I taste testing this version side by side with the <a href='#recipe'>original cake recipe</a>, and noticed absolutely no difference in taste or texture in the finish baked cake.  The raw batter (which I need to legally say you shoudn't eat), did taste a little "wheaty", though the baked cakes were identical.  You could not taste the <a href='/misc/grains#whole-wheat'>whole wheat</a>, <a href='/misc/olive-oil'>olive oil</a>, or <a href='/misc/natural-sweeteners#honey'>honey</a> whatsoever after baking.
 - INGREDIENTS(cakehealthierbase)
 
-- As for the frosting, to make it <i>slightly</i> healthier, use the following instead.  The <a href='/misc/dairy#cream-cheese'>full fat cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a> are swapped out for <a href='/misc/dairy#cream-cheese'>reduced fat cream cheese</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>
+- As for the frosting, to make it <i>slightly healthier</i>, use the following instead.  The <a href='/misc/dairy#cream-cheese'>full fat cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a> are swapped out for <a href='/misc/dairy#cream-cheese'>reduced fat cream cheese</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>
 - INGREDIENTS(cakehealthierfrosting)
 
 - |
   <div id='healthiest' class='table-of-contents-2'></div>
-  To make the cake <i>significantly</i> healthier, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/nuts#almonds'>almond flour</a>, <a href='recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  Half of the raw batter for each pan will weigh 654 g in this case.<br><br>
+  To make the cake <i>significantly healthier</i>, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  Half of the raw batter for each pan will weigh 660 g in this case.<br><br>
 
-  Doing so makes the cake <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, lower in <a href='/misc/carbs'>net carbs</a>, lower in <a href='/misc/fats'>fat</a>, higher in <a href='/misc/protein'>protein</a>, higher in <a href='/misc/fiber'>fiber</a>, and lower in <a href='/misc/calories'>calories</a>.  I have yet to test this variation, but I will report back on my findings when I do.
-- INGREDIENTS(cakehealthiestnofrosting)
+  Doing so makes the cake <a href='/misc/hidden-sugar'>sugar free</a>, as well as lower in <a href='/misc/carbs'>net carbs</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/calories'>calories</a>.  Again, I noticed absolutely no difference in taste or texture compared to the above 2 variations.  You cannot taste the <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or <a href='/misc/fruit#apple'>applesauce</a> at all.
+- INGREDIENTS(cakehealthiestbase)
 
-- As for the frosting, I will be utilizing my <a href='/recipes/protein-frosting'>protein frosting recipe</a> to <a href='/misc/hidden-sugar'>glaze</a> this cake, which combines together <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (or <a href='/misc/dairy#yogurt'>greek yogurt</a>) with <a href='/misc/dairy#whey'>whey protein powder</a> and vanilla extract
+- As for the frosting, to make it <i>significantly healthier</i>, use the following instead.  The <a href='/misc/dairy#cream-cheese'>full fat cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a> are swapped out for <a href='/misc/dairy#cream-cheese'>reduced fat cream cheese</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- INGREDIENTS(cakehealthiestfrosting)
+
+- I tried to make this cake <a href='/misc/celiac'>gluten free</a> by using <a href='/misc/nuts#almonds'>almond flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> or <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, but it unfortunately did not work.  The cake failed to properly rise, as it collapsed and was extremely underbaked in the center.  A <a href='/misc/celiac'>gluten free</a> flour blend or <a href='/misc/grains#oats'>oat flour</a> <i>may</i> work, but I have not tested it
 
 - |
   COMPARE(
