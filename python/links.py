@@ -2288,12 +2288,16 @@ LINKS = {
     ],
     "/recipes/salmon-and-tzatziki": [
         "roasted salmon and sprouts with tzatziki",
-        "roasted salmon",
+        "roasted salmon and sprouts",
+        "roasted salmon"
+    ],
+    "/recipes/tzatziki": [
         "tzatziki sauce",
         "greek yogurt tzatziki",
         "yogurt tzatziki",
         "tzatziki",
-        "homemade tzatziki"
+        "homemade tzatziki",
+        "homemade tzatziki sauce"
     ],
     "/recipes/shrimp-oreganata": [
         "gluten free shrimp oreganata",
@@ -6614,7 +6618,7 @@ EXCLUDED_PHRASES = [
     "chicken piccata",
     "chicken juice",
     # "grilled chicken",
-    "greek salad",
+    # "greek salad",
     "after baking",
     "rotisserie chickens",
     "rotisserie chicken",
@@ -7865,7 +7869,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-04-16")):
+            if not file.startswith(("2024-03-10")):
                 continue
 
             # exclude some files
