@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 permalink: /recipes/protein-poptart
 image: /assets/Food/Breakfast/PopTart/poptart-cover.jpg
 file: poptart

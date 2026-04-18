@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 permalink: /recipes/shawarma-turkey-kebabs
 image: /assets/Food/Ground Meat/Kebab/kebab-plate.jpg
 file: kebab

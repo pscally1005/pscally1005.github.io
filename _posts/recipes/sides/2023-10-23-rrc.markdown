@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 permalink: /recipes/running-club-broccoli
 image: /assets/Food/Sides/RRC/cover.jpg
 file: rrc

@@ -17,7 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: yes
-vic: yes
+vic: no
 permalink: /recipes/fiber-one-brownies
 image: /assets/Food/Finger Food/Fiber One/cover.jpg
 file: fiberone
@@ -46,7 +46,6 @@ tags:
 - copycat recipe
 - brownies
 - snack
-- vic
 - whole wheat flour
 - inulin
 - granulated monk fruit

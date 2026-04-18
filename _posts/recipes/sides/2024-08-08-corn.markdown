@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 permalink: /recipes/corn-on-the-cob
 image: /assets/Food/Sides/Corn/corn-cooked.jpg
 file: corn

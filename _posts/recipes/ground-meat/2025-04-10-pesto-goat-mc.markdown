@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 permalink: /recipes/pesto-goat-cheese-mac-and-cheese
 image: /assets/Food/Ground Meat/Pesto Goat MC/cover.jpg
 file: pestogoatmc
