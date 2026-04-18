@@ -91,7 +91,7 @@ Notes:
 
 - |
   <div id='healthiest' class='table-of-contents-2'></div>
-  To make the cake <i>significantly healthier</i>, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  Half of the raw batter for each pan will weigh 660 g in this case.<br><br>
+  To make the cake <i>significantly healthier</i>, use the following for the cake base instead.  We're replacing the <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> with <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/fruit#apple'>unsweetened applesauce</a>.  Half of the raw batter for each pan will weigh 660 g in this case.<br><br>
 
   Doing so makes the cake <a href='/misc/hidden-sugar'>sugar free</a>, as well as lower in <a href='/misc/carbs'>net carbs</a>, <a href='/misc/fats'>fat</a>, and <a href='/misc/calories'>calories</a>.  Again, I noticed absolutely no difference in taste or texture compared to the above 2 variations.  You cannot taste the <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, or <a href='/misc/fruit#apple'>applesauce</a> at all.
 - INGREDIENTS(cakehealthiestbase)

@@ -12,13 +12,13 @@ def grams(food, mass, vol):
     if food == "Chickpeas, drained and rinsed" or food == "Black beans, drained and rinsed" or food == "Kidney beans, drained and rinsed" or food == "Pinto beans, drained and rinsed" or food == "Cannellini beans, drained and rinsed" or food == "Great northern beans, drained and rinsed" or food == "Navy beans, drained and rinsed" or food == "Beans, drained and rinsed" or food == "Cooked black beans" or food == "Cooked navy beans" or food == "Slow Cooker Dried Beans":
         if vol == "15.5 oz can" or vol == "1 x 15.5 oz can" or vol == "15.5 oz":
             m = "255"
-        elif vol == "1/2 15.5 oz can" or vol == "7.75 oz can":
+        elif vol == "1/2 x 15.5 oz can" or vol == "7.75 oz can" or vol == "1/2 15.5 oz can":
             m = "128"
-        elif vol == "2 x 15.5 oz can" or vol == "31 oz can":
+        elif vol == "2 x 15.5 oz can" or vol == "31 oz can" or vol == "2 15.5 oz can":
             m = "510"
-        elif vol == "3 x 15.5 oz can" or vol == "46.5 oz can":
+        elif vol == "3 x 15.5 oz can" or vol == "46.5 oz can" or vol == "3 15.5 oz can":
             m = "765"
-        elif vol == "4 x 15.5 oz can" or vol == "62 oz can":
+        elif vol == "4 x 15.5 oz can" or vol == "62 oz can" or vol == "4 15.5 oz can":
             m = "1020"
         elif vol == "1 cup":
             m = "180"
@@ -34,7 +34,7 @@ def grams(food, mass, vol):
             m = "60"
         elif vol == "1/4 cup":
             m = "45"
-        elif vol == "1 batch" or vol == "7 cup" or "9 serving":
+        elif vol == "1 batch" or vol == "7 cup" or vol == "9 serving":
             m = "1260"
 
     # NOT drained and rinsed beans
