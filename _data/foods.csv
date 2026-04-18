@@ -81,6 +81,7 @@ Agave syrup,agave,5.82,665.05,0.00875,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,
 Coconut sugar,coconut-sugar,9.42,905.60,0.01040,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,78.0,0.0,0.0,0.0,0,
 Date sugar,date-sugar,8.98,396.20,0.02267,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,67.0,0.0,0.0,0.0,0,
 Date syrup,date-syrup,9.98,679.20,0.01469,47,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,69.0,0.0,0.0,0.0,0,
+Butternut squash puree,butternut-puree,2.37,900.00,0.00263,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/roasted-butternut-squash-puree
 Pumpkin puree,pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/pumpkin-puree
 Pumpkin Puree,pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/pumpkin-puree
 "Pumpkin puree, or sweet potato",pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,/recipes/pumpkin-puree

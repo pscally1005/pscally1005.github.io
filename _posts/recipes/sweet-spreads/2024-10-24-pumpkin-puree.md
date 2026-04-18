@@ -52,9 +52,11 @@ tags:
 - halloween
 - canned pumpkin
 Description: |
-  This is less of a recipe and more of a method, as you'd probably use <a href='/misc/veggies#pumpkin'>pumpkin</a> puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> in my baked goods with this for a delicious fall twist<br><br>
+  This is less of a recipe and more of a method, as you'd probably use <a href='/misc/veggies#pumpkin'>pumpkin</a> puree in something else. Try replacing mashed <a href='/misc/fruit#banana'>bananas</a> or <a href='/misc/fruit#apple'>unsweetened applesauce</a> in my baked goods with this for a delicious fall twist.<br><br>
 
-  Similar is my <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, which can also be used just like <a href='/misc/veggies#pumpkin'>pumpkin</a> puree!  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a> or <a href='/misc/veggies#sweet-potato'>sweet potato</a> recipes that you can use your puree on
+  You can also check out my <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a> and <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a> recipes, which can also be used just like <a href='/misc/veggies#pumpkin'>pumpkin</a> puree!<br><br>
+
+  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/veggies#sweet-potato'>sweet potato</a>, or <a href='/misc/veggies#butternut-squash</a>butternut</a> recipes that you can use your puree on:<b></b>
   <ul>
     <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
     <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>
@@ -65,6 +67,7 @@ Description: |
     <li><a href='/recipes/pumpkin-bread'>Protein Pumpkin Bread</a><br></li>
     <li><a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a></li>
     <li><a href='/recipes/pumpkin-cake'>Frosted Pumpkin Cake</a></li>
+    <li><a href='/recipes/butternut-yogurt'>Butternut Squash Yogurt</a></li>
   </ul>
 Instructions: 
 - Wash the <a href='/misc/veggies#pumpkin'>pumpkin</a>, cut off the stem, and slice in half.  Scoop out the seeds with a spoon

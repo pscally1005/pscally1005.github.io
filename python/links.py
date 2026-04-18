@@ -10,6 +10,9 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/butternut-yogurt": [
+        "butternut squash yogurt"
+    ],
     "/recipes/protein-frosting": [
         "protein frosting recipe",
         "protein frosting, vanilla",
@@ -2090,13 +2093,20 @@ LINKS = {
         "homemade sugar free chocolate"
     ],
     "/recipes/pumpkin-puree": [
+        "roasted pumpkin puree",
+        "homemade pumpkin puree",
         "pumpkin puree"
     ],
     "/recipes/sweet-potato-puree": [
+        "roasted sweet potato puree",
+        "homemade sweet potato puree",
         "sweet potato puree"
     ],
     "/recipes/roasted-butternut-squash-puree": [
-        "butternut squash puree"
+        "roasted butternut squash puree",
+        "homemade butternut squash puree",
+        "butternut squash puree",
+        "butternut puree"
     ],
     "/recipes/cottage-cheese-flatbread": [
         "cottage cheese flatbread"
@@ -7869,7 +7879,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-03-10")):
+            if not file.startswith(("2023-06-21")):
                 continue
 
             # exclude some files

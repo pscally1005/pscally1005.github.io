@@ -31,9 +31,9 @@ start4:
 section4:
 start5:
 section5:
-Prep: 15
+Prep: 10
 Rest:
-Cook: 70
+Cook: 90
 Source1: https://www.asweetpeachef.com/how-to-make-butternut-squash-puree/#wprm-recipe-container-19958
 Source2:
 Source3:
@@ -50,7 +50,14 @@ tags:
 - pumpkin pie
 - pumpkin spice
 - mashed sweet potato
-Description: Similar to the <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, this is more of a method than a recipe, as unless you're a baby I don't expect you'll be eating this on its own. <a href='/misc/veggies#butternut-squash'>Butternut squash</a> is a great <a href='/misc/veggies#pumpkin'>pumpkin</a> replacement, especially in this <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>, or my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>.  <a href='/misc/veggies#butternut-squash'>Butternut squash</a> puree can also be used in place of mashed <a href='/misc/fruit#banana'>banana</a> or <a href='/misc/fruit#apple'>applesauce</a>; I've even had great success using it in my <a href='/recipes/chickpea-brownies'>Chickpea Protein Brownies</a>.
+Description: |
+  Similar to my <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a> and <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a>, this is more of a method than a recipe, as unless you're a baby I don't expect you'll be eating this on its own (though I wouldn't blame you, it's delicious).<br><br>
+
+  <a href='/misc/veggies#butternut-squash'>Butternut squash</a> is a great <a href='/misc/veggies#pumpkin'>pumpkin</a> replacement, especially in my <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a> or <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>.<br><br>
+
+  Butternut squash puree can also be used in place of mashed <a href='/misc/fruit#banana'>banana</a> or <a href='/misc/fruit#apple'>applesauce</a>; I've even had great success using it in my <a href='/recipes/chickpea-brownies'>Chickpea Protein Brownies</a>.
+
+  For a butternut squash puree specific recipe, may I suggest my <a href='/recipes/butternut-yogurt'>Butternut Squash Yogurt</a>, which simply combines together butternut puree with <a href='/misc/dairy#yogurt'>Greek yogurt</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> for a delicious, easy, and nutritious <a href='/recipes/breakfast'>breakfast</a>!
 Instructions:
 - Preheat oven to 400F and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
@@ -58,12 +65,13 @@ Instructions:
 
 - Place the cut side down on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Prick the skin of the <a href='/misc/veggies#butternut-squash'>butternut squash</a> with a fork
 
-- Roast for about 50-70 minutes, or until tender. A <a href='https://amzn.to/4jlDKwc'>knife</a> should be able to easily pierce through it without any force
+- Roast for about 75-90 minutes, or until fork tender
 - <img src='/assets/Food/Sweet Spreads/Butternut/butternut-4.jpg' alt='' class='instruction-image'>
 
 - Flip over and let cool until you can safely handle it, about 5 minutes
 - <img src='/assets/Food/Sweet Spreads/Butternut/butternut-5.jpg' alt='' class='instruction-image'>
 
-- Scrape off the insides from the skin and place into a <a href='https://amzn.to/4adxMft'>large bowl</a>. Mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a>, or blend in a <a href='https://amzn.to/4q0AUjI'>food processor</a>.
+- Place the entire squash (skins included!) into a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend for a few minutes to form your puree
 Notes:
+- You can also turn this into mashed <a href='/misc/veggies#butternut-squash'>butternut squash</a>. Season to taste with garlic powder, onion powder, black pepper, salt, paprika, and parsley
 ---

@@ -244,8 +244,6 @@ def ingredients(food):
         f = "Powdered peanut butter"
     elif food == "Premium quality pure almond extract by Morton Bassett Inc." or food == "Pure almond extract by FIRST STREET" or food == "Pure almond extract by Morton Bassett Inc." or food == "Almond extract by Morton Bassett Inc.":
         f = "Almond extract"
-    elif food == "Pumpkin, without salt, canned" or food == "Pumpkin puree by Whole Foods Market, Inc." or food == "Pumpkin puree, pumpkin by Goya Foods, Inc." or food == "Organic pumpkin puree by Pacific Foods of Oregon, Inc.":
-        f = "Pumpkin puree"
     elif food == "Syrups, maple" or food == "Syrup, Canadian, maple":
         f = "Maple syrup"
     elif food == "Sweetener, agave, syrup":
@@ -262,8 +260,12 @@ def ingredients(food):
         f = "Dried figs"
     elif food == "Plums, uncooked, dried (prunes)":
         f = "Prunes"
-    elif food == "Sweet potato, without salt, flesh, baked in skin, cooked" or food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked":
+    elif food == "Sweet potato, without salt, flesh, baked in skin, cooked" or food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked" or food == "sweetpotato":
         f = "Sweet potato puree"
+    elif food == "butternut":
+        f = "Butternut squash puree"
+    elif food == "Pumpkin, without salt, canned" or food == "Pumpkin puree by Whole Foods Market, Inc." or food == "Pumpkin puree, pumpkin by Goya Foods, Inc." or food == "Organic pumpkin puree by Pacific Foods of Oregon, Inc." or food == "pumpkin-puree":
+        f = "Pumpkin puree"
     elif food == "Potatoes, raw, flesh and skin":
         f = "Potato"
     elif food == "Pure vanilla extract by CITLALI" or food == "Pure vanilla extract by FIRST STREET":
