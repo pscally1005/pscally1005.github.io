@@ -466,7 +466,7 @@ def grams(food, mass, vol):
             m = "454"
 
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread":
         if food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Butternut squash puree":
             if vol == "1/2 serving":
                 m = "60"
@@ -1043,6 +1043,38 @@ def grams(food, mass, vol):
             m = "104"
         elif vol == "2 cup":
             m = "208"
+
+    # Sweet potatoes
+    elif food == "Sweet potato":
+        if vol == "1 small":
+            m = "125"
+        elif vol == "2 small":
+            m = "250"
+        elif vol == "3 small":
+            m = "375"
+        elif vol == "4 small":
+            m = "500"
+        elif vol == "5 small":
+            m = "625"
+        elif vol == "6 small":
+            m = "750"
+        elif vol == "1 medium":
+            m = "170"
+        elif vol == "2 medium":
+            m = "340"
+        elif vol == "3 medium":
+            m = "510"
+        elif vol == "4 medium":
+            m = "680"
+        elif vol == "5 medium":
+            m = "850"
+        elif vol == "6 medium":
+            m = "1020"
+
+    # Pumpkin
+    elif food == "Pumpkin" or food == "Pumpkin, raw" or food == "Sugar pumpkin":
+        if vol == "6.586 cup":
+            m = "764"
 
     # Onions
     elif food == "Onion":

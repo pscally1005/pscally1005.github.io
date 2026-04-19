@@ -51,8 +51,26 @@ Description: I love me some <a href='/misc/dairy#yogurt'>Greek yogurt</a> in the
 Instructions:
 - Mix all ingredients together in a <a href='https://amzn.to/4adxMft'>small bowl</a>. Eat right away, or cover and refrigerate overnight
 Notes:
-- I'm using my <a href='/recipes/roasted-butternut-squash-puree'>Homemade Butternut Squash Puree</a> here, but feel you can also use <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a>, or <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a>
-
 - Feel free to scale this up and meal prep a few days worth of <a href='/recipes/breakfast'>breakfast</a> at once!
 - <img src='/assets/Food/Breakfast/Butternut yogurt/three.jpg' alt='' class='instruction-image'>
+
+- I'm using my <a href='/recipes/roasted-butternut-squash-puree'>Homemade Butternut Squash Puree</a> here, but feel you can also use <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a>, <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a>, or <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a>
+- |
+  COMPARE(
+    "butternutyogurt",
+    "butternutyogurtswpot",
+    "butternutyogurtpumpkin",
+    "butternutyogurtapplespread";
+
+    "<a href='/misc/veggies#butternut-squash'>Butternut</a>",
+    "<a href='/misc/veggies#sweet-potato'>Sweet<br>Potato</a>",
+    "<a href='/misc/veggies#pumpkin'>Pumpkin</a>",
+    "<a href='/recipes/apple-spread'>Apple<br>Spread</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---

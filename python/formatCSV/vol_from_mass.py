@@ -400,7 +400,7 @@ def vol_from_mass(food, mass, vol):
             v = "16 oz"
 
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Butternut squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Butternut squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread":
         if mass == "0.625":
             v = "1/8 tsp"
         elif mass == "1.25":
@@ -876,6 +876,38 @@ def vol_from_mass(food, mass, vol):
             v = "1 cup"
         elif mass == "208":
             v = "208"
+
+    # Sweet potatoes
+    elif food == "Sweet potato":
+        if mass == "125":
+            v = "1 small"
+        elif mass == "250":
+            v = "2 small"
+        elif mass == "375":
+            v = "3 small"
+        elif mass == "500":
+            v = "4 small"
+        elif mass == "625":
+            v = "5 small"
+        elif mass == "750":
+            v = "6 small"
+        elif mass == "170":
+            v = "1 medium"
+        elif mass == "340":
+            v = "2 medium"
+        elif mass == "510":
+            v = "3 medium"
+        elif mass == "680":
+            v = "4 medium"
+        elif mass == "850":
+            v = "5 medium"
+        elif mass == "1020":
+            v = "6 medium"
+
+    # Pumpkin
+    elif food == "Pumpkin" or food == "Pumpkin, raw" or food == "Sugar pumpkin":
+        if mass == "764":
+            v = "1 small"
 
     # Onions
     elif food == "Onion":

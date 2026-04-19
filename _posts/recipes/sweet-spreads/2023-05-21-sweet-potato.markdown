@@ -56,7 +56,8 @@ Description: |
 
   You can also check out my <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a> and <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> recipes, which can also be used just like <a href='/misc/veggies#sweet-potato'>sweet potato</a> puree!<br><br>
 
-  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/veggies#sweet-potato'>sweet potato</a>, or <a href='/misc/veggies#butternut-squash</a>butternut</a> recipes that you can use your puree on:<b></b>
+  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/veggies#sweet-potato'>sweet potato</a>, or <a href='/misc/veggies#butternut-squash</a>butternut</a> recipes that you can use your puree on:<br><br>
+
   <ul>
     <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
     <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>
@@ -74,7 +75,7 @@ Instructions:
 
 - Bake in the oven for 90 minutes at 400F until very soft. You can also <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for 1 hour. Slice open, and allow to steam out for a few minutes
 
-- Cut off the ends, and transfer the rest of the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> (with the skins!!) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Blend until smooth
+- Cut off the ends, and transfer the rest of the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> (with the skins!!) to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with salt.  Blend until smooth
 Notes:
 - You can also turn this into mashed <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Season to taste with garlic powder, onion powder, black pepper, salt, paprika, and parsley
 ---

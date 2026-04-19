@@ -56,7 +56,8 @@ Description: |
 
   You can also check out my <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a> and <a href='/recipes/sweet-potato-puree'>Roasted Sweet Potato Puree</a> recipes, which can also be used just like <a href='/misc/veggies#pumpkin'>pumpkin</a> puree!<br><br>
 
-  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/veggies#sweet-potato'>sweet potato</a>, or <a href='/misc/veggies#butternut-squash</a>butternut</a> recipes that you can use your puree on:<b></b>
+  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/veggies#sweet-potato'>sweet potato</a>, or <a href='/misc/veggies#butternut-squash</a>butternut</a> recipes that you can use your puree on:<br><br>
+
   <ul>
     <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
     <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>
@@ -76,7 +77,7 @@ Instructions:
 - <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-raw.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-cooked.jpg' alt='' class='instruction-image'>
 
-- Cut off the ends, and transfer to a <a href='https://amzn.to/4q0AUjI'>food processor</a> (with the skins!!).  Blend until smooth
+- Cut off the ends, and transfer to a <a href='https://amzn.to/4q0AUjI'>food processor</a> (with the skins!!) and salt.  Blend until smooth
 - <img src='/assets/Food/Sweet Spreads/Pumpkin Puree/pumpkin-pureed.jpg' alt='' class='instruction-image'>
 Notes:
 - My whole raw <a href='/misc/veggies#pumpkin'>pumpkin</a> weighed 764 g, and I ended up with 368 g of puree.  That's about 1.5 cups or 3 servings of 1/2 cup (120 g)

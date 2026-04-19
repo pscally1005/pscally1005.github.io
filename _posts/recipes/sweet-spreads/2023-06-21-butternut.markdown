@@ -55,13 +55,13 @@ Description: |
 
   <a href='/misc/veggies#butternut-squash'>Butternut squash</a> is a great <a href='/misc/veggies#pumpkin'>pumpkin</a> replacement, especially in my <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a> or <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>.<br><br>
 
-  Butternut squash puree can also be used in place of mashed <a href='/misc/fruit#banana'>banana</a> or <a href='/misc/fruit#apple'>applesauce</a>; I've even had great success using it in my <a href='/recipes/chickpea-brownies'>Chickpea Protein Brownies</a>.
+  Butternut squash puree can also be used in place of mashed <a href='/misc/fruit#banana'>banana</a> or <a href='/misc/fruit#apple'>applesauce</a>; I've even had great success using it in my <a href='/recipes/chickpea-brownies'>Chickpea Protein Brownies</a>.<br><br>
 
   For a butternut squash puree specific recipe, may I suggest my <a href='/recipes/butternut-yogurt'>Butternut Squash Yogurt</a>, which simply combines together butternut puree with <a href='/misc/dairy#yogurt'>Greek yogurt</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> for a delicious, easy, and nutritious <a href='/recipes/breakfast'>breakfast</a>!
 Instructions:
 - Preheat oven to 400F and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Slice off the stem of the <a href='/misc/veggies#butternut-squash'>butternut squash</a> and cut in half lengthwise. Scoop out the seeds using a spoon. Sprinkle the inside with a little bit of salt
+- Slice off the stem of the <a href='/misc/veggies#butternut-squash'>butternut squash</a> and cut in half lengthwise. Scoop out the seeds using a spoon
 
 - Place the cut side down on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Prick the skin of the <a href='/misc/veggies#butternut-squash'>butternut squash</a> with a fork
 
@@ -71,7 +71,7 @@ Instructions:
 - Flip over and let cool until you can safely handle it, about 5 minutes
 - <img src='/assets/Food/Sweet Spreads/Butternut/butternut-5.jpg' alt='' class='instruction-image'>
 
-- Place the entire squash (skins included!) into a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend for a few minutes to form your puree
+- Place the entire squash (skins included!) into a <a href='https://amzn.to/4q0AUjI'>food processor</a> with salt, and blend for a few minutes to form your puree
 Notes:
 - You can also turn this into mashed <a href='/misc/veggies#butternut-squash'>butternut squash</a>. Season to taste with garlic powder, onion powder, black pepper, salt, paprika, and parsley
 ---
