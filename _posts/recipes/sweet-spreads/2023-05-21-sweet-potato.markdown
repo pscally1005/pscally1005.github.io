@@ -56,8 +56,7 @@ Description: |
 
   You can also check out my <a href='/recipes/roasted-butternut-squash-puree'>Roasted Butternut Squash Puree</a> and <a href='/recipes/pumpkin-puree'>Homemade Pumpkin Puree</a> recipes, which can also be used just like <a href='/misc/veggies#sweet-potato'>sweet potato</a> puree!<br><br>
 
-  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/veggies#sweet-potato'>sweet potato</a>, or <a href='/misc/veggies#butternut-squash</a>butternut</a> recipes that you can use your puree on:<br><br>
-
+  Below are some great <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/veggies#sweet-potato'>sweet potato</a>, or <a href='/misc/veggies#butternut-squash'>butternut</a> recipes that you can use your puree on:<br>
   <ul>
     <li><a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a></li>
     <li><a href='/recipes/pancake'>Pumpkin Protein Pancakes</a></li>

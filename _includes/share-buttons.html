@@ -24,10 +24,10 @@
 #share-buttons > div.pinterest:hover > svg {fill: #E60023;}
 #share-buttons > div.instagram:hover > svg {fill: #DD2A7B;}
 #share-buttons > div.mail:hover > svg {fill: #D44638;}
+#share-buttons > div.text-message:hover > svg {fill: #25D366;}
 #share-buttons > div.copy-link:hover > svg {fill: #0000EE;}
 #share-buttons > div.copy-recipe:hover > svg {fill: #551A8B;}
 #share-buttons > div.copy-nutrition:hover > svg {fill: #db18cb;}
-#share-buttons > div.text-message:hover > svg {fill: #25D366;}
 
 #share-buttons > div.facebook > svg {height: 18px; margin-top: 9px;}
 #share-buttons > div.twitter > svg {height: 20px; margin-top: 8px;}
@@ -35,10 +35,10 @@
 #share-buttons > div.pinterest > svg {height: 20px; margin-top: 9px;}
 #share-buttons > div.instagram > svg {height: 20px; margin-top: 8px;}
 #share-buttons > div.mail > svg {height: 14px; margin-top: 11px;}
+#share-buttons > div.text-message > svg {height: 20px; margin-top: 8px;}
 #share-buttons > div.copy-link > svg {height: 18px; margin-top: 9px;}
 #share-buttons > div.copy-recipe > svg {height: 18px; margin-top: 9px;}
 #share-buttons > div.copy-nutrition > svg {height: 18px; margin-top: 9px;}
-#share-buttons > div.text-message > svg {height: 20px; margin-top: 8px;}
 </style>
 
 <span style="color: var(--default-text-color);">Share on: </span><div id="share-buttons">
@@ -50,7 +50,7 @@
     </div>
 
     <!-- Twitter -->
-    <div class='twitter' title="Share this on Twitter" onclick="window.open('ttps://twitter.com/intent/tweet?text={{ site.url }}{{ pageurl }}');">
+    <div class='twitter' title="Share this on Twitter" onclick="window.open('https://twitter.com/intent/tweet?text={{ site.url }}{{ pageurl }}');">
         <svg viewBox="0 0 1792 1792" xmlns="https://www.w3.org/2000/svg">
             <path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z"/>
         </svg>
@@ -86,6 +86,13 @@
         </svg>
     </div>
 
+    <!-- Text Message -->
+    <div class='text-message' title="Send link via Text Message" onclick="window.open('sms:?&body={{ site.url }}{{ pageurl }}');">
+        <svg viewBox="0 0 24 24" width="32" height="32" data-testid="sms" class='s46582 '>
+            <path fill-rule="evenodd" d="M20 2c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H6l-4 4 .01-18c0-1.1.89-2 1.99-2zM5.172 16H20V4H4.009l-.006 13.169zM9 11H7V9h2zm2 0h2V9h-2zm6 0h-2V9h2z" clip-rule="evenodd"/>
+        </svg>
+    </div>
+
     <!-- Copy Link -->
     <div class='copy-link' title="Copy link to clipboard" onclick="navigator.clipboard.writeText('{{ site.url }}{{ pageurl }}'); alert('Link copied to clipboard!');">
         <svg viewBox="0 0 24 24" width="32" height="32" data-testid="link" class='s46582 '>
@@ -110,13 +117,6 @@
             </svg>
         </div>
     {% endif %}
-
-    <!-- Text Message -->
-    <div class='text-message' title="Send link via Text Message" onclick="window.open('sms:?&body={{ site.url }}{{ pageurl }}');">
-        <svg viewBox="0 0 24 24" width="32" height="32" data-testid="sms" class='s46582 '>
-            <path fill-rule="evenodd" d="M20 2c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H6l-4 4 .01-18c0-1.1.89-2 1.99-2zM5.172 16H20V4H4.009l-.006 13.169zM9 11H7V9h2zm2 0h2V9h-2zm6 0h-2V9h2z" clip-rule="evenodd"/>
-        </svg>
-    </div>
 
 </div>
 

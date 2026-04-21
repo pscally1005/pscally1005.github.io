@@ -10,6 +10,16 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/chaos-rice": [
+        "italian chaos rice",
+        "chaos rice"
+    ],
+    "/recipes/lazy-rainbow-cookies": [
+        "Lazy rainbow cookies",
+        "lazy rainbow cookie",
+        "easy rainbow cookies",
+        "easy rainbow cookie"
+    ],
     "/recipes/butternut-yogurt": [
         "butternut squash yogurt"
     ],
@@ -6158,6 +6168,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "fried rice",
+    "ginger (ground)",
     "flour blend",
     "side by side",
     "cupcakes, muffins",
@@ -7879,7 +7891,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2023-06-21")):
+            if not file.startswith(("2026-01-01-chaos")):
                 continue
 
             # exclude some files

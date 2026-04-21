@@ -70,6 +70,7 @@ Honey,honey,3.74,336.00,0.01113,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,
 "Honey, or maple syrup",honey,3.74,336.00,0.01113,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,
 Maple syrup,maple-syrup,7.98,360.00,0.02217,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,
 "Maple syrup, or honey",maple-syrup,7.98,360.00,0.02217,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,
+Sugar Free Syrup,sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,/recipes/sugar-free-syrup
 Sugar free syrup,sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,/recipes/sugar-free-syrup
 "Sugar free syrup, or maple syrup or honey",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,/recipes/sugar-free-syrup
 "Sugar free syrup, or honey or maple syrup",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,/recipes/sugar-free-syrup
@@ -488,3 +489,4 @@ Frosting,frosting,1.96,454.00,0.00432,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1,0.0
 "Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,/recipes/protein-frosting
 "Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,/recipes/protein-frosting#notes
 Tzatziki,tzatziki-sauce-100g,5.41,390.00,0.01387,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.5,0,/recipes/tzatziki
+Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,https://amzn.to/3QlrH9q

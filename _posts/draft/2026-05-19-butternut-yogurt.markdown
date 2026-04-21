@@ -65,7 +65,7 @@ Notes:
     "<a href='/misc/veggies#butternut-squash'>Butternut</a>",
     "<a href='/misc/veggies#sweet-potato'>Sweet<br>Potato</a>",
     "<a href='/misc/veggies#pumpkin'>Pumpkin</a>",
-    "<a href='/recipes/apple-spread'>Apple<br>Spread</a>";
+    "<a href='/misc/fruit#apple'>Apple<br>Spread</a>";
 
     "Calories",
     "Protein",

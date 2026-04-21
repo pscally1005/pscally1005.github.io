@@ -793,14 +793,18 @@ def grams(food, mass, vol):
             m = "22.5"
         elif vol == "4 tbsp" or vol == "1/4 cup":
             m = "30"
+        elif vol == "6 tbsp" or vol == "3/8 cup":
+            m = "45"
         elif vol == "1/2 cup":
             m = "60"
         elif vol == "2/3 cup":
             m = "80"
-        elif vol == "3/4 cup":
+        elif vol == "12 tbsp" or vol == "3/4 cup":
             m = "90"
         elif vol == "1 cup":
             m = "120"
+        elif vol == "18 tbsp" or vol == "1 1/8 cup":
+            m = "135"
         elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "180"
         elif vol == "1.75 cup" or vol == "1 3/4 cup":
