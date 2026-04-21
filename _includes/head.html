@@ -2,7 +2,7 @@
   <!-- {% assign canonical_url = site.url | append: page.url | replace: '///', '/' | replace: '//', '/' %} -->
   {% assign canonical_url = page.url | relative_url | absolute_url %}
   <link rel="canonical" href="{{ canonical_url }}" />
-  
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,7 +25,7 @@
     {% assign DESC = page.Description %}
   {% endif %}
   <meta name="description" content="{{ DESC | escape }}">
-  
+
   {% assign TITLE = page.title | append: ' - ' | append: site.title %}
   {% if page.url == '/' %}
     {% assign TITLE = site.title %}
@@ -34,7 +34,7 @@
     {% assign TITLE = page.title %}
   {% endif %}
   <title>{{ TITLE }}</title>
-  
+
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
@@ -45,12 +45,11 @@
   {%- include custom-head.html -%}
 
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:description" content="{{ page.Description | escape }}" />
-  <meta property="og:image" content="{{ IMAGE | absolute_url }}" />
-  <!-- <meta property="og:url" content="{{ page.url | absolute_url }}" /> -->
-  <meta property="og:url" content="{{ canonical_url }}" />
-  
+  <meta property="og:title" content="{{ page.title }} - Poor Man Protein">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:url" content="{{ site.url }}{{ pageurl }}">
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ page.title }}" />
