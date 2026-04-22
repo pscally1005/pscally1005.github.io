@@ -6168,6 +6168,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "grilled cheese",
     "fried rice",
     "ginger (ground)",
     "flour blend",
@@ -7891,7 +7892,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-01-01-chaos")):
+            if not file.startswith(("2025-02-09")):
                 continue
 
             # exclude some files

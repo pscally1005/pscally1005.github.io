@@ -121,4 +121,10 @@ Notes:
     "Sugar Alcohol",
     "Glycemic Index"
   )
+
+- |
+  You can also turn this cake into cake pops.  Add all the leftover frosted cake slices to a large bowl, and mash with your hands to form a dough that you can roll into balls.  The entire cake should yield about 50 cake pops of 30 g (2 tbsp) each.<br><br>
+
+  Typically with cake pops, you mix leftover cake with some frosting to bind it together into a dough.  However, this cake is moist enough, plus the cream cheese frosting, that it didn't need any additional liquid to bind together.  If your's is too dry, add some milk a little bit at a time until you have something that can easily be rolled without sticking.
+- <img src='/assets/Misc/Unhealthy/Cake/cake-pops.jpg' alt='' class='instruction-image'>
 ---

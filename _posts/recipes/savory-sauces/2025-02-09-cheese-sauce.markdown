@@ -66,4 +66,7 @@ Notes:
 - With this sauce, you can make <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a> by mixing it with a 1 lb box of <a href='/misc/grains#pasta'>pasta</a>. You can also make <a href='/recipes/cheesy-rice-and-broccoli'>Cheesy Rice & Broccoli</a> by combining the sauce with 1 cup of <a href='/misc/grains#brown-rice'>rice</a> and 2 lbs frozen <a href='/misc/veggies#broccoli'>broccoli</a>
 - <img src='/assets/Food//Sides/Mac & Cheese/cover.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food//Meatless/Cheesy Rice/cover.jpg' alt='' class='instruction-image'>
+
+- You can also use this cheese sauce in a grilled cheese.  Here, I made a 2 serving batch of the cheese sauce before adding between 2 slices of bread with some <a href='/recipes/caramelized-onions'>caramelized onions</a> and a drizzle of <a href='/misc/natural-sweeteners#honey'>honey</a>, then pan frying the outsides of the sandwich to make a grilled cheese
+- <img src='/assets/Food/Savory Sauces/Cheese Sauce/grilled-cheese.jpg' alt='' class='instruction-image'>
 ---

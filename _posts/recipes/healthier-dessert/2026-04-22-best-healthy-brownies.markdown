@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  The Best Healthy Brownies Recipe
-date:   2026-03-25 00:00:00 -0500
+date:   2026-04-22 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
