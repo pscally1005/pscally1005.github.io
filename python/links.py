@@ -10,6 +10,22 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/chia-water": [
+        "high fiber chia water",
+        "high fiber chia seed water",
+        "high fiber flax water",
+        "high fiber flaxseed water",
+        "high fiber flax seed water",
+        "high fiber psyllium water",
+        "high fiber psyllium husk water",
+        "chia water",
+        "chia seed water",
+        "flax water",
+        "flax seed water",
+        "flaxseed water",
+        "psyllium water",
+        "psyllium husk water"
+    ],
     "/recipes/chaos-rice": [
         "italian chaos rice",
         "chaos rice"
@@ -4849,6 +4865,11 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/3FAdvEl": [
+        "psyllium husks",
+        "psyllium husk",
+        "psyllium"
+    ],
     "https://amzn.to/3QbZba1": [
         "rice paper"
     ],
@@ -7892,7 +7913,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2025-02-09")):
+            if not file.startswith(("2026-05-22")):
                 continue
 
             # exclude some files
