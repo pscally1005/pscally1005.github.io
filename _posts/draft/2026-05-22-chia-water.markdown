@@ -62,15 +62,24 @@ Notes:
 - It's normal for it to separate a little bit.  Just give it another shake before drinking
 
 - You can alternatively use 2 tbsp (13 g) <a href='/misc/seeds#flax-seeds'>ground flaxseed</a> or 2 tbsp (10 g) <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> instead of <a href='/misc/seeds#chia-seeds'>chia seeds</a>
+- <img src='/assets/Food/Drinks/Chia water/flax.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Drinks/Chia water/psyllium.jpg' alt='' class='instruction-image'>
+
+- You can also use 1 tbsp (12 g) of <a href='https://amzn.to/47w8h7R'>inulin</a> for a <a href='/misc/fiber'>high fiber</a> <a href='/recipes/drinks'>drink</a> that fully dissolves.  This feels and tastes just like water
+- <img src='/assets/Food/Drinks/Chia water/inulin.jpg' alt='' class='instruction-image'>
+
+- Because of the <a href='/misc/fiber'>high fiber</a> content of this <a href='/recipes/drinks'>drink</a>, it's recommended to slowly work your way up.  I'd suggest starting with maybe half the amount of <a href='/misc/seeds#chia-seeds'>chia</a> (or <a href='/misc/seeds#flax-seeds'>flax</a>, <a href='https://amzn.to/3FAdvEl'>psyllium</a>, or <a href='https://amzn.to/47w8h7R'>inulin</a>) in order to avoid any digestion issues
 - |
   COMPARE(
     "chiawater",
     "flaxwater",
-    "psylliumwater";
+    "psylliumwater",
+    "inulinwater";
 
     "<a href='/misc/seeds#chia-seeds'>Chia</a>",
     "<a href='/misc/seeds#flax-seeds'>Flax</a>",
-    "<a href='https://amzn.to/3FAdvEl'>Psyllium</a>";
+    "<a href='https://amzn.to/3FAdvEl'>Psyllium</a>",
+    "<a href='https://amzn.to/47w8h7R'>Inulin</a>";
 
     "Calories",
     "Protein",
@@ -78,6 +87,5 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
-- <img src='/assets/Food/Drinks/Chia water/Flax.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Drinks/Chia water/Psyllium.jpg' alt='' class='instruction-image'>
+
 ---
