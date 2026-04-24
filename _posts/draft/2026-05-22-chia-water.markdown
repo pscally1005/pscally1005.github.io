@@ -35,12 +35,12 @@ section5:
 Prep: 5
 Rest: 15
 Cook:
-Source1:
+Source1: https://www.healthline.com/nutrition/chia-seeds-in-water-benefits#benefits
 Source2:
 Source3:
 Source4:
 Source5:
-whisk: TODO
+whisk: https://s.samsungfood.com/qh806
 tags:
 - chia seeds
 - flax seeds
@@ -61,14 +61,16 @@ Instructions:
 Notes:
 - It's normal for it to separate a little bit.  Just give it another shake before drinking
 
-- You can alternatively use 2 tbsp (13 g) <a href='/misc/seeds#flax-seeds'>ground flaxseed</a> or 2 tbsp (10 g) <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> instead of <a href='/misc/seeds#chia-seeds'>chia seeds</a>
+- You can alternatively use 2 tbsp (13 g) <a href='/misc/seeds#flax-seeds'>ground flaxseed</a> instead of <a href='/misc/seeds#chia-seeds'>chia seeds</a>.  Again, wait 10-15 minutes before drinking
 - <img src='/assets/Food/Drinks/Chia water/flax.jpg' alt='' class='instruction-image'>
+
+- Or you can use 1 tbsp (5 g) of <a href='https://amzn.to/3FAdvEl'>psyllium husk</a>.  This time, you should consume it right away instead of letting it gell
 - <img src='/assets/Food/Drinks/Chia water/psyllium.jpg' alt='' class='instruction-image'>
 
-- You can also use 1 tbsp (12 g) of <a href='https://amzn.to/47w8h7R'>inulin</a> for a <a href='/misc/fiber'>high fiber</a> <a href='/recipes/drinks'>drink</a> that fully dissolves.  This feels and tastes just like water
+- You can also use 1 tsp (4 g) of <a href='https://amzn.to/47w8h7R'>inulin</a> for a <a href='/misc/fiber'>high fiber</a> <a href='/recipes/drinks'>drink</a> that fully dissolves.  This feels and tastes just like water, and can be drunk either right away or refrigerated for later
 - <img src='/assets/Food/Drinks/Chia water/inulin.jpg' alt='' class='instruction-image'>
 
-- Because of the <a href='/misc/fiber'>high fiber</a> content of this <a href='/recipes/drinks'>drink</a>, it's recommended to slowly work your way up.  I'd suggest starting with maybe half the amount of <a href='/misc/seeds#chia-seeds'>chia</a> (or <a href='/misc/seeds#flax-seeds'>flax</a>, <a href='https://amzn.to/3FAdvEl'>psyllium</a>, or <a href='https://amzn.to/47w8h7R'>inulin</a>) in order to avoid any digestion issues
+- Because of the <a href='/misc/fiber'>high fiber</a> content of these <a href='/recipes/drinks'>drinks</a>, it's recommended to slowly work your way up.  I'd suggest starting with maybe half the amount of <a href='/misc/seeds#chia-seeds'>chia</a> (or <a href='/misc/seeds#flax-seeds'>flax</a>, <a href='https://amzn.to/3FAdvEl'>psyllium</a>, or <a href='https://amzn.to/47w8h7R'>inulin</a>) in order to avoid any digestion issues
 - |
   COMPARE(
     "chiawater",

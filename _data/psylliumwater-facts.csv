@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,13,,
+Calories,8.1,,
 "Vitamin A, RAE",0,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0,mcg,
@@ -27,17 +27,17 @@ Calories,13,,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",0,mg,0 %
-"Calcium",57.04,mg,4 %
+"Calcium",47.04,mg,4 %
 "Copper",0.03,mg,3 %
 "Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
-"Iron",1.73,mg,10 %
+"Iron",0.88,mg,5 %
 "Magnesium",7.94,mg,2 %
 "Manganese",0.037,mg,2 %
 "Phosphorus",1.19,mg,0 %
-"Potassium",107.88,mg,2 %
+"Potassium",59.38,mg,1 %
 "Selenium",0.01,mcg,0 %
-"Sodium",17.94,mg,1 %
+"Sodium",12.94,mg,1 %
 "Zinc",0.01,mg,0 %
 "Protein",0,g,0 %
 "Alanine",0,g,
@@ -62,8 +62,8 @@ Calories,13,,
 "Valine",0,g,0 %
 "Phenylalanine + Tyrosine",0,g,0 %
 "Methionine + Cysteine",0,g,0 %
-"Carbohydrate",8.14,g,3 %
-"Fiber",7,g,25 %
+"Carbohydrate",4.14,g,2 %
+"Fiber",3.5,g,12 %
 "Sugars",0.06,g,
 "Fructose",0.04,g,
 "Galactose",0,g,
@@ -71,7 +71,7 @@ Calories,13,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0,g,
-"Net carbs",1.14,g,
+"Net carbs",0.64,g,
 "Fat",0,g,0 %
 "Saturated fatty acids",0,g,0 %
 "Butanoic acid",0,g,
