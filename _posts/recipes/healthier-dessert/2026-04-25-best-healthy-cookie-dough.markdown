@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  The Best Healthy Cookie Dough
-date:   2026-03-25 00:00:00 -0500
+date:   2026-04-25 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -22,7 +21,7 @@ vic: no
 permalink: /recipes/best-healthy-cookie-dough
 image: /assets/Misc/Experiments/Healthier Brownies Cookies/cookie-dough-bite.jpg
 file: cookiedoughhealthier
-servingSize: 1 cookie
+servingSize: 1 piece
 section1:
 start2:
 section2:

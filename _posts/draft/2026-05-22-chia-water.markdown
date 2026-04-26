@@ -87,7 +87,8 @@ Notes:
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber"
+    "Soluble Fiber",
+    "Insoluble Fiber"
   )
 
 ---

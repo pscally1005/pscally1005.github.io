@@ -332,6 +332,8 @@ def ingredients(food):
         f = "Shredded mozzarella cheese, low moisture part skim"
     elif food == "Unflavored Casein Protein Powder by PROMIX" or food == "Nutricost Casein Unflavored Protein Powder":
         f = "Casein protein powder, unflavored"
+    elif food == "Levels Vanilla Casein Protein Powder":
+        f = "Whey protein powder, vanilla"
     elif food == "Yogurt, Greek, nonfat milk, plain" or food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
         f = "Plain nonfat greek yogurt"
     elif food == "Yogurt, whole milk, plain, Greek":

@@ -53,6 +53,11 @@
 
     {% assign fib = "0.0 g (0 %)" %}
     {% assign totalFib = 0.0 %}
+    {% assign solubleFiber = 0.0 %}
+    {% assign solubleFiberStr = "0.0 g" %}
+    {% assign insolubleFiber = 0.0 %}
+    {% assign insolubleFiberStr = "0.0 g" %}
+
     {% assign sugAlc = 0.0 %}
     {% assign all = 0.0 %}
 
@@ -104,10 +109,10 @@
     {% assign caffeine = "0.00 mg (0 %)" %}
 
     {% assign gluten = 0.0 %}
-    {% assign glutenStr = "0.0 g (0 %)"" %}
+    {% assign glutenStr = "0.0 g (0 %)" %}
 
     {% assign lactose = 0.0 %}
-    {% assign lactoseStr = "0.0 g (0 %)"" %}
+    {% assign lactoseStr = "0.0 g (0 %)" %}
 
     <!-- Loop to get nutrition facts -->
     {% for row in loopVarFacts %}
@@ -348,7 +353,7 @@
 
             {% assign file = facts | replace: "-facts", "" %}
 
-            <!-- Added sugar, sugar alcohol, allulose, gluten, lactose per ingredient -->
+            <!-- Added sugar, sugar alcohol, allulose, gluten, soluble/insoluble fiber, lactose per ingredient -->
             {% if r["Food"] == food or r["File"] == file %}
 
                 {% assign mass = 100.0 %}
@@ -365,8 +370,40 @@
                 {% assign itemAllulose = r["Allulose per 100 g"] | times: mass | divided_by: 100 %}
                 {% assign all = all | plus: itemAllulose %}
 
-                {% assign itemGluten = r["Gluten Protein %"] | times: totalProtein | divided_by: 100 %}
+                {% assign fileName = r["File"] | append: "-facts" %}
+                {% assign factsFile = site.data.servingSizes[fileName] %}
+
+                {% assign unit_protein = 0.0 %}
+                {% for r2 in factsFile %}
+                  {% if r2["Nutrient"] == "Protein" %}
+                    {% assign unit_protein = r2["Amount"] %}
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+                {% assign itemProtein = unit_protein | times: mass | divided_by: 100 %}
+
+                {% assign itemGluten = r["Gluten Protein %"] | times: itemProtein | divided_by: 100 %}
                 {% assign gluten = gluten | plus: itemGluten %}
+
+                {% assign unit_fiber = 0.0 %}
+                {% for r2 in factsFile %}
+                  {% if r2["Nutrient"] == "Fiber" %}
+                    {% assign unit_fiber = r2["Amount"] %}
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+                {% assign itemFiber = unit_fiber | times: mass | divided_by: 100 %}
+
+                {% assign solFibPer = r["Soluble Fiber %"] | times: 1.0 %}
+                {% if solFibPer == 0 or solFibPer == nil or solFibPer == "" or solFibPer == blank %}
+                  {% assign solFibPer = 50.0 %}
+                {% endif %}
+                {% assign insolFibPer = 100.0 | minus: solFibPer %}
+
+                {% assign itemSolubleFiber = solFibPer | times: itemFiber | divided_by: 100 %}
+                {% assign solubleFiber = solubleFiber | plus: itemSolubleFiber %}
+                {% assign itemInsolubleFiber = insolFibPer | times: itemFiber | divided_by: 100 %}
+                {% assign insolubleFiber = insolubleFiber | plus: itemInsolubleFiber %}
 
                 {% assign itemLactose = r["Lactose per 100 g"] | times: mass | divided_by: 100 %}
                 {% assign lactose = lactose | plus: itemLactose %}
@@ -381,6 +418,10 @@
                   all:"{{all}}"<br>
                   itemGluten:"{{itemGluten}}"<br>
                   gluten:"{{gluten}}"<br>
+                  itemSolubleFiber:"{{itemSolubleFiber}}"<br>
+                  solubleFiber:"{{solubleFiber}}"<br>
+                  itemInsolubleFiber:"{{itemInsolubleFiber}}"<br>
+                  insolubleFiber:"{{insolubleFiber}}"<br>
                   itemLactose:"{{itemLactose}}"<br>
                   lactose:"{{lactose}}"<br>
                   <br>
@@ -398,6 +439,8 @@
     {% assign sugAlc = sugAlc | divided_by: servings %}
     {% assign all = all | divided_by: servings %}
     {% assign gluten = gluten | divided_by: servings %}
+    {% assign solubleFiber = solubleFiber | divided_by: servings %}
+    {% assign insolubleFiber = insolubleFiber | divided_by: servings %}
     {% assign lactose = lactose | divided_by: servings %}
 
     <!-- Calc net carbs -->
@@ -421,6 +464,10 @@
 
     <!-- Gluten -->
     {% assign glutenStr = gluten | round: 1 | append: ' g' %}
+
+    <!-- Soluble & Insoluble Fiber -->
+    {% assign solubleFiberStr = solubleFiber | round: 1 | append: ' g' %}
+    {% assign insolubleFiberStr = insolubleFiber | round: 1 | append: ' g' %}
 
     <!-- Lactose -->
     {% assign lactoseStr = lactose | round: 1 | append: ' g' %}
@@ -480,7 +527,7 @@
         {% assign line = netCarbStr %}
     {% endif %}
 
-    {% if nutrient == "Fiber" %}
+    {% if nutrient == "Fiber"  or nutrient == "Total Fiber" %}
         {% assign line = fib %}
     {% endif %}
 
@@ -644,6 +691,14 @@
         {% assign line = glutenStr %}
     {% endif %}
 
+    {% if nutrient == "Soluble Fiber" %}
+        {% assign line = solubleFiberStr %}
+    {% endif %}
+
+    {% if nutrient == "Insoluble Fiber" %}
+        {% assign line = insolubleFiberStr %}
+    {% endif %}
+
     {% if nutrient == "Lactose" %}
         {% assign line = lactoseStr %}
     {% endif %}
@@ -722,7 +777,7 @@
           {% if page.title == "The ABCs of Nutrients" or page.title == "Overshadowed Healthy Foods" or page.title == "The Surprising Benefits of Chocolate" or page.title == "Olive Oil: Superfood or Super Overrated?" %}
               {% assign output = value | append: ' ' | append: unit | append: ' (' | append: percentage | append: ' %)' %}
 
-              {% assign nutrients_without_percentage = "Calories|Net Carbs|Sugar|Monounsaturated Fat|Polyunsaturated Fat|Trans Fat|Caffeine|Total Sugar|Sugar Alcohol|Allulose|Lactose|EPA|DHA|Alcohol" | split: "|" %}
+              {% assign nutrients_without_percentage = "Calories|Net Carbs|Sugar|Monounsaturated Fat|Polyunsaturated Fat|Trans Fat|Caffeine|Total Sugar|Sugar Alcohol|Allulose|Lactose|EPA|DHA|Alcohol|Soluble Fiber|Insoluble Fiber" | split: "|" %}
               {% if nutrients_without_percentage contains nutrient" %}
                   {% assign output = value | append: ' ' | append: unit %}
               {% endif %}

@@ -1,0 +1,73 @@
+Nutrient,Amount,Unit,DV
+Calories,406,,
+"Vitamin A, RAE",0.00,mcg,0 %
+"Carotene, alpha",0.00,mcg,
+"Carotene, beta",0.00,mcg,
+"Retinol",0.00,mcg,
+"Thiamin [Vitamin B1]",0.630,mg,52 %
+"Riboflavin [Vitamin B2]",2.083,mg,160 %
+"Niacin [Vitamin B3]",1.173,mg,7 %
+"Pantothenic acid [Vitamin B5]",5.737,mg,115 %
+"Vitamin B6",0.627,mg,37 %
+"Vitamin B12 [Cobalamin]",2.50,mcg,104 %
+"Folate, DFE [Vitamin B9]",34.10,mcg,9 %
+"Vitamin C [Ascorbic acid]",0.0,mg,0 %
+"Vitamin D",0.00,mcg,0 %
+"Vitamin E (alpha-tocopherol)",0.00,mg,0 %
+"Tocopherol, alpha",0.00,mg,
+"Vitamin K",0.0,mcg,0 %
+"Betaine",0.0,mg,
+"Biotin [Vitamin B7]",0.00,mcg,0 %
+"Choline",231.7,mg,42 %
+"Calcium",312.50,mg,24 %
+"Copper",0.03,mg,3 %
+"Fluoride",0.0,mcg,
+"Iodine",0.00,mcg,0 %
+"Iron",0.93,mg,5 %
+"Magnesium",201.57,mg,48 %
+"Manganese",0.000,mg,0 %
+"Phosphorus",1365.53,mg,109 %
+"Potassium",500.00,mg,11 %
+"Selenium",27.60,mcg,50 %
+"Sodium",390.63,mg,17 %
+"Zinc",6.37,mg,58 %
+"Protein",75.00,g,150 %
+"Alanine",3.750,g,
+"Arginine",2.093,g,
+"Aspartic acid",8.127,g,
+"Cystine",1.530,g,
+"Cysteine",1.53,g,
+"Glutamic acid",13.093,g,
+"Glycine",1.470,g,
+"Histidine",1.437,g,126 %
+"Hydroxyproline",0.000,g,
+"Isoleucine",4.530,g,292 %
+"Leucine",7.937,g,231 %
+"Lysine",6.750,g,218 %
+"Methionine",1.563,g,
+"Phenylalanine",2.377,g,
+"Proline",4.407,g,
+"Serine",3.750,g,
+"Threonine",5.000,g,306 %
+"Tryptophan",1.280,g,314 %
+"Tyrosine",2.157,g,
+"Valine",4.500,g,230 %
+"Phenylalanine + Tyrosine",4.534,g,168 %
+"Methionine + Cysteine",4.623,g,298 %
+"Carbohydrate",4.63,g,2 %
+"Fiber",0.00,g,0 %
+"Sugars",4.63,g,
+"Net carbs",4.63,g,
+"Fat",9.407,g,12 %
+"Saturated fatty acids",4.710,g,24 %
+"Monounsaturated fatty acids",0.950,g,
+"Polyunsaturated fatty acids",1.803,g,
+"Docosahexaenoic n-3 acid (DHA)",0.000,g,
+"Docosapentaenoic n-3 acid (DPA)",0.000,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.000,g,
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",234.37,mg,78 %
+"Alcohol, ethyl",0.0,g,
+"Caffeine",0.00,mg,
+"Theobromine",0.00,mg,
+"Water",10.96,g,

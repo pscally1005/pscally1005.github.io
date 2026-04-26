@@ -47,6 +47,10 @@ sections:
         display: Total Carbs
       - key: Fiber
         indent: true
+      - key: Soluble Fiber
+        indent: true
+      - key: Insoluble Fiber
+        indent: true
       - key: Net carbs
         display: Net Carbs
         indent: true

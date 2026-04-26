@@ -37,6 +37,8 @@
             | append: "Sodium,"
             | append: "Carbs,"
             | append: "Fiber,"
+            | append: "Soluble Fiber,"
+            | append: "Insoluble Fiber,"
             | append: "Net Carbs,"
             | append: "Sugar,"
             | append: "Added Sugar,"
@@ -114,6 +116,8 @@
 
         {% assign fib = "" %}
         {% assign totalFib = "" %}
+        {% assign solubleFiber = "" %}
+        {% assign insolubleFiber = "" %}
 
         {% assign sug = "" %}
         {% assign totalSugar = "" %}
@@ -365,7 +369,7 @@
             {% endfor %}
         {% endfor %}
 
-        <!-- Calculate added sugar, sugar alcohols, allulose, gluten, and lactose -->
+        <!-- Calculate added sugar, sugar alcohols, allulose, gluten, soluble/insoluble fiber, and lactose -->
         {% assign servings = 1 | times: 1 %}
         {% assign loopVarIng = loopVarIngBackup %}
         {% for row in loopVarIng %}
@@ -378,7 +382,7 @@
             {% assign mass = row["Amount"] | times: 1.0 %}
 
             {% for row in site.data.foods %}
-                <!-- Added sugar, sugar alcohol, allulose, gluten, and lactose per ingredient -->
+                <!-- Added sugar, sugar alcohol, allulose, gluten, soluble/insoluble fiber, and lactose per ingredient -->
                 {% if row["Food"] == food %}
                     {% assign itemAddedSugar = row["Add Sug per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign addedSugar = addedSugar | plus: itemAddedSugar %}
@@ -392,9 +396,10 @@
                     {% assign itemLactose = row["Lactose per 100 g"] | times: mass | divided_by: 100 %}
                     {% assign lactose = lactose | plus: itemLactose %}
 
-                    {% assign unit_protein = 0.0 %}
                     {% assign fileName = row["File"] | append: "-facts" %}
                     {% assign factsFile = site.data.servingSizes[fileName] %}
+
+                    {% assign unit_protein = 0.0 %}
                     {% for r in factsFile %}
                       {% if r["Nutrient"] == "Protein" %}
                         {% assign unit_protein = r["Amount"] %}
@@ -405,6 +410,26 @@
 
                     {% assign itemGluten = row["Gluten Protein %"] | times: itemProtein | divided_by: 100 %}
                     {% assign gluten = gluten | plus: itemGluten %}
+
+                    {% assign unit_fiber = 0.0 %}
+                    {% for r in factsFile %}
+                      {% if r["Nutrient"] == "Fiber" %}
+                        {% assign unit_fiber = r["Amount"] %}
+                        {% break %}
+                      {% endif %}
+                    {% endfor %}
+                    {% assign itemFiber = unit_fiber | times: mass | divided_by: 100 %}
+
+                    {% assign solFibPer = row["Soluble Fiber %"] | times: 1.0 %}
+                    {% if solFibPer == 0 or solFibPer == nil or solFibPer == "" or solFibPer == blank %}
+                      {% assign solFibPer = 50.0 %}
+                    {% endif %}
+                    {% assign insolFibPer = 100.0 | minus: solFibPer %}
+
+                    {% assign itemSolubleFiber = solFibPer | times: itemFiber | divided_by: 100 %}
+                    {% assign solubleFiber = solubleFiber | plus: itemSolubleFiber %}
+                    {% assign itemInsolubleFiber = insolFibPer | times: itemFiber | divided_by: 100 %}
+                    {% assign insolubleFiber = insolubleFiber | plus: itemInsolubleFiber %}
 
                     {% comment %}
                       food:"{{food}}"<br>
@@ -423,6 +448,8 @@
         {% assign sugAlc = sugAlc | divided_by: servings %}
         {% assign all = all | divided_by: servings %}
         {% assign gluten = gluten | divided_by: servings %}
+        {% assign solubleFiber = solubleFiber | divided_by: servings %}
+        {% assign insolubleFiber = insolubleFiber | divided_by: servings %}
         {% assign lactose = lactose | divided_by: servings %}
 
         <!-- Print nutrition facts -->
@@ -511,11 +538,39 @@
 
                 <!-- If total carbs is 0, then hide fiber, net carbs, and sugar -->
                 {% if totalCarb != "" and totalCarb != 0.0 and totalCarb != 0 %}
+
+                    <!-- Added sugar, sugar alcohols, allulose, gluten, soluble/insoluble fiber, and lactose -->
+                    {% assign addedSugarNum = addedSugar | plus: 0 %}
+                    {% assign totalSugarNum = totalSugar | plus: 0 %}
+                    {% assign sugAlcNum = sugAlc | plus: 0 %}
+                    {% assign allNum = all | plus: 0 %}
+                    {% assign glutenNum = gluten | plus: 0 %}
+                    {% assign solubleFiberNum = solubleFiber | plus: 0 %}
+                    {% assign insolubleFiberNum = insolubleFiber | plus: 0 %}
+                    {% assign lactoseNum = lactose | plus: 0 %}
+
                     {% if fib != "" %}
                         <div class="nutrition-indent-1">
                             <b><a href="/misc/fiber">Fiber</a></b>: {{ fib }}
                         </div>
                     {% endif %}
+
+                    <div class="also-hide">
+                        {% if solubleFiberNum != 0 %}
+                            {% assign solubleFiberStr = solubleFiberNum | round: 1 | append: 'g' %}
+                            <!-- <div class="nutrition-indent-2">
+                                <b><a href="/misc/fiber">Soluble Fiber</a></b>: {{ solubleFiberStr }}
+                            </div> -->
+                        {% endif %}
+                    </div>
+                    <div class="also-hide">
+                        {% if insolubleFiberNum != 0 %}
+                            {% assign insolubleFiberStr = insolubleFiberNum | round: 1 | append: 'g' %}
+                            <!-- <div class="nutrition-indent-2">
+                                <b><a href="/misc/fiber">Insoluble Fiber</a></b>: {{ insolubleFiberStr }}
+                            </div> -->
+                        {% endif %}
+                    </div>
 
                     <!-- Calc net carbs -->
                     {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
@@ -534,14 +589,6 @@
                             <b><a href="/misc/carbs">Total Sugar</a></b>: {{ sug }}
                         </div>
                     {% endif %}
-
-                    <!-- Added sugar, sugar alcohols, allulose, gluten, and lactose -->
-                    {% assign addedSugarNum = addedSugar | plus: 0 %}
-                    {% assign totalSugarNum = totalSugar | plus: 0 %}
-                    {% assign sugAlcNum = sugAlc | plus: 0 %}
-                    {% assign allNum = all | plus: 0 %}
-                    {% assign glutenNum = gluten | plus: 0 %}
-                    {% assign lactoseNum = lactose | plus: 0 %}
 
                     <!-- Added sugar, sugar alcohols, allulose, lactose -->
                     {% if addedSugarNum != 0 and totalSugarNum != 0 %}
@@ -802,7 +849,7 @@
             {% if recipe == "true" %}
                 {% include glycemic.html %}
                 <br>
-                {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all lactose=lactose gluten=gluten %}
+                {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all lactose=lactose gluten=gluten solubleFiber=solubleFiber insolubleFiber=insolubleFiber %}
             {% endif %}
         </div>
 

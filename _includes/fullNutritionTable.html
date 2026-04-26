@@ -13,6 +13,8 @@
 {% assign lactoseNum = include.lactose %}
 {% assign glutenNum = include.gluten %}
 {% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 | append: ' %' %}
+{% assign solubleFiberNum = include.solubleFiber %}
+{% assign insolubleFiberNum = include.insolubleFiber %}
 
 <!-- JavaScript to open the table in a new window -->
 <script>
@@ -76,12 +78,12 @@
 
                     {% assign row = site.data[facts] | where: "Nutrient", nutrient_entry.key | first %}
 
-                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" or nutrient_entry.key == "Lactose" %}
+                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" or nutrient_entry.key == "Lactose" or nutrient_entry.key == "Soluble Fiber" or nutrient_entry.key == "Insoluble Fiber" %}
 
                         {% assign display_name = nutrient_entry.display | default: nutrient_entry.key %}
 
                         {% assign indent_level = 1 %}
-                        {% if display_name == "Added Sugar" %}
+                        {% if display_name == "Added Sugar" or display_name == "Soluble Fiber" or display_name == "Insoluble Fiber" %}
                           {% assign indent_level = 3 %}
                         {% elsif nutrient_entry.indent %}
                           {% assign indent_level = 2 %}
@@ -108,6 +110,14 @@
                                 tableContent += '<td></td>';
                             {% elsif nutrient_entry.key == "Lactose" %}
                                 tableContent += '<td>{{ lactoseNum | round: 2 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>'
+                            {% elsif nutrient_entry.key == "Soluble Fiber" %}
+                                tableContent += '<td>{{ solubleFiberNum | round: 2 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>'
+                            {% elsif nutrient_entry.key == "Insoluble Fiber" %}
+                                tableContent += '<td>{{ insolubleFiberNum | round: 2 }}</td>';
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td></td>'
                             {% elsif nutrient_entry.key == "Gluten" %}
