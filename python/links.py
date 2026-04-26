@@ -5367,6 +5367,14 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/chicken-leg-quarters": [
+        "chicken leg quarters",
+        "chicken leg quarter",
+        "chicken legs",
+        "chicken leg",
+        "you should get chicken leg quarters",
+        "you should be getting chicken leg quarters"
+    ],
     "/misc/healthier-brownies-and-cookies-experiment": [
         "healthier brownies & cookies experiment",
         "healthier brownies & cookies",
@@ -7913,7 +7921,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-22")):
+            if not file.startswith(("2026-05-25")):
                 continue
 
             # exclude some files
