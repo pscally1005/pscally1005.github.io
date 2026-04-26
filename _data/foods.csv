@@ -1,492 +1,492 @@
 Food,File,Cost ($),Size (g),Unit Cost ($/g),Glycemic Index,Gluten Free,Vegetarian,Dairy Free,Vegan,Nut Free,Sugar Free,Add Sug per 100 g,Sug Alc per 100 g,Allulose per 100 g,Lactose per 100 g,Gluten Protein %,Soluble Fiber %,Link
-Water,water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Water, warm",water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Aquafaba, or water",aquafaba,0.00,1.00,0.00000,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Aquafaba,aquafaba,0.86,255.00,0.00337,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Chickpeas, drained and rinsed",chickpea-drained,0.86,255.00,0.00337,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Chickpeas, NOT drained or rinsed",chickpea-whole,0.86,439.00,0.00196,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Pinto beans, drained and rinsed",pinto-drained,0.86,255.00,0.00337,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Pinto Beans, drained and rinsed",pinto-drained,0.86,255.00,0.00337,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Pinto beans, drained",pinto-drained,0.86,255.00,0.00337,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Pinto beans, NOT drained or rinsed",pinto-whole,0.86,439.00,0.00196,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Black beans, drained and rinsed",black-bean-drained,0.86,255.00,0.00337,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Black beans, NOT drained or rinsed",black-bean-whole,0.86,439.00,0.00196,17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cooked black beans,black-bean-drained,0.86,255.00,0.00337,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Kidney beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,24,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Kidney beans, NOT drained or rinsed",kidney-whole,0.86,439.00,0.00196,14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Navy beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Navy beans, lightly drained",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Great northern beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cooked navy beans,kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Cannellini beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,31,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Beans, drained and rinsed",black-bean-drained,0.86,255.00,0.00337,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Beans, NOT drained or rinsed",black-bean-whole,0.86,439.00,0.00196,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Dried beans,black-beans,1.00,454.00,0.00220,33,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Dry yeast,yeast,5.48,112.00,0.04893,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3HcHRxn
-Salt,salt,0.67,728.00,0.00092,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Flakey salt,salt,0.67,728.00,0.00092,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Flaky salt,salt,0.67,728.00,0.00092,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Extra virgin olive oil,olive-oil,6.72,476.00,0.01412,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Extra virgin coconut oil,coconut-oil,5.98,392.00,0.01526,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Extra virgin coconut oil, or extra virgin olive oil",coconut-oil,5.98,392.00,0.01526,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Sesame oil,sesame-oil,3.22,140.00,0.02300,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Sesame oil, or extra virgin olive oil",sesame-oil,3.22,140.00,0.02300,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Canola oil,oil,4.12,"1,344.00",0.00307,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-White vinegar,white-vinegar,3.74,"3,780.00",0.00099,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"White vinegar, or apple cider vinegar",white-vinegar,3.74,"3,780.00",0.00099,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Apple cider vinegar,acv,2.32,896.00,0.00259,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Balsamic vinegar,balsamic,3.92,236.60,0.01657,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Rice vinegar, unsweetened",white-vinegar,2.92,360.00,0.00811,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43hdvlT
-Red wine vinegar,red-wine-vinegar,2.84,480.00,0.00592,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Vital wheat gluten,vital-wheat-gluten,23.74,"1,816.00",0.01307,51,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,100,,https://amzn.to/4kgguB9
-Whole wheat flour,whole-wheat,5.58,"2,240.00",0.00249,75,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-Sourdough starter,sourdough-starter,2.79,"2,240.00",0.00125,54,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,/misc/whole-wheat-sourdough#starter
-Oat flour,oat-flour,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/homemade-flours
-"Oat flour, or almond flour",oat-flour,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/homemade-flours
-Rolled oats,oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Quick oats,oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Rolled oats, or quick",oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Quick oats, or rolled",oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Quick oats, or oat flour",oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cornstarch,cornstarch,1.82,448.00,0.00406,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Baking powder,baking-powder,1.98,226.80,0.00873,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Unsweetened applesauce,applesauce,3.12,"1,288.00",0.00242,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Unsweetened Applesauce,applesauce,3.12,"1,288.00",0.00242,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Unsweetened tomato sauce,tomato-sauce,1.48,812.00,0.00182,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Tomato sauce,tomato-sauce,1.48,812.00,0.00182,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Shredded mozzarella cheese,mozzarella,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,,
-"Shredded mozzarella cheese, low moisture part skim",mozzarella,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,,
-"Mozzarella cheese, fat free",mozzarella-fat-free,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,,
-"Casein protein powder, unflavored",casein,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4kBnsQM
-Casein protein powder,casein,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4kBnsQM
-"Casein protein powder, chocolate",casein,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/44hZio8
-"Casein protein powder, vanilla",casein,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/44hu28y
-Nutricost Casein Unflavored Protein Powder,casein,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4kBnsQM
-Garlic powder,garlic-powder,1.12,95.20,0.01176,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Onion powder,onion-powder,1.98,140.00,0.01414,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Plain nonfat greek yogurt,yogurt,3.54,896.00,0.00395,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,,
-Plain whole milk greek yogurt,yogurt-whole-milk,3.54,896.00,0.00395,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,,
-Honey,honey,3.74,336.00,0.01113,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,,
-"Honey, or maple syrup",honey,3.74,336.00,0.01113,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,,
-Maple syrup,maple-syrup,7.98,360.00,0.02217,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,,
-"Maple syrup, or honey",maple-syrup,7.98,360.00,0.02217,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,,
-Sugar Free Syrup,sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,,/recipes/sugar-free-syrup
-Sugar free syrup,sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,,/recipes/sugar-free-syrup
-"Sugar free syrup, or maple syrup or honey",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,,/recipes/sugar-free-syrup
-"Sugar free syrup, or honey or maple syrup",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,,/recipes/sugar-free-syrup
-"Sugar free syrup, or honey",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,,/recipes/sugar-free-syrup
-"Sugar free syrup, or maple syrup",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,,/recipes/sugar-free-syrup
-"Sugar free syrup, optional",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,,/recipes/sugar-free-syrup
-Agave,agave,5.82,665.05,0.00875,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,,
-Agave syrup,agave,5.82,665.05,0.00875,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,,
-Coconut sugar,coconut-sugar,9.42,905.60,0.01040,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,78.0,0.0,0.0,0.0,0,,
-Date sugar,date-sugar,8.98,396.20,0.02267,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,67.0,0.0,0.0,0.0,0,,
-Date syrup,date-syrup,9.98,679.20,0.01469,47,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,69.0,0.0,0.0,0.0,0,,
-Butternut squash puree,butternut-puree,2.37,900.00,0.00263,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/roasted-butternut-squash-puree
-Pumpkin puree,pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/pumpkin-puree
-Pumpkin Puree,pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/pumpkin-puree
-"Pumpkin puree, or sweet potato",pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/pumpkin-puree
-"Pumpkin puree, or sweet potato puree",pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/pumpkin-puree
-Sweet potato puree,sweet-potato-puree,1.47,424.50,0.00346,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/sweet-potato-puree
-"Sweet Potato puree, Pumpkin puree, or Butternut Squash puree",sweet-potato-puree,1.47,424.50,0.00346,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/sweet-potato-puree
-"Sweet Potato puree, or Pumpkin puree",sweet-potato-puree,1.47,424.50,0.00346,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/sweet-potato-puree
-Cooked sweet potato,sweet-potato-puree,2.79,"1,362.00",0.00205,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/sweet-potato-puree
-Sweet potato,sweet-potato,2.79,"1,362.00",0.00205,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Potato,potato,2.79,"1,362.00",0.00205,85,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Baking soda,baking-soda,0.92,454.00,0.00203,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Buttermilk,buttermilk,2.23,"1,000.00",0.00223,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,,
-Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,,
-Egg,eggs,4.50,918.00,0.00490,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Egg, hard boiled",eggs,4.50,918.00,0.00490,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/hard-boiled-egg
-Coconut flour,coconut-flour,6.57,"1,008.00",0.00652,51,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3SSE6zA
-"Whey protein powder, unflavored",whey,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,,https://amzn.to/4kBoGeY
-Whey protein powder,whey,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,,https://amzn.to/4kBoGeY
-"Whey protein powder, chocolate",whey,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,,https://amzn.to/3HXUMDC
-"Whey protein powder, vanilla",whey,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,,https://amzn.to/4llkGj5
-Nutricost Whey Unflavored Protein Powder,whey,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,,https://amzn.to/4kBoGeY
-Red lentils,red-lentils,1.50,454.00,0.00330,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Red split lentils,red-lentils,1.50,454.00,0.00330,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Lentils,red-lentils,1.50,454.00,0.00330,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Chia seeds,chia-seeds,9.97,998.80,0.00998,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4mwpWl9
-Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/45wOzIv
-Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3SqwsMO
-Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06981,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3SqwsMO
-Almond milk,almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Unsweetened almond milk,almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Unsweetened vanilla almond milk,almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Unsweetened almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Unsweetened vanilla almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cocoa powder,cocoa-powder,2.48,226.40,0.01095,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cocoa Powder,cocoa-powder,2.48,226.40,0.01095,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Carob powder,carob,9.49,454.00,0.02090,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4rhYDwh
-Cacao powder,cocoa-powder,9.34,454.00,0.02057,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4jqcKMa
-Almond extract,almond-extract,7.57,454.00,0.01667,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4khDgIM
-"Almond extract, or vanilla",almond-extract,7.57,454.00,0.01667,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4khDgIM
-Vanilla extract,vanilla-extract,1.67,224.00,0.00746,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43MkDqr
-"Vanilla extract, or almond",vanilla-extract,1.67,224.00,0.00746,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43MkDqr
-Mint extract,mint-extract,4.92,56.60,0.08693,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Maple extract,maple-extract,2.50,30.00,0.08333,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Rum extract,rum-extract,2.50,30.00,0.08333,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Coconut extract,coconut-extract,2.50,30.00,0.08333,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cinnamon,cinnamon,1.24,70.00,0.01771,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Ginger, ground",ginger-ground,2.24,42.00,0.05333,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Banana, underripe",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Banana, overripe",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen banana,banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Frozen bananas, overripe",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Frozen Bananas, overripe",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen overripe bananas,banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Banana, overripe, or unsweetened applesauce",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Blueberries,blueberries,6.74,504.00,0.01337,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen blueberries,blueberries-frozen,7.24,"1,344.00",0.00539,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Blackberries,blackberry,5.14,336.00,0.01530,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen blackberries,blackberries-frozen,3.76,454.00,0.00828,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Strawberries,strawberries,1.88,454.00,0.00414,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen strawberries,strawberries-frozen,9.22,"1,792.00",0.00515,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen berries,strawberries-frozen,9.22,"1,792.00",0.00515,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen fruit,frozen-fruit,2.38,454.00,0.00524,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Raspberries,raspberry,3.37,168.00,0.02006,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen raspberries,raspberries-frozen,4.48,339.60,0.01319,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Frozen spinach, thawed",spinach-frozen,1.16,339.60,0.00342,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Onion,onion,4.48,"1,362.00",0.00329,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Onions,onion,4.48,"1,362.00",0.00329,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Hot sauce,hot-sauce,1.56,336.00,0.00464,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/hot-sauce
-Minced garlic,minced-garlic,5.42,896.00,0.00605,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Paprika,paprika,1.12,70.00,0.01600,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Chili powder,chili-powder,1.12,84.00,0.01333,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4eKp8G4
-"Black pepper, ground",black-pepper,5.72,168.00,0.03405,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Whole wheat tortilla,tortilla,3.18,454.00,0.00700,30,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,/recipes/tortilla
-Low sugar berry jam,jam-low-sugar,3.12,364.00,0.00857,38,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,,/recipes/berry-jam
-Nonfat cottage cheese,cottage-cheese,2.94,672.00,0.00438,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.5,0,,
-"Nutmeg, ground",nutmeg-ground,2.42,42.00,0.05762,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4sgDH9S
-Skippy peanut butter,skippy,6.27,"1,132.00",0.00554,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6.3,0.0,0.0,0.0,0,,
-Natural peanut butter,peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-"Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-Peanuts,peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Nuts, chopped",peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Almonds,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Almond meal,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Almond butter,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-Almond flour,almonds,5.88,454.00,0.01295,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/45muDao
-Almond flour (or whole nuts),almonds,5.88,454.00,0.01295,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/45muDao
-Sunflower kernels,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4el1Qq5
-Sunflower butter,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-Sunflower seed butter,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-Pumpkin seeds,pumpkin-seeds,3.58,224.00,0.01598,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/44iBVKO
-Pumpkin seed butter,pumpkin-seeds,3.58,224.00,0.01598,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-Pistachios,pistachios,9.98,672.00,0.01485,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Pistachio butter,pistachios,9.98,672.00,0.01485,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-Hazelnuts,hazelnuts,3.49,196.00,0.01781,15,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Tahini,sesame-seeds,3.99,454.00,0.00879,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-"Tahini, or any other nut/seed butter",sesame-seeds,3.99,454.00,0.00879,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-"Cloves, ground",cloves-ground,5.43,50.40,0.10774,13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Apples,apple,4.00,"1,362.00",0.00294,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Apple, gala",apple,4.00,"1,362.00",0.00294,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-90% chocolate,90,2.27,98.00,0.02316,40,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.7,0.0,0.0,0.0,0,,
-Lemon pepper,lemon-pepper,6.19,680.40,0.00910,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4fopp1E
-Lime pepper,lemon-pepper,11.99,680.40,0.01762,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/47qzDfQ
-Avocado,avocado,1.00,136.00,0.00735,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Whole wheat bread,whole-wheat-bread,1.97,560.00,0.00352,59,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,/recipes/ww-bread
-Whole wheat baguette,whole-wheat-bread,0.65,190.00,0.00342,74,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,/recipes/whole-wheat-baguettes
-Whole wheat pita bread,whole-wheat-bread,0.27,60.00,0.00442,73,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,/recipes/pita
-Whole wheat bagel,ww-bagel,0.38,103.00,0.00369,70,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,/recipes/whole-wheat-bagels
-Lemon juice,lemon-juice,2.88,896.00,0.00321,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Cilantro, dried",cilantro-dried,1.94,14.00,0.13857,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Tomato,tomato,0.98,454.00,0.00216,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cherry tomatoes,tomato,2.99,283.00,0.01057,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Bell pepper,pepper,1.99,454.00,0.00438,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Red jalapenos,pepper,2.00,454.00,0.00441,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Diced tomatoes,diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Diced tomatoes, unsalted",diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Petite diced tomatoes,diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Cumin, ground",cumin,1.28,70.00,0.01829,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Red pepper flakes,red-pepper-flakes,1.44,49.00,0.02939,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Low sodium soy sauce,soy-sauce,1.58,420.00,0.00376,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-"Soy sauce, low sodium, gluten free",soy-sauce,3.99,300.00,0.01330,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/44VXByC
-"Parsley, dried",parsley-dried,1.12,11.20,0.10000,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Chicken,chicken-cooked,3.56,454.00,0.00784,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Boneless skinless chicken breast,chicken-breast,2.67,454.00,0.00588,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Plantain,plantain,0.60,454.00,0.00132,66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Plantain, yellow",plantain,0.60,454.00,0.00132,66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Plantain, green",plantain,0.60,454.00,0.00132,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Oregano, dried",oregano-dried,1.12,24.36,0.04598,8,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Grated parmesan cheese,grated-cheese,2.98,224.00,0.01330,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.5,0,,
-"Thyme, dried",thyme-dried,12.30,448.00,0.02746,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Basil, dried",basil-dried,1.12,363.20,0.00308,13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Italian seasoning,basil-dried,1.12,26.60,0.04211,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Fat free Italian dressing,italian-dressing,2.68,360.00,0.00744,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/italian-dressing
-Italian dressing,italian-dressing,2.68,360.00,0.00744,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/italian-dressing
-Lime juice,lime-juice,1.24,240.00,0.00517,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Allspice, ground",allspice,3.57,25.20,0.14167,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Artichokes,artichoke-canned,2.22,385.00,0.00577,43,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Carrots,carrots,1.08,454.00,0.00238,49,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Baby carrots,carrots,1.08,454.00,0.00238,49,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cabbage,cabbage,0.68,454.00,0.00150,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Coleslaw mix,cabbage,1.97,454.00,0.00434,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Gochujang,gochujang,3.99,492.80,0.00810,46,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,28.6,0.0,0.0,0.0,75,,https://amzn.to/3FmYk1m
-Cucumber,cucumber,0.64,200.00,0.00320,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Romaine lettuce,lettuce,3.62,600.00,0.00603,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Roasted red peppers,roasted-red-peppers,2.13,336.00,0.00634,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/roasted-vegetables
-Feta cheese,feta,6.00,454.00,0.01322,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,,
-"Feta cheese, fat free",feta-fat-free,6.00,454.00,0.01322,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,,
-"Frozen broccoli, thawed",broccoli-frozen,1.16,336.00,0.00345,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Vegetables,broccoli-frozen,0.98,336.00,0.00292,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Boneless skinless chicken thighs,chicken-thighs,3.48,454.00,0.00767,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Chicken thighs (either boneless skinless or bone-in skin-on),chicken-thighs,5.24,828.00,0.00633,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cayenne pepper,cayenne,3.77,63.00,0.05984,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Acorn squash,acorn-squash,0.99,454.00,0.00218,71,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Dijon mustard,mustard,1.52,336.00,0.00452,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Horseradish mustard,mustard,1.52,336.00,0.00452,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Mustard,mustard,1.52,336.00,0.00452,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Mustard, Dijon or Horseradish",mustard,1.52,336.00,0.00452,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Celery seed,celery-seed,4.26,50.40,0.08452,24,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-White Mushrooms,mushrooms,1.78,224.00,0.00795,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-White mushrooms,mushrooms,1.78,224.00,0.00795,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Chicken bouillon powder,bouillon-powder,5.98,896.00,0.00194,41,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3Hco5lz
-Bouillon powder,bouillon-powder,5.98,896.00,0.00194,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Crushed tomatoes,crushed-tomatoes,1.52,784.00,0.00194,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Tomato paste,tomato-paste,0.86,168.00,0.00512,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Tomato paste, canned",tomato-paste,0.86,168.00,0.00512,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Chicken wings,wings,2.98,454.00,0.00656,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Banana peel,water,0.58,454.00,0.00128,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Ginger, fresh",ginger,3.67,454.00,0.00808,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cashews,cashews,9.74,764.10,0.01275,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Cashew butter,cashews,9.74,764.10,0.01275,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-Raisins,raisins,4.28,560.00,0.00764,64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-85% chocolate,85,2.27,98.00,0.02316,23,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,,
-Ground chicken thighs,chicken-thighs,3.42,454.00,0.00753,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/ground-chicken
-Ground chicken breasts,chicken-breast,3.42,454.00,0.00753,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/ground-chicken
-Ground chicken,chicken-thighs,3.42,454.00,0.00753,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/ground-chicken
-Cranberries,cranberry,1.96,168.00,0.01167,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Eggplant,eggplant,1.58,454.00,0.00348,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Brown rice,brown-rice,1.64,896.00,0.00183,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Grape leaves,grape-leaves,17.49,454.00,0.03852,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3Hec3rW
-"Dill, fresh",dill-fresh,1.98,14.00,0.14143,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Ground turkey, 93/7",ground-turkey,3.99,454.00,0.00879,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Turmeric, ground",turmeric-ground,2.00,56.00,0.03571,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-White cooking wine,white-wine,3.48,366.80,0.00949,15,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Clams,clam,2.32,182.00,0.01275,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3FH9D4G
-"Tuna, in water",tuna,3.28,452.80,0.00724,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3Z2YhhM
-Pickles,pickles,2.47,140.00,0.01764,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Capers,capers,1.72,64.00,0.02688,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Walnuts,walnuts,5.98,454.00,0.01317,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Walnut butter,walnuts,5.98,454.00,0.01317,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/natural-peanut-butter
-Macadamia nuts,macadamia-nuts,4.13,112.00,0.03688,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Tilapia,tilapia,10.78,908.00,0.01187,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Frozen raw shrimp, peeled and deveined",shrimp,4.68,339.60,0.01378,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4kpECB6
-"Frozen cooked shrimp, peeled and deveined",shrimp,5.47,339.60,0.01611,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3FBnSHY
-Salmon,salmon,13.98,908.00,0.01540,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Frozen brussel sprouts, thawed",brussel-sprout-frozen,1.42,336.00,0.00423,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Old Bay,old-bay,4.43,168.00,0.02637,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Sardines, in water",sardine,1.07,105.00,0.01019,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4mA8XOU
-Everything bagel seasoning,everything-bagel-seasoning,2.12,72.80,0.02912,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/40gmjGE
-Whole wheat pasta,pasta,1.43,454.00,0.00315,50,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-Pasta,pasta-white,0.96,454.00,0.00211,50,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-Panko breadcrumbs,breadcrumbs,1.87,224.00,0.00835,71,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-Butternut squash,butternut-squash,0.79,454.00,0.00174,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Frozen butternut squash, thawed",butternut-squash-frozen,1.99,454.00,0.00438,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Unsweetened BBQ Sauce,bbq-sauce-homemade,1.52,518.00,0.00293,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/bbq-sauce
-Unsweetened BBQ sauce,bbq-sauce-homemade,1.52,518.00,0.00293,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/bbq-sauce
-Zucchini,zucchini,1.48,454.00,0.00326,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Beef top sirloin,steak,7.82,454.00,0.01722,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Ground beef, 93/7",ground-beef,4.49,454.00,0.00989,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Frozen cauliflower, thawed",cauliflower-frozen,1.16,336.00,0.00345,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen cauliflower,cauliflower-frozen,1.16,336.00,0.00345,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Shredded cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,,
-Cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,,
-"Cheddar cheese, fat free",cheddar-fat-free,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,,
-Pine nuts,pine-nuts,6.92,112.00,0.06179,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Pork tenderloin,pork-tenderloin,3.43,454.00,0.00756,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,,/recipes/monkfruit-chocolate-chunks
-Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,,https://amzn.to/4kGEfC5
-Chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,,
-Mini chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,,
-Semisweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,,
-Semi-sweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,,
-Semisweet chocolate chips (optional),chocolate-chips,0.00,336.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Dark chocolate chips,chocolate-chips,0.00,336.00,0.00000,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,,
-White chocolate chips,white-chocolate,3.58,336.00,0.01065,43,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,66.7,0.0,0.0,6.0,0,,
-Sugar free chocolate bar,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/chocolate-bar
-100% chocolate,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/chocolate-bar
-Unsweetened chocolate,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/chocolate-bar
-Chocolate free chocolate,carob-bar,2.02,113.20,0.01784,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/chocolate-free-chocolate
-Tangy white chocolate,white-choc-homemade,1.69,113.20,0.01493,58,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,21.9,0,,/recipes/white-chocolate
-Sugar free white chocolate,white-choc-homemade,1.69,113.20,0.01493,58,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,21.9,0,,/recipes/white-chocolate
-Egg whites,egg-whites,1.30,540.00,0.00241,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Liquid egg whites,egg-whites,3.98,908.00,0.00438,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3Hdzv8u
-Egg yolk,egg-yolk,0.87,540.00,0.00161,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Unsweetened coconut flakes,coconut-flakes,2.64,196.00,0.01347,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4kyFvXL
-Pitted dates,dates,3.99,672.00,0.00594,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Dates,dates,3.99,672.00,0.00594,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,,https://amzn.to/4ceFnvP
-Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,,https://amzn.to/43wL0zp
-Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,,https://amzn.to/43vQs5E
-Pecans,pecans,9.87,454.00,0.02174,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,
-Diced green chiles,diced-green-chiles,1.50,198.10,0.00757,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43APBRm
-Spaghetti squash,spaghetti-squash,1.58,454.00,0.00348,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Chipotle peppers in adobo sauce,chipotle-peppers,1.63,196.00,0.00832,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/44QBd9M
-"Frozen kale, thawed",kale-frozen,1.57,336.00,0.00467,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Nutritional yeast,nutritional-yeast,5.12,140.00,0.03657,11,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43wLkhB
-"Cilantro, fresh",cilantro,2.72,454.00,0.00599,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Red lentil pasta,red-lentil-pasta,3.00,249.04,0.01205,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3SlgvaD
-Chickpea pasta,red-lentil-pasta,3.18,224.00,0.01420,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4kdHvoC
-"Spinach, fresh",spinach-fresh,4.98,454.00,0.01097,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Kale,kale,4.98,454.00,0.01097,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Garlic, fresh",garlic,4.88,454.00,0.01075,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Pineapple,pineapple,4.58,454.00,0.01009,59,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Mango,mango,9.26,"1,344.00",0.00689,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Chives, dried",chives,3.12,6.16,0.50649,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Beets,beets,0.78,420.00,0.00186,64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Beet,beets,0.78,420.00,0.00186,64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Kalamata olives,olives,5.26,270.00,0.01948,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Green olives,olives,4.42,600.00,0.00737,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Olives,olives,4.42,600.00,0.00737,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-No sugar added apple spread,apple-spread,3.87,784.00,0.00494,37,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/apple-spread
-Yellow squash,yellow-squash,1.48,454.00,0.00326,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Granulated sugar,sugar,8.17,"4,540.00",0.00180,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,,
-"Granular sweetener: sugar, erythritol, stevia, etc.",sugar,8.17,"4,540.00",0.00180,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,,
-Powdered sugar,sugar,2.22,905.60,0.00245,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,,
-Brown sugar,sugar,2.22,896.00,0.00248,64,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,,
-Molasses,molasses,3.49,252.00,0.01385,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,,
-"Molasses, or honey",molasses,3.49,252.00,0.01385,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,,
-Unsalted butter,butter,3.78,454.00,0.00833,0,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,,
-Salted butter,butter,3.78,454.00,0.00833,0,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,,
-Chicken fat,chicken-fat,3.78,454.00,0.00833,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/slow-cooker-chicken
-All purpose flour,white-wheat,4.57,"4,540.00",0.00101,75,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-Salsa,salsa,1.98,454.00,0.00436,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/salsa
-Duncan Hines Keto Brownie Mix,duncan-hines-keto,5.92,280.00,0.02114,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,20.8,0.0,0.0,0,,https://amzn.to/43uSbYP
-Skim milk,skim-milk,2.69,"3,904.00",0.00069,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.9,0,,
-Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://www.walmart.com/ip/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz/43984342?classType=REGULAR&athbdg=L1600&from=/search
-Ricotta cheese,ricotta,1.35,480.00,0.00280,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.6,0,,
-Whey syrup,whey-syrup,1.35,180.00,0.00747,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.5,0,,
-Cornmeal,cornmeal,1.56,905.60,0.00172,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Ground flaxseed,ground-flaxseed,3.48,454.00,0.00767,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43tlQlb
-Kiwi,kiwi,2.49,454.00,0.00548,58,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Beer, room temperature",beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,,
-Beer,beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,,
-Corn on the cob,corn,0.50,102.00,0.00490,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Anchovies, canned",anchovy,1.69,56.60,0.02986,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43OmNGa
-Marmite,marmite,7.50,124.52,0.06023,0,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,,https://amzn.to/45p7lBy
-Celery,celery,2.38,454.00,0.00524,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Nutricost Electrolyte Mix,electrolyte-mix,17.95,341.00,0.05264,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3FxWcDZ
-Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4layTR1
-"Basil, fresh",basil-fresh,3.29,113.20,0.02906,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Millet flour,millet-flour,3.59,566.00,0.00634,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4dLczd1
-"Psyllium husks, whole",psyllium-husk,7.99,339.60,0.02353,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3FAdvEl
-"Tofu, firm",tofu,2.00,454.00,0.00441,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Duncan Hines Dark Chocolate Fudge Brownie Mix,duncan-hines-sugar,1.54,515.06,0.00299,62,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,51.7,0.0,0.0,0.0,75,,https://amzn.to/3SjWmlg
-70% chocolate,70,3.37,99.05,0.03402,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,30.0,0.0,0.0,0.0,0,,
-Popcorn kernels,popcorn,2.00,908.00,0.00220,65,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43zN9KE
-Sugar pumpkin,pumpkin,2.29,764.00,0.00300,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Date Sweetened Ketchup,ketchup-date,1.94,400.00,0.00485,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/ketchup
-Date sweetened ketchup,ketchup-date,1.94,400.00,0.00485,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/ketchup
-"Vanilla Nonfat Greek Yogurt, Sugar Free",vanilla-sf-yogurt,5.48,905.60,0.00605,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,,https://amzn.to/43NZ2On
-Vanilla Protein Greek Yogurt,vanilla-sf-yogurt-protein,5.99,760.00,0.00788,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,,https://amzn.to/4aZZ7mi
-Quinoa,quinoa,6.22,905.60,0.00687,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Canned salmon,salmon-can,2.00,85.00,0.02353,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3HfjlLU
-Sauerkraut,sauerkraut,3.50,908.00,0.00385,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Sauerkraut juice,sauerkraut,3.50,908.00,0.00385,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Mandarin orange,mandarin,3.97,"1,362.00",0.00291,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Graham cracker,graham-crackers,2.22,407.52,0.00545,74,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,25.8,0.0,0.0,0.0,75,,
-50% chocolate,50,1.12,99.62,0.01124,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,48.5,0.0,0.0,4.0,0,,
-Marshmallow,marshmallow,1.17,283.00,0.00413,63,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,60.7,0.0,0.0,0.0,0,,
-Evaporated milk,evaporated-milk,1.22,339.60,0.00359,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,,https://amzn.to/44QEaHo
-Fat free evaporated milk,evaporated-milk-skim,1.22,339.60,0.00359,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,,https://amzn.to/3Zrz019
-Allulose,allulose,16.96,"1,135.00",0.01494,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,100.0,0.0,0,,https://amzn.to/4mzsH5p
-Allulose chocolate bar,allulose-choc,2.45,176.00,0.01391,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,40.9,0.0,0,,/misc/healthier-brownies-experiment#allulose-chocolate
-Sugar free cranberry sauce,cranberry-sauce,5.23,600.00,0.00872,43,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/cranberry-sauce
-"Rosemary, dried",rosemary-dried,2.42,22.64,0.10689,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Vanilla instant pudding mix,pudding-mix,0.98,96.22,0.01018,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,0.0,0.0,0.0,0,,https://amzn.to/4jjD7mH
-Beef liver,liver,3.29,454.00,0.00725,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Creamy pesto dip,pesto-dip,3.80,688.00,0.00552,25,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.3,0,,/recipes/creamy-pesto
-Simple pasta sauce,pasta-sauce,2.69,800.00,0.00336,34,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/pasta-sauce
-Gluten free graham crackers,gf-graham-cracker,1.42,300.00,0.00473,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.2,0.0,0.0,0,,/recipes/gf-crackers
-Garam masala,garam-masala,2.99,48.11,0.06215,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43eSet0
-Chickpea flour,chickpea-flour,1.50,454.00,0.00330,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/homemade-flours
-Sodium Chloride,salt,1.92,454.00,0.00423,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43xsRBI
-Potassium Chloride,kcl,15.29,"1,090.00",0.01403,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3P2NFNU
-Magnesium Malate,magnesium-malate,12.57,100.00,0.12570,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4jl3nx0
-Magnesium Glycinate,magnesium-glycinate,17.95,250.00,0.07180,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43lbOE5
-Low sodium chicken broth,chicken-broth,0.69,454.00,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Chicken bone broth,bone-broth,1.37,905.60,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/slow-cooker-chicken
-Broth,bone-broth,1.37,905.60,0.00151,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/misc/slow-cooker-chicken
-Escarole,escarole,2.99,400.00,0.00748,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Chicken thighs, bone in, skin on",thighs-with-skin,1.49,454.00,0.00328,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Sun dried tomatoes,sun-dried-tomatoes,3.49,113.20,0.03083,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Blue cheese,blue-cheese,4.00,454.00,0.00881,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.3,0,,
-Lactase enzyme,lactase,16.95,500.00,0.03390,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43ycqF2
-Gooey cheese sauce,cheese-sauce,2.48,300.00,0.00827,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.3,0,,/recipes/cheese-sauce
-"Kefir, plain, 3.25% fat",kefir-whole,3.89,960.00,0.00405,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,,https://amzn.to/3HE3LJR
-"Kefir, plain, 1% fat",kefir,3.89,960.00,0.00405,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,,https://amzn.to/43HN4ot
-Shredded rotisserie chicken,shredded-chicken,4.50,681.00,0.00661,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Simple Shredded Chicken,shredded-chicken,5.35,621.00,0.00862,32,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/shredded-chicken
-Banana Bread Hummus Spread,bb-hummus,2.29,653.00,0.00351,40,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/banana-bread-hummus
-Aquafaba Whipped Cream,whipped-cream,1.53,245.50,0.00623,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,,/recipes/whipped-cream
-Healthier Graham Cracker Pie Crust,pie-crust,1.53,255.00,0.00600,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,,/recipes/pie-crust
-"Healthier Graham Cracker Pie Crust, chocolate",pie-crust-choc,1.53,255.00,0.00600,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,,/recipes/pie-crust
-Whole wheat pizza dough,pizza-dough,1.37,586.00,0.00234,74,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,/recipes/pizza
-Broccoli rabe,broccoli-rabe,0.99,454.00,0.00218,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Hemp hearts,hemp-seeds,10.97,454.00,0.02416,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4jnDTiH
-Hemp seeds,hemp-seeds,10.97,454.00,0.02416,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4jnDTiH
-Chicken liver,chicken-liver,1.96,566.00,0.00346,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-"Ground coffee, decaf",ground-coffee,9.96,732.97,0.01359,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43fldNm
-Couscous,couscous,7.99,749.95,0.01065,60,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,https://amzn.to/3HfZbla
-"Frozen string beans, thawed",green-bean-frozen,1.49,454.00,0.00328,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Goat cheese,goat-cheese,2.99,113.20,0.02641,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,,
-Pickled ginger,ginger-pickled,3.39,170.00,0.01994,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,10.0,0.0,0.0,0.0,0,,
-Dried seaweed,seaweed,4.69,13.00,0.36077,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Onion soup mix,onion-soup-mix,0.98,56.60,0.01731,58,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,3.6,0.0,0.0,0.0,75,,https://amzn.to/45qM9Lp
-Dried onion flakes,onion-flakes,5.99,180.00,0.03328,58,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/43hCANC
-Prunes,prune,4.99,454.00,0.01099,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Dried figs,fig-dried,4.99,254.70,0.01959,61,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Hot honey,hot-honey,3.94,360.00,0.01094,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,0.0,0.0,0.0,0,,/recipes/hot-honey
-"Dill, dried",dill-dried,2.08,21.23,0.09800,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Frozen corn,corn,2.48,"1,811.20",0.00137,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Clam juice,clam-juice,1.69,227.00,0.00744,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/45aW8o9
-Pretzels,pretzels,0.99,283.00,0.00350,83,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-"Coriander, ground",coriander,4.36,42.45,0.10271,4,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Ken's Balsamic Vinaigrette,kens-balsamic,3.34,480.00,0.00696,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.5,0.0,0.0,0.0,0,,https://www.walmart.com/ip/Ken-s-Steak-House-Balsamic-Vinaigrette-Salad-Dressings-16-fl-oz/10307556?classType=VARIANT&from=/search
-Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,,https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search
-Nutella,classic-nutella,4.97,367.90,0.01351,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,4.0,0,,https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search
-Single Serving Quick Nutella,quick-nutella-100g,0.49,54.00,0.00907,37,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/quick-nutella
-Slow Cooker Dried Beans,crockpot-beans,1.00,"1,269.00",0.00079,33,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/slow-cooked-beans
-Farro,farro,3.50,396.20,0.00883,63,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-"Ham, cooked",ham-cooked,3.99,454.00,0.00879,28,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Barley,barley,1.39,454.00,0.00306,35,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,,
-Rye flour,rye,9.66,"1,362.00",0.00709,70,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,,
-Spelt flour,spelt,57.99,"11,350.00",0.00511,55,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-"Soy sauce, shoyu",shoyu,1.58,450.00,0.00351,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,
-Creatine Monohydrate,creatine,14.39,500.00,0.02878,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/4qJC2tw
-Citric acid,citric-acid,19.99,"2,270.00",0.00881,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3WEWlKL
-Gluten Free Oat Wraps,oatwraps,0.55,225.00,0.00244,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/oat-wraps
-Inulin,inulin,49.99,"1,816.00",0.02753,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/47w8h7R
-"Labneh cheese, skim",labneh-skim,3.69,720.00,0.00513,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,,/misc/homemade-cheese#labneh
-Dairy Free Cashew Ricotta Cheese,cashew-ricotta,2.80,336.00,0.00833,21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,,/recipes/cashew-ricotta-cheese
-Cream cheese,cream-cheese,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,,
-"Cream cheese, 1/3 less fat",cream-cheese-low-fat,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,,
-Miso,miso,3.99,454.00,0.00879,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/49bU693
-Wild rice,wild-rice,5.29,454.00,0.01165,57,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3N0HFUU
-Empanada/Pierogi Dough,af-empanada-dough,2.90,333.00,0.00871,17,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.2,0,,/recipes/almond-flour-empanadas
-Cottage cheese flatbread,cc-flatbread-white-psyllium,0.77,45.00,0.01711,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,8.8,0,,/recipes/cottage-cheese-flatbread
-Sour cream,sour-cream,1.88,454.00,0.00414,15,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,,
-"Coconut milk, full fat",coconut-milk,1.50,405.00,0.00370,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,,,https://amzn.to/4kZIRo6
-"Coconut milk, lite",coconut-milk-lite,1.50,405.00,0.00370,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,,,https://amzn.to/4skN5Jz
-Beet juice,beet-juice,19.13,"5,433.60",0.00352,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Pickled beet juice,beet-juice,19.13,"5,433.60",0.00352,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,
-Vanilla ice cream,vanilla-ice-cream,2.97,"1,358.40",0.00219,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.2,0.0,0.0,4.9,0,,
-Marzipan,marzipan,16.20,594.30,0.02726,70,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,36.3,0.0,0.0,0.0,0,,https://amzn.to/4rZ0tTe
-"Marzipan, homemade, with sugar",marzipan-sugar,2.88,377.00,0.00764,56,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,39.8,0.0,0.0,0.0,0,,/recipes/chocolate-covered-marzipan#notes
-"Marzipan, homemade, sugar free",marzipan-sf,4.32,377.00,0.01146,2,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,39.8,0.0,0.0,0,,/recipes/chocolate-covered-marzipan#notes
-Shredded wheat cereal,shredded-wheat-cereal,2.94,464.12,0.00633,48,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,,https://amzn.to/4m1zWDi
-"Dubai chocolate, storebought",dubai-store,14.99,198.10,0.07567,45,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.0,0.0,0.0,0.0,0,,https://amzn.to/4uVLBYm
-"Dubai chocolate, homemade",dubai-100g,5.15,414.40,0.01243,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,,/recipes/dubai-chocolate
-Sugar Free Dubai Chocolate,dubai-100g,5.15,414.40,0.01243,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,,/recipes/dubai-chocolate
-Rice paper,rice-paper,12.99,"1,018.80",0.01275,80,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,,https://amzn.to/3QbZba1
-Frosting,frosting,1.96,454.00,0.00432,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1,0.0,0.0,0.0,0,,
-"Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,,/recipes/protein-frosting
-"Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,,/recipes/protein-frosting#notes
-Tzatziki,tzatziki-sauce-100g,5.41,390.00,0.01387,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.5,0,,/recipes/tzatziki
-Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,,https://amzn.to/3QlrH9q
+Water,water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Water, warm",water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Aquafaba, or water",aquafaba,0.00,1.00,0.00000,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Aquafaba,aquafaba,0.86,255.00,0.00337,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Chickpeas, drained and rinsed",chickpea-drained,0.86,255.00,0.00337,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Chickpeas, NOT drained or rinsed",chickpea-whole,0.86,439.00,0.00196,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Pinto beans, drained and rinsed",pinto-drained,0.86,255.00,0.00337,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Pinto Beans, drained and rinsed",pinto-drained,0.86,255.00,0.00337,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Pinto beans, drained",pinto-drained,0.86,255.00,0.00337,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Pinto beans, NOT drained or rinsed",pinto-whole,0.86,439.00,0.00196,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Black beans, drained and rinsed",black-bean-drained,0.86,255.00,0.00337,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Black beans, NOT drained or rinsed",black-bean-whole,0.86,439.00,0.00196,17,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Cooked black beans,black-bean-drained,0.86,255.00,0.00337,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Kidney beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,24,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Kidney beans, NOT drained or rinsed",kidney-whole,0.86,439.00,0.00196,14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Navy beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Navy beans, lightly drained",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Great northern beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Cooked navy beans,kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Cannellini beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,31,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Beans, drained and rinsed",black-bean-drained,0.86,255.00,0.00337,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Beans, NOT drained or rinsed",black-bean-whole,0.86,439.00,0.00196,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Dried beans,black-beans,1.00,454.00,0.00220,33,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Dry yeast,yeast,5.48,112.00,0.04893,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,70,https://amzn.to/3HcHRxn
+Salt,salt,0.67,728.00,0.00092,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Flakey salt,salt,0.67,728.00,0.00092,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Flaky salt,salt,0.67,728.00,0.00092,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Extra virgin olive oil,olive-oil,6.72,476.00,0.01412,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Extra virgin coconut oil,coconut-oil,5.98,392.00,0.01526,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Extra virgin coconut oil, or extra virgin olive oil",coconut-oil,5.98,392.00,0.01526,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Sesame oil,sesame-oil,3.22,140.00,0.02300,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Sesame oil, or extra virgin olive oil",sesame-oil,3.22,140.00,0.02300,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Canola oil,oil,4.12,"1,344.00",0.00307,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+White vinegar,white-vinegar,3.74,"3,780.00",0.00099,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"White vinegar, or apple cider vinegar",white-vinegar,3.74,"3,780.00",0.00099,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Apple cider vinegar,acv,2.32,896.00,0.00259,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Balsamic vinegar,balsamic,3.92,236.60,0.01657,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Rice vinegar, unsweetened",white-vinegar,2.92,360.00,0.00811,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,https://amzn.to/43hdvlT
+Red wine vinegar,red-wine-vinegar,2.84,480.00,0.00592,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Vital wheat gluten,vital-wheat-gluten,23.74,"1,816.00",0.01307,51,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,100,15,https://amzn.to/4kgguB9
+Whole wheat flour,whole-wheat,5.58,"2,240.00",0.00249,75,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
+Sourdough starter,sourdough-starter,2.79,"2,240.00",0.00125,54,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/misc/whole-wheat-sourdough#starter
+Oat flour,oat-flour,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,/misc/homemade-flours
+"Oat flour, or almond flour",oat-flour,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,/misc/homemade-flours
+Rolled oats,oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
+Quick oats,oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
+"Rolled oats, or quick",oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
+"Quick oats, or rolled",oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
+"Quick oats, or oat flour",oats,3.98,"1,176.00",0.00338,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,
+Cornstarch,cornstarch,1.82,448.00,0.00406,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,
+Baking powder,baking-powder,1.98,226.80,0.00873,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Unsweetened applesauce,applesauce,3.12,"1,288.00",0.00242,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Unsweetened Applesauce,applesauce,3.12,"1,288.00",0.00242,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Unsweetened tomato sauce,tomato-sauce,1.48,812.00,0.00182,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Tomato sauce,tomato-sauce,1.48,812.00,0.00182,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Shredded mozzarella cheese,mozzarella,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
+"Shredded mozzarella cheese, low moisture part skim",mozzarella,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
+"Mozzarella cheese, fat free",mozzarella-fat-free,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
+"Casein protein powder, unflavored",casein,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4kBnsQM
+Casein protein powder,casein,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4kBnsQM
+"Casein protein powder, chocolate",casein-vanilla,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/44hZio8
+"Casein protein powder, vanilla",casein-vanilla,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/44hu28y
+Nutricost Casein Unflavored Protein Powder,casein,60.26,"2,270.00",0.02655,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4kBnsQM
+Garlic powder,garlic-powder,1.12,95.20,0.01176,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Onion powder,onion-powder,1.98,140.00,0.01414,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Plain nonfat greek yogurt,yogurt,3.54,896.00,0.00395,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,
+Plain whole milk greek yogurt,yogurt-whole-milk,3.54,896.00,0.00395,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,
+Honey,honey,3.74,336.00,0.01113,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,40,
+"Honey, or maple syrup",honey,3.74,336.00,0.01113,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,0.0,0,40,
+Maple syrup,maple-syrup,7.98,360.00,0.02217,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
+"Maple syrup, or honey",maple-syrup,7.98,360.00,0.02217,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
+Sugar Free Syrup,sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
+Sugar free syrup,sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or maple syrup or honey",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or honey or maple syrup",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or honey",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or maple syrup",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, optional",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
+Agave,agave,5.82,665.05,0.00875,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,40,
+Agave syrup,agave,5.82,665.05,0.00875,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,40,
+Coconut sugar,coconut-sugar,9.42,905.60,0.01040,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,78.0,0.0,0.0,0.0,0,40,
+Date sugar,date-sugar,8.98,396.20,0.02267,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,67.0,0.0,0.0,0.0,0,40,
+Date syrup,date-syrup,9.98,679.20,0.01469,47,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,69.0,0.0,0.0,0.0,0,40,
+Butternut squash puree,butternut-puree,2.37,900.00,0.00263,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/roasted-butternut-squash-puree
+Pumpkin puree,pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/pumpkin-puree
+Pumpkin Puree,pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/pumpkin-puree
+"Pumpkin puree, or sweet potato",pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/pumpkin-puree
+"Pumpkin puree, or sweet potato puree",pumpkin-puree,1.47,424.50,0.00346,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/pumpkin-puree
+Sweet potato puree,sweet-potato-puree,1.47,424.50,0.00346,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/sweet-potato-puree
+"Sweet Potato puree, Pumpkin puree, or Butternut Squash puree",sweet-potato-puree,1.47,424.50,0.00346,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/sweet-potato-puree
+"Sweet Potato puree, or Pumpkin puree",sweet-potato-puree,1.47,424.50,0.00346,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/sweet-potato-puree
+Cooked sweet potato,sweet-potato-puree,2.79,"1,362.00",0.00205,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/sweet-potato-puree
+Sweet potato,sweet-potato,2.79,"1,362.00",0.00205,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Potato,potato,2.79,"1,362.00",0.00205,85,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Baking soda,baking-soda,0.92,454.00,0.00203,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Buttermilk,buttermilk,2.23,"1,000.00",0.00223,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,0,
+Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,
+Egg,eggs,4.50,918.00,0.00490,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Egg, hard boiled",eggs,4.50,918.00,0.00490,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/recipes/hard-boiled-egg
+Coconut flour,coconut-flour,6.57,"1,008.00",0.00652,51,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SSE6zA
+"Whey protein powder, unflavored",whey,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4kBoGeY
+Whey protein powder,whey,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4kBoGeY
+"Whey protein powder, chocolate",whey-vanilla,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/3HXUMDC
+"Whey protein powder, vanilla",whey-vanilla,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4llkGj5
+Nutricost Whey Unflavored Protein Powder,whey,50.96,"2,270.00",0.02245,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,https://amzn.to/4kBoGeY
+Red lentils,red-lentils,1.50,454.00,0.00330,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Red split lentils,red-lentils,1.50,454.00,0.00330,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Lentils,red-lentils,1.50,454.00,0.00330,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Chia seeds,chia-seeds,9.97,998.80,0.00998,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4mwpWl9
+Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45wOzIv
+Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
+Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06981,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
+Almond milk,almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Unsweetened almond milk,almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Unsweetened vanilla almond milk,almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+"Unsweetened almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+"Unsweetened vanilla almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Cocoa powder,cocoa-powder,2.48,226.40,0.01095,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,
+Cocoa Powder,cocoa-powder,2.48,226.40,0.01095,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,
+Carob powder,carob,9.49,454.00,0.02090,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,https://amzn.to/4rhYDwh
+Cacao powder,cocoa-powder,9.34,454.00,0.02057,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,https://amzn.to/4jqcKMa
+Almond extract,almond-extract,7.57,454.00,0.01667,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4khDgIM
+"Almond extract, or vanilla",almond-extract,7.57,454.00,0.01667,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4khDgIM
+Vanilla extract,vanilla-extract,1.67,224.00,0.00746,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43MkDqr
+"Vanilla extract, or almond",vanilla-extract,1.67,224.00,0.00746,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43MkDqr
+Mint extract,mint-extract,4.92,56.60,0.08693,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Maple extract,maple-extract,2.50,30.00,0.08333,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Rum extract,rum-extract,2.50,30.00,0.08333,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Coconut extract,coconut-extract,2.50,30.00,0.08333,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Cinnamon,cinnamon,1.24,70.00,0.01771,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Ginger, ground",ginger-ground,2.24,42.00,0.05333,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Banana, underripe",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Banana, overripe",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen banana,banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Frozen bananas, overripe",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Frozen Bananas, overripe",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen overripe bananas,banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Banana, overripe, or unsweetened applesauce",banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Blueberries,blueberries,6.74,504.00,0.01337,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen blueberries,blueberries-frozen,7.24,"1,344.00",0.00539,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Blackberries,blackberry,5.14,336.00,0.01530,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen blackberries,blackberries-frozen,3.76,454.00,0.00828,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Strawberries,strawberries,1.88,454.00,0.00414,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen strawberries,strawberries-frozen,9.22,"1,792.00",0.00515,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen berries,strawberries-frozen,9.22,"1,792.00",0.00515,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen fruit,frozen-fruit,2.38,454.00,0.00524,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Raspberries,raspberry,3.37,168.00,0.02006,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen raspberries,raspberries-frozen,4.48,339.60,0.01319,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Frozen spinach, thawed",spinach-frozen,1.16,339.60,0.00342,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Onion,onion,4.48,"1,362.00",0.00329,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Onions,onion,4.48,"1,362.00",0.00329,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Hot sauce,hot-sauce,1.56,336.00,0.00464,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/hot-sauce
+Minced garlic,minced-garlic,5.42,896.00,0.00605,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Paprika,paprika,1.12,70.00,0.01600,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Chili powder,chili-powder,1.12,84.00,0.01333,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4eKp8G4
+"Black pepper, ground",black-pepper,5.72,168.00,0.03405,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Whole wheat tortilla,tortilla,3.18,454.00,0.00700,30,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/tortilla
+Low sugar berry jam,jam-low-sugar,3.12,364.00,0.00857,38,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,40,/recipes/berry-jam
+Nonfat cottage cheese,cottage-cheese,2.94,672.00,0.00438,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.5,0,0,
+"Nutmeg, ground",nutmeg-ground,2.42,42.00,0.05762,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4sgDH9S
+Skippy peanut butter,skippy,6.27,"1,132.00",0.00554,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6.3,0.0,0.0,0.0,0,15,
+Natural peanut butter,peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+"Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Peanuts,peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+"Nuts, chopped",peanuts,2.48,454.00,0.00546,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Almonds,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Almond meal,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Almond butter,almonds,3.99,454.00,0.00879,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Almond flour,almonds,5.88,454.00,0.01295,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/45muDao
+Almond flour (or whole nuts),almonds,5.88,454.00,0.01295,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/45muDao
+Sunflower kernels,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4el1Qq5
+Sunflower butter,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Sunflower seed butter,sunflower-seeds,2.99,454.00,0.00659,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Pumpkin seeds,pumpkin-seeds,3.58,224.00,0.01598,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/44iBVKO
+Pumpkin seed butter,pumpkin-seeds,3.58,224.00,0.01598,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Pistachios,pistachios,9.98,672.00,0.01485,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Pistachio butter,pistachios,9.98,672.00,0.01485,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Hazelnuts,hazelnuts,3.49,196.00,0.01781,15,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Tahini,sesame-seeds,3.99,454.00,0.00879,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+"Tahini, or any other nut/seed butter",sesame-seeds,3.99,454.00,0.00879,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+"Cloves, ground",cloves-ground,5.43,50.40,0.10774,13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Apples,apple,4.00,"1,362.00",0.00294,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Apple, gala",apple,4.00,"1,362.00",0.00294,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+90% chocolate,90,2.27,98.00,0.02316,40,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.7,0.0,0.0,0.0,0,25,
+Lemon pepper,lemon-pepper,6.19,680.40,0.00910,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4fopp1E
+Lime pepper,lemon-pepper,11.99,680.40,0.01762,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/47qzDfQ
+Avocado,avocado,1.00,136.00,0.00735,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Whole wheat bread,whole-wheat-bread,1.97,560.00,0.00352,59,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/ww-bread
+Whole wheat baguette,whole-wheat-bread,0.65,190.00,0.00342,74,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/whole-wheat-baguettes
+Whole wheat pita bread,whole-wheat-bread,0.27,60.00,0.00442,73,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/pita
+Whole wheat bagel,ww-bagel,0.38,103.00,0.00369,70,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/whole-wheat-bagels
+Lemon juice,lemon-juice,2.88,896.00,0.00321,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Cilantro, dried",cilantro-dried,1.94,14.00,0.13857,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Tomato,tomato,0.98,454.00,0.00216,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Cherry tomatoes,tomato,2.99,283.00,0.01057,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Bell pepper,pepper,1.99,454.00,0.00438,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Red jalapenos,pepper,2.00,454.00,0.00441,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Diced tomatoes,diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Diced tomatoes, unsalted",diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Petite diced tomatoes,diced-tomatoes,0.99,410.35,0.00241,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Cumin, ground",cumin,1.28,70.00,0.01829,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Red pepper flakes,red-pepper-flakes,1.44,49.00,0.02939,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Low sodium soy sauce,soy-sauce,1.58,420.00,0.00376,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,30,
+"Soy sauce, low sodium, gluten free",soy-sauce,3.99,300.00,0.01330,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/44VXByC
+"Parsley, dried",parsley-dried,1.12,11.20,0.10000,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Chicken,chicken-cooked,3.56,454.00,0.00784,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Boneless skinless chicken breast,chicken-breast,2.67,454.00,0.00588,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Plantain,plantain,0.60,454.00,0.00132,66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Plantain, yellow",plantain,0.60,454.00,0.00132,66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Plantain, green",plantain,0.60,454.00,0.00132,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Oregano, dried",oregano-dried,1.12,24.36,0.04598,8,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Grated parmesan cheese,grated-cheese,2.98,224.00,0.01330,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.5,0,0,
+"Thyme, dried",thyme-dried,12.30,448.00,0.02746,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Basil, dried",basil-dried,1.12,363.20,0.00308,13,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Italian seasoning,basil-dried,1.12,26.60,0.04211,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Fat free Italian dressing,italian-dressing,2.68,360.00,0.00744,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
+Italian dressing,italian-dressing,2.68,360.00,0.00744,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
+Lime juice,lime-juice,1.24,240.00,0.00517,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Allspice, ground",allspice,3.57,25.20,0.14167,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Artichokes,artichoke-canned,2.22,385.00,0.00577,43,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Carrots,carrots,1.08,454.00,0.00238,49,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Baby carrots,carrots,1.08,454.00,0.00238,49,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Cabbage,cabbage,0.68,454.00,0.00150,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Coleslaw mix,cabbage,1.97,454.00,0.00434,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Gochujang,gochujang,3.99,492.80,0.00810,46,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,28.6,0.0,0.0,0.0,75,30,https://amzn.to/3FmYk1m
+Cucumber,cucumber,0.64,200.00,0.00320,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Romaine lettuce,lettuce,3.62,600.00,0.00603,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Roasted red peppers,roasted-red-peppers,2.13,336.00,0.00634,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/roasted-vegetables
+Feta cheese,feta,6.00,454.00,0.01322,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,0,
+"Feta cheese, fat free",feta-fat-free,6.00,454.00,0.01322,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,0,
+"Frozen broccoli, thawed",broccoli-frozen,1.16,336.00,0.00345,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Vegetables,broccoli-frozen,0.98,336.00,0.00292,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Boneless skinless chicken thighs,chicken-thighs,3.48,454.00,0.00767,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Chicken thighs (either boneless skinless or bone-in skin-on),chicken-thighs,5.24,828.00,0.00633,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Cayenne pepper,cayenne,3.77,63.00,0.05984,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Acorn squash,acorn-squash,0.99,454.00,0.00218,71,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Dijon mustard,mustard,1.52,336.00,0.00452,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Horseradish mustard,mustard,1.52,336.00,0.00452,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Mustard,mustard,1.52,336.00,0.00452,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
+"Mustard, Dijon or Horseradish",mustard,1.52,336.00,0.00452,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Celery seed,celery-seed,4.26,50.40,0.08452,24,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+White Mushrooms,mushrooms,1.78,224.00,0.00795,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+White mushrooms,mushrooms,1.78,224.00,0.00795,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Chicken bouillon powder,bouillon-powder,5.98,896.00,0.00194,41,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hco5lz
+Bouillon powder,bouillon-powder,5.98,896.00,0.00194,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Crushed tomatoes,crushed-tomatoes,1.52,784.00,0.00194,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Tomato paste,tomato-paste,0.86,168.00,0.00512,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Tomato paste, canned",tomato-paste,0.86,168.00,0.00512,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Chicken wings,wings,2.98,454.00,0.00656,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Banana peel,water,0.58,454.00,0.00128,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Ginger, fresh",ginger,3.67,454.00,0.00808,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Cashews,cashews,9.74,764.10,0.01275,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Cashew butter,cashews,9.74,764.10,0.01275,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Raisins,raisins,4.28,560.00,0.00764,64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+85% chocolate,85,2.27,98.00,0.02316,23,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,25,
+Ground chicken thighs,chicken-thighs,3.42,454.00,0.00753,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/ground-chicken
+Ground chicken breasts,chicken-breast,3.42,454.00,0.00753,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/ground-chicken
+Ground chicken,chicken-thighs,3.42,454.00,0.00753,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/ground-chicken
+Cranberries,cranberry,1.96,168.00,0.01167,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Eggplant,eggplant,1.58,454.00,0.00348,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Brown rice,brown-rice,1.64,896.00,0.00183,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Grape leaves,grape-leaves,17.49,454.00,0.03852,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/3Hec3rW
+"Dill, fresh",dill-fresh,1.98,14.00,0.14143,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Ground turkey, 93/7",ground-turkey,3.99,454.00,0.00879,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Turmeric, ground",turmeric-ground,2.00,56.00,0.03571,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+White cooking wine,white-wine,3.48,366.80,0.00949,15,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Clams,clam,2.32,182.00,0.01275,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FH9D4G
+"Tuna, in water",tuna,3.28,452.80,0.00724,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Z2YhhM
+Pickles,pickles,2.47,140.00,0.01764,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Capers,capers,1.72,64.00,0.02688,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Walnuts,walnuts,5.98,454.00,0.01317,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Walnut butter,walnuts,5.98,454.00,0.01317,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Macadamia nuts,macadamia-nuts,4.13,112.00,0.03688,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Tilapia,tilapia,10.78,908.00,0.01187,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Frozen raw shrimp, peeled and deveined",shrimp,4.68,339.60,0.01378,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4kpECB6
+"Frozen cooked shrimp, peeled and deveined",shrimp,5.47,339.60,0.01611,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FBnSHY
+Salmon,salmon,13.98,908.00,0.01540,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Frozen brussel sprouts, thawed",brussel-sprout-frozen,1.42,336.00,0.00423,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Old Bay,old-bay,4.43,168.00,0.02637,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Sardines, in water",sardine,1.07,105.00,0.01019,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4mA8XOU
+Everything bagel seasoning,everything-bagel-seasoning,2.12,72.80,0.02912,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/40gmjGE
+Whole wheat pasta,pasta,1.43,454.00,0.00315,50,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
+Pasta,pasta-white,0.96,454.00,0.00211,50,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,10,
+Panko breadcrumbs,breadcrumbs,1.87,224.00,0.00835,71,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,10,
+Butternut squash,butternut-squash,0.79,454.00,0.00174,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Frozen butternut squash, thawed",butternut-squash-frozen,1.99,454.00,0.00438,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Unsweetened BBQ Sauce,bbq-sauce-homemade,1.52,518.00,0.00293,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/bbq-sauce
+Unsweetened BBQ sauce,bbq-sauce-homemade,1.52,518.00,0.00293,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/bbq-sauce
+Zucchini,zucchini,1.48,454.00,0.00326,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Beef top sirloin,steak,7.82,454.00,0.01722,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Ground beef, 93/7",ground-beef,4.49,454.00,0.00989,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Frozen cauliflower, thawed",cauliflower-frozen,1.16,336.00,0.00345,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Frozen cauliflower,cauliflower-frozen,1.16,336.00,0.00345,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Shredded cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
+Cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
+"Cheddar cheese, fat free",cheddar-fat-free,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
+Pine nuts,pine-nuts,6.92,112.00,0.06179,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Pork tenderloin,pork-tenderloin,3.43,454.00,0.00756,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,25,/recipes/monkfruit-chocolate-chunks
+Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,25,https://amzn.to/4kGEfC5
+Chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
+Mini chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
+Semisweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
+Semi-sweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
+Semisweet chocolate chips (optional),chocolate-chips,0.00,336.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,
+Dark chocolate chips,chocolate-chips,0.00,336.00,0.00000,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
+White chocolate chips,white-chocolate,3.58,336.00,0.01065,43,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,66.7,0.0,0.0,6.0,0,25,
+Sugar free chocolate bar,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-bar
+100% chocolate,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-bar
+Unsweetened chocolate,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-bar
+Chocolate free chocolate,carob-bar,2.02,113.20,0.01784,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-free-chocolate
+Tangy white chocolate,white-choc-homemade,1.69,113.20,0.01493,58,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,21.9,0,0,/recipes/white-chocolate
+Sugar free white chocolate,white-choc-homemade,1.69,113.20,0.01493,58,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,21.9,0,0,/recipes/white-chocolate
+Egg whites,egg-whites,1.30,540.00,0.00241,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Liquid egg whites,egg-whites,3.98,908.00,0.00438,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hdzv8u
+Egg yolk,egg-yolk,0.87,540.00,0.00161,0,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Unsweetened coconut flakes,coconut-flakes,2.64,196.00,0.01347,10,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4kyFvXL
+Pitted dates,dates,3.99,672.00,0.00594,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Dates,dates,3.99,672.00,0.00594,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/4ceFnvP
+Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43wL0zp
+Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43vQs5E
+Pecans,pecans,9.87,454.00,0.02174,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Diced green chiles,diced-green-chiles,1.50,198.10,0.00757,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43APBRm
+Spaghetti squash,spaghetti-squash,1.58,454.00,0.00348,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Chipotle peppers in adobo sauce,chipotle-peppers,1.63,196.00,0.00832,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/44QBd9M
+"Frozen kale, thawed",kale-frozen,1.57,336.00,0.00467,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Nutritional yeast,nutritional-yeast,5.12,140.00,0.03657,11,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,12,https://amzn.to/43wLkhB
+"Cilantro, fresh",cilantro,2.72,454.00,0.00599,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Red lentil pasta,red-lentil-pasta,3.00,249.04,0.01205,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/3SlgvaD
+Chickpea pasta,red-lentil-pasta,3.18,224.00,0.01420,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4kdHvoC
+"Spinach, fresh",spinach-fresh,4.98,454.00,0.01097,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Kale,kale,4.98,454.00,0.01097,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Garlic, fresh",garlic,4.88,454.00,0.01075,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Pineapple,pineapple,4.58,454.00,0.01009,59,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Mango,mango,9.26,"1,344.00",0.00689,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Chives, dried",chives,3.12,6.16,0.50649,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Beets,beets,0.78,420.00,0.00186,64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Beet,beets,0.78,420.00,0.00186,64,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Kalamata olives,olives,5.26,270.00,0.01948,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Green olives,olives,4.42,600.00,0.00737,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Olives,olives,4.42,600.00,0.00737,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+No sugar added apple spread,apple-spread,3.87,784.00,0.00494,37,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/apple-spread
+Yellow squash,yellow-squash,1.48,454.00,0.00326,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Granulated sugar,sugar,8.17,"4,540.00",0.00180,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
+"Granular sweetener: sugar, erythritol, stevia, etc.",sugar,8.17,"4,540.00",0.00180,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
+Powdered sugar,sugar,2.22,905.60,0.00245,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
+Brown sugar,sugar,2.22,896.00,0.00248,64,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
+Molasses,molasses,3.49,252.00,0.01385,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,
+"Molasses, or honey",molasses,3.49,252.00,0.01385,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,
+Unsalted butter,butter,3.78,454.00,0.00833,0,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,0,
+Salted butter,butter,3.78,454.00,0.00833,0,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,0,
+Chicken fat,chicken-fat,3.78,454.00,0.00833,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
+All purpose flour,white-wheat,4.57,"4,540.00",0.00101,75,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,10,
+Salsa,salsa,1.98,454.00,0.00436,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/salsa
+Duncan Hines Keto Brownie Mix,duncan-hines-keto,5.92,280.00,0.02114,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,20.8,0.0,0.0,0,15,https://amzn.to/43uSbYP
+Skim milk,skim-milk,2.69,"3,904.00",0.00069,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.9,0,0,
+Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz/43984342?classType=REGULAR&athbdg=L1600&from=/search
+Ricotta cheese,ricotta,1.35,480.00,0.00280,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.6,0,0,
+Whey syrup,whey-syrup,1.35,180.00,0.00747,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.5,0,0,
+Cornmeal,cornmeal,1.56,905.60,0.00172,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,
+Ground flaxseed,ground-flaxseed,3.48,454.00,0.00767,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/43tlQlb
+Kiwi,kiwi,2.49,454.00,0.00548,58,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Beer, room temperature",beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
+Beer,beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
+Corn on the cob,corn,0.50,102.00,0.00490,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Anchovies, canned",anchovy,1.69,56.60,0.02986,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43OmNGa
+Marmite,marmite,7.50,124.52,0.06023,0,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,30,https://amzn.to/45p7lBy
+Celery,celery,2.38,454.00,0.00524,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Nutricost Electrolyte Mix,electrolyte-mix,17.95,341.00,0.05264,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FxWcDZ
+Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4layTR1
+"Basil, fresh",basil-fresh,3.29,113.20,0.02906,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Millet flour,millet-flour,3.59,566.00,0.00634,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4dLczd1
+"Psyllium husks, whole",psyllium-husk,7.99,339.60,0.02353,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,https://amzn.to/3FAdvEl
+"Tofu, firm",tofu,2.00,454.00,0.00441,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Duncan Hines Dark Chocolate Fudge Brownie Mix,duncan-hines-sugar,1.54,515.06,0.00299,62,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,51.7,0.0,0.0,0.0,75,10,https://amzn.to/3SjWmlg
+70% chocolate,70,3.37,99.05,0.03402,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,30.0,0.0,0.0,0.0,0,25,
+Popcorn kernels,popcorn,2.00,908.00,0.00220,65,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/43zN9KE
+Sugar pumpkin,pumpkin,2.29,764.00,0.00300,75,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Date Sweetened Ketchup,ketchup-date,1.94,400.00,0.00485,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/ketchup
+Date sweetened ketchup,ketchup-date,1.94,400.00,0.00485,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/ketchup
+"Vanilla Nonfat Greek Yogurt, Sugar Free",vanilla-sf-yogurt,5.48,905.60,0.00605,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,0,https://amzn.to/43NZ2On
+Vanilla Protein Greek Yogurt,vanilla-sf-yogurt-protein,5.99,760.00,0.00788,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,0,https://amzn.to/4aZZ7mi
+Quinoa,quinoa,6.22,905.60,0.00687,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Canned salmon,salmon-can,2.00,85.00,0.02353,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3HfjlLU
+Sauerkraut,sauerkraut,3.50,908.00,0.00385,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Sauerkraut juice,sauerkraut,3.50,908.00,0.00385,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Mandarin orange,mandarin,3.97,"1,362.00",0.00291,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Graham cracker,graham-crackers,2.22,407.52,0.00545,74,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,25.8,0.0,0.0,0.0,75,50,
+50% chocolate,50,1.12,99.62,0.01124,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,48.5,0.0,0.0,4.0,0,25,
+Marshmallow,marshmallow,1.17,283.00,0.00413,63,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,60.7,0.0,0.0,0.0,0,40,
+Evaporated milk,evaporated-milk,1.22,339.60,0.00359,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/44QEaHo
+Fat free evaporated milk,evaporated-milk-skim,1.22,339.60,0.00359,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/3Zrz019
+Allulose,allulose,16.96,"1,135.00",0.01494,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,100.0,0.0,0,40,https://amzn.to/4mzsH5p
+Allulose chocolate bar,allulose-choc,2.45,176.00,0.01391,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,40.9,0.0,0,25,/misc/healthier-brownies-experiment#allulose-chocolate
+Sugar free cranberry sauce,cranberry-sauce,5.23,600.00,0.00872,43,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/cranberry-sauce
+"Rosemary, dried",rosemary-dried,2.42,22.64,0.10689,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Vanilla instant pudding mix,pudding-mix,0.98,96.22,0.01018,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,79.2,0.0,0.0,0.0,0,0,https://amzn.to/4jjD7mH
+Beef liver,liver,3.29,454.00,0.00725,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Creamy pesto dip,pesto-dip,3.80,688.00,0.00552,25,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.3,0,30,/recipes/creamy-pesto
+Simple pasta sauce,pasta-sauce,2.69,800.00,0.00336,34,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/pasta-sauce
+Gluten free graham crackers,gf-graham-cracker,1.42,300.00,0.00473,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.2,0.0,0.0,0,50,/recipes/gf-crackers
+Garam masala,garam-masala,2.99,48.11,0.06215,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43eSet0
+Chickpea flour,chickpea-flour,1.50,454.00,0.00330,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/misc/homemade-flours
+Sodium Chloride,salt,1.92,454.00,0.00423,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43xsRBI
+Potassium Chloride,kcl,15.29,"1,090.00",0.01403,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3P2NFNU
+Magnesium Malate,magnesium-malate,12.57,100.00,0.12570,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4jl3nx0
+Magnesium Glycinate,magnesium-glycinate,17.95,250.00,0.07180,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43lbOE5
+Low sodium chicken broth,chicken-broth,0.69,454.00,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Chicken bone broth,bone-broth,1.37,905.60,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
+Broth,bone-broth,1.37,905.60,0.00151,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
+Escarole,escarole,2.99,400.00,0.00748,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Chicken thighs, bone in, skin on",thighs-with-skin,1.49,454.00,0.00328,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Sun dried tomatoes,sun-dried-tomatoes,3.49,113.20,0.03083,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Blue cheese,blue-cheese,4.00,454.00,0.00881,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.3,0,0,
+Lactase enzyme,lactase,16.95,500.00,0.03390,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43ycqF2
+Gooey cheese sauce,cheese-sauce,2.48,300.00,0.00827,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.3,0,0,/recipes/cheese-sauce
+"Kefir, plain, 3.25% fat",kefir-whole,3.89,960.00,0.00405,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/3HE3LJR
+"Kefir, plain, 1% fat",kefir,3.89,960.00,0.00405,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/43HN4ot
+Shredded rotisserie chicken,shredded-chicken,4.50,681.00,0.00661,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Simple Shredded Chicken,shredded-chicken,5.35,621.00,0.00862,32,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/recipes/shredded-chicken
+Banana Bread Hummus Spread,bb-hummus,2.29,653.00,0.00351,40,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,35,/recipes/banana-bread-hummus
+Aquafaba Whipped Cream,whipped-cream,1.53,245.50,0.00623,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,30,/recipes/whipped-cream
+Healthier Graham Cracker Pie Crust,pie-crust,1.53,255.00,0.00600,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,50,/recipes/pie-crust
+"Healthier Graham Cracker Pie Crust, chocolate",pie-crust-choc,1.53,255.00,0.00600,39,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.8,0.0,0.0,0,50,/recipes/pie-crust
+Whole wheat pizza dough,pizza-dough,1.37,586.00,0.00234,74,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,/recipes/pizza
+Broccoli rabe,broccoli-rabe,0.99,454.00,0.00218,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Hemp hearts,hemp-seeds,10.97,454.00,0.02416,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4jnDTiH
+Hemp seeds,hemp-seeds,10.97,454.00,0.02416,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4jnDTiH
+Chicken liver,chicken-liver,1.96,566.00,0.00346,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Ground coffee, decaf",ground-coffee,9.96,732.97,0.01359,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,https://amzn.to/43fldNm
+Couscous,couscous,7.99,749.95,0.01065,60,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,https://amzn.to/3HfZbla
+"Frozen string beans, thawed",green-bean-frozen,1.49,454.00,0.00328,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Goat cheese,goat-cheese,2.99,113.20,0.02641,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
+Pickled ginger,ginger-pickled,3.39,170.00,0.01994,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,10.0,0.0,0.0,0.0,0,30,
+Dried seaweed,seaweed,4.69,13.00,0.36077,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Onion soup mix,onion-soup-mix,0.98,56.60,0.01731,58,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,3.6,0.0,0.0,0.0,75,30,https://amzn.to/45qM9Lp
+Dried onion flakes,onion-flakes,5.99,180.00,0.03328,58,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43hCANC
+Prunes,prune,4.99,454.00,0.01099,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Dried figs,fig-dried,4.99,254.70,0.01959,61,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Hot honey,hot-honey,3.94,360.00,0.01094,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,0.0,0.0,0.0,0,40,/recipes/hot-honey
+"Dill, dried",dill-dried,2.08,21.23,0.09800,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Frozen corn,corn,2.48,"1,811.20",0.00137,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Clam juice,clam-juice,1.69,227.00,0.00744,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45aW8o9
+Pretzels,pretzels,0.99,283.00,0.00350,83,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,0,
+"Coriander, ground",coriander,4.36,42.45,0.10271,4,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Ken's Balsamic Vinaigrette,kens-balsamic,3.34,480.00,0.00696,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.5,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/Ken-s-Steak-House-Balsamic-Vinaigrette-Salad-Dressings-16-fl-oz/10307556?classType=VARIANT&from=/search
+Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search
+Nutella,classic-nutella,4.97,367.90,0.01351,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,4.0,0,15,https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search
+Single Serving Quick Nutella,quick-nutella-100g,0.49,54.00,0.00907,37,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/quick-nutella
+Slow Cooker Dried Beans,crockpot-beans,1.00,"1,269.00",0.00079,33,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/slow-cooked-beans
+Farro,farro,3.50,396.20,0.00883,63,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
+"Ham, cooked",ham-cooked,3.99,454.00,0.00879,28,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Barley,barley,1.39,454.00,0.00306,35,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,15,
+Rye flour,rye,9.66,"1,362.00",0.00709,70,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,15,
+Spelt flour,spelt,57.99,"11,350.00",0.00511,55,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,
+"Soy sauce, shoyu",shoyu,1.58,450.00,0.00351,15,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,30,
+Creatine Monohydrate,creatine,14.39,500.00,0.02878,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4qJC2tw
+Citric acid,citric-acid,19.99,"2,270.00",0.00881,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3WEWlKL
+Gluten Free Oat Wraps,oatwraps,0.55,225.00,0.00244,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,50,/recipes/oat-wraps
+Inulin,inulin,49.99,"1,816.00",0.02753,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,https://amzn.to/47w8h7R
+"Labneh cheese, skim",labneh-skim,3.69,720.00,0.00513,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,/misc/homemade-cheese#labneh
+Dairy Free Cashew Ricotta Cheese,cashew-ricotta,2.80,336.00,0.00833,21,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/cashew-ricotta-cheese
+Cream cheese,cream-cheese,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
+"Cream cheese, 1/3 less fat",cream-cheese-low-fat,1.79,226.40,0.00791,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
+Miso,miso,3.99,454.00,0.00879,42,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/49bU693
+Wild rice,wild-rice,5.29,454.00,0.01165,57,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/3N0HFUU
+Empanada/Pierogi Dough,af-empanada-dough,2.90,333.00,0.00871,17,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.2,0,15,/recipes/almond-flour-empanadas
+Cottage cheese flatbread,cc-flatbread-white-psyllium,0.77,45.00,0.01711,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,8.8,0,85,/recipes/cottage-cheese-flatbread
+Sour cream,sour-cream,1.88,454.00,0.00414,15,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.0,0,0,
+"Coconut milk, full fat",coconut-milk,1.50,405.00,0.00370,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4kZIRo6
+"Coconut milk, lite",coconut-milk-lite,1.50,405.00,0.00370,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4skN5Jz
+Beet juice,beet-juice,19.13,"5,433.60",0.00352,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Pickled beet juice,beet-juice,19.13,"5,433.60",0.00352,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Vanilla ice cream,vanilla-ice-cream,2.97,"1,358.40",0.00219,61,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,21.2,0.0,0.0,4.9,0,0,
+Marzipan,marzipan,16.20,594.30,0.02726,70,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,36.3,0.0,0.0,0.0,0,15,https://amzn.to/4rZ0tTe
+"Marzipan, homemade, with sugar",marzipan-sugar,2.88,377.00,0.00764,56,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,39.8,0.0,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
+"Marzipan, homemade, sugar free",marzipan-sf,4.32,377.00,0.01146,2,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,39.8,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
+Shredded wheat cereal,shredded-wheat-cereal,2.94,464.12,0.00633,48,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,https://amzn.to/4m1zWDi
+"Dubai chocolate, storebought",dubai-store,14.99,198.10,0.07567,45,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.0,0.0,0.0,0.0,0,25,https://amzn.to/4uVLBYm
+"Dubai chocolate, homemade",dubai-100g,5.15,414.40,0.01243,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,25,/recipes/dubai-chocolate
+Sugar Free Dubai Chocolate,dubai-100g,5.15,414.40,0.01243,12,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,24.1,0.0,0.0,0,25,/recipes/dubai-chocolate
+Rice paper,rice-paper,12.99,"1,018.80",0.01275,80,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,https://amzn.to/3QbZba1
+Frosting,frosting,1.96,454.00,0.00432,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1,0.0,0.0,0.0,0,0,
+"Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,0,/recipes/protein-frosting
+"Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,0,/recipes/protein-frosting#notes
+Tzatziki,tzatziki-sauce-100g,5.41,390.00,0.01387,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.5,0,0,/recipes/tzatziki
+Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3QlrH9q
