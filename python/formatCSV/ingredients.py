@@ -330,6 +330,11 @@ def ingredients(food):
         f = "Mozzarella cheese, fat free"
     elif food == "Cheese, whole milk, mozzarella" or food == "Shredded mozzarella cheese by ROUNDY'S" or food == "Shredded mozzarella cheese" or food == "Cheese, shredded, part-skim, low moisture, mozzarella" or food == "Cheese, part skim milk, mozzarella" or food == "Cheese, part-skim, low moisture, mozzarella":
         f = "Shredded mozzarella cheese, low moisture part skim"
+    elif food == "Cheese, brie":
+        f = "Brie"
+    elif food == "Cream cheese, fat free":
+        # f = "Brie, fat free"
+        f = "Cream cheese, fat free"
     elif food == "Unflavored Casein Protein Powder by PROMIX" or food == "Nutricost Casein Unflavored Protein Powder":
         f = "Casein protein powder, unflavored"
     elif food == "Levels Vanilla Casein Protein Powder":

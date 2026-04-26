@@ -490,3 +490,6 @@ Frosting,frosting,1.96,454.00,0.00432,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1,0.0
 "Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,0,/recipes/protein-frosting#notes
 Tzatziki,tzatziki-sauce-100g,5.41,390.00,0.01387,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.5,0,0,/recipes/tzatziki
 Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3QlrH9q
+Brie,brie,6.99,454.00,0.01540,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
+"Brie, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
+"Cream cheese, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
