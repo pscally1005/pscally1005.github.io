@@ -1993,7 +1993,9 @@ LINKS = {
         "homemade broth",
         "bone broth",
         "homemade chicken broth",
-        "chicken bone broth"
+        "chicken bone broth",
+        "slow cooking a whole chicken",
+        "chicken broth"
     ],
     "/recipes/seitan": [
         "seitan"
@@ -2425,7 +2427,22 @@ LINKS = {
         "store-bought rotisserie chicken",
         "storebought rotisserie chicken",
         "store bought rotisserie chicken",
-        "rotisserie chicken"
+        "rotisserie chicken",
+        "💵 Rotisserie Chicken Cost Analysis",
+        "Rotisserie Chicken Cost Analysis",
+        "rotisserie chickens",
+        "rotisserie chicken",
+        "rotisserie"
+    ],
+    "/misc/chicken-thighs-cost-analysis": [
+        "💲 Chicken Thighs Cost Analysis",
+        "chicken thighs cost analysis"
+    ],
+    "/misc/bone-broth": [
+        "homemade bone broth + veggie soup",
+        "veggie soup",
+        "homemade bone broth",
+        "bone broth"
     ],
     "/recipes/gluten-free-millet-bread": [
         "gluten free millet bread",
@@ -4826,7 +4843,8 @@ LINKS = {
         "complete proteins",
         "complete protein",
         "Protein: The Essential Building Blocks",
-        "What is the Best Protein Source?"
+        "What is the Best Protein Source?",
+        "lean protein"
     ],
     "/misc/high-protein": [
         "high protein foods",
@@ -5367,6 +5385,11 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/costs": [
+        "cost analysis"
+        # "costs",
+        # "cost"
+    ],
     "/misc/chicken-leg-quarters": [
         "chicken leg quarters",
         "chicken leg quarter",
@@ -6197,6 +6220,46 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "chicken at 250F",
+    "the chicken should be thoroughly cooked through",
+    "when the chicken is done",
+    "after the chicken is done baking",
+    "bits of chicken starting to fry",
+    "lean chicken meat",
+    "different cuts of chicken",
+    "chicken drumsticks",
+    "chicken drumstick",
+    "cheapest cut of chicken",
+    "of raw chicken",
+    "of cooked chicken meat",
+    "leftover cooked chicken with some",
+    "some of my cooked chicken to make my",
+    "for some recipes using leftover cooked chicken",
+    "time intensive part is just shredding the chicken",
+    "just combine all your shredded meat",
+    "separate the lean meat",
+    "split chicken breasts",
+    "split breasts",
+    "split chicken breast",
+    "split breast",
+    "raw meat weight",
+    "factor in the raw meat weight",
+    "how much does it cost",
+    "of raw meat",
+    "but net meat isn't",
+    "cost per pound",
+    "skim the fat",
+    "assuming that meat loses about",
+    "cooked meat corresponds to",
+    "that makes the meat from leg quarters",
+    "kettle and fire bone broth",
+    "rendered out fat",
+    "solidify the fat",
+    "mason jars of fat",
+    "both the jars of fat",
+    "golden colored fat",
+    "and then there's the fat",
+    "(142 g) of fat",
     "grilled cheese",
     "fried rice",
     "ginger (ground)",
@@ -6672,8 +6735,8 @@ EXCLUDED_PHRASES = [
     # "grilled chicken",
     # "greek salad",
     "after baking",
-    "rotisserie chickens",
-    "rotisserie chicken",
+    # "rotisserie chickens",
+    # "rotisserie chicken",
     "butter chicken",
     "egg noodles",
     "egg noodle",
@@ -6682,7 +6745,7 @@ EXCLUDED_PHRASES = [
     "noodle soup",
     "noodle stew",
     "chicken noodle",
-    "salsa chicken",
+    # "salsa chicken",
     "baking them",
     "tomato paste",
     "crushed tomatoes",
@@ -7442,7 +7505,7 @@ EXCLUDED_PHRASES = [
     "black pepper",
     "cayenne pepper",
     "chicken bouillon",
-    "chicken broth",
+    # "chicken broth",
     "veggie broth",
     "vegetable broth",
     "chicken or veggie broth",
@@ -7573,6 +7636,7 @@ EXCLUDED_PHRASES = [
 EXCLUDED_PHRASES = list(dict.fromkeys(EXCLUDED_PHRASES))
 
 REMOVE_CATEGORIES = [
+    "/misc/costs",
     "/misc/olive-oil",
     "/misc/natural-sweeteners",
     "/misc/chocolate-benefits",
