@@ -49,7 +49,7 @@ tags:
 - garlic
 - onion
 - lemon juice
-Description: Who doesn't love a good tzatziki?  This Greek sauce uses a base of <a href='/misc/dairy#yogurt'>plain Greek yogurt</a> and <a href='/misc/veggies#cucumber'>cucumber</a> mixed with <a href='/misc/fruit#lemon'>lemon</a> and dill for a light and refreshing <a href='/recipes/savory-sauces'>sauce</a> or <a href='/salad-dressings'>dressing</a> to nearly everything, in particular my <a href='/recipes/salmon-and-tzatziki'>Roasted Salmon and Sprouts</a>.  Pair this with a size of <a href='/recipes/stuffed-grape-leaves'>Stuffed Grape Leaves"</a> and a <a href='/recipes/greek-salad'>Greek Salad</a>, and you have a delicious combo!
+Description: Who doesn't love a good tzatziki?  This Greek sauce uses a base of <a href='/misc/dairy#yogurt'>plain Greek yogurt</a> and <a href='/misc/veggies#cucumber'>cucumber</a> mixed with <a href='/misc/fruit#lemon'>lemon</a> and dill for a light and refreshing <a href='/recipes/savory-sauces'>sauce</a> or <a href='/salad-dressings'>dressing</a> to nearly everything, in particular my <a href='/recipes/salmon-and-tzatziki'>Roasted Salmon and Sprouts</a>.  Pair this with a size of <a href='/recipes/stuffed-grape-leaves'>Stuffed Grape Leaves</a> and a <a href='/recipes/greek-salad'>Greek Salad</a>, and you have a delicious combo!
 Instructions:
 - Finely dice your <a href='/misc/veggies#cucumber'>cucumber</a>, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a> with salt. Cover and refrigerate for about an hour, so the salt can draw out water from the <a href='/misc/veggies#cucumber'>cucumber</a>
 

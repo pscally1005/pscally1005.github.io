@@ -54,6 +54,7 @@ tags:
 - stovetop
 - baking soda
 - lemon juice
+- grilled cheese
 Description: This unnaturally gooey cheese sauce is spot on in texture and taste of the fake stuff without all the artificial additives. By the power of chemistry, we can create healthier Velveeta and American cheese at home with just 4 ingredients. This sauce is great in <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a> and <a href='/recipes/cheesy-rice-and-broccoli'>Cheesy Rice & Broccoli</a>, or just as a dip for <a href='/misc/veggies'>veggies</a>.
 Instructions:
 - In a cold, flat, wide pan, combine together <a href='/misc/fruit#lemon-juice'>lemon juice</a> and baking soda. Stir until it no longer bubbles. This solution is sodium citrate, and it will hold the sauce together without breaking
@@ -63,9 +64,11 @@ Instructions:
 Notes:
 - Ay <a href='/misc/dairy#skim-milk'>milk</a> will work here.  <a href='/misc/dairy#skim-milk'>Skim</a>, whole, <a href='/misc/nuts#almonds'>almond</a>, etc., or even just water
 
-- With this sauce, you can make <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a> by mixing it with a 1 lb box of <a href='/misc/grains#pasta'>pasta</a>. You can also make <a href='/recipes/cheesy-rice-and-broccoli'>Cheesy Rice & Broccoli</a> by combining the sauce with 1 cup of <a href='/misc/grains#brown-rice'>rice</a> and 2 lbs frozen <a href='/misc/veggies#broccoli'>broccoli</a>
-- <img src='/assets/Food//Sides/Mac & Cheese/cover.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food//Meatless/Cheesy Rice/cover.jpg' alt='' class='instruction-image'>
+- With this sauce, you can make <a href='/recipes/two-ingredient-mac-and-cheese'>Two Ingredient Mac & Cheese</a> by mixing it with a 1 lb box of <a href='/misc/grains#pasta'>pasta</a>.
+- <a href='/recipes/two-ingredient-mac-and-cheese'><img src='/assets/Food/Sides/Mac & Cheese/cover.jpg' alt='' class='instruction-image'></a>
+
+- You can also make <a href='/recipes/cheesy-rice-and-broccoli'>Cheesy Rice & Broccoli</a> by combining the sauce with 1 cup of <a href='/misc/grains#brown-rice'>rice</a> and 2 lbs frozen <a href='/misc/veggies#broccoli'>broccoli</a>
+- <a href='/recipes/cheesy-rice-and-broccoli'><img src='/assets/Food//Meatless/Cheesy Rice/cover.jpg' alt='' class='instruction-image'></a>
 
 - You can also use this cheese sauce in a grilled cheese.  Here, I made a 2 serving batch of the cheese sauce before adding between 2 slices of bread with some <a href='/recipes/caramelized-onions'>caramelized onions</a> and a drizzle of <a href='/misc/natural-sweeteners#honey'>honey</a>, then pan frying the outsides of the sandwich to make a grilled cheese
 - <img src='/assets/Food/Savory Sauces/Cheese Sauce/grilled-cheese.jpg' alt='' class='instruction-image'>
