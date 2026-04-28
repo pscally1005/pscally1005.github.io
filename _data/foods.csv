@@ -493,3 +493,8 @@ Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,14,TRUE,FALSE,TRUE
 Brie,brie,6.99,454.00,0.01540,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Brie, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
 "Cream cheese, fat free",cream-cheese-fat-free,1.99,227.00,0.00877,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
+Peanut Chili Salad Dressing,pb-dressing-100g,0.87,87.50,0.00994,31,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3.0,0.0,0.0,0.0,0,18,/recipes/peanut-chili-salad-dressing
+Fresh Veggie Spring Roll,spring-roll-100g,5.33,"1,032.00",0.00516,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,29,/recipes/spring-rolls
+Red cabbage,red-cabbage,1.29,454.00,0.00284,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Radish,radish,1.50,454.00,0.00330,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Vodka,vodka,10.00,750.00,0.01333,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,

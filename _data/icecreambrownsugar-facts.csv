@@ -1,0 +1,145 @@
+Nutrient,Amount,Unit,DV
+Calories,234,,
+"Vitamin A, RAE",101.04,mcg,11 %
+"Carotene, alpha",0.28,mcg,
+"Carotene, beta",16.73,mcg,
+"Cryptoxanthin, beta",0.57,mcg,
+"Lutein + zeaxanthin",1.98,mcg,
+"Lycopene",0,mcg,
+"Retinol",99.62,mcg,
+"Thiamin [Vitamin B1]",0.021,mg,2 %
+"Riboflavin [Vitamin B2]",0.12,mg,9 %
+"Niacin [Vitamin B3]",0.185,mg,1 %
+"Pantothenic acid [Vitamin B5]",0.241,mg,5 %
+"Vitamin B6",0.038,mg,2 %
+"Vitamin B12 [Cobalamin]",0.17,mcg,7 %
+"Vitamin B12, added",0,mcg,
+"Folate, DFE [Vitamin B9]",5.46,mcg,1 %
+"Folate, food",2.74,mcg,
+"Folic acid",0,mcg,
+"Vitamin C [Ascorbic acid]",0,mg,0 %
+"Vitamin D",0.27,mcg,1 %
+"Vitamin D2",0,mcg,
+"Vitamin D3",0,mcg,
+"Vitamin E (alpha-tocopherol)",0.25,mg,2 %
+"Vitamin E, added",0,mg,
+"Tocopherol, alpha",0.25,mg,
+"Tocopherol, beta",0,mg,
+"Tocopherol, delta",0,mg,
+"Tocopherol, gamma",0.12,mg,
+"Tocotrienol, alpha",0.01,mg,
+"Tocotrienol, beta",0,mg,
+"Tocotrienol, delta",0,mg,
+"Tocotrienol, gamma",0,mg,
+"Vitamin K",3.2,mcg,3 %
+"Vitamin K1 [Phylloquinone]",0.6,mcg,
+"Vitamin K2 [Menaquinone]",2.5,mcg,
+"Dihydrophylloquinone",0,mcg,
+"Betaine",0.5,mg,
+"Biotin [Vitamin B7]",0,mcg,0 %
+"Choline",12.1,mg,2 %
+"Calcium",77.16,mg,6 %
+"Copper",0.21,mg,23 %
+"Fluoride",0.7,mcg,
+"Iodine",0,mcg,0 %
+"Iron",0.86,mg,5 %
+"Magnesium",31.9,mg,8 %
+"Manganese",0.2,mg,9 %
+"Phosphorus",90.62,mg,7 %
+"Potassium",176.44,mg,4 %
+"Selenium",4.08,mcg,7 %
+"Sodium",175.19,mg,8 %
+"Zinc",0.58,mg,5 %
+"Protein",3.5,g,7 %
+"Alanine",0.123,g,
+"Arginine",0.145,g,
+"Aspartic acid",0.309,g,
+"Cystine",0.029,g,
+"Cysteine",0.01,g,
+"Glutamic acid",0.687,g,
+"Glycine",0.099,g,
+"Histidine",0.09,g,8 %
+"Hydroxyproline",0,g,
+"Isoleucine",0.169,g,11 %
+"Leucine",0.317,g,9 %
+"Lysine",0.273,g,9 %
+"Methionine",0.084,g,
+"Phenylalanine",0.168,g,
+"Proline",0.306,g,
+"Serine",0.194,g,
+"Threonine",0.137,g,8 %
+"Tryptophan",0.045,g,11 %
+"Tyrosine",0.161,g,
+"Valine",0.221,g,11 %
+"Phenylalanine + Tyrosine",0.329,g,12 %
+"Methionine + Cysteine",0.123,g,8 %
+"Carbohydrate",33.21,g,12 %
+"Fiber",1.85,g,7 %
+"Starch",0.1,g,
+"Sugars",20.74,g,
+"Fructose",0,g,
+"Galactose",0,g,
+"Glucose",0,g,
+"Lactose",1.07,g,
+"Maltose",0,g,
+"Sucrose",0,g,
+"Net carbs",31.36,g,
+"0.05 g",0.24 g,undefined,4.84
+"Fat",10.468,g,13 %
+"Saturated fatty acids",6.147,g,31 %
+"Butanoic acid",0.204,g,
+"Decanoic acid",0.246,g,
+"Docosanoic acid",0.004,g,
+"Dodecanoic acid",0.285,g,
+"Eicosanoic acid",0.013,g,
+"Heptadecanoic acid",0.059,g,
+"Hexadecanoic acid",2.666,g,
+"Hexanoic acid",0.168,g,
+"Octadecanoic acid",0.954,g,
+"Octanoic acid",0.104,g,
+"Pentadecanoic acid",0.098,g,
+"Tetracosanoic acid",0.002,g,
+"Tetradecanoic acid",0.928,g,
+"Monounsaturated fatty acids",2.759,g,
+"Cis-hexadecenoic acid",0.154,g,
+"Cis-octadecenoic acid",1.967,g,
+"Docosenoic acid",0.001,g,
+"Docosenoic cis acid",0.001,g,
+"Docosenoic trans acid",0,g,
+"Eicosenoic acid",0.018,g,
+"Heptadecenoic acid",0.019,g,
+"Hexadecenoic acid",0.185,g,
+"Octadecenoic acid",2.204,g,
+"Pentadecenoic acid",0,g,
+"Tetracosenoic cis acid",0,g,
+"Tetradecenoic acid",0.098,g,
+"Trans-hexadecenoic acid",0.031,g,
+"Trans-octadecenoic acid",0.237,g,
+"Polyunsaturated fatty acids",0.443,g,
+"α-linolenic acid n-3 (ALA)",0.04,g,
+"γ-linolenic acid n-6 (GLA)",0,g,
+"Cis,cis-eicosadienoic n-6 acid",0.002,g,
+"Linoleic acid n-6 (LA)",0.23,g,
+"Docosahexaenoic n-3 acid (DHA)",0,g,
+"Docosapentaenoic n-3 acid (DPA)",0.006,g,
+"Docosatetraenoic acid",0.002,g,
+"Eicosadienoic acid",0.011,g,
+"Eicosadienoic n-3 acid",0.001,g,
+"Eicosadienoic n-6 acid",0.01,g,
+"Eicosapentaenoic n-3 acid (EPA)",0.003,g,
+"Eicosatetraenoic acid",0.015,g,
+"Octadecadienoic CLAs acid",0.051,g,
+"Octadecadienoic acid",0.344,g,
+"Octadecatetraenoic acid",0,g,
+"Octadecatrienoic acid",0.037,g,
+"Trans-octadecadienoic acid",0.064,g,
+"Trans-octadecatrienoic acid",0.001,g,
+"Fatty acids, total trans",0.333,g,
+"Fatty acids, total trans-monoenoic",0.268,g,
+"Fatty acids, total trans-polyenoic",0.065,g,
+"Cholesterol",29.08,mg,10 %
+"Alcohol, ethyl",0.6,g,
+"Ash",0.36,g,
+"Caffeine",11.5,mg,
+"Theobromine",102.85,mg,
+"Water",36.75,g,

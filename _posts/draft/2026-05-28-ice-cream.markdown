@@ -1,0 +1,92 @@
+---
+layout: post
+title:  Lactose Free No Churn Chocolate Ice Cream
+date:   2026-04-28 00:00:00 -0500
+categories:
+- Misc.
+- Unhealthy Recipes
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+permalink: /recipes/ice-cream
+image: /assets/Misc/Unhealthy/Ice Cream/cover.jpg
+file: icecreambrownsugar
+servingSize: 2/3 cup (87 g)
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 15
+Rest: 180
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/wUZzw
+tags:
+- ice cream
+- cream cheese
+- lactose free
+- lactase enzyme
+- chocolate
+- cocoa powder
+- vanilla extract
+- brown sugar
+- honey
+Description: Rich, creamy, and sweet chocolate ice cream!  From just a base of cream cheese and sugar, you can make this delicious and indulgent chocolate ice cream with just an electric hand mixer; no ice cream maker required. Plus, the lactase enzyme makes it lactose free for all those who are lactose intolerant!
+Instructions:
+- In a large glass bowl, beat the cream cheese with a hand mixer on high speed for about 5 minutes to soften and incorporate air
+- <img src='/assets/Misc/Unhealthy/Ice Cream/bowl1.jpg' alt='' class='instruction-image'>
+
+- Add in your sugar, and beat until fully combined
+
+- To a medium measuring glass, add your milk, vanilla, and salt. Roughly stir together with a spoon
+- <img src='/assets/Misc/Unhealthy/Ice Cream/bowl2.jpg' alt='' class='instruction-image'>
+
+- Slowly stream your milk mixture into the bowl as you beat on medium speed, until fully combined
+
+- To make it lactose free, add in 8 servings (16 scoops) of a lactase enzyme powder, one for each serving of ice cream you will yield
+
+- Add the cocoa powder to the bowl, and beat on medium speed until fully incorporated
+- <img src='/assets/Misc/Unhealthy/Ice Cream/bowl3.jpg' alt='' class='instruction-image'>
+
+- Transfer the ice cream to an air tight container. Freeze for at least 3 hours. Let sit on the counter for about 15 minutes before scooping
+- <img src='/assets/Misc/Unhealthy/Ice Cream/container.jpg' alt='' class='instruction-image'>
+Notes:
+- Any type of milk will work here. Skim milk, whole milk, almond milk; whatever you have on hand
+
+- You can alternatively use honey instead of brown sugar. Substitute the brown sugar for 1/2 cup (168 g) of honey. Because of the extra liquid of the honey, reduce the milk to 1/2 cup (120 g)
+- |
+  COMPARE(
+    "icecreambrownsugar",
+    "icecreamhoney";
+
+    "<a href='#recipe'>Brown<br>Sugar</a>",
+    "<a href='/misc/natural-sweeteners#honey'>Honey</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
+---

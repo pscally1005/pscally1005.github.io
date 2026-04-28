@@ -138,6 +138,10 @@ def ingredients(food):
         f = "Apple cider vinegar"
     elif food == "Italian dressing, fat free" or food == "Salad dressing, fat-free, italian dressing":
         f = "Fat free Italian dressing"
+    elif food == "pb-dressing":
+        f = "Peanut Chili Salad Dressing"
+    elif food == "spring-rolls":
+        f = "Fresh Veggie Spring Roll"
     elif food == "Lime juice, raw" or food == "Lime juice from concentrate by Safeway, Inc." or food == "Lime juice from concentrate by ITALIAN GARDEN" or food == "Lime juice from concentrate by Harris-Teeter Inc." or food == "Lime juice, freshly squeezed, 100%":
         f = "Lime juice"
     elif food == "Beet juice":
@@ -280,7 +284,7 @@ def ingredients(food):
         f = "No sugar added apple spread"
     elif food == "Sugars, granulated":
         f = "Granulated sugar"
-    elif food == "Sugars, brown":
+    elif food == "Sugars, brown" or food == "Sugar, brown":
         f = "Brown sugar"
     elif food == "Unsalted butter by FAREWAY" or food == "Butter, without salt":
         f = "Unsalted butter"
@@ -387,6 +391,8 @@ def ingredients(food):
         f = "Skim milk"
 
     # Fresh produce
+    elif food == "Radishes, raw":
+        f = "Radish"
     elif food == "Broccoli raab, raw":
         f = "Broccoli rabe"
     elif food == "Endive, raw":
@@ -397,6 +403,8 @@ def ingredients(food):
         f = "Corn on the cob"
     elif food == "Cabbage, raw" or food == "Cabbage, raw, green":
         f = "Cabbage"
+    elif food == "Cabbage, raw, red":
+        f = "Red cabbage"
     elif food == "Sweet potato, without skin, boiled, cooked":
         f = "Cooked sweet potato"
     elif food == "Bananas, raw, overripe" or food == "Bananas, raw, ripe and slightly ripe" or food == "Bananas, raw":
@@ -643,6 +651,8 @@ def ingredients(food):
         f = "Brown rice"
     elif food == "Wild rice, raw":
         f = "Wild rice"
+    elif food == "Rice paper":
+        f = "Rice paper"
     elif food == "Farro, raw":
         f = "Farro"
     elif food == "Quinoa, uncooked":

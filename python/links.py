@@ -9,7 +9,35 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 
 LINKS = {
 
-    # RECIPES
+    #
+    "/recipes/fro-yo": [
+        "sugar free frozen yogurt",
+        "sugar free fro yo",
+        "sugar free fro-yo",
+        "frozen yogurt",
+        "fro yo",
+        "fro-yo"
+        "vanilla frozen yogurt",
+        "vanilla fro yo",
+        "vanilla fro-yo",
+        "chocolate frozen yogurt",
+        "chocolate fro yo",
+        "chocolate fro-yo"
+    ],
+    "/recipes/ice-cream": [
+        "lactose free no churn chocolate ice cream",
+        "lactose free no churn ice cream",
+        "lactose free ice cream",
+        "no churn ice cream",
+        "chocolate ice cream",
+        "ice cream"
+    ],
+    "/recipes/spring-rolls": [
+        "fresh veggie spring rolls",
+        "fresh veggie spring roll",
+        "spring rolls",
+        "spring roll"
+    ],
     "/recipes/chia-water": [
         "high fiber chia water",
         "high fiber chia seed water",

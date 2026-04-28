@@ -465,8 +465,22 @@ def grams(food, mass, vol):
         elif vol == "16 serving":
             m = "454"
 
+    # PB Dressing
+    elif food == "Peanut Chili Salad Dressing":
+        if vol == "1 serving":
+            m = "87.5"
+        elif vol == "2 serving":
+            m = "175"
+
+    # Spring rolls
+    elif food == "Fresh Veggie Spring Roll":
+        if vol == "1 serving":
+            m = "86"
+        elif vol == "12 serving":
+            m = "1032"
+
     # Liquids
-    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread":
+    elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread" or food == "Vodka":
         if food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Butternut squash puree":
             if vol == "1/2 serving":
                 m = "60"
@@ -660,6 +674,13 @@ def grams(food, mass, vol):
             m = "238"
         elif vol == "2 cup":
             m = "272"
+
+    # Rice paper
+    elif food == "Rice paper":
+        if vol == "1 medium paper" or vol == "1 medium":
+            m = "15"
+        elif vol == "12 medium paper" or vol == "12 medium":
+            m = "180"
 
     # Rice
     elif food == "Brown rice" or food == "Wild rice":
@@ -1047,6 +1068,8 @@ def grams(food, mass, vol):
             m = "104"
         elif vol == "2 cup":
             m = "208"
+        elif vol == "0.5 cucumber" or vol == "1/2 cucumber" or vol == "1/2 large" or vol == "0.5 large":
+            m = "150"
 
     # Sweet potatoes
     elif food == "Sweet potato":
@@ -1080,6 +1103,16 @@ def grams(food, mass, vol):
         if vol == "6.586 cup":
             m = "764"
 
+    # Radishes
+    elif food == "Radish":
+        if vol == "1 bunch":
+            m = "200"
+
+    # Cabbage
+    elif food == "Red cabbage" or food == "Green cabbage" or food == "Cabbage":
+        if vol == "1/4 head" or vol == "0.25 head, medium":
+            m = "210"
+
     # Onions
     elif food == "Onion":
         if vol == "1/2 medium":
@@ -1094,6 +1127,21 @@ def grams(food, mass, vol):
             m = "440"
         elif vol == "5 medium":
             m = "550"
+
+    # Carrots
+    elif food == "Carrots":
+        if vol == "1 medium":
+            m = "100"
+        elif vol == "2 medium":
+            m = "200"
+        elif vol == "3 medium":
+            m = "300"
+        elif vol == "4 medium":
+            m = "400"
+        elif vol == "5 medium":
+            m = "500"
+        elif vol == "1 large":
+            m = "72"
 
     # Zucchini
     elif food == "Zucchini" or food == "Yellow squash":
@@ -1156,7 +1204,8 @@ def grams(food, mass, vol):
             m = "480"
         elif vol == "5 medium":
             m = "600"
-
+        elif vol == "12 leaves" or vol == "12 leaf inner":
+            m = "72"
 
     # Powdered pb
     elif food == "Powdered peanut butter":
@@ -1774,6 +1823,13 @@ def grams(food, mass, vol):
             m = "120"
         elif vol == "2 serving":
             m = "240"
+
+    # Lactase
+    elif food == "Lactase enzyme":
+        if vol == "2 scoops":
+            m = "10"
+        elif vol == "16 scoops":
+            m = "40"
 
     return m
 
