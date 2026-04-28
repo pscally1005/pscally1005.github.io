@@ -55,12 +55,15 @@ tags:
 - sugar free
 - inulin
 - vodka
-Description: Summer means ice cream right? But with health goals in mind, it's hard to both have your cake and eat it too. But you can with this recipe!  This sugar free frozen yogurt is also lower in both fat and calories than traditional ice cream or fro-yo. It's also higher in protein and fiber than any other frozen treat you've ever had!
+Description: |
+  Summer means <a href='/recipes/ice-cream'>ice cream</a> right? But with health goals in mind, it's hard to both have your <a href='/recipes/chocolate-cake'>cake</a> and eat it too.<br><br>
+
+  But you can with this recipe!  This sugar free frozen yogurt is also lower in both <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a> than traditional <a href='/recipes/ice-cream'>ice cream</a> or fro-yo. It's also higher in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> than any other frozen treat you've ever had!
 Instructions:
-- In a large bowl, beat together all ingredients with a hand mixer on medium speed for about 5 minutes to fully combine and beat in as much air as possible
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat together all ingredients with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on medium speed for about 5 minutes to fully combine and beat in as much air as possible
 - <img src='/assets/Food/Healthier Dessert/Fro Yo/bowl.jpg' alt='' class='instruction-image'>
 
-- Transfer the bowl to the freezer. Every half an hour, churn the ice cream with your hand mixer. Beat for 1-2 minutes to break up any ice crystals and fully combine. Do this 6 times for a total of 3 hours
+- Transfer the bowl to the freezer. Every half an hour, churn the fro-yo with your <a href='https://amzn.to/45yqsbM'>hand mixer</a>. Beat for 1-2 minutes to break up any ice crystals and fully combine. Do this 6 times for a total of 3 hours
 - <img src='/assets/Food/Healthier Dessert/Fro Yo/churned.jpg' alt='' class='instruction-image'>
 
 - Transfer the frozen yogurt to an airtight container. Store in the freezer
@@ -68,9 +71,12 @@ Instructions:
 
 - Let it sit out for 15 minutes before scooping and serving
 Notes:
-- Unlike other zero calorie sweeteners, allulose will lower the freezing point like sugar would, making the frozen yogurt less icy and more scoopable. Vodka and inulin are also used to help with the texture due to the lack of sugar and low amount of fat. It is not recommended that you omit these
+- |
+  Unlike other <a href='/misc/calories'>zero calorie</a> sweeteners, <a href='https://amzn.to/4mzsH5p'>allulose</a> will lower the freezing point like <a href='/misc/hidden-sugar'>sugar</a> would, making the frozen yogurt less icy and more scoopable.<br><br>
 
-- To make chocolate fro-yo instead, add 1/4 cup (20 g) cocoa powder
+  Vodka and <a href='https://amzn.to/47w8h7R'>inulin</a> are also used to help with the texture due to the lack of <a href='/misc/hidden-sugar'>sugar</a> and low amount of <a href='/misc/fats'>fat</a>. It is not recommended that you omit these
+
+- To make chocolate fro-yo instead, add 1/4 cup (20 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>
 - |
   COMPARE(
     "froyovanilla",

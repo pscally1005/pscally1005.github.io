@@ -93,7 +93,8 @@ LINKS = {
     "/recipes/chocolate-cake": [
         "chocolate cake from scratch",
         "chocolate cake",
-        "homemade chocolate cake"
+        "homemade chocolate cake",
+        "cake"
     ],
     "/recipes/protein-brownie-batter": [
         "edible protein brownie batter",
@@ -285,8 +286,8 @@ LINKS = {
     ],
     "/recipes/aquafaba-ice-cream": [
         "Aquafaba Chocolate Ice Cream",
-        "aquafaba ice cream",
-        "ice cream"
+        "aquafaba ice cream"
+        # "ice cream"
     ],
     "/recipes/avocado-pesto": [
         "Avocado Pesto - Vegan and Oil Free",
@@ -4917,7 +4918,8 @@ LINKS = {
         "psyllium"
     ],
     "https://amzn.to/3QbZba1": [
-        "rice paper"
+        "rice paper",
+        "rice paper wrap"
     ],
     "https://amzn.to/4c6GlII": [
         "chicken better than bouillon",
@@ -5298,7 +5300,7 @@ LINKS = {
     ],
     "https://amzn.to/45yqsbM": [
         "electric hand mixer",
-        "electric mixer"
+        "electric mixer",
         "hand mixer"
     ],
     "https://amzn.to/4dFeyPZ": [
@@ -6248,6 +6250,9 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "and then the sides",
+    "milk mixture",
+    "ice cream maker",
     "chicken at 250F",
     "the chicken should be thoroughly cooked through",
     "when the chicken is done",
@@ -8013,7 +8018,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-25")):
+            if not file.startswith(("2026-05-28")):
                 continue
 
             # exclude some files

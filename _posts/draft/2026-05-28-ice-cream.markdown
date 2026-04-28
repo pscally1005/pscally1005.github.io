@@ -51,29 +51,29 @@ tags:
 - vanilla extract
 - brown sugar
 - honey
-Description: Rich, creamy, and sweet chocolate ice cream!  From just a base of cream cheese and sugar, you can make this delicious and indulgent chocolate ice cream with just an electric hand mixer; no ice cream maker required. Plus, the lactase enzyme makes it lactose free for all those who are lactose intolerant!
+Description: Rich, creamy, and sweet chocolate ice cream!  From just a base of <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a>, you can make this delicious and indulgent chocolate ice cream with just an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>; no ice cream maker required. Plus, the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> makes it lactose free for all those who are lactose intolerant!
 Instructions:
-- In a large glass bowl, beat the cream cheese with a hand mixer on high speed for about 5 minutes to soften and incorporate air
+- In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, beat the <a href='/misc/dairy#cream-cheese'>cream cheese</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on high speed for about 5 minutes to soften and incorporate air
 - <img src='/assets/Misc/Unhealthy/Ice Cream/bowl1.jpg' alt='' class='instruction-image'>
 
-- Add in your sugar, and beat until fully combined
+- Add in your <a href='/misc/hidden-sugar'>sugar</a>, and beat until fully combined
 
-- To a medium measuring glass, add your milk, vanilla, and salt. Roughly stir together with a spoon
+- To a medium measuring glass, add your <a href='/misc/dairy#skim-milk'>milk</a>, vanilla, and salt. Roughly stir together with a spoon
 - <img src='/assets/Misc/Unhealthy/Ice Cream/bowl2.jpg' alt='' class='instruction-image'>
 
 - Slowly stream your milk mixture into the bowl as you beat on medium speed, until fully combined
 
-- To make it lactose free, add in 8 servings (16 scoops) of a lactase enzyme powder, one for each serving of ice cream you will yield
+- To make it lactose free, add in 8 servings (16 scoops) of a <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> powder, one for each serving of ice cream you will yield
 
-- Add the cocoa powder to the bowl, and beat on medium speed until fully incorporated
+- Add the <a href='/misc/chocolate-benefits'>cocoa powder</a> to the bowl, and beat on medium speed until fully incorporated
 - <img src='/assets/Misc/Unhealthy/Ice Cream/bowl3.jpg' alt='' class='instruction-image'>
 
 - Transfer the ice cream to an air tight container. Freeze for at least 3 hours. Let sit on the counter for about 15 minutes before scooping
 - <img src='/assets/Misc/Unhealthy/Ice Cream/container.jpg' alt='' class='instruction-image'>
 Notes:
-- Any type of milk will work here. Skim milk, whole milk, almond milk; whatever you have on hand
+- Any type of <a href='/misc/dairy#skim-milk'>milk</a> will work here. <a href='/misc/dairy#skim-milk'>Skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>; whatever you have on hand
 
-- You can alternatively use honey instead of brown sugar. Substitute the brown sugar for 1/2 cup (168 g) of honey. Because of the extra liquid of the honey, reduce the milk to 1/2 cup (120 g)
+- You can alternatively use <a href='/misc/natural-sweeteners#honey'>honey</a> instead of <a href='/misc/hidden-sugar'>brown sugar</a>. Substitute the <a href='/misc/hidden-sugar'>brown sugar</a> for 1/2 cup (168 g) of <a href='/misc/natural-sweeteners#honey'>honey</a>. Because of the extra liquid of the <a href='/misc/natural-sweeteners#honey'>honey</a>, reduce the <a href='/misc/dairy#skim-milk'>milk</a> to 1/2 cup (120 g)
 - |
   COMPARE(
     "icecreambrownsugar",

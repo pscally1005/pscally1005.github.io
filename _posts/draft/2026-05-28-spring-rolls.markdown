@@ -53,20 +53,20 @@ tags:
 - cucumber
 - rice paper
 - vietnamese
-Description: It's getting warm out, which means fresh and light veggie side dishes. These Vietnamese fresh spring rolls combine together raw radishes, lettuce, cabbage, carrots, peppers, cucumber, and cilantro, all wrapped in a rice paper wrap. These healthy spring rolls go great dipped in my Peanut Chili Salads Dressing, and pair perfectly as a side to my Egg Roll Skillet Bowls!
+Description: It's getting warm out, which means fresh and light <a href='/misc/veggies'>veggie</a> <a href='/recipes/sides'>side dishes</a>. These Vietnamese fresh spring rolls combine together raw <a href='/misc/veggies#radish'>radishes</a>, <a href='/misc/veggies#lettuce'>lettuce</a>, <a href='/misc/veggies#cabbage'>cabbage</a>, <a href='/misc/veggies#carrots'>carrots</a>, <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#cucumber'>cucumber</a>, and cilantro, all wrapped in a <a href='https://amzn.to/3QbZba1'>rice paper wrap</a>. These healthy spring rolls go great dipped in my <a href='/recipes/peanut-chili-salad-dressing'>Peanut Chili Salad Dressing</a>, and pair perfectly as a <a href='/recipes/sides'>side</a> to my <a href='/recipes/egg-roll-bowl'>Egg Roll Skillet Bowls</a>!
 Instructions:
-- Thinly slice the radishes into rounds. Rip off 1 lettuce leaf per roll (12). Finely shred the cabbage. Cut the carrot, pepper, and cucumber into thin matchsticks. Roughly chop the cilantro
+- Thinly slice the <a href='/misc/veggies#radish'>radishes</a> into rounds. Rip off 1 <a href='/misc/veggies#lettuce'>lettuce</a> leaf per roll (12). Finely shred the <a href='/misc/veggies#cabbage'>cabbage</a>. Cut the <a href='/misc/veggies#carrots'>carrot</a>, <a href='/misc/veggies#pepper'>pepper</a>, and <a href='/misc/veggies#cucumber'>cucumber</a> into thin matchsticks. Roughly chop the cilantro
 - <img src='/assets/Food/Finger Food/Spring Rolls/veggies.jpg' alt='' class='instruction-image'>
 
 - Prepare a shallow wide bowl with warm water
 
-- Dip a piece of rice paper in the water for about 10 seconds, until soft and translucent, but not too sticky. Remove to a flat surface. Add a row of radishes, then the lettuce leaf, along with some cabbage, carrot, pepper, cucumber, and cilantro. Fold up the bottom and then the sides, before pulling together into a tight roll. Place the finished roll seam side down on a plate, covered by a damp towel
+- Dip a piece of <a href='https://amzn.to/3QbZba1'>rice paper</a> in the water for about 10 seconds, until soft and translucent, but not too sticky. Remove to a flat surface. Add a row of <a href='/misc/veggies#radish'>radishes</a>, then the <a href='/misc/veggies#lettuce'>lettuce</a> leaf, along with some <a href='/misc/veggies#cabbage'>cabbage</a>, <a href='/misc/veggies#carrots'>carrot</a>, <a href='/misc/veggies#pepper'>pepper</a>, <a href='/misc/veggies#cucumber'>cucumber</a>, and cilantro. Fold up the bottom and then the sides, before pulling together into a tight roll. Place the finished roll seam side down on a plate, covered by a damp towel
 - <img src='/assets/Food/Finger Food/Spring Rolls/open.jpg' alt='' class='instruction-image'>
 
 - Repeat for all 12 rolls. Serve cold
 - <img src='/assets/Food/Finger Food/Spring Rolls/rolled.jpg' alt='' class='instruction-image'>
 Notes:
-- For a dipping sauce, make a double batch of my Peanut Chili Salad Dressing!
+- For a dipping sauce, make a double batch of my <a href='/recipes/peanut-chili-salad-dressing'>Peanut Chili Salad Dressing</a>!
 - |
   COMPARE(
     "springrolls",
