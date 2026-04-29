@@ -58,7 +58,7 @@ tags:
 Description: |
   Chia water is exactly what it sounds like. It's an easy way to work some extra <a href='/misc/fiber'>fiber</a> into your diet. <a href='/misc/fiber'>Fiber</a> promotes satiety, keeping you fuller for longer, as well as aiding in weight loss and reducing <a href='/misc/cholesterol'>cholesterol</a>.<br><br>
 
-  Just let <a href='/misc/seeds#chia-seeds'>chia seeds</a> soak in water for about 10 minutes in order for the <a href='/misc/seeds#chia-seeds'>chia seeds</a> to gelatinize and thicken the water before drinking.  I also like to add some <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> for some flavor and additional health benefits
+  Just let <a href='/misc/seeds#chia-seeds'>chia seeds</a> soak in water for about 10 minutes in order for the <a href='/misc/seeds#chia-seeds'>chia seeds</a> to gelatinize and thicken the water before drinking.  I also like to add some <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> for some flavor and additional health benefits.
 Instructions:
 - Add <a href='/misc/seeds#chia-seeds'>chia seeds</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, and water to a large glass or mason jar. Stir, and let sit for 10-15 minutes before drinking
 Notes:

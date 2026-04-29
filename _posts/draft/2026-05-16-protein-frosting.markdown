@@ -54,7 +54,7 @@ tags:
 - vanilla whey
 Description: With just 3 simple ingredients, you can make a delicious and healthy frosting for all your healthy cakes, cupcakes, muffins, dips, or whatever else you can think of. Just combine together blended <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#whey'>vanilla whey protein powder</a>, and vanilla extract for a super duper <a href='/misc/high-protein'>high protein</a> frosting that's <a href='/misc/hidden-sugar'>sugar free</a> and <a href='/misc/fats'>fat free</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, combine together (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#whey'>protein powder</a>, and vanilla extract
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, combine together (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#whey'>protein powder</a>, and vanilla extract.
 
 Notes:
 - You can also use an equal amount of <a href='/misc/dairy#yogurt'>plain Greek yogurt</a> instead of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, though you'll need to add 1/2 tsp (3 g) salt

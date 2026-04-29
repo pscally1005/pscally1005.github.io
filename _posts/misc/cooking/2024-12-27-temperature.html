@@ -150,7 +150,42 @@ The USDA's guidelines use what's called a 7-log10 curve.  If a piece of <a href=
 
 In order to reach this safety margin, you have to cook your <a href='/misc/meat#chicken-breast'>chicken</a> to a specific temperature <i>for a specific time</i>.  The below table outlines the time it takes for 99.99999% of bacteria to be killed.<br><br>
 
-<table style='text-align: center;'>
+<style>
+    .table-container {
+        position: relative;
+        max-width: 100%;
+        gap: 0;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        table-layout: auto;
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    th, td {
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+
+    @media (max-width: 768px) {
+        table {
+            width: max-content;   /* only as wide as needed */
+            max-width: 100%;
+        }
+
+        .table-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+</style>
+
+<center><table>
     <thead>
         <tr>
             <th>Temperature</th>
@@ -187,7 +222,7 @@ In order to reach this safety margin, you have to cook your <a href='/misc/meat#
             <td>Instant</td>
         </tr>
     </tbody>
-</table><br>
+</table></center><br>
 
 <div class='image-row'>
     <img src='/assets/Misc/Cooking/Temperature/fried-chicken.png' alt='' class='smaller-image'>

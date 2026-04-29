@@ -122,7 +122,8 @@ LINKS = {
     ],
     "/recipes/dubai-chocolate": [
         "sugar free dubai chocolate",
-        "homemade dubai chocolate"
+        "homemade dubai chocolate",
+        "dubai chocolate"
     ],
     "/recipes/pistachio-truffles": [
         "chocolate pistachio truffles",
@@ -8044,7 +8045,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-25")):
+            if not file.startswith(("2026-05-10")):
                 continue
 
             # exclude some files
