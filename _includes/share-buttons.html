@@ -3,6 +3,7 @@
 {% else %}
     {% assign pageurl = page.url %}
 {% endif %}
+{% assign share_url = site.url | append: pageurl %}
 
 <style>
 #share-buttons {display: inline-block; vertical-align: middle; }
