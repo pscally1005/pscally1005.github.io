@@ -177,8 +177,10 @@ def vol_from_mass(food, mass, vol):
     elif food == "Lactase enzyme":
         if mass == "10":
             v = "2 scoops"
-        elif mass == "40":
-            v == "12 scoops"
+        elif mass == "60":
+            v = "12 scoops"
+        elif mass == "80":
+            v == "16 scoops"
 
     # Labneh
     elif food == "Labneh cheese, skim":

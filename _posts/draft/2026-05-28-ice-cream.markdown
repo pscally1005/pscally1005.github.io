@@ -33,7 +33,7 @@ section4:
 start5:
 section5:
 Prep: 15
-Rest: 180
+Rest: 480
 Cook:
 Source1:
 Source2:
@@ -63,14 +63,19 @@ Instructions:
 
 - Slowly stream your milk mixture into the bowl as you beat on medium speed, until fully combined
 
-- To make it lactose free, add in 8 servings (16 scoops) of a <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> powder, one for each serving of ice cream you will yield
-
-- Add the <a href='/misc/chocolate-benefits'>cocoa powder</a> to the bowl, and beat on medium speed until fully incorporated
+- Add the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> and <a href='/misc/chocolate-benefits'>cocoa powder</a> to the bowl, and beat on medium speed until fully incorporated
 - <img src='/assets/Misc/Unhealthy/Ice Cream/bowl3.jpg' alt='' class='instruction-image'>
 
-- Transfer the ice cream to an air tight container. Freeze for at least 3 hours. Let sit on the counter for about 15 minutes before scooping
-- <img src='/assets/Misc/Unhealthy/Ice Cream/container.jpg' alt='' class='instruction-image'>
+- Transfer the ice cream to an air tight container. Freeze overnight. This ice cream can be scooped directly out of the freezer
+- <img src='/assets/Misc/Unhealthy/Ice Cream/frozen.jpg' alt='' class='instruction-image'>
 Notes:
+- |
+  I used 8 servings (16 scoops, 80 g) of this <a href='https://amzn.to/43ycqF2'>lactase enzyme</a>, which provides about 80,000 FCC units.  This is intentionally more than needed to ensure thorough lactose breakdown.<br><br>
+
+  For best results, refrigerate the mixture for 12–24 hours before freezing.  This gives the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> time to break down most of the lactose into <a href='/misc/nutrient-alphabet#G'>glucose</a> and galactose, making the ice cream easier to digest and slightly sweeter.<br><br>
+
+  If frozen immediately, the enzyme will continue working slowly as the ice cream softens before serving.
+
 - Any type of <a href='/misc/dairy#skim-milk'>milk</a> will work here. <a href='/misc/dairy#skim-milk'>Skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>; whatever you have on hand
 
 - You can alternatively use <a href='/misc/natural-sweeteners#honey'>honey</a> instead of <a href='/misc/hidden-sugar'>brown sugar</a>. Substitute the <a href='/misc/hidden-sugar'>brown sugar</a> for 1/2 cup (168 g) of <a href='/misc/natural-sweeteners#honey'>honey</a>. Because of the extra liquid of the <a href='/misc/natural-sweeteners#honey'>honey</a>, reduce the <a href='/misc/dairy#skim-milk'>milk</a> to 1/2 cup (120 g)

@@ -5096,6 +5096,7 @@ LINKS = {
         "electrolyte powder"
     ],
     "https://amzn.to/43ycqF2": [
+        "lactase enzyme powder",
         "lactase enzyme"
     ],
     "https://amzn.to/47w8h7R": [

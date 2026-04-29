@@ -1826,10 +1826,12 @@ def grams(food, mass, vol):
 
     # Lactase
     elif food == "Lactase enzyme":
-        if vol == "2 scoops":
+        if vol == "2 scoops" or vol == "2 scoops, 1 serving" or vol == "1 serving":
             m = "10"
-        elif vol == "16 scoops":
-            m = "40"
+        elif vol == "12 scoops" or vol == "12 scoops, 6 servings" or vol == "6 servings":
+            m = "60"
+        elif vol == "16 scoops" or vol == "16 scoops, 8 servings" or vol == "8 servings":
+            m = "80"
 
     return m
 
