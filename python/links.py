@@ -4912,6 +4912,14 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4w2GB4Q": [
+        "kettle and fire bone broth",
+        "kettle & fire bone broth",
+        "kettle and fire broth",
+        "kettle & fire broth",
+        "kettle and fire",
+        "kettle & fire"
+    ],
     "https://amzn.to/3FAdvEl": [
         "psyllium husks",
         "psyllium husk",
@@ -6250,6 +6258,13 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "homemade broth, and delicious chicken fat",
+    "chicken fat jar",
+    "we essentially get chicken broth and chicken fat for free",
+    "rendered out chicken fat",
+    "1 cup (24 g) bone broth",
+    "1 cup (240 g) of bone broth",
+    "real bone broth is quie costly",
     "and then the sides",
     "milk mixture",
     "ice cream maker",
