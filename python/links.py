@@ -3895,7 +3895,15 @@ LINKS = {
         "chicken thighs",
         "thighs",
         "thigh meat",
-        "thigh"
+        "thigh",
+        "bone-in, skin-on thighs",
+        "bone-in, skin-on thigh",
+        "bone-in and skin-on thighs",
+        "bone-in and skin-on thigh",
+        "bone in, skin on thighs",
+        "bone in, skin on thigh",
+        "bone in and skin on thighs",
+        "bone in and skin on thigh"
     ],
     "/misc/meat#eggs": [
         "whole eggs",
@@ -6264,7 +6272,7 @@ EXCLUDED_PHRASES = [
     "rendered out chicken fat",
     "1 cup (24 g) bone broth",
     "1 cup (240 g) of bone broth",
-    "real bone broth is quie costly",
+    "real bone broth is quite costly",
     "and then the sides",
     "milk mixture",
     "ice cream maker",
@@ -6295,6 +6303,8 @@ EXCLUDED_PHRASES = [
     "how much does it cost",
     "of raw meat",
     "but net meat isn't",
+    "net meat",
+    "per pound of cooked meat",
     "cost per pound",
     "skim the fat",
     "assuming that meat loses about",
@@ -7684,6 +7694,7 @@ EXCLUDED_PHRASES = [
 EXCLUDED_PHRASES = list(dict.fromkeys(EXCLUDED_PHRASES))
 
 REMOVE_CATEGORIES = [
+    "/misc/bone-broth",
     "/misc/costs",
     "/misc/olive-oil",
     "/misc/natural-sweeteners",
@@ -8033,7 +8044,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-28")):
+            if not file.startswith(("2026-05-25")):
                 continue
 
             # exclude some files
