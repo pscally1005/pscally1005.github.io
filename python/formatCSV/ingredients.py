@@ -172,7 +172,7 @@ def ingredients(food):
         f = "Date sweetened ketchup"
     elif food == "Soup, ready-to-serve, chicken broth":
         f = "Chicken bone broth"
-    elif food == "shredded-chicken":
+    elif food == "shredded-chicken" or food == "leg-quarters":
         f = "Simple Shredded Chicken"
 
     # Baking
