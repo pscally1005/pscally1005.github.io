@@ -33,7 +33,7 @@ start5:
 section5:
 Prep: 20
 Rest:
-Cook: 480
+Cook: 720
 Source1: https://www.poormanprotein.com/recipes/peanut-butter-chili
 Source2: https://www.poormanprotein.com/recipes/24-hour-chili
 Source3: https://www.poormanprotein.com/recipes/slow-cooked-beans
