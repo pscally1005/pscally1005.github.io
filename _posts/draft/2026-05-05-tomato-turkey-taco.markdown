@@ -52,7 +52,7 @@ Description: This is the <a href='/misc/meat'>meat</a> dish I make the most ofte
 Instructions:
 - Heat a medium pan over medium heat
 
-- When the pan is hot, add in the <a href='/misc/meat'>meat</a>, and spread into a wide and thin "<a href='/misc/fake-healthy-foods#pancakes'>pancake</a>".  Cook without touching the <a href='/misc/meat'>meat</a> for about 5 minutes to develop color on the underside
+- When the pan is hot, add in the <a href='/misc/meat'>meat</a>, and spread into a wide and thin "pancake".  Cook without touching the <a href='/misc/meat'>meat</a> for about 5 minutes to develop color on the underside
 
 - Break up the <a href='/misc/meat'>meat</a> with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>, and deglaze with <a href='/misc/fruit#lime-juice'>lime juice</a>
 

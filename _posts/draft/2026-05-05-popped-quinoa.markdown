@@ -52,11 +52,11 @@ tags:
 - salad
 - chocolate quinoa crisps
 - quinoa scoteroos
-Description: Popped quinoa is a great crunchy way to add some <a href='/misc/carbs'>whole food carbs</a> and plant based <a href='/misc/protein'>protein</a> to your diet. It's super easy to prepare, and goes great in everything from <a href='/salad'>salads</a> and bowls to trail mixes and <a href='/misc/fake-healthy-foods#granola'>granola</a>. You can even use popped quinoa to make chocolate quinoa crisps or quinoa scotcheroos!
+Description: Popped quinoa is a great crunchy way to add some <a href='/misc/carbs'>whole food carbs</a> and plant based <a href='/misc/protein'>protein</a> to your diet. It's super easy to prepare, and goes great in everything from <a href='/salad'>salads</a> and bowls to trail mixes and granola. You can even use popped quinoa to make chocolate quinoa crisps or quinoa scotcheroos!
 Instructions:
-- Preheat a medium stainless steel over medium heat without any <a href='/misc/olive-oil'>oil</a>
+- Preheat a medium stainless steel over medium heat without any oil
 
-- To test if the pan is hot, add in a couple of <a href='/misc/grains#quinoa'>quinoa</a> <a href='/misc/seeds'>seeds</a>. They should immediately jump and pop
+- To test if the pan is hot, add in a couple of quinoa seeds. They should immediately jump and pop
 
 - Add the rest of the <a href='/misc/grains#quinoa'>quinoa</a> to the pan, and shake to a single layer
 
@@ -66,5 +66,5 @@ Instructions:
 Notes:
 - If you want to scale this up to make more popped quinoa, you should pop it in batches to ensure a single layer, as opposed to trying to do it all at once
 
-- 1 serving of 1/4 cup (45 g) of raw <a href='/misc/grains#quinoa'>quinoa</a> will yield approximately 1/4 cup (42 g) of popped quinoa
+- 1 serving of 1/4 cup (45 g) of raw quinoa will yield approximately 1/4 cup (42 g) of popped quinoa
 ---
