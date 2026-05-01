@@ -45,15 +45,15 @@ tags:
 - bell peppers
 - fajita veggies
 - tacos
-Description: Sauteed bell peppers are a great side dish or mix in to any bowl.  Just dice some peppers, and cook with taco spices.  I most often make this side dish alongside my Tomato Turkey Tacos and Cilantro Lime Brown Rice for a taco night with friends!
+Description: Sauteed <a href='/misc/veggies#pepper'>bell peppers</a> are a great <a href='/recipes/sides'>side dish</a> or mix in to any bowl.  Just dice some <a href='/misc/veggies#pepper'>peppers</a>, and cook with <a href='/recipes/taco'>taco</a> spices.  I most often make this <a href='/recipes/sides'>side dish</a> alongside my <a href='/recipes/tomato-turkey-taco'>Tomato Turkey Tacos</a> and <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a> for a <a href='/recipes/taco'>taco</a> night with friends!
 Instructions:
-- Heat a large pan over medium heat
+- Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat
 
-- Wash your peppers, and cut into a medium dice
+- Wash your <a href='/misc/veggies#pepper'>peppers</a>, and cut into a medium dice
 
-- Add the peppers to the hot pan with diced tomatoes, red wine vinegar, and spices.  Cover and cook until softened to desired texture, about 10-15 minutes
+- Add the <a href='/misc/veggies#pepper'>peppers</a> to the hot pan with diced tomatoes, red wine vinegar, and spices.  Cover and cook until softened to desired texture, about 10-15 minutes
 Notes:
-- I often pair together my Tomato Turkey Tacos, Cilantro Lime Brown Rice, and Sauteed Fajita Peppers
+- I often pair together my <a href='/recipes/tomato-turkey-taco'>Tomato Turkey Tacos</a>, <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a>, and Sauteed Fajita Peppers
 - |
   COMPARE(
     "tomatoturkeytaco",
