@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/popped-quinoa": [
+        "single serving popped quinoa",
+        "popped quinoa"
+    ],
     "/recipes/tomato-turkey-taco": [
         "tomato turkey tacos",
         "tomato turkey taco",
@@ -6294,6 +6298,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "chocolate quinoa crisps",
+    "quinoa scotcheroos",
     "homemade broth, and delicious chicken fat",
     "chicken fat jar",
     "we essentially get chicken broth and chicken fat for free",

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sauteed Fajita Peppers
-date:   2026-04-29 00:00:00 -0500
+date:   2026-05-01 00:00:00 -0500
 categories:
 - Recipes
 - Sides
@@ -22,7 +22,7 @@ vic: no
 permalink: /recipes/fajita-peppers
 image: /assets/Food/Sides/Fajita Peppers/cover.jpg
 file: fajitapeppers
-servingSize: TODO
+servingSize: ~180 g
 section1:
 start2:
 section2:
@@ -51,7 +51,7 @@ Instructions:
 
 - Wash your peppers, and cut into a medium dice
 
-- Add the peppers to the hot pan with red wine vinegar and spices.  Cover and cook until softened to desired texture, about 10-15 minutes
+- Add the peppers to the hot pan with diced tomatoes, red wine vinegar, and spices.  Cover and cook until softened to desired texture, about 10-15 minutes
 Notes:
 - I often pair together my Tomato Turkey Tacos, Cilantro Lime Brown Rice, and Sauteed Fajita Peppers
 - |
@@ -72,4 +72,7 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+- <a href='/recipes/tomato-turkey-tacos'><img src='/assets/Food/Ground Meat/Tomato Turkey Taco/cover.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/cilantro-lime-rice'><img src='/assets/Food/Sides/Cilantro Lime/cover.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/fajita-peppers'><img src='/assets/Food/Sides/Fajita Peppers/cover.jpg' alt='' class='instruction-image'></a>
 ---

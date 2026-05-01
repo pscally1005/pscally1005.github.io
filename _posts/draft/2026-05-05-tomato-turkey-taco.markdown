@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tomato Turkey Tacos
-date:   2026-04-29 00:00:00 -0500
+date:   2026-05-01 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat
@@ -20,9 +20,9 @@ cookie: no
 copycat: no
 vic: no
 permalink: /recipes/tomato-turkey-tacos
-image: /assets/Food/Ground Meat/TTT/cover.jpg
+image: /assets/Food/Ground Meat/Tomato Turkey Taco/cover.jpg
 file: tomatoturkeytaco
-servingSize: TODO
+servingSize: ~126 g
 section1:
 start2:
 section2:
@@ -48,7 +48,7 @@ tags:
 - paprika
 - taco
 - ground meat
-Description: This is the meat dish I make the most often when I have guests over.  It's just ground turkey sauteed with tomato paste and taco spices.  It comes together in less than 15 minutes, and can easily be made while holding a conversation with friends or family.  For what I normally pair along side this, check out my Cilantro Lime Brown Rice and Sauteed Fajjita Peppers!
+Description: This is the meat dish I make the most often when I have guests over.  It's just ground turkey sauteed with tomato paste and taco spices.  It comes together in less than 15 minutes, and can easily be made while holding a conversation with friends or family.  For what I normally pair along side this, check out my Cilantro Lime Brown Rice and Sauteed Fajita Peppers!
 Instructions:
 - Heat a medium pan over medium heat
 
@@ -77,4 +77,7 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+- <a href='/recipes/tomato-turkey-tacos'><img src='/assets/Food/Ground Meat/Tomato Turkey Taco/cover.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/cilantro-lime-rice'><img src='/assets/Food/Sides/Cilantro Lime/cover.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/fajita-peppers'><img src='/assets/Food/Sides/Fajita Peppers/cover.jpg' alt='' class='instruction-image'></a>
 ---

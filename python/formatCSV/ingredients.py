@@ -425,6 +425,8 @@ def ingredients(food):
         f = "Cherry tomatoes"
     elif food == "Peppers, raw, red, sweet" or food == "Pepper, raw, red, sweet" or food == "Peppers, raw, green, sweet":
         f = "Bell pepper"
+    elif food == "fajita-peppers":
+        f = "Sauteed Fajita Peppers"
     elif food == "Sweet potato, unprepared, raw" or food == "Sweet potato, washed":
         f = "Sweet potato"
     elif food == "Strawberries, raw":
@@ -538,7 +540,8 @@ def ingredients(food):
     elif food == "Tomatoes, canned, crushed" or food == "Canned crushed tomatoes":
         f = "Crushed tomatoes"
     elif food == "Tomato products, without salt added, paste, canned" or food == "Tomato paste" or food == "Tomato paste by FIESTA" or food == "Tomato paste by REDPACK" or food == "Tomato products, paste, canned" or food == "Canned tomato paste" or food == "Tomato paste, canned" or food == "Tomato paste by TAT":
-        f = "Tomato paste, canned"
+        # f = "Tomato paste, canned"
+        f = "Tomato paste"
     elif food == "Grape leaves, raw":
         f = "Grape leaves"
     elif food == "Clams, canned" or food == "Minced clams in juice by Bumble Bee Foods, LLC" or food == "Canned clams":
@@ -649,6 +652,8 @@ def ingredients(food):
         f = "Whole wheat baguette"
     elif food == "Rice, raw, long-grain, brown":
         f = "Brown rice"
+    elif food == "cilantro-lime-rice":
+        f = "Cilantro Lime Brown Rice"
     elif food == "Wild rice, raw":
         f = "Wild rice"
     elif food == "Rice paper":
@@ -697,6 +702,8 @@ def ingredients(food):
         f = "Ground chicken thighs"
     elif food == str("Turkey, raw, 7% fat, 93% lean, ground"):
         f = "Ground turkey, 93/7"
+    elif food == "tomato-turkey-taco":
+        f = "Tomato Turkey Tacos"
     elif food == "Tilapia fillet" or food == "Fish, raw, tilapia":
         f = "Tilapia"
     elif food == "Fish, raw, pink, salmon" or food == "Salmon fillet by WILD ALASKAN SOCKEYE":

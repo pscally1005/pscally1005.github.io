@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cilantro Lime Brown Rice
-date:   2026-04-29 00:00:00 -0500
+date:   2026-05-01 00:00:00 -0500
 categories:
 - Recipes
 - Sides
@@ -49,7 +49,7 @@ tags:
 - dried cilantro
 - lime juice
 - tacos
-Description: Cilantro lime rice is a perfect way to elevate a boring old bowl of rice.  I like to cook my brown rice using bone broth, and finish with some cilantro and lime juice at the end.  This is the most delicious rice I've ever had, and it pairs perfectly with my Tomato Turkey Tacos and Sauteed Fajjita Veggies!
+Description: Cilantro lime rice is a perfect way to elevate a boring old bowl of rice.  I like to cook my brown rice using bone broth, and finish with some cilantro and lime juice at the end.  This is the most delicious rice I've ever had, and it pairs perfectly with my Tomato Turkey Tacos and Sauteed Fajita Veggies!
 Instructions:
 - Add rice and broth to a medium pot.  Cover and bring to a boil over high heat.  When boiling, lower the heat to low.  Let simmer (covered) for about 45 minutes, or until all the water has been absorbed
 
@@ -76,4 +76,7 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+- <a href='/recipes/tomato-turkey-tacos'><img src='/assets/Food/Ground Meat/Tomato Turkey Taco/cover.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/cilantro-lime-rice'><img src='/assets/Food/Sides/Cilantro Lime/cover.jpg' alt='' class='instruction-image'></a>
+- <a href='/recipes/fajita-peppers'><img src='/assets/Food/Sides/Fajita Peppers/cover.jpg' alt='' class='instruction-image'></a>
 ---
