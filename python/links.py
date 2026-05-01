@@ -9,7 +9,33 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 
 LINKS = {
 
-    #
+    # RECIPES
+    "/recipes/tomato-turkey-taco": [
+        "tomato turkey tacos",
+        "tomato turkey taco",
+        "tomato tacos",
+        "tomato taco",
+        "ground turkey tacos",
+        "ground turkey taco"
+    ],
+    "/recipes/cilantro-lime-rice": [
+        "cilantro lime rice",
+        "cilantro lime brown rice"
+    ],
+    "/recipes/fajita-peppers": [
+        "fajita peppers",
+        "fajita pepper",
+        "fajita veggies",
+        "fajits vegetables",
+        "fajita veggie",
+        "fajita vegetable",
+        "sauteed fajita peppers",
+        "sauteed fajita pepper",
+        "sauteed fajita veggies",
+        "sauteed fajita veggie",
+        "sauteed fajita vegetables",
+        "sauteed fajita vegetable"
+    ],
     "/recipes/fro-yo": [
         "sugar free frozen yogurt",
         "sugar free fro yo",
