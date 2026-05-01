@@ -55,7 +55,10 @@ Instructions:
 
 - Remove from the heat, and stir in <a href='/misc/fruit#lime-juice'>lime juice</a> and cilantro
 Notes:
-- You can either use 2 cups (480 g) of <a href='/misc/bone-broth'>broth</a> (homemade or storebought), or 2 cups (480 g) of water with either 2 tsp (12 g) <a href='https://amzn.to/4c6GlII'>better than bouillon</a>, 2 tsp (8 g) <a href='https://amzn.to/3QiSinj'>bouillon powder</a>, or 1 tsp (6 g) salt
+- Any flavor of <a href='/misc/bone-broth'>broth</a> will work - chicken, beef, turkey, veggie, etc.
+
+- Instead of <a href='/misc/bone-broth'>broth</a>, you can use 2 cups (480 g) of water with any of the following
+- INGREDIENTS(brothoptions)
 
 - I often pair together my <a href='/recipes/tomato-turkey-taco'>Tomato Turkey Tacos</a>, Cilantro Lime Brown Rice, and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>
 - |

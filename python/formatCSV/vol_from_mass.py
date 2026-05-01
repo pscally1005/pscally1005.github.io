@@ -1563,6 +1563,17 @@ def vol_from_mass(food, mass, vol):
         elif mass == "900":
             v = "1 batch"
 
+    # BTB
+    elif food == "Better Than Bouillon":
+        if mass == "6":
+            v = "1 tsp"
+        elif mass == "12":
+            v = "2 tsp"
+        elif mass == "18":
+            v = "1 tbsp"
+        elif mass == "24":
+            v = "4 tsp"
+
     return v
 
 def main(path = ""):

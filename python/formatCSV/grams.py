@@ -1858,6 +1858,17 @@ def grams(food, mass, vol):
         elif vol == "5 serving" or vol == "1 batch":
             m = "900"
 
+    # BTB
+    elif food == "Better Than Bouillon":
+        if vol == "1 tsp":
+            m = "6"
+        elif vol == "2 tsp":
+            m = "12"
+        elif vol == "3 tsp" or vol == "1 tbsp":
+            m = "18"
+        elif vol == "4 tsp":
+            m = "24"
+
     return m
 
 def main(path = ""):

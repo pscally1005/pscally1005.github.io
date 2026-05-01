@@ -6299,6 +6299,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "chicken, beef, turkey, veggie, etc.",
     "chocolate quinoa crisps",
     '"pancake"',
     "without any oil",
