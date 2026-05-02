@@ -1824,6 +1824,13 @@ def grams(food, mass, vol):
         elif vol == "2 serving":
             m = "240"
 
+    # Flatbread
+    elif food == "Sourdough Discard Flatbread":
+        if vol == "1 serving" or vol == "1 flatbread":
+            m = "48"
+        elif vol == "2 serving" or vol == "2 servings" or vol == "2 flatbreads":
+            m = "96"
+
     # Lactase
     elif food == "Lactase enzyme":
         if vol == "2 scoops" or vol == "2 scoops, 1 serving" or vol == "1 serving":

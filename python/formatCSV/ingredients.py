@@ -637,6 +637,8 @@ def ingredients(food):
     # Carbs
     elif food == "sourdough-starter":
         f = "Sourdough starter"
+    elif food == "sourdough-flatbread":
+        f = "Sourdough Discard Flatbread"
     elif food == "cc-flatbread-white-psyllium":
         f = "Cottage cheese flatbread"
     elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc":

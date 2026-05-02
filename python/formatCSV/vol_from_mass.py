@@ -173,6 +173,13 @@ def vol_from_mass(food, mass, vol):
         elif mass == "240":
             v = "1 cup"
 
+    # Flatbread
+    elif food == "Sourdough Discard Flatbread":
+        if mass == "48":
+            v = "1 flatbread"
+        elif mass == "96":
+            v = "2 flatbreads"
+
     # Lactase
     elif food == "Lactase enzyme":
         if mass == "10":
