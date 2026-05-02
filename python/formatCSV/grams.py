@@ -683,7 +683,7 @@ def grams(food, mass, vol):
             m = "180"
 
     # Rice
-    elif food == "Brown rice" or food == "Wild rice":
+    elif food == "Brown rice" or food == "Wild rice" or food == "Quinoa":
         if vol == "1/4 cup":
             m = "45"
         elif vol == "1/3 cup":
@@ -1173,6 +1173,10 @@ def grams(food, mass, vol):
         elif vol == "5 medium":
             m = "600"
 
+    # Tomato paste
+    elif food == "Tomato paste" or food == "Tomato paste, canned":
+        if vol == "1 can":
+            m = "168"
 
     # Tomatoes
     elif food == "Tomato":
@@ -1839,6 +1843,38 @@ def grams(food, mass, vol):
             m = "60"
         elif vol == "16 scoops" or vol == "16 scoops, 8 servings" or vol == "8 servings":
             m = "80"
+
+    # Tomato turkey tacos
+    elif food == "Tomato Turkey Tacos":
+        if vol == "1 serving":
+            m = "126"
+        elif vol == "5 serving" or vol == "1 batch":
+            m = "630"
+
+    # Cilantro lime rice
+    elif food == "Cilantro Lime Brown Rice":
+        if vol == "1 serving":
+            m = "120"
+        elif vol == "5 serving" or vol == "1 batch":
+            m = "600"
+
+    # Fajita peppers
+    elif food == "Sauteed Fajita Peppers":
+        if vol == "1 serving":
+            m = "180"
+        elif vol == "5 serving" or vol == "1 batch":
+            m = "900"
+
+    # BTB
+    elif food == "Better Than Bouillon":
+        if vol == "1 tsp":
+            m = "6"
+        elif vol == "2 tsp":
+            m = "12"
+        elif vol == "3 tsp" or vol == "1 tbsp":
+            m = "18"
+        elif vol == "4 tsp":
+            m = "24"
 
     return m
 

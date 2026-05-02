@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/popped-quinoa": [
+        "single serving popped quinoa",
+        "popped quinoa"
+    ],
     "/recipes/tomato-turkey-taco": [
         "tomato turkey tacos",
         "tomato turkey taco",
@@ -2498,7 +2502,8 @@ LINKS = {
         "homemade bone broth + veggie soup",
         "veggie soup",
         "homemade bone broth",
-        "bone broth"
+        "bone broth",
+        "broth"
     ],
     "/recipes/gluten-free-millet-bread": [
         "gluten free millet bread",
@@ -6294,6 +6299,16 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "chicken, beef, turkey, veggie, etc.",
+    "chocolate quinoa crisps",
+    '"pancake"',
+    "without any oil",
+    "trail mixes and granola",
+    "quinoa seeds",
+    "raw quinoa",
+    "quinoa scotcheroos",
+    "taco spices",
+    "taco night",
     "homemade broth, and delicious chicken fat",
     "chicken fat jar",
     "we essentially get chicken broth and chicken fat for free",
@@ -8072,7 +8087,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-10")):
+            if not file.startswith(("2026-05-05")):
                 continue
 
             # exclude some files
