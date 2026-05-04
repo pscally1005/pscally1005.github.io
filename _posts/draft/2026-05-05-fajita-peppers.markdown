@@ -45,7 +45,7 @@ tags:
 - bell peppers
 - fajita veggies
 - tacos
-Description: Sauteed <a href='/misc/veggies#pepper'>bell peppers</a> are a great <a href='/recipes/sides'>side dish</a> or mix in to any bowl.  Just dice some <a href='/misc/veggies#pepper'>peppers</a>, and cook with <a href='/recipes/taco'>taco</a> spices.  I most often make this <a href='/recipes/sides'>side dish</a> alongside my <a href='/recipes/tomato-turkey-taco'>Tomato Turkey Tacos</a> and <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a> for a <a href='/recipes/taco'>taco</a> night with friends!
+Description: Happy Cinco de Mayo!  Sauteed <a href='/misc/veggies#pepper'>bell peppers</a> are a great <a href='/recipes/sides'>side dish</a> or mix in to any bowl.  Just dice some <a href='/misc/veggies#pepper'>peppers</a>, and cook with taco spices.  I most often make this <a href='/recipes/sides'>side dish</a> alongside my <a href='/recipes/tomato-turkey-tacos'>Tomato Turkey Tacos</a> and <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a> for a taco night with friends!
 Instructions:
 - Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat
 
@@ -53,7 +53,7 @@ Instructions:
 
 - Add the <a href='/misc/veggies#pepper'>peppers</a> to the hot pan with diced tomatoes, red wine vinegar, and spices.  Cover and cook until softened to desired texture, about 10-15 minutes
 Notes:
-- I often pair together my <a href='/recipes/tomato-turkey-taco'>Tomato Turkey Tacos</a>, <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a>, and Sauteed Fajita Peppers
+- I often pair together my <a href='/recipes/tomato-turkey-tacos'>Tomato Turkey Tacos</a>, <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a>, and Sauteed Fajita Peppers
 - |
   COMPARE(
     "tomatoturkeytaco",
@@ -61,7 +61,7 @@ Notes:
     "fajitapeppers",
     "tacomeal";
 
-    "<a href='/recipes/tomato-turkey-taco'>Meat</a>",
+    "<a href='/recipes/tomato-turkey-tacos'>Meat</a>",
     "<a href='/recipes/cilantro-lime-rice'>Rice</a>",
     "<a href='/recipes/fajita-peppers'>Veggies</a>",
     "Full<br>Meal";

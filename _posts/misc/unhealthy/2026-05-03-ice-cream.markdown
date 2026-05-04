@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Lactose Free No Churn Chocolate Ice Cream
-date:   2026-04-28 00:00:00 -0500
+date:   2026-05-03 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -79,19 +78,26 @@ Notes:
 - Any type of <a href='/misc/dairy#skim-milk'>milk</a> will work here. <a href='/misc/dairy#skim-milk'>Skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>; whatever you have on hand
 
 - You can alternatively use <a href='/misc/natural-sweeteners#honey'>honey</a> instead of <a href='/misc/hidden-sugar'>brown sugar</a>. Substitute the <a href='/misc/hidden-sugar'>brown sugar</a> for 1/2 cup (168 g) of <a href='/misc/natural-sweeteners#honey'>honey</a>. Because of the extra liquid of the <a href='/misc/natural-sweeteners#honey'>honey</a>, reduce the <a href='/misc/dairy#skim-milk'>milk</a> to 1/2 cup (120 g)
+
+- If you want to make it <a href='/misc/hidden-sugar'>sugar free</a>, you can use 3/4 cup (150 g) of <a href='https://amzn.to/4mzsH5p'>allulose</a> in place of <a href='/misc/hidden-sugar'>brown sugar</a>
+
 - |
   COMPARE(
     "icecreambrownsugar",
-    "icecreamhoney";
+    "icecreamhoney",
+    "icecreamallulose";
 
     "<a href='#recipe'>Brown<br>Sugar</a>",
-    "<a href='/misc/natural-sweeteners#honey'>Honey</a>";
+    "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='https://amzn.to/4mzsH5p'>Allulose</a>";
 
     "Calories",
     "Protein",
     "Fat",
     "Net Carbs",
     "Fiber",
-    "Added Sugar"
+    "Added Sugar",
+    "Allulose",
+    "Glycemic Index"
   )
 ---

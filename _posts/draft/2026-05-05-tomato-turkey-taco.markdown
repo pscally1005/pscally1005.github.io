@@ -48,7 +48,7 @@ tags:
 - paprika
 - taco
 - ground meat
-Description: This is the <a href='/misc/meat'>meat</a> dish I make the most often when I have guests over.  It's just <a href='/misc/meat#ground-turkey'>ground turkey</a> sauteed with tomato paste and <a href='/recipes/taco'>taco</a> spices.  It comes together in less than 15 minutes, and can easily be made while holding a conversation with friends or family.  For what I normally pair along side this, check out my <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a> and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>!
+Description: Happy Cinco de Mayo!  This is the <a href='/misc/meat'>meat</a> dish I make the most often when I have guests over.  It's just <a href='/misc/meat#ground-turkey'>ground turkey</a> sauteed with tomato paste and taco spices.  It comes together in less than 15 minutes, and can easily be made while holding a conversation with friends or family.  For what I normally pair along side this, check out my <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a> and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>!
 Instructions:
 - Heat a medium pan over medium heat
 
@@ -58,7 +58,7 @@ Instructions:
 
 - Cook until no longer pink.  Add in the tomato paste and spices
 Notes:
-- I often pair together my <a href='/recipes/tomato-turkey-taco'>Tomato Turkey Tacos</a>, <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a>, and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>
+- I often pair together my <a href='/recipes/tomato-turkey-tacos'>Tomato Turkey Tacos</a>, <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a>, and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>
 - |
   COMPARE(
     "tomatoturkeytaco",
@@ -66,7 +66,7 @@ Notes:
     "fajitapeppers",
     "tacomeal";
 
-    "<a href='/recipes/tomato-turkey-taco'>Meat</a>",
+    "<a href='/recipes/tomato-turkey-tacos'>Meat</a>",
     "<a href='/recipes/cilantro-lime-rice'>Rice</a>",
     "<a href='/recipes/fajita-peppers'>Veggies</a>",
     "Full<br>Meal";

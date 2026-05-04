@@ -49,7 +49,7 @@ tags:
 - dried cilantro
 - lime juice
 - tacos
-Description: Cilantro lime rice is a perfect way to elevate a boring old bowl of <a href='/misc/grains#brown-rice'>rice</a>.  I like to cook my <a href='/misc/grains#brown-rice'>brown rice</a> using <a href='/misc/bone-broth'>bone broth</a>, and finish with some cilantro and <a href='/misc/fruit#lime-juice'>lime juice</a> at the end.  This is the most delicious <a href='/misc/grains#brown-rice'>rice</a> I've ever had, and it pairs perfectly with my <a href='/recipes/tomato-turkey-taco'>Tomato Turkey Tacos</a> and <a href='/recipes/fajita-peppers'>Sauteed Fajita Veggies</a>!
+Description: Happy Cinco de Mayo!  Cilantro lime rice is a perfect way to elevate a boring old bowl of <a href='/misc/grains#brown-rice'>rice</a>.  I like to cook my <a href='/misc/grains#brown-rice'>brown rice</a> using <a href='/misc/bone-broth'>bone broth</a>, and finish with some cilantro and <a href='/misc/fruit#lime-juice'>lime juice</a> at the end.  This is the most delicious <a href='/misc/grains#brown-rice'>rice</a> I've ever had, and it pairs perfectly with my <a href='/recipes/tomato-turkey-tacos'>Tomato Turkey Tacos</a> and <a href='/recipes/fajita-peppers'>Sauteed Fajita Veggies</a>!
 Instructions:
 - Add <a href='/misc/grains#brown-rice'>rice</a> and <a href='/misc/bone-broth'>broth</a> to a <a href='https://amzn.to/46ccg8m'>medium pot</a>.  Cover and bring to a boil over high heat.  When boiling, lower the heat to low.  Let simmer (covered) for about 45 minutes, or until all the water has been absorbed
 
@@ -60,7 +60,7 @@ Notes:
 - Instead of <a href='/misc/bone-broth'>broth</a>, you can use 2 cups (480 g) of water with any of the following
 - INGREDIENTS(brothoptions)
 
-- I often pair together my <a href='/recipes/tomato-turkey-taco'>Tomato Turkey Tacos</a>, Cilantro Lime Brown Rice, and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>
+- I often pair together my <a href='/recipes/tomato-turkey-tacos'>Tomato Turkey Tacos</a>, Cilantro Lime Brown Rice, and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>
 - |
   COMPARE(
     "tomatoturkeytaco",
@@ -68,7 +68,7 @@ Notes:
     "fajitapeppers",
     "tacomeal";
 
-    "<a href='/recipes/tomato-turkey-taco'>Meat</a>",
+    "<a href='/recipes/tomato-turkey-tacos'>Meat</a>",
     "<a href='/recipes/cilantro-lime-rice'>Rice</a>",
     "<a href='/recipes/fajita-peppers'>Veggies</a>",
     "Full<br>Meal";
