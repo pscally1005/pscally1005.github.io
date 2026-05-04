@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 permalink: /recipes/ice-cream
 image: /assets/Misc/Unhealthy/Ice Cream/cover.jpg
 file: icecreambrownsugar
