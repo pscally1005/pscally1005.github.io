@@ -50,6 +50,8 @@ tags:
 - vanilla extract
 - brown sugar
 - honey
+- allulose
+- vanilla whey protein powder
 Description: Rich, creamy, and sweet chocolate ice cream!  From just a base of <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a>, you can make this delicious and indulgent chocolate ice cream with just an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>; no ice cream maker required. Plus, the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> makes it lactose free for all those who are lactose intolerant!
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, beat the <a href='/misc/dairy#cream-cheese'>cream cheese</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on high speed for about 5 minutes to soften and incorporate air
@@ -81,15 +83,19 @@ Notes:
 
 - If you want to make it <a href='/misc/hidden-sugar'>sugar free</a>, you can use 3/4 cup (150 g) of <a href='https://amzn.to/4mzsH5p'>allulose</a> in place of <a href='/misc/hidden-sugar'>brown sugar</a>
 
+- You can even use <a href='/misc/dairy#whey'>vanilla whey protein powder</a> (5 scoops, 150 g) in place of <a href='/misc/hidden-sugar'>brown sugar</a> to act as both a <a href='/misc/hidden-sugar'>sugar free</a> sweetener and adding some <a href='/misc/protein'>protein</a>.  You may need to let the ice cream sit on the counter for a bit longer before being able to scoop it though
+
 - |
   COMPARE(
     "icecreambrownsugar",
     "icecreamhoney",
-    "icecreamallulose";
+    "icecreamallulose",
+    "icecreamprotein";
 
     "<a href='#recipe'>Brown<br>Sugar</a>",
     "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
-    "<a href='https://amzn.to/4mzsH5p'>Allulose</a>";
+    "<a href='https://amzn.to/4mzsH5p'>Allulose</a>",
+    "<a href='/misc/dairy#whey'>Protein<br>Powder</a>;
 
     "Calories",
     "Protein",

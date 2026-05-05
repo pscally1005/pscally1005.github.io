@@ -862,6 +862,8 @@ def grams(food, mass, vol):
             m = "90"
         elif vol == "4 scoop":
             m = "120"
+        elif vol == "5 scoop":
+            m = "150"
 
     # Nuts
     elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":

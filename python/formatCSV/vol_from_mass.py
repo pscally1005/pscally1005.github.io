@@ -804,6 +804,8 @@ def vol_from_mass(food, mass, vol):
             v = "3 scoop"
         elif mass == "120":
             v = "4 scoop"
+        elif mass == "150":
+            v = "5 scoop"
 
     # Nuts
     elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":
