@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Sauteed Fajita Peppers
-date:   2026-05-01 00:00:00 -0500
+date:   2026-05-05 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -18,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 permalink: /recipes/fajita-peppers
 image: /assets/Food/Sides/Fajita Peppers/cover.jpg
 file: fajitapeppers

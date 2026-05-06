@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Tomato Turkey Tacos
-date:   2026-05-01 00:00:00 -0500
+date:   2026-05-05 00:00:00 -0500
 categories:
 - Recipes
 - Ground Meat
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -18,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 permalink: /recipes/tomato-turkey-tacos
 image: /assets/Food/Ground Meat/Tomato Turkey Taco/cover.jpg
 file: tomatoturkeytaco
