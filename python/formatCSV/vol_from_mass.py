@@ -173,6 +173,11 @@ def vol_from_mass(food, mass, vol):
         elif mass == "240":
             v = "1 cup"
 
+    # Baguette
+    elif food == "Whole wheat baguette":
+        if mass == "190":
+            v = "1 medium"
+
     # Flatbread
     elif food == "Sourdough Discard Flatbread":
         if mass == "48":
@@ -445,6 +450,8 @@ def vol_from_mass(food, mass, vol):
             v = "2 tsp"
         elif mass == "15":
             v = "1 tbsp"
+        elif mass == "22.5":
+            v = "1 1/2 tbsp"
         elif mass == "30":
             v = "2 tbsp"
         elif mass == "45":

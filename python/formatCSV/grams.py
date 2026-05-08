@@ -506,6 +506,8 @@ def grams(food, mass, vol):
             m = "10"
         elif vol == "1 tbsp":
             m = "15"
+        elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp" or vol == "4.5 tsp" or vol == "4 1/2 tsp":
+            m = "22.5"
         elif vol == "2 tbsp":
             m = "30"
         elif vol == "3 tbsp":
@@ -1829,6 +1831,11 @@ def grams(food, mass, vol):
             m = "120"
         elif vol == "2 serving":
             m = "240"
+
+    # Baguette
+    elif food == "Whole wheat baguette":
+        if vol == "1 serving" or vol == "1 medium":
+            m = "190"
 
     # Flatbread
     elif food == "Sourdough Discard Flatbread":
