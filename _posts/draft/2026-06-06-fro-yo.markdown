@@ -78,6 +78,7 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Fro Yo/churned.jpg' alt='' class='instruction-image'>
 
 - Store in the freezer. Let it sit out for 15 minutes before scooping and serving
+- <img src='/assets/Food/Healthier Dessert/Fro Yo/scooped.jpg' alt='' class='instruction-image'>
 Notes:
 - |
   Unlike other <a href='/misc/calories'>zero calorie</a> sweeteners, <a href='https://amzn.to/4mzsH5p'>allulose</a> will lower the freezing point like <a href='/misc/hidden-sugar'>sugar</a> would, making the frozen yogurt less icy and more scoopable.<br><br>
