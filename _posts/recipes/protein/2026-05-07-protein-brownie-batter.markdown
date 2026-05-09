@@ -52,7 +52,9 @@ tags:
 Description: |
   This edible protein brownie batter makes the perfect <a href='/recipes/healthier-dessert'>dessert</a>, <a href='/recipes/protein-powder'>protein snack</a>, or even <a href='/recipes/breakfast'>breakfast</a>. It's a great source of <a href='/misc/protein'>protein</a> from the <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#peanuts'>peanut butter</a>, and <a href='/misc/fiber'>fiber</a> and <a href='/misc/natural-sweeteners'>natural sugars</a> from the <a href='https://amzn.to/4rhYDwh'>carob powder</a>.<br><br>
 
-  This makes satiating in addition to being delicious. It takes less than 10 minutes to prep 4 servings of rich, decadent, but <a href='/brownies'>healthy brownie</a> batter that you don't have to feel guilty about eating with a spoon. Check out my <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a> for a <a href='/misc/protein'>protein</a> packed cookie dough you can also eat with a spoon!
+  This makes it satiating in addition to being delicious. It takes less than 10 minutes to prep 4 servings of rich, decadent, but <a href='/brownies'>healthy brownie</a> batter that you don't have to feel guilty about eating with a spoon.<br><br>
+
+  Check out my <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a> for a <a href='/misc/protein'>protein</a> packed cookie dough you can also eat with a spoon!
 Instructions:
 - Mix all ingredients together in a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 

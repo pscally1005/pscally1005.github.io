@@ -10,6 +10,12 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/high-fiber-jelly": [
+        "high fiber jelly",
+        "sugar free jelly",
+        "psyllium husk jelly",
+        "psyllium jelly"
+    ],
     "/recipes/popped-quinoa": [
         "single serving popped quinoa",
         "popped quinoa"
@@ -6299,6 +6305,12 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "this is the juice",
+    "mix together fruit juice",
+    "thickens the juice",
+    "mango/peach fruit juice",
+    "jelly recipe",
+    "of jelly today",
     "chicken, beef, turkey, veggie, etc.",
     "chocolate quinoa crisps",
     '"pancake"',
@@ -8087,7 +8099,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-03")):
+            if not file.startswith(("2026-06-09")):
                 continue
 
             # exclude some files

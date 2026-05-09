@@ -153,13 +153,25 @@
 
             {% if include.cost == "true" %}
                 <tr>
-                    <td><a href='/misc/costs'>Cost</a></td>
+                    <td><a href='/misc/costs'>Cost<br>(Serving)</a></td>
 
                     {% assign loopVar = site.data[include.ing] %}
                     {% for f in files %}
                         <td>
                             {% assign ing_file = f | append: "-ing" %}
                             {% include calcCost.html ing=ing_file %}
+                        </td>
+                    {% endfor %}
+                </tr>
+
+                <tr>
+                    <td><a href='/misc/costs'>Cost<br>(Total)</a></td>
+
+                    {% assign loopVar = site.data[include.ing] %}
+                    {% for f in files %}
+                        <td>
+                            {% assign ing_file = f | append: "-ing" %}
+                            {% include calcCost.html ing=ing_file total="true" %}
                         </td>
                     {% endfor %}
                 </tr>

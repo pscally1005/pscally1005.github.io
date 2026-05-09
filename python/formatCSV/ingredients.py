@@ -176,6 +176,8 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "Fruit juice drink, diet":
+        f = "Fruit juice, sugar free"
     elif food == "Frostings, ready-to-eat, creamy, vanilla":
         f = "Frosting"
     elif food == "protein-frosting":

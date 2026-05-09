@@ -61,21 +61,23 @@ Description: |
 
   But you can with this recipe!  This sugar free frozen yogurt is also lower in both <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a> than traditional <a href='/recipes/ice-cream'>ice cream</a> or fro-yo. It's also higher in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> than any other frozen treat you've ever had!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat together the <a href='/misc/dairy#yogurt-whole-milk'>yogurt</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on medium speed for about 5 minutes to beat in as much air as possible
-- <img src='/assets/Food/Healthier Dessert/Fro Yo/bowl1.jpg' alt='' class='instruction-image'>
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat together the <a href='/misc/dairy#yogurt-whole-milk'>yogurt</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on medium speed for about 2 minutes to beat in as much air as possible
 
-- Add in your <a href='https://amzn.to/4mzsH5p'>allulose</a>, vanilla, vodka, <a href='https://amzn.to/47w8h7R'>inulin</a>, and salt.  Beat until fully combined
+- Add in your vanilla, vodka, <a href='https://amzn.to/47w8h7R'>inulin</a>, and salt.  Beat until fully combined
+
+- Slowly beat in the <a href='https://amzn.to/4mzsH5p'>allulose</a> until fully mixed
+- <img src='/assets/Food/Healthier Dessert/Fro Yo/bowl1.jpg' alt='' class='instruction-image'>
 
 - Slowly beat in the <a href='/misc/chocolate-benefits'>cocoa powder</a> until fully mixed
-- <img src='/assets/Food/Healthier Dessert/Fro Yo/bowl1.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Fro Yo/bowl2.jpg' alt='' class='instruction-image'>
 
-- Transfer the bowl to the freezer. Every half an hour, churn the fro-yo with your <a href='https://amzn.to/45yqsbM'>hand mixer</a>. Beat for 1-2 minutes to break up any ice crystals and fully combine. Do this 6 times for a total of 3 hours
-- <img src='/assets/Food/Healthier Dessert/Fro Yo/churned.jpg' alt='' class='instruction-image'>
-
-- Transfer the frozen yogurt to an airtight container. Store in the freezer
+- Transfer the frozen yogurt to a wide and flat airtight container, and freeze
 - <img src='/assets/Food/Healthier Dessert/Fro Yo/container.jpg' alt='' class='instruction-image'>
 
-- Let it sit out for 15 minutes before scooping and serving
+- Every half an hour, churn the fro-yo by mixing with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Do this 6 times for a total of 3 hours
+- <img src='/assets/Food/Healthier Dessert/Fro Yo/churned.jpg' alt='' class='instruction-image'>
+
+- Store in the freezer. Let it sit out for 15 minutes before scooping and serving
 Notes:
 - |
   Unlike other <a href='/misc/calories'>zero calorie</a> sweeteners, <a href='https://amzn.to/4mzsH5p'>allulose</a> will lower the freezing point like <a href='/misc/hidden-sugar'>sugar</a> would, making the frozen yogurt less icy and more scoopable.<br><br>
