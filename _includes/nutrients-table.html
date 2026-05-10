@@ -5,7 +5,7 @@
 
 <u><font size='+2'>Foods High In {{ nutrient }}</font></u><br><br>
 
-<div class='mobile-table' style="font-size: 20px"><center>
+<div class='mobile-table' style="font-size: 20px; text-align:center;">
 
     {% for category in categories %}
 
@@ -46,15 +46,8 @@
         <div id="{{ category }}" class='table-of-contents-2'></div>
         <i><font size='+2'>{{ title }}</font></i><br>
 
-        <table>
-            <colgroup>
-                <col width="30%" />
-                <col width="25%" />
-                <col width="15%" />
-                <col width="15%" />
-                <col width="15%" />
-            </colgroup>
-
+        <div class="table-container">
+          <table class="nutrition-table">
             <thead>
                 <tr class='header'>
                 <th>Food</th>
@@ -91,31 +84,122 @@
                     {% endif %}
                 {% endfor %}
             </tbody>
-        </table>
+          </table>
+        </div>
 
-<div class="image-row">
-  <img src='{{ pic }}' alt='' class='smaller-image'>
-</div><br><br>
-<hr>
+        <div class="scroll-note" style="display:none;">
+          <i>Scroll right for more</i>
+        </div>
+
+        <div class="image-row">
+          <img src='{{ pic }}' alt='' class='smaller-image'>
+        </div>
+        <hr>
 
     {% endfor %}
 
-    <style>
-        /* Center text in all table cells */
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+      const containers = document.querySelectorAll(".table-container");
+
+      containers.forEach(container => {
+        const table = container.querySelector("table");
+        const note = container.querySelector(".scroll-note");
+
+        if (!table || !note || !note.classList.contains("scroll-note")) return;
+
+        // Ensure the table itself lives in a dedicated horizontal scroll area
+        let scrollWrapper = container.querySelector(".table-scroll");
+        if (!scrollWrapper) {
+          scrollWrapper = document.createElement("div");
+          scrollWrapper.className = "table-scroll";
+          container.insertBefore(scrollWrapper, table);
+          scrollWrapper.appendChild(table);
+        }
+
+        function checkOverflow() {
+          if (scrollWrapper.scrollWidth > scrollWrapper.clientWidth) {
+            note.style.display = "block";
+          } else {
+            note.style.display = "none";
+          }
+        }
+
+        checkOverflow();
+        window.addEventListener("resize", checkOverflow);
+      });
+
+    });
+</script>
+
+<style>
+    .scroll-note {
+        margin: 0;
+        text-align: center;
+    }
+
+    .table-container {
+        position: relative;
+        max-width: 100%;
+        gap: 0;
+    }
+
+    .table-scroll {
+        overflow-x: auto; /* Adds horizontal scrolling if needed */
+        max-width: 100%;
+        width: 100%;      /* Ensure wrapper width is constrained by viewport so overflow is detected on mobile */
+        display: block;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        table-layout: auto;
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    th, td {
+        text-align: center;
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+
+    td:first-child, th:first-child {
+        position: sticky;
+        left: 0;
+        background-color: var(--minima-table-header-bg-color);
+        z-index: 5;
+        font-weight: bold;
+    }
+
+    .image-row {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    @media (max-width: 768px) {
         table {
-            width: 100%; /* Optional: makes table take full width */
+            width: max-content;   /* only as wide as needed */
+            max-width: 100%;
         }
 
-        table th, table td {
-            text-align: center; /* Center text in table headers and cells */
-            vertical-align: middle; /* Vertically center the text */
+        .table-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
 
-    @media only screen and (max-width: 768px) {
         .mobile-table {
-        font-size: 13px !important; /* Shrink font size on mobile */
+            font-size: 13px !important; /* Shrink font size on mobile */
+        }
+
+        .scroll-note {
+            font-size: 20px !important; /* Normalize font size on mobile */
         }
     }
-    </style>
 
-</center></div>
+</style>

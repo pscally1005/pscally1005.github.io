@@ -81,17 +81,17 @@ Notes:
 
 - |
   You can alternatively use 1/2 cup (168 g) of <a href='/misc/natural-sweeteners#honey'>honey</a> instead of <a href='/misc/hidden-sugar'>brown sugar</a>.<br><br>
-  
+
   Because of the extra liquid of the <a href='/misc/natural-sweeteners#honey'>honey</a>, reduce the <a href='/misc/dairy#skim-milk'>milk</a> to 1/2 cup (120 g).<br><br>
-  
+
   The serving size for the <a href='/misc/natural-sweeteners#honey'>honey</a> variation will instead be 81 g instead of 87 g.
 
 - If you want to make it <a href='/misc/hidden-sugar'>sugar free</a>, you can use 3/4 cup (150 g) of <a href='https://amzn.to/4mzsH5p'>allulose</a> in place of <a href='/misc/hidden-sugar'>brown sugar</a>
 
 - |
   You can even use <a href='/misc/dairy#whey'>vanilla whey protein powder</a> (5 scoops, 150 g) in place of <a href='/misc/hidden-sugar'>brown sugar</a> to act as both a <a href='/misc/hidden-sugar'>sugar free</a> sweetener and adding some <a href='/misc/protein'>protein</a>.<br><br>
-  
-  You may need to let the ice cream sit on the counter for a bit longer before being able to scoop it though.
+
+  You may need to let the ice cream sit on the counter for about 5 minutes before being able to scoop it though.
 
 - |
   COMPARE(
@@ -117,9 +117,9 @@ Notes:
 
 - |
   The <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> adds about 40 <a href='/misc/calories'>calories</a> per serving of ice cream.  You can omit this to save some <a href='/misc/calories'>calories</a> if you don't need it lactose-free.<br><br>
-  
+
   Each serving will then be 77 g instead of 87 g (or 71 g instead of 81 g for the <a href='/misc/natural-sweeteners#honey'>honey</a> variation).
-  
+
 - |
   COMPARE(
     "icecreambrownsugarnolactase",

@@ -85,7 +85,10 @@ Notes:
 
   Vodka and <a href='https://amzn.to/47w8h7R'>inulin</a> are also used to help with the texture due to the lack of <a href='/misc/hidden-sugar'>sugar</a> and low amount of <a href='/misc/fats'>fat</a>. It is not recommended that you omit these
 
-- You can even use <a href='/misc/dairy#whey'>vanilla whey protein powder</a> (5 scoops, 150 g) in place of <a href='https://amzn.to/4mzsH5p'>allulose</a> to act as both a <a href='/misc/hidden-sugar'>sugar free</a> sweetener and adding some <a href='/misc/protein'>protein</a>.  You may need to let the fro-yo sit on the counter for a bit longer before being able to scoop it though
+- |
+  You can even use <a href='/misc/dairy#whey'>vanilla whey protein powder</a> (5 scoops, 150 g) in place of <a href='https://amzn.to/4mzsH5p'>allulose</a> to act as both a <a href='/misc/hidden-sugar'>sugar free</a> sweetener and adding some <a href='/misc/protein'>protein</a>.<br><br>
+
+  You may need to let the fro-yo sit on the counter for a bit longer before being able to scoop it though
 - |
   COMPARE(
     "froyoallulose",
