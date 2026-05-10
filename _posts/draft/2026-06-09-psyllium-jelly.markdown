@@ -47,7 +47,7 @@ tags:
 - psyllium husk
 - fruit juice
 - lime juice
-Description: This quick and simple jelly recipe is made in just 10 minutes, requires no cooking, and contains an astounding 8 g of <a href='/misc/fiber'>fiber</a>. There's no <a href='/misc/hidden-sugar'>added sugar</a>, and it only has 12 <a href='/misc/calories'>calories</a>. Just let <a href='https://amzn.to/3FAdvEl'>psyllium</a> thicken some <a href='/misc/fake-healthy-foods#juice'>fruit juice</a>, and serve!
+Description: This quick and simple jelly recipe is made in just 10 minutes, requires no cooking, and contains an astounding 7 g of <a href='/misc/fiber'>fiber</a>. There's no <a href='/misc/hidden-sugar'>added sugar</a>, and it only has 12 <a href='/misc/calories'>calories</a>. Just let <a href='https://amzn.to/3FAdvEl'>psyllium</a> thicken some <a href='/misc/fake-healthy-foods#juice'>fruit juice</a>, and serve!
 Instructions:
 - Mix together fruit juice, <a href='/misc/fruit#lime-juice'>lime juice</a>, and <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a> or mason jar. Let sit for 10 minutes so the <a href='https://amzn.to/3FAdvEl'>psyllium</a> thickens the juice before serving
 Notes:

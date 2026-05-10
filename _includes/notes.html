@@ -93,8 +93,10 @@
                                 {% endcomment %}
 
                                 {% assign costFlg = "false" %}
-                                {% if page.title == "Copycat Core Power Protein Milkshake" or page.title == "Copycat Barebell Protein Bars" or page.title == "Sugar Free Dubai Chocolate" or page.title == "Chocolate Covered Marzipan" or page.title == "Lactose Free No Churn Chocolate Ice Cream" %}
+                                {% if page.title == "Copycat Barebell Protein Bars" or page.title == "Chocolate Covered Marzipan" or page.title == "Lactose Free No Churn Chocolate Ice Cream" %}
                                   {% assign costFlg = "true" %}
+                                {% elsif page.title == "Sugar Free Dubai Chocolate" or page.title == "Copycat Core Power Protein Milkshake" %}
+                                  {% assign costFlg = "serving" %}
                                 {% endif %}
 
                                 {% assign massFlg = "false" %}

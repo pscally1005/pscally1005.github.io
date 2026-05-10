@@ -151,9 +151,13 @@
                 </tr>
             {% endfor %}
 
-            {% if include.cost == "true" %}
+            {% if include.cost == "true" or include.cost == "serving" %}
                 <tr>
-                    <td><a href='/misc/costs'>Cost<br>(Serving)</a></td>
+                    {% if include.cost == "true" %}
+                        <td><a href='/misc/costs'>Cost<br>(Serving)</a></td>
+                    {% else %}
+                        <td><a href='/misc/costs'>Cost</a></td>
+                    {% endif %}
 
                     {% assign loopVar = site.data[include.ing] %}
                     {% for f in files %}
@@ -164,22 +168,24 @@
                     {% endfor %}
                 </tr>
 
-                <tr>
-                    <td><a href='/misc/costs'>Cost<br>(Total)</a></td>
+                {% if include.cost == "true" %}
+                    <tr>
+                        <td><a href='/misc/costs'>Cost<br>(Total)</a></td>
 
-                    {% assign loopVar = site.data[include.ing] %}
-                    {% for f in files %}
-                        <td>
-                            {% assign ing_file = f | append: "-ing" %}
-                            {% include calcCost.html ing=ing_file total="true" %}
-                        </td>
-                    {% endfor %}
-                </tr>
+                        {% assign loopVar = site.data[include.ing] %}
+                        {% for f in files %}
+                            <td>
+                                {% assign ing_file = f | append: "-ing" %}
+                                {% include calcCost.html ing=ing_file total="true" %}
+                            </td>
+                        {% endfor %}
+                    </tr>
+                {% endif %}
             {% endif %}
 
             {% if include.mass == "true" %}
                 <tr>
-                    <td>Filling Weight</td>
+                    <td>Filling<br>Weight</td>
 
                     {% assign loopVar = site.data[include.ing] %}
                     {% for f in files %}

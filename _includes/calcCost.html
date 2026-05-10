@@ -55,19 +55,13 @@
 {% assign servingCostString = formattedServingCost | remove: ',' %}
 {% assign totalCostString = formattedtotalCost | remove: ',' %}
 
-<!-- Force two decimal places -->
-{% if servingCostString contains '.' %}
-    {% assign servingCostString = servingCostString | append: "00" | split: "." %}
-    {% assign servingCostString = servingCostString[0] | append: "." | append: servingCostString[1] | slice: 0, 4 %}
-{% else %}
-    {% assign servingCostString = servingCostString | append: ".00" %}
-{% endif %}
-{% if totalCostString contains '.' %}
-    {% assign totalCostString = totalCostString | append: "00" | split: "." %}
-    {% assign totalCostString = totalCostString[0] | append: "." | append: totalCostString[1] | slice: 0, 4 %}
-{% else %}
-    {% assign totalCostString = totalCostString | append: ".00" %}
-{% endif %}
+<!-- 2 Decimal Places -->
+{% assign servingParts = servingCostString | split: "." %}
+{% assign totalParts = totalCostString | split: "." %}
+{% assign servingDecimals = servingParts[1] | append: "00" | slice: 0, 2 %}
+{% assign totalDecimals = totalParts[1] | append: "00" | slice: 0, 2 %}
+{% assign servingCostString = servingParts[0] | append: "." | append: servingDecimals %}
+{% assign totalCostString = totalParts[0] | append: "." | append: totalDecimals %}
 
 <!-- Print cost -->
 {% if include.total == "true" %}
