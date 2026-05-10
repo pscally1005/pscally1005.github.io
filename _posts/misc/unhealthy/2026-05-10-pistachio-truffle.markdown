@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Chocolate Pistachio Truffles
-date:   2026-03-27 00:00:00 -0500
+date:   2026-05-10 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
