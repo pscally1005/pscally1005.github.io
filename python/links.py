@@ -5405,6 +5405,23 @@ LINKS = {
         "cast iron pan",
         "cast iron"
     ],
+    "https://amzn.to/4dBv5Ga": [
+        "10\" nonstick pans",
+        "10\" nonstick pan",
+        "10\" non stick pans",
+        "10\" non stick pan",
+        "10\" non-stick pans",
+        "10\" non-stick pan",
+        "10\" pans",
+        "10\" pan",
+        "10\"",
+        "medium nonstick pans",
+        "medium nonstick pan",
+        "medium non stick pans",
+        "medium non stick pan",
+        "mednium non-stick pans",
+        "medium non-stick pan"
+    ],
     "https://amzn.to/4qFE9y3": [
         "small pans",
         "small pan",
@@ -5428,11 +5445,12 @@ LINKS = {
         "dutch oven"
     ],
     "https://amzn.to/4bOh0on": [
-        "10\" pans",
-        "10\" pan",
+        # "10\" pans",
+        # "10\" pan",
+        # "10\"",
         "10\" stainless steel pans",
         "10\" stainless steel pan",
-        "10\""
+
     ],
     "https://amzn.to/4r5boL0": [
         "potato masher"
@@ -6332,6 +6350,9 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "10\" circle",
+    "1 side",
+    "crepes, wraps, sandwiches, quesadillas, or even pizza",
     "pliable wraps",
     "each wrap's batter",
     "any wrap after the",

@@ -53,7 +53,7 @@ tags:
 - carb balance
 Description: Do you know those <a href='https://amzn.to/4wdSyoe'>carb balance wraps</a>?  The ones that are low in <a href='/misc/calories'>calories</a> with a ton of <a href='/misc/fiber'>fiber</a>?  Well this is my homemade version of them. It's a crepe batter made from <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> that's extremely <a href='/misc/calories'>low calorie</a> and <a href='/misc/fiber'>high fiber</a>. This recipe makes 1 medium sized <a href='/recipes/tortilla'>tortilla</a> that contains an astounding 7 g of <a href='/misc/fiber'>fiber</a> in a measly 11 <a href='/misc/calories'>calories</a>.
 Instructions:
-- Preheat a 10" nonstick pan over medium heat with a tiny <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
+- Preheat a <a href='https://amzn.to/4dBv5Ga'>10" nonstick pan</a> over medium heat with a tiny <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, whisk together <a href='https://amzn.to/3FAdvEl'>psyllium husk</a>, salt, and baking powder. Optionally add some garlic powder and onion powder (1/2 tsp, 1.5 g, each)
 
