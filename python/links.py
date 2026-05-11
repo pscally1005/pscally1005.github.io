@@ -92,7 +92,8 @@ LINKS = {
     ],
     "/recipes/chaos-rice": [
         "italian chaos rice",
-        "chaos rice"
+        "chaos rice",
+        "brown rice risotto"
     ],
     "/recipes/lazy-rainbow-cookies": [
         "Lazy rainbow cookies",

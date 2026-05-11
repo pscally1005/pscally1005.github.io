@@ -22,7 +22,7 @@ vic: no
 permalink: /recipes/high-fiber-jelly
 image: /assets/Food/Sweet Spreads/Psyllium Jelly/cover.jpg
 file: psylliumjelly
-servingSize: 5 tbsp (75 g)
+servingSize: 6 tbsp (95 g)
 section1:
 start2:
 section2:
@@ -54,5 +54,7 @@ Notes:
 - <a href='https://www.walmart.com/ip/Mott-s-Zero-Sugar-Peach-Mango-Juice-Drink-64-Fluid-Ounce-Bottle/19162571740?classType=REGULAR&from=/search'>This</a> is the juice that I'm using. It's a zero <a href='/misc/hidden-sugar'>sugar</a> mango/peach fruit juice that's sweetened with <a href='https://amzn.to/4beiNlT'>stevia</a>, and has <a href='/misc/calories'>0 calories</a>
 - <a href='https://www.walmart.com/ip/Mott-s-Zero-Sugar-Peach-Mango-Juice-Drink-64-Fluid-Ounce-Bottle/19162571740?classType=REGULAR&from=/search'><img src='/assets/Food/Sweet Spreads/Psyllium Jelly/juice.png' alt='' class='larger-image'></a>
 
-- I'm only making 1 large serving (75 g, or 5 tbsp) of jelly today, but you can easily scale this up and store the extra in the fridge
+- I'm only making 1 large serving (6 tbsp, or 95 g) of jelly today, but you can easily scale this up and store the extra in the fridge
+
+- Optionally add 1/2 tsp (2.5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to make it a little sweeter if you like
 ---

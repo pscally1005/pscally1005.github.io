@@ -17,7 +17,7 @@ Calories,12,,
 "Folate, DFE [Vitamin B9]",0.49,mcg,0 %
 "Folate, food",0,mcg,
 "Folic acid",0,mcg,
-"Vitamin C [Ascorbic acid]",3.3,mg,4 %
+"Vitamin C [Ascorbic acid]",3.9,mg,4 %
 "Vitamin D",0,mcg,0 %
 "Vitamin E (alpha-tocopherol)",0.01,mg,0 %
 "Vitamin E, added",0,mg,
@@ -27,17 +27,17 @@ Calories,12,,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",0.3,mg,0 %
-"Calcium",26.09,mg,2 %
+"Calcium",27.89,mg,2 %
 "Copper",0.01,mg,1 %
 "Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
 "Iron",1.7,mg,9 %
-"Magnesium",1,mg,0 %
+"Magnesium",1.2,mg,0 %
 "Manganese",0.001,mg,0 %
-"Phosphorus",4.89,mg,0 %
-"Potassium",105.19,mg,2 %
+"Phosphorus",6.29,mg,1 %
+"Potassium",105.99,mg,2 %
 "Selenium",0,mcg,0 %
-"Sodium",13.1,mg,1 %
+"Sodium",14.1,mg,1 %
 "Zinc",0,mg,0 %
 "Protein",0.02,g,0 %
 "Alanine",0.001,g,
@@ -62,10 +62,10 @@ Calories,12,,
 "Valine",0.001,g,0 %
 "Phenylalanine + Tyrosine",0.001,g,0 %
 "Methionine + Cysteine",0,g,0 %
-"Carbohydrate",8.7,g,3 %
+"Carbohydrate",8.8,g,3 %
 "Fiber",7.02,g,25 %
 "Sugars",0.08,g,
-"Net carbs",1.68,g,
+"Net carbs",1.78,g,
 "Fat",0.004,g,0 %
 "Saturated fatty acids",0,g,0 %
 "Butanoic acid",0,g,
@@ -94,4 +94,4 @@ Calories,12,,
 "Alcohol, ethyl",0,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",64.11,g,
+"Water",83.99,g,
