@@ -3319,7 +3319,9 @@ LINKS = {
         "casein protein powder",
         "casein proteins",
         "casein protein",
-        "casein"
+        "casein",
+        "vanilla casein protein powder",
+        "chocolate casein protein powder"
     ],
     "/misc/dairy#cheddar": [
         "shredded cheese",
@@ -6306,6 +6308,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "keep the protein powder",
     "this is the juice",
     "mix together fruit juice",
     "thickens the juice",

@@ -107,4 +107,9 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+
+- |
+  You can also use <a href='/misc/dairy#casein'>vanilla casein protein powder</a> in place of <a href='/misc/dairy#whey'>whey</a>.  Keep the protein powder the same (2 1/2 scoops, 75 g), but increase the <a href='/misc/dairy#skim-milk'>milk</a> to 1/2 cup (120 g).<br><br>
+
+  The raw batter will be a lot thicker, since <a href='/misc/dairy#casein'>casein</a> absorbs much more liquid than <a href='/misc/dairy#whey'>whey</a>.  It also may need another few minutes of baking time
 ---
