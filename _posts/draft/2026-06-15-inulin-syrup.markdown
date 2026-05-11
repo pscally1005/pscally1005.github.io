@@ -47,14 +47,14 @@ tags:
 - syrup
 - high fiber
 - liquid monk fruit
-Description: This homemade, high fiber chicory root syrup is extremely low in calories and high in fiber, while being slightly sweet and flavored with vanilla. The secret is inulin, a soluble fiber from the chicory root that benefits gut bacteria by acting as a prebiotic. This sugar free syrup is also calorie free, and works as a less sweet substitute for honey or maple syrup.
+Description: This homemade, <a href='/misc/fiber'>high fiber</a> chicory root syrup is extremely low in <a href='/misc/calories'>calories</a> and high in <a href='/misc/fiber'>fiber</a>, while being slightly sweet and flavored with vanilla. The secret is <a href='https://amzn.to/47w8h7R'>inulin</a>, a <a href='/misc/fiber'>soluble fiber</a> from the chicory root that benefits gut bacteria by acting as a <a href='/misc/biotics'>prebiotic</a>. This <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> is also <a href='/misc/calories'>calorie</a> free, and works as a less sweet substitute for <a href='/misc/natural-sweeteners#honey'>honey</a> or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>.
 Instructions:
-- Add water to a small mason jar. Microwave for about 60 seconds, or until the water is about 150F
+- Add water to a small mason jar. Microwave for about 40 seconds, or until the water is about <a href='https://amzn.to/4kmobG2'>150F</a>
 
-- Add the inulin 1 tbsp at a time, cover, and shake to fully dissolve the inulin. Repeat until you've mixed in all the inulin
+- Add the <a href='https://amzn.to/47w8h7R'>inulin</a> 1 tbsp at a time, cover, and shake to fully dissolve the <a href='https://amzn.to/47w8h7R'>inulin</a>. Repeat until you've mixed in all the <a href='https://amzn.to/47w8h7R'>inulin</a>
 
-- Remove the lid, and microwave for 20 seconds. Add the liquid monk fruit, vanilla, and salt, and shake to fully combine
+- Remove the lid, and microwave for 20 seconds. Add the <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, vanilla, and salt, and shake to fully combine
 
-- Let the syrup rest at room temperature for at least 10 minutes before serving. Store in the fridge for up to 1 week
+- Let the <a href='/recipes/sugar-free-syrup'>syrup</a> rest at room temperature for at least 10 minutes before serving. Store in the fridge for up to 1 week, or freeze indefinitely
 Notes:
 ---
