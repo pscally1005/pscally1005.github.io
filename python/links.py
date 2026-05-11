@@ -10,6 +10,20 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/psyllium-wrap": [
+        "high fiber psyllium wraps",
+        "high fiber psyllium wrap",
+        "high fiber wraps",
+        "high fiber wrap",
+        "psyllium wraps",
+        "psyllium wrap"
+    ],
+    "/recipes/inulin-syrup": [
+        "high fiber inulin syrup",
+        "high fiber syrup",
+        "inulin syrup",
+        "chicory root syrup"
+    ],
     "/recipes/high-fiber-jelly": [
         "high fiber jelly",
         "sugar free jelly",
@@ -4961,6 +4975,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4wdSyoe": [
+        "zero net carb tortillas",
+        "zero net carb tortilla",
+        "carb balance tortillas",
+        "carb balanace tortilla",
+        "zero net carb wraps",
+        "zero net carb wrap",
+        "carb balance wraps",
+        "carb balanace wrap"
+    ],
     "https://amzn.to/4w2GB4Q": [
         "kettle and fire bone broth",
         "kettle & fire bone broth",
@@ -6308,6 +6332,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "crepe batter",
     "keep the protein powder",
     "this is the juice",
     "mix together fruit juice",
@@ -8103,7 +8128,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-06-09")):
+            if not file.startswith(("2026-06-15")):
                 continue
 
             # exclude some files
