@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Italian Chaos Rice
-date:   2026-04-21 00:00:00 -0500
+date:   2026-05-11 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
@@ -50,12 +50,14 @@ tags:
 - basil
 - risotto
 - fried rice
-Description: Here's a budget friendly, simple, and nutritious <a href='/misc/grains#brown-rice'>rice</a> dish, that falls somewhere between fried rice and risotto. This easy <a href='/recipes/sides'>side</a> uses simple pantry staples, reheats well, scales easily for meal prep, and turns out much better than you'd expect.
+Description: Wake up babe; new slop recipe just dropped.  Here's a budget friendly, simple, and nutritious <a href='/misc/grains#brown-rice'>rice</a> dish, that'd essentially a creamy <a href='/misc/grains#brown-rice'>brown rice</a> risotto. This easy <a href='/recipes/sides'>side</a> uses simple pantry staples, reheats well, scales easily for meal prep, and turns out much better than you'd expect.
 Instructions:
 - Add <a href='/misc/grains#brown-rice'>rice</a>, water, basil, salt, and black pepper to a <a href='https://amzn.to/46ccg8m'>medium pot</a>. Cover with a lid and bring to a boil. When boiling, reduce heat to low, and let the <a href='/misc/grains#brown-rice'>rice</a> simmer (covered) until all the water has been absorbed, about 45 minutes
 - <img src='/assets/Food/Meme/Chaos rice/rice.jpg' alt='' class='instruction-image'>
 
-- Remove from the heat, and add in diced tomatoes, <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, and <a href='/misc/meat#eggs'>eggs</a>. Cook over low heat, stirring constantly, until the <a href='/misc/meat#eggs'>eggs</a> are just set and creamy
-- <img src='/assets/Food/Meme/Chaos rice/pot.jpg' alt='' class='instruction-image'>
+- Remove from the heat, and add in diced tomatoes, <a href='/misc/veggies#garlic'>garlic</a>, and <a href='/misc/dairy#grated-cheese'>grated cheese</a>.  Stir until fully combined
+- <img src='/assets/Food/Meme/Chaos rice/tomatoes.jpg' alt='' class='instruction-image'>
+
+- Crack in your <a href='/misc/meat#eggs'>eggs</a>, and beat with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>.  Return the pot to the heat over medium, and cook with frequent stirring, until set and creamy, about 5-10 minutes
 Notes:
 ---
