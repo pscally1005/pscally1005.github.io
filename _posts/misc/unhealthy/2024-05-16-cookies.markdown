@@ -66,7 +66,7 @@ Notes:
 
 - I typically use vanilla extract, but almond extract is also great in these <a href='/cookies'>cookies</a>.  Or, consider using mint extract for mint chocolate chip <a href='/cookies'>cookies</a>.  Mint is much stronger though; don't use any more than 1/4 tsp
 
-- If you're like me and typically only have <a href='/misc/grains#whole-wheat'>whole wheat flour</a> handy (instead of <a href='/misc/grains#white-wheat'>white flour</a>), use 215 g instead of 240 g (just under 2 cups), since <a href='/misc/grains#whole-wheat'>whole wheat flour</a> absorbs more water than <a href='/misc/grains#white-wheat'>all purpose</a>
+- If you're like me and typically only have <a href='/misc/grains#whole-wheat'>whole wheat flour</a> handy (instead of <a href='/misc/grains#white-wheat'>white flour</a>), use 215 g instead of 240 g (just under 2 cups), since <a href='/misc/grains#whole-wheat'>whole wheat flour</a> <a href='/misc/water-absorption'>absorbs more water</a> than <a href='/misc/grains#white-wheat'>all purpose</a>
 
 - If you want to make the <a href='/cookies'>cookies</a> <a href='/misc/celiac'>gluten free</a>, just replace the <a href='/misc/grains#white-wheat'>all purpose flour</a> (2 cups, 240 g) with 1.5 cups (180 g) <a href='/misc/grains#oats'>oat</a>, <a href='/misc/nuts#almonds'>almond</a>, or <a href='/misc/grains#millet'>millet flour</a>, and 1/2 cup (60 g) cornstarch
 

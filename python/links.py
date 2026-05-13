@@ -5645,7 +5645,13 @@ LINKS = {
         "flour replacement",
         "flour alternative",
         "alternative flour",
-        "flour substitute"
+        "flour substitute",
+        "water absorption of different flours",
+        "water absorption",
+        "absorbs much more liquid",
+        "absorbs more liquid",
+        "absorbs much more water",
+        "absorbs more water"
     ],
 
     # FOOD SECTIONS
