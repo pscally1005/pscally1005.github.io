@@ -10,6 +10,12 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/fiber-protein-bar": [
+        "high fiber protein bars",
+        "fiber protein bars",
+        "high fiber protein bar",
+        "fiber protein bar"
+    ],
     "/recipes/psyllium-wrap": [
         "high fiber psyllium wraps",
         "high fiber psyllium wrap",
@@ -22,7 +28,8 @@ LINKS = {
         "high fiber inulin syrup",
         "high fiber syrup",
         "inulin syrup",
-        "chicory root syrup"
+        "chicory root syrup",
+        "fiber syrup"
     ],
     "/recipes/high-fiber-jelly": [
         "high fiber jelly",

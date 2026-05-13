@@ -3,6 +3,7 @@ Water,water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 "Water, warm",water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Beer, room temperature",beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Beer,beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
+"Fruit juice, sugar free",fruit-juice-sugar-free,3.74,"1,920.00",0.00195,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/Mott-s-Zero-Sugar-Peach-Mango-Juice-Drink-64-Fluid-Ounce-Bottle/19162571740?classType=REGULAR&from=/search
 White cooking wine,white-wine,3.48,366.80,0.00949,15,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Aquafaba, or water",aquafaba,0.00,1.00,0.00000,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Aquafaba,aquafaba,0.86,255.00,0.00337,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -246,7 +247,7 @@ Date sugar,date-sugar,8.98,396.20,0.02267,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,67.0,
 Date syrup,date-syrup,9.98,679.20,0.01469,47,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,69.0,0.0,0.0,0.0,0,40,
 Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45wOzIv
 Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
-Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06981,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
+Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06942,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
 Buttermilk,buttermilk,2.23,"1,000.00",0.00223,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,0,
 Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,
 Almond milk,almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
@@ -494,12 +495,12 @@ Citric acid,citric-acid,19.99,"2,270.00",0.00881,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Nutricost Electrolyte Mix,electrolyte-mix,17.95,341.00,0.05264,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FxWcDZ
 Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4layTR1
 Inulin,inulin,49.99,"1,816.00",0.02753,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,https://amzn.to/47w8h7R
-Chicken bouillon powder,bouillon-powder,5.98,896.00,0.00194,41,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hco5lz
-Bouillon powder,bouillon-powder,5.98,896.00,0.00194,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+High Fiber Inulin Syrup,inulin-syrup,1.74,160.00,0.01088,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,/recipes/inulin-syrup
+Chicken bouillon powder,bouillon-powder,5.98,896.00,0.00667,41,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hco5lz
+Bouillon powder,bouillon-powder,5.98,896.00,0.00667,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Low sodium chicken broth,chicken-broth,0.69,454.00,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Chicken bone broth,bone-broth,1.37,905.60,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 Broth,bone-broth,1.37,905.60,0.00151,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3QlrH9q
-"Fruit juice, sugar free",fruit-juice-sugar-free,3.74,"1,920.00",0.00195,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/Mott-s-Zero-Sugar-Peach-Mango-Juice-Drink-64-Fluid-Ounce-Bottle/19162571740?classType=REGULAR&from=/search

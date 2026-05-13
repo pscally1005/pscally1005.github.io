@@ -176,6 +176,8 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "inulin-syrup":
+        f = "High Fiber Inulin Syrup"
     elif food == "Fruit juice drink, diet":
         f = "Fruit juice, sugar free"
     elif food == "Frostings, ready-to-eat, creamy, vanilla":
@@ -344,7 +346,7 @@ def ingredients(food):
     elif food == "Unflavored Casein Protein Powder by PROMIX" or food == "Nutricost Casein Unflavored Protein Powder":
         f = "Casein protein powder, unflavored"
     elif food == "Levels Vanilla Casein Protein Powder":
-        f = "Whey protein powder, vanilla"
+        f = "Casein protein powder, vanilla"
     elif food == "Yogurt, Greek, nonfat milk, plain" or food == "Plain nonfat greek yogurt by Foodtown, Inc." or food == "Yogurt, nonfat, plain, Greek" or food == "Yogurt, plain, nonfat milk" or food == "Yogurt, plain, nonfat milk, Greek" or food == "Plain greek nonfat yogurt by NOSTIMO":
         f = "Plain nonfat greek yogurt"
     elif food == "Yogurt, whole milk, plain, Greek":
