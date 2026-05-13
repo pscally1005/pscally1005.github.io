@@ -3,6 +3,6 @@ layout: home
 title: Nutrition
 categories: Misc.
 permalink: /misc/nutrition
-image: /assets/Category Photos with Labels/Nutrition.jpg
+image: /assets/Category Photos with Labels/NutritionNew.png
 Description: Nutrition
 ---
