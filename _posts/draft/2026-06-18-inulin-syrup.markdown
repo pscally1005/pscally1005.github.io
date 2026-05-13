@@ -57,7 +57,7 @@ Instructions:
 
 - Let the syrup rest at room temperature for at least 10 minutes before serving. Store in the fridge for up to 1 week, or freeze indefinitely
 Notes:
--  You can use this fiber syrup as a 1:1 alternative for honey, maple syrup, or sugar free syrup
+-  You can use this fiber syrup as a 1:1 alternative for <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 
-- For a specific recipe with this high fiber inulin syrup, check out my High Fiber Protein Bar!
+- For a specific recipe with this high fiber inulin syrup, check out my <a href='/recipes/fiber-protein-bar'>High Fiber Protein Bar</a>!
 ---

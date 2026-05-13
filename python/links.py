@@ -5051,7 +5051,7 @@ LINKS = {
         "cooking gloves",
         "kitchen gloves",
         "cooking glove",
-        "kitchen gloves"
+        "kitchen glove"
     ],
     "https://amzn.to/4bu23Gx": [
         "manuka honey",

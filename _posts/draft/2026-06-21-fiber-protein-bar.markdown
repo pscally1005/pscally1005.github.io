@@ -50,15 +50,18 @@ tags:
 - fiber
 - protein bar
 - travel
-Description: Finding a protein bar with a lot of fiber, no added sugar, and that doesn't cost an arm and a leg is like finding a hay in the needle stack. Using my new homemade high fiber syrup and some vanilla casein protein powder, I made a high protein and fiber dough perfect for 1 protein bar. For just 123 calories, this protein bar has an astounding 25 g of protein and 15 g of fiber. Pair this with some nuts for some healthy fats, and you have the perfect filling snack!
+Description: |
+  Finding a protein bar with a lot of <a href='/misc/fiber'>fiber</a>, no <a href='/misc/hidden-sugar'>added sugar</a>, and that doesn't cost an arm and a leg is like finding a hay in the needle stack. Using my new homemade <a href='/recipes/inulin-syrup'>high fiber syrup</a> and some <a href='/misc/dairy#casein'>vanilla casein protein powder</a>, I made a <a href='/misc/high-protein'>high protein</a> and <a href='/misc/fiber'>fiber</a> dough perfect for 1 protein bar.<br><br>
+
+  For just 123 <a href='/misc/calories'>calories</a>, this protein bar has an astounding 25 g of <a href='/misc/protein'>protein</a> and 15 g of <a href='/misc/fiber'>fiber</a>. Pair this with some <a href='/misc/nuts'>nuts</a> for some <a href='/misc/fats'>healthy fats</a>, and you have the perfect filling snack!
 Instructions:
-- Add fiber syrup, casein, water, vanilla, and cinnamon to a medium bowl. Wearing a kitchen glove, massage the dough with your hand to fully mix
+- Add <a href='/recipes/inulin-syrup'>fiber syrup</a>, <a href='/misc/dairy#casein'>casein</a>, water, vanilla, and cinnamon to a <a href='https://amzn.to/4adxMft'>medium bowl</a>. Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, massage the dough with your hand to fully mix
 - <img src='/assets/Food/Protein Powder/Fiber Protein Bar/bowl.jpg' alt='' class='instruction-image'>
 
 - Shape the dough into a protein bar
 - <img src='/assets/Food/Protein Powder/Fiber Protein Bar/bar.jpg' alt='' class='instruction-image'>
 
-- Lightly coat the outside with cocoa powder. Store in the fridge or freezer
+- Lightly coat the outside with <a href='/misc/chocolate-benefits'>cocoa powder</a>. Store in the fridge or freezer
 - <img src='/assets/Food/Protein Powder/Fiber Protein Bar/coat.jpg' alt='' class='instruction-image'>
 Notes:
 - I'm making just 1 protein bar today, but you can easily scale this up and store a batch in the freezer
