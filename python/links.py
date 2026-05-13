@@ -6350,6 +6350,10 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "1 medium sized tortilla",
+    "tortilla or crepe",
+    "this sugar free syrup is also",
+    "let the syrup rest at room temperature",
     "10\" circle",
     "1 side",
     "crepes, wraps, sandwiches, quesadillas, or even pizza",
