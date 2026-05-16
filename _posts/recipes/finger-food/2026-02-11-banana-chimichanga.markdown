@@ -21,7 +21,7 @@ vic: yes
 permalink: /recipes/banana-chimichanga
 image: /assets/Food/Finger Food/Banana chimichanga/cover.jpg
 file: bananachimichanga
-servingSize: 1/2 chimichanga
+servingSize:
 section1: Step 1
 start2: Whole wheat tortilla
 section2: Step 2
@@ -52,7 +52,8 @@ tags:
 - warm
 - dessert
 - vic
-Description: Here's a simple and <a href='/recipes/healthier-dessert'>healthy dessert</a> that you can whip up in just 10 minutes. It has <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#peanuts'>peanut butter</a>, natural sweetness from the <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>, and extra flavor from the cinnamon. All brought together with a humble <a href='/misc/grains#whole-wheat'>whole wheat</a> tortilla to make a delicious warm <a href='/recipes/healthier-dessert'>dessert</a> for you and a partner. This also goes great with a scoop of <a href='/recipes/nice-cream'>banana ice cream</a> on top for a nice warm and cold contrast.
+- high fiber psyllium wrap
+Description: Here's a simple and <a href='/recipes/healthier-dessert'>healthy dessert</a> that you can whip up in just 10 minutes. It has <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/nuts#peanuts'>peanut butter</a>, natural sweetness from the <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>, and extra flavor from the cinnamon. All brought together with a humble <a href='/misc/grains#whole-wheat'>whole wheat</a> tortilla to make a delicious warm <a href='/recipes/healthier-dessert'>dessert</a> for you or to split with a partner. This also goes great with a scoop of <a href='/recipes/nice-cream'>banana ice cream</a> on top for a nice warm and cold contrast.
 Instructions:
 - Preheat a medium pan over medium heat with <a href='/misc/olive-oil'>oil</a>
 
@@ -64,13 +65,17 @@ Instructions:
 Notes:
 - For a <a href='/misc/celiac'>gluten free</a> and higher <a href='/misc/protein'>protein</a> version, swap the <a href='/recipes/tortilla'>whole wheat tortilla</a> for a <a href='/recipes/cottage-cheese-flatbread'>Cottage Cheese Flatbread</a>
 
+- For a lower <a href='/misc/calories'>calorie</a> and higher <a href='/misc/fiber'>fiber</a> version, swap the <a href='/recipes/tortilla'>whole wheat tortilla</a> for a <a href='/recipes/psyllium-wrap'>High Fiber Psyllium Wrap</a>
+
 - |
   COMPARE(
     "bananachimichanga",
-    "bananachimichangaprotein";
+    "bananachimichangaprotein",
+    "bananachimichangapsyllium";
 
     "With<br><a href='#recipe'>Whole<br>Wheat<br>Tortilla</a>",
-    "With<br><a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese<br>Flatbread";
+    "With<br><a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese<br>Flatbread",
+    "With<br><a href='/recipes/psyllium-wrap'>Psyllium<br>Wrap";
 
     "Calories",
     "Protein",

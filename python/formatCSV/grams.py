@@ -570,7 +570,7 @@ def grams(food, mass, vol):
         elif vol == "4 tbsp":
             m = "32"
 
-    elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread":
+    elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread" or food == "High Fiber Psyllium Wrap":
         if vol == "1 medium" or vol == "1 serving":
             m = "45"
         elif vol == "2 medium" or vol == "2 serving":

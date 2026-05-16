@@ -648,6 +648,8 @@ def ingredients(food):
         f = "Sourdough Discard Flatbread"
     elif food == "cc-flatbread-white-psyllium":
         f = "Cottage cheese flatbread"
+    elif food == "psyllium-wrap":
+        f = "High Fiber Psyllium Wrap"
     elif food == "tortillas" or food == "Whole wheat protein tortillas by La Tortilla Factory Inc":
         f = "Whole wheat tortilla"
     elif food == "Bread, whole wheat" or food == "ww-bread":

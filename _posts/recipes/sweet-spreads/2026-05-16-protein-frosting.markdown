@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Protein Frosting Recipe
-date:   2026-04-15 00:00:00 -0500
+date:   2026-05-16 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

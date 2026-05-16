@@ -65,7 +65,7 @@ Instructions:
 - Over medium heat, cook on only 1 side for about 5 minutes, or until the bubbling stops and edges and center look set
 - <img src='/assets/Food/Bread/Psyllium wrap/cooking.jpg' alt='' class='instruction-image'>
 
-- Carefully remove to a plate using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Remove the pan from the heat.  Wait about 5 minutes for the wrap and pan to cool, and carefully peel the wrap off the pan with your hands
 - <img src='/assets/Food/Bread/Psyllium wrap/empty.jpg' alt='' class='instruction-image'>
 Notes:
 - Alternatively, you can bake for 30 minutes in a preheated 350F oven

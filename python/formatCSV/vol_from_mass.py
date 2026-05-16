@@ -496,7 +496,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 batch, 3 cup"
 
     # Cottage cheese flatbread
-    elif food == "Cottage cheese flatbread":
+    elif food == "Cottage cheese flatbread" or food == "High Fiber Psyllium Wrap":
         if mass == "45":
             v = "1 medium"
         elif mass == "90":
