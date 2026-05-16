@@ -4846,7 +4846,9 @@ LINKS = {
         "starches",
         "starchy",
         "starch",
-        "Carbs: The Devil in Disguise?"
+        "Carbs: The Devil in Disguise?",
+        "complex starches",
+        "complex starch"
     ],
     "/misc/fats": [
         "Fat: The Innocent Criminal?",
@@ -5858,7 +5860,8 @@ LINKS = {
         "meatless meals",
         "meatless meal",
         "vegetarian meals",
-        "vegetarian meal"
+        "vegetarian meal",
+        "vegetarian"
     ],
     "/recipes/meme": [
         "meme recipes",
@@ -6377,6 +6380,11 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "1 dessert",
+    "double chocolate",
+    "cookie is set",
+    "chocolate is melty",
+    "one dessert",
     "1 medium sized tortilla",
     "tortilla or crepe",
     "this sugar free syrup is also",

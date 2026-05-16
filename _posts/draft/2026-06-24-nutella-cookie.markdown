@@ -46,17 +46,17 @@ tags:
 - cookie
 - chocolate chips
 - brown sugar
-Description: Sometimes you only want 1 dessert. This Nutella cookie is a double chocolate variation of my Just One Cookie recipe, using Nutella and brown sugar in place of cashew butter and granulated monk fruit. Perfect for those days you're craving a traditional dessert, but don't want a whole tray of cookies to indulge on.
+Description: Sometimes you only want 1 dessert. This Nutella cookie is a double chocolate variation of my <a href='/recipes/just-one-cookie'>Just One Cookie</a> recipe, using <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> and <a href='/misc/hidden-sugar'>brown sugar</a> in place of <a href='/misc/nuts#cashews'>cashew butter</a> and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>. Perfect for those days you're craving a traditional dessert, but don't want a whole tray of <a href='/cookies'>cookies</a> to indulge on.
 Instructions:
-- Preheat your air fryer to 300F. Prepare a small piece of parchment paper
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F. Prepare a small piece of parchment paper
 
-- In a small bowl, mix together your Nutella, sugar, and vanilla extract with half your chocolate chips
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together your <a href='/misc/fake-healthy-foods#nutella'>Nutella</a>, <a href='/misc/hidden-sugar'>sugar</a>, and vanilla extract with half your chocolate chips
 - <img src='/assets/Misc/Unhealthy/Nutella Cookie/bowl.jpg' alt='' class='instruction-image'>
 
 - Press the dough into a thin circle. Top with your remaining chocolate chips
 - <img src='/assets/Misc/Unhealthy/Nutella Cookie/raw.jpg' alt='' class='instruction-image'>
 
-- Air fry at 300F for about 10 minutes, or until the cookie is set and the chocolate is melty
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for about 10 minutes, or until the cookie is set and the chocolate is melty
 - <img src='/assets/Misc/Unhealthy/Nutella Cookie/baked.jpg' alt='' class='instruction-image'>
 Notes:
 ---

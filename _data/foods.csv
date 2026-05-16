@@ -3,7 +3,7 @@ Water,water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,
 "Water, warm",water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Beer, room temperature",beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Beer,beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
-"Fruit juice, sugar free",fruit-juice-sugar-free,3.74,"1,920.00",0.00195,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/Mott-s-Zero-Sugar-Peach-Mango-Juice-Drink-64-Fluid-Ounce-Bottle/19162571740?classType=REGULAR&from=/search
+"Fruit juice, sugar free",fruit-juice-sugar-free,3.74,"1,920.00",0.00195,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4dnIjFi
 White cooking wine,white-wine,3.48,366.80,0.00949,15,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Aquafaba, or water",aquafaba,0.00,1.00,0.00000,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Aquafaba,aquafaba,0.86,255.00,0.00337,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -52,7 +52,7 @@ White vinegar,white-vinegar,3.74,"3,780.00",0.00099,0,TRUE,TRUE,TRUE,TRUE,TRUE,T
 "White vinegar, or apple cider vinegar",white-vinegar,3.74,"3,780.00",0.00099,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Apple cider vinegar,acv,2.32,896.00,0.00259,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Balsamic vinegar,balsamic,3.92,236.60,0.01657,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Ken's Balsamic Vinaigrette,kens-balsamic,3.34,480.00,0.00696,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.5,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/Ken-s-Steak-House-Balsamic-Vinaigrette-Salad-Dressings-16-fl-oz/10307556?classType=VARIANT&from=/search
+Ken's Balsamic Vinaigrette,kens-balsamic,3.34,480.00,0.00696,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.5,0.0,0.0,0.0,0,0,https://amzn.to/4uhMXvT
 "Rice vinegar, unsweetened",white-vinegar,2.92,360.00,0.00811,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,https://amzn.to/43hdvlT
 Red wine vinegar,red-wine-vinegar,2.84,480.00,0.00592,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Vital wheat gluten,vital-wheat-gluten,23.74,"1,816.00",0.01307,51,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,100,15,https://amzn.to/4kgguB9
@@ -257,7 +257,7 @@ Unsweetened vanilla almond milk,almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,
 "Unsweetened almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 "Unsweetened vanilla almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Skim milk,skim-milk,2.69,"3,904.00",0.00069,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.9,0,0,
-Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz/43984342?classType=REGULAR&athbdg=L1600&from=/search
+Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4wEmIBw
 Evaporated milk,evaporated-milk,1.22,339.60,0.00359,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/44QEaHo
 Fat free evaporated milk,evaporated-milk-skim,1.22,339.60,0.00359,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/3Zrz019
 "Coconut milk, full fat",coconut-milk,1.50,405.00,0.00370,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4kZIRo6
@@ -358,7 +358,7 @@ Sugar free cranberry sauce,cranberry-sauce,5.23,600.00,0.00872,43,TRUE,TRUE,TRUE
 Low sugar berry jam,jam-low-sugar,3.12,364.00,0.00857,38,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,40,/recipes/berry-jam
 Fat free Italian dressing,italian-dressing,2.68,360.00,0.00744,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Italian dressing,italian-dressing,2.68,360.00,0.00744,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
-Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,0,https://www.walmart.com/ip/Great-Value-Traditional-Italian-Salad-Dressing-Marinade-16-fl-oz/42408881?classType=VARIANT&athbdg=L1200&from=/search
+Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,0,https://amzn.to/4ddXZw7
 Unsweetened BBQ Sauce,bbq-sauce-homemade,1.52,518.00,0.00293,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/bbq-sauce
 Unsweetened BBQ sauce,bbq-sauce-homemade,1.52,518.00,0.00293,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/bbq-sauce
 Date Sweetened Ketchup,ketchup-date,1.94,400.00,0.00485,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/ketchup
@@ -446,7 +446,7 @@ Pistachios,pistachios,9.98,672.00,0.01485,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,
 Pistachio butter,pistachios,9.98,672.00,0.01485,18,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Hazelnuts,hazelnuts,3.49,196.00,0.01781,15,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Tahini,sesame-seeds,3.99,454.00,0.00879,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
-Nutella,classic-nutella,4.97,367.90,0.01351,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,4.0,0,15,https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search
+Nutella,classic-nutella,4.97,367.90,0.01351,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,4.0,0,15,https://amzn.to/48ZvAra
 Single Serving Quick Nutella,quick-nutella-100g,0.49,54.00,0.00907,37,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/quick-nutella
 "Tahini, or any other nut/seed butter",sesame-seeds,3.99,454.00,0.00879,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Cashews,cashews,9.74,764.10,0.01275,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
