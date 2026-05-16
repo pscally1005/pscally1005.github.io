@@ -18,12 +18,13 @@ from dataclasses import dataclass
 from datetime import date
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from html import escape
 from pathlib import Path
 
 import yfinance as yf
 from dotenv import load_dotenv
 
-from tickers import all_index_tickers
+from tickers import all_index_names, all_index_tickers
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 BATCH_SIZE = 40
@@ -32,10 +33,10 @@ BATCH_SIZE = 40
 @dataclass
 class StockExtreme:
     symbol: str
+    name: str
     price: float
     extreme: float
     pct_from_extreme: float
-    index_tags: str
 
 
 def load_config() -> dict[str, str]:
@@ -67,6 +68,7 @@ def load_config() -> dict[str, str]:
 
 def scan_tickers(
     symbols: list[str],
+    names: dict[str, str],
     tolerance_pct: float,
 ) -> tuple[list[StockExtreme], list[StockExtreme], list[str]]:
     """Return (at_high, at_low, failed_symbols)."""
@@ -126,15 +128,16 @@ def scan_tickers(
                 high_threshold = high_52 * (1 - tolerance_pct / 100)
                 low_threshold = low_52 * (1 + tolerance_pct / 100)
 
+                company = names.get(symbol, symbol)
                 if price >= high_threshold:
                     pct = (price / high_52 - 1) * 100
                     at_high.append(
-                        StockExtreme(symbol, price, high_52, pct, "")
+                        StockExtreme(symbol, company, price, high_52, pct)
                     )
                 elif price <= low_threshold:
                     pct = (price / low_52 - 1) * 100
                     at_low.append(
-                        StockExtreme(symbol, price, low_52, pct, "")
+                        StockExtreme(symbol, company, price, low_52, pct)
                     )
             except Exception:
                 failed.append(symbol)
@@ -149,14 +152,15 @@ def format_table(rows: list[StockExtreme], kind: str) -> str:
         return f"<p><em>No stocks at 52-week {kind}.</em></p>"
 
     header = (
-        "<tr><th>Symbol</th><th>Last price</th>"
+        "<tr><th>Symbol</th><th>Company</th><th>Last price</th>"
         f"<th>52-week {kind}</th><th>vs extreme</th></tr>"
     )
     body = []
     for row in rows:
         body.append(
             "<tr>"
-            f"<td>{row.symbol}</td>"
+            f"<td>{escape(row.symbol)}</td>"
+            f"<td>{escape(row.name)}</td>"
             f"<td>${row.price:,.2f}</td>"
             f"<td>${row.extreme:,.2f}</td>"
             f"<td>{row.pct_from_extreme:+.2f}%</td>"
@@ -223,14 +227,14 @@ def build_plain(
     ]
     for row in at_high:
         lines.append(
-            f"  {row.symbol}: ${row.price:,.2f} "
+            f"  {row.symbol} ({row.name}): ${row.price:,.2f} "
             f"(high ${row.extreme:,.2f}, {row.pct_from_extreme:+.2f}%)"
         )
     lines.append("")
     lines.append(f"AT 52-WEEK LOWS ({len(at_low)})")
     for row in at_low:
         lines.append(
-            f"  {row.symbol}: ${row.price:,.2f} "
+            f"  {row.symbol} ({row.name}): ${row.price:,.2f} "
             f"(low ${row.extreme:,.2f}, {row.pct_from_extreme:+.2f}%)"
         )
     return "\n".join(lines)
@@ -269,7 +273,8 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    print("Loading index constituents from Wikipedia...")
+    print("Loading index constituents...")
+    names = all_index_names()
     symbols = all_index_tickers()
     if args.limit > 0:
         symbols = symbols[: args.limit]
@@ -282,7 +287,7 @@ def main() -> int:
     else:
         tolerance = float(os.getenv("TOLERANCE_PCT", "0.5"))
 
-    at_high, at_low, failed = scan_tickers(symbols, tolerance)
+    at_high, at_low, failed = scan_tickers(symbols, names, tolerance)
     print(
         f"Done: {len(at_high)} at highs, {len(at_low)} at lows, "
         f"{len(failed)} fetch failures."
