@@ -26,7 +26,6 @@
 
 <div class='table-container'>
     <div class="table-scroll">
-    <center>
     <table>
         <thead>
             <tr>
@@ -198,7 +197,6 @@
             {% endif %}
         </tbody>
     </table>
-    </center>
     </div>
 
     {% if include.scroll and scroll == "true" %}
@@ -236,15 +234,17 @@
         }
 
         function checkOverflow() {
-          if (scrollWrapper.scrollWidth > scrollWrapper.clientWidth) {
-            note.style.display = "block";
-          } else {
-            note.style.display = "none";
-          }
+          const canScroll =
+            scrollWrapper.scrollWidth > scrollWrapper.clientWidth + 1 ||
+            table.scrollWidth > scrollWrapper.clientWidth + 1;
+          note.style.display = canScroll ? "block" : "none";
         }
 
         checkOverflow();
         window.addEventListener("resize", checkOverflow);
+        if (typeof ResizeObserver !== "undefined") {
+          new ResizeObserver(checkOverflow).observe(scrollWrapper);
+        }
       });
 
     });
@@ -267,6 +267,13 @@
         max-width: 100%;
         width: 100%;      /* Ensure wrapper width is constrained by viewport so overflow is detected on mobile */
         display: block;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    /* Keep table layout intact; site-wide mobile rules set display:block + overflow on tables */
+    .table-container .table-scroll table {
+        display: table;
+        overflow: visible;
     }
 
     table {
@@ -294,13 +301,23 @@
     @media (max-width: 768px) {
         table {
             width: max-content;   /* only as wide as needed */
-            max-width: 100%;
+            max-width: none;
         }
 
         .table-container {
             display: flex;
             flex-direction: column;
-            align-items: center;
+            align-items: stretch;
+            width: 100%;
+        }
+
+        .table-scroll {
+            min-width: 0; /* allow flex child to shrink so overflow is measurable */
+        }
+
+        .table-container .table-scroll table {
+            margin-left: auto;
+            margin-right: auto;
         }
     }
 </style>

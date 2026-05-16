@@ -1151,14 +1151,6 @@ img {
   margin-right: 10px; /* Adjust this value for the desired gap */
 }
 
-// Ensure scroll note is always visible on mobile
-@media only screen and (max-width: 768px) {
-  .scroll-note {
-    display: block !important;
-    text-align: center;
-  }
-}
-
 // Printing
 @media print {
   /* Hide elements not needed in the printed version */
