@@ -24,6 +24,7 @@ Cooked black beans,black-bean-drained,0.86,255.00,0.00337,30,TRUE,TRUE,TRUE,TRUE
 "Kidney beans, NOT drained or rinsed",kidney-whole,0.86,439.00,0.00196,14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Navy beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Navy beans, lightly drained",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+"Navy beans, NOT drained or rinsed",kidney-whole,0.86,439.00,0.00196,14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Great northern beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Cooked navy beans,kidney-drained,0.86,255.00,0.00337,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Cannellini beans, drained and rinsed",kidney-drained,0.86,255.00,0.00337,31,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,

@@ -97,7 +97,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 batch"
 
     # NOT drained and rinsed beans
-    elif food == "Chickpeas, NOT drained or rinsed" or food == "Black beans, NOT drained or rinsed" or food == "Kidney beans, NOT drained or rinsed" or food == "Pinto beans, NOT drained or rinsed" or food == "Cannellini beans, NOT drained or rinsed" or food == "Great northern beans, NOT drained or rinsed" or food == "Navy beans, NOT drained or rinsed" or food == "Beans, NOT drained or rinsed":
+    elif food == "Chickpeas, NOT drained or rinsed" or food == "Black beans, NOT drained or rinsed" or food == "Kidney beans, NOT drained or rinsed" or food == "Pinto beans, NOT drained or rinsed" or food == "Cannellini beans, NOT drained or rinsed" or food == "Great northern beans, NOT drained or rinsed" or food == "Navy beans, NOT drained or rinsed" or food == "Beans, NOT drained or rinsed" or food == "Navy beans, NOT drained or rinsed":
         if mass == "440":
           v = "15.5 oz can"
         elif mass == "220":
@@ -869,7 +869,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 cup"
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella":
         if mass == "5" or mass == "6":
             v = "1 tsp"
         elif mass == "8":

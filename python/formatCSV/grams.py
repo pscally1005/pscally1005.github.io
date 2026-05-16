@@ -38,7 +38,7 @@ def grams(food, mass, vol):
             m = "1260"
 
     # NOT drained and rinsed beans
-    elif food == "Chickpeas, NOT drained or rinsed" or food == "Black beans, NOT drained or rinsed" or food == "Kidney beans, NOT drained or rinsed" or food == "Pinto beans, NOT drained or rinsed" or food == "Cannellini beans, NOT drained or rinsed" or food == "Great northern beans, NOT drained or rinsed" or food == "Navy beans, NOT drained or rinsed" or food == "Beans, NOT drained or rinsed":
+    elif food == "Chickpeas, NOT drained or rinsed" or food == "Black beans, NOT drained or rinsed" or food == "Kidney beans, NOT drained or rinsed" or food == "Pinto beans, NOT drained or rinsed" or food == "Cannellini beans, NOT drained or rinsed" or food == "Great northern beans, NOT drained or rinsed" or food == "Navy beans, NOT drained or rinsed" or food == "Beans, NOT drained or rinsed" or food == "Navy beans, NOT drained or rinsed":
         if vol == "15.5 oz can" or vol == "1 x 15.5 oz can" or vol == "15.5 oz":
             m = "440"
         elif vol == "1/2 x 15.5 oz can" or vol == "7.75 oz can" or vol == "1/2 15.5 oz can":
@@ -920,7 +920,7 @@ def grams(food, mass, vol):
             m = "304"
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella":
         if vol == "1 tsp":
             m = "6"
         elif vol == "1/2 tbsp":

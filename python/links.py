@@ -10,6 +10,18 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/nutella-cookie": [
+        "single serving nutella cookie",
+        "nutella cookie"
+    ],
+    "/recipes/pizza-beans": [
+        "quick and easy pizza beans with spinach",
+        "quick & easy pizza beans with spinach",
+        "quick and easy pizza beans",
+        "quick & easy pizza beans",
+        "pizza beans with spinach",
+        "pizza beans"
+    ],
     "/recipes/fiber-protein-bar": [
         "high fiber protein bars",
         "fiber protein bars",
@@ -3284,7 +3296,9 @@ LINKS = {
     "/misc/beans#navy-beans": [
         "navy beans",
         "navy bean",
-        "navy"
+        "navy",
+        "white beans",
+        "white bean"
     ],
     "/misc/beans#pink-beans": [
         "pink beans",
@@ -8169,7 +8183,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-06-18")):
+            if not file.startswith(("2026-06-24")):
                 continue
 
             # exclude some files
