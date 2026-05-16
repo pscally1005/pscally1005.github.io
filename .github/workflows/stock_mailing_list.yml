@@ -1,0 +1,55 @@
+# Updates python/stocks/subscribers.json when someone subscribes or unsubscribes.
+# Triggered by Google Apps Script (see python/stocks/google_apps_script/Code.gs).
+#
+# Required secret: MAILING_LIST_WEBHOOK_SECRET (same value as in Apps Script)
+
+name: Stock report mailing list
+
+on:
+  repository_dispatch:
+    types: [stock_subscribe, stock_unsubscribe]
+
+permissions:
+  contents: write
+
+jobs:
+  update-subscribers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify webhook secret
+        env:
+          EXPECTED: ${{ secrets.MAILING_LIST_WEBHOOK_SECRET }}
+          RECEIVED: ${{ github.event.client_payload.secret }}
+        run: |
+          if [ -z "$EXPECTED" ]; then
+            echo "MAILING_LIST_WEBHOOK_SECRET is not configured."
+            exit 1
+          fi
+          if [ "$RECEIVED" != "$EXPECTED" ]; then
+            echo "Invalid webhook secret."
+            exit 1
+          fi
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update subscribers
+        working-directory: python/stocks
+        run: |
+          if [ "${{ github.event.action }}" = "stock_subscribe" ]; then
+            python manage_subscribers.py subscribe --email "${{ github.event.client_payload.email }}"
+          else
+            python manage_subscribers.py unsubscribe --token "${{ github.event.client_payload.token }}"
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet python/stocks/subscribers.json; then
+            echo "No changes to subscribers.json"
+            exit 0
+          fi
+          git add python/stocks/subscribers.json
+          git commit -m "Update stock report mailing list [skip ci]"
+          git push

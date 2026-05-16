@@ -12,4 +12,18 @@ image: /assets/Misc/Other/stonks.jpg
 tags:
 - stocks
 ---
+This is a script that emails you at <strong>7:00 AM US Eastern</strong>, <strong>Monday through Friday</strong>, with any stocks on the S&amp;P 500, Dow Jones, or NASDAQ-100 that are at a 52-week high or low (within 0.5% of the extreme).<br><br>
 
+Enter your email below to join the mailing list. Messages are sent from <strong>poormanprotein@gmail.com</strong>. You can unsubscribe anytime using the link at the bottom of each email.
+
+{% if site.stocks_mailing_api_url and site.stocks_mailing_api_url != "" %}
+<form action="{{ site.stocks_mailing_api_url }}" method="get" class="stock-mailing-form" style="max-width:24rem;margin:1rem 0">
+  <input type="hidden" name="action" value="subscribe">
+  <label for="stock-email" style="display:block;margin-bottom:0.35rem">Email address</label>
+  <input type="email" id="stock-email" name="email" required placeholder="you@example.com"
+    style="width:100%;padding:0.5rem 0.65rem;font-size:1rem;box-sizing:border-box;margin-bottom:0.65rem">
+  <button type="submit" style="padding:0.5rem 1.25rem;font-size:1rem;cursor:pointer">Subscribe</button>
+</form>
+{% else %}
+<p><em>Subscription form is not configured yet. The site owner must set <code>stocks_mailing_api_url</code> in <code>_config.yml</code> after deploying the Google Apps Script (see <code>python/stocks/google_apps_script/</code>).</em></p>
+{% endif %}

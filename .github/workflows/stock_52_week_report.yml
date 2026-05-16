@@ -1,9 +1,9 @@
 # Sends the 52-week high/low stock email on weekdays (Mon–Fri) at 7:00 AM US Eastern.
 # GitHub cron uses UTC; we trigger at 11:00 and 12:00 UTC and only send when Eastern hour is 7.
 #
-# Required repo secrets (Settings → Secrets and variables → Actions):
-#   SMTP_HOST, SMTP_USER, SMTP_PASSWORD, EMAIL_TO
-# Optional: SMTP_PORT, EMAIL_FROM, TOLERANCE_PCT
+# Required repo secrets: SMTP_HOST, SMTP_USER, SMTP_PASSWORD
+# Subscribers live in python/stocks/subscribers.json (updated via stock_mailing_list.yml)
+# Optional: SMTP_PORT, EMAIL_FROM (defaults to poormanprotein@gmail.com), TOLERANCE_PCT
 
 name: Daily 52-Week Stock Report
 
@@ -55,8 +55,8 @@ jobs:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           TOLERANCE_PCT: ${{ secrets.TOLERANCE_PCT }}
+          UNSUBSCRIBE_BASE_URL: https://www.poormanprotein.com/misc/stocks/unsubscribe
         run: python daily_52_week_report.py

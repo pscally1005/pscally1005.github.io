@@ -24,10 +24,15 @@ from pathlib import Path
 import yfinance as yf
 from dotenv import load_dotenv
 
+from subscribers import active_emails
 from tickers import all_index_names, all_index_tickers
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 BATCH_SIZE = 40
+DEFAULT_FROM = "poormanprotein@gmail.com"
+DEFAULT_UNSUBSCRIBE_BASE = (
+    "https://www.poormanprotein.com/misc/stocks/unsubscribe"
+)
 
 
 @dataclass
@@ -46,13 +51,13 @@ def load_config() -> dict[str, str]:
     else:
         load_dotenv()
 
-    required = ("SMTP_HOST", "SMTP_USER", "SMTP_PASSWORD", "EMAIL_TO")
+    required = ("SMTP_HOST", "SMTP_USER", "SMTP_PASSWORD")
     missing = [key for key in required if not os.getenv(key)]
     if missing:
         raise SystemExit(
             f"Missing config: {', '.join(missing)}. "
             "Set config.env locally or add GitHub repository secrets "
-            "(SMTP_HOST, SMTP_USER, SMTP_PASSWORD, EMAIL_TO)."
+            "(SMTP_HOST, SMTP_USER, SMTP_PASSWORD)."
         )
 
     return {
@@ -60,10 +65,25 @@ def load_config() -> dict[str, str]:
         "smtp_port": int(os.getenv("SMTP_PORT") or "587"),
         "smtp_user": os.environ["SMTP_USER"],
         "smtp_password": os.environ["SMTP_PASSWORD"],
-        "email_from": (os.getenv("EMAIL_FROM") or os.environ["SMTP_USER"]),
-        "email_to": os.environ["EMAIL_TO"],
+        "email_from": (os.getenv("EMAIL_FROM") or DEFAULT_FROM),
+        "unsubscribe_base": (
+            os.getenv("UNSUBSCRIBE_BASE_URL") or DEFAULT_UNSUBSCRIBE_BASE
+        ),
         "tolerance_pct": float(os.getenv("TOLERANCE_PCT") or "0.5"),
     }
+
+
+def get_recipients() -> list[dict[str, str]]:
+    subscribers = active_emails()
+    if subscribers:
+        return subscribers
+    fallback = os.getenv("EMAIL_TO", "").strip()
+    if fallback:
+        return [{"email": fallback, "token": ""}]
+    raise SystemExit(
+        "No subscribers in subscribers.json. Add emails via /misc/stocks "
+        "or set EMAIL_TO for a single-recipient fallback."
+    )
 
 
 def scan_tickers(
@@ -173,12 +193,29 @@ def format_table(rows: list[StockExtreme], kind: str) -> str:
     )
 
 
+def unsubscribe_footer_html(unsubscribe_url: str) -> str:
+    if not unsubscribe_url:
+        return ""
+    return (
+        '<p style="color:#666;font-size:12px;margin-top:24px">'
+        f'<a href="{escape(unsubscribe_url)}">Unsubscribe</a> from this mailing list.'
+        "</p>"
+    )
+
+
+def unsubscribe_footer_plain(unsubscribe_url: str) -> str:
+    if not unsubscribe_url:
+        return ""
+    return f"\nUnsubscribe: {unsubscribe_url}\n"
+
+
 def build_html(
     at_high: list[StockExtreme],
     at_low: list[StockExtreme],
     scanned: int,
     failed: list[str],
     tolerance_pct: float,
+    unsubscribe_url: str = "",
 ) -> str:
     today = date.today().strftime("%A, %B %d, %Y")
     failed_note = ""
@@ -209,6 +246,7 @@ def build_html(
   <p style="color:#666;font-size:12px;margin-top:24px">
     Data from Yahoo Finance. Not financial advice.
   </p>
+  {unsubscribe_footer_html(unsubscribe_url)}
 </body>
 </html>"""
 
@@ -218,6 +256,7 @@ def build_plain(
     at_low: list[StockExtreme],
     scanned: int,
     tolerance_pct: float,
+    unsubscribe_url: str = "",
 ) -> str:
     lines = [
         f"52-Week Highs & Lows — {date.today().isoformat()}",
@@ -237,25 +276,47 @@ def build_plain(
             f"  {row.symbol} ({row.name}): ${row.price:,.2f} "
             f"(low ${row.extreme:,.2f}, {row.pct_from_extreme:+.2f}%)"
         )
-    return "\n".join(lines)
+    lines.append(unsubscribe_footer_plain(unsubscribe_url).rstrip())
+    return "\n".join(lines).strip() + "\n"
 
 
-def send_email(config: dict[str, str], subject: str, html: str, plain: str) -> None:
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject
-    msg["From"] = config["email_from"]
-    msg["To"] = config["email_to"]
-    msg.attach(MIMEText(plain, "plain"))
-    msg.attach(MIMEText(html, "html"))
+def send_to_subscribers(
+    config: dict[str, str],
+    subject: str,
+    at_high: list[StockExtreme],
+    at_low: list[StockExtreme],
+    scanned: int,
+    failed: list[str],
+    tolerance_pct: float,
+) -> int:
+    recipients = get_recipients()
+    base = config["unsubscribe_base"].rstrip("/")
+    sent = 0
 
     with smtplib.SMTP(config["smtp_host"], config["smtp_port"]) as server:
         server.starttls()
         server.login(config["smtp_user"], config["smtp_password"])
-        server.sendmail(
-            config["email_from"],
-            [config["email_to"]],
-            msg.as_string(),
-        )
+
+        for row in recipients:
+            to_email = row["email"]
+            token = row.get("token", "")
+            unsub = f"{base}?token={token}" if token else ""
+            html = build_html(
+                at_high, at_low, scanned, failed, tolerance_pct, unsub
+            )
+            plain = build_plain(at_high, at_low, scanned, tolerance_pct, unsub)
+
+            msg = MIMEMultipart("alternative")
+            msg["Subject"] = subject
+            msg["From"] = config["email_from"]
+            msg["To"] = to_email
+            msg.attach(MIMEText(plain, "plain"))
+            msg.attach(MIMEText(html, "html"))
+            server.sendmail(config["email_from"], [to_email], msg.as_string())
+            sent += 1
+            print(f"Sent to {to_email}")
+
+    return sent
 
 
 def main() -> int:
@@ -293,20 +354,31 @@ def main() -> int:
         f"{len(failed)} fetch failures."
     )
 
-    plain = build_plain(at_high, at_low, len(symbols), tolerance)
-    html = build_html(at_high, at_low, len(symbols), failed, tolerance)
     subject = (
         f"52-Week Report: {len(at_high)} highs, {len(at_low)} lows "
         f"— {date.today().isoformat()}"
     )
 
     if args.dry_run:
+        sample_unsub = f"{DEFAULT_UNSUBSCRIBE_BASE}?token=example"
+        plain = build_plain(
+            at_high, at_low, len(symbols), tolerance, sample_unsub
+        )
         print()
         print(plain)
+        print(f"Would send to {len(get_recipients())} subscriber(s).")
         return 0
 
-    send_email(config, subject, html, plain)
-    print(f"Email sent to {config['email_to']}.")
+    count = send_to_subscribers(
+        config,
+        subject,
+        at_high,
+        at_low,
+        len(symbols),
+        failed,
+        tolerance,
+    )
+    print(f"Done. Sent {count} email(s) from {config['email_from']}.")
     return 0
 
 
