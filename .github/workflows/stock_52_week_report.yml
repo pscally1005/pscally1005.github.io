@@ -1,0 +1,44 @@
+# Sends the 52-week high/low stock email on weekdays (Mon–Fri).
+# Times are UTC. Default: 12:00 UTC ≈ 7:00 AM US Eastern (standard time).
+#
+# Required repo secrets (Settings → Secrets and variables → Actions):
+#   SMTP_HOST, SMTP_USER, SMTP_PASSWORD, EMAIL_TO
+# Optional: SMTP_PORT, EMAIL_FROM, TOLERANCE_PCT
+
+name: Daily 52-Week Stock Report
+
+on:
+  schedule:
+    - cron: "0 12 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  send-report:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: python/stocks
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: python/stocks/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send report
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          TOLERANCE_PCT: ${{ secrets.TOLERANCE_PCT }}
+        run: python daily_52_week_report.py
