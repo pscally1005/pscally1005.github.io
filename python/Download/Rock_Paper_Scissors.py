@@ -11,24 +11,25 @@ def top() :
     print('Enter "2" for Scissors')
 
 # Code for user to enter a move
-def enter() :
-    print('\nPlease Enter a Number: ', end = ' ')
-    play = getch.getch()
-    while (play != '0') and (play != '1') and (play != '2') :
+def enter():
+    print('\nPlease Enter a Number: ', end=' ')
+    play = getch.getch().decode()
+
+    while play not in ['0', '1', '2']:
         top()
-        print('\nError: Input is not valid', end = '')
-        print('\nPlease Enter a Number: ', end = ' ')
-        play = getch.getch()
+        print('\nError: Input is not valid')
+        print('\nPlease Enter a Number: ', end=' ')
+        play = getch.getch().decode()
 
     top()
-    if play == '0' :
+
+    if play == '0':
         print('\nYou entered: Rock')
-    elif play == '1' :
+    elif play == '1':
         print('\nYou entered: Paper')
-    elif play == '2' :
+    else:
         print('\nYou entered: Scissors')
-    else :
-        print('ERROR')
+
     return play
 
 # Code for enemy responding move

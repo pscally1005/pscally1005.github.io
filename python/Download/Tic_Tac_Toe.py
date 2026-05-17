@@ -4,35 +4,43 @@ import random
 import getch
 
 # 2 player or 1 player vs computer
-def mode() :
-    system('clear')
+def mode():
+    system('cls')   # Windows uses cls, not clear
     print('\nWelcome to Tic-Tac-Toe!')
-    print('\nWould you like to play 1P or 2P?', end = '')
-    print('\nPlease enter either "1" or "2": ', end = ' ')
-    m = getch.getch()
-    while (m.isnumeric() == False) or (int(m) < 1) or (int(m) > 2) :
-        system('clear')
+    print('\nWould you like to play 1P or 2P?')
+    print('\nPlease enter either "1" or "2": ', end=' ')
+
+    m = getch.getch().decode()
+
+    while (not m.isnumeric()) or (int(m) < 1) or (int(m) > 2):
+        system('cls')
         print('\nWelcome to Tic-Tac-Toe!')
-        print('\nERROR: Mode type invalid', end = '')
-        print('\nWould you like to play 1P or 2P?', end = '')
-        print('\nPlease enter either "1" or "2": ', end = ' ')
-        m = getch.getch()
+        print('\nERROR: Mode type invalid')
+        print('\nWould you like to play 1P or 2P?')
+        print('\nPlease enter either "1" or "2": ', end=' ')
+
+        m = getch.getch().decode()
+
     return m
 
-# user inputs size of the board
-def input_size(m) :
-    system('clear')
+
+def input_size(m):
+    system('cls')
     print('\nWelcome to Tic-Tac-Toe!\n')
     print(str(m) + 'P mode selected')
-    print('\nPlease Enter a Board Size from 3 to 9: ', end = ' ')
-    size = getch.getch()
-    while (size.isnumeric() == False) or (int(size) < 3) or (int(size) > 9) :
-        system('clear')
+    print('\nPlease Enter a Board Size from 3 to 9: ', end=' ')
+
+    size = getch.getch().decode()
+
+    while (not size.isnumeric()) or (int(size) < 3) or (int(size) > 9):
+        system('cls')
         print('\nWelcome to Tic-Tac-Toe!\n')
         print(str(m) + 'P mode selected')
-        print('\nERROR: Board size invalid', end = '')
-        print('\nPlease Enter a Board Size from 3 to 9: ', end = ' ')
-        size = getch.getch()
+        print('\nERROR: Board size invalid')
+        print('\nPlease Enter a Board Size from 3 to 9: ', end=' ')
+
+        size = getch.getch().decode()
+
     return size
 
 # prints the board every time a move is made
@@ -62,7 +70,7 @@ def board(b, m) :
             j = j+1
         i = i+1
         print('|')
-    
+
     print('+', end = '')
     for x in b :    print('-', end = '')
     print('+')
@@ -174,7 +182,7 @@ def check_win(b, m) :
     elif flag_O == True :
         print('\nYou Lose') if int(m) == 1 else print('\nP2 Wins')
         return True
-    
+
     # check for tie game
     full = True
     i = 0

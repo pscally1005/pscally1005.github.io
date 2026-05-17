@@ -7,14 +7,13 @@
  *      GITHUB_REPO          owner/repo   (e.g. pscally1005/pscally1005.github.io)
  *      GITHUB_TOKEN         fine-grained PAT with Contents (read/write) + Actions (read)
  *      WEBHOOK_SECRET       random string (same as GitHub secret MAILING_LIST_WEBHOOK_SECRET)
- * 3. Deploy → New deployment → Web app
- *      Execute as: Me
- *      Who has access: Anyone
+ *      SITE_RETURN_URL      optional; defaults to https://www.poormanprotein.com/misc/stocks
+ * 3. Deploy → New deployment → Web app (new version after code changes)
  * 4. Copy the Web app URL into _config.yml as stocks_mailing_api_url
  * 5. Add MAILING_LIST_WEBHOOK_SECRET to GitHub repo secrets
  */
 
-var SITE_HOME = 'https://www.poormanprotein.com/misc/stocks';
+var DEFAULT_RETURN_URL = 'https://www.poormanprotein.com/misc/stocks';
 
 function doGet(e) {
   return handleRequest_(e.parameter || {});
@@ -34,37 +33,39 @@ function doPost(e) {
   return handleRequest_(params);
 }
 
+function returnUrl_(props) {
+  return props.getProperty('SITE_RETURN_URL') || DEFAULT_RETURN_URL;
+}
+
 function handleRequest_(params) {
   var action = (params.action || '').toLowerCase();
   var props = PropertiesService.getScriptProperties();
+  var home = returnUrl_(props);
 
   try {
     if (action === 'subscribe') {
       var email = (params.email || '').trim();
       if (!email) {
-        return htmlPage_('Missing email address.', false);
+        return redirectTo_(home + '?mailing=error&reason=missing_email');
       }
       dispatch_(props, 'stock_subscribe', { email: email });
-      return htmlPage_(
-        'You are subscribed! You will receive the weekday 7 AM Eastern stock report at <strong>' +
-          escapeHtml_(email) +
-          '</strong>.',
-        true
-      );
+      return redirectTo_(home + '?mailing=subscribed');
     }
 
     if (action === 'unsubscribe') {
       var token = (params.token || '').trim();
       if (!token) {
-        return htmlPage_('Invalid unsubscribe link.', false);
+        return redirectTo_(home + '?mailing=error&reason=invalid_link');
       }
       dispatch_(props, 'stock_unsubscribe', { token: token });
-      return htmlPage_('You have been unsubscribed.', true);
+      return redirectTo_(home + '?mailing=unsubscribed');
     }
 
-    return htmlPage_('Unknown action.', false);
+    return redirectTo_(home + '?mailing=error&reason=unknown');
   } catch (err) {
-    return htmlPage_('Error: ' + err.message, false);
+    return redirectTo_(
+      home + '?mailing=error&reason=' + encodeURIComponent(err.message)
+    );
   }
 }
 
@@ -103,27 +104,18 @@ function dispatch_(props, eventType, payload) {
   }
 }
 
-function htmlPage_(message, success) {
-  var color = success ? '#1a7f37' : '#b42318';
+function redirectTo_(url) {
+  var safeUrl = String(url).replace(/"/g, '%22');
   var html =
-    '<!DOCTYPE html><html><head><meta charset="utf-8"><title>Stock report mailing list</title>' +
-    '<style>body{font-family:sans-serif;max-width:32rem;margin:3rem auto;padding:0 1rem;color:#222}' +
-    'a{color:#0969da}</style></head><body>' +
-    '<p style="color:' +
-    color +
+    '<!DOCTYPE html><html><head><meta charset="utf-8">' +
+    '<meta http-equiv="refresh" content="0;url=' +
+    safeUrl +
     '">' +
-    message +
-    '</p>' +
-    '<p><a href="' +
-    SITE_HOME +
-    '">Back to Poor Man Protein</a></p></body></html>';
-  return HtmlService.createHtmlOutput(html).setXFrameOptionsMode(HtmlService.XFrameOptionsMode.ALLOWALL);
-}
-
-function escapeHtml_(text) {
-  return String(text)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+    '<script>window.location.replace(' +
+    JSON.stringify(url) +
+    ');</script>' +
+    '</head><body><p>Redirecting…</p></body></html>';
+  return HtmlService.createHtmlOutput(html).setXFrameOptionsMode(
+    HtmlService.XFrameOptionsMode.ALLOWALL
+  );
 }

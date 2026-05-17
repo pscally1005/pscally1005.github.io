@@ -5,6 +5,7 @@ date:   2026-05-16 00:00:00 -0500
 categories:
 - Misc.
 - Other Projects
+- Draft
 showPercentage: no
 permalink: /misc/stocks
 image: /assets/Misc/Other/stonks.jpg
@@ -13,7 +14,9 @@ tags:
 ---
 This is a script that emails you at <strong>7:00 AM US Eastern</strong>, <strong>Monday through Friday</strong>, with any stocks on the S&amp;P 500, Dow Jones, or NASDAQ-100 that are at a 52-week high or low (within 0.5% of the extreme).<br><br>
 
-Enter your email below to join the mailing list. Messages are sent from <strong>poormanprotein@gmail.com</strong>. You can unsubscribe anytime using the link at the bottom of each email.
+Enter your email below to join the mailing list. Messages are sent from <strong>poormanprotein@gmail.com</strong>. You can unsubscribe anytime using the link at the bottom of each email.<br><br>
+
+<div id="stock-mailing-notice" role="status" style="display:none;max-width:36rem;padding:0.75rem 1rem;margin:0 0 1rem;border-radius:6px;font-size:1rem"></div>
 
 {% if site.stocks_mailing_api_url and site.stocks_mailing_api_url != "" %}
 <form action="{{ site.stocks_mailing_api_url }}" method="get" class="stock-mailing-form" style="max-width:24rem;margin:1rem 0">
@@ -26,3 +29,39 @@ Enter your email below to join the mailing list. Messages are sent from <strong>
 {% else %}
 <p><em>Subscription form is not configured yet. The site owner must set <code>stocks_mailing_api_url</code> in <code>_config.yml</code> after deploying the Google Apps Script (see <code>python/stocks/google_apps_script/</code>).</em></p>
 {% endif %}
+
+<script>
+(function () {
+  var params = new URLSearchParams(window.location.search);
+  var status = params.get('mailing');
+  if (!status) return;
+
+  var box = document.getElementById('stock-mailing-notice');
+  if (!box) return;
+
+  var messages = {
+    subscribed:
+      'You are subscribed. Weekday reports arrive at 7:00 AM US Eastern.',
+    unsubscribed: 'You have been unsubscribed from the stock report.',
+    error: 'Something went wrong. Please try again or contact the site owner.'
+  };
+
+  var reason = params.get('reason') || '';
+  var text = messages[status] || messages.error;
+  if (status === 'error' && reason === 'missing_email') {
+    text = 'Please enter an email address.';
+  } else if (status === 'error' && reason === 'invalid_link') {
+    text = 'That unsubscribe link is invalid.';
+  }
+
+  box.textContent = text;
+  box.style.display = 'block';
+  box.style.background = status === 'error' ? '#fde8e8' : '#e6f4ea';
+  box.style.color = status === 'error' ? '#8a1f11' : '#1a7f37';
+  box.style.border = '1px solid ' + (status === 'error' ? '#f5c2c7' : '#b7dfc3');
+
+  if (window.history && window.history.replaceState) {
+    window.history.replaceState({}, document.title, window.location.pathname);
+  }
+})();
+</script>
