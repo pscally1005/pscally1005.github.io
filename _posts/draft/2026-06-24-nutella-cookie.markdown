@@ -34,7 +34,7 @@ start5:
 section5:
 Prep: 5
 Rest:
-Cook: 10
+Cook: 8
 Source1:
 Source2:
 Source3:
@@ -56,7 +56,7 @@ Instructions:
 - Press the dough into a thin circle. Top with your remaining chocolate chips
 - <img src='/assets/Misc/Unhealthy/Nutella Cookie/raw.jpg' alt='' class='instruction-image'>
 
-- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for about 10 minutes, or until the cookie is set and the chocolate is melty
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for about 8 minutes, or until the cookie is set and the chocolate is melty
 - <img src='/assets/Misc/Unhealthy/Nutella Cookie/baked.jpg' alt='' class='instruction-image'>
 Notes:
 ---
