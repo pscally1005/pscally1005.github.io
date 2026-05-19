@@ -27,17 +27,17 @@ Calories,354,,
 "Betaine",0.4,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",31.9,mg,6 %
-"Calcium",122.94,mg,9 %
+"Calcium",122.75,mg,9 %
 "Copper",0.24,mg,27 %
 "Fluoride",0.7,mcg,
 "Iodine",0,mcg,0 %
 "Iron",2.75,mg,15 %
 "Magnesium",90.34,mg,22 %
 "Manganese",1.085,mg,47 %
-"Phosphorus",227.57,mg,18 %
-"Potassium",830.99,mg,18 %
+"Phosphorus",227.38,mg,18 %
+"Potassium",830.48,mg,18 %
 "Selenium",4.2,mcg,8 %
-"Sodium",817.15,mg,36 %
+"Sodium",815.61,mg,35 %
 "Zinc",1.11,mg,10 %
 "Protein",9.07,g,18 %
 "Alanine",0.348,g,
@@ -62,15 +62,15 @@ Calories,354,,
 "Valine",0.374,g,19 %
 "Phenylalanine + Tyrosine",0.775,g,29 %
 "Methionine + Cysteine",0.321,g,21 %
-"Carbohydrate",50.11,g,18 %
-"Fiber",13.23,g,47 %
+"Carbohydrate",50.08,g,18 %
+"Fiber",13.21,g,47 %
 "Sugars",23.67,g,
 "Fructose",4.3,g,
 "Galactose",0.33,g,
 "Glucose",3.75,g,
 "Maltose",0.15,g,
 "Sucrose",0.09,g,
-"Net carbs",36.88,g,
+"Net carbs",36.87,g,
 "Fat",18.779,g,24 %
 "Saturated fatty acids",2.945,g,15 %
 "Butanoic acid",0,g,
@@ -86,7 +86,7 @@ Calories,354,,
 "Eicosenoic acid",0,g,
 "Hexadecenoic acid",0,g,
 "Octadecenoic acid",0,g,
-"Polyunsaturated fatty acids",3.475,g,
+"Polyunsaturated fatty acids",3.474,g,
 "Docosahexaenoic n-3 acid (DHA)",0,g,
 "Docosapentaenoic n-3 acid (DPA)",0,g,
 "Eicosapentaenoic n-3 acid (EPA)",0,g,
@@ -100,4 +100,4 @@ Calories,354,,
 "Ash",0.02,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",205.23,g,
+"Water",204.96,g,

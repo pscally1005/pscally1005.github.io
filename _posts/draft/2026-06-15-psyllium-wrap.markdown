@@ -22,7 +22,7 @@ vic: no
 permalink: /recipes/psyllium-wrap
 image: /assets/Food/Bread/Psyllium wrap/crepe2-cut.jpg
 file: psylliumwrap
-servingSize: 1 wrap
+servingSize: 1 wrap (~80 g)
 section1:
 start2:
 section2:

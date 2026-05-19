@@ -496,7 +496,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 batch, 3 cup"
 
     # Cottage cheese flatbread
-    elif food == "Cottage cheese flatbread" or food == "High Fiber Psyllium Wrap":
+    elif food == "Cottage cheese flatbread":
         if mass == "45":
             v = "1 medium"
         elif mass == "90":
@@ -504,6 +504,18 @@ def vol_from_mass(food, mass, vol):
         elif mass == "135":
             v = "3 medium"
         elif mass == "180":
+            v = "4 medium"
+
+    # Psyllium wrap
+    # Psyllium wrap
+    elif food == "High Fiber Psyllium Wrap":
+        if mass == "80":
+            v = "1 medium"
+        elif mass == "160":
+            v = "2 medium"
+        elif mass == "240":
+            v = "3 medium"
+        elif mass == "320":
             v = "4 medium"
 
     # Buttermilk powder

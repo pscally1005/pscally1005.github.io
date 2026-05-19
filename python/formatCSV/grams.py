@@ -570,7 +570,8 @@ def grams(food, mass, vol):
         elif vol == "4 tbsp":
             m = "32"
 
-    elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread" or food == "High Fiber Psyllium Wrap":
+    # Tortillas
+    elif food == "Whole wheat tortilla" or food == "Cottage cheese flatbread":
         if vol == "1 medium" or vol == "1 serving":
             m = "45"
         elif vol == "2 medium" or vol == "2 serving":
@@ -579,6 +580,17 @@ def grams(food, mass, vol):
             m = "135"
         elif vol == "4 medium" or vol == "4 serving":
             m = "180"
+
+    # Psyllium wrap
+    elif food == "High Fiber Psyllium Wrap":
+        if vol == "1 medium" or vol == "1 serving":
+            m = "80"
+        elif vol == "2 medium" or vol == "2 serving":
+            m = "160"
+        elif vol == "3 medium" or vol == "3 serving":
+            m = "240"
+        elif vol == "4 medium" or vol == "4 serving":
+            m = "320"
 
     # Oils
     elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Unsalted butter" or food == "Salted butter":
