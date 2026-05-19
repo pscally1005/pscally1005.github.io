@@ -72,7 +72,7 @@ Instructions:
 
 - Add the <a href='/misc/meat#chicken-breast'>chicken</a> to the pot, mix, cover, and cook until the <a href='/misc/meat#chicken-breast'>chicken</a> is <a href='https://amzn.to/4kmobG2'>165F</a>
 
-- Add in the <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/veggies#ginger'>ginger</a>, and pour in the crushed tomatoes. Cover and let simmer over medium heat for about 5 minutes
+- Add in the <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/veggies#ginger'>ginger</a>, and pour in the <a href='/misc/veggies#tomato'>crushed tomatoes</a>. Cover and let simmer over medium heat for about 5 minutes
 
 - Mix in your evaporated milk and (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Cover and let simmer for an additional 5 minutes
 

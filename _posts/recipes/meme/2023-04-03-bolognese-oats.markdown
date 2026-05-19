@@ -59,7 +59,7 @@ Instructions:
 
 - Over medium heat, <a href='https://amzn.to/3Hdg0gk'>spray</a> pot with <a href='/misc/olive-oil'>olive oil</a> and cook <a href='/misc/veggies#garlic'>garlic</a> for about a minute. Add in the <a href='/misc/meat'>meat</a> and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> to break up clumps. Cook until browned
 
-- Stir in the diced tomatoes, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and black pepper to taste. Add the <a href='/misc/veggies'>vegetables</a> back in, and add the vinegar
+- Stir in the <a href='/misc/veggies#tomato'>diced tomatoes</a>, tomato sauce, basil, oregano, and red pepper flakes. Season with salt and black pepper to taste. Add the <a href='/misc/veggies'>vegetables</a> back in, and add the vinegar
 
 - Reduce heat to low and let simmer for 30 minutes, stirring occasionally. Stir in balsamic
 

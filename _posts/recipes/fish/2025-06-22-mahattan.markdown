@@ -58,7 +58,7 @@ Instructions:
 
 - Meanwhile, wash your <a href='/misc/veggies#potato'>potatoes</a>, and cut into a medium dice, leaving the skin on
 
-- To the pot, add your <a href='/misc/veggies#potato'>potatoes</a>, garlic powder, onion powder, thyme, oregano, black pepper, clam juice, canned <a href='/misc/fish#clam'>clams</a> (entire can, not drained), diced tomatoes, and tomato paste. Bring to a boil over high heat, reduce heat to medium, cover, and let simmer for 15-20 minutes, or until the <a href='/misc/veggies#potato'>potatoes</a> are fork tender
+- To the pot, add your <a href='/misc/veggies#potato'>potatoes</a>, garlic powder, onion powder, thyme, oregano, black pepper, clam juice, canned <a href='/misc/fish#clam'>clams</a> (entire can, not drained), <a href='/misc/veggies#tomato'>diced tomatoes</a>, and <a href='/misc/veggies#tomato'>tomato paste</a>. Bring to a boil over high heat, reduce heat to medium, cover, and let simmer for 15-20 minutes, or until the <a href='/misc/veggies#potato'>potatoes</a> are fork tender
 
 - Remove from heat, finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and serve
 Notes:

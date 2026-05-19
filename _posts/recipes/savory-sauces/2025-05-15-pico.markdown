@@ -50,7 +50,7 @@ tags:
 - tomatoes
 - lime
 - chips
-Description: Pico de Gallo has to be one of the easiest salsas or <a href='/recipes/taco'>taco</a> toppings you can make. Just dice an <a href='/misc/veggies#onion'>onion</a>, and mix with <a href='/misc/veggies#tomato'>tomatoes</a>, cilantro, and <a href='/misc/fruit#lime'>lime</a>. I've left out the jalapeno here, but you can add it in if you like. Typically, fresh <a href='/misc/veggies#tomato'>tomatoes</a> are used, but you can easily get away with a can of petite diced tomatoes instead.
+Description: Pico de Gallo has to be one of the easiest salsas or <a href='/recipes/taco'>taco</a> toppings you can make. Just dice an <a href='/misc/veggies#onion'>onion</a>, and mix with <a href='/misc/veggies#tomato'>tomatoes</a>, cilantro, and <a href='/misc/fruit#lime'>lime</a>. I've left out the jalapeno here, but you can add it in if you like. Typically, fresh <a href='/misc/veggies#tomato'>tomatoes</a> are used, but you can easily get away with a can of petite <a href='/misc/veggies#tomato'>diced tomatoes</a> instead.
 Instructions:
 - Cut your <a href='/misc/veggies#onion'>onions</a> into a fine dice, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>. Cover with water, and let sit for 10 minutes. This removes the harsh flavors of the raw <a href='/misc/veggies#onion'>onion</a>. Drain the water
 

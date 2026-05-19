@@ -50,7 +50,7 @@ tags:
 - sandwich
 - toast
 - salad
-Description: Have you ever wanted to make <a href='/misc/veggies#tomato'>tomato</a> <a href='/pesto'>pesto</a>, but <a href='/misc/fats'>oil free</a> and using canned tomato paste instead of fresh or sun dried tomatoes? Yeah idk why I bothered asking, only I come up with this stuff lmao.  You can also check out any of my other <a href='/pesto'>pesto recipes</a>!
+Description: Have you ever wanted to make <a href='/misc/veggies#tomato'>tomato</a> <a href='/pesto'>pesto</a>, but <a href='/misc/fats'>oil free</a> and using canned <a href='/misc/veggies#tomato'>tomato paste</a> instead of fresh or sun dried tomatoes? Yeah idk why I bothered asking, only I come up with this stuff lmao.  You can also check out any of my other <a href='/pesto'>pesto recipes</a>!
 Instructions:
 - Toast the <a href='/misc/nuts'>nuts</a> until fragrant in a <a href='https://amzn.to/4qFE9y3'>small pan</a> over medium heat (about 5 minutes)
 

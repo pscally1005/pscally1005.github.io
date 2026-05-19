@@ -59,11 +59,11 @@ tags:
 - spaghetti squash
 - linguini
 - pizza
-Description: Here's a very simple homemade pasta sauce, starting from a humble can of crushed tomatoes. This yields enough sauce to flavor a pound of <a href='/misc/grains#pasta'>pasta</a> or a whole <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, maybe with some added <a href='/misc/meat'>meat</a> and <a href='/misc/veggies'>vegetables</a>. It couldn't be easier, just saute an <a href='/misc/veggies#onion'>onion</a>, and dump in the <a href='/misc/veggies#tomato'>tomatoes</a> and any desired spices. From there, just simmer as long as you like. I also use this to top pizzas as well!  Check out my posts for <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a> and <a href='/recipes/pizza'>Home Oven Baked Pizza</a>.
+Description: Here's a very simple homemade pasta sauce, starting from a humble can of <a href='/misc/veggies#tomato'>crushed tomatoes</a>. This yields enough sauce to flavor a pound of <a href='/misc/grains#pasta'>pasta</a> or a whole <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a>, maybe with some added <a href='/misc/meat'>meat</a> and <a href='/misc/veggies'>vegetables</a>. It couldn't be easier, just saute an <a href='/misc/veggies#onion'>onion</a>, and dump in the <a href='/misc/veggies#tomato'>tomatoes</a> and any desired spices. From there, just simmer as long as you like. I also use this to top pizzas as well!  Check out my posts for <a href='/recipes/spaghetti-squash'>Spaghetti Squash Cooked 3 Ways</a> and <a href='/recipes/pizza'>Home Oven Baked Pizza</a>.
 Instructions:
 - Dice an <a href='/misc/veggies#onion'>onion</a>, and add to a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat with oil and <a href='/misc/veggies#garlic'>garlic</a>.  Cook until soft and translucent
 
-- When <a href='/misc/veggies#onion'>onion</a> is softened, add in the can of crushed tomatoes and your spices - oregano, basil, parsley, onion powder, garlic powder, black pepper, salt, and red pepper flakes<br>
+- When <a href='/misc/veggies#onion'>onion</a> is softened, add in the can of <a href='/misc/veggies#tomato'>crushed tomatoes</a> and your spices - oregano, basil, parsley, onion powder, garlic powder, black pepper, salt, and red pepper flakes<br>
 
 - Simmer on medium low heat (covered) for about 45 minutes with occasional stirring
 Notes:

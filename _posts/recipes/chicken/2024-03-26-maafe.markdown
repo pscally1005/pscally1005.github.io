@@ -66,7 +66,7 @@ Instructions:
 
 - Add the <a href='/misc/veggies#garlic'>minced garlic</a> into the pan, and cook for only 30 seconds, until fragrant
 
-- Stir in the tomato paste and spices - chili powder, paprika, <a href='/misc/veggies#ginger'>ginger</a>, cumin, and cayenne. Cover and let simmer over medium heat for 5 minutes
+- Stir in the <a href='/misc/veggies#tomato'>tomato paste</a> and spices - chili powder, paprika, <a href='/misc/veggies#ginger'>ginger</a>, cumin, and cayenne. Cover and let simmer over medium heat for 5 minutes
 
 - In a bowl or glass, whisk together your broth using water and bouillon powder
 

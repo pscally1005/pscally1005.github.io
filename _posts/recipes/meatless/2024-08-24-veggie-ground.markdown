@@ -82,7 +82,7 @@ Instructions:
 
 - Cook the <a href='/misc/veggies'>veggies</a> on medium heat with occasional stirring until water releases begins to release, about 5 minutes
 
-- Meanwhile, coarsely chop the <a href='/misc/nuts#walnuts'>walnuts</a> (discard the soaking water) with the tomato paste until well combined. Don't over blend
+- Meanwhile, coarsely chop the <a href='/misc/nuts#walnuts'>walnuts</a> (discard the soaking water) with the <a href='/misc/veggies#tomato'>tomato paste</a> until well combined. Don't over blend
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-nuts.jpg' alt='' class='instruction-image'>
 
 - Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your <a href='/misc/veggies#garlic'>garlic</a>, soy sauce, mustard, marmite, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out

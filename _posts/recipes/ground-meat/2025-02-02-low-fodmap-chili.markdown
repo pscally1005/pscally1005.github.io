@@ -68,7 +68,7 @@ Instructions:
 - Finally, the last part to pre-cook is the <a href='/misc/meat'>meat</a>. When the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> are done, add the <a href='/misc/meat'>meat</a> to the pan with oil. Brown the <a href='/misc/meat'>meat</a> over medium heat, and cook until no longer pink. Transfer to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/meat.jpg' alt='' class='instruction-image'>
 
-- Add your crushed tomatoes, diced tomatoes, and <a href='/misc/chocolate-benefits'>cocoa powder</a> to the <a href='https://amzn.to/49TUS9E'>slow cooker</a> pot, and mix until everything is fully combined
+- Add your <a href='/misc/veggies#tomato'>crushed tomatoes</a>, <a href='/misc/veggies#tomato'>diced tomatoes</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a> to the <a href='https://amzn.to/49TUS9E'>slow cooker</a> pot, and mix until everything is fully combined
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/before.jpg' alt='' class='instruction-image'>
 
 - Cover and cook on low heat for 8 hours. Optionally serve with <a href='/misc/dairy#cheddar'>shredded cheese</a> and <a href='/misc/fruit#lime-juice'>lime juice</a>

@@ -67,7 +67,7 @@ Instructions:
 
 - Drain and rinse your <a href='/misc/beans'>beans</a>
 
-- Add in the remaining ingredients - tomato paste, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, soy sauce, dijon mustard, chili powder, garlic powder, black pepper, salt, and cinnamon. Cover and let simmer for 5 minutes
+- Add in the remaining ingredients - <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, soy sauce, dijon mustard, chili powder, garlic powder, black pepper, salt, and cinnamon. Cover and let simmer for 5 minutes
 
 - If you're using a <a href='https://amzn.to/3LNGdVy'>Dutch oven</a>, you can bake directly in there.  If not, transfer your <a href='/misc/beans'>beans</a> to an <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a>.  Bake in a 350F oven (covered) for 45 minutes
 Notes:

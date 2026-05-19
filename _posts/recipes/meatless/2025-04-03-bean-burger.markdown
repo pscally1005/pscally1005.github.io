@@ -67,7 +67,7 @@ Instructions:
 
 - Cut your <a href='/misc/veggies#onion'>onion</a> into a fine dice, and add to the bowl
 
-- Mix in the tomato paste, <a href='/misc/veggies#garlic'>minced garlic</a>, mustard, soy sauce, and spices (chili powder, paprika, cumin, black pepper, and salt)
+- Mix in the <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, mustard, soy sauce, and spices (chili powder, paprika, cumin, black pepper, and salt)
 - <img src='/assets/Food/Meatless/Bean Burger/bowl.jpg' alt='' class='instruction-image'>
 
 - Add in the <a href='/misc/dairy#whey'>protein powder</a> and <a href='/misc/dairy#grated-cheese'>grated cheese</a> until you have a sticky "dough" that you can mold and shape with your hands.  Add 6 dough balls to your pan, about 4 oz (113 g) each. Lightly wet your hands, and shape into patties

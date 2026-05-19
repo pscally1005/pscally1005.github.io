@@ -4412,7 +4412,10 @@ LINKS = {
         "cherry tomatoes",
         "cherry tomato",
         "grape tomatoes",
-        "grape tomato"
+        "grape tomato",
+        "tomato paste",
+        "crushed tomatoes",
+        "diced tomatoes"
     ],
     "/misc/veggies#turnip": [
         "turnips",
@@ -6952,9 +6955,10 @@ EXCLUDED_PHRASES = [
     "chicken noodle",
     # "salsa chicken",
     "baking them",
-    "tomato paste",
-    "crushed tomatoes",
-    "diced tomatoes",
+    "tomato paste mixture",
+    # "tomato paste",
+    # "crushed tomatoes",
+    # "diced tomatoes",
     "trim the fat",
     "cut the fat",
     "excess fat",

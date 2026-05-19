@@ -60,7 +60,7 @@ Instructions:
 
 - Add in the <a href='/misc/veggies#garlic'>minced garlic</a>, and cook until fragrant, about 30 seconds
 
-- Pour in the diced tomatoes and add the spices - paprika, chili powder, garlic powder, onion powder, cumin, and black pepper. Cover and let simmer for 5 minutes over medium heat
+- Pour in the <a href='/misc/veggies#tomato'>diced tomatoes</a> and add the spices - paprika, chili powder, garlic powder, onion powder, cumin, and black pepper. Cover and let simmer for 5 minutes over medium heat
 - <img src='/assets/Food/Breakfast/Shakshuka/shakshuka-3.jpg' alt='' class='instruction-image'>
 
 - Make 3 wells, and crack each <a href='/misc/meat#eggs'>egg</a> into its own well. Cover, and cook for 2-3 minutes over medium heat until the <a href='/misc/meat#egg-whites'>whites</a> are cooked (opaque white) and the <a href='/misc/meat#eggs'>yolks</a> have risen and are cloudy, but still a bit soft

@@ -65,7 +65,7 @@ Instructions:
 
 - Add the spices (chili powder, cumin, and oregano) into the pot, and toast for about a minute before adding the soy sauce
 
-- Add the crushed tomatoes, diced tomatoes, and (drained and rinsed) <a href='/misc/beans'>beans</a> (2 cans). Reduce heat to low, cover, and simmer for 1 hour with occasional stirring
+- Add the <a href='/misc/veggies#tomato'>crushed tomatoes</a>, <a href='/misc/veggies#tomato'>diced tomatoes</a>, and (drained and rinsed) <a href='/misc/beans'>beans</a> (2 cans). Reduce heat to low, cover, and simmer for 1 hour with occasional stirring
 
 - Meanwhile, add <a href='/misc/seeds#sesame-seeds'>tahini</a> (or any <a href='/recipes/natural-peanut-butter'>nut/seed butter</a>) and an entire other can of <a href='/misc/beans'>beans</a> (not drained or rinsed) to a <a href='https://amzn.to/4q0AUjI'>food processor</a>.  Blend until smooth
 - <img src='/assets/Food/Meatless/Vegan Chili/stove.jpg' alt='' class='instruction-image'>

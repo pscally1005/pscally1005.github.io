@@ -70,7 +70,7 @@ Instructions:
 - Season with the rest of your taco seasoning when the <a href='/misc/meat'>meat</a> is fully cooked. Add <a href='/misc/veggies#garlic'>minced garlic</a>, and cook until fragrant, about 30 seconds
 - <img src='/assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-7.jpg' alt='' class='instruction-image'>
 
-- Turn heat down to medium low, and pour in your diced tomatoes. Cover, and let simmer for about 10 minutes. The sauce should thicken and will be bubbling. Squeeze in some <a href='/misc/fruit#lime'>lime</a>
+- Turn heat down to medium low, and pour in your <a href='/misc/veggies#tomato'>diced tomatoes</a>. Cover, and let simmer for about 10 minutes. The sauce should thicken and will be bubbling. Squeeze in some <a href='/misc/fruit#lime'>lime</a>
 - <img src='/assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-8.jpg' alt='' class='instruction-image'>
 
 - Add the <a href='/misc/meat'>meat</a> to the bowl with the <a href='/misc/veggies'>vegetables</a>. Combine together, and serve. Pair this with any hard or soft shelled <a href='/recipes/taco'>tacos</a>, <a href='/misc/dairy#cheddar'>shredded cheese</a>, and <a href='/recipes/salsa'>salsa</a>

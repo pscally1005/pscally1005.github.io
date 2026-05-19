@@ -50,7 +50,7 @@ Instructions:
 
 - Wash your <a href='/misc/veggies#pepper'>peppers</a>, and cut into a medium dice
 
-- Add the <a href='/misc/veggies#pepper'>peppers</a> to the hot pan with diced tomatoes, red wine vinegar, and spices.  Cover and cook until softened to desired texture, about 10-15 minutes
+- Add the <a href='/misc/veggies#pepper'>peppers</a> to the hot pan with <a href='/misc/veggies#tomato'>diced tomatoes</a>, red wine vinegar, and spices.  Cover and cook until softened to desired texture, about 10-15 minutes
 Notes:
 - I often pair together my <a href='/recipes/tomato-turkey-tacos'>Tomato Turkey Tacos</a>, <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a>, and Sauteed Fajita Peppers
 - |

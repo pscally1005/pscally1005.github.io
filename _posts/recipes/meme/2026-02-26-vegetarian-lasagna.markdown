@@ -73,7 +73,7 @@ Instructions:
 
     Cover and cook until translucent, about 5 minutes<br><br>
 
-    Add in the rest of the sauce ingredients (crushed tomatoes, oregano, basil, parsley, garlic powder, onion powder, black pepper, salt, and red pepper flakes)<br><br>
+    Add in the rest of the sauce ingredients (<a href='/misc/veggies#tomato'>crushed tomatoes</a>, oregano, basil, parsley, garlic powder, onion powder, black pepper, salt, and red pepper flakes)<br><br>
 
     Reduce the heat to low, and let simmer (covered) for about 30 minutes with occasional stirring<br><br>
 

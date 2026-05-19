@@ -47,7 +47,7 @@ tags:
 - paprika
 - taco
 - ground meat
-Description: Happy Cinco de Mayo!  This is the <a href='/misc/meat'>meat</a> dish I make the most often when I have guests over.  It's just <a href='/misc/meat#ground-turkey'>ground turkey</a> sauteed with tomato paste and taco spices.  It comes together in less than 15 minutes, and can easily be made while holding a conversation with friends or family.  For what I normally pair along side this, check out my <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a> and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>!
+Description: Happy Cinco de Mayo!  This is the <a href='/misc/meat'>meat</a> dish I make the most often when I have guests over.  It's just <a href='/misc/meat#ground-turkey'>ground turkey</a> sauteed with <a href='/misc/veggies#tomato'>tomato paste</a> and taco spices.  It comes together in less than 15 minutes, and can easily be made while holding a conversation with friends or family.  For what I normally pair along side this, check out my <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a> and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>!
 Instructions:
 - Heat a medium pan over medium heat
 
@@ -55,7 +55,7 @@ Instructions:
 
 - Break up the <a href='/misc/meat'>meat</a> with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>, and deglaze with <a href='/misc/fruit#lime-juice'>lime juice</a>
 
-- Cook until no longer pink.  Add in the tomato paste and spices
+- Cook until no longer pink.  Add in the <a href='/misc/veggies#tomato'>tomato paste</a> and spices
 Notes:
 - I often pair together my <a href='/recipes/tomato-turkey-tacos'>Tomato Turkey Tacos</a>, <a href='/recipes/cilantro-lime-rice'>Cilantro Lime Brown Rice</a>, and <a href='/recipes/fajita-peppers'>Sauteed Fajita Peppers</a>
 - |
