@@ -246,6 +246,7 @@ Agave syrup,agave,5.82,665.05,0.00875,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,
 Coconut sugar,coconut-sugar,9.42,905.60,0.01040,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,78.0,0.0,0.0,0.0,0,40,
 Date sugar,date-sugar,8.98,396.20,0.02267,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,67.0,0.0,0.0,0.0,0,40,
 Date syrup,date-syrup,9.98,679.20,0.01469,47,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,69.0,0.0,0.0,0.0,0,40,
+Homemade fruit syrup,fruit-syrup,1.00,63.00,0.01587,46,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,89.0,0.0,0.0,0.0,0,40,/misc/homemade-fruit-syrup
 Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45wOzIv
 Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
 Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06942,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO

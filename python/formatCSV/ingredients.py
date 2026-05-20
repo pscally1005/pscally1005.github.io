@@ -178,6 +178,8 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "fruit-syrup":
+        f = "Homemade fruit syrup"
     elif food == "inulin-syrup":
         f = "High Fiber Inulin Syrup"
     elif food == "Fruit juice drink, diet":
