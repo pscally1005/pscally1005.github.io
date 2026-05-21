@@ -1,44 +1,42 @@
-# Sends the 52-week high/low stock email on weekdays (Mon–Fri) at 7:00 AM US Eastern.
-# GitHub cron uses UTC; we trigger at 11:00 and 12:00 UTC and only send when Eastern hour is 7.
+# Sends the 52-week high/low stock email on weekdays (Mon–Fri), ~7 AM US Eastern.
 #
-# Required repo secrets: SMTP_HOST, SMTP_USER, SMTP_PASSWORD
-# Subscribers live in python/stocks/subscribers.json (updated via stock_mailing_list.yml)
-# Optional: SMTP_PORT, EMAIL_FROM (defaults to poormanprotein@gmail.com), TOLERANCE_PCT
+# GitHub cron is UTC only and often runs LATE (30 min to several hours). We use a
+# single 11:00 UTC slot (7:00 AM EDT). Do not add a second cron or an "hour == 7"
+# gate — delayed jobs would skip sending entirely.
+#
+# Required secrets: SMTP_HOST, SMTP_USER, SMTP_PASSWORD
+# Subscribers: python/stocks/subscribers.json
 
 name: Daily 52-Week Stock Report
 
 on:
   schedule:
     - cron: "0 11 * * 1-5"
-    - cron: "0 12 * * 1-5"
   workflow_dispatch:
+
+concurrency:
+  group: daily-stock-report
+  cancel-in-progress: false
 
 jobs:
   send-report:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     defaults:
       run:
         working-directory: python/stocks
     steps:
-      - name: Check Eastern time
-        id: timecheck
+      - name: Log run time
         if: github.event_name == 'schedule'
         run: |
-          hour=$(TZ=America/New_York date +%H)
-          if [ "$hour" = "07" ]; then
-            echo "should_run=true" >> "$GITHUB_OUTPUT"
-            echo "7 AM Eastern — will send report."
-          else
-            echo "should_run=false" >> "$GITHUB_OUTPUT"
-            echo "Not 7 AM Eastern (hour=$hour); skipping."
-          fi
+          echo "Scheduled for 11:00 UTC (target ~7 AM US Eastern in EDT)."
+          echo "Actual UTC:   $(date -u '+%Y-%m-%d %H:%M %Z')"
+          echo "Actual Eastern: $(TZ=America/New_York date '+%Y-%m-%d %H:%M %Z')"
 
       - name: Checkout
-        if: github.event_name == 'workflow_dispatch' || steps.timecheck.outputs.should_run == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python
-        if: github.event_name == 'workflow_dispatch' || steps.timecheck.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -46,11 +44,9 @@ jobs:
           cache-dependency-path: python/stocks/requirements.txt
 
       - name: Install dependencies
-        if: github.event_name == 'workflow_dispatch' || steps.timecheck.outputs.should_run == 'true'
         run: pip install -r requirements.txt
 
       - name: Send report
-        if: github.event_name == 'workflow_dispatch' || steps.timecheck.outputs.should_run == 'true'
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
