@@ -4941,7 +4941,8 @@ LINKS = {
         "low-fat",
         "heart-healthy fats",
         "no oil",
-        "oil free"
+        "oil free",
+        "dietary fat"
     ],
     "/misc/protein": [
         "protein quality",
@@ -6386,6 +6387,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "bodily fat",
+    "body fat",
     "pizza crust",
     "1 dessert",
     "double chocolate",

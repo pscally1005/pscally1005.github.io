@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  High Fiber Chia Water
-date:   2026-04-22 00:00:00 -0500
+date:   2026-05-22 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
