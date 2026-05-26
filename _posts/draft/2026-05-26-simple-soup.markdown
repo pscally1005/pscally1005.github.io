@@ -47,12 +47,15 @@ tags:
 - carrots
 - onions
 - peppers
-Description: Any season is soup season if you're brave enough. A simple veggie soup is always good to have in your rotation, being easy, quick, filling, and nutritious. Just boil some veggies in broth, and you have the perfect side dish full of vitamins, minerals, and fiber.  Use whatever veggies you have on hand. Today I'm going with onions, peppers, carrots, and cabbage.
+Description: |
+  Any season is <a href='/soups-and-stew'>soup</a> season if you're brave enough. A simple <a href='/misc/bone-broth'>veggie soup</a> is always good to have in your rotation, being easy, quick, filling, and nutritious. Just boil some <a href='/misc/veggies'>veggies</a> in <a href='/misc/bone-broth'>broth</a>, and you have the perfect <a href='/recipes/sides'>side dish</a> full of <a href='/misc/nutrient-alphabet'>vitamins, minerals</a>, and <a href='/misc/fiber'>fiber</a>.<br><br>
+
+  Use whatever <a href='/misc/veggies'>veggies</a> you have on hand. Today I'm going with <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#carrots'>carrots</a>, and <a href='/misc/veggies#cabbage'>cabbage</a>.
 Instructions:
-- Add broth and spices to a medium pot. Cover and bring to a boil over high heat
+- Add water, <a href='https://amzn.to/4c6GlII'>better than bouillon</a>, and spices to a <a href='https://amzn.to/46ccg8m'>medium pot</a>. Cover and bring to a boil over high heat
 
-- Meanwhile, cut your onion, pepper, carrot, and cabbage into a small dice. Add to the pot of boiling water
+- Meanwhile, cut your <a href='/misc/veggies#onion'>onion</a>, <a href='/misc/veggies#pepper'>pepper</a>, <a href='/misc/veggies#carrots'>carrot</a>, and <a href='/misc/veggies#cabbage'>cabbage</a> into a small dice. Add to the pot of boiling water
 
-- Cover and let boil for 15 minutes. Remove from the heat, and finish with lemon juice and olive oil
+- Cover and let boil for 15 minutes. Remove from the heat, and finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a> and <a href='/misc/olive-oil'>olive oil</a>
 Notes:
 ---

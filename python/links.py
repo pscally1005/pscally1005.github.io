@@ -6403,6 +6403,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "couple of healthy cornbread recipes",
+    "corn cake",
     "bodily fat",
     "body fat",
     "pizza crust",

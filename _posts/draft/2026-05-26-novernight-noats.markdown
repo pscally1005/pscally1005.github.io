@@ -55,15 +55,17 @@ tags:
 - complex carbs
 - breakfast
 Description: |
-  Overnight oats. Except it's not overnight. And it's not oats. Wait, what am I making again?<br><br>
+  <a href='/oatmeal'>Overnight oats</a>. Except it's not overnight. And it's not <a href='/misc/grains#oats'>oats</a>. Wait, what am I making again?<br><br>
 
-  These "Novernight Noats" only need about 10 minutes of soaking time, and don't have any oatmeal. Instead, the magic comes from psyllium husk, a high fiber powder that's virtually calorie free. Its thickening power puts even chia seeds to shame.<br><br>
+  These "Novernight Noats" only need about 10 minutes of soaking time, and don't have any <a href='/oatmeal'>oatmeal</a>. Instead, the magic comes from <a href='https://amzn.to/3FAdvEl'>psyllium husk</a>, a <a href='/misc/fiber'>high fiber</a> powder that's virtually <a href='/misc/calories'>calorie</a> free. Its thickening power puts even <a href='/misc/seeds#chia-seeds'>chia seeds</a> to shame.<br><br>
 
-  Plus, with less carbs/calories due to the lack of oats, that let's you fill this with more goodies; namely extra nut butter and a banana. Mix together your bowl, and let it sit for just a few minutes before eating. A perfect breakfast for when you forget to prep it the night before, with plenty of fiber, protein, healthy fats, and complex carbs!
+  Plus, with less <a href='/misc/carbs'>carbs</a>/<a href='/misc/calories'>calories</a> due to the lack of <a href='/misc/grains#oats'>oats</a>, that let's you fill this with more goodies; namely extra <a href='/recipes/natural-peanut-butter'>nut butter</a> and a <a href='/misc/fruit#banana'>banana</a>.<br><br>
+
+  Mix together your bowl, and let it sit for just a few minutes before eating. A perfect <a href='/recipes/breakfast'>breakfast</a> for when you forget to prep it the night before, with plenty of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>healthy fats</a>, and <a href='/misc/carbs'>complex carbs</a>!
 Instructions:
-- Mash a banana with the back of a fork into a small bowl. Add in all the ingredients, and mix until fully combined. Let sit for at least 10 minutes for it to thicken
+- Mash a <a href='/misc/fruit#banana'>banana</a> with the back of a fork into a <a href='https://amzn.to/4adxMft'>small bowl</a>. Add in all the ingredients, and mix until fully combined. Let sit for at least 10 minutes for it to thicken
 Notes:
-- Making the exact same recipe but using 1/2 cup (40 g) rolled oats instead of psyllium husk yields the following nutrition facts
+- Making the exact same recipe but using 1/2 cup (40 g) <a href='/misc/grains#oats'>rolled oats</a> instead of <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> yields the following nutrition facts
 - |
   COMPARE(
     "novernightnoats",

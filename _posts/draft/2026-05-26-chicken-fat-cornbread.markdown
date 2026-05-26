@@ -54,27 +54,34 @@ tags:
 - chili
 - bbq
 - barbeque
-Description: I have a couple of healthy cornbread recipes, but this is not one of them. It's a traditional cornbread recipe, aka corn cake that somehow is a side dish and not a dessert. The delicious twist is that I'm using chicken fat in place of butter. Not only do I have some left over in my freezer, but it adds amazing savory, rich, and roasty chicken flavor!
-Instructions:
-- Crack your egg into a large bowl, and beat with a whisk. Add in the liquid ingredients (melted chicken fat, sugar, and buttermilk), and whisk until fully combined
+Description: |
+  I have a couple of healthy cornbread recipes, but this is not one of them. It's a traditional <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a> recipe, aka corn cake that somehow is a <a href='/recipes/sides'>side dish</a> and not a dessert.<br><br>
 
-- Add in the dry ingredients (cornmeal, flour, baking powder, and baking soda). Whisk until just combined
+  The delicious twist is that I'm using <a href='/misc/slow-cooker-chicken'>chicken fat</a> in place of <a href='/misc/dairy#butter'>butter</a>. Not only do I have some left over in my freezer, but it adds amazing savory, rich, and roasty <a href='/misc/meat#chicken-breast'>chicken</a> flavor!<br><br>
+
+  For some <a href='/recipes/cornbread'>healthy cornbread</a> recipes, check out my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>, <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a>, and <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>.
+Instructions:
+- Crack your <a href='/misc/meat#eggs'>egg</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>, and beat with a whisk. Add in the liquid ingredients (melted <a href='/misc/slow-cooker-chicken'>chicken fat</a>, <a href='/misc/hidden-sugar'>sugar</a>, and buttermilk), and whisk until fully combined
+
+- Add in the dry ingredients (cornmeal, <a href='/misc/grains#white-wheat'>white flour</a>, baking powder, and baking soda). Whisk until just combined
 - <img src='/assets/Misc/Unhealthy/Cornbread/bowl.jpg' alt='' class='instruction-image'>
 
-- Let the raw batter rest in the bowl for 15 minutes. Meanwhile, preheat your oven to 400F with a 10" cast iron pan in the oven
+- Let the raw batter rest in the bowl for 15 minutes. Meanwhile, preheat your oven to 400F with a <a href='https://amzn.to/465aAxx'>10" cast iron pan</a> in the oven
 
-- When the oven is fully heated, add a touch of oil, butter, or chicken fat to the pan, and tilt the pan around to fully coat it in a light layer of fat
+- When the oven is fully heated, add a touch of oil, <a href='/misc/dairy#butter'>butter</a>, or <a href='/misc/slow-cooker-chicken'>chicken fat</a> to the pan, and tilt the pan around to fully coat it in a light layer of <a href='/misc/fats'>fat</a>
 
 - Pour the batter into the pan
 - <img src='/assets/Misc/Unhealthy/Cornbread/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 400F for about 20 minutes, or until the top is lightly browned, a toothpick to the center comes out clean, and the internal temperature is around 200F
+- Bake at 400F for about 20 minutes, or until the top is lightly browned, a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>200F</a>
 - <img src='/assets/Misc/Unhealthy/Cornbread/baked.jpg' alt='' class='instruction-image'>
 
-- Let the cornbread rest for at least 5 minutes before slicing. Serve warm
+- Let the <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a> rest for at least 5 minutes before slicing. Serve warm
 - <img src='/assets/Misc/Unhealthy/Cornbread/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- Alternatively, you can use melted butter in place of chicken fat
+- Alternatively, you can use melted <a href='/misc/dairy#butter'>butter</a> in place of <a href='/misc/slow-cooker-chicken'>chicken fat</a>
 
-- My chicken fat is salted. If yours is unsalted, then I would recommend adding 1/2 tsp (3 g) of salt to the batter
+- <a href='/misc/hidden-sugar'>Brown sugar</a> will also work in place of <a href='/misc/hidden-sugar'>white sugar</a>
+
+- My <a href='/misc/slow-cooker-chicken'>chicken fat</a> is salted. If yours is unsalted, then I would recommend adding 1/2 tsp (3 g) of salt to the batter
 ---
