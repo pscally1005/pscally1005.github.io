@@ -65,6 +65,9 @@ Description: |
 Instructions:
 - Mash a <a href='/misc/fruit#banana'>banana</a> with the back of a fork into a <a href='https://amzn.to/4adxMft'>small bowl</a>. Add in all the ingredients, and mix until fully combined. Let sit for at least 10 minutes for it to thicken
 Notes:
+- It even passes the flip test!
+- <img src='/assets/Food/Meme/Novernight Noats/flip.jpg' alt='' class='instruction-image'>
+
 - Making the exact same recipe but using 1/2 cup (40 g) <a href='/misc/grains#oats'>rolled oats</a> instead of <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> yields the following nutrition facts
 - |
   COMPARE(
