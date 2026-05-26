@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Barlotto, aka Barley Risotto
-date:   2026-04-03 00:00:00 -0500
+date:   2026-05-26 00:00:00 -0500
 categories:
 - Recipes
 - Sides
@@ -22,7 +22,7 @@ vic: no
 permalink: /recipes/barlotto
 image: /assets/Food/Sides/Barlotto/cover.jpg
 file: barlotto
-servingSize: 3/4 cup cooked (140 g)
+servingSize: ~1 cup cooked (180 g)
 section1:
 start2:
 section2:
@@ -53,14 +53,18 @@ tags:
 Description: |
   Instead of <a href='/misc/grains#white-rice'>white arborio rice</a>, I'm making a risotto inspired dish using <a href='/misc/grains#barley'>barley</a> instead. Being a <a href='/misc/grains'>whole grain</a>, <a href='/misc/grains#barley'>barley</a> is much higher in <a href='/misc/fiber'>fiber</a>, <a href='/misc/nutrient-alphabet'>vitamins, minerals</a>, and <a href='/misc/protein'>protein</a> compared to standard <a href='/misc/grains#white-rice'>white rice</a>.<br><br>
 
-  This barlotto is also <a href='/recipes/meatless'>vegetarian</a> (depending on your broth), dairy free, and stirring free. What does that mean?  It means you won't have to labor over a pot of risotto, stirring continuously for an hour. Instead, you use your <a href='https://amzn.to/49TUS9E'>slow cooker</a> to make the <a href='/misc/grains#barley'>barley</a> creamy. Just check back after work, and you're good to go for this <a href='/recipes/sides'>side dish</a>!  For another risotto hybrid dish, check out my <a href='/recipes/butternut-squash-risotto'>Butternut Squash RisOATto</a> or <a href='/recipes/congee'>Brown Rice Congee Base</a>.
+  This barlotto is also <a href='/recipes/meatless'>vegetarian</a> (depending on your broth), dairy free, and stirring free. What does that mean?  It means you won't have to labor over a pot of risotto, stirring continuously for an hour. Instead, you use your <a href='https://amzn.to/49TUS9E'>slow cooker</a> to make the <a href='/misc/grains#barley'>barley</a> creamy.<br><br>
+
+  Just check back after work, and you're good to go for this <a href='/recipes/sides'>side dish</a>!  For another risotto hybrid dish, check out my <a href='/recipes/butternut-squash-risotto'>Butternut Squash RisOATto</a> or <a href='/recipes/congee'>Brown Rice Congee Base</a>.
 Instructions:
 - The night before, soak your <a href='/misc/grains#barley'>barley</a> in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
 
 - In the morning, discard the soaking liquid. Add the soaked <a href='/misc/grains#barley'>barley</a> to a <a href='https://amzn.to/49TUS9E'>slow cooker</a> with broth, nutritional yeast, and black pepper
 
-- Cover and cook on low for 8 hours, stirring occasionally
-- <img src='/assets/Food/Sides/Barlotto/crockpot.jpg' alt='' class='instruction-image'>
+- Cover and cook on low for 4-8 hours, stirring occasionally
+- <img src='/assets/Food/Sides/Barlotto/pot.jpg' alt='' class='instruction-image'>
 Notes:
 - Alternatively, instead of broth, you can use 1 tbsp (18 g) <a href='https://amzn.to/4c6GlII'>better than bouillon</a>, 1 tbsp (12 g) <a href='https://amzn.to/3QiSinj'>bouillon powder</a>, or 3 pieces (12 g) of <a href='https://amzn.to/4sUCq9c'>bouillon cubes</a>, plus the same amount (3 cups, 720 g) of water
+
+- The longer you cook it, the creamier the <a href='/misc/grains#barley'>barley</a> will be, but the more it will stick to the inside of the <a href='https://amzn.to/49TUS9E'>slow cooker</a>.  4 hours and it will be a little bit creamy, slightly dry, and will stick minimally.  8 hours and it will be very creamy and rich, but a lot will be stuck to the sides of the pot
 ---
