@@ -74,7 +74,7 @@ Notes:
   This post is more of a guide on how to make stuffed peppers; below are different filling options you can try
   <ul>
     <li>Replace the ground turkey with either ground beef or <a href='/misc/ground-chicken'>ground chicken</a></li>
-    <li>Vegetarian stuffed peppers using either <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a> or <a href='/recipes/couscous'>Tomato and Bean Couscous</a> as your filling</li>
+    <li><a href='/recipes/meatless'>Vegetarian</a> stuffed peppers using either <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a> or <a href='/recipes/couscous'>Tomato and Bean Couscous</a> as your filling</li>
     <li>Mediterranean stuffed peppers using my <a href='/recipes/mediterranean-potato-salad'>Mediterranean Sweet Potato Salad</a> or <a href='/recipes/bean-salad'>Mediterranean 3 Bean Salad</a></li>
     <li>Fill it with just beans, such as <a href='/recipes/slow-cooked-beans'>Slow Cooker Black Beans</a>, <a href='/recipes/refried-beans'>Refried Pinto Beans</a>, or <a href='/recipes/baked-beans'>No Added Sugar Baked Beans</a></li>
     <li>Replace the <a href='/misc/grains#brown-rice'>brown rice</a> with <a href='/recipes/red-lentils'>red lentils</a>, <a href='/recipes/cauliflower-rice'>cauliflower rice</a>, <a href='/misc/grains#quinoa'>quinoa</a>, or couscous</li>

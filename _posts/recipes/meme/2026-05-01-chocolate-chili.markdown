@@ -56,7 +56,7 @@ tags:
 - chili powder
 - stew
 - winter
-Description: Traditionally, <a href='/recipes/chili'>chili</a> has a little bit of <a href='/misc/chocolate-benefits'>chocolate</a> or <a href='/misc/chocolate-benefits'>cocoa powder</a> in it. A <i>little</i> bit. But what if it had <i>quite</i> a bit more than a little bit?  Introducing "Chocolate Chili", with a whopping cup of <a href='https://amzn.to/4rhYDwh'>carob powder</a>. It's incidentally vegetarian. Have you seen <a href='/misc/meat'>meat</a> prices lately?  I'm not wasting my hard earned money on this potentially stupid idea.
+Description: Traditionally, <a href='/recipes/chili'>chili</a> has a little bit of <a href='/misc/chocolate-benefits'>chocolate</a> or <a href='/misc/chocolate-benefits'>cocoa powder</a> in it. A <i>little</i> bit. But what if it had <i>quite</i> a bit more than a little bit?  Introducing "Chocolate Chili", with a whopping cup of <a href='https://amzn.to/4rhYDwh'>carob powder</a>. It's incidentally <a href='/recipes/meatless'>vegetarian</a>. Have you seen <a href='/misc/meat'>meat</a> prices lately?  I'm not wasting my hard earned money on this potentially stupid idea.
 Instructions:
 - Cut your <a href='/misc/veggies#onion'>onions</a> and <a href='/misc/veggies#pepper'>peppers</a> into a medium dice
 
@@ -77,7 +77,7 @@ Notes:
 - |
   I normally precook the <a href='/misc/veggies'>veggies</a> and <a href='/misc/meat'>meat</a> before adding them to my <a href='https://amzn.to/49TUS9E'>slow cooker</a> and cooking for 8 hours on low when I made <a href='/recipes/chili'>chili</a>.<br><br>
 
-  However, since I'm making this vegetarian, I decided to skip precooking the <a href='/misc/veggies'>veggies</a>.  Instead, I dumped the <a href='/misc/veggies'>vegetables</a> in raw, and cooked for 12 hours on low
+  However, since I'm making this <a href='/recipes/meatless'>vegetarian</a>, I decided to skip precooking the <a href='/misc/veggies'>veggies</a>.  Instead, I dumped the <a href='/misc/veggies'>vegetables</a> in raw, and cooked for 12 hours on low
 
 - |
   Here's a simple schedule if you plan to <a href='/recipes/slow-cooked-beans'>make the beans from scratch</a> for a 7 pm dinner on a Sunday night

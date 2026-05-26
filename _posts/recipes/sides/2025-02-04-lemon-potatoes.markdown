@@ -70,5 +70,5 @@ Notes:
 
 - Fresh <a href='/misc/fruit#lemon-juice'>lemon juice</a> is preferred, as the flavor is better, and you can also incorporate the lemon zest.  I used the juice of 2 whole <a href='/misc/fruit#lemon'>lemons</a>, with the zest of 1 of them mixed into the marinade.  I used the zest of the other <a href='/misc/fruit#lemon'>lemon</a> at the end on top after cooking.  Bottled <a href='/misc/fruit#lemon-juice'>lemon juice</a> will also work though.
 
-- To make this <a href='/misc/veggies#garlic'>garlic</a>/<a href='/misc/veggies#onion'>onion</a> free, simply omit the chicken bouillon and <a href='/misc/veggies#garlic'>minced garlic</a>.  Instead, double the salt to 2 tsp (12 g), and add 2 tsp (6 g) black pepper.  This also doubles as vegetarian/vegan
+- To make this <a href='/misc/veggies#garlic'>garlic</a>/<a href='/misc/veggies#onion'>onion</a> free, simply omit the chicken bouillon and <a href='/misc/veggies#garlic'>minced garlic</a>.  Instead, double the salt to 2 tsp (12 g), and add 2 tsp (6 g) black pepper.  This also doubles as <a href='/recipes/meatless'>vegetarian</a>/vegan
 ---
