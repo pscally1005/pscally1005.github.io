@@ -10,6 +10,22 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes-simple-soup": [
+        "20 minute veggie soup",
+        "20 minute vegetable soup",
+        "20 minute simple soup",
+        "20 minute soup",
+        "simple soup"
+    ],
+    "/recipes/novernight-noats": [
+        "novernight noats",
+        "n-overnight n=oats",
+        "no-vernight no-oats",
+        "no-overnight no-oats"
+    ],
+    "/recipes/chicken-fat-cornbread": [
+        "chicken fat cornbread"
+    ],
     "/recipes/diy-yogurt": [
         "diy yogurt"
     ],
@@ -8202,7 +8218,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-06-24")):
+            if not file.startswith(("2026-05-26")):
                 continue
 
             # exclude some files
