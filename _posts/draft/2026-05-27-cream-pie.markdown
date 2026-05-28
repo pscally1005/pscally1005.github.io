@@ -54,13 +54,16 @@ tags:
 - cinnamon
 - nutmeg
 - ginger
-Description: Why eat a protein bar when you can have an oatmeal cream pies?  This delicious and high protein dessert has 30 g of protein in just 250 calories, while also containing a good amount of fiber from the oats and healthy fats from the nut butter.  The cookies are made of casein protein powder, oats, powdered peanut butter, and egg whites, while the filling contains cream cheese and Greek yogurt.  These sandwich cookies are full of cinnamon flavor, and are the perfect pre-workout snack!
+Description: |
+  Why eat a protein bar when you can have an oatmeal cream pie?  This delicious and <a href='/misc/high-protein'>high protein</a> <a href='/recipes/healthier-dessert'>dessert</a> has 30 g of <a href='/misc/protein'>protein</a> in just 250 <a href='/misc/calories'>calories</a>, while also containing a good amount of <a href='/misc/fiber'>fiber</a> from the <a href='/misc/grains#oats'>oats</a> and <a href='/misc/fats'>healthy fats</a> from the <a href='/recipes/natural-peanut-butter'>nut butter</a>.<br><br>
+
+  The cookies are made of <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/grains#oats'>oats</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/meat#egg-whites'>egg whites</a>, while the filling contains <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a>.  These sandwich cookies are full of cinnamon flavor, and are the perfect pre-workout snack!
 Instructions:
-- Preheat your oven to 350F. Line 2 large cookie sheets with parchment paper
+- Preheat your oven to 350F. Line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- In a large bowl, whisk together the dry ingredients - casein, rolled oats, oat flour, powdered peanut butter, cinnamon, baking powder, ginger, nutmeg, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cinnamon, baking powder, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, and salt
 
-- Add in the liquid ingredients - egg whites, applesauce, nut butter, vanilla extract, and liquid monk fruit. Mix until fully combined with a silicone spatula
+- Add in the liquid ingredients - <a href='/misc/meat#egg-whites'>egg whites</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Cream Pies/bowl.jpg' alt='' class='instruction-image'>
 
 - Scoop the batter onto the prepared pans to make 12 cookies, or 6 per pan. Each cookie should be about 40 g. Spread to a thin and even circle using the back of a spoon
@@ -69,7 +72,7 @@ Instructions:
 - Bake at 350F until lightly golden brown, about 5-7 minutes. Allow them to cool totally on the sheet
 - <img src='/assets/Food/Protein Powder/Cream Pies/baked.jpg' alt='' class='instruction-image'>
 
-- In a medium bowl, mix together the filling with a silicone spatula - (softened) cream cheese, Greek yogurt, casein protein powder, vanilla extract, and liquid monk fruit
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the filling with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - (softened) <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/dairy#yogurt'>Greek yogurt</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 - <img src='/assets/Food/Protein Powder/Cream Pies/icing.jpg' alt='' class='instruction-image'>
 
 - Spread the filling batter onto the bottom side of 6 cookies, about 30 g of cream filling each. Top with the remaining 6 cookies

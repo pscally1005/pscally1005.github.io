@@ -6412,6 +6412,7 @@ EXCLUDED_PHRASES = [
     "certainly be baking",
     "sandwich cookies",
     "sandwich cookie",
+    "6 cookies",
     "couple of healthy cornbread recipes",
     "corn cake",
     "bodily fat",
