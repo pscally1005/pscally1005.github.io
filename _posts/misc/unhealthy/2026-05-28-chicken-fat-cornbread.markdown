@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Chicken Fat Cornbread
-date:   2026-05-26 00:00:00 -0500
+date:   2026-05-28 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -18,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: vic
 permalink: /recipes/chicken-fat-cornbread
 image: /assets/Misc/Unhealthy/Cornbread/cover.jpg
 file: chickenfatcornbread

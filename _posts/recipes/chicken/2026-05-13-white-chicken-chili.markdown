@@ -53,9 +53,9 @@ tags:
 - onions
 - peppers
 Description: |
-  Who says you can't have <a href='/soups-and-stew'>soup</a> in May?  This creamy and healthy white chicken chili is a perfect <a href='/recipes/sides'>side</a> or main dish at lunch or dinner. The sneaky addition of <a href='/misc/dairy#yogurt'>Greek yogurt</a> makes it high in <a href='/misc/protein'>protein</a>, creamy, and light in color without the need for sour cream or <a href='/misc/dairy#cream-cheese'>cream cheese</a>, cutting back on <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>.<br><br>
+  Who says you can't have <a href='/soups-and-stews'>soup</a> in May?  This creamy and healthy white chicken chili is a perfect <a href='/recipes/sides'>side</a> or main dish at lunch or dinner. The sneaky addition of <a href='/misc/dairy#yogurt'>Greek yogurt</a> makes it high in <a href='/misc/protein'>protein</a>, creamy, and light in color without the need for sour cream or <a href='/misc/dairy#cream-cheese'>cream cheese</a>, cutting back on <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>.<br><br>
 
-  With <a href='/misc/beans'>beans</a> and <a href='/misc/grains#corn'>corn</a>, this <a href='/soups-and-stew'>stew</a> is a good source of complex <a href='/misc/carbs'>carbohydrates</a> and <a href='/misc/fiber'>fiber</a>. It's deliberately <a href='/misc/fats'>low fat</a>, meaning it pairs perfectly with a topping of sliced <a href='/misc/fruit#avocado'>avocado</a> or <a href='/misc/dairy#cheddar'>shredded cheese</a>!<br><br>
+  With <a href='/misc/beans'>beans</a> and <a href='/misc/grains#corn'>corn</a>, this <a href='/soups-and-stews'>stew</a> is a good source of complex <a href='/misc/carbs'>carbohydrates</a> and <a href='/misc/fiber'>fiber</a>. It's deliberately <a href='/misc/fats'>low fat</a>, meaning it pairs perfectly with a topping of sliced <a href='/misc/fruit#avocado'>avocado</a> or <a href='/misc/dairy#cheddar'>shredded cheese</a>!<br><br>
 
   This recipe takes advantage of using <a href='/recipes/shredded-chicken'>leftover cooked chicken</a>. You can either buy a <a href='/misc/rotisserie-chicken-cost-analysis'>store bought rotisserie chicken</a> and shred it up, or make my <a href='/recipes/shredded-chicken'>Simple Shredded Chicken</a>!
 Instructions:
@@ -71,5 +71,5 @@ Instructions:
 Notes:
 - <a href='/misc/dairy#cottage-cheese'>Nonfat cottage cheese</a> (blended) can be used in place of <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>
 
-- It's better to let the <a href='/soups-and-stew'>stew</a> totally cool if you can before adding the <a href='/misc/dairy#yogurt'>yogurt</a> (or <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>), as the heat could curdle the <a href='/misc/dairy'>dairy</a>
+- It's better to let the <a href='/soups-and-stews'>stew</a> totally cool if you can before adding the <a href='/misc/dairy#yogurt'>yogurt</a> (or <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>), as the heat could curdle the <a href='/misc/dairy'>dairy</a>
 ---

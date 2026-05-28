@@ -48,7 +48,7 @@ tags:
 - onions
 - peppers
 Description: |
-  Any season is <a href='/soups-and-stew'>soup</a> season if you're brave enough. A simple <a href='/misc/bone-broth'>veggie soup</a> is always good to have in your rotation, being easy, quick, filling, and nutritious. Just boil some <a href='/misc/veggies'>veggies</a> in <a href='/misc/bone-broth'>broth</a>, and you have the perfect <a href='/recipes/sides'>side dish</a> full of <a href='/misc/nutrient-alphabet'>vitamins, minerals</a>, and <a href='/misc/fiber'>fiber</a>.<br><br>
+  Any season is <a href='/soups-and-stews'>soup</a> season if you're brave enough. A simple <a href='/misc/bone-broth'>veggie soup</a> is always good to have in your rotation, being easy, quick, filling, and nutritious. Just boil some <a href='/misc/veggies'>veggies</a> in <a href='/misc/bone-broth'>broth</a>, and you have the perfect <a href='/recipes/sides'>side dish</a> full of <a href='/misc/nutrient-alphabet'>vitamins, minerals</a>, and <a href='/misc/fiber'>fiber</a>.<br><br>
 
   Use whatever <a href='/misc/veggies'>veggies</a> you have on hand. Today I'm going with <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#carrots'>carrots</a>, and <a href='/misc/veggies#cabbage'>cabbage</a>.
 Instructions:

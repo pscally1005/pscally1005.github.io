@@ -708,6 +708,8 @@ def ingredients(food):
         f = "Boneless skinless chicken breast"
     elif food == "Chicken, raw, meat only, thigh, dark meat, broilers or fryers" or food == "Boneless skinless chicken thigh filets by PERDUE":
         f = "Boneless skinless chicken thighs"
+    elif food == "whole-chicken-raw":
+        f = "Whole chicken"
     elif food == "Chicken, raw, meat and skin, wing, broilers or fryers":
         f = "Chicken wings"
     elif food == "Chicken, raw, ground":

@@ -95,6 +95,10 @@ def grams(food, mass, vol):
         m = "1135"
     elif vol == "3 lb":
         m = "1362"
+    elif vol == "4 lb":
+        m = "1814"
+    elif vol == "5 lb":
+        m = "2268"
 
     # Quick nutella
     elif food == "Single Serving Quick Nutella":

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Novernight Noats
+title:  No-vernight No-ats
 date:   2026-05-26 00:00:00 -0500
 categories:
 - Recipes

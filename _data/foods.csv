@@ -460,6 +460,7 @@ Pecans,pecans,9.87,454.00,0.02174,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,
 Walnuts,walnuts,5.98,454.00,0.01317,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Walnut butter,walnuts,5.98,454.00,0.01317,20,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Chicken,chicken-cooked,3.56,454.00,0.00784,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Whole chicken,whole-chicken-raw,0.99,454.00,0.00218,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Boneless skinless chicken breast,chicken-breast,2.67,454.00,0.00588,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Boneless skinless chicken thighs,chicken-thighs,3.48,454.00,0.00767,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Chicken thighs (either boneless skinless or bone-in skin-on),chicken-thighs,5.24,828.00,0.00633,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,

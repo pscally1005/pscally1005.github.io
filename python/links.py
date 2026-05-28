@@ -19,9 +19,10 @@ LINKS = {
     ],
     "/recipes/novernight-noats": [
         "novernight noats",
-        "n-overnight n=oats",
-        "no-vernight no-oats",
-        "no-overnight no-oats"
+        "n-overnight n-oats",
+        "no-vernight no-ats",
+        "no-overnight no-oats",
+        "<b>No</b>vernight <b>No</b>ats"
     ],
     "/recipes/chicken-fat-cornbread": [
         "chicken fat cornbread"
@@ -5741,7 +5742,7 @@ LINKS = {
         "pesto recipes",
         "pesto"
     ],
-    "/soups-and-stew": [
+    "/soups-and-stews": [
         "soup and stew recipes here",
         "soup recipes here",
         "stew recipes here",
