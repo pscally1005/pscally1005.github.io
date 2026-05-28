@@ -17,9 +17,9 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: vic
+vic: yes
 permalink: /recipes/chicken-fat-cornbread
-image: /assets/Misc/Unhealthy/Cornbread/cover.jpg
+image: /assets/Misc/Unhealthy/Cornbread/cover2.jpg
 file: chickenfatcornbread
 servingSize: 1 slice
 section1: Wet Ingredients
@@ -75,7 +75,8 @@ Instructions:
 - Bake at 400F for about 20 minutes, or until the top is lightly browned, a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>200F</a>
 - <img src='/assets/Misc/Unhealthy/Cornbread/baked.jpg' alt='' class='instruction-image'>
 
-- Let the <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a> rest for at least 5 minutes before slicing. Serve warm
+- Let the <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a> rest for at least 5 minutes before slicing with a plastic knife. Serve warm
+- <img src='/assets/Misc/Unhealthy/Cornbread/cover1.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Misc/Unhealthy/Cornbread/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - Alternatively, you can use melted <a href='/misc/dairy#butter'>butter</a> in place of <a href='/misc/slow-cooker-chicken'>chicken fat</a>
@@ -83,4 +84,21 @@ Notes:
 - <a href='/misc/hidden-sugar'>Brown sugar</a> will also work in place of <a href='/misc/hidden-sugar'>white sugar</a>
 
 - My <a href='/misc/slow-cooker-chicken'>chicken fat</a> is salted. If yours is unsalted, then I would recommend adding 1/2 tsp (3 g) of salt to the batter
+
+- For a slightly healthier variant, I would recommend substituting the <a href='/misc/slow-cooker-chicken'>chicken fat</a>, granulated <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> for 1/3 cup (75 g) <a href='/misc/olive-oil'>extra virgin olive oil</a>, 1/2 cup (168 g) <a href='/misc/natural-sweeteners#honey'>honey</a>, and 1 cup (120 g) <a href='/misc/grains#whole-wheat'>whole wheat flour</a>
+- |
+  COMPARE(
+    "chickenfatcornbread",
+    "healthiercornbread";
+
+    "<a href='#recipe'>Standard</a>",
+    "<a href='#notes'>Healthier</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---

@@ -22,7 +22,7 @@ vic: no
 permalink: /recipes/simple-soup
 image: /assets/Food/Sides/Simple Soup/cover.jpg
 file: simplesoup
-servingSize:
+servingSize: ~2 cup (480 g)
 section1: Step 1
 start2: Onion
 section2: Step 2
@@ -57,5 +57,7 @@ Instructions:
 - Meanwhile, cut your <a href='/misc/veggies#onion'>onion</a>, <a href='/misc/veggies#pepper'>pepper</a>, <a href='/misc/veggies#carrots'>carrot</a>, and <a href='/misc/veggies#cabbage'>cabbage</a> into a small dice. Add to the pot of boiling water
 
 - Cover and let boil for 15 minutes. Remove from the heat, and finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a> and <a href='/misc/olive-oil'>olive oil</a>
+- <img src='/assets/Food/Sides/Simple Soup/pot.jpg' alt='' class='instruction-image'>
 Notes:
+- I'm using 4 tsp (24 g) of <a href='https://amzn.to/4c6GlII'>better than bouillon</a> plus 4 cups (960 g) of water as my <a href='/misc/bone-broth'>broth</a>.  You can alternatively use 4 tsp (16 g) <a href='https://amzn.to/3QiSinj'>bouillon powder</a> or 4 pieces (16 g) of <a href='https://amzn.to/4sUCq9c'>bouillon cubes</a> instead of <a href='https://amzn.to/4c6GlII'>better than bouillon</a>, or just 4 cups (960 g) of whatever <a href='/misc/bone-broth'>broth</a> you have
 ---
