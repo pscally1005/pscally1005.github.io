@@ -85,14 +85,33 @@ Notes:
 
 - My <a href='/misc/slow-cooker-chicken'>chicken fat</a> is salted. If yours is unsalted, then I would recommend adding 1/2 tsp (3 g) of salt to the batter
 
-- For a slightly healthier variant, I would recommend substituting the <a href='/misc/slow-cooker-chicken'>chicken fat</a>, granulated <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> for 1/3 cup (75 g) <a href='/misc/olive-oil'>extra virgin olive oil</a>, 1/2 cup (168 g) <a href='/misc/natural-sweeteners#honey'>honey</a>, and 1 cup (120 g) <a href='/misc/grains#whole-wheat'>whole wheat flour</a>
+- |
+  <div id='healthier' class='table-of-contents-2'></div>
+  For a <i>slightly healthier</i> variant, you can substitute the <a href='/misc/slow-cooker-chicken'>chicken fat</a>, granulated <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> for <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
+
+  Using honey instead of white sugar means that this cornbread is free of refined sugars.  Whole wheat flour contains more fiber and protein than standard all purpose flour, while being less processed.  Finally, this variation features more heart healthy unsaturated fats from the olive oil as opposed to saturated fat from the chicken fat.<br><br>
+
+  Bake the cornbread the same as before; same temperature and approximately the same time.
+- INGREDIENTS(healthiercornbread)
+
+- |
+  <div id='healthier' class='table-of-contents-2'></div>
+  For a <i>sighificantly healthier</i> variant, you can substitute the <a href='/misc/slow-cooker-chicken'>chicken fat</a>, granulated <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> for unsweetened applesauce, sugar free syrup, and almond flour.<br><br>
+
+  Using sugar free syrup instead of white sugar or honey means that this cornbread won't contain any added sugar.  Instead of butter, oil, or animal fat, this healthy cornbread gets it's fat from almond flour.  In addition to healthy fats, almond flour adds vitamin E, fiber, and protein, while also making it gluten free.  The applesauce acts as a fat substitute, keeping the bread moist for less calories and while providing subtle sweetness.<br><br>
+
+  Bake the cornbread the same as before; same temperature and approximately the same time.
+- INGREDIENTS(healthiestcornbread)
+
 - |
   COMPARE(
     "chickenfatcornbread",
-    "healthiercornbread";
+    "healthiercornbread",
+    "healthiestcornbread";
 
     "<a href='#recipe'>Standard</a>",
-    "<a href='#notes'>Healthier</a>";
+    "<a href='#healthier'>Healthier</a>",
+    "<a href='#healthiest'>Healthiest</a>";
 
     "Calories",
     "Protein",
