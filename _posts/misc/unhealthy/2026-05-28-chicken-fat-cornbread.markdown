@@ -58,6 +58,7 @@ Description: |
 
   The delicious twist is that I'm using <a href='/misc/slow-cooker-chicken'>chicken fat</a> in place of <a href='/misc/dairy#butter'>butter</a>. Not only do I have some left over in my freezer, but it adds amazing savory, rich, and roasty <a href='/misc/meat#chicken-breast'>chicken</a> flavor!<br><br>
 
+  For some healthy cornbread recipes, check out my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>, <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a>, and <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>.
 Instructions:
 - Crack your <a href='/misc/meat#eggs'>egg</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>, and beat with a whisk. Add in the liquid ingredients (melted <a href='/misc/slow-cooker-chicken'>chicken fat</a>, <a href='/misc/hidden-sugar'>sugar</a>, and buttermilk), and whisk until fully combined
 
