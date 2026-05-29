@@ -1852,9 +1852,9 @@ LINKS = {
         "pecan butter bar"
     ],
     "/recipes/cornbread": [
-        "homemade cornbread",
-        "healthier cornbread",
-        "healthy cornbread",
+        # "homemade cornbread",
+        # "healthier cornbread",
+        # "healthy cornbread",
         "cheesy protein cornbread",
         "sugar free cornbread",
         "sugar-free cornbread"
@@ -6410,6 +6410,10 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "for some healthy cornbread recipes",
+    "this healthy cornbread",
+    "the cornbread",
+    "this cornbread",
     "sandwich cookies",
     "sandwich cookie",
     "6 cookies",
@@ -8230,7 +8234,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-27")):
+            if not file.startswith(("2026-05-28")):
                 continue
 
             # exclude some files

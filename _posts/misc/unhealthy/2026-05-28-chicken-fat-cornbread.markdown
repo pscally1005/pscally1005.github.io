@@ -58,7 +58,6 @@ Description: |
 
   The delicious twist is that I'm using <a href='/misc/slow-cooker-chicken'>chicken fat</a> in place of <a href='/misc/dairy#butter'>butter</a>. Not only do I have some left over in my freezer, but it adds amazing savory, rich, and roasty <a href='/misc/meat#chicken-breast'>chicken</a> flavor!<br><br>
 
-  For some <a href='/recipes/cornbread'>healthy cornbread</a> recipes, check out my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>, <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a>, and <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>.
 Instructions:
 - Crack your <a href='/misc/meat#eggs'>egg</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>, and beat with a whisk. Add in the liquid ingredients (melted <a href='/misc/slow-cooker-chicken'>chicken fat</a>, <a href='/misc/hidden-sugar'>sugar</a>, and buttermilk), and whisk until fully combined
 
@@ -75,7 +74,7 @@ Instructions:
 - Bake at 400F for about 20 minutes, or until the top is lightly browned, a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>200F</a>
 - <img src='/assets/Misc/Unhealthy/Cornbread/baked.jpg' alt='' class='instruction-image'>
 
-- Let the <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a> rest for at least 5 minutes before slicing with a plastic knife. Serve warm
+- Let the cornbread rest for at least 5 minutes before slicing with a plastic knife. Serve warm
 - <img src='/assets/Misc/Unhealthy/Cornbread/cover1.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Misc/Unhealthy/Cornbread/cut.jpg' alt='' class='instruction-image'>
 Notes:
@@ -87,18 +86,18 @@ Notes:
 
 - |
   <div id='healthier' class='table-of-contents-2'></div>
-  For a <i>slightly healthier</i> variant, you can substitute the <a href='/misc/slow-cooker-chicken'>chicken fat</a>, granulated <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> for <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
+  For a <i>slightly healthier</i> variant, you can substitute the <a href='/misc/slow-cooker-chicken'>chicken fat</a>, granulated <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> for <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  Additionally, you will need to add some salt to the raw batter.<br><br>
 
-  Using honey instead of white sugar means that this cornbread is free of refined sugars.  Whole wheat flour contains more fiber and protein than standard all purpose flour, while being less processed.  Finally, this variation features more heart healthy unsaturated fats from the olive oil as opposed to saturated fat from the chicken fat.<br><br>
+  Using <a href='/misc/natural-sweeteners#honey'>honey</a> instead of <a href='/misc/hidden-sugar'>white sugar</a> means that this cornbread is free of <a href='/misc/hidden-sugar'>refined sugars</a>.  <a href='/misc/grains#whole-wheat'>Whole wheat flour</a> contains more <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>protein</a> than standard <a href='/misc/grains#white-wheat'>all purpose flour</a>, while being less <a href='/misc/processed-foods'>processed</a>.  Finally, this variation features more heart healthy <a href='/misc/fats'>unsaturated fats</a> from the <a href='/misc/olive-oil'>olive oil</a> as opposed to <a href='/misc/fats'>saturated fat</a> from the <a href='/misc/slow-cooker-chicken'>chicken fat</a>.<br><br>
 
   Bake the cornbread the same as before; same temperature and approximately the same time.
 - INGREDIENTS(healthiercornbread)
 
 - |
-  <div id='healthier' class='table-of-contents-2'></div>
-  For a <i>sighificantly healthier</i> variant, you can substitute the <a href='/misc/slow-cooker-chicken'>chicken fat</a>, granulated <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> for unsweetened applesauce, sugar free syrup, and almond flour.<br><br>
+  <div id='healthiest' class='table-of-contents-2'></div>
+  For a <i>sighificantly healthier</i> variant, you can substitute the <a href='/misc/slow-cooker-chicken'>chicken fat</a>, granulated <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> for <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/nuts#almonds'>almond flour</a>.  Additionally, you will need to add some salt to the raw batter.<br><br>
 
-  Using sugar free syrup instead of white sugar or honey means that this cornbread won't contain any added sugar.  Instead of butter, oil, or animal fat, this healthy cornbread gets it's fat from almond flour.  In addition to healthy fats, almond flour adds vitamin E, fiber, and protein, while also making it gluten free.  The applesauce acts as a fat substitute, keeping the bread moist for less calories and while providing subtle sweetness.<br><br>
+  Using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> instead of <a href='/misc/hidden-sugar'>white sugar</a> or <a href='/misc/natural-sweeteners#honey'>honey</a> means that this cornbread won't contain any <a href='/misc/hidden-sugar'>added sugar</a>.  Instead of <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/olive-oil'>oil</a>, or animal fat, this healthy cornbread gets it's <a href='/misc/fats'>fat</a> from <a href='/misc/nuts#almonds'>almond flour</a>.  In addition to <a href='/misc/fats'>healthy fats</a>, <a href='/misc/nuts#almonds'>almond flour</a> adds <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/protein'>protein</a>, while also making it <a href='/misc/celiac'>gluten free</a>.  The <a href='/misc/fruit#apple'>applesauce</a> acts as a <a href='/misc/fats'>fat</a> substitute, keeping the bread moist for less <a href='/misc/calories'>calories</a> and while providing subtle sweetness.<br><br>
 
   Bake the cornbread the same as before; same temperature and approximately the same time.
 - INGREDIENTS(healthiestcornbread)
@@ -118,6 +117,7 @@ Notes:
     "Fat",
     "Net Carbs",
     "Fiber",
-    "Added Sugar"
+    "Added Sugar",
+    "Sugar Alcohol"
   )
 ---

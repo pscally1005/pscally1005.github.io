@@ -142,7 +142,7 @@
     {% endfor %}
 
     <!-- Section 1 -->
-    {% if !page.section1 and recipe == "true" %}
+    {% if page.title == "Chicken Fat Cornbread" or (!page.section1 and recipe == "true") %}
         <div class='ingredients-section'>{{ page.section1 }}</div>
     {% endif %}
 
@@ -159,7 +159,7 @@
                 {% assign vol = row["Description"] %}
 
                 <!-- Only do recipe sections on actual page recipes -->
-                {% if recipe == "true" %}
+                {% if page.title == "Chicken Fat Cornbread" or recipe == "true" %}
 
                     <!-- Section 2 -->
                     {% if food == page.start2 %}
