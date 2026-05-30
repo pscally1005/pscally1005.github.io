@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Healthy Baklava
-date:   2026-04-09 00:00:00 -0500
+date:   2026-05-29 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
@@ -21,7 +21,7 @@ copycat: no
 vic: no
 permalink: /recipes/baklava
 image: /assets/Food/Healthier Dessert/Baklava/cover.jpg
-file: baklava
+file: baklavasfs
 servingSize: 1 piece
 section1: Layers
 start2: Pistachios
@@ -71,7 +71,7 @@ Instructions:
 - Lightly dip a piece of <a href='https://amzn.to/3QbZba1'>rice paper</a> in water, and add to the base of your pan. Repeat until you have a total of 8 layered sheets
 - <img src='/assets/Food/Healthier Dessert/Baklava/section-1-layers.jpg' alt='' class='instruction-image'>
 
-- Sprinkle about 1/4 of your <a href='/misc/nuts#pistachios'>pistachio</a> mixture (~70 g or 1/3 cup) onto the <a href='https://amzn.to/3QbZba1'>rice paper</a>
+- Sprinkle about 1/4 of your pistachio mixture (~70 g or 1/3 cup) onto the <a href='https://amzn.to/3QbZba1'>rice paper</a>
 - <img src='/assets/Food/Healthier Dessert/Baklava/section-1-filling.jpg' alt='' class='instruction-image'>
 
 - Repeat with the dipping and layering of 8 sheets and 1/4 of your <a href='/misc/nuts'>nut</a> mixture. Top the final <a href='https://amzn.to/3QbZba1'>rice paper</a> with your remaining 1/4 of your <a href='/misc/nuts#pistachios'>pistachio</a> mix
@@ -91,4 +91,24 @@ Notes:
 - My pack of <a href='https://amzn.to/3QbZba1'>rice paper</a> contains 32 sheets of about 9" in diameter. So each of the 4 "sections" will contain 8 layered sheets of <a href='https://amzn.to/3QbZba1'>rice paper</a>
 
 - You should have 4 "sections" each of 8 pieces of <a href='https://amzn.to/3QbZba1'>rice paper</a> layered on each other, with <a href='/misc/nuts#pistachios'>pistachio</a> filling between each section and on top of the final one.
+
+- An equal amount of <a href='/misc/natural-sweeteners#honey'>honey</a> or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> will also work in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
+- |
+  COMPARE(
+    "baklavasfs",
+    "baklavahoney",
+    "baklavamaple";
+
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---

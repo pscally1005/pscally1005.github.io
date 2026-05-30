@@ -55,7 +55,7 @@ tags:
 - nutmeg
 - ginger
 Description: |
-  Why eat a protein bar when you can have an oatmeal cream pie?  This delicious and <a href='/misc/high-protein'>high protein</a> <a href='/recipes/healthier-dessert'>dessert</a> has 30 g of <a href='/misc/protein'>protein</a> in just 250 <a href='/misc/calories'>calories</a>, while also containing a good amount of <a href='/misc/fiber'>fiber</a> from the <a href='/misc/grains#oats'>oats</a> and <a href='/misc/fats'>healthy fats</a> from the <a href='/recipes/natural-peanut-butter'>nut butter</a>.<br><br>
+  Why eat a protein bar when you can have an oatmeal cream pie?  This delicious and <a href='/recipes/protein-powder'>high protein dessert</a> has 30 g of <a href='/misc/protein'>protein</a> in just 250 <a href='/misc/calories'>calories</a>, while also containing a good amount of <a href='/misc/fiber'>fiber</a> from the <a href='/misc/grains#oats'>oats</a> and <a href='/misc/fats'>healthy fats</a> from the <a href='/recipes/natural-peanut-butter'>nut butter</a>.<br><br>
 
   The cookies are made of <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/grains#oats'>oats</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/meat#egg-whites'>egg whites</a>, while the filling contains <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a>.  These sandwich cookies are full of cinnamon flavor, and are the perfect pre-workout snack!
 Instructions:
@@ -78,4 +78,25 @@ Instructions:
 - Spread the filling batter onto the bottom side of 6 cookies, about 30 g of cream filling each. Top with the remaining 6 cookies
 - <img src='/assets/Food/Protein Powder/Cream Pies/iced.jpg' alt='' class='instruction-image'>
 Notes:
+- TODO - DO I NEED TO ADD <a href='/misc/dairy#skim-milk'>MILK</a> TO THE COOKIE BATTER AND CREAM FILLING IF USING <a href='/misc/dairy#casein'>CASEIN</a>??
+
+- |
+  I would recommend using <a href='/misc/dairy#casein'>casein protein powder</a>, as <a href='/misc/dairy#casein'>casein</a> helps keep <a href='/recipes/healthier-dessert'>baked goods</a> moist, whereas <a href='/misc/dairy#whey'>whey</a> tends to dry them out.<br><br>
+
+  Recall that <a href='/misc/dairy#casein'>casein</a> <a href='/misc/water-absorption'>absorbs much more liquid</a> than <a href='/misc/dairy#whey'>whey</a>, which is why <a href='/misc/dairy#almond-milk'>almond milk</a> is added to the cookie batter and cream filling; otherwise it would be too thick.<br><br>
+
+  If you want to use <a href='/misc/dairy#whey'>whey</a> however, I would omit the <a href='/misc/dairy#almond-milk'>almond milk</a> in the cookie batter.<br><br>
+
+  Bake on the shorter end of the range to prevent the cookies from turning out dry.<br><br>
+
+  Additionally, for the cream filling, only add <a href='/misc/dairy#almond-milk'>almond milk</a> as necessary to thin it out to a thick cream filling consistency.
+
+- Since we're already using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in the dry ingredients, you can replace the <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> in the wet ingredients with <a href='/recipes/reconstituted-peanut-butter'>reconstituted peanut butter</a>.  That's an additional 3 tbsp (18 g) of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> + 1 tbsp (14 g) of <a href='/misc/olive-oil'>extra virgin olive oil</a> (or <a href='/misc/nuts#coconut'>coconut oil</a>) to substitute the 2 tbsp (32 g) of <a href='/misc/nuts#peanuts'>peanut butter</a>
+
+- I'm using <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> here, but any type of <a href='/misc/dairy#skim-milk'>milk</a> will do, such as <a href='/misc/dairy#skim-milk'>skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, <a href='/misc/grains#oats'>oat milk</a>, etc.
+
+- |
+  For the <a href='/recipes/natural-peanut-butter'>nut butter</a>, any kind will work, such as <a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#almonds'>almond</a>, or <a href='/misc/nuts#cashews'>cashew butter</a>.<br><br>
+
+  To make it <a href='/misc/nuts'>nut</a> free, opt for <a href='/misc/seeds#sesame-seeds'>tahini</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>.  Additionally, use <a href='/misc/nuts#coconut'>coconut flour</a> in place of the <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> for a <a href='/misc/nuts'>nut</a> free recipe
 ---

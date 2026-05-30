@@ -5911,7 +5911,11 @@ LINKS = {
         "protein snacks",
         "protein snack",
         "protein desserts",
-        "protein dessert"
+        "protein dessert",
+        "high-protein desserts",
+        "high-protein dessert",
+        "high protein desserts",
+        "high protein dessert"
     ],
     "/recipes/savory-sauces": [
         # "sauce",
@@ -6410,6 +6414,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "cookie batter",
     "for some healthy cornbread recipes",
     "this healthy cornbread",
     "the cornbread",
@@ -8234,7 +8239,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-28")):
+            if not file.startswith(("2026-05-29")):
                 continue
 
             # exclude some files
