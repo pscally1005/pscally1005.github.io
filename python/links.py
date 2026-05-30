@@ -6444,6 +6444,7 @@ EXCLUDED_PHRASES = [
     "baked sweet potato brownies",
     "baked sweet potato brownie",
     "as the sweet potato brownies were",
+    "bowl with oil",
     "larger test of sweet potato brownies",
     "traditional brownie texture",
     "dry baked good",
@@ -8292,7 +8293,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-04-27")):
+            if not file.startswith(("2026-07-15")):
                 continue
 
             # exclude some files
