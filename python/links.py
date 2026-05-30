@@ -5028,6 +5028,32 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/43IY4C9": [
+        "duncan hines keto brownie mix",
+        "duncan hines keto brownies",
+        "duncan hines keto brownie",
+        "duncan hines keto boxed brownie mix",
+        "duncan hines keto boxed brownies",
+        "duncan hines keto boxed brownie",
+        "keto box",
+        "keto mix"
+    ],
+    "https://amzn.to/4dNQWdX": [
+        "duncan hines dark chocolate fudge brownie mix",
+        "duncan hines dark chocolate fudge brownies",
+        "duncan hines dark chocolate fudge brownie"
+        "duncan hines dark chocolate brownie mix",
+        "duncan hines dark chocolate brownies",
+        "duncan hines dark chocolate brownie",
+        "duncan hines boxed brownie mix",
+        "duncan hines brownie mix",
+        "duncan hines brownies",
+        "duncan hines brownie",
+        "duncan hines dark chocolate boxed brownie mix",
+        "duncan hines dark chocolate boxed brownies",
+        "duncan hines dark chocolate boxed brownie",
+        "standard duncan hines brownies"
+    ],
     "https://amzn.to/4wdSyoe": [
         "zero net carb tortillas",
         "zero net carb tortilla",
@@ -6414,6 +6440,12 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "baked as mini muffins",
+    "time for mini muffins",
+    "4 mini muffins",
+    "bean brownie recipes",
+    "larger scale",
+    "then scale",
     "cookie batter",
     "for some healthy cornbread recipes",
     "this healthy cornbread",

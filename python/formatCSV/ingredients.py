@@ -302,6 +302,8 @@ def ingredients(food):
         f = "All purpose flour"
     elif food == "duncan hines keto brownie mix":
         f = "Duncan Hines Keto Brownie Mix"
+    elif food == "duncan hines dark chocolate fudge brownie mix":
+        f = "Duncan Hines Dark Chocolate Fudge Brownie Mix"
     elif food == "Cocoa, unsweetened, dry powder":
         f = "Cocoa powder"
     elif food == "Sugar, powdered, confectioner's, white" or food == "Sugars, powdered":
