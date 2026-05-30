@@ -5434,7 +5434,8 @@ LINKS = {
         "grease with oil",
         "lightly oil",
         "refillable spray bottle",
-        "spray bottle"
+        "spray bottle",
+        "spray it with oil"
     ],
     "https://amzn.to/4mPZcMW": [
 
@@ -6440,6 +6441,26 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "baked sweet potato brownies",
+    "baked sweet potato brownie",
+    "as the sweet potato brownies were",
+    "larger test of sweet potato brownies",
+    "traditional brownie texture",
+    "dry baked good",
+    "swapping the oil",
+    "instead of oil until",
+    "baking one half",
+    "even over the oil",
+    "sugar brownies",
+    "sweet potato traditional brownies",
+    "same cannot be said for traditional brownies",
+    "and oil.  The batter",
+    "1 cup oil",
+    "4 tbsp oil",
+    "the standard brownies were great",
+    "bowl with the oil",
+    "oil in a box of brownie mix",
+    "instead of oil",
     "baked as mini muffins",
     "time for mini muffins",
     "4 mini muffins",
@@ -8271,7 +8292,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-06-09")):
+            if not file.startswith(("2024-04-27")):
                 continue
 
             # exclude some files

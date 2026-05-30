@@ -65,7 +65,7 @@ Description: |
 
   For more <a href='/misc/fruit#dates'>date</a> and <a href='/misc/beans'>bean</a> based <a href='/recipes/healthier-dessert'>desserts</a>, see my <a href='/recipes/black-bean-date-brownies'>Black Bean Date Brownies</a> and <a href='/recipes/chickpea-date-blondies'>Chickpea Date Blondies</a>.  You can also check out any of my other <a href='/brownies'>brownie recipes</a>
 Instructions:
-- Preheat your oven to 350F, line a <a href='https://amzn.to/4aiCsjh'>9x13" baking pan</a> with parchment paper, and lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> it with oil. Drain and rinse your <a href='/misc/beans'>beans</a>
+- Preheat your oven to 350F, line a <a href='https://amzn.to/4aiCsjh'>9x13" baking pan</a> with parchment paper, and lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> it with <a href='/misc/olive-oil'>oil</a>. Drain and rinse your <a href='/misc/beans'>beans</a>
 
 - Starting with the <a href='/brownies'>brownie</a> layer, add all ingredients to the <a href='https://amzn.to/4q0AUjI'>food processor</a> - <a href='/misc/beans#black-beans'>black beans</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and vanilla
 
