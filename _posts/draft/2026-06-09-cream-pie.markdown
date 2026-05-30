@@ -20,13 +20,13 @@ cookie: yes
 copycat: no
 vic: no
 permalink: /recipes/oatmeal-cream-pies
-image: /assets/Food/Protein Powder/Cream Pies/cover.jpg
+image: /assets/Food/Protein Powder/Cream Pie/cover.jpg
 file: creampie
-servingSize: 1 cookie sandwich
+servingSize: 1 cookie sandwich (~117 g)
 section1: Dry
 start2: Egg whites
 section2: Wet
-start3: Cream cheese, 1/3 less fat
+start3: Plain nonfat greek yogurt
 section3: Filling
 start4:
 section4:
@@ -64,32 +64,27 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cinnamon, baking powder, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, and salt
 
 - Add in the liquid ingredients - <a href='/misc/meat#egg-whites'>egg whites</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
-- <img src='/assets/Food/Protein Powder/Cream Pies/bowl.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Protein Powder/Cream Pie/bowl.jpg' alt='' class='instruction-image'>
 
-- Scoop the batter onto the prepared pans to make 12 cookies, or 6 per pan. Each cookie should be about 40 g. Spread to a thin and even circle using the back of a spoon
-- <img src='/assets/Food/Protein Powder/Cream Pies/raw.jpg' alt='' class='instruction-image'>
+- Divide the cookie dough into 12 balls, about 35 g each.  Add to your parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>.  Flatten down to a thin an even circle
+- <img src='/assets/Food/Protein Powder/Cream Pie/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F until lightly golden brown, about 5-7 minutes. Allow them to cool totally on the sheet
-- <img src='/assets/Food/Protein Powder/Cream Pies/baked.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Protein Powder/Cream Pie/baked.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the filling with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - (softened) <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/dairy#yogurt'>Greek yogurt</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
-- <img src='/assets/Food/Protein Powder/Cream Pies/icing.jpg' alt='' class='instruction-image'>
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the filling with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/dairy#yogurt'>Greek yogurt</a>, (softened) <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a>
+- <img src='/assets/Food/Protein Powder/Cream Pie/frosting.jpg' alt='' class='instruction-image'>
 
-- Spread the filling batter onto the bottom side of 6 cookies, about 30 g of cream filling each. Top with the remaining 6 cookies
-- <img src='/assets/Food/Protein Powder/Cream Pies/iced.jpg' alt='' class='instruction-image'>
+- Spread the filling batter onto the bottom side of 6 cookies, about 50 g of cream filling each. Top with the remaining 6 cookies
+- <img src='/assets/Food/Protein Powder/Cream Pie/frosted.jpg' alt='' class='instruction-image'>
 Notes:
-- TODO - DO I NEED TO ADD <a href='/misc/dairy#skim-milk'>MILK</a> TO THE COOKIE BATTER AND CREAM FILLING IF USING <a href='/misc/dairy#casein'>CASEIN</a>??
 
 - |
-  I would recommend using <a href='/misc/dairy#casein'>casein protein powder</a>, as <a href='/misc/dairy#casein'>casein</a> helps keep <a href='/recipes/healthier-dessert'>baked goods</a> moist, whereas <a href='/misc/dairy#whey'>whey</a> tends to dry them out.<br><br>
+  I would recommend using <a href='/misc/dairy#casein'>casein protein powder</a>, as <a href='/misc/dairy#casein'>casein</a> helps keep <a href='/recipes/healthier-dessert'>baked goods</a> moist, whereas <a href='/misc/dairy#whey'>whey</a> tends to dry them out.  Recall that <a href='/misc/dairy#casein'>casein</a> <a href='/misc/water-absorption'>absorbs much more liquid</a> than <a href='/misc/dairy#whey'>whey</a>.<br><br>
 
-  Recall that <a href='/misc/dairy#casein'>casein</a> <a href='/misc/water-absorption'>absorbs much more liquid</a> than <a href='/misc/dairy#whey'>whey</a>, which is why <a href='/misc/dairy#almond-milk'>almond milk</a> is added to the cookie batter and cream filling; otherwise it would be too thick.<br><br>
+  If you want to use <a href='/misc/dairy#whey'>whey</a> however, the "cookie dough" will be more of a "cookie batter".  Spoon the batter onto the sheet, and smooth out to a thin circle with the back of a spoon.  Bake on the shorter end of the range to prevent the cookies from turning out dry.<br><br>
 
-  If you want to use <a href='/misc/dairy#whey'>whey</a> however, I would omit the <a href='/misc/dairy#almond-milk'>almond milk</a> in the cookie batter.<br><br>
-
-  Bake on the shorter end of the range to prevent the cookies from turning out dry.<br><br>
-
-  Additionally, for the cream filling, only add <a href='/misc/dairy#almond-milk'>almond milk</a> as necessary to thin it out to a thick cream filling consistency.
+  Additionally, for the cream filling, omit the <a href='/misc/dairy#almond-milk'>almond milk</a>.
 
 - Since we're already using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in the dry ingredients, you can replace the <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> in the wet ingredients with <a href='/recipes/reconstituted-peanut-butter'>reconstituted peanut butter</a>.  That's an additional 3 tbsp (18 g) of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> + 1 tbsp (14 g) of <a href='/misc/olive-oil'>extra virgin olive oil</a> (or <a href='/misc/nuts#coconut'>coconut oil</a>) to substitute the 2 tbsp (32 g) of <a href='/misc/nuts#peanuts'>peanut butter</a>
 
@@ -99,4 +94,22 @@ Notes:
   For the <a href='/recipes/natural-peanut-butter'>nut butter</a>, any kind will work, such as <a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#almonds'>almond</a>, or <a href='/misc/nuts#cashews'>cashew butter</a>.<br><br>
 
   To make it <a href='/misc/nuts'>nut</a> free, opt for <a href='/misc/seeds#sesame-seeds'>tahini</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>.  Additionally, use <a href='/misc/nuts#coconut'>coconut flour</a> in place of the <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> for a <a href='/misc/nuts'>nut</a> free recipe
+
+- |
+  <div id='cookies' class='table-of-contents-2'></div>
+  You can also skip the frosting and make 12 individual protein cookies instead
+- |
+  COMPARE(
+    "creampie",
+    "creampiecookies";
+
+    "<a href='#recipe'>Cream<br>Pie<br>Sandwiches</a>",
+    "<a href='#cookies'>Protein<br>Cookies</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
