@@ -24,7 +24,7 @@ image: /assets/Food/Protein Powder/Cream Pie/cover.jpg
 file: creampie
 servingSize: 1 cookie sandwich (~117 g)
 section1: Dry
-start2: Egg
+start2: Unsweetened applesauce
 section2: Wet
 start3: Plain nonfat greek yogurt
 section3: Filling
@@ -63,10 +63,10 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cinnamon, baking powder, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, and salt
 
-- Add in the liquid ingredients - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Add in the liquid ingredients - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Cream Pie/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide the cookie dough into 12 balls, about 35 g each.  Add to your parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>.  Flatten down to a thin an even circle
+- Divide the cookie dough into 12 balls, about 40 g each.  Add to your parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>.  Flatten down to a thin an even circle
 - <img src='/assets/Food/Protein Powder/Cream Pie/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F until lightly golden brown, about 5-7 minutes. Allow them to cool totally on the sheet
