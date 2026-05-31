@@ -69,7 +69,7 @@ Instructions:
 - Divide the cookie dough into 12 balls, about 40 g each.  Add to your parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>.  Flatten down to a thin an even circle
 - <img src='/assets/Food/Protein Powder/Cream Pie/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F until lightly golden brown, about 5-7 minutes. Allow them to cool totally on the sheet
+- Bake at 350F until lightly golden brown, about 5 minutes.  Don't overbake, or they'll end up dry.  Allow them to cool totally on the sheet
 - <img src='/assets/Food/Protein Powder/Cream Pie/baked.jpg' alt='' class='instruction-image'>
 
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the filling with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/dairy#yogurt'>Greek yogurt</a>, (softened) <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a>
@@ -82,9 +82,11 @@ Notes:
 - |
   I would recommend using <a href='/misc/dairy#casein'>casein protein powder</a>, as <a href='/misc/dairy#casein'>casein</a> helps keep <a href='/recipes/healthier-dessert'>baked goods</a> moist, whereas <a href='/misc/dairy#whey'>whey</a> tends to dry them out.  Recall that <a href='/misc/dairy#casein'>casein</a> <a href='/misc/water-absorption'>absorbs much more liquid</a> than <a href='/misc/dairy#whey'>whey</a>.<br><br>
 
-  If you want to use <a href='/misc/dairy#whey'>whey</a> however, the "cookie dough" will be more of a "cookie batter".  Spoon the batter onto the sheet, and smooth out to a thin circle with the back of a spoon.  Bake on the shorter end of the range to prevent the cookies from turning out dry.<br><br>
+  If you want to use <a href='/misc/dairy#whey'>whey</a> however, the "cookie dough" will be more of a "cookie batter".  Spoon the batter onto the sheet, and smooth out to a thin circle with the back of a spoon.<br><br>
 
-  Additionally, for the cream filling, omit the <a href='/misc/dairy#almond-milk'>almond milk</a>.
+  Bake until the cookies are just solid, about 4-6 minutes.  Don't overbake, as cookies with <a href='/misc/dairy#whey'>whey</a> will be even more prone to drying out than ones with <a href='/misc/dairy#casein'>casein</a>.<br><br>
+
+  Additionally, for the cream filling, omit the <a href='/misc/dairy#almond-milk'>almond milk</a>  Each cookie sandwich will get 30 g of filling instead of 50 g.
 
 - Since we're already using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in the dry ingredients, you can replace the <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> in the wet ingredients with <a href='/recipes/reconstituted-peanut-butter'>reconstituted peanut butter</a>.  That's an additional 3 tbsp (18 g) of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> + 1 tbsp (14 g) of <a href='/misc/olive-oil'>extra virgin olive oil</a> (or <a href='/misc/nuts#coconut'>coconut oil</a>) to substitute the 2 tbsp (32 g) of <a href='/misc/nuts#peanuts'>peanut butter</a>
 
