@@ -8310,7 +8310,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-05-31")):
+            if not file.startswith(("2026-07-15")):
                 continue
 
             # exclude some files
