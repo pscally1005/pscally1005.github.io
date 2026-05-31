@@ -5045,6 +5045,14 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4wVWdYl": [
+        "fage yogurt",
+        "fage"
+    ],
+    "https://amzn.to/4v01SLH": [
+        "cheesecloth",
+        "cheese cloth"
+    ],
     "https://amzn.to/43IY4C9": [
         "duncan hines keto brownie mix",
         "duncan hines keto brownies",
@@ -6459,6 +6467,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "baked sweet potato brownies",
+    "starter culture",
     "baked sweet potato brownie",
     "as the sweet potato brownies were",
     "bowl with oil",
