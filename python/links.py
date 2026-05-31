@@ -10,6 +10,19 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/misc/homemade-yogurt": [
+        "homemade yogurt",
+        "homemade plain nonfat greek yogurt",
+        "homemade plain nonfat yogurt",
+        "homemade plain yogurt",
+        "homemade plain greek yogurt",
+        "homemade greek yogurt",
+        "homemade whey",
+        "homemade liquid whey",
+        "homemade yogurt whey",
+        "homemade yogurt and whey",
+        "homemade whey and yogurt"
+    ],
     "/recipes/vic-noats": [
         "very vic novernight noats",
         "very vic noats",
@@ -6466,6 +6479,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "and whey to airtight containers",
     "baked sweet potato brownies",
     "starter culture",
     "baked sweet potato brownie",
@@ -7969,6 +7983,7 @@ EXCLUDED_PHRASES = [
 EXCLUDED_PHRASES = list(dict.fromkeys(EXCLUDED_PHRASES))
 
 REMOVE_CATEGORIES = [
+    "/misc/homemade-yogurt",
     "/misc/bone-broth",
     "/misc/costs",
     "/misc/olive-oil",
