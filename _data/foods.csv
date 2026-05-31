@@ -97,7 +97,7 @@ Quinoa,quinoa,6.22,905.60,0.00687,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0
 Brown rice,brown-rice,1.64,896.00,0.00183,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Cilantro Lime Brown Rice,cilantro-lime,2.87,600.00,0.00478,52,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,8,/recipes/cilantro-lime-rice
 Wild rice,wild-rice,5.29,454.00,0.01165,57,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/3N0HFUU
-Rice paper,rice-paper,12.99,"1,018.80",0.01275,80,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,https://amzn.to/3QbZba1
+Rice paper,rice-paper,2.99,136.00,0.02199,80,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,10,https://amzn.to/4dGuPpJ
 Couscous,couscous,7.99,749.95,0.01065,60,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,75,15,https://amzn.to/3HfZbla
 Unsweetened tomato sauce,tomato-sauce,1.48,812.00,0.00182,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Tomato sauce,tomato-sauce,1.48,812.00,0.00182,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -160,7 +160,7 @@ Broccoli rabe,broccoli-rabe,0.99,454.00,0.00218,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 "Frozen string beans, thawed",green-bean-frozen,1.49,454.00,0.00328,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Red cabbage,red-cabbage,1.29,454.00,0.00284,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Celery,celery,2.38,454.00,0.00524,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
-Fresh Veggie Spring Roll,spring-roll-100g,5.33,"1,032.00",0.00516,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,29,/recipes/spring-rolls
+Fresh Veggie Spring Roll,spring-roll-100g,5.28,954.00,0.00553,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,29,/recipes/spring-rolls
 "Frozen brussel sprouts, thawed",brussel-sprout-frozen,1.42,336.00,0.00423,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Radish,radish,1.50,454.00,0.00330,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Pickled ginger,ginger-pickled,3.39,170.00,0.01994,15,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,10.0,0.0,0.0,0.0,0,30,

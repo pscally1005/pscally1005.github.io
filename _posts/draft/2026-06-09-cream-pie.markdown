@@ -57,7 +57,7 @@ tags:
 Description: |
   Why eat a protein bar when you can have an oatmeal cream pie?  This delicious and <a href='/recipes/protein-powder'>high protein dessert</a> has 30 g of <a href='/misc/protein'>protein</a> in just 250 <a href='/misc/calories'>calories</a>, while also containing a good amount of <a href='/misc/fiber'>fiber</a> from the <a href='/misc/grains#oats'>oats</a> and <a href='/misc/fats'>healthy fats</a> from the <a href='/recipes/natural-peanut-butter'>nut butter</a>.<br><br>
 
-  The cookies are made of <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/grains#oats'>oats</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and <a href='/misc/meat#egg-whites'>egg whites</a>, while the filling contains <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a>.  These sandwich cookies are full of cinnamon flavor, and are the perfect pre-workout snack!
+  The cookies are made of <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/grains#oats'>oats</a>, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, while the filling contains <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a>.  These sandwich cookies are full of cinnamon flavor, and are the perfect pre-workout snack!
 Instructions:
 - Preheat your oven to 350F. Line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 

@@ -429,9 +429,9 @@ def vol_from_mass(food, mass, vol):
 
     # Spring rolls
     elif food == "Fresh Veggie Spring Roll":
-        if mass == "86":
+        if mass == "80":
             v = "1 piece"
-        elif mass == "1032":
+        elif mass == "954":
             v = "12 pieces"
 
     # Liquids
@@ -683,10 +683,71 @@ def vol_from_mass(food, mass, vol):
 
     # Rice paper
     elif food == "Rice paper":
-        if mass == "15":
-            v = "1 medium"
-        elif mass == "180":
-            v = "12 medium"
+        if mass == "8.5":
+            v = "1 wrapper"
+        elif mass == "17":
+            v = "2 wrapper"
+        elif mass == "25.5":
+            v = "3 wrapper"
+        elif mass == "34":
+            v = "4 wrapper"
+        elif mass == "42.5":
+            v = "5 wrapper"
+        elif mass == "51":
+            v = "6 wrapper"
+        elif mass == "59.5":
+            v = "7 wrapper"
+        elif mass == "68":
+            v = "8 wrapper"
+        elif mass == "76.5":
+            v = "9 wrapper"
+        elif mass == "85":
+            v = "10 wrapper"
+        elif mass == "93.5":
+            v = "11 wrapper"
+        elif mass == "102":
+            v = "12 wrapper"
+        elif mass == "110.5":
+            v = "13 wrapper"
+        elif mass == "119":
+            v = "14 wrapper"
+        elif mass == "127.5":
+            v = "15 wrapper"
+        elif mass == "136":
+            v = "16 wrapper"
+        elif mass == "144.5":
+            v = "17 wrapper"
+        elif mass == "153":
+            v = "18 wrapper"
+        elif mass == "161.5":
+            v = "19 wrapper"
+        elif mass == "170":
+            v = "20 wrapper"
+        elif mass == "178.5":
+            v = "21 wrapper"
+        elif mass == "187":
+            v = "22 wrapper"
+        elif mass == "195.5":
+            v = "23 wrapper"
+        elif mass == "204":
+            v = "24 wrapper"
+        elif mass == "212.5":
+            v = "25 wrapper"
+        elif mass == "221":
+            v = "26 wrapper"
+        elif mass == "229.5":
+            v = "27 wrapper"
+        elif mass == "238":
+            v = "28 wrapper"
+        elif mass == "246.5":
+            v = "29 wrapper"
+        elif mass == "255":
+            v = "30 wrapper"
+        elif mass == "263.5":
+            v = "31 wrapper"
+        elif mass == "272":
+            v = "32 wrapper"
+
 
     # Rice
     elif food == "Brown rice" or food == "Wild rice" or food == "Quinoa":

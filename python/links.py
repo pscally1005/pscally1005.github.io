@@ -10,6 +10,24 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/vic-noats": [
+        "very vic novernight noats",
+        "very vic noats",
+        "vic noats",
+        "vic novernight noats",
+        "very vic n-overnight n-oats",
+        "very vic n-oats",
+        "vic n-overnight n-oats",
+        "vic n-oats",
+        "very vic no-vernight no-ats",
+        "vic no-vernight no-ats",
+        "very vic no-ats",
+        "vic no-ats",
+        "very vic no-overnight no-oats",
+        "very vic no-oats",
+        "vic no-overnight no-oats",
+        "vic no-oats"
+    ],
     "/recipes/oatmeal-cream-pies": [
         "protein oatmeal cream pies",
         "protein oatmeal cream pie",
@@ -27,8 +45,7 @@ LINKS = {
         "novernight noats",
         "n-overnight n-oats",
         "no-vernight no-ats",
-        "no-overnight no-oats",
-        "<b>No</b>vernight <b>No</b>ats"
+        "no-overnight no-oats"
     ],
     "/recipes/chicken-fat-cornbread": [
         "chicken fat cornbread"
@@ -5077,7 +5094,7 @@ LINKS = {
         "psyllium husk",
         "psyllium"
     ],
-    "https://amzn.to/3QbZba1": [
+    "https://amzn.to/4dGuPpJ": [
         "rice paper",
         "rice paper wrap"
     ],
@@ -8293,7 +8310,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-07-15")):
+            if not file.startswith(("2026-05-31")):
                 continue
 
             # exclude some files

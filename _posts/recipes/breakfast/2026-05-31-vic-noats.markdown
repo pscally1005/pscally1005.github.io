@@ -1,0 +1,80 @@
+---
+layout: post
+title:  Very Vic No-vernight No-ats
+date:   2026-05-31 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
+showPercentage: no
+hummus: no
+oatmeal: yes
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: yes
+permalink: /recipes/vic-noats
+image: /assets/Food/Breakfast/Vic Noats/cover.jpg
+file: vicnoats
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest: 10
+Cook:
+Source1: https://www.poormanprotein.com/recipes/novernight-noats
+Source2: https://www.poormanprotein.com/recipes/vic-oats
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/STdpS
+tags:
+- very vic
+- novernight noats
+- n-overnight n-oats
+- no-overnight no-oats
+- no-vernight n-oats
+- banana
+- casein protein powder
+- powdered peanut butter
+- vic
+- mashed banana
+- chocolate
+- cocoa powder
+- oatmeal
+- overnight oats
+Description: After the success of my No-vernight No-ats, Vic asked me to make her a version.  I've modified her original Very Vic overnight oats recipe to use psyllium husk instead of oats and flax.  The result is a similarly thick breakfast bowl with more fiber, less carbs, and less calories.
+Instructions:
+- In a small bowl, mash your banana with the back of a spoon. Add in the rest of the ingredients, and stir until fully combined with a spoon
+
+- Let rest on the counter for 10 minutes before eating, or refrigerate overnight
+Notes:
+- Here's a nutrition facts comparison for a serving each of Very Vic No-vernight No-ats, and the standard Very Vic
+- |
+  COMPARE(
+    "vicnoats",
+    "vic";
+
+    "<a href='#recipe'>No-vernight<br>No-ats</a>",
+    "<a href='/recipes/vic-oats'>Overnight<br>Oats</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
+---

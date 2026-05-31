@@ -479,9 +479,9 @@ def grams(food, mass, vol):
     # Spring rolls
     elif food == "Fresh Veggie Spring Roll":
         if vol == "1 serving":
-            m = "86"
+            m = "80"
         elif vol == "12 serving":
-            m = "1032"
+            m = "954"
 
     # Liquids
     elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Butternut squash puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Dijon mustard" or food == "Minced garlic" or food == "Red wine vinegar" or food == "Hot sauce" or food == "Kefir, plain, 1% fat" or food == "Kefir, plain, 3.25% fat" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread" or food == "Vodka" or food == "Fruit juice, sugar free" or food == "Cream cheese" or food == "Cream cheese, 1/3 less fat" or food == "Whey, fluid, sweet" or food == "Whey, fluid, acid":
@@ -695,10 +695,70 @@ def grams(food, mass, vol):
 
     # Rice paper
     elif food == "Rice paper":
-        if vol == "1 medium paper" or vol == "1 medium":
-            m = "15"
-        elif vol == "12 medium paper" or vol == "12 medium":
-            m = "180"
+        if vol == "1 medium paper" or vol == "1 medium" or vol == "1 wrapper":
+            m = "8.5"
+        elif vol == "2 medium paper" or vol == "2 medium" or vol == "2 wrapper":
+            m = "17"
+        elif vol == "3 medium paper" or vol == "3 medium" or vol == "3 wrapper":
+            m = "25.5"
+        elif vol == "4 medium paper" or vol == "4 medium" or vol == "4 wrapper":
+            m = "34"
+        elif vol == "5 medium paper" or vol == "5 medium" or vol == "5 wrapper":
+            m = "42.5"
+        elif vol == "6 medium paper" or vol == "6 medium" or vol == "6 wrapper":
+            m = "51"
+        elif vol == "7 medium paper" or vol == "7 medium" or vol == "7 wrapper":
+            m = "59.5"
+        elif vol == "8 medium paper" or vol == "8 medium" or vol == "8 wrapper":
+            m = "68"
+        elif vol == "9 medium paper" or vol == "9 medium" or vol == "9 wrapper":
+            m = "76.5"
+        elif vol == "10 medium paper" or vol == "10 medium" or vol == "10 wrapper":
+            m = "85"
+        elif vol == "11 medium paper" or vol == "11 medium" or vol == "11 wrapper":
+            m = "93.5"
+        elif vol == "12 medium paper" or vol == "12 medium" or vol == "12 wrapper":
+            m = "102"
+        elif vol == "13 medium paper" or vol == "13 medium" or vol == "13 wrapper":
+            m = "110.5"
+        elif vol == "14 medium paper" or vol == "14 medium" or vol == "14 wrapper":
+            m = "119"
+        elif vol == "15 medium paper" or vol == "15 medium" or vol == "15 wrapper":
+            m = "127.5"
+        elif vol == "16 medium paper" or vol == "16 medium" or vol == "16 wrapper":
+            m = "136"
+        elif vol == "17 medium paper" or vol == "17 medium" or vol == "17 wrapper":
+            m = "144.5"
+        elif vol == "18 medium paper" or vol == "18 medium" or vol == "18 wrapper":
+            m = "153"
+        elif vol == "19 medium paper" or vol == "19 medium" or vol == "19 wrapper":
+            m = "161.5"
+        elif vol == "20 medium paper" or vol == "20 medium" or vol == "20 wrapper":
+            m = "170"
+        elif vol == "21 medium paper" or vol == "21 medium" or vol == "21 wrapper":
+            m = "178.5"
+        elif vol == "22 medium paper" or vol == "22 medium" or vol == "22 wrapper":
+            m = "187"
+        elif vol == "23 medium paper" or vol == "23 medium" or vol == "23 wrapper":
+            m = "195.5"
+        elif vol == "24 medium paper" or vol == "24 medium" or vol == "24 wrapper":
+            m = "204"
+        elif vol == "25 medium paper" or vol == "25 medium" or vol == "25 wrapper":
+            m = "212.5"
+        elif vol == "26 medium paper" or vol == "26 medium" or vol == "26 wrapper":
+            m = "221"
+        elif vol == "27 medium paper" or vol == "27 medium" or vol == "27 wrapper":
+            m = "229.5"
+        elif vol == "28 medium paper" or vol == "28 medium" or vol == "28 wrapper":
+            m = "238"
+        elif vol == "29 medium paper" or vol == "29 medium" or vol == "29 wrapper":
+            m = "246.5"
+        elif vol == "30 medium paper" or vol == "30 medium" or vol == "30 wrapper":
+            m = "255"
+        elif vol == "31 medium paper" or vol == "31 medium" or vol == "31 wrapper":
+            m = "263.5"
+        elif vol == "32 medium paper" or vol == "32 medium" or vol == "32 wrapper":
+            m = "272"
 
     # Rice
     elif food == "Brown rice" or food == "Wild rice" or food == "Quinoa":

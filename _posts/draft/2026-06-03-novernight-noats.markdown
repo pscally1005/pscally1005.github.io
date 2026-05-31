@@ -54,6 +54,10 @@ tags:
 - healthy fats
 - complex carbs
 - breakfast
+- novernight noats
+- n-overnight n-oats
+- no-overnight no-oats
+- no-vernight n-oats
 Description: |
   <a href='/oatmeal'>Overnight oats</a>. Except it's not overnight. And it's not <a href='/misc/grains#oats'>oats</a>. Wait, what am I making again?<br><br>
 
