@@ -32,7 +32,7 @@ start4:
 section4:
 start5:
 section5:
-Prep: 15
+Prep: 20
 Rest: 30
 Cook: 60
 Source1: https://www.poormanprotein.com/misc/homemade-yogurt
@@ -51,15 +51,20 @@ tags:
 - powdered peanut butter
 - buttermilk
 - casein protein powder
-Description: After making homemade yogurt the other day, I was left with a bunch of leftover liquid whey. Wanting to use it up all at once, I created these protein bars. They have a base of liquid whey, are sweetened with sugar free syrup and liquid monk fruit, and get their protein from powdered peanut butter and casein protein powder. The result is 12 protein bars each with 13 g of protein in just over 100 calories. They also have 5 g of fiber each, are low in fat, and contain no added sugar.
+Description: |
+  After making <a href='/misc/homemade-yogurt'>homemade yogurt</a> the other day, I was left with a bunch of <a href='/misc/homemade-yogurt'>leftover liquid whey</a>. Wanting to use it up all at once, I created these protein bars.<br><br>
+
+  They have a base of liquid whey, are sweetened with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and get their <a href='/misc/protein'>protein</a> from <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/dairy#casein'>casein protein powder</a>.<br><br>
+
+  The result is 12 protein bars each with 13 g of <a href='/misc/protein'>protein</a> in just over 100 <a href='/misc/calories'>calories</a>. They also have 5 g of <a href='/misc/fiber'>fiber</a> each, are low in <a href='/misc/fats'>fat</a>, and contain no <a href='/misc/hidden-sugar'>added sugar</a>.
 Instructions:
-- Preheat your oven to 350F. Line a 9x13" pan with parchment paper. Lightly grease it with oil
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease it with oil</a>
 
-- Beat your egg in a large bowl. Whisk in the wet ingredients - liquid whey, sugar free syrup, vanilla extract, and liquid monk fruit
+- Beat your <a href='/misc/meat#eggs'>egg</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Whisk in the wet ingredients - liquid whey, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
-- Using a silicone spatula, stir in all the dry ingredients - powdered peanut butter, casein protein powder, cocoa powder, psyllium husk, baking powder, cinnamon, and salt
+- Using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, stir in all the dry ingredients - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/3FAdvEl'>psyllium husk</a>, baking powder, cinnamon, and salt
 
-- Let the batter rest in the bowl for about 10 minutes for the psyllium to thicken the batter
+- Let the batter rest in the bowl for about 10 minutes for the <a href='https://amzn.to/3FAdvEl'>psyllium</a> to thicken the batter
 - <img src='/assets/Food/Protein Powder/Discard Whey Protein Bars/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan. Bake at 350F for 1 hour, or until a toothpick comes out clean
