@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/discard-whey-protein-bars": [
+        "discard whey protein bars",
+        "discard whey protein bar"
+    ],
     "/misc/homemade-yogurt": [
         "homemade yogurt",
         "homemade plain nonfat greek yogurt",
@@ -21,7 +25,11 @@ LINKS = {
         "homemade liquid whey",
         "homemade yogurt whey",
         "homemade yogurt and whey",
-        "homemade whey and yogurt"
+        "homemade whey and yogurt",
+        "liquid whey",
+        "homemade liquid whey",
+        "leftover liquid whey",
+        "leftover homemade liquid whey"
     ],
     "/recipes/vic-noats": [
         "very vic novernight noats",
@@ -8335,7 +8343,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-06-09")):
+            if not file.startswith(("2026-07-18")):
                 continue
 
             # exclude some files

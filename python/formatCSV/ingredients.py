@@ -182,6 +182,8 @@ def ingredients(food):
         f = "Liquid whey, acid"
     elif food == "Whey, fluid, sweet":
         f = "Liquid whey, sweet"
+    elif food == "homemade-whey":
+        f = "Liquid whey"
     elif food == "fruit-syrup":
         f = "Homemade fruit syrup"
     elif food == "inulin-syrup":

@@ -100,6 +100,9 @@ Notes:
 - |
   <div id='cookies' class='table-of-contents-2'></div>
   You can also skip the frosting and make 12 individual protein cookies instead
+
+- <img src='/assets/Food/Protein Powder/Cream Pie/cookies.jpg' alt='' class='instruction-image'>
+
 - |
   COMPARE(
     "creampie",
