@@ -5491,10 +5491,8 @@ LINKS = {
         "spray bottle",
         "spray it with oil",
         "grease it with oil",
-        "lightly grease it with oil"
-    ],
-    "https://amzn.to/4mPZcMW": [
-
+        "lightly grease it with oil",
+        "lightly grease"
     ],
     "https://amzn.to/4adxMft": [
         "large glass bowls",

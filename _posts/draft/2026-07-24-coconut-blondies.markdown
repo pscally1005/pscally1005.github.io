@@ -49,23 +49,25 @@ tags:
 - banana
 - plain nonfat greek yogurt
 Description: |
-  I've never tried baking anything with my air fryer ... until today. These easy coconut blondies are air fried for a golden and crispy outside, with a soft and gooey inside.<br><br>
+  I've never tried <a href='/recipes/healthier-dessert'>baking</a> anything with my <a href='https://amzn.to/3FuWETp'>air fryer</a> ... until today. These easy coconut blondies are <a href='https://amzn.to/3FuWETp'>air fried</a> for a golden and crispy outside, with a soft and gooey inside.<br><br>
 
-  Using coconut flour instead of white flour and sugar free syrup instead of white sugar, these blondies are both gluten free and sugar free. The combination of coconut and banana gives additional flavor and sweetness. The yogurt adds protein while keeping the blondies from drying out without the need for butter or oil.
+  Using <a href='/misc/nuts#coconut'>coconut flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> instead of <a href='/misc/hidden-sugar'>white sugar</a>, these <a href='/brownies'>blondies</a> are both <a href='/misc/celiac'>gluten free</a> and <a href='/misc/hidden-sugar'>sugar free</a>.<br><br>
+
+  The combination of <a href='/misc/nuts#coconut'>coconut</a> and <a href='/misc/fruit#banana'>banana</a> gives additional flavor and sweetness. The <a href='/misc/dairy#yogurt'>yogurt</a> adds <a href='/misc/protein'>protein</a> while keeping the <a href='/brownies'>blondies</a> from drying out without the need for <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/olive-oil'>oil</a>.
 Instructions:
-- Preheat your air fryer to 300F on air fry mode. Lightly grease an air fryer liner with oil
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F on <a href='https://amzn.to/3FuWETp'>air fry</a> mode. <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> an <a href='https://amzn.to/43AzcfI'>air fryer liner</a> with <a href='/misc/olive-oil'>oil</a>
 
-- In a large bowl, mash your banana with the back of a fork until smooth. Add in the rest of the ingredients (yogurt, sugar free syrup, baking powder, salt, coconut flour, and coconut flakes), and mix until fully combined with a silicone spatula
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork until smooth. Add in the rest of the ingredients (<a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, baking powder, salt, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/nuts#coconut'>coconut flakes</a>), and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 
-- Transfer the batter to your air fryer liner
+- Transfer the batter to your <a href='https://amzn.to/43AzcfI'>air fryer liner</a>
 - <img src='/assets/Food/Healthier Dessert/Coconut Blondies/raw.jpg' alt='' class='instruction-image'>
 
-- Air fry at 300F for 30 minutes, or until the top is golden brown, and a toothpick to the center comes out clean
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 300F for 30 minutes, or until the top is golden brown, and a toothpick to the center comes out clean
 - <img src='/assets/Food/Healthier Dessert/Coconut Blondies/baked.jpg' alt='' class='instruction-image'>
 
-- Put the blondies back in the air fryer, and turn it off. Let them sit in the air fryer for about an hour
+- Put the <a href='/brownies'>blondies</a> back in the <a href='https://amzn.to/3FuWETp'>air fryer</a>, and turn it off. Let them sit in the <a href='https://amzn.to/3FuWETp'>air fryer</a> for about an hour
 
-- Remove from the air fryer, and allow them to cool totally before removing from the pan and cutting into 9 squares
+- Remove from the <a href='https://amzn.to/3FuWETp'>air fryer</a>, and allow them to cool totally before removing from the pan and cutting into 9 squares
 - <img src='/assets/Food/Healthier Dessert/Coconut Blondies/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---
