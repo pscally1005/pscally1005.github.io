@@ -6495,6 +6495,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "pink/orange",
     "don't overbake, as cookies",
     "and whey to airtight containers",
     "baked sweet potato brownies",
@@ -7694,7 +7695,7 @@ EXCLUDED_PHRASES = [
     "cheese curds",
     "cheese curd",
     "liquid (whey)",
-    "liquid whey",
+    # "liquid whey",
     "acid whey",
     "inside",
     "aside",

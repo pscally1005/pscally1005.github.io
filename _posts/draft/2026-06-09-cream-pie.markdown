@@ -59,11 +59,11 @@ Description: |
 
   The cookies are made of <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/grains#oats'>oats</a>, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, while the filling contains <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a>.  These sandwich cookies are full of cinnamon flavor, and are the perfect pre-workout snack!
 Instructions:
-- Preheat your oven to 350F. Line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
+- Preheat your oven to 350F. Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cinnamon, baking powder, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, and salt
 
-- Add in the liquid ingredients - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Add in the liquid ingredients - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Mix until fully combined with you hands (wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>)
 - <img src='/assets/Food/Protein Powder/Cream Pie/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide the cookie dough into 12 balls, about 40 g each.  Add to your parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>.  Flatten down to a thin an even circle
@@ -86,16 +86,15 @@ Notes:
 
   Bake until the cookies are just solid, about 4-6 minutes.  Don't overbake, as cookies with <a href='/misc/dairy#whey'>whey</a> will be even more prone to drying out than ones with <a href='/misc/dairy#casein'>casein</a>.<br><br>
 
-  Additionally, for the cream filling, omit the <a href='/misc/dairy#almond-milk'>almond milk</a>  Each cookie sandwich will get 30 g of filling instead of 50 g.
+  Additionally, for the cream filling, omit the <a href='/misc/dairy#almond-milk'>almond milk</a> if using <a href='/misc/dairy#whey'>whey</a> instead of <a href='/misc/casein'>casein</a>.  Each cookie sandwich will get 30 g of filling instead of 50 g.
 
 - Since we're already using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in the dry ingredients, you can replace the <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> in the wet ingredients with <a href='/recipes/reconstituted-peanut-butter'>reconstituted peanut butter</a>.  That's an additional 3 tbsp (18 g) of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> + 1 tbsp (14 g) of <a href='/misc/olive-oil'>extra virgin olive oil</a> (or <a href='/misc/nuts#coconut'>coconut oil</a>) to substitute the 2 tbsp (32 g) of <a href='/misc/nuts#peanuts'>peanut butter</a>
 
 - I'm using <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a> here, but any type of <a href='/misc/dairy#skim-milk'>milk</a> will do, such as <a href='/misc/dairy#skim-milk'>skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, <a href='/misc/grains#oats'>oat milk</a>, etc.
 
-- |
-  For the <a href='/recipes/natural-peanut-butter'>nut butter</a>, any kind will work, such as <a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#almonds'>almond</a>, or <a href='/misc/nuts#cashews'>cashew butter</a>.<br><br>
+- For the <a href='/recipes/natural-peanut-butter'>nut butter</a>, any kind will work, such as <a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#almonds'>almond</a>, or <a href='/misc/nuts#cashews'>cashew butter</a>.
 
-  To make it <a href='/misc/nuts'>nut</a> free, opt for <a href='/misc/seeds#sesame-seeds'>tahini</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>.  Additionally, use <a href='/misc/nuts#coconut'>coconut flour</a> in place of the <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> for a <a href='/misc/nuts'>nut</a> free recipe
+- To make it <a href='/misc/nuts'>nut</a> free, opt for <a href='/misc/seeds#sesame-seeds'>tahini</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>.  Additionally, use <a href='/misc/nuts#coconut'>coconut flour</a> in place of the <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> for a <a href='/misc/nuts'>nut</a> free recipe
 
 - |
   <div id='cookies' class='table-of-contents-2'></div>

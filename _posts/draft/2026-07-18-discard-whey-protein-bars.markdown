@@ -54,7 +54,7 @@ tags:
 Description: |
   After making <a href='/misc/homemade-yogurt'>homemade yogurt</a> the other day, I was left with a bunch of <a href='/misc/homemade-yogurt'>leftover liquid whey</a>. Wanting to use it up all at once, I created these protein bars.<br><br>
 
-  They have a base of liquid whey, are sweetened with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and get their <a href='/misc/protein'>protein</a> from <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/dairy#casein'>casein protein powder</a>.<br><br>
+  They have a base of <a href='/misc/homemade-yogurt'>liquid whey</a>, are sweetened with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and get their <a href='/misc/protein'>protein</a> from <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/dairy#casein'>casein protein powder</a>.<br><br>
 
   The result is 12 protein bars each with 13 g of <a href='/misc/protein'>protein</a> in just over 100 <a href='/misc/calories'>calories</a>. They also have 5 g of <a href='/misc/fiber'>fiber</a> each, are low in <a href='/misc/fats'>fat</a>, and contain no <a href='/misc/hidden-sugar'>added sugar</a>.
 Instructions:
@@ -76,5 +76,5 @@ Instructions:
 - Store the protein bars in an airtight bag in the freezer, separating each one with a piece of parchment paper
 - <img src='/assets/Food/Protein Powder/Discard Whey Protein Bars/store.jpg' alt='' class='instruction-image'>
 Notes:
-- You can eat the protein bars out of the fridge or at room temperature, but I prefer their taste and texture directly out of the freezer.  Let it sit out for about 5 minutes to soften slightly before eating
+- You can eat the protein bars out of the fridge or at room temperature, but I prefer their taste and texture directly out of the freezer.  Let it sit out for about 5 minutes to soften slightly before eating, or microwave for about 10 seconds
 ---
