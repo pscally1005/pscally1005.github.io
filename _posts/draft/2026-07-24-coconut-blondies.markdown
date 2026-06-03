@@ -49,7 +49,7 @@ tags:
 - banana
 - plain nonfat greek yogurt
 Description: |
-  I've never tried <a href='/recipes/healthier-dessert'>baking</a> anything with my <a href='https://amzn.to/3FuWETp'>air fryer</a> ... until today. These easy coconut blondies are <a href='https://amzn.to/3FuWETp'>air fried</a> for a golden and crispy outside, with a soft and gooey inside.<br><br>
+  I've never tried <a href='/recipes/healthier-dessert'>baking</a> anything with my <a href='https://amzn.to/3FuWETp'>air fryer</a> ... until today. These easy coconut blondies are <a href='https://amzn.to/3FuWETp'>air fried</a> for a golden outside, with a soft inside.<br><br>
 
   Using <a href='/misc/nuts#coconut'>coconut flour</a> instead of <a href='/misc/grains#white-wheat'>white flour</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> instead of <a href='/misc/hidden-sugar'>white sugar</a>, these <a href='/brownies'>blondies</a> are both <a href='/misc/celiac'>gluten free</a> and <a href='/misc/hidden-sugar'>sugar free</a>.<br><br>
 
