@@ -5038,14 +5038,21 @@ LINKS = {
         "complete protein",
         "Protein: The Essential Building Blocks",
         "What is the Best Protein Source?",
-        "lean protein"
+        "lean protein",
+        "protein rich",
+        "protein-rich",
+        "protein dense",
+        "protein-dense"
     ],
     "/misc/high-protein": [
         "high protein foods",
         "high protein food",
         "high-protein foods",
         "high protein",
-        "high-protein"
+        "high-protein",
+        "protein ratio"
+        "protein to calorie ratio",
+        "protein ratios"
     ],
     "/misc/calories": [
         "It's About More Than Calories",
@@ -5975,7 +5982,9 @@ LINKS = {
         "meatless meal",
         "vegetarian meals",
         "vegetarian meal",
-        "vegetarian"
+        "vegetarian",
+        "vegetarians",
+        "vegetarian dishes"
     ],
     "/recipes/meme": [
         "meme recipes",

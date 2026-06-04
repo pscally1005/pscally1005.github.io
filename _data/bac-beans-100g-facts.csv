@@ -13,8 +13,8 @@ Calories,132,,
 "Folate, DFE [Vitamin B9]",149,mcg,37 %
 "Vitamin C [Ascorbic acid]",0,mg,0 %
 "Vitamin D",0,mcg,0 %
-"Vitamin E (alpha-tocopherol)",8.71,mg,58 %
-"Tocopherol, alpha",8.71,mg,
+"Vitamin E (alpha-tocopherol)",0.09,mg,1 %
+"Tocopherol, alpha",0.09,mg,
 "Vitamin K",3.3,mcg,3 %
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
@@ -36,7 +36,7 @@ Calories,132,,
 "Arginine",0.549,g,
 "Aspartic acid",1.072,g,
 "Cystine",0.096,g,
-"Cysteine",0.1,g,
+"Cysteine",0.09,g,
 "Glutamic acid",1.351,g,
 "Glycine",0.346,g,
 "Histidine",0.247,g,22 %
@@ -53,7 +53,7 @@ Calories,132,,
 "Tyrosine",0.25,g,
 "Valine",0.464,g,24 %
 "Phenylalanine + Tyrosine",0.729,g,27 %
-"Methionine + Cysteine",0.329,g,21 %
+"Methionine + Cysteine",0.319,g,21 %
 "Carbohydrate",23.71,g,9 %
 "Fiber",8.7,g,31 %
 "Sugars",0.32,g,
