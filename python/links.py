@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/fiber-chocolate-milk": [
+        "fiber chocolate milk",
+        "fiber milk"
+    ],
     "/misc/beans-are-carbs": [
         "beans are carbs"
     ],
@@ -5084,6 +5088,13 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/49FHMxv": [
+        "metamucil psyllium husk powder",
+        "metamucil psyllium husks",
+        "metamucil psyllium husk",
+        "metamucil psyllium",
+        "metamucil"
+    ],
     "https://amzn.to/4wVWdYl": [
         "fage yogurt",
         "fage"
@@ -8364,7 +8375,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-07-27")):
+            if not file.startswith(("2026-08-02")):
                 continue
 
             # exclude some files
