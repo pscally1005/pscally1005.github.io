@@ -35,40 +35,41 @@ tags:
 ---
 
 <style>
-    /* General table styles */
+    /* Main table styling */
     table {
-        border-collapse: collapse;
-        width: 100%;
+      border-collapse: collapse;
+      width: 100%;
+      max-width: 100%; /* Ensure the table doesn't stretch beyond the container */
+      table-layout: auto; /* Allow columns to auto adjust based on content */
+      text-align: center; /* Center the content inside the table */
     }
 
-    /* TODO: STICKY HEADER NOT WORKING */
-    thead th {
-        position: sticky;
-        top: 0;
-        background: var(--minima-table-header-bg-color); /* Background color for sticky header */
-        z-index: 2;
+    /* Table header styling */
+    th, td {
+      padding: 10px; /* Add padding for better readability */
+      text-align: center; /* Center the content in cells */
+      white-space: normal; /* Allow wrapping in cells */
+      word-wrap: break-word; /* Ensure long content can wrap to the next line */
     }
 
-    tbody td:first-child {
-        position: sticky;
-        left: 0;
-        background: var(--minima-table-header-bg-color); /* Background color for sticky column */
-        z-index: 1;
+    /* Sticky first column */
+    td:first-child, th:first-child {
+      position: sticky;
+      left: 0;
+      background-color: var(--minima-table-header-bg-color);
+      z-index: 5; /* Make sure the first column is above other columns */
+      font-weight: bold;
+      text-align: right;
     }
 
-    /* Styles for mobile devices */
+    /* Mobile only */
     @media (max-width: 768px) {
-        tbody td:first-child {
-            z-index: 2; /* Ensure left column is above other table content */
-        }
+      th, td {
+        font-size: 0.8rem;
+        padding: 6px;
+      }
     }
 
-    /* Styles for desktop devices */
-    @media (min-width: 769px) {
-        tbody td:first-child {
-            position: static; /* Disable stickiness for the left column */
-        }
-    }
 </style>
 
 <br>
@@ -84,175 +85,175 @@ tags:
     </thead>
     <tbody>
         <tr>
-            <td><strong>All Cause Mortality</strong></td>
+            <td>All<br>Cause<br>Mortality</td>
             <td>150 per 100,000 people</td>
             <td>800 per 100,000 people</td>
             <td>400% Increase</td>
             <td><a href='https://www.cdc.gov/nchs/fastats/deaths.htm'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong><a href='/misc/alzheimers'>Alzheimer's Disease</a></strong></td>
+            <td><a href='/misc/alzheimers'>Alzheimer's<br>Disease</a></td>
             <td>Rarely diagnosed</td>
             <td>6 million cases in the US</td>
             <td>Significant Increase</td>
             <td><a href='https://www.alz.org/'>Alzheimer's Association</a></td>
         </tr>
         <tr>
-            <td><strong>Anxiety Disorders</strong></td>
+            <td>Anxiety<br>Disorders</td>
             <td>3-5% in the US</td>
             <td>20% in the US</td>
             <td>300-400% Increase</td>
             <td><a href='https://www.nimh.nih.gov/'>NIMH</a></td>
         </tr>
         <tr>
-            <td><strong>Arthritis (Osteoarthritis)</strong></td>
+            <td>Arthritis<br>(Osteoarthritis)</td>
             <td>6% in the US</td>
             <td>15% in the US</td>
             <td>150% Increase</td>
             <td><a href='https://www.cdc.gov/'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>Asthma</strong></td>
+            <td>Asthma</td>
             <td>3% in the US</td>
             <td>8% in the US</td>
             <td>167% Increase</td>
             <td><a href='https://www.cdc.gov/asthma/'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>Bipolar Disorder</strong></td>
+            <td>Bipolar<br>Disorder</td>
             <td>0.5% in the US</td>
             <td>1-2% in the US</td>
             <td>100-300% Increase</td>
             <td><a href='https://www.nimh.nih.gov/health/statistics/bipolar-disorder'>NIMH</a></td>
         </tr>
         <tr>
-            <td><strong>Cancer (All Types)</strong></td>
+            <td>Cancer<br>(All Types)</td>
             <td>1% in the US</td>
             <td>2.4% in the US</td>
             <td>140% Increase</td>
             <td><a href='https://www.cancer.gov/about-cancer/understanding/statistics'>National Cancer Institute</a></td>
         </tr>
         <tr>
-            <td><strong><a href='/misc/celiac'>Celiac</a> Disease</strong></td>
+            <td><a href='/misc/celiac'>Celiac<br>Disease</a></td>
             <td>0.01% in the US</td>
             <td>1% in the US</td>
             <td>9900% Increase</td>
             <td><a href='https://www.celiac.org/what-is-celiac-disease/understanding-celiac-disease/what-is-celiac-disease/'>Celiac Disease Foundation</a></td>
         </tr>
         <tr>
-            <td><strong>Chronic Kidney Disease (CKD)</strong></td>
+            <td>Chronic<br>Kidney<br>Disease<br>(CKD)</td>
             <td>5% in the US</td>
             <td>15% in the US</td>
             <td>200% Increase</td>
             <td><a href='https://www.cdc.gov/kidneydisease/index.html'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>Chronic Obstructive Pulmonary Disease (COPD)</strong></td>
+            <td>Chronic<br>Obstructive<br>Pulmonary<br>Disease<br>(COPD)</td>
             <td>2% in the US</td>
             <td>5% in the US</td>
             <td>150% Increase</td>
             <td><a href='https://www.cdc.gov/copd/index.html'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong><a href='/misc/alzheimers'>Dementia</a></strong></td>
+            <td><a href='/misc/alzheimers'>Dementia</a></td>
             <td>Rarely diagnosed</td>
             <td>5.8 million cases in the US</td>
             <td>Significant Increase</td>
             <td><a href='https://www.alz.org/'>Alzheimer's Association</a></td>
         </tr>
         <tr>
-            <td><strong><a href='/misc/depression'>Depression</a></strong></td>
+            <td><a href='/misc/depression'>Depression</a></td>
             <td>5% in the US</td>
             <td>15% in the US</td>
             <td>200% Increase</td>
             <td><a href='https://www.nimh.nih.gov/health/statistics/major-depression'>NIMH</a></td>
         </tr>
         <tr>
-            <td><strong><a href='/misc/diabetes'>Diabetes</a> (Type 2)</strong></td>
+            <td><a href='/misc/diabetes'>Diabetes</a><br>(Type 2)</td>
             <td>2.5% in the US</td>
             <td>10.5% in the US</td>
             <td>320% Increase</td>
             <td><a href='https://www.cdc.gov/diabetes/statistics/index.html'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>Epilepsy</strong></td>
+            <td>Epilepsy</td>
             <td>1% in the US</td>
             <td>1.2% in the US</td>
             <td>20% Increase</td>
             <td><a href='https://www.cdc.gov/epilepsy/index.html'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>High Blood Pressure (Hypertension)</strong></td>
+            <td>High Blood Pressure<br>(Hypertension)</td>
             <td>20% in the US</td>
             <td>31% in the US</td>
             <td>55% Increase</td>
             <td><a href='https://www.cdc.gov/bloodpressure/index.htm'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>High <a href='/misc/cholesterol'>Cholesterol</a> (Hyperlipidemia)</strong></td>
+            <td>High<br><a href='/misc/cholesterol'>Cholesterol</a><br>(Hyperlipidemia)</td>
             <td>10% in the US</td>
             <td>39% in the US</td>
             <td>290% Increase</td>
             <td><a href='https://www.cdc.gov/cholesterol/index.htm'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong><a href='/misc/metabolic-syndrome'>Metabolic Syndrome</a></strong></td>
+            <td><a href='/misc/metabolic-syndrome'>Metabolic Syndrome</a></td>
             <td>Not well-documented</td>
             <td>93% in the US</td>
             <td>Significant Increase</td>
             <td><a href='https://revitalizemetabolichealth.com/93-of-american-adults-are-unhealthy-a-deeper-dive/'>Revitalize Metabolic Health</a></td>
         </tr>
         <tr>
-            <td><strong>Obesity</strong></td>
+            <td>Obesity</td>
             <td>15% in the US</td>
             <td>42% in the US</td>
             <td>180% Increase</td>
             <td><a href='https://www.cdc.gov/obesity/index.html'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>Parkinson’s Disease</strong></td>
+            <td>Parkinson’s<br>Disease</td>
             <td>Rarely diagnosed</td>
             <td>1 million cases in the US</td>
             <td>Significant Increase</td>
             <td><a href='https://www.parkinson.org/Understanding-Parkinsons'>Parkinson’s Foundation</a></td>
         </tr>
         <tr>
-            <td><strong><a href='/misc/pcos'>Polycystic Ovary Syndrome</a> (<a href='/misc/pcos'>PCOS</a>)</strong></td>
+            <td><a href='/misc/pcos'>Polycystic<br>Ovary<br>Syndrome</a><br>(<a href='/misc/pcos'>PCOS</a>)</td>
             <td>Not well-documented</td>
             <td>10% in women of reproductive age in the US</td>
             <td>Significant Increase</td>
             <td><a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3764609/'>NCBI</a></td>
         </tr>
         <tr>
-            <td><strong>Postural Orthostatic Tachycardia Syndrome (POTS)</strong></td>
+            <td>Postural<br>Orthostatic<br>Tachycardia<br>Syndrome<br>(POTS)</td>
             <td>Rare</td>
             <td>Up to 3 million cases in the US</td>
             <td>Significant Increase</td>
             <td><a href='https://www.dysautonomiainternational.org/'>Dysautonomia International</a></td>
         </tr>
         <tr>
-            <td><strong>Rheumatoid Arthritis</strong></td>
+            <td>Rheumatoid<br>Arthritis</td>
             <td>0.5% in the US</td>
             <td>1% in the US</td>
             <td>100% Increase</td>
             <td><a href='https://www.cdc.gov/arthritis/basics/rheumatoid-arthritis.htm'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>Schizophrenia</strong></td>
+            <td>Schizophrenia</td>
             <td>0.5% in the US</td>
             <td>1% in the US</td>
             <td>100% Increase</td>
             <td><a href='https://www.nimh.nih.gov/health/statistics/schizophrenia'>NIMH</a></td>
         </tr>
         <tr>
-            <td><strong>Stroke</strong></td>
+            <td>Stroke</td>
             <td>0.3% in the US</td>
             <td>2.6% in the US</td>
             <td>766% Increase</td>
             <td><a href='https://www.cdc.gov/stroke/facts.htm'>CDC</a></td>
         </tr>
         <tr>
-            <td><strong>Type 1 <a href='/misc/diabetes'>Diabetes</a></strong></td>
+            <td>Type 1<br><a href='/misc/diabetes'>Diabetes</a></td>
             <td>0.5% in the US</td>
             <td>1% in the US</td>
             <td>100% Increase</td>
