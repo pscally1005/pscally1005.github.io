@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Quick & Easy Pizza Beans with Spinach'
-date:   2026-05-16 00:00:00 -0500
+date:   2026-06-05 00:00:00 -0500
 categories:
 - Recipes
 - Meatless
@@ -20,9 +20,9 @@ cookie: no
 copycat: no
 vic: no
 permalink: /recipes/pizza-beans
-image: /assets/Food/Meatless/Pizza Beans/cover.jpg
+image: /assets/Food/Meatless/Pizza Beans/cover1.jpg
 file: pizzabeans
-servingSize:
+servingSize: 1/2 pan (~550 g)
 section1: Step 1
 start2: Navy beans, NOT drained or rinsed
 section2: Step 2
@@ -55,13 +55,13 @@ Description: |
 
   The <a href='/misc/beans'>beans</a> provide <a href='/misc/fiber'>fiber</a>, <a href='/misc/carbs'>complex starches</a>, and <a href='/misc/protein'>protein</a>, while also adding creaminess. This quick and easy meal comes together in less than half an hour, is <a href='/recipes/meatless'>vegetarian</a>, and contains a good dose of plant based <a href='/misc/iron'>iron</a> and <a href='/misc/nutrient-alphabet#F'>folate</a> from the <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/beans'>beans</a>!
 Instructions:
-- Heat a <a href='https://amzn.to/4bOh0on'>10" stainless steel pan</a> over medium heat with <a href='/misc/olive-oil'>oil</a>. Cut your <a href='/misc/veggies#onion'>onion</a> into a small dice, and add to the pan with <a href='/misc/veggies#spinach-fresh'>spinach</a>. Cover with a lid, and cook for about 10 minutes. The <a href='/misc/veggies#onion'>onion</a> should be translucent and soft, and the <a href='/misc/veggies#spinach-fresh'>spinach</a> fully defrosted and sticking slightly to the pan
+- Heat a <a href='https://amzn.to/4bOh0on'>10" stainless steel pan</a> or <a href='https://amzn.to/465aAxx'>cast iron pan</a> over medium heat with <a href='/misc/olive-oil'>oil</a>. Cut your <a href='/misc/veggies#onion'>onion</a> into a small dice, and add to the pan with <a href='/misc/veggies#spinach-fresh'>spinach</a>. Cover with a lid, and cook for about 10 minutes. The <a href='/misc/veggies#onion'>onion</a> should be translucent and soft, and the <a href='/misc/veggies#spinach-fresh'>spinach</a> fully defrosted and sticking slightly to the pan
+
+- To the pan, add your <a href='/misc/beans'>beans</a>, <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, and spices (basil, oregano, garlic powder, onion powder, black pepper, and red pepper flakes). Mix with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>, cover with a lid, and simmer on medium heat for 5 minutes to warm the <a href='/misc/beans'>beans</a> and thicken the sauce. Meanwhile, heat up your broiler
 - <img src='/assets/Food/Meatless/Pizza Beans/veggies.jpg' alt='' class='instruction-image'>
 
-- To the pan, add your <a href='/misc/beans'>beans</a>, <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, and spices (basil, oregano, garlic powder, onion powder, black pepper, and red pepper flakes). Mix with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>, cover with a lid, and simmer for 5 minutes to warm the <a href='/misc/beans'>beans</a> and thicken the sauce. Meanwhile, heat up your broiler
-- <img src='/assets/Food/Meatless/Pizza Beans/stove.jpg' alt='' class='instruction-image'>
-
 - Mix in balsamic vinegar. Top with <a href='/misc/dairy#mozzarella'>mozzarella cheese</a>. Place the pan under the broiler for 1-2 minutes, until the <a href='/misc/dairy#mozzarella'>cheese</a> is golden brown. Serve
-- <img src='/assets/Food/Meatless/Pizza Beans/broil.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meatless/Pizza Beans/cheese.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meatless/Pizza Beans/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 ---
