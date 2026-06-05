@@ -10,12 +10,21 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/misc/tea": [
+        "herbal tea-r list",
+        "herbal tea list",
+        "herbal tea tier list",
+        "herbal tea"
+    ],
     "/recipes/fiber-chocolate-milk": [
         "fiber chocolate milk",
         "fiber milk"
     ],
     "/misc/beans-are-carbs": [
-        "beans are carbs"
+        "beans are carbs",
+        "beans are carbohydrates",
+        "bean is a carb",
+        "bean is a carbohydrate"
     ],
     "/recipes/coconut-blondies": [
         "air fryer coconut blondies",
@@ -6518,6 +6527,13 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "apple cinnamon",
+    "cranberry apple",
+    "red raspberry",
+    "lemon ginger",
+    "C TIER",
+    "D TIER",
+    "turmeric ginger"
     "pink/orange",
     "don't overbake, as cookies",
     "and whey to airtight containers",
@@ -8375,7 +8391,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-02")):
+            if not file.startswith(("2026-08-05")):
                 continue
 
             # exclude some files
