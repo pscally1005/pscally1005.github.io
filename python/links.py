@@ -28,7 +28,9 @@ LINKS = {
         "beans are carbs",
         "beans are carbohydrates",
         "bean is a carb",
-        "bean is a carbohydrate"
+        "bean is a carbohydrate",
+        "beans are a carb",
+        "beans are a carbohydrate"
     ],
     "/recipes/coconut-blondies": [
         "air fryer coconut blondies",
@@ -8395,7 +8397,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-05")):
+            if not file.startswith(("2026-08-02")):
                 continue
 
             # exclude some files
