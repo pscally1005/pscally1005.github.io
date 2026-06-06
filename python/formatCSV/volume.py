@@ -185,11 +185,11 @@ def fix(vol):
         v = "1.5 lb"
     elif vol == "32 oz" or vol == "32 ounce" or vol == "2 pound":
         v = "2 lb"
-    elif vol == "3 pound":
+    elif vol == "3 pound" or vol == "3 lb" or vol == "48 oz" or vol == "48 ounce":
         v = "3 lb"
-    elif vol == "4 pound":
+    elif vol == "4 pound" or vol == "4 lb" or vol == "64 oz" or vol == "64 ounce":
         v = "4 lb"
-    elif vol == "5 pound" or vol == "80 oz" or vol == "80 ounce":
+    elif vol == "5 pound" or vol == "5 lb" or vol == "80 oz" or vol == "80 ounce":
         v = "5 lb"
 
     # protein powder

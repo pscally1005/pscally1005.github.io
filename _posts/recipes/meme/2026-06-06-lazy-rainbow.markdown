@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Lazy Rainbow Cookies
-date:   2026-04-21 00:00:00 -0500
+date:   2026-06-06 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

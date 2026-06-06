@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/recession-beans": [
+        "recession beans: a $1 meal",
+        "recession beans"
+    ],
     "/misc/tea": [
         "herbal tea-r list",
         "herbal tea list",
