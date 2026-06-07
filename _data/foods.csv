@@ -511,3 +511,5 @@ Vegetable broth,veggie-broth,1.79,960.00,0.00186,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRU
 Chicken bone broth,bone-broth,1.37,905.60,0.00151,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 Broth,bone-broth,1.37,905.60,0.00151,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3QlrH9q
+"Quest Protein Cookie, storebought",store-quest-cookie-100g,24.99,708.00,0.03530,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,13.6,0.0,0.0,0,100,https://amzn.to/3YppdYq
+"Quest Protein Cookie, homemade",homemade-quest-cookie-100g,1.20,80.00,0.01500,4,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,11.3,0.0,0.0,0,100,/recipes/copycat-quest-cookie

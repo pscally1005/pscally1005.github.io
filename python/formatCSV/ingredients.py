@@ -178,6 +178,10 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "Protein cookie by QUEST":
+        f = "Quest Protein Cookie, storebought"
+    elif food == "protein-cookie-quest" or food == "protein-cookie-quest-sugar":
+        f = "Quest Protein Cookie, homemade"
     elif food == "Whey, fluid, acid":
         f = "Liquid whey, acid"
     elif food == "Whey, fluid, sweet":

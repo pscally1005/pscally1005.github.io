@@ -2611,6 +2611,22 @@ LINKS = {
         "quest bar",
         "quest"
     ],
+    "/recipes/copycat-quest-cookie": [
+        "copycat quest protein cookies",
+        "copycat quest protein cookie",
+        "copycat quest cookies",
+        "copycat quest cookie",
+        "quest protein cookies",
+        "quest protein cookie",
+        "homemade quest protein cookies",
+        "homemade quest protein cookie",
+        "homemade quest cookie",
+        "homemade quest cookies",
+        "quest cookies",
+        "quest cookie"
+        "protein cookies",
+        "protein cookie"
+    ],
     "/recipes/chobani-yogurt-drink": [
         "copycat chobani yogurt drink",
         "chobani yogurt drink",
@@ -6543,6 +6559,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "your cookie dough",
+    "hemoglobin, a protein",
     "apple cinnamon",
     "cranberry apple",
     "red raspberry",
@@ -7381,8 +7399,8 @@ EXCLUDED_PHRASES = [
     # "loaf of bread",
     "bread products",
     "bread product",
-    "protein cookies",
-    "protein cookie",
+    # "protein cookies",
+    # "protein cookie",
     "alongside",
     "along side",
     "cookies like",
