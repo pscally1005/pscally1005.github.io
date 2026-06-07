@@ -5,7 +5,7 @@ date:   2026-01-07 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Delete
+- Archive
 showPercentage: no
 hummus: no
 oatmeal: no

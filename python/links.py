@@ -247,7 +247,13 @@ LINKS = {
         "gluten free baklava",
         "rice paper baklava",
         "baklava with rice paper",
-        "baklava"
+        "baklava",
+        "baklava inspired",
+        "baklava-inspired",
+        "baklava inspired dessert",
+        "baklava-inspired dessert",
+        "gluten free baklava inspired dessert",
+        "gluten free baklava-inspired dessert"
     ],
     "/recipes/white-chicken-chili": [
         "white chicken chili with greek yogurt",
@@ -5103,6 +5109,10 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4obDT9v": [
+        "aleias italian style",
+        "aleia's italian style"
+    ],
     "https://amzn.to/49FHMxv": [
         "metamucil psyllium husk powder",
         "metamucil psyllium husks",
@@ -8397,7 +8407,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-02")):
+            if not file.startswith(("2026-08-11")):
                 continue
 
             # exclude some files
