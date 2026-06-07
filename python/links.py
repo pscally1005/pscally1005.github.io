@@ -3459,8 +3459,16 @@ LINKS = {
     "/misc/dairy#blue-cheese": [
         "blue cheese"
     ],
+    "/misc/dairy#brie": [
+        "brie cheese",
+        "brie"
+    ],
     "/misc/dairy#butter": [
         "butter"
+    ],
+    "/misc/dairy#buttermilk": [
+        "buttermilk",
+        "butter milk"
     ],
     "/misc/dairy#casein": [
         "protein powder (unflavored casein)",
@@ -3658,6 +3666,10 @@ LINKS = {
     ],
     "/misc/fish#squid": [
         "squid"
+    ],
+    "/misc/fish#swordfish": [
+        "swordfish",
+        "sword fish"
     ],
     "/misc/fish#tilapia": [
         "tilapia"

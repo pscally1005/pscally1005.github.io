@@ -42,6 +42,7 @@ fish,Sardines<br>(Canned),sardine,3 oz,85,https://www.nutritionvalue.org/Sardine
 fish,Scallops,scallop,3 oz,85,https://www.nutritionvalue.org/Mollusks%2C_raw%2C_mixed_species%2C_scallop_nutritional_value.html?size=100+g,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
 fish,Shrimp,shrimp,3 oz,85,https://www.nutritionvalue.org/Crustaceans%2C_raw_%28may_contain_additives_to_retain_moisture%29%2C_mixed_species%2C_shrimp_nutritional_value.html?size=100+g,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
 fish,Squid,squid,3 oz,85,https://www.nutritionvalue.org/Squid%2C_raw_26213100_nutritional_value.html?size=100+g,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+fish,Swordfish,swordfish,3 oz,85,https://www.nutritionvalue.org/Fish%2C_raw%2C_swordfish_nutritional_value.html?size=100+g&utm_source=share-by-url,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 fish,Tilapia,tilapia,3 oz,85,https://www.nutritionvalue.org/Fish%2C_raw%2C_tilapia_nutritional_value.html?size=100+g,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
 fish,Trout,trout,3 oz,85,https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_rainbow%2C_trout_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 fish,Tuna<br>(Canned),tuna,4 oz,113,https://www.nutritionvalue.org/Fish%2C_drained_solids%2C_canned_in_water%2C_light%2C_tuna_nutritional_value.html?size=100+g,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
@@ -193,7 +194,9 @@ grains,Whole Wheat Pasta,pasta,3/4 cup,56,https://www.nutritionvalue.org/Pasta%2
 grains,Wild Rice,wild-rice,1/4 cup,40,https://www.nutritionvalue.org/Wild_rice%2C_raw_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
 dairy,Almond Milk,almond-milk,1 cup,240,https://www.nutritionvalue.org/public_ingredient_62195.html?utm_source=share-by-url,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 dairy,Blue Cheese,blue-cheese,1 oz,28,https://www.nutritionvalue.org/Cheese%2C_blue_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+dairy,Brie,brie,1 oz,28,https://www.nutritionvalue.org/Cheese%2C_brie_nutritional_value.html?size=100+g&utm_source=share-by-url,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 dairy,Butter,butter,1 tbsp,14,https://www.nutritionvalue.org/Butter%2C_without_salt_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+dairy,Buttermilk,buttermilk,1 cup,240,https://www.nutritionvalue.org/Buttermilk%2C_low_fat_%281%25%29_11115100_nutritional_value.html?size=100+g&utm_source=share-by-url,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
 dairy,Casein Protein Powder,casein,1 scoop,30,https://www.nutritionvalue.org/public_ingredient_51895.html?utm_source=share-by-url,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 dairy,Cheddar Cheese,cheddar,1 oz,28,https://www.nutritionvalue.org/Cheese%2C_cheddar_nutritional_value.html?size=100+g,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 dairy,Coconut Milk,coconut-milk,1 cup,240,https://www.nutritionvalue.org/public_ingredient_74659.html?utm_source=share-by-url,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE

@@ -69,10 +69,20 @@ As for the latter, this one is harder to get around.  Most <a href='/misc/fake-h
 Blue cheese is one of the most distinct cheeses both in appearance and flavor.  Its signature blue or green veins come from the addition of specific strains of Penicillium mold, which give it that sharp, tangy taste and creamy yet crumbly texture.  Nutritionally, a 1 oz (28 g) serving of blue cheese contains about 100 <a href='/misc/calories'>calories</a>, 8 g of <a href='/misc/fats'>fat</a>, and 6 g of <a href='/misc/protein'>protein</a>.  Like most cheeses, it’s a good source of <a href='/misc/calcium'>calcium</a> and <a href='/misc/vitamin-b12'>vitamin B12</a>, and also contains notable amounts of <a href='/misc/phosphorus'>phosphorus</a> and <a href='/misc/nutrient-alphabet#S'>selenium</a>.  Its strong flavor means a little goes a long way, making it a great way to add richness and depth to dishes without needing much.<br>
 " %}
 
+{% assign brie = "
+Brie is a soft, creamy cheese traditionally made from cow's milk. A standard ounce (28 g) of brie contains about 8 g of <a href='/misc/fats'>fat</a> and 6 g of <a href='/misc/protein'>protein</a> in roughly 94 <a href='/misc/calories'>calories</a>, making it a decent source of both <a href='/misc/fats'>fat</a> and <a href='/misc/protein'>protein</a>.  Brie is also a good source of <a href='/misc/calcium'>calcium</a>, <a href='/misc/vitamin-b12'>vitamin B12</a>, and <a href='/misc/phosphorus'>phosphorus</a>.  Its mild, buttery flavor pairs well with <a href='/recipes/bread'>bread</a>, <a href='/misc/fruit'>fruit</a>, and <a href='/misc/nuts'>nuts</a>, and it can also be baked until warm and gooey for an easy appetizer.<br>
+" %}
+
 {% assign butter = "
 Butter is almost entirely <a href='/misc/fats'>fat</a>, consisting of about 85% <a href='/misc/fats'>fat</a> and 15% water.  This does make it slightly lower <a href='/misc/calories'>calorie</a> than any type of oil, which is 100% <a href='/misc/fats'>fat</a>.  The <a href='/misc/fats'>fat</a> of butter is comprised mostly of <a href='/misc/fats'>saturated fats</a>, which may be considered heart-neutral from dairy based sources, according to more recent research.  Butter also has a notable content of <a href='/misc/nutrient-alphabet#A'>vitamin A</a>, as well as <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, and it comes in <a href='https://amzn.to/44voZ4G'>salted</a> and <a href='https://amzn.to/45U8f9E'>unsalted</a> varieties.<br><br>
 
 Overall, compared to other cooking <a href='/misc/fats'>fats</a>, butter certainly ranks better than <a href='/misc/fake-healthy-foods#seed-oil'>seed oils</a>, but not quite as nutritious as olive or coconut <a href='/misc/fats'>oils</a>, the <a href='/misc/fats'>oils</a> I choose to cook with instead.  It's fine to cook with on occasion, but just be mindful of how much you're using, as to not overdo it on <a href='/misc/calories'>calories</a>.  My only real use of butter is in <a href='/misc/unhealthy'>baking</a>, like <a href='/recipes/chocolate-chip-cookies'>cookies</a> and <a href='/recipes/brownies'>brownies</a>, which will regularly call for a whole stick (or more) of butter (ouch).  Butter is slowly making a nutritional comeback, but don't expect the excessive amounts of butter found in baked goods and mashed potatoes to ever be considered healthful.<br>
+" %}
+
+{% assign buttermilk = "
+Buttermilk is a byproduct of <a href='#butter'>butter</a> making, and it's a good source of <a href='/misc/calcium'>calcium</a> and <a href='/misc/vitamin-b12'>vitamin B12</a>.  It's also a good source of <a href='/misc/protein'>protein</a> and contains some <a href='/misc/fats'>fat</a>.  Buttermilk is often used in baking, as it adds moisture and a tangy flavor to baked goods.  It can be found in both regular and <a href='/misc/fats'>low-fat</a> varieties.<br><br>
+
+Buttermilk is a traditional ingredient in <a href='/misc/irish-soda-bread'>Irish soda bread</a>, reacting with the baking soda to provide a quick lift to a classic bread.  Other great uses for buttermilk include <a href='/recipes/chocolate-cake'>cake</a>, <a href='/recipes/chicken-fat-cornbread'>cornbread</a>, <a href='/recipes/shepards-pie'>Shepard's pie</a>, and <a href='/recipes/onion-soup-bread'>onion soup bread</a>.  They even sell powdered buttermilk, which can be mixed with water to create a quick substitute for fresh buttermilk.  Or use powdered buttermilk to make some <a href='/recipes/white-chocolate'>Tangy White Chocolate</a>, a homemade white chocolate with no added sugar that's slightly sweet and sour (better than it sounds, I promise).<br>
 " %}
 
 {% assign casein = "
@@ -273,7 +283,9 @@ Whey protein powder is the main dairy protein powder, with the other one being <
 
 {% assign descriptions = almond-milk
     | append: "|" | append: blue-cheese
+    | append: "|" | append: brie
     | append: "|" | append: butter
+    | append: "|" | append: buttermilk
     | append: "|" | append: casein
     | append: "|" | append: cheddar
     | append: "|" | append: coconut-milk
