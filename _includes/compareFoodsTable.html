@@ -94,7 +94,8 @@
                         nutrient == "Folate" or
                         nutrient == "Vitamin C" or
                         nutrient == "Vitamin K" or
-                        nutrient == "Selenium"
+                        nutrient == "Selenium" or
+                        nutrient == "Caffeine"
                     %}
                         {% assign rnd = "1" %}
                     {% elsif
@@ -120,8 +121,7 @@
                         nutrient == "Phenylalanine" or
                         nutrient == "Threonine" or
                         nutrient == "Tryptophan" or
-                        nutrient == "Valine" or
-                        nutrient == "Caffeine"
+                        nutrient == "Valine"
                     %}
                         {% assign rnd = "2" %}
                     {% elsif nutrient == "Protein Ratio" %}

@@ -52,7 +52,8 @@
             | append: "Calcium,"
             | append: "Iron,"
             | append: "Magnesium,"
-            | append: "Potassium"
+            | append: "Potassium,"
+            | append: "Caffeine"
             | split: ","
         %}
     {% else %}
@@ -164,6 +165,8 @@
         {% assign tryptophan = "" %}
         {% assign valine = "" %}
 
+        {% assign caffeine = "" %}
+
         <!-- Loop Variables -->
         {% assign loopVarIng = site.data[ing] %}
         {% assign loopVarIngBackup = loopVarIng %}
@@ -192,6 +195,7 @@
 
                 {% if pair[1] == "Calories" and nutrients contains "Calories" %}
                     {% assign cal = line0 %}
+                    {% assign totalCal = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Fat" and nutrients contains "Fat" %}
@@ -240,6 +244,7 @@
 
                 {% if pair[1] == "Protein" and nutrients contains "Protein" %}
                     {% assign prot = line1 %}
+                    {% assign totalProtein = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Vitamin A, RAE" and nutrients contains "Vitamin A" %}
@@ -364,6 +369,10 @@
 
                 {% if pair[1] == "Valine" and nutrients contains "Valine" %}
                     {% assign valine = line2 %}
+                {% endif %}
+
+                {% if pair[1] == "Caffeine" and nutrients contains "Caffeine" %}
+                    {% assign caffeine = line1 %}
                 {% endif %}
 
             {% endfor %}
@@ -634,11 +643,37 @@
                 {% endif %}
 
                 <div class="also-hide">
+                    <!-- Gluten -->
                     {% if glutenNum != 0 %}
                         {% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 %}
                         {% assign glutenStr = glutenNum | round: 1 | append: 'g (' | append: glutenPercentage | append: ' %)' %}
                         <!-- <div class="nutrition-indent-1">
                             <b><a href="/misc/celiac">Gluten</a></b>: {{ glutenStr }}
+                        </div> -->
+                    {% endif %}
+
+                    <!-- Protein ratio -->
+                    {% if totalCal > 0 %}
+                        {% assign round = 3 %}
+                        {% assign protRatio = totalProtein | divided_by: totalCal | round: round %}
+
+                        {% assign parts = protRatio | split: "." %}
+
+                        {% if rnd == 0 %}
+                          {% assign formattedRatio = parts[0] %}
+                        {% else %}
+                          {% if parts.size == 1 %}
+                            {% capture formattedRatio %}{{ parts[0] }}.{% for i in (1..round) %}0{% endfor %}{% endcapture %}
+                          {% else %}
+                            {% assign decimals = parts[1] %}
+                            {% assign missing = round | minus: decimals.size %}
+                            {% capture formattedRatio %}{{ parts[0] }}.{{ decimals }}{% if missing > 0 %}{% for i in (1..missing) %}0{% endfor %}{% endif %}{% endcapture %}
+                          {% endif %}
+                        {% endif %}
+
+                        {% assign protRatio = formattedRatio %}
+                        <!-- <div class="nutrition-indent-1">
+                            <b><a href="/misc/high-protein">Protein Ratio</a></b>: {{ protRatio }}
                         </div> -->
                     {% endif %}
                 </div>
@@ -780,6 +815,13 @@
                 {% if zinc != "" %}
                     <div class="nutrition-indent-0">
                         <b><a href="/misc/nutrient-alphabet#Z">Zinc</a></b>: {{ zinc }}
+                    </div>
+                {% endif %}
+
+                {% if caffeine != "" and caffeine != "0.0mg"%}
+                    <div class="nutrition-indent-0">
+                        ------------------------------------------<br>
+                        <b>Caffeine</b>: {{ caffeine }}
                     </div>
                 {% endif %}
 

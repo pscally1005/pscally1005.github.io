@@ -129,7 +129,7 @@
 
             {% if pair[1] == "Calories" %}
                 {% assign cal = line0 %}
-                {% assign totalCal = row.Amount | plus: 0 | round: 0 %}
+                {% assign totalCal = row.Amount | times: 1.0 %}
             {% endif %}
 
             {% if pair[1] == "Fat" %}
@@ -177,7 +177,7 @@
 
             {% if pair[1] == "Protein" %}
                 {% assign prot = line1 %}
-                {% assign totalProtein = row.Amount | plus: 0 | round: 1 %}
+                {% assign totalProtein = row.Amount | times: 1.0 %}
             {% endif %}
 
             {% if pair[1] == "Vitamin A, RAE" %}
@@ -309,31 +309,33 @@
             {% endif %}
 
             {% if pair[1] == "Caffeine" %}
-                {% assign caffeine = line2 %}
+                {% assign caffeine = line1 %}
             {% endif %}
 
         {% endfor %}
     {% endfor %}
 
     <!-- Protein ratio -->
-    {% if totalCal > 0 %}
-        {% assign protRatio = totalProtein | divided_by: totalCal | round: rnd %}
+    {% if totalCal == 0 or totalCal == blank %}
+      {% assign protRatio = "0.000" %}
+    {% else %}
+      {% assign protRatioRaw = totalProtein | divided_by: totalCal %}
+      {% assign protRatioRounded = protRatioRaw | round: rnd %}
 
-        {% assign parts = protRatio | split: "." %}
+      {% assign protParts = protRatioRounded | split: "." %}
 
-        {% if rnd == 0 %}
-          {% assign formattedRatio = parts[0] %}
-        {% else %}
-          {% if parts.size == 1 %}
-            {% capture formattedRatio %}{{ parts[0] }}.{% for i in (1..rnd) %}0{% endfor %}{% endcapture %}
-          {% else %}
-            {% assign decimals = parts[1] %}
-            {% assign missing = rnd | minus: decimals.size %}
-            {% capture formattedRatio %}{{ parts[0] }}.{{ decimals }}{% if missing > 0 %}{% for i in (1..missing) %}0{% endfor %}{% endif %}{% endcapture %}
-          {% endif %}
-        {% endif %}
+      {% if protParts.size == 1 %}
+        {% capture protRatio %}
+          {{ protParts[0] }}.{% for i in (1..rnd) %}0{% endfor %}
+        {% endcapture %}
+      {% else %}
+        {% assign decimals = protParts[1] %}
+        {% assign missing = rnd | minus: decimals.size %}
 
-        {% assign protRatio = formattedRatio %}
+        {% capture protRatio %}
+          {{ protParts[0] }}.{{ decimals }}{% if missing > 0 %}{% for i in (1..missing) %}0{% endfor %}{% endif %}
+        {% endcapture %}
+      {% endif %}
     {% endif %}
 
     <!-- Default servings -->
@@ -552,7 +554,7 @@
     {% endif %}
 
     {% if nutrient == "Protein Ratio" %}
-        {% assign line = protRatio %}
+        {% assign line = protRatio | append: '' %}
     {% endif %}
 
     {% if nutrient == "Vitamin A" %}
