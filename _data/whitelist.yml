@@ -41,6 +41,7 @@ sections:
       - key: Protein
       - key: Gluten
         indent: true
+      - key: Protein Ratio
   - name: Carbs
     nutrients:
       - key: Carbohydrate
@@ -90,3 +91,5 @@ sections:
       - key: Alcohol, ethyl
         display: Alcohol
       - key: Caffeine
+      - key: Glycemic Index
+      - key: Glycemic Load

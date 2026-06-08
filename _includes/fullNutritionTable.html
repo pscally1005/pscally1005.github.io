@@ -5,16 +5,33 @@
 
 <!-- Variables -->
 {% assign facts = include.facts %}
+{% assign ing = include.ing %}
+{% assign folder = include.folder %}
+
 {% assign addedSugarNum = include.addedSugar %}
 {% assign addedSugarPercentage = addedSugarNum | divided_by: 50 | times: 100 | round: 0 | append: ' %' %}
+
 {% assign netCarbNum = include.netCarb %}
 {% assign sugarAlcoholNum = include.sugAlc %}
 {% assign alluloseNum = include.all %}
 {% assign lactoseNum = include.lactose %}
+
 {% assign glutenNum = include.gluten %}
 {% assign glutenPercentage = glutenNum | divided_by: 12.337 | times: 100 | round: 0 | append: ' %' %}
+
 {% assign solubleFiberNum = include.solubleFiber %}
 {% assign insolubleFiberNum = include.insolubleFiber %}
+
+{% assign caffeineNum = include.caffeine %}
+{% assign caffeinePercentage = caffeineNum | times: 100 | divided_by: 95.0 | round: 0 | append: ' %' %}
+
+{% assign protRatioNum = include.protRatio %}
+
+{% capture gi_raw %}{% include giNum.html facts=facts ing=ing folder=folder display="GInum" %}{% endcapture %}
+{% assign gi_clean = gi_raw | strip | strip_newlines | replace: ' ', '' %}
+
+{% capture gl_raw %}{% include giNum.html facts=facts ing=ing folder=folder display="GLnum" %}{% endcapture %}
+{% assign gl_clean = gl_raw | strip | strip_newlines | replace: ' ', '' %}
 
 <!-- JavaScript to open the table in a new window -->
 <script>
@@ -78,7 +95,7 @@
 
                     {% assign row = site.data[facts] | where: "Nutrient", nutrient_entry.key | first %}
 
-                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" or nutrient_entry.key == "Lactose" or nutrient_entry.key == "Soluble Fiber" or nutrient_entry.key == "Insoluble Fiber" %}
+                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" or nutrient_entry.key == "Lactose" or nutrient_entry.key == "Soluble Fiber" or nutrient_entry.key == "Insoluble Fiber" or nutrient_entry.key == "Caffeine" or nutrient_entry.key == "Protein Ratio" or nutrient_entry.key == "Glycemic Index" or nutrient_entry.key == "Glycemic Load" %}
 
                         {% assign display_name = nutrient_entry.display | default: nutrient_entry.key %}
 
@@ -101,7 +118,7 @@
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td>{{ addedSugarPercentage }}</td>'
                             {% elsif nutrient_entry.key == "Sugar Alcohols" %}
-                                tableContent += '<td>{{ sugAlcNum | round: 2 }}</td>';
+                                tableContent += '<td>{{ sugarAlcoholNum | round: 2 }}</td>';
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td></td>';
                             {% elsif nutrient_entry.key == "Allulose" %}
@@ -124,6 +141,22 @@
                                 tableContent += '<td>{{ glutenNum | round: 2 }}</td>';
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td>{{ glutenPercentage }}</td>'
+                            {% elsif nutrient_entry.key == "Caffeine" %}
+                                tableContent += '<td>{{ caffeineNum | round: 1 }}</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td>{{ caffeinePercentage }}</td>'
+                            {% elsif nutrient_entry.key == "Protein Ratio" %}
+                                tableContent += '<td>{{ protRatioNum | round: 3 }}</td>';
+                                tableContent += '<td></td>';
+                                tableContent += '<td></td>'
+                            {% elsif nutrient_entry.key == "Glycemic Index" %}
+                                tableContent += '<td>{{ gi_clean }}</td>';
+                                tableContent += '<td></td>';
+                                tableContent += '<td></td>'
+                            {% elsif nutrient_entry.key == "Glycemic Load" %}
+                                tableContent += '<td>{{ gl_clean }}</td>';
+                                tableContent += '<td></td>';
+                                tableContent += '<td></td>'
                             {% else %}
                                 tableContent += '<td>{{ row.Amount }}</td>';
                                 tableContent += '<td>{{ row.Unit }}</td>';

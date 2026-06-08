@@ -33,8 +33,8 @@
 
 <!-- Variable to return -->
 {% assign display = "GI" %}
-{% if include.display == "GL" %}
-    {% assign display = "GL" %}
+{% if include.display %}
+  {% assign display = include.display %}
 {% endif %}
 
 {% comment %}
@@ -128,27 +128,39 @@
 
 <!-- Calculate & return final GI/GL -->
 {% if totalCarbs != 0 and totalCarbs != "0" and totalCarbs != "" %}
-    {% assign totalGI = totalGI_numerator | divided_by: totalCarbs | round: 0 %}
-    {% assign totalGL = totalGL | round: 0 %}
+
+    {% assign rounding = 0 %}
+    {% if display == "GInum" or display == "GLnum" %}
+      {% assign rounding = 1 %}
+    {% endif %}
+
+    {% assign totalGI = totalGI_numerator | divided_by: totalCarbs | round: rounding %}
+    {% assign totalGL = totalGL | round: rounding %}
 
     {% assign output = totalGI %}
     {% assign high = 70 %}
     {% assign med = 56 %}
-    {% if display == "GL" %}
+
+    {% if display == "GL" or display == "GLnum" %}
         {% assign output = totalGL %}
         {% assign high = 20 %}
         {% assign med = 10 %}
     {% endif %}
 
-    {% if output >= high %}
-        <font class='red-text-themed'>
-    {% elsif output < high and output >= med %}
-        <font class='yellow-text-themed'>
-    {% else %}
-        <font class='green-text-themed'>
+    {% if display == "GI" or display == "GL" %}
+        {% if output >= high %}
+            <font class='red-text-themed'>
+        {% elsif output < high and output >= med %}
+            <font class='yellow-text-themed'>
+        {% else %}
+            <font class='green-text-themed'>
+        {% endif %}
+        {{ output }}
+        </font>
+    {% elsif display == "GInum" or display == "GLnum" %}
+        {{ output }}
     {% endif %}
-    {{ output }}
-    </font>
+
 {% else %}
     NA
 {% endif %}

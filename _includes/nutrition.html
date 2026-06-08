@@ -372,7 +372,9 @@
                 {% endif %}
 
                 {% if pair[1] == "Caffeine" and nutrients contains "Caffeine" %}
-                    {% assign caffeine = line1 %}
+                    {% assign caffeineVal = val | plus: 0 | round: 1 %}
+                    {% assign caffeinePerc = caffeineVal | times: 100 | divided_by: 95.0 | round: 0 %}
+                    {% assign caffeine = caffeineVal | append: "mg (" | append: caffeinePerc | append: " %)" %}
                 {% endif %}
 
             {% endfor %}
@@ -818,7 +820,7 @@
                     </div>
                 {% endif %}
 
-                {% if caffeine != "" and caffeine != "0.0mg"%}
+                {% if caffeine != "" and caffeine != "0.0mg" and caffeine != "0.0mg (0 %)" %}
                     <div class="nutrition-indent-0">
                         ------------------------------------------<br>
                         <b>Caffeine</b>: {{ caffeine }}
@@ -891,7 +893,7 @@
             {% if recipe == "true" %}
                 {% include glycemic.html %}
                 <br>
-                {% include fullNutritionTable.html facts=facts addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all lactose=lactose gluten=gluten solubleFiber=solubleFiber insolubleFiber=insolubleFiber %}
+                {% include fullNutritionTable.html facts=facts ing=ing addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all lactose=lactose gluten=gluten solubleFiber=solubleFiber insolubleFiber=insolubleFiber caffeine=caffeineVal protRatio=protRatio folder=folder %}
             {% endif %}
         </div>
 
