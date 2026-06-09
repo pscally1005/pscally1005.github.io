@@ -1963,9 +1963,11 @@ def grams(food, mass, vol):
         elif vol == "4 tsp":
             m = "24"
 
-    # Cilantro
-    elif food == "Cilantro, fresh":
-        if vol == "2 1/2 cup":
+    # Fresh herbs
+    elif food == "Cilantro, fresh" or food == "Mint, fresh" or food == "Parsley, fresh":
+        if vol == "10 sprigs":
+            m = "10"
+        elif vol == "2 1/2 cup":
             m = "40"
 
     return m

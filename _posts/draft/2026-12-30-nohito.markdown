@@ -1,0 +1,57 @@
+---
+layout: post
+title:  Sugar Free Nohito
+date:   2026-06-09 00:00:00 -0500
+categories:
+- Recipes
+- Drinks
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: yes
+permalink: /recipes/nohito
+image: /assets/Food/Drinks/Nohito/cover.jpg
+file: nohito
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest:
+Cook:
+Source1: https://www.skinnytaste.com/nojito/#recipe
+Source2: https://www.inkatrinaskitchen.com/nojito-recipe/
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/BhOWR
+tags:
+- mint leaves
+- lime juice
+- cocktail
+- mocktail
+- liquid monk fruit
+Description: The "no" in this Nohito has a double meaning. Not only is it a mocktail, being alcohol free, but it's also sugar free, being sweetened with liquid monk fruit. The combination of fresh mint and lime makes a perfectly refreshing beverage for these hot summer months.
+Instructions:
+- Add your mint leaves and lime juice to a tall glass. Using the back of a wooden spoon, crush together the mint and lime
+
+- Add liquid monk fruit, ice, and water to the glass. Stir together, and garnish with a like wedge
+Notes:
+- You can either use standard (flat) water or sparking water / club soda / seltzer
+---

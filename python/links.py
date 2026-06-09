@@ -10,6 +10,21 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/mint-sauce": [
+        "dairy free creamy mint sauce",
+        "dairy free mint sauce",
+        "creamy mint sauce",
+        "mint sauce",
+        "mint hummus",
+        "creamy mint hummus"
+    ],
+    "/recipes/nohito": [
+        "sugar free nohito",
+        "sugar free no-hito",
+        "nohito",
+        "no-hito"
+        "mojito"
+    ],
     "/recipes/recession-beans": [
         "recession beans: a $1 meal",
         "recession beans"
@@ -8437,7 +8452,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-11")):
+            if not file.startswith(("2026-12-30")):
                 continue
 
             # exclude some files
