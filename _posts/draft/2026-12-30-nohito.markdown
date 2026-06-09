@@ -47,11 +47,11 @@ tags:
 - cocktail
 - mocktail
 - liquid monk fruit
-Description: The "no" in this Nohito has a double meaning. Not only is it a mocktail, being alcohol free, but it's also sugar free, being sweetened with liquid monk fruit. The combination of fresh mint and lime makes a perfectly refreshing beverage for these hot summer months.
+Description: The "no" in this Nohito has a double meaning. Not only is it a mocktail, being alcohol free, but it's also <a href='/misc/hidden-sugar'>sugar free</a>, being sweetened with <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. The combination of fresh mint and <a href='/misc/fruit#lime'>lime</a> makes a perfectly refreshing beverage for these hot summer months.
 Instructions:
-- Add your mint leaves and lime juice to a tall glass. Using the back of a wooden spoon, crush together the mint and lime
+- Add your mint leaves and <a href='/misc/fruit#lime-juice'>lime juice</a> to a tall glass. Using the back of a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>, crush together the mint and <a href='/misc/fruit#lime'>lime</a>
 
-- Add liquid monk fruit, ice, and water to the glass. Stir together, and garnish with a like wedge
+- Add <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, ice, and water to the glass. Stir together, and garnish with a lime wedge
 Notes:
 - You can either use standard (flat) water or sparking water / club soda / seltzer
 ---

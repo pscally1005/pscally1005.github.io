@@ -16,7 +16,8 @@ LINKS = {
         "creamy mint sauce",
         "mint sauce",
         "mint hummus",
-        "creamy mint hummus"
+        "creamy mint hummus",
+        "dairy free creamy yogurt sauce",
     ],
     "/recipes/nohito": [
         "sugar free nohito",
@@ -418,7 +419,8 @@ LINKS = {
     ],
     "/recipes/air-fried-falafel": [
         "Air Fryer Falafel (GF)",
-        "Air Fryer Falafel"
+        "Air Fryer Falafel",
+        "falafel"
     ],
     "/recipes/air-fried-trail-mix": [
         "Air Fryer Trail Mix"
@@ -6586,6 +6588,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "soda water",
+    "club soda",
     "your cookie dough",
     "hemoglobin, a protein",
     "apple cinnamon",
