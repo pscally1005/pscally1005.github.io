@@ -97,7 +97,7 @@ def fix(vol):
         v = "2 cup"
     elif vol == "2.22 cup":
         v = "2 1/4 cup"
-    elif vol == "40 tbsp" or vol == "2.52 cup":
+    elif vol == "40 tbsp" or vol == "2.52 cup" or vol == "2.5 cup":
         v = "2 1/2 cup"
     elif vol == "3 cup (240.0 ml) aprx" or vol == "3 cup unsifted" or vol == "6 1/2 cup" or vol == "48 tbsp" or vol == "48 Tbsp" or vol == "50 tbsp" or vol == "50 Tbsp" or vol == "3.11 cup, NFS" or vol == "2.99 cup drained, rinsed":
         v = "3 cup"
@@ -157,7 +157,7 @@ def fix(vol):
         v = "2 x 28 oz can"
     elif vol == "29 ounce":
         v = "2 x 14.5oz can"
-    elif vol == "2 15.5oz can, drained and rinsed" or vol == "2 can drained solids" or vol == "2 can" or vol == "2 can, drained, rinsed" or vol == "2 can drained" or vol == "2x15.5oz can drained, rinsed" or vol == "2 15.5oz cans" or vol == "2 15.5oz can, NOT drained or rinsed":
+    elif vol == "2 15.5oz can, drained and rinsed" or vol == "2 can drained solids" or vol == "2 can" or vol == "2 can, drained, rinsed" or vol == "2 can drained, rinsed" or vol == "2 can drained" or vol == "2x15.5oz can drained, rinsed" or vol == "2 15.5oz cans" or vol == "2 15.5oz can, NOT drained or rinsed":
         v = "2 x 15.5 oz can"
     elif vol == "3 15.5oz can, drained and rinsed" or vol == "3 can drained solids" or vol == "3 can" or vol == "3 can, drained, rinsed" or vol == "3 can drained" or vol == "3x15.5oz can drained, rinsed" or vol == "3 15.5oz cans" or vol == "3 15.5oz can, NOT drained or rinsed":
         v = "3 x 15.5 oz can"

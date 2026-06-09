@@ -1665,6 +1665,11 @@ def vol_from_mass(food, mass, vol):
         elif mass == "24":
             v = "4 tsp"
 
+    # Cilantro
+    elif food == "Cilantro, fresh":
+        if mass == "40":
+            v = "2 1/2 cup"
+
     return v
 
 def main(path = ""):
