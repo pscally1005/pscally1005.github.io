@@ -56,7 +56,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, baking soda, and salt
 
-- Add in the wet ingredients (except the water) - <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/hidden-sugar'>sugar</a>, buttermilk, oil, and vanilla. Beat with an <a href='https://amzn.to/45yqsbM'>electric mixer</a> on medium until the dry ingredients are just fully incorporated, about 1-2 minutes
+- Add in the wet ingredients (except the water) - <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/dairy#buttermilk'>buttermilk</a>, oil, and vanilla. Beat with an <a href='https://amzn.to/45yqsbM'>electric mixer</a> on medium until the dry ingredients are just fully incorporated, about 1-2 minutes
 
 - Add water to a medium glass, and microwave for 2 minutes. Pour in the boiling water, and beat together for about 30 seconds, until fully combined. The batter will be very thin
 - <img src='/assets/Misc/Unhealthy/Cake/bowl.jpg' alt='' class='instruction-image'>
@@ -77,7 +77,7 @@ Instructions:
 - Slice and serve. Store in the fridge for up to a week, or freeze the slices indefinitely
 - <img src='/assets/Misc/Unhealthy/Cake/candle.jpg' alt='' class='instruction-image'>
 Notes:
-- If you don't have buttermilk, mix together 1 tbsp (15 g) white vinegar with 15 tbsp (225 g) <a href='/misc/dairy#skim-milk'>milk</a>, and let sit for 5 minutes before using as buttermilk in the cake batter
+- If you don't have <a href='/misc/dairy#buttermilk'>buttermilk</a>, mix together 1 tbsp (15 g) white vinegar with 15 tbsp (225 g) <a href='/misc/dairy#skim-milk'>milk</a>, and let sit for 5 minutes before using as <a href='/misc/dairy#buttermilk'>buttermilk</a> in the cake batter
 
 - |
   <div id='healthier' class='table-of-contents-2'></div>

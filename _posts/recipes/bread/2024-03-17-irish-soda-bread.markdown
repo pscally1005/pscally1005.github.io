@@ -52,13 +52,13 @@ tags:
 - st patricks day
 - st patrick's day
 - buttermilk
-Description: This Irish Soda <a href='/recipes/bread'>Bread</a> is healthier than traditional, as it's packed with much more <a href='/misc/fiber'>fiber</a> and <a href='/misc/nutrient-alphabet'>nutrients</a> due to the <a href='/misc/grains#whole-wheat'>whole wheat</a> and <a href='/misc/grains#oats'>oat flours</a>. This is a quick <a href='/recipes/bread'>bread recipe</a> that relies on the reaction between baking soda and buttermilk, giving you a delicious <a href='/recipes/bread'>bread</a> in a fraction of the time. It goes great with my <a href='/recipes/shepards-pie'>Cauliflower Mash Shepard's Pie</a> for a hearty dinner.
+Description: This Irish Soda <a href='/recipes/bread'>Bread</a> is healthier than traditional, as it's packed with much more <a href='/misc/fiber'>fiber</a> and <a href='/misc/nutrient-alphabet'>nutrients</a> due to the <a href='/misc/grains#whole-wheat'>whole wheat</a> and <a href='/misc/grains#oats'>oat flours</a>. This is a quick <a href='/recipes/bread'>bread recipe</a> that relies on the reaction between baking soda and <a href='/misc/dairy#buttermilk'>buttermilk</a>, giving you a delicious <a href='/recipes/bread'>bread</a> in a fraction of the time. It goes great with my <a href='/recipes/shepards-pie'>Cauliflower Mash Shepard's Pie</a> for a hearty dinner.
 Instructions:
 - Preheat your oven to 450F, and take out a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Lightly grease it with <a href='/misc/olive-oil'>oil</a>. For a crispier crust, you can instead bake on a preheated <a href='https://amzn.to/4ccXgLm'>pizza stone</a>. Just use parchment paper, so it's easier to get the loaf in
 
 - Combine all the dry ingredients in a large mixing bowl - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, cornstarch, baking soda, and salt
 
-- In a separate bowl, whisk together the buttermilk and <a href='/misc/meat#eggs'>egg</a> until well combined
+- In a separate bowl, whisk together the <a href='/misc/dairy#buttermilk'>buttermilk</a> and <a href='/misc/meat#eggs'>egg</a> until well combined
 - <img src='/assets/Food/Bread/Irish/irish-3.jpg' alt='' class='instruction-image'>
 
 - Pour the wet mixture into the dry. Using a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> or <a href='https://amzn.to/44XmqKz'>dough scraper</a>, lightly knead in the bowl to form a dough
@@ -75,5 +75,5 @@ Instructions:
 Notes:
 - The dough should be quite wet and sticky compared to a normal bread dough.  Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> helps preventing the dough getting stuck to your hands
 
-- You can substitute standard buttermilk with powdered buttermilk.  Mix 6 tbsp (35 g) of buttermilk powder in with the dry ingredients, and substitute the buttermilk for water (1 1/2 cup, 360 g).  The dough will be much liquidier; too liquidy to shape.  Bake instead in a parchment lined and <a href='https://amzn.to/3Hdg0gk'>lightly oiled</a> <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>.  It may need an extra few minutes to be fully cooked.  The bottom should sound hollow when tapped, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be around <a href='https://amzn.to/4kmobG2'>210F</a>
+- You can substitute standard <a href='/misc/dairy#buttermilk'>buttermilk</a> with powdered <a href='/misc/dairy#buttermilk'>buttermilk</a>.  Mix 6 tbsp (35 g) of <a href='/misc/dairy#buttermilk'>buttermilk</a> powder in with the dry ingredients, and substitute the <a href='/misc/dairy#buttermilk'>buttermilk</a> for water (1 1/2 cup, 360 g).  The dough will be much liquidier; too liquidy to shape.  Bake instead in a parchment lined and <a href='https://amzn.to/3Hdg0gk'>lightly oiled</a> <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>.  It may need an extra few minutes to be fully cooked.  The bottom should sound hollow when tapped, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be around <a href='https://amzn.to/4kmobG2'>210F</a>
 ---
