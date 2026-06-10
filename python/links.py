@@ -262,7 +262,7 @@ LINKS = {
         "sugar free baklava",
         "gluten free baklava",
         "rice paper baklava",
-        "baklava with rice paper",
+        # "baklava with rice paper",
         "baklava",
         "baklava inspired",
         "baklava-inspired",
@@ -5225,6 +5225,23 @@ LINKS = {
     "https://amzn.to/4dGuPpJ": [
         "rice paper",
         "rice paper wrap"
+    ],
+    "https://amzn.to/4uKqFT3": [
+        "phyllo dough",
+        "phyllo",
+        "filo dough",
+        "filo",
+        "fillo dough",
+        "fillo",
+        "phyllo pastry",
+        "filo pastry",
+        "fillo pastry",
+        "phyllo dough sheets",
+        "phyllo sheets",
+        "filo dough sheets",
+        "filo sheets",
+        "fillo dough sheets",
+        "fillo sheets"
     ],
     "https://amzn.to/4c6GlII": [
         "chicken better than bouillon",
