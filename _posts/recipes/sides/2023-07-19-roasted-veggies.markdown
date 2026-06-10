@@ -57,7 +57,7 @@ tags:
 - pepper
 - bell pepper
 - eggplant
-Description: Roasted <a href='/misc/veggies'>vegetables</a> are so easy to do that I should really be making them more often. You can really do this with whatever <a href='/misc/veggies'>vegetables</a> you have on hand, like <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, or <a href='/misc/veggies#asparagus'>asparagus</a>. It's written to be minimally seasoned, that way you can add any other spices you desire for tons of different flavors. Serve it on the side of grilled <a href='/misc/meat#chicken-breast'>chicken</a> or <a href='/misc/fish'>fish</a> and with any other <a href='/misc/sides'>side</a> you desire.
+Description: Roasted <a href='/misc/veggies'>vegetables</a> are so easy to do that I should really be making them more often. You can really do this with whatever <a href='/misc/veggies'>vegetables</a> you have on hand, like <a href='/misc/veggies#pepper'>peppers</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, or <a href='/misc/veggies#asparagus'>asparagus</a>. It's written to be minimally seasoned, that way you can add any other spices you desire for tons of different flavors. Serve it on the side of grilled <a href='/misc/meat#chicken-breast'>chicken</a> or <a href='/misc/fish'>fish</a> and with any other <a href='/recipes/sides'>side</a> you desire.
 Instructions:
 - Preheat oven to 400F and line a <a href='https://amzn.to/45sRAsB'>baking sheet</a> with aluminum foil or parchment paper
 

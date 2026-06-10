@@ -69,7 +69,7 @@ Instructions:
 Notes:
 - In order to keep the colors consistent, it's better to go from lightest to darkest color in order. Meaning, start with the vanilla, then <a href='/misc/fruit#strawberries'>strawberry</a>, then finish with the <a href='/misc/chocolate-benefits'>chocolate</a>
 
-- Below is a table comparing the nutrition facts of <a href='#recipe'>this recipe</a> to standard ice cream per cup.  As you can see, the homemade banana ice cream is significantly lower in <a href='/misc/fat'>fat</a> and <a href='/misc/calories'>calories</a>, while being free of any <a href='/misc/hidden-sugar'>added sugar</a>!
+- Below is a table comparing the nutrition facts of <a href='#recipe'>this recipe</a> to standard ice cream per cup.  As you can see, the homemade banana ice cream is significantly lower in <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being free of any <a href='/misc/hidden-sugar'>added sugar</a>!
 - |
   COMPARE(
     "neopolitan",
