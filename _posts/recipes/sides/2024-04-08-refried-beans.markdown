@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 permalink: /recipes/refried-beans
 image: /assets/Food/Sides/Refried/refried-cover.jpg
 file: refried

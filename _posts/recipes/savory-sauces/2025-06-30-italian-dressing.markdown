@@ -17,7 +17,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 permalink: /recipes/italian-dressing
 image: /assets/Food/Savory Sauces/Italian dressing/cover-1.jpg
 file: italiandressing

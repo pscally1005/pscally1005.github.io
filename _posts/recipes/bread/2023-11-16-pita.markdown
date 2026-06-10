@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 permalink: /recipes/pita
 image: /assets/Food/Bread/Pita/pita-cover.jpg
 file: pita

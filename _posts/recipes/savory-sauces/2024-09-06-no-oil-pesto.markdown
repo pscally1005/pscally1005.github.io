@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 permalink: /recipes/oil-free-basil-pesto
 image: /assets/Food/Savory Sauces/Basil Pesto/pesto-cover.jpg
 file: nooilpesto

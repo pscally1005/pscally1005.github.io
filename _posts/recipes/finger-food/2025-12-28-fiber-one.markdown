@@ -17,7 +17,7 @@ dressing: no
 brownie: yes
 cookie: no
 copycat: yes
-vic: no
+vic: yes
 permalink: /recipes/fiber-one-brownies
 image: /assets/Food/Finger Food/Fiber One/cover.jpg
 file: fiberone

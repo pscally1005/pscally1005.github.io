@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 permalink: /recipes/salsa
 image: /assets/Food/Savory Sauces/Salsa/salsa.jpg
 file: salsa
