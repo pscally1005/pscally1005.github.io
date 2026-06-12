@@ -19,11 +19,16 @@ LINKS = {
         "creamy mint hummus",
         "dairy free creamy yogurt sauce",
     ],
-    "/recipes/nohito": [
+    "/recipes/nojito": [
         "sugar free nohito",
         "sugar free no-hito",
         "nohito",
         "no-hito"
+        "mohito",
+        "sugar free nojito",
+        "sugar free no-jito",
+        "nojito",
+        "no-jito"
         "mojito"
     ],
     "/recipes/recession-beans": [
