@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  High Fiber Psyllium Wrap
-date:   2026-05-11 00:00:00 -0500
+date:   2026-06-15 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -20,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 permalink: /recipes/psyllium-wrap
-image: /assets/Food/Bread/Psyllium wrap/crepe2-cut.jpg
+image: /assets/Food/Bread/Psyllium wrap/new-cover.png
 file: psylliumwrap
 servingSize: 1 wrap (~80 g)
 section1:
