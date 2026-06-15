@@ -1,0 +1,121 @@
+---
+layout: post
+title:  Sugar Free Baklava
+date:   2026-06-13 00:00:00 -0500
+categories:
+- Recipes
+- Healthier Dessert
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+permalink: /recipes/baklava
+image: /assets/Food/Healthier Dessert/Baklava/cover1.jpg
+file: baklavasfs
+servingSize: 1 piece (~42 g)
+section1: Layers
+start2: Pistachios
+section2: Filling
+start3: Water
+section3: Syrup
+start4:
+section4:
+start5:
+section5:
+Prep: 60
+Rest: 30
+Cook: 90
+Source1: https://www.themediterraneandish.com/how-to-make-baklava/
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/TXY26
+tags:
+- sugar free
+- gluten free
+- low fat
+- phyllo dough
+- fillo dough
+- filo dough
+- baklava
+- bakalava
+- pistachios
+- sugar free syrup
+- cinnamon
+- cloves
+Description: |
+  What makes this baklava healthier?  Firstly, it's <a href='/misc/hidden-sugar'>sugar free</a>, using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> in the syrup you pour on top instead of <a href='/misc/hidden-sugar'>white sugar</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>.<br><br>
+
+  Secondly, it's <a href='/misc/dairy#butter'>butter</a> free. Instead of brushing each layer with melted <a href='/misc/dairy#butter'>butter</a>, you simply lightly brush them with water.<br><br>
+
+  The result is a delicious and nutty <a href='/recipes/healthier-dessert'>dessert</a> that's a good source of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a> from the <a href='/misc/nuts'>nuts</a>!<br><br>
+
+  The <a href='/misc/nuts#pistachios'>pistachios</a> are crunchy and the phyllo is light and crispy for a warming and cinnamon flavored dessert.
+Instructions:
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.  Prepare a small glass of water
+
+- Use a <a href='https://amzn.to/4q0AUjI'>food processor</a> to roughly chop your <a href='/misc/nuts#pistachios'>pistachios</a>, and transfer to an empty bowl. Mix with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, cinnamon, and cloves to make a sticky filling
+
+- Add a <a href='https://amzn.to/4uKqFT3'>phyllo sheet</a> to the base of the pan, folding the edges if necessary.  Lightly brush with water.  Repeat for a total of 5 sheets
+
+- Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a> to prevent sticking, crumble about 1/4 of your pistachio mixture (~85 g or 1/3 cup) onto the <a href='https://amzn.to/4uKqFT3'>phyllo</a>, lightly pressing into the dough
+- <img src='/assets/Food/Healthier Dessert/Baklava/make.jpg' alt='' class='instruction-image'>
+
+- |
+  Repeat with the layering and brushing for 4 more sheets, and then the next 1/4 of your <a href='/misc/nuts'>nut</a> mixture.  Do this 3 times, so you have 4 "sections" of <a href='https://amzn.to/4uKqFT3'>phyllo</a>, with 5, 4, 4, and 4 layers of sheets respectively, for a total of 17 <a href='https://amzn.to/4uKqFT3'>phyllo sheets</a>.<br><br>
+
+  Each "section" will be separated by 1/4 of your nut mixture.  Top the final <a href='https://amzn.to/4uKqFT3'>phyllo sheet</a> with your remaining pistachio mix
+
+- Using a sharp <a href='https://amzn.to/4jlDKwc'>knife</a>, cut your baklava into 24 squares
+- <img src='/assets/Food/Healthier Dessert/Baklava/cut.jpg' alt='' class='instruction-image'>
+
+- Bake for 30 minutes at 350F.  Lower the oven to 300F, and bake for an additional 45-60 minutes.  The top will be lightly browned, dried, and flaky, and the baklava will separate from each other.  Let it cool on the counter for 15 minutes
+- <img src='/assets/Food/Healthier Dessert/Baklava/no-syrup.jpg' alt='' class='instruction-image'>
+
+- Microwave your water and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a> for 2 minutes, covered with a plate. Pour on top of the baked baklava
+- <img src='/assets/Food/Healthier Dessert/Baklava/with-syrup.jpg' alt='' class='instruction-image'>
+
+- Chill in the fridge for at least 1 hour before eating.  Either eat cold, or air fry for 3 minutes at 400F to make it crispier
+- <img src='/assets/Food/Healthier Dessert/Baklava/cover2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Baklava/cover3.jpg' alt='' class='instruction-image'>
+Notes:
+- |
+  You can find <a href='https://amzn.to/4uKqFT3'>phyllo dough</a> in the frozen food section, or you can order it on Amazon <a href='https://amzn.to/4uKqFT3'>here</a>.<br><br>
+
+  My pack of <a href='https://amzn.to/4uKqFT3'>phyllo</a> is 16 oz (454 g), and contains 17 sheets.  You should have 4 "sections" of layered sheets, where the bottom one has 5 <a href='https://amzn.to/4uKqFT3'>phyllo</a> sheets, and the other 3 each have 4 pieces of <a href='https://amzn.to/4uKqFT3'>phyllo</a> layered on each other.<br><br>
+
+  You'll have <a href='/misc/nuts#pistachios'>pistachio</a> filling between each of the 4 sections and on top of the final one.
+- <img src='/assets/Food/Healthier Dessert/Baklava/box-front.jpg' alt='' class='larger-image'>
+- <img src='/assets/Food/Healthier Dessert/Baklava/box-back.jpg' alt='' class='larger-image'>
+
+- An equal amount of <a href='/misc/natural-sweeteners#honey'>honey</a> or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> will also work in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.
+- |
+  COMPARE(
+    "baklavasfs",
+    "baklavahoney",
+    "baklavamaple";
+
+    "<a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
+    "<a href='/misc/natural-sweeteners#honey'>Honey</a>",
+    "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+---
