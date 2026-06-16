@@ -1639,6 +1639,7 @@ LINKS = {
         "shredded chicken",
         "leftover cooked chicken"
         "shredded cooked chicken",
+        "cooked chicken"
     ],
     "/recipes/sleepy-smoothie": [
         "Golden Milk, aka Sleepy Smoothie",
@@ -3018,7 +3019,9 @@ LINKS = {
     "/recipes/no-honey-mustard": [
         "no-honey mustard dressing",
         "no honey mustard dressing",
-        "honey mustard dressing"
+        "honey mustard dressing",
+        "no-honey mustard",
+        "no honey mustard"
     ],
     "/recipes/buffalo-chicken-dip": [
         "high protein buffalo chicken dip",
@@ -6634,6 +6637,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "soda water",
+    "this honey mustard recipe",
     "club soda",
     "your cookie dough",
     "hemoglobin, a protein",
@@ -8504,7 +8508,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-23")):
+            if not file.startswith(("2026-12-29")):
                 continue
 
             # exclude some files

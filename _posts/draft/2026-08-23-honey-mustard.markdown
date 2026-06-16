@@ -49,16 +49,18 @@ tags:
 - honey
 - apple cider vinegar
 Description: |
-  Nothing turns a healthy salad into junk food quicker than a bottle of salad dressing. Most commercial honey mustard dressings have high fructose corn syrup, soybean oil and other seed oils, synthetic food dyes, artificial preservatives, and a paragraph of ingredients you can barely pronounce.<br><br>
+  Nothing turns a healthy <a href='/salad'>salad</a> into <a href='/misc/fake-healthy-foods'>junk food</a> quicker than a bottle of <a href='/salad-dressings'>salad dressing</a>. Most <a href='https://amzn.to/4uJsVK5'>commercial honey mustard dressings</a> have <a href='/misc/hidden-sugar'>high fructose corn syrup</a>, <a href='/misc/fake-healthy-foods#seed-oil'>soybean oil</a> and other <a href='/misc/fake-healthy-foods#seed-oil'>seed oils</a>, synthetic food dyes, artificial preservatives, and a paragraph of ingredients you can barely pronounce.<br><br>
 
-  In comparison, this homemade healthier honey mustard dressing uses heart healthy extra virgin olive oil as it's base, and only contains honey as it's sweetener, no corn syrup or refined sugar. With a few simple ingredients and just 5 minutes of your time, you can easily whip up a homemade salad dressing without the need for mayo or eggs.<br><br>
+  In comparison, this homemade healthier honey mustard dressing uses heart healthy <a href='/misc/olive-oil'>extra virgin olive oil</a> as it's base, and only contains <a href='/misc/natural-sweeteners#honey'>honey</a> as it's sweetener, no <a href='/misc/hidden-sugar'>corn syrup</a> or <a href='/misc/hidden-sugar'>refined sugar</a>.<br><br>
 
-  For a low calorie honey mustard recipe, check out my No-Honey Mustard Dressing. That recipe uses a base of cottage cheese instead of oil for more protein and less fat and calories, while being sweetened with granulated monk fruit instead of honey for no added sugar and less net carbs.
+  With a few simple ingredients and just 5 minutes of your time, you can easily whip up a <a href='/salad-dressings'>homemade salad dressing</a> without the need for <a href='/misc/fake-healthy-foods#dips'>mayo</a> or <a href='/misc/meat#eggs'>eggs</a>.<br><br>
+
+  For a <a href='/misc/calories'>low calorie</a> <a href='/misc/fake-healthy-foods#dips'>honey mustard</a> recipe, check out my <a href='/recipes/no-honey-mustard'>No-Honey Mustard Dressing</a>. That recipe uses a base of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> instead of oil for more <a href='/misc/protein'>protein</a> and less <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> instead of <a href='/misc/natural-sweeteners#honey'>honey</a> for no <a href='/misc/hidden-sugar'>added sugar</a> and less <a href='/misc/carbs'>net carbs</a>.
 Instructions:
 - Add all ingredients to a small mason jar. Vigorously shake until fully combined. Store in the fridge for up to 1 week
 - <img src='/assets/Food/Savory Sauces/Honey Mustard/no-spoon.jpg' alt='' class='instruction-image'>
 Notes:
-- Here is the nutritional information of this honey mustard recipe compared to my No-Honey Mustard and storebought honey mustard dressing per serving (2 tbsp, 30 g)
+- Here is the nutritional information of this honey mustard recipe compared to my <a href='/recipes/no-honey-mustard'>No-Honey Mustard</a> and <a href='https://amzn.to/4uJsVK5'>storebought honey mustard dressing</a> per serving (2 tbsp, 30 g)
 - |
   COMPARE(
     "vichoneymustard",

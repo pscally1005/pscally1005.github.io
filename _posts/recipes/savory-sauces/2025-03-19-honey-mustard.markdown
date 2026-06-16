@@ -64,7 +64,7 @@ Notes:
 
 - Compared to typical <a href='https://amzn.to/43ZqAQ3'>bottled honey mustard</a>, my version has a third of the <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, with <a href='/misc/protein'>protein</a> and no <a href='/misc/hidden-sugar'>added sugar</a>, something the store bought version can't say
 
-- Here is the nutritional information of this honey mustard recipe compared to my Homemade Healthier Honey Mustard Dressing and storebought honey mustard dressing per serving (2 tbsp, 30 g)
+- Here is the nutritional information of this honey mustard recipe compared to my <a href='/recipes/honey-mustard'>Homemade Healthier Honey Mustard Dressing</a> and <a href='https://amzn.to/4uJsVK5'>storebought honey mustard dressing</a> per serving (2 tbsp, 30 g)
 - |
   COMPARE(
     "nohoneymustard",

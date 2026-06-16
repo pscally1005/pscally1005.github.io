@@ -53,15 +53,15 @@ tags:
 - casserole
 - bake
 - cast iron
-Description: All the flavors of a classic Cubano Sandwich, but without the bread. It's also lower in fat due to leaner chicken instead of fatty pulled pork. The sauce features the classic Swiss cheese, while still being creamy without mayo or heavy cream. Topped with pickles and baked until golden, this low carb, low fat, and high protein Cuban sandwich alternative is sure to hit any cravings!
+Description: All the flavors of a classic Cubano Sandwich, but without the bread. It's also lower in <a href='/misc/fats'>fat</a> due to <a href='/misc/fats'>leaner</a> <a href='/misc/meat#chicken-breast'>chicken</a> instead of <a href='/misc/fats'>fatty</a> pulled pork. The sauce features the classic <a href='/misc/dairy#swiss-cheese'>swiss cheese</a>, while still being creamy without <a href='/misc/fake-healthy-foods#dips'>mayo</a> or heavy cream. Topped with pickles and baked until golden, this <a href='/misc/carbs'>low carb</a>, <a href='/misc/fats'>low fat</a>, and <a href='/misc/high-protein'>high protein</a> Cuban sandwich alternative is sure to hit any cravings!
 Instructions:
-- Preheat your oven to 400F. Heat a 10" cast iron pan on the stove over medium heat. Cut your ham into small cubes. When the pan is hot, add in the ham, and cook for 5-8 minutes, or until the outside is lightly browned
+- Preheat your oven to 400F. Heat a <a href='https://amzn.to/465aAxx'>10" cast iron pan</a> on the stove over medium heat. Cut your <a href='/misc/meat#ham'>ham</a> into small cubes. When the pan is hot, add in the <a href='/misc/meat#ham'>ham</a>, and cook for 5-8 minutes, or until the outside is lightly browned
 - <img src='/assets/Food/Chicken/Cubano/stove.jpg' alt='' class='instruction-image'>
 
-- In a large bowl, combine ham, cooked chicken, (blended) cottage cheese, mustard, shredded Swiss, paprika, garlic powder, onion powder, and black pepper
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine <a href='/misc/meat#ham'>ham</a>, <a href='/recipes/shredded-chicken'>cooked chicken</a>, (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, mustard, shredded <a href='/misc/dairy#swiss-cheese'>Swiss</a>, paprika, garlic powder, onion powder, and black pepper
 - <img src='/assets/Food/Chicken/Cubano/bowl.jpg' alt='' class='instruction-image'>
 
-- Add your mixture to the cast iron pan. Top with the rest of your swiss and sliced pickles
+- Add your mixture to the <a href='https://amzn.to/465aAxx'>cast iron pan</a>. Top with the rest of your <a href='/misc/dairy#swiss-cheese'>swiss</a> and sliced pickles
 - <img src='/assets/Food/Chicken/Cubano/pre-bake.jpg' alt='' class='instruction-image'>
 
 - Cover with foil and bake at 400F for about 20 minutes, or until steamy and bubbly. Optionally broil the top for 1-2 minutes before serving
