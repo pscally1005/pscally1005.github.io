@@ -58,7 +58,8 @@ Description: |
   For a <a href='/misc/calories'>low calorie</a> <a href='/misc/fake-healthy-foods#dips'>honey mustard</a> recipe, check out my <a href='/recipes/no-honey-mustard'>No-Honey Mustard Dressing</a>. That recipe uses a base of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> instead of oil for more <a href='/misc/protein'>protein</a> and less <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, while being sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> instead of <a href='/misc/natural-sweeteners#honey'>honey</a> for no <a href='/misc/hidden-sugar'>added sugar</a> and less <a href='/misc/carbs'>net carbs</a>.
 Instructions:
 - Add all ingredients to a small mason jar. Vigorously shake until fully combined. Store in the fridge for up to 1 week
-- <img src='/assets/Food/Savory Sauces/Honey Mustard/no-spoon.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Savory Sauces/Honey Mustard/no-spoon.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Savory Sauces/Honey Mustard/salad.jpg' alt='' class='instruction-image'>
 Notes:
 - Here is the nutritional information of this honey mustard recipe compared to my <a href='/recipes/no-honey-mustard'>No-Honey Mustard</a> and <a href='https://amzn.to/4uJsVK5'>storebought honey mustard dressing</a> per serving (2 tbsp, 30 g)
 - |
