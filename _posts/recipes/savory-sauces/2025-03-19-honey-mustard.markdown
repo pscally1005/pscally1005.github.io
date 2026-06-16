@@ -63,4 +63,22 @@ Notes:
 - You can also use 1/2 tsp (2.5 g) of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a> as your sweetener in place of the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  2 tbsp (40 g) <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or (ironically) <a href='/misc/natural-sweeteners#honey'>honey</a> should also work too
 
 - Compared to typical <a href='https://amzn.to/43ZqAQ3'>bottled honey mustard</a>, my version has a third of the <a href='/misc/fats'>fat</a> and <a href='/misc/calories'>calories</a>, with <a href='/misc/protein'>protein</a> and no <a href='/misc/hidden-sugar'>added sugar</a>, something the store bought version can't say
+
+- Here is the nutritional information of this honey mustard recipe compared to my Homemade Healthier Honey Mustard Dressing and storebought honey mustard dressing per serving (2 tbsp, 30 g)
+- |
+  COMPARE(
+    "nohoneymustard",
+    "vichoneymustard",
+    "honey-mustard-store-serving";
+
+    "<a href='#recipe'>No<br>Honey<br>Mustard</a>",
+    "<a href='/recipes/honey-mustard'>Homemade<br>Honey<br>Mustard</a>",
+    "<a href='https://amzn.to/4uJsVK5'>Storebought<br>Honey<br>Mustard</a>";
+
+    "Calories",
+    "Protein",
+    "Net Carbs",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---

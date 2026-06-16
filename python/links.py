@@ -10,6 +10,22 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/honey-mustard": [
+        "honey mustard dressing",
+        "honey mustard",
+        "homemade healthier honey mustard dressing",
+        "homemade healthier honey mustard",
+        "homemade honey mustard dressing",
+        "homemade honey mustard"
+    ],
+    "/recipes/cubano-casserole": [
+        "cubano casserole",
+        "leaner cubano casserole",
+        "cuban casserole",
+        "leaner cuban casserole",
+        "cubano",
+        "cubano"
+    ],
     "/recipes/mint-sauce": [
         "dairy free creamy mint sauce",
         "dairy free mint sauce",
@@ -5159,6 +5175,13 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4uJsVK5": [
+        "storebought honey mustard dressing",
+        "storebought honey mustard",
+        "store bought honey mustard dressing",
+        "storebought honey mustard",
+        "commercial honey mustard dressings"
+    ],
     "https://amzn.to/4obDT9v": [
         "aleias italian style",
         "aleia's italian style"
@@ -8481,7 +8504,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-30")):
+            if not file.startswith(("2026-08-23")):
                 continue
 
             # exclude some files

@@ -187,6 +187,8 @@ Red jalapenos,pepper,2.00,454.00,0.00441,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.
 Shredded mozzarella cheese,mozzarella,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
 "Shredded mozzarella cheese, low moisture part skim",mozzarella,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
 "Mozzarella cheese, fat free",mozzarella-fat-free,7.27,908.00,0.00801,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
+Swiss cheese,swiss-cheese,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
+Swiss Cheese,swiss-cheese,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
 Shredded cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
 Cheddar cheese,cheddar,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
 "Cheddar cheese, fat free",cheddar-fat-free,2.22,224.00,0.00991,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
@@ -367,6 +369,7 @@ Low sugar berry jam,jam-low-sugar,3.12,364.00,0.00857,38,TRUE,TRUE,TRUE,TRUE,TRU
 Fat free Italian dressing,italian-dressing,2.68,360.00,0.00744,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Italian dressing,italian-dressing,2.68,360.00,0.00744,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,0,https://amzn.to/4ddXZw7
+Honey mustard dressing,honey-mustard-store-100g,1.52,518.00,0.00293,40,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,20.0,0.0,0.0,0.0,0,30,
 Unsweetened BBQ Sauce,bbq-sauce-homemade,1.52,518.00,0.00293,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/bbq-sauce
 Unsweetened BBQ sauce,bbq-sauce-homemade,1.52,518.00,0.00293,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/bbq-sauce
 Date Sweetened Ketchup,ketchup-date,1.94,400.00,0.00485,53,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/ketchup

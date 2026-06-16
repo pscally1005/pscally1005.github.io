@@ -1,0 +1,70 @@
+---
+layout: post
+title:  Leaner Cubano Casserole
+date:   2026-06-15 00:00:00 -0500
+categories:
+- Recipes
+- Chicken
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+permalink: /recipes/cubano-casserole
+image: /assets/Food/Chicken/Cubano/cover.jpg
+file: cubano
+servingSize:
+section1: Step 1
+start2: Simple Shredded Chicken
+section2: Step 2
+start3: Swiss Cheese
+section3: Step 3
+start4:
+section4:
+start5:
+section5:
+Prep: 15
+Rest:
+Cook: 20
+Source1: https://www.fittoservegroup.com/keto-cuban-casserole/#mv-creation-714-jtr
+Source2: https://grilling24x7.com/cast-iron-cuban-casserole-leftover-pulled-pork-recipe/
+Source3: https://www.taketwotapas.com/cuban-casserole/#recipe
+Source4: https://tasteandsee.com/cast-iron-cuban-skillet/#mv-creation-376-jtr
+Source5:
+whisk: https://s.samsungfood.com/maYFV
+tags:
+- simple shredded chicken
+- cubano
+- cuban
+- ham
+- swiss
+- mustard
+- pickles
+- sandwich
+- casserole
+- bake
+- cast iron
+Description: All the flavors of a classic Cubano Sandwich, but without the bread. It's also lower in fat due to leaner chicken instead of fatty pulled pork. The sauce features the classic Swiss cheese, while still being creamy without mayo or heavy cream. Topped with pickles and baked until golden, this low carb, low fat, and high protein Cuban sandwich alternative is sure to hit any cravings!
+Instructions:
+- Preheat your oven to 400F. Heat a 10" cast iron pan on the stove over medium heat. Cut your ham into small cubes. When the pan is hot, add in the ham, and cook for 5-8 minutes, or until the outside is lightly browned
+- <img src='/assets/Food/Chicken/Cubano/stove.jpg' alt='' class='instruction-image'>
+
+- In a large bowl, combine ham, cooked chicken, (blended) cottage cheese, mustard, shredded Swiss, paprika, garlic powder, onion powder, and black pepper
+- <img src='/assets/Food/Chicken/Cubano/bowl.jpg' alt='' class='instruction-image'>
+
+- Add your mixture to the cast iron pan. Top with the rest of your swiss and sliced pickles
+- <img src='/assets/Food/Chicken/Cubano/pre-bake.jpg' alt='' class='instruction-image'>
+
+- Cover with foil and bake at 400F for about 20 minutes, or until steamy and bubbly. Optionally broil the top for 1-2 minutes before serving
+- <img src='/assets/Food/Chicken/Cubano/post-bake.jpg' alt='' class='instruction-image'>
+Notes:
+---
