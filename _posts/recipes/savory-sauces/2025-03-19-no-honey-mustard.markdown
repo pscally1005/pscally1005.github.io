@@ -82,6 +82,7 @@ Notes:
 
     "Calories",
     "Protein",
+    "Fat",
     "Net Carbs",
     "Added Sugar",
     "Sugar Alcohol"

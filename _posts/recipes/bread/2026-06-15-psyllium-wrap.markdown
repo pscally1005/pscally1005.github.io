@@ -32,7 +32,7 @@ section4:
 start5:
 section5:
 Prep: 5
-Rest:
+Rest: 5
 Cook: 5
 Source1:
 Source2:
@@ -56,7 +56,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, whisk together <a href='https://amzn.to/3FAdvEl'>psyllium husk</a>, salt, and baking powder. Optionally add some garlic powder and onion powder (1/2 tsp, 1.5 g, each)
 
-- Pour in the water and whisk together. Wait 60-90 seconds for the <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> to begin to gel and have a texture similar to applesauce
+- Pour in the water and whisk together. Wait 60-90 seconds for the <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> to begin to gel and have a texture similar to <a href='/misc/fruit#apple'>applesauce</a>
 
 - Pour your batter into the pan, and tilt the pan to spread the batter into a 10" circle
 - <img src='/assets/Food/Bread/Psyllium wrap/raw.jpg' alt='' class='instruction-image'>
@@ -71,9 +71,13 @@ Notes:
 - <img src='/assets/Food/Bread/Psyllium wrap/oven-raw.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Psyllium wrap/oven-baked.jpg' alt='' class='instruction-image'>
 
-- This recipe makes one high fiber wrap. You can meal prep multiple of these and store in the freezer for later use
+- |
+  This recipe makes one high fiber wrap. You can meal prep multiple of these and store in the freezer for later use.<br><br>
 
-- These soft and pliable wraps can be used for everything like crepes, wraps, sandwiches, quesadillas, or even pizza!
+  However, if you're going to make multiple at once, make them each one at a time.  Don't mix together multiple wraps worth of raw batter at once, or the <a href='https://amzn.to/3FAdvEl'>phyllium</a> will thicken too much.<br><br>
+
+  You're looking for a raw texture similar to <a href='/misc/fruit#apple'>applesauce</a>.  Any more than a couple of minutes, and the raw batter will have a texture more similar to jelly
+
+- These soft and pliable wraps can be used for everything like crepes, wraps, or sandwiches!
 - <img src='/assets/Food/Bread/Psyllium wrap/crepe.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Bread/Psyllium wrap/veggie-wrap.jpg' alt='' class='instruction-image'>
 ---

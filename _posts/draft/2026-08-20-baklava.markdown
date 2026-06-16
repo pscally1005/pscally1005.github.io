@@ -61,7 +61,7 @@ Description: |
 
   The result is a delicious and nutty <a href='/recipes/healthier-dessert'>dessert</a> that's a good source of <a href='/misc/fats'>healthy fats</a> and <a href='/misc/fiber'>fiber</a> from the <a href='/misc/nuts'>nuts</a>!<br><br>
 
-  The <a href='/misc/nuts#pistachios'>pistachios</a> are crunchy and the phyllo is light and crispy for a warming and cinnamon flavored dessert.
+  The <a href='/misc/nuts#pistachios'>pistachios</a> are crunchy and the <a href='https://amzn.to/4uKqFT3'>phyllo</a> is light and crispy for a warming and cinnamon flavored dessert.
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.  Prepare a small glass of water
 

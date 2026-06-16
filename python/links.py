@@ -7350,7 +7350,7 @@ EXCLUDED_PHRASES = [
     "leftover bread",
     "so toast",
     "- flour",
-    "the bread",
+    # "the bread",
     "before baking",
     # "savory cornbread",
     # "this cornbread",
