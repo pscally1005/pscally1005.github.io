@@ -899,6 +899,8 @@ def vol_from_mass(food, mass, vol):
             v = "1/4 cup"
         elif mass == "60" or mass == "64":
             v = "1/2 cup"
+        elif mass == "85":
+            v = "2/3 cup"
         elif mass == "90":
             v = "3/4 cup"
         elif mass == "120" or mass == "128":

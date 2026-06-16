@@ -953,6 +953,8 @@ def grams(food, mass, vol):
             m = "30"
         elif vol == "1/2 cup":
             m = "60"
+        elif vol == "2/3 cup":
+            m = "85"
         elif vol == "3/4 cup":
             m = "90"
         elif vol == "1 cup":
