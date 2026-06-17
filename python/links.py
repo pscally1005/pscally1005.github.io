@@ -6643,6 +6643,8 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "soda water",
+    "chocolate baked oats",
+    "baked oats",
     "this honey mustard recipe",
     "club soda",
     "your cookie dough",

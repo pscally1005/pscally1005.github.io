@@ -51,20 +51,20 @@ tags:
 - sugar free syrup
 - pistachio
 - green
-Description: I got a lot of fresh mint leftover that I need to use up. There's only so many times I can make a Nojito or Dairy Free Creamy Mint Sauces. So today I'm blending some mint into a chocolate baked oats bar to give some refreshing mint flavor. Sticking with the green theme, I've also blended in some pistachios for crunch and healthy fats.
+Description: I got a lot of fresh mint leftover that I need to use up. There's only so many times I can make a <a href='/recipes/nojito'>Nojito</a> or <a href='/recipes/mint-sauce'>Dairy Free Creamy Mint Sauce</a>. So today I'm blending some mint into a chocolate baked oats bar to give some refreshing mint flavor. Sticking with the green theme, I've also blended in some <a href='/misc/nuts#pistachios'>pistachios</a> for crunch and <a href='/misc/fats'>healthy fats</a>.
 Instructions:
-- Preheat your oven to 350F. Line a 9" square baking pan with parchment paper. Lightly grease with oil
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease with oil</a>
 
-- Add all ingredients to a food processor. Blend until fully combined and all the mint is thoroughly chopped into the batter. You should have little to no little green bits of leaves, but still some texture to the nuts
+- Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend until fully combined and all the mint is thoroughly chopped into the batter. You should have little to no little green bits of leaves, but still some texture to the <a href='/misc/nuts'>nuts</a>
 - <img src='/assets/Food/Meme/Fresh Mint/processor.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top
 - <img src='/assets/Food/Meme/Fresh Mint/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 30 minutes. The top will be set and dark, the internal temperature should be about 205F, and a toothpick to the center will come out nearly clean
+- Bake at 350F for about 30 minutes. The top will be set and dark, the <a href='https://amzn.to/4kmobG2'>internal temperature</a> should be about <a href='https://amzn.to/4kmobG2'>205F</a>, and a toothpick to the center will come out nearly clean
 - <img src='/assets/Food/Meme/Fresh Mint/baked.jpg' alt='' class='instruction-image'>
 
-- Remove from the pan and transfer to a wire rack. Allow to cool fully before slicing into 16 squares
+- Remove from the pan and transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Allow to cool fully before slicing into 16 squares
 - <img src='/assets/Food/Meme/Fresh Mint/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---
