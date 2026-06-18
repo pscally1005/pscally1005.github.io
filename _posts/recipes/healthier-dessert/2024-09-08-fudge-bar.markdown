@@ -22,7 +22,7 @@ permalink: /recipes/oatmeal-fudge-bars
 image: /assets/Food/Healthier Dessert/Oatmeal Fudge/of-cover.jpg
 file: oatmealfudge
 servingSize: 1 bar
-section1: Crust
+section1: Base
 start2: Natural peanut butter
 section2: Fudge
 start3:
@@ -68,7 +68,7 @@ Instructions:
 - In another bowl, add the melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/misc/nuts#peanuts'>peanut butter</a>. Mix with a <a href='https://amzn.to/40F2aK0'>spatula</a>.  Melt chocolate in the microwave, and mix with the <a href='/misc/nuts#peanuts'>peanut butter</a> to make the fudge
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Fudge/of-fudge.jpg' alt='' class='instruction-image'>
 
-- In a lined <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a>, spread 2/3 of the oat mixture. Lightly wet your hands to prevent sticking, and flatten to an even thickness
+- In a lined <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a>, spread 2/3 of the oat mixture (~325 g). Lightly wet your hands to prevent sticking, and flatten to an even thickness
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Fudge/of-bottom.jpg' alt='' class='instruction-image'>
 
 - Pour the chocolate peanut butter fudge over the <a href='/misc/grains#oats'>oats</a> and spread evenly
@@ -83,6 +83,8 @@ Notes:
 - <a href='/misc/grains#oats'>Oat flour</a> will work in place of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> if you desire
 
 - You could also use 1 cup (170 g) <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> in place of the <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/misc/natural-sweeteners#honey'>honey</a>
+
+- Since we're already using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in the base, you could replace the <a href='/recipes/natural-peanut-butter'>peanut butter</a> with <a href='/recipes/reconstituted-peanut-butter'>Reconstituted Peanut Butter</a>.  Swap out the 1/2 cup (128 g) of <a href='/recipes/natural-peanut-butter'>peanut butter</a> in the fudge with 3/4 cup (72 g) of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and an additional 1/4 cup (56 g) <a href='/misc/nuts#coconut'>coconut oil</a> (for a total of 1/2 cup (112 g) <a href='/misc/nuts#coconut'>coconut oil</a> in the fudge)
 
 - To make this recipe <a href='/misc/nuts'>nut</a> free, you can use <a href='/misc/nuts#coconut'>coconut flour</a> or <a href='/misc/grains#oats'>oat flour</a> in place of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> for the crust, and <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> in place of <a href='/misc/nuts#peanuts'>peanut butter</a> for the filling
 

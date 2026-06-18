@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  High Fiber Inulin Syrup
-date:   2026-05-11 00:00:00 -0500
+date:   2026-06-18 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

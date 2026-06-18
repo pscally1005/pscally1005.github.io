@@ -74,7 +74,7 @@ Notes:
 - |
   This recipe makes one high fiber wrap. You can meal prep multiple of these and store in the freezer for later use.<br><br>
 
-  However, if you're going to make multiple at once, make them each one at a time.  Don't mix together multiple wraps worth of raw batter at once, or the <a href='https://amzn.to/3FAdvEl'>phyllium</a> will thicken too much.<br><br>
+  However, if you're going to make multiple at once, make them each one at a time.  Don't mix together multiple wraps worth of raw batter at once, or the <a href='https://amzn.to/3FAdvEl'>psyllium</a> will thicken too much.<br><br>
 
   You're looking for a raw texture similar to <a href='/misc/fruit#apple'>applesauce</a>.  Any more than a couple of minutes, and the raw batter will have a texture more similar to jelly
 
