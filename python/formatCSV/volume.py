@@ -15,6 +15,9 @@ def fix(vol):
         v = "Pinch"
     elif vol == "2 dash":
         v = "Large pinch"
+    elif vol == "0.03125 tsp":
+        # v = "1/32 tsp"
+        v = "Tiny pinch"
 
     # tsp
     elif vol == "0.0625 tsp":

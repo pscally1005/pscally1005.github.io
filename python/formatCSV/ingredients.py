@@ -194,6 +194,8 @@ def ingredients(food):
         f = "High Fiber Inulin Syrup"
     elif food == "Fruit juice drink, diet":
         f = "Fruit juice, sugar free"
+    elif food == "Lemonade, fruit juice drink":
+        f = "Lemonade, storebought"
     elif food == "Frostings, ready-to-eat, creamy, vanilla":
         f = "Frosting"
     elif food == "protein-frosting":

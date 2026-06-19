@@ -1,0 +1,72 @@
+---
+layout: post
+title:  Homemade Sugar Free Limeade
+date:   2026-06-18 00:00:00 -0500
+categories:
+- Recipes
+- Drinks
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: yes
+permalink: /recipes/limeade
+image: /assets/Food/Drinks/Limeade/cover.jpg
+file: limeade
+servingSize: 1 cup (240 g)
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 10
+Rest:
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/S2cBn
+tags:
+- limeade
+- lemonade
+- lemon juice
+- lime juice
+- monk fruit
+Description: Summer is winding down, but there's still enough time for some cool and refreshing drinks.  Today is a simple limeade made with fresh squeezed lime juice and liquid monk fruit.  This sugar free and low calorie refreshing treat is perfect for a hot summer day without spiking blood sugar.
+Instructions:
+- Shake together all ingredients in an airtight container. Refrigerate for up to 1 week
+Notes:
+- I'm making limeade today, but you can obviously make lemonade instead with lemon juice instead of lime juice
+
+- Fresh squeezed limes (or lemons) are recommended.  If you are to use bottled though, opt for a lime (or lemon) juice that is 100% juice not from concentrate
+
+- This limeade is sugar free, being sweetened with liquid monk fruit.  A standard limeade or lemonade sweetened with sugar would have 110 calories with 27 g of added sugar
+- |
+  COMPARE(
+    "limeade",
+    "lemonadestore";
+
+    "<a href='#recipe'>Homemade</a>",
+    "<a href='https://amzn.to/4enTf6c'>Storebought</a>";
+
+    "Calories",
+    "Net Carbs",
+    "Added Sugar",
+    "Glycemic Index"
+  )
+---

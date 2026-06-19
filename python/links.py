@@ -10,6 +10,16 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/limeade": [
+        "homemade sugar free limeade",
+        "homemade limeade",
+        "sugar free limeade",
+        "limeade",
+        "homemade sugar free lemonade",
+        "homemade lemonade",
+        "sugar free lemonade",
+        "lemonade"
+    ],
     "/recipes/fresh-mint-oat-bars": [
         "fresh mint oat bars",
         "fresh mint oat bar",
@@ -5184,6 +5194,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4a5ULZB": [
+        "standard lemonade",
+        "storebought lemonade",
+        "lemonade sweetened with sugar"
+    ],
+    "https://amzn.to/4enTf6c": [
+        "standard limeade",
+        "storebought limeade",
+        "limeade sweetened with sugar"
+    ],
     "https://amzn.to/4uJsVK5": [
         "storebought honey mustard dressing",
         "storebought honey mustard",
@@ -8516,7 +8536,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-20")):
+            if not file.startswith(("2026-09-01")):
                 continue
 
             # exclude some files

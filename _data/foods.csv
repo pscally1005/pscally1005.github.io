@@ -6,6 +6,7 @@ Ice,water,0.00,1.00,0.00000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Beer,beer,20.27,"4,258.58",0.00476,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Rum,rum,15.00,750.00,0.02000,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Fruit juice, sugar free",fruit-juice-sugar-free,3.74,"1,920.00",0.00195,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4dnIjFi
+"Lemonade, storebought",lemonadestore100g,1.69,"1,560.00",0.00108,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,11.3,0.0,0.0,0.0,0,0,https://amzn.to/4a5ULZB
 White cooking wine,white-wine,3.48,366.80,0.00949,15,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Aquafaba, or water",aquafaba,0.00,1.00,0.00000,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Aquafaba,aquafaba,0.86,255.00,0.00337,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
