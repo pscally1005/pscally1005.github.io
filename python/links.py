@@ -6579,8 +6579,8 @@ LINKS = {
     "/misc/fake-healthy-foods#juice": [
         "fruit juices",
         "fruit juice",
-        "juice",
-        "lemonade"
+        # "lemonade",
+        "juice"
     ],
     "/misc/fake-healthy-foods#oats": [
         "flavored instant oatmeal",
@@ -6662,6 +6662,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "juice that is",
+    "juice not from",
     "soda water",
     "chocolate baked oats",
     "baked oats",
