@@ -19,7 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
-protein_bar: no
+protein_bar: yes
 permalink: /recipes/protein-crumbles
 image: /assets/Food/Finger Food/Protein Crumble/protein-crumble.jpg
 file: crumble
