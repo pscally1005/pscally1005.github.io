@@ -60,12 +60,12 @@ tags:
 - barebell
 - quest
 - rx
-Description: This is a stupid idea I had the other day:<b></b> a protein bar, with no <a href='/misc/dairy#whey'>protein powder</a>.  I've been making a ton of <a href='/recipes/copycat-barebell'>Copycat Barebell Protein Bars</a> lately, and wanted to do something similar.  Instead, I'll be mixing together <a href='/misc/dairy#yogurt'>Greek yogurt</a> with <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> until I get a thick dough, chill it, and coat in chocolate. With no <a href='/misc/dairy#whey'>protein powder</a>, these bars still have 21 g of <a href='/misc/protein'>protein</a> in around 220 <a href='/misc/calories'>calories</a>, with no <a href='/misc/hidden-sugar'>added sugar</a> or <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>.
+Description: This is a stupid idea I had the other day:<b></b> a <a href='/protein-bar'>protein bar</a>, with no <a href='/misc/dairy#whey'>protein powder</a>.  I've been making a ton of <a href='/recipes/copycat-barebell'>Copycat Barebell Protein Bars</a> lately, and wanted to do something similar.  Instead, I'll be mixing together <a href='/misc/dairy#yogurt'>Greek yogurt</a> with <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> until I get a thick dough, chill it, and coat in chocolate. With no <a href='/misc/dairy#whey'>protein powder</a>, these bars still have 21 g of <a href='/misc/protein'>protein</a> in around 220 <a href='/misc/calories'>calories</a>, with no <a href='/misc/hidden-sugar'>added sugar</a> or <a href='/misc/fake-healthy-foods#sugar-substitutes'>artificial sweeteners</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together <a href='/misc/dairy#yogurt'>yogurt</a>, vanilla, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and salt. Add the <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a fully mixed dough
 - <img src='/assets/Food/Meme/No protein bar/bowl.jpg' alt='' class='instruction-image'>
 
-- Line a plate with parchment paper. Divide the dough in half (85 g each), and shape into 2 protein bars
+- Line a plate with parchment paper. Divide the dough in half (85 g each), and shape into 2 <a href='/protein-bar'>protein bars</a>
 - <img src='/assets/Food/Meme/No protein bar/no-choc.jpg' alt='' class='instruction-image'>
 
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 30 seconds to melt. Add in <a href='/misc/chocolate-benefits'>cocoa powder</a>, and stir with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until smooth. Evenly spread on top of the bars. The <a href='/misc/chocolate-benefits'>chocolate</a> won't look perfect or pretty, and that's okay. Paint the melted <a href='/misc/chocolate-benefits'>chocolate</a> over the top and the sides of the bars

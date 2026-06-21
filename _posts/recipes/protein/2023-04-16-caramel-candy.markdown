@@ -48,7 +48,6 @@ tags:
 - melted chocolate
 - chocolate
 - candy bar
-- protein bar
 - banana
 - chickpea
 - garbanzo bean

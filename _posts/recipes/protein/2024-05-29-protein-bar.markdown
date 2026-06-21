@@ -63,13 +63,13 @@ tags:
 - gluten free
 - almond extract
 Description: |
-  To me, a protein bar must meet 3 basic requirements
+  To me, a <a href='/protein-bar'>protein bar</a> must meet 3 basic requirements
   <ol>
     <li>At least 10g of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calories</a>, with <a href='/misc/protein'>protein</a> being the predominant <a href='/misc/nutrient-alphabet'>macro nutrient</a></li>
     <li>No <a href='/misc/hidden-sugar'>added sugar</a></li>
     <li>Can be taken on the go</li>
   </ol>
-  These protein bars meet all 3, as they clock in at just 100 <a href='/misc/calories'>calories</a> and have over 13g of <a href='/misc/protein'>protein</a>
+  These <a href='/protein-bar'>protein bars</a> meet all 3, as they clock in at just 100 <a href='/misc/calories'>calories</a> and have over 13g of <a href='/misc/protein'>protein</a>
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, and salt
 

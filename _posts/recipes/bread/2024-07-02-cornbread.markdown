@@ -18,7 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
-protein_bar: no
+protein_bar: yes
 permalink: /recipes/cornbread
 image: /assets/Food/Bread/Cornbread/cornbread-cover.jpg
 file: cornbread

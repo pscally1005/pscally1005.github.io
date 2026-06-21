@@ -53,7 +53,7 @@ tags:
 - liquid monk fruit
 - bootylicious muffins
 - unsweetened applesauce
-Description: A <a href='/misc/protein'>protein</a> mug cake a very quick and tasty way to make sure you're getting all your <a href='/misc/protein'>protein</a> in. With some <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and no <a href='/misc/hidden-sugar'>added sugar</a>, this healthy mug cake makes a great snack or <a href='/recipes/healthier-dessert'>dessert</a> that mixes it up from your typical <a href='/recipes/protein-shake'>protein shake</a> or <a href='/recipes/protein-bar'>protein bar</a>.
+Description: A <a href='/misc/protein'>protein</a> mug cake a very quick and tasty way to make sure you're getting all your <a href='/misc/protein'>protein</a> in. With some <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, and no <a href='/misc/hidden-sugar'>added sugar</a>, this healthy mug cake makes a great snack or <a href='/recipes/healthier-dessert'>dessert</a> that mixes it up from your typical <a href='/recipes/protein-shake'>protein shake</a> or <a href='/protein-bar'>protein bar</a>.
 Instructions:
 - Lightly grease a mug, and whisk together the dry ingredients. Add in the wet, and mix until fully combined. Use a spoon to scrape the sides to avoid any dry spots, and use a fork to whisk out the clumps
 - <img src='/assets/Food/Protein Powder/Mug Cake/raw.jpg' alt='' class='instruction-image'>
