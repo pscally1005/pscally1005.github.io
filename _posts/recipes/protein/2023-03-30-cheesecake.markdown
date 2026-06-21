@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: yes
 permalink: /recipes/cheesecake
 image: /assets/Food/Protein Powder/Cheesecake/cheesecake-cover.jpg
 file: cheesecake

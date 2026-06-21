@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/ground-thanksgiving
 image: /assets/Food/Meme/Thanksgiving/unmixed.jpg
 file: groundthanksgiving

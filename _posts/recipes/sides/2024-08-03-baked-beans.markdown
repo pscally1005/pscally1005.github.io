@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/baked-beans
 image: /assets/Food/Sides/Baked Beans/baked-beans.jpg
 file: bakedbeans

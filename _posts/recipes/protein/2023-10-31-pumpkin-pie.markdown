@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/pumpkin-pie
 image: /assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-cover.jpg
 file: pumpkinpie

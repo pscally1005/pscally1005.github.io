@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/white-bean-croutons
 image: /assets/Food/Finger Food/Croutons/croutons-cover.jpg
 file: croutons

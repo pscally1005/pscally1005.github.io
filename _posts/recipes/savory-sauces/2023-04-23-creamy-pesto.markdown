@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/creamy-pesto
 image: /assets/Food/Savory Sauces/Creamy Pesto/pesto-cover.jpg
 file: pesto

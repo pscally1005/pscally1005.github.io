@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/nice-cream-sandwiches
 image: /assets/Food/Protein Powder/Nice Cream/nice-cream-cover.jpg
 file: nicecreamsand

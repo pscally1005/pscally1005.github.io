@@ -17,6 +17,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/classic-fudge
 image: /assets/Misc/Unhealthy/Fudge/fudge-cover.jpg
 file: fudge

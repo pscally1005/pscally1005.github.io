@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/keto-fudge
 image: /assets/Food/Healthier Dessert/Keto Fudge/fudge-cover.jpg
 file: ketofudge

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/sloppy-joe
 image: /assets/Food/Ground Meat/Sloppy Joe/cover.jpg
 file: sloppyjoe

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/vegan-pasta-salad
 image: /assets/Food/Meatless/Vegan Pasta Salad/mixed.jpg
 file: veganpastasalad

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/vic-oats
 image: /assets/Food/Breakfast/Vic Oats/very-vic.jpg
 file: vic

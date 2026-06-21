@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/sweet-potato-bread
 image: /assets/Food/Bread/Sweet Potato/sweet-potato-cover.jpg
 file: sweetpotatobread

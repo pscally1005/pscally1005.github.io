@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/lazy-rainbow-cookies
 image: /assets/Food/Meme/Lazy rainbow/cover.jpg
 file: lazyrainbow

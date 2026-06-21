@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/peanut-butter-cookies
 image: /assets/Food/Healthier Dessert/PB Cookie/pb-cookie-cover.jpg
 file: pbcookie

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/butter-chicken
 image: /assets/Food/Chicken/Butter Chicken/cover.jpg
 file: butterchicken

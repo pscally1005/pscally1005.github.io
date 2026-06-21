@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/evoo-pesto
 image: /assets/Food/Savory Sauces/EVOO Pesto/sandwich.jpg
 file: evoo

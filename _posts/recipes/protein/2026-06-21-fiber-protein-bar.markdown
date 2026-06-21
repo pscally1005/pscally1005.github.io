@@ -18,13 +18,14 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: yes
 permalink: /recipes/fiber-protein-bar
 image: /assets/Food/Protein Powder/Fiber Protein Bar/cut.jpg
 file: fiberproteinbar
-servingSize: 1 bar
+servingSize: 1 bar (~94 g)
 section1: Bar
 start2: Cocoa powder
-section2: Cating
+section2: Coating
 start3:
 section3:
 start4:
@@ -50,7 +51,7 @@ tags:
 - protein bar
 - travel
 Description: |
-  Finding a protein bar with a lot of <a href='/misc/fiber'>fiber</a>, no <a href='/misc/hidden-sugar'>added sugar</a>, and that doesn't cost an arm and a leg is like finding a hay in the needle stack. Using my new homemade <a href='/recipes/inulin-syrup'>high fiber syrup</a> and some <a href='/misc/dairy#casein'>vanilla casein protein powder</a>, I made a <a href='/misc/high-protein'>high protein</a> and <a href='/misc/fiber'>fiber</a> dough perfect for 1 protein bar.<br><br>
+  Finding a protein bar with a lot of <a href='/misc/fiber'>fiber</a>, no <a href='/misc/hidden-sugar'>added sugar</a>, and that doesn't cost an arm and a leg is like <a href='https://youtu.be/WCheFdOy0tg?si=ZJE1DHuHTGMH5D-3'>finding a hay in the needle stack</a>. Using my new homemade <a href='/recipes/inulin-syrup'>high fiber syrup</a> and some <a href='/misc/dairy#casein'>vanilla casein protein powder</a>, I made a <a href='/misc/high-protein'>high protein</a> and <a href='/misc/fiber'>fiber</a> dough perfect for 1 protein bar.<br><br>
 
   For just 123 <a href='/misc/calories'>calories</a>, this protein bar has an astounding 25 g of <a href='/misc/protein'>protein</a> and 15 g of <a href='/misc/fiber'>fiber</a>. Pair this with some <a href='/misc/nuts'>nuts</a> for some <a href='/misc/fats'>healthy fats</a>, and you have the perfect filling snack!
 Instructions:

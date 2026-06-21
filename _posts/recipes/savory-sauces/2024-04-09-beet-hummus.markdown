@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/roasted-beet-hummus
 image: /assets/Food/Savory Sauces/Beet Hummus/cover.jpg
 file: beethummus

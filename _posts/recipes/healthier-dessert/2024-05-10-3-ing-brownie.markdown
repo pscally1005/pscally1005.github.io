@@ -18,6 +18,7 @@ brownie: yes
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/three-ingredient-brownies
 image: /assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-cover.jpg
 file: 3ingbrownie

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/truffles
 image: /assets/Food/Healthier Dessert/Truffle/truffle-cover.jpg
 file: truffle

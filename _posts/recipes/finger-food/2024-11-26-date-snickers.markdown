@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/date-snickers
 image: /assets/Food/Finger Food/Date Snickers/date-snickers.jpg
 file: datesnickers

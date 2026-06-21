@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: yes
 vic: yes
+protein_bar: no
 permalink: /recipes/electrolyte-powder
 image: /assets/Food/Drinks/LMNT/electrolyte.jpg
 file: lmntmalate

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/parmesan-broccoli
 image: /assets/Food/Sides/Parm Broccoli/cover.jpg
 file: parmbroccoli

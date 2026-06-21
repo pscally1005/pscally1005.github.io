@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/sweet-potato-pudding
 image: /assets/Food/Healthier Dessert/Pudding/cover.jpg
 file: swpotpudding

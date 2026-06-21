@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/oats-pumpkin
 image: /assets/Food/Breakfast/Oatmeal/oats-pumpkin.jpg
 file: oatspumpkin

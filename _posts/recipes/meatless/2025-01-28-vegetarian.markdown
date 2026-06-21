@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/vegetarian-meal
 image: /assets/Food/Meatless/Vegetarian/cover.jpg
 file: vegetarian

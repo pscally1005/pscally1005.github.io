@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: yes
 vic: no
+protein_bar: no
 permalink: /recipes/no-stir-peanut-butter
 image: /assets/Food/Meme/No Stir/no-stir.jpg
 file: nostir2

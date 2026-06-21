@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/tiramisu
 image: /assets/Food/Healthier Dessert/Tiramisu/tiramisu-cover.jpg
 file: tiramisu

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/chicken-piccata
 image: /assets/Food/Chicken/Piccata/cover2.jpg
 file: piccata

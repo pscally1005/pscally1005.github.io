@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/feta-pasta
 image: /assets/Food/Meatless/Feta pasta/separate.jpg
 file: fetapasta

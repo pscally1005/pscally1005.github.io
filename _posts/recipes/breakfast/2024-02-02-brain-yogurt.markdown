@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/brain-yogurt
 image: /assets/Food/Breakfast/Avocado Yogurt/avocado-yogurt.jpg
 file: avoyog

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/air-fried-falafel
 image: /assets/Food/Meatless/Falafel/falafel-cover.jpg
 file: falafel

@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/pecan-cream-cheese-cookies
 image: /assets/Food/Healthier Dessert/Pecan CC/cover-1.jpg
 file: pecancookieshealthy

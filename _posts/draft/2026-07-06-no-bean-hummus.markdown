@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/no-bean-hummus
 image: /assets/Food/Savory Sauces/No bean hummus/cover.jpg
 file: nobeanhummus

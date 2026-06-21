@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/pretzel
 image: /assets/Food/Bread/Pretzels/pretzel-cover.jpg
 file: pretzel

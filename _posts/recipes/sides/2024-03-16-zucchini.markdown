@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/zucchini-wedges
 image: /assets/Food/Sides/Zucchini/zucchini-cover.jpg
 file: zucchini

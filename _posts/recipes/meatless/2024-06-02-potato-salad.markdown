@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/mediterranean-potato-salad
 image: /assets/Food/Meatless/Potato Salad/potato-salad-cover.jpg
 file: potatosalad

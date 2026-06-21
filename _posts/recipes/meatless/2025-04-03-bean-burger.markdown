@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/black-bean-burger
 image: /assets/Food/Meatless/Bean Burger/cover.jpg
 file: beanburger

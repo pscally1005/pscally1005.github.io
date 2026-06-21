@@ -18,6 +18,7 @@ brownie: yes
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/sweet-potato-blondies
 image: /assets/Food/Healthier Dessert/Sw Pot Blondies/blondies-cover.jpg
 file: swpotblondie

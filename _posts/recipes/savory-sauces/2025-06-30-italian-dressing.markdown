@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/italian-dressing
 image: /assets/Food/Savory Sauces/Italian dressing/cover-1.jpg
 file: italiandressing

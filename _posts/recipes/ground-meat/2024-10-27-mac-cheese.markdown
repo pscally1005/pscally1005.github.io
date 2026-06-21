@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/mac-and-cheese
 image: /assets/Food/Ground Meat/M&C/m&c-cover.jpg
 file: mc

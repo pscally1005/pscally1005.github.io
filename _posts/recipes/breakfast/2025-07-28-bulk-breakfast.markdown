@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/bulking-breakfast
 image: /assets/Food/Breakfast/Bulk/cover-2.jpg
 file: bulkbreakfast

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/novernight-noats
 image: /assets/Food/Meme/Novernight Noats/cover.jpg
 file: novernightnoats

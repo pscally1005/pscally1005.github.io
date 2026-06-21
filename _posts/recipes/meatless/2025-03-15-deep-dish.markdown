@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/deep-dish-pizza
 image: /assets/Food/Meatless/Deep Dish/cover.jpg
 file: deepdish

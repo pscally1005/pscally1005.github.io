@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/sweet-potato-puree
 image: /assets/Food/Sweet Spreads/Sweet Potato/cover.jpg
 file: sweetpotato

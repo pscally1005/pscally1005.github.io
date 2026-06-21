@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/tofu-scramble
 image: /assets/Food/Meatless/Tofu Scramble/tofu-cover.jpg
 file: tofuscramble

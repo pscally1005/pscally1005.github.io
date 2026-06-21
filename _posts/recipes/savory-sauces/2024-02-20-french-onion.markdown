@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/french-onion-dip
 image: /assets/Food/Savory Sauces/French Onion/cover.jpg
 file: frenchonion

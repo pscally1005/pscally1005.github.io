@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/sugar-cookies
 image: /assets/Misc/Unhealthy/Sugar Cookies/cover.jpg
 file: sugarcookies

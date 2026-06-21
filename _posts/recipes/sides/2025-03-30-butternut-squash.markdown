@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/butternut-squash
 image: /assets/Food/Sides/Butternut squash/plate.jpg
 file: butternutsquash

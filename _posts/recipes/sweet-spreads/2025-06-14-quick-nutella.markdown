@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/quick-nutella
 image: /assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg
 file: quicknutella

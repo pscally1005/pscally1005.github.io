@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/popcorn
 image: /assets/Food/Finger Food/Popcorn/popcorn.jpg
 file: popcorn

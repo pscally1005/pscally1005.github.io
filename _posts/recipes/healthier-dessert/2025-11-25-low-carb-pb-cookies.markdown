@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/low-carb-pb-cookies
 image: /assets/Food/Healthier Dessert/Low Carb PB/in.jpg
 file: lowcarbpbcookies

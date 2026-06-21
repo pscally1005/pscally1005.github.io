@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/trail-mix-balls
 image: /assets/Food/Finger Food/Trail Mix Balls/trail-ball.jpg
 file: trailball

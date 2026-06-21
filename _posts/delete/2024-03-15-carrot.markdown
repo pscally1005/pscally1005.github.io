@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/carrot-spread
 image: /assets/Food/Sweet Spreads/Carrot/carrot-cover.jpg
 file: carrot

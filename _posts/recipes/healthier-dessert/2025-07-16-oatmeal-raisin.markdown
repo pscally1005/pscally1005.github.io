@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/oatmeal-raisin-cookies
 image: /assets/Food/Healthier Dessert/Oatmeal Raisin/cover.jpg
 file: oatmealraisin

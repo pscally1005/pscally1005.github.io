@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/taco
 image: /assets/Food/Ground Meat/Taco/taco-meat.jpg
 file: taco

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/omega-3-yogurt-bowl
 image: /assets/Food/Breakfast/Omega3 Yogurt/omega3-yogurt.jpg
 file: omega3yogurt

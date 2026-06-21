@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/aquafaba-ice-cream
 image: /assets/Food/Meme/Aquafaba Ice Cream/aquafaba-ice-cream.jpg
 file: aquafabaicecreammaplesyrup

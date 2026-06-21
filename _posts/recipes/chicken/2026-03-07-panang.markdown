@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/peanut-coconut-curry
 image: /assets/Food/Chicken/Peanut Coconut Curry/cover4.jpg
 file: panangffcpb2

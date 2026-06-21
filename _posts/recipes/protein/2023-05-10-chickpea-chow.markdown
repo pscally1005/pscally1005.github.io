@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/chickpea-chows
 image: /assets/Food/Protein Powder/Chickpea Chow/chow.jpg
 file: chow

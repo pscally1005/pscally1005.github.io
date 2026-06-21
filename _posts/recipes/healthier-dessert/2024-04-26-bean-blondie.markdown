@@ -18,6 +18,7 @@ brownie: yes
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/chickpea-date-blondies
 image: /assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-cover.jpg
 file: beanblondies

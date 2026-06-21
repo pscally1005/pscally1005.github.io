@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/apple-pie
 image: /assets/Food/Healthier Dessert/Apple Pie/apple-pie-cover.jpg
 file: applepie

@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/cubano-casserole
 image: /assets/Food/Chicken/Cubano/cover.jpg
 file: cubano

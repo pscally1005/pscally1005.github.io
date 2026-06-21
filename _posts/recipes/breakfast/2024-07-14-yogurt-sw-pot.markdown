@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/sweet-potato-yogurt
 image: /assets/Food/Breakfast/Sw Pot Yogurt/sw-pot-yogurt.jpg
 file: yogurtswpot

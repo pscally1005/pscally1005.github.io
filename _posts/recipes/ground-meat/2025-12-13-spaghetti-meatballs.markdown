@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/spaghetti-and-meatballs
 image: /assets/Food/Ground Meat/Spaghetti and Meatballs/cover.jpg
 file: meatballsspaghettisquash

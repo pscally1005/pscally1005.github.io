@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/wacky-cake
 image: /assets/Food/Meme/Wacky cake/cover.jpg
 file: wackycake

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/tuna-salad
 image: /assets/Food/Fish/Tuna Salad/tuna-salad.jpg
 file: tunasalad

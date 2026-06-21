@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/big-boi
 image: /assets/Food/Breakfast/Big Boi/big-boi.jpg
 file: bigboi

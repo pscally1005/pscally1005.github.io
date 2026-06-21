@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/high-fiber-jelly
 image: /assets/Food/Sweet Spreads/Psyllium Jelly/cover.jpg
 file: psylliumjelly

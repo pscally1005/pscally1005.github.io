@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/three-sisters
 image: /assets/Food/Meatless/3 Sisters/bowl.jpg
 file: 3sisters

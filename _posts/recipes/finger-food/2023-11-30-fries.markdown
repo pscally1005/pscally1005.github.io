@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/sweet-potato-fries
 image: /assets/Food/Finger Food/Fries/cover.jpg
 file: fries

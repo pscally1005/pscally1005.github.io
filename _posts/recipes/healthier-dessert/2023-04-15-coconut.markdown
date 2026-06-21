@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/coconut-macaroons
 image: /assets/Food/Healthier Dessert/Coconut/cover.jpg
 file: coconut
@@ -52,7 +53,7 @@ tags:
 - vic
 - gluten free
 - low carb
-Description: Coconut macaroons are such a simple <a href='/recipes/healthier-dessert'>healthy dessert</a>, and are great for all you <a href='/misc/nuts#coconut'>coconut</a> lovers out there. I personally don't like <a href='/misc/nuts#coconut'>coconut</a>, but even I admit these are hay in the needle stack.  To use up those extra <a href='/misc/meat#eggs'>yolks</a> though, check out my <a href='/recipes/hollandaise'>Greek Yogurt Hollandaise Sauce</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
+Description: Coconut macaroons are such a simple <a href='/recipes/healthier-dessert'>healthy dessert</a>, and are great for all you <a href='/misc/nuts#coconut'>coconut</a> lovers out there. I personally don't like <a href='/misc/nuts#coconut'>coconut</a>, but even I admit these are a <a href='https://youtu.be/WCheFdOy0tg?si=ZJE1DHuHTGMH5D-3'>hay in the needle stack</a>.  To use up those extra <a href='/misc/meat#eggs'>yolks</a> though, check out my <a href='/recipes/hollandaise'>Greek Yogurt Hollandaise Sauce</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - With a <a href='https://amzn.to/45yqsbM'>hand mixer</a>, beat together <a href='/misc/meat#egg-whites'>egg whites</a> until soft peaks in a <a href='https://amzn.to/4adxMft'>glass bowl</a>.  <a href='/misc/meat#egg-whites'>Carton egg white</a> will work as well.  66 g is about 4 tbsp + 1 tsp
 - <img src='/assets/Food/Healthier Dessert/Coconut/egg-whites.jpg' alt='' class='instruction-image'>

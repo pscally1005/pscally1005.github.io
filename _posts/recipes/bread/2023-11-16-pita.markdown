@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/pita
 image: /assets/Food/Bread/Pita/pita-cover.jpg
 file: pita

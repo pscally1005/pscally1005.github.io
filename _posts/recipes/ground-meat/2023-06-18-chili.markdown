@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/chili
 image: /assets/Food/Ground Meat/Chili/chili-cover.jpg
 file: chili

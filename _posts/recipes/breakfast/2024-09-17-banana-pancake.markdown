@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/banana-protein-pancakes
 image: /assets/Food/Breakfast/Banana Pancake/pancake-cover.jpg
 file: bananapancake

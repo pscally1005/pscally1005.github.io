@@ -18,6 +18,7 @@ brownie: yes
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/raspberry-brownies
 image: /assets/Food/Healthier Dessert/Raspberry Brownies/cover-2.jpg
 file: raspberrybrownies

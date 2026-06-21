@@ -17,6 +17,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Cookies/cookies.jpg
 file: cookies

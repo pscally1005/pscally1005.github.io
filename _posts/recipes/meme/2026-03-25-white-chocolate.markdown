@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/white-chocolate
 image: /assets/Food/Meme/White Chocolate/cover4.jpg
 file: whitechoc

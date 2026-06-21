@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/dried-cranberry
 image: /assets/Food/Finger Food/Cranberry/cranberry-cover.jpg
 file: cranberry

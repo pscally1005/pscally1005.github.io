@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/protein-cookie-dough-bowl
 image: /assets/Food/Protein Powder/Protein Cookie Dough Bowl/cover.jpg
 file: proteincookiedoughv2

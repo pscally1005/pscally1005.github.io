@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/banana-protein
 image: /assets/Food/Protein Powder/Banana Protein/banana-protein-cover.jpg
 file: bananaprotein

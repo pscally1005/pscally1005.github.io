@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/banana-bread-for-one
 image: /assets/Food/Breakfast/Breakfast Banana Bread/bite.jpg
 file: proteinbananabreadone

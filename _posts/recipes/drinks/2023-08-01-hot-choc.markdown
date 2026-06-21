@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/hot-chocolate
 image: /assets/Food/Drinks/Hot Chocolate/hot-choc.jpg
 file: hotchoc

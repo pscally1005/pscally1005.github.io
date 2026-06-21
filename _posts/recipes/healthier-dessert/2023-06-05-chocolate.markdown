@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/chocolate-bar
 image: /assets/Food/Healthier Dessert/Choc Bar/cover.jpg
 file: choc

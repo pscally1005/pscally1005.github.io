@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/cloud-bread
 image: /assets/Food/Bread/Cloud Bread/cloud-cover.jpg
 file: cloud

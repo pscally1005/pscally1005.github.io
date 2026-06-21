@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/chickpea-sandwich
 image: /assets/Food/Meatless/Chickpea Sandwich/chickpea-sand.jpg
 file: chickpeasand

@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/massive-salad
 image: /assets/Food/Fish/Massive Salad/massive-salad-cover.jpg
 file: massivesalad

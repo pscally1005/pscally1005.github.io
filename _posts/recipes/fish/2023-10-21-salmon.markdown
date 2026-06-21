@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/salmon-and-crunchy-salad
 image: /assets/Food/Fish/Salmon/salmon-cover.jpg
 file: salmon

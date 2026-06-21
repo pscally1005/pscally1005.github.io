@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/avocado-toast
 image: /assets/Food/Breakfast/Avocado Toast/toast.jpg
 file: toast

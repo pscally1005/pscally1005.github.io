@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/cauliflower-rice
 image: /assets/Food/Sides/Cauli Rice/cauli-rice-cover.jpg
 file: caulirice

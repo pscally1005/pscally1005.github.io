@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/tomato-spread
 image: /assets/Food/Savory Sauces/Tomato Spread/tomato-spread-cover.jpg
 file: tomatopastespread

@@ -17,6 +17,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/pretzel-nuggets
 image: /assets/Misc/Unhealthy/Pretzel Nuggets/cover-2.jpg
 file: pretzelnugg

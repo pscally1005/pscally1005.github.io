@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: yes
 permalink: /recipes/discard-whey-protein-bars
 image: /assets/Food/Protein Powder/Discard Whey Protein Bars/cover.jpg
 file: discardwheyproteinbar

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/pumpkin-muffins
 image: /assets/Food/Healthier Dessert/Pumpkin Muffin/cover.jpg
 file: pumpkinmuffins

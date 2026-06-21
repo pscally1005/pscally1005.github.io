@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/greek-yogurt-caesar-dressing
 image: /assets/Food/Savory Sauces/Caesar/caesar-cover.jpg
 file: caesar

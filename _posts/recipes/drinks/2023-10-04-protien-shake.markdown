@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/protein-shake
 image: /assets/Food/Drinks/Protein/cover.jpg
 file: proteinshake
@@ -47,7 +48,7 @@ tags:
 - unsweetened vanilla almond milk
 - unflavored protein powder
 - cocoa powder
-- protein bar
+- protein shake
 Description: I used to never be a fan of protein shakes, but upon switching to unflavored <a href='/misc/dairy#whey'>protein powder</a> I was able to customize them a lot more and avoid the gross <a href='/misc/fake-healthy-foods#sugar-substitutes'>sucralose</a> taste, in my opinion. I'll normally have this to add some extra <a href='/misc/protein'>protein</a> at a meal if I'm missing a <a href='/misc/protein'>protein</a> source, like a <a href='/recipes/meatless'>meatless</a> <a href='/salad'>salad</a>.
 Instructions:
 - Add all ingredients to a shaker bottle and shake

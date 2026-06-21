@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/cuccidati
 image: /assets/Food/Healthier Dessert/Cuccidati/cover.jpg
 file: cuccidati

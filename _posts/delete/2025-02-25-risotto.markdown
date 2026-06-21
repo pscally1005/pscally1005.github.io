@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/brown-rice-risotto
 image: /assets/Food/Sides/Risotto/cover.jpg
 file: risotto

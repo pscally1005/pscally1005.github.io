@@ -19,6 +19,7 @@ brownie: yes
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/two-ingredient-brownies
 image: /assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-cover.jpg
 file: 2ingbrowniehomemade

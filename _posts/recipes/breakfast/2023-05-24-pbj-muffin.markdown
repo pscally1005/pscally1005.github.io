@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/pbj-muffin
 image: /assets/Food/Breakfast/PBJ Muffin/pbj-muffin.jpg
 file: pbjmuffin

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: yes
 vic: no
+protein_bar: no
 permalink: /recipes/copycat-harvest-bowl
 image: /assets/Food/Chicken/Sweetgreen/cover.jpg
 file: sweetgreencopycat

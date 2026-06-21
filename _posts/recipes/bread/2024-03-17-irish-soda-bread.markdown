@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/irish-soda-bread
 image: /assets/Food/Bread/Irish/irish-cover.jpg
 file: irish

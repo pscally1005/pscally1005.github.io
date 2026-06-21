@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/manhattan-clam-chowder
 image: /assets/Food/Fish/M Clam Chowder/pot.jpg
 file: manhattan

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/cabbage-bread
 image: /assets/Food/Bread/Cabbage/cabbage-cover.jpg
 file: cabbagebread

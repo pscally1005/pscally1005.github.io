@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/penne-casserole
 image: /assets/Food/Ground Meat/Penne/penne-cover.jpg
 file: penne

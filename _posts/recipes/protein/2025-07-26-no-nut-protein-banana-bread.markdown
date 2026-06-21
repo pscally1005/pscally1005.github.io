@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/no-nut-protein-banana-bread
 image: /assets/Food/Protein Powder/No Nut Protein Banana Bread/back.jpg
 file: nonutproteinbananabread

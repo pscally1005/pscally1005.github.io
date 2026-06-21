@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/brain-boosting-bowl
 image: /assets/Food/Fish/Brain Bowl/brain-bowl.jpg
 file: brainbowl

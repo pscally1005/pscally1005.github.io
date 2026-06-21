@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/butternut-yogurt
 image: /assets/Food/Breakfast/Butternut yogurt/one.jpg
 file: butternutyogurt

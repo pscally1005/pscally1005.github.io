@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/kale
 image: /assets/Food/Meatless/Kale/kale.jpg
 file: kale

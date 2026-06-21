@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/roasted-garlic-hummus
 image: /assets/Food/Savory Sauces/Garlic Hummus/garlic-hummus.jpg
 file: garlichummus

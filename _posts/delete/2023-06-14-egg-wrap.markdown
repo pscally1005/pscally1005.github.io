@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/egg-wrap
 image: /assets/Food/Breakfast/Egg Wrap/egg-wrap-cover.jpg
 file: eggwrap

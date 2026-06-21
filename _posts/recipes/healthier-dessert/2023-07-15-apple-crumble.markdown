@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/apple-crumble
 image: /assets/Food/Healthier Dessert/Apple Crumble/apple-crumble-cover.jpg
 file: applecrumble

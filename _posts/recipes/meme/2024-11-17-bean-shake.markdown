@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/white-bean-milkshake
 image: /assets/Food/Meme/Milkshake/bean-shake.jpg
 file: beanicecream

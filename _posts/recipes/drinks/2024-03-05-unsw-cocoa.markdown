@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/unsweetened-hot-cocoa
 image: /assets/Food/Drinks/Unsw Cocoa/unsw-cocoa.jpg
 file: cocoa

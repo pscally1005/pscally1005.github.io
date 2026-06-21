@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/cashew-cream-cheese
 image: /assets/Food/Savory Sauces/Cashew Cream Cheese/bagel-cc.jpg
 file: cashewcreamcheese

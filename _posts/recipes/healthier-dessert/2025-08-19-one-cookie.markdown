@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/just-one-cookie
 image: /assets/Food/Healthier Dessert/One cookie/bite.jpg
 file: onecookie

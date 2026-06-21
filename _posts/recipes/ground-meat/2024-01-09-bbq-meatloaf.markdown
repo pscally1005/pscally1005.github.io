@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/bbq-meatloaf
 image: /assets/Food/Ground Meat/BBQ Meatloaf/cover.jpg
 file: bbqmeat

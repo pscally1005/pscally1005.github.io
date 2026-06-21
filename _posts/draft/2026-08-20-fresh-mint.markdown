@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/fresh-mint-oat-bars
 image: /assets/Food/Meme/Fresh Mint/cover.jpg
 file: freshmint

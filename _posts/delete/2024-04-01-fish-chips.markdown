@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/fish-and-chips
 image: /assets/Food/Fish/Fish Chips/fish-chips-cover.jpg
 file: fishchips

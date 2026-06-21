@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/buffalo-chicken
 image: /assets/Food/Chicken/Buffalo/buffalo-cover.jpg
 file: buffalochicken

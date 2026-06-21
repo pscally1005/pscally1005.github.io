@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/indian-chicken
 image: /assets/Food/Chicken/Indian/plate.jpg
 file: indiannew

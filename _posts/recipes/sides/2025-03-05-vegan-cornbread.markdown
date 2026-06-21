@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/vegan-cornbread
 image: /assets/Food/Sides/Vegan Cornbread/cover.jpg
 file: vegancornbread

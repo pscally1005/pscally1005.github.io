@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/pasta-sauce
 image: /assets/Food/Savory Sauces/Pasta Sauce/sauce.jpg
 file: sauce

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/eggplant-pizza
 image: /assets/Food/Sides/Eggplant Pizza/cover.jpg
 file: eggplantpizza

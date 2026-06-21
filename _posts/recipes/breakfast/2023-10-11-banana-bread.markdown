@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/banana-bread
 image: /assets/Food/Breakfast/Banana Bread/bb-cover.jpg
 file: bananabread

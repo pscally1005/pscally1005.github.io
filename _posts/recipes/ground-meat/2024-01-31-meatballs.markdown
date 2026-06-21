@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/meatballs
 image: /assets/Food/Ground Meat/Meatballs/meatballs-cover.jpg
 file: meatballs

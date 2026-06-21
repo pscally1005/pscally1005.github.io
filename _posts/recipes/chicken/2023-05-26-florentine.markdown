@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/chicken-florentine
 image: /assets/Food/Chicken/Florentine/cover.jpg
 file: florentine

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/inulin-syrup
 image: /assets/Food/Sweet Spreads/Inulin syrup/cover.jpg
 file: inulinsyrup

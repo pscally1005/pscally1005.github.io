@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/hot-honey
 image: /assets/Food/Savory Sauces/Hot Honey/hot-honey.jpg
 file: hothoney

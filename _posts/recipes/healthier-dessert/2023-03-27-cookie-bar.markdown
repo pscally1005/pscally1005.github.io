@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/cookie-bar
 image: /assets/Food/Healthier Dessert/Cookie Bar/cover.jpg
 file: cookiebar

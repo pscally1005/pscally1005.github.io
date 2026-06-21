@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/styrofoam-cookies
 image: /assets/Food/Meme/Styrofoam/cover-photo.jpg
 file: styrofoam

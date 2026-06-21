@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/egg-roll-bowl
 image: /assets/Food/Ground Meat/Egg Roll/egg-roll-cover.jpg
 file: eggroll

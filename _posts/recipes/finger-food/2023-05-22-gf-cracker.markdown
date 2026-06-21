@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/gf-crackers
 image: /assets/Food/Finger Food/GF Crackers/cover.jpg
 file: cracker

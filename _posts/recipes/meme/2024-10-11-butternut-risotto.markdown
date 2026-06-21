@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/butternut-squash-risotto
 image: /assets/Food/Meme/RisOATto/cover.jpg
 file: butternutrisotto

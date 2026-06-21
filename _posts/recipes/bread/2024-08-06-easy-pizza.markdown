@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/easy-pizza-dough
 image: /assets/Food/Bread/Easy Pizza/easy-pizza-cut.jpg
 file: easypizza

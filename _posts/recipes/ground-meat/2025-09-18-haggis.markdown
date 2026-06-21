@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/haggis
 image: /assets/Food/Ground Meat/Haggis/cover-1.jpg
 file: haggis

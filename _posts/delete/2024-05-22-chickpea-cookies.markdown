@@ -19,6 +19,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/chickpea-cookies
 image: /assets/Food/Healthier Dessert/Chickpea Cookies/chickpea-cookies.jpg
 file: chickpeacookies

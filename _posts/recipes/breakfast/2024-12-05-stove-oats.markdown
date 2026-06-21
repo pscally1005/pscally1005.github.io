@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/stovetop-oatmeal
 image: /assets/Food/Breakfast/Stovetop Oats/bowl.jpg
 file: stoveoats

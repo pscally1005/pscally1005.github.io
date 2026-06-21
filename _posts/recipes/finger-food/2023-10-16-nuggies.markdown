@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/chicken-nuggets
 image: /assets/Food/Finger Food/Nuggies/cover.jpg
 file: nuggies

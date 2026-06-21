@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/lemon-feta-bowl
 image: /assets/Food/Ground Meat/Lemon Feta/lemon-feta.jpg
 file: lemonfeta

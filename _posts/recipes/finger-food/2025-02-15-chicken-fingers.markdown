@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/chicken-fingers
 image: /assets/Food/Finger Food/Chicken Fingers/cover.jpg
 file: chickenfingers

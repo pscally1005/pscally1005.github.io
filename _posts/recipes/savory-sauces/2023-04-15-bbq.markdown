@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/bbq-sauce
 image: /assets/Food/Savory Sauces/BBQ/bbq-sauce-cover.jpg
 file: bbqnew

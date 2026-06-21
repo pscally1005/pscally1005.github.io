@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/spring-rolls
 image: /assets/Food/Finger Food/Spring Rolls/cover.jpg
 file: springrolls

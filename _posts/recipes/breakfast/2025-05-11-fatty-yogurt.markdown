@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/fatty-yogurt
 image: /assets/Food/Breakfast/Fatty Yogurt/cover.jpg
 file: fattyyogurt

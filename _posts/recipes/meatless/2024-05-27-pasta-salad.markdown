@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/mediterranean-pasta-salad
 image: /assets/Food/Meatless/Pasta Salad/pasta-salad-cover.jpg
 file: pastasalad

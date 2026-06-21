@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/carob-peanut-bars
 image: /assets/Food/Finger Food/Carob Peanut/cover.jpg
 file: carobpbbar

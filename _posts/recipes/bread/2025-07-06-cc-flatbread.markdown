@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/cottage-cheese-flatbread
 image: /assets/Food/Bread/CC flatbread/cover-4.jpg
 file: ccflatbreadwhitepsyllium

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/soy-sauce-chicken
 image: /assets/Food/Chicken/Soy Sauce/cover.jpg
 file: soysauce

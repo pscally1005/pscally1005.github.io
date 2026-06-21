@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/oat-wraps
 image: /assets/Food/Bread/Oat Wrap/oat-wrap.jpg
 file: oatwraps

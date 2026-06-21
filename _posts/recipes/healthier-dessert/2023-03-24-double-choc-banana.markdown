@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/double-chocolate-banana-bread
 image: /assets/Food/Healthier Dessert/Choc Bread/choc-bread-cover.jpg
 file: chocbread

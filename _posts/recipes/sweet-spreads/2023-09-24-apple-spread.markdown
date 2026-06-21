@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/apple-spread
 image: /assets/Food/Sweet Spreads/Apple Spread/cover.jpg
 file: applespread

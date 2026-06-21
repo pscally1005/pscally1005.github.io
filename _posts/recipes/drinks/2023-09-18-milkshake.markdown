@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/milkshake
 image: /assets/Food/Drinks/Milkshake/milkshake.jpg
 file: milkshake

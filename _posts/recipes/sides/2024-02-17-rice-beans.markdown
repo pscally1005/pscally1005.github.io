@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/rice-and-beans
 image: /assets/Food/Sides/Rice and Beans/rice-beans.jpg
 file: ricebeans

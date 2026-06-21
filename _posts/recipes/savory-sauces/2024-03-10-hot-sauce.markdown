@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/hot-sauce
 image: /assets/Food/Savory Sauces/Hot Sauce/hot-sauce-cover.jpg
 file: hotsauce

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/oatmeal-fudge-bars
 image: /assets/Food/Healthier Dessert/Oatmeal Fudge/of-cover.jpg
 file: oatmealfudge

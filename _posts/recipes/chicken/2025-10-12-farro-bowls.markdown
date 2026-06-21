@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/farro-bowls
 image: /assets/Food/Chicken/Farro Bowls/cover.jpg
 file: farrobowl

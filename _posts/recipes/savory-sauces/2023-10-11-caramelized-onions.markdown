@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/caramelized-onions
 image: /assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg
 file: onions

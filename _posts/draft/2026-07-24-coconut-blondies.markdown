@@ -19,6 +19,7 @@ brownie: yes
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/coconut-blondies
 image: /assets/Food/Healthier Dessert/Coconut Blondies/cover.jpg
 file: coconutblondies

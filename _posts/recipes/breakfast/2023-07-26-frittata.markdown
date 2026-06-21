@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/frittata
 image: /assets/Food/Breakfast/Frittata/frittata-cover.jpg
 file: frittata

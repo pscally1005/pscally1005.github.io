@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/vegan-mac-and-cheese
 image: /assets/Food/Meme/Mac & Cheese/fake-mac-cover.jpg
 file: fakemaccheese

@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/coconut-fudge
 image: /assets/Food/Healthier Dessert/Coconut Fudge/fudge.jpg
 file: coconutfudge

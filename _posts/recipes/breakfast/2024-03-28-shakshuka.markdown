@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/shakshuka
 image: /assets/Food/Breakfast/Shakshuka/shakshuka-cover.jpg
 file: shakshuka

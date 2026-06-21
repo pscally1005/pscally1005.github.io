@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/chocolate-cake
 image: /assets/Misc/Unhealthy/Cake/cut.jpg
 file: cake

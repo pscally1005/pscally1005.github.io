@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/nordic-nut-loaf
 image: /assets/Food/Bread/Nut Loaf/nut-loaf-cover.jpg
 file: nutloaf

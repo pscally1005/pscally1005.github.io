@@ -18,6 +18,7 @@ brownie: yes
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/keto-brownies
 image: /assets/Food/Healthier Dessert/Keto Brownie/cover.jpg
 file: ketobrownie

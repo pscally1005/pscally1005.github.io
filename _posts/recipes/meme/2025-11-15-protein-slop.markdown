@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/protein-slop
 image: /assets/Food/Meme/Protein Slop/cover.jpg
 file: proteinslop

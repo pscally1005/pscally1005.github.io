@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/greek-salad
 image: /assets/Food/Chicken/Greek Salad/cover.jpg
 file: greeksalad

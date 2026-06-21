@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/refried-beans
 image: /assets/Food/Sides/Refried/refried-cover.jpg
 file: refried

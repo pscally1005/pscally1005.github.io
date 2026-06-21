@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: yes
 vic: yes
+protein_bar: no
 permalink: /recipes/nojito
 image: /assets/Food/Drinks/Nojito/cover1.jpg
 file: nojito

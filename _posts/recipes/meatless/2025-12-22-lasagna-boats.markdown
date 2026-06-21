@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/lasagna-boats
 image: /assets/Food/Meatless/Lasagna Boats/cover.jpg
 file: lasagnaboatscashew

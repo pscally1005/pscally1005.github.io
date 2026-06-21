@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/roasted-vegetables
 image: /assets/Food/Sides/Roasted Veggie/cover.jpg
 file: veggies

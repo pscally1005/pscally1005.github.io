@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: yes
 vic: no
+protein_bar: yes
 permalink: /recipes/copycat-quest-bars
 image: /assets/Food/Protein Powder/Quest/cover.jpg
 file: quest

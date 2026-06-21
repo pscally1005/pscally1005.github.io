@@ -18,6 +18,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/edible-cookie-dough-protein
 image: /assets/Food/Protein Powder/Edible Cookie Dough Protein/cover.jpg
 file: ediblecookiedoughprotein

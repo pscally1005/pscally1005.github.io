@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/almond-flour-empanadas
 image: /assets/Food/Finger Food/Empanada/cover.jpg
 file: afempanadadough

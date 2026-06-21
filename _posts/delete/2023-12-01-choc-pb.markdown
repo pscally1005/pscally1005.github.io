@@ -19,6 +19,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/choc-pb
 image: /assets/Food/Sweet Spreads/Protein Nut Butters/flavored-pb-cover.jpg
 file: chocpb

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/poor-mans-ice-cream
 image: /assets/Food/Meme/Ice Cream/ice-cream-cover.jpg
 file: pooricecream

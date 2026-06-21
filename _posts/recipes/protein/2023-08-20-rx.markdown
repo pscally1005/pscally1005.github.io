@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: yes
 vic: yes
+protein_bar: yes
 permalink: /recipes/rx-bars
 image: /assets/Food/Protein Powder/RX/cover.jpg
 file: rxnew

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/peanut-butter-pie
 image: /assets/Food/Healthier Dessert/PB Pie/pb-pie-cover.jpg
 file: pbpienew

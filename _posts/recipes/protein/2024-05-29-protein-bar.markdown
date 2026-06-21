@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: yes
 permalink: /recipes/protein-bar
 image: /assets/Food/Protein Powder/Protein Bar/protein-bar.jpg
 file: proteinbar

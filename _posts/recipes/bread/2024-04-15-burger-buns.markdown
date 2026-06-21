@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/burger-buns
 image: /assets/Food/Bread/Burger Buns/buns-cover.jpg
 file: buns

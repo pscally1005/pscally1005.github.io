@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/higher-protein-scrambled-eggs
 image: /assets/Food/Breakfast/Higher Protein Eggs/higher-protein-eggs.jpg
 file: higherproteineggs

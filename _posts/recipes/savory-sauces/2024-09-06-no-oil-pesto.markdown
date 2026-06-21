@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/oil-free-basil-pesto
 image: /assets/Food/Savory Sauces/Basil Pesto/pesto-cover.jpg
 file: nooilpesto

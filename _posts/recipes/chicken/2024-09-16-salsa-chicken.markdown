@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/salsa-chicken
 image: /assets/Food/Chicken/Salsa Chicken/cover.jpg
 file: salsachicken

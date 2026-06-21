@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/chocolate-covered-garlic
 image: /assets/Food/Meme/Garlic/garlic.jpg
 file: garlic

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/veggie-ground
 image: /assets/Food/Meatless/Veggie Ground/vg-pot.jpg
 file: veggieground

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/white-chicken-chili
 image: /assets/Food/Chicken/White Chicken Chili/cover.jpg
 file: whitechickenchili

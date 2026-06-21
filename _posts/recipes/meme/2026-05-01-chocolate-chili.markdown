@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/chocolate-chili
 image: /assets/Food/Meme/Chocolate chili/cover.jpg
 file: chocolatechili

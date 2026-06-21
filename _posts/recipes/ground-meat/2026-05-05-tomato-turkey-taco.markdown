@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/tomato-turkey-tacos
 image: /assets/Food/Ground Meat/Tomato Turkey Taco/cover.jpg
 file: tomatoturkeytaco

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/yogurt-banana
 image: /assets/Food/Breakfast/Yogurt/yogurt-banana.jpg
 file: yogurtbanana

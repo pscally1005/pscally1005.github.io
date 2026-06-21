@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/cottage-cheese-rolls
 image: /assets/Food/Bread/CC rolls/open.jpg
 file: ccrolls

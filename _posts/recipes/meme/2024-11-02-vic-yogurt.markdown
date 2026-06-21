@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: yes
+protein_bar: no
 permalink: /recipes/vic-yogurt
 image: /assets/Food/Meme/Yogurt/cover.jpg
 file: vicyogurt

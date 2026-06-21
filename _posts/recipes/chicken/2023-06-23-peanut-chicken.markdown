@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/peanut-chicken
 image: /assets/Food/Chicken/Peanut/peanut-cover.jpg
 file: peanutchicken

@@ -19,6 +19,7 @@ brownie: no
 cookie: yes
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/syrup-cookies
 image: /assets/Food/Healthier Dessert/SF Syrup/sf-syrup-cover.jpg
 file: sfsyrup

@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/roasted-butternut-squash-puree
 image: /assets/Food/Sweet Spreads/Butternut/cover.jpg
 file: butternut

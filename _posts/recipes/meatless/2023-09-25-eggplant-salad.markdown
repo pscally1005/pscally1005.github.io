@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: no
 permalink: /recipes/eggplant-salad
 image: /assets/Food/Meatless/Eggplant Salad/eggplant-salad-cover.jpg
 file: eggplantsalad

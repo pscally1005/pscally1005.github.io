@@ -18,6 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
+protein_bar: yes
 permalink: /recipes/baked-protein-bars
 image: /assets/Food/Protein Powder/Baked Protein Bars/cover.jpg
 file: bakedproteinbarunflcasein
