@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  High Fiber Protein Bar
-date:   2026-05-13 00:00:00 -0500
+date:   2026-06-21 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
