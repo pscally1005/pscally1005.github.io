@@ -54,7 +54,7 @@ tags:
 - sugar free chocolate chips
 - almond butter
 - cashew butter
-Description: Instead of a <a href='/misc/protein'>protein</a> bar, why not a <a href='/misc/protein'>protein</a> <a href='/cookies'>cookie</a>?  For a twist on the classic <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/nuts'>nuts</a> flavor combination, these <a href='/cookies'>cookies</a> pack a punch of <a href='/misc/protein'>protein</a> while satisfying your sweet tooth.  For a similar <a href='/misc/protein'>protein</a> <a href='/cookies'>cookie</a> recipe, check out my <a href='/recipes/copycat-quest-cookie'>Copycat Quest Protein Cookie</a>.
+Description: Instead of a <a href='/protein-bar'>protein bar</a>, why not a <a href='/misc/protein'>protein</a> <a href='/cookies'>cookie</a>?  For a twist on the classic <a href='/misc/fruit#banana'>banana</a> and <a href='/misc/nuts'>nuts</a> flavor combination, these <a href='/cookies'>cookies</a> pack a punch of <a href='/misc/protein'>protein</a> while satisfying your sweet tooth.  For a similar <a href='/misc/protein'>protein</a> <a href='/cookies'>cookie</a> recipe, check out my <a href='/recipes/copycat-quest-cookie'>Copycat Quest Protein Cookie</a>.
 Instructions:
 - Preheat your oven to 350F, and line a baking sheet with parchment paper
 

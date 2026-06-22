@@ -54,7 +54,7 @@ tags:
 - low fat
 - high fiber
 - protein bar
-Description: Here's a great way to use up some extra <a href='/misc/meat#egg-whites'>liquid egg whites</a>. I've modified my <a href='/recipes/cloud-bread-loaf'>Cloud Bread Loaf</a> to make what's essentially a healthy chocolate angel food cake. This <a href='/recipes/healthier-dessert'>healthy dessert</a> is an accidental <a href='/misc/protein'>protein</a> bar without any <a href='/misc/dairy#whey'>protein powder</a>, as well as being low in <a href='/misc/carbs'>net carbs</a>, low in <a href='/misc/fats'>fat</a>, and high in <a href='/misc/fiber'>fiber</a>.
+Description: Here's a great way to use up some extra <a href='/misc/meat#egg-whites'>liquid egg whites</a>. I've modified my <a href='/recipes/cloud-bread-loaf'>Cloud Bread Loaf</a> to make what's essentially a healthy chocolate angel food cake. This <a href='/recipes/healthier-dessert'>healthy dessert</a> is an accidental <a href='/protein-bar'>protein bar</a> without any <a href='/misc/dairy#whey'>protein powder</a>, as well as being low in <a href='/misc/carbs'>net carbs</a>, low in <a href='/misc/fats'>fat</a>, and high in <a href='/misc/fiber'>fiber</a>.
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly spray with oil</a>
 

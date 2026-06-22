@@ -188,7 +188,7 @@ Notes:
         <li>Replace the <a href='/misc/dairy#whey'>whey</a> in the filling with 1 cup (96 g) <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a></li>
         <li>If your <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted, then double the salt in the filling to 1/2 tsp (3 g)</li>
         <li>Increase the water to 10 tbsp (150 g)</li>
-        <li>Replace the <a href='/misc/chocolate-benefits'>cocoa powder</a> in the coating with vanilla <a href='/misc/dairy#whey'>whey protein powder</a>.  You can also use chocolate for a milk chocolate peanut butter <a href='/misc/protein'>protein</a> bar</li>
+        <li>Replace the <a href='/misc/chocolate-benefits'>cocoa powder</a> in the coating with vanilla <a href='/misc/dairy#whey'>whey protein powder</a>.  You can also use chocolate for a milk chocolate peanut butter <a href='/protein-bar'>protein bar</a></li>
       </ul><br>
 
       <li><i><a href='/misc/dairy#casein'>Casein Protein Powder</a></i></li>
