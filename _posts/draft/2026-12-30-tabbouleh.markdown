@@ -23,7 +23,7 @@ protein_bar: no
 permalink: /recipes/tabbouleh
 image: /assets/Food/Sides/Tabbouleh/cover.jpg
 file: tabbouleh
-servingSize: ~167 g
+servingSize: ~1 cup (~167 g)
 section1: Cooked Bulgur
 start2: Lemon juice
 section2: Dressing
@@ -49,18 +49,18 @@ tags:
 - lemon juice
 - lebanese
 - corriander
-Description: Tabbouleh, also spelled as tabouli or tabouleh, Is a Lebanese salad side dish of fresh herbs and veggies, bulgur wheat, and a lemony dressing. This salad with some grains brings out all the best flavors of the raw herbs and veggies, and is the perfect light side dish on a warm summer night.
+Description: Tabbouleh, also spelled as tabouli or tabouleh, is a Lebanese <a href='/salad'>salad</a> <a href='/recipes/sides'>side dish</a> of fresh herbs and <a href='/misc/veggies'>veggies</a>, bulgur wheat, and a lemony <a href='/salad-dressings'>dressing</a>. This <a href='/salad'>salad</a> with some <a href='/misc/grains'>grains</a> brings out all the best flavors of the raw herbs and <a href='/misc/veggies'>veggies</a>, and is the perfect light <a href='/recipes/sides'>side dish</a> on a warm summer night.
 Instructions:
-- Add broth (or water) to a small pot. Cover and bring to a boil of high heat. When boiling, add in the bulgur, cover, and remove from the heat. Let sit for 15-30 minutes, or until the bulgur is tender and all water is absorbed. Remove the lid, and set aside to cool
+- Add <a href='/misc/bone-broth'>broth</a> (or water with a pinch of salt) to a small pot. Cover and bring to a boil over high heat. When boiling, add in the bulgur, cover, and remove from the heat. Let sit for 15-30 minutes, or until the bulgur is tender and all water is absorbed. Remove the lid, and set aside to cool
 - <img src='/assets/Food/Sides/Tabbouleh/bulgur.jpg' alt='' class='instruction-image'>
 
-- In a large bowl, whisk together the dressing ingredients - lemon juice, extra virgin olive oil, minced garlic, salt, pepper, coriander, and cinnamon
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dressing ingredients - <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, salt, black pepper, coriander, and cinnamon
 - <img src='/assets/Food/Sides/Tabbouleh/dressing.jpg' alt='' class='instruction-image'>
 
-- Finely chop the parsley and mint, and add to the bowl. Dice the cucumber, tomato, and scallions, and add to the bowl, and mix together
+- Finely chop the parsley and mint, and add to the bowl. Dice the <a href='/misc/veggies#cucumber'>cucumber</a>, <a href='/misc/veggies#tomato'>tomato</a>, and scallions, and add to the bowl, and mix together
 - <img src='/assets/Food/Sides/Tabbouleh/bowl.jpg' alt='' class='instruction-image'>
 
 - Chill until ready to serve. It's best to make this the day before to let the flavors come together
 Notes:
-- For a gluten free option, swap the bulgur for quinoa or brown rice
+- For a <a href='/misc/celiac'>gluten free</a> option, swap the bulgur for <a href='/misc/grains#quinoa'>quinoa</a> or <a href='/misc/grains#brown-rice'>brown rice</a>
 ---

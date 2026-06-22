@@ -10,6 +10,15 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/tabbouleh": [
+        "tabbouleh",
+        "tabouli",
+        "tabbouli",
+        "tabouleh",
+        "lebanese tabbouleh salad",
+        "lebanese tabbouleh",
+        "tabbouleh salad"
+    ],
     "/recipes/limeade": [
         "homemade sugar free limeade",
         "homemade limeade",
@@ -6666,6 +6675,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "bulgur wheat",
     "juice that is",
     "juice not from",
     "soda water",
@@ -8105,6 +8115,8 @@ EXCLUDED_PHRASES = [
     "salt and pepper",
     "pepper and salt",
     "salt, and pepper",
+    "salt, pepper",
+    "pepper, salt",
     "pepper, and salt",
     # "date syrup",
     # "date sugar",
@@ -8542,7 +8554,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-01")):
+            if not file.startswith(("2026-12-30")):
                 continue
 
             # exclude some files
