@@ -778,6 +778,13 @@ def vol_from_mass(food, mass, vol):
         elif mass == "720":
             v = "4 cup"
 
+    # Bulgur
+    elif food == "Bulgur":
+        if mass == "46":
+            v = "1/3 cup"
+        elif mass == "140":
+            v = "1 cup"
+
     # Cashew ricotta
     elif food == "Dairy Free Cashew Ricotta Cheese":
         if mass == "56":
@@ -1007,6 +1014,8 @@ def vol_from_mass(food, mass, vol):
             v = "208"
         elif mass == "150":
             v = "1/2 large"
+        elif mass == "300":
+            v = "1 large"
 
     # Sweet potatoes
     elif food == "Sweet potato":
@@ -1071,6 +1080,13 @@ def vol_from_mass(food, mass, vol):
         elif mass == "550":
             v = "5 medium"
 
+    # Scallions
+    elif food == "Scallion":
+        if mass == "25":
+            v = "1 large"
+        elif mass == "50":
+            v = "2 large"
+
     # Zucchini
     elif food == "Zucchini" or food == "Yellow squash":
         if mass == "60":
@@ -1133,7 +1149,7 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 medium"
         elif mass == "100":
             v = "1 medium"
-        elif mass == "200":
+        elif mass == "200" or mass == "180":
             v = "2 medium"
         elif mass == "300":
             v = "3 medium"
@@ -1671,10 +1687,14 @@ def vol_from_mass(food, mass, vol):
 
     # Cilantro
     elif food == "Cilantro, fresh" or food == "Mint, fresh" or food == "Parsley, fresh":
-        if mass == "10":
+        if mass == "5":
+            v = "1/3 cup"
+        elif mass == "10":
             v = "10 leaves"
         elif mass == "40":
             v = "2 1/2 cup"
+        elif mass == "180":
+            v = "1 bunch"
 
     return v
 

@@ -435,6 +435,8 @@ def ingredients(food):
         f = "Banana, overripe"
     elif food == "Onions, raw" or food == "Onions, raw, red" or food == "Onions, raw, yellow" or food == "Onions, raw, white":
         f = "Onion"
+    elif food == "Onions, raw, spring or scallions (includes tops and bulb)":
+        f = "Scallion"
     elif food == "Apples, with skin, gala, raw" or food == "Apples, with skin, raw":
         f = "Apple, gala"
     elif food == "Carrots, raw, baby":
@@ -696,6 +698,8 @@ def ingredients(food):
         f = "Pasta"
     elif food == "Couscous, dry":
         f = "Couscous"
+    elif food == "Bulgur, dry":
+        f = "Bulgur"
     elif food == "Panko, crispy breadcrumbs by George DeLallo Co., Inc.":
         f = "Panko breadcrumbs"
     elif food == "Tortilla, whole wheat":

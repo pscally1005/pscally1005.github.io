@@ -787,6 +787,13 @@ def grams(food, mass, vol):
         elif vol == "4 cup":
             m = "720"
 
+    # Bulgur
+    elif food == "Bulgur":
+        if vol == "1/3 cup":
+            m = "46"
+        elif vol == "1 cup":
+            m = "140"
+
     # Empanadas / pierogi
     elif food == "Empanada/Pierogi dough":
         if vol == "12 serving":
@@ -1158,6 +1165,8 @@ def grams(food, mass, vol):
             m = "208"
         elif vol == "0.5 cucumber" or vol == "1/2 cucumber" or vol == "1/2 large" or vol == "0.5 large":
             m = "150"
+        elif vol == "1 cucumber":
+            m = "300"
 
     # Sweet potatoes
     elif food == "Sweet potato":
@@ -1215,6 +1224,13 @@ def grams(food, mass, vol):
             m = "440"
         elif vol == "5 medium":
             m = "550"
+
+    # Scallions
+    elif food == "Scallion":
+        if vol == "1 large":
+            m = "25"
+        elif vol == "2 large":
+            m = "50"
 
     # Carrots
     elif food == "Carrots":
@@ -1971,10 +1987,14 @@ def grams(food, mass, vol):
 
     # Fresh herbs
     elif food == "Cilantro, fresh" or food == "Mint, fresh" or food == "Parsley, fresh":
-        if vol == "10 sprigs":
+        if vol == "1/3 cup":
+            m = "5"
+        elif vol == "10 sprigs":
             m = "10"
         elif vol == "2 1/2 cup":
             m = "40"
+        elif vol == "3 cup chopped" or vol == "1 bunch":
+            m = "180"
 
     return m
 
