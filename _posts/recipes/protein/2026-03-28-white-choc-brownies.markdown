@@ -43,12 +43,27 @@ Source5:
 whisk: https://s.samsungfood.com/iPlMf
 tags:
 - white chocolate chips
-- white chocolate bar
+- white chocolate
+- tangy white chocolate
+- sugar free white chocolate
+- no bake
+- no-bake
+- whey
+- carob
+- liquid monk fruit
 - brownies
 - protein powder
 - ganache
-- no bake
-Description: After making my <a href='/recipes/white-chocolate'>Tangy White Chocolate</a> with <a href='/misc/dairy#buttermilk'>buttermilk powder</a> and <a href='/misc/nuts#coconut'>coconut oil</a>, I wanted to put it to good use.  What I came up with were these no bake white chocolate protein brownies.  They feature a base of <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4rhYDwh'>carob powder</a>, <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='/misc/grains#oats'>oat flour</a>, and <a href='/misc/nuts#coconut'>coconut flour</a>, all topped with a ganache made out of the <a href='/recipes/white-chocolate'>homemade white chocolate</a>.  They're entirely <a href='/misc/hidden-sugar'>sugar free</a> - <a href='/brownies'>brownies</a> and ganache included, only featuring <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> as an external sweetener.  Each bar packs 10 g of <a href='/misc/protein'>protein</a>, along with 3 g of <a href='/misc/fiber'>fiber</a> and 6 g of <a href='/misc/fats'>fat</a>, making one or two of these a great pre or post workout snack.  For another no bake snack, check out my original <a href='/recipes/no-bake-brownies'>No Bake Protein Brownies</a>!
+- sugar free
+- gluten free
+Description: |
+  After making my <a href='/recipes/white-chocolate'>Tangy White Chocolate</a> with <a href='/misc/dairy#buttermilk'>buttermilk powder</a> and <a href='/misc/nuts#coconut'>coconut oil</a>, I wanted to put it to good use.  What I came up with were these no bake white chocolate protein brownies.<br><br>
+
+  They feature a base of <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4rhYDwh'>carob powder</a>, <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='/misc/grains#oats'>oat flour</a>, and <a href='/misc/nuts#coconut'>coconut flour</a>, all topped with a ganache made out of the <a href='/recipes/white-chocolate'>homemade white chocolate</a>.<br><br>
+
+  They're entirely <a href='/misc/hidden-sugar'>sugar free</a> - <a href='/brownies'>brownies</a> and ganache included, only featuring <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> as an external sweetener.  Each bar packs 10 g of <a href='/misc/protein'>protein</a>, along with 3 g of <a href='/misc/fiber'>fiber</a> and 6 g of <a href='/misc/fats'>fat</a>, making one or two of these a great pre or post workout snack.<br><br>
+
+  For another no bake snack, check out my original <a href='/recipes/no-bake-brownies'>No Bake Protein Brownies</a>!
 Instructions:
 - Line a pan with parchment paper. I'm using a <a href='https://amzn.to/4aiCsjh'>7x11"</a> pan here, but you can use a standard <a href='https://amzn.to/3YY2H9q'>9" square</a>
 

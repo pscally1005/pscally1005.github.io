@@ -54,13 +54,12 @@ tags:
 - buns
 - rolls
 - bbq sauce
-- barbeque sauce
 - ketchup
 - mustard
 - french fries
 Description: |
-  <a href='/misc/beans#black-beans'>Black bean</a> burgers are a common plant based hamburger option, with a good amount of <a href='/misc/protein'>protein</a>, <a href='/misc/fiber'>fiber</a>, and complex <a href='/misc/carbs'>carbs</a>. However; <a href='/misc/beans'>beans</a> are significantly lower in <a href='/misc/protein'>protein</a> than <a href='/misc/meat'>meat</a>, and it isn't a complete <a href='/misc/protein'>protein</a>. To solve this problem, I'm adding some unflavored <a href='/misc/dairy#whey'>whey</a> into the burger mix to closer mimic the nutritional information of a standard <a href='/misc/meat#ground-beef'>beef</a> patty
-  <br><br>
+  <a href='/misc/beans#black-beans'>Black bean</a> burgers are a common plant based hamburger option, with a good amount of <a href='/misc/protein'>protein</a>, <a href='/misc/fiber'>fiber</a>, and complex <a href='/misc/carbs'>carbs</a>. However; <a href='/misc/beans'>beans</a> are significantly lower in <a href='/misc/protein'>protein</a> than <a href='/misc/meat'>meat</a>, and it isn't a complete <a href='/misc/protein'>protein</a>. To solve this problem, I'm adding some unflavored <a href='/misc/dairy#whey'>whey</a> into the burger mix to closer mimic the nutritional information of a standard <a href='/misc/meat#ground-beef'>beef</a> patty.<br><br>
+
   For my burger, I'll be pairing these <a href='/misc/beans#black-beans'>black bean</a> patties with a <a href='/recipes/cottage-cheese-rolls'>Cottage Cheese Oat Roll</a>, and topping it with <a href='/recipes/roasted-onion'>Roasted Onions</a> and <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>.  But you can't have burgers without <a href='/misc/fake-healthy-foods#potatoes'>fries</a>, so make sure to check out my <a href='/recipes/waffle-fries'>Sweet Potato Waffle Fries</a> for a healthier twist on the classic combo!
 Instructions:
 - Preheat your oven to 400F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.  Drain and rinse your <a href='/misc/beans'>beans</a>, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Roughly mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a> or the back of a fork

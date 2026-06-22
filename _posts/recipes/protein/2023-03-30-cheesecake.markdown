@@ -54,7 +54,8 @@ tags:
 - cake
 - chocolate chip
 - powdered peanut butter
-Description: This <a href='/misc/nuts#peanuts'>peanut butter</a> cheesecake is a great <a href='/misc/celiac'>gluten free</a> and <a href='/misc/high-protein'>high protein</a> <a href='/recipes/healthier-dessert'>dessert</a> option. It as work as a <a href='/protein-bar'>protein bar</a> too, as it even has more than 10 of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calories</a>. Fold in some chocolate chips or serve with some <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/fruit#blueberries'>berries</a> to mix it up.
+- protein bar
+Description: This <a href='/misc/nuts#peanuts'>peanut butter</a> cheesecake is a great <a href='/misc/celiac'>gluten free</a> and <a href='/misc/high-protein'>high protein</a> <a href='/recipes/healthier-dessert'>dessert</a> option. It works as a <a href='/protein-bar'>protein bar</a> too, as it even has more than 10 of <a href='/misc/protein'>protein</a> per 100 <a href='/misc/calories'>calories</a>. Fold in some chocolate chips or serve with some <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/fruit#blueberries'>berries</a> to mix it up.
 Instructions:
 - Mix ingredients together in a bowl or <a href='https://amzn.to/4q0AUjI'>food processor</a> until smooth - whipped <a href='/misc/dairy#cottage-cheese'>fat free cottage cheese</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cornstarch, vanilla, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 

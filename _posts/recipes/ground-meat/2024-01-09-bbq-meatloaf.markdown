@@ -52,7 +52,6 @@ tags:
 - glaze
 - vegetable
 - casein
-- protein powder
 - breadcrumbs
 - oat flour
 - vic

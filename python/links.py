@@ -431,7 +431,10 @@ LINKS = {
         "sugar free white chocolate"
     ],
     "/recipes/chocolate-cloud-bars": [
-        "chocolate cloud bars"
+        "chocolate cloud bars",
+        "chocolate cloud protein bars",
+        "chocolate cloud bar",
+        "chocolate cloud protein bar"
     ],
     "/recipes/clif-bars": [
         "Copycat Peanut Butter Chocolate Clif Bars",

@@ -36,12 +36,12 @@ section5:
 Prep: 15
 Rest:
 Cook: 30
-Source1:
+Source1: https://www.loveandlemons.com/tabbouleh/#wprm-recipe-container-64986
 Source2:
 Source3:
 Source4:
 Source5:
-whisk: https://www.loveandlemons.com/tabbouleh/#wprm-recipe-container-64986
+whisk: https://s.samsungfood.com/JiJn9
 tags:
 - fresh mint
 - fresh parsley

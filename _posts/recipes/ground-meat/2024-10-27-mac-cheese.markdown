@@ -56,7 +56,6 @@ tags:
 - breadcrumbs
 - panko
 - bbq sauce
-- barbeque sauce
 - nutritional yeast
 - nooch
 Description: I bet you've never had a healthy mac and cheese before.  This dish is still cheesy and creamy while packing over 42 g of <a href='/misc/protein'>protein</a> in 500 <a href='/misc/calories'>calories</a> per serving.  You can add even more bulk by adding more <a href='/misc/veggies'>vegetables</a> like <a href='/misc/veggies#pepper'>peppers</a> or <a href='/misc/veggies#broccoli'>broccoli</a>, but I wanted to keep it more traditional here.  To elevate this, make it a BBQ Mac & Cheese with <a href='/recipes/ketchup'>Date Sweetened Ketchup</a> or <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>, or top it with breadcrumbs and broil the top until crispy!

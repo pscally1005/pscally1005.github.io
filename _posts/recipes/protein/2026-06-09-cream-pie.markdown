@@ -54,6 +54,7 @@ tags:
 - cinnamon
 - nutmeg
 - ginger
+- protein bar
 Description: |
   Why eat a <a href='/protein-bar'>protein bar</a> when you can have an oatmeal cream pie?  This delicious and <a href='/recipes/protein-powder'>high protein dessert</a> has 28 g of <a href='/misc/protein'>protein</a> in under 250 <a href='/misc/calories'>calories</a>, while also containing a good amount of <a href='/misc/fiber'>fiber</a> from the <a href='/misc/grains#oats'>oats</a> and <a href='/misc/fats'>healthy fats</a> from the <a href='/recipes/natural-peanut-butter'>nut butter</a>.<br><br>
 

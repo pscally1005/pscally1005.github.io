@@ -57,6 +57,7 @@ tags:
 - whey protein powder
 - sugar free chocolate chips
 - chocolate chips
+- protein bar
 Description: |
   Instead of a <a href='/misc/protein'>protein</a> bar, why not a <a href='/misc/protein'>protein</a> <a href='/cookies'>cookie</a>?  This recipe is a direct <a href='/copycat'>copycat</a> of the <a href='https://amzn.to/3YppdYq'>Quest Protein Cookies</a>, having the exact same macros for a fraction of the price and ingredients list.<br><br>
 
