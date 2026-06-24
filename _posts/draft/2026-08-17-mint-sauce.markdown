@@ -18,7 +18,7 @@ dressing: yes
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 protein_bar: no
 permalink: /recipes/mint-sauce
 image: /assets/Food/Savory Sauces/Mint Sauce/cover.jpg

@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Fiber Chocolate Milk
-date:   2026-06-05 00:00:00 -0500
+date:   2026-06-24 00:00:00 -0500
 categories:
 - Recipes
 - Drinks
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
