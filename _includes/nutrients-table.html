@@ -1,9 +1,16 @@
 {% assign nutrient = include.nutrient %}
 {% assign rnd = include.rnd %}
 {% assign categories = include.categories %}
-{% assign fetch_types = "perServing,per100g,per100cal" | split: "," %}
 
-<u><font size='+2'>Foods High In {{ nutrient }}</font></u><br><br>
+{% if nutrient == "Caffeine" %}
+    {% assign fetch_types = "perServing,perOunce" | split: "," %}
+{% else %}
+    {% assign fetch_types = "perServing,per100g,per100cal" | split: "," %}
+{% endif %}
+
+{% unless nutrient == "Caffeine" %}
+  <u><font size='+2'>Foods High In {{ nutrient }}</font></u><br><br>
+{% endunless %}
 
 <div class='mobile-table' style="font-size: 20px; text-align:center;">
 
@@ -43,18 +50,29 @@
             {% assign pic = "/assets/Misc/Nutrition/Nutrients/grocery-cart.png" %}
         {% endif %}
 
-        <div id="{{ category }}" class='table-of-contents-2'></div>
-        <i><font size='+2'>{{ title }}</font></i><br>
+        {% unless nutrient == "Caffeine" %}
+          <div id="{{ category }}" class='table-of-contents-2'></div>
+          <i><font size='+2'>{{ title }}</font></i><br>
+        {% endunless %}
 
         <div class="table-container">
           <table class="nutrition-table">
             <thead>
                 <tr class='header'>
-                <th>Food</th>
-                <th>Serving Size</th>
-                <th>{{ nutrient }}<br>Per Serving</th>
-                <th>{{ nutrient }}<br>Per 100 g</th>
-                <th>{{ nutrient }}<br>Per 100 cal</th>
+                  <th>Food</th>
+                  <th>Serving Size</th>
+
+                  <th>{{ nutrient }}<br>Per Serving</th>
+
+                  {% if nutrient == "Caffeine" %}
+                      <th>{{ nutrient }}<br>Per Oz</th>
+                  {% else %}
+                      <th>{{ nutrient }}<br>Per 100 g</th>
+                  {% endif %}
+
+                  {% unless nutrient == "Caffeine" %}
+                      <th>{{ nutrient }}<br>Per 100 cal</th>
+                  {% endunless %}
                 </tr>
             </thead>
 
@@ -91,10 +109,12 @@
           <i>Scroll right for more</i>
         </div>
 
-        <div class="image-row">
-          <img src='{{ pic }}' alt='' class='smaller-image'>
-        </div>
-        <hr>
+        {% unless nutrient == "Caffeine" %}
+          <div class="image-row">
+            <img src='{{ pic }}' alt='' class='smaller-image'>
+          </div>
+          <hr>
+        {% endunless %}
 
     {% endfor %}
 

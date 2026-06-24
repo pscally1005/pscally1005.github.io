@@ -18,19 +18,19 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 protein_bar: no
 permalink: /recipes/cubano-casserole
-image: /assets/Food/Chicken/Cubano/cover.jpg
+image: /assets/Food/Chicken/Cubano/cover2.jpg
 file: cubano
-servingSize:
+servingSize: ~2 cups (~270 g)
 section1: Step 1
-start2: Simple Shredded Chicken
+start2: Nonfat cottage cheese
 section2: Step 2
-start3: Swiss Cheese
+start3: Simple Shredded Chicken
 section3: Step 3
-start4:
-section4:
+start4: Swiss Cheese
+section4: Step 4
 start5:
 section5:
 Prep: 15
@@ -56,16 +56,25 @@ tags:
 - cast iron
 Description: All the flavors of a classic Cubano Sandwich, but without the <a href='/recipes/bread'>bread</a>. It's also lower in <a href='/misc/fats'>fat</a> due to <a href='/misc/fats'>leaner</a> <a href='/misc/meat#chicken-breast'>chicken</a> instead of <a href='/misc/fats'>fatty</a> pulled pork. The sauce features the classic <a href='/misc/dairy#swiss-cheese'>swiss cheese</a>, while still being creamy without <a href='/misc/fake-healthy-foods#dips'>mayo</a> or heavy cream. Topped with pickles and baked until golden, this <a href='/misc/carbs'>low carb</a>, <a href='/misc/fats'>low fat</a>, and <a href='/misc/high-protein'>high protein</a> Cuban sandwich alternative is sure to hit any cravings!
 Instructions:
-- Preheat your oven to 400F. Heat a <a href='https://amzn.to/465aAxx'>10" cast iron pan</a> on the stove over medium heat. Cut your <a href='/misc/meat#ham'>ham</a> into small cubes. When the pan is hot, add in the <a href='/misc/meat#ham'>ham</a>, and cook for 5-8 minutes, or until the outside is lightly browned
-- <img src='/assets/Food/Chicken/Cubano/stove.jpg' alt='' class='instruction-image'>
+- Preheat your oven to 400F. Heat a <a href='https://amzn.to/465aAxx'>10" cast iron pan</a> on the stove over medium heat. Cut your <a href='/misc/meat#ham'>ham</a> into small cubes. When the pan is hot, add in the <a href='/misc/meat#ham'>ham</a>, and cook for about 5 minutes, or until the outside is lightly browned
+- <img src='/assets/Food/Chicken/Cubano/ham.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine <a href='/misc/meat#ham'>ham</a>, <a href='/recipes/shredded-chicken'>cooked chicken</a>, (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, mustard, shredded <a href='/misc/dairy#swiss-cheese'>Swiss</a>, paprika, garlic powder, onion powder, and black pepper
+- Add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> to break up any large curds
+- <img src='/assets/Food/Chicken/Cubano/cottage-cheese.jpg' alt='' class='instruction-image'>
+
+- Add in the <a href='/misc/meat#ham'>ham</a>, <a href='/recipes/shredded-chicken'>cooked chicken</a>, mustard, <a href='/misc/dairy#swiss-cheese'>swiss</a>, paprika, garlic powder, onion powder, and black pepper.  Mix until fully combined
 - <img src='/assets/Food/Chicken/Cubano/bowl.jpg' alt='' class='instruction-image'>
 
 - Add your mixture to the <a href='https://amzn.to/465aAxx'>cast iron pan</a>. Top with the rest of your <a href='/misc/dairy#swiss-cheese'>swiss</a> and sliced pickles
-- <img src='/assets/Food/Chicken/Cubano/pre-bake.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Chicken/Cubano/pre-bake-1.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Chicken/Cubano/pre-bake-2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Chicken/Cubano/pre-bake-3.jpg' alt='' class='instruction-image'>
 
-- Cover with foil and bake at 400F for about 20 minutes, or until steamy and bubbly. Optionally broil the top for 1-2 minutes before serving
+- Cover with foil and bake at 400F for about 20 minutes, or until steamy and bubbly. Optionally broil the top for 1-2 minutes to further brown the cheese
 - <img src='/assets/Food/Chicken/Cubano/post-bake.jpg' alt='' class='instruction-image'>
+
+- Allow to cool for about 5 minutes before serving
+- <img src='/assets/Food/Chicken/Cubano/cover1.jpg' alt='' class='instruction-image'>
 Notes:
+- I was only able to find sliced <a href='/misc/dairy#swiss-cheese'>swiss</a> in my store instead of shredded.  I just tore the slices into small chunks for the inside and topping.  Each part gets 2 oz (56 g) of <a href='/misc/dairy#swiss-cheese'>cheese</a>, which is about 2 1/2 slices each in the bowl and on top, as my slices weigh about 23 g.
 ---

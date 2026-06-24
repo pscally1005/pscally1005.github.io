@@ -487,6 +487,9 @@
     {% if fetch == "per100cal" %}
         {% assign factor = 100.000 | divided_by: cal | round: 3 %}
     {% endif %}
+    {% if fetch == "perOunce" %}
+        {% assign factor = 28 | divided_by: 100.000 | round: 3 %}
+    {% endif %}
 
     <!-- Find the nutrient -->
     {% if nutrient == "Calories" %}
