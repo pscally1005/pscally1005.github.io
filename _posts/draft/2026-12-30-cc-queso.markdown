@@ -1,0 +1,65 @@
+---
+layout: post
+title:  High Protein Cottage Cheese Queso Dip
+date:   2026-06-27 00:00:00 -0500
+categories:
+- Recipes
+- Savory Sauces
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+permalink: /recipes/cottage-cheese-queso
+image: /assets/Food/Savory Sauces/CC Queso/cover.jpg
+file: queso
+servingSize: ~1/2 cup (~110 g)
+section1: Step 1
+start2: Diced green chiles
+section2: Step 2
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 3
+Rest:
+Cook: 2
+Source1: https://www.eatingbirdfood.com/cottage-cheese-queso/#wprm-recipe-container-146484
+Source2: https://thebalancednutritionist.com/cottage-cheese-queso/#wprm-recipe-container-4539
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/49ugz
+tags:
+- queso dip
+- cottage cheese
+- cheddar cheese
+- mexican cheese
+- diced green chiles
+- nachos
+- dip
+- sauce
+- diced green chiles
+Description: This cottage cheese queso dip will convert any cottage cheese haters without them even knowing it. It's a high protein sauce with cottage cheese, cheddar cheese, and taco seasonings that's a great sauce for nachos or dip for chips or veggies.  But don't just limit it to a dip; use the queso as a high protein salad dressing, use it as a Mac and cheese sauce, even make some cheesy beans?
+Instructions:
+- Combine cottage cheese, cheddar, minced garlic, chili powder, paprika, and cumin in a blender or food processor, until smooth
+- <img src='/assets/Food/Savory Sauces/CC Queso/processor.jpg' alt='' class='instruction-image'>
+
+- Transfer to a microwave safe bowl.  Mix a can of diced green chilies into the queso bowl
+
+- Cover with a plate, and microwave for about 1 1/2 - 2 minutes, stirring every 15 seconds, until warm and melty
+- <img src='/assets/Food/Savory Sauces/CC Queso/bowl.jpg' alt='' class='instruction-image'>
+Notes:
+---
