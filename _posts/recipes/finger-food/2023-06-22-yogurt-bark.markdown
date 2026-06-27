@@ -49,6 +49,7 @@ tags:
 - freezer
 - banana
 - chocolate chips
+- frozen yogurt bark
 Description: <a href='/misc/dairy#yogurt'>Yogurt</a> bark is a very simple snack you can keep in your freezer indefinitely and eat at any point. It's highly customizable too, just mix in different ingredients until you like the taste, and top with whatever you have on hand.
 Instructions:
 - Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper

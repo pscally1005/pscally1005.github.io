@@ -6,8 +6,9 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
     <div class='site-title'>
-      <a rel="author" href="{{ "/" | relative_url }}" style="text-decoration:none">
-        {{ site.title | escape }}
+      <a rel="author" href="{{ "/" | relative_url }}" style="text-decoration:none" class="site-title-link">
+        <img src="/assets/Logo/logo.png" alt="" class="logo-image-header">
+        <span>{{ site.title | escape }}</span>
       </a>
     </div>
 

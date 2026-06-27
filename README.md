@@ -1,4 +1,4 @@
-<img src='/assets/Logo/logo.png' alt='' class='instruction-image'><br>
+<!-- <img src='/assets/Logo/logo.png' alt='' class='logo-image'><br> -->
 
 <font size='+1'>
 
