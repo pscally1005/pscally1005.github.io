@@ -52,6 +52,10 @@ Description: <a href='/misc/beans'>Beans</a> and <a href='/misc/beans#chickpeas'
 Instructions:
 - Add all ingredients to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth
 Notes:
+- If you don't have <a href='/misc/seeds#sesame-seeds'>tahini</a>, replace it with 3 tbsp (45 g) of <a href='/misc/olive-oil'>olive oil</a>
+
+- Alternatively, if you want a slightly thicker <a href='/hummus'>hummus</a>, use 1 tbsp (13 g) of lemon pepper in place of salt, and omit the <a href='/misc/fruit#lemon-juice'>lemon juice</a>
+
 - You can also make no <a href='/misc/beans'>bean</a> dessert <a href='/hummus'>hummus</a> with <a href='/misc/veggies#zucchini'>zucchini</a> by blending together the following ingredients!
 - INGREDIENTS(nobeandesserthummus)
 - <img src='/assets/Food/Savory Sauces/No bean hummus/dessert-hummus.jpg' alt='' class='instruction-image'>

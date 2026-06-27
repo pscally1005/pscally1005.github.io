@@ -1227,10 +1227,8 @@ def grams(food, mass, vol):
 
     # Scallions
     elif food == "Scallion":
-        if vol == "1 large":
-            m = "25"
-        elif vol == "2 large":
-            m = "50"
+        if vol == "1 bunch" or vol == "2/3 cup":
+            m = "67"
 
     # Carrots
     elif food == "Carrots":

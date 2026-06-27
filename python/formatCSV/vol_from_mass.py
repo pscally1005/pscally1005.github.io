@@ -1082,10 +1082,8 @@ def vol_from_mass(food, mass, vol):
 
     # Scallions
     elif food == "Scallion":
-        if mass == "25":
-            v = "1 large"
-        elif mass == "50":
-            v = "2 large"
+        if mass == "66" or mass == "65" or mass == "67":
+            v = "1 bunch"
 
     # Zucchini
     elif food == "Zucchini" or food == "Yellow squash":
