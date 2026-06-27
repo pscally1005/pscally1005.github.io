@@ -5827,7 +5827,9 @@ LINKS = {
     "/misc/caffeine": [
         "caffeine",
         "coffee",
-        "caffeine: productivity tool or daily dependence?"
+        "caffeine: productivity tool or daily dependence?",
+        "tea",
+        "espresso"
     ],
     "/misc/costs": [
         "cost analysis"
@@ -6393,7 +6395,7 @@ LINKS = {
         "sweetened drink",
         "sweetened coffees",
         "sweetened coffee",
-        "coffees",
+        # "coffees",
         # "caffeine additions",
         # "caffeine adiction",
         # "caffeine addicts",

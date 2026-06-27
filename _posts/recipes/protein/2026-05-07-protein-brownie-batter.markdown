@@ -80,5 +80,5 @@ Notes:
     "Fiber"
   )
 
-- Note that using <a href='/misc/chocolate-benefits'>cocoa powder</a> instead of <a href='https://amzn.to/4rhYDwh'>carob</a> would not only probably be too bitter, but it would mean that each serving would contain 92 mg of caffeine (as compared to 0 mg with <a href='https://amzn.to/4rhYDwh'>carob</a>), which is roughly equal to the caffeine conent of a cup of coffee
+- Note that using <a href='/misc/chocolate-benefits'>cocoa powder</a> instead of <a href='https://amzn.to/4rhYDwh'>carob</a> would not only probably be too bitter, but it would mean that each serving would contain 92 mg of <a href='/misc/caffeine'>caffeine</a> (as compared to 0 mg with <a href='https://amzn.to/4rhYDwh'>carob</a>), which is roughly equal to the <a href='/misc/caffeine'>caffeine</a> conent of a cup of <a href='/misc/caffeine'>coffee</a>
 ---

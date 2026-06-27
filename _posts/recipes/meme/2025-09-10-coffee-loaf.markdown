@@ -59,19 +59,19 @@ tags:
 - sugar free
 - gluten free
 Description: |
-  Fun fact:<b></b> coffee cake doesn't have any coffee. It's named as such because it was served alongside coffee. On the other hand, this coffee loaf is a sweet quick bread with ground decaf coffee. I've taken the original recipe, and swapped out the unhealthy, empty <a href='/misc/calories'>calorie</a>, inflammatory <a href='/misc/hidden-sugar'>white sugar</a>, <a href='/misc/dairy#butter'>butter</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with more wholesome ingredients, like <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/fruit#apple'>unsweetened applesauce</a>, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
+  Fun fact:<b></b> Coffee cake doesn't have any coffee. It's named as such because it was served alongside <a href='/misc/caffeine'>coffee</a>. On the other hand, this <a href='/misc/caffeine'>coffee</a> loaf is a sweet quick bread with ground decaf <a href='/misc/caffeine'>coffee</a>. I've taken the original recipe, and swapped out the unhealthy, empty <a href='/misc/calories'>calorie</a>, inflammatory <a href='/misc/hidden-sugar'>white sugar</a>, <a href='/misc/dairy#butter'>butter</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with more wholesome ingredients, like <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/fruit#apple'>unsweetened applesauce</a>, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.<br><br>
 
-  This reduces the <a href='/misc/calories'>calories</a>, ups the <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> contents, lowers the <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carb</a> contents, and adds more crucial <a href='/misc/nutrient-alphabet'>vitamins and minerals</a>.  You can even make it <a href='/misc/celiac'>gluten free</a>; just check out the <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#notes'>below</a>.  A slice of this makes a great snack for any of you coffee lovers out there!
+  This reduces the <a href='/misc/calories'>calories</a>, ups the <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a> contents, lowers the <a href='/misc/fats'>fat</a> and <a href='/misc/carbs'>carb</a> contents, and adds more crucial <a href='/misc/nutrient-alphabet'>vitamins and minerals</a>.  You can even make it <a href='/misc/celiac'>gluten free</a>; just check out the <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#notes'>below</a>.  A slice of this makes a great snack for any of you <a href='/misc/caffeine'>coffee</a> lovers out there!
 Instructions:
 - Preheat your oven to 325F, and lightly grease a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with oil
 
-- Add water to a medium glass, and microwave for 1 minute, until hot. Mix in the coffee, and set aside
+- Add water to a medium glass, and microwave for 1 minute, until hot. Mix in the <a href='/misc/caffeine'>coffee</a>, and set aside
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the flour, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, cinnamon, and salt
 
 - In a separate bowl, add your <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and <a href='/misc/meat#eggs'>eggs</a>. Beat until smooth with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 
-- Add the coffee and the liquid ingredients into the dry. Mix until just fully combined. Don't over mix, or you could develop the gluten and get a chewy and tough cake (see <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#notes'>below</a>)
+- Add the <a href='/misc/caffeine'>coffee</a> and the liquid ingredients into the dry. Mix until just fully combined. Don't over mix, or you could develop the gluten and get a chewy and tough cake (see <a href='#notes'>notes</a> about a <a href='/misc/celiac'>gluten free</a> variation <a href='#notes'>below</a>)
 
 - Transfer the batter to your prepared pan, and smooth out the top
 - <img src='/assets/Food/Meme/Coffee Loaf/raw.jpg' alt='' class='instruction-image'>
@@ -81,11 +81,11 @@ Instructions:
 - Let the cake chill in the fridge for at least 1 hour before removing from the pan and cutting into 20 slices
 - <img src='/assets/Food/Meme/Coffee Loaf/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- You can eithe use <b>ground coffee</b> (<b>1/2 cup</b>, <b>40 g</b>), <b>instant espresso powder</b> (<b>4 tsp</b>, <b>8 g</b>) or <b>instant coffee</b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your coffee in 1/2 cup (120 g) of hot water for 5-10 minutes before adding to the batter
+- You can eithe use <b>ground <a href='/misc/caffeine'>coffee</a></b> (<b>1/2 cup</b>, <b>40 g</b>), <b>instant <a href='/misc/caffeine'>espresso</a> powder</b> (<b>4 tsp</b>, <b>8 g</b>) or <b>instant <a href='/misc/caffeine'>coffee</a></b> (<b>4 tsp</b>, <b>8 g</b>).  Either way, steep your <a href='/misc/caffeine'>coffee</a> in 1/2 cup (120 g) of hot water for 5-10 minutes before adding to the batter
 
-- I've tested the recipe both with decaf ground coffee and instant espresso powder</a>.  Ground coffee leads to a crumblier but stronger coffee tasting loaf, whereas the espresso powder holds its shape better with a very mild coffee flavor
+- I've tested the recipe both with decaf ground <a href='/misc/caffeine'>coffee</a> and instant <a href='/misc/caffeine'>espresso</a> powder</a>.  Ground <a href='/misc/caffeine'>coffee</a> leads to a crumblier but stronger <a href='/misc/caffeine'>coffee</a> tasting loaf, whereas the <a href='/misc/caffeine'>espresso</a> powder holds its shape better with a very mild <a href='/misc/caffeine'>coffee</a> flavor
 
-- For reference, a standard cup of coffee contains about <b>90 mg</b> of caffeine. A standard cup of black or green tea contains about <b>50 mg</b> of caffeine. Decaf coffee has about <b>2 mg</b>, and herbal tea has <b>0 mg</b>
+- For reference, a standard cup of <a href='/misc/caffeine'>coffee</a> contains about <b>90 mg</b> of <a href='/misc/caffeine'>caffeine</a>. A standard cup of black or green <a href='/misc/caffeine'>tea</a> contains about <b>50 mg</b> of <a href='/misc/caffeine'>caffeine</a>. Decaf <a href='/misc/caffeine'>coffee</a> has about <b>2 mg</b>, and herbal <a href='/misc/caffeine'>tea</a> has <b>0 mg</b>
 
 - |
   COMPARE(
