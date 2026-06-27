@@ -5824,6 +5824,11 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/caffeine": [
+        "caffeine",
+        "coffee",
+        "caffeine: productivity tool or daily dependence?"
+    ],
     "/misc/costs": [
         "cost analysis"
         # "costs",
@@ -6680,6 +6685,14 @@ EXCLUDED_PHRASES = [
     "certainly be baking",
     "bulgur wheat",
     "juice that is",
+    "coffee beans",
+    "coffee bean",
+    "cacao pods",
+    "cacao pod",
+    "kola nuts",
+    "kola nut",
+    "fat utilization",
+    "Black:",
     "juice not from",
     "soda water",
     "chocolate baked oats",
