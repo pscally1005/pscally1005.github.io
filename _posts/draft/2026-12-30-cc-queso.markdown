@@ -52,9 +52,9 @@ tags:
 - dip
 - sauce
 - diced green chiles
-Description: This cottage cheese queso dip will convert any cottage cheese haters without them even knowing it. It's a high protein sauce with cottage cheese, cheddar cheese, and taco seasonings that's a great sauce for nachos or dip for chips or veggies.  But don't just limit it to a dip; use the queso as a high protein salad dressing, use it as a Mac and cheese sauce, even make some cheesy beans?
+Description: This cottage cheese queso dip will convert any <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> haters without them even knowing it. It's a <a href='/misc/high-protein'>high protein</a> sauce with <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#cheddar'>cheddar cheese</a>, and taco seasonings that's a great sauce for nachos or dip for <a href='/misc/fake-healthy-foods#chips'>chips</a> or <a href='/misc/veggies'>veggies</a>.  But don't just limit it to a dip; use the queso as a <a href='/misc/high-protein'>high protein</a> <a href='/salad-dressings'>salad dressing</a>, use it as a Mac & Cheese sauce, even make some cheesy <a href='/misc/beans'>beans</a>?
 Instructions:
-- Combine cottage cheese, cheddar, minced garlic, chili powder, paprika, and cumin in a blender or food processor, until smooth
+- Combine <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#cheddar'>cheddar</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, chili powder, paprika, and cumin in a <a href='https://amzn.to/3SsDLn7'>blender</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>, until smooth
 - <img src='/assets/Food/Savory Sauces/CC Queso/processor.jpg' alt='' class='instruction-image'>
 
 - Transfer to a microwave safe bowl.  Mix a can of diced green chilies into the queso bowl

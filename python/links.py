@@ -322,7 +322,8 @@ LINKS = {
         "vanilla protein frosting",
         "chocolate protein frosting"
         "vanilla frosting",
-        "chocolate frosting"
+        "chocolate frosting",
+        "frosting"
     ],
     "/recipes/baklava": [
         "healthy baklava",
@@ -344,10 +345,10 @@ LINKS = {
         "white chicken chili"
     ],
     "/recipes/chocolate-cake": [
+        # "cake",
         "chocolate cake from scratch",
         "chocolate cake",
-        "homemade chocolate cake",
-        "cake"
+        "homemade chocolate cake"
     ],
     "/recipes/protein-brownie-batter": [
         "edible protein brownie batter",
@@ -2584,6 +2585,7 @@ LINKS = {
         "garlic paste"
     ],
     "/recipes/date-frosting": [
+        # "frosting",
         "date sweetened frosting",
         "sugar free frosting",
         "sugar-free frosting",
@@ -5513,6 +5515,10 @@ LINKS = {
         "immersion blender",
         "chopper"
     ],
+    "https://amzn.to/3SsDLn7": [
+        "large blender",
+        "blender"
+    ],
     "https://amzn.to/3FuWETp": [
         "air frying",
         "air fryers",
@@ -6706,6 +6712,12 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "have your cake",
+    "this cake",
+    "the cake",
+    "one cake",
+    "other cake",
+    "in the cake itself",
     "bulgur wheat",
     "juice that is",
     "coffee beans",
@@ -8593,7 +8605,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-05")):
+            if not file.startswith(("2026-12-30")):
                 continue
 
             # exclude some files
