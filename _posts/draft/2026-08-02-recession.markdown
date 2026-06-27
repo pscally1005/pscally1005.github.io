@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Recession Beans: A $1 Meal'
-date:   2026-06-05 00:00:00 -0500
+date:   2026-06-27 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes

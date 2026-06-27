@@ -25,22 +25,16 @@
   background-color: var(--minima-background-color);
   border-bottom: 3px solid var(--minima-brand-color);
   margin: 0 0 20px; /* Add margin at the bottom */
-  padding: 10px 0; /* Optional: keep padding for vertical spacing */
+  padding: 0px 0; /* Optional: keep padding for vertical spacing */
 }
 
 // Only set height on desktop
 @media (min-width: 768px) { /* Adjust this value as needed for your design */
   .recipe-title, .page-title {
     padding-bottom: 0;
+    height: auto;
   }
 
-  .page-title {
-    height: 68px;
-  }
-
-  .recipe-title {
-    height: 55px;
-  }
 }
 
 // Remove sticky on mobile
@@ -163,7 +157,7 @@
     color: var(--minima-link-base-color)
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 900px) {
     .page-link {
       border: 0;
 
@@ -176,7 +170,7 @@
 
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 900px) {
     position: static;
     float: right;
     border: none;
@@ -280,10 +274,10 @@
 
 
 // Page content
-.page-content {
-  padding: $spacing-unit 0;
-  flex: 1 0 auto;
-}
+// .page-content {
+//   padding: $spacing-unit 0;
+//   flex: 1 0 auto;
+// }
 
 .page-heading {
   @include relative-font-size(2);
@@ -539,38 +533,31 @@
 // Main post images
 // Keep 4:3 aspect ratio for post images
 .aspect-ratio-container {
-  position: relative; /* Position relative for absolute child */
-  width: 70%; /* Set to 70% of the parent container on desktop */
-  max-width: 100%; /* Ensure it doesn't exceed the width of the viewport */
-  margin: 0 auto; /* Center the container */
-  padding-top: 56.25%; /* 4:3 aspect ratio (height = 3/4 width) */
-  overflow: hidden; /* Hide overflow */
+  position: relative;
+  width: 760px;
+  margin: 24px auto 0;   /* <-- this is your “gap” */
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
 }
 
-// Featured image styling for individual posts
-.featured-image-post {
-  position: absolute; /* Position absolute to fill container */
-  top: 0; /* Align to top */
-  left: 0; /* Align to left */
-  object-fit: cover; /* Maintain aspect ratio and cover area */
-  display: block;
-  border-radius: 10px; /* Rounded corners */
-}
-
-// Image within the aspect ratio container
 .aspect-ratio-container img {
-  position: absolute; /* Position absolute to fill container */
-  top: 0; /* Align to top */
-  left: 0; /* Align to left */
-  object-fit: cover; /* Maintain aspect ratio and cover area */
-  border-radius: 10px; /* Rounded corners */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+
+.recipe-image {
+  margin: 0;
+  padding: 0;
 }
 
 // Mobile adjustments
 @media (max-width: 768px) {
   .aspect-ratio-container {
     width: 100%; /* Full width on mobile */
-    height: 75px;
+    // height: 75px;
   }
 }
 
@@ -651,6 +638,21 @@ img.instruction-image {
     align-items: center;
     gap: 8px;
     text-decoration: none;
+}
+
+// Remove logo in header bar at small sizes
+@media (max-width: 400px) {
+  .site-title-link img {
+    display: none;
+  }
+}
+
+// Remove title in header bar at very small sizes
+@media (max-width: 330px) {
+  .site-title-link img,
+  .site-title-link span {
+    display: none;
+  }
 }
 
 // Larger image for instructions
@@ -1017,9 +1019,10 @@ a.button {
 .recipe-title, .recipe-title a {
   display: block;
   color: var(--default-text-color);
-  font-size: 36px; /* Ensure you include the unit for font-size */
+  font-size: 40px; /* Ensure you include the unit for font-size */
   font-weight: bold; /* Make the text bold */
   text-align: center; /* Center the text */
+  // margin-top: 10px;
 }
 
 .recipe-title:hover a, .page-title:hover a {
