@@ -3,7 +3,7 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body class="layout-{{ page.layout }}">
 
     {%- include header.html -%}
 
@@ -17,15 +17,21 @@
 
     <script>
       document.addEventListener("DOMContentLoaded", function () {
-        document.querySelectorAll("a[href]").forEach(a => {
+
+        // ONLY run on post pages
+        const isPost = document.body.classList.contains("layout-post");
+        if (!isPost) return;
+
+        document.querySelectorAll(".page-content a[href]").forEach(a => {
           const href = a.getAttribute("href");
 
-          // keep same-tab for in-page anchors
+          // keep anchors same tab
           if (href && href.startsWith("#")) return;
 
           a.setAttribute("target", "_blank");
           a.setAttribute("rel", "noopener noreferrer");
         });
+
       });
     </script>
 

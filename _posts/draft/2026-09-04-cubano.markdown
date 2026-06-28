@@ -77,4 +77,7 @@ Instructions:
 - <img src='/assets/Food/Chicken/Cubano/cover1.jpg' alt='' class='instruction-image'>
 Notes:
 - I was only able to find sliced <a href='/misc/dairy#swiss-cheese'>swiss</a> in my store instead of shredded.  I just tore the slices into small chunks for the inside and topping.  Each part gets 2 oz (56 g) of <a href='/misc/dairy#swiss-cheese'>cheese</a>, which is about 2 1/2 slices each in the bowl and on top, as my slices weigh about 23 g.
+
+- For a <a href='/misc/carbs'>low carb</a> Cuban sandwich, serve this on a <a href='/recipes/psyllium-wrap'>High Fiber Psyllium Wrap</a>!
+- <img src='/assets/Food/Chicken/Cubano/cuban-wrap.jpg' alt='' class='instruction-image'>
 ---

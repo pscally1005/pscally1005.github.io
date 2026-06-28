@@ -4000,7 +4000,12 @@ LINKS = {
         "rice"
     ],
     "/misc/grains#buckwheat": [
-        "buckwheat"
+        "buckwheat",
+        "buck wheat"
+    ],
+    "/misc/grains#bulgur": [
+        "bulgur wheat",
+        "bulgur"
     ],
     "/misc/grains#corn": [
         "corn"
@@ -5227,6 +5232,14 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4aXnK21": [
+        "pea protein powder",
+        "pea protein isolate",
+        "pea protein",
+        "pea powder",
+        "vegan protein powder",
+        "vegan protein isolate"
+    ],
     "https://amzn.to/4a5ULZB": [
         "standard lemonade",
         "storebought lemonade",

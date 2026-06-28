@@ -176,6 +176,7 @@ grains,Amaranth,amaranth,1/4 cup,48,https://www.nutritionvalue.org/Amaranth_grai
 grains,Barley,barley,1/4 cup,50,https://www.nutritionvalue.org/Barley%2C_raw%2C_pearled_nutritional_value.html?size=100+g,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
 grains,Brown Rice,brown-rice,1/4 cup,46,https://www.nutritionvalue.org/Rice%2C_raw%2C_long-grain%2C_brown_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
 grains,Buckwheat,buckwheat,1/4 cup,43,https://www.nutritionvalue.org/Buckwheat_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+grains,Bulgur,bulgur,1/3 cup,48,https://www.nutritionvalue.org/Bulgur%2C_dry_nutritional_value.html?size=100%20g&utm_source=share-by-url,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
 grains,Corn,corn,3 oz,85,https://www.nutritionvalue.org/Corn%2C_raw%2C_yellow%2C_sweet_nutritional_value.html?size=100+g,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
 grains,Couscous,couscous,1/4 cup,56,https://www.nutritionvalue.org/Couscous%2C_dry_nutritional_value.html?size=100+g,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 grains,Farro,farro,1/4 cup,45,https://www.nutritionvalue.org/public_ingredient_69244.html?utm_source=share-by-url,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
