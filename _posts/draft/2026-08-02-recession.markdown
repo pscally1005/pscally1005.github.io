@@ -23,7 +23,7 @@ protein_bar: no
 permalink: /recipes/recession-beans
 image: /assets/Food/Meme/Recession/cover.jpg
 file: recession
-servingSize: TODO
+servingSize: ~500g
 section1: Beans
 start2: Cabbage
 section2: Cabbage
@@ -35,7 +35,7 @@ start5:
 section5:
 Prep: 15
 Rest: 480
-Cook: 480
+Cook: 960
 Source1:
 Source2:
 Source3:
@@ -71,27 +71,33 @@ Instructions:
 
   Add your 1 lb (454 g) <a href='/misc/beans'>dried beans</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a> with 5 cup (1,200 g) water and 1 tbsp (18 g) salt. Cover and refrigerate for 8 hours.<br><br>
 
-  Cut your <a href='/misc/veggies#cabbage'>cabbage</a> into a medium dice. Refrigerate so it's ready for the morning
+  Cut your <a href='/misc/veggies#cabbage'>cabbage</a> into a medium dice. Refrigerate so it's ready for the morning (step 3).
 
 - |
   <i>10 pm</i><br><br>
 
-  Drain the soaking liquid. Add the <a href='/misc/beans'>beans</a> to your <a href='https://amzn.to/49TUS9E'>slow cooker</a> with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours
+  Drain the soaking liquid. Add the <a href='/misc/beans'>beans</a> to your <a href='https://amzn.to/49TUS9E'>slow cooker</a> with 3 cups (720 g) water and 1 tsp (6 g) salt. Cover and cook on low for 8 hours.
 - <img src='/assets/Food/Meme/Recession/beans.jpg' alt='' class='instruction-image'>
 
 - |
   <i>6 am</i><br><br>
 
-  Add your <a href='/misc/veggies#cabbage'>cabbage</a>, <a href='/misc/veggies#tomato'>crushed tomatoes</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, and spices (chili powder, garlic powder, onion powder, and cumin) to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>. Mix to fully combine everything. Cover and cook on low for 8 hours
+  Add your <a href='/misc/veggies#cabbage'>cabbage</a>, <a href='/misc/veggies#tomato'>crushed tomatoes</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, and spices (chili powder, garlic powder, onion powder, and cumin) to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>. Mix to fully combine everything. Cover and cook on low for 8 hours.
+- <img src='/assets/Food/Meme/Recession/raw.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/Recession/cook.jpg' alt='' class='instruction-image'>
 
 - |
   <i>2 pm</i><br><br>
 
-  Remove from the heat, and finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Divide into 8 servings
-- <img src='/assets/Food/Meme/Recession/pot.jpg' alt='' class='instruction-image'>
+  Remove from the heat, and finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Divide into 8 servings, about 500 g each.
 - <img src='/assets/Food/Meme/Recession/servings.jpg' alt='' class='instruction-image'>
 Notes:
-- You can also use canned <a href='/misc/beans'>beans</a> instead of dried, but that takes the cost up to $10.44 total, or $1.30 per serving.  Just combine together 4 15.5 oz cans of <a href='/misc/beans'>beans</a> (not drained or rinsed) with all the raw ingredients, cover, and cook on low for 8 hours
+- |
+  I have a 7 qt <a href='https://amzn.to/49TUS9E'>slow cooker</a>, and it was an <i>extremely</i> tight squeeze to fit all 4 lb of raw <a href='/misc/veggies#cabbage'>cabbage</a> into the pot.  I found it easiest to mix it in using a combination of my hands wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> and a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Slowly mix for about 10 minutes, and you'll eventually have everything all combined.<br><br>
+
+  While it seems like an excess amount of <a href='/misc/veggies#cabbage'>cabbage</a> when raw, the <a href='/misc/veggies#cabbage'>cabbage</a> will cook down; see the before and after pictures in step 3.  Cooking will also release a ton of water from the <a href='/misc/veggies#cabbage'>cabbage</a>, turning this into a creamy <a href='/soups-and-stews'>stew</a> instead of the drier <a href='/misc/veggies#cabbage'>cabbage</a> <a href='/salad'>salad</a> it looks like when raw.
+
+- You can also use canned <a href='/misc/beans'>beans</a> instead of dried, but that takes the cost up to $10.44 total, or $1.30 per serving.  Just combine together 4 15.5 oz cans of <a href='/misc/beans'>beans</a> (not drained or rinsed) with all the raw ingredients, cover, and cook on low for 8 hours.
 - |
   COMPARE(
     "recession",
