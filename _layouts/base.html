@@ -15,6 +15,20 @@
 
     {%- include footer.html -%}
 
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll("a[href]").forEach(a => {
+          const href = a.getAttribute("href");
+
+          // keep same-tab for in-page anchors
+          if (href && href.startsWith("#")) return;
+
+          a.setAttribute("target", "_blank");
+          a.setAttribute("rel", "noopener noreferrer");
+        });
+      });
+    </script>
+
   </body>
 
 </html>
