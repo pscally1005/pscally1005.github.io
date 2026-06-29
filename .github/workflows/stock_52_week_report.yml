@@ -1,17 +1,16 @@
-# Sends the 52-week high/low stock email on weekdays (Mon–Fri), ~7 AM US Eastern.
+# Weekday stock report, target 7:00 AM US Eastern (handles EST/EDT).
 #
-# GitHub cron is UTC only and often runs LATE (30 min to several hours). We use a
-# single 11:00 UTC slot (7:00 AM EDT). Do not add a second cron or an "hour == 7"
-# gate — delayed jobs would skip sending entirely.
+# GitHub cron is UTC-only and often starts late. We schedule 11:00 + 12:00 UTC
+# (7 AM EDT and 7 AM EST) and send at most once per Eastern calendar day.
 #
 # Required secrets: SMTP_HOST, SMTP_USER, SMTP_PASSWORD
-# Subscribers: python/stocks/subscribers.json
 
 name: Daily 52-Week Stock Report
 
 on:
   schedule:
     - cron: "0 11 * * 1-5"
+    - cron: "0 12 * * 1-5"
   workflow_dispatch:
 
 concurrency:
@@ -22,21 +21,45 @@ jobs:
   send-report:
     runs-on: ubuntu-latest
     timeout-minutes: 45
-    defaults:
-      run:
-        working-directory: python/stocks
     steps:
-      - name: Log run time
-        if: github.event_name == 'schedule'
-        run: |
-          echo "Scheduled for 11:00 UTC (target ~7 AM US Eastern in EDT)."
-          echo "Actual UTC:   $(date -u '+%Y-%m-%d %H:%M %Z')"
-          echo "Actual Eastern: $(TZ=America/New_York date '+%Y-%m-%d %H:%M %Z')"
-
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Should send now?
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+            echo "Manual run — sending."
+            exit 0
+          fi
+
+          EASTERN_DATE=$(TZ=America/New_York date +%Y-%m-%d)
+          EASTERN_HOUR=$(TZ=America/New_York date +%H)
+          echo "eastern_date=$EASTERN_DATE" >> "$GITHUB_OUTPUT"
+          echo "Eastern now: $(TZ=America/New_York date '+%Y-%m-%d %H:%M %Z')"
+
+          # Allow 7–10 AM Eastern so delayed GitHub runners still send once.
+          if [ "$EASTERN_HOUR" -lt 7 ] || [ "$EASTERN_HOUR" -gt 10 ]; then
+            echo "send=false" >> "$GITHUB_OUTPUT"
+            echo "Outside send window (hour $EASTERN_HOUR Eastern)."
+            exit 0
+          fi
+
+          echo "send=true" >> "$GITHUB_OUTPUT"
+
+      - name: Skip if already sent today
+        id: cache
+        if: steps.gate.outputs.send == 'true' && github.event_name == 'schedule'
+        uses: actions/cache@v4
+        with:
+          path: /tmp/stock-report-sent
+          key: stock-report-${{ steps.gate.outputs.eastern_date }}
+
       - name: Set up Python
+        if: >-
+          steps.gate.outputs.send == 'true' &&
+          (github.event_name == 'workflow_dispatch' || steps.cache.outputs.cache-hit != 'true')
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -44,9 +67,17 @@ jobs:
           cache-dependency-path: python/stocks/requirements.txt
 
       - name: Install dependencies
+        if: >-
+          steps.gate.outputs.send == 'true' &&
+          (github.event_name == 'workflow_dispatch' || steps.cache.outputs.cache-hit != 'true')
+        working-directory: python/stocks
         run: pip install -r requirements.txt
 
       - name: Send report
+        if: >-
+          steps.gate.outputs.send == 'true' &&
+          (github.event_name == 'workflow_dispatch' || steps.cache.outputs.cache-hit != 'true')
+        working-directory: python/stocks
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
@@ -56,3 +87,10 @@ jobs:
           TOLERANCE_PCT: ${{ secrets.TOLERANCE_PCT }}
           UNSUBSCRIBE_BASE_URL: https://www.poormanprotein.com/misc/stocks/unsubscribe
         run: python daily_52_week_report.py
+
+      - name: Mark sent today
+        if: >-
+          success() &&
+          steps.gate.outputs.send == 'true' &&
+          github.event_name == 'schedule'
+        run: mkdir -p /tmp/stock-report-sent && touch /tmp/stock-report-sent/done
