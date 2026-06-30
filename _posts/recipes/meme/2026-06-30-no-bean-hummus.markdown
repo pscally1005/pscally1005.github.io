@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  No Bean Hummus
-date:   2026-04-01 00:00:00 -0500
+date:   2026-06-30 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: yes
 oatmeal: no

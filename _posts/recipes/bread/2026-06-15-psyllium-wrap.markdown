@@ -51,13 +51,13 @@ tags:
 - psyllium husk
 - flatbread
 - carb balance
-Description: Do you know those <a href='https://amzn.to/4wdSyoe'>carb balance wraps</a>?  The ones that are low in <a href='/misc/calories'>calories</a> with a ton of <a href='/misc/fiber'>fiber</a>?  Well this is my homemade version of them. It's a crepe batter made from <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> that's extremely <a href='/misc/calories'>low calorie</a> and <a href='/misc/fiber'>high fiber</a>. This recipe makes 1 medium sized tortilla or crepe that contains an astounding 7 g of <a href='/misc/fiber'>fiber</a> in a measly 11 <a href='/misc/calories'>calories</a>.
+Description: Do you know those <a href='https://amzn.to/4wdSyoe'>carb balance wraps</a>?  The ones that are low in <a href='/misc/calories'>calories</a> with a ton of <a href='/misc/fiber'>fiber</a>?  Well this is my homemade version of them. It's a crepe batter made from <a href='https://amzn.to/4vLldRa'>psyllium husk</a> that's extremely <a href='/misc/calories'>low calorie</a> and <a href='/misc/fiber'>high fiber</a>. This recipe makes 1 medium sized tortilla or crepe that contains an astounding 7 g of <a href='/misc/fiber'>fiber</a> in a measly 11 <a href='/misc/calories'>calories</a>.
 Instructions:
 - Preheat a <a href='https://amzn.to/4dBv5Ga'>10" nonstick pan</a> over medium heat with a tiny <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, whisk together <a href='https://amzn.to/3FAdvEl'>psyllium husk</a>, salt, and baking powder. Optionally add some garlic powder and onion powder (1/2 tsp, 1.5 g, each)
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, whisk together <a href='https://amzn.to/4vLldRa'>psyllium husk</a>, salt, and baking powder. Optionally add some garlic powder and onion powder (1/2 tsp, 1.5 g, each)
 
-- Pour in the water and whisk together. Wait 60-90 seconds for the <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> to begin to gel and have a texture similar to <a href='/misc/fruit#apple'>applesauce</a>
+- Pour in the water and whisk together. Wait 60-90 seconds for the <a href='https://amzn.to/4vLldRa'>psyllium husk</a> to begin to gel and have a texture similar to <a href='/misc/fruit#apple'>applesauce</a>
 
 - Pour your batter into the pan, and tilt the pan to spread the batter into a 10" circle
 - <img src='/assets/Food/Bread/Psyllium wrap/raw.jpg' alt='' class='instruction-image'>
@@ -75,7 +75,7 @@ Notes:
 - |
   This recipe makes one high fiber wrap. You can meal prep multiple of these and store in the freezer for later use.<br><br>
 
-  However, if you're going to make multiple at once, make them each one at a time.  Don't mix together multiple wraps worth of raw batter at once, or the <a href='https://amzn.to/3FAdvEl'>psyllium</a> will thicken too much.<br><br>
+  However, if you're going to make multiple at once, make them each one at a time.  Don't mix together multiple wraps worth of raw batter at once, or the <a href='https://amzn.to/4vLldRa'>psyllium</a> will thicken too much.<br><br>
 
   You're looking for a raw texture similar to <a href='/misc/fruit#apple'>applesauce</a>.  Any more than a couple of minutes, and the raw batter will have a texture more similar to jelly
 

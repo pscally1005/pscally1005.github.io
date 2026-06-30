@@ -56,7 +56,7 @@ tags:
 - cocoa powder
 - oatmeal
 - overnight oats
-Description: After the success of my <a href='/recipes/novernight-noats'>No-vernight No-ats</a>, <a href='/vic'>Vic</a> asked me to make her a version.  I've modified her original <a href='/recipes/vic-oats'>Very Vic</a> <a href='/oatmeal'>overnight oats recipe</a> to use <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> instead of <a href='/misc/grains#oats'>oats</a> and <a href='/misc/seeds#flax-seeds'>flax</a>.  The result is a similarly thick <a href='/recipes/breakfast'>breakfast</a> bowl with more <a href='/misc/fiber'>fiber</a>, less <a href='/misc/carbs'>carbs</a>, and less <a href='/misc/calories'>calories</a>.
+Description: After the success of my <a href='/recipes/novernight-noats'>No-vernight No-ats</a>, <a href='/vic'>Vic</a> asked me to make her a version.  I've modified her original <a href='/recipes/vic-oats'>Very Vic</a> <a href='/oatmeal'>overnight oats recipe</a> to use <a href='https://amzn.to/4vLldRa'>psyllium husk</a> instead of <a href='/misc/grains#oats'>oats</a> and <a href='/misc/seeds#flax-seeds'>flax</a>.  The result is a similarly thick <a href='/recipes/breakfast'>breakfast</a> bowl with more <a href='/misc/fiber'>fiber</a>, less <a href='/misc/carbs'>carbs</a>, and less <a href='/misc/calories'>calories</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a spoon. Add in the rest of the ingredients, and stir until fully combined with a spoon
 

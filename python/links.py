@@ -5320,11 +5320,11 @@ LINKS = {
         "kettle and fire",
         "kettle & fire"
     ],
-    "https://amzn.to/3FAdvEl": [
-        "psyllium husks",
-        "psyllium husk",
-        "psyllium"
-    ],
+    # "https://amzn.to/4vLldRa": [
+    #     "psyllium husks",
+    #     "psyllium husk",
+    #     "psyllium"
+    # ],
     "https://amzn.to/4dGuPpJ": [
         "rice paper",
         "rice paper wrap"
@@ -5864,6 +5864,13 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/psyllium-husk": [
+        "psyllium husks",
+        "psyllium husk",
+        "psyllium",
+        "psyllium husk fiber",
+        "psyllium fiber"
+    ],
     "/misc/caffeine": [
         "caffeine",
         "coffee",

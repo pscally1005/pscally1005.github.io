@@ -61,7 +61,7 @@ tags:
 Description: |
   <a href='/oatmeal'>Overnight oats</a>. Except it's not overnight. And it's not <a href='/misc/grains#oats'>oats</a>. Wait, what am I making again?<br><br>
 
-  These "No-vernight No-ats" only need about 10 minutes of soaking time, and don't have any <a href='/oatmeal'>oatmeal</a>. Instead, the magic comes from <a href='https://amzn.to/3FAdvEl'>psyllium husk</a>, a <a href='/misc/fiber'>high fiber</a> powder that's virtually <a href='/misc/calories'>calorie</a> free. Its thickening power puts even <a href='/misc/seeds#chia-seeds'>chia seeds</a> to shame.<br><br>
+  These "No-vernight No-ats" only need about 10 minutes of soaking time, and don't have any <a href='/oatmeal'>oatmeal</a>. Instead, the magic comes from <a href='https://amzn.to/4vLldRa'>psyllium husk</a>, a <a href='/misc/fiber'>high fiber</a> powder that's virtually <a href='/misc/calories'>calorie</a> free. Its thickening power puts even <a href='/misc/seeds#chia-seeds'>chia seeds</a> to shame.<br><br>
 
   Plus, with less <a href='/misc/carbs'>carbs</a>/<a href='/misc/calories'>calories</a> due to the lack of <a href='/misc/grains#oats'>oats</a>, that let's you fill this with more goodies; namely extra <a href='/recipes/natural-peanut-butter'>nut butter</a> and a <a href='/misc/fruit#banana'>banana</a>.<br><br>
 
@@ -72,7 +72,7 @@ Notes:
 - It even passes the flip test!
 - <img src='/assets/Food/Meme/Novernight Noats/flip.jpg' alt='' class='instruction-image'>
 
-- Making the exact same recipe but using 1/2 cup (40 g) <a href='/misc/grains#oats'>rolled oats</a> instead of <a href='https://amzn.to/3FAdvEl'>psyllium husk</a> yields the following nutrition facts
+- Making the exact same recipe but using 1/2 cup (40 g) <a href='/misc/grains#oats'>rolled oats</a> instead of <a href='https://amzn.to/4vLldRa'>psyllium husk</a> yields the following nutrition facts
 - |
   COMPARE(
     "novernightnoats",
