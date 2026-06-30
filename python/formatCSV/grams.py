@@ -1061,7 +1061,7 @@ def grams(food, mass, vol):
             m = "136"
 
     # Syrup
-    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup":
+    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Maple syrup" or food == "Maple syrup, or honey" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup" or food == "Sugar free chocolate syrup" or food == "Sugar free chocolate syrup, homemade" or food == "Sugar free chocolate syrup, storebought":
         if vol == "1 tsp":
             m = "6.5"
         elif vol == "1/2 tbsp" or vol == "0.5 serving":

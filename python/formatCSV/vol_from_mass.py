@@ -206,7 +206,7 @@ def vol_from_mass(food, mass, vol):
             v = "4 tbsp"
 
     # Sugar free syrup
-    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup":
+    elif food == "Sugar free syrup" or food == "Sugar free syrup, or maple syrup or honey" or food == "Sugar free syrup, or honey or maple syrup" or food == "Sugar free syrup, or honey" or food == "Sugar free syrup, or maple syrup" or food == "Sugar free syrup, optional" or food == "Agave" or food == "Agave syrup" or food == "Date syrup" or food == "High Fiber Inulin Syrup" or food == "Homemade fruit syrup" or food == "Sugar free chocolate syrup" or food == "Sugar free chocolate syrup, homemade" or food == "Sugar free chocolate syrup, storebought":
         if mass == "6.5":
           v = "1 tsp"
         elif mass == "10":

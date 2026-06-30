@@ -287,6 +287,9 @@ Cacao powder,cocoa-powder,9.34,454.00,0.02057,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0
 Carob powder,carob,9.49,454.00,0.02090,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,https://amzn.to/4rhYDwh
 Unsweetened chocolate,100,1.46,113.20,0.01290,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,25,/recipes/chocolate-bar
 Simple syrup,simple-syrup,4.09,"4,540.00",0.00090,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,50.0,0.0,0.0,0.0,0,40,
+"Sugar free chocolate syrup, storebought",sf-choc-syrup-store-100g,6.29,495.25,0.01270,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,13.3,0.0,0.0,0,40,
+"Sugar free chocolate syrup, homemade",sf-choc-syrup-100g,3.45,260.00,0.01327,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,77.0,0.0,0,40,/recipes/sugar-free-chocolate-syrup
+Sugar free chocolate syrup,sf-choc-syrup-100g,3.45,260.00,0.01327,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,77.0,0.0,0,40,/recipes/sugar-free-chocolate-syrup
 Granulated sugar,sugar,8.17,"4,540.00",0.00180,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
 "Granular sweetener: sugar, erythritol, stevia, etc.",sugar,8.17,"4,540.00",0.00180,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
 Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43wL0zp

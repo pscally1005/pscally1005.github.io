@@ -10,6 +10,12 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/sugar-free-chocolate-syrup": [
+        "sugar free chocolate syrup recipe",
+        "sugar free chocolate syrup",
+        "chocolate syrup",
+        "allulose chocolate syrup"
+    ],
     "/recipes/protein-layer-cake": [
         "protein chocolate layer cake",
         "chocolate protein layer cake",
@@ -5232,6 +5238,12 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4bidRMq": [
+        "hershey's zero sugar chocolate syrup",
+        "hershey's sugar free chocolate syrup",
+        "hershey's chocolate syrup",
+        "sugar free chocolate syrup, storebought"
+    ],
     "https://amzn.to/4aXnK21": [
         "pea protein powder",
         "pea protein isolate",
@@ -8625,7 +8637,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-30")):
+            if not file.startswith(("2026-12-29")):
                 continue
 
             # exclude some files

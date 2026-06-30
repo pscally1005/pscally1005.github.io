@@ -192,6 +192,10 @@ def ingredients(food):
         f = "Homemade fruit syrup"
     elif food == "inulin-syrup":
         f = "High Fiber Inulin Syrup"
+    elif food == "sf-choc-syrup":
+        f = "Sugar free chocolate syrup"
+    elif food == "sf-choc-syrup-store":
+        f = "Sugar free chocolate syrup, storebought"
     elif food == "Fruit juice drink, diet":
         f = "Fruit juice, sugar free"
     elif food == "Lemonade, fruit juice drink":
