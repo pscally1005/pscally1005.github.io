@@ -14,7 +14,8 @@ LINKS = {
         "sugar free chocolate syrup recipe",
         "sugar free chocolate syrup",
         "chocolate syrup",
-        "allulose chocolate syrup"
+        "allulose chocolate syrup",
+        "homemade chocolate syrup"
     ],
     "/recipes/protein-layer-cake": [
         "protein chocolate layer cake",
