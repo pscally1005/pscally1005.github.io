@@ -85,7 +85,6 @@ jobs:
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           TOLERANCE_PCT: ${{ secrets.TOLERANCE_PCT }}
-          UNSUBSCRIBE_BASE_URL: https://www.poormanprotein.com/misc/stocks/unsubscribe
         run: python daily_52_week_report.py
 
       - name: Mark sent today

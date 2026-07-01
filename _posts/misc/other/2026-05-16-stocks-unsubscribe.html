@@ -12,7 +12,11 @@ image: /assets/Misc/Other/not-stonks.png
 tags:
 - stocks
 ---
-<p id="stock-unsub-status">Unsubscribing… you will return to the stock report page in a moment.</p>
+<p id="stock-unsub-status">Click below to confirm you want to unsubscribe from the weekday stock report.</p>
+
+<p><a id="stock-unsub-link" href="/misc/stocks" style="display:inline-block;padding:0.5rem 1.25rem;font-size:1rem">Unsubscribe</a></p>
+
+<p><a href="/misc/stocks">Back to stock report page</a></p>
 
 <script>
 (function () {
@@ -20,18 +24,20 @@ tags:
   var params = new URLSearchParams(window.location.search);
   var token = params.get('token');
   var status = document.getElementById('stock-unsub-status');
+  var link = document.getElementById('stock-unsub-link');
 
   if (!token) {
     status.textContent = 'Invalid unsubscribe link (missing token).';
+    link.style.display = 'none';
     return;
   }
   if (!apiUrl) {
     status.textContent = 'Unsubscribe is not configured on this site yet.';
+    link.style.display = 'none';
     return;
   }
 
-  var target = apiUrl + (apiUrl.indexOf('?') >= 0 ? '&' : '?')
+  link.href = apiUrl + (apiUrl.indexOf('?') >= 0 ? '&' : '?')
     + 'action=unsubscribe&token=' + encodeURIComponent(token);
-  window.location.replace(target);
 })();
 </script>

@@ -1,22 +1,17 @@
 /**
  * Web hook for poormanprotein.com /misc/stocks subscribe & unsubscribe.
  *
- * Setup (one time):
- * 1. Copy this file into a new project at https://script.google.com
- * 2. Project Settings → Script properties, add:
- *      GITHUB_REPO          owner/repo   (e.g. pscally1005/pscally1005.github.io)
- *      GITHUB_TOKEN         fine-grained PAT with Contents (read/write) + Actions (read)
- *      WEBHOOK_SECRET       random string (same as GitHub secret MAILING_LIST_WEBHOOK_SECRET)
- *      SITE_RETURN_URL      optional; defaults to https://www.poormanprotein.com/misc/stocks
- * 3. Deploy → New deployment → Web app (new version after code changes)
- * 4. Copy the Web app URL into _config.yml as stocks_mailing_api_url
- * 5. Add MAILING_LIST_WEBHOOK_SECRET to GitHub repo secrets
+ * After code changes: Deploy → Manage deployments → Edit → New version → Deploy
  */
 
 var DEFAULT_RETURN_URL = 'https://www.poormanprotein.com/misc/stocks';
 
 function doGet(e) {
-  return handleRequest_(e.parameter || {});
+  try {
+    return handleRequest_(e.parameter || {});
+  } catch (err) {
+    return donePage_('Error: ' + err.message, false, DEFAULT_RETURN_URL);
+  }
 }
 
 function doPost(e) {
@@ -30,7 +25,11 @@ function doPost(e) {
   } else {
     params = e.parameter || {};
   }
-  return handleRequest_(params);
+  try {
+    return handleRequest_(params);
+  } catch (err) {
+    return donePage_('Error: ' + err.message, false, DEFAULT_RETURN_URL);
+  }
 }
 
 function returnUrl_(props) {
@@ -42,31 +41,25 @@ function handleRequest_(params) {
   var props = PropertiesService.getScriptProperties();
   var home = returnUrl_(props);
 
-  try {
-    if (action === 'subscribe') {
-      var email = (params.email || '').trim();
-      if (!email) {
-        return redirectTo_(home + '?mailing=error&reason=missing_email');
-      }
-      dispatch_(props, 'stock_subscribe', { email: email });
-      return redirectTo_(home + '?mailing=subscribed');
+  if (action === 'subscribe') {
+    var email = (params.email || '').trim();
+    if (!email) {
+      return redirectTo_(home + '?mailing=error&reason=missing_email');
     }
-
-    if (action === 'unsubscribe') {
-      var token = (params.token || '').trim();
-      if (!token) {
-        return redirectTo_(home + '?mailing=error&reason=invalid_link');
-      }
-      dispatch_(props, 'stock_unsubscribe', { token: token });
-      return redirectTo_(home + '?mailing=unsubscribed');
-    }
-
-    return redirectTo_(home + '?mailing=error&reason=unknown');
-  } catch (err) {
-    return redirectTo_(
-      home + '?mailing=error&reason=' + encodeURIComponent(err.message)
-    );
+    dispatch_(props, 'stock_subscribe', { email: email });
+    return redirectTo_(home + '?mailing=subscribed');
   }
+
+  if (action === 'unsubscribe') {
+    var token = (params.token || '').trim();
+    if (!token) {
+      return redirectTo_(home + '?mailing=error&reason=invalid_link');
+    }
+    dispatch_(props, 'stock_unsubscribe', { token: token });
+    return redirectTo_(home + '?mailing=unsubscribed');
+  }
+
+  return donePage_('Unknown request.', false, home);
 }
 
 function dispatch_(props, eventType, payload) {
@@ -100,22 +93,47 @@ function dispatch_(props, eventType, payload) {
 
   var code = response.getResponseCode();
   if (code < 200 || code >= 300) {
-    throw new Error('GitHub API returned ' + code + ': ' + response.getContentText());
+    throw new Error('GitHub API returned ' + code);
   }
 }
 
 function redirectTo_(url) {
-  var safeUrl = String(url).replace(/"/g, '%22');
+  return donePage_('Done. Redirecting…', true, url);
+}
+
+function donePage_(message, success, continueUrl) {
+  var color = success ? '#1a7f37' : '#b42318';
+  var safeUrl = escapeHtml_(continueUrl);
   var html =
     '<!DOCTYPE html><html><head><meta charset="utf-8">' +
-    '<meta http-equiv="refresh" content="0;url=' +
+    '<base target="_top">' +
+    '<title>Stock report mailing list</title>' +
+    '<style>body{font-family:sans-serif;max-width:32rem;margin:3rem auto;padding:0 1rem;color:#222}' +
+    'a{color:#0969da}</style>' +
+    '<meta http-equiv="refresh" content="2;url=' +
     safeUrl +
+    '"></head><body>' +
+    '<p style="color:' +
+    color +
     '">' +
-    '<script>window.location.replace(' +
-    JSON.stringify(url) +
-    ');</script>' +
-    '</head><body><p>Redirecting…</p></body></html>';
+    escapeHtml_(message) +
+    '</p>' +
+    '<p><a href="' +
+    safeUrl +
+    '">Continue to Poor Man Protein</a></p>' +
+    '<script>setTimeout(function(){window.top.location.href=' +
+    JSON.stringify(continueUrl) +
+    '},500);</script>' +
+    '</body></html>';
   return HtmlService.createHtmlOutput(html).setXFrameOptionsMode(
     HtmlService.XFrameOptionsMode.ALLOWALL
   );
+}
+
+function escapeHtml_(text) {
+  return String(text)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
 }

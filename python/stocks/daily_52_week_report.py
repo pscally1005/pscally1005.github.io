@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import re
 import smtplib
 import sys
 from dataclasses import dataclass
@@ -20,6 +21,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from html import escape
 from pathlib import Path
+from urllib.parse import urlencode
 
 import yfinance as yf
 from dotenv import load_dotenv
@@ -30,9 +32,37 @@ from tickers import all_index_names, all_index_tickers
 SCRIPT_DIR = Path(__file__).resolve().parent
 BATCH_SIZE = 40
 DEFAULT_FROM = "poormanprotein@gmail.com"
-DEFAULT_UNSUBSCRIBE_BASE = (
-    "https://www.poormanprotein.com/misc/stocks/unsubscribe"
-)
+
+
+def mailing_api_url() -> str:
+    """Apps Script web app URL (same as stocks_mailing_api_url in _config.yml)."""
+    env = os.getenv("MAILING_API_URL", "").strip()
+    if env:
+        return env
+    config_path = SCRIPT_DIR.parent.parent / "_config.yml"
+    if config_path.exists():
+        text = config_path.read_text(encoding="utf-8")
+        match = re.search(
+            r'^stocks_mailing_api_url:\s*"?([^"\n#]+)"?\s*$',
+            text,
+            re.MULTILINE,
+        )
+        if match:
+            return match.group(1).strip()
+    return ""
+
+
+def build_unsubscribe_url(token: str) -> str:
+    """Direct Apps Script link (same pattern as the subscribe form)."""
+    if not token:
+        return ""
+    api = mailing_api_url().strip()
+    if not api:
+        return ""
+    query = urlencode({"action": "unsubscribe", "token": token})
+    if "?" in api:
+        return f"{api}&{query}"
+    return f"{api}?{query}"
 
 
 @dataclass
@@ -66,9 +96,6 @@ def load_config() -> dict[str, str]:
         "smtp_user": os.environ["SMTP_USER"],
         "smtp_password": os.environ["SMTP_PASSWORD"],
         "email_from": (os.getenv("EMAIL_FROM") or DEFAULT_FROM),
-        "unsubscribe_base": (
-            os.getenv("UNSUBSCRIBE_BASE_URL") or DEFAULT_UNSUBSCRIBE_BASE
-        ),
         "tolerance_pct": float(os.getenv("TOLERANCE_PCT") or "0.5"),
     }
 
@@ -290,7 +317,6 @@ def send_to_subscribers(
     tolerance_pct: float,
 ) -> int:
     recipients = get_recipients()
-    base = config["unsubscribe_base"].rstrip("/")
     sent = 0
 
     with smtplib.SMTP(config["smtp_host"], config["smtp_port"]) as server:
@@ -300,7 +326,7 @@ def send_to_subscribers(
         for row in recipients:
             to_email = row["email"]
             token = row.get("token", "")
-            unsub = f"{base}?token={token}" if token else ""
+            unsub = build_unsubscribe_url(token)
             html = build_html(
                 at_high, at_low, scanned, failed, tolerance_pct, unsub
             )
@@ -360,7 +386,7 @@ def main() -> int:
     )
 
     if args.dry_run:
-        sample_unsub = f"{DEFAULT_UNSUBSCRIBE_BASE}?token=example"
+        sample_unsub = build_unsubscribe_url("example-token") or "(set stocks_mailing_api_url)"
         plain = build_plain(
             at_high, at_low, len(symbols), tolerance, sample_unsub
         )
