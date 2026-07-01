@@ -874,7 +874,7 @@ def vol_from_mass(food, mass, vol):
             v = "2 cup"
 
     # Protein powder
-    elif food == "Whey protein powder, unflavored" or food == "Whey protein powder, chocolate" or food == "Whey protein powder, vanilla" or food == "Nutricost Whey Unflavored Protein Powder" or food == "Casein protein powder, unflavored" or food == "Casein protein powder, chocolate" or food == "Casein protein powder, vanilla" or food == "Nutricost Casein Unflavored Protein Powder":
+    elif food == "Whey protein powder, unflavored" or food == "Whey protein powder, chocolate" or food == "Whey protein powder, vanilla" or food == "Nutricost Whey Unflavored Protein Powder" or food == "Casein protein powder, unflavored" or food == "Casein protein powder, chocolate" or food == "Casein protein powder, vanilla" or food == "Nutricost Casein Unflavored Protein Powder" or food == "Pea protein powder, unflavored":
         if mass == "10":
             v = "1/3 scoop"
         elif mass == "15":
@@ -897,6 +897,8 @@ def vol_from_mass(food, mass, vol):
             v = "4 scoop"
         elif mass == "150":
             v = "5 scoop"
+        elif mass == "180":
+            v = "6 scoop"
 
     # Nuts
     elif food == "Almonds" or food == "Walnuts" or food == "Cashews" or food == "Pistachios" or food == "Pecans" or food == "Macadamia nuts" or food == "Hazelnuts" or food == "Brazil nuts" or food == "Mixed nuts" or food == "Mixed nuts, unsalted" or food == "Peanuts" or food == "Pine nuts":
