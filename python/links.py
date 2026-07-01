@@ -6770,6 +6770,8 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "short-chain fatty acids",
+    "some don't have protein powder",
+    "happens to have protein powder",
     "have your cake",
     "this cake",
     "the cake",

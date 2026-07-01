@@ -57,21 +57,21 @@ tags:
 - coconut oil
 - extra virgin coconut oil
 Description: |
-  Most vegan "protein" bar recipes on the internet are not a protein bar.  They're an energy bar (aka a carb or fat bar) that happens to have protein powder in it. Some don't have protein powder at all, just using nuts or something for their sole protein source.<br><br>
+  Most vegan "protein" bar recipes on the internet are not a <a href='/protein-bar'>protein bar</a>.  They're an energy bar (aka a <a href='/misc/carbs'>carb</a> or <a href='/misc/fats'>fat</a> bar) that happens to have protein powder in it. Some don't have protein powder at all, just using <a href='/misc/nuts'>nuts</a> or something for their sole <a href='/misc/protein'>protein</a> source.<br><br>
 
-  In comparison, this vegan protein bar is an actual protein bar.  Each bar contains 19 g of protein in under 120 calories, with just a little bit of carbs and fat to keep the protein ratio in check.  They're no bake, easy to prepare, and freeze well.
+  In comparison, this vegan protein bar is an actual <a href='/protein-bar'>protein bar</a>.  Each bar contains 19 g of <a href='/misc/protein'>protein</a> in under 120 <a href='/misc/calories'>calories</a>, with just a little bit of <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a> to keep the <a href='/misc/protein'>protein</a> ratio in check.  They're no bake, easy to prepare, freeze well, and are free of <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/celiac'>gluten</a>, and <a href='/misc/nuts'>nuts</a> in addition to being vegan.
 Instructions:
-- In a large bowl, whisk together the pea protein, cocoa powder, and salt.
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the <a href='https://amzn.to/4aXnK21'>pea protein</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt.
 
-- In a separate bowl, whisk together the sugar free syrup, melted coconut oil, vanilla, and water.
+- In a separate bowl, whisk together the water, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and vanilla.
 
-- Pour the wet ingredients into the dry ingredients and mix until a thick dough forms. You should be able to press the dough together without crumbling, but not sticky.
+- Pour the wet ingredients into the dry ingredients and mix until a thick dough forms. You should be able to press the dough together without crumbling, but it shouldn't be too sticky.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/bowl.jpg' alt='' class='instruction-image'>
 
-- Firmly press the mixture into a parchment lined 9" square pan. Refrigerate for at least 2 hours before slicing into 8 protein bars.
+- Firmly press the mixture into a parchment lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>. Refrigerate for at least 2 hours before slicing into 8 <a href='/protein-bar'>protein bars</a>.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- You can also make these protein bars with maple syrup instead of sugar free syrup.
+- You can also make these <a href='/protein-bar'>protein bars</a> with <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> instead of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.
 - |
   COMPARE(
     "veganproteinbar",
