@@ -63,9 +63,9 @@ Instructions:
 
 - Beat your <a href='/misc/meat#eggs'>egg</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Whisk in the wet ingredients - liquid whey, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
-- Using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, stir in all the dry ingredients - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/4vLldRa'>psyllium husk</a>, baking powder, cinnamon, and salt
+- Using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, stir in all the dry ingredients - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/psyllium-husk'>psyllium husk</a>, baking powder, cinnamon, and salt
 
-- Let the batter rest in the bowl for about 10 minutes for the <a href='https://amzn.to/4vLldRa'>psyllium</a> to thicken the batter
+- Let the batter rest in the bowl for about 10 minutes for the <a href='/misc/psyllium-husk'>psyllium</a> to thicken the batter
 - <img src='/assets/Food/Protein Powder/Discard Whey Protein Bars/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan. Bake at 350F for 1 hour, or until a toothpick comes out clean

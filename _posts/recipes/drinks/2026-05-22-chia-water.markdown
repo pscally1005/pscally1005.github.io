@@ -67,13 +67,13 @@ Notes:
 - You can alternatively use 2 tbsp (13 g) <a href='/misc/seeds#flax-seeds'>ground flaxseed</a> instead of <a href='/misc/seeds#chia-seeds'>chia seeds</a>.  Again, wait 10-15 minutes before drinking
 - <img src='/assets/Food/Drinks/Chia water/flax.jpg' alt='' class='instruction-image'>
 
-- Or you can use 1 tbsp (5 g) of <a href='https://amzn.to/4vLldRa'>psyllium husk</a>.  This time, you should consume it right away instead of letting it gell
+- Or you can use 1 tbsp (5 g) of <a href='/misc/psyllium-husk'>psyllium husk</a>.  This time, you should consume it right away instead of letting it gell
 - <img src='/assets/Food/Drinks/Chia water/psyllium.jpg' alt='' class='instruction-image'>
 
 - You can also use 1 tsp (4 g) of <a href='https://amzn.to/47w8h7R'>inulin</a> for a <a href='/misc/fiber'>high fiber</a> <a href='/recipes/drinks'>drink</a> that fully dissolves.  This feels and tastes just like water, and can be drunk either right away or refrigerated for later
 - <img src='/assets/Food/Drinks/Chia water/inulin.jpg' alt='' class='instruction-image'>
 
-- Because of the <a href='/misc/fiber'>high fiber</a> content of these <a href='/recipes/drinks'>drinks</a>, it's recommended to slowly work your way up.  I'd suggest starting with maybe half the amount of <a href='/misc/seeds#chia-seeds'>chia</a> (or <a href='/misc/seeds#flax-seeds'>flax</a>, <a href='https://amzn.to/4vLldRa'>psyllium</a>, or <a href='https://amzn.to/47w8h7R'>inulin</a>) in order to avoid any digestion issues
+- Because of the <a href='/misc/fiber'>high fiber</a> content of these <a href='/recipes/drinks'>drinks</a>, it's recommended to slowly work your way up.  I'd suggest starting with maybe half the amount of <a href='/misc/seeds#chia-seeds'>chia</a> (or <a href='/misc/seeds#flax-seeds'>flax</a>, <a href='/misc/psyllium-husk'>psyllium</a>, or <a href='https://amzn.to/47w8h7R'>inulin</a>) in order to avoid any digestion issues
 - |
   COMPARE(
     "chiawater",
@@ -83,7 +83,7 @@ Notes:
 
     "<a href='/misc/seeds#chia-seeds'>Chia</a>",
     "<a href='/misc/seeds#flax-seeds'>Flax</a>",
-    "<a href='https://amzn.to/4vLldRa'>Psyllium</a>",
+    "<a href='/misc/psyllium-husk'>Psyllium</a>",
     "<a href='https://amzn.to/47w8h7R'>Inulin</a>";
 
     "Calories",

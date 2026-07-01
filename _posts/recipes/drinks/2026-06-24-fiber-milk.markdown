@@ -49,9 +49,9 @@ tags:
 Description: |
   Do you need something sweet, <a href='/misc/calories'>low calorie</a>, and filling.  Why not <a href='/recipes/drinks'>drink</a> a fiber chocolate milk.  It's a <a href='/misc/hidden-sugar'>sugar free</a> <a href='/misc/fake-healthy-foods#milk'>chocolate milk</a> made from <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.<br><br>
 
-  The star is <a href='https://amzn.to/4vLldRa'>psyllium husk</a>, which adds 8 g of <a href='/misc/fiber'>fiber</a> per serving in just 10 <a href='/misc/calories'>calories</a>.  <a href='https://amzn.to/4vLldRa'>Psyllium husk</a> has been shown to benefit digestive health by softening and providing bulk to stools and providing better and more regular bowel movements.<br><br>
+  The star is <a href='/misc/psyllium-husk'>psyllium husk</a>, which adds 8 g of <a href='/misc/fiber'>fiber</a> per serving in just 10 <a href='/misc/calories'>calories</a>.  <a href='/misc/psyllium-husk'>Psyllium husk</a> has been shown to benefit digestive health by softening and providing bulk to stools and providing better and more regular bowel movements.<br><br>
 
-  Additionally, <a href='https://amzn.to/4vLldRa'>psyllium</a> also benefits heart health by lowering LDL.  This is basically just a cheaper, chocolate flavored <a href='https://amzn.to/49FHMxv'>Metamucil</a>.  A great way to work extra <a href='/misc/fiber'>fiber</a> into your diet, something that 95% of Americans are lacking in.
+  Additionally, <a href='/misc/psyllium-husk'>psyllium</a> also benefits heart health by lowering LDL.  This is basically just a cheaper, chocolate flavored <a href='https://amzn.to/49FHMxv'>Metamucil</a>.  A great way to work extra <a href='/misc/fiber'>fiber</a> into your diet, something that 95% of Americans are lacking in.
 Instructions:
 - Add all ingredients to a mason jar or shaker bottle. Vigorously shake, and chug immediately
 Notes:
