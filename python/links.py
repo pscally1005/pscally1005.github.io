@@ -3130,7 +3130,8 @@ LINKS = {
 
     # DISEASES
     "/misc/stats": [
-        "chronic disease"
+        "chronic disease",
+        "chronic diseases"
     ],
     "/misc/celiac": [
         "gluten allergy",
@@ -4918,7 +4919,8 @@ LINKS = {
         "dietary fiber",
         "soluble fiber",
         "insoluble fiber",
-        "Fiber: Happiness is a Good Poop"
+        "Fiber: Happiness is a Good Poop",
+        "fibers"
     ],
     "/misc/iron": [
         "I Run on Iron",
@@ -5333,11 +5335,23 @@ LINKS = {
         "kettle and fire",
         "kettle & fire"
     ],
-    # "https://amzn.to/4vLldRa": [
-    #     "psyllium husks",
-    #     "psyllium husk",
-    #     "psyllium"
-    # ],
+    "https://amzn.to/4vLldRa": [
+        "psyllium husks",
+        "psyllium husk",
+        "psyllium",
+        "unflavored psyllium husks",
+        "unflavored psyllium husk",
+        "unflavored psyllium",
+        "plain psyllium husks",
+        "plain psyllium husk",
+        "plain psyllium"
+        "unflavored, plain psyllium husks",
+        "unflavored, plain psyllium husk",
+        "unflavored, plain psyllium"
+        "plain, unflavored psyllium husks",
+        "plain, unflavored psyllium husk",
+        "plain, unflavored psyllium"
+    ],
     "https://amzn.to/4dGuPpJ": [
         "rice paper",
         "rice paper wrap"
@@ -5877,13 +5891,15 @@ LINKS = {
     ],
 
     # MISC
-    "/misc/psyllium-husk": [
-        "psyllium husks",
-        "psyllium husk",
-        "psyllium",
-        "psyllium husk fiber",
-        "psyllium fiber"
-    ],
+    # "/misc/psyllium-husk": [
+    #     "psyllium husks",
+    #     "psyllium husk",
+    #     "psyllium",
+    #     "psyllium husk fiber",
+    #     "psyllium fiber",
+    #     "psyllium husk: hype or healthy?",
+    #     "psyllium husk: hype or healthy"
+    # ],
     "/misc/caffeine": [
         "caffeine",
         "coffee",

@@ -23,7 +23,7 @@ protein_bar: no
 permalink: /recipes/cottage-cheese-queso
 image: /assets/Food/Savory Sauces/CC Queso/cover.jpg
 file: queso
-servingSize: ~1/2 cup (~110 g)
+servingSize: 2 tbsp (30 g)
 section1: Step 1
 start2: Diced green chiles
 section2: Step 2
@@ -55,11 +55,10 @@ tags:
 Description: This cottage cheese queso dip will convert any <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> haters without them even knowing it. It's a <a href='/misc/high-protein'>high protein</a> sauce with <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#cheddar'>cheddar cheese</a>, and taco seasonings that's a great sauce for nachos or a <a href='/recipes/savory-sauces'>dip</a> for <a href='/misc/fake-healthy-foods#chips'>chips</a> or <a href='/misc/veggies'>veggies</a>.  But don't just limit it to a <a href='/recipes/savory-sauces'>dip</a>; use the queso as a <a href='/misc/high-protein'>high protein</a> <a href='/salad-dressings'>salad dressing</a>, use it as a Mac & Cheese <a href='/recipes/savory-sauces'>sauce</a>, even make some cheesy <a href='/misc/beans'>beans</a>?
 Instructions:
 - Combine <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#cheddar'>cheddar</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, chili powder, paprika, and cumin in a <a href='https://amzn.to/3SsDLn7'>blender</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>, until smooth
+
+- Fold in a can of diced green chilies
 - <img src='/assets/Food/Savory Sauces/CC Queso/processor.jpg' alt='' class='instruction-image'>
 
-- Transfer to a microwave safe bowl.  Mix a can of diced green chilies into the queso bowl
-
-- Cover with a plate, and microwave for about 1 1/2 - 2 minutes, stirring every 15 seconds, until warm and melty
-- <img src='/assets/Food/Savory Sauces/CC Queso/bowl.jpg' alt='' class='instruction-image'>
+- Transfer to a microwave safe bowl, cover with a plate, and microwave for about 1 1/2 - 2 minutes, stirring every 15 seconds, until warm and melty
 Notes:
 ---

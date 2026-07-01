@@ -58,11 +58,25 @@ Instructions:
 - Add <a href='https://amzn.to/4mzsH5p'>allulose</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt to a small sauce pot. Whisk until fully combined.
 
 - Whisk in the water, cover with a lid, and bring to a boil over high heat. When boiling, remove the cover, reduce heat to low, and let simmer for 1-2 minutes, stirring frequently.
-- <img src='/assets/Food/Sweet Spreads/SF Choc Syrup/simmer.jpg' alt='' class='instruction-image'>
 
 - Remove from the heat and whisk in vanilla extract.
+- <img src='/assets/Food/Sweet Spreads/SF Choc Syrup/pot.jpg' alt='' class='instruction-image'>
 
 - Let it cool completely before transferring to a mason jar. Store in the fridge for up to 2 weeks, or in the freezer indefinitely.
-- <img src='/assets/Food/Sweet Spreads/SF Choc Syrup/jar.jpg' alt='' class='instruction-image'>
 Notes:
+- Using <a href='/misc/hidden-sugar'>sugar</a> instead of <a href='https://amzn.to/4mzsH5p'>allulose</a> yields the following nutrition facts per 1 tbsp (20 g)
+- |
+  COMPARE(
+    "sfchocsyrup",
+    "sfchocsyrupsugar";
+
+    "<a href='#recipe'>Allulose</a>",
+    "<a href='#notes'>Sugar</a>";
+
+    "Calories",
+    "Net Carbs",
+    "Added Sugar",
+    "Allulose",
+    "Glycemic Index"
+  )
 ---
