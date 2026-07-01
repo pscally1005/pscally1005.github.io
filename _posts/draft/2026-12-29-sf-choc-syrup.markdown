@@ -24,17 +24,17 @@ permalink: /recipes/sugar-free-chocolate-syrup
 image: /assets/Food/Sweet Spreads/SF Choc Syrup/cover.jpg
 file: sfchocsyrup
 servingSize: 1 tbsp (20 g)
-section1:
-start2:
-section2:
-start3:
-section3:
+section1: Step 1
+start2: Water
+section2: Step 2
+start3: Vanilla extract
+section3: Step 3
 start4:
 section4:
 start5:
 section5:
 Prep: 5
-Rest: 30
+Rest:
 Cook: 5
 Source1: https://thebigmansworld.com/sugar-free-chocolate-syrup/#wprm-recipe-container-52565
 Source2:

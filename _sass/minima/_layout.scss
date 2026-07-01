@@ -694,6 +694,7 @@ img.instruction-image {
   display: flex;              /* lay out children side by side */
   justify-content: center;    /* center the whole row */
   gap: 12px;                  /* space between images */
+  margin: 20px 0 !important;
 }
 
 .smaller-image {
