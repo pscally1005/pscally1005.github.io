@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lebanese Tabbouleh Salad
-date:   2026-06-21 00:00:00 -0500
+date:   2026-07-02 00:00:00 -0500
 categories:
 - Recipes
 - Sides
@@ -23,7 +23,7 @@ protein_bar: no
 permalink: /recipes/tabbouleh
 image: /assets/Food/Sides/Tabbouleh/cover.jpg
 file: tabbouleh
-servingSize: ~1 cup (~167 g)
+servingSize: ~ 160 g
 section1: Cooked Bulgur
 start2: Lemon juice
 section2: Dressing
@@ -51,7 +51,9 @@ tags:
 - corriander
 Description: Tabbouleh, also spelled as tabouli or tabouleh, is a Lebanese <a href='/salad'>salad</a> <a href='/recipes/sides'>side dish</a> of fresh herbs and <a href='/misc/veggies'>veggies</a>, <a href='/misc/grains#bulgur'>bulgur wheat</a>, and a lemony <a href='/salad-dressings'>dressing</a>. This <a href='/salad'>salad</a> with some <a href='/misc/grains'>grains</a> brings out all the best flavors of the raw herbs and <a href='/misc/veggies'>veggies</a>, and is the perfect light <a href='/recipes/sides'>side dish</a> on a warm summer night.
 Instructions:
-- Add <a href='/misc/bone-broth'>broth</a> (or water with a pinch of salt) to a small pot. Cover and bring to a boil over high heat. When boiling, add in the <a href='/misc/grains#bulgur'>bulgur</a>, cover, and remove from the heat. Let sit for 15-30 minutes, or until the <a href='/misc/grains#bulgur'>bulgur</a> is tender and all water is absorbed. Remove the lid, and set aside to cool
+- Add broth (or water with a pinch of salt) to a small pot with bulgur. Cover and bring to a boil over high heat. Keep the cover on, reduce heat to low, and let simmer for about 15 minutes, or until the bulgur is tender and all water is absorbed. Remove the lid, and set aside to cool
+
+- Add <a href='/misc/bone-broth'>broth</a> (or water with a pinch of salt) to a small pot with <a href='/misc/grains#bulgur'>bulgur</a>. Cover and bring to a boil over high heat. Keep the lid on, reduce heat to low, and let simmer for about 15 minutes, or until the <a href='/misc/grains#bulgur'>bulgur</a> is tender and all water is absorbed. Remove the lid, and set aside to cool
 - <img src='/assets/Food/Sides/Tabbouleh/bulgur.jpg' alt='' class='instruction-image'>
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dressing ingredients - <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, salt, black pepper, coriander, and cinnamon
