@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Single Serving Nutella Cookie
-date:   2026-05-16 00:00:00 -0500
+date:   2026-07-02 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
