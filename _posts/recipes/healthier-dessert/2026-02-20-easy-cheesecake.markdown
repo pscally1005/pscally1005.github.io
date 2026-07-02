@@ -66,14 +66,22 @@ Notes:
 - INGREDIENTS(chobani20gproteinx5)
 - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/both.jpg' alt='' class='instruction-image'>
 
+- |
+  <div id='lemon-blueberry' class='table-of-contents-2'></div>
+  To make a <a href='/misc/fruit#lemon'>lemon</a> <a href='/misc/fruit#blueberries'>blueberry</a> cheesecake, mix 1/4 cup (60 g) <a href='/misc/fruit#lemon'>lemon juice</a> and 1 cup (155 g) <a href='/misc/fruit#blueberries'>frozen blueberries</a> into the cheesecake batter
+# - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/lemon-blueberry-raw.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/lemon-blueberry-baked.jpg' alt='' class='instruction-image'>
+
 - Does this taste exactly as good as a traditional cheesecake?  No, of course not.  It's made of <a href='/misc/dairy#yogurt'>yogurt</a> with <a href='/misc/hidden-sugar'>no sugar</a> and minimal <a href='/misc/fats'>fat</a>.  It is however still a delicious healthier alternative, but don't expect it to taste exactly like a slice of classic New York style cheesecake.  That instead would have about 32 oz (908 g) of full fat <a href='/misc/dairy#cream-cheese'>cream cheese</a>, 1 cup (200 g) of <a href='/misc/hidden-sugar'>sugar</a>, and 2/3 cup (160 g) of sour cream in the filling instead
 
 - |
   COMPARE(
     "easycheesecake",
+    "easycheesecakelemonblueberry",
     "traditionalcheesecake";
 
-    "<a href='#recipe'>Healthy</a>",
+    "<a href='#recipe'>Healthy<br>Standard</a>",
+    "<a href='#lemon-blueberry'>Healthy<br>Lemon<br>Blueberry</a>",
     "<a href='https://sugarspunrun.com/best-cheesecake-recipe/#recipe'>Traditional</a>";
 
     "Calories",
