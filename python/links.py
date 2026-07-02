@@ -5249,6 +5249,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4vamaBm": [
+        "mason jars",
+        "mason jar",
+        "small mason jars",
+        "small mason jar",
+    ],
+    "https://amzn.to/4vedGsO": [
+        "large mason jars",
+        "large mason jar"
+    ],
     "https://amzn.to/4bidRMq": [
         "hershey's zero sugar chocolate syrup",
         "hershey's sugar free chocolate syrup",
@@ -5823,6 +5833,14 @@ LINKS = {
         "stainless steel pot"
     ],
     "https://amzn.to/46ccg8m": [
+        "small sauce pot",
+        "small sauce-pot",
+        "small saucepot",
+        "small sauce pots",
+        "small sauce-pots",
+        "small saucepots",
+        "small pot",
+        "small pots",
         "medium saucepot",
         "medium pot"
     ],

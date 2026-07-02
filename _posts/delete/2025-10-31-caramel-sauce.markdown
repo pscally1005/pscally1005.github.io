@@ -53,14 +53,14 @@ tags:
 - sauce
 Description: Here's a super simple caramel sauce recipe that uses only 4 ingredients, without any cream, <a href='/misc/dairy#skim-milk'>milk</a>, or <a href='/misc/dairy#butter'>butter</a>. This <a href='/misc/dairy'>dairy</a> free caramel sauce involves just bringing <a href='/misc/hidden-sugar'>sugar</a> to a boil, and flavoring it with vanilla and salt.  You can even make it <a href='/misc/hidden-sugar'>sugar free</a> using <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> or <a href='https://amzn.to/4mzsH5p'>allulose</a>.
 Instructions:
-- Add <a href='/misc/hidden-sugar'>sugar</a> and water to a small stainless steel sauce pot.  Mix until fully dissolved
+- Add <a href='/misc/hidden-sugar'>sugar</a> and water to a <a href='https://amzn.to/46ccg8m'>small sauce pot</a>.  Mix until fully dissolved
 
 - Add the pot to the stove over medium high heat, and bring to a bubble with occasional stirring
 
 - When bubbling, stop stirring, and cook for 5-7 minutes, or until the syrup reaches 240F
 - <img src='/assets/Misc/Unhealthy/Caramel/pot.jpg' alt='' class='instruction-image'>
 
-- Remove the pot from the heat, and stir in vanilla and salt. Transfer to a mason jar. Let cool uncovered at room temperature for at least 30 minutes, or until fully cooled
+- Remove the pot from the heat, and stir in vanilla and salt. Transfer to a <a href='https://amzn.to/4vamaBm'>mason jar</a>. Let cool uncovered at room temperature for at least 30 minutes, or until fully cooled
 - <img src='/assets/Misc/Unhealthy/Caramel/jar.jpg' alt='' class='instruction-image'>
 Notes:
 - Either brown or white <a href='/misc/hidden-sugar'>sugar</a> will work, or try any <a href='https://amzn.to/4ceFnvP'>low calorie sweetener</a>.

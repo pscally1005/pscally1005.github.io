@@ -57,7 +57,7 @@ Description: |
 
   Everyone knows that <a href='/misc/fake-healthy-foods#dips'>ketchup</a> goes great with burgers and <a href='/misc/fake-healthy-foods#potatoes'>fries</a>, so check out my <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/sweet-potato-fries'>Spiced Sweet Potato Fries</a>, or turn it into a bowl with my <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a>.  If you instead want some <a href='/misc/fake-healthy-foods#dips'>barbeque sauce</a>, you should see my <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>
 Instructions:
-- Roughly chop your <a href='/misc/fruit#dates'>dates</a>, and add all ingredients to a medium stainless steel saucepot. Simmer on medium low heat with occasional stirring for 10-15 minutes, then blend until smooth with an <a href='https://amzn.to/3VHhgMM'>immersion blender</a>
+- Roughly chop your <a href='/misc/fruit#dates'>dates</a>, and add all ingredients to a <a href='https://amzn.to/46ccg8m'>medium saucepot</a>. Simmer on medium low heat with occasional stirring for 10-15 minutes, then blend until smooth with an <a href='https://amzn.to/3VHhgMM'>immersion blender</a>
 - <img src='/assets/Food/Savory Sauces/Ketchup/ketchup-blended.jpg' alt='' class='instruction-image'>
 
 - Store in the fridge for up to a week.  This recipe makes about 400 g of ketchup

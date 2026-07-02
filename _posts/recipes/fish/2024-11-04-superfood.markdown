@@ -69,7 +69,7 @@ Instructions:
 
 - |
   <b>Quinoa</b><br>
-  Add quinoa, water, and salt to a small pot. Bring to a boil, cover, reduce to medium, and let simmer for about 12 minutes, until fully cooked. Set aside
+  Add quinoa, water, and salt to a <a href='https://amzn.to/46ccg8m'>small pot</a>. Bring to a boil, cover, reduce to medium, and let simmer for about 12 minutes, until fully cooked. Set aside
 - <img src='/assets/Food/Fish/Superfood/superfood-quinoa.jpg' alt='' class='instruction-image'>
 
 - |

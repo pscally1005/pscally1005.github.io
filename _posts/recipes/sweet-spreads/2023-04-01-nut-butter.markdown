@@ -74,7 +74,7 @@ Instructions:
 
 - Only when it is smooth, season with salt to taste.  You can also add any other flavorings, such as cinnamon, vanilla, or almond extract
 
-- Blend some more to mix it up, make sure it is very very smooth. It should be runny, almost as if it was melted. Store in a mason jar at room temperature
+- Blend some more to mix it up, make sure it is very very smooth. It should be runny, almost as if it was melted. Store in a <a href='https://amzn.to/4vamaBm'>mason jar</a> at room temperature
 Notes:
 - You can use whatever kind of <a href='/misc/nuts'>nuts</a> you like for this recipe.  <a href='/misc/nuts#peanuts'>Peanuts</a>, <a href='/misc/nuts#almonds'>almonds</a>, <a href='/misc/nuts#pistachios'>pistachios</a>, <a href='/misc/nuts#cashews'>cashews</a>, you name it.  For <a href='/misc/nuts'>nut</a> free alternatives, you can also use unsweetened <a href='/misc/nuts#coconut'>shredded coconut flakes</a> or any <a href='/misc/seeds'>seeds</a>, such as <a href='/misc/seeds#sunflower-seeds'>sunflower seeds</a>, <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a>, or <a href='/misc/seeds#sesame-seeds'>sesame seeds</a>.  The concept is exactly the same
 
