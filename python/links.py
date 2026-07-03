@@ -19,7 +19,9 @@ LINKS = {
         "high protein cottage cheese pizza bowl",
         "high protein cottage cheese pizza",
         "cottage cheese pizza bowl",
-        "cottage cheese pizza"
+        "cottage cheese pizza",
+        "high protein pizza bowls",
+        "high protein pizza bowl"
     ],
     "/recipes/vegan-protein-bars": [
         "no-bake vegan protein bars",
