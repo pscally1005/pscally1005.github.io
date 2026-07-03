@@ -29,13 +29,13 @@
         {% endif %}
 
         <!-- Default case: everything is allergen friendly -->
-        {% assign gluten-free = "true" %}
+        {% assign gluten_free = "true" %}
         {% assign vegetarian = "true" %}
-        {% assign dairy-free = "true" %}
+        {% assign dairy_free = "true" %}
         {% assign vegan = "true" %}
-        {% assign nut-free = "true" %}
-        {% assign sugar-free = "true" %}
-        {% assign high-protein = "true" %}
+        {% assign nut_free = "true" %}
+        {% assign sugar_free = "true" %}
+        {% assign high_protein = "true" %}
 
         <!-- Loop through ingredients file -->
         {% for row in site.data[ing] %}
@@ -51,7 +51,7 @@
                     {% if food == row1["Food"] %}
 
                         {% if row1["Gluten Free"] == "FALSE" %}
-                            {% assign gluten-free = "false" %}
+                            {% assign gluten_free = "false" %}
                         {% endif %}
 
                         {% if row1["Vegetarian"] == "FALSE" %}
@@ -59,7 +59,7 @@
                         {% endif %}
 
                         {% if row1["Dairy Free"] == "FALSE" %}
-                            {% assign dairy-free = "false" %}
+                            {% assign dairy_free = "false" %}
                         {% endif %}
 
                         {% if row1["Vegan"] == "FALSE" %}
@@ -67,11 +67,11 @@
                         {% endif %}
 
                         {% if row1["Nut Free"] == "FALSE" %}
-                            {% assign nut-free = "false" %}
+                            {% assign nut_free = "false" %}
                         {% endif %}
 
                         {% if row1["Sugar Free"] == "FALSE" %}
-                            {% assign sugar-free = "false" %}
+                            {% assign sugar_free = "false" %}
                         {% endif %}
 
                     {% endif %}
@@ -109,37 +109,39 @@
             {% assign high_protein = "false" %}
         {% endif %}
 
-        protein_per_100kcal:"{{protein_per_100kcal}}"<br>
-        high_protein:"{{high_protein}}"<br>
+        {% comment %}
+            protein_per_100kcal:"{{protein_per_100kcal}}"<br>
+            high_protein:"{{high_protein}}"<br>
+        {% endcomment %}
 
         <!-- Print allergen info -->
         <center>
-            {% if gluten-free == "true" %}
-                <span class='allergen gluten-free' title="Gluten Free">GF</span>
+            {% if gluten_free == "true" %}
+                <span class='allergen gluten_free' title="Gluten Free">GF</span>
             {% endif %}
 
             {% if vegetarian == "true" %}
                 <span class='allergen vegetarian' title="Vegetarian">V</span>
             {% endif %}
 
-            {% if dairy-free == "true" %}
-                <span class='allergen dairy-free' title="Dairy Free">DF</span>
+            {% if dairy_free == "true" %}
+                <span class='allergen dairy_free' title="Dairy Free">DF</span>
             {% endif %}
 
             {% if vegan == "true" %}
                 <span class='allergen vegan' title="Vegan">VG</span>
             {% endif %}
 
-            {% if nut-free == "true" %}
-                <span class='allergen nut-free' title="Nut Free">NF</span>
+            {% if nut_free == "true" %}
+                <span class='allergen nut_free' title="Nut Free">NF</span>
             {% endif %}
 
-            {% if sugar-free == "true" %}
-                <span class='allergen sugar-free' title="Sugar Free">SF</span>
+            {% if sugar_free == "true" %}
+                <span class='allergen sugar_free' title="Sugar Free">SF</span>
             {% endif %}
 
-            {% if high-protein == "true" %}
-                <span class='allergen high-protein' title="High Protein">HP</span>
+            {% if high_protein == "true" %}
+                <span class='allergen high_protein' title="High Protein">HP</span>
             {% endif %}
         </center>
 

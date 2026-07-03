@@ -77,25 +77,25 @@
         let allergenHTML = '';
 
         if (glutenFree) {
-            allergenHTML += '<span class="allergen gluten-free" title="Gluten Free">GF</span> ';
+            allergenHTML += '<span class="allergen gluten_free" title="Gluten Free">GF</span> ';
         }
         if (vegetarian) {
             allergenHTML += '<span class="allergen vegetarian" title="Vegetarian">V</span> ';
         }
         if (dairyFree) {
-            allergenHTML += '<span class="allergen dairy-free" title="Dairy Free">DF</span> ';
+            allergenHTML += '<span class="allergen dairy_free" title="Dairy Free">DF</span> ';
         }
         if (vegan) {
             allergenHTML += '<span class="allergen vegan" title="Vegan">VG</span> ';
         }
         if (nutFree) {
-            allergenHTML += '<span class="allergen nut-free" title="Nut Free">NF</span> ';
+            allergenHTML += '<span class="allergen nut_free" title="Nut Free">NF</span> ';
         }
         if (sugarFree) {
-            allergenHTML += '<span class="allergen sugar-free" title="Sugar Free">SF</span> ';
+            allergenHTML += '<span class="allergen sugar_free" title="Sugar Free">SF</span> ';
         }
         if (highProtein) {
-            allergenHTML += '<span class="allergen high-protein" title="High Protein">HP</span> ';
+            allergenHTML += '<span class="allergen high_protein" title="High Protein">HP</span> ';
         }
 
         return allergenHTML.trim(); // Return the formatted string
@@ -104,13 +104,13 @@
     // Custom search: word-boundary matching + relevance sort (title > tags > categories > other)
     const searchResultTemplate = `
             <li class="result-item"
-                data-gluten-free="{gluten-free}"
+                data-gluten-free="{gluten_free}"
                 data-vegetarian="{vegetarian}"
-                data-dairy-free="{dairy-free}"
+                data-dairy-free="{dairy_free}"
                 data-vegan="{vegan}"
-                data-nut-free="{nut-free}"
-                data-sugar-free="{sugar-free}"
-                data-high-protein="{high-protein}">
+                data-nut-free="{nut_free}"
+                data-sugar-free="{sugar_free}"
+                data-high-protein="{high_protein}">
                 <a class='post-link' href="{url}">
                     <img src='{image}' alt='' class='blog-roll-image'>
                     <span class='post-meta'>{date}</span>

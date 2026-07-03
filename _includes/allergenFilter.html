@@ -84,8 +84,10 @@
     {% assign high_protein = "false" %}
 {% endif %}
 
-protein_per_100kcal:"{{protein_per_100kcal}}"<br>
-high_protein:"{{high_protein}}"<br>
+{% comment %}
+    protein_per_100kcal:"{{protein_per_100kcal}}"<br>
+    high_protein:"{{high_protein}}"<br>
+{% endcomment %}
 
 {% if post.categories[0] == "Misc." and post.categories[1] != "Unhealthy Recipes" %}
     {% assign gluten_free = "false" %}
