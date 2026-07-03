@@ -56,7 +56,7 @@ Description: I'm not vegan, I'm just trying to get through my 4 lb bag of <a hre
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together dry ingredients - <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, nutritional yeast (or <a href='/misc/dairy#grated-cheese'>grated cheese</a>), chili powder, paprika, onion powder, black pepper, and salt
 
-- In a mason jar, add the broth and soy sauce, cover, and shake. In place of 3/4 cup vegetable broth, you can use 3/4 cup water + 3/4 tsp bouillon powder.  Pour into the dry bowl, and mix to form a dough
+- In a <a href='https://amzn.to/4vamaBm'>mason jar</a>, add the broth and soy sauce, cover, and shake. In place of 3/4 cup vegetable broth, you can use 3/4 cup water + 3/4 tsp bouillon powder.  Pour into the dry bowl, and mix to form a dough
 
 - Knead in the bowl for a few minutes, or until the dough becomes elastic. Shape into a large ball
 - <img src='/assets/Food/Meatless/Seitan/seitan-3.jpg' alt='' class='instruction-image'>

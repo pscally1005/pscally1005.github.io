@@ -60,7 +60,7 @@ tags:
 - vic
 Description: Taco Tuesday was a tradition among friends in college, and this recipe suits a crowd really well. Just like my <a href='/recipes/fajitas'>Chicken Fajitas with Peppers</a> recipe, these are an awesome way for each person to build their own meals and have fun at the table. For a no <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/veggies#onion'>onion</a> version, see my <a href='/recipes/low-fodmap-tacos'>Low FODMAP Chicken Tacos</a> recipe.  Invite some people over to make tacos and whip up some <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a> or <a href='/recipes/guacamole'>Holy Guacamole</a>; what are you waiting for!
 Instructions:
-- Mix together seasonings in a <a href='https://amzn.to/4adxMft'>medium bowl</a> or mason jar and set aside
+- Mix together seasonings in a <a href='https://amzn.to/4adxMft'>medium bowl</a> or <a href='https://amzn.to/4vamaBm'>mason jar</a> and set aside
 
 - Start with the <a href='/misc/veggies'>veggies</a>, since they will take the longest.  Cut your <a href='/misc/veggies#onion'>onions</a> into long thin slices, and add to a <a href='https://amzn.to/4rdR0HI'>12" pan</a> with <a href='/misc/olive-oil'>olive oil</a> over medium heat
 

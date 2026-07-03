@@ -63,7 +63,7 @@ tags:
 - salsa
 Description: These tacos are free of <a href='/misc/veggies#onion'>onion</a> and <a href='/misc/veggies#garlic'>garlic</a>, and are made using ground <a href='/misc/meat#chicken-thighs'>chicken thighs</a> (or any kind of <a href='/misc/meat#ground-beef'>ground meat</a> you prefer; <a href='/misc/meat#ground-beef'>beef</a> or <a href='/misc/meat#ground-turkey'>turkey</a> would work great here too!). These can be served with <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a>, <a href='/recipes/tortilla'>Oat-Wheat Tortillas</a>, <a href='/misc/dairy#cheddar'>shredded cheese</a>, and <a href='/recipes/salsa'>Five Minute Salsa (No Garlic/Onion)</a>. Also check out my standard <a href='/recipes/taco'>Sauteed Taco Meat and Fajita Veggies</a> recipe.
 Instructions:
-- Prepare your spice mix in a mason jar - paprika, cumin, oregano, black pepper, salt, cornstarch, and cayenne
+- Prepare your spice mix in a <a href='https://amzn.to/4vamaBm'>mason jar</a> - paprika, cumin, oregano, black pepper, salt, cornstarch, and cayenne
 
 - Start with the <a href='/misc/veggies#pepper'>peppers</a>, since they will take the longest. Preheat a <a href='https://amzn.to/4rdR0HI'>12" nonstick pan</a> over medium heat. Wash the <a href='/misc/veggies#pepper'>peppers</a>, and cut into long thin strips. Add to the pan with some oil
 

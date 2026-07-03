@@ -57,7 +57,7 @@ tags:
 - fiber
 Description: <a href='/misc/beans#red-lentils'>Red lentils</a> are a fantastic addition to your diet. They're a great <a href='/recipes/sides'>side</a> <a href='/misc/carbs'>carb</a> source that is also high in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>. Red split <a href='/misc/beans#red-lentils'>lentils</a> are just as easy to cook as <a href='/misc/grains#brown-rice'>rice</a>, take a fraction of the time, and are healthier. And they're not that much more expensive too. I got a 1 lb bag for $1.50, and normally <a href='/misc/grains#brown-rice'>brown rice</a> runs me $1 per lb.
 Instructions:
-- Add everything to a small pot. Cover and bring to a boil
+- Add everything to a <a href='https://amzn.to/46ccg8m'>small pot</a>. Cover and bring to a boil
 
 - Keep covered, reduce heat to low to maintain a simmer, and cook for 5-8 minutes, stirring occasionally
 Notes:

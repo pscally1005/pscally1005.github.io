@@ -55,8 +55,8 @@ tags:
 - lime juice
 - lemon juice
 - vic
-Description: Quick pickles add a great color and flavor pop to nearly every dish, and <a href='/misc/veggies#onion'>red onions</a> are my personal favorite <a href='/misc/veggies'>vegetable</a> for this. Simply cover with water and vinegar in a mason jar, wait a few days, and you're done!  You can also check out any of my <a href='/salad-dressings'>salad toppings</a>!
+Description: Quick pickles add a great color and flavor pop to nearly every dish, and <a href='/misc/veggies#onion'>red onions</a> are my personal favorite <a href='/misc/veggies'>vegetable</a> for this. Simply cover with water and vinegar in a <a href='https://amzn.to/4vedGsO'>mason jar</a>, wait a few days, and you're done!  You can also check out any of my <a href='/salad-dressings'>salad toppings</a>!
 Instructions:
-- Cut the <a href='/misc/veggies#onion'>red onions</a> into long thin strips and add to a large mason jar. In a <a href='https://amzn.to/4dFNtMP'>measuring cup</a>, mix together water, vinegar, salt, <a href='/misc/veggies#garlic'>garlic</a>, and dill.  Pour over the sliced <a href='/misc/veggies#onion'>onions</a>, and let pickle in the fridge for at least a few days before eating
+- Cut the <a href='/misc/veggies#onion'>red onions</a> into long thin strips and add to a <a href='https://amzn.to/4vedGsO'>large mason jar</a>. In a <a href='https://amzn.to/4dFNtMP'>measuring cup</a>, mix together water, vinegar, salt, <a href='/misc/veggies#garlic'>garlic</a>, and dill.  Pour over the sliced <a href='/misc/veggies#onion'>onions</a>, and let pickle in the fridge for at least a few days before eating
 Notes:
 ---

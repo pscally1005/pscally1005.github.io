@@ -63,7 +63,7 @@ Instructions:
 - It's time to flavor your <a href='/recipes/natural-peanut-butter'>seed butter</a>. Add in the flavoring ingredients, and blend until smooth and fully combined
 - <img src='/assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/flavored.jpg' alt='' class='instruction-image'>
 
-- Transfer to a mason jar or air tight container, and store at room temperature for up to a week. You can also freeze <a href='/recipes/natural-peanut-butter'>homemade seed butter</a> for later
+- Transfer to a <a href='https://amzn.to/4vamaBm'>mason jar</a> or air tight container, and store at room temperature for up to a week. You can also freeze <a href='/recipes/natural-peanut-butter'>homemade seed butter</a> for later
 Notes:
 - If your <a href='/misc/seeds'>seeds</a> are raw, <a href='https://amzn.to/3FuWETp'>air fry</a> them at 300F for 10 minutes, or roast in the oven at 350F for 12 minutes
 - <img src='/assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/roasted.jpg' alt='' class='instruction-image'>

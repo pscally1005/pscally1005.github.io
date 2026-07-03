@@ -62,7 +62,7 @@ Instructions:
 - Remove from the heat and whisk in vanilla extract.
 - <img src='/assets/Food/Sweet Spreads/SF Choc Syrup/pot.jpg' alt='' class='instruction-image'>
 
-- Let it cool completely before transferring to a mason jar. Store in the fridge for up to 2 weeks, or in the freezer indefinitely.
+- Let it cool completely before transferring to a <a href='https://amzn.to/4vamaBm'>mason jar</a>. Store in the fridge for up to 2 weeks, or in the freezer indefinitely.
 Notes:
 - Using <a href='/misc/hidden-sugar'>sugar</a> instead of <a href='https://amzn.to/4mzsH5p'>allulose</a> yields the following nutrition facts per 1 tbsp (20 g)
 - |

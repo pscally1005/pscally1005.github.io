@@ -52,7 +52,7 @@ tags:
 - sip
 Description: I've had a bunch of fresh <a href='/misc/veggies#ginger'>ginger</a> left over lately, so this has been one of my go to ways to churn through it. Who knew making herbal tea is so easy; just boil water with some sort of flavoring (in this case fresh <a href='/misc/veggies#ginger'>ginger</a> and <a href='/misc/fruit#lemon-juice'>lemon juice</a>), and sip!
 Instructions:
-- In a small pot, bring water to a boil. Add a piece of <a href='/misc/veggies#ginger'>ginger</a> into the pot, and let simmer for 5 minutes
+- In a <a href='https://amzn.to/46ccg8m'>small pot</a>, bring water to a boil. Add a piece of <a href='/misc/veggies#ginger'>ginger</a> into the pot, and let simmer for 5 minutes
 
 - Stir in <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and let sit for a few minutes.  Remove the <a href='/misc/veggies#ginger'>ginger</a>, and optionally some <a href='/misc/natural-sweeteners#honey'>honey</a> if you like it sweeter
 Notes:

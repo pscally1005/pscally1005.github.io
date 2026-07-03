@@ -60,7 +60,7 @@ Description: |
 
   Just let <a href='/misc/seeds#chia-seeds'>chia seeds</a> soak in water for about 10 minutes in order for the <a href='/misc/seeds#chia-seeds'>chia seeds</a> to gelatinize and thicken the water before drinking.  I also like to add some <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> for some flavor and additional health benefits.
 Instructions:
-- Add <a href='/misc/seeds#chia-seeds'>chia seeds</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, and water to a large glass or mason jar. Stir, and let sit for 10-15 minutes before drinking
+- Add <a href='/misc/seeds#chia-seeds'>chia seeds</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, and water to a large glass or <a href='https://amzn.to/4vedGsO'>mason jar</a>. Stir, and let sit for 10-15 minutes before drinking
 Notes:
 - It's normal for it to separate a little bit.  Just give it another shake before drinking
 

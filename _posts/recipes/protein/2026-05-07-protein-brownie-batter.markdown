@@ -59,7 +59,7 @@ Description: |
 Instructions:
 - Mix all ingredients together in a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 
-- Divide into 4 mason jars, about 3/4 cup (200 g) each
+- Divide into 4 <a href='https://amzn.to/4vamaBm'>mason jars</a>, about 3/4 cup (200 g) each
 
 - Store in the fridge for up to 1 week, or in the freezer indefinitely
 Notes:

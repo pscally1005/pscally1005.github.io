@@ -5249,6 +5249,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4vamaBm": [
+        "mason jars",
+        "mason jar",
+        "small mason jars",
+        "small mason jar",
+    ],
+    "https://amzn.to/4vedGsO": [
+        "large mason jars",
+        "large mason jar"
+    ],
     "https://amzn.to/4bidRMq": [
         "hershey's zero sugar chocolate syrup",
         "hershey's sugar free chocolate syrup",
@@ -5343,23 +5353,24 @@ LINKS = {
         "kettle and fire",
         "kettle & fire"
     ],
-    "https://amzn.to/4vLldRa": [
-        "psyllium husks",
-        "psyllium husk",
-        "psyllium",
-        "unflavored psyllium husks",
-        "unflavored psyllium husk",
-        "unflavored psyllium",
-        "plain psyllium husks",
-        "plain psyllium husk",
-        "plain psyllium"
-        "unflavored, plain psyllium husks",
-        "unflavored, plain psyllium husk",
-        "unflavored, plain psyllium"
-        "plain, unflavored psyllium husks",
-        "plain, unflavored psyllium husk",
-        "plain, unflavored psyllium"
-    ],
+    # "https://amzn.to/4vLldRa": [
+    #     "psyllium husks",
+    #     "psyllium husk",
+    #     "psyllium",
+    #     "psyllium's",
+    #     "unflavored psyllium husks",
+    #     "unflavored psyllium husk",
+    #     "unflavored psyllium",
+    #     "plain psyllium husks",
+    #     "plain psyllium husk",
+    #     "plain psyllium"
+    #     "unflavored, plain psyllium husks",
+    #     "unflavored, plain psyllium husk",
+    #     "unflavored, plain psyllium"
+    #     "plain, unflavored psyllium husks",
+    #     "plain, unflavored psyllium husk",
+    #     "plain, unflavored psyllium"
+    # ],
     "https://amzn.to/4dGuPpJ": [
         "rice paper",
         "rice paper wrap"
@@ -5822,6 +5833,14 @@ LINKS = {
         "stainless steel pot"
     ],
     "https://amzn.to/46ccg8m": [
+        "small sauce pot",
+        "small sauce-pot",
+        "small saucepot",
+        "small sauce pots",
+        "small sauce-pots",
+        "small saucepots",
+        "small pot",
+        "small pots",
         "medium saucepot",
         "medium pot"
         "medium sauce pot",
@@ -5905,15 +5924,16 @@ LINKS = {
     ],
 
     # MISC
-    # "/misc/psyllium-husk": [
-    #     "psyllium husks",
-    #     "psyllium husk",
-    #     "psyllium",
-    #     "psyllium husk fiber",
-    #     "psyllium fiber",
-    #     "psyllium husk: hype or healthy?",
-    #     "psyllium husk: hype or healthy"
-    # ],
+    "/misc/psyllium-husk": [
+        "psyllium husks",
+        "psyllium husk",
+        "psyllium",
+        "psyllium's",
+        "psyllium husk fiber",
+        "psyllium fiber",
+        "psyllium husk: hype or healthy?",
+        "psyllium husk: hype or healthy"
+    ],
     "/misc/caffeine": [
         "caffeine",
         "coffee",

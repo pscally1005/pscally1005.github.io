@@ -53,7 +53,7 @@ Description: |
 
   Additionally, <a href='/misc/psyllium-husk'>psyllium</a> also benefits heart health by lowering LDL.  This is basically just a cheaper, chocolate flavored <a href='https://amzn.to/49FHMxv'>Metamucil</a>.  A great way to work extra <a href='/misc/fiber'>fiber</a> into your diet, something that 95% of Americans are lacking in.
 Instructions:
-- Add all ingredients to a mason jar or shaker bottle. Vigorously shake, and chug immediately
+- Add all ingredients to a <a href='https://amzn.to/4vamaBm'>mason jar</a> or shaker bottle. Vigorously shake, and chug immediately
 Notes:
 - Letting this sit for more than a few minutes will cause it to thicken a lot.  It's best to drink this right away, and quickly
 ---

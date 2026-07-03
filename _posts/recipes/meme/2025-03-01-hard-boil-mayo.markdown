@@ -55,7 +55,7 @@ tags:
 - salad
 Description: Most <a href='/misc/fake-healthy-foods#dips'>mayo</a> recipes are made with raw <a href='/misc/meat#eggs'>eggs</a> and tons and tons of oil.  In comparison, here I'm using cooked <a href='/misc/meat#eggs'>eggs</a> and significantly less oil for a lower <a href='/misc/calories'>calorie</a> spread that's just as creamy.  It goes great on a <a href='/salad'>salad</a>, sandwich, roasted <a href='/misc/veggies'>veggies</a>, or <a href='/misc/fish#tuna'>canned tuna</a>.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
 Instructions:
-- Add all ingredients to a <a href='https://amzn.to/3VHhgMM'>small blender or food processor</a>, and blend until smooth. Thin out with water as needed.  Transfer to a mason jar, and store in the fridge for up to 1 week
+- Add all ingredients to a <a href='https://amzn.to/3VHhgMM'>small blender or food processor</a>, and blend until smooth. Thin out with water as needed.  Transfer to a <a href='https://amzn.to/4vamaBm'>mason jar</a>, and store in the fridge for up to 1 week
 Notes:
 - Here's a simple tuna salad I made with a 5 oz can of <a href='/misc/fish#tuna'>tuna</a> (in water, drained) mixed with 2 tbsp (30 g) of <a href='/misc/fake-healthy-foods#dips'>mayo</a>.  I added this <a href='/misc/high-protein'>high protein</a> and lower <a href='/misc/fats'>fat</a> tuna fish on top of a <a href='/salad'>salad</a> for a tuna-salad-salad
 - <img src='/assets/Food/Meme/Hard Boil Mayo/tuna.jpg' alt='' class='instruction-image'>
