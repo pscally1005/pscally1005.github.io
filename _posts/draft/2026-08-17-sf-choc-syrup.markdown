@@ -55,7 +55,7 @@ tags:
 - sweetener
 Description: Say goodbye to <a href='https://amzn.to/4bidRMq'>Hershey's chocolate syrup</a>. This homemade chocolate syrup contains only 5 ingredients, is <a href='/misc/hidden-sugar'>sugar free</a> and <a href='/misc/celiac'>gluten free</a>, and tastes miles better than anything you'd get out of the bottle. Using <a href='https://amzn.to/4mzsH5p'>allulose</a> as the sweetener, this chocolate syrup is extremely sweet and rich in chocolate flavor, all while having a perfect smooth texture without crystalizing.  Did I mention it can be made in just 10 minutes?
 Instructions:
-- Add <a href='https://amzn.to/4mzsH5p'>allulose</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt to a small sauce pot. Whisk until fully combined.
+- Add <a href='https://amzn.to/4mzsH5p'>allulose</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt to a <a href='https://amzn.to/46ccg8m'>medium sized sauce pot</a>. Whisk until fully combined.
 
 - Whisk in the water, cover with a lid, and bring to a boil over high heat. When boiling, remove the cover, reduce heat to low, and let simmer for 1-2 minutes, stirring frequently.
 
