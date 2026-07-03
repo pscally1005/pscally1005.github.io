@@ -62,6 +62,6 @@ Instructions:
 - Divide across 2 <a href='https://amzn.to/4adxMft'>small microwave safe bowls</a>, about 340 g each. Top each bowl with 1/4 cup (28 g) <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>. Add on any other desired toppings.
 - <img src='/assets/Food/Meatless/CC Pizza Bowls/two-bowls.jpg' alt='' class='instruction-image'>
 
-- Cover with a plate and microwave for 2 minutes. Let cool for 1-2 minutes before eating.
+- Cover with a plate and microwave for 1 minute. Let cool for 1 minute before eating.
 Notes:
 ---

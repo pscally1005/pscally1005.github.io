@@ -75,10 +75,12 @@ Notes:
 - |
   COMPARE(
     "veganproteinbar",
-    "veganproteinbarmaple";
+    "veganproteinbarmaple",
+    "veganproteinbaragave";
 
-    "<a href='#recipe'>Sugar Free<br>Syrup</a>",
-    "<a href='#notes'>Maple<br>Syrup</a>";
+    "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>",
+    "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>",
+    "<a href='/misc/natural-sweeteners#agave'>Agave</a>";
 
     "Calories",
     "Protein",
