@@ -4,17 +4,22 @@
 {% assign vegan = "true" %}
 {% assign nut_free = "true" %}
 {% assign sugar_free = "true" %}
+{% assign high_protein = "true" %}
 
 <!-- Use parameters or not -->
 {% assign ing = page.ing %}
+{% assign facts = page.facts %}
 {% if include.ing %}
     {% assign ing = include.ing %}
+    {% assign facts = include.facts %}
 {% elsif include.file %}
     {% assign file = include.file %}
     {% assign ing = file | append: "-ing" %}
+    {% assign facts = file | append: "-facts" %}
 {% elsif post.file %}
     {% assign file = post.file %}
     {% assign ing = file | append: "-ing" %}
+    {% assign facts = file | append: "-facts" %}
 {% endif %}
 
 <!-- Loop through ingredients file to determine allergens -->
@@ -50,6 +55,38 @@
     {% endif %}
 {% endfor %}
 
+<!-- Loop through facts file to determine if high protein -->
+{% assign calories = "0" %}
+{% assign protein = "0" %}
+{% for row in site.data[facts] %}
+    {% assign nutrient = row["Nutrient"] %}
+    {% assign amount = row["Amount"] %}
+
+    {% if nutrient == "Calories" %}
+        {% assign calories = amount %}
+    {% elsif nutrient == "Protein" %}
+        {% assign protein = amount %}
+    {% endif %}
+{% endfor %}
+
+<!-- Determine if high protein -->
+{% assign calories = calories | plus: 0 | floor %}
+{% assign protein = protein | plus: 0 | ceil %}
+{% assign protein_per_100kcal = 0 %}
+
+{% if calories > 0 %}
+  {% assign protein_per_100kcal = protein | times: 100 | divided_by: calories %}
+{% endif %}
+
+{% if protein_per_100kcal >= 10 %}
+    {% assign high_protein = "true" %}
+{% else %}
+    {% assign high_protein = "false" %}
+{% endif %}
+
+protein_per_100kcal:"{{protein_per_100kcal}}"<br>
+high_protein:"{{high_protein}}"<br>
+
 {% if post.categories[0] == "Misc." and post.categories[1] != "Unhealthy Recipes" %}
     {% assign gluten_free = "false" %}
     {% assign vegetarian = "false" %}
@@ -57,4 +94,5 @@
     {% assign vegan = "false" %}
     {% assign nut_free = "false" %}
     {% assign sugar_free = "false" %}
+    {% assign high_protein = "false" %}
 {% endif %}

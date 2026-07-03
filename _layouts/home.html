@@ -46,16 +46,25 @@ layout: base
         <div class='filter-options'>
           <label><input type='checkbox' id='glutenFree' /> Gluten-Free</label>
           <label><input type='checkbox' id='vegetarian' /> Vegetarian</label>
-          <label><input type='checkbox' id='dairyFree' /> Dairy-Free</label>
           <span class="mobile-break"></span>
+          <label><input type='checkbox' id='dairyFree' /> Dairy-Free</label>
           <label><input type='checkbox' id='vegan' /> Vegan</label>
+          <span class="break"></span>
           <label><input type='checkbox' id='nutFree' /> Nut-Free</label>
           <label><input type='checkbox' id='sugarFree' /> Sugar-Free</label>
+          <span class="mobile-break"></span>
+          <label><input type='checkbox' id='highProtein' /> High-Protein</label>
         </div>
       </center>
 
       <style>
-        /* Add a line break only on mobile between Dairy-Free and Vegan */
+        /* Adds a line break to both mobile & desktop */
+        .break {
+          display: block;
+          height: 0; /* optional spacing if needed */
+        }
+
+        /* Add a line break only on mobile */
         @media (max-width: 768px) {
           .mobile-break {
             display: block;
@@ -307,7 +316,8 @@ layout: base
                 data-dairy-free='{{ dairy_free }}'
                 data-vegan='{{ vegan }}'
                 data-nut-free='{{ nut_free }}'
-                data-sugar-free='{{ sugar_free }}'>
+                data-sugar-free='{{ sugar_free }}'
+                data-high-protein='{{ high_protein }}'>
                 <a href='{{ post.url | relative_url }}'>
                   <img src='{{ post.image | relative_url }}' alt='' class='blog-roll-image'>
                   <span class='post-meta'>{{ post.date | date: date_format }}</span>
@@ -418,6 +428,7 @@ layout: base
     var veganChecked = document.getElementById('vegan').checked;
     var nutFreeChecked = document.getElementById('nutFree').checked;
     var sugarFreeChecked = document.getElementById('sugarFree').checked;
+    var highProteinChecked = document.getElementById('highProtein').checked;
 
     var visibleCount = 0;
 
@@ -428,6 +439,7 @@ layout: base
       var postVegan = post.getAttribute('data-vegan') === "true";
       var postNutFree = post.getAttribute('data-nut-free') === "true";
       var postSugarFree = post.getAttribute('data-sugar-free') === "true";
+      var postHighProtein = post.getAttribute('data-high-protein') === "true";
 
       var shouldDisplay = true;
 
@@ -437,6 +449,7 @@ layout: base
       if (veganChecked && !postVegan) shouldDisplay = false;
       if (nutFreeChecked && !postNutFree) shouldDisplay = false;
       if (sugarFreeChecked && !postSugarFree) shouldDisplay = false;
+      if (highProteinChecked && !postHighProtein) shouldDisplay = false;
 
       post.style.display = shouldDisplay ? 'block' : 'none';
 

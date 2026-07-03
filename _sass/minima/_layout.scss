@@ -779,6 +779,7 @@ body {
   --vegan-color: rgb(56, 142, 60);
   --nut-free-color: rgb(255, 152, 0);
   --sugar-free-color: rgb(0, 188, 212);
+  --high-protein-color: rgb(200, 50, 0);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -797,6 +798,7 @@ body {
     --vegan-color: rgb(56, 142, 60);
     --nut-free-color: rgb(255, 152, 0);
     --sugar-free-color: rgb(0, 188, 212);
+    --high-protein-color: rgb(200, 50, 0);
   }
 }
 
@@ -873,7 +875,9 @@ body {
   background-color: var(--sugar-free-color);
 }
 
-
+.high-protein {
+  background-color: var(--high-protein-color);
+}
 
 // Mobile vs desktop
 .mobile-content {

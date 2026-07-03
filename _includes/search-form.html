@@ -73,7 +73,7 @@
 
 <script>
     // Function to format allergens into HTML
-    function formatAllergens(glutenFree, vegetarian, dairyFree, vegan, nutFree, sugarFree) {
+    function formatAllergens(glutenFree, vegetarian, dairyFree, vegan, nutFree, sugarFree, highProtein) {
         let allergenHTML = '';
 
         if (glutenFree) {
@@ -94,6 +94,9 @@
         if (sugarFree) {
             allergenHTML += '<span class="allergen sugar-free" title="Sugar Free">SF</span> ';
         }
+        if (highProtein) {
+            allergenHTML += '<span class="allergen high-protein" title="High Protein">HP</span> ';
+        }
 
         return allergenHTML.trim(); // Return the formatted string
     }
@@ -106,7 +109,8 @@
                 data-dairy-free="{dairy-free}"
                 data-vegan="{vegan}"
                 data-nut-free="{nut-free}"
-                data-sugar-free="{sugar-free}">
+                data-sugar-free="{sugar-free}"
+                data-high-protein="{high-protein}">
                 <a class='post-link' href="{url}">
                     <img src='{image}' alt='' class='blog-roll-image'>
                     <span class='post-meta'>{date}</span>
@@ -240,7 +244,8 @@
             item.getAttribute('data-dairy-free') === "true",
             item.getAttribute('data-vegan') === "true",
             item.getAttribute('data-nut-free') === "true",
-            item.getAttribute('data-sugar-free') === "true"
+            item.getAttribute('data-sugar-free') === "true",
+            item.getAttribute('data-high-protein') === "true"
           );
         }
       });

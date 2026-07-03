@@ -8,19 +8,24 @@
 
         <!-- Use parameters or not -->
         {% assign ing = page.ing %}
+        {% assign facts = page.facts %}
         {% if include.ing %}
             {% assign ing = include.ing %}
+            {% assign facts = include.facts %}
         {% elsif include.file %}
             {% assign file = include.file %}
             {% assign ing = file | append: "-ing" %}
+            {% assign ing = facts | append: "-facts" %}
         {% elsif page.file %}
             {% assign file = page.file %}
             {% assign ing = file | append: "-ing" %}
+            {% assign facts = file | append: "-facts" %}
         {% endif %}
 
         {% if page.layout == "home" %}
             {% assign file = post.file %}
             {% assign ing = file | append: "-ing" %}
+            {% assign facts = file | append: "-facts" %}
         {% endif %}
 
         <!-- Default case: everything is allergen friendly -->
@@ -30,6 +35,7 @@
         {% assign vegan = "true" %}
         {% assign nut-free = "true" %}
         {% assign sugar-free = "true" %}
+        {% assign high-protein = "true" %}
 
         <!-- Loop through ingredients file -->
         {% for row in site.data[ing] %}
@@ -74,6 +80,38 @@
             {% endif %}
         {% endfor %}
 
+        <!-- Determine if high protein -->
+        {% assign calories = "0" %}
+        {% assign protein = "0" %}
+        {% for row in site.data[facts] %}
+            {% assign nutrient = row["Nutrient"] %}
+            {% assign amount = row["Amount"] %}
+
+            {% if nutrient == "Calories" %}
+                {% assign calories = amount %}
+            {% elsif nutrient == "Protein" %}
+                {% assign protein = amount %}
+            {% endif %}
+        {% endfor %}
+
+        <!-- Determine if high protein -->
+        {% assign calories = calories | plus: 0 | floor %}
+        {% assign protein = protein | plus: 0 | ceil %}
+        {% assign protein_per_100kcal = 0 %}
+
+        {% if calories > 0 %}
+            {% assign protein_per_100kcal = protein | times: 100 | divided_by: calories %}
+        {% endif %}
+
+        {% if protein_per_100kcal >= 10 %}
+            {% assign high_protein = "true" %}
+        {% else %}
+            {% assign high_protein = "false" %}
+        {% endif %}
+
+        protein_per_100kcal:"{{protein_per_100kcal}}"<br>
+        high_protein:"{{high_protein}}"<br>
+
         <!-- Print allergen info -->
         <center>
             {% if gluten-free == "true" %}
@@ -98,6 +136,10 @@
 
             {% if sugar-free == "true" %}
                 <span class='allergen sugar-free' title="Sugar Free">SF</span>
+            {% endif %}
+
+            {% if high-protein == "true" %}
+                <span class='allergen high-protein' title="High Protein">HP</span>
             {% endif %}
         </center>
 
