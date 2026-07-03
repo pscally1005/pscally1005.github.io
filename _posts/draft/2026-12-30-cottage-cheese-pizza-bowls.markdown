@@ -54,12 +54,12 @@ tags:
 - high protein
 - basil
 - oregano
-Description: Pizza? In a bowl? High protein? And vegetarian?  This High Protein Pizza Bowl mixes together cottage cheese and tomato sauce for a base, is topped with mozzarella for a perfect pizza in a bowl.  It's a low carb and lower fat option, that has 35 g of protein in a 350 calorie bowl.
+Description: Pizza? In a bowl? <a href='/misc/high-protein'>High protein</a>? And <a href='/recipes/meatless'>vegetarian</a>?  This High Protein Pizza Bowl mixes together <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> and tomato sauce as a base, and is topped with <a href='/misc/dairy#mozzarella'>mozzarella</a> for a perfect pizza in a bowl.  It's a <a href='/misc/carbs'>low carb</a> and lower <a href='/misc/fats'>fat</a> option, that has 35 g of <a href='/misc/protein'>protein</a> in a 350 <a href='/misc/calories'>calorie</a> bowl.
 Instructions:
-- Add cottage cheese, tomato paste, balsamic vinegar, minced garlic, dried basil, dried oregano, garlic powder, onion powder, and red pepper flakes to a medium bowl.  Mix until fully combined with a silicone spatula.
+- Add <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/veggies#tomato'>tomato paste</a>, balsamic vinegar, <a href='/misc/veggies#garlic'>minced garlic</a>, dried basil, dried oregano, garlic powder, onion powder, and red pepper flakes to a <a href='https://amzn.to/4adxMft'>medium bowl</a>.  Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Meatless/CC Pizza Bowls/one-bowl.jpg' alt='' class='instruction-image'>
 
-- Divide across 2 small microwave safe bowls, about 340 g each. Top each bowl with 1/4 cup (28 g) shredded mozzarella. Add on any other desired toppings.
+- Divide across 2 <a href='https://amzn.to/4adxMft'>small microwave safe bowls</a>, about 340 g each. Top each bowl with 1/4 cup (28 g) <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>. Add on any other desired toppings.
 - <img src='/assets/Food/Meatless/CC Pizza Bowls/two-bowls.jpg' alt='' class='instruction-image'>
 
 - Cover with a plate and microwave for 2 minutes. Let cool for 1-2 minutes before eating.

@@ -15,7 +15,7 @@ LINKS = {
         "sourdough pizza crust",
         "sourdough pizza"
     ],
-    "/recipes/cottage-cheese-pizza-bowl": [
+    "/recipes/cottage-cheese-pizza-bowls": [
         "high protein cottage cheese pizza bowl",
         "high protein cottage cheese pizza",
         "cottage cheese pizza bowl",
@@ -2295,7 +2295,8 @@ LINKS = {
     "/misc/whole-wheat-sourdough#starter": [
         "starter",
         "sourdough starter",
-        "whole wheat sourdough starter"
+        "whole wheat sourdough starter",
+        "sourdough discard"
     ],
     "/misc/whole-wheat-sourdough#bread-recipe": [
         "sourdough",
@@ -2319,7 +2320,8 @@ LINKS = {
     ],
     "/recipes/pasta-sauce": [
         "simple pasta sauce",
-        "pasta sauce"
+        "pasta sauce",
+        "marinara sauce"
     ],
     "/recipes/nice-cream": [
         "banana nice cream",
@@ -5784,7 +5786,23 @@ LINKS = {
         "medium bowls",
         "medium bowl",
         "small bowls",
-        "small bowl"
+        "small bowl",
+        "small microwave safe bowls",
+        "small microwave safe bowl",
+        "small microwave-safe bowls",
+        "small microwave-safe bowl",
+        "microwave safe bowls",
+        "microwave safe bowl",
+        "microwave-safe bowls",
+        "microwave-safe bowl",
+        "large microwave safe bowls",
+        "large microwave safe bowl",
+        "large microwave-safe bowls",
+        "large microwave-safe bowl",
+        "medium microwave safe bowls",
+        "medium microwave safe bowl",
+        "medium microwave-safe bowls",
+        "medium microwave-safe bowl"
     ],
     "https://amzn.to/4rb3CiD": [
         "metal bowls",
