@@ -10,6 +10,17 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/sourdough-pizza-dough": [
+        "sourdough pizza dough",
+        "sourdough pizza crust",
+        "sourdough pizza"
+    ],
+    "/recipes/cottage-cheese-pizza-bowl": [
+        "high protein cottage cheese pizza bowl",
+        "high protein cottage cheese pizza",
+        "cottage cheese pizza bowl",
+        "cottage cheese pizza"
+    ],
     "/recipes/vegan-protein-bars": [
         "no-bake vegan protein bars",
         "no bake vegan protein bars",
@@ -2147,11 +2158,11 @@ LINKS = {
         "healthy graham cracker"
     ],
     "/recipes/pizza": [
+        # "pizza",
+        # "pizza dough",
         "home oven baked pizza",
         "homemade pizza dough",
-        "homemade pizza",
-        "pizza dough",
-        "pizza"
+        "homemade pizza"
     ],
     "/recipes/slow-cooked-beans": [
         "slow cooker dried beans",
@@ -2287,7 +2298,9 @@ LINKS = {
     "/misc/whole-wheat-sourdough#bread-recipe": [
         "sourdough",
         "sourdough bread",
-        "whole wheat sourdough bread"
+        "whole wheat sourdough bread",
+        "sourdough loaf",
+        "whole wheat sourdough loaf"
     ],
     "/misc/slow-cooker-chicken": [
         "chicken fat",

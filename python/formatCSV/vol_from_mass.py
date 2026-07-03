@@ -10,7 +10,7 @@ def vol_from_mass(food, mass, vol):
     v = vol
 
     # Sugar, etc.
-    if food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar":
+    if food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar" or food == "Dry yeast":
         if mass == "4":
             v = "1 tsp"
         elif mass == "6":
@@ -172,6 +172,8 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 cup"
         elif mass == "240":
             v = "1 cup"
+        elif mass == "480":
+            v = "2 cup"
 
     # Baguette
     elif food == "Whole wheat baguette":

@@ -1867,7 +1867,7 @@ def grams(food, mass, vol):
             m = "1720"
 
     # Sugar, etc.
-    elif food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar":
+    elif food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar" or food == "Dry yeast":
         if vol == "1 tsp":
             m = "4"
         elif vol == "1/2 tbsp":
@@ -1932,10 +1932,12 @@ def grams(food, mass, vol):
 
     # Sourdough
     elif food == "Sourdough starter":
-        if vol == "1 serving":
+        if vol == "1 serving" or vol == "1/2 cup":
             m = "120"
-        elif vol == "2 serving":
+        elif vol == "2 serving" or vol == "1 cup":
             m = "240"
+        elif vol == "4 serving" or vol == "2 cup":
+            m = "480"
 
     # Baguette
     elif food == "Whole wheat baguette":
