@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Leaner Cubano Casserole
-date:   2026-06-15 00:00:00 -0500
+date:   2026-07-04 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
@@ -80,4 +80,22 @@ Notes:
 
 - For a <a href='/misc/carbs'>low carb</a> Cuban sandwich, serve this on a <a href='/recipes/psyllium-wrap'>High Fiber Psyllium Wrap</a>!
 - <img src='/assets/Food/Chicken/Cubano/cuban-wrap.jpg' alt='' class='instruction-image'>
+
+- |
+    <div id='leaner' class='table-of-contents-2'></div>
+    For an even leaner version, replace the <a href='/misc/meat#ham'>ham</a> with an additional 8 oz (226 g) of <a href='/recipes/shredded-chicken'>cooked chicken</a>, and omit the <a href='/misc/dairy#swiss-cheese'>swiss</a> in both the mixture and the topping.  Add 1/4 cup (20 g) of nutritional yeast into the mixture bowl to add some cheesy flavor to make up for the missing <a href='/misc/dairy#swiss-cheese'>swiss</a>. 
+- |
+  COMPARE(
+    "cubano",
+    "cubanoleaner";
+
+    "<a href='#recipe'>As Is</a>",
+    "<a href='#leaner'>Leaner</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
