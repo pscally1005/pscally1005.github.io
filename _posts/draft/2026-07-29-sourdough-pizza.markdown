@@ -83,4 +83,6 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+
+- You can freeze any leftover raw pizza dough.  After letting the dough rest in the fridge for at least 24 hours, add each dough ball to their own individual airtight bag, and store in the freezer indefinitely
 ---
