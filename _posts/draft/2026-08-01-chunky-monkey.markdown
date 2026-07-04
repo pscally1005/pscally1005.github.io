@@ -17,7 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
-copycat: no
+copycat: yes
 vic: yes
 protein_bar: no
 permalink: /recipes/chunky-monkey
@@ -50,11 +50,11 @@ tags:
 - walnuts
 - chocolate chips
 - frozen bananas
-Description: Chunky Monkey is a Ben & Jerry's classic flavor, being a banana ice cream with chunks of walnuts and chocolate.  Instead of the fat and added sugar bomb of traditional ice cream, this healthy nice cream uses a base of blended frozen bananas to make a delicious and lower calorie treat.  For another Ben & Jerry's copycat nice cream, check out my Cherry Garcia Nice Cream!
+Description: Chunky Monkey is a Ben & Jerry's classic flavor, being a <a href='/misc/fruit#banana'>banana</a> ice cream with chunks of <a href='/misc/nuts#walnuts'>walnuts</a> and <a href='/misc/chocolate-benefits'>chocolate</a>.  Instead of the <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>added sugar</a> bomb of traditional <a href='/recipes/ice-cream'>ice cream</a>, this healthy <a href='/recipes/nice-cream'>nice cream</a> uses a base of blended frozen <a href='/misc/fruit#banana'>bananas</a> to make a delicious and lower <a href='/misc/calories'>calorie</a> treat.  For another Ben & Jerry's <a href='/copycat'>copycat</a> <a href='/recipes/nice-cream'>nice cream</a>, check out my <a href='/recipes/cherry-garcia'>Cherry Garcia Nice Cream</a>!
 Instructions:
-- Add frozen bananas, almond milk, vanilla extract, and salt to a food processor. Blend for about 3-5 minutes, scraping the sides every minute or so, until you have a smooth and creamy ice cream.
+- Add frozen <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, vanilla extract, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend for about 3-5 minutes, scraping the sides every minute or so, until you have a smooth and creamy ice cream.
 
-- Add in the chocolate chips and walnuts. Pulse to roughly chop the walnuts.
+- Add in the chocolate chips and <a href='/misc/nuts#walnuts'>walnuts</a>. Pulse to roughly chop the <a href='/misc/nuts#walnuts'>walnuts</a>.
 - <img src='/assets/Food/Healthier Dessert/Chunky Monkey/provessor.jpg' alt='' class='instruction-image'>
 Notes:
 - Eat now for a more soft-serve like ice cream, or freeze for about 30 minutes to have a texture closer to hard ice cream.

@@ -17,7 +17,7 @@ salad: no
 dressing: no
 brownie: no
 cookie: no
-copycat: no
+copycat: yes
 vic: yes
 protein_bar: no
 permalink: /recipes/cherry-garcia
@@ -50,11 +50,11 @@ tags:
 - frozen cherries
 - chocolate chips
 - frozen bananas
-Description: Cherry Garcia is a Ben & Jerry's classic flavor, being a cherry ice cream with chunks of cherry and chocolate.  Instead of the fat and added sugar bomb of traditional ice cream, this healthy nice cream uses a base of blended frozen bananas and frozen cherries to make a delicious and lower calorie treat.  For another Ben & Jerry's copycat nice cream, check out my Chunky Monkey Nice Cream!
+Description: Cherry Garcia is a Ben & Jerry's classic flavor, being a <a href='/misc/fruit#cherry'>cherry</a> ice cream with chunks of <a href='/misc/fruit#cherry'>cherry</a> and <a href='/misc/chocolate-benefits'>chocolate</a>.  Instead of the <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>added sugar</a> bomb of traditional <a href='/recipes/ice-cream'>ice cream</a>, this healthy <a href='/recipes/nice-cream'>nice cream</a> uses a base of blended frozen <a href='/misc/fruit#banana'>bananas</a> and frozen <a href='/misc/fruit#cherry'>cherries</a> to make a delicious and lower <a href='/misc/calories'>calorie</a> treat.  For another Ben & Jerry's <a href='/copycat'>copycat</a> <a href='/recipes/nice-cream'>nice cream</a>, check out my <a href='/recipes/chunky-monkey'>Chunky Monkey Nice Cream</a>!
 Instructions:
-- Add frozen bananas, frozen cherries, almond milk, vanilla extract, and salt to a food processor. Blend for about 3-5 minutes, scraping the sides every minute or so, until you have a smooth and creamy ice cream.
+- Add frozen <a href='/misc/fruit#banana'>bananas</a>, frozen <a href='/misc/fruit#cherry'>cherries</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, vanilla extract, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend for about 3-5 minutes, scraping the sides every minute or so, until you have a smooth and creamy ice cream.
 
-- Add in the chocolate chips and your remaining cherries. Pulse to roughly chop the additional cherries.
+- Add in the chocolate chips and your remaining <a href='/misc/fruit#cherry'>cherries</a>. Pulse to roughly chop the additional <a href='/misc/fruit#cherry'>cherries</a>.
 - <img src='/assets/Food/Healthier Dessert/Cherry Garcia/provessor.jpg' alt='' class='instruction-image'>
 Notes:
 - Eat now for a more soft-serve like ice cream, or freeze for about 30 minutes to have a texture closer to hard ice cream.
