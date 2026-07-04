@@ -99,7 +99,7 @@
         {% assign protein = protein | plus: 0 | ceil %}
         {% assign protein_per_100kcal = 0 %}
 
-        {% if calories > 0 %}
+        {% if calories > 10 %}
             {% assign protein_per_100kcal = protein | times: 100 | divided_by: calories %}
         {% endif %}
 
