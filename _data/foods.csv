@@ -362,6 +362,7 @@ Frozen overripe bananas,banana,0.58,454.00,0.00128,52,TRUE,TRUE,TRUE,TRUE,TRUE,T
 Banana peel,water,0.58,454.00,0.00128,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Blueberries,blueberries,6.74,504.00,0.01337,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Frozen blueberries,blueberries-frozen,7.24,"1,344.00",0.00539,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Frozen cherries,cherries-frozen,9.12,"1,132.00",0.00806,22,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Blackberries,blackberry,5.14,336.00,0.01530,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Frozen blackberries,blackberries-frozen,3.76,454.00,0.00828,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Strawberries,strawberries,1.88,454.00,0.00414,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,

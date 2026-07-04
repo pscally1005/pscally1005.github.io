@@ -531,6 +531,8 @@ def ingredients(food):
         f = "Frozen butternut squash, thawed"
     elif food == "Blueberries, frozen, wild" or food == "Blueberries, unsweetened, frozen":
         f = "Frozen blueberries"
+    elif food == "Cherries, unsweetened, frozen, red, sour" or food == "Cherries, frozen":
+        f = "Frozen cherries"
     elif food == "Raspberries, frozen" or food == "Raspberries, unsweetened, red, frozen":
         f = "Frozen raspberries"
     elif food == "Spinach, unprepared, chopped or leaf, frozen":

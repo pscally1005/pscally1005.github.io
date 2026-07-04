@@ -197,10 +197,14 @@ def grams(food, mass, vol):
         elif vol == "6 medium":
             m = "660"
 
-    # Frozen blueberries
-    elif food == "Frozen blueberries":
-        if vol == "1 cup":
-            m = "155"
+    # Frozen fruit
+    elif food == "Frozen blueberries" or food == "Frozen cherries":
+        if vol == "1/2 cup":
+            m = "75"
+        elif vol == "1 cup":
+            m = "150"
+        elif vol == "1.5 cup" or vol == "1 1/2 cup":
+            m = "225"
 
     # Mandarin orange
     elif food == "Mandarin orange":

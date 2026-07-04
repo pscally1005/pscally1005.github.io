@@ -349,10 +349,14 @@ def vol_from_mass(food, mass, vol):
         elif mass == "660":
             v = "6 medium"
 
-    # Frozen blueberries
-    elif food == "Frozen blueberries":
-        if mass == "155":
-            vol = "1 cup"
+    # Frozen fruit
+    elif food == "Frozen blueberries" or food == "Frozen cherries":
+        if mass == "75":
+            v = "75"
+        elif mass == "150":
+            v = "1 cup"
+        elif mass == "225":
+            v == "1 1/2 cup"
 
     # Empanadas / pierogi
     elif food == "Empanada/Pierogi dough":
