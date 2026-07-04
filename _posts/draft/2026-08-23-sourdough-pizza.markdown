@@ -63,7 +63,6 @@ Instructions:
 - <img src='/assets/Food/Bread/Sourdough Pizza/raw.jpg' alt='' class='instruction-image'>
 
 - Bake for about 7 minutes (on the parchment paper), or until the crust is solid and browned and the cheese is melted. Let rest for 5 minutes before cutting and serving.
-- <img src='/assets/Food/Bread/Sourdough Pizza/cooked.jpg' alt='' class='instruction-image'>
 Notes:
 - At a 75% hydration rate, this pizza dough is very sticky.  <a href='https://amzn.to/414BfHP'>Kitchen gloves</a> are required to handle this dough, both for kneading it and for shaping into your individual pizzas
 
