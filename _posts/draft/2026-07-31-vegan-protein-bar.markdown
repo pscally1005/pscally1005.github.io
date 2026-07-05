@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  No Bake Vegan Protein Bars
-date:   2026-07-03 00:00:00 -0500
+date:   2026-07-04 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
@@ -18,12 +18,12 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 protein_bar: yes
 permalink: /recipes/vegan-protein-bars
 image: /assets/Food/Protein Powder/Vegan Protein Bars/cover.jpg
 file: veganproteinbar
-servingSize: 1 bar (48 g)
+servingSize: 1 bar (68 g)
 section1: Dry Ingredients
 start2: Water
 section2: Wet Ingredients
@@ -63,12 +63,13 @@ Description: |
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the <a href='https://amzn.to/4aXnK21'>pea protein</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt.
 
-- In a separate bowl, whisk together the water, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and vanilla.
-
-- Pour the wet ingredients into the dry ingredients and mix until a thick dough forms. You should be able to press the dough together without crumbling, but it shouldn't be too sticky.
+- Add in the the water, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and vanilla, and mix with your hand wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>.  The dough should look a little too dry, but hold together easily when pressed.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/bowl.jpg' alt='' class='instruction-image'>
 
-- Firmly press the mixture into a parchment lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>. Refrigerate for at least 2 hours before slicing into 8 <a href='/protein-bar'>protein bars</a>.
+- Firmly press the mixture into a parchment lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.
+- <img src='/assets/Food/Protein Powder/Vegan Protein Bars/pan.jpg' alt='' class='instruction-image'>
+
+- Refrigerate for at least 2 hours before slicing into 8 <a href='/protein-bar'>protein bars</a>.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - You can also make these <a href='/protein-bar'>protein bars</a> with <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> instead of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.
