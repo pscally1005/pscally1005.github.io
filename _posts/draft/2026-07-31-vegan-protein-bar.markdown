@@ -94,5 +94,5 @@ Notes:
     "Added Sugar",
     "Sugar Alcohol"
   )
-- <img src='/assets/Food/Protein Powder/Vegan Protein Bars/cover1.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Protein Powder/Vegan Protein Bars/cover3.jpg' alt='' class='instruction-image'>
 ---
