@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  20 Minute Veggie Soup
-date:   2026-05-26 00:00:00 -0500
+date:   2026-07-05 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
