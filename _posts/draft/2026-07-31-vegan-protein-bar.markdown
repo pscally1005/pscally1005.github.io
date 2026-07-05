@@ -21,7 +21,7 @@ copycat: no
 vic: yes
 protein_bar: yes
 permalink: /recipes/vegan-protein-bars
-image: /assets/Food/Protein Powder/Vegan Protein Bars/cover.jpg
+image: /assets/Food/Protein Powder/Vegan Protein Bars/cover2.jpg
 file: veganproteinbar
 servingSize: 1 bar (68 g)
 section1: Dry Ingredients
@@ -71,6 +71,9 @@ Instructions:
 
 - Refrigerate for at least 2 hours before slicing into 8 <a href='/protein-bar'>protein bars</a>.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/cut.jpg' alt='' class='instruction-image'>
+
+- Store <a href='/protein-bar'>protein bars</a>protein bars</a> in the fridge for up to 1 week, or in the freezer indefinitely.
+- <img src='/assets/Food/Protein Powder/Vegan Protein Bars/store.jpg' alt='' class='instruction-image'>
 Notes:
 - You can also make these <a href='/protein-bar'>protein bars</a> with <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> instead of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.
 - |
@@ -91,4 +94,5 @@ Notes:
     "Added Sugar",
     "Sugar Alcohol"
   )
+- <img src='/assets/Food/Protein Powder/Vegan Protein Bars/cover1.jpg' alt='' class='instruction-image'>
 ---
