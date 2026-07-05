@@ -72,7 +72,7 @@ Instructions:
 - Refrigerate for at least 2 hours before slicing into 8 <a href='/protein-bar'>protein bars</a>.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/cut.jpg' alt='' class='instruction-image'>
 
-- Store <a href='/protein-bar'>protein bars</a>protein bars</a> in the fridge for up to 1 week, or in the freezer indefinitely.
+- Store the <a href='/protein-bar'>protein bars</a>protein bars</a> in the fridge for up to 1 week, or in the freezer indefinitely.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/store.jpg' alt='' class='instruction-image'>
 Notes:
 - You can also make these <a href='/protein-bar'>protein bars</a> with <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> instead of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.
