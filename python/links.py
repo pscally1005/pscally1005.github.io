@@ -10,13 +10,19 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
-    "/recipes/snickers/nice-cream-bar": [
+    "/recipes/snickers-nice-cream-bar": [
         "snickers nice cream bar",
         "snickers ice cream bar",
         "snickers ice cream",
         "snickers nice cream",
         "snickers banana ice cream bar",
-        "snickers banana ice cream"
+        "snickers banana ice cream",
+        "snicker's nice cream bar",
+        "snicker's ice cream bar",
+        "snicker's ice cream",
+        "snicker's nice cream",
+        "snicker's banana ice cream bar",
+        "snicker's banana ice cream"
     ],
     "/recipes/cherry-garcia": [
         "cherry garcia banana ice cream",
@@ -6851,6 +6857,7 @@ EXCLUDED_PHRASES = [
     "certainly be baking",
     "creamy ice cream",
     "like ice cream",
+    "ice cream bar",
     "hard ice cream",
     "short-chain fatty acids",
     "some don't have protein powder",
