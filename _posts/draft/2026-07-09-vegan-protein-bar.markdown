@@ -18,7 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 protein_bar: yes
 permalink: /recipes/vegan-protein-bars
 image: /assets/Food/Protein Powder/Vegan Protein Bars/cover2.jpg
