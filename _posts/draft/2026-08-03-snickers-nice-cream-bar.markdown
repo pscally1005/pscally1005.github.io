@@ -66,7 +66,7 @@ Instructions:
 - Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. Spread the <a href='/recipes/nice-cream'>banana ice cream</a> into an even later on top of the pan. Sprinkle your <a href='/misc/nuts#peanuts'>peanuts</a> over the <a href='/recipes/nice-cream'>nice cream</a>. Pour the melted chocolate over the <a href='/misc/nuts#peanuts'>peanuts</a>, and spread to an even layer. Optionally top the melted chocolate with flaky salt.
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/pan.jpg' alt='' class='instruction-image'>
 
-- Freeze for about 2 hours before slicing into 8 <a href='/recipes/ice-cream'>ice cream</a> bars.
+- Freeze for about 2 hours before slicing into 8 ice cream bars.
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---

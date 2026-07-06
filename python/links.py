@@ -5243,6 +5243,7 @@ LINKS = {
         "amino acid",
         "proteins",
         "protein",
+        '"protein"',
         "complete proteins",
         "complete protein",
         "Protein: The Essential Building Blocks",
@@ -6264,7 +6265,11 @@ LINKS = {
         "protein bar recipes",
         "protein bar recipe",
         "protein bars",
-        "protein bar"
+        "protein bar",
+        '"protein" bars',
+        '"protein" bar',
+        '"protein" bar recipes',
+        '"protein" bar recipe'
     ],
 
     # RECIPE TYPES
@@ -6858,10 +6863,11 @@ EXCLUDED_PHRASES = [
     "creamy ice cream",
     "like ice cream",
     "ice cream bar",
+    "ice cream bars",
     "hard ice cream",
     "short-chain fatty acids",
-    "some don't have protein powder",
-    "happens to have protein powder",
+    # "some don't have protein powder",
+    # "happens to have protein powder",
     "have your cake",
     "this cake",
     "the cake",
@@ -7981,7 +7987,7 @@ EXCLUDED_PHRASES = [
     "egg sandwiches",
     "cinnamon rolls",
     "cinnamon roll",
-    '"protein"',
+    # '"protein"',
     '"whole-grain"',
     # "rice cakes",
     # "rice cake",

@@ -57,9 +57,9 @@ tags:
 - coconut oil
 - extra virgin coconut oil
 Description: |
-  Most vegan "protein" bar recipes on the internet are not a <a href='/protein-bar'>protein bar</a>.  They're an energy bar (aka a <a href='/misc/carbs'>carb</a> or <a href='/misc/fats'>fat</a> bar) that happens to have protein powder in it. Some don't have protein powder at all, just using <a href='/misc/nuts'>nuts</a> or something for their sole <a href='/misc/protein'>protein</a> source.<br><br>
+  Most vegan <a href='/protein-bar'>"protein" bar recipes</a> on the internet are not a <a href='/protein-bar'>protein bar</a>, they're an energy bar.  They're usually loaded with <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, and <a href='/nut-butter'>nut butter</a>, and just happen to contain some <a href='https://amzn.to/4aXnK21'>protein powder</a>. Some don't even use <a href='https://amzn.to/4aXnK21'>protein powder</a> at all, relying on <a href='/misc/nuts'>nuts</a> as their primary <a href='/misc/protein'>"protein"</a> source.<br><br>
 
-  In comparison, this vegan protein bar is an actual <a href='/protein-bar'>protein bar</a>.  Each bar contains 19 g of <a href='/misc/protein'>protein</a> in under 120 <a href='/misc/calories'>calories</a>, with just a little bit of <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a> to keep the <a href='/misc/protein'>protein</a> ratio in check.  They're no bake, easy to prepare, freeze well, and are free of <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/celiac'>gluten</a>, and <a href='/misc/nuts'>nuts</a> in addition to being vegan.
+  This vegan <a href='/protein-bar'>protein bar</a> is different.  Each bar contains 19 g of <a href='/misc/protein'>protein</a> for under 120 <a href='/misc/calories'>calories</a>, with just enough <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a> to improve the texture and taste while keeping the <a href='/misc/protein'>protein</a> to <a href='/misc/calories'>calorie</a> ratio in check.  They're no bake, easy to make, freeze well, and are naturally vegan, <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, and <a href='/misc/nuts'>nut free</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the <a href='https://amzn.to/4aXnK21'>pea protein</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt.
 
@@ -72,7 +72,7 @@ Instructions:
 - Refrigerate for at least 2 hours before slicing into 8 <a href='/protein-bar'>protein bars</a>.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/cut.jpg' alt='' class='instruction-image'>
 
-- Store the <a href='/protein-bar'>protein bars</a>protein bars</a> in the fridge for up to 1 week, or in the freezer indefinitely.
+- Store the <a href='/protein-bar'>protein bars</a> in the fridge for up to 1 week, or in the freezer indefinitely.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/store.jpg' alt='' class='instruction-image'>
 Notes:
 - You can also make these <a href='/protein-bar'>protein bars</a> with <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> instead of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.
