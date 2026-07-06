@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Italian Chaos Rice
-date:   2026-05-11 00:00:00 -0500
+date:   2026-07-06 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

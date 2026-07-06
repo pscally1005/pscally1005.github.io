@@ -615,7 +615,7 @@ def vol_from_mass(food, mass, vol):
     elif food == "Extra virgin coconut oil" or food == "Extra virgin coconut oil, or extra virgin olive oil" or food == "Canola oil" or food == "Vegetable oil" or food == "Unsalted butter" or food == "Salted butter":
         if mass == "2.5":
             v = "1/2 tsp"
-        elif mass == "5":
+        elif mass == "5" or mass == "4":
             v = "1 tsp"
         elif mass == "7":
             v = "1/2 tbsp"
