@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Sourdough Pizza Dough
-date:   2026-07-03 00:00:00 -0500
+date:   2026-07-07 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -43,7 +42,23 @@ Source4:
 Source5:
 whisk: https://s.samsungfood.com/3INT7
 tags:
-- TODO
+- sourdough bread
+- sourdough starter
+- sourdough pizza
+- pizza
+- tomato sauce
+- simple paste sauce
+- marinara sauce
+- pesto
+- mozzarella cheese
+- shredded mozzarella
+- italian
+- pizza dough
+- whole wheat flour
+- flatbread
+- ferment
+- sourdough discard flatbread
+- discard
 Description: |
   This recipe is the perfect way to use up multiple batches worth of <a href='/misc/whole-wheat-sourdough#starter'>sourdough discard</a>.  When I need to wake up my <a href='/misc/whole-wheat-sourdough#starter'>starter</a> to make a full <a href='/misc/whole-wheat-sourdough#bread-recipe'>sourdough loaf</a>, I feed my <a href='/misc/whole-wheat-sourdough#starter'>starter</a> every day for a few days, and save each day's worth of <a href='/misc/whole-wheat-sourdough#starter'>discard</a>.  Putting that all together after 4 days gave me the basis for this recipe.<br><br>
 

@@ -18,7 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 protein_bar: no
 permalink: /recipes/protein-cake
 image: /assets/Food/Protein Powder/Protein Cake/cover.jpg
