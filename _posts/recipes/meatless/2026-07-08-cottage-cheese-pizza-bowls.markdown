@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  High Protein Cottage Cheese Pizza Bowls
-date:   2026-07-03 00:00:00 -0500
+date:   2026-07-08 00:00:00 -0500
 categories:
 - Recipes
 - Meatless
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
