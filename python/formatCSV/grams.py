@@ -2007,6 +2007,13 @@ def grams(food, mass, vol):
         elif vol == "3 cup chopped" or vol == "1 bunch":
             m = "180"
 
+    # Electrolyte powder
+    elif food == "Homemade electrolyte powder" or food == "Homemade electrolyte powder, glycinate" or food == "Homemade electrolyte powder, citrate":
+        if vol == "1/2 serving":
+            m = "1.7"
+        elif vol == "1 serving":
+            m = "3.4"
+
     return m
 
 def main(path = ""):

@@ -178,6 +178,12 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "lmnt-glycinate":
+        f = "Homemade electrolyte powder"
+        # f = "Homemade electrolyte powder, glycinate"
+    elif food == "lmnt-citrate":
+        # f = "Homemade electrolyte powder"
+        f = "Homemade electrolyte powder, citrate"
     elif food == "Sweetener, agave, syrup":
         f = "Agave"
     elif food == "Protein cookie by QUEST":

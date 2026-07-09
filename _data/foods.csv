@@ -518,6 +518,9 @@ Magnesium Glycinate,magnesium-glycinate,17.95,250.00,0.07180,0,TRUE,TRUE,TRUE,TR
 Citric acid,citric-acid,19.99,"2,270.00",0.00881,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3WEWlKL
 Nutricost Electrolyte Mix,electrolyte-mix,17.95,341.00,0.05264,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FxWcDZ
 Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4layTR1
+Homemade electrolyte mix,lmnt-glycinate,1.95,98.20,0.01986,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/electrolyte-powder
+"Homemade electrolyte mix, citrate",lmnt-citrate,1.63,102.60,0.01589,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/electrolyte-powder
+"Homemade electrolyte mix, glycinate",lmnt-glycinate,1.95,98.20,0.01986,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/electrolyte-powder
 Inulin,inulin,49.99,"1,816.00",0.02753,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,https://amzn.to/47w8h7R
 High Fiber Inulin Syrup,inulin-syrup,1.74,160.00,0.01088,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,/recipes/inulin-syrup
 Chicken bouillon powder,bouillon-powder,5.98,896.00,0.00667,41,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hco5lz

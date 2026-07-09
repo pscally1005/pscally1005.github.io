@@ -2784,7 +2784,9 @@ LINKS = {
         "copycat LMNT electrolyte powder",
         "homemade electrolyte powder",
         "LMNT",
-        "electrolyte powder"
+        "electrolyte powder",
+        "homemade electrolyte drink mix",
+        "homemade electrolyte drink",
     ],
     "/misc/rotisserie-chicken-cost-analysis": [
         "store-bought rotisserie chicken",

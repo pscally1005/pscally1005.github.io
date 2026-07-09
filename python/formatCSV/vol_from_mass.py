@@ -1696,7 +1696,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "24":
             v = "4 tsp"
 
-    # Cilantro
+    # Fresh herbs
     elif food == "Cilantro, fresh" or food == "Mint, fresh" or food == "Parsley, fresh":
         if mass == "5":
             v = "1/3 cup"
@@ -1706,6 +1706,13 @@ def vol_from_mass(food, mass, vol):
             v = "2 1/2 cup"
         elif mass == "180":
             v = "1 bunch"
+
+    # Electrolyte powder
+    elif food == "Homemade electrolyte powder" or food == "Homemade electrolyte powder, glycinate" or food == "Homemade electrolyte powder, citrate":
+        if mass == "1.7" or mass == "1.6":
+            v = "1/2 serving"
+        elif mass == "3.4" or mass == "3.3":
+            v = "1 serving"
 
     return v
 

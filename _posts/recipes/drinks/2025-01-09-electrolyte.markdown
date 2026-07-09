@@ -60,7 +60,7 @@ Instructions:
 - In a small container, mix together <a href='https://amzn.to/43xsRBI'>Sodium Chloride</a>, <a href='https://amzn.to/3P2NFNU'>Potassium Chloride</a>, and <a href='https://amzn.to/4jl3nx0'>Magnesium Malate</a>
 - <img src='/assets/Food/Drinks/LMNT/bowls.jpg' alt='' class='instruction-image'>
 Notes:
-- This is your unflavored base recipe, which makes 30 servings.  When you want to make a drink, just stir a <b>3.3 g</b> scoop of your mix into 16-32 oz (480-960 g) of water
+- This is your unflavored base recipe, which makes 30 servings.  When you want to make a drink, just stir a <b>3.3 g</b> scoop of your mix into 16 - 32 oz (480 - 960 g) of water
 
 - Optionally, add a splash of <a href='/misc/fruit#lemon'>lemon</a> or <a href='/misc/fruit#lime-juice'>lime juice</a>, and a squirt of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>
 
@@ -68,4 +68,28 @@ Notes:
 - INGREDIENTS(lmntglycinate)
 
 - If you want to make it <a href='/misc/sodium'>sodium</a> free, just leave out the salt (<a href='https://amzn.to/43xsRBI'>Sodium Chloride</a>).  Each serving is then <b>0.77 g</b>
+
+- |
+  <div id='acv' class='table-of-contents-2'></div>
+  Here's a simple formula I do often for a homemade electrolyte drink, using the magnesium glycinate vairant of the electrolyte powder
+- INGREDIENTS(acvlmnt)
+
+- |
+  <div id='juice' class='table-of-contents-2'></div>
+  Or here's an even simpler alternative
+- INGREDIENTS(juicelmnt)
+
+- |
+  COMPARE(
+    "acvlmnt",
+    "juicelmnt";
+
+    "<a href='#acv'>ACV</a>",
+    "<a href='#juice'>Juice</a>";
+
+    "Calories",
+    "Sodium",
+    "Magnesium",
+    "Potassium"
+  )
 ---

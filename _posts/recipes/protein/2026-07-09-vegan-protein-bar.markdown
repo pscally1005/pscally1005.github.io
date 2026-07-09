@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  No Bake Vegan Protein Bars
-date:   2026-07-04 00:00:00 -0500
+date:   2026-07-09 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
