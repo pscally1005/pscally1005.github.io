@@ -495,6 +495,8 @@ Ground chicken,chicken-thighs,3.42,454.00,0.00753,0,TRUE,FALSE,TRUE,FALSE,TRUE,T
 "Ground turkey, 93/7",ground-turkey,3.99,454.00,0.00879,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Tomato Turkey Tacos,tomato-turkey-taco,7.68,630.00,0.01219,31,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,27,/recipes/tomato-turkey-taco
 "Ground beef, 93/7",ground-beef,4.49,454.00,0.00989,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Ground beef, 80/20",80-20-beef-100cal,5.50,454.00,0.01211,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Protein Black Bean Burgers,bean-burger-pea-100cal,5.07,780.00,0.00650,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/black-bean-burger
 Beef liver,liver,3.29,454.00,0.00725,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Beef top sirloin,steak,7.82,454.00,0.01722,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Ham, cooked",ham-cooked,3.99,454.00,0.00879,28,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,

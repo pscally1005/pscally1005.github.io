@@ -68,7 +68,7 @@ def vol_from_mass(food, mass, vol):
 
     # Drained and rinsed beans
     if food == "Chickpeas, drained and rinsed" or food == "Black beans, drained and rinsed" or food == "Kidney beans, drained and rinsed" or food == "Pinto beans, drained and rinsed" or food == "Cannellini beans, drained and rinsed" or food == "Great northern beans, drained and rinsed" or food == "Navy beans, drained and rinsed" or food == "Beans, drained and rinsed" or food == "Cooked black beans" or food == "Cooked navy beans" or food == "Slow Cooker Dried Beans":
-        if mass == "255":
+        if mass == "255" or mass == "267":
             v = "15.5 oz can"
         elif mass == "128":
             v = "1/2 15.5 oz can"

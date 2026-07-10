@@ -695,7 +695,21 @@ LINKS = {
         "Protein Black Bean Burgers",
         "protein black bean burger",
         "black bean burgers",
-        "black bean burger"
+        "black bean burger",
+        "protein bean burgers",
+        "protein bean burger",
+        "black bean patties",
+        "black bean patty",
+        "bean patties",
+        "bean patty",
+        "Protein chickpea Burgers",
+        "protein chickpea burger",
+        "chickpea burgers",
+        "chickpea burger",
+        "protein chickpea burgers",
+        "protein chickpea burger",
+        "chickpea patties",
+        "chickpea patty"
     ],
     "/recipes/black-bean-date-brownies": [
         "Black Bean Date Brownies"
@@ -6343,7 +6357,15 @@ LINKS = {
         "vegetarian meal",
         "vegetarian",
         "vegetarians",
-        "vegetarian dishes"
+        "vegetarian dishes",
+        "plant-based meals",
+        "plant-based meal",
+        "plant-based",
+        "plant based meals",
+        "plant based meal",
+        "plant based",
+        "plant-based dishes",
+        "plant based dishes"
     ],
     "/recipes/meme": [
         "meme recipes",
@@ -7970,7 +7992,9 @@ EXCLUDED_PHRASES = [
     "fermented juice",
     "rice vinegars",
     "rice vinegar",
-    "dairy free",
+    # "nut free",
+    # "nut-free",
+    # "dairy free",
     "dairy-free",
     "quail eggs",
     "quail egg",

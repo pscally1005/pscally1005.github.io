@@ -750,6 +750,10 @@ def ingredients(food):
         f = "Ground chicken thighs"
     elif food == str("Turkey, raw, 7% fat, 93% lean, ground"):
         f = "Ground turkey, 93/7"
+    elif food == "Beef, raw, 80% lean meat / 20% fat, ground":
+        f = "Ground beef, 80/20"
+    elif food == "bean-burger-pea":
+        f = "Protein Black Bean Burgers"
     elif food == "tomato-turkey-taco":
         f = "Tomato Turkey Tacos"
     elif food == "Tilapia fillet" or food == "Fish, raw, tilapia":
