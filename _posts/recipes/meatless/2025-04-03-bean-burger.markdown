@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Protein Black Bean Burgers
-date:   2026-07-09 00:00:00 -0500
+date:   2025-04-03 00:00:00 -0500
 categories:
 - Recipes
 - Meatless
