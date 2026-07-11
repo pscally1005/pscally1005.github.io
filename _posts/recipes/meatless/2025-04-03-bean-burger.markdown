@@ -18,7 +18,7 @@ brownie: no
 cookie: no
 copycat: no
 vic: no
-protein_bar: no
+protein_bar: yes
 permalink: /recipes/black-bean-burger
 image: /assets/Food/Meatless/Bean Burger/coverNew.jpg
 file: beanburgerpea
@@ -62,7 +62,7 @@ tags:
 - vegan burger
 - vegan patty
 Description: |
-  <a href='/misc/beans#black-beans'>Black bean</a> burgers are a common <a href='/recipes/meatless'>plant based</a> hamburger option, with a moderate amount of <a href='/misc/protein'>protein</a>, <a href='/misc/fiber'>fiber</a>, and complex <a href='/misc/carbs'>carbs</a>. However; <a href='/misc/beans'>beans</a> are significantly lower in <a href='/misc/protein'>protein</a> than <a href='/misc/meat'>meat</a>, and it isn't a complete <a href='/misc/protein'>protein</a>. To solve this problem, I'm adding some <a href='https://amzn.to/4aXnK21'>unflavored pea protein powder</a> into the burger mix to closer mimic the nutritional information of a standard <a href='/misc/meat#ground-beef'>beef</a> patty while keeping it vegan.
+  <a href='/misc/beans#black-beans'>Black bean</a> burgers are a common <a href='/recipes/meatless'>plant based</a> hamburger option, with a moderate amount of <a href='/misc/protein'>protein</a>, <a href='/misc/fiber'>fiber</a>, and complex <a href='/misc/carbs'>carbs</a>. However; <a href='/misc/beans'>beans</a> are significantly lower in <a href='/misc/protein'>protein</a> than <a href='/misc/meat'>meat</a>, and <a href='/misc/beans'>beans</a> aren't a complete <a href='/misc/protein'>protein</a>. To solve this problem, I'm adding some <a href='https://amzn.to/4aXnK21'>unflavored pea protein powder</a> into the burger mix to closer mimic the nutritional information of a standard <a href='/misc/meat#ground-beef'>beef</a> patty while keeping it vegan.
 Instructions:
 - Preheat your oven to 400F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.  Drain and rinse your <a href='/misc/beans'>beans</a>, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Roughly mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a> or the back of a fork.
 - <img src='/assets/Food/Meatless/Bean Burger/beans.jpg' alt='' class='instruction-image'>
@@ -85,13 +85,13 @@ Notes:
 
 - When draining the <a href='/misc/beans'>beans</a>, save the liquid (aquafaba).  You can use this in place of plain water in step 4.
 
-- For some topping options, you can pair these bean burgers with a <a href='/recipes/cottage-cheese-rolls'>Cottage Cheese Oat Roll</a>, and top it with <a href='/recipes/roasted-onion'>Roasted Onions</a> and <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>.  But you can't have burgers without <a href='/misc/fake-healthy-foods#potatoes'>fries</a>, so make sure to check out my <a href='/recipes/waffle-fries'>Sweet Potato Waffle Fries</a> for a healthier twist on the classic combo!
+- For some topping options, you can pair <a href='#recipe'>these bean burgers</a> with a <a href='/recipes/cottage-cheese-rolls'>Cottage Cheese Oat Roll</a>, and top it with <a href='/recipes/roasted-onion'>Roasted Onions</a> and <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>.  But you can't have burgers without <a href='/misc/fake-healthy-foods#potatoes'>fries</a>, so make sure to check out my <a href='/recipes/waffle-fries'>Sweet Potato Waffle Fries</a> for a healthier twist on the classic combo!
 - <img src='/assets/Food/Meatless/Bean Burger/archive/cover.jpg' alt='' class='instruction-image'>
 
 - Instead of making a burger, here I made a burger bowl by crumbling 2 patties over a <a href='/recipes/salad-base'>Salad Base</a>, and topping it with <a href='/recipes/bbq-sauce'>Unsweetened BBQ Sauce</a>, sauerkraut, and dijon mustard.
 - <img src='/assets/Food/Meatless/Bean Burger/burger-bowl.jpg' alt='' class='instruction-image'>
 
-- You can also make this as a "meat"-loaf by baking for 1 hour at 350F in a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>.
+- You can also make this as a "meat"-loaf by baking for 1 hour at 350F in a parchment lined <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>.
 - <img src='/assets/Food/Meatless/Bean Burger/bean-loaf.jpg' alt='' class='instruction-image'>
 
 
@@ -123,7 +123,7 @@ Notes:
 
 - |
   <div id='compared-to-beef' class='table-of-contents-2'></div>
-  On a per <a href='/misc/calories'>calorie</a> basis, <a href='#recipe'>these bean burgers</a> have more <a href='/misc/protein'>protein</a> than the standard 80/20 <a href='/misc/meat#ground-beef'>ground beef</a> that would be typically used to make burgers, as well as less <a href='/misc/fats'>fat</a> and more <a href='/misc/fiber'>fiber</a>.  Below is a nutritional comparison per <a href='/misc/calories'>calories</a> for the bean burgers (~80 g raw), and 80/20 <a href='/misc/meat#ground-beef'>ground beef</a> (~39 g raw).
+  On a per <a href='/misc/calories'>calorie</a> basis, <a href='#recipe'>these bean burgers</a> have more <a href='/misc/protein'>protein</a> than the standard 80/20 <a href='/misc/meat#ground-beef'>ground beef</a> that would be typically used to make burgers, as well as less <a href='/misc/fats'>fat</a> and more <a href='/misc/fiber'>fiber</a>.  Below is a nutritional comparison per 100 <a href='/misc/calories'>calories</a> for the <a href='#recipe'>bean burgers</a> (~80 g raw), and 80/20 <a href='/misc/meat#ground-beef'>ground beef</a> (~39 g raw).
 - |
   COMPARE(
     "bean-burger-pea-100cal",

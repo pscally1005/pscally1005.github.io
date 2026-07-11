@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  'Recession Beans: A $1 Meal'
-date:   2026-06-27 00:00:00 -0500
+date:   2026-07-11 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
