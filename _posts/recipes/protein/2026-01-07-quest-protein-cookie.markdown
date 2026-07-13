@@ -61,7 +61,9 @@ tags:
 Description: |
   Instead of a <a href='/protein-bar'>protein bar</a>, why not a <a href='/misc/protein'>protein</a> <a href='/cookies'>cookie</a>?  This recipe is a direct <a href='/copycat'>copycat</a> of the <a href='https://amzn.to/3YppdYq'>Quest Protein Cookies</a>, having the exact same macros for a fraction of the price and ingredients list.<br><br>
 
-  Instead of $2.08 for each storebought <a href='/cookies'>cookie</a>, my homemade <a href='/copycat'>copycat</a> is just $1.20, about half the price.  I'm making just 1 <a href='/cookies'>cookie</a> today, but you can easily scale this up to make a larger batch.
+  Instead of $2.08 for each storebought <a href='/cookies'>cookie</a>, my homemade <a href='/copycat'>copycat</a> is just $1.20, about half the price.  I'm making just 1 <a href='/cookies'>cookie</a> today, but you can easily scale this up to make a larger batch.<br><br>
+
+  For another <a href='/misc/protein'>protein</a> <a href='/cookies'>cookie</a> recipe, check out my <a href='/recipes/banana-nut-protein-cookies'>Vegan Protein Cookies</a>.
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F
 
