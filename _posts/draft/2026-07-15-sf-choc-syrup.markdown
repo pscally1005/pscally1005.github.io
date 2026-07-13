@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sugar Free Chocolate Syrup
-date:   2026-06-30 00:00:00 -0500
+date:   2026-07-13 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
@@ -57,7 +57,7 @@ Description: Say goodbye to <a href='https://amzn.to/4bidRMq'>Hershey's chocolat
 Instructions:
 - Add <a href='https://amzn.to/4mzsH5p'>allulose</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt to a <a href='https://amzn.to/46ccg8m'>medium sized sauce pot</a>. Whisk until fully combined.
 
-- Whisk in the water, cover with a lid, and bring to a boil over high heat. When boiling, remove the cover, reduce heat to low, and let simmer for 1-2 minutes, stirring frequently.
+- Whisk in the water, cover with a lid, and bring to a boil over high heat.  Once at a boil, remove the cover.  Keep the heat on high, and whisk continously for 2 minutes, alternating between on and off the heat every 10 seconds.
 
 - Remove from the heat and whisk in vanilla extract.
 - <img src='/assets/Food/Sweet Spreads/SF Choc Syrup/pot.jpg' alt='' class='instruction-image'>
