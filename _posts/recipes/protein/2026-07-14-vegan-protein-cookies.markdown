@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Vegan Protein Cookies
-date:   2026-07-13 00:00:00 -0500
+date:   2026-07-14 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -61,7 +60,7 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a> with a fork until smooth. Add in the <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4aXnK21'>protein powder</a>, baking powder, salt, vanilla, and <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>. Mix until combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Protein Powder/Banana Nut Protein Cookies/bowlNew.jpg' alt='' class='instruction-image'>
 
-- Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking, scoop the cookie dough into large balls onto the pan, about <b>68 g</b>.  Flatten to a 1/4" thick circle.
+- Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking, scoop the cookie dough into large balls onto the pan, about <b>68 g</b> each.  Flatten to a 1/4" thick circle.
 - <img src='/assets/Food/Protein Powder/Banana Nut Protein Cookies/rawNoChoc.jpg' alt='' class='instruction-image'>
 
 - Press the chocolate chips into the top, about 1 tsp (6 g) per <a href='/cookies'>cookie</a>.
