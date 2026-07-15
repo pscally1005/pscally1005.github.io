@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Sugar Free Chocolate Syrup
-date:   2026-07-13 00:00:00 -0500
+date:   2026-07-15 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
