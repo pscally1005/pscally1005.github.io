@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Fresh Veggie Spring Rolls
-date:   2026-06-06 00:00:00 -0500
+date:   2026-07-16 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
