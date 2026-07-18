@@ -21,12 +21,12 @@ copycat: no
 vic: no
 protein_bar: yes
 permalink: /recipes/protein-cheesecake-brownies
-image: /assets/Food/Protein Powder/Brownie Cheesecake/cover1.jpg
+image: /assets/Food/Protein Powder/Brownie Cheesecake/cover3.jpg
 file: browniecheesecake
-servingSize:
-section1:
-start2:
-section2:
+servingSize: 1 bat (~115 g)
+section1: Brownie Layer
+start2: Plain nonfat greek yogurt
+section2: Cheesecake Layer
 start3:
 section3:
 start4:
@@ -56,34 +56,34 @@ tags:
 - nut free
 - gluten free
 - protein bar
-Description: New baked protein bar just dropped.  Delicious and fudgy chocolate brownie bars topped with a creamy cheesecake layer. Each of these 4 protein bars has over 15 g of protein in about 130 calories, while being free of gluten, nuts, and added sugar.
+Description: New baked <a href='/protein-bar'>protein bar</a> just dropped.  Delicious and fudgy chocolate brownie bars topped with a creamy cheesecake layer. Each of these 4 <a href='/protein-bar'>protein bars</a> has over 15 g of <a href='/misc/protein'>protein</a> in about 130 <a href='/misc/calories'>calories</a>, while being free of <a href='/misc/celiac'>gluten</a>, <a href='/misc/nuts'>nuts</a>, and <a href='/misc/hidden-sugar'>added sugar</a>.
 Instructions:
-- Preheat your oven to 350F, and line a 9x5" bread pan with parchment paper. Lightly grease with oil.
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease with oil</a>.
 
-- In a medium bowl, mix together the brownie ingredients with a silicone spatula until fully combined - applesauce, egg, whey, cocoa, baking powder, and salt.
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the brownie ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, baking powder, and salt.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/brownie-bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan. Wipe out the excess brownie batter from the bowl with a paper towel.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/brownie-pan.jpg' alt='' class='instruction-image'>
 
-- Add your cheesecake ingredients to the bowl, and mix until fully combined with a silicone spatula - yogurt, egg, vanilla, liquid sweetener, and salt.
+- Add your cheesecake ingredients to the bowl, and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/meat#eggs'>egg</a>, vanilla, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, and salt.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/cheesecake-bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the cheesecake batter to the pan on top of the brownie layer. Optionally swirl together the brownie and cheesecake layers with a butter knife.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/cheesecake-pan.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 35 minutes, or until the top just looks set, and center just slightly jiggles when you tap the side of the pan. The internal temperature will be about 190F, and a toothpick will not come out clean.
+- Bake at 350F for about 35 minutes, or until the top just looks set, and center just slightly jiggles when you tap the side of the pan. The <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be about <a href='https://amzn.to/4kmobG2'>190F</a>, and a toothpick will not come out clean.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/baked.jpg' alt='' class='instruction-image'>
 
 - Transfer the pan to the fridge, and chill for at least 2 hours before slicing.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/cut.jpg' alt='' class='instruction-image'>
 
 - Store each bar in an airtight container in the fridge (~1 week) or freezer (indefinitely).
-- <img src='/assets/Food/Protein Powder/Brownie Cheesecake/cover2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Protein Powder/Brownie Cheesecake/cover1.jpg' alt='' class='instruction-image'>
 Notes:
-- You can substitute applesauce with 1 medium mashed overripe banana (~110 g).
+- You can substitute <a href='/misc/fruit#apple'>applesauce</a> with 1 medium mashed overripe <a href='/misc/fruit#banana'>banana</a> (~110 g).
 
-- Blended nonfat cottage cheese will work in place of greek yogurt.  Just omit the salt in the cheesecake layer.
+- Blended <a href='/misc/dairy#cottage-cheese'>nonfat cottage cheese</a> will work in place of <a href='/misc/dairy#yogurt'>greek yogurt</a>.  Just omit the salt in the cheesecake layer.
 
-- Honey, maple syrup, or agave will all work in place of sugar free syrup.
+- <a href='/misc/natural-sweeteners#honey'>Honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/misc/natural-sweeteners#agave'>agave</a> will all work in place of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.
 ---

@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Dairy Free Creamy Mint Sauce
-date:   2026-06-09 00:00:00 -0500
+date:   2026-07-18 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces
-- Draft
 showPercentage: no
 hummus: yes
 oatmeal: no

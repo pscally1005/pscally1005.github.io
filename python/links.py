@@ -1064,7 +1064,8 @@ LINKS = {
     ],
     "/recipes/easy-cheesecake": [
         "The Easiest (Healthy) Cheesecake",
-        "easy cheesecake"
+        "easy cheesecake",
+        "cheesecake"
     ],
     "/recipes/easy-pizza-dough": [
         "Easy Pizza Dough"
@@ -1988,6 +1989,7 @@ LINKS = {
         "vegan chili"
     ],
     "/recipes/vegan-chocolate-cheesecake": [
+        # "cheesecake",
         "Vegan Chocolate Cheesecake Bars",
         "vegan cheesecake bars",
         "vegan chocolate cheesecake bar",
@@ -1995,8 +1997,7 @@ LINKS = {
         "vegan cheesecake",
         "chocolate cheesecake bars",
         "chocolate cheesecake bar",
-        "chocolate cheesecake",
-        "cheesecake"
+        "chocolate cheesecake"
     ],
     "/recipes/vegan-cornbread": [
         "Vegan Cajun Cornbread",
@@ -6922,6 +6923,14 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "chocolate brownies",
+    "chocolate brownie",
+    "cheesecake layer",
+    "cheesecake ingredients",
+    "cheesecake batter",
+    "cheesecake filling",
+    "brownie layer",
+    "brownie and cheesecake",
     "creamy ice cream",
     "like ice cream",
     "ice cream bar",
