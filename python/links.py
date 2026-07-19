@@ -42,7 +42,9 @@ LINKS = {
         "air fried donuts",
         "air fried donut",
         "chocolate donuts",
-        "chocolate donut"
+        "chocolate donut",
+        "donuts",
+        "donut"
     ],
     "/recipes/snickers-nice-cream-bar": [
         "snickers nice cream bar",
@@ -6944,6 +6946,10 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "chocolate brownies",
+    "donut batter",
+    "protein glaze",
+    "only glaze",
+    "then glaze",
     "chocolate brownie",
     "cheesecake layer",
     "cheesecake ingredients",

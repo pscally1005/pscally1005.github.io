@@ -56,28 +56,28 @@ tags:
 - protein donuts
 - glaze
 - protein frosting
-Description: Air Fryer Protein Donuts!  Each glazed donut packs 23 g of protein in just 180 calories, making this better than most commercial protein bars. The whey and Greek yogurt provide protein, almond flour adds healthy fats and also makes it gluten free, and allulose and protein powder provide sweetness and flavor.
+Description: Air Fryer Protein Donuts!  Each glazed donut packs 23 g of <a href='/misc/protein'>protein</a> in just 180 <a href='/misc/calories'>calories</a>, making this better than most commercial <a href='/protein-bar'>protein bars</a>. The <a href='/misc/dairy#whey'>whey</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a> provide <a href='/misc/protein'>protein</a>, <a href='/misc/nuts#almonds'>almond flour</a> adds <a href='/misc/fats'>healthy fats</a> and also makes it <a href='/misc/celiac'>gluten free</a>, and <a href='https://amzn.to/4mzsH5p'>allulose</a> and <a href='/misc/dairy#whey'>protein powder</a> provide sweetness and flavor.
 Instructions:
-- Add the dry ingredients to a large bowl, and whisk together - whey, almond flour, cocoa, baking powder, cinnamon, and salt.
+- Add the dry ingredients to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and whisk together - <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, baking powder, cinnamon, and salt.
 
-- Add in the liquid ingredients, and combine with a silicone spatula - eggs, applesauce, vanilla, and allulose.
+- Add in the liquid ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/fruit#apple'>applesauce</a>, vanilla, and <a href='https://amzn.to/4mzsH5p'>allulose</a>.
 - <img src='/assets/Food/Protein Powder/Donuts/bowl-donuts.jpg' alt='' class='instruction-image'>
 
-- Lightly grease a silicone donut mold with oil. Evenly divide the donut batter across the 4 molds, about 1/4 cup (65 g) each.
+- <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> a <a href='https://amzn.to/4wPTDC8'>silicone donut mold</a> with <a href='/misc/olive-oil'>oil</a>. Evenly divide the donut batter across the 4 molds, about 1/4 cup (65 g) each.
 - <img src='/assets/Food/Protein Powder/Donuts/raw.jpg' alt='' class='instruction-image'>
 
-- Air fry at 350F for about 8-12 minutes, or until they're lightly browned, solid, and a toothpick to the center comes out nearly clean. The internal temperature will be about 205F.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 350F for about 8-12 minutes, or until they're lightly browned, solid, and a toothpick to the center comes out nearly clean. The <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be about <a href='https://amzn.to/4kmobG2'>205F</a>.
 - <img src='/assets/Food/Protein Powder/Donuts/baked.jpg' alt='' class='instruction-image'>
 
-- Remove from the air fryer, and allow them to cool for 5 minutes before removing from the liner.
+- Remove from the <a href='https://amzn.to/3FuWETp'>air fryer</a>, and allow them to cool for 5 minutes before removing from the <a href='https://amzn.to/4wPTDC8'>liner</a>.
 
-- Mix together the glaze ingredients in a small bowl - yogurt, protein powder, cocoa powder, vanilla extract, and liquid monk fruit.
+- Mix together the glaze ingredients in a <a href='https://amzn.to/4adxMft'>small bowl</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.
 - <img src='/assets/Food/Protein Powder/Donuts/bowl-glaze.jpg' alt='' class='instruction-image'>
 
 - Spread the protein glaze on top of the cooled donuts. Only glaze the donuts you want to eat now.
 - <img src='/assets/Food/Protein Powder/Donuts/glazed.jpg' alt='' class='instruction-image'>
 
-- Store extra (unglazed) donuts in an airtight bag in the freezer. To reheat, air fry directly from frozen at 400F for about 5 minutes, until warm, and then glaze.
+- Store extra (unglazed) donuts in an airtight bag in the freezer. To reheat, <a href='https://amzn.to/3FuWETp'>air fry</a> directly from frozen at 400F for about 5 minutes, until warm, and then glaze.
 - <img src='/assets/Food/Protein Powder/Donuts/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 ---
