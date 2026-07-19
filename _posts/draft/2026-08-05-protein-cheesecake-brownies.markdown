@@ -23,7 +23,7 @@ protein_bar: yes
 permalink: /recipes/protein-cheesecake-brownies
 image: /assets/Food/Protein Powder/Brownie Cheesecake/cover3.jpg
 file: browniecheesecake
-servingSize: 1 bat (~115 g)
+servingSize: 1 bar (~115 g)
 section1: Brownie Layer
 start2: Plain nonfat greek yogurt
 section2: Cheesecake Layer

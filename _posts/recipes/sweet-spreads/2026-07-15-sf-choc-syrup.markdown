@@ -63,7 +63,7 @@ Instructions:
 
 - Let it cool completely before transferring to a <a href='https://amzn.to/4vamaBm'>mason jar</a>. Store in the fridge for up to 2 weeks, or in the freezer indefinitely.
 Notes:
-- Using <a href='/misc/hidden-sugar'>sugar</a> instead of <a href='https://amzn.to/4mzsH5p'>allulose</a> yields the following nutrition facts per 1 tbsp (20 g)
+- Using <a href='/misc/hidden-sugar'>sugar</a> instead of <a href='https://amzn.to/4mzsH5p'>allulose</a> yields the following nutrition facts per 1 tbsp (20 g).
 - |
   COMPARE(
     "sfchocsyrup",
@@ -77,5 +77,20 @@ Notes:
     "Added Sugar",
     "Allulose",
     "Glycemic Index"
+  )
+
+- You can make a quick <a href='/misc/hidden-sugar'>sugar free</a> chocolate milk by mixing 2 tbsp (40 g) of sugar free chocolate syrup into 1 cup (240 g) of any <a href='/misc/dairy#skim-milk'>milk</a> of choice.  The nutrition facts below are for using either unsweetened <a href='/misc/dairy#almond-milk'>almond milk</a> and <a href='/misc/dairy#skim-milk'>skim milk</a>, respectively.
+- |
+  COMPARE(
+    "chocolatealmondmilksyrup",
+    "chocolateskimmilksyrup";
+
+    "<a href='/misc/dairy#almond-milk'>Almond<br>Milk</a>",
+    "<a href='/misc/dairy#skim-milk'>Skim<br>Milk</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs"
   )
 ---

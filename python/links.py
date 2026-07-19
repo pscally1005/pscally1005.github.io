@@ -5345,6 +5345,26 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4wPTDC8": [
+        "donut mold",
+        "donut molds",
+        "donut pan",
+        "donut pans"
+        "silicone donut molds",
+        "silicone donut mold",
+        "silicone donut pans",
+        "silicone donut pan",
+        "air fryer donut molds",
+        "air fryer donut mold",
+        "air fryer donut pans",
+        "air fryer donut pan",
+        "donut liners",
+        "donut liner",
+        "silicone donut liners",
+        "silicone donut liner",
+        "air fryer donut liners",
+        "air fryer donut liner"
+    ],
     "https://amzn.to/4vamaBm": [
         "mason jars",
         "mason jar",
@@ -8834,7 +8854,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-05")):
+            if not file.startswith(("2026-08-06")):
                 continue
 
             # exclude some files
