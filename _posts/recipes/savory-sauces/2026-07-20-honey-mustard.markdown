@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Homemade Healthier Honey Mustard Dressing
-date:   2026-06-15 00:00:00 -0500
+date:   2026-07-20 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
