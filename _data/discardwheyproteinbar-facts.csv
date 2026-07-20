@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,113,,
+Calories,115,,
 "Vitamin A, RAE",9.98,mcg,1 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",0.65,mcg,
@@ -32,31 +32,24 @@ Calories,113,,
 "Vitamin E (alpha-tocopherol)",0.02,mg,0 %
 "Vitamin E, added",0,mg,
 "Tocopherol, alpha",0.02,mg,
-"Tocopherol, beta",0,mg,
-"Tocopherol, delta",0,mg,
-"Tocopherol, gamma",0,mg,
-"Tocotrienol, alpha",0,mg,
-"Tocotrienol, beta",0,mg,
-"Tocotrienol, delta",0,mg,
-"Tocotrienol, gamma",0,mg,
 "Vitamin K",0.3,mcg,0 %
 "Vitamin K1 [Phylloquinone]",0,mcg,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",50.2,mg,9 %
-"Calcium",344.33,mg,26 %
+"Calcium",343.86,mg,26 %
 "Copper",0.29,mg,32 %
-"Fluoride",0.1,mcg,
+"Fluoride",0,mcg,
 "Iodine",2.06,mcg,1 %
 "Iron",1.79,mg,10 %
-"Magnesium",48.34,mg,12 %
+"Magnesium",48.23,mg,11 %
 "Manganese",0.577,mg,25 %
-"Phosphorus",350.36,mg,28 %
-"Potassium",529.44,mg,11 %
-"Selenium",6.5,mcg,12 %
-"Sodium",326.24,mg,14 %
+"Phosphorus",350.33,mg,28 %
+"Potassium",529.3,mg,11 %
+"Selenium",6.53,mcg,12 %
+"Sodium",337.5,mg,15 %
 "Zinc",1.75,mg,16 %
-"Protein",12.6,g,25 %
+"Protein",12.65,g,25 %
 "Alanine",0.47,g,
 "Arginine",0.839,g,
 "Aspartic acid",1.201,g,
@@ -79,16 +72,16 @@ Calories,113,,
 "Valine",0.703,g,36 %
 "Phenylalanine + Tyrosine",1.157,g,43 %
 "Methionine + Cysteine",0.51,g,33 %
-"Carbohydrate",18.5,g,7 %
-"Fiber",5.17,g,18 %
+"Carbohydrate",15.59,g,6 %
+"Fiber",5.22,g,19 %
 "Starch",0,g,
-"Sugars",7.04,g,
+"Sugars",7.03,g,
 "Fructose",0,g,
 "Glucose",0.01,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0,g,
-"Net carbs",13.33,g,
+"Net carbs",10.37,g,
 "",0.06 g,undefined,
 "Fat",1.993,g,3 %
 "Saturated fatty acids",0.612,g,3 %
@@ -122,7 +115,7 @@ Calories,113,,
 "Cholesterol",22.16,mg,7 %
 "25-hydroxycholecalciferol",0.02,mcg,
 "Alcohol, ethyl",0.4,g,
-"Ash",0.76,g,
+"Ash",0.77,g,
 "Caffeine",7.67,mg,
 "Choline, free",0.03,mg,
 "Choline, from glycerophosphocholine",0.01,mg,
@@ -134,4 +127,4 @@ Calories,113,,
 "PUFA 18:3 c",0,g,
 "PUFA 20:3 c",0,g,
 "Theobromine",68.57,mg,
-"Water",122.39,g,
+"Water",123.19,g,

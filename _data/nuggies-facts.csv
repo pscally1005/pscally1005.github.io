@@ -3,6 +3,7 @@ Calories,27,,
 "Vitamin A, RAE",27.65,mcg,3 %
 "Carotene, alpha",2.11,mcg,
 "Carotene, beta",301.42,mcg,
+"Cryptoxanthin, alpha",0.16,mcg,
 "Cryptoxanthin, beta",7.13,mcg,
 "Lutein + zeaxanthin",13.49,mcg,
 "Lutein",2.75,mcg,
@@ -44,7 +45,7 @@ Calories,27,,
 "Betaine",0.8,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",12.2,mg,2 %
-"Calcium",13.17,mg,1 %
+"Calcium",12.59,mg,1 %
 "Copper",0.01,mg,1 %
 "Fluoride",0,mcg,
 "Iodine",0.59,mcg,0 %
@@ -52,9 +53,9 @@ Calories,27,,
 "Magnesium",4.84,mg,1 %
 "Manganese",0.021,mg,1 %
 "Phosphorus",31.34,mg,3 %
-"Potassium",80.47,mg,2 %
+"Potassium",80.33,mg,2 %
 "Selenium",1.7,mcg,3 %
-"Sodium",76.94,mg,3 %
+"Sodium",80.38,mg,3 %
 "Zinc",0.21,mg,2 %
 "Protein",2.54,g,5 %
 "Alanine",0.135,g,
@@ -78,18 +79,18 @@ Calories,27,,
 "Tyrosine",0.083,g,
 "Valine",0.124,g,6 %
 "Phenylalanine + Tyrosine",0.181,g,7 %
-"Methionine + Cysteine",0.072,g,5 %
-"Carbohydrate",1.14,g,0 %
+"Methionine + Cysteine",0.101,g,7 %
+"Carbohydrate",1.22,g,0 %
 "Fiber",0.22,g,1 %
 "Starch",0.4,g,
-"Sugars",0.25,g,
+"Sugars",0.27,g,
 "Fructose",0.05,g,
 "Galactose",0,g,
 "Glucose",0.08,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.11,g,
-"Net carbs",0.92,g,
+"Net carbs",1,g,
 "0.01 g",0.16 g,undefined,11.50
 "Fat",1.382,g,2 %
 "Saturated fatty acids",0.342,g,2 %
@@ -134,9 +135,6 @@ Calories,27,,
 "Octadecatetraenoic acid",0,g,
 "Octadecatrienoic acid",0.008,g,
 "Trans,trans-octadecadienoic acid",0.002,g,
-"18:2 c",0.02,g,
-"18:3 c",0,g,
-"20:3 c",0,g,
 "Fatty acids, total trans",0.007,g,
 "Fatty acids, total trans-monoenoic",0.005,g,
 "Fatty acids, total trans-polyenoic",0.002,g,
@@ -146,13 +144,14 @@ Calories,27,,
 "Alcohol, ethyl",0,g,
 "Ash",0.33,g,
 "Caffeine",0,mg,
-"Carbohydrate, by summation",0,g,
 "Choline, free",0.01,mg,
 "Choline, from glycerophosphocholine",0,mg,
 "Choline, from phosphocholine",3.7,mg,
 "Choline, from phosphotidyl choline",0,mg,
 "Choline, from sphingomyelin",0.3,mg,
-"Cryptoxanthin, alpha",0.16,mcg,
 "Nitrogen",0.02,g,
+"PUFA 18:2 c",0.02,g,
+"PUFA 18:3 c",0,g,
+"PUFA 20:3 c",0,g,
 "Theobromine",0,mg,
-"Water",14.22,g,
+"Water",14.71,g,

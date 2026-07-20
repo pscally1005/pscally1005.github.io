@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,57,,
+Calories,58,,
 "Vitamin A, RAE",0.09,mcg,0 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",1.18,mcg,
@@ -22,31 +22,24 @@ Calories,57,,
 "Vitamin E (alpha-tocopherol)",0.26,mg,2 %
 "Vitamin E, added",0,mg,
 "Tocopherol, alpha",0.26,mg,
-"Tocopherol, beta",0,mg,
-"Tocopherol, delta",0,mg,
-"Tocopherol, gamma",0,mg,
-"Tocotrienol, alpha",0,mg,
-"Tocotrienol, beta",0,mg,
-"Tocotrienol, delta",0,mg,
-"Tocotrienol, gamma",0,mg,
 "Vitamin K",0.3,mcg,0 %
 "Vitamin K1 [Phylloquinone]",0.3,mcg,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",3.2,mg,1 %
-"Calcium",14.27,mg,1 %
+"Calcium",13.94,mg,1 %
 "Copper",0.09,mg,10 %
-"Fluoride",0.1,mcg,
+"Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
 "Iron",0.39,mg,2 %
-"Magnesium",16.76,mg,4 %
+"Magnesium",16.69,mg,4 %
 "Manganese",0.125,mg,5 %
-"Phosphorus",33.33,mg,3 %
-"Potassium",59.36,mg,1 %
-"Selenium",0.91,mcg,2 %
-"Sodium",82.65,mg,4 %
+"Phosphorus",33.31,mg,3 %
+"Potassium",59.26,mg,1 %
+"Selenium",0.93,mcg,2 %
+"Sodium",88.24,mg,4 %
 "Zinc",0.27,mg,2 %
-"Protein",2.11,g,4 %
+"Protein",2.14,g,4 %
 "Alanine",0.044,g,
 "Arginine",0.093,g,
 "Aspartic acid",0.109,g,
@@ -69,10 +62,10 @@ Calories,57,,
 "Valine",0.049,g,3 %
 "Phenylalanine + Tyrosine",0.079,g,3 %
 "Methionine + Cysteine",0.027,g,2 %
-"Carbohydrate",6.72,g,2 %
-"Fiber",1.59,g,6 %
-"Sugars",0.77,g,
-"Net carbs",5.13,g,
+"Carbohydrate",4.57,g,2 %
+"Fiber",1.62,g,6 %
+"Sugars",0.76,g,
+"Net carbs",2.95,g,
 "Fat",3.975,g,5 %
 "Saturated fatty acids",1.567,g,8 %
 "Butanoic acid",0,g,
@@ -100,7 +93,7 @@ Calories,57,,
 "Cholesterol",0,mg,0 %
 "Phytosterols",0,mg,
 "Alcohol, ethyl",0.1,g,
-"Ash",0.15,g,
+"Ash",0.16,g,
 "Caffeine",2.88,mg,
 "Theobromine",25.79,mg,
-"Water",9.9,g,
+"Water",9.53,g,

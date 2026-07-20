@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,90,,
+Calories,91,,
 "Vitamin A, RAE",5.08,mcg,1 %
 "Carotene, alpha",0.21,mcg,
 "Carotene, beta",0.78,mcg,
@@ -44,19 +44,19 @@ Calories,90,,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",13.4,mg,2 %
-"Calcium",18.12,mg,1 %
+"Calcium",17.98,mg,1 %
 "Copper",0.17,mg,19 %
 "Fluoride",0,mcg,
 "Iodine",1.23,mcg,1 %
 "Iron",0.99,mg,6 %
-"Magnesium",44.3,mg,11 %
+"Magnesium",44.27,mg,11 %
 "Manganese",0.501,mg,22 %
-"Phosphorus",79.94,mg,6 %
-"Potassium",170.39,mg,4 %
-"Selenium",4.01,mcg,7 %
-"Sodium",153.74,mg,7 %
+"Phosphorus",79.93,mg,6 %
+"Potassium",170.35,mg,4 %
+"Selenium",4.02,mcg,7 %
+"Sodium",157.12,mg,7 %
 "Zinc",0.6,mg,5 %
-"Protein",3.32,g,7 %
+"Protein",3.34,g,7 %
 "Alanine",0.156,g,
 "Arginine",0.248,g,
 "Aspartic acid",0.299,g,
@@ -79,8 +79,8 @@ Calories,90,,
 "Valine",0.19,g,10 %
 "Phenylalanine + Tyrosine",0.311,g,12 %
 "Methionine + Cysteine",0.162,g,10 %
-"Carbohydrate",14.45,g,5 %
-"Fiber",2.44,g,9 %
+"Carbohydrate",13.58,g,5 %
+"Fiber",2.45,g,9 %
 "Starch",0,g,
 "Sugars",4.23,g,
 "Fructose",0,g,
@@ -88,7 +88,7 @@ Calories,90,,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0,g,
-"Net carbs",12.01,g,
+"Net carbs",11.13,g,
 "",0.04 g,undefined,
 "Fat",3.613,g,5 %
 "Saturated fatty acids",1.177,g,6 %
@@ -135,4 +135,4 @@ Calories,90,,
 "PUFA 18:3 c",0,g,
 "PUFA 20:3 c",0,g,
 "Theobromine",66.21,mg,
-"Water",24.05,g,
+"Water",24.29,g,

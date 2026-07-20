@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,121,,
+Calories,125,,
 "Vitamin A, RAE",45.57,mcg,5 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",3.9,mcg,
@@ -17,7 +17,7 @@ Calories,121,,
 "trans-beta-Carotene",0,mcg,
 "Thiamin [Vitamin B1]",0.088,mg,7 %
 "Riboflavin [Vitamin B2]",0.429,mg,33 %
-"Niacin [Vitamin B3]",0.288,mg,2 %
+"Niacin [Vitamin B3]",0.287,mg,2 %
 "Pantothenic acid [Vitamin B5]",0.611,mg,12 %
 "Vitamin B6",0.109,mg,6 %
 "Vitamin B12 [Cobalamin]",0.86,mcg,36 %
@@ -32,31 +32,24 @@ Calories,121,,
 "Vitamin E (alpha-tocopherol)",0.07,mg,0 %
 "Vitamin E, added",0,mg,
 "Tocopherol, alpha",0.07,mg,
-"Tocopherol, beta",0,mg,
-"Tocopherol, delta",0,mg,
-"Tocopherol, gamma",0,mg,
-"Tocotrienol, alpha",0,mg,
-"Tocotrienol, beta",0,mg,
-"Tocotrienol, delta",0,mg,
-"Tocotrienol, gamma",0,mg,
 "Vitamin K",0.2,mcg,0 %
 "Vitamin K1 [Phylloquinone]",0,mcg,
 "Betaine",0.6,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",110.7,mg,20 %
-"Calcium",147.61,mg,11 %
+"Calcium",146.91,mg,11 %
 "Copper",0.12,mg,13 %
-"Fluoride",0.2,mcg,
+"Fluoride",0,mcg,
 "Iodine",12.35,mcg,8 %
 "Iron",0.99,mg,6 %
-"Magnesium",37.57,mg,9 %
-"Manganese",0.109,mg,5 %
-"Phosphorus",284.53,mg,23 %
-"Potassium",270.23,mg,6 %
-"Selenium",15.75,mcg,29 %
-"Sodium",408.07,mg,18 %
+"Magnesium",37.41,mg,9 %
+"Manganese",0.108,mg,5 %
+"Phosphorus",284.49,mg,23 %
+"Potassium",270.02,mg,6 %
+"Selenium",15.79,mcg,29 %
+"Sodium",424.96,mg,18 %
 "Zinc",1.24,mg,11 %
-"Protein",15.16,g,30 %
+"Protein",15.24,g,30 %
 "Alanine",0.653,g,
 "Arginine",0.604,g,
 "Aspartic acid",1.053,g,
@@ -79,16 +72,16 @@ Calories,121,,
 "Valine",0.923,g,47 %
 "Phenylalanine + Tyrosine",1.283,g,48 %
 "Methionine + Cysteine",0.866,g,56 %
-"Carbohydrate",13.34,g,5 %
-"Fiber",1.27,g,5 %
+"Carbohydrate",8.98,g,3 %
+"Fiber",1.34,g,5 %
 "Starch",0,g,
-"Sugars",5.1,g,
+"Sugars",5.08,g,
 "Fructose",0,g,
 "Glucose",0.05,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0,g,
-"Net carbs",12.07,g,
+"Net carbs",7.64,g,
 "",0.38 g,undefined,
 "Fat",3.548,g,5 %
 "Saturated fatty acids",1.302,g,7 %
@@ -121,8 +114,8 @@ Calories,121,,
 "Fatty acids, total trans",0,g,
 "Cholesterol",125.52,mg,42 %
 "25-hydroxycholecalciferol",0.14,mcg,
-"Alcohol, ethyl",0.5,g,
-"Ash",0.22,g,
+"Alcohol, ethyl",0.4,g,
+"Ash",0.23,g,
 "Caffeine",5.75,mg,
 "Choline, free",0.15,mg,
 "Choline, from glycerophosphocholine",0.05,mg,
@@ -134,4 +127,4 @@ Calories,121,,
 "PUFA 18:3 c",0,g,
 "PUFA 20:3 c",0.01,g,
 "Theobromine",51.42,mg,
-"Water",103.02,g,
+"Water",104.22,g,

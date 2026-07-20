@@ -246,13 +246,13 @@ Honey,honey,3.74,336.00,0.01113,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,0.0,
 Maple syrup,maple-syrup,7.98,360.00,0.02217,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
 Hot honey,hot-honey,3.94,360.00,0.01094,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,0.0,0.0,0.0,0,40,/recipes/hot-honey
 "Maple syrup, or honey",maple-syrup,7.98,360.00,0.02217,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
-Sugar Free Syrup,sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
-Sugar free syrup,sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, or maple syrup or honey",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, or honey or maple syrup",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, or honey",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, or maple syrup",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, optional",sugar-free-syrup,4.06,360.00,0.01128,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,53.5,0.0,0.0,0,40,/recipes/sugar-free-syrup
+Sugar Free Syrup,sugar-free-syrup,3.14,720.00,0.00436,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+Sugar free syrup,sugar-free-syrup,3.14,720.00,0.00436,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or maple syrup or honey",sugar-free-syrup,3.14,720.00,0.00436,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or honey or maple syrup",sugar-free-syrup,3.14,720.00,0.00436,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or honey",sugar-free-syrup,3.14,720.00,0.00436,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or maple syrup",sugar-free-syrup,3.14,720.00,0.00436,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, optional",sugar-free-syrup,3.14,720.00,0.00436,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 Agave,agave,5.82,665.05,0.00875,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,40,
 Agave syrup,agave,5.82,665.05,0.00875,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,40,
 Coconut sugar,coconut-sugar,9.42,905.60,0.01040,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,78.0,0.0,0.0,0.0,0,40,

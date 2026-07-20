@@ -1,5 +1,5 @@
 Nutrient,Amount,Unit,DV
-Calories,76,,
+Calories,84,,
 "Vitamin A, RAE",13.49,mcg,1 %
 "Carotene, alpha",0,mcg,
 "Carotene, beta",1.78,mcg,
@@ -17,7 +17,7 @@ Calories,76,,
 "trans-beta-Carotene",0,mcg,
 "Thiamin [Vitamin B1]",0.081,mg,7 %
 "Riboflavin [Vitamin B2]",0.083,mg,6 %
-"Niacin [Vitamin B3]",0.752,mg,5 %
+"Niacin [Vitamin B3]",0.751,mg,5 %
 "Pantothenic acid [Vitamin B5]",0.089,mg,2 %
 "Vitamin B6",0.068,mg,4 %
 "Vitamin B12 [Cobalamin]",0.09,mcg,4 %
@@ -44,19 +44,19 @@ Calories,76,,
 "Betaine",9.6,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",28.6,mg,5 %
-"Calcium",53.36,mg,4 %
+"Calcium",51.95,mg,4 %
 "Copper",0.19,mg,21 %
-"Fluoride",0.4,mcg,
+"Fluoride",0,mcg,
 "Iodine",3.09,mcg,2 %
 "Iron",1.17,mg,6 %
-"Magnesium",40.12,mg,10 %
-"Manganese",0.683,mg,30 %
-"Phosphorus",132,mg,11 %
-"Potassium",190.01,mg,4 %
-"Selenium",10.93,mcg,20 %
-"Sodium",361.21,mg,16 %
+"Magnesium",39.8,mg,9 %
+"Manganese",0.682,mg,30 %
+"Phosphorus",131.92,mg,11 %
+"Potassium",189.59,mg,4 %
+"Selenium",11.02,mcg,20 %
+"Sodium",394.99,mg,17 %
 "Zinc",0.74,mg,7 %
-"Protein",3.75,g,8 %
+"Protein",3.91,g,8 %
 "Alanine",0.141,g,
 "Arginine",0.176,g,
 "Aspartic acid",0.251,g,
@@ -79,16 +79,16 @@ Calories,76,,
 "Valine",0.165,g,8 %
 "Phenylalanine + Tyrosine",0.262,g,10 %
 "Methionine + Cysteine",0.138,g,9 %
-"Carbohydrate",24.67,g,9 %
-"Fiber",2.88,g,10 %
+"Carbohydrate",15.95,g,6 %
+"Fiber",3.02,g,11 %
 "Starch",7.58,g,
-"Sugars",1.66,g,
+"Sugars",1.62,g,
 "Fructose",0.01,g,
 "Glucose",0.01,g,
 "Lactose",0,g,
 "Maltose",0,g,
 "Sucrose",0.05,g,
-"Net carbs",21.79,g,
+"Net carbs",12.93,g,
 "",0.09 g,undefined,
 "Fat",1.638,g,2 %
 "Saturated fatty acids",0.66,g,3 %
@@ -134,8 +134,8 @@ Calories,76,,
 "Fatty acids, total trans",0,g,
 "Cholesterol",26.44,mg,9 %
 "25-hydroxycholecalciferol",0.04,mcg,
-"Alcohol, ethyl",0.3,g,
-"Ash",0.27,g,
+"Alcohol, ethyl",0.2,g,
+"Ash",0.3,g,
 "Caffeine",8.62,mg,
 "Choline, free",0.04,mg,
 "Choline, from glycerophosphocholine",0.01,mg,
@@ -147,4 +147,4 @@ Calories,76,,
 "PUFA 18:3 c",0,g,
 "PUFA 20:3 c",0,g,
 "Theobromine",77.14,mg,
-"Water",56.78,g,
+"Water",59.19,g,

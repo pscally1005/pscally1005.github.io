@@ -22,31 +22,24 @@ Calories,25,,
 "Vitamin E (alpha-tocopherol)",0.11,mg,1 %
 "Vitamin E, added",0,mg,
 "Tocopherol, alpha",0.11,mg,
-"Tocopherol, beta",0,mg,
-"Tocopherol, delta",0,mg,
-"Tocopherol, gamma",0,mg,
-"Tocotrienol, alpha",0,mg,
-"Tocotrienol, beta",0,mg,
-"Tocotrienol, delta",0,mg,
-"Tocotrienol, gamma",0,mg,
 "Vitamin K",0.7,mcg,1 %
 "Vitamin K1 [Phylloquinone]",0.7,mcg,
 "Betaine",0,mg,
 "Biotin [Vitamin B7]",0,mcg,0 %
 "Choline",2,mg,0 %
-"Calcium",21.49,mg,2 %
+"Calcium",21.31,mg,2 %
 "Copper",0.04,mg,4 %
-"Fluoride",0.1,mcg,
+"Fluoride",0,mcg,
 "Iodine",0,mcg,0 %
 "Iron",0.45,mg,2 %
-"Magnesium",12.25,mg,3 %
+"Magnesium",12.21,mg,3 %
 "Manganese",0.167,mg,7 %
-"Phosphorus",26.05,mg,2 %
-"Potassium",62.12,mg,1 %
-"Selenium",1.62,mcg,3 %
-"Sodium",2.16,mg,0 %
+"Phosphorus",26.04,mg,2 %
+"Potassium",62.07,mg,1 %
+"Selenium",1.63,mcg,3 %
+"Sodium",5.29,mg,0 %
 "Zinc",0.15,mg,1 %
-"Protein",0.56,g,1 %
+"Protein",0.58,g,1 %
 "Alanine",0.033,g,
 "Arginine",0.06,g,
 "Aspartic acid",0.076,g,
@@ -68,14 +61,14 @@ Calories,25,,
 "Tyrosine",0.019,g,
 "Valine",0.028,g,1 %
 "Phenylalanine + Tyrosine",0.048,g,2 %
-"Methionine + Cysteine",0.015,g,1 %
-"Carbohydrate",5.71,g,2 %
-"Fiber",1.57,g,6 %
-"Sugars",1.6,g,
+"Methionine + Cysteine",0.026,g,2 %
+"Carbohydrate",4.5,g,2 %
+"Fiber",1.58,g,6 %
+"Sugars",1.59,g,
 "Fructose",0.74,g,
 "Glucose",0.69,g,
 "Sucrose",0.13,g,
-"Net carbs",4.14,g,
+"Net carbs",2.92,g,
 "0.45 g",0.15 g,undefined,0.33
 "Fat",0.809,g,1 %
 "Saturated fatty acids",0.086,g,0 %
@@ -114,4 +107,4 @@ Calories,25,,
 "Ash",0.25,g,
 "Caffeine",0,mg,
 "Theobromine",0,mg,
-"Water",34.08,g,
+"Water",33.87,g,
