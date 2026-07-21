@@ -6348,6 +6348,11 @@ LINKS = {
         '"protein" bar recipes',
         '"protein" bar recipe'
     ],
+    "/beans": [
+        "bean recipes here",
+        "bean recipes",
+        "bean recipe"
+    ],
 
     # RECIPE TYPES
     "/recipes/bread": [
