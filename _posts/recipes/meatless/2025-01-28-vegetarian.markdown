@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/vegetarian-meal
 image: /assets/Food/Meatless/Vegetarian/cover.jpg
 file: vegetarian

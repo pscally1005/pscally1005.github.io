@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/chickpea-date-blondies
 image: /assets/Food/Healthier Dessert/Bean Blondies/bean-blondies-cover.jpg
 file: beanblondies

@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/peanut-butter-chili
 image: /assets/Food/Ground Meat/Peanut Chili/cover.jpg
 file: peanutchiliv2

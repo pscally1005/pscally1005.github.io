@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/blue-cheese-dressing
 image: /assets/Food/Savory Sauces/Blue Cheese/blue-cheese.jpg
 file: bluecheese

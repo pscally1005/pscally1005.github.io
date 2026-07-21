@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/pizza-beans
 image: /assets/Food/Meatless/Pizza Beans/cover1.jpg
 file: pizzabeans

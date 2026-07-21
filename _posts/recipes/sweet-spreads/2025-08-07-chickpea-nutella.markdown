@@ -19,7 +19,7 @@ cookie: no
 copycat: yes
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/chickpea-nutella
 image: /assets/Food/Sweet Spreads/Chickpea nutella/cover.jpg
 file: chickpeanutella

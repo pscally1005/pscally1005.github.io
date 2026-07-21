@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/chickpea-sandwich
 image: /assets/Food/Meatless/Chickpea Sandwich/chickpea-sand.jpg
 file: chickpeasand

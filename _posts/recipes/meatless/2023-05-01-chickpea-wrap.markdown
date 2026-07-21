@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/chickpea-wrap
 image: /assets/Food/Meatless/Chickpea Wrap/cover.jpg
 file: chickpeawrap

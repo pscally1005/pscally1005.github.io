@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/iron-bowl
 image: /assets/Food/Ground Meat/Iron Bowl/iron-bowl-cover.jpg
 file: ironbowl

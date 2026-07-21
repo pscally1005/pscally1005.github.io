@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/gassy-assy
 image: /assets/Food/Meme/Gassy Assy/cover.jpg
 file: gassy

@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
-beans: no
+beans: yes
 permalink: /recipes/black-bean-burger
 image: /assets/Food/Meatless/Bean Burger/coverNew.jpg
 file: beanburgerpea

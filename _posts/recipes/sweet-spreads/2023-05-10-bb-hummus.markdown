@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/banana-bread-hummus
 image: /assets/Food/Sweet Spreads/BB Hummus/cover.jpg
 file: bbhummus

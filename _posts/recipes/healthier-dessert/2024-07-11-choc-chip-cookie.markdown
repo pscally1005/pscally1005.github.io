@@ -19,7 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/chocolate-chip-date-cookies
 image: /assets/Food/Healthier Dessert/Choc Chip Cookie/chickpea-date-cover.jpg
 file: chocchipcookie

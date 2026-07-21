@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/tofu-scramble
 image: /assets/Food/Meatless/Tofu Scramble/tofu-cover.jpg
 file: tofuscramble

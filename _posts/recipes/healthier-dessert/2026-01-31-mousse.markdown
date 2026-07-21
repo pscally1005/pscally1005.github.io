@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/chocolate-peanut-butter-mousse
 image: /assets/Food/Healthier Dessert/Mousse/mousse.jpg
 file: chickpeamousse

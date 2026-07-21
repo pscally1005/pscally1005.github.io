@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/bean-salad
 image: /assets/Food/Sides/Bean Salad/bean-salad-cover.jpg
 file: beansalad

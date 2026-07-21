@@ -19,7 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/chocolate-chip-cookie-skillet
 image: /assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-cover.jpg
 file: cookieskillet

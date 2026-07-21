@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/black-bean-date-brownies
 image: /assets/Food/Healthier Dessert/Bean Brownies/bean-brownies-cover.jpg
 file: beanbrownies

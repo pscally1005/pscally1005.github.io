@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
-beans: no
+beans: yes
 permalink: /recipes/chickpea-brownies
 image: /assets/Food/Protein Powder/Chickpea Brownie/chickpea-brownie.jpg
 file: chickpeabrownie

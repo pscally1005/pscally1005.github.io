@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/wacky-cake
 image: /assets/Food/Meme/Wacky cake/cover.jpg
 file: wackycake

@@ -19,7 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/peanut-butter-date-cookies
 image: /assets/Food/Healthier Dessert/PB Date Cookie/pb-date-cover.jpg
 file: pbdatecookie

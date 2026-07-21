@@ -19,7 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/double-chocolate-date-cookies
 image: /assets/Food/Healthier Dessert/Double Choc Cookie/cover.jpg
 file: doublechoccookie

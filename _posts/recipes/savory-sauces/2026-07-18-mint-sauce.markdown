@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/mint-sauce
 image: /assets/Food/Savory Sauces/Mint Sauce/cover.jpg
 file: mintsauce

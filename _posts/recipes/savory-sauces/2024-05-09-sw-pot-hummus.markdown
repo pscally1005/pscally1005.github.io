@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/sweet-potato-hummus
 image: /assets/Food/Savory Sauces/Sw Pot Hummus/cover.jpg
 file: swpothummus

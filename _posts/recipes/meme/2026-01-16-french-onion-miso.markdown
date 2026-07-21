@@ -19,7 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
-beans: no
+beans: yes
 permalink: /recipes/french-onion-miso-soup
 image: /assets/Food/Meme/French Onion Miso Soup/miso-soup.jpg
 file: frenchonionmisosoup
