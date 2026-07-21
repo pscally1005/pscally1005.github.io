@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cauliflower-pizza
 image: /assets/Food/Bread/Cauli Pizza/cauli-pizza-cover.jpg
 file: caulipizza

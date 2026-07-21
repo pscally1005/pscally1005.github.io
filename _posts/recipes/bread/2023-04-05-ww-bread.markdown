@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/ww-bread
 image: /assets/Food/Bread/Whole Wheat Bread/ww-cover.jpg
 file: wwbread

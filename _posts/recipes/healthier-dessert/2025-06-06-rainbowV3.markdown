@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/rainbow-cookies-v3
 image: /assets/Food/Healthier Dessert/Rainbow v3/cover.jpg
 file: rainbowv3monkfruit

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cheese-sauce
 image: /assets/Food/Savory Sauces/Cheese Sauce/cheese-sauce.jpg
 file: cheesesauce

@@ -18,6 +18,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/smores
 image: /assets/Misc/Unhealthy/Smores/smores-cover.jpg
 file: smores

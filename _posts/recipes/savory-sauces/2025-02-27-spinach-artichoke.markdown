@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/spinach-artichoke-dip
 image: /assets/Food/Savory Sauces/Artichoke/cover.jpg
 file: artichokedipnew

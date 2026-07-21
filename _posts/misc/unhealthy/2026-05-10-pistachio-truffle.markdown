@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pistachio-truffles
 image: /assets/Misc/Unhealthy/Pistachio Truffle/cover1.jpg
 file: pistachiotruffle

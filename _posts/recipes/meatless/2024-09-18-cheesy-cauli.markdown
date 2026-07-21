@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cheesy-cauliflower-rice-and-beans
 image: /assets/Food/Meatless/Cheesy Cauli/container-sauce.jpg
 file: cheesycauli

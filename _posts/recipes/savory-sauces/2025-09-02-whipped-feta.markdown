@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/whipped-feta-spread
 image: /assets/Food/Savory Sauces/Whipped Feta/cover-pepper.jpg
 file: whippedfeta

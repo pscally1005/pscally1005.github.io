@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/spaghetti-taco
 image: /assets/Food/Ground Meat/Zoodle Taco/zoodle-taco-cover.jpg
 file: zoodletaco

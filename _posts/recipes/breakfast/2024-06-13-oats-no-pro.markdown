@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/no-protein-powder-oatmeal
 image: /assets/Food/Breakfast/No Pro/no-pro.jpg
 file: oatsnopro

@@ -20,6 +20,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/rainbow-cookies-v2
 image: /assets/Food/Healthier Dessert/Rainbow v2/cover-new.jpg
 file: rainbowv2date

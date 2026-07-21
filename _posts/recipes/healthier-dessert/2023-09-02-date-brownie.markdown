@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/date-brownie
 image: /assets/Food/Healthier Dessert/Date Brownie/date-brownie-cover.jpg
 file: datebrownie

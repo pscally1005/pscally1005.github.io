@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-chocolate-bar
 image: /assets/Food/Meme/Protein Chocolate/cover.jpg
 file: proteinchocolatebar

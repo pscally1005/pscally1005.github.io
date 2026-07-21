@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/onion-soup-bread
 image: /assets/Food/Meme/Onion Soup Bread/cover.jpg
 file: onionsoupbreadhomemade

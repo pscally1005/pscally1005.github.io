@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/banana-nut-protein-cookies
 image: /assets/Food/Protein Powder/Banana Nut Protein Cookies/bite.jpg
 file: proteincookiebanananut

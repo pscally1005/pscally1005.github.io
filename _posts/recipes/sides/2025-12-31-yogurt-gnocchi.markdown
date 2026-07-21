@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/greek-yogurt-gnocchi
 image: /assets/Food/Sides/Yogurt Gnocchi/cover-1.jpg
 file: yogurtgnocchiww

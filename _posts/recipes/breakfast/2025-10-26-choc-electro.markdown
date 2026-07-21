@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chocolate-electrolyte-bowls
 image: /assets/Food/Breakfast/Choc Electro/cover.jpg
 file: chocelectrobowl

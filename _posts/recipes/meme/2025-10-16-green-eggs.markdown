@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/green-eggs-and-ham
 image: /assets/Food/Meme/Green Eggs and Ham/cover.jpg
 file: greeneggsham

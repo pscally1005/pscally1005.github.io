@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/chocolate-cloud-bars
 image: /assets/Food/Healthier Dessert/Chocolate cloud/cover.jpg
 file: choccloud

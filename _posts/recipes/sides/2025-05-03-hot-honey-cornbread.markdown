@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/hot-honey-cornbread
 image: /assets/Food/Sides/Hot Honey Cornbread/cover.jpg
 file: hothoneycornbread

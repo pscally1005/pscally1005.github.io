@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/electrolyte-protein-shake
 image: /assets/Food/Drinks/Salt Shake/salt-shake.jpg
 file: saltshake

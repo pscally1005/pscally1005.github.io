@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/coconut-cookies
 image: /assets/Food/Healthier Dessert/Coconut Cookies/cover.jpg
 file: coconutcookies

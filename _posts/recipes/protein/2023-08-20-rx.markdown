@@ -19,6 +19,7 @@ cookie: no
 copycat: yes
 vic: yes
 protein_bar: yes
+beans: no
 permalink: /recipes/rx-bars
 image: /assets/Food/Protein Powder/RX/cover.jpg
 file: rxnew

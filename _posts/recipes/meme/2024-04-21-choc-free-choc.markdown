@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chocolate-free-chocolate
 image: /assets/Food/Meme/Choc Free/cover-new.jpg
 file: chocfree

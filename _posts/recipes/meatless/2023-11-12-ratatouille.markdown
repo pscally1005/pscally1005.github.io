@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/ratatouille
 image: /assets/Food/Meatless/Ratatouille/ratatouille-cover.jpg
 file: ratatouille

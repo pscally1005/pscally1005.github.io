@@ -19,6 +19,7 @@ cookie: no
 copycat: yes
 vic: yes
 protein_bar: yes
+beans: no
 permalink: /recipes/copycat-barebell
 image: /assets/Food/Protein Powder/Barbell/cover.jpg
 file: barbell-unsw

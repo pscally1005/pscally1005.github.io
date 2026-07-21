@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/nice-cream-sandwiches
 image: /assets/Food/Protein Powder/Nice Cream/nice-cream-cover.jpg
 file: nicecreamsand

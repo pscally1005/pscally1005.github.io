@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pickle-ketchup
 image: /assets/Food/Savory Sauces/Pickle Honey Ketchup/cover.jpg
 file: ketchuphoney

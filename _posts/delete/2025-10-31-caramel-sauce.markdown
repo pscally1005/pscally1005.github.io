@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/caramel-sauce
 image: /assets/Misc/Unhealthy/Caramel/cover.jpg
 file: caramelsauce

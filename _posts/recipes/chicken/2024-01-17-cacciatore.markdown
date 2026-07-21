@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cacciatore
 image: /assets/Food/Chicken/Cacciatore/cacciatore-cover.jpg
 file: cacciatore

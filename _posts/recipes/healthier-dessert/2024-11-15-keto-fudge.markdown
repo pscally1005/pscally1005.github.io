@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/keto-fudge
 image: /assets/Food/Healthier Dessert/Keto Fudge/fudge-cover.jpg
 file: ketofudge

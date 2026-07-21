@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/feta-pasta
 image: /assets/Food/Meatless/Feta pasta/separate.jpg
 file: fetapasta

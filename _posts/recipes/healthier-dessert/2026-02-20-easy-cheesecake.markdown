@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/easy-cheesecake
 image: /assets/Food/Healthier Dessert/Easy cheesecake/cover.jpg
 file: easycheesecake

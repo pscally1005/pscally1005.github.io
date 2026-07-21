@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/tuna-cakes
 image: /assets/Food/Fish/Tuna Cake/tuna-cake-cover.jpg
 file: tunacake

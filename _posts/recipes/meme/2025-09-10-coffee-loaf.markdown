@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/coffee-loaf
 image: /assets/Food/Meme/Coffee Loaf/cover.jpg
 file: coffeeloaf

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/broccoli-fries
 image: /assets/Food/Finger Food/Vegetable/vegetable-chip-cover.jpg
 file: veggiechip

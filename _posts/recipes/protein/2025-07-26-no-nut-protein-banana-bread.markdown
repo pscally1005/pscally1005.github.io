@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/no-nut-protein-banana-bread
 image: /assets/Food/Protein Powder/No Nut Protein Banana Bread/back.jpg
 file: nonutproteinbananabread
@@ -59,7 +60,7 @@ tags:
 - dessert
 Description: |
   This <a href='/misc/protein'>protein</a> <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> is made with <a href='/misc/grains#oats'>oat flour</a>, sweetened with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and is <a href='/misc/nuts'>nut</a> and <a href='/misc/celiac'>gluten free</a>. It's also a modification of my brother's fiancée's <a href='/misc/protein'>protein</a> <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> recipe, with some slight deviations.<br><br>
-  
+
   This healthy <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> is nearly identical in taste and texture to the classic, while being higher in <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>, lower in <a href='/misc/calories'>calories</a>, and with no <a href='/misc/hidden-sugar'>added sugar</a>.  For my original <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> recipe, see my <a href='/recipes/banana-protein'>Protein Bananan Nut Bread</a>.
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and lightly grease the paper.

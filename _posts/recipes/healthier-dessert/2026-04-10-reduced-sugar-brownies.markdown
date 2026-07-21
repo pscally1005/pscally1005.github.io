@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/reduced-sugar-brownies
 image: /assets/Food/Healthier Dessert/Reduced Sugar Brownies/cover.jpg
 file: reducedbrownies

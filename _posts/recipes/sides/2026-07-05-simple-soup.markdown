@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/simple-soup
 image: /assets/Food/Sides/Simple Soup/cover.jpg
 file: simplesoup

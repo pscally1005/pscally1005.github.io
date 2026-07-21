@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/dead-simple-chili
 image: /assets/Food/Meme/Chili/dead-chili.jpg
 file: deadchili

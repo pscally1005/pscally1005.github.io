@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chocolate-kefir
 image: /assets/Food/Drinks/Kefir/cover.jpg
 file: kefir

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/whole-wheat-bagels
 image: /assets/Food/Bread/WW Bagels/cover.jpg
 file: wwbagels

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/unsweetened-hot-cocoa
 image: /assets/Food/Drinks/Unsw Cocoa/unsw-cocoa.jpg
 file: cocoa

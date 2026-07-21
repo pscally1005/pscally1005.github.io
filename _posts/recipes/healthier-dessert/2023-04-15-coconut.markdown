@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/coconut-macaroons
 image: /assets/Food/Healthier Dessert/Coconut/cover.jpg
 file: coconut

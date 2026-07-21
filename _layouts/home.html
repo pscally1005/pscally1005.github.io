@@ -218,6 +218,8 @@ layout: base
         {% assign postCount = postCount | plus: 1 %}
       {% elsif page.title == "Protein Bars" and post.protein_bar == true %}
         {% assign postCount = postCount | plus: 1 %}
+      {% elsif page.title == "Bean Recipes" and post.beans == true %}
+        {% assign postCount = postCount | plus: 1 %}
       {% endif %}
     {% endif %}
 
@@ -275,6 +277,8 @@ layout: base
           {% elsif page.title == "Vic Recipes" and post.vic == true %}
             {% assign food_category = "true" %}
           {% elsif page.title == "Protein Bars" and post.protein_bar == true %}
+            {% assign food_category = "true" %}
+          {% elsif page.title == "Bean Recipes" and post.beans == true %}
             {% assign food_category = "true" %}
           {% endif %}
 

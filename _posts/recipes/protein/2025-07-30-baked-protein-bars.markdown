@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/baked-protein-bars
 image: /assets/Food/Protein Powder/Baked Protein Bars/cover.jpg
 file: bakedproteinbarunflcasein

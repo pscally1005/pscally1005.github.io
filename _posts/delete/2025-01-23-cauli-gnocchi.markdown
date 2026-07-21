@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cauliflower-gnocchi
 image: /assets/Food/Meatless/Gnocchi/cover-1.jpg
 file: gnocchi

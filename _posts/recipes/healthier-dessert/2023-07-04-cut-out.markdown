@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cut-out-cookies
 image: /assets/Food/Healthier Dessert/Cut Out/cut-out-cover.jpg
 file: cutout

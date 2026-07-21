@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/pork-tenderloin
 image: /assets/Food/Ground Meat/Pork Tenderloin/pork-tenderloin.jpg
 file: porktenderloin

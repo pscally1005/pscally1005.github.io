@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/eggplant-parm
 image: /assets/Food/Meatless/Eggplant Parm/cover.jpg
 file: eggplantparm2

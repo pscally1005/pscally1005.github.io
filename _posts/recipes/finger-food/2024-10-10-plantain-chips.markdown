@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/plantain-chips
 image: /assets/Food/Finger Food/Plantain Chips/plantain-chips-cover.jpg
 file: plantainchips

@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/hard-boiled-egg-mayo
 image: /assets/Food/Meme/Hard Boil Mayo/cover.jpg
 file: hardboilmayo

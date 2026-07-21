@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/no-protein-bar
 image: /assets/Food/Meme/No protein bar/cover.jpg
 file: noproteinbar

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/fajita-peppers
 image: /assets/Food/Sides/Fajita Peppers/cover.jpg
 file: fajitapeppers

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cottage-cheese-ice-cream
 image: /assets/Food/Protein Powder/Cottage Cheese Ice Cream/cc-cream.jpg
 file: ccicecream

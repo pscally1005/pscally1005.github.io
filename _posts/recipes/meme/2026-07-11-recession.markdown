@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/recession-beans
 image: /assets/Food/Meme/Recession/cover.jpg
 file: recession

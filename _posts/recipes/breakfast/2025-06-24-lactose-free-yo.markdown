@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/lactose-free-yogurt
 image: /assets/Food/Breakfast/Lactose Free Yogurt/cover-1.jpg
 file: lactosefreeyog

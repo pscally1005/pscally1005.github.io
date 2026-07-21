@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/oats-pb
 image: /assets/Food/Breakfast/Oatmeal/oats-pb.jpg
 file: oatspb

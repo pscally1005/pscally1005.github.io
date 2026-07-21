@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/date-cookies
 image: /assets/Food/Healthier Dessert/Date Cookie/date-cookie-cover.jpg
 file: datecookie

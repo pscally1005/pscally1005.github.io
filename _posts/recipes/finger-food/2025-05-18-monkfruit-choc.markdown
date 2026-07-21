@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/monkfruit-chocolate-chunks
 image: /assets/Food/Finger Food/Monk Fruit Chocolate/chocolate.jpg
 file: monkfruitchoc

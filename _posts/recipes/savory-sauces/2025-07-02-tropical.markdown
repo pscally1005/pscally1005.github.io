@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/tropical-salsa
 image: /assets/Food/Savory Sauces/Tropical Salsa/salsa.jpg
 file: tropical

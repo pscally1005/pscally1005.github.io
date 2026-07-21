@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/shrimp-oreganata
 image: /assets/Food/Fish/Oreganata/oreganata-cover.jpg
 file: oreganata

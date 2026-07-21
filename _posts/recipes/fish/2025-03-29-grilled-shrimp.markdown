@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/grilled-shrimp
 image: /assets/Food/Fish/Grilled Shrimp/cover.jpg
 file: grilledshrimp

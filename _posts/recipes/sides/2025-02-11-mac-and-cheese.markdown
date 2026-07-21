@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/two-ingredient-mac-and-cheese
 image: /assets/Food/Sides/Mac & Cheese/cover.jpg
 file: twoingmac

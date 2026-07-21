@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cinnamon-chickpea
 image: /assets/Food/Breakfast/Chickpea/milk.jpg
 file: cinnamontoastchickpeas

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/carrot-cake-bites
 image: /assets/Food/Finger Food/Carrot Cake/carrot-cake-bite.jpg
 file: carrotbite

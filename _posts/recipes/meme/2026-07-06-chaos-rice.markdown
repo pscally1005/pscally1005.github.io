@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chaos-rice
 image: /assets/Food/Meme/Chaos rice/cover.jpg
 file: chaosrice

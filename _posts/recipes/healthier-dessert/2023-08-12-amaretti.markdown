@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/amaretti
 image: /assets/Food/Healthier Dessert/Amaretti/amaretti-cover.jpg
 file: amaretticookies

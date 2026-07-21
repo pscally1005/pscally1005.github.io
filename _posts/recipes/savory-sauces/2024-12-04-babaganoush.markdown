@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/babaganoush
 image: /assets/Food/Savory Sauces/Babaganoush/cover.jpg
 file: babaganoush

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/baked-beans
 image: /assets/Food/Sides/Baked Beans/baked-beans.jpg
 file: bakedbeans

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pumpkin-cake
 image: /assets/Food/Healthier Dessert/Pumpkin cake/pumpkin-cake-cover-1.jpg
 file: pumpkincake

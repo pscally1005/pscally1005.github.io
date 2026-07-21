@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/almond-flour-rolls
 image: /assets/Food/Bread/Almond Flour Rolls/bagel-cc.jpg
 file: afrolls

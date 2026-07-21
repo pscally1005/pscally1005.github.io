@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/yellow-rice
 image: /assets/Food/Sides/Yellow Rice/yellow-rice.jpg
 file: yellowrice

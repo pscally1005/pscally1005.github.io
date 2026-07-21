@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/ice-cream
 image: /assets/Misc/Unhealthy/Ice Cream/cover.jpg
 file: icecreambrownsugar

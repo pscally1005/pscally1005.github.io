@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/edible-cookie-dough-bites
 image: /assets/Food/Healthier Dessert/OF CD/cookie-dough.jpg
 file: ofcd

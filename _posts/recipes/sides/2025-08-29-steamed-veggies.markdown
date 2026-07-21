@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/steamed-veggies
 image: /assets/Food/Sides/Steamed Veggies/cover.jpg
 file: steamedveggies

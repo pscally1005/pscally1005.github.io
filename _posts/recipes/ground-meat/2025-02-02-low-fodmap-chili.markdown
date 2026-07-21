@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/low-fodmap-chili
 image: /assets/Food/Ground Meat/Low FODMAP Chili/cover.jpg
 file: lowfodmapchili

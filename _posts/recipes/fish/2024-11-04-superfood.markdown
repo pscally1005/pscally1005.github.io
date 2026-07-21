@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/superfood-bowls
 image: /assets/Food/Fish/Superfood/superfood-cover.jpg
 file: superfood

@@ -19,6 +19,7 @@ cookie: no
 copycat: yes
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/fiber-one-brownies
 image: /assets/Food/Finger Food/Fiber One/cover.jpg
 file: fiberone

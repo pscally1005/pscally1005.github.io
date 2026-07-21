@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-pudding
 image: /assets/Food/Protein Powder/Pudding/protein-pudding.jpg
 file: proteinpudding

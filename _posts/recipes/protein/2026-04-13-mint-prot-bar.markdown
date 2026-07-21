@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/mint-protein-bar
 image: /assets/Food/Protein Powder/Mint Protein Bar/cover.jpg
 file: mintprotbar

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/vegan-protein-bars
 image: /assets/Food/Protein Powder/Vegan Protein Bars/cover2.jpg
 file: veganproteinbar

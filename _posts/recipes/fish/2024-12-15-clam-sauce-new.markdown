@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pasta-with-clam-sauce
 image: /assets/Food/Fish/Clam Sauce New/mixed.jpg
 file: clamsaucenew

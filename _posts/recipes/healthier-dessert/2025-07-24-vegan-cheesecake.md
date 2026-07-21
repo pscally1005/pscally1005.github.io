@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/vegan-chocolate-cheesecake
 image: /assets/Food/Healthier Dessert/Vegan cheesecake/cover.jpg
 file: chocolatecheesecake

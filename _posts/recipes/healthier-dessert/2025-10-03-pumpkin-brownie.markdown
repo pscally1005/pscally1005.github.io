@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/double-pumpkin-brownies
 image: /assets/Food/Healthier Dessert/Pumpkin Brownies/cover.jpg
 file: pumpkinbrownies3

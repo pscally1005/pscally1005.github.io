@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/fra-diavolo
 image: /assets/Food/Fish/Fra Diavolo/fra-diavolo-cover.jpg
 file: fradiavolo

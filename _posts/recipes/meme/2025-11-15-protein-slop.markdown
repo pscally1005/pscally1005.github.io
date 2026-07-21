@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-slop
 image: /assets/Food/Meme/Protein Slop/cover.jpg
 file: proteinslop

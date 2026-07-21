@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/vegetarian-soup
 image: /assets/Food/Meatless/Vegetarian Soup/cover.jpg
 file: vicsoup

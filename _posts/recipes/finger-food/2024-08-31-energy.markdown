@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/energy-bites
 image: /assets/Food/Finger Food/Energy Bites/energy-bites-cover.jpg
 file: energybites

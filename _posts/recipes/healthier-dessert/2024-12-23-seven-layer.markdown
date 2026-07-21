@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/seven-layer-bars
 image: /assets/Food/Healthier Dessert/7 Layer/cover.jpg
 file: 7layer

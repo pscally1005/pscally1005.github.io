@@ -19,6 +19,7 @@ cookie: no
 copycat: yes
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/core-power-milkshake
 image: /assets/Food/Drinks/Core Power/core-power.jpg
 file: corepower

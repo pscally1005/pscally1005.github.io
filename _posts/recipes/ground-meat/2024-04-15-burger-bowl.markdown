@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/burger-bowl
 image: /assets/Food/Ground Meat/Burger Bowl/burger-bowl-cover.jpg
 file: burgerbowl

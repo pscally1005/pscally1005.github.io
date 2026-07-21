@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-shake
 image: /assets/Food/Drinks/Protein/cover.jpg
 file: proteinshake

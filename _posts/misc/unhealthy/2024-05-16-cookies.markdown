@@ -18,6 +18,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/chocolate-chip-cookies
 image: /assets/Misc/Unhealthy/Cookies/cookies.jpg
 file: cookies

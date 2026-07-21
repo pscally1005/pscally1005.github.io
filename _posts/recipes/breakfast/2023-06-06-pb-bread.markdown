@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pb-bread
 image: /assets/Food/Breakfast/PB Bread/pb-bread-cover.jpg
 file: pbbread

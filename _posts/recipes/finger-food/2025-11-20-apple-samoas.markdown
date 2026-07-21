@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/apple-samoas
 image: /assets/Food/Finger Food/Apple Samoas/cover.jpg
 file: applesamoas

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/cornbread
 image: /assets/Food/Bread/Cornbread/cornbread-cover.jpg
 file: cornbread

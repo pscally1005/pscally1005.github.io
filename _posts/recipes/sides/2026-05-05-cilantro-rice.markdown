@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/cilantro-lime-rice
 image: /assets/Food/Sides/Cilantro Lime/cover.jpg
 file: cilantrolimerice

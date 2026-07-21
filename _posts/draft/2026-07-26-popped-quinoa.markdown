@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/popped-quinoa
 image: /assets/Food/Finger Food/Popped Quinoa/cover.jpg
 file: poppedquinoa

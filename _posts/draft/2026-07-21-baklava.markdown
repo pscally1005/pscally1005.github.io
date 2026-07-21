@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/baklava
 image: /assets/Food/Healthier Dessert/Baklava/cover1.jpg
 file: baklavasfs

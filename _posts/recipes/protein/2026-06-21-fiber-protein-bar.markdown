@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/fiber-protein-bar
 image: /assets/Food/Protein Powder/Fiber Protein Bar/cut.jpg
 file: fiberproteinbar

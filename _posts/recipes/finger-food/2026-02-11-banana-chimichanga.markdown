@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/banana-chimichanga
 image: /assets/Food/Finger Food/Banana chimichanga/cover.jpg
 file: bananachimichanga

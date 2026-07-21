@@ -19,6 +19,7 @@ cookie: no
 copycat: yes
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pan-de-higo
 image: /assets/Food/Finger Food/Pan de Higo/cover.jpg
 file: pandehigo

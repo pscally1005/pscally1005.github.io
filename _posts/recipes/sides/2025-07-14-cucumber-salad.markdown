@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/cucumber-salad
 image: /assets/Food/Sides/Cucumber salad/cover.jpg
 file: cucumbersalad

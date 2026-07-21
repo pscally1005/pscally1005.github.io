@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/bolognese-oats
 image: /assets/Food/Meme/Bolognese/bolognese-oats.jpg
 file: bologneseoats

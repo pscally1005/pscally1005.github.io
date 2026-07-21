@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/slow-cooked-beans
 image: /assets/Food/Sides/Crockpot Beans/beans-cover.jpg
 file: crockpotbeans

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/baked-sweet-potato
 image: /assets/Food/Sides/Baked Potato/baked-potato-2.jpg
 file: potato

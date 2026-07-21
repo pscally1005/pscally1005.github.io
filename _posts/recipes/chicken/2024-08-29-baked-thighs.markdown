@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/baked-chicken-thighs
 image: /assets/Food/Chicken/Baked Thighs/cover.jpg
 file: bakedthighs

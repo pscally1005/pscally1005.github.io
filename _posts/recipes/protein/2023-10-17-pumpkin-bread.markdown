@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pumpkin-bread
 image: /assets/Food/Protein Powder/Pumpkin Bread/pumpkin-bread-cover.jpg
 file: pumpkinbread

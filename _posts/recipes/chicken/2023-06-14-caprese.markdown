@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/caprese-chicken
 image: /assets/Food/Chicken/Caprese/caprese-cover.jpg
 file: caprese

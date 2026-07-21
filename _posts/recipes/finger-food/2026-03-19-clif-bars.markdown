@@ -19,6 +19,7 @@ cookie: no
 copycat: yes
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/clif-bars
 image: /assets/Food/Finger Food/Clif Bars/cover.jpg
 file: clifhoney

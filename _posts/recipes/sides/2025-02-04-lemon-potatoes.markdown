@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/greek-lemon-potatoes
 image: /assets/Food/Sides/Lemon Potatoes/cover.jpg
 file: lemonpotatoes

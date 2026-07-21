@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/tabbouleh
 image: /assets/Food/Sides/Tabbouleh/cover.jpg
 file: tabbouleh

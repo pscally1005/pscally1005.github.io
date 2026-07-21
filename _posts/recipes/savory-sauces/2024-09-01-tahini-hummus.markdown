@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/classic-tahini-hummus
 image: /assets/Food/Savory Sauces/Tahini Hummus/tahini-hummus.jpg
 file: tahinihummus

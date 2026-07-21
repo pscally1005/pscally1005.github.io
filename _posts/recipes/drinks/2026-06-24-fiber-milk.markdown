@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/fiber-chocolate-milk
 image: /assets/Food/Drinks/Fiber Milk/cover.jpg
 file: fiberchocmilk

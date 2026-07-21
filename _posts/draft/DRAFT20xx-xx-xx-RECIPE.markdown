@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/TODO
 image: /assets/Food/TODO/TODO/TODO.jpg
 file: TODO

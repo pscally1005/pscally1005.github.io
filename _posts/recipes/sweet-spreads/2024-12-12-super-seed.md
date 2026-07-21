@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/super-seed-butter
 image: /assets/Food/Sweet Spreads/Flavored Nut Butters/Seed/cover.jpg
 file: superseed

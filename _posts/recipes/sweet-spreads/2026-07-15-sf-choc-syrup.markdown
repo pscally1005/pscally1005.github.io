@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/sugar-free-chocolate-syrup
 image: /assets/Food/Sweet Spreads/SF Choc Syrup/cover.jpg
 file: sfchocsyrup

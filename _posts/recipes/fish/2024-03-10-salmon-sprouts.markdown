@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/salmon-and-tzatziki
 image: /assets/Food/Fish/Salmon Sprouts/cover.jpg
 file: salmonsprouts

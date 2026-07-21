@@ -20,6 +20,7 @@ cookie: no
 copycat: yes
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/chunky-monkey
 image: /assets/Food/Healthier Dessert/Chunky Monkey/cover.jpg
 file: chunkymonkey

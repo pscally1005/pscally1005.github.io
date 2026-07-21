@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/chicken-florentine
 image: /assets/Food/Chicken/Florentine/cover.jpg
 file: florentine

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chia-pudding
 image: /assets/Food/Breakfast/Chia Pudding/ab.jpg
 file: chiapudding

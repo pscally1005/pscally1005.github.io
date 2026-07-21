@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/sugar-cookies
 image: /assets/Misc/Unhealthy/Sugar Cookies/cover.jpg
 file: sugarcookies

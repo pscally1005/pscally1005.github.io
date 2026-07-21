@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/zero-calorie-cookies
 image: /assets/Food/Meme/0 Cal/cover.jpg
 file: 0cal

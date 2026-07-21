@@ -18,6 +18,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/coconut-banana-rum-cake
 image: /assets/Misc/Unhealthy/Rum Cake/cover.jpg
 file: rumcake

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/vegan-chili
 image: /assets/Food/Meatless/Vegan Chili/cover.jpg
 file: veganchili

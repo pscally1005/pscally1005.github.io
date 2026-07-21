@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/chickpea-chows
 image: /assets/Food/Protein Powder/Chickpea Chow/chow.jpg
 file: chow

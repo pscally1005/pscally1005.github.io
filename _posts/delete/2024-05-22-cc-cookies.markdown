@@ -20,6 +20,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cottage-cheese-cookies
 image: /assets/Food/Healthier Dessert/CC Cookies/cc-cookies.jpg
 file: cottagecheesecookies

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pesto-classico
 image: /assets/Food/Savory Sauces/Pesto Classico/pesto.jpg
 file: pestoclassico

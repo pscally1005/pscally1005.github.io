@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-mug-cake
 image: /assets/Food/Protein Powder/Mug Cake/cooked.jpg
 file: proteinmugcake

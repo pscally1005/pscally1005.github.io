@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/best-healthy-cookie-dough
 image: /assets/Misc/Experiments/Healthier Brownies Cookies/cookie-dough-bite.jpg
 file: cookiedoughhealthier

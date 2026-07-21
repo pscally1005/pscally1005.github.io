@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/oats-reeses
 image: /assets/Food/Breakfast/Oatmeal/oats-reeses.jpg
 file: oatsreeses

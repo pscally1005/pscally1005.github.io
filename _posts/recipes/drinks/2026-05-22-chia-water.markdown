@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chia-water
 image: /assets/Food/Drinks/Chia water/chia.jpg
 file: chiawater

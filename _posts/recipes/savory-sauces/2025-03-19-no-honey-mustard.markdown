@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/no-honey-mustard
 image: /assets/Food/Savory Sauces/No Honey Mustard/cover.jpg
 file: nohoneymustard

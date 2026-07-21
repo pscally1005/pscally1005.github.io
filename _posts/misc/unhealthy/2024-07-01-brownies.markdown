@@ -18,6 +18,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/brownies
 image: /assets/Misc/Unhealthy/Brownies/cover.jpg
 file: brownies

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-frosting
 image: /assets/Food/Sweet Spreads/Protein frosting/vanilla.jpg
 file: proteinfrosting

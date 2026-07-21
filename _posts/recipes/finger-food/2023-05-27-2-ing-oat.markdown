@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/two-ingredient-oat-cookies
 image: /assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-cover.jpg
 file: 2oatcookie

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/apple-cinnamon-bread
 image: /assets/Food/Breakfast/Apple Bread/apple-bread-cover.jpg
 file: applebread

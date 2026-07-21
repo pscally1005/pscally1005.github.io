@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/beef-and-broccoli
 image: /assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-cover.jpg
 file: beefbroccoli

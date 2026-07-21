@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/mushroom-soup
 image: /assets/Food/Sides/Mushroom Soup/mushroom-soup.jpg
 file: mushroomsoup

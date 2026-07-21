@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/miso-hummus
 image: /assets/Food/Savory Sauces/Miso Hummus/cover.jpg
 file: misohummus

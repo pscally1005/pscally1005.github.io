@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/hot-honey-beef-bowls
 image: /assets/Food/Ground Meat/Hot Honey Beef Bowls/cover.jpg
 file: hothoneybeefbowl

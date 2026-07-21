@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/pb-cups
 image: /assets/Food/Finger Food/PB Cups/cover.jpg
 file: pbcups

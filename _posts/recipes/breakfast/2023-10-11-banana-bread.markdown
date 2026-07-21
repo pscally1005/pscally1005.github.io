@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/banana-bread
 image: /assets/Food/Breakfast/Banana Bread/bb-cover.jpg
 file: bananabread

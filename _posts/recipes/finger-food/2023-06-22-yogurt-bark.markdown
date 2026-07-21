@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/yogurt-bark
 image: /assets/Food/Finger Food/Yogurt Bark/bark-cover.jpg
 file: bark

@@ -20,6 +20,7 @@ cookie: no
 copycat: yes
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/snickers-nice-cream-bar
 image: /assets/Food/Healthier Dessert/Snickers Nice Cream/cover.jpg
 file: snickersicecream

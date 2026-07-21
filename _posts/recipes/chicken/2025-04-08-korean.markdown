@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/korean-chicken
 image: /assets/Food/Chicken/Korean/cover.jpg
 file: koreannew

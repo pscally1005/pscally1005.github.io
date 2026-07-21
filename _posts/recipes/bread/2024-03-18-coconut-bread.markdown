@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/coconut-bread
 image: /assets/Food/Bread/Coconut Bread/coconut-bread-cover.jpg
 file: coconutbread

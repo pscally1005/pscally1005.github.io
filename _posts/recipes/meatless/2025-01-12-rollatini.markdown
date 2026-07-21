@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/eggplant-rollatini
 image: /assets/Food/Meatless/Rollatini/cover.jpg
 file: rollatini

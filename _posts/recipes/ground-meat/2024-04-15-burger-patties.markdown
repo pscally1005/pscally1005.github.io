@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/burger-patties
 image: /assets/Food/Ground Meat/Burger Patties/patty-cover.jpg
 file: patty

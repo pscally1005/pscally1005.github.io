@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/gluten-free-millet-bread
 image: /assets/Food/Bread/Millet Bread/millet-bread-cover.jpg
 file: milletbread

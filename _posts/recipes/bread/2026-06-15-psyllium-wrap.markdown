@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/psyllium-wrap
 image: /assets/Food/Bread/Psyllium wrap/new-cover.png
 file: psylliumwrap

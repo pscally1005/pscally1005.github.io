@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/broccoli-cheddar-soup
 image: /assets/Food/Meatless/Broccoli Cheddar/cover.jpg
 file: broccchedsoup

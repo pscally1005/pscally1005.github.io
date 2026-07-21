@@ -20,6 +20,7 @@ cookie: no
 copycat: yes
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/cherry-garcia
 image: /assets/Food/Healthier Dessert/Cherry Garcia/cover.jpg
 file: cherrygarcia

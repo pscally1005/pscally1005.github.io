@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/new-england-clam-chowder
 image: /assets/Food/Fish/NE Clam Chowder/pot.jpg
 file: newengland

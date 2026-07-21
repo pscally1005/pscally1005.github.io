@@ -19,6 +19,7 @@ cookie: yes
 copycat: yes
 vic: yes
 protein_bar: yes
+beans: no
 permalink: /recipes/copycat-quest-cookie
 image: /assets/Food/Protein Powder/Quest Cookie/coverCasein.jpg
 file: proteincookiequest

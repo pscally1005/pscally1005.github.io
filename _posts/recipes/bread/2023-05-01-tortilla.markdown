@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/tortilla
 image: /assets/Food/Bread/Tortillas/tortilla-cover.jpg
 file: tortillas

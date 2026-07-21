@@ -20,6 +20,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/syrup-cookies
 image: /assets/Food/Healthier Dessert/SF Syrup/sf-syrup-cover.jpg
 file: sfsyrup

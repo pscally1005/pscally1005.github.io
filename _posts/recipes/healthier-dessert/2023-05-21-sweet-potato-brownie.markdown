@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/sweet-potato-brownies
 image: /assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-cover.jpg
 file: sweetpotatobrownies

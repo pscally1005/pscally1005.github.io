@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/scrambled-eggs
 image: /assets/Food/Breakfast/Scrambled/scrambled-cover.jpg
 file: scrambled

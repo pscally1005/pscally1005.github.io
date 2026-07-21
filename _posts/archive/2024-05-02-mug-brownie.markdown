@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/mug-brownie
 image: /assets/Food/Healthier Dessert/Mug Brownie/mug-brownie-cover.jpg
 file: mugbrownie

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/coconut-blondies
 image: /assets/Food/Healthier Dessert/Coconut Blondies/cover.jpg
 file: coconutblondies

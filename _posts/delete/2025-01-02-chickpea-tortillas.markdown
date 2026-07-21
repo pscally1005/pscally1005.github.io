@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chickpea-tortillas
 image: /assets/Food/Finger Food/Chickpea Tortilla/cover.jpg
 file: chickpeatortillas

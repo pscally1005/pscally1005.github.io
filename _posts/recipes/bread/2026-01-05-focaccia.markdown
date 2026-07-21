@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/almond-flour-focaccia
 image: /assets/Food/Bread/Almond Flour Focaccia/cover.jpg
 file: affocaccia

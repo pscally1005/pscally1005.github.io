@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/lebanese-casserole
 image: /assets/Food/Ground Meat/Casserole/casserole-cover.jpg
 file: casserole

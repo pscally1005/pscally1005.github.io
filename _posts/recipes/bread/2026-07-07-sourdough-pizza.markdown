@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/sourdough-pizza-dough
 image: /assets/Food/Bread/Sourdough Pizza/cover.jpg
 file: sourdoughpizzadough

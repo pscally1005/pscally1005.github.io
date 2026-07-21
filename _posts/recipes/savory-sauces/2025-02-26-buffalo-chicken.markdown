@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/buffalo-chicken-dip
 image: /assets/Food/Savory Sauces/Buffalo Chicken/cover.jpg
 file: buffalodipnew

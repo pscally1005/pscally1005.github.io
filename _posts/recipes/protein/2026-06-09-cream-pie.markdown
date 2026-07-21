@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/oatmeal-cream-pies
 image: /assets/Food/Protein Powder/Cream Pie/cover.jpg
 file: creampie

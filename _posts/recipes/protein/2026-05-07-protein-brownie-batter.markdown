@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-brownie-batter
 image: /assets/Food/Protein Powder/Brownie Batter/cover.jpg
 file: proteinbrowniebatter

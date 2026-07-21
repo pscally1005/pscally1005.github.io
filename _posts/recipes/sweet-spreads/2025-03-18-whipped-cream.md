@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/whipped-cream
 image: /assets/Food/Sweet Spreads/Whipped Cream/cover.jpg
 file: whippedcream

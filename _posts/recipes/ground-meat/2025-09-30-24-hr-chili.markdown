@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/24-hour-chili
 image: /assets/Food/Ground Meat/24 Hour Chili/cover.jpg
 file: 24hourchili

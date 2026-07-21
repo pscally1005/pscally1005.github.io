@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/low-fodmap-tacos
 image: /assets/Food/Ground Meat/Low FODMAP/low-fodmap-cover.jpg
 file: lowfodmap

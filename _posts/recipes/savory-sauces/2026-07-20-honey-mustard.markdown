@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/honey-mustard
 image: /assets/Food/Savory Sauces/Vic Honey Mustard/spoon.jpg
 file: vichoneymustard

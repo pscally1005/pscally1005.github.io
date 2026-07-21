@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/nutella-cookie
 image: /assets/Misc/Unhealthy/Nutella Cookie/cover.jpg
 file: nutellacookie

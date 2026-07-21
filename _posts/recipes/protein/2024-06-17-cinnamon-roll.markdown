@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-cinnamon-rolls
 image: /assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-cover.jpg
 file: cinnamonroll

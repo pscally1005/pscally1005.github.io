@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chicken-noodle-stew
 image: /assets/Food/Chicken/Chicken Noodle/cover.jpg
 file: chickennoodle

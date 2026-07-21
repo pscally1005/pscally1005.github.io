@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cottage-cheese-peanut-butter
 image: /assets/Food/Sweet Spreads/PB CC/pb-cc.jpg
 file: pbcc

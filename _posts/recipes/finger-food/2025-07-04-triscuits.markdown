@@ -19,6 +19,7 @@ cookie: no
 copycat: yes
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/triscuits
 image: /assets/Food/Finger Food/Triscuit/cover-new.jpg
 file: triscuit

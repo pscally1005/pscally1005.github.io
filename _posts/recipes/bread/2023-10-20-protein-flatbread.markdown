@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/protein-wrap
 image: /assets/Food/Bread/Protein Wrap/protein-wrap-cover.jpg
 file: proteinwrap

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/best-healthy-brownies
 image: /assets/Misc/Experiments/Healthier Brownies Cookies/brownies-cover.jpg
 file: brownieshealthier1

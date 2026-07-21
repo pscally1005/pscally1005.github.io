@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/no-bake-brownies
 image: /assets/Food/Protein Powder/No Bake Brownie/no-bake-brownie-cover.jpg
 file: nobakebrownie

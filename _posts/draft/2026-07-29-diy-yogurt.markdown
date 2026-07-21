@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/diy-yogurt
 image: /assets/Food/Meme/DIY Yogurt/cover2.jpg
 file: diyyogurt

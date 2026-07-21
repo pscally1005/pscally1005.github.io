@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/chicken-fat-cornbread
 image: /assets/Misc/Unhealthy/Cornbread/cover2.jpg
 file: chickenfatcornbread

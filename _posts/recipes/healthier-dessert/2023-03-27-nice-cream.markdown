@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/nice-cream
 image: /assets/Food/Healthier Dessert/Nice Cream/cover.jpg
 file: nicecream

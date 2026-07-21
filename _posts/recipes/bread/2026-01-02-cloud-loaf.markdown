@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cloud-bread-loaf
 image: /assets/Food/Bread/Cloud Loaf/cover.jpg
 file: cloudloaf

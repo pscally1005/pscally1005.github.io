@@ -19,6 +19,7 @@ cookie: yes
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/lazy-rainbow-cookies
 image: /assets/Food/Meme/Lazy rainbow/cover.jpg
 file: lazyrainbow

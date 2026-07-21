@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/date-frosting
 image: /assets/Food/Sweet Spreads/Frosting/cover.jpg
 file: frosting

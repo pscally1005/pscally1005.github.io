@@ -19,6 +19,7 @@ cookie: no
 copycat: yes
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/chobani-yogurt-drink
 image: /assets/Food/Drinks/Chobani/chobani.jpg
 file: chobani

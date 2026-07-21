@@ -20,6 +20,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: yes
+beans: no
 permalink: /recipes/protein-donuts
 image: /assets/Food/Protein Powder/Donuts/cover1.jpg
 file: donuts

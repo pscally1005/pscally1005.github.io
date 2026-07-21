@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: yes
 protein_bar: no
+beans: no
 permalink: /recipes/oatmeal-berry-bars
 image: /assets/Food/Breakfast/Oat Berry Bar/cover-1.jpg
 file: oatmealberrybar

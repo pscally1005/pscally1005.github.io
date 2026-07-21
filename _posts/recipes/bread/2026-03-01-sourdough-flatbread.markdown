@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/sourdough-flatbread
 image: /assets/Food/Bread/Discard flatbread/cover.jpg
 file: sourdoughflatbread

@@ -19,6 +19,7 @@ cookie: no
 copycat: no
 vic: no
 protein_bar: no
+beans: no
 permalink: /recipes/cranberry-sauce
 image: /assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-cover.jpg
 file: cranberrysauce
