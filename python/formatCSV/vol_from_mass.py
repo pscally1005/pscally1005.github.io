@@ -445,6 +445,29 @@ def vol_from_mass(food, mass, vol):
         elif mass == "954":
             v = "12 pieces"
 
+    # Chicken fat
+    elif food == "Chicken fat" or food == "Extra virgin coconut oil":
+        if mass == "4" or mass == "5":
+            v = "1 tsp"
+        elif mass == "7" or mass == "7.5":
+            v = "1/2 tbsp"
+        elif mass == "14" or mass == "15":
+            v = "1 tbsp"
+        elif mass == "27" or mass == "28":
+            v = "2 tbsp"
+        elif mass == "41" or mass == "42":
+            v = "3 tbsp"
+        elif mass == "54" or mass == "56" or mass == "55":
+            v = "1/4"
+        elif mass == "68" or mass == "70":
+            v = "5 tbsp"
+        elif mass == "81" or mass == "84":
+            v = "6 tbsp"
+        elif mass == "95" or mass == "98":
+            v = "7 tbsp"
+        elif mass == "108" or mass == "112" or mass == "110":
+            v = "1/2 cup"
+
     # Liquids
     elif food == "Water" or food == "Unsweetened original almond milk" or food == "Unsweetened almond milk" or food == "Unsweetened vanilla almond milk" or food == "Skim milk" or food == "Fairlife skim milk" or food == "Extra virgin olive oil" or food == "Soy sauce, low sodium, gluten free" or food == "Balsamic vinegar" or food == "White vinegar" or food == "Apple cider vinegar" or food == "Unsweetened applesauce" or food == "White vinegar, or apple cider vinegar" or food == "Unsweetened almond milk, or water" or food == "Unsweetened vanilla almond milk, or water" or food == "Pumpkin puree" or food == "Pumpkin Puree" or food == "Pumpkin puree, or sweet potato" or food == "Pumpkin puree, or sweet potato puree" or food == "Sweet potato puree" or food == "Sweet Potato puree, Pumpkin puree, or Butternut Squash puree" or food == "Butternut squash puree" or food == "Sweet potato Puree, or Pumpkin puree" or food == "Low sodium soy sauce" or food == "Fat free Italian dressing" or food == "Italian dressing" or food == "Lime juice" or food == "Lemon juice" or food == "Sesame oil" or food == "Egg whites" or food == "Liquid egg whites" or food == "Evaporated milk" or food == "Fat free evaporated milk" or food == "Chicken bone broth" or food == "Chicken broth" or food == "Vegetable broth" or food == "Low sodium chicken broth" or food == "Low sodium vegetable broth" or food == "Liquid egg whites" or food == "Dijon mustard" or food == "Minced garlic" or food == "Simple pasta sauce" or food == "Sour cream" or food == "Vanilla extract" or food == "Almond extract" or food == "Mint extract" or food == "Maple extract" or food == "Coconut extract" or food == "Salsa" or food == "Sauerkraut" or food == "Pickled beet juice" or food == "Buttermilk" or food == "No sugar added apple spread" or food == "Vodka" or food == "Red wine vinegar" or food == "Fruit juice, sugar free" or food == "Cream cheese" or food == "Cream cheese, 1/3 less fat" or food == "Liquid whey, sweet" or food == "Liquid whey, acid" or food == "Liquid whey" or food == "Rum" or food == "Simple syrup" or food == "Honey mustard dressing" or food == "Lemonade, storebought":
         if mass == "0.625":
@@ -894,6 +917,14 @@ def vol_from_mass(food, mass, vol):
             v = "1 3/4 cup"
         elif mass == "240":
             v = "2 cup"
+        elif mass == "280":
+            v = "2 1/3 cup"
+        elif mass == "300":
+            v = "2 1/2 cup"
+        elif mass == "320":
+            v = "2 2/3 cup"
+        elif mass == "360":
+            v = "3 cup"
 
     # Protein powder
     elif food == "Whey protein powder, unflavored" or food == "Whey protein powder, chocolate" or food == "Whey protein powder, vanilla" or food == "Nutricost Whey Unflavored Protein Powder" or food == "Casein protein powder, unflavored" or food == "Casein protein powder, chocolate" or food == "Casein protein powder, vanilla" or food == "Nutricost Casein Unflavored Protein Powder" or food == "Pea protein powder, unflavored":

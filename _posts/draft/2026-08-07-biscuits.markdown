@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Small Batch o' Chicken Biscuits"
+date:   2026-07-22 00:00:00 -0500
+categories:
+- Recipes
+- Unhealthy Recipes
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: yes
+protein_bar: no
+beans: no
+permalink: /recipes/chicken-biscuits
+image: /assets/Misc/Unhealthy/Biscuits/cover.jpg
+file: biscuits
+servingSize: 1 biscuit (~69 g)
+section1: Dry
+start2: Chicken fat
+section2: Wet
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 15
+Rest:
+Cook: 15
+Source1: https://chatgpt.com/share/6a60e85b-54f0-83ea-a7cc-361a4f5334e6
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/AOWAD
+tags:
+- chicken fat
+- shmaltz
+- white flour
+- butter
+- biscuit
+- roll
+Description: What a great way to use up any leftover chicken fat rendered out from roasting chicken leg quarters.  Although not a healthy recipe, these biscuits are a minimal waste recipe, using any leftover chicken fat or broth you acquired when prepping some shredded chicken using leg quarters.  They're delicious, roasty, crusty, and crumbly, making them a fun side at a gathering.
+Instructions:
+- Preheat your oven to 425F, and line a cookie sheet with parchment paper.
+
+- In a large bowl, whisk together the dry ingredients - flour, baking powder, rosemary, garlic powder, onion powder, and salt.
+
+- Add in cold chicken fat and cold broth. Mix with your hands (wearing kitchen gloves) until you have a fully combined dough.
+- <img src='/assets/Misc/Unhealthy/Biscuits/bowl.jpg' alt='' class='instruction-image'>
+
+- Divide the dough into 8 equal pieces, about <b>71 g</b> each. Roll into balls, place on the cookie sheet, and lightly flatten.
+- <img src='/assets/Misc/Unhealthy/Biscuits/raw1.jpg' alt='' class='instruction-image'>
+
+- Optionally, brush the tops with oil, butter, or chicken fat. Optionally top with flaky salt, sesame seeds, or everything bagel seasoning
+- <img src='/assets/Misc/Unhealthy/Biscuits/raw2.jpg' alt='' class='instruction-image'>
+
+- Bake at 425F for about 15 minutes. They should be lightly golden brown, lightly cracked, a toothpick to the center will come out clean, and the internal temperature will be about 205F.
+- <img src='/assets/Misc/Unhealthy/Biscuits/baked.jpg' alt='' class='instruction-image'>
+Notes:
+- Butter will work in place of chicken fat
+
+- Water or buttermilk will work in place of chicken broth.
+---

@@ -10,6 +10,20 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/chicken-biscuits": [
+        "chicken biscuits",
+        "chicken biscuit",
+        "biscuits",
+        "biscuit",
+        "small batch o' chicken biscuits",
+        "small batch o' chicken biscuit",
+        "small batch of chicken biscuits",
+        "small batch of chicken biscuit"
+        "small batch chicken biscuits",
+        "small batch chicken biscuit",
+        "chicken fat biscuits",
+        "chicken fat biscuit"
+    ],
     "/recipes/protein-cheesecake-brownies": [
         "high protein brownie cheesecake bars",
         "high protein brownie cheesecake bar",
@@ -2391,7 +2405,9 @@ LINKS = {
         "homemade chicken broth",
         "chicken bone broth",
         "slow cooking a whole chicken",
-        "chicken broth"
+        "chicken broth",
+        "homemade chicken fat",
+        "rendered out chicken fat"
     ],
     "/recipes/seitan": [
         "seitan"
@@ -6108,7 +6124,17 @@ LINKS = {
         "chicken legs",
         "chicken leg",
         "you should get chicken leg quarters",
-        "you should be getting chicken leg quarters"
+        "you should be getting chicken leg quarters",
+        "roasting chicken leg quarters",
+        "roasting chicken leg quarter",
+        "roasting chicken legs",
+        "roasting chicken leg",
+        "roasted chicken leg quarters",
+        "roasted chicken leg quarter",
+        "roasted chicken legs",
+        "roasted chicken leg",
+        "leg quarters",
+        "leg quarter"
     ],
     "/misc/healthier-brownies-and-cookies-experiment": [
         "healthier brownies & cookies experiment",
@@ -8887,7 +8913,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-08-24")):
+            if not file.startswith(("2026-08-07")):
                 continue
 
             # exclude some files
