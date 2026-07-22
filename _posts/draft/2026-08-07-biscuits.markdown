@@ -3,7 +3,7 @@ layout: post
 title:  "Small Batch o' Chicken Biscuits"
 date:   2026-07-22 00:00:00 -0500
 categories:
-- Recipes
+- Misc.
 - Unhealthy Recipes
 - Draft
 showPercentage: no
@@ -50,25 +50,25 @@ tags:
 - butter
 - biscuit
 - roll
-Description: What a great way to use up any leftover chicken fat rendered out from roasting chicken leg quarters.  Although not a healthy recipe, these biscuits are a minimal waste recipe, using any leftover chicken fat or broth you acquired when prepping some shredded chicken using leg quarters.  They're delicious, roasty, crusty, and crumbly, making them a fun side at a gathering.
+Description: What a great way to use up any leftover <a href='/misc/slow-cooker-chicken'>chicken fat</a> rendered out from <a href='/misc/chicken-leg-quarters'>roasting chicken leg quarters</a>.  Although not a healthy recipe, these biscuits are a minimal waste recipe, using any leftover <a href='/misc/slow-cooker-chicken'>chicken fat</a> or <a href='/misc/bone-broth'>broth</a> you acquired when prepping some <a href='/recipes/shredded-chicken'>shredded chicken</a> using <a href='/misc/chicken-leg-quarters'>leg quarters</a>.  They're delicious, roasty, crusty, and crumbly, making them a fun <a href='/recipes/sides'>side</a> at a gathering.
 Instructions:
-- Preheat your oven to 425F, and line a cookie sheet with parchment paper.
+- Preheat your oven to 425F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- In a large bowl, whisk together the dry ingredients - flour, baking powder, rosemary, garlic powder, onion powder, and salt.
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#white-wheat'>flour</a>, baking powder, rosemary, garlic powder, onion powder, and salt.
 
-- Add in cold chicken fat and cold broth. Mix with your hands (wearing kitchen gloves) until you have a fully combined dough.
+- Add in cold <a href='/misc/slow-cooker-chicken'>chicken fat</a> and cold <a href='/misc/bone-broth'>broth</a>. Mix with your hands (wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>) until you have a fully combined dough.
 - <img src='/assets/Misc/Unhealthy/Biscuits/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide the dough into 8 equal pieces, about <b>71 g</b> each. Roll into balls, place on the cookie sheet, and lightly flatten.
+- Divide the dough into 8 equal pieces, about <b>71 g</b> each. Roll into balls, place on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and lightly flatten.
 - <img src='/assets/Misc/Unhealthy/Biscuits/raw1.jpg' alt='' class='instruction-image'>
 
-- Optionally, brush the tops with oil, butter, or chicken fat. Optionally top with flaky salt, sesame seeds, or everything bagel seasoning
+- Optionally, brush the tops with <a href='/misc/olive-oil'>oil</a>, <a href='/misc/dairy#butter'>butter</a>, or <a href='/misc/slow-cooker-chicken'>chicken fat</a>. Optionally top with flaky salt, <a href='/misc/seeds#sesame-seeds'>sesame seeds</a>, or everything bagel seasoning
 - <img src='/assets/Misc/Unhealthy/Biscuits/raw2.jpg' alt='' class='instruction-image'>
 
-- Bake at 425F for about 15 minutes. They should be lightly golden brown, lightly cracked, a toothpick to the center will come out clean, and the internal temperature will be about 205F.
+- Bake at 425F for about 15 minutes. They should be lightly golden brown, lightly cracked, a toothpick to the center will come out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be about <a href='https://amzn.to/4kmobG2'>205F</a>.
 - <img src='/assets/Misc/Unhealthy/Biscuits/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- Butter will work in place of chicken fat
+- <a href='/misc/dairy#butter'>Butter</a> will work in place of <a href='/misc/slow-cooker-chicken'>chicken fat</a>
 
-- Water or buttermilk will work in place of chicken broth.
+- Water or <a href='/misc/dairy#buttermilk'>buttermilk</a> will work in place of <a href='/misc/slow-cooker-chicken'>chicken broth</a>.
 ---
