@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/veggie-ground
 image: /assets/Food/Meatless/Veggie Ground/vg-pot.jpg
 file: veggieground
-servingSize:
+servingSize: ~TODO g
 section1: Veggies
 start2: Walnuts
 section2: Nuts
@@ -88,8 +88,25 @@ Instructions:
 
 - Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your <a href='/misc/veggies#garlic'>garlic</a>, soy sauce, mustard, <a href='https://amzn.to/4pw27vM'>marmite</a>, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out
 
-- Turn off heat and add <a href='/misc/nuts#walnuts'>walnut</a> and tomato paste mixture. Mix thoroughly to combine. Mix in your <a href='https://amzn.to/4aXnK21'>protein powder</a>, season with salt to taste, and enjoy
+- Turn off heat and add <a href='/misc/nuts#walnuts'>walnut</a> and tomato paste mixture. Mix thoroughly to combine. Mix in your <a href='https://amzn.to/4aXnK21'>protein powder</a>, add in just enough water if necessary to get all the <a href='https://amzn.to/4aXnK21'>protein powder</a> mixed in, and season with salt to taste
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-container.jpg' alt='' class='instruction-image'>
 Notes:
-- If you don't have <a href='https://amzn.to/4pw27vM'>marmite</a>, you can replace it with an equal amount of either <a href='https://amzn.to/4hqp55w'>vegemite</a> or <a href='https://amzn.to/3TbDFnv'>veggie better than bouillon</a>
+- If you don't have <a href='https://amzn.to/4pw27vM'>marmite</a>, you can replace it with an equal amount of <a href='https://amzn.to/4hqp55w'>vegemite</a>.  To make it <a href='/misc/celiac'>gluten free</a>, use <a href='https://amzn.to/3TbDFnv'>veggie better than bouillon</a>
+
+- |
+  <div id='compared-to-beef' class='table-of-contents-2'></div>
+  On a per <a href='/misc/calories'>calorie</a> basis, <a href='#recipe'>this veggie ground</a> has more <a href='/misc/protein'>protein</a> than the standard 80/20 <a href='/misc/meat#ground-beef'>ground beef</a>, as well as less <a href='/misc/fats'>fat</a> and more <a href='/misc/fiber'>fiber</a>.  Below is a nutritional comparison per 100 <a href='/misc/calories'>calories</a> for the <a href='#recipe'>veggie ground</a> (~TODO g cooked), and 80/20 <a href='/misc/meat#ground-beef'>ground beef</a> (~30 g cooked).
+- |
+  COMPARE(
+    "veggie-ground-100cal",
+    "80-20-beef-100cal";
+
+    "<a href='#recipe'>Veggie<br>Ground</a>",
+    "<a href='/misc/meat#ground-beef'>80/20<br>Beef</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Fiber"
+  )
 ---

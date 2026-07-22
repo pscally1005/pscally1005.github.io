@@ -757,6 +757,8 @@ def ingredients(food):
         f = "Ground beef, 80/20"
     elif food == "bean-burger-pea":
         f = "Protein Black Bean Burgers"
+    elif food == "veggie-ground":
+        f = "High Protein Veggie Ground"
     elif food == "tomato-turkey-taco":
         f = "Tomato Turkey Tacos"
     elif food == "Tilapia fillet" or food == "Fish, raw, tilapia":
