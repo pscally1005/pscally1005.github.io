@@ -105,6 +105,9 @@ def ingredients(food):
         f = "Old Bay"
     elif food == "Nutritional yeast seasoning by BRAGG" or food == "Nutritional yeast superfoods by FOODS ALIVE":
         f = "Nutritional yeast"
+    elif food == "Yeast extract spread":
+        f = "Marmite"
+        # f = "Vegemite"
     elif food == "Chives, freeze-dried":
         f = "Chives, dried"
     elif food == "Italian seasoning by Raley's" or food == "Italian seasoning by ROUNDY'S":

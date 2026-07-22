@@ -5347,6 +5347,22 @@ LINKS = {
     ],
 
     # AMAZON
+    'https://amzn.to/4pw27vM': [
+        "yeast extract spread",
+        "yeast extract",
+        "marmite",
+        "marmite yeast extract",
+        "marmite spread",
+        "marmite yeast extract spread"
+    ],
+    'https://amzn.to/4hqp55w': [
+        # "yeast extract spread",
+        # "yeast extract",
+        "vegemite",
+        "vegemite yeast extract",
+        "vegemite spread",
+        "vegemite yeast extract spread"
+    ],
     "https://amzn.to/4wPTDC8": [
         "donut mold",
         "donut molds",
@@ -5509,6 +5525,12 @@ LINKS = {
         "filo sheets",
         "fillo dough sheets",
         "fillo sheets"
+    ],
+    'https://amzn.to/3TbDFnv': [
+        "veggie better than bouillon",
+        "vegetable better than bouillon",
+        "better than bouillon vegetable",
+        "better than bouillon veggie"
     ],
     "https://amzn.to/4c6GlII": [
         "chicken better than bouillon",
@@ -8865,7 +8887,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-06")):
+            if not file.startswith(("2024-08-24")):
                 continue
 
             # exclude some files

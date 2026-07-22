@@ -356,6 +356,17 @@ def grams(food, mass, vol):
       elif vol == "16 tbsp" or vol == "1 cup":
           m = "92"
 
+    # Marmite & vegemite
+    elif food == "Marmite" or food == "Vegemite" or food == "Yeast extract spread":
+        if vol == "1/2 tsp":
+            m = "4"
+        elif vol == "1 tsp":
+            m = "8"
+        elif vol == "2 tsp":
+            m = "16"
+        elif vol == "3 tsp" or vol == "1 tbsp":
+            m = "24"
+
     # Nutritional yeast, cocoa, psyllium
     elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Psyllium husks, whole":
         if vol == "1/2 tbsp" or vol == "1.5 tsp" or vol == "1 1/2 tsp":

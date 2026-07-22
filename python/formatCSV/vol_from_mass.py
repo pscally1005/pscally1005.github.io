@@ -566,6 +566,17 @@ def vol_from_mass(food, mass, vol):
         elif mass == "92":
             v = "1 cup"
 
+    # Marmite & vegemite
+    elif food == "Marmite" or food == "Vegemite" or food == "Yeast extract spread":
+        if mass == "4":
+            v = "1/2 tsp"
+        elif mass == "8":
+            v = "1 tsp"
+        elif mass == "16":
+            v = "2 tsp"
+        elif mass == "24":
+            v = "1 tbsp"
+
     # Nutritional yeast, cocoa, psyllium
     elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Psyllium husks, whole":
         if mass == "2.5":
@@ -925,7 +936,7 @@ def vol_from_mass(food, mass, vol):
             v = "2/3 cup"
         elif mass == "90":
             v = "3/4 cup"
-        elif mass == "120" or mass == "128":
+        elif mass == "120" or mass == "128" or mass == "115" or mass == "117" or mass == "120":
             v = "1 cup"
         elif mass == "180" or mass == "196":
             v = "1 1/2 cup"
