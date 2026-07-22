@@ -22,7 +22,7 @@ vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/limeade
-image: /assets/Food/Drinks/Limeade/cover.jpg
+image: /assets/Food/Drinks/Limeade/coverNew.jpg
 file: limeade
 servingSize: 1 cup (240 g)
 section1:

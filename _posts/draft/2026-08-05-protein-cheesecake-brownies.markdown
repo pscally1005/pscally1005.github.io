@@ -57,7 +57,7 @@ tags:
 - nut free
 - gluten free
 - protein bar
-Description: New baked <a href='/protein-bar'>protein bar</a> just dropped.  Delicious and fudgy chocolate brownie bars topped with a creamy cheesecake layer. Each of these 4 <a href='/protein-bar'>protein bars</a> has over 15 g of <a href='/misc/protein'>protein</a> in about 130 <a href='/misc/calories'>calories</a>, while being free of <a href='/misc/celiac'>gluten</a>, <a href='/misc/nuts'>nuts</a>, and <a href='/misc/hidden-sugar'>added sugar</a>.
+Description: New baked <a href='/protein-bar'>protein bar</a> just dropped.  Delicious and fudgy chocolate brownie bars topped with a creamy cheesecake layer. Each <a href='/protein-bar'>protein bar</a> packs over 15 g of <a href='/misc/protein'>protein</a> in about 130 <a href='/misc/calories'>calories</a>, while being <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/nuts'>nut-free</a>, and made without <a href='/misc/hidden-sugar'>added sugar</a>.
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease with oil</a>.
 

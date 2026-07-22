@@ -21,7 +21,7 @@ vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/electrolyte-powder
-image: /assets/Food/Drinks/LMNT/electrolyte.jpg
+image: /assets/Food/Drinks/LMNT/coverNew.jpg
 file: lmntglycinate
 servingSize: 3.4 g
 section1:
