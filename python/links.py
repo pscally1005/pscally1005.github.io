@@ -2148,15 +2148,6 @@ LINKS = {
         "Chocolate Free Chocolate",
         "carob chocolate bar"
     ],
-    "/recipes/nutella": [
-        "roasted hazelnut nutella (sf)",
-        "roasted hazlnut nutella",
-        "homemade nutella"
-    ],
-    "/recipes/quick-nutella": [
-        "single serving quick nutella",
-        "quick nutella"
-    ],
     "/recipes/pecan-butter-bars": [
         "carob pecan butter bars",
         "carob pecan butter bar",
@@ -2269,7 +2260,16 @@ LINKS = {
         # "chocolate spread",
         "sugar free chocolate spread",
         "sugar-free chocolate spread"
-
+    ],
+    "/recipes/protein-nutella": [
+        "protein nutella",
+        "high protein nutella",
+        "high protein chocolate spread",
+        "high protein nutella copycat",
+        "protein nutella copycat",
+        "protein copycat nutella",
+        "high protein copycat nutella",
+        "yogurt nutella"
     ],
     "/recipes/gf-crackers": [
         "gluten free graham crackers",

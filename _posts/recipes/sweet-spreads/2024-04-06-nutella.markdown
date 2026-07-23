@@ -70,7 +70,7 @@ Instructions:
 - Here, I used the <a href='/misc/fake-healthy-foods#nutella'>nutella</a> as a filling in a <a href='/misc/fake-healthy-foods#nutella'>nutella</a> pie, where I used the crust from my <a href='/recipes/peanut-butter-pie'>Peanut Butter Banana Pie</a> recipe, and topped it with <a href='/misc/nuts#pistachios'>pistachios</a> and melted <a href='/misc/nuts#peanuts'>peanut butter</a>
 - <img src='/assets/Food/Sweet Spreads/Nutella/pie.jpg' alt='' class='instruction-image'>
 Notes:
-- Below is a table comparing the nutrition facts of my homemade spread to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> per 100 g.  As you can see, the homemade version contains significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>
+- Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> per 100 g.  As you can see, the <a href='#recipe'>homemade version</a> contains significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>
 
 - |
   COMPARE(

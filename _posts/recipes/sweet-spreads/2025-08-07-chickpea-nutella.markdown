@@ -69,7 +69,7 @@ Notes:
 
 - All 3 variations (<a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>) will yield 18 servings of 2 tbsp (32 g) each
 
-- Below is a table comparing the nutrition facts of my homemade spread to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> <b>per 100 g</b>.  As you can see, the homemade versions contain significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/hidden-sugar'>added sugar</a>, while having substantially more <a href='/misc/fiber'>fiber</a>
+- Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> <b>per 100 g</b>.  As you can see, the <a href='#recipe'>homemade versions</a> contain significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/hidden-sugar'>added sugar</a>, while having substantially more <a href='/misc/fiber'>fiber</a>
 
 - |
   COMPARE(
