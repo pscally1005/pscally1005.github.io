@@ -10,6 +10,36 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/sludge-brick": [
+        "peanut butter chocolate sludge brick",
+        "peanut butter chocolate sludge bricks",
+        "peanut butter sludge brick",
+        "peanut butter sludge bricks",
+        "peanut chocolate sludge brick",
+        "peanut chocolate sludge bricks"<
+        "chocolate peanut sludge brick",
+        "chocolate peanut sludge bricks",
+        "chocolate sludge brick",
+        "chocolate sludge bricks"
+        "chocolate peanut butter sludge brick",
+        "chocolate peanut butter sludge bricks",
+        "sludge brick",
+        "sludge bricks",
+        "peanut butter chocolate sludge bar",
+        "peanut butter chocolate sludge bars",
+        "peanut butter sludge bar",
+        "peanut butter sludge bars",
+        "peanut chocolate sludge bar",
+        "peanut chocolate sludge bars"<
+        "chocolate peanut sludge bar",
+        "chocolate peanut sludge bars",
+        "chocolate sludge bar",
+        "chocolate sludge bars"
+        "chocolate peanut butter sludge bar",
+        "chocolate peanut butter sludge bars",
+        "sludge bar",
+        "sludge bars"
+    ],
     "/recipes/chicken-biscuits": [
         "chicken biscuits",
         "chicken biscuit",
@@ -8913,7 +8943,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-07")):
+            if not file.startswith(("2026-08-08")):
                 continue
 
             # exclude some files

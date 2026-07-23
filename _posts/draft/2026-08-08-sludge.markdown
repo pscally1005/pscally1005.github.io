@@ -1,0 +1,73 @@
+---
+layout: post
+title:  Peanut Butter Chocolate Sludge Brick
+date:   2026-07-22 00:00:00 -0500
+categories:
+- Recipes
+- Meme Recipes
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: yes
+beans: no
+permalink: /recipes/sludge-brick
+image: /assets/Food/Meme/Sludge/cover1.jpg
+file: sludge
+servingSize: Whole bar
+section1: Chocolate
+start2: Powdered peanut butter
+section2: Peanut butter
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest: 120
+Cook:
+Source1: https://www.instagram.com/reel/Da1HDdSpSjQ/?igsh=MWhpb3Z4NTk3bnFlNw==
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/aB4wZ
+tags:
+- peanut butter
+- powdered peanut butter
+- pb2
+- pbfit
+- chocolate
+- cocoa powder
+- sugar free syrup
+- protein bar
+- sugar free
+- gluten free
+- vegan
+Description: It ain't stupid if it works.  3 ingredient, no bake, vegan, sugar free, and gluten free peanut butter chocolate protein bar?  This "sludge brick" is just a swirling of cocoa powder and powdered peanut butter and sugar free syrup, for a dead simple bar with 18 g of protein in 180 calories.
+Instructions:
+- In a small bowl, mix together cocoa powder and sugar free syrup with a silicone spatula. Set aside.
+- <img src='/assets/Food/Meme/Sludge/chocolate.jpg' alt='' class='instruction-image'>
+
+- In a small bowl, mix together powdered peanut butter and sugar free syrup with a silicone spatula. Set aside.
+- <img src='/assets/Food/Meme/Sludge/pb.jpg' alt='' class='instruction-image'>
+
+- Line a small container with parchment paper. Add the chocolate mixture to the bottom, then the peanut butter on top. Lightly swirl together. Optionally top with flaky salt.
+- <img src='/assets/Food/Meme/Sludge/container.jpg' alt='' class='instruction-image'>
+
+- Freeze for at least 2 hours before eating.
+- <img src='/assets/Food/Meme/Sludge/cover2.jpg' alt='' class='instruction-image'>
+Notes:
+- This whole bar has about as much caffeine as half a cup of coffee, so don't have it too late in the day. Alternatively, if you used carob instead of cocoa, it will be less bitter and caffeine free.
+---
