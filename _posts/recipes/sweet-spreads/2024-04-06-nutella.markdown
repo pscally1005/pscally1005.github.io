@@ -57,7 +57,12 @@ tags:
 - applesauce
 - unsweetened applesauce
 - copycat
-Description: Did you know that <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> contains only about 13% <a href='/misc/nuts#hazelnuts'>hazelnuts</a>? More than half of <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> is pure <a href='/misc/hidden-sugar'>sugar</a>, and over a third of it is <a href='/misc/fats'>hydrogenated oils</a>; that's gross. This recipe is a much cleaner <a href='/misc/fake-healthy-foods#nutella'>Nutella</a>, instead being predominantly <a href='/misc/nuts#hazelnuts'>hazelnuts</a>, and sweetened with fully natural overripe <a href='/misc/fruit#banana'>bananas</a>. <a href='https://amzn.to/4rhYDwh'>Carob powder</a> makes it slightly sweeter as well, but feel free to use <a href='/misc/chocolate-benefits'>cocoa powder</a> instead.  Or check out any of my other <a href='/nut-butter'>nut butter recipes</a>!
+Description: |
+  Did you know that <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> contains only about 13% <a href='/misc/nuts#hazelnuts'>hazelnuts</a>? More than half of <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> is pure <a href='/misc/hidden-sugar'>sugar</a>, and over a third of it is <a href='/misc/fats'>hydrogenated oils</a>; that's gross.<br><br>
+
+  This recipe is a much cleaner <a href='/misc/fake-healthy-foods#nutella'>Nutella</a>, instead being predominantly <a href='/misc/nuts#hazelnuts'>hazelnuts</a>, and sweetened with fully natural overripe <a href='/misc/fruit#banana'>bananas</a>. <a href='https://amzn.to/4rhYDwh'>Carob powder</a> makes it slightly sweeter as well, but feel free to use <a href='/misc/chocolate-benefits'>cocoa powder</a> instead.<br><br>
+
+  For other <a href='/copycat'>copycat</a> <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> recipes, check out my <a href='/recipes/protein-nutella'>Protein Copycat Nutella</a>, <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a>, and <a href='/recipes/chickpea-nutella'>No Nut Chickpea Nutella</a>!
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F. Add raw <a href='/misc/nuts#hazelnuts'>hazelnuts</a> to the basket, and roast for 15 minutes.  If your <a href='/misc/nuts#hazelnuts'>hazelnuts</a> are already roasted, just 5 minutes will do
 
@@ -70,7 +75,7 @@ Instructions:
 - Here, I used the <a href='/misc/fake-healthy-foods#nutella'>nutella</a> as a filling in a <a href='/misc/fake-healthy-foods#nutella'>nutella</a> pie, where I used the crust from my <a href='/recipes/peanut-butter-pie'>Peanut Butter Banana Pie</a> recipe, and topped it with <a href='/misc/nuts#pistachios'>pistachios</a> and melted <a href='/misc/nuts#peanuts'>peanut butter</a>
 - <img src='/assets/Food/Sweet Spreads/Nutella/pie.jpg' alt='' class='instruction-image'>
 Notes:
-- Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> per 100 g.  As you can see, the <a href='#recipe'>homemade version</a> contains significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>
+- Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://amzn.to/48ZvAra'>Nutella</a> per 100 g.  As you can see, the <a href='#recipe'>homemade version</a> contains significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>
 
 - |
   COMPARE(
@@ -78,7 +83,7 @@ Notes:
     "classic-nutella-100g";
 
     "<a href='#recipe'>Homemade</a>",
-    "<a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Storebought</a>";
+    "<a href='https://amzn.to/48ZvAra'>Storebought</a>";
 
     "Calories",
     "Protein",

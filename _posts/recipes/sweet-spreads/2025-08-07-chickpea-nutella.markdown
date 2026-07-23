@@ -52,7 +52,14 @@ tags:
 - sugar free
 - almond extract
 - copycat
-Description: <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> is a sweet <a href='/misc/nuts'>nut</a> based chocolate spread. Well, <a href='/misc/nuts'>nut</a> based is a stretch, there's more <a href='/misc/hidden-sugar'>sugar</a> and oil in standard <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> than <a href='/misc/nuts#hazelnuts'>hazelnuts</a>. I do already have healthier <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> alternatives, such as <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a> and <a href='/recipes/nutella'>Roasted Hazelnut Nutella (SF)</a>, both with no <a href='/misc/hidden-sugar'>added sugar</a>. But today, I'm making a <a href='/misc/nuts'>nut</a> free <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> using roasted <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>. It's delicious, naturally sweet, <a href='/misc/calories'>low calorie</a>, and <a href='/misc/fiber'>high fiber</a>.
+Description: |
+  <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> is a sweet <a href='/misc/nuts'>nut</a> based chocolate spread. Well, <a href='/misc/nuts'>nut</a> based is a stretch, there's more <a href='/misc/hidden-sugar'>sugar</a> and oil in standard <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> than <a href='/misc/nuts#hazelnuts'>hazelnuts</a>.<br><br>
+
+  I do already have healthier <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> alternatives, such as <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a> and <a href='/recipes/nutella'>Roasted Hazelnut Nutella (SF)</a>, both with no <a href='/misc/hidden-sugar'>added sugar</a>.<br><br>
+
+  But today, I'm making a <a href='/misc/nuts'>nut</a> free <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> using roasted <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>. It's delicious, naturally sweet, <a href='/misc/calories'>low calorie</a>, and <a href='/misc/fiber'>high fiber</a>.<br><br>
+
+  For other <a href='/copycat'>copycat</a> <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> recipes, check out my <a href='/recipes/nutella'>Roasted Hazelnut Nutella</a>, <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a>, and <a href='/recipes/protein-nutella'>Protein Copycat Nutella</a>!
 Instructions:
 - Drain and rinse your <a href='/misc/beans#chickpeas'>chickpeas</a>. <a href='https://amzn.to/3FuWETp'>Air fry</a> at 380F for about 15 minutes, or until dried and crispy. You can also roast in a 425F oven for about 30 minutes
 
@@ -69,7 +76,7 @@ Notes:
 
 - All 3 variations (<a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>) will yield 18 servings of 2 tbsp (32 g) each
 
-- Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> <b>per 100 g</b>.  As you can see, the <a href='#recipe'>homemade versions</a> contain significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/hidden-sugar'>added sugar</a>, while having substantially more <a href='/misc/fiber'>fiber</a>
+- Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://amzn.to/48ZvAra'>Nutella</a> <b>per 100 g</b>.  As you can see, the <a href='#recipe'>homemade versions</a> contain significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/hidden-sugar'>added sugar</a>, while having substantially more <a href='/misc/fiber'>fiber</a>
 
 - |
   COMPARE(
@@ -81,7 +88,7 @@ Notes:
     "With<br><a href='/misc/fruit#dates'>Dates</a>",
     "With<br><a href='/recipes/sugar-free-syrup'>Sugar<br>Free<br>Syrup</a>",
     "With<br><a href='https://amzn.to/4ceFnvP'>Granulated<br>Monk<br>Fruit</a>",
-    "<a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Storebought</a>";
+    "<a href='https://amzn.to/48ZvAra'>Storebought</a>";
 
     "Calories",
     "Protein",

@@ -154,7 +154,8 @@ LINKS = {
         "protein birthday layer cake",
         "birthday protein layer cake",
         "birthday protein cake",
-        "protein chocolate cake"
+        "protein chocolate cake",
+        "double chocolate protein cake"
     ],
     "/recipes/cottage-cheese-queso": [
         "high protein cottage cheese queso dip",
@@ -4396,7 +4397,8 @@ LINKS = {
         "93% ground turkey",
         "93/7 ground turkey",
         "ground turkey",
-        "turkey"
+        "turkey",
+        "93% lean meat"
     ],
     "/misc/meat#ham": [
         "ham steak",
@@ -8943,7 +8945,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-08")):
+            if not file.startswith(("2026-08-09")):
                 continue
 
             # exclude some files

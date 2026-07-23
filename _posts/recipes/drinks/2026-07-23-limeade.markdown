@@ -48,7 +48,7 @@ tags:
 - lemon juice
 - lime juice
 - monk fruit
-Description: Summer is winding down, but there's still enough time for some cool and refreshing <a href='/recipes/drinks'>drinks</a>.  Today is a simple limeade made with fresh squeezed <a href='/misc/fruit#lime-juice'>lime juice</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.  This <a href='/misc/hidden-sugar'>sugar free</a> and <a href='/misc/calories'>low calorie</a> refreshing treat is perfect for a hot summer day without spiking <a href='/misc/diabetes'>blood sugar</a>.
+Description: Summer is heating up, making it the perfect time for some cool and refreshing <a href='/recipes/drinks'>drinks</a>.  Today is a simple limeade made with fresh squeezed <a href='/misc/fruit#lime-juice'>lime juice</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.  This <a href='/misc/hidden-sugar'>sugar free</a> and <a href='/misc/calories'>low calorie</a> refreshing treat is perfect for a hot summer day without spiking <a href='/misc/diabetes'>blood sugar</a>.
 Instructions:
 - Shake together all ingredients in an airtight container. Refrigerate for up to 1 week
 Notes:

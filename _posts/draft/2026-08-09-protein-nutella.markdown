@@ -53,14 +53,14 @@ tags:
 - cocoa powder
 - almond milk
 Description: |
-  High protein, sugar-free, copycat Nutella!  Using Greek yogurt, powdered peanut butter, protein powder, and cocoa powder, you can whip up a single serving chocolate spread in under 5 minutes. Not only does it taste delicious on nearly every, but this protein nutella also has a better protein to calorie ratio than 93% lean meat, salmon, or any protein bar you'll find in the store!<br><br>
+  <a href='/misc/high-protein'>High protein</a>, <a href='/misc/hidden-sugar'>sugar-free</a>, <a href='/copycat'>copycat</a> <a href='/misc/fake-healthy-foods#nutella'>Nutella</a>!  Using <a href='/misc/dairy#yogurt'>Greek yogurt</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>protein powder</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>, you can whip up a single serving chocolate spread in under 5 minutes.  Not only does it taste delicious on nearly everything, but this protein Nutella also has a better <a href='/misc/protein'>protein</a> to <a href='/misc/calories'>calorie</a> ratio than <a href='/misc/meat#ground-turkey'>93% lean meat</a>, <a href='/misc/fish#salmon'>salmon</a>, or any <a href='/protein-bar'>protein bar</a> you'll find in the store!<br><br>
 
-  For other copycat Nutella recipes, check out my Roasted Hazelnut Nutella, Single Serving Quick Nutella, and No Nut Chickpea Nutella!
+  For other <a href='/copycat'>copycat</a> <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> recipes, check out my <a href='/recipes/nutella'>Roasted Hazelnut Nutella</a>, <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a>, and <a href='/recipes/chickpea-nutella'>No Nut Chickpea Nutella</a>!
 Instructions:
-- Add yogurt, powdered peanut butter, whey, and cocoa powder to a small bowl. Mix with a silicone spatula, and thin out to desired consistency with almond milk.
+- Add <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a> to a <a href='https://amzn.to/4adxMft'>small bowl</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and thin out to desired consistency with <a href='/misc/dairy#almond-milk'>almond milk</a>.
 - <img src='/assets/Food/Sweet Spreads/Protein Nutella/bowl.jpg' alt='' class='instruction-image'>
 Notes:
-- Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Nutella</a> per 100 g.  As you can see, the <a href='#recipe'>homemade version contains</a> significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>
+- Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://amzn.to/48ZvAra'>Nutella</a> per 100 g.  As you can see, the <a href='#recipe'>homemade version contains</a> significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>.
 
 - |
   COMPARE(
@@ -68,7 +68,7 @@ Notes:
     "classic-nutella-100g";
 
     "<a href='#recipe'>Homemade</a>",
-    "<a href='https://www.walmart.com/ip/Nutella-Hazelnut-Spread-with-Cocoa-for-Breakfast-13-oz-Jar/10451273?classType=VARIANT&athbdg=L1200&from=/search'>Storebought</a>";
+    "<a href='https://amzn.to/48ZvAra'>Storebought</a>";
 
     "Calories",
     "Protein",
