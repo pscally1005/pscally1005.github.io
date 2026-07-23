@@ -16,7 +16,7 @@ LINKS = {
         "peanut butter sludge brick",
         "peanut butter sludge bricks",
         "peanut chocolate sludge brick",
-        "peanut chocolate sludge bricks"<
+        "peanut chocolate sludge bricks",
         "chocolate peanut sludge brick",
         "chocolate peanut sludge bricks",
         "chocolate sludge brick",
@@ -30,7 +30,7 @@ LINKS = {
         "peanut butter sludge bar",
         "peanut butter sludge bars",
         "peanut chocolate sludge bar",
-        "peanut chocolate sludge bars"<
+        "peanut chocolate sludge bars",
         "chocolate peanut sludge bar",
         "chocolate peanut sludge bars",
         "chocolate sludge bar",
