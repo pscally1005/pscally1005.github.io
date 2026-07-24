@@ -4398,7 +4398,8 @@ LINKS = {
         "93/7 ground turkey",
         "ground turkey",
         "turkey",
-        "93% lean meat"
+        "93% lean meat",
+        "93% meat"
     ],
     "/misc/meat#ham": [
         "ham steak",
@@ -7030,6 +7031,8 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "chocolate mixture",
+    "peanut butter on top",
     "chocolate brownies",
     "donut batter",
     "protein glaze",

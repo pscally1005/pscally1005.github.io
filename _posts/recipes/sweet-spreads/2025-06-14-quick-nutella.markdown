@@ -21,7 +21,7 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/quick-nutella
-image: /assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg
+image: /assets/Food/Sweet Spreads/Quick Nutella/coverNew.jpg
 file: quicknutella
 servingSize:
 section1:

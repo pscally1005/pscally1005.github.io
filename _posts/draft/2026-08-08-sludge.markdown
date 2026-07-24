@@ -22,7 +22,7 @@ vic: no
 protein_bar: yes
 beans: no
 permalink: /recipes/sludge-brick
-image: /assets/Food/Meme/Sludge/cover1.jpg
+image: /assets/Food/Meme/Sludge/bite.jpg
 file: sludge
 servingSize: Whole bar
 section1: Chocolate
@@ -55,19 +55,19 @@ tags:
 - sugar free
 - gluten free
 - vegan
-Description: It ain't stupid if it works.  3 ingredient, no bake, vegan, <a href='/misc/hidden-sugar'>sugar free</a>, and <a href='/misc/celiac'>gluten free</a> <a href='/misc/nuts#peanuts'>peanut butter</a> <a href='/misc/chocolate-benefits'>chocolate</a> <a href='/protein-bar'>protein bar</a>?  This "sludge brick" is just a swirling of <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> for a dead simple <a href='/protein-bar'>bar</a> with 18 g of <a href='/misc/protein'>protein</a> in 180 <a href='/misc/calories'>calories</a>.  Plus, you can't be $1 for a <a href='/protein-bar'>protein bar</a>.
+Description: It ain't stupid if it works.  3 ingredient, no bake, vegan, <a href='/misc/hidden-sugar'>sugar free</a>, and <a href='/misc/celiac'>gluten free</a> <a href='/misc/nuts#peanuts'>peanut butter</a> <a href='/misc/chocolate-benefits'>chocolate</a> <a href='/protein-bar'>protein bar</a>?  This "sludge brick" is just a swirling of <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> for a dead simple <a href='/protein-bar'>bar</a> with 18 g of <a href='/misc/protein'>protein</a> in 180 <a href='/misc/calories'>calories</a>.  Plus, you can't beat $1 for a <a href='/protein-bar'>protein bar</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and set aside.
 - <img src='/assets/Food/Meme/Sludge/chocolate.jpg' alt='' class='instruction-image'>
 
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and set aside.
-- <img src='/assets/Food/Meme/Sludge/pb.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/Sludge/peanut-butter.jpg' alt='' class='instruction-image'>
 
-- Line a small container with parchment paper. Add the <a href='/misc/chocolate-benefits'>chocolate</a> mixture to the bottom, then the <a href='/misc/nuts#peanuts'>peanut butter</a> on top. Lightly swirl together. Optionally top with flaky salt.
+- Line a small container with parchment paper. Add the chocolate mixture to the bottom, then the peanut butter on top. Lightly swirl together. Optionally top with flaky salt.
 - <img src='/assets/Food/Meme/Sludge/container.jpg' alt='' class='instruction-image'>
 
 - Freeze for at least 2 hours before eating.
-- <img src='/assets/Food/Meme/Sludge/cover2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/Sludge/no-bite.jpg' alt='' class='instruction-image'>
 Notes:
 - This whole <a href='/protein-bar'>bar</a> has about as much <a href='/misc/caffeine'>caffeine</a> as half a cup of <a href='/misc/caffeine'>coffee</a>, so don't have it too late in the day. Alternatively, if you used <a href='https://amzn.to/4rhYDwh'>carob</a> instead of <a href='/misc/chocolate-benefits'>cocoa</a>, it will be sweeter and <a href='/misc/caffeine'>caffeine</a> free.
 ---
