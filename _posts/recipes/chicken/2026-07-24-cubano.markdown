@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Leaner Cubano Casserole
-date:   2026-07-04 00:00:00 -0500
+date:   2026-07-24 00:00:00 -0500
 categories:
 - Recipes
 - Chicken
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -18,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: no
+vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/cubano-casserole
