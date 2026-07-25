@@ -18,11 +18,13 @@ layout: none
     {%- assign vegan = "true" -%}
     {%- assign nut_free = "true" -%}
     {%- assign sugar_free = "true" -%}
+    {%- assign high_protein = "true" -%}
 
     {%- assign file = post.file -%}
     {%- assign ing = file | append: "-ing" -%}
+    {%- assign facts = file | append: "-facts" -%}
 
-    {% if ing %}
+    {% if file %}
 
       {%- for row in site.data[ing] -%}
           {% unless forloop.last %}
@@ -52,6 +54,32 @@ layout: none
           {% endunless %}
       {% endfor %}
 
+      {%- assign calories = "0" -%}
+      {%- assign protein = "0" -%}
+      {%- for row in site.data[facts] -%}
+          {%- assign nutrient = row["Nutrient"] -%}
+          {%- assign amount = row["Amount"] -%}
+          {% if nutrient == "Calories" %}
+              {%- assign calories = amount -%}
+          {% elsif nutrient == "Protein" %}
+              {%- assign protein = amount -%}
+          {% endif %}
+      {% endfor %}
+
+      {%- assign calories = calories | plus: 0 | floor -%}
+      {%- assign protein = protein | plus: 0 | ceil -%}
+      {%- assign protein_per_100kcal = 0 -%}
+
+      {% if calories >= 10 %}
+        {%- assign protein_per_100kcal = protein | times: 100 | divided_by: calories -%}
+      {% endif %}
+
+      {% if protein_per_100kcal >= 10 %}
+          {%- assign high_protein = "true" -%}
+      {% else %}
+          {%- assign high_protein = "false" -%}
+      {% endif %}
+
     {% else %}
       {%- assign gluten_free = "false" -%}
       {%- assign vegetarian = "false" -%}
@@ -59,6 +87,27 @@ layout: none
       {%- assign vegan = "false" -%}
       {%- assign nut_free = "false" -%}
       {%- assign sugar_free = "false" -%}
+      {%- assign high_protein = "false" -%}
+    {% endif %}
+
+    {% if post.categories[0] == "Misc." and post.categories[1] != "Unhealthy Recipes" %}
+      {%- assign gluten_free = "false" -%}
+      {%- assign vegetarian = "false" -%}
+      {%- assign dairy_free = "false" -%}
+      {%- assign vegan = "false" -%}
+      {%- assign nut_free = "false" -%}
+      {%- assign sugar_free = "false" -%}
+      {%- assign high_protein = "false" -%}
+    {% endif %}
+
+    {% if post.title == "Food/Nutrition Meme Dump" %}
+      {%- assign gluten_free = "false" -%}
+      {%- assign vegetarian = "false" -%}
+      {%- assign dairy_free = "false" -%}
+      {%- assign vegan = "false" -%}
+      {%- assign nut_free = "false" -%}
+      {%- assign sugar_free = "false" -%}
+      {%- assign high_protein = "false" -%}
     {% endif %}
 
     {
@@ -69,12 +118,13 @@ layout: none
       "tags": "{{ post.tags | join: ', ' }}",
       "image"    : "{{ post.image }}",
       "ingred"   : "{{ ing }}",
-      "gluten-free": "{{ gluten_free }}",
+      "gluten_free": "{{ gluten_free }}",
       "vegetarian": "{{ vegetarian }}",
-      "dairy-free": "{{ dairy_free }}",
+      "dairy_free": "{{ dairy_free }}",
       "vegan": "{{ vegan }}",
-      "nut-free": "{{ nut_free }}",
-      "sugar-free": "{{ sugar_free }}"
+      "nut_free": "{{ nut_free }}",
+      "sugar_free": "{{ sugar_free }}",
+      "high_protein": "{{ high_protein }}"
     }
     {%- unless forloop.last -%},{%- endunless -%}
   {%- endfor -%}
