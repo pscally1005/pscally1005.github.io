@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  High Protein Peanut Butter Chili
+title:  Peanut Butter Protein Chili
 date:   2025-09-24 00:00:00 -0500
 categories:
 - Recipes

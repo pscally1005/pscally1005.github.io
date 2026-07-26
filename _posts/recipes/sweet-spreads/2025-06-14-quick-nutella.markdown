@@ -79,4 +79,6 @@ Notes:
     "Fiber",
     "Added Sugar"
   )
+
+- <img src='/assets/Food/Sweet Spreads/Quick Nutella/rice-cake.jpg' alt='' class='instruction-image'>
 ---
