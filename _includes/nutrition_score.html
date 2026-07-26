@@ -1,0 +1,94 @@
+<!-- Use parameters or not -->
+{% assign ing = page.ing %}
+{% assign facts = page.facts %}
+{% if include.ing %}
+    {% assign ing = include.ing %}
+    {% assign facts = include.facts %}
+{% elsif include.file %}
+    {% assign file = include.file %}
+    {% assign ing = file | append: "-ing" %}
+    {% assign facts = file | append: "-facts" %}
+{% elsif page.file %}
+    {% assign file = page.file %}
+    {% assign ing = file | append: "-ing" %}
+    {% assign facts = file | append: "-facts" %}
+{% endif %}
+
+<!-- Variables -->
+{% assign weightedTotal = 0 %}
+{% assign totalMass = 0 %}
+
+<!-- Loop variable -->
+{% assign loopVarIng = site.data[ing] %}
+{% if recipe == "false" %}
+    {% assign loopVarIng = ing %}
+{% endif %}
+
+{% for ingredient in loopVarIng %}
+
+    <!-- Skip servings line -->
+    {% if forloop.last %}
+        {% continue %}
+    {% endif %}
+
+    <!-- Ingredient information -->
+    {% assign food = ingredient["Ingredient"] %}
+    {% assign mass = ingredient["Amount"] | times: 1.0 %}
+
+    {% assign found = false %}
+    {% assign unit_score = "" %}
+
+    <!-- Find food in foods.csv -->
+    {% for foodRow in site.data.foods %}
+
+        {% if foodRow["Food"] == food %}
+            {% assign found = true %}
+            {% assign unit_score = foodRow["Score"] %}
+            {% break %}
+        {% endif %}
+
+    {% endfor %}
+
+    <!-- Food not found -->
+    {% unless found %}
+        {% assign weightedTotal = -9999 %}
+        {% assign totalMass = 1 %}
+        {% break %}
+    {% endunless %}
+
+    <!-- Skip foods without a finished score -->
+    {% if unit_score == "" or unit_score == "TODO" or unit_score == 0 or unit_score == "0" %}
+        {% continue %}
+    {% endif %}
+
+    {% assign unit_score = unit_score | times: 1.0 %}
+
+    <!-- Add weighted contribution -->
+    {% assign itemScore = mass | times: unit_score %}
+    {% assign weightedTotal = weightedTotal | plus: itemScore %}
+    {% assign totalMass = totalMass | plus: mass %}
+
+{% endfor %}
+
+<!-- Calculate recipe score -->
+{% if totalMass > 0 %}
+    {% assign totalScore = weightedTotal | divided_by: totalMass %}
+{% else %}
+    {% assign totalScore = 0 %}
+{% endif %}
+
+<!-- Print Score -->
+<div class='recipe-section-bold'><a href='/misc/nutrition'>Nutrition Score</a></div>:
+<div class='recipe-section'>
+    {% if totalScore <= 0 %}
+        <font class='grey-text-themed'>
+    {% elsif totalScore > 0 and totalScore < 6 %}
+        <font class='red-text-themed'>
+    {% elsif totalScore < 8 %}
+        <font class='yellow-text-themed'>
+    {% else %}
+        <font class='green-text-themed'>
+    {% endif %}
+        {{ totalScore | round: 1 }}
+    </font>
+</div>

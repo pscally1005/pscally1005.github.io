@@ -93,3 +93,4 @@ sections:
       - key: Caffeine
       - key: Glycemic Index
       - key: Glycemic Load
+      - key: Nutrition Score

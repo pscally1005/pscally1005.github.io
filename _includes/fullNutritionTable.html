@@ -33,6 +33,9 @@
 {% capture gl_raw %}{% include giNum.html facts=facts ing=ing folder=folder display="GLnum" %}{% endcapture %}
 {% assign gl_clean = gl_raw | strip | strip_newlines | replace: ' ', '' %}
 
+{% capture nutritionScore_raw %}{% include nutrition_score_num.html ing=ing facts=facts folder=folder %}{% endcapture %}
+{% assign nutritionScore_clean = nutritionScore_raw | strip | strip_newlines | replace: ' ', '' %}
+
 <!-- JavaScript to open the table in a new window -->
 <script>
     document.getElementById('openInNewWindowBtn').addEventListener('click', function() {
@@ -95,7 +98,7 @@
 
                     {% assign row = site.data[facts] | where: "Nutrient", nutrient_entry.key | first %}
 
-                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" or nutrient_entry.key == "Lactose" or nutrient_entry.key == "Soluble Fiber" or nutrient_entry.key == "Insoluble Fiber" or nutrient_entry.key == "Caffeine" or nutrient_entry.key == "Protein Ratio" or nutrient_entry.key == "Glycemic Index" or nutrient_entry.key == "Glycemic Load" %}
+                    {% if row or nutrient_entry.key == "Added Sugar" or nutrient_entry.key == "Sugar Alcohols" or nutrient_entry.key == "Allulose" or nutrient_entry.key == "Gluten" or nutrient_entry.key == "Lactose" or nutrient_entry.key == "Soluble Fiber" or nutrient_entry.key == "Insoluble Fiber" or nutrient_entry.key == "Caffeine" or nutrient_entry.key == "Protein Ratio" or nutrient_entry.key == "Glycemic Index" or nutrient_entry.key == "Glycemic Load" or nutrient_entry.key == "Nutrition Score" %}
 
                         {% assign display_name = nutrient_entry.display | default: nutrient_entry.key %}
 
@@ -155,6 +158,10 @@
                                 tableContent += '<td></td>'
                             {% elsif nutrient_entry.key == "Glycemic Load" %}
                                 tableContent += '<td>{{ gl_clean }}</td>';
+                                tableContent += '<td></td>';
+                                tableContent += '<td></td>'
+                            {% elsif nutrient_entry.key == "Nutrition Score" %}
+                                tableContent += '<td>{{ nutritionScore_clean }}</td>';
                                 tableContent += '<td></td>';
                                 tableContent += '<td></td>'
                             {% else %}

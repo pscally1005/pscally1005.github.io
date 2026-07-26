@@ -46,7 +46,7 @@
 
     <!-- Get the food and gram measurements -->
     {% assign food = row["Ingredient"] %}
-    {% assign mass = row["Amount"] | time: 1.0 %}
+    {% assign mass = row["Amount"] | times: 1.0 %}
 
     <!-- Variables for glycemic index & carbs per 100 g -->
     {% assign GI = "" %}

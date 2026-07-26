@@ -888,11 +888,13 @@
 
         </div>
 
-        <!-- Glycemic index & full nutrition facts only on recipes-->
+        <!-- Glycemic index, nutrition score, & full nutrition facts only on recipes-->
         <div class='gi'>
             {% if recipe == "true" %}
                 {% include glycemic.html %}
-                <br>
+                <br>------------------------------------------<br>
+                {% include nutrition_score.html %}
+                <br>------------------------------------------<br>
                 {% include fullNutritionTable.html facts=facts ing=ing addedSugar=addedSugar netCarb=netCarb sugAlc=sugAlc all=all lactose=lactose gluten=gluten solubleFiber=solubleFiber insolubleFiber=insolubleFiber caffeine=caffeineVal protRatio=protRatio folder=folder %}
             {% endif %}
         </div>
@@ -900,6 +902,7 @@
         {% if recipe == "true" %}
             <hr>
         {% endif %}
+
     {% endif %}
 </div>
 
