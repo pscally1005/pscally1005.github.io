@@ -178,10 +178,10 @@ Onion,onion,4.48,"1,362.00",0.00329,9.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0
 Onions,onion,4.48,"1,362.00",0.00329,9.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Scallion,scallion,4.48,"1,362.00",0.00329,9.1,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Avocado,avocado,1.00,136.00,0.00735,9.4,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
-Lemon juice,lemon-juice,2.88,896.00,0.00321,6.8,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
-Lime juice,lime-juice,1.24,240.00,0.00517,6.8,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
-Beet juice,beet-juice,19.13,"5,433.60",0.00352,6.8,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
-Pickled beet juice,beet-juice,19.13,"5,433.60",0.00352,6.8,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Lemon juice,lemon-juice,2.88,896.00,0.00321,10.0,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Lime juice,lime-juice,1.24,240.00,0.00517,10.0,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Beet juice,beet-juice,19.13,"5,433.60",0.00352,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Pickled beet juice,beet-juice,19.13,"5,433.60",0.00352,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Bell pepper,pepper,1.99,454.00,0.00438,9.9,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Sauteed Fajita Peppers,fajita-peppers,5.16,900.00,0.00573,TODO,27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,34,/recipes/fajita-peppers
 Roasted red peppers,roasted-red-peppers,2.13,336.00,0.00634,5.0,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/roasted-vegetables
@@ -246,13 +246,13 @@ Honey,honey,3.74,336.00,0.01113,3.1,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,81.0,0.0,
 Maple syrup,maple-syrup,7.98,360.00,0.02217,3.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
 Hot honey,hot-honey,3.94,360.00,0.01094,TODO,61,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,75.5,0.0,0.0,0.0,0,40,/recipes/hot-honey
 "Maple syrup, or honey",maple-syrup,7.98,360.00,0.02217,3.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,65.0,0.0,0.0,0.0,0,40,
-Sugar Free Syrup,sugar-free-syrup,3.14,720.00,0.00436,4.2,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
-Sugar free syrup,sugar-free-syrup,3.14,720.00,0.00436,4.2,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, or maple syrup or honey",sugar-free-syrup,3.14,720.00,0.00436,4.2,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, or honey or maple syrup",sugar-free-syrup,3.14,720.00,0.00436,4.2,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, or honey",sugar-free-syrup,3.14,720.00,0.00436,4.2,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, or maple syrup",sugar-free-syrup,3.14,720.00,0.00436,4.2,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
-"Sugar free syrup, optional",sugar-free-syrup,3.14,720.00,0.00436,4.2,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+Sugar Free Syrup,sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+Sugar free syrup,sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or maple syrup or honey",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or honey or maple syrup",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or honey",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, or maple syrup",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
+"Sugar free syrup, optional",sugar-free-syrup,3.14,720.00,0.00436,0.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,10.0,0.0,0.0,0,40,/recipes/sugar-free-syrup
 Agave,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,40,
 Agave syrup,agave,5.82,665.05,0.00875,3.1,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,68.0,0.0,0.0,0.0,0,40,
 Coconut sugar,coconut-sugar,9.42,905.60,0.01040,2.5,54,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,78.0,0.0,0.0,0.0,0,40,
@@ -264,13 +264,13 @@ Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,5.0,0,TRUE,TRUE,TRUE,TRUE
 Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06942,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
 Buttermilk,buttermilk,2.23,"1,000.00",0.00223,7.3,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,0,
 Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,7.3,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,
-Almond milk,almond-milk,2.44,"1,920.00",0.00127,7.9,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
-Unsweetened almond milk,almond-milk,2.44,"1,920.00",0.00127,7.9,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
-Unsweetened vanilla almond milk,almond-milk,2.44,"1,920.00",0.00127,7.9,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
-"Unsweetened almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,7.9,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
-"Unsweetened vanilla almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,7.9,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
-Skim milk,skim-milk,2.69,"3,904.00",0.00069,7.4,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.9,0,0,
-Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,8.2,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4wEmIBw
+Almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Unsweetened almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Unsweetened vanilla almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+"Unsweetened almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+"Unsweetened vanilla almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
+Skim milk,skim-milk,2.69,"3,904.00",0.00069,8.0,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.9,0,0,
+Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,8.5,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4wEmIBw
 Evaporated milk,evaporated-milk,1.22,339.60,0.00359,5.2,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/44QEaHo
 Fat free evaporated milk,evaporated-milk-skim,1.22,339.60,0.00359,5.5,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/3Zrz019
 "Coconut milk, full fat",coconut-milk,1.50,405.00,0.00370,5.2,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4kZIRo6
@@ -292,7 +292,7 @@ Simple syrup,simple-syrup,4.09,"4,540.00",0.00090,1.0,68,TRUE,TRUE,TRUE,TRUE,TRU
 Sugar free chocolate syrup,sf-choc-syrup-100g,3.45,340.00,0.01015,TODO,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,59.0,0.0,0,40,/recipes/sugar-free-chocolate-syrup
 Granulated sugar,sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
 "Granular sweetener: sugar, erythritol, stevia, etc.",sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
-Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43wL0zp
+Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43wL0zp
 Powdered sugar,sugar,2.22,905.60,0.00245,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
 Brown sugar,sugar,2.22,896.00,0.00248,1.0,64,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
 Molasses,molasses,3.49,252.00,0.01385,3.1,44,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,66.7,0.0,0.0,0.0,0,40,
@@ -307,12 +307,12 @@ Sugar free chocolate bar,100,1.46,113.20,0.01290,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE
 85% chocolate,85,2.27,98.00,0.02316,5.6,23,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,25,
 70% chocolate,70,3.37,99.05,0.03402,4.9,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,30.0,0.0,0.0,0.0,0,25,
 50% chocolate,50,1.12,99.62,0.01124,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,48.5,0.0,0.0,4.0,0,25,
-Allulose chocolate bar,allulose-choc,2.45,176.00,0.01391,6.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,40.9,0.0,0,25,/misc/healthier-brownies-experiment#allulose-chocolate
-Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/4ceFnvP
-Allulose,allulose,16.96,"1,135.00",0.01494,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,100.0,0.0,0,40,https://amzn.to/4mzsH5p
-Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43vQs5E
-Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,6.3,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,25,/recipes/monkfruit-chocolate-chunks
-Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,6.3,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,25,https://amzn.to/4kGEfC5
+Allulose chocolate bar,allulose-choc,2.45,176.00,0.01391,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,40.9,0.0,0,25,/misc/healthier-brownies-experiment#allulose-chocolate
+Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/4ceFnvP
+Allulose,allulose,16.96,"1,135.00",0.01494,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,100.0,0.0,0,40,https://amzn.to/4mzsH5p
+Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43vQs5E
+Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,7.0,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,25,/recipes/monkfruit-chocolate-chunks
+Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,7.0,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,25,https://amzn.to/4kGEfC5
 Chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
 Mini chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
 Semisweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
@@ -452,7 +452,7 @@ Almond flour (or whole nuts),almonds,5.88,454.00,0.01295,9.5,10,TRUE,TRUE,TRUE,T
 Empanada/Pierogi Dough,af-empanada-dough,2.90,333.00,0.00871,TODO,17,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.2,0,15,/recipes/almond-flour-empanadas
 Marzipan,marzipan,16.20,594.30,0.02726,5.2,70,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,36.3,0.0,0.0,0.0,0,15,https://amzn.to/4rZ0tTe
 "Marzipan, homemade, with sugar",marzipan-sugar,2.88,377.00,0.00764,5.2,56,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,39.8,0.0,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
-"Marzipan, homemade, sugar free",marzipan-sf,4.32,377.00,0.01146,7.2,2,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,39.8,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
+"Marzipan, homemade, sugar free",marzipan-sf,4.32,377.00,0.01146,6.3,2,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,39.8,0.0,0.0,0,15,/recipes/chocolate-covered-marzipan#notes
 Sunflower kernels,sunflower-seeds,2.99,454.00,0.00659,9.4,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4el1Qq5
 Sunflower butter,sunflower-seeds,2.99,454.00,0.00659,9.4,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Sunflower seed butter,sunflower-seeds,2.99,454.00,0.00659,7.8,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter

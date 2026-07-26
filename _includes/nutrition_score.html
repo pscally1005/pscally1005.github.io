@@ -56,8 +56,13 @@
         {% break %}
     {% endunless %}
 
+    {% comment %}
+        <!-- DEBUG -->
+        {{ food }} | "{{ unit_score }}"<br>
+    {% endcomment %}
+
     <!-- Skip foods without a finished score -->
-    {% if unit_score == "" or unit_score == "TODO" or unit_score == 0 or unit_score == "0" %}
+    {% if unit_score == "" or unit_score == "TODO" or unit_score == 0 or unit_score == "0" or unit_score == "0.0" %}
         {% continue %}
     {% endif %}
 
