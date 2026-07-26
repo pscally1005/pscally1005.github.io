@@ -181,6 +181,12 @@ def ingredients(food):
         f = "Simple Shredded Chicken"
 
     # Baking
+    elif food == "Ben & jerry's, ice cream, cherry garcia by Ben & Jerry's Homemade Inc.":
+        f = "Cherry Garcia Ice Cream"
+    elif food == "Ben & jerry's, ice cream, chunky monkey by Ben & Jerry's Homemade Inc.":
+        f = "Chunky Monkey Ice Cream"
+    elif food == "Snickers Ice Cream Bar":
+        f = "Snickers Ice Cream Bar"
     elif food == "lmnt-glycinate":
         f = "Homemade electrolyte powder"
         # f = "Homemade electrolyte powder, glycinate"

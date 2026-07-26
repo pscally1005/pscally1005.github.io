@@ -59,4 +59,20 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Chunky Monkey/processor.jpg' alt='' class='instruction-image'>
 Notes:
 - Eat now for a more soft-serve like ice cream, or freeze for about 30 minutes to have a texture closer to hard ice cream.
+
+- Comparing <a href='#recipe'>my homemade version</a> to the <a href='https://amzn.to/4pFciyn'>storebought version</a> per the same <b>212 g</b> serving, you can see that the <a href='#recipe'>healthy version</a> has substantially less <a href='/misc/fats'>fat</a>, <a href='/misc/hidden-sugar'>added sugar</a>, and <a href='/misc/calories'>calories</a>, with more <a href='/misc/fiber'>fiber</a>.
+- |
+  COMPARE(
+    "chunkymonkey",
+    "chunky-monkey";
+
+    "<a href='#recipe'>Homemade</a>",
+    "<a href='https://amzn.to/4pFciyn'>Storebought</a>";
+
+    "Calories",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---

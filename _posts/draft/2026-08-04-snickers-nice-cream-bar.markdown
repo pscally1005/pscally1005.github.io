@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/snickers-nice-cream-bar
 image: /assets/Food/Healthier Dessert/Snickers Nice Cream/cover1.jpg
 file: snickersicecream
-servingSize: 1 bar (~78 g)
+servingSize: 1 bar (79 g)
 section1: Step 1
 start2: Peanuts
 section2: Step 2
@@ -77,4 +77,19 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/cut.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/cover2.jpg' alt='' class='instruction-image'>
 Notes:
+- Comparing <a href='#recipe'>my homemade version</a> to the <a href='https://amzn.to/4x1xFfs'>storebought version</a> per the same <b>79 g</b> serving, you can see that the <a href='#recipe'>healthy version</a> has substantially less <a href='/misc/fats'>fat</a>, <a href='/misc/hidden-sugar'>added sugar</a>, and <a href='/misc/calories'>calories</a>, with more <a href='/misc/fiber'>fiber</a>.
+- |
+  COMPARE(
+    "snickersicecream",
+    "snickers-ice-cream-bar";
+
+    "<a href='#recipe'>Homemade</a>",
+    "<a href='https://amzn.to/4x1xFfs'>Storebought</a>";
+
+    "Calories",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
+  )
 ---
