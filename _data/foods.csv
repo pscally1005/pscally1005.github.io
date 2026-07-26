@@ -209,11 +209,11 @@ Vanilla Protein Greek Yogurt,vanilla-sf-yogurt-protein,5.99,760.00,0.00788,7.9,3
 "Kefir, plain, 3.25% fat",kefir-whole,3.89,960.00,0.00405,5.8,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/3HE3LJR
 "Kefir, plain, 1% fat",kefir,3.89,960.00,0.00405,8.7,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/43HN4ot
 Frosting,frosting,1.96,454.00,0.00432,2.3,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1,0.0,0.0,0.0,0,0,
-"Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,TODO,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,0,/recipes/protein-frosting
-"Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,TODO,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,0,/recipes/protein-frosting
+"Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,8.7,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,0,/recipes/protein-frosting
+"Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,8.7,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,0,/recipes/protein-frosting
 Nonfat cottage cheese,cottage-cheese,2.94,672.00,0.00438,8.5,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.5,0,0,
-Creamy pesto dip,pesto-dip,3.80,688.00,0.00552,TODO,25,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.3,0,30,/recipes/creamy-pesto
-Cottage cheese flatbread,cc-flatbread-white-psyllium,0.77,45.00,0.01711,TODO,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,8.8,0,85,/recipes/cottage-cheese-flatbread
+Creamy pesto dip,pesto-dip,3.80,688.00,0.00552,8.7,25,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.3,0,30,/recipes/creamy-pesto
+Cottage cheese flatbread,cc-flatbread-white-psyllium,0.77,45.00,0.01711,8.7,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,8.8,0,85,/recipes/cottage-cheese-flatbread
 Unsalted butter,butter,3.78,454.00,0.00833,2.5,0,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,0,
 Salted butter,butter,3.78,454.00,0.00833,2.5,0,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,0,
 Cream cheese,cream-cheese,1.79,226.40,0.00791,3.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.6,0,0,
@@ -458,7 +458,7 @@ Sunflower butter,sunflower-seeds,2.99,454.00,0.00659,9.4,20,TRUE,TRUE,TRUE,TRUE,
 Sunflower seed butter,sunflower-seeds,2.99,454.00,0.00659,7.8,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Chia seeds,chia-seeds,9.97,998.80,0.00998,9.9,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4mwpWl9
 "Psyllium husks, whole",psyllium-husk,7.99,339.60,0.02353,10.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,https://amzn.to/4vLldRa
-High Fiber Psyllium Wrap,psyllium-wrap,0.25,80.00,0.00313,TODO,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,/recipes/psyllium-wrap
+High Fiber Psyllium Wrap,psyllium-wrap,0.25,80.00,0.00313,8.2,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,/recipes/psyllium-wrap
 Ground flaxseed,ground-flaxseed,3.48,454.00,0.00767,9.7,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/43tlQlb
 Hemp hearts,hemp-seeds,10.97,454.00,0.02416,9.5,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4jnDTiH
 Hemp seeds,hemp-seeds,10.97,454.00,0.02416,9.5,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4jnDTiH

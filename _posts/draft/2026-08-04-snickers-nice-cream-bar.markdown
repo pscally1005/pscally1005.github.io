@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/snickers-nice-cream-bar
 image: /assets/Food/Healthier Dessert/Snickers Nice Cream/cover1.jpg
 file: snickersicecream
-servingSize: 1 bar (78 g)
+servingSize: 1 bar (~78 g)
 section1: Step 1
 start2: Peanuts
 section2: Step 2
@@ -64,13 +64,13 @@ Instructions:
 - Add chocolate chips and <a href='/misc/nuts#coconut'>coconut oil</a> to a <a href='https://amzn.to/4adxMft'>small microwave safe bowl</a>. Microwave in 30 second intervals, stirring in between with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, until fully melted.
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/chocolate.jpg' alt='' class='instruction-image'>
 
-- Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. Spread the <a href='/recipes/nice-cream'>banana ice cream</a> into an even layer on top of the pan.
+- Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. Spread the <a href='/recipes/nice-cream'>banana ice cream</a> to an even layer.
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/pan-nice-cream.jpg' alt='' class='instruction-image'>
 
 - Sprinkle your <a href='/misc/nuts#peanuts'>peanuts</a> over the <a href='/recipes/nice-cream'>nice cream</a>, and lightly press in with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/pan-peanuts.jpg' alt='' class='instruction-image'>
 
-- Pour the melted chocolate over the <a href='/misc/nuts#peanuts'>peanuts</a>, and spread to an even layer. Optionally top the melted chocolate with flaky salt.
+- Pour the melted chocolate over the <a href='/misc/nuts#peanuts'>peanuts</a>, and carefully spread to an even layer with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Optionally top the melted chocolate with flaky salt.
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/pan-chocolate.jpg' alt='' class='instruction-image'>
 
 - Freeze for about 2 hours before slicing into 8 ice cream bars.
