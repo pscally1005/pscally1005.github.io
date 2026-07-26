@@ -84,11 +84,13 @@ Instructions:
 - Remove the 2 cakes from their pans. Spread about 1/3 of your <a href='/recipes/protein-frosting'>frosting</a> (~120 g) onto one cake.
 - <img src='/assets/Food/Protein Powder/Protein Cake/frosted1.jpg' alt='' class='instruction-image'>
 
-- Top with the other cake. Frost the top and the sides of the cake.
+- Top with the other cake. Frost the top and the sides of the cake.  Optionally garnish with chopped <a href='/misc/nuts#walnuts'>walnuts</a>.
 - <img src='/assets/Food/Protein Powder/Protein Cake/frosted2.jpg' alt='' class='instruction-image'>
 
 - Store leftover slices in the fridge or freezer.
 - <img src='/assets/Food/Protein Powder/Protein Cake/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 - To make this cake <a href='/misc/nuts'>nut</a> free, replace the <a href='/misc/dairy#almond-milk'>almond milk</a> with <a href='/misc/dairy#skim-milk'>skim milk</a> (1/2 cup, 120 g), and replace the <a href='/misc/nuts#almonds'>almond flour</a> with <a href='/misc/grains#oats'>oat flour</a> (1 cup, 90 g).
+
+- <a href='https://amzn.to/4ceFnvP'>Granulated monk fruit</a> (1/2 cup, 100 g) can be used in place of <a href='https://amzn.to/4mzsH5p'>allulose</a>.
 ---

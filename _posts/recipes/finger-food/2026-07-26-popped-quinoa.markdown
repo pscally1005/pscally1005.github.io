@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Single Serving Popped Quinoa
-date:   2026-05-01 00:00:00 -0500
+date:   2026-07-26 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
