@@ -407,14 +407,14 @@ Marmite,marmite,9.85,125.00,0.07880,8.4,0,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0
 Vegemite,marmite,8.97,220.00,0.04077,6.1,0,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,30,https://amzn.to/4hqp55w
 Nutritional yeast,nutritional-yeast,5.12,140.00,0.03657,6.1,11,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,12,https://amzn.to/43wLkhB
 Dry yeast,yeast,5.48,112.00,0.04893,10.0,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,70,https://amzn.to/3HcHRxn
-Salt,salt,0.67,728.00,0.00092,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Flakey salt,salt,0.67,728.00,0.00092,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Flaky salt,salt,0.67,728.00,0.00092,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Baking soda,baking-soda,0.92,454.00,0.00203,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Baking powder,baking-powder,1.98,226.80,0.00873,2.0,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Lime pepper,lemon-pepper,11.99,680.40,0.01762,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/47qzDfQ
+Salt,salt,0.67,728.00,0.00092,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Flakey salt,salt,0.67,728.00,0.00092,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Flaky salt,salt,0.67,728.00,0.00092,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Baking soda,baking-soda,0.92,454.00,0.00203,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Baking powder,baking-powder,1.98,226.80,0.00873,0.0,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Lime pepper,lemon-pepper,11.99,680.40,0.01762,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/47qzDfQ
 Cayenne pepper,cayenne,3.77,63.00,0.05984,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
-Lemon pepper,lemon-pepper,6.19,680.40,0.00910,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4fopp1E
+Lemon pepper,lemon-pepper,6.19,680.40,0.00910,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/4fopp1E
 "Cilantro, dried",cilantro-dried,1.94,14.00,0.13857,10.0,40,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Cumin, ground",cumin,1.28,70.00,0.01829,9.9,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Red pepper flakes,red-pepper-flakes,1.44,49.00,0.02939,10.0,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -428,17 +428,17 @@ Italian seasoning,basil-dried,1.12,26.60,0.04211,10.0,20,TRUE,TRUE,TRUE,TRUE,TRU
 Celery seed,celery-seed,4.26,50.40,0.08452,9.9,24,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Dill, fresh",dill-fresh,1.98,14.00,0.14143,10.0,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Turmeric, ground",turmeric-ground,2.00,56.00,0.03571,9.9,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
-Old Bay,old-bay,4.43,168.00,0.02637,2.0,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Old Bay,old-bay,4.43,168.00,0.02637,0.0,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Basil, fresh",basil-fresh,3.29,113.20,0.02906,10.0,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Mint, fresh",mint-fresh,1.50,170.00,0.00882,10.0,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Parsley, fresh",parsley-fresh,1.50,170.00,0.00882,10.0,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Chives, dried",chives,3.12,6.16,0.50649,10.0,50,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Dried seaweed,seaweed,4.69,13.00,0.36077,2.0,55,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Dill, dried",dill-dried,2.08,21.23,0.09800,10.0,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
-Everything bagel seasoning,everything-bagel-seasoning,2.12,72.80,0.02912,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/40gmjGE
+Everything bagel seasoning,everything-bagel-seasoning,2.12,72.80,0.02912,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/40gmjGE
 "Rosemary, dried",rosemary-dried,2.42,22.64,0.10689,9.9,12,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Garam masala,garam-masala,2.99,48.11,0.06215,9.8,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43eSet0
-Onion soup mix,onion-soup-mix,0.98,56.60,0.01731,2.0,58,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,3.6,0.0,0.0,0.0,75,30,https://amzn.to/45qM9Lp
+Onion soup mix,onion-soup-mix,0.98,56.60,0.01731,0.0,58,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,3.6,0.0,0.0,0.0,75,30,https://amzn.to/45qM9Lp
 Dried onion flakes,onion-flakes,5.99,180.00,0.03328,8.6,58,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/43hCANC
 Powdered peanut butter,powdered-peanut-butter,12.11,679.20,0.01783,9.2,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4sgDH9S
 Peanut Chili Salad Dressing,pb-dressing-100g,0.87,87.50,0.00994,5.5,31,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3.0,0.0,0.0,0.0,0,18,/recipes/peanut-chili-salad-dressing
@@ -461,7 +461,7 @@ Sunflower butter,sunflower-seeds,2.99,454.00,0.00659,9.4,20,TRUE,TRUE,TRUE,TRUE,
 Sunflower seed butter,sunflower-seeds,2.99,454.00,0.00659,7.8,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Chia seeds,chia-seeds,9.97,998.80,0.00998,9.9,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4mwpWl9
 "Psyllium husks, whole",psyllium-husk,7.99,339.60,0.02353,10.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,https://amzn.to/4vLldRa
-High Fiber Psyllium Wrap,psyllium-wrap,0.25,80.00,0.00313,8.2,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,/recipes/psyllium-wrap
+High Fiber Psyllium Wrap,psyllium-wrap,0.25,80.00,0.00313,10.0,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,/recipes/psyllium-wrap
 Ground flaxseed,ground-flaxseed,3.48,454.00,0.00767,9.7,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/43tlQlb
 Hemp hearts,hemp-seeds,10.97,454.00,0.02416,9.5,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4jnDTiH
 Hemp seeds,hemp-seeds,10.97,454.00,0.02416,9.5,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4jnDTiH
@@ -530,13 +530,13 @@ Homemade electrolyte mix,lmnt-glycinate,1.95,98.20,0.01986,0.0,0,TRUE,TRUE,TRUE,
 "Homemade electrolyte mix, glycinate",lmnt-glycinate,1.95,98.20,0.01986,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/electrolyte-powder
 Inulin,inulin,49.99,"1,816.00",0.02753,6.7,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,https://amzn.to/47w8h7R
 High Fiber Inulin Syrup,inulin-syrup,1.74,160.00,0.01088,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,/recipes/inulin-syrup
-Chicken bouillon powder,bouillon-powder,5.98,896.00,0.00667,2.0,41,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hco5lz
-Bouillon powder,bouillon-powder,5.98,896.00,0.00667,2.0,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Chicken bouillon powder,bouillon-powder,5.98,896.00,0.00667,0.0,41,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hco5lz
+Bouillon powder,bouillon-powder,5.98,896.00,0.00667,0.0,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Low sodium chicken broth,chicken-broth,0.69,454.00,0.00151,5.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,5.0,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Vegetable broth,veggie-broth,1.79,960.00,0.00186,5.0,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Chicken bone broth,bone-broth,1.37,905.60,0.00151,5.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 Broth,bone-broth,1.37,905.60,0.00151,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
-Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,2.0,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3QlrH9q
+Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,0.0,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3QlrH9q
 "Quest Protein Cookie, storebought",store-quest-cookie-100g,24.99,708.00,0.03530,4.0,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,13.6,0.0,0.0,0,100,https://amzn.to/3YppdYq
 "Quest Protein Cookie, homemade",homemade-quest-cookie-100g,1.20,80.00,0.01500,7.6,4,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,11.3,0.0,0.0,0,100,/recipes/copycat-quest-cookie
