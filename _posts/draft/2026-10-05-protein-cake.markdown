@@ -22,9 +22,9 @@ vic: yes
 protein_bar: yes
 beans: no
 permalink: /recipes/protein-cake
-image: /assets/Food/Protein Powder/Protein Cake/cover.jpg
+image: /assets/Food/Protein Powder/Protein Cake/cover1.jpg
 file: proteincake
-servingSize: 1 slice (~TODO g)
+servingSize: 1 slice (~85 g)
 section1: Cake - Wet
 start2: Almond flour
 section2: Cake - Dry
@@ -65,23 +65,30 @@ Description: |
 
   The <a href='/misc/veggies#pumpkin'>pumpkin</a> provides moistness without the need for <a href='/misc/fats'>unhealthy fats</a> like <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/fake-healthy-foods#seed-oil'>vegetable oil</a>. The <a href='/misc/nuts#almonds'>almond flour</a> adds <a href='/misc/fats'>healthy fats</a> and keeps it <a href='/misc/celiac'>gluten free</a>.  The <a href='https://amzn.to/4mzsH5p'>allulose</a> and <a href='/misc/dairy#whey'>protein powder</a> provide just enough sweetness to round out this delicious and <a href='/recipes/healthier-dessert'>healthy dessert</a> for all to enjoy!
 Instructions:
-- Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4mxxkxl'>9" circle cake pans</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease</a> them with <a href='/misc/olive-oil'>oil</a>
+- Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4mxxkxl'>9" circle cake pans</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease</a> them with <a href='/misc/olive-oil'>oil</a>.
 
 - Add the wet ingredients to a bowl, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/meat#egg-whites'>egg whites</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/4mzsH5p'>allulose</a>, and vanilla extract.
 
 - Add in dry ingredients, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, baking soda, and salt.
 - <img src='/assets/Food/Protein Powder/Protein Cake/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide the mixture evenly between the 2 pans, about 500 g each
+- Divide the mixture evenly between the 2 pans, about 500 g each.
 - <img src='/assets/Food/Protein Powder/Protein Cake/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 30 minutes, or until the top is set, the edges are browned, a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>. Let the cake cool totally in the pan before removing, about 1 hour
+- Bake at 350F for about 30 minutes, or until the top is set, the edges are browned, a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>. Let the cake cool totally in the pan before removing, about 30 minutes.
 - <img src='/assets/Food/Protein Powder/Protein Cake/baked.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together your (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> with <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and vanilla extract to make your <a href='/recipes/protein-frosting'>frosting</a>
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together your (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> with <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and vanilla extract to make your <a href='/recipes/protein-frosting'>frosting</a>.
 - <img src='/assets/Food/Protein Powder/Protein Cake/frosting.jpg' alt='' class='instruction-image'>
 
-- Remove the 2 cakes from their pans. Spread about 1/3 of your <a href='/recipes/protein-frosting'>frosting</a> (~120 g) onto one cake. Top with the other cake. Frost the top and the sides of the cake
-- <img src='/assets/Food/Protein Powder/Protein Cake/frosted.jpg' alt='' class='instruction-image'>
+- Remove the 2 cakes from their pans. Spread about 1/3 of your <a href='/recipes/protein-frosting'>frosting</a> (~120 g) onto one cake.
+- <img src='/assets/Food/Protein Powder/Protein Cake/frosted1.jpg' alt='' class='instruction-image'>
+
+- Top with the other cake. Frost the top and the sides of the cake.
+- <img src='/assets/Food/Protein Powder/Protein Cake/frosted2.jpg' alt='' class='instruction-image'>
+
+- Store leftover slices in the fridge or freezer.
+- <img src='/assets/Food/Protein Powder/Protein Cake/cover2.jpg' alt='' class='instruction-image'>
 Notes:
+- To make this cake <a href='/misc/nuts'>nut</a> free, replace the <a href='/misc/dairy#almond-milk'>almond milk</a> with <a href='/misc/dairy#skim-milk'>skim milk</a> (1/2 cup, 120 g), and replace the <a href='/misc/nuts#almonds'>almond flour</a> with <a href='/misc/grains#oats'>oat flour</a> (1 cup, 90 g).
 ---
