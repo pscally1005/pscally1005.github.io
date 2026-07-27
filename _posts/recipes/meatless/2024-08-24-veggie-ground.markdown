@@ -21,9 +21,9 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/veggie-ground
-image: /assets/Food/Meatless/Veggie Ground/vg-pot.jpg
+image: /assets/Food/Meatless/Veggie Ground/coverNew.jpg
 file: veggieground
-servingSize: ~TODO g
+servingSize: ~300 g
 section1: Veggies
 start2: Walnuts
 section2: Nuts
@@ -76,26 +76,26 @@ tags:
 - pea protein isolate
 Description: This delicious combo of chopped <a href='/misc/veggies'>vegetables</a> and spices is a great alternative for <a href='/misc/meat#ground-beef'>ground beef</a> in <a href='/recipes/taco'>tacos</a>, <a href='/soups-and-stews'>stews</a>, on top of <a href='/salad'>salads</a>, or anything else you can imagine. <a href='/misc/veggies#mushrooms'>Mushrooms</a> are a good <a href='/recipes/meatless'>plant based</a> source of <a href='/misc/protein'>protein</a>, and I've bumped up the <a href='/misc/protein'>protein</a> content significantly more with the addition of <a href='https://amzn.to/4aXnK21'>pea protein powder</a>.  For another vegan <a href='/misc/meat'>meat</a> alternative, check out my <a href='/recipes/black-bean-burger'>Protein Black Bean Burgers</a>!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add the <a href='/misc/nuts#walnuts'>walnuts</a>, and cover with water. Let soak for at least 2 hours
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add the <a href='/misc/nuts#walnuts'>walnuts</a>, and cover with water. Let soak for at least 2 hours.
 
-- Coarsely chop all <a href='/misc/veggies'>vegetables</a> (<a href='/misc/veggies#cauliflower'>cauliflower</a>, <a href='/misc/veggies#carrots'>carrots</a>, <a href='/misc/veggies#onion'>onion</a>, and <a href='/misc/veggies#mushrooms'>mushrooms</a>) in a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Do this in batches, and don't over blend. Add to a large pot or <a href='https://amzn.to/3LNGdVy'>Dutch oven</a>
+- Coarsely chop all <a href='/misc/veggies'>vegetables</a> (<a href='/misc/veggies#cauliflower'>cauliflower</a>, <a href='/misc/veggies#carrots'>carrots</a>, <a href='/misc/veggies#onion'>onion</a>, and <a href='/misc/veggies#mushrooms'>mushrooms</a>) in a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Do this in batches, and don't over blend. Add to a large pot or <a href='https://amzn.to/3LNGdVy'>Dutch oven</a>.
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-raw.jpg' alt='' class='instruction-image'>
 
-- Cook the <a href='/misc/veggies'>veggies</a> on medium heat with occasional stirring until water releases begins to release, about 5 minutes
+- Cook the <a href='/misc/veggies'>veggies</a> on medium heat with occasional stirring until water releases begins to release, about 5 minutes.
 
-- Meanwhile, coarsely chop the <a href='/misc/nuts#walnuts'>walnuts</a> (discard the soaking water) with the <a href='/misc/veggies#tomato'>tomato paste</a> until well combined. Don't over blend
+- Meanwhile, coarsely chop the <a href='/misc/nuts#walnuts'>walnuts</a> (discard the soaking water) with the <a href='/misc/veggies#tomato'>tomato paste</a> until well combined. Don't over blend.
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-nuts.jpg' alt='' class='instruction-image'>
 
-- Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your <a href='/misc/veggies#garlic'>garlic</a>, soy sauce, mustard, <a href='https://amzn.to/4pw27vM'>marmite</a>, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out
+- Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your <a href='/misc/veggies#garlic'>garlic</a>, soy sauce, mustard, <a href='https://amzn.to/4pw27vM'>marmite</a>, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out.
 
-- Turn off heat and add <a href='/misc/nuts#walnuts'>walnut</a> and tomato paste mixture. Mix thoroughly to combine. Mix in your <a href='https://amzn.to/4aXnK21'>protein powder</a>, add in just enough water if necessary to get all the <a href='https://amzn.to/4aXnK21'>protein powder</a> mixed in, and season with salt to taste
-- <img src='/assets/Food/Meatless/Veggie Ground/vg-container.jpg' alt='' class='instruction-image'>
+- Turn off heat and add <a href='/misc/nuts#walnuts'>walnut</a> and tomato paste mixture. Mix thoroughly to combine. Mix in your <a href='https://amzn.to/4aXnK21'>protein powder</a>, add in just enough water if necessary to get all the <a href='https://amzn.to/4aXnK21'>protein powder</a> mixed in, and season with salt to taste.
+- <img src='/assets/Food/Meatless/Veggie Ground/potNew.jpg' alt='' class='instruction-image'>
 Notes:
-- If you don't have <a href='https://amzn.to/4pw27vM'>marmite</a>, you can replace it with an equal amount of <a href='https://amzn.to/4hqp55w'>vegemite</a>.  To make it <a href='/misc/celiac'>gluten free</a>, use <a href='https://amzn.to/3TbDFnv'>veggie better than bouillon</a>
+- If you don't have <a href='https://amzn.to/4pw27vM'>marmite</a>, you can replace it with an equal amount of <a href='https://amzn.to/4hqp55w'>vegemite</a>.  To make it <a href='/misc/celiac'>gluten free</a>, use <a href='https://amzn.to/3TbDFnv'>veggie better than bouillon</a>.
 
 - |
   <div id='compared-to-beef' class='table-of-contents-2'></div>
-  On a per <a href='/misc/calories'>calorie</a> basis, <a href='#recipe'>this veggie ground</a> has more <a href='/misc/protein'>protein</a> than the standard 80/20 <a href='/misc/meat#ground-beef'>ground beef</a>, as well as less <a href='/misc/fats'>fat</a> and more <a href='/misc/fiber'>fiber</a>.  Below is a nutritional comparison per 100 <a href='/misc/calories'>calories</a> for the <a href='#recipe'>veggie ground</a> (~TODO g cooked), and 80/20 <a href='/misc/meat#ground-beef'>ground beef</a> (~30 g cooked).
+  On a per <a href='/misc/calories'>calorie</a> basis, <a href='#recipe'>this veggie ground</a> has more <a href='/misc/protein'>protein</a> than the standard 80/20 <a href='/misc/meat#ground-beef'>ground beef</a>, as well as less <a href='/misc/fats'>fat</a> and more <a href='/misc/fiber'>fiber</a>.  Below is a nutritional comparison per 100 <a href='/misc/calories'>calories</a> for the <a href='#recipe'>veggie ground</a> (~300 g cooked), and 80/20 <a href='/misc/meat#ground-beef'>ground beef</a> (~30 g cooked).
 - |
   COMPARE(
     "veggie-ground-100cal",
