@@ -17,9 +17,9 @@ tags:
 - fat
 - protein
 ---
-I typically opt for leaner cuts of ground meat, such as 93% lean turkey or beef, as opposed to fattier options like 85% of 80% meat.  But many people but these fattier varieties because they're cheaper.  But are they actually cheaper?<br><br>
+I typically opt for leaner cuts of ground <a href='/misc/meat'>meat</a>, such as <a href='/misc/meat#ground-turkey'>93% lean turkey</a> or <a href='/misc/meat#ground-beef'>beef</a>, as opposed to fattier options like 85% or 80% <a href='/misc/meat'>meat</a>.  But many people buy these fattier varieties because they're cheaper.  But are they actually cheaper?<br><br>
 
-At first glance, yes fattier cuts of meat are cheaper.  Let's look at beef prices in my grocery store.  Per pound, the prices are the following:<br>
+At first glance, yes fattier cuts of <a href='/misc/meat'>meat</a> are cheaper.  Let's look at <a href='/misc/meat#ground-beef'>beef</a> prices in my grocery store.  Per pound, the prices are the following:<br>
 
 {% assign gross_80 = 4.99 | times: 1 | round: 2 %}
 {% assign gross_85 = 5.49 | times: 1 | round: 2 %}
@@ -31,9 +31,9 @@ At first glance, yes fattier cuts of meat are cheaper.  Let's look at beef price
     <li><i>93%</i>: <b>${{gross_93}}</b></li>
 </ul><br>
 
-With fattier ground meat, you're paying less, but you're also getting less.  That's because proportionally more of the weight is made of up fat, so you get comparatively less muscle.<br><br>
+With fattier ground meat, you're paying less, but you're also getting less.  That's because proportionally more of the weight is made of up <a href='/misc/fats'>fat</a>, so you get comparatively less <a href='/misc/meat'>meat</a>.<br><br>
 
-Let's assume that 93% lean meat it exactly 93% meat and 7% fat.  And let's also make the same respective assumptions for 85% lean and 80% lean beef.  If you were to drain away all the fat, what is the net cost of meat per pound?<br>
+Let's assume that <a href='/misc/meat#ground-beef'>93% lean meat</a> is exactly <a href='/misc/meat'>meat</a> and 7% <a href='/misc/fats'>fat</a>.  And let's also make the same respective assumptions for 85% lean and 80% lean beef.  If you were to drain away all the <a href='/misc/fats'>fat</a>, what is the net cost of <a href='/misc/meat'>meat</a> per pound?<br>
 
 {% assign net_80 = gross_80 | divided_by: 0.80 | round: 2 %}
 {% assign net_85 = gross_85 | divided_by: 0.85 | round: 2 %}
@@ -45,9 +45,9 @@ Let's assume that 93% lean meat it exactly 93% meat and 7% fat.  And let's also 
     <li><i>93%</i>: ${{gross_93}} ÷ 0.93 = <b>${{net_93}}</b></li>
 </ul><br>
 
-So while, yes, leaner ground meat is more expensive per pound than fattier meat, the difference is less stark as it may seem when just looking at the gross prices.<br><br>
+So while, yes, leaner <a href='/recipes/ground-meat'>ground meat</a> is more expensive per pound than fattier <a href='/misc/meat'>meat</a>, the difference is less stark as it may seem when just looking at the gross prices.<br><br>
 
-Finally, let's compare the cost of the meats by its most important attribute: protein.  For many people, the primary reason for eating meat is its protein content.  For the cost, you want to maximize the amount of protein while minimizing the cost of non-protein calories.<br><br>
+Finally, let's compare the cost of the <a href='/misc/meat'>meats</a> by its most important attribute: <a href='/misc/protein'>protein</a>.  For many people, the primary reason for eating <a href='/misc/meat'>meat</a> is its <a href='/misc/protein'>protein</a> content.  For the cost, you want to maximize the amount of <a href='/misc/protein'>protein</a> while minimizing the cost of non-protein <a href='/misc/calories'>calories</a>.<br><br>
 
 {% assign folder = 'servingSizes' %}
 {% assign servingSize = '454' %}
@@ -91,7 +91,7 @@ Finally, let's compare the cost of the meats by its most important attribute: pr
     </thead>
     <tbody>
       <tr>
-        <td><a href='/misc/costs'>Cost</a>/lb</td>
+        <td>Cost/lb</td>
         <td>{{gross_80}} g</td>
         <td>{{gross_85}} g</td>
         <td>{{gross_93}} g</td>
@@ -103,7 +103,7 @@ Finally, let's compare the cost of the meats by its most important attribute: pr
         <td>{{protein_clean_93}} g</td>
       </tr>
       <tr>
-        <td><a href='/misc/costs'>Cost</a> per<br>g <a href='/misc/protein'>Protein</a></td>
+        <td>Cost per<br>g <a href='/misc/protein'>Protein</a></td>
         <td>{{protein_cost_80}} ¢</td>
         <td>{{protein_cost_85}} ¢</td>
         <td>{{protein_cost_93}} ¢</td>
@@ -190,8 +190,8 @@ Finally, let's compare the cost of the meats by its most important attribute: pr
 {% assign compare_protein_93_80 = protein_cost_93 | minus: protein_cost_80 | divided_by: protein_cost_80 | times: 100 | round: 1 %}
 {% assign compare_protein_93_85 = protein_cost_93 | minus: protein_cost_85 | divided_by: protein_cost_85 | times: 100 | round: 1 %}
 
-Although 93% lean beef appears significantly more expensive at first glance, the difference largely disappears when comparing the amount of protein you're actually buying.  The 93% lean beef costs about <b>{{compare_cost_93_80}}%</b> and <b>{{compare_cost_93_85}}%</b> more per pound than 80% and 85% beef, respectively.<br><br>
+Although 93% lean beef appears significantly more expensive at first glance, the difference largely disappears when comparing the amount of <a href='/misc/protein'>protein</a> you're actually buying.  The 93% lean beef costs about <b>{{compare_cost_93_80}}%</b> and <b>{{compare_cost_93_85}}%</b> more per pound than 80% and 85% beef, respectively.<br><br>
 
-Per cost of protein, however, fattier meat is hardly cheaper than leaner meat.  Comparing 80%, 85%, and 93% ground beef, the cost per gram of protein are a respective <b>{{protein_cost_80}}¢</b>, <b>{{protein_cost_85}}¢</b>, and <b>{{protein_cost_93}}¢</b>.<br><br>
+Per cost of <a href='/misc/protein'>protein</a>, however, fattier <a href='/misc/meat'>meat</a> is hardly cheaper than leaner <a href='/misc/meat'>meat</a>.  Comparing 80%, 85%, and 93% <a href='/misc/meat#ground-beef'>ground beef</a>, the costs per gram of <a href='/misc/protein'>protein</a> are a respective <b>{{protein_cost_80}}¢</b>, <b>{{protein_cost_85}}¢</b>, and <b>{{protein_cost_93}}¢</b>.<br><br>
 
-That means that 93% lean beef is only <b>{{compare_protein_93_80}}%</b> more expensive than 80% beef, and 93% lean beef is only <b>{{compare_protein_93_85}}%</b> more expensive than 85% beef.  Since protein is the primary reason many people eat meat, the leaner option is much more competitively priced than it initially appears.<br><br>
+That means that 93% lean beef is only <b>{{compare_protein_93_80}}%</b> more expensive than 80% beef, and 93% lean beef is only <b>{{compare_protein_93_85}}%</b> more expensive than 85% beef.  Since <a href='/misc/protein'>protein</a> is the primary reason many people eat <a href='/misc/meat'>meat</a>, the leaner option is much more competitively priced than it initially appears.<br><br>

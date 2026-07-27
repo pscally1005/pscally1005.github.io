@@ -4386,11 +4386,12 @@ LINKS = {
     "/misc/meat#ground-beef": [
         "93% lean ground beef",
         "93 % ground beef",
-        "93/7ground beef",
+        "93/7 ground beef",
         "ground beef",
         # "ground meat",
         "red meat",
-        "beef"
+        "beef",
+        "93 % lean beef"
     ],
     "/misc/meat#ground-turkey": [
         "93% lean ground turkey",
@@ -4399,7 +4400,8 @@ LINKS = {
         "ground turkey",
         "turkey",
         "93% lean meat",
-        "93% meat"
+        "93% meat",
+        "93% lean turkey"
     ],
     "/misc/meat#ham": [
         "ham steak",
@@ -5241,8 +5243,8 @@ LINKS = {
     ],
     "/misc/fats": [
         "Fat: The Innocent Criminal?",
-        "leaner",
-        "lean",
+        # "leaner",
+        # "lean",
         "full fat",
         "reduced fat",
         "fat free",
@@ -5267,7 +5269,7 @@ LINKS = {
         "fatty foods",
         "fatty food",
         "fatty",
-        "fattier",
+        # "fattier",
         "fattiest",
         "heart-healthy monounsaturated fats",
         "heart healthy monounsaturated fats",
@@ -6131,7 +6133,7 @@ LINKS = {
     # MISC
     "/misc/meat-cost-analysis": [
         "is fattier meat actually cheaper?",
-        "is fattiery meat actually cheaper",
+        "is fattier meat actually cheaper",
         "ground meat cost analysis",
         "meat cost analysis"
     ],
@@ -6153,9 +6155,9 @@ LINKS = {
         "espresso"
     ],
     "/misc/costs": [
-        "cost analysis"
         # "costs",
-        # "cost"
+        # "cost",
+        "cost analysis"
     ],
     "/misc/chicken-leg-quarters": [
         "chicken leg quarters",
@@ -7038,6 +7040,18 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "chocolate mixture",
+    "leaner cuts of ground meat",
+    # "exactly 93% meat and 7% fat",
+    "although 93% lean beef",
+    "the 93% lean beef costs",
+    "fattier ground meat",
+    "85% lean",
+    "80% and 85% beef",
+    "80% lean",
+    "that 93% lean beef",
+    "than 80% beef",
+    "than 85% beef",
+    "and 93% lean beef",
     "peanut butter on top",
     "chocolate brownies",
     "donut batter",
