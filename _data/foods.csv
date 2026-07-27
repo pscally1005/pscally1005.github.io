@@ -202,12 +202,12 @@ Feta cheese,feta,6.00,454.00,0.01322,2.6,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,
 Goat cheese,goat-cheese,2.99,113.20,0.02641,3.5,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
 Blue cheese,blue-cheese,4.00,454.00,0.00881,3.0,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.3,0,0,
 Plain nonfat greek yogurt,yogurt,3.54,896.00,0.00395,9.5,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,
-Plain whole milk greek yogurt,yogurt-whole-milk,3.54,896.00,0.00395,6.3,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,
+Plain whole milk greek yogurt,yogurt-whole-milk,3.54,896.00,0.00395,8.0,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.4,0,0,
 Tzatziki,tzatziki-sauce-100g,5.41,390.00,0.01387,9.1,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.5,0,0,/recipes/tzatziki
-"Vanilla Nonfat Greek Yogurt, Sugar Free",vanilla-sf-yogurt,5.48,905.60,0.00605,6.3,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,0,https://amzn.to/43NZ2On
-Vanilla Protein Greek Yogurt,vanilla-sf-yogurt-protein,5.99,760.00,0.00788,7.9,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,0,https://amzn.to/4aZZ7mi
+"Vanilla Nonfat Greek Yogurt, Sugar Free",vanilla-sf-yogurt,5.48,905.60,0.00605,8.0,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,0,https://amzn.to/43NZ2On
+Vanilla Protein Greek Yogurt,vanilla-sf-yogurt-protein,5.99,760.00,0.00788,8.8,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,0,https://amzn.to/4aZZ7mi
 "Kefir, plain, 3.25% fat",kefir-whole,3.89,960.00,0.00405,5.8,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/3HE3LJR
-"Kefir, plain, 1% fat",kefir,3.89,960.00,0.00405,8.7,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/43HN4ot
+"Kefir, plain, 1% fat",kefir,3.89,960.00,0.00405,6.9,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/43HN4ot
 Frosting,frosting,1.96,454.00,0.00432,2.3,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1,0.0,0.0,0.0,0,0,
 "Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,8.7,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,0,/recipes/protein-frosting
 "Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,8.7,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,0,/recipes/protein-frosting
@@ -265,8 +265,8 @@ Homemade fruit syrup,fruit-syrup,1.00,63.00,0.01587,3.1,46,TRUE,TRUE,TRUE,TRUE,T
 Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45wOzIv
 Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
 Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06942,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
-Buttermilk,buttermilk,2.23,"1,000.00",0.00223,7.3,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,0,
-Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,7.3,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,
+Buttermilk,buttermilk,2.23,"1,000.00",0.00223,6.3,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,0,
+Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,6.3,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,
 Almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Unsweetened almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Unsweetened vanilla almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
@@ -310,12 +310,12 @@ Sugar free chocolate bar,100,1.46,113.20,0.01290,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE
 85% chocolate,85,2.27,98.00,0.02316,5.6,23,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,25,
 70% chocolate,70,3.37,99.05,0.03402,4.9,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,30.0,0.0,0.0,0.0,0,25,
 50% chocolate,50,1.12,99.62,0.01124,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,48.5,0.0,0.0,4.0,0,25,
-Allulose chocolate bar,allulose-choc,2.45,176.00,0.01391,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,40.9,0.0,0,25,/misc/healthier-brownies-experiment#allulose-chocolate
+Allulose chocolate bar,allulose-choc,2.45,176.00,0.01391,5.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,40.9,0.0,0,25,/misc/healthier-brownies-experiment#allulose-chocolate
 Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/4ceFnvP
 Allulose,allulose,16.96,"1,135.00",0.01494,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,100.0,0.0,0,40,https://amzn.to/4mzsH5p
 Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43vQs5E
-Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,7.0,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,25,/recipes/monkfruit-chocolate-chunks
-Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,7.0,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,25,https://amzn.to/4kGEfC5
+Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,5.3,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,25,/recipes/monkfruit-chocolate-chunks
+Sugar free chocolate chips,sugar-free-chocolate-chips,3.97,252.00,0.01575,5.3,23,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,20.0,0.0,0.0,0,25,https://amzn.to/4kGEfC5
 Chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
 Mini chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
 Semisweet chocolate chips,chocolate-chips,3.58,336.00,0.01065,3.5,45,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,53.3,0.0,0.0,4.0,0,25,
@@ -460,8 +460,8 @@ Sunflower kernels,sunflower-seeds,2.99,454.00,0.00659,9.4,20,TRUE,TRUE,TRUE,TRUE
 Sunflower butter,sunflower-seeds,2.99,454.00,0.00659,9.4,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Sunflower seed butter,sunflower-seeds,2.99,454.00,0.00659,7.8,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Chia seeds,chia-seeds,9.97,998.80,0.00998,9.9,5,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4mwpWl9
-"Psyllium husks, whole",psyllium-husk,7.99,339.60,0.02353,10.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,https://amzn.to/4vLldRa
-High Fiber Psyllium Wrap,psyllium-wrap,0.25,80.00,0.00313,10.0,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,/recipes/psyllium-wrap
+"Psyllium husks, whole",psyllium-husk,7.99,339.60,0.02353,9.9,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,https://amzn.to/4vLldRa
+High Fiber Psyllium Wrap,psyllium-wrap,0.25,80.00,0.00313,9.9,19,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,85,/recipes/psyllium-wrap
 Ground flaxseed,ground-flaxseed,3.48,454.00,0.00767,9.7,35,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/43tlQlb
 Hemp hearts,hemp-seeds,10.97,454.00,0.02416,9.5,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4jnDTiH
 Hemp seeds,hemp-seeds,10.97,454.00,0.02416,9.5,15,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,https://amzn.to/4jnDTiH
@@ -528,15 +528,15 @@ Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,0.0,68,TRUE,TRUE,TRUE,TRUE,
 Homemade electrolyte mix,lmnt-glycinate,1.95,98.20,0.01986,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/electrolyte-powder
 "Homemade electrolyte mix, citrate",lmnt-citrate,1.63,102.60,0.01589,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/electrolyte-powder
 "Homemade electrolyte mix, glycinate",lmnt-glycinate,1.95,98.20,0.01986,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/electrolyte-powder
-Inulin,inulin,49.99,"1,816.00",0.02753,6.7,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,https://amzn.to/47w8h7R
+Inulin,inulin,49.99,"1,816.00",0.02753,9.9,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,https://amzn.to/47w8h7R
 High Fiber Inulin Syrup,inulin-syrup,1.74,160.00,0.01088,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,100,/recipes/inulin-syrup
 Chicken bouillon powder,bouillon-powder,5.98,896.00,0.00667,0.0,41,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Hco5lz
 Bouillon powder,bouillon-powder,5.98,896.00,0.00667,0.0,41,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Low sodium chicken broth,chicken-broth,0.69,454.00,0.00151,5.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,5.0,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
-Vegetable broth,veggie-broth,1.79,960.00,0.00186,5.0,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
-Chicken bone broth,bone-broth,1.37,905.60,0.00151,5.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
-Broth,bone-broth,1.37,905.60,0.00151,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
+Low sodium chicken broth,chicken-broth,0.69,454.00,0.00151,0.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,0.0,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Vegetable broth,veggie-broth,1.79,960.00,0.00186,0.0,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Chicken bone broth,bone-broth,1.37,905.60,0.00151,0.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
+Broth,bone-broth,1.37,905.60,0.00151,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,0.0,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3QlrH9q
 "Quest Protein Cookie, storebought",store-quest-cookie-100g,24.99,708.00,0.03530,4.0,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,13.6,0.0,0.0,0,100,https://amzn.to/3YppdYq
 "Quest Protein Cookie, homemade",homemade-quest-cookie-100g,1.20,80.00,0.01500,7.6,4,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,11.3,0.0,0.0,0,100,/recipes/copycat-quest-cookie
