@@ -7043,6 +7043,7 @@ EXCLUDED_PHRASES = [
     "leaner cuts of ground meat",
     # "exactly 93% meat and 7% fat",
     "although 93% lean beef",
+    "85% lean and 80% lean beef",
     "the 93% lean beef costs",
     "fattier ground meat",
     "85% lean",
