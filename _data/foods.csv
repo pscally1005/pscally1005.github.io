@@ -498,12 +498,13 @@ Ground chicken breasts,chicken-breast,3.42,454.00,0.00753,8.5,0,TRUE,FALSE,TRUE,
 Ground chicken,chicken-thighs,3.42,454.00,0.00753,7.3,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/ground-chicken
 "Ground turkey, 93/7",ground-turkey,3.99,454.00,0.00879,7.8,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Tomato Turkey Tacos,tomato-turkey-taco,7.68,630.00,0.01219,8.2,31,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,27,/recipes/tomato-turkey-taco
-"Ground beef, 93/7",ground-beef,4.49,454.00,0.00989,7.8,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-"Ground beef, 80/20",80-20-beef-100g,5.50,454.00,0.01211,5.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Ground beef, 93/7",ground-beef,6.49,454.00,0.01430,7.8,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Ground beef, 85/15",85-15-beef-100g,5.49,454.00,0.01209,7.1,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+"Ground beef, 80/20",80-20-beef-100g,4.99,454.00,0.01099,6.7,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Protein Black Bean Burgers,bean-burger-pea-100g,5.07,780.00,0.00650,9.0,30,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/black-bean-burger
 High Protein Veggie Ground,veggie-ground-100g,14.44,"1,900.00",0.00760,9.4,32,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,50,30,/recipes/veggie-ground
 Beef liver,liver,3.29,454.00,0.00725,8.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Beef top sirloin,steak,7.82,454.00,0.01722,6.4,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Beef top sirloin,steak,7.82,454.00,0.01722,7.3,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Ham, cooked",ham-cooked,3.99,454.00,0.00879,7.4,28,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Pork tenderloin,pork-tenderloin,3.43,454.00,0.00756,8.2,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Frozen raw shrimp, peeled and deveined",shrimp,4.68,339.60,0.01378,7.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4kpECB6

@@ -6129,6 +6129,12 @@ LINKS = {
     ],
 
     # MISC
+    "/misc/meat-cost-analysis": [
+        "is fattier meat actually cheaper?",
+        "is fattiery meat actually cheaper",
+        "ground meat cost analysis",
+        "meat cost analysis"
+    ],
     "/misc/psyllium-husk": [
         "psyllium husks",
         "psyllium husk",
@@ -8948,7 +8954,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-10-05")):
+            if not file.startswith(("2026-08-10")):
                 continue
 
             # exclude some files
