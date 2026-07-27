@@ -5,7 +5,7 @@ Ice,water,0.00,1.00,0.00000,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,
 "Beer, room temperature",beer,20.27,"4,258.58",0.00476,4.7,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Beer,beer,20.27,"4,258.58",0.00476,2.0,100,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,50,0,
 Rum,rum,15.00,750.00,0.02000,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-"Fruit juice, sugar free",fruit-juice-sugar-free,3.74,"1,920.00",0.00195,4.4,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4dnIjFi
+"Fruit juice, sugar free",fruit-juice-sugar-free,3.74,"1,920.00",0.00195,8.0,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4dnIjFi
 "Lemonade, storebought",lemonadestore100g,1.69,"1,560.00",0.00108,2.1,54,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,11.3,0.0,0.0,0.0,0,0,https://amzn.to/4a5ULZB
 White cooking wine,white-wine,3.48,366.80,0.00949,2.1,15,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 "Aquafaba, or water",aquafaba,0.00,1.00,0.00000,5.4,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -338,11 +338,11 @@ Maple extract,maple-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TR
 Rum extract,rum-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Coconut extract,coconut-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Vodka,vodka,10.00,750.00,0.01333,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Apples,apple,4.00,"1,362.00",0.00294,6.3,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
-"Apple, gala",apple,4.00,"1,362.00",0.00294,6.3,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
-No sugar added apple spread,apple-spread,3.87,784.00,0.00494,6.3,37,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/apple-spread
-Unsweetened applesauce,applesauce,3.12,"1,288.00",0.00242,6.3,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
-Unsweetened Applesauce,applesauce,3.12,"1,288.00",0.00242,6.3,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Apples,apple,4.00,"1,362.00",0.00294,7.0,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+"Apple, gala",apple,4.00,"1,362.00",0.00294,7.0,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+No sugar added apple spread,apple-spread,3.87,784.00,0.00494,7.0,37,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/apple-spread
+Unsweetened applesauce,applesauce,3.12,"1,288.00",0.00242,7.0,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
+Unsweetened Applesauce,applesauce,3.12,"1,288.00",0.00242,7.0,36,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Dried figs,fig-dried,4.99,254.70,0.01959,3.8,61,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Prunes,prune,4.99,454.00,0.01099,3.8,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Dates,dates,3.99,672.00,0.00594,3.8,62,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
