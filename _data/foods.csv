@@ -206,8 +206,8 @@ Plain whole milk greek yogurt,yogurt-whole-milk,3.54,896.00,0.00395,8.0,27,TRUE,
 Tzatziki,tzatziki-sauce-100g,5.41,390.00,0.01387,9.1,30,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,2.5,0,0,/recipes/tzatziki
 "Vanilla Nonfat Greek Yogurt, Sugar Free",vanilla-sf-yogurt,5.48,905.60,0.00605,8.0,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,0,https://amzn.to/43NZ2On
 Vanilla Protein Greek Yogurt,vanilla-sf-yogurt-protein,5.99,760.00,0.00788,8.8,36,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,2.7,0.0,0,0,https://amzn.to/4aZZ7mi
-"Kefir, plain, 3.25% fat",kefir-whole,3.89,960.00,0.00405,5.8,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/3HE3LJR
-"Kefir, plain, 1% fat",kefir,3.89,960.00,0.00405,6.9,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/43HN4ot
+"Kefir, plain, 3.25% fat",kefir-whole,3.89,960.00,0.00405,8.0,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/3HE3LJR
+"Kefir, plain, 1% fat",kefir,3.89,960.00,0.00405,9.5,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.8,0,0,https://amzn.to/43HN4ot
 Frosting,frosting,1.96,454.00,0.00432,2.3,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1,0.0,0.0,0.0,0,0,
 "Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,8.7,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,0,/recipes/protein-frosting
 "Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,8.7,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,0,/recipes/protein-frosting
@@ -265,8 +265,8 @@ Homemade fruit syrup,fruit-syrup,1.00,63.00,0.01587,3.1,46,TRUE,TRUE,TRUE,TRUE,T
 Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45wOzIv
 Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
 Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06942,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
-Buttermilk,buttermilk,2.23,"1,000.00",0.00223,6.3,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,0,
-Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,6.3,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,
+Buttermilk,buttermilk,2.23,"1,000.00",0.00223,8.0,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,0,
+Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,8.0,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,
 Almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Unsweetened almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Unsweetened vanilla almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
