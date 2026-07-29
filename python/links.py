@@ -7067,6 +7067,7 @@ EXCLUDED_PHRASES = [
     "leave the bread in the oven",
     "until the sides",
     "if using chocolate",
+    "if you're using chocolate",
     "savory bread",
     "sweet bread",
     "chocolate bread",
@@ -8999,7 +9000,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-01-02")):
+            if not file.startswith(("2026-08-06")):
                 continue
 
             # exclude some files

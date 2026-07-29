@@ -89,7 +89,7 @@ Instructions:
 Notes:
 - If you have frozen riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, you don't need to use a <a href='https://amzn.to/4q0AUjI'>food processor</a> at all.  Just combine in a bowl.
 
-- You can also make this into a cookie cake.  Just add the entire cookie dough to a parchment lined and lightly greased 9" cake pan.  Flatten to an even thickness, and bake at 400F for about 30 minutes.  The tops will be set and lightly browned, a toothpick should come out almost clean, and the internal temperature will be about 200F.
+- You can also make this into a cookie cake.  Just add the entire cookie dough to a parchment lined and lightly greased <a href='https://amzn.to/4mxxkxl'>9" cake pan</a>.  Flatten to an even thickness, and bake at 400F for about 30 minutes.  The tops will be set and lightly browned, a toothpick should come out almost clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be about <a href='https://amzn.to/4kmobG2'>200F</a>.
 - <img src='/assets/Food/Meme/Cauli cookies/cookie-cake-1.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Meme/Cauli cookies/cookie-cake-2.jpg' alt='' class='instruction-image'>
 ---
