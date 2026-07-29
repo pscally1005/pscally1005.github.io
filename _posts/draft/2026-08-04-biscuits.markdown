@@ -50,7 +50,10 @@ tags:
 - butter
 - biscuit
 - roll
-Description: What a great way to use up any leftover <a href='/misc/slow-cooker-chicken'>chicken fat</a> rendered out from <a href='/misc/chicken-leg-quarters'>roasting chicken leg quarters</a>.  Although not a healthy recipe, these biscuits are a minimal waste recipe, using any leftover <a href='/misc/slow-cooker-chicken'>chicken fat</a> or <a href='/misc/bone-broth'>broth</a> you acquired when prepping some <a href='/recipes/shredded-chicken'>shredded chicken</a> using <a href='/misc/chicken-leg-quarters'>leg quarters</a>.  They're delicious, roasty, crusty, and crumbly, making them a fun <a href='/recipes/sides'>side</a> at a gathering.
+Description: |
+  What a great way to use up any leftover <a href='/misc/slow-cooker-chicken'>chicken fat</a> rendered out from <a href='/misc/chicken-leg-quarters'>roasting chicken leg quarters</a>.  Although not a healthy recipe, these biscuits are a minimal waste recipe, using any leftover <a href='/misc/slow-cooker-chicken'>chicken fat</a> or <a href='/misc/bone-broth'>broth</a> you acquired when prepping some <a href='/recipes/shredded-chicken'>shredded chicken</a> using <a href='/misc/chicken-leg-quarters'>leg quarters</a>.  They're delicious, roasty, crusty, and crumbly, making them a fun <a href='/recipes/sides'>side</a> at a gathering.<br><br>
+
+  For a completely different biscuit recipe, check out my <a href='/recipes/vegan-biscuits'>Cauliflower Biscuits</a>, which are vegan, <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/calories'>low calorie</a>, and healthy!
 Instructions:
 - Preheat your oven to 425F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 

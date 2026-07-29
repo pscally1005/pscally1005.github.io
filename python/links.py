@@ -43,8 +43,8 @@ LINKS = {
     "/recipes/chicken-biscuits": [
         "chicken biscuits",
         "chicken biscuit",
-        "biscuits",
-        "biscuit",
+        # "biscuits",
+        # "biscuit",
         "small batch o' chicken biscuits",
         "small batch o' chicken biscuit",
         "small batch of chicken biscuits",
@@ -53,6 +53,16 @@ LINKS = {
         "small batch chicken biscuit",
         "chicken fat biscuits",
         "chicken fat biscuit"
+    ],
+    "/recipes/vegan-biscuits": [
+        # "biscuits",
+        # "biscuit",
+        "cauliflower biscuits (vegan, gf)",
+        "cauliflower biscuit (vegan, gf)",
+        "cauliflower biscuits",
+        "cauliflower biscuit",
+        "vegan biscuits",
+        "vegan biscuit"
     ],
     "/recipes/protein-cheesecake-brownies": [
         "high protein brownie cheesecake bars",
@@ -8969,7 +8979,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-10")):
+            if not file.startswith(("2026-08-05")):
                 continue
 
             # exclude some files
