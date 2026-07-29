@@ -52,9 +52,9 @@ tags:
 - low fat
 - high protein
 - egg whites
-Description: This healthy <a href='/recipes/bread'>bread</a> loaf alternative contains only 3 ingredients and is essentially pure <a href='/misc/protein'>protein</a>, being practically <a href='/misc/carbs'>carb</a> and <a href='/misc/fats'>fat</a> free. The base relies on <a href='/misc/meat#egg-whites'>liquid egg whites</a>, which are whipped to provide air and structure, similar to an angel food cake.  Then <a href='/misc/dairy#whey'>protein powder</a> is folded in to provide additional structure and <a href='/misc/protein'>protein</a>, as well as a midly sweet flavor. You can have the entire <a href='/recipes/bread'>bread</a> prepared in less time than it takes to heat up the oven!
+Description: This healthy <a href='/recipes/bread'>bread</a> loaf alternative contains only 3 ingredients and is essentially pure <a href='/misc/protein'>protein</a>, being practically <a href='/misc/carbs'>carb</a> and <a href='/misc/fats'>fat free</a>. The base relies on <a href='/misc/meat#egg-whites'>liquid egg whites</a>, which are whipped to provide air and structure, similar to an angel food cake.  Then <a href='/misc/dairy#whey'>protein powder</a> is folded in to provide additional structure and <a href='/misc/protein'>protein</a>, as well as a midly sweet flavor. You can have the entire <a href='/recipes/bread'>bread</a> prepared in less time than it takes to heat up the oven!
 Instructions:
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and lightly grease the paper
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease</a> the paper
 
 - In a large glass or <a href='https://amzn.to/4rb3CiD'>metal bowl</a>, whip your <a href='/misc/meat#egg-whites'>egg whites</a> on high speed with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> for about 5 minutes, or until you have stiff peaks
 - <img src='/assets/Food/Bread/Cloud Loaf/egg-whites.jpg' alt='' class='instruction-image'>
@@ -71,11 +71,11 @@ Instructions:
 - Remove from the oven, and gently slice when totally cooled with a serrated knife. Add parchment paper between each slice, and place in an airtight bag.  Store in the fridge (up to 5 days).  I do not recommend freezing this bread
 - <img src='/assets/Food/Bread/Cloud Loaf/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- An equal amount of casein or pea protein powder (2 scoops, 60 g) will work in place of whey.
+- An equal amount of <a href='/misc/dairy#casein'>casein</a> or <a href='https://amzn.to/4aXnK21'>pea protein powder</a> (2 scoops, 60 g) will work in place of <a href='/misc/dairy#whey'>whey</a>.
 
-- To make this a savory bread, use unflavored protein powder.  Add 1 tsp (3 g) each of garlic and onion powder.
+- To make this a savory bread, use unflavored <a href='/misc/dairy#whey'>protein powder</a>.  Add 1 tsp (3 g) each of garlic and onion powder.
 
-- To make this a sweet bread, use vanilla protein powder.  Add 1 tsp (5 g) each of vanilla extract and liquid monk fruit, as well as 1 tsp (3 g) of cinnamon.
+- To make this a sweet bread, use vanilla <a href='/misc/dairy#whey'>protein powder</a>.  Add 1 tsp (5 g) each of vanilla extract and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, as well as 1 tsp (3 g) of cinnamon.
 
-- If you're using chocolate protein powder, add the vanilla, monk fruit, and cinnamon as called for in note 3, as well as 4 tbsp (20 g) of cocoa powder.
+- If you're using chocolate <a href='/misc/dairy#whey'>protein powder</a>, add the vanilla, <a href='https://amzn.to/3SqwsMO'>monk fruit</a>, and cinnamon as called for in note 3, as well as 4 tbsp (20 g) of <a href='/misc/chocolate-benefits'>cocoa powder</a>.
 ---
