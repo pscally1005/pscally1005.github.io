@@ -26,7 +26,7 @@ image: /assets/Food/Finger Food/Cauli Biscuits/cover.jpg
 file: veganbiscuits
 servingSize: 1 biscuit (~54 g)
 section1: Flax Egg
-start2: Frozen cauliflower
+start2: Frozen cauliflower, thawed
 section2: Riced Cauliflower
 start3: Almond flour
 section3: Rest of Ingredients
@@ -35,7 +35,7 @@ section4:
 start5:
 section5:
 Prep: 15
-Rest:
+Rest: 10
 Cook: 15
 Source1: https://www.powerhungry.com/2020/02/24/cauliflower-biscuits-4-ingredients-vegan-grain-free-oil-free/#wprm-recipe-container-25942
 Source2:
@@ -60,7 +60,7 @@ tags:
 Description: |
   Introducing vegan, <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/calories'>low calorie</a> biscuits.  They use a base of riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, which provides neutral taste, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/vitamin-c'>vitamin C</a> for little <a href='/misc/calories'>calories</a>.  <a href='/misc/nuts#almonds'>Almond</a> and <a href='/misc/grains#oats'>oat flour</a> are added as binders, providing <a href='/misc/fats'>healthy fats</a> and <a href='/misc/carbs'>complex starches</a> without the need for <a href='/misc/fake-healthy-foods#seed-oil'>oil</a> or <a href='/misc/grains#white-wheat'>refined flour</a>.  Finally, these "cheesy" tasting biscuits get their flavor from nutritional yeast, rosemary, and <a href='/misc/veggies#garlic'>garlic</a>.  This simple snack or <a href='/recipes/sides'>side dish</a> works both warm or cold.<br><br>
 
-  For a completely different biscuit recipe (one that's not vegan, <a href='/misc/celiac'>gluten free</a>, or healthy), check out my <a href='/recipes/chicken-biscuits'>Small Batch o' Chicken Biscuits</a>!
+  For a completely different biscuit recipe (one that's not vegan, <a href='/misc/celiac'>gluten free</a>, or healthy), check out my <a href='/recipes/chicken-biscuits'>Small Batch o' Chicken Biscuits</a>!  Or for a cookie recipe derived from these biscuits, check out my Cauliflower Chocolate Chip Cookies!
 Instructions:
 - Add <a href='/misc/seeds#flax-seeds'>flax</a> and water to a <a href='https://amzn.to/4adxMft'>small bowl</a>, and mix together. Let sit for 5 minutes to gel and form your <a href='/misc/seeds#flax-seeds'>flax egg</a>.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/flax.jpg' alt='' class='instruction-image'>
@@ -76,7 +76,7 @@ Instructions:
 - Add the <a href='/misc/seeds#flax-seeds'>flax egg</a> to the bowl, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to form a dough.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide the dough into 9 equal pieces, about 68 g each. Roll into a ball, place on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, lightly flatten, and shape into a circle. Optionally sprinkle the tops with everything bagel seasoning.
+- Divide the dough into 9 equal pieces, about <b>68 g</b> each. Roll into a ball, place on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, lightly flatten, and shape into a circle. Optionally sprinkle the tops with everything bagel seasoning.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 400F for about 30 minutes, or until the bottoms and edges looked browned and dried.

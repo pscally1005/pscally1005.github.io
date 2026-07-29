@@ -64,6 +64,18 @@ LINKS = {
         "vegan biscuits",
         "vegan biscuit"
     ],
+    "/recipes/cauliflower-cookies": [
+        # "vegan cookies",
+        # "vegan cookie",
+        "cauliflower cookies (vegan, gf)",
+        "cauliflower cookie (vegan, gf)",
+        "cauliflower cookies",
+        "cauliflower cookie",
+        "cauliflower chocolate chip cookies",
+        "cauliflower chocolate chip cookies",
+        "vegan chocolate chip cookies",
+        "vegan chocolate chip cookie"
+    ],
     "/recipes/protein-cheesecake-brownies": [
         "high protein brownie cheesecake bars",
         "high protein brownie cheesecake bar",
