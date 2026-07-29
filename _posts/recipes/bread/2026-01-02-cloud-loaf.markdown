@@ -71,4 +71,11 @@ Instructions:
 - Remove from the oven, and gently slice when totally cooled with a serrated knife. Add parchment paper between each slice, and place in an airtight bag.  Store in the fridge (up to 5 days).  I do not recommend freezing this bread
 - <img src='/assets/Food/Bread/Cloud Loaf/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- An equal amount of casein or pea protein powder (2 scoops, 60 g) will work in place of whey.
+
+- To make this a savory bread, use unflavored protein powder.  Add 1 tsp (3 g) each of garlic and onion powder.
+
+- To make this a sweet bread, use vanilla protein powder.  Add 1 tsp (5 g) each of vanilla extract and liquid monk fruit, as well as 1 tsp (3 g) of cinnamon.
+
+- If you're using chocolate protein powder, add the vanilla, monk fruit, and cinnamon as called for in note 3, as well as 4 tbsp (20 g) of cocoa powder.
 ---
