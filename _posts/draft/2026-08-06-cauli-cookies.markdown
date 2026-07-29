@@ -26,7 +26,7 @@ image: /assets/Food/Meme/Cauli cookies/cover.jpg
 file: caulicookies
 servingSize: 1 cookie (~57 g)
 section1: Flax Egg
-start2: Frozen cauliflower
+start2: Frozen cauliflower, thawed
 section2: Riced Cauliflower
 start3: Almond flour
 section3: Dry Ingredients
@@ -78,7 +78,7 @@ Instructions:
 - Fold in your chocolate chips.
 - <img src='/assets/Food/Meme/Cauli cookies/chocolate.jpg' alt='' class='instruction-image'>
 
-- Divide your dough into 9 equal balls, about <b>66 g</b> each. Add to the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, lightly flatten down, and shape into a circle.
+- Divide your dough into 9 equal balls, about <b>70 g</b> each. Add to the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, lightly flatten down, and shape into a circle.
 - <img src='/assets/Food/Meme/Cauli cookies/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 400F for about 30 minutes, or until the sides and bottoms are lightly browned and dried.
@@ -88,4 +88,8 @@ Instructions:
 - <img src='/assets/Food/Meme/Cauli cookies/plate.jpg' alt='' class='instruction-image'>
 Notes:
 - If you have frozen riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, you don't need to use a <a href='https://amzn.to/4q0AUjI'>food processor</a> at all.  Just combine in a bowl.
+
+- You can also make this into a cookie cake.  Just add the entire cookie dough to a parchment lined and lightly greased 9" cake pan.  Flatten to an even thickness, and bake at 400F for about 30 minutes.  The tops will be set and lightly browned, a toothpick should come out almost clean, and the internal temperature will be about 200F.
+- <img src='/assets/Food/Meme/Cauli cookies/cookie-cake-1.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Meme/Cauli cookies/cookie-cake-2.jpg' alt='' class='instruction-image'>
 ---
