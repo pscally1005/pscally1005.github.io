@@ -5961,6 +5961,7 @@ LINKS = {
         "lightly grease the paper with oil",
         "grease the paper with oil",
         "lightly spray with oil",
+        "lightly spray",
         "grease with oil",
         "lightly oil",
         "refillable spray bottle",

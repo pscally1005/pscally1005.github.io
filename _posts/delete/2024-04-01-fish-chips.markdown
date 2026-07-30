@@ -58,13 +58,13 @@ Instructions:
 
 - Toss the fries with the oil, garlic powder, onion powder, paprika, salt, and black pepper
 
-- Preheat your air fryer to 400F, and lightly spray the basket with oil. Add in the fries, and air fry for about 6 minutes
+- Preheat your air fryer to 400F, and <a href='https://amzn.to/3Hdg0gk'>lightly spray</a> the basket with oil. Add in the fries, and air fry for about 6 minutes
 
 - Moving on to the fish. Lightly coat the fish in <a href='/misc/olive-oil'>olive oil</a>
 
 - In a small bowl, mix together the breading ingredients of oat flour and spices (lemon pepper, thyme, and chili powder)
 
-- Coat the fish in your breading. Lightly spray the basket with oil, and add to the air fryer. Lightly spray the top, and air fry for about 6 minutes at 400F
+- Coat the fish in your breading. <a href='https://amzn.to/3Hdg0gk'>Lightly spray</a> the basket with oil, and add to the air fryer. <a href='https://amzn.to/3Hdg0gk'>Lightly spray</a> the top, and air fry for about 6 minutes at 400F
 Notes:
 - The fish and chips should take the same time to cook, so you can do them together next to each other. That's why this recipe is only 1 serving, as the air fryer can only fit one portion at a time. If you want to scale this up, I would recommend tripling it (3 servings), and doing the fries first. Transfer the fries to a wire rack to stay crisp, and then cook your 3 fish filets
 - <img src='/assets/Food/Fish/Fish Chips/fish-chips-7.jpg' alt='' class='instruction-image'>
