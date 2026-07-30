@@ -33,8 +33,8 @@ section4:
 start5:
 section5:
 Prep: 10
-Rest:
-Cook: 25
+Rest: 30
+Cook: 30
 Source1: https://cafedelites.com/best-fudgy-cocoa-brownies/#recipe
 Source2: https://youtu.be/qpF5B_jHZrw?si=elQjFbyIdoYjjh3O
 Source3:
@@ -58,39 +58,54 @@ tags:
 - chocolate chips
 - chocolate chunks
 - vanilla
-Description: I think of a single person who doesn't like <a href='/brownies'>brownies</a>. As with my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, here's a standard standard recipe, with <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a>. I like to bake traditional desserts occasionally, and these are ones that you know everyone will love at a party. They're not healthy at all, unlike most things on this page, but that's okay; enjoy these in morderation.  Or check out any of my other healthy <a href='/brownies'>brownie recipes</a>!
+Description: |
+  I think of a single person who doesn't like <a href='/brownies'>brownies</a>. As with my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>, here's a standard standard recipe, with <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a>.<br><br>
+
+  I like to bake traditional desserts occasionally, and these are ones that you know everyone will love at a party. They're not healthy at all, unlike most things on this page, but that's okay; enjoy these in morderation.  Or check out any of my other healthy <a href='/brownies'>brownie recipes</a>!
 Instructions:
-- Preheat your oven to 350F, and grease a <a href='https://amzn.to/4mAvtr9'>square 9x9" pan</a> with oil. Make sure to coat it well; you don't want the brownies to stick to the pan
+- Preheat your oven to 350F, and grease a <a href='https://amzn.to/4mAvtr9'>square 9x9" pan</a> with oil.
 
-- Melt your <a href='/misc/dairy#butter'>butter</a> in the microwave. Combine together melted <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/hidden-sugar'>sugar</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until the <a href='/misc/hidden-sugar'>sugar</a> is very well incorporated, about a minute
+- Melt your <a href='/misc/dairy#butter'>butter</a> in the microwave, covered with a plate to prevent splattering.
 
-- Crack in the <a href='/misc/meat#eggs'>eggs</a>, pour in the vanilla, and add the salt. Again, beat with your <a href='https://amzn.to/45yqsbM'>hand mixer</a> until super smooth, about a minute
+- Combine together melted <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/hidden-sugar'>sugar</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until the <a href='/misc/hidden-sugar'>sugar</a> is very well incorporated, about a minute.
 
-- Add in the <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/grains#white-wheat'>flour</a>, and stir until just combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Crack in the <a href='/misc/meat#eggs'>eggs</a>, pour in the vanilla, and add the salt. Again, beat with your <a href='https://amzn.to/45yqsbM'>hand mixer</a> until super smooth, about a minute.
 
-- Transfer your batter to the pan, and smooth out to all sides. Thump the pan a few times to remove any air bubbles.  Optionally top with chocolate chips
+- Add in the <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/grains#white-wheat'>flour</a>, and stir until just combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 
-- Bake at 350F for about 20-25 minutes. Just until the center of the brownies no longer jiggles and is set to the touch. A toothpick should come out slightly dirty. Too wet and the brownies are raw; clean and the brownies are overcooked
+- Transfer your batter to the pan, and smooth out to all sides. Thump the pan a few times to remove any air bubbles.  Optionally top with chocolate chips.
 
-- Allow the brownies to cool in the fridge for at least 30 minutes before slicing with a plastic knife
-# - <img src='/assets/Misc/Unhealthy/Brownies/sliced.jpg' alt='' class='instruction-image'>
+- Bake at 350F for about 20-30 minutes. Just until the center of the brownies no longer jiggles and is set to the touch. A toothpick should come out slightly dirty. Too wet and the brownies are raw; clean and the brownies are overcooked.
+
+- Allow the brownies to cool in the fridge for at least 30 minutes before slicing with a plastic knife.
 Notes:
-- Omit the salt if using salted <a href='/misc/dairy#butter'>butter</a>
+- Make sure to coat the pan well; you don't want the brownies to stick to the pan.
 
-- You can replace the powdered sugar with granulated sugar, but remember to replace with 1:1 by weight, not volume. Replace 2 cups (240 g) of powdered sugar with 1.25 cups (240 g) granulated sugar
+- Omit the salt if using salted <a href='/misc/dairy#butter'>butter</a>.
 
-- As for the oil, I'll be using <a href='/misc/nuts#coconut'>extra virgin coconut oil</a> here, but either <a href='/misc/olive-oil'>extra virgin olive oil</a> or <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> will also work
+- You can replace the powdered sugar with granulated sugar, but remember to replace with 1:1 by weight, not volume. Replace 2 cups (240 g) of powdered sugar with 1.25 cups (240 g) granulated sugar.
 
-- Do not over mix, or you'll develop the gluten in the flour and end up with tough <a href='/brownies'>brownies</a>
+- Optionally add in 1 tbsp (20 g) of molasses for a subtle brown sugar flavor.
 
-- Optionally fold in some chocolate chips (1/2 cup, 90 g)
+- As for the oil, I'll be using 1 tbsp (14 g) of <a href='/misc/nuts#coconut'>extra virgin coconut oil</a> here, but either <a href='/misc/olive-oil'>extra virgin olive oil</a> or <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a> will also work.
 
-- If you want to make these healthier, replace the <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and <a href='/misc/nuts#almonds'>almond flour</a>.  Check out my <a href='/misc/healthier-brownies-and-cookies-experiment#brownies-experiment'>Healthier Brownies & Cookies Experiment</a> and <a href='/recipes/best-healthy-brownies'>Best Healthy Brownies</a> for more information
+- Do not over mix, or you'll develop the <a href='/misc/celiac'>gluten</a> in the <a href='/misc/grains#white-wheat'>flour</a> and end up with tough <a href='/brownies'>brownies</a>.
+
+- Optionally fold in some chocolate chips (1/2 cup, 90 g).
+
+- |
+  Optional, but recommend if you have the patience - let the batter sit in pan in the fridge overnight (covered with foil). This step further dissolves the sugar into the batter, leading to the glossy skin on top, characteristic of boxed brownies.<br><br>
+
+  This step is really only necessary if you swap the powdered sugar for granulated sugar. The powdered sugar is much more fine, and as such will dissolve much more easily into the batter. Granulated sugar on the other hand will leave grainy sugar crystals in your raw batter, preventing brownie skin. Letting the sugar dissolve overnight breaks down these crystals, leading to a better brownie texture.
+
+- |
+  Since brownies don't use that much flour, they can easily be made <a href='/misc/celiac'>gluten free</a>.  Just replace the <a href='/misc/grains#white-wheat'>all purpose flour</a> with either <a href='/misc/nuts#almonds'>almond flour</a> (1/2 cup, 56 g) or <a href='/misc/grains#oats'>oat flour</a> (1/2 cup, 45 g).<br><br>
+
+  Obviously, you won't have to worry about over mixing the batter and developing the <a href='/misc/celiac'>gluten</a> if it's <a href='/misc/celiac'>gluten free</a>.
+
+- |
+  If you want to make these healthier, replace the <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>white flour</a> with <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and <a href='/misc/nuts#almonds'>almond flour</a>.<br><br>
+
+  Check out my <a href='/misc/healthier-brownies-and-cookies-experiment#brownies-experiment'>Healthier Brownies & Cookies Experiment</a> and <a href='/recipes/best-healthy-brownies'>Best Healthy Brownies</a> for more information.
 - <a href='/recipes/best-healthy-cookie-dough'><img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookie-dough-bite.jpg' alt='' class='instruction-image'></a>
-
-- Since brownies don't use that much flour, they can easily be made <a href='/misc/celiac'>gluten free</a>.  Just replace the <a href='/misc/grains#white-wheat'>all purpose flour</a> with either <a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/grains#oats'>oat flour</a>.  Obviously, you won't have to worry about over mixing the batter and developing the gluten if it's <a href='/misc/celiac'>gluten free</a>
-
-- Optional, but recommend if you have the patience - let the batter sit in pan in the fridge overnight (covered with foil). This step further dissolves the sugar into the batter, leading to the glossy skin on top characteristic of boxed brownies. This step is really only necessary if you swap the powdered sugar for granulated sugar. The powdered sugar is much more fine, and as such will dissolve much more easily into the batter. Granulated sugar on the other hand will leave grainy sugar crystals in your raw batter, preventing brownie skin. Letting the sugar dissolve overnight breaks down these crystals, leading to a better brownie texture
-
-# - I got 24 squares out of my glass 11.5x7" pan, but I'll get 16 slightly bigger brownies from a <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.  Nutrition facts are assuming 24 brownies
 ---
