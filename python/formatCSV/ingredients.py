@@ -195,6 +195,8 @@ def ingredients(food):
         f = "Homemade electrolyte powder, citrate"
     elif food == "Sweetener, agave, syrup":
         f = "Agave"
+    elif food == "Molasses" or food == "Blackstrap molasses" or food == "Molasses, blackstrap":
+        f = "Molasses"
     elif food == "Protein cookie by QUEST":
         f = "Quest Protein Cookie, storebought"
     elif food == "protein-cookie-quest" or food == "protein-cookie-quest-sugar":

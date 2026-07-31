@@ -57,7 +57,7 @@ tags:
 - oat flour
 - cinnamon
 Description: |
-  I've already made <a href='/recipes/vegan-biscuits'>Cauliflower Biscuits</a>, so why not Cauliflower Cookies. I've taken the <a href='/recipes/vegan-biscuits'>Cauliflower Biscuits</a> recipe I made yesterday and swapped out the spices for cinnamon, sweeteners, and of course, <a href='/misc/chocolate-benefits'>chocolate</a>.<br><br>
+  I've already made <a href='/recipes/vegan-biscuits'>Cauliflower Biscuits</a>, so why not Cauliflower Cookies? I've taken the <a href='/recipes/vegan-biscuits'>Cauliflower Biscuits</a> recipe I made yesterday and swapped out the spices for cinnamon, sweeteners, and of course, <a href='/misc/chocolate-benefits'>chocolate</a>.<br><br>
 
   The result is chewy, gooey, sweet, slightly crispy, and lower <a href='/misc/calories'>calorie</a> <a href='/cookies'>cookie</a>. These are <a href='/misc/celiac'>gluten free</a>, <a href='/misc/hidden-sugar'>sugar free</a>, and vegan, making them a perfect snack!
 Instructions:

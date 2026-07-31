@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Chunky Monkey Nice Cream
-date:   2026-07-20 00:00:00 -0500
+date:   2026-07-31 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

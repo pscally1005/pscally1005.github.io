@@ -7316,6 +7316,8 @@ EXCLUDED_PHRASES = [
     "mint chocolate chip cookie",
     "mint chocolate brownies",
     "mint chocolate brownie",
+    "peanut butter chocolate chip cookies",
+    "peanut butter chocolate chip cookie",
     "baked brownies",
     "raw cookie dough",
     "these cookies",
