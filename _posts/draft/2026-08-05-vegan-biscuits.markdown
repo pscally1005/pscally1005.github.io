@@ -73,10 +73,10 @@ Instructions:
 - Add in the dry ingredients, and whisk together - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#oats'>oat flour</a>, nutritional yeast, rosemary, baking powder, garlic powder, onion powder, and salt.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/dry.jpg' alt='' class='instruction-image'>
 
-- Add the <a href='/misc/seeds#flax-seeds'>flax egg</a> to the bowl, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to form a dough.
+- Add the <a href='/misc/seeds#flax-seeds'>flax egg</a> to the bowl, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to form a dough wet dough.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide the dough into 9 equal pieces, about <b>68 g</b> each. Roll into a ball, place on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, lightly flatten, and shape into a circle. Optionally sprinkle the tops with everything bagel seasoning.
+- Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking, divide the dough into 9 equal pieces, about <b>68 g</b> each. Roll into a ball, place on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, lightly flatten, and shape into a circle. Optionally sprinkle the tops with everything bagel seasoning.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 400F for about 30 minutes, or until the bottoms and edges looked browned and dried.
