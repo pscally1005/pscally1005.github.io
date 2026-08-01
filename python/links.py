@@ -2603,7 +2603,8 @@ LINKS = {
         "butternut puree"
     ],
     "/recipes/cottage-cheese-flatbread": [
-        "cottage cheese flatbread"
+        "cottage cheese flatbread",
+        "cottage cheese flatbreads"
     ],
     "/recipes/cashew-ricotta-cheese": [
         "dairy free cashew ricotta cheese",
@@ -3839,7 +3840,11 @@ LINKS = {
         "pre grated cheese",
         "pre-grated cheese",
         "parmesan",
-        "parm"
+        "parm",
+        "grated parmesan cheese",
+        "grated parmesan",
+        "grated parm",
+        "grated parm cheese"
     ],
     "/misc/dairy#swiss-cheese": [
         "swiss cheese",
@@ -7065,6 +7070,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "chocolate mixture",
+    "<b>Cheese</b>",
     "leave the bread in the oven",
     "until the sides",
     "if using chocolate",
@@ -7072,6 +7078,10 @@ EXCLUDED_PHRASES = [
     "savory bread",
     "sweet bread",
     "chocolate bread",
+    "cheese ingredients",
+    "cheese mix",
+    "on top of the cheese",
+    "noodles, cheese, and sauce",
     "leaner cuts of ground meat",
     # "exactly 93% meat and 7% fat",
     "although 93% lean beef",
@@ -9003,7 +9013,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-06")):
+            if not file.startswith(("2026-02-26")):
                 continue
 
             # exclude some files
