@@ -4177,7 +4177,9 @@ LINKS = {
         "whole grains",
         "whole grain",
         "grains",
-        "grain"
+        "grain",
+        "grain free",
+        "grain-free"
     ],
     "/misc/grains#amaranth": [
         "amaranth"
@@ -6944,7 +6946,8 @@ LINKS = {
     ],
     "/misc/fake-healthy-foods#bread": [
         "white breads",
-        "white bread"
+        "white bread",
+        "storebought bread"
     ],
     "/misc/fake-healthy-foods#peanut-butter": [
         "processed no-stir peanut butters",
