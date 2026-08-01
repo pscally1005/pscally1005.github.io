@@ -66,16 +66,16 @@ Description: |
 
   If you prefer <a href='/cookies'>cookies</a> instead, I have a similar <a href='/recipes/natural-peanut-butter'>nut butter</a> based recipe for <a href='/recipes/keto-chocolate-chip-cookies'>Keto Chocolate Chip Cookies</a>, with <a href='/misc/hidden-sugar'>no sugar</a>, <a href='/misc/dairy#butter'>butter</a>, oil, or <a href='/misc/celiac'>gluten</a>, and only 3 g <a href='/misc/carbs'>net carbs</a> per serving!  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
-- Preheat your oven to 350F, and lightly grease a pan with oil. I'm using an 11.5x7" glass pan today, but a standard 9" square will also work
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together (whipped) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. The "batter" will be very thick, almost like the texture of cookie dough, depending on your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Fold in half the chocolate chips (1/4 cup, 45 g)
 - <img src='/assets/Food/Healthier Dessert/Keto Brownie/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and press the remaining chocolate chips into the top
-- <img src='/assets/Food/Healthier Dessert/Keto Brownie/raw.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Healthier Dessert/Keto Brownie/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 30 minutes, or until a toothpick comes out with some wet crumbs, but not totally raw or clean. Let cool totally in the pan for at least 30 minutes before slicing
-- <img src='/assets/Food/Healthier Dessert/Keto Brownie/baked.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Healthier Dessert/Keto Brownie/baked.jpg' alt='' class='instruction-image'>
 Notes:
 - Whipped <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> refers to <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> that has been fully blended prior to use.  You can buy it like this, but I perfer to just blend my entire container of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> when I get home from the store, as I always use it like this
 
@@ -91,15 +91,14 @@ Notes:
 
 - I'm using <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with <a href='https://amzn.to/4lkg3Hr'>erythritol</a> as my sweetener here, but any <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> will work, such as <a href='https://amzn.to/4beiNlT'>stevia</a> or <a href='https://amzn.to/4mzsH5p'>allulose</a>
 
-- Below is the nutrition facts comparison between these keto <a href='/brownies'>brownies</a> and my standard <a href='/recipes/brownies'>Classic Fudgy Brownies</a>
-
+- Below is the nutrition facts comparison between <a href='#recipe'>these keto brownies</a> and my standard <a href='/recipes/brownies'>Classic Fudgy Brownies</a>, both without chocolate chips.  <a href='#recipe'>These keto brownies</a> are lower in <a href='/misc/calories'>calories</a> and <a href='/misc/carbs'>net carbs</a>, while having no <a href='/misc/hidden-sugar'>added sugar</a>, more <a href='/misc/fats'>healthy fats</a>, and more <a href='/misc/fiber'>fiber</a>.
 - |
   COMPARE(
-    "ketobrownie",
+    "ketobrownie-nochoc",
     "brownies";
 
-    "<a href='/recipes/keto-brownies'>Keto<br>Brownies</a>",
-    "<a href='/recipes/brownies'>Classic<br>Fudgy<br>Brownies</a>";
+    "<a href='#recipe'>Keto<br>Brownies</a>",
+    "<a href='/recipes/brownies'>Classic<br>Brownies</a>";
 
     "Calories",
     "Protein",

@@ -76,15 +76,14 @@ Notes:
 
 - Any kind of <a href='/recipes/natural-peanut-butter'>natural nut or seed butter</a> will work for this recipe.  I prefer <a href='/misc/nuts#almonds'>almond butter</a>, but other good options are <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, or <a href='/misc/seeds#sesame-seeds'>tahini</a>.  Just use something that's only <a href='/misc/nuts'>nuts</a>/<a href='/misc/seeds'>seeds</a> and salt, without any <a href='/misc/hidden-sugar'>added sugars</a> or <a href='/misc/fats'>hydrogenated oils</a>
 
-- Below is the nutrition facts comparison between these <a href='#recipe'>date brownies</a> and my standard <a href='/recipes/brownies'>Classic Fudgy Brownies</a>
-
+- Below is the nutrition facts comparison between these <a href='#recipe'>date brownies</a> and my standard <a href='/recipes/brownies'>Classic Fudgy Brownies</a>.  <a href='#recipe'>These date brownies</a> are lower in <a href='/misc/calories'>calories</a> and <a href='/misc/carbs'>net carbs</a>, while having no <a href='/misc/hidden-sugar'>added sugar</a>, more <a href='/misc/fats'>healthy fats</a> (but also less <a href='/misc/fats'>fat</a> overall), and more <a href='/misc/fiber'>fiber</a>.
 - |
   COMPARE(
     "datebrownie",
     "brownies";
 
     "<a href='#recipe'>Date<br>Brownies</a>",
-    "<a href='/recipes/brownies'>Classic<br>Fudgy<br>Brownies</a>";
+    "<a href='/recipes/brownies'>Classic<br>Brownies</a>";
 
     "Calories",
     "Protein",

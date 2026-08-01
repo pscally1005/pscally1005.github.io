@@ -535,6 +535,8 @@ def grams(food, mass, vol):
                 m = "60"
             elif vol == "1 serving" or vol == "1/2 cup":
                 m = "120"
+            elif vol == "2/3 cup":
+                m = "160"
             elif vol == "2 serving" or vol == "1 cup":
                 m = "240"
             elif vol == "3 serving" or vol == "1 1/2 cup":

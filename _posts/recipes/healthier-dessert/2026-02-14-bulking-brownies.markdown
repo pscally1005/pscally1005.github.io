@@ -79,7 +79,6 @@ Notes:
 
 - For the sweetener, you can either use any of the following
 - INGREDIENTS(bulkbrowniessweeteners)
-
 - |
   COMPARE(
     "bulkbrownieshoney",
@@ -91,6 +90,27 @@ Notes:
     "<a href='/misc/natural-sweeteners#maple-syrup'>Maple<br>Syrup</a>",
     "<a href='/misc/natural-sweeteners#agave'>Agave</a>",
     "<a href='/recipes/sugar-free-syrup'>Sugar Free<br>Syrup</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+
+- |
+  Below is the nutrition facts comparison between <a href='#recipe'>these bulking brownies</a> (with <a href='/misc/natural-sweeteners#honey'>honey</a>) and my standard <a href='/recipes/brownies'>Classic Fudgy Brownies</a>.  As you can see, while the total number of <a href='/misc/calories'>calories</a> are similar, the <a href='/misc/calories'>calories</a> in the <a href='#recipe'>bulking brownies</a> come from much healthier, whole food sources.<br><br>
+
+  These include <a href='/misc/nuts#almonds'>almonds</a> and <a href='/misc/natural-sweeteners#honey'>honey</a>, as opposed to <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/dairy#butter'>butter</a>, and <a href='/misc/hidden-sugar'>white sugar</a>.  Additionally, the <a href='#recipe'>bulking brownies</a> have less <a href='/misc/hidden-sugar'>added sugar</a>, no <a href='/misc/grains#white-wheat'>refined carbs</a>, more <a href='/misc/fiber'>fiber</a>, more <a href='/misc/fats'>unsaturated fat</a>, and more <a href='/misc/protein'>protein</a>.
+- |
+  COMPARE(
+    "bulkbrownieshoney",
+    "brownies";
+
+    "<a href='#recipe'>Bulking<br>Brownies</a>",
+    "<a href='/recipes/brownies'>Classic<br>Brownies</a>";
 
     "Calories",
     "Protein",

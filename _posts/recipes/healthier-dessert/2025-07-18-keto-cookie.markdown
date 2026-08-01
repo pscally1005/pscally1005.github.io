@@ -87,15 +87,14 @@ Notes:
 
 - For edible cookie dough bites, replace the <a href='/misc/meat#eggs'>egg</a> with 3 tbsp (45 g) milk (<a href='/misc/dairy'>dairy</a> or dairy-free), or use a <a href='/misc/seeds#flax-seeds'>flax egg</a> (see above).  Additionally, omit the baking soda
 
-- Below is the nutrition facts comparison between these keto <a href='/cookies'>cookies</a> and my standard <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>
-
+- Below is the nutrition facts comparison between <a href='#recipe'>these keto cookies</a> and my standard <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>.  <a href='#recipe'>These keto cookies</a> are lower in <a href='/misc/calories'>calories</a> and <a href='/misc/carbs'>net carbs</a>, while having no <a href='/misc/hidden-sugar'>added sugar</a>, more <a href='/misc/fats'>healthy fats</a>, and more <a href='/misc/fiber'>fiber</a>.
 - |
   COMPARE(
     "ketocookie",
     "cookies";
 
-    "<a href='/recipes/keto-chocolate-chip-cookies'>Keto<br>Chocolate<br>Chip<br>Cookies</a>",
-    "<a href='/recipes/chocolate-chip-cookies'>Classic<br>Chocolate<br>Chip<br>Cookies</a>";
+    "<a href='#recipe'>Keto<br>Cookies</a>",
+    "<a href='/recipes/chocolate-chip-cookies'>Classic<br>Cookies</a>";
 
     "Calories",
     "Protein",
