@@ -54,7 +54,7 @@ tags:
 - eggplant rollatini
 - manicotti
 Description: |
-  I had the brilliant idea the other day - a <a href='/misc/high-protein'>high protein</a> <a href='/recipes/meatless'>vegetarian</a> lasagna using my <a href='/recipes/cottage-cheese-flatbread'>Cottage Cheese Flatbread</a> as the lasagna noodles. That in combination with the <a href='/misc/dairy#mozzarella'>cheese</a> mix makes this a <a href='/misc/high-protein'>high protein</a> <a href='/recipes/meatless'>vegetarian meal</a> or <a href='/recipes/sides'>side dish</a> that's easy to prepare and feeds four.<br><br>
+  I had the brilliant idea the other day - a <a href='/misc/high-protein'>high protein</a> <a href='/recipes/meatless'>vegetarian</a> lasagna using my <a href='/recipes/cottage-cheese-flatbread'>Cottage Cheese Flatbread</a> as the lasagna noodles. That in combination with the cheese mix makes this a <a href='/misc/high-protein'>high protein</a> <a href='/recipes/meatless'>vegetarian meal</a> or <a href='/recipes/sides'>side dish</a> that's easy to prepare and feeds four.<br><br>
 
   Compared to a standard lasagna, this version is significantly lower in <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a>, while packing <a href='/misc/protein'>protein</a> from the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> that I guarantee you won't taste.  For other healthier Italian dishes, check out my <a href='/recipes/eggplant-parm'>Hassle Free Eggplant Parm</a> and <a href='/recipes/eggplant-rollatini'>Leaner Eggplant Rollatini</a>.
 Instructions:
