@@ -309,6 +309,8 @@ def ingredients(food):
         f = "Prunes"
     elif food == "Sweet potato, without salt, flesh, baked in skin, cooked" or food == "Organic sweet potato puree by Stahlbush Island Farms, Inc." or food == "Sweet potato, mashed, canned" or food == "Sweet potato, with salt, flesh, baked in skin, cooked" or food == "sweetpotato":
         f = "Sweet potato puree"
+    elif food == "sw-pot-toast":
+        f = "Sweet potato toast"
     elif food == "butternut":
         f = "Butternut squash puree"
     elif food == "Pumpkin, without salt, canned" or food == "Pumpkin puree by Whole Foods Market, Inc." or food == "Pumpkin puree, pumpkin by Goya Foods, Inc." or food == "Organic pumpkin puree by Pacific Foods of Oregon, Inc." or food == "pumpkin-puree":
@@ -438,6 +440,8 @@ def ingredients(food):
         f = "Skim milk"
 
     # Fresh produce
+    elif food == "Blueberries, raw":
+        f = "Blueberries"
     elif food == "Radishes, raw":
         f = "Radish"
     elif food == "Broccoli raab, raw":
@@ -623,6 +627,8 @@ def ingredients(food):
         f = "Marmite"
     elif food == "Sauerkraut, solids and liquids, canned" or food == "Raw sauerkraut by Bader Publishing":
         f = "Sauerkraut"
+    elif food == "pesto":
+        f = "Creamy pesto dip"
 
     # Nuts, chocolate, dried fruit
     elif food == "Pretzels, hard, flavored":
@@ -635,8 +641,13 @@ def ingredients(food):
         f = "Almond butter"
     elif food == "pb" or food == "Peanut Butter, smooth" or food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
         f = "Natural peanut butter"
+    elif food == "protein-nutella":
+        f = "Protein nutella"
     elif food == "Tahini by BRANDLESS":
         f = "Tahini"
+    elif food == "hummus" or food == "tahini-hummus":
+        f = "Hummus"
+        # f = "Classic tahini hummus"
     elif food == "Nuts, almonds" or food == "Nuts, with salt added, dry roasted, almonds" or food == "Nuts, without salt added, dry roasted, almonds":
         f = "Almonds"
     elif food == "Chopped peanuts by Raley's" or food == "Peanuts, raw, all types" or food == "Peanuts, unsalted, roasted" or food == "Peanuts, unsalted, dry roasted" or food == "Peanuts, lightly salted, dry roasted" or food == "Peanuts, salted, dry roasted" or food == "Peanuts, without salt, dry-roasted, all types" or food == "Peanuts, dry roasted, unsalted":
