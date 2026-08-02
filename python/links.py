@@ -6339,7 +6339,15 @@ LINKS = {
         "absorbs much less liquid",
         "absorbs less liquid",
         "absorbs much less water",
-        "absorbs less water"
+        "absorbs less water",
+        "absorbs much more liquid",
+        "absorb more liquid",
+        "absorb much more water",
+        "absorb more water",
+        "absorb much less liquid",
+        "absorb less liquid",
+        "absorb much less water",
+        "absorb less water"
     ],
 
     # FOOD SECTIONS

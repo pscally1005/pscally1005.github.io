@@ -73,5 +73,5 @@ Notes:
 
 - This recipe also works as <a href='/misc/fake-healthy-foods#pancakes'>waffles</a>.  Preheat a waffle iron over medium heat with some oil.  Cook for about 3 minutes, or until lightly browned and no longer sticking.
 
-- Casein or pea protein powder will also work instead of whey.  Just increase the milk from 2 tbsp (30 g) to 1/2 cup (120 g), as both casein and pea protein absorb much more water than whey does.
+- <a href='/misc/dairy#casein'>Casein</a> or <a href='https://amzn.to/4aXnK21'>pea protein powder</a> will also work instead of <a href='/misc/dairy#whey'>whey</a>.  Just increase the <a href='/misc/dairy#almond-milk'>milk</a> from 2 tbsp (30 g) to 1/2 cup (120 g), as both <a href='/misc/dairy#casein'>casein</a> and <a href='https://amzn.to/4aXnK21'>pea protein</a> <a href='/misc/water-absorption'>absorb much more water</a> than <a href='/misc/dairy#whey'>whey</a> does.
 ---

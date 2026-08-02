@@ -61,7 +61,12 @@ tags:
 - blend
 - process
 - vic
-Description: These <a href='/misc/fruit#dates'>date</a> <a href='/brownies'>brownies</a> are my favorite healthy baked dessert I've ever made, and one you can certainly serve to a crowd without people realizing they're healthy. These <a href='/brownies'>brownies</a> are much more than just a healthy substitute for the real deal, as they lead me to almost deleting my <a href='/recipes/brownies'>classic brownie recipe</a> after tasting them.  <a href='/misc/celiac'>Gluten free</a>, <a href='/misc/hidden-sugar'>refined sugar free</a>, only sweetened with natural <a href='/misc/fruit#dates'>dates</a> and <a href='/misc/fruit#banana'>bananas</a>, and the only <a href='/misc/fats'>fat</a> is delicious <a href='/misc/nuts#almonds'>almond butter</a>.  See my <a href='/recipes/date-cookies'>Almond Flour Cookies</a> for a similar <a href='/misc/celiac'>gluten free</a> <a href='/recipes/healthier-dessert'>dessert</a> using <a href='/misc/fruit#dates'>dates</a> and <a href='/misc/nuts'>nuts</a>.  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
+Description: |
+  These <a href='/misc/fruit#dates'>date</a> <a href='/brownies'>brownies</a> are my favorite healthy baked dessert I've ever made, and one you can certainly serve to a crowd without people realizing they're healthy. These <a href='/brownies'>brownies</a> are much more than just a healthy substitute for the real deal, as they lead me to almost deleting my <a href='/recipes/brownies'>classic brownie recipe</a> after tasting them.<br><br>
+
+  <a href='/misc/celiac'>Gluten free</a>, <a href='/misc/hidden-sugar'>refined sugar free</a>, only sweetened with natural <a href='/misc/fruit#dates'>dates</a> and <a href='/misc/fruit#banana'>bananas</a>, and the only <a href='/misc/fats'>fat</a> is delicious <a href='/misc/nuts#almonds'>almond butter</a>.<br><br>
+
+  See my <a href='/recipes/date-cookies'>Almond Flour Cookies</a> for a similar <a href='/misc/celiac'>gluten free</a> <a href='/recipes/healthier-dessert'>dessert</a> using <a href='/misc/fruit#dates'>dates</a> and <a href='/misc/nuts'>nuts</a>.  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
 - Preheat the oven to 350F and line an <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the parchment paper
 
