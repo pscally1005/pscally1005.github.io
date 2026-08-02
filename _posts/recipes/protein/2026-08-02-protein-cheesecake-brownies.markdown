@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  High Protein Brownie Cheesecake Bars
-date:   2026-07-18 00:00:00 -0500
+date:   2026-08-02 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
