@@ -75,7 +75,7 @@ Notes:
 
 - Water or <a href='/misc/dairy#buttermilk'>buttermilk</a> will work in place of <a href='/misc/slow-cooker-chicken'>chicken broth</a>.
 
-- For a slightly healthier biscuit, replace the 2 2/3 cup of white flour with either whole wheat flour (320 g) or oat flour (240 g).
+- For a slightly healthier biscuit, replace the 2 2/3 cup of <a href='/misc/grains#white-wheat'>white flour</a> with either <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (320 g) or <a href='/misc/grains#oats'>oat flour</a> (240 g).
 - |
   COMPARE(
     "biscuits",
