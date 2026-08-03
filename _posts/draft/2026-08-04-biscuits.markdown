@@ -84,7 +84,7 @@ Notes:
 
     "<a href='/misc/grains#white-wheat'>White<br>Flour</a>",
     "<a href='/misc/grains#whole-wheat'>Whole<br>Wheat</a>",
-    "<a href='/misc/grains#oats'>oat<br>Flour</a>";
+    "<a href='/misc/grains#oats'>Oat<br>Flour</a>";
 
     "Calories",
     "Protein",

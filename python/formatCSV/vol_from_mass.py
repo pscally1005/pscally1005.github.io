@@ -1101,13 +1101,13 @@ def vol_from_mass(food, mass, vol):
 
     # Sweet potato toast
     elif food == "Sweet potato toast":
-        if mass == "46":
+        if mass == "35":
             v = "1 slice"
-        elif mass == "92":
+        elif mass == "70":
             v = "2 slice"
-        elif mass == "138":
+        elif mass == "105":
             v = "3 slice"
-        elif mass == "184":
+        elif mass == "140":
             v = "4 slice"
 
     # Pumpkin

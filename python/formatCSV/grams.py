@@ -1256,13 +1256,13 @@ def grams(food, mass, vol):
     # Sweet potato toast
     elif food == "Sweet potato toast":
         if vol == "1 slice" or vol == "1 serving":
-            m = "46"
+            m = "35"
         elif vol == "2 slice" or vol == "2 serving":
-            m = "92"
+            m = "70"
         elif vol == "3 slice" or vol == "3 serving":
-            m = "138"
+            m = "105"
         elif vol == "4 slice" or vol == "4 serving":
-            m = "184"
+            m = "140"
 
     # Pumpkin
     elif food == "Pumpkin" or food == "Pumpkin, raw" or food == "Sugar pumpkin":

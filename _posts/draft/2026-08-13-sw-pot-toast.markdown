@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/sweet-potato-toast
 image: /assets/Food/Finger Food/Sw Pot Toast/cover.jpg
 file: swpottoast
-servingSize: 1 slice (~46 g cooked, untopped)
+servingSize: 1 slice (~35 g cooked, untopped)
 section1:
 start2:
 section2:
@@ -72,7 +72,7 @@ Description: I just found this awesome idea the other day - sweet potato toast. 
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F.
 
-- Take a large <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut 4 large slices from the center, about 50 g each or 200 g total.  With the rest of the <a href='/misc/veggies#sweet-potato'>sweet potato</a>, you can cut them into cubes and roast them for a <a href='/recipes/sides'>side</a> with dinner.
+- Take a large <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut 4 large, thin slices from the center, about 40 g each or 160 g total.  With the rest of the <a href='/misc/veggies#sweet-potato'>sweet potato</a>, you can cut them into cubes and roast them for a <a href='/recipes/sides'>side</a> with dinner.
 - <img src='/assets/Food/Finger Food/Sw Pot Toast/uncut.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Finger Food/Sw Pot Toast/cut.jpg' alt='' class='instruction-image'>
 
