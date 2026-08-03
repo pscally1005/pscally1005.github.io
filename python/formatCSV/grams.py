@@ -1530,6 +1530,8 @@ def grams(food, mass, vol):
             m = "180"
         elif vol == "2.5 cup" or vol == "2 1/2 cup":
             m = "225"
+        elif vol == "2.67 cup" or vol == "2 2/3 cup" or vol == "2.66 cup":
+            m = "240"
         elif vol == "3 cup":
             m = "270"
 

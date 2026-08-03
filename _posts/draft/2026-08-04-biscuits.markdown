@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Small Batch o' Chicken Biscuits"
-date:   2026-07-22 00:00:00 -0500
+date:   2026-08-03 00:00:00 -0500
 categories:
 - Misc.
 - Unhealthy Recipes
@@ -22,7 +22,7 @@ vic: yes
 protein_bar: no
 beans: no
 permalink: /recipes/chicken-biscuits
-image: /assets/Misc/Unhealthy/Biscuits/cover.jpg
+image: /assets/Misc/Unhealthy/Biscuits/White/cover.jpg
 file: biscuits
 servingSize: 1 biscuit (~69 g)
 section1: Dry
@@ -60,18 +60,37 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#white-wheat'>flour</a>, baking powder, rosemary, garlic powder, onion powder, and salt.
 
 - Add in cold <a href='/misc/slow-cooker-chicken'>chicken fat</a> and cold <a href='/misc/bone-broth'>broth</a>. Mix with your hands (wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>) until you have a fully combined dough.
-- <img src='/assets/Misc/Unhealthy/Biscuits/bowl.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Biscuits/White/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide the dough into 8 equal pieces, about <b>71 g</b> each. Roll into balls, place on the <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and lightly flatten.
-- <img src='/assets/Misc/Unhealthy/Biscuits/raw1.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Biscuits/White/raw1.jpg' alt='' class='instruction-image'>
 
 - Optionally, brush the tops with <a href='/misc/olive-oil'>oil</a>, <a href='/misc/dairy#butter'>butter</a>, or <a href='/misc/slow-cooker-chicken'>chicken fat</a>. Optionally top with flaky salt, <a href='/misc/seeds#sesame-seeds'>sesame seeds</a>, or everything bagel seasoning
-- <img src='/assets/Misc/Unhealthy/Biscuits/raw2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Biscuits/White/raw2.jpg' alt='' class='instruction-image'>
 
 - Bake at 425F for about 15 minutes. They should be lightly golden brown, lightly cracked, a toothpick to the center will come out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> will be about <a href='https://amzn.to/4kmobG2'>205F</a>.
-- <img src='/assets/Misc/Unhealthy/Biscuits/baked.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Misc/Unhealthy/Biscuits/White/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- <a href='/misc/dairy#butter'>Butter</a> will work in place of <a href='/misc/slow-cooker-chicken'>chicken fat</a>
+- <a href='/misc/dairy#butter'>Butter</a> will work in place of <a href='/misc/slow-cooker-chicken'>chicken fat</a>.
 
 - Water or <a href='/misc/dairy#buttermilk'>buttermilk</a> will work in place of <a href='/misc/slow-cooker-chicken'>chicken broth</a>.
+
+- For a slightly healthier biscuit, replace the 2 2/3 cup of white flour with either whole wheat flour (320 g) or oat flour (240 g).
+- |
+  COMPARE(
+    "biscuits",
+    "biscuitsww",
+    "biscuitsoat";
+
+    "<a href='/misc/grains#white-wheat'>White<br>Flour</a>",
+    "<a href='/misc/grains#whole-wheat'>Whole<br>Wheat</a>",
+    "<a href='/misc/grains#oats'>oat<br>Flour</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
+- <img src='/assets/Misc/Unhealthy/Biscuits/WW/cover.jpg' alt='' class='instruction-image'>
 ---
