@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Chocolate Protein Donuts
-date:   2026-07-19 00:00:00 -0500
+date:   2026-08-03 00:00:00 -0500
 categories:
 - Recipes
 - Protein Powder
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
