@@ -72,18 +72,18 @@ Description: I just found this awesome idea the other day - sweet potato toast. 
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F.
 
-- Take a large <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut 4 large, thin slices from the center, about 40 g each or 160 g total.  With the rest of the <a href='/misc/veggies#sweet-potato'>sweet potato</a>, you can cut them into cubes and roast them for a <a href='/recipes/sides'>side</a> with dinner.
-- <img src='/assets/Food/Finger Food/Sw Pot Toast/uncut.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Finger Food/Sw Pot Toast/cut.jpg' alt='' class='instruction-image'>
+- Take a large <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut 3 large, thin slices from the center, about 40 g each or 160 g total.
+- <img src='/assets/Food/Finger Food/Sw Pot Toast/raw.jpg' alt='' class='instruction-image'>
 
 - Optionally <a href='https://amzn.to/3Hdg0gk'>lightly spray</a> the top with <a href='/misc/olive-oil'>oil</a>, and optionally sprinkle with flaky salt.
 
-- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 5 minutes, or until soft, tender, and lightly browned.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 10 minutes, flipping halfway, or until soft, tender, and lightly browned.
 - <img src='/assets/Food/Finger Food/Sw Pot Toast/cooked.jpg' alt='' class='instruction-image'>
 
 - Top with whatever you got!
-- <img src='/assets/Food/Finger Food/Sw Pot Toast/topped.jpg' alt='' class='instruction-image'>
 Notes:
+- With the rest of the <a href='/misc/veggies#sweet-potato'>sweet potato</a>, you can cut them into cubes and roast them for a <a href='/recipes/sides'>side</a> with dinner.
+
 - |
   Here are some great topping options (per slice):
   <ol>
