@@ -10,6 +10,10 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/put-milk-back-together-beans": [
+        '"put the milk back together" beans',
+        "put the milk back together beans"
+    ],
     "/recipes/sweet-potato-toast": [
         "sweet potato toast"
     ],
@@ -303,7 +307,8 @@ LINKS = {
         "liquid whey",
         "homemade liquid whey",
         "leftover liquid whey",
-        "leftover homemade liquid whey"
+        "leftover homemade liquid whey",
+        "homemade greek yogurt and liquid whey"
     ],
     "/recipes/vic-noats": [
         "very vic novernight noats",
@@ -9027,7 +9032,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-04")):
+            if not file.startswith(("2026-08-09")):
                 continue
 
             # exclude some files

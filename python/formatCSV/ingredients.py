@@ -19,7 +19,7 @@ def ingredients(food):
         f = "Slow Cooker Dried Beans"
     elif food == "Beans, canned, mature seeds, navy":
         f = "Navy beans, drained and rinsed"
-    elif food == "Beans, raw, mature seeds, black":
+    elif food == "Beans, raw, mature seeds, black" or food == "Beans, raw, mature seeds, red, kidney":
         f = "Dried beans"
     elif food == "Chickpeas, canned, drained and rinsed" or food == "Chickpeas (garbanzo beans, bengal gram), rinsed in tap water, drained, canned, mature seeds" or food == "Chickpeas (garbanzo beans, bengal gram), drained solids, canned, mature seeds":
         f = "Chickpeas, drained and rinsed"

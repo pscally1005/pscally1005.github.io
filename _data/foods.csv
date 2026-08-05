@@ -14,6 +14,8 @@ Aquafaba Whipped Cream,whipped-cream,1.53,245.50,0.00623,5.4,3,TRUE,TRUE,TRUE,TR
 "Chickpeas, drained and rinsed",chickpea-drained,0.86,255.00,0.00337,9.7,28,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Chickpeas, NOT drained or rinsed",chickpea-whole,0.86,439.00,0.00196,9.7,16,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Banana Bread Hummus Spread,bb-hummus,2.29,653.00,0.00351,8.2,40,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,35,/recipes/banana-bread-hummus
+Hummus,hummus-homemade-100g,1.73,427.50,0.00405,9.3,27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/hummus
+Classic tahini hummus,hummus-homemade-100g,1.73,427.50,0.00405,9.3,27,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/classic-tahini-hummus
 Chickpea flour,chickpea-flour,1.50,454.00,0.00330,9.2,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/misc/homemade-flours
 Chickpea pasta,red-lentil-pasta,3.18,224.00,0.01420,8.7,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4kdHvoC
 "Pinto beans, drained and rinsed",pinto-drained,0.86,255.00,0.00337,9.7,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -128,6 +130,7 @@ Butternut squash,butternut-squash,0.79,454.00,0.00174,9.8,75,TRUE,TRUE,TRUE,TRUE
 "Sweet Potato puree, or Pumpkin puree",sweet-potato-puree,1.47,424.50,0.00346,9.2,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/sweet-potato-puree
 Cooked sweet potato,sweet-potato-puree,2.79,"1,362.00",0.00205,9.2,88,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/sweet-potato-puree
 Sweet potato,sweet-potato,2.79,"1,362.00",0.00205,9.2,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
+Sweet potato toast,sw-pot-toast-100g,0.33,35.00,0.00943,9.2,70,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/sweet-potato-toast
 Potato,potato,2.79,"1,362.00",0.00205,7.2,85,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Plantain,plantain,0.60,454.00,0.00132,7.2,66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 "Plantain, yellow",plantain,0.60,454.00,0.00132,7.2,66,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
@@ -190,6 +193,7 @@ Red jalapenos,pepper,2.00,454.00,0.00441,9.9,32,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.
 Shredded mozzarella cheese,mozzarella,7.27,908.00,0.00801,4.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
 "Shredded mozzarella cheese, low moisture part skim",mozzarella,7.27,908.00,0.00801,4.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
 "Mozzarella cheese, fat free",mozzarella-fat-free,7.27,908.00,0.00801,7.6,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
+Paneer,paneer,5.99,227.00,0.02639,4.1,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,1.8,0,0,
 Swiss cheese,swiss-cheese,2.22,224.00,0.00991,3.0,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
 Swiss Cheese,swiss-cheese,2.22,224.00,0.00991,3.0,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
 Shredded cheddar cheese,cheddar,2.22,224.00,0.00991,3.7,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.3,0,0,
@@ -376,7 +380,7 @@ Raspberries,raspberry,3.37,168.00,0.02006,9.9,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0
 Frozen raspberries,raspberries-frozen,4.48,339.60,0.01319,9.9,25,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Cranberries,cranberry,1.96,168.00,0.01167,9.9,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Sugar free cranberry sauce,cranberry-sauce,5.23,600.00,0.00872,8.6,43,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/cranberry-sauce
-Low sugar berry jam,jam-low-sugar,3.12,364.00,0.00857,8.6,38,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,40,/recipes/berry-jam
+Low sugar berry jam,jam-low-sugar,2.13,190.00,0.01121,8.8,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,40,/recipes/berry-jam
 Fat free Italian dressing,italian-dressing,2.68,360.00,0.00744,9.0,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Italian dressing,italian-dressing,2.68,360.00,0.00744,2.3,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,2.3,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,0,https://amzn.to/4ddXZw7
@@ -473,6 +477,7 @@ Hazelnuts,hazelnuts,3.49,196.00,0.01781,9.1,15,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.
 Tahini,sesame-seeds,3.99,454.00,0.00879,9.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Nutella,classic-nutella,4.97,367.90,0.01351,2.9,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,51.4,0.0,0.0,4.0,0,15,https://amzn.to/48ZvAra
 Single Serving Quick Nutella,quick-nutella-100g,0.49,54.00,0.00907,9.1,37,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/quick-nutella
+Protein nutella,protein-nutella-100g,1.08,130.00,0.00831,9.3,19,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.9,0,15,/recipes/protein-nutella
 "Tahini, or any other nut/seed butter",sesame-seeds,3.99,454.00,0.00879,9.0,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 Cashews,cashews,9.74,764.10,0.01275,8.2,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Cashew butter,cashews,9.74,764.10,0.01275,7.6,22,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
@@ -511,6 +516,7 @@ Pork tenderloin,pork-tenderloin,3.43,454.00,0.00756,8.2,0,TRUE,FALSE,TRUE,FALSE,
 "Frozen cooked shrimp, peeled and deveined",shrimp,5.47,339.60,0.01611,7.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FBnSHY
 Salmon,salmon,13.98,908.00,0.01540,8.3,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Canned salmon,salmon-can,2.00,85.00,0.02353,8.3,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3HfjlLU
+Smoked salmon,smoked-salmon,5.00,227.00,0.02203,8.3,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4w8PbOa
 "Sardines, in water",sardine,1.07,105.00,0.01019,7.9,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4mA8XOU
 Clams,clam,2.32,182.00,0.01275,7.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FH9D4G
 Clam juice,clam-juice,1.69,227.00,0.00744,3.5,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/45aW8o9
