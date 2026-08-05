@@ -22,7 +22,7 @@ vic: no
 protein_bar: no
 beans: yes
 permalink: /recipes/put-milk-back-together-beans
-image: /assets/Food/Meme/Milk Tg/cover.jpg
+image: /assets/Food/Meme/Milk tg/cover.jpg
 file: putmilkbacktg
 servingSize: ~500 g
 section1: Yogurt & Liquid Whey
@@ -59,11 +59,11 @@ Description: |
 
   I'm using my <a href='/misc/homemade-yogurt'>liquid whey</a> to soak and cook some dried <a href='/misc/beans#navy-beans'>navy beans</a>, and adding the <a href='/misc/homemade-yogurt'>homemade yogurt</a> into some sauteed <a href='/misc/veggies#spinach-fresh'>spinach</a> with paneer to make it creamy and higher in <a href='/misc/protein'>protein</a>.<br><br>
 
-  Finally, I'm combining together the cooked <a href='/misc/beans'>beans</a>, creamy <a href='/misc/veggies#spinach-fresh'>spinach</a>,  a can of <a href='/misc/veggies#tomato'>crushed tomatoes</a> to make some sort of odd hybrid between Saag Paneer and <a href='/recipes/chili'>chili</a>.
+  Finally, I'm combining together the <a href='/recipes/slow-cooked-beans'>cooked beans</a>, creamy <a href='/misc/veggies#spinach-fresh'>spinach</a>, and a can of <a href='/misc/veggies#tomato'>crushed tomatoes</a> to make some sort of odd hybrid between Saag Paneer and <a href='/recipes/chili'>chili</a>.
 Instructions:
 - |
   <i>7 am Saturday</i><br>
-  Check out my guide for <a href='/misc/homemade-yogurt'>homemade Greek yogurt and liquid whey</a>.  You will end up with a variable amount of <a href='/misc/homemade-yogurt'>homemade yogurt</a> (~600 - 1,100 g) and <a href='/misc/homemade-yogurt'>liquid whey</a> (800 - 1,300 g) depending on the heat in your <a href='https://amzn.to/49TUS9E'>slow cooker</a>.<br><br>
+  Check out my guide for <a href='/misc/homemade-yogurt'>homemade Greek yogurt and liquid whey</a>.  You will end up with a variable amount of <a href='/misc/homemade-yogurt'>homemade yogurt</a> (~ 600 - 1,100 g) and <a href='/misc/homemade-yogurt'>liquid whey</a> (~ 800 - 1,300 g) depending on the heat in your <a href='https://amzn.to/49TUS9E'>slow cooker</a>.<br><br>
 
   Add salt to the <a href='/misc/dairy#yogurt'>yogurt</a>, and set aside.
 
@@ -75,7 +75,7 @@ Instructions:
   <i>3 pm Sunday</i><br>
   Transfer <a href='/misc/beans'>beans</a> and their soaking liquid to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>.  Cover and cook on low for 8 hours, or until the <a href='/misc/beans'>beans</a> are tender and most of the water has been absorbed.<br><br>
 
-  Cut your paneer into small cubes, and add to a <a href='https://amzn.to/4rdR0HI'>large non-stick pan</a> over medium heat with <a href='/misc/veggies#spinach-fresh'>frozen spinach</a>.  Cover and cook for about 10 minutes, or until the <a href='/misc/veggies#spinach-fresh'>spinach</a> is lightly browned and slightly sticking to the pan.  Season with <a href='/misc/veggies#garlic'>minced garlic</a>, chili powder, cumin, <a href='/misc/potassium'>potassium</a>, and black pepper.  Add in all your <a href='/misc/dairy#yogurt'>yogurt</a>, and mix until fully combined.  Transfer to a <a href='https://amzn.to/3Ffts2R'>glass container</a>, and store in the fridge.
+  Cut your paneer into small cubes, and add to a <a href='https://amzn.to/4rdR0HI'>large non-stick pan</a> over medium heat with <a href='/misc/veggies#spinach-fresh'>frozen spinach</a>.  Cover and cook for about 10 minutes, or until the <a href='/misc/veggies#spinach-fresh'>spinach</a> is lightly browned and slightly sticking to the pan.  Season with <a href='/misc/veggies#garlic'>minced garlic</a>, chili powder, cumin, <a href='/misc/potassium'>potassium</a>, and black pepper.  Add in all your <a href='/misc/dairy#yogurt'>yogurt</a>, and mix until fully combined.  Transfer to a <a href='https://amzn.to/4hcIXsT'>large glass container</a>, and store in the fridge.
 
 - |
   <i>11 pm Sunday</i><br>
@@ -86,7 +86,7 @@ Instructions:
   Remove from the heat, and finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>.  Evenly divide into 8 servings, about <b>500 g</b> each.
 - <img src='/assets/Food/Meme/Milk tg/pot.jpg' alt='' class='instruction-image'>
 Notes:
-- Since I put salt in both the yogurt and the brine for the <a href='/misc/beans'>beans</a>, I've opted for <a href='/misc/potassium'>potassium chloride</a> (aka Nu-Salt or <a href='/misc/sodium'>sodium</a>-free salt) since there was already quite a lot of salt in this dish.
+- Since I put salt in both the yogurt and the brine for the <a href='/misc/beans'>beans</a>, I've opted for <a href='/misc/potassium'>potassium chloride</a> (aka Nu-Salt or <a href='/misc/sodium'>sodium</a>-free salt) in the <a href='/misc/veggies#spinach-fresh'>spinach</a>, since there was already quite a lot of salt in this dish.
 
 - I've used <a href='/misc/dairy#skim-milk'>skim milk</a> to make my <a href='/misc/homemade-yogurt'>homemade yogurt & liquid whey</a>, but you can also use <a href='/misc/dairy#whole-milk'>whole milk</a>.
 - |
@@ -95,7 +95,7 @@ Notes:
     "putmilkbacktgwhole";
 
     "<a href='/misc/dairy#skim-milk'>Skim</a>",
-    "<a href='/milk/dairy#whole-milk'>Whole</a>";
+    "<a href='/misc/dairy#whole-milk'>Whole</a>";
 
     "Calories",
     "Protein",

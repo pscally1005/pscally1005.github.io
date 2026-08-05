@@ -23,7 +23,7 @@ beans: no
 permalink: /recipes/oatmeal-fudge-bars
 image: /assets/Food/Healthier Dessert/Oatmeal Fudge/of-cover.jpg
 file: oatmealfudge
-servingSize: 1 bar
+servingSize: 1 bar (~49 g)
 section1: Base
 start2: Natural peanut butter
 section2: Fudge

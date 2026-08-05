@@ -4419,6 +4419,10 @@ LINKS = {
         "egg",
         "eggs"
     ],
+    "/misc/cooking-eggs#fried": [
+        "fried eggs",
+        "fried egg"
+    ],
     "/misc/meat#egg-whites": [
         "liquid egg whites",
         "liquid egg white",
@@ -5443,6 +5447,19 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/40gmjGE": [
+        "everything bagel seasoning",
+        "everything bagel seasoning mix",
+        "everything bagel seasoning blend",
+        "everything bagel seasoning spice",
+        "everything bagel spice",
+        "everything bagel spice mix",
+        "everything bagel spice blend",
+        "everything bagel spice seasoning",
+        "everything bagel spice seasoning mix",
+        "everything bagel spice seasoning blend"
+        "everything seasoning"
+    ],
     'https://amzn.to/4pw27vM': [
         "yeast extract spread",
         "yeast extract",
@@ -5702,6 +5719,12 @@ LINKS = {
         "glass meal prep container",
         "meal prep containers",
         "meal prep container"
+    ],
+    "https://amzn.to/4hcIXsT": [
+        "large glass container",
+        "large glass containers",
+        "large glass meal prep container",
+        "large glass meal prep containers"
     ],
     "https://amzn.to/3O5nlSH": [
         "pizza wheel",
