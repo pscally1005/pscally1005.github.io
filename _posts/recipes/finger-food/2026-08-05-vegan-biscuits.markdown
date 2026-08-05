@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Cauliflower Biscuits (Vegan, GF)"
-date:   2026-07-29 00:00:00 -0500
+date:   2026-08-05 00:00:00 -0500
 categories:
 - Recipes
 - Finger Foods
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
