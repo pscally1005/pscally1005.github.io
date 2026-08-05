@@ -55,36 +55,40 @@ tags:
 - saag
 - crushed tomatoes
 Description: |
-  So, you just finished making your own homemade Greek yogurt and liquid whey, but you don't know what to do with it.  Well what if you just...put it back together again?<br><br>
+  So, you just finished making your own <a href='/misc/homemade-yogurt'>homemade Greek yogurt and liquid whey</a>, but you don't know what to do with it.  Well what if you just...put it back together again?<br><br>
 
-  I'm using my liquid whey to soak and cook some dried navy beans, and adding the homemade yogurt into some sauteed spinach with paneer to make it creamy and higher in protein.  Finally, I'm combining together the cooked beans, creamy spinach, and tomato paste to make some sort of odd hybrid between Saag Paneer and chili.
+  I'm using my <a href='/misc/homemade-yogurt'>liquid whey</a> to soak and cook some dried <a href='/misc/beans#navy-beans'>navy beans</a>, and adding the <a href='/misc/homemade-yogurt'>homemade yogurt</a> into some sauteed <a href='/misc/veggies#spinach-fresh'>spinach</a> with paneer to make it creamy and higher in <a href='/misc/protein'>protein</a>.<br><br>
+
+  Finally, I'm combining together the cooked <a href='/misc/beans'>beans</a>, creamy <a href='/misc/veggies#spinach-fresh'>spinach</a>,  a can of <a href='/misc/veggies#tomato'>crushed tomatoes</a> to make some sort of odd hybrid between Saag Paneer and <a href='/recipes/chili'>chili</a>.
 Instructions:
 - |
   <i>7 am Saturday</i><br>
-  Check out my guide for homemade greek yogurt and liquid whey.  You will end up with a variable amount of homemade yogurt (~600 - 1,100 g) and liquid whey (800 - 1,300 g) depending on the heat in your slowcooker.<br><br>
+  Check out my guide for <a href='/misc/homemade-yogurt'>homemade Greek yogurt and liquid whey</a>.  You will end up with a variable amount of <a href='/misc/homemade-yogurt'>homemade yogurt</a> (~600 - 1,100 g) and <a href='/misc/homemade-yogurt'>liquid whey</a> (800 - 1,300 g) depending on the heat in your <a href='https://amzn.to/49TUS9E'>slow cooker</a>.<br><br>
 
-  Add salt to the yogurt, and set aside.
+  Add salt to the <a href='/misc/dairy#yogurt'>yogurt</a>, and set aside.
 
 - |
   <i>7 am Sunday</i><br>
-  Add dried beans and salt to a large bowl with 5 cups (1,200 g) of liquid.  Use all the liquid whey you have, and supplement the rest with water.  Cover, and refrigerate for 8 hours so the beans can soak.
+  Add <a href='/misc/beans'>dried beans</a> and salt to a <a href='https://amzn.to/4adxMft'>large bowl</a> with 5 cups (1,200 g) of liquid.  Use all the <a href='/misc/homemade-yogurt'>liquid whey</a> you have, and supplement the rest with water.  Cover, and refrigerate for 8 hours so the <a href='/misc/beans'>beans</a> can soak.
 
 - |
   <i>3 pm Sunday</i><br>
-  Transfer beans and their soaking liquid to a large slow cooker.  Cover and cook on low for 8 hours, or until the beans are tender and most of the water has been absorbed.<br><br>
+  Transfer <a href='/misc/beans'>beans</a> and their soaking liquid to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>.  Cover and cook on low for 8 hours, or until the <a href='/misc/beans'>beans</a> are tender and most of the water has been absorbed.<br><br>
 
-  Cut your paneer into small cubes, and add to a large pan over medium heat with frozen spinach.  Cover and cook for about 10 minutes, or until the spinach is lightly browned and slightly sticking to the pan.  Season with minced garlic, chili powder, cumin, potassium, and black pepper.  Add in all your yogurt, and mix until fully combined.  Transfer to a glass container, and store in the fridge.
+  Cut your paneer into small cubes, and add to a <a href='https://amzn.to/4rdR0HI'>large non-stick pan</a> over medium heat with <a href='/misc/veggies#spinach-fresh'>frozen spinach</a>.  Cover and cook for about 10 minutes, or until the <a href='/misc/veggies#spinach-fresh'>spinach</a> is lightly browned and slightly sticking to the pan.  Season with <a href='/misc/veggies#garlic'>minced garlic</a>, chili powder, cumin, <a href='/misc/potassium'>potassium</a>, and black pepper.  Add in all your <a href='/misc/dairy#yogurt'>yogurt</a>, and mix until fully combined.  Transfer to a <a href='https://amzn.to/3Ffts2R'>glass container</a>, and store in the fridge.
 
 - |
   <i>11 pm Sunday</i><br>
-  When the beans are done cooking, add in your cooked spinach mixture along with crushed tomatoes.  Cover and cook on low overnight, about 8 hours.
+  When the <a href='/misc/beans'>beans</a> are done cooking, add in your cooked <a href='/misc/veggies#spinach-fresh'>spinach</a> mixture along with <a href='/misc/veggies#tomato'>crushed tomatoes</a>.  Cover and cook on low overnight, about 8 hours.
 
 - |
   <i>7 am Monday</i><br>
-  Remove from the heat, and finish with lemon juice.  Evenly divide into 8 servings, about <b>500 g</b> each.
+  Remove from the heat, and finish with <a href='/misc/fruit#lemon-juice'>lemon juice</a>.  Evenly divide into 8 servings, about <b>500 g</b> each.
 - <img src='/assets/Food/Meme/Milk tg/pot.jpg' alt='' class='instruction-image'>
 Notes:
-- I've used skim milk to make my yogurt & liquid whey, but you can also use whole milk.
+- Since I put salt in both the yogurt and the brine for the <a href='/misc/beans'>beans</a>, I've opted for <a href='/misc/potassium'>potassium chloride</a> (aka Nu-Salt or <a href='/misc/sodium'>sodium</a>-free salt) since there was already quite a lot of salt in this dish.
+
+- I've used <a href='/misc/dairy#skim-milk'>skim milk</a> to make my <a href='/misc/homemade-yogurt'>homemade yogurt & liquid whey</a>, but you can also use <a href='/misc/dairy#whole-milk'>whole milk</a>.
 - |
   COMPARE(
     "putmilkbacktg",

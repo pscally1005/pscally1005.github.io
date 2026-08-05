@@ -308,7 +308,13 @@ LINKS = {
         "homemade liquid whey",
         "leftover liquid whey",
         "leftover homemade liquid whey",
-        "homemade greek yogurt and liquid whey"
+        "homemade greek yogurt and liquid whey",
+        "homemade yogurt and liquid whey",
+        "homemade yogurt & liquid whey",
+        "homemade yogurt & whey",
+        "homemade greek yogurt & whey",
+        "homemade greek yogurt and liquid whey",
+        "homemade whey & yogurt"
     ],
     "/recipes/vic-noats": [
         "very vic novernight noats",
