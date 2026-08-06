@@ -88,6 +88,8 @@ Instructions:
 Notes:
 - Since I put salt in both the yogurt and the brine for the <a href='/misc/beans'>beans</a>, I've opted for <a href='/misc/potassium'>potassium chloride</a> (aka Nu-Salt or <a href='/misc/sodium'>sodium</a>-free salt) in the <a href='/misc/veggies#spinach-fresh'>spinach</a>, since there was already quite a lot of salt in this dish.
 
+- Each serving has the lactose equivalent of a cup of <a href='/misc/dairy#skim-milk'>milk</a> and an ounce of <a href='/misc/dairy#mozzarella'>cheese</a>.  Despite not being "<a href='/misc/dairy#cream-cheese'>creamy</a>" or "<a href='/misc/dairy#cheddar'>cheesy</a>", each serving of this meal has over 3x the lactose content of my very cheesy <a href='/recipes/cubano-casserole'>Leaner Cubano Casserole</a>.  This dish is not for the lactose intolerant.
+
 - I've used <a href='/misc/dairy#skim-milk'>skim milk</a> to make my <a href='/misc/homemade-yogurt'>homemade yogurt & liquid whey</a>, but you can also use <a href='/misc/dairy#whole-milk'>whole milk</a>.
 - |
   COMPARE(
