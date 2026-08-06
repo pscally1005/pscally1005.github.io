@@ -75,7 +75,7 @@ Notes:
 - |
   These are the products in question, the Walden Farms <a href='https://amzn.to/4ggGWuF'>zero calorie peanut spread</a> and <a href='https://amzn.to/45Oxbha'>zero calorie chocolate syrup</a>.  On their own, the <a href='https://amzn.to/4ggGWuF'>peanut spread</a> is quite bad, having a weird texture and chemical taste.  The <a href='https://amzn.to/45Oxbha'>chocolate syrup</a> is actually decent, but definitely tastes fake.  I way prefer my own <a href='/recipes/sugar-free-chocolate-syrup'>Sugar Free Chocolate Syrup</a>.<br><br>
 
-  Baked together into a <a href='/brownies'>brownie</a>, the taste is actually decent.  What is awful though is their texture.  Picture a brownie flavored gummy candy, and you'll somewhat understand what I mean when I say that the texture of these "<a href='/brownies'>brownie</a>" were terrible.<br><br>
+  Baked together into a <a href='/brownies'>brownie</a>, the taste is actually decent.  What is awful though is their texture.  Picture a brownie flavored gummy candy, and you'll somewhat understand what I mean when I say that the texture of these "<a href='/brownies'>brownies</a>" were terrible.<br><br>
 
   I definitely wouldn't recommend you make these.  I only made them as a joke and to <a href='/misc/experiments'>experiment</a>, hoping it would turn out well.  But these were quite bad.  Into some <a href='/misc/dairy#yogurt'>Greek yogurt</a> for the next few days these go, can't be wasting the $10 I spent on this junk.
 - <img src='/assets/Food/Meme/Artificial/bottles.jpg' alt='' class='instruction-image'>

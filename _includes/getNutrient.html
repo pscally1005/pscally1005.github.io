@@ -445,6 +445,11 @@
     {% assign insolubleFiber = insolubleFiber | divided_by: servings %}
     {% assign lactose = lactose | divided_by: servings %}
 
+    <!-- Ice cream has no lactose -->
+    {% if page.title == "Lactose Free No Churn Chocolate Ice Cream" %}
+        {% assign lactose = "0.0" %}
+    {% endif %}
+
     <!-- Calc net carbs -->
     {% assign netCarb = totalCarb | minus: totalFib | minus: sugAlc | minus: all %}
     {% if netCarb < 0 %}
