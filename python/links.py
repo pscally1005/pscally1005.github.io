@@ -12,9 +12,10 @@ LINKS = {
     # RECIPES
     "/recipes/protein-crumbles": [
         "vegan protein crumbles",
-        "vegan protein crumble"
+        "vegan protein crumble",
+        "protein dressing"
     ],
-    "/recipes/artificial brownies": [
+    "/recipes/artificial-brownies": [
         "artificial brownies",
         "artificial brownie"
     ],
@@ -9080,7 +9081,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-16")):
+            if not file.startswith(("2026-08-15")):
                 continue
 
             # exclude some files

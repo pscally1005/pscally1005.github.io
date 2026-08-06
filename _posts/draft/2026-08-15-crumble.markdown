@@ -49,14 +49,14 @@ tags:
 - pea protein isolate
 - veggie better than bouillon
 - protein crumble
-Description: If you need a protein source for dinner, and you only have 5 minutes, why not whip up these quick Vegan Protein Crumbles.  With just pea protein powder, veggie better than bouillon, and water, you can easily make a dough that you can crumble on top of any of your salads or bowls for a quick protein fix.
+Description: If you need a <a href='/misc/protein'>protein</a> source for dinner, and you only have 5 minutes, why not whip up these quick Vegan Protein Crumbles.  With just <a href='https://amzn.to/4aXnK21'>pea protein powder</a>, <a href='https://amzn.to/3TbDFnv'>veggie better than bouillon</a>, and water, you can easily make a dough that you can crumble on top of any of your <a href='/salad'>salads</a> or bowls for a quick <a href='/misc/protein'>protein</a> fix.
 Instructions:
-- Add ingredients to a small bowl. Wearing a kitchen glove to prevent sticking, mix together with your hand to form a dough.
+- Add ingredients to a <a href='https://amzn.to/4adxMft'>small bowl</a>. Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a> to prevent sticking, mix together with your hand to form a dough.
 - <img src='/assets/Food/Finger Food/Protein Crumble/bowl.jpg' alt='' class='instruction-image'>
 
 - Crumble over whatever you like.
 - <img src='/assets/Food/Finger Food/Protein Crumble/cover1.jpg' alt='' class='instruction-image'>
 Notes:
-- You can also make this into a "protein dressing" by doubling the water to 1/2 cup (120 g).  Instead of a dough consistency, you'll end up with a "sauce" or "dressing" that you can drizze over your salads and bowls.
+- You can also make this into a "protein dressing" by doubling the water to 1/2 cup (120 g).  Instead of a dough consistency, you'll end up with a "<a href='/recipes/savory-sauces'>sauce</a>" or "<a href='/salad-dressings'>dressing</a>" that you can drizze over your <a href='/salad'>salads</a> and bowls for extra <a href='/misc/protein'>protein</a>.
 - <img src='/assets/Food/Finger Food/Protein Crumble/dressing.jpg' alt='' class='instruction-image'>
 ---

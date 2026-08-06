@@ -54,13 +54,13 @@ tags:
 - cocoa powder
 - psyllium husk
 Description: |
-  Most of my recipes are healthy creations featuring real, minimal, whole food ingredients.  Here is the exact opposite:<b></b> the most artificial brownie I can possibly make.  It uses a Walden farms brand peanut butter and chocolate syrup, both of which are 0 calories.  I've added some psyllium husk to give it some structure, as well as cocoa powder for additional flavor.<br><br>
+  Most of my recipes are healthy creations featuring real, minimal, whole food ingredients.  Here is the exact opposite:<b></b> the most artificial brownie I can possibly make.  It uses a Walden farms brand <a href='https://amzn.to/4ggGWuF'>peanut butter</a> and <a href='https://amzn.to/45Oxbha'>chocolate syrup</a>, both of which are <a href='/misc/calories'>0 calories</a>.  I've added some <a href='/misc/psyllium-husk'>psyllium husk</a> to give it some structure, as well as <a href='/misc/chocolate-benefits'>cocoa powder</a> for additional flavor.<br><br>
 
-  The <i>entire pan</i> has only 220 calories, or 25 calories for each of the 9 bars.  Please don't eat the entire pan; I imagine you'll become quite familiar with your bathroom real quick if you do.
+  The <i>entire pan</i> has only 220 <a href='/misc/calories'>calories</a>, or 25 <a href='/misc/calories'>calories</a> for each of the 9 <a href='/brownies'>brownies</a>.  Please don't eat the entire pan; I imagine you'll become quite familiar with your bathroom real quick if you do.
 Instructions:
-- Preheat your oven to 350F. Line a 9" square baking dish with parchment paper, and lightly grease with oil.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
 
-- In a large bowl, combine all ingredients together with an electric hand mixer.
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine all ingredients together with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>.
 - <img src='/assets/Food/Meme/Artificial/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to your prepared pan.
@@ -72,6 +72,6 @@ Instructions:
 - Transfer the pan to the fridge. Chill for at least 4 hours before slicing.
 - <img src='/assets/Food/Meme/Artificial/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- These are the products in question, the Walden Farms zero calorie peanut spread and zero calorie chocolate syrup.  On their own, the peanut spread is quite bad, and the chocolate syrup is actually decent.  Baked together into a brownie, as much as I hate to admit it, is actually quiet decent, like a diet brownie and chocolate cheesecake combined.
+- These are the products in question, the Walden Farms <a href='https://amzn.to/4ggGWuF'>zero calorie peanut spread</a> and <a href='https://amzn.to/45Oxbha'>zero calorie chocolate syrup</a>.  On their own, the <a href='https://amzn.to/4ggGWuF'>peanut spread</a> is quite bad, and the <a href='https://amzn.to/45Oxbha'>chocolate syrup</a> is actually decent.  Baked together into a <a href='/brownies'>brownie</a>, as much as I hate to admit it, is actually quiet good, like a diet <a href='/brownies'>brownie</a> and <a href='/recipes/vegan-chocolate-cheesecake'>chocolate cheesecake</a> combined.
 - <img src='/assets/Food/Meme/Artificial/bottles.jpg' alt='' class='instruction-image'>
 ---
