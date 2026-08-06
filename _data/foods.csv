@@ -297,6 +297,7 @@ Simple syrup,simple-syrup,4.09,"4,540.00",0.00090,1.0,68,TRUE,TRUE,TRUE,TRUE,TRU
 "Sugar free chocolate syrup, storebought",sf-choc-syrup-store-100g,6.29,495.25,0.01270,4.2,44,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,13.3,0.0,0.0,0,40,
 "Sugar free chocolate syrup, homemade",sf-choc-syrup-100g,3.45,340.00,0.01015,0.0,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,59.0,0.0,0,40,/recipes/sugar-free-chocolate-syrup
 Sugar free chocolate syrup,sf-choc-syrup-100g,3.45,340.00,0.01015,0.0,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,59.0,0.0,0,40,/recipes/sugar-free-chocolate-syrup
+Walden Farms Chocolate Syrup,wf-choc-syrup,4.49,340.00,0.01321,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,3.3,0.0,0.0,0,40,https://amzn.to/45Oxbha
 Granulated sugar,sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
 "Granular sweetener: sugar, erythritol, stevia, etc.",sugar,8.17,"4,540.00",0.00180,1.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,100.0,0.0,0.0,0.0,0,40,
 Granulated stevia,granulated-monk-fruit,6.12,271.60,0.02253,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43wL0zp
@@ -449,6 +450,7 @@ Peanut Chili Salad Dressing,pb-dressing-100g,0.87,87.50,0.00994,5.5,31,FALSE,TRU
 Skippy peanut butter,skippy,6.27,"1,132.00",0.00554,6.7,14,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6.3,0.0,0.0,0.0,0,15,
 Natural peanut butter,peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
 "Natural peanut butter, or tahini",peanuts,2.48,454.00,0.00546,8.1,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,/recipes/natural-peanut-butter
+Walden Farms Peanut Spread,wf-peanut,4.49,340.00,0.01321,5.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,3.3,0.0,0.0,0,15,https://amzn.to/4ggGWuF
 Peanuts,peanuts,2.48,454.00,0.00546,9.3,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 "Nuts, chopped",peanuts,2.48,454.00,0.00546,9.6,14,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Almonds,almonds,3.99,454.00,0.00879,9.6,10,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
@@ -544,6 +546,6 @@ Low sodium vegetable broth,veggie-broth,1.79,960.00,0.00186,0.0,39,TRUE,TRUE,TRU
 Vegetable broth,veggie-broth,1.79,960.00,0.00186,0.0,39,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,
 Chicken bone broth,bone-broth,1.37,905.60,0.00151,0.0,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
 Broth,bone-broth,1.37,905.60,0.00151,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/misc/slow-cooker-chicken
-Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,0.0,14,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3QlrH9q
+Better Than Bouillon,better-than-bouillon,4.82,226.40,0.02129,0.0,14,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,21.0,0.0,0.0,0.0,0,0,https://amzn.to/3TbDFnv
 "Quest Protein Cookie, storebought",store-quest-cookie-100g,24.99,708.00,0.03530,4.0,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,13.6,0.0,0.0,0,100,https://amzn.to/3YppdYq
 "Quest Protein Cookie, homemade",homemade-quest-cookie-100g,1.20,80.00,0.01500,7.6,4,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,11.3,0.0,0.0,0,100,/recipes/copycat-quest-cookie

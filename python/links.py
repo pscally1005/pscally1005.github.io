@@ -10,6 +10,14 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/protein-crumbles": [
+        "vegan protein crumbles",
+        "vegan protein crumble"
+    ],
+    "/recipes/artificial brownies": [
+        "artificial brownies",
+        "artificial brownie"
+    ],
     "/recipes/put-milk-back-together-beans": [
         '"put the milk back together" beans',
         "put the milk back together beans"
@@ -5447,6 +5455,17 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/45Oxbha": [
+        "walden farms chocolate syrup",
+        "zero calorie chocolate syrup"
+    ],
+    "https://amzn.to/4ggGWuF": [
+        "walden farms peanut butter",
+        "walden farms peanut butter spread",
+        "walden farms peanut spread",
+        "walden farms whipped peanut spread",
+        "zero calorie peanut spread"
+    ],
     "https://amzn.to/40gmjGE": [
         "everything bagel seasoning",
         "everything bagel seasoning mix",
@@ -9061,7 +9080,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-09")):
+            if not file.startswith(("2026-08-16")):
                 continue
 
             # exclude some files
