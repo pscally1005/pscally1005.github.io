@@ -5,7 +5,7 @@ date:   2026-08-06 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
+- Delete
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/artificial-brownies
 image: /assets/Food/Meme/Artificial/cover.jpg
 file: artificial
-servingSize: 1 brownie (~TODO g)
+servingSize: 1 brownie (~70 g)
 section1:
 start2:
 section2:
@@ -72,6 +72,11 @@ Instructions:
 - Transfer the pan to the fridge. Chill for at least 4 hours before slicing.
 - <img src='/assets/Food/Meme/Artificial/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- These are the products in question, the Walden Farms <a href='https://amzn.to/4ggGWuF'>zero calorie peanut spread</a> and <a href='https://amzn.to/45Oxbha'>zero calorie chocolate syrup</a>.  On their own, the <a href='https://amzn.to/4ggGWuF'>peanut spread</a> is quite bad, and the <a href='https://amzn.to/45Oxbha'>chocolate syrup</a> is actually decent.  Baked together into a <a href='/brownies'>brownie</a>, as much as I hate to admit it, is actually quiet good, like a diet <a href='/brownies'>brownie</a> and <a href='/recipes/vegan-chocolate-cheesecake'>chocolate cheesecake</a> combined.
+- |
+  These are the products in question, the Walden Farms <a href='https://amzn.to/4ggGWuF'>zero calorie peanut spread</a> and <a href='https://amzn.to/45Oxbha'>zero calorie chocolate syrup</a>.  On their own, the <a href='https://amzn.to/4ggGWuF'>peanut spread</a> is quite bad, having a weird texture and chemical taste.  The <a href='https://amzn.to/45Oxbha'>chocolate syrup</a> is actually decent, but definitely tastes fake.  I way prefer my own <a href='/recipes/sugar-free-chocolate-syrup'>Sugar Free Chocolate Syrup</a>.<br><br>
+
+  Baked together into a <a href='/brownies'>brownie</a>, the taste is actually decent.  What is awful though is their texture.  Picture a brownie flavored gummy candy, and you'll somewhat understand what I mean when I say that the texture of these "<a href='/brownies'>brownie</a>" were terrible.<br><br>
+
+  I definitely wouldn't recommend you make these.  I only made them as a joke and to <a href='/misc/experiments'>experiment</a>, hoping it would turn out well.  But these were quite bad.  Into some <a href='/misc/dairy#yogurt'>Greek yogurt</a> for the next few days these go, can't be wasting the $10 I spent on this junk.
 - <img src='/assets/Food/Meme/Artificial/bottles.jpg' alt='' class='instruction-image'>
 ---
