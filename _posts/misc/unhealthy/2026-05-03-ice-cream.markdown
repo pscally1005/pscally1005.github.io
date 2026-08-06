@@ -118,7 +118,7 @@ Notes:
   )
 
 - |
-  The <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> adds about 40 <a href='/misc/calories'>calories</a> per serving of ice cream.  You can omit this to save some <a href='/misc/calories'>calories</a> if you don't need it lactose-free.<br><br>
+  The <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> adds about 40 <a href='/misc/calories'>calories</a> per serving of ice cream.  You can omit this to save some <a href='/misc/calories'>calories</a> if you don't need it lactose free.<br><br>
 
   Each serving will then be 77 g instead of 87 g (or 71 g instead of 81 g for the <a href='/misc/natural-sweeteners#honey'>honey</a> variation).
 
