@@ -932,7 +932,7 @@ def vol_from_mass(food, mass, vol):
             v = "1/3 scoop"
         elif mass == "15":
             v = "1/2 scoop"
-        elif mass == "20":
+        elif mass == "20" or mass == "21":
             v = "2/3 scoop"
         elif mass == "30":
             v = "1 scoop"

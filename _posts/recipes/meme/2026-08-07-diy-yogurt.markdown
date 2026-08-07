@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  DIY Yogurt
-date:   2026-05-21 00:00:00 -0500
+date:   2026-08-07 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -54,21 +53,27 @@ tags:
 - psyllium husk
 Description: If you need <a href='/misc/dairy#yogurt'>yogurt</a>, and you need it, like, <i>right now</i>, then here a dumb substitution for you.  I've attempted to quickly "reverse engineer" <a href='/misc/dairy#yogurt'>plain nonfat greek yogurt</a>.  The result is a product as similar to <a href='/misc/dairy#yogurt'>greek yogurt</a> as you can reasonably get in 5 minutes.  It has the exact same nutrition facts, as shown in the table below, as well as a similar tangy and mildly sweet flavor.
 Instructions:
-- Mix together all ingredients in a bowl.  Let sit for 5 minutes so the <a href='/misc/psyllium-husk'>psyllium</a> can thicken the mixture to a <a href='/misc/dairy#yogurt'>yogurt</a> consistency
+- Mix together all ingredients in a bowl.  Let sit for 5 minutes so the <a href='/misc/psyllium-husk'>psyllium</a> can thicken the mixture to a <a href='/misc/dairy#yogurt'>yogurt</a> consistency.
 Notes:
-- Below is a nutritional comparison of the homemade (<a href='#recipe'>DIY</a>) and standard <a href='/misc/dairy#yogurt'>yogurt</a> (<a href='/misc/dairy#yogurt'>OG</a>)
+- To make it <a href='/misc/dairy'>dairy-free</a> and vegan, replace the <a href='/misc/dairy#casein'>casein protein powder</a> with <a href='https://amzn.to/4aXnK21'>pea protein</a> (2/3 scoop, 21 g).
+
+- Below is a nutritional comparison of the <a href='#recipe'>homemade DIY yogurt</a> (both with <a href='/misc/dairy#casein'>casein</a> and <a href='https://amzn.to/4aXnK21'>pea protein</a>) and standard <a href='/misc/dairy#yogurt'>yogurt</a>.
 - |
   COMPARE(
     "diyyogurt",
+    "diyyogurtpea",
     "plain-nonfat-greek-yogurt";
 
-    "<a href='#recipe'>DIY</a>",
-    "<a href='/misc/dairy#yogurt'>OG</a>";
+    "<a href='#recipe'>DIY</a><br><a href='/misc/dairy#casein'>Casein</a>",
+    "<a href='#recipe'>DIY</a><br><a href='https://amzn.to/4aXnK21'>Pea</a>",
+    "<a href='/misc/dairy#yogurt'>Standard<br>Yogurt</a>";
 
     "Calories",
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber"
+    "Fiber",
+    "Vitamin B12",
+    "Calcium";
   )
 ---
