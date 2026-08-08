@@ -10,6 +10,14 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/cannoli-dip": [
+        "cannoli dip",
+        "cannoli",
+        "high protein cannoli dip",
+        "sugar free cannoli dip",
+        "high protein sugar free cannoli dip",
+        "sugar free high protein cannoli dip"
+    ],
     "/recipes/protein-crumbles": [
         "vegan protein crumbles",
         "vegan protein crumble",
@@ -694,7 +702,11 @@ LINKS = {
         "spinach hand pies",
         "spinach hand pie",
         "spinach pies",
-        "spinach pie"
+        "spinach pie",
+        "cassatelle",
+        "cassatella",
+        "sicilian cassatelle",
+        "sicilian cassatella"
     ],
     "/recipes/almond-flour-focaccia": [
         "Almond Flour Focaccia"

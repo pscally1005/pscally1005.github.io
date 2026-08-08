@@ -37,7 +37,7 @@ Prep: 20
 Rest: 5
 Cook: 10
 Source1: https://forktospoon.com/air-fryer-protein-donuts/#recipe
-Source2:
+Source2: https://poormanprotein.com/recipes/protein-frosting
 Source3:
 Source4:
 Source5:

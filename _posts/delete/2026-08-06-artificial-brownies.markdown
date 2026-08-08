@@ -77,6 +77,8 @@ Notes:
 
   Baked together into a <a href='/brownies'>brownie</a>, the taste is actually decent.  What is awful though is their texture.  Picture a brownie flavored gummy candy, and you'll somewhat understand what I mean when I say that the texture of these "<a href='/brownies'>brownies</a>" were terrible.<br><br>
 
+  The taste and texture aren't half bad when totally frozen though.  That's their only saving grace.<br><br>
+
   I definitely wouldn't recommend you make these.  I only made them as a joke and to <a href='/misc/experiments'>experiment</a>, hoping it would turn out well.  But these were quite bad.  Into some <a href='/misc/dairy#yogurt'>Greek yogurt</a> for the next few days these go, can't be wasting the $10 I spent on this junk.
 - <img src='/assets/Food/Meme/Artificial/bottles.jpg' alt='' class='instruction-image'>
 ---
