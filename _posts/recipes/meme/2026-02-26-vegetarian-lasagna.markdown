@@ -110,24 +110,23 @@ Instructions:
 
     Remove the foil, and bake for an additional 15 minutes.<br><br>
 
-    Garnish with parsley, and let it cool for 10 minutes before cutting and serving.
+    Garnish with parsley or basil, and let it cool for 10 minutes before cutting and serving.
 - <img src='/assets/Food/Meme/Vegetarian Lasagna/cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- For an even lower <a href='/misc/calories'>calorie</a> and higher <a href='/misc/fiber'>fiber</a> variant, replace the 4 <a href='/recipes/cottage-cheese-flatbread'>Cottage Cheese Flatbreads</a> with 4 <a href='/recipes/psyllium-wrap'>High Fiber Psyllium Wraps</a>
-# - <img src='/assets/Food/Meme/Vegetarian Lasagna/psyllium-1.jpg' alt='' class='instruction-image'>
-# - <img src='/assets/Food/Meme/Vegetarian Lasagna/psyllium-2.jpg' alt='' class='instruction-image'>
-- |
-  COMPARE(
-    "proteinwraplasagna",
-    "psylliumwraplasagna";
+# - For an even lower <a href='/misc/calories'>calorie</a> and higher <a href='/misc/fiber'>fiber</a> variant, replace the 4 <a href='/recipes/cottage-cheese-flatbread'>Cottage Cheese Flatbreads</a> with 4 <a href='/recipes/psyllium-wrap'>High Fiber Psyllium Wraps</a>
+# - <img src='/assets/Food/Meme/Vegetarian Lasagna/psyllium.jpg' alt='' class='instruction-image'>
+# - |
+#   COMPARE(
+#     "proteinwraplasagna",
+#     "psylliumwraplasagna";
 
-    "<a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese<br>Flatbread</a>",
-    "<a href='/recipes/psyllium-wrap'>Psyllium<br>Wrap</a>";
+#     "<a href='/recipes/cottage-cheese-flatbread'>Cottage<br>Cheese<br>Flatbread</a>",
+#     "<a href='/recipes/psyllium-wrap'>Psyllium<br>Wrap</a>";
 
-    "Calories",
-    "Protein",
-    "Fat",
-    "Net Carbs",
-    "Fiber"
-  )
+#     "Calories",
+#     "Protein",
+#     "Fat",
+#     "Net Carbs",
+#     "Fiber"
+#   )
 ---
