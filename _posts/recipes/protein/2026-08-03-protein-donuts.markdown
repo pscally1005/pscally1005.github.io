@@ -60,7 +60,7 @@ Description: Air Fryer Protein Donuts!  Each glazed donut packs 45 g of <a href=
 Instructions:
 - Add the dry ingredients to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and whisk together - <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, baking powder, cinnamon, and salt.
 
-- Add in the liquid ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>eggs</a>, vanilla, and <a href='https://amzn.to/4mzsH5p'>allulose</a>.
+- Add in the liquid ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>eggs</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='https://amzn.to/4mzsH5p'>allulose</a>.
 - <img src='/assets/Food/Protein Powder/Donuts/bowl-donuts.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> a <a href='https://amzn.to/4wPTDC8'>silicone donut mold</a> with <a href='/misc/olive-oil'>oil</a>. Evenly divide the donut batter across the 4 molds, about <b>165 g</b> each.

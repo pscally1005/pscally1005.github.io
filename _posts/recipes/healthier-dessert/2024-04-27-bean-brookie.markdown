@@ -69,12 +69,12 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, line a <a href='https://amzn.to/4aiCsjh'>9x13" baking pan</a> with parchment paper, and lightly <a href='https://amzn.to/3Hdg0gk'>spray it with oil</a>. Drain and rinse your <a href='/misc/beans'>beans</a>
 
-- Starting with the <a href='/brownies'>brownie</a> layer, add all ingredients to the <a href='https://amzn.to/4q0AUjI'>food processor</a> - <a href='/misc/beans#black-beans'>black beans</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and vanilla
+- Starting with the <a href='/brownies'>brownie</a> layer, add all ingredients to the <a href='https://amzn.to/4q0AUjI'>food processor</a> - <a href='/misc/beans#black-beans'>black beans</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>
 
 - Transfer the brownie batter to the pan. Using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-5.jpg' alt='' class='instruction-image'>
 
-- Moving on to the <a href='/brownies'>blondie</a> layer, repeat the same steps with the <a href='/brownies'>blondie</a> ingredients - <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and vanilla
+- Moving on to the <a href='/brownies'>blondie</a> layer, repeat the same steps with the <a href='/brownies'>blondie</a> ingredients - <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/nuts#peanuts'>peanut butter</a>, baking powder, <a href='/misc/dairy#skim-milk'>milk</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>
 
 - Transfer the <a href='/brownies'>blondie</a> batter to the pan on top of the brownies. Using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, smooth out the batter. Lightly wetting your fingers and using your hands to spread it to all sides make it easier and stick less. Optionally, top with chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Bean Brookies/bean-brookies-8.jpg' alt='' class='instruction-image'>

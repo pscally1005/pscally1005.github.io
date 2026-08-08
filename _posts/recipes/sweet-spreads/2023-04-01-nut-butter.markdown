@@ -73,7 +73,7 @@ Instructions:
 - Add just the <a href='/misc/nuts'>nuts</a> into a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and process until smooth (on high). Stop every minute to scrape down the sides
 - <img src='/assets/Food/Sweet Spreads/PB/pb-2.jpg' alt='' class='instruction-image'>
 
-- Only when it is smooth, season with salt to taste.  You can also add any other flavorings, such as cinnamon, vanilla, or <a href='https://amzn.to/4khDgIM'>almond extract</a>
+- Only when it is smooth, season with salt to taste.  You can also add any other flavorings, such as cinnamon, <a href='https://amzn.to/43MkDqr'>vanilla</a>, or <a href='https://amzn.to/4khDgIM'>almond extract</a>
 
 - Blend some more to mix it up, make sure it is very very smooth. It should be runny, almost as if it was melted. Store in a <a href='https://amzn.to/4vamaBm'>mason jar</a> at room temperature
 Notes:

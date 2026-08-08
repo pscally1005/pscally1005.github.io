@@ -54,7 +54,7 @@ tags:
 - cinnamon
 Description: I've been using <a href='/misc/dairy#almond-milk'>unsweetened vanilla almond milk</a> for years, so I wanted to try making it myself, since store bought <a href='/misc/dairy#almond-milk'>plant based milks</a> tend to have a lot of extra weird ingredients. Unfortunately making <a href='/misc/dairy#almond-milk'>almond milk</a> is more expensive than just buying it, so that's where I got to <a href='/misc/grains#oats'>oat milk</a>. <a href='/misc/grains#oats'>Oats</a> are super cheap, so this is way cheaper than buying <a href='/misc/grains#oats'>oat milk</a> from the store. The process is the same though; I've tried this with <a href='/misc/grains#oats'>quick oats</a>, <a href='/misc/nuts#almonds'>almonds</a>, <a href='/misc/nuts#peanuts'>peanuts</a>, and <a href='/misc/nuts#pistachios'>pistachios</a>, all to great success.
 Instructions:
-- Add your <a href='/misc/grains#oats'>oats</a> (or <a href='/misc/nuts#almonds'>almonds</a>) and water to a high speed <a href='https://amzn.to/4bO4VQ3'>blender</a>. Add in any other flavorings you like as well, such as salt, vanilla, or cinnamon
+- Add your <a href='/misc/grains#oats'>oats</a> (or <a href='/misc/nuts#almonds'>almonds</a>) and water to a high speed <a href='https://amzn.to/4bO4VQ3'>blender</a>. Add in any other flavorings you like as well, such as salt, <a href='https://amzn.to/43MkDqr'>vanilla</a>, or cinnamon
 
 - Blend on high for 30 seconds, or until well combined. Do not over blend, or it will get slimy (this is more of an issue with <a href='/misc/grains#oats'>oat milk</a> than <a href='/misc/dairy#almond-milk'>almond milk</a>)
 

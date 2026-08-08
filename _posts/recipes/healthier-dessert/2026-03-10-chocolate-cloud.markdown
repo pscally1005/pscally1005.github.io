@@ -62,7 +62,7 @@ Instructions:
 - In a very large <a href='https://amzn.to/4rb3CiD'>metal bowl</a>, <a href='/misc/beans'>bean</a> your <a href='/misc/meat#egg-whites'>egg whites</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a> until stiff peaks form, at least 5 minutes
 - <img src='/assets/Food/Healthier Dessert/Chocolate cloud/eggs.jpg' alt='' class='instruction-image'>
 
-- Beat in the <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, vanilla, cinnamon, baking powder, and salt on low speed
+- Beat in the <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, cinnamon, baking powder, and salt on low speed
 
 - Lightly fold in the <a href='https://amzn.to/4rhYDwh'>carob powder</a> and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, trying to deflate the mixture as little as possible
 - <img src='/assets/Food/Healthier Dessert/Chocolate cloud/bowl.jpg' alt='' class='instruction-image'>

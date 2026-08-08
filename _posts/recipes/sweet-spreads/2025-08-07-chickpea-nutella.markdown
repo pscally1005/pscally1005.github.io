@@ -63,7 +63,7 @@ Description: |
 Instructions:
 - Drain and rinse your <a href='/misc/beans#chickpeas'>chickpeas</a>. <a href='https://amzn.to/3FuWETp'>Air fry</a> at 380F for about 15 minutes, or until dried and crispy. You can also roast in a 425F oven for about 30 minutes
 
-- Blend together <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and vanilla until all bits of <a href='/misc/beans#chickpeas'>chickpeas</a> and <a href='/misc/fruit#dates'>dates</a> are broken up
+- Blend together <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a> until all bits of <a href='/misc/beans#chickpeas'>chickpeas</a> and <a href='/misc/fruit#dates'>dates</a> are broken up
 
 - Add a cup of water to a medium glass and microwave for 1 minute, until hot. Blend in the water until you have a smooth spread. Transfer to a jar, and store in the fridge for up to 1 week
 - <img src='/assets/Food/Sweet Spreads/Chickpea nutella/processor.jpg' alt='' class='instruction-image'>

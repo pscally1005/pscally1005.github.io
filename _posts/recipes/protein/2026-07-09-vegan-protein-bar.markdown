@@ -63,7 +63,7 @@ Description: |
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the <a href='https://amzn.to/4aXnK21'>pea protein</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt.
 
-- Add in the the water, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and vanilla, and mix with your hand wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>.  The dough should look a little too dry, but hold together easily when pressed.
+- Add in the the water, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>, and mix with your hand wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>.  The dough should look a little too dry, but hold together easily when pressed.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/bowl.jpg' alt='' class='instruction-image'>
 
 - Firmly press the mixture into a parchment lined <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.

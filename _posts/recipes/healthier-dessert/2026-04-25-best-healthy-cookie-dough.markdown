@@ -62,7 +62,7 @@ Description: |
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, melt <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave. Add in your <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> for 2 minutes to help dissolve the sweetener
 
-- Beat in the <a href='/misc/dairy#almond-milk'>almond milk</a>, vanilla, and salt. Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the cornstarch and <a href='/misc/nuts#almonds'>almond flour</a>. Fold in the chocolate chips
+- Beat in the <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt. Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the cornstarch and <a href='/misc/nuts#almonds'>almond flour</a>. Fold in the chocolate chips
 - <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookies-bowl.jpg' alt='' class='instruction-image'>
 
 - Chill the bowl of dough in the fridge for 30 minutes

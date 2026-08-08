@@ -84,5 +84,5 @@ Notes:
 - Below is a batch I made with <a href='/recipes/berry-jam'>homemade blackberry jam</a> (left) and <a href='/misc/fruit#apple'>applesauce</a> (right)
 - <img src='/assets/Food/Finger Food/2 Ing Oat Cookie/oat-cookies-3.jpg' alt='' class='instruction-image'>
 
-- You can also add any other flavors if you like. A dash of cinnamon or vanilla would be great, or you can fold in some mix-ins like chocolate chips or <a href='/misc/nuts'>nuts</a>
+- You can also add any other flavors if you like. A dash of cinnamon or <a href='https://amzn.to/43MkDqr'>vanilla</a> would be great, or you can fold in some mix-ins like chocolate chips or <a href='/misc/nuts'>nuts</a>
 ---

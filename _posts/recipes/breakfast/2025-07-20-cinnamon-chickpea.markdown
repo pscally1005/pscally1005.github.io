@@ -58,7 +58,7 @@ Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 380F, and drain and rinse a can of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add to a bowl, and toss with cinnamon.  <a href='https://amzn.to/3FuWETp'>Air fry</a> for about 15 minutes, shaking halfway, until golden and crispy
 - <img src='/assets/Food/Breakfast/Chickpea/roasted.jpg' alt='' class='instruction-image'>
 
-- In a shaker bottle, make your protein shake - <a href='/misc/dairy#skim-milk'>milk</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and vanilla
+- In a shaker bottle, make your protein shake - <a href='/misc/dairy#skim-milk'>milk</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>
 
 - Pour <a href='/misc/dairy#skim-milk'>milk</a> over the <a href='/misc/fake-healthy-foods#cereal'>cereal</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a>.  Store leftovers in an airtight bag at <b>room temperature</b>
 - <img src='/assets/Food/Breakfast/Chickpea/no-milk.jpg' alt='' class='instruction-image'>

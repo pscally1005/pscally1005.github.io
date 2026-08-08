@@ -80,7 +80,7 @@ Instructions:
 Notes:
 - Any <a href='/recipes/natural-peanut-butter'>nut butter</a> will work.  I've gone with <a href='/misc/nuts#peanuts'>peanut</a> today because it was what I had on hand, but <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, etc. would all be good as well
 
-- Either vanilla or <a href='https://amzn.to/4khDgIM'>almond extract</a> are good options here
+- Either <a href='https://amzn.to/43MkDqr'>vanilla</a> or <a href='https://amzn.to/4khDgIM'>almond extract</a> are good options here
 
 - If you want to use <a href='/misc/dairy#whey'>whey</a> instead of <a href='/misc/dairy#casein'>casein</a>, you will need to <b>double</b> the <a href='/misc/dairy#skim-milk'>milk</a> to <b>2 cups (480 g)</b>.  This is because <a href='/misc/dairy#whey'>whey</a> tends to dry out <a href='/recipes/healthier-dessert'>baked goods</a> in the oven, so anything baked with <a href='/misc/dairy#whey'>whey</a> needs much more liquid.  The raw batter with <a href='/misc/dairy#casein'>casein</a> should look like a thick spread, whereas the raw batter with <a href='/misc/dairy#whey'>whey</a> should look like <a href='/misc/fake-healthy-foods#milk'>chocolate milk</a>.  This is normal.  Use a <a href='https://amzn.to/4q0AUjI'>food processor</a> to combine if necessary.  Bake for the same amount of time (~45 minutes) at the same temperature (350F)
 - <img src='/assets/Food/Protein Powder/Baked Protein Bars/whey-raw.jpg' alt='' class='instruction-image'>

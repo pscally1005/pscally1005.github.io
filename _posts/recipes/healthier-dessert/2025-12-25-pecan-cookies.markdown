@@ -64,7 +64,7 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a>, beat your softened <a href='/misc/dairy#cream-cheese'>cream cheese</a> until light and fluffy, about 3 minutes
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/cream-cheese.jpg' alt='' class='instruction-image'>
 
-- Add in the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, vanilla, and salt. Beat for an additional 2 minutes, until fully combined and airy
+- Add in the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt. Beat for an additional 2 minutes, until fully combined and airy
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/sweetener.jpg' alt='' class='instruction-image'>
 
 - Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the <a href='/misc/grains#oats'>oat flour</a> until fully incorporated and you have a slightly sticky dough
@@ -81,7 +81,7 @@ Instructions:
 - Store the cookies in an airtight container in the fridge for up to 1 week, or freeze indefinitely
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/cover-2.jpg' alt='' class='instruction-image'>
 Notes:
-- The step 5 combo of low fat <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, vanilla, and salt makes the best healthy <a href='/misc/dairy#cream-cheese'>cream cheese</a> frosting
+- The step 5 combo of low fat <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt makes the best healthy <a href='/misc/dairy#cream-cheese'>cream cheese</a> frosting
 
 - |
   The <a href='/assets/Food/Healthier Dessert/Pecan CC/recipe.jpg'>original recipe</a> talks about how people tend to eat lots of sweets between Halloween and New Year's, and that <a href='/recipes/healthier-dessert'>healthier desserts</a> with <a href='/misc/nuts'>nuts</a> are a great way to still have nutrition in your sweets.  Sounds great, right?<br><br>

@@ -56,7 +56,7 @@ Description: These <a href='/brownies'>brownies</a> are the perfect snack for th
 Instructions:
 - Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper, and lightly <a href='https://amzn.to/3Hdg0gk'>grease with oil</a>.
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the wet ingredients - <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/meat#eggs'>eggs</a>, and vanilla.
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the wet ingredients - <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/meat#eggs'>eggs</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>.
 
 - Add in the dry ingredients (baking powder, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/misc/nuts#almonds'>almond flour</a>), and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.
 - <img src='/assets/Food/Healthier Dessert/Bulking brownies/bowl.jpg' alt='' class='instruction-image'>

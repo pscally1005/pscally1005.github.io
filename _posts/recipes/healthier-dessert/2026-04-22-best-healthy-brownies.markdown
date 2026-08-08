@@ -62,7 +62,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 1 minute to melt. Add in the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> for 2 minutes to dissolve the sweetener
 
-- Beat in the <a href='/misc/meat#eggs'>eggs</a>, vanilla, and salt. Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/nuts#almonds'>almond flour</a>
+- Beat in the <a href='/misc/meat#eggs'>eggs</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt. Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/nuts#almonds'>almond flour</a>
 - <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/brownies-bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to your prepared pan. Chill in the fridge for at least 4 hours to dissolve the sweetener

@@ -62,7 +62,7 @@ Description: This <a href='/misc/veggies#carrots'>carrot</a> jam is a twist on m
 Instructions:
 - Wash and cut your <a href='/misc/veggies#carrots'>carrots</a>. If using <a href='/misc/veggies#carrots'>baby carrots</a>, you can add those right to the pot as is, no cutting needed. For large <a href='/misc/veggies#carrots'>carrots</a>, cut into strips, about the size of a <a href='/misc/veggies#carrots'>baby carrot</a>. Transfer to your pot
 
-- To the pot, add your spices (cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, cloves, and allspice), vanilla, and <a href='/misc/fruit#apple'>applesauce</a>. Mix together
+- To the pot, add your spices (cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, cloves, and allspice), <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='/misc/fruit#apple'>applesauce</a>. Mix together
 
 - Pour in just enough water to cover the <a href='/misc/veggies#carrots'>carrots</a>. Cover and cook on medium heat with occasional stirring and mashing with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a> (make sure nothing sticks and burns), until the <a href='/misc/veggies#carrots'>carrots</a> are tender. If all the water has cooked off but the <a href='/misc/veggies#carrots'>carrots</a> aren't soft yet, just cover again with water, and cook until the <a href='/misc/veggies#carrots'>carrots</a> are fork tender. I had to fill mine up with water 3 times
 

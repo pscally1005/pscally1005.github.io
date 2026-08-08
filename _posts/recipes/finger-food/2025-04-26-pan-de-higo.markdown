@@ -73,5 +73,5 @@ Notes:
 
 - You can also swap out the <a href='/misc/nuts#almonds'>almonds</a>; try <a href='/misc/nuts#peanuts'>peanuts</a>, <a href='/misc/nuts#pistachios'>pistachios</a>, <a href='/misc/nuts#cashews'>cashews</a>, or <a href='/misc/seeds#sunflower-seeds'>sunflower seeds</a>
 
-- Swap the extract for whatever you want too, such as vanilla, mint, or almond
+- Swap the extract for whatever you want too, such as <a href='https://amzn.to/43MkDqr'>vanilla</a>, mint, or almond
 ---

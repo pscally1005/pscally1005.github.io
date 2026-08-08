@@ -60,7 +60,7 @@ tags:
 - vic
 Description: These no-bake banana brownies are one of my favorite <a href='/recipes/protein-powder'>protein based desserts</a>. The recipe is made in less than 10 minutes and is full of <a href='/misc/nuts#peanuts'>peanut butter</a>, chocolate, and <a href='/misc/fruit#banana'>banana</a> flavor. They melt fast in your hands, but I'm sure that won't be an issue because you will have already finished eating it!  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash the <a href='/misc/fruit#banana'>bananas</a> with a fork. Mix in the rest of the ingredients - <a href='/recipes/natural-peanut-butter'>nut butter</a> (<a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/nuts#peanuts'>peanut</a>), <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, vanilla, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash the <a href='/misc/fruit#banana'>bananas</a> with a fork. Mix in the rest of the ingredients - <a href='/recipes/natural-peanut-butter'>nut butter</a> (<a href='/misc/nuts#almonds'>almond</a> or <a href='/misc/nuts#peanuts'>peanut</a>), <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
 - Pour batter into a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> lined with parchment paper. Freeze for about 2-3 hours to fully harden, or overnight
 

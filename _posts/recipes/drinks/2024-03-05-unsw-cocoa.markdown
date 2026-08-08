@@ -51,7 +51,7 @@ tags:
 - sip
 Description: This hot <a href='/misc/chocolate-benefits'>cocoa</a> drink is fully unsweetened, and is simply just <a href='/misc/chocolate-benefits'>cocoa powder</a> and cinnamon whisked into any simmering <a href='/misc/dairy#skim-milk'>milk</a> of choice. It's great for winter time, with rich chocolatey taste without all the <a href='/misc/hidden-sugar'>sugar</a>.  Or you can make my <a href='/recipes/hot-chocolate'>High Protein Hot Chocolate</a>.
 Instructions:
-- In a mug, whisk the <a href='/misc/chocolate-benefits'>cocoa</a> and cinnamon into a splash of <a href='/misc/dairy#skim-milk'>milk</a> (about 2 tbsp). Optionally, add some cinnamon, a small pinch of salt, or a dash of vanilla (or all 3). Whisk until fully combined, then add in the rest of the <a href='/misc/dairy#skim-milk'>milk</a>. This helps prevent clumping and allows for everything to be fully incorporated
+- In a mug, whisk the <a href='/misc/chocolate-benefits'>cocoa</a> and cinnamon into a splash of <a href='/misc/dairy#skim-milk'>milk</a> (about 2 tbsp). Optionally, add some cinnamon, a small pinch of salt, or a dash of <a href='https://amzn.to/43MkDqr'>vanilla</a> (or all 3). Whisk until fully combined, then add in the rest of the <a href='/misc/dairy#skim-milk'>milk</a>. This helps prevent clumping and allows for everything to be fully incorporated
 
 - Microwave on high for 1-2 minutes, or until desired temperature is reached
 Notes:

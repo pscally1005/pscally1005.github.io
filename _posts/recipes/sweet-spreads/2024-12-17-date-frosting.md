@@ -61,7 +61,7 @@ Description: This icing recipe is great for <a href='/recipes/cut-out-cookies'>H
 Instructions: 
 - Add the <a href='/misc/fruit#dates'>dates</a> to a bowl, and cover with warm water. Let soak for 10 minutes to soften
 
-- Add <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, and vanilla to a <a href='https://amzn.to/3VHhgMM'>small food processor</a>. Blend until smooth, scraping down the sides every minute
+- Add <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a> to a <a href='https://amzn.to/3VHhgMM'>small food processor</a>. Blend until smooth, scraping down the sides every minute
 Notes:
 - Other <a href='/misc/fruit#raisins'>unsweetened dried fruit</a> will work, like <a href='/misc/fruit#raisins'>raisins</a>, <a href='/misc/fruit#prune'>prunes</a>, or <a href='/misc/fruit#fig-dried'>figs</a>
 

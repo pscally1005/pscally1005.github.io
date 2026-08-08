@@ -66,7 +66,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- Mix together the <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='/misc/meat#eggs'>egg</a>, vanilla, and baking soda until just combined. Fold in the chocolate chips
+- Mix together the <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and baking soda until just combined. Fold in the chocolate chips
 - <img src='/assets/Food/Healthier Dessert/Keto Cookie/bowl.jpg' alt='' class='instruction-image'>
 
 - Scoop the cookies into 24 cookie dough balls, about 20 g each. Roll them in your hands, and place onto a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>. Press down to your desired thickness, and shape into a circle. These will puff up and expand just slightly when cooking

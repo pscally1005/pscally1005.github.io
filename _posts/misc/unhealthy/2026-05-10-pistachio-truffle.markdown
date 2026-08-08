@@ -52,7 +52,7 @@ Description: These homemade truffles feature just <a href='/misc/nuts#pistachios
 Instructions:
 - Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper, and place a <a href='https://amzn.to/4qQNmn2'>wire rack</a> on top
 
-- Mix together <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and vanilla with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a> to form a dough
+- Mix together <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a> to form a dough
 - <img src='/assets/Misc/Unhealthy/Pistachio Truffle/bowl.jpg' alt='' class='instruction-image'>
 
 - Scoop the dough and roll into 10 balls, about 17 g each. Freeze for 10 minutes

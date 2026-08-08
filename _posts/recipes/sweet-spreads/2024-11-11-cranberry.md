@@ -59,7 +59,7 @@ Instructions:
 - Reduce the heat to medium and simmer for about 6 minutes (covered), until most of the <a href='/misc/fruit#cranberry'>cranberries</a> have broken down. Stir the mixture frequently to ensure nothing burns or sticks to the pan, and to further break down the <a href='/misc/fruit#cranberry'>cranberries</a>
 - <img src='/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-cooked.jpg' alt='' class='instruction-image'>
 
-- Remove from the heat, and use a <a href='https://amzn.to/4r5boL0'>potato masher</a> to roughly mash the <a href='/misc/fruit#cranberry'>cranberries</a> to desired consistency. Stir in the vanilla and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, sweeten to taste, and allow to cool totally before serving
+- Remove from the heat, and use a <a href='https://amzn.to/4r5boL0'>potato masher</a> to roughly mash the <a href='/misc/fruit#cranberry'>cranberries</a> to desired consistency. Stir in the <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, sweeten to taste, and allow to cool totally before serving
 - <img src='/assets/Food/Sweet Spreads/Cranberry Sauce/cranberry-mashed.jpg' alt='' class='instruction-image'>
 Notes:
 ---

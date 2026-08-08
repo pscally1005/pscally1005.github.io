@@ -63,7 +63,7 @@ Instructions:
 - The dough should look a little dry, but come together when pressed. Add your crust ingredients into the pan. Evenly press down into all sides. Bake at 350F for about 20 minutes, or until lightly browned. Let cool totally before adding the filling on top, or you can rip the base when spreading on the filling
 - <img src='/assets/Food/Finger Food/Carob Peanut/base.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, rinse out your bowl, and mix together the filling ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='https://amzn.to/4rhYDwh'>carob</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cinnamon, salt, vanilla, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/fruit#apple'>applesauce</a>. Roughly chop your <a href='/misc/nuts#peanuts'>peanuts</a>
+- Meanwhile, rinse out your bowl, and mix together the filling ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='https://amzn.to/4rhYDwh'>carob</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cinnamon, salt, <a href='https://amzn.to/43MkDqr'>vanilla</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/fruit#apple'>applesauce</a>. Roughly chop your <a href='/misc/nuts#peanuts'>peanuts</a>
 - <img src='/assets/Food/Finger Food/Carob Peanut/filling-topping.jpg' alt='' class='instruction-image'>
 
 - Add the chocolate spread onto the cooled crust. Lightly wetting the back of a spoon to spread it helps prevent sticking and tearing

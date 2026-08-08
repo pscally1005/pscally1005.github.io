@@ -69,7 +69,7 @@ Description: |
 
   If you enjoy <a href='/copycat'>copycat</a> <a href='/protein-bar'>protein bar recipes</a>, also see my <a href='/recipes/copycat-barebell'>Copycat Barebell Protein Bars</a> and <a href='/recipes/rx-bars'>Copycat Chocolate RX Bars</a>
 Instructions:
-- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together all ingredients except the water - <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, cinnamon, salt, vanilla, and <a href='/misc/nuts#peanuts'>peanut butter</a>. It should be very dry and crumbly, but stay together slightly when pressed
+- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together all ingredients except the water - <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, cinnamon, salt, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='/misc/nuts#peanuts'>peanut butter</a>. It should be very dry and crumbly, but stay together slightly when pressed
 
 - Thin out with water until you have a dough that you can mold in your hands, but not too wet where it's sticky
 - <img src='/assets/Food/Protein Powder/Quest/bowl.jpg' alt='' class='instruction-image'>

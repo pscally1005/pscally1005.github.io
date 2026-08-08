@@ -58,7 +58,7 @@ Description: Whipped cream is already a surprisingly <a href='/misc/calories'>lo
 Instructions: 
 - Drain your can of <a href='/misc/beans#chickpeas'>chickpeas</a> using a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a> over a bowl. Add the aquafaba (<a href='/misc/beans#chickpeas'>chickpea</a> water) to a <a href='https://amzn.to/4adxMft'>large bowl</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Beat on high for about 5 minutes, until stiff peaks
 
-- Add in the vanilla and <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and beat for another 2 minutes to combine. Use as you would whipped cream, like to top my <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>
+- Add in the <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and beat for another 2 minutes to combine. Use as you would whipped cream, like to top my <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>
 Notes:
 - <a href='/misc/fruit#lemon-juice'>Lemon juice</a> (or another acid, such as cream of tartar) is necessary to help the aquafaba beat up properly.  It will not taste like <a href='/misc/fruit#lemon'>lemon</a> at all
 

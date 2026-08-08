@@ -59,7 +59,7 @@ tags:
 - vic
 Description: Who else agrees that raw cookie dough is better than the actual baked <a href='/cookies'>cookies</a>?  This cookie dough is <a href='/misc/celiac'>gluten free</a>, lower in <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/fats'>fat</a>, and vegan (depending on your chocolate).  Instead of <a href='/misc/dairy#butter'>butter</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='/misc/grains#white-wheat'>flour</a>, I've used <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/misc/grains#oats'>oat flour</a> for a more wholesome <a href='/recipes/healthier-dessert'>dessert</a> that's just as delicious.  For a <a href='/misc/protein'>protein</a> version, check out my <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a>.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- Melt your <a href='/recipes/natural-peanut-butter'>nut butter</a> and <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave for about 45 seconds in a <a href='https://amzn.to/4adxMft'>glass bowl</a>. Stir in the <a href='/misc/natural-sweeteners#honey'>honey</a>, vanilla, and salt with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the <a href='/misc/grains#oats'>oat flour</a> until fully incorporated and slightly sticky.
+- Melt your <a href='/recipes/natural-peanut-butter'>nut butter</a> and <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave for about 45 seconds in a <a href='https://amzn.to/4adxMft'>glass bowl</a>. Stir in the <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the <a href='/misc/grains#oats'>oat flour</a> until fully incorporated and slightly sticky.
 
 - Chill the dough in the fridge for at least 15 minutes before folding in the chocolate chips
 
@@ -77,7 +77,7 @@ Notes:
 
 - For the chocolate, you can go with either dark chocolate chips or chopped chunks of dark chocolate.  You can also try <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a>, chopped up <a href='/recipes/chocolate-bar'>Sugar Free Chocolate Bar</a>, <a href='/misc/fruit#raisins'>raisins</a>, or chopped <a href='/misc/nuts'>nuts</a>
 
-- For a <a href='/misc/protein'>protein</a> version of this cookie dough that you can eat with a spoon, swap the <a href='/misc/grains#oats'>oat flour</a> for vanilla <a href='/misc/dairy#whey'>whey protein powder</a> (3 scoops, 90 g), as well as add 1/4 cup (60 g) <a href='/misc/dairy#almond-milk'>unsweetened vanilla almond milk</a>.  For a full recipe, see <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a>
+- For a <a href='/misc/protein'>protein</a> version of this cookie dough that you can eat with a spoon, swap the <a href='/misc/grains#oats'>oat flour</a> for <a href='https://amzn.to/43MkDqr'>vanilla</a> <a href='/misc/dairy#whey'>whey protein powder</a> (3 scoops, 90 g), as well as add 1/4 cup (60 g) <a href='/misc/dairy#almond-milk'>unsweetened <a href='https://amzn.to/43MkDqr'>vanilla</a> almond milk</a>.  For a full recipe, see <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a>
 - <img src='/assets/Food/Healthier Dessert/OF CD/protein-cookie-dough.jpg' alt='' class='instruction-image'>
 
 - |

@@ -71,7 +71,7 @@ Notes:
 
 - I'm using vanilla <a href='/misc/dairy#whey'>whey</a> here, but chocolate or any other flavor will do as well. You can also use <a href='/misc/dairy#casein'>casein</a> instead of <a href='/misc/dairy#whey'>whey</a>, but you need to add some more liquid (like water, <a href='/misc/dairy#skim-milk'>milk</a>, or <a href='/misc/dairy#almond-milk'>non-dairy milk</a>) since <a href='/misc/dairy#casein'>casein</a> <a href='/misc/water-absorption'>absorbs much more liquid</a> than <a href='/misc/dairy#whey'>whey</a>
 
-- An unflavored <a href='/misc/dairy#whey'>protein powder</a> will also work, just add some additional sweetener and flavoring. I'd go with 1/2 tsp (2.5 g) vanilla or <a href='https://amzn.to/4khDgIM'>almond extract</a>, along with one of the following sweetener options
+- An unflavored <a href='/misc/dairy#whey'>protein powder</a> will also work, just add some additional sweetener and flavoring. I'd go with 1/2 tsp (2.5 g) <a href='https://amzn.to/43MkDqr'>vanilla</a> or <a href='https://amzn.to/4khDgIM'>almond extract</a>, along with one of the following sweetener options
 - INGREDIENTS(sweeteneroptions)
 
 - To make this a non-bulking <a href='/recipes/breakfast'>breakfast</a>, keep the <a href='/misc/dairy#yogurt'>yogurt</a> the same, and halve the rest of the ingredients.  The recipe would then be the following

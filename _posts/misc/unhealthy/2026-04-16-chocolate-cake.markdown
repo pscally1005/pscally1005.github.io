@@ -58,7 +58,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#white-wheat'>white flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, baking soda, and salt
 
-- Add in the wet ingredients (except the water) - <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/dairy#buttermilk'>buttermilk</a>, oil, and vanilla. Beat with an <a href='https://amzn.to/45yqsbM'>electric mixer</a> on medium until the dry ingredients are just fully incorporated, about 1-2 minutes
+- Add in the wet ingredients (except the water) - <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/dairy#buttermilk'>buttermilk</a>, oil, and <a href='https://amzn.to/43MkDqr'>vanilla</a>. Beat with an <a href='https://amzn.to/45yqsbM'>electric mixer</a> on medium until the dry ingredients are just fully incorporated, about 1-2 minutes
 
 - Add water to a medium glass, and microwave for 2 minutes. Pour in the boiling water, and beat together for about 30 seconds, until fully combined. The batter will be very thin
 - <img src='/assets/Misc/Unhealthy/Cake/bowl.jpg' alt='' class='instruction-image'>
@@ -69,7 +69,7 @@ Instructions:
 - Bake for about 30 minutes, or until a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.  Transfer the cakes to a <a href='https://amzn.to/4qQNmn2'>wire rack</a>. Take your block of <a href='/misc/dairy#cream-cheese'>cream cheese</a> out of the fridge. Let both the cakes and the <a href='/misc/dairy#cream-cheese'>cream cheese</a> sit on the counter for an hour
 - <img src='/assets/Misc/Unhealthy/Cake/baked.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, add (softened) <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/hidden-sugar'>sugar</a>, vanilla, and salt. Beat together the frosting ingredients with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> until on medium speed until fully combined, about 2 minutes
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, add (softened) <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/hidden-sugar'>sugar</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt. Beat together the frosting ingredients with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> until on medium speed until fully combined, about 2 minutes
 - <img src='/assets/Misc/Unhealthy/Cake/frosting.jpg' alt='' class='instruction-image'>
 
 - Invert the first layer, and spread the frosting on top .  Invert the other layer, add on top, and frost the top of the cake. Optionally sprinkle the top with <a href='/misc/nuts#coconut'>shredded coconut flakes</a>, chocolate chips, <a href='/misc/chocolate-benefits'>cocoa powder</a>, sprinkles, or whatever you like

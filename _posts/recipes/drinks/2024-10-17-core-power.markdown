@@ -75,6 +75,6 @@ Notes:
     "Net Carbs"
   )
 
-# - You can also sweeten this with a <a href='https://amzn.to/4layTR1'>flavored electrolyte mix</a> as well, like I did in my <a href='/recipes/electrolyte-protein-shake'>Electrolyte Protein Shake</a>.  Just replace the vanilla and <a href='https://amzn.to/3SqwsMO'>liqud monk fruit</a> with your <a href='https://amzn.to/4layTR1'>electrolyte mix</a>
+# - You can also sweeten this with a <a href='https://amzn.to/4layTR1'>flavored electrolyte mix</a> as well, like I did in my <a href='/recipes/electrolyte-protein-shake'>Electrolyte Protein Shake</a>.  Just replace the <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='https://amzn.to/3SqwsMO'>liqud monk fruit</a> with your <a href='https://amzn.to/4layTR1'>electrolyte mix</a>
 # - <a href='/recipes/electrolyte-protein-shake'><img src='/assets/Food/Drinks/Salt Shake/salt-shake.jpg' alt='' class='instruction-image'></a>
 ---

@@ -66,7 +66,7 @@ Instructions:
 - Transfer the batter to the pan. Wipe out the excess brownie batter from the bowl with a paper towel.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/brownie-pan.jpg' alt='' class='instruction-image'>
 
-- Add your cheesecake ingredients to the bowl, and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/meat#eggs'>egg</a>, vanilla, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, and salt.
+- Add your cheesecake ingredients to the bowl, and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, and salt.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/cheesecake-bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the cheesecake batter to the pan on top of the brownie layer. Optionally swirl together the brownie and cheesecake layers with a butter knife.

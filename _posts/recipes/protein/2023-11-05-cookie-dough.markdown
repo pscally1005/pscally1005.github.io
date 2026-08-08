@@ -61,7 +61,7 @@ Instructions:
 
 - Line a Tupperware with parchment paper. Use a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to scrape all the melted <a href='/misc/chocolate-benefits'>chocolate</a> into the pan. Freeze to harden
 
-- For the cookie dough, combine the ingredients in a <a href='https://amzn.to/4adxMft'>medium bowl</a> in the following order - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, vanilla, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and salt.  Add in the <a href='/misc/dairy#casein'>casein</a>, thin out with <a href='/misc/dairy#skim-milk'>milk</a>, and mix to form a slightly sticky cookie dough
+- For the cookie dough, combine the ingredients in a <a href='https://amzn.to/4adxMft'>medium bowl</a> in the following order - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and salt.  Add in the <a href='/misc/dairy#casein'>casein</a>, thin out with <a href='/misc/dairy#skim-milk'>milk</a>, and mix to form a slightly sticky cookie dough
 
 - Chop up your <a href='/misc/chocolate-benefits'>chocolate</a>, and fold into the cookie dough. Roll into balls, transfer to an airtight bag or container, and enjoy
 Notes:

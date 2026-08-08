@@ -71,7 +71,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/dairy#whey'>whey</a>, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, baking powder, baking soda, nutmeg, and salt
 
-- To a separate bowl, add the wet ingredients (<a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, vanilla, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>) and the <a href='/misc/veggies#carrots'>carrot</a> puree. Mix until fully combined
+- To a separate bowl, add the wet ingredients (<a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>) and the <a href='/misc/veggies#carrots'>carrot</a> puree. Mix until fully combined
 
 - Mix the dry and the wet ingredients together. Optionally fold in some chopped <a href='/misc/nuts'>nuts</a> (1/2 cup, 45 g)
 

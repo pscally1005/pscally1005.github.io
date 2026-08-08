@@ -66,7 +66,7 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, cornstarch, baking powder, baking soda, salt, and cinnamon
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-2.jpg' alt='' class='instruction-image'>
 
-- In a separate bowl, mix together the wet ingredients - syrup, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/fruit#apple'>applesauce</a>, vanilla, melted <a href='/misc/chocolate-benefits'>chocolate</a> and puree
+- In a separate bowl, mix together the wet ingredients - syrup, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, melted <a href='/misc/chocolate-benefits'>chocolate</a> and puree
 
 - Add the dry ingredients into the wet, sifting if necessary. Fold with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined; don't over mix. The batter should be pretty thick
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-4.jpg' alt='' class='instruction-image'>

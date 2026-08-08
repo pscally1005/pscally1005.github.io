@@ -66,7 +66,7 @@ Instructions:
 - Bring to a full rolling boil. Stir constantly, scraping the bottom, sides, and corners of the pot to prevent sticking and burning.  Let boil for 5 minutes under constant stirring
 - <img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-boil.jpg' alt='' class='instruction-image'>
 
-- Remove from heat and add your chocolate, vanilla, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Vigorously stir until all the <a href='/misc/chocolate-benefits'>chocolate</a> has melted, and the fudge is fully smooth
+- Remove from heat and add your chocolate, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Vigorously stir until all the <a href='/misc/chocolate-benefits'>chocolate</a> has melted, and the fudge is fully smooth
 - <img src='/assets/Food/Healthier Dessert/Keto Fudge/fudge-choc.jpg' alt='' class='instruction-image'>
 
 - Transfer the fudge into your lined pan, and level it out by tilting the pan.  Chill in the fridge for 3 hours to set before slicing

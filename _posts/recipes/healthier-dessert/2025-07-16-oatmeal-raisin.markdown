@@ -61,7 +61,7 @@ Description: |
 
   For other delicious variations, check out my <a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a>, <a href='/recipes/peanut-butter-date-cookies'>Peanut Butter Date Cookies</a>, and <a href='/recipes/mint-chocolate-chip-date-cookies'>Mint Chocolate Chip Date Cookies</a>.  Or make them all and taste test them to see which ones you like the best!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- Preheat your oven to 350F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.  In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#raisins'>raisins</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, cinnamon, and vanilla until smooth, and no chunks of <a href='/misc/beans'>beans</a> or <a href='/misc/fruit#raisins'>raisins</a> remain
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.  In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, blend together <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#raisins'>raisins</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, cinnamon, and <a href='https://amzn.to/43MkDqr'>vanilla</a> until smooth, and no chunks of <a href='/misc/beans'>beans</a> or <a href='/misc/fruit#raisins'>raisins</a> remain
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Raisin/no-milk.jpg' alt='' class='instruction-image'>
 
 - When fully combined, blend in <a href='/misc/dairy#skim-milk'>milk</a>, baking soda, and baking powder briefly to combine.  Transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>

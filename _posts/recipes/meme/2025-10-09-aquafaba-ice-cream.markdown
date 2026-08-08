@@ -57,7 +57,7 @@ Description: Do you know what to do with leftover <a href='/recipes/classic-tahi
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, beat your aquafaba and <a href='/misc/fruit#lemon-juice'>lemon juice</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> for about 3 minutes, or until foamy and you have soft peaks
 
-- Beat in the vanilla until fully combined. Next, beat in the <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>. Finally, beat in the <a href='/misc/chocolate-benefits'>cocoa powder</a> until just fully combined.  Don't overbeat, or you'll deflate the mixture
+- Beat in the <a href='https://amzn.to/43MkDqr'>vanilla</a> until fully combined. Next, beat in the <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>. Finally, beat in the <a href='/misc/chocolate-benefits'>cocoa powder</a> until just fully combined.  Don't overbeat, or you'll deflate the mixture
 
 - Freeze for 1 hour. Churn with your <a href='https://amzn.to/45yqsbM'>hand mixer</a>. Repeat 2 more times for a total of 3 hours
 

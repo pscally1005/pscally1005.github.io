@@ -5472,7 +5472,8 @@ LINKS = {
         "almond extract"
     ],
     "https://amzn.to/43MkDqr": [
-        "vanilla extract"
+        "vanilla extract",
+        "vanilla"
     ],
     "https://amzn.to/4bGjSTE": [
         "coconut extract"

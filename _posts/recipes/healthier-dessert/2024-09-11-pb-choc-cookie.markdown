@@ -66,7 +66,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add the <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#skim-milk'>milk</a> (or water), vanilla, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until smooth
+- Add the <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#skim-milk'>milk</a> (or water), <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until smooth
 
 - Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire
 - <img src='/assets/Food/Healthier Dessert/PB Date Cookie/pb-date-blended.jpg' alt='' class='instruction-image'>

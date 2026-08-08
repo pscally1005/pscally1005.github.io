@@ -73,7 +73,7 @@ Instructions:
 - Add the rest of the dry ingredients to the bowl, and whisk together (or mix with your hands) - <a href='/misc/seeds#flax-seeds'>flax</a>, <a href='/misc/grains#oats'>oats</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower</a>, <a href='/misc/veggies#pumpkin'>pumpkin</a>, <a href='/misc/seeds#chia-seeds'>chia</a>, psyllium, and salt. Optionally, mix in some cinnamon
 - <img src='/assets/Food/Bread/Nut Loaf/nut-loaf-nuts.jpg' alt='' class='instruction-image'>
 
-- Add the <a href='/misc/fruit#apple'>applesauce</a> (or melted <a href='/misc/nuts#coconut'>coconut oil</a>) to the bowl, and mix in with the <a href='/misc/nuts'>nuts</a>. Optionally, mix in some vanilla or <a href='https://amzn.to/4khDgIM'>almond extract</a>
+- Add the <a href='/misc/fruit#apple'>applesauce</a> (or melted <a href='/misc/nuts#coconut'>coconut oil</a>) to the bowl, and mix in with the <a href='/misc/nuts'>nuts</a>. Optionally, mix in some <a href='https://amzn.to/43MkDqr'>vanilla</a> or <a href='https://amzn.to/4khDgIM'>almond extract</a>
 
 - Warm your water in the microwave to about 100F, and mix into the bowl until you have a thick dough and everything is just soaked
 - <img src='/assets/Food/Bread/Nut Loaf/nut-loaf-bowl.jpg' alt='' class='instruction-image'>

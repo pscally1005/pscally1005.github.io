@@ -68,7 +68,7 @@ Instructions:
 - Spread the crust onto the bottom of the pan with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Make sure the crust is even, and spread to all sides
 - <img src='/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-3.jpg' alt='' class='instruction-image'>
 
-- In your <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the filling ingredients (<a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/meat#eggs'>eggs</a>, water, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, salt, nutmeg, cloves, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>, vanilla, and <a href='/misc/dairy#whey'>whey</a>). You can add a little butter extract to the filling if you want (as well as the crust)
+- In your <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the filling ingredients (<a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/meat#eggs'>eggs</a>, water, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, salt, nutmeg, cloves, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/45wOzIv'>stevia</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='/misc/dairy#whey'>whey</a>). You can add a little butter extract to the filling if you want (as well as the crust)
 
 - Bake in a 350F oven for 25 minutes. Lower heat to 300F, and bake for an additional 15 minutes
 - <img src='/assets/Food/Protein Powder/Pumpkin Pie/pumpkin-pie-6.jpg' alt='' class='instruction-image'>

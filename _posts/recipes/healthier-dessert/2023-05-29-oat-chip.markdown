@@ -57,7 +57,7 @@ Description: These oatmeal cookies are a healthier alternative to the classic ch
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork, until smooth
 
-- To the bowl, add your <a href='/misc/natural-sweeteners#honey'>honey</a>, vanilla, baking powder, cinnamon, salt, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>.  Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
+- To the bowl, add your <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, baking powder, cinnamon, salt, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>.  Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 
 - Fold in the <a href='/misc/grains#oats'>rolled oats</a> and chocolate chips (minis preferred).  Chill the dough in the fridge for 30 minutes, so the <a href='/misc/grains#oats'>oats</a> can absorb the moisture
 - <img src='/assets/Food/Healthier Dessert/Oatmeal Chip/bowl.jpg' alt='' class='instruction-image'>

@@ -57,7 +57,7 @@ tags:
 - chopped nuts
 - 3 ingredient
 - banana brownies
-Description: These simple and healthy <a href='/brownies'>brownie</a> bites are made with just 3 ingredients - pureed <a href='/misc/fruit#banana'>bananas</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>. These taste like delicious chocolate peanut butter <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>, but dense and fudgy, as all <a href='/brownies'>brownies</a> should be. Feel free to add any extra flavors such as vanilla or cinnamon, or any mix-ins like chocolate chips or chopped <a href='/misc/nuts'>nuts</a>. The nutrition facts are per <a href='/brownies'>brownie</a> bite.  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
+Description: These simple and healthy <a href='/brownies'>brownie</a> bites are made with just 3 ingredients - pureed <a href='/misc/fruit#banana'>bananas</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a>. These taste like delicious chocolate peanut butter <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a>, but dense and fudgy, as all <a href='/brownies'>brownies</a> should be. Feel free to add any extra flavors such as <a href='https://amzn.to/43MkDqr'>vanilla</a> or cinnamon, or any mix-ins like chocolate chips or chopped <a href='/misc/nuts'>nuts</a>. The nutrition facts are per <a href='/brownies'>brownie</a> bite.  Or check out any of my other <a href='/brownies'>brownie recipes</a>!
 Instructions:
 - Preheat your oven to 350F, and <a href='https://amzn.to/3Hdg0gk'>spray</a> a <a href='https://amzn.to/3T1ymDy'>mini muffin pan</a> with oil
 
@@ -75,7 +75,7 @@ Notes:
 
 - Using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in place of <a href='/misc/chocolate-benefits'>cocoa powder</a> would probably work to make it a <a href='/brownies'>blondie</a> instead and add more <a href='/misc/protein'>protein</a>, but I haven't personally tried it yet
 
-- Optionally, mix in some other flavors. You can use 1 tsp (5 g) vanilla (or almond) extract, 1/4 tsp (1.5 g) salt, 2 tsp (5 g) cinnamon, or 1/3 cup (60 g) of mix-ins (chocolate chips, chopped <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#raisins'>raisins</a>, etc.). For a cakier <a href='/brownies'>brownie</a>, add a 1/2 tsp (2.4 g) of baking powder
+- Optionally, mix in some other flavors. You can use 1 tsp (5 g) <a href='https://amzn.to/43MkDqr'>vanilla</a> (or almond) extract, 1/4 tsp (1.5 g) salt, 2 tsp (5 g) cinnamon, or 1/3 cup (60 g) of mix-ins (chocolate chips, chopped <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#raisins'>raisins</a>, etc.). For a cakier <a href='/brownies'>brownie</a>, add a 1/2 tsp (2.4 g) of baking powder
 
 - Alternatively, you can bake as regular <a href='/brownies'>brownies</a> in a parchment lined and greased <a href='https://amzn.to/3YY2H9q'>9" square pan</a>.  Bake for about 30 minutes. If you jiggle the pan, the center should just be set, and a toothpick should come out with some moist crumbs.  Note that the nutrition facts are for 24 mini muffins, and baking in a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> would yield. 16 pieces.  Just multiply all the values by 1.5 to get the nutritional information for 1 square <a href='/brownies'>brownie</a>
 - <img src='/assets/Food/Healthier Dessert/3 Ing Brownie/3-ing-brownie-7.jpg' alt='' class='instruction-image'>

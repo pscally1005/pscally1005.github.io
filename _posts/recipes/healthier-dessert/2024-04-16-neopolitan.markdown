@@ -57,7 +57,7 @@ Description: I love <a href='/recipes/nice-cream'>banana ice cream</a>, but I've
 Instructions:
 - The day before, break all your <a href='/misc/fruit#banana'>bananas</a> into large chunks, about 0.5-1" in thickness. Add to a large ziploc bag, and freeze overnight
 
-- For the vanilla, add 2 <a href='/misc/fruit#banana'>bananas</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in <a href='/misc/dairy#skim-milk'>milk</a> and vanilla. Transfer to a <a href='https://amzn.to/3YUjIkN'>loaf pan</a>, only filling up 1/3 of the left side of the pan
+- For the vanilla, add 2 <a href='/misc/fruit#banana'>bananas</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in <a href='/misc/dairy#skim-milk'>milk</a> and <a href='https://amzn.to/43MkDqr'>vanilla</a>. Transfer to a <a href='https://amzn.to/3YUjIkN'>loaf pan</a>, only filling up 1/3 of the left side of the pan
 - <img src='/assets/Food/Healthier Dessert/Neopolitan/neopolitan-3.jpg' alt='' class='instruction-image'>
 
 - For the <a href='/misc/fruit#strawberries'>strawberry</a>, add 1 <a href='/misc/fruit#banana'>banana</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with frozen <a href='/misc/fruit#strawberries'>strawberries</a>. Process on high, scraping down the sides every 30 seconds or so, until you have a smooth ice cream texture. Blend in <a href='/misc/dairy#skim-milk'>milk</a>. Transfer to a <a href='https://amzn.to/3YUjIkN'>loaf pan</a>, only filling up 1/3 of the right side of the pan

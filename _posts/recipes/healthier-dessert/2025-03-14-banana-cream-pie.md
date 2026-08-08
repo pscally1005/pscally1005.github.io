@@ -57,7 +57,7 @@ Instructions:
 - Spread the <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a> on top of the <a href='/recipes/pie-crust'>Healthier Graham Cracker Pie Crust</a>. Set aside
 - <img src='/assets/Food/Healthier Dessert/Banana Cream Pie/filling.jpg' alt='' class='instruction-image'>
 
-- Finally, make the <a href='/recipes/whipped-cream'>Aquafaba Whipped Cream</a>. Beat together aquafaba and <a href='/misc/fruit#lemon-juice'>lemon juice</a> on high heat until stiff peaks, about 5 minutes. Beat in vanilla and <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> for about 2 minutes to combine
+- Finally, make the <a href='/recipes/whipped-cream'>Aquafaba Whipped Cream</a>. Beat together aquafaba and <a href='/misc/fruit#lemon-juice'>lemon juice</a> on high heat until stiff peaks, about 5 minutes. Beat in <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> for about 2 minutes to combine
 - <img src='/assets/Food/Sweet Spreads/Whipped Cream/cover.jpg' alt='' class='instruction-image'>
 
 - Evenly spread the <a href='/recipes/whipped-cream'>Aquafaba Whipped Cream</a> on top of the pie, and optionally dust the top with cinnamon. Refrigerate for at least 2 hours before slicing and serving
