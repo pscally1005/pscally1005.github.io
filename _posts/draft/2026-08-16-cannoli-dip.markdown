@@ -55,9 +55,12 @@ tags:
 - almond extract
 - liquid monk fruit
 - chocolate chips
-Description: Do you love cannoli and want a healthier alternative? Introducing this healthy cannoli dip, which is sugar free, low fat, and high protein. Cottage cheese provides our base, lemon juice and almond extract provide the classic flavors, and chocolate chips add some cocoa goodness and textural crunch. This dip is great with some sliced strawberries or any other fruit you have on hand!
+Description: |
+  Do you love cannoli and want a healthier alternative? Introducing this healthy cannoli dip, which is <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/fats'>low fat</a>, and <a href='/misc/high-protein'>high protein</a>. <a href='/misc/dairy#cottage-cheese'>Cottage cheese</a> provides our base, <a href='/misc/fruit#lemon-juice'>lemon juice</a> and almond extract provide the classic flavors, and chocolate chips add some <a href='/misc/chocolate-benefits'>cocoa</a> goodness and textural crunch.<br><br>
+
+  This dip is great with some sliced <a href='/misc/fruit#strawberries'>strawberries</a> or any other <a href='/misc/fruit'>fruit</a> you have on hand.  Or you can use this as a dip for my homemade <a href='/recipes/gf-crackers'>Gluten Free Graham Crackers</a>!
 Instructions:
-- In a medium bowl, combine together all ingredients. Serve with sliced strawberries (or just a spoon).
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, combine together all ingredients. Serve with sliced <a href='/misc/fruit#strawberries'>strawberries</a>, <a href='/recipes/gf-crackers'>graham crackers</a>, or just a spoon.
 - <img src='/assets/Food/Sweet Spreads/Cannoli dip/bowl.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Sweet Spreads/Cannoli dip/cover1.jpg' alt='' class='instruction-image'>
 Notes:
