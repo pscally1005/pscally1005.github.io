@@ -65,7 +65,7 @@ Instructions:
 
 - Chop up your <a href='/misc/chocolate-benefits'>chocolate</a>, and fold into the cookie dough. Roll into balls, transfer to an airtight bag or container, and enjoy
 Notes:
-- If you have some, 1/4 tsp (1.25 g) butter extract would work great here as well
+- If you have some, 1/4 tsp (1.25 g) <a href='https://amzn.to/4gl7OK1'>butter extract</a> would work great here as well
 
 - For your flour, use <a href='/misc/dairy#casein'>casein</a> for the regular <a href='/misc/protein'>protein</a> version, or <a href='/misc/grains#oats'>oat flour</a> for a standard non-protein version. <a href='/misc/dairy#casein'>Casein</a> absorbs a lot of liquid, so you will need some <a href='/misc/dairy#skim-milk'>milk</a> too. If you're using <a href='/misc/grains#oats'>oat flour</a>, use 120 g (1 1/3 cup) and no <a href='/misc/dairy#skim-milk'>milk</a>.  For <a href='/misc/dairy#casein'>casein</a>, use 60 g (2 scoop) <a href='/misc/dairy#whey'>protein powder</a> and 60 g (1/4 cup) <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a>
 

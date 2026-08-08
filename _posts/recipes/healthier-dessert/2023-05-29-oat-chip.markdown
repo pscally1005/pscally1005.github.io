@@ -72,7 +72,7 @@ Notes:
 
 - Any <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> will work, such as <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>
 
-- Optionally, add 1/4 tsp butter extract
+- Optionally, add 1/4 tsp <a href='https://amzn.to/4gl7OK1'>butter extract</a>
 
 - <a href='/misc/nuts#coconut'>Coconut flour</a> or <a href='/misc/grains#oats'>oat flour</a> will work in place of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>
 ---

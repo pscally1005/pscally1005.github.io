@@ -5487,6 +5487,9 @@ LINKS = {
     "https://amzn.to/3TIq7QF": [
         "rum extract"
     ],
+    "https://amzn.to/4gl7OK1": [
+        "butter extract"
+    ],
     "https://amzn.to/45Oxbha": [
         "walden farms chocolate syrup",
         "zero calorie chocolate syrup"

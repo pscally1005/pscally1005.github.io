@@ -59,7 +59,7 @@ Instructions:
 
 - Over the simmering water for about 15 minutes, whisk together <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/fruit#lemon'>lemon</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, and <a href='/misc/veggies#garlic'>garlic</a>. Stir frequently, until sauce has thickened and reached <a href='https://amzn.to/4kmobG2'>160F</a>
 
-- Stir in mustard and spices - basil, salt, cumin, paprika, black pepper, and red pepper flakes.  You can optionally also add a drop of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or butter extract
+- Stir in mustard and spices - basil, salt, cumin, paprika, black pepper, and red pepper flakes.  You can optionally also add a drop of <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> or <a href='https://amzn.to/4gl7OK1'>butter extract</a>
 
 - Serve over roasted <a href='/misc/veggies'>vegetables</a>, use as a base for tuna salad, or however you want
 Notes:
