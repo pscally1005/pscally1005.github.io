@@ -73,7 +73,7 @@ Instructions:
 
 - Add the evaporated milk and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> to a <a href='https://amzn.to/46ccg8m'>medium pot</a> over medium heat. Bring to a slow boil, and allow it to simmer until it reduces by half, about 25 minutes, stirring frequently to ensure nothing sticks to the bottom of the pan
 
-- Remove the pan from the heat and stir in the vanilla extract. Set aside to cool for at least 10 minutes in the fridge
+- Remove the pan from the heat and stir in the <a href='https://amzn.to/43MkDqr'>vanilla extract</a>. Set aside to cool for at least 10 minutes in the fridge
 - <img src='/assets/Food/Healthier Dessert/7 Layer/milk.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, in a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the crust ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, salt, cinnamon, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>. Evenly press the mixture into the pan. The dough should feel slightly crumbly, and you should have just enough dough to barely cover the base of the pan

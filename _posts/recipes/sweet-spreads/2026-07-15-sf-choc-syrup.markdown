@@ -59,7 +59,7 @@ Instructions:
 
 - Whisk in the water, cover with a lid, and bring to a boil over high heat.  Once at a boil, remove the cover.  Keep the heat on high, and whisk continously for 2 minutes, alternating between on and off the heat every 10 seconds.
 
-- Remove from the heat and whisk in vanilla extract.
+- Remove from the heat and whisk in <a href='https://amzn.to/43MkDqr'>vanilla extract</a>.
 - <img src='/assets/Food/Sweet Spreads/SF Choc Syrup/pot.jpg' alt='' class='instruction-image'>
 
 - Let it cool completely before transferring to a <a href='https://amzn.to/4vamaBm'>mason jar</a>. Store in the fridge for up to 2 weeks, or in the freezer indefinitely.

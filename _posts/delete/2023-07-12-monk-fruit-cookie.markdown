@@ -62,7 +62,7 @@ tags:
 - oatmeal raisin
 Description: Delicious <a href='/cookies'>cookies</a> made without <a href='/misc/hidden-sugar'>sugar</a> and <a href='/misc/dairy#butter'>butter</a>? Want more <a href='/misc/protein'>protein</a>? Use <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> or <a href='/misc/dairy#casein'>casein protein</a>. Healthy <a href='/misc/fats'>fats</a>? Use <a href='/misc/nuts#almonds'>almond flour</a>. More <a href='/misc/fiber'>fiber</a>? Use <a href='/misc/grains#oats'>oat flour</a> or <a href='/misc/grains#whole-wheat'>whole wheat flour</a>. Feel free to mix up the mix-ins as well. The <a href='/cookies'>cookies</a> pictured here are a half and half blend of <a href='/misc/grains#oats'>oat</a> and <a href='/misc/nuts#almonds'>almond flour</a>, with some dark chocolate chips. The possibilities are endless.  If you have <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> instead, check out my <a href='/recipes/syrup-cookies'>Sugar Free Syrup Cookies</a>, or use <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> in my <a href='/recipes/oatmeal-chocolate-cookies'>Oatmeal Chocolate Chip Cookies</a>.  You can also check out any of my other <a href='/cookie'>cookie recipes</a>!
 Instructions:
-- Combine the base ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (or any other <a href='https://amzn.to/4ceFnvP'>granular sweetener</a>), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, vanilla extract, baking soda, and salt
+- Combine the base ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (or any other <a href='https://amzn.to/4ceFnvP'>granular sweetener</a>), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, baking soda, and salt
 
 - Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is <a href='/misc/grains#oats'>oat flour</a>, with some <a href='/misc/chocolate-benefits'>dark chocolate</a> chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
 
@@ -77,7 +77,7 @@ Notes:
 
 - <b><a href='/misc/nuts#peanuts'>Peanut</a> Chocolate</b> - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> (1 cup, 100 g, omit the salt if using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>), and chopped <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate</a> (1/4 cup, 45 g)
 
-- <b><a href='/misc/nuts#almonds'>Almond</a></b> - almond extract (1/2 tsp, 2.5 g), and <a href='/misc/nuts#almonds'>almond flour</a> (1 cup, 112 g)
+- <b><a href='/misc/nuts#almonds'>Almond</a></b> - <a href='https://amzn.to/4khDgIM'>almond extract</a> (1/2 tsp, 2.5 g), and <a href='/misc/nuts#almonds'>almond flour</a> (1 cup, 112 g)
 
 - <b><a href='/misc/nuts#coconut'>Coconut</a></b> - blended <a href='/misc/nuts#coconut'>unsweetened coconut flakes</a> (1 cup, 100 g), and a drizzle of melted chocolate on the baked <a href='/cookies'>cookies</a> at the end
 ---

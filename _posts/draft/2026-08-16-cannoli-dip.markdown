@@ -56,7 +56,7 @@ tags:
 - liquid monk fruit
 - chocolate chips
 Description: |
-  Do you love cannoli and want a healthier alternative? Introducing this healthy cannoli dip, which is <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/fats'>low fat</a>, and <a href='/misc/high-protein'>high protein</a>. <a href='/misc/dairy#cottage-cheese'>Cottage cheese</a> provides our base, <a href='/misc/fruit#lemon-juice'>lemon juice</a> and almond extract provide the classic flavors, and chocolate chips add some <a href='/misc/chocolate-benefits'>cocoa</a> goodness and textural crunch.<br><br>
+  Do you love cannoli and want a healthier alternative? Introducing this healthy cannoli dip, which is <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/fats'>low fat</a>, and <a href='/misc/high-protein'>high protein</a>. <a href='/misc/dairy#cottage-cheese'>Cottage cheese</a> provides our base, <a href='/misc/fruit#lemon-juice'>lemon juice</a> and <a href='https://amzn.to/4khDgIM'>almond extract</a> provide the classic flavors, and chocolate chips add some <a href='/misc/chocolate-benefits'>cocoa</a> goodness and textural crunch.<br><br>
 
   This dip is great with some sliced <a href='/misc/fruit#strawberries'>strawberries</a> or any other <a href='/misc/fruit'>fruit</a> you have on hand.  Or you can use this as a dip for my homemade <a href='/recipes/gf-crackers'>Gluten Free Graham Crackers</a>!
 Instructions:

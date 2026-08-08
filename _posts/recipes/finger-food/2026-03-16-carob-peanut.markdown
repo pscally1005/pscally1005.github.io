@@ -57,7 +57,7 @@ Description: Here's a great pre or post workout snack. These bars are made of a 
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly spray with oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the base ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, baking powder, salt, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/fruit#apple'>applesauce</a>
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the base ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, baking powder, salt, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/fruit#apple'>applesauce</a>
 - <img src='/assets/Food/Finger Food/Carob Peanut/bowl.jpg' alt='' class='instruction-image'>
 
 - The dough should look a little dry, but come together when pressed. Add your crust ingredients into the pan. Evenly press down into all sides. Bake at 350F for about 20 minutes, or until lightly browned. Let cool totally before adding the filling on top, or you can rip the base when spreading on the filling

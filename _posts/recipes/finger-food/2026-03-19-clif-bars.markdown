@@ -83,7 +83,7 @@ Notes:
 
 - To make it <a href='/misc/nuts'>nut</a> free, replace the <a href='/misc/nuts#peanuts'>peanut butter</a> with either <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> or <a href='/misc/seeds#sesame-seeds'>tahini</a> (1:1).  Replace the <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> with vanilla (or chocolate) <a href='/misc/dairy#whey'>whey protein powder</a> (2 scoops, 60 g).  I will be assuming you're using <a href='/misc/natural-sweeteners#honey'>honey</a> as the sweetener below
 
-- To make mint chocolate clif bars, replace the vanilla extract with 1/4 tsp (1.5 g) mint extract
+- To make mint chocolate clif bars, replace the <a href='https://amzn.to/43MkDqr'>vanilla extract</a> with 1/4 tsp (1.5 g) <a href='https://amzn.to/4xtISFR'>mint extract</a>
 
 - |
   COMPARE(

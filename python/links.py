@@ -5468,6 +5468,24 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4khDgIM": [
+        "almond extract"
+    ],
+    "https://amzn.to/43MkDqr": [
+        "vanilla extract"
+    ],
+    "https://amzn.to/4bGjSTE": [
+        "coconut extract"
+    ],
+    "https://amzn.to/4xtISFR": [
+        "mint extract"
+    ],
+    "https://amzn.to/4xor2nH": [
+        "maple extract"
+    ],
+    "https://amzn.to/3TIq7QF": [
+        "rum extract"
+    ],
     "https://amzn.to/45Oxbha": [
         "walden farms chocolate syrup",
         "zero calorie chocolate syrup"

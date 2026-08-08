@@ -63,7 +63,7 @@ Description: Ah cuccidati, my favorite <a href='/cookies'>cookie</a> of all time
 Instructions:
 - Peel your <a href='/misc/fruit#orange'>oranges</a>, and add to a <a href='https://amzn.to/3VHhgMM'>small food processor</a>. Blend until smooth, and transfer to a <a href='https://amzn.to/46ccg8m'>medium pot</a> along with <a href='/misc/fruit#dates'>dates</a> (cut in half) and water
 
-- Simmer the filling over medium heat (covered for the first half) for about 30-40 minutes with occasional stirring. The mixture should be thick and jam like, and the <a href='/misc/fruit#dates'>dates</a> should mashed and broken down.  Optionally, stir in some rum extract (1 tsp, 4 g).  Let cool completely before filling the cookies
+- Simmer the filling over medium heat (covered for the first half) for about 30-40 minutes with occasional stirring. The mixture should be thick and jam like, and the <a href='/misc/fruit#dates'>dates</a> should mashed and broken down.  Optionally, stir in some <a href='https://amzn.to/3TIq7QF'>rum extract</a> (1 tsp, 4 g).  Let cool completely before filling the cookies
 
 - For the dough, whisk together the dry ingredients - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#oats'>oat flour</a>, baking powder, and salt.  Add in the <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and vanilla, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 - <img src='/assets/Food/Healthier Dessert/Cuccidati/bowl.jpg' alt='' class='instruction-image'>

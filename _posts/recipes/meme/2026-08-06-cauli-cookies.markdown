@@ -60,7 +60,7 @@ Description: |
 
   The result is chewy and gooey, lower <a href='/misc/calories'>calorie</a> <a href='/cookies'>cookie</a>. These are <a href='/misc/celiac'>gluten free</a>, <a href='/misc/hidden-sugar'>sugar free</a>, and vegan, making them a perfect snack!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, combine together <a href='/misc/seeds#flax-seeds'>flax seed</a> with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to make your "<a href='/misc/seeds#flax-seeds'>flax egg</a>". Let it sit for at least 5 minutes to thicken.
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, combine together <a href='/misc/seeds#flax-seeds'>flax seed</a> with <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> to make your "<a href='/misc/seeds#flax-seeds'>flax egg</a>". Let it sit for at least 5 minutes to thicken.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/flax.jpg' alt='' class='instruction-image'>
 
 - Preheat your oven to 400F. Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.

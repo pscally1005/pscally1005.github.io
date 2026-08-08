@@ -70,7 +70,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 30 seconds, until melted
 
-- Mix in the <a href='/misc/dairy#casein'>casein</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, baking powder, salt, vanilla extract, and <a href='/misc/dairy#almond-milk'>almond milk</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Mix in the <a href='/misc/dairy#casein'>casein</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, baking powder, salt, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Quest Cookie/bowlCasein.jpg' alt='' class='instruction-image'>
 
 - Transfer your cookie dough to a small piece of parchment paper. Flatten to a 1/4" circle. Press the chocolate chips into the top

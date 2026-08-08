@@ -65,7 +65,7 @@ Instructions:
 
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, cinnamon, baking powder, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, and salt
 
-- Add in the liquid ingredients - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Mix until fully combined with you hands (wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>)
+- Add in the liquid ingredients - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>. Mix until fully combined with you hands (wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>)
 - <img src='/assets/Food/Protein Powder/Cream Pie/bowl.jpg' alt='' class='instruction-image'>
 
 - Divide the cookie dough into 12 balls, about 40 g each.  Add to your parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>.  Flatten down to a thin and even circle
@@ -74,7 +74,7 @@ Instructions:
 - Bake at 350F until lightly golden brown, about 5 minutes.  Don't overbake, or they'll end up dry.  Allow them to cool totally on the sheet
 - <img src='/assets/Food/Protein Powder/Cream Pie/baked.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the filling with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/dairy#yogurt'>Greek yogurt</a>, (softened) <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a>
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the filling with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/dairy#yogurt'>Greek yogurt</a>, (softened) <a href='/misc/dairy#cream-cheese'>cream cheese</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a>
 - <img src='/assets/Food/Protein Powder/Cream Pie/frosting.jpg' alt='' class='instruction-image'>
 
 - Spread the filling batter onto the bottom side of 6 cookies, about 50 g of cream filling each. Top with the remaining 6 cookies

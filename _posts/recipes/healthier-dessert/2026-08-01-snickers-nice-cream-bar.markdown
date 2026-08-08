@@ -54,7 +54,7 @@ tags:
 - snicker's
 Description: I've been loving <a href='/recipes/nice-cream'>homemade nice cream</a> lately. Check out my <a href='/copycat'>copycat recipes</a> for <a href='/recipes/cherry-garcia'>Cherry Garcia</a> and <a href='/recipes/chunky-monkey'>Chunky Monkey</a>. But today is a Snickers Ice Cream Bar <a href='/copycat'>copycat</a>. With just <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/nuts#peanuts'>peanuts</a>, and melted chocolate, you can create a perfectly satisfying and refreshing ice cream bar for a fraction of the <a href='/misc/fats'>fat</a>, <a href='/misc/hidden-sugar'>added sugar</a>, and <a href='/misc/calories'>calories</a>.
 Instructions:
-- Add frozen <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, vanilla extract, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend for about 3-5 minutes, scraping the sides every minute or so, until you have a smooth and creamy ice cream.
+- Add frozen <a href='/misc/fruit#banana'>bananas</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a>. Blend for about 3-5 minutes, scraping the sides every minute or so, until you have a smooth and creamy ice cream.
 - <img src='/assets/Food/Healthier Dessert/Snickers Nice Cream/processor.jpg' alt='' class='instruction-image'>
 
 - Roughly chop your <a href='/misc/nuts#peanuts'>peanuts</a>.

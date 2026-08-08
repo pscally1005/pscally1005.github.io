@@ -60,7 +60,7 @@ tags:
 - oatmeal raisin
 Description: These <a href='/cookies'>cookies</a> are similar to my <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> <a href='/cookies'>cookies</a>, as they're customizable and <a href='/misc/hidden-sugar'>sugar</a> free. Instead of a <a href='https://amzn.to/4ceFnvP'>granular sweetener</a> though, these use a <a href='/recipes/sugar-free-syrup'>liquid zero calorie sweetener</a>, so that way you can make them with whatever sweet device you have on hand. Feel free to mix up the flours (<a href='/misc/grains#whole-wheat'>whole wheat</a>, <a href='/misc/nuts#almonds'>almond</a> <a href='/misc/grains#oats'>oat flour</a>, etc.) or the mix-ins (chocolate chips, chopped <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#raisins'>raisins</a>, etc.).  Also see my <a href='/recipes/oatmeal-chocolate-cookies'>Oatmeal Chocolate Chip Cookies</a>, or if you have <a href='https://amzn.to/4ceFnvP'>granular sweetener</a>, make my <a href='/recipes/monk-fruit-cookies'>Granulated Monk Fruit Cookies</a>.  You can also check out any of my other <a href='/cookie'>cookie recipes</a>!
 Instructions:
-- In a bowl, mix together the base ingredients - <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or any other liquid sweetener), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, vanilla extract, baking soda, and salt
+- In a bowl, mix together the base ingredients - <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or any other liquid sweetener), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, baking soda, and salt
 
 - Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is a mix of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/grains#oats'>oat flour</a>, with some <a href='/misc/chocolate-benefits'>dark chocolate</a> chips folded in. Let the dough chill in the fridge for at least 30 minutes to an hour to harden
 - <img src='/assets/Food/Healthier Dessert/SF Syrup/sf-syrup-2.jpg' alt='' class='instruction-image'>
@@ -76,7 +76,7 @@ Notes:
 
 - <b><a href='/misc/nuts#peanuts'>Peanut</a> Chocolate</b> - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> (1 cup, 100 g, omit the salt if using <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>), and chopped <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate</a> (1/4 cup, 45 g)
 
-- <b><a href='/misc/nuts#almonds'>Almond</a></b> - almond extract (1/2 tsp, 2.5 g), and <a href='/misc/nuts#almonds'>almond flour</a> (1 cup, 112 g)
+- <b><a href='/misc/nuts#almonds'>Almond</a></b> - <a href='https://amzn.to/4khDgIM'>almond extract</a> (1/2 tsp, 2.5 g), and <a href='/misc/nuts#almonds'>almond flour</a> (1 cup, 112 g)
 
 - <b><a href='/misc/nuts#coconut'>Coconut</a></b> - blended <a href='/misc/nuts#coconut'>unsweetened coconut flakes</a> (1 cup, 100 g), and a drizzle of melted chocolate on the baked <a href='/cookies'>cookies</a> at the end
 ---

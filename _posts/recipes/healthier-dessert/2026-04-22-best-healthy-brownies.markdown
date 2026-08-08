@@ -80,7 +80,7 @@ Notes:
 
   Oh boy, was I wrong.  The edges stuck so incredibly bad that half the brownies fell apart while trying to remove them from the pan and slice them.  I got a clean cut from the center here, but I will certainly be baking with parchment paper next time
 
-- The main difference this and <a href='/recipes/brownies'>standard brownies</a> is that there's a mild cooling effect from the <a href='https://amzn.to/4lkg3Hr'>erythritol</a> in the sweetener.  Do you know what else has a cooling effect?  That's right, mint.  You can very easily "pass off" the cooling taste as mint by adding in 1/4 tsp (1.25 g) mint extract for a mint chocolate brownie
+- The main difference this and <a href='/recipes/brownies'>standard brownies</a> is that there's a mild cooling effect from the <a href='https://amzn.to/4lkg3Hr'>erythritol</a> in the sweetener.  Do you know what else has a cooling effect?  That's right, mint.  You can very easily "pass off" the cooling taste as mint by adding in 1/4 tsp (1.25 g) <a href='https://amzn.to/4xtISFR'>mint extract</a> for a mint chocolate brownie
 
 - Below is a table comparing the nutrition facts of <a href='#recipe'>this recipe</a> to a <a href='/recipes/brownies'>standard version of brownies</a>
 - |

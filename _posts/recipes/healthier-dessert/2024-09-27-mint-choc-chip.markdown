@@ -57,14 +57,14 @@ tags:
 - chickpeas
 - garbanzo beans
 Description: |
-  Delicious <a href='/cookies'>cookies</a> made from a base of <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and <a href='/misc/seeds#sunflower-seeds'>sunflower butter</a>!  These are a variation of my <a href='/recipes/chocolate-chip-date-cookies'>Chocolate Chip Date Cookies</a>, with added mint extract for the classic mint and chocolate combination.  They're vegan, <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/nuts'>nut</a> free, <a href='/misc/fats'>oil free</a>, <a href='/misc/celiac'>gluten free</a>, and dye free.<br><br>
+  Delicious <a href='/cookies'>cookies</a> made from a base of <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, and <a href='/misc/seeds#sunflower-seeds'>sunflower butter</a>!  These are a variation of my <a href='/recipes/chocolate-chip-date-cookies'>Chocolate Chip Date Cookies</a>, with added <a href='https://amzn.to/4xtISFR'>mint extract</a> for the classic mint and chocolate combination.  They're vegan, <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/nuts'>nut</a> free, <a href='/misc/fats'>oil free</a>, <a href='/misc/celiac'>gluten free</a>, and dye free.<br><br>
 
   Yes, dye free; just like with my <a href='/recipes/green-bread'>Green Bread - No Food Dye</a>, I've used <a href='/misc/seeds#sunflower-seeds'>sunflower butter</a> and baking soda to turn it green without artificial dyes!<br><br>
   For other delicious variations, check out my <a href='/recipes/double-chocolate-date-cookies'>Double Chocolate Date Cookies</a>, <a href='/recipes/peanut-butter-date-cookies'>Peanut Butter Date Cookies</a>, and <a href='/recipes/oatmeal-raisin-cookies'>Naturally Sweetened Oatmeal Raisin Cookies</a>.  Or make them all and taste test them to see which ones you like the best!  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add the <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, water, mint extract, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until smooth.  Be very careful with the mint extract, as it's very strong.  Start with half the amount, and adjust to your tastes
+- Add the <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#dates'>dates</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, water, <a href='https://amzn.to/4xtISFR'>mint extract</a>, and salt to a <a href='https://amzn.to/4q0AUjI'>food processor</a> and blend until smooth.  Be very careful with the <a href='https://amzn.to/4xtISFR'>mint extract</a>, as it's very strong.  Start with half the amount, and adjust to your tastes
 - <img src='/assets/Food/Healthier Dessert/Mint Chip/mint-chip-unblended.jpg' alt='' class='instruction-image'>
 
 - Add in baking soda and blend briefly, until just combined. Stir in the chocolate chips with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. The batter should be very loose for a cookie dough.  You can refrigerate for about 30 minutes to harden it if you desire

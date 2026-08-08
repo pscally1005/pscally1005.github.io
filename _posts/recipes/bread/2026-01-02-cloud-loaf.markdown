@@ -75,7 +75,7 @@ Notes:
 
 - To make this a savory bread, use unflavored <a href='/misc/dairy#whey'>protein powder</a>.  Add 1 tsp (3 g) each of garlic and onion powder.
 
-- To make this a sweet bread, use vanilla <a href='/misc/dairy#whey'>protein powder</a>.  Add 1 tsp (5 g) each of vanilla extract and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, as well as 1 tsp (3 g) of cinnamon.
+- To make this a sweet bread, use vanilla <a href='/misc/dairy#whey'>protein powder</a>.  Add 1 tsp (5 g) each of <a href='https://amzn.to/43MkDqr'>vanilla extract</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, as well as 1 tsp (3 g) of cinnamon.
 
 - If you're using chocolate <a href='/misc/dairy#whey'>protein powder</a>, add the vanilla, <a href='https://amzn.to/3SqwsMO'>monk fruit</a>, and cinnamon as called for in note 3, as well as 4 tbsp (20 g) of <a href='/misc/chocolate-benefits'>cocoa powder</a>.
 ---

@@ -57,7 +57,7 @@ Description: Happy New Year!  <a href='/vic'>Vic</a> and I tend to make sugar co
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together the dry ingredients, and set aside - <a href='/misc/grains#white-wheat'>flour</a>, baking powder, and salt
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> or stand mixer, cream together the <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/hidden-sugar'>sugar</a> on high speed until smooth and creamy, about 3 minutes.  Add in the <a href='/misc/meat#eggs'>egg</a>, vanilla extract, and almond extract, and mix on high for another minute to fully combine
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> or stand mixer, cream together the <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/hidden-sugar'>sugar</a> on high speed until smooth and creamy, about 3 minutes.  Add in the <a href='/misc/meat#eggs'>egg</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/4khDgIM'>almond extract</a>, and mix on high for another minute to fully combine
 
 - While mixing on low speed, slowly add the dry mixture to the wet until just fully incorporated
 - <img src='/assets/Misc/Unhealthy/Sugar Cookies/bowl.jpg' alt='' class='instruction-image'>

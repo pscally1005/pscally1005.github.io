@@ -98,7 +98,7 @@ Notes:
 
 - Feel free to use any <a href='/recipes/natural-peanut-butter'>natural nut or seed butter</a> in place of <a href='/misc/nuts#peanuts'>peanut butter</a>.  Good options are <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, or <a href='/misc/seeds#sunflower-seeds'>sunflower butter</a>
 
-- I've used both immitation vanilla and almond extract, but if you use real extracts, you may want to cut the amounts in half
+- I've used both immitation vanilla and <a href='https://amzn.to/4khDgIM'>almond extract</a>, but if you use real extracts, you may want to cut the amounts in half
 
 - To make this into a layer cake, bake the batter in two <a href='https://amzn.to/4mxxkxl'>9" circle cake pans</a> for about 40 minutes, covered with foil. Spread frosting on the middle layer, the top, and down the sides. Dust the top with <a href='/misc/chocolate-benefits'>cocoa powder</a>
 - <img src='/assets/Food/Protein Powder/Chickpea Brownie/chickpea-cake.jpg' alt='' class='instruction-image'>

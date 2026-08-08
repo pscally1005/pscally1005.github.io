@@ -67,7 +67,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F. Line 2 <a href='https://amzn.to/4mxxkxl'>9" circle cake pans</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease</a> them with <a href='/misc/olive-oil'>oil</a>.
 
-- Add the wet ingredients to a bowl, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/meat#egg-whites'>egg whites</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/4mzsH5p'>allulose</a>, and vanilla extract.
+- Add the wet ingredients to a bowl, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/meat#egg-whites'>egg whites</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/4mzsH5p'>allulose</a>, and <a href='https://amzn.to/43MkDqr'>vanilla extract</a>.
 
 - Add in dry ingredients, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, baking soda, and salt.
 - <img src='/assets/Food/Protein Powder/Protein Cake/bowl.jpg' alt='' class='instruction-image'>
@@ -78,7 +78,7 @@ Instructions:
 - Bake at 350F for about 30 minutes, or until the top is set, the edges are browned, a toothpick to the center comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>. Let the cake cool totally in the pan before removing, about 30 minutes.
 - <img src='/assets/Food/Protein Powder/Protein Cake/baked.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together your (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> with <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and vanilla extract to make your <a href='/recipes/protein-frosting'>frosting</a>.
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together your (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> with <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/43MkDqr'>vanilla extract</a> to make your <a href='/recipes/protein-frosting'>frosting</a>.
 - <img src='/assets/Food/Protein Powder/Protein Cake/frosting.jpg' alt='' class='instruction-image'>
 
 - Remove the 2 cakes from their pans. Spread about 1/3 of your <a href='/recipes/protein-frosting'>frosting</a> (~120 g) onto one cake.

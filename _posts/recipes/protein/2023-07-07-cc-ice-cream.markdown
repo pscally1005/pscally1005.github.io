@@ -68,7 +68,7 @@ Instructions:
 
 - Store in the freezer. Let sit out for about 20 minutes to soften before eating
 Notes:
-- <b><a href='/misc/nuts#peanuts'>Peanut Butter</a> Chocolate</b> - 1 tbsp (16 g) <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, 2 tbsp (10 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>, and a dash of almond extract
+- <b><a href='/misc/nuts#peanuts'>Peanut Butter</a> Chocolate</b> - 1 tbsp (16 g) <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, 2 tbsp (10 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>, and a dash of <a href='https://amzn.to/4khDgIM'>almond extract</a>
 
-- <b>Mint Chocolate</b> - 2 drops of mint extract, and 2 tbsp (10 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>
+- <b>Mint Chocolate</b> - 2 drops of <a href='https://amzn.to/4xtISFR'>mint extract</a>, and 2 tbsp (10 g) <a href='/misc/chocolate-benefits'>cocoa powder</a>
 ---

@@ -71,7 +71,7 @@ Instructions:
 
 - Remove from the <a href='https://amzn.to/3FuWETp'>air fryer</a>, and allow them to cool for 5 minutes before removing from the <a href='https://amzn.to/4wPTDC8'>liner</a>.
 
-- Mix together the glaze ingredients in a <a href='https://amzn.to/4adxMft'>small bowl</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, vanilla extract, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.
+- Mix together the glaze ingredients in a <a href='https://amzn.to/4adxMft'>small bowl</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.
 - <img src='/assets/Food/Protein Powder/Donuts/bowl-glaze.jpg' alt='' class='instruction-image'>
 
 - Spread the protein glaze on top of the cooled donuts, about <b>50 g</b> per donut. Only glaze the donuts you want to eat now.  Optionally top with <a href='/misc/nuts#walnuts'>walnuts</a>.

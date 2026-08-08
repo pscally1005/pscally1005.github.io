@@ -58,5 +58,5 @@ Notes:
 
 - To make it lactose free, swap the <a href='/misc/dairy#skim-milk'>milk</a> for <a href='/misc/dairy#almond-milk'>unsweetened almond milk</a>
 
-- You can also make it vanilla by omitting the <a href='/misc/chocolate-benefits'>cocoa powder</a> and adding 1/2 tsp (2.5 g) vanilla extract
+- You can also make it vanilla by omitting the <a href='/misc/chocolate-benefits'>cocoa powder</a> and adding 1/2 tsp (2.5 g) <a href='https://amzn.to/43MkDqr'>vanilla extract</a>
 ---

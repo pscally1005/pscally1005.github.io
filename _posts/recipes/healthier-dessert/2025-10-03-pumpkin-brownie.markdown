@@ -66,7 +66,7 @@ Instructions:
 
 - Bake in a preheated 350F oven for about 25 minutes. A toothpick to the center will come out slightly wet with some crumbs. It should not be clean
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together the remaining <a href='/recipes/pumpkin-puree'>pumpkin puree</a> with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and vanilla extract. Spread on top of the cooled brownies
+- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together the remaining <a href='/recipes/pumpkin-puree'>pumpkin puree</a> with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and <a href='https://amzn.to/43MkDqr'>vanilla extract</a>. Spread on top of the cooled brownies
 - <img src='/assets/Food/Healthier Dessert/Pumpkin Brownies/baked.jpg' alt='' class='instruction-image'>
 
 - Sprinkle <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a> on top of the pumpkin topping. Slice into 24 brownies. Store in the fridge or freezer in an airtight container

@@ -73,7 +73,7 @@ Instructions:
 
 - Separate the <a href='/misc/meat#eggs'>yolks</a> from the <a href='/misc/meat#egg-whites'>whites</a>, and add the <a href='/misc/meat#egg-whites'>egg whites</a> to a large <a href='https://amzn.to/4rb3CiD'>metal bowl</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the <a href='/misc/meat#eggs'>egg yolks</a> with the rest of the cookie layer ingredients using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, almond extract, baking powder, salt, and <a href='/misc/nuts#almonds'>almond flour</a>
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the <a href='/misc/meat#eggs'>egg yolks</a> with the rest of the cookie layer ingredients using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/nuts#cashews'>cashew butter</a>, <a href='https://amzn.to/4khDgIM'>almond extract</a>, baking powder, salt, and <a href='/misc/nuts#almonds'>almond flour</a>
 
 - Beat the <a href='/misc/meat#egg-whites'>egg whites</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until you have stiff peaks, about 3-5 minutes
 - <img src='/assets/Food/Healthier Dessert/Rainbow v3/raw-separate.jpg' alt='' class='instruction-image'>
@@ -125,7 +125,7 @@ Notes:
 
 - To make it <a href='/misc/nuts'>nut</a> free, replace the <a href='/misc/nuts#cashews'>cashew butter</a> with <a href='/misc/seeds#sesame-seeds'>tahini</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, and replace the <a href='/misc/nuts#almonds'>almond flour</a> with <a href='/misc/grains#oats'>oat flour</a>
 
-- If you're using immitation almond extract, you may want to double (or triple) it
+- If you're using immitation <a href='https://amzn.to/4khDgIM'>almond extract</a>, you may want to double (or triple) it
 
 - 1 cup (180 g) of melted <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a> (1/2 cup or 90 g per side) would also work in place of the <a href='/misc/chocolate-percentages'>homemade chocolate</a> with <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>
 

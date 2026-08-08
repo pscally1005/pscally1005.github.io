@@ -155,7 +155,7 @@ Notes:
 - INGREDIENTS(cassatelle)
 - |
   <ol>
-    <li>In a <a href='https://amzn.to/4adxMft'>small bowl</a>, combine together (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> with <a href='https://amzn.to/4mzsH5p'>allulose</a> (or <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>), almond extract, and cinnamon</li><br>
+    <li>In a <a href='https://amzn.to/4adxMft'>small bowl</a>, combine together (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> with <a href='https://amzn.to/4mzsH5p'>allulose</a> (or <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>), <a href='https://amzn.to/4khDgIM'>almond extract</a>, and cinnamon</li><br>
 
     <li>Each cassatella will get about 1 1/2 tbsp (25 g) of filling</li>
   </ol>

@@ -64,7 +64,7 @@ Description: These cinnamon rolls aren't your traditional empty <a href='/misc/c
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together the dry ingredients for the dough - <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, baking powder, cinnamon, and salt
 
-- Add in the wet ingredients (almond extract, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/dairy#yogurt'>yogurt</a>), and mix until fully combined. You may need to use your hands
+- Add in the wet ingredients (<a href='https://amzn.to/4khDgIM'>almond extract</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/dairy#yogurt'>yogurt</a>), and mix until fully combined. You may need to use your hands
 
 - The dough should be slightly sticky. Refrigerate for about 30 minutes to make handling easier
 

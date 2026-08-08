@@ -61,7 +61,7 @@ Notes:
 - |
   Alternatively, you can make this on the stovetop.  Whisk together <a href='https://amzn.to/47w8h7R'>inulin</a>, salt, and water in a <a href='https://amzn.to/46ccg8m'>small pot</a>.  It's okay if it's a little clumpy; this will break down as it cooks.<br><br>
 
-  Bring the pot to a boil over high heat, and let it boil for about 2 minutes with occasional stirring.  Remove from the heat, and mix in vanilla extract and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.
+  Bring the pot to a boil over high heat, and let it boil for about 2 minutes with occasional stirring.  Remove from the heat, and mix in <a href='https://amzn.to/43MkDqr'>vanilla extract</a> and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.
 - <img src='/assets/Food/Sweet Spreads/Inulin syrup/pot.jpg' alt='' class='instruction-image'>
 
 -  You can use this fiber syrup as a 1:1 alternative for <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>, or <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>.

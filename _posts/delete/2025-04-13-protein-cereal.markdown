@@ -69,7 +69,7 @@ Instructions:
 - In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat your <a href='/misc/meat#egg-whites'>egg white</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until soft peaks form
 - <img src='/assets/Food/Breakfast/Protein Cereal/egg-white.jpg' alt='' class='instruction-image'>
 
-- Mix in the rest of the ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, vanilla extract, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, cinnamon, <a href='/misc/dairy#whey'>whey</a>, and <a href='/misc/grains#oats'>rolled oats</a>
+- Mix in the rest of the ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/nuts#peanuts'>peanut butter</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, cinnamon, <a href='/misc/dairy#whey'>whey</a>, and <a href='/misc/grains#oats'>rolled oats</a>
 - <img src='/assets/Food/Breakfast/Protein Cereal/bowl.jpg' alt='' class='instruction-image'>
 
 - Add your raw mix to an <a href='https://amzn.to/43AzcfI'>air fryer liner</a>

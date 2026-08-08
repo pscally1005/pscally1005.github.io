@@ -77,7 +77,7 @@ Notes:
 
 - You may want to chill the dough for 5-10 minutes after mixing in the <a href='/misc/nuts#almonds'>almond flour</a> before folding in the chocolate chips to prevent the <a href='/misc/chocolate-benefits'>chocolate</a> from melting
 
-- The main difference this and <a href='/recipes/chocolate-chip-cookies'>standard cookie dough</a> is that there's a mild cooling effect from the <a href='https://amzn.to/4lkg3Hr'>erythritol</a> in the sweetener.  Do you know what else has a cooling effect?  That's right, mint.  You can very easily "pass off" the cooling taste as mint by adding in 1/4 tsp (1.25 g) mint extract for a mint chocolate chip cookie
+- The main difference this and <a href='/recipes/chocolate-chip-cookies'>standard cookie dough</a> is that there's a mild cooling effect from the <a href='https://amzn.to/4lkg3Hr'>erythritol</a> in the sweetener.  Do you know what else has a cooling effect?  That's right, mint.  You can very easily "pass off" the cooling taste as mint by adding in 1/4 tsp (1.25 g) <a href='https://amzn.to/4xtISFR'>mint extract</a> for a mint chocolate chip cookie
 
 - If you would like to bake these instead, swap the <a href='/misc/dairy#skim-milk'>milk</a> for an <a href='/misc/meat#eggs'>egg</a>, and add 1/2 tsp (3 g) baking soda.  Lightly flatten, and bake for 10 minutes on a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a> at 350F, or until lightly browned
 - <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookies-cover.jpg' alt='' class='instruction-image'>

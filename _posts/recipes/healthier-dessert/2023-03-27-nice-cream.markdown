@@ -74,14 +74,14 @@ Notes:
       <b>Chocolate</b>
       <ul>
         <li>6 tbsp (30 g) Cocoa powder</li>
-        <li>1/2 tsp (2.5 g) Vanilla extract</li>
+        <li>1/2 tsp (2.5 g) <a href='https://amzn.to/43MkDqr'>Vanilla extract</a></li>
       </ul>
     </li>
 
     <li>
       <b>Vanilla</b>
       <ul>
-        <li>1 tsp (5 g) Vanilla extract</li>
+        <li>1 tsp (5 g) <a href='https://amzn.to/43MkDqr'>Vanilla extract</a></li>
       </ul>
     </li>
 
@@ -95,7 +95,7 @@ Notes:
     <li>
         <b>Mint</b>
       <ul>
-        <li>1/4 tsp (1.25 g) Mint extract</li>
+        <li>1/4 tsp (1.25 g) <a href='https://amzn.to/4xtISFR'>Mint extract</a></li>
       </ul>
     </li>
 
@@ -111,7 +111,7 @@ Notes:
       <b>Almond</b>
         <ul>
           <li>2 tbsp (32 g) <a href='/misc/nuts#almonds'>Almond butter</a></li>
-          <li>1/2 tsp (2.5 g) Almond extract</li>
+          <li>1/2 tsp (2.5 g) <a href='https://amzn.to/4khDgIM'>Almond extract</a></li>
         </ul>
     </li>
 
