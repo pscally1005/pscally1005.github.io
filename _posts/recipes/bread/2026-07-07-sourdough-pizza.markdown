@@ -36,10 +36,10 @@ section5:
 Prep: 60
 Rest: 1440
 Cook: 7
-Source1:
-Source2:
-Source3:
-Source4:
+Source1: https://www.poormanprotein.com/misc/whole-wheat-sourdough
+Source2: https://www.poormanprotein.com/recipes/pizza
+Source3: https://www.poormanprotein.com/recipes/sourdough-flatbread
+Source4: https://www.youtube.com/watch?v=9TjUWnAK0cg
 Source5:
 whisk: https://s.samsungfood.com/3INT7
 tags:
@@ -65,22 +65,22 @@ Description: |
 
   This pizza dough uses leftover <a href='/misc/whole-wheat-sourdough#starter'>sourdough starter</a> plus salt and <a href='/misc/grains#whole-wheat'>whole wheat flour</a> to make a delicious pizza dough with tons of flavor.  To see what I do when I need to use up just 1 day's worth of discard, check out my <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbread</a>!
 Instructions:
-- Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, combine together <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, salt, yeast, water, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. The dough will be very sticky
+- Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, combine together <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, salt, yeast, water, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. The dough will be very sticky.
 
-- Knead/massage the dough for about 10 minutes by working it with your hand around in the bowl, squeezing it through your fingers, until the dough looks more elastic and less sticky. It will still be very sticky though, just less so
+- Knead/massage the dough for about 10 minutes by working it with your hand around in the bowl, squeezing it through your fingers, until the dough looks more elastic and less sticky. It will still be very sticky though, just less so.
 
 - Cover with a plate or towel, and let rest in the microwave for 1 hour. It will have grown slightly, but not nearly doubled in size.
 - <img src='/assets/Food/Bread/Sourdough Pizza/bowl.jpg' alt='' class='instruction-image'>
 
-- <a href='https://amzn.to/3Hdg0gk'>Lightly oil</a> the bottom of a <a href='https://amzn.to/4aiCsjh'>9x13" casserole dish</a>. Divide the dough into 8 personal pizza doughs, about 100 g each, and add to the pan. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the tops with <a href='/misc/olive-oil'>oil</a>. Cover with a lid, and refrigerate for at least 24 hours, and up to 1 week
+- <a href='https://amzn.to/3Hdg0gk'>Lightly oil</a> the bottom of a <a href='https://amzn.to/4aiCsjh'>9x13" casserole dish</a>. Divide the dough into 8 personal pizza doughs, about 100 g each, and add to the pan. <a href='https://amzn.to/3Hdg0gk'>Spray</a> the tops with <a href='/misc/olive-oil'>oil</a>. Cover with a lid, and refrigerate for at least 24 hours, and up to 1 week.
 - <img src='/assets/Food/Bread/Sourdough Pizza/doughs.jpg' alt='' class='instruction-image'>
 
-- When it's time to make pizza, preheat your oven on its hottest temperature (500F or 550F) for at least 1 hour with a <a href='https://amzn.to/4ccXgLm'>baking stone</a> in the oven. Evenly spread your dough into a round and thin circle on top of a piece of parchment paper. Top with <a href='/recipes/pasta-sauce'>sauce</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and any other desired toppings.
+- When it's time to make pizza, preheat your oven on its hottest temperature (500F or 550F) for at least 1 hour with a <a href='https://amzn.to/4ccXgLm'>baking stone</a> in the oven.  Let the dough come up to room temperature as the oven heats up. Evenly spread your dough into a round and thin circle on top of a piece of parchment paper. Top with <a href='/recipes/pasta-sauce'>sauce</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and any other desired toppings.
 - <img src='/assets/Food/Bread/Sourdough Pizza/raw.jpg' alt='' class='instruction-image'>
 
 - Bake for about 7 minutes (on the parchment paper), or until the crust is solid and browned and the cheese is melted. Let rest for 5 minutes before cutting and serving.
 Notes:
-- At a 75% hydration rate, this pizza dough is very sticky.  <a href='https://amzn.to/414BfHP'>Kitchen gloves</a> are required to handle this dough, both for kneading it and for shaping into your individual pizzas
+- At a 75% hydration rate, this pizza dough is very sticky.  <a href='https://amzn.to/414BfHP'>Kitchen gloves</a> are required to handle this dough, both for kneading it and for shaping into your individual pizzas.
 
 - |
   <div id='topped' class='table-of-contents-2'></div>
@@ -100,5 +100,20 @@ Notes:
     "Fiber"
   )
 
-- You can freeze any leftover raw pizza dough.  After letting the dough rest in the fridge for at least 24 hours, add each dough ball to their own individual airtight bag, and store in the freezer indefinitely
+- |
+  You can also make this a skillet pizza using a cast iron pan.  This method is faster, as it doesn't require you to heat up the oven at 550F for an hour with a pizza stone.<br><br>
+
+  Preheat your broiler on high, which only takes a few minutes.  Add a small spray of oil to the cold cast iron pan.  Add a small amount of seasonings to the oil, such as salt, red pepper flakes, and dried basil.  Rub the seasoned oil around the bottom and sides of the pan.<br><br>
+
+  Add your dough to the pan and shape it to all sides.  Add the pan to the stove over medium heat.  Cook for about 5 minutes, or until the bottom starts to look and smell browned and the top begins to bubble.  You can check the bottom for doneness by lifting up the bottom with a metal spatula.<br><br>
+
+  Remove from the heat, and top with your sauce, cheese, and any other desired toppings.  Here, I'm using my Simple Pasta Sauce with feta cheese, olives, and roasted eggplant.<br><br>
+
+  Transfer the cast iron to the oven on the top rack, and broil for about 2-4 minutes, or until the cheese is melty and bubbly.  Watch it carefully; it can burn quickly under the broiler.<br><br>
+
+  Remove the pan from the oven, and let the pizza rest in the pan for 5 minutes.  Run a butter knife around the edges, and then remove the pizza from the pan using a metal spatula or metal tongs.
+- <img src='/assets/Food/Bread/Sourdough Pizza/ci-stove.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Bread/Sourdough Pizza/ci-baked.jpg' alt='' class='instruction-image'>
+
+- You can freeze any leftover raw pizza dough.  After letting the dough rest in the fridge for at least 24 hours, add each dough ball to their own individual airtight bag, and store in the freezer indefinitely.
 ---

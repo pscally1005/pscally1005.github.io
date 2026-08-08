@@ -166,7 +166,10 @@ LINKS = {
     "/recipes/sourdough-pizza-dough": [
         "sourdough pizza dough",
         "sourdough pizza crust",
-        "sourdough pizza"
+        "sourdough pizza",
+        "cast iron pizza",
+        "cast iron skillet pizza",
+        "skillet pizza"
     ],
     "/recipes/cottage-cheese-pizza-bowls": [
         "high protein cottage cheese pizza bowl",
