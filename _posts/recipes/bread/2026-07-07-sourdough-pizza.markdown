@@ -85,17 +85,17 @@ Notes:
 - You can freeze any leftover raw pizza dough.  After letting the dough rest in the fridge for at least 24 hours, add each dough ball to their own individual airtight bag, and store in the freezer indefinitely.
 
 - |
-  You can also make this a skillet pizza using a cast iron pan.  This method is faster, as it doesn't require you to heat up the oven at 550F for an hour with a pizza stone.<br><br>
+  You can also make this a skillet pizza using a <a href='https://amzn.to/465aAxx'>cast iron pan</a>.  This method is faster, as it doesn't require you to heat up the oven at 550F for an hour with a <a href='https://amzn.to/4ccXgLm'>pizza stone</a>.<br><br>
 
-  Preheat your broiler on high, which only takes a few minutes.  Add a small spray of oil to the cold cast iron pan.  Add a small amount of seasonings to the oil, such as salt, red pepper flakes, and dried basil.  Rub the seasoned oil around the bottom and sides of the pan.<br><br>
+  Preheat your broiler on high, which only takes a few minutes.  Add a small <a href='https://amzn.to/3Hdg0gk'>spray of oil</a> to the cold <a href='https://amzn.to/465aAxx'>cast iron pan</a>.  Add a small amount of seasonings to the <a href='/misc/olive-oil'>oil</a>, such as salt, red pepper flakes, and dried basil.  Rub the seasoned <a href='/misc/olive-oil'>oil</a> around the bottom and sides of the pan.<br><br>
 
-  Add your dough to the pan and shape it to all sides.  Add the pan to the stove over medium heat.  Cook for about 5 minutes, or until the bottom starts to look and smell browned and the top begins to bubble.  You can check the bottom for doneness by lifting up the bottom with a metal spatula.<br><br>
+  Add your dough to the pan and shape it to all sides.  Add the pan to the stove over medium heat.  Cook for about 5 minutes, or until the bottom starts to look and smell browned, and the top begins to bubble.  You can check the bottom for doneness by lifting up the bottom with a <a href='https://amzn.to/4raSjqy'>metal spatula</a>.<br><br>
 
-  Remove from the heat, and top with your sauce, cheese, and any other desired toppings.  Here, I'm using my Simple Pasta Sauce with feta cheese, olives, and roasted eggplant.<br><br>
+  Remove from the heat, and top with your <a href='/recipes/pasta-sauce'>sauce</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, and any other desired toppings.  Here, I'm using my <a href='/recipes/pasta-sauce'>Simple Pasta Sauce</a> with <a href='/misc/dairy#feta'>feta cheese</a>, <a href='/misc/fruit#olives'>olives</a>, and roasted <a href='/misc/veggies#eggplant'>eggplant</a>.<br><br>
 
-  Transfer the cast iron to the oven on the top rack, and broil for about 2-4 minutes, or until the cheese is melty and bubbly.  Watch it carefully; it can burn quickly under the broiler.<br><br>
+  Transfer the <a href='https://amzn.to/465aAxx'>cast iron</a> to the oven on the top rack, and broil for about 2-4 minutes, or until the <a href='/misc/dairy#mozzarella'>cheese</a> is melty and bubbly.  Watch it carefully; it can burn quickly under the broiler.<br><br>
 
-  Remove the pan from the oven, and let the pizza rest in the pan for 5 minutes.  Run a butter knife around the edges, and then remove the pizza from the pan using a metal spatula or metal tongs.
+  Remove the pan from the oven, and let the pizza rest in the pan for 5 minutes.  Run a butter knife around the edges, and then remove the pizza from the pan using a <a href='https://amzn.to/4raSjqy'>metal spatula</a> or <a href='https://amzn.to/4w9zEO1'>metal tongs</a>.
 - <img src='/assets/Food/Bread/Sourdough Pizza/ci-stove.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Bread/Sourdough Pizza/ci-baked.jpg' alt='' class='instruction-image'>
 

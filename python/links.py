@@ -5799,6 +5799,16 @@ LINKS = {
         "silicone spatula",
         "spatula"
     ],
+    "https://amzn.to/4xxgT8z": [
+        "silicone tongs",
+        "silicone tong",
+        "tongs",
+        "tong"
+    ],
+    "https://amzn.to/4w9zEO1": [
+        "metal tongs",
+        "metal tong"
+    ],
     "https://amzn.to/44XmqKz": [
         "dough scraper"
     ],
@@ -6131,7 +6141,17 @@ LINKS = {
         "10\" cast iron pan",
         "10\" cast iron",
         "cast iron pan",
-        "cast iron"
+        "cast iron",
+        "10\" cast iron skillet",
+        "cast iron skillet",
+        "10\" cast iron frying pan",
+        "cast iron frying pan",
+        "10\" cast iron fry pan",
+        "cast iron fry pan",
+        "cast-iron",
+        "10\" cast-iron pan",
+        "10\" cast-iron",
+        "cast-iron pan",
     ],
     "https://amzn.to/4dBv5Ga": [
         "10\" nonstick pans",
@@ -8584,8 +8604,8 @@ EXCLUDED_PHRASES = [
     "side effect",
     "corn starch",
     "cornstarch",
-    "cast iron",
-    "cast-iron",
+    # "cast iron",
+    # "cast-iron",
     "non dairy",
     "non-dairy",
     "all sides",
