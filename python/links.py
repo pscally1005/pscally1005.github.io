@@ -166,7 +166,9 @@ LINKS = {
     "/recipes/sourdough-pizza-dough": [
         "sourdough pizza dough",
         "sourdough pizza crust",
-        "sourdough pizza",
+        "sourdough pizza"
+    ],
+    "/recipes/sourdough-pizza-dough#skillet": [
         "cast iron pizza",
         "cast iron skillet pizza",
         "skillet pizza"
