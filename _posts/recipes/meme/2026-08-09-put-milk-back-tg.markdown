@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  '"Put the Milk Back Together" Beans'
-date:   2026-08-05 00:00:00 -0500
+date:   2026-08-09 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

@@ -92,6 +92,7 @@
             {% assign white_list = site.data.whitelist.white_list %}
 
             {% for section in site.data.whitelist.sections %}
+
                 tableContent += '<tr><th colspan="4" style="padding-top:16px; padding-bottom:16px; text-align:left; font-size:1.1em; border-top:3px double black; border-bottom:1px solid black;">{{ section.name }}</th></tr>';
 
                 {% for nutrient_entry in section.nutrients %}
@@ -113,59 +114,72 @@
                             tableContent += '<td style="padding-left:{{ indent_level | times: 1.5 }}em;">{{ display_name }}</td>';
 
                             {% if nutrient_entry.key == "Net carbs" %}
-                                tableContent += '<td>{{ netCarbNum | round: 2 }}</td>';
+                                tableContent += '<td>' + Number({{ netCarbNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td></td>';
+
                             {% elsif nutrient_entry.key == "Added Sugar" %}
-                                tableContent += '<td>{{ addedSugarNum | round: 2 }}</td>';
+                                tableContent += '<td>' + Number({{ addedSugarNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
-                                tableContent += '<td>{{ addedSugarPercentage }}</td>'
+                                tableContent += '<td>{{ addedSugarPercentage }}</td>';
+
                             {% elsif nutrient_entry.key == "Sugar Alcohols" %}
-                                tableContent += '<td>{{ sugarAlcoholNum | round: 2 }}</td>';
+                                tableContent += '<td>' + Number({{ sugarAlcoholNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td></td>';
+
                             {% elsif nutrient_entry.key == "Allulose" %}
-                                tableContent += '<td>{{ alluloseNum | round: 2 }}</td>';
+                                tableContent += '<td>' + Number({{ alluloseNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
                                 tableContent += '<td></td>';
+
                             {% elsif nutrient_entry.key == "Lactose" %}
-                                tableContent += '<td>{{ lactoseNum | round: 2 }}</td>';
+                                tableContent += '<td>' + Number({{ lactoseNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>g</td>';
-                                tableContent += '<td></td>'
-                            {% elsif nutrient_entry.key == "Soluble Fiber" %}
-                                tableContent += '<td>{{ solubleFiberNum | round: 2 }}</td>';
-                                tableContent += '<td>g</td>';
-                                tableContent += '<td></td>'
-                            {% elsif nutrient_entry.key == "Insoluble Fiber" %}
-                                tableContent += '<td>{{ insolubleFiberNum | round: 2 }}</td>';
-                                tableContent += '<td>g</td>';
-                                tableContent += '<td></td>'
-                            {% elsif nutrient_entry.key == "Gluten" %}
-                                tableContent += '<td>{{ glutenNum | round: 2 }}</td>';
-                                tableContent += '<td>g</td>';
-                                tableContent += '<td>{{ glutenPercentage }}</td>'
-                            {% elsif nutrient_entry.key == "Caffeine" %}
-                                tableContent += '<td>{{ caffeineNum | round: 1 }}</td>';
-                                tableContent += '<td>g</td>';
-                                tableContent += '<td>{{ caffeinePercentage }}</td>'
-                            {% elsif nutrient_entry.key == "Protein Ratio" %}
-                                tableContent += '<td>{{ protRatioNum | round: 3 }}</td>';
                                 tableContent += '<td></td>';
-                                tableContent += '<td></td>'
+
+                            {% elsif nutrient_entry.key == "Soluble Fiber" %}
+                                tableContent += '<td>' + Number({{ solubleFiberNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>';
+
+                            {% elsif nutrient_entry.key == "Insoluble Fiber" %}
+                                tableContent += '<td>' + Number({{ insolubleFiberNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td></td>';
+
+                            {% elsif nutrient_entry.key == "Gluten" %}
+                                tableContent += '<td>' + Number({{ glutenNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td>{{ glutenPercentage }}</td>';
+
+                            {% elsif nutrient_entry.key == "Caffeine" %}
+                                tableContent += '<td>' + Number({{ caffeineNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
+                                tableContent += '<td>g</td>';
+                                tableContent += '<td>{{ caffeinePercentage }}</td>';
+
+                            {% elsif nutrient_entry.key == "Protein Ratio" %}
+                                tableContent += '<td>' + Number({{ protRatioNum }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
+                                tableContent += '<td></td>';
+                                tableContent += '<td></td>';
+
                             {% elsif nutrient_entry.key == "Glycemic Index" %}
                                 tableContent += '<td>{{ gi_clean }}</td>';
                                 tableContent += '<td></td>';
-                                tableContent += '<td></td>'
+                                tableContent += '<td></td>';
+
                             {% elsif nutrient_entry.key == "Glycemic Load" %}
                                 tableContent += '<td>{{ gl_clean }}</td>';
                                 tableContent += '<td></td>';
-                                tableContent += '<td></td>'
+                                tableContent += '<td></td>';
+
                             {% elsif nutrient_entry.key == "Nutrition Score" %}
                                 tableContent += '<td>{{ nutritionScore_clean }}</td>';
                                 tableContent += '<td></td>';
-                                tableContent += '<td></td>'
+                                tableContent += '<td></td>';
+
                             {% else %}
-                                tableContent += '<td>{{ row.Amount }}</td>';
+                                tableContent += '<td>' + Number({{ row.Amount }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>{{ row.Unit }}</td>';
                                 tableContent += '<td>{{ row.DV }}</td>';
                             {% endif %}

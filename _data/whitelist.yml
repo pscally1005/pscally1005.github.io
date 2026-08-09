@@ -1,96 +1,157 @@
 sections:
-  - name: Vitamins
-    nutrients:
-      - key: Vitamin A, RAE
-        display: Vitamin A
-      - key: Thiamin [Vitamin B1]
-        display: Vitamin B1<br>(Thiamin)
-      - key: Riboflavin [Vitamin B2]
-        display: Vitamin B2<br>(Riboflavin)
-      - key: Niacin [Vitamin B3]
-        display: Vitamin B3<br>(Niacin)
-      - key: Pantothenic acid [Vitamin B5]
-        display: Vitamin B5<br>(Pantothenic Acid)
-      - key: Vitamin B6
-        display: Vitamin B6<br>(Pyridoxine)
-      - key: Folate, DFE [Vitamin B9]
-        display: Vitamin B9<br>(Folate)
-      - key: Vitamin B12 [Cobalamin]
-        display: Vitamin B12<br>(Cobalamin)
-      - key: Vitamin C [Ascorbic acid]
-        display: Vitamin C
-      - key: Vitamin D
-      - key: Vitamin E (alpha-tocopherol)
-        display: Vitamin E
-      - key: Vitamin K
-      - key: Choline
-  - name: Minerals
-    nutrients:
-      - key: Calcium
-      - key: Copper
-      - key: Iron
-      - key: Magnesium
-      - key: Manganese
-      - key: Phosphorus
-      - key: Potassium
-      - key: Sodium
-      - key: Selenium
-      - key: Zinc
-  - name: Proteins
-    nutrients:
-      - key: Protein
-      - key: Gluten
-        indent: true
-      - key: Protein Ratio
-  - name: Carbs
-    nutrients:
-      - key: Carbohydrate
-        display: Total Carbs
-      - key: Fiber
-        indent: true
-      - key: Soluble Fiber
-        indent: true
-      - key: Insoluble Fiber
-        indent: true
-      - key: Net carbs
-        display: Net Carbs
-        indent: true
-      - key: Sugars
-        display: Total Sugar
-        indent: true
-      - key: Added Sugar
-        indent: true
-      - key: Sugar Alcohols
-        indent: true
-      - key: Allulose
-        indent: true
-      - key: Lactose
-        indent: true
-  - name: Fats
-    nutrients:
-      - key: Fat
-        display: Total Fat
-      - key: Saturated fatty acids
-        display: Saturated Fat
-        indent: true
-      - key: Monounsaturated fatty acids
-        display: Monounsaturated Fat
-        indent: true
-      - key: Polyunsaturated fatty acids
-        display: Polyunsaturated Fat
-        indent: true
-      - key: Eicosapentaenoic n-3 acid (EPA)
-        display: EPA
-        indent: true
-      - key: Docosahexaenoic n-3 acid (DHA)
-        display: DHA
-        indent: true
-  - name: Other
-    nutrients:
-      - key: Cholesterol
-      - key: Alcohol, ethyl
-        display: Alcohol
-      - key: Caffeine
-      - key: Glycemic Index
-      - key: Glycemic Load
-      - key: Nutrition Score
+
+- name: Vitamins
+  nutrients:
+  - key: Vitamin A, RAE
+    display: Vitamin A
+    decimals: 2
+  - key: Thiamin [Vitamin B1]
+    display: Vitamin B1<br>(Thiamin)
+    decimals: 3
+  - key: Riboflavin [Vitamin B2]
+    display: Vitamin B2<br>(Riboflavin)
+    decimals: 3
+  - key: Niacin [Vitamin B3]
+    display: Vitamin B3<br>(Niacin)
+    decimals: 3
+  - key: Pantothenic acid [Vitamin B5]
+    display: Vitamin B5<br>(Pantothenic Acid)
+    decimals: 3
+  - key: Vitamin B6
+    display: Vitamin B6<br>(Pyridoxine)
+    decimals: 3
+  - key: Folate, DFE [Vitamin B9]
+    display: Vitamin B9<br>(Folate)
+    decimals: 2
+  - key: Vitamin B12 [Cobalamin]
+    display: Vitamin B12<br>(Cobalamin)
+    decimals: 2
+  - key: Vitamin C [Ascorbic acid]
+    display: Vitamin C
+    decimals: 1
+  - key: Vitamin D
+    decimals: 2
+  - key: Vitamin E (alpha-tocopherol)
+    display: Vitamin E
+    decimals: 2
+  - key: Vitamin K
+    decimals: 1
+  - key: Choline
+    decimals: 1
+
+- name: Minerals
+  nutrients:
+  - key: Calcium
+    decimals: 2
+  - key: Copper
+    decimals: 2
+  - key: Iron
+    decimals: 1
+  - key: Magnesium
+    decimals: 2
+  - key: Manganese
+    decimals: 3
+  - key: Phosphorus
+    decimals: 2
+  - key: Potassium
+    decimals: 2
+  - key: Selenium
+    decimals: 2
+  - key: Sodium
+    decimals: 2
+  - key: Zinc
+    decimals: 2
+
+- name: Proteins
+  nutrients:
+  - key: Protein
+    decimals: 2
+  - key: Gluten
+    indent: true
+    decimals: 2
+  - key: Protein Ratio
+    display: Protein Ratio<br>(Protein/Calories)
+    decimals: 3
+
+- name: Carbs
+  nutrients:
+  - key: Carbohydrate
+    display: Total Carbs
+    decimals: 2
+  - key: Fiber
+    indent: true
+    decimals: 2
+  - key: Soluble Fiber
+    indent: true
+    decimals: 2
+  - key: Insoluble Fiber
+    indent: true
+    decimals: 2
+  - key: Net carbs
+    display: Net Carbs
+    indent: true
+    decimals: 2
+  - key: Sugars
+    display: Total Sugar
+    indent: true
+    decimals: 2
+  - key: Added Sugar
+    indent: true
+    decimals: 2
+  - key: Sugar Alcohols
+    indent: true
+    decimals: 2
+  - key: Allulose
+    indent: true
+    decimals: 2
+  - key: Lactose
+    indent: true
+    decimals: 2
+
+- name: Fats
+  nutrients:
+  - key: Fat
+    display: Total Fat
+    decimals: 3
+  - key: Saturated fatty acids
+    display: Saturated Fat
+    indent: true
+    decimals: 3
+  - key: Monounsaturated fatty acids
+    display: Monounsaturated Fat
+    indent: true
+    decimals: 3
+  - key: Polyunsaturated fatty acids
+    display: Polyunsaturated Fat
+    indent: true
+    decimals: 3
+  - key: Docosahexaenoic n-3 acid (DHA)
+    display: DHA
+    indent: true
+    decimals: 3
+  - key: Docosapentaenoic n-3 acid (DPA)
+    display: DPA
+    indent: true
+    decimals: 3
+  - key: Eicosapentaenoic n-3 acid (EPA)
+    display: EPA
+    indent: true
+    decimals: 3
+
+- name: Other
+  nutrients:
+  - key: Calories
+    decimals: 0
+  - key: Cholesterol
+    decimals: 2
+  - key: Alcohol, ethyl
+    display: Alcohol
+    decimals: 1
+  - key: Caffeine
+    decimals: 2
+  - key: Glycemic Index
+    decimals: 1
+  - key: Glycemic Load
+    decimals: 1
+  - key: Nutrition Score
+    decimals: 1
