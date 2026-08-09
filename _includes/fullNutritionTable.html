@@ -178,6 +178,20 @@
                                 tableContent += '<td></td>';
                                 tableContent += '<td></td>';
 
+                            {% elsif nutrient_entry.key == "Methionine" %}
+                                {% assign methionine_row = site.data[facts] | where: "Nutrient", "Methionine" | first %}
+                                {% assign methionine_cysteine_row = site.data[facts] | where: "Nutrient", "Methionine + Cysteine" | first %}
+                                tableContent += '<td>' + Number({{ methionine_row.Amount }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
+                                tableContent += '<td>{{ methionine_row.Unit }}</td>';
+                                tableContent += '<td>{{ methionine_cysteine_row.DV }}</td>';
+
+                            {% elsif nutrient_entry.key == "Phenylalanine" %}
+                                {% assign phenylalanine_row = site.data[facts] | where: "Nutrient", "Phenylalanine" | first %}
+                                {% assign phenylalanine_tyrosine_row = site.data[facts] | where: "Nutrient", "Phenylalanine + Tyrosine" | first %}
+                                tableContent += '<td>' + Number({{ phenylalanine_row.Amount }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
+                                tableContent += '<td>{{ phenylalanine_row.Unit }}</td>';
+                                tableContent += '<td>{{ phenylalanine_tyrosine_row.DV }}</td>';
+
                             {% else %}
                                 tableContent += '<td>' + Number({{ row.Amount }}).toFixed({{ nutrient_entry.decimals }}) + '</td>';
                                 tableContent += '<td>{{ row.Unit }}</td>';

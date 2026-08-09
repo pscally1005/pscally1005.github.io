@@ -72,6 +72,33 @@ sections:
   - key: Protein Ratio
     display: Protein Ratio<br>(Protein/Calories)
     decimals: 3
+  - key: Histidine
+    indent: true
+    decimals: 3
+  - key: Isoleucine
+    indent: true
+    decimals: 3
+  - key: Leucine
+    indent: true
+    decimals: 3
+  - key: Lysine
+    indent: true
+    decimals: 3
+  - key: Methionine
+    indent: true
+    decimals: 3
+  - key: Phenylalanine
+    indent: true
+    decimals: 3
+  - key: Threonine
+    indent: true
+    decimals: 3
+  - key: Tryptophan
+    indent: true
+    decimals: 3
+  - key: Valine
+    indent: true
+    decimals: 3
 
 - name: Carbs
   nutrients:
