@@ -10,6 +10,20 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/monk-fruit-cookies": [
+        "granulated monk fruit cookies",
+        "granulated monk fruit cookie",
+        "granulated monkfruit cookies",
+        "granulated monkfruit cookie",
+        "monk fruit cookies",
+        "monk fruit cookie",
+        "monkfruit cookies",
+        "monkfruit cookie"
+    ],
+    "/recipes/syrup-cookies": [
+        "sugar free syrup cookies",
+        "sugar free syrup cookie"
+    ],
     "/recipes/cannoli-dip": [
         "cannoli dip",
         "cannoli",
