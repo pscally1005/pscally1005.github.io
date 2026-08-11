@@ -89,7 +89,7 @@ Notes:
 
 - |
   <ol start="1">
-    <li>Preheat your broiler on high, which only takes a few minutes.  Add a small <a href='https://amzn.to/3Hdg0gk'>spray of oil</a> to the cold <a href='https://amzn.to/465aAxx'>cast iron pan</a>.  Add a small amount of seasonings to the <a href='/misc/olive-oil'>oil</a>, such as salt, red pepper flakes, and dried basil.  Rub the seasoned <a href='/misc/olive-oil'>oil</a> around the bottom and sides of the pan.  Add your dough to the pan and shape it into a rough, thin circle.</li><br>
+    <li>Preheat your broiler on high, which only takes a few minutes.  Add a small <a href='https://amzn.to/3Hdg0gk'>spray of oil</a> to the cold <a href='https://amzn.to/465aAxx'>cast iron pan</a>.  Add a small amount of seasonings to the <a href='/misc/olive-oil'>oil</a>, such as salt, red pepper flakes, and dried basil.  Rub the seasoned <a href='/misc/olive-oil'>oil</a> around the bottom of the pan.  Add your dough to the pan and shape it into a rough, thin circle.</li><br>
   </ol>
 - <img src='/assets/Food/Bread/Sourdough Pizza/CI/raw.jpg' alt='' class='instruction-image'><br>
 

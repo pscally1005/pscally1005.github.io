@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Granulated Monkfruit Cookies
-date:   2023-07-12 00:00:00 -0500
+title:  Granulated Monkfruit Cookies
+date:   2026-08-11 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
+- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -36,7 +37,7 @@ section5:
 Prep: 10
 Rest: 30
 Cook: 8
-Source1:
+Source1: https://poormanprotein.com/recipes/syrup-cookies
 Source2:
 Source3:
 Source4:
@@ -70,7 +71,7 @@ Description: |
 
   Feel free to mix up the mix-ins as well. The <a href='/cookies'>cookies</a> pictured here are a half and half blend of <a href='/misc/grains#oats'>oat</a> and <a href='/misc/nuts#almonds'>almond flour</a>, with some dark chocolate chips.<br><br>
 
-  The possibilities are endless.  If you have <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> instead, check out my <a href='/recipes/syrup-cookies'>Sugar Free Syrup Cookies</a>, or use <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> in my <a href='/recipes/oatmeal-chocolate-cookies'>Oatmeal Chocolate Chip Cookies</a>.  You can also check out any of my other <a href='/cookie'>cookie recipes</a>!
+  The possibilities are endless.  If you have <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> instead, check out my <a href='/recipes/syrup-cookies'>Sugar Free Syrup Cookies</a>, or use <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> in my <a href='/recipes/oatmeal-chocolate-cookies'>Oatmeal Chocolate Chip Cookies</a>.  You can also check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - Combine the base ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (or any other <a href='https://amzn.to/4mzsH5p'>granular sweetener</a>), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, baking soda, and salt.
 
@@ -83,7 +84,7 @@ Instructions:
 
 - Bake at 350F for about 8 minutes, or until lightly golden brown.  Let the <a href='/cookies'>cookies</a> cool on the pan for 5 minutes, then transfer to a <a href='https://amzn.to/4qQNmn2'>cooling rack</a>.
 Notes:
-- <b>Chocolate Chip</b> - <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (1 cup, 120 g), and chopped <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate</a> (1/4 cup, 45 g).
+- <b>Chocolate Chunk</b> - <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (1 cup, 120 g), and chopped <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate</a> (1/4 cup, 45 g).
 
 - <b>Oatmeal Raisin</b> - cinnamon (1/2 tsp, 1.5 g), <a href='/misc/grains#oats'>oat flour</a> (1 1/3 cup, 120 g), and <a href='/misc/fruit#raisins'>raisins</a> (1/4 cup, 40 g).
 

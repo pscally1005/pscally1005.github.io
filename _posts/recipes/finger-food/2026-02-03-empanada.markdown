@@ -48,7 +48,10 @@ tags:
 - polish
 - mexican
 - empanada
+- empanadas
 - pierogi
+- pierogis
+- pierogo
 - shredded mozzarella cheese
 - low moisture
 - part skim
@@ -58,6 +61,18 @@ tags:
 - ground turkey
 - mashed potatoes
 - sweet potatoes
+- sweet potato pierogi
+- spinach hand pies
+- spinach feta
+- spinach pie
+- spinach and feta hand pies
+- sicilian cassatelle
+- cassatelles
+- cassatella
+- nonfat cottage cheese
+- allulose
+- gluten free
+- gluten-free
 Description: |
   Instead of <a href='/misc/grains#white-wheat'>refined white flour</a>, this dough uses <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/dairy#mozzarella'>mozzarella cheese</a> for a <a href='/misc/carbs'>low carb</a> and <a href='/misc/fats'>high fat</a> dough.  It's also multi-purpose, as I'm using this dough recipe to make <a href='#empanada'>Ground Beef Empanadas</a>, <a href='#pierogi'>Sweet Potato Pierogi</a>, <a href='#spinach-pie'>Spinach and Feta Hand Pies</a>, and <a href='#cassatelle'>Sicilian Cassatelle</a>.  Check out the <a href='#table'>table below</a> for a nutrition facts comparison of the 3 versions versus the <a href='#recipe'>standard dough</a>.<br><br>
 
