@@ -63,7 +63,7 @@ Description: |
 
   Feel free to mix up the flours (<a href='/misc/grains#whole-wheat'>whole wheat</a>, <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/grains#oats'>oat flour</a>, etc.) or the mix-ins (chocolate chips, chopped <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#raisins'>raisins</a>, etc.).<br><br>
 
-  Also see my <a href='/recipes/oatmeal-chocolate-cookies'>Oatmeal Chocolate Chip Cookies</a>, or if you have <a href='https://amzn.to/4ceFnvP'>granular sweetener</a>, make my <a href='/recipes/monk-fruit-cookies'>Granulated Monk Fruit Cookies</a>.  You can also check out any of my other <a href='/cookie'>cookie recipes</a>!
+  Also see my <a href='/recipes/oatmeal-chocolate-cookies'>Oatmeal Chocolate Chip Cookies</a>, or if you have <a href='https://amzn.to/4ceFnvP'>granular sweetener</a>, make my <a href='/recipes/monk-fruit-cookies'>Granulated Monk Fruit Cookies</a>.  You can also check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
 - In a bowl, mix together the base ingredients - <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or any other <a href='/misc/natural-sweeteners#maple-syrup'>liquid sweetener</a>), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, baking soda, and salt.
 

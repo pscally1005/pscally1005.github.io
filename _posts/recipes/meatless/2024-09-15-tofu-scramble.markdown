@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Vegan Tofu Scramble
-date:   2024-09-15 00:00:00 -0500
+date:   2026-08-12 00:00:00 -0500
 categories:
 - Recipes
 - Meatless
@@ -66,4 +66,41 @@ Instructions:
 - Cook uncovered until most of the water has evaporated and the <a href='/misc/beans#tofu'>tofu</a> has started to brown. Mix in <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and serve
 - <img src='/assets/Food/Meatless/Tofu Scramble/tofu-seasoned.jpg' alt='' class='instruction-image'>
 Notes:
+- Below is a nutritional comparison of raw tofu versus raw eggs, controlled for 100 calories.  100 calories of raw tofu is approximately <b>131 g</b> (~4.5 oz), whereas 100 calories of raw egg is about <b>67 g</b> (1 1/3 egg).  As you can see, tofu is higher in protein and calcium, whereas eggs are higher in vitamin B12 and choline.
+- |
+  COMPARE(
+    "tofu100cal",
+    "eggs100cal";
+
+    "<a href='#recipe'>Homemade</a>",
+    "<a href='https://amzn.to/48ZvAra'>Storebought</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Vitamin B12",
+    "Choline",
+    "Calcium"
+  )
+
+- Here's a potentially more useful comparison:<b></b> 1 serving of the <a href='#recipe'>tofu scramble</a> versus 2 large eggs.  The <a href='#recipe'>tofu scramble</a> actually has more vitamin B12 per serving than 2 eggs, mainly aided by the nutritional yeast.
+- |
+  COMPARE(
+    "tofuscramble",
+    "twoeggs";
+
+    "<a href='#recipe'>Tofu<br>Scramble</a>",
+    "<a href='/misc/meats#eggs'>Two<br>Eggs</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Vitamin B12",
+    "Choline",
+    "Calcium"
+  )
+
+- Not to knock eggs, both eggs and tofu are great healthy options (unless of course you can't eat eggs);
 ---

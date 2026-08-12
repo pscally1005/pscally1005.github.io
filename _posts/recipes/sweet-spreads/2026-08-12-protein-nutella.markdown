@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Protein Nutella Copycat
-date:   2026-07-23 00:00:00 -0500
+date:   2026-08-12 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
