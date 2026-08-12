@@ -55,7 +55,14 @@ tags:
 - breakfast
 - nooch
 - nutritional yeast
-Description: <a href='/misc/beans#tofu'>Tofu</a> is both a good <a href='/misc/meat'>meat</a> and <a href='/misc/meat#eggs'>egg</a> replacement for vegans and <a href='/recipes/meatless'>vegetarian</a>, being a good cheap source of <a href='/misc/protein'>protein</a>. This <a href='/misc/beans#tofu'>tofu</a> scramble can be used in any way you would <a href='/misc/meat#eggs'>eggs</a>, like on <a href='/recipes/ww-bread'>toast</a> or mixed with <a href='/misc/veggies'>vegetables</a>.  Here, I've having it with a plate of <a href='/recipes/vegetable-medley'>Spiced Vegetable Medley</a> and a <a href='/recipes/sides'>side</a> of <a href='/recipes/slow-cooked-beans'>Slow Cooker Beans</a>.  Or you can use ground <a href='/misc/beans#tofu'>tofu</a> as a <a href='/recipes/ground-meat'>ground meat</a> replacement; I've made <a href='/recipes/chili'>Slow Cooker Chili</a> using ground <a href='/misc/beans#tofu'>tofu</a> before to great success.
+Description: |
+  <a href='/misc/beans#tofu'>Tofu</a> is both a good <a href='/misc/meat'>meat</a> and <a href='/misc/meat#eggs'>egg</a> replacement for vegans and <a href='/recipes/meatless'>vegetarian</a>, being a good cheap source of <a href='/misc/protein'>protein</a>.<br><br>
+
+  This tofu scramble can be used in any way you would <a href='/misc/meat#eggs'>eggs</a>, like on <a href='/recipes/ww-bread'>toast</a> or mixed with <a href='/misc/veggies'>vegetables</a>.<br><br>
+
+  Here, I've having it with a plate of <a href='/recipes/vegetable-medley'>Spiced Vegetable Medley</a> and a <a href='/recipes/sides'>side</a> of <a href='/recipes/slow-cooked-beans'>Slow Cooker Beans</a>.<br><br>
+
+  Or you can use ground <a href='/misc/beans#tofu'>tofu</a> as a <a href='/recipes/ground-meat'>ground meat</a> replacement; I've made <a href='/recipes/chili'>Slow Cooker Chili</a> using ground <a href='/misc/beans#tofu'>tofu</a> before to great success.
 Instructions:
 - <br><img src='/assets/Food/Meatless/Tofu Scramble/tofu-packet.jpg' alt='' class='larger-image'>
 - In a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium, heat the <a href='/misc/veggies#garlic'>garlic</a> until fragrant. Add your drained block of <a href='/misc/beans#tofu'>tofu</a>, and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>
@@ -66,7 +73,10 @@ Instructions:
 - Cook uncovered until most of the water has evaporated and the <a href='/misc/beans#tofu'>tofu</a> has started to brown. Mix in <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and serve
 - <img src='/assets/Food/Meatless/Tofu Scramble/tofu-seasoned.jpg' alt='' class='instruction-image'>
 Notes:
-- Below is a nutritional comparison of raw tofu versus raw eggs, controlled for 100 calories.  100 calories of raw tofu is approximately <b>131 g</b> (~4.5 oz), whereas 100 calories of raw egg is about <b>67 g</b> (1 1/3 egg).  As you can see, tofu is higher in protein and calcium, whereas eggs are higher in vitamin B12 and choline.
+- |
+  Below is a nutritional comparison of raw <a href='/misc/beans#tofu'>tofu</a> versus raw <a href='/misc/meat#eggs'>eggs</a>, controlled for 100 <a href='/misc/calories'>calories</a>.  100 <a href='/misc/calories'>calories</a> of raw <a href='/misc/beans#tofu'>tofu</a> is approximately <b>131 g</b> (~4.5 oz), whereas 100 <a href='/misc/calories'>calories</a> of raw <a href='/misc/meat#eggs'>egg</a> is about <b>67 g</b> (1 1/3 <a href='/misc/meat#eggs'>egg</a>).<br><br>
+
+  As you can see, <a href='/misc/beans#tofu'>tofu</a> is higher in <a href='/misc/protein'>protein</a>, <a href='/misc/calcium'>calcium</a> and iron, whereas <a href='/misc/meat#eggs'>eggs</a> are higher in <a href='/misc/vitamin-b12'>vitamin B12</a>, vitamin D, and <a href='/misc/choline'>choline</a>.
 - |
   COMPARE(
     "tofu100cal",
@@ -80,11 +90,16 @@ Notes:
     "Fat",
     "Net Carbs",
     "Vitamin B12",
+    "Vitamin D",
     "Choline",
-    "Calcium"
+    "Calcium",
+    "Iron"
   )
 
-- Here's a potentially more useful comparison:<b></b> 1 serving of the <a href='#recipe'>tofu scramble</a> versus 2 large eggs.  The <a href='#recipe'>tofu scramble</a> actually has more vitamin B12 per serving than 2 eggs, mainly aided by the nutritional yeast.
+- |
+  Here's a potentially more useful comparison: 1 serving of the <a href='#recipe'>tofu scramble</a> versus 2 large <a href='/misc/meat#eggs'>eggs</a>.  Protein is about the same, and the calories of the <a href='#recipe'>tofu scramble</a> are slightly lower due to less fat.<br><br>
+
+  The <a href='#recipe'>tofu scramble</a> actually has more <a href='/misc/vitamin-b12'>vitamin B12</a> per serving than 2 <a href='/misc/meat#eggs'>eggs</a>, aided by the nutritional yeast.
 - |
   COMPARE(
     "tofuscramble",
@@ -98,9 +113,11 @@ Notes:
     "Fat",
     "Net Carbs",
     "Vitamin B12",
+    "Vitamin D",
     "Choline",
-    "Calcium"
+    "Calcium",
+    "Iron"
   )
 
-- Not to knock eggs, both eggs and tofu are great healthy options (unless of course you can't eat eggs);
+- Not to knock <a href='/misc/meat#eggs'>eggs</a>, both <a href='/misc/meat#eggs'>eggs</a> and <a href='/misc/beans#tofu'>tofu</a> are great healthy options (unless of course you can't eat <a href='/misc/meat#eggs'>eggs</a>);
 ---
