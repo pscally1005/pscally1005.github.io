@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Vegan Tofu Scramble
-date:   2026-08-12 00:00:00 -0500
+date:   2024-09-15 00:00:00 -0500
 categories:
 - Recipes
 - Meatless
@@ -68,7 +68,7 @@ Instructions:
 - In a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium, heat the <a href='/misc/veggies#garlic'>garlic</a> until fragrant. Add your drained block of <a href='/misc/beans#tofu'>tofu</a>, and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>
 - <img src='/assets/Food/Meatless/Tofu Scramble/tofu-plain.jpg' alt='' class='instruction-image'>
 
-- Season with soy sauce, nutritional yeast, and dried spices (oregano, chili powder, paprika, garlic powder, onion powder, cumin, black pepper, and turmeric)
+- Season with <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, and dried spices (oregano, chili powder, paprika, garlic powder, onion powder, cumin, black pepper, and turmeric)
 
 - Cook uncovered until most of the water has evaporated and the <a href='/misc/beans#tofu'>tofu</a> has started to brown. Mix in <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and serve
 - <img src='/assets/Food/Meatless/Tofu Scramble/tofu-seasoned.jpg' alt='' class='instruction-image'>
@@ -76,7 +76,7 @@ Notes:
 - |
   Below is a nutritional comparison of raw <a href='/misc/beans#tofu'>tofu</a> versus raw <a href='/misc/meat#eggs'>eggs</a>, controlled for 100 <a href='/misc/calories'>calories</a>.  100 <a href='/misc/calories'>calories</a> of raw <a href='/misc/beans#tofu'>tofu</a> is approximately <b>131 g</b> (~4.5 oz), whereas 100 <a href='/misc/calories'>calories</a> of raw <a href='/misc/meat#eggs'>egg</a> is about <b>67 g</b> (1 1/3 <a href='/misc/meat#eggs'>egg</a>).<br><br>
 
-  As you can see, <a href='/misc/beans#tofu'>tofu</a> is higher in <a href='/misc/protein'>protein</a>, <a href='/misc/calcium'>calcium</a> and iron, whereas <a href='/misc/meat#eggs'>eggs</a> are higher in <a href='/misc/vitamin-b12'>vitamin B12</a>, vitamin D, and <a href='/misc/choline'>choline</a>.
+  As you can see, <a href='/misc/beans#tofu'>tofu</a> is higher in <a href='/misc/protein'>protein</a>, <a href='/misc/calcium'>calcium</a>, and <a href='/misc/iron'>iron</a>, whereas <a href='/misc/meat#eggs'>eggs</a> are higher in <a href='/misc/vitamin-b12'>vitamin B12</a>, <a href='/misc/nutrient-alphabet#D'>vitamin D</a>, and <a href='/misc/choline'>choline</a>.
 - |
   COMPARE(
     "tofu100cal",
@@ -97,9 +97,9 @@ Notes:
   )
 
 - |
-  Here's a potentially more useful comparison: 1 serving of the <a href='#recipe'>tofu scramble</a> versus 2 large <a href='/misc/meat#eggs'>eggs</a>.  Protein is about the same, and the calories of the <a href='#recipe'>tofu scramble</a> are slightly lower due to less fat.<br><br>
+  Here's a potentially more useful comparison: 1 serving of the <a href='#recipe'>tofu scramble</a> versus 2 large <a href='/misc/meat#eggs'>eggs</a>.  <a href='/misc/protein'>Protein</a> is about the same, and the <a href='/misc/calories'>calories</a> of the <a href='#recipe'>tofu scramble</a> are slightly lower due to less <a href='/misc/fats'>fat</a>.<br><br>
 
-  The <a href='#recipe'>tofu scramble</a> actually has more <a href='/misc/vitamin-b12'>vitamin B12</a> per serving than 2 <a href='/misc/meat#eggs'>eggs</a>, aided by the nutritional yeast.
+  The <a href='#recipe'>tofu scramble</a> actually has more <a href='/misc/vitamin-b12'>vitamin B12</a> per serving than 2 <a href='/misc/meat#eggs'>eggs</a>, aided by the <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>.
 - |
   COMPARE(
     "tofuscramble",
@@ -119,5 +119,5 @@ Notes:
     "Iron"
   )
 
-- Not to knock <a href='/misc/meat#eggs'>eggs</a>, both <a href='/misc/meat#eggs'>eggs</a> and <a href='/misc/beans#tofu'>tofu</a> are great healthy options (unless of course you can't eat <a href='/misc/meat#eggs'>eggs</a>);
+- Not to knock <a href='/misc/meat#eggs'>eggs</a>, both <a href='/misc/meat#eggs'>eggs</a> and <a href='/misc/beans#tofu'>tofu</a> are great healthy options (unless of course you can't eat <a href='/misc/meat#eggs'>eggs</a>).
 ---

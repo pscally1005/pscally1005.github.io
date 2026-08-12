@@ -5487,6 +5487,19 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/43wLkhB": [
+        "nutritional yeast"
+    ],
+    "https://amzn.to/44VXByC": [
+        "soy sauce",
+        "tamari",
+        "low sodium soy sauce",
+        "gluten free soy sauce",
+        "soy sauce, low sodium, gluten free",
+        "soy sauce, gluten free, low sodium",
+        "soy sauce, gluten free",
+        "soy sauce, low sodium"
+    ],
     "https://amzn.to/4khDgIM": [
         "almond extract"
     ],
