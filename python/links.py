@@ -11,6 +11,8 @@ LINKS = {
 
     # RECIPES
     "/recipes/acai-bowl": [
+        # "acai",
+        # "Açaí"
         "acai bowl",
         "acai bowls",
         "acai yogurt bowl",
@@ -26,7 +28,7 @@ LINKS = {
         "healthy Açaí bowl",
         "healthy Açaí bowls",
         "healthy Açaí yogurt bowl",
-        "healthy Açaí yogurt bowls"
+        "healthy Açaí yogurt bowls",
     ],
     "/recipes/monk-fruit-cookies": [
         "granulated monk fruit cookies",
@@ -5518,6 +5520,50 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4cBNvpn": [
+        "Açaí",
+        "acai",
+        "frozen acai puree",
+        "unsweetened acai",
+        "frozen acai packets",
+        "frozen acai packets unsweetened",
+        "frozen acai packets unsweetened puree",
+        "frozen acai puree packets",
+        "frozen acai puree packets unsweetened",
+        "frozen acai puree packets unsweetened puree",
+        "acai packets",
+        "acai packets unsweetened",
+        "acai packets unsweetened puree",
+        "acai puree packets",
+        "acai puree packets unsweetened",
+        "acai puree packets unsweetened puree",
+        "frozen Açaí",
+        "unsweetened Açaí puree",
+        "unsweetened Açaí packets",
+        "unsweetened Açaí packets puree",
+        "unsweetened Açaí puree packets",
+        "frozen Açaí puree",
+        "unsweetened Açaí",
+        "frozen Açaí packets",
+        "frozen Açaí packets unsweetened",
+        "frozen Açaí packets unsweetened puree",
+        "frozen Açaí puree packets",
+        "frozen Açaí puree packets unsweetened",
+        "frozen Açaí puree packets unsweetened puree",
+        "Açaí packets",
+        "Açaí packets unsweetened",
+        "Açaí packets unsweetened puree",
+        "Açaí puree packets",
+        "Açaí puree packets unsweetened",
+        "Açaí puree packets unsweetened puree",
+        "frozen Açaí",
+        "unsweetened Açaí puree",
+        "unsweetened Açaí packets",
+        "unsweetened Açaí packets puree",
+        "unsweetened Açaí puree packets",
+        "Açaí puree",
+        "acai puree"
+    ],
     "https://amzn.to/43wLkhB": [
         "nutritional yeast"
     ],
@@ -7255,6 +7301,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "similar (but sweetened) fudge recipe",
+    "most frozen acai",
     "chocolate mixture",
     "<b>Cheese</b>",
     "leave the bread in the oven",
