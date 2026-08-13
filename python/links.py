@@ -1991,6 +1991,14 @@ LINKS = {
         "sugar free fudge",
         "fudge"
     ],
+    "/recipes/three-ingredient-fudge": [
+        "3 ingredient fudge",
+        "three ingredient fudge",
+        "peanut butter chocolate fudge",
+        "chocolate peanut butter fudge",
+        "bulking fudge",
+        "weight gain fudge"
+    ],
     "/recipes/superfood-bowls": [
         "Date Night Superfood Bowls",
         "superfood bowls",
@@ -9167,7 +9175,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-09-15")):
+            if not file.startswith(("2026-08-19")):
                 continue
 
             # exclude some files
