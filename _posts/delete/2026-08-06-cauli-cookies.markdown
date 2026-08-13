@@ -5,6 +5,7 @@ date:   2026-08-06 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
+- Delete
 showPercentage: no
 hummus: no
 oatmeal: no
