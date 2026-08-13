@@ -1997,7 +1997,12 @@ LINKS = {
         "peanut butter chocolate fudge",
         "chocolate peanut butter fudge",
         "bulking fudge",
-        "weight gain fudge"
+        "weight gain fudge",
+        "clean bulking fudge",
+        "bittersweet fudge",
+        "bittersweet chocolate fudge",
+        "bitter fudge",
+        "bitter chocolate fudge"
     ],
     "/recipes/superfood-bowls": [
         "Date Night Superfood Bowls",
@@ -7231,6 +7236,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "similar (but sweetened) fudge recipe",
     "chocolate mixture",
     "<b>Cheese</b>",
     "leave the bread in the oven",
