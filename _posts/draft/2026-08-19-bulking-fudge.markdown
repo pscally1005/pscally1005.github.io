@@ -25,7 +25,7 @@ permalink: /recipes/three-ingredient-fudge
 image: /assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-cover.jpg
 file: 3ingfudge
 servingSize: 1 piece
-section1: https://www.poormanprotein.com/recipes/sugar-free-fudge
+section1:
 start2:
 section2:
 start3:
@@ -37,7 +37,7 @@ section5:
 Prep: 5
 Rest:
 Cook:
-Source1:
+Source1: https://www.poormanprotein.com/recipes/sugar-free-fudge
 Source2:
 Source3:
 Source4:
