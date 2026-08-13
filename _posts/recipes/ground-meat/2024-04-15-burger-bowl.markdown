@@ -58,7 +58,7 @@ tags:
 - sweet potatoes
 Description: These bowls are deconstructed burgers, instead making them into a healthy <a href='/salad'>salad</a>, with the buns swapped for roasted <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. There's way more food for way less <a href='/misc/calories'>calories</a>, with a lot of volume to this dish. It's full of all your favorite burger flavors, toppings, and my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>. If a classic burger is what you desire, see my <a href='/recipes/burger-patties'>Simple Burger Patties</a> and <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a>.
 Instructions:
-- Starting with the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Wash and cut your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> into cubes. You don't need to peel the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Add to a microwave save bowl, and toss with oil, soy sauce, and baking soda. Cover, and microwave on full power for 3 minutes to soften the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>
+- Starting with the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Wash and cut your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> into cubes. You don't need to peel the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Add to a microwave save bowl, and toss with oil, <a href='https://amzn.to/44VXByC'>soy sauce</a>, and baking soda. Cover, and microwave on full power for 3 minutes to soften the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>
 
 - Remove the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> from the microwave, and toss with the seasonings - chili powder, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 
@@ -67,7 +67,7 @@ Instructions:
 
 - Moving onto the <a href='/misc/dairy#mozzarella'>cheese</a>. In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/dairy#cheddar'>shredded cheese</a>, cornstarch, and <a href='/misc/dairy#almond-milk'>almond milk</a>. This will get added into the <a href='/misc/meat#ground-beef'>beef</a> at the end. Set the bowl aside
 
-- Now for the burger. Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Add in the <a href='/misc/meat#ground-beef'>beef</a>, and cook until browned. Season with soy sauce, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
+- Now for the burger. Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Add in the <a href='/misc/meat#ground-beef'>beef</a>, and cook until browned. Season with <a href='https://amzn.to/44VXByC'>soy sauce</a>, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-5.jpg' alt='' class='instruction-image'>
 
 - Add the bowl of <a href='/misc/dairy#mozzarella'>cheese</a> into the pan, mix, and cover. Cook for just a minute or so to melt the <a href='/misc/dairy#mozzarella'>cheese</a> and a creamy sauce forms. Set the pan aside

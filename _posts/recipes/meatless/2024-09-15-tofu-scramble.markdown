@@ -68,7 +68,7 @@ Instructions:
 - In a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium, heat the <a href='/misc/veggies#garlic'>garlic</a> until fragrant. Add your drained block of <a href='/misc/beans#tofu'>tofu</a>, and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>
 - <img src='/assets/Food/Meatless/Tofu Scramble/tofu-plain.jpg' alt='' class='instruction-image'>
 
-- Season with <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, and dried spices (oregano, chili powder, paprika, garlic powder, onion powder, cumin, black pepper, and turmeric)
+- Season with <a href='https://amzn.to/44VXByC'><a href='https://amzn.to/44VXByC'>soy sauce</a></a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, and dried spices (oregano, chili powder, paprika, garlic powder, onion powder, cumin, black pepper, and turmeric)
 
 - Cook uncovered until most of the water has evaporated and the <a href='/misc/beans#tofu'>tofu</a> has started to brown. Mix in <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and serve
 - <img src='/assets/Food/Meatless/Tofu Scramble/tofu-seasoned.jpg' alt='' class='instruction-image'>

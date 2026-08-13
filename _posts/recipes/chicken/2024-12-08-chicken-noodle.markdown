@@ -63,7 +63,7 @@ Instructions:
 
 - Cut your <a href='/misc/meat#chicken-thighs'>chicken thighs</a> into bite sized pieces, and add to the pot
 
-- Add in your soy sauce, chicken bouillon, dried spices (thyme, garlic powder, onion powder, cumin, black pepper, allspice, turmeric, cinnamon, nutmeg, and cayenne), and water. Mix everything together
+- Add in your <a href='https://amzn.to/44VXByC'>soy sauce</a>, chicken bouillon, dried spices (thyme, garlic powder, onion powder, cumin, black pepper, allspice, turmeric, cinnamon, nutmeg, and cayenne), and water. Mix everything together
 
 - Cover and cook on low for about 6 hours, or until the <a href='/misc/meat#chicken-breast'>chicken</a> is at least <a href='https://amzn.to/4kmobG2'>180F</a>, and the <a href='/misc/veggies'>vegetables</a> are tender
 

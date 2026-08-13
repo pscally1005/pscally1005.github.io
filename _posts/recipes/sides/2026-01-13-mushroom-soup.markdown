@@ -66,7 +66,7 @@ Instructions:
 
 - Add broth, thyme, salt, and black pepper to the pot.  Increase heat to high, cover, and bring to a boil. Reduce heat to low, and let simmer for 30 minutes
 
-- Remove from the heat and stir in <a href='/misc/dairy#yogurt'>yogurt</a>, soy sauce, and parsley. Serve
+- Remove from the heat and stir in <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/44VXByC'>soy sauce</a>, and parsley. Serve
 - <img src='/assets/Food/Sides/Mushroom Soup/pot.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -70,7 +70,7 @@ Instructions:
 
 - Cut your <a href='/misc/veggies#onion'>onion</a> into a fine dice, and add to the bowl.
 
-- Mix in the <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, mustard, soy sauce, and spices (chili powder, paprika, cumin, black pepper, and salt).
+- Mix in the <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, mustard, <a href='https://amzn.to/44VXByC'>soy sauce</a>, and spices (chili powder, paprika, cumin, black pepper, and salt).
 - <img src='/assets/Food/Meatless/Bean Burger/archive/bowl.jpg' alt='' class='instruction-image'>
 
 - Add in the <a href='https://amzn.to/4aXnK21'>protein powder</a> and <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>.  Mix, and add in just enough water until you have a sticky "dough" that you can mold and shape with your hands.  I needed about 1/4 cup (60 g) of water when using <a href='https://amzn.to/4aXnK21'>pea protein powder</a>.

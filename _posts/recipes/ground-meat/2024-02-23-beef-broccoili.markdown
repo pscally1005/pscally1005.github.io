@@ -58,9 +58,9 @@ Instructions:
 
 - Take your <a href='/misc/meat'>meat</a> and slice into 1/4-1/2" thick strips against the grain. Add to a bowl of cold water, and massage the <a href='/misc/meat'>meat</a> for 30 seconds. The <a href='/misc/meat'>meat</a> should turn gray, and the water should turn red with myoglobin (not blood). Squeeze and drain the <a href='/misc/meat'>meat</a> with a strainer for about 30 seconds, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>
 
-- Add in the marinade (cornstarch, baking soda, salt, soy sauce, and sesame oil). Mix to fully coat the <a href='/misc/meat'>meat</a>, and let marinate for 15 minutes
+- Add in the marinade (cornstarch, baking soda, salt, <a href='https://amzn.to/44VXByC'>soy sauce</a>, and sesame oil). Mix to fully coat the <a href='/misc/meat'>meat</a>, and let marinate for 15 minutes
 
-- Meanwhile, mix the sauce together in a glass - <a href='/misc/veggies#garlic'>minced garlic</a>, soy sauce, white vinegar <a href='/misc/veggies#ginger'>ginger</a>, garlic powder, black pepper, and red pepper flakes
+- Meanwhile, mix the sauce together in a glass - <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='https://amzn.to/44VXByC'>soy sauce</a>, white vinegar <a href='/misc/veggies#ginger'>ginger</a>, garlic powder, black pepper, and red pepper flakes
 
 - In a separate glass, mix together some cold water and cornstarch for a slurry
 - <img src='/assets/Food/Ground Meat/Beef Broccoli/beef-broccoli-4.jpg' alt='' class='instruction-image'>

@@ -70,7 +70,7 @@ Instructions:
 
 - Thinly slice your <a href='/misc/meat#chicken-breast'>chicken breast</a>, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Mix in the <a href='/misc/olive-oil'>oil</a> and spices (paprika, garlic powder, onion powder, black pepper, salt, and <a href='/misc/veggies#ginger'>ginger</a>), and transfer to your sheet. Roast for about 12 minutes, or until the <a href='/misc/meat#chicken-breast'>chicken</a> just reaches <a href='https://amzn.to/4kmobG2'>165F</a>. Let the <a href='/misc/meat#chicken-breast'>chicken</a> rest for a few minutes before slicing
 
-- As the <a href='/misc/meat#chicken-breast'>chicken</a> rests and the <a href='/misc/veggies'>vegetables</a> cook, prepare your sauce in a large glass - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, soy sauce, <a href='/misc/apple-cider-vinegar'>ACV</a>, water, gochujang, cornstarch, <a href='/misc/veggies#ginger'>ginger</a>, and sesame oil
+- As the <a href='/misc/meat#chicken-breast'>chicken</a> rests and the <a href='/misc/veggies'>vegetables</a> cook, prepare your sauce in a large glass - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='/misc/apple-cider-vinegar'>ACV</a>, water, gochujang, cornstarch, <a href='/misc/veggies#ginger'>ginger</a>, and sesame oil
 
 - Cut the <a href='/misc/meat#chicken-breast'>chicken</a> into cubes, and add to the pan. Pour the sauce over it, and mix to fully combine. The cornstarch should thicken the sauce when heated. Optionally, garnish with <a href='/misc/nuts#peanuts'>peanuts</a>, and serve over some <a href='/misc/grains#brown-rice'>brown rice</a>
 - <img src='/assets/Food/Chicken/Peanut/peanut-6.jpg' alt='' class='instruction-image'>

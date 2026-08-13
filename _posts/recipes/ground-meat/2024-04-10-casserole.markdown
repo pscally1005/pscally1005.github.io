@@ -60,7 +60,7 @@ Instructions:
 - Defrost your bag of <a href='/misc/veggies#spinach-fresh'>spinach</a>, and cut your <a href='/misc/veggies#onion'>onions</a> into a small dice. Add to a <a href='https://amzn.to/4rdR0HI'>large pan</a> with oil, cumin, black pepper, and salt. Cover and cook over medium heat until the <a href='/misc/veggies#onion'>onions</a> are soft and translucent. Set aside in a bowl
 - <img src='/assets/Food/Ground Meat/Casserole/casserole-1.jpg' alt='' class='instruction-image'>
 
-- Over medium, heat, add the <a href='/misc/meat'>meat</a> and some oil. Cook the <a href='/misc/meat'>meat</a> until properly browned. Season with soy sauce, allspice, cinnamon, and salt. Toast the <a href='/misc/nuts'>nuts</a> and <a href='/misc/veggies#garlic'>garlic</a> until fragrant, about 30 seconds. Transfer to the bowl with the <a href='/misc/veggies#spinach-fresh'>spinach</a>
+- Over medium, heat, add the <a href='/misc/meat'>meat</a> and some oil. Cook the <a href='/misc/meat'>meat</a> until properly browned. Season with <a href='https://amzn.to/44VXByC'>soy sauce</a>, allspice, cinnamon, and salt. Toast the <a href='/misc/nuts'>nuts</a> and <a href='/misc/veggies#garlic'>garlic</a> until fragrant, about 30 seconds. Transfer to the bowl with the <a href='/misc/veggies#spinach-fresh'>spinach</a>
 - <img src='/assets/Food/Ground Meat/Casserole/casserole-2.jpg' alt='' class='instruction-image'>
 
 - As everything else is cooking, you can prepare your <a href='/misc/veggies#cauliflower'>cauliflower rice</a>. Add your defrosted florets to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse until you have a fully chopped rice-like <a href='/misc/veggies#cauliflower'>cauliflower</a>. Don't overblend

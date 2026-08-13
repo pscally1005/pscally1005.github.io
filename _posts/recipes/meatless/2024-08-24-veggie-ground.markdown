@@ -86,7 +86,7 @@ Instructions:
 - Meanwhile, coarsely chop the <a href='/misc/nuts#walnuts'>walnuts</a> (discard the soaking water) with the <a href='/misc/veggies#tomato'>tomato paste</a> until well combined. Don't over blend.
 - <img src='/assets/Food/Meatless/Veggie Ground/vg-nuts.jpg' alt='' class='instruction-image'>
 
-- Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your <a href='/misc/veggies#garlic'>garlic</a>, soy sauce, mustard, <a href='https://amzn.to/4pw27vM'>marmite</a>, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out.
+- Increase heat to high. Continue to mix until most of the water has cooked out, about 10 minutes. Add in your <a href='/misc/veggies#garlic'>garlic</a>, <a href='https://amzn.to/44VXByC'>soy sauce</a>, mustard, <a href='https://amzn.to/4pw27vM'>marmite</a>, and dried spices. Continue to cook on high for another 5 minutes, or until all the water has cooked out.
 
 - Turn off heat and add <a href='/misc/nuts#walnuts'>walnut</a> and tomato paste mixture. Mix thoroughly to combine. Mix in your <a href='https://amzn.to/4aXnK21'>protein powder</a>, add in just enough water if necessary to get all the <a href='https://amzn.to/4aXnK21'>protein powder</a> mixed in, and season with salt to taste.
 - <img src='/assets/Food/Meatless/Veggie Ground/potNew.jpg' alt='' class='instruction-image'>

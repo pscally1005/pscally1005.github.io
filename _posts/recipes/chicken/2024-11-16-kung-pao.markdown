@@ -73,7 +73,7 @@ Instructions:
 - When the <a href='/misc/veggies#yellow-squash'>yellow squash</a> is cooked and in the bowl, add the <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#ginger'>ginger</a>, <a href='/misc/meat#chicken-breast'>chicken</a>, and <a href='/misc/olive-oil'>oil</a> to the pan.  Cook over medium heat until <a href='/misc/meat#chicken-breast'>chicken</a> reaches <a href='https://amzn.to/4kmobG2'>165F</a>, and transfer to the bowl with the <a href='/misc/veggies#yellow-squash'>yellow squash</a>
 - <img src='/assets/Food/Chicken/Kung Pao/kung-pao-chicken-cooked.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, mix together your sauce in a medium glass - soy sauce, balsamic, white vinegar, gochujang, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and cornstarch.  Mix well; make sure these are no clumps of cornstarch or gochujang
+- Meanwhile, mix together your sauce in a medium glass - <a href='https://amzn.to/44VXByC'>soy sauce</a>, balsamic, white vinegar, gochujang, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and cornstarch.  Mix well; make sure these are no clumps of cornstarch or gochujang
 - <img src='/assets/Food/Chicken/Kung Pao/kung-pao-sauce.jpg' alt='' class='instruction-image'>
 
 - When the <a href='/misc/meat#chicken-breast'>chicken</a> is cooked and the pan is empty, add the sauce to the pan over medium heat. Cook for 1 minute with constant stirring, until the sauce is syrupy, glossy, and thickened. Transfer to the bowl

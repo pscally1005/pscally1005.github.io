@@ -53,7 +53,7 @@ Description: Grilled <a href='/misc/meat#chicken-breast'>chicken</a> was somethi
 Instructions:
 - Slice each <a href='/misc/meat#chicken-breast'>chicken breast</a> into 2-3 cutlets. Evenly thin out the <a href='/misc/meat#chicken-breast'>chicken</a>, and pound it down if needed
 
-- Add spices (Italian seasoning, paprika, cumin, chili powder and onion powder, black pepper, soy sauce, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and <a href='/misc/olive-oil'>olive oil</a>) and <a href='/misc/meat#chicken-breast'>chicken</a> to a Ziploc bag, shake until <a href='/misc/meat#chicken-breast'>chicken</a> is well coated. Can marinate in the fridge for a few hours or up to a day in you want
+- Add spices (Italian seasoning, paprika, cumin, chili powder and onion powder, black pepper, <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and <a href='/misc/olive-oil'>olive oil</a>) and <a href='/misc/meat#chicken-breast'>chicken</a> to a Ziploc bag, shake until <a href='/misc/meat#chicken-breast'>chicken</a> is well coated. Can marinate in the fridge for a few hours or up to a day in you want
 
 - Grill on a grill pan or bake in the oven (400F, 12-14 minutes)
 - <img src='/assets/Food/Chicken/Marinated/marinated-3.jpg' alt='' class='instruction-image'>

@@ -57,7 +57,7 @@ tags:
 - protein
 Description: This <a href='/salad'>salad</a> contains a base of <a href='/misc/veggies#lettuce'>lettuce</a> and <a href='/misc/veggies#tomato'>tomatoes</a>, and is topped with hard boiled <a href='/misc/meat#eggs'>eggs</a>, kimchi, and a peanut chili <a href='/salad-dressings'>dressing</a>. It's a delicious and quick lunch that's healthy and full of flavor.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
 Instructions:
-- In a small glass, mix together the <a href='/salad-dressings'>dressing</a> - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, gochujang, soy sauce, vineger, and ground <a href='/misc/veggies#ginger'>ginger</a>. Thin out with water, and pour over your <a href='/salad'>salad</a>
+- In a small glass, mix together the <a href='/salad-dressings'>dressing</a> - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, gochujang, <a href='https://amzn.to/44VXByC'>soy sauce</a>, vineger, and ground <a href='/misc/veggies#ginger'>ginger</a>. Thin out with water, and pour over your <a href='/salad'>salad</a>
 - <img src='/assets/Food/Savory Sauces/PB Dressing/glass.jpg' alt='' class='instruction-image'>
 Notes:
 ---

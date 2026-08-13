@@ -61,5 +61,5 @@ Description: This 5 minute salsa uses pantry staple canned ingredients and some 
 Instructions:
 - Mix together all ingredients in a medium bowl.  Adjust any salt to taste, and store in the fridge for up to 1 week
 Notes:
-- You can substitute soy sauce with another 2 tbsp (30 g) of <a href='/recipes/hot-sauce'>hot sauce</a>
+- You can substitute <a href='https://amzn.to/44VXByC'>soy sauce</a> with another 2 tbsp (30 g) of <a href='/recipes/hot-sauce'>hot sauce</a>
 ---

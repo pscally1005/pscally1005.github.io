@@ -55,7 +55,7 @@ tags:
 - big mac sauce
 Description: This is my healthy take on a classic burger sandwich. I've kept it simple with just a patty and my <a href='/recipes/burger-buns'>No Yeast Whole Wheat Burger Buns</a>, so feel free to add whatever toppings or <a href='/recipes/savory-sauces'>sauces</a> you desire, like <a href='/misc/veggies#lettuce'>lettuce</a>, <a href='/misc/veggies#tomato'>tomato</a>, and my <a href='/recipes/ketchup'>Date Sweetened Ketchup</a>.  Or you can turn your sandwich into a <a href='/salad'>salad</a> with my <a href='/recipes/burger-bowl'>Chopped Burger Bowl with Sweet Potatoes</a>.
 Instructions:
-- Combine all burger ingredients together in a bowl - <a href='/misc/meat'>meat</a>, soy sauce, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
+- Combine all burger ingredients together in a bowl - <a href='/misc/meat'>meat</a>, <a href='https://amzn.to/44VXByC'>soy sauce</a>, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 - <img src='/assets/Food/Ground Meat/Burger Patties/patty-1.jpg' alt='' class='instruction-image'>
 
 - Shape the <a href='/misc/meat'>meat</a> into 4 equally sized balls, about 120 g each. Flatten into a burger patty shape (I should have flattened these more; keep in mind they will shrink a lot), and seal the sides to make an even circle with no jutting out edges. Lightly wetting your hands may help to prevent sticking

@@ -62,7 +62,7 @@ Instructions:
 
 - Add in <a href='/misc/veggies#garlic'>garlic</a>, diced green chilies, chipotle peppers in adobo, and your <a href='/misc/beans'>beans</a> (not drained or rinsed). Bring to a boil over high heat, cover, and let cook for 10 minutes
 
-- Add the rest of the ingredients to the pot, and stir to combine - <a href='/misc/grains#brown-rice'>brown rice</a>, water, <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, soy sauce, bouillon powder, chili powder, cumin, and black pepper
+- Add the rest of the ingredients to the pot, and stir to combine - <a href='/misc/grains#brown-rice'>brown rice</a>, water, <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, <a href='https://amzn.to/44VXByC'>soy sauce</a>, bouillon powder, chili powder, cumin, and black pepper
 
 - Transfer the pot to the oven, and bake at 400F for about 90 minutes, or until the <a href='/misc/veggies'>vegetables</a> are tender, the <a href='/misc/grains#brown-rice'>rice</a> is soft, and the water is absorbed
 

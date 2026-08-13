@@ -61,7 +61,7 @@ Instructions:
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> for 30 minutes at 400F, mixing halfway
 
-- Meanwhile, cut your <a href='/misc/veggies#onion'>onion</a> and <a href='/misc/veggies#pepper'>pepper</a> into a small dice. Add to a bowl and season with soy sauce, <a href='/misc/olive-oil'>oil</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, garlic powder, chili powder, black pepper, and salt
+- Meanwhile, cut your <a href='/misc/veggies#onion'>onion</a> and <a href='/misc/veggies#pepper'>pepper</a> into a small dice. Add to a bowl and season with <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='/misc/olive-oil'>oil</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, garlic powder, chili powder, black pepper, and salt
 - <img src='/assets/Food/Breakfast/Home Fries/home-fries-3.jpg' alt='' class='instruction-image'>
 
 - Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat and add in your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onions</a>. Cover and cook under occasional stirring until the <a href='/misc/veggies#onion'>onions</a> are translucent and the <a href='/misc/veggies#pepper'>peppers</a> are soft

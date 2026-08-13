@@ -65,7 +65,7 @@ Instructions:
 
 - Add in the <a href='/misc/veggies#garlic'>garlic</a>, and cook for about 30 seconds, or until fragrant
 
-- Add the spices (chili powder, cumin, and oregano) into the pot, and toast for about a minute before adding the soy sauce
+- Add the spices (chili powder, cumin, and oregano) into the pot, and toast for about a minute before adding the <a href='https://amzn.to/44VXByC'>soy sauce</a>
 
 - Add the <a href='/misc/veggies#tomato'>crushed tomatoes</a>, <a href='/misc/veggies#tomato'>diced tomatoes</a>, and (drained and rinsed) <a href='/misc/beans'>beans</a> (2 cans). Reduce heat to low, cover, and simmer for 1 hour with occasional stirring
 
