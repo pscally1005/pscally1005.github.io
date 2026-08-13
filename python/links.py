@@ -1986,10 +1986,10 @@ LINKS = {
         "styrofoam cookie"
     ],
     "/recipes/sugar-free-fudge": [
+        # "fudge",
         "3 Ingredient Sugar Free Fudge",
         "three ingredient sugar free fudge",
-        "sugar free fudge",
-        "fudge"
+        "sugar free fudge"
     ],
     "/recipes/three-ingredient-fudge": [
         "3 ingredient fudge",

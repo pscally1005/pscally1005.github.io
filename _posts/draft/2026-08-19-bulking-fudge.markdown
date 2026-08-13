@@ -64,13 +64,13 @@ tags:
 - high fat
 - high calorie
 Description: |
-  There's a lot more to nutrition than <a href='/misc/calories'>calories</a>.  But weight gain & loss is pretty much only based on <a href='/misc/calories'>calories</a>.<br><br>
+  There's a lot more to nutrition than <a href='/misc/calories'>calories</a>.  But weight gain & loss is pretty much only based on <a href='/misc/calories'>calories</a>.  The best way to clean bulk is to increase your consumption of <a href='/misc/fats'>healthy fats</a>, as opposed to eating tons of empty <a href='/misc/carbs'>starches</a> and <a href='/misc/hidden-sugar'>sugars</a> to dirty bulk.<br><br>
 
-  The best way to clean bulk is to increase your consumption of <a href='/misc/fats'>healthy fats</a>, as opposed to eating tons of empty <a href='/misc/carbs'>starches</a> and <a href='/misc/hidden-sugar'>sugars</a> to dirty bulk.  This snack is perfect for those who need to gain weight, as each small piece of <a href='/recipes/sugar-free-fudge'>fudge</a> contains 84 <a href='/misc/calories'>calories</a>, is packed with <a href='/misc/fats'>healthy fats</a>, and is even low in <a href='/misc/carbs'>carbs</a>, making it keto.<br><br>
+  This snack is perfect for those who need to gain weight, as each small piece of fudge contains 84 <a href='/misc/calories'>calories</a>, is packed with <a href='/misc/fats'>healthy fats</a>, and is even low in <a href='/misc/carbs'>carbs</a>, making it keto.<br><br>
 
   This easy bittersweet fudge is made with just 3 simple ingredients - melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>.  I love this bittersweet treat, but you can <a href='#notes'>add some sweetener to taste</a> if you like it a bit sweeter than I do.  For a similar (but sweetened) fudge recipe, check out my <a href='/recipes/sugar-free-fudge'>3 Ingredient Sugar Free Fudge</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for about a minute, until fully melted. Stir in <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>. Add <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> to taste if desired.
+- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for about a minute, until fully melted. Stir in <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>. <a href='#notes'>Add a sweetener</a> to taste if desired.
 - <img src='/assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-1.jpg' alt='' class='instruction-image'>
 
 - Transfer to a parchment lined container (<a href='https://amzn.to/3Ffts2R'>mine</a>, are 6.2 x 4.5 "). Optionally top with flaky salt.
@@ -78,7 +78,7 @@ Instructions:
 
 - Refrigerate for a few hours to harden fully before slicing.
 Notes:
-- I prefer to keep my <a href='#fudge'>fudge</a> totally unsweetened for the richest <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/chocolate-benefits'>chocolate</a> flavor, but you can sweeten it to taste with anything you desire.  Below are some recommendations:<b></b>
+- I prefer to keep my <a href='#recipe'>fudge</a> totally unsweetened for the richest <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/chocolate-benefits'>chocolate</a> flavor, but you can sweeten it to taste with anything you desire.  Below are some recommendations:<b></b>
 - INGREDIENTS(3ingfudgesweeteners)
 - |
   COMPARE(
