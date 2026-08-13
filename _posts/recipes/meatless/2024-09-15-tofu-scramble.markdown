@@ -5,7 +5,7 @@ date:   2024-09-15 00:00:00 -0500
 categories:
 - Recipes
 - Meatless
-showPercentage: no
+showPercentage: vitMin
 hummus: no
 oatmeal: no
 yogurt: no

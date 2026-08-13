@@ -12,11 +12,15 @@
 
 {% assign showPercentage = "True" %}
 {% if
-    page.showPercentage == false
+    page.showPercentage == false or
+    page.showPercentage == "false" or
+    page.showPercentage == "False"
 %}
     {% assign showPercentage = "False" %}
+{% elsif page.showPercentage == "vitMin" %}
+    {% assign showPercentage = "vitMin" %}
 {% endif %}
-{% if include.showPercentage %}
+{% if include.showPercentage and page.showPercentage != "vitMin" %}
     {% assign showPercentage = include.showPercentage %}
 {% endif %}
 

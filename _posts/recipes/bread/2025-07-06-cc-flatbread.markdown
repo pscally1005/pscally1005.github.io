@@ -5,7 +5,7 @@ date:   2025-07-06 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-showPercentage: no
+showPercentage: vitMin
 hummus: no
 oatmeal: no
 yogurt: no
@@ -75,7 +75,7 @@ Instructions:
 - <img src='/assets/Food/Bread/CC flatbread/pizza.jpg' alt='' class='instruction-image'>
 Notes:
 - <a href='/misc/meat#eggs'>Whole eggs</a> can be used in place of <a href='/misc/meat#egg-whites'>egg whites</a>.  2 large <a href='/misc/meat#eggs'>eggs</a> (100 g) is the substitution.  Aquafaba will <b>not</b> work; I have tried
-- The psyllium husk provides a better texture and extra <a href='/misc/fiber'>fiber</a>.  It is optional if you do not have it, but highly recommended
+- The <a href='/misc/psyllium-husk'>psyllium husk</a> provides a better texture and extra <a href='/misc/fiber'>fiber</a>.  It is optional if you do not have it, but highly recommended
 
 - |
   COMPARE(
@@ -84,10 +84,10 @@ Notes:
     "ccflatbreadpsyllium",
     "ccflatbread";
 
-    "<a href='/misc/meat#egg-whites'>Egg<br>Whites</a><br>With<br>Psyllium<br>Husk",
-    "<a href='/misc/meat#egg-whites'>Egg<br>Whtes</a><br>Without<br>Psyllium<br>Husk",
-    "<a href='/misc/meat#eggs'>Whole<br>Eggs</a><br>With<br>Psyllium<br>Husk",
-    "<a href='/misc/meat#eggs'>Whole<br>Eggs</a><br>Without<br>Psyllium<br>Husk";
+    "<a href='/misc/meat#egg-whites'>Egg<br>Whites</a><br>With<br><a href='/misc/psyllium-husk'>Psyllium<br>Husk</a>",
+    "<a href='/misc/meat#egg-whites'>Egg<br>Whtes</a><br>Without<br><a href='/misc/psyllium-husk'>Psyllium<br>Husk</a>",
+    "<a href='/misc/meat#eggs'>Whole<br>Eggs</a><br>With<br><a href='/misc/psyllium-husk'>Psyllium<br>Husk</a>",
+    "<a href='/misc/meat#eggs'>Whole<br>Eggs</a><br>Without<br><a href='/misc/psyllium-husk'>Psyllium<br>Husk</a>";
 
     "Calories",
     "Protein",

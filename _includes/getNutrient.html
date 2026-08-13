@@ -18,17 +18,6 @@
   {% assign loopVarIng = site.data.servingSizes['ing-ing'] %}
 {% endunless%}
 
-<!-- Show DV % -->
-{% assign showPercentage = "True" %}
-{% if
-    page.showPercentage == false
-%}
-    {% assign showPercentage = "False" %}
-{% endif %}
-{% if include.showPercentage %}
-    {% assign showPercentage = include.showPercentage %}
-{% endif %}
-
 <!-- Only run if there's a nutrtion facts file -->
 {% if facts %}
 
@@ -769,9 +758,44 @@
           rnd:"{{rnd}}"<br>
       {% endcomment %}
 
+      <!-- Vitamins and Minerals -->
+      {% assign vit_and_min = "Vitamin A|Vitamin B1|Thiamin|Vitamin B2|Riboflavin|Vitamin B3|Niacin|Vitamin B5|Pantothenic Acid|Vitamin B6|Pyridoxine|Vitamin B9|Folate|Vitamin B12|Colbalamin|Vitamin C|Vitamin D|Vitamin E|Vitamin K|Choline|Calcium|Copper|Iron|Magnesium|Manganese|Phosphorus|Potassium|Selenium|Sodium|Zinc|Cholesterol" | split: "|" %}
+
+      <!-- Show DV % -->
+      {% assign showPercentage = "True" %}
+      {% if page.showPercentage %}
+          {% assign showPercentage = page.showPercentage %}
+      {% endif %}
+      {% if include.showPercentage and page.showPercentage != "vitMin" %}
+          {% assign showPercentage = include.showPercentage %}
+      {% endif %}
+
+      {% comment %}
+        page.showPercentage:"{{ page.showPercentage }}"<br>
+        include.showPercentage:"{{ include.showPercentage }}"<br>
+        showPercentage before test:"{{ showPercentage }}"<br>
+      {% endcomment %}
+
+      {% if
+          showPercentage == false or
+          showPercentage == False or
+          showPercentage == "false" or
+          showPercentage == "False"
+      %}
+          {% assign showPercentage = "False" %}
+      {% elsif showPercentage == "vitMin" %}
+          {% assign showPercentage = "False" %}
+
+          {% for vit_min in vit_and_min %}
+              {% if vit_min == nutrient %}
+                  {% assign showPercentage = "True" %}
+              {% endif %}
+          {% endfor %}
+      {% endif %}
+
       <!-- Apply factor -->
       {% assign value = value | times: factor | round: rnd %}
-      {% if showPercentage == "True"  or showPercentage == "true" %}
+      {% if showPercentage == "True" %}
           {% assign percentage = percentage | times: factor | round: 0 %}
       {% else %}
           {% assign percentage = 0 %}
@@ -779,6 +803,15 @@
 
       <!-- Combine for the output -->
       {% assign output = value | append: ' ' | append: unit | append: '<br>(' | append: percentage | append: ' %)' %}
+
+      {% comment %}
+        nutrient:"{{ nutrient }}"<br>
+        nutrient_check:"{{ nutrient | strip }}"<br>
+        vit_and_min:"{{ vit_and_min | join: '|' }}"<br>
+        contains:{{ vit_and_min contains nutrient }}<br>
+        showPercentage:"{{showPercentage}}"<br>
+        percentage:"{{percentage}}"<br>
+      {% endcomment%}
 
       {% if showPercentage == "False" or showPercentage == "false" or percentage == "" or percentage == -1 %}
           {% assign output = value | append: ' ' | append: unit %}
