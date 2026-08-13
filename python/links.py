@@ -10,6 +10,24 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/acai-bowl": [
+        "acai bowl",
+        "acai bowls",
+        "acai yogurt bowl",
+        "acai yogurt bowls",
+        "healthy acai bowl",
+        "healthy acai bowls",
+        "healthy acai yogurt bowl",
+        "healthy acai yogurt bowls",
+        "Açaí bowl",
+        "Açaí bowls",
+        "Açaí yogurt bowl",
+        "Açaí yogurt bowls",
+        "healthy Açaí bowl",
+        "healthy Açaí bowls",
+        "healthy Açaí yogurt bowl",
+        "healthy Açaí yogurt bowls"
+    ],
     "/recipes/monk-fruit-cookies": [
         "granulated monk fruit cookies",
         "granulated monk fruit cookie",
@@ -9181,7 +9199,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-19")):
+            if not file.startswith(("2026-08-20")):
                 continue
 
             # exclude some files

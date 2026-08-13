@@ -206,6 +206,17 @@ def grams(food, mass, vol):
         elif vol == "1.5 cup" or vol == "1 1/2 cup":
             m = "225"
 
+    # Acai
+    elif food == "Frozen acai puree":
+        if vol == "1 packet" or vol == "1 serving":
+            m = "100"
+        elif vol == "2 packets" or vol == "2 packet" or vol == "2 servings" or vol == "2 serving":
+            m = "200"
+        elif vol == "3 packets" or vol == "3 packet" or vol == "3 servings" or vol == "3 serving":
+            m = "300"
+        elif vol == "4 packets" or vol == "4 packet" or vol == "4 servings" or vol == "4 serving":
+            m = "400"
+
     # Mandarin orange
     elif food == "Mandarin orange":
         if vol == "1/2 medium":

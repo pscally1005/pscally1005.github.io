@@ -1,0 +1,62 @@
+---
+layout: post
+title:  Acai Yogurt Bowl
+date:   2026-08-13 00:00:00 -0500
+categories:
+- Recipes
+- Breakfast
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: yes
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/acai-bowl
+image: /assets/Food/Breakfast/Acai Bowl/cover.jpg
+file: acaibowl
+servingSize: Whole bowl
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest:
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/0eQ3y
+tags:
+- Açaí bowls
+- acai bowls
+- plain nonfat greek yogurt
+- smoothie bowls
+- banana
+- walnuts
+Description: |
+  Did you know that acai is a great source of both antioxidants and healthy fats?  Did you also know that most storebought acai bowls are loaded with added sugar, making them closer to eating an ice cream for breakfast?<br><br>
+
+  In comparison, this healthy acai bowl has no added sugar, and only contains whole foods. Yogurt provides protein, walnuts add additional healthy fats, and the banana provides carbs and sweetness.  Plus, there's no blender required; just mix together everything in a bowl!
+Instructions:
+- Run your packet of acai puree under warm water for about 30 seconds to defrost. Add to a small bowl with yogurt, cinnamon, and vanilla. Stir together with a spoon.
+
+- Top with sliced banana and chopped walnuts (or whatever else you want).
+Notes:
+---

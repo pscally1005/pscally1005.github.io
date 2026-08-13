@@ -358,6 +358,17 @@ def vol_from_mass(food, mass, vol):
         elif mass == "225":
             v == "1 1/2 cup"
 
+    # Acai
+    elif food == "Frozen acai puree":
+        if mass == "100":
+            v = "1 packet"
+        elif mass == "200":
+            v = "2 packet"
+        elif mass == "300":
+            v = "3 packet"
+        elif mass == "400":
+            v = "4 packet"
+
     # Empanadas / pierogi
     elif food == "Empanada/Pierogi dough":
         if mass == "333":

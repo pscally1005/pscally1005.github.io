@@ -338,10 +338,10 @@ Almond extract,almond-extract,7.57,454.00,0.01667,5.0,0,TRUE,TRUE,TRUE,TRUE,FALS
 "Almond extract, or vanilla",almond-extract,7.57,454.00,0.01667,5.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4khDgIM
 Vanilla extract,vanilla-extract,1.67,224.00,0.00746,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43MkDqr
 "Vanilla extract, or almond",vanilla-extract,1.67,224.00,0.00746,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43MkDqr
-Mint extract,mint-extract,4.92,56.60,0.08693,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Maple extract,maple-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Rum extract,rum-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
-Coconut extract,coconut-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
+Mint extract,mint-extract,4.92,56.60,0.08693,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4xtISFR
+Maple extract,maple-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4xor2nH
+Rum extract,rum-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3TIq7QF
+Coconut extract,coconut-extract,2.50,30.00,0.08333,5.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4bGjSTE
 Vodka,vodka,10.00,750.00,0.01333,2.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,
 Apples,apple,4.00,"1,362.00",0.00294,7.0,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 "Apple, gala",apple,4.00,"1,362.00",0.00294,7.0,38,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
@@ -382,6 +382,7 @@ Frozen raspberries,raspberries-frozen,4.48,339.60,0.01319,9.9,25,TRUE,TRUE,TRUE,
 Cranberries,cranberry,1.96,168.00,0.01167,9.9,45,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,
 Sugar free cranberry sauce,cranberry-sauce,5.23,600.00,0.00872,8.6,43,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,/recipes/cranberry-sauce
 Low sugar berry jam,jam-low-sugar,2.13,190.00,0.01121,8.8,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.8,0.0,0.0,0.0,0,40,/recipes/berry-jam
+Frozen acai puree,acai,5.00,396.00,0.01263,9.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,https://amzn.to/4cBNvpn
 Fat free Italian dressing,italian-dressing,2.68,360.00,0.00744,9.0,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Italian dressing,italian-dressing,2.68,360.00,0.00744,2.3,29,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,30,/recipes/italian-dressing
 Traditional Italian Salad Dressing,traditional-italian,1.94,480.00,0.00404,2.3,50,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,13.3,0.0,0.0,0.0,0,0,https://amzn.to/4ddXZw7
