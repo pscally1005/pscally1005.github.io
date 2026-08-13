@@ -78,5 +78,5 @@ Notes:
 
 - To make it <a href='/misc/nuts'>nut</a> free, replace the <a href='/misc/nuts'>nuts</a> (either <a href='/misc/nuts#pine-nuts'>pine nuts</a> or <a href='/misc/nuts#walnuts'>walnuts</a>) with <a href='/misc/seeds'>seeds</a>, like <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a> or <a href='/misc/seeds#sunflower-seeds'>sunflower seeds</a>
 
-- For a vegan version, use nutritional yeast in place of <a href='/misc/dairy#grated-cheese'>grated cheese</a>
+- For a vegan version, use <a href='https://amzn.to/43wLkhB'>nutritional yeast</a> in place of <a href='/misc/dairy#grated-cheese'>grated cheese</a>
 ---

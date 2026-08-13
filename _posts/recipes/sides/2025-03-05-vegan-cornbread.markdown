@@ -62,7 +62,7 @@ Description: This isn't my first venture into <a href='/misc/fake-healthy-foods#
 Instructions:
 - Preheat your oven to 400F, and line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - cornmeal, <a href='/misc/nuts#almonds'>almond flour</a>, nutritional yeast, paprika, baking powder, cumin, oregano, thyme, salt, black pepper, baking soda, and cayenne
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - cornmeal, <a href='/misc/nuts#almonds'>almond flour</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, paprika, baking powder, cumin, oregano, thyme, salt, black pepper, baking soda, and cayenne
 
 - Add the wet ingredients to the bowl (water, <a href='/misc/fruit#apple'>applesauce</a>, and <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>) and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until smooth
 - <img src='/assets/Food/Sides/Vegan Cornbread/bowl.jpg' alt='' class='instruction-image'>

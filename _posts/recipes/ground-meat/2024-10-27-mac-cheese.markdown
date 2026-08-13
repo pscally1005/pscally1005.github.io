@@ -69,7 +69,7 @@ Instructions:
 - Add the <a href='/misc/meat'>meat</a> to the pan, and cook until no longer pink. Season with chili powder and black pepper. Remove from the heat
 - <img src='/assets/Food/Ground Meat/M&C/m&c-meat.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, prepare your cheese sauce by blending together all the ingredients - <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#cheddar'>shredded cheese</a>, <a href='/misc/dairy#skim-milk'>milk</a>, nutritional yeast, cornstarch, garlic powder, onion powder, and paprika
+- Meanwhile, prepare your cheese sauce by blending together all the ingredients - <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#cheddar'>shredded cheese</a>, <a href='/misc/dairy#skim-milk'>milk</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, cornstarch, garlic powder, onion powder, and paprika
 - <img src='/assets/Food/Ground Meat/M&C/m&c-sauce.jpg' alt='' class='instruction-image'>
 
 - Combine the cheese sauce and <a href='/misc/grains#pasta'>pasta</a> with the <a href='/misc/meat'>meat</a> in a <a href='https://amzn.to/4aiCsjh'>9x13" casserole pan</a>.  Top with <a href='/misc/dairy#cheddar'>shredded cheese</a>, and optionally top with <a href='/misc/fake-healthy-foods#dips'>BBQ sauce</a> or breadcrumbs as well

@@ -66,7 +66,7 @@ Instructions:
 
 - Meanwhile, in a <a href='https://amzn.to/4qFE9y3'>small pan</a>, toast the <a href='/misc/nuts'>nuts</a> over medium heat for about 3 minutes, or until they start to brown lightly.  Add to the <a href='https://amzn.to/4q0AUjI'>food processor</a>
 
-- To your <a href='https://amzn.to/4q0AUjI'>food processor</a>, combine together the <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/nuts'>nuts</a>, <a href='/misc/veggies#spinach-fresh'>spinach</a>, (drained and rinsed) <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, vinegar, and nutritional yeast.  Blend until everything is fully chopped
+- To your <a href='https://amzn.to/4q0AUjI'>food processor</a>, combine together the <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/nuts'>nuts</a>, <a href='/misc/veggies#spinach-fresh'>spinach</a>, (drained and rinsed) <a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, vinegar, and <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>.  Blend until everything is fully chopped
 
 - Add in the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, and blend until smooth.  Blend in your spices, season with salt to taste, and transfer to an airtight container to store in the fridge
 Notes:

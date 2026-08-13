@@ -83,7 +83,7 @@ Notes:
 
 - |
     <div id='leaner' class='table-of-contents-2'></div>
-    For an even <a href='/misc/fats'>leaner</a> version, replace the <a href='/misc/meat#ham'>ham</a> with an additional 8 oz (226 g) of <a href='/recipes/shredded-chicken'>cooked chicken</a>, and omit the <a href='/misc/dairy#swiss-cheese'>swiss</a> in both the mixture and the topping.  Add 1/4 cup (20 g) of nutritional yeast into the mixture bowl to add some cheesy flavor to make up for the missing <a href='/misc/dairy#swiss-cheese'>swiss</a>.
+    For an even <a href='/misc/fats'>leaner</a> version, replace the <a href='/misc/meat#ham'>ham</a> with an additional 8 oz (226 g) of <a href='/recipes/shredded-chicken'>cooked chicken</a>, and omit the <a href='/misc/dairy#swiss-cheese'>swiss</a> in both the mixture and the topping.  Add 1/4 cup (20 g) of <a href='https://amzn.to/43wLkhB'>nutritional yeast</a> into the mixture bowl to add some cheesy flavor to make up for the missing <a href='/misc/dairy#swiss-cheese'>swiss</a>.
 - |
   COMPARE(
     "cubano",

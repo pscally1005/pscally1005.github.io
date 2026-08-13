@@ -57,7 +57,7 @@ tags:
 - oat flour
 - rosemary
 Description: |
-  Introducing vegan, <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/calories'>low calorie</a> biscuits.  They use a base of riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, which provides neutral taste, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/vitamin-c'>vitamin C</a> for little <a href='/misc/calories'>calories</a>.  <a href='/misc/nuts#almonds'>Almond</a> and <a href='/misc/grains#oats'>oat flour</a> are added as binders, providing <a href='/misc/fats'>healthy fats</a> and <a href='/misc/carbs'>complex starches</a> without the need for <a href='/misc/fake-healthy-foods#seed-oil'>oil</a> or <a href='/misc/grains#white-wheat'>refined flour</a>.  Finally, these "cheesy" tasting biscuits get their flavor from nutritional yeast, rosemary, and <a href='/misc/veggies#garlic'>garlic</a>.  This simple snack or <a href='/recipes/sides'>side dish</a> works both warm or cold.<br><br>
+  Introducing vegan, <a href='/misc/celiac'>gluten-free</a>, <a href='/misc/calories'>low calorie</a> biscuits.  They use a base of riced <a href='/misc/veggies#cauliflower'>cauliflower</a>, which provides neutral taste, <a href='/misc/fiber'>fiber</a>, and <a href='/misc/vitamin-c'>vitamin C</a> for little <a href='/misc/calories'>calories</a>.  <a href='/misc/nuts#almonds'>Almond</a> and <a href='/misc/grains#oats'>oat flour</a> are added as binders, providing <a href='/misc/fats'>healthy fats</a> and <a href='/misc/carbs'>complex starches</a> without the need for <a href='/misc/fake-healthy-foods#seed-oil'>oil</a> or <a href='/misc/grains#white-wheat'>refined flour</a>.  Finally, these "cheesy" tasting biscuits get their flavor from <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, rosemary, and <a href='/misc/veggies#garlic'>garlic</a>.  This simple snack or <a href='/recipes/sides'>side dish</a> works both warm or cold.<br><br>
 
   For a completely different biscuit recipe (one that's not vegan, <a href='/misc/celiac'>gluten free</a>, or healthy), check out my <a href='/recipes/chicken-biscuits'>Small Batch o' Chicken Biscuits</a>!  Or for a <a href='/cookies'>cookie recipe</a> derived from these biscuits, check out my <a href='/recipes/cauliflower-cookies'>Cauliflower Chocolate Chip Cookies</a>!
 Instructions:
@@ -69,7 +69,7 @@ Instructions:
 - In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, pulse thawed <a href='/misc/veggies#cauliflower'>cauliflower</a> in batches until you have the texture of <a href='/misc/grains#brown-rice'>rice</a>. Don't over blend or it will end up mushy and watery. Add the <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a>.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/cauli.jpg' alt='' class='instruction-image'>
 
-- Add in the dry ingredients, and whisk together - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#oats'>oat flour</a>, nutritional yeast, rosemary, baking powder, garlic powder, onion powder, and salt.
+- Add in the dry ingredients, and whisk together - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, rosemary, baking powder, garlic powder, onion powder, and salt.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/dry.jpg' alt='' class='instruction-image'>
 
 - Add the <a href='/misc/seeds#flax-seeds'>flax egg</a> to the bowl, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to form a wet dough.

@@ -51,7 +51,7 @@ tags:
 - nutritional yeast
 - vegan
 - dairy free
-Description: This vegan <a href='/misc/nuts#cashews'>cashew</a> <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a> is perfect for those who are lactose intolerant but still looking to make Italian dishes like <a href='/recipes/lasagna-boats'>lasagna</a>.  <a href='/misc/nuts#cashews'>Cashews</a> make this cheese substitute still creamy with a neutral taste, and the nutritional yeast and salt help it to taste more like <a href='/misc/dairy#mozzarella'>cheese</a>.
+Description: This vegan <a href='/misc/nuts#cashews'>cashew</a> <a href='/misc/homemade-cheese#ricotta'>ricotta cheese</a> is perfect for those who are lactose intolerant but still looking to make Italian dishes like <a href='/recipes/lasagna-boats'>lasagna</a>.  <a href='/misc/nuts#cashews'>Cashews</a> make this cheese substitute still creamy with a neutral taste, and the <a href='https://amzn.to/43wLkhB'>nutritional yeast</a> and salt help it to taste more like <a href='/misc/dairy#mozzarella'>cheese</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, soak your <a href='/misc/nuts#cashews'>cashews</a> in water for at least 2 hours
 

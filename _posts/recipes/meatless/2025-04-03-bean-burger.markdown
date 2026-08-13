@@ -73,7 +73,7 @@ Instructions:
 - Mix in the <a href='/misc/veggies#tomato'>tomato paste</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, mustard, soy sauce, and spices (chili powder, paprika, cumin, black pepper, and salt).
 - <img src='/assets/Food/Meatless/Bean Burger/archive/bowl.jpg' alt='' class='instruction-image'>
 
-- Add in the <a href='https://amzn.to/4aXnK21'>protein powder</a> and nutritional yeast.  Mix, and add in just enough water until you have a sticky "dough" that you can mold and shape with your hands.  I needed about 1/4 cup (60 g) of water when using <a href='https://amzn.to/4aXnK21'>pea protein powder</a>.
+- Add in the <a href='https://amzn.to/4aXnK21'>protein powder</a> and <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>.  Mix, and add in just enough water until you have a sticky "dough" that you can mold and shape with your hands.  I needed about 1/4 cup (60 g) of water when using <a href='https://amzn.to/4aXnK21'>pea protein powder</a>.
 - <img src='/assets/Food/Meatless/Bean Burger/bowlNew.jpg' alt='' class='instruction-image'>
 
 - Add 6 dough balls to your pan, about <b>130 g</b> each. Lightly wet your hands, and shape into patties.  Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> helps to prevent sticking.
@@ -104,7 +104,7 @@ Notes:
 
   Assuming these amounts of water, the mass of each patty will be approximately <b>130 g</b>, <b>120 g</b>, and <b>140 g</b> for <a href='https://amzn.to/4aXnK21'>pea</a>, <a href='/misc/dairy#whey'>whey</a>, and <a href='/misc/dairy#casein'>casein</a>, respectively.<br><br>
 
-  Since it won't be vegan or <a href='/misc/dairy'>dairy</a> free anyway, you may as well use <a href='/misc/dairy#grated-cheese'>grated parmesan cheese</a> (1/4 cup, 30 g) instead of nutritional yeast.
+  Since it won't be vegan or <a href='/misc/dairy'>dairy</a> free anyway, you may as well use <a href='/misc/dairy#grated-cheese'>grated parmesan cheese</a> (1/4 cup, 30 g) instead of <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>.
 - |
   COMPARE(
     "beanburgerpea",

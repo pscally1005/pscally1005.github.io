@@ -60,7 +60,7 @@ Description: |
 Instructions:
 - The night before, soak your <a href='/misc/grains#barley'>barley</a> in 5 cups (1,200 g) water with 1 tbsp (18 g) salt. Cover, and refrigerate overnight
 
-- In the morning, discard the soaking liquid. Add the soaked <a href='/misc/grains#barley'>barley</a> to a <a href='https://amzn.to/49TUS9E'>slow cooker</a> with broth, nutritional yeast, and black pepper
+- In the morning, discard the soaking liquid. Add the soaked <a href='/misc/grains#barley'>barley</a> to a <a href='https://amzn.to/49TUS9E'>slow cooker</a> with broth, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, and black pepper
 
 - Cover and cook on low for 4-8 hours, stirring occasionally
 - <img src='/assets/Food/Sides/Barlotto/pot.jpg' alt='' class='instruction-image'>

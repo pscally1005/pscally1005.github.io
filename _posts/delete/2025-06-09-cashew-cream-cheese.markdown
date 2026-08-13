@@ -61,7 +61,7 @@ Instructions:
 - Add your <a href='/misc/nuts#cashews'>cashews</a> to a bowl, cover with water, and let soak for at least 2 hours. Reserve 1/2 cup (120 g) of the water, and discard the rest
 - <img src='/assets/Food/Savory Sauces/Cashew Cream Cheese/bowl.jpg' alt='' class='instruction-image'>
 
-- Add the soaked <a href='/misc/nuts#cashews'>cashews</a> and water to a <a href='https://amzn.to/4q0AUjI'>food processor</a> or <a href='https://amzn.to/4bO4VQ3'>blender</a>, along with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, nutritional yeast, <a href='/misc/veggies#garlic'>garlic</a>, and salt. Blend until smooth
+- Add the soaked <a href='/misc/nuts#cashews'>cashews</a> and water to a <a href='https://amzn.to/4q0AUjI'>food processor</a> or <a href='https://amzn.to/4bO4VQ3'>blender</a>, along with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, <a href='/misc/veggies#garlic'>garlic</a>, and salt. Blend until smooth
 - <img src='/assets/Food/Savory Sauces/Cashew Cream Cheese/processor.jpg' alt='' class='instruction-image'>
 Notes:
 ---

@@ -48,7 +48,7 @@ tags:
 - tofu
 - frozen spinach
 - nooch
-- nutritional yeast
+- <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>
 - beans
 - sauerkraut
 - saurkraut
@@ -59,7 +59,7 @@ Instructions:
 
 - Add your block of <a href='/misc/beans#tofu'>tofu</a> to the pan and mash with a <a href='https://amzn.to/3Fw6MeC'>wooden spoon</a>. Crack in your <a href='/misc/meat#eggs'>eggs</a>, and mix into the <a href='/misc/veggies#spinach-fresh'>spinach</a> and <a href='/misc/beans#tofu'>tofu</a>. Cook the mix over medium low heat until the <a href='/misc/meat#eggs'>eggs</a> are just cooked (about 3-5 minutes)
 
-- Drain and rinse your <a href='/misc/beans'>beans</a>, and mix into the <a href='/misc/meat#eggs'>egg</a> mixture with nutritional yeast. Divide into 4 servings
+- Drain and rinse your <a href='/misc/beans'>beans</a>, and mix into the <a href='/misc/meat#eggs'>egg</a> mixture with <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>. Divide into 4 servings
 - <img src='/assets/Food/Meatless/Vegetarian/pan.jpg' alt='' class='instruction-image'>
 
 - To reheat, microwave on high for 2 minutes, and then top with sauerkraut or <a href='/recipes/hot-sauce'>hot sauce</a>

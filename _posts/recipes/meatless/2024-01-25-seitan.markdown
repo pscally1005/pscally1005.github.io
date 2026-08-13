@@ -55,7 +55,7 @@ tags:
 - meatless
 Description: I'm not vegan, I'm just trying to get through my 4 lb bag of <a href='/misc/grains#vital-wheat-gluten'>Vital Wheat Gluten</a> without baking enough <a href='/recipes/bread'>bread</a> to feed an entire village. This <a href='/recipes/meatless'>meatless</a> <a href='/misc/protein'>protein</a> option isn't some <a href='/misc/fake-healthy-foods#fake-meat'>ultraprocessed fake meat</a>.  It's a great way to mix it up, and can be used in any way you would typically use <a href='/recipes/ground-meat'>ground meat</a>. Mix it into a <a href='/misc/grains#brown-rice'>rice</a> and <a href='/misc/veggies'>vegetable</a> bowl, serve a sauce over it with <a href='/misc/veggies'>vegetables</a>, make <a href='/recipes/taco'>tacos</a>, the possibilities are endless.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together dry ingredients - <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, nutritional yeast (or <a href='/misc/dairy#grated-cheese'>grated cheese</a>), chili powder, paprika, onion powder, black pepper, and salt
+- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together dry ingredients - <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a> (or <a href='/misc/dairy#grated-cheese'>grated cheese</a>), chili powder, paprika, onion powder, black pepper, and salt
 
 - In a <a href='https://amzn.to/4vamaBm'>mason jar</a>, add the broth and soy sauce, cover, and shake. In place of 3/4 cup vegetable broth, you can use 3/4 cup water + 3/4 tsp bouillon powder.  Pour into the dry bowl, and mix to form a dough
 
