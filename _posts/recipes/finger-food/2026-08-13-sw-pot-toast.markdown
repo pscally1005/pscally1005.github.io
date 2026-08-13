@@ -71,7 +71,7 @@ Description: I just found this awesome idea the other day - sweet potato toast. 
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F.
 
-- Take a large <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut 3 large, thin slices from the center, about 40 g each or 160 g total.
+- Take a large <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut 3 large, thin slices from the center, about 40 g each or 120 g total.
 - <img src='/assets/Food/Finger Food/Sw Pot Toast/raw.jpg' alt='' class='instruction-image'>
 
 - Optionally <a href='https://amzn.to/3Hdg0gk'>lightly spray</a> the top with <a href='/misc/olive-oil'>oil</a>, and optionally sprinkle with flaky salt.
