@@ -10,6 +10,12 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/tomato-paste-sauce": [
+        "tomato paste pasta sauce",
+        "tomato paste sauce",
+        "5 minute pasta sauce",
+        "five minute pasta sauce"
+    ],
     "/recipes/acai-bowl": [
         # "acai",
         # "Açaí"
