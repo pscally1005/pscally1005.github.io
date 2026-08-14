@@ -10,6 +10,24 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/lentil-chips": [
+        "lentil tortilla chips",
+        "lentil chips",
+        "baked lentil chips",
+        "baked lentil tortilla chips",
+        "red lentil tortilla chips",
+        "red lentil chips",
+        "baked red lentil chips",
+        "baked red lentil tortilla chips",
+        "red lentil wraps",
+        "red lentil wrap",
+        "lentil wraps",
+        "lentil wrap",
+        "red lentil tortillas",
+        "red lentil tortilla",
+        "lentil tortillas",
+        "lentil tortilla"
+    ],
     "/recipes/tomato-paste-sauce": [
         "tomato paste pasta sauce",
         "tomato paste sauce",
@@ -9252,7 +9270,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-20")):
+            if not file.startswith(("2026-08-23")):
                 continue
 
             # exclude some files
