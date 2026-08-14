@@ -5477,6 +5477,8 @@ LINKS = {
     ],
     "/misc/protein": [
         "protein quality",
+        "plant based protein",
+        "plant-based protein",
         "branched-chain amino acids (BCAAs)",
         "branched-chain amino acid (BCAA)",
         "branched chain amino acids (BCAAs)",
@@ -7325,6 +7327,8 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "similar (but sweetened) fudge recipe",
+    "these tortilla chips",
+    "return the chips",
     "most frozen acai",
     "chocolate mixture",
     "<b>Cheese</b>",
