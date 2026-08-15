@@ -76,6 +76,6 @@ Notes:
 
 - Note that my <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> is unsalted and unsweetened.  If yours is salted, either halve or omit the salt
 
-- You can also bake in a parchment lined, lightly oiled, <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>
+- You can also bake in a parchment lined, <a href='https://amzn.to/3Hdg0gk'>lightly oiled</a>, <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> as well, and slice into 16 square bars.  Bake for 45 minutes (uncovered) at 325F (not 350F), or until the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>
 - <img src='/assets/Food/Protein Powder/Banana Protein/banana-protein-square-2.jpg' alt='' class='instruction-image'>
 ---

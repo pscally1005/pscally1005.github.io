@@ -5573,6 +5573,12 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4wzvob5": [
+        "small ramekins",
+        "small ramekin",
+        "ramekins",
+        "ramekin"
+    ],
     "https://amzn.to/4cBNvpn": [
         "Açaí",
         "acai",
@@ -6239,7 +6245,9 @@ LINKS = {
         "spray it with oil",
         "grease it with oil",
         "lightly grease it with oil",
-        "lightly grease"
+        "lightly grease",
+        "lightly oiled",
+        "lightly greased"
     ],
     "https://amzn.to/4adxMft": [
         "large glass bowls",
