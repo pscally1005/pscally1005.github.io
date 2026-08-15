@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/cottage-cheese-chips
 image: /assets/Food/Finger Food/CC Chips/cover.jpg
 file: ccchips
-servingSize: 1 chip (~TODO g)
+servingSize: 8 chips (~TODO g)
 section1:
 start2:
 section2:
