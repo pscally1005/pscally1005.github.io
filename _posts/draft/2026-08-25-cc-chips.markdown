@@ -53,16 +53,16 @@ tags:
 - gluten free
 - gluten-free
 - everything bagel seasoning
-Description: These 1 ingredient cottage cheese chips are made with just cottage cheese (who wudda thunk it?).  Alright fine, I'm also using everything bagel seasoning too.  They're high protein, dead simple, tasty, and cheap.  What more can you ask for?
+Description: These 1 ingredient cottage cheese chips are made with just <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> (who wudda thunk it?).  Alright fine, I'm also using <a href='https://amzn.to/40gmjGE'>everything bagel seasoning</a> too.  They're <a href='/misc/high-protein'>high protein</a>, dead simple, tasty, and cheap.  What more can you ask for?
 Instructions:
-- Preheat your oven to 350F.  Line a large cookie sheet with parchment paper.
+- Preheat your oven to 350F.  Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- Dollop your cottage cheese onto the prepared pan, making 16 circles of about <b>14 g</b> (1 tbsp) each.  Flatten into a circle, and optionally top with everything bagel seasoning.
+- Dollop your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> onto the prepared pan, making 16 circles of about <b>14 g</b> (1 tbsp) each.  Flatten into a circle, and optionally top with <a href='https://amzn.to/40gmjGE'>everything bagel seasoning</a>.
 - <img src='/assets/Food/Finger Food/CC Chips/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 30 minutes, or until the edges are golden brown and the centers are set.
 - <img src='/assets/Food/Finger Food/CC Chips/baked.jpg' alt='' class='instruction-image'>
 
-- Transfer to a cooling rack to completely cool, about 20 minutes.
+- Transfer to a <a href='https://amzn.to/4qQNmn2'>cooling rack</a> to completely cool, about 20 minutes.
 Notes:
 ---

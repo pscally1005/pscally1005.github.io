@@ -5251,6 +5251,8 @@ LINKS = {
     ],
     "/misc/iron": [
         "I Run on Iron",
+        "plant based iron",
+        "plant-based iron",
         "minerals iron",
         "mineral iron",
         "iron",
@@ -8723,7 +8725,7 @@ EXCLUDED_PHRASES = [
     # "onion and garlic",
     # "onion, garlic",
     # "monk fruit",
-    "nutritional yeast",
+    # "nutritional yeast",
     "minutes",
     "minute",
     # "non fat",
@@ -9299,7 +9301,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-22")):
+            if not file.startswith(("2026-08-25")):
                 continue
 
             # exclude some files

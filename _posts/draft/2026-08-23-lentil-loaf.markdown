@@ -53,24 +53,24 @@ tags:
 - toast
 - gluten-free
 - gluten free
-Description: This simple small loaf of bread is gluten free, grain free, and perfect for any toast or sandwiches.  It uses a base of lentils and psyllium husk for a high fiber and healthy bread that's also a good source of both plant based iron and folate.  It's also much simpler to make than standard wheat-based bread, requiring less kneading and no proofing time.
+Description: This simple small loaf of <a href='/recipes/bread'>bread</a> is <a href='/misc/celiac'>gluten free</a>, <a href='/misc/grains'>grain free</a>, and perfect for any toast or sandwiches.  It uses a base of <a href='/misc/beans#red-lentils'>lentils</a> and <a href='/misc/psyllium-husk'>psyllium husk</a> for a <a href='/misc/fiber'>high fiber</a> and healthy <a href='/recipes/bread'>bread</a> that's also a good source of both <a href='/misc/iron'>plant based iron</a> and <a href='/misc/nutrient-alphabet#F'>folate</a>.  It's also much simpler to make than standard <a href='/recipes/ww-bread'>wheat based bread</a>, requiring less kneading and no proofing time.
 Instructions:
-- Soak your lentils in water at room temperature for 2 hours. Discard the soaking liquid.
+- Soak your <a href='/misc/beans#red-lentils'>lentils</a> in water at room temperature for 2 hours. Discard the soaking liquid.
 
-- Preheat your oven to 350F. Line a 9x5" bread pan with parchment paper, and lightly grease with oil.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
 
-- Add soaked lentils to a blender with oil, yogurt, salt, paprika, garlic powder, onion powder, and rosemary. Blend until smooth.
+- Add soaked <a href='/misc/beans#red-lentils'>lentils</a> to a <a href='https://amzn.to/3SsDLn7'>blender</a> with <a href='/misc/olive-oil'>oil</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, salt, paprika, garlic powder, onion powder, and rosemary. Blend until smooth.
 
-- Transfer the batter to a large bowl. Add in psyllium husk and baking powder. Wearing a kitchen glove to prevent sticking, knead the dough until smooth and fully combined.
+- Transfer the batter to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Add in <a href='/misc/psyllium-husk'>psyllium husk</a> and baking powder. Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a> to prevent sticking, knead the dough until smooth and fully combined.
 - <img src='/assets/Food/Bread/Lentil Loaf/blend.jpg' alt='' class='instruction-image'>
 
-- Shape the dough into your prepared bread pan. Optionally top with sesame seeds.
+- Shape the dough into your prepared <a href='https://amzn.to/3YUjIkN'>bread pan</a>. Optionally top with <a href='/misc/seeds#sesame-seeds'>sesame seeds</a>.
 - <img src='/assets/Food/Bread/Lentil Loaf/raw.jpg' alt='' class='instruction-image'>
 
-- Bake uncovered at 350F for about 30 minutes, or until lightly golden, and the internal temperature is about 205F.
+- Bake uncovered at 350F for about 30 minutes, or until lightly golden, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.
 - <img src='/assets/Food/Bread/Lentil Loaf/baked.jpg' alt='' class='instruction-image'>
 
-- Transfer to a wire rack to completely cool before slicing.
+- Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to completely cool before slicing.
 - <img src='/assets/Food/Bread/Lentil Loaf/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---
