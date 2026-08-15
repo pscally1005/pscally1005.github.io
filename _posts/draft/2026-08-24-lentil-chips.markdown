@@ -35,7 +35,7 @@ section4:
 start5:
 section5:
 Prep: 60
-Rest: 10
+Rest: 120
 Cook: 35
 Source1: https://www.instagram.com/reel/Db3tLDyoCS0/?igsh=MXAzczZhZ3FtejM0cg==
 Source2: https://drveganblog.com/red-lentil-chips/
@@ -52,7 +52,7 @@ tags:
 - guac
 Description: These tortilla chips are <a href='/misc/celiac'>gluten free</a>, <a href='/misc/grains'>grain free</a>, and lower in <a href='/misc/fats'>fat</a>. They're made with <a href='/misc/beans#red-lentils'>lentils</a>, which are a good source of <a href='/misc/fiber'>fiber</a> and <a href='/misc/protein'>plant based protein</a>, and only use a minimal amount of <a href='/misc/olive-oil'>oil</a>, keeping them lower in <a href='/misc/calories'>calories</a>. Pair them with <a href='/hummus'>hummus</a> or any of your favorite <a href='/recipes/savory-sauces'>dips</a>, and you have the perfect snack!
 Instructions:
-- Add <a href='/misc/beans#red-lentils'>lentils</a>, water, and salt to a <a href='https://amzn.to/3SsDLn7'>large blender</a>. Let the <a href='/misc/beans#red-lentils'>lentils</a> soak for 1 hour on the counter before blending until smooth.
+- Add <a href='/misc/beans#red-lentils'>lentils</a>, water, and salt to a <a href='https://amzn.to/3SsDLn7'>large blender</a>. Let the <a href='/misc/beans#red-lentils'>lentils</a> soak for 2 hours on the counter before blending until smooth.
 
 - Preheat your oven to 350F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Pour the batter onto your prepared <a href='https://amzn.to/45sRAsB'>baking sheet</a>, and spread it thin to the edges of the pan.
 - <img src='/assets/Food/Finger Food/Lentil Chips/raw.jpg' alt='' class='instruction-image'>
