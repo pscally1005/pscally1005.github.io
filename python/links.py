@@ -371,6 +371,9 @@ LINKS = {
         "herbal tea-r list",
         "herbal tea list",
         "herbal tea tier list",
+        "teas",
+        "tea"
+        "herbal teas",
         "herbal tea"
     ],
     "/recipes/fiber-chocolate-milk": [
