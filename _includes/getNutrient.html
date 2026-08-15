@@ -791,6 +791,13 @@
                   {% assign showPercentage = "True" %}
               {% endif %}
           {% endfor %}
+      {% elsif
+          showPercentage == true or
+          showPercentage == True or
+          showPercentage == "true" or
+          showPercentage == "True"
+      %}
+          {% assign showPercentage = "True" %}
       {% endif %}
 
       <!-- Apply factor -->
@@ -807,11 +814,9 @@
       {% comment %}
         nutrient:"{{ nutrient }}"<br>
         nutrient_check:"{{ nutrient | strip }}"<br>
-        vit_and_min:"{{ vit_and_min | join: '|' }}"<br>
-        contains:{{ vit_and_min contains nutrient }}<br>
         showPercentage:"{{showPercentage}}"<br>
         percentage:"{{percentage}}"<br>
-      {% endcomment%}
+      {% endcomment %}
 
       {% if showPercentage == "False" or showPercentage == "false" or percentage == "" or percentage == -1 %}
           {% assign output = value | append: ' ' | append: unit %}
@@ -821,7 +826,7 @@
               {% assign output = value | append: ' ' | append: unit | append: ' (' | append: percentage | append: ' %)' %}
 
               {% assign nutrients_without_percentage = "Calories|Net Carbs|Sugar|Monounsaturated Fat|Polyunsaturated Fat|Trans Fat|Caffeine|Total Sugar|Sugar Alcohol|Allulose|Lactose|EPA|DHA|Alcohol|Soluble Fiber|Insoluble Fiber" | split: "|" %}
-              {% if nutrients_without_percentage contains nutrient" %}
+              {% if nutrients_without_percentage contains nutrient %}
                   {% assign output = value | append: ' ' | append: unit %}
               {% endif %}
 
