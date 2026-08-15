@@ -10,6 +10,31 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/cottage-cheese-chips": [
+        "cottage cheese chips",
+        "cottage cheese chip",
+        "high protein cottage cheese chips",
+        "high protein cottage cheese chip",
+        "1 ingredient cottage cheese chips",
+        "1 ingredient cottage cheese chip",
+        "one ingredient cottage cheese chips",
+        "one ingredient cottage cheese chip"
+    ],
+    "/recipes/lentil-loaf": [
+        "gluten free lentil loaf",
+        "lentil loaf",
+        "lentil loaf (gf)"
+    ],
+    "/recipes/english-muffin": [
+        "microwave english muffins (gf)",
+        "microwave english muffins",
+        "microwave english muffin (gf)",
+        "microwave english muffin",
+        "english muffins (gf)",
+        "english muffins",
+        "english muffin (gf)",
+        "english muffin"
+    ],
     "/recipes/lentil-chips": [
         "lentil tortilla chips",
         "lentil chips",
@@ -9274,7 +9299,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-23")):
+            if not file.startswith(("2026-08-22")):
                 continue
 
             # exclude some files
