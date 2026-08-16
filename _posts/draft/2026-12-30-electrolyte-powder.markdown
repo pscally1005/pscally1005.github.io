@@ -60,30 +60,50 @@ tags:
 - chocolate
 - hot cocoa
 - hot chocolate
-Description: Homemade electrolyte powder!  This is a bulk base recipe of electrolytes (magnesium, potassiumm, and sodium) with added sugar-free sweetener (granulated monk fruit).  <a href='#notes'>Below</a> are different flavor options, such as lemon, lime, grapefruit, hot chocolate, and pumpkin spice!
+Description: Homemade electrolyte powder!  This is a bulk base recipe of electrolytes (<a href='/misc/magnesium'>magnesium</a>, <a href='/misc/potassium'>potassium</a>, and <a href='/misc/sodium'>sodium</a>) with added sugar-free sweetener (<a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>).  <a href='#notes'>Below</a> are different flavor options, such as lemon, lime, grapefruit, hot chocolate, and pumpkin spice!
 Instructions:
-- Mix together sodium, potassium, magnesium, and granulated monk fruit in a mason jar.
+- Mix together <a href='/misc/sodium'>sodium</a>, <a href='/misc/potassium'>potassium</a>, <a href='/misc/magnesium'>magnesium</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> in a <a href='https://amzn.to/4vamaBm'>mason jar</a>.
 
-- This is your unflavored (but sweetened) base that makes 60 servings of <b>10 g</b> each.  To make an electrolye drink, mix a <b>10 g</b> serving of electrolyte powder with a <a href=#notes'>flavor</a> and 2 cups (480 g) of water or any liquid of choice.
+- This is your unflavored (but sweetened) base that makes 60 servings of <b>10 g</b> each.  To make an electrolyte drink, mix a <b>10 g</b> serving of electrolyte powder with a <a href='#notes'>flavor</a> and 2 cups (480 g) of water, or any liquid of choice.
 Notes:
 - |
   <div id='notes' class='table-of-contents-2'></div>
   <font size="+2"><b><u>Notes</u></b></font>
 
-- <i>Lemon</i>
+- |
+  <div id='lemon' class='table-of-contents-2'></div>
+  <font size="+2"><i>Lemon</i></font>
 - INGREDIENTS(electrolyte-lemon)
+- |
+  <hr>
 
-- <i>Lime</i>
+- |
+  <div id='lime' class='table-of-contents-2'></div>
+  <font size="+2"><i>Lime</i></font>
 - INGREDIENTS(electrolyte-lime)
+- |
+  <hr>
 
-- <i>Grapefruit</i>
+- |
+  <div id='grapefruit' class='table-of-contents-2'></div>
+  <font size="+2"><i>Grapefruit</i></font>
 - INGREDIENTS(electrolyte-grapefruit)
+- |
+  <hr>
 
-- <i>Hot Chocolate</i>
+- |
+  <div id='cocoa' class='table-of-contents-2'></div>
+  <font size="+2"><i>Hot Cocoa</i></font>
 - INGREDIENTS(electrolyte-cocoa)
+- |
+  <hr>
 
-- <i>Pumpkin Spice</i>
+- |
+  <div id='spice' class='table-of-contents-2'></div>
+  <font size="+2"><i>Pumpkin Spice</i></font>
 - INGREDIENTS(electrolyte-spice)
+- |
+  <hr>
 
 - |
   COMPARE(
@@ -95,11 +115,11 @@ Notes:
     "electrolyte-spice";
 
     "<a href='#recipe'>Base</a>",
-    "<a href='https://amzn.to/4gcPtxH'>Lemon</a>",
-    "<a href='https://amzn.to/4wuq6NI'>Lime</a>",
-    "<a href='https://amzn.to/4wPNi9H'>Grapefruit</a>",
-    "<a href='/misc/chocolate-benefits'>Hot<br>Chocolate</a>",
-    "Pumpkin<br>Spice";
+    "<a href='#lemon'>Lemon</a>",
+    "<a href='#lime'>Lime</a>",
+    "<a href='#grapefruit'>Grapefruit</a>",
+    "<a href='#cocoa'>Hot<br>Cocoa</a>",
+    "<a href='#spice'>Pumpkin<br>Spice</a>";
 
     "Calories",
     "Magnesium",
