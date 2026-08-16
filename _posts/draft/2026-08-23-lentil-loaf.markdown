@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/lentil-loaf
 image: /assets/Food/Bread/Lentil Loaf/cover.jpg
 file: lentilloaf
-servingSize: 1 slice (~37 g)
+servingSize: 1 slice (~35 g)
 section1: Soak
 start2: Extra virgin olive oil
 section2: Blend

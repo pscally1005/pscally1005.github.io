@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  High Protein Sugar Free Cannoli Dip
-date:   2026-08-08 00:00:00 -0500
+date:   2026-08-16 00:00:00 -0500
 categories:
 - Recipes
 - Sweet Spreads
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
