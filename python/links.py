@@ -10,6 +10,23 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/mug-brownie": [
+        "microwave mug brownies",
+        "microwave mug brownie",
+        "healthy mug brownies",
+        "healthy mug brownie",
+        "low calorie mug brownies",
+        "low calorie mug brownie",
+        "low-calorie mug brownies",
+        "low-calorie mug brownie",
+        "sugar free mug brownies",
+        "sugar-free mug brownies",
+        "sugar-free mug brownie",
+        "gluten free mug brownies",
+        "gluten free mug brownie",
+        "gluten-free mug brownies",
+        "gluten free mug brownie"
+    ],
     # "/recipes/homemade-electrolyte-powder": [
     #     "homemade electrolyte powder",
     # ],
@@ -9336,7 +9353,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-25")):
+            if not file.startswith(("2026-08-26")):
                 continue
 
             # exclude some files
