@@ -65,6 +65,8 @@ def vol_from_mass(food, mass, vol):
             v = "1 3/4 cup"
         elif mass == "400":
             v = "2 cup"
+        elif mass == "500" or mass == "480":
+            v = "2 1/2 cup"
 
     # Drained and rinsed beans
     if food == "Chickpeas, drained and rinsed" or food == "Black beans, drained and rinsed" or food == "Kidney beans, drained and rinsed" or food == "Pinto beans, drained and rinsed" or food == "Cannellini beans, drained and rinsed" or food == "Great northern beans, drained and rinsed" or food == "Navy beans, drained and rinsed" or food == "Beans, drained and rinsed" or food == "Cooked black beans" or food == "Cooked navy beans" or food == "Slow Cooker Dried Beans":
@@ -1779,6 +1781,16 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 serving"
         elif mass == "3.4" or mass == "3.3":
             v = "1 serving"
+
+    # Electrolye mix with granulated monk fruit
+    elif food == "Electrolyte mix, base":
+      if mass == "10":
+          v = "1 serving"
+
+    # True fruit flavors
+    elif food == "True Lemon" or food == "True Lime" or food == "True Grapefruit":
+        if mass == "0.8":
+            v = "1 packet"
 
     return v
 

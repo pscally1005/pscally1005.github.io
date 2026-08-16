@@ -193,6 +193,8 @@ def ingredients(food):
     elif food == "lmnt-citrate":
         # f = "Homemade electrolyte powder"
         f = "Homemade electrolyte powder, citrate"
+    elif food == "electrolyte-base":
+        f = "Electrolyte mix, base"
     elif food == "Sweetener, agave, syrup":
         f = "Agave"
     elif food == "Molasses" or food == "Blackstrap molasses" or food == "Molasses, blackstrap":

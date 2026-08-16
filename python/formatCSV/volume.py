@@ -100,7 +100,7 @@ def fix(vol):
         v = "2 cup"
     elif vol == "2.22 cup":
         v = "2 1/4 cup"
-    elif vol == "40 tbsp" or vol == "2.52 cup" or vol == "2.5 cup":
+    elif vol == "40 tbsp" or vol == "2.52 cup" or vol == "2.5 cup" or vol == "120 tsp":
         v = "2 1/2 cup"
     elif vol == "3 cup (240.0 ml) aprx" or vol == "3 cup unsifted" or vol == "6 1/2 cup" or vol == "48 tbsp" or vol == "48 Tbsp" or vol == "50 tbsp" or vol == "50 Tbsp" or vol == "3.11 cup, NFS" or vol == "2.99 cup drained, rinsed":
         v = "3 cup"

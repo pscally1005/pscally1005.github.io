@@ -2,7 +2,7 @@
 
     <!-- Exception for empanadas -->
     {% assign flg_exception = "false" %}
-    {% if page.title == 'Almond Flour Empanada & Pierogi Dough' or page.title == 'Sweet Potato Toast' or page.title == 'Sourdough Pizza Dough' %}
+    {% if page.title == 'Almond Flour Empanada & Pierogi Dough' or page.title == 'Sweet Potato Toast' or page.title == 'Sourdough Pizza Dough' or page.title == 'Homemade Electrolyte Powder' %}
         {% assign flg_exception = "true" %}
     {% endif %}
 
@@ -95,7 +95,7 @@
                                 {% assign costFlg = "false" %}
                                 {% if page.title == "Copycat Barebell Protein Bars" or page.title == "Chocolate Covered Marzipan" or page.title == "Lactose Free No Churn Chocolate Ice Cream" or page.title == "Recession Beans: A $1 Meal" %}
                                   {% assign costFlg = "true" %}
-                                {% elsif page.title == "Sugar Free Dubai Chocolate" or page.title == "Copycat Core Power Protein Milkshake" or page.title == "Copycat LMNT Electrolyte Powder" %}
+                                {% elsif page.title == "Sugar Free Dubai Chocolate" or page.title == "Copycat Core Power Protein Milkshake" or page.title == "Copycat LMNT Electrolyte Powder" or page.title == "Homemade Electrolyte Powder" %}
                                   {% assign costFlg = "serving" %}
                                 {% endif %}
 

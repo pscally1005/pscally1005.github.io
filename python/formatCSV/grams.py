@@ -1999,6 +1999,8 @@ def grams(food, mass, vol):
             m = "350"
         elif vol == "2 cup":
             m = "400"
+        elif vol == "2.5 cup" or vol == "2 1/2 cup":
+            m = "500"
 
     # Popcorn
     elif food == "Popcorn kernels":
@@ -2084,6 +2086,16 @@ def grams(food, mass, vol):
             m = "1.7"
         elif vol == "1 serving":
             m = "3.4"
+
+    # Electrolye mix with granulated monk fruit
+    elif food == "Electrolyte mix, base":
+      if vol == "1 serving":
+          m = "10"
+
+    # True fruit flavors
+    elif food == "True Lemon" or food == "True Lime" or food == "True Grapefruit":
+        if vol == "1 packet" or vol == "1 serving":
+            m = "0.8"
 
     return m
 

@@ -316,7 +316,7 @@ Sugar free chocolate bar,100,1.46,113.20,0.01290,7.0,20,TRUE,TRUE,TRUE,TRUE,TRUE
 70% chocolate,70,3.37,99.05,0.03402,4.9,43,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,30.0,0.0,0.0,0.0,0,25,
 50% chocolate,50,1.12,99.62,0.01124,3.5,23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,48.5,0.0,0.0,4.0,0,25,
 Allulose chocolate bar,allulose-choc,2.45,176.00,0.01391,5.3,20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,40.9,0.0,0,25,/misc/healthier-brownies-experiment#allulose-chocolate
-Granulated monk fruit,granulated-monk-fruit,5.20,454.00,0.01145,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/4ceFnvP
+Granulated monk fruit,granulated-monk-fruit,8.99,537.70,0.01672,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/4ceFnvP
 Allulose,allulose,16.96,"1,135.00",0.01494,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,100.0,0.0,0,40,https://amzn.to/4mzsH5p
 Powdered monk fruit,powdered-monk-fruit,9.31,454.00,0.02051,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,100.0,0.0,0.0,0,40,https://amzn.to/43vQs5E
 Monk fruit chocolate chunks,monk-fruit-choc,1.13,90.00,0.01256,5.3,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,33.3,0.0,0.0,0,25,/recipes/monkfruit-chocolate-chunks
@@ -528,10 +528,14 @@ Tilapia,tilapia,10.78,908.00,0.01187,8.9,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0
 "Tuna, in water",tuna,3.28,452.80,0.00724,9.1,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3Z2YhhM
 Creatine Monohydrate,creatine,14.39,500.00,0.02878,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4qJC2tw
 Lactase enzyme,lactase,16.95,500.00,0.03390,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43ycqF2
-Sodium Chloride,salt,1.92,454.00,0.00423,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43xsRBI
-Potassium Chloride,kcl,15.29,"1,090.00",0.01403,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3P2NFNU
+Sodium Chloride,salt,1.87,454.00,0.00412,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43xsRBI
+Potassium Chloride,kcl,16.91,908.00,0.01862,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3P2NFNU
 Magnesium Malate,magnesium-malate,12.57,100.00,0.12570,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4jl3nx0
 Magnesium Glycinate,magnesium-glycinate,17.95,250.00,0.07180,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/43lbOE5
+True Lime,true-lime,5.51,80.00,0.06888,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4wuq6NI
+True Lemon,true-lemon,5.89,80.00,0.07363,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4gcPtxH
+True Grapefruit,true-grapefruit,3.18,25.60,0.12422,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4wPNi9H
+"Electrolyte mix, base",electrolyte-base-100g,10.04,583.00,0.01722,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,/recipes/homemade-electrolyte-powder
 Citric acid,citric-acid,19.99,"2,270.00",0.00881,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3WEWlKL
 Nutricost Electrolyte Mix,electrolyte-mix,17.95,341.00,0.05264,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/3FxWcDZ
 Electrolyte mix,electrolyte-mix,17.95,341.00,0.05264,0.0,68,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4layTR1

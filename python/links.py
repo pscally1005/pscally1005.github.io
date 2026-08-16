@@ -10,6 +10,9 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    # "/recipes/homemade-electrolyte-powder": [
+    #     "homemade electrolyte powder",
+    # ],
     "/recipes/cottage-cheese-chips": [
         "cottage cheese chips",
         "cottage cheese chip",
@@ -7366,6 +7369,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "lemon, lime, grapefruit, hot chocolate, and pumpkin spice",
     "similar (but sweetened) fudge recipe",
     "96 chips",
     "these tortilla chips",
@@ -9315,7 +9319,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-24")):
+            if not file.startswith(("2026-12-30")):
                 continue
 
             # exclude some files
