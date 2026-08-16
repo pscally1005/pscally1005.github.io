@@ -62,33 +62,33 @@ Description: These superfood bowls make 2 servings, perfect to share with someon
 Instructions:
 - |
   <b>Roasted Veggies</b><br>
-  Wash your beet, wrap in aluminum foil, and air fry at 400F for about 45 minutes, or until soft (timing depends on the size of your beets).  Unwrap the beet, discard the ends, and cut into a medium dice (keep the skin on!!)<br><br>
+  Wash your <a href='/misc/veggies#beets'>beet</a>, wrap in aluminum foil, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 45 minutes, or until soft (timing depends on the size of your <a href='/misc/veggies#beets'>beets</a>).  Unwrap the <a href='/misc/veggies#beets'>beet</a>, discard the ends, and cut into a medium dice (keep the skin on!!)<br><br>
 
-  Meanwhile, cut your pepper into large pieces, season with oil, salt, and black pepper, and air fry for 10 minutes (have the beet and pepper finish at the same time).  Cut into a medium dice
+  Meanwhile, cut your <a href='/misc/veggies#pepper'>pepper</a> into large pieces, season with <a href='/misc/olive-oil'>oil</a>, salt, and black pepper, and <a href='https://amzn.to/3FuWETp'>air fry</a> for 10 minutes (have the <a href='/misc/veggies#beets'>beet</a> and <a href='/misc/veggies#pepper'>pepper</a> finish at the same time).  Cut into a medium dice
 - <img src='/assets/Food/Fish/Superfood/superfood-beets.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Fish/Superfood/superfood-peppers.jpg' alt='' class='instruction-image'>
 
 - |
   <b>Quinoa</b><br>
-  Add quinoa, water, and salt to a <a href='https://amzn.to/46ccg8m'>small pot</a>. Bring to a boil, cover, reduce to medium, and let simmer for about 12 minutes, until fully cooked. Set aside
+  Add <a href='/misc/grains#quinoa'>quinoa</a>, water, and salt to a <a href='https://amzn.to/46ccg8m'>small pot</a>. Bring to a boil, cover, reduce to medium, and let simmer for about 12 minutes, until fully cooked. Set aside
 - <img src='/assets/Food/Fish/Superfood/superfood-quinoa.jpg' alt='' class='instruction-image'>
 
 - |
   <b>Kale</b><br>
-  Heat a large pan over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Cover and cook your kale with spices (chili powder, garlic powder, onion powder, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
+  Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Cover and cook your <a href='/misc/veggies#kale'>kale</a> with spices (chili powder, garlic powder, onion powder, and lemon pepper) until the water is cooked out and it just starts to brown and stick to the pan (about 10 minutes)
 - <img src='/assets/Food/Fish/Superfood/superfood-kale.jpg' alt='' class='instruction-image'>
 
 - |
-  <b>Pumpkin seeds</b><br>
-  Toast your pumpkin seeds in a small pan over medium heat until fragrant (3-5 minutes). Set aside
+  <b>Pumpkin Seeds</b><br>
+  Toast your <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a> in a <a href='https://amzn.to/4qFE9y3'>small pan</a> over medium heat until fragrant (3-5 minutes). Set aside
 
 - |
   <b>Assemble</b><br>
-  Prepare your 2 bowls with a base of half your kale, and add half the quinoa on top to each bowl.  Top each with half of your diced beets and peppers<br><br>
+  Prepare your 2 bowls with a base of half your <a href='/misc/veggies#kale'>kale</a>, and add half the <a href='/misc/grains#quinoa'>quinoa</a> on top to each bowl.  Top each with half of your diced <a href='/misc/veggies#beets'>beets</a> and <a href='/misc/veggies#pepper'>peppers</a><br><br>
 
-  Add 1/2 sliced avocado to each bowl. Cut your kiwi into a small dice (with the skin!!), and add half to each bowl.  Add half your pumpkin seeds to each bowl<br><br>
+  Add 1/2 sliced <a href='/misc/fruit#avocado'>avocado</a> to each bowl. Cut your <a href='/misc/fruit#kiwi'>kiwi</a> into a small dice (with the skin!!), and add half to each bowl.  Add half your <a href='/misc/seeds#pumpkin-seeds'>pumpkin seeds</a> to each bowl<br><br>
 
-  Add any <a href='/misc/protein'>protein</a> source you have (I'm going with canned salmon here)<br><br>
+  Add any <a href='/misc/protein'>protein</a> source you have (I'm going with <a href='/misc/fish#salmon'>canned salmon</a> here)<br><br>
 
   Top each bowl with half of your sauerkraut and half of your mustard.  Mix, and serve warm or cold
 - <img src='/assets/Food/Fish/Superfood/superfood-mixed.jpg' alt='' class='instruction-image'>
@@ -175,7 +175,7 @@ Notes:
     <li><a href='/misc/meat#chicken-thighs'>Chicken thighs</a></li>
     <li>Hard boiled <a href='/misc/meat#eggs'>eggs</a></li>
     <li><a href='/misc/meat#ground-beef'>Ground beef</a></li>
-    <li><a href='/misc/meat#chicken-thighs'>Ground chicken</a></li>
+    <li><a href='/misc/ground-chicken'>Ground chicken</a></li>
     <li><a href='/misc/meat#ground-turkey'>Ground turkey</a></li>
     <li><a href='/misc/fish#mackerel'>Mackerel</a> (canned)</li>
     <li><b><a href='/misc/fish#salmon'>Salmon</a> (canned)</b></li>
@@ -186,19 +186,19 @@ Notes:
     <li><a href='/misc/meat#turkey-breast'>Turkey breast</li>
   </ul><br>
 
-  <i><a href='/salad-dressings'>Dressing/Toppings</a></i>
+  <i><a href='/salad-dressings'>Dressing</a>/Toppings</i>
   <ul>
     <li><a href='/misc/apple-cider-vinegar'>Apple cider vinegar</a></li>
     <li>Balsamic vinegar (not vinaigrette)</li>
     <li><a href='/misc/olive-oil'>Extra virgin olive oil</a></li>
     <li><a href='/recipes/guacamole'>Guac</a></li>
-    <li>Hot sauce</li>
+    <li><a href='/recipes/hot-sauce'>Hot sauce</a></li>
     <li><a href='/hummus'>Hummus</a></li>
     <li>Kimchi</li>
     <li><a href='/misc/fruit#lemon-juice'>Lemon juice</a></li>
     <li><a href='/misc/fruit#lime-juice'>Lime juice</a></li>
     <li><b>Mustard</b></li>
-    <li>Nutritional yeast</li>
+    <li><a href='https://amzn.to/43wLkhB'>Nutritional yeast</a></li>
     <li><a href='/misc/fruit#olives'>Olives</a></li>
     <li><a href='/recipes/salsa'>Salsa</a></li>
     <li><b>Sauerkraut</b></li>

@@ -52,20 +52,20 @@ tags:
 - oat flour
 - sweet potato
 - fries
-Description: <a href='/misc/fish'>Fish</a> and <a href='/misc/veggies#potato'>Chips</a> is a classic British meal that consists of breaded and deep fried <a href='/misc/fish'>fish</a>, served with a <a href='/recipes/sides'>side</a> of French fries, or chips as they would be called across the pond. To make it a more nutritious meal, I've breaded my <a href='/recipes/fish'>fish</a> in <a href='/misc/celiac'>gluten free</a> <a href='/misc/grains#oats'>oat flour</a>, and cooked both the <a href='/misc/fish'>fish</a> and the <a href='/misc/veggies#potato'>potatoes</a> in my air fryer. For even more <a href='/misc/nutrient-alphabet'>nutrients</a> (and taste imo), I've used <a href='/misc/veggies#sweet-potato'>sweet potato</a> here too.
+Description: <a href='/misc/fish'>Fish</a> and <a href='/misc/veggies#potato'>Chips</a> is a classic British meal that consists of breaded and deep fried <a href='/misc/fish'>fish</a>, served with a <a href='/recipes/sides'>side</a> of French fries, or chips as they would be called across the pond. To make it a more nutritious meal, I've breaded my <a href='/recipes/fish'>fish</a> in <a href='/misc/celiac'>gluten free</a> <a href='/misc/grains#oats'>oat flour</a>, and cooked both the <a href='/misc/fish'>fish</a> and the <a href='/misc/veggies#potato'>potatoes</a> in my <a href='https://amzn.to/3FuWETp'>air fryer</a>. For even more <a href='/misc/nutrient-alphabet'>nutrients</a> (and taste imo), I've used <a href='/misc/veggies#sweet-potato'>sweet potato</a> here too.
 Instructions:
 - Starting with the "chips". Wash (but don't peel) your sweet potato, and cut into a French fry shape. Add to a medium microwave safe bowl, cover with a plate, and microwave on high for 3 minutes
 
 - Toss the fries with the oil, garlic powder, onion powder, paprika, salt, and black pepper
 
-- Preheat your air fryer to 400F, and <a href='https://amzn.to/3Hdg0gk'>lightly spray</a> the basket with oil. Add in the fries, and air fry for about 6 minutes
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 400F, and <a href='https://amzn.to/3Hdg0gk'>lightly spray</a> the basket with oil. Add in the fries, and <a href='https://amzn.to/3FuWETp'>air fry</a> for about 6 minutes
 
 - Moving on to the fish. Lightly coat the fish in <a href='/misc/olive-oil'>olive oil</a>
 
 - In a small bowl, mix together the breading ingredients of oat flour and spices (lemon pepper, thyme, and chili powder)
 
-- Coat the fish in your breading. <a href='https://amzn.to/3Hdg0gk'>Lightly spray</a> the basket with oil, and add to the air fryer. <a href='https://amzn.to/3Hdg0gk'>Lightly spray</a> the top, and air fry for about 6 minutes at 400F
+- Coat the fish in your breading. <a href='https://amzn.to/3Hdg0gk'>Lightly spray</a> the basket with oil, and add to the <a href='https://amzn.to/3FuWETp'>air fryer</a>. <a href='https://amzn.to/3Hdg0gk'>Lightly spray</a> the top, and <a href='https://amzn.to/3FuWETp'>air fry</a> for about 6 minutes at 400F
 Notes:
-- The fish and chips should take the same time to cook, so you can do them together next to each other. That's why this recipe is only 1 serving, as the air fryer can only fit one portion at a time. If you want to scale this up, I would recommend tripling it (3 servings), and doing the fries first. Transfer the fries to a wire rack to stay crisp, and then cook your 3 fish filets
+- The fish and chips should take the same time to cook, so you can do them together next to each other. That's why this recipe is only 1 serving, as the <a href='https://amzn.to/3FuWETp'>air fryer</a> can only fit one portion at a time. If you want to scale this up, I would recommend tripling it (3 servings), and doing the fries first. Transfer the fries to a wire rack to stay crisp, and then cook your 3 fish filets
 - <img src='/assets/Food/Fish/Fish Chips/fish-chips-7.jpg' alt='' class='instruction-image'>
 ---

@@ -92,7 +92,7 @@ Notes:
       </ul>
     <li><a href='/misc/veggies#sweet-potato'>Sweet Potato</a> Bread</li>
       <ul>
-        <li>Pierce <b>2 medium (250 g) sweet potato</b> with a fork, wrap in aluminum foil, and air fry (or bake) at 400F for about 1 hour, until you can easily pierce it with a fork</li>
+        <li>Pierce <b>2 medium (250 g) sweet potato</b> with a fork, wrap in aluminum foil, and <a href='https://amzn.to/3FuWETp'>air fry</a> (or bake) at 400F for about 1 hour, until you can easily pierce it with a fork</li>
         <li>Replace mashed <a href='/misc/fruit#banana'>banana</a> with mashed cooked sweet potato (with the skin!)</li>
       </ul>
   </ul>
