@@ -65,7 +65,7 @@ Instructions:
 - Bake at 350F for about 40 minutes, or until the edges are golden brown and the centers are set.  Let cool totally on the sheet
 - <img src='/assets/Food/Finger Food/CC Chips/cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- Either full fat cottage cheese or non fat cottage cheese will work.  Full fat cottage cheese is better, but non fat cottage cheese is higher in protein and lower in calories.
+- Either <a href='/misc/dairy#cottage-cheese-whole-milk'>full fat</a> or <a href='/misc/dairy#cottage-cheese'>non fat cottage cheese</a> will work.  <a href='/misc/dairy#cottage-cheese-whole-milk'>Full fat</a> is better, but <a href='/misc/dairy#cottage-cheese'>non fat</a> is higher in <a href='/misc/protein'>protein</a> and lower in <a href='/misc/calories'>calories</a>.
 - |
   COMPARE(
     "ccchipsff",

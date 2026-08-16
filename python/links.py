@@ -3915,7 +3915,9 @@ LINKS = {
         "nonfat cottage cheeses",
         "nonfat cottage cheese",
         "cottage cheeses",
-        "cottage cheese"
+        "cottage cheese",
+        "non fat cottage cheeses",
+        "non fat cottage cheese"
     ],
     "/misc/dairy#cottage-cheese-whole-milk": [
         "whole milk cottage cheese",
@@ -9334,7 +9336,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-12-30")):
+            if not file.startswith(("2026-08-25")):
                 continue
 
             # exclude some files
