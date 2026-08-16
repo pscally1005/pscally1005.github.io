@@ -216,6 +216,7 @@ Frosting,frosting,1.96,454.00,0.00432,2.3,63,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,63.1
 "Protein Frosting, Vanilla",protein-frosting-vanilla,3.72,351.00,0.01060,8.7,26,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.3,0,0,/recipes/protein-frosting
 "Protein Frosting, Chocolate",protein-frosting-chocolate,3.94,371.00,0.01062,8.7,23,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.1,0,0,/recipes/protein-frosting
 Nonfat cottage cheese,cottage-cheese,2.94,672.00,0.00438,8.5,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.5,0,0,
+Full fat cottage cheese,cottage-cheese-whole-milk,2.94,672.00,0.00438,7.2,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.5,0,0,
 Creamy pesto dip,pesto-dip,3.80,688.00,0.00552,8.7,25,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.0,0.0,0.0,1.3,0,30,/recipes/creamy-pesto
 Cottage cheese flatbread,cc-flatbread-white-psyllium,0.77,45.00,0.01711,8.7,24,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,8.8,0,85,/recipes/cottage-cheese-flatbread
 Unsalted butter,butter,3.78,454.00,0.00833,2.5,0,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.8,0,0,

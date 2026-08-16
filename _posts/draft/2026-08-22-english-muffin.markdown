@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/english-muffin
 image: /assets/Food/Bread/English Muffin/cover.jpg
 file: englishmuffin
-servingSize: 2 halves (~TODO g)
+servingSize: 2 halves (~70 g)
 section1:
 start2:
 section2:
@@ -55,10 +55,10 @@ tags:
 - high fiber
 Description: Here's a single serving, <a href='/misc/celiac'>gluten free</a>, english muffin alternative that's made in under 5 minutes.  It's high in <a href='/misc/fiber'>fiber</a> and <a href='/misc/fats'>healthy fats</a> from the <a href='/misc/seeds#flax-seeds'>flax seed</a> and <a href='/misc/meat#eggs'>egg</a>, and even has a decent amount of <a href='/misc/protein'>protein</a> for a <a href='/recipes/bread'>bread</a>.
 Instructions:
-- In a small, <a href='https://amzn.to/3Hdg0gk'>lightly oiled</a> <a href='https://amzn.to/4wzvob5'>ramekin</a>, add <a href='/misc/seeds#flax-seeds'>ground flax</a>, baking powder, and an <a href='/misc/meat#eggs'>egg</a>. Add in any desired seasonings, like garlic powder, onion powder, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, or <a href='https://amzn.to/40gmjGE'>everything bagel seasoning</a>. Whisk together.
+- In a small, <a href='https://amzn.to/3Hdg0gk'>lightly oiled</a> <a href='https://amzn.to/4wzvob5'>ramekin</a>, add <a href='/misc/seeds#flax-seeds'>ground flax</a>, baking powder, and an <a href='/misc/meat#eggs'>egg</a>. Add in any desired seasonings, like garlic powder, onion powder, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, or <a href='https://amzn.to/40gmjGE'>everything bagel seasoning</a>. Whisk together with a fork.
 - <img src='/assets/Food/Bread/English Muffin/raw.jpg' alt='' class='instruction-image'>
 
 - Microwave for 60-90 seconds, or until the top and sides are set. Let cool for a minute before removing and slicing in half.
-- <img src='/assets/Food/Bread/English Muffin/baked.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Bread/English Muffin/cooked.jpg' alt='' class='instruction-image'>
 Notes:
 ---

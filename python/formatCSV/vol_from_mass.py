@@ -864,7 +864,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 cup"
 
     # Yogurt & cottage cheese
-    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt":
+    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt" or food == "Full fat cottage cheese":
         if mass == "14":
             v = "1 tbsp"
         elif mass == "28":
@@ -873,11 +873,11 @@ def vol_from_mass(food, mass, vol):
             v = "1/4 cup"
         elif mass == "90":
             v = "6 tbsp"
-        elif mass == "113":
+        elif mass == "113" or mass == "114":
             v = "1/2 cup"
         elif mass == "170":
             v = "3/4 cup"
-        elif mass == "226":
+        elif mass == "226" or mass == "228":
             v = "1 cup"
         elif mass == "283":
             v = "1 1/4 cup"

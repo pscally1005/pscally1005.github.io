@@ -865,7 +865,7 @@ def grams(food, mass, vol):
             m = "333"
 
     # Yogurt & cottage cheese
-    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt":
+    elif food == "Nonfat cottage cheese" or food == "Plain nonfat greek yogurt" or food == "Plain whole milk greek yogurt" or food == "Vanilla Nonfat Greek Yogurt, Sugar Free" or food == "Ricotta cheese" or food == "Vanilla Protein Greek Yogurt" or food == "Full fat cottage cheese":
         if vol == "1 tbsp":
             m = "14"
         elif vol == "2 tbsp":

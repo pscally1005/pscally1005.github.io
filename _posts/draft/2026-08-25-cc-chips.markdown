@@ -23,8 +23,8 @@ protein_bar: no
 beans: no
 permalink: /recipes/cottage-cheese-chips
 image: /assets/Food/Finger Food/CC Chips/cover.jpg
-file: ccchips
-servingSize: 8 chips (~TODO g)
+file: ccchipsff
+servingSize: 8 chips (~38 g)
 section1:
 start2:
 section2:
@@ -36,7 +36,7 @@ start5:
 section5:
 Prep: 10
 Rest: 20
-Cook: 30
+Cook: 40
 Source1: https://thebigmansworld.com/cottage-cheese-chips/#wprm-recipe-container-130511
 Source2: https://kirbiecravings.com/1-ingredient-keto-cottage-cheese-chips/
 Source3: https://bellyfull.net/cottage-cheese-chips/#wprm-recipe-container-108669
@@ -45,6 +45,8 @@ Source5:
 whisk: https://s.samsungfood.com/fNnyd
 tags:
 - nonfat cottage cheese
+- full fat cottage cheese
+- whole milk cottage cheese
 - chips
 - one ingredient
 - 1 ingredient
@@ -61,6 +63,20 @@ Instructions:
 - <img src='/assets/Food/Finger Food/CC Chips/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 40 minutes, or until the edges are golden brown and the centers are set.  Let cool totally on the sheet
-- <img src='/assets/Food/Finger Food/CC Chips/baked.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Finger Food/CC Chips/cooked.jpg' alt='' class='instruction-image'>
 Notes:
+- Either full fat cottage cheese or non fat cottage cheese will work.  Full fat cottage cheese is better, but non fat cottage cheese is higher in protein and lower in calories.
+- |
+  COMPARE(
+    "ccchipsff",
+    "ccchipsnf";
+
+    "<a href='/misc/dairy#cottage-cheese-whole-milk'>Full<br>Fat</a>",
+    "<a href='/misc/dairy#cottage-cheese'>Non<br>Fat</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs"
+  )
 ---

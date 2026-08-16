@@ -418,6 +418,8 @@ def ingredients(food):
         f = "Whey protein powder, vanilla"
     elif food == "Cottage cheese, 1% fat, Friendship Dairies" or food == "Cheese, large or small curd, dry, uncreamed, nonfat, cottage" or food == "Nonfat cottage cheese by FRESH & EASY" or food == "Nonfat cottage cheese by HP Hood LLC" or food == "Nonfat cottage cheese by Dean Foods Company":
         f = "Nonfat cottage cheese"
+    elif food == "Cottage cheese":
+        f = "Full fat cottage cheese"
     elif food == "Cheese, grated, parmesan" or food == "Kraft Grated Parmesan Cheese" or food == "Grated parmesan cheese by POPE" or food == "Cheese, grated, parmesan":
         f = "Grated parmesan cheese"
     elif food == "Unsweetened original almond milk by Supervalu, Inc." or food == "Almond milk, unsweetened":
