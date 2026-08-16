@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/lentil-loaf
 image: /assets/Food/Bread/Lentil Loaf/cover.jpg
 file: lentilloaf
-servingSize: 1 slice (~TODO g)
+servingSize: 1 slice (~37 g)
 section1: Soak
 start2: Extra virgin olive oil
 section2: Blend
@@ -55,22 +55,21 @@ tags:
 - gluten free
 Description: This simple small loaf of <a href='/recipes/bread'>bread</a> is <a href='/misc/celiac'>gluten free</a>, <a href='/misc/grains'>grain free</a>, and perfect for any toast or sandwiches.  It uses a base of <a href='/misc/beans#red-lentils'>lentils</a> and <a href='/misc/psyllium-husk'>psyllium husk</a> for a <a href='/misc/fiber'>high fiber</a> and healthy <a href='/recipes/bread'>bread</a> that's also a good source of both <a href='/misc/iron'>plant based iron</a> and <a href='/misc/nutrient-alphabet#F'>folate</a>.  It's also much simpler to make than standard <a href='/recipes/ww-bread'>wheat based bread</a>, requiring less kneading and no proofing time.
 Instructions:
-- Soak your <a href='/misc/beans#red-lentils'>lentils</a> in water at room temperature for 2 hours. Discard the soaking liquid.
+- Soak your <a href='/misc/beans#red-lentils'>lentils</a> in water at room temperature for 2 hours.
 
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3Ffts2R'>small glass meal prep container</a> (mine are 6.2" x 4.5") with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
 
-- Add soaked <a href='/misc/beans#red-lentils'>lentils</a> to a <a href='https://amzn.to/3SsDLn7'>blender</a> with <a href='/misc/olive-oil'>oil</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, salt, paprika, garlic powder, onion powder, and rosemary. Blend until smooth.
-
-- Transfer the batter to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Add in <a href='/misc/psyllium-husk'>psyllium husk</a> and baking powder. Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a> to prevent sticking, knead the dough until smooth and fully combined.
+- Add your <a href='/misc/beans#red-lentils'>lentils</a> and soaking liquid to a <a href='https://amzn.to/3SsDLn7'>blender</a> with <a href='/misc/olive-oil'>oil</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, salt, paprika, garlic powder, onion powder, and rosemary. Blend until smooth.
 - <img src='/assets/Food/Bread/Lentil Loaf/blend.jpg' alt='' class='instruction-image'>
 
-- Shape the dough into your prepared <a href='https://amzn.to/3YUjIkN'>bread pan</a>. Optionally top with <a href='/misc/seeds#sesame-seeds'>sesame seeds</a>.
+- Transfer the batter to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Add in <a href='/misc/psyllium-husk'>psyllium husk</a> and baking powder.  Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and transfer to your prepared pan.  Optionally top with <a href='https://amzn.to/40gmjGE'>everything bagel seasoning</a>.
 - <img src='/assets/Food/Bread/Lentil Loaf/raw.jpg' alt='' class='instruction-image'>
 
-- Bake uncovered at 350F for about 30 minutes, or until lightly golden, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.
+- Bake uncovered at 350F for about 50 minutes, or until lightly golden, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.
 - <img src='/assets/Food/Bread/Lentil Loaf/baked.jpg' alt='' class='instruction-image'>
 
 - Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to completely cool before slicing.
 - <img src='/assets/Food/Bread/Lentil Loaf/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- Any kind of <a href='/misc/beans#red-lentils'>lentils</a> will work here.  <a href='/misc/beans#brown-lentils'>Brown</a>, <a href='/misc/beans#red-lentils'>red</a>, <a href='/misc/beans#green-lentils'>green</a>; whatever you got.  I went with <a href='/misc/beans#brown-lentils'>brown lentils</a> here.
 ---

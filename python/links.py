@@ -5934,6 +5934,8 @@ LINKS = {
         "pressure cooker"
     ],
     "https://amzn.to/3Ffts2R": [
+        "small glass meal prep containers",
+        "small glass meal prep container",
         "glass meal prep container",
         "meal prep container",
         "6.2 x 4.5\"",
@@ -7365,6 +7367,7 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "similar (but sweetened) fudge recipe",
+    "96 chips",
     "these tortilla chips",
     "return the chips",
     "most frozen acai",
@@ -9312,7 +9315,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-25")):
+            if not file.startswith(("2026-08-24")):
                 continue
 
             # exclude some files
