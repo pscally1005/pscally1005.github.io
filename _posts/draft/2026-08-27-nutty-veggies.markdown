@@ -6,7 +6,7 @@ categories:
 - Recipes
 - Meme Recipes
 - Draft
-showPercentage: no
+showPercentage: vitMin
 hummus: no
 oatmeal: no
 yogurt: no
@@ -62,6 +62,7 @@ tags:
 - sesame seed butter
 - nutritional yeast
 - vitamin b12
+- colbalamin
 - vitamin e
 - copper
 - calories
@@ -71,18 +72,27 @@ tags:
 - potassium
 - phosphorus
 - zinc
+- calcium
+- vitamin b1
+- thiamin
+- vitamin b2
+- riboflavin
+- vitamin b3
+- niacin
+- vitamin b6
+- pyridoxine
 Description: |
   As someone who has digestive issues when eating most cooked <a href='/misc/fats'>fats</a>, I need to be intentional regarding my <a href='/misc/fats'>fat</a> intake. I cook with little <a href='/misc/olive-oil'>oil</a> and only <a href='/misc/meat'>lean meats</a> and <a href='/misc/dairy'>dairy</a> to avoid any stomach discomfort.<br><br>
 
   Another problem with <a href='/misc/fats'>fat</a> is that's it's very <a href='/misc/calories'>calorie dense</a>. It's hard to make sure you're eating enough <a href='/misc/fats'>fats</a> while still keeping the volume of the meal filling.<br><br>
 
-  As such, you don't want to accidentally be falling into a low fat diet, as adequate consumption of healthy fats is imperative for <a href='/misc/diabetes'>blood sugar</a> control, hormone production, absorption of fat soluble <a href='/misc/nutrient-alphabet'>vitamins</a> (<a href='/misc/nutrient-alphabet#A'>A</a>, <a href='/misc/nutrient-alphabet#D'>D</a>, <a href='/misc/nutrient-alphabet#E'>E</a>, and <a href='/misc/nutrient-alphabet#K'>K</a>), and brain health.<br><br>
+  As such, you don't want to accidentally be falling into a <a href='/misc/fats'>low fat</a> diet, as adequate consumption of <a href='/misc/fats'>healthy fats</a> is imperative for <a href='/misc/diabetes'>blood sugar control</a>, hormone production, absorption of fat soluble <a href='/misc/nutrient-alphabet'>vitamins</a> (<a href='/misc/nutrient-alphabet#A'>A</a>, <a href='/misc/nutrient-alphabet#D'>D</a>, <a href='/misc/nutrient-alphabet#E'>E</a>, and <a href='/misc/nutrient-alphabet#K'>K</a>), and brain health.<br><br>
 
   Introducing these "Nutty Veggies". It's essentially a bowl of <a href='/misc/calories'>low calorie</a> <a href='/misc/veggies'>veggies</a>, mixed with <a href='/misc/calories'>high calorie</a> <a href='/recipes/natural-peanut-butter'>nut butter</a>. I've gone with <a href='/misc/nuts#almonds'>almond butter</a> here today, but anything will work, such as <a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#cashews'>cashew</a>, <a href='/misc/nuts#pistachios'>pistachio</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, etc.<br><br>
 
-  These massive bowls are a fantastic source of <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/carbs'>complex starches</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/iron'>iron</a>, <a href='/misc/magnesium'>magnesium</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, <a href='/misc/phosphorus'>phosphorus</a>, and <a href='/misc/nutrient-alphabet#Z'>zinc</a>.<br><br>
+  These massive bowls are a fantastic source of <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/carbs'>complex starches</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, <a href='/misc/calcium'>calcium</a>, <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/iron'>iron</a>, <a href='/misc/magnesium'>magnesium</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, <a href='/misc/phosphorus'>phosphorus</a>, and <a href='/misc/nutrient-alphabet#Z'>zinc</a>.<br><br>
 
-  The <a href='/misc/veggies#cabbage'>cabbage</a> and <a href='/misc/veggies#cauliflower'>cauliflower</a> provide vitamins <a href='/misc/vitamin-c'>C</a> and <a href='/misc/nutrient-alphabet#K'>K</a>, as well as <a href='/misc/choline'>choline</a>. The <a href='https://amzn.to/43wLkhB'>nutritional yeast</a> adds vitamins <a href='/misc/vitamin-b12'>vitamin B12</a>, <a href='/misc/nutrient-alphabet#T'>B1</a>, <a href='/misc/nutrient-alphabet#R'>B2</a>, and <a href='/misc/nutrient-alphabet#N'>B3</a>, something lacking without any animal source foods like <a href='/misc/meat'>meat</a> or <a href='/misc/dairy'>dairy</a>.<br><br>
+  The <a href='/misc/veggies#cabbage'>cabbage</a> and <a href='/misc/veggies#cauliflower'>cauliflower</a> provide vitamins <a href='/misc/vitamin-c'>C</a> and <a href='/misc/nutrient-alphabet#K'>K</a>, as well as <a href='/misc/choline'>choline</a>. The <a href='https://amzn.to/43wLkhB'>nutritional yeast</a> adds vitamins <a href='/misc/nutrient-alphabet#T'>B1</a>, <a href='/misc/nutrient-alphabet#R'>B2</a>, <a href='/misc/nutrient-alphabet#N'>B3</a>, <a href='/misc/nutrient-alphabet#B'>B6</a>, and (most importantly) <a href='/misc/vitamin-b12'>B12</a>, something lacking without any animal source foods like <a href='/misc/meat'>meat</a> or <a href='/misc/dairy'>dairy</a>.<br><br>
 
   Overall, this seemingly odd collection of foods makes an extremely balanced and satiating meal!
 Instructions:
@@ -104,7 +114,7 @@ Instructions:
 
 - Meanwhile, finely cut your <a href='/misc/veggies#cabbage'>cabbage</a>.
 
-- Prepare 6 <a href='https://amzn.to/4hcIXsT'>large meal prep containers</a>. Add a base of 1/2 lb (226 g) of <a href='/misc/veggies#cabbage'>cabbage</a> to each bowl. Top each bowl with a batch of your steamed <a href='/misc/veggies#cauliflower'>cauliflower</a>
+- Prepare 6 <a href='https://amzn.to/4hcIXsT'>large meal prep containers</a>. Add a base of 1/2 lb (226 g) of <a href='/misc/veggies#cabbage'>cabbage</a> to each bowl. Top each bowl with a batch of your steamed <a href='/misc/veggies#cauliflower'>cauliflower</a>.
 
 - |
   Finally, top each bowl with the following:<br>
@@ -131,17 +141,22 @@ Notes:
     "nuttyveggiessunflower",
     "nuttyveggiestahini";
 
-    "Almond",
-    "Peanut",
-    "Cashew",
-    "Pistachio",
-    "Sunflower<br>Seed",
-    "Tahini";
+    "<a href='/misc/nuts#almonds'>Almond</a>",
+    "<a href='/misc/nuts#peanuts'>Peanut</a>",
+    "<a href='/misc/nuts#cashews'>Cashew</a>",
+    "<a href='/misc/nuts#pistachios'>Pistachio</a>",
+    "<a href='/misc/seeds#sunflower-seeds'>Sunflower<br>Seed</a>",
+    "<a href='/misc/seeds#sesame-seeds'>Tahini</a>";
 
     "Calories",
     "Protein",
     "Fat",
     "Net Carbs",
-    "Fiber"
+    "Fiber",
+    "Vitamin C",
+    "Vitamin E",
+    "Vitamin K",
+    "Copper",
+    "Manganese"
   )
 ---
