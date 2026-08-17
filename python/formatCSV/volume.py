@@ -62,6 +62,8 @@ def fix(vol):
         v = "6 tbsp"
     elif vol == "9.33 tbsp" or vol == "9.33 Tbsp":
         v = "9 tbsp + 1 tsp"
+    elif vol == "36 tsp":
+        v = "12 tbsp"
 
     # cup
     elif vol == "12 teaspoon, dry" or vol == "0.5 stick" or vol == "0.2475 cup" or vol == "0.24 cup, chopped" or vol == "0.275 cup (not packed)" or vol == "0.265 cup" or vol == "0.355 container" or vol == "102.86399999999999 chips" or vol == "102.72 chips" or vol == "0.2508 cup" or vol == "1 oz (167 kernels)" or vol == "0.245 cup" or vol == "0.255 cup" or vol == "1/4 cup" or vol == "4 tbsp" or vol == "0.5 1/2 cup" or vol == "0.48 cup, NFS" or vol == "4 Tbsp" or vol == "0.25 cup" or vol == "1 About 1/4 cup" or vol == "1.4 cup" or vol == "12 teaspoons" or vol == "12 tsp" or vol == "1/4 cup, crumbled" or vol == "0.25 crumbled" or vol == "0.25 cup (240.0 ml) aprx" or vol =="0.25 cup, sliced" or vol == "12 tsp (5.0 ml) aprx" or vol =="0.3325 cup (60.0 ml) aprx":
@@ -194,6 +196,8 @@ def fix(vol):
         v = "4 lb"
     elif vol == "5 pound" or vol == "5 lb" or vol == "80 oz" or vol == "80 ounce":
         v = "5 lb"
+    elif vol == "6 pound" or vol == "6 lb" or vol == "96 oz" or vol == "96 ounce":
+        v = "6 lb"
 
     # protein powder
     elif vol == "0.25 scoop":

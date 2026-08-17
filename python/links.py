@@ -10,6 +10,12 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/nutty-veggies": [
+        "nutty veggies",
+        "nutty vegetables",
+        "fatty veggies",
+        "fatty vegetables"
+    ],
     "/recipes/mug-brownie": [
         "microwave mug brownies",
         "microwave mug brownie",
@@ -5973,7 +5979,9 @@ LINKS = {
         "large glass container",
         "large glass containers",
         "large glass meal prep container",
-        "large glass meal prep containers"
+        "large glass meal prep containers",
+        "large meal prep containers",
+        "large meal prep container"
     ],
     "https://amzn.to/3O5nlSH": [
         "pizza wheel",
@@ -9354,7 +9362,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2024-11-04")):
+            if not file.startswith(("2026-08-27")):
                 continue
 
             # exclude some files
