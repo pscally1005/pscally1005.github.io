@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/homemade-electrolyte-powder
 image: /assets/Food/Drinks/Electrolyte Powder/cover.jpg
 file: electrolyte-base
-servingSize: 10 g
+servingSize: 2 g
 section1:
 start2:
 section2:
@@ -64,7 +64,7 @@ Description: Homemade electrolyte powder!  This is a bulk base recipe of electro
 Instructions:
 - Mix together <a href='/misc/sodium'>sodium</a>, <a href='/misc/potassium'>potassium</a>, <a href='/misc/magnesium'>magnesium</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> in a <a href='https://amzn.to/4vamaBm'>mason jar</a>.
 
-- This is your unflavored (but sweetened) base that makes 60 servings of <b>10 g</b> each.  To make an electrolyte drink, mix a <b>10 g</b> serving of electrolyte powder with a <a href='#notes'>flavor</a> and 2 cups (480 g) of water, or any liquid of choice.
+- This is your unflavored (but sweetened) base that makes 60 servings of <b>2 g</b> each.  To make an electrolyte drink, mix a <b>2 g</b> serving of electrolyte powder with a <a href='#notes'>flavor</a> and 2 cups (480 g) of water, or any liquid of choice.
 Notes:
 - |
   <div id='notes' class='table-of-contents-2'></div>

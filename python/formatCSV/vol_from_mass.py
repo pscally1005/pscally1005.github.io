@@ -68,6 +68,50 @@ def vol_from_mass(food, mass, vol):
         elif mass == "500" or mass == "480":
             v = "2 1/2 cup"
 
+    # Pure monk fruit
+    elif food == "Pure granulated monk fruit":
+        if mass == "0.31":
+            v = "1 scoop"
+        elif mass == "0.62":
+            v = "2 scoop"
+        elif mass == "0.93":
+            v = "3 scoop"
+        elif mass == "1.24":
+            v = "4 scoop"
+        elif mass == "1.55":
+            v = "5 scoop"
+        elif mass == "1.86":
+            v = "6 scoop"
+        elif mass == "2.17":
+            v = "7 scoop"
+        elif mass == "2.48":
+            v = "8 scoop"
+        elif mass == "2.79":
+            v = "9 scoop"
+        elif mass == "3.10":
+            v = "10 scoop"
+        elif mass == "4.65":
+            v = "15 scoop"
+        elif mass == "6.20":
+            v = "20 scoop"
+        elif mass == "7.75":
+            v = "25 scoop"
+        elif mass == "9.30":
+            v = "30 scoop"
+        elif mass == "10.85":
+            v = "35 scoop"
+        elif mass == "12.40":
+            v = "40 scoop"
+        elif mass == "13.95":
+            v = "45 scoop"
+        elif mass == "15.50":
+            v = "50 scoop"
+        elif mass == "17.05":
+            v = "55 scoop"
+        elif mass == "18.60":
+            v = "60 scoop"
+
+
     # Drained and rinsed beans
     if food == "Chickpeas, drained and rinsed" or food == "Black beans, drained and rinsed" or food == "Kidney beans, drained and rinsed" or food == "Pinto beans, drained and rinsed" or food == "Cannellini beans, drained and rinsed" or food == "Great northern beans, drained and rinsed" or food == "Navy beans, drained and rinsed" or food == "Beans, drained and rinsed" or food == "Cooked black beans" or food == "Cooked navy beans" or food == "Slow Cooker Dried Beans":
         if mass == "255" or mass == "267":
@@ -1784,7 +1828,7 @@ def vol_from_mass(food, mass, vol):
 
     # Electrolye mix with granulated monk fruit
     elif food == "Electrolyte mix, base":
-      if mass == "10":
+      if mass == "2":
           v = "1 serving"
 
     # True fruit flavors

@@ -2004,6 +2004,49 @@ def grams(food, mass, vol):
         elif vol == "2.5 cup" or vol == "2 1/2 cup":
             m = "500"
 
+    # Pure monk fruit
+    elif food == "Pure granulated monk fruit":
+        if vol == "1 scoop":
+            m = "0.31"
+        elif vol == "2 scoop":
+            m = "0.62"
+        elif vol == "3 scoop":
+            m = "0.93"
+        elif vol == "4 scoop":
+            m = "1.24"
+        elif vol == "5 scoop":
+            m = "1.55"
+        elif vol == "6 scoop":
+            m = "1.86"
+        elif vol == "7 scoop":
+            m = "2.17"
+        elif vol == "8 scoop":
+            m = "2.48"
+        elif vol == "9 scoop":
+            m = "2.79"
+        elif vol == "10 scoop":
+            m = "3.10"
+        elif vol == "15 scoop":
+            m = "4.65"
+        elif vol == "20 scoop":
+            m = "6.20"
+        elif vol == "25 scoop":
+            m = "7.75"
+        elif vol == "30 scoop":
+            m = "9.30"
+        elif vol == "35 scoop":
+            m = "10.85"
+        elif vol == "40 scoop":
+            m = "12.40"
+        elif vol == "45 scoop":
+            m = "13.95"
+        elif vol == "50 scoop":
+            m = "15.50"
+        elif vol == "55 scoop":
+            m = "17.05"
+        elif vol == "60 scoop":
+            m = "18.60"
+
     # Popcorn
     elif food == "Popcorn kernels":
         if vol == "3 tbsp":
@@ -2092,7 +2135,7 @@ def grams(food, mass, vol):
     # Electrolye mix with granulated monk fruit
     elif food == "Electrolyte mix, base":
       if vol == "1 serving":
-          m = "10"
+          m = "2"
 
     # True fruit flavors
     elif food == "True Lemon" or food == "True Lime" or food == "True Grapefruit":
