@@ -20,17 +20,20 @@
     <!-- Loop Variable -->
     {% assign loopVar = site.data[facts] %}
 
+    <!-- Don't show DV -->
+    {% assign showPercentage = "False" %}
+
     <!-- Nutrients -->
     {% assign nutrients =
         "Calories,"
         | append: "Protein,"
         | append: "Fat,"
-        | append: "Carbs,"
+        | append: "Net Carbs,"
         | append: "Fiber"
         | split: ","
     %}
 
-    <!-- Output servings (if not 1) -->
+    <!-- Output servings & serving size (if not 1) -->
     {% assign servings = 1 | times: 1 %}
         {% for row in site.data[ing] %}
             {% if forloop.last %}
@@ -40,12 +43,14 @@
     {% endfor %}
     {% unless servings == 1 %}
         Servings: {{ servings }}<br>
+
+        <!-- Output custom serving size if present -->
+        {% if page.servingSize %}
+            {{ page.servingSize }}<br>
+        {% endif %}
     {% endunless %}
 
-    <!-- Output custom serving size if present -->
-    {% if page.servingSize %}
-        {{ page.servingSize }}<br>
-    {% endif %}
+
 
     <!-- Output nutrients -->
     {% for nutrient in nutrients %}
@@ -57,6 +62,7 @@
             nutrient=nutrient
             fetch="perServing"
             rnd=rnd
+            showPercentage=showPercentage
         %}
         <br>
     {% endfor %}
