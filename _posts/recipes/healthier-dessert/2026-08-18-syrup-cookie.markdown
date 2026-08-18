@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Sugar Free Syrup Cookies
-date:   2026-08-11 00:00:00 -0500
+date:   2026-08-18 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
