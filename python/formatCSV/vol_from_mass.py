@@ -109,7 +109,7 @@ def vol_from_mass(food, mass, vol):
         elif mass == "17.05":
             v = "55 scoop"
         elif mass == "18.60":
-            v = "60 scoop"
+            v = "60 scoops"
 
 
     # Drained and rinsed beans
@@ -1828,13 +1828,20 @@ def vol_from_mass(food, mass, vol):
 
     # Electrolye mix with granulated monk fruit
     elif food == "Electrolyte mix, base":
-      if mass == "2":
+      if mass == "4":
           v = "1 serving"
 
     # True fruit flavors
     elif food == "True Lemon" or food == "True Lime" or food == "True Grapefruit":
         if mass == "0.8":
             v = "1 packet"
+
+    # Citric acid
+    elif food == "Citric acid":
+        if mass == "2":
+            v = "1/4 tsp"
+        elif mass == "120":
+            v = "5 tbsp"
 
     return v
 

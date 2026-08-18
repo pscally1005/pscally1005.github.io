@@ -1,0 +1,150 @@
+"Fat":
+  amount: "78"
+  unit: "g"
+"Saturated fatty acids":
+  amount: "20"
+  unit: "g"
+"Fatty acids, total trans":
+  amount: "0"
+  unit: "g"
+"Cholesterol":
+  amount: "300"
+  unit: "mg"
+"Sodium":
+  amount: "2300"
+  unit: "mg"
+"Carbohydrate":
+  amount: "275"
+  unit: "g"
+"Fiber":
+  amount: "28"
+  unit: "g"
+"Sugars":
+  amount: "50"
+  unit: "g"
+"Added Sugar":
+  amount: "50"
+  unit: "g"
+"Protein":
+  amount: "50"
+  unit: "g"
+"Vitamin A, RAE":
+  amount: "900"
+  unit: "mcg"
+"Thiamin [Vitamin B1]":
+  amount: "1.2"
+  unit: "mg"
+"Riboflavin [Vitamin B2]":
+  amount: "1.3"
+  unit: "mg"
+"Niacin [Vitamin B3]":
+  amount: "16"
+  unit: "mg"
+"Pantothenic acid [Vitamin B5]":
+  amount: "5"
+  unit: "mg"
+"Vitamin B6":
+  amount: "1.7"
+  unit: "mg"
+"Folate, DFE [Vitamin B9]":
+  amount: "400"
+  unit: "mcg"
+"Vitamin B12 [Cobalamin]":
+  amount: "2.4"
+  unit: "mcg"
+"Biotin [Vitamin B7]":
+  amount: "30"
+  unit: "mcg"
+"Vitamin C [Ascorbic acid]":
+  amount: "90"
+  unit: "mg"
+"Vitamin D":
+  amount: "20"
+  unit: "mcg"
+"Vitamin E (alpha-tocopherol)":
+  amount: "15"
+  unit: "mg"
+"Vitamin K":
+  amount: "120"
+  unit: "mcg"
+"Choline":
+  amount: "550"
+  unit: "mg"
+"Calcium":
+  amount: "1300"
+  unit: "mg"
+"Iron":
+  amount: "18"
+  unit: "mg"
+"Magnesium":
+  amount: "420"
+  unit: "mg"
+"Phosphorus":
+  amount: "1250"
+  unit: "mg"
+"Potassium":
+  amount: "4700"
+  unit: "mg"
+"Iodine":
+  amount: "150"
+  unit: "mcg"
+"Zinc":
+  amount: "11"
+  unit: "mg"
+"Selenium":
+  amount: "55"
+  unit: "mcg"
+"Copper":
+  amount: "0.9"
+  unit: "mg"
+"Manganese":
+  amount: "2.3"
+  unit: "mg"
+"Chromium":
+  amount: "35"
+  unit: "mcg"
+"Molybdenum":
+  amount: "45"
+  unit: "mcg"
+"Chlorine":
+  amount: "2300"
+  unit: "mg"
+"Histidine":
+  amount: "1.14"
+  unit: "g"
+"Isoleucine":
+  amount: "1.55"
+  unit: "g"
+"Leucine":
+  amount: "3.43"
+  unit: "g"
+"Lysine":
+  amount: "3.10"
+  unit: "g"
+"Methionine":
+  amount: "1.55"
+  unit: "g"
+"Phenylalanine":
+  amount: "2.69"
+  unit: "g"
+"Threonine":
+  amount: "1.63"
+  unit: "g"
+"Tryptophan":
+  amount: "0.41"
+  unit: "g"
+"Valine":
+  amount: "1.96"
+  unit: "g"
+"Caffeine":
+  amount: "95"
+  unit: "mg"
+  reference: "of Cup of Coffee"
+"Gluten":
+  amount: "12.4"
+  unit: "g"
+  reference: "of 5 Slices of Bread"
+"Lactose":
+  amount: "12"
+  unit: "g"
+  reference: "of Cup of Milk"

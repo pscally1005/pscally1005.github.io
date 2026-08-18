@@ -2044,7 +2044,7 @@ def grams(food, mass, vol):
             m = "15.50"
         elif vol == "55 scoop":
             m = "17.05"
-        elif vol == "60 scoop":
+        elif vol == "60 scoop" or vol == "60 scoops":
             m = "18.60"
 
     # Popcorn
@@ -2135,12 +2135,19 @@ def grams(food, mass, vol):
     # Electrolye mix with granulated monk fruit
     elif food == "Electrolyte mix, base":
       if vol == "1 serving":
-          m = "2"
+          m = "4"
 
     # True fruit flavors
     elif food == "True Lemon" or food == "True Lime" or food == "True Grapefruit":
         if vol == "1 packet" or vol == "1 serving":
             m = "0.8"
+
+    # Citric acid
+    elif food == "Citric acid":
+        if vol == "1/4 tsp":
+            m = "2"
+        elif vol == "5 tbsp":
+            m = "120"
 
     return m
 

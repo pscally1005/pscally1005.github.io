@@ -1,0 +1,9 @@
+{% assign dv_info = site.data.dailyValues[include.nutrient] %}
+{% assign percent = include.percent %}
+{% if dv_info.reference %}
+{{ percent }} % {{ dv_info.reference }} ({{ dv_info.amount }} {{ dv_info.unit }})
+{% elsif dv_info %}
+{{ percent }} % of Daily Value ({{ dv_info.amount }} {{ dv_info.unit }})
+{% else %}
+{{ percent }} % of Daily Value
+{% endif %}
