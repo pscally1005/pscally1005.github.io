@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Clean Bulking Fudge
-date:   2026-08-13 00:00:00 -0500
+date:   2026-08-19 00:00:00 -0500
 categories:
 - Recipes
-- Healthier Dessert
-- Draft
+- Finger Foods
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -22,8 +21,8 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/three-ingredient-fudge
-image: /assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-cover.jpg
-file: 3ingfudge
+image: /assets/Food/Finger Food/Bulking Fudge/cover.jpg
+file: bulkingfudgeplain
 servingSize: 1 piece
 section1:
 start2:
@@ -71,24 +70,24 @@ Description: |
   This easy bittersweet fudge is made with just 3 simple ingredients - melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>.  I love this bittersweet treat, but you can <a href='#notes'>add some sweetener to taste</a> if you like it a bit sweeter than I do.  For a similar (but sweetened) fudge recipe, check out my <a href='/recipes/sugar-free-fudge'>3 Ingredient Sugar Free Fudge</a>.
 Instructions:
 - In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for about a minute, until fully melted. Stir in <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>. <a href='#notes'>Add a sweetener</a> to taste if desired.
-- <img src='/assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-1.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/FInger Food/Bulking Fudge/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer to a parchment lined container (<a href='https://amzn.to/3Ffts2R'>mine</a>, are 6.2 x 4.5 "). Optionally top with flaky salt.
-- <img src='/assets/Food/Healthier Dessert/3 Ing Fudge/3-ing-fudge-2.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Finger Food/Bulking FUdge/container.jpg' alt='' class='instruction-image'>
 
 - Refrigerate for a few hours to harden fully before slicing.
 Notes:
 - I prefer to keep my <a href='#recipe'>fudge</a> totally unsweetened for the richest <a href='/misc/nuts#peanuts'>peanut butter</a> and <a href='/misc/chocolate-benefits'>chocolate</a> flavor, but you can sweeten it to taste with anything you desire.  Below are some recommendations:<b></b>
-- INGREDIENTS(3ingfudgesweeteners)
+- INGREDIENTS(bulkingfudgesweeteners)
 - |
   COMPARE(
-    "3ingfudge",
-    "3ingfudgegranmonkfruit",
-    "3ingfudgeallulose",
-    "3ingfudgeliqmonkfruit",
-    "3ingfudgesfs",
-    "3ingfudgehoney",
-    "3ingfudgemaple";
+    "bulkingfudgeplain",
+    "bulkingfudgegranmonkfruit",
+    "bulkingfudgeallulose",
+    "bulkingfudgeliqmonkfruit",
+    "bulkingfudgesfs",
+    "bulkingfudgehoney",
+    "bulkingfudgemaple";
 
     "<a href='#recipe'>As<br>Is</a>",
     "<a href='https://amzn.to/4ceFnvP'>Granulated<br>Monk<br>Fruit</a>",
