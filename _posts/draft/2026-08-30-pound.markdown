@@ -1,0 +1,75 @@
+---
+layout: post
+title:  Healthy Pound Cake (4 Ingredients)
+date:   2026-08-19 00:00:00 -0500
+categories:
+- Recipes
+- Meme Recipes
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/pound-cake
+image: /assets/Food/Meme/Pound/cover.jpg
+file: lbcake
+servingSize: 1 slice (~TODO g)
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 10
+Rest: 60
+Cook: 50
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/FN6hz
+tags:
+- lb
+- pound cake
+- one pound
+- 1 pound
+- 1/4 pound
+- quarter pound
+- granulated monk fruit
+- sugar-free
+- sugar free
+- whole wheat flour
+- full fat cottage cheese
+- cottage cheese
+Description: Traditional pound cake gets its name because it contains a pound each of eggs, sugar, butter, and flour. So naturally, I made a healthy one. A quarter pound of each ingredient. Because apparently that's how math works.
+Instructions:
+- Preheat your oven to 350F, and line 2 <a href='https://amzn.to/3YUjIkN'>9x5" bread pans</a> with parchment paper (only 1 if doing a 1/4 batch). Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
+
+- Beat your egg in a large bowl. Whisk with the granulated monk fruit. Whisk in the cottage cheese. Mix in the whole wheat flour with a silicone spatula until just fully combined.
+- <img src='/assets/Food/Meme/Pound/bowl.jpg' alt='' class='instruction-image'>
+
+- Transfer your batter to your prepared pan, and smooth out the top.
+- <img src='/assets/Food/Meme/Pound/raw.jpg' alt='' class='instruction-image'>
+
+- Bake at 350F oven for about 50 minutes (uncovered), or until the top is fully set and golden brown, a toothpick to the center comes out almost clean, and the internal temperature is at least 205F.
+- <img src='/assets/Food/Meme/Pound/baked.jpg' alt='' class='instruction-image'>
+
+- Transfer to a wire rack to cool completely (about 1 hour) before slicing.
+- <img src='/assets/Food/Meme/Pound/cut.jpg' alt='' class='instruction-image'>
+Notes:
+---
