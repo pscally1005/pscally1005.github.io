@@ -11,7 +11,16 @@ LINKS = {
 
     # RECIPES
     "/recipes/pound-cake": [
-
+        "pound cake",
+        "lb cake",
+        "1/4 lb cake",
+        "1/4 pound cake",
+        "quarter pound cake",
+        "quarter lb cake",
+        "the quarter pound cake",
+        "the quarter lb cake",
+        "the 1/4 pound cake",
+        "the 1/4 lb cake"
     ],
     "/recipes/scones": [
         "gluten free scones",
