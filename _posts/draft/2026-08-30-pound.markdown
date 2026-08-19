@@ -56,20 +56,20 @@ tags:
 - whole wheat flour
 - full fat cottage cheese
 - cottage cheese
-Description: Traditional pound cake gets its name because it contains a pound each of eggs, sugar, butter, and flour. So naturally, I made a healthy one. A quarter pound of each ingredient. Because apparently that's how math works.
+Description: Traditional pound cake gets its name because it contains a pound each of <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/dairy#butter'>butter</a>, and <a href='/misc/grains#white-wheat'>flour</a>. So naturally, I made a healthy one. A quarter pound of each ingredient. Because apparently that's how math works.
 Instructions:
-- Preheat your oven to 350F, and line 2 <a href='https://amzn.to/3YUjIkN'>9x5" bread pans</a> with parchment paper (only 1 if doing a 1/4 batch). Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper .  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
-- Beat your egg in a large bowl. Whisk with the granulated monk fruit. Whisk in the cottage cheese. Mix in the whole wheat flour with a silicone spatula until just fully combined.
+- Beat your <a href='/misc/meat#eggs'>egg</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Whisk with the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>. Whisk in the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Mix in the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until just fully combined.
 - <img src='/assets/Food/Meme/Pound/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer your batter to your prepared pan, and smooth out the top.
 - <img src='/assets/Food/Meme/Pound/raw.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F oven for about 50 minutes (uncovered), or until the top is fully set and golden brown, a toothpick to the center comes out almost clean, and the internal temperature is at least 205F.
+- Bake at 350F oven for about 50 minutes (uncovered), or until the top is fully set and golden brown, a toothpick to the center comes out almost clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is at least <a href='https://amzn.to/4kmobG2'>205F</a>.
 - <img src='/assets/Food/Meme/Pound/baked.jpg' alt='' class='instruction-image'>
 
-- Transfer to a wire rack to cool completely (about 1 hour) before slicing.
+- Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool completely (about 1 hour) before slicing.
 - <img src='/assets/Food/Meme/Pound/cut.jpg' alt='' class='instruction-image'>
 Notes:
 ---
