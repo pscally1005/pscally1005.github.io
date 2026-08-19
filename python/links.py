@@ -30,7 +30,7 @@ LINKS = {
         "air fryer scones (gf)",
         "air fryer scone (gf)"
     ],
-    "/recipes/avocad-bread": [
+    "/recipes/avocado-bread": [
         "avocado bread (sf)",
         "avocado bread",
         "sugar-free avocado bread",
@@ -9392,7 +9392,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-28")):
+            if not file.startswith(("2026-08-29")):
                 continue
 
             # exclude some files

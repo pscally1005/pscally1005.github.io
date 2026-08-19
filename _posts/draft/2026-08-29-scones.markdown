@@ -58,22 +58,22 @@ tags:
 - oat flour
 - lemon juice
 - frozen blueberries
-Description: Lemon blueberry scones are a classic dessert, snack, or even breakfast addition.  But instead of tons of butter or oil, or nutritionally void white flour, these scones only contain healthy fats from wholesome almond and oat flours, without any refined flour.  This also makes them gluten free, and the combination of oat flour and almond flour adds healthy fats, fiber, protein, vitamin E, and iron.  Finally, these sugar free scones are sweetened with granulated monk fruit, get some additional protein from the egg and Greek yogurt, and are flavored with lemon juice and frozen blueberries.
+Description: Lemon blueberry scones are a classic <a href=/recipes/healthier-dessert'>dessert</a>, <a href='/recipes/finger-food'>snack</a>, or even <a href='/recipes/breakfast'>breakfast</a> addition.  But instead of tons of <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/olive-oil'>oil</a>, or nutritionally void <a href='/misc/grains#white-wheat'>white flour</a>, these scones only contain <a href='/misc/fats'>healthy fats</a> from wholesome <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/carbs'>complex carbs</a> from <a href='/misc/grains#oats'>oat flour</a>.  Without any <a href='/misc/grains#white-wheat'>refined flour</a>, these scones are also <a href='/misc/celiac'>gluten free</a>!  The combination of <a href='/misc/grains#oats'>oat flour</a> and <a href='/misc/nuts#almonds'>almond flour</a> adds <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, and <a href='/misc/iron'>iron</a>.  These <a href='/misc/hidden-sugar'>sugar free</a> scones are sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, get some additional <a href='/misc/protein'>protein</a> from the <a href='/misc/meat#eggs'>egg</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a>, and are flavored with <a href='/misc/fruit#lemon-juice'>lemon juice</a> and <a href='/misc/fruit#blueberries'>frozen blueberries</a>!
 Instructions:
-- Preheat your air fryer to 325F, and prepare an air fryer line or piece of parchment paper.
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 325F, and prepare an air fryer liner or piece of parchment paper.
 
-- Whisk together the wet ingredients in a large bowl - egg, yogurt, lemon juice, granulated monk fruit, and vanilla.
+- Whisk together the wet ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>.
 
-- Mix in the dry ingredients with a silicone spatula - salt, baking powder, oat flour, and almond flour.
+- Mix in the dry ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - salt, baking powder, <a href='/misc/grains#oats'>oat flour</a>, and <a href='/misc/nuts#almonds'>almond flour</a>.
 
-- Fold in the frozen blueberries.
+- Fold in the <a href='/misc/fruit#blueberries'>frozen blueberries</a>.
 - <img src='/assets/Food/Healthier Dessert/Scones/bowl.jpg' alt='' class='instruction-image'>
 
-- Divide the dough into 4 even pieces, about <b>105 g</b> each.  Shape into scones, and add to your air fryer liner.
+- Divide the dough into 4 even pieces, about <b>105 g</b> each.  Shape into scones, and add to your <a href='https://amzn.to/43AzcfI'>air fryer liner</a>.
 - <img src='/assets/Food/Healthier Dessert/Scones/raw.jpg' alt='' class='instruction-image'>
 
-- Air fry at 325F for about 15 minutes, or until lightly golden brown, a toothpick comes out clean, and the internal temperature is about 205F.  Let them cool for a few minutes before eating.
+- <a href='https://amzn.to/3FuWETp'>Air fry</a> at 325F for about 15 minutes, or until lightly golden brown, a toothpick comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.  Let them cool for a few minutes before eating.
 - <img src='/assets/Food/Healthier Dessert/Scones/baked.jpg' alt='' class='instruction-image'>
 Notes:
-- You may need to cook them in 2 batches if they don't all fit.  It's best not to crowd the air fryer.
+- You may need to cook them in 2 batches if they don't all fit.  It's best not to crowd the <a href='https://amzn.to/3FuWETp'>air fryer</a>.
 ---
