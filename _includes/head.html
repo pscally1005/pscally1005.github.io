@@ -3,6 +3,10 @@
   {% assign canonical_url = page.url | relative_url | absolute_url %}
   <link rel="canonical" href="{{ canonical_url }}" />
 
+  {% if page.noindex %}
+    <meta name="robots" content="noindex">
+  {% endif %}
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">

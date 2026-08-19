@@ -2135,7 +2135,7 @@ def grams(food, mass, vol):
     # Electrolye mix with granulated monk fruit
     elif food == "Electrolyte mix, base":
       if vol == "1 serving":
-          m = "4"
+          m = "3"
 
     # True fruit flavors
     elif food == "True Lemon" or food == "True Lime" or food == "True Grapefruit":
@@ -2146,6 +2146,8 @@ def grams(food, mass, vol):
     elif food == "Citric acid":
         if vol == "1/4 tsp":
             m = "2"
+        elif vol == "2 1/2 tbsp":
+            m = "60"
         elif vol == "5 tbsp":
             m = "120"
 

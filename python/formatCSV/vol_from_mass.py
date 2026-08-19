@@ -1828,7 +1828,7 @@ def vol_from_mass(food, mass, vol):
 
     # Electrolye mix with granulated monk fruit
     elif food == "Electrolyte mix, base":
-      if mass == "4":
+      if mass == "3":
           v = "1 serving"
 
     # True fruit flavors
@@ -1840,6 +1840,8 @@ def vol_from_mass(food, mass, vol):
     elif food == "Citric acid":
         if mass == "2":
             v = "1/4 tsp"
+        elif mass == "60":
+            v = "2 1/2 tbsp"
         elif mass == "120":
             v = "5 tbsp"
 
