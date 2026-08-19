@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/avocado-bread
 image: /assets/Food/Bread/Avo Bread/cover.jpg
 file: avobread
-servingSize: 1 slice (~TODO g)
+servingSize: 1 slice (~62 g)
 section1:
 start2:
 section2:
@@ -74,4 +74,22 @@ Instructions:
 - Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to totally cool (about 1 hour) before slicing.
 - <img src='/assets/Food/Bread/Avo Bread/cut.jpg' alt='' class='instruction-image'>
 Notes:
+- |
+  Below is a nutritional comparison of <a href='#recipe'>my recipe</a> versus the <a href='https://youtu.be/LrPGbyXEUCw'>original recipe</a>, which uses <a href='/misc/hidden-sugar'>white sugar</a> and <a href='/misc/grains#white-wheat'>white flour</a> instead of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>:
+- |
+  COMPARE(
+    "avobread",
+    "avobreadog";
+
+    "<a href='#recipe'>Mine</a>",
+    "<a href='https://youtu.be/LrPGbyXEUCw'>Original</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
+- <img src='/assets/Food/Bread/Avo Bread/plate.jpg' alt='' class='instruction-image'>
 ---
