@@ -29,7 +29,7 @@ section1: Wet
 start2: Salt
 section2: Dry
 start3: Frozen blueberries
-section3:
+section3: Fold
 start4:
 section4:
 start5:
@@ -58,9 +58,12 @@ tags:
 - oat flour
 - lemon juice
 - frozen blueberries
-Description: Lemon blueberry scones are a classic <a href=/recipes/healthier-dessert'>dessert</a>, <a href='/recipes/finger-food'>snack</a>, or even <a href='/recipes/breakfast'>breakfast</a> addition.  But instead of tons of <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/olive-oil'>oil</a>, or nutritionally void <a href='/misc/grains#white-wheat'>white flour</a>, these scones only contain <a href='/misc/fats'>healthy fats</a> from wholesome <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/carbs'>complex carbs</a> from <a href='/misc/grains#oats'>oat flour</a>.  Without any <a href='/misc/grains#white-wheat'>refined flour</a>, these scones are also <a href='/misc/celiac'>gluten free</a>!  The combination of <a href='/misc/grains#oats'>oat flour</a> and <a href='/misc/nuts#almonds'>almond flour</a> adds <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, and <a href='/misc/iron'>iron</a>.  These <a href='/misc/hidden-sugar'>sugar free</a> scones are sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, get some additional <a href='/misc/protein'>protein</a> from the <a href='/misc/meat#eggs'>egg</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a>, and are flavored with <a href='/misc/fruit#lemon-juice'>lemon juice</a> and <a href='/misc/fruit#blueberries'>frozen blueberries</a>!
+Description: |
+  Lemon blueberry scones are a classic <a href=/recipes/healthier-dessert'>dessert</a>, <a href='/recipes/finger-food'>snack</a>, or even <a href='/recipes/breakfast'>breakfast</a> addition.  But instead of tons of <a href='/misc/dairy#butter'>butter</a> or <a href='/misc/olive-oil'>oil</a>, or nutritionally void <a href='/misc/grains#white-wheat'>white flour</a>, these scones only contain <a href='/misc/fats'>healthy fats</a> from wholesome <a href='/misc/nuts#almonds'>almond flour</a> and <a href='/misc/carbs'>complex carbs</a> from <a href='/misc/grains#oats'>oat flour</a>.<br><br>
+
+  Without any <a href='/misc/grains#white-wheat'>refined flour</a>, these scones are also <a href='/misc/celiac'>gluten free</a>!  The combination of <a href='/misc/grains#oats'>oat flour</a> and <a href='/misc/nuts#almonds'>almond flour</a> adds <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, and <a href='/misc/iron'>iron</a>.  These <a href='/misc/hidden-sugar'>sugar free</a> scones are sweetened with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, get some additional <a href='/misc/protein'>protein</a> from the <a href='/misc/meat#eggs'>egg</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a>, and are flavored with <a href='/misc/fruit#lemon-juice'>lemon juice</a> and <a href='/misc/fruit#blueberries'>frozen blueberries</a>!
 Instructions:
-- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 325F, and prepare an air fryer liner or piece of parchment paper.
+- Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 325F, and prepare an <a href='https://amzn.to/43AzcfI'>air fryer liner</a> or piece of parchment paper.
 
 - Whisk together the wet ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>.
 
