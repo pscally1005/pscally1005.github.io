@@ -1,0 +1,79 @@
+---
+layout: post
+title:  Lemon Blueberry Scones
+date:   2026-08-19 00:00:00 -0500
+categories:
+- Recipes
+- Healthier Dessert
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: yes
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/scones
+image: /assets/Food/Healthier Dessert/Scones/cover.jpg
+file: scones
+servingSize: 1 scone (~TODO g)
+section1: Wet
+start2: Salt
+section2: Dry
+start3: Frozen blueberries
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 15
+Rest: 5
+Cook: 15
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/SSpPJ
+tags:
+- lemon blueberry
+- blueberry lemon
+- scones
+- scone
+- gluten-free
+- gluten free
+- sugar-free
+- sugar free
+- air fryer
+- granulated monk fruit
+- almond flour
+- oat flour
+- lemon juice
+- frozen blueberries
+Description: Lemon blueberry scones are a classic dessert, snack, or even breakfast addition.  But instead of tons of butter or oil, or nutritionally void white flour, these scones only contain healthy fats from wholesome almond and oat flours, without any refined flour.  This also makes them gluten free, and the combination of oat flour and almond flour adds healthy fats, fiber, protein, vitamin E, and iron.  Finally, these sugar free scones are sweetened with granulated monk fruit, get some additional protein from the egg and Greek yogurt, and are flavored with lemon juice and frozen blueberries.
+Instructions:
+- Preheat your air fryer to 325F, and prepare an air fryer line or piece of parchment paper.
+
+- Whisk together the wet ingredients in a large bowl - egg, yogurt, lemon juice, granulated monk fruit, and vanilla.
+
+- Mix in the dry ingredients with a silicone spatula - salt, baking powder, oat flour, and almond flour.
+
+- Fold in the frozen blueberries.
+- <img src='/assets/Food/Healthier Dessert/Scones/bowl.jpg' alt='' class='instruction-image'>
+
+- Divide the dough into 4 even pieces, about <b>105 g</b> each.  Shape into scones, and add to your air fryer liner.
+- <img src='/assets/Food/Healthier Dessert/Scones/raw.jpg' alt='' class='instruction-image'>
+
+- Air fry at 325F for about 15 minutes, or until lightly golden brown, a toothpick comes out clean, and the internal temperature is about 205F.  Let them cool for a few minutes before eating.
+- <img src='/assets/Food/Healthier Dessert/Scones/baked.jpg' alt='' class='instruction-image'>
+Notes:
+- You may need to cook them in 2 batches if they don't all fit.  It's best not to crowd the air fryer.
+---

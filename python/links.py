@@ -10,6 +10,34 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/scones": [
+        "gluten free scones",
+        "gluten-free scones",
+        "gluten free scone",
+        "gluten-free scone",
+        "lemon blueberry scones",
+        "lemon blueberry scone",
+        "blueberry lemon scones",
+        "blueberry lemon scone",
+        "lemon blueberry scones (gf)",
+        "lemon blueberry scone (gf)",
+        "blueberry lemon scones (gf)",
+        "blueberry lemon scone (gf)",
+        "scones",
+        "scone",
+        "air fryer scones",
+        "air fryer scone",
+        "air fryer scones (gf)",
+        "air fryer scone (gf)"
+    ],
+    "/recipes/avocad-bread": [
+        "avocado bread (sf)",
+        "avocado bread",
+        "sugar-free avocado bread",
+        "sugar free avocado bread",
+        "whole wheat avocado bread",
+        "whole wheat avocado bread (sf)"
+    ],
     "/recipes/nutty-veggies": [
         "nutty veggies",
         "nutty vegetables",
@@ -2586,7 +2614,9 @@ LINKS = {
         "raspberry jam",
         "raspberry jelly",
         "blackberry jam",
-        "blackberry jelly"
+        "blackberry jelly",
+        "jam",
+        "jelly"
     ],
     "/recipes/strawberry-chia-jam": [
         "strawberry jam",
@@ -9362,7 +9392,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-27")):
+            if not file.startswith(("2026-08-28")):
                 continue
 
             # exclude some files
