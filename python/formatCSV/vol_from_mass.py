@@ -615,8 +615,8 @@ def vol_from_mass(food, mass, vol):
         elif mass == "320":
             v = "4 medium"
 
-    # Buttermilk powder
-    elif food == "Buttermilk powder":
+    # Milk powder
+    elif food == "Buttermilk powder" or food == "Milk powder" or food == "Milk powder, skim" or food == "Milk powder, nonfat":
         if mass == "5.75":
               v = "1 tbsp"
         elif mass == "11.5":

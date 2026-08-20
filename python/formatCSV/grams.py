@@ -334,8 +334,8 @@ def grams(food, mass, vol):
         elif vol == "6 tsp" or vol == "2 tbsp":
             m = "12"
 
-    # Buttermilk powder
-    elif food == "Buttermilk powder":
+    # Milk powder
+    elif food == "Buttermilk powder" or food == "Milk powder" or food == "Milk powder, skim" or food == "Milk powder, nonfat":
       if vol == "1 tbsp":
         m = "5.75"
       elif vol == "2 tbsp":

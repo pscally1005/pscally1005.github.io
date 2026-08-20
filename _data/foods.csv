@@ -271,14 +271,14 @@ Liquid stevia,liquid-stevia,3.34,47.04,0.07100,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TR
 Liquid monk fruit,liquid-monk-fruit,6.34,92.40,0.06861,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
 Liquid stevia or monk fruit,liquid-monk-fruit,4.84,69.72,0.06942,0.0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,40,https://amzn.to/3SqwsMO
 Buttermilk,buttermilk,2.23,"1,000.00",0.00223,8.0,31,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,3.8,0,0,
-Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,8.0,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,
+Buttermilk powder,buttermilk-powder,4.93,339.60,0.01452,8.0,59,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,39.1,0,0,https://amzn.to/3UayDbl
 Almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Unsweetened almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Unsweetened vanilla almond milk,almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 "Unsweetened almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 "Unsweetened vanilla almond milk, or water",almond-milk,2.44,"1,920.00",0.00127,9.0,0,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,0.0,0.0,0.0,0.0,0,15,
 Skim milk,skim-milk,2.69,"3,904.00",0.00069,8.0,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,4.9,0,0,
-"Milk powder, nonfat",milk-powder-skim,8.49,736.00,0.01154,8.0,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,50.9,0,0,
+"Milk powder, nonfat",milk-powder-skim,8.49,736.00,0.01154,8.0,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,50.9,0,0,https://amzn.to/4zMyIm3
 Fairlife skim milk,fairlife-skim,4.29,"1,464.00",0.00293,8.5,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,0.0,0,0,https://amzn.to/4wEmIBw
 Evaporated milk,evaporated-milk,1.22,339.60,0.00359,5.2,27,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/44QEaHo
 Fat free evaporated milk,evaporated-milk-skim,1.22,339.60,0.00359,5.5,32,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,0.0,0.0,0.0,17.8,0,0,https://amzn.to/3Zrz019
