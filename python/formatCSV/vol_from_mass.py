@@ -19,6 +19,8 @@ def vol_from_mass(food, mass, vol):
             v = "2 tsp"
         elif mass == "12" or mass == "12.5" or mass == "15":
             v = "1 tbsp"
+        elif mass == "16" or mass == "20":
+            v = "4 tsp"
         elif mass == "25" or mass == "24":
             v = "2 tbsp"
         elif mass == "37.5" or mass == "37" or mass == "38" or mass == "36":
@@ -508,6 +510,8 @@ def vol_from_mass(food, mass, vol):
             v = "1 tsp"
         elif mass == "7" or mass == "7.5":
             v = "1/2 tbsp"
+        elif mass == "9" or mass == "10":
+            v = "2 tsp"
         elif mass == "14" or mass == "15":
             v = "1 tbsp"
         elif mass == "27" or mass == "28":

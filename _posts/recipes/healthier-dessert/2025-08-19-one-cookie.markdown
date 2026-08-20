@@ -80,12 +80,20 @@ Notes:
 - <img src='/assets/Food/Healthier Dessert/One cookie/coconut-oil-cooked.jpg' alt='' class='instruction-image'>
 
 - |
+  <div id='unhealthy' class='table-of-contents-2'></div>
+  For an unhealthy quick cookie variant (essentially just a large <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>), follow the same instructions as the <a href='#coconut-oil'>coconut oil cookie variant above</a>, but using <a href='/misc/hidden-sugar'>granulated sugar</a>, <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a>, <a href='/misc/grains#white-wheat'>white flour</a>, and standard chocolate chips in place of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>.
+- INGREDIENTS(onecookieunhealthy)
+- <img src='/assets/Food/Healthier Dessert/One cookie/unhealthy.jpg' alt='' class='instruction-image'>
+
+- |
   COMPARE(
     "onecookie",
-    "onecookiecoconutoil";
+    "onecookiecoconutoil",
+    "onecookieunhealthy";
 
-    "<a href='#recipe'>Original<br>Recipe</a>",
-    "<a href='#coconut-oil'>Alternative<br>Above</a>";
+    "<a href='#recipe'>Cashew<br>Butter</a>",
+    "<a href='#coconut-oil'>Coconut<br>Oil</a>",
+    "<a href='#unhealthy'>Unhealthy</a>;
 
     "Calories",
     "Protein",

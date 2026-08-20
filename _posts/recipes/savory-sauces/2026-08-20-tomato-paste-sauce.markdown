@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Tomato Paste Pasta Sauce
-date:   2026-08-13 00:00:00 -0500
+date:   2026-08-20 00:00:00 -0500
 categories:
 - Recipes
 - Savory Sauces
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
