@@ -477,7 +477,14 @@
             <div class='cals'>
                 ------------------------------------------<br>
                 {% assign ing = ingBackup %}
-                {% if ing %}
+
+                <!-- excluding # servings in certain articles -->
+                {% assign excl = "false" %}
+                {% if include.excl == "true" %}
+                  {% assign excl = "true" %}
+                {% endif %}
+
+                {% if ing and excl == "false" %}
                     {% include servings.html ing=ing %}
                 {% endif %}
 

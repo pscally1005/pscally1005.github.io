@@ -26,4 +26,4 @@
 <br>
 {% assign mult = gram1 | divided_by: 100.000 | round: 3 %}
 {% assign folder = 'servingSizes' %}
-{% include nutrition.html file=file factor=mult nutrients=nutrients folder=folder %}
+{% include nutrition.html file=file factor=mult nutrients=nutrients folder=folder excl="true" %}
