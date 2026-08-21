@@ -105,7 +105,7 @@ Instructions:
     <li>1 tbsp (15 g) <a href='/misc/apple-cider-vinegar'>Apple cider vinegar</a></li>
     <li>1 tsp (3 g) Garlic powder</li>
     <li>1 tsp (3 g) Onion powder</li>
-    <li>1/2 tsp (1.5 g) Turmeric, grounf</li>
+    <li>1/2 tsp (1.5 g) Turmeric, ground</li>
     <li>1/2 tsp (1.5 g) Black pepper, ground</li>
     <li>1/4 tsp (1.5 g) <a href='https://amzn.to/3P2NFNU'>Potassium chloride</a></li>
   </ul>

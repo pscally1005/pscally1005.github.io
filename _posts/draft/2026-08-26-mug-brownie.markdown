@@ -56,7 +56,7 @@ Description: These mug <a href='/brownies'>brownies</a> are perfect for when you
 Instructions:
 - In a mug, mix together the <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, baking powder, and salt until fully combined.
 
-- Add in the <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#almond-milk'>milk</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>. Mix fully to form a thick batter.
+- Add in the <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#almond-milk'>milk</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>. Mix fully to form a batter.
 - <img src='/assets/Food/Healthier Dessert/Mug Brownie/raw.jpg' alt='' class='instruction-image'>
 
 - Microwave for 20 seconds, then stir with a spoon.  Microwave for another 20 seconds, then stir.  Finally, microwave for 10 seconds, for a total of 50 seconds of cook time.
@@ -64,7 +64,7 @@ Instructions:
 - - Optionally top with chocolate chips, <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#raisins'>raisins</a>, or flaky salt.  Let cool for 1 minute before eating.
 - <img src='/assets/Food/Healthier Dessert/Mug Brownie/cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- Make sure to use a mug where the brownie batter can expand by at least its raw height and not spill out over the top of the mug.
+- Make sure to use a mug where the brownie batter can expand by at least twice its raw height and not spill out over the top of the mug.
 
 - Adding 1/2 tbsp (7.5 g) of chocolate chips will make the nutrition facts looks as follows:<b></b>
 - |

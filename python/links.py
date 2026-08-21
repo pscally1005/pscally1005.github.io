@@ -5652,6 +5652,10 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4wFerfa": [
+        "shaker bottle",
+        "blender bottle"
+    ],
     "https://amzn.to/4zMyIm3": [
         "powdered milk, skim",
         "powdered milk, nonfat",

@@ -81,7 +81,7 @@ Notes:
 
 - |
   <div id='unhealthy' class='table-of-contents-2'></div>
-  For an unhealthy quick cookie variant (essentially just a large <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a>), follow the same instructions as the <a href='#coconut-oil'>coconut oil cookie variant above</a>, but using <a href='/misc/hidden-sugar'>granulated sugar</a>, <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a>, <a href='/misc/grains#white-wheat'>white flour</a>, and standard chocolate chips in place of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>.
+  For an unhealthy quick cookie variant (essentially just a large <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookie</a>), follow the same instructions as the <a href='#coconut-oil'>coconut oil cookie variant above</a>, but using <a href='/misc/hidden-sugar'>granulated sugar</a>, <a href='/misc/fake-healthy-foods#seed-oil'>canola oil</a>, <a href='/misc/grains#white-wheat'>white flour</a>, and standard chocolate chips in place of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>.
 - INGREDIENTS(onecookieunhealthy)
 - <img src='/assets/Food/Healthier Dessert/One cookie/unhealthy-baked.jpg' alt='' class='instruction-image'>
 
