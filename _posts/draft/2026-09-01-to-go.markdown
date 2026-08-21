@@ -1,0 +1,87 @@
+---
+layout: post
+title:  Protein Shake To Go
+date:   2026-08-21 00:00:00 -0500
+categories:
+- Recipes
+- Drinks
+- Draft
+showPercentage: no
+hummus: no
+oatmeal: no
+yogurt: no
+nut_butter: no
+pesto: no
+soup_stew: no
+salad: no
+dressing: no
+brownie: no
+cookie: no
+copycat: no
+vic: no
+protein_bar: no
+beans: no
+permalink: /recipes/protein-shake-to-go
+image: /assets/Food/Drinks/To Go/cover.jpg
+file: togowhey
+servingSize:
+section1:
+start2:
+section2:
+start3:
+section3:
+start4:
+section4:
+start5:
+section5:
+Prep: 5
+Rest:
+Cook:
+Source1:
+Source2:
+Source3:
+Source4:
+Source5:
+whisk: https://s.samsungfood.com/AZqEd
+tags:
+- protein shake
+- shaker bottle
+- unflavored protein powder
+- pea protein powder
+- pea protein isolate
+- whey protein powder
+- cinnamon
+- chocolate
+- pure monk fruit
+- sugar free
+- sugar-free
+- high protein
+- milkshake
+- powdered milk
+- milk powder
+Description: This is my go to for when I'm traveling. I just mix together protein powder, sweetener, and flavoring in a Ziploc bag, and then all I need is water. This is especially good for flights, where I take an empty shaker bottle through security, dump in the powder, and fill up water at the water fountain. What a great way to get clean protein on the go without spending an arm and a leg for a protein bar filled with junk ingredients.
+Instructions:
+- Add all ingredients to a small airtight bag, and shake together.
+
+- To make a protein shake, combine your dry mix with <b>1 1/2 cup (360 g) water</b>.
+Notes:
+- Either whey protein or pea protein will work here.  You can't use casein, as it will absorb too much liquid.
+
+- I'm using unflavored protein powder with added cocoa powder, cinnamon, and monk fruit, but any flavor of protein powder (like vanilla or chocolate) will work in place of the unflavored.  With a flavored protein powder, you can omit the cocoa, cinnamon, and sweetener
+
+- Milk powder is used to make up for the lack of milk, as without it, the protein shake would taste much too watery
+- |
+  COMPARE(
+    "togowhey",
+    "togopea"'
+
+    "<a href='/misc/dairy#whey'>Whey<br>Protein</a>",
+    "<a href='https://amzn.to/4aXnK21'>Pea<br>Protein</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
+---
