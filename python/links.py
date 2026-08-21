@@ -10,6 +10,9 @@ POSTS_DIR = r"C:\Users\mets1\Documents\website\_posts"
 LINKS = {
 
     # RECIPES
+    "/recipes/milky-chocolate-spread": [
+        "milky chocolate spread"
+    ],
     "/recipes/pound-cake": [
         "pound cake",
         "lb cake",
@@ -5646,6 +5649,16 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/4zMyIm3": [
+        "powdered milk, skim",
+        "powdered milk, nonfat",
+        "powdered milk, non fat",
+        "powdered milk",
+        "milk powder, skim",
+        "milk powder, nonfat",
+        "milk powder, non fat",
+        "milk powder"
+    ],
     "https://amzn.to/4wzvob5": [
         "small ramekins",
         "small ramekin",
@@ -9404,7 +9417,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-08-30")):
+            if not file.startswith(("2026-08-28")):
                 continue
 
             # exclude some files
