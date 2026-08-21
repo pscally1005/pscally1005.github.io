@@ -18,7 +18,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/avocado-bread
@@ -76,7 +76,7 @@ Instructions:
 Notes:
 - |
   <div id='banana' class='table-of-contents-2'></div>
-  I've also made <a href='#recipe'>this recipe</a> into a <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> using 2 medium (220 g) overripe <a href='/misc/fruit#banana'>bananas</a> in place of the <a href='/misc/fruit#avocado'>avocados</a>.
+  I've also made <a href='#recipe'>this recipe</a> into a <a href='/misc/fake-healthy-foods#banana-bread'>banana bread</a> using 2 medium (220 g) overripe <a href='/misc/fruit#banana'>bananas</a> in place of the <a href='/misc/fruit#avocado'>avocados</a>.  Since <a href='/misc/fruit#banana'>bananas</a> have more moisture than <a href='/misc/fruit#avocado'>avocados</a>, the batter will be a little bit wetter, and may require a bit longer baking time.  This took 60 minutes at 350F.
 - <img src='/assets/Food/Bread/Avo Bread/bb-cut.jpg' alt='' class='instruction-image'>
 
 - |
