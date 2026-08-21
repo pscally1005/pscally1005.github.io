@@ -2070,8 +2070,11 @@ LINKS = {
     ],
     "/recipes/sourdough-flatbread": [
         "Sourdough Discard Flatbread",
+        "sourdough discard flatbreads",
         "sourdough flatbread",
-        "discard flatbread"
+        "sourdough flatbreads",
+        "discard flatbread",
+        "discard flatbreads"
     ],
     "/recipes/soy-sauce-chicken": [
         "Soy Sauce Chicken and Brussel Sprouts",
