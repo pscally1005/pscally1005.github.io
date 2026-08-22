@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nutty Veggies
-date:   2026-08-17 00:00:00 -0500
+date:   2026-08-22 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
@@ -22,7 +22,7 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/nutty-veggies
-image: /assets/Food/Meme/Nutty Veggies/cover.jpg
+image: /assets/Food/Meme/Nutty Veggies/cover2.jpg
 file: nuttyveggiesalmond
 servingSize: 1 bowl
 section1: Steamed Veggies
@@ -127,6 +127,7 @@ Instructions:
   </ul>
 
   Store in the fridge for up to 1 week.
+- <img src='/assets/Food/Meme/Nutty Veggies/cover1.jpg' alt='' class='instruction-image'>
 Notes:
 - I've specifically written <a href='#recipe'>this recipe</a> to use an entire 16 oz (454 g) jar of <a href='/recipes/natural-peanut-butter'>nut butter</a>, the standard size, from start to finish.
 
