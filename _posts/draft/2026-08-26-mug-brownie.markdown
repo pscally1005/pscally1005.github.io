@@ -59,28 +59,57 @@ Instructions:
 - Add in the <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#almond-milk'>milk</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>. Mix fully to form a batter.
 - <img src='/assets/Food/Healthier Dessert/Mug Brownie/raw.jpg' alt='' class='instruction-image'>
 
-- Microwave for 20 seconds, then stir with a spoon.  Microwave for another 20 seconds, then stir.  Finally, microwave for 10 seconds, for a total of 50 seconds of cook time.
-
-- - Optionally top with chocolate chips, <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#raisins'>raisins</a>, or flaky salt.  Let cool for 1 minute before eating.
+- Microwave for 20 seconds, then stir with a spoon.  Microwave for another 20 seconds, then stir.  Finally, microwave for 10 seconds, for a total of 50 seconds of cook time.  Let cool for 1 minute before eating.
 - <img src='/assets/Food/Healthier Dessert/Mug Brownie/cooked.jpg' alt='' class='instruction-image'>
 Notes:
 - Make sure to use a mug where the brownie batter can expand by at least twice its raw height and not spill out over the top of the mug.
 
-- Adding 1/2 tbsp (7.5 g) of chocolate chips will make the nutrition facts looks as follows:<b></b>
+- Use any <a href='/misc/dairy#skim-milk'>milk</a> of choice here, like <a href='/misc/dairy#skim-milk'>skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, <a href='/misc/grains#oats'>oat milk</a>, etc.  Here, I'm using <a href='/misc/dairy#almond-milk'>almond milk</a>.
+
+- You can also use 1/4 cup (60 g) of <a href='/misc/fruit#apple'>unsweetened applesauce</a> in place of the <a href='/misc/meats#eggs'>egg</a>.
+- <img src='/assets/Food/Healthier Dessert/Mug Brownie/applesauce.jpg' alt='' class='instruction-image'>
+
+- Optionally, add 1 tbsp (15 g) of <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a> after microwaving.
+
 - |
   COMPARE(
     "mugbrownie",
-    "mugbrowniechoc";
+    "mugbrownieapplesauce",
+    "mugbrowniechoc",
+    "mugbrownieapplesaucechoc";
 
-    "<a href='#recipe'>As<br>Is",
-    "<a href='#notes'>Chocolate<br>Chips";
+    "<a href='/misc/meat#eggs'>Egg</a><br>No Chocolate<br><a href='https://amzn.to/4ceFnvP'>Monk Fruit</a>",
+    "<a href='/misc/fruit#apple'>Applesauce</a><br>No Chocolate<br><a href='https://amzn.to/4ceFnvP'>Monk Fruit</a>",
+    "<a href='/misc/meat#eggs'>Egg</a><br>With Chocolate<br><a href='https://amzn.to/4ceFnvP'>Monk Fruit</a>",
+    "<a href='/misc/fruit#apple'>Applesauce</a><br>With Chocolate</a><br><a href='https://amzn.to/4ceFnvP'>Monk Fruit</a>";
 
     "Calories",
     "Protein",
     "Fat",
     "Net Carbs",
     "Fiber",
-    "Added Sugar",
     "Sugar Alcohol"
+  )
+
+- <a href='/misc/hidden-sugar'>Granulated sugar</a> and standard chocolate chips will work in place of <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a>, though it will obviously be higher in <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/calories'>calories</a>.
+
+- |
+  COMPARE(
+    "mugbrowniesugar",
+    "mugbrownieapplesaucesugar",
+    "mugbrowniechocsugar",
+    "mugbrownieapplesaucechocsugar";
+
+    "<a href='/misc/meat#eggs'>Egg</a><br>No Chocolate<br><a href='/misc/hidden-sugar'>Sugar</a>",
+    "<a href='/misc/fruit#apple'>Applesauce</a><br>No Chocolate<br><a href='/misc/hidden-sugar'>Sugar</a>",
+    "<a href='/misc/meat#eggs'>Egg</a><br>With Chocolate<br><a href='/misc/hidden-sugar'>Sugar</a>",
+    "<a href='/misc/fruit#apple'>Applesauce</a><br>With Chocolate</a><br><a href='/misc/hidden-sugar'>Sugar</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar"
   )
 ---

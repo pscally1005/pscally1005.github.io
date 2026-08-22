@@ -60,4 +60,20 @@ Instructions:
 - Microwave for 60-90 seconds, or until the top and sides are set. Let cool for a minute before removing and slicing in half.
 - <img src='/assets/Food/Bread/English Muffin/cooked.jpg' alt='' class='instruction-image'>
 Notes:
+- You can also use 1/4 cup (60 g) of <a href='/misc/fruit#apple'>unsweetened applesauce</a> in place of the <a href='/misc/meats#eggs'>egg</a>.
+- <img src='/assets/Food/Bread/English Muffin/applesauce.jpg' alt='' class='instruction-image'>
+- |
+  COMPARE(
+    "englishmuffin",
+    "englishmuffinapplesauce";
+
+    "<a href='/misc/meat#eggs'>Egg</a>",
+    "<a href='/misc/fruit#apple'>Applesauce</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
