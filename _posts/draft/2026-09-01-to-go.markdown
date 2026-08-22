@@ -59,17 +59,17 @@ tags:
 - milkshake
 - powdered milk
 - milk powder
-Description: This is my go to for when I'm traveling. I just mix together protein powder, sweetener, and flavoring in a Ziploc bag, and then all I need is water. This is especially good for flights, where I take an empty shaker bottle through security, dump in the powder, and fill up water at the water fountain. What a great way to get clean protein on the go without spending an arm and a leg for a protein bar filled with junk ingredients.
+Description: This is my go to for when I'm traveling. I just mix together <a href='/misc/dairy#whey'>protein powder</a>, sweetener, and flavoring in a Ziploc bag, and then all I need is water. This is especially good for flights, where I take an empty <a href='https://amzn.to/4wFerfa'>shaker bottle</a> through security, dump in the powder, and fill up water at the water fountain. What a great way to get clean <a href='/misc/protein'>protein</a> on the go without spending an arm and a leg for a <a href='/protein-bar'>protein bar</a> filled with junk ingredients.
 Instructions:
 - Add all ingredients to a small airtight bag, and shake together.
 
-- To make a protein shake, combine your dry mix with <b>1 1/2 cup (360 g) water</b>.
+- To make a <a href='/recipes/protein-shake'>protein shake</a>, combine your dry mix with <b>1 1/2 cup (360 g) water</b>.
 Notes:
-- Either whey protein or pea protein will work here.  You can't use casein, as it will absorb too much liquid.
+- Either <a href='/misc/dairy#whey'>whey protein</a> or <a href='https://amzn.to/4aXnK21'>pea protein</a> will work here.  You can't use <a href='/misc/dairy#casein'>casein</a>, as it will absorb too much liquid.
 
-- I'm using unflavored protein powder with added cocoa powder, cinnamon, and monk fruit, but any flavor of protein powder (like vanilla or chocolate) will work in place of the unflavored.  With a flavored protein powder, you can omit the cocoa, cinnamon, and sweetener
+- I'm using unflavored <a href='/misc/dairy#whey'>protein powder</a> with added <a href='/misc/chocolate-benefits'>cocoa powder</a>, cinnamon, and <a href='https://amzn.to/3Sg1Z7p'>sweetener</a>, but any flavor of <a href='/misc/dairy#whey'>protein powder</a> (like vanilla or chocolate) will work in place of the unflavored.  With a flavored <a href='/misc/dairy#whey'>protein powder</a>, you can omit the <a href='/misc/chocolate-benefits'>cocoa</a>, cinnamon, and sweetener.
 
-- Milk powder is used to make up for the lack of milk, as without it, the protein shake would taste much too watery
+- <a href='https://amzn.to/4zMyIm3'>Milk powder</a> is used to make up for the lack of <a href='/misc/dairy#skim-milk'>milk</a>, as without it, the <a href='/recipes/protein-shake'>protein shake</a> would taste much too watery.
 - |
   COMPARE(
     "togowhey",

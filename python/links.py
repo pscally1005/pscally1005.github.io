@@ -5655,6 +5655,9 @@ LINKS = {
     ],
 
     # AMAZON
+    "https://amzn.to/3Sg1Z7p": [
+        "pure granulated monk fruit",
+    ],
     "https://amzn.to/4wFerfa": [
         "shaker bottle",
         "blender bottle"
