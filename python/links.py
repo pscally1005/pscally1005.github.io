@@ -1332,6 +1332,10 @@ LINKS = {
         "easy cheesecake",
         "cheesecake"
     ],
+    "/recipes/easy-cheesecake#lemon-blueberry": [
+        "lemon blueberry cheesecake",
+        "blueberry lemon cheesecake"
+    ],
     "/recipes/easy-pizza-dough": [
         "Easy Pizza Dough"
     ],

@@ -65,10 +65,28 @@ Instructions:
 
 - Fold in the <a href='/misc/fruit#blueberries'>frozen blueberries</a>.
 
-- Divide the dough into 4 even pieces, about <b>132 g</b> each.  Shape into round, thick circles on your <a href='https://amzn.to/45sRAsB'>cookie sheet</a>.
+- Divide the dough into 4 even pieces, about <b>132 g</b> each.  Shape into round, thick circles on your <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, about 3/4" tall.
 - <img src='/assets/Food/Healthier Dessert/Scones/raw.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 20 minutes, or until lightly golden brown, a toothpick comes out clean, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to cool totally.
 - <img src='/assets/Food/Healthier Dessert/Scones/baked.jpg' alt='' class='instruction-image'>
 Notes:
+- Below is a nutritional comparison of <a href='#recipe'>these scones</a> made as-is (with <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>) versus with <a href='/misc/hidden-sugar'>granulated sugar</a> and <a href='/misc/grains#white-wheat'>white flour</a>, where the latter is higher in <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/carbs'>net carbs</a>, and <a href='/misc/calories'>calories</a>.
+
+- |
+  COMPARE(
+    "scones",
+    "sconessugar";
+
+    "<a href='#recipe'>As<br>Is</a>",
+    "<a href='/misc/hidden-sugar'>Sugar</a><br>&<br><a href='/misc/grains#white-wheat'>White Flour</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber",
+    "Added Sugar",
+    "Sugar Alcohol"
+  )
 ---

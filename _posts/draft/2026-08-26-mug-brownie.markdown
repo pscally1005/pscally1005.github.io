@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Healthy Mug Brownie
-date:   2026-08-16 00:00:00 -0500
+date:   2026-08-23 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
@@ -66,7 +66,7 @@ Notes:
 
 - Use any <a href='/misc/dairy#skim-milk'>milk</a> of choice here, like <a href='/misc/dairy#skim-milk'>skim milk</a>, <a href='/misc/dairy#whole-milk'>whole milk</a>, <a href='/misc/grains#oats'>oat milk</a>, etc.  Here, I'm using <a href='/misc/dairy#almond-milk'>almond milk</a>.
 
-- You can also use 1/4 cup (60 g) of <a href='/misc/fruit#apple'>unsweetened applesauce</a> in place of the <a href='/misc/meats#eggs'>egg</a>.  It will need another couple of extra cycles of 20 seconds of microwaving, and come out closer to a lava cake than a brownie, as it won't fully set.
+- You can also use 1/4 cup (60 g) of <a href='/misc/fruit#apple'>unsweetened applesauce</a> in place of the <a href='/misc/meat#eggs'>egg</a>.  It will need another couple of extra cycles of 20 seconds of microwaving, and come out closer to a lava cake rather than a brownie, as it won't fully set.
 - <img src='/assets/Food/Healthier Dessert/Mug Brownie/applesauce.jpg' alt='' class='instruction-image'>
 
 - Optionally, add 1 tbsp (15 g) of <a href='https://amzn.to/4kGEfC5'>sugar free chocolate chips</a> after microwaving.

@@ -51,6 +51,10 @@ tags:
 - chobani
 - greek yogurt
 - protein
+- lemon blueberry
+- blueberry lemon
+- lemon juice
+- frozen blueberries
 Description: Introducing the world's easiest healthy cheesecake. Just take a flavored <a href='/misc/dairy#yogurt'>Greek yogurt</a>, slap it into a pie shell, and bake. That's it!  I'll be using my homemade <a href='/recipes/pie-crust'>Healthier Graham Cracker Pie Crust</a>, but any old store bought graham cracker crust will do as well. As for the filling, I'll be going with a whole large container of this <a href='https://amzn.to/4aZZ7mi'>Chobani 20 g Protein Vanilla Sugar Free Greek Yogurt</a>.
 Instructions:
 - Add your <a href='/misc/dairy#yogurt'>yogurt</a> into the pie crust, and smooth out the top.
@@ -69,11 +73,11 @@ Notes:
 
 - |
   <div id='lemon-blueberry' class='table-of-contents-2'></div>
-  To make a <a href='/misc/fruit#lemon'>lemon</a> <a href='/misc/fruit#blueberries'>blueberry</a> cheesecake, mix 1/4 cup (60 g) <a href='/misc/fruit#lemon'>lemon juice</a> and 1 cup (150 g) <a href='/misc/fruit#blueberries'>frozen blueberries</a> into the cheesecake batter.
-- <img src='/assets/Food/Healthier Dessert/Easy cheesecake/LB-bowl.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Healthier Dessert/Easy cheesecake/LB-raw.jpg' alt='' class='instruction-image'>
-- <img src='/assets/Food/Healthier Dessert/Easy cheesecake/LB-baked.jpg' alt='' class='instruction-image'>
-# - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/LB-cut.jpg' alt='' class='instruction-image'>
+  To make a lemon blueberry cheesecake, mix 1/4 cup (60 g) <a href='/misc/fruit#lemon'>lemon juice</a> and 1 cup (150 g) <a href='/misc/fruit#blueberries'>frozen blueberries</a> into the cheesecake batter.
+# - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/LB-bowl.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/LB-raw.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/LB-baked.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Easy cheesecake/LB-cut.jpg' alt='' class='instruction-image'>
 
 - Does this taste exactly as good as a traditional cheesecake?  No, of course not.  It's made of <a href='/misc/dairy#yogurt'>yogurt</a> with <a href='/misc/hidden-sugar'>no sugar</a> and minimal <a href='/misc/fats'>fat</a>.  It is however still a delicious healthier alternative, but don't expect it to taste exactly like a slice of classic New York style cheesecake.  That instead would have about 32 oz (908 g) of full fat <a href='/misc/dairy#cream-cheese'>cream cheese</a>, 1 cup (200 g) of <a href='/misc/hidden-sugar'>sugar</a>, and 2/3 cup (160 g) of sour cream in the filling instead.
 
