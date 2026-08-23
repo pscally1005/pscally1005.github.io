@@ -22,7 +22,7 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/protein-shake-to-go
-image: /assets/Food/Drinks/To Go/cover.jpg
+image: /assets/Food/Drinks/To Go/cover1.jpg
 file: togowhey
 servingSize:
 section1:
@@ -62,8 +62,10 @@ tags:
 Description: This is my go to for when I'm traveling. I just mix together <a href='/misc/dairy#whey'>protein powder</a>, sweetener, and flavoring in a Ziploc bag, and then all I need is water. This is especially good for flights, where I take an empty <a href='https://amzn.to/4wFerfa'>shaker bottle</a> through security, dump in the powder, and fill up water at the water fountain. What a great way to get clean <a href='/misc/protein'>protein</a> on the go without spending an arm and a leg for a <a href='/protein-bar'>protein bar</a> filled with junk ingredients.
 Instructions:
 - Add all ingredients to a small airtight bag, and shake together.
+- <img src='/assets/Food/Drinks/To Go/Bag.jpg' alt='' class='instruction-image'>
 
-- To make a <a href='/recipes/protein-shake'>protein shake</a>, combine your dry mix with <b>1 1/2 cup (360 g) water</b>.
+- To make a <a href='/recipes/protein-shake'>protein shake</a>, combine your dry mix with <b>1 cup (240 g)</b> of water.
+- <img src='/assets/Food/Drinks/To Go/cover2.jpg' alt='' class='instruction-image'>
 Notes:
 - Either <a href='/misc/dairy#whey'>whey protein</a> or <a href='https://amzn.to/4aXnK21'>pea protein</a> will work here.  You can't use <a href='/misc/dairy#casein'>casein</a>, as it will absorb too much liquid.
 
@@ -73,7 +75,7 @@ Notes:
 - |
   COMPARE(
     "togowhey",
-    "togopea"'
+    "togopea";
 
     "<a href='/misc/dairy#whey'>Whey<br>Protein</a>",
     "<a href='https://amzn.to/4aXnK21'>Pea<br>Protein</a>";
@@ -81,7 +83,6 @@ Notes:
     "Calories",
     "Protein",
     "Fat",
-    "Net Carbs",
-    "Fiber"
+    "Net Carbs"
   )
 ---

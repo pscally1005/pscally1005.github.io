@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Gluten Free Lentil Loaf
-date:   2026-08-14 00:00:00 -0500
+date:   2026-08-23 00:00:00 -0500
 categories:
 - Recipes
 - Bread
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -24,7 +23,7 @@ beans: no
 permalink: /recipes/lentil-loaf
 image: /assets/Food/Bread/Lentil Loaf/cover.jpg
 file: lentilloaf
-servingSize: 1 slice (~35 g)
+servingSize: 1 slice (~37 g)
 section1: Soak
 start2: Extra virgin olive oil
 section2: Blend
@@ -53,6 +52,9 @@ tags:
 - toast
 - gluten-free
 - gluten free
+- rolled oats
+- oats
+- bulgur
 Description: This simple small loaf of <a href='/recipes/bread'>bread</a> is <a href='/misc/celiac'>gluten free</a>, <a href='/misc/grains'>grain free</a>, and perfect for any toast or sandwiches.  It uses a base of <a href='/misc/beans#red-lentils'>lentils</a> and <a href='/misc/psyllium-husk'>psyllium husk</a> for a <a href='/misc/fiber'>high fiber</a> and healthy <a href='/recipes/bread'>bread</a> that's also a good source of both <a href='/misc/iron'>plant based iron</a> and <a href='/misc/nutrient-alphabet#F'>folate</a>.  It's also much simpler to make than standard <a href='/recipes/ww-bread'>wheat based bread</a>, requiring less kneading and no proofing time.
 Instructions:
 - Soak your <a href='/misc/beans#red-lentils'>lentils</a> in water at room temperature for 2 hours.
@@ -72,4 +74,33 @@ Instructions:
 - <img src='/assets/Food/Bread/Lentil Loaf/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - Any kind of <a href='/misc/beans#red-lentils'>lentils</a> will work here.  <a href='/misc/beans#brown-lentils'>Brown</a>, <a href='/misc/beans#red-lentils'>red</a>, <a href='/misc/beans#green-lentils'>green</a>; whatever you got.  I went with <a href='/misc/beans#brown-lentils'>brown lentils</a> here.
+
+
+- |
+  <div id='oats' class='table-of-contents-2'></div>
+  Here, I made the same <a href='#recipe'>lentil loaf</a> but I used 2 cups (160 g) of <a href='/misc/grains#oats'>rolled oats</a> in place of <a href='/misc/beans#brown-lentils'>lentils</a>.
+- <img src='/assets/Food/Bread/Lentil Loaf/oats.jpg' alt='' class='instruction-image'>
+
+- |
+  <div id='bulgur' class='table-of-contents-2'></div>
+  You can even use 1 cup (140 g) of raw <a href='/misc/grains#bulgur'>bulgur</a> in place of <a href='/misc/beans#brown-lentils'>lentils</a>, but then it won't be <a href='/misc/celiac'>gluten free</a>.
+- <img src='/assets/Food/Bread/Lentil Loaf/bulgur.jpg' alt='' class='instruction-image'>
+
+- |
+  COMPARE(
+    "lentilloaf",
+    "oatloaf",
+    "bulgurloaf";
+
+    "<a href='#recipe'>Lentils</a>",
+    "<a href='#oats'>Oats</a>",
+    "<a href='#bulgur'>Bulgur</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
+- <img src='/assets/Food/Bread/Lentil Loaf/oats-and-bulgur.jpg' alt='' class='instruction-image'>
 ---

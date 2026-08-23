@@ -60,8 +60,10 @@ Instructions:
 - Microwave for 60-90 seconds, or until the top and sides are set. Let cool for a minute before removing and slicing in half.
 - <img src='/assets/Food/Bread/English Muffin/cooked.jpg' alt='' class='instruction-image'>
 Notes:
-- You can also use 1/4 cup (60 g) of <a href='/misc/fruit#apple'>unsweetened applesauce</a> in place of the <a href='/misc/meats#eggs'>egg</a>.
-- <img src='/assets/Food/Bread/English Muffin/applesauce.jpg' alt='' class='instruction-image'>
+- |
+  You can also use 1/4 cup (60 g) of <a href='/misc/fruit#apple'>unsweetened applesauce</a> in place of the <a href='/misc/meats#eggs'>egg</a>.  It may need 90-120 seconds in the microwave instead of only 60-90.<br><br>
+
+  The <a href='#recipe'>english muffin</a> made with <a href='/misc/fruit#apple'>applesauce</a> will be shorter, softer, and more crumbly with less structural integrity as compared to the <a href='#recipe'>english muffin</a> made with an <a href='/misc/meats#eggs'>egg</a>.  However, I prefer the taste of the <a href='#recipe'>english muffin</a> with <a href='/misc/fruit#apple'>applesauce</a> because it is sweeter, and has no <a href='/misc/meats#eggs'>egg</a>-y taste when warm.
 - |
   COMPARE(
     "englishmuffin",
@@ -76,4 +78,5 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
+- <img src='/assets/Food/Bread/English Muffin/applesauce.jpg' alt='' class='instruction-image'>
 ---
