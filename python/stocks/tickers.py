@@ -97,10 +97,45 @@ def sp500_name_map() -> dict[str, str]:
 
 @lru_cache(maxsize=1)
 def dow_name_map() -> dict[str, str]:
-    return _wiki_symbol_name_map(
-        "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
-        ("Symbol",),
-    )
+    try:
+        return _wiki_symbol_name_map(
+            "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+            ("Symbol",),
+        )
+    except ValueError:
+        # Fallback: return a cached set of known Dow 30 symbols
+        return {
+            "MMM": "3M",
+            "AXP": "American Express",
+            "AMGN": "Amgen",
+            "AMZN": "Amazon",
+            "AAPL": "Apple Inc.",
+            "BA": "Boeing",
+            "CAT": "Caterpillar Inc.",
+            "CVX": "Chevron Corporation",
+            "CSCO": "Cisco Systems",
+            "KO": "Coca-Cola",
+            "DIS": "Walt Disney Company",
+            "GS": "Goldman Sachs",
+            "HD": "Home Depot",
+            "HON": "Honeywell International",
+            "IBM": "International Business Machines",
+            "JNJ": "Johnson & Johnson",
+            "JPM": "JPMorgan Chase",
+            "MCD": "McDonald's",
+            "MRK": "Merck & Co.",
+            "MSFT": "Microsoft Corporation",
+            "NKE": "Nike",
+            "NVDA": "NVIDIA Corporation",
+            "PG": "Procter & Gamble",
+            "CRM": "Salesforce",
+            "SHW": "Sherwin-Williams",
+            "TRV": "Travelers Companies",
+            "UNH": "UnitedHealth Group",
+            "VZ": "Verizon",
+            "V": "Visa",
+            "WMT": "Walmart",
+        }
 
 
 @lru_cache(maxsize=1)

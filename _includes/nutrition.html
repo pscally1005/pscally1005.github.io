@@ -108,6 +108,7 @@
         {% assign poly = "" %}
         {% assign mono = "" %}
         {% assign choles = "" %}
+        {% assign totalChol = "" %}
 
         {% assign sod = "" %}
 
@@ -129,6 +130,7 @@
         {% assign lactose = "" %}
 
         {% assign prot = "" %}
+        {% assign totalProtein = "" %}
         {% assign gluten = "" %}
 
         {% assign vitA = "" %}
@@ -166,6 +168,7 @@
         {% assign valine = "" %}
 
         {% assign caffeine = "" %}
+        {% assign caffeineVal = "" %}
 
         <!-- Loop Variables -->
         {% assign loopVarIng = site.data[ing] %}
@@ -222,6 +225,7 @@
 
                 {% if pair[1] == "Cholesterol" and nutrients contains "Cholesterol" %}
                     {% assign choles = line0 %}
+                    {% assign totalCholes = val | plus: 0 | round: 1 %}
                 {% endif %}
 
                 {% if pair[1] == "Sodium" and nutrients contains "Sodium" %}
@@ -505,7 +509,7 @@
             <div class='macros'>
 
                 ------------------------------------------<br>
-                 <!-- Fats: total, sat, unsat, poly, cholesterol -->
+                <!-- Fats: total, sat, unsat, poly, cholesterol -->
                 {% if fat != "" %}
                     <div class="nutrition-indent-0">
                         <b><a href="/misc/fats">Total Fat</a></b>: {{ fat }}
@@ -513,7 +517,7 @@
                 {% endif %}
 
                 <!-- If total fat is 0, then hide sat, unsat, trans, & cholesterol -->
-                {% if totalFat and totalFat != 0 %}
+                {% if totalFat and totalFat != 0 and totalFat != '0' %}
                     {% if sat != "" %}
                         <div class="nutrition-indent-1">
                             <b><a href="/misc/fats">Saturated Fat</a></b>: {{ sat }}
@@ -539,7 +543,8 @@
                             </div>
                         {% endif %}
 
-                        {% if choles != "" %}
+                        {% comment %}<hr>choles:"{{choles}}"<br>totalCholes:"{{totalCholes}}"<hr>{% endcomment %}
+                        {% if choles != "" and totalCholes != 0 %}
                             <div class="nutrition-indent-0">
                                 <b><a href="/misc/cholesterol">Cholesterol</a></b>: {{ choles }}
                             </div>
@@ -842,7 +847,7 @@
                     </div>
                 {% endif %}
 
-                {% if caffeine != "" and caffeine != "0.0mg" and caffeine != "0.0mg (0 %)" %}
+                {% if caffeine != "" and caffeine != "0.0mg" and caffeine != "0.0mg (0 %)" and caffeineVal != 0 %}
                     <div class="nutrition-indent-0">
                         ------------------------------------------<br>
                         <b><a href='/misc/caffeine'>Caffeine</a></b>: {{ caffeine }}
