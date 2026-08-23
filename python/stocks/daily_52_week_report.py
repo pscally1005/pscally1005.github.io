@@ -53,16 +53,13 @@ def mailing_api_url() -> str:
 
 
 def build_unsubscribe_url(token: str) -> str:
-    """Direct Apps Script link (same pattern as the subscribe form)."""
+    """Public unsubscribe page URL."""
     if not token:
         return ""
-    api = mailing_api_url().strip()
-    if not api:
-        return ""
-    query = urlencode({"action": "unsubscribe", "token": token})
-    if "?" in api:
-        return f"{api}&{query}"
-    return f"{api}?{query}"
+    return (
+        "https://www.poormanprotein.com/misc/stocks/unsubscribe?"
+        + urlencode({"token": token})
+    )
 
 
 @dataclass
