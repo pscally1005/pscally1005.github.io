@@ -61,7 +61,7 @@ Description: |
 Instructions:
 - Preheat your oven to 325F, and line 2 large <a href='https://amzn.to/45sRAsB'>cookie sheets</a> with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients. Add water, and stir until fully combined and you have a cracker dough
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dry ingredients. Add water, and stir until fully combined and you have a cracker dough
 - <img src='/assets/Food/Finger Food/Flax Crackers/flax-crackers-bowl.jpg' alt='' class='instruction-image'>
 
 - Divide the dough in half, and roll out to 1/8" thick between 2 sheets of parchment paper.  Cut with a <a href='https://amzn.to/3O5nlSH'>pizza wheel</a> or <a href='https://amzn.to/4jlDKwc'>knife</a>

@@ -61,7 +61,7 @@ Description: These meatballs are <a href='/misc/celiac'>gluten free</a>, and can
 Instructions:
 - Preheat your oven to 400F, and prepare a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat your <a href='/misc/meat#eggs'>egg</a>, and mix with the rest of the ingredients. Mix with your hands until just combined
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, beat your <a href='/misc/meat#eggs'>egg</a>, and mix with the rest of the ingredients. Mix with your hands until just combined
 
 - Scoop your mixture (using a cookie scoop helps), roll into balls, and place on your sheet pans
 - <img src='/assets/Food/Ground Meat/Meatballs/meatballs-3.jpg' alt='' class='instruction-image'>

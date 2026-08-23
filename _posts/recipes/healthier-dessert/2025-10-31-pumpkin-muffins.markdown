@@ -57,7 +57,7 @@ Description: These healthier pumpkin muffins are the perfect fall treat for thos
 Instructions:
 - Preheat your oven to 350F, and liberally grease a <a href='https://amzn.to/43Bn7Yb'>muffin tin</a>. This recipe will yield 48 mini muffins
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the wet ingredients until fully combined with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together the wet ingredients until fully combined with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a>
 
 - In a separate bowl, whisk together the dry ingredients
 

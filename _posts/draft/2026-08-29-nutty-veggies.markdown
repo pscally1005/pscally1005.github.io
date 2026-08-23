@@ -97,7 +97,7 @@ Description: |
   Overall, this seemingly odd collection of foods makes an extremely balanced and satiating meal!
 Instructions:
 - |
-  Add a 1 lb (454 g) bag of frozen <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>.  Cover with a plate, and microwave for 10 minutes.<br><br>
+  Add a 1 lb (454 g) bag of frozen <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>.  Cover with a plate, and microwave for 10 minutes.<br><br>
 
   Season with the following:<br>
 

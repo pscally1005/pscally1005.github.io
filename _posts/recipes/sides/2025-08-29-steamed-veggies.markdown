@@ -59,7 +59,7 @@ tags:
 - vegan
 Description: We've all been there. You want to eat more <a href='/misc/veggies'>vegetables</a>, and you hear that steaming them is the most nutritious option, as it preserves most of the <a href='/misc/nutrient-alphabet'>vitamins and minerals</a>. So you buy a steamer basket, choke down steamed <a href='/misc/veggies#broccoli'>broccoli</a> once, and never use it again. But no more!  In just 10 minutes with nothing but a microwave and a bowl, you can have tasty steamed <a href='/misc/veggies'>veggies</a> by using something called <i>seasonings</i>. Wild concept, I know. I'm going simple with just <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> and lime pepper over <a href='/misc/veggies#cauliflower'>cauliflower</a> today, but use whatever you want. <a href='/misc/veggies'>Vegetables</a> are a blank canvas, paint the picture you want to eat.
 Instructions:
-- Directly from the freezer, add your <a href='/misc/veggies'>veggies</a> to a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>. Cover with a plate, and microwave for 10 minutes
+- Directly from the freezer, add your <a href='/misc/veggies'>veggies</a> to a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>. Cover with a plate, and microwave for 10 minutes
 
 - Remove the plate and it let steam out for about 2 minutes. Add your vinegar and lime pepper (or whatever spices you like), mix, and serve
 Notes:

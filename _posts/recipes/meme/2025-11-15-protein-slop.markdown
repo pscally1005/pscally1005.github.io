@@ -60,7 +60,7 @@ Instructions:
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 15 minutes, or until browned and soft. You can also roast in a 400F oven for about 25 minutes
 
-- Meanwhile, drain your can of <a href='/misc/fish#tuna'>tuna</a>, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a> with <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/fruit#avocado'>avocado</a>, and <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Mash with the back of a fork
+- Meanwhile, drain your can of <a href='/misc/fish#tuna'>tuna</a>, and add to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a> with <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/fruit#avocado'>avocado</a>, and <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Mash with the back of a fork
 
 - Add your roasted <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> to one side of a bowl, and add your <a href='/misc/fish#tuna'>tuna</a> mix to the other. Top with chopped <a href='/misc/fruit#olives'>olives</a>
 - <img src='/assets/Food/Meme/Protein Slop/separate.jpg' alt='' class='instruction-image'>

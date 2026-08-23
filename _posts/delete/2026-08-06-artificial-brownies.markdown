@@ -60,7 +60,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine all ingredients together with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>.
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine all ingredients together with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>.
 - <img src='/assets/Food/Meme/Artificial/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to your prepared pan.

@@ -57,7 +57,7 @@ Instructions:
 
 - Add your <a href='/misc/veggies#broccoli'>broccoli</a> to a bowl, and season with <a href='/misc/fruit#lemon-juice'>lemon juice</a>, paprika, chili powder, garlic powder, onion powder, and salt. Transfer to a parchment lined <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, and roast at 400F for about 30 minutes, until tender and lightly charred. Set aside
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, and <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>. Divide into 4 servings
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine together the <a href='/misc/grains#brown-rice'>rice</a>, <a href='/misc/veggies#broccoli'>broccoli</a>, and <a href='/recipes/cheese-sauce'>Gooey Cheese Sauce</a>. Divide into 4 servings
 - <img src='/assets/Food/Meatless/Cheesy Rice/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 ---

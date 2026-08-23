@@ -63,9 +63,9 @@ Description: If you want to have <a href='/misc/fake-healthy-foods#banana-bread'
 Instructions:
 - Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and lightly grease the paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the wet ingredients until well combined - mashed <a href='/misc/fruit#banana'>banana</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/dairy#skim-milk'>milk</a> (or water)
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together all the wet ingredients until well combined - mashed <a href='/misc/fruit#banana'>banana</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and <a href='/misc/dairy#skim-milk'>milk</a> (or water)
 
-- In a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together all the dry ingredients until well combined - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, baking powder, cinnamon, baking soda, and salt
+- In a separate <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together all the dry ingredients until well combined - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#whey'>whey protein</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/seeds#chia-seeds'>chia seeds</a>, baking powder, cinnamon, baking soda, and salt
 
 - Add the dry ingredients to the wet, and mix until just fully combined.  Optionally fold in chopped <a href='/misc/nuts'>nuts</a> or chocolate chips (1/2 cup, 85 g).  Transfer the batter to the pan
 

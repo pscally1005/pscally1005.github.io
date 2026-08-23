@@ -64,5 +64,5 @@ Instructions:
 - Add in your seasonings - <a href='/misc/veggies#garlic'>minced garlic</a>, lemon pepper, garlic powder, onion powder, and black pepper. Mix with tongs
 - <img src='/assets/Food/Sides/Salad/mixed.jpg' alt='' class='instruction-image'>
 Notes:
-- Seasoning the <a href='/misc/veggies'>vegetables</a> makes them taste way better, but it also releases their water. Store the <a href='/salad'>salad</a> in the strainer part of the <a href='/misc/kitchen-products#salad-spinner'>salad spinner</a>, with the strainer in the <a href='https://amzn.to/4adxMft'>large bowl</a>. When you go to eat the <a href='/salad'>salad</a>, just lift the strainer out of the bowl and discard the released water
+- Seasoning the <a href='/misc/veggies'>vegetables</a> makes them taste way better, but it also releases their water. Store the <a href='/salad'>salad</a> in the strainer part of the <a href='/misc/kitchen-products#salad-spinner'>salad spinner</a>, with the strainer in the <a href='https://amzn.to/4zyFnzN'>large bowl</a>. When you go to eat the <a href='/salad'>salad</a>, just lift the strainer out of the bowl and discard the released water
 ---

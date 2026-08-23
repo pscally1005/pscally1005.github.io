@@ -55,7 +55,7 @@ Description: |
 Instructions:
 - Preheat a cast iron or nonstick pan over medium heat with a <a href='https://amzn.to/3Hdg0gk'>light spray of oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, combine together your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> with salt and baking powder with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, combine together your <a href='/misc/whole-wheat-sourdough#starter'>starter</a> with salt and baking powder with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 
 - When the pan is hot, briefly remove it from the heat.  Add 1/2 cup (half the mixture, 120 g) into the pan, and use a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to spread it into a 6 inch round flatbread. Add any toppings you like, such as <a href='/misc/dairy#mozzarella'>cheese</a> or everything bagel seasoning
 - <img src='/assets/Food/Bread/Discard flatbread/cooking1.jpg' alt='' class='instruction-image'>

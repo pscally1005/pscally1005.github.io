@@ -61,7 +61,7 @@ Instructions:
 
 - Add in your <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#onion'>onion</a> with oil a small pinch of salt to help draw out the water. Cook until the <a href='/misc/veggies#pepper'>peppers</a> soften and the <a href='/misc/veggies#onion'>onions</a> are going translucent, about 10 minutes
 
-- Meanwhile, cut your <a href='/misc/meat#chicken-breast'>chicken</a> into bite sized pieces. Add them to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and mix with the <a href='/misc/olive-oil'>oil</a> and spices
+- Meanwhile, cut your <a href='/misc/meat#chicken-breast'>chicken</a> into bite sized pieces. Add them to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and mix with the <a href='/misc/olive-oil'>oil</a> and spices
 
 - Stir in the raw <a href='/misc/meat#chicken-breast'>chicken</a>, <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, <a href='/misc/veggies#tomato'>tomatoes</a>, <a href='/misc/meat#chicken-breast'>chicken</a> stock (or water + powder), and thyme
 

@@ -67,9 +67,9 @@ Description: Unlike traditional <a href='/misc/fake-healthy-foods#banana-bread'>
 Instructions:
 - Preheat your oven to 350F
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>quick oats</a>, <a href='/misc/grains#oats'>oat flour</a>, cornstarch, baking soda, and salt
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>quick oats</a>, <a href='/misc/grains#oats'>oat flour</a>, cornstarch, baking soda, and salt
 
-- In a separate <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> (or <a href='/misc/natural-sweeteners#honey'>honey</a>)
+- In a separate <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> (or <a href='/misc/natural-sweeteners#honey'>honey</a>)
 
 - Pour the wet ingredients into the dry and mix just until smooth with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Optionally fold in some chocolate chips
 

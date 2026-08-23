@@ -66,7 +66,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. Lightly grease the paper
 
-- In a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>, add the <a href='/recipes/natural-peanut-butter'>nut butter</a>, and microwave for 30 seconds to soften. Add in the rest of the ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- In a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>, add the <a href='/recipes/natural-peanut-butter'>nut butter</a>, and microwave for 30 seconds to soften. Add in the rest of the ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Baked Protein Bars/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top

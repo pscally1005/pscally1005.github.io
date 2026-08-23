@@ -55,7 +55,7 @@ Description: Recently, I made my own <a href='/recipes/hot-honey'>Homemade Hot H
 Instructions:
 - Preheat your oven to 400F, and line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly spray with oil</a>
 
-- Whisk together the dry ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - cornmeal, flour, baking powder, baking soda, and salt. To make it <a href='/misc/celiac'>gluten free</a>, you can use <a href='/misc/grains#oats'>oat flour</a> or <a href='/misc/nuts#almonds'>almond flour</a> in place of <a href='/misc/grains#whole-wheat'>whole wheat flour</a>
+- Whisk together the dry ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - cornmeal, flour, baking powder, baking soda, and salt. To make it <a href='/misc/celiac'>gluten free</a>, you can use <a href='/misc/grains#oats'>oat flour</a> or <a href='/misc/nuts#almonds'>almond flour</a> in place of <a href='/misc/grains#whole-wheat'>whole wheat flour</a>
 
 - Add in the wet ingredients - <a href='/recipes/hot-honey'>hot honey</a>, <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a>, and water. Whisk until smooth. If you don't have <a href='/recipes/hot-honey'>hot honey</a>, you can replace it with regular <a href='/misc/natural-sweeteners#honey'>honey</a>, and add 1 tsp (2 g) red pepper flakes
 - <img src='/assets/Food/Sides/Hot Honey Cornbread/bowl.jpg' alt='' class='instruction-image'>

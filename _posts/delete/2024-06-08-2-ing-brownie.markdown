@@ -69,7 +69,7 @@ Instructions:
 
 - Microwave your <a href='/misc/chocolate-benefits'>chocolate</a> in 20-30 second intervals, stirring in between, until fully melted
 
-- Meanwhile, crack your <a href='/misc/meat#eggs'>eggs</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>. Beat with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until frothy, about 1-2 minutes
+- Meanwhile, crack your <a href='/misc/meat#eggs'>eggs</a> into a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Beat with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> until frothy, about 1-2 minutes
 - <img src='/assets/Food/Healthier Dessert/2 Ing Brownie/2-ing-brownie-5.jpg' alt='' class='instruction-image'>
 
 - Transfer the melted chocolate into the <a href='/misc/meat#eggs'>eggs</a>, and beat until smooth, about 1 minute. Optionally, add in any other ingredients, like salt, extracts, chocolate chips, or <a href='/misc/nuts'>nuts</a>. Transfer the batter to your pan, and spread to all corners

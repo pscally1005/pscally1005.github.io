@@ -60,7 +60,7 @@ Description: <a href='/copycat'>Copycat recipes</a> seem to do well, so here I a
 Instructions:
 - Line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. For a half batch, use a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>
 
-- Mix together the wet ingredients (<a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>) in a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
+- Mix together the wet ingredients (<a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>) in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 
 - Add in the dry ingredients, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 

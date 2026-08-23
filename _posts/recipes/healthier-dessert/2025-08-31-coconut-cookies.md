@@ -61,7 +61,7 @@ Instructions:
 - Add your <a href='/misc/nuts#coconut'>coconut</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend on high for about 5 minutes, scraping the sides every minute. Blend until you have a smooth <a href='/misc/nuts#coconut'>coconut butter</a>, aka "<a href='/misc/nuts#peanuts'>peanut butter</a>", but with <a href='/misc/nuts#coconut'>coconut</a> instead
 - <img src='/assets/Food/Healthier Dessert/Coconut Cookies/coconut-butter.jpg' alt='' class='instruction-image'>
 
-- Add your <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='/misc/meat#eggs'>egg</a>, salt, and baking soda to the processor. Blend until smooth, and transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
+- Add your <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='/misc/meat#eggs'>egg</a>, salt, and baking soda to the processor. Blend until smooth, and transfer to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>
 
 - Add in the <a href='/misc/nuts#coconut'>coconut flour</a> 2 tbsp (15 g) at a time, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a slightly sticky cookie dough. <a href='/misc/nuts#coconut'>Coconut flour</a> <a href='/misc/water-absorption#coconut'>absorbs a lot of water</a>, so we're adding it slowly to make sure we don't accidentally add too much. Chill the dough in the fridge for about 10 minutes
 

@@ -55,7 +55,7 @@ Instructions:
 - Place a large strainer in a clean sink. Add your <a href='/misc/fish#shrimp'>shrimp</a> to the strainer, and rinse with cold water for about 5 minutes, turning over occasionally, until thawed
 - <img src='/assets/Food/Fish/Grilled Shrimp/sink.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, combine <a href='/recipes/hot-sauce'>hot sauce</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='/misc/olive-oil'>olive oil</a>, paprika, and oregano in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Add in the <a href='/misc/fish#shrimp'>shrimp</a>, and mix until combined. Cover and let marinate in the fridge for at least 1 hour, and up to 24 hours
+- Meanwhile, combine <a href='/recipes/hot-sauce'>hot sauce</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='https://amzn.to/44VXByC'>soy sauce</a>, <a href='/misc/olive-oil'>olive oil</a>, paprika, and oregano in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Add in the <a href='/misc/fish#shrimp'>shrimp</a>, and mix until combined. Cover and let marinate in the fridge for at least 1 hour, and up to 24 hours
 - <img src='/assets/Food/Fish/Grilled Shrimp/marinate.jpg' alt='' class='instruction-image'>
 
 - You can either saute these on the stove in a pan over medium heat, or cook them on the grill using wooden skewers. Cook until the <a href='/misc/fish#shrimp'>shrimp</a> turns pink and the temperature is at least <a href='https://amzn.to/4kmobG2'>140F</a>

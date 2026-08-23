@@ -63,7 +63,7 @@ Instructions:
 
 - While the sauce simmers, slice the <a href='/misc/veggies#eggplant'>eggplant</a> lengthwise into 1/4 inch thick slices. Transfer to the prepared pan; it's ok if they overlap. Season with salt.  Bake for about 30 minutes, or until the <a href='/misc/veggies#eggplant'>eggplant</a> is browned and soft but not burnt
 
-- Meanwhile, in a <a href='https://amzn.to/4adxMft'>medium bowl</a> combine <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>, garlic powder, onion powder, and dried parsley
+- Meanwhile, in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a> combine <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>, garlic powder, onion powder, and dried parsley
 
 - In a <a href='https://amzn.to/4aiCsjh'>9x13" casserole dish</a>, place a light layer of sauce on the bottom.  Add the <a href='/misc/veggies#eggplant'>eggplant</a> on top, and top with your <a href='/misc/dairy#mozzarella'>cheese</a> mix.  Repeat again - sauce, <a href='/misc/veggies#eggplant'>eggplant</a>, and <a href='/misc/dairy#mozzarella'>cheese</a>.  Put one final layer of sauce on top, and top with <a href='/misc/dairy#grated-cheese'>grated cheese</a>
 - <img src='/assets/Food/Meatless/Eggplant Parm/raw.jpg' alt='' class='instruction-image'>

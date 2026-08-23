@@ -60,7 +60,7 @@ Description: This loaf of bread is free of both <a href='/misc/celiac'>gluten</a
 Instructions:
 - Preheat oven to 350F, and line a 9x5" pan with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/dairy#whey'>whey</a>, baking powder, salt, and garlic powder. Make sure everything is fully mixed and there are no clumps of baking powder
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/dairy#whey'>whey</a>, baking powder, salt, and garlic powder. Make sure everything is fully mixed and there are no clumps of baking powder
 
 - In a separate bowl, beat together the <a href='/misc/meat#eggs'>eggs</a>, water, <a href='/misc/fruit#apple'>applesauce</a>, and <a href='/misc/dairy#mozzarella'>cheese</a>. I've used <a href='/misc/dairy#mozzarella'>shredded mozzarella</a> (low moisture part skim), but <a href='/misc/dairy#cheddar'>shredded cheddar</a> would work as well.  Optionally add some <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> for a slight sour flavor
 - <img src='/assets/Food/Bread/Coconut Bread/coconut-bread-3.jpg' alt='' class='instruction-image'>

@@ -58,6 +58,6 @@ Instructions:
 
 - In a <a href='https://amzn.to/3VHhgMM'>small food processor</a>, blend together <a href='/recipes/natural-peanut-butter'>nut butter</a>, sauerkraut, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and <a href='https://amzn.to/4khDgIM'>almond extract</a> until you have a smooth and fully combined <a href='/misc/chocolate-benefits'>chocolate</a> dough
 
-- Add <a href='/misc/chocolate-benefits'>cocoa powder</a> to a <a href='https://amzn.to/4adxMft'>small bowl</a>. Scoop out about a tablespoon of the dough (about 18 g each), roll into a ball with your hands, and coat in <a href='/misc/chocolate-benefits'>cocoa powder</a>. Add to an airtight container, and repeat for the remaining 9 truffles
+- Add <a href='/misc/chocolate-benefits'>cocoa powder</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Scoop out about a tablespoon of the dough (about 18 g each), roll into a ball with your hands, and coat in <a href='/misc/chocolate-benefits'>cocoa powder</a>. Add to an airtight container, and repeat for the remaining 9 truffles
 Notes:
 ---

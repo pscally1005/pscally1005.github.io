@@ -68,7 +68,7 @@ Description: |
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 30 seconds, until melted
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for 30 seconds, until melted
 
 - Mix in the <a href='/misc/dairy#casein'>casein</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, baking powder, salt, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Protein Powder/Quest Cookie/bowlCasein.jpg' alt='' class='instruction-image'>

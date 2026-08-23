@@ -68,7 +68,7 @@ Description: This honestly has a face made for radio, but it tastes delicious.  
 Instructions:
 - Start by dicing up your <a href='/misc/veggies'>vegetables</a> (<a href='/misc/veggies#onion'>onion</a>, <a href='/misc/veggies#zucchini'>zucchini</a>, and <a href='/misc/veggies#mushrooms'>mushrooms</a>) into a small dice. The <a href='/misc/veggies#onion'>onion</a> and <a href='/misc/veggies#zucchini'>zucchini</a> will take roughly the same time to cook, so these can be mixed together. However, the <a href='/misc/veggies#mushrooms'>mushrooms</a> will be different, so keep those separate
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a> or large glass, mix together your broth by combining water, bouillon powder, and cornstarch. Set aside
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a> or large glass, mix together your broth by combining water, bouillon powder, and cornstarch. Set aside
 
 - Start by cooking your <a href='/misc/veggies'>vegetables</a>. To a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat, add the <a href='/misc/veggies#onion'>onion</a> and <a href='/misc/veggies#zucchini'>zucchini</a> with salt and <a href='/misc/olive-oil'>olive oil</a>. Cover, and cook under ocasional stirring until the <a href='/misc/veggies#onion'>onion</a> goes translucent, and the <a href='/misc/veggies#zucchini'>zucchini</a> begins to soften, about 10-20 minutes. Set the <a href='/misc/veggies'>vegetables</a> aside
 

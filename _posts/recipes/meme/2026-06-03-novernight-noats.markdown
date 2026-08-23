@@ -68,7 +68,7 @@ Description: |
 
   Mix together your bowl, and let it sit for just a few minutes before eating. A perfect <a href='/recipes/breakfast'>breakfast</a> for when you forget to prep it the night before, with plenty of <a href='/misc/fiber'>fiber</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>healthy fats</a>, and <a href='/misc/carbs'>complex carbs</a>!
 Instructions:
-- Mash a <a href='/misc/fruit#banana'>banana</a> with the back of a fork into a <a href='https://amzn.to/4adxMft'>small bowl</a>. Add in all the ingredients, and mix until fully combined. Let sit for at least 10 minutes for it to thicken
+- Mash a <a href='/misc/fruit#banana'>banana</a> with the back of a fork into a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Add in all the ingredients, and mix until fully combined. Let sit for at least 10 minutes for it to thicken
 Notes:
 - It even passes the flip test!
 - <img src='/assets/Food/Meme/Novernight Noats/flip.jpg' alt='' class='instruction-image'>

@@ -59,7 +59,7 @@ Description: It's officially October, which means it's apple picking and pumpkin
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper.  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together the wet ingredients - <a href='/recipes/apple-spread'>apple spread</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a> (or any other <a href='/misc/nuts'>nut</a> or <a href='/recipes/natural-peanut-butter'>seed butter</a>), and <a href='/misc/meat#eggs'>eggs</a>
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine together the wet ingredients - <a href='/recipes/apple-spread'>apple spread</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a> (or any other <a href='/misc/nuts'>nut</a> or <a href='/recipes/natural-peanut-butter'>seed butter</a>), and <a href='/misc/meat#eggs'>eggs</a>
 - <img src='/assets/Food/Breakfast/Apple Bread/apple-bread-unmixed.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Breakfast/Apple Bread/apple-bread-mixed.jpg' alt='' class='instruction-image'>
 

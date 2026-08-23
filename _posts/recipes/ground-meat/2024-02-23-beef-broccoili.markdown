@@ -56,7 +56,7 @@ Description: <a href='/misc/meat#ground-beef'>Beef</a> and <a href='/misc/veggie
 Instructions:
 - Heat your oven to 400F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Add <a href='/misc/veggies#broccoli'>broccoli</a> to the pan, season with salt, black pepper, and <a href='/misc/olive-oil'>oil</a>, and roast for 30 minutes. Do everything else as the <a href='/misc/veggies#broccoli'>broccoli</a> cooks
 
-- Take your <a href='/misc/meat'>meat</a> and slice into 1/4-1/2" thick strips against the grain. Add to a bowl of cold water, and massage the <a href='/misc/meat'>meat</a> for 30 seconds. The <a href='/misc/meat'>meat</a> should turn gray, and the water should turn red with myoglobin (not blood). Squeeze and drain the <a href='/misc/meat'>meat</a> with a strainer for about 30 seconds, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>
+- Take your <a href='/misc/meat'>meat</a> and slice into 1/4-1/2" thick strips against the grain. Add to a bowl of cold water, and massage the <a href='/misc/meat'>meat</a> for 30 seconds. The <a href='/misc/meat'>meat</a> should turn gray, and the water should turn red with myoglobin (not blood). Squeeze and drain the <a href='/misc/meat'>meat</a> with a strainer for about 30 seconds, and add to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>
 
 - Add in the marinade (cornstarch, baking soda, salt, <a href='https://amzn.to/44VXByC'>soy sauce</a>, and sesame oil). Mix to fully coat the <a href='/misc/meat'>meat</a>, and let marinate for 15 minutes
 

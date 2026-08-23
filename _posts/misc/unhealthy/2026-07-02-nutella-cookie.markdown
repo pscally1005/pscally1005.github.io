@@ -51,7 +51,7 @@ Description: Sometimes you only want 1 dessert. This Nutella cookie is a double 
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F. Prepare a small piece of parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together your <a href='/misc/fake-healthy-foods#nutella'>Nutella</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='https://amzn.to/43MkDqr'>vanilla extract</a> with half your chocolate chips
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together your <a href='/misc/fake-healthy-foods#nutella'>Nutella</a>, <a href='/misc/hidden-sugar'>sugar</a>, and <a href='https://amzn.to/43MkDqr'>vanilla extract</a> with half your chocolate chips
 - <img src='/assets/Misc/Unhealthy/Nutella Cookie/bowl.jpg' alt='' class='instruction-image'>
 
 - Press the dough into a thin circle. Top with your remaining chocolate chips

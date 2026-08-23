@@ -64,7 +64,7 @@ Instructions:
 - Add your <a href='/misc/dairy#cheddar'>shredded cheese</a> on top of the dough
 - <img src='/assets/Food/Meatless/Deep Dish/cheese.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the sauce ingredients - <a href='/misc/veggies#tomato'>tomatoes</a>, balsamic, garlic powder, onion powder, basil, salt, and red pepper flakes. Add on top of the <a href='/misc/dairy#mozzarella'>mozzarella cheese</a>
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mix together the sauce ingredients - <a href='/misc/veggies#tomato'>tomatoes</a>, balsamic, garlic powder, onion powder, basil, salt, and red pepper flakes. Add on top of the <a href='/misc/dairy#mozzarella'>mozzarella cheese</a>
 - <img src='/assets/Food/Meatless/Deep Dish/sauce.jpg' alt='' class='instruction-image'>
 
 - Top the pizza with <a href='/misc/dairy#grated-cheese'>grated cheese</a>, oregano, and any other toppings you like

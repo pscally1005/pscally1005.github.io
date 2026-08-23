@@ -62,7 +62,7 @@ tags:
 - powdered peanut butter
 Description: These cinnamon rolls aren't your traditional empty <a href='/misc/calories'>calorie</a> pastries. They have a good blend of <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>fats</a>, <a href='/misc/carbs'>carbs</a>, and <a href='/misc/fiber'>fiber</a>, making them a nutritious <a href='/recipes/breakfast'>breakfast</a> choice, with a homemade <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> filling. The batch makes only 1 serving (a few smaller cinnamon rolls), but can be easily scaled up. For a different <a href='/misc/protein'>protein</a> pastry <a href='/recipes/breakfast'>breakfast</a>, see my <a href='/recipes/protein-poptart'>PB&J Protein PopTart</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together the dry ingredients for the dough - <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, baking powder, cinnamon, and salt
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, whisk together the dry ingredients for the dough - <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, baking powder, cinnamon, and salt
 
 - Add in the wet ingredients (<a href='https://amzn.to/4khDgIM'>almond extract</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and <a href='/misc/dairy#yogurt'>yogurt</a>), and mix until fully combined. You may need to use your hands
 
@@ -75,7 +75,7 @@ Instructions:
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> the cinnamon rolls cut side down at 350F for about 8 minutes, or until lightly golden brown and slightly crispy
 
-- Meanwhile, prepare the glaze by mixing together the ingredients in a <a href='https://amzn.to/4adxMft'>small bowl</a> (<a href='/misc/dairy#skim-milk'>milk</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/olive-oil'>oil</a>, and cinnamon)
+- Meanwhile, prepare the glaze by mixing together the ingredients in a <a href='https://amzn.to/4zyFnzN'>small bowl</a> (<a href='/misc/dairy#skim-milk'>milk</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/olive-oil'>oil</a>, and cinnamon)
 
 - Dollop the glaze on top of the baked cinnamon rolls, and enjoy
 - <img src='/assets/Food/Breakfast/Cinnamon Roll/cinnamon-roll-8.jpg' alt='' class='instruction-image'>

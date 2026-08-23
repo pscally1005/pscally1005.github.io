@@ -61,7 +61,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/4aiCsjh'>9x13" pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease it with oil</a>
 
-- Beat your <a href='/misc/meat#eggs'>egg</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Whisk in the wet ingredients - liquid whey, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
+- Beat your <a href='/misc/meat#eggs'>egg</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Whisk in the wet ingredients - liquid whey, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
 - Using a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, stir in all the dry ingredients - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#casein'>casein protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/misc/psyllium-husk'>psyllium husk</a>, baking powder, cinnamon, and salt
 

@@ -89,7 +89,7 @@ Instructions:
 
 - Open your can of <a href='/misc/beans'>beans</a>, and lightly drain through the cap in the opening.  Don't rinse the <a href='/misc/beans'>beans</a>
 
-- Prepare 2 <a href='https://amzn.to/4adxMft'>large bowls</a>, and evenly divide your food. Start with a base of <a href='/misc/veggies#cabbage'>cabbage</a>, and add the <a href='/misc/veggies#broccoli'>broccoli</a> on top. Scatter the <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/beans'>beans</a>, and <a href='/misc/dairy#feta'>feta</a> around the sides. Top with sauerkraut, mustard, and <a href='/misc/veggies#garlic'>minced garlic</a>
+- Prepare 2 <a href='https://amzn.to/4zyFnzN'>large bowls</a>, and evenly divide your food. Start with a base of <a href='/misc/veggies#cabbage'>cabbage</a>, and add the <a href='/misc/veggies#broccoli'>broccoli</a> on top. Scatter the <a href='/misc/veggies#onion'>onions</a>, <a href='/misc/beans'>beans</a>, and <a href='/misc/dairy#feta'>feta</a> around the sides. Top with sauerkraut, mustard, and <a href='/misc/veggies#garlic'>minced garlic</a>
 
 - Serve with some kombucha or sparkling water and watch the terror unfold
 Notes:

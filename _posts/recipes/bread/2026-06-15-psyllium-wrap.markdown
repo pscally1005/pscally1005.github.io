@@ -56,7 +56,7 @@ Description: Do you know those <a href='https://amzn.to/4wdSyoe'>carb balance wr
 Instructions:
 - Preheat a <a href='https://amzn.to/4dBv5Ga'>10" nonstick pan</a> over medium heat with a tiny <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, whisk together <a href='/misc/psyllium-husk'>psyllium husk</a>, salt, and baking powder. Optionally add some garlic powder and onion powder (1/2 tsp, 1.5 g, each)
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, whisk together <a href='/misc/psyllium-husk'>psyllium husk</a>, salt, and baking powder. Optionally add some garlic powder and onion powder (1/2 tsp, 1.5 g, each)
 
 - Pour in the water and whisk together. Wait 60-90 seconds for the <a href='/misc/psyllium-husk'>psyllium husk</a> to begin to gel and have a texture similar to <a href='/misc/fruit#apple'>applesauce</a>
 

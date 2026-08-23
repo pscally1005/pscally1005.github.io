@@ -50,7 +50,7 @@ tags:
 - food processor
 Description: Yeah you heard me right. Idk whether to file this under <a href='/recipes/bread'>bread</a> or <a href='/recipes/meme'>meme recipes</a>, but here you go. It's <a href='/misc/calories'>low calorie</a> and <a href='/misc/celiac'>gluten free</a>, but also made out of <a href='/misc/veggies#cabbage'>cabbage</a>, so pick your poison lmao (for the record I love <a href='/misc/veggies#cabbage'>cabbage</a>, and this bread is shockingly good for what it is). I made this into an <a href='/misc/meat#eggs'>egg</a> sandwich, as you can see above.
 Instructions:
-- Using a <a href='https://amzn.to/4q0AUjI'>food processor</a>, shred your <a href='/misc/veggies#cabbage'>cabbage</a>, until you have a riced consistency. Transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
+- Using a <a href='https://amzn.to/4q0AUjI'>food processor</a>, shred your <a href='/misc/veggies#cabbage'>cabbage</a>, until you have a riced consistency. Transfer to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>
 
 - Mix in the <a href='/misc/dairy#yogurt'>yogurt</a>, baking powder, and salt with a <a href='https://amzn.to/40F2aK0'>spatula</a>. Optionally, add some spices, like garlic or onion powder (1/4 tsp, 0.75 g each)
 

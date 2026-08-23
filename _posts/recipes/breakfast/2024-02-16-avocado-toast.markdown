@@ -59,7 +59,7 @@ Description: <a href='/misc/fruit#avocado'>Avocados</a> were on sale at my groce
 Instructions:
 - In a toaster or <a href='https://amzn.to/3FuWETp'>air fryer</a>, toast your <a href='/recipes/bread'>bread</a> to your liking
 
-- Meanwhile, in a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash your <a href='/misc/fruit#avocado'>avocado</a> until decently smooth (a little bit of chunks is okay). Pour in <a href='/misc/fruit#lemon'>lemon</a>, season, and mix
+- Meanwhile, in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mash your <a href='/misc/fruit#avocado'>avocado</a> until decently smooth (a little bit of chunks is okay). Pour in <a href='/misc/fruit#lemon'>lemon</a>, season, and mix
 
 - Spread the <a href='/misc/fruit#avocado'>avocado</a> on your toast, and optionally add some toppings. Good ideas are <a href='/misc/veggies#tomato'>tomatoes</a>, scrambled <a href='/misc/meat#eggs'>eggs</a>, <a href='/recipes/pickled-onions'>pickled onions</a>, or roasted <a href='/misc/veggies#pepper'>peppers</a>. Be creative with it!
 Notes:

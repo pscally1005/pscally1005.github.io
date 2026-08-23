@@ -62,7 +62,7 @@ Instructions:
 
 - Season to taste with whatever you like. I went with paprika, chili powder, lemon pepper, garlic powder, onion powder, black pepper, and <a href='/recipes/hot-sauce'>hot sauce</a>
 
-- Crack your <a href='/misc/meat#eggs'>eggs</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>, and mix with the <a href='/misc/veggies'>vegetables</a>. Liberally grease a muffin tin, and evenly divide your batter. This recipe makes 24 mini muffins or 12 regular sized muffins
+- Crack your <a href='/misc/meat#eggs'>eggs</a> into a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and mix with the <a href='/misc/veggies'>vegetables</a>. Liberally grease a muffin tin, and evenly divide your batter. This recipe makes 24 mini muffins or 12 regular sized muffins
 - <img src='/assets/Food/Breakfast/Egg Muffin/egg-muffin-3.jpg' alt='' class='instruction-image'>
 
 - Bake at 350F for about 15 minutes for mini muffins, or about 20 minutes for regular sized muffins. Let cool in the pan for 5 minutes before transferring to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> and serving. Optionally, top with <a href='/misc/dairy#cheddar'>shredded cheese</a> and serve with <a href='/recipes/salsa'>salsa</a>

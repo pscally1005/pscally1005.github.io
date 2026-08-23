@@ -64,7 +64,7 @@ Description: <a href='/misc/fake-healthy-foods#granola'>Granola bars</a> that ar
 Instructions:
 - Optional, but highly recommended - toast your <a href='/misc/grains#oats'>oats</a> and roughly chopped <a href='/misc/nuts'>nuts</a> in a dry pan over medium heat for about 5 minutes, or until lightly browned and fragrant. This step brings out even more flavor from the <a href='/misc/nuts'>nuts</a> and the <a href='/misc/grains#oats'>oats</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork until smooth. <a href='/misc/fruit#apple'>Unsweetened applesauce</a> will work as well in place of <a href='/misc/fruit#banana'>banana</a>. Add in the rest of the ingredients, and fold together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork until smooth. <a href='/misc/fruit#apple'>Unsweetened applesauce</a> will work as well in place of <a href='/misc/fruit#banana'>banana</a>. Add in the rest of the ingredients, and fold together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Finger Food/Granola Bar/granola-bar-2.jpg' alt='' class='instruction-image'>
 
 - Line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper, and press in the granola mixture. Spread to all sides, and flatten to an even thickness

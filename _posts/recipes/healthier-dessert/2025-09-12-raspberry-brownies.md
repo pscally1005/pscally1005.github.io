@@ -63,7 +63,7 @@ Description: Is there a better <a href='/recipes/healthier-dessert'>dessert</a> 
 Instructions: 
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. Lightly grease the paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the wet ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together the wet ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 
 - Add the dry ingredients to the wet, and mix until just fully combined
 - <img src='/assets/Food/Healthier Dessert/Raspberry Brownies/bowl.jpg' alt='' class='instruction-image'>

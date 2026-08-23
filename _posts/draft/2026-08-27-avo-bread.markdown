@@ -62,7 +62,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
 
-- Mash your <a href='/misc/fruit#avocado'>avocado</a> with the back of a fork in a <a href='https://amzn.to/4adxMft'>large bowl</a>.  Combine together with the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, salt, baking powder, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  Mix until just fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
+- Mash your <a href='/misc/fruit#avocado'>avocado</a> with the back of a fork in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>.  Combine together with the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, salt, baking powder, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a>.  Mix until just fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Bread/Avo Bread/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top.

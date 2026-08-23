@@ -70,9 +70,9 @@ tags:
 - powdered peanut butter
 Description: Blueberry muffins are a classic quick grab and go <a href='/recipes/breakfast'>breakfast</a> for a reason, but they're traditionally loaded with <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fats'>oils</a>. These ones however are much healthier than the classic though, packing <a href='/misc/fiber'>fiber</a> with <a href='/misc/grains#oats'>oat flour</a>, and avoiding tons of <a href='/misc/hidden-sugar'>added sugars</a> and <a href='/misc/fats'>unhealthy fats</a>.  Check out my <a href='/recipes/banana-bread'>Oatmeal Banana Mini Muffins</a> and my <a href='/recipes/double-chocolate-banana-bread'>Double Chocolate Banana Bread</a> for similar recipes.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#oats'>quick oats</a>, cornstarch, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and baking soda
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#oats'>quick oats</a>, cornstarch, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, and baking soda
 
-- In a separate <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> (or <a href='/misc/natural-sweeteners#honey'>honey</a>)
+- In a separate <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a>. Add the rest of the wet ingredients - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> (or <a href='/misc/natural-sweeteners#honey'>honey</a>)
 
 - Pour the wet ingredients to the dry, and mix until just combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Fold in the <a href='/misc/fruit#blueberries'>blueberries</a>
 

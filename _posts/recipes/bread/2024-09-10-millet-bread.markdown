@@ -58,9 +58,9 @@ Description: This is the best <a href='/misc/celiac'>gluten free</a> <a href='/r
 Instructions:
 - Preheat your oven to 325F, and <a href='https://amzn.to/3Hdg0gk'>lightly oil</a> a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine the water, vinegar, and psyllium husks. Let sit for 5 minutes.  The psyllium husk needs a few minutes to gel; it should be a similar consistency as <a href='/misc/fruit#apple'>applesauce</a>
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine the water, vinegar, and psyllium husks. Let sit for 5 minutes.  The psyllium husk needs a few minutes to gel; it should be a similar consistency as <a href='/misc/fruit#apple'>applesauce</a>
 
-- Meanwhile, in a separate <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the rest of the ingredients - <a href='/misc/grains#millet'>millet flour</a>, baking powder, baking soda, <a href='/misc/seeds#flax-seeds'>ground flaxseed</a>, and salt
+- Meanwhile, in a separate <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the rest of the ingredients - <a href='/misc/grains#millet'>millet flour</a>, baking powder, baking soda, <a href='/misc/seeds#flax-seeds'>ground flaxseed</a>, and salt
 - <img src='/assets/Food/Bread/Millet Bread/millet-bread-bowls.jpg' alt='' class='instruction-image'>
 
 - Add the wet ingredients into the dry, and mix with a spoon until fully combined. Transfer the dough to your pan. Optionally top with <a href='/misc/grains#oats'>oats</a>, <a href='/misc/seeds'>seeds</a>, chopped <a href='/misc/nuts'>nuts</a>, dusted flour, etc, or you can score the top with a knife or <a href='https://amzn.to/43Cj65h'>bread lame</a>. Here, I topped with about 1 tbsp (12 g) <a href='/misc/seeds#chia-seeds'>chia seeds</a>

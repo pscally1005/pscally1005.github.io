@@ -86,7 +86,7 @@ Instructions:
 
 - |
     <b>Cheese</b><br>
-    Crack an <a href='/misc/meat#eggs'>egg</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>, and beat with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.<br><br>
+    Crack an <a href='/misc/meat#eggs'>egg</a> into a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and beat with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.<br><br>
 
     Add in the rest of the cheese ingredients (blended <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>, garlic powder, onion powder, and parsley).<br><br>
 

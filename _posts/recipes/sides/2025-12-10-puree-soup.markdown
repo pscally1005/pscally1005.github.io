@@ -71,7 +71,7 @@ Instructions:
 - Roast at 425F for about 1 hour, or until fork tender, browned, and light charred. Let cool totally
 - <img src='/assets/Food/Sides/Puree Soup/roasted.jpg' alt='' class='instruction-image'>
 
-- Add your <a href='/misc/veggies'>veggies</a> to a <a href='https://amzn.to/4bO4VQ3'>blender</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth, thinning out with water or broth. Season with turmeric, <a href='/misc/veggies#ginger'>ginger</a>, and cinnamon to taste, and blend in the <a href='/misc/dairy#yogurt'>yogurt</a>.  You can also use a <a href='https://amzn.to/4adxMft'>large bowl</a> or pot with an <a href='https://amzn.to/3VHhgMM'>immersion blender</a>
+- Add your <a href='/misc/veggies'>veggies</a> to a <a href='https://amzn.to/4bO4VQ3'>blender</a> or <a href='https://amzn.to/4q0AUjI'>food processor</a>, and blend until smooth, thinning out with water or broth. Season with turmeric, <a href='/misc/veggies#ginger'>ginger</a>, and cinnamon to taste, and blend in the <a href='/misc/dairy#yogurt'>yogurt</a>.  You can also use a <a href='https://amzn.to/4zyFnzN'>large bowl</a> or pot with an <a href='https://amzn.to/3VHhgMM'>immersion blender</a>
 - <img src='/assets/Food/Sides/Puree Soup/blended.jpg' alt='' class='instruction-image'>
 
 - Divide into 4 servings, and garnish with toasted <a href='/misc/nuts'>nuts</a>, herbs, or <a href='/misc/olive-oil'>olive oil</a>. Serve

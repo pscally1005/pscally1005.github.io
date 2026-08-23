@@ -72,7 +72,7 @@ Description: |
 
   The possibilities are endless.  If you have <a href='/recipes/sugar-free-syrup'>liquid sweetener</a> instead, check out my <a href='/recipes/syrup-cookies'>Sugar Free Syrup Cookies</a>, or use <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a> in my <a href='/recipes/oatmeal-chocolate-cookies'>Oatmeal Chocolate Chip Cookies</a>.  You can also check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- Combine the base ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> - <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (or any other <a href='https://amzn.to/4mzsH5p'>granular sweetener</a>), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, baking soda, and salt.
+- Combine the base ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> - <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> (or any other <a href='https://amzn.to/4mzsH5p'>granular sweetener</a>), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, baking soda, and salt.
 
 - Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is <a href='/misc/grains#oats'>oat flour</a>, with some <a href='/misc/chocolate-benefits'>dark chocolate</a> chips folded in. Let the dough chill in the fridge for at least 30 minutes.
 

@@ -59,7 +59,7 @@ Instructions:
 - Preheat your oven to 400F. Heat a <a href='https://amzn.to/465aAxx'>10" cast iron pan</a> on the stove over medium heat. Cut your <a href='/misc/meat#ham'>ham</a> into small cubes. When the pan is hot, add in the <a href='/misc/meat#ham'>ham</a>, and cook for about 5 minutes, or until the outside is lightly browned
 - <img src='/assets/Food/Chicken/Cubano/ham.jpg' alt='' class='instruction-image'>
 
-- Add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> to break up any large curds
+- Add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> to break up any large curds
 - <img src='/assets/Food/Chicken/Cubano/cottage-cheese.jpg' alt='' class='instruction-image'>
 
 - Add in the <a href='/misc/meat#ham'>ham</a>, <a href='/recipes/shredded-chicken'>cooked chicken</a>, mustard, <a href='/misc/dairy#swiss-cheese'>swiss</a>, paprika, garlic powder, onion powder, and black pepper.  Mix until fully combined

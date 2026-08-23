@@ -60,7 +60,7 @@ Instructions:
 
 - In a shaker bottle, make your protein shake - <a href='/misc/dairy#skim-milk'>milk</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>
 
-- Pour <a href='/misc/dairy#skim-milk'>milk</a> over the <a href='/misc/fake-healthy-foods#cereal'>cereal</a> in a <a href='https://amzn.to/4adxMft'>small bowl</a>.  Store leftovers in an airtight bag at <b>room temperature</b>
+- Pour <a href='/misc/dairy#skim-milk'>milk</a> over the <a href='/misc/fake-healthy-foods#cereal'>cereal</a> in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>.  Store leftovers in an airtight bag at <b>room temperature</b>
 - <img src='/assets/Food/Breakfast/Chickpea/no-milk.jpg' alt='' class='instruction-image'>
 Notes:
 - Any <a href='/misc/dairy#skim-milk'>milk</a> will work; <a href='/misc/dairy#almond-milk'>almond milk</a> is just what I have today

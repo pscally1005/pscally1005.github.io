@@ -68,7 +68,7 @@ Description: This <a href='/misc/fake-healthy-foods#cornbread'>cornbread</a> is 
 Instructions:
 - Preheat your oven to 400F, and line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. Lightly <a href='https://amzn.to/3Hdg0gk'>spray</a> the paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients until fully combined - cornmeal, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, baking powder, baking soda, garlic powder, onion powder, black pepper, and salt
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dry ingredients until fully combined - cornmeal, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, baking powder, baking soda, garlic powder, onion powder, black pepper, and salt
 
 - In a separate bowl, whisk together the wet ingredients - <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/fruit#apple'>applesauce</a>, water, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/meat#eggs'>egg</a>, chiles, and <a href='/misc/dairy#mozzarella'>cheese</a>
 

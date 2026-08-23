@@ -50,7 +50,7 @@ tags:
 - almond butter
 Description: I love me some <a href='/misc/dairy#yogurt'>Greek yogurt</a> in the morning.  And <a href='/misc/veggies#butternut-squash'>butternut squash</a> is my favorite <a href='/misc/veggies'>vegetable</a>.  This easy <a href='/recipes/breakfast'>breakfast</a> is a good source of <a href='/misc/protein'>protein</a>, <a href='/misc/carbs'>complex carbs</a>, and <a href='/misc/fats'>healthy fats</a>, with only 4 simple ingredients.  Just mix together <a href='/misc/dairy#yogurt'>Greek yogurt</a>, <a href='/recipes/roasted-butternut-squash-puree'>butternut squash puree</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and thin it out with any <a href='/misc/dairy#almond-milk'>milk</a> of choice!
 Instructions:
-- Mix all ingredients together in a <a href='https://amzn.to/4adxMft'>small bowl</a>. Eat right away, or cover and refrigerate overnight
+- Mix all ingredients together in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Eat right away, or cover and refrigerate overnight
 Notes:
 - Feel free to scale this up and meal prep a few days worth of <a href='/recipes/breakfast'>breakfast</a> at once!
 - <img src='/assets/Food/Breakfast/Butternut yogurt/three.jpg' alt='' class='instruction-image'>

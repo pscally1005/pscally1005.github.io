@@ -68,7 +68,7 @@ Instructions:
 - Bake the <a href='/misc/veggies#eggplant'>eggplant</a> for about 30 minutes, or until soft and lightly browned. Let cool completely
 - <img src='/assets/Food/Meatless/Rollatini/eggplant.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, beat an <a href='/misc/meat#eggs'>egg</a>, and combine with the <a href='/misc/dairy#mozzarella'>cheese</a> mix ingredients - (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>, garlic powder, onion powder, and dried parsley. Mix in <a href='/misc/nuts#coconut'>coconut flour</a> to thicken
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, beat an <a href='/misc/meat#eggs'>egg</a>, and combine with the <a href='/misc/dairy#mozzarella'>cheese</a> mix ingredients - (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>, garlic powder, onion powder, and dried parsley. Mix in <a href='/misc/nuts#coconut'>coconut flour</a> to thicken
 - <img src='/assets/Food/Meatless/Rollatini/sauce-and-cheese.jpg' alt='' class='instruction-image'>
 
 - Place about 1/3 of your sauce on the bottom of a <a href='https://amzn.to/4aiCsjh'>9x13" casserole dish</a>. Add a spoonful of the <a href='/misc/dairy#mozzarella'>cheese</a> mix onto the <a href='/misc/veggies#eggplant'>eggplant</a>, roll tightly, and place into the tray seam side down. Repeat with the rest of the <a href='/misc/veggies#eggplant'>eggplant</a>. Top with the remaining sauce, and sprinkle with <a href='/misc/dairy#grated-cheese'>grated cheese</a>

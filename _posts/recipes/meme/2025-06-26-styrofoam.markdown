@@ -59,7 +59,7 @@ Instructions:
 
 - Separate the white from the <a href='/misc/meat#eggs'>yolk</a> of a large <a href='/misc/meat#eggs'>egg</a>
 
-- In a large metal or <a href='https://amzn.to/4adxMft'>glass bowl</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a>, beat the <a href='/misc/meat#egg-whites'>egg white</a> until you have stiff peaks. Gradually add the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> 1 tbsp (12.5 g) at a time, until fully incorporated, and you have stiff glossy peaks
+- In a large metal or <a href='https://amzn.to/4zyFnzN'>glass bowl</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a>, beat the <a href='/misc/meat#egg-whites'>egg white</a> until you have stiff peaks. Gradually add the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> 1 tbsp (12.5 g) at a time, until fully incorporated, and you have stiff glossy peaks
 - <img src='/assets/Food/Meme/Styrofoam/egg-white.jpg' alt='' class='instruction-image'>
 
 - If necessary, microwave your <a href='/recipes/natural-peanut-butter'>nut butter</a> for 30 seconds to soften. Carefully fold the <a href='/recipes/natural-peanut-butter'>nut butter</a> into the meringue with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, trying to deflate it as little as possible.  Leave some streaks of white for contrast

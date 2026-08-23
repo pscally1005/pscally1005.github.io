@@ -82,7 +82,7 @@ Instructions:
 - Use a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to evenly spread the filling on top of the oatmeal crust. Freeze for a few minutes to harden as you prepare the topping
 - <img src='/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-filling-pan.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, combine together roughly chopped <a href='/misc/chocolate-benefits'>chocolate</a> with water. Microwave in 30 second intervals, stirring in between, until you have a smooth ganache
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, combine together roughly chopped <a href='/misc/chocolate-benefits'>chocolate</a> with water. Microwave in 30 second intervals, stirring in between, until you have a smooth ganache
 
 - Evenly spread your melted chocolate on top of the yogurt filling, and sprinkle the top with your chopped <a href='/misc/nuts#peanuts'>peanuts</a>
 - <img src='/assets/Food/Healthier Dessert/Cheesecake Bar/cheesecake-bar-topping.jpg' alt='' class='instruction-image'>

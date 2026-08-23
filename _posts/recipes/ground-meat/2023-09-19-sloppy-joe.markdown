@@ -61,6 +61,6 @@ Instructions:
 
 - Add the <a href='/misc/meat'>meat</a> to the pan, and cook until no longer pink. When the <a href='/misc/meat'>meat</a> is nearly done, add the <a href='/misc/veggies#garlic'>garlic</a> and cook until fragrant
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together the sauce - <a href='/misc/veggies#tomato'>tomato paste</a>, water, mustard, vinegar, paprika, salt, and black pepper.  Pour into the pan, cover, and let simmer over low heat for about 15 minutes.  Remove the cover, and simmer for an additional 5 minutes to thicken
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, whisk together the sauce - <a href='/misc/veggies#tomato'>tomato paste</a>, water, mustard, vinegar, paprika, salt, and black pepper.  Pour into the pan, cover, and let simmer over low heat for about 15 minutes.  Remove the cover, and simmer for an additional 5 minutes to thicken
 Notes:
 ---

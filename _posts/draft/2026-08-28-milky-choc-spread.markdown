@@ -52,7 +52,7 @@ tags:
 - sourdough discard flatbread
 Description: I recently got some <a href='https://amzn.to/4zMyIm3'>powdered milk</a>, and found it's a great way to add milky flavor to anything without adding all the water found in <a href='/misc/dairy#skim-milk'>milk</a>.  Here, I made a super simple chocolate spread using <a href='https://amzn.to/4zMyIm3'>powdered milk</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, and water.  It's <a href='/misc/hidden-sugar'>sugar free</a>, accidentally <a href='/misc/high-protein'>high protein</a>, made in 2 minutes, and delicious.
 Instructions:
-- Mix together all ingredients in a <a href='https://amzn.to/4adxMft'>small bowl</a> or glass. Spread on whatever you like.
+- Mix together all ingredients in a <a href='https://amzn.to/4zyFnzN'>small bowl</a> or glass. Spread on whatever you like.
 Notes:
 - Here I'm using my Milky Chocolate Spread on one of my homemade <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbreads</a>!
 - |

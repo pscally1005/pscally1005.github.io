@@ -65,7 +65,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F.  Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease the paper with oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, and salt
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, baking powder, and salt
 
 - Add in the wet ingredients (vanilla, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and water), and combine with a <a href='https://amzn.to/43FEbwe'>silicone spatula</a> until combined and you have a thick but liquidy brownie batter
 - <img src='/assets/Food/Finger Food/Fiber One/bowl.jpg' alt='' class='instruction-image'>

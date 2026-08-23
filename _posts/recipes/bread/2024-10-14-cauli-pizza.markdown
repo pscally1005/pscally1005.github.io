@@ -62,7 +62,7 @@ Instructions:
 
 - Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse until you have a rice like consistency. Don't over blend
 
-- Transfer the <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>, and cover with a plate. Microwave on high for 5 minutes
+- Transfer the <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>, and cover with a plate. Microwave on high for 5 minutes
 
 - Meanwhile, add the rest of the crust ingredients (<a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#mozzarella'>mozzarella</a>, <a href='/misc/dairy#grated-cheese'>parmesan</a>, <a href='/misc/seeds#flax-seeds'>flax</a>, oregano, garlic powder, onion powder, and red pepper flakes) to a bowl and mix
 - <img src='/assets/Food/Bread/Cauli Pizza/cauli-pizza-separate.jpg' alt='' class='instruction-image'>

@@ -53,7 +53,7 @@ tags:
 - yogurt
 Description: These "kerfuffles", or confusing truffles, are a great <a href='/misc/dairy#yogurt'>Greek yogurt</a> based chocolate truffle, with much lower <a href='/misc/fats'>fat</a> and <a href='/misc/hidden-sugar'>sugar</a> contents than typical truffles. They mix together in just a few minutes, and store really well in the fridge for a quick snack or <a href='/recipes/healthier-dessert'>dessert</a>. These really bring out the flavor of the <a href='/misc/dairy#yogurt'>yogurt</a>, so if you're not a fan of <a href='/misc/dairy#yogurt'>Greek yogurt</a>, I'd recommend you replace it with mashed <a href='/misc/fruit#avocado'>avocado</a> or <a href='/misc/fruit#banana'>banana</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>glass bowl</a>, melt the <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave for a minute
+- In a <a href='https://amzn.to/4zyFnzN'>glass bowl</a>, melt the <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave for a minute
 
 - To the bowl, add the <a href='/misc/dairy#yogurt'>yogurt</a> and mix with a spoon until smooth. Add in the rest of the ingredients and mix to fully combine. The dough should be a little sticky, so chill in the fridge for at least 1 hour to firm
 

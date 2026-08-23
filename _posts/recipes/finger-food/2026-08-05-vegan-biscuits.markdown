@@ -61,12 +61,12 @@ Description: |
 
   For a completely different biscuit recipe (one that's not vegan, <a href='/misc/celiac'>gluten free</a>, or healthy), check out my <a href='/recipes/chicken-biscuits'>Small Batch o' Chicken Biscuits</a>!  Or for a <a href='/cookies'>cookie recipe</a> derived from these biscuits, check out my <a href='/recipes/cauliflower-cookies'>Cauliflower Chocolate Chip Cookies</a>!
 Instructions:
-- Add <a href='/misc/seeds#flax-seeds'>flax</a> and water to a <a href='https://amzn.to/4adxMft'>small bowl</a>, and mix together. Let sit for 5 minutes to gel and form your <a href='/misc/seeds#flax-seeds'>flax egg</a>.
+- Add <a href='/misc/seeds#flax-seeds'>flax</a> and water to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, and mix together. Let sit for 5 minutes to gel and form your <a href='/misc/seeds#flax-seeds'>flax egg</a>.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/flax.jpg' alt='' class='instruction-image'>
 
 - Preheat your oven to 400F. Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, pulse thawed <a href='/misc/veggies#cauliflower'>cauliflower</a> in batches until you have the texture of <a href='/misc/grains#brown-rice'>rice</a>. Don't over blend or it will end up mushy and watery. Add the <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a>.
+- In a <a href='https://amzn.to/4q0AUjI'>food processor</a>, pulse thawed <a href='/misc/veggies#cauliflower'>cauliflower</a> in batches until you have the texture of <a href='/misc/grains#brown-rice'>rice</a>. Don't over blend or it will end up mushy and watery. Add the <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>.
 - <img src='/assets/Food/Finger Food/Cauli Biscuits/cauli.jpg' alt='' class='instruction-image'>
 
 - Add in the dry ingredients, and whisk together - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='https://amzn.to/43wLkhB'>nutritional yeast</a>, rosemary, baking powder, garlic powder, onion powder, and salt.

@@ -68,7 +68,7 @@ Instructions:
 - Roast the <a href='/misc/veggies#spaghetti-squash'>spaghetti squash</a> at 400F for about 1 hour, or until fork tender
 - <img src='/assets/Food/Ground Meat/Spaghetti and Meatballs/squash.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, in a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together your meatball ingredients - <a href='/misc/meat#ground-beef'>ground meat</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, basil, oregano, salt, and black pepper
+- Meanwhile, in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together your meatball ingredients - <a href='/misc/meat#ground-beef'>ground meat</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#mozzarella'>cheese</a>, basil, oregano, salt, and black pepper
 
 - Scoop your meat mix into 30 meatballs, about 24 g each. Roll into a ball, and place on the other <a href='https://amzn.to/45sRAsB'>cookie sheet</a>
 - <img src='/assets/Food/Ground Meat/Spaghetti and Meatballs/meatballs.jpg' alt='' class='instruction-image'>

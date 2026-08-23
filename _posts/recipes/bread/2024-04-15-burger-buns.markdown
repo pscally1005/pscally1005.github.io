@@ -57,7 +57,7 @@ Description: These buns require no yeast, and instead rely on chemical leaveners
 Instructions:
 - Preheat your oven to 400F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, <a href='https://amzn.to/4q2FwWu'>sift</a> and whisk together the dry ingredients - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, baking powder, baking soda, salt, garlic powder, and onion powder
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, <a href='https://amzn.to/4q2FwWu'>sift</a> and whisk together the dry ingredients - <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, baking powder, baking soda, salt, garlic powder, and onion powder
 
 - Add the wet ingredients to the bowl (<a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/nuts#almonds'>almond butter</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a>), and mix until you have a combined ball of <a href='/recipes/bread'>bread</a> dough
 

@@ -68,7 +68,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine together (whipped) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. The "batter" will be very thick, almost like the texture of cookie dough, depending on your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Fold in half the chocolate chips (1/4 cup, 45 g)
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine together (whipped) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. The "batter" will be very thick, almost like the texture of cookie dough, depending on your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Fold in half the chocolate chips (1/4 cup, 45 g)
 - <img src='/assets/Food/Healthier Dessert/Keto Brownie/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and press the remaining chocolate chips into the top

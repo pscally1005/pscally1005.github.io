@@ -66,7 +66,7 @@ Description: I took and modified this recipe from my parents, who made <a href='
 Instructions:
 - Prepare a <a href='https://amzn.to/4rdR0HI'>12" pan</a> with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, beat the <a href='/misc/meat#eggs'>eggs</a>, and mix with the ingredients above, from <a href='/misc/meat#eggs'>eggs</a> to old bay
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, beat the <a href='/misc/meat#eggs'>eggs</a>, and mix with the ingredients above, from <a href='/misc/meat#eggs'>eggs</a> to old bay
 
 - Drain and rinse your <a href='/misc/fish'>fish</a> under water with a strainer and add the <a href='/misc/fish'>fish</a> into the bowl. Make sure to check for any shells (if using <a href='/misc/fish#crab'>crab</a>). Mash with the back of a fork to fully incorporate the <a href='/misc/fish'>fish</a>. Fold in the flour, and mix until just combined. The mixture should feel slightly sticky, but able to be shaped
 - <img src='/assets/Food/Fish/Tuna Cake/tuna-cake-3.jpg' alt='' class='instruction-image'>

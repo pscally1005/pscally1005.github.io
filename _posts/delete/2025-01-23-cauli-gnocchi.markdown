@@ -64,9 +64,9 @@ Instructions:
 - Add your <a href='/misc/veggies#cauliflower'>cauliflower</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a>, and pulse until you have a riced consistency. Don't over blend
 - <img src='/assets/Food/Meatless/Gnocchi/cauli.jpg' alt='' class='instruction-image'>
 
-- Transfer to a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>, and cover with a plate. Microwave on high for 5 minutes. Let cool for a few minutes
+- Transfer to a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>, and cover with a plate. Microwave on high for 5 minutes. Let cool for a few minutes
 
-- Meanwhile, in a <a href='https://amzn.to/4adxMft'>large bowl</a>, add the rest of the gnocchi dough ingredients - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#mozzarella'>mozzarella</a>, <a href='/misc/dairy#grated-cheese'>parmesan</a>, <a href='/misc/seeds#flax-seeds'>flax</a>, oregano, <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, and red pepper flakes
+- Meanwhile, in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, add the rest of the gnocchi dough ingredients - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#mozzarella'>mozzarella</a>, <a href='/misc/dairy#grated-cheese'>parmesan</a>, <a href='/misc/seeds#flax-seeds'>flax</a>, oregano, <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/veggies#onion'>onion</a>, and red pepper flakes
 
 - Add in the <a href='/misc/veggies#cauliflower'>cauliflower</a>, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a fully combined dough
 - <img src='/assets/Food/Meatless/Gnocchi/bowl.jpg' alt='' class='instruction-image'>

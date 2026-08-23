@@ -74,7 +74,7 @@ tags:
 - frozen berries
 Description: This has been my <a href='/recipes/breakfast'>breakfast</a> for the past 4 mornings, and I'm prepared to have it another 4 times because it's great. This bowl is a great source of <a href='/misc/protein'>protein</a>, <a href='/misc/fats'>healthy fats</a>, <a href='/misc/carbs'>complex carbs</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/calcium'>calcium</a>, <a href='/misc/potassium'>potassium</a>, <a href='/misc/vitamin-b12'>vitamin B12</a>, and <a href='/misc/nutrient-alphabet#A'>vitamin A</a>. It's delicious, filling, and super quick to make.  You can also check out any of my other <a href='/yogurt'>yogurt recipes</a>!
 Instructions:
-- Mix all ingredients (except the <a href='/misc/fruit#strawberries'>strawberries</a>) together in a <a href='https://amzn.to/4adxMft'>small bowl</a>. Finely dice your <a href='/misc/fruit#strawberries'>strawberries</a>, add on top, and serve
+- Mix all ingredients (except the <a href='/misc/fruit#strawberries'>strawberries</a>) together in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Finely dice your <a href='/misc/fruit#strawberries'>strawberries</a>, add on top, and serve
 Notes:
 - Here I'm using <a href='/recipes/sweet-potato-puree'>sweet potato puree</a> that I made by roasting and blending a whole <a href='/misc/veggies#sweet-potato'>sweet potato</a> (with the skin) until smooth.  Some substitutes would be <a href='/recipes/pumpkin-puree'>pumpkin puree</a>, <a href='/misc/fruit#apple'>unsweetened applesauce</a>, mashed <a href='/misc/fruit#banana'>banana</a>, or <a href='/recipes/apple-spread'>apple spread</a>
 

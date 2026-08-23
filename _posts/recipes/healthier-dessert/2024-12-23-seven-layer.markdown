@@ -76,14 +76,14 @@ Instructions:
 - Remove the pan from the heat and stir in the <a href='https://amzn.to/43MkDqr'>vanilla extract</a>. Set aside to cool for at least 10 minutes in the fridge
 - <img src='/assets/Food/Healthier Dessert/7 Layer/milk.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, in a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the crust ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, salt, cinnamon, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>. Evenly press the mixture into the pan. The dough should feel slightly crumbly, and you should have just enough dough to barely cover the base of the pan
+- Meanwhile, in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mix together the crust ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, salt, cinnamon, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>. Evenly press the mixture into the pan. The dough should feel slightly crumbly, and you should have just enough dough to barely cover the base of the pan
 
 - Bake the crust for 10 minutes at 350F, then cool for at least 5 minutes
 - <img src='/assets/Food/Healthier Dessert/7 Layer/crust.jpg' alt='' class='instruction-image'>
 
 - As the <a href='/misc/dairy#skim-milk'>milk</a> boils and crust bakes, prepare your chocolate. Line a small <a href='https://amzn.to/3Ffts2R'>glass container</a> with parchment paper, and set aside. Combine <a href='/misc/chocolate-benefits'>cocoa powder</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='https://amzn.to/4mzsH5p'>allulose</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Pour into the parchment lined pan, and freeze for at least 15 minutes to harden
 
-- Roughly chop your chocolate and your <a href='/misc/nuts'>nuts</a> (any 2 different kinds of <a href='/misc/nuts'>nuts</a> will do). Combine together with <a href='/misc/nuts#coconut'>coconut flakes</a> in a <a href='https://amzn.to/4adxMft'>medium bowl</a>
+- Roughly chop your chocolate and your <a href='/misc/nuts'>nuts</a> (any 2 different kinds of <a href='/misc/nuts'>nuts</a> will do). Combine together with <a href='/misc/nuts#coconut'>coconut flakes</a> in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>
 - <img src='/assets/Food/Healthier Dessert/7 Layer/bowl.jpg' alt='' class='instruction-image'>
 
 - Add the chocolate, <a href='/misc/nuts'>nuts</a>, and <a href='/misc/nuts#coconut'>coconut</a> over the crust, and evenly pour the condensed milk over the top

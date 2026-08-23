@@ -57,7 +57,7 @@ Description: Dried <a href='/misc/fruit#cranberry'>cranberries</a> are a staple 
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> on dehydrate mode at 170F
 
-- Cut each of the <a href='/misc/fruit#cranberry'>cranberries</a> in half and add to a <a href='https://amzn.to/4adxMft'>small bowl</a>. Optionally, drizzle with some <a href='/misc/natural-sweeteners#honey'>honey</a>, and mix
+- Cut each of the <a href='/misc/fruit#cranberry'>cranberries</a> in half and add to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Optionally, drizzle with some <a href='/misc/natural-sweeteners#honey'>honey</a>, and mix
 
 - Dehydrate at 170F for 6-8 hours, flipping every 2 hours. Try to separate as much as possible. I did 6 oz of <a href='/misc/fruit#cranberry'>cranberries</a> in a 6 qt <a href='https://amzn.to/3FuWETp'>air fryer</a>.  Transfer to a container in the fridge
 Notes:

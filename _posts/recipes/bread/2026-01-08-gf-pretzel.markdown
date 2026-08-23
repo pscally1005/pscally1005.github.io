@@ -58,9 +58,9 @@ Instructions:
 - Preheat your oven to 350F. Line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper. Alternatively, you can use a pretzel pan like this one below for easier shaping. In this case, lightly grease the pan with oil
 - <img src='/assets/Food/Bread/GF Pretzel/pan.jpg' alt='' class='instruction-image'>
 
-- Add all dry ingredients to a <a href='https://amzn.to/4adxMft'>medium bowl</a>, and whisk until fully combined
+- Add all dry ingredients to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, and whisk until fully combined
 
-- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Bread/GF Pretzel/cheese.jpg' alt='' class='instruction-image'>
 
 - Add the <a href='/misc/nuts#almonds'>almond flour</a> and a beaten <a href='/misc/meat#eggs'>egg</a> to the bowl with the melted <a href='/misc/dairy#mozzarella'>cheese</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to incorporate, and knead with your hands until combined.  The dough should be slightly sticky

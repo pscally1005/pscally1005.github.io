@@ -59,7 +59,7 @@ Description: |
 
   This dip is great with some sliced <a href='/misc/fruit#strawberries'>strawberries</a> or any other <a href='/misc/fruit'>fruit</a> you have on hand.  Or you can use this as a dip for my homemade <a href='/recipes/gf-crackers'>Gluten Free Graham Crackers</a>!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, combine together all ingredients. Serve with sliced <a href='/misc/fruit#strawberries'>strawberries</a>, <a href='/recipes/gf-crackers'>graham crackers</a>, or just a spoon.
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, combine together all ingredients. Serve with sliced <a href='/misc/fruit#strawberries'>strawberries</a>, <a href='/recipes/gf-crackers'>graham crackers</a>, or just a spoon.
 - <img src='/assets/Food/Sweet Spreads/Cannoli dip/bowl.jpg' alt='' class='instruction-image'>
 - <img src='/assets/Food/Sweet Spreads/Cannoli dip/cover1.jpg' alt='' class='instruction-image'>
 Notes:

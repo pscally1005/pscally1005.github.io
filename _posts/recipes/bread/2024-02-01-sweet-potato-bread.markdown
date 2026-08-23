@@ -55,7 +55,7 @@ Description: I love a classic <a href='/misc/grains#whole-wheat'>whole wheat</a>
 Instructions:
 - Peel your <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and cut into cubes. Add to a <a href='https://amzn.to/46ccg8m'>medium pot</a> and cover with water. Bring to a boil, cover, reduce to medium, and simmer for around 15-18 minutes, until the <a href='/misc/veggies#sweet-potato'>sweet potato</a> can be easily crushed with the back of a spoon. Use a slotted spoon to scoop out the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and reserve the water (you will need it later in the bread). Let everything cool to room temperature
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine the water (use the leftover boiling water, and add some fresh water if you need more) and the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Mash with a fork or <a href='https://amzn.to/4r5boL0'>potato masher</a>, and fully combine into the water
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine the water (use the leftover boiling water, and add some fresh water if you need more) and the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>. Mash with a fork or <a href='https://amzn.to/4r5boL0'>potato masher</a>, and fully combine into the water
 
 - From here, you can proceed on with making the loaf of bread as normal. Since <a href='/recipes/bread'>bread making</a> can be quite complicated, I will leave the link to my <a href='/recipes/ww-bread'>100% Whole Wheat Bread</a> recipe, which breaks down my steps for a loaf of bread. Note that this dough is a little stickier than I am used to
 - <img src='/assets/Food/Bread/Sweet Potato/sweet-potato-3.jpg' alt='' class='instruction-image'>

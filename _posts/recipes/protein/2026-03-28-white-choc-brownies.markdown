@@ -68,7 +68,7 @@ Description: |
 Instructions:
 - Line a pan with parchment paper. I'm using a <a href='https://amzn.to/4aiCsjh'>7x11"</a> pan here, but you can use a standard <a href='https://amzn.to/3YY2H9q'>9" square</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the dry ingredients for the brownies
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together the dry ingredients for the brownies
 
 - Add in the wet ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until you have a fully combined and sticky dough
 - <img src='/assets/Food/Protein Powder/White Choc Brownie/bowl.jpg' alt='' class='instruction-image'>

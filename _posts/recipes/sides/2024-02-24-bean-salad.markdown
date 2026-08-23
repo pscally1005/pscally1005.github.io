@@ -68,7 +68,7 @@ Description: A bean salad is a great <a href='/recipes/sides'>side</a> to a meal
 Instructions:
 - Finely dice your <a href='/misc/veggies#onion'>onion</a>, and add to a bowl with cold water. Let the <a href='/misc/veggies#onion'>onion</a> soak for 5-10 minutes as you prepare everything else. This removes some of the harsh flavors of the raw <a href='/misc/veggies#onion'>onion</a>
 
-- Drain and rinse your cans of <a href='/misc/beans'>beans</a>, and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>
+- Drain and rinse your cans of <a href='/misc/beans'>beans</a>, and add to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>
 
 - Finely dice the <a href='/misc/veggies#pepper'>pepper</a> and <a href='/misc/veggies#tomato'>tomatoes</a>, and add to the bowl with the <a href='/misc/beans'>beans</a>. Drain your <a href='/misc/veggies#onion'>onion</a>, and add that as well. Crumble the <a href='/misc/dairy#feta'>feta</a> on top
 

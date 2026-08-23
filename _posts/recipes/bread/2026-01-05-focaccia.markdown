@@ -64,7 +64,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" square baking dish</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease the paper with oil</a>
 
-- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/cheese.jpg' alt='' class='instruction-image'>
 
 - Mix in the baking powder and <a href='/misc/meat#eggs'>egg</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Mix in the <a href='/misc/nuts#almonds'>almond flour</a>, and combine with the <a href='https://amzn.to/40F2aK0'>spatula</a>. Switch to your hands, and knead until fully combined.  The dough should be slightly sticky
@@ -95,7 +95,7 @@ Notes:
 
   I'm calling for <a href='/misc/nuts#almonds'>almond flour</a> here (1 1/2 cup, 168 g), but you can also use <a href='/misc/grains#oats'>oat flour</a> (1 1/2 cup, 135 g), <a href='/misc/nuts#coconut'>coconut flour</a> (3/4 cup, 90 g), <a href='/misc/dairy#whey'>whey protein</a> (4 scoops, 120 g), or <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> (1 cup, 96 g).  Obviously if you use <a href='/misc/dairy#whey'>whey</a> it won't be vegan, but it will be <a href='/misc/meat#eggs'>egg</a> and <a href='/misc/dairy#mozzarella'>cheese</a> free.<br><br>
 
-  No microwaving required.  Just mix together the ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a>, add to the pan, and top with rosemary and flaky salt.<br><br>
+  No microwaving required.  Just mix together the ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, add to the pan, and top with rosemary and flaky salt.<br><br>
 
   Bake for <b>30 minutes</b> this time at 350F (as opposed to 20 minutes), or until the top is set, the edges are lightly browned, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is around <a href='https://amzn.to/4kmobG2'>205F</a>.  The dough is a bit wetter, so it will need a little more time to bake.
 - INGREDIENTS(veganfocaccia)

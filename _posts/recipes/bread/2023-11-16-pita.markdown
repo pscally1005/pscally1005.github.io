@@ -50,7 +50,7 @@ tags:
 - hummus
 Description: Pita <a href='/recipes/bread'>bread</a> is probably my favorite type of <a href='/recipes/bread'>bread</a>. They're specifically designed for sandwiches, taste great, and are light and fluffy. This <a href='/misc/grains#whole-wheat'>whole wheat</a> variety shares all those qualities, while adding some extra <a href='/misc/fiber'>fiber</a> and removing <a href='/misc/processed-foods'>heavily processed</a> <a href='/misc/grains#white-wheat'>white flour</a>. My favorite fillings for it are <a href='/recipes/greek-salad'>Greek Salad with Chicken</a> or <a href='/recipes/turkey-pesto-pita'>Tomato Turkey Pesto Pitas</a>.
 Instructions:
-- Add your water to a glass, and microwave for 1 minute to warm it.  Mix warm water, salt, yeast, and <a href='/misc/olive-oil'>olive oil</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. Let proof for 5 minutes to make sure the yeast is alive
+- Add your water to a glass, and microwave for 1 minute to warm it.  Mix warm water, salt, yeast, and <a href='/misc/olive-oil'>olive oil</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Let proof for 5 minutes to make sure the yeast is alive
 
 - In a separate bowl, whisk together the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> and <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>.  Add the flours into the liquids, and bring together with a <a href='https://amzn.to/44XmqKz'>dough scraper</a>. Lightly knead for a minute to fully mix everything. Cover and let rest for 20 minutes to autolyze
 - <img src='/assets/Food/Bread/Pita/pita-2.jpg' alt='' class='instruction-image'>

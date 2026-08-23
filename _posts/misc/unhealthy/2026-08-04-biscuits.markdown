@@ -56,7 +56,7 @@ Description: |
 Instructions:
 - Preheat your oven to 425F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#white-wheat'>flour</a>, baking powder, rosemary, garlic powder, onion powder, and salt.
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/grains#white-wheat'>flour</a>, baking powder, rosemary, garlic powder, onion powder, and salt.
 
 - Add in cold <a href='/misc/slow-cooker-chicken'>chicken fat</a> and cold <a href='/misc/bone-broth'>broth</a>. Mix with your hands (wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a>) until you have a fully combined dough.
 - <img src='/assets/Misc/Unhealthy/Biscuits/White/bowl.jpg' alt='' class='instruction-image'>

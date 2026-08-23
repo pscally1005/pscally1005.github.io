@@ -49,6 +49,6 @@ tags:
 - marinara sauce
 Description: Did you know that you can whip up a tomato sauce in just 5 minutes?  Without any cooking required and nothing but panty staples, you can quickly turn a can of <a href='/misc/veggies#tomato'>tomato paste</a> into delicious <a href='/recipes/pasta-sauce'>pasta sauce</a>!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/veggies#tomato'>tomato paste</a>, basil, oregano, salt, red pepper flakes, and balsamic vinegar. Thin out with water.
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together <a href='/misc/veggies#tomato'>tomato paste</a>, basil, oregano, salt, red pepper flakes, and balsamic vinegar. Thin out with water.
 Notes:
 ---

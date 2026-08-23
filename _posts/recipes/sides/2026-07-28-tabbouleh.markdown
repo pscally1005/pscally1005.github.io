@@ -53,7 +53,7 @@ Description: Tabbouleh, also spelled as tabouli or tabouleh, is a Lebanese <a hr
 Instructions:
 - Add <a href='/misc/bone-broth'>broth</a> (or water with a pinch of salt) to a <a href='https://amzn.to/46ccg8m'>small pot</a> with <a href='/misc/grains#bulgur'>bulgur</a>. Cover and bring to a boil over high heat. Keep the lid on, reduce heat to low, and let simmer for about 15 minutes, or until the <a href='/misc/grains#bulgur'>bulgur</a> is tender and all water is absorbed. Remove the lid, and set aside to cool
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dressing ingredients - <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, salt, black pepper, coriander, and cinnamon
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dressing ingredients - <a href='/misc/fruit#lemon-juice'>lemon juice</a>, <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, salt, black pepper, coriander, and cinnamon
 
 - Finely chop the parsley and mint, and add to the bowl. Dice the <a href='/misc/veggies#cucumber'>cucumber</a>, <a href='/misc/veggies#tomato'>tomato</a>, and scallions, and add to the bowl, and mix together
 

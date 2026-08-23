@@ -64,7 +64,7 @@ Instructions:
 - For context, the <a href='/misc/veggies#onion'>onions</a> weigh about <b>880 g</b> raw, and I ended up with about <b>120 g</b> of cooked <a href='/misc/veggies#onion'>onions</a>.  You're aiming to cook nearly all the water out of the <a href='/misc/veggies#onion'>onions</a> and end up with essentially <a href='/misc/veggies#onion'>onion</a> jelly
 - <img src='/assets/Food/Savory Sauces/Caramel Onions/caramelized-onions.jpg' alt='' class='instruction-image'>
 
-- Once the <a href='/misc/veggies#onion'>onions</a> are totally cooled, mix everything together in a <a href='https://amzn.to/4adxMft'>medium bowl</a>.  Top with more dried parsley to garnish
+- Once the <a href='/misc/veggies#onion'>onions</a> are totally cooled, mix everything together in a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>.  Top with more dried parsley to garnish
 - <img src='/assets/Food/Savory Sauces/French Onion/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 - Compared to <a href='https://amzn.to/3FvHYDF'>storebought french onion dip</a>, mine has a sixth of the <a href='/misc/fats'>fat</a> and triple the <a href='/misc/protein'>protein</a> for the same 2 tbsp serving size, while also containing none of the artificial additives

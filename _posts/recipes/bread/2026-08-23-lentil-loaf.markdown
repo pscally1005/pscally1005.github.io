@@ -64,7 +64,7 @@ Instructions:
 - Add your <a href='/misc/beans#red-lentils'>lentils</a> and soaking liquid to a <a href='https://amzn.to/3SsDLn7'>blender</a> with <a href='/misc/olive-oil'>oil</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, salt, paprika, garlic powder, onion powder, and rosemary. Blend until smooth.
 - <img src='/assets/Food/Bread/Lentil Loaf/blend.jpg' alt='' class='instruction-image'>
 
-- Transfer the batter to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Add in <a href='/misc/psyllium-husk'>psyllium husk</a> and baking powder.  Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and transfer to your prepared pan.  Optionally top with <a href='https://amzn.to/40gmjGE'>everything bagel seasoning</a>.
+- Transfer the batter to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Add in <a href='/misc/psyllium-husk'>psyllium husk</a> and baking powder.  Mix together with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and transfer to your prepared pan.  Optionally top with <a href='https://amzn.to/40gmjGE'>everything bagel seasoning</a>.
 - <img src='/assets/Food/Bread/Lentil Loaf/raw.jpg' alt='' class='instruction-image'>
 
 - Bake uncovered at 350F for about 50 minutes, or until lightly golden, and the <a href='https://amzn.to/4kmobG2'>internal temperature</a> is about <a href='https://amzn.to/4kmobG2'>205F</a>.

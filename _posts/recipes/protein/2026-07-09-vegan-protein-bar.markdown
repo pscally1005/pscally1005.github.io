@@ -61,7 +61,7 @@ Description: |
 
   This vegan <a href='/protein-bar'>protein bar</a> is different.  Each bar contains 19 g of <a href='/misc/protein'>protein</a> for under 120 <a href='/misc/calories'>calories</a>, with just enough <a href='/misc/carbs'>carbs</a> and <a href='/misc/fats'>fat</a> to improve the texture and taste while keeping the <a href='/misc/protein'>protein</a> to <a href='/misc/calories'>calorie</a> ratio in check.  They're no bake, easy to make, freeze well, and are naturally vegan, <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, and <a href='/misc/nuts'>nut free</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the <a href='https://amzn.to/4aXnK21'>pea protein</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt.
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the <a href='https://amzn.to/4aXnK21'>pea protein</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and salt.
 
 - Add in the the water, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='https://amzn.to/43MkDqr'>vanilla</a>, and mix with your hand wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>.  The dough should look a little too dry, but hold together easily when pressed.
 - <img src='/assets/Food/Protein Powder/Vegan Protein Bars/bowl.jpg' alt='' class='instruction-image'>

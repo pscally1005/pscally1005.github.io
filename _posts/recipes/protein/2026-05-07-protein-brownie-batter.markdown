@@ -58,7 +58,7 @@ Description: |
 
   Check out my <a href='/recipes/edible-cookie-dough-protein'>Edible Cookie Dough with Protein</a> for a <a href='/misc/protein'>protein</a> packed cookie dough you can also eat with a spoon!
 Instructions:
-- Mix all ingredients together in a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Mix all ingredients together in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 
 - Divide into 4 <a href='https://amzn.to/4vamaBm'>mason jars</a>, about 3/4 cup (200 g) each
 

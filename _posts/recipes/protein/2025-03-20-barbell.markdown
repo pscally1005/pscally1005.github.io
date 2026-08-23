@@ -73,13 +73,13 @@ Description: |
 
   If you enjoy <a href='/copycat'>copycat</a> <a href='/protein-bar'>protein bar</a> recipes, also see my <a href='/recipes/copycat-quest-bars'>Copycat Quest Protein Bars</a> and <a href='/recipes/rx-bars'>Copycat Chocolate RX Bars</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together all dry ingredients for the filling - <a href='/misc/dairy#whey'>whey</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, and salt.  Add in the <a href='https://amzn.to/43MkDqr'>vanilla</a>, and thin out little by little with water until you have a sticky dough
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mix together all dry ingredients for the filling - <a href='/misc/dairy#whey'>whey</a>, <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, and salt.  Add in the <a href='https://amzn.to/43MkDqr'>vanilla</a>, and thin out little by little with water until you have a sticky dough
 - <img src='/assets/Food/Protein Powder/Barbell/bowl.jpg' alt='' class='instruction-image'>
 
 - Line a plate with parchment paper, and divide the dough into 4 even balls (see the table below for the weight of each filling).  Lightly wet your hands, and shape into bars
 - <img src='/assets/Food/Protein Powder/Barbell/no-choc.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, microwave your <a href='/misc/nuts#coconut'>coconut oil</a> for about 1 minute, until melted.  Add in the <a href='/misc/chocolate-benefits'>cocoa powder</a>, and stir until fully combined
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, microwave your <a href='/misc/nuts#coconut'>coconut oil</a> for about 1 minute, until melted.  Add in the <a href='/misc/chocolate-benefits'>cocoa powder</a>, and stir until fully combined
 
 - Pour the chocolate over the <a href='/protein-bar'>protein bars</a>, painting it over the top and the sides with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Freeze for 30 minutes to harden, wrap each bar in parchment paper or aluminum foil, and store in an airtight bag in the fridge or freezer
 - <img src='/assets/Food/Protein Powder/Barbell/choc.jpg' alt='' class='instruction-image'>

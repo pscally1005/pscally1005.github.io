@@ -65,11 +65,11 @@ Description: |
 Instructions:
 - Preheat your oven to 350F. Line a <a href='https://amzn.to/3YY2H9q'>9" baking pan</a> with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/veggies#sweet-potato'>sweet potato</a> with the back of a fork until smooth. Stir in the following with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, baking powder, and salt
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/veggies#sweet-potato'>sweet potato</a> with the back of a fork until smooth. Stir in the following with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, baking powder, and salt
 
 - Break your <a href='/misc/chocolate-benefits'>chocolate</a> into chunks, and add to a small microwave safe bowl. Microwave for 1 minute, stirring halfway, until you have a smooth melted chocolate
 
-- Pour the melted chocolate into the <a href='https://amzn.to/4adxMft'>large bowl</a>, and mix until fully combined. Fold in most of the chocolate chips, reserving some for the top
+- Pour the melted chocolate into the <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and mix until fully combined. Fold in most of the chocolate chips, reserving some for the top
 - <img src='/assets/Food/Healthier Dessert/Reduced Sugar Brownies/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan, and smooth out the top. Top with your remaining chocolate chips, and lightly them press down into the batter

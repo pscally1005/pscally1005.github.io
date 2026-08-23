@@ -72,7 +72,7 @@ Description: |
   </ol>
   These <a href='/protein-bar'>protein bars</a> meet all 3, as they clock in at just 100 <a href='/misc/calories'>calories</a> and have over 13g of <a href='/misc/protein'>protein</a>
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, and salt
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dry ingredients - <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/dairy#casein'>casein</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, cinnamon, and salt
 
 - Add in the wet ingredients (<a href='/misc/dairy#skim-milk'>milk</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and extract). Fold with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined. The mix should be slightly sticky
 

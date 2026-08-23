@@ -58,7 +58,7 @@ tags:
 - protein frosting
 Description: Air Fryer Protein Donuts!  Each glazed donut packs 45 g of <a href='/misc/protein'>protein</a> in just 370 <a href='/misc/calories'>calories</a>, making this better than most commercial <a href='/protein-bar'>protein bars</a>. The <a href='/misc/dairy#whey'>whey</a> and <a href='/misc/dairy#yogurt'>Greek yogurt</a> provide <a href='/misc/protein'>protein</a>.  <a href='/misc/nuts#almonds'>Almond flour</a> adds <a href='/misc/fats'>healthy fats</a> and also makes it <a href='/misc/celiac'>gluten free</a>.  And <a href='https://amzn.to/4mzsH5p'>allulose</a> and <a href='https://amzn.to/3SqwsMO'>monk fruit</a> provide sweetness!
 Instructions:
-- Add the dry ingredients to a <a href='https://amzn.to/4adxMft'>large bowl</a>, and whisk together - <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, baking powder, cinnamon, and salt.
+- Add the dry ingredients to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and whisk together - <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, baking powder, cinnamon, and salt.
 
 - Add in the liquid ingredients, and combine with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>eggs</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='https://amzn.to/4mzsH5p'>allulose</a>.
 - <img src='/assets/Food/Protein Powder/Donuts/bowl-donuts.jpg' alt='' class='instruction-image'>
@@ -71,7 +71,7 @@ Instructions:
 
 - Remove from the <a href='https://amzn.to/3FuWETp'>air fryer</a>, and allow them to cool for 5 minutes before removing from the <a href='https://amzn.to/4wPTDC8'>liner</a>.
 
-- Mix together the glaze ingredients in a <a href='https://amzn.to/4adxMft'>small bowl</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.
+- Mix together the glaze ingredients in a <a href='https://amzn.to/4zyFnzN'>small bowl</a> - <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/misc/dairy#whey'>protein powder</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>.
 - <img src='/assets/Food/Protein Powder/Donuts/bowl-glaze.jpg' alt='' class='instruction-image'>
 
 - Spread the protein glaze on top of the cooled donuts, about <b>50 g</b> per donut. Only glaze the donuts you want to eat now.  Optionally top with <a href='/misc/nuts#walnuts'>walnuts</a>.

@@ -65,7 +65,7 @@ Description: |
 
   This pizza dough uses leftover <a href='/misc/whole-wheat-sourdough#starter'>sourdough starter</a> plus salt and <a href='/misc/grains#whole-wheat'>whole wheat flour</a> to make a delicious pizza dough with tons of flavor.  To see what I do when I need to use up just 1 day's worth of discard, check out my <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbread</a>!
 Instructions:
-- Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, combine together <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, salt, yeast, water, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a> in a <a href='https://amzn.to/4adxMft'>large bowl</a>. The dough will be very sticky.
+- Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, combine together <a href='/misc/whole-wheat-sourdough#starter'>starter</a>, salt, yeast, water, and <a href='/misc/grains#whole-wheat'>whole wheat flour</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. The dough will be very sticky.
 
 - Knead/massage the dough for about 10 minutes by working it with your hand around in the bowl, squeezing it through your fingers, until the dough looks more elastic and less sticky. It will still be very sticky though, just less so.
 

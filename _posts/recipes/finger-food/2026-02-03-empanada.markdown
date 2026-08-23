@@ -80,7 +80,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4adxMft'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- Add the <a href='/misc/dairy#mozzarella'>mozzarella</a> to a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>. Cut the <a href='/misc/dairy#cream-cheese'>cream cheese</a> into cubes, and add on top. Microwave for 1 minute, stirring halfway with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 - <img src='/assets/Food/Bread/Almond Flour Focaccia/cheese.jpg' alt='' class='instruction-image'>
 
 - Add in the <a href='/misc/nuts#almonds'>almond flour</a> and a beaten <a href='/misc/meat#eggs'>egg</a>, and mix in with the <a href='https://amzn.to/40F2aK0'>spatula</a> to make a combined and slightly sticky dough
@@ -134,7 +134,7 @@ Notes:
 
     <li><a href='https://amzn.to/3FuWETp'>Air fry</a> for 1 hour (or bake in the oven for 1.5 hours), until fork tender</li><br>
 
-    <li>Add your roasted <a href='/misc/veggies#sweet-potato'>sweet potato</a> to a <a href='https://amzn.to/4adxMft'>medium bowl</a>, and season with garlic powder, onion powder, paprika, cumin, and salt. Mash until smooth.</li><br>
+    <li>Add your roasted <a href='/misc/veggies#sweet-potato'>sweet potato</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, and season with garlic powder, onion powder, paprika, cumin, and salt. Mash until smooth.</li><br>
 
     <li>Let the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> cool completely before using as filling</li><br>
 
@@ -151,7 +151,7 @@ Notes:
 - INGREDIENTS(spinachpie)
 - |
   <ol>
-    <li>Add <a href='/misc/veggies#spinach-fresh'>frozen spinach</a> to a <a href='https://amzn.to/4adxMft'>medium glass bowl</a>.  Cover with a plate, and microwave for 5 minutes</li><br>
+    <li>Add <a href='/misc/veggies#spinach-fresh'>frozen spinach</a> to a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>.  Cover with a plate, and microwave for 5 minutes</li><br>
 
     <li>Mix in <a href='/misc/dairy#feta'>feta</a>, <a href='/misc/veggies#garlic'>minced garlic</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, dill, onion powder, and salt</li><br>
 
@@ -170,7 +170,7 @@ Notes:
 - INGREDIENTS(cassatelle)
 - |
   <ol>
-    <li>In a <a href='https://amzn.to/4adxMft'>small bowl</a>, combine together (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> with <a href='https://amzn.to/4mzsH5p'>allulose</a> (or <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>), <a href='https://amzn.to/4khDgIM'>almond extract</a>, and cinnamon</li><br>
+    <li>In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, combine together (blended) <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> with <a href='https://amzn.to/4mzsH5p'>allulose</a> (or <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>), <a href='https://amzn.to/4khDgIM'>almond extract</a>, and cinnamon</li><br>
 
     <li>Each cassatella will get about 1 1/2 tbsp (25 g) of filling</li>
   </ol>

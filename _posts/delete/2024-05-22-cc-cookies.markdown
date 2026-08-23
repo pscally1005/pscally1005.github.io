@@ -68,13 +68,13 @@ Description: This is part 2 of me trying to make a classic chocolate chip <a hre
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.  Also line a small Tupperware with parchment
 
-- Start with the chocolate chips, since these will need to fully solidify in the fridge.  In a <a href='https://amzn.to/4adxMft'>small bowl</a>, add the <a href='/misc/nuts#coconut'>coconut oil</a>, and melt in the microwave for 1:30
+- Start with the chocolate chips, since these will need to fully solidify in the fridge.  In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, add the <a href='/misc/nuts#coconut'>coconut oil</a>, and melt in the microwave for 1:30
 
 - Add the <a href='/misc/chocolate-benefits'>cocoa powder</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and a few grains of salt to the <a href='/misc/nuts#coconut'>coconut oil</a>, and mix until smooth
 
 - Pour the <a href='/misc/chocolate-benefits'>chocolate</a> into a parchment lined Tupperware, and refrigerate until solid, about 30 minutes
 
-- Meanwhile, move into the <a href='/cookies'>cookie</a> dough.  To a <a href='https://amzn.to/4q0AUjI'>food processor</a>, add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and vanilla.  Blend until smooth, and transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
+- Meanwhile, move into the <a href='/cookies'>cookie</a> dough.  To a <a href='https://amzn.to/4q0AUjI'>food processor</a>, add your <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/recipes/sugar-free-syrup'>syrup</a>, and vanilla.  Blend until smooth, and transfer to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>
 
 - Mix the rest of the <a href='/cookies'>cookie</a> dough ingredients (<a href='/recipes/natural-peanut-butter'>nut butter</a>, salt, and <a href='/misc/nuts#coconut'>coconut flour</a>) with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined.  I've used <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, but <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/nuts#pistachios'>pistachio butter</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a>, or <a href='/misc/seeds#pumpkin-seeds'>pumpkin seed butter</a> would also work.  <a href='/misc/grains#oats'>Oat</a> or <a href='/misc/nuts#almonds'>almond flour</a> would probably work instead of <a href='/misc/nuts#coconut'>coconut</a>, but start with at least double by weight, and go on feel.  The dough should be slightly sticky
 

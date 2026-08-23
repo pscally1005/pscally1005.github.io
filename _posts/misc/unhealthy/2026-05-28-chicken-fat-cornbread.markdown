@@ -62,7 +62,7 @@ Description: |
 
   For some healthy cornbread recipes, check out my <a href='/recipes/hot-honey-cornbread'>Hot Honey Cornbread</a>, <a href='/recipes/vegan-cornbread'>Vegan Cajun Cornbread</a>, and <a href='/recipes/cornbread'>Cheesy Protein Cornbread</a>.
 Instructions:
-- Crack your <a href='/misc/meat#eggs'>egg</a> into a <a href='https://amzn.to/4adxMft'>large bowl</a>, and beat with a whisk. Add in the liquid ingredients (melted <a href='/misc/slow-cooker-chicken'>chicken fat</a>, <a href='/misc/hidden-sugar'>sugar</a>, and buttermilk), and whisk until fully combined
+- Crack your <a href='/misc/meat#eggs'>egg</a> into a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, and beat with a whisk. Add in the liquid ingredients (melted <a href='/misc/slow-cooker-chicken'>chicken fat</a>, <a href='/misc/hidden-sugar'>sugar</a>, and buttermilk), and whisk until fully combined
 
 - Add in the dry ingredients (cornmeal, <a href='/misc/grains#white-wheat'>white flour</a>, baking powder, and baking soda). Whisk until just combined
 - <img src='/assets/Misc/Unhealthy/Cornbread/bowl.jpg' alt='' class='instruction-image'>

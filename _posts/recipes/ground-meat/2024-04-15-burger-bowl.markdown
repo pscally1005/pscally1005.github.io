@@ -65,7 +65,7 @@ Instructions:
 - Add to your <a href='https://amzn.to/3FuWETp'>air fryer</a> in a single layer, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 6-8 minutes, or until crispy but not burnt. Set aside
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-3.jpg' alt='' class='instruction-image'>
 
-- Moving onto the <a href='/misc/dairy#mozzarella'>cheese</a>. In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/dairy#cheddar'>shredded cheese</a>, cornstarch, and <a href='/misc/dairy#almond-milk'>almond milk</a>. This will get added into the <a href='/misc/meat#ground-beef'>beef</a> at the end. Set the bowl aside
+- Moving onto the <a href='/misc/dairy#mozzarella'>cheese</a>. In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together <a href='/misc/dairy#cheddar'>shredded cheese</a>, cornstarch, and <a href='/misc/dairy#almond-milk'>almond milk</a>. This will get added into the <a href='/misc/meat#ground-beef'>beef</a> at the end. Set the bowl aside
 
 - Now for the burger. Heat a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat with <a href='/misc/olive-oil'>olive oil</a>. Add in the <a href='/misc/meat#ground-beef'>beef</a>, and cook until browned. Season with <a href='https://amzn.to/44VXByC'>soy sauce</a>, paprika, garlic powder, onion powder, black pepper, salt, and cayenne pepper
 - <img src='/assets/Food/Ground Meat/Burger Bowl/burger-bowl-5.jpg' alt='' class='instruction-image'>

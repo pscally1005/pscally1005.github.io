@@ -58,7 +58,7 @@ Description: This keto loaf of sandwich <a href='/recipes/bread'>bread</a> is pe
 Instructions:
 - In a large glass, add your water, and microwave for 1 minute to warm it
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, yeast, and salt
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the dry ingredients - <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, <a href='https://amzn.to/47w8h7R'>inulin</a>, yeast, and salt
 
 - Add in the vinegar and warm water, and bring together with a <a href='https://amzn.to/44XmqKz'>dough scraper</a>. Let the dough rest for 5 minutes
 - <img src='/assets/Food/Bread/Keto Bread/bowl.jpg' alt='' class='instruction-image'>

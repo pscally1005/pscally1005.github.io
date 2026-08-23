@@ -63,7 +63,7 @@ Description: |
 
   Pictured here is a rice cake topped with <a href='/recipes/natural-peanut-butter'>Homemade Natural Nut Butter</a> (using a blend of <a href='/misc/nuts#peanuts'>peanuts</a> and <a href='/misc/nuts#pistachios'>pistachios</a>) and the strawberry jam for a delicious snack.  <a href='/misc/fruit#strawberries'>Strawberries</a> and <a href='/misc/fruit#blueberries'>blueberries</a> are lower in pectin compared to other <a href='/misc/fruit#blueberries'>berries</a>, so <a href='/misc/seeds#chia-seeds'>chia seeds</a> are used as a thickener. You can also check out my <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a> for a <a href='/misc/fruit#blackberry'>blackberry</a> (or <a href='/misc/fruit#raspberry'>raspberry</a>) version, which has no <a href='/misc/seeds#chia-seeds'>chia seeds</a> since these <a href='/misc/fruit#blueberries'>berries</a> contain more pectin
 Instructions:
-- Add your <a href='/misc/fruit#blueberries'>berries</a> to a <a href='https://amzn.to/4adxMft'>medium bowl</a>, and microwave until soft. Or you can leave on the counter for a bit to defrost
+- Add your <a href='/misc/fruit#blueberries'>berries</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, and microwave until soft. Or you can leave on the counter for a bit to defrost
 
 - In a <a href='https://amzn.to/4rdR0HI'>large pan</a> over medium heat, add the <a href='/misc/fruit#blueberries'>berries</a> and <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>. Roughly mash with a <a href='https://amzn.to/4r5boL0'>potato masher</a>
 

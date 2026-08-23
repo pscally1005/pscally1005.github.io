@@ -59,7 +59,7 @@ Description: What do <a href='/recipes/chicken-fingers'>Gluten Free Chicken Tend
 Instructions:
 - Wash your <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and slice off the ends (but don't peel it!). Slice the <a href='/misc/veggies#sweet-potato'>sweet potato</a> using a <a href='https://amzn.to/4q3nlQz'>mandoline</a> on the waffle fry setting
 
-- Add your <a href='/misc/fake-healthy-foods#potatoes'>fries</a> to a <a href='https://amzn.to/4adxMft'>glass bowl</a>, and toss with vinegar, <a href='/misc/olive-oil'>oil</a>, and spices. Cover with a plate, and microwave for 5 minutes to soften the inside a little before <a href='https://amzn.to/3FuWETp'>air frying</a>
+- Add your <a href='/misc/fake-healthy-foods#potatoes'>fries</a> to a <a href='https://amzn.to/4zyFnzN'>glass bowl</a>, and toss with vinegar, <a href='/misc/olive-oil'>oil</a>, and spices. Cover with a plate, and microwave for 5 minutes to soften the inside a little before <a href='https://amzn.to/3FuWETp'>air frying</a>
 - <img src='/assets/Food/Finger Food/Waffle Fries/raw.jpg' alt='' class='instruction-image'>
 
 - Add to your <a href='https://amzn.to/3FuWETp'>air fryer</a> basket. You may have to fry in 2 batches. <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for about 6-8 minutes, or until the outside is browned and crispy, and the center is soft and tender

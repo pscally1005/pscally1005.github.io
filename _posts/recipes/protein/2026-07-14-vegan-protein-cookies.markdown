@@ -58,7 +58,7 @@ Description: Instead of a <a href='/protein-bar'>protein bar</a>, why not a <a h
 Instructions:
 - Preheat your oven to 350F, and line a baking sheet with parchment paper.
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a> with a fork until smooth. Add in the <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4aXnK21'>protein powder</a>, baking powder, salt, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>. Mix until combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mash the <a href='/misc/fruit#banana'>banana</a> with a fork until smooth. Add in the <a href='/recipes/natural-peanut-butter'>nut butter</a>, <a href='https://amzn.to/4aXnK21'>protein powder</a>, baking powder, salt, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>. Mix until combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Protein Powder/Banana Nut Protein Cookies/bowlNew.jpg' alt='' class='instruction-image'>
 
 - Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking, scoop the cookie dough into large balls onto the pan, about <b>68 g</b> each.  Flatten to a 1/4" thick circle.

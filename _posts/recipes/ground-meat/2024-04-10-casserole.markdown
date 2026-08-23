@@ -69,6 +69,6 @@ Instructions:
 - When the <a href='/misc/meat'>meat</a> is done and the pan is free, add the <a href='/misc/veggies#cauliflower'>cauliflower</a> to the pan with oil, lemon pepper, garlic powder, onion powder, nutmeg, cloves, and red pepper flakes. Cover and cook over medium heat until the <a href='/misc/veggies#cauliflower'>cauliflower</a> is tender and done to your liking. Don't over mix, or it could become mushy
 - <img src='/assets/Food/Ground Meat/Casserole/casserole-4.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, combine the <a href='/misc/veggies#spinach-fresh'>spinach</a>, <a href='/misc/meat'>meat</a>, and <a href='/misc/veggies#cauliflower'>cauliflower</a>. Serve
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, combine the <a href='/misc/veggies#spinach-fresh'>spinach</a>, <a href='/misc/meat'>meat</a>, and <a href='/misc/veggies#cauliflower'>cauliflower</a>. Serve
 Notes:
 ---

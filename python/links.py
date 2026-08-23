@@ -6354,7 +6354,7 @@ LINKS = {
         "lightly oiled",
         "lightly greased"
     ],
-    "https://amzn.to/4adxMft": [
+    "https://amzn.to/4zyFnzN": [
         "large glass bowls",
         "large glass bowl",
         "medium glass bowls",

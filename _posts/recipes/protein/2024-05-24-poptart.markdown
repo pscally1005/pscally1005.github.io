@@ -83,7 +83,7 @@ Instructions:
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 350F for about 6 minutes, or until the PopTart is a golden brown color
 - <img src='/assets/Food/Breakfast/PopTart/poptart-5.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, in a <a href='https://amzn.to/4adxMft'>small bowl</a>, melt <a href='/misc/nuts#peanuts'>peanut butter</a> in the microwave.  Drizzle on top of the PopTart, and serve
+- Meanwhile, in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, melt <a href='/misc/nuts#peanuts'>peanut butter</a> in the microwave.  Drizzle on top of the PopTart, and serve
 Notes:
 - I've used <a href='/recipes/apple-spread'>No Sugar Added Apple Spread</a> for these PopTarts, but <a href='/misc/fruit#apple'>unsweetened applesauce</a> would also work.  Any low or <a href='/misc/hidden-sugar'>no sugar</a> jelly or jam (such as <a href='/recipes/berry-jam'>Low Sugar Berry Jam</a>) would also work well as a filling, as well as <a href='/misc/fruit#dates'>date</a> paste
 ---

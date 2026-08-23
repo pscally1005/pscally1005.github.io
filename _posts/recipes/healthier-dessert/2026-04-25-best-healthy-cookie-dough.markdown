@@ -60,7 +60,7 @@ Description: |
 
   Doing so keeps the process perfectly familiar, while also resulting in a delicious and rich edible cookie dough that's <a href='/misc/hidden-sugar'>sugar free</a>, <a href='/misc/celiac'>gluten free</a>, and high in <a href='/misc/fats'>healthy fats</a>.  For a similar recipe, check out <a href='/recipes/best-healthy-brownies'>The Best Healthy Brownies Recipe</a>, or see the full article, <a href='/misc/healthier-brownies-and-cookies-experiment'>Healthier Brownies & Cookies Experiment</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, melt <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave. Add in your <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> for 2 minutes to help dissolve the sweetener
+- In a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>, melt <a href='/misc/nuts#coconut'>coconut oil</a> in the microwave. Add in your <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, and beat with an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a> for 2 minutes to help dissolve the sweetener
 
 - Beat in the <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt. Switch to a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and mix in the cornstarch and <a href='/misc/nuts#almonds'>almond flour</a>. Fold in the chocolate chips
 - <img src='/assets/Misc/Experiments/Healthier Brownies Cookies/cookies-bowl.jpg' alt='' class='instruction-image'>

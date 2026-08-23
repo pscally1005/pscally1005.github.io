@@ -60,7 +60,7 @@ Instructions:
 - If you don't have <a href='/misc/beans#chickpeas'>chickpea flour</a>, you can make your own by just blending raw, dried <a href='/misc/beans#chickpeas'>chickpeas</a> in a <a href='https://amzn.to/4q0AUjI'>food processor</a> on high speed for about 5 minutes
 - <img src='/assets/Food/Finger Food/Chickpea Tortilla/flour.jpg' alt='' class='instruction-image'>
 
-- <a href='https://amzn.to/4q2FwWu'>Sift</a> your flours into a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a>. Whisk together the rest of the dry ingredients - baking powder, salt, garlic powder, and onion powder
+- <a href='https://amzn.to/4q2FwWu'>Sift</a> your flours into a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a>. Whisk together the rest of the dry ingredients - baking powder, salt, garlic powder, and onion powder
 
 - Slowly pour in water, and whisk until you have a smooth crepe-like batter. Let the batter rest for 10 minutes
 - <img src='/assets/Food/Finger Food/Chickpea Tortilla/batter.jpg' alt='' class='instruction-image'>

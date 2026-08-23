@@ -69,7 +69,7 @@ Instructions:
 
 - Roast the <a href='/misc/veggies#brussel-sprout'>brussel sprouts</a> at 400F for about 30 minutes, or until lightly charred on the outside and tender in the center. Squeeze on some <a href='/misc/fruit#lemon'>lemon</a> or <a href='/misc/fruit#lime-juice'>lime juice</a> when done roasting
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together <a href='/misc/fruit#lemon-juice'>lemon juice</a>, lemon pepper, garlic powder, and onion powder. Rub onto each piece of <a href='/misc/fish#salmon'>salmon</a>
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together <a href='/misc/fruit#lemon-juice'>lemon juice</a>, lemon pepper, garlic powder, and onion powder. Rub onto each piece of <a href='/misc/fish#salmon'>salmon</a>
 
 - Roast the <a href='/misc/fish#salmon'>salmon</a> for 10-14 minutes at 400F, or until done to your liking. I like my <a href='/misc/fish#salmon'>salmon</a> fully cooked, so I prefer the higher end of that range and an <a href='https://amzn.to/4kmobG2'>internal temperature</a> of about <a href='https://amzn.to/4kmobG2'>145F</a>, but you might like less
 - <img src='/assets/Food/Fish/Tzatziki/pans.jpg' alt='' class='instruction-image'>

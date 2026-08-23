@@ -66,7 +66,7 @@ tags:
 - coconut oil
 Description: These caramel candy bars are a healthy take on a Twix or Snicker's bar. They feature a <a href='/misc/protein'>protein</a> based shortbread, and <a href='/misc/fruit#banana'>banana</a> dessert hummus filling (based off my <a href='/recipes/banana-bread-hummus'>Banana Bread Hummus Spread</a>), and are topped with melted chocolate. To me, these taste way better than an actual candy bar, and they're not just empty <a href='/misc/calories'>calories</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the base layer ingredients (<a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, <a href='https://amzn.to/4khDgIM'>almond extract</a>, salt, and <a href='/misc/dairy#casein'>casein</a>). Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment, and press the dough into it. Freeze to harden
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mix together the base layer ingredients (<a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/dairy#almond-milk'>almond milk</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, <a href='https://amzn.to/4khDgIM'>almond extract</a>, salt, and <a href='/misc/dairy#casein'>casein</a>). Line a <a href='https://amzn.to/3YY2H9q'>9" square pan</a> with parchment, and press the dough into it. Freeze to harden
 - <img src='/assets/Food/Protein Powder/Caramel/caramel-1.jpg' alt='' class='instruction-image'>
 
 - Combine the filling ingredients (<a href='/misc/beans#chickpeas'>chickpeas</a>, <a href='/misc/nuts#almonds'>almond butter</a>, <a href='/misc/fruit#banana'>banana</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='https://amzn.to/4khDgIM'>almond extract</a>, salt, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>/<a href='https://amzn.to/45wOzIv'>stevia</a>) together in a <a href='https://amzn.to/4q0AUjI'>food processor</a>
@@ -74,7 +74,7 @@ Instructions:
 - Blend until smooth, and spread on top of the base layer. Again, freeze to harden
 - <img src='/assets/Food/Protein Powder/Caramel/caramel-3.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, melt the <a href='/misc/nuts#coconut'>coconut oil</a>. Stir in the rest of the chocolate ingredients (<a href='/misc/chocolate-benefits'>cocoa</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>/<a href='https://amzn.to/45wOzIv'>stevia</a>, <a href='https://amzn.to/4khDgIM'>almond extract</a>, and salt). Spread on top of the filling. Chill to harden
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, melt the <a href='/misc/nuts#coconut'>coconut oil</a>. Stir in the rest of the chocolate ingredients (<a href='/misc/chocolate-benefits'>cocoa</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>/<a href='https://amzn.to/45wOzIv'>stevia</a>, <a href='https://amzn.to/4khDgIM'>almond extract</a>, and salt). Spread on top of the filling. Chill to harden
 - <img src='/assets/Food/Protein Powder/Caramel/caramel-4.jpg' alt='' class='instruction-image'>
 
 - Slice and serve. Flash freeze on a <a href='https://amzn.to/45sRAsB'>cookie sheet</a>, then store in an airtight bag in the freezer

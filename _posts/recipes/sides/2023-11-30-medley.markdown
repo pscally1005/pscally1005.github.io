@@ -59,7 +59,7 @@ Description: I made some variation of this dish all the time. Most often, I use 
 Instructions:
 - Heat a pan on medium heat with <a href='/misc/olive-oil'>olive oil</a>. Cut your <a href='/misc/veggies#onion'>onions</a> into a small dice, and add to the pan with salt. Cover and cook with occasional stirring until they start to turn translucent, about 10 minutes
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together the spices, and set aside - chili powder, paprika, garlic powder, onion powder, cumin, and black pepper
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together the spices, and set aside - chili powder, paprika, garlic powder, onion powder, cumin, and black pepper
 
 - When the <a href='/misc/veggies#onion'>onions</a> are translucent and lightly browned, add in the chopped <a href='/misc/veggies#spinach-fresh'>spinach</a> and spices. Mix together, cover, and cook over medium heat until most of the water has cooked off, and the <a href='/misc/veggies#spinach-fresh'>spinach</a> is done to your liking; about 20 minutes
 

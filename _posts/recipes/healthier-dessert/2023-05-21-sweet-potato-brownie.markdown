@@ -63,7 +63,7 @@ Description: After my <a href='/misc/boxed-brownie-experiment'>Fat Replacements 
 Instructions:
 - Preheat your oven to 350F and line an <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a> with parchment paper. Optionally, <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, cornstarch, baking powder, baking soda, salt, and cinnamon
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together the dry ingredients - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, cornstarch, baking powder, baking soda, salt, and cinnamon
 - <img src='/assets/Food/Healthier Dessert/Sweet Potato Brownies/sw-pot-2.jpg' alt='' class='instruction-image'>
 
 - In a separate bowl, mix together the wet ingredients - syrup, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/fruit#apple'>applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, melted <a href='/misc/chocolate-benefits'>chocolate</a> and puree

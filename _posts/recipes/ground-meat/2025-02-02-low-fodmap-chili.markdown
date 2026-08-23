@@ -62,7 +62,7 @@ Instructions:
 - Add the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> to the pan with paprika, cumin, and salt with a splash of water. Cover and cook until both the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> are fork tender, about 15 minutes. Transfer to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/veggies.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, wash your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut into a medium dice (don't peel the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>!). Add to a <a href='https://amzn.to/4adxMft'>glass bowl</a>, cover with a plate, and microwave on high for 5 minutes
+- Meanwhile, wash your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut into a medium dice (don't peel the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>!). Add to a <a href='https://amzn.to/4zyFnzN'>glass bowl</a>, cover with a plate, and microwave on high for 5 minutes
 
 - When the <a href='/misc/veggies#pepper'>peppers</a> and <a href='/misc/veggies#carrots'>carrots</a> are done and the pan is free, add the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> with <a href='/misc/olive-oil'>olive oil</a> over medium heat with a splash of water. Again cover and cook until fork tender (about 10 minutes), and then transfer to the <a href='https://amzn.to/49TUS9E'>slow cooker</a>
 - <img src='/assets/Food/Ground Meat/Low FODMAP Chili/sw-pot.jpg' alt='' class='instruction-image'>

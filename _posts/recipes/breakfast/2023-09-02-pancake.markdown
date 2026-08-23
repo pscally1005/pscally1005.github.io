@@ -61,7 +61,7 @@ Description: |
 
   For a very similar <a href='/misc/fake-healthy-foods#pancakes'>pancake</a> recipe with <a href='/misc/fruit#banana'>banana</a> instead, check out my <a href='/recipes/banana-protein-pancakes'>Banana Protein Pancakes</a>.  Or, for more <a href='/misc/veggies#pumpkin'>pumpkin</a> recipes, see my <a href='/recipes/pumpkin-bread'>Protein Pumpkin Loaf</a>, <a href='/recipes/pumpkin-pie'>Perfect Protein Packed Pumpkin Pie</a>, or <a href='/recipes/oats-pumpkin'>Pumpkin Pie Protein Overnight Oats</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together all the ingredients. Let batter rest for 5-10 minutes.
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, whisk together all the ingredients. Let batter rest for 5-10 minutes.
 - <img src='/assets/Food/Breakfast/Pumpkin Pancake/pancake-batter.jpg' alt='' class='instruction-image'>
 
 - Meanwhile, preheat a large nonstick pan over medium heat with a <a href='https://amzn.to/3Hdg0gk'>spray of oil</a>. The pan should sound like it's sizzling lightly when the batter is spooned in.

@@ -62,7 +62,7 @@ Description: |
 
   For a more traditional <a href='/misc/fake-healthy-foods#dips'>honey mustard</a> recipe, check out my <a href='/recipes/honey-mustard'>Homemade Healthier Honey Mustard Dressing</a>, which uses dijon mustard, <a href='/misc/olive-oil'>extra virgin olive oil</a>, <a href='/misc/natural-sweeteners#honey'>honey</a>, and <a href='/misc/apple-cider-vinegar'>apple cider vinegar</a> for a deliciously sweet and tangy <a href='/salad-dressings'>dressing</a>.  You can also check out any of my other <a href='/salad-dressings'>salad dressings</a>!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, whisk together all ingredients until fully combined. Adjust sweetness and salt as desired. Store in the fridge for up to 1 week
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, whisk together all ingredients until fully combined. Adjust sweetness and salt as desired. Store in the fridge for up to 1 week
 - <img src='/assets/Food/Savory Sauces/No Honey Mustard/salad.jpg' alt='' class='instruction-image'>
 Notes:
 - <a href='/misc/dairy#yogurt'>Plain nonfat greek yogurt</a> will work in place of <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>.  I've also made this recipe using <a href='/misc/dairy#yogurt-whole-milk'>whole milk greek yogurt</a>, and just removed one of the tablespoons of oil

@@ -56,7 +56,7 @@ tags:
 - vanilla whey protein powder
 Description: Rich, creamy, and sweet chocolate ice cream!  From just a base of <a href='/misc/dairy#cream-cheese'>cream cheese</a> and <a href='/misc/hidden-sugar'>sugar</a>, you can make this delicious and indulgent chocolate ice cream with just an <a href='https://amzn.to/45yqsbM'>electric hand mixer</a>; no ice cream maker required. Plus, the <a href='https://amzn.to/43ycqF2'>lactase enzyme</a> makes it lactose free for all those who are lactose intolerant!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, beat the <a href='/misc/dairy#cream-cheese'>cream cheese</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on high speed for about 5 minutes to soften and incorporate air
+- In a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>, beat the <a href='/misc/dairy#cream-cheese'>cream cheese</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a> on high speed for about 5 minutes to soften and incorporate air
 - <img src='/assets/Misc/Unhealthy/Ice Cream/bowl1.jpg' alt='' class='instruction-image'>
 
 - Add in your <a href='/misc/hidden-sugar'>sugar</a>, and beat until fully combined

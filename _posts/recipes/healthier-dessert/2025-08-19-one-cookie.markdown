@@ -75,7 +75,7 @@ Notes:
   <div id='coconut-oil' class='table-of-contents-2'></div>
   Alternatively, below is a recipe using <a href='/misc/nuts#coconut'>coconut oil</a> as the <a href='/misc/fats'>fat</a> instead of a <a href='/recipes/natural-peanut-butter'>nut or seed butter</a>.  It's essentially my <a href='/recipes/chocolate-chip-cookies'>Classic Chocolate Chip Cookies</a> recipe using <a href='/misc/nuts#coconut'>coconut oil</a> and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> in place of <a href='/misc/dairy#butter'>butter</a> and <a href='/misc/hidden-sugar'>sugar</a>, and scaled down to 3 servings (1 large <a href='/cookies'>cookie</a>)<br><br>
 
-  The instructions are the same.  Combine all ingredients together in a <a href='https://amzn.to/4adxMft'>small bowl</a>, flatten onto a sheet of parchment paper, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 300F for about 12 minutes, or until golden brown
+  The instructions are the same.  Combine all ingredients together in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, flatten onto a sheet of parchment paper, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 300F for about 12 minutes, or until golden brown
 - INGREDIENTS(onecookiecoconutoil)
 - <img src='/assets/Food/Healthier Dessert/One cookie/coconut-oil-cooked.jpg' alt='' class='instruction-image'>
 

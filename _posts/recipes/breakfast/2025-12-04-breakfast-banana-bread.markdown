@@ -66,7 +66,7 @@ Description: The other day I was in the mood for <a href='/misc/fake-healthy-foo
 Instructions:
 - Preheat your oven to 350F, and line a small <a href='https://amzn.to/45sRAsB'>baking pan</a> with parchment paper.  Lightly grease the paper.  Here, I'm using my <a href='https://amzn.to/3Ffts2R'>glass meal prep container</a>, which is 6.2x4.5"
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork until smooth.  Whisk in the rest of the wet ingredients - <a href='/misc/meat#egg-whites'>egg whites</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, <a href='https://amzn.to/4khDgIM'>almond extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork until smooth.  Whisk in the rest of the wet ingredients - <a href='/misc/meat#egg-whites'>egg whites</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, <a href='https://amzn.to/4khDgIM'>almond extract</a>, and <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>
 
 - Whisk in the smaller dry ingredients - cinnamon, baking powder, salt, nutmeg, and <a href='/misc/veggies#ginger'>ginger</a>
 

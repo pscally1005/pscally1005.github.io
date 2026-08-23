@@ -62,7 +62,7 @@ Description: |
 Instructions:
 - Preheat your oven to 350F, and take out a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large glass bowl</a>, melt the <a href='/misc/nuts#peanuts'>peanut butter</a>. Add all ingredients to a bowl and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Gently knead a few times to form a dough
+- In a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>, melt the <a href='/misc/nuts#peanuts'>peanut butter</a>. Add all ingredients to a bowl and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>. Gently knead a few times to form a dough
 - <img src='/assets/Food/Finger Food/GF Crackers/dough.jpg' alt='' class='instruction-image'>
 
 - Roll out between 2 sheets of parchment paper to about 1/8" - 1/4" thick.  Use a pizza wheel to trim up the edges, making an even rectangle.  Cut into crackers, and poke with a fork

@@ -68,7 +68,7 @@ Instructions:
 - On a plate, measure out the flour. Add the garlic powder, onion powder, black pepper, and oregano to the plate and mix
 - <img src='/assets/Food/Chicken/Breaded/flour-plate.jpg' alt='' class='instruction-image'>
 
-- To a <a href='https://amzn.to/4adxMft'>medium bowl</a>, add in the <a href='/misc/meat#eggs'>egg</a> and water, and beat the <a href='/misc/meat#eggs'>egg</a> with a fork
+- To a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, add in the <a href='/misc/meat#eggs'>egg</a> and water, and beat the <a href='/misc/meat#eggs'>egg</a> with a fork
 - <img src='/assets/Food/Chicken/Breaded/egg-bowl.jpg' alt='' class='instruction-image'>
 
 - To a separate plate, add the breadcrumb mix - <a href='/misc/grains#oats'>oat flour</a>, <a href='/misc/dairy#grated-cheese'>grated cheese</a>, thyme, basil, salt, and black pepper
@@ -80,7 +80,7 @@ Instructions:
 - Cook the <a href='/misc/meat#chicken-breast'>chicken</a> until it registers <a href='https://amzn.to/4kmobG2'>165F</a>, about 15 minutes in a 400F oven, or 8 minutes in a 400F <a href='https://amzn.to/3FuWETp'>air fryer</a>.  Transfer to a <a href='https://amzn.to/4qQNmn2'>wire rack</a> to keep it crispy
 - <img src='/assets/Food/Chicken/Breaded/cooked.jpg' alt='' class='instruction-image'>
 
-- As the <a href='/misc/meat#chicken-breast'>chicken</a> cooks, you can make the Bruschetta topping. Finely dice the <a href='/misc/veggies#tomato'>tomatoes</a> and <a href='/misc/veggies#onion'>onion</a>, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>. Season with <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/fruit#lemon'>lemon</a>, parsley, basil, and salt.  Serve on a slice of toasted <a href='/recipes/whole-wheat-baguettes'>Whole Wheat Baguettes</a>, or spoon on top of the <a href='/misc/meat#chicken-breast'>chicken</a>
+- As the <a href='/misc/meat#chicken-breast'>chicken</a> cooks, you can make the Bruschetta topping. Finely dice the <a href='/misc/veggies#tomato'>tomatoes</a> and <a href='/misc/veggies#onion'>onion</a>, and add to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>. Season with <a href='/misc/veggies#garlic'>garlic</a>, <a href='/misc/fruit#lemon'>lemon</a>, parsley, basil, and salt.  Serve on a slice of toasted <a href='/recipes/whole-wheat-baguettes'>Whole Wheat Baguettes</a>, or spoon on top of the <a href='/misc/meat#chicken-breast'>chicken</a>
 - <img src='/assets/Food/Chicken/Breaded/cover.jpg' alt='' class='instruction-image'>
 Notes:
 - |

@@ -67,7 +67,7 @@ Instructions:
 - Transfer to the fridge, and allow it to chill for at least 4 hours (ideally overnight) before slicing.
 - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/cut.jpg' alt='' class='instruction-image'>
 Notes:
-- For a homemade filling with same taste and nutrition facts, mix together the following ingredients in a <a href='https://amzn.to/4adxMft'>large bowl</a> before adding to the crust.
+- For a homemade filling with same taste and nutrition facts, mix together the following ingredients in a <a href='https://amzn.to/4zyFnzN'>large bowl</a> before adding to the crust.
 - INGREDIENTS(chobani20gproteinx5)
 - <img src='/assets/Food/Healthier Dessert/Easy cheesecake/both.jpg' alt='' class='instruction-image'>
 

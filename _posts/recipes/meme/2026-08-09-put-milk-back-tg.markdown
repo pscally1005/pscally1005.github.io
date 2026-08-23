@@ -68,7 +68,7 @@ Instructions:
 
 - |
   <i>7 am Sunday</i><br>
-  Add <a href='/misc/beans'>dried beans</a> and salt to a <a href='https://amzn.to/4adxMft'>large bowl</a> with 5 cups (1,200 g) of liquid.  Use all the <a href='/misc/homemade-yogurt'>liquid whey</a> you have, and supplement the rest with water.  Cover, and refrigerate for 8 hours so the <a href='/misc/beans'>beans</a> can soak.
+  Add <a href='/misc/beans'>dried beans</a> and salt to a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with 5 cups (1,200 g) of liquid.  Use all the <a href='/misc/homemade-yogurt'>liquid whey</a> you have, and supplement the rest with water.  Cover, and refrigerate for 8 hours so the <a href='/misc/beans'>beans</a> can soak.
 
 - |
   <i>3 pm Sunday</i><br>

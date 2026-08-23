@@ -67,14 +67,14 @@ Description: Apple Pie might be one of my all time favorite <a href='/recipes/he
 Instructions:
 - Preheat your oven to 325F and take out a 9" circular pan
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mix together the crust ingredients (<a href='/misc/grains#oats'>oat flour</a>, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, and salt) until fully combined. The mix should be a little dry, but come together if you press it with your hands
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mix together the crust ingredients (<a href='/misc/grains#oats'>oat flour</a>, <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, cinnamon, <a href='/misc/veggies#ginger'>ginger</a>, nutmeg, and salt) until fully combined. The mix should be a little dry, but come together if you press it with your hands
 
 - Press the pie crust evenly into your pan, bringing the crust up the sides (if you can, I didn't have enough here) and making sure everything is as packed as possible. Optionally, reserve some crust for a topping (if you have enough)
 - <img src='/assets/Food/Healthier Dessert/Apple Pie/apple-pie-3.jpg' alt='' class='instruction-image'>
 
 - Blind bake the pie shell for 10 minutes at 325F. Refrigerate to cool as you prepare the filling
 
-- Wash your <a href='/misc/fruit#apple'>apples</a> (don't peel them!), thinly slice (about 1/4-1/2 inch thick), and add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Add in the rest of the filling ingredients, and mix until fully combined - <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, cornstarch, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, cinnamon, nutmeg, <a href='/misc/veggies#ginger'>ginger</a>, allspice, cloves, and salt
+- Wash your <a href='/misc/fruit#apple'>apples</a> (don't peel them!), thinly slice (about 1/4-1/2 inch thick), and add to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Add in the rest of the filling ingredients, and mix until fully combined - <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, cornstarch, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, cinnamon, nutmeg, <a href='/misc/veggies#ginger'>ginger</a>, allspice, cloves, and salt
 
 - Increase your oven temperature to 350F, and add the filling to the pie crust. Evenly spread out the <a href='/misc/fruit#apple'>apples</a>, and top with any remaining crust mix for a crumble topping
 - <img src='/assets/Food/Healthier Dessert/Apple Pie/apple-pie-6.jpg' alt='' class='instruction-image'>

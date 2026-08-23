@@ -61,7 +61,7 @@ Instructions:
 - Using a <a href='https://amzn.to/4q0AUjI'>food processor</a>, pulse 1 cup (128 g) <a href='/misc/nuts#pecans'>pecans</a> a few times, until roughly chopped, and set aside. With the remaining 1/2 cup (64 g), blend until you have a fine crumb. The former (roughly chopped <a href='/misc/nuts#pecans'>pecans</a>) will be folded into the cookie dough, whereas the latter (<a href='/misc/nuts#pecans'>pecan</a> meal) will be used for rolling prior to baking
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/nuts.jpg' alt='' class='instruction-image'>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a>, beat your softened <a href='/misc/dairy#cream-cheese'>cream cheese</a> until light and fluffy, about 3 minutes
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with a <a href='https://amzn.to/45yqsbM'>hand mixer</a>, beat your softened <a href='/misc/dairy#cream-cheese'>cream cheese</a> until light and fluffy, about 3 minutes
 - <img src='/assets/Food/Healthier Dessert/Pecan CC/cream-cheese.jpg' alt='' class='instruction-image'>
 
 - Add in the <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and salt. Beat for an additional 2 minutes, until fully combined and airy

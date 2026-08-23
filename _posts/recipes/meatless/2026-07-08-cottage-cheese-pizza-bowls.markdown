@@ -56,9 +56,9 @@ tags:
 - oregano
 Description: Pizza? In a bowl? <a href='/misc/high-protein'>High protein</a>? And <a href='/recipes/meatless'>vegetarian</a>?  This High Protein Pizza Bowl mixes together <a href='/misc/dairy#cottage-cheese'>cottage cheese</a> and tomato sauce as a base, and is topped with <a href='/misc/dairy#mozzarella'>mozzarella</a> for a perfect pizza in a bowl.  It's a <a href='/misc/carbs'>low carb</a> and lower <a href='/misc/fats'>fat</a> option, that has 35 g of <a href='/misc/protein'>protein</a> in a 350 <a href='/misc/calories'>calorie</a> bowl.
 Instructions:
-- Add <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/veggies#tomato'>tomato paste</a>, balsamic vinegar, <a href='/misc/veggies#garlic'>minced garlic</a>, dried basil, dried oregano, garlic powder, onion powder, and red pepper flakes to a <a href='https://amzn.to/4adxMft'>medium bowl</a>.  Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
+- Add <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>, <a href='/misc/veggies#tomato'>tomato paste</a>, balsamic vinegar, <a href='/misc/veggies#garlic'>minced garlic</a>, dried basil, dried oregano, garlic powder, onion powder, and red pepper flakes to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>.  Mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 
-- Divide across 2 <a href='https://amzn.to/4adxMft'>small microwave safe bowls</a>, about 340 g each. Top each bowl with 1/4 cup (28 g) <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>. Add on any other desired toppings.
+- Divide across 2 <a href='https://amzn.to/4zyFnzN'>small microwave safe bowls</a>, about 340 g each. Top each bowl with 1/4 cup (28 g) <a href='/misc/dairy#mozzarella'>shredded mozzarella</a>. Add on any other desired toppings.
 - <img src='/assets/Food/Meatless/CC Pizza Bowls/two-bowls.jpg' alt='' class='instruction-image'>
 
 - Cover with a plate and microwave for 1 1/2 - 2 minutes, until the <a href='/misc/dairy#mozzarella'>mozzarella</a> is melted. Let cool for 1 minute before eating.

@@ -58,7 +58,7 @@ Description: |
 
   For other <a href='/copycat'>copycat</a> <a href='/misc/fake-healthy-foods#nutella'>Nutella</a> recipes, check out my <a href='/recipes/nutella'>Roasted Hazelnut Nutella</a>, <a href='/recipes/quick-nutella'>Single Serving Quick Nutella</a>, and <a href='/recipes/chickpea-nutella'>No Nut Chickpea Nutella</a>!
 Instructions:
-- Add <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a> to a <a href='https://amzn.to/4adxMft'>small bowl</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and thin out to desired consistency with <a href='/misc/dairy#almond-milk'>almond milk</a>.
+- Add <a href='/misc/dairy#yogurt'>yogurt</a>, <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>, <a href='/misc/dairy#whey'>whey</a>, and <a href='/misc/chocolate-benefits'>cocoa powder</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, and thin out to desired consistency with <a href='/misc/dairy#almond-milk'>almond milk</a>.
 - <img src='/assets/Food/Sweet Spreads/Protein Nutella/bowl.jpg' alt='' class='instruction-image'>
 Notes:
 - Below is a table comparing the nutrition facts of <a href='#recipe'>my homemade spread</a> to standard <a href='https://amzn.to/48ZvAra'>Nutella</a> <b>per 100 g</b>.  As you can see, the <a href='#recipe'>homemade version contains</a> significantly fewer <a href='/misc/calories'>calories</a>, <a href='/misc/fats'>unhealthy fats</a>, and <a href='/misc/hidden-sugar'>sugar</a>, while having substantially more <a href='/misc/protein'>protein</a> and <a href='/misc/fiber'>fiber</a>.

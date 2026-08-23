@@ -57,9 +57,9 @@ Description: Here is a giant chocolate chip cookie. Because that's what cookie c
 Instructions:
 - Preheat the oven to 350F, and lightly grease a <a href='https://amzn.to/465aAxx'>10" cast iron pan</a> with oil
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, cover your <a href='/misc/fruit#dates'>dates</a> with hot water, and let soak for 10 minutes to soften. Drain the soaking liquid, and transfer to a <a href='https://amzn.to/4q0AUjI'>food processor</a>
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, cover your <a href='/misc/fruit#dates'>dates</a> with hot water, and let soak for 10 minutes to soften. Drain the soaking liquid, and transfer to a <a href='https://amzn.to/4q0AUjI'>food processor</a>
 
-- To the <a href='https://amzn.to/4q0AUjI'>food processor</a> with the <a href='/misc/fruit#dates'>dates</a>, add an entire can of <a href='/misc/beans#chickpeas'>chickpeas</a> (NOT drained or rinsed), <a href='/misc/fruit#banana'>bananas</a>, and <a href='/misc/nuts#peanuts'>peanut butter</a> (or any other <a href='/recipes/natural-peanut-butter'>nut/seed butter</a>). Blend until smooth, and no chunks remain. Transfer to a <a href='https://amzn.to/4adxMft'>large bowl</a>
+- To the <a href='https://amzn.to/4q0AUjI'>food processor</a> with the <a href='/misc/fruit#dates'>dates</a>, add an entire can of <a href='/misc/beans#chickpeas'>chickpeas</a> (NOT drained or rinsed), <a href='/misc/fruit#banana'>bananas</a>, and <a href='/misc/nuts#peanuts'>peanut butter</a> (or any other <a href='/recipes/natural-peanut-butter'>nut/seed butter</a>). Blend until smooth, and no chunks remain. Transfer to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>
 
 - With a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>, mix in <a href='/misc/nuts#almonds'>almond</a> (or <a href='https://amzn.to/43MkDqr'>vanilla</a>) extract, baking powder, baking soda, and salt. Mix in the <a href='/misc/grains#oats'>oat flour</a> until fully combined. Fold in half the chocolate chips, reserving the rest for the top
 - <img src='/assets/Food/Healthier Dessert/Cookie Skillet/cookie-skillet-bowl.jpg' alt='' class='instruction-image'>

@@ -60,7 +60,7 @@ Description: These baked <a href='/misc/meat#chicken-thighs'>chicken thighs</a> 
 Instructions:
 - Preheat your oven to 250F (not a typo), and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper
 
-- Add your <a href='/misc/meat#chicken-thighs'>chicken thighs</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a> and the spices. Mix until fully combined. Transfer to your <a href='https://amzn.to/45sRAsB'>baking sheet</a>
+- Add your <a href='/misc/meat#chicken-thighs'>chicken thighs</a> to a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a> and the spices. Mix until fully combined. Transfer to your <a href='https://amzn.to/45sRAsB'>baking sheet</a>
 
 - Roast at 250F for about 45 minutes
 

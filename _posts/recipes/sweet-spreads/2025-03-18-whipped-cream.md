@@ -56,7 +56,7 @@ tags:
 - cream of tartar
 Description: Whipped cream is already a surprisingly <a href='/misc/calories'>low calorie</a> food, but this takes it to a whole other level. Without the <a href='/misc/fats'>fat</a> of the cream and <a href='/misc/carbs'>carbs</a> of the <a href='/misc/hidden-sugar'>sugar</a>, this vegan and <a href='/misc/hidden-sugar'>sugar free</a> whipped cream alternative has practically <a href='/misc/calories'>0 calories</a> per serving. It tastes just like the real deal though - sweet, fluffy, airy, and no taste of <a href='/misc/beans'>beans</a>. This recipe makes a little over 6 cups (245 g) of whipped cream.
 Instructions: 
-- Drain your can of <a href='/misc/beans#chickpeas'>chickpeas</a> using a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a> over a bowl. Add the aquafaba (<a href='/misc/beans#chickpeas'>chickpea</a> water) to a <a href='https://amzn.to/4adxMft'>large bowl</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Beat on high for about 5 minutes, until stiff peaks
+- Drain your can of <a href='/misc/beans#chickpeas'>chickpeas</a> using a <a href='https://amzn.to/4q2FwWu'>fine mesh strainer</a> over a bowl. Add the aquafaba (<a href='/misc/beans#chickpeas'>chickpea</a> water) to a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with <a href='/misc/fruit#lemon-juice'>lemon juice</a>. Beat on high for about 5 minutes, until stiff peaks
 
 - Add in the <a href='https://amzn.to/43MkDqr'>vanilla</a> and <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a>, and beat for another 2 minutes to combine. Use as you would whipped cream, like to top my <a href='/recipes/banana-cream-pie'>Banana No-Cream Pie</a>
 Notes:

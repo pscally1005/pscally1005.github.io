@@ -56,10 +56,10 @@ Description: |
 
   But <a href='/recipes/rainbow-cookies-v3'>rainbow cookies</a> are quite an extensive effort. So here's a challenge for myself. Can I develop an easier way to make <a href='/recipes/rainbow-cookies-v3'>rainbow cookies</a>, and get the whole thing done in under an hour?  The answer is yes. I'm taking some shortcuts by making the dough a no bake recipe, only melting <a href='/misc/chocolate-benefits'>chocolate</a> on one side, and using mashed <a href='/misc/fruit#raspberry'>frozen raspberries</a> as the filling.
 Instructions:
-- Start with the jam so it has time to thicken. Add your <a href='/misc/fruit#raspberry'>berries</a> to a <a href='https://amzn.to/4adxMft'>medium bowl</a>, and microwave (covered) for 4 minutes, or until you can easily mash them with a fork. Stir in the <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and <a href='/misc/seeds#chia-seeds'>chia seeds</a>. Refrigerate as you prepare the layers
+- Start with the jam so it has time to thicken. Add your <a href='/misc/fruit#raspberry'>berries</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, and microwave (covered) for 4 minutes, or until you can easily mash them with a fork. Stir in the <a href='/recipes/sugar-free-syrup'>liquid sweetener</a>, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, and <a href='/misc/seeds#chia-seeds'>chia seeds</a>. Refrigerate as you prepare the layers
 - <img src='/assets/Food/Meme/Lazy rainbow/jam.jpg' alt='' class='instruction-image'>
 
-- Prepare 3 <a href='https://amzn.to/4adxMft'>medium bowls</a> in a line. From left to right, these are your red, white, and green layers. Add pickled beet juice to the bowl on the left. Mash your <a href='/misc/fruit#avocado'>avocado</a> with the back of a fork on the bowl on the right.
+- Prepare 3 <a href='https://amzn.to/4zyFnzN'>medium bowls</a> in a line. From left to right, these are your red, white, and green layers. Add pickled beet juice to the bowl on the left. Mash your <a href='/misc/fruit#avocado'>avocado</a> with the back of a fork on the bowl on the right.
 - <img src='/assets/Food/Meme/Lazy rainbow/bowls1.jpg' alt='' class='instruction-image'>
 
 - Add the cookie layer ingredients into their respective bowls, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to make a crumbly dough
@@ -80,7 +80,7 @@ Instructions:
 - Finally, repeat with the green layer on top of the second jam layer
 - <img src='/assets/Food/Meme/Lazy rainbow/green.jpg' alt='' class='instruction-image'>
 
-- Add chocolate chips, <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> to a <a href='https://amzn.to/4adxMft'>small bowl</a>. Microwave for 30 seconds, and stir with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to make your ganache
+- Add chocolate chips, <a href='/misc/nuts#coconut'>coconut oil</a>, and <a href='/misc/dairy#almond-milk'>almond milk</a> to a <a href='https://amzn.to/4zyFnzN'>small bowl</a>. Microwave for 30 seconds, and stir with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to make your ganache
 - <img src='/assets/Food/Meme/Lazy rainbow/ganache.jpg' alt='' class='instruction-image'>
 
 - Pour the melted chocolate on top of the green layer, carefully and evenly spreading it to all sides

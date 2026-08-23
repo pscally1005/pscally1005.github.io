@@ -59,7 +59,7 @@ Instructions:
 
 - To make your own homemade onion soup mix, combine together the following:<ul><li>1/2 cup (60 g) dried onion flakes</li><li>1 tsp (6 g) salt</li><li>1 tsp (3 g) onion powder</li><li>1 tsp (3 g) garlic powder</li><li>1 tsp (1 g) dried parsley</li><li>1/2 tsp (1.5 g) black pepper</li></ul>Alternatively, you can use 2 envelopes, or a 2 oz (57 g) box of <a href='https://amzn.to/4kz4hqQ'>onion soup mix</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, whisk together the <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, onion soup mix, and baking soda until well combined
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, whisk together the <a href='/misc/grains#whole-wheat'>whole wheat flour</a>, <a href='/misc/grains#vital-wheat-gluten'>vital wheat gluten</a>, onion soup mix, and baking soda until well combined
 
 - Pour in the <a href='/misc/dairy#buttermilk'>buttermilk</a>, and mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to get a dough. Mix in the <a href='/misc/dairy#cheddar'>shredded cheese</a>
 - <img src='/assets/Food/Meme/Onion Soup Bread/bowl.jpg' alt='' class='instruction-image'>

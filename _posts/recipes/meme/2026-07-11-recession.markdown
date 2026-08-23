@@ -69,7 +69,7 @@ Instructions:
 - |
   <i>2 pm</i><br><br>
 
-  Add your 1 lb (454 g) <a href='/misc/beans'>dried beans</a> to a <a href='https://amzn.to/4adxMft'>large bowl</a> with 5 cup (1,200 g) water and 1 tbsp (18 g) salt. Cover and refrigerate for 8 hours.<br><br>
+  Add your 1 lb (454 g) <a href='/misc/beans'>dried beans</a> to a <a href='https://amzn.to/4zyFnzN'>large bowl</a> with 5 cup (1,200 g) water and 1 tbsp (18 g) salt. Cover and refrigerate for 8 hours.<br><br>
 
   Cut your <a href='/misc/veggies#cabbage'>cabbage</a> into a medium dice. Refrigerate so it's ready for the morning (step 3).
 

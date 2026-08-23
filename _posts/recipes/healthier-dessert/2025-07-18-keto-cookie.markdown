@@ -81,7 +81,7 @@ Notes:
 
 - I'm using <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> with <a href='https://amzn.to/4lkg3Hr'>erythritol</a> as my sweetener here, but any <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> will work, such as <a href='https://amzn.to/4beiNlT'>stevia</a> or <a href='https://amzn.to/4mzsH5p'>allulose</a>
 
-- I have not tried with a <a href='/misc/seeds#flax-seeds'>flax egg</a>, but it should work.  Just mix 1 tbsp (6.5 g) <a href='/misc/seeds#flax-seeds'>ground flaxseed</a> with 3 tbsp (45 g) water in a <a href='https://amzn.to/4adxMft'>small bowl</a>, and let sit for 10 minutes before mixing into the batter
+- I have not tried with a <a href='/misc/seeds#flax-seeds'>flax egg</a>, but it should work.  Just mix 1 tbsp (6.5 g) <a href='/misc/seeds#flax-seeds'>ground flaxseed</a> with 3 tbsp (45 g) water in a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, and let sit for 10 minutes before mixing into the batter
 
 - Vanilla extract is the classic, but <a href='https://amzn.to/4khDgIM'>almond extract</a> is also great here.  You can make mint chocolate chip cookies with <a href='https://amzn.to/4xtISFR'>mint extract</a>, but cut it down to just 1/4 tsp (1.5 g).  Bonus points if you use <a href='/misc/seeds#sunflower-seeds'>sunflower seed butter</a> instead of <a href='/misc/nuts#cashews'>cashew</a> for the mint cookies, as they will turn green the next day.  For reference, see my <a href='/recipes/green-bread'>Green Bread - No Food Dye</a> and <a href='/recipes/mint-chocolate-chip-date-cookies'>Mint Chocolate Chip Date Cookies</a>
 

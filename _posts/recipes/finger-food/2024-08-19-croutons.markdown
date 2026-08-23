@@ -53,7 +53,7 @@ tags:
 - chickpeas
 Description: These super simple croutons are made using <a href='/misc/beans#cannellini-beans'>cannellini beans</a> (or any other <a href='/misc/beans'>beans</a> you have).  Depending on your <a href='https://amzn.to/44VXByC'>soy sauce</a>, they can be a great <a href='/misc/celiac'>gluten free</a> alternative, as well as being healthier than traditional croutons.  Just <a href='https://amzn.to/3FuWETp'>air fry</a> or roast the <a href='/misc/beans'>beans</a> until crispy, as use them to top a <a href='/salad'>salad</a>.  They go great with my <a href='/recipes/greek-yogurt-caesar-dressing'>Greek Yogurt Caesar Dressing</a>.
 Instructions:
-- Drain and rinse your <a href='/misc/beans'>beans</a>, and add to a <a href='https://amzn.to/4adxMft'>medium bowl</a>. Add in the rest of the ingredients (<a href='https://amzn.to/44VXByC'>soy sauce</a>, garlic powder, oregano, and paprika), and toss to combine
+- Drain and rinse your <a href='/misc/beans'>beans</a>, and add to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>. Add in the rest of the ingredients (<a href='https://amzn.to/44VXByC'>soy sauce</a>, garlic powder, oregano, and paprika), and toss to combine
 - <img src='/assets/Food/Finger Food/Croutons/croutons-raw.jpg' alt='' class='instruction-image'>
 
 - <a href='https://amzn.to/3FuWETp'>Air fry</a> at 400F for 15-20 minutes, mixing halfway. You can also bake in a 400F oven instead for 30-45 minutes

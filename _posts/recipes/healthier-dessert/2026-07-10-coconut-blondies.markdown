@@ -58,7 +58,7 @@ Description: |
 Instructions:
 - Preheat your <a href='https://amzn.to/3FuWETp'>air fryer</a> to 300F on <a href='https://amzn.to/3FuWETp'>air fry</a> mode. <a href='https://amzn.to/3Hdg0gk'>Lightly grease</a> an <a href='https://amzn.to/43AzcfI'>air fryer liner</a> with <a href='/misc/olive-oil'>oil</a>
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork until smooth. Add in the rest of the ingredients (<a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, baking powder, salt, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/nuts#coconut'>coconut flakes</a>), and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork until smooth. Add in the rest of the ingredients (<a href='/misc/dairy#yogurt'>yogurt</a>, <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, baking powder, salt, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/nuts#coconut'>coconut flakes</a>), and mix until fully combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>
 
 - Transfer the batter to your <a href='https://amzn.to/43AzcfI'>air fryer liner</a>
 - <img src='/assets/Food/Healthier Dessert/Coconut Blondies/raw.jpg' alt='' class='instruction-image'>

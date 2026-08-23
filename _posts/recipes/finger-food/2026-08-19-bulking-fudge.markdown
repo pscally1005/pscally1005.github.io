@@ -69,7 +69,7 @@ Description: |
 
   This easy bittersweet fudge is made with just 3 simple ingredients - melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>.  I love this bittersweet treat, but you can <a href='#notes'>add some sweetener to taste</a> if you like it a bit sweeter than I do.  For a similar (but sweetened) fudge recipe, check out my <a href='/recipes/sugar-free-fudge'>3 Ingredient Sugar Free Fudge</a>.
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for about a minute, until fully melted. Stir in <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>. <a href='#notes'>Add a sweetener</a> to taste if desired.
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, microwave <a href='/misc/nuts#coconut'>coconut oil</a> for about a minute, until fully melted. Stir in <a href='/misc/chocolate-benefits'>cocoa powder</a> and <a href='/misc/nuts#peanuts'>peanut butter</a>. <a href='#notes'>Add a sweetener</a> to taste if desired.
 - <img src='/assets/Food/FInger Food/Bulking Fudge/bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer to a parchment lined container (<a href='https://amzn.to/3Ffts2R'>mine</a>, are 6.2 x 4.5 "). Optionally top with flaky salt.

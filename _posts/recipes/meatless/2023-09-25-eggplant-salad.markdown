@@ -60,9 +60,9 @@ Instructions:
 - In a skillet or grill pan, cook the <a href='/misc/veggies#eggplant'>eggplant</a> with <a href='/misc/olive-oil'>olive oil</a> over medium heat, flipping occasionally, until fully cooked, about 10-15 minutes. Season with black pepper, garlic powder, and onion powder
 - <img src='/assets/Food/Meatless/Eggplant Salad/eggplant-salad-2.jpg' alt='' class='instruction-image'>
 
-- Meanwhile, drain and rinse a can of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add to a <a href='https://amzn.to/4adxMft'>large bowl</a>. Cut up the rest of your <a href='/misc/veggies'>vegetables</a> and add them and the <a href='/misc/dairy#feta'>feta</a> to the bowl
+- Meanwhile, drain and rinse a can of <a href='/misc/beans#chickpeas'>chickpeas</a>. Add to a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Cut up the rest of your <a href='/misc/veggies'>vegetables</a> and add them and the <a href='/misc/dairy#feta'>feta</a> to the bowl
 
-- In a <a href='https://amzn.to/4adxMft'>small bowl</a>, mix together the <a href='/salad-dressings'>dressing</a> - <a href='/misc/olive-oil'>olive oil</a>, white vinegar, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, parsley, garlic powder, onion powder, black pepper, and salt. Pour over the <a href='/salad'>salad</a>
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together the <a href='/salad-dressings'>dressing</a> - <a href='/misc/olive-oil'>olive oil</a>, white vinegar, <a href='/misc/fruit#lemon-juice'>lemon juice</a>, parsley, garlic powder, onion powder, black pepper, and salt. Pour over the <a href='/salad'>salad</a>
 
 - When the <a href='/misc/veggies#eggplant'>eggplant</a> is done, cut into bite sized pieces and mix into the <a href='/salad'>salad</a>. Serve
 Notes:

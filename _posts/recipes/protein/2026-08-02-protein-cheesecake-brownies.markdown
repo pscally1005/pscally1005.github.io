@@ -60,7 +60,7 @@ Description: New baked <a href='/protein-bar'>protein bar</a> just dropped.  Del
 Instructions:
 - Preheat your oven to 350F, and line a <a href='https://amzn.to/3YUjIkN'>9x5" bread pan</a> with parchment paper. <a href='https://amzn.to/3Hdg0gk'>Lightly grease with oil</a>.
 
-- In a <a href='https://amzn.to/4adxMft'>medium bowl</a>, mix together the brownie ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, baking powder, and salt.
+- In a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>, mix together the brownie ingredients with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined - <a href='/misc/fruit#apple'>applesauce</a>, <a href='/misc/meat#eggs'>egg</a>, <a href='/misc/dairy#whey'>whey</a>, <a href='/misc/chocolate-benefits'>cocoa</a>, baking powder, and salt.
 - <img src='/assets/Food/Protein Powder/Brownie Cheesecake/brownie-bowl.jpg' alt='' class='instruction-image'>
 
 - Transfer the batter to the pan. Wipe out the excess brownie batter from the bowl with a paper towel.

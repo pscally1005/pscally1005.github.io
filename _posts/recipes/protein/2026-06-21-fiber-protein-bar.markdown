@@ -56,7 +56,7 @@ Description: |
 
   For just 123 <a href='/misc/calories'>calories</a>, this <a href='/protein-bar'>protein bar</a> has an astounding 25 g of <a href='/misc/protein'>protein</a> and 15 g of <a href='/misc/fiber'>fiber</a>. Pair this with some <a href='/misc/nuts'>nuts</a> for some <a href='/misc/fats'>healthy fats</a>, and you have the perfect filling snack!
 Instructions:
-- Add <a href='/recipes/inulin-syrup'>fiber syrup</a>, <a href='/misc/dairy#casein'>casein</a>, water, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and cinnamon to a <a href='https://amzn.to/4adxMft'>medium bowl</a>. Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, massage the dough with your hand to fully mix
+- Add <a href='/recipes/inulin-syrup'>fiber syrup</a>, <a href='/misc/dairy#casein'>casein</a>, water, <a href='https://amzn.to/43MkDqr'>vanilla</a>, and cinnamon to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a>. Wearing a <a href='https://amzn.to/414BfHP'>kitchen glove</a>, massage the dough with your hand to fully mix
 - <img src='/assets/Food/Protein Powder/Fiber Protein Bar/bowl.jpg' alt='' class='instruction-image'>
 
 - Shape the dough into a <a href='/protein-bar'>protein bar</a>

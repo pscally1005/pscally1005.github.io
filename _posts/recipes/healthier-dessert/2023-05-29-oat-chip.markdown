@@ -55,7 +55,7 @@ tags:
 - powdered peanut butter
 Description: These oatmeal cookies are a healthier alternative to the classic chocolate chip cookie. They can be totally <a href='/misc/hidden-sugar'>sugar free</a> if using <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> and <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate chips</a>, but you can also use <a href='/misc/natural-sweeteners#honey'>honey</a> (or <a href='/misc/natural-sweeteners#maple-syrup'>maple syrup</a>) and regular chocolate chips if that's what you desire.  Or check out any of my other <a href='/cookies'>cookie recipes</a>!
 Instructions:
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork, until smooth
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, mash your <a href='/misc/fruit#banana'>banana</a> with the back of a fork, until smooth
 
 - To the bowl, add your <a href='/misc/natural-sweeteners#honey'>honey</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, baking powder, cinnamon, salt, and <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a>.  Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until fully combined
 

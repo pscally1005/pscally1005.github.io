@@ -64,7 +64,7 @@ Instructions:
 
 - The <a href='/misc/fish#shrimp'>shrimp</a> will take just a few minutes to cook, so start it when the sauce is almost done. Heat <a href='/misc/veggies#garlic'>garlic</a> and <a href='/misc/olive-oil'>oil</a> in a large nonstick pan over medium heat
 
-- In a <a href='https://amzn.to/4adxMft'>large bowl</a>, add your <a href='/misc/fish#shrimp'>shrimp</a> and seasonings (Italian seasoning, garlic powder, onion powder, lemon pepper, and paprika). If your <a href='/misc/fish#shrimp'>shrimp</a> isn't already peeled and deveined, make sure to do that first. Remove the tails too. Mix the <a href='/misc/fish#shrimp'>shrimp</a> with the spices
+- In a <a href='https://amzn.to/4zyFnzN'>large bowl</a>, add your <a href='/misc/fish#shrimp'>shrimp</a> and seasonings (Italian seasoning, garlic powder, onion powder, lemon pepper, and paprika). If your <a href='/misc/fish#shrimp'>shrimp</a> isn't already peeled and deveined, make sure to do that first. Remove the tails too. Mix the <a href='/misc/fish#shrimp'>shrimp</a> with the spices
 
 - Add to a pan and cook for 2-3 minutes each side, or until they turn from gray to pink
 
