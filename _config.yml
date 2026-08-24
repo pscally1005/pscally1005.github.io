@@ -6,7 +6,7 @@ author:
 image: "/assets/Logo/logo.png"
 
 # Google Apps Script web app URL for /misc/stocks subscribe & unsubscribe (see python/stocks/google_apps_script/)
-stocks_mailing_api_url: "https://script.google.com/macros/s/AKfycbwkXdWQXwh7lWefBvbD7E_In_yEiaisvYj1Uvm4mdW50Kw3ZvG25pDlapXhuO6pafVZ/exec"
+stocks_mailing_api_url: "https://script.google.com/macros/s/AKfycbyBKGLCP_l7UhQhyQo_Mpyd51P2PVw4VYPgBfgMoKfnTx0-2RJ1YzgTIf8Tpb3DdAlR/exec"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.

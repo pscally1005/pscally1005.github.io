@@ -81,8 +81,8 @@ def unsubscribe_by_token(token: str) -> str:
     subscribers = load_subscribers()
     row = find_by_token(subscribers, token)
     if not row:
-        raise ValueError("Invalid or expired unsubscribe link.")
-        # return "Already Subscribed."
+        # raise ValueError("Invalid or expired unsubscribe link.")
+        return "Already Subscribed."
 
     subscribers = [s for s in subscribers if s.get("token") != token]
     save_subscribers(subscribers)

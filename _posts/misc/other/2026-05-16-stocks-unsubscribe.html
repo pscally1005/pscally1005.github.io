@@ -14,30 +14,51 @@ tags:
 ---
 <p id="stock-unsub-status">Click below to confirm you want to unsubscribe from the weekday stock report.</p>
 
-<p><a id="stock-unsub-link" href="/misc/stocks" style="display:inline-block;padding:0.5rem 1.25rem;font-size:1rem">Unsubscribe</a></p>
+<form id="stock-unsub-form" method="post" style="display:inline">
+    <button
+        type="submit"
+        style="padding:0.5rem 1.25rem;font-size:1rem;cursor:pointer"
+    >
+        Unsubscribe
+    </button>
+</form>
 
 <p><a href="/misc/stocks">Back to stock report page</a></p>
 
 <script>
-(function () {
-  var apiUrl = {{ site.stocks_mailing_api_url | jsonify }};
-  var params = new URLSearchParams(window.location.search);
-  var token = params.get('token');
-  var status = document.getElementById('stock-unsub-status');
-  var link = document.getElementById('stock-unsub-link');
+  (function () {
+    var apiUrl = {{ site.stocks_mailing_api_url | jsonify }};
+    var params = new URLSearchParams(window.location.search);
+    var token = params.get('token');
 
-  if (!token) {
-    status.textContent = 'Invalid unsubscribe link (missing token).';
-    link.style.display = 'none';
-    return;
-  }
-  if (!apiUrl) {
-    status.textContent = 'Unsubscribe is not configured on this site yet.';
-    link.style.display = 'none';
-    return;
-  }
+    var status = document.getElementById('stock-unsub-status');
+    var form = document.getElementById('stock-unsub-form');
 
-  link.href = apiUrl + (apiUrl.indexOf('?') >= 0 ? '&' : '?')
-    + 'action=unsubscribe&token=' + encodeURIComponent(token);
-})();
+    if (!token) {
+      status.textContent = 'Invalid unsubscribe link (missing token).';
+      form.style.display = 'none';
+      return;
+    }
+
+    if (!apiUrl) {
+      status.textContent = 'Unsubscribe is not configured on this site yet.';
+      form.style.display = 'none';
+      return;
+    }
+
+    form.action = apiUrl;
+
+    var tokenInput = document.createElement('input');
+    tokenInput.type = 'hidden';
+    tokenInput.name = 'token';
+    tokenInput.value = token;
+
+    var actionInput = document.createElement('input');
+    actionInput.type = 'hidden';
+    actionInput.name = 'action';
+    actionInput.value = 'unsubscribe';
+
+    form.appendChild(actionInput);
+    form.appendChild(tokenInput);
+  })();
 </script>
