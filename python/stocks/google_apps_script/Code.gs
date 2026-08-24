@@ -55,6 +55,7 @@ function handleRequest_(params) {
     if (!token) {
       return redirectTo_(home + '?mailing=error&reason=invalid_link');
     }
+    console.log('UNSUBSCRIBE REQUEST', new Date().toISOString(), token);
     dispatch_(props, 'stock_unsubscribe', { token: token });
     return redirectTo_(home + '?mailing=unsubscribed');
   }
