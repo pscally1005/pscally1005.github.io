@@ -103,7 +103,15 @@ LINKS = {
         "english muffins (gf)",
         "english muffins",
         "english muffin (gf)",
-        "english muffin"
+        "english muffin",
+        "low carb english muffins",
+        "low carb english muffin",
+        "low-carb english muffins",
+        "low-carb english muffin",
+        "low carb english muffins (gf)",
+        "low carb english muffin (gf)",
+        "low-carb english muffins (gf)",
+        "low-carb english muffin (gf)"
     ],
     "/recipes/lentil-chips": [
         "lentil tortilla chips",
@@ -8612,8 +8620,8 @@ EXCLUDED_PHRASES = [
     "curry sauce",
     "coconut water",
     "coconut yogurt",
-    "english muffins",
-    "english muffin",
+    # "english muffins",
+    # "english muffin",
     # "smoothie bowls",
     # "smoothie bowl",
     # "protein shakes",
