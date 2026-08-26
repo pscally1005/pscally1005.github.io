@@ -58,7 +58,7 @@ tags:
 - cinnamon
 - oatmeal raisin
 Description: |
-  These <a href='/cookies'>cookies</a> are similar to my <a href='/recipes/monk-fruit-cookies'>Granulated Monk Fruit Cookies</a>, as they're customizable and <a href='/misc/hidden-sugar'>sugar free</a>. Instead of a <a href='https://amzn.to/4ceFnvP'>granular sweetener</a> though, these use a <a href='/recipes/sugar-free-syrup'>liquid zero calorie sweetener</a>, so that way you can make them with whatever sweet device you have on hand.<br><br>
+  These cookies are similar to my <a href='/recipes/monk-fruit-cookies'>Granulated Monk Fruit Cookies</a>, as they're customizable and <a href='/misc/hidden-sugar'>sugar free</a>. Instead of a <a href='https://amzn.to/4ceFnvP'>granular sweetener</a> though, these use a <a href='/recipes/sugar-free-syrup'>liquid zero calorie sweetener</a>, so that way you can make them with whatever sweet device you have on hand.<br><br>
 
   Feel free to mix up the flours (<a href='/misc/grains#whole-wheat'>whole wheat</a>, <a href='/misc/nuts#almonds'>almond</a>, <a href='/misc/grains#oats'>oat flour</a>, etc.) or the mix-ins (chocolate chips, chopped <a href='/misc/nuts'>nuts</a>, <a href='/misc/fruit#raisins'>raisins</a>, etc.).<br><br>
 
@@ -66,7 +66,7 @@ Description: |
 Instructions:
 - In a bowl, mix together the base ingredients - <a href='/recipes/sugar-free-syrup'>sugar free syrup</a> (or any other <a href='/misc/natural-sweeteners#maple-syrup'>liquid sweetener</a>), <a href='/misc/fruit#apple'>unsweetened applesauce</a>, <a href='https://amzn.to/43MkDqr'>vanilla extract</a>, baking soda, and salt.
 
-- Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is a mix of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/grains#oats'>oat flour</a>, with some <a href='/misc/chocolate-benefits'>dark chocolate</a> chips folded in. Let the dough chill in the fridge for at least 30 minutes.
+- Choose your flavor (see <a href='#notes'>notes</a> below). Here, the flour is a mix of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/grains#oats'>oat flour</a>, with some dark chocolate chips folded in. Let the dough chill in the fridge for at least 30 minutes.
 - <img src='/assets/Food/Healthier Dessert/SF Syrup/sf-syrup-2.jpg' alt='' class='instruction-image'>
 
 - Line a <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment, and preheat your oven to 350F.
@@ -74,7 +74,7 @@ Instructions:
 - Scoop dough onto the sheet (~22 g each), and flatten into a round and thin cookie (they won't flatten or spread as they bake).
 - <img src='/assets/Food/Healthier Dessert/SF Syrup/sf-syrup-3.jpg' alt='' class='instruction-image'>
 
-- Bake at 350F for about 8 minutes, or until lightly golden brown.  Let the <a href='/cookies'>cookies</a> cool on the pan for 5 minutes, then transfer to a <a href='https://amzn.to/4qQNmn2'>cooling rack</a>
+- Bake at 350F for about 8 minutes, or until lightly golden brown.  Let the cookies cool on the pan for 5 minutes, then transfer to a <a href='https://amzn.to/4qQNmn2'>cooling rack</a>
 Notes:
 - <b>Chocolate Chunk</b> - <a href='/misc/grains#whole-wheat'>whole wheat flour</a> (1 cup, 120 g), and chopped <a href='/recipes/monkfruit-chocolate-chunks'>sugar free chocolate</a> (1/4 cup, 45 g).
 
@@ -86,6 +86,6 @@ Notes:
 
 - <b>Coconut</b> - blended <a href='/misc/nuts#coconut'>unsweetened coconut flakes</a> (1 cup, 100 g), and a drizzle of melted chocolate on the baked <a href='/cookies'>cookies</a> at the end.
 
-- You can also make this into a cookie cake by adding all the raw batter to a parchment lined and lightly oiled 9" cake pan.  Bake for about 20 minutes at 350F, or until a toothpick comes out clean.  This particular version uses honey as the sweetener instead of sugar free syrup, and uses whole wheat as its flour.
+- You can also make this into a cookie cake by adding all the raw batter to a parchment lined and <a href='https://amzn.to/3Hdg0gk'>lightly oiled</a> <a href='https://amzn.to/4mxxkxl'>9" cake pan</a>.  Bake for about 20 minutes at 350F, or until a toothpick comes out clean.  This particular version uses <a href='/misc/natural-sweeteners#honey'>honey</a> as the sweetener instead of <a href='/recipes/sugar-free-syrup'>sugar free syrup</a>, and uses <a href='/misc/grains#whole-wheat'>whole wheat</a> as its flour.
 - <img src='/assets/Food/Healthier Dessert/SF Syrup/cookie-cake.jpg' alt='' class='instruction-image'>
 ---

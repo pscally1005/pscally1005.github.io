@@ -738,30 +738,30 @@ def vol_from_mass(food, mass, vol):
             v = "10 tbsp"
 
     # Lentils
-    elif food == "Red lentils" or food == "Red split lentils" or food == "Green lentils" or food == "Brown lentils" or food == "Lentils":
-        if mass == "48":
+    elif food == "Red lentils" or food == "Red split lentils" or food == "Green lentils" or food == "Brown lentils" or food == "Lentils" or food == "Dried beans" or food == "Barley":
+        if mass == "48" or mass == "50":
             v = "1/4 cup"
         elif mass == "64":
             v = "1/3 cup"
-        elif mass == "96":
+        elif mass == "96" or mass == "100":
             v = "1/2 cup"
         elif mass == "128":
             v = "2/3 cup"
         elif mass == "144" or mass == "150":
             v = "3/4 cup"
-        elif mass == "192":
+        elif mass == "192" or mass == "200":
             v = "1 cup"
         elif mass == "240":
             v = "1 1/4 cup"
         elif mass == "256":
             v = "1 1/3 cup"
-        elif mass == "288":
+        elif mass == "288" or mass == "300":
             v = "1 1/2 cup"
         elif mass == "320":
             v = "1 2/3 cup"
         elif mass == "336":
             v = "1 3/4 cup"
-        elif mass == "384":
+        elif mass == "384" or mass == "400":
             v = "2 cup"
 
     # Frozen corn
@@ -869,7 +869,7 @@ def vol_from_mass(food, mass, vol):
             v = "1/2 cup"
         elif mass == "120":
             v = "2/3 cup"
-        elif mass == "135":
+        elif mass == "135" or mass == "140":
             v = "3/4 cup"
         elif mass == "180":
             v = "1 cup"

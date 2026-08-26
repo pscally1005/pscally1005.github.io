@@ -50,7 +50,7 @@ tags:
 - roasted
 - carb
 - vic
-Description: Baked <a href='/misc/veggies#sweet-potato'>Sweet Potatoes</a> are possibly the easiest <a href='/recipes/sides'>side</a> to a meal of all time. Just prick it with a fork, wrap it, and bake it. They're great on their own, not even needing any spices if you don't want any. <a href='/misc/veggies#sweet-potato'>Sweet potatoes</a> are a great source of <a href='/misc/fiber'>fiber</a> and <a href='/misc/nutrient-alphabet#A'>vitamin A</a>, and help you in feeling full. For my other stable <a href='/misc/carbs'>carb</a> <a href='/recipes/sides'>side</a>, check out <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a>.
+Description: Baked Sweet Potatoes are possibly the easiest <a href='/recipes/sides'>side</a> to a meal of all time. Just prick it with a fork, wrap it, and bake it. They're great on their own, not even needing any spices if you don't want any. <a href='/misc/veggies#sweet-potato'>Sweet potatoes</a> are a great source of <a href='/misc/fiber'>fiber</a> and <a href='/misc/nutrient-alphabet#A'>vitamin A</a>, and help you in feeling full. For my other stable <a href='/misc/carbs'>carb</a> <a href='/recipes/sides'>side</a>, check out <a href='/recipes/rice-and-beans'>Classic Rice and Beans</a>.
 Instructions:
 - Wash your <a href='/misc/veggies#sweet-potato'>sweet potato</a>, and prick it a few times with a fork. Wrap in aluminum foil, and <a href='https://amzn.to/3FuWETp'>air fry</a> at 400F for about 45 minutes, or until you can easily peirce it with a fork.  You can also bake in a preheated 400F over for about 1 hour
 

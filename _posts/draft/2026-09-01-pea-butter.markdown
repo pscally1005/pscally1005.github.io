@@ -52,22 +52,22 @@ tags:
 - oat flour
 - inulin
 Description: |
-  This isn't peanut butter.  It's pea butter, aka pea protein with extra virgin olive oil.  The oil and protein powder add the exact amounts of fats and protein, while oats and inulin add net carbs and fiber.  Finally, salt and potassium chloride add sodium and potassium.<br><br>
+  This isn't <a href='/misc/nuts#peanuts'>peanut butter</a>.  It's pea butter, aka <a href='https://amzn.to/4aXnK21'>pea protein</a> with <a href='/misc/olive-oil'>extra virgin olive oil</a>.  The <a href='/misc/olive-oil'>oil</a> and <a href='/misc/dairy#whey'>protein powder</a> add the exact amounts of <a href='/misc/fats'>fats</a> and <a href='/misc/protein'>protein</a>, while <a href='/misc/grains#oats'>oats</a> and <a href='https://amzn.to/47w8h7R'>inulin</a> add <a href='/misc/carbs'>net carbs</a> and <a href='/misc/fiber'>fiber</a>.  Finally, salt and <a href='https://amzn.to/3P2NFNU'>potassium chloride</a> add <a href='/misc/sodium'>sodium</a> and <a href='/misc/potassium'>potassium</a>.<br><br>
 
-  The result is a gram for gram nutritionally identical recreation of natural peanut butter.  Use this as you would for peanut butter, whether it be spreading on an apple or for baking.  For another unhinged peanut butter recreation, check out my Reconstituted Peanut Butter!
+  The result is a gram for gram nutritionally identical recreation of <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>.  Use this as you would <a href='/misc/nuts#peanuts'>peanut butter</a>, whether it be spreading on an <a href='/misc/fruit#apple'>apple</a> or for <a href='/recipes/healthier-dessert'>baking</a>.  For another unhinged <a href='/misc/nuts#peanuts'>peanut butter</a> recreation, check out my <a href='/recipes/reconstituted-peanut-butter'>Reconstituted Peanut Butter</a>!
 Instructions:
-- Mix all ingredients together in a small bowl with a silicone spatula.  Use as you would peanut butter.
+- Mix all ingredients together in a <a href='https://amzn.to/4zyFnzN'>small bowl</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.  Use as you would <a href='/misc/nuts#peanuts'>peanut butter</a>.
 - <img src='/assets/Food/Meme/Pea Butter/bowl1.jpg' alt='' class='instruction-image'>
 Notes:
-- I'm using EVOO, but any other oil, like virgin coconut oil or avocado oil would work here.
+- I'm using <a href='/misc/olive-oil'>EVOO</a>, but any other <a href='/misc/olive-oil'>oil</a>, like <a href='/misc/nuts#coconut'>virgin coconut oil</a> or avocado oil would work here.
 
-- Here I spread some <a href='#recipe'>pea butter</a> on a Sourdough Discard Flatbread for a quick snack.
+- Here I spread some <a href='#recipe'>pea butter</a> on a <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbread</a> for a quick snack.
 - <img src='/assets/Food/Meme/Pea Butter/flatbread.jpg' alt='' class='instruction-image'>
 
-- <a href='#recipe'>This recipe</a> makes exactly 2 tbsp (32 g) of <a href='#recipe'>pea butter</a> to perfectly replicate a 2 tbsp (32 g) serving of peanut butter.  Simply scale this recipe up by x8 to replace 1 cup (256 g) of peanut butter.  The recipe to replicate a cup of nut butter is below.
+- <a href='#recipe'>This recipe</a> makes exactly 2 tbsp (32 g) of <a href='#recipe'>pea butter</a> to perfectly replicate a 2 tbsp (32 g) serving of <a href='/misc/nuts#peanuts'>peanut butter</a>.  Simply scale this recipe up by x8 to replace 1 cup (256 g) of <a href='/misc/nuts#peanuts'>peanut butter</a>.  The recipe to replicate 1 cup (256 g) of <a href='/recipes/natural-peanut-butter'>nut butter</a> is below.
 - INGREDIENTS(peabuttercup)
 
-- Below is a nutritional comparison of <a href='#recipe'>this pea butter</a> to natural peanut butter, per 2 tbsp (32 g).  As you can see, they're virtually identical.
+- Below is a nutritional comparison of <a href='#recipe'>this pea butter</a> to <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, per 2 tbsp (32 g).  As you can see, they're virtually identical.
 - |
   COMPARE(
     "peabutter",

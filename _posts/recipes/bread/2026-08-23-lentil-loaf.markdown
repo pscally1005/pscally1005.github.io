@@ -59,7 +59,7 @@ Description: This simple small loaf of <a href='/recipes/bread'>bread</a> is <a 
 Instructions:
 - Soak your <a href='/misc/beans#red-lentils'>lentils</a> in water at room temperature for 2 hours.
 
-- Preheat your oven to 350F. Line a <a href='https://amzn.to/3Ffts2R'>small glass meal prep container</a> (mine are 6.2" x 4.5") with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
+- Preheat your oven to 350F. Line a <a href='https://amzn.to/3Ffts2R'>small glass meal prep container</a> (mine are <a href='https://amzn.to/3Ffts2R'>6.2" x 4.5"</a>) with parchment paper, and <a href='https://amzn.to/3Hdg0gk'>lightly grease with oil</a>.
 
 - Add your <a href='/misc/beans#red-lentils'>lentils</a> and soaking liquid to a <a href='https://amzn.to/3SsDLn7'>blender</a> with <a href='/misc/olive-oil'>oil</a>, <a href='/misc/dairy#yogurt'>yogurt</a>, salt, paprika, garlic powder, onion powder, and rosemary. Blend until smooth.
 - <img src='/assets/Food/Bread/Lentil Loaf/blend.jpg' alt='' class='instruction-image'>
@@ -75,26 +75,26 @@ Instructions:
 Notes:
 - Any kind of <a href='/misc/beans#red-lentils'>lentils</a> will work here.  <a href='/misc/beans#brown-lentils'>Brown</a>, <a href='/misc/beans#red-lentils'>red</a>, <a href='/misc/beans#green-lentils'>green</a>; whatever you got.  I went with <a href='/misc/beans#brown-lentils'>brown lentils</a> here.
 
-
-- |
-  <div id='oats' class='table-of-contents-2'></div>
-  Here, I made the same <a href='#recipe'>lentil loaf</a> but I used 2 cups (160 g) of <a href='/misc/grains#oats'>rolled oats</a> in place of <a href='/misc/beans#brown-lentils'>lentils</a>.
-- <img src='/assets/Food/Bread/Lentil Loaf/oats.jpg' alt='' class='instruction-image'>
-
-- |
-  <div id='bulgur' class='table-of-contents-2'></div>
-  You can even use 1 cup (140 g) of raw <a href='/misc/grains#bulgur'>bulgur</a> in place of <a href='/misc/beans#brown-lentils'>lentils</a>, but then it won't be <a href='/misc/celiac'>gluten free</a>.
-- <img src='/assets/Food/Bread/Lentil Loaf/bulgur.jpg' alt='' class='instruction-image'>
+- You can even use other things besides <a href='/misc/beans#brown-lentils'>lentils</a>.  Below are some examples.  Note that while the volumes will change, the mass is <i>roughly</i> the same.  Also note that <a href='/misc/grains#bulgur'>bulgur</a> and <a href='/misc/grains#barley'>barley</a> are not <a href='/misc/celiac'>gluten free</a>.
+- INGREDIENTS(lentilloafoptions)
 
 - |
   COMPARE(
     "lentilloaf",
     "oatloaf",
-    "bulgurloaf";
+    "bulgurloaf",
+    "riceloaf",
+    "barleyloaf",
+    "quinoaloaf",
+    "beanloaf";
 
-    "<a href='#recipe'>Lentils</a>",
-    "<a href='#oats'>Oats</a>",
-    "<a href='#bulgur'>Bulgur</a>";
+    "<a href='/misc/beans#brown-lentils'>Lentils</a>",
+    "<a href='/misc/grains#oats'>Oats</a>",
+    "<a href='/misc/grains#bulgur'>Bulgur</a>",
+    "<a href='/misc/grains#brown-rice'>Rice</a>",
+    "<a href='/misc/grains#barley'>Barley</a>",
+    "<a href='/misc/grains#quinoa'>Quinoa</a>",
+    "<a href='/misc/beans#black-beans'>Beans</a>";
 
     "Calories",
     "Protein",
@@ -102,5 +102,7 @@ Notes:
     "Net Carbs",
     "Fiber"
   )
-- <img src='/assets/Food/Bread/Lentil Loaf/oats-and-bulgur.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/oats-and-bulgur.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Bread/Lentil Loaf/oats.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Bread/Lentil Loaf/bulgur.jpg' alt='' class='instruction-image'>
 ---

@@ -713,7 +713,7 @@ def grams(food, mass, vol):
             m = "60"
 
     # Lentils
-    elif food == "Red lentils" or food == "Red split lentils" or food == "Green lentils" or food == "Brown lentils" or food == "Lentils":
+    elif food == "Red lentils" or food == "Red split lentils" or food == "Green lentils" or food == "Brown lentils" or food == "Lentils" or food == "Dried beans" or food == "Barley":
         if vol == "1/4 cup":
             m = "48"
         elif vol == "1/3 cup":

@@ -7479,6 +7479,9 @@ EXCLUDED_PHRASES = [
     "certainly be baking",
     "lemon, lime, grapefruit, hot chocolate, and pumpkin spice",
     "tortilla into 96 chips",
+    "wrap it",
+    "chocolate chunk",
+    "chocolate chunks",
     "wrap in",
     "homemade electrolyte powder!  This is a bulk base recipe",
     "<i>Lemon</i>",
@@ -8194,7 +8197,12 @@ EXCLUDED_PHRASES = [
     "egg noodle",
     "egg pasta",
     # "oatmeal raisin",
+    "<b>oatmeal raisin</b>",
+    "<b>peanut chocolate</b>",
+    "<b>almond</b>",
+    "<b>coconut</b>",
     "noodle soup",
+    "as its flour",
     "noodle stew",
     "chicken noodle",
     # "salsa chicken",
@@ -9444,7 +9452,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-01")):
+            if not file.startswith(("2026-08-23")):
                 continue
 
             # exclude some files
