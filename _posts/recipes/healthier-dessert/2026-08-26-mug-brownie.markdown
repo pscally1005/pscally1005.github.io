@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Healthy Mug Brownie
-date:   2026-08-23 00:00:00 -0500
+date:   2026-08-26 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no

@@ -68,7 +68,7 @@ Instructions:
 Notes:
 - Any kind of <a href='/misc/beans#red-lentils'>lentils</a> will work here.  <a href='/misc/beans#brown-lentils'>Brown</a>, <a href='/misc/beans#red-lentils'>red</a>, <a href='/misc/beans#green-lentils'>green</a>; whatever you got.  I went with <a href='/misc/beans#brown-lentils'>brown lentils</a> here.
 
-- To cut the large <a href='/recipes/tortilla'>tortilla</a> into 96 <a href='/misc/fake-healthy-foods#chips'>chips</a>, what I did was cut it into quarters, then each quarter in half length-wise.  Then did 5 cuts to make 6 equal squares, and then cut each square in half diagonally.
+- To cut the large tortilla into 96 chips, what I did was cut it into quarters, then each quarter in half length-wise.  Then did 5 cuts to make 6 equal squares, and then cut each square in half diagonally.
 
 - These chips will crisp up more as they cool on the <a href='https://amzn.to/4qQNmn2'>wire rack</a>, being cooled and crunchy after about 30 minutes.  The next day though they will soften again.  It's best to eat these warm, so reheat by <a href='https://amzn.to/3FuWETp'>air frying</a> for about 3 minutes at 400F.
 ---
