@@ -92,4 +92,7 @@ Notes:
 - <b>Almond</b> - <a href='https://amzn.to/4khDgIM'>almond extract</a> (1/2 tsp, 2.5 g), and <a href='/misc/nuts#almonds'>almond flour</a> (1 cup, 112 g).
 
 - <b>Coconut</b> - blended <a href='/misc/nuts#coconut'>unsweetened coconut flakes</a> (1 cup, 100 g), and a drizzle of melted chocolate on the baked <a href='/cookies'>cookies</a> at the end.
+
+- You can also make this into a cookie cake by adding all the raw batter to a parchment lined and lightly oiled 9" cake pan.  Bake for about 20 minutes at 350F, or until a toothpick comes out clean.  This particular version uses whole wheat as its flour.
+- <img src='/assets/Food/Healthier Dessert/SF Syrup/cookie-cake.jpg' alt='' class='instruction-image'>
 ---

@@ -11,7 +11,9 @@ def vol_from_mass(food, mass, vol):
 
     # Sugar, etc.
     if food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar" or food == "Dry yeast":
-        if mass == "4":
+        if mass == "2" or mass == "2.4":
+            v = "1/2 tsp"
+        elif mass == "4":
             v = "1 tsp"
         elif mass == "6":
             v = "1/2 tbsp"
@@ -19,7 +21,7 @@ def vol_from_mass(food, mass, vol):
             v = "2 tsp"
         elif mass == "12" or mass == "12.5" or mass == "15":
             v = "1 tbsp"
-        elif mass == "16" or mass == "20":
+        elif mass == "16" or mass == "20" or mass == "19.2":
             v = "4 tsp"
         elif mass == "25" or mass == "24":
             v = "2 tbsp"
@@ -989,7 +991,9 @@ def vol_from_mass(food, mass, vol):
 
     # Protein powder
     elif food == "Whey protein powder, unflavored" or food == "Whey protein powder, chocolate" or food == "Whey protein powder, vanilla" or food == "Nutricost Whey Unflavored Protein Powder" or food == "Casein protein powder, unflavored" or food == "Casein protein powder, chocolate" or food == "Casein protein powder, vanilla" or food == "Nutricost Casein Unflavored Protein Powder" or food == "Pea protein powder, unflavored":
-        if mass == "10":
+        if mass == "8":
+            v = "1/4 scoop"
+        elif mass == "10":
             v = "1/3 scoop"
         elif mass == "15":
             v = "1/2 scoop"
@@ -1001,7 +1005,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 1/3 scoop"
         elif mass == "45":
             v = "1 1/2 scoop"
-        elif mass == "60":
+        elif mass == "60" or mass == "64":
             v = "2 scoop"
         elif mass == "75":
             v = "2 1/2 scoop"
@@ -1408,7 +1412,7 @@ def vol_from_mass(food, mass, vol):
             v = "6 tbsp"
         elif mass == "39":
             v = "7 tbsp"
-        elif mass == "45":
+        elif mass == "45" or mass == "48":
             v = "1/2 cup"
         elif mass == "51":
             v = "1/2 cup + 1 tbsp"
@@ -1774,6 +1778,33 @@ def vol_from_mass(food, mass, vol):
             v = "1 1/2 cup"
         elif mass == "320":
             v = "2 cup"
+
+    # Salt, baking powder, baking soda
+    elif food == "Salt" or food == "Baking powder" or food == "Baking soda" or food == "Potassium Chloride" or food == "Flakey salt" or food == "Flaky salt":
+        if mass == "0.06":
+            v = "Tiny pinch"
+        elif mass == "0.15":
+            v = "Small pinch"
+        elif mass == "0.38" or mass == "0.3":
+            v = "1/16 tsp"
+        elif mass == "0.75":
+            v = "1/8 tsp"
+        elif mass == "1.5":
+            v = "1/4 tsp"
+        elif mass == "3" or mass == "2.4":
+            v = "1/2 tsp"
+        elif mass == "4.5":
+            v = "3/4 tsp"
+        elif mass == "6":
+            v = "1 tsp"
+        elif mass == "8":
+            v = "1 1/4 tsp"
+        elif mass == "9":
+            v = "1/2 tbsp"
+        elif mass == "12":
+            v = "2 tsp"
+        elif mass == "18":
+            v = "1 tbsp"
 
     # Popcorn
     elif food == "Popcorn kernels":

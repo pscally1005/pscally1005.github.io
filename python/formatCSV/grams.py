@@ -1004,7 +1004,9 @@ def grams(food, mass, vol):
 
     # Protein powder
     elif food == "Whey protein powder, unflavored" or food == "Whey protein powder, chocolate" or food == "Whey protein powder, vanilla" or food == "Nutricost Whey Unflavored Protein Powder" or food == "Casein protein powder, unflavored" or food == "Casein protein powder, chocolate" or food == "Casein protein powder, vanilla" or food == "Nutricost Casein Unflavored Protein Powder" or food == "Pea protein powder, unflavored":
-        if vol == "1/3 scoop":
+        if vol == "1/4 scoop":
+            m = "8"
+        elif vol == "1/3 scoop":
             m = "10"
         elif vol == "1/2 scoop":
             m = "15"
@@ -1947,7 +1949,9 @@ def grams(food, mass, vol):
 
     # Sugar, etc.
     elif food == "Granulated sugar" or food == "Brown sugar" or food == "Granular sweetener: sugar, erythritol, stevia, etc." or food == "Allulose" or food == "Granulated monk fruit" or food == "Granulated stevia" or food == "Inulin" or food == "Coconut sugar" or food == "Date sugar" or food == "Dry yeast":
-        if vol == "1 tsp":
+        if vol == "1/2 tsp":
+            m = "2"
+        elif vol == "1 tsp":
             m = "4"
         elif vol == "1/2 tbsp":
             m = "6"

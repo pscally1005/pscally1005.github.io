@@ -50,8 +50,28 @@ tags:
 - 2 ingredient
 - two ingredient
 - powdered peanut butter
-Description: Have you ever needed <a href='/misc/nuts#peanuts'>peanut butter</a> but not had any? <a href='https://amzn.to/4sgDH9S'>Powdered peanut butter</a> is <a href='/misc/nuts#peanuts'>peanut butter</a> with most the <a href='/misc/fats'>fat</a> removed, so why not just add it back in? This is the ratio of <a href='https://amzn.to/4sgDH9S'>peanut flour</a> to oil to make <a href='/misc/nuts#peanuts'>peanut butter</a>, matching the nutrition facts of <a href='/recipes/natural-peanut-butter'>real peanut butter</a> as close as possible. I used <a href='/misc/olive-oil'>extra virgin olive oil</a>, as it's one of the healthiest <a href='/misc/fats'>fat</a> sources, but other <a href='/misc/fats'>oils</a> will work as well, such as <a href='/misc/nuts#coconut'>coconut</a> or avocado oil.  Or check out any of my other <a href='/nut-butter'>nut butter recipes</a>!
+Description: |
+  Have you ever needed <a href='/misc/nuts#peanuts'>peanut butter</a> but not had any? <a href='https://amzn.to/4sgDH9S'>Powdered peanut butter</a> is <a href='/misc/nuts#peanuts'>peanut butter</a> with most the <a href='/misc/fats'>fat</a> removed, so why not just add it back in? This is the ratio of <a href='https://amzn.to/4sgDH9S'>peanut flour</a> to oil to make <a href='/misc/nuts#peanuts'>peanut butter</a>, matching the nutrition facts of <a href='/recipes/natural-peanut-butter'>real peanut butter</a> as close as possible.<br><br>
+
+  I used <a href='/misc/olive-oil'>extra virgin olive oil</a>, as it's one of the healthiest <a href='/misc/fats'>fat</a> sources, but other <a href='/misc/fats'>oils</a> will work as well, such as <a href='/misc/nuts#coconut'>coconut</a> or avocado oil.  For another unhinged peanut butter replacement, check out my Pea Butter.  Or check out any of my other <a href='/nut-butter'>nut butter recipes</a>!
 Instructions:
-- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/olive-oil'>oil</a>. Use this <a href='/misc/nuts#peanuts'>peanut butter</a> any way you'd like. It has the consistency of <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, with a subtle <a href='/misc/olive-oil'>extra virgin olive oil</a> taste
+- In a <a href='https://amzn.to/4zyFnzN'>small bowl</a>, mix together <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> and <a href='/misc/olive-oil'>oil</a>. Use this <a href='/misc/nuts#peanuts'>peanut butter</a> any way you'd like.
 Notes:
+- It has the consistency of <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, with a subtle <a href='/misc/olive-oil'>extra virgin olive oil</a> taste.
+
+- Below is a nutritional comparison of <a href='#recipe'>this reconstituted peanut butter butter</a> to natural peanut butter, per 2 tbsp (32 g).  As you can see, they're very similar.
+- |
+  COMPARE(
+    "reconstitutedpb",
+    "pb";
+
+    "<a href='#recipe'>Reconstituted<br>Peanut<br>Butter</a>",
+    "<a href='/recipes/natural-peanut-butter'>Natural<br>Peanut<br>Butter</a>";
+
+    "Calories",
+    "Protein",
+    "Fat",
+    "Net Carbs",
+    "Fiber"
+  )
 ---
