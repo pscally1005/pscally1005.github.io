@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Avocado Bread
-date:   2026-08-19 00:00:00 -0500
+date:   2026-08-27 00:00:00 -0500
 categories:
 - Recipes
-- read
-- Draft
+- Healthier Dessert
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -22,7 +21,7 @@ vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/avocado-bread
-image: /assets/Food/Bread/Avo Bread/cover.jpg
+image: /assets/Food/Healthier Dessert/Avo Bread/cover.jpg
 file: avobread
 servingSize: 1 slice (~62 g)
 section1:
