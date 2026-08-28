@@ -646,6 +646,8 @@ def ingredients(food):
         f = "Almond butter"
     elif food == "pb" or food == "Peanut Butter, smooth" or food == "Natural peanut butter by HAMPTON FARMS" or food == "Organic natural chunky peanut butter by The Federated Group, Inc." or food == "Natural peanut butter by Kohl Corporation":
         f = "Natural peanut butter"
+    elif food == "pea-butter":
+        f = "Pea butter"
     elif food == "protein-nutella":
         f = "Protein nutella"
     elif food == "Tahini by BRANDLESS":

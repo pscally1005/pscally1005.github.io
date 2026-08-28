@@ -1075,7 +1075,7 @@ def vol_from_mass(food, mass, vol):
             v = "1 cup"
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter":
         if mass == "5" or mass == "6":
             v = "1 tsp"
         elif mass == "8":

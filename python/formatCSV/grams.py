@@ -1086,28 +1086,28 @@ def grams(food, mass, vol):
             m = "304"
 
     # Nut butters
-    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella":
+    elif food == "Almond butter" or food == "Peanut butter" or food == "Natural peanut butter" or food == "Natural peanut butter, or tahini" or food == "Walnut butter" or food == "Cashew butter" or food == "Sunflower seed butter" or food == "Sunflower butter" or food == "Pistachio butter" or food == "Pumpkin seed butter" or food == "Tahini, or any other nut/seed butter" or food == "Tahini" or food == "Nutella" or food == "Protein nutella" or food == "Pea butter":
         if vol == "1 tsp":
             m = "6"
         elif vol == "1/2 tbsp":
             m = "8"
-        elif vol == "1 tbsp":
+        elif vol == "1 tbsp" or vol == "1/2 serving" or vol == "0.5 serving":
             m = "16"
         elif vol == "1.5 tbsp" or vol == "1 1/2 tbsp":
             m = "24"
-        elif vol == "2 tbsp":
+        elif vol == "2 tbsp" or vol == "1 serving":
             m = "32"
         elif vol == "2.5 tbsp" or vol == "2 1/2 tbsp":
             m = "40"
-        elif vol == "3 tbsp":
+        elif vol == "3 tbsp" or vol == "1 1/2 serving" or vol == "1.5 serving":
             m = "48"
-        elif vol == "4 tbsp" or vol == "1/4 cup":
+        elif vol == "4 tbsp" or vol == "1/4 cup" or vol == "2 serving":
             m = "64"
         elif vol == "5 tbsp":
             m = "80"
         elif vol == "6 tbsp":
             m = "96"
-        elif vol == "8 tbsp" or vol == "1/2 cup":
+        elif vol == "8 tbsp" or vol == "1/2 cup" or vol == "4 serving":
             m = "128"
         elif vol == "12 tbsp" or vol == "3/4 cup":
             m = "196"
