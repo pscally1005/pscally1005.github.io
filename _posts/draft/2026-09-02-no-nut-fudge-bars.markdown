@@ -83,11 +83,8 @@ Instructions:
 - Pour the fudge over the oat layer, and spread evenly to all sides.
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/fudge-pan.jpg' alt='' class='instruction-image'>
 
-- Crumble the rest of the oat mixture on top, lightly pressing it into the fudge.
+- Crumble the rest of the oat mixture on top, lightly pressing it into the fudge.  Refrigerate for at least 2 hours to set before slicing and serving.
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/finished.jpg' alt='' class='instruction-image'>
-
-- Refrigerate for at least 2 hours to set before slicing and serving.
-- <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - |
   Note that <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> differs from standard <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  The former is a <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> that's <i>only</i> <a href='https://amzn.to/3SqwsMO'>monk fruit</a>.  This is hundreds of times sweeter than granulated <a href='/misc/hidden-sugar'>sugar</a> and it's typically recommended to use 1/8 tsp of <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> to replace the sweetness of 1 cup of <a href='/misc/hidden-sugar'>sugar</a>.<br><br>
@@ -97,4 +94,6 @@ Notes:
   We are using the former here <i><a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a></i> (<a href='https://amzn.to/3SqwsMO'>monk fruit</a> only), not the latter <i>regular <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></i> (<a href='https://amzn.to/4lkg3Hr'>erythritol</a> + <a href='https://amzn.to/3SqwsMO'>monk fruit</a>).  Please do not confuse these.
 
 - As my <a href='/misc/olive-oil'>oil</a> of choice in the <a href='/recipes/pea-butter'>Pea Butter</a>, I'm going with <a href='/misc/nuts#coconut'>virgin coconut oil</a> to match the <a href='/misc/nuts#coconut'>coconut oil</a> already being used in the fudge filling.
+
+- Normally I'd do a full batch in a <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a>, but today I'm doing a 1/4 batch in a <a href='https://amzn.to/4qQYEc4'>5.5 x 3.3"</a> container.
 ---

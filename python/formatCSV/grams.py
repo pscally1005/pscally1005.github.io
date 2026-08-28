@@ -2018,6 +2018,8 @@ def grams(food, mass, vol):
             m = "0.31"
         elif vol == "2 scoop":
             m = "0.62"
+        elif vol == "1/4 tsp":
+            m = "0.7"
         elif vol == "3 scoop":
             m = "0.93"
         elif vol == "4 scoop":
@@ -2032,6 +2034,8 @@ def grams(food, mass, vol):
             m = "2.48"
         elif vol == "9 scoop":
             m = "2.79"
+        elif vol == "1 tsp":
+            m = "2.8"
         elif vol == "10 scoop":
             m = "3.10"
         elif vol == "15 scoop":
