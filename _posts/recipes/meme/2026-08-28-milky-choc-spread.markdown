@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Milky Chocolate Spread
-date:   2026-08-21 00:00:00 -0500
+date:   2026-08-28 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
@@ -34,7 +33,7 @@ start4:
 section4:
 start5:
 section5:
-Prep: 5
+Prep: 2
 Rest:
 Cook:
 Source1:

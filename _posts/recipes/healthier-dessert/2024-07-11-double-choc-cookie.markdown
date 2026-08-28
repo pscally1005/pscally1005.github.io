@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Double Chocolate Date Cookies
-date:   2024-07-11 00:00:02 -0500
+date:   2024-07-11 00:00:00 -0500
 categories:
 - Recipes
 - Healthier Dessert

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chickpea Date Brownies
-date:   2024-12-29 00:00:01 -0500
+date:   2024-12-29 00:00:00 -0500
 categories: 
 - Recipes
 - Healthier Dessert
