@@ -61,23 +61,23 @@ tags:
 - pure granulated monk fruit
 - liquid monk fruit
 Description: |
-  My Peanut Butter Fudge Bars are a massive hit with anyone who's ever tried them.  Everyone loves them, there my personal favorite healthy dessert, and I'm even considering making them for my wedding.<br><br>
+  My <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a> are a massive hit with anyone who's ever tried them.  Everyone loves them, there my personal favorite <a href='/recipes/healthier-dessert'>healthy dessert</a>, and I'm even considering making them for my wedding.<br><br>
 
-  But Vic and I got some nut allergies on both sides, so it got me thinking: how can I make the beloved Peanut Butter Fudge Bars, but without nuts?<br><br>
+  But <a href='/vic'>Vic</a> and I got some <a href='/misc/nuts'>nut</a> allergies on both sides, so it got me thinking: how can I make the beloved <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a>, but without <a href='/misc/nuts'>nuts</a>?<br><br>
 
-  The answer?  Pea Butter.  My recent concoction is a gram-for-gram nutritional and culinarily identical replica of natural peanut butter.  So today, I'm taking the Peanut Butter Fudge Bars recipe, and replacing the natural peanut butter in the fudge filling with homemade pea butter.  Additionally, instead of powdered peanut butter in the oatmeal crust, I'll be using coconut flour.<br><br>
+  The answer?  <a href='/recipes/pea-butter'>Pea Butter</a>.  My recent concoction is a gram-for-gram nutritional and culinarily identical replica of <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>.  So today, I'm taking the <a href='/recipes/oatmeal-fudge-bars'>Peanut Butter Fudge Bars</a> recipe, and replacing the <a href='/recipes/natural-peanut-butter'>natural peanut butter</a> in the fudge filling with homemade <a href='/recipes/pea-butter'>pea butter</a>.  Additionally, instead of <a href='https://amzn.to/4sgDH9S'>powdered peanut butter</a> in the oatmeal crust, I'll be using <a href='/misc/nuts#coconut'>coconut flour</a>.<br><br>
 
-  Finally, in order to please the diabetics at the wedding, I want to make these fully sugar free.  This means that, instead of honey, I will be sweetening these bars with monk fruit.  I'm opting for liquid monk fruit in the base, and pure granulated monk fruit in the fudge.<br><br>
+  Finally, in order to please the <a href='/misc/diabetes'>diabetics</a> at the wedding, I want to make these fully <a href='/misc/hidden-sugar'>sugar free</a>.  This means that, instead of <a href='/misc/natural-sweeteners#honey'>honey</a>, I will be sweetening these bars with <a href='https://amzn.to/3SqwsMO'>monk fruit</a>.  I'm opting for <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a> in the base, and <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> in the fudge.<br><br>
 
-  The result is an astoundingly similar tasting bar but without the nuts, and with the added benefit of being sugar free, thus lower in net carbs, calories, and its glycemic index.  Woo-hoo!
+  The result is an astoundingly similar tasting bar but without the <a href='/misc/nuts'>nuts</a>, and with the added benefit of being <a href='/misc/hidden-sugar'>sugar free</a>, thus lower in <a href='/misc/carbs'>net carbs</a>, <a href='/misc/calories'>calories</a>, and its <a href='/misc/diabetes'>glycemic index</a>.  Woo-hoo!
 Instructions:
-- In a bowl, combine together the crust/crumble ingredients - mashed <a href='/misc/fruit#banana'>banana</a>, liquid monk fruit, <a href='https://amzn.to/43MkDqr'>vanilla</a>, coconut flour, and <a href='/misc/grains#oats'>rolled oats</a>. Mix until well combined with a silicone spatula.
+- In a bowl, combine together the crust/crumble ingredients - mashed <a href='/misc/fruit#banana'>banana</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/grains#oats'>rolled oats</a>. Mix until well combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/crumble-bowl.jpg' alt='' class='instruction-image'>
 
-- In another bowl, add the pea butter, melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and pure granulated monk fruit. Mix with a <a href='https://amzn.to/40F2aK0'>spatula</a> to make the fudge.
+- In another bowl, add the <a href='/recipes/pea-butter'>pea butter</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>. Mix with a <a href='https://amzn.to/40F2aK0'>spatula</a> to make the fudge.
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/fudge-bowl.jpg' alt='' class='instruction-image'>
 
-- In a lined <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a>, spread 2/3 of the oat mixture (~TODO g). Wearing kitchen gloves to prevent sticking, flatten to an even thickness.
+- In a lined <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a>, spread 2/3 of the oat mixture (~TODO g). Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking, flatten to an even thickness.
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/crumble-pan.jpg' alt='' class='instruction-image'>
 
 - Pour the fudge over the oat layer, and spread evenly to all sides.
@@ -90,11 +90,11 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/cut.jpg' alt='' class='instruction-image'>
 Notes:
 - |
-  Note that pure granulated monk fruit differs from standard granulated monk fruit.  The former is a granulated sweetener that's <i>only</i> monk fruit.  This is hundreds of times sweeter than granulated sugar and it's typically recommended to use 1/8 tsp of granulated monk fruit to replace the sweetness of 1 cup of sugar.<br><br>
+  Note that <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> differs from standard <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>.  The former is a <a href='https://amzn.to/4ceFnvP'>granulated sweetener</a> that's <i>only</i> <a href='https://amzn.to/3SqwsMO'>monk fruit</a>.  This is hundreds of times sweeter than granulated <a href='/misc/hidden-sugar'>sugar</a> and it's typically recommended to use 1/8 tsp of <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a> to replace the sweetness of 1 cup of <a href='/misc/hidden-sugar'>sugar</a>.<br><br>
 
-  On the other hand, the latter, regular granulated monk fruit, is mostly erythritol with some monk fruit extract.  Erythritol is a sweet sugar alcohol that's about 70% as sweet as sugar, and measures similarly (both by weight and volume).  The monk fruit is there to add additional sweetness.  The result is something that measures gram for gram (and cup for cup) like granulated sugar with a similar sweetness.<br><br>
+  On the other hand, the latter, regular <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>, is a blend of mostly <a href='https://amzn.to/4lkg3Hr'>erythritol</a> with some <a href='https://amzn.to/3SqwsMO'>monk fruit</a> extract.  <a href='https://amzn.to/4lkg3Hr'>Erythritol</a> is a sweet <a href='/misc/fake-healthy-foods#sugar-substitutes'>sugar alcohol</a> that's about 70% as sweet as <a href='/misc/hidden-sugar'>sugar</a>, and measures similarly (both by weight and volume).  The <a href='https://amzn.to/3SqwsMO'>monk fruit</a> is there to add additional sweetness.  The result is something that measures gram for gram (and cup for cup) like granulated <a href='/misc/hidden-sugar'>sugar</a> with a similar sweetness.<br><br>
 
-  We are using the former here <i>pure granulated monk fruit</i> (monk fruit only), not the latter <i>regular granulated monk fruit</i> (erythritol + monk fruit).  Please do not confuse these.
+  We are using the former here <i><a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a></i> (<a href='https://amzn.to/3SqwsMO'>monk fruit</a> only), not the latter <i>regular <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a></i> (<a href='https://amzn.to/4lkg3Hr'>erythritol</a> + <a href='https://amzn.to/3SqwsMO'>monk fruit</a>).  Please do not confuse these.
 
-- As my oil of choice in the Pea Butter, I'm going with virgin coconut oil to match the coconut oil already being used in the fudge filling.
+- As my <a href='/misc/olive-oil'>oil</a> of choice in the <a href='/recipes/pea-butter'>Pea Butter</a>, I'm going with <a href='/misc/nuts#coconut'>virgin coconut oil</a> to match the <a href='/misc/nuts#coconut'>coconut oil</a> already being used in the fudge filling.
 ---

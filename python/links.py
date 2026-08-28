@@ -7497,6 +7497,7 @@ LINKS = {
 
 EXCLUDED_PHRASES = [
     "certainly be baking",
+    "oat layer",
     "lemon, lime, grapefruit, hot chocolate, and pumpkin spice",
     "tortilla into 96 chips",
     "wrap it",
