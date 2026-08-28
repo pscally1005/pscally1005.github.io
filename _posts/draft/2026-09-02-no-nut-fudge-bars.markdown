@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/no-nut-fudge-bars
 image: /assets/Food/Healthier Dessert/No Nut Fudge Bars/cover.jpg
 file: nonutfudgebars
-servingSize: 1 bar (~TODO g)
+servingSize: 1 bar (~44 g)
 section1: Base
 start2: Pea butter
 section2: Fudge
@@ -77,7 +77,7 @@ Instructions:
 - In another bowl, add the <a href='/recipes/pea-butter'>pea butter</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>. Mix with a <a href='https://amzn.to/40F2aK0'>spatula</a> to make the fudge.
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/fudge-bowl.jpg' alt='' class='instruction-image'>
 
-- In a lined <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a>, spread 2/3 of the oat mixture (~TODO g). Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking, flatten to an even thickness.
+- In a lined <a href='https://amzn.to/3YY2H9q'>9" square baking pan</a>, spread 2/3 of the oat mixture (~300 g). Wearing <a href='https://amzn.to/414BfHP'>kitchen gloves</a> to prevent sticking, flatten to an even thickness.
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/crumble-pan.jpg' alt='' class='instruction-image'>
 
 - Pour the fudge over the oat layer, and spread evenly to all sides.
