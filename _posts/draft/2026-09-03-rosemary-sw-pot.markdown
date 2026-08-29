@@ -50,18 +50,18 @@ tags:
 - onion powder
 - sides
 - yams
-Description: Vic has been making these delicious roasted rosemary sweet potatoes a lot lately, to the point where I knew I needed to take a crack at it.  They're soft, savory, sweet, and simple.  My secret is to start the sweet potatoes in the microwave, helping them stay moist and tender without drying out, while also cutting back on the roasting time.
+Description: <a href='/vic'>Vic</a> has been making these delicious roasted rosemary sweet potatoes a lot lately, to the point where I knew I needed to take a crack at it.  They're soft, savory, sweet, and simple.  My secret is to start the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> in the microwave, helping them stay moist and tender without drying out, while also cutting back on the roasting time.
 Instructions:
-- Preheat your oven to 400F, and line a large cookie sheet with parchment paper.
+- Preheat your oven to 400F, and line a large <a href='https://amzn.to/45sRAsB'>cookie sheet</a> with parchment paper.
 
-- Wash your sweet potatoes, and cut into a medium dice.  Add to a large glass bowl, cover with a plate, and microwave for 5 minutes.
+- Wash your <a href='/misc/veggies#sweet-potato'>sweet potatoes</a>, and cut into a medium dice.  Add to a <a href='https://amzn.to/4zyFnzN'>large glass bowl</a>, cover with a plate, and microwave for 5 minutes.
 
-- Add the steamed sweet potatoes to the pan, and season with rosemary, garlic, onion, salt, and pepper.
+- Add the steamed <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> to the pan, and season with rosemary, garlic, onion, salt, and pepper.
 
 - Roast at 400F for about 30 minutes, or until tender and browned.
 - <img src='/assets/Food/Sides/Rosemary Sw Pot/pan.jpg' alt='' class='instruction-image'>
 Notes:
-- Microwaving the sweet potatoes helps steam them before the go in the oven, quickly softening them and cutting down on cooking time.  Without microwaving the sweet potatoes beforehand, they may take upwards of an hour in the oven.  Not only does this take longer, but they're more prone to drying out.  Starting with the microwave is not only faster, but it leads to a softer sweet potato.
+- Microwaving the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> helps steam them before the go in the oven, quickly softening them and cutting down on cooking time.  Without microwaving the <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> beforehand, they may take upwards of an hour in the oven.  Not only does this take longer, but they're more prone to drying out.  Starting with the microwave is not only faster, but it leads to a softer <a href='/misc/veggies#sweet-potato'>sweet potato</a>.
 
-- I used 3 large yams here, each weighing about 1 pound (454 g).  I microwaved the diced sweet potatoes in 3 batches in a medium glass bowl, 1 batch per sweet potato of 5 minutes each.  As one was steaming in the microwave, I was chopping the other.
+- I used 3 large <a href='/misc/veggies#sweet-potato'>yams</a> here, each weighing about 1 pound (454 g).  I microwaved the diced <a href='/misc/veggies#sweet-potato'>sweet potatoes</a> in 3 batches in a <a href='https://amzn.to/4zyFnzN'>medium glass bowl</a>, 1 batch per <a href='/misc/veggies#sweet-potato'>sweet potato</a> of 5 minutes each.  As one was steaming in the microwave, I was chopping the other.
 ---
