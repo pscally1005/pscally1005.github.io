@@ -6132,7 +6132,8 @@ LINKS = {
         # "liquid stevia",
         # "liquid stevia/monk fruit",
         # "liquid monk fruit/stevia"
-        "monk fruit"
+        "monk fruit",
+        "monk fruit extract",
     ],
     "https://amzn.to/45wOzIv": [
         "liquid stevia"
@@ -7504,6 +7505,14 @@ LINKS = {
 EXCLUDED_PHRASES = [
     "certainly be baking",
     "oat layer",
+    "with some monk fruit extract",
+    "the monk fruit is there to add additional sweetness that the <a href='https://amzn.to/4lkg3Hr'>erythritol</a> lacks",
+    "the monk fruit is there to add additional sweetness that the erythritol lacks",
+    "(monk fruit only)",
+    "<a href='https://amzn.to/4lkg3Hr'>erythritol</a> + monk fruit",
+    "erythritol + monk fruit",
+    "the former is a granulated sweetener",
+    "<i>only</i> monk fruit",
     "lemon, lime, grapefruit, hot chocolate, and pumpkin spice",
     "tortilla into 96 chips",
     "wrap it",

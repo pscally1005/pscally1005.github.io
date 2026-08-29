@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Nutty Veggies
-date:   2026-08-22 00:00:00 -0500
+date:   2026-08-29 00:00:00 -0500
 categories:
 - Recipes
 - Meme Recipes
-- Draft
 showPercentage: vitMin
 hummus: no
 oatmeal: no
@@ -88,7 +87,7 @@ Description: |
 
   As such, you don't want to accidentally be falling into a <a href='/misc/fats'>low fat</a> diet, as adequate consumption of <a href='/misc/fats'>healthy fats</a> is imperative for <a href='/misc/diabetes'>blood sugar control</a>, hormone production, absorption of fat soluble <a href='/misc/nutrient-alphabet'>vitamins</a> (<a href='/misc/nutrient-alphabet#A'>A</a>, <a href='/misc/nutrient-alphabet#D'>D</a>, <a href='/misc/nutrient-alphabet#E'>E</a>, and <a href='/misc/nutrient-alphabet#K'>K</a>), and brain health.<br><br>
 
-  Introducing these "Nutty Veggies". It's essentially a bowl of <a href='/misc/calories'>low calorie</a> <a href='/misc/veggies'>veggies</a>, mixed with <a href='/misc/calories'>high calorie</a> <a href='/recipes/natural-peanut-butter'>nut butter</a>. I've gone with <a href='/misc/nuts#almonds'>almond butter</a> here today, but anything will work, such as <a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#cashews'>cashew</a>, <a href='/misc/nuts#pistachios'>pistachio</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, etc.<br><br>
+  Introducing these "Nutty Veggies". It's essentially a bowl of <a href='/misc/calories'>low calorie</a> <a href='/misc/veggies'>veggies</a>, mixed with <a href='/misc/calories'>high calorie</a> <a href='/recipes/natural-peanut-butter'>nut butter</a>. I've gone with <a href='/misc/nuts#almonds'>almond butter</a> here today, but anything will work, such as <a href='/misc/nuts#peanuts'>peanut</a>, <a href='/misc/nuts#cashews'>cashew</a>, <a href='/misc/nuts#pistachios'>pistachio</a>, <a href='/misc/seeds#sunflower-seeds'>sunflower seed</a>, <a href='/misc/seeds#sesame-seeds'>tahini</a>, etc.  You can even use my new homemade <a href='/recipes/pea-butter'>Pea Butter</a>.<br><br>
 
   These massive bowls are a fantastic source of <a href='/misc/fats'>healthy fats</a>, <a href='/misc/fiber'>fiber</a>, <a href='/misc/carbs'>complex starches</a>, <a href='/misc/protein'>protein</a>, <a href='/misc/nutrient-alphabet#E'>vitamin E</a>, <a href='/misc/calcium'>calcium</a>, <a href='/misc/nutrient-alphabet#C'>copper</a>, <a href='/misc/iron'>iron</a>, <a href='/misc/magnesium'>magnesium</a>, <a href='/misc/nutrient-alphabet#M'>manganese</a>, <a href='/misc/phosphorus'>phosphorus</a>, and <a href='/misc/nutrient-alphabet#Z'>zinc</a>.<br><br>
 
@@ -140,14 +139,16 @@ Notes:
     "nuttyveggiescashew",
     "nuttyveggiespistachio",
     "nuttyveggiessunflower",
-    "nuttyveggiestahini";
+    "nuttyveggiestahini",
+    "nuttyveggiespea";
 
-    "<a href='/misc/nuts#almonds'>Almond</a>",
-    "<a href='/misc/nuts#peanuts'>Peanut</a>",
-    "<a href='/misc/nuts#cashews'>Cashew</a>",
-    "<a href='/misc/nuts#pistachios'>Pistachio</a>",
-    "<a href='/misc/seeds#sunflower-seeds'>Sunflower<br>Seed</a>",
-    "<a href='/misc/seeds#sesame-seeds'>Tahini</a>";
+    "<a href='/misc/nuts#almonds'>Almond<br>Butter</a>",
+    "<a href='/misc/nuts#peanuts'>Peanut<br>Butter</a>",
+    "<a href='/misc/nuts#cashews'>Cashew<br>Butter</a>",
+    "<a href='/misc/nuts#pistachios'>Pistachio<br>Butter</a>",
+    "<a href='/misc/seeds#sunflower-seeds'>Sunflower<br>Seed<br>Butter</a>",
+    "<a href='/misc/seeds#sesame-seeds'>Tahini</a>",
+    "<a href='/recipes/pea-butter'>Pea<br>Butter</a>";
 
     "Calories",
     "Protein",

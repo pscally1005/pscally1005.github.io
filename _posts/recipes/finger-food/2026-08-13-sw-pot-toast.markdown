@@ -17,7 +17,7 @@ dressing: no
 brownie: no
 cookie: no
 copycat: no
-vic: yes
+vic: no
 protein_bar: no
 beans: no
 permalink: /recipes/sweet-potato-toast
