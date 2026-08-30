@@ -181,8 +181,12 @@ def vol_from_mass(food, mass, vol):
 
     # Cornstarch
     elif food == "Cornstarch":
-        if mass == "4":
+        if mass == "3":
+            v = "1 tsp"
+        elif mass == "4":
             v = "1/2 tbsp"
+        elif mass == "6":
+            v = "2 tsp"
         elif mass == "8":
             v = "1 tbsp"
         elif mass == "16":
@@ -671,7 +675,7 @@ def vol_from_mass(food, mass, vol):
     elif food == "Nutritional yeast" or food == "Cocoa powder" or food == "Carob powder" or food == "Cacao powder" or food == "Psyllium husks, whole":
         if mass == "2.5":
             v = "1/2 tbsp"
-        elif mass == "5":
+        elif mass == "5" or mass == "6":
             v = "1 tbsp"
         elif mass == "10":
             v = "2 tbsp"
@@ -960,7 +964,15 @@ def vol_from_mass(food, mass, vol):
 
     # Flours
     elif food == "Vital wheat gluten" or food == "Flour" or food == "All purpose flour" or food == "White flour" or food == "Whole wheat flour" or food == "Cornmeal" or food == "Panko breadcrumbs" or food == "Whole wheat breadcrumbs" or food == "Breadcrumbs" or food == "Millet flour" or food == "Chickpea flour" or food == "Coconut flour" or food == "Grated parmesan cheese" or food == "Cornstarch" or food == "Unsweetened coconut flakes":
-        if mass == "15":
+        if mass == "2.5" or mass == "3":
+            v = "1 tsp"
+        elif mass == "3.75" or mass == "3.5" or mass == "4":
+            v = "1/2 tbsp"
+        elif mass == "5" or mass == "6":
+            v = "2 tsp"
+        elif mass == "7.5":
+            v = "1 tbsp"
+        elif mass == "15":
             v = "2 tbsp"
         elif mass == "22.5":
             v = "3 tbsp"
@@ -1461,8 +1473,12 @@ def vol_from_mass(food, mass, vol):
 
     # Almond flour
     elif food == "Almond flour" or food == "Almond flour, or oat flour" or food == "Almond flour, or oat" or food == "Almond flour (or whole nuts)":
-        if mass == "3.5":
+        if mass == "2" or mass == "2.5":
+            v = "1 tsp"
+        elif mass == "3.5":
             v = "1/2 tbsp"
+        elif mass == "4" or mass == "5" or mass == "6":
+            v = "2 tsp"
         elif mass == "7":
             v = "1 tbsp"
         elif mass == "10.5":
@@ -1591,7 +1607,7 @@ def vol_from_mass(food, mass, vol):
     elif food == "Ground flaxseed":
         if mass == "3.25":
             v = "1/2 tbsp"
-        elif mass == "6.5":
+        elif mass == "6.5" or mass == "6":
             v = "1 tbsp"
         elif mass == "9.75":
             v = "1 1/2 tbsp"

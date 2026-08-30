@@ -2817,7 +2817,8 @@ LINKS = {
         "seed butter",
         "'nut' butter",
         "pb",
-        "peanut buttery"
+        "peanut buttery",
+        "peanut butter"
     ],
     "/recipes/monkfruit-chocolate-chunks": [
         # "sugar free chocolate chips",
@@ -4809,7 +4810,7 @@ LINKS = {
         "macadamia nut"
     ],
     "/misc/nuts#peanuts": [
-        "peanut butter",
+        # "peanut butter",
         "peanuts",
         "peanut"
     ],
@@ -9495,7 +9496,7 @@ def main():
                 continue
 
             # optional filename filter (keep or remove)
-            if not file.startswith(("2026-09-03")):
+            if not file.startswith(("2026-09-01")):
                 continue
 
             # exclude some files

@@ -61,11 +61,40 @@ Instructions:
 Notes:
 - I'm using <a href='/misc/olive-oil'>EVOO</a>, but any other <a href='/misc/olive-oil'>oil</a>, like <a href='/misc/nuts#coconut'>virgin coconut oil</a> or avocado oil would work here.
 
-- Here I spread some <a href='#recipe'>pea butter</a> on a <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbread</a> for a quick snack.
-- <img src='/assets/Food/Meme/Pea Butter/flatbread.jpg' alt='' class='instruction-image'>
+# - Here I spread some <a href='#recipe'>pea butter</a> on a <a href='/recipes/sourdough-flatbread'>Sourdough Discard Flatbread</a> for a quick snack.
+# - <img src='/assets/Food/Meme/Pea Butter/flatbread.jpg' alt='' class='instruction-image'>
 
 - <a href='#recipe'>This recipe</a> makes exactly 2 tbsp (32 g) of <a href='#recipe'>pea butter</a> to perfectly replicate a 2 tbsp (32 g) serving of <a href='/recipes/natural-peanut-butter'>peanut butter</a>.  Simply scale this recipe up by x8 to replace 1 cup (256 g) of <a href='/recipes/natural-peanut-butter'>peanut butter</a>.  The recipe to replicate 1 cup (256 g) of <a href='/recipes/natural-peanut-butter'>nut butter</a> is below.
 - INGREDIENTS(peabuttercup)
+
+- |
+  I prefer <a href='/misc/grains#oats'>oat flour</a> because of it's nutty flavor, as well as it's slightly coarse texture, making it feel like a <a href='/recipes/natural-peanut-butter'>homemade nut butter</a>, halfway between creamy and crunchy.  <a href='/misc/grains#oats'>Oat flour</a> also provides nearly identical amounts of <a href='/misc/carbs'>net carbs</a> to make this <a href='/copycat'>copycat</a> <a href='/recipes/natural-peanut-butter'>nut butter</a> match a standard <a href='/misc/nuts#peanuts'>peanut butter</a>.<br><br>
+
+  Other options besides <a href='/misc/grains#oats'>oat flour</a> though include <a href='/misc/nuts#almonds'>almond flour</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, <a href='/misc/seeds#flax-seeds'>ground flaxseed</a>, cornstarch, or even <a href='/misc/chocolate-benefits'>cocoa powder</a>.  Just make sure to use <b>6 g</b> of each (volume may vary).
+# - |
+#   COMPARE(
+#     "peabutter",
+#     "peabutteralmond",
+#     "peabuttercoconut",
+#     "peabutterflax",
+#     "peabuttercornstarch",
+#     "peabuttercocoa";
+
+#     "<a href='/misc/grains#oats'>Oat<br>Flour</a>",
+#     "<a href='/misc/nuts#almonds'>Almond<br>Flour</a>",
+#     "<a href='/misc/nuts#coconut'>Coconut<br>Flour</a>",
+#     "<a href='/misc/seeds#flax-seeds'>Ground<br>Flax</a>",
+#     "Corn<br>Starch",
+#     "<a href='/misc/chocolate-benefits'>Cocoa<br>Powder</a>";
+
+#     "Calories",
+#     "Protein",
+#     "Fat",
+#     "Net Carbs",
+#     "Fiber",
+#     "Sodium",
+#     "Potassium"
+#   )
 
 - Below is a nutritional comparison of <a href='#recipe'>this pea butter</a> to <a href='/recipes/natural-peanut-butter'>natural peanut butter</a>, per 2 tbsp (32 g).  As you can see, they're virtually identical.
 - |
