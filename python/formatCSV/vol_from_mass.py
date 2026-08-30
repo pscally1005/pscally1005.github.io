@@ -408,13 +408,15 @@ def vol_from_mass(food, mass, vol):
             v = "6 medium"
 
     # Frozen fruit
-    elif food == "Frozen blueberries" or food == "Frozen cherries":
+    elif food == "Frozen blueberries" or food == "Frozen cherries" or food == "Watermelon" or food == "Grapes":
         if mass == "75":
             v = "75"
         elif mass == "150":
             v = "1 cup"
         elif mass == "225":
             v == "1 1/2 cup"
+        elif mass == "900":
+            v = "6 cup"
 
     # Acai
     elif food == "Frozen acai puree":

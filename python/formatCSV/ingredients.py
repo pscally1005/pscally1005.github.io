@@ -445,6 +445,10 @@ def ingredients(food):
         f = "Skim milk"
 
     # Fresh produce
+    elif food == "Watermelon, raw":
+        f = "Watermelon"
+    elif food == "Grapes, raw, red or green (European type, such as Thompson seedless)":
+        f = "Grapes"
     elif food == "Blueberries, raw":
         f = "Blueberries"
     elif food == "Radishes, raw":
