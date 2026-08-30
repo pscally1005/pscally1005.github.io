@@ -65,6 +65,7 @@ tags:
 - granulated monk fruit
 - pure monk fruit
 - emerge
+- scrunch
 Description: Homemade electrolyte powder!  This is a bulk base recipe of electrolytes (<a href='/misc/magnesium'>magnesium</a>, <a href='/misc/potassium'>potassium</a>, and <a href='/misc/sodium'>sodium</a>) with added sugar-free sweetener (<a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>).  <a href='#notes'>Below</a> are different flavor options, such as lemon, lime, grapefruit, hot chocolate, and pumpkin spice!
 Instructions:
 - Mix together <a href='/misc/sodium'>sodium</a>, <a href='/misc/potassium'>potassium</a>, <a href='/misc/magnesium'>magnesium</a>, and <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a> in a <a href='https://amzn.to/4vamaBm'>mason jar</a>.
