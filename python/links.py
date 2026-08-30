@@ -16,7 +16,8 @@ LINKS = {
         "three ingredient watermelon sorbet",
         "grape sorbet",
         "3 ingredient grape sorbet",
-        "three ingredient grape sorbet"
+        "three ingredient grape sorbet",
+        "sorbet"
     ],
     "/recipes/rosemary-sweet-potatoes": [
         "rosemary sweet potatoes",
