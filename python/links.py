@@ -2816,7 +2816,8 @@ LINKS = {
         "nut butter",
         "seed butter",
         "'nut' butter",
-        "pb"
+        "pb",
+        "peanut buttery"
     ],
     "/recipes/monkfruit-chocolate-chunks": [
         # "sugar free chocolate chips",
