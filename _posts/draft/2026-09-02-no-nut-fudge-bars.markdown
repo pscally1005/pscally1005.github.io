@@ -72,7 +72,7 @@ Description: |
   The result is an astoundingly similar tasting bar but without the <a href='/misc/nuts'>nuts</a>, and with the added benefit of being <a href='/misc/hidden-sugar'>sugar free</a>, thus lower in <a href='/misc/carbs'>net carbs</a>, <a href='/misc/calories'>calories</a>, and its <a href='/misc/diabetes'>glycemic index</a>.  Woo-hoo!
 Instructions:
 - In a bowl, combine together the crust/crumble ingredients - mashed <a href='/misc/fruit#banana'>banana</a>, <a href='https://amzn.to/43MkDqr'>vanilla</a>, <a href='https://amzn.to/3SqwsMO'>liquid monk fruit</a>, <a href='/misc/nuts#coconut'>coconut flour</a>, and <a href='/misc/grains#oats'>rolled oats</a>. Mix until well combined with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a>.
-- <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/crumble-bowl.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/crumble-bowl-new.jpg' alt='' class='instruction-image'>
 
 - In another bowl, add the <a href='/recipes/pea-butter'>pea butter</a>, melted <a href='/misc/nuts#coconut'>coconut oil</a>, <a href='/misc/chocolate-benefits'>cocoa powder</a>, and <a href='https://amzn.to/3Sg1Z7p'>pure granulated monk fruit</a>. Mix with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> to make the fudge.
 - <img src='/assets/Food/Healthier Dessert/No Nut Fudge Bars/fudge-bowl.jpg' alt='' class='instruction-image'>
