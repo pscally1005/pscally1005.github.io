@@ -24,7 +24,7 @@ beans: no
 permalink: /recipes/rosemary-sweet-potatoes
 image: /assets/Food/Sides/Rosemary Sw Pot/cover.jpg
 file: rosemaryswpot
-servingSize:
+servingSize: ~3/4 cup (~162 g)
 section1:
 start2:
 section2:
