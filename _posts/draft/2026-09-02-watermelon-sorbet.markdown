@@ -56,9 +56,11 @@ Instructions:
 - <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/cut.jpg' alt='' class='instruction-image'>
 
 - The following morning, add your frozen <a href='/misc/fruit#watermelon'>watermelon</a> to a <a href='https://amzn.to/4q0AUjI'>food processor</a> with <a href='/misc/fruit#lime-juice'>lime juice</a> (or <a href='/misc/fruit#lemon-juice'>lemon juice</a>) and salt. Blend until you have a smooth sorbet.
-- <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/processor.jpg' alt='' class='instruction-image'>
+# - <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/processor-before.jpg' alt='' class='instruction-image'>
+- <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/processor-after.jpg' alt='' class='instruction-image'>
 
 - Transfer to an airtight container, and store in the freezer. Let it sit out for about 5 minutes prior to serving.
+- <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/container.jpg' alt='' class='instruction-image'>
 Notes:
 - Optionally add some sweetener to taste.  Below are some options:<b></b>
 - INGREDIENTS(sorbetsweeteners)
