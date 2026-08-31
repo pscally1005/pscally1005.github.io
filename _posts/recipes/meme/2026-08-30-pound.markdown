@@ -57,7 +57,7 @@ tags:
 - cottage cheese
 Description: Traditional pound cake gets its name because it contains a pound each of <a href='/misc/meat#eggs'>eggs</a>, <a href='/misc/hidden-sugar'>sugar</a>, <a href='/misc/dairy#butter'>butter</a>, and <a href='/misc/grains#white-wheat'>flour</a>. So naturally, I made a healthy one. A quarter pound of each ingredient. Because apparently that's how math works.
 Instructions:
-- Preheat your oven to 350F, and line a <a href='https://amzn.to/3Ffts2R'>small glass meal prep container</a> (mine are 6.2" x 4.5") with parchment paper .  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>
+- Preheat your oven to 350F, and line a <a href='https://amzn.to/3Ffts2R'>small glass meal prep container</a> (mine are 6.2" x 4.5") with parchment paper .  Lightly <a href='https://amzn.to/3Hdg0gk'>spray the paper with oil</a>.
 
 - Beat your <a href='/misc/meat#eggs'>egg</a> in a <a href='https://amzn.to/4zyFnzN'>large bowl</a>. Whisk with the <a href='https://amzn.to/4ceFnvP'>granulated monk fruit</a>. Whisk in the <a href='/misc/dairy#cottage-cheese'>cottage cheese</a>. Mix in the <a href='/misc/grains#whole-wheat'>whole wheat flour</a> with a <a href='https://amzn.to/40F2aK0'>silicone spatula</a> until just fully combined.
 - <img src='/assets/Food/Meme/Pound/bowl.jpg' alt='' class='instruction-image'>

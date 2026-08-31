@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  Rosemary Sweet Potatoes
-date:   2026-08-29 00:00:00 -0500
+date:   2026-08-31 00:00:00 -0500
 categories:
 - Recipes
 - Sides
-- Draft
 showPercentage: no
 hummus: no
 oatmeal: no
