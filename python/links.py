@@ -6590,7 +6590,8 @@ LINKS = {
         "slow cooked",
         "slowcooker",
         "crockpot",
-        "crock pot"
+        "crock pot",
+        "slow cook"
     ],
     "https://amzn.to/4q3nlQz": [
         "mandoline"

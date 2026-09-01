@@ -50,17 +50,19 @@ tags:
 - overnight oats
 - savory oats
 Description: |
-  Similar to my Slow Cooker Dried Beans recipe, I'm using a simple soak and slow cook method for an easy carb side.  This up is rolled oats, which can make a delicious side or base to any meal, sweet or savory.<br><br>
+  Similar to my <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a> recipe, I'm using a simple soak and <a href='https://amzn.to/49TUS9E'>slow cook</a> method for an easy <a href='/misc/carbs'>carb</a> <a href='/recipes/sides'>side</a>.  This time it's <a href='/misc/grains#oats'>rolled oats</a>, which can make a delicious <a href='/recipes/sides'>side</a> or base to any meal, sweet or savory.<br><br>
 
-  Don't just think of oatmeal as a sweet breakfast.  Sure, oats are great when mixed with Greek yogurt and nuts.  But this tasty and nutritious grain can go so much further.<br><br>
+  Don't just think of <a href='/oatmeal'>oatmeal</a> as a sweet <a href='/recipes/breakfast'>breakfast</a>.  Sure, <a href='/misc/grains#oats'>oats</a> are great when mixed with <a href='/misc/dairy#yogurt'>Greek yogurt</a> and <a href='/nut-butter'>nut butter</a>.  But this tasty and nutritious <a href='/misc/grains'>grain</a> can go so much further.<br><br>
 
-  Try replacing the brown rice or quinoa in any of your slop bowls with cooked oats, or use oats in Congee in place of brown rice.  You can even make great risottos using oats, just see my Butternut Squash RisOATto.  Brown rice, quinoa, rolled oats, barley, bulgur, etc. are all nutritious whole grains.  Mix and match with whatever you got!
+  Try replacing the <a href='/misc/grains#brown-rice'>rice</a> or <a href='/misc/grains#quinoa'>quinoa</a> in any of your slop bowls with cooked <a href='/misc/grains#oats'>oats</a>, or use <a href='/misc/grains#oats'>oats</a> in <a href='/recipes/congee'>Congee</a> in place of <a href='/misc/grains#brown-rice'>rice</a>.<br><br>
+
+  You can even make great a risotto alternative using <a href='/misc/grains#oats'>oats</a>, just see my <a href='/recipes/butternut-squash-risotto'>Butternut Squash RisOATto</a>.  <a href='/misc/grains#brown-rice'>Brown rice</a>, <a href='/misc/grains#quinoa'>quinoa</a>, <a href='/misc/grains#oats'>rolled oats</a>, <a href='/misc/grains#barley'>barley</a>, <a href='/misc/grains#bulgur'>bulgur</a>, etc. are all nutritious <a href='/misc/grains'>whole grains</a>.  Mix and match with whatever you got!
 Instructions:
-- Add oats to a medium bowl with water and salt.  Cover and refrigerate for 4 hours.
+- Add <a href='/misc/grains#oats'>oats</a> to a <a href='https://amzn.to/4zyFnzN'>medium bowl</a> with water and salt.  Cover and refrigerate for 4 hours.
 
-- Transfer the oats and all soaking liquid to a large slow cooker.  Cover and cook on low for 2 hours, or until creamy and most of the water has been absorbed.
+- Transfer the <a href='/misc/grains#oats'>oats</a> and all soaking liquid to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a>.  Cover and cook on low for 2 hours, or until creamy and most of the water has been absorbed.
 Notes:
-- 1 lb (454 g) of raw rolled oats is equivalent to approximately 5 1/2 cups.
+- 1 lb (454 g) of raw <a href='/misc/grains#oats'>rolled oats</a> is approximately 5 1/2 cups.
 
-- Rolled oats absorb a ton of liquid, and can already be eaten raw.  As such, these take significantly less time to make compared to the beans in my Slow Cooker Dried Beans.  While the beans soak and cook for 8 hours each, the oats only need to soak for 4 hours and cook for 2 hours.
+- <a href='/misc/grains#oats'>Rolled oats</a> absorb a ton of liquid, and can already be eaten raw.  As such, these take significantly less time to make compared to the <a href='/misc/beans'>beans</a> in my <a href='/recipes/slow-cooked-beans'>Slow Cooker Dried Beans</a>.  While the <a href='/misc/beans'>beans</a> soak and cook for 8 hours each, the <a href='/misc/grains#oats'>oats</a> only need to soak for 4 hours and cook for 2 hours.
 ---
