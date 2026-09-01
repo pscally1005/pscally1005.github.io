@@ -531,7 +531,7 @@ def grams(food, mass, vol):
         elif vol == "1 tbsp":
             m = "14"
         elif vol == "2 tbsp":
-            m = "27"
+            m = "28"
         elif vol == "3 tbsp":
             m = "41"
         elif vol == "4 tbsp" or vol == "1/4 cup":
