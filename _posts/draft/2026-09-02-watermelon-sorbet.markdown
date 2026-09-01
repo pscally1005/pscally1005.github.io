@@ -50,7 +50,7 @@ tags:
 - grapes
 - lemon juice
 - lime juice
-Description: Summer may be winding down, but there's still time for tasty and healthy refreshing <a href='/recipes/healthier-dessert'>dessert</a>.  On the menu for today is Watermelon Sorbet, make with only 3 ingredients:<b></b> <a href='/misc/fruit#watermelon'>watermelon</a>, <a href='/misc/fruit#lime-juice'>lime juice</a>, and salt.  Similar to <a href='/recipes/nice-cream'>Banana Nice Cream</a>, if you blend frozen <a href='/misc/fruit#watermelon'>watermelon</a>, you can get a great <a href='/misc/calories'>low calorie</a>, <a href='/misc/hidden-sugar'>sugar free</a>, and <a href='/misc/fats'>fat free</a> sorbet!
+Description: Summer may be winding down, but there's still time for tasty and healthy refreshing <a href='/recipes/healthier-dessert'>desserts</a>.  On the menu for today is Watermelon Sorbet, make with only 3 ingredients:<b></b> <a href='/misc/fruit#watermelon'>watermelon</a>, <a href='/misc/fruit#lime-juice'>lime juice</a>, and salt.  Similar to <a href='/recipes/nice-cream'>Banana Nice Cream</a>, if you blend frozen <a href='/misc/fruit#watermelon'>watermelon</a>, you can get a great <a href='/misc/calories'>low calorie</a>, <a href='/misc/hidden-sugar'>sugar free</a>, and <a href='/misc/fats'>fat free</a> sorbet!
 Instructions:
 - Cut your <a href='/misc/fruit#watermelon'>watermelon</a> into 1" cubes. Add to an airtight container or bag. Freeze overnight.
 - <img src='/assets/Food/Healthier Dessert/Watermelon Sorbet/cut.jpg' alt='' class='instruction-image'>
