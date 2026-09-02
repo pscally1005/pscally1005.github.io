@@ -56,11 +56,11 @@ tags:
 - slow cooker
 - crockpot
 Description: |
-  Ratatouille is a great way to use up any leftover eggplant and zucchini from the summer.  It's a simple stew of vegetables, tomatoes, and spices that I've actually already done before; check out my Simple Ratatouille Stew.  That recipe uses your Dutch oven for a combination of sauteeing on the stove and baking in the oven.<br><br>
+  <a href='/recipes/ratatouille'>Ratatouille</a> is a great way to use up any leftover <a href='/misc/veggies#eggplant'>eggplant</a> and <a href='/misc/veggies#zucchini'>zucchini</a> from the summer.  It's a simple <a href='/soups-and-stews'>stew</a> of <a href='/misc/veggies'>vegetables</a>, <a href='/misc/veggies#tomato'>tomatoes</a>, and spices that I've actually already done before; check out my <a href='/recipes/ratatouille'>Simple Ratatouille Stew</a>.  That recipe uses your <a href='https://amzn.to/3LNGdVy'>Dutch oven</a> for a combination of sauteeing on the stove and baking in the oven.<br><br>
 
-  But today, I'm making it even simpler.  I'm letting my slow cooker do all the work for me.  Just add raw veggies with a can of tomatoes and some spices in the morning, and check back at dinner time.
+  But today, I'm making it even simpler.  I'm letting my <a href='https://amzn.to/49TUS9E'>slow cooker</a> do all the work for me.  Just add raw <a href='/misc/veggies'>veggies</a> with a can of <a href='/misc/veggies#tomato'>tomatoes</a> and some spices in the morning, and check back at dinner time.
 Instructions:
-- Cut your zucchini and eggplant into large chunks, and add to a large slow cooker with crushed tomatoes, basil, oregano, salt, and pepper.
+- Cut your <a href='/misc/veggies#zucchini'>zucchini</a> and <a href='/misc/veggies#eggplant'>eggplant</a> into large chunks, and add to a <a href='https://amzn.to/49TUS9E'>large slow cooker</a> with <a href='/misc/veggies#tomato'>crushed tomatoes</a>, basil, oregano, salt, and pepper.
 - <img src='/assets/Food/Sides/Slow Cook Ratatouille/raw.jpg' alt='' class='instruction-image'>
 
 - Cover and cook on low for about 10 hours, or until soft and bubbly.
